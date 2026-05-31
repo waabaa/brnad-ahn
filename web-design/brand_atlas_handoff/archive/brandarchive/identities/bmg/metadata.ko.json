@@ -1,0 +1,110 @@
+{
+  "출처": "Brand Archive",
+  "브랜드명": "BMG",
+  "슬러그": "bmg",
+  "원본URL": "https://brandarchive.xyz/identity/bmg",
+  "연도": 2025,
+  "디자이너": [
+    "Wolff Olins"
+  ],
+  "소속컬렉션": {
+    "이름": "Designed by Wolff Olins",
+    "슬러그": "wolff-olins"
+  },
+  "PRO잠금여부": true,
+  "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음",
+  "상세정보": {
+    "브랜드명": "BMG",
+    "디자이너": "Wolff Olins",
+    "연도": "2025",
+    "태그": "",
+    "섹션": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets."
+    ],
+    "컬러": [],
+    "서체정보": null,
+    "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+  },
+  "다운로드설정": "이미지만 저장",
+  "에셋요약": {
+    "전체에셋수": 17,
+    "이미지수": 8,
+    "영상수": 9,
+    "이번에저장한파일수": 8
+  },
+  "에셋": [
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_02 copyl.png",
+      "MIME": "image/png",
+      "너비": 3840,
+      "높이": 2560,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/17466c5f10fe84b1e40b6a1cdea9e1cc3e6943c8-3840x2560.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\001-WolffOlins_BMG_02-copyl.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_02 copy.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3840,
+      "높이": 2560,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/2d1f4902dac00c574c06efefc2a5b02ff87a5337-3840x2560.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\002-WolffOlins_BMG_02-copy.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_04.png",
+      "MIME": "image/png",
+      "너비": 2250,
+      "높이": 3000,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/267d5d49efe1bb5c0fb3ad5f11af603c098e3000-2250x3000.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\003-WolffOlins_BMG_04.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_08.png",
+      "MIME": "image/png",
+      "너비": 1470,
+      "높이": 1960,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/40703bda97c19f94acc3a2c380268f3b470a9029-1470x1960.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\004-WolffOlins_BMG_08.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_12.png",
+      "MIME": "image/png",
+      "너비": 1879,
+      "높이": 2505,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/4ce0dbc4d87816b81adbf007670743d1ac6c3e78-1879x2505.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\005-WolffOlins_BMG_12.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_13.png",
+      "MIME": "image/png",
+      "너비": 2205,
+      "높이": 2940,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/151790f7ce39710715cc7848ef3f7cd83340035b-2205x2940.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\006-WolffOlins_BMG_13.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_14.png",
+      "MIME": "image/png",
+      "너비": 3840,
+      "높이": 2560,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/ed11186db1d0b7d9d226ae115a398c5d36ec72c7-3840x2560.png",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\007-WolffOlins_BMG_14.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "WolffOlins_BMG_18.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1470,
+      "높이": 1960,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/a728bd12ee69d3bbdb44aba270694fbad80e58e5-1470x1960.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\bmg\\assets\\008-WolffOlins_BMG_18.jpg"
+    }
+  ]
+}

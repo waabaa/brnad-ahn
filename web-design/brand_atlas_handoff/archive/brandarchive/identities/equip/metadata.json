@@ -1,0 +1,279 @@
+{
+  "source": "brandarchive",
+  "name": "Equip",
+  "slug": "equip",
+  "url": "https://brandarchive.xyz/identity/equip",
+  "year": 2026,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Wedge",
+    "slug": "designed-by-wedge"
+  },
+  "designers": [
+    "Wedge"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/43c16ffee47e4e83e181e9e47718bab6a5f0a1af-3000x2000.jpg",
+      "filename": "69951a193f374d78f3096928_wedge-equip-Model+Logo copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\001-69951a193f374d78f3096928_wedge-equip-Model+Logo-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ebe37540aea8769e598e1f1634fe92c7b6d2b948.mp4",
+      "filename": "wedge-equip-copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2ebc116d68bfc202277c73de65aa65f6b600972c.mp4",
+      "filename": "wedge-equip-grid.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/30b487c54dfaeeee3f24fca9c12987c1f0c8d9f6.mp4",
+      "filename": "wedge-equip-nature.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a4b573d3b8de521174a32b8dccbfc01812ea792f.mp4",
+      "filename": "wedge-equip-packsystem.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ea1e6674d13cbbdf8f2c271e5745905dbe8b0df-1500x2000.webp",
+      "filename": "69951a19bb58cf961e042c54_wedge-equip-ProductFence.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\002-69951a19bb58cf961e042c54_wedge-equip-ProductFence.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eecade605cd4afa93fe3cb7354af6d5b0964c6de-1500x2000.webp",
+      "filename": "69951a191a5f3885cdceda49_wedge-equip-Mom+KidBlanket.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\003-69951a191a5f3885cdceda49_wedge-equip-Mom+KidBlanket.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7f4acac21b136da44bd05316e96789dc801d564-1500x2000.webp",
+      "filename": "69951a193b7558fb6053be5f_wedge-equip-Mom+Kid.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\004-69951a193b7558fb6053be5f_wedge-equip-Mom+Kid.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f0b46e7f3787dde03c3746a2819b3f779b15113-1500x2000.webp",
+      "filename": "69951a194d87e16dab6911a0_wedge-equip-Cow+Fence.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\005-69951a194d87e16dab6911a0_wedge-equip-Cow+Fence.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a1e36cb1ca5912a551d4d3cf3901a57f35b222c9-1500x2000.webp",
+      "filename": "69951a1840be65b0fc038ff2_wedge-equip-BarInPocket.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\006-69951a1840be65b0fc038ff2_wedge-equip-BarInPocket.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/83497b97001cf7faad81cacca1c2647628f83f26-1500x2000.webp",
+      "filename": "69951a1925ce195babfcd649_wedge-equip-Cow.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\007-69951a1925ce195babfcd649_wedge-equip-Cow.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3edfb1ff1ef35188f8dbd3b706fab72615152791-1500x2000.webp",
+      "filename": "69951a191a5f3885cdceda60_wedge-equip-Product+Table.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\008-69951a191a5f3885cdceda60_wedge-equip-Product+Table.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05640d1ca270f13147aef293cb6ae20d1a6d21b5-1440x1920.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\009-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ee186a87ec3c530a41b28b5893c33a5747ee0f3-1440x1920.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\010-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1ddbbc49ca981445c0abb6c71c86c62d6741f2d9-1440x1920.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\011-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7c2985ffa1a677f2bba17d3f0352fe5dc183648f-1440x1920.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\012-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/743b8b2665ac3594f286eccd9a7e293f7985d228-1440x1920.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\013-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f4236957ca978f6f597aac87dc1d584eaf70f291-1440x1920.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\014-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/65b6fc9a4fa20e8a50a945a25210d8932fe7bec0-1440x1920.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\015-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5c78344827275caae31a7627924482aeace197eb-1500x2000.webp",
+      "filename": "69951a19b3a5df6ec782eeaa_wedge-equip-Product+Model.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\016-69951a19b3a5df6ec782eeaa_wedge-equip-Product+Model.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cdf9f423250efd5179c056f2890758991b0ce8bf-1500x2000.webp",
+      "filename": "69951a19cbfde27fe7d88e21_wedge-equip-ProductOnHead.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\017-69951a19cbfde27fe7d88e21_wedge-equip-ProductOnHead.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d3c15e7606b1fa9c96eb1eee4254c4d4d171f24-1500x2000.webp",
+      "filename": "69951a19ced84192dd6230a0_wedge-equip-Product+FenceCloseUp.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\018-69951a19ced84192dd6230a0_wedge-equip-Product+FenceCloseUp.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5b2902166fdb08c7c22e1176fb9f87e13729687-1500x2000.webp",
+      "filename": "69951a19d43dccb11f01f185_wedge-equip-barpacks.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\019-69951a19d43dccb11f01f185_wedge-equip-barpacks.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b024c54c15fd2bccf64f88975b85ab0ab9a658ec-3000x2000.webp",
+      "filename": "69951a19f938e5d1c45a8124_wedge-equip-pantry.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\020-69951a19f938e5d1c45a8124_wedge-equip-pantry.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9179b865c9e05e72cd22d3a0370fa3b8752e4a32-1500x2000.webp",
+      "filename": "69951a184d1f07a9aaafcacc_wedge-equip-jars.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\021-69951a184d1f07a9aaafcacc_wedge-equip-jars.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6948d5133d0182f86705fbff047d93805ad50b9f-3000x2000.webp",
+      "filename": "69951a18257b7e1b7bf6e6ee_wedge-equip-Bar.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\022-69951a18257b7e1b7bf6e6ee_wedge-equip-Bar.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eaef689aa7b2010472550ded34f517683542b61e-1500x2000.webp",
+      "filename": "69951a196761a8e9abec880a_wedge-equip-Toast.webp",
+      "mimeType": "image/webp",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\equip\\assets\\023-69951a196761a8e9abec880a_wedge-equip-Toast.webp"
+    }
+  ],
+  "rawId": "11140357-1202-4bc3-900b-f6eef474944b",
+  "detail": {
+    "title": "Equip",
+    "designersText": "Wedge",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 27 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Equip",
+      "디자이너": "Wedge",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 27 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

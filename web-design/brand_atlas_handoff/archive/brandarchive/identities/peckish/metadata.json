@@ -1,0 +1,175 @@
+{
+  "source": "brandarchive",
+  "name": "Peckish",
+  "slug": "peckish",
+  "url": "https://brandarchive.xyz/identity/peckish",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Digital Products & Services",
+    "slug": "digital-product-brands"
+  },
+  "designers": [
+    "Someone"
+  ],
+  "assetCount": 15,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/300f21f68130eb27a474a4efaac90953a9834010-1500x1000.jpg",
+      "filename": "03_Peckish_Logo copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\001-03_Peckish_Logo-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7be8f9c112c8c16dca03ce5fb92b61dcdf57ab2f-8000x4500.png",
+      "filename": "1721980404-co-op_1080x1080_font.png",
+      "mimeType": "image/png",
+      "width": 8000,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\002-1721980404-co-op_1080x1080_font.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c3252f00b06b9b1992ba77662bdd968a04af144-2048x1150.webp",
+      "filename": "1997012240-114a05b0ebc8888aae2daf11fd76a27d9164147be9eb051c40dbb6f35d2e2ebd-d.webp",
+      "mimeType": "image/webp",
+      "width": 2048,
+      "height": 1150,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\003-1997012240-114a05b0ebc8888aae2daf11fd76a27d9164147be9eb051c40dbb6f35d2e2ebd-d.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ace86720ad4f0d2772030a10e4075ef0ae73b6d6.mp4",
+      "filename": "03_Peckish_Logo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6f92a3ca05ccb21ccc7bd6cb96582daf01424b1c-2048x1536.jpg",
+      "filename": "Peckish_PR15-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\004-Peckish_PR15-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f4bfa1b4fa60c676627fcb7a7d937fc1912736c-2048x1536.jpg",
+      "filename": "Peckish_PR18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\005-Peckish_PR18.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/494a726d9af049df6a005fd0cf9924d0e5c653a0-2048x1536.jpg",
+      "filename": "Peckish_PR13-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\006-Peckish_PR13-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73cf05990d397ca81f88aad7af082e97a18df747-2048x1536.jpg",
+      "filename": "Peckish_PR14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\007-Peckish_PR14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/033a101a2dbfc0a49b3e5bd254eab10d672386f3-2048x1536.jpg",
+      "filename": "Peckish_PR17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\008-Peckish_PR17.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1ff199c35f3ab8af7ce8ed86c5884a3889527833-2048x1536.jpg",
+      "filename": "Peckish_PR19.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\009-Peckish_PR19.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/79aaf4d5ad8422481a1abad381b3e5f66f2c5d76-2048x1536.jpg",
+      "filename": "Peckish_PR20.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\010-Peckish_PR20.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/48469c5ab6f9e8124e36affb772befddd4e355bd.mp4",
+      "filename": "01_Peckish_Hero_Video.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0f0794c63fd236d239a08cd745270c937917ea4-2048x1365.jpg",
+      "filename": "Peckish_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1365,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\011-Peckish_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6f0516db967c36d67746fad24025056b837c3ae0-2048x1536.jpg",
+      "filename": "Peckish_PR4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\012-Peckish_PR4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/670711a49501102a7107656c4fdee0f5ff406aa7-2048x1536.jpg",
+      "filename": "Peckish_PR7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\peckish\\assets\\013-Peckish_PR7.jpg"
+    }
+  ],
+  "rawId": "63d71a34-3d99-4fe1-aa9f-0ee1a908f352",
+  "detail": {
+    "title": "Peckish",
+    "designersText": "Someone",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 18 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Peckish",
+      "디자이너": "Someone",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 18 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

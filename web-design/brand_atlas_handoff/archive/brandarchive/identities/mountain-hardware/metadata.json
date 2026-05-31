@@ -1,0 +1,425 @@
+{
+  "source": "brandarchive",
+  "name": "Mountain Hardware",
+  "slug": "mountain-hardware",
+  "url": "https://brandarchive.xyz/identity/mountain-hardware",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Gretel",
+    "slug": "designed-by-gretel"
+  },
+  "designers": [
+    "Gretel"
+  ],
+  "assetCount": 37,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a8c190214d35f3d8dfdce139306b676655d4e6fd-2500x1572.jpg",
+      "filename": "01-MHW-Box_Tent-Final.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1572,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\001-01-MHW-Box_Tent-Final.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a2ef11d4be55d599e74fdbc5caac82c80709195-2209x1631.jpg",
+      "filename": "407116735_736865561808995_127373192172086803n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2209,
+      "height": 1631,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\002-407116735_736865561808995_127373192172086803n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6e0490b7a4bba24b645eff7d3e27c0bd23c348b7-2209x1631.jpg",
+      "filename": "407116735_736865561808995_1273731921720868035_n coy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2209,
+      "height": 1631,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\003-407116735_736865561808995_1273731921720868035_n-coy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec031b6a9ce78574f9c382dd97931086d7ab21b5-2209x1631.jpg",
+      "filename": "407116735_736865561808995_1273731921720868035_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2209,
+      "height": 1631,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\004-407116735_736865561808995_1273731921720868035_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eb8ccfd6b12aa2f99381c6daaff8b93622caa777-1920x1080.png",
+      "filename": "Voice_Directives.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\005-Voice_Directives.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/edf22e12c1fa1fd7344fafbc84fc4c177e437405.mp4",
+      "filename": "06-MHW-Type-Showcase.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6c2e61cf3f1c310ece0a674d78199908b6c8b545.mp4",
+      "filename": "08-MHW-FOP_Ascend.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/84c6e117abb6e42beda01bf52a29912f2cd764e8.mp4",
+      "filename": "02-MHW-OutHere-Manifesto (1).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f80c61dfe872387e8cecb7471766996fc214612d.mp4",
+      "filename": "12-MHW-Graphic_Elements.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/87f7f6efa8c23f5ebf783d096a3fe25660f8b1cd-1920x1080.png",
+      "filename": "Strat_Purpose.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\006-Strat_Purpose.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/84b8b31b2d98e67f8ad103baff9caf1f42416dda.mp4",
+      "filename": "24-MHW-Motion_Reel.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e992cc346bfe09d590184cdca395c6c23d8e71c4.mp4",
+      "filename": "25-MHW-Temp-Cycle.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05242c83925a23a7682f3d6deb2ef02529b8fb7f-2000x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\007-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be3a97c3416ea714e31355513ac9d66864f8bcf3-2000x2000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\008-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/06d861e03e6d26a29d0e6a714fab8f0c4478b31f-2000x2000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\009-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e7339d23271c214076dc9bff8efd1682d51105e-1995x1995.jpg",
+      "filename": "04-MHW-Insulation_Studio.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1995,
+      "height": 1995,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\010-04-MHW-Insulation_Studio.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee07a7260ff089514d0c7e92e4cc0f5587de28f8-2000x2000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\011-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81dbcf037b6529b98b3855355c4aa6cf9689e57e-2000x2000.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\012-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f076acaa6c7d3d30d38bac8535e114c99a5cee1d-2000x2000.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\013-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dd5a1db455abf0103bd67b0e3ba72768f106ee80-1995x1995.png",
+      "filename": "23-MHW-Sleeve_detail.png",
+      "mimeType": "image/png",
+      "width": 1995,
+      "height": 1995,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\014-23-MHW-Sleeve_detail.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/314ee474014c8dd2099ec8949b0213b911b55416-1080x1080.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\015-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb5b04495044a8defa7af6f44709e48ccd6f586e-1080x1080.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\016-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05ffb08ab001d5db84acccfdc8665612488a72d3-1080x1080.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\017-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dc11526187b2e0518970ba659d8f55a9794f7240-1080x1080.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\018-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/550a622d4534a8a2cabd082e55d004ed760d60e4-1080x1080.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\019-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/293b78fe523f33450144a22ff768c9e0a461cc54-1080x1080.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\020-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f54468bb1ddce4eae23b34d1a6d9f844d8fde34-1080x1080.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\021-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8af26b9110dad8636bc1cd0a8830d5b095a9aa5-1080x1080.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\022-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/30a8bf498eb67ab8591968c7d44ad07b51ebc4ed-1177x1177.png",
+      "filename": "03-MHW-Publication.png",
+      "mimeType": "image/png",
+      "width": 1177,
+      "height": 1177,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\023-03-MHW-Publication.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/48e2ee5288719d022380d5f181f483e616710046-2500x2497.jpg",
+      "filename": "19-MHW-Tag.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2497,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\024-19-MHW-Tag.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d956a796d953302b2335275aad5939c8a8a323d-1340x1767.jpg",
+      "filename": "29-MHW-Application-Mountain-Guides+3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1340,
+      "height": 1767,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\025-29-MHW-Application-Mountain-Guides+3.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f2160302607b44bfecde8dca166d16635447a15f.mp4",
+      "filename": "09-MHW-Website-8000M_Collection.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5bfcb73b4910efb9e07408b53dd8833e3712de41.mp4",
+      "filename": "17-MHW-Web_Camp_Collection.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4e9ca25e531ba0ad1867a3046e35df5ca5d95f85.mp4",
+      "filename": "17-MHW-Web_Mobile.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b804767bf725cfa7061988aabed6a223253d8015-1572x1572.png",
+      "filename": "26-MHW-Phone_Snow.png",
+      "mimeType": "image/png",
+      "width": 1572,
+      "height": 1572,
+      "localPath": "archive\\brandarchive\\identities\\mountain-hardware\\assets\\026-26-MHW-Phone_Snow.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cd88121edb679a57129366cf17a3b0d6dd551de0.mp4",
+      "filename": "21-Social_Stories.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0963f94580deaf289ad0043cded9197b16c28719.mp4",
+      "filename": "28-MHW-Social_Posts.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "3589bf19-dcd5-4ab1-8025-ba5a7b41c4f8",
+  "detail": {
+    "title": "Mountain Hardware",
+    "designersText": "Gretel",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#F4FD30",
+        "rgb": "244, 253, 48",
+        "cmyk": "4, 0, 81, 1"
+      },
+      {
+        "hex": "#A75C0E",
+        "rgb": "167, 92, 14",
+        "cmyk": "0, 45, 92, 35"
+      },
+      {
+        "hex": "#7E6D11",
+        "rgb": "126, 109, 17",
+        "cmyk": "0, 13, 87, 51"
+      },
+      {
+        "hex": "#485A26",
+        "rgb": "72, 90, 38",
+        "cmyk": "20, 0, 58, 65"
+      },
+      {
+        "hex": "#106593",
+        "rgb": "16, 101, 147",
+        "cmyk": "89, 31, 0, 42"
+      },
+      {
+        "hex": "#2F415C",
+        "rgb": "47, 65, 92",
+        "cmyk": "49, 29, 0, 64"
+      }
+    ],
+    "typeText": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:29Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:29 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Mountain Hardware",
+      "디자이너": "Gretel",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#F4FD30",
+          "rgb": "244, 253, 48",
+          "cmyk": "4, 0, 81, 1"
+        },
+        {
+          "hex": "#A75C0E",
+          "rgb": "167, 92, 14",
+          "cmyk": "0, 45, 92, 35"
+        },
+        {
+          "hex": "#7E6D11",
+          "rgb": "126, 109, 17",
+          "cmyk": "0, 13, 87, 51"
+        },
+        {
+          "hex": "#485A26",
+          "rgb": "72, 90, 38",
+          "cmyk": "20, 0, 58, 65"
+        },
+        {
+          "hex": "#106593",
+          "rgb": "16, 101, 147",
+          "cmyk": "89, 31, 0, 42"
+        },
+        {
+          "hex": "#2F415C",
+          "rgb": "47, 65, 92",
+          "cmyk": "49, 29, 0, 64"
+        }
+      ],
+      "서체정보": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:29Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:29 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "source": "brandarchive",
+  "name": "Apple",
+  "slug": "apple",
+  "url": "https://brandarchive.xyz/identity/apple",
+  "year": 1977,
+  "exclusive": false,
+  "collection": {
+    "title": "Historical",
+    "slug": "historical"
+  },
+  "designers": [
+    "Rob Janoff"
+  ],
+  "assetCount": 29,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59c01b68048965590e7223fef6d8dc6cf42fe43f-1187x526.jpg",
+      "filename": "ApplLogoStandards1987-12 copye.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1187,
+      "height": 526,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\001-ApplLogoStandards1987-12-copye.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/45877149bbbc86609a31361dc5ca66dd5a94b638-2091x764.jpg",
+      "filename": "ApplLogoStandards1987-12 copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2091,
+      "height": 764,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\002-ApplLogoStandards1987-12-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d72e4323ff8d659b16049c61f7209ca53329e7c3-1600x1321.jpg",
+      "filename": "ApplLogoStandards1987-12 copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1321,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\003-ApplLogoStandards1987-12-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/18758c99370064f8b56af4c3a9a3bfed1b9298a2-2400x2400.jpg",
+      "filename": "AppleLogoStandards1987-10 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\004-AppleLogoStandards1987-10-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/169be09b97c71d40880bef2953a740acb3c3f118-2094x2564.jpg",
+      "filename": "AppleLogoStandards1987-11 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2094,
+      "height": 2564,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\005-AppleLogoStandards1987-11-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/11c1777fd3d5bedb51ca44d4f58154e536f9a246-1056x1232.jpg",
+      "filename": "AppleLogoStandards1987-11 copyba.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1056,
+      "height": 1232,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\006-AppleLogoStandards1987-11-copyba.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91bb8a84352239428128195e9c3fb97910ff5796-1056x1232.jpg",
+      "filename": "AppleLogoStandards1987-11 copybb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1056,
+      "height": 1232,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\007-AppleLogoStandards1987-11-copybb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/afad6d740058b4cc5272fa56ff208ce6632500b9-1056x1232.jpg",
+      "filename": "AppleLogoStandards1987-11 copybc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1056,
+      "height": 1232,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\008-AppleLogoStandards1987-11-copybc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/921bf8d4e72377ba416e9bc0bb120852b1cebcd2-1136x1144.jpg",
+      "filename": "AppleLogoStandards1987-11 copyf.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1136,
+      "height": 1144,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\009-AppleLogoStandards1987-11-copyf.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/842ed1b697e49fd5234ca3f138af55ee6eb4f82d-1136x1144.jpg",
+      "filename": "AppleLogoStandards1987-11 copyg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1136,
+      "height": 1144,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\010-AppleLogoStandards1987-11-copyg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e0d6dfe2ded599428cfbe963371cac9e4da2afb-3352x2217.jpg",
+      "filename": "AppleLogoStandards1987-11 copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3352,
+      "height": 2217,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\011-AppleLogoStandards1987-11-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3aecbe5104797bfe3d3767ea7ac5919eb5f9a56c-2600x2600.jpg",
+      "filename": "AppleLogoStandards1987-11 copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\012-AppleLogoStandards1987-11-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ff4af2ff3af494eafda0842279ac1dc9cfa82c14-1177x1144.jpg",
+      "filename": "ApplLogoStandards1987-12 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1177,
+      "height": 1144,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\013-ApplLogoStandards1987-12-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f4cf0994e44919b8caf4b57f4ae3a22a57108676-3117x2317.jpg",
+      "filename": "AppleLogoStadards1987-13 copy2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3117,
+      "height": 2317,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\014-AppleLogoStadards1987-13-copy2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/84908ceee9be61db7b1930287ffde557aea9ad0c-839x1426.jpg",
+      "filename": "AppleLogoStadards1987-13 copy3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 839,
+      "height": 1426,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\015-AppleLogoStadards1987-13-copy3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7dc229b84a9a151b182694c49d2bf7f66c7a276f-3591x4353.jpg",
+      "filename": "AppleLogoStadards1987-13 copy1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3591,
+      "height": 4353,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\016-AppleLogoStadards1987-13-copy1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f47a54856da8b7b878d0d252fdc826fa3d4cacb-2667x2848.jpg",
+      "filename": "AppleLogoStadards1987-13 copy4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2667,
+      "height": 2848,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\017-AppleLogoStadards1987-13-copy4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b0eccd8e152264dc23058e2bafa5a4d7fb4768a-2949x1339.jpg",
+      "filename": "AppleLogoStadards1987-13 copy5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2949,
+      "height": 1339,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\018-AppleLogoStadards1987-13-copy5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b5120bb21f9f5afff51fba2cb8f3c844b0ad2782-1273x2261.jpg",
+      "filename": "AppleLogoStandads1987-15 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1273,
+      "height": 2261,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\019-AppleLogoStandads1987-15-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24146af2bf5483750f72a582022c792c25e257b0-2282x1147.jpg",
+      "filename": "AppleLogoStandads1987-15 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2282,
+      "height": 1147,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\020-AppleLogoStandads1987-15-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7ab1a6503d245d0edb28f520aaa50a6aa31b60f5-563x2364.jpg",
+      "filename": "AppleLogoStandads1987-15 copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 563,
+      "height": 2364,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\021-AppleLogoStandads1987-15-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3184b97bfed01fbdb006491722761de82c39d352-1028x2775.jpg",
+      "filename": "AppleLogoStandads1987-15 copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1028,
+      "height": 2775,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\022-AppleLogoStandads1987-15-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b92dc9d99bcfacdd01526f75bfcaa63ced30c615-2116x2482.jpg",
+      "filename": "AppleLogoStandads1987-15 copye.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2116,
+      "height": 2482,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\023-AppleLogoStandads1987-15-copye.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e2daf65e47254dd16e24908ded7c1b5196c6db57-2010x1119.jpg",
+      "filename": "AppleLogoStandads1987-15 copyg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2010,
+      "height": 1119,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\024-AppleLogoStandads1987-15-copyg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c3bcb72da3af6e1347b567ad4447765ef89f175-5145x1210.jpg",
+      "filename": "AppleLogoStandards1987-14 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5145,
+      "height": 1210,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\025-AppleLogoStandards1987-14-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c029579d80ecd63803455160302b30c686ad5f14-1602x1391.jpg",
+      "filename": "AppleLogoStandads1987-15 copyh.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1602,
+      "height": 1391,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\026-AppleLogoStandads1987-15-copyh.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35c62085d71ddc9e86386b792877eedc638f4289-3772x1553.jpg",
+      "filename": "AppleLogoStandards1987-14 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3772,
+      "height": 1553,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\027-AppleLogoStandards1987-14-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b44e228c0d68e794063c35f3700b481f90a8a81b-5205x2891.jpg",
+      "filename": "AppleLogoStadards1987-13 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5205,
+      "height": 2891,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\028-AppleLogoStadards1987-13-copy-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb7ea127131d0c60448acf48e2c2c508c67c9dec-5126x2719.jpg",
+      "filename": "ApplLogoStandards1987-12 copyg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5126,
+      "height": 2719,
+      "localPath": "archive\\brandarchive\\identities\\apple\\assets\\029-ApplLogoStandards1987-12-copyg.jpg"
+    }
+  ],
+  "rawId": "a5ad0fce-efad-41fe-ac67-23eef46e5b5b",
+  "detail": {
+    "title": "Apple",
+    "designersText": "Rob Janoff",
+    "yearText": "1977",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#61BF1A",
+        "rgb": "97, 191, 26",
+        "cmyk": "49, 0, 86, 25"
+      },
+      {
+        "hex": "#FCC917",
+        "rgb": "252, 201, 23",
+        "cmyk": "0, 20, 91, 1"
+      },
+      {
+        "hex": "#F56600",
+        "rgb": "245, 102, 0",
+        "cmyk": "0, 58, 100, 4"
+      },
+      {
+        "hex": "#E60D2E",
+        "rgb": "230, 13, 46",
+        "cmyk": "0, 94, 80, 10"
+      },
+      {
+        "hex": "#AD0DA6",
+        "rgb": "173, 13, 166",
+        "cmyk": "0, 92, 4, 32"
+      },
+      {
+        "hex": "#00A3E0",
+        "rgb": "0, 163, 224",
+        "cmyk": "100, 27, 0, 12"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      },
+      {
+        "hex": "#898D8D",
+        "rgb": "137, 141, 141",
+        "cmyk": "3, 0, 0, 45"
+      }
+    ],
+    "typeText": "Designer: sTony StanAlexander Tarbeev Released: 1975FoundriesITCLetrasetParatypeDesigner: sEduard HoffmannMax Miedinger Released: 1957FoundriesLinotypeHaasStempel",
+    "korean": {
+      "브랜드명": "Apple",
+      "디자이너": "Rob Janoff",
+      "연도": "1977",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#61BF1A",
+          "rgb": "97, 191, 26",
+          "cmyk": "49, 0, 86, 25"
+        },
+        {
+          "hex": "#FCC917",
+          "rgb": "252, 201, 23",
+          "cmyk": "0, 20, 91, 1"
+        },
+        {
+          "hex": "#F56600",
+          "rgb": "245, 102, 0",
+          "cmyk": "0, 58, 100, 4"
+        },
+        {
+          "hex": "#E60D2E",
+          "rgb": "230, 13, 46",
+          "cmyk": "0, 94, 80, 10"
+        },
+        {
+          "hex": "#AD0DA6",
+          "rgb": "173, 13, 166",
+          "cmyk": "0, 92, 4, 32"
+        },
+        {
+          "hex": "#00A3E0",
+          "rgb": "0, 163, 224",
+          "cmyk": "100, 27, 0, 12"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        },
+        {
+          "hex": "#898D8D",
+          "rgb": "137, 141, 141",
+          "cmyk": "3, 0, 0, 45"
+        }
+      ],
+      "서체정보": "Designer: sTony StanAlexander Tarbeev Released: 1975FoundriesITCLetrasetParatypeDesigner: sEduard HoffmannMax Miedinger Released: 1957FoundriesLinotypeHaasStempel",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

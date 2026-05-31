@@ -1,0 +1,161 @@
+{
+  "source": "brandarchive",
+  "name": "OLO Homes",
+  "slug": "olo",
+  "url": "https://brandarchive.xyz/identity/olo",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Property",
+    "slug": "property"
+  },
+  "designers": [
+    "Bond"
+  ],
+  "assetCount": 15,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/93cd091d0df7fefabfab59af0a84cfeac71b2bcd-2200x1347.jpg",
+      "filename": "Screenshot 2024-05-27 at 14.22 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2200,
+      "height": 1347,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\001-Screenshot-2024-05-27-at-14.22-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5caeb781744e015a770c67e7f8b508354c6582ab.mp4",
+      "filename": "Olo_Intro-vimeo-912538113-dash-fastly_skyfire_sep-video-d50d29c7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a29ceaff5db9b7e2451b606fb00e7dcd85e7b467.mp4",
+      "filename": "Olo_Logo_System.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/90118f5220e8ee2fd95595fe3fe6dc91d3c09b51.mp4",
+      "filename": "Olo_Logo_Animation.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5173c57a23e6828e8f57983b8338a4bea72a804e-2048x2048.jpg",
+      "filename": "image-3.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\002-image-3.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/61d1a692b66e71fdf3f86a1caa53dd4dfd2b5a48-2048x2048.jpg",
+      "filename": "image-4.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\003-image-4.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6fec4224d56e5cb9207d9b42aad56d8f37ed05eb-2048x2048.jpg",
+      "filename": "image-5.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\004-image-5.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/84a35e2f05c91b3aa4812bd36562a5d1eddcdb59-1920x1920.jpg",
+      "filename": "image-7.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\005-image-7.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3b9d948cac2383b372e1f4f5ee6f649508a218a-1920x1920.jpg",
+      "filename": "image-1.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\006-image-1.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aa9e12a3e8b890470966d934500475fb1f733983-1920x1920.jpg",
+      "filename": "image-6.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\007-image-6.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6776e97158c44aa27c87ce5820735ed456348462-1920x1920.jpg",
+      "filename": "image-2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\008-image-2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0496f37efc7edfd797953070b493558f700d47e4-3840x2160.jpg",
+      "filename": "image.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\olo\\assets\\009-image.jpeg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/06e9ea5d89a091ea05271d3273b158b0ce854145.mp4",
+      "filename": "Olo_Bus_Stop.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5b4b818c7ff08d40efea5be1af9b345432023ffc.mp4",
+      "filename": "Olo_Website.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/00a0ae0ef341510fd526baa9be63cc52c45ed60c.mp4",
+      "filename": "Olo_Social_media.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "65781f31-ce10-4a93-8a22-660e5aa1976a",
+  "detail": {
+    "title": "500",
+    "designersText": null,
+    "yearText": null,
+    "tagsText": null,
+    "sections": [],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "500",
+      "디자이너": null,
+      "연도": null,
+      "태그": null,
+      "섹션": [],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

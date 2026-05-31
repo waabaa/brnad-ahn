@@ -1,0 +1,195 @@
+{
+  "source": "brandarchive",
+  "name": "Robin",
+  "slug": "robin",
+  "url": "https://brandarchive.xyz/identity/robin",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "AI Brands",
+    "slug": "ai-branding"
+  },
+  "designers": [
+    "Otherway"
+  ],
+  "assetCount": 19,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1919a9f36d6ff44bc7e9720283ae2ec1ba4171d2-3840x2160.jpg",
+      "filename": "688caff5abfe3eb2b616f9ab_Robin_AI_Logo_Header.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\001-688caff5abfe3eb2b616f9ab_Robin_AI_Logo_Header.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e8a29e9acf32f78b8e90cd515b93c25b0be53c1d.mp4",
+      "filename": "file-18.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ef1452d5eabc2b0c2cc973f1e528069608842f30.mp4",
+      "filename": "file-15.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1a754f39f57ec332def9a5eeadd6dabf6ec4db2e.mp4",
+      "filename": "file-17.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d12047f698fcb7904b5f56e7d8ce2ce6f40f38c7.mp4",
+      "filename": "file-19.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dbe2392a22400c5cf44fbd8991e2e3f1f1699d1e.mp4",
+      "filename": "file-22.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b5af1741de1f13d2051efceac4bae7a3e7525220.mp4",
+      "filename": "file-24.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/929c26cacc0c066458cf7d3858d1bc15b43cd276-2161x2700.jpg",
+      "filename": "688cb4a41d33e3703daa5c35_Robin_AI_Key_Words_4x5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2161,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\002-688cb4a41d33e3703daa5c35_Robin_AI_Key_Words_4x5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bef066b297d303d8446d663a21c7089f743b6899-2600x1463.jpg",
+      "filename": "689f4ed433b877a893cc1300_Robin_AI_Slogan_16x9-p-2600.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1463,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\003-689f4ed433b877a893cc1300_Robin_AI_Slogan_16x9-p-2600.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/75ad39c636300f63159e440079b4b8cc4884ce71-1080x1349.jpg",
+      "filename": "689f49b22921c6aeda7853b9_Robin_AI_Stats_1x1-p-1080.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1349,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\004-689f49b22921c6aeda7853b9_Robin_AI_Stats_1x1-p-1080.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d5ba5d45ebaf938e3a4fa84c6aa7d6e85cb1b51-1080x1350.jpg",
+      "filename": "68a496b54a2b7324ce9d3635_NewMag2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\005-68a496b54a2b7324ce9d3635_NewMag2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e59f79998b0c1db85858a0c409374eebe7f0c2e5-1920x1344.jpg",
+      "filename": "689f52157e62421dcab97110_Robin_AI_Conference_Screen.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1344,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\006-689f52157e62421dcab97110_Robin_AI_Conference_Screen.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/50b9549b3274eaa5fce3657d633a7fed97e17fc3-1080x1350.jpg",
+      "filename": "689f4a71cf97764ca4cb0d3e_Robin_AI_Laptop_Screen.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\007-689f4a71cf97764ca4cb0d3e_Robin_AI_Laptop_Screen.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dd132b6fb155c03090723fef33dabca9272a312b-1080x1350.jpg",
+      "filename": "689f49b2b0503b6771f52249_Robin_AI_App_Screen_4x52.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\008-689f49b2b0503b6771f52249_Robin_AI_App_Screen_4x52.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e8ae62dd12462b7afeb336e5e5492407d60ffcc4.mp4",
+      "filename": "file-16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7c0291d1948e705aa778e659bfb8f642ceb6e22b.mp4",
+      "filename": "file-20.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5b8f582a3a8c0209eccfd66e58c6264738f9b900.mp4",
+      "filename": "file-21.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5018e869f2edb05ef59dccbe6880b693665140c9.mp4",
+      "filename": "file-23.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d5720359ad0c1de25e69db0e28be50f96288b8a4-3300x1856.jpg",
+      "filename": "22.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 1856,
+      "localPath": "archive\\brandarchive\\identities\\robin\\assets\\009-22.jpg"
+    }
+  ],
+  "rawId": "499cc075-6d46-43a3-96e5-e7d85a9cc0ca",
+  "detail": {
+    "title": "Robin",
+    "designersText": "Otherway",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 19 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Robin",
+      "디자이너": "Otherway",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 19 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

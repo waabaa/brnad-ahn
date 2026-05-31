@@ -1,0 +1,362 @@
+{
+  "source": "brandarchive",
+  "name": "Walmart",
+  "slug": "wallmart-2025",
+  "url": "https://brandarchive.xyz/identity/wallmart-2025",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by jkr",
+    "slug": "jkr"
+  },
+  "designers": [
+    "jkr"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41ac7b74bf4bff91ffa4a596f02c9908fc28c24a-3000x1688.jpg",
+      "filename": "B.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\001-B.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c27cbc053b443983211ee38e5b7d422946a387b1-3000x1688.jpg",
+      "filename": "A.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\002-A.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6400c9aa38f4047568e190f5d0244b660c88df10-3000x1688.jpg",
+      "filename": "C.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\003-C.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bcb54671a989859fe29c0985b7b94fb92ea88d81-3000x1688.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\004-11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f76b431a23270151cfdd1c85f112e3a42348dbe-3000x1688.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\005-12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ecdfcaad763365bde1b625b94af8a6d33ed39508-3000x1688.jpg",
+      "filename": "13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\006-13.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e166c00ed4950de86e03932e7c50bc23e9cb97d1.mp4",
+      "filename": "Walmart Brand Refresh - Welcome to Your Walmart.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b9a9b78ef09d25c9157b9329a05fae87e14ecefd.mp4",
+      "filename": "Walmart Brand Refresh - Iconography Overview.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e286f72c7a7e5962a41dc49d37bf12124d74fbe6.mp4",
+      "filename": "6784e3c1454fb4c45f1c11f7_03_WMT_Website-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f7a39b49988d5195e94cfa4b587205ddc6aee934.mp4",
+      "filename": "6784e3d2053e82772efb26e8_04_WMT_Website-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/83143b2969825308e5a4a18ee3c34f563e73b5ae.mp4",
+      "filename": "6784e57d6e38cafbcf9c6195_14_WMT_Website-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f6a5c98ad1d5cc4fe22620fdf38a7053e6cfd4e6.mp4",
+      "filename": "6784e4b744bc03f26ce44106_12_WMT_Website-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/242128a9c5ea9e34ff0f23389ad978236c59acab.mp4",
+      "filename": "6784e4000094faf8f898557b_08_WMT_Website-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/586e7c3296b1af9745f21a2696aeb6d6d0ba1a00.mp4",
+      "filename": "67851e971185eea58d1da62b_Indigo_SparkTile_IR (1)-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f472847a21b09d369b20d582f80b683645371095-1860x1047.webp",
+      "filename": "6784e3a2ada454ed0def11a1_27_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\007-6784e3a2ada454ed0def11a1_27_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/acf806dca4880e45d7d352c0545a5ef09b05a535-1860x1047.webp",
+      "filename": "6784e3a171f7fff06da4b303_02_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\008-6784e3a171f7fff06da4b303_02_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f751ad9b4a7150740e8c4913b4b2b0996a80cf9b-1860x1047.webp",
+      "filename": "678550e8e1a1e82ddb0662d0_walmart_upd.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\009-678550e8e1a1e82ddb0662d0_walmart_upd.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5fe07ef0e11ebb69dd916582258fc707efe15549-1860x1047.webp",
+      "filename": "6784e3a10cd7cc5f1a6c8f67_19_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\010-6784e3a10cd7cc5f1a6c8f67_19_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ff005b5201a8241fafa8a4879f4abd154a34f868-1920x1080.webp",
+      "filename": "001-91258015-walmart-brand-redesign.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\011-001-91258015-walmart-brand-redesign.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/32ba268eecd9a2dfc4f5576cbc3e6786b6fe4b6d-1860x1047.webp",
+      "filename": "6784e3a14a2aac420f699276_13_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\012-6784e3a14a2aac420f699276_13_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/53040e59b004e2e131fb736cbfa4c091c99217ec-1860x1047.webp",
+      "filename": "6784e3a1721f8f37f349cd26_05_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\013-6784e3a1721f8f37f349cd26_05_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db0b843f0bb3c6d565a0d6dc71bbe765808e3bba-1860x1047.webp",
+      "filename": "6784e3a165175a45b10387f9_24_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\014-6784e3a165175a45b10387f9_24_WMT_Website.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/77c67268b83737b8403f044789ded033de669e69.mp4",
+      "filename": "67851ea0f9cf0ac7ff129354_Indigo_OOH_Fashion_01_IR_01 (1)-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1ce653d658011f60d81c74df5bcedd324ec991d5.mp4",
+      "filename": "bbf64faa-63371d73.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5d866357b3dac1d25826b0f51280e173784773ab.mp4",
+      "filename": "Walmart Brand Refresh - App Motion.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/14895a0f77268eea55605261c1fc5b6f433e2306-3000x1688.jpg",
+      "filename": "11 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\015-11-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5657419920da8659d602c03e07cf66fbcd10f4e8-2475x2792.webp",
+      "filename": "6784e3a2bb2a164865b6420d_26_WMT_Website1.webp",
+      "mimeType": "image/webp",
+      "width": 2475,
+      "height": 2792,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\016-6784e3a2bb2a164865b6420d_26_WMT_Website1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e2ebc086e730ec130300558c44c9184b35f36c39-2352x2636.webp",
+      "filename": "6784e3a2bb2a164865b6420d_26_WMT_Website.webp",
+      "mimeType": "image/webp",
+      "width": 2352,
+      "height": 2636,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\017-6784e3a2bb2a164865b6420d_26_WMT_Website.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/314b4a4e2baa41f34fffa7d73ac9102f50c6bf98-1920x1080.webp",
+      "filename": "005-91258015-walmart-brand-redesign.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\018-005-91258015-walmart-brand-redesign.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f162853db22eebd0d0b3dade126e3a3e909a7b0c-2480x1395.webp",
+      "filename": "p-1-91258015-walmart-brand-redesign.webp",
+      "mimeType": "image/webp",
+      "width": 2480,
+      "height": 1395,
+      "localPath": "archive\\brandarchive\\identities\\wallmart-2025\\assets\\019-p-1-91258015-walmart-brand-redesign.webp"
+    }
+  ],
+  "rawId": "0addaca4-b22e-4ec7-8e09-28861a16f7b1",
+  "detail": {
+    "title": "Walmart",
+    "designersText": "jkr",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#9ADEFA",
+        "rgb": "154, 222, 250",
+        "cmyk": "38, 11, 0, 2"
+      },
+      {
+        "hex": "#00C0FC",
+        "rgb": "0, 192, 252",
+        "cmyk": "100, 24, 0, 1"
+      },
+      {
+        "hex": "#0054E2",
+        "rgb": "0, 84, 226",
+        "cmyk": "100, 63, 0, 11"
+      },
+      {
+        "hex": "#001D71",
+        "rgb": "0, 29, 113",
+        "cmyk": "100, 74, 0, 56"
+      },
+      {
+        "hex": "#FEBF00",
+        "rgb": "254, 191, 0",
+        "cmyk": "0, 25, 100, 0"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      }
+    ],
+    "typeText": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Walmart",
+      "디자이너": "jkr",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#9ADEFA",
+          "rgb": "154, 222, 250",
+          "cmyk": "38, 11, 0, 2"
+        },
+        {
+          "hex": "#00C0FC",
+          "rgb": "0, 192, 252",
+          "cmyk": "100, 24, 0, 1"
+        },
+        {
+          "hex": "#0054E2",
+          "rgb": "0, 84, 226",
+          "cmyk": "100, 63, 0, 11"
+        },
+        {
+          "hex": "#001D71",
+          "rgb": "0, 29, 113",
+          "cmyk": "100, 74, 0, 56"
+        },
+        {
+          "hex": "#FEBF00",
+          "rgb": "254, 191, 0",
+          "cmyk": "0, 25, 100, 0"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        }
+      ],
+      "서체정보": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

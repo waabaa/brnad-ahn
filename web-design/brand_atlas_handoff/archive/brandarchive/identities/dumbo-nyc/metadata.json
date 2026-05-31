@@ -1,0 +1,172 @@
+{
+  "source": "brandarchive",
+  "name": "Dumbo",
+  "slug": "dumbo-nyc",
+  "url": "https://brandarchive.xyz/identity/dumbo-nyc",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by DNCO",
+    "slug": "designed-by-dnco"
+  },
+  "designers": [
+    "DNCO"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5638908762206edfb66432ea08aac2331a9a1227-3000x1688.jpg",
+      "filename": "DNCO-Dumbo-Print_2025-06-02-162742_vcck.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\001-DNCO-Dumbo-Print_2025-06-02-162742_vcck.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6dffc9e1cdd318052f98c868ed027e7c444e45ae-4400x2799.jpg",
+      "filename": "svgexport-1 (7) copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4400,
+      "height": 2799,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\002-svgexport-1-(7)-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9e9f68e38a7b171c345a0f2de8034258825500b6-4400x2799.jpg",
+      "filename": "svgexport-1 (7) copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4400,
+      "height": 2799,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\003-svgexport-1-(7)-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/760a3da0148299264954ff7a619935595cb5741d.mp4",
+      "filename": "06-DNCO-Dumbo-PlacePurpose.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6c10be08283875c37c20fb42c59f5593ea4059b9.mp4",
+      "filename": "10-DNCO-Dumbo-Key-Messages.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c8899c76666998286f58df4e8da7c81e23434113.mp4",
+      "filename": "11-DNCO-Dumbo-Tape.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8866f0018554c86aa7c2ea842a3b3fb941dd7899.mp4",
+      "filename": "DNCO-Dumbo-Ident-Compressed.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/024e766a75d074ff5529f049eacdf5fdc582a169.mp4",
+      "filename": "DNCO-Dumbo-Illustration-Tile.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1f62289649d52d4976b629237f5abc165de025b0-3840x2559.jpg",
+      "filename": "DNCO-Dumbo-Mural.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2559,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\004-DNCO-Dumbo-Mural.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/959c8dfb4629d4809fe13f739c46e1ad246244d3.mp4",
+      "filename": "DNCO-Dumbo-Sticker-Landscape.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/55a4cef3ead2d4f85a99432a61677ecb9a5ad1b6-3840x2560.jpg",
+      "filename": "04-DNCO-Dumbo-Poster.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\005-04-DNCO-Dumbo-Poster.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b4907fdd6dff2e4f07ea514401f144c40c539be0-2000x3000.jpg",
+      "filename": "07-DNCO-Dumbo-Tape.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\006-07-DNCO-Dumbo-Tape.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/57d206bf338bbec860c13e1ac618d1072451fee1-2560x3840.jpg",
+      "filename": "13-DNCO-Dumbo-Flag.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 3840,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\007-13-DNCO-Dumbo-Flag.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a95980e2684972726e077ab7ac8f46cc03eb8fbe-3000x2000.jpg",
+      "filename": "DNCO-Dumbo-Billboard.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\dumbo-nyc\\assets\\008-DNCO-Dumbo-Billboard.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3dabb0afdd337af1ccaa1252b385e5173f1a5bd7.mp4",
+      "filename": "14-DNCO-Dumbo-Website.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/95b1a158c864edcdf8feb953f7d9b54e857aa26e.mp4",
+      "filename": "DNCO-Dumbo-Socials-Compressed.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "50907a07-6e41-484f-a74c-a21d10411baa",
+  "detail": {
+    "title": "Dumbo",
+    "designersText": "DNCO",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 16 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Dumbo",
+      "디자이너": "DNCO",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 16 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

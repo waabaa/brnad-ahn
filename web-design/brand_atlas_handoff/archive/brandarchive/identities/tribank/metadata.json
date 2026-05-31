@@ -1,0 +1,377 @@
+{
+  "source": "brandarchive",
+  "name": "Tribank",
+  "slug": "tribank",
+  "url": "https://brandarchive.xyz/identity/tribank",
+  "year": 1990,
+  "exclusive": true,
+  "collection": {
+    "title": "Banking",
+    "slug": "banking-brands"
+  },
+  "designers": [
+    "PAOS"
+  ],
+  "assetCount": 37,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d45b577069b7a7829a8cae04a33cc9b1d98780d1-1726x1590.jpg",
+      "filename": "Scan 22.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1726,
+      "height": 1590,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\001-Scan-22.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04e0e590963296806a9f2c6293b7d73470b92b88-3530x846.jpg",
+      "filename": "Scan 25.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3530,
+      "height": 846,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\002-Scan-25.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c1ecb97c22eb52f7a428a819c5970f1667f6e1b-2864x514.jpg",
+      "filename": "Scan 65 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2864,
+      "height": 514,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\003-Scan-65-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0efef1490c1a0e5641eab0f7e7c6ef4889ad6f58-3139x472.jpg",
+      "filename": "Scan 66 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3139,
+      "height": 472,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\004-Scan-66-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05e488a60d34bc633ce41a8b5dc5ab53701bc10c-3095x475.jpg",
+      "filename": "Scan copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3095,
+      "height": 475,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\005-Scan-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c45c67bd0afabbb50607ee22532b38ef5772c1a-3307x661.jpg",
+      "filename": "Scan 65 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3307,
+      "height": 661,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\006-Scan-65-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9521d98513b97cdc333752358d8d4c60299935ce-3625x668.jpg",
+      "filename": "Scan 66 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3625,
+      "height": 668,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\007-Scan-66-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/afab098dfa995a2ef3387b09eae1919b7f691e9a-3913x698.jpg",
+      "filename": "Scan copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3913,
+      "height": 698,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\008-Scan-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d79d76429ef883ba0acca5e9755fbb28513104e6-965x1070.jpg",
+      "filename": "Scan 65 copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 965,
+      "height": 1070,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\009-Scan-65-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a63142833505d44ff0b489239f61a9d532ed9cd4-985x1086.jpg",
+      "filename": "Scan 66 copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 985,
+      "height": 1086,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\010-Scan-66-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c4e16c88fd59a047166bdc5962fd3a5de6ba812-973x1061.jpg",
+      "filename": "Scan copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 973,
+      "height": 1061,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\011-Scan-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9670069d089230be5e14b08755213900868b120e-985x1086.jpg",
+      "filename": "Scan 66 copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 985,
+      "height": 1086,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\012-Scan-66-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3e1c3799aa8e3be5c75eb2c59bbf3a83da3bd79-955x1136.jpg",
+      "filename": "Scan 65 copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 955,
+      "height": 1136,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\013-Scan-65-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db951169448f0401318da457b7868d661e14a00d-973x1061.jpg",
+      "filename": "Scan copyd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 973,
+      "height": 1061,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\014-Scan-copyd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6fbe657a7eb2d7ede60874c2af9f94f3d348b78c-2050x592.jpg",
+      "filename": "Scan 65 copye.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2050,
+      "height": 592,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\015-Scan-65-copye.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3bd2a91c57accaf84f607ba9f51e28722df00799-1844x598.jpg",
+      "filename": "Scan 66 copye.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1844,
+      "height": 598,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\016-Scan-66-copye.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3517aaba9a73e8f090eabcd72f0ca84d148183b-2393x657.jpg",
+      "filename": "Scan copye.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2393,
+      "height": 657,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\017-Scan-copye.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d0ba9c0289fc083f522dcbe2fb67b158d7c6eda-1795x1575.jpg",
+      "filename": "Scan 66 copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1795,
+      "height": 1575,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\018-Scan-66-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d98479933f6b120ae502db130e5c341a09d39ba-2421x1503.jpg",
+      "filename": "Scan 66a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2421,
+      "height": 1503,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\019-Scan-66a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/269fa3646a67b904269fe8f8b4243f31b187fef7-2004x2938.jpg",
+      "filename": "Scan 66g.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2004,
+      "height": 2938,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\020-Scan-66g.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f4c255ad586bbb8e3736a5fab2ea5a089380434-1962x2262.jpg",
+      "filename": "Scan 66d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1962,
+      "height": 2262,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\021-Scan-66d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d95d30f4a055cdb8d5ed90574a834e71fc71d3f5-966x1446.jpg",
+      "filename": "Scan 66o.jpg",
+      "mimeType": "image/jpeg",
+      "width": 966,
+      "height": 1446,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\022-Scan-66o.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4faf58cec25fbb0ffe442dd3fd2ee5400d76c8e9-965x1404.jpg",
+      "filename": "Scan 66u.jpg",
+      "mimeType": "image/jpeg",
+      "width": 965,
+      "height": 1404,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\023-Scan-66u.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be8c08e7e7dca3db826ec6a1398687f0d50edddb-2103x2218.jpg",
+      "filename": "Scan 66p.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2103,
+      "height": 2218,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\024-Scan-66p.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a65dab75fe1fb5ea7998a742b37bfdb0c24910e9-1061x2253.jpg",
+      "filename": "Scan 66dq.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1061,
+      "height": 2253,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\025-Scan-66dq.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6e9880222963e6edf0a271b311fee2e7eecdba79-1681x2133.jpg",
+      "filename": "Scan 66dqa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1681,
+      "height": 2133,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\026-Scan-66dqa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed1075db1889e687cff4cb0e3c63bf460588e978-1803x1527.jpg",
+      "filename": "Scan 66dqaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1803,
+      "height": 1527,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\027-Scan-66dqaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91aaaea5a56bab5220a45d2da6798a3089c22d13-2160x1915.jpg",
+      "filename": "Scan 66dqaaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 1915,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\028-Scan-66dqaaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1ed999e144fa42af999974cb30b97f61336d4de-1942x2308.jpg",
+      "filename": "Scan 66dqaaaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1942,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\029-Scan-66dqaaaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e8f5df4a48afc52093ff643ecf078fb879f2a132-3646x2408.jpg",
+      "filename": "Scan 97.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3646,
+      "height": 2408,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\030-Scan-97.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/19a62f56a7bea21b23c29683fb4da086a3047652-2930x1908.jpg",
+      "filename": "Scan 67 copy 2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2930,
+      "height": 1908,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\031-Scan-67-copy-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/93b494ca0f259cb330967ca01a01d6e9ceeb0a39-9000x9000.jpg",
+      "filename": "Scan 67.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 9000,
+      "height": 9000,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\032-Scan-67.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d85d0270c07732879906b1fb253491ad9a581341-16000x6000.jpg",
+      "filename": "Scan 66.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 16000,
+      "height": 6000,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\033-Scan-66.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b34dd248bce0aa9cdf5dad1bdc8daef725a8b5a9-1729x2433.jpg",
+      "filename": "Scan 93.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1729,
+      "height": 2433,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\034-Scan-93.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f6fdb6ab1ae42dac02de1e7ef1662b61284dfed9-1738x2440.jpg",
+      "filename": "Scan 94.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1738,
+      "height": 2440,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\035-Scan-94.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/149c8625ec0a7aa261b5816593133dded4639fc2-2254x1586.jpg",
+      "filename": "Scan 98.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2254,
+      "height": 1586,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\036-Scan-98.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c16c27422905ad91bb6ed4203e98bce4f2af1397-3389x2107.jpg",
+      "filename": "Scan 99.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3389,
+      "height": 2107,
+      "localPath": "archive\\brandarchive\\identities\\tribank\\assets\\037-Scan-99.jpeg"
+    }
+  ],
+  "rawId": "f3620374-b4cb-4307-8ca9-2b1427f34cf5",
+  "detail": {
+    "title": "Tribank",
+    "designersText": "PAOS",
+    "yearText": "1990",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 37 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Tribank",
+      "디자이너": "PAOS",
+      "연도": "1990",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 37 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "source": "brandarchive",
+  "name": "Moju",
+  "slug": "moju",
+  "url": "https://brandarchive.xyz/identity/moju",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Beverage",
+    "slug": "drinks"
+  },
+  "designers": [
+    "Earthling Studio"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae515505bafb4876c5a035ff10d88530e0978bd0-2400x1350.jpg",
+      "filename": "EarthlingStudio_X_MOJU_Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\001-EarthlingStudio_X_MOJU_Logo.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1ee88586b3290c262803ba0c79342ec59c3953a3.mp4",
+      "filename": "EarthlingStudio_X_MOJU_LogoComparison.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb021c06bbe8bf965dc2d6686f3b384804d62dbf-2640x1760.webp",
+      "filename": "filters-quality(75)-1.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\002-filters-quality(75)-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/904c75bbe38d7720508f0be79385194ebe230b50-2640x1760.webp",
+      "filename": "filters-quality(75)-2.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\003-filters-quality(75)-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/923b32190b6ce2e6956053da3f62eb1242584f35-2640x1760.webp",
+      "filename": "filters-quality(75)-3.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\004-filters-quality(75)-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6e938706d120a659412f123be60492df26c9b34f-2640x1760.webp",
+      "filename": "filters-quality(75)-4.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\005-filters-quality(75)-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3bb4daa1c35989eeca174d0bd391a77a5d4e8f51-2640x1760.webp",
+      "filename": "filters-quality(75)-5.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\006-filters-quality(75)-5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6cb204c1a8b32ffb269a0eb23bd2ad397e44dffa-2640x1760.webp",
+      "filename": "filters-quality(75)-6.webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\007-filters-quality(75)-6.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/466cfc12217c678c81180759584daf7c4405b7cc-2640x1760.webp",
+      "filename": "filters-quality(75).webp",
+      "mimeType": "image/webp",
+      "width": 2640,
+      "height": 1760,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\008-filters-quality(75).webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8031662a76ee5983e217e54a532b3bca04a00dcb.mp4",
+      "filename": "ginger-shots.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/38b82e7a063d990b7e22bbe8604b5e66c8e14ec9.mp4",
+      "filename": "EarthlingStudio_X_MOJU_7Shots.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e0d772a9cdbc6d3be9e27006acae29fdbcf35ef0.mp4",
+      "filename": "EarthlingStudio_X_MOJU_Doser_With_WakeShakeBoom.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4578352c4f1bc097f7d1af6b3768ca5e4f7e27f0.mp4",
+      "filename": "EarthlingStudio_X_MOJU_DoserSpin.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2f79491ccd1dc25170d26b40d3e3195e377e7dd3.mp4",
+      "filename": "EarthlingStudio_X_MOJU_ShakeShotUp.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ba6afd2938da657896dc1a64dc0e1c9c50bf4be3.mp4",
+      "filename": "EarthlingStudio_X_MOJU_Sizzle.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d3274b3d18399946ec34baa6218d6592638f02e9.mp4",
+      "filename": "EarthlingStudio_X_MOJU_Icons_4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d7c381002452086994989f599e447824f0f40094-2400x1350.jpg",
+      "filename": "05_EarthlingStudio_X_MOJU_Fridge.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\009-05_EarthlingStudio_X_MOJU_Fridge.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d53c76528e6fca08fdfa887c5cd5f9e347682e9-2400x1350.jpg",
+      "filename": "02_EarthlingStudio_X_MOJU_DoserCrop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\010-02_EarthlingStudio_X_MOJU_DoserCrop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/754c9fb5e84a28e4574aaf704388363ff1531a76-2400x1350.jpg",
+      "filename": "08_EarthlingStudio_X_MOJU_Tape1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\011-08_EarthlingStudio_X_MOJU_Tape1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ededbb1d1a051041068bb60291ce562a3fa41ab-2400x1350.jpg",
+      "filename": "09_EarthlingStudio_X_MOJU_Tape2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\012-09_EarthlingStudio_X_MOJU_Tape2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/82c1507692d27ac9725ae302b1fe3ef7a4b97887-2400x1350.jpg",
+      "filename": "10_EarthlingStudio_X_MOJU_Matches.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\013-10_EarthlingStudio_X_MOJU_Matches.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7fdf6a69cb0ddd4cc24edec8a7475bdfc7127e07-2400x1350.jpg",
+      "filename": "13_EarthlingStudio_X_MOJU_Skateboards.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\014-13_EarthlingStudio_X_MOJU_Skateboards.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b62289e78fda1fd7f197b92fa04d7c343aa491f-2400x1350.jpg",
+      "filename": "14_EarthlingStudio_X_MOJU_Puffer.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\015-14_EarthlingStudio_X_MOJU_Puffer.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d51213fc6cfe230087cf54f8d01b66ae46f7b65d-2400x1350.jpg",
+      "filename": "15_EarthlingStudio_X_MOJU_Vinyl.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\016-15_EarthlingStudio_X_MOJU_Vinyl.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e71d6a4beecf01caf37a302e99bdf2b46fd209a7-2400x1350.jpg",
+      "filename": "16_EarthlingStudio_X_MOJU_FireExtinguisher.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\017-16_EarthlingStudio_X_MOJU_FireExtinguisher.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7abaee19a7f04ff39552e2e5e76dbcb38f2cb32b-2400x1350.jpg",
+      "filename": "17_EarthlingStudio_X_MOJU_Tshirt.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\018-17_EarthlingStudio_X_MOJU_Tshirt.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c83fbc46067e715b42424b38f4316571820d501c.mp4",
+      "filename": "EarthlingStudio_X_MOJU_Stickers.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/104f0872bb9fafa7104cf6f6e981e368216ff48a-2400x1350.jpg",
+      "filename": "19_EarthlingStudio_X_MOJU_Yeti.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\019-19_EarthlingStudio_X_MOJU_Yeti.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c2cab39c0393c0679c94ef4c7d930fd7d834e8b-2400x1350.jpg",
+      "filename": "20_EarthlingStudio_X_MOJU_OOH.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\moju\\assets\\020-20_EarthlingStudio_X_MOJU_OOH.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5d04b8b9b061775221874fe410866b3097fc615f.mp4",
+      "filename": "EarthlingStudio_X_MOJU_Logo_People.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "16ebde8c-5b83-43b1-9d60-aa89c783575e",
+  "detail": {
+    "title": "Moju",
+    "designersText": "Earthling Studio",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 30 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Moju",
+      "디자이너": "Earthling Studio",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 30 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

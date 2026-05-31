@@ -1,0 +1,193 @@
+{
+  "source": "brandarchive",
+  "name": "Natural Innovations",
+  "slug": "natural-innovations",
+  "url": "https://brandarchive.xyz/identity/natural-innovations",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Food Brands",
+    "slug": "food"
+  },
+  "designers": [
+    "Otherway"
+  ],
+  "assetCount": 19,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5bdd308b3ae3a69ccc59f4c4500b60d5d875bce3-3000x2001.jpg",
+      "filename": "11 copyg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2001,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\001-11-copyg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/99a5c5efcb0581d9dedfb647c11f2d13aa923072-3000x2001.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2001,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\002-11.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bf44af96dbc09264af6776da7c5127f02456e566.mp4",
+      "filename": "natural_innovations_logo_details_b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dadbb16386ee33f0019977891a4281efcd9c1faf.mp4",
+      "filename": "file-19.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a067f03b2c41799f88d91114fa61f080c7daceba-979x1469.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 979,
+      "height": 1469,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\003-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f5d527967430356ff7cfd73256b66190dfcfbc1-979x1469.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 979,
+      "height": 1469,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\004-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb836c393b8f80a6e41fd427dc0204fd3d6b2346-980x1469.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 980,
+      "height": 1469,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\005-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/830eb87df2b5b6a05efd22d2e5535cea66c411ce-980x1469.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 980,
+      "height": 1469,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\006-4.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a61a9aae64f8a265d3f45e9128fdc84134dadde1.mp4",
+      "filename": "file-12.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/212544b85337d65dc5ff33d1b6d618adccce88c2.mp4",
+      "filename": "file-13.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b09c5d1532fe795ce0cb677323a79ee2ba9333c9.mp4",
+      "filename": "file-16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cc3935b7530fb596941cd224a08d3271889e7ec7.mp4",
+      "filename": "natural_innovations_icon_on_video.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b11df4ce6a968194995b88f997248b5a69b994c3.mp4",
+      "filename": "file-11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6bcd8d737093d5ca4a26eddc11c1ba57711d0c53.mp4",
+      "filename": "natural_innovations_photography_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/60eb0ad349cb8e3d6affbeac22474883b9071fb8.mp4",
+      "filename": "file-14.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/56c47c41fea7111d71fe1ff458b6cfcdd698cd00-1080x1350.jpg",
+      "filename": "natural_innovations_brochure.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\007-natural_innovations_brochure.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/66aeb9cae33494eb5a27d663e6b621dfdd97001a-2000x2999.jpg",
+      "filename": "natural_innovations_lab_coat.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2999,
+      "localPath": "archive\\brandarchive\\identities\\natural-innovations\\assets\\008-natural_innovations_lab_coat.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cacee02ee8d7d03071cfb94138726422d20d3a16.mp4",
+      "filename": "file-17.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8b7b878fa14b2ee19168f3bc3f1954cea1132900.mp4",
+      "filename": "file-18.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "40fac5a6-520a-4d22-be9c-69e8d89e2c7c",
+  "detail": {
+    "title": "Natural Innovations",
+    "designersText": "Otherway",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 19 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Natural Innovations",
+      "디자이너": "Otherway",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 19 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

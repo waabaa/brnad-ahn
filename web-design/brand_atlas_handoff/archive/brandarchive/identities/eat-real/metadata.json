@@ -1,0 +1,305 @@
+{
+  "source": "brandarchive",
+  "name": "Eat Real",
+  "slug": "eat-real",
+  "url": "https://brandarchive.xyz/identity/eat-real",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Food Brands",
+    "slug": "food"
+  },
+  "designers": [
+    "Midday"
+  ],
+  "assetCount": 29,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e6f626abc9036a2f8d3e8c01735fd8a424af032-3840x2400.jpg",
+      "filename": "Eat%20Real-11-red%20full%20version.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\001-Eat%20Real-11-red%20full%20version.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8390385cb2578aa783422506c54924c31a762e3-5000x2900.jpg",
+      "filename": "svgexport-1 (2) copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\002-svgexport-1-(2)-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0e7e643db27a851751fd9d68f32a170f188aaf4f-2517x2880.jpg",
+      "filename": "ER_LENTIL_CD_95g_Sharing%20Simp.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\003-ER_LENTIL_CD_95g_Sharing%20Simp.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f67e2284111c2164f7a03a4af98b0ee478bd091-2517x2880.jpg",
+      "filename": "ER_LENTIL_CL_95g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\004-ER_LENTIL_CL_95g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/694da65402b3261bb4d804d7688ec88d81b7e69b-2517x2880.jpg",
+      "filename": "ER_LENTIL_CP_95g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\005-ER_LENTIL_CP_95g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7614499ef086b8ab532289ec0c713d10e0015b2b-2517x2880.jpg",
+      "filename": "ER_LENTIL_GCTH%20_95g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\006-ER_LENTIL_GCTH%20_95g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/99b9b82eb72787d790b0dbb4c3037cb0c01a1d98-2517x2880.jpg",
+      "filename": "ER_LENTIL_S_95g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\007-ER_LENTIL_S_95g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bee4f96d2f8218d9cd4033dfaa6e29a1808b909a-2517x2880.jpg",
+      "filename": "ER_HUMMUS_CH%26BP%20_110g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\008-ER_HUMMUS_CH%26BP%20_110g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b21e24d2b97278a3c6bb32e5f5fbeafe7fe8c4fb-2517x2880.jpg",
+      "filename": "ER_Hummus_CL%26SS%20_110g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\009-ER_Hummus_CL%26SS%20_110g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c4178db3dee609266e528f8f78e2f4bcba8f8cc1-2517x2880.jpg",
+      "filename": "ER_Hummus_CO%26BV_110g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\010-ER_Hummus_CO%26BV_110g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0a435c4a996059195b9270d80ba2bcbf1a768480-2517x2880.jpg",
+      "filename": "ER_LENTIL_MM_95g_Sharing.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\011-ER_LENTIL_MM_95g_Sharing.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02ca2008707b27ad71671ba8398c844ea7101241-3840x2400.jpg",
+      "filename": "Eat%20Real-3-lifestyle.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\012-Eat%20Real-3-lifestyle.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/344ff03f569aafc0499001655066e9ef370e4e48-3840x5120.jpg",
+      "filename": "Eat%20Real-8-Blue.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 5120,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\013-Eat%20Real-8-Blue.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b084270beb30dd2b74b800b4394bed9c715862b-3840x5120.jpg",
+      "filename": "Eat%20Real-3051a.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 5120,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\014-Eat%20Real-3051a.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3009a30ac05ffe514fc7845fca4367b7f6c91821-2517x2880.jpg",
+      "filename": "ER_Hummus_S.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\015-ER_Hummus_S.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/31d1d6a277202273b70beff7d01693377fbeb6ce-2517x2880.jpg",
+      "filename": "ER_LC%26SS.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\016-ER_LC%26SS.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f34d54c5df1a7c2c3228fc6a7d92e1115605c24b-2517x2880.jpg",
+      "filename": "ER_CO%26BV.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\017-ER_CO%26BV.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c4805f3aa238c0aa2cf908847bccb7fc3b8087ca-2517x2880.jpg",
+      "filename": "ER_CD.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\018-ER_CD.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5401708c3fb9d50869634e2ebad2528f679d7a97-2517x2880.jpg",
+      "filename": "ER_CH%26BP.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\019-ER_CH%26BP.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ca4d2a3265af228a1003a28ea66ab7d28536093b-2517x2880.jpg",
+      "filename": "ER_CL.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\020-ER_CL.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/39077884600d811d426cd0da720740fbe5b70885-2517x2880.jpg",
+      "filename": "ER_CP.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\021-ER_CP.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9e10b02450cd4c31043a41f93d001895d1d9e1b9-2517x2880.jpg",
+      "filename": "ER_GCTH.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\022-ER_GCTH.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0de495bec92664d76762becf8a34234783b08a31-2517x2880.jpg",
+      "filename": "ER_MM.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2517,
+      "height": 2880,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\023-ER_MM.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e11591ced2887c14bd68cde43ebf62caa15d7690-3840x5120.jpg",
+      "filename": "Eat%20Real-2403.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 5120,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\024-Eat%20Real-2403.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6c58c936eb90ba0f05e5c6bab1e6fa4c9648891e-3736x4982.jpg",
+      "filename": "Eat%20Real-2784.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3736,
+      "height": 4982,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\025-Eat%20Real-2784.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f7bd38870ab6ef15fa3d393fda937ee85de18a7f-3840x5121.jpg",
+      "filename": "Eat%20Real-2851.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 5121,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\026-Eat%20Real-2851.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d94d2d1a24159d212c3776ac7405bd8af9524f4-3840x5121.jpg",
+      "filename": "Eat%20Real-2391.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 5121,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\027-Eat%20Real-2391.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0efe094cd07610f15d6ecf11a8715a9c07a423c4-1200x1518.jpg",
+      "filename": "Eat-Real-96.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1518,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\028-Eat-Real-96.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ad921f58c77988f523ef14467342a6f9851cc30c-1200x1200.jpg",
+      "filename": "Eat-Real-95.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\eat-real\\assets\\029-Eat-Real-95.jpeg"
+    }
+  ],
+  "rawId": "b2e24e73-26fd-41d7-b98c-f9ba40679fbb",
+  "detail": {
+    "title": "Eat Real",
+    "designersText": "Midday",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 29 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Eat Real",
+      "디자이너": "Midday",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 29 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

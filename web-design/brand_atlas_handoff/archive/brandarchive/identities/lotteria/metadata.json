@@ -1,0 +1,577 @@
+{
+  "source": "brandarchive",
+  "name": "Lotteria",
+  "slug": "lotteria",
+  "url": "https://brandarchive.xyz/identity/lotteria",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Fast Food",
+    "slug": "fast-food"
+  },
+  "designers": [
+    "Studio fnt"
+  ],
+  "assetCount": 45,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b545daf89b10f283b3413cfed18280aaf973c64-3000x2000.jpg",
+      "filename": "web_DSC08191.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\001-web_DSC08191.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/66604a39603fb2277a152cc90ee2d2aeb600c718-3840x2160.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\002-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c955da4a5428fd0bf66b5df3d9f51aca9f696a75-3840x2160.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\003-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d97d58c7e4eb247fc61f437c4088e750392b414-3840x2160.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\004-3.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/03d22a3ea830cbbac79e04e345d6988ca4e64029.mp4",
+      "filename": "Lotteria.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cdd3eb4df78159f1632a93f26182307153ea0353-3000x2000.gif",
+      "filename": "05_line_motif_ingredients_2.gif",
+      "mimeType": "image/gif",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\005-05_line_motif_ingredients_2.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3470411878492cacebaa6f236e71c9ddca390956-1500x844.jpg",
+      "filename": "lttr_dr_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\006-lttr_dr_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f5cae94436fb2a1112f9770fd048ead6e67f850-1500x844.jpg",
+      "filename": "lttr_dr_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\007-lttr_dr_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b13a699668d52d4f0551a4c105e72232deaa13e7-1500x844.jpg",
+      "filename": "lttr_dr_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\008-lttr_dr_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6dfefe7d28fdc1078fe1adfb7c7f78c60d8624dc-1500x844.jpg",
+      "filename": "lttr_dr_04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\009-lttr_dr_04.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e41753718afa970921c0c4219f2d7475f65f648c-1500x844.jpg",
+      "filename": "lttr_dr_05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\010-lttr_dr_05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3fedb2af14bd6ce235fbfa32901226789049ef12-1500x844.jpg",
+      "filename": "lttr_dr_06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\011-lttr_dr_06.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96a56d49d269ad1eecb7d6cbdd9775eb6f345707-1500x844.jpg",
+      "filename": "lttr_dr_07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\012-lttr_dr_07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a226adc297f91cfe6692372b50f1614cf4ea077a-1500x844.jpg",
+      "filename": "lttr_dr_08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\013-lttr_dr_08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/06b75af01e06d41e92ad19ea5a05d7975686842c-3000x2000.gif",
+      "filename": "09_illustration_all.gif",
+      "mimeType": "image/gif",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\014-09_illustration_all.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fee6e541109d6c5a1db3fdbe7198cf802cbb594f-3000x2000.gif",
+      "filename": "13_slogan_illustration_graphic.gif",
+      "mimeType": "image/gif",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\015-13_slogan_illustration_graphic.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec793e48eb5cded259f57b311b5456a24dc3a444-2100x1400.gif",
+      "filename": "burgers_all_2100.gif",
+      "mimeType": "image/gif",
+      "width": 2100,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\016-burgers_all_2100.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ccb9cf9fcf3b1aca48b639f6e1aad13f15f70de9-2500x1667.jpg",
+      "filename": "web_DSC00194.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\017-web_DSC00194.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/39ee9d5501090060a3c49b5863c4796b489de366-2500x1667.jpg",
+      "filename": "web_DSC00201.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\018-web_DSC00201.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0614e5a6d7face151b0dcadce86e90cbef9a372e-2500x1667.jpg",
+      "filename": "web_DSC00210.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\019-web_DSC00210.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a18279cc4a298d5826edc099976940c827cbab75-2500x1667.jpg",
+      "filename": "web_DSC00217.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\020-web_DSC00217.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35ad201fdb267a57ec690462013c90b0fd6e0957-2500x1667.jpg",
+      "filename": "web_DSC00244.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\021-web_DSC00244.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd8f6fd375e9947dae8809c586f84cac8de41642-2500x1667.jpg",
+      "filename": "web_DSC00262.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\022-web_DSC00262.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee1f31c86784bb15e2dea1b4b3a630ca247ce140-3000x2000.jpg",
+      "filename": "web_DSC01710.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\023-web_DSC01710.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ce306356ad515dc67be1dba60f3e3a2f718166a-3000x2000.jpg",
+      "filename": "web_DSC01715.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\024-web_DSC01715.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/186b03505876e718226cb3461908023e5a078ca5-3000x2000.jpg",
+      "filename": "web_DSC02316.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\025-web_DSC02316.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1eef5ebeb2bfe64c9b44cb936f66ceafe5058758-3000x2000.jpg",
+      "filename": "web_DSC02334.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\026-web_DSC02334.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13fc76eb9bdb03073f5d930fd0ce2fbaaf7f5fea-3000x2000.jpg",
+      "filename": "web_DSC02348.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\027-web_DSC02348.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9475079923ed51902e9e96482d872c6a0bb453bc-3000x2000.jpg",
+      "filename": "web_DSC08346.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\028-web_DSC08346.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/36c6b4033b1fa7cfc461364833352458db40fed4-3000x2000.jpg",
+      "filename": "web_DSC02364.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\029-web_DSC02364.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/699352804547a0de1c65638d47fe0d60536abde1-3000x2000.jpg",
+      "filename": "web_DSC08380.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\030-web_DSC08380.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8fa88907b9429356f48a237b4593adb7e378dff2-3000x2000.jpg",
+      "filename": "web_DSC01633.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\031-web_DSC01633.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/74088e2c159d0b976c26f61caaa6def45cf79060-3000x2000.jpg",
+      "filename": "web_DSC01673.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\032-web_DSC01673.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0d6ceb2707746c8e942dcae3948a41958c8cb996-3000x2000.jpg",
+      "filename": "web_DSC09673.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\033-web_DSC09673.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5bf86f1fc022768c57936d6c0bb3314a673961a3-3000x2000.jpg",
+      "filename": "web_DSC09767.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\034-web_DSC09767.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a424edc4173584d710967743be2ffd3d152bc23c-2500x1667.jpg",
+      "filename": "web_DSC01511.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\035-web_DSC01511.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ac5ba39e63053f280bf5aa337023e7ba9331687f-2500x1667.jpg",
+      "filename": "web_DSC01516.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\036-web_DSC01516.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fac6cd3d12b5610a00c6aab87961783ff373c098-3000x2000.jpg",
+      "filename": "web_DSC01541.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\037-web_DSC01541.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba12384cd805299c9770991114bf7651a1ec5324-3000x2000.jpg",
+      "filename": "web_DSC01564.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\038-web_DSC01564.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c31aec6483bac4d310a840f899319dbc312fd549-3000x2000.jpg",
+      "filename": "web_DSC00314.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\039-web_DSC00314.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ea8cd8f24169ce4bc2835c064db700f6c21406b3-2500x1667.jpg",
+      "filename": "web_DSC01630.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\040-web_DSC01630.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e12115d3678a03a3961539c997ece323dcd1ebf5-2500x1667.jpg",
+      "filename": "web_DSC02300.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\041-web_DSC02300.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d833bec8450e9e928c73bb05cd89b3741602be5-2500x1667.png",
+      "filename": "10_lettering_kor.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\042-10_lettering_kor.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6d3ab88be81ebaad1e33891df8bbeea73ba44563-2500x1667.png",
+      "filename": "11_lettering_eng.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\043-11_lettering_eng.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b414626bf97bfbb2611287ead530e9318d5a35fa-3000x2000.png",
+      "filename": "lettering_all.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lotteria\\assets\\044-lettering_all.png"
+    }
+  ],
+  "rawId": "c55c8ec4-b626-4269-8e68-4342c58638cf",
+  "detail": {
+    "title": "Lotteria",
+    "designersText": "Studio fnt",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#F00028",
+        "rgb": "240, 0, 40",
+        "cmyk": "0, 100, 83, 6"
+      },
+      {
+        "hex": "#D2002D",
+        "rgb": "210, 0, 45",
+        "cmyk": "0, 100, 79, 18"
+      },
+      {
+        "hex": "#FFAF00",
+        "rgb": "255, 175, 0",
+        "cmyk": "0, 31, 100, 0"
+      },
+      {
+        "hex": "#FF9B00",
+        "rgb": "255, 155, 0",
+        "cmyk": "0, 39, 100, 0"
+      },
+      {
+        "hex": "#FFF5D7",
+        "rgb": "255, 245, 215",
+        "cmyk": "0, 4, 16, 0"
+      },
+      {
+        "hex": "#82D296",
+        "rgb": "130, 210, 150",
+        "cmyk": "38, 0, 29, 18"
+      },
+      {
+        "hex": "#4B8223",
+        "rgb": "75, 130, 35",
+        "cmyk": "42, 0, 73, 49"
+      },
+      {
+        "hex": "#FF5A37",
+        "rgb": "255, 90, 55",
+        "cmyk": "0, 65, 78, 0"
+      },
+      {
+        "hex": "#D75F00",
+        "rgb": "215, 95, 0",
+        "cmyk": "0, 56, 100, 16"
+      },
+      {
+        "hex": "#A05A19",
+        "rgb": "160, 90, 25",
+        "cmyk": "0, 44, 84, 37"
+      },
+      {
+        "hex": "#733719",
+        "rgb": "115, 55, 25",
+        "cmyk": "0, 52, 78, 55"
+      },
+      {
+        "hex": "#5F5046",
+        "rgb": "95, 80, 70",
+        "cmyk": "0, 16, 26, 63"
+      }
+    ],
+    "typeText": "",
+    "korean": {
+      "브랜드명": "Lotteria",
+      "디자이너": "Studio fnt",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#F00028",
+          "rgb": "240, 0, 40",
+          "cmyk": "0, 100, 83, 6"
+        },
+        {
+          "hex": "#D2002D",
+          "rgb": "210, 0, 45",
+          "cmyk": "0, 100, 79, 18"
+        },
+        {
+          "hex": "#FFAF00",
+          "rgb": "255, 175, 0",
+          "cmyk": "0, 31, 100, 0"
+        },
+        {
+          "hex": "#FF9B00",
+          "rgb": "255, 155, 0",
+          "cmyk": "0, 39, 100, 0"
+        },
+        {
+          "hex": "#FFF5D7",
+          "rgb": "255, 245, 215",
+          "cmyk": "0, 4, 16, 0"
+        },
+        {
+          "hex": "#82D296",
+          "rgb": "130, 210, 150",
+          "cmyk": "38, 0, 29, 18"
+        },
+        {
+          "hex": "#4B8223",
+          "rgb": "75, 130, 35",
+          "cmyk": "42, 0, 73, 49"
+        },
+        {
+          "hex": "#FF5A37",
+          "rgb": "255, 90, 55",
+          "cmyk": "0, 65, 78, 0"
+        },
+        {
+          "hex": "#D75F00",
+          "rgb": "215, 95, 0",
+          "cmyk": "0, 56, 100, 16"
+        },
+        {
+          "hex": "#A05A19",
+          "rgb": "160, 90, 25",
+          "cmyk": "0, 44, 84, 37"
+        },
+        {
+          "hex": "#733719",
+          "rgb": "115, 55, 25",
+          "cmyk": "0, 52, 78, 55"
+        },
+        {
+          "hex": "#5F5046",
+          "rgb": "95, 80, 70",
+          "cmyk": "0, 16, 26, 63"
+        }
+      ],
+      "서체정보": "",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

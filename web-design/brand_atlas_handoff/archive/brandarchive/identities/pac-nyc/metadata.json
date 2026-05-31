@@ -1,0 +1,497 @@
+{
+  "source": "brandarchive",
+  "name": "PAC NYC",
+  "slug": "pac-nyc",
+  "url": "https://brandarchive.xyz/identity/pac-nyc",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Porto Rocha",
+    "slug": "designed-by-porto-rocha"
+  },
+  "designers": [
+    "Porto Rocha"
+  ],
+  "assetCount": 53,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/833fadf3f2cacd07e5a0313b75b678c8c560726f-3900x2600.jpg",
+      "filename": "01624b41e7752d686c2c7f55f9e51087.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\001-01624b41e7752d686c2c7f55f9e51087.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/af274d077ee0c7235e7871cf21238ad80e318c01-3138x2082.jpg",
+      "filename": "b8ab6584f0d63aafa9692cd2215040af.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3138,
+      "height": 2082,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\002-b8ab6584f0d63aafa9692cd2215040af.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ffac32d4c89ce059846532544649fcab6ee206ca-3900x2600.jpg",
+      "filename": "8979a3646bd9f251577be36a49d5313c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\003-8979a3646bd9f251577be36a49d5313c.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cbae530d79cafb987218ba835bb34840696bb5f6.mp4",
+      "filename": "Logo_Sequence-vimeo-929580911-dash-fastly_skyfire_sep-video-b4661736.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8b76d087b89ebc0ee4d457dec071c30b8e46f183.mp4",
+      "filename": "Footage_UpRes-vimeo-929580757-dash-fastly_skyfire_sep-video-799d805b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1a690cf40732fa7e9a75d671539e32688ef99011-3900x2600.jpg",
+      "filename": "6cd48b80afc89071d5c6d447c6d61735.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\004-6cd48b80afc89071d5c6d447c6d61735.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5f78d59cab4af732fea01559aec2c5b6a30441f3-3900x2600.jpg",
+      "filename": "dab9ad53d7f62717d403986e7477e5fa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\005-dab9ad53d7f62717d403986e7477e5fa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d19d43f0d24c73df2431559da75ba359123d43b-3900x2600.jpg",
+      "filename": "61027fe6b9bdba2f2694bd1d649da998.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\006-61027fe6b9bdba2f2694bd1d649da998.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/630ad84fa004e6ae1ed874d9c90473b6fe8e7734-1600x2000.jpg",
+      "filename": "b09bffe481c4c9f974ad4c2db7c94cd9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\007-b09bffe481c4c9f974ad4c2db7c94cd9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5cb61cc5b8cb91de63832c08c9c7cf6d92d69b3-1500x2030.jpg",
+      "filename": "d1420d643c754b644c3b271d66072872.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2030,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\008-d1420d643c754b644c3b271d66072872.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9382b20eb8979008e4dd7465b9282d0ea19a6b8c.mp4",
+      "filename": "Scoll-vimeo-929581070-hls-fastly_skyfire_sep-7842.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/373974da514e8bc83a6fba709f0f49164ab733b7.mp4",
+      "filename": "Letters_Rotation-vimeo-929580896-hls-fastly_skyfire_sep-592.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/977b226b3e640774fe5d38066cdb6305fd67dbe5.mp4",
+      "filename": "Poster_3DRotation-vimeo-929580945-hls-fastly_skyfire_sep-3364.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2721d5f692d894bcd6ec1ae766af10fe5ef4eb41-4000x2667.jpg",
+      "filename": "11d5d81c16a4f4be1f66d0ac84183c18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4000,
+      "height": 2667,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\009-11d5d81c16a4f4be1f66d0ac84183c18.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8a75ddcd7751c70ac204844061f0ae81e42e69ca-3900x2600.jpg",
+      "filename": "752cb2367792eb145f955d615a28cc11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\010-752cb2367792eb145f955d615a28cc11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba8dae6c91e365b54ad1f1aa99c393ab6e02aeef-3900x2600.jpg",
+      "filename": "e984db2071abcb19e772da412a0ff3b7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\011-e984db2071abcb19e772da412a0ff3b7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1a89dad0322ed3af2bbfdc72439f3f9f6b969a13-3900x2600.jpg",
+      "filename": "32a1030bcb15ec587c8cb0b03a3eeee4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\012-32a1030bcb15ec587c8cb0b03a3eeee4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f9c8c2b192c7762caa47010d5384064f6ee4a42-1600x2000.jpg",
+      "filename": "cf05cc79d12b0967077f44f84d1b718c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\013-cf05cc79d12b0967077f44f84d1b718c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9fedf5f2de95a24fe493c38ff48299f56bad1996-2250x3000.jpg",
+      "filename": "66e7f94799b517414526671e0beefc42.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\014-66e7f94799b517414526671e0beefc42.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0b4943cdde07162b7907c1a75a3cef0731e7389e-3000x2000.jpg",
+      "filename": "e1a7895e6451ab32b7e98b3a2b816343.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\015-e1a7895e6451ab32b7e98b3a2b816343.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ad96c87f2ca0b064b538ad41a1334dcfa1a6a97-3900x2600.jpg",
+      "filename": "7f6774245fb8d9ff87ac6c88087f44f9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\016-7f6774245fb8d9ff87ac6c88087f44f9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e132592263c838a3b8a347b436f5666bb10a652c-1800x1200.jpg",
+      "filename": "511b17c3b082a5f23adfd55b1ad92c6f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\017-511b17c3b082a5f23adfd55b1ad92c6f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/49f772d3abf1db921677a5c1804154d75de94a4c-3900x2600.jpg",
+      "filename": "e6f07ca54a303c79d948da7967ee9a7d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\018-e6f07ca54a303c79d948da7967ee9a7d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9ef8ab8b501fab41b9bf9f752a95c0b609e136e0-1500x2000.jpg",
+      "filename": "6e9fe7e824735d233be109223683d982.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\019-6e9fe7e824735d233be109223683d982.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0dbe8af6899a04328e33f29a058c93158ea61d2-1500x2000.jpg",
+      "filename": "8da1ecc44ed8f99b034970d0e03489e7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\020-8da1ecc44ed8f99b034970d0e03489e7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c996aafdf51b18c4c8649ee65bb75900b78bc48-3900x2600.jpg",
+      "filename": "6e7739050e599dc10cf6dd615539e3af.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\021-6e7739050e599dc10cf6dd615539e3af.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b76f3a351930c794a578cf6d300fa00a8c45be2f-3900x2600.jpg",
+      "filename": "3a973741e9eabb1817fed5ae4f6f67cc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\022-3a973741e9eabb1817fed5ae4f6f67cc.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0882049046bcd2d6f3da38bad0608024bd7b6e4d.mp4",
+      "filename": "Footage_Sequence-vimeo-929580635-dash-fastly_skyfire_sep-video-196f74f0.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/317f21d9bd85bd39b5ddb6e0845ecf50357d1e39.mp4",
+      "filename": "Type_Sequence-vimeo-929581444-hls-fastly_skyfire_sep-4116.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02e72bc6d6912398e4721130a6b19bbae9c54b13-1500x2000.jpg",
+      "filename": "afb26f14cf3efb66cb59342a91a26f4f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\023-afb26f14cf3efb66cb59342a91a26f4f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a367ea2b7526baf249ba2d5ef36d15748701b05f-1500x2000.jpg",
+      "filename": "80143511c2029cee2d4612eecf7c2dfe.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\024-80143511c2029cee2d4612eecf7c2dfe.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/737f0dde5a211d422400583e36e6d6afbf5b0018-1500x2000.jpg",
+      "filename": "e8eb1486471a7469f8602ee5c40c2e22.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\025-e8eb1486471a7469f8602ee5c40c2e22.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cda9d32d7fb2c26f981224fa9d8d9f0f322f018a.mp4",
+      "filename": "Digital_OOH-vimeo-929580527-dash-fastly_skyfire_sep-video-bc890cd6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/92d668646eef5b9df28d9ae381af4f1b7850cb7d.mp4",
+      "filename": "Programming_Screen-vimeo-929581003-dash-fastly_skyfire_sep-video-a7eb3f8b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2788cc3ca27659ca5779cd4a3cb6809d37b63671.mp4",
+      "filename": "Subway_TallScreens-vimeo-929581370-hls-fastly_skyfire_sep-10636.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/55779a7e7bd0c9ff0812a2acfda2037d57cf3b05-1440x1920.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\026-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee419b11a638b4eeada68fca69af8607042e05cc-1440x1920.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\027-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e31064a1749e4b6023767c35ba2cda2ffd7eb766-1440x1920.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\028-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/377aa16121849c387b24a67f8a7f324d6ee45594-1440x1920.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\029-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8a7281ec634c5fe5776ceb9305fcb38aa0e05547-1440x1920.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\030-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/736acea64bd7f42f0cec881f981bfe4e060b34b3-1440x1920.jpg",
+      "filename": "oster_Sequence-vimeo-929580974-hls-fastly_skyfire_sep-2530 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\031-oster_Sequence-vimeo-929580974-hls-fastly_skyfire_sep-2530-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8e915753b017b740de05a1fc2dac31291b5854e3-1440x1920.jpg",
+      "filename": "Poster_Sequence-vimeo-929580974-hls-fastly_skyfire_sep-2530 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\032-Poster_Sequence-vimeo-929580974-hls-fastly_skyfire_sep-2530-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eec0ca0aea17afe0bc647537501d74c41f1c9932-1500x2000.jpg",
+      "filename": "2eac8e851ccd14abd4664f633891d6cc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\033-2eac8e851ccd14abd4664f633891d6cc.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aac453305d0ca3bc6b41936d201fed938735a851.mp4",
+      "filename": "Stories_HScroll_Eased-vimeo-929581123-dash-fastly_skyfire_sep-video-4b79e225.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b4911ed57fcaf3e2b9ec079e3bd29409765dc40-3000x2000.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\034-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/520108776e8ca1f28d5cc2fc37fd76bf67d8101c-3000x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\035-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/80dadda742a659c1774194703111d27bf47e13a6-3000x2000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\036-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68a74d210ab70b8ca19b307d9a632b0fc0754f62-3000x2000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\037-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41e91273d0bbb7b80457900e030e30fd9b1333ef-3000x2000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\038-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/82a68faa16e6b4d791dc4b7f7aaed973c5cbb904-3000x2000.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\039-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b75cf7e23f0058acdee9d088f3f4c66812d7610a-3000x2000.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\040-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/17dbb94199838e9ca5c2dc474f568b22388c8c1a-3900x2599.jpg",
+      "filename": "a3c6334cb6bfe606a45ca8918292f726.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3900,
+      "height": 2599,
+      "localPath": "archive\\brandarchive\\identities\\pac-nyc\\assets\\041-a3c6334cb6bfe606a45ca8918292f726.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5f8d19d958df56cffeaf4b4f5fd9811f69099d8f.mp4",
+      "filename": "Type_Tall-vimeo-929581484-hls-fastly_skyfire_sep-879.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "a913eb10-dd74-4c15-b316-2a387afb078c",
+  "detail": {
+    "title": "PAC NYC",
+    "designersText": "Porto Rocha",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 53 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "PAC NYC",
+      "디자이너": "Porto Rocha",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 53 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "source": "brandarchive",
+  "name": "INAX",
+  "slug": "inax",
+  "url": "https://brandarchive.xyz/identity/inax",
+  "year": 1985,
+  "exclusive": true,
+  "collection": {
+    "title": "Historical",
+    "slug": "historical"
+  },
+  "designers": [
+    "PAOS"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6fd0a1c74c1fe233f27409690ce00e93fb48e084-9000x9000.jpg",
+      "filename": "Scanaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9000,
+      "height": 9000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\001-Scanaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc8b9acfb1cb12cba8c6c1098268be68cc48c424-9000x9000.jpg",
+      "filename": "Scan.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 9000,
+      "height": 9000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\002-Scan.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3686734e45dea96e0db7205a6493204bfc49b1b2-2000x2000.jpg",
+      "filename": "TheFishrie Scan_240520230901.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\003-TheFishrie-Scan_240520230901.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8b25323483ae1ee0f655f8b4b0ce1d461ab0697c-2300x2300.jpg",
+      "filename": "TheFishrie Scan_2405202309051.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2300,
+      "height": 2300,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\004-TheFishrie-Scan_2405202309051.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91dc9cf6fa9528fc9563c08f0682d501f2b1958d-1500x1500.jpg",
+      "filename": "Scan 76b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\005-Scan-76b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35397eac39b4e9785134eaaf29e3f901c28fe66b-1500x1500.jpg",
+      "filename": "Scan 76c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\006-Scan-76c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/70d90e6c7b9768c2b9723da83411eb0d9d7e3afc-1100x1100.jpg",
+      "filename": "Scan 76d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1100,
+      "height": 1100,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\007-Scan-76d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ab316ea884578ffc01ef986d8b239172d97856f5-3017x1838.jpg",
+      "filename": "Scan 77 2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3017,
+      "height": 1838,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\008-Scan-77-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9e34c2f333e8b972ce8227ff9b15d5e2bda8212e-3031x1823.jpg",
+      "filename": "Scan 77 2b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3031,
+      "height": 1823,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\009-Scan-77-2b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c53ce72559dd6120d069b696bc7883d9eb680c6-2235x1007.jpg",
+      "filename": "Scan 77 2c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2235,
+      "height": 1007,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\010-Scan-77-2c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6ad437bc96e5956afdae94dce2f7eaf45637a09e-2768x1299.jpg",
+      "filename": "Scan 77 2d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2768,
+      "height": 1299,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\011-Scan-77-2d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5c277c8b54f65e6f73663fc9438dfeba24c648ec-2400x2400.jpg",
+      "filename": "TheFishries Scan_24052023090515.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\012-TheFishries-Scan_24052023090515.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/263630f13fd8872f1e22814795887bc01ab83c8f-1400x1400.jpg",
+      "filename": "he Fishries Scan_24052090515-01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\013-he-Fishries-Scan_24052090515-01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ccffd97e064cd5268021603379544da05ae5a5e-2143x1304.jpg",
+      "filename": "Scan 78a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2143,
+      "height": 1304,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\014-Scan-78a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed756750f2c92c3026d8ac237b2e8f6c92591862-1784x1032.jpg",
+      "filename": "Scan 76a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1784,
+      "height": 1032,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\015-Scan-76a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e0b9a39851bbd7f1f15253ec4817e78971d29b35-1784x1032.jpg",
+      "filename": "Scan 76b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1784,
+      "height": 1032,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\016-Scan-76b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b826bc8e3da530a540baa39a4b08b5afde392912-1000x1000.jpg",
+      "filename": "he Fishries Scan_24052090515-0001.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\017-he-Fishries-Scan_24052090515-0001.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c0cd8a34e9944897673405484a10fa7190ee604-3000x3000.jpg",
+      "filename": "he Fishries Scan_24052023090515-0001.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\018-he-Fishries-Scan_24052023090515-0001.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aedec98c8000e6019626f338eef2793193121ea2-2000x2000.jpg",
+      "filename": "INAX-Logo-Design-1984-PAOS-Japan-LogoArchive-Logo-Histories.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\019-INAX-Logo-Design-1984-PAOS-Japan-LogoArchive-Logo-Histories.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/025ee4fd4dc11c49866027961500d854aa629620-1900x1900.jpg",
+      "filename": "TheFishrie Scan_24052023090515.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1900,
+      "height": 1900,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\020-TheFishrie-Scan_24052023090515.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0cadbdbdd90f81ddfd9e502e4c7cdf013f6c3835-2000x2000.jpg",
+      "filename": "TheFishrie Scan_2405202301.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\021-TheFishrie-Scan_2405202301.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/98a6344e49018ea51c6ba5f2ef6300d0c1661fe9-4200x1400.jpg",
+      "filename": "heFishriean_2405202301 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4200,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\022-heFishriean_2405202301-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3ed6e33489cee01f35c0efb39fd5833852a1417e-1300x1300.jpg",
+      "filename": "he Fishries Scan_2405211.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1300,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\023-he-Fishries-Scan_2405211.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04af2145d9afb2c51dc9330fafae5dbbef38ee0d-4000x600.jpg",
+      "filename": " Fishries Scan_240521.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4000,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\024-Fishries-Scan_240521.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e9e0df98ab89a017008f56436ef30d7c64059590-2000x2000.jpg",
+      "filename": "e Fishries Scan_2405211.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\025-e-Fishries-Scan_2405211.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f1a1ef6a61268d7857acd304b985a95af8c3d9f-1300x1300.jpg",
+      "filename": "he Fishries Scan_24052090511 aa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1300,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\026-he-Fishries-Scan_24052090511-aa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/20c76dab66a344cd9ed0809200441220190eae61-1000x1000.jpg",
+      "filename": "he Fishries Scan_24052090511 as.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\027-he-Fishries-Scan_24052090511-as.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f18d7ed4c7049873ba6034f3b4a0dd0c66013a4-1700x1700.jpg",
+      "filename": "he Fishries Scan_24052090511 asaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1700,
+      "height": 1700,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\028-he-Fishries-Scan_24052090511-asaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/49318753e3deebe45f6b7e3d85dec86e6d52e4ef-3728x2158.jpg",
+      "filename": "Scan 76c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3728,
+      "height": 2158,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\029-Scan-76c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/74183afa49a856329d0960f0bbf3248ae4fd0cd4-3735x1598.jpg",
+      "filename": "Scan 76d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3735,
+      "height": 1598,
+      "localPath": "archive\\brandarchive\\identities\\inax\\assets\\030-Scan-76d.jpg"
+    }
+  ],
+  "rawId": "93adbe92-e6df-4b13-bff0-dc61fe5f6f70",
+  "detail": {
+    "title": "INAX",
+    "designersText": "PAOS",
+    "yearText": "1985",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 30 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "INAX",
+      "디자이너": "PAOS",
+      "연도": "1985",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 30 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

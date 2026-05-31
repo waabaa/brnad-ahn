@@ -1,0 +1,200 @@
+{
+  "source": "brandarchive",
+  "name": "Lorod",
+  "slug": "lorod",
+  "url": "https://brandarchive.xyz/identity/lorod",
+  "year": 2017,
+  "exclusive": false,
+  "collection": {
+    "title": "Fashion",
+    "slug": "fashion"
+  },
+  "designers": [
+    "Pentagram&#8217;s Natasha Jen"
+  ],
+  "assetCount": 14,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/995371beeff51b6c86c3ae8d34351d82c0eb9a0b-1280x853.jpg",
+      "filename": "07-Lorod-Branding-Print-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BP-O.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\001-07-Lorod-Branding-Print-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BP-O.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f5d64a0d4f8f72384ee88cddc1aeabfe9ed6716c-1280x853.jpg",
+      "filename": "01-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\002-01-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7532852513869801ef42029be31adaa8f5fd1cda-1280x853.gif",
+      "filename": "02-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.gif",
+      "mimeType": "image/gif",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\003-02-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1fe6ff5753c3becdd5a41e1a95bef1c71c6f48ce-1280x853.jpg",
+      "filename": "03-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\004-03-Lorod-Branding-Wordmark-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c06f3c7d9963e68a268cf081a2514ed8cbf63bf3-1280x853.jpg",
+      "filename": "04-Lorod-Branding-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\005-04-Lorod-Branding-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c80fcfe189d6b02823c4dcb9dd2b13a2cbba656-1280x854.jpg",
+      "filename": "05-Lorod-Branding-Print-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 854,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\006-05-Lorod-Branding-Print-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a3f5e89de80a18d97ac565d55843ca98071ff79-1280x853.jpg",
+      "filename": "06-Lorod-Branding-Print-Envelope-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\007-06-Lorod-Branding-Print-Envelope-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59625fb6ed3e82ebd8ec494a328e442acc86212e-1280x853.jpg",
+      "filename": "08-Lorod-Branding-Print-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\008-08-Lorod-Branding-Print-Blind-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/14bedf86c1589354867a1150b5b22f6e534afbca-1280x853.jpg",
+      "filename": "09-Lorod-Branding-Print-Blind-Embossed-Tags-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\009-09-Lorod-Branding-Print-Blind-Embossed-Tags-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1463f5674e5cb18c042d7c4e1f360bd4e619cc4e-1280x853.jpg",
+      "filename": "10-Lorod-Branding-Coat-Hangers-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\010-10-Lorod-Branding-Coat-Hangers-Embossed-Business-Card-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/841a2052d5cc36929b050955c33ddb643cd3fe3d-1280x853.jpg",
+      "filename": "11-Lorod-Branding-Inside-Label-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\011-11-Lorod-Branding-Inside-Label-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bef69c615b46d5bfca5c5926b1c5aa202a070935-1280x853.jpg",
+      "filename": "12-Lorod-Branding-Print-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\012-12-Lorod-Branding-Print-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f6e62b2c44b0c6634e79fdcaba4f1d83c22c43b-1280x853.jpg",
+      "filename": "13-Lorod-Branding-Website-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\013-13-Lorod-Branding-Website-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/365478e2d7cce99a9be7cb5fa8766a755d49ec7e-1280x853.jpg",
+      "filename": "14-Lorod-Branding-Website-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "localPath": "archive\\brandarchive\\identities\\lorod\\assets\\014-14-Lorod-Branding-Website-Pentagram-Natasha-Jen-New-York-USA-BPO.jpg"
+    }
+  ],
+  "rawId": "identity82228",
+  "detail": {
+    "title": "Lorod",
+    "designersText": "Pentagram&#8217;s Natasha Jen",
+    "yearText": "2017",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FAF6EA",
+        "rgb": "250, 246, 234",
+        "cmyk": "0, 2, 6, 2"
+      },
+      {
+        "hex": "#050608",
+        "rgb": "5, 6, 8",
+        "cmyk": "37, 25, 0, 97"
+      }
+    ],
+    "typeText": "Designer: sBerton HasebeHrvoje ŽivčićIlya RudermanPaul Barnes Released: 2007 Foundry: Commercial Type",
+    "korean": {
+      "브랜드명": "Lorod",
+      "디자이너": "Pentagram&#8217;s Natasha Jen",
+      "연도": "2017",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FAF6EA",
+          "rgb": "250, 246, 234",
+          "cmyk": "0, 2, 6, 2"
+        },
+        {
+          "hex": "#050608",
+          "rgb": "5, 6, 8",
+          "cmyk": "37, 25, 0, 97"
+        }
+      ],
+      "서체정보": "Designer: sBerton HasebeHrvoje ŽivčićIlya RudermanPaul Barnes Released: 2007 Foundry: Commercial Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

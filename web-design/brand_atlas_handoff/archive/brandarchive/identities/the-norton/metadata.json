@@ -1,0 +1,430 @@
+{
+  "source": "brandarchive",
+  "name": "The Norton",
+  "slug": "the-norton",
+  "url": "https://brandarchive.xyz/identity/the-norton",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Koto"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3e94f3b18ffc7d8f53a7295840e8c359cd4974f-3840x2160.jpg",
+      "filename": "bd04b1d4ee3f2e1013582e3a52569a9428071672-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\001-bd04b1d4ee3f2e1013582e3a52569a9428071672-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/40c37b21f91b874962a125192bb532c04e4f106b-3840x2160.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\002-1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6ca6b799e8e9652b0fbc19b1f4b7dad933d21b7a.mp4",
+      "filename": "Norton_CS_05_Workmark.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/77632a89d49e793a0772b95740f168a0f34418f7.mp4",
+      "filename": "Norton_CS_10_Seal.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/67e2467d182971011ef73745eee2c3ee063229b0.mp4",
+      "filename": "Norton_CS_03_Strategy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ec07041f6a358044c399791052441d9cbb662740.mp4",
+      "filename": "Norton_CS_16_Layout_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6fb5502067deafab62ef153969fc1a3df060dcc3.mp4",
+      "filename": "Norton_CS_16_Layout_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d9056158cbbc4205fbf8367ee8162fb8f742401c.mp4",
+      "filename": "Norton_CS_16_Layout_03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/25e17d56ff4f166bbe3e3ef797ce2eb055825190.mp4",
+      "filename": "Norton_CS_28_Type_Exhibitions.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5aab628e1d85affcfb12488f75a3e40a078d6afe.mp4",
+      "filename": "Norton_CS_30_Artist_Carousel.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7a3b1d284c03b7c2dfa79cc955efe1aabfb7fd58-1900x1168.jpg",
+      "filename": "bea5ded635740dfcd5aa11bba91487313782ea56-1900x1168.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1900,
+      "height": 1168,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\003-bea5ded635740dfcd5aa11bba91487313782ea56-1900x1168.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b137148f8243147697697d0f66c968612bedc812-1920x2400.jpg",
+      "filename": "3a9f80f905573dff5b3214e37afcbf00ab4a324b-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\004-3a9f80f905573dff5b3214e37afcbf00ab4a324b-2160x2700.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5f417352bd5cd669df7801458dde106a01c8f8c-3840x2160.jpg",
+      "filename": "61f9fdbe0cc433734438b7f8cd4cf95160ee06e1-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\005-61f9fdbe0cc433734438b7f8cd4cf95160ee06e1-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/322aacb2646e7c4ce0cbf011fd8abecea906a621-1920x2400.jpg",
+      "filename": "65bc626a8f8e848b2696335d06a5fb442823a818-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\006-65bc626a8f8e848b2696335d06a5fb442823a818-2160x2700.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f84faff368179466e0f0d44de3135c12bd38f67d-3840x2160.jpg",
+      "filename": "533b1991451efa9a5f8a9e5334d8dd09f5ac8bdd-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\007-533b1991451efa9a5f8a9e5334d8dd09f5ac8bdd-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b83fc7f10d99c378caf56afe57f2a08d82c77f0-3840x2160.jpg",
+      "filename": "bea5ec655d62425317d56a0a3941f90261b1782d-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\008-bea5ec655d62425317d56a0a3941f90261b1782d-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d905ff40160c3959cfab95112a237ce8a07007eb-1920x1080.gif",
+      "filename": "d905ff40160c3959cfab95112a237ce8a07007eb-1920x1080.gif",
+      "mimeType": "image/gif",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\009-d905ff40160c3959cfab95112a237ce8a07007eb-1920x1080.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69e61b61404869340835d419a340a0e48cff5b97-1920x2400.jpg",
+      "filename": "9c0f2d454c61806991c0f0624d400168567f7cae-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\010-9c0f2d454c61806991c0f0624d400168567f7cae-2160x2700.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c2f190c079df5bc636352bec8a350779c50739b-3840x2160.jpg",
+      "filename": "43bbfd4816830b612c1aa888b371cb9becbf1361-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\011-43bbfd4816830b612c1aa888b371cb9becbf1361-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5367b48a31e8421952e4172a69753a49cf92d59a-3840x2160.jpg",
+      "filename": "534243224d0c7d9c446e1d19fc64f6709e4b3249-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\012-534243224d0c7d9c446e1d19fc64f6709e4b3249-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f8dafc24c87bdcc4ba3f5f5b1e5a60dc70d416c-1080x1350.jpg",
+      "filename": "f5d358c43f858e4ed59ee2e954eb4b5d3343d340-1080x1350.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\013-f5d358c43f858e4ed59ee2e954eb4b5d3343d340-1080x1350.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/485a1324d68e33c71565d1b08f7437e4f7566e78-1920x2400.jpg",
+      "filename": "f6697199a4ed5fde266f0dbeefde076ae81b93b2-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\014-f6697199a4ed5fde266f0dbeefde076ae81b93b2-2160x2700.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8d448b1d6f3631a878977941cf35ae353f3c0269.mp4",
+      "filename": "Norton_CS_08_Brochure.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dc9cb92fb23d9dea02d2558b34089f7c7fc77659.mp4",
+      "filename": "Norton_CS_34_Brochure.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/40025ffdc30bdf0326dde99983abd201efab63f4-1920x2400.jpg",
+      "filename": "0d541e15c1d072d5c3df32846d8c3c3831a71503-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\015-0d541e15c1d072d5c3df32846d8c3c3831a71503-2160x2700.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5e18913e913fd6e6d94ba37cd5003938c72b4f83-1920x2400.jpg",
+      "filename": "e96086bda181ad8902edc86f0caa39886a76e626-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\016-e96086bda181ad8902edc86f0caa39886a76e626-2160x2700.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/47654a53b91ebf422debfd91559a51a90cd06ae1-3840x2160.jpg",
+      "filename": "e02032406e83c1c820dfd550890c5b0f70307170-3840x2160.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\017-e02032406e83c1c820dfd550890c5b0f70307170-3840x2160.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0384ab04837b608bda9f7aa145719af089da3193-1080x1350.jpg",
+      "filename": "7c2ea04d1a691dd770765cdb87d40ba6ae290141-1080x1350.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\018-7c2ea04d1a691dd770765cdb87d40ba6ae290141-1080x1350.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/48fd4eb757af7459f034d76d5af7127c94d56f8e.mp4",
+      "filename": "Norton_CS_21_Signage.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24fc2744b2828a7f0e4f6b58a564f7c221dc78e3-1920x2400.jpg",
+      "filename": "fd9690b5d0954b965fe125f56e7243fda6f4440c-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\the-norton\\assets\\019-fd9690b5d0954b965fe125f56e7243fda6f4440c-2160x2700.jpg"
+    }
+  ],
+  "rawId": "095d4449-7702-498f-8e63-772f69e55446",
+  "detail": {
+    "title": "The Norton",
+    "designersText": "Koto",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#6098FF",
+        "rgb": "96, 152, 255",
+        "cmyk": "62, 40, 0, 0"
+      },
+      {
+        "hex": "#17368A",
+        "rgb": "23, 54, 138",
+        "cmyk": "83, 61, 0, 46"
+      },
+      {
+        "hex": "#F05416",
+        "rgb": "240, 84, 22",
+        "cmyk": "0, 65, 91, 6"
+      },
+      {
+        "hex": "#76A93D",
+        "rgb": "118, 169, 61",
+        "cmyk": "30, 0, 64, 34"
+      },
+      {
+        "hex": "#F7BE11",
+        "rgb": "247, 190, 17",
+        "cmyk": "0, 23, 93, 3"
+      },
+      {
+        "hex": "#E60000",
+        "rgb": "230, 0, 0",
+        "cmyk": "0, 100, 100, 10"
+      },
+      {
+        "hex": "#31421C",
+        "rgb": "49, 66, 28",
+        "cmyk": "26, 0, 58, 74"
+      },
+      {
+        "hex": "#451F11",
+        "rgb": "69, 31, 17",
+        "cmyk": "0, 55, 75, 73"
+      },
+      {
+        "hex": "#FF9B94",
+        "rgb": "255, 155, 148",
+        "cmyk": "0, 39, 42, 0"
+      },
+      {
+        "hex": "#E27B4F",
+        "rgb": "226, 123, 79",
+        "cmyk": "0, 46, 65, 11"
+      },
+      {
+        "hex": "#AEDCC6",
+        "rgb": "174, 220, 198",
+        "cmyk": "21, 0, 10, 14"
+      },
+      {
+        "hex": "#A4613C",
+        "rgb": "164, 97, 60",
+        "cmyk": "0, 41, 63, 36"
+      },
+      {
+        "hex": "#C4BBEA",
+        "rgb": "196, 187, 234",
+        "cmyk": "16, 20, 0, 8"
+      }
+    ],
+    "typeText": "Designer: Josh Finklea Released: 2017 Foundry: Sharp Type",
+    "korean": {
+      "브랜드명": "The Norton",
+      "디자이너": "Koto",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#6098FF",
+          "rgb": "96, 152, 255",
+          "cmyk": "62, 40, 0, 0"
+        },
+        {
+          "hex": "#17368A",
+          "rgb": "23, 54, 138",
+          "cmyk": "83, 61, 0, 46"
+        },
+        {
+          "hex": "#F05416",
+          "rgb": "240, 84, 22",
+          "cmyk": "0, 65, 91, 6"
+        },
+        {
+          "hex": "#76A93D",
+          "rgb": "118, 169, 61",
+          "cmyk": "30, 0, 64, 34"
+        },
+        {
+          "hex": "#F7BE11",
+          "rgb": "247, 190, 17",
+          "cmyk": "0, 23, 93, 3"
+        },
+        {
+          "hex": "#E60000",
+          "rgb": "230, 0, 0",
+          "cmyk": "0, 100, 100, 10"
+        },
+        {
+          "hex": "#31421C",
+          "rgb": "49, 66, 28",
+          "cmyk": "26, 0, 58, 74"
+        },
+        {
+          "hex": "#451F11",
+          "rgb": "69, 31, 17",
+          "cmyk": "0, 55, 75, 73"
+        },
+        {
+          "hex": "#FF9B94",
+          "rgb": "255, 155, 148",
+          "cmyk": "0, 39, 42, 0"
+        },
+        {
+          "hex": "#E27B4F",
+          "rgb": "226, 123, 79",
+          "cmyk": "0, 46, 65, 11"
+        },
+        {
+          "hex": "#AEDCC6",
+          "rgb": "174, 220, 198",
+          "cmyk": "21, 0, 10, 14"
+        },
+        {
+          "hex": "#A4613C",
+          "rgb": "164, 97, 60",
+          "cmyk": "0, 41, 63, 36"
+        },
+        {
+          "hex": "#C4BBEA",
+          "rgb": "196, 187, 234",
+          "cmyk": "16, 20, 0, 8"
+        }
+      ],
+      "서체정보": "Designer: Josh Finklea Released: 2017 Foundry: Sharp Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "source": "brandarchive",
+  "name": "Aneo",
+  "slug": "aneo",
+  "url": "https://brandarchive.xyz/identity/aneo",
+  "year": 2026,
+  "exclusive": true,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Scandinavian Design Group"
+  ],
+  "assetCount": 22,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/849933fef32ce9301d449db7b84fce3563ccff32-2881x1621.jpg",
+      "filename": "69aae93ff89c3d4bcfe90c4d_Aneo-poster-outdoor copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2881,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\001-69aae93ff89c3d4bcfe90c4d_Aneo-poster-outdoor-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/35a143ef8ae6eff9e4163a858520dff201481166.mp4",
+      "filename": "file.mp4 (1080p)-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9fcef25ea8cbab35d8b8ee2e26ef190bebd45585.mp4",
+      "filename": "file.mp4 (1080p)-3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cb4b010a0e7e81912af7f4543c50e85455f5664d.mp4",
+      "filename": "file.mp4 (1080p)-5.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f0d4f6465acd3964faf9641fcab4db06de0ed0b5.mp4",
+      "filename": "file.mp4 (1080p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8de40ef06201a9c64c0b387490b203d1ac733f67.mp4",
+      "filename": "file.mp4 (540p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f203d01ce6447c568790d3bd01974bf144c6013f.mp4",
+      "filename": "file.mp4 (1080p)-4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/07834fd55344fcd1a1f40e661d76dad0887f0348-1036x1210.png",
+      "filename": "l.png",
+      "mimeType": "image/png",
+      "width": 1036,
+      "height": 1210,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\002-l.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd0e25138bc5bad292a47fde0511708af572061e-1036x1210.png",
+      "filename": "Screenshot 2026-05-12 at 11.43.16.png",
+      "mimeType": "image/png",
+      "width": 1036,
+      "height": 1210,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\003-Screenshot-2026-05-12-at-11.43.16.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc08e2ee4fabd2c5f6544505dd48d6c0570152ce-2124x2134.png",
+      "filename": "Screenshot 2026-05-12 at 11.43.01.png",
+      "mimeType": "image/png",
+      "width": 2124,
+      "height": 2134,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\004-Screenshot-2026-05-12-at-11.43.01.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed20ac7ab6479a55b2ee8597149ffbbc7f231bfa-2124x2142.png",
+      "filename": "Screenshot 2026-05-12 at 11.46.29.png",
+      "mimeType": "image/png",
+      "width": 2124,
+      "height": 2142,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\005-Screenshot-2026-05-12-at-11.46.29.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1c31865f9b192bd03e59075470f4bd66786b3bcb-2118x2140.png",
+      "filename": "Screenshot 2026-05-12 at 11.46.38.png",
+      "mimeType": "image/png",
+      "width": 2118,
+      "height": 2140,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\006-Screenshot-2026-05-12-at-11.46.38.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/94d5256f1828285bef44c6d2b236df8cb6e1dca2-2881x1621.jpg",
+      "filename": "69aae93ff89c3d4bcfe90c4d_Aneo-poster-outdoor.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2881,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\007-69aae93ff89c3d4bcfe90c4d_Aneo-poster-outdoor.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/094cc4a73117e00df3849b0e6e609f8271d4ac91-2160x2160.jpg",
+      "filename": "69aae95620a3d32fe042aa25_Aneo-packaging.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\008-69aae95620a3d32fe042aa25_Aneo-packaging.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7833908f2c23dc617114edcf3eafa6e214c80f37-2800x2160.jpg",
+      "filename": "69aae913327cfe3218953838_Aneo-billboard.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\009-69aae913327cfe3218953838_Aneo-billboard.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ddf819aad99c0043e3d74e344075e3aed61b8fa-2160x2160.jpg",
+      "filename": "69aae8a8173c9049baacc83a_Aneo-instagram-story.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\010-69aae8a8173c9049baacc83a_Aneo-instagram-story.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7e0049f73d84919c69261edbbe50fa1260851ebb-2881x1621.jpg",
+      "filename": "69aae8e5fb4145ac53df715d_Aneo-hummingbird.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2881,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\011-69aae8e5fb4145ac53df715d_Aneo-hummingbird.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ede9bd84070b9b76f140444c71364c63b2b5292-3200x1800.jpg",
+      "filename": "69aae98e99b92913b65d7c6a_Aneo-web-components-p-3200.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3200,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\012-69aae98e99b92913b65d7c6a_Aneo-web-components-p-3200.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fde65fed16c2555e8bd293eb00e7cd8b64c99564-2880x1621.jpg",
+      "filename": "69aae9034c02ff7f7cb1cde7_Aneo-website.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2880,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\013-69aae9034c02ff7f7cb1cde7_Aneo-website.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a821079c30753a1529afb0923d363c3c1b860704-2114x2128.png",
+      "filename": "Screenshot 2026-05-12 at 11.40.14.png",
+      "mimeType": "image/png",
+      "width": 2114,
+      "height": 2128,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\014-Screenshot-2026-05-12-at-11.40.14.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/392d891c21b1bc6b77e4aa9f811669e293184404-2112x2142.png",
+      "filename": "Screenshot 2026-05-12 at 11.40.25.png",
+      "mimeType": "image/png",
+      "width": 2112,
+      "height": 2142,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\015-Screenshot-2026-05-12-at-11.40.25.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37b058cf8e8079804ca265d0338b9d27b031036f-2120x2118.png",
+      "filename": "Screenshot 2026-05-12 at 11.42.51.png",
+      "mimeType": "image/png",
+      "width": 2120,
+      "height": 2118,
+      "localPath": "archive\\brandarchive\\identities\\aneo\\assets\\016-Screenshot-2026-05-12-at-11.42.51.png"
+    }
+  ],
+  "rawId": "e9234b4b-4080-4d03-839f-a8418c4e33a2",
+  "detail": {
+    "title": "Aneo",
+    "designersText": "Scandinavian Design Group",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 22 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Aneo",
+      "디자이너": "Scandinavian Design Group",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 22 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

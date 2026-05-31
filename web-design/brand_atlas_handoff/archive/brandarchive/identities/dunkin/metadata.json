@@ -1,0 +1,198 @@
+{
+  "source": "brandarchive",
+  "name": "Dunkin'",
+  "slug": "dunkin",
+  "url": "https://brandarchive.xyz/identity/dunkin",
+  "year": 2018,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by jkr",
+    "slug": "jkr"
+  },
+  "designers": [
+    "jkr",
+    "Colophon"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c61c09afe2ef0afc15aca1c0e4b97cceeee0b67e-3840x2160.jpg",
+      "filename": "Dunkin Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\001-Dunkin-Logo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f2dcb216629153e6152c36cc4970e65d65524714-907x851.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 907,
+      "height": 851,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\002-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/484c2fa273deca6b702b6aa2f0a02e6dd4f3a73d-1400x932.png",
+      "filename": "dunkin-new-carousel-2-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\003-dunkin-new-carousel-2-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0bcbd6c6fb862d8050f836a3aeedc76f45e5dd47-1400x932.png",
+      "filename": "dunkin-new-carousel-4-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\004-dunkin-new-carousel-4-1400.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5295801ad0ff93c00de9fda7c78257f6f3a67a3e.mp4",
+      "filename": "23_Dunkin_EnoughSaid.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/771c5a13485cb2e95718df4dab11ca3ae7195ae1-1400x932.png",
+      "filename": "dunkin-new-carousel-6-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\005-dunkin-new-carousel-6-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ea4a1ecbdfdb2de497e1c1f2d34d5f919b959a2-1400x932.png",
+      "filename": "dunkin-new-carousel-10-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\006-dunkin-new-carousel-10-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b287661722535da6e72cbd5a1b6cc785a68dac55-1400x932.png",
+      "filename": "dunkin-new-carousel-8-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\007-dunkin-new-carousel-8-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/18997552cbc4095bc915bf36f763b2f67fe0f2c8-1400x932.png",
+      "filename": "dunkin-image-1-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\008-dunkin-image-1-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37060844795829446df244707a8b216b852ba346-1400x932.png",
+      "filename": "dunkin-image-3-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\009-dunkin-image-3-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/48d6773b97ffa44284761b4e2072622585aa39d9-1600x900.jpg",
+      "filename": "2.Dunkin_CupShow_Final-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\010-2.Dunkin_CupShow_Final-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/19ecf9ae564f223ad00ee4a083ca7d8187d96cf6-3840x2160.gif",
+      "filename": "8.Dunkin_DonutBox.gif",
+      "mimeType": "image/gif",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\011-8.Dunkin_DonutBox.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f368eb7d32548320b6a2eef8bc53eeedcb325939-1600x900.jpg",
+      "filename": "15.Dunkin_Appendix_Merch-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\012-15.Dunkin_Appendix_Merch-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/15dcc9899ce873ed2791c3bf29ffa02b01f5acb7-3840x2560.jpg",
+      "filename": "17_Dunkin_PackCloseup.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\013-17_Dunkin_PackCloseup.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee1714750e7afa04c4d6257eb2f1c099278c81b9-1920x1080.jpg",
+      "filename": "190219_Dunkin_OOH_Website_Collage.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\014-190219_Dunkin_OOH_Website_Collage.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9210676efa78aa39d9d0185e76c87141e1e05be3-1400x932.png",
+      "filename": "dunkin-image-6-1400.png",
+      "mimeType": "image/png",
+      "width": 1400,
+      "height": 932,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\015-dunkin-image-6-1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a98f196925b2c049ea5dd5abe89854dc6aee70d-3840x2160.jpg",
+      "filename": "04_Dunkin_HeroCups-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\dunkin\\assets\\016-04_Dunkin_HeroCups-2.jpg"
+    }
+  ],
+  "rawId": "0de7c032-c98b-4a50-bfac-570b6c43575d",
+  "detail": {
+    "title": "Dunkin'",
+    "designersText": "jkr",
+    "yearText": "2018",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets.",
+      "From the same designers"
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Dunkin'",
+      "디자이너": "jkr",
+      "연도": "2018",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 17 assets.",
+        "From the same designers"
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

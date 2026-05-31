@@ -1,0 +1,404 @@
+{
+  "source": "brandarchive",
+  "name": "Munich Airport",
+  "slug": "munich-airport",
+  "url": "https://brandarchive.xyz/identity/munich-airport",
+  "year": 1991,
+  "exclusive": true,
+  "collection": {
+    "title": "Transport",
+    "slug": "transport"
+  },
+  "designers": [
+    "Otl Aicher"
+  ],
+  "assetCount": 40,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bcc6d55917b968d7a0aa0c1026063f9794952766-2194x1500.jpg",
+      "filename": "munich-airport-manual-1991-02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2194,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\001-munich-airport-manual-1991-02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/064b306bf566bcbe5adbc11d5d8c64b283f6b9ca-2720x1153.jpg",
+      "filename": "munich-airport-manual-1991-10a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2720,
+      "height": 1153,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\002-munich-airport-manual-1991-10a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3ccc4d81c4a5d7c4bacf6f559180ae841a9e44b0-1813x844.jpg",
+      "filename": "munich-airport-manual-1991-10b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1813,
+      "height": 844,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\003-munich-airport-manual-1991-10b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f6d911e5b76062e54d3c49c349a5410a4328178-2582x3096.jpg",
+      "filename": "munich-airport-manual-1991-03 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2582,
+      "height": 3096,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\004-munich-airport-manual-1991-03-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8aed091c26387fd6f26c0efd3e6c8cf5ff8c4725-4784x2085.jpg",
+      "filename": "munich-airport-manual-1991-13a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4784,
+      "height": 2085,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\005-munich-airport-manual-1991-13a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5237987b340d698294cbce469f2c30971d48a1b-3834x2423.jpg",
+      "filename": "munich-airport-manual-1991-14 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3834,
+      "height": 2423,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\006-munich-airport-manual-1991-14-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d3ff3c65c2c6169fb11147d7870cbd79be570289-3088x2416.jpg",
+      "filename": "munich-airport-manual-1991-13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3088,
+      "height": 2416,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\007-munich-airport-manual-1991-13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/54913bca4e001b189c4d98f610bcb1a2602a180e-2575x1747.jpg",
+      "filename": "munich-airport-manual-1991-14 3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2575,
+      "height": 1747,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\008-munich-airport-manual-1991-14-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a0f65de41c98aa448c5239043e966d38a2ba760-1673x815.jpg",
+      "filename": "munich-airport-manual-1991-14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1673,
+      "height": 815,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\009-munich-airport-manual-1991-14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fce7f67d8514db9f4d0012b075d0a37fe829808f-3672x1469.jpg",
+      "filename": "munich-airport-manual-1991-04 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3672,
+      "height": 1469,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\010-munich-airport-manual-1991-04-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/19c3a2c25d8908935b122178f30862df67d31d6b-3644x1348.jpg",
+      "filename": "munich-airport-manual-1991-04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3644,
+      "height": 1348,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\011-munich-airport-manual-1991-04.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e20d3f2e665d1f186533da2ef4d741872363f56c-3638x1403.jpg",
+      "filename": "munich-airport-manual-1991-05 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3638,
+      "height": 1403,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\012-munich-airport-manual-1991-05-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/526a221ce8137f9ebd2acbe2d5354d83c0bd875d-3673x1364.jpg",
+      "filename": "munich-airport-manual-1991-05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3673,
+      "height": 1364,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\013-munich-airport-manual-1991-05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b686df47eff374e59e68eee2c7b4481b1b1a8cb9-3760x1812.jpg",
+      "filename": "munich-airport-manual-1991-06a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3760,
+      "height": 1812,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\014-munich-airport-manual-1991-06a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d0a0400113b0c8f3ccd704f9d06d37c8286e0e1f-2314x3206.jpg",
+      "filename": "munich-airport-manual-1991-06b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2314,
+      "height": 3206,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\015-munich-airport-manual-1991-06b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5289c1f76220fc938c3c5b268e7814d65cf5cba9-2161x1412.jpg",
+      "filename": "munich-airport-manual-1991-07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2161,
+      "height": 1412,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\016-munich-airport-manual-1991-07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e0212d903a5f8dfaa783115472ff334156a2c365-4355x5734.jpg",
+      "filename": "munich-airport-manual-1991-36.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4355,
+      "height": 5734,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\017-munich-airport-manual-1991-36.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c7e8a6477dce775f98a3d48711823a77487df771-3443x2400.jpg",
+      "filename": "munich-airport-manual-1991-35a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3443,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\018-munich-airport-manual-1991-35a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/85e103b612e97aed04a634cacdd990ae55172750-3443x2392.jpg",
+      "filename": "munich-airport-manual-1991-35b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3443,
+      "height": 2392,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\019-munich-airport-manual-1991-35b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ce7f34c3a64895f499170337c069737dc4ec1963-2560x3311.jpg",
+      "filename": "munich-airport-manual-1991-41.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 3311,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\020-munich-airport-manual-1991-41.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ffb39705a2b75253390ad65612c7f49cc1cb917d-2165x1752.jpg",
+      "filename": "Scan 74.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2165,
+      "height": 1752,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\021-Scan-74.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4d08290b38f9680417c3d963a40e4cbbc8fd07f5-2200x2200.jpg",
+      "filename": "Scan 78.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2200,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\022-Scan-78.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6947c9c9a7625a1cf3658392fa5b2cbf1c5516a1-1988x2744.jpg",
+      "filename": "Scan 42.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1988,
+      "height": 2744,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\023-Scan-42.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ce25caa48bcf19dc586428fc8c5877d26347d106-3466x2304.jpg",
+      "filename": "Scan 73.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3466,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\024-Scan-73.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/844d8d293c1838f63952991191d3afddecbd610b-2048x677.jpg",
+      "filename": "Scan 43a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2048,
+      "height": 677,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\025-Scan-43a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/351340d753a44f0a71e0e0dfa2f1e03f1dd9c2ff-3472x1225.jpg",
+      "filename": "Scan 79.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3472,
+      "height": 1225,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\026-Scan-79.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1801566972ff49992177f86d5a27358e622bd7c-1703x1212.jpg",
+      "filename": "Scan 82.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1703,
+      "height": 1212,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\027-Scan-82.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cdc360fa52aff332416a63207ad1eba6fecad0a2-2278x2245.jpg",
+      "filename": "Scan 81.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2278,
+      "height": 2245,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\028-Scan-81.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9db49ee53dcde2c1cd07e4d95c0bc625edb767a4-4895x1560.jpg",
+      "filename": "munich-airport-manual-1991-40.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4895,
+      "height": 1560,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\029-munich-airport-manual-1991-40.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c74e90774e71550e61cb74185a508aa4d2e85694-1840x962.jpg",
+      "filename": "munich-airport-manual-1991-39a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1840,
+      "height": 962,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\030-munich-airport-manual-1991-39a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eb602a7b7f6a3ba0f99640f98a10fb147dd7453d-2168x1380.jpg",
+      "filename": "munich-airport-manual-1991-39.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2168,
+      "height": 1380,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\031-munich-airport-manual-1991-39.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/734634b2df6708ef4610c4fb5bfd8e627a34d0d1-4918x958.jpg",
+      "filename": "munich-airport-manual-1991-38.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4918,
+      "height": 958,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\032-munich-airport-manual-1991-38.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0d99e6205696a12db0bf397d393ea587967ebad-2401x3691.jpg",
+      "filename": "munich-airport-manual-1991-42.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2401,
+      "height": 3691,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\033-munich-airport-manual-1991-42.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c3a093d652ef2562a4fd6c8254279f4a4042292-5002x3460.jpg",
+      "filename": "Scan 42 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5002,
+      "height": 3460,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\034-Scan-42-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a8d11e3bad96e472c920572180abdaa927c1849f-3805x5087.jpg",
+      "filename": "Scan 43.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3805,
+      "height": 5087,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\035-Scan-43.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1088bbc1c611448f4b61581012187bf8e87c192c-2012x1628.jpg",
+      "filename": "Scan 44.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2012,
+      "height": 1628,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\036-Scan-44.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f77429fd0c8ba3c5204ab2b191a2e3569028bad-5838x3862.jpg",
+      "filename": "Scan 46 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5838,
+      "height": 3862,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\037-Scan-46-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/507f97d43d70779ff567afa0ef88dd49cd9461a1-3010x2044.jpg",
+      "filename": "Scan 46.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3010,
+      "height": 2044,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\038-Scan-46.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7a10a07805957a2ecf9b915ad337616967fa1842-1849x2685.jpg",
+      "filename": "Scan 47.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1849,
+      "height": 2685,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\039-Scan-47.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dfe9b5170295803fe0ea1566cfc8dd7eebd239e3-5814x3842.jpg",
+      "filename": "Scan 44 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5814,
+      "height": 3842,
+      "localPath": "archive\\brandarchive\\identities\\munich-airport\\assets\\040-Scan-44-copy.jpeg"
+    }
+  ],
+  "rawId": "f1359a1e-94a0-4091-bea3-e11a56b6b2de",
+  "detail": {
+    "title": "Munich Airport",
+    "designersText": "Otl Aicher",
+    "yearText": "1991",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 40 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Munich Airport",
+      "디자이너": "Otl Aicher",
+      "연도": "1991",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 40 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "source": "brandarchive",
+  "name": "Adidas",
+  "slug": "adidas",
+  "url": "https://brandarchive.xyz/identity/adidas",
+  "year": 1989,
+  "exclusive": true,
+  "collection": {
+    "title": "Historical",
+    "slug": "historical"
+  },
+  "designers": [
+    "Hans Fick",
+    "Peter Moore",
+    "Adolf \"Adi\" Dassler"
+  ],
+  "assetCount": 55,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b65195a079aed91122eede3b125c54f8449893dc-4671x3282.jpg",
+      "filename": "06a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4671,
+      "height": 3282,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\001-06a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/29934b03b6afd97561e52d41c177b6e06db3d330-4290x3132.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4290,
+      "height": 3132,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\002-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0d9e6b56de150c4bcb1b151db7501b0018007671-4838x5901.jpg",
+      "filename": "4 copy 3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4838,
+      "height": 5901,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\003-4-copy-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/54856996b303957964bcfa3de7d77ce4c3050514-3547x5574.jpg",
+      "filename": "19.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3547,
+      "height": 5574,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\004-19.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24c5e937888d900041b85963098b931f9ac75da4-9567x6057.jpg",
+      "filename": "05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9567,
+      "height": 6057,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\005-05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69f1d51016b5f0af0ebc16fd2ce7819449972a98-4498x3174.jpg",
+      "filename": "08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4498,
+      "height": 3174,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\006-08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bf4fe74aee5788d4ef270b0cb2a014e50145086e-2576x5153.jpg",
+      "filename": "09.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2576,
+      "height": 5153,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\007-09.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04bf2b2e22bc09a81139c042a21c27123f69c0ce-7315x2322.jpg",
+      "filename": "01 2 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7315,
+      "height": 2322,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\008-01-2-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c7420b883e568da89f819aab1e81bbb99c94cee-7343x2012.jpg",
+      "filename": "01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7343,
+      "height": 2012,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\009-01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e3fd1c8921a4eb423263fde830e32f0b11296645-6920x1978.jpg",
+      "filename": "02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6920,
+      "height": 1978,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\010-02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3828ac10dc1e91e0173eb6caa7861b095866c64-7082x2144.jpg",
+      "filename": "03 2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7082,
+      "height": 2144,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\011-03-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f2df93d571fd3f4341c9c49964f7b166cce4bd87-9584x5311.jpg",
+      "filename": "2 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9584,
+      "height": 5311,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\012-2-copy-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d067c496f07f34606e4eed4b9858f4a0dff89914-9019x3913.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9019,
+      "height": 3913,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\013-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f321c009f838e955eb625b53cb9db931ea9e306-9146x5351.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9146,
+      "height": 5351,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\014-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f190ff4c63145dfb818a7b577729608a42a98085-9224x5621.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9224,
+      "height": 5621,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\015-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/303a0dbaa492e962d071775a79359117ef91c283-9236x3467.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9236,
+      "height": 3467,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\016-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/80ff864817ab028956731db5a4b8ad941e8bcc59-9307x2914.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9307,
+      "height": 2914,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\017-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9855981e8f444b9843710ca367b23ecd52e1f3b3-9586x2250.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9586,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\018-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/17cdb0583cf6bf750f4a89ded8b85572826c19af-9236x3467.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9236,
+      "height": 3467,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\019-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8865e2628136634dfdf4dcb2445cf9ced7f6a35c-9304x3490.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9304,
+      "height": 3490,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\020-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0100efd5a27eb068770e14cae8d2f273d12900e1-9307x2914.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9307,
+      "height": 2914,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\021-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0eb3985706fa48c36af668511332e9ef9e5f3118-9593x3058.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9593,
+      "height": 3058,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\022-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/827793a4f2f711fdbacc177529310e95260519d5-4326x3106.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4326,
+      "height": 3106,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\023-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96fba337d58a3d0aacc8bbe28cf0001b4e58ce4a-4340x5277.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4340,
+      "height": 5277,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\024-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/53877b98dc6c757ddfcee3b0bf4938f66b84a623-8742x5855.jpg",
+      "filename": "13 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 8742,
+      "height": 5855,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\025-13-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/682170a7914e9cda9ebc41e535995446c45fc41a-4340x2989.jpg",
+      "filename": "5 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4340,
+      "height": 2989,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\026-5-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24caa7e6ea219d999b82a05a8970c51ee81c7ed9-2164x1511.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2164,
+      "height": 1511,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\027-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6f617fc6c8fc8c7ee95fbc8aec0875bd47c7f40e-4311x3194.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4311,
+      "height": 3194,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\028-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/abf7725cb2aa86e636cabd87e635a6a3768df7f7-4205x2984.jpg",
+      "filename": "6 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4205,
+      "height": 2984,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\029-6-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c36bffe07fe438fef04ff1a3f6691b67969a7c87-4309x4081.jpg",
+      "filename": "7 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4309,
+      "height": 4081,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\030-7-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba66c19c871499f82960e62c16756a47cd2971fa-4264x3938.jpg",
+      "filename": "8 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4264,
+      "height": 3938,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\031-8-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/58f87be5c994164160bc6ccb7b7c200f0a483a4b-3756x5349.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3756,
+      "height": 5349,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\032-12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d232b931bf03b2238dd12128d257404f3055353-3986x4579.jpg",
+      "filename": "13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3986,
+      "height": 4579,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\033-13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/477ba85735eb0e620a55a60eead7e6cf2dbc4c79-3885x5970.jpg",
+      "filename": "21.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3885,
+      "height": 5970,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\034-21.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b0c978cf33ef9660d075901fb78192937b6922d-4902x5431.jpg",
+      "filename": "22.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4902,
+      "height": 5431,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\035-22.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/903f7c08e7a60126b77d1a5f6017e1ae67294cd1-4735x962.jpg",
+      "filename": "5 copy 3b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4735,
+      "height": 962,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\036-5-copy-3b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c40f21024969d23525746b880dec79d67f79f07-4532x1013.jpg",
+      "filename": "5 copy 3a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4532,
+      "height": 1013,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\037-5-copy-3a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3116924dd4fd168b1ae56b6ba33257cd04e87a89-4768x5327.jpg",
+      "filename": "2 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4768,
+      "height": 5327,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\038-2-copy-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34d72167bc767fe4775daa0cf1313afdc58cb38b-4857x6907.jpg",
+      "filename": "6 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4857,
+      "height": 6907,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\039-6-copy-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a0c5ca3ac69234d73bbdc2db361c0ad38be5b0d6-4864x6911.jpg",
+      "filename": "7 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4864,
+      "height": 6911,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\040-7-copy-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7674a7611e701fb8429c7c75ab08543368d78e2a-4860x6923.jpg",
+      "filename": "9 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4860,
+      "height": 6923,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\041-9-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b6052aa3efedb6a0857035427bf37c7c73442732-4476x3057.jpg",
+      "filename": "07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4476,
+      "height": 3057,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\042-07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f5384ac6796f40465f7b3c424a2c1ae50972ed57-4805x3391.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4805,
+      "height": 3391,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\043-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/06e3c9ed355943c4f51d2b3f5fd8ac65debf75c9-4805x3391.jpg",
+      "filename": "10a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4805,
+      "height": 3391,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\044-10a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/20127e33c5c9756c27f9a79556d31e2f4cced83b-7079x1930.jpg",
+      "filename": "01 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7079,
+      "height": 1930,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\045-01-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/12235b06685cf7568705fbe24dd9a18b0268888a-7082x2144.jpg",
+      "filename": "03 2b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7082,
+      "height": 2144,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\046-03-2b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5f5281c114f2e53a4d4397a0b7744f322b45f370-4669x6081.jpg",
+      "filename": "04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4669,
+      "height": 6081,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\047-04.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b0b76457b6bb539ec55cd252b8cf4c05362a283e-4375x4351.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4375,
+      "height": 4351,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\048-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c65db1c1dd3586d70da606ded801c3dada76ec0a-2282x4234.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2282,
+      "height": 4234,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\049-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68ae30c95c6dec89d3f2f9b2329fa841c6a37035-4340x5277.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4340,
+      "height": 5277,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\050-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e3c875804b2c6e45317ac2d90531a3e18b544777-9025x6133.jpg",
+      "filename": "14 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 9025,
+      "height": 6133,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\051-14-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1e73b48e27635aa34f8f430968e807aa2739048a-7694x2149.jpg",
+      "filename": "13 copy 2 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7694,
+      "height": 2149,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\052-13-copy-2-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/adac5fb9eb9a8a931e16bcd6e82d1be10356fd86-8117x5811.jpg",
+      "filename": "16.jpg",
+      "mimeType": "image/jpeg",
+      "width": 8117,
+      "height": 5811,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\053-16.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d4cc93049d8031cf61bcde075a9994bf6546dbad-4728x5464.jpg",
+      "filename": "17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4728,
+      "height": 5464,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\054-17.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a339ed8debb3616437328230e407986a5a222d4-4964x5637.jpg",
+      "filename": "3 copy 3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4964,
+      "height": 5637,
+      "localPath": "archive\\brandarchive\\identities\\adidas\\assets\\055-3-copy-3.jpg"
+    }
+  ],
+  "rawId": "5b6fe0bf-1a8c-40e4-82d2-11152e672f86",
+  "detail": {
+    "title": "Adidas",
+    "designersText": "Hans Fick",
+    "yearText": "1989",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 58 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Adidas",
+      "디자이너": "Hans Fick",
+      "연도": "1989",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 58 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "source": "brandarchive",
+  "name": "Meander Valley",
+  "slug": "meander-valley",
+  "url": "https://brandarchive.xyz/identity/meander-valley",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by For the People",
+    "slug": "designed-by-for-the-people"
+  },
+  "designers": [
+    "For The People"
+  ],
+  "assetCount": 34,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5db42eb38860cad4755462a9dfda873abbc47dc5-2000x1125.jpg",
+      "filename": "gtnOFrNACDQUs6j1rc48mLJFFH0 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\001-gtnOFrNACDQUs6j1rc48mLJFFH0-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f93b2bef7607d0eee582a41f4f7181e37230999f-2000x1125.jpg",
+      "filename": "tnOFrNACDQUs6j1rc48mLJFFH0 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\002-tnOFrNACDQUs6j1rc48mLJFFH0-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ee965d7f837b325084b9161be49f625f10fbcfc-1920x1080.jpg",
+      "filename": "FDvIe66UyxAl3uvJIh9XQqL4YoI copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\003-FDvIe66UyxAl3uvJIh9XQqL4YoI-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/143bc87bae94cb1025deebc9221f5742a2f86282.mp4",
+      "filename": "FDvIe66UyxAl3uvJIh9XQqL4YoI.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3a7e18d1027e03d2e99eb678084da80938dd4812.mp4",
+      "filename": "On4Y0QJA9LpnrZ4CE2oCTjdSBI.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/26b39219414e41ab6c100d88e432dc23d6b18109.mp4",
+      "filename": "JrOSGUFOQatsEA2I5DLcI9axgQk.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5fb7bed922ef1897ff9af3dc961098c53e4a7b38.mp4",
+      "filename": "X7e2SLvGJfmvPclhCYxT5Kezg.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c535e68d62e79250977abed0af99e3da553745d4.mp4",
+      "filename": "xTXmjWLnklCXer7Qr5nj2lU3RdQ.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f2c02c5ee6d3839654a9e77313e145acdddbb1e-2000x1125.jpg",
+      "filename": "3VghnJRou5L3SzDZZdwUOHMkTDA.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\004-3VghnJRou5L3SzDZZdwUOHMkTDA.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/38c60b5962b5cc4d50447d81f544713761651d81-1500x1875.jpg",
+      "filename": "35mbMJ4bW3lDBXueG6zKN8xRc0-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\005-35mbMJ4bW3lDBXueG6zKN8xRc0-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6221043dee3e3d272a9ab549ed64a5700e120bdf-2000x1125.jpg",
+      "filename": "Bbz2m0LgojWKyFddzvypIuX9NWM.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\006-Bbz2m0LgojWKyFddzvypIuX9NWM.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6c8b8efbec8cd6bc26366d451c66eac9233a0cb4.mp4",
+      "filename": "bIuOyM1rwmNm1FHGbqySM6DLQ.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6f2bdc8fc27ccaee3aed625006cd4ada5031f396.mp4",
+      "filename": "byvcj8J8yu467WJQBs1K2lAx85Y.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/62f3127506ca992b64126f1c1b28a0a7042c2090-1638x2048.jpg",
+      "filename": "e4uo193IxgcQ7zozQJGzDCABIo4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\007-e4uo193IxgcQ7zozQJGzDCABIo4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ead9fd25f678310a49dd568c4cc9a8ffb0fdda5-1638x2048.jpg",
+      "filename": "PuemOcDyn7wlL1YbGWuX0TW4d4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\008-PuemOcDyn7wlL1YbGWuX0TW4d4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/beb6d5dafd1ce7f7775c35122c2ce5ff72789f7c-4096x2305.jpg",
+      "filename": "uauQRBNF4p1IMZvJTMr7qFGSE8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4096,
+      "height": 2305,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\009-uauQRBNF4p1IMZvJTMr7qFGSE8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cceb803b8f068c00624a21c9a3addde7d2e2a32d-2000x1125.jpg",
+      "filename": "gtnOFrNACDQUs6j1rc48mLJFFH0.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\010-gtnOFrNACDQUs6j1rc48mLJFFH0.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/51e2a7e43c97c79147999cefc2eac3661bd2f9f8-2000x2499.jpg",
+      "filename": "AKAriqprnaojNfVS2P9IrjohG8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2499,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\011-AKAriqprnaojNfVS2P9IrjohG8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c6be8e34a38db8d554f2443d7d2bacd88ab1b49-2305x2882.jpg",
+      "filename": "27OaOeYVymqKAL24prehyakO2E.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2305,
+      "height": 2882,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\012-27OaOeYVymqKAL24prehyakO2E.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a914ef2297ee4e6cce4b8d3074b494a655e185e1-1638x2048.jpg",
+      "filename": "BCEX02gKVjY8Q0UCr8yZJk5U3I.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\013-BCEX02gKVjY8Q0UCr8yZJk5U3I.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d88a474f2dec37abfb7218495b0baa70ad53a650-1200x1500.jpg",
+      "filename": "IEcASa4MISetIgsMVnK1eEtqDo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\014-IEcASa4MISetIgsMVnK1eEtqDo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ddce3cfcae3ca91fbd2c7b10a8028a42bc33277-1200x1500.jpg",
+      "filename": "sUj32s4nB7hBldlGZOveJTWasvo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\015-sUj32s4nB7hBldlGZOveJTWasvo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69431998db8ffbdfe61577cee20d919a01c3c248-1639x2048.jpg",
+      "filename": "X5Agdi1RP2IBKSDztz26VNT5aaI.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1639,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\016-X5Agdi1RP2IBKSDztz26VNT5aaI.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee35f342944d4c9943a1d99487012f2d35de6795-3200x4000.jpg",
+      "filename": "alKOQO76N1zrk5qM0x3goTfE.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3200,
+      "height": 4000,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\017-alKOQO76N1zrk5qM0x3goTfE.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7548df1fc8c60a1092e764546b772f487be4a87b.mp4",
+      "filename": "dUjfH8jGChCS52RUa3cvSHvkqHs.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/480890cdddc470a6a45eba10f394d1df8b0271cb.mp4",
+      "filename": "SAiQzd3EcKakXroQ85TR34sCccs.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b30ce9c4fff99bf88c98c3859bc2bd150baf4b5f-2000x1125.jpg",
+      "filename": "tISc8B0OujE4Gbgp7KUZigBV5o.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\018-tISc8B0OujE4Gbgp7KUZigBV5o.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bd362709981cdd17b3c7b7de0776beb71e1cf368-1500x851.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Colour_Soil_1722774136523_1500x1500.png",
+      "mimeType": "image/png",
+      "width": 1500,
+      "height": 851,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\019-documents_rlb7eu7l28l_c474d2fb52e_Logo_Colour_Soil_1722774136523_1500x1500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cb7d87794a3349721844cf66475f728a1395753c-1500x851.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Social_Example_1722773391720_1500x1500.png",
+      "mimeType": "image/png",
+      "width": 1500,
+      "height": 851,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\020-documents_rlb7eu7l28l_c474d2fb52e_Logo_Social_Example_1722773391720_1500x1500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f6992d293b04947dfbe6aabe0eadd7620b10772-1500x851.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Colour_Sky_1722774142659_1500x1500.png",
+      "mimeType": "image/png",
+      "width": 1500,
+      "height": 851,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\021-documents_rlb7eu7l28l_c474d2fb52e_Logo_Colour_Sky_1722774142659_1500x1500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/78c35ecb5672a48fe7a0476e119c9faf0d289229-1500x851.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Horizontal_Example_1722773337907_1500x1500.png",
+      "mimeType": "image/png",
+      "width": 1500,
+      "height": 851,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\022-documents_rlb7eu7l28l_c474d2fb52e_Logo_Horizontal_Example_1722773337907_1500x1500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1dcf9b563ad4484d427327f9d358f772fcc83a14-1000x676.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_TownLockup_ElizabethTown_1722773858469_1000x1000.png",
+      "mimeType": "image/png",
+      "width": 1000,
+      "height": 676,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\023-documents_rlb7eu7l28l_c474d2fb52e_Logo_TownLockup_ElizabethTown_1722773858469_1000x1000.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c873966617100d8bcba0a1ab90ddbf0465df9d72-1000x676.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Lockup_ProspectVale_1722773821837_1000x1000.png",
+      "mimeType": "image/png",
+      "width": 1000,
+      "height": 676,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\024-documents_rlb7eu7l28l_c474d2fb52e_Logo_Lockup_ProspectVale_1722773821837_1000x1000.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/648ce925923d9ee225daa496f53183a6857fef06-1500x1000.png",
+      "filename": "documents_rlb7eu7l28l_c474d2fb52e_Logo_Endorsed_Example_1722773946922_1500x1500.png",
+      "mimeType": "image/png",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\meander-valley\\assets\\025-documents_rlb7eu7l28l_c474d2fb52e_Logo_Endorsed_Example_1722773946922_1500x1500.png"
+    }
+  ],
+  "rawId": "63a56a44-fc7c-484d-86ec-151506dbda9c",
+  "detail": {
+    "title": "Meander Valley",
+    "designersText": "For The People",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 34 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Meander Valley",
+      "디자이너": "For The People",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 34 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

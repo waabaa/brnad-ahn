@@ -1,0 +1,195 @@
+{
+  "source": "brandarchive",
+  "name": "Sauce Shop",
+  "slug": "sauce-shop",
+  "url": "https://brandarchive.xyz/identity/sauce-shop",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Food Brands",
+    "slug": "food"
+  },
+  "designers": [
+    "B&B Studio"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0079ae358a46477342c8599a3c37af7e60398725-1920x1080.jpg",
+      "filename": "Sauce-Shop-Identity-designed-by-BandB-Studio.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\001-Sauce-Shop-Identity-designed-by-BandB-Studio.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/27eea89ebc30b83fe8cd89e89d1357c361aad646-4148x4500.jpg",
+      "filename": "Sauce_Shop_Icons_sRGB copy00.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4148,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\002-Sauce_Shop_Icons_sRGB-copy00.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/86c546af12e8d9e506550238e7e3718059814d97-3347x4156.jpg",
+      "filename": "Sauce_Shop_Icons_sRGB copy0.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3347,
+      "height": 4156,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\003-Sauce_Shop_Icons_sRGB-copy0.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5debfc54518e4c58bf5c63caaacfb18cec705e59.mp4",
+      "filename": "Sauce_Shop_Icons_Website_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/378afb7152d81b4984cfaf5ed54f655e6fcdbe51-1920x1300.jpg",
+      "filename": "Sauce-Shop-Identity-Buffalo-Bottle-designed-by-BandB-Studio.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\004-Sauce-Shop-Identity-Buffalo-Bottle-designed-by-BandB-Studio.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bbd97640720829d632b2e626701fc9602fe0909c-1920x1093.jpg",
+      "filename": "Sauce-Shop-Identity-Fridge-designed-by-BandB-Studio.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1093,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\005-Sauce-Shop-Identity-Fridge-designed-by-BandB-Studio.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7dc420f15727a139fbea586171cbdc2c4b187c95-4564x6842.jpg",
+      "filename": "SauceShop_Sriracha_Bottle_Hand_sRGB_WhiteBK.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4564,
+      "height": 6842,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\006-SauceShop_Sriracha_Bottle_Hand_sRGB_WhiteBK.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f49bc5659aa7aed99c1e58158069fc60997a31c2-3003x2983.jpg",
+      "filename": "Sauce-Shop-Identity-Matches-designed-by-BandB-Studio-e1746806625970.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3003,
+      "height": 2983,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\007-Sauce-Shop-Identity-Matches-designed-by-BandB-Studio-e1746806625970.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/82f857f3c415e4f1ac1a14e631517226b78e4aef-8000x4500.jpg",
+      "filename": "SauceShop_Poster_Wall_sRGB_Crop-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 8000,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\008-SauceShop_Poster_Wall_sRGB_Crop-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bdba5cd150002ad14cf04f676500fc506842a7d1-1920x1080.jpg",
+      "filename": "Sauce-Shop-Identity-Social-Grid-designed-by-BandB-Studio.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\009-Sauce-Shop-Identity-Social-Grid-designed-by-BandB-Studio.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b8957f63e64d49ebcf78ce3542b590614b91a5a7-1875x2500.webp",
+      "filename": "113002577alt3.webp",
+      "mimeType": "image/webp",
+      "width": 1875,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\010-113002577alt3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/af278e38533ddd2bdb8b4c75a634d71ad375821e-2000x1334.jpg",
+      "filename": "Bottles_012_WEB.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\011-Bottles_012_WEB.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e7b43c88f2b618dcff1781b009601ca8cd34fd7-1006x1300.jpg",
+      "filename": "748859104111 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1006,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\012-748859104111-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0b93b4f249aee6cfd9a14d61866785ab684b312-914x1300.jpg",
+      "filename": "1748859104111 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 914,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\013-1748859104111-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ea8f1b69696e932e7ac09a340aa412a411e2623b-1280x1919.jpg",
+      "filename": "1747140803585.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 1919,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\014-1747140803585.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6fda22a61076af2237cd24b41d12158a0c0db78b-1280x1919.jpg",
+      "filename": "1747140801778.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 1919,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\015-1747140801778.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/87273bc99ff3bdd45c3c5d226e4db414a9ee5f7b-1280x1919.jpg",
+      "filename": "1747140805346.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1280,
+      "height": 1919,
+      "localPath": "archive\\brandarchive\\identities\\sauce-shop\\assets\\016-1747140805346.jpeg"
+    }
+  ],
+  "rawId": "1f2288bd-f608-44d7-bf25-3798e5d0c5a4",
+  "detail": {
+    "title": "Sauce Shop",
+    "designersText": "B&B Studio",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Sauce Shop",
+      "디자이너": "B&B Studio",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 17 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

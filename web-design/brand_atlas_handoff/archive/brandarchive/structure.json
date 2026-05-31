@@ -1,0 +1,410 @@
+{
+  "source": "https://brandarchive.xyz/",
+  "capturedAt": "2026-05-31T06:25:13.555Z",
+  "routeShape": {
+    "home": "/",
+    "browse": "/browse/{collectionSlug}",
+    "identity": "/identity/{brandSlug}",
+    "pricing": "/pricing",
+    "legal": [
+      "/terms",
+      "/privacy",
+      "/cookies"
+    ]
+  },
+  "collections": [
+    {
+      "title": "Recently added",
+      "slug": "featured",
+      "defaultVisible": 5,
+      "itemsCount": 207,
+      "visibleItems": 13
+    },
+    {
+      "title": "Burger Branding",
+      "slug": "burger-branding-packaging",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Placemaking",
+      "slug": "placemaking",
+      "defaultVisible": 5,
+      "itemsCount": 9,
+      "visibleItems": 9
+    },
+    {
+      "title": "Historical",
+      "slug": "historical",
+      "defaultVisible": 5,
+      "itemsCount": 122,
+      "visibleItems": 13
+    },
+    {
+      "title": "Shoppy Shop Brands",
+      "slug": "shoppy-shop-brands",
+      "defaultVisible": 5,
+      "itemsCount": 40,
+      "visibleItems": 13
+    },
+    {
+      "title": "Technology",
+      "slug": "technology",
+      "defaultVisible": 5,
+      "itemsCount": 60,
+      "visibleItems": 13
+    },
+    {
+      "title": "AI Brands",
+      "slug": "ai-branding",
+      "defaultVisible": 5,
+      "itemsCount": 16,
+      "visibleItems": 13
+    },
+    {
+      "title": "From the USA",
+      "slug": "from-the-usa",
+      "defaultVisible": 5,
+      "itemsCount": 103,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Gretel",
+      "slug": "designed-by-gretel",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Sport",
+      "slug": "sport",
+      "defaultVisible": 5,
+      "itemsCount": 36,
+      "visibleItems": 13
+    },
+    {
+      "title": "Airlines",
+      "slug": "airlines",
+      "defaultVisible": 5,
+      "itemsCount": 14,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Mother",
+      "slug": "mother-design",
+      "defaultVisible": 5,
+      "itemsCount": 10,
+      "visibleItems": 10
+    },
+    {
+      "title": "Fashion",
+      "slug": "fashion",
+      "defaultVisible": 5,
+      "itemsCount": 33,
+      "visibleItems": 13
+    },
+    {
+      "title": "Food Brands",
+      "slug": "food",
+      "defaultVisible": 5,
+      "itemsCount": 92,
+      "visibleItems": 13
+    },
+    {
+      "title": "Museums, Galleries & Libraries",
+      "slug": "museum-brands",
+      "defaultVisible": 5,
+      "itemsCount": 44,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Wedge",
+      "slug": "designed-by-wedge",
+      "defaultVisible": 4,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Designed by Marx",
+      "slug": "marx-design",
+      "defaultVisible": 5,
+      "itemsCount": 12,
+      "visibleItems": 12
+    },
+    {
+      "title": "Cafes, Bars & Restaurants",
+      "slug": "cafes-bars-restaurants",
+      "defaultVisible": 5,
+      "itemsCount": 44,
+      "visibleItems": 13
+    },
+    {
+      "title": "Banking",
+      "slug": "banking-brands",
+      "defaultVisible": 5,
+      "itemsCount": 15,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by For the People",
+      "slug": "designed-by-for-the-people",
+      "defaultVisible": 5,
+      "itemsCount": 6,
+      "visibleItems": 6
+    },
+    {
+      "title": "Designed by Landor",
+      "slug": "landor",
+      "defaultVisible": 5,
+      "itemsCount": 8,
+      "visibleItems": 8
+    },
+    {
+      "title": "Designed by Porto Rocha",
+      "slug": "designed-by-porto-rocha",
+      "defaultVisible": 5,
+      "itemsCount": 12,
+      "visibleItems": 12
+    },
+    {
+      "title": "Designed by B&B Studio",
+      "slug": "designed-by-B&B-studio",
+      "defaultVisible": 5,
+      "itemsCount": 8,
+      "visibleItems": 8
+    },
+    {
+      "title": "From Japan",
+      "slug": "from-japan",
+      "defaultVisible": 5,
+      "itemsCount": 42,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by jkr",
+      "slug": "jkr",
+      "defaultVisible": 6,
+      "itemsCount": 12,
+      "visibleItems": 12
+    },
+    {
+      "title": "Soft Drinks",
+      "slug": "soft-drinks-kombucha",
+      "defaultVisible": 5,
+      "itemsCount": 29,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Manual",
+      "slug": "designed-by-manual-sf",
+      "defaultVisible": 5,
+      "itemsCount": 10,
+      "visibleItems": 10
+    },
+    {
+      "title": "Digital Products & Services",
+      "slug": "digital-product-brands",
+      "defaultVisible": 5,
+      "itemsCount": 30,
+      "visibleItems": 13
+    },
+    {
+      "title": "Payment Infrastructure Brands",
+      "slug": "payment-brands",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Designed by Gander",
+      "slug": "designed-by-gander",
+      "defaultVisible": 4,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Designed by Paul Belford Ltd",
+      "slug": "paul-belford",
+      "defaultVisible": 5,
+      "itemsCount": 8,
+      "visibleItems": 8
+    },
+    {
+      "title": "Designed by PAOS",
+      "slug": "designed-by-paos",
+      "defaultVisible": 5,
+      "itemsCount": 15,
+      "visibleItems": 13
+    },
+    {
+      "title": "Big Brands",
+      "slug": "big-brands",
+      "defaultVisible": 6,
+      "itemsCount": 56,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Koto",
+      "slug": "designed-by-koto",
+      "defaultVisible": 5,
+      "itemsCount": 19,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Mucho",
+      "slug": "designed-by-mucho",
+      "defaultVisible": 5,
+      "itemsCount": 10,
+      "visibleItems": 10
+    },
+    {
+      "title": "Property",
+      "slug": "property",
+      "defaultVisible": 5,
+      "itemsCount": 25,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Wolff Olins",
+      "slug": "wolff-olins",
+      "defaultVisible": 4,
+      "itemsCount": 12,
+      "visibleItems": 12
+    },
+    {
+      "title": "From the United Kingdom",
+      "slug": "from-the-uk",
+      "defaultVisible": 5,
+      "itemsCount": 89,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by DNCO",
+      "slug": "designed-by-dnco",
+      "defaultVisible": 5,
+      "itemsCount": 11,
+      "visibleItems": 11
+    },
+    {
+      "title": "Health & Wellbeing",
+      "slug": "health-wellness",
+      "defaultVisible": 5,
+      "itemsCount": 31,
+      "visibleItems": 13
+    },
+    {
+      "title": "Energy",
+      "slug": "energy",
+      "defaultVisible": 5,
+      "itemsCount": 9,
+      "visibleItems": 9
+    },
+    {
+      "title": "Money & Finance",
+      "slug": "money",
+      "defaultVisible": 5,
+      "itemsCount": 28,
+      "visibleItems": 13
+    },
+    {
+      "title": "Fast Food",
+      "slug": "fast-food",
+      "defaultVisible": 5,
+      "itemsCount": 22,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by How&How",
+      "slug": "how-and-how",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "From New Zealand",
+      "slug": "from-new-zealand",
+      "defaultVisible": 5,
+      "itemsCount": 24,
+      "visibleItems": 13
+    },
+    {
+      "title": "Retail",
+      "slug": "retail-brands",
+      "defaultVisible": 5,
+      "itemsCount": 43,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Collins",
+      "slug": "designed-by-collins",
+      "defaultVisible": 5,
+      "itemsCount": 19,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Seachange",
+      "slug": "designed-by-seachange",
+      "defaultVisible": 5,
+      "itemsCount": 12,
+      "visibleItems": 12
+    },
+    {
+      "title": "World Expos",
+      "slug": "expo",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Designed by Werklig",
+      "slug": "designed-by-werklig",
+      "defaultVisible": 5,
+      "itemsCount": 7,
+      "visibleItems": 7
+    },
+    {
+      "title": "Beverage",
+      "slug": "drinks",
+      "defaultVisible": 5,
+      "itemsCount": 74,
+      "visibleItems": 13
+    },
+    {
+      "title": "Transport",
+      "slug": "transport",
+      "defaultVisible": 5,
+      "itemsCount": 29,
+      "visibleItems": 13
+    },
+    {
+      "title": "Designed by Pentagram",
+      "slug": "pentagram",
+      "defaultVisible": 5,
+      "itemsCount": 31,
+      "visibleItems": 13
+    },
+    {
+      "title": "Sound",
+      "slug": "music-brands",
+      "defaultVisible": 5,
+      "itemsCount": 24,
+      "visibleItems": 13
+    },
+    {
+      "title": "Olympic Design",
+      "slug": "olympic-design",
+      "defaultVisible": 5,
+      "itemsCount": 11,
+      "visibleItems": 11
+    },
+    {
+      "title": "Designed by Ragged Edge",
+      "slug": "ragged-edge",
+      "defaultVisible": 5,
+      "itemsCount": 16,
+      "visibleItems": 13
+    }
+  ],
+  "discoveredIdentityCount": 474
+}

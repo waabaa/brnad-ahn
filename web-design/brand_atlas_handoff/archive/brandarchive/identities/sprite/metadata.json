@@ -1,0 +1,300 @@
+{
+  "source": "brandarchive",
+  "name": "Sprite",
+  "slug": "sprite",
+  "url": "https://brandarchive.xyz/identity/sprite",
+  "year": 2022,
+  "exclusive": true,
+  "collection": {
+    "title": "Soft Drinks",
+    "slug": "soft-drinks-kombucha"
+  },
+  "designers": [
+    "Turner Duckworth"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/111727f1177e217ac133fe95d7c1697805fa42f3-998x605.png",
+      "filename": "2.png",
+      "mimeType": "image/png",
+      "width": 998,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\001-2.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c9d8788a5675a209d84c6da7d8a10277fd1b387-998x605.png",
+      "filename": "3.png",
+      "mimeType": "image/png",
+      "width": 998,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\002-3.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b5d887af0cdd3e121d00fa1370cf6a67face7ddc-998x605.png",
+      "filename": "4.png",
+      "mimeType": "image/png",
+      "width": 998,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\003-4.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c28e4b5c2ae2a48a9803d981c4c2b7e9116f5df6-998x605.png",
+      "filename": "sprite_logo_colors1.png",
+      "mimeType": "image/png",
+      "width": 998,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\004-sprite_logo_colors1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fcfd96a29afedf716af71e900678223154a953b5-6250x3750.jpg",
+      "filename": "Sprite-billboard.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\005-Sprite-billboard.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f0b19036500ca0238845786460076591d139174-6250x3750.jpg",
+      "filename": "Sprite-posters.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\006-Sprite-posters.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e495a1bc46bd8c24d7454dca6bb3dc12d967f6ca-1400x788.jpg",
+      "filename": "1*M0BDLiD7IoG-Qfj4u6eNBg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1400,
+      "height": 788,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\007-1_M0BDLiD7IoG-Qfj4u6eNBg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2fdfb3b29184e10b5ad0b5e212fb5330c101e051-1581x888.jpg",
+      "filename": "FTM9cRyX0AcJsk6.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1581,
+      "height": 888,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\008-FTM9cRyX0AcJsk6.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81197a93f4fd53d59554a2a11ebbcd4cd2c059b8-6250x3750.jpg",
+      "filename": "Sprite-bottle-vert-S.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\009-Sprite-bottle-vert-S.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f70567b6a909665d10799b1072fc74bb97b0be4f-6250x3750.jpg",
+      "filename": "Sprite-bottle-vert-SZ.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\010-Sprite-bottle-vert-SZ.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96fb8d981426f0e8164833a31c3a0955274abf22-6250x3750.jpg",
+      "filename": "Sprite-bottletop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\011-Sprite-bottletop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8dbe65519766132ed974e615a58d9eb888a8e229-6250x3750.jpg",
+      "filename": "Sprite-can-reg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\012-Sprite-can-reg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8a77dd3a8a064c24005f0b194a24225255d8a264-6250x3750.jpg",
+      "filename": "Sprite-Dieline-can-zero.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\013-Sprite-Dieline-can-zero.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3e3960ed439e6b6fc2abd2ead57b6559bc04bd37-6250x3750.jpg",
+      "filename": "Sprite-can-slender.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\014-Sprite-can-slender.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1097067ea8e06779a3ef90c7c107d86495106702-6670x3750.jpg",
+      "filename": "Sprite-VIS-330ml-Render.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6670,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\015-Sprite-VIS-330ml-Render.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d43d94b8af0311589fc52db4e06bb99895bd33fb-6250x3750.jpg",
+      "filename": "Sprit-POS1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\016-Sprit-POS1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/862d650acdf8911c0209b805751dc5caa121ff78-6250x3750.jpg",
+      "filename": "Sprite-shopcart-ad.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\017-Sprite-shopcart-ad.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/48e052f264157469c2585d056e8d6f8bd41b87d4-1002x605.png",
+      "filename": "sprite_spark_colors 2c.png",
+      "mimeType": "image/png",
+      "width": 1002,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\018-sprite_spark_colors-2c.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f3c6099e4933f3449a61ae9df2b2f9756dbec7f-1001x604.png",
+      "filename": "sprite_spark_colors 2a.png",
+      "mimeType": "image/png",
+      "width": 1001,
+      "height": 604,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\019-sprite_spark_colors-2a.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b04d2427956576deed6c3f1a2bb0a6542f5dd86e-999x604.png",
+      "filename": "sprite_spark_colors 2b.png",
+      "mimeType": "image/png",
+      "width": 999,
+      "height": 604,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\020-sprite_spark_colors-2b.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ef4ee9b9de950b6a1f886952afba1afb1cbac26-1000x605.png",
+      "filename": "sprite_spark_colors 2d.png",
+      "mimeType": "image/png",
+      "width": 1000,
+      "height": 605,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\021-sprite_spark_colors-2d.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/53cc63b88dfa337979ca6a210378598a64af6a47-6250x3750.jpg",
+      "filename": "Sprite-Dieline-fridgepack.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6250,
+      "height": 3750,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\022-Sprite-Dieline-fridgepack.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d830f068ba44c9a755f0f45608ddf302d96daf2e-3840x2560.jpg",
+      "filename": "Sprite_Typeface_Mid-Res_.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\sprite\\assets\\023-Sprite_Typeface_Mid-Res_.jpeg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5e27ff8e0ffded4ae19e35f44e223a5937dcae01.mp4",
+      "filename": "SPRITE_CASE_STUDY_TYPOGRAPHY_2K_tRf6V6l.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c91014c3cd41460eeffb492c631fa87c46b46226.mp4",
+      "filename": "SPRITE_CASE_STUDY_CANS_2K_aD4GDEc.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/482cb01dbd25e6ee44cac7962c832712fa7b3f6e.mp4",
+      "filename": "SPRITE_CASE_STUDY_TURNING_BOTTLES_2K_aLZVziT.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a3027af52cc91c6cbd0d5859ba3b4ace386134be.mp4",
+      "filename": "SPRITE_CASE_STUDY_FLOATING_BOTTLES_2K_AnHV2zT.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8514d1c4e7ebfa127747bd828d03d83228e5910d.mp4",
+      "filename": "SPRITE_CASE_STUDY_GLASS_BOTTLES_2K_q3XGAiV.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e1eab33239db22e8ddf262169e284341a4fc8af6.mp4",
+      "filename": "SPRITE_CASE_STUDY_LEMON_2K_e9bmMqT.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e1a645d5284a2408d01e7291047f448cf0d900e9.mp4",
+      "filename": "Sprite_Ice_Spark_4K.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "17242d52-d1dd-46f0-95ed-d113844de685",
+  "detail": {
+    "title": "Sprite",
+    "designersText": "Turner Duckworth",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 30 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Sprite",
+      "디자이너": "Turner Duckworth",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 30 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

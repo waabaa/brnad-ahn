@@ -1,0 +1,215 @@
+{
+  "source": "brandarchive",
+  "name": "South Flats",
+  "slug": "south-flats",
+  "url": "https://brandarchive.xyz/identity/south-flats",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Placemaking",
+    "slug": "placemaking"
+  },
+  "designers": [
+    "DNCO"
+  ],
+  "assetCount": 15,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ff4ad1b7e16efd414fa9e1cce58d6ae22000f81-1920x1080.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\001-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd4c8530e714dd7ebd68f9416977ed52b814d676-1920x1080.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\002-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c973fffdcf551475ef9bce975ce0dc7daaa8c9db-1920x1080.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\003-3.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0cdb16b7893ee90012e292610d8ec4d66e18b70b.mp4",
+      "filename": "MASTER_SFs_LogoSpin-6_2025-01-23-155613_golh.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/86474c8bb5ac02698cccabb85d8330e01c312705.mp4",
+      "filename": "MASTER_SFs_PatternMorph_Gallery_Landscape_2025-01-23-093256_mfby.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/567bbc35ef80173f39c81f93693c001502bbd036.mp4",
+      "filename": "MASTER_SFs_Reel-8_2025-01-23-155829_ycyh.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5533353b3e8a466bbe6ac25ca7314cff04105e27.mp4",
+      "filename": "MASTER_SFs_PortraitSpin-3_2025-01-23-093313_wlcu.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24260249ca7d777b7a8e54d2759879bf475a86c4-3840x2559.jpg",
+      "filename": "FlatsFest2025.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2559,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\004-FlatsFest2025.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/34e4dd00721e62b4323aa921d3a472f19f43fa12.mp4",
+      "filename": "MASTER_SFs_FlatsFestScreen_1_2025-01-23-093333_rdlf.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/880199dffbb1b6c1c7e314f6d1cb1d1468dbf48f-3586x4782.jpg",
+      "filename": "SFs-Screen-3.4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3586,
+      "height": 4782,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\005-SFs-Screen-3.4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fd3e80aba195019b473e4af3b7ae5efc8afd0f0b-2560x3413.jpg",
+      "filename": "DSC7896-copy_2025-01-13-110525_nqqx.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 3413,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\006-DSC7896-copy_2025-01-13-110525_nqqx.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9997a708b76443a1e7356b54e17a155de5c6f232-2560x3413.jpg",
+      "filename": "SFs-Arduinobox-insta3.4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 3413,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\007-SFs-Arduinobox-insta3.4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3f5c804fab6d74161fe5c633a0f76ed3f6f248e-3840x2160.jpg",
+      "filename": "SFs-Shopfront.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\south-flats\\assets\\008-SFs-Shopfront.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/48cc74078bf68e32c69aad05f8234937eb62690a.mp4",
+      "filename": "MASTER_SFs_SocialReel_2025-01-23-093230_evog.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/11d48fa7db18c3f55dfbc6e3275c96df965bcf31.mp4",
+      "filename": "MASTER_SFs_Web_UI_2025-01-23-093324_fswg.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "c9d658e9-3872-4f1a-9ded-7e886bab8319",
+  "detail": {
+    "title": "South Flats",
+    "designersText": "DNCO",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FFB9C3",
+        "rgb": "255, 185, 195",
+        "cmyk": "0, 27, 24, 0"
+      },
+      {
+        "hex": "#FF1E2E",
+        "rgb": "255, 30, 46",
+        "cmyk": "0, 88, 82, 0"
+      },
+      {
+        "hex": "#075178",
+        "rgb": "7, 81, 120",
+        "cmyk": "94, 33, 0, 53"
+      },
+      {
+        "hex": "#79212D",
+        "rgb": "121, 33, 45",
+        "cmyk": "0, 73, 63, 53"
+      }
+    ],
+    "typeText": "Designer: Kenneth Knutsen Released: 2016 Foundry: Good Type Foundry: Designer: François Rappo Released: 2013 Foundry: Optimo",
+    "korean": {
+      "브랜드명": "South Flats",
+      "디자이너": "DNCO",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FFB9C3",
+          "rgb": "255, 185, 195",
+          "cmyk": "0, 27, 24, 0"
+        },
+        {
+          "hex": "#FF1E2E",
+          "rgb": "255, 30, 46",
+          "cmyk": "0, 88, 82, 0"
+        },
+        {
+          "hex": "#075178",
+          "rgb": "7, 81, 120",
+          "cmyk": "94, 33, 0, 53"
+        },
+        {
+          "hex": "#79212D",
+          "rgb": "121, 33, 45",
+          "cmyk": "0, 73, 63, 53"
+        }
+      ],
+      "서체정보": "Designer: Kenneth Knutsen Released: 2016 Foundry: Good Type Foundry: Designer: François Rappo Released: 2013 Foundry: Optimo",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

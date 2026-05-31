@@ -1,0 +1,188 @@
+{
+  "source": "brandarchive",
+  "name": "Miles",
+  "slug": "miles",
+  "url": "https://brandarchive.xyz/identity/miles",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Health & Wellbeing",
+    "slug": "health-wellness"
+  },
+  "designers": [
+    "Buddy buddy"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/607fd5c7b2230e6a7a5c506fd27691b51cbe9e33-1920x1114.jpg",
+      "filename": "miles_case_study_images_family1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1114,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\001-miles_case_study_images_family1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f6f360442c5cd3d0c0d3b9635866fcc960005b2-3000x1688.jpg",
+      "filename": "logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\002-logo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa306cca6887476449c014dc11baba5f19472b2d-1688x1688.jpg",
+      "filename": "logoa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1688,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\003-logoa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e9478c5b479f23489d997d2d1833f514032364cd-960x1080.jpg",
+      "filename": "12b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\004-12b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc4a83b26a15d5a556869cd63110a076db8fa063-960x1080.jpg",
+      "filename": "miles_case_study_images_animation copyb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\005-miles_case_study_images_animation-copyb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b516353485003cfc444b7ece27a65acab19da95f-960x1080.jpg",
+      "filename": "miles_case_study_images_animation copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\006-miles_case_study_images_animation-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0283f42738c47197826fce9a8a2f12534f3235b8-960x1080.jpg",
+      "filename": "miles_case_study_images_animation copyc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\007-miles_case_study_images_animation-copyc.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81e17214dc080d23041bc23d4df24480bc4c12b8-791x831.png",
+      "filename": "Asset-3.png",
+      "mimeType": "image/png",
+      "width": 791,
+      "height": 831,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\008-Asset-3.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/66abf8b9cce30dd5926e9abde6dd9a9bde6d75d3-1920x1252.jpg",
+      "filename": "miles_case_study_images_family3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1252,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\009-miles_case_study_images_family3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/850ddcd20b367ca0110e6832d67c5d7a3837456e-1920x1313.jpg",
+      "filename": "miles_case_study_images_family4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1313,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\010-miles_case_study_images_family4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5f597a5939e2eeb5b6afd4f21d57019ab952af3b-1920x1168.jpg",
+      "filename": "scatter2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1168,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\011-scatter2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e87c6b2debe253562efe8b571b0ed8123818bbf6-1920x1205.jpg",
+      "filename": "miles_case_study_images_backpack.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1205,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\012-miles_case_study_images_backpack.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/437a37d9004fead62077933e183cb027e907b45f-1920x1252.jpg",
+      "filename": "miles_case_study_images_boxes.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1252,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\013-miles_case_study_images_boxes.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c146f4fea09a0147e4973417025e22321f108c3-960x1080.jpg",
+      "filename": "miles_case_study_images_graphic1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\014-miles_case_study_images_graphic1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c604623e71f98059cbae4e5a5ece3c603adb265c-960x1080.jpg",
+      "filename": "miles_case_study_images_hands.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\015-miles_case_study_images_hands.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a18a44fe0ac33ad19ac95b1988def5a977a68404-960x1080.jpg",
+      "filename": "13a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 960,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\miles\\assets\\016-13a.jpg"
+    }
+  ],
+  "rawId": "16ba4a7a-45ec-4236-b7ef-76a046a62d68",
+  "detail": {
+    "title": "Miles",
+    "designersText": "Buddy buddy",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 16 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Miles",
+      "디자이너": "Buddy buddy",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 16 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

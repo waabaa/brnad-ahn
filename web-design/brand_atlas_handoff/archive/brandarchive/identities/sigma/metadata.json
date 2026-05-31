@@ -1,0 +1,411 @@
+{
+  "source": "brandarchive",
+  "name": "Sigma",
+  "slug": "sigma",
+  "url": "https://brandarchive.xyz/identity/sigma",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "From Japan",
+    "slug": "from-japan"
+  },
+  "designers": [
+    "Stockholm Design Lab"
+  ],
+  "assetCount": 43,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7b464cdc47a4f8d1c2c968026f4a70d82e21eabb.mp4",
+      "filename": "high copy 3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c38c629a62d68bfa1588370cff8c9b66301893cc-3840x2163.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2163,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\001-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0aaeae21b8cffffdb5c7db0fc3009eefde911250-3840x2163.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2163,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\002-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/98bfe8e650f5ec5f0b6371046da53bb59c8d7267-2558x1784.png",
+      "filename": "Screenshot 2025-06-18 at 07.44.20.png",
+      "mimeType": "image/png",
+      "width": 2558,
+      "height": 1784,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\003-Screenshot-2025-06-18-at-07.44.20.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9fb9f05af67b277f230c5b88abf9e05e16fd24d2-3790x2556.png",
+      "filename": "Screenshot 2025-06-18 at 07.44.29.png",
+      "mimeType": "image/png",
+      "width": 3790,
+      "height": 2556,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\004-Screenshot-2025-06-18-at-07.44.29.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c1d4a6c979b72c83cdd261a6d0fa05d3089447a6-3840x1778.webp",
+      "filename": "5f34b3e426e9a53e23362b1081b5733823df2726-2592x1200.svg.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 1778,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\005-5f34b3e426e9a53e23362b1081b5733823df2726-2592x1200.svg.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e9ccc8506fbab858909bd301c4222f944118e3f1.mp4",
+      "filename": "high copy 2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/68595f5f8ff3691eda4e1065ca24a4c47ac3ba89.mp4",
+      "filename": "high copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3f1225c1708e6950c8fbda59057da40bd180c339.mp4",
+      "filename": "high-2 copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/562600da9cfcdd63162b415c1790fbd5cfe87705.mp4",
+      "filename": "high-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0f5ae56ec90f07c004cc944db8d921496d6b72eb.mp4",
+      "filename": "high.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ecb07e47ae0a7cd3c089f5e0f8a293865243235-2160x2700.png",
+      "filename": "0ecb07e47ae0a7cd3c089f5e0f8a293865243235-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\006-0ecb07e47ae0a7cd3c089f5e0f8a293865243235-2160x2700.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4bd912fc13defb02412fb98893b3b7b1acbf60dc-2160x2700.png",
+      "filename": "4bd912fc13defb02412fb98893b3b7b1acbf60dc-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\007-4bd912fc13defb02412fb98893b3b7b1acbf60dc-2160x2700.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/58d76a6ac67a0a07a87551200321586d0d05bc99-1920x2383.webp",
+      "filename": "6f2c155a4e0425e5ab0d91f4f8c79a0e2efb2f2f-2528x3137.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2383,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\008-6f2c155a4e0425e5ab0d91f4f8c79a0e2efb2f2f-2528x3137.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7e59ebdc55e3a2c3aa911ac68d92475384882008-2160x2700.png",
+      "filename": "7e59ebdc55e3a2c3aa911ac68d92475384882008-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\009-7e59ebdc55e3a2c3aa911ac68d92475384882008-2160x2700.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e22831370a8cf081b344ba7c35b37b7429ea6ed3-3840x2160.webp",
+      "filename": "86bb17b4fd33e53f1c8771f2c6b2eb5c3e736075-3840x2160.png.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\010-86bb17b4fd33e53f1c8771f2c6b2eb5c3e736075-3840x2160.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7297ae2a9b3750fc2ceba044da22f308bb9cdb6f-3840x3838.webp",
+      "filename": "628a8e925b13fb5ad2ed0b17681c807ecb192a31-2161x2160.png.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 3838,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\011-628a8e925b13fb5ad2ed0b17681c807ecb192a31-2161x2160.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f0a5ba6a80bf415cdf8318dfa47abc2160e9d02-3840x2160.webp",
+      "filename": "876a1117a15d94c395c57d9d2e3930ec722c2fb4-3840x2160.png.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\012-876a1117a15d94c395c57d9d2e3930ec722c2fb4-3840x2160.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ff9f944ccf13f1b88a70337ecc9c8fbf06dafdec-2160x2700.png",
+      "filename": "ff9f944ccf13f1b88a70337ecc9c8fbf06dafdec-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\013-ff9f944ccf13f1b88a70337ecc9c8fbf06dafdec-2160x2700.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/54bdf90a76d1db2b86b0ff1aa7b13f9edc7e4ec9.mp4",
+      "filename": "high.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/445282ae903054269ca6604e1e22e02bab7b90de-1600x1600.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\014-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/feb238fa802b41e8f23f9747dca43d067ccca3ca-1600x1600.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\015-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d615279bfc4b6966f136408ecc06f0bf1f1a3cf7-1600x1600.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\016-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5dcce131c4417f57bc52888b22d1860624be2c39-1600x1600.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\017-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b3af25bf9ac6e95d68d1148204c7a45bee2eb92c-1600x1600.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\018-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/019a740741c816d135a729b1964eaa217318cca4-1600x1600.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\019-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d41106ff9498baafd17869bfce2b543ebb5734d3-2880x2160.png",
+      "filename": "d41106ff9498baafd17869bfce2b543ebb5734d3-2880x2160.png",
+      "mimeType": "image/png",
+      "width": 2880,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\020-d41106ff9498baafd17869bfce2b543ebb5734d3-2880x2160.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/39ea05bf221d530dc4c3f509373fc5354701ffb4-1264x948.png",
+      "filename": "39ea05bf221d530dc4c3f509373fc5354701ffb4-1264x948.png",
+      "mimeType": "image/png",
+      "width": 1264,
+      "height": 948,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\021-39ea05bf221d530dc4c3f509373fc5354701ffb4-1264x948.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/51aec21c592d76f9b986541bc30be5d2f28b5a1b-2160x2700.png",
+      "filename": "51aec21c592d76f9b986541bc30be5d2f28b5a1b-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\022-51aec21c592d76f9b986541bc30be5d2f28b5a1b-2160x2700.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/351b91989a4c6621f3fac8eee09397c5e5513524-1920x1440.webp",
+      "filename": "80e9809d15ae1ea698c4066d15b2dc30e3a4f283-1264x948.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\023-80e9809d15ae1ea698c4066d15b2dc30e3a4f283-1264x948.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d703f3b1356c15ec26990ec23fe88404d86b436-3840x2160.webp",
+      "filename": "a4d58fe0da90065408cb01db90b100cb4d9cefaa-3840x2160.png.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\024-a4d58fe0da90065408cb01db90b100cb4d9cefaa-3840x2160.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/61a1e465665cbf6638c80240e31ef23f679ee231-1920x1920.webp",
+      "filename": "f5aa9a82cdda0165adc7e4f912956bf630046ab3-2160x2160.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\025-f5aa9a82cdda0165adc7e4f912956bf630046ab3-2160x2160.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/868639ecf6d31395e7cc5dd800e9cc4eedac1a63-2160x2700.png",
+      "filename": "868639ecf6d31395e7cc5dd800e9cc4eedac1a63-2160x2700.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\026-868639ecf6d31395e7cc5dd800e9cc4eedac1a63-2160x2700.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/57487c04e2fa38f4427cfc56bfff08b532e30e9d-3840x2163.webp",
+      "filename": "142fe90b2d8abd589208cbf239d612096006b29f-2592x1460.png.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 2163,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\027-142fe90b2d8abd589208cbf239d612096006b29f-2592x1460.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f67555ec1e0584a855943c4cd17d38f5c23b907d-1920x2382.webp",
+      "filename": "0962863cbde3135be0f6d3340cb181ee34eda9d9-1264x1568.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2382,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\028-0962863cbde3135be0f6d3340cb181ee34eda9d9-1264x1568.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/102b53010604bd245e4a5ef7f29f9d5f733ab657-3840x2574.webp",
+      "filename": "347576437796d13f3feea5278ecc1fde029ee1ab-6966x4670.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 3840,
+      "height": 2574,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\029-347576437796d13f3feea5278ecc1fde029ee1ab-6966x4670.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/44b9f6a83c4b35bfdfafd0ea4a3316a57f33e8f3-1920x1440.webp",
+      "filename": "a97c86d20d2f8b1d28c86a4192b8a0ef27526f8a-1264x948.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\030-a97c86d20d2f8b1d28c86a4192b8a0ef27526f8a-1264x948.png.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4a176d62aa93f2e3e20632f54a98294a0fe5a1ba.mp4",
+      "filename": "high-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f1de4d95865c119f41765b516e3d1a05a8e38267.mp4",
+      "filename": "high.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b1dd4d05cce1be32e892cd6dbc9b6964e9c34893.mp4",
+      "filename": "high-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e345a2c9cac43c534e8a5648dc2906a1fe6206d8-1600x1600.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\031-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8cb7dc899150d6e2ade12a305168da4b9ce0078d-1600x1600.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\032-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f82440dba70f0a004364fd851fb6d2dd36e4c53-1600x1600.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\sigma\\assets\\033-9.jpg"
+    }
+  ],
+  "rawId": "1a701b50-c7f0-4521-ba83-bb22975c8e8a",
+  "detail": {
+    "title": "Sigma",
+    "designersText": "Stockholm Design Lab",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 43 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Sigma",
+      "디자이너": "Stockholm Design Lab",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 43 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

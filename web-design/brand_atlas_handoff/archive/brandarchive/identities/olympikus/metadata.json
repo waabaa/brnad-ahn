@@ -1,0 +1,428 @@
+{
+  "source": "brandarchive",
+  "name": "Olympikus",
+  "slug": "olympikus",
+  "url": "https://brandarchive.xyz/identity/olympikus",
+  "year": 2022,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Porto Rocha",
+    "slug": "designed-by-porto-rocha"
+  },
+  "designers": [
+    "Porto Rocha"
+  ],
+  "assetCount": 44,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c2aad90502925ec5bc1d67cd4733af681792cd5b-12009x8053.jpg",
+      "filename": "Olympikus01 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 12009,
+      "height": 8053,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\001-Olympikus01-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/792d872bfbfdeb7aa1652f3f2207c7dc0fd0e4b9-12009x8053.jpg",
+      "filename": "Olympikus01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 12009,
+      "height": 8053,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\002-Olympikus01.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e2fc65941a0fba49755df2a93414e58ffb7f87ad.mp4",
+      "filename": "Olympikus_CaseStudy_02_Layout_D.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec2bb195458249ef5bc38f2c38aa2499a7a1163b-2400x1600.jpg",
+      "filename": "Olympikus02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\003-Olympikus02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/490f16527e3a5dc53e69042855d8cc8c3da8b561-1500x2000.jpg",
+      "filename": "Olympikus04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\004-Olympikus04.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9a5f032d0ac6c72b8a5d2aaa50f2a641b8c3054d-1500x2000.jpg",
+      "filename": "Olympikus09.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\005-Olympikus09.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc340981fd87022516740063344de479a0c41714-2400x1600.jpg",
+      "filename": "Olympikus19.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\006-Olympikus19.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7fd9b33005a5bb2f9a2e853868886f427529ed0-1500x2000.jpg",
+      "filename": "Olympikus11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\007-Olympikus11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d1732bced430d549731045da8245a06378808e2e-1500x1000.jpg",
+      "filename": "Olympikus22.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\008-Olympikus22.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/72a405cf19bccf03bfbd78232f13e54a0e543c2f-2400x1600.jpg",
+      "filename": "Olympikus23.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\009-Olympikus23.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bd8babbc8789da81cd31d679c823c65482501e87-1500x2000.jpg",
+      "filename": "Olympikus30.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\010-Olympikus30.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/61d80f3fe0407999cc02ecb9eb81d79b077a81d0-1500x2000.jpg",
+      "filename": "Olympikus32.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\011-Olympikus32.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d2c6d9211d9945a45a9c72fb06e58ed642065d7-2400x1600.jpg",
+      "filename": "Olympikus37.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\012-Olympikus37.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f2e22f72c6e2e961effb8f1ce5f93349fb602f3-1500x2000.jpg",
+      "filename": "Olympikus41.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\013-Olympikus41.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1e512856c02cffd506438cde6dd36de09f9d6336-1500x2000.jpg",
+      "filename": "Olympikus42.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\014-Olympikus42.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7fcec25838f50d5f5c0a7054135c1b3db2abd275-2400x1600.jpg",
+      "filename": "Olympikus51.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\015-Olympikus51.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d5ac013c69e39438625443794e8e2b3f1b0310c9-12009x8053.jpg",
+      "filename": "Olympikus01 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 12009,
+      "height": 8053,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\016-Olympikus01-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/eeef11a600da285eed2cf4f82ff826b5ac86a658.mp4",
+      "filename": "Olympikus_CaseStudy_Typography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/42b58571c0b72406d777380e17fc4199ab6d1e1d.mp4",
+      "filename": "Olympikus_CaseStudy_03_OOH.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8cb6e2bc1f01580cf6fcd3a935e9fad2f9b1f227-1500x2000.jpg",
+      "filename": "Olympikus15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\017-Olympikus15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e70e74204bfef2902c9b40b9c92caff2a34742d-3000x2000.jpg",
+      "filename": "Olympikus46.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\018-Olympikus46.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c4f8563108ed18122a8942ddd525f8fa56c5cf5-2400x1600.jpg",
+      "filename": "Olympikus47.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\019-Olympikus47.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1f20e5f04670aaf3e2028e5c0ab117c1719c8547-2400x1600.jpg",
+      "filename": "Olympikus48B.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\020-Olympikus48B.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0621731e44d67936f2bf78faf1a6a5053cb4c772-2400x1600.jpg",
+      "filename": "Olympikus50.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\021-Olympikus50.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/364c9c71800b5e76b5921127fcb174e7954e68d0-1500x1000.jpg",
+      "filename": "Olympikus06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\022-Olympikus06.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/09e557a2358a2a5f6a45c77a8530cf1caed22782-2400x1600.jpg",
+      "filename": "Olympikus08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\023-Olympikus08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ad8586ab6f7c907dcfa4ce07e0ec904e7a392d22-2400x1600.jpg",
+      "filename": "Olympikus14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\024-Olympikus14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05095e1581f8c499aa58124f56adf309c58f27ce-2400x1600.jpg",
+      "filename": "Olympikus16.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\025-Olympikus16.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d98392641e01e6a5b771835416d070ed24f7e0be-1500x2000.jpg",
+      "filename": "Olympikus20.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\026-Olympikus20.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8b571229cfef22282fdc6cc8107a51ee8e949055-1500x2000.jpg",
+      "filename": "Olympikus29.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\027-Olympikus29.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bd55c78ca919be676f0e9c95ac92204b25c5de59-2400x1600.jpg",
+      "filename": "Olympikus49.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\028-Olympikus49.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04ec11c51cc5bf87baf19848d36e6e279c778e1e-2250x3000.jpg",
+      "filename": "Olympikus17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\029-Olympikus17.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f83246cb117980e841987766767db297764c9739-2250x3000.jpg",
+      "filename": "Olympikus18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\030-Olympikus18.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b9f847cb7c861c7066bad64c777cf17eb4eb0bb6-1500x1000.jpg",
+      "filename": "Olympikus21.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\031-Olympikus21.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b3dd60c73b5a49ec1319981f3e4c567c6a01ff27-2400x1600.jpg",
+      "filename": "Olympikus35.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\032-Olympikus35.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee420bdcdf94c4a94abfdb72509ba1530579be6e-2400x1600.jpg",
+      "filename": "Olympikus43.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\033-Olympikus43.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ff549523b9ac153bf383c14f25155dcac9bdbb0-1500x1000.jpg",
+      "filename": "Olympikus26.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\034-Olympikus26.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d46de75afd6b449adbc5fbc0d54f100ddb71b15-2400x1600.jpg",
+      "filename": "Olympikus28.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\035-Olympikus28.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6518331e9b26b4740cfde68516770882c9fec864-1500x2000.jpg",
+      "filename": "Olympikus38.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\036-Olympikus38.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e4aa4cdfa814792322fd108f652046c3a8b09ee3.mp4",
+      "filename": "Olympikus Home.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9c93b2d236a5524721510533ae5e35cc9378e485.mp4",
+      "filename": "Olympikus Product Page.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6d8c0abb0d13d146d742364049cfd2f5da3ffaa3-1500x2000.jpg",
+      "filename": "Olympikus40.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\037-Olympikus40.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c22a939b457c8c1cf6810114cfdc3539de304e58-1500x2000.jpg",
+      "filename": "Olympikus45.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\olympikus\\assets\\038-Olympikus45.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/533dba417b5d413e6c9243b7a75c989811b9fcb9.mp4",
+      "filename": "Product - Mobile.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "de9a8164-3b95-410b-976d-57278cc835c3",
+  "detail": {
+    "title": "Olympikus",
+    "designersText": "Porto Rocha",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 44 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Olympikus",
+      "디자이너": "Porto Rocha",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 44 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

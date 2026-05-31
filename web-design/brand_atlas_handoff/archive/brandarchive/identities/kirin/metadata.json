@@ -1,0 +1,236 @@
+{
+  "source": "brandarchive",
+  "name": "Kirin",
+  "slug": "kirin",
+  "url": "https://brandarchive.xyz/identity/kirin",
+  "year": 1984,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by PAOS",
+    "slug": "designed-by-paos"
+  },
+  "designers": [
+    "PAOS"
+  ],
+  "assetCount": 14,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8391cc5777ce98216a339fad6cc2aa590338f8b5-832x474.jpg",
+      "filename": "Scan 81B.jpg",
+      "mimeType": "image/jpeg",
+      "width": 832,
+      "height": 474,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\001-Scan-81B.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db02ee69f938796f70a702e58741ddf92c131d6d-1748x1327.jpg",
+      "filename": "Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1748,
+      "height": 1327,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\002-Logo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2789e90b4511048ce2bf4bf88547ad128d22ab7c-1107x580.jpg",
+      "filename": "Scan 13.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1107,
+      "height": 580,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\003-Scan-13.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/75516ef94d51e3eddb56225ff16bece95a312963-1713x1279.jpg",
+      "filename": "Scan 81 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1713,
+      "height": 1279,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\004-Scan-81-2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba5995a2cf288ac2a8ff99d3ace02d73b5cd23a7-768x223.jpg",
+      "filename": "Scan 81A 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 768,
+      "height": 223,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\005-Scan-81A-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d42e227c9b2425e3aabccde4c8e7b9c39fe028e-765x220.jpg",
+      "filename": "Scan 81A.jpg",
+      "mimeType": "image/jpeg",
+      "width": 765,
+      "height": 220,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\006-Scan-81A.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fe195626a2b980e116537e83eff149148f24f39d-1674x794.jpg",
+      "filename": "Scan 81ww.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1674,
+      "height": 794,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\007-Scan-81ww.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e329c2ea0e05843a43e7ebb0503237b3e30c5219-3405x361.jpg",
+      "filename": "Scan 82g.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3405,
+      "height": 361,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\008-Scan-82g.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04cee878afe9eed719087f02df5bcd25d37f8c65-3446x502.jpg",
+      "filename": "Scan 82n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3446,
+      "height": 502,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\009-Scan-82n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/21c820155e74bf8cf7c9e544fdc4f961687011dc-4947x684.jpg",
+      "filename": "Scan 82a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4947,
+      "height": 684,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\010-Scan-82a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/27d1053022f762bac9aece23be5da00469efa083-862x609.jpg",
+      "filename": "Scan 8 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 862,
+      "height": 609,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\011-Scan-8-2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ebe8a0605817c437a2b3530cd631a65b0741053b-1859x2398.jpg",
+      "filename": "Scan 82b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1859,
+      "height": 2398,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\012-Scan-82b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/da78851cbd022a61ab4d655cedc536f1255e75c0-1740x1302.jpg",
+      "filename": "Scan 82c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1740,
+      "height": 1302,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\013-Scan-82c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d8be9dcfb71a3c33b6187d74d4a9e2151ad5399a-1109x971.jpg",
+      "filename": "Scan 82d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1109,
+      "height": 971,
+      "localPath": "archive\\brandarchive\\identities\\kirin\\assets\\014-Scan-82d.jpg"
+    }
+  ],
+  "rawId": "5e4ed690-eec2-496c-9972-7678d7be77ba",
+  "detail": {
+    "title": "Kirin",
+    "designersText": "PAOS",
+    "yearText": "1984",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Color",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#DC271C",
+        "rgb": "220, 39, 28",
+        "cmyk": "0, 82, 87, 14"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      },
+      {
+        "hex": "#8D9093",
+        "rgb": "141, 144, 147",
+        "cmyk": "4, 2, 0, 42"
+      },
+      {
+        "hex": "#947550",
+        "rgb": "148, 117, 80",
+        "cmyk": "0, 21, 46, 42"
+      },
+      {
+        "hex": "#8E9484",
+        "rgb": "142, 148, 132",
+        "cmyk": "4, 0, 11, 42"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      }
+    ],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Kirin",
+      "디자이너": "PAOS",
+      "연도": "1984",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "컬러",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#DC271C",
+          "rgb": "220, 39, 28",
+          "cmyk": "0, 82, 87, 14"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        },
+        {
+          "hex": "#8D9093",
+          "rgb": "141, 144, 147",
+          "cmyk": "4, 2, 0, 42"
+        },
+        {
+          "hex": "#947550",
+          "rgb": "148, 117, 80",
+          "cmyk": "0, 21, 46, 42"
+        },
+        {
+          "hex": "#8E9484",
+          "rgb": "142, 148, 132",
+          "cmyk": "4, 0, 11, 42"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        }
+      ],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

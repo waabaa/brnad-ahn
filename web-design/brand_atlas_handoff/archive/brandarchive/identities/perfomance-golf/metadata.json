@@ -1,0 +1,269 @@
+{
+  "source": "brandarchive",
+  "name": "Perfomance Golf",
+  "slug": "perfomance-golf",
+  "url": "https://brandarchive.xyz/identity/perfomance-golf",
+  "year": 2026,
+  "exclusive": true,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Motto"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6264888d50424a8bc53a9c04883a2062d2308da5-3000x2045.jpg",
+      "filename": "09 Logo Lockups copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2045,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\001-09-Logo-Lockups-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a25d66d6fc226290ece4c7fc811aa6ac74a2a323-3492x2472.jpg",
+      "filename": "11 Logotype copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3492,
+      "height": 2472,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\002-11-Logotype-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6834d689fa6e6d9ab684b82a28e9214d5feea13d.mp4",
+      "filename": "09 Logo Lockups.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/46d769bf40d15eae8b60b35ed8e231b9aa9c01ce-1716x2400.webp",
+      "filename": "17-Photography.webp",
+      "mimeType": "image/webp",
+      "width": 1716,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\003-17-Photography.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/89744e829caba36781b57cf7c525345f1c5aec37-1560x2000.webp",
+      "filename": "26-AD-Carousal-1.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\004-26-AD-Carousal-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2cad79b41969ee19c2dd1b870001317c33ed51e9-1560x2000.webp",
+      "filename": "26-AD-Carousal-2.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\005-26-AD-Carousal-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c6f2c99bcf990685a15ab7371f70947773a6b6a9-1560x2000.webp",
+      "filename": "26-AD-Carousal-3.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\006-26-AD-Carousal-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3d0d6641564546c1dcb922bec69c393f7d017530-1560x2000.webp",
+      "filename": "26-AD-Carousal-4.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\007-26-AD-Carousal-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8be189234f23f08c670bf873b10aa253ab90d889-1560x2000.webp",
+      "filename": "26-AD-Carousal-5.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\008-26-AD-Carousal-5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a800457463086957bc3b480395c1a6c25e8e7a68-1560x2000.webp",
+      "filename": "26-AD-Carousal-6.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\009-26-AD-Carousal-6.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/159f31fada77b3f6b6ee1b6603cf731edc980aab-1560x2000.webp",
+      "filename": "26-AD-Carousal-7.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\010-26-AD-Carousal-7.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e162745d80d693e2ed5e6be304b294c57390134f.mp4",
+      "filename": "04 Guidelines.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f369a440b2cb2754b7383b79a863073c88fa5f7a-3492x2472.webp",
+      "filename": "07-Application.webp",
+      "mimeType": "image/webp",
+      "width": 3492,
+      "height": 2472,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\011-07-Application.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b765d923ccf0c2062f5011c29bb7843e21df974a-1716x1170.webp",
+      "filename": "10-Golf-Pin.webp",
+      "mimeType": "image/webp",
+      "width": 1716,
+      "height": 1170,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\012-10-Golf-Pin.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f04650bb2adf1545d4fd427d31e2c68bf86990ef-1560x2000.webp",
+      "filename": "27-Application-1.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\013-27-Application-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/07b00e47a02547ba3576dacb4d88a530ff9a2fd1-1560x2000.webp",
+      "filename": "27-Application-2.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\014-27-Application-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b09769573e99884436edf798d5c0fee256640974-1560x2000.webp",
+      "filename": "27-Application-3.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\015-27-Application-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1619d5e260868ef4a74b201f411dbe018b1f1515-1560x2000.webp",
+      "filename": "27-Application-4.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\016-27-Application-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/15d6952d428e2d479dc52c91a790ca1e67ea37b8-1560x2000.webp",
+      "filename": "27-Application-5.webp",
+      "mimeType": "image/webp",
+      "width": 1560,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\017-27-Application-5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7308e9e2adeed7971440b28c126d885030c6d1d9-1716x2400.webp",
+      "filename": "08-App-Icon.webp",
+      "mimeType": "image/webp",
+      "width": 1716,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\perfomance-golf\\assets\\018-08-App-Icon.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8a071214a00b3214d721857cff5b344f9a6cf8fa.mp4",
+      "filename": "16 Carousal.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1c3a52a3fe5c9e742cf13d07fd2b62934da243d4.mp4",
+      "filename": "18 Diagrams.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8d8d51f250f550775714ae75c60db288558233ac.mp4",
+      "filename": "20 Ipad CloseUp.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2d009daae921868c20da7abef7f42e36470d3e73.mp4",
+      "filename": "21 Ipad-Coach.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/05dfc1571770a8729b32b9aaefc1171379ab5540.mp4",
+      "filename": "23 Web-Watch.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9536f33d5659dcdeff25ad5aa627680ab8ba25c7.mp4",
+      "filename": "24 Web-Notifications.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/adaa102509b5dbc1d040b9e5ab63e79ed3dc1a87.mp4",
+      "filename": "25 Web-Intraction.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "1e409a24-3bdb-40cb-8765-7c8f34755f80",
+  "detail": {
+    "title": "Perfomance Golf",
+    "designersText": "Motto",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 27 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Perfomance Golf",
+      "디자이너": "Motto",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 27 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

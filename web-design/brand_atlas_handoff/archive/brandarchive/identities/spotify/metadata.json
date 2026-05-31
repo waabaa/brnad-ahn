@@ -1,0 +1,344 @@
+{
+  "source": "brandarchive",
+  "name": "Spotify",
+  "slug": "spotify",
+  "url": "https://brandarchive.xyz/identity/spotify",
+  "year": 2015,
+  "exclusive": false,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "Collins"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d1bd4187f9b4f9b1cfdc3048d9873e7dae6cd4d-981x355.jpg",
+      "filename": "01_Spotify copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 981,
+      "height": 355,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\001-01_Spotify-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fd100b01c6596b11b8305e814cb0cc373c155a33-1500x1000.gif",
+      "filename": "01_Spotify.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\002-01_Spotify.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7e969f5a6a39a01a9da429c07c8b7d5df689a4b7-2000x1333.gif",
+      "filename": "BJYG17_Spotify_Addl_01.gif",
+      "mimeType": "image/gif",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\003-BJYG17_Spotify_Addl_01.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be1b00c3ccc9444bebbe8a0cefe68fbd1b26cc75-2000x1333.gif",
+      "filename": "BJYG17-Spotify-11-3.gif",
+      "mimeType": "image/gif",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\004-BJYG17-Spotify-11-3.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/486fca91fcaacb63b4ee2bcbf8b46701d4f704c2-1920x1200.jpg",
+      "filename": "Spotify Working Deck.002.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\005-Spotify-Working-Deck.002.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f85bd2518c74144bf4adbec7f9a94c42a86f4376-1920x1200.jpg",
+      "filename": "Spotify Working Deck.003.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\006-Spotify-Working-Deck.003.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6f02f05071c9a27945478b171f30ff32514d8cdf-1920x1200.jpg",
+      "filename": "Spotify Working Deck.004.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\007-Spotify-Working-Deck.004.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c19d69d90d30b62a049cc560c3e2f2e7cad30ee8-1920x1200.jpg",
+      "filename": "Spotify Working Deck.005.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\008-Spotify-Working-Deck.005.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/163687e881e721aa2d4d146e641a055f16236486-1920x1200.jpg",
+      "filename": "Spotify Working Deck.006.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\009-Spotify-Working-Deck.006.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b015de0ab45ec1b2e47a5d9527c255daae525164-1200x1200.jpg",
+      "filename": "Spotify Working Deck.007.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\010-Spotify-Working-Deck.007.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b509e2d80c67c542f5c3a59d8223a5ff0d69021-2200x1400.jpg",
+      "filename": "Spotify Working Deck.014.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2200,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\011-Spotify-Working-Deck.014.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/09aaa3c1bd852552f9a5514d1840546ee092c3ed-1200x1200.jpg",
+      "filename": "Spotify Working Deck.029.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\012-Spotify-Working-Deck.029.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02e60490c7104c5113f1b43b01faeaffeef7c715-1920x1200.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\013-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a419b02dab63734f7b594f3a97262cb60d82cc6-1800x1800.jpg",
+      "filename": "A.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\014-A.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/519c5830f717574672359f3b119e38509b360183-1500x1100.jpg",
+      "filename": "C.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1100,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\015-C.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9cba3e4c43e0fa6b817b150558d3f1ba0960b44b-1500x1100.jpg",
+      "filename": "D.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1100,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\016-D.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ddc9cac167adf9925726993b73ac0d4ab161a2a3-1920x1200.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\017-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c0b00241a3d47b7ae19ba7f7e5d768e7959d4105-1920x1200.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\018-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a1936545149f098f6665bfff74e3de3494932550-1920x1200.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\019-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5c6cfe9bda29d6f87544bc51e026dbbe9b60964-1920x1200.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\020-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/824985bfe5711e213b337b4451831e9460482d2b-1920x1200.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\021-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6930b16b19fb56ac31d92981b4b66f2a4a023606-1920x1200.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\022-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d369b9377649331f530a1496542e05ef4f1b02a1-1920x1200.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\023-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d7fca719a61f28051dadb66f0935a88698e91e1f-1800x1800.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\024-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/58bfe3bc43d4339d15c5f796eede86e8d298f8af-1800x1800.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\025-12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8630021b12a4f7f7252d68fe31fa9e273b443b68-1800x1800.jpg",
+      "filename": "13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\026-13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/adaa584121b85b23d3776808bda0dee71af489f7-1800x1800.jpg",
+      "filename": "14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\027-14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a15bcd26d4c6d7dcdd58865bbaf2ef6209ff89fc-1800x1800.jpg",
+      "filename": "15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\028-15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c938b884b5ca804596c58d50726e3a5dc95a796-1800x1800.jpg",
+      "filename": "16.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\029-16.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b72c782bf0d9f4a088d18aa3f1cd5af55dde9f9-1800x1800.jpg",
+      "filename": "17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\spotify\\assets\\030-17.jpg"
+    }
+  ],
+  "rawId": "39f5c4cf-a7df-4c23-a2f8-e7f9de4218ca",
+  "detail": {
+    "title": "Spotify",
+    "designersText": "Collins",
+    "yearText": "2015",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#1ED760",
+        "rgb": "30, 215, 96",
+        "cmyk": "86, 0, 55, 16"
+      },
+      {
+        "hex": "#101010",
+        "rgb": "16, 16, 16",
+        "cmyk": "0, 0, 0, 94"
+      }
+    ],
+    "typeText": "Designer: Laurenz Brunner Released: 2013 Foundry: Lineto",
+    "korean": {
+      "브랜드명": "Spotify",
+      "디자이너": "Collins",
+      "연도": "2015",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#1ED760",
+          "rgb": "30, 215, 96",
+          "cmyk": "86, 0, 55, 16"
+        },
+        {
+          "hex": "#101010",
+          "rgb": "16, 16, 16",
+          "cmyk": "0, 0, 0, 94"
+        }
+      ],
+      "서체정보": "Designer: Laurenz Brunner Released: 2013 Foundry: Lineto",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "source": "brandarchive",
+  "name": "Vevo",
+  "slug": "vevo",
+  "url": "https://brandarchive.xyz/identity/vevo",
+  "year": 2021,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Porto Rocha",
+    "slug": "designed-by-porto-rocha"
+  },
+  "designers": [
+    "Porto Rocha"
+  ],
+  "assetCount": 39,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/55dcc8cabb044d97be2e55e0b130a9bf21abe383-1653x1049.jpg",
+      "filename": "345d570b72581ffe20611f47e016ae2c-bb9271c0dcb6ecbf4cfd33df615cc071.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1653,
+      "height": 1049,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\001-345d570b72581ffe20611f47e016ae2c-bb9271c0dcb6ecbf4cfd33df615cc071.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/710c6e11ff1a9f8e019e906d91352bcd64e30a8b-1653x1049.jpg",
+      "filename": "45d570b72581ffe20611f47e016ae2c-bb9271c0dcb6ecbf4cfd33df615cc071 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1653,
+      "height": 1049,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\002-45d570b72581ffe20611f47e016ae2c-bb9271c0dcb6ecbf4cfd33df615cc071-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3e1310bc954c6da68ca87011f2eda3ba2c460db6.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_04.mp4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ec04e152385c139ca458fc40df1d66c56119b9cb.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_07.mp4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5b6bb683560d5b5e805865ee5f77a969a98c9aaf.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_08.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e88b42238d5b4070d9cc6d66516b35b3c65d8baf.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/31dec783195480ede7d9d563b1eb694a764d583c.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/66138ed87cb44c012e2b4ad750aacb006e3c55fb.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_38.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9673febc623d1958d2df5cc25c99206a5c255f96.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_44.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e6d3d547a9f1a95fc8d06a61fae4ce2402c8a002.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_49.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f2303f7311b691e5787684d942d75f96d7fac7b1.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_51.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1f9adcaa1ae0cdbd5b3b48e51029d1b68f6b3e17.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_06.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0222433f841cfbe646db5ef48c4125e3c48cbb06.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_09.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/32f6e86bf07f164607b25b8cb11e7b2ee610e596.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_12.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/97329e17f796de4d240619ac042f8beb8f20c115.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_13.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/28565495a84bc6ff2ba22e4ed5d95223666b3d58.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_14.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/316410bef1351f342c662df0955b2f0a6032d105.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cd8acc177d2e5a2480ac0298041de62a97bc4605.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_26.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1bb1c5db12d6f052883d3af6e2f8517e2002372e.mp4",
+      "filename": "Vevo - video 4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2b6eaf27379a2ba4e042f66a7a934101d5f82af0-2400x1350.jpg",
+      "filename": "1c83b1c0f52a868ba28b8bbc472b83d9-62d00f118b25510951bb8952f81724eb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\003-1c83b1c0f52a868ba28b8bbc472b83d9-62d00f118b25510951bb8952f81724eb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/203c50bdc8dc7af7ce6c3c98d79d0a1d8ce06f0b-1500x2000.jpg",
+      "filename": "2939dbbc7f9328188e4d47b1c6b1f18c-525207e24378f0f30178d1aa1335fd45.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\004-2939dbbc7f9328188e4d47b1c6b1f18c-525207e24378f0f30178d1aa1335fd45.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e3f22e6a309fe038de0629b9f40cbfba842a2131-1500x2000.jpg",
+      "filename": "bc089a38e8b5e45ac672ad46a4495cb0-b97adaf40dd0485bdbf2b361dff0cda4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\005-bc089a38e8b5e45ac672ad46a4495cb0-b97adaf40dd0485bdbf2b361dff0cda4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/06424fffab6b0368f5b1bfa74b50114acb4a11e9-2400x1350.jpg",
+      "filename": "c0a28ad88d629efb3a53a56dfd7b6ea3-70b4f2cbfee00c1f9fbd070a2ed7f27c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\006-c0a28ad88d629efb3a53a56dfd7b6ea3-70b4f2cbfee00c1f9fbd070a2ed7f27c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec45566c8622e9f174740b9c365cbdb7120288dd-1886x1120.jpg",
+      "filename": "c588efeeef1a592ce80c0849fff79a6d-bc8445e76428e0afd222a3aa77606ac9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1886,
+      "height": 1120,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\007-c588efeeef1a592ce80c0849fff79a6d-bc8445e76428e0afd222a3aa77606ac9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e5f6a9fdf378bcf1f93ac4a870df458f4ced708-2400x1600.jpg",
+      "filename": "db7514320bcecfc2fc0621d4837a3fe9-f90c09d1eaa7d1cb1777ea6fc59bf558.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\008-db7514320bcecfc2fc0621d4837a3fe9-f90c09d1eaa7d1cb1777ea6fc59bf558.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bfa60bff70783427ef33faa49c6ea7f21cf58bfc.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_28.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f4e8082ac3ce26872465362b9771d2b8efd29a8a-1500x2000.jpg",
+      "filename": "8e8643152ee6c3baaa1fc6d7d0932729-df44e614a5d9f8091917ccf383b65a55.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\009-8e8643152ee6c3baaa1fc6d7d0932729-df44e614a5d9f8091917ccf383b65a55.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0238f00335ce5a53b8912e2ae400129a5f1eabd6-2400x1350.jpg",
+      "filename": "beb31caf2d2f52f34382282b2a62bd96-7a70ac77c82d707fc270dd76142e220f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\010-beb31caf2d2f52f34382282b2a62bd96-7a70ac77c82d707fc270dd76142e220f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8fff1a38ce3a172e2205672c89e10eeeab7ec37-2400x1350.jpg",
+      "filename": "10b7b01cf04dade7eb4c9992067961fd-c3ecfbf6aef122e0d06ad53e859af344.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\011-10b7b01cf04dade7eb4c9992067961fd-c3ecfbf6aef122e0d06ad53e859af344.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/56e45624dcbeee3fee09a9b321376df6fa1ac0c5-1500x2000.jpg",
+      "filename": "350940625df44ebadd7d80f2ec31d3cb-71cc5a050e3692060a93246a62f6641a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\012-350940625df44ebadd7d80f2ec31d3cb-71cc5a050e3692060a93246a62f6641a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d3f65ac5a4c5febec63831767491d755f75d109-2400x1350.jpg",
+      "filename": "99087d563f05081c9f82f992be324713-c070213dd54fbe681bf7a622a4cb91dd.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\013-99087d563f05081c9f82f992be324713-c070213dd54fbe681bf7a622a4cb91dd.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2f32da0c694a49cf47269b8c813bfb51be6ba6f-2400x1350.jpg",
+      "filename": "d1a9c9754d695b18984fb1f526aca2bb-4a22554274587f2e20fc95b098630b6d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\014-d1a9c9754d695b18984fb1f526aca2bb-4a22554274587f2e20fc95b098630b6d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05233e09bce25823a397b8ed6a699184a5e1dd62-1500x2000.jpg",
+      "filename": "d070c9a8449b02bc91d8e1c69502999d-8d47fa6c96d8a970ab6e71df64f65324.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\015-d070c9a8449b02bc91d8e1c69502999d-8d47fa6c96d8a970ab6e71df64f65324.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f7d89d99f52c403e1c14d360f91f607d3ec6061-2400x1350.jpg",
+      "filename": "fe6f764ac4ff7f254e6f3127e43c1ddc-08c035669733e7fba130f133e47ea80b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\016-fe6f764ac4ff7f254e6f3127e43c1ddc-08c035669733e7fba130f133e47ea80b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7332e664a2a20744a34c9e6a8d4fa9ced0ff80a3-4000x2251.gif",
+      "filename": "Porto_Rocha_Vevo_Case_Study_21_a57eb96c9f.gif",
+      "mimeType": "image/gif",
+      "width": 4000,
+      "height": 2251,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\017-Porto_Rocha_Vevo_Case_Study_21_a57eb96c9f.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/233180e018aa3470424b501ced761df0ce64e8bb-1500x2000.gif",
+      "filename": "Porto_Rocha_Vevo_Case_Study_26_40d8d67201.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\vevo\\assets\\018-Porto_Rocha_Vevo_Case_Study_26_40d8d67201.gif"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9e5e57b7979756203a8c31541d7450906e468905.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_17.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4c0cb542d3c41dda49ea14ae9eeb413ed135bcfb.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_27.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/14a0e7e6733dca1dfe2afa15fd52430c60b03ad1.mp4",
+      "filename": "PortoRocha_VevoCaseStudy_47.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "a71d334e-d11b-4207-b7ae-7bc2f026996e",
+  "detail": {
+    "title": "Vevo",
+    "designersText": "Porto Rocha",
+    "yearText": "2021",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 39 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Vevo",
+      "디자이너": "Porto Rocha",
+      "연도": "2021",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 39 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

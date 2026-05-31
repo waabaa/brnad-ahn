@@ -1,0 +1,231 @@
+{
+  "source": "brandarchive",
+  "name": "Tsukiyo",
+  "slug": "tsukiyo",
+  "url": "https://brandarchive.xyz/identity/tsukiyo",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Fast Food",
+    "slug": "fast-food"
+  },
+  "designers": [
+    "The Colour Club"
+  ],
+  "assetCount": 21,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e3786a679592eab1991cef39c7b6e99d3c420aa4-2560x1707.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x2400-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\001-TCC-TSUKIYO-WEB-3600x2400-1-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f38ea23e8ea324abac559fcf8b1209a73f0c032-1250x1251.png",
+      "filename": "289814342_105694005524127_426002430830415572_n.png",
+      "mimeType": "image/png",
+      "width": 1250,
+      "height": 1251,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\002-289814342_105694005524127_426002430830415572_n.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59369f8a519dcd608a8dccf86503f32b7897e6bb-1624x931.jpg",
+      "filename": "Tsukiyo_Brand-Identity_3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1624,
+      "height": 931,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\003-Tsukiyo_Brand-Identity_3.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/11af10ece04dd35062cfdb7438f0c616810e61fa.mp4",
+      "filename": "TCCxTsuki-Pattern-Animation_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9b66288844df9fa17aa79e1bbffde1b488e55876-3840x2160.jpg",
+      "filename": "7450de200387729.66617ea68a063.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\004-7450de200387729.66617ea68a063.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8776c3364889bd8bcf002f8933fb237dae7202a-1800x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x240011-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\005-TCC-TSUKIYO-WEB-3600x240011-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ebd62edd7e2663c161cb5744c4a142911fb53180-1898x2160.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1898,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\006-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/761c89333c6646293050facb599b977356ef8046-1896x2160.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1896,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\007-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/911776d869baa4c53dc663e40cd7b258cffe5740-1800x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24003-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\008-TCC-TSUKIYO-WEB-3600x24003-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0486f7c1fecb26d9511403f3ee6c1a26154efaa2-1798x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24004-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1798,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\009-TCC-TSUKIYO-WEB-3600x24004-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d90e8ad45abc6618fcd18cdadef2f16831d0ab7-2560x1707.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24002-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\010-TCC-TSUKIYO-WEB-3600x24002-1-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/39cabb441a437d3a1d323458796a8d9dcb93d84a-3600x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24005-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\011-TCC-TSUKIYO-WEB-3600x24005-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/179b18ae09df904d0dd758fdfbb2ef370e232741-2583x1733.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24007-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2583,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\012-TCC-TSUKIYO-WEB-3600x24007-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3ed1dff1dd5fc596213cde97fcd98970c90fb153-3600x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x24009-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\013-TCC-TSUKIYO-WEB-3600x24009-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/177188853646806a9543a81a8309cb171c6404c3-3600x2400.jpg",
+      "filename": "TCC-TSUKIYO-WEB-3600x240010-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\014-TCC-TSUKIYO-WEB-3600x240010-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3addafba9ea5503b74473cb322e9412c2cc24606-1898x2160.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1898,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\015-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1644003f19c2807caa0214c16e3cb19528179270-3840x2160.jpg",
+      "filename": "7192cf200387729.66617ea68a692.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\016-7192cf200387729.66617ea68a692.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f96eff104cf2c21bcee034c8b3a948f5dce751b-1618x2020.jpg",
+      "filename": "337264798_899982954551135_6259733239719978467_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1618,
+      "height": 2020,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\017-337264798_899982954551135_6259733239719978467_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b11209cdcd5cb992a678c7e523f11ca404246d02-1618x2020.jpg",
+      "filename": "337286052_485531780320643_2574144446484154627_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1618,
+      "height": 2020,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\018-337286052_485531780320643_2574144446484154627_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9b33573584938d2f1d775dd4e6720a95f01d1ca4-1618x2020.jpg",
+      "filename": "337357886_774049244147290_2121751941350604145_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1618,
+      "height": 2020,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\019-337357886_774049244147290_2121751941350604145_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0d747547180488d14fdd37d9c3a9b66dcefa1a2c-1618x2020.jpg",
+      "filename": "337400933_1848805422145873_7379902896062483827_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1618,
+      "height": 2020,
+      "localPath": "archive\\brandarchive\\identities\\tsukiyo\\assets\\020-337400933_1848805422145873_7379902896062483827_n.jpg"
+    }
+  ],
+  "rawId": "ce7d9caf-eb74-4134-972a-16e22d8dbbe3",
+  "detail": {
+    "title": "Tsukiyo",
+    "designersText": "The Colour Club",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 21 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Tsukiyo",
+      "디자이너": "The Colour Club",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 21 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

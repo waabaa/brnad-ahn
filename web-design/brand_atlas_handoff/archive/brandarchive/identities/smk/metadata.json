@@ -1,0 +1,207 @@
+{
+  "source": "brandarchive",
+  "name": "SMK",
+  "slug": "smk",
+  "url": "https://brandarchive.xyz/identity/smk",
+  "year": 1985,
+  "exclusive": true,
+  "collection": {
+    "title": "From Japan",
+    "slug": "from-japan"
+  },
+  "designers": [
+    "Masuteru Aoba",
+    "Tadahiro Sakakura"
+  ],
+  "assetCount": 18,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d4cee6bfefadce7c5ed4995474029841531968d0-2798x1066.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2798,
+      "height": 1066,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\001-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f2f4068f176546ee9da599729a183a5d5fecc10b-1701x596.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1701,
+      "height": 596,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\002-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c160265b6bd5f1dc6b6e9e352a3b30cc98b0fa9c-1701x596.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1701,
+      "height": 596,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\003-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e779ba1e7a795ed66f8b92642d60b70807bf145-3026x3026.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3026,
+      "height": 3026,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\004-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4d55b3e647eb267096bda3aa705d0255a788cd5f-2005x1253.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2005,
+      "height": 1253,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\005-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a2da48de58d6e3d0e5f0692180fea6267e42c2d7-1701x596.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1701,
+      "height": 596,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\006-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6301cdf198b9195e877ca36e92edf6bb621fec5c-1701x596.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1701,
+      "height": 596,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\007-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7bb62ebcebf9ada4e8c245f7a395e5c9167a7860-1960x778.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1960,
+      "height": 778,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\008-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0b4571dbc87f8ea47ec7e3a22a608c0e7356298b-1960x778.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1960,
+      "height": 778,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\009-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a5a7ea76c1fa6c888b9ba241610906677f362296-1960x778.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1960,
+      "height": 778,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\010-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/71d2c56a892091453de58dcc976036734c650965-3037x546.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3037,
+      "height": 546,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\011-11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ea29c75d10dd1d7c6d1e0d545f9979eaa9f860fe-745x3380.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 745,
+      "height": 3380,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\012-12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f662d4c76f973a73f52630dbf19d410e54e1e46-1575x829.jpg",
+      "filename": "13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1575,
+      "height": 829,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\013-13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5bc90f166e04a9e964e6a1728be41e1714b8a174-1235x545.jpg",
+      "filename": "14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1235,
+      "height": 545,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\014-14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1eced2db39c8e1b6a71bda597b3e95019c0d54fb-2975x472.jpg",
+      "filename": "15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2975,
+      "height": 472,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\015-15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/116bf3f7ef913d5f1117aa88bc7c8e41b7653b02-3786x411.jpg",
+      "filename": "16.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3786,
+      "height": 411,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\016-16.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a5563c1962d66f9b1bdcc7222b05fc195aebbd4-1558x782.jpg",
+      "filename": "17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1558,
+      "height": 782,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\017-17.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/22d2120edaad4e5a1b0f9992ccd6f606c85a2586-1572x658.jpg",
+      "filename": "18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1572,
+      "height": 658,
+      "localPath": "archive\\brandarchive\\identities\\smk\\assets\\018-18.jpg"
+    }
+  ],
+  "rawId": "fc425021-30f3-46b5-865d-cc06c6be1542",
+  "detail": {
+    "title": "SMK",
+    "designersText": "Masuteru Aoba",
+    "yearText": "1985",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 18 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "SMK",
+      "디자이너": "Masuteru Aoba",
+      "연도": "1985",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 18 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

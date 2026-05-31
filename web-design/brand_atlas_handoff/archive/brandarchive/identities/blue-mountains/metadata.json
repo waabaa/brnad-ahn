@@ -1,0 +1,313 @@
+{
+  "source": "brandarchive",
+  "name": "Blue Mountains",
+  "slug": "blue-mountains",
+  "url": "https://brandarchive.xyz/identity/blue-mountains",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "Placemaking",
+    "slug": "placemaking"
+  },
+  "designers": [
+    "For The People"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c1ed21eace0b899e958c93e4544178b68024fc0-2500x1800.jpg",
+      "filename": "352335299_832208891616954_7665719849765301852_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\001-352335299_832208891616954_7665719849765301852_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb2919bb101fda1b991c662467ea677408e617b8-2500x2885.png",
+      "filename": "22_BM_Illustrations.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 2885,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\002-22_BM_Illustrations.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd584c61882e9e925e7ea873769a76ac5068c8d3-2500x1406.png",
+      "filename": "02_BM_Billboard.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\003-02_BM_Billboard.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6500fba55de81ffd6cfc95b65f6671998112f046-2500x1407.png",
+      "filename": "24_BM_Poster.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\004-24_BM_Poster.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2265091cb8877e6f3d0b543cfbd6d6b544db5a25-2500x1407.png",
+      "filename": "20_BM_Frame.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\005-20_BM_Frame.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e2f455d3d87cd97faade16523c8459037922cf4b-2000x2308.png",
+      "filename": "22_BM_Wine_Door.png",
+      "mimeType": "image/png",
+      "width": 2000,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\006-22_BM_Wine_Door.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/383a4342c5feb63000ad6931f0ba8378454215a8-2500x1406.png",
+      "filename": "29_BM_SandwichBoard.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\007-29_BM_SandwichBoard.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dc233a2a0b1823e53e3bb90b09e4eddf56141929-2500x2885.jpg",
+      "filename": "11_BM_SignPost.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2885,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\008-11_BM_SignPost.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ccf7ff4dd05457bbb7db56ef74cd79904d342717-1920x2216.png",
+      "filename": "BM_Backyard_Sign_02.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 2216,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\009-BM_Backyard_Sign_02.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3c14b2d3ccf2be917db013df3a1ff7ab9e4516f-2500x1407.gif",
+      "filename": "BM_Magazines.gif",
+      "mimeType": "image/gif",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\010-BM_Magazines.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9119fff705b621c281d06ae4b7953ed1402f839b-2500x1407.png",
+      "filename": "23_BM_InsideSpread.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\011-23_BM_InsideSpread.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/89eecfa9c8afe577d2ade91a92c5ef8893924a35-2500x1407.png",
+      "filename": "27_BM_Jumpers.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\012-27_BM_Jumpers.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7160d9d36ad6b9d3ed3bacd0562de1cf481dd95a-1634x1885.png",
+      "filename": "BM_Beanie_02.png",
+      "mimeType": "image/png",
+      "width": 1634,
+      "height": 1885,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\013-BM_Beanie_02.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34cf9a8eb2983445c2005bcbf7dc6ebbe7a0a442-2000x2308.png",
+      "filename": "05_BM_Flags.png",
+      "mimeType": "image/png",
+      "width": 2000,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\014-05_BM_Flags.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ddf1e1bb4a0bba73afee8d00fd0da7d65d18a990-2000x2308.png",
+      "filename": "07_BM_ToteBag.png",
+      "mimeType": "image/png",
+      "width": 2000,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\015-07_BM_ToteBag.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/825e06fc43a8b228e78789bafd10127be59e2ed5-935x1080.png",
+      "filename": "26_BM_Patches.png",
+      "mimeType": "image/png",
+      "width": 935,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\016-26_BM_Patches.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fe82453a2d2d59e60613b4434cbb1a0f76273ec9-2000x2308.jpg",
+      "filename": "26_BM_PocketGuide.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\017-26_BM_PocketGuide.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c7d36253a043bff72a733ca89b4dfa8c4e3f3b10-1245x1437.png",
+      "filename": "BM_Socks.png",
+      "mimeType": "image/png",
+      "width": 1245,
+      "height": 1437,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\018-BM_Socks.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c9f24a57c3227e901f497d12a2e2980e4baf2a89-2500x1406.png",
+      "filename": "16_BM_Posts.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\019-16_BM_Posts.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/11d9ef0ee1cbc232c5120f6d3a4b1dc8c0338777.mp4",
+      "filename": "01_BM_Landing_1920x1080-vimeo-888653125-hls-fastly_skyfire_sep-5943.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9988c09e5baae4ab600d1f0843ed817326d67dd2.mp4",
+      "filename": "10_BM_Language_Headings_1920x1080-vimeo-887603296-hls-fastly_skyfire_sep-3446.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7359bef89303312cb81a0e86f4ba76e2cacf6d9b.mp4",
+      "filename": "15_BM_ColourPalette_1920x1080-vimeo-888953619-hls-fastly_skyfire_sep-4297.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/93274e1d6c896401d6a09a40e09a273a9120d0ca.mp4",
+      "filename": "19_BM_PatternExplainer_1920x1080-vimeo-887600522-hls-fastly_skyfire_sep-586.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/885c8167b4d2ed8b0c2c0cb82f14c0e3e90117d2.mp4",
+      "filename": "Longform_936x1080-vimeo-885504906-hls-fastly_skyfire_sep-1355.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ef3c4b10068780dabfa782789dc2a90674623974.mp4",
+      "filename": "24_BM_EDM-vimeo-888869018-hls-fastly_skyfire_sep-4162.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/de8174454c8e6adf486f8e6eecf171488e995a28-2000x2308.png",
+      "filename": "17_BM_Podcast.png",
+      "mimeType": "image/png",
+      "width": 2000,
+      "height": 2308,
+      "localPath": "archive\\brandarchive\\identities\\blue-mountains\\assets\\020-17_BM_Podcast.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/775a67b1d525aaceee4a2381b7c7c1809cfdfc5b.mp4",
+      "filename": "13_BM_Website_1920x1080-vimeo-888853579-hls-fastly_skyfire_sep-4360.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "c01f5e52-f580-41ee-9244-5778ce0b61f9",
+  "detail": {
+    "title": "Blue Mountains",
+    "designersText": "For The People",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#182530",
+        "rgb": "24, 37, 48",
+        "cmyk": "50, 23, 0, 81"
+      },
+      {
+        "hex": "#2E6AD2",
+        "rgb": "46, 106, 210",
+        "cmyk": "78, 50, 0, 18"
+      },
+      {
+        "hex": "#E9F769",
+        "rgb": "233, 247, 105",
+        "cmyk": "6, 0, 57, 3"
+      }
+    ],
+    "typeText": "Designer: sRaphaël BastideJérémy LandesLucas Le BihanWalid BouchouchiWei Huang Released: 2011 Foundry: VelvetyneDesigner: Colophon Released: 2019 Foundry: Colophon",
+    "korean": {
+      "브랜드명": "Blue Mountains",
+      "디자이너": "For The People",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#182530",
+          "rgb": "24, 37, 48",
+          "cmyk": "50, 23, 0, 81"
+        },
+        {
+          "hex": "#2E6AD2",
+          "rgb": "46, 106, 210",
+          "cmyk": "78, 50, 0, 18"
+        },
+        {
+          "hex": "#E9F769",
+          "rgb": "233, 247, 105",
+          "cmyk": "6, 0, 57, 3"
+        }
+      ],
+      "서체정보": "Designer: sRaphaël BastideJérémy LandesLucas Le BihanWalid BouchouchiWei Huang Released: 2011 Foundry: VelvetyneDesigner: Colophon Released: 2019 Foundry: Colophon",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "출처": "Brand Archive",
+  "브랜드명": "smlXL",
+  "슬러그": "smlxl",
+  "원본URL": "https://brandarchive.xyz/identity/smlxl",
+  "연도": 2023,
+  "디자이너": [
+    "DIA"
+  ],
+  "소속컬렉션": {
+    "이름": "From the USA",
+    "슬러그": "from-the-usa"
+  },
+  "PRO잠금여부": false,
+  "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음",
+  "상세정보": {
+    "브랜드명": "smlXL",
+    "디자이너": "DIA",
+    "연도": "2023",
+    "태그": "",
+    "섹션": [
+      "로고",
+      "타입",
+      "컬러",
+      "아트 디렉션",
+      "애플리케이션",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "컬러": [
+      {
+        "hex": "#E287BC",
+        "rgb": "226, 135, 188",
+        "cmyk": "0, 40, 17, 11"
+      },
+      {
+        "hex": "#6CAECC",
+        "rgb": "108, 174, 204",
+        "cmyk": "47, 15, 0, 20"
+      },
+      {
+        "hex": "#FF8C7D",
+        "rgb": "255, 140, 125",
+        "cmyk": "0, 45, 51, 0"
+      },
+      {
+        "hex": "#37745F",
+        "rgb": "55, 116, 95",
+        "cmyk": "53, 0, 18, 55"
+      }
+    ],
+    "서체정보": "Designer: Jungmyung Lee Released: 2019 Foundry: Jung-Lee Type Foundry: Designer: sStanley MorisonVictor Lardent Released: 1932 Foundry: Monotype",
+    "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+  },
+  "다운로드설정": "이미지만 저장",
+  "에셋요약": {
+    "전체에셋수": 12,
+    "이미지수": 3,
+    "영상수": 9,
+    "이번에저장한파일수": 3
+  },
+  "에셋": [
+    {
+      "종류": "이미지",
+      "원본파일명": "4-Branding-smlXL-Business-Cards-by-DIA-New-York-American-Design-BP&O-Review.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1920,
+      "높이": 1080,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/14fa6b73139460f596d0e112f3d83e6c862d9ae2-1920x1080.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\smlxl\\assets\\001-4-Branding-smlXL-Business-Cards-by-DIA-New-York-American-Design-BP&O-Review.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "2-Branding-smlXL-Billboards-by-DIA-New-York-American-dESIGN-BP&O-Review.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1920,
+      "높이": 1080,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/fc007a72550c396e1b518ec32cd18744838767ae-1920x1080.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\smlxl\\assets\\002-2-Branding-smlXL-Billboards-by-DIA-New-York-American-dESIGN-BP&O-Review.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "3-Branding-smlXL-Signage-by-DIA-New-York-American-Design-BP&O-Review.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1920,
+      "높이": 1080,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/9c67c74bafaaa05cbf89fa650992d7148bc6685d-1920x1080.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\smlxl\\assets\\003-3-Branding-smlXL-Signage-by-DIA-New-York-American-Design-BP&O-Review.jpg"
+    }
+  ]
+}

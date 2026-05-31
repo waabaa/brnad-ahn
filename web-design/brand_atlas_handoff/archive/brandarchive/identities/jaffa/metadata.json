@@ -1,0 +1,226 @@
+{
+  "source": "brandarchive",
+  "name": "Jaffa",
+  "slug": "jaffa",
+  "url": "https://brandarchive.xyz/identity/jaffa",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Big Brands",
+    "slug": "big-brands"
+  },
+  "designers": [
+    "Earthling Studio"
+  ],
+  "assetCount": 22,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77279837d6969e4511166867524edecd7abccef8-4900x3300.jpg",
+      "filename": "Jaffa Fruit _ Quality and Freshness Guaranteed-2 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4900,
+      "height": 3300,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\001-Jaffa-Fruit-_-Quality-and-Freshness-Guaranteed-2-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/855e7e7d350b33e7ff64fc47d35f39cf3128d760-4900x3300.jpg",
+      "filename": "Jaffa Fruit _ Quality and Freshness Guaranteed-2 copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4900,
+      "height": 3300,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\002-Jaffa-Fruit-_-Quality-and-Freshness-Guaranteed-2-copy-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/74310ee5b5d5edb5eb18d240943e4625e41bf431.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b19341f5e817b87e21ba46bbbc3b7e5ee774d273.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ba9730ad4f0d52e2dabbe606197bec9237e6c481.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_04.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/549bf7d593585c75dd9da4feddc1ad9f7aba4a49.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_06.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8f17ac6e39b48c65d4470d13e01b832b4ff09a15.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_20.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bfdbffcd2faab35e51f7963a4b239c2967cb4f9b-1920x1080.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\003-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/31552b3ba750f8aaf1747e4e29002712cc599bcd-1920x1080.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\004-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5e10ba6c93338a80e74d8d2e99341c7bd572b00e-1920x1080.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\005-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/44d7ab9e6ea2257944ef299f5e71e5d19ee86b9c-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\006-EarthlingStudio-x-Jaffa_PR_Website_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2579ac00da9d5120da3c5752519fe5c43291809f-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\007-EarthlingStudio-x-Jaffa_PR_Website_05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b0c174b23f1de78d59dc502112b3cd440689d06e-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\008-EarthlingStudio-x-Jaffa_PR_Website_07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4fc29fde01b53020ddc4ce90db81056da916673a-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\009-EarthlingStudio-x-Jaffa_PR_Website_10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/29d58f74de685e31f57bd5cf01b01d25445c66be-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\010-EarthlingStudio-x-Jaffa_PR_Website_13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dc037ab958fae0704e723486ee1d5ec1ab24c77b-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\011-EarthlingStudio-x-Jaffa_PR_Website_15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e23eea04fa1c791f46825f529195d412f2d1abbf-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\012-EarthlingStudio-x-Jaffa_PR_Website_17.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8fa82b3c5a098170896b33b853c4303ed9d04820-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_19.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\013-EarthlingStudio-x-Jaffa_PR_Website_19.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/498521ed22ab0186c122d04e2e88fb2846d7df3b-2400x1350.jpg",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_21.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\jaffa\\assets\\014-EarthlingStudio-x-Jaffa_PR_Website_21.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/617f9e6af1783e6e082b189936e636a49702a331.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/376a69d36b6936144c42c218fb7a97b9e61ad15c.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_14.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d245f5e292ce7413392cfbc73f039f2d12e8c1d6.mp4",
+      "filename": "EarthlingStudio-x-Jaffa_PR_Website_18.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "d2a7cc9f-7363-4d65-b780-4beb76b49adb",
+  "detail": {
+    "title": "Jaffa",
+    "designersText": "Earthling Studio",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 22 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Jaffa",
+      "디자이너": "Earthling Studio",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 22 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

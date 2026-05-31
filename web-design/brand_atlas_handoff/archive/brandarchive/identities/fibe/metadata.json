@@ -1,0 +1,223 @@
+{
+  "source": "brandarchive",
+  "name": "Fibe",
+  "slug": "fibe",
+  "url": "https://brandarchive.xyz/identity/fibe",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Soft Drinks",
+    "slug": "soft-drinks-kombucha"
+  },
+  "designers": [
+    "Analogue"
+  ],
+  "assetCount": 21,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6c3d5b03bbda0d13b129a391c57808adc328392e-5000x3200.jpg",
+      "filename": "svgexport-1 (3) copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 3200,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\001-svgexport-1-(3)-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a17976a99bd64d04ef4bbf8d8ac0cdb44077d671.mp4",
+      "filename": "FIBE_LOGO_ANIMATION_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8e0824259af6f04502fb431dc980864943e9e387.mp4",
+      "filename": "FIBE_COME_GET_SOME_LOOP_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/326e086926fab1937fc10b5a84b888b964923cc4.mp4",
+      "filename": "FIBE_INSTAGRAM_GIRL_WINDOWS_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/56af03c69ccba9c72f14a8e04acc996bd3e43991-1920x1080.webp",
+      "filename": "analogue-fibe-illustration-01.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\002-analogue-fibe-illustration-01.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/78ea06155d436b6b0f1d69361a963f57332c3fb1-1920x1080.webp",
+      "filename": "analogue-fibe-illustration-02.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\003-analogue-fibe-illustration-02.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/86eb0047e8114c09e123744191050ef6d3f0de36-793x2048.webp",
+      "filename": "HhKZWAp648b1eIAEPZ3omwsFr24.png.webp",
+      "mimeType": "image/webp",
+      "width": 793,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\004-HhKZWAp648b1eIAEPZ3omwsFr24.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa320127563b7d1cb01f60c8a8ebf96949ccdbf9-854x2048.webp",
+      "filename": "KIHQhhe8Rd0jw7tG51zNzYukcoA.png.webp",
+      "mimeType": "image/webp",
+      "width": 854,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\005-KIHQhhe8Rd0jw7tG51zNzYukcoA.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/885d69512d5c08969ee1d62da17c5feca0fa5173-757x2048.webp",
+      "filename": "R5qS0L5OBTcRNMbtL8XzbAOLSkk.png.webp",
+      "mimeType": "image/webp",
+      "width": 757,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\006-R5qS0L5OBTcRNMbtL8XzbAOLSkk.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/94efbfa743dbeb0aa4367131f5eac45f5c62bdd5-1400x1400.webp",
+      "filename": "analogue-fibe-mock-01.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\007-analogue-fibe-mock-01.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/08e39a7dcbf6a50fe98a7ad4624e4e035aadccd5-1400x1400.webp",
+      "filename": "analogue-fibe-mock-03.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\008-analogue-fibe-mock-03.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f4df754698a5b83e9103eae1fd56d0f89a08336d-1400x1400.webp",
+      "filename": "analogue-fibe-mock-04.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\009-analogue-fibe-mock-04.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/746678dd58a6d631541918564aa3ea7639d77880-1400x1400.webp",
+      "filename": "analogue-fibe-mock-05.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\010-analogue-fibe-mock-05.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73e1a9d92326fde457e921f6a00c7b1b06dd8939-3000x3000.webp",
+      "filename": "analogue-fibe-group-cans.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\011-analogue-fibe-group-cans.jpg.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9179d8282b5f30900f5b4dfd51a7263296d8746d.mp4",
+      "filename": "analogue-fibe-motion-02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2835741abb8881cef085e2699c196fc82acd1e88.mp4",
+      "filename": "FIBE_SLIDE_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3002eedc69947b1bfedd2641df4b06fc3ebe8370-2000x2000.webp",
+      "filename": "analogue-fibe-ooo-01.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\012-analogue-fibe-ooo-01.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1139119001ce829e998dbd7cbc8ef4c5e04ecd9a-1477x1477.jpg",
+      "filename": "ezgif-8dbf2425daed26.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1477,
+      "height": 1477,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\013-ezgif-8dbf2425daed26.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2bf8ee166f6d7df2f9ea0325780e00af63b97a5b-1477x1477.jpg",
+      "filename": "ezgif-85e2b9f6e9100f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1477,
+      "height": 1477,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\014-ezgif-85e2b9f6e9100f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd7e5ec80172150a63375d2e356cfccd327203c3-1478x1477.jpg",
+      "filename": "ezgif-886b00a05cf353.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1478,
+      "height": 1477,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\015-ezgif-886b00a05cf353.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc45306f2e37de8809f74674c9f72c3b774e9c3e-1477x1477.jpg",
+      "filename": "ezgif-8571363efbd981.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1477,
+      "height": 1477,
+      "localPath": "archive\\brandarchive\\identities\\fibe\\assets\\016-ezgif-8571363efbd981.jpg"
+    }
+  ],
+  "rawId": "532b5ebc-427f-4fd2-af87-454c3f29489a",
+  "detail": {
+    "title": "Fibe",
+    "designersText": "Analogue",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 21 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Fibe",
+      "디자이너": "Analogue",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 21 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "source": "brandarchive",
+  "name": "Coca-Cola",
+  "slug": "coca-cola",
+  "url": "https://brandarchive.xyz/identity/coca-cola",
+  "year": 1969,
+  "exclusive": true,
+  "collection": {
+    "title": "Beverage",
+    "slug": "drinks"
+  },
+  "designers": [
+    "Frank M Robinson",
+    "Lippincott & Margulies",
+    "Rei Yoshimura"
+  ],
+  "assetCount": 15,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/01c4d1b27f17cc6009c1b8c0f2fbef78ad91b7a3-5028x6580.jpg",
+      "filename": "Scan 28.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5028,
+      "height": 6580,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\001-Scan-28.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c1b7d8febba00cd3295f85fcb3e163b25e112892-2051x2047.jpg",
+      "filename": "Scan 16a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2051,
+      "height": 2047,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\002-Scan-16a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b2b25df23f4b8f33d9050b17d9410c14206198d7-2055x2047.jpg",
+      "filename": "Scan 16c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2055,
+      "height": 2047,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\003-Scan-16c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cff8295a8126c76922cd317dbf97af97a47d2fcb-2051x2051.jpg",
+      "filename": "Scan 16b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2051,
+      "height": 2051,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\004-Scan-16b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81d785c7902dd65066bb0520ccce6c5adf682d50-2040x2040.jpg",
+      "filename": "Scan 16d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2040,
+      "height": 2040,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\005-Scan-16d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c2015ef819289a9d1087f545b588e695648337c4-4635x5126.jpg",
+      "filename": "Scan 27.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4635,
+      "height": 5126,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\006-Scan-27.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b03ca7ec418225a31ea6ff2f03a6d15dbad4379-3556x3556.jpg",
+      "filename": "Scan 29.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3556,
+      "height": 3556,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\007-Scan-29.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e65d13c070270ba9d9b75527c61f9829a9ba39b5-4359x3636.jpg",
+      "filename": "Scan 32.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4359,
+      "height": 3636,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\008-Scan-32.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d93b08f87388d9d16b6a5674ecf248c86e36db56-4316x3626.jpg",
+      "filename": "Scan 35g.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4316,
+      "height": 3626,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\009-Scan-35g.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae4a3a7c2deadc7eda57efdc6c33725e4ec0a9b1-4356x3620.jpg",
+      "filename": "Scan 36.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4356,
+      "height": 3620,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\010-Scan-36.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/84c1df91d2b62c0e5d1f7a26c3ccee2d5e4d8bce-2897x1751.jpg",
+      "filename": "Scan 37.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2897,
+      "height": 1751,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\011-Scan-37.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35081553d9f69e4b097d059bce58b21f5730104f-4330x3599.jpg",
+      "filename": "Scan 38.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4330,
+      "height": 3599,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\012-Scan-38.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/50144a04ab9b8cd1206d7bde1689a9689f07a98a-5000x5000.jpg",
+      "filename": "Scan 39.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 5000,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\013-Scan-39.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ee3471dd028d5176fdf6e569fc0541d0db635d5-4596x7016.jpg",
+      "filename": "Scan 42.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4596,
+      "height": 7016,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\014-Scan-42.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/28a11c7dcfdea62113b7775d7c9a322fd336fd74-4252x5598.jpg",
+      "filename": "Scan 4.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4252,
+      "height": 5598,
+      "localPath": "archive\\brandarchive\\identities\\coca-cola\\assets\\015-Scan-4.jpeg"
+    }
+  ],
+  "rawId": "5f5019d6-eb96-47a9-969b-45fecdf71a17",
+  "detail": {
+    "title": "Coca-Cola",
+    "designersText": "Frank M Robinson",
+    "yearText": "1969",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 15 assets.",
+      "From the same designers"
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Coca-Cola",
+      "디자이너": "Frank M Robinson",
+      "연도": "1969",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 15 assets.",
+        "From the same designers"
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

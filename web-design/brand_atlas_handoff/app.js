@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260531e`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260601a`, { cache: "no-store" });
   return await res.json();
 }
 

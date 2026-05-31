@@ -1,0 +1,433 @@
+{
+  "source": "brandarchive",
+  "name": "Happy Viking",
+  "slug": "happy-viking",
+  "url": "https://brandarchive.xyz/identity/happy-viking",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Gander",
+    "slug": "designed-by-gander"
+  },
+  "designers": [
+    "Gander"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/24b62c5429218fd7b8d20043353c1a3953d0772d-2491x1654.jpg",
+      "filename": "happyviking copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2491,
+      "height": 1654,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\001-happyviking-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2e4bd631eb85baa1df262947ea9544df7c777a9f.mp4",
+      "filename": "HAPPYVIKING_LOGO_Animation_wide.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c298112db67536ab2c13f5383ea8c9549eb0267b.mp4",
+      "filename": "c31cd7e93f19411c9121cb6ccdb259d6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b9773d9d15364f71b72541225ce8ec8f2446714-2560x1535.jpg",
+      "filename": "gander_happy_viking_cs_2@2x-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\002-gander_happy_viking_cs_2@2x-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c4a7346580c80bb9c81e1b2f1eae043b4fae3ba-1392x1688.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1392,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\003-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/92a40c673da797bdfd2b543130ffb7f343c98245-1392x1688.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1392,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\004-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/157b7414bfc6ccbd7652d35cafab9f704e9e87eb-1392x1688.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1392,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\005-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/254024bd3a7ede97855fb7ce0be308b938435817-1392x1688.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1392,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\006-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1555e0bf3f1f8f573542c3567841f063fa540452-2560x1535.jpg",
+      "filename": "gander_happy_viking_cs_8@2x-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\007-gander_happy_viking_cs_8@2x-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9e52007d872f6e8317b47107a6eb7f071fbeda46-2817x2802.jpg",
+      "filename": "gander_happy_viking_cs_12@2x.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2817,
+      "height": 2802,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\008-gander_happy_viking_cs_12@2x.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3a9bacf134d713cd9621c7c3ced0ae90ef396b5-2500x1154.jpg",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Asset 22_1696371754644_2500x2500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1154,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\009-documents-m5xuyxjvn41-56nef367hlb-Asset-22_1696371754644_2500x2500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3fde35d1875fb1e957d746478cb36b27ca3bfc4-2560x1535.jpg",
+      "filename": "gander_happy_viking_cs_6@2x-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\010-gander_happy_viking_cs_6@2x-1-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d52ab8432133b75351f774b67472224f0ae291c3-3199x1800.png",
+      "filename": "gander_happy_viking_cs_7@2x.png",
+      "mimeType": "image/png",
+      "width": 3199,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\011-gander_happy_viking_cs_7@2x.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e824a190250956b54f39bef79866f46e0e0c6172-2560x2054.jpg",
+      "filename": "gander_happy_viking_cs_13@2x-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 2054,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\012-gander_happy_viking_cs_13@2x-scaled.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a839432f5d3bde85406e40a0009af576cec54661.mp4",
+      "filename": "happy_viking_duration_edit.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1d939ea92f142060d68eefe0db408e83d8c2714-2400x1482.jpg",
+      "filename": "gander_happy_viking_cs_3@2x.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2400,
+      "height": 1482,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\013-gander_happy_viking_cs_3@2x.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8e9712f58d433078ad60278d00c613da1efcde59-2500x1407.jpg",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Artboard 49_1696371779014_2500x2500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\014-documents-m5xuyxjvn41-56nef367hlb-Artboard-49_1696371779014_2500x2500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/78abe1e2a56365f891e51c308097eaccd2242b7d-2500x1408.png",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Asset 27@2.2x_1696962976443_2500x2500.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1408,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\015-documents-m5xuyxjvn41-56nef367hlb-Asset-27@2.2x_1696962976443_2500x2500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f6e6041926440537d3ef2c6b5feede1d5b06f002-1393x1689.png",
+      "filename": "gander_happy_viking_cs_4@2x.png",
+      "mimeType": "image/png",
+      "width": 1393,
+      "height": 1689,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\016-gander_happy_viking_cs_4@2x.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae5425a6524f40821ecf8a5b2e39c79cde6504b9-2560x1535.jpg",
+      "filename": "gander_happy_viking_cs_9@2x-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\017-gander_happy_viking_cs_9@2x-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/334a18e8974bd7d07ebc9e520abbd0101f601bb9-2560x1535.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\018-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b4ed8546ac4ff37fc438aa6179e6baadb5a6d6b2-1600x1801.jpg",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Artboard 22 copy 2_1696371758954_2500x2500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1801,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\019-documents-m5xuyxjvn41-56nef367hlb-Artboard-22-copy-2_1696371758954_2500x2500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/25002c1b44ceb62d12cd9aa727afe9af12a1550f-1601x1801.jpg",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Artboard 22 copy 3_1696371760380_2500x2500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1601,
+      "height": 1801,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\020-documents-m5xuyxjvn41-56nef367hlb-Artboard-22-copy-3_1696371760380_2500x2500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e40e9d6d21deebce596fd1a9fc7f2d053dc93eba-2500x1406.png",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-Asset 26@2.2x_1696543277533_2500x2500.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\021-documents-m5xuyxjvn41-56nef367hlb-Asset-26@2.2x_1696543277533_2500x2500.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/64c3d726836f30d1564728da19470f15f1ae8757-2500x1407.png",
+      "filename": "documents-m5xuyxjvn41-56nef367hlb-wintheday_final_1697224819713_2500x2500.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1407,
+      "localPath": "archive\\brandarchive\\identities\\happy-viking\\assets\\022-documents-m5xuyxjvn41-56nef367hlb-wintheday_final_1697224819713_2500x2500.png"
+    }
+  ],
+  "rawId": "8a794ba5-13b2-4889-98b7-40cf514a9db8",
+  "detail": {
+    "title": "Happy Viking",
+    "designersText": "Gander",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#E5F561",
+        "rgb": "229, 245, 97",
+        "cmyk": "7, 0, 60, 4"
+      },
+      {
+        "hex": "#01754F",
+        "rgb": "1, 117, 79",
+        "cmyk": "99, 0, 32, 54"
+      },
+      {
+        "hex": "#FF2600",
+        "rgb": "255, 38, 0",
+        "cmyk": "0, 85, 100, 0"
+      },
+      {
+        "hex": "#FFBAE7",
+        "rgb": "255, 186, 231",
+        "cmyk": "0, 27, 9, 0"
+      },
+      {
+        "hex": "#6B2F14",
+        "rgb": "107, 47, 20",
+        "cmyk": "0, 56, 81, 58"
+      },
+      {
+        "hex": "#FFBDB8",
+        "rgb": "255, 189, 184",
+        "cmyk": "0, 26, 28, 0"
+      },
+      {
+        "hex": "#5C55E0",
+        "rgb": "92, 85, 224",
+        "cmyk": "59, 62, 0, 12"
+      },
+      {
+        "hex": "#CCFBFF",
+        "rgb": "204, 251, 255",
+        "cmyk": "20, 2, 0, 0"
+      },
+      {
+        "hex": "#3A180C",
+        "rgb": "58, 24, 12",
+        "cmyk": "0, 59, 79, 77"
+      },
+      {
+        "hex": "#FFF8D7",
+        "rgb": "255, 248, 215",
+        "cmyk": "0, 3, 16, 0"
+      },
+      {
+        "hex": "#552704",
+        "rgb": "85, 39, 4",
+        "cmyk": "0, 54, 95, 67"
+      },
+      {
+        "hex": "#E6B895",
+        "rgb": "230, 184, 149",
+        "cmyk": "0, 20, 35, 10"
+      },
+      {
+        "hex": "#790045",
+        "rgb": "121, 0, 69",
+        "cmyk": "0, 100, 43, 53"
+      },
+      {
+        "hex": "#BB9AF3",
+        "rgb": "187, 154, 243",
+        "cmyk": "23, 37, 0, 5"
+      },
+      {
+        "hex": "#F7550E",
+        "rgb": "247, 85, 14",
+        "cmyk": "0, 66, 94, 3"
+      },
+      {
+        "hex": "#FFE76E",
+        "rgb": "255, 231, 110",
+        "cmyk": "0, 9, 57, 0"
+      }
+    ],
+    "typeText": "Designer: David Jonathan Ross Released: 2021 Foundry: DJRDesigner: sJoe LeadbeaterMark Bloom Released: 2018 Foundry: Co Type Foundry:",
+    "korean": {
+      "브랜드명": "Happy Viking",
+      "디자이너": "Gander",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#E5F561",
+          "rgb": "229, 245, 97",
+          "cmyk": "7, 0, 60, 4"
+        },
+        {
+          "hex": "#01754F",
+          "rgb": "1, 117, 79",
+          "cmyk": "99, 0, 32, 54"
+        },
+        {
+          "hex": "#FF2600",
+          "rgb": "255, 38, 0",
+          "cmyk": "0, 85, 100, 0"
+        },
+        {
+          "hex": "#FFBAE7",
+          "rgb": "255, 186, 231",
+          "cmyk": "0, 27, 9, 0"
+        },
+        {
+          "hex": "#6B2F14",
+          "rgb": "107, 47, 20",
+          "cmyk": "0, 56, 81, 58"
+        },
+        {
+          "hex": "#FFBDB8",
+          "rgb": "255, 189, 184",
+          "cmyk": "0, 26, 28, 0"
+        },
+        {
+          "hex": "#5C55E0",
+          "rgb": "92, 85, 224",
+          "cmyk": "59, 62, 0, 12"
+        },
+        {
+          "hex": "#CCFBFF",
+          "rgb": "204, 251, 255",
+          "cmyk": "20, 2, 0, 0"
+        },
+        {
+          "hex": "#3A180C",
+          "rgb": "58, 24, 12",
+          "cmyk": "0, 59, 79, 77"
+        },
+        {
+          "hex": "#FFF8D7",
+          "rgb": "255, 248, 215",
+          "cmyk": "0, 3, 16, 0"
+        },
+        {
+          "hex": "#552704",
+          "rgb": "85, 39, 4",
+          "cmyk": "0, 54, 95, 67"
+        },
+        {
+          "hex": "#E6B895",
+          "rgb": "230, 184, 149",
+          "cmyk": "0, 20, 35, 10"
+        },
+        {
+          "hex": "#790045",
+          "rgb": "121, 0, 69",
+          "cmyk": "0, 100, 43, 53"
+        },
+        {
+          "hex": "#BB9AF3",
+          "rgb": "187, 154, 243",
+          "cmyk": "23, 37, 0, 5"
+        },
+        {
+          "hex": "#F7550E",
+          "rgb": "247, 85, 14",
+          "cmyk": "0, 66, 94, 3"
+        },
+        {
+          "hex": "#FFE76E",
+          "rgb": "255, 231, 110",
+          "cmyk": "0, 9, 57, 0"
+        }
+      ],
+      "서체정보": "Designer: David Jonathan Ross Released: 2021 Foundry: DJRDesigner: sJoe LeadbeaterMark Bloom Released: 2018 Foundry: Co Type Foundry:",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

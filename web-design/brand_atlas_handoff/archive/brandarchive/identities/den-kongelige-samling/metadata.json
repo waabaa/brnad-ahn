@@ -1,0 +1,178 @@
+{
+  "source": "brandarchive",
+  "name": "Den Kongelige Samling",
+  "slug": "den-kongelige-samling",
+  "url": "https://brandarchive.xyz/identity/den-kongelige-samling",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Museums, Galleries & Libraries",
+    "slug": "museum-brands"
+  },
+  "designers": [
+    "Kontrapunkt"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d6c5b0d5874d7c9644975693d3aa02e2adda1b4f.mp4",
+      "filename": "d6c5b0d5874d7c9644975693d3aa02e2adda1b4f.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a028cc2ba0430a3a570849ae17180fc6cfcc71b-3840x2160.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\001-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7755b3d2c2fe002ccfdb567b96f473fd69f389bb-3840x2160.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\002-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/12f563d1270708818206cbcc49b1ad762993ed3e-3840x2160.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\003-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb94122a60a28d7261ed7038450401d532cfc529-3840x2160.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\004-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0dd893549508f625dac58835e8d01b38eceffb82-3840x2160.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\005-8.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/60bdaab33b7e0604fd2a3319d20399f9f1bb9ee1.mp4",
+      "filename": "60bdaab33b7e0604fd2a3319d20399f9f1bb9ee1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bc181a120b594101376b293fef5421b6eb95e85b.mp4",
+      "filename": "bc181a120b594101376b293fef5421b6eb95e85b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f5e1ec01daf0852f53ea583a8e641f3f1a1a068f.mp4",
+      "filename": "f5e1ec01daf0852f53ea583a8e641f3f1a1a068f.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b01d1e6ff8b286b8927de18a5a51b99b91652ad-3840x2160.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\006-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/560162b0f9ff5161d9d64adf8dc40b9583a9c18b-3840x2160.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\007-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5c7a2aa05397fa62cffda3278f9321e98fd9c0a-3840x2160.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\008-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/166f84a75cbbb17353954257d6cb219d9d95e0c7-3840x2160.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\009-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5c9548683e5f7d15e29b3956353985d01bffd660-3840x2160.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\010-5.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a4405dac2fa7ffdff265a2541c4d0a5d415e0cbe.mp4",
+      "filename": "a4405dac2fa7ffdff265a2541c4d0a5d415e0cbe.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aef69d5c3aa1611cc4ce84b4fefaf21f6e743281-2048x2304.png",
+      "filename": "32cff3478d8649c0ae89a8e4b2081c58f6697e19-1920x2160.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\den-kongelige-samling\\assets\\011-32cff3478d8649c0ae89a8e4b2081c58f6697e19-1920x2160.png"
+    }
+  ],
+  "rawId": "b6e0b4ea-e56a-4635-94ce-9d586b3bb29e",
+  "detail": {
+    "title": "Den Kongelige Samling",
+    "designersText": "Kontrapunkt",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 16 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Den Kongelige Samling",
+      "디자이너": "Kontrapunkt",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 16 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

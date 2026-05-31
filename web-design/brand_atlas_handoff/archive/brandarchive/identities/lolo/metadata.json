@@ -1,0 +1,233 @@
+{
+  "source": "brandarchive",
+  "name": "Lolo",
+  "slug": "lolo",
+  "url": "https://brandarchive.xyz/identity/lolo",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Shoppy Shop Brands",
+    "slug": "shoppy-shop-brands"
+  },
+  "designers": [
+    "Odds Studio"
+  ],
+  "assetCount": 21,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7812c22eb81510f710af9685c96b4abfc5f7045d-1920x1080.jpg",
+      "filename": "LOLO-BANNIERE-ba25e7c7ed6d2b5a7cead420fb3a9fd2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\001-LOLO-BANNIERE-ba25e7c7ed6d2b5a7cead420fb3a9fd2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/52aeeba61157032cc31da01df846d2c65d27961d-4500x2800.jpg",
+      "filename": "Cortado a cuchillo 80g - Jamón 50% Ibérico Cebo de Campo _ LOLO Jamón-6 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2800,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\002-Cortado-a-cuchillo-80g---Jamón-50%-Ibérico-Cebo-de-Campo-_-LOLO-Jamón-6-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0be949adf20ca0d80a0fec5d9cb997cfc9ce2c34-4500x2800.jpg",
+      "filename": "ortado a cuchillo 80g - Jamón 50% Ibérico Cebo de Campo _ LOLO Jamón-6 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2800,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\003-ortado-a-cuchillo-80g---Jamón-50%-Ibérico-Cebo-de-Campo-_-LOLO-Jamón-6-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/74f8e24002524c6fa3b54b0f86476db18a9b9dd5-4062x6092.jpg",
+      "filename": "96-DSCF8313.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4062,
+      "height": 6092,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\004-96-DSCF8313.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cb54d520aab668fe2fd3edd6ea91d81f3e16356e-853x1280.jpg",
+      "filename": "Jamon_bellota_hover.jpg",
+      "mimeType": "image/jpeg",
+      "width": 853,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\005-Jamon_bellota_hover.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b6e87d9407eb305c19b03e4b6bd8ceaff5c1d99-853x1280.jpg",
+      "filename": "Jamon_cebo_de_campo_mesa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 853,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\006-Jamon_cebo_de_campo_mesa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6ccbf51a378fb79a6f648452a0027fc73c9b5cee-853x1280.jpg",
+      "filename": "Paleta_bellota_hover.jpg",
+      "mimeType": "image/jpeg",
+      "width": 853,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\007-Paleta_bellota_hover.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed8c6b83e9f7f0f1ef39606825815aca66689d80-853x1280.jpg",
+      "filename": "Paleta_cebo_de_campo_hover.jpg",
+      "mimeType": "image/jpeg",
+      "width": 853,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\008-Paleta_cebo_de_campo_hover.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1c6a2d6bc86e9cf8a59b12978e13bbf16f00e8b-853x1280.jpg",
+      "filename": "Paleta_entera_hover.jpg",
+      "mimeType": "image/jpeg",
+      "width": 853,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\009-Paleta_entera_hover.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2cfcbdadb918195c524c67e2466422e70527582f-1667x2500.jpg",
+      "filename": "LOLO_PE_JAMON_DE_BELLOTA_ef4a1233-1050-43c0-889a-94e5f30f74f9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\010-LOLO_PE_JAMON_DE_BELLOTA_ef4a1233-1050-43c0-889a-94e5f30f74f9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7370821bd764939d0fac5aeda821e64efd22cc8d-1667x2500.jpg",
+      "filename": "LOLO_PE_JAMON_DE_CEBO_f9caf4bb-dd05-4d1f-8211-5169c8c9b842.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\011-LOLO_PE_JAMON_DE_CEBO_f9caf4bb-dd05-4d1f-8211-5169c8c9b842.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ab36881fddaacfec181a71d9543e5634eb2d65cf-1667x2500.jpg",
+      "filename": "LOLO_PE_PALETA_DE_BELLOTA_e5e8a1c4-10db-470a-8bfd-071b2ca7d549.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\012-LOLO_PE_PALETA_DE_BELLOTA_e5e8a1c4-10db-470a-8bfd-071b2ca7d549.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9a4bd81d2a947571d446a7da568e36ffcff0b8fa-1667x2500.jpg",
+      "filename": "LOLO_PE_PALETA_DE_CEBO_47a5c921-d68a-405c-b277-2d5b0d554374.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\013-LOLO_PE_PALETA_DE_CEBO_47a5c921-d68a-405c-b277-2d5b0d554374.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d0d2e637a22072bcf571bf6ccd700b96dace4b9-1667x2500.jpg",
+      "filename": "LOLO_TRANCHE_JAMON_DE_CEBO_DE_CAMPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\014-LOLO_TRANCHE_JAMON_DE_CEBO_DE_CAMPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3045c4fc38ce825dd546d58d9264b9bf9e53b271-1600x2400.jpg",
+      "filename": "LOLO_TRANCHES_JAMON_DE_BELLOTA_ab2bec0f-5efe-4634-b84a-ba80b3969e0a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\015-LOLO_TRANCHES_JAMON_DE_BELLOTA_ab2bec0f-5efe-4634-b84a-ba80b3969e0a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dbb2b485f1816b9b73be3a0b45c1c476a29a3d68-1667x2500.jpg",
+      "filename": "LOLO_TRANCHES_PALETA_DE_BELLOTA_64b22015-38c7-440c-ad03-c0dc37b099ad.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\016-LOLO_TRANCHES_PALETA_DE_BELLOTA_64b22015-38c7-440c-ad03-c0dc37b099ad.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d3a0c53b177e765833a300ef8ec5d6f40446f8b1-1667x2500.jpg",
+      "filename": "LOLO_TRANCHES_PALETA_DE_CEBO_d74cbc55-4971-4e0e-8e64-cd5deb144dac.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1667,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\017-LOLO_TRANCHES_PALETA_DE_CEBO_d74cbc55-4971-4e0e-8e64-cd5deb144dac.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ffed1f65b3c9fa2d9a825652e0790d2af792371c-2000x2000.gif",
+      "filename": "LOLO-COCHON.gif",
+      "mimeType": "image/gif",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\018-LOLO-COCHON.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/74e09926b9d982703afd996e336a3147e3543822-1333x2000.jpg",
+      "filename": "37-DSCF7910.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1333,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\019-37-DSCF7910.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f641c38f9e65be0346a958bc9e474a34f3a93d56-1334x2000.webp",
+      "filename": "103-DSCF8341.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1334,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\020-103-DSCF8341.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed3bc108fa1faeb3e27c55d05bb28a7ecc301b12-1333x2000.webp",
+      "filename": "148-DSCF8488.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1333,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\lolo\\assets\\021-148-DSCF8488.jpg.webp"
+    }
+  ],
+  "rawId": "4cedbaf1-d265-47ca-8140-7663e1f8ecae",
+  "detail": {
+    "title": "Lolo",
+    "designersText": "Odds Studio",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 21 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Lolo",
+      "디자이너": "Odds Studio",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 21 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

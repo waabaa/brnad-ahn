@@ -1,0 +1,138 @@
+{
+  "source": "brandarchive",
+  "name": "ASICS",
+  "slug": "asics",
+  "url": "https://brandarchive.xyz/identity/asics",
+  "year": 1977,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by PAOS",
+    "slug": "designed-by-paos"
+  },
+  "designers": [
+    "Herb Lubalin",
+    "Alan Peckolick",
+    "PAOS"
+  ],
+  "assetCount": 10,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e6afd155a9664da8ff65152870390bccf786600e-900x641.jpg",
+      "filename": "Asics-1-Sml.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 641,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\001-Asics-1-Sml.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/199d911b82a1b8ab96e0d8de2d4355282caf701e-900x602.jpg",
+      "filename": "ASICS-2-Sml.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 602,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\002-ASICS-2-Sml.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c234d5c6199b54db9ccfe7517e971a4da1964fa-2000x1400.jpg",
+      "filename": "Scan 9a copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\003-Scan-9a-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73907610fd6a0bcc649e0214f04d3e1fff0de9a4-1701x1300.jpg",
+      "filename": "Scan 9a copya 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1701,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\004-Scan-9a-copya-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bbc416cfb00bfa37daba0dd7042874b732be90bc-1600x1600.jpg",
+      "filename": "Scan 9b copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\005-Scan-9b-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db8396d956d99cdedb77712740e2862183c83cf7-2500x2500.jpg",
+      "filename": "Scan 9c-sml copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\006-Scan-9c-sml-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/232881290ba8dc454303040ebe654aa3123cc8da-1300x900.jpg",
+      "filename": "Scan 10 3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1300,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\007-Scan-10-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c84ac2e87f9fc5c01f6eb7885491fe8524e8cd26-1300x900.jpg",
+      "filename": "Scan 10 4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1300,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\008-Scan-10-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c520a67c03738ff477b3d846ef98eda87ad957b-2200x2200.jpg",
+      "filename": "Scan.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2200,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\009-Scan.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/302e972f8aef8c6fc50bc35bee8cca0480cc7fd2-2163x1500.jpg",
+      "filename": "Scan 10 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2163,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\asics\\assets\\010-Scan-10-2.jpeg"
+    }
+  ],
+  "rawId": "8d0f5224-af50-43a4-b93e-45a6c4c8dcf6",
+  "detail": {
+    "title": "ASICS",
+    "designersText": "Herb Lubalin",
+    "yearText": "1977",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 10 assets.",
+      "From the same designers"
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "ASICS",
+      "디자이너": "Herb Lubalin",
+      "연도": "1977",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 10 assets.",
+        "From the same designers"
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

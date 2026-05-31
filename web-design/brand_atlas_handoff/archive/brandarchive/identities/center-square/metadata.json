@@ -1,0 +1,240 @@
+{
+  "source": "brandarchive",
+  "name": "Center Square",
+  "slug": "center-square",
+  "url": "https://brandarchive.xyz/identity/center-square",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "jkr"
+  ],
+  "assetCount": 24,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8dd27300c6c0d5949274c5fde906670529583363-2600x2600.webp",
+      "filename": "Center-Square-Primary-Wordmark-Black-RGB-1.png.webp",
+      "mimeType": "image/webp",
+      "width": 2600,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\001-Center-Square-Primary-Wordmark-Black-RGB-1.png.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/480447831b70e0eec3c12682af2d28ac0b8e6abb.mp4",
+      "filename": "674ddaf09d692c0f0df738ad_04_CS_DataTool_16-9-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c8036f5c0ab251abe39001da5e5cb0b6815affc5.mp4",
+      "filename": "b702f0fe34d96100e23762f68b8421e9b3ed0886.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7f6690c05890b89bf29f1f0033566c7eb59ef89b.mp4",
+      "filename": "c18504d15b5fa0e599d28962f168dbaf132aa127.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0d10d4ccc64a79a80f709cb55c84fb0537c4f0d3.mp4",
+      "filename": "d3bfa3b27cbba23d48e269252b1fd88d2cabb613.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4b003958ae6c58f7dcf825a1e542ba5aabafaa28.mp4",
+      "filename": "fec87a95d81b5f6c21edc94a17f4eae95c9b171f.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aa2a7d8b353e60f28f82128c5563ef4a2f48551c.mp4",
+      "filename": "a619912b9cc4f1d972991b479f64c84c98f2f80b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/75fc643d4ff5914c3c1779363986348615b219d8.mp4",
+      "filename": "674ddb07a6b765a0094eedcd_09_CS_TypeSpecimen_16-9-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bbb7f7d917a2b5bb3b03aef437bd080d642c46ec.mp4",
+      "filename": "c36eac7174925c90e35c5d742409f43c6fa21880.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d1f5ed6f5cc4e2c5ed40a0ecba41d265c1bb341-1920x1080.jpg",
+      "filename": "4a5f48c9c23c8f91f84b3a93504cdeac2ed4721b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\002-4a5f48c9c23c8f91f84b3a93504cdeac2ed4721b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f0d284b50678aae0406c49075fa5f88bc6b21df-973x1080.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 973,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\003-11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/17a74d94c4cc73d30cc32f4f48837ae322b0f421-1920x1080.jpg",
+      "filename": "11ba64628c4246cc434767fd953bffceb0942570.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\004-11ba64628c4246cc434767fd953bffceb0942570.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0a0a85055dd1843a00004080942bae528520e222-942x1080.jpg",
+      "filename": "11f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 942,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\005-11f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35c04ad1ef92e207d2ba1b096733945c187ed746-927x1047.webp",
+      "filename": "111.webp",
+      "mimeType": "image/webp",
+      "width": 927,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\006-111.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c18a28a39cf541c5c8188ffcbc199574dd44ccc-927x1047.webp",
+      "filename": "111j.webp",
+      "mimeType": "image/webp",
+      "width": 927,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\007-111j.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/87dd238b16e43c8a611a0ee47214b724be06f444-927x1047.webp",
+      "filename": "674ddcf82f21ba150b5e9c4c_CQ-12aa.webp",
+      "mimeType": "image/webp",
+      "width": 927,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\008-674ddcf82f21ba150b5e9c4c_CQ-12aa.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02d5de56767ad53fdc6a915110f838d67e763679-1860x1047.webp",
+      "filename": "674ddcf89b9203e3bb388b01_CQ-11.webp",
+      "mimeType": "image/webp",
+      "width": 1860,
+      "height": 1047,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\009-674ddcf89b9203e3bb388b01_CQ-11.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c6eddb821310624099ac4664647c9bb5fff51b9d-1920x1080.jpg",
+      "filename": "818c86736aa389452fbaea30b9ed5350721ac43c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\010-818c86736aa389452fbaea30b9ed5350721ac43c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dfc496446953fb9f703c1a7eabe0b1921c775996-1920x1080.jpg",
+      "filename": "centersquare-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\011-centersquare-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e2a943088b404c602896953aed7484ac0360bcf6-1920x1080.jpg",
+      "filename": "d35c1f1c52bdb025209df2b4b2ad9feb6758c0cf.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\012-d35c1f1c52bdb025209df2b4b2ad9feb6758c0cf.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d665cee465924530eea4a0cd6f716e3acaa262ec-1920x1080.jpg",
+      "filename": "d0241af13075e8aff26dcd81021cff75060415f1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\013-d0241af13075e8aff26dcd81021cff75060415f1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/34696a5187932939b466bb75d3fca59efd969f35.mp4",
+      "filename": "674ddb03abe86bfae3bc07da_08_CS_UIBento_16-9-transcode.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7dba0dc8b8bcf25913c8442adbb6aa966a371268-1920x1080.webp",
+      "filename": "1957152175-4091465f52ca0d5f576ad2fa7ec4912db8e9102a72da8a10fdacdb564e019b63-d.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\center-square\\assets\\014-1957152175-4091465f52ca0d5f576ad2fa7ec4912db8e9102a72da8a10fdacdb564e019b63-d.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5666fab3c1489ca557969266492ce9f0a23b0e42.mp4",
+      "filename": "cfde754b6decf8aff3ed4e43198596043b8496d6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "55cc434b-cc76-41d4-84ac-189fcc86b1cf",
+  "detail": {
+    "title": "Center Square",
+    "designersText": "jkr",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 24 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Center Square",
+      "디자이너": "jkr",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 24 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

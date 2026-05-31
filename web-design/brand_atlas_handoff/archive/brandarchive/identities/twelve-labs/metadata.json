@@ -1,0 +1,274 @@
+{
+  "source": "brandarchive",
+  "name": "Twelve Labs",
+  "slug": "twelve-labs",
+  "url": "https://brandarchive.xyz/identity/twelve-labs",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "AI Brands",
+    "slug": "ai-branding"
+  },
+  "designers": [
+    "Pentagram"
+  ],
+  "assetCount": 28,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9146faf41f8249436767218dc38e7d020a21b23e.mp4",
+      "filename": "01_TL_Logo_Gradient_16x9_60fps_10s.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb1b73a3236e43a2647f235f77cf3dd2c9f62258-1886x2520.jpg",
+      "filename": "25_TL_Business_Cards_HR.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1886,
+      "height": 2520,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\001-25_TL_Business_Cards_HR.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c08589afa4532068d632e03f7240b26a8383771d-983x983.jpg",
+      "filename": "TL_Lockup-1 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 983,
+      "height": 983,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\002-TL_Lockup-1-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/308e843dc2da1dc80ed5e1dffe41c3a8735bf7fa-3000x1414.jpg",
+      "filename": "TL_Lockup copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1414,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\003-TL_Lockup-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/387d2f61fc6c621dfa2cff0945768a6c7911fc37-1886x2520.png",
+      "filename": "14_TL_Typography_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2520,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\004-14_TL_Typography_HR.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2a22e21f328f7fbb6ad0092eeb9ce1c10825c64f.mp4",
+      "filename": "15_TL_Casestudy_Webfont_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/193bbf966eb42c56493f5711043ffc44718d8f85.mp4",
+      "filename": "05_TL_Casestudy_Video as Volume_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fe1c4508f0f3a68b64abf4831a506ca523067bbb.mp4",
+      "filename": "06_TL_VideoThread_Hero_4K_16x9_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3c3a1b4d60854ccf31a819803d10912231eb4ad7.mp4",
+      "filename": "07_TL_VideoVolume_6up_4K_16x9_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aeb8fa2b451814830c32753c0eb0633316275f87.mp4",
+      "filename": "11_TL_Gradient_Example_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7658db5eea0b70e2ea98287c20d482551d4edef8.mp4",
+      "filename": "17_TL_Casestudy_Play video_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b4329ef4a98025329af0831df72e7ca47d6202ee-1886x1886.png",
+      "filename": "18_TL_Icon_Breakdown_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 1886,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\005-18_TL_Icon_Breakdown_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f29ffe51d6ccbd754a341d93e3994689ae502e5b-3840x2160.png",
+      "filename": "19_TL_Icon_Overview_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\006-19_TL_Icon_Overview_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/de0957112ec927f46865e70c3e465fb867ea56e6-1886x2520.png",
+      "filename": "20_TL_Tags_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2520,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\007-20_TL_Tags_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c610b40269738274b02045ae4d0a61907e3ca1ad-3840x2160.png",
+      "filename": "16_TL_Poster_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\008-16_TL_Poster_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/17a5deed4b443031fffea7ed562be526c69d0bc2-3840x2160.png",
+      "filename": "29_TL_White_Papers_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\009-29_TL_White_Papers_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1be60672fefcc2d387f68ed5f995f383076216b2-1886x1886.png",
+      "filename": "30_TL_Tshirt_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 1886,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\010-30_TL_Tshirt_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/99b3d1b03f92b1c4325829d8c7c53cab2240451f-1886x1886.png",
+      "filename": "31_TL_Sticker_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 1886,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\011-31_TL_Sticker_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b7066d2f66c87efdb160fd88930b58cf187a2c6-3840x2160.png",
+      "filename": "32_TL_Water_Bottle_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\012-32_TL_Water_Bottle_HR.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a244ea75a8bdcbc9a4b91b6bf00b0c934811895f.mp4",
+      "filename": "04_TwelveLabs_CaseStudy_Desktop_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/35f9b611ffd5b2b1d4e6161dd7d12db2c71f47dc.mp4",
+      "filename": "08_TL_SearchHero_iPad_16x9_4K_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1311b168441d4fcd68499970ac7aebe682edd715-3840x2160.png",
+      "filename": "09_TL_Playground_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\013-09_TL_Playground_HR.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2a7210c764bdc6ab55f521fc18fc94f01d545bc3.mp4",
+      "filename": "21_TL_Casestudy_UI toggle_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f3dc8f1d00ad72d38dcd1fa7f72037d0a14a9b58.mp4",
+      "filename": "22_TL_Generate_Ipad_Mockup_60fps.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37b4b40ead75d08c814bfc26b6d277a0f372c83b-1886x2520.png",
+      "filename": "24_TL_App_Icon_HR.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2520,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\014-24_TL_App_Icon_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34a39bca25f5aa0e7a10837780c12d53f56c6386-3840x2160.png",
+      "filename": "26_TL_Keynote_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\015-26_TL_Keynote_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e40e3f44433ac74edd4be4250612dd9e6e05fd2b-3840x2160.png",
+      "filename": "27_TL_Socials_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\016-27_TL_Socials_HR.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d985875db1ba88399950bbb9c71589713f97311f-3840x2160.png",
+      "filename": "28_TL_Youtube_HR.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\twelve-labs\\assets\\017-28_TL_Youtube_HR.png"
+    }
+  ],
+  "rawId": "d893c0df-06ca-4704-a61a-beed829b12dc",
+  "detail": {
+    "title": "Twelve Labs",
+    "designersText": "Pentagram",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 28 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Twelve Labs",
+      "디자이너": "Pentagram",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 28 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

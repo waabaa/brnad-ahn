@@ -1,0 +1,197 @@
+{
+  "source": "brandarchive",
+  "name": "Aurlands",
+  "slug": "aurlands",
+  "url": "https://brandarchive.xyz/identity/aurlands",
+  "year": 2019,
+  "exclusive": true,
+  "collection": {
+    "title": "Fashion",
+    "slug": "fashion"
+  },
+  "designers": [
+    "Heydays"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a86dddec6493991045fa281faba465d78016ffa3-1500x1000.jpg",
+      "filename": "12-Aurlands-Packaging-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\001-12-Aurlands-Packaging-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d043d54ccc260b3c27b82a7bfb1168cb18432129-1500x938.jpg",
+      "filename": "7-Aurlands-History-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 938,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\002-7-Aurlands-History-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4bef15765b5b04154518a59bfb88ed1f049c11db-1500x1000.jpg",
+      "filename": "1-Aurlands-Logo-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\003-1-Aurlands-Logo-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/febd35b00f1f8b83e93c8dc7d4373dbe0c95c0cc-1500x1000.jpg",
+      "filename": "2-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\004-2-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dc087c8588a93262024d5038a61d7035e91a98b6-1500x1000.jpg",
+      "filename": "3-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\005-3-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ecd9a62255731dd9fa0b1b19a93204d5cb8b0650-1500x1000.jpg",
+      "filename": "4-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\006-4-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/50ac15bbb8663a77e77d72dd81e42b7b7fc83fa1-1500x1000.jpg",
+      "filename": "Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\007-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4622fb6be627cab3234958170b12c980e3263bbb-1500x938.jpg",
+      "filename": "8-Aurlands-History-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 938,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\008-8-Aurlands-History-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f59357f4b9c88caec5b8f2db0972e8367a1d40c-1500x1000.jpg",
+      "filename": "5-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\009-5-Aurlands-Custom-Typeface-Design-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a5eaa241bd2877fba0092db3d337bad41aa12f09-1500x938.jpg",
+      "filename": "9-Aurlands-Shoe-Photography-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 938,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\010-9-Aurlands-Shoe-Photography-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f7ad2a2ad74b518f3bc73beaf06b635242855a4a-1500x938.jpg",
+      "filename": "10-Aurlands-Shoe-Photography-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 938,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\011-10-Aurlands-Shoe-Photography-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0158deba0ba49ba1127f1e40215434f62b3c5c3f-1500x1000.jpg",
+      "filename": "11-Aurlands-Packaging-Branding-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\012-11-Aurlands-Packaging-Branding-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/29dcdbc0c6b6a4e3b5e345256209766e692ba688-1500x938.jpg",
+      "filename": "13-Aurlands-Branding-Print-Stationery-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 938,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\013-13-Aurlands-Branding-Print-Stationery-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/76cabc474d7d69b7acd9806ce61bee4f7b5a7f6f-1500x1000.jpg",
+      "filename": "15-Aurlands-Branding-Print-Stationery-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\014-15-Aurlands-Branding-Print-Stationery-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb7bbef6f4038c12b7f35d9359137edcddeb8cd3-1500x1000.jpg",
+      "filename": "16-Aurlands-Branding-Print-Brochure-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\015-16-Aurlands-Branding-Print-Brochure-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/880576025239e1a22c491e736726838cd8e93b07-1500x1000.jpg",
+      "filename": "17-Aurlands-Branding-Website-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\016-17-Aurlands-Branding-Website-Heydays-Norway-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1da1e2ee8a3d2d7a6390bfce4d2338cfdaf7dfb7-1500x1000.jpg",
+      "filename": "18-Aurlands-Branding-Sole-Imprint-Heydays-Norway-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\aurlands\\assets\\017-18-Aurlands-Branding-Sole-Imprint-Heydays-Norway-BPO.jpg"
+    }
+  ],
+  "rawId": "identity97925",
+  "detail": {
+    "title": "Aurlands",
+    "designersText": "Heydays",
+    "yearText": "2019",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Aurlands",
+      "디자이너": "Heydays",
+      "연도": "2019",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 17 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

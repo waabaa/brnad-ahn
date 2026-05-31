@@ -1,0 +1,102 @@
+{
+  "source": "brandarchive",
+  "name": "BOL",
+  "slug": "bol",
+  "url": "https://brandarchive.xyz/identity/bol",
+  "year": 2015,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by B&B Studio",
+    "slug": "designed-by-B&B-studio"
+  },
+  "designers": [
+    "B&B Studio"
+  ],
+  "assetCount": 6,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/31a78237f675796e211fb6ff59f9919a2dae79da-900x600.jpg",
+      "filename": "Bol-Packaging-designed-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\001-Bol-Packaging-designed-by-B-and-B-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a87598440c780785c4def821b5e40e46cdf1a7e9-900x636.jpg",
+      "filename": "04-Bol-Veg-Pots-Logo-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\002-04-Bol-Veg-Pots-Logo-by-B-and-B-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02778aa7b71ba6c2b95913f317c23dd7645088d8-900x636.jpg",
+      "filename": "03-Bol-Veg-Pots-Packaging-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\003-03-Bol-Veg-Pots-Packaging-by-B-and-B-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3160e44ebab1e60ad619a9cad659810819c14a56-900x636.jpg",
+      "filename": "05-Bol-Veg-Pots-Photography-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\004-05-Bol-Veg-Pots-Photography-by-B-and-B-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/648b155091ed9ad1dc6c7dbb3793f268385a9107-900x636.jpg",
+      "filename": "06-Bol-Packaging-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\005-06-Bol-Packaging-by-B-and-B-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f065d795cc8c2a2524b4928bb6ad8ef743813c4-900x636.jpg",
+      "filename": "01-Bol-Packaging-by-B-and-B-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\bol\\assets\\006-01-Bol-Packaging-by-B-and-B-Studio-on-BPO.jpg"
+    }
+  ],
+  "rawId": "identity65785",
+  "detail": {
+    "title": "BOL",
+    "designersText": "B&B Studio",
+    "yearText": "2015",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "BOL",
+      "디자이너": "B&B Studio",
+      "연도": "2015",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

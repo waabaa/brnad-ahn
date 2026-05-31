@@ -1,0 +1,197 @@
+{
+  "출처": "Brand Archive",
+  "브랜드명": "Kirin",
+  "슬러그": "kirin",
+  "원본URL": "https://brandarchive.xyz/identity/kirin",
+  "연도": 1984,
+  "디자이너": [
+    "PAOS"
+  ],
+  "소속컬렉션": {
+    "이름": "Designed by PAOS",
+    "슬러그": "designed-by-paos"
+  },
+  "PRO잠금여부": false,
+  "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음",
+  "상세정보": {
+    "브랜드명": "Kirin",
+    "디자이너": "PAOS",
+    "연도": "1984",
+    "태그": "",
+    "섹션": [
+      "로고",
+      "컬러",
+      "애플리케이션",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "컬러": [
+      {
+        "hex": "#DC271C",
+        "rgb": "220, 39, 28",
+        "cmyk": "0, 82, 87, 14"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      },
+      {
+        "hex": "#8D9093",
+        "rgb": "141, 144, 147",
+        "cmyk": "4, 2, 0, 42"
+      },
+      {
+        "hex": "#947550",
+        "rgb": "148, 117, 80",
+        "cmyk": "0, 21, 46, 42"
+      },
+      {
+        "hex": "#8E9484",
+        "rgb": "142, 148, 132",
+        "cmyk": "4, 0, 11, 42"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      }
+    ],
+    "서체정보": null,
+    "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+  },
+  "다운로드설정": "이미지만 저장",
+  "에셋요약": {
+    "전체에셋수": 14,
+    "이미지수": 14,
+    "영상수": 0,
+    "이번에저장한파일수": 14
+  },
+  "에셋": [
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 81B.jpg",
+      "MIME": "image/jpeg",
+      "너비": 832,
+      "높이": 474,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/8391cc5777ce98216a339fad6cc2aa590338f8b5-832x474.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\001-Scan-81B.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Logo.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1748,
+      "높이": 1327,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/db02ee69f938796f70a702e58741ddf92c131d6d-1748x1327.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\002-Logo.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 13.jpeg",
+      "MIME": "image/jpeg",
+      "너비": 1107,
+      "높이": 580,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/2789e90b4511048ce2bf4bf88547ad128d22ab7c-1107x580.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\003-Scan-13.jpeg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 81 2.jpeg",
+      "MIME": "image/jpeg",
+      "너비": 1713,
+      "높이": 1279,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/75516ef94d51e3eddb56225ff16bece95a312963-1713x1279.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\004-Scan-81-2.jpeg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 81A 2.jpg",
+      "MIME": "image/jpeg",
+      "너비": 768,
+      "높이": 223,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/ba5995a2cf288ac2a8ff99d3ace02d73b5cd23a7-768x223.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\005-Scan-81A-2.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 81A.jpg",
+      "MIME": "image/jpeg",
+      "너비": 765,
+      "높이": 220,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/2d42e227c9b2425e3aabccde4c8e7b9c39fe028e-765x220.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\006-Scan-81A.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 81ww.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1674,
+      "높이": 794,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/fe195626a2b980e116537e83eff149148f24f39d-1674x794.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\007-Scan-81ww.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82g.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3405,
+      "높이": 361,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/e329c2ea0e05843a43e7ebb0503237b3e30c5219-3405x361.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\008-Scan-82g.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82n.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3446,
+      "높이": 502,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/04cee878afe9eed719087f02df5bcd25d37f8c65-3446x502.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\009-Scan-82n.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82a.jpg",
+      "MIME": "image/jpeg",
+      "너비": 4947,
+      "높이": 684,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/21c820155e74bf8cf7c9e544fdc4f961687011dc-4947x684.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\010-Scan-82a.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 8 2.jpeg",
+      "MIME": "image/jpeg",
+      "너비": 862,
+      "높이": 609,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/27d1053022f762bac9aece23be5da00469efa083-862x609.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\011-Scan-8-2.jpeg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82b.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1859,
+      "높이": 2398,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/ebe8a0605817c437a2b3530cd631a65b0741053b-1859x2398.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\012-Scan-82b.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82c.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1740,
+      "높이": 1302,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/da78851cbd022a61ab4d655cedc536f1255e75c0-1740x1302.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\013-Scan-82c.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Scan 82d.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1109,
+      "높이": 971,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/d8be9dcfb71a3c33b6187d74d4a9e2151ad5399a-1109x971.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\kirin\\assets\\014-Scan-82d.jpg"
+    }
+  ]
+}

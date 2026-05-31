@@ -1,0 +1,408 @@
+{
+  "source": "brandarchive",
+  "name": "Quilt",
+  "slug": "quilt",
+  "url": "https://brandarchive.xyz/identity/quilt",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Manual",
+    "slug": "designed-by-manual-sf"
+  },
+  "designers": [
+    "Manual"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb34fc790a08ebfcf31f9f3059a86e5f00c0b2f2-3000x1500.jpg",
+      "filename": "Quilt_logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\001-Quilt_logo.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/32234bccffb2f8ca955d77ba8af75426260a0923.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/809f572977e14f13f2268abbf545802bfcd4e4f4.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/74bb0194387f3fec8f84da9eb964c4408ecb3b72.mp4",
+      "filename": "7a9eeb4d.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/543378c5baf7a0bb7fb4e0d83871295e956ce3b6.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e528851c1b69f20935469b7f8bea2fcf91b504e5.mp4",
+      "filename": "file-3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2054090f99816d18b3158383ff3ace005e2e85d7.mp4",
+      "filename": "file-4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5cb1468d96fd1f553fcb48c2494eef39091d5cc7.mp4",
+      "filename": "file-5.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/95fd1400f4c6e3316230a9bad6710910fd2384ee.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/becc5d3c6106fa7cee78f9b81d8d4c4f533414a3.mp4",
+      "filename": "file-3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/236b58b78aa28c658b0d704882b51a972b3fb207-3000x2000.jpg",
+      "filename": "Quilt_Carousel_8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\002-Quilt_Carousel_8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/40f95b5a543110d9d61b6ea8ab218b23fb550d88-3000x2000.jpg",
+      "filename": "Quilt_Inset_Image.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\003-Quilt_Inset_Image.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c6782638f079ae9c4c685e0369eb3729bd47b3d-3000x2000.jpg",
+      "filename": "Shot3_Kitchen_1559.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\004-Shot3_Kitchen_1559.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/78c796cf46c81fc8da07631ad86f3891c2ad0af8-3000x2000.jpg",
+      "filename": "Shot5_LivingRoomDay_4209_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\005-Shot5_LivingRoomDay_4209_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb517355c79dd48b559b50a67b07a800f84f6cea-3000x2000.jpg",
+      "filename": "Quilt-Typography.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\006-Quilt-Typography.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/00716b81a4eee93608258bcaad92fed7aee5195a.mp4",
+      "filename": "file-2 copy 2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/80eef7d313fb85d86b541f97ef145104281560d9.mp4",
+      "filename": "file-2 copy 3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ab4373ae7f179dd531ee8a0a049bbf59581e57da.mp4",
+      "filename": "file-2 copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f8f56417011896ceb25522e5475d715465b3f7bf.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ce2067b98fb0a3f17bbd38287034b7725592b959.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a93ff77215c83165b530c7789d369d816a4e56e2-3000x2000.jpg",
+      "filename": "Quilt_Mobile_App_Hero2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\007-Quilt_Mobile_App_Hero2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bbb919a720e26154c75b0488ca5d3dd6aabf486d-3000x2000.jpg",
+      "filename": "Quilt_UI_Bento_Box.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\008-Quilt_UI_Bento_Box.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/55d780a30173af92b27eff26464e8031a7955839.mp4",
+      "filename": "file-2 copy 2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b613bd3af65027a20d4a9f17cd81ef1abce92089.mp4",
+      "filename": "file-2 copy 3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f4cb5aed214a26ad25887e7e480e50d35b67a92b.mp4",
+      "filename": "file-2 copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/265d82dee5206958fd11719e86f5d900c1f67487.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/50cccfa8f6b1a054c5412842d9175ffd56efb7ae-3000x1769.jpg",
+      "filename": "Quilt_ad.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1769,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\009-Quilt_ad.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2c45ed5711919064ac91ee6157f8f6c92cbbb026-3000x2000.jpg",
+      "filename": "Quilt_Boxes.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\010-Quilt_Boxes.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34378b227c15c1ea5f0cedd89999f28bebba581a-3000x1700.jpg",
+      "filename": "Quilt-posters_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1700,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\011-Quilt-posters_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2410ff47bb2fc36cc05b7875a67232a87fc77444-3000x2250.jpg",
+      "filename": "Quilt-sign.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\quilt\\assets\\012-Quilt-sign.jpg"
+    }
+  ],
+  "rawId": "1c54f074-4b69-4054-a559-207b59a2deba",
+  "detail": {
+    "title": "Quilt",
+    "designersText": "Manual",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#AB1B57",
+        "rgb": "171, 27, 87",
+        "cmyk": "0, 84, 49, 33"
+      },
+      {
+        "hex": "#FF8266",
+        "rgb": "255, 130, 102",
+        "cmyk": "0, 49, 60, 0"
+      },
+      {
+        "hex": "#FFC2A7",
+        "rgb": "255, 194, 167",
+        "cmyk": "0, 24, 35, 0"
+      },
+      {
+        "hex": "#FFF5D5",
+        "rgb": "255, 245, 213",
+        "cmyk": "0, 4, 16, 0"
+      },
+      {
+        "hex": "#FDF9F3",
+        "rgb": "253, 249, 243",
+        "cmyk": "0, 2, 4, 1"
+      },
+      {
+        "hex": "#E5E1DC",
+        "rgb": "229, 225, 220",
+        "cmyk": "0, 2, 4, 10"
+      },
+      {
+        "hex": "#2D3681",
+        "rgb": "45, 54, 129",
+        "cmyk": "65, 58, 0, 49"
+      },
+      {
+        "hex": "#6C9CFA",
+        "rgb": "108, 156, 250",
+        "cmyk": "57, 38, 0, 2"
+      },
+      {
+        "hex": "#A9E2E9",
+        "rgb": "169, 226, 233",
+        "cmyk": "27, 3, 0, 9"
+      },
+      {
+        "hex": "#DAF5F8",
+        "rgb": "218, 245, 248",
+        "cmyk": "12, 1, 0, 3"
+      },
+      {
+        "hex": "#246F70",
+        "rgb": "36, 111, 112",
+        "cmyk": "68, 1, 0, 56"
+      },
+      {
+        "hex": "#444444",
+        "rgb": "68, 68, 68",
+        "cmyk": "0, 0, 0, 73"
+      }
+    ],
+    "typeText": "",
+    "korean": {
+      "브랜드명": "Quilt",
+      "디자이너": "Manual",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#AB1B57",
+          "rgb": "171, 27, 87",
+          "cmyk": "0, 84, 49, 33"
+        },
+        {
+          "hex": "#FF8266",
+          "rgb": "255, 130, 102",
+          "cmyk": "0, 49, 60, 0"
+        },
+        {
+          "hex": "#FFC2A7",
+          "rgb": "255, 194, 167",
+          "cmyk": "0, 24, 35, 0"
+        },
+        {
+          "hex": "#FFF5D5",
+          "rgb": "255, 245, 213",
+          "cmyk": "0, 4, 16, 0"
+        },
+        {
+          "hex": "#FDF9F3",
+          "rgb": "253, 249, 243",
+          "cmyk": "0, 2, 4, 1"
+        },
+        {
+          "hex": "#E5E1DC",
+          "rgb": "229, 225, 220",
+          "cmyk": "0, 2, 4, 10"
+        },
+        {
+          "hex": "#2D3681",
+          "rgb": "45, 54, 129",
+          "cmyk": "65, 58, 0, 49"
+        },
+        {
+          "hex": "#6C9CFA",
+          "rgb": "108, 156, 250",
+          "cmyk": "57, 38, 0, 2"
+        },
+        {
+          "hex": "#A9E2E9",
+          "rgb": "169, 226, 233",
+          "cmyk": "27, 3, 0, 9"
+        },
+        {
+          "hex": "#DAF5F8",
+          "rgb": "218, 245, 248",
+          "cmyk": "12, 1, 0, 3"
+        },
+        {
+          "hex": "#246F70",
+          "rgb": "36, 111, 112",
+          "cmyk": "68, 1, 0, 56"
+        },
+        {
+          "hex": "#444444",
+          "rgb": "68, 68, 68",
+          "cmyk": "0, 0, 0, 73"
+        }
+      ],
+      "서체정보": "",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

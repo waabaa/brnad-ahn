@@ -1,0 +1,341 @@
+{
+  "source": "brandarchive",
+  "name": "Hello Klean",
+  "slug": "hello-klean",
+  "url": "https://brandarchive.xyz/identity/hello-klean",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "From the United Kingdom",
+    "slug": "from-the-uk"
+  },
+  "designers": [
+    "Two Times Elliott"
+  ],
+  "assetCount": 31,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ce5993005e9f9aab04bf70237d4948d93259cabc-1600x2000.jpg",
+      "filename": "1731498983-xx_twotimeselliott_helloklean_1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\001-1731498983-xx_twotimeselliott_helloklean_1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7a88173c84480142f1f57cd2b7667e3b1530a071-2000x1333.jpg",
+      "filename": "1731086270-xx_twotimeselliott_helloklean_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\002-1731086270-xx_twotimeselliott_helloklean_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/593a9789ddb4c37d5bec8c9efef13a5feecaabce-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\003-1731087538-xx_twotimeselliott_helloklean_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a95b114053d8af7b11965b5c4eef81c61255e06-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\004-1731087538-xx_twotimeselliott_helloklean_05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1bfe77c172bd7ba5afd02b6f7a26f908bc477901-2000x1333.jpg",
+      "filename": "1731084088-xx_twotimeselliott_helloklean_00014.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\005-1731084088-xx_twotimeselliott_helloklean_00014.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bbc90a792e5cbd9c9f6f3094249e72df308c704b-2000x1333.jpg",
+      "filename": "1731085876-xx_twotimeselliott_helloklean_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\006-1731085876-xx_twotimeselliott_helloklean_01.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/114951996e7d122cfe93b020bbfe15dc6bc5b3ca.mp4",
+      "filename": "3006cb84-a49af332.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7ffa5e77a055f22fa6a9038dfb2ff7aabfcd6ff5-1500x2000.jpg",
+      "filename": "1731088515-xx_twotimeselliott_helloklean_000101.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\007-1731088515-xx_twotimeselliott_helloklean_000101.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ef23e87d3b746c3510527869c1788285938fd877-1080x1350.jpg",
+      "filename": "1731088837-thumb-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\008-1731088837-thumb-3.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/82eb0563ad880210155b4ea001f542d2d6160250.mp4",
+      "filename": "e79c3150-cf439d46.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1aec3ffa32f685ed5ce79031e21fe2519661e3c6.mp4",
+      "filename": "2da70645-2db49719.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2cbc9c21536e33f57e2295fef7b687a0c65fd3a4-1500x2000.jpg",
+      "filename": "1731084943-xx_twotimeselliott_helloklean_00007.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\009-1731084943-xx_twotimeselliott_helloklean_00007.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1b407d1c21d2bfae3e29528947bc97b8d31084e2-1050x1400.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1050,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\010-1731087538-xx_twotimeselliott_helloklean_13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/25f928ba891ce8ff1d5c400ec218ab425c41d65c-1500x2000.jpg",
+      "filename": "1731085531-xx_twotimeselliott_helloklean_00013.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\011-1731085531-xx_twotimeselliott_helloklean_00013.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/df8fa843e910ecfea692ee8f23bec32300cc728e-1500x2000.jpg",
+      "filename": "1731087231-xx_twotimeselliott_helloklean_00009.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\012-1731087231-xx_twotimeselliott_helloklean_00009.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7b2ef323eaeea420a2eabc08ef864fe662d0ceb-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\013-1731087538-xx_twotimeselliott_helloklean_04.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96f332ff771e163b6e3f0b442763c45a4a2f28df-1500x2000.jpg",
+      "filename": "1731087788-xx_twotimeselliott_helloklean_00004.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\014-1731087788-xx_twotimeselliott_helloklean_00004.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a6e27e1303e8b15f3d9149113be18e22ca19898a-2000x1125.jpg",
+      "filename": "1731498994-xx_twotimeselliott_helloklean_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\015-1731498994-xx_twotimeselliott_helloklean_2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5f18e8d2dd85ab1d07215ac188b0749beb1c98ff.mp4",
+      "filename": "ded7f7f0-03600d84.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/941ae77b291bbb7c68702466ba8620fce40b1dca.mp4",
+      "filename": "e3223fbf-cb1e229d.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ac8d904bff70a755c49bc3b4313e5b37d672cbb6-1200x1500.webp",
+      "filename": "1728383332-helloklean_twotimeselliott_xx.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\016-1728383332-helloklean_twotimeselliott_xx.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db6fb91a26fcebf44638db89f4992ddf202b48e9-1500x2000.jpg",
+      "filename": "1731083531-xx_twotimeselliott_helloklean_00006.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\017-1731083531-xx_twotimeselliott_helloklean_00006.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be695649829017455b691026ec3b6acfef59f380-1500x2000.jpg",
+      "filename": "1731084037-xx_twotimeselliott_helloklean_00001.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\018-1731084037-xx_twotimeselliott_helloklean_00001.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fc509296e78db95f90413d85c907b0923e09599f-1500x2000.jpg",
+      "filename": "1731085531-xx_twotimeselliott_helloklean_00010.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\019-1731085531-xx_twotimeselliott_helloklean_00010.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f0af6dde5937428d866d435e1eb937e9d4af309-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\020-1731087538-xx_twotimeselliott_helloklean_06.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1ad45fe42775d5f4fd9e507142f71b9da590332-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\021-1731087538-xx_twotimeselliott_helloklean_10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6f6c2b103b6473aa3e3fa7ede7f6ef0fb0468151-1500x2000.jpg",
+      "filename": "1731087538-xx_twotimeselliott_helloklean_11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\022-1731087538-xx_twotimeselliott_helloklean_11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/92db05e51a320bac70b0502a55d1a5c5e6de0dbf-1080x1440.jpg",
+      "filename": "1732210035-thumb-5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\023-1732210035-thumb-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68bad54184e4d53da2ba5cf5e6f620b8701c4c52-1080x1440.jpg",
+      "filename": "1732210166-thumb-7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\024-1732210166-thumb-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c344fa6c67d0d13a3680b254e13a27289a3ca6d5-1440x1800.jpg",
+      "filename": "468994402_18138650416366074_2098844633631548024_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\hello-klean\\assets\\025-468994402_18138650416366074_2098844633631548024_n.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b014a439f48467932bdf5f011bbcf0d65d203426.mp4",
+      "filename": "00c1f030-7cd0b09d.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "f584fc53-6e9a-4732-b8c9-7362da34548d",
+  "detail": {
+    "title": "Hello Klean",
+    "designersText": "Two Times Elliott",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      }
+    ],
+    "typeText": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Hello Klean",
+      "디자이너": "Two Times Elliott",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        }
+      ],
+      "서체정보": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

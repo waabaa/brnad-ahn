@@ -1,0 +1,263 @@
+{
+  "source": "brandarchive",
+  "name": "Sessions",
+  "slug": "sessions",
+  "url": "https://brandarchive.xyz/identity/sessions",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Cafes, Bars & Restaurants",
+    "slug": "cafes-bars-restaurants"
+  },
+  "designers": [
+    "Omse"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa245f9414e2cb4b72d9e3e4dc6b5711e1efb52d-2000x1334.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\001-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/47272a2be73c9ca1c077a949a246bbdb5f9be286-2000x1333.jpg",
+      "filename": "partnerbrands copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\002-partnerbrands-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dc4a7ebfd03cb283007de305f2458723e9b9e707-2000x1333.jpg",
+      "filename": "partnerbrands copy1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\003-partnerbrands-copy1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e8f35dd0ba6763409c8e820f590a53e16e012f4-2000x1333.jpg",
+      "filename": "partnerbrands copy2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\004-partnerbrands-copy2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d58872ba31f1f8ad7d0ddf1fddb9daf8f4ee1ea2-2000x1333.jpg",
+      "filename": "partnerbrands copy5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\005-partnerbrands-copy5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/43eba46f42913c4000312c1a54d1de4b19f0c44e-2000x1333.jpg",
+      "filename": "sessions_shelterhall_logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\006-sessions_shelterhall_logo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7e1684e31bf2299711c6bd7a1a1479e2054a6acd-2000x1334.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\007-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3a749ce8b3de1622a00e2bcc0207d5b520b656e-2000x1333.jpg",
+      "filename": "partnerbrands copy4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\008-partnerbrands-copy4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/40ae4c96df778e5b59100ff35b0c653a540e6a09-2000x1334.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\009-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bdd1715a224dd0478deead18463f3a4afd7660f7-2000x1333.jpg",
+      "filename": "sessions_burger.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\010-sessions_burger.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/979c539c8417770ebea480ad6ea695cb45273ce5-1067x1333.jpg",
+      "filename": "sessions_chilli.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\011-sessions_chilli.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/42accbc6d03d766c4b900975063a1bac8a9376ea-2000x1333.jpg",
+      "filename": "sessions_chip.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\012-sessions_chip.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/083e49ad5bbcf4785728833c5ffe36ba6d965986-2000x1333.jpg",
+      "filename": "sessions_corn.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\013-sessions_corn.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d7d47c04ee6f5cb2fd06f0acfb5ece194705afce-1067x1333.jpg",
+      "filename": "sessions_deliverybag.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\014-sessions_deliverybag.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13c0520a22b9f9b9538df201a1f1de8b3d20ee09-1067x1333.jpg",
+      "filename": "sessions_deliverybag2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\015-sessions_deliverybag2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/31e40b062f0f10036b89024f38896dcc933a483a-1067x1333.jpg",
+      "filename": "sessions_lilbao.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\016-sessions_lilbao.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/949c9b5446737404965420ee6901df9157ee5269-1067x1333.jpg",
+      "filename": "sessions_lilbao2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\017-sessions_lilbao2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a5a3cfb79dff2fe9b1053a63deb6e5df5b80e74a-2000x1333.jpg",
+      "filename": "sessions_billposter.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\018-sessions_billposter.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c6908d801e21ec3f3895bf9c6b0aa684db27de4d-1067x1333.jpg",
+      "filename": "sessions_reciept.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\019-sessions_reciept.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/442134c7882dc78fa42f95994d054ef5a6c132a7-2000x1333.jpg",
+      "filename": "sessions_shelterhall_inside.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\020-sessions_shelterhall_inside.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae1e8d4eb242c8c70516d380a48e5f3f56e29a8b-1067x1333.jpg",
+      "filename": "sessions_shelterhall_lilbao.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1067,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\021-sessions_shelterhall_lilbao.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6749ba269a4557facc9f54c2d9af8a8acc631048-2000x1333.jpg",
+      "filename": "sessions_shelterhall.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\sessions\\assets\\022-sessions_shelterhall.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9fdf62d23a58a9dee682351b894e7c88a0bbcb5f.mp4",
+      "filename": "file-7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b0f1da6cc752ad8825830e7f9ebd52d83dbdc0c4.mp4",
+      "filename": "file-8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f34114325516ebdfd10248852e891acf3f1483b0.mp4",
+      "filename": "file-9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "91010f9c-1ddf-49ef-a3d4-192b19ce2b0e",
+  "detail": {
+    "title": "Sessions",
+    "designersText": "Omse",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 25 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Sessions",
+      "디자이너": "Omse",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 25 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

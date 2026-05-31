@@ -1,0 +1,304 @@
+{
+  "source": "brandarchive",
+  "name": "When",
+  "slug": "when",
+  "url": "https://brandarchive.xyz/identity/when",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Health & Wellbeing",
+    "slug": "health-wellness"
+  },
+  "designers": [
+    "Universal Favourite"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1ce51ef040543ae830c0f6c9a6c88bf4d034795f-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDMuMS5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\001-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDMuMS5qcGc=.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/020c4d1453e9a591cb74804ed5cd44a59b29add9-3500x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl8wMV8zLmpwZw==.webp",
+      "mimeType": "image/webp",
+      "width": 3500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\002-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl8wMV8zLmpwZw==.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/330ff5b81df4f5fea87d620ed9de13a3726d3b00-3500x2000.webp",
+      "filename": "12.webp",
+      "mimeType": "image/webp",
+      "width": 3500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\003-12.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4d28b883324b2cb2b3ee97bc6186f2bba7c4d967-3000x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\004-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7930084afb8b7173e906860ec73dcea48e56c176-3000x2000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\005-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a4c85129ec7891f4ca68858c81ad94cc7647b2e4-3000x2000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\006-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8e68f832011e9fc9b8becc5a1ac11ae980e1c2a4-3000x2000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\007-4.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8b9b9d5730e9f1324826db28ca7d333b77d48e3b.mp4",
+      "filename": "file-7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f619db322f0bce5ef27294454dcdb962c6b09b40-3500x2000.webp",
+      "filename": "13.webp",
+      "mimeType": "image/webp",
+      "width": 3500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\008-13.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b9c56ffea63cfd3eb73bac61ca373bfdb456c9b2-3500x2000.webp",
+      "filename": "2.webp",
+      "mimeType": "image/webp",
+      "width": 3500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\009-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/289bd2c2c1158638dc817c910f3904fb2d21801e-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTEuMS5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\010-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTEuMS5qcGc=.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a71cda401c892514c4c25f50e9470f5af6d7cfd-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDEuMy0xNzEwNDYwMDc0LmpwZw==.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\011-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDEuMy0xNzEwNDYwMDc0LmpwZw==.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1097d86dc29b91ec794efaf33ad4cd6ee5f9df3-3000x3000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDdfc3FhdXJlLmpwZw==.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\012-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDdfc3FhdXJlLmpwZw==.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9daa5d6a2f18b62ac1295ff3c109114977efbe82-3000x3000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDhfc3F1YXJlLW1pbi5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\013-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDhfc3F1YXJlLW1pbi5qcGc=.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b9f7316ea28784483734ea01055abf561af4373-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDYtbWluLmpwZw==.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\014-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMDYtbWluLmpwZw==.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9b8b5ea9d274344bb942629f86ece0a3ca11d952-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTAuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\015-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTAuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/42820c8459dd728110ab612de480a065050cb763-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTIuMS5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\016-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wYWNrYWdpbmdfMTIuMS5qcGc=.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/566813533ebe4659c9a2e912cea5a5dd428d2dd5-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wcmludF8wMS1taW4uanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\017-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wcmludF8wMS1taW4uanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c00ba81ea525cb3d936203ccd313aad5f548ef55-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wcmludF8wMi1taW4uanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\018-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9wcmludF8wMi1taW4uanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8137d821dd1f8e83d6a89c25770fe78979ecfeb6-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzEuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\019-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzEuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f1d9e26f81b8ae52cf9f5570f64c9e5f50fc68e9-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzIuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\020-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzIuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73f588c48c7f2251bc0a4da5c130267aa2bccb3e-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzMuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\021-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzMuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/52caa21f0651fc66c189becf6776fcf99b552d70-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzQuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\022-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzQuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a4cc8dbeebc6ce1b33efd57cffd76929e8da8753-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzUuanBn.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\023-aW1hZ2VzL3dvcmsvd2hlbi1mZXJ0aWxpdHkvd2hlbl9vdXRkb29yXzUuanBn.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd0b8a6a5423ebdb19fbf77647b09b2b32f47d4a-3000x4000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbl9yZXRhaWxfMi5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 4000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\024-aW1hZ2VzL3dvcmsvd2hlbl9yZXRhaWxfMi5qcGc=.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34e96743f149606e138b0c0fe9189b6bd21506dc-3000x2000.webp",
+      "filename": "aW1hZ2VzL3dvcmsvd2hlbl9yZXRhaWxfMS5qcGc=.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\when\\assets\\025-aW1hZ2VzL3dvcmsvd2hlbl9yZXRhaWxfMS5qcGc=.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/909cc1978384d5b0f7251c5932de921dc25e4768.mp4",
+      "filename": "file-6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0fc80cd674d23a4210e075bfd0ee949c98552976.mp4",
+      "filename": "file-8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/785b45a0f1079018c36fab5bdc00d03ffa4cbcb5.mp4",
+      "filename": "file-10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/17268908566ccd5dcd496fd3308e24821b155a1b.mp4",
+      "filename": "file-12.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "f175f2c0-833e-42f8-880a-2e91170b0628",
+  "detail": {
+    "title": "When",
+    "designersText": "Universal Favourite",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 31 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "When",
+      "디자이너": "Universal Favourite",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 31 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

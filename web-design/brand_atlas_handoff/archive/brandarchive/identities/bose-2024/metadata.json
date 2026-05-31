@@ -1,0 +1,298 @@
+{
+  "source": "brandarchive",
+  "name": "Bose",
+  "slug": "bose-2024",
+  "url": "https://brandarchive.xyz/identity/bose-2024",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Collins",
+    "slug": "designed-by-collins"
+  },
+  "designers": [
+    "Collins"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f5e76ff64eb4a9fe46b3918cc56e7da570644879-4094x2690.png",
+      "filename": "bose-logo-1.png",
+      "mimeType": "image/png",
+      "width": 4094,
+      "height": 2690,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\001-bose-logo-1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/32f6282fdc499b14855a80d84c1e5885a8321eee-4094x2690.jpg",
+      "filename": "bose-logo-1 copy11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4094,
+      "height": 2690,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\002-bose-logo-1-copy11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a2641a9ca081cb587ed6f26fd30645369f62be6-2600x1733.jpg",
+      "filename": "BOSE_InSitu_06-3c5e14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\003-BOSE_InSitu_06-3c5e14.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5cef6de52848656f2525332a188023051c50b997.mp4",
+      "filename": "BOSE_06.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f0338f4500dc1e0ce0f5f542da4dbff5b1e7a915.mp4",
+      "filename": "BOSE_13.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a94faaa84d60f437140ec671624ce80acb067c1d.mp4",
+      "filename": "BOSE_01_B.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e9083e99df99839e23df8911247a52cde823e98a.mp4",
+      "filename": "BOSE_02_Left.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4f5cb418b5ab51fa167ab22fa8167df25a905042.mp4",
+      "filename": "BOSE_02_Right.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d6e8d17b4a8063ed3e251a13698b7f36e1842ce0-1200x1600.jpg",
+      "filename": "Bose_03_Right.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\004-Bose_03_Right.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a052b2ee67fd28109e32e2f6e9bff564a5fae171-1200x1600.jpg",
+      "filename": "Bose_04_Left.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\005-Bose_04_Left.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0fad15f9b971b44da709119d6730bc8335409830-1200x1600.jpg",
+      "filename": "Bose_03_Left.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\006-Bose_03_Left.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e25125b0668ec747f6a98678e0779b336b17b970-2600x1733.jpg",
+      "filename": "BOSE_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\007-BOSE_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb85f871f5bc8b241bc8307267e9c4d6fc492e15-1200x1600.jpg",
+      "filename": "Bose_04_Right.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\008-Bose_04_Right.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5462eac93d98ea7666ad0d9dc8d4a80b70153440-2600x1733.jpg",
+      "filename": "BOSE_11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\009-BOSE_11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/503aef96440b7851a24c903a1774ae7fa619a1a0-2600x1733.jpg",
+      "filename": "BOSE_14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\010-BOSE_14.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9f62456e1f22f58d9bb8dbe6001eab99bf3b85c8.mp4",
+      "filename": "Campaing+Textures_CaseStudyMockup_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4c3149068b4173dc85f08dd6376cfad8f76834a1.mp4",
+      "filename": "BOSE_04_Right_2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a13cd97bc2cae8956abea965aaadba24eb8a81d6-2600x1733.jpg",
+      "filename": "BOSE_09_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\011-BOSE_09_2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fc9711d5c02b6fe14e4822061b1ccce00ac474d3.mp4",
+      "filename": "BOSE_07.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c7ac4dbb6412d9af489893e24e217eadef41e20c-2600x1733.jpg",
+      "filename": "BOSE_InSitu_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\012-BOSE_InSitu_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/911e2098c8fdd04c5a32322b50d94f2a736fc03d-2600x1733.jpg",
+      "filename": "BOSE_InSitu_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\013-BOSE_InSitu_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b3a97df2a3ebcb6c0fe942162f8c9a264138f2ab-2600x1733.jpg",
+      "filename": "BOSE_InSitu_14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\014-BOSE_InSitu_14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa7324005d50772e67a76aeffb356bc329b1cbd2-2600x1733.jpg",
+      "filename": "BOSE_InSitu_15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\015-BOSE_InSitu_15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d1560651b417ec2ac8e7c9902743c931de3b9b8b-3000x2000.jpg",
+      "filename": "BOSE_06 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\016-BOSE_06-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/925b481a13aa3e56f4303af89400f04d72a40e3e-3000x2000.jpg",
+      "filename": "BOSE_06 copy1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\017-BOSE_06-copy1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f27aea15d45fb625eedeb27eb66e1d3077c7423f-3000x2000.jpg",
+      "filename": "BOSE_06 copy2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\018-BOSE_06-copy2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a9f4cacde8280784d72f9dc21ad03ce3e3f2ba5-3000x2000.jpg",
+      "filename": "BOSE_06 copy4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\019-BOSE_06-copy4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d64cdabb0bd3fcfee4814b46187924fc63a3181-3000x2000.jpg",
+      "filename": "BOSE_06 copy5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\020-BOSE_06-copy5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cb808f5e6f070acd77b3c1782a275eba3f4022e7-3000x2000.jpg",
+      "filename": "BOSE_06 copy6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\021-BOSE_06-copy6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/26e8e2b36d665226baceddb1b32a66c6820ec662-3000x2000.jpg",
+      "filename": "BOSE_06 copy11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\bose-2024\\assets\\022-BOSE_06-copy11.jpg"
+    }
+  ],
+  "rawId": "5dc1cae4-722c-447c-b828-6988f8f3b9e5",
+  "detail": {
+    "title": "Bose",
+    "designersText": "Collins",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 30 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Bose",
+      "디자이너": "Collins",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 30 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

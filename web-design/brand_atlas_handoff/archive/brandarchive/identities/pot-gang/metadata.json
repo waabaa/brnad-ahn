@@ -1,0 +1,388 @@
+{
+  "source": "brandarchive",
+  "name": "Pot Gang",
+  "slug": "pot-gang",
+  "url": "https://brandarchive.xyz/identity/pot-gang",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Land of Plenty"
+  ],
+  "assetCount": 36,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b595994d9f6b5bb83a214d579da5f992b59245db-2560x1707.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\001-1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7db373e120091144b0b38a5ec377e04c1712806e.mp4",
+      "filename": "file.mp4 (540p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6cc941797d795ae252687b25a5b1ca5073ff03f5.mp4",
+      "filename": "file.mp4 (720p)-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d81c68bfdca77320ba0c073abf1500397b495767-1820x1560.png",
+      "filename": "PG_CS_CharacterCarousel-A.png",
+      "mimeType": "image/png",
+      "width": 1820,
+      "height": 1560,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\002-PG_CS_CharacterCarousel-A.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e6bac69ce270a3806f77fceafccb109ac2b4105-1820x1560.png",
+      "filename": "PG_CS_CharacterCarousel-B_2.png",
+      "mimeType": "image/png",
+      "width": 1820,
+      "height": 1560,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\003-PG_CS_CharacterCarousel-B_2.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f7b0d0cf5f0779defb12c83c524a975b5ecc7454-1820x1560.png",
+      "filename": "PG_CS_CharacterCarousel-D.png",
+      "mimeType": "image/png",
+      "width": 1820,
+      "height": 1560,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\004-PG_CS_CharacterCarousel-D.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/38869f4f80c62c652ac1df17dce64f22957e3189-1820x1560.png",
+      "filename": "PG_CS_CharacterCarousel-C.png",
+      "mimeType": "image/png",
+      "width": 1820,
+      "height": 1560,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\005-PG_CS_CharacterCarousel-C.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2a3579720db895a1a116ef2a9d33e46dd4eab8a0.mp4",
+      "filename": "file.mp4 (720p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/29a20dc01ccd1b994ef5b92097d81c9d9b563171.mp4",
+      "filename": "file.mp4 (1080p)-5.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d81dd210e9103cb526e1ec0d5a2c8a544675c5a7.mp4",
+      "filename": "file.mp4 (1080p)-6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a01572431b43287ed1fef5e894ce6ad0f77db808.mp4",
+      "filename": "file.mp4 (1080p)-8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/14d53a79f1842513e712db770d3fd63797a2904c.mp4",
+      "filename": "file.mp4 (1080p)-12.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a4069e4625eb3e5be8186554324e846c2b3e9292.mp4",
+      "filename": "file.mp4 (2160p)-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/22462f71d1e0a63c242bd1ae0f8d0c63709452df.mp4",
+      "filename": "file.mp4 (2160p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6f6d3a26512815ce43e97439fe1e68dbd18640eb.mp4",
+      "filename": "file.mp4 (1080p)-9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2d972d7b1a744d6bc3e3368b15e23a14213898f8.mp4",
+      "filename": "file.mp4 (1080p)-10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6ac5f46daf599cec13069a09fbd51a1b557d79db.mp4",
+      "filename": "file.mp4 (1080p)-11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9c39874a78e413b2020c68906068d5b93c2bf7f7-2560x1707.jpg",
+      "filename": "PG_CS_CompostCubes_01-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\006-PG_CS_CompostCubes_01-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1811608a44b8e63200618b633851bf002996035d-1360x906.jpg",
+      "filename": "PG_CS_Details_Boxes_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\007-PG_CS_Details_Boxes_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/445af040e3b2c98012286270d13b6fd54d4cc6fa-1360x906.jpg",
+      "filename": "PG_CS_Details_Compost_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\008-PG_CS_Details_Compost_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/da7ab79186e56b393e95ca1830b16da262aa7f7a-1360x906.jpg",
+      "filename": "PG_CS_Details_OpenBox_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\009-PG_CS_Details_OpenBox_02.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2a477fe9555c189fa2ad9f71edc40be51383c073.mp4",
+      "filename": "file.mp4 (1080p)-7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/804e73a9fe0f0579be0183902f5b12ea72f0ecef-1360x906.gif",
+      "filename": "LOP-260113-0266.gif",
+      "mimeType": "image/gif",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\010-LOP-260113-0266.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a220a5157a3fa6acc8d6b4457f36c075e94b2916-1128x1482.jpg",
+      "filename": "PC_CS_StickersPeace_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1128,
+      "height": 1482,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\011-PC_CS_StickersPeace_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fafa524f371509ef5a530ead7c9693f6c498ec03-2560x1558.jpg",
+      "filename": "PG_CS_48SHT_02-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1558,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\012-PG_CS_48SHT_02-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/edcb683088033a794eb30eaa91bf0a7884ecf4bb-1360x1611.jpg",
+      "filename": "PG_CS_BrandImg_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1611,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\013-PG_CS_BrandImg_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/901c50aaf6d3fdb9c5b83173b01f9d7c82d89793-1360x906.jpg",
+      "filename": "PG_CS_Collateral_Envelope_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\014-PG_CS_Collateral_Envelope_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/08b1d701a9f74d8e92b74344d08e82802a7fdd74-1360x907.gif",
+      "filename": "PG_CS_Collateral_Passport_02.gif",
+      "mimeType": "image/gif",
+      "width": 1360,
+      "height": 907,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\015-PG_CS_Collateral_Passport_02.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5661ca48b9fd27e94810f89b2e12490f80b22261-1360x906.jpg",
+      "filename": "PG_CS_Collateral_Tape_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\016-PG_CS_Collateral_Tape_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/477ff2cb2b6f05125d413595fb0380f900a3042d-1360x906.jpg",
+      "filename": "PG_CS_Collateral_Tote_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\017-PG_CS_Collateral_Tote_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e2cda29f4f4aa9bf2b6784f46faadc7c4eeb5ffa-1360x906.jpg",
+      "filename": "PG_CS_Collateral_Welcome-Bundle_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 906,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\018-PG_CS_Collateral_Welcome-Bundle_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/52b52a358a5134784a3affa0f7e96fc1a7cd2513-1194x797.gif",
+      "filename": "PG_CS_Envelope_01.gif",
+      "mimeType": "image/gif",
+      "width": 1194,
+      "height": 797,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\019-PG_CS_Envelope_01.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b2b72b8dd69d913f145257cb2ef03314eddd7c4-2560x1765.jpg",
+      "filename": "PG_CS_PackagingSuite_01-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1765,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\020-PG_CS_PackagingSuite_01-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/efed297019e18c1079f6fde0bb98de04eb9a4376-2560x1685.jpg",
+      "filename": "PG_CS_StickersEnvelopes_Stacked-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1685,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\021-PG_CS_StickersEnvelopes_Stacked-1-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69a23b86fadce89035fe7079de8efd068ba89e13-2560x1558.jpg",
+      "filename": "PG_CS_WelcomeLetter_02-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1558,
+      "localPath": "archive\\brandarchive\\identities\\pot-gang\\assets\\022-PG_CS_WelcomeLetter_02-1-scaled.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/866e175dcfc10f5c7f7b32c4668d9309328e6e54.mp4",
+      "filename": "file.mp4 (720p)-3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "fa10a1db-79ad-4423-8727-a5259a413cb3",
+  "detail": {
+    "title": "Pot Gang",
+    "designersText": "Land of Plenty",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#398E91",
+        "rgb": "57, 142, 145",
+        "cmyk": "61, 2, 0, 43"
+      },
+      {
+        "hex": "#E3FF3B",
+        "rgb": "227, 255, 59",
+        "cmyk": "11, 0, 77, 0"
+      },
+      {
+        "hex": "#EAB5FF",
+        "rgb": "234, 181, 255",
+        "cmyk": "8, 29, 0, 0"
+      },
+      {
+        "hex": "#F3F3E6",
+        "rgb": "243, 243, 230",
+        "cmyk": "0, 0, 5, 5"
+      }
+    ],
+    "typeText": "Designer: sIan PartySwiss Typefaces Released: 2011 Foundry: Swiss Typefaces",
+    "korean": {
+      "브랜드명": "Pot Gang",
+      "디자이너": "Land of Plenty",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#398E91",
+          "rgb": "57, 142, 145",
+          "cmyk": "61, 2, 0, 43"
+        },
+        {
+          "hex": "#E3FF3B",
+          "rgb": "227, 255, 59",
+          "cmyk": "11, 0, 77, 0"
+        },
+        {
+          "hex": "#EAB5FF",
+          "rgb": "234, 181, 255",
+          "cmyk": "8, 29, 0, 0"
+        },
+        {
+          "hex": "#F3F3E6",
+          "rgb": "243, 243, 230",
+          "cmyk": "0, 0, 5, 5"
+        }
+      ],
+      "서체정보": "Designer: sIan PartySwiss Typefaces Released: 2011 Foundry: Swiss Typefaces",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

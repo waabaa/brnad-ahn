@@ -1,0 +1,116 @@
+{
+  "source": "brandarchive",
+  "name": "The London Crisp Co.",
+  "slug": "the-london-crisp-co.",
+  "url": "https://brandarchive.xyz/identity/the-london-crisp-co.",
+  "year": 2015,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by B&B Studio",
+    "slug": "designed-by-B&B-studio"
+  },
+  "designers": [
+    "B&B Studio"
+  ],
+  "assetCount": 8,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7b0ceca9902d92a0e7f5e0a1e082fe7154dc64e-900x600.jpg",
+      "filename": "12-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\001-12-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/200bcc3e42b3aafeb5875ccc69ab34f1579bb9fc-900x636.jpg",
+      "filename": "02-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\002-02-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c55f579b79e4da5b5a970ed88bfa93edbf183f3f-900x636.jpg",
+      "filename": "03-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\003-03-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1770999898224b6f84e16dfa61d5210c61d0a317-900x636.jpg",
+      "filename": "04-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\004-04-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/356596fc7c580ef00d23e2c6a772bd38fd67b443-900x637.jpg",
+      "filename": "08-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 637,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\005-08-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/71aa1f300f59f54198d1197398371b893c54e555-900x636.jpg",
+      "filename": "05-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\006-05-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be39d92e82987851c38229d8cc75d669aa8a5a63-900x636.jpg",
+      "filename": "06-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 636,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\007-06-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d095040f80921e040fb05b8013e0138a0f7054a5-900x650.jpg",
+      "filename": "01-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 650,
+      "localPath": "archive\\brandarchive\\identities\\the-london-crisp-co\\assets\\008-01-London-Crisp-Co-Packaging-by-BB-Studio-on-BPO.jpg"
+    }
+  ],
+  "rawId": "identity63216",
+  "detail": {
+    "title": "The London Crisp Co.",
+    "designersText": "B&B Studio",
+    "yearText": "2015",
+    "tagsText": "",
+    "sections": [
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "The London Crisp Co.",
+      "디자이너": "B&B Studio",
+      "연도": "2015",
+      "태그": "",
+      "섹션": [
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

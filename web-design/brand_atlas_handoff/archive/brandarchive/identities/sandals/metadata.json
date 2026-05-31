@@ -1,0 +1,408 @@
+{
+  "source": "brandarchive",
+  "name": "Sandals",
+  "slug": "sandals",
+  "url": "https://brandarchive.xyz/identity/sandals",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Wolff Olins",
+    "slug": "wolff-olins"
+  },
+  "designers": [
+    "Wolff Olins"
+  ],
+  "assetCount": 42,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fd433a7ef5d3282dffa07014e83763fde5e0a5aa-5000x2900.jpg",
+      "filename": "S1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\001-S1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7caca1566770df3e15efc7ebf53e29daa728ce67-5000x2900.jpg",
+      "filename": "S4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\002-S4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/003dabcd638df7bb878e0ab10922dd8d3a0c2bda-5000x2900.jpg",
+      "filename": "S3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5000,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\003-S3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/48c8e8f2af33edbd565b4cc6ceb26aecf823b1e2-1888x1258.jpg",
+      "filename": "7a25a38ed38d4b9ce8144d1e33fc336fdc11bd90_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1258,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\004-7a25a38ed38d4b9ce8144d1e33fc336fdc11bd90_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0a34de3fb819a0bbf6cb888c319513df16265d3b-1500x1000.jpg",
+      "filename": "09_Sandals_Type_KeyVisual.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\005-09_Sandals_Type_KeyVisual.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fa7d8ee95ca0bd11ece551274af89350f009b925.mp4",
+      "filename": "WolffOlins_SandalsAndBeaches_16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/12849c124c3dada10fd40fe7707959c06f9f2a06.mp4",
+      "filename": "WolffOlins_SandalsAndBeaches_21.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ca379f0aea894d20ccf185284640028fc2e9581b.mp4",
+      "filename": "WolffOlins_SandalsAndBeaches_07.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aee4e6b7f65bd9c842739ed6ce2bb2ee3954036a.mp4",
+      "filename": "a1173bb4426dad2c6f07a9a167e15c03828553ec.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3812f7c2271a0026d48b72c3df2e84f131c50c24-1888x1258.jpg",
+      "filename": "75fff2f24d80452926dbd9f7a6af5360410f86f4_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1258,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\006-75fff2f24d80452926dbd9f7a6af5360410f86f4_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/15ed25378b3f2f9f57d6fe614f960d35282abb0d-1500x1000.jpg",
+      "filename": "15_Sandals_WayfindingTotem.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\007-15_Sandals_WayfindingTotem.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d7cd2a350b405b38c127ad88828de2e0fb860d7-1500x1000.jpg",
+      "filename": "16_Sandals_WayfindingWall.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\008-16_Sandals_WayfindingWall.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4fd123ebf82ac2f0edfe7b58f2d7abcaba48b4de-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_18.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\009-WolffOlins_SandalsAndBeaches_18.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a507ac754aead566a78f7952a95f53186c68781-1888x1258.jpg",
+      "filename": "0daa7f2ecd65326d7992db87be8f96843976e87c_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1258,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\010-0daa7f2ecd65326d7992db87be8f96843976e87c_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7c7b721e4de024caf149d0ca3f4d0ca9507098a9-1501x1000.jpg",
+      "filename": "21_SB_BookSpreads.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1501,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\011-21_SB_BookSpreads.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/219dc4b8067578790fc924bd21702f71d1646da7-1501x1000.jpg",
+      "filename": "24_Sandals_OOH.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1501,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\012-24_Sandals_OOH.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e293dc492903adb548c26d69908d4ff54cd46d7f-1888x1258.jpg",
+      "filename": "c4e11003cb9fbcce1b670aa264fe8ec3414265e6_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1258,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\013-c4e11003cb9fbcce1b670aa264fe8ec3414265e6_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3228f5306cbc7c6c49f9d2b83cef5ae1742d6ce4-1888x1257.jpg",
+      "filename": "ce2eb1a2a75873fd665705174ada83fd44a426a6_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1257,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\014-ce2eb1a2a75873fd665705174ada83fd44a426a6_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f63bed8f53f9ccbb4303fbbadf79972d982866e-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_13.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\015-WolffOlins_SandalsAndBeaches_13.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba78a410cb363ef27a1331b59ef8f1a7879af2d1-1501x1000.jpg",
+      "filename": "22_Sandals_Tote.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1501,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\016-22_Sandals_Tote.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eda6d200747149887df09ced5f42f2305b509634-1888x1258.jpg",
+      "filename": "fd82aea2184e8a5d49c42b493f9913e01a08f97d_1888.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1888,
+      "height": 1258,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\017-fd82aea2184e8a5d49c42b493f9913e01a08f97d_1888.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ecc6acdb7eead4dac798e04e4642e669690d0194-3000x2000.png",
+      "filename": "01.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\018-01.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cdb5ec5a02bcbcbb927ba1c2feae68b4c29be050-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_10.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\019-WolffOlins_SandalsAndBeaches_10.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dda0eb99723fb3120de6f9b4eb828bbdfa82237f-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_12.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\020-WolffOlins_SandalsAndBeaches_12.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ad88e0aa7916bce792ba3a5f055aeff1e70d4c25-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_15.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\021-WolffOlins_SandalsAndBeaches_15.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/76d5290e2671abf6c411e1dbea853ee1af16613c-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_19.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\022-WolffOlins_SandalsAndBeaches_19.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d39e6ed3e2305426babbc819308415b3f3083c9-1466x1953.png",
+      "filename": "WolffOlins_SandalsAndBeaches_23.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1953,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\023-WolffOlins_SandalsAndBeaches_23.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37e55e8d1b6ed185e9606970d212504797dde4e0-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_26.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\024-WolffOlins_SandalsAndBeaches_26.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7c1cc756e2cfc258f9d5f28c72a4e1877714caed-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_27.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\025-WolffOlins_SandalsAndBeaches_27.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/797802b96b16565489bae9f7bc53d3951230d5df-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_29.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\026-WolffOlins_SandalsAndBeaches_29.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/36b4ce1e5ccae3dcb1dc663eb97e66aa4da1cee8-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_30.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\027-WolffOlins_SandalsAndBeaches_30.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35bb5fa148ddadd796999e6a23f1ed2713021698-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_32.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\028-WolffOlins_SandalsAndBeaches_32.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a1570d02af578f4144cd9ed0def2f78c6d3c0ee-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_08.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\029-WolffOlins_SandalsAndBeaches_08.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a75ca6b67ba27c139f175fb46ae90391cbb8009c-3000x2000.png",
+      "filename": "WolffOlins_SandalsAndBeaches_05.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\030-WolffOlins_SandalsAndBeaches_05.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77b6cf2cb37dc7f66b55cbaddc1f1687a0edaf0f-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_06.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\031-WolffOlins_SandalsAndBeaches_06.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e71bc59c3effa8f7ccaabcab4d12a2a7948ca8ba-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_14.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\032-WolffOlins_SandalsAndBeaches_14.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/16d9651973fc6871c536ef41d6427cd606bdc550-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_17.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\033-WolffOlins_SandalsAndBeaches_17.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1923752c7a419165692516b28fa0bb792f080e4c-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_20.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\034-WolffOlins_SandalsAndBeaches_20.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/677a3bfba41babdc259bd6c21e21e02d89ad2294-1466x1955.png",
+      "filename": "WolffOlins_SandalsAndBeaches_24.png",
+      "mimeType": "image/png",
+      "width": 1466,
+      "height": 1955,
+      "localPath": "archive\\brandarchive\\identities\\sandals\\assets\\035-WolffOlins_SandalsAndBeaches_24.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7cf5a08f68ea8df4dd5b764c1ee3a6c0f4f2e641.mp4",
+      "filename": "19_SB_Social_Motion.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dd07e8156e3522a6fd8aebf71af6677c51daf319.mp4",
+      "filename": "79c1f801f779366edab26acf92ace3583072b4d3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d52d4e43aad08482ed213bc5cad9e11d275a502d.mp4",
+      "filename": "WolffOlins_SandalsAndBeaches_25.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "2f78767a-6aac-4723-802a-772abfe6aa2e",
+  "detail": {
+    "title": "Sandals",
+    "designersText": "Wolff Olins",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 42 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Sandals",
+      "디자이너": "Wolff Olins",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 42 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "source": "brandarchive",
+  "name": "*ouch*",
+  "slug": "ouch-burgers",
+  "url": "https://brandarchive.xyz/identity/ouch-burgers",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Burger Branding",
+    "slug": "burger-branding-packaging"
+  },
+  "designers": [
+    "Oker"
+  ],
+  "assetCount": 31,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/961f00b7b93ffdddcb243fa71d9196e66f081fa8-1170x666.jpg",
+      "filename": "Screenshot 2025-12-23 at 12.32.51 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1170,
+      "height": 666,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\001-Screenshot-2025-12-23-at-12.32.51-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b7b4db6cf324dbb97b9789ef5b19e77b2c3ea345-1920x2560.png",
+      "filename": "ouch_fallingboxes.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\002-ouch_fallingboxes.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bdcc3d15c723660b0a6eea41cf82480571ef5c86-2560x1920.webp",
+      "filename": "ouch_holding_burger_03-1.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\003-ouch_holding_burger_03-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c4277a487ad6d4c42e9a534a3a29f7a0c6094abf-1920x2560.webp",
+      "filename": "ouch_tossing_fries_01-1.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\004-ouch_tossing_fries_01-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/25ba866eeb14f0dd247fb2cde7d928a75ed5a938-1920x2560.webp",
+      "filename": "ouch_illustration_01.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\005-ouch_illustration_01.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/975ef8d58d46365334ad7a562a5fb09b91852a2b-1896x2560.webp",
+      "filename": "ouch_illustration_02-scaled.webp",
+      "mimeType": "image/webp",
+      "width": 1896,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\006-ouch_illustration_02-scaled.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a67ff6ed8c975d2f240ffe756891593b84b6008-1920x2560.webp",
+      "filename": "ouch_illustration_03.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\007-ouch_illustration_03.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0eb37a8cfc5424baa5af4d30be5133df63be0f2c-1920x2560.webp",
+      "filename": "ouch_illustration_04.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\008-ouch_illustration_04.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8755b8ab4523d6c4a6ed5c02518a4261cb09da47-1920x2560.webp",
+      "filename": "ouch_illustration_05.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\009-ouch_illustration_05.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e424471269a9775e255cba80b45810abebfaf38e-2560x1920.webp",
+      "filename": "ouch_illustration_6.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\010-ouch_illustration_6.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7416d1a3983a6f6ac3ee8c37fc9b3efa1873c466.mp4",
+      "filename": "file.mp4 (2160p)-3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2abd168f4000cb5c380485e87897c935e387cef5.mp4",
+      "filename": "file.mp4 (2160p)-4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/58e9546e930b2a61efaf9d01d98ac1a33ee601df.mp4",
+      "filename": "file.mp4 (2160p).mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1ba58f8ad91950f30546f3bd0c9b15900a66ce9a-2560x1920.webp",
+      "filename": "ouch_burger_wrapped_02.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\011-ouch_burger_wrapped_02.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1dd135a076f6ff2be62c00d18a3d7a953672c80e-1920x2560.png",
+      "filename": "ouch_fries_alt_02.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\012-ouch_fries_alt_02.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9145b5b96df9405b498e74ed2cfca4dabf57ad8f-1080x1350.jpg",
+      "filename": "ouch_menu_tray_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\013-ouch_menu_tray_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5cab7925fa9781a01272aacbcf50da75776503c6-2560x1920.webp",
+      "filename": "ouch_sauces_01-cropped.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\014-ouch_sauces_01-cropped.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7552ce4b8f2217b5c677379905ca85de490955e5-1862x2498.webp",
+      "filename": "ouch_take_away_01-1.webp",
+      "mimeType": "image/webp",
+      "width": 1862,
+      "height": 2498,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\015-ouch_take_away_01-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ede1234ddc6116bdf9b6ef8152290490a972f45-1441x1921.png",
+      "filename": "ouch_take-away_bag_01.png",
+      "mimeType": "image/png",
+      "width": 1441,
+      "height": 1921,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\016-ouch_take-away_bag_01.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d66276669ec61643ab2b2d33a52003bd22b9790b-1441x1921.webp",
+      "filename": "Oker_Ouch-2_retouch-copy-1.webp",
+      "mimeType": "image/webp",
+      "width": 1441,
+      "height": 1921,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\017-Oker_Ouch-2_retouch-copy-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/580bf699fd38d71fe0839e93c9e9c66740d5f851-1920x2560.jpg",
+      "filename": "ouch_a-frame_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\018-ouch_a-frame_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1a20749401aa05bf45bccc7a33e4a05849d37f6-2560x1920.webp",
+      "filename": "ouch_exterior_signage_01.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\019-ouch_exterior_signage_01.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2fdda38238abf29648f0ea6e7ac1d9114063e656-1920x2560.png",
+      "filename": "ouch_fries_dip_01.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\020-ouch_fries_dip_01.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7e286dc6b7f83083e67d683ed9645b14bd13550-1920x2560.webp",
+      "filename": "ouch_merch_02.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\021-ouch_merch_02.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f6bc51771955181cb3d5508d7a48107fbe3e8465-1920x2560.webp",
+      "filename": "ouch_tshirtback-1.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\022-ouch_tshirtback-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ab9d2191e730c55497a131172fd02b62a8baa928-1920x2560.webp",
+      "filename": "ouch_napkins_01.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\023-ouch_napkins_01.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/02e931b0594fa4eca715a3ac7b82838208003caf-1920x2560.webp",
+      "filename": "ouch_menu_01.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\024-ouch_menu_01.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/45dbad11196532e92017772b3d993c219b1c7990-2560x1920.webp",
+      "filename": "ouch_menu_02-1.webp",
+      "mimeType": "image/webp",
+      "width": 2560,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\025-ouch_menu_02-1.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/49fc1e87dab153bd2d3f0e918537108f429141a8.mp4",
+      "filename": "file.mp4 (1440p)-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0c5549bd29d372225501e1e1e8666fc1e3dbf5c1.mp4",
+      "filename": "file.mp4 (2160p)-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/af63a2d7db65305e25e2090044fe4f84db978e70-1920x2560.webp",
+      "filename": "ouch_milkshake_order_01.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\ouch-burgers\\assets\\026-ouch_milkshake_order_01.webp"
+    }
+  ],
+  "rawId": "6f36c170-db28-4349-a440-b7096dd348f2",
+  "detail": {
+    "title": "*ouch*",
+    "designersText": "Oker",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 31 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "*ouch*",
+      "디자이너": "Oker",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 31 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

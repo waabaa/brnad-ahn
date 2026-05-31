@@ -1,0 +1,148 @@
+{
+  "source": "brandarchive",
+  "name": "Yoloh",
+  "slug": "yoloh",
+  "url": "https://brandarchive.xyz/identity/yoloh",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "From the United Kingdom",
+    "slug": "from-the-uk"
+  },
+  "designers": [
+    "Taxi Studio"
+  ],
+  "assetCount": 14,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/730b9c2b386d8b2da93eb7a9a823cf52de8be6eb-4200x2500.png",
+      "filename": "101ece21-846e-4257-a71b-ad82fd4385ff.png",
+      "mimeType": "image/png",
+      "width": 4200,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\yoloh\\assets\\001-101ece21-846e-4257-a71b-ad82fd4385ff.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f32adaa0755af2c9dad8b9d8fb3012b9747216d-4200x2500.png",
+      "filename": "101ece21-846e-4257-a71b-ad82fd4385ff coy.png",
+      "mimeType": "image/png",
+      "width": 4200,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\yoloh\\assets\\002-101ece21-846e-4257-a71b-ad82fd4385ff-coy.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/61062086b2397cf462c1ae830a8ed6b6b40680a1-4200x2500.png",
+      "filename": "101ece21-846e-4257-a71b-ad82fd4385ff cpy.png",
+      "mimeType": "image/png",
+      "width": 4200,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\yoloh\\assets\\003-101ece21-846e-4257-a71b-ad82fd4385ff-cpy.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/73236201e48b999aacb98c06e5082ced9a06e060.mp4",
+      "filename": "852d1832-2bbe-41f8-9685-f43493924e0c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4c36b42d7138768b9d365a10068be252530be61e.mp4",
+      "filename": "ea04791c-4e13-426d-bc66-7f65b69d874c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f086443e9592655ad9791cb2e7ed6be6315f6309.mp4",
+      "filename": "9ef898d4-2a16-4dda-86c9-260712d36adf.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/380ef085835f175b0842204b7e68bc3883e91028.mp4",
+      "filename": "5a69b04d-3ea8-458d-b47e-7e05a5a2a96c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/23722f7efc6c16fa709193ad94466050667aae19.mp4",
+      "filename": "1daaa890-e3a7-4f41-9daa-5d94efa985c4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/66d403efc7a9431aaf993cb0579d5dd70bf9554b.mp4",
+      "filename": "6ee12db6-6905-44a7-99e2-4ef90f49c4e9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8cdfa6ecc6c49eb6885a31a5d68aaec1e66cfe03.mp4",
+      "filename": "35b8162d-518e-47e4-8d65-aa9088c077fa.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/84ef0c7507065b5ed780fa0522e3ca12967bb2f3.mp4",
+      "filename": "38f15656-fb8d-498b-b534-7dac4c48fefe.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4ddd4957d0b22caa6572050854a9f5cf93377dc8.mp4",
+      "filename": "57f8862a-cb39-4676-a758-3d57d74624a8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1a4c62eb5c99941dd11a6db370953e23730c6be9.mp4",
+      "filename": "80ae3b41-860b-4ae6-8efa-0df064247cff.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dba9f9e13ccfda682ab1fa6b2a8b8be19900fe0f.mp4",
+      "filename": "b5f37a17-b1d6-4570-9f52-789cfe4d421a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "5103e5a6-4ea6-4c8f-a3ab-b41b7cb36d38",
+  "detail": {
+    "title": "Yoloh",
+    "designersText": "Taxi Studio",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 14 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Yoloh",
+      "디자이너": "Taxi Studio",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 14 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

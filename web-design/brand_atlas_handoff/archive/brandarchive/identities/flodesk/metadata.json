@@ -1,0 +1,397 @@
+{
+  "source": "brandarchive",
+  "name": "Flodesk",
+  "slug": "flodesk",
+  "url": "https://brandarchive.xyz/identity/flodesk",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "DIA"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a8f0e13611d42787213ce621efae78d9f54a038-1202x814.jpg",
+      "filename": "Logo-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1202,
+      "height": 814,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\001-Logo-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2c87037f6bf02065fb24357d07d17d8e8e78f77b-1202x814.jpg",
+      "filename": "Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1202,
+      "height": 814,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\002-Logo.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/441070e8ff79e7273179c3fc4e222b8760140914.mp4",
+      "filename": "Flodesk_Logotype-vimeo-854350228-hls-google_mediacdn_sep-35.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c905c529f06a237bf0f01e9f2f241b704231f09f.mp4",
+      "filename": "Flodesk_Type-vimeo-854718049-hls-google_mediacdn_sep-1220.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3023194ce9c0b11a19515d3ab1f14899fe3a2a74.mp4",
+      "filename": "Flodesk_Typefaces_01-vimeo-854335477-hls-google_mediacdn_sep-679.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3b84c44e26af30675bde6466b28356173976c6d8.mp4",
+      "filename": "Flodesk_Typefaces_03-vimeo-854344628-hls-google_mediacdn_sep-609.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/47f56f819f0f67450fbb3c052c7f33f4088ac94c.mp4",
+      "filename": "Flodesk_Typefaces-vimeo-854334760-hls-google_mediacdn_sep-338.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aecaf3c0a13b70dc4005ddff38dd373cd8f37b0a.mp4",
+      "filename": "Flodesk_Typefaces-vimeo-854765268-hls-google_mediacdn_sep-933.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ebb3957499e2879da47fe4aaa3c724e354fd22dd.mp4",
+      "filename": "Flodesk_Print-vimeo-854406021-hls-google_mediacdn_sep-4704.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96cd89a76d629ecb18f1948ded91cb7234335b34-1920x1080.jpg",
+      "filename": "Flodesk_Box.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\003-Flodesk_Box.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7029f61baba4185a81b108a331fe3f28c066afef-1920x1080.jpg",
+      "filename": "Flodesk_Sticker.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\004-Flodesk_Sticker.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/16232b4857065a7169a0958f7724ed1a1ec4eb1b-1920x1080.jpg",
+      "filename": "Flodesk_OOH.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\005-Flodesk_OOH.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/54d937824a2679bc9f1f85efd1eefd31c57c7198-1920x1080.jpg",
+      "filename": "Flodesk_Poster.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\006-Flodesk_Poster.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f4d0a863dd858db6c57ad09611a16192e3306f54.mp4",
+      "filename": "Flodesk_Ads_02-vimeo-856669809-hls-google_mediacdn_sep-3016.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7ee48d07d506976cd3b2bc0d8a5d69091bb0969c.mp4",
+      "filename": "Flodesk_Ads-vimeo-854710002-hls-google_mediacdn_sep-1071.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ebbd436ad837adfbc78f0a0865368732b1199442-1920x1080.jpg",
+      "filename": "Flodesk_Hat.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\007-Flodesk_Hat.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1e02067180adb01841a1000d5685a8284eed8db3-1920x1080.jpg",
+      "filename": "Flodesk_Tote.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\flodesk\\assets\\008-Flodesk_Tote.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bd5d1c753de9b6b9263085adf3b77eb52c1da4cf.mp4",
+      "filename": "Flodesk_Concept-vimeo-854699224-hls-google_mediacdn_sep-397.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bd997dd3742bb5120b07885fbc59c1e6572ba214.mp4",
+      "filename": "Flodesk_Concept2-vimeo-854701279-hls-google_mediacdn_sep-335.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/71a5f21bc40202ac08c38934fecc0d83dc48999e.mp4",
+      "filename": "Flodesk_Shapes_02-vimeo-854704108-hls-google_mediacdn_sep-679.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b485f642571b5a1927a2741a0a38d695ac06f3f5.mp4",
+      "filename": "Flodesk_Transition_System_01-vimeo-854389896-hls-google_mediacdn_sep-2114.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fbd213a134355af9220d18d01f6f3d6f9db78a4d.mp4",
+      "filename": "Flodesk_Transition_System_02-vimeo-854390306-hls-google_mediacdn_sep-1040.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ac0de72ff6460c9042ad97c65621edf2ab7ae06f.mp4",
+      "filename": "Flodesk_Transition-vimeo-854707548-hls-google_mediacdn_sep-368.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/64e7880a532e12746e6cdcfafb49ef6eb10154c9.mp4",
+      "filename": "Flodesk_Social_System-vimeo-854346782-hls-google_mediacdn_sep-3877.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2aa67fb42ca1f1555d1810100094d36ccee3241d.mp4",
+      "filename": "Flodesk_MarketingSite_Scroll_35s-vimeo-854350588-hls-google_mediacdn_sep-2377.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "d59971b6-a2a3-4f2b-b4d0-ac351df90e8b",
+  "detail": {
+    "title": "Flodesk",
+    "designersText": "DIA",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "Uncategorised",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#1E1613",
+        "rgb": "30, 22, 19",
+        "cmyk": "0, 27, 37, 88"
+      },
+      {
+        "hex": "#FCFBF9",
+        "rgb": "252, 251, 249",
+        "cmyk": "0, 0, 1, 1"
+      },
+      {
+        "hex": "#91ADA7",
+        "rgb": "145, 173, 167",
+        "cmyk": "16, 0, 3, 32"
+      },
+      {
+        "hex": "#BF4D4A",
+        "rgb": "191, 77, 74",
+        "cmyk": "0, 60, 61, 25"
+      },
+      {
+        "hex": "#E1AE41",
+        "rgb": "225, 174, 65",
+        "cmyk": "0, 23, 71, 12"
+      },
+      {
+        "hex": "#BE684C",
+        "rgb": "190, 104, 76",
+        "cmyk": "0, 45, 60, 25"
+      },
+      {
+        "hex": "#AAC0C8",
+        "rgb": "170, 192, 200",
+        "cmyk": "15, 4, 0, 22"
+      },
+      {
+        "hex": "#CDC973",
+        "rgb": "205, 201, 115",
+        "cmyk": "0, 2, 44, 20"
+      },
+      {
+        "hex": "#968B74",
+        "rgb": "150, 139, 116",
+        "cmyk": "0, 7, 23, 41"
+      },
+      {
+        "hex": "#B67699",
+        "rgb": "182, 118, 153",
+        "cmyk": "0, 35, 16, 29"
+      },
+      {
+        "hex": "#CE7904",
+        "rgb": "206, 121, 4",
+        "cmyk": "0, 41, 98, 19"
+      },
+      {
+        "hex": "#50818F",
+        "rgb": "80, 129, 143",
+        "cmyk": "44, 10, 0, 44"
+      },
+      {
+        "hex": "#D6B0B2",
+        "rgb": "214, 176, 178",
+        "cmyk": "0, 18, 17, 16"
+      },
+      {
+        "hex": "#9E3B02",
+        "rgb": "158, 59, 2",
+        "cmyk": "0, 63, 99, 38"
+      },
+      {
+        "hex": "#C4736E",
+        "rgb": "196, 115, 110",
+        "cmyk": "0, 41, 44, 23"
+      }
+    ],
+    "typeText": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:05Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:05 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:07Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:07 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:04Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:04 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:04Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:04 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:12Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:12 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Flodesk",
+      "디자이너": "DIA",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "Uncategorised",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#1E1613",
+          "rgb": "30, 22, 19",
+          "cmyk": "0, 27, 37, 88"
+        },
+        {
+          "hex": "#FCFBF9",
+          "rgb": "252, 251, 249",
+          "cmyk": "0, 0, 1, 1"
+        },
+        {
+          "hex": "#91ADA7",
+          "rgb": "145, 173, 167",
+          "cmyk": "16, 0, 3, 32"
+        },
+        {
+          "hex": "#BF4D4A",
+          "rgb": "191, 77, 74",
+          "cmyk": "0, 60, 61, 25"
+        },
+        {
+          "hex": "#E1AE41",
+          "rgb": "225, 174, 65",
+          "cmyk": "0, 23, 71, 12"
+        },
+        {
+          "hex": "#BE684C",
+          "rgb": "190, 104, 76",
+          "cmyk": "0, 45, 60, 25"
+        },
+        {
+          "hex": "#AAC0C8",
+          "rgb": "170, 192, 200",
+          "cmyk": "15, 4, 0, 22"
+        },
+        {
+          "hex": "#CDC973",
+          "rgb": "205, 201, 115",
+          "cmyk": "0, 2, 44, 20"
+        },
+        {
+          "hex": "#968B74",
+          "rgb": "150, 139, 116",
+          "cmyk": "0, 7, 23, 41"
+        },
+        {
+          "hex": "#B67699",
+          "rgb": "182, 118, 153",
+          "cmyk": "0, 35, 16, 29"
+        },
+        {
+          "hex": "#CE7904",
+          "rgb": "206, 121, 4",
+          "cmyk": "0, 41, 98, 19"
+        },
+        {
+          "hex": "#50818F",
+          "rgb": "80, 129, 143",
+          "cmyk": "44, 10, 0, 44"
+        },
+        {
+          "hex": "#D6B0B2",
+          "rgb": "214, 176, 178",
+          "cmyk": "0, 18, 17, 16"
+        },
+        {
+          "hex": "#9E3B02",
+          "rgb": "158, 59, 2",
+          "cmyk": "0, 63, 99, 38"
+        },
+        {
+          "hex": "#C4736E",
+          "rgb": "196, 115, 110",
+          "cmyk": "0, 41, 44, 23"
+        }
+      ],
+      "서체정보": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:05Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:05 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:07Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:07 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:04Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:04 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:04Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:04 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:12Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:12 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

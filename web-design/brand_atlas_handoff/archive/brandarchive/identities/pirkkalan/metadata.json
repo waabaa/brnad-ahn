@@ -1,0 +1,256 @@
+{
+  "source": "brandarchive",
+  "name": "Pirkkalan",
+  "slug": "pirkkalan",
+  "url": "https://brandarchive.xyz/identity/pirkkalan",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Werklig",
+    "slug": "designed-by-werklig"
+  },
+  "designers": [
+    "Werklig"
+  ],
+  "assetCount": 18,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b9059f35ef682db53c0c172f2db79f67b8283c9b-1244x887.jpg",
+      "filename": "9b2bac164223577.63f37d2e9289f 2 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1244,
+      "height": 887,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\001-9b2bac164223577.63f37d2e9289f-2-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0322ec6aa5e42c48d884f055568e02b9757688ac-1586x1080.jpg",
+      "filename": "7e3802164223577.63f37d2e9380a copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1586,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\002-7e3802164223577.63f37d2e9380a-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fc778f0cdfdff3dcc7a092806e2a813bc0d23196-2800x1575.jpg",
+      "filename": "0d69b1164223577.63f37d2e91742.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 1575,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\003-0d69b1164223577.63f37d2e91742.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/155806888c556f1f7a6f73bb87efd90073accc91-1920x1080.gif",
+      "filename": "7e3802164223577.63f37d2e9380a.gif",
+      "mimeType": "image/gif",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\004-7e3802164223577.63f37d2e9380a.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/72fcbc7c518bb159640600897fdbf22ce0e43b78-1920x1080.gif",
+      "filename": "9b2bac164223577.63f37d2e9289f.gif",
+      "mimeType": "image/gif",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\005-9b2bac164223577.63f37d2e9289f.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/49c1100679661e4b8851ae5370df5a97cee74c1e-2800x4200.jpg",
+      "filename": "13515b164223577.63f37d22b0471.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\006-13515b164223577.63f37d22b0471.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f416218594c70e2140c27085771580c66e8c60ba-2800x4200.jpg",
+      "filename": "68986c164223577.63f37d2643384.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\007-68986c164223577.63f37d2643384.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8218dcaa45f00bf0169d963b35a68cccaed54307-2800x4199.jpg",
+      "filename": "f590ea164223577.63f37d24b3949.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4199,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\008-f590ea164223577.63f37d24b3949.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5a7b1f86d6436894a338868292d8218e346544c-2800x4200.jpg",
+      "filename": "049446164223577-1.63f37d2c4c276.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\009-049446164223577-1.63f37d2c4c276.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8c4ddd889e3096af3f2a238cbe919dfd6893de7-2800x4200.jpg",
+      "filename": "641870164223577.63f387eb53a35.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\010-641870164223577.63f387eb53a35.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6eeec4b62f1d8a0fe40c385a49ac11a8b5db148e-2800x4201.jpg",
+      "filename": "a558d4164223577.63f387eb559fb.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4201,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\011-a558d4164223577.63f387eb559fb.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a58e9bfbe22f4975947586b97daa4dd2daaf985e-2800x4200.jpg",
+      "filename": "be44e1164223577.63f37d29e3e41.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\012-be44e1164223577.63f37d29e3e41.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/44a6b9084e84b36f8a6622758059b77032917bf5-2800x4201.jpg",
+      "filename": "e6dc21164223577.63f387eb57481.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4201,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\013-e6dc21164223577.63f387eb57481.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/10fdd58a4287f8929da51a560ad068e4996935d4-2800x4200.jpg",
+      "filename": "1d5750164223577.63f37d29e4dd6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\014-1d5750164223577.63f37d29e4dd6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/32c7b533bbecfbc14649b0fca0ec1b5cc399eecf-2800x4199.jpg",
+      "filename": "86664c164223577.63f37d24b2403.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4199,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\015-86664c164223577.63f37d24b2403.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d1e70489768f578e0e6c9f8271271a3cabee56a3-1200x1800.jpg",
+      "filename": "173e61164223577.63f37d22af292.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\016-173e61164223577.63f37d22af292.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/121b43c98f772b6b2e0e8ac17566c6bbc07cff36-2800x4200.jpg",
+      "filename": "f6a345164223577.63f37d264455c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\017-f6a345164223577.63f37d264455c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fee453ef101ce4abaf5bd22bb0d0f90292608ad2-2800x4200.jpg",
+      "filename": "221ec2164223577.63f37d2c4d2bf.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 4200,
+      "localPath": "archive\\brandarchive\\identities\\pirkkalan\\assets\\018-221ec2164223577.63f37d2c4d2bf.jpg"
+    }
+  ],
+  "rawId": "c960e5c7-078e-4700-9036-956d3b3b2301",
+  "detail": {
+    "title": "Pirkkalan",
+    "designersText": "Werklig",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      },
+      {
+        "hex": "#202020",
+        "rgb": "32, 32, 32",
+        "cmyk": "0, 0, 0, 87"
+      },
+      {
+        "hex": "#FAF5E6",
+        "rgb": "250, 245, 230",
+        "cmyk": "0, 2, 8, 2"
+      },
+      {
+        "hex": "#33269B",
+        "rgb": "51, 38, 155",
+        "cmyk": "67, 75, 0, 39"
+      }
+    ],
+    "typeText": "Designer: Jérémy Schneider Released: 2019 Foundry: VJ-TypeDesigner: Hamish Makgill Released: 2021 Foundry: Colophon",
+    "korean": {
+      "브랜드명": "Pirkkalan",
+      "디자이너": "Werklig",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        },
+        {
+          "hex": "#202020",
+          "rgb": "32, 32, 32",
+          "cmyk": "0, 0, 0, 87"
+        },
+        {
+          "hex": "#FAF5E6",
+          "rgb": "250, 245, 230",
+          "cmyk": "0, 2, 8, 2"
+        },
+        {
+          "hex": "#33269B",
+          "rgb": "51, 38, 155",
+          "cmyk": "67, 75, 0, 39"
+        }
+      ],
+      "서체정보": "Designer: Jérémy Schneider Released: 2019 Foundry: VJ-TypeDesigner: Hamish Makgill Released: 2021 Foundry: Colophon",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

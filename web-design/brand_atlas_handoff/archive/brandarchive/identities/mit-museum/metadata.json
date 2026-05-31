@@ -1,0 +1,521 @@
+{
+  "source": "brandarchive",
+  "name": "MIT Museum",
+  "slug": "mit-museum",
+  "url": "https://brandarchive.xyz/identity/mit-museum",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "From the USA",
+    "slug": "from-the-usa"
+  },
+  "designers": [
+    "Pentagram"
+  ],
+  "assetCount": 41,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/78081410d6a9d29193c71735d4b41e11b299d780-2999x2000.jpg",
+      "filename": "16_MITM_Wristbands.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2999,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\001-16_MITM_Wristbands.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aa3eac81386c9871a1652e744aac1b9f9ce39cf4-3000x2000.jpg",
+      "filename": "6_MITM_Free-Entry.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\002-6_MITM_Free-Entry.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae1426f5ac74c29fce221cb61be28089f4d1d297-1500x613.jpg",
+      "filename": "a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 613,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\003-a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6193e52b371a9acf3053c128429c8478aa3268cc-1500x650.jpg",
+      "filename": "1_MITM_Logo-Animation-vimeo-870306918-hls-google_mediacdn_sep-187 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 650,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\004-1_MITM_Logo-Animation-vimeo-870306918-hls-google_mediacdn_sep-187-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/acac0d46b7bec505f7ed3c65bf2054d71788c5e4-1000x2236.png",
+      "filename": "1.png",
+      "mimeType": "image/png",
+      "width": 1000,
+      "height": 2236,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\005-1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0a322d60a3909ba45d8c30166685bdf5e5da4f8e-1500x1500.jpg",
+      "filename": "Untitled-1 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\006-Untitled-1-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7abfe28c0e0854dbf3fe160e41f8d280d6e9906d-1500x1500.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\007-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1bcdc8651a064523337dab6f2ea78333badc090f.mp4",
+      "filename": "1_MITM_Logo-Animation-vimeo-870306918-hls-google_mediacdn_sep-187.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba62f167bf62df7fe5cb726846888b7cb008d486-3000x1875.jpg",
+      "filename": "2_MITM_Invites.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\008-2_MITM_Invites.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a83e5522068d0673cd3d02abddf21d4311f9461-3000x2000.jpg",
+      "filename": "3_MITM_Invites.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\009-3_MITM_Invites.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1d65c0c888339d8c839cce0356c67ffd3b5f1d5-3000x2000.jpg",
+      "filename": "8_MITM_Envelopes.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\010-8_MITM_Envelopes.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5e7630b2bdc01323408a97b934bdae363964574e-3000x2000.jpg",
+      "filename": "9_MITM_Wheatpaste.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\011-9_MITM_Wheatpaste.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f68ceb1a758492e4d4b701a31fd72fa2ed168a13-3000x2000.png",
+      "filename": "10_MITM_Newsprint-Adcopy.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\012-10_MITM_Newsprint-Adcopy.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f6363745fcfd323c46429309c66ef5b9daaedd0-3000x2000.jpg",
+      "filename": "14_MITM_Tag.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\013-14_MITM_Tag.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dad4951c5391073652eb3f04d5b18e10c3f16f1b-1500x1875.jpg",
+      "filename": "12B_MITM_Entrance-Sticker.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\014-12B_MITM_Entrance-Sticker.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cf133d60741f128e10290b453d66a8a471e826c7-3000x2000.jpg",
+      "filename": "13_MITM-Pencils.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\015-13_MITM-Pencils.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8254ed91d88d768ff17e8a0643b8923e344246ad-3000x2000.jpg",
+      "filename": "15_MITM_Badge-Set.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\016-15_MITM_Badge-Set.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e590f1a8feaece00b96936e18264060301333713-3000x2000.jpg",
+      "filename": "11_MITM_Elevator.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\017-11_MITM_Elevator.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c884a30866820cb3c2e476c5523b35ebcb70fa12-1500x1875.jpg",
+      "filename": "12A_MITM_Exchange.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\018-12A_MITM_Exchange.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4897f7f47b6ab1554c30dba79b854f7e768211f8-1500x1875.jpg",
+      "filename": "15.5A_MIT_Donor.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\019-15.5A_MIT_Donor.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6a5152a87b2a0fd8f940b298d3bf4e5afb179bf5-1500x1875.jpg",
+      "filename": "15.5B_MIT_Shop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\020-15.5B_MIT_Shop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3a3bad2ebf8e8c8d85bece88aa1ab08261260781-1500x1875.jpg",
+      "filename": "7A_MITM_IG.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\021-7A_MITM_IG.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e54eca0f6be0c558c3d22808266291d51a7b47f4-1500x1875.jpg",
+      "filename": "7B_MITM_IG-Story.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1875,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\022-7B_MITM_IG-Story.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7a5d73ae97d75fd8f70af5a064c6848517a400af-3000x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\023-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d881a7931c18b73dd01a97387b3044be68ca8a48-3000x2000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\024-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e8151ca2543aff6dbd6d8b587606bf10d43cc8fd-3000x2000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\025-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5fb28e9914107e8c483d9b3f002c2c6c71480782-3000x2000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\026-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/23138e1218e41f6ade8512b7c01dbcf6f5db98a5-3000x2000.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\027-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b8d4d0c2c2a1c133e57d30b9100d1e622d6a23e2-3000x2000.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\028-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0dc177b806e1a1dcab4ccffc6fbc2606fdb617bf-3000x2000.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\029-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3c635488e77d6e68d1b722b59df22af5205b3c1-3000x2000.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\030-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c1e727b1089584224aa6bbc0c371bb6b8c4d838c-3000x2000.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\031-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d281cbfe21bca02c9a5af88db55c167f507c338-3000x2000.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\032-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6157b0c21de35865b08303ca040585f589281d9d-3000x2000.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\033-11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/400dbcafe06a662b88f3bbaad668d8fba64aefc1-3000x2000.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\034-12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/794652add1f32e4d5cde90f4db9f1320fbb9ecf4-1328x747.webp",
+      "filename": "image-1.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\035-image-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6186c91314cc50a421fbf6ff6c2545d5634483d6-1328x747.webp",
+      "filename": "image-2.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\036-image-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a2cc2844b24e79f8e454fde70a306e1b0ceacf86-1328x747.webp",
+      "filename": "image-3.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\037-image-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d3e3c4c62c79e90dfd54fc7a2060e02e5a557660-1328x747.webp",
+      "filename": "image-4.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\038-image-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5f884eab3d3a55904d0c8961eb6d30e9688dbd10-1328x747.webp",
+      "filename": "image-5.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\039-image-5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e548f59ff444a05d6f642538c8845f86a3e22a62-1328x747.webp",
+      "filename": "image.webp",
+      "mimeType": "image/webp",
+      "width": 1328,
+      "height": 747,
+      "localPath": "archive\\brandarchive\\identities\\mit-museum\\assets\\040-image.webp"
+    }
+  ],
+  "rawId": "7d225609-2fb4-4401-8ad3-506e537a06a5",
+  "detail": {
+    "title": "MIT Museum",
+    "designersText": "Pentagram",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FEDC14",
+        "rgb": "254, 220, 20",
+        "cmyk": "0, 13, 92, 0"
+      },
+      {
+        "hex": "#FF7D32",
+        "rgb": "255, 125, 50",
+        "cmyk": "0, 51, 80, 0"
+      },
+      {
+        "hex": "#FF4637",
+        "rgb": "255, 70, 55",
+        "cmyk": "0, 73, 78, 0"
+      },
+      {
+        "hex": "#FF40B6",
+        "rgb": "255, 64, 182",
+        "cmyk": "0, 75, 29, 0"
+      },
+      {
+        "hex": "#AA2DDC",
+        "rgb": "170, 45, 220",
+        "cmyk": "23, 80, 0, 14"
+      },
+      {
+        "hex": "#0091FF",
+        "rgb": "0, 145, 255",
+        "cmyk": "100, 43, 0, 0"
+      },
+      {
+        "hex": "#8CE6FF",
+        "rgb": "140, 230, 255",
+        "cmyk": "45, 10, 0, 0"
+      },
+      {
+        "hex": "#008296",
+        "rgb": "0, 130, 150",
+        "cmyk": "100, 13, 0, 41"
+      },
+      {
+        "hex": "#00C82D",
+        "rgb": "0, 200, 45",
+        "cmyk": "100, 0, 77, 22"
+      },
+      {
+        "hex": "#BCFF2A",
+        "rgb": "188, 255, 42",
+        "cmyk": "26, 0, 84, 0"
+      }
+    ],
+    "typeText": "Designer: sChristian SchwartzBerton HasebeEduard HoffmannJack CurryMax Miedinger Released: 2011FoundriesCommercial TypeFont BureauLinotype",
+    "korean": {
+      "브랜드명": "MIT Museum",
+      "디자이너": "Pentagram",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FEDC14",
+          "rgb": "254, 220, 20",
+          "cmyk": "0, 13, 92, 0"
+        },
+        {
+          "hex": "#FF7D32",
+          "rgb": "255, 125, 50",
+          "cmyk": "0, 51, 80, 0"
+        },
+        {
+          "hex": "#FF4637",
+          "rgb": "255, 70, 55",
+          "cmyk": "0, 73, 78, 0"
+        },
+        {
+          "hex": "#FF40B6",
+          "rgb": "255, 64, 182",
+          "cmyk": "0, 75, 29, 0"
+        },
+        {
+          "hex": "#AA2DDC",
+          "rgb": "170, 45, 220",
+          "cmyk": "23, 80, 0, 14"
+        },
+        {
+          "hex": "#0091FF",
+          "rgb": "0, 145, 255",
+          "cmyk": "100, 43, 0, 0"
+        },
+        {
+          "hex": "#8CE6FF",
+          "rgb": "140, 230, 255",
+          "cmyk": "45, 10, 0, 0"
+        },
+        {
+          "hex": "#008296",
+          "rgb": "0, 130, 150",
+          "cmyk": "100, 13, 0, 41"
+        },
+        {
+          "hex": "#00C82D",
+          "rgb": "0, 200, 45",
+          "cmyk": "100, 0, 77, 22"
+        },
+        {
+          "hex": "#BCFF2A",
+          "rgb": "188, 255, 42",
+          "cmyk": "26, 0, 84, 0"
+        }
+      ],
+      "서체정보": "Designer: sChristian SchwartzBerton HasebeEduard HoffmannJack CurryMax Miedinger Released: 2011FoundriesCommercial TypeFont BureauLinotype",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

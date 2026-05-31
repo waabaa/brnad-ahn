@@ -1,0 +1,184 @@
+{
+  "source": "brandarchive",
+  "name": "Betta",
+  "slug": "betta",
+  "url": "https://brandarchive.xyz/identity/betta",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Midday"
+  ],
+  "assetCount": 14,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d748f1cce9e5b479fd8dbf8f3375b20cb03b125-2920x1620.jpg",
+      "filename": "Betta-8.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2920,
+      "height": 1620,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\001-Betta-8.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee0a3ef707ad75dad452d3c0101143de93bff7b6-2920x1620.jpg",
+      "filename": "Betta-5 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2920,
+      "height": 1620,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\002-Betta-5-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77b49507c43d5de7a322d90a2b37a1e413b23bd4-1360x1720.jpg",
+      "filename": "Betta-3.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\003-Betta-3.jpeg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/48a9137558ff560b2978bc50c6677094875254cf.mp4",
+      "filename": "Halftone-Animation-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5641d098cd5693eb75c2284f883fb1410306ff08.mp4",
+      "filename": "Halftone-Animation-2B.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e911ad7f8eadbb83bee4e315becde80989c27fee-1360x1720.jpg",
+      "filename": "Betta-4.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\004-Betta-4.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/14095fa757ed69bc70dd57b139379698dfe78a96-2920x1620.jpg",
+      "filename": "Betta-5.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2920,
+      "height": 1620,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\005-Betta-5.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f0b8abeafd7621addd2666a99727d55807ca170-1360x1720.jpg",
+      "filename": "Betta-6.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\006-Betta-6.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/26aa353e651c5ab989ed72bc1c42e482a82a60a9-2920x1620.jpg",
+      "filename": "Betta-7.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2920,
+      "height": 1620,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\007-Betta-7.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d327f53d5ba6e55de74c8f6530da319ae01d7889-1360x1100.jpg",
+      "filename": "Betta-16.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1100,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\008-Betta-16.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c5ca5ee5e37a8bef657736de5db853a15a35c3f1-1360x1100.jpg",
+      "filename": "Betta-17.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1100,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\009-Betta-17.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/52acc03647ebffae753b2a9369f6c0d63af3b387-1360x1720.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\010-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b808b8f3c15ed75d33fbe4f46842044d71eb2d1c-1360x1720.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\011-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c983e8f0aafb73b00fa3112ccc891f7615cfa9d-1360x1720.jpg",
+      "filename": "Betta-12.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1360,
+      "height": 1720,
+      "localPath": "archive\\brandarchive\\identities\\betta\\assets\\012-Betta-12.jpeg"
+    }
+  ],
+  "rawId": "87de192b-2030-4d43-95ee-bb7c5c6cfb24",
+  "detail": {
+    "title": "Betta",
+    "designersText": "Midday",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#333333",
+        "rgb": "51, 51, 51",
+        "cmyk": "0, 0, 0, 80"
+      }
+    ],
+    "typeText": "Designer: Dominik Huber Released: 2022 Foundry: Grilli TypeDesigner: sJonny PinhornNinad Kale Released: 2014 Foundry: Indian Type Foundry:",
+    "korean": {
+      "브랜드명": "Betta",
+      "디자이너": "Midday",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#333333",
+          "rgb": "51, 51, 51",
+          "cmyk": "0, 0, 0, 80"
+        }
+      ],
+      "서체정보": "Designer: Dominik Huber Released: 2022 Foundry: Grilli TypeDesigner: sJonny PinhornNinad Kale Released: 2014 Foundry: Indian Type Foundry:",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

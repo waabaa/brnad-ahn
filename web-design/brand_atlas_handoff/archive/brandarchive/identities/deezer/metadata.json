@@ -1,0 +1,252 @@
+{
+  "source": "brandarchive",
+  "name": "Deezer",
+  "slug": "deezer",
+  "url": "https://brandarchive.xyz/identity/deezer",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Koto",
+    "slug": "designed-by-koto"
+  },
+  "designers": [
+    "Koto"
+  ],
+  "assetCount": 28,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/943587bc77d40914699e2087b54cbcb095495ceb-1460x1653.jpg",
+      "filename": "2-.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1460,
+      "height": 1653,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\001-2-.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/081573166931212c6a293e18c40990cd3e225ef6-1227x1239.jpg",
+      "filename": "2- 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1227,
+      "height": 1239,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\002-2--2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aba2aed7e0ebb7ff0173a548b4f77da95b730318-4200x1379.png",
+      "filename": "1-.png",
+      "mimeType": "image/png",
+      "width": 4200,
+      "height": 1379,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\003-1-.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1b64803a5820ea42569692df0b119aab3e875870-1950x1200.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1950,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\004-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fde5993149232b2d710a0aeea9ed58cdfb0699ee-1024x1024.jpg",
+      "filename": "php9djauf-logo copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1024,
+      "height": 1024,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\005-php9djauf-logo-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1069dd01a844bab98a530480e73538b5af79af5e.mp4",
+      "filename": "231017_DEEZER_CS_09-vimeo-882022298-hls-google_mediacdn_sep-225.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6958e11125cf1309032dcf8ebe2af8077e668545.mp4",
+      "filename": "231019_DEEZER_CS_17_EditorialFrames-vimeo-882040973-hls-goo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c5119225e7388a3af3863d0096812fd3c084d11c.mp4",
+      "filename": "231019_DEEZER_CS_22-vimeo-882042676-hls-google_mediacdn_sep-1003.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3504b10b5cb379b547321fd9c842356ae64c84bb.mp4",
+      "filename": "231102_DEEZER_CS_05-vimeo-882022150-dash-google_mediacdn_sep-video-82ba7f3a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2acd88b399b94cd4a18b82761f4b1e6c0a26a147.mp4",
+      "filename": "231101_DEEZER_CS_13-vimeo-882038778-hls-google_mediacdn_sep-751.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ab99ccb65be8994e6c5e5d79d7686ee35d021208.mp4",
+      "filename": "231107_DEEZER_CS_08-vimeo-882079924-hls-google_mediacdn_sep-419.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5b1ed931efcdacdffce6849a48454387172d7ba6.mp4",
+      "filename": "231019_DEEZER_CS_14_02-vimeo-882044367-hls-google_mediacdn_sep-406.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ad90f32dd27234612cdac5fdff16aeb1c18c63d8.mp4",
+      "filename": "231102_DEEZER_CS_15_05-vimeo-882039393-hls-google_mediacdn_sep-1638.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a60666a22db140c8e9f6fef019debcbe7029334a.mp4",
+      "filename": "_DEEZER_CS_10_boygenius-vimeo-882188164-dash-google_mediacdn_sep-video-cfe70fda.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4fd0c86f8f1e43197e2717ef9b44b435c5259316.mp4",
+      "filename": "_DEEZER_CS_10_JHusDrake-vimeo-882185492-hls-google_mediacdn_sep-20036.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a4a5eac30d9804714fc9397754fd33d83e72e5a0.mp4",
+      "filename": "_DEEZER_CS_10_Nilufer_Yanya-vimeo-882188232-hls-google_mediacdn_sep-8650.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/187ed434731c92f58c1965f12934c1961f3e12e5.mp4",
+      "filename": "_DEEZER_CS_10_TroyeSivan-vimeo-882188280-dash-google_mediacdn_sep-video-a654c6c5.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/374678c77a69e9005144b5cce63f38ed67158ff0.mp4",
+      "filename": "231101_DEEZER_CS_19-vimeo-882042409-dash-google_mediacdn_sep-video-1518ac72.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/32340e5a0685d953cfc4c8f8e53ea4aefd066c76.mp4",
+      "filename": "DEEZER_CS_12-vimeo-882027963-hls-google_mediacdn_sep-4658.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/58cc60a91669884b831bb20db3194da253245eb7.mp4",
+      "filename": "231018_DEEZER_CS_07-vimeo-882016475-hls-google_mediacdn_sep-2382.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6e5df4908a9965795b181ce673c75e7a8947ae9e.mp4",
+      "filename": "231107_DEEZER_CS_21-vimeo-882042616-hls-google_mediacdn_sep-3593.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ed6291b8269ce7bbb44536136120a8800cfb463-1650x2200.png",
+      "filename": "20_DEEZER_BandTee.png",
+      "mimeType": "image/png",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\deezer\\assets\\006-20_DEEZER_BandTee.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/92b64db282f1fb97f520d2def812c747483c836b.mp4",
+      "filename": "231107_DEEZER_CS_03_smaller-vimeo-882153237-hls-google_mediacdn_sep-7156.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2c87103805221e95d5b528256c842fd8091c8aa6.mp4",
+      "filename": "231107_DEEZER_CS_06-vimeo-882090643-hls-google_mediacdn_sep-2364.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bb800a8eb3f944bfad0ec3e083faa44cc370bc77.mp4",
+      "filename": "DEEZER_CS_23-vimeo-882155425-hls-google_mediacdn_sep-1850.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8272e84431a8d41464e7e48b4f8ecbde9514f446.mp4",
+      "filename": "master-generic-master-1143.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cdacf67bdb8218cc253aab8aedd94977ecdfd501.mp4",
+      "filename": "231102_DEEZER_CS_18-vimeo-882040997-hls-google_mediacdn_sep-4417.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e9deec91325c790bfea8074a8931069b8a075611.mp4",
+      "filename": "Icons.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "296c421c-33ad-4249-a5e4-c4a66b8937bb",
+  "detail": {
+    "title": "Deezer",
+    "designersText": "Koto",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 28 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Deezer",
+      "디자이너": "Koto",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 28 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

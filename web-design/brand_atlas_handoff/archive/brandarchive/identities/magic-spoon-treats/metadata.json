@@ -1,0 +1,255 @@
+{
+  "source": "brandarchive",
+  "name": "Magic Spoon Treats",
+  "slug": "magic-spoon-treats",
+  "url": "https://brandarchive.xyz/identity/magic-spoon-treats",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "Food Brands",
+    "slug": "food"
+  },
+  "designers": [
+    "Center"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/200ade2d14e5ad08471c856986149fb7299a84be-2699x1519.jpg",
+      "filename": "MagicSpoon_Landscape2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2699,
+      "height": 1519,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\001-MagicSpoon_Landscape2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69f73b27871503dc792dfef26078e18cd1454c37-3000x1920.jpg",
+      "filename": "MS-Logo-Wordmark-03 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\002-MS-Logo-Wordmark-03-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b32b662534ef1c67e1456a8d39aaaeca997a6a4-3000x1920.jpg",
+      "filename": "MS-Logo-Wordmark-03 copyaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\003-MS-Logo-Wordmark-03-copyaa.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dacfafff959a9cad9541736467f2d6b9cb3b89d0.mp4",
+      "filename": "MS-Logo-Wordmark-03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13ef32f4c1f984102a3434ea2fa7c50a7cb8a185-1200x1500.jpg",
+      "filename": "MS_TREATS_CPB_TASTE_4x5_9.23_a8df23e5-9489-4dcd-93e2-be6ef05ced2f-826590_2048x2048.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\004-MS_TREATS_CPB_TASTE_4x5_9.23_a8df23e5-9489-4dcd-93e2-be6ef05ced2f-826590_2048x2048.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/df52194a3cc4dc76df0cf24cfe2d0d0834511431-1200x1500.jpg",
+      "filename": "MS_TREATS_MALOW_WORKOUT_UNPACK_4x5_9.23-684569_2048x2048.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\005-MS_TREATS_MALOW_WORKOUT_UNPACK_4x5_9.23-684569_2048x2048.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e4f5cade181b1b4db21ab0b560b0755775c0eabf.mp4",
+      "filename": "MS_TREATS_HAND-WRESTLE_9.23-1_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e809e595284a6432a3635a41396c969841caa7e1.mp4",
+      "filename": "MS-Faces-CPB-01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a479c973aa2ff7dc7d59c02eea713c10101ab4af.mp4",
+      "filename": "MS-Faces-Glyphs-01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/39f9c827a5f87197ee6b82f52d51a446776b7b1b.mp4",
+      "filename": "MS-Faces-Marshmallow-01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/89c0f5e18cf2456d964ee2ec8368c2792186592b-1920x1920.png",
+      "filename": "Post-2-10.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\006-Post-2-10.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f1c388f0fa1bb41aaf31c0df57df319c11c12e4-1638x2048.png",
+      "filename": "MS_BLUEBERRY_SS_TREAT_LAUNCH_1_2048x2048.png",
+      "mimeType": "image/png",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\007-MS_BLUEBERRY_SS_TREAT_LAUNCH_1_2048x2048.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/539a5edc38866d8253986c29ed53a3768266e4bb-1438x1800.png",
+      "filename": "MS_DOUBLECHOC_SS_TREAT_LAUNCH_1_2048x2048.png",
+      "mimeType": "image/png",
+      "width": 1438,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\008-MS_DOUBLECHOC_SS_TREAT_LAUNCH_1_2048x2048.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/abc23b02054ea681f1ecf3025a6d46ab977ef30c-1638x2048.png",
+      "filename": "MS_TREATS_BLUEBERRY_FLAVOCUES_LAUNCH_1_2048x2048.png",
+      "mimeType": "image/png",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\009-MS_TREATS_BLUEBERRY_FLAVOCUES_LAUNCH_1_2048x2048.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91cf6159cc685edc0d98f2414046b828377554ad-2160x2700.jpg",
+      "filename": "MS_TREATS_CPB_FLOAT_9.23.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\010-MS_TREATS_CPB_FLOAT_9.23.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9046c04bcaf778c3096dcd6ade4bbda68afda2e2-1638x2048.png",
+      "filename": "MS_TREATS_DOUBLECHOC_FLAVOCUES_LAUNCH_1_2048x2048.png",
+      "mimeType": "image/png",
+      "width": 1638,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\011-MS_TREATS_DOUBLECHOC_FLAVOCUES_LAUNCH_1_2048x2048.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/438e70727d7601a84d39e8eae638426437f40d95-2160x2700.jpg",
+      "filename": "MS_TREATS_MALLOW_FLOAT_9.23.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\magic-spoon-treats\\assets\\012-MS_TREATS_MALLOW_FLOAT_9.23.jpg"
+    }
+  ],
+  "rawId": "cb529d32-cb85-4585-baa2-cd01ef3aafe5",
+  "detail": {
+    "title": "Magic Spoon Treats",
+    "designersText": "Center",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#331EA7",
+        "rgb": "51, 30, 167",
+        "cmyk": "69, 82, 0, 35"
+      },
+      {
+        "hex": "#FD86FC",
+        "rgb": "253, 134, 252",
+        "cmyk": "0, 47, 0, 1"
+      },
+      {
+        "hex": "#F5EF77",
+        "rgb": "245, 239, 119",
+        "cmyk": "0, 2, 51, 4"
+      },
+      {
+        "hex": "#FAD01A",
+        "rgb": "250, 208, 26",
+        "cmyk": "0, 17, 90, 2"
+      },
+      {
+        "hex": "#F4801F",
+        "rgb": "244, 128, 31",
+        "cmyk": "0, 48, 87, 4"
+      },
+      {
+        "hex": "#472221",
+        "rgb": "71, 34, 33",
+        "cmyk": "0, 52, 54, 72"
+      }
+    ],
+    "typeText": "Designer: Benjamin Critton Released: 2018 Foundry: Colophon",
+    "korean": {
+      "브랜드명": "Magic Spoon Treats",
+      "디자이너": "Center",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#331EA7",
+          "rgb": "51, 30, 167",
+          "cmyk": "69, 82, 0, 35"
+        },
+        {
+          "hex": "#FD86FC",
+          "rgb": "253, 134, 252",
+          "cmyk": "0, 47, 0, 1"
+        },
+        {
+          "hex": "#F5EF77",
+          "rgb": "245, 239, 119",
+          "cmyk": "0, 2, 51, 4"
+        },
+        {
+          "hex": "#FAD01A",
+          "rgb": "250, 208, 26",
+          "cmyk": "0, 17, 90, 2"
+        },
+        {
+          "hex": "#F4801F",
+          "rgb": "244, 128, 31",
+          "cmyk": "0, 48, 87, 4"
+        },
+        {
+          "hex": "#472221",
+          "rgb": "71, 34, 33",
+          "cmyk": "0, 52, 54, 72"
+        }
+      ],
+      "서체정보": "Designer: Benjamin Critton Released: 2018 Foundry: Colophon",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

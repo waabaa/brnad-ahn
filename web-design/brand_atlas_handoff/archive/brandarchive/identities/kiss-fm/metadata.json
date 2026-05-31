@@ -1,0 +1,271 @@
+{
+  "source": "brandarchive",
+  "name": "Kiss FM",
+  "slug": "kiss-fm",
+  "url": "https://brandarchive.xyz/identity/kiss-fm",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "NOT Wieden+Kennedy"
+  ],
+  "assetCount": 19,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/62b5201218ba95e6bd15912c00f91c5a9e2de705-1920x1080.heif",
+      "filename": "Kiss_Logo.jpg.avif",
+      "mimeType": "image/heif",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\001-Kiss_Logo.jpg.avif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3733d010d996ec5c38bd6be56bf3c3fcba7afc0e-1920x1080.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\002-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c9e8f446813fbf67eb977f4c48dd704555daa34-1920x1080.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\003-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aeb94d01db691735d0cd92ba28e69ece5be124db.mp4",
+      "filename": "KISS_logo_animation.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6944ce5db8519e530d78d6b1dd1dfd37b75951c8.mp4",
+      "filename": "KISS_design_system.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f4c913ca278df434926af91420f8ac704a3ff688.mp4",
+      "filename": "KISS_animation.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2b7d25f29e98960152edf32cf65d4dcd0c1e9ee-949x1059.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 949,
+      "height": 1059,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\004-5.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5007b6d5e946fed16b924f7e55a714e797db94c1.mp4",
+      "filename": "KISS_assets.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f8d324e37d18c7c31c7b27d6e529a7621f3e6ac-949x1059.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 949,
+      "height": 1059,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\005-6.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c7d8ec8ac294f9de16ef4e3d17cece782d248e00.mp4",
+      "filename": "KISS_overview.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/330ff851dbf2b4e29538de2cb4d1084b260e0239-916x497.webp",
+      "filename": "2.webp",
+      "mimeType": "image/webp",
+      "width": 916,
+      "height": 497,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\006-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed4f079d0c61e0f6f3d621513ba4ec642b80c01e-913x1026.webp",
+      "filename": "1.webp",
+      "mimeType": "image/webp",
+      "width": 913,
+      "height": 1026,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\007-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/86ed3a280ff047f4edaaec957a69f119cd7fbc65-916x497.webp",
+      "filename": "3.webp",
+      "mimeType": "image/webp",
+      "width": 916,
+      "height": 497,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\008-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e497b6c66c5c4d5cc2af484e48ea94a9e9affbf1-948x1067.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 948,
+      "height": 1067,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\009-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c0bad9fad762a18c57840510d7bff4903de72062-948x1067.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 948,
+      "height": 1067,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\010-9.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b0720516625a2f211b62fd98135892eaa13bcbeb.mp4",
+      "filename": "KISS_social.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3ebada47275d84ef53e560253ee01963d8ff2973-2000x1125.jpg",
+      "filename": "KISS_storefront.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\011-KISS_storefront.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/106bb01d10e90c9ad3227527425342e7d42b22cc-2156x1555.jpg",
+      "filename": "Kiss_March26_Branding_MVittur308035_LowRes_Unretouched-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2156,
+      "height": 1555,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\012-Kiss_March26_Branding_MVittur308035_LowRes_Unretouched-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6449c6ea2c3309cd94bea2e7d7ac5e34cd3313c1-1850x1042.png",
+      "filename": "Kiss-Radio.uZRWepJH.png",
+      "mimeType": "image/png",
+      "width": 1850,
+      "height": 1042,
+      "localPath": "archive\\brandarchive\\identities\\kiss-fm\\assets\\013-Kiss-Radio.uZRWepJH.png"
+    }
+  ],
+  "rawId": "c724e5b0-37d7-4676-b3b9-f4c64d0e1845",
+  "detail": {
+    "title": "Kiss FM",
+    "designersText": "NOT Wieden+Kennedy",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#580183",
+        "rgb": "88, 1, 131",
+        "cmyk": "33, 99, 0, 49"
+      },
+      {
+        "hex": "#FF37EB",
+        "rgb": "255, 55, 235",
+        "cmyk": "0, 78, 8, 0"
+      },
+      {
+        "hex": "#F8FF50",
+        "rgb": "248, 255, 80",
+        "cmyk": "3, 0, 69, 0"
+      },
+      {
+        "hex": "#0059FF",
+        "rgb": "0, 89, 255",
+        "cmyk": "100, 65, 0, 0"
+      },
+      {
+        "hex": "#4BFF58",
+        "rgb": "75, 255, 88",
+        "cmyk": "71, 0, 65, 0"
+      },
+      {
+        "hex": "#4B4255",
+        "rgb": "75, 66, 85",
+        "cmyk": "12, 22, 0, 67"
+      }
+    ],
+    "typeText": "Play VideoPlaySkip BackwardSkip ForwardMuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Kiss FM",
+      "디자이너": "NOT Wieden+Kennedy",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#580183",
+          "rgb": "88, 1, 131",
+          "cmyk": "33, 99, 0, 49"
+        },
+        {
+          "hex": "#FF37EB",
+          "rgb": "255, 55, 235",
+          "cmyk": "0, 78, 8, 0"
+        },
+        {
+          "hex": "#F8FF50",
+          "rgb": "248, 255, 80",
+          "cmyk": "3, 0, 69, 0"
+        },
+        {
+          "hex": "#0059FF",
+          "rgb": "0, 89, 255",
+          "cmyk": "100, 65, 0, 0"
+        },
+        {
+          "hex": "#4BFF58",
+          "rgb": "75, 255, 88",
+          "cmyk": "71, 0, 65, 0"
+        },
+        {
+          "hex": "#4B4255",
+          "rgb": "75, 66, 85",
+          "cmyk": "12, 22, 0, 67"
+        }
+      ],
+      "서체정보": "Play VideoPlaySkip BackwardSkip ForwardMuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

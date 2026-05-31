@@ -1,0 +1,506 @@
+{
+  "source": "brandarchive",
+  "name": "Olivetti",
+  "slug": "olivetti",
+  "url": "https://brandarchive.xyz/identity/olivetti",
+  "year": 1971,
+  "exclusive": true,
+  "collection": {
+    "title": "Historical",
+    "slug": "historical"
+  },
+  "designers": [
+    "Walter Ballmer",
+    "Hans von Klier",
+    "Clino Castelli",
+    "Perry King"
+  ],
+  "assetCount": 51,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f04b0046a982a05706f4db69ca25b8dac00b9cd2-2927x1700.jpg",
+      "filename": "Scan 16b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2927,
+      "height": 1700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\001-Scan-16b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc8ba0a2a50451599477cb78edc00f1c00a7ae97-5836x1583.jpg",
+      "filename": "Scana.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5836,
+      "height": 1583,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\002-Scana.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/899b537318e489bfd661b1f123f7a318413a1c63-5816x1372.jpg",
+      "filename": "Scan 2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5816,
+      "height": 1372,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\003-Scan-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f45b2b10f6c2145930a0849d34abc2af5b499a5f-5664x1399.jpg",
+      "filename": "Scan 1.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5664,
+      "height": 1399,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\004-Scan-1.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3af727b1f74c5fb1781a0a70741e5e99d82ec743-5816x1372.jpg",
+      "filename": "Scan 2b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5816,
+      "height": 1372,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\005-Scan-2b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/767cbeb7063f22699617198c88bb209529c6670c-5668x1739.jpg",
+      "filename": "Scan.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5668,
+      "height": 1739,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\006-Scan.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d9e36b006770295e1504d3be75b893144d7fec6b-3000x3000.jpg",
+      "filename": "Scan 58c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\007-Scan-58c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68b978d274f1275811b360f97c7f58b5be88b24d-3500x3500.jpg",
+      "filename": "Scan 58d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3500,
+      "height": 3500,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\008-Scan-58d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f2022f1ccc3cfdd3440da91d73dd5bc67934d234-3200x3200.jpg",
+      "filename": "Scan 59a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3200,
+      "height": 3200,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\009-Scan-59a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8b883d702184321bda16bd6008114c80e28c26e3-2545x2798.jpg",
+      "filename": "Scan 16 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2545,
+      "height": 2798,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\010-Scan-16-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3a8b2482cb5d29721fbabd9747283b8cf2152eed-1920x1700.jpg",
+      "filename": "Scan 16a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\011-Scan-16a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9a15a4fa27beb04e8d5f519c4fc2fc7350bee8fc-4893x6356.jpg",
+      "filename": "Scan 66.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4893,
+      "height": 6356,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\012-Scan-66.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1ccb0c477ec520d3eb866e84cba5a5265bfcc04-3700x1495.jpg",
+      "filename": "Scan 62a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3700,
+      "height": 1495,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\013-Scan-62a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7100f27242e060b6d0a4b93b38931e3e0aca0f59-2423x820.jpg",
+      "filename": "Scan 74a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2423,
+      "height": 820,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\014-Scan-74a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e537094d7b8eb4d6a798a541273f953a8fd50ccd-4813x1218.jpg",
+      "filename": "Scan 74b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4813,
+      "height": 1218,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\015-Scan-74b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/762f8b8f8f5e151ab233b7e5b064549a22e69cd7-2997x1579.jpg",
+      "filename": "Scan 74c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2997,
+      "height": 1579,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\016-Scan-74c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3b55e7e6d6ebb5cbc593fd3ad169e88d5bf348b1-2615x1520.jpg",
+      "filename": "Scan 7.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2615,
+      "height": 1520,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\017-Scan-7.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77550e781485eb3d0eacc8b49b788945e7825295-2237x1900.jpg",
+      "filename": "Scan 33.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2237,
+      "height": 1900,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\018-Scan-33.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cc33bcf3bb33f5e23d7b799a3beba723756b2bef-2232x1219.jpg",
+      "filename": "Scan 42.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2232,
+      "height": 1219,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\019-Scan-42.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04d9e4f9d5747520ac604b4f610f408e2aaa10d9-2768x2840.jpg",
+      "filename": "Scan 43.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2768,
+      "height": 2840,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\020-Scan-43.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/046e978c53796fb3392d68e5db668e4f95c6dba8-2334x3250.jpg",
+      "filename": "Scan 50.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2334,
+      "height": 3250,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\021-Scan-50.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d783fdbc06744ca21301be88922f8fadc1fba2a-2234x3159.jpg",
+      "filename": "Scan 44.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2234,
+      "height": 3159,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\022-Scan-44.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3d403a1a5bf899e61b6ef124cfb808289ed49042-1733x1807.jpg",
+      "filename": "can 31 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1733,
+      "height": 1807,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\023-can-31-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f32a75f605ab55d1460a667e539fefd8ae89ed0-2291x980.jpg",
+      "filename": "Scan 31 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2291,
+      "height": 980,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\024-Scan-31-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ff24403c8328cc08f27a101e07e30a94368ce3a9-2444x976.jpg",
+      "filename": "Scan 31f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2444,
+      "height": 976,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\025-Scan-31f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/021e1fe199da2f3eb4545b681e5705623ac2c1e2-4560x2580.jpg",
+      "filename": "Scan 60.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4560,
+      "height": 2580,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\026-Scan-60.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/28835ce72a14082c08ff18b7ecd361378b91b310-4662x1629.jpg",
+      "filename": "Scan 60a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4662,
+      "height": 1629,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\027-Scan-60a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/23bddac7626d60be82f9d77ff708a2f9740680d0-1558x2509.jpg",
+      "filename": "Scan 62b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1558,
+      "height": 2509,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\028-Scan-62b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c36fe5ac731f987f8fbbf0da7c448df2eeb0c1d-2991x4433.jpg",
+      "filename": "Scan 63.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2991,
+      "height": 4433,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\029-Scan-63.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e4b03c5d45000124d6a70399b469196095f344bd-1448x1709.jpg",
+      "filename": "Scan 64.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1448,
+      "height": 1709,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\030-Scan-64.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/49ba92cbeeb6776e43a05a7db9c4036d269bff4f-4542x4427.jpg",
+      "filename": "Scan 65.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4542,
+      "height": 4427,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\031-Scan-65.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ba8937b5deb18651232fe956d15e87844de54a0-2546x2928.jpg",
+      "filename": "Scan 20.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2546,
+      "height": 2928,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\032-Scan-20.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f408520daeac518aec8cc5c980e31c251e9d0924-1449x3942.jpg",
+      "filename": "Scan 21a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1449,
+      "height": 3942,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\033-Scan-21a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/df83ffba226bf79917f87f048f6af63f5526f442-5096x6989.jpg",
+      "filename": "Scan 30.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5096,
+      "height": 6989,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\034-Scan-30.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5e6b1a846f0278fae3f74f021b304b2dc17ddcf2-7016x7016.jpg",
+      "filename": "Scan 74 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 7016,
+      "height": 7016,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\035-Scan-74-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7880783cf0cae9cd357a312dbfb99ed73d43a3b1-3890x3900.jpg",
+      "filename": "Scan 12.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3890,
+      "height": 3900,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\036-Scan-12.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e37841dbb7666cf2e13fc030b8da42dce62e6888-4714x3104.jpg",
+      "filename": "Scan 54 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4714,
+      "height": 3104,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\037-Scan-54-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8dcd8e498db9c6f331cc0f9e41f3d34d410caa5b-4786x1820.jpg",
+      "filename": "Scan 44 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4786,
+      "height": 1820,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\038-Scan-44-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/58d1422b140a2bd6c045fe782439eedd353da4df-4732x3565.jpg",
+      "filename": "Scan 15.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4732,
+      "height": 3565,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\039-Scan-15.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3235b9bafadf34e8136c684fa72a81113219c134-3247x3091.jpg",
+      "filename": "Scan 42 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3247,
+      "height": 3091,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\040-Scan-42-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d0280e5601a94f1fd65893dbcba0fd086e6dc5ea-3630x3630.jpg",
+      "filename": "Scan 43 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3630,
+      "height": 3630,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\041-Scan-43-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1fcc9ef60f82be01152eea06f0f30180234be158-4707x3033.jpg",
+      "filename": "Scan 55 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4707,
+      "height": 3033,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\042-Scan-55-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/44fcf12337bb6aab4799f6870a0489c6890e100c-4676x3631.jpg",
+      "filename": "Scan 73a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4676,
+      "height": 3631,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\043-Scan-73a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5591396b00b7bf436fad12bddb51b7917c1d7f67-2700x2700.jpg",
+      "filename": "2-Walter-Ballmer-5-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2700,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\044-2-Walter-Ballmer-5-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2165d4d1f1e95b3cc261d117b38dda0bf5b75e68-2700x2700.jpg",
+      "filename": "2-Walter-Ballmer-5-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2700,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\045-2-Walter-Ballmer-5-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69df96b88fd5f72f11e761190fcf90236fecdc0b-2700x2700.jpg",
+      "filename": "2-Walter-Ballmer-5-4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2700,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\046-2-Walter-Ballmer-5-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d47d716b795128455b4fc85655e9b317f2168be2-2500x2500.jpg",
+      "filename": "2-Walter-Ballmer-5-5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\047-2-Walter-Ballmer-5-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9eff88843c98c0e7d56d0a99bfb191e298b35cec-2700x2700.jpg",
+      "filename": "2-Walter-Ballmer-5-6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2700,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\048-2-Walter-Ballmer-5-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0bd39e4a0a5203d52b6fc4c28d232a3626f3c7ea-1855x2545.jpg",
+      "filename": "Scan 17a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1855,
+      "height": 2545,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\049-Scan-17a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/808dd7868aa33d549597f1318ad452407374d761-1855x2545.jpg",
+      "filename": "Scan 17b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1855,
+      "height": 2545,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\050-Scan-17b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/76e0e44a28495edcfb77f29d013d792f1f6ea324-1855x2545.jpg",
+      "filename": "Scan 17c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1855,
+      "height": 2545,
+      "localPath": "archive\\brandarchive\\identities\\olivetti\\assets\\051-Scan-17c.jpg"
+    }
+  ],
+  "rawId": "564caf22-1fb1-490f-9efe-079fe8de6cdb",
+  "detail": {
+    "title": "Olivetti",
+    "designersText": "Walter Ballmer",
+    "yearText": "1971",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 51 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Olivetti",
+      "디자이너": "Walter Ballmer",
+      "연도": "1971",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 51 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

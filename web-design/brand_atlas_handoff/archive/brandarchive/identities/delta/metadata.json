@@ -1,0 +1,233 @@
+{
+  "source": "brandarchive",
+  "name": "Delta",
+  "slug": "delta",
+  "url": "https://brandarchive.xyz/identity/delta",
+  "year": 2000,
+  "exclusive": true,
+  "collection": {
+    "title": "Airlines",
+    "slug": "airlines"
+  },
+  "designers": [
+    "Landor"
+  ],
+  "assetCount": 21,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/251afa15f394d913740789ec386ac7d56d53bfc7-2258x671.jpg",
+      "filename": "Scan 47d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2258,
+      "height": 671,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\001-Scan-47d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/df07c2710e9c31f4f0b13a67a4bf388c0997957b-3860x1035.jpg",
+      "filename": "Scan 47a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3860,
+      "height": 1035,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\002-Scan-47a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/42c71769accc0fd74ef472c84b3e60ba067a78c5-4485x751.jpg",
+      "filename": "Scan 47b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4485,
+      "height": 751,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\003-Scan-47b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/09542d559896e3a6feeefe46eaa94030fd225601-2213x600.jpg",
+      "filename": "Scan 47c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2213,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\004-Scan-47c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/938356a7da427d2aff86bc7b2f5a08c8a3e3bcab-2834x1447.jpg",
+      "filename": "Scan 54.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2834,
+      "height": 1447,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\005-Scan-54.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c38fa7915b121b57dd88a4f4258e369041433ce9-2560x958.jpg",
+      "filename": "Scan 55.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 958,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\006-Scan-55.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0e55dd095a98cd4609b333ac603c438b79b7b24f-1999x654.jpg",
+      "filename": "757-200_delta_colors_in_motion_livery.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1999,
+      "height": 654,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\007-757-200_delta_colors_in_motion_livery.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa88b9c618e4be0daa6b0b8f0acc22e5043a69cb-1558x924.jpg",
+      "filename": "Scan 57a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1558,
+      "height": 924,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\008-Scan-57a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3a76da12e2cbe1306e984e48ffbc3da3338016a3-2633x1843.jpg",
+      "filename": "Scan 59.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2633,
+      "height": 1843,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\009-Scan-59.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f191fcac203f7484e8747821a9914a194b894e0c-1507x1907.jpg",
+      "filename": "Scan 61a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1507,
+      "height": 1907,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\010-Scan-61a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e644271f2a971b6c7bfa9cf4952f8a193a1eb244-806x1640.jpg",
+      "filename": "Scan 61b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 806,
+      "height": 1640,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\011-Scan-61b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/34bd6c10aef9c0aa8c49a7945810a0f3b5cb584a-751x1590.jpg",
+      "filename": "Scan 61c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 751,
+      "height": 1590,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\012-Scan-61c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6367cc5b740d245e80ad6884ef1bbb6b336d2918-2956x1280.jpg",
+      "filename": "Scan 62a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2956,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\013-Scan-62a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3f401ef079b4f35e7d7da19da5e8a706b48ccce5-2179x1518.jpg",
+      "filename": "Scan 63.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2179,
+      "height": 1518,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\014-Scan-63.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d097e3082051c6e320619c49e5827513b224a84-1848x1384.jpg",
+      "filename": "Scan 64.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1848,
+      "height": 1384,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\015-Scan-64.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73cfe021c1a82bb5eb98eedcbdc70d3e6497070f-1882x2986.jpg",
+      "filename": "Scan 65.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1882,
+      "height": 2986,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\016-Scan-65.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/347bfe35aab6ac5ea742061135d7e74f502de50d-4684x942.jpg",
+      "filename": "Scan 66.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4684,
+      "height": 942,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\017-Scan-66.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d367d22936f06e7f0cae412bde90fe4743a22f91-1710x1786.jpg",
+      "filename": "Scan 67.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1710,
+      "height": 1786,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\018-Scan-67.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6ef60a7771074da72c098091fcb52cd77aece3d5-2198x2976.jpg",
+      "filename": "Scan 68.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2198,
+      "height": 2976,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\019-Scan-68.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a2d72d62384868bf126d0b39959351d0c1566c8-4108x3112.jpg",
+      "filename": "Scan 69.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4108,
+      "height": 3112,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\020-Scan-69.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee830d9fca5581507733eb48c0b94db6fbbc1e7f-2576x1996.jpg",
+      "filename": "Scan 70.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2576,
+      "height": 1996,
+      "localPath": "archive\\brandarchive\\identities\\delta\\assets\\021-Scan-70.jpeg"
+    }
+  ],
+  "rawId": "c2e7d9a2-4dea-4913-88da-9ad9256cca77",
+  "detail": {
+    "title": "Delta",
+    "designersText": "Landor",
+    "yearText": "2000",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 21 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Delta",
+      "디자이너": "Landor",
+      "연도": "2000",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 21 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "source": "brandarchive",
+  "name": "AA",
+  "slug": "aa",
+  "url": "https://brandarchive.xyz/identity/aa",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "From the United Kingdom",
+    "slug": "from-the-uk"
+  },
+  "designers": [
+    "Elmwood"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0258779be2adb41ce80069ca4edf3076855554cb-1732x974.png",
+      "filename": "Screenshot-2023-07-20-at-15.46.05.png",
+      "mimeType": "image/png",
+      "width": 1732,
+      "height": 974,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\001-Screenshot-2023-07-20-at-15.46.05.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c0eccd56ae7dc791fef00d2f7d0a1358ca61c7c1-1277x1440.jpg",
+      "filename": "AA_Case-Study12-scaled-a.jpg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1277,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\002-AA_Case-Study12-scaled-a.jpg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f7099a78b3f8c03bee999065c0fced2afa7e1fa2-1278x1440.jpg",
+      "filename": "AA_Case-Study12-scaled-b.jpg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1278,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\003-AA_Case-Study12-scaled-b.jpg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e5a7bad7965bb0672461f6ceb0b2923ad414cd10-1772x997.jpg",
+      "filename": "ELM_TheAA_15-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1772,
+      "height": 997,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\004-ELM_TheAA_15-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/246ff93fe8220a5086c0cd64e69744213a2b1d5b-2000x1125.jpg",
+      "filename": "AA_Case-Study4.jpg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\005-AA_Case-Study4.jpg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/001d29f54126517a8b14b4e982fd5dcc7cdf3d72-910x1080.jpg",
+      "filename": "AA-banner-b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 910,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\006-AA-banner-b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d6401316703f78d4abb8c3799dd29e0852d09f9-2560x1440.jpg",
+      "filename": "AA_Case-Study8-scaled.jpg.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\007-AA_Case-Study8-scaled.jpg.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fd62a9ff8ad13421c408e7ed7952b09a1836db8a-882x997.jpg",
+      "filename": "ELM_TheAA_07 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 882,
+      "height": 997,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\008-ELM_TheAA_07-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/60adbd0d44493712daa650200c1829cfda7943e5-884x997.jpg",
+      "filename": "ELM_TheAA_07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 884,
+      "height": 997,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\009-ELM_TheAA_07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/805b5ea5995c4e2a3d56c0c27e1eaa2ec9f2438c-796x900.jpg",
+      "filename": "ELM_TheAA_18 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 796,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\010-ELM_TheAA_18-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13dfc394edb69623edd3e47b7f675e755c9a91ad-795x900.jpg",
+      "filename": "ELM_TheAA_18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 795,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\011-ELM_TheAA_18.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bcea8bb75c811b42b572c13dfca5fb548f8881eb-2000x1125.jpg",
+      "filename": "AA_Case-Study3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\012-AA_Case-Study3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/df58d11081d736a69a66ed952bdb6c78b2b43832-909x1080.jpg",
+      "filename": "AA-banner-a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 909,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\013-AA-banner-a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d53c69cb9bdff05318e8d74e24cd30a03bc92997-1278x1440.jpg",
+      "filename": "AA_Case-Study-scaled-b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1278,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\aa\\assets\\014-AA_Case-Study-scaled-b.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aae36a8b0837e8ef454999ae60f1c8601dbec977.mp4",
+      "filename": "file-2 copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c70bb922a7d7581019929680ff2229f5b5c6c7b1.mp4",
+      "filename": "file copy 4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/235bc0c32a6d5032072ce2bb76d5eb6a9dcfe5b1.mp4",
+      "filename": "file copy 6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/391235ba2e161f3728e9641ef23c08d22ac7f99e.mp4",
+      "filename": "file copy 7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/807b71ed80f2e287403f6c60d1bca0ef48f22b56.mp4",
+      "filename": "file copy 9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/abf8e8ce910ee99a6ea3fa75a22c0f0dce50f971.mp4",
+      "filename": "file copy 10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/773e4a70a6937eb742ffb62f7ddaa9e32b70b5fb.mp4",
+      "filename": "file copy 11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d305e676806c42a20a86da6d0e28b1fba95e2bda.mp4",
+      "filename": "file copy 13.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/149c4bbeb732a4b8394843a47c50b9eb05a65fb3.mp4",
+      "filename": "file copy.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/acd07a412f7a81ff3ab9f01ac8b56d05e16eae88.mp4",
+      "filename": "file-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/79fe980e325be0f0d4e246b367b5c125d17e3a77.mp4",
+      "filename": "file copy 3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "3d528bba-64a0-4224-86ca-cc018e29d1a0",
+  "detail": {
+    "title": "AA",
+    "designersText": "Elmwood",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FECD00",
+        "rgb": "254, 205, 0",
+        "cmyk": "0, 19, 100, 0"
+      },
+      {
+        "hex": "#01081D",
+        "rgb": "1, 8, 29",
+        "cmyk": "97, 72, 0, 89"
+      },
+      {
+        "hex": "#FF8E88",
+        "rgb": "255, 142, 136",
+        "cmyk": "0, 44, 47, 0"
+      },
+      {
+        "hex": "#857BD2",
+        "rgb": "133, 123, 210",
+        "cmyk": "37, 41, 0, 18"
+      },
+      {
+        "hex": "#3CC6E4",
+        "rgb": "60, 198, 228",
+        "cmyk": "74, 13, 0, 11"
+      },
+      {
+        "hex": "#FFFAF2",
+        "rgb": "255, 250, 242",
+        "cmyk": "0, 2, 5, 0"
+      }
+    ],
+    "typeText": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "AA",
+      "디자이너": "Elmwood",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FECD00",
+          "rgb": "254, 205, 0",
+          "cmyk": "0, 19, 100, 0"
+        },
+        {
+          "hex": "#01081D",
+          "rgb": "1, 8, 29",
+          "cmyk": "97, 72, 0, 89"
+        },
+        {
+          "hex": "#FF8E88",
+          "rgb": "255, 142, 136",
+          "cmyk": "0, 44, 47, 0"
+        },
+        {
+          "hex": "#857BD2",
+          "rgb": "133, 123, 210",
+          "cmyk": "37, 41, 0, 18"
+        },
+        {
+          "hex": "#3CC6E4",
+          "rgb": "60, 198, 228",
+          "cmyk": "74, 13, 0, 11"
+        },
+        {
+          "hex": "#FFFAF2",
+          "rgb": "255, 250, 242",
+          "cmyk": "0, 2, 5, 0"
+        }
+      ],
+      "서체정보": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

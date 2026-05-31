@@ -1,0 +1,253 @@
+{
+  "source": "brandarchive",
+  "name": "Marshmallow",
+  "slug": "marshmallow",
+  "url": "https://brandarchive.xyz/identity/marshmallow",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Money & Finance",
+    "slug": "money"
+  },
+  "designers": [
+    "Ragged Edge"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa05f3fb849ddbdc0cde465a6329561e220e943c-3300x2700.jpg",
+      "filename": "Marshmallow _ Insurance for UK newcomers-2 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\001-Marshmallow-_-Insurance-for-UK-newcomers-2-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d288e352fb3afad8872d0fe4d11ceae8fdbaa16b-4000x481.jpg",
+      "filename": "Marshmallow _ Insurance for UK newcomers-0 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4000,
+      "height": 481,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\002-Marshmallow-_-Insurance-for-UK-newcomers-0-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f54d06a9d186adf7d32d1417f01b1674d45c8678.mp4",
+      "filename": "MM_KeyVisual_Desktopk.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5057e7cde620041017360c3359569cf5fd166508-2160x2700.jpg",
+      "filename": "Marshforms_v6_Main_rt.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\003-Marshforms_v6_Main_rt.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b22053b41fa25ddd6ace85b1e89ace5aa3bda3dd-1080x1350.jpg",
+      "filename": "MM-AirFreshener_v5_1080x1350-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\004-MM-AirFreshener_v5_1080x1350-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9049ed1bdd7fbcb91cba58026c81df6aecc14406-1080x1350.jpg",
+      "filename": "Marshmallow_CS_Car_Poster_V3_1080x1350.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\005-Marshmallow_CS_Car_Poster_V3_1080x1350.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d9134aee19255e28b4adff033af346a8a3f9369c-1920x1080.jpg",
+      "filename": "Marshmallow_CS_Tshirt_v11_1920x1080.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\006-Marshmallow_CS_Tshirt_v11_1920x1080.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2901b3a19518d8baac7082fa15d309de85060af-1920x1080.jpg",
+      "filename": "Marshmallow_shapes_v15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\007-Marshmallow_shapes_v15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3baed1008184cfce0b513a3fa4137c39b7894917-1536x1920.jpg",
+      "filename": "Notepads_v6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1536,
+      "height": 1920,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\008-Notepads_v6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/921bad1eaea14c3c9a6fa054ac66da2270f6c8d1-2560x1547.png",
+      "filename": "MM-YourDifference-v2.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 1547,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\009-MM-YourDifference-v2.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d3a02e819beba7dcb3eef3ed2f3b40b1584511d4-2160x2700.png",
+      "filename": "Marshmallow_WeInsureDifference.png",
+      "mimeType": "image/png",
+      "width": 2160,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\marshmallow\\assets\\010-Marshmallow_WeInsureDifference.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/de1de6d48713004fa81077565103baf7e240c71b.mp4",
+      "filename": "MM_CarScroll3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b414238892010e4e9f0ab3223029b0de4c231efa.mp4",
+      "filename": "MM_IndividualStory-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5e2ae4966dc7ace1a58e8bb5b0761ec9ba109f7c.mp4",
+      "filename": "MM_InsuranceTiers-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/249bb4bda3218517e157c7ad9e5183ae981503d0.mp4",
+      "filename": "MM_Intro_v4_4x5_2500k-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6bc335411f4ad47fd7df888d92a2f620617a317c.mp4",
+      "filename": "MM_MarshallPeek.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ccfca89c1dcbd1b907c3aaf3b6590b6732b9938f.mp4",
+      "filename": "MM_MarshformsGrid_MM_MarshformsGrid_v2_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/88a72e155657e307e3066b3a56d5c693b8f8616a.mp4",
+      "filename": "MM_Marshmojis.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/31fe30c44ddbfb0d6b1f97cf948035aa962cf503.mp4",
+      "filename": "MM_NothingAverage-v2_4x5_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bb1217c09e5629c94cc810a96cfe9015ba3b2086.mp4",
+      "filename": "MM_PhoneScreens2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d4804cf418f0bcdec103990b51196738e1d0903f.mp4",
+      "filename": "MM_Story-v2_MM_Story_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1361d7241169bad957060b09527ab18a17d4d83a.mp4",
+      "filename": "MM_UIDashboard-v3_v9_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e524e6e78ba19377bf92709fb4d87bbf531c1dd3.mp4",
+      "filename": "MM_WebModules.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b52793836e5b1a05501dc6a92bc1296591cab29e.mp4",
+      "filename": "MM_Website-3_16x9_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f32ecb51ecbcde5ec54602c1c7fe580d17de86c7.mp4",
+      "filename": "MM_YearInDriving_v3_4x5_1800k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ec693b13d0f8cda5df2787d22f3990a7a60f2d16.mp4",
+      "filename": "MM_YouthTypeface-v3_4x5_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/44f7e256e2dadc812dfa7f36a5265770127b43d7.mp4",
+      "filename": "MM-DigitalOOH-04_16x9_2500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "e5d481ba-38df-4ea3-a15a-0910f46c7870",
+  "detail": {
+    "title": "Marshmallow",
+    "designersText": "Ragged Edge",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 27 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Marshmallow",
+      "디자이너": "Ragged Edge",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 27 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

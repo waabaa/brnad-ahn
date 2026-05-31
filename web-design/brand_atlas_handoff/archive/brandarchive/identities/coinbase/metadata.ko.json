@@ -1,0 +1,212 @@
+{
+  "출처": "Brand Archive",
+  "브랜드명": "Coinbase",
+  "슬러그": "coinbase",
+  "원본URL": "https://brandarchive.xyz/identity/coinbase",
+  "연도": 2022,
+  "디자이너": [
+    "Moniker"
+  ],
+  "소속컬렉션": {
+    "이름": "Technology",
+    "슬러그": "technology"
+  },
+  "PRO잠금여부": false,
+  "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음",
+  "상세정보": {
+    "브랜드명": "Coinbase",
+    "디자이너": "Moniker",
+    "연도": "2022",
+    "태그": "",
+    "섹션": [
+      "로고",
+      "타입",
+      "컬러",
+      "아트 디렉션",
+      "애플리케이션"
+    ],
+    "컬러": [
+      {
+        "hex": "#0052FE",
+        "rgb": "0, 82, 254",
+        "cmyk": "100, 68, 0, 0"
+      },
+      {
+        "hex": "#6A8BFF",
+        "rgb": "106, 139, 255",
+        "cmyk": "58, 45, 0, 0"
+      },
+      {
+        "hex": "#00D180",
+        "rgb": "0, 209, 128",
+        "cmyk": "100, 0, 39, 18"
+      },
+      {
+        "hex": "#FFC801",
+        "rgb": "255, 200, 1",
+        "cmyk": "0, 22, 100, 0"
+      },
+      {
+        "hex": "#FF7900",
+        "rgb": "255, 121, 0",
+        "cmyk": "0, 53, 100, 0"
+      },
+      {
+        "hex": "#AFC2C0",
+        "rgb": "175, 194, 192",
+        "cmyk": "10, 0, 1, 24"
+      },
+      {
+        "hex": "#F2F2F2",
+        "rgb": "242, 242, 242",
+        "cmyk": "0, 0, 0, 5"
+      }
+    ],
+    "서체정보": "Designer: Moniker Released: 2022Foundries",
+    "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+  },
+  "다운로드설정": "이미지만 저장",
+  "에셋요약": {
+    "전체에셋수": 16,
+    "이미지수": 15,
+    "영상수": 1,
+    "이번에저장한파일수": 15
+  },
+  "에셋": [
+    {
+      "종류": "이미지",
+      "원본파일명": "Wordmark copy77.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3000,
+      "높이": 2000,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/7d32e107586a94472a0121ded42deda80f0a107b-3000x2000.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\001-Wordmark-copy77.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Wordmark copy.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3000,
+      "높이": 2000,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/646d3bd4dac9c96bb0d9185feb75272f979ef087-3000x2000.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\002-Wordmark-copy.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Card_5k_edit.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1706,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/431b913d90d11b00b5605fc9bb7d914487e6abfa-2560x1706.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\003-Card_5k_edit.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Auditorium.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1706,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/119a7b3aaadd89a8756727a245950bcef090dd70-2560x1706.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\004-Auditorium.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Billboard_Wrap_02.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1707,
+      "높이": 2561,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/dac39323eae516bdeae8e4b001c7dfa36d58e9a9-1707x2561.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\005-Billboard_Wrap_02.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Screens.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1706,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/096c8ea6b2e024601bec324d9e4262a11d3413c5-2560x1706.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\006-Screens.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Street_Poster_01.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1707,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/aa4cef365063d604e287857e6d5c4b7df1a72ebe-2560x1707.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\007-Street_Poster_01.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Wild_Posting_02b.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1707,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/f288efc1d1915293ba69b04750602b176ccba795-2560x1707.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\008-Wild_Posting_02b.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Coinbase_Moniker_Guidelines.png",
+      "MIME": "image/png",
+      "너비": 5000,
+      "높이": 2854,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/4c32451b14a851895eae9914607d1162f8e053d5-5000x2854.png",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\009-Coinbase_Moniker_Guidelines.png"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Coinbase_Moniker_Social-scaled.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1699,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/c3e247653ed772bb0f2dc99c91d68ff48a9d2e18-2560x1699.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\010-Coinbase_Moniker_Social-scaled.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "App_Logo.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1707,
+      "높이": 2560,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/a0c4aaa687cc502940b4ec2e2de3b48dd584ee9f-1707x2560.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\011-App_Logo.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "iPad_02.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1707,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/88a0e8a315c9c20a5fe2db4c5836f4309351876f-2560x1707.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\012-iPad_02.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "iPhone_02.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1707,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/0ec9b2261cfa628789072b2b06d13f482df9b90a-2560x1707.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\013-iPhone_02.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "Exterior.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2560,
+      "높이": 1706,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/443b094cc658f287aac940d2f7638d3f31bd167d-2560x1706.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\014-Exterior.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "1-Type_Styles copy.jpg",
+      "MIME": "image/jpeg",
+      "너비": 3000,
+      "높이": 1200,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/426127af642f3b65528d21b1b890432f8b86de08-3000x1200.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\coinbase\\assets\\015-1-Type_Styles-copy.jpg"
+    }
+  ]
+}

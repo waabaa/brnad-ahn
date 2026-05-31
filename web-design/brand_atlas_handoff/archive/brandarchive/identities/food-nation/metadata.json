@@ -1,0 +1,381 @@
+{
+  "source": "brandarchive",
+  "name": "Food Nation",
+  "slug": "food-nation",
+  "url": "https://brandarchive.xyz/identity/food-nation",
+  "year": 2022,
+  "exclusive": false,
+  "collection": {
+    "title": "From New Zealand",
+    "slug": "from-new-zealand"
+  },
+  "designers": [
+    "Seachange"
+  ],
+  "assetCount": 33,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/369a2fea0a4a2ecf5db58496f84b50679975bc9c-2500x1381.jpg",
+      "filename": "621ffc6a13a3a88d7085bc68_Seachange_web-2022_FN_Case-Study_FINAL_12.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1381,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\001-621ffc6a13a3a88d7085bc68_Seachange_web-2022_FN_Case-Study_FINAL_12.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/76f929ba18f76ffc59bdd2445579da12bbb56489-3000x1893.jpg",
+      "filename": "food-Nation copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1893,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\002-food-Nation-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8206c768469ce7b625a706748fabeb101dd9acb3-900x526.gif",
+      "filename": "6226b4fe56f223cab736f845_Icon_animation-RESIZED_Compressed.gif",
+      "mimeType": "image/gif",
+      "width": 900,
+      "height": 526,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\003-6226b4fe56f223cab736f845_Icon_animation-RESIZED_Compressed.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a112e4a9cdeac0788614594cf844495118d0da84-2500x1381.jpg",
+      "filename": "621ffbd9f291f87eb3977c7e_Seachange_web-2022_FN_Case-Study_FINAL_2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1381,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\004-621ffbd9f291f87eb3977c7e_Seachange_web-2022_FN_Case-Study_FINAL_2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/659800cb02eb48e7b5895d7e2602ba7978b8952d-2600x1304.jpg",
+      "filename": "621ffbbdec2bfc7117a29202_SC_Website_Featured_Image_4-p-2600.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2600,
+      "height": 1304,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\005-621ffbbdec2bfc7117a29202_SC_Website_Featured_Image_4-p-2600.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d26edcc1392dccf33fbc7a8938e2d9dbe8808bd-1200x1355.jpg",
+      "filename": "621ffc5701a1f04508c4fc38_Seachange_web-2022_FN_Case-Study_FINAL_10.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\006-621ffc5701a1f04508c4fc38_Seachange_web-2022_FN_Case-Study_FINAL_10.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/32292c61780ab44e9832096b277f1a50c725a174-1223x664.jpg",
+      "filename": "621ffcc1ec2bfcd053a2ef59_Seachange_web-2022_FN_Case-Study_FINAL_17-1.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1223,
+      "height": 664,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\007-621ffcc1ec2bfcd053a2ef59_Seachange_web-2022_FN_Case-Study_FINAL_17-1.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3762f105805ca0d38733268621b53e585347202e-1200x1355.jpg",
+      "filename": "640a5665615a216f342e97a5_Seachange_web-2022_FN_Case-Study_FINAL_40.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\008-640a5665615a216f342e97a5_Seachange_web-2022_FN_Case-Study_FINAL_40.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/97514e42c11ce9f7efa471a51c7f925ac0b3edf7-1917x1137.jpg",
+      "filename": "640a564825d9bdfb1210ced0_Seachange_web-2022_FN_Case-Study_FINAL_39.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1917,
+      "height": 1137,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\009-640a564825d9bdfb1210ced0_Seachange_web-2022_FN_Case-Study_FINAL_39.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/66f26e5c081368fd8da2dea8258085a0efd11620-1917x1137.jpg",
+      "filename": "640a5648652aa3342c9b6d2b_Seachange_web-2022_FN_Case-Study_FINAL_37.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1917,
+      "height": 1137,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\010-640a5648652aa3342c9b6d2b_Seachange_web-2022_FN_Case-Study_FINAL_37.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/99cf5b3e7db325efa595ac33646b06f521eff88a-1917x1137.jpg",
+      "filename": "640a56488359fd5b270d3f17_Seachange_web-2022_FN_Case-Study_FINAL_38.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1917,
+      "height": 1137,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\011-640a56488359fd5b270d3f17_Seachange_web-2022_FN_Case-Study_FINAL_38.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/04ed40cd09f390cd17fab1e3ea6f4f603e316272-1200x1355.jpg",
+      "filename": "621ffc7f26572a1d91541e24_Seachange_web-2022_FN_Case-Study_FINAL_14.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\012-621ffc7f26572a1d91541e24_Seachange_web-2022_FN_Case-Study_FINAL_14.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee48d95a26d9e1376dee445e8ce9c5e9874da421-3425x3867.jpg",
+      "filename": "621ffd365d5f71d803546578_Seachange_web-2022_FN_Case-Study_FINAL_23.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3425,
+      "height": 3867,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\013-621ffd365d5f71d803546578_Seachange_web-2022_FN_Case-Study_FINAL_23.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/86b27cb114cdfc96b9ccd69d3fedc2b80b6387be-3425x3867.jpg",
+      "filename": "621ffd365d5f71f7f7546577_Seachange_web-2022_FN_Case-Study_FINAL_22.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3425,
+      "height": 3867,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\014-621ffd365d5f71f7f7546577_Seachange_web-2022_FN_Case-Study_FINAL_22.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68c2133a72266ce645a1890a54f7edb2dd46800e-3425x3867.jpg",
+      "filename": "621ffd375d5f712c5e546579_Seachange_web-2022_FN_Case-Study_FINAL_21.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3425,
+      "height": 3867,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\015-621ffd375d5f712c5e546579_Seachange_web-2022_FN_Case-Study_FINAL_21.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/79f79ef18e121e56ec424c7fd9dc22fbe49a5a2c-3425x3867.jpg",
+      "filename": "621ffd375d5f7151da54657a_Seachange_web-2022_FN_Case-Study_FINAL_20.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3425,
+      "height": 3867,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\016-621ffd375d5f7151da54657a_Seachange_web-2022_FN_Case-Study_FINAL_20.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c5c786027745103c3cb35c809613ce83f23b209a-1200x1355.jpg",
+      "filename": "621ffc7f26572aa622541e25_Seachange_web-2022_FN_Case-Study_FINAL_13.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\017-621ffc7f26572aa622541e25_Seachange_web-2022_FN_Case-Study_FINAL_13.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/00d5dcb2b06efb85b31f983f36648e39c53426a7-2683x3183.jpg",
+      "filename": "621ffc407c3798c1fcf9db1e_Seachange_web-2022_FN_Case-Study_FINAL_6.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2683,
+      "height": 3183,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\018-621ffc407c3798c1fcf9db1e_Seachange_web-2022_FN_Case-Study_FINAL_6.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/99126630a266986c2de3b6c27ce7048b1a3f9160-2683x3183.jpg",
+      "filename": "621ffc407c37984c29f9db1c_Seachange_web-2022_FN_Case-Study_FINAL_8.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2683,
+      "height": 3183,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\019-621ffc407c37984c29f9db1c_Seachange_web-2022_FN_Case-Study_FINAL_8.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/86cfb28afbe456cd06311d53b14c301a38152184-1500x1780.jpg",
+      "filename": "621ffc407c37984e42f9db1a_Seachange_web-2022_FN_Case-Study_FINAL_7.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1780,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\020-621ffc407c37984e42f9db1a_Seachange_web-2022_FN_Case-Study_FINAL_7.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/346404d7d714b0fa8c806fc31159618425f1eb12-2683x3183.jpg",
+      "filename": "621ffc407c37989c40f9db1b_Seachange_web-2022_FN_Case-Study_FINAL_4.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2683,
+      "height": 3183,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\021-621ffc407c37989c40f9db1b_Seachange_web-2022_FN_Case-Study_FINAL_4.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/51b50a8f20cf1f0fa8f7062eecb9b67b90b8033b-1200x1355.jpg",
+      "filename": "621ffc5701a1f03219c4fc37_Seachange_web-2022_FN_Case-Study_FINAL_11.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\022-621ffc5701a1f03219c4fc37_Seachange_web-2022_FN_Case-Study_FINAL_11.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d51c8cbc5567b52eeb455f60a5d3daf11f314f2-1200x1355.jpg",
+      "filename": "621ffcc1ec2bfcaf31a2ef58_Seachange_web-2022_FN_Case-Study_FINAL_16.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1355,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\023-621ffcc1ec2bfcaf31a2ef58_Seachange_web-2022_FN_Case-Study_FINAL_16.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b43a67ad39ec6e30ce5a61f6277763eaed65fe35-940x1115.jpg",
+      "filename": "640a55dcbb975ccb4cab106a_Seachange_web-2022_FN_Case-Study_FINAL_33.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\024-640a55dcbb975ccb4cab106a_Seachange_web-2022_FN_Case-Study_FINAL_33.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f46d4d3cf3b80bf5176c1b62e7bc5f71960c599-940x1115.jpg",
+      "filename": "640a55dcdfdea32b94cd9471_Seachange_web-2022_FN_Case-Study_FINAL_31.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\025-640a55dcdfdea32b94cd9471_Seachange_web-2022_FN_Case-Study_FINAL_31.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cb05cc6fb3d11fe2cb1360d2ff3efcd74feed126-940x1115.jpg",
+      "filename": "640a55dd1c50fc0d26ad578c_Seachange_web-2022_FN_Case-Study_FINAL_27.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\026-640a55dd1c50fc0d26ad578c_Seachange_web-2022_FN_Case-Study_FINAL_27.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b9394fe70a1fc04a1c00b4807e9f4c7fc1bd0d8-940x1115.jpg",
+      "filename": "640a55dd1c50fcd073ad57cc_Seachange_web-2022_FN_Case-Study_FINAL_25.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\027-640a55dd1c50fcd073ad57cc_Seachange_web-2022_FN_Case-Study_FINAL_25.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4d39ea6baee05a7fce5a7eadbc0d69fb16554535-940x1115.jpg",
+      "filename": "640a55dd37cc62237a48db7a_Seachange_web-2022_FN_Case-Study_FINAL_28.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\028-640a55dd37cc62237a48db7a_Seachange_web-2022_FN_Case-Study_FINAL_28.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bdc3d48a5cb5cbe9d9ad054aa031a708f4a43f28-940x1115.jpg",
+      "filename": "640a55dd82f069946b1c1158_Seachange_web-2022_FN_Case-Study_FINAL_24.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\029-640a55dd82f069946b1c1158_Seachange_web-2022_FN_Case-Study_FINAL_24.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c115194d951497c590d9f6e576e348d2db10d6e2-940x1115.jpg",
+      "filename": "640a55dd652aa357c29b6b09_Seachange_web-2022_FN_Case-Study_FINAL_32.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\030-640a55dd652aa357c29b6b09_Seachange_web-2022_FN_Case-Study_FINAL_32.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f0ec20f6cd435417f9efe4fc5a049838a90e7e6-940x1115.jpg",
+      "filename": "640a55dd652aa315219b6b08_Seachange_web-2022_FN_Case-Study_FINAL_26.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\031-640a55dd652aa315219b6b08_Seachange_web-2022_FN_Case-Study_FINAL_26.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3caabef4b31f47987b64b429e05758f0493e5ed-940x1115.jpg",
+      "filename": "640a55dde96200021002e8f5_Seachange_web-2022_FN_Case-Study_FINAL_29.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\032-640a55dde96200021002e8f5_Seachange_web-2022_FN_Case-Study_FINAL_29.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/67b374fab6bcd398e566aa67824dbdcee212638d-940x1115.jpg",
+      "filename": "640a55ddfef672169fe820a1_Seachange_web-2022_FN_Case-Study_FINAL_30.jpg",
+      "mimeType": "image/jpeg",
+      "width": 940,
+      "height": 1115,
+      "localPath": "archive\\brandarchive\\identities\\food-nation\\assets\\033-640a55ddfef672169fe820a1_Seachange_web-2022_FN_Case-Study_FINAL_30.jpg"
+    }
+  ],
+  "rawId": "4a30e3ef-0109-446e-ad05-b4d084f3f932",
+  "detail": {
+    "title": "Food Nation",
+    "designersText": "Seachange",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#F476B5",
+        "rgb": "244, 118, 181",
+        "cmyk": "0, 52, 26, 4"
+      },
+      {
+        "hex": "#5EBC5A",
+        "rgb": "94, 188, 90",
+        "cmyk": "50, 0, 52, 26"
+      },
+      {
+        "hex": "#EF1117",
+        "rgb": "239, 17, 23",
+        "cmyk": "0, 93, 90, 6"
+      }
+    ],
+    "typeText": "Designer: s Released: 2010 Foundry: A2-TYPE",
+    "korean": {
+      "브랜드명": "Food Nation",
+      "디자이너": "Seachange",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#F476B5",
+          "rgb": "244, 118, 181",
+          "cmyk": "0, 52, 26, 4"
+        },
+        {
+          "hex": "#5EBC5A",
+          "rgb": "94, 188, 90",
+          "cmyk": "50, 0, 52, 26"
+        },
+        {
+          "hex": "#EF1117",
+          "rgb": "239, 17, 23",
+          "cmyk": "0, 93, 90, 6"
+        }
+      ],
+      "서체정보": "Designer: s Released: 2010 Foundry: A2-TYPE",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

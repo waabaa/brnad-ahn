@@ -1,0 +1,282 @@
+{
+  "source": "brandarchive",
+  "name": "Instacart",
+  "slug": "instacart",
+  "url": "https://brandarchive.xyz/identity/instacart",
+  "year": 2022,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Wolff Olins",
+    "slug": "wolff-olins"
+  },
+  "designers": [
+    "Wolff Olins"
+  ],
+  "assetCount": 30,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b7141d64ab9fd3ccdf182f95984b00e5c58d8396-1049x1188.jpg",
+      "filename": "upload-f5477cc9-9ef9-4c15-b6ac-422da26c6de6 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1049,
+      "height": 1188,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\001-upload-f5477cc9-9ef9-4c15-b6ac-422da26c6de6-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4bf18d1f883af29f4203f29b044865ee33f59f76-1920x1080.jpg",
+      "filename": "03-Instacart-Logo-Kale-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\002-03-Instacart-Logo-Kale-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6e65c54d066a012c2ad671ec1c4e68a2322862a1-1920x1080.jpg",
+      "filename": "03-Instacart-Logo-Kale-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\003-03-Instacart-Logo-Kale-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b45c886941f9a01e894620ba5307b27e1af4101-1380x464.jpg",
+      "filename": "3b01f43944b53d35c9e308cac5471a1824c2416-852x1310.png copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1380,
+      "height": 464,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\004-3b01f43944b53d35c9e308cac5471a1824c2416-852x1310.png-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fc1e54cb76c15db178352df97ef552220f634f3e-1380x464.jpg",
+      "filename": "2b01f439b44b53d35c9e308cac5471a1824c2416-852x1310 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1380,
+      "height": 464,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\005-2b01f439b44b53d35c9e308cac5471a1824c2416-852x1310-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/99df55cb3e515fdc213a8530f0ffc985e464138e.mp4",
+      "filename": "03_Instacart_Logo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8dc71d479f11fa7118f503c48c72271ddde4cd93.mp4",
+      "filename": "13_Instacart_Typeface-vimeo-864419935-dash-google_mediacdn_sep-video-414398b4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e0b0a4be8a5962e434943481596bb1b47bcd838e.mp4",
+      "filename": "14_Instacart_mmm-vimeo-864419970-hls-google_mediacdn_sep-5001.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8b16725f4e8fb87ac952a65f9b4a2beb11c1f341.mp4",
+      "filename": "04_Instacart_ShopSavor-vimeo-864408232-hls-google_mediacdn_sep-2640.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4fae93f9b1edba5307b9d54a5e3fda0e9e0f1ea5-2000x2250.jpg",
+      "filename": "20_Instacart_Photography-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\006-20_Instacart_Photography-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ce52dc70747b672b8f8ec831cbdd62d5ef27111-2000x2250.jpg",
+      "filename": "20_Instacart_Photography-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\007-20_Instacart_Photography-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3ab1539437d833a3614f554d6ea5becf4e3c1882.mp4",
+      "filename": "26_Instacart_Illustration-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e59c0a44f57228ee68bf93d0df53a3e3f8d6c7c9.mp4",
+      "filename": "26_Instacart_Illustration-2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b368e62ac61a573aee15b33949a019928ff7235b.mp4",
+      "filename": "16_Instacart_Illustration-vimeo-864420061-hls-google_mediacdn_sep-1669.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3cb01f19b89a4eded46eb78f034b53ff2b742208-3840x2160.jpg",
+      "filename": "00_Instacart_OOH-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\008-00_Instacart_OOH-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/89c41cb54a200d0b2869083264c06f96e4fc4c75.mp4",
+      "filename": "02_Instacart_EverythingCart-vimeo-864408200-hls-google_mediacdn_sep-3369.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59b543a5efc456b1cdcd9119a16130f7c1291737-3840x2160.jpg",
+      "filename": "05-Instacart_TapNom.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\009-05-Instacart_TapNom.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7f9b8298056e2862e1ee47ecac77e5fdd4dee61c.mp4",
+      "filename": "18_Instacart_Vitamins-vimeo-864420084-hls-google_mediacdn_sep-3530.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/515d8cc4b136f9d81894051fa32ffdec102d292d-2000x2250.jpg",
+      "filename": "10_Instacart_Pickup_crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\010-10_Instacart_Pickup_crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c2d62b839c52daba0141f0703f8067ab38c10239-3840x2160.jpg",
+      "filename": "19_Instacart_Market.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\011-19_Instacart_Market.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8990a89117db49a9510310e571c78eca525c907e-3840x2160.jpg",
+      "filename": "25_Instacart_HQ.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\012-25_Instacart_HQ.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1837a9f48290b99a78502565c8d6b909162b5367-3840x2160.jpg",
+      "filename": "08_Instacart_ShopperBadge.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\013-08_Instacart_ShopperBadge.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d285b35a4aa616f9ee75a7c4ee2db50c3321cfd-3840x2160.jpg",
+      "filename": "22_Instacart_Tee.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\instacart\\assets\\014-22_Instacart_Tee.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/966b386eee5bef77b6f713bf98a50fd51cbc1453.mp4",
+      "filename": "01_Instacart_AppLoader-vimeo-864408167-hls-google_mediacdn_sep-2407.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d53a952710e6ae2f99ab11f3f26d47ac7fdc1754.mp4",
+      "filename": "06_Instacart_AddToCart-vimeo-864408267-hls-google_mediacdn_sep-965.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/be6992147fa5205a0cb6872511b36d96f5db1403.mp4",
+      "filename": "07_Instacart_Delivery-vimeo-864408284-hls-google_mediacdn_sep-3913.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ec89bd27bcca14433392d50ef018ad67edbc1955.mp4",
+      "filename": "09_Instacart_Shopper-vimeo-864408311-hls-google_mediacdn_sep-2000.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e7b0ac30f89b3db34d65affbe52b396643e6921c.mp4",
+      "filename": "10_Instacart_Site.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/10726fc0df81b7a3a8d35eeb9bb25e22618f316f.mp4",
+      "filename": "12_Instacart_Stories-vimeo-864419891-hls-google_mediacdn_sep-6675.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1988189acc59eb5b4dc397eff339b98c20faa42c.mp4",
+      "filename": "21_Instacart_Recipe-vimeo-864420135-hls-google_mediacdn_sep-3033.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "ad05c8ae-fbcb-4a29-a0c2-9400691deb89",
+  "detail": {
+    "title": "Instacart",
+    "designersText": "Wolff Olins",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 30 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Instacart",
+      "디자이너": "Wolff Olins",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 30 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

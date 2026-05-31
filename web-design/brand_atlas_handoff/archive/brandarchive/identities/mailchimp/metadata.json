@@ -1,0 +1,394 @@
+{
+  "source": "brandarchive",
+  "name": "Mailchimp",
+  "slug": "mailchimp",
+  "url": "https://brandarchive.xyz/identity/mailchimp",
+  "year": 2018,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Collins",
+    "slug": "designed-by-collins"
+  },
+  "designers": [
+    "Collins"
+  ],
+  "assetCount": 36,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/039f3d0be2d78e67527e863cebf35cce14957290.mp4",
+      "filename": "09_Mailchimp_Ad_1-vimeo-402368601-hls-fastly_skyfire-3160.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0841369714e0589607253cefe64082ebea2ac87c-1500x1000.jpg",
+      "filename": "Mailchimp_Case_Study_1-3c9516 2 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\001-Mailchimp_Case_Study_1-3c9516-2-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d8f1d9b13665664dfe5f0254181eeb6955c629ce-2500x1667.jpg",
+      "filename": "Mailchimp_Case_Study_1-3c9516 2 copy1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\002-Mailchimp_Case_Study_1-3c9516-2-copy1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a042a195d13c1c29d7496aefe56abc8f599801c9-2500x1667.jpg",
+      "filename": "Mailchimp_Case_Study_1-3c9516 2 copy2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1667,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\003-Mailchimp_Case_Study_1-3c9516-2-copy2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a5532c20a228c4232a23bba76b08b0ff5b1353e-1500x1000.gif",
+      "filename": "Mailchimp_Case_Study_1-3c9516 2.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\004-Mailchimp_Case_Study_1-3c9516-2.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9ce3bafa4688833638f78d8fb9576455a3a194c3-1650x2200.png",
+      "filename": "MC_Case_Study_V2-07-a3cdbb.png",
+      "mimeType": "image/png",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\005-MC_Case_Study_V2-07-a3cdbb.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37f3f9b10915a14589e85583ec37b66fa620cc36-1500x1000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\006-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a99533d5fb215bcff1bb3319b1e11a5540ee852a-1500x1000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\007-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a0de6b53b1bf75cf393b39633b883e0486be8fa5-1500x1000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\008-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/399f9b0129df755cedb27488cf35f6f7a5695d70-1500x1000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\009-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bd0cc4185321f01f98ba0a2ae4b0b10bb787732e-1500x1000.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\010-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6351f71443313bb87b530ff3ef2cb12bddc2a0d0-1500x1000.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\011-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5061899907c1bfef81e50475ff83fb338fbb5f90-1500x1000.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\012-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/92c686f5becfc8c8fa1b102c1d0e3db340d53c72-1500x1000.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\013-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d51f42bc29d4a04d3c1223cad52b43693826fcbc-1500x1000.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\014-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1eaf150a816f54e89c6dd413e0c22414e9f49053-1500x1000.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\015-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/069e602c057f26bf2a04eb41acf9cbc8e14060b8-1500x1000.jpg",
+      "filename": "11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\016-11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b5d7e64d7b1c8053f21c2a0151a2d22428cefbe-1500x2000.gif",
+      "filename": "MailchimpAnimation_MagnifyingGlass_V005_white.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\017-MailchimpAnimation_MagnifyingGlass_V005_white.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ff04f526f589dfb63d8b25a3e3cac926274fb624-1500x2000.gif",
+      "filename": "MailchimpAnimation_Mobile_V002.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\018-MailchimpAnimation_Mobile_V002.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0fb3f3698e26b09f3226cc057bfea34ae95075d2-2292x1544.png",
+      "filename": "MC_Case_Study_V2-06.png",
+      "mimeType": "image/png",
+      "width": 2292,
+      "height": 1544,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\019-MC_Case_Study_V2-06.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a0e11d2c8aa87da96b30fa402138c70c061a202-1500x1000.gif",
+      "filename": "Type_3-2.gif",
+      "mimeType": "image/gif",
+      "width": 1500,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\020-Type_3-2.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/79457f98863ddc5750da72434349b74e5562ee22-3000x2000.png",
+      "filename": "Mailchimp-Case-Study-15.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\021-Mailchimp-Case-Study-15.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/592a713ffab35747d392450cda21b631d1d3fbdc-3000x2000.jpg",
+      "filename": "Mailchimp-Case-Study-16.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\022-Mailchimp-Case-Study-16.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6958a2a6617a2d9d1c95b4dfaf90d13e725ef004-3000x2000.jpg",
+      "filename": "Mailchimp-Flow-High-14.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\023-Mailchimp-Flow-High-14.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/63eb4e79ccb19b312d4193c006741d4ca0616747-3000x2000.jpg",
+      "filename": "Mailchimp-Case-Study-6.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\024-Mailchimp-Case-Study-6.png.jpeg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1c47b56f107a36e7daa1af375c1d81666b58a773.mp4",
+      "filename": "Mailchimp-Homepage-Animation-vimeo-291382121-hls-fastly_skyfire_sep-10278.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/19bd1b75ed27e1552b9fddf32730186e90a630cc-3000x1999.jpg",
+      "filename": "Books-231-7bee8b.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1999,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\025-Books-231-7bee8b.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8c104e0a9fc0e656cd7b27e9dba3d2e9aaad535b-3000x2000.jpg",
+      "filename": "Mailchimp-Case-Study-10.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\026-Mailchimp-Case-Study-10.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2415750d872faf57b2e18e3ce7dbcfa74f8254d-1600x2134.jpg",
+      "filename": "Mailchimp-Case-Study-13.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1600,
+      "height": 2134,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\027-Mailchimp-Case-Study-13.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e6f11366f9da68e839ca487dcfd82a0d8bb7856b-3000x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\028-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d33bb9d08728c59e2bc88c0e71222e561775130f-3000x2000.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\029-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c8c045b1288cadd85e62db806df51fb78d05960b-3000x2000.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\030-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1102d225afa0bde75cf4042ac5d3bcffa80122d4-3000x2000.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\031-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/327695888f4542c863f7276769c0d0f6263c2044-1920x1080.jpg",
+      "filename": "5c8317be77fba976effa33a3_Mailchimp_12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\032-5c8317be77fba976effa33a3_Mailchimp_12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5422050dc2f1cce6c999fe8384c0ef3a769560da-1600x897.png",
+      "filename": "6514c506ba80b4a13f75e40e_launchnotes_mailchimp_out_of_home_1.png",
+      "mimeType": "image/png",
+      "width": 1600,
+      "height": 897,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\033-6514c506ba80b4a13f75e40e_launchnotes_mailchimp_out_of_home_1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/72566af29c23206b9e1c00a543e8f082903fa154-1600x897.png",
+      "filename": "6514c506ba80b4a13f75e442_launchnotes_mailchimp_out_of_home_2.png",
+      "mimeType": "image/png",
+      "width": 1600,
+      "height": 897,
+      "localPath": "archive\\brandarchive\\identities\\mailchimp\\assets\\034-6514c506ba80b4a13f75e442_launchnotes_mailchimp_out_of_home_2.png"
+    }
+  ],
+  "rawId": "669699c5-5458-4f68-bf7d-08240b770e8a",
+  "detail": {
+    "title": "Mailchimp",
+    "designersText": "Collins",
+    "yearText": "2018",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FFE01B",
+        "rgb": "255, 224, 27",
+        "cmyk": "0, 12, 89, 0"
+      },
+      {
+        "hex": "#241C15",
+        "rgb": "36, 28, 21",
+        "cmyk": "0, 22, 42, 86"
+      }
+    ],
+    "typeText": "Designer: sManvel ShmavonyanOswald Bruce Cooper Released: 1982 Foundry: BitstreamDesigner: sChristian SchwartzIlya RudermanPanayiotis Haratzopoulos Released: 2009 Foundry: Commercial Type",
+    "korean": {
+      "브랜드명": "Mailchimp",
+      "디자이너": "Collins",
+      "연도": "2018",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FFE01B",
+          "rgb": "255, 224, 27",
+          "cmyk": "0, 12, 89, 0"
+        },
+        {
+          "hex": "#241C15",
+          "rgb": "36, 28, 21",
+          "cmyk": "0, 22, 42, 86"
+        }
+      ],
+      "서체정보": "Designer: sManvel ShmavonyanOswald Bruce Cooper Released: 1982 Foundry: BitstreamDesigner: sChristian SchwartzIlya RudermanPanayiotis Haratzopoulos Released: 2009 Foundry: Commercial Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

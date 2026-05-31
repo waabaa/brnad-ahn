@@ -1,0 +1,243 @@
+{
+  "source": "brandarchive",
+  "name": "First Choice",
+  "slug": "first-choice",
+  "url": "https://brandarchive.xyz/identity/first-choice",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Ragged Edge",
+    "slug": "ragged-edge"
+  },
+  "designers": [
+    "Ragged Edge"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/36f88e9abf989648dc9f9523822795f1ba5c2681-4000x2500.jpg",
+      "filename": "StackedLogo_FC-1-2 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4000,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\001-StackedLogo_FC-1-2-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/546cc31ea1287dd16a03ca23f5e2230cbbcb41ef.mp4",
+      "filename": "FC_Hero-03_16x9_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fc61a4266f308163d8c56eeb064ebd36a30db099-6000x7500.png",
+      "filename": "25_First_Choice_App_001.png",
+      "mimeType": "image/png",
+      "width": 6000,
+      "height": 7500,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\002-25_First_Choice_App_001.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6eba668142f55d5897a1a7bf7bad4d1c750c7ad4-10667x6000.png",
+      "filename": "02_First_Choice_Concept_001.png",
+      "mimeType": "image/png",
+      "width": 10667,
+      "height": 6000,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\003-02_First_Choice_Concept_001.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b5caedb58cbe173adc3c7df7353bea2ae154a7c4-10667x6000.png",
+      "filename": "18_First_Choice_Destination_001.png",
+      "mimeType": "image/png",
+      "width": 10667,
+      "height": 6000,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\004-18_First_Choice_Destination_001.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/55172a5b529e71582c51fdb1b43b3e0a2fb2d356-1440x1800.png",
+      "filename": "FC_073.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\005-FC_073.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/570d868de828498331c7d36e7eddf1b825b51c64-1440x1800.png",
+      "filename": "FC_083.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\006-FC_083.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7cef9556bb3411156054dbb1f4167697be3d06c-1440x1800.png",
+      "filename": "FC_114.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\007-FC_114.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/533445cbb8d09650f9ddb5cd84691e378da169dc-1440x1800.png",
+      "filename": "FC_116.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\008-FC_116.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/116ac76a5a2072844820d33895fb063abd68c7b3-1440x1800.png",
+      "filename": "FC_117.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\009-FC_117.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb5911d4f61b0e78eefbaf895a55b2ec10f6f188-10667x6000.png",
+      "filename": "FC_130.png",
+      "mimeType": "image/png",
+      "width": 10667,
+      "height": 6000,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\010-FC_130.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b6f7344afa17dd382db667b0d0c542f4028f5c87-10667x6000.png",
+      "filename": "FC_132.png",
+      "mimeType": "image/png",
+      "width": 10667,
+      "height": 6000,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\011-FC_132.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/337867936640c5c7f9804ecd2ab30e006b39045a.mp4",
+      "filename": "FC_Barcodes-02_16x9_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/714680be8566bd2a6971e3b896b456980737f61c.mp4",
+      "filename": "FC_Catagories-03_4x5_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b02f752986e77dcf75564987ab6e3855d6b41e50.mp4",
+      "filename": "FC-LogoAnim-CS_16x9-cut.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fd808452f9dc0e3a7b03c1933f5e737b34f8512d.mp4",
+      "filename": "Headline-01_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/38d1aea07ffef0a75c0d9f2c584d6e903ab51e5a.mp4",
+      "filename": "Headline-02_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/eda81cbb39c5e1c6dad2c8e6cdaba3b2228f2732.mp4",
+      "filename": "Headline-04_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/db9f39e1d5aa5201ed1a09ee576fc4bd810ee2de.mp4",
+      "filename": "Hvar_5.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b253ce3b81c435ea858c6d47feae8a5bcefd2080.mp4",
+      "filename": "LONDON_008_3500k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/613e22b986af645083a513b14e8283a6bbaa6f6a.mp4",
+      "filename": "Phone-06_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/515c59e55e17b4b6ebe91dba1136771997897309.mp4",
+      "filename": "Postcards-09_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2c47f6fb48ac6984910069683905cdbe86da9cfd.mp4",
+      "filename": "Temp_07.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/580097661bcccb5adf2187bb278da4ff5f26c8cf.mp4",
+      "filename": "Type06_3600k.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ca3969c229e3ac93005061ec05c9d35c609fcfa8-1440x1800.png",
+      "filename": "FC_115.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 1800,
+      "localPath": "archive\\brandarchive\\identities\\first-choice\\assets\\012-FC_115.png"
+    }
+  ],
+  "rawId": "261385eb-fbf6-49f3-940c-ae66180843f1",
+  "detail": {
+    "title": "First Choice",
+    "designersText": "Ragged Edge",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 25 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "First Choice",
+      "디자이너": "Ragged Edge",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 25 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

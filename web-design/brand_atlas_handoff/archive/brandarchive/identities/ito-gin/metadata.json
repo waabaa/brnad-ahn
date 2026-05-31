@@ -1,0 +1,191 @@
+{
+  "source": "brandarchive",
+  "name": "Ito Gin",
+  "slug": "ito-gin",
+  "url": "https://brandarchive.xyz/identity/ito-gin",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Beverage",
+    "slug": "drinks"
+  },
+  "designers": [
+    "Analogue"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ede1bea5a21fa0e97c7a46605ace5bc119aa2fec-3000x1688.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_11.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\001-ANALOGUE_ITO_IMAGE_11.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bd7f4b2c19df350da5733962e89e0aaf85f2ef3d-2000x2578.jpg",
+      "filename": "ANALOGUE_ITO_IMAGE_06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2578,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\002-ANALOGUE_ITO_IMAGE_06.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e60b51465f011582a189b4a95505e1f38755e061-3000x1687.jpg",
+      "filename": "ANALOGUE_ITO_IMAGE_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1687,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\003-ANALOGUE_ITO_IMAGE_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aff4c2c50a616529e3ceff3c05a2f0847432985f-3000x1687.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_04.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 1687,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\004-ANALOGUE_ITO_IMAGE_04.jpg.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4c4082ae75ca77d89aaac3ae7f31148d98aaa3c8.mp4",
+      "filename": "ITO_TRIPLE.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/223b31ecd1afa7c54a4df54087168688b4081b0e-2000x1125.webp",
+      "filename": "ANALOGUE_ITO_SLIDER_01.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\005-ANALOGUE_ITO_SLIDER_01.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be57dc9f08b746f6c9bc9baec2edc4d8e6beae48-2000x1125.jpg",
+      "filename": "ANALOGUE_ITO_SLIDER_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\006-ANALOGUE_ITO_SLIDER_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/95d244fd72d4234c857b8962f5407fcf65be5228-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_10.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\007-ANALOGUE_ITO_IMAGE_10.jpg.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5f93ae05ab5ae7d6617dcc2ee206f216c39df0d2.mp4",
+      "filename": "ITO_STONE.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/361f22d70c8f0b4b5aa387ff76f1427c35653968-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_12.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\008-ANALOGUE_ITO_IMAGE_12.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d557f08626f64ebbeacb05373b03eb9cde6b07d-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_SLIDER_03.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\009-ANALOGUE_ITO_SLIDER_03.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be98895421377ce43a80b706cd9c0a57b57b14d1-2000x2000.jpg",
+      "filename": "ANALOGUE_ITO_SLIDER_04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\010-ANALOGUE_ITO_SLIDER_04.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/019f85d8eaea5ff52b6212415ed4702996e53ff4.mp4",
+      "filename": "MOUNTAINS.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b6b9f90c518362c989aae39c96dc3d5c6aa00d1-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_03.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\011-ANALOGUE_ITO_IMAGE_03.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1b1b726e2667e8fe802df14622aed54d29f5044c-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_07.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\012-ANALOGUE_ITO_IMAGE_07.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0172cd5aab54938ee248ec0c07c7c109574868a-2000x2000.webp",
+      "filename": "ANALOGUE_ITO_IMAGE_09.jpg.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\013-ANALOGUE_ITO_IMAGE_09.jpg.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4a4b9c959b1248cbc22d996bd040065f625325b0-2000x2578.jpg",
+      "filename": "ANALOGUE_ITO_IMAGE_06 cop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2578,
+      "localPath": "archive\\brandarchive\\identities\\ito-gin\\assets\\014-ANALOGUE_ITO_IMAGE_06-cop.jpg"
+    }
+  ],
+  "rawId": "269aba5a-ea33-45a6-9941-76058925a2df",
+  "detail": {
+    "title": "Ito Gin",
+    "designersText": "Analogue",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Ito Gin",
+      "디자이너": "Analogue",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 17 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

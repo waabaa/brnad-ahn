@@ -1,0 +1,264 @@
+{
+  "source": "brandarchive",
+  "name": "Coinbase",
+  "slug": "coinbase",
+  "url": "https://brandarchive.xyz/identity/coinbase",
+  "year": 2022,
+  "exclusive": false,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "Moniker"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d32e107586a94472a0121ded42deda80f0a107b-3000x2000.jpg",
+      "filename": "Wordmark copy77.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\001-Wordmark-copy77.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/646d3bd4dac9c96bb0d9185feb75272f979ef087-3000x2000.jpg",
+      "filename": "Wordmark copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\002-Wordmark-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6f95b682945eaea806161583a4d4506ed4f6903c.mp4",
+      "filename": "CB_CS_Clip-05_Circles_1920x1080_Small.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/431b913d90d11b00b5605fc9bb7d914487e6abfa-2560x1706.jpg",
+      "filename": "Card_5k_edit.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1706,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\003-Card_5k_edit.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/119a7b3aaadd89a8756727a245950bcef090dd70-2560x1706.jpg",
+      "filename": "Auditorium.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1706,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\004-Auditorium.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dac39323eae516bdeae8e4b001c7dfa36d58e9a9-1707x2561.jpg",
+      "filename": "Billboard_Wrap_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1707,
+      "height": 2561,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\005-Billboard_Wrap_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/096c8ea6b2e024601bec324d9e4262a11d3413c5-2560x1706.jpg",
+      "filename": "Screens.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1706,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\006-Screens.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aa4cef365063d604e287857e6d5c4b7df1a72ebe-2560x1707.jpg",
+      "filename": "Street_Poster_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\007-Street_Poster_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f288efc1d1915293ba69b04750602b176ccba795-2560x1707.jpg",
+      "filename": "Wild_Posting_02b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\008-Wild_Posting_02b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c32451b14a851895eae9914607d1162f8e053d5-5000x2854.png",
+      "filename": "Coinbase_Moniker_Guidelines.png",
+      "mimeType": "image/png",
+      "width": 5000,
+      "height": 2854,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\009-Coinbase_Moniker_Guidelines.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3e247653ed772bb0f2dc99c91d68ff48a9d2e18-2560x1699.jpg",
+      "filename": "Coinbase_Moniker_Social-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1699,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\010-Coinbase_Moniker_Social-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a0c4aaa687cc502940b4ec2e2de3b48dd584ee9f-1707x2560.jpg",
+      "filename": "App_Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1707,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\011-App_Logo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/88a0e8a315c9c20a5fe2db4c5836f4309351876f-2560x1707.jpg",
+      "filename": "iPad_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\012-iPad_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0ec9b2261cfa628789072b2b06d13f482df9b90a-2560x1707.jpg",
+      "filename": "iPhone_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1707,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\013-iPhone_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/443b094cc658f287aac940d2f7638d3f31bd167d-2560x1706.jpg",
+      "filename": "Exterior.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1706,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\014-Exterior.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/426127af642f3b65528d21b1b890432f8b86de08-3000x1200.jpg",
+      "filename": "1-Type_Styles copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\coinbase\\assets\\015-1-Type_Styles-copy.jpg"
+    }
+  ],
+  "rawId": "44fe4d02-1aa2-4619-a937-e5142f2eb98c",
+  "detail": {
+    "title": "Coinbase",
+    "designersText": "Moniker",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#0052FE",
+        "rgb": "0, 82, 254",
+        "cmyk": "100, 68, 0, 0"
+      },
+      {
+        "hex": "#6A8BFF",
+        "rgb": "106, 139, 255",
+        "cmyk": "58, 45, 0, 0"
+      },
+      {
+        "hex": "#00D180",
+        "rgb": "0, 209, 128",
+        "cmyk": "100, 0, 39, 18"
+      },
+      {
+        "hex": "#FFC801",
+        "rgb": "255, 200, 1",
+        "cmyk": "0, 22, 100, 0"
+      },
+      {
+        "hex": "#FF7900",
+        "rgb": "255, 121, 0",
+        "cmyk": "0, 53, 100, 0"
+      },
+      {
+        "hex": "#AFC2C0",
+        "rgb": "175, 194, 192",
+        "cmyk": "10, 0, 1, 24"
+      },
+      {
+        "hex": "#F2F2F2",
+        "rgb": "242, 242, 242",
+        "cmyk": "0, 0, 0, 5"
+      }
+    ],
+    "typeText": "Designer: Moniker Released: 2022Foundries",
+    "korean": {
+      "브랜드명": "Coinbase",
+      "디자이너": "Moniker",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#0052FE",
+          "rgb": "0, 82, 254",
+          "cmyk": "100, 68, 0, 0"
+        },
+        {
+          "hex": "#6A8BFF",
+          "rgb": "106, 139, 255",
+          "cmyk": "58, 45, 0, 0"
+        },
+        {
+          "hex": "#00D180",
+          "rgb": "0, 209, 128",
+          "cmyk": "100, 0, 39, 18"
+        },
+        {
+          "hex": "#FFC801",
+          "rgb": "255, 200, 1",
+          "cmyk": "0, 22, 100, 0"
+        },
+        {
+          "hex": "#FF7900",
+          "rgb": "255, 121, 0",
+          "cmyk": "0, 53, 100, 0"
+        },
+        {
+          "hex": "#AFC2C0",
+          "rgb": "175, 194, 192",
+          "cmyk": "10, 0, 1, 24"
+        },
+        {
+          "hex": "#F2F2F2",
+          "rgb": "242, 242, 242",
+          "cmyk": "0, 0, 0, 5"
+        }
+      ],
+      "서체정보": "Designer: Moniker Released: 2022Foundries",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

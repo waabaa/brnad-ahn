@@ -1,0 +1,233 @@
+{
+  "source": "brandarchive",
+  "name": "Mazda",
+  "slug": "mazda",
+  "url": "https://brandarchive.xyz/identity/mazda",
+  "year": 1975,
+  "exclusive": true,
+  "collection": {
+    "title": "Historical",
+    "slug": "historical"
+  },
+  "designers": [
+    "PAOS"
+  ],
+  "assetCount": 21,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ae5519d2be260dfae12b6af6b5a936420765e3b-4500x4500.jpg",
+      "filename": "Mazda-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\001-Mazda-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e61ca0eacb9b1b60d345eda5fb325055291802cf-1350x1350.jpg",
+      "filename": "Mazda-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1350,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\002-Mazda-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ebe0a63b40888eedd6b9abc812738bbd6f1dfe3b-1054x250.jpg",
+      "filename": "Mazda-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1054,
+      "height": 250,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\003-Mazda-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/236a414b32f3c0e73f1b77f83c18a3684af585f0-1500x1500.jpg",
+      "filename": "Mazda-2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\004-Mazda-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/73a57bec278a490acb9affed1c055e366f6f415e-1400x1400.jpg",
+      "filename": "Mazda-2b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1400,
+      "height": 1400,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\005-Mazda-2b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81fd556e7c5fec2a47ea33d8e5a3e348995b30d8-2800x1500.jpg",
+      "filename": "Mazda-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2800,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\006-Mazda-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3d62b2c1bf5bf9362f00cb9c07aaebf4178bc9d0-1000x1000.jpg",
+      "filename": "Mazda-4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\007-Mazda-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5f8fcc7204b0e5ed0ee5cfecb299b304035a95eb-1000x1000.jpg",
+      "filename": "Mazda-4a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\008-Mazda-4a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3803385add1073f593d7051ad5a9d8829d642a89-2200x2200.jpg",
+      "filename": "Mazda-6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2200,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\009-Mazda-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c3e42055c4a6665a623d7a8306a1e194625880ad-3500x2500.jpg",
+      "filename": "Scan 15.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\010-Scan-15.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c6240f5635885b994a2196af8fe86947d5bb9f65-5500x5500.jpg",
+      "filename": "Scan 16.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 5500,
+      "height": 5500,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\011-Scan-16.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/337f6984df22022afe1b988846d84a747da64496-4708x2289.jpg",
+      "filename": "Scan 3.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4708,
+      "height": 2289,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\012-Scan-3.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f95f90eaec09c9dd06c378460de9947f3a8e3f34-779x310.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 779,
+      "height": 310,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\013-Mazda-CIS-Tree-PAOS-Vehicles-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3ecd33463e0fc39b277840b16b11a35ff50a9935-754x374.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 754,
+      "height": 374,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\014-Mazda-CIS-Tree-PAOS-Vehicles-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1564e6343ae0b6bf2e0cd326f849bed73eda36c4-864x402.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 864,
+      "height": 402,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\015-Mazda-CIS-Tree-PAOS-Vehicles-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ebe8bbd29c42e51550903107b44e7931a436f13-1087x365.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1087,
+      "height": 365,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\016-Mazda-CIS-Tree-PAOS-Vehicles-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/001b63eb8f81020ace808db593b6b2987d7dbfdc-1185x429.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1185,
+      "height": 429,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\017-Mazda-CIS-Tree-PAOS-Vehicles-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/20a033b85768ecaca32a22a4c6ab72005b414bba-1450x620.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-Vehicles-6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1450,
+      "height": 620,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\018-Mazda-CIS-Tree-PAOS-Vehicles-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a315079cb92da8ed757ca4e05d3f797e1c9404a0-1276x1333.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1276,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\019-Mazda-CIS-Tree-PAOS-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13c84692cf0533748125728ccba3b5b26ad84f65-2238x1079.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-3 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2238,
+      "height": 1079,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\020-Mazda-CIS-Tree-PAOS-3-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/14d31528a01e02e884defed253e34d1f9bef87db-796x554.jpg",
+      "filename": "Mazda-CIS-Tree-PAOS-7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 796,
+      "height": 554,
+      "localPath": "archive\\brandarchive\\identities\\mazda\\assets\\021-Mazda-CIS-Tree-PAOS-7.jpg"
+    }
+  ],
+  "rawId": "9536a53c-9ac1-4660-b048-84c56ea75eee",
+  "detail": {
+    "title": "Mazda",
+    "designersText": "PAOS",
+    "yearText": "1975",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 21 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Mazda",
+      "디자이너": "PAOS",
+      "연도": "1975",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 21 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

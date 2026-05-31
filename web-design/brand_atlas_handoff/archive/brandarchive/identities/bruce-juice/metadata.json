@@ -1,0 +1,170 @@
+{
+  "source": "brandarchive",
+  "name": "Bruce Juice",
+  "slug": "bruce-juice",
+  "url": "https://brandarchive.xyz/identity/bruce-juice",
+  "year": 2015,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Marx",
+    "slug": "marx-design"
+  },
+  "designers": [
+    "Marx Design"
+  ],
+  "assetCount": 14,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/189d50f40a4910fe594c09698de90d468f692b14-900x600.jpg",
+      "filename": "01-Bruce-Juice-Visual-Identity-Package-Design-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\001-01-Bruce-Juice-Visual-Identity-Package-Design-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6e852c83fae0305435eb5873077694895230711b-900x600.jpg",
+      "filename": "01-Bruce-Juice-Logotype-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\002-01-Bruce-Juice-Logotype-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/27fd4fceb33d1738414f3e9ba698a87f0cf2cb86-900x600.jpg",
+      "filename": "02-Bruce-Juice-Visual-Identity-Package-Design-Orange-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\003-02-Bruce-Juice-Visual-Identity-Package-Design-Orange-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1c93d1fdacb5c6438bc055a4aae708fd849125f2-900x600.jpg",
+      "filename": "01-Bruce-Juice-Illustration-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\004-01-Bruce-Juice-Illustration-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/981332a52910fa1fc2087b0919130696af2ec9b3-900x600.jpg",
+      "filename": "03-Bruce-Juice-Visual-Identity-Package-Design-Redder-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\005-03-Bruce-Juice-Visual-Identity-Package-Design-Redder-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/744622788c0cc11144e1e0309670748375218629-900x600.jpg",
+      "filename": "05-Bruce-Juice-Illustration-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\006-05-Bruce-Juice-Illustration-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/072c4501bcddf56e2d091455b1c66e943a1bef05-900x600.jpg",
+      "filename": "04-Bruce-Juice-Visual-Identity-Package-Design-Red-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\007-04-Bruce-Juice-Visual-Identity-Package-Design-Red-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b538caa9ad77f1dfe10232cec80d49a8d05c4f54-900x600.jpg",
+      "filename": "04-Bruce-Juice-Illustration-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\008-04-Bruce-Juice-Illustration-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1a1bce5b71bbc66accf316f157540c7ef33ebcfd-900x600.jpg",
+      "filename": "05-Bruce-Juice-Visual-Identity-Package-Design-Greener-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\009-05-Bruce-Juice-Visual-Identity-Package-Design-Greener-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fce4f1404347cdba1885767f42ef524ce7d4f5db-900x600.jpg",
+      "filename": "06-Bruce-Juice-Illustration-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\010-06-Bruce-Juice-Illustration-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e63eb9eb5d533d7c7569c38e4db2e3e6176c8219-900x600.jpg",
+      "filename": "06-Bruce-Juice-Visual-Identity-Package-Design-Golden-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\011-06-Bruce-Juice-Visual-Identity-Package-Design-Golden-Marx-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a0f691fd64ee7f90fce632c2b2df03ccbb84e90d-900x600.jpg",
+      "filename": "02-Bruce-Juice-Illustration-Marx-Design-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\012-02-Bruce-Juice-Illustration-Marx-Design-BPO.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/638ea7c333922f31ee63b9d7e3f5001814f2f3e4-900x900.jpg",
+      "filename": "Bruce-Juice-branded-t-shirt-marx-design-bpo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 900,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\013-Bruce-Juice-branded-t-shirt-marx-design-bpo.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/12c7b13dcae74deb67a1724c2f23a5e654eacf11-900x600.jpg",
+      "filename": "07-Bruce-Juice-Visual-Identity-Package-Design-Nutty-Marx-BPO.jpg",
+      "mimeType": "image/jpeg",
+      "width": 900,
+      "height": 600,
+      "localPath": "archive\\brandarchive\\identities\\bruce-juice\\assets\\014-07-Bruce-Juice-Visual-Identity-Package-Design-Nutty-Marx-BPO.jpg"
+    }
+  ],
+  "rawId": "identity68845",
+  "detail": {
+    "title": "Bruce Juice",
+    "designersText": "Marx Design",
+    "yearText": "2015",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 14 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Bruce Juice",
+      "디자이너": "Marx Design",
+      "연도": "2015",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 14 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

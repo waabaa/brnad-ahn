@@ -1,0 +1,236 @@
+{
+  "source": "brandarchive",
+  "name": "MassiveMusic",
+  "slug": "mssivemusic",
+  "url": "https://brandarchive.xyz/identity/mssivemusic",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Sound",
+    "slug": "music-brands"
+  },
+  "designers": [
+    "Koto"
+  ],
+  "assetCount": 26,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3490633f2b8c6e838b566f29978cf436e7ed5361.mp4",
+      "filename": "MM_CS_01_4K.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/938263ee5c7b6090a9d3c2d957816cdc5294d89c-3840x2160.jpg",
+      "filename": "22.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\mssivemusic\\assets\\001-22.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5b63d3a01612da7ef9ec1e4cf0f5b5107681b4b1-3840x2160.jpg",
+      "filename": "MM_CS_01_4K copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\mssivemusic\\assets\\002-MM_CS_01_4K-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/52e4953b13bbc2c21d503d7ac495cde1ebdba2c2.mp4",
+      "filename": "MM_CS_02a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5b0825f8689236f1dad4f4ed7f8761f662381de8.mp4",
+      "filename": "MM_CS_02c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b3e8100a54fa5cf8e5255e44c50f963e57e2f1aa.mp4",
+      "filename": "MM_CS_03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4b027cb4bd3ebb96b9363fb4f6395d9f1f851933.mp4",
+      "filename": "MM_CS_04a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ba627b98f5415cd39b8cc0b9c47c71725a525c7d.mp4",
+      "filename": "MM_CS_04b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/91934cdcfd4c7d05b432e05875374859000fbb3b.mp4",
+      "filename": "MM_CS_04c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/55f4e38c2a9c1ac3f1a28ccb2d173a212d575174.mp4",
+      "filename": "MM_CS_06.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c02485b1e8cd59f67644fa077687e4dc31cb823c.mp4",
+      "filename": "MM_CS_07a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b714dcfbf43c68e194df346a20d3273e76ee97fb.mp4",
+      "filename": "MM_CS_07b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9c82c694fa0472d9af7e94e7bfbba444772aac16.mp4",
+      "filename": "MM_CS_07c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bc658aa30f2f89230a754e87a720a085e4ca08e2.mp4",
+      "filename": "MM_CS_05_4K.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7a97ea1ff9b575599d3c6e97fb63fff4c82d1580.mp4",
+      "filename": "MM_CS_08.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b83fc6da1b76099fffa624286b7ecd612a4989cd.mp4",
+      "filename": "MM_CS_09b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b3f3c76feb6fae01b567d82945e49d3bf7803e6d.mp4",
+      "filename": "MM_CS_09c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c543e9a98d74c07f4786519c2faaa084a7100b84-1080x665.png",
+      "filename": "34bd666684e55c21cdcbdb7925adbc3845a8b8aa-2272x1400.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 665,
+      "localPath": "archive\\brandarchive\\identities\\mssivemusic\\assets\\003-34bd666684e55c21cdcbdb7925adbc3845a8b8aa-2272x1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8747fae19832a8b75f7628a1945bc35fd4d6e2e0-1080x665.png",
+      "filename": "3080d23b801f7ee681dfb3e6ce7944b5d72caeaa-2272x1400.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 665,
+      "localPath": "archive\\brandarchive\\identities\\mssivemusic\\assets\\004-3080d23b801f7ee681dfb3e6ce7944b5d72caeaa-2272x1400.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb52da0b30e0607667b865c9b0792b74b6bd808c-1080x1350.jpg",
+      "filename": "bb52b2405cdf635960a503cdfc33f0d7c32e5450-2160x2700.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\mssivemusic\\assets\\005-bb52b2405cdf635960a503cdfc33f0d7c32e5450-2160x2700.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6217e23973e1981ddb79ee3f459426fd5f027134.mp4",
+      "filename": "MM_CS_12_4K.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e59fad7d1c0fddaa717e52c9e3a495e788121c00.mp4",
+      "filename": "MM_CS_13a.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/01b312d9ac76a0c2b014e68af5ad803e79143044.mp4",
+      "filename": "MM_CS_11b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/58d3d729b81d47843f108258bedc0bf826df3560.mp4",
+      "filename": "MM_CS_13b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0637dbd87757f3b352e4b07ed3ab47b93959383a.mp4",
+      "filename": "MM_CS_14.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5179493c959cfcab5692b78f4c65644c9e7972d8.mp4",
+      "filename": "MM_CS_10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "b232506e-426a-493f-8f15-a57114351763",
+  "detail": {
+    "title": "MassiveMusic",
+    "designersText": "Koto",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 26 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "MassiveMusic",
+      "디자이너": "Koto",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 26 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

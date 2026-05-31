@@ -1,0 +1,271 @@
+{
+  "source": "brandarchive",
+  "name": "IAAC",
+  "slug": "iaac",
+  "url": "https://brandarchive.xyz/identity/iaac",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Mucho",
+    "slug": "designed-by-mucho"
+  },
+  "designers": [
+    "Mucho"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a2629e1f632be36684dfd4d3b1fbbc1cb7018a4-2000x1333.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0JpbGxib2FyZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMDAsImhlaWdodCI6MTMzMywiZml0IjoiY292ZXIifSwid2l0aE1ldGFkYXRhIjp0cnVlLCJ0b0Zvcm1hdCI6IndlYnA.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\001-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0JpbGxib2FyZC5qcGciLCJ-ffaacf23"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2e849e716053b4fd8273becd7208c31ab6b1bc3a.mp4",
+      "filename": "IAAC_Textures.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/36d5b50772530af8f9ad88b1de80215739151aa2.mp4",
+      "filename": "IAAC_Butterfly_Square.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c934abeb098ed2775f37e946f3b671b3ff07bf44.mp4",
+      "filename": "loop-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f51c3aca03bdbabc6538236443182554145818ce.mp4",
+      "filename": "IAAC_OOH_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/25530625239d77e7d18cd655d5dd50129abfccfc.mp4",
+      "filename": "IAAC_Screen.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5f86344fa6a7b701e365f5a03e317a28f10b8003.mp4",
+      "filename": "IAAC_ScreenVertical.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fc84e5bb191583bc61cefeb2be388b8654149149.mp4",
+      "filename": "IAAC-Responsive_finalv5_4k_comp2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1951c7a119b756a2984516f4052dc22ea1110605-2000x1333.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX09PSF8wMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMDAsImhlaWdodCI6MTMzMywiZml0IjoiY292ZXIifSwid2l0aE1ldGFkYXRhIjp0cnVlLCJ0b0Zvcm1hdCI6IndlYnAiLCJ.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\002-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX09PSF8wMi5qcGciLCJlZGl-f2ee95ac"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ac98125e11ca65f63ab46edf573b33b1e7b6ef15-2000x1333.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX09PSF8wMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMDAsImhlaWdodCI6MTMzMywiZml0IjoiY292ZXIifSwid2l0aE1ldGFkYXRhIjp0cnVlLCJ0b0Zvcm1hdCI6IndlYnAiLCJ.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\003-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX09PSF8wMy5qcGciLCJlZGl-6abbab37"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fd87952a97613b8bd3a9810103cc55dfe1f77b45-1920x1080.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0Jvb2tDb3Zlcl9PSy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MCwiZml0IjoiY292ZXIifSwid2l0aE1ldGFkYXRhIjp0cnVlLCJ0b0Zvcm1hdCI6Ind.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\004-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0Jvb2tDb3Zlcl9PSy5wbmc-3a060502"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d615640f34d2d2dec7446a23b9d156b32ea5d25-2000x1330.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0Nhc2VfRmx5ZXJfdjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDAwLCJoZWlnaHQiOjEzMzAsImZpdCI6ImNvdmVyIn0sIndpdGhNZXRhZGF0YSI6dHJ1ZSwidG9Gb3JtYXQiOiJ.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1330,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\005-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX0Nhc2VfRmx5ZXJfdjIuanB-6d1fde09"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/833cb1c3f10f063690b73037f61fd0cc42146a7a-2000x1695.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1BlbmNpbHMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDAwLCJoZWlnaHQiOjE2OTUsImZpdCI6ImNvdmVyIn0sIndpdGhNZXRhZGF0YSI6dHJ1ZSwidG9Gb3JtYXQiOiJ3ZWJwIiw.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1695,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\006-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1BlbmNpbHMuanBnIiwiZWR-3fdc3ecc"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8a736eb90855d0f265346a816b85cef1681676c8-2000x1600.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dhdGVyQm90dGxlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF0Ijoid2V.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\007-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dhdGVyQm90dGxlLmpwZyI-93702f98"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/23141576201bf2dea95d234474d68476c47f575c-2000x1536.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1N0aWNrZXJzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxNTM2LCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF0Ijoid2VicCI.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1536,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\008-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1N0aWNrZXJzLnBuZyIsImV-f2911fac"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/30565b7d2a2377ed5467c99fb98f7d78ffe75052-2000x1500.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX05vdGVib29rLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxNTAwLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF0Ijoid2VicCI.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\009-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX05vdGVib29rLmpwZyIsImV-91ba072d"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7579450c7c6678bc8ea11aff2371b417936d482e.mp4",
+      "filename": "IAAC_Tool.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f27de5d381c4881a76882e7ec5cd01093017de7-2000x1334.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDAwLCJoZWlnaHQiOjEzMzQsImZpdCI6ImNvdmVyIn0sIndpdGhNZXRhZGF0YSI6dHJ1ZSwidG9Gb3JtYXQiOiJ3ZWJwIiw.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\010-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGUuanBnIiwiZWR-2514b429"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0e82510f5457bb39959d5f728c62cd0c6716b1d2-1879x1053.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDAxLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTg3OSwiaGVpZ2h0IjoxMDUzLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF.webp",
+      "mimeType": "image/webp",
+      "width": 1879,
+      "height": 1053,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\011-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDA-c673afe0"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f706e0dcf9bfbe77a362251fd57c7fa1a1003fd1-1879x1052.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDAyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTg3OSwiaGVpZ2h0IjoxMDUyLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF.webp",
+      "mimeType": "image/webp",
+      "width": 1879,
+      "height": 1052,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\012-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDA-77579d52"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/21bd5650bb88a33c364866eb327757292ae9c572-1879x1053.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDAzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTg3OSwiaGVpZ2h0IjoxMDUzLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF.webp",
+      "mimeType": "image/webp",
+      "width": 1879,
+      "height": 1053,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\013-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfRGVza3RvcDA-98356430"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4741fd22d74465944330a474e2200d37795b5448-1881x1635.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfTW9iaWxlLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTg4MSwiaGVpZ2h0IjoxNjM1LCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF0Ijo.webp",
+      "mimeType": "image/webp",
+      "width": 1881,
+      "height": 1635,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\014-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX1dlYnNpdGVfTW9iaWxlLnB-c9870f69"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4162dd1299df4f6181518b88150f299b4d9dd330-1280x1280.webp",
+      "filename": "eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX01vYmlsZS4tc3F1YXJlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0IjoxMjgwLCJmaXQiOiJjb3ZlciJ9LCJ3aXRoTWV0YWRhdGEiOnRydWUsInRvRm9ybWF0Ijo.webp",
+      "mimeType": "image/webp",
+      "width": 1280,
+      "height": 1280,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\015-eyJidWNrZXQiOiJtdWNoby1zZXJ2ZXJsZXNzLWltYWdlLWhhbmRsZXIiLCJrZXkiOiJpbWFnZXMvSUFBQy9JQUFDX01vYmlsZS4tc3F1YXJlLmp-1d876d3d"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/27c68831391b4548657b39e41d4429db17f2108e-3840x2160.png",
+      "filename": "IAAC_-_Full_Logo_Black.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\016-IAAC_-_Full_Logo_Black.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9741c74b407fe080aa155fc7dd7e702c67126722-3840x2160.png",
+      "filename": "IAAC_-_Full_Logo_White.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\017-IAAC_-_Full_Logo_White.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4afbdda5ce006da7b2426af81710b6cb3ad4c86b-3840x2160.png",
+      "filename": "IAAC_-_Logo_Black.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\018-IAAC_-_Logo_Black.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e23a6dc79323df2bf4f1ebacfef8b62b3f8d3787-3840x2160.png",
+      "filename": "IAAC_-_Logo_White.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\iaac\\assets\\019-IAAC_-_Logo_White.png"
+    }
+  ],
+  "rawId": "735ba846-7f6f-4b25-9fc2-aeda6da9d777",
+  "detail": {
+    "title": "IAAC",
+    "designersText": "Mucho",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 27 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "IAAC",
+      "디자이너": "Mucho",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 27 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

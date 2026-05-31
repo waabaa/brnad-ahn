@@ -1,0 +1,232 @@
+{
+  "source": "brandarchive",
+  "name": "Living Things",
+  "slug": "living-things",
+  "url": "https://brandarchive.xyz/identity/living-things",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Soft Drinks",
+    "slug": "soft-drinks-kombucha"
+  },
+  "designers": [
+    "Studio Nari"
+  ],
+  "assetCount": 22,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8853cfac516916af861c6dcdc7aa045454a3b6d5-2000x1300.webp",
+      "filename": "Stacked_Black_Living_Things_Wordmark.png.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\001-Stacked_Black_Living_Things_Wordmark.png.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/714f882adadd91cbdd5f131be19016abb40ea1be.mp4",
+      "filename": "file-10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/714a0d27e585622e6967f58ba9bb287010dfad92.mp4",
+      "filename": "file-11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7a285f56d0e2b70ea38acfa5b7a546e61dea6a41-3840x4366.jpg",
+      "filename": "livingthings_nari_08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\002-livingthings_nari_08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/afc635124f438ed81e3a6183aad2826e34857a71-3840x4366.jpg",
+      "filename": "livingthings_nari_13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\003-livingthings_nari_13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a32f888a67ff62923eb12fb2e99402d9850248b2-3840x4366.jpg",
+      "filename": "lcasestudy-wip-02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\004-lcasestudy-wip-02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/974e6a1c9fa032b52149b092f76ed5a2ee03d0e0-800x1000.gif",
+      "filename": "LT_CaseStudy_Instagram-4_ALT-ezgif.com-video-to-gif-converter.gif",
+      "mimeType": "image/gif",
+      "width": 800,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\005-LT_CaseStudy_Instagram-4_ALT-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8b4c0592e82b6ca884b2dca89135b8cf445ac17d-3840x4366.jpg",
+      "filename": "livingthings_nari_10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\006-livingthings_nari_10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bbdda5a80c2bb06fad1c574dc1b9eaec354b7ce0-3840x4366.jpg",
+      "filename": "livingthings_nari_14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\007-livingthings_nari_14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8f11a2da8e3dd6b4123bda22544ac15e8f67a28b-3840x4366.jpg",
+      "filename": "livingthings_nari_17.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\008-livingthings_nari_17.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e039466116f9bb4c79b4292fb09b505e56d1357c.mp4",
+      "filename": "file-8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e3c47af4b04f9d7abd561f01c79c74317d2791cc.mp4",
+      "filename": "file-9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b9683a962619eabb391f06b2a30598e5c2a9cc58.mp4",
+      "filename": "file-12.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e9da9b20964d1f66e3b815243b3edf30d04d57b3-3840x2160.jpg",
+      "filename": "livingthings_nari_19.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\009-livingthings_nari_19.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/71fbbd3b57515d3ac0c54dff5f19e92e097a60e9-3840x4366.jpg",
+      "filename": "livingthings_nari_20.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 4366,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\010-livingthings_nari_20.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c5f72cc34b823ccbf132af44df0d38c96e02f767-800x1000.gif",
+      "filename": "LT_CaseStudy_Instagram-2_ALT-ezgif.com-video-to-gif-converter.gif",
+      "mimeType": "image/gif",
+      "width": 800,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\011-LT_CaseStudy_Instagram-2_ALT-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e05df80d5636c9d386bacbe0fcd81931ba8af8f-3840x2160.jpg",
+      "filename": "livingthings_nari_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\012-livingthings_nari_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b750862e8c5f89427ea6482e1b450b903e1d933-3000x2000.jpg",
+      "filename": "livingthings-nari-021.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\013-livingthings-nari-021.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/80f159f5072973b0c9867495c3aabce0537245bd-3840x2160.jpg",
+      "filename": "lt_casestudy_wip-022.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\014-lt_casestudy_wip-022.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2ca4c81fd532cff338dbb985278a413bbe659f31-3840x2142.jpg",
+      "filename": "lt_casestudy_wip-05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2142,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\015-lt_casestudy_wip-05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/46fc0470c4e483e280eff3769032e1d86c377b28-2250x2813.webp",
+      "filename": "LT_CaseStudy_Instagram-3.format-webp.width-2880_6PUSPHx73CuCXrKO.webp",
+      "mimeType": "image/webp",
+      "width": 2250,
+      "height": 2813,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\016-LT_CaseStudy_Instagram-3.format-webp.width-2880_6PUSPHx73CuCXrKO.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5738206f0932ce3d28f944dc3cf3c7d40e612c8e-2300x1300.jpg",
+      "filename": "LT_Insta_Socials-ezgif.com-video-to-gif-converter copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2300,
+      "height": 1300,
+      "localPath": "archive\\brandarchive\\identities\\living-things\\assets\\017-LT_Insta_Socials-ezgif.com-video-to-gif-converter-copy.jpg"
+    }
+  ],
+  "rawId": "3775fc59-1659-42ec-9271-175c40a78ba1",
+  "detail": {
+    "title": "Living Things",
+    "designersText": "Studio Nari",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 22 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Living Things",
+      "디자이너": "Studio Nari",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 22 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

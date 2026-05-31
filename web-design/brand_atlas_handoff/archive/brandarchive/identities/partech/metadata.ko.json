@@ -1,0 +1,76 @@
+{
+  "출처": "Brand Archive",
+  "브랜드명": "Partech",
+  "슬러그": "partech",
+  "원본URL": "https://brandarchive.xyz/identity/partech",
+  "연도": 2023,
+  "디자이너": [
+    "Koto"
+  ],
+  "소속컬렉션": {
+    "이름": "Designed by Koto",
+    "슬러그": "designed-by-koto"
+  },
+  "PRO잠금여부": false,
+  "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음",
+  "상세정보": {
+    "브랜드명": "Partech",
+    "디자이너": "Koto",
+    "연도": "2023",
+    "태그": "",
+    "섹션": [
+      "로고",
+      "타입",
+      "컬러",
+      "아트 디렉션",
+      "애플리케이션",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "컬러": [
+      {
+        "hex": "#FFF1E7",
+        "rgb": "255, 241, 231",
+        "cmyk": "0, 5, 9, 0"
+      },
+      {
+        "hex": "#F42C01",
+        "rgb": "244, 44, 1",
+        "cmyk": "0, 82, 100, 4"
+      },
+      {
+        "hex": "#191919",
+        "rgb": "25, 25, 25",
+        "cmyk": "0, 0, 0, 90"
+      }
+    ],
+    "서체정보": "Designer: Florian Karsten Released: 2018 Foundry: Florian Karsten TypefacesDesigner: Olga Karpushina Released: 2011 Foundry: Cyreal",
+    "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+  },
+  "다운로드설정": "이미지만 저장",
+  "에셋요약": {
+    "전체에셋수": 13,
+    "이미지수": 2,
+    "영상수": 11,
+    "이번에저장한파일수": 2
+  },
+  "에셋": [
+    {
+      "종류": "이미지",
+      "원본파일명": "1-Partech-Venture-Capital-Brand-Logo-Design-Koto-BP&O-Review.jpg",
+      "MIME": "image/jpeg",
+      "너비": 1920,
+      "높이": 1080,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/c80a8fa646efc2b0e5b49423e53003349ef41343-1920x1080.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\partech\\assets\\001-1-Partech-Venture-Capital-Brand-Logo-Design-Koto-BP&O-Review.jpg"
+    },
+    {
+      "종류": "이미지",
+      "원본파일명": "2-Partech-Venture-Capital-Brand-Logotype-Design-Koto-BP&O-Review.jpg",
+      "MIME": "image/jpeg",
+      "너비": 2300,
+      "높이": 1500,
+      "원본URL": "https://cdn.sanity.io/images/rn4tswnp/production/caf30b884120ea2677783429d109c4751090179f-2300x1500.jpg",
+      "로컬경로": "archive\\brandarchive\\identities\\partech\\assets\\002-2-Partech-Venture-Capital-Brand-Logotype-Design-Koto-BP&O-Review.jpg"
+    }
+  ]
+}

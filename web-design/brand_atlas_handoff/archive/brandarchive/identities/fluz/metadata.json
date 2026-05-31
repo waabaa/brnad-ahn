@@ -1,0 +1,467 @@
+{
+  "source": "brandarchive",
+  "name": "Fluz",
+  "slug": "fluz",
+  "url": "https://brandarchive.xyz/identity/fluz",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Koto",
+    "slug": "designed-by-koto"
+  },
+  "designers": [
+    "Koto"
+  ],
+  "assetCount": 43,
+  "assets": [
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/25dfee1e3a71100f51b2436481aee17ddb9f155e.mp4",
+      "filename": "13_Fluz_LogoAnimation-vimeo-954110129-hls-fastly_skyfire_sep-2043.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05728121d41fc43b46a34ad0d5d79ee201fa6dc5-2560x1440.jpg",
+      "filename": "01-–-Fluz-–-Logo-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\001-01-–-Fluz-–-Logo-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/200e8a7e0240dce76541ff6910876cadd6c09b58-3300x1500.jpg",
+      "filename": "Home Page - Fluz-4 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\002-Home-Page---Fluz-4-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4e0dd07b47e482b836e9911e7cc7528b06161d66-3840x2160.jpg",
+      "filename": "11-–-Fluz-–-Cashback-Queen.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\003-11-–-Fluz-–-Cashback-Queen.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4cb291f966deddf68723e223eb20fff2286d7e8e-1650x1070.jpg",
+      "filename": "03_Fluz_HeartLocket.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 1070,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\004-03_Fluz_HeartLocket.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d5230a1b15dd2ae3409d078812385e0ad6811a89-1650x2200.jpg",
+      "filename": "20-–-Fluz-–-Heart-Locket.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\005-20-–-Fluz-–-Heart-Locket.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/db72aedadfa566eb0f9e8ad9a26861cd9891a648-3840x2160.jpg",
+      "filename": "15_Fluz_Gold-Necklace.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\006-15_Fluz_Gold-Necklace.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a096b98dc6111ea0ac971b9e5a5faa0480cf73a6-1650x2200.jpg",
+      "filename": "16-–-Fluz-–-Back-Portrait.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\007-16-–-Fluz-–-Back-Portrait.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4fc89b9c3f9dcb519e403ee4c02bf5550c147341-1651x1071.jpg",
+      "filename": "18-–-Fluz-–-Patches.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1651,
+      "height": 1071,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\008-18-–-Fluz-–-Patches.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aa4ff41dbe9b62b6ad857ecc26825dbaeeac8919-1650x1070.jpg",
+      "filename": "17-–-Fluz-–-Gold-Ring.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 1070,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\009-17-–-Fluz-–-Gold-Ring.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/575731dd591914c8bb28e2d073ac31663b2400ce.mp4",
+      "filename": "02_Fluz_EarnBabyEarn_-_Q100-vimeo-954165689-hls-fastly_skyfire_sep-2411.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e2ba58c1f4f33846f2f0c450e731f073a8d638d1.mp4",
+      "filename": "23_Fluz_EarningsOnEarnings-vimeo-954112831-hls-fastly_skyfire_sep-3953.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/fe86ac04b52c4d0818ad4fccd1a2f93cea3d3b02.mp4",
+      "filename": "8_-_Fluz_-_Portraits-vimeo-954019185-hls-fastly_skyfire_sep-9643.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/01615245ae1d89f385acc3d74f71c798b1839297.mp4",
+      "filename": "35_-_Fluz_-_Deals-vimeo-954133896-hls-fastly_skyfire_sep-2178.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/66f2d8d4ed0dd7ff960be645976a5adb5fbf4e26.mp4",
+      "filename": "Fluz_-_SQ_End-vimeo-954150583-hls-fastly_skyfire_sep-6414.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9d23d09f9fba7ab8ec8f2cf6b171b36fa38cc1a0.mp4",
+      "filename": "19_Fluz_CashbackAlways-vimeo-954112259-hls-fastly_skyfire_sep-3053.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7fea5bf2f33bc2326af5e0f08d1365933143c8c6.mp4",
+      "filename": "25_-_Fluz_-_CashbackButton-vimeo-954112854-hls-fastly_skyfire_sep-469.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b48526036a46bd4c6d19a7a547d220f2f5057d60.mp4",
+      "filename": "30_-_Fluz_-_ScrollThrough-vimeo-954112867-dash-fastly_skyfire_sep-video-9f04e36c.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/18d3344bac3656a90881d939f9816212bdaa9a36.mp4",
+      "filename": "34_-_Fluz_-_Buttons-vimeo-954112949-dash-fastly_skyfire_sep-video-2c8a5980.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/97ead927d17dad4de16d57bda31c7aae83e69f97.mp4",
+      "filename": "14_Fluz_InstantDeposit-vimeo-954111097-hls-fastly_skyfire_sep-1121.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7ae56bd488f0fdd91ab837bccf8a318c636ebc2f.mp4",
+      "filename": "32_-_Fluz_-_ProductThreePhones-vimeo-954112916-dash-fastly_skyfire_sep-video-8aea61c8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cfa0bd1aee66970eb7bb810338d6eaee56f5644c.mp4",
+      "filename": "38_-_Fluz_-_Party_Cards-vimeo-954112960-hls-fastly_skyfire_sep-2473.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/17eed11ba815d4351ab204239ba8ecb1d8f65f37.mp4",
+      "filename": "41_-_Fluz_-_AddToWallet-vimeo-954113013-dash-fastly_skyfire_sep-video-23d6eecd.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cdb5d21de81daa3463757283654848ae4b156a1d.mp4",
+      "filename": "43_-_Fluz_-_CardFlip-vimeo-954113030-hls-fastly_skyfire_sep-1637.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/157775d78f65311f58547c8a27209e7b2e92ff47.mp4",
+      "filename": "10_Fluz_Website-vimeo-954016611-dash-fastly_skyfire_sep-video-f47e9a9e.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c34287d1e76ca42c70360702a9243bd8e14d4f65.mp4",
+      "filename": "37_-_Fluz_-_Dashboard-vimeo-954131262-dash-fastly_skyfire_sep-video-93d0d81e.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/39d2366dc6ed4f1d09c8cf06e79a53a26a97348e-1650x1070.jpg",
+      "filename": "04-–-Fluz-–-Copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 1070,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\010-04-–-Fluz-–-Copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cf781f4711c85b079dd14ca9a291fd13d9558937-1650x2200.jpg",
+      "filename": "05_Fluz_MobileApp.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\011-05_Fluz_MobileApp.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/83e92d7a1699cecedd383f1809fb24ed1ba6b083-3840x2160.jpg",
+      "filename": "06_Fluz_LifeOnMax.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\012-06_Fluz_LifeOnMax.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/deb6fb01f50bd72d5a177bd1cfbd7c80d2db043c-3840x2160.jpg",
+      "filename": "09_Fluz_Website.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\013-09_Fluz_Website.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/403430927bc247fad5df4a43447e79a5ce9d3b8d-1650x2200.jpg",
+      "filename": "12-–-Fluz-–-OOH-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\014-12-–-Fluz-–-OOH-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0225bc355df9aa80b769f3bd5504c14928bc11de-1650x2200.jpg",
+      "filename": "21_Fluz_Briefcase.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\015-21_Fluz_Briefcase.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/553d682fbaa0e2a0dd5d10cdd433773acfaf7b67-3840x2160.jpg",
+      "filename": "22_Fluz_OOH.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\016-22_Fluz_OOH.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7e296295551d6cf4f02caa0c682ce697ec6afc09-1650x2200.jpg",
+      "filename": "25_Fluz_Website.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\017-25_Fluz_Website.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b35a15bb8daa0deae3a7a54170d116961c1f2c11-2872x1616.jpg",
+      "filename": "26_Fluz_ToV-2872x1616.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2872,
+      "height": 1616,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\018-26_Fluz_ToV-2872x1616.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c022912ca9a6df6f828fc68acfd1449fd550df50-1650x2200.jpg",
+      "filename": "27-–-Fluz-–-Video-Game-–-Q100.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\019-27-–-Fluz-–-Video-Game-–-Q100.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3cbfa044be7e2647e11f85c72b416dc7bd7e24c3-1650x2200.jpg",
+      "filename": "28-–-Fluz-–-Merch-–-Q100.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\020-28-–-Fluz-–-Merch-–-Q100.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/65f8ea0ed85cad52663b79580209c54a7ee34ffa-2872x1616.jpg",
+      "filename": "29-–-Fluz-–-ToV-2872x1616.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2872,
+      "height": 1616,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\021-29-–-Fluz-–-ToV-2872x1616.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f283afed1f5f3fe18cb7a99a772baea86444227c-1650x2200.jpg",
+      "filename": "31_Fluz_Instagram.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\022-31_Fluz_Instagram.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c58fb9cdd7598efde19a2d411e7f6732ffb2970-1650x2200.jpg",
+      "filename": "33B_Fluz_Mobile_App.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\023-33B_Fluz_Mobile_App.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee1b2e118e41686be6a2d3d865866abb3b73b18e-1650x2200.jpg",
+      "filename": "39_Fluz_Fluz-Parties.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1650,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\024-39_Fluz_Fluz-Parties.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5c9386c727cd42f39c4e6fc56c2e209996c3a4d4-3840x2160.jpg",
+      "filename": "36-–-Fluz-–-UI.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\025-36-–-Fluz-–-UI.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/299780151a4330851820863812376ca339a265d7-3840x2160.jpg",
+      "filename": "40_Fluz_App_Summary-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\fluz\\assets\\026-40_Fluz_App_Summary-1.jpg"
+    }
+  ],
+  "rawId": "a22fa183-e623-4cda-8618-5457731c6c7f",
+  "detail": {
+    "title": "Fluz",
+    "designersText": "Koto",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#20BB4C",
+        "rgb": "32, 187, 76",
+        "cmyk": "83, 0, 59, 27"
+      },
+      {
+        "hex": "#7DB4F4",
+        "rgb": "125, 180, 244",
+        "cmyk": "49, 26, 0, 4"
+      },
+      {
+        "hex": "#6284E8",
+        "rgb": "98, 132, 232",
+        "cmyk": "58, 43, 0, 9"
+      },
+      {
+        "hex": "#BC81FA",
+        "rgb": "188, 129, 250",
+        "cmyk": "25, 48, 0, 2"
+      },
+      {
+        "hex": "#EFB4F5",
+        "rgb": "239, 180, 245",
+        "cmyk": "2, 27, 0, 4"
+      },
+      {
+        "hex": "#FDC251",
+        "rgb": "253, 194, 81",
+        "cmyk": "0, 23, 68, 1"
+      }
+    ],
+    "typeText": "Designer: Martin Vácha Released: 2003 Foundry: Displaay Type Foundry: Designer: Matthieu Salvaggio Released: 2020 Foundry: Blaze Type",
+    "korean": {
+      "브랜드명": "Fluz",
+      "디자이너": "Koto",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#20BB4C",
+          "rgb": "32, 187, 76",
+          "cmyk": "83, 0, 59, 27"
+        },
+        {
+          "hex": "#7DB4F4",
+          "rgb": "125, 180, 244",
+          "cmyk": "49, 26, 0, 4"
+        },
+        {
+          "hex": "#6284E8",
+          "rgb": "98, 132, 232",
+          "cmyk": "58, 43, 0, 9"
+        },
+        {
+          "hex": "#BC81FA",
+          "rgb": "188, 129, 250",
+          "cmyk": "25, 48, 0, 2"
+        },
+        {
+          "hex": "#EFB4F5",
+          "rgb": "239, 180, 245",
+          "cmyk": "2, 27, 0, 4"
+        },
+        {
+          "hex": "#FDC251",
+          "rgb": "253, 194, 81",
+          "cmyk": "0, 23, 68, 1"
+        }
+      ],
+      "서체정보": "Designer: Martin Vácha Released: 2003 Foundry: Displaay Type Foundry: Designer: Matthieu Salvaggio Released: 2020 Foundry: Blaze Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

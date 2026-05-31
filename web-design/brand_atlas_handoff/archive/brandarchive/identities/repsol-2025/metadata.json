@@ -1,0 +1,638 @@
+{
+  "source": "brandarchive",
+  "name": "Repsol",
+  "slug": "repsol-2025",
+  "url": "https://brandarchive.xyz/identity/repsol-2025",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Energy",
+    "slug": "energy"
+  },
+  "designers": [
+    "Saffron"
+  ],
+  "assetCount": 48,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1bc5be0207b732bd18dd0fc38e063d5701267068-1000x832.png",
+      "filename": "repsol_2025_icon_before_after.png",
+      "mimeType": "image/png",
+      "width": 1000,
+      "height": 832,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\001-repsol_2025_icon_before_after.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ecc626baa9152e1e0ff83cbcbcc10d496cd9af1-2000x499.png",
+      "filename": "repsol_2025_logo.png",
+      "mimeType": "image/png",
+      "width": 2000,
+      "height": 499,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\002-repsol_2025_logo.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/68470fb432707b5813165bf19f9e7ab7f7ddf737-2000x491.jpg",
+      "filename": "repsol_2025_logo_single_color.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 491,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\003-repsol_2025_logo_single_color.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8033bc48dbb59cd8ee04f35713a91030a30d1cd0-2000x1134.jpg",
+      "filename": "repsol_2025_wordmark.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\004-repsol_2025_wordmark.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5a9a5a9d628fc6e0b5c969e63460c512f8d72ae7-2000x1135.jpg",
+      "filename": "repsol_2025_custom_type_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1135,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\005-repsol_2025_custom_type_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/23f14e7c31447d64d4c503af91adf2307d8ab920-2000x2228.jpg",
+      "filename": "repsol_2025_custom_type_02_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2228,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\006-repsol_2025_custom_type_02_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/586dfa5c0636e593357791fd21f2e7182e73b9b4-2000x1125.jpg",
+      "filename": "repsol_2025_custom_type_04.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\007-repsol_2025_custom_type_04.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e532d219e100707a70821db8b9aa1bd81c6dc673.mp4",
+      "filename": "repsol_2025_3d_variations_03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/318f3ab24e634674647d549e1701777e67d5f7dc.mp4",
+      "filename": "repsol_2025_sponsorship_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6a361c5437eec3db4030f33e9eb4331eaf94c67b.mp4",
+      "filename": "repsol_2025_identity_elements.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/31a293339729b1276099f971007da186e8cfa85d-2000x2304.jpg",
+      "filename": "repsol_2025_color_palette_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\008-repsol_2025_color_palette_02.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bce491e9b333fcc73c72657c97a95a53601c835a.mp4",
+      "filename": "repsol_2025_photography_in_use.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6bdf434d511930d89b04db508c1060c328d10698-2000x1134.jpg",
+      "filename": "repsol_2025_photography_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\009-repsol_2025_photography_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8774eb4558bd360b6997c15aee51171c2d638b85-2000x1075.jpg",
+      "filename": "repsol_2025_photography_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1075,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\010-repsol_2025_photography_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aaf92f333fb49b450d550fe11078eb921ddfa848-1080x1244.jpg",
+      "filename": "repsol_2025_photography_04_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1244,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\011-repsol_2025_photography_04_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5001e3c4c43625d5913080bd01be3243e31fc52c-2000x2304.jpg",
+      "filename": "repsol_2025_photography_05_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\012-repsol_2025_photography_05_2up.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bdfecc85310e3cfef8eac108db94f1b598b59676.mp4",
+      "filename": "repsol_2025_spot_illustrations_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f27b26044a0cf4667988b0c2f380b755dd1aa4bc-2000x1134.jpg",
+      "filename": "repsol_2025_spot_illustrations_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\013-repsol_2025_spot_illustrations_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6dc58f52494bd7212bfaf0cadbd9dba1e6c27817-2000x2250.jpg",
+      "filename": "repsol_2025_icon_set_01_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\014-repsol_2025_icon_set_01_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/30f8967951f83e4b6d726add24ae7a9bbeea5f04-2000x1134.jpg",
+      "filename": "repsol_2025_icon_set_3d_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\015-repsol_2025_icon_set_3d_01.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a034837b72c8a6f7571401262266dbe5bc5e65b2.mp4",
+      "filename": "repsol_2025_icon_set_3d_04.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d7d0a0d0dfda00df12e7b354bc431edfe6cb045-2000x2247.jpg",
+      "filename": "repsol_2025_icon_set_03_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2247,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\016-repsol_2025_icon_set_03_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5ebe90e72ac82e72e9e808e4a6d7c6f849172849-2000x2250.jpg",
+      "filename": "repsol_2025_icon_set_04_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\017-repsol_2025_icon_set_04_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2ddf4558f5c405e49cb7b1893993cdba7a11d648-2000x2304.jpg",
+      "filename": "repsol_2025_icon_set_05_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\018-repsol_2025_icon_set_05_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/65ada34259d2b4b9f7bc86c85b25b9ca19d75174-2000x2304.jpg",
+      "filename": "repsol_2025_icon_set_06_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\019-repsol_2025_icon_set_06_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f0b54a699f0399cf6f30c1f148227a822ee38fa-2000x1133.jpg",
+      "filename": "repsol_2025_advertising_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1133,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\020-repsol_2025_advertising_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/37ce0935ad5557cf476210a10e9c6bb8032a0f17-2000x1134.jpg",
+      "filename": "repsol_2025_advertising_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\021-repsol_2025_advertising_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/22c1dca892d6de9ffb365239eedadfc8c8b5d978-2000x2304.jpg",
+      "filename": "repsol_2025_icon_set_3d_in_action_06_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\022-repsol_2025_icon_set_3d_in_action_06_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c217ea225d6f2858246757c40eefde10d62c199-2000x2304.jpg",
+      "filename": "repsol_2025_sponsorship_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\023-repsol_2025_sponsorship_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f1df2625bc31680a65c323fb325fa81b12c9c58d-2000x1133.jpg",
+      "filename": "repsol_2025_3d_variations_06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1133,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\024-repsol_2025_3d_variations_06.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/05fbde16aae3cd67728861b5d115cd1ffd7df899.mp4",
+      "filename": "repsol_2025_3d_variations_09.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fe16be63da1697c22415eab598080a833052e729-2000x2304.jpg",
+      "filename": "repsol_2025_station_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\025-repsol_2025_station_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1bafeb1adacc67c8618f89814339c21c4622cbb0-2000x1125.jpg",
+      "filename": "repsol_2025_station_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\026-repsol_2025_station_01.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5da5cba14cc8a5daa7b60d5e4c7902dcec98e2bf.mp4",
+      "filename": "repsol_2025_station_04.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4027dd1fac8da3f6d9d58b37827dae1c09005210-2000x1134.jpg",
+      "filename": "repsol_2025_station_05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\027-repsol_2025_station_05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59710ad407629270d6f5956a04febfb515a3d9f9-2000x1133.jpg",
+      "filename": "repsol_2025_station_07.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1133,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\028-repsol_2025_station_07.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f5525e1385e973134da42c81c5e6791a7b220b33-2000x1060.jpg",
+      "filename": "repsol_2025_office_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1060,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\029-repsol_2025_office_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/763eb3b82bd65a3c34d290819a19c88d95955b95-2000x1134.jpg",
+      "filename": "repsol_2025_office_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\030-repsol_2025_office_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6455bc0fbc9577a9ae3199e22b86db035c80d429-2000x1137.jpg",
+      "filename": "repsol_2025_office_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1137,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\031-repsol_2025_office_03.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/82ff157cb1e18fab2de3a3b91d2bc068371ffc41.mp4",
+      "filename": "repsol_2025_retail_branch_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/725cd4ad3f73c39ce4de1c466be25488118d5fd7-2000x1134.jpg",
+      "filename": "repsol_2025_retail_branch_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\032-repsol_2025_retail_branch_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6771b4cb9b357c4b79ef834e9374013e1e0237bf-2000x2302.jpg",
+      "filename": "repsol_2025_app_01_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2302,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\033-repsol_2025_app_01_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d2f2e5be8b9fb29ad02a420b596f9eab7504a32-2000x2304.jpg",
+      "filename": "repsol_2025_app_02_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\034-repsol_2025_app_02_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/43c1e13a4bbfa288819f14224ef5dd942a5603f9-2000x1134.jpg",
+      "filename": "repsol_2025_website_01.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\035-repsol_2025_website_01.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aea22ea3176bd971a68413409081018520b9a3b7-2000x1134.jpg",
+      "filename": "repsol_2025_website_02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\036-repsol_2025_website_02.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/638c4c8227f039117175e14901635e71aee4c889-2000x1134.jpg",
+      "filename": "repsol_2025_instagram_03.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1134,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\037-repsol_2025_instagram_03.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/46e999f29ab3d0054f85ecd1cfc953b2bcdb10f4-2000x2304.jpg",
+      "filename": "repsol_2025_instagram_02_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\038-repsol_2025_instagram_02_2up.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d98af22f55ece35b859772d24254dc4f388e7225-2000x2304.jpg",
+      "filename": "repsol_2025_toy_station_01_2up.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 2304,
+      "localPath": "archive\\brandarchive\\identities\\repsol-2025\\assets\\039-repsol_2025_toy_station_01_2up.jpg"
+    }
+  ],
+  "rawId": "37038dfe-44f0-4599-bea5-dc3c76707343",
+  "detail": {
+    "title": "Repsol",
+    "designersText": "Saffron",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#80320E",
+        "rgb": "128, 50, 14",
+        "cmyk": "0, 61, 89, 50"
+      },
+      {
+        "hex": "#BF4A14",
+        "rgb": "191, 74, 20",
+        "cmyk": "0, 61, 90, 25"
+      },
+      {
+        "hex": "#FF590B",
+        "rgb": "255, 89, 11",
+        "cmyk": "0, 65, 96, 0"
+      },
+      {
+        "hex": "#FFA276",
+        "rgb": "255, 162, 118",
+        "cmyk": "0, 36, 54, 0"
+      },
+      {
+        "hex": "#FBD1BB",
+        "rgb": "251, 209, 187",
+        "cmyk": "0, 17, 25, 2"
+      },
+      {
+        "hex": "#001E38",
+        "rgb": "0, 30, 56",
+        "cmyk": "100, 46, 0, 78"
+      },
+      {
+        "hex": "#19354D",
+        "rgb": "25, 53, 77",
+        "cmyk": "68, 31, 0, 70"
+      },
+      {
+        "hex": "#7997AF",
+        "rgb": "121, 151, 175",
+        "cmyk": "31, 14, 0, 31"
+      },
+      {
+        "hex": "#B9CCDB",
+        "rgb": "185, 204, 219",
+        "cmyk": "16, 7, 0, 14"
+      },
+      {
+        "hex": "#E9F0F6",
+        "rgb": "233, 240, 246",
+        "cmyk": "5, 2, 0, 4"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      },
+      {
+        "hex": "#014F66",
+        "rgb": "1, 79, 102",
+        "cmyk": "99, 23, 0, 60"
+      },
+      {
+        "hex": "#0192AF",
+        "rgb": "1, 146, 175",
+        "cmyk": "99, 17, 0, 31"
+      },
+      {
+        "hex": "#24A3E3",
+        "rgb": "36, 163, 227",
+        "cmyk": "84, 28, 0, 11"
+      },
+      {
+        "hex": "#23CCDF",
+        "rgb": "35, 204, 223",
+        "cmyk": "84, 9, 0, 13"
+      },
+      {
+        "hex": "#46D9EB",
+        "rgb": "70, 217, 235",
+        "cmyk": "70, 8, 0, 8"
+      },
+      {
+        "hex": "#9CE9F3",
+        "rgb": "156, 233, 243",
+        "cmyk": "36, 4, 0, 5"
+      }
+    ],
+    "typeText": "",
+    "korean": {
+      "브랜드명": "Repsol",
+      "디자이너": "Saffron",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#80320E",
+          "rgb": "128, 50, 14",
+          "cmyk": "0, 61, 89, 50"
+        },
+        {
+          "hex": "#BF4A14",
+          "rgb": "191, 74, 20",
+          "cmyk": "0, 61, 90, 25"
+        },
+        {
+          "hex": "#FF590B",
+          "rgb": "255, 89, 11",
+          "cmyk": "0, 65, 96, 0"
+        },
+        {
+          "hex": "#FFA276",
+          "rgb": "255, 162, 118",
+          "cmyk": "0, 36, 54, 0"
+        },
+        {
+          "hex": "#FBD1BB",
+          "rgb": "251, 209, 187",
+          "cmyk": "0, 17, 25, 2"
+        },
+        {
+          "hex": "#001E38",
+          "rgb": "0, 30, 56",
+          "cmyk": "100, 46, 0, 78"
+        },
+        {
+          "hex": "#19354D",
+          "rgb": "25, 53, 77",
+          "cmyk": "68, 31, 0, 70"
+        },
+        {
+          "hex": "#7997AF",
+          "rgb": "121, 151, 175",
+          "cmyk": "31, 14, 0, 31"
+        },
+        {
+          "hex": "#B9CCDB",
+          "rgb": "185, 204, 219",
+          "cmyk": "16, 7, 0, 14"
+        },
+        {
+          "hex": "#E9F0F6",
+          "rgb": "233, 240, 246",
+          "cmyk": "5, 2, 0, 4"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        },
+        {
+          "hex": "#014F66",
+          "rgb": "1, 79, 102",
+          "cmyk": "99, 23, 0, 60"
+        },
+        {
+          "hex": "#0192AF",
+          "rgb": "1, 146, 175",
+          "cmyk": "99, 17, 0, 31"
+        },
+        {
+          "hex": "#24A3E3",
+          "rgb": "36, 163, 227",
+          "cmyk": "84, 28, 0, 11"
+        },
+        {
+          "hex": "#23CCDF",
+          "rgb": "35, 204, 223",
+          "cmyk": "84, 9, 0, 13"
+        },
+        {
+          "hex": "#46D9EB",
+          "rgb": "70, 217, 235",
+          "cmyk": "70, 8, 0, 8"
+        },
+        {
+          "hex": "#9CE9F3",
+          "rgb": "156, 233, 243",
+          "cmyk": "36, 4, 0, 5"
+        }
+      ],
+      "서체정보": "",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

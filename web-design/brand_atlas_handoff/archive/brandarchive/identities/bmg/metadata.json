@@ -1,0 +1,179 @@
+{
+  "source": "brandarchive",
+  "name": "BMG",
+  "slug": "bmg",
+  "url": "https://brandarchive.xyz/identity/bmg",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Wolff Olins",
+    "slug": "wolff-olins"
+  },
+  "designers": [
+    "Wolff Olins"
+  ],
+  "assetCount": 17,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/17466c5f10fe84b1e40b6a1cdea9e1cc3e6943c8-3840x2560.png",
+      "filename": "WolffOlins_BMG_02 copyl.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\001-WolffOlins_BMG_02-copyl.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d1f4902dac00c574c06efefc2a5b02ff87a5337-3840x2560.jpg",
+      "filename": "WolffOlins_BMG_02 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\002-WolffOlins_BMG_02-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/de81313a61b85f7518716f6fbf0da5f6b4d8ee24.mp4",
+      "filename": "WolffOlins_BMG_19.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6aef76d3aaf7c27da6dee0300ec74d30a4b750ae.mp4",
+      "filename": "WolffOlins_BMG_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b571818f4fd36c878ad83506108e7fcb6a548765.mp4",
+      "filename": "WolffOlins_BMG_05.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7c0b5a6b4d29c7bdb0290e0a2dec70c3d327b68c.mp4",
+      "filename": "WolffOlins_BMG_06.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4eef8f20fb280b6c9cadf1ab19d04ab98b25cfeb.mp4",
+      "filename": "WolffOlins_BMG_09.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a1fdbe20c161badacb1fea34ca68157776d91fab.mp4",
+      "filename": "WolffOlins_BMG_11.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/267d5d49efe1bb5c0fb3ad5f11af603c098e3000-2250x3000.png",
+      "filename": "WolffOlins_BMG_04.png",
+      "mimeType": "image/png",
+      "width": 2250,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\003-WolffOlins_BMG_04.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/40703bda97c19f94acc3a2c380268f3b470a9029-1470x1960.png",
+      "filename": "WolffOlins_BMG_08.png",
+      "mimeType": "image/png",
+      "width": 1470,
+      "height": 1960,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\004-WolffOlins_BMG_08.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ce0dbc4d87816b81adbf007670743d1ac6c3e78-1879x2505.png",
+      "filename": "WolffOlins_BMG_12.png",
+      "mimeType": "image/png",
+      "width": 1879,
+      "height": 2505,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\005-WolffOlins_BMG_12.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/151790f7ce39710715cc7848ef3f7cd83340035b-2205x2940.png",
+      "filename": "WolffOlins_BMG_13.png",
+      "mimeType": "image/png",
+      "width": 2205,
+      "height": 2940,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\006-WolffOlins_BMG_13.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed11186db1d0b7d9d226ae115a398c5d36ec72c7-3840x2560.png",
+      "filename": "WolffOlins_BMG_14.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2560,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\007-WolffOlins_BMG_14.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8772e2c21b51fa67b3a73f265309488f339460d4.mp4",
+      "filename": "WolffOlins_BMG_16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3173623e2e8c2bc2274be257e56869cb5ef6d6f7.mp4",
+      "filename": "WolffOlins_BMG_03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2d3e90c58fa71874c842d7b3d4a66663d75bc29e.mp4",
+      "filename": "WolffOlins_BMG_10.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a728bd12ee69d3bbdb44aba270694fbad80e58e5-1470x1960.jpg",
+      "filename": "WolffOlins_BMG_18.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1470,
+      "height": 1960,
+      "localPath": "archive\\brandarchive\\identities\\bmg\\assets\\008-WolffOlins_BMG_18.jpg"
+    }
+  ],
+  "rawId": "bd64264b-b5af-487a-a519-8c0e98c0f2ac",
+  "detail": {
+    "title": "BMG",
+    "designersText": "Wolff Olins",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 17 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "BMG",
+      "디자이너": "Wolff Olins",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 17 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

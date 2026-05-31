@@ -1,0 +1,265 @@
+{
+  "source": "brandarchive",
+  "name": "Hip Pop",
+  "slug": "hip-pop",
+  "url": "https://brandarchive.xyz/identity/hip-pop",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Beverage",
+    "slug": "drinks"
+  },
+  "designers": [
+    "Robot Food"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/47200dc323dbb138a03b697539155f5cb22e5b75-2560x1600.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\001-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9f42628df67803e03c1fa9d956a4e70be36416dc-2728x1717.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-02 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2728,
+      "height": 1717,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\002-Hip-Pop_Case-Study-Plan-Complete-02-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e50e66b0f67f2745db79f33aa2f3b5669b99daa1-2728x1717.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-02.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2728,
+      "height": 1717,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\003-Hip-Pop_Case-Study-Plan-Complete-02.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ac620f532ed1ba606055728195650d7f8c5b26c4.mp4",
+      "filename": "CS_Hip_Pop_Header_1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cf725b3690d751e7e0673134c75e7158dd5618bf-2560x1600.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-01-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\004-Hip-Pop_Case-Study-Plan-Complete-01-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ce692a7d3a8208d74b6816c9abf9ac2ac972f810-2560x1600.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\005-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/53ac3812a629dcba0b25a56c0b87e30f20f04f3f-2560x1600.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\006-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/42f3a1f0179cdd53fc8dc964d459cbcf8d998513-2560x1600.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\007-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0e09214fff38202267d6e1fc0c90d6c25584b86d-2560x1600.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\008-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd305e91fca9c482b1f470b80833a3b62907a616-2560x1600.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\009-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3eb16546651ecf3f2731d7d30bc1e34f7df21cb6-2560x1600.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\010-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/af2b114eb9910008a29764d85cf42f68aef00476-2560x1600.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\011-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/67a87816373a45c54cde57bfe40592a11461ca3d-2560x1600.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-04-1-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\012-Hip-Pop_Case-Study-Plan-Complete-04-1-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/576ce70db511e279161bb0203a3412d63c05332d-2560x1600.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-12-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\013-Hip-Pop_Case-Study-Plan-Complete-12-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2b209173df105e2beb697a0f7b25b9ad5a42a85a-1592x2000.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1592,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\014-Hip-Pop_Case-Study-Plan-Complete-08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7ffa61387fb199249cbf466cf331e49cfb93dc9b-2560x1600.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-07-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\015-Hip-Pop_Case-Study-Plan-Complete-07-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/69f964f9afcb68137e69981cff46e0c5864e66a0-2560x1600.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-10-scaled.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\016-Hip-Pop_Case-Study-Plan-Complete-10-scaled.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/13972ce424e0d97d943e00f87028b983316a8313-1592x2000.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-03-v2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1592,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\017-Hip-Pop_Case-Study-Plan-Complete-03-v2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77a8a00e8084a27533a4cefe72da6b3a97a3ea68-3500x3500.jpg",
+      "filename": "Notepade.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3500,
+      "height": 3500,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\018-Notepade.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/95b09174a6c01775ae4da586e1259d50bf3161a9-3000x3000.jpg",
+      "filename": "T-ShirtBack.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\019-T-ShirtBack.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/394980ef9b51cab87b0b3072054e09f51bfbf130-1080x1080.jpg",
+      "filename": "Tote-CGC.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\020-Tote-CGC.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1b03196ba46b04337a350b8219c3de6ce836f853-1800x2261.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-05.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 2261,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\021-Hip-Pop_Case-Study-Plan-Complete-05.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/84bab3b50044d5c886d29ad42ebef9de3364bb84-1800x2261.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-06.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1800,
+      "height": 2261,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\022-Hip-Pop_Case-Study-Plan-Complete-06.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7cd3a9bf0641e70a4bf74ece024d192e3f3c0e16-1592x2000.jpg",
+      "filename": "Hip-Pop_Case-Study-Plan-Complete-09.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1592,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\hip-pop\\assets\\023-Hip-Pop_Case-Study-Plan-Complete-09.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a7bf80dcfd4504a7cf452ac179c1b801d6a00fc5.mp4",
+      "filename": "HP - CS - Website.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "81f83c8a-7d29-4057-ad14-be40735dde4b",
+  "detail": {
+    "title": "Hip Pop",
+    "designersText": "Robot Food",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 25 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Hip Pop",
+      "디자이너": "Robot Food",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 25 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "source": "brandarchive",
+  "name": "Philadelphia Art Museum",
+  "slug": "philadelphia-art-museum-2025",
+  "url": "https://brandarchive.xyz/identity/philadelphia-art-museum-2025",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Gretel",
+    "slug": "designed-by-gretel"
+  },
+  "designers": [
+    "Gretel"
+  ],
+  "assetCount": 48,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5245858699636fd4db95ce493b70099fa95dd4c5-3000x1777.jpg",
+      "filename": "Philadelphia Art Museum_ Logo copy .jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1777,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\001-Philadelphia-Art-Museum_-Logo-copy-.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/909fe7dc261d71a3848e04da5686193c5000220f-898x532.jpg",
+      "filename": "Philadelphia Art Museum_ Logo copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 898,
+      "height": 532,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\002-Philadelphia-Art-Museum_-Logo-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e8e9f208a417e0417bb44abf9eddca31c289151f-3000x1777.jpg",
+      "filename": "Philadelphia Art Museum_Logo copy 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1777,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\003-Philadelphia-Art-Museum_Logo-copy-2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/968c56f781feb6ceac888a9e504075c238df2cff.mp4",
+      "filename": "Philadelphia Art Museum_ Outside Inside.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a2b26711e832257d8d2550c555227c254959e49d-1500x1500.jpg",
+      "filename": "Map_1.2_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\004-Map_1.2_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/353cf18462827e7e09fd97bea113f43f86ae5229-2500x2500.jpg",
+      "filename": "Map_Open_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\005-Map_Open_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/21950d1521d8cc4327eaa6f50ca2848905b60a93-2500x2500.jpg",
+      "filename": "Membership-Print_1.3_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\006-Membership-Print_1.3_Crop.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1e8aafa919d1bb91f399405e21516c473f455201.mp4",
+      "filename": "Philadelphia Art Museum_ Kids Guide.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/876afaecaa0d9b3b231234c2efa7bf490ef650c7-2500x2500.jpg",
+      "filename": "Program_1.5_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\007-Program_1.5_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a536e531f62db6f4f0cd997ebc2431f105d4ad5d-2500x2500.jpg",
+      "filename": "Rack_Cards_5.3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\008-Rack_Cards_5.3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d03387f55286c58febb8cf009e4b4aff0e3c83ac-1500x1500.jpg",
+      "filename": "Tickets_1.4_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\009-Tickets_1.4_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0324669a5aa017f5c684c6ea1046b38b084fa42e-2500x1406.jpg",
+      "filename": "Trifold_1.5_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\010-Trifold_1.5_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7667e1a28f977b82ac750440cee9fe386596f2f4-1500x1500.jpg",
+      "filename": "Wristbands_2.2_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\011-Wristbands_2.2_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/35b1f3ea99f4ebb2771bb9bbfe49cd99d2be6c1e-2500x1406.jpg",
+      "filename": "Cafe_Poster_Wall_1.1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\012-Cafe_Poster_Wall_1.1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/77e5049a8967cad647d1f1643aff9a97bc485c0c-2500x2500.jpg",
+      "filename": "Kids_Sandwich_Board_1.2_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\013-Kids_Sandwich_Board_1.2_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e7879b53e29b1261b0572c7378e2e7455c3ba229-2500x1406.jpg",
+      "filename": "Parking_Cube_Wall_1.2_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\014-Parking_Cube_Wall_1.2_Crop.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a84e9f52f856a9e383f10b74f7fb923f7915c61c.mp4",
+      "filename": "Philadelphia Art Museum_ Digital Out of Home.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/33792ad6ddeb72d00f8553256d26b3cc89bb9b78.mp4",
+      "filename": "Philadelphia Art Museum_ Digital Wayfinding.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aa6c934a34bdcd4dc69f78490adddcfb128f7a5c-2500x2500.jpg",
+      "filename": "Bumper_Stickers_1.4_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\015-Bumper_Stickers_1.4_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/60bb252a2ed8bdd577665a8912aacf0b8e003fdc-2500x1406.jpg",
+      "filename": "Crewneck_Sweater_3.1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\016-Crewneck_Sweater_3.1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/712682aab9399052a8794fcc305a525e4e46ce02-1500x1500.jpg",
+      "filename": "Enamel_Pins_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\017-Enamel_Pins_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ed1cb220214ce533b01b3e06c4cc2a32ac2fc5f1-1500x1414.jpg",
+      "filename": "Hat_1.3_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1414,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\018-Hat_1.3_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f07cbffc47282d513a6aef0465f613a284e46046-1500x1500.jpg",
+      "filename": "Hooide_05_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\019-Hooide_05_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bb6c97ed18186b65c69402a070210e19e764b073-1500x1500.jpg",
+      "filename": "Kids_Pencils_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\020-Kids_Pencils_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/54d6bf525df649749d590916081875852d821f0f-2332x2332.jpg",
+      "filename": "Kids_Tee_1.6_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2332,
+      "height": 2332,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\021-Kids_Tee_1.6_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3dc17f2234ae7d149ff1a527d86090be2db017f0-2500x1406.jpg",
+      "filename": "Shopping_Bag_1.4_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\022-Shopping_Bag_1.4_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/83605f1a9200675a70e7452603d63289eef5f107-2500x2500.jpg",
+      "filename": "T_Shirt_Rocky_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\023-T_Shirt_Rocky_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6fe239cd6f576e9c6fce42f4bf43828d261b212d-2500x2500.jpg",
+      "filename": "Tote_2.4_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\024-Tote_2.4_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7c0aaf7ee21304273413dad0bf11f5c27fc037ac-2000x2000.gif",
+      "filename": "Wayfinding_Icons_1.2.gif",
+      "mimeType": "image/gif",
+      "width": 2000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\025-Wayfinding_Icons_1.2.gif"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/471dba66a74dc28a0676d52d90e7d9fbd939bee2-2500x1406.jpg",
+      "filename": "FrontDesk_1.4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\026-FrontDesk_1.4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc3f2c8c1ba1a6633c9d9f72ab9bef1a9385cf8e-2500x1406.jpg",
+      "filename": "Great+Stair+Hall+Banners_1.3_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\027-Great+Stair+Hall+Banners_1.3_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5922988326df1f1320753abb65b2f8144521a5fb-2500x1406.jpg",
+      "filename": "Head_To_Toe_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\028-Head_To_Toe_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cf8c9f62ecccc40cef372f6c2d1bdf64d6a6d61e-2500x2500.jpg",
+      "filename": "Head_To_Toe_2.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\029-Head_To_Toe_2.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b6c94152fa4ae3219a5cdd06d8814f476c077f2e-2500x1406.jpg",
+      "filename": "Museum-Facade_08.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\030-Museum-Facade_08.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/805172c3704d8c68e1d02be6e307f80a8423ff17-1500x1500.jpg",
+      "filename": "Parking_Cube_Door_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\031-Parking_Cube_Door_1.1_Crop.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ec7c67b8f174372f84d6e70c6fba2c675ac44f5f.mp4",
+      "filename": "Philadelphia Art Museum_ Elevator Pylon.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7699c76a77818acd12c0fda5fe12e92d52d0b610.mp4",
+      "filename": "Philadelphia Art Museum_ Exterior Pylon.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/368c5ddb4acc83c5e27a35ff4644ca19e21ccb14-2500x1406.jpg",
+      "filename": "Timeline_1.2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\032-Timeline_1.2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c9240dec36567324c96c914f9306b5b57af59dca-2500x2500.jpg",
+      "filename": "Wayfinding_Directional_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\033-Wayfinding_Directional_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2c3949fa1b87413490cd175bf52013ee49524d2d-2500x2500.jpg",
+      "filename": "Wayfinding_Parking_Sign_02_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\034-Wayfinding_Parking_Sign_02_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/131dfc911d9f30354b88442165595a10385bcd98-2500x3124.jpg",
+      "filename": "Wayfinding_Restrooms_01_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 3124,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\035-Wayfinding_Restrooms_01_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/284c03f81ac6be344907dce824949f6d7f239882-2500x2500.jpg",
+      "filename": "Wayfinding_Stair_Sign_1.1_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\036-Wayfinding_Stair_Sign_1.1_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b0a1cac7d9fc2b0b3978f6475029bbdc3a35faaf-2500x2500.jpg",
+      "filename": "Wayfinding_Stairwell_01_Crop.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\037-Wayfinding_Stairwell_01_Crop.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/75d3cf9a91204bd1e78e22f525c2917359133ae9-2500x1406.png",
+      "filename": "PhAM_Web_Overview.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\038-PhAM_Web_Overview.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1fa0f29dfd19de86ca6d4af75e12a0ac3fd9a575.mp4",
+      "filename": "Philadelphia Art Museum_ Custom Typography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e9a43a9c2937827fbb2a60b57151c957f29cf829.mp4",
+      "filename": "Philadelphia Art Museum_ Vernacular Typography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a9e6c2be9c0b2014270cc1a5a956f76f0b2e18db.mp4",
+      "filename": "Philadelphia Art Museum_ Website Scroll.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1180999dcfb8d97444e23d1376574df76c6890e-2500x1406.png",
+      "filename": "Social_Stories.png",
+      "mimeType": "image/png",
+      "width": 2500,
+      "height": 1406,
+      "localPath": "archive\\brandarchive\\identities\\philadelphia-art-museum-2025\\assets\\039-Social_Stories.png"
+    }
+  ],
+  "rawId": "47b46877-674a-4023-94d0-f0a421349593",
+  "detail": {
+    "title": "Philadelphia Art Museum",
+    "designersText": "Gretel",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      },
+      {
+        "hex": "#84FEDE",
+        "rgb": "132, 254, 222",
+        "cmyk": "48, 0, 13, 0"
+      },
+      {
+        "hex": "#F3FFCD",
+        "rgb": "243, 255, 205",
+        "cmyk": "5, 0, 20, 0"
+      },
+      {
+        "hex": "#FFD1CB",
+        "rgb": "255, 209, 203",
+        "cmyk": "0, 18, 20, 0"
+      },
+      {
+        "hex": "#CBD5FF",
+        "rgb": "203, 213, 255",
+        "cmyk": "20, 16, 0, 0"
+      },
+      {
+        "hex": "#CCF6FF",
+        "rgb": "204, 246, 255",
+        "cmyk": "20, 4, 0, 0"
+      },
+      {
+        "hex": "#CCB1FF",
+        "rgb": "204, 177, 255",
+        "cmyk": "20, 31, 0, 0"
+      }
+    ],
+    "typeText": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Philadelphia Art Museum",
+      "디자이너": "Gretel",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        },
+        {
+          "hex": "#84FEDE",
+          "rgb": "132, 254, 222",
+          "cmyk": "48, 0, 13, 0"
+        },
+        {
+          "hex": "#F3FFCD",
+          "rgb": "243, 255, 205",
+          "cmyk": "5, 0, 20, 0"
+        },
+        {
+          "hex": "#FFD1CB",
+          "rgb": "255, 209, 203",
+          "cmyk": "0, 18, 20, 0"
+        },
+        {
+          "hex": "#CBD5FF",
+          "rgb": "203, 213, 255",
+          "cmyk": "20, 16, 0, 0"
+        },
+        {
+          "hex": "#CCF6FF",
+          "rgb": "204, 246, 255",
+          "cmyk": "20, 4, 0, 0"
+        },
+        {
+          "hex": "#CCB1FF",
+          "rgb": "204, 177, 255",
+          "cmyk": "20, 31, 0, 0"
+        }
+      ],
+      "서체정보": "Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.Play VideoPlaySkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

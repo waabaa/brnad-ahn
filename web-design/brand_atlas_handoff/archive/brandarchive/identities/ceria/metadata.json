@@ -1,0 +1,272 @@
+{
+  "source": "brandarchive",
+  "name": "Ceria",
+  "slug": "ceria",
+  "url": "https://brandarchive.xyz/identity/ceria",
+  "year": 2022,
+  "exclusive": true,
+  "collection": {
+    "title": "Soft Drinks",
+    "slug": "soft-drinks-kombucha"
+  },
+  "designers": [
+    "Mother Design"
+  ],
+  "assetCount": 26,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/05bd750a8058a86b0db5b59a7b29ccedc74cc6fc-1920x1080.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\001-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1bbe7ca175e0d520598e1deb7ae014f18225803d-1920x1080.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\002-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b7eb08039efba38f300e6f726c39b4169855d61-1920x1080.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\003-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b924cf9bcd3e470e4447e598a9e89cb4dfecf409-1920x1080.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\004-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d93bf586cd33a6d5f124b580cd1f79d978ce19e-1920x1080.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\005-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/da60233eb51c24708c06543db0afbd335a083894-1920x1080.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\006-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b2da88f6f7445d350d25eb1df10bc71f0d285d62-760x1072.gif",
+      "filename": "image.gif",
+      "mimeType": "image/gif",
+      "width": 760,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\007-image.gif"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0cb4f6af575211607215d5350c85dd67b3a62a4d.mp4",
+      "filename": "MOTHERDESIGN_Ceria_Ceres_Face.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f8ea370a7358f71c7f4d2ac55937fcb40b04fc07.mp4",
+      "filename": "MOTHERDESIGN_CERIA_Typemotion_01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9d8460ab95112a78cf7c43c2d06197b52f67a68b.mp4",
+      "filename": "MOTHERDESIGN_CERIA_Typemotion_02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3677c84a638e576658a22b5956c201e9dc2547f-2800x1575.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_aSO7keJw5mpUGEfK.webp",
+      "mimeType": "image/webp",
+      "width": 2800,
+      "height": 1575,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\008-mother-design-ceria-graphic-desi.format-webp.width-2880_aSO7keJw5mpUGEfK.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec26fd318fbff9f6faf3d872b1a8d51a49e1092a-1596x2252.webp",
+      "filename": "image-1.webp",
+      "mimeType": "image/webp",
+      "width": 1596,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\009-image-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b3b71fe1733390d5157d53b7ac1f7a9e21f0eb8-1596x2253.webp",
+      "filename": "image-2.webp",
+      "mimeType": "image/webp",
+      "width": 1596,
+      "height": 2253,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\010-image-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d5ac83ec6011342d88ba16474de75123b554d9bf-1595x2252.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_rXn5y8XywBSwZR6B.webp",
+      "mimeType": "image/webp",
+      "width": 1595,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\011-mother-design-ceria-graphic-desi.format-webp.width-2880_rXn5y8XywBSwZR6B.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ca83254e19867ef114c59ea615714e2dcdc5be28-1596x2252.webp",
+      "filename": "image-3.webp",
+      "mimeType": "image/webp",
+      "width": 1596,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\012-image-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96bab8605a0e0fbee5918d3962f29ef0799c43e9-1596x2252.webp",
+      "filename": "image-4.webp",
+      "mimeType": "image/webp",
+      "width": 1596,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\013-image-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0684bd28fc826d3dde8f079b4b96d7c773d44b8c-2799x1575.jpg",
+      "filename": "1a8eb95f48d589bf467a368a029411a40bb6c6ff-2800x1575.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2799,
+      "height": 1575,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\014-1a8eb95f48d589bf467a368a029411a40bb6c6ff-2800x1575.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/59153e1db870aa77b45c387c8be68c157f684e82-1600x1072.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_xzEhHzzEoFMQaRhm.webp",
+      "mimeType": "image/webp",
+      "width": 1600,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\015-mother-design-ceria-graphic-desi.format-webp.width-2880_xzEhHzzEoFMQaRhm.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0206462ec2548b15895a9dd5fc11038d6ee05be5-3000x2000.png",
+      "filename": "77d18582357267575c737de771f89bb54e28872e-4096x2731.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\016-77d18582357267575c737de771f89bb54e28872e-4096x2731.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a4d13371b663f88c0a0dbb9e3ee6df7d8ce679c4-1596x2252.jpg",
+      "filename": "b95874ac8470a90ef11153adeba27598766001db-1596x2252.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1596,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\017-b95874ac8470a90ef11153adeba27598766001db-1596x2252.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7305b4b43c0bb1d3ca651d4fb87b61f1543246af-3000x2000.png",
+      "filename": "d7c15f157d76e0e1552529c4d3a3038e66dbe6eb-4096x2731.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\018-d7c15f157d76e0e1552529c4d3a3038e66dbe6eb-4096x2731.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41a1ae0e34a6fdcaad746c77e4a0bbd7147aa9e8-1596x2252.jpg",
+      "filename": "f7ff38831c390f1452dc1dec5f3227093804877a-1596x2252.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1596,
+      "height": 2252,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\019-f7ff38831c390f1452dc1dec5f3227093804877a-1596x2252.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1113daac9b041f7bacc77941bd132953fc1ee1a6-1600x1072.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_CfmzhcDT48Itl628.webp",
+      "mimeType": "image/webp",
+      "width": 1600,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\020-mother-design-ceria-graphic-desi.format-webp.width-2880_CfmzhcDT48Itl628.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d332c7a8d1e2bd889c072bab0023e6b73e0108a7-1600x1072.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_Ds9BNlYlotcxnJMw.webp",
+      "mimeType": "image/webp",
+      "width": 1600,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\021-mother-design-ceria-graphic-desi.format-webp.width-2880_Ds9BNlYlotcxnJMw.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81b59b688efa828de7098baa272530fce22e216f-1599x1072.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_FWqa4k432zDiWrJU.webp",
+      "mimeType": "image/webp",
+      "width": 1599,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\022-mother-design-ceria-graphic-desi.format-webp.width-2880_FWqa4k432zDiWrJU.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bdad34e46669e0379447fe63758caf3049ceed91-1600x1072.webp",
+      "filename": "mother-design-ceria-graphic-desi.format-webp.width-2880_k4JCkiC8Gq1LcpcD.webp",
+      "mimeType": "image/webp",
+      "width": 1600,
+      "height": 1072,
+      "localPath": "archive\\brandarchive\\identities\\ceria\\assets\\023-mother-design-ceria-graphic-desi.format-webp.width-2880_k4JCkiC8Gq1LcpcD.webp"
+    }
+  ],
+  "rawId": "392fcb73-c46d-435b-8bb3-33a1a2de6d18",
+  "detail": {
+    "title": "Ceria",
+    "designersText": "Mother Design",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 26 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Ceria",
+      "디자이너": "Mother Design",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 26 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

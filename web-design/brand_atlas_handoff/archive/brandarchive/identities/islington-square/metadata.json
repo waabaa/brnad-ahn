@@ -1,0 +1,151 @@
+{
+  "source": "brandarchive",
+  "name": "Islington Square",
+  "slug": "islington-square",
+  "url": "https://brandarchive.xyz/identity/islington-square",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by DNCO",
+    "slug": "designed-by-dnco"
+  },
+  "designers": [
+    "Campbell Hay"
+  ],
+  "assetCount": 13,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/29f39bb8426183ec26e35834d480a809723ca1c9-3000x2000.png",
+      "filename": "1.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\001-1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/48f1a276ab573c30166efb41515cf32596dcb40b-3000x2000.png",
+      "filename": "1.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\002-1.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7b382e76d4fefc66a26297d8a25bdd27381c5c34-3000x2000.png",
+      "filename": "2.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\003-2.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5584af1bb9bd44ec231e6bbe90c95de099271b82-3000x2000.png",
+      "filename": "3.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\004-3.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8d7f94d16db8ba047df3cb03228eb2c7df0d06f8-2250x1500.jpg",
+      "filename": "a5d71e767aab2159352a374efda5c01aa9887633-2250x1500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\005-a5d71e767aab2159352a374efda5c01aa9887633-2250x1500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2fcf1c54a7588b53899489e124b7acd3b116d7f3-2250x1500.jpg",
+      "filename": "e654f5a717f2cd638e07ca2a5714b3c17d13b597-2250x1500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\006-e654f5a717f2cd638e07ca2a5714b3c17d13b597-2250x1500.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ae70a3ee4c48c3baf1a175994fd8edd5b8ec1ddd-2000x1333.jpg",
+      "filename": "5a541801818f2aaa7b820d3c2bbdc368ab217cd4-2000x1333.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\007-5a541801818f2aaa7b820d3c2bbdc368ab217cd4-2000x1333.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/044fecbf344bc4f07fcb6a0cdf23718fe3dd6b19-2250x1500.jpg",
+      "filename": "723e2ce8c30297302fdef65db136aad4568abcf8-2250x1500.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2250,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\islington-square\\assets\\008-723e2ce8c30297302fdef65db136aad4568abcf8-2250x1500.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/676de229d6ab67094c9d7b4119af22fedbcb43f1.mp4",
+      "filename": "676de229d6ab67094c9d7b4119af22fedbcb43f1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/35ecf1d0e6dd673585fc27c829a36c5e2d4c80a6.mp4",
+      "filename": "35ecf1d0e6dd673585fc27c829a36c5e2d4c80a6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/66a79924053fb244a374597d7eca8b69a1c2eb03.mp4",
+      "filename": "66a79924053fb244a374597d7eca8b69a1c2eb03.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cf6f8f32033c7a7955ea477358d069fd085896ab.mp4",
+      "filename": "cf6f8f32033c7a7955ea477358d069fd085896ab.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/97feb57d7c7016efad8074483121ad276e0d8b20.mp4",
+      "filename": "97feb57d7c7016efad8074483121ad276e0d8b20.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "568acea1-0e64-4f63-9669-55918d728c71",
+  "detail": {
+    "title": "Islington Square",
+    "designersText": "Campbell Hay",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 13 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Islington Square",
+      "디자이너": "Campbell Hay",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 13 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

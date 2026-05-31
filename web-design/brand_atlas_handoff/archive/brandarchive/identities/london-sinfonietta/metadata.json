@@ -1,0 +1,263 @@
+{
+  "source": "brandarchive",
+  "name": "London Sinfonietta",
+  "slug": "london-sinfonietta",
+  "url": "https://brandarchive.xyz/identity/london-sinfonietta",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "NB Studio"
+  ],
+  "assetCount": 19,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/763ab4c0897b6f51e85d4ec2852185bebe4988e0-3000x1621.png",
+      "filename": "Screenshot-2025-11-26-at-10.54.18-2200x1189.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\001-Screenshot-2025-11-26-at-10.54.18-2200x1189.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2e72ae29c341322edc8b5c3ccec5f89417f9e189.mp4",
+      "filename": "001_NB_LondonSinfonietta_Motion Behaviour Showcase.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/55d5b9c86714bf1e08e20a0b9d6d1154cc8a8a79.mp4",
+      "filename": "db2b78d0.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2193b0c0d6ff7b01b3d8b1b37fafc8fb39a5c0b8-2000x1125.jpg",
+      "filename": "10_NB_LondonSinfonietta_Vinyl.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\002-10_NB_LondonSinfonietta_Vinyl.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1fe6a22cb888aa1c1f1d3c479121cc3b5db3c9b3-1760x2200.jpg",
+      "filename": "11_NB_LondonSinfonietta_Tote-1760x2200.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1760,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\003-11_NB_LondonSinfonietta_Tote-1760x2200.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/767e2c5086747c59ae3bea8db5994e2d089bc977-1760x2200.jpg",
+      "filename": "12_NB_LondonSinfonietta_Banner-1760x2200.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1760,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\004-12_NB_LondonSinfonietta_Banner-1760x2200.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aad0a60beb76f06e7e730217d732f23a60952807.mp4",
+      "filename": "13_NB_LondonSinfonietta_PosterVertical.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6db48f680e69700ca7a8575024ff5a9cb6ac0b02-3000x1687.jpg",
+      "filename": "16_NB_LondonSinfonietta_Newspaper_Manifesto-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1687,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\005-16_NB_LondonSinfonietta_Newspaper_Manifesto-1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3abf815944cb74b7018b179d3f01b87d9ef2748c.mp4",
+      "filename": "cb57ed05.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4ebf4e2d262909a27d9365f992da09f3a3c40af1-1760x2200.jpg",
+      "filename": "17_NB_LondonSinfonietta_Lanyard-1760x2200.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1760,
+      "height": 2200,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\006-17_NB_LondonSinfonietta_Lanyard-1760x2200.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7bdc080c1f08559a5121c23cb27fe6dba8dc55a2-3000x1688.jpg",
+      "filename": "20_NB_LondonSinfonietta_Invite.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\007-20_NB_LondonSinfonietta_Invite.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7bc3cc422e61c73dab61de4d5b57dae796810e07.mp4",
+      "filename": "15_NB_LondonSinfonietta_InteractionsMenu.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b680037f86ab53b43fd08c1ff49da7d9f50a2385-1920x1080.png",
+      "filename": "02_NB_LondonSinfonietta_LogoHero.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\008-02_NB_LondonSinfonietta_LogoHero.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/630b6f8923225d160a09ea64659b13e0b9fcf7fb-3000x1621.png",
+      "filename": "2.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 1621,
+      "localPath": "archive\\brandarchive\\identities\\london-sinfonietta\\assets\\009-2.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2bb336062691071373897dad3bd84b1d12500920.mp4",
+      "filename": "e2e97c8c-cc22702e.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/aa06b6610e19a8464ab69a7b1e62ebe143e05ea2.mp4",
+      "filename": "9cb3ff1c-5bde31b9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d2343674aa847043898c24cdb7d3a2bc4851e464.mp4",
+      "filename": "4fe7bf5d.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3186249073239f0327f1077ad7a6307569388694.mp4",
+      "filename": "79ed24af.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9b677a0f734caa9123603de1e5b1a32aa2fd4a9d.mp4",
+      "filename": "7ac88fb6.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "ce7e722c-b741-48ee-af1e-62c9d2aac147",
+  "detail": {
+    "title": "London Sinfonietta",
+    "designersText": "NB Studio",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#FF5D04",
+        "rgb": "255, 93, 4",
+        "cmyk": "0, 64, 98, 0"
+      },
+      {
+        "hex": "#DFFF40",
+        "rgb": "223, 255, 64",
+        "cmyk": "13, 0, 75, 0"
+      },
+      {
+        "hex": "#1100FF",
+        "rgb": "17, 0, 255",
+        "cmyk": "93, 100, 0, 0"
+      },
+      {
+        "hex": "#FFBFFF",
+        "rgb": "255, 191, 255",
+        "cmyk": "0, 25, 0, 0"
+      },
+      {
+        "hex": "#26221F",
+        "rgb": "38, 34, 31",
+        "cmyk": "0, 11, 18, 85"
+      },
+      {
+        "hex": "#EBE3D8",
+        "rgb": "235, 227, 216",
+        "cmyk": "0, 3, 8, 8"
+      }
+    ],
+    "typeText": "Designer: sMatthieu SalvaggioTim Vanhille Released: 2023 Foundry: Blaze Type",
+    "korean": {
+      "브랜드명": "London Sinfonietta",
+      "디자이너": "NB Studio",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#FF5D04",
+          "rgb": "255, 93, 4",
+          "cmyk": "0, 64, 98, 0"
+        },
+        {
+          "hex": "#DFFF40",
+          "rgb": "223, 255, 64",
+          "cmyk": "13, 0, 75, 0"
+        },
+        {
+          "hex": "#1100FF",
+          "rgb": "17, 0, 255",
+          "cmyk": "93, 100, 0, 0"
+        },
+        {
+          "hex": "#FFBFFF",
+          "rgb": "255, 191, 255",
+          "cmyk": "0, 25, 0, 0"
+        },
+        {
+          "hex": "#26221F",
+          "rgb": "38, 34, 31",
+          "cmyk": "0, 11, 18, 85"
+        },
+        {
+          "hex": "#EBE3D8",
+          "rgb": "235, 227, 216",
+          "cmyk": "0, 3, 8, 8"
+        }
+      ],
+      "서체정보": "Designer: sMatthieu SalvaggioTim Vanhille Released: 2023 Foundry: Blaze Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

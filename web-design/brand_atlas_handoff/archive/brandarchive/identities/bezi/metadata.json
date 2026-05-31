@@ -1,0 +1,200 @@
+{
+  "source": "brandarchive",
+  "name": "Bezi",
+  "slug": "bezi",
+  "url": "https://brandarchive.xyz/identity/bezi",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Food Brands",
+    "slug": "food"
+  },
+  "designers": [
+    "Red Antler"
+  ],
+  "assetCount": 18,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d9e9d3bbcaf37bac8c965a34aac5798ff3180c6d-3020x1861.jpg",
+      "filename": "1-Labneh-Bezi-Branding-Logotype-Red-Antler-BP&O-Review.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3020,
+      "height": 1861,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\001-1-Labneh-Bezi-Branding-Logotype-Red-Antler-BP&O-Review.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e00e9ca3a8329c0aec816ec3bc8a5e202df4433c-1939x1200.png",
+      "filename": "10-Labneh-Bezi-Branding-Illustration-Red-Antler-BP&O-Review.jpg",
+      "mimeType": "image/png",
+      "width": 1939,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\002-10-Labneh-Bezi-Branding-Illustration-Red-Antler-BP&O-Review.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d38b0995683c8113058d8cc094fa7a0f6893f8a7-1939x1200.jpg",
+      "filename": "44.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1939,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\003-44.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8292464f3abaf20def54337c31838abaece23d21-1939x1200.jpg",
+      "filename": "233.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1939,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\004-233.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3ea47fc30fa7b40da54873b12d58df98b94bcc9d.mp4",
+      "filename": "Bezi_960_01__1_.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/56a192395986520bbe38f64487d4f030444a4647.mp4",
+      "filename": "Bezi_960_03__1_.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6001c66a25407c63aad52c4d1feee5e0cddbd163.mp4",
+      "filename": "Bezi_960_04__1_.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ab2d67f6e20904f065242c66052da2a8cc571c5c-2560x2984.jpg",
+      "filename": "Bezi_Desktop_2up_1269px.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 2984,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\005-Bezi_Desktop_2up_1269px.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9dc9357826a3f88386f47649bdc8a7e793e2ae56-2560x1479.png",
+      "filename": "8-Labneh-Bezi-Branding-Illustration-Red-Antler-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 1479,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\006-8-Labneh-Bezi-Branding-Illustration-Red-Antler-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9e87d3546211ef9c931432088c35690d1ec3b051-2560x1307.png",
+      "filename": "2-Labneh-Bezi-Branding-Packaging-Red-Antler-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 1307,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\007-2-Labneh-Bezi-Branding-Packaging-Red-Antler-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b215cf502ef8b92a024387fd8bb7e6a8b67b61c7-3000x1733.png",
+      "filename": "3-Labneh-Bezi-Branding-Packaging-Red-Antler-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 3000,
+      "height": 1733,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\008-3-Labneh-Bezi-Branding-Packaging-Red-Antler-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/65e659bc2c0601c5f69039934c053c4ae4fe77f3-2560x2984.jpg",
+      "filename": "Bezi_Desktop_2up_1269px-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 2984,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\009-Bezi_Desktop_2up_1269px-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/94e52f93be98629de822f17544cedc3e27754f45-2560x2984.jpg",
+      "filename": "Bezi_Desktop_2upb_1269px.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 2984,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\010-Bezi_Desktop_2upb_1269px.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7974ef501b39474344acc33731beaffb35377b40-2560x1479.jpg",
+      "filename": "4-Labneh-Bezi-Branding-Red-Antler-BP&O-Review.png copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1479,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\011-4-Labneh-Bezi-Branding-Red-Antler-BP&O-Review.png-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b150d2d1fd8d8d7e40c2c536c963a819248b2c4f-2560x1479.png",
+      "filename": "5-Labneh-Bezi-Branding-Website-Red-Antler-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 1479,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\012-5-Labneh-Bezi-Branding-Website-Red-Antler-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ad45aca7997014cf7f30a114482874109ca4109f-2560x1479.png",
+      "filename": "7-Labneh-Bezi-Branding-Social-Assets-Red-Antler-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 1479,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\013-7-Labneh-Bezi-Branding-Social-Assets-Red-Antler-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/60c6bde4068b4f98dcc46b3130813e0bfa5f6797-1920x2238.webp",
+      "filename": "Bezi_Desktop_2up_1269px-1.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 2238,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\014-Bezi_Desktop_2up_1269px-1.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ba35e5fe87da5f8d4eef036361ce9d6c11d4dcfa-2560x2984.png",
+      "filename": "Bezi_Desktop_2up_1269px.png",
+      "mimeType": "image/png",
+      "width": 2560,
+      "height": 2984,
+      "localPath": "archive\\brandarchive\\identities\\bezi\\assets\\015-Bezi_Desktop_2up_1269px.png"
+    }
+  ],
+  "rawId": "1ec01e93-b2c8-4737-8210-049173eefd6f",
+  "detail": {
+    "title": "Bezi",
+    "designersText": "Red Antler",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 18 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Bezi",
+      "디자이너": "Red Antler",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 18 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

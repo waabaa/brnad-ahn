@@ -1,0 +1,275 @@
+{
+  "source": "brandarchive",
+  "name": "Mecca Coffee",
+  "slug": "mecca-coffee",
+  "url": "https://brandarchive.xyz/identity/mecca-coffee",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "Christopher Doyle & Co."
+  ],
+  "assetCount": 19,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a2bf4ff622494e279262bfca40f98e82dc0fd6f0-3840x2883.jpg",
+      "filename": "agQqpaYofJOwHKhe_MECCA_11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\001-agQqpaYofJOwHKhe_MECCA_11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb5f38388ea4afbc917d8b2fefe3b638765d0d54-4500x2882.jpg",
+      "filename": "agQqmaYofJOwHKhQ_MECCA_1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2882,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\002-agQqmaYofJOwHKhQ_MECCA_1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2a0aa4b5e35520d3a45bbece52d083f18cbe8693.mp4",
+      "filename": "02_GRID_TEXTURED_CASE STUDY.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ac4fd7c067db0697194cd5b822cc804aee45621d.mp4",
+      "filename": "05_ILLUSTRATIONS_TEXTURED_CASE STUDY.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b476d8ca46e6f5caec08b160713bf1ba77b6fd06-3840x2883.jpg",
+      "filename": "agQqoqYofJOwHKhb_MECCA_8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\003-agQqoqYofJOwHKhb_MECCA_8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1497df7c3ec70d5aa36035be5a02405310c69249-3840x2883.jpg",
+      "filename": "agQqm6YofJOwHKhT_MECCA_3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\004-agQqm6YofJOwHKhT_MECCA_3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/94ecd7fee69903ef9bae66507358419b177f41b1-3840x2883.jpg",
+      "filename": "agQqp6YofJOwHKhk_MECCA_13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\005-agQqp6YofJOwHKhk_MECCA_13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/860a4d1ecddef007d48711be585ae1ea77f166d0-3840x2883.jpg",
+      "filename": "agQqpqYofJOwHKhi_MECCA_12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\006-agQqpqYofJOwHKhi_MECCA_12.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f70a22fa052b5804c18e6cd496ab9eb601426f8d-3840x2883.jpg",
+      "filename": "agQqqqYofJOwHKhp_MECCA_15.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\007-agQqqqYofJOwHKhp_MECCA_15.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/885c87d8d7c0a38c214582925abeaf566cbad4a5-3840x2883.jpg",
+      "filename": "agQqmqYofJOwHKhR_MECCA_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\008-agQqmqYofJOwHKhR_MECCA_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7bf967bd3f79cbb1a67ad3930d7fbbf50434dc4c-3840x2883.jpg",
+      "filename": "agQqn6YofJOwHKhY_MECCA_6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\009-agQqn6YofJOwHKhY_MECCA_6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc4dcd057c9f1b0d653955feb918bf74b6816c2e-3840x2883.jpg",
+      "filename": "agQqnqYofJOwHKhX_MECCA_5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\010-agQqnqYofJOwHKhX_MECCA_5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8e6a021b1c2bcffe5c4709d2d9f4fbd1daa530a6-3840x2883.jpg",
+      "filename": "agQqo6YofJOwHKhc_MECCA_9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\011-agQqo6YofJOwHKhc_MECCA_9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2b97d2a6344ab233aa5e9871fa9e426829bdd001-3840x2883.jpg",
+      "filename": "agQqoKYofJOwHKhZ_MECCA_7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\012-agQqoKYofJOwHKhZ_MECCA_7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9dd35ffd745b4fdadd25c42f7a57d8d6db9ec784-3840x2883.jpg",
+      "filename": "agQqpKYofJOwHKhd_MECCA_10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\013-agQqpKYofJOwHKhd_MECCA_10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cad888d143ec097b1735ea9bae336a5d67f724f6-3840x2883.jpg",
+      "filename": "agQqqKYofJOwHKhm_MECCA_14.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\014-agQqqKYofJOwHKhm_MECCA_14.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/becc85817020f15544f849e661f66e5b6e9a35aa-3840x2883.jpg",
+      "filename": "agQsSKYofJOwHKjT_MECCA_16.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2883,
+      "localPath": "archive\\brandarchive\\identities\\mecca-coffee\\assets\\015-agQsSKYofJOwHKjT_MECCA_16.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d71e3d9b0e8e0e72739b98c75ae7218b117d4dd8.mp4",
+      "filename": "03_SINGLE ICON POSTER_TEXTURED_CASE STUDY.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/35c5116190ccfd5e4bbbd783b13efc4ad55cbaac.mp4",
+      "filename": "04_COFFEE POSTER_TEXTURED__CASE STUDY.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "5d6f2089-3bd3-48b3-8056-a6cc4b5cfa5b",
+  "detail": {
+    "title": "Mecca Coffee",
+    "designersText": "Christopher Doyle & Co.",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#A29A32",
+        "rgb": "162, 154, 50",
+        "cmyk": "0, 5, 69, 36"
+      },
+      {
+        "hex": "#A25996",
+        "rgb": "162, 89, 150",
+        "cmyk": "0, 45, 7, 36"
+      },
+      {
+        "hex": "#EC5126",
+        "rgb": "236, 81, 38",
+        "cmyk": "0, 66, 84, 7"
+      },
+      {
+        "hex": "#9498C4",
+        "rgb": "148, 152, 196",
+        "cmyk": "24, 22, 0, 23"
+      },
+      {
+        "hex": "#CA4E6F",
+        "rgb": "202, 78, 111",
+        "cmyk": "0, 61, 45, 21"
+      },
+      {
+        "hex": "#269244",
+        "rgb": "38, 146, 68",
+        "cmyk": "74, 0, 53, 43"
+      }
+    ],
+    "typeText": "Designer: Héctor Gatti Released: 2012 Foundry: Omnibus-Type",
+    "korean": {
+      "브랜드명": "Mecca Coffee",
+      "디자이너": "Christopher Doyle & Co.",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#A29A32",
+          "rgb": "162, 154, 50",
+          "cmyk": "0, 5, 69, 36"
+        },
+        {
+          "hex": "#A25996",
+          "rgb": "162, 89, 150",
+          "cmyk": "0, 45, 7, 36"
+        },
+        {
+          "hex": "#EC5126",
+          "rgb": "236, 81, 38",
+          "cmyk": "0, 66, 84, 7"
+        },
+        {
+          "hex": "#9498C4",
+          "rgb": "148, 152, 196",
+          "cmyk": "24, 22, 0, 23"
+        },
+        {
+          "hex": "#CA4E6F",
+          "rgb": "202, 78, 111",
+          "cmyk": "0, 61, 45, 21"
+        },
+        {
+          "hex": "#269244",
+          "rgb": "38, 146, 68",
+          "cmyk": "74, 0, 53, 43"
+        }
+      ],
+      "서체정보": "Designer: Héctor Gatti Released: 2012 Foundry: Omnibus-Type",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

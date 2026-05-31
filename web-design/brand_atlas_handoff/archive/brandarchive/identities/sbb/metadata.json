@@ -1,0 +1,191 @@
+{
+  "source": "brandarchive",
+  "name": "SBB",
+  "slug": "sbb",
+  "url": "https://brandarchive.xyz/identity/sbb",
+  "year": 1972,
+  "exclusive": true,
+  "collection": {
+    "title": "Transport",
+    "slug": "transport"
+  },
+  "designers": [
+    "Josef Müller-Brockmann",
+    "Müller-Brockmann + Co",
+    "Pete Spalinger",
+    "Hans Hartmann"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b9d6a199e3175f067b50b1a838f3b7d4d35e0600-3001x2001.jpg",
+      "filename": "2c09d399f06ddaee41d97dfb4f01e517.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3001,
+      "height": 2001,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\001-2c09d399f06ddaee41d97dfb4f01e517.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/abe52cc5ff4399196048fa0fc4c1bbc7144a4670-512x512.png",
+      "filename": "unnamed.png",
+      "mimeType": "image/png",
+      "width": 512,
+      "height": 512,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\002-unnamed.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/44d83016431dd206b3c9b022c6ffdca68d0df5af-1126x638.jpg",
+      "filename": "SBB-Logo-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1126,
+      "height": 638,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\003-SBB-Logo-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a813604aea4e4eb17013c3936fcd4ccf5fb5df74-2754x2754.jpg",
+      "filename": "Scan 48 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2754,
+      "height": 2754,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\004-Scan-48-2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/774b9d87a86e33c8034b4284092df28c26458d19-5677x1515.jpg",
+      "filename": "Scan 50b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5677,
+      "height": 1515,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\005-Scan-50b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0f66dc69cc2ffd68b514733ecec24bb64dd4643-1410x943.jpg",
+      "filename": "Scan 50a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1410,
+      "height": 943,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\006-Scan-50a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e806b48d6210ef9116aa57c49e4f02907e113efd-4211x2797.jpg",
+      "filename": "a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4211,
+      "height": 2797,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\007-a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fa60ef461b48a6466cc24fd0d4c8a0831c84ef5f-1376x1376.jpg",
+      "filename": "Scan 45A.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1376,
+      "height": 1376,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\008-Scan-45A.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/01ddc9c97e168cc922b871624e819a349a3e4b10-1376x1376.jpg",
+      "filename": "Scan 45B.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1376,
+      "height": 1376,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\009-Scan-45B.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91a1ff61c176b6717ca6bd51d64ec535477fcfc6-5583x868.jpg",
+      "filename": "Scan 46b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5583,
+      "height": 868,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\010-Scan-46b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d28a2c4929a0c7ba9423e92d671b1eb443d7a8e-5583x868.jpg",
+      "filename": "Scan 46c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5583,
+      "height": 868,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\011-Scan-46c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a8a0ab15d7c7540b1efb5356081b35e0801a45b4-1406x769.jpg",
+      "filename": "Scan 46a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1406,
+      "height": 769,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\012-Scan-46a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b29620c369309770c1dfd30e8091e5ba38effe0-1376x1376.jpg",
+      "filename": "Scan 45C.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1376,
+      "height": 1376,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\013-Scan-45C.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8323999d4177cc09fd71cc3c61e57a347d671ab3-2745x1409.jpg",
+      "filename": "Scan 48v.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2745,
+      "height": 1409,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\014-Scan-48v.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/09c1b5d728f76dd67f6d1a8d4673b9c119fa4359-3038x1870.jpg",
+      "filename": "Scan 22a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3038,
+      "height": 1870,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\015-Scan-22a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c0d970a44e5b8a38ebe3b45dc3d4df109915cf4f-4020x3804.jpg",
+      "filename": "Scan 54.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4020,
+      "height": 3804,
+      "localPath": "archive\\brandarchive\\identities\\sbb\\assets\\016-Scan-54.jpeg"
+    }
+  ],
+  "rawId": "d0a26b95-8a3f-45b3-907e-21fc663823cf",
+  "detail": {
+    "title": "SBB",
+    "designersText": "Josef Müller-Brockmann",
+    "yearText": "1972",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 16 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "SBB",
+      "디자이너": "Josef Müller-Brockmann",
+      "연도": "1972",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 16 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

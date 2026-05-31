@@ -1,0 +1,176 @@
+{
+  "source": "brandarchive",
+  "name": "Equator",
+  "slug": "equator",
+  "url": "https://brandarchive.xyz/identity/equator",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "For The People"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b28e0a0c4d0f91c5effc9726aa08c363af1d7ee3-1920x1080.jpg",
+      "filename": "XQr3Z9JDL9IXDauLHDBDWNUpe3Y copy11.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\001-XQr3Z9JDL9IXDauLHDBDWNUpe3Y-copy11.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/36848b6fc60cce217a0c19270bc0acdad91eba76-1920x1080.jpg",
+      "filename": "XQr3Z9JDL9IXDauLHDBDWNUpe3Y copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\002-XQr3Z9JDL9IXDauLHDBDWNUpe3Y-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5d0af767d2432fd2170dab8b1c304358d5297b76.mp4",
+      "filename": "XQr3Z9JDL9IXDauLHDBDWNUpe3Y.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/139227919c31196f122a308c5256c8182563ae18.mp4",
+      "filename": "E5InkZwxGW8SKjCMUlbIGCVjrhg.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c9af62669852ab8080df0ab93eca79a086aed96b.mp4",
+      "filename": "ya9iZphSq4CA3wq5Psp5oIau2Ws.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41bebb0562d487b889fcd5374cd9dd26586db311-3840x2160.png",
+      "filename": "1pudCz0Inn5TjTRIodfwYxKvd7A.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\003-1pudCz0Inn5TjTRIodfwYxKvd7A.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3a7d6e6a550b787d76431e075af354b2525a751d-4000x2250.png",
+      "filename": "ftnP1uR1WEjHfv3l9qgT0PzPgnw.png",
+      "mimeType": "image/png",
+      "width": 4000,
+      "height": 2250,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\004-ftnP1uR1WEjHfv3l9qgT0PzPgnw.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c235ca4a47dde189ea0e1c543397d2cd4411c3f5-4001x4500.jpg",
+      "filename": "muN5SaR5x34DHWtR1QULIMj7mw 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4001,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\005-muN5SaR5x34DHWtR1QULIMj7mw-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4786e9b2170a547fedf2c56b624fa75535664254-3991x4500.jpg",
+      "filename": "muN5SaR5x34DHWtR1QULIMj7mw.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3991,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\006-muN5SaR5x34DHWtR1QULIMj7mw.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/90fdfd10a028a138f1db798e52a4335df980daa5-1440x811.png",
+      "filename": "MZqUTuIqZFz4KnqmSgYUmJS69Gs.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 811,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\007-MZqUTuIqZFz4KnqmSgYUmJS69Gs.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/768d6477f81c73dde4468c30fd1a7d5ea1acd1cf-1440x811.png",
+      "filename": "4cHilRjN9XNaEQi1p7irNse9Bg.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 811,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\008-4cHilRjN9XNaEQi1p7irNse9Bg.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ed0d8b686ef5a9067f50752293b8e22c6583828a.mp4",
+      "filename": "7Q2LaG71qQZUHUik7jiLGWDgoo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f9a7226f7cce585fe1fc795d33d058a8b41e1220-8000x4500.jpg",
+      "filename": "HZ84CfAlpSp7W3ejVYU0J5WpYLk.jpg",
+      "mimeType": "image/jpeg",
+      "width": 8000,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\009-HZ84CfAlpSp7W3ejVYU0J5WpYLk.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9f2409666319c671d7a3b7c14655867add59f9fb.mp4",
+      "filename": "nyQJZmMZxnHXo7fBRlWGet1Zfs.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5fa9bba9759abf2943ea922ae03069205ce10394.mp4",
+      "filename": "X6m7qXWavylD6pIq4DBpIFzhA5Q.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1ff26606251727959b2c209d22329191ecff0b66-1440x811.png",
+      "filename": "zVhl0qHMLrhtK4RZxHM3OkUCF0.png",
+      "mimeType": "image/png",
+      "width": 1440,
+      "height": 811,
+      "localPath": "archive\\brandarchive\\identities\\equator\\assets\\010-zVhl0qHMLrhtK4RZxHM3OkUCF0.png"
+    }
+  ],
+  "rawId": "ed75c202-bd24-4aef-a86f-36c31a69e04e",
+  "detail": {
+    "title": "Equator",
+    "designersText": "For The People",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 16 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Equator",
+      "디자이너": "For The People",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 16 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

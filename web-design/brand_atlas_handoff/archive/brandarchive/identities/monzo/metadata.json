@@ -1,0 +1,433 @@
+{
+  "source": "brandarchive",
+  "name": "Monzo",
+  "slug": "monzo",
+  "url": "https://brandarchive.xyz/identity/monzo",
+  "year": 2022,
+  "exclusive": false,
+  "collection": {
+    "title": "Banking",
+    "slug": "banking-brands"
+  },
+  "designers": [
+    "Ragged Edge"
+  ],
+  "assetCount": 33,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e8989d47eb8c7074f254f8f7286c2b8bc36327b9-1693x1200.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1693,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\001-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0220ab893f5262b8024fb897d63f251bed0ef28d-1700x1250.jpg",
+      "filename": "311795705_1802011843478444_2096517354626772152_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1700,
+      "height": 1250,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\002-311795705_1802011843478444_2096517354626772152_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/eea80b4565c506ebb1c974e5b16da94b0fc1f23b-1693x1200.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1693,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\003-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a4b5443cea08f4609472f13e1aefb229299f685f-1693x1200.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1693,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\004-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a5ddcca313dea5b1e609c595b97fdd5426069db0-1693x1200.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1693,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\005-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0988d245080b1135c2e1a63796614c9a7d870f4a-1693x1200.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1693,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\006-5.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/c8b7092e6e502db150542f4cd8f6a460e51fa5dc.mp4",
+      "filename": "monzo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a53a703c4f6cf48fca7e731f1fd167a9e8ed92fb-1921x1080.png",
+      "filename": "Monzo_0_KeyImage_Desktop.png",
+      "mimeType": "image/png",
+      "width": 1921,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\007-Monzo_0_KeyImage_Desktop.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9daeb18bf71d9c219db0771c776186406db20164-1080x1350.png",
+      "filename": "CS-HalfWidthPortrait-1080x1350-3.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\008-CS-HalfWidthPortrait-1080x1350-3.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/cd01f5cd683e1f3473d70a62661bd7a97a3b237b-3840x2160.jpg",
+      "filename": "Final_D_.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\009-Final_D_.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f688ad095a70fe56f02d4a1c90ed77d4f5cc75c0-3840x2008.jpg",
+      "filename": "Final_D_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2008,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\010-Final_D_2.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/866372fdbc1e0554efc6de923593badfa82136b9.mp4",
+      "filename": "Post_1_C_Typography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8f6ede583c3e3e801ccf54c360c70a927a07e01e.mp4",
+      "filename": "Post_1_D_Illustration-1.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7d27ec34e5381d757b8831061408030df200c774.mp4",
+      "filename": "Post_1_E_UI.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a67c666451ad0ccc07ef8c4b017454c277715f63-2500x2500.jpg",
+      "filename": "Current_Account copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2500,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\011-Current_Account-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/79685559ff0bf53dbb9a1e15f422764b77046e70-1200x1200.png",
+      "filename": "1fraud-lock-icons.png",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\012-1fraud-lock-icons.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/912f9b352781e296646f5a99dd700176445ab774-1200x1200.png",
+      "filename": "fraud-lock-icons.png",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\013-fraud-lock-icons.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e82204a364bf5e2a4cc4563c07e7c8b92bc21419-3994x4500.png",
+      "filename": "Blog_Content_Images-04 2.png",
+      "mimeType": "image/png",
+      "width": 3994,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\014-Blog_Content_Images-04-2.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/875d0a0a116b48c5b087e6d11b2452f70db69432-3987x4500.png",
+      "filename": "Blog_Content_Images-04.png",
+      "mimeType": "image/png",
+      "width": 3987,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\015-Blog_Content_Images-04.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dcfe168479d99c39e4401ca295e98196cd237137-8000x4500.png",
+      "filename": "Blog_Content_Images-06.png",
+      "mimeType": "image/png",
+      "width": 8000,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\016-Blog_Content_Images-06.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bcbe49a016d69a384534684f93a6fc16be1d7f28-8000x4500.png",
+      "filename": "Blog_Content_Images-05.png",
+      "mimeType": "image/png",
+      "width": 8000,
+      "height": 4500,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\017-Blog_Content_Images-05.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/008dda761c492d2b9ada25a7694d56df68bb8523-1920x1004.webp",
+      "filename": "ragged-edge-monzo-graphic-design-itsnicethat-04_DVl1STf.png.webp",
+      "mimeType": "image/webp",
+      "width": 1920,
+      "height": 1004,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\018-ragged-edge-monzo-graphic-design-itsnicethat-04_DVl1STf.png.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b92de7d1ec219e6df691d84b4fb5347c8a416120-2000x1998.jpg",
+      "filename": "366052633_665142102313781_7103677253501125531_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1998,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\019-366052633_665142102313781_7103677253501125531_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/87f39e8ae1d709ec136f63b585b29e389107eee9-2000x1976.jpg",
+      "filename": "366056013_665142185647106_3272082297486830356_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1976,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\020-366056013_665142185647106_3272082297486830356_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e257cced07ac8c6a27c017486491fea900e15552-2000x1998.jpg",
+      "filename": "366059533_665142098980448_8532816947867797138_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1998,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\021-366059533_665142098980448_8532816947867797138_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4b9d6ad2d963a1e9f6cbaaa761502fc8930297f4-2000x1998.jpg",
+      "filename": "366077245_665142182313773_7734953710618042348_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1998,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\022-366077245_665142182313773_7734953710618042348_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f964cad2cca3b5f0e54b15853682692b1e7b40b-2000x1998.jpg",
+      "filename": "366278664_665142112313780_5754878711656165598_n.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1998,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\023-366278664_665142112313780_5754878711656165598_n.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9852b0405564c3b58816244d999f1b0be6bd94b7-3014x2000.jpg",
+      "filename": "C.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\024-C.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a4ebe47a85f27720560552d3e94761260e9bdde2-3014x2000.jpg",
+      "filename": "D.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\025-D.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f05ceeafb7edfaa0f91be228eb43ec7368d37e54-3014x2000.jpg",
+      "filename": "A.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\026-A.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/aca889b3ce67349872be90685dfa8ae11f8ca846-3014x2000.jpg",
+      "filename": "E.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\027-E.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ef41e93d15d7e776b1fdf8a864a77ce7e76cc479-3014x2000.jpg",
+      "filename": "F.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\028-F.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/91506b122e2c24aad012a564ba80a5654c892970-3014x2000.jpg",
+      "filename": "B.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3014,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\monzo\\assets\\029-B.jpg"
+    }
+  ],
+  "rawId": "a643114d-5ae3-494c-b2af-32c198c0492e",
+  "detail": {
+    "title": "Monzo",
+    "designersText": "Ragged Edge",
+    "yearText": "2022",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FF4F40",
+        "rgb": "255, 79, 64",
+        "cmyk": "0, 69, 75, 0"
+      },
+      {
+        "hex": "#F2F8F3",
+        "rgb": "242, 248, 243",
+        "cmyk": "2, 0, 2, 3"
+      },
+      {
+        "hex": "#112231",
+        "rgb": "17, 34, 49",
+        "cmyk": "65, 31, 0, 81"
+      },
+      {
+        "hex": "#016B83",
+        "rgb": "1, 107, 131",
+        "cmyk": "99, 18, 0, 49"
+      },
+      {
+        "hex": "#FFD7F0",
+        "rgb": "255, 215, 240",
+        "cmyk": "0, 16, 6, 0"
+      },
+      {
+        "hex": "#C3FF34",
+        "rgb": "195, 255, 52",
+        "cmyk": "24, 0, 80, 0"
+      },
+      {
+        "hex": "#FE6B1B",
+        "rgb": "254, 107, 27",
+        "cmyk": "0, 58, 89, 0"
+      },
+      {
+        "hex": "#3A4920",
+        "rgb": "58, 73, 32",
+        "cmyk": "21, 0, 56, 71"
+      },
+      {
+        "hex": "#BBF6E2",
+        "rgb": "187, 246, 226",
+        "cmyk": "24, 0, 8, 4"
+      }
+    ],
+    "typeText": "Designer: William Montrose Released: 2019 Foundry: KilotypePlay VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Monzo",
+      "디자이너": "Ragged Edge",
+      "연도": "2022",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FF4F40",
+          "rgb": "255, 79, 64",
+          "cmyk": "0, 69, 75, 0"
+        },
+        {
+          "hex": "#F2F8F3",
+          "rgb": "242, 248, 243",
+          "cmyk": "2, 0, 2, 3"
+        },
+        {
+          "hex": "#112231",
+          "rgb": "17, 34, 49",
+          "cmyk": "65, 31, 0, 81"
+        },
+        {
+          "hex": "#016B83",
+          "rgb": "1, 107, 131",
+          "cmyk": "99, 18, 0, 49"
+        },
+        {
+          "hex": "#FFD7F0",
+          "rgb": "255, 215, 240",
+          "cmyk": "0, 16, 6, 0"
+        },
+        {
+          "hex": "#C3FF34",
+          "rgb": "195, 255, 52",
+          "cmyk": "24, 0, 80, 0"
+        },
+        {
+          "hex": "#FE6B1B",
+          "rgb": "254, 107, 27",
+          "cmyk": "0, 58, 89, 0"
+        },
+        {
+          "hex": "#3A4920",
+          "rgb": "58, 73, 32",
+          "cmyk": "21, 0, 56, 71"
+        },
+        {
+          "hex": "#BBF6E2",
+          "rgb": "187, 246, 226",
+          "cmyk": "24, 0, 8, 4"
+        }
+      ],
+      "서체정보": "Designer: William Montrose Released: 2019 Foundry: KilotypePlay VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:00Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

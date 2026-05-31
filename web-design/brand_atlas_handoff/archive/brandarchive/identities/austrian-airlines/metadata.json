@@ -1,0 +1,107 @@
+{
+  "source": "brandarchive",
+  "name": "Austrian Airlines",
+  "slug": "austrian-airlines",
+  "url": "https://brandarchive.xyz/identity/austrian-airlines",
+  "year": 1969,
+  "exclusive": true,
+  "collection": {
+    "title": "Airlines",
+    "slug": "airlines"
+  },
+  "designers": [
+    "Josef Oberauer"
+  ],
+  "assetCount": 7,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f563f143b43488781b2104c8eccbd343eea35f32-3500x3500.jpg",
+      "filename": "Austrian-Airlines-Logo-by-Josef-Oberauer-1969-Construction-Grid.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3500,
+      "height": 3500,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\001-Austrian-Airlines-Logo-by-Josef-Oberauer-1969-Construction-Grid.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/51b3b00f80ebd927e2bf275d35151acc609a962d-1500x1500.jpg",
+      "filename": "Austrian-Airlines-Logo-by-Josef-Oberauer-1969.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\002-Austrian-Airlines-Logo-by-Josef-Oberauer-1969.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3746326be6c1ff7bd6a945408da4931d01483a0-4000x4000.jpg",
+      "filename": "Austrian-Airlines-Logotype-Logo-LogoArchive-Logo-Histories.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4000,
+      "height": 4000,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\003-Austrian-Airlines-Logotype-Logo-LogoArchive-Logo-Histories.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/884ca79dfa6b33dcc7710093657ab658b143dc0a-882x1251.jpg",
+      "filename": "Austrian-Airlines-Poster.jpg",
+      "mimeType": "image/jpeg",
+      "width": 882,
+      "height": 1251,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\004-Austrian-Airlines-Poster.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/da6d7b039466f78c376ddf7facded2d5e1d7e0a7-830x1583.jpg",
+      "filename": "Austrian-Airlines-Timetable-1996.jpg",
+      "mimeType": "image/jpeg",
+      "width": 830,
+      "height": 1583,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\005-Austrian-Airlines-Timetable-1996.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9a83567bf7d30092ad434276538cc444121fffb0-781x1669.jpg",
+      "filename": "Austrian-Airlines-Timetable.jpg",
+      "mimeType": "image/jpeg",
+      "width": 781,
+      "height": 1669,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\006-Austrian-Airlines-Timetable.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/510706fc3199c84b20f2abef3cbfcd049f61b141-1836x1231.jpg",
+      "filename": "Austrian-Airlines-Van-Livery.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1836,
+      "height": 1231,
+      "localPath": "archive\\brandarchive\\identities\\austrian-airlines\\assets\\007-Austrian-Airlines-Van-Livery.jpg"
+    }
+  ],
+  "rawId": "26d1004d-40c8-430e-87ba-1fae2d4e3b27",
+  "detail": {
+    "title": "Austrian Airlines",
+    "designersText": "Josef Oberauer",
+    "yearText": "1969",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 7 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Austrian Airlines",
+      "디자이너": "Josef Oberauer",
+      "연도": "1969",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 7 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

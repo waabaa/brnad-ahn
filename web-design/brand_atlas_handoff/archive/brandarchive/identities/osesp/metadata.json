@@ -1,0 +1,548 @@
+{
+  "source": "brandarchive",
+  "name": "OSESP",
+  "slug": "osesp",
+  "url": "https://brandarchive.xyz/identity/osesp",
+  "year": 2024,
+  "exclusive": false,
+  "collection": {
+    "title": "Sound",
+    "slug": "music-brands"
+  },
+  "designers": [
+    "Polar"
+  ],
+  "assetCount": 26,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d0f1902266d9b0f177b1fd2652d4328af95093ec-2560x1600.jpg",
+      "filename": "a9c71d177407189.66b4e24e34056.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\001-a9c71d177407189.66b4e24e34056.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b3091ab2eff55e0ccd91dd36e6d7c1f5d7639593-2560x1440.jpg",
+      "filename": "c9a9e4177407189.66b4e24e34d65.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\002-c9a9e4177407189.66b4e24e34d65.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f06fdc73027b019fd17e3880251c06e0856bc286-4500x2900.jpg",
+      "filename": "222.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\003-222.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ffb43f11f860398c7a818cdd510331a37a0364ff-4500x2900.jpg",
+      "filename": "111.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2900,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\004-111.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/3d094639297525f5021231582dea18015ac7a781.mp4",
+      "filename": "osesp.case.05.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6997fceb993bdbd497d519e5a8de270aabf1fcf2.mp4",
+      "filename": "osesp.case.08.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a1d1534875c22772d52818db6760828a7dae0e7b.mp4",
+      "filename": "osesp.case.01.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7acdb49ae37402b8e17f0f17671a06a36243c7c4.mp4",
+      "filename": "osesp.case.02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6d8a739ef0306708042e248de0658cbcd89e7c5b.mp4",
+      "filename": "osesp.case.09.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b48f90242c8b7def8edea24e0f8b845cd3f2a7b8.mp4",
+      "filename": "osesp.case.21.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5c4aaacc0e955eac3b51db296688b71d034adb2e.mp4",
+      "filename": "osesp.case.26.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/51e55f209d4931134270003a0a3fcfdda2b3f319.mp4",
+      "filename": "osesp.case.31.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d7abfc039a0e187adda5cd4a6e699f35a1ec19b7-1200x1500.jpg",
+      "filename": "43f9cd177407189.66b4e24abf659.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\005-43f9cd177407189.66b4e24abf659.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/18b4c349bacc9f7d172f1b34d42c1cc1074b38cb-1200x1500.jpg",
+      "filename": "46c3d3177407189.66b4e245dcde1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\006-46c3d3177407189.66b4e245dcde1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/18e8dc5b64942bf03c2446b8d374a26b413358e3-2560x1440.jpg",
+      "filename": "83d181177407189.66b4e24e33973.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\007-83d181177407189.66b4e24e33973.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9a4be9a73b446e82a26241c4574636952cac7553-2560x1600.jpg",
+      "filename": "373d62177407189.66b4e24e35c3a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1600,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\008-373d62177407189.66b4e24e35c3a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7d9c0d6adef00c11bc52f0e70d12542729bf6ea2-1200x1500.jpg",
+      "filename": "a22cba177407189.66b4e246c1cd4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\009-a22cba177407189.66b4e246c1cd4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dcd39bad33f17d87e99a7485365401fd1a87be9d-1200x1500.jpg",
+      "filename": "d27a29177407189.66b4e2484a1c1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\010-d27a29177407189.66b4e2484a1c1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/285585fe3f6bc72279549481135fc4590789e371-1200x1500.jpg",
+      "filename": "0e6f6e177407189.66b4e24b8ee30.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\011-0e6f6e177407189.66b4e24b8ee30.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3e648bf0845bc6e9ebdad076e1a7230f475cf981-2560x1440.jpg",
+      "filename": "4743f1177407189.66b4e24e36919.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\012-4743f1177407189.66b4e24e36919.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b2432fb06743f904f4adfdb5c4ff1659b6b45790-2560x1440.jpg",
+      "filename": "9c68c0177407189.66b4e24e328f2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2560,
+      "height": 1440,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\013-9c68c0177407189.66b4e24e328f2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4162375d29ba43b5dfdc48657d448e5dd224b4c7-1200x1500.jpg",
+      "filename": "42c8f7177407189.66b4e2477b7e8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\014-42c8f7177407189.66b4e2477b7e8.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bde83e8d6a3a389e8c398376db3f7ad015d7e41f.mp4",
+      "filename": "osesp.case.16.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dfdbec2d664442fb25996c65d9f720ac76a536ed-1200x1500.jpg",
+      "filename": "6aa6ba177407189.66b4e244c1eb4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\015-6aa6ba177407189.66b4e244c1eb4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e49175c2fb8d65797090a2e3965b98ed060a81a8-1200x1500.jpg",
+      "filename": "7c00d9177407189.66b4e24c6517a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1200,
+      "height": 1500,
+      "localPath": "archive\\brandarchive\\identities\\osesp\\assets\\016-7c00d9177407189.66b4e24c6517a.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dd34676e6f8bf9e66c7557ff4ad81d501c7b1593.mp4",
+      "filename": "osesp.case.37.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "4ec25529-c218-4553-9121-e697f1521723",
+  "detail": {
+    "title": "OSESP",
+    "designersText": "Polar",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FF850D",
+        "rgb": "255, 133, 13",
+        "cmyk": "0, 48, 95, 0"
+      },
+      {
+        "hex": "#FF5C00",
+        "rgb": "255, 92, 0",
+        "cmyk": "0, 64, 100, 0"
+      },
+      {
+        "hex": "#88EEB1",
+        "rgb": "136, 238, 177",
+        "cmyk": "43, 0, 26, 7"
+      },
+      {
+        "hex": "#00BA4A",
+        "rgb": "0, 186, 74",
+        "cmyk": "100, 0, 60, 27"
+      },
+      {
+        "hex": "#7B79E4",
+        "rgb": "123, 121, 228",
+        "cmyk": "46, 47, 0, 11"
+      },
+      {
+        "hex": "#BD00FF",
+        "rgb": "189, 0, 255",
+        "cmyk": "26, 100, 0, 0"
+      },
+      {
+        "hex": "#FFC684",
+        "rgb": "255, 198, 132",
+        "cmyk": "0, 22, 48, 0"
+      },
+      {
+        "hex": "#00A6B0",
+        "rgb": "0, 166, 176",
+        "cmyk": "100, 6, 0, 31"
+      },
+      {
+        "hex": "#81007F",
+        "rgb": "129, 0, 127",
+        "cmyk": "0, 100, 2, 49"
+      },
+      {
+        "hex": "#BA0059",
+        "rgb": "186, 0, 89",
+        "cmyk": "0, 100, 52, 27"
+      },
+      {
+        "hex": "#FFF501",
+        "rgb": "255, 245, 1",
+        "cmyk": "0, 4, 100, 0"
+      },
+      {
+        "hex": "#105391",
+        "rgb": "16, 83, 145",
+        "cmyk": "89, 43, 0, 43"
+      },
+      {
+        "hex": "#D8B0FF",
+        "rgb": "216, 176, 255",
+        "cmyk": "15, 31, 0, 0"
+      },
+      {
+        "hex": "#FE0000",
+        "rgb": "254, 0, 0",
+        "cmyk": "0, 100, 100, 0"
+      },
+      {
+        "hex": "#FCFF87",
+        "rgb": "252, 255, 135",
+        "cmyk": "1, 0, 47, 0"
+      },
+      {
+        "hex": "#2321D6",
+        "rgb": "35, 33, 214",
+        "cmyk": "84, 85, 0, 16"
+      },
+      {
+        "hex": "#FF00C7",
+        "rgb": "255, 0, 199",
+        "cmyk": "0, 100, 22, 0"
+      },
+      {
+        "hex": "#FF9CB4",
+        "rgb": "255, 156, 180",
+        "cmyk": "0, 39, 29, 0"
+      },
+      {
+        "hex": "#A58A00",
+        "rgb": "165, 138, 0",
+        "cmyk": "0, 16, 100, 35"
+      },
+      {
+        "hex": "#3C96FF",
+        "rgb": "60, 150, 255",
+        "cmyk": "76, 41, 0, 0"
+      },
+      {
+        "hex": "#FF76F1",
+        "rgb": "255, 118, 241",
+        "cmyk": "0, 54, 5, 0"
+      },
+      {
+        "hex": "#C25D14",
+        "rgb": "194, 93, 20",
+        "cmyk": "0, 52, 90, 24"
+      },
+      {
+        "hex": "#90A800",
+        "rgb": "144, 168, 0",
+        "cmyk": "14, 0, 100, 34"
+      },
+      {
+        "hex": "#79C7FF",
+        "rgb": "121, 199, 255",
+        "cmyk": "53, 22, 0, 0"
+      },
+      {
+        "hex": "#FFBFED",
+        "rgb": "255, 191, 237",
+        "cmyk": "0, 25, 7, 0"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      },
+      {
+        "hex": "#AFAFAF",
+        "rgb": "175, 175, 175",
+        "cmyk": "0, 0, 0, 31"
+      },
+      {
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+      }
+    ],
+    "typeText": "Designer: Daniel Sabino Released: 2022 Foundry: BlackletraDesigner: Daniel Sabino Released: 2015 Foundry: Blackletra",
+    "korean": {
+      "브랜드명": "OSESP",
+      "디자이너": "Polar",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FF850D",
+          "rgb": "255, 133, 13",
+          "cmyk": "0, 48, 95, 0"
+        },
+        {
+          "hex": "#FF5C00",
+          "rgb": "255, 92, 0",
+          "cmyk": "0, 64, 100, 0"
+        },
+        {
+          "hex": "#88EEB1",
+          "rgb": "136, 238, 177",
+          "cmyk": "43, 0, 26, 7"
+        },
+        {
+          "hex": "#00BA4A",
+          "rgb": "0, 186, 74",
+          "cmyk": "100, 0, 60, 27"
+        },
+        {
+          "hex": "#7B79E4",
+          "rgb": "123, 121, 228",
+          "cmyk": "46, 47, 0, 11"
+        },
+        {
+          "hex": "#BD00FF",
+          "rgb": "189, 0, 255",
+          "cmyk": "26, 100, 0, 0"
+        },
+        {
+          "hex": "#FFC684",
+          "rgb": "255, 198, 132",
+          "cmyk": "0, 22, 48, 0"
+        },
+        {
+          "hex": "#00A6B0",
+          "rgb": "0, 166, 176",
+          "cmyk": "100, 6, 0, 31"
+        },
+        {
+          "hex": "#81007F",
+          "rgb": "129, 0, 127",
+          "cmyk": "0, 100, 2, 49"
+        },
+        {
+          "hex": "#BA0059",
+          "rgb": "186, 0, 89",
+          "cmyk": "0, 100, 52, 27"
+        },
+        {
+          "hex": "#FFF501",
+          "rgb": "255, 245, 1",
+          "cmyk": "0, 4, 100, 0"
+        },
+        {
+          "hex": "#105391",
+          "rgb": "16, 83, 145",
+          "cmyk": "89, 43, 0, 43"
+        },
+        {
+          "hex": "#D8B0FF",
+          "rgb": "216, 176, 255",
+          "cmyk": "15, 31, 0, 0"
+        },
+        {
+          "hex": "#FE0000",
+          "rgb": "254, 0, 0",
+          "cmyk": "0, 100, 100, 0"
+        },
+        {
+          "hex": "#FCFF87",
+          "rgb": "252, 255, 135",
+          "cmyk": "1, 0, 47, 0"
+        },
+        {
+          "hex": "#2321D6",
+          "rgb": "35, 33, 214",
+          "cmyk": "84, 85, 0, 16"
+        },
+        {
+          "hex": "#FF00C7",
+          "rgb": "255, 0, 199",
+          "cmyk": "0, 100, 22, 0"
+        },
+        {
+          "hex": "#FF9CB4",
+          "rgb": "255, 156, 180",
+          "cmyk": "0, 39, 29, 0"
+        },
+        {
+          "hex": "#A58A00",
+          "rgb": "165, 138, 0",
+          "cmyk": "0, 16, 100, 35"
+        },
+        {
+          "hex": "#3C96FF",
+          "rgb": "60, 150, 255",
+          "cmyk": "76, 41, 0, 0"
+        },
+        {
+          "hex": "#FF76F1",
+          "rgb": "255, 118, 241",
+          "cmyk": "0, 54, 5, 0"
+        },
+        {
+          "hex": "#C25D14",
+          "rgb": "194, 93, 20",
+          "cmyk": "0, 52, 90, 24"
+        },
+        {
+          "hex": "#90A800",
+          "rgb": "144, 168, 0",
+          "cmyk": "14, 0, 100, 34"
+        },
+        {
+          "hex": "#79C7FF",
+          "rgb": "121, 199, 255",
+          "cmyk": "53, 22, 0, 0"
+        },
+        {
+          "hex": "#FFBFED",
+          "rgb": "255, 191, 237",
+          "cmyk": "0, 25, 7, 0"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        },
+        {
+          "hex": "#AFAFAF",
+          "rgb": "175, 175, 175",
+          "cmyk": "0, 0, 0, 31"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255",
+          "cmyk": "0, 0, 0, 0"
+        }
+      ],
+      "서체정보": "Designer: Daniel Sabino Released: 2022 Foundry: BlackletraDesigner: Daniel Sabino Released: 2015 Foundry: Blackletra",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

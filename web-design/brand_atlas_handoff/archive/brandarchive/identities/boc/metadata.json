@@ -1,0 +1,152 @@
+{
+  "source": "brandarchive",
+  "name": "BOC",
+  "slug": "boc",
+  "url": "https://brandarchive.xyz/identity/boc",
+  "year": 1967,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Wolff Olins",
+    "slug": "wolff-olins"
+  },
+  "designers": [
+    "Wolff Olins"
+  ],
+  "assetCount": 12,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1246f450d0e72b7dcf166ff360d9788b797055de-1206x1672.jpg",
+      "filename": "Scan 10c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1206,
+      "height": 1672,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\001-Scan-10c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f195e4d6732c917517f692b85f268c04a1dac6b6-2168x2168.jpg",
+      "filename": "4-BOC.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2168,
+      "height": 2168,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\002-4-BOC.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c7a9bedb8fe6fbc7f8c5938e7464c7a1c27a1f2f-2878x2656.jpg",
+      "filename": "Scan 7.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2878,
+      "height": 2656,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\003-Scan-7.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e8c77df033ba3c3fede9c51d16e40b0c4458e876-2898x3233.jpg",
+      "filename": "Scan 8.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2898,
+      "height": 3233,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\004-Scan-8.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a9738d4f0c058ee36304aa0ff5d7ca737c37f500-1529x3169.jpg",
+      "filename": "Scan 9.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1529,
+      "height": 3169,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\005-Scan-9.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/87f0fa1a54dbe96e62ec2d6395c97e58fb87edae-2471x3453.jpg",
+      "filename": "Scan 10a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2471,
+      "height": 3453,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\006-Scan-10a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a76f1d955ec1ee2a8dd1ea85b08fff5daa25b83b-1212x1689.jpg",
+      "filename": "Scan 10b 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1212,
+      "height": 1689,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\007-Scan-10b-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/403c5d8acf5d350b747e5103cea205927d2a1372-4100x4100.jpg",
+      "filename": "Scan 11.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4100,
+      "height": 4100,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\008-Scan-11.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/de6f8b9a6459132c9424d29464b8367e65c15a93-1452x1086.jpg",
+      "filename": "Scan 12.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1452,
+      "height": 1086,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\009-Scan-12.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/273d692c8fae8d90f23eb7fbe9633c18674cef5e-3808x3808.jpg",
+      "filename": "Scan 13.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3808,
+      "height": 3808,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\010-Scan-13.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/462db0c991245c3534838040b287c05fc82e6010-4551x2903.jpg",
+      "filename": "Scan 13.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4551,
+      "height": 2903,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\011-Scan-13.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/01946acaa81712dbe267fe8d1b3782bfb3a4d790-4538x2907.jpg",
+      "filename": "Scan 77.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 4538,
+      "height": 2907,
+      "localPath": "archive\\brandarchive\\identities\\boc\\assets\\012-Scan-77.jpeg"
+    }
+  ],
+  "rawId": "5904bee1-1517-48f0-909e-15cb94f5af88",
+  "detail": {
+    "title": "BOC",
+    "designersText": "Wolff Olins",
+    "yearText": "1967",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 12 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "BOC",
+      "디자이너": "Wolff Olins",
+      "연도": "1967",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 12 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

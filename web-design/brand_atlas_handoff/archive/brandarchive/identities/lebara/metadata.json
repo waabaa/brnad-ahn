@@ -1,0 +1,262 @@
+{
+  "source": "brandarchive",
+  "name": "Lebara",
+  "slug": "lebara",
+  "url": "https://brandarchive.xyz/identity/lebara",
+  "year": 2026,
+  "exclusive": false,
+  "collection": {
+    "title": "Recently added",
+    "slug": "featured"
+  },
+  "designers": [
+    "The Verve"
+  ],
+  "assetCount": 24,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9d28b15a021dbe20af3a02dfe1b8f815fdef2366-2000x586.jpg",
+      "filename": "Lebara_Logo.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 586,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\001-Lebara_Logo.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/4b319374bc6312e83fcdfcc97b48ace1dd49dda2.mp4",
+      "filename": "Lebara_Logo_animation.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0e88a297d65cad6bb0b4efce72c232195aa71cb1.mp4",
+      "filename": "Lebara_Typography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0992f6c56f1216071eec18dfddd170060c2a05c0.mp4",
+      "filename": "Lebara_Brand_teaser.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b96b0534757c122dcd6955872aff845271afc776.mp4",
+      "filename": "Lebara_Card_stack.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/75c17c233ad0e1a411babd0f3fc88f7e94659441.mp4",
+      "filename": "Lebara_Illustrations.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5ffc1799c885720a304af97c6e121fb7eb3c3304.mp4",
+      "filename": "Lebara_Languages.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a1b0b08b8d6bfb6d485a548a7e07a666bea952fc.mp4",
+      "filename": "Lebara_Learn_more.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/10ea94871de8b16f9195d3e5055002fefbccc8ca.mp4",
+      "filename": "Lebara_Photography_2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b1ca29b9944fffa70bf34a920f1e5e4be473fb99.mp4",
+      "filename": "Lebara_Photography.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/41632bc7fa161f4d270202abe5e2339ea5e42708.mp4",
+      "filename": "Lebara_Text_animation_2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/398be525037e1bc655ab55bb662104364ca802ec.mp4",
+      "filename": "Lebara_Text_animation.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8675e453d38d3a4795247f4590eb4ce236db8380-2000x1125.jpg",
+      "filename": "Lebara_Bus.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\002-Lebara_Bus.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f409429b9ff6ecb2d90f633ecea58a61b90cd69d.mp4",
+      "filename": "Lebara_Digital_mockup.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d9f1022ce7f88aa2d3a4659311ec550cf26063d-2000x1125.jpg",
+      "filename": "Lebara_Poster.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2000,
+      "height": 1125,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\003-Lebara_Poster.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb8b779a4e99d8a3d4569d61a12c5c580ac5ebc8-2100x1181.jpg",
+      "filename": "Billboard-(1).jpg",
+      "mimeType": "image/jpeg",
+      "width": 2100,
+      "height": 1181,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\004-Billboard-(1).jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/082a9f8b129d647188cf7a86cc7302ab2e6d1bf8.mp4",
+      "filename": "Lebara_SIM_card.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/58fbde184f6ecabbb0fd3ff255eef4f6b2656b55.mp4",
+      "filename": "Lebara_Laptop_footer.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8a35caed42dacb507a4f65e814b2b5c0cb64a3d9.mp4",
+      "filename": "Lebara_Laptop.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/96b8ccf142a9d6b411b33da1e60211c4b4f963da.mp4",
+      "filename": "Lebara_Mobile_effect.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/df1b043ffde3a354d830b209dad8233df86ade2c.mp4",
+      "filename": "Lebara_Mobile.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/92beb6b2735cb46adcfc71aaa04fd11f56d77036.mp4",
+      "filename": "Lebara_Social_wheel.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bf426b9b16241adb6cd3d5c4ded8b3950686f555-1000x1000.jpg",
+      "filename": "Totebag.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\005-Totebag.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f34ee80cc46bf7b3ba8c862fd792e5410544ecc0-1000x1000.jpg",
+      "filename": "Tshirt.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1000,
+      "height": 1000,
+      "localPath": "archive\\brandarchive\\identities\\lebara\\assets\\006-Tshirt.jpg"
+    }
+  ],
+  "rawId": "8f0d1066-dd92-4f83-b873-366b091c30f2",
+  "detail": {
+    "title": "Lebara",
+    "designersText": "The Verve",
+    "yearText": "2026",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#242DE0",
+        "rgb": "36, 45, 224",
+        "cmyk": "84, 80, 0, 12"
+      },
+      {
+        "hex": "#0D1258",
+        "rgb": "13, 18, 88",
+        "cmyk": "85, 80, 0, 65"
+      },
+      {
+        "hex": "#D9E2FB",
+        "rgb": "217, 226, 251",
+        "cmyk": "14, 10, 0, 2"
+      }
+    ],
+    "typeText": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:15Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:15 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+    "korean": {
+      "브랜드명": "Lebara",
+      "디자이너": "The Verve",
+      "연도": "2026",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#242DE0",
+          "rgb": "36, 45, 224",
+          "cmyk": "84, 80, 0, 12"
+        },
+        {
+          "hex": "#0D1258",
+          "rgb": "13, 18, 88",
+          "cmyk": "85, 80, 0, 65"
+        },
+        {
+          "hex": "#D9E2FB",
+          "rgb": "217, 226, 251",
+          "cmyk": "14, 10, 0, 2"
+        }
+      ],
+      "서체정보": "Play VideoPauseSkip BackwardSkip ForwardUnmuteCurrent Time 0:00/Duration 0:15Loaded: 0%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:15 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio Trackdefault, selectedPicture-in-PictureFullscreenBeginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsResetDoneClose Modal DialogEnd of dialog window.",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

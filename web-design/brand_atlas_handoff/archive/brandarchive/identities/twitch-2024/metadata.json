@@ -1,0 +1,314 @@
+{
+  "source": "brandarchive",
+  "name": "Twitch",
+  "slug": "twitch-2024",
+  "url": "https://brandarchive.xyz/identity/twitch-2024",
+  "year": 2024,
+  "exclusive": true,
+  "collection": {
+    "title": "Designed by Porto Rocha",
+    "slug": "designed-by-porto-rocha"
+  },
+  "designers": [
+    "Porto Rocha"
+  ],
+  "assetCount": 34,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a1df5665e7ff52172e66764843dd7da8e3eefe18-4500x2700.jpg",
+      "filename": "Twitch-Logo copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2700,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\001-Twitch-Logo-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7613e938345dfdbf19df5157200a38df84379565.mp4",
+      "filename": "Twitch_Logo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f88b085fb7edf105b7f194829b9cc4c64bbc06b2-3600x2400.jpg",
+      "filename": "d2209ea29303e68ecb7979c5669bc969-b36a2cf8b811a41d5064c2362abe816b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\002-d2209ea29303e68ecb7979c5669bc969-b36a2cf8b811a41d5064c2362abe816b.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f71879dc1d480b04aff3a3bdf8057721f6118a7d.mp4",
+      "filename": "Twitch_Sequence.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f3b4d018d69d284cdb9b0cb7b5ea9fa21d95bd53.mp4",
+      "filename": "Twitch_TwitchConReveal.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4bb14394a171ddfb83dcabb81aa9cdc816505262-3000x2000.jpg",
+      "filename": "07c40f90370481ac924c3ee852c9bf5a-28dd08a4969e9da8f0ef44ada9392e36.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\003-07c40f90370481ac924c3ee852c9bf5a-28dd08a4969e9da8f0ef44ada9392e36.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8929c3123965656f38d241fb153173e3fb7b4ebb-1500x2000.jpg",
+      "filename": "c94702ffdb7f480f3ba9743d94207c61-6b52412cd23fe268d68de5d4e8144a5a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\004-c94702ffdb7f480f3ba9743d94207c61-6b52412cd23fe268d68de5d4e8144a5a.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b7439dfb26e86ec52f14f18f98fe6a897febd011.mp4",
+      "filename": "Twitch_Hat.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b250cfe1f6e31de14447e6250cc56a80ee2ff672.mp4",
+      "filename": "Twitch_LayoutCaroussel.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d02148e4612f2ae8f202b231fc750163372731f1.mp4",
+      "filename": "Twitch_SignOff.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/dd428e6cda61267219314f81364c5110dc6fd341.mp4",
+      "filename": "Twitch_Sprites.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/256302240e0bd92a2c364e0ddd83393dcd2cf6df-3000x2000.jpg",
+      "filename": "99db7a38cc40c051c6755d78894c5cd0-a144629043bc3a2572d4840b1453cb2d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\005-99db7a38cc40c051c6755d78894c5cd0-a144629043bc3a2572d4840b1453cb2d.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/bf87bf78930fb1e470703eb450b8ee6f3d6d5165.mp4",
+      "filename": "Twitch_3DIcons.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b68ea66e8835269153e9196a519058d2059f21b9-3600x2400.jpg",
+      "filename": "8f8911725f4e45604e0ceba97bb426a2-bf7f753c93ccbf3416cffbe62771c9e1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3600,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\006-8f8911725f4e45604e0ceba97bb426a2-bf7f753c93ccbf3416cffbe62771c9e1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/81ba28f72677099f263cf513182ef529cc889406-1500x2000.jpg",
+      "filename": "48ba95724141efa86434d57ee9b1f05e-ea964862229e419a3c20144ceda9e723.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\007-48ba95724141efa86434d57ee9b1f05e-ea964862229e419a3c20144ceda9e723.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/00d7e33fcea0feee252674ae654d65e8e34cb639-1500x2000.jpg",
+      "filename": "60535bd0d6e6dceab563ee4da824da73-89ac3aff08a8eb0e75908f60d89868fc.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\008-60535bd0d6e6dceab563ee4da824da73-89ac3aff08a8eb0e75908f60d89868fc.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ed72ea2b92a350d906d9a86cc3f7973c6d5c6b8b.mp4",
+      "filename": "Twitch_CaseStudy_R2_Billboard_v2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/26ebdb9803a2196495b851391e03edd40be1f2b6-1362x1712.jpg",
+      "filename": "76b175fe7188d3f57d7612084b2dc24f-96550ac685f3982af1535389f2d6d377.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1362,
+      "height": 1712,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\009-76b175fe7188d3f57d7612084b2dc24f-96550ac685f3982af1535389f2d6d377.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/074a791960c2fedfb7434cadc45ff1f86deceb61-3000x2001.jpg",
+      "filename": "9d429cfd5683a84b66f6874aec8365ac-4d3a4723e5b9259e1e0adb63d9ce2391.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2001,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\010-9d429cfd5683a84b66f6874aec8365ac-4d3a4723e5b9259e1e0adb63d9ce2391.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a8dfa96d3338e0b574030e0c7a04d717c912c93b-3000x2000.jpg",
+      "filename": "9e9f391104cfa79e307746ea697cb948-0f1a0516f1da499b2f5c27ccfaffa768.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\011-9e9f391104cfa79e307746ea697cb948-0f1a0516f1da499b2f5c27ccfaffa768.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/090cb2e2dde669949b6e112aa8f03d7cc9f08efc-3000x2000.jpg",
+      "filename": "0611d07969479e5a742a57957bca7522-350cae9454182074cebd33d831ba53a7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\012-0611d07969479e5a742a57957bca7522-350cae9454182074cebd33d831ba53a7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b91eca7970715ac283de2eb7812c9816862a6879-3000x2001.jpg",
+      "filename": "d4751a1cc99472e345e02f3af25aab27-6e8c3143f50aa32169792339f4ca4d25.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2001,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\013-d4751a1cc99472e345e02f3af25aab27-6e8c3143f50aa32169792339f4ca4d25.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a37eb51022023687190c04820945f2f716f7ac1f-1500x2000.jpg",
+      "filename": "d39785d5cf9768922805931eb317d04f-a53957182409e8450a79b50ebeba132a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\014-d39785d5cf9768922805931eb317d04f-a53957182409e8450a79b50ebeba132a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/51de714304713f408dc4df5091506f8db9280856-1500x2000.jpg",
+      "filename": "efd0ee43186ed470eb3ee1dee0be4193-f4f425092306ad96e563781d394bc3f1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1500,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\015-efd0ee43186ed470eb3ee1dee0be4193-f4f425092306ad96e563781d394bc3f1.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ad9ec92bc116ae904e36be767e24b044d9ba765e.mp4",
+      "filename": "Twitch_Merch.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/66eb68de5583ee4641c80e722668559139607536.mp4",
+      "filename": "TwitchCase_Bottle_A02.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4cd0301a72504baedd0d69d016a6b4b262105192-3000x2000.jpg",
+      "filename": "eb40ca38f9018f0ffa9cb30f7b792896-7e84a9d23fe3433f6ca0eadf91f253be.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\twitch-2024\\assets\\016-eb40ca38f9018f0ffa9cb30f7b792896-7e84a9d23fe3433f6ca0eadf91f253be.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/03ac1c6f42f5fe7c2c53d7b6369d0806dd48cea2.mp4",
+      "filename": "Twitch_Cards.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6e4c3fbc1803828f7594c2c6a96b6cfcd04c1c6b.mp4",
+      "filename": "Twitch_Categories.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/59f4fdb37d64d4c11fba0d7143b2fab5edb6b467.mp4",
+      "filename": "Twitch_DesktopSite.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a781700c76dd71a24b1a244000228dce15c4aebb.mp4",
+      "filename": "Twitch_ItemRoulette.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9f470ba5bf7d728e2496b983e18cc26c376d8d37.mp4",
+      "filename": "Twitch_MenuBar.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/71f6b4773ca9359afb8fd8718f36a553ce2a8be2.mp4",
+      "filename": "Twitch_MobileWebsite.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2e49554a597a5045a8e3bb5399fed66c0d99506d.mp4",
+      "filename": "Twitch_Phone.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "27c56d33-92ea-4aa3-b86b-b77e2e779015",
+  "detail": {
+    "title": "Twitch",
+    "designersText": "Porto Rocha",
+    "yearText": "2024",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 34 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Twitch",
+      "디자이너": "Porto Rocha",
+      "연도": "2024",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 34 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

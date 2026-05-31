@@ -1,0 +1,385 @@
+{
+  "source": "brandarchive",
+  "name": "Misfits",
+  "slug": "misfits",
+  "url": "https://brandarchive.xyz/identity/misfits",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Koto",
+    "slug": "designed-by-koto"
+  },
+  "designers": [
+    "Koto"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7121ea812148dc8826cffa68124b4b18b4869720-4500x2600.jpg",
+      "filename": "svgexport-3 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\001-svgexport-3-copy.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8e2b4acba875a8d790d3bbd703afdf303ab8002-1920x1080.png",
+      "filename": "02_Bars.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\002-02_Bars.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f0addafe3352e32fcf5d0bb389f71574c2e02cc9-4500x2600.jpg",
+      "filename": "svgexport-3 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4500,
+      "height": 2600,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\003-svgexport-3-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b03baff8d243e08eb999fef21209c2d21f8d164c.mp4",
+      "filename": "Misfits logo v9_3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/96f1f90dc1453109c8edf4fd1e828a78bf24bc6b-1921x1067.png",
+      "filename": "10_Hands.png",
+      "mimeType": "image/png",
+      "width": 1921,
+      "height": 1067,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\004-10_Hands.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/90ed51d9bab82dfe76fbd58aa9efdf41b8eaf6bc-1080x1080.png",
+      "filename": "07_a.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\005-07_a.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec14415fb869d4f421d7c84f154d07e3d2a73a81-1080x1080.png",
+      "filename": "07_b.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\006-07_b.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f67ea1de118db3568c6bd60326198be0ff5167c2-765x765.png",
+      "filename": "07_c.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\007-07_c.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41bbe7af385ff6a2ea36a1c131e34f8f9023774e-765x765.png",
+      "filename": "07_d.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\008-07_d.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/6b8549a6c47e3ae2ee1d42af6dc2a0cae08d147a-765x765.png",
+      "filename": "07_e.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\009-07_e.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2e0a3c180896bd550eadc8e80534b2350ede547a-765x765.png",
+      "filename": "07_f.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\010-07_f.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/89885c1b4ea67710a8365d105d342f6f96ba13d2-765x765.png",
+      "filename": "07_g.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\011-07_g.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/01d16874391198d047036b1f65e1f4bfcd8764f2-765x765.png",
+      "filename": "07_h.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\012-07_h.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dbb440c858bb43e8463459f50f4a4ab281c2bfbd-765x765.png",
+      "filename": "07_i.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\013-07_i.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/15addc57378f2bb940fbc377a3c703422643807c-765x765.png",
+      "filename": "07_j.png",
+      "mimeType": "image/png",
+      "width": 765,
+      "height": 765,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\014-07_j.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/45528a342801cc83c9a60507c13b266b6f72ec5f-1080x1350.png",
+      "filename": "03_Cereal.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\015-03_Cereal.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/d1a3a14b50b97d3d0674cb6085e03be0dec70d98.mp4",
+      "filename": "11_Layout.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f94d575464dfa9bbb20f545df9d288de70711328.mp4",
+      "filename": "12_LayoutTexture.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5e5f0f32068c14e678486c47e416faaf047090f1-1080x1350.png",
+      "filename": "14_CerealGirl.png",
+      "mimeType": "image/png",
+      "width": 1080,
+      "height": 1350,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\016-14_CerealGirl.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0626183438b07a443bf7dae20f884d6a0ade27b9.mp4",
+      "filename": "17-Cereal.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b5d8043eb29e94b000dc8658169f4ccab3a599ea.mp4",
+      "filename": "18_BoxCereal.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e1be1eb37a1e0dd3647569d07f13291911ad2323-1360x756.png",
+      "filename": "Horizontal-1.png",
+      "mimeType": "image/png",
+      "width": 1360,
+      "height": 756,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\017-Horizontal-1.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/846d8682bb4a0fe033c2ac6e3ed16715ae32fc95.mp4",
+      "filename": "05_Color.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3e4275868c032ccd9e4849debfcbeba1b25c2570-1920x1080.png",
+      "filename": "13_VarietyPack.png",
+      "mimeType": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\misfits\\assets\\018-13_VarietyPack.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/809d8892ea3bab228f0e27fd3723b4695df2c906.mp4",
+      "filename": "15_Shirts.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    }
+  ],
+  "rawId": "45c20b41-7a67-41e5-9a12-8564cab83700",
+  "detail": {
+    "title": "Misfits",
+    "designersText": "Koto",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#FBFA86",
+        "rgb": "251, 250, 134",
+        "cmyk": "0, 0, 47, 2"
+      },
+      {
+        "hex": "#D6C1AA",
+        "rgb": "214, 193, 170",
+        "cmyk": "0, 10, 21, 16"
+      },
+      {
+        "hex": "#B287FE",
+        "rgb": "178, 135, 254",
+        "cmyk": "30, 47, 0, 0"
+      },
+      {
+        "hex": "#8CEAFF",
+        "rgb": "140, 234, 255",
+        "cmyk": "45, 8, 0, 0"
+      },
+      {
+        "hex": "#603E36",
+        "rgb": "96, 62, 54",
+        "cmyk": "0, 35, 44, 62"
+      },
+      {
+        "hex": "#FF5A72",
+        "rgb": "255, 90, 114",
+        "cmyk": "0, 65, 55, 0"
+      },
+      {
+        "hex": "#91EFD2",
+        "rgb": "145, 239, 210",
+        "cmyk": "39, 0, 12, 6"
+      },
+      {
+        "hex": "#727DFE",
+        "rgb": "114, 125, 254",
+        "cmyk": "55, 51, 0, 0"
+      },
+      {
+        "hex": "#FFA4EB",
+        "rgb": "255, 164, 235",
+        "cmyk": "0, 36, 8, 0"
+      },
+      {
+        "hex": "#904747",
+        "rgb": "144, 71, 71",
+        "cmyk": "0, 51, 51, 44"
+      },
+      {
+        "hex": "#F9EDDE",
+        "rgb": "249, 237, 222",
+        "cmyk": "0, 5, 11, 2"
+      },
+      {
+        "hex": "#DEAE7E",
+        "rgb": "222, 174, 126",
+        "cmyk": "0, 22, 43, 13"
+      }
+    ],
+    "typeText": "Designer: Thierry Blancpain Released: 2021 Foundry: Grilli TypeDesigner: sFelix PfaffliRobin Eberwein Released: 2021 Foundry: Studio FeixenDesigner: Cahya Sofyan Released: 2020 Foundry: Studio Sun",
+    "korean": {
+      "브랜드명": "Misfits",
+      "디자이너": "Koto",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#FBFA86",
+          "rgb": "251, 250, 134",
+          "cmyk": "0, 0, 47, 2"
+        },
+        {
+          "hex": "#D6C1AA",
+          "rgb": "214, 193, 170",
+          "cmyk": "0, 10, 21, 16"
+        },
+        {
+          "hex": "#B287FE",
+          "rgb": "178, 135, 254",
+          "cmyk": "30, 47, 0, 0"
+        },
+        {
+          "hex": "#8CEAFF",
+          "rgb": "140, 234, 255",
+          "cmyk": "45, 8, 0, 0"
+        },
+        {
+          "hex": "#603E36",
+          "rgb": "96, 62, 54",
+          "cmyk": "0, 35, 44, 62"
+        },
+        {
+          "hex": "#FF5A72",
+          "rgb": "255, 90, 114",
+          "cmyk": "0, 65, 55, 0"
+        },
+        {
+          "hex": "#91EFD2",
+          "rgb": "145, 239, 210",
+          "cmyk": "39, 0, 12, 6"
+        },
+        {
+          "hex": "#727DFE",
+          "rgb": "114, 125, 254",
+          "cmyk": "55, 51, 0, 0"
+        },
+        {
+          "hex": "#FFA4EB",
+          "rgb": "255, 164, 235",
+          "cmyk": "0, 36, 8, 0"
+        },
+        {
+          "hex": "#904747",
+          "rgb": "144, 71, 71",
+          "cmyk": "0, 51, 51, 44"
+        },
+        {
+          "hex": "#F9EDDE",
+          "rgb": "249, 237, 222",
+          "cmyk": "0, 5, 11, 2"
+        },
+        {
+          "hex": "#DEAE7E",
+          "rgb": "222, 174, 126",
+          "cmyk": "0, 22, 43, 13"
+        }
+      ],
+      "서체정보": "Designer: Thierry Blancpain Released: 2021 Foundry: Grilli TypeDesigner: sFelix PfaffliRobin Eberwein Released: 2021 Foundry: Studio FeixenDesigner: Cahya Sofyan Released: 2020 Foundry: Studio Sun",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

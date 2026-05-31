@@ -1,0 +1,320 @@
+{
+  "source": "brandarchive",
+  "name": "Natural History Museum",
+  "slug": "natural-history-museum",
+  "url": "https://brandarchive.xyz/identity/natural-history-museum",
+  "year": 2023,
+  "exclusive": false,
+  "collection": {
+    "title": "Designed by Pentagram",
+    "slug": "pentagram"
+  },
+  "designers": [
+    "Nomad",
+    "Pentagram"
+  ],
+  "assetCount": 27,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/263defc1bb90143f942e10bdd835053628c81740-1920x1080.jpg",
+      "filename": "NHM_Case_Study_LogoCover.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\001-NHM_Case_Study_LogoCover.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2faa969e4061cddf0575d1a440ae2449e9bddf76-3840x2160.jpg",
+      "filename": "MW_NHM_1920x1080_2-1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\002-MW_NHM_1920x1080_2-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8ce18a0fd25b75dcb4dffd5bb35ac470246900cf-3840x2160.jpg",
+      "filename": "MW_NHM_1920x1080_3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\003-MW_NHM_1920x1080_3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3d0677bc3baaf081ad893ff33421a65e8a58c22-3840x2160.jpg",
+      "filename": "MW_NHM_1920x1080_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\004-MW_NHM_1920x1080_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/474a4e34df7a2cec471843c471e689b2b1532ff3-3000x1688.jpg",
+      "filename": "MW_NHM_1920x1080_.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1688,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\005-MW_NHM_1920x1080_.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/29a2fbc94c3761ec6ff048b279b9a52054ea7967-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\006-MW_NHM_Horizontal_.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d270ad8ce916a8f36a6119e55558ddfdb63b8635-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\007-MW_NHM_Horizontal_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0b4e0fcb9ed77b0cbfb098691a6cf54b6cbb0791-1480x2135.jpg",
+      "filename": "MW_NHM_Vertical_2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1480,
+      "height": 2135,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\008-MW_NHM_Vertical_2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b83a459070980d659bc4492d22d697cf656f82d4-1480x2135.jpg",
+      "filename": "MW_NHM_Vertical_.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1480,
+      "height": 2135,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\009-MW_NHM_Vertical_.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f70785636b5b965067a7a134c7fb12b870349cab-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\010-MW_NHM_Horizontal_5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1e550daeddb7be00d49afa29918ec7512546ba31-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\011-MW_NHM_Horizontal_6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2d056e4295331af4f70978d4333612422c16529c-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\012-MW_NHM_Horizontal_3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/11c802383844f02341eb2da2572b21d328aa28fd-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\013-MW_NHM_Horizontal_4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/997fda740e56e58eb6daf55b1a91e3d61e41ec3c-3508x2480.jpg",
+      "filename": "MW_NHM_Horizontal_7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3508,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\014-MW_NHM_Horizontal_7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d50bc2223d45ba93fb90f374e46f8d7c18ac9546-2480x3578.jpg",
+      "filename": "MW_NHM_Vertical_3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2480,
+      "height": 3578,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\015-MW_NHM_Vertical_3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/88c419beda9145e23ec49d71854a1c76ee78ae7c-2480x3578.jpg",
+      "filename": "MW_NHM_Vertical_4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2480,
+      "height": 3578,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\016-MW_NHM_Vertical_4.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/89243711bbc03307371c1c5f5b2ef72ebbf14ac7.mp4",
+      "filename": "NHM_Case_Study_Audio_Reactive_Film-vimeo-844521081-dash-google_mediacdn_sep-video-0040d83b.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/a7048ed4103c0e6f8fe146ac20baa0b9ffcee35a.mp4",
+      "filename": "NHM_CASE_STUDY_COLOUR_PALETTE-vimeo-844521113-dash-google_mediacdn_sep-video-8b1a823d.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/8f75dd468ec132624da340f5e957ccd958c7be8b.mp4",
+      "filename": "NHM_Case_Study_D6_Trio_v004-vimeo-845937385-hls-google_mediacdn_sep-3980.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/de725e4866bc39238ebdc49cf46607577bdc8c11.mp4",
+      "filename": "NHM_Case_Study_Film_Odesza_v005_1080-vimeo-845959497-dash-google_mediacdn_sep-video-2a5d5788.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/76158aa06f476314e7b3cd7cb9efc6428c7a2dc2.mp4",
+      "filename": "NHM_Case_Study_Filters-vimeo-844521396-hls-google_mediacdn_sep-3186.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/1e2415f55a420d9ae6627e5026d5a79ccbad8ff1.mp4",
+      "filename": "NHM_Case_Study_Insta_Stories_01-vimeo-844521653-dash-google_mediacdn_sep-video-407b6887.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2b350f8d4225b0ad0c18f5c85b7b1cca5c31bd9d.mp4",
+      "filename": "NHM_Case_Study_Website_2_v002-vimeo-845938136-hls-google_mediacdn_sep-3615.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/58d5d8b2fb987891e37eacabc5a2aea1fd4dd369.mp4",
+      "filename": "NHM_CaseStudy_Generator_02-vimeo-845976682-hls-google_mediacdn_sep-4041.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/34e652c08efc20f422253839fd2ce8615c210703.mp4",
+      "filename": "NHM_CaseStudy_IGStories_02-vimeo-844521965-hls-google_mediacdn_sep-3872.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/6600d8cf434b99223ba8d777972cf9cd50f743fd.mp4",
+      "filename": "RIPPLE_lockup_IN+OUT_hold_10s-vimeo-846534978-hls-google_mediacdn_sep-779.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fe44332d2a71d68273f4c3c2eeedb41fedbef609-3840x3840.jpg",
+      "filename": "NHM_LOGO_CARD.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3840,
+      "height": 3840,
+      "localPath": "archive\\brandarchive\\identities\\natural-history-museum\\assets\\017-NHM_LOGO_CARD.jpg"
+    }
+  ],
+  "rawId": "c181da2d-dcbe-414d-80e1-52e6f0c3163a",
+  "detail": {
+    "title": "Natural History Museum",
+    "designersText": "Nomad",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application",
+      "From the same designers",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#290340",
+        "rgb": "41, 3, 64",
+        "cmyk": "36, 95, 0, 75"
+      },
+      {
+        "hex": "#0E17F8",
+        "rgb": "14, 23, 248",
+        "cmyk": "94, 91, 0, 3"
+      },
+      {
+        "hex": "#0AEDF6",
+        "rgb": "10, 237, 246",
+        "cmyk": "96, 4, 0, 4"
+      },
+      {
+        "hex": "#8F7E76",
+        "rgb": "143, 126, 118",
+        "cmyk": "0, 12, 17, 44"
+      }
+    ],
+    "typeText": "Designer: s Released: 2023 Foundry: Displaay Type Foundry:",
+    "korean": {
+      "브랜드명": "Natural History Museum",
+      "디자이너": "Nomad",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션",
+        "From the same designers",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#290340",
+          "rgb": "41, 3, 64",
+          "cmyk": "36, 95, 0, 75"
+        },
+        {
+          "hex": "#0E17F8",
+          "rgb": "14, 23, 248",
+          "cmyk": "94, 91, 0, 3"
+        },
+        {
+          "hex": "#0AEDF6",
+          "rgb": "10, 237, 246",
+          "cmyk": "96, 4, 0, 4"
+        },
+        {
+          "hex": "#8F7E76",
+          "rgb": "143, 126, 118",
+          "cmyk": "0, 12, 17, 44"
+        }
+      ],
+      "서체정보": "Designer: s Released: 2023 Foundry: Displaay Type Foundry:",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

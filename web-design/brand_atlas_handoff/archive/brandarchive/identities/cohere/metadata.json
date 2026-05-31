@@ -1,0 +1,256 @@
+{
+  "source": "brandarchive",
+  "name": "Cohere",
+  "slug": "cohere",
+  "url": "https://brandarchive.xyz/identity/cohere",
+  "year": 2023,
+  "exclusive": true,
+  "collection": {
+    "title": "Technology",
+    "slug": "technology"
+  },
+  "designers": [
+    "Pentagram"
+  ],
+  "assetCount": 26,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c2568d7c4f60329b85f2f5df81fa0e92882356bb-3000x2000.jpg",
+      "filename": "00-AI-Branding-NLP-Cohere-Logo-Logotype-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\001-00-AI-Branding-NLP-Cohere-Logo-Logotype-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9282db424619d805dbc52583b76c683890805a77.mp4",
+      "filename": "1-AI-Branding-NLP-Cohere-Motion-Graphics-Logo-Logotype-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/0ddac1621f232397e765262ad2f1544aa881cab5.mp4",
+      "filename": "2-AI-Branding-NLP-Cohere-Motion-Graphics-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9b299282a0e4a19a1f6971320ab5d91664b3e1c2-3000x1876.jpg",
+      "filename": "3-AI-Branding-NLP-Cohere-3d-Graphics-Custom-Typeface-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 1876,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\002-3-AI-Branding-NLP-Cohere-3d-Graphics-Custom-Typeface-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&-846e41a8"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/7ad52083a45c6ff2463f6e19dd60118da8fdd46d.mp4",
+      "filename": "5-AI-Branding-NLP-Cohere-Custom-Typeface-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/9d143b2d43629f3738b38e60f98dae629890969b.mp4",
+      "filename": "7-AI-Branding-NLP-Cohere-Motion-Graphics-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ed0e9f6eaac43da65eb0fd7102de73ffd8a6ab70.mp4",
+      "filename": "8-AI-Branding-NLP-Cohere-Custom-Typeface-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/cf49927731eeb0d76eea36ea85e259312cf58013.mp4",
+      "filename": "10-AI-Branding-NLP-Cohere-Brand-Tool-Code-Processing-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/41b5afe94f00991f8ae7d464fc3cadf662d9faff-3840x2400.png",
+      "filename": "11-AI-Branding-NLP-Cohere-Brochure-Cover-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\003-11-AI-Branding-NLP-Cohere-Brochure-Cover-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ce94027b3d16c7a7de01ec42b9fe51b9cdce134b.mp4",
+      "filename": "14-AI-Branding-NLP-Cohere-Website-Design-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bc011c7056e666c382a8e8fdb9b960a2e9fdd957-5760x3600.png",
+      "filename": "15-AI-Branding-NLP-Cohere-Website-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 5760,
+      "height": 3600,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\004-15-AI-Branding-NLP-Cohere-Website-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e1b72aaa48adb1f7c59ddffde750a94c2d0882bc.mp4",
+      "filename": "17-AI-Branding-NLP-Cohere-AI-Tool-Interface-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3eb2bf1c64d3f7733cfece115aaa2ae040ff11cd-3840x2400.png",
+      "filename": "19-AI-Branding-NLP-Cohere-Magazine-Cover-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\005-19-AI-Branding-NLP-Cohere-Magazine-Cover-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c34c6a7fdcad5680893bcbbf0f287a439e863ce8-3840x2160.png",
+      "filename": "20-AI-Branding-NLP-Cohere-Event-Graphics-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png",
+      "mimeType": "image/png",
+      "width": 3840,
+      "height": 2160,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\006-20-AI-Branding-NLP-Cohere-Event-Graphics-Pentagram-London-Office-Jody-Hudson-Powell-Luke-Powell-BP&O-Review.png"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ef3432f4eb70980729b0cd6498019e3dba7bdf49.mp4",
+      "filename": "Cohere_Main_Case_-_Website_-_12_1_.mp4-vimeo-814186369-dash-fastly_skyfire_sep-video-0a2fbd8e.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e21cfa276979231f22c06c642112226f8fa138cd.mp4",
+      "filename": "Cohere_Main_Case_-_Website_-_15.mp4-vimeo-814181586-hls-fastly_skyfire_sep-145.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/b8f8f8c4cbb682d7012bdb650b503156e39fec46.mp4",
+      "filename": "Cohere_Main_Case_-_Website_-_16.mp4-vimeo-814182082-hls-fastly_skyfire_sep-127.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dbab50c1b8e2d8716cab2275aab66b1e649c316e-1480x1480.jpg",
+      "filename": "CohereMainCase-Website-04.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1480,
+      "height": 1480,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\007-CohereMainCase-Website-04.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3c54f37e6f4a03953a6c7795c8d512b78fce384c-1480x1480.jpg",
+      "filename": "CohereMainCase-Website-05.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1480,
+      "height": 1480,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\008-CohereMainCase-Website-05.png.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f3485a69f39b05021aef41a60db539e6d1b89f57-1886x2400.png",
+      "filename": "CohereMainCase-Website-07.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\009-CohereMainCase-Website-07.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d986a60ed5cf48d91a80faead5f9aafe6ef09326-1886x2400.png",
+      "filename": "CohereMainCase-Website-08.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\010-CohereMainCase-Website-08.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/46e77ec1b74cfb1778a55962f06608c260c82854-1886x2400.png",
+      "filename": "CohereMainCase-Website-19.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\011-CohereMainCase-Website-19.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e4b93fda1006a40b9042386b00125ba14591a495-1886x2400.png",
+      "filename": "CohereMainCase-Website-20.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2400,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\012-CohereMainCase-Website-20.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1edbd079a5b4c18a09ca7b770f12ce69cb0b63ce-943x1055.png",
+      "filename": "CohereMainCase-Website-22.png",
+      "mimeType": "image/png",
+      "width": 943,
+      "height": 1055,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\013-CohereMainCase-Website-22.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/799ec77920697e2bf71bb22323c4ed6d23cd8240-1886x2110.png",
+      "filename": "CohereMainCase-Website-23.png",
+      "mimeType": "image/png",
+      "width": 1886,
+      "height": 2110,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\014-CohereMainCase-Website-23.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f8d3931624578dfccaa5ee3367a2962b65bb1cd2-1480x1881.jpg",
+      "filename": "CohereMainCase-Website-111-1.png.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1480,
+      "height": 1881,
+      "localPath": "archive\\brandarchive\\identities\\cohere\\assets\\015-CohereMainCase-Website-111-1.png.jpeg"
+    }
+  ],
+  "rawId": "72e9d4fa-8bb9-4213-ac24-e5ebb688078a",
+  "detail": {
+    "title": "Cohere",
+    "designersText": "Pentagram",
+    "yearText": "2023",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 26 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Cohere",
+      "디자이너": "Pentagram",
+      "연도": "2023",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 26 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "source": "brandarchive",
+  "name": "Juchheim's",
+  "slug": "juchheims",
+  "url": "https://brandarchive.xyz/identity/juchheims",
+  "year": 1982,
+  "exclusive": true,
+  "collection": {
+    "title": "From Japan",
+    "slug": "from-japan"
+  },
+  "designers": [
+    "PAOS"
+  ],
+  "assetCount": 53,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/686332108181cad687d25deb7b3f0384ce5a0ed1-4126x1529.jpg",
+      "filename": "Scan 39 2 2 3c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4126,
+      "height": 1529,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\001-Scan-39-2-2-3c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/140aef5bde50674207dda7a5b35b5298e8dec1da-1564x561.jpg",
+      "filename": "Scan 42 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1564,
+      "height": 561,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\002-Scan-42-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4505ea45711f806da80bd0c2af40184ea5bbc045-1461x846.jpg",
+      "filename": "Scan 40 copy 3a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1461,
+      "height": 846,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\003-Scan-40-copy-3a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f1bdfb9df8c35777993fc373c2f90f7d5f08fe21-1461x846.jpg",
+      "filename": "Scan 40 copy 3b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1461,
+      "height": 846,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\004-Scan-40-copy-3b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b4663b9852dc5e48332a7da719db375498fd9fcd-1461x846.jpg",
+      "filename": "Scan 40 copy 3c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1461,
+      "height": 846,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\005-Scan-40-copy-3c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d37f4314dd34baafd89e8fc80e9076dd6dd48f7d-3291x1358.jpg",
+      "filename": "Scan 40 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 3291,
+      "height": 1358,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\006-Scan-40-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/020641fee30b829d255a6bf52ac79fda3cf70176-1387x598.jpg",
+      "filename": "Scan 41 copy 2a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1387,
+      "height": 598,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\007-Scan-41-copy-2a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5d978936237c54fd0dd6db5dd7662451bef50528-1387x598.jpg",
+      "filename": "Scan 41 copy 2b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1387,
+      "height": 598,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\008-Scan-41-copy-2b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d60797eee7ce96c7662e90c409944a2f6cb44171-1387x598.jpg",
+      "filename": "Scan 41 copy 2c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1387,
+      "height": 598,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\009-Scan-41-copy-2c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c6e7874c1c446d5b33d7d995a10369bc6f198daf-1555x506.jpg",
+      "filename": "Scan 41 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1555,
+      "height": 506,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\010-Scan-41-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1aca0183f0d777d44e735ae39faa43c7fcc2dd94-2597x1645.jpg",
+      "filename": "Scan 40a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2597,
+      "height": 1645,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\011-Scan-40a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d4dcf145a2a8511d29956370ff8fae19f6d8324c-1677x1655.jpg",
+      "filename": "Scan 40b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1677,
+      "height": 1655,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\012-Scan-40b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a9699bfc364aaaa58bef210acca07b493c3a6f6f-2836x1577.jpg",
+      "filename": "Scan 45c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2836,
+      "height": 1577,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\013-Scan-45c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ec5446b8c1c81ffa58245baecbf058ac4100ebbc-1061x1745.jpg",
+      "filename": "Scan 45b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1061,
+      "height": 1745,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\014-Scan-45b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/712a1f2d669e4fab0f9b62dc3de40fb426b11312-3239x1187.jpg",
+      "filename": "Scan 47a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3239,
+      "height": 1187,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\015-Scan-47a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f47180cdf3e317220266fc7aebcf68628e8c29c-3244x1096.jpg",
+      "filename": "Scan 47b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3244,
+      "height": 1096,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\016-Scan-47b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dec869d3d281062cc35f92affaecb8f65c9d1c8d-1052x2357.jpg",
+      "filename": "Scan 47c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1052,
+      "height": 2357,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\017-Scan-47c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f203e78fcf81067dc8c75f53c4530a6c4d467d2f-4438x1822.jpg",
+      "filename": "Scan 47d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4438,
+      "height": 1822,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\018-Scan-47d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb33ac8ccbf8d4ee806d68bb8a453676cb34f7c2-2591x901.jpg",
+      "filename": "Scan 58a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2591,
+      "height": 901,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\019-Scan-58a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/387215d0808b9a0e273cab368489e603c4dde66d-2692x2814.jpg",
+      "filename": "Scan 58b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2692,
+      "height": 2814,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\020-Scan-58b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0776769bbce2ca9949392803968258c6cf60f780-2561x510.jpg",
+      "filename": "Scan 58c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2561,
+      "height": 510,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\021-Scan-58c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee6564e40e7a4b734df4dbf00f5e8c8c50100ad5-2345x1570.jpg",
+      "filename": "Scan 45a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2345,
+      "height": 1570,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\022-Scan-45a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/798820afb4246d590669e9ca73f581bdf18f996c-2075x460.jpg",
+      "filename": "Scan 39 2 2 3a 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2075,
+      "height": 460,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\023-Scan-39-2-2-3a-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e54a108a83e8188840f55fc6a8f5fe4510ca9699-466x1421.jpg",
+      "filename": "Scan 39 2 2 3a a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 466,
+      "height": 1421,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\024-Scan-39-2-2-3a-a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b785c411e073d9b428101e9ebb1649a077fb939c-1261x982.jpg",
+      "filename": "Scan 39 2 2 3a b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1261,
+      "height": 982,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\025-Scan-39-2-2-3a-b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9fc355f1bc9f3bc8c7c01946b36ec271ff1d70ef-2043x1615.jpg",
+      "filename": "Scan 43c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2043,
+      "height": 1615,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\026-Scan-43c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7f9d3e343549f4b67fa0571571b9645b280eedb9-2170x2258.jpg",
+      "filename": "Scan 43a 2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2170,
+      "height": 2258,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\027-Scan-43a-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1aae47c73afa31face43b90a9de557b1dd67fe97-2724x3488.jpg",
+      "filename": "Scan 41a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2724,
+      "height": 3488,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\028-Scan-41a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/dad18fed6c908cd4d3e85204714ed485f16de3fb-4846x3660.jpg",
+      "filename": "Scan 43a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4846,
+      "height": 3660,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\029-Scan-43a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/25b3efb06f7b4de52042ada1e914f2265ea05709-4694x2877.jpg",
+      "filename": "Scan 42a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4694,
+      "height": 2877,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\030-Scan-42a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7480c0cc8a7fd6d7dcfd69a51bbd5200ab358c24-3376x2480.jpg",
+      "filename": "Scan 42c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3376,
+      "height": 2480,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\031-Scan-42c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d96f23c19ca8171b001399556989711dc620967c-1276x2493.jpg",
+      "filename": "Scan 42b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1276,
+      "height": 2493,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\032-Scan-42b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/480e8c3c48b68bb6b7898861fd4911026a98ecea-4633x1003.jpg",
+      "filename": "Scan 44e.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4633,
+      "height": 1003,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\033-Scan-44e.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bedb13d0834e43d4b0103298938efff66ef9280a-2838x1374.jpg",
+      "filename": "Scan 43b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2838,
+      "height": 1374,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\034-Scan-43b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/248b32d8b2ee9a24847ce3af50772e43f634dd15-668x1649.jpg",
+      "filename": "Scan 39 2 2 3b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 668,
+      "height": 1649,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\035-Scan-39-2-2-3b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bf60af9fbe6901d7d248580abd045f9294bc5672-1898x2947.jpg",
+      "filename": "Scan 43d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1898,
+      "height": 2947,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\036-Scan-43d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b80c2bc4549e2fd1b4eea6c6733f866c73b08962-2156x1293.jpg",
+      "filename": "Scan 40 copy 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2156,
+      "height": 1293,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\037-Scan-40-copy-2.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3045b4f93b9abf4d6c245f540d049cb6d0417f0-2520x1461.jpg",
+      "filename": "Scan 43 copy.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 2520,
+      "height": 1461,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\038-Scan-43-copy.jpeg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1001c808777c4197adba4ea4c686e0ffbc465384-2257x1506.jpg",
+      "filename": "Scan 44a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2257,
+      "height": 1506,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\039-Scan-44a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4f1dc1d04c855967ed629405b8ed67468d9287f7-2368x1872.jpg",
+      "filename": "Scan 44b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2368,
+      "height": 1872,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\040-Scan-44b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/21a8c8af3f6a576f9c505a8e06fbc0773d19c923-2489x1580.jpg",
+      "filename": "Scan 44d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2489,
+      "height": 1580,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\041-Scan-44d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3183591577ba1d591f55424682e79df3d2f6f8dd-1989x1630.jpg",
+      "filename": "Scan 44f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1989,
+      "height": 1630,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\042-Scan-44f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8428fc8a69afd8f27fb676637d0d444417a582df-2594x1591.jpg",
+      "filename": "Scan 44g.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2594,
+      "height": 1591,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\043-Scan-44g.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/907beefc80db0b5ffcf7df3683ed3ae82f8c7efd-2840x1616.jpg",
+      "filename": "Scan 60b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2840,
+      "height": 1616,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\044-Scan-60b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/efe35d4e5125c4cf8c31c3bbf829262edcb68d6b-1733x1060.jpg",
+      "filename": "Scan 60f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1733,
+      "height": 1060,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\045-Scan-60f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a8aa05ffc6b9a01162b8252e358b948d4e05fe99-4760x2586.jpg",
+      "filename": "Scan 60a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4760,
+      "height": 2586,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\046-Scan-60a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7bc84ec1095d54f5f3e1d392707abff9ef0c0bf6-925x1042.jpg",
+      "filename": "Scan 59a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 925,
+      "height": 1042,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\047-Scan-59a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1370c9ca02088027580918bac0e035e7d378b97e-908x880.jpg",
+      "filename": "Scan 59b.jpg",
+      "mimeType": "image/jpeg",
+      "width": 908,
+      "height": 880,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\048-Scan-59b.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/76abdf712f1b83356fac0653f4e3ac9fa33bc096-1588x688.jpg",
+      "filename": "Scan 59c.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1588,
+      "height": 688,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\049-Scan-59c.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f5f2e3ca4ed7100a3b91f158723c1b9b8f5025b4-3062x1592.jpg",
+      "filename": "Scan 59d.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3062,
+      "height": 1592,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\050-Scan-59d.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5815ebd2875ce807d803c83ab347164a444bb185-4582x860.jpg",
+      "filename": "Scan 59f.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4582,
+      "height": 860,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\051-Scan-59f.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e35904f29cc3277058a8aae0513ad9cdf35e174f-1285x680.jpg",
+      "filename": "Scan 60e.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1285,
+      "height": 680,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\052-Scan-60e.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c48b4de0ad373ff13068cbb6d4e176f4c88dfa99-1409x1535.jpg",
+      "filename": "Scan 39 2 2 2.jpeg",
+      "mimeType": "image/jpeg",
+      "width": 1409,
+      "height": 1535,
+      "localPath": "archive\\brandarchive\\identities\\juchheims\\assets\\053-Scan-39-2-2-2.jpeg"
+    }
+  ],
+  "rawId": "af84c1f7-a71b-4443-94c0-5064aaaf8104",
+  "detail": {
+    "title": "Juchheim's",
+    "designersText": "PAOS",
+    "yearText": "1982",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 53 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Juchheim's",
+      "디자이너": "PAOS",
+      "연도": "1982",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 53 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

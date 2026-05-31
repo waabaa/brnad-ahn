@@ -1,0 +1,331 @@
+{
+  "source": "brandarchive",
+  "name": "Amatrice",
+  "slug": "amatrice",
+  "url": "https://brandarchive.xyz/identity/amatrice",
+  "year": 2025,
+  "exclusive": false,
+  "collection": {
+    "title": "Cafes, Bars & Restaurants",
+    "slug": "cafes-bars-restaurants"
+  },
+  "designers": [
+    "Mucho"
+  ],
+  "assetCount": 25,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8678e95d23d17fdf335cff0d7efb2668335b357d-3300x2000.jpg",
+      "filename": "1.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\001-1.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/faedd2b74b615f2e97c454133b0b93c7f6690576-3300x2000.jpg",
+      "filename": "1 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\002-1-copya.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/72f18f206c954134e38544342ac666238f6c7cee.mp4",
+      "filename": "Amatrice_LicensedTypeS2.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/52996f4935c6f34be4be4fbbb7625d75dec3577c.mp4",
+      "filename": "AmatriceDisplay_Specimen.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/ebeae1ed4d4025b1f00a42ffa4cb805ca0870cac.mp4",
+      "filename": "Inspo.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/54dcf2b50d1eee73bebba2a7b6e63074ded15910-2000x1334.webp",
+      "filename": "13.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\003-13.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/876065c80a27a8983d84964b87cb25adafd78556-2000x2999.webp",
+      "filename": "18.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2999,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\004-18.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ac48873b9e46170fa4bcb0e289bb5db6b803cee0-2000x1334.webp",
+      "filename": "14.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\005-14.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0c599fba63d18ed821bd5f95ddf689669f7852fc-2000x1334.webp",
+      "filename": "15.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\006-15.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4aea19950bcbb1dfd15e47062eea832abbd618c5-2000x1333.webp",
+      "filename": "19.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\007-19.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/be811f533a76243f021e01ba19bc91a63d4ef3f2-2000x2999.webp",
+      "filename": "16.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2999,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\008-16.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/5bbc5710b654db8600c06664aa6ade2860af8cad-2000x1333.webp",
+      "filename": "1.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\009-1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f57671d23e2d74c98a6fcee389f8b6c057e2a5d5-2000x1333.webp",
+      "filename": "2.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\010-2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/bf65dc4d220774d8d8442127febfb1e3d4524715-2000x1333.webp",
+      "filename": "5.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\011-5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/835b738e2c4033d55b8469780a7980930384c9b8-2000x1333.webp",
+      "filename": "9.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\012-9.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f1228709bdf0f1036d9465fde88a5e5130bdcc9f-2000x1333.webp",
+      "filename": "6.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\013-6.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ee80e37ebfdeb11f3e8df5939db81017341ffb88-2000x1333.webp",
+      "filename": "8.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\014-8.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2554b8f0613c88953d0f0b90e29789131700527-2000x1334.webp",
+      "filename": "11.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1334,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\015-11.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/af40346d87b765b6c354e7a76bcf70a044469138-2000x1333.webp",
+      "filename": "s.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\016-s.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/83e329faaa99a92f565ac7498c846aca015b7619-2000x1333.webp",
+      "filename": "3.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\017-3.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/0f20395a0bb13af766326fd19f4d4af30f3bf5d8-2000x1333.webp",
+      "filename": "4.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 1333,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\018-4.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/202274b9464612d0abf40745f275801dcdf50385-3300x2000.jpg",
+      "filename": "55.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\019-55.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/c2d44796f723381d5b9046ac3dbc5cfa728dd352-3300x2000.jpg",
+      "filename": "1a.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\020-1a.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7eeb37e90de55ee215f2c0519c49c007191c0e73-3300x2000.jpg",
+      "filename": "1111.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\021-1111.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d2680d7e9c3aef85feccb5663f2f1d1044a04b3a-3300x2000.jpg",
+      "filename": "ee.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3300,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\amatrice\\assets\\022-ee.jpg"
+    }
+  ],
+  "rawId": "ac8d031a-a755-4f81-b57e-792c1bcc6fa7",
+  "detail": {
+    "title": "Amatrice",
+    "designersText": "Mucho",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Art Direction",
+      "Application"
+    ],
+    "colors": [
+      {
+        "hex": "#390114",
+        "rgb": "57, 1, 20",
+        "cmyk": "0, 98, 65, 78"
+      },
+      {
+        "hex": "#CA1117",
+        "rgb": "202, 17, 23",
+        "cmyk": "0, 92, 89, 21"
+      },
+      {
+        "hex": "#AE8C58",
+        "rgb": "174, 140, 88",
+        "cmyk": "0, 20, 49, 32"
+      },
+      {
+        "hex": "#E8DEB5",
+        "rgb": "232, 222, 181",
+        "cmyk": "0, 4, 22, 9"
+      },
+      {
+        "hex": "#FFDC01",
+        "rgb": "255, 220, 1",
+        "cmyk": "0, 14, 100, 0"
+      },
+      {
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 100"
+      }
+    ],
+    "typeText": "",
+    "korean": {
+      "브랜드명": "Amatrice",
+      "디자이너": "Mucho",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "아트 디렉션",
+        "애플리케이션"
+      ],
+      "컬러": [
+        {
+          "hex": "#390114",
+          "rgb": "57, 1, 20",
+          "cmyk": "0, 98, 65, 78"
+        },
+        {
+          "hex": "#CA1117",
+          "rgb": "202, 17, 23",
+          "cmyk": "0, 92, 89, 21"
+        },
+        {
+          "hex": "#AE8C58",
+          "rgb": "174, 140, 88",
+          "cmyk": "0, 20, 49, 32"
+        },
+        {
+          "hex": "#E8DEB5",
+          "rgb": "232, 222, 181",
+          "cmyk": "0, 4, 22, 9"
+        },
+        {
+          "hex": "#FFDC01",
+          "rgb": "255, 220, 1",
+          "cmyk": "0, 14, 100, 0"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "0, 0, 0",
+          "cmyk": "0, 0, 0, 100"
+        }
+      ],
+      "서체정보": "",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

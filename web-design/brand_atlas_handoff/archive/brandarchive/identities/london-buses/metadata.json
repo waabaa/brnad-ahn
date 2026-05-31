@@ -1,0 +1,216 @@
+{
+  "source": "brandarchive",
+  "name": "London Buses",
+  "slug": "london-buses",
+  "url": "https://brandarchive.xyz/identity/london-buses",
+  "year": 1989,
+  "exclusive": false,
+  "collection": {
+    "title": "Transport",
+    "slug": "transport"
+  },
+  "designers": [
+    "Banks and Miles"
+  ],
+  "assetCount": 16,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ab8904cea358e8a737562c4420289d356b3af3c6-1853x1853.jpg",
+      "filename": "2.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1853,
+      "height": 1853,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\001-2.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d80e860ebaa4b40bf040b5b03be7f0af81bc71cc-4440x4808.jpg",
+      "filename": "3.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4440,
+      "height": 4808,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\002-3.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4d54f01187c4382dc01626fbc2ca55e2be0376d8-3423x2451.jpg",
+      "filename": "4.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3423,
+      "height": 2451,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\003-4.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d9623224a2bc6df29532e26331cd6c795e461ce7-6217x4346.jpg",
+      "filename": "5.jpg",
+      "mimeType": "image/jpeg",
+      "width": 6217,
+      "height": 4346,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\004-5.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b4178c446560a13e504574e565d21ffa546f6db9-3018x4150.jpg",
+      "filename": "6.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3018,
+      "height": 4150,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\005-6.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/451201356fa0db573b881ecda662fe5ae749ce99-5926x3327.jpg",
+      "filename": "9.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5926,
+      "height": 3327,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\006-9.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a03588365cf8fb498f777f61b66a92a7dc987977-2884x1994.jpg",
+      "filename": "10 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2884,
+      "height": 1994,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\007-10-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/155af929a0dc07f1a1c5db849a7d91decb3d6b25-2027x2599.jpg",
+      "filename": "10.jpg",
+      "mimeType": "image/jpeg",
+      "width": 2027,
+      "height": 2599,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\008-10.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/3206a4149674911f966ca6f4bd08ddc00a6fa3de-5912x7770.jpg",
+      "filename": "11 copay.jpg",
+      "mimeType": "image/jpeg",
+      "width": 5912,
+      "height": 7770,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\009-11-copay.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/09243ab5362dd04c816433f4017c6fc9850cf5a4-3562x5424.jpg",
+      "filename": "7.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3562,
+      "height": 5424,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\010-7.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/8e1cae43621eb8cfa609c6def7424dff116541e7-4265x5992.jpg",
+      "filename": "8.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4265,
+      "height": 5992,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\011-8.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/4c8c5099035f8c5959742adc5405bf87cf96e7e2-4077x3239.jpg",
+      "filename": "12 copya.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4077,
+      "height": 3239,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\012-12-copya.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/f360ee641737fb3d0f74d6983a301aca468cf1d9-4656x2691.jpg",
+      "filename": "13 copyv.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4656,
+      "height": 2691,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\013-13-copyv.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a7ebaf8f505c952d086c152d8e0abe75959aa479-4079x3224.jpg",
+      "filename": "13 copyw.jpg",
+      "mimeType": "image/jpeg",
+      "width": 4079,
+      "height": 3224,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\014-13-copyw.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1d7d0daf4abbf647f7dcfd79d68ec7c4a8809de5-1197x1017.jpg",
+      "filename": "12 copyaa.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1197,
+      "height": 1017,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\015-12-copyaa.jpg"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9708346fa89e869e8377028f23e66cac190bf1a8-1197x1017.jpg",
+      "filename": "12.jpg",
+      "mimeType": "image/jpeg",
+      "width": 1197,
+      "height": 1017,
+      "localPath": "archive\\brandarchive\\identities\\london-buses\\assets\\016-12.jpg"
+    }
+  ],
+  "rawId": "f77b0c40-ef99-490d-9066-05d5ec842e1c",
+  "detail": {
+    "title": "London Buses",
+    "designersText": "Banks and Miles",
+    "yearText": "1989",
+    "tagsText": "",
+    "sections": [
+      "Logo",
+      "Type",
+      "Color",
+      "Application",
+      "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+    ],
+    "colors": [
+      {
+        "hex": "#F54029",
+        "rgb": "245, 64, 41",
+        "cmyk": "0, 74, 83, 4"
+      },
+      {
+        "hex": "#FCC954",
+        "rgb": "252, 201, 84",
+        "cmyk": "0, 20, 67, 1"
+      }
+    ],
+    "typeText": "Designer: sEdward JohnstonEiichi Kono Released: 1983 Foundry: Banks and Miles",
+    "korean": {
+      "브랜드명": "London Buses",
+      "디자이너": "Banks and Miles",
+      "연도": "1989",
+      "태그": "",
+      "섹션": [
+        "로고",
+        "타입",
+        "컬러",
+        "애플리케이션",
+        "You've reached the limit of 10 identitiesSign in to see unlimited identities"
+      ],
+      "컬러": [
+        {
+          "hex": "#F54029",
+          "rgb": "245, 64, 41",
+          "cmyk": "0, 74, 83, 4"
+        },
+        {
+          "hex": "#FCC954",
+          "rgb": "252, 201, 84",
+          "cmyk": "0, 20, 67, 1"
+        }
+      ],
+      "서체정보": "Designer: sEdward JohnstonEiichi Kono Released: 1983 Foundry: Banks and Miles",
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "source": "brandarchive",
+  "name": "Live Soda",
+  "slug": "live-soda",
+  "url": "https://brandarchive.xyz/identity/live-soda",
+  "year": 2025,
+  "exclusive": true,
+  "collection": {
+    "title": "Soft Drinks",
+    "slug": "soft-drinks-kombucha"
+  },
+  "designers": [
+    "Wedge"
+  ],
+  "assetCount": 24,
+  "assets": [
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fb7da888dab2e0a75d9ed4e24339f9a9f34c9157-3000x2000.webp",
+      "filename": "67d98f7c386e9d72c6010501_LiveSoda_16.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\001-67d98f7c386e9d72c6010501_LiveSoda_16.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/ccf089f438435d1a3820a970a7e3eeb615d7d74b-3000x2000.jpg",
+      "filename": "LiveSoda_3 copy.jpg",
+      "mimeType": "image/jpeg",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\002-LiveSoda_3-copy.jpg"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/5e397d16664d36a0e1511a7b97f6373cdc71f111.mp4",
+      "filename": "LiveSoda_3.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/35631b3e21900ed49bf67503ba5e54cb7a8d6245.mp4",
+      "filename": "LiveSoda_7.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/b1d1c3299066670d6aae1b3b43ca9ab4fd1dbc50-3000x2000.webp",
+      "filename": "67d98f7c6d7f5f5c1b778334_LiveSoda_1.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\003-67d98f7c6d7f5f5c1b778334_LiveSoda_1.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/a3006a93e37bd497bcf630548acbd0c962864123-2000x3000.webp",
+      "filename": "67d98f7c324a59a9dc3ce4e6_LiveSoda_17.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\004-67d98f7c324a59a9dc3ce4e6_LiveSoda_17.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/1a2eb45ae6b6a85aa73ba275cbc431b75aa1297b-2000x3000.webp",
+      "filename": "67d98f7ca36cfd3bc9cf7218_LiveSoda_10.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\005-67d98f7ca36cfd3bc9cf7218_LiveSoda_10.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/385df0b36e83e16015a979dfeebefbacac35aa06-2000x3000.webp",
+      "filename": "67d98f7cfcb4c82290ccc718_LiveSoda_6.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\006-67d98f7cfcb4c82290ccc718_LiveSoda_6.webp"
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/f220073e063b78be6b14a47cb34fb73ffba14056.mp4",
+      "filename": "LiveSoda_8.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/2523bf5a527999116468fe1ac37897f692afe088.mp4",
+      "filename": "LiveSoda_4.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/717e908e9edad18b58e694a63cef770153375788.mp4",
+      "filename": "LiveSoda_9.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/eb39ae072c2b4f629a2668a06948c51eeb5db473.mp4",
+      "filename": "LiveSoda_13.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "video",
+      "url": "https://cdn.sanity.io/files/rn4tswnp/production/e461c4aad86dc71a713481b4dee2d34e50dd516d.mp4",
+      "filename": "LiveSoda_14.mp4",
+      "mimeType": "video/mp4",
+      "cloudflareId": null
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/629aa0f393153dbaa7e179e923ca0d0249426b9c-2000x3000.webp",
+      "filename": "67d98f7ceb7ebaae423787b9_LiveSoda_18.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\007-67d98f7ceb7ebaae423787b9_LiveSoda_18.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/9af8aa963c46f3cfee2a9621776d839a0cf15639-2000x3000.webp",
+      "filename": "67d98f7c05afdf485e7517b0_LiveSoda_15.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\008-67d98f7c05afdf485e7517b0_LiveSoda_15.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/fdfe7aa4d50d712ed496d8dc90519356815e4e59-2000x3000.webp",
+      "filename": "67d98f7c295bb67e5f8efb7d_LiveSoda_5.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\009-67d98f7c295bb67e5f8efb7d_LiveSoda_5.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d4b191def21dd5c85db31bd8b69d644dee9b3119-2000x3000.webp",
+      "filename": "67d98f7c319775ddea31446f_LiveSoda_2.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 3000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\010-67d98f7c319775ddea31446f_LiveSoda_2.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e311d712582043f9db5ea6bd5fba23eae6daee63-2000x2500.webp",
+      "filename": "67d98f7cd425bb06606629a3_LiveSoda_12.webp",
+      "mimeType": "image/webp",
+      "width": 2000,
+      "height": 2500,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\011-67d98f7cd425bb06606629a3_LiveSoda_12.webp"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2a9c43fc457adb4b293f72fbd8cca5576f67f0eb-2048x2048.png",
+      "filename": "CR_front_3a2d1ded-050c-4430-9ea9-ea2d41335eaa.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\012-CR_front_3a2d1ded-050c-4430-9ea9-ea2d41335eaa.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/7845c9129dce337ce6fda604dd3054d25531d176-2048x2048.png",
+      "filename": "FC_front_089c4675-bd7f-428e-9941-a79529a0d88b.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\013-FC_front_089c4675-bd7f-428e-9941-a79529a0d88b.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/d8e407f25ae388604d5459d99db2e2c0ec4d3b65-2048x2048.png",
+      "filename": "LC_front_68854c99-e520-4be1-ae68-2c5283b505f3.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\014-LC_front_68854c99-e520-4be1-ae68-2c5283b505f3.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/2f8ded60f5c6ff03795a04e9b3dc4e2c91b9114e-2048x2048.png",
+      "filename": "RB_front_87374f4a-2eb3-43a8-9678-e47ef47d96e8.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\015-RB_front_87374f4a-2eb3-43a8-9678-e47ef47d96e8.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/e65b07708e08b53277f454736bc374c747b6b8e2-2048x2048.png",
+      "filename": "SCB_front_9bdd965c-cab6-458d-92ab-92322399a334.png",
+      "mimeType": "image/png",
+      "width": 2048,
+      "height": 2048,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\016-SCB_front_9bdd965c-cab6-458d-92ab-92322399a334.png"
+    },
+    {
+      "kind": "image",
+      "url": "https://cdn.sanity.io/images/rn4tswnp/production/103321ad52b7e14b1c70a81317eccdc128536201-3000x2000.webp",
+      "filename": "67d98f7caaa90f1149a29e11_LiveSoda_11.webp",
+      "mimeType": "image/webp",
+      "width": 3000,
+      "height": 2000,
+      "localPath": "archive\\brandarchive\\identities\\live-soda\\assets\\017-67d98f7caaa90f1149a29e11_LiveSoda_11.webp"
+    }
+  ],
+  "rawId": "5329dc3a-0ec6-4bb6-9652-9155b931d3e6",
+  "detail": {
+    "title": "Live Soda",
+    "designersText": "Wedge",
+    "yearText": "2025",
+    "tagsText": "",
+    "sections": [
+      "This identity is exclusive to Pro members.",
+      "Upgrade to see the full identity featuring 24 assets."
+    ],
+    "colors": [],
+    "typeText": null,
+    "korean": {
+      "브랜드명": "Live Soda",
+      "디자이너": "Wedge",
+      "연도": "2025",
+      "태그": "",
+      "섹션": [
+        "This identity is exclusive to Pro members.",
+        "Upgrade to see the full identity featuring 24 assets."
+      ],
+      "컬러": [],
+      "서체정보": null,
+      "히스토리": "공개 상세 페이지에서 별도 서술형 히스토리 텍스트는 제공되지 않음"
+    }
+  }
+}
