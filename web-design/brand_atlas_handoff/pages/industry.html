@@ -3,7 +3,7 @@
 <section class="page-title"><div><p class="kicker">ISIC-BASED EDITORIAL DOMAIN</p><h1>산업별 탐색</h1><p class="lead">브랜드를 산업 도메인과 ISIC 축으로 묶어 검색하고, 각 산업 안에서 매거진 등급이 높은 브랜드를 먼저 확인합니다.</p></div><img class="map" src="../assets/objects/world_map_dots.png" alt="브랜드 아틀라스 산업 지도"></section>
 <section class="layout"><aside class="sidebar"><h3>산업 필터</h3><div id="filters"></div></aside><div><div class="industry-grid" id="industries"></div><div class="concepts" id="concepts"></div></div></section>
 <section class="section-grid brand-list-section" id="brand-list"><div class="panel"><h2 id="selectedTitle">대표 브랜드</h2><div id="brandCards" class="card-row compact-cards"></div></div><aside class="panel"><h2>산업별 운영 포인트</h2><p id="industryDesc">산업 분류는 탐색의 입구이고, 매거진 본문에서는 브랜드의 관점, 제품, 인물, 현재 상태, BI/CI 변천사를 함께 연결합니다. A/B/C 등급은 바로 공개 가능한 브랜드와 편집 검수가 필요한 브랜드를 구분하는 기준입니다.</p><p class="note"><b>ISIC</b>는 UN의 국제표준산업분류입니다. 여기서는 브랜드를 큰 산업 축으로 정리하기 위한 보조 기준으로 사용합니다.</p><div class="metric-grid" id="stats"></div></aside></section>
-</main><script src="../app.js?v=20260531a" defer></script><script>document.addEventListener("DOMContentLoaded", () => {
+</main><script src="../app.js?v=20260531b" defer></script><script>document.addEventListener("DOMContentLoaded", () => {
 document.getElementById("head").innerHTML = header("산업별 탐색");
 loadData().then(d => {
   const params = new URLSearchParams(location.search);
