@@ -1,0 +1,66 @@
+{
+  "mockups": [
+    "assets/mockups/01_landing_page_mockup.png",
+    "assets/mockups/02_industry_explore_mockup.png",
+    "assets/mockups/03_brand_magazine_detail_mockup.png",
+    "assets/mockups/04_mobile_responsive_mockup.png",
+    "assets/mockups/05_other_pages_mockup.png"
+  ],
+  "objects": [
+    "assets/objects/admin_dashboard_panel.png",
+    "assets/objects/bici_timeline_panel.png",
+    "assets/objects/brand_atlas_logo_mark.png",
+    "assets/objects/brand_card_momento.jpg",
+    "assets/objects/brand_card_poetic.jpg",
+    "assets/objects/brand_card_velocity.jpg",
+    "assets/objects/brand_hero_artemio.jpg",
+    "assets/objects/brand_logo_artemio.png",
+    "assets/objects/featured_brand_dark_card.jpg",
+    "assets/objects/hero_interior_lamp.jpg",
+    "assets/objects/icon_beauty.png",
+    "assets/objects/icon_fashion.png",
+    "assets/objects/icon_food.png",
+    "assets/objects/icon_health.png",
+    "assets/objects/icon_home.png",
+    "assets/objects/icon_media.png",
+    "assets/objects/icon_mobility.png",
+    "assets/objects/icon_retail.png",
+    "assets/objects/icon_sports.png",
+    "assets/objects/icon_tech.png",
+    "assets/objects/icon_travel.png",
+    "assets/objects/insight_architecture.jpg",
+    "assets/objects/mobile_brand_detail_screen.png",
+    "assets/objects/mobile_home_screen.png",
+    "assets/objects/mobile_industry_screen.png",
+    "assets/objects/mobile_magazine_screen.png",
+    "assets/objects/mobile_menu_screen.png",
+    "assets/objects/product_chair.jpg",
+    "assets/objects/product_lamp_01.jpg",
+    "assets/objects/product_lamp_02.jpg",
+    "assets/objects/search_result_panel.png",
+    "assets/objects/world_map_dots.png"
+  ],
+  "pages": [
+    "index.html",
+    "pages/brand-artemio.html",
+    "pages/industry.html",
+    "pages/mobile.html",
+    "pages/other-pages.html"
+  ],
+  "data": [
+    "data/brand-atlas.json"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "scripts": [
+    "app.js"
+  ],
+  "seo": [
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "fonts": [
+    "Google Fonts: Noto Sans KR 300/400/500/700"
+  ]
+}

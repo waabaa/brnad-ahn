@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.playwright-cli/
+.playwright-mcp/
+output/
+LOCAL_MEMORY.md
+data/*.sqlite
+base-db/
+images/
+!web-design/brand_atlas_handoff/images/
+web-design/brand_atlas_handoff/reports/
+*.Zone.Identifier

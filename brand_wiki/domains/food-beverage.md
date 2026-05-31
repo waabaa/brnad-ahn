@@ -1,0 +1,244 @@
+---
+type: "domain"
+slug: "food-beverage"
+label_ko: "식음료"
+label_en: "Food & Beverage"
+isic_code: "C"
+isic_label: "Manufacturing"
+updated: "2026-05-19T20:23:05+00:00"
+---
+# 식음료
+
+- English: Food & Beverage
+- ISIC Rev.4: `C` Manufacturing
+- Brands: 228
+
+## 브랜드
+- [맥도날드](../brands/mcdonald-s.md) · `A_magazine_ready`
+- [스타벅스](../brands/starbucks.md) · `A_magazine_ready`
+- [앱솔루트](../brands/absolut.md) · `A_magazine_ready`
+- [코카-콜라](../brands/coca-cola.md) · `A_magazine_ready`
+- [KFC](../brands/kentucky-fried-chicken.md) · `B_editorial_review`
+- [네슬레](../brands/nestl.md) · `B_editorial_review`
+- [버거킹](../brands/burger-king.md) · `B_editorial_review`
+- [버드와이저](../brands/budweiser.md) · `B_editorial_review`
+- [켈로그](../brands/kellogg-s.md) · `B_editorial_review`
+- [펩시](../brands/pepsi.md) · `B_editorial_review`
+- [하인즈](../brands/heinz.md) · `B_editorial_review`
+- [고디바](../brands/godiva.md) · `C_source_backed`
+- [글렌피딕](../brands/glenfiddich.md) · `C_source_backed`
+- [네스카페](../brands/nescafe.md) · `C_source_backed`
+- [도미노피자](../brands/domino-s-pizza.md) · `C_source_backed`
+- [돔 페리뇽](../brands/dom-p-rignon.md) · `C_source_backed`
+- [레드불](../brands/red-bull.md) · `C_source_backed`
+- [모엣&샹동](../brands/moet-and-chandon.md) · `C_source_backed`
+- [바카디](../brands/bacard.md) · `C_source_backed`
+- [써브웨이](../brands/subway.md) · `C_source_backed`
+- [코로나 엑스트라](../brands/corona-extra.md) · `C_source_backed`
+- [클럽메드](../brands/club-med.md) · `C_source_backed`
+- [포트메리온](../brands/portmeirion.md) · `C_source_backed`
+- [폴 바셋](../brands/paul-bassett.md) · `C_source_backed`
+- [하이네켄](../brands/heineken.md) · `C_source_backed`
+- 2419 Record Label · `D_directory_only`
+- 5 Minute Walk · `D_directory_only`
+- 5àsec · `D_directory_only`
+- 75 Ark · `D_directory_only`
+- 77 Records · `D_directory_only`
+- ABC-Paramount · `D_directory_only`
+- ACV Records · `D_directory_only`
+- AFM 레코드 · `D_directory_only`
+- ATO Records · `D_directory_only`
+- Ace Records · `D_directory_only`
+- Adeline Records · `D_directory_only`
+- Aggressive Rockproduktionen · `D_directory_only`
+- Aladdin Records · `D_directory_only`
+- American Record Company · `D_directory_only`
+- American Record Corporation · `D_directory_only`
+- Amphetamine Reptile Records · `D_directory_only`
+- Angelika Köhlermann · `D_directory_only`
+- Anjunabeats · `D_directory_only`
+- Arcade Records · `D_directory_only`
+- BIS Records · `D_directory_only`
+- Berlitz Corporation · `D_directory_only`
+- Beryozka · `D_directory_only`
+- Beserkley Records · `D_directory_only`
+- Biodro Records · `D_directory_only`
+- Blood and Fire · `D_directory_only`
+- Blue Goose Records · `D_directory_only`
+- Blue Lake Records · `D_directory_only`
+- Blues Bureau International · `D_directory_only`
+- Bonsound · `D_directory_only`
+- Brain · `D_directory_only`
+- Broque · `D_directory_only`
+- Buddah Records · `D_directory_only`
+- CAP · `D_directory_only`
+- CTI Records · `D_directory_only`
+- Castle Communications · `D_directory_only`
+- Checker · `D_directory_only`
+- Chesky Records · `D_directory_only`
+- Classic Produktion Osnabrück · `D_directory_only`
+- Coconut Records · `D_directory_only`
+- Conglomerate · `D_directory_only`
+- Coop Norge SA · `D_directory_only`
+- Croatia Records · `D_directory_only`
+- Cyclone Empire · `D_directory_only`
+- D-Noy Muzik · `D_directory_only`
+- DJM Records · `D_directory_only`
+- DeSoto Records · `D_directory_only`
+- Delicious Vinyl · `D_directory_only`
+- Discovery Records · `D_directory_only`
+- Displeased Records · `D_directory_only`
+- Disques Vogue · `D_directory_only`
+- Dorian Recordings · `D_directory_only`
+- Douglas Holding · `D_directory_only`
+- EarMarc Records · `D_directory_only`
+- Eataly · `D_directory_only`
+- Edel Records · `D_directory_only`
+- Electrola · `D_directory_only`
+- Emergency Records · `D_directory_only`
+- Enja Records · `D_directory_only`
+- Enzyme Records · `D_directory_only`
+- Equal Vision Records · `D_directory_only`
+- Eye Q · `D_directory_only`
+- Factory Records · `D_directory_only`
+- Fitness First · `D_directory_only`
+- Flip Records · `D_directory_only`
+- Flyright Records · `D_directory_only`
+- Futura et Marge · `D_directory_only`
+- Fysisk Format · `D_directory_only`
+- GNP · `D_directory_only`
+- Global Underground · `D_directory_only`
+- Greek National Opera · `D_directory_only`
+- Grom · `D_directory_only`
+- Groove · `D_directory_only`
+- Groove Unlimited · `D_directory_only`
+- HMC · `D_directory_only`
+- Hall of Sermon · `D_directory_only`
+- Hannibal Records · `D_directory_only`
+- Hansa Records · `D_directory_only`
+- Heavenly Recordings · `D_directory_only`
+- Hipercor · `D_directory_only`
+- Hippo Records · `D_directory_only`
+- Hirntot Records · `D_directory_only`
+- Holland Blumen Mark · `D_directory_only`
+- Innova Recordings · `D_directory_only`
+- Intakt Records · `D_directory_only`
+- International DeeJay Gigolo Records · `D_directory_only`
+- J 레코드 · `D_directory_only`
+- JTBC · `D_directory_only`
+- JUSCO · `D_directory_only`
+- Jazzhaus Records · `D_directory_only`
+- Jubilee Records · `D_directory_only`
+- Kitty-Yo · `D_directory_only`
+- Kompakt · `D_directory_only`
+- Kopeyka · `D_directory_only`
+- Kung Fu Records · `D_directory_only`
+- Level Plane Records · `D_directory_only`
+- Libris · `D_directory_only`
+- Load Records · `D_directory_only`
+- Lookout! Records · `D_directory_only`
+- Loud Records · `D_directory_only`
+- MEGA Family Shopping Centre · `D_directory_only`
+- MFS · `D_directory_only`
+- MPS 레코드 · `D_directory_only`
+- Maskulin · `D_directory_only`
+- Megaforce Records · `D_directory_only`
+- Mein Real · `D_directory_only`
+- Memento Materia · `D_directory_only`
+- Milan · `D_directory_only`
+- Mille Plateaux · `D_directory_only`
+- Minus · `D_directory_only`
+- Moeder Babelutte · `D_directory_only`
+- Nighthawk Records · `D_directory_only`
+- No Colours Records · `D_directory_only`
+- OWSLA · `D_directory_only`
+- Odin Records · `D_directory_only`
+- Oniverse · `D_directory_only`
+- Osmose Productions · `D_directory_only`
+- P-Vine Records · `D_directory_only`
+- Pataugas · `D_directory_only`
+- Peak Records · `D_directory_only`
+- Philadelphia International Records · `D_directory_only`
+- Pi Recordings · `D_directory_only`
+- Planet Core Productions · `D_directory_only`
+- Porter Records · `D_directory_only`
+- RAK · `D_directory_only`
+- RCA 레코드 · `D_directory_only`
+- Relativity Records · `D_directory_only`
+- Richter+Frenzel · `D_directory_only`
+- Rise Above Records · `D_directory_only`
+- Rooster Blues · `D_directory_only`
+- Rowton Houses · `D_directory_only`
+- SK텔레콤 · `D_directory_only`
+- Sedmoi Kontinent · `D_directory_only`
+- Session Records · `D_directory_only`
+- Simon Lévelt · `D_directory_only`
+- Skam Records · `D_directory_only`
+- Smoke-a-Lot Records · `D_directory_only`
+- Southern Fried Records · `D_directory_only`
+- Southland Records · `D_directory_only`
+- Specialty · `D_directory_only`
+- Sunrise Records · `D_directory_only`
+- Talens · `D_directory_only`
+- Teldec · `D_directory_only`
+- Thrill Jockey · `D_directory_only`
+- Tribe Records · `D_directory_only`
+- Trix Records · `D_directory_only`
+- Trojan Records · `D_directory_only`
+- Uni · `D_directory_only`
+- Uprising Records · `D_directory_only`
+- Venchi · `D_directory_only`
+- Vitamin Records · `D_directory_only`
+- Wandelweiser · `D_directory_only`
+- Yazoo Records · `D_directory_only`
+- ZTT Records · `D_directory_only`
+- Zappa Records · `D_directory_only`
+- ZickZack Schallplatten · `D_directory_only`
+- Zoom Records · `D_directory_only`
+- anticon. · `D_directory_only`
+- ersguterjunge · `D_directory_only`
+- oodji · `D_directory_only`
+- vomFASS · `D_directory_only`
+- Übersee Records · `D_directory_only`
+- 게펜 레코드 · `D_directory_only`
+- 니트로 레코드 · `D_directory_only`
+- 달러 제너럴 · `D_directory_only`
+- 데카 레코드 · `D_directory_only`
+- 뚜레쥬르 · `D_directory_only`
+- 롤링 스톤스 레코드 · `D_directory_only`
+- 롯데백화점 · `D_directory_only`
+- 루슬러스 레코드 · `D_directory_only`
+- 머큐리 레코드 · `D_directory_only`
+- 모타운 레코드 · `D_directory_only`
+- 미니스트리 오브 사운드 · `D_directory_only`
+- 버진 레코드 · `D_directory_only`
+- 브레인피더 · `D_directory_only`
+- 블랙 탑 레코드 · `D_directory_only`
+- 사이어 레코드 · `D_directory_only`
+- 셰이디 레코드 · `D_directory_only`
+- 스메클레이사 · `D_directory_only`
+- 스튜디오 원 · `D_directory_only`
+- 아메리칸 레코딩스 · `D_directory_only`
+- 아베;뉴 · `D_directory_only`
+- 아일랜드 레코드 · `D_directory_only`
+- 애틀랜틱 레코드 · `D_directory_only`
+- 애플 레코드 · `D_directory_only`
+- 앳코 레코드 · `D_directory_only`
+- 에픽 레코드 · `D_directory_only`
+- 워너 뮤직 그룹 · `D_directory_only`
+- 워프 레코즈 · `D_directory_only`
+- 월트 디즈니 레코드 · `D_directory_only`
+- 자이브 레코드 · `D_directory_only`
+- 잭재규어 · `D_directory_only`
+- 좀바 레이블 그룹 · `D_directory_only`
+- 체리트리 레코드 · `D_directory_only`
+- 캐피털 레코드 · `D_directory_only`
+- 컬럼비아 레코드 · `D_directory_only`
+- 코스트코 · `D_directory_only`
+- 크록스 · `D_directory_only`
+- 트라이엄프 인터내셔널 · `D_directory_only`
+- 팔로폰 레코드 · `D_directory_only`
+- 폴리도르 레코드 · `D_directory_only`
+- 프라이오리티 레코드 · `D_directory_only`
+- 할리우드 레코드 · `D_directory_only`
+- 핸즈 · `D_directory_only`
