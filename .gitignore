@@ -3,6 +3,7 @@ __pycache__/
 .playwright-cli/
 .playwright-mcp/
 output/
+brand-resort-online-home.png
 LOCAL_MEMORY.md
 data/*.sqlite
 base-db/

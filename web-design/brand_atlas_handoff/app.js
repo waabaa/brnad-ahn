@@ -4,6 +4,7 @@ async function loadData() {
   return await res.json();
 }
 
+const SITE_ORIGIN = "https://brand.resort.co.kr";
 const isPage = () => location.pathname.includes("/pages/");
 const fallbackImage = () => isPage() ? "../assets/objects/brand_atlas_logo_mark.png" : "assets/objects/brand_atlas_logo_mark.png";
 
@@ -24,26 +25,32 @@ function asset(src) {
   return clean;
 }
 
+function absoluteUrl(path = "") {
+  if (/^https?:\/\//i.test(path)) return path;
+  const clean = String(path || "").replace(/^\.?\//, "");
+  return `${SITE_ORIGIN}/${clean}`;
+}
+
 function pageLink(path) {
   return isPage() ? path : `pages/${path}`;
 }
 
 function header(active = "") {
   const nav = [
-    ["브랜드 사전", pageLink("industry.html")],
+    ["브랜드 사전", isPage() ? "../index.html" : "index.html"],
     ["산업별 탐색", pageLink("industry.html")],
     ["브랜드 매거진", pageLink("brand-artemio.html")],
-    ["브랜드 인사이트", pageLink("other-pages.html#insights")],
-    ["타임라인", pageLink("other-pages.html#timeline")],
-    ["BI/CI 아카이브", pageLink("other-pages.html#bici")],
-    ["검색", pageLink("other-pages.html#search")],
+    ["브랜드 인사이트", pageLink("insights.html")],
+    ["타임라인", pageLink("timeline.html")],
+    ["BI/CI 아카이브", pageLink("bici.html")],
+    ["검색", pageLink("search.html")],
   ];
   const links = nav.map(([name, href]) => `<a class="${name === active ? "active" : ""}" href="${href}">${name}</a>`).join("");
   const home = isPage() ? "../index.html" : "index.html";
   return `<header class="header">
     <a class="logo" href="${home}"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a>
     <nav class="nav">${links}</nav>
-    <div class="tools"><a href="${pageLink("other-pages.html#search")}">⌕</a><a href="${pageLink("other-pages.html#admin")}">Admin</a><a class="hamb" href="${pageLink("industry.html")}">≡</a></div>
+    <div class="tools"><a aria-label="검색" href="${pageLink("search.html")}">⌕</a><a href="${pageLink("industry.html")}">Menu</a><a class="hamb" aria-label="전체 메뉴" href="${pageLink("industry.html")}">≡</a></div>
   </header>`;
 }
 
@@ -144,6 +151,10 @@ function brandUrl(b) {
   return pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`);
 }
 
+function searchUrl(query) {
+  return pageLink(`search.html?q=${encodeURIComponent(query || "")}`);
+}
+
 function linkBrandMentions(text, currentBrand, limit = 6) {
   let output = cleanPublicText(text);
   const currentId = String(currentBrand?.id || "");
@@ -232,7 +243,7 @@ function teaserText(text, length = 150) {
 function brandCard(b) {
   return `<a class="brand-card" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`)}">
     <div class="txt"><small>${b.industry} · ${tierLabel(b.tier)}</small><br><b>${b.name}</b><p>${teaserText(b.definition || b.summary, 62)}<br>★ ${b.rating}</p></div>
-    <img src="${asset(b.image)}" alt="${b.name}">
+    <img src="${asset(b.image)}" alt="${b.name} 브랜드 이미지" loading="lazy" decoding="async">
   </a>`;
 }
 
@@ -415,13 +426,31 @@ function homeDomainCards(data) {
     const topBrands = brands.filter(b => b.publicReady !== false).slice(0, 4);
     const href = `pages/industry.html?industry=${encodeURIComponent(industry.id)}#brand-list`;
     return `<a class="home-domain-card" href="${href}">
-      <span><img src="${asset(industry.icon)}" alt=""><small>ISIC ${industry.isicCode}</small></span>
+      <span><img src="${asset(industry.icon)}" alt="${industry.name} 산업 아이콘" loading="lazy" decoding="async"><small>ISIC ${industry.isicCode}</small></span>
       <b>${industry.name}</b>
-      <p>${short(industry.description, 78)}</p>
+      <p>${short(industryEditorialDescription(industry), 96)}</p>
       <em>${fmt(brands.length)}개 항목</em>
       <strong>${topBrands.map(b => b.name).join(" · ")}</strong>
     </a>`;
   }).join("");
+}
+
+function industryEditorialDescription(industry) {
+  const map = {
+    "food-beverage": "스타벅스부터 코카-콜라까지, 일상을 채우는 음료·식품 브랜드의 역사와 전략을 연결합니다.",
+    "retail-commerce": "아마존, 유니클로, 립톤처럼 구매 경험과 유통 방식을 바꾼 브랜드를 탐색합니다.",
+    "fashion-luxury": "루이비통, 샤넬, 에르메스처럼 욕망과 정체성을 설계한 브랜드들의 계보를 읽습니다.",
+    "media-entertainment": "콘텐츠, 캐릭터, 플랫폼, 팬덤을 통해 문화적 영향력을 확장한 브랜드를 정리합니다.",
+    "technology-electronics": "제품, 인터페이스, 반도체, 디지털 생태계로 생활 방식을 바꾼 기술 브랜드를 봅니다.",
+    "beauty-personal-care": "피부, 향, 자기표현을 둘러싼 뷰티·퍼스널케어 브랜드의 감각과 시장을 다룹니다.",
+    mobility: "자동차와 이동 경험을 통해 기술, 디자인, 라이프스타일을 결합한 모빌리티 브랜드를 연결합니다.",
+    "sports-outdoor": "나이키부터 파타고니아까지 운동, 장비, 아웃도어 문화를 만든 브랜드를 탐색합니다.",
+    "home-lifestyle": "주방, 가구, 생활용품처럼 일상의 사용성을 브랜드 자산으로 만든 사례를 모읍니다.",
+    "health-pharma": "헬스케어와 제약 브랜드가 신뢰, 효능, 생활 습관을 어떻게 구축했는지 정리합니다.",
+    "travel-hospitality": "호텔, 여행, 리조트 경험을 통해 장소와 환대를 브랜드화한 사례를 읽습니다.",
+    "brand-business": "브랜드 평가, 컨설팅, 비즈니스 지표처럼 브랜드를 산업으로 다루는 항목을 모읍니다.",
+  };
+  return map[industry.id] || industry.description || "";
 }
 
 function homePathCards(data, daily) {
@@ -433,7 +462,7 @@ function homePathCards(data, daily) {
     const links = (related.length ? related : fallback).slice(0, 4);
     return `<article class="path-card">
       <a class="path-main" href="pages/brand-artemio.html?brand=${encodeURIComponent(seed.slug)}">
-        <img src="${asset(seed.logo || seed.image)}" alt="${seed.name}">
+        <img src="${asset(seed.logo || seed.image)}" alt="${seed.name} 로고" loading="lazy" decoding="async">
         <span>${seed.industry} · ${tierLabel(seed.tier)}</span>
         <b>${seed.name}</b>
       </a>
@@ -460,7 +489,7 @@ function homeAlphabetIndex(data) {
   return ordered.map(([key, rows]) => {
     const samples = rows.slice(0, 4);
     return `<article class="alpha-group">
-      <a class="alpha-key" href="pages/other-pages.html#search?q=${encodeURIComponent(key)}">${key}<small>${fmt(rows.length)}</small></a>
+      <a class="alpha-key" href="${searchUrl(key)}">${key}<small>${fmt(rows.length)}</small></a>
       <div>${samples.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}">${b.name}</a>`).join("")}</div>
     </article>`;
   }).join("");
@@ -468,7 +497,7 @@ function homeAlphabetIndex(data) {
 
 function industryCard(i) {
   return `<a class="industry-card" href="${pageLink(`industry.html?industry=${encodeURIComponent(i.id)}#brand-list`)}" data-industry="${i.id}">
-    <img src="${asset(i.icon)}" alt="">
+    <img src="${asset(i.icon)}" alt="${i.name} 산업 아이콘" loading="lazy" decoding="async">
     <b>${i.name}</b>
     <p class="count">${fmt(i.count)}개 브랜드</p>
     <small>${i.examples.join(", ")}</small>
@@ -478,7 +507,7 @@ function industryCard(i) {
 }
 
 function insightCard(i) {
-  const content = `<img src="${asset(i.image)}" alt="${i.brand}"><b>${i.brand}</b><p>${short(i.title, 92)}</p>`;
+  const content = `<img src="${asset(i.image)}" alt="${i.brand} 브랜드 이미지" loading="lazy" decoding="async"><b>${i.brand}</b><p>${short(i.title, 92)}</p>`;
   return i.slug ? `<a class="insight" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(i.slug)}`)}">${content}</a>` : `<article class="insight">${content}</article>`;
 }
 
@@ -511,6 +540,7 @@ function enableTimelineAutoFlow(container) {
 
 function sectionBody(brand, key) {
   const body = brand.sections?.[key]?.body;
+  if (key === "products" && cleanPublicText(body).length < 18) return "대표 제품과 서비스 정보는 편집 검수 후 공개됩니다.";
   if (body && body.trim() && isSafeSectionText(body, key)) return body;
   if (key === "overview") return brand.definition || brand.summary || "";
   return "";
@@ -547,7 +577,7 @@ function prose(text, currentBrand) {
   return value
     .split(/(?<=[.!?。])\s+|(?<=다\.)\s+|;\s+/)
     .map(part => part.trim())
-    .filter(Boolean)
+    .filter(part => part.length >= 6)
     .reduce((groups, sentence, index) => {
       const bucket = Math.floor(index / 2);
       groups[bucket] = groups[bucket] ? `${groups[bucket]} ${sentence}` : sentence;
@@ -582,8 +612,15 @@ function logoArchive(brand) {
     if (item.status === "asset_pending") {
       return `<article class="pending-logo"><div class="logo-text-mark"><strong>${brand.name}</strong><span>BI/CI</span></div><b>${label}</b><span>${note}</span></article>`;
     }
-    return `<article><img src="${asset(item.src)}" alt="${item.alt || `${brand.name} ${label}`}"><b>${label}</b><span>${note}</span></article>`;
+    return `<article><img src="${asset(item.src)}" alt="${item.alt || `${brand.name} ${label}`}" loading="lazy" decoding="async"><b>${label}</b><span>${note}</span></article>`;
   }).join("")}</div>`;
+}
+
+function enhanceImages(root = document) {
+  root.querySelectorAll("img").forEach((img, index) => {
+    if (!img.hasAttribute("decoding")) img.setAttribute("decoding", "async");
+    if (index > 2 && !img.hasAttribute("loading")) img.setAttribute("loading", "lazy");
+  });
 }
 
 function setMeta(selector, attr, value) {
@@ -606,20 +643,23 @@ function applyBrandSeo(brand) {
   setMeta('meta[name="description"]', "content", description);
   setMeta('meta[property="og:title"]', "content", title);
   setMeta('meta[property="og:description"]', "content", description);
-  setMeta('meta[property="og:image"]', "content", asset(brand.image));
-  setMeta('link[rel="canonical"]', "href", location.href.split("#")[0]);
+  setMeta('meta[property="og:image"]', "content", absoluteUrl(asset(brand.image).replace(/^\.\.\//, "")));
+  setMeta('meta[property="og:url"]', "content", `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`);
+  setMeta('link[rel="canonical"]', "href", `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description,
-    image: asset(brand.image),
+    image: absoluteUrl(asset(brand.image).replace(/^\.\.\//, "")),
+    url: `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`,
     inLanguage: "ko-KR",
     about: {
       "@type": "Brand",
       name: brand.name,
       alternateName: brand.nameEn,
       category: brand.industry,
+      foundingDate: brand.timeline?.[0]?.year ? String(brand.timeline[0].year) : undefined,
     },
     mentions: related.map(b => ({
       "@type": "Brand",
@@ -640,7 +680,7 @@ function applyBrandSeo(brand) {
 }
 
 function renderBrandMagazine(brand) {
-  const logo = brand.logo ? `<div class="brand-logo-panel"><img src="${asset(brand.logo)}" alt="${brand.name} logo"></div>` : "";
+  const logo = brand.logo ? `<div class="brand-logo-panel"><img src="${asset(brand.logo)}" alt="${brand.name} 로고" decoding="async"></div>` : "";
   const proseCell = (classes, id, title, key) => {
     const body = sectionBody(brand, key);
     if (!body.trim()) return "";
@@ -668,7 +708,7 @@ function renderBrandMagazine(brand) {
   const tabs = cells.map(([id, title], index) => `<a class="${index === 0 ? "active" : ""}" href="#${id}">${title}</a>`).join("");
   return `<section class="brand-hero">
     <div class="info"><p>홈 > 브랜드 매거진 > ${brand.name}</p><h1>${brand.name}</h1><p class="lead">${short(brand.definition, 260)}</p><hr><p>산업 분야 <b>${brand.industry}</b> · 공개 등급 <b>${tierLabel(brand.tier)}</b> · 브랜드 평가 <b>${brand.rating} ★</b></p></div>
-    <img class="photo" src="${asset(brand.image)}" alt="${brand.name}">
+    <img class="photo" src="${asset(brand.image)}" alt="${brand.name} 브랜드 이미지" decoding="async">
     ${logo}
   </section>
   <nav class="tabs">${tabs}</nav>

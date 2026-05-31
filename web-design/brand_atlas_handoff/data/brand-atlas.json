@@ -49,7 +49,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "식음료 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "스타벅스부터 코카-콜라까지, 일상을 채우는 음료·식품 브랜드의 역사와 전략을 연결합니다."
     },
     {
       "id": "retail-commerce",
@@ -64,7 +64,7 @@
       ],
       "isicCode": "G",
       "isicLabel": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-      "description": "리테일·커머스 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 G 섹션입니다."
+      "description": "아마존, 유니클로, 립톤처럼 구매 경험과 유통 방식을 바꾼 브랜드를 탐색합니다."
     },
     {
       "id": "fashion-luxury",
@@ -79,7 +79,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "패션·럭셔리 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "루이비통, 샤넬, 에르메스처럼 욕망과 정체성을 설계한 브랜드들의 계보를 읽습니다."
     },
     {
       "id": "media-entertainment",
@@ -94,7 +94,7 @@
       ],
       "isicCode": "J",
       "isicLabel": "Information and communication",
-      "description": "미디어·엔터테인먼트 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 J 섹션입니다."
+      "description": "콘텐츠, 캐릭터, 플랫폼, 팬덤을 통해 문화적 영향력을 확장한 브랜드를 정리합니다."
     },
     {
       "id": "technology-electronics",
@@ -109,7 +109,7 @@
       ],
       "isicCode": "J",
       "isicLabel": "Information and communication",
-      "description": "기술·전자 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 J 섹션입니다."
+      "description": "제품, 인터페이스, 반도체, 디지털 생태계로 생활 방식을 바꾼 기술 브랜드를 봅니다."
     },
     {
       "id": "beauty-personal-care",
@@ -124,7 +124,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "뷰티·퍼스널케어 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "피부, 향, 자기표현을 둘러싼 뷰티·퍼스널케어 브랜드의 감각과 시장을 다룹니다."
     },
     {
       "id": "mobility",
@@ -139,7 +139,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "모빌리티 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "자동차와 이동 경험을 통해 기술, 디자인, 라이프스타일을 결합한 모빌리티 브랜드를 연결합니다."
     },
     {
       "id": "sports-outdoor",
@@ -154,7 +154,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "스포츠·아웃도어 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "나이키부터 파타고니아까지 운동, 장비, 아웃도어 문화를 만든 브랜드를 탐색합니다."
     },
     {
       "id": "home-lifestyle",
@@ -169,7 +169,7 @@
       ],
       "isicCode": "C",
       "isicLabel": "Manufacturing",
-      "description": "홈·라이프스타일 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 C 섹션입니다."
+      "description": "주방, 가구, 생활용품처럼 일상의 사용성을 브랜드 자산으로 만든 사례를 모읍니다."
     },
     {
       "id": "health-pharma",
@@ -184,7 +184,7 @@
       ],
       "isicCode": "Q",
       "isicLabel": "Human health and social work activities",
-      "description": "헬스·제약 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 Q 섹션입니다."
+      "description": "헬스케어와 제약 브랜드가 신뢰, 효능, 생활 습관을 어떻게 구축했는지 정리합니다."
     },
     {
       "id": "travel-hospitality",
@@ -199,7 +199,7 @@
       ],
       "isicCode": "I",
       "isicLabel": "Accommodation and food service activities",
-      "description": "여행·호스피탈리티 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 I 섹션입니다."
+      "description": "호텔, 여행, 리조트 경험을 통해 장소와 환대를 브랜드화한 사례를 읽습니다."
     },
     {
       "id": "brand-business",
@@ -212,7 +212,7 @@
       ],
       "isicCode": "M",
       "isicLabel": "Professional, scientific and technical activities",
-      "description": "브랜드·비즈니스 브랜드를 위한 편집 도메인. 표준 축은 ISIC Rev.4 M 섹션입니다."
+      "description": "브랜드 평가, 컨설팅, 비즈니스 지표처럼 브랜드를 산업으로 다루는 항목을 모읍니다."
     }
   ],
   "featuredBrand": {
