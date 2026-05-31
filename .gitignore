@@ -9,5 +9,10 @@ data/*.sqlite
 base-db/
 images/
 !web-design/brand_atlas_handoff/images/
+!web-design/brand_atlas_handoff/archive/
+!web-design/brand_atlas_handoff/archive/korean-sources/
+!web-design/brand_atlas_handoff/archive/korean-sources/**/
+!web-design/brand_atlas_handoff/archive/korean-sources/**/images/
+!web-design/brand_atlas_handoff/archive/korean-sources/**/images/**
 web-design/brand_atlas_handoff/reports/
 *.Zone.Identifier

@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260531c`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260531e`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -22,6 +22,7 @@ function asset(src) {
   const clean = src.replaceAll("\\", "/");
   if (clean.startsWith("assets/")) return isPage() ? `../${clean}` : clean;
   if (clean.startsWith("images/")) return isPage() ? `../${clean}` : clean;
+  if (clean.startsWith("archive/")) return isPage() ? `../${clean}` : clean;
   return clean;
 }
 
@@ -230,6 +231,15 @@ function relatedLinks(brand) {
 function short(text, length = 120) {
   const value = cleanPublicText(text);
   return value.length > length ? `${value.slice(0, length).trim()}...` : value;
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function teaserText(text, length = 150) {
@@ -509,6 +519,24 @@ function industryCard(i) {
 function insightCard(i) {
   const content = `<img src="${asset(i.image)}" alt="${i.brand} 브랜드 이미지" loading="lazy" decoding="async"><b>${i.brand}</b><p>${short(i.title, 92)}</p>`;
   return i.slug ? `<a class="insight" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(i.slug)}`)}">${content}</a>` : `<article class="insight">${content}</article>`;
+}
+
+function koreanSourceCard(record) {
+  const title = escapeHtml(record.title);
+  const source = escapeHtml(record.sourceSite);
+  const summary = escapeHtml(short(record.summary, 150));
+  const date = escapeHtml(record.date || "");
+  const description = escapeHtml(record.sourceDescription || "국내 브랜드·마케팅 소스");
+  const url = escapeHtml(record.url || "#");
+  return `<article class="source-card">
+    <a href="${url}" target="_blank" rel="noopener noreferrer">
+      <img src="${asset(record.image)}" alt="${title} 대표 이미지" loading="lazy" decoding="async">
+      <span>${source}${date ? ` · ${date}` : ""}</span>
+      <b>${title}</b>
+      <p>${summary}</p>
+      <small>${description}</small>
+    </a>
+  </article>`;
 }
 
 function timelineItem(t) {

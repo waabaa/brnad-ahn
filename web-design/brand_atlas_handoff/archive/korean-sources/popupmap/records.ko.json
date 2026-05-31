@@ -1,0 +1,8 @@
+[
+  {
+    "출처사이트": "팝업지도",
+    "출처설명": "실시간 브랜드 팝업스토어 정보",
+    "URL": "https://popupmap.co.kr/",
+    "오류": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://popupmap.co.kr/\nCall log:\n\u001b[2m  - navigating to \"https://popupmap.co.kr/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  }
+]
