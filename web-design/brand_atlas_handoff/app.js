@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260531b`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260531c`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -466,7 +466,7 @@ function homePathCards(data, daily) {
         <span>${seed.industry} · ${tierLabel(seed.tier)}</span>
         <b>${seed.name}</b>
       </a>
-      <div>${links.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}">${b.name}</a>`).join("")}</div>
+      <div>${links.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}" title="${b.name}">${b.name}</a>`).join("")}</div>
     </article>`;
   });
   return rows.join("");
@@ -490,7 +490,7 @@ function homeAlphabetIndex(data) {
     const samples = rows.slice(0, 4);
     return `<article class="alpha-group">
       <a class="alpha-key" href="${searchUrl(key)}">${key}<small>${fmt(rows.length)}</small></a>
-      <div>${samples.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}">${b.name}</a>`).join("")}</div>
+      <div>${samples.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}" title="${b.name}">${b.name}</a>`).join("")}</div>
     </article>`;
   }).join("");
 }
