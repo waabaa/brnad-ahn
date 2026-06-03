@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260601a`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260604a`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -76,6 +76,7 @@ function cleanPublicText(text) {
     .replace(/Wikidata 기준으로\s*/g, "")
     .replace(/\s*Wikidata 항목 '[^']+'와 매칭되었습니다\./g, "")
     .replace(/로 식별됩니다\./g, "입니다.")
+    .replace(/(^|[^\d,.])(\d{5,})(?![\d,.])/g, (_, pre, num) => pre + Number(num).toLocaleString("ko-KR"))
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -240,6 +241,33 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function brandInitials(brand) {
+  const en = String(brand?.nameEn || "").trim();
+  const ko = String(brand?.nameKo || brand?.name || "").trim();
+  const isLatin = /^[\x00-\x7F]+$/.test(en) && en && en !== ko;
+  if (isLatin) {
+    const words = en
+      .replace(/\b(the|inc|co|ltd|corp|company|group|brand|gmbh|sa|ag)\.?\b/gi, "")
+      .split(/[^A-Za-z0-9]+/)
+      .filter(Boolean);
+    if (words.length >= 2) return (words[0][0] + words[1][0]).toUpperCase();
+    return (words[0] || en).slice(0, 2).toUpperCase();
+  }
+  return ko.replace(/\s+/g, "").slice(0, 2) || "BA";
+}
+
+// Renders a brand's logo as an <img>, or a typographic wordmark placeholder when
+// no logo asset exists, so missing logos read as intentional rather than broken.
+function logoMarkup(brand, variant = "panel") {
+  if (brand?.logo) {
+    return `<img src="${asset(brand.logo)}" alt="${escapeHtml(brand.name)} 로고" decoding="async">`;
+  }
+  return `<div class="brand-wordmark ${variant}" role="img" aria-label="${escapeHtml(brand?.name || "")} 로고 자리">
+    <span class="wordmark-initials">${escapeHtml(brandInitials(brand))}</span>
+    <strong>${escapeHtml(brand?.name || "")}</strong>
+  </div>`;
 }
 
 function teaserText(text, length = 150) {
@@ -708,7 +736,7 @@ function applyBrandSeo(brand) {
 }
 
 function renderBrandMagazine(brand) {
-  const logo = brand.logo ? `<div class="brand-logo-panel"><img src="${asset(brand.logo)}" alt="${brand.name} 로고" decoding="async"></div>` : "";
+  const logo = `<div class="brand-logo-panel${brand.logo ? "" : " is-wordmark"}">${logoMarkup(brand)}</div>`;
   const proseCell = (classes, id, title, key) => {
     const body = sectionBody(brand, key);
     if (!body.trim()) return "";
@@ -752,3 +780,21 @@ function renderBrandNotFound(slug, allBrands = []) {
 }
 
 
+
+// Defensive guard: if the data file fails to load (network/deploy issue), the
+// inline page scripts would otherwise leave a blank page. Surface a readable
+// message instead of silent failure.
+window.addEventListener("unhandledrejection", event => {
+  const reason = String(event.reason || "");
+  if (!/brand-atlas\.json|Failed to fetch|NetworkError|Unexpected token/.test(reason)) return;
+  const main = document.querySelector("main") || document.body;
+  if (main.querySelector(".data-error")) return;
+  const box = document.createElement("div");
+  box.className = "data-error";
+  box.setAttribute("role", "alert");
+  box.innerHTML = '<div class="wrap" style="padding:60px 20px;text-align:center">'
+    + '<h1 style="font-size:28px;margin:0 0 12px">데이터를 불러오지 못했습니다</h1>'
+    + '<p style="color:#6b7280">잠시 후 다시 시도하거나 새로고침해 주세요.</p>'
+    + '<p style="margin-top:18px"><a class="chip" href="javascript:location.reload()">새로고침</a></p></div>';
+  main.prepend(box);
+});

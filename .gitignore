@@ -16,3 +16,6 @@ images/
 !web-design/brand_atlas_handoff/archive/korean-sources/**/images/**
 web-design/brand_atlas_handoff/reports/
 *.Zone.Identifier
+scripts_py/search_pass.log
+*.bak
+.omc/

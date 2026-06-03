@@ -63,3 +63,13 @@ body{color:#0f0f0f}.lead,.home-domain-card p,.brand-card p,#brandCards>.brand-ca
 .home-domain-card p,.source-card p{line-height:1.7}.home-domain-card strong{color:#6b7280}
 .stat p{font-size:11px;line-height:1.45;text-transform:uppercase;letter-spacing:.08em;opacity:.72;font-weight:600}.stat strong{letter-spacing:0}
 .brand-card p,#brandCards>.brand-card p{line-height:1.65}.timeline-node b{font-weight:800;letter-spacing:0}
+
+/* Typographic wordmark placeholder for brands without a logo asset */
+.brand-wordmark{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;text-align:center;width:100%;height:100%;padding:24px}
+.brand-wordmark .wordmark-initials{display:grid;place-items:center;width:96px;height:96px;border-radius:50%;background:var(--ink);color:#fff;font-size:40px;font-weight:800;line-height:1;letter-spacing:0}
+.brand-wordmark strong{font-size:20px;font-weight:700;line-height:1.3;color:var(--ink);overflow-wrap:anywhere;word-break:keep-all;max-width:100%}
+.brand-logo-panel.is-wordmark{background:var(--soft)}
+.logo-archive .brand-wordmark{padding:8px}
+.logo-archive .brand-wordmark .wordmark-initials{width:64px;height:64px;font-size:26px}
+.logo-archive .brand-wordmark strong{font-size:13px}
+@media(max-width:900px){.brand-wordmark{padding:18px}.brand-wordmark .wordmark-initials{width:78px;height:78px;font-size:32px}.brand-wordmark strong{font-size:18px}}
