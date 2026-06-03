@@ -226,7 +226,7 @@ function relatedBrands(brand, limit = 8) {
 function relatedLinks(brand) {
   const rows = relatedBrands(brand, 8);
   if (!rows.length) return "";
-  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}"><img src="${asset(b.image)}" alt="${b.name}"><span>${b.industry} · ${tierLabel(b.tier)}</span><b>${b.name}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
+  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}"><img src="${asset(b.image && !String(b.image).includes("brand_atlas_logo_mark") ? b.image : (b.logo || b.image))}" alt="${b.name}"><span>${b.industry} · ${tierLabel(b.tier)}</span><b>${b.name}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
 }
 
 function short(text, length = 120) {
@@ -786,7 +786,9 @@ function renderBrandNotFound(slug, allBrands = []) {
 // message instead of silent failure.
 window.addEventListener("unhandledrejection", event => {
   const reason = String(event.reason || "");
-  if (!/brand-atlas\.json|Failed to fetch|NetworkError|Unexpected token/.test(reason)) return;
+  // Cover Chrome ("Failed to fetch"), Firefox ("NetworkError"), Safari ("Load
+  // failed"), and JSON parse failures on a truncated/non-JSON response.
+  if (!/brand-atlas\.json|Failed to fetch|NetworkError|Load failed|SyntaxError|Unexpected/.test(reason)) return;
   const main = document.querySelector("main") || document.body;
   if (main.querySelector(".data-error")) return;
   const box = document.createElement("div");
@@ -795,6 +797,13 @@ window.addEventListener("unhandledrejection", event => {
   box.innerHTML = '<div class="wrap" style="padding:60px 20px;text-align:center">'
     + '<h1 style="font-size:28px;margin:0 0 12px">데이터를 불러오지 못했습니다</h1>'
     + '<p style="color:#6b7280">잠시 후 다시 시도하거나 새로고침해 주세요.</p>'
-    + '<p style="margin-top:18px"><a class="chip" href="javascript:location.reload()">새로고침</a></p></div>';
+    + '<p style="margin-top:18px"></p></div>';
+  // Build the reload control via DOM so no javascript: URI is needed (CSP-safe).
+  const retry = document.createElement("button");
+  retry.className = "chip";
+  retry.type = "button";
+  retry.textContent = "새로고침";
+  retry.addEventListener("click", () => location.reload());
+  box.querySelector("p:last-child").appendChild(retry);
   main.prepend(box);
 });
