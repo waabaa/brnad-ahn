@@ -464,7 +464,7 @@ function homeDomainCards(data) {
     const topBrands = brands.filter(b => b.publicReady !== false).slice(0, 4);
     const href = `pages/industry.html?industry=${encodeURIComponent(industry.id)}#brand-list`;
     return `<a class="home-domain-card" href="${href}">
-      <span><img src="${asset(industry.icon)}" alt="${industry.name} 산업 아이콘" loading="lazy" decoding="async"><small>ISIC ${industry.isicCode}</small></span>
+      <span><small>ISIC ${industry.isicCode}</small></span>
       <b>${industry.name}</b>
       <p>${short(industryEditorialDescription(industry), 96)}</p>
       <em>${fmt(brands.length)}개 항목</em>
@@ -493,8 +493,27 @@ function industryEditorialDescription(industry) {
 
 function homePathCards(data, daily) {
   const allBrands = uniqueBrandsBySlug(data.allBrands || data.brands || []);
-  const seeds = [daily.featured, ...(daily.cards || [])].filter(Boolean);
-  const rows = seeds.slice(0, 4).map(seed => {
+  // Build a generous candidate list: daily seeds first, then logo-bearing
+  // public brands. balanceHomeColumns() trims the rendered count at runtime so
+  // the curation column matches the alphabet index column height.
+  const seen = new Set();
+  const seeds = [];
+  for (const seed of [daily.featured, ...(daily.cards || [])].filter(Boolean)) {
+    if (!seed.slug || seen.has(seed.slug)) continue;
+    seen.add(seed.slug);
+    seeds.push(seed);
+  }
+  if (seeds.length < 12) {
+    const filler = sortBrandsForListing(
+      allBrands.filter(b => b.publicReady !== false && (b.logo || b.image) && b.slug && !seen.has(b.slug))
+    );
+    for (const brand of filler) {
+      if (seeds.length >= 12) break;
+      seen.add(brand.slug);
+      seeds.push(brand);
+    }
+  }
+  const rows = seeds.slice(0, 12).map(seed => {
     const related = relatedBrands(seed, 4);
     const fallback = sortBrandsForListing(allBrands.filter(b => b.domainSlug === seed.domainSlug && b.slug !== seed.slug)).slice(0, 4);
     const links = (related.length ? related : fallback).slice(0, 4);
@@ -533,9 +552,39 @@ function homeAlphabetIndex(data) {
   }).join("");
 }
 
+// Trim the curation column (#homePaths) to the alphabet index column
+// (#homeAlphabet) height so both columns end at roughly the same baseline.
+// homePathCards() renders a generous candidate list; this hides the overflow.
+// On stacked layouts (single-column grid) all cards stay visible.
+function balanceHomeColumns() {
+  const pathsWrap = document.getElementById("homePaths");
+  const indexWrap = document.getElementById("homeAlphabet");
+  if (!pathsWrap || !indexWrap) return;
+  const cards = Array.from(pathsWrap.children);
+  if (!cards.length) return;
+  cards.forEach(card => { card.style.display = ""; });
+  // When the link grid collapses to one column, the curation column sits above
+  // the index instead of beside it — no balancing needed there.
+  const grid = pathsWrap.closest(".home-link-grid");
+  const stacked = grid && grid.getBoundingClientRect().width
+    ? getComputedStyle(grid).gridTemplateColumns.split(" ").length < 2
+    : false;
+  if (stacked) return;
+  const targetHeight = indexWrap.getBoundingClientRect().height;
+  if (!targetHeight) return;
+  const gap = parseFloat(getComputedStyle(pathsWrap).rowGap) || 0;
+  let used = 0;
+  let limit = cards.length;
+  for (let i = 0; i < cards.length; i++) {
+    const cardHeight = cards[i].getBoundingClientRect().height + (i ? gap : 0);
+    if (i > 0 && used + cardHeight > targetHeight) { limit = i; break; }
+    used += cardHeight;
+  }
+  cards.forEach((card, i) => { card.style.display = i < limit ? "" : "none"; });
+}
+
 function industryCard(i) {
   return `<a class="industry-card" href="${pageLink(`industry.html?industry=${encodeURIComponent(i.id)}#brand-list`)}" data-industry="${i.id}">
-    <img src="${asset(i.icon)}" alt="${i.name} 산업 아이콘" loading="lazy" decoding="async">
     <b>${i.name}</b>
     <p class="count">${fmt(i.count)}개 브랜드</p>
     <small>${i.examples.join(", ")}</small>
