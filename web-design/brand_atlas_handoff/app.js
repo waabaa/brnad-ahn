@@ -285,6 +285,23 @@ function brandCard(b) {
   </a>`;
 }
 
+// A brand earns a full image card only when it has a real, distinctive image.
+// Placeholder-logo entries become text rows in the index instead — a big image
+// box wrapped around the same gray mark hundreds of times is what makes the
+// listing feel cramped.
+function hasShowcaseImage(b) {
+  const img = String(b && b.image || "");
+  return !!img && !img.includes("brand_atlas_logo_mark");
+}
+
+// Compact index row: name + industry + rating, no image box. The back-of-the-
+// book directory to the featured cards' magazine front.
+function brandIndexItem(b) {
+  return `<a class="index-item" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`)}">
+    <b>${b.name}</b><span>${b.industry}</span><em>★ ${b.rating}</em>
+  </a>`;
+}
+
 function brandQualityScore(b) {
   let score = Number(b.rating || 0) * 10;
   if (String(b.tier || "").startsWith("A_")) score += 90;
