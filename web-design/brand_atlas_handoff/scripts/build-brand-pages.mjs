@@ -37,8 +37,10 @@ vm.runInContext(appSrc, sandbox, { filename: "app.js" });
 
 // ---- Overrides for /brand/<slug>.html depth (nav lives in /pages/, brand pages in /brand/) ----
 const esc = sandbox.escapeHtml || ((s) => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])));
-const newBrandPath = (slug) => `../brand/${encodeURIComponent(slug)}.html`;
-sandbox.brandUrl = (b) => newBrandPath(b.slug);
+// Non-ASCII (Korean) slugs are not served by the Cloudflare Worker proxy; use the
+// ASCII urlSlug baked into the data when present.
+const urlSlugOf = (b) => b.urlSlug || b.slug;
+sandbox.brandUrl = (b) => `../brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 sandbox.header = (active = "") => {
   const nav = [
     ["브랜드 사전", "../index.html"],
@@ -67,7 +69,7 @@ function absAsset(src) {
 }
 
 function jsonLd(brand) {
-  const url = `${ORIGIN}/brand/${encodeURIComponent(brand.slug)}.html`;
+  const url = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(brand))}.html`;
   const facts = brand.facts || {};
   const org = {
     "@type": "Organization",
@@ -91,7 +93,7 @@ function jsonLd(brand) {
 }
 
 function pageHtml(brand) {
-  const url = `${ORIGIN}/brand/${encodeURIComponent(brand.slug)}.html`;
+  const url = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(brand))}.html`;
   const title = `${brand.name} 브랜드 매거진 | 브랜드 아틀라스`;
   const desc = short(`${brand.definition || ""} ${brand.insight || ""}`.trim(), 155);
   const ogImg = absAsset(brand.image);
@@ -109,7 +111,7 @@ let written = 0, failed = 0;
 for (const b of list) {
   try {
     const html = pageHtml(b);
-    fs.writeFileSync(path.join(outDir, `${b.slug}.html`), html);
+    fs.writeFileSync(path.join(outDir, `${urlSlugOf(b)}.html`), html);
     written++;
   } catch (e) {
     failed++;
@@ -124,7 +126,7 @@ if (!sampleSlugs) {
   const statics = ["/", "/pages/industry.html", "/pages/insights.html", "/pages/timeline.html", "/pages/bici.html", "/pages/search.html"];
   const urls = [
     ...statics.map(u => `${ORIGIN}${u}`),
-    ...BRANDS.map(b => `${ORIGIN}/brand/${encodeURIComponent(b.slug)}.html`),
+    ...BRANDS.map(b => `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`),
   ];
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join("\n")}\n</urlset>\n`;
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), xml);
