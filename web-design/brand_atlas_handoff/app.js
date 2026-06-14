@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260614`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260614b`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -150,7 +150,9 @@ function findBrand(data, slug) {
 }
 
 function brandUrl(b) {
-  return pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`);
+  // Phase 1 SSG: link to the static per-brand page (canonical). Context-aware so
+  // /pages/* uses ../brand/, home uses brand/.
+  return isPage() ? `../brand/${encodeURIComponent(b.slug)}.html` : `brand/${encodeURIComponent(b.slug)}.html`;
 }
 
 function searchUrl(query) {
@@ -279,7 +281,7 @@ function teaserText(text, length = 150) {
 }
 
 function brandCard(b) {
-  return `<a class="brand-card" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`)}">
+  return `<a class="brand-card" href="${brandUrl(b)}">
     <div class="txt"><small>${b.industry} · ${tierLabel(b.tier)}</small><br><b>${b.name}</b><p>${teaserText(b.definition || b.summary, 62)}<br>★ ${b.rating}</p></div>
     <img src="${asset(b.image)}" alt="${b.name} 브랜드 이미지" loading="lazy" decoding="async">
   </a>`;
@@ -297,7 +299,7 @@ function hasShowcaseImage(b) {
 // Compact index row: name + industry + rating, no image box. The back-of-the-
 // book directory to the featured cards' magazine front.
 function brandIndexItem(b) {
-  return `<a class="index-item" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(b.slug)}`)}">
+  return `<a class="index-item" href="${brandUrl(b)}">
     <b>${b.name}</b><span>${b.industry}</span><em>★ ${b.rating}</em>
   </a>`;
 }
@@ -535,12 +537,12 @@ function homePathCards(data, daily) {
     const fallback = sortBrandsForListing(allBrands.filter(b => b.domainSlug === seed.domainSlug && b.slug !== seed.slug)).slice(0, 4);
     const links = (related.length ? related : fallback).slice(0, 4);
     return `<article class="path-card">
-      <a class="path-main" href="pages/brand-artemio.html?brand=${encodeURIComponent(seed.slug)}">
+      <a class="path-main" href="${brandUrl(seed)}">
         <img src="${asset(seed.logo || seed.image)}" alt="${seed.name} 로고" loading="lazy" decoding="async">
         <span>${seed.industry} · ${tierLabel(seed.tier)}</span>
         <b>${seed.name}</b>
       </a>
-      <div>${links.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}" title="${b.name}">${b.name}</a>`).join("")}</div>
+      <div>${links.map(b => `<a href="${brandUrl(b)}" title="${b.name}">${b.name}</a>`).join("")}</div>
     </article>`;
   });
   return rows.join("");
@@ -564,7 +566,7 @@ function homeAlphabetIndex(data) {
     const samples = rows.slice(0, 4);
     return `<article class="alpha-group">
       <a class="alpha-key" href="${searchUrl(key)}">${key}<small>${fmt(rows.length)}</small></a>
-      <div>${samples.map(b => `<a href="pages/brand-artemio.html?brand=${encodeURIComponent(b.slug)}" title="${b.name}">${b.name}</a>`).join("")}</div>
+      <div>${samples.map(b => `<a href="${brandUrl(b)}" title="${b.name}">${b.name}</a>`).join("")}</div>
     </article>`;
   }).join("");
 }
@@ -612,7 +614,7 @@ function industryCard(i) {
 
 function insightCard(i) {
   const content = `<img src="${asset(i.image)}" alt="${i.brand} 브랜드 이미지" loading="lazy" decoding="async"><b>${i.brand}</b><p>${short(i.title, 92)}</p>`;
-  return i.slug ? `<a class="insight" href="${pageLink(`brand-artemio.html?brand=${encodeURIComponent(i.slug)}`)}">${content}</a>` : `<article class="insight">${content}</article>`;
+  return i.slug ? `<a class="insight" href="${brandUrl(i)}">${content}</a>` : `<article class="insight">${content}</article>`;
 }
 
 function koreanSourceCard(record) {
