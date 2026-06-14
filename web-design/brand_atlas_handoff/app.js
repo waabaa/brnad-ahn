@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260604a`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260614`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -766,15 +766,15 @@ function applyBrandSeo(brand) {
   setMeta('meta[property="og:title"]', "content", title);
   setMeta('meta[property="og:description"]', "content", description);
   setMeta('meta[property="og:image"]', "content", absoluteUrl(asset(brand.image).replace(/^\.\.\//, "")));
-  setMeta('meta[property="og:url"]', "content", `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`);
-  setMeta('link[rel="canonical"]', "href", `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`);
+  setMeta('meta[property="og:url"]', "content", `${SITE_ORIGIN}/brand/${encodeURIComponent(brand.slug)}.html`);
+  setMeta('link[rel="canonical"]', "href", `${SITE_ORIGIN}/brand/${encodeURIComponent(brand.slug)}.html`);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description,
     image: absoluteUrl(asset(brand.image).replace(/^\.\.\//, "")),
-    url: `${SITE_ORIGIN}/pages/brand-artemio.html?brand=${encodeURIComponent(brand.slug)}`,
+    url: `${SITE_ORIGIN}/brand/${encodeURIComponent(brand.slug)}.html`,
     inLanguage: "ko-KR",
     about: {
       "@type": "Brand",
