@@ -59,7 +59,7 @@ loadData().then(d => {
   document.getElementById("heroAssetCount").textContent = fmt(d.stats.images);
   const daily = dailyHomeSelection(d);
   const f = daily.featured;
-  document.getElementById("featuredCopy").innerHTML = `<small>오늘의 브랜드 · ${daily.dateKey}</small><h2>${f.name}</h2><p>${teaserText(f.sections?.insights?.body || f.insight || f.summary || f.definition, 210)}</p><p><span class="chip">${f.industry}</span> <span class="chip">${tierLabel(f.tier)}</span></p><p><a class="chip" href="pages/brand-artemio.html?brand=${encodeURIComponent(f.slug)}">매거진 읽기</a> <a class="chip" href="${daily.previewHref}">다른 조합 보기</a></p>`;
+  document.getElementById("featuredCopy").innerHTML = `<small>오늘의 브랜드 · ${daily.dateKey}</small><h2>${f.name}</h2><p>${teaserText(f.sections?.insights?.body || f.insight || f.summary || f.definition, 210)}</p><p><span class="chip">${f.industry}</span> <span class="chip">${tierLabel(f.tier)}</span></p><p><a class="chip" href="brand/${encodeURIComponent(f.slug)}.html">매거진 읽기</a> <a class="chip" href="${daily.previewHref}">다른 조합 보기</a></p>`;
   document.getElementById("featuredImage").src = asset(f.image);
   document.getElementById("homeDomains").innerHTML = homeDomainCards(d);
   document.getElementById("homePaths").innerHTML = homePathCards(d, daily);
