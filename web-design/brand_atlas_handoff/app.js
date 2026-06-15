@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260615d`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260615e`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -818,15 +818,27 @@ function renderBrandMagazine(brand) {
     if (!body.trim()) return "";
     return `<section class="cell compact" id="${id}"><h2>${title}</h2>${metaList(body)}</section>`;
   };
+  // Structured "label: value; ..." → compact meta-list. Prose (e.g. AI-enriched
+  // people/current/products) → paragraphs, spanning full width when long so it
+  // doesn't stretch one masonry column tall and narrow.
+  const smartCell = (id, title, key) => {
+    const body = sectionBody(brand, key);
+    if (!body.trim()) return "";
+    const segs = body.split(";").map(s => s.trim()).filter(Boolean);
+    const structured = segs.length >= 2 && segs.filter(s => /^[^:]{1,18}:/.test(s)).length >= Math.ceil(segs.length / 2);
+    if (structured) return `<section class="cell compact" id="${id}"><h2>${title}</h2>${metaList(body)}</section>`;
+    const wide = body.length > 150 ? " wide" : "";
+    return `<section class="cell story${wide}" id="${id}"><h2>${title}</h2><div class="prose">${prose(body, brand)}</div></section>`;
+  };
   const cells = [
     ["overview", "한눈에 보는 브랜드", proseCell("cell feature wide", "overview", "한눈에 보는 브랜드", "overview")],
     ["insights", "브랜드 관점", proseCell("cell insight-cell", "insights", "브랜드 관점", "insights")],
     ["origin", "시작과 성장", proseCell("cell story", "origin", "시작과 성장", "origin")],
     ["identity", "브랜드 아이덴티티", proseCell("cell story", "identity", "브랜드 아이덴티티", "identity")],
     ["external", "확장 지식", proseCell("cell story wide", "external", "확장 지식", "external")],
-    ["products", "제품과 서비스", proseCell("cell compact", "products", "제품과 서비스", "products")],
-    ["people", "사람들", metaCell("people", "사람들", "people")],
-    ["current", "현재 상태", metaCell("current", "현재 상태", "current")],
+    ["products", "제품과 서비스", smartCell("products", "제품과 서비스", "products")],
+    ["people", "사람들", smartCell("people", "사람들", "people")],
+    ["current", "현재 상태", smartCell("current", "현재 상태", "current")],
     ["timeline", "타임라인", `<section class="cell wide timeline-cell" id="timeline"><h2>타임라인</h2>${timelineRail(brand.timeline || [])}</section>`],
     ["bici", "BI/CI 변천사", `<section class="cell wide" id="bici"><h2>BI/CI 변천사</h2>${logoArchive(brand)}</section>`],
     ["related", "함께 읽을 브랜드", relatedLinks(brand)],
