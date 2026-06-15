@@ -27,7 +27,7 @@ echo "Target : $SSH_TARGET:$WEBROOT (via $STAGING)"
 
 rsync -az --delete $DRY -e "$SSH" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scripts/' \
-  --exclude='source-imports/' --exclude='reports/' --exclude='archive/' \
+  --exclude='source-imports/' --exclude='reports/' --exclude='archive/brandarchive/' \
   --exclude='*.bak' --exclude='*.bak.*' \
   --exclude='DATA_COMPLETION_WORK_ORDERS.md' --exclude='README.md' \
   "$SRC" "$SSH_TARGET:$STAGING/"
