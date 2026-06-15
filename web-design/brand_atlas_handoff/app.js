@@ -1,10 +1,10 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260615f`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260616`, { cache: "no-store" });
   return await res.json();
 }
 
-const SITE_ORIGIN = "https://brand.resort.co.kr";
+const SITE_ORIGIN = "https://brandatlas.co.kr";
 const isPage = () => location.pathname.includes("/pages/");
 const fallbackImage = () => isPage() ? "../assets/objects/brand_atlas_logo_mark.png" : "assets/objects/brand_atlas_logo_mark.png";
 

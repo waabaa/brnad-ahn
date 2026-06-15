@@ -13,7 +13,7 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");               // brand_atlas_handoff/
-const ORIGIN = "https://brand.resort.co.kr";
+const ORIGIN = "https://brandatlas.co.kr";
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data/brand-atlas.json"), "utf8"));
 const BRANDS = DATA.allBrands || [];
 
