@@ -128,7 +128,7 @@ if (!sampleSlugs) {
     ...statics.map(u => `${ORIGIN}${u}`),
     ...BRANDS.map(b => `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`),
   ];
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join("\n")}\n</urlset>\n`;
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join("\n")}\n</urlset>\n`;
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), xml);
   console.log(`sitemap.xml: ${urls.length} URLs (0 query-string)`);
 }
