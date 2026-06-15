@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260616`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260617`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -807,6 +807,10 @@ function applyBrandSeo(brand) {
 
 function renderBrandMagazine(brand) {
   const logo = `<div class="brand-logo-panel${brand.logo ? "" : " is-wordmark"}">${logoMarkup(brand)}</div>`;
+  // Only show the hero photo when there's a real photo — not when `image` is just the
+  // brand logo/placeholder (a wide wordmark gets cropped to a meaningless slice).
+  const heroImg = String(brand.image || "");
+  const hasRealPhoto = heroImg && !/logos\/|brand_atlas_logo_mark/.test(heroImg) && heroImg !== String(brand.logo || "");
   const proseCell = (classes, id, title, key) => {
     const body = sectionBody(brand, key);
     if (!body.trim()) return "";
@@ -819,23 +823,21 @@ function renderBrandMagazine(brand) {
     return `<section class="cell compact" id="${id}"><h2>${title}</h2>${metaList(body)}</section>`;
   };
   // Structured "label: value; ..." → compact meta-list. Prose (e.g. AI-enriched
-  // people/current/products) → paragraphs, spanning full width when long so it
-  // doesn't stretch one masonry column tall and narrow.
+  // people/current/products) → paragraphs in a uniform grid cell.
   const smartCell = (id, title, key) => {
     const body = sectionBody(brand, key);
     if (!body.trim()) return "";
     const segs = body.split(";").map(s => s.trim()).filter(Boolean);
     const structured = segs.length >= 2 && segs.filter(s => /^[^:]{1,18}:/.test(s)).length >= Math.ceil(segs.length / 2);
     if (structured) return `<section class="cell compact" id="${id}"><h2>${title}</h2>${metaList(body)}</section>`;
-    const wide = body.length > 150 ? " wide" : "";
-    return `<section class="cell story${wide}" id="${id}"><h2>${title}</h2><div class="prose">${prose(body, brand)}</div></section>`;
+    return `<section class="cell story" id="${id}"><h2>${title}</h2><div class="prose">${prose(body, brand)}</div></section>`;
   };
   const cells = [
     ["overview", "한눈에 보는 브랜드", proseCell("cell feature wide", "overview", "한눈에 보는 브랜드", "overview")],
     ["insights", "브랜드 관점", proseCell("cell insight-cell", "insights", "브랜드 관점", "insights")],
     ["origin", "시작과 성장", proseCell("cell story", "origin", "시작과 성장", "origin")],
     ["identity", "브랜드 아이덴티티", proseCell("cell story", "identity", "브랜드 아이덴티티", "identity")],
-    ["external", "확장 지식", proseCell("cell story wide", "external", "확장 지식", "external")],
+    ["external", "확장 지식", proseCell("cell story", "external", "확장 지식", "external")],
     ["products", "제품과 서비스", smartCell("products", "제품과 서비스", "products")],
     ["people", "사람들", smartCell("people", "사람들", "people")],
     ["current", "현재 상태", smartCell("current", "현재 상태", "current")],
@@ -844,9 +846,9 @@ function renderBrandMagazine(brand) {
     ["related", "함께 읽을 브랜드", relatedLinks(brand)],
   ].filter(([, , html]) => html && html.trim());
   const tabs = cells.map(([id, title], index) => `<a class="${index === 0 ? "active" : ""}" href="#${id}">${title}</a>`).join("");
-  return `<section class="brand-hero">
+  return `<section class="brand-hero${hasRealPhoto ? "" : " no-photo"}">
     <div class="info"><p>홈 > 브랜드 매거진 > ${brand.name}</p><h1>${brand.name}</h1><p class="lead">${short(brand.definition, 260)}</p><hr><p>산업 분야 <b>${brand.industry}</b> · 공개 등급 <b>${tierLabel(brand.tier)}</b> · 브랜드 평가 <b>${brand.rating} ★</b></p></div>
-    <img class="photo" src="${asset(brand.image)}" alt="${brand.name} 브랜드 이미지" decoding="async">
+    ${hasRealPhoto ? `<img class="photo" src="${asset(brand.image)}" alt="${brand.name} 브랜드 이미지" decoding="async">` : ""}
     ${logo}
   </section>
   <nav class="tabs">${tabs}</nav>
