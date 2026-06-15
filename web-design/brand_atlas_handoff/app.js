@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260617`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260618`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -615,7 +615,7 @@ function industryCard(i) {
 }
 
 function insightCard(i) {
-  const content = `<img src="${asset(i.image)}" alt="${i.brand} 브랜드 이미지" loading="lazy" decoding="async"><b>${i.brand}</b><p>${short(i.title, 92)}</p>`;
+  const content = `<img src="${asset(i.image)}" alt="${i.brand} 브랜드 이미지" loading="lazy" decoding="async"><b>${i.brand}</b><p>${short(i.title, 150)}</p>`;
   return i.slug ? `<a class="insight" href="${brandUrl(i)}">${content}</a>` : `<article class="insight">${content}</article>`;
 }
 
