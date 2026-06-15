@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260615`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260615b`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -427,7 +427,8 @@ function homeBrandPool(data) {
 function dailyHomeSelection(data) {
   const pool = homeBrandPool(data);
   const featurePool = pool.filter(b => b.image && !String(b.image).includes("brand_atlas_logo_mark")).slice(0, 160);
-  const featured = dailyPick(featurePool.length ? featurePool : pool, 1, "featured")[0] || data.featuredBrand;
+  const pinned = data.pinnedFeatured ? findBrand(data, data.pinnedFeatured) : null;
+  const featured = pinned || dailyPick(featurePool.length ? featurePool : pool, 1, "featured")[0] || data.featuredBrand;
   const cardPool = pool.filter(b => String(b.slug) !== String(featured?.slug)).slice(0, 260);
   const cards = dailyPick(cardPool, 5, "cards");
   const insightPool = pool
@@ -474,7 +475,7 @@ function dailyHomeSelection(data) {
       used.add(normalizeText(b.name));
     }
   }
-  return { featured, cards, insights, dateKey: dailyDisplayKey(), previewHref: dailyPreviewHref() };
+  return { featured, cards, insights, dateKey: dailyDisplayKey(), previewHref: dailyPreviewHref(), pinned: Boolean(pinned) };
 }
 
 function homeDomainCards(data) {
