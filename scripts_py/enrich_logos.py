@@ -95,7 +95,7 @@ def detect_ext(blob: bytes, fallback_name: str = "") -> str | None:
     return None
 
 
-def commons_filepath(filename: str, width: int = 512) -> str:
+def commons_filepath(filename: str, width: int = 1200) -> str:
     quoted = urllib.parse.quote(filename.replace(" ", "_"))
     base = f"https://commons.wikimedia.org/wiki/Special:FilePath/{quoted}"
     # raster files get downscaled; SVG ignores width param and serves source
