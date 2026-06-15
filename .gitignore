@@ -19,3 +19,7 @@ web-design/brand_atlas_handoff/reports/
 scripts_py/search_pass.log
 *.bak
 .omc/
+content-drafts/
+scripts_py/logo_enrich_*.log
+*.bak.*
+scripts_py/logo_fetch*.log
