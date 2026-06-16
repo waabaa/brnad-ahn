@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260618`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260619`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -229,7 +229,7 @@ function relatedBrands(brand, limit = 8) {
 function relatedLinks(brand) {
   const rows = relatedBrands(brand, 8);
   if (!rows.length) return "";
-  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}"><img src="${asset(b.image && !String(b.image).includes("brand_atlas_logo_mark") ? b.image : (b.logo || b.image))}" alt="${b.name}"><span>${b.industry} · ${tierLabel(b.tier)}</span><b>${b.name}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
+  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}">${cardThumb(b)}<span>${b.industry} · ${tierLabel(b.tier)}</span><b>${b.name}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
 }
 
 function short(text, length = 120) {
@@ -271,6 +271,22 @@ function logoMarkup(brand, variant = "panel") {
     <span class="wordmark-initials">${escapeHtml(brandInitials(brand))}</span>
     <strong>${escapeHtml(brand?.name || "")}</strong>
   </div>`;
+}
+
+// Thumbnail for brand cards/related links. Prefers a real logo, then a real
+// (non-placeholder) image, and otherwise falls back to the per-brand typographic
+// wordmark — never the generic "BA" placeholder mark, which read as broken.
+function isRealAsset(src) {
+  return !!src && !String(src).includes("brand_atlas_logo_mark");
+}
+function cardThumb(b, variant = "card") {
+  if (isRealAsset(b?.logo)) {
+    return `<img src="${asset(b.logo)}" alt="${escapeHtml(b.name)} 로고" loading="lazy" decoding="async">`;
+  }
+  if (isRealAsset(b?.image)) {
+    return `<img src="${asset(b.image)}" alt="${escapeHtml(b.name)}" loading="lazy" decoding="async">`;
+  }
+  return logoMarkup(b, variant);
 }
 
 function teaserText(text, length = 150) {

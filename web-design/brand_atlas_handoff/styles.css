@@ -72,7 +72,10 @@ body{color:#0f0f0f}.lead,.home-domain-card p,.brand-card p,#brandCards>.brand-ca
 .logo-archive .brand-wordmark{padding:8px}
 .logo-archive .brand-wordmark .wordmark-initials{width:64px;height:64px;font-size:26px}
 .logo-archive .brand-wordmark strong{font-size:13px}
-@media(max-width:900px){.brand-wordmark{padding:18px}.brand-wordmark .wordmark-initials{width:78px;height:78px;font-size:32px}.brand-wordmark strong{font-size:18px}}
+.related-card .brand-wordmark{height:150px;gap:8px;padding:14px;background:#fafafa}
+.related-card .brand-wordmark .wordmark-initials{width:56px;height:56px;font-size:22px}
+.related-card .brand-wordmark strong{font-size:14px;line-height:1.25}
+@media(max-width:900px){.brand-wordmark{padding:18px}.brand-wordmark .wordmark-initials{width:78px;height:78px;font-size:32px}.brand-wordmark strong{font-size:18px}.related-card .brand-wordmark{height:170px}}
 /* Brand listing: featured cards flow into a compact back-of-book index */
 .brand-index{grid-column:1/-1;width:100%;margin-top:8px;padding-top:26px;border-top:1px solid var(--line)}
 .brand-index-head{display:flex;align-items:baseline;gap:12px;margin-bottom:16px}
