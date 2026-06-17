@@ -1,6 +1,6 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260619`, { cache: "no-store" });
+  const res = await fetch(`${dataPath}?v=20260620`, { cache: "no-store" });
   return await res.json();
 }
 
@@ -456,6 +456,7 @@ function dailyHomeSelection(data) {
     image: b.image,
     title: b.sections?.insights?.body || b.insight || b.summary || b.definition,
     slug: b.slug,
+    urlSlug: b.urlSlug,
   }));
   if (insights.length < 3) {
     const used = new Set(insights.map(i => normalizeText(i.brand)));
@@ -469,6 +470,7 @@ function dailyHomeSelection(data) {
           image: row.image || match?.image,
           title: row.title,
           slug: match?.slug,
+          urlSlug: match?.urlSlug,
         };
       })
       .filter(row => row.brand && row.title && !used.has(normalizeText(row.brand)));
@@ -487,6 +489,7 @@ function dailyHomeSelection(data) {
         image: b.image,
         title: b.insight || b.summary || b.definition,
         slug: b.slug,
+        urlSlug: b.urlSlug,
       });
       used.add(normalizeText(b.name));
     }
