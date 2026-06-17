@@ -32,7 +32,7 @@
     "아이덴티티 아카이브"
   ],
   "stats": {
-    "brands": 1060,
+    "brands": 1086,
     "magazineBrands": 492,
     "aTier": 19,
     "sections": 5538,
@@ -53,7 +53,7 @@
       "id": "food-beverage",
       "name": "식음료",
       "nameEn": "Food & Beverage",
-      "count": 131,
+      "count": 136,
       "icon": "assets/objects/icon_food.png",
       "examples": [
         "맥도날드",
@@ -101,7 +101,7 @@
       "id": "media-entertainment",
       "name": "미디어·엔터테인먼트",
       "nameEn": "Media & Entertainment",
-      "count": 245,
+      "count": 253,
       "icon": "assets/objects/icon_media.png",
       "examples": [
         "JYP 엔터테인먼트",
@@ -117,7 +117,7 @@
       "id": "technology-electronics",
       "name": "기술·전자",
       "nameEn": "Technology & Electronics",
-      "count": 97,
+      "count": 99,
       "icon": "assets/objects/icon_tech.png",
       "examples": [
         "뱅앤올룹슨",
@@ -197,7 +197,7 @@
       "id": "health-pharma",
       "name": "헬스·제약",
       "nameEn": "Health & Pharma",
-      "count": 16,
+      "count": 20,
       "icon": "assets/objects/icon_health.png",
       "examples": [
         "니베아",
@@ -213,7 +213,7 @@
       "id": "travel-hospitality",
       "name": "여행·호스피탈리티",
       "nameEn": "Travel & Hospitality",
-      "count": 6,
+      "count": 7,
       "icon": "assets/objects/icon_travel.png",
       "examples": [
         "탐스",
@@ -228,7 +228,7 @@
       "id": "brand-business",
       "name": "브랜드·비즈니스",
       "nameEn": "Brand & Business",
-      "count": 230,
+      "count": 236,
       "icon": "assets/objects/brand_atlas_logo_mark.png",
       "examples": [
         "베스트 글로벌 브랜드",
@@ -131207,6 +131207,838 @@
       "publicReady": true,
       "displayPriority": "normal",
       "officialWebsite": "https://www.doosan.com/"
+    },
+    {
+      "id": 1234,
+      "slug": "line",
+      "urlSlug": "line",
+      "name": "라인",
+      "nameKo": "라인",
+      "nameEn": "LINE",
+      "definition": "라인(LINE)은 2011년 네이버 일본법인이 출시한 모바일 메신저로, 일본·대만·태국 등에서 국민 메신저로 자리 잡았다. 현재 운영사는 LY Corporation이다.",
+      "summary": "라인(LINE)은 2011년 네이버 일본법인이 출시한 모바일 메신저로, 일본·대만·태국 등에서 국민 메신저로 자리 잡았다. 현재 운영사는 LY Corporation이다.",
+      "industry": "기술·전자",
+      "domainSlug": "technology-electronics",
+      "tier": "C_source_backed",
+      "rating": 4.5,
+      "image": "",
+      "logo": "",
+      "insight": "일본·대만·태국·인도네시아 등에서 국민 메신저로 쓰이는 슈퍼앱으로, 무료 통화·메시지에서 출발해 페이·콘텐츠·게임으로 확장했다. 한국 네이버에서 출발한 글로벌 메신저라는 점이 특징이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "라인(LINE)은 모바일 메신저다. 2011년 네이버의 일본 자회사(NHN Japan)가 동일본 대지진 당시 통신 대란 대응으로 빠르게 개발해 출시했다. 이후 일본 야후와의 통합을 거쳐 현재는 소프트뱅크와 네이버의 합작 지배구조 아래 LY Corporation이 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "일본·대만·태국·인도네시아 등에서 국민 메신저로 쓰이는 슈퍼앱으로, 무료 통화·메시지에서 출발해 페이·콘텐츠·게임으로 확장했다. 한국 네이버에서 출발한 글로벌 메신저라는 점이 특징이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://line.me/"
+    },
+    {
+      "id": 1235,
+      "slug": "dunamu",
+      "urlSlug": "dunamu",
+      "name": "두나무",
+      "nameKo": "두나무",
+      "nameEn": "Dunamu",
+      "definition": "두나무(Dunamu)는 한국 1위 암호화폐 거래소 업비트(Upbit)를 운영하는 핀테크·블록체인 기업으로, 2012년 송치형이 창업했다.",
+      "summary": "두나무(Dunamu)는 한국 1위 암호화폐 거래소 업비트(Upbit)를 운영하는 핀테크·블록체인 기업으로, 2012년 송치형이 창업했다.",
+      "industry": "기술·전자",
+      "domainSlug": "technology-electronics",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 1위 암호화폐 거래소 업비트를 운영하는 기업으로, 출시 직후 세계 최대급 거래량을 기록하며 한국 가상자산 시장을 대표하는 핀테크 스타트업으로 성장했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "두나무(Dunamu)는 한국의 핀테크·블록체인 기업이다. 2012년 송치형이 창업했으며, 2017년 암호화폐 거래소 업비트(Upbit)를 출시했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 1위 암호화폐 거래소 업비트를 운영하는 기업으로, 출시 직후 세계 최대급 거래량을 기록하며 한국 가상자산 시장을 대표하는 핀테크 스타트업으로 성장했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.dunamu.com/"
+    },
+    {
+      "id": 1236,
+      "slug": "toss-bank",
+      "urlSlug": "toss-bank",
+      "name": "토스뱅크",
+      "nameKo": "토스뱅크",
+      "nameEn": "Toss Bank",
+      "definition": "토스뱅크(Toss Bank)는 비바리퍼블리카(토스)가 모회사인 인터넷전문은행으로, 2021년 영업을 시작한 한국의 세 번째 인터넷은행이다.",
+      "summary": "토스뱅크(Toss Bank)는 비바리퍼블리카(토스)가 모회사인 인터넷전문은행으로, 2021년 영업을 시작한 한국의 세 번째 인터넷은행이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "지점 없는 디지털 전용 은행으로, 토스 슈퍼앱 생태계와 결합해 빠르게 고객을 늘렸다. 케이뱅크·카카오뱅크에 이은 한국 세 번째 인터넷전문은행이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "토스뱅크(Toss Bank)는 한국의 인터넷전문은행이다. 간편송금 앱 토스를 운영하는 비바리퍼블리카(2013년 설립)가 모회사이며, 2021년 10월 영업을 시작했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "지점 없는 디지털 전용 은행으로, 토스 슈퍼앱 생태계와 결합해 빠르게 고객을 늘렸다. 케이뱅크·카카오뱅크에 이은 한국 세 번째 인터넷전문은행이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.tossbank.com/"
+    },
+    {
+      "id": 1237,
+      "slug": "yanolja",
+      "urlSlug": "yanolja",
+      "name": "야놀자",
+      "nameKo": "야놀자",
+      "nameEn": "Yanolja",
+      "definition": "야놀자(Yanolja)는 2005년 이수진이 창업한 한국 1위 숙박·여행 예약 플랫폼이자 트래블 테크 기업이다.",
+      "summary": "야놀자(Yanolja)는 2005년 이수진이 창업한 한국 1위 숙박·여행 예약 플랫폼이자 트래블 테크 기업이다.",
+      "industry": "여행·호스피탈리티",
+      "domainSlug": "travel-hospitality",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 1위 숙박·여행 예약 플랫폼으로, 소프트뱅크 비전펀드 등 대규모 투자를 유치하며 글로벌 트래블 테크 기업으로 성장했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "야놀자(Yanolja)는 한국의 대표 여행·레저 플랫폼이다. 2005년 이수진이 모텔 정보 온라인 카페에서 출발해 숙박·여행 예약 플랫폼으로 키웠다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 1위 숙박·여행 예약 플랫폼으로, 소프트뱅크 비전펀드 등 대규모 투자를 유치하며 글로벌 트래블 테크 기업으로 성장했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.yanolja.com/"
+    },
+    {
+      "id": 1238,
+      "slug": "smilegate",
+      "urlSlug": "smilegate",
+      "name": "스마일게이트",
+      "nameKo": "스마일게이트",
+      "nameEn": "Smilegate",
+      "definition": "스마일게이트(Smilegate)는 2002년 권혁빈이 설립한 한국의 게임 기업으로, 크로스파이어와 로스트아크로 알려져 있다.",
+      "summary": "스마일게이트(Smilegate)는 2002년 권혁빈이 설립한 한국의 게임 기업으로, 크로스파이어와 로스트아크로 알려져 있다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "FPS 크로스파이어(CrossFire)는 중국 등에서 큰 성공을 거뒀고, MMORPG 로스트아크(Lost Ark)와 모바일 RPG 에픽세븐 등을 대표작으로 하는 한국의 주요 게임사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "스마일게이트(Smilegate)는 2002년 권혁빈이 설립한 한국의 게임 개발·퍼블리싱 기업으로, 스마일게이트홀딩스 지주 체제다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "FPS 크로스파이어(CrossFire)는 중국 등에서 큰 성공을 거뒀고, MMORPG 로스트아크(Lost Ark)와 모바일 RPG 에픽세븐 등을 대표작으로 하는 한국의 주요 게임사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.smilegate.com/"
+    },
+    {
+      "id": 1239,
+      "slug": "com2us",
+      "urlSlug": "com2us",
+      "name": "컴투스",
+      "nameKo": "컴투스",
+      "nameEn": "Com2uS",
+      "definition": "컴투스(Com2uS)는 1998년 설립된 한국의 모바일 게임 기업으로, 서머너즈워(Summoners War)로 잘 알려져 있다.",
+      "summary": "컴투스(Com2uS)는 1998년 설립된 한국의 모바일 게임 기업으로, 서머너즈워(Summoners War)로 잘 알려져 있다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "글로벌 흥행작 서머너즈워(Summoners War) 시리즈를 대표작으로 하는 한국의 모바일 게임 명가로, 일찍부터 글로벌 시장을 공략해 온 모바일 게임 선구 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "컴투스(Com2uS)는 1998년 설립된 한국의 모바일·온라인 게임 기업으로, 컴투스홀딩스(옛 게임빌) 계열이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "글로벌 흥행작 서머너즈워(Summoners War) 시리즈를 대표작으로 하는 한국의 모바일 게임 명가로, 일찍부터 글로벌 시장을 공략해 온 모바일 게임 선구 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.com2us.com/"
+    },
+    {
+      "id": 1240,
+      "slug": "wemade",
+      "urlSlug": "wemade",
+      "name": "위메이드",
+      "nameKo": "위메이드",
+      "nameEn": "Wemade",
+      "definition": "위메이드(Wemade)는 2000년 박관호가 설립한 한국의 게임 기업으로, 미르의 전설 시리즈로 알려져 있다.",
+      "summary": "위메이드(Wemade)는 2000년 박관호가 설립한 한국의 게임 기업으로, 미르의 전설 시리즈로 알려져 있다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "MMORPG 미르의 전설(The Legend of Mir) 시리즈로 중국 등에서 큰 성공을 거뒀으며, 사명 'Wemade'는 '우리가 미르의 전설을 만들었다'는 의미에서 유래했다. 최근 블록체인 게임 사업도 추진한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "위메이드(Wemade)는 2000년 박관호가 설립한 한국의 게임 개발·퍼블리싱 기업이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "MMORPG 미르의 전설(The Legend of Mir) 시리즈로 중국 등에서 큰 성공을 거뒀으며, 사명 'Wemade'는 '우리가 미르의 전설을 만들었다'는 의미에서 유래했다. 최근 블록체인 게임 사업도 추진한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.wemade.com/"
+    },
+    {
+      "id": 1241,
+      "slug": "webzen",
+      "urlSlug": "webzen",
+      "name": "웹젠",
+      "nameKo": "웹젠",
+      "nameEn": "Webzen",
+      "definition": "웹젠(Webzen)은 2000년 설립된 한국의 게임 기업으로, 3D MMORPG 뮤 온라인(MU Online)으로 알려져 있다.",
+      "summary": "웹젠(Webzen)은 2000년 설립된 한국의 게임 기업으로, 3D MMORPG 뮤 온라인(MU Online)으로 알려져 있다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "2001년 출시한 3D MMORPG 뮤 온라인(MU Online)을 대표 IP로 하며, 뮤 레전드·뮤 오리진 등 뮤 IP를 다방면으로 확장해 온 한국의 MMORPG 전문 게임사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "웹젠(Webzen)은 2000년 설립된 한국의 게임 개발·퍼블리싱 기업이다. 2010년 NHN게임즈와 합병했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "2001년 출시한 3D MMORPG 뮤 온라인(MU Online)을 대표 IP로 하며, 뮤 레전드·뮤 오리진 등 뮤 IP를 다방면으로 확장해 온 한국의 MMORPG 전문 게임사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.webzen.com/"
+    },
+    {
+      "id": 1242,
+      "slug": "cj-enm",
+      "urlSlug": "cj-enm",
+      "name": "CJ ENM",
+      "nameKo": "CJ ENM",
+      "nameEn": "CJ ENM",
+      "definition": "CJ ENM은 CJ그룹 계열의 종합 엔터테인먼트·미디어 기업으로, 2018년 CJ E&M과 CJ오쇼핑의 합병으로 출범했다.",
+      "summary": "CJ ENM은 CJ그룹 계열의 종합 엔터테인먼트·미디어 기업으로, 2018년 CJ E&M과 CJ오쇼핑의 합병으로 출범했다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.5,
+      "image": "",
+      "logo": "",
+      "insight": "드라마·영화·음악·예능 등 K-콘텐츠를 글로벌하게 제작·배급하는 핵심 기업으로, tvN·Mnet 등 채널과 음악 레이블을 거느리며 한류 콘텐츠 산업을 이끈다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "CJ ENM(CJ Entertainment and Merchandising)은 CJ그룹 계열의 엔터테인먼트·미디어·커머스 기업이다. 2018년 7월 CJ E&M과 CJ오쇼핑의 합병으로 출범했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "드라마·영화·음악·예능 등 K-콘텐츠를 글로벌하게 제작·배급하는 핵심 기업으로, tvN·Mnet 등 채널과 음악 레이블을 거느리며 한류 콘텐츠 산업을 이끈다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.cjenm.com/"
+    },
+    {
+      "id": 1243,
+      "slug": "tvn",
+      "urlSlug": "tvn",
+      "name": "tvN",
+      "nameKo": "tvN",
+      "nameEn": "tvN",
+      "definition": "tvN은 CJ ENM이 운영하는 종합 엔터테인먼트 케이블 채널로, 2006년 개국했다.",
+      "summary": "tvN은 CJ ENM이 운영하는 종합 엔터테인먼트 케이블 채널로, 2006년 개국했다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "〈도깨비〉·〈응답하라 1988〉·〈사랑의 불시착〉·〈눈물의 여왕〉 등 화제의 드라마와 〈유 퀴즈 온 더 블럭〉 같은 예능으로 한국 케이블 채널을 대표하는 브랜드가 됐다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "tvN은 CJ ENM 계열의 케이블 종합 엔터테인먼트 채널이다. 2006년 10월 개국했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "〈도깨비〉·〈응답하라 1988〉·〈사랑의 불시착〉·〈눈물의 여왕〉 등 화제의 드라마와 〈유 퀴즈 온 더 블럭〉 같은 예능으로 한국 케이블 채널을 대표하는 브랜드가 됐다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://tvn.cjenm.com/"
+    },
+    {
+      "id": 1244,
+      "slug": "sbs",
+      "urlSlug": "sbs",
+      "name": "SBS",
+      "nameKo": "SBS",
+      "nameEn": "SBS",
+      "definition": "SBS(Seoul Broadcasting System)는 1990년 설립된 한국 최대의 민영 지상파 방송사다.",
+      "summary": "SBS(Seoul Broadcasting System)는 1990년 설립된 한국 최대의 민영 지상파 방송사다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최대의 민영 지상파 방송사로, 〈모래시계〉를 비롯한 드라마와 예능으로 한류 확산에 기여해 온 대표 방송 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "SBS(Seoul Broadcasting System, 서울방송)는 한국의 민영 지상파 방송사다. 1990년 법인이 설립돼 1991년 방송을 시작했으며, 태영그룹이 최대주주다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최대의 민영 지상파 방송사로, 〈모래시계〉를 비롯한 드라마와 예능으로 한류 확산에 기여해 온 대표 방송 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.sbs.co.kr/"
+    },
+    {
+      "id": 1245,
+      "slug": "studio-dragon",
+      "urlSlug": "studio-dragon",
+      "name": "스튜디오드래곤",
+      "nameKo": "스튜디오드래곤",
+      "nameEn": "Studio Dragon",
+      "definition": "스튜디오드래곤(Studio Dragon)은 CJ ENM 계열의 드라마 제작 스튜디오로, 2016년 설립됐다.",
+      "summary": "스튜디오드래곤(Studio Dragon)은 CJ ENM 계열의 드라마 제작 스튜디오로, 2016년 설립됐다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "〈사랑의 불시착〉·〈사이코지만 괜찮아〉·〈환혼〉·〈눈물의 여왕〉 등 글로벌 흥행 K-드라마를 제작하는 한국 대표 드라마 스튜디오로, 넷플릭스 등과 협업해 콘텐츠를 세계에 공급한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "스튜디오드래곤(Studio Dragon)은 CJ ENM 자회사인 드라마 제작 스튜디오다. 2016년 CJ E&M 드라마 사업부가 분사해 설립됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "〈사랑의 불시착〉·〈사이코지만 괜찮아〉·〈환혼〉·〈눈물의 여왕〉 등 글로벌 흥행 K-드라마를 제작하는 한국 대표 드라마 스튜디오로, 넷플릭스 등과 협업해 콘텐츠를 세계에 공급한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.studiodragon.net/"
+    },
+    {
+      "id": 1246,
+      "slug": "dongwon",
+      "urlSlug": "dongwon",
+      "name": "동원",
+      "nameKo": "동원",
+      "nameEn": "Dongwon",
+      "definition": "동원(Dongwon)은 동원참치로 유명한 한국의 수산·종합식품 기업으로, 동원그룹 모태는 1969년 창업했다.",
+      "summary": "동원(Dongwon)은 동원참치로 유명한 한국의 수산·종합식품 기업으로, 동원그룹 모태는 1969년 창업했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "동원참치 캔으로 한국 참치 통조림 시장을 대표하는 기업으로, 양반김·리챔 등으로 종합식품 영역을 넓혀 왔다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "동원(Dongwon)은 한국의 수산·종합식품 기업이다. 그룹 모태인 동원산업은 1969년 창업했고, 식품 사업회사 동원F&B는 2000년 설립됐다. 동원참치 통조림은 1982년 출시됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "동원참치 캔으로 한국 참치 통조림 시장을 대표하는 기업으로, 양반김·리챔 등으로 종합식품 영역을 넓혀 왔다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.dongwon.com/"
+    },
+    {
+      "id": 1247,
+      "slug": "paris-baguette",
+      "urlSlug": "paris-baguette",
+      "name": "파리바게뜨",
+      "nameKo": "파리바게뜨",
+      "nameEn": "Paris Baguette",
+      "definition": "파리바게뜨(Paris Baguette)는 SPC그룹의 파리크라상이 운영하는 한국 1위 베이커리 프랜차이즈로, 1988년 출범했다.",
+      "summary": "파리바게뜨(Paris Baguette)는 SPC그룹의 파리크라상이 운영하는 한국 1위 베이커리 프랜차이즈로, 1988년 출범했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "바게트·크루아상·케이크 등을 앞세운 한국 1위 베이커리 프랜차이즈로, 국내 수천 개 매장과 함께 미국·중국·동남아 등 해외로 진출해 K-베이커리를 대표한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "파리바게뜨(Paris Baguette)는 SPC그룹 계열 파리크라상이 운영하는 베이커리 프랜차이즈다. 1988년 출범했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "바게트·크루아상·케이크 등을 앞세운 한국 1위 베이커리 프랜차이즈로, 국내 수천 개 매장과 함께 미국·중국·동남아 등 해외로 진출해 K-베이커리를 대표한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.paris.co.kr/"
+    },
+    {
+      "id": 1248,
+      "slug": "bbq",
+      "urlSlug": "bbq",
+      "name": "BBQ",
+      "nameKo": "BBQ",
+      "nameEn": "Genesis BBQ",
+      "definition": "BBQ(제너시스BBQ)는 1995년 창업한 한국의 치킨 프랜차이즈로, 'bb.q'는 'Best of the Best Quality'의 약자다.",
+      "summary": "BBQ(제너시스BBQ)는 1995년 창업한 한국의 치킨 프랜차이즈로, 'bb.q'는 'Best of the Best Quality'의 약자다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "프라이드 치킨을 앞세워 빠르게 성장한 한국 치킨 프랜차이즈로, 수십 개국에 진출하며 K-치킨의 세계화를 이끄는 대표 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "BBQ(제너시스BBQ)는 한국의 대표 치킨 프랜차이즈다. 1995년 창업했으며, 브랜드명 'bb.q'는 'Best of the Best Quality'를 뜻한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "프라이드 치킨을 앞세워 빠르게 성장한 한국 치킨 프랜차이즈로, 수십 개국에 진출하며 K-치킨의 세계화를 이끄는 대표 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.bbq.co.kr/"
+    },
+    {
+      "id": 1249,
+      "slug": "twosome-place",
+      "urlSlug": "twosome-place",
+      "name": "투썸플레이스",
+      "nameKo": "투썸플레이스",
+      "nameEn": "A Twosome Place",
+      "definition": "투썸플레이스(A Twosome Place)는 2002년 출범한 한국의 프리미엄 디저트 카페 브랜드로, 현재 칼라일그룹이 소유한다.",
+      "summary": "투썸플레이스(A Twosome Place)는 2002년 출범한 한국의 프리미엄 디저트 카페 브랜드로, 현재 칼라일그룹이 소유한다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "커피와 케이크 등 디저트의 페어링을 강조한 프리미엄 카페로, 국내 주요 디저트 카페 브랜드로 자리 잡았다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "투썸플레이스(A Twosome Place)는 한국의 디저트 카페 브랜드다. 2002년 CJ푸드빌에서 출발해 2018년 분사했고, 2021년 칼라일그룹이 인수했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "커피와 케이크 등 디저트의 페어링을 강조한 프리미엄 카페로, 국내 주요 디저트 카페 브랜드로 자리 잡았다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.twosome.co.kr/"
+    },
+    {
+      "id": 1250,
+      "slug": "ediya-coffee",
+      "urlSlug": "ediya-coffee",
+      "name": "이디야커피",
+      "nameKo": "이디야커피",
+      "nameEn": "Ediya Coffee",
+      "definition": "이디야커피(Ediya Coffee)는 2001년 시작된 한국의 저가 커피 프랜차이즈로, 합리적 가격과 다점포 전략으로 알려져 있다.",
+      "summary": "이디야커피(Ediya Coffee)는 2001년 시작된 한국의 저가 커피 프랜차이즈로, 합리적 가격과 다점포 전략으로 알려져 있다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "합리적 가격과 소형 입지 중심의 다점포 전략으로 한때 국내 최다 매장 규모를 이룬 커피 프랜차이즈로, 가성비 커피의 대중화를 이끌었다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "이디야커피(Ediya Coffee)는 한국의 커피 프랜차이즈다. 2001년 1호점을 열었다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "합리적 가격과 소형 입지 중심의 다점포 전략으로 한때 국내 최다 매장 규모를 이룬 커피 프랜차이즈로, 가성비 커피의 대중화를 이끌었다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ediya.com/"
+    },
+    {
+      "id": 1251,
+      "slug": "hanmi-pharm",
+      "urlSlug": "hanmi-pharm",
+      "name": "한미약품",
+      "nameKo": "한미약품",
+      "nameEn": "Hanmi Pharmaceutical",
+      "definition": "한미약품(Hanmi Pharmaceutical)은 1973년 임성기가 설립한 한국의 제약 기업으로, 신약 기술수출로 잘 알려져 있다.",
+      "summary": "한미약품(Hanmi Pharmaceutical)은 1973년 임성기가 설립한 한국의 제약 기업으로, 신약 기술수출로 잘 알려져 있다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "아모잘탄 등 개량·복합신약과 글로벌 제약사로의 대형 기술수출(라이선싱)로 주목받은 한국의 대표 제약 기업으로, 신약 연구개발에 강점을 둔다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한미약품(Hanmi Pharmaceutical)은 1973년 임성기가 설립한 한국의 제약 기업으로, 한미사이언스 지주 체제다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "아모잘탄 등 개량·복합신약과 글로벌 제약사로의 대형 기술수출(라이선싱)로 주목받은 한국의 대표 제약 기업으로, 신약 연구개발에 강점을 둔다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hanmi.co.kr/"
+    },
+    {
+      "id": 1252,
+      "slug": "chong-kun-dang",
+      "urlSlug": "chong-kun-dang",
+      "name": "종근당",
+      "nameKo": "종근당",
+      "nameEn": "Chong Kun Dang",
+      "definition": "종근당(Chong Kun Dang)은 1941년 창업한 한국의 대형 제약 기업이다.",
+      "summary": "종근당(Chong Kun Dang)은 1941년 창업한 한국의 대형 제약 기업이다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "오랜 역사를 지닌 한국 대형 제약사로, 1968년 한국 제약사 최초로 미국 FDA 판매 승인을 받았고 최근 글로벌 제약사로의 대형 신약 기술수출로도 주목받았다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "종근당(Chong Kun Dang)은 한국의 대형 제약 기업이다. 1941년 창업했으며, 종근당홀딩스 지주 체제다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "오랜 역사를 지닌 한국 대형 제약사로, 1968년 한국 제약사 최초로 미국 FDA 판매 승인을 받았고 최근 글로벌 제약사로의 대형 신약 기술수출로도 주목받았다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ckdpharm.com/"
+    },
+    {
+      "id": 1253,
+      "slug": "gc-biopharma",
+      "urlSlug": "gc-biopharma",
+      "name": "GC녹십자",
+      "nameKo": "GC녹십자",
+      "nameEn": "GC Biopharma",
+      "definition": "GC녹십자(GC Biopharma, 옛 녹십자)는 1967년 설립된 한국의 바이오제약 기업으로, 혈액제제와 백신으로 알려져 있다.",
+      "summary": "GC녹십자(GC Biopharma, 옛 녹십자)는 1967년 설립된 한국의 바이오제약 기업으로, 혈액제제와 백신으로 알려져 있다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "혈장분획제제(혈액제제) 분야의 세계적 기업으로, 세계 세 번째 B형 간염 백신과 세계 최초 유행성출혈열 백신을 개발한 백신·혈액제제 강자다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "GC녹십자(GC Biopharma)는 한국의 바이오제약 기업이다. 1967년 설립돼 1971년 녹십자로 사명을 바꿨으며, 녹십자홀딩스 지주 체제다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "혈장분획제제(혈액제제) 분야의 세계적 기업으로, 세계 세 번째 B형 간염 백신과 세계 최초 유행성출혈열 백신을 개발한 백신·혈액제제 강자다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.gcbiopharma.com/"
+    },
+    {
+      "id": 1254,
+      "slug": "kwangdong-pharm",
+      "urlSlug": "kwangdong-pharm",
+      "name": "광동제약",
+      "nameKo": "광동제약",
+      "nameEn": "Kwangdong Pharmaceutical",
+      "definition": "광동제약(Kwangdong Pharmaceutical)은 1963년 창업한 한국의 제약·음료 기업으로, 비타500과 옥수수수염차로 유명하다.",
+      "summary": "광동제약(Kwangdong Pharmaceutical)은 1963년 창업한 한국의 제약·음료 기업으로, 비타500과 옥수수수염차로 유명하다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "비타민C 음료 비타500(2001)과 옥수수수염차(2006)로 음료 시장에서 큰 성공을 거뒀고, 쌍화탕·우황청심원 등 한방 제품으로도 잘 알려진 제약·음료 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "광동제약(Kwangdong Pharmaceutical)은 한국의 제약·음료 기업이다. 1963년 창업했으며, 한방 제품과 건강음료에 강점을 둔다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "비타민C 음료 비타500(2001)과 옥수수수염차(2006)로 음료 시장에서 큰 성공을 거뒀고, 쌍화탕·우황청심원 등 한방 제품으로도 잘 알려진 제약·음료 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ekdp.com/"
+    },
+    {
+      "id": 1255,
+      "slug": "s-oil",
+      "urlSlug": "s-oil",
+      "name": "에쓰오일",
+      "nameKo": "에쓰오일",
+      "nameEn": "S-Oil",
+      "definition": "에쓰오일(S-Oil)은 사우디 아람코가 최대주주인 한국의 정유 기업으로, 1976년 설립돼 2000년 현 사명이 됐다.",
+      "summary": "에쓰오일(S-Oil)은 사우디 아람코가 최대주주인 한국의 정유 기업으로, 1976년 설립돼 2000년 현 사명이 됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "울산 온산 정유공장을 기반으로 한 한국 4대 정유사 중 하나로, 사우디 아람코가 지배주주인 점이 특징이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "에쓰오일(S-Oil)은 한국의 정유 기업이다. 1976년 한이석유로 출발해 쌍용정유를 거쳐 2000년 S-Oil로 사명을 바꿨으며, 사우디 아람코가 최대주주다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "울산 온산 정유공장을 기반으로 한 한국 4대 정유사 중 하나로, 사우디 아람코가 지배주주인 점이 특징이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.s-oil.com/"
+    },
+    {
+      "id": 1256,
+      "slug": "lotte-chemical",
+      "urlSlug": "lotte-chemical",
+      "name": "롯데케미칼",
+      "nameKo": "롯데케미칼",
+      "nameEn": "Lotte Chemical",
+      "definition": "롯데케미칼(Lotte Chemical)은 롯데그룹 계열의 한국 대표 석유화학 기업으로, 1976년 호남석유화학으로 출발했다.",
+      "summary": "롯데케미칼(Lotte Chemical)은 롯데그룹 계열의 한국 대표 석유화학 기업으로, 1976년 호남석유화학으로 출발했다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "합성수지 등 기초 석유화학 제품을 생산하는 한국 대표 석유화학 기업으로, 롯데그룹의 핵심 계열사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "롯데케미칼(Lotte Chemical)은 롯데그룹 계열의 석유화학 기업이다. 1976년 호남석유화학으로 설립돼 1979년 롯데그룹에 편입됐고, 2012년 KP케미칼 합병과 함께 롯데케미칼로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "합성수지 등 기초 석유화학 제품을 생산하는 한국 대표 석유화학 기업으로, 롯데그룹의 핵심 계열사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.lottechem.com/"
+    },
+    {
+      "id": 1257,
+      "slug": "hanwha-solutions",
+      "urlSlug": "hanwha-solutions",
+      "name": "한화솔루션",
+      "nameKo": "한화솔루션",
+      "nameEn": "Hanwha Solutions",
+      "definition": "한화솔루션(Hanwha Solutions)은 한화그룹 계열의 석유화학·신재생에너지 기업으로, 2020년 한화케미칼에서 사명을 바꿨다.",
+      "summary": "한화솔루션(Hanwha Solutions)은 한화그룹 계열의 석유화학·신재생에너지 기업으로, 2020년 한화케미칼에서 사명을 바꿨다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "석유화학과 함께 태양광 사업(한화 큐셀)을 보유한 통합 기업으로, 태양광 셀·모듈 분야에서 글로벌 경쟁력을 갖춘 한화그룹의 핵심 계열사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한화솔루션(Hanwha Solutions)은 한화그룹 계열의 석유화학·태양광 기업이다. 1965년 설립된 한화케미칼이 2020년 한화큐셀앤드첨단소재와 합병하며 한화솔루션이 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "석유화학과 함께 태양광 사업(한화 큐셀)을 보유한 통합 기업으로, 태양광 셀·모듈 분야에서 글로벌 경쟁력을 갖춘 한화그룹의 핵심 계열사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hanwhasolutions.com/"
+    },
+    {
+      "id": 1258,
+      "slug": "hyosung",
+      "urlSlug": "hyosung",
+      "name": "효성",
+      "nameKo": "효성",
+      "nameEn": "Hyosung",
+      "definition": "효성(Hyosung)은 섬유·중공업·화학을 아우르는 한국의 복합 기업집단으로, 1966년 동양나일론에 뿌리를 둔다.",
+      "summary": "효성(Hyosung)은 섬유·중공업·화학을 아우르는 한국의 복합 기업집단으로, 1966년 동양나일론에 뿌리를 둔다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "스판덱스 브랜드 크레오라(CREORA)로 세계 스판덱스 시장 점유율 1위를 지키는 한편, 초고압 변압기·전력기기와 탄소섬유 등 중공업·소재 사업을 아우르는 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "효성(Hyosung)은 한국의 복합 기업집단이다. 1966년 동양나일론에서 출발했으며, 2018년 지주회사 체제로 전환했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "스판덱스 브랜드 크레오라(CREORA)로 세계 스판덱스 시장 점유율 1위를 지키는 한편, 초고압 변압기·전력기기와 탄소섬유 등 중공업·소재 사업을 아우르는 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hyosung.com/"
+    },
+    {
+      "id": 1259,
+      "slug": "hyundai-enc",
+      "urlSlug": "hyundai-enc",
+      "name": "현대건설",
+      "nameKo": "현대건설",
+      "nameEn": "Hyundai E&C",
+      "definition": "현대건설(Hyundai E&C)은 1947년 설립된 한국의 대표 건설 기업으로, 현대그룹의 모태이자 현재는 현대자동차그룹 계열이다.",
+      "summary": "현대건설(Hyundai E&C)은 1947년 설립된 한국의 대표 건설 기업으로, 현대그룹의 모태이자 현재는 현대자동차그룹 계열이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 재벌의 기원이 된 현대그룹의 모태 기업으로, 1970~80년대 중동 건설을 개척했고 카타르 국립박물관 등 대형 프로젝트를 수행했다. 아파트 브랜드 힐스테이트(HILLSTATE)를 보유한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "현대건설(Hyundai Engineering & Construction)은 한국의 대표 건설 기업이다. 1947년 현대토건사로 창업해 현대그룹의 모태가 됐고, 2011년 현대자동차그룹에 인수됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 재벌의 기원이 된 현대그룹의 모태 기업으로, 1970~80년대 중동 건설을 개척했고 카타르 국립박물관 등 대형 프로젝트를 수행했다. 아파트 브랜드 힐스테이트(HILLSTATE)를 보유한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hdec.kr/"
     }
   ],
   "koreanSources": [
