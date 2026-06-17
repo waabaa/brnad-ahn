@@ -32,7 +32,7 @@
     "아이덴티티 아카이브"
   ],
   "stats": {
-    "brands": 1086,
+    "brands": 1114,
     "magazineBrands": 492,
     "aTier": 19,
     "sections": 5538,
@@ -53,7 +53,7 @@
       "id": "food-beverage",
       "name": "식음료",
       "nameEn": "Food & Beverage",
-      "count": 136,
+      "count": 141,
       "icon": "assets/objects/icon_food.png",
       "examples": [
         "맥도날드",
@@ -69,7 +69,7 @@
       "id": "retail-commerce",
       "name": "리테일·커머스",
       "nameEn": "Retail & Commerce",
-      "count": 93,
+      "count": 97,
       "icon": "assets/objects/icon_retail.png",
       "examples": [
         "유니클로",
@@ -101,7 +101,7 @@
       "id": "media-entertainment",
       "name": "미디어·엔터테인먼트",
       "nameEn": "Media & Entertainment",
-      "count": 253,
+      "count": 256,
       "icon": "assets/objects/icon_media.png",
       "examples": [
         "JYP 엔터테인먼트",
@@ -133,7 +133,7 @@
       "id": "beauty-personal-care",
       "name": "뷰티·퍼스널케어",
       "nameEn": "Beauty & Personal Care",
-      "count": 39,
+      "count": 44,
       "icon": "assets/objects/icon_beauty.png",
       "examples": [
         "더바디샵",
@@ -181,7 +181,7 @@
       "id": "home-lifestyle",
       "name": "홈·라이프스타일",
       "nameEn": "Home & Lifestyle",
-      "count": 34,
+      "count": 35,
       "icon": "assets/objects/icon_home.png",
       "examples": [
         "빅",
@@ -213,7 +213,7 @@
       "id": "travel-hospitality",
       "name": "여행·호스피탈리티",
       "nameEn": "Travel & Hospitality",
-      "count": 7,
+      "count": 9,
       "icon": "assets/objects/icon_travel.png",
       "examples": [
         "탐스",
@@ -228,7 +228,7 @@
       "id": "brand-business",
       "name": "브랜드·비즈니스",
       "nameEn": "Brand & Business",
-      "count": 236,
+      "count": 244,
       "icon": "assets/objects/brand_atlas_logo_mark.png",
       "examples": [
         "베스트 글로벌 브랜드",
@@ -132039,6 +132039,902 @@
       "publicReady": true,
       "displayPriority": "normal",
       "officialWebsite": "https://www.hdec.kr/"
+    },
+    {
+      "id": 1260,
+      "slug": "hyundai-department-store",
+      "urlSlug": "hyundai-department-store",
+      "name": "현대백화점",
+      "nameKo": "현대백화점",
+      "nameEn": "Hyundai Department Store",
+      "definition": "현대백화점(Hyundai Department Store)은 현대백화점그룹의 백화점 기업으로, 롯데·신세계와 함께 한국 3대 백화점으로 꼽힌다.",
+      "summary": "현대백화점(Hyundai Department Store)은 현대백화점그룹의 백화점 기업으로, 롯데·신세계와 함께 한국 3대 백화점으로 꼽힌다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "롯데·신세계와 함께 한국 3대 백화점으로 꼽히는 프리미엄 유통 브랜드로, 압구정 본점을 비롯한 백화점과 아울렛·면세 사업을 운영한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "현대백화점(Hyundai Department Store)은 현대백화점그룹의 핵심 백화점 기업이다. 모태인 금강개발산업은 1971년 설립됐고, 백화점 1호점은 1977년 열었으며 현대그룹에서 1999년 분리됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "롯데·신세계와 함께 한국 3대 백화점으로 꼽히는 프리미엄 유통 브랜드로, 압구정 본점을 비롯한 백화점과 아울렛·면세 사업을 운영한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ehyundai.com/"
+    },
+    {
+      "id": 1261,
+      "slug": "cu",
+      "urlSlug": "cu",
+      "name": "CU",
+      "nameKo": "CU",
+      "nameEn": "CU",
+      "definition": "CU(씨유)는 BGF리테일이 운영하는 한국 1위 편의점 체인으로, 2012년 패밀리마트에서 독자 브랜드로 전환했다.",
+      "summary": "CU(씨유)는 BGF리테일이 운영하는 한국 1위 편의점 체인으로, 2012년 패밀리마트에서 독자 브랜드로 전환했다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "점포 수 기준 한국 1위 편의점 체인으로, 패밀리마트 라이선스를 종료하고 독자 브랜드화한 뒤 PB 상품과 해외 진출로 확장했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "CU(씨유)는 BGF리테일이 운영하는 편의점 체인이다. 1990년 국내에 들어온 패밀리마트를 2012년 'CU'로 리브랜딩해 한국형 편의점 독자 브랜드로 전환했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "점포 수 기준 한국 1위 편의점 체인으로, 패밀리마트 라이선스를 종료하고 독자 브랜드화한 뒤 PB 상품과 해외 진출로 확장했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://cu.bgfretail.com/"
+    },
+    {
+      "id": 1262,
+      "slug": "7-eleven-korea",
+      "urlSlug": "7-eleven-korea",
+      "name": "세븐일레븐",
+      "nameKo": "세븐일레븐",
+      "nameEn": "7-Eleven Korea",
+      "definition": "세븐일레븐(코리아세븐)은 롯데 계열이 운영하는 편의점으로, 1989년 한국 최초의 편의점으로 문을 열었다.",
+      "summary": "세븐일레븐(코리아세븐)은 롯데 계열이 운영하는 편의점으로, 1989년 한국 최초의 편의점으로 문을 열었다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최초의 편의점 브랜드로, 바이더웨이 인수·통합 등을 거쳐 한국 편의점 업계의 주요 체인으로 자리 잡았다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "세븐일레븐(7-Eleven)은 롯데 계열의 코리아세븐이 운영하는 편의점 체인이다. 1989년 서울에 한국 최초의 편의점을 열었고, 코리아세븐은 1994년 롯데에 인수됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최초의 편의점 브랜드로, 바이더웨이 인수·통합 등을 거쳐 한국 편의점 업계의 주요 체인으로 자리 잡았다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.7-eleven.co.kr/"
+    },
+    {
+      "id": 1263,
+      "slug": "homeplus",
+      "urlSlug": "homeplus",
+      "name": "홈플러스",
+      "nameKo": "홈플러스",
+      "nameEn": "Homeplus",
+      "definition": "홈플러스(Homeplus)는 한국 2위 대형마트 체인으로, 1997년 삼성물산 유통부문에서 출발해 2011년 현 사명이 됐다.",
+      "summary": "홈플러스(Homeplus)는 한국 2위 대형마트 체인으로, 1997년 삼성물산 유통부문에서 출발해 2011년 현 사명이 됐다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "신세계 이마트에 이은 한국 2위 대형 유통업체로, 대형마트와 익스프레스(SSM), 온라인 사업을 운영한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "홈플러스(Homeplus)는 한국의 대형마트 체인이다. 1997년 삼성물산 유통부문에서 출발해 삼성-테스코 합작을 거쳤고, 2011년 삼성 라이선스 종료와 함께 홈플러스로 사명을 바꿨다. 2015년 MBK파트너스가 인수했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "신세계 이마트에 이은 한국 2위 대형 유통업체로, 대형마트와 익스프레스(SSM), 온라인 사업을 운영한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.homeplus.co.kr/"
+    },
+    {
+      "id": 1264,
+      "slug": "samsung-fire",
+      "urlSlug": "samsung-fire",
+      "name": "삼성화재",
+      "nameKo": "삼성화재",
+      "nameEn": "Samsung Fire & Marine",
+      "definition": "삼성화재(Samsung Fire & Marine Insurance)는 삼성그룹 계열의 한국 최대 손해보험사다.",
+      "summary": "삼성화재(Samsung Fire & Marine Insurance)는 삼성그룹 계열의 한국 최대 손해보험사다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "자동차보험 시장 1위의 한국 최대 손해보험사로, 삼성 금융 계열의 핵심 회사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "삼성화재(Samsung Fire & Marine Insurance)는 삼성그룹 계열의 손해보험사다. 1952년 창립해 1958년 삼성에 편입됐고 1993년 현 사명이 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "자동차보험 시장 1위의 한국 최대 손해보험사로, 삼성 금융 계열의 핵심 회사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.samsungfire.com/"
+    },
+    {
+      "id": 1265,
+      "slug": "mirae-asset-securities",
+      "urlSlug": "mirae-asset-securities",
+      "name": "미래에셋증권",
+      "nameKo": "미래에셋증권",
+      "nameEn": "Mirae Asset Securities",
+      "definition": "미래에셋증권(Mirae Asset Securities)은 미래에셋금융그룹 계열의 한국 최대 증권사다.",
+      "summary": "미래에셋증권(Mirae Asset Securities)은 미래에셋금융그룹 계열의 한국 최대 증권사다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "시가총액 기준 한국 최대 증권사로, 글로벌 부동산 투자와 해외 진출에 강점을 둔 한국 대표 금융투자 회사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "미래에셋증권(Mirae Asset Securities)은 미래에셋금융그룹 계열의 증권사다. 1999년 박현주가 창업했으며, 2016년 대우증권 합병을 거쳐 2021년 현 사명이 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "시가총액 기준 한국 최대 증권사로, 글로벌 부동산 투자와 해외 진출에 강점을 둔 한국 대표 금융투자 회사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://securities.miraeasset.com/"
+    },
+    {
+      "id": 1266,
+      "slug": "korea-investment-securities",
+      "urlSlug": "korea-investment-securities",
+      "name": "한국투자증권",
+      "nameKo": "한국투자증권",
+      "nameEn": "Korea Investment & Securities",
+      "definition": "한국투자증권(Korea Investment & Securities)은 한국투자금융지주 계열의 대형 증권사로, 1974년 한국투자신탁에 뿌리를 둔다.",
+      "summary": "한국투자증권(Korea Investment & Securities)은 한국투자금융지주 계열의 대형 증권사로, 1974년 한국투자신탁에 뿌리를 둔다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "국내 대형 증권사이자 초대형 투자은행(IB)으로, 모지주인 한국투자금융지주는 카카오뱅크 등 금융 계열사를 거느린다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한국투자증권(Korea Investment & Securities)은 한국투자금융지주 계열의 증권사다. 1974년 설립된 한국투자신탁을 전신으로 하며 2003년 현 형태가 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "국내 대형 증권사이자 초대형 투자은행(IB)으로, 모지주인 한국투자금융지주는 카카오뱅크 등 금융 계열사를 거느린다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://securities.koreainvestment.com/"
+    },
+    {
+      "id": 1267,
+      "slug": "kiwoom-securities",
+      "urlSlug": "kiwoom-securities",
+      "name": "키움증권",
+      "nameKo": "키움증권",
+      "nameEn": "Kiwoom Securities",
+      "definition": "키움증권(Kiwoom Securities)은 다우키움그룹 계열의 한국 대표 온라인 증권사로, 2000년 설립됐다.",
+      "summary": "키움증권(Kiwoom Securities)은 다우키움그룹 계열의 한국 대표 온라인 증권사로, 2000년 설립됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "개인 주식 위탁매매 시장 점유율 1위의 온라인 전문 증권사로, 프로야구단 키움 히어로즈의 네이밍 스폰서로도 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "키움증권(Kiwoom Securities)은 다우키움그룹(모회사 다우기술) 계열의 온라인 전문 증권사다. 2000년 설립됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "개인 주식 위탁매매 시장 점유율 1위의 온라인 전문 증권사로, 프로야구단 키움 히어로즈의 네이밍 스폰서로도 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.kiwoom.com/"
+    },
+    {
+      "id": 1268,
+      "slug": "db-insurance",
+      "urlSlug": "db-insurance",
+      "name": "DB손해보험",
+      "nameKo": "DB손해보험",
+      "nameEn": "DB Insurance",
+      "definition": "DB손해보험(DB Insurance)은 DB그룹 계열의 대형 손해보험사로, 한국 최초의 자동차보험 전문 회사로 출발했다.",
+      "summary": "DB손해보험(DB Insurance)은 DB그룹 계열의 대형 손해보험사로, 한국 최초의 자동차보험 전문 회사로 출발했다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최초의 자동차보험 전문 회사에서 출발한 국내 상위권 대형 손해보험사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "DB손해보험(DB Insurance)은 DB그룹(옛 동부그룹) 계열의 손해보험사다. 1962년 한국 최초의 자동차보험 전문 회사로 출발해 동부화재를 거쳐 2017년 DB손해보험으로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최초의 자동차보험 전문 회사에서 출발한 국내 상위권 대형 손해보험사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.idbins.com/"
+    },
+    {
+      "id": 1269,
+      "slug": "namyang-dairy",
+      "urlSlug": "namyang-dairy",
+      "name": "남양유업",
+      "nameKo": "남양유업",
+      "nameEn": "Namyang Dairy",
+      "definition": "남양유업(Namyang Dairy Products)은 1964년 창립한 한국의 대표 유제품 기업이다.",
+      "summary": "남양유업(Namyang Dairy Products)은 1964년 창립한 한국의 대표 유제품 기업이다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "분유·우유·발효유와 프렌치카페 등 커피 제품을 생산하는 한국의 대표 유제품 기업 중 하나다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "남양유업(Namyang Dairy Products)은 1964년 창립한 한국의 유가공·식품 기업이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "분유·우유·발효유와 프렌치카페 등 커피 제품을 생산하는 한국의 대표 유제품 기업 중 하나다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.namyangi.com/"
+    },
+    {
+      "id": 1270,
+      "slug": "lotteria",
+      "urlSlug": "lotteria",
+      "name": "롯데리아",
+      "nameKo": "롯데리아",
+      "nameEn": "Lotteria",
+      "definition": "롯데리아(Lotteria)는 롯데그룹 계열 롯데GRS가 운영하는 한국 1위 버거 프랜차이즈로, 1979년 한국에 진출했다.",
+      "summary": "롯데리아(Lotteria)는 롯데그룹 계열 롯데GRS가 운영하는 한국 1위 버거 프랜차이즈로, 1979년 한국에 진출했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "불고기버거·새우버거 등 한국인 입맛에 맞춘 메뉴로 성장한 한국 1위 버거 프랜차이즈다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "롯데리아(Lotteria)는 롯데그룹 계열 롯데GRS가 운영하는 패스트푸드 버거 체인이다. 1979년 한국에 진출했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "불고기버거·새우버거 등 한국인 입맛에 맞춘 메뉴로 성장한 한국 1위 버거 프랜차이즈다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.lotteria.com/"
+    },
+    {
+      "id": 1271,
+      "slug": "moms-touch",
+      "urlSlug": "moms-touch",
+      "name": "맘스터치",
+      "nameKo": "맘스터치",
+      "nameEn": "Mom's Touch",
+      "definition": "맘스터치(Mom's Touch)는 싸이버거로 유명한 한국의 버거·치킨 프랜차이즈로, 1997년 시작됐다.",
+      "summary": "맘스터치(Mom's Touch)는 싸이버거로 유명한 한국의 버거·치킨 프랜차이즈로, 1997년 시작됐다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "닭다리살 통패티를 쓴 싸이버거와 후라이드 치킨을 앞세워 가성비로 성장해 매장 수 기준 국내 상위권 버거 프랜차이즈가 됐다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "맘스터치(Mom's Touch)는 한국의 버거·치킨 프랜차이즈다. 1997년 시작됐으며, 2019년 사모펀드 KL&파트너스가 인수했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "닭다리살 통패티를 쓴 싸이버거와 후라이드 치킨을 앞세워 가성비로 성장해 매장 수 기준 국내 상위권 버거 프랜차이즈가 됐다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://momstouch.co.kr/"
+    },
+    {
+      "id": 1272,
+      "slug": "bhc-chicken",
+      "urlSlug": "bhc-chicken",
+      "name": "bhc치킨",
+      "nameKo": "bhc치킨",
+      "nameEn": "bhc Chicken",
+      "definition": "bhc치킨(bhc Chicken)은 뿌링클로 유명한 한국의 치킨 프랜차이즈로, 2013년 독자 경영으로 출범했다.",
+      "summary": "bhc치킨(bhc Chicken)은 뿌링클로 유명한 한국의 치킨 프랜차이즈로, 2013년 독자 경영으로 출범했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "치즈 시즈닝을 뿌린 뿌링클(Bburinkle)을 시그니처로 큰 인기를 얻은 한국의 대표 치킨 프랜차이즈다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "bhc치킨(bhc Chicken)은 한국의 치킨 프랜차이즈다. 2004년 시작돼 제너시스BBQ가 운영하다 2013년 매각되며 독자 경영으로 출범했고, 운영사는 다이닝브랜즈그룹이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "치즈 시즈닝을 뿌린 뿌링클(Bburinkle)을 시그니처로 큰 인기를 얻은 한국의 대표 치킨 프랜차이즈다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.bhc.co.kr/"
+    },
+    {
+      "id": 1273,
+      "slug": "compose-coffee",
+      "urlSlug": "compose-coffee",
+      "name": "컴포즈커피",
+      "nameKo": "컴포즈커피",
+      "nameEn": "Compose Coffee",
+      "definition": "컴포즈커피(Compose Coffee)는 2014년 부산에서 시작된 한국의 저가 커피 프랜차이즈로, 2024년 필리핀 졸리비그룹이 지분을 인수했다.",
+      "summary": "컴포즈커피(Compose Coffee)는 2014년 부산에서 시작된 한국의 저가 커피 프랜차이즈로, 2024년 필리핀 졸리비그룹이 지분을 인수했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "부산을 기반으로 한 저가 커피 프랜차이즈로, 합리적 가격을 앞세워 수천 개 매장을 운영하는 대형 가맹 체인으로 성장했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "컴포즈커피(Compose Coffee)는 2014년 부산에서 창립한 한국의 저가 커피 프랜차이즈다. 2024년 필리핀 졸리비그룹이 지분을 인수했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "부산을 기반으로 한 저가 커피 프랜차이즈로, 합리적 가격을 앞세워 수천 개 매장을 운영하는 대형 가맹 체인으로 성장했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://composecoffee.com/"
+    },
+    {
+      "id": 1274,
+      "slug": "the-face-shop",
+      "urlSlug": "the-face-shop",
+      "name": "더페이스샵",
+      "nameKo": "더페이스샵",
+      "nameEn": "The Face Shop",
+      "definition": "더페이스샵(The Face Shop)은 LG생활건강 계열의 자연주의 로드숍 화장품 브랜드로, 2003년 론칭했다.",
+      "summary": "더페이스샵(The Face Shop)은 LG생활건강 계열의 자연주의 로드숍 화장품 브랜드로, 2003년 론칭했다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "자연주의 콘셉트의 로드숍 화장품 브랜드로, 2000년대 로드숍 붐을 이끌며 LG생활건강의 대중 화장품 사업 거점이 됐다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "더페이스샵(The Face Shop)은 화장품 브랜드다. 2003년 론칭했으며, 2010년 LG생활건강이 인수해 계열 브랜드가 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "자연주의 콘셉트의 로드숍 화장품 브랜드로, 2000년대 로드숍 붐을 이끌며 LG생활건강의 대중 화장품 사업 거점이 됐다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.thefaceshop.com/"
+    },
+    {
+      "id": 1275,
+      "slug": "nature-republic",
+      "urlSlug": "nature-republic",
+      "name": "네이처리퍼블릭",
+      "nameKo": "네이처리퍼블릭",
+      "nameEn": "Nature Republic",
+      "definition": "네이처리퍼블릭(Nature Republic)은 2009년 설립된 한국의 자연주의 로드숍 화장품 브랜드로, 알로에 수딩 젤로 유명하다.",
+      "summary": "네이처리퍼블릭(Nature Republic)은 2009년 설립된 한국의 자연주의 로드숍 화장품 브랜드로, 알로에 수딩 젤로 유명하다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "자연주의 콘셉트의 로드숍 브랜드로, 알로에 수딩 젤이 대표 히트 상품이며 K-팝 스타를 모델로 기용해 아시아 여러 나라로 진출했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "네이처리퍼블릭(Nature Republic)은 2009년 정운호가 설립한 한국의 화장품 브랜드다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "자연주의 콘셉트의 로드숍 브랜드로, 알로에 수딩 젤이 대표 히트 상품이며 K-팝 스타를 모델로 기용해 아시아 여러 나라로 진출했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.naturerepublic.com/"
+    },
+    {
+      "id": 1276,
+      "slug": "hera",
+      "urlSlug": "hera",
+      "name": "헤라",
+      "nameKo": "헤라",
+      "nameEn": "HERA",
+      "definition": "헤라(HERA)는 아모레퍼시픽의 프리미엄 화장품 브랜드로, 1995년 론칭했다.",
+      "summary": "헤라(HERA)는 아모레퍼시픽의 프리미엄 화장품 브랜드로, 1995년 론칭했다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "'컨템포러리 서울 뷰티'를 표방하는 아모레퍼시픽의 프리미엄 브랜드로, 쿠션 등 베이스 메이크업 제품으로 백화점 채널 상위권을 차지한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "헤라(HERA)는 아모레퍼시픽의 럭셔리 화장품 브랜드다. 1995년 스킨케어 라인으로 론칭해 메이크업으로 확장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'컨템포러리 서울 뷰티'를 표방하는 아모레퍼시픽의 프리미엄 브랜드로, 쿠션 등 베이스 메이크업 제품으로 백화점 채널 상위권을 차지한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hera.com/"
+    },
+    {
+      "id": 1277,
+      "slug": "mamonde",
+      "urlSlug": "mamonde",
+      "name": "마몽드",
+      "nameKo": "마몽드",
+      "nameEn": "Mamonde",
+      "definition": "마몽드(Mamonde)는 꽃을 콘셉트로 한 아모레퍼시픽의 화장품 브랜드로, 1991년 출시됐다.",
+      "summary": "마몽드(Mamonde)는 꽃을 콘셉트로 한 아모레퍼시픽의 화장품 브랜드로, 1991년 출시됐다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "꽃 연구를 기반으로 한 아모레퍼시픽 브랜드로, 식물·꽃에서 얻은 성분과 감성을 내세운 스킨케어로 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "마몽드(Mamonde)는 아모레퍼시픽의 스킨케어 중심 화장품 브랜드다. 1991년 출시됐으며, 이름은 프랑스어 '나의 세계(Ma Monde)'에서 따왔다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "꽃 연구를 기반으로 한 아모레퍼시픽 브랜드로, 식물·꽃에서 얻은 성분과 감성을 내세운 스킨케어로 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.mamonde.com/"
+    },
+    {
+      "id": 1278,
+      "slug": "manyo-factory",
+      "urlSlug": "manyo-factory",
+      "name": "마녀공장",
+      "nameKo": "마녀공장",
+      "nameEn": "Manyo Factory",
+      "definition": "마녀공장(Manyo Factory)은 2012년 설립된 한국의 클린뷰티 화장품 브랜드로, 퓨어 클렌징 오일로 유명하다.",
+      "summary": "마녀공장(Manyo Factory)은 2012년 설립된 한국의 클린뷰티 화장품 브랜드로, 퓨어 클렌징 오일로 유명하다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "'국민 클렌징'으로 불리는 퓨어 클렌징 오일을 대표 상품으로 하며, 효능 중심의 클린뷰티 제품으로 다수 국가에 수출하는 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "마녀공장(Manyo Factory)은 2012년 설립된 한국의 클린뷰티·비건 지향 화장품 브랜드로, 2023년 코스닥에 상장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'국민 클렌징'으로 불리는 퓨어 클렌징 오일을 대표 상품으로 하며, 효능 중심의 클린뷰티 제품으로 다수 국가에 수출하는 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.manyo.co.kr/"
+    },
+    {
+      "id": 1279,
+      "slug": "shift-up",
+      "urlSlug": "shift-up",
+      "name": "시프트업",
+      "nameKo": "시프트업",
+      "nameEn": "Shift Up",
+      "definition": "시프트업(SHIFT UP)은 2013년 김형태가 설립한 한국의 게임 기업으로, '승리의 여신: 니케'와 '스텔라 블레이드'로 알려져 있다.",
+      "summary": "시프트업(SHIFT UP)은 2013년 김형태가 설립한 한국의 게임 기업으로, '승리의 여신: 니케'와 '스텔라 블레이드'로 알려져 있다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "모바일 게임 '승리의 여신: 니케'와 콘솔 액션 게임 '스텔라 블레이드(Stellar Blade)'를 잇따라 흥행시키며, 모바일과 AAA 콘솔 양쪽에서 성공한 드문 한국 개발사로 주목받았다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "시프트업(SHIFT UP)은 2013년 김형태가 설립한 한국의 게임 개발·퍼블리싱 기업이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "모바일 게임 '승리의 여신: 니케'와 콘솔 액션 게임 '스텔라 블레이드(Stellar Blade)'를 잇따라 흥행시키며, 모바일과 AAA 콘솔 양쪽에서 성공한 드문 한국 개발사로 주목받았다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://shiftup.co.kr/"
+    },
+    {
+      "id": 1280,
+      "slug": "devsisters",
+      "urlSlug": "devsisters",
+      "name": "데브시스터즈",
+      "nameKo": "데브시스터즈",
+      "nameEn": "Devsisters",
+      "definition": "데브시스터즈(Devsisters)는 쿠키런(Cookie Run)으로 유명한 한국의 게임 기업으로, 2007년 설립됐다.",
+      "summary": "데브시스터즈(Devsisters)는 쿠키런(Cookie Run)으로 유명한 한국의 게임 기업으로, 2007년 설립됐다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "2013년 출시한 쿠키런(Cookie Run)을 대표 IP로, 쿠키런: 킹덤 등으로 확장하며 전 세계 수억 명이 즐긴 쿠키런 유니버스를 만들어 온 게임사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "데브시스터즈(Devsisters)는 2007년 설립된 한국의 모바일 게임 기업이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "2013년 출시한 쿠키런(Cookie Run)을 대표 IP로, 쿠키런: 킹덤 등으로 확장하며 전 세계 수억 명이 즐긴 쿠키런 유니버스를 만들어 온 게임사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.devsisters.com/"
+    },
+    {
+      "id": 1281,
+      "slug": "gravity",
+      "urlSlug": "gravity",
+      "name": "그라비티",
+      "nameKo": "그라비티",
+      "nameEn": "Gravity",
+      "definition": "그라비티(Gravity)는 라그나로크 온라인(Ragnarok Online)으로 유명한 한국의 게임 기업으로, 2000년 설립됐다.",
+      "summary": "그라비티(Gravity)는 라그나로크 온라인(Ragnarok Online)으로 유명한 한국의 게임 기업으로, 2000년 설립됐다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "이명진의 만화를 기반으로 한 MMORPG 라그나로크 온라인(2002)을 대표작으로, 라그나로크 IP를 다방면으로 확장해 글로벌하게 알려진 게임사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "그라비티(Gravity)는 2000년 설립된 한국의 게임 개발·퍼블리싱 기업이다. 일본 겅호 온라인 엔터테인먼트가 모회사이며, 2005년 한국 게임사 최초로 나스닥에 상장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "이명진의 만화를 기반으로 한 MMORPG 라그나로크 온라인(2002)을 대표작으로, 라그나로크 IP를 다방면으로 확장해 글로벌하게 알려진 게임사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.gravity.co.kr/"
+    },
+    {
+      "id": 1282,
+      "slug": "ohou",
+      "urlSlug": "ohou",
+      "name": "오늘의집",
+      "nameKo": "오늘의집",
+      "nameEn": "Ohou",
+      "definition": "오늘의집(Ohou)은 버킷플레이스가 운영하는 한국 최대의 인테리어·홈 라이프스타일 플랫폼으로, 2014년 시작됐다.",
+      "summary": "오늘의집(Ohou)은 버킷플레이스가 운영하는 한국 최대의 인테리어·홈 라이프스타일 플랫폼으로, 2014년 시작됐다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "인테리어 콘텐츠와 커머스, 시공 중개를 결합한 한국 최대 인테리어 플랫폼으로, 집 꾸미기 정보와 상품을 한곳에서 제공하며 해외로도 확장했다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "오늘의집(Ohou)은 한국의 인테리어·홈 라이프스타일 플랫폼이다. 운영사 버킷플레이스가 2014년 설립했으며, 2022년 유니콘으로 지정됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "인테리어 콘텐츠와 커머스, 시공 중개를 결합한 한국 최대 인테리어 플랫폼으로, 집 꾸미기 정보와 상품을 한곳에서 제공하며 해외로도 확장했다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ohou.se/"
+    },
+    {
+      "id": 1283,
+      "slug": "jin-air",
+      "urlSlug": "jin-air",
+      "name": "진에어",
+      "nameKo": "진에어",
+      "nameEn": "Jin Air",
+      "definition": "진에어(Jin Air)는 대한항공(한진그룹) 계열의 저비용 항공사로, 2008년 설립됐다.",
+      "summary": "진에어(Jin Air)는 대한항공(한진그룹) 계열의 저비용 항공사로, 2008년 설립됐다.",
+      "industry": "여행·호스피탈리티",
+      "domainSlug": "travel-hospitality",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "대한항공 계열의 프리미엄 LCC로, 국내 저비용 항공사 중 일찍 광동체(중대형기)를 운용한 항공사로 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "진에어(Jin Air)는 대한항공이 출자한 저비용 항공사다. 2008년 설립돼 같은 해 운항을 시작했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "대한항공 계열의 프리미엄 LCC로, 국내 저비용 항공사 중 일찍 광동체(중대형기)를 운용한 항공사로 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.jinair.com/"
+    },
+    {
+      "id": 1284,
+      "slug": "tway-air",
+      "urlSlug": "tway-air",
+      "name": "티웨이항공",
+      "nameKo": "티웨이항공",
+      "nameEn": "T'way Air",
+      "definition": "티웨이항공(T'way Air)은 한국의 저비용 항공사로, 한성항공을 재편해 2010년 출범했다.",
+      "summary": "티웨이항공(T'way Air)은 한국의 저비용 항공사로, 한성항공을 재편해 2010년 출범했다.",
+      "industry": "여행·호스피탈리티",
+      "domainSlug": "travel-hospitality",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "국내 저비용 항공사 중 유럽·북미 등 중장거리 노선까지 확장을 추진해 온 LCC다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "티웨이항공(T'way Air)은 한국의 저비용 항공사다. 2005년 출범한 한성항공을 재편해 2010년 티웨이항공으로 다시 문을 열었으며, 현재 대명소노그룹 계열이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "국내 저비용 항공사 중 유럽·북미 등 중장거리 노선까지 확장을 추진해 온 LCC다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.twayair.com/"
+    },
+    {
+      "id": 1285,
+      "slug": "cj-logistics",
+      "urlSlug": "cj-logistics",
+      "name": "CJ대한통운",
+      "nameKo": "CJ대한통운",
+      "nameEn": "CJ Logistics",
+      "definition": "CJ대한통운(CJ Logistics)은 CJ그룹 계열의 한국 최대 물류·택배 기업으로, 1930년 조선미곡창고에 뿌리를 둔다.",
+      "summary": "CJ대한통운(CJ Logistics)은 CJ그룹 계열의 한국 최대 물류·택배 기업으로, 1930년 조선미곡창고에 뿌리를 둔다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국에서 가장 오래되고 규모가 큰 택배·물류 기업으로, 전국 택배망과 글로벌 물류 네트워크를 운영한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "CJ대한통운(CJ Logistics)은 CJ그룹 계열의 종합 물류·택배 기업이다. 1930년 조선미곡창고로 출발해 대한통운을 거쳐, 2011년 CJ에 인수된 뒤 2017년 CJ대한통운으로 통합·개명했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국에서 가장 오래되고 규모가 큰 택배·물류 기업으로, 전국 택배망과 글로벌 물류 네트워크를 운영한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.cjlogistics.com/"
+    },
+    {
+      "id": 1286,
+      "slug": "samsung-heavy",
+      "urlSlug": "samsung-heavy",
+      "name": "삼성중공업",
+      "nameKo": "삼성중공업",
+      "nameEn": "Samsung Heavy Industries",
+      "definition": "삼성중공업(Samsung Heavy Industries)은 삼성그룹 계열의 조선 기업으로, 1974년 설립된 한국 조선 빅3 중 하나다.",
+      "summary": "삼성중공업(Samsung Heavy Industries)은 삼성그룹 계열의 조선 기업으로, 1974년 설립된 한국 조선 빅3 중 하나다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 조선 '빅3'의 하나로, 컨테이너선·LNG운반선·드릴십·해양플랜트 등 고부가가치 선박을 건조한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "삼성중공업(Samsung Heavy Industries)은 삼성그룹 계열의 조선·중공업 기업이다. 1974년 설립됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 조선 '빅3'의 하나로, 컨테이너선·LNG운반선·드릴십·해양플랜트 등 고부가가치 선박을 건조한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.samsungshi.com/"
+    },
+    {
+      "id": 1287,
+      "slug": "hanwha-ocean",
+      "urlSlug": "hanwha-ocean",
+      "name": "한화오션",
+      "nameKo": "한화오션",
+      "nameEn": "Hanwha Ocean",
+      "definition": "한화오션(Hanwha Ocean)은 한화그룹 계열의 조선·방산 기업으로, 옛 대우조선해양을 2023년 한화가 인수해 사명을 바꿨다.",
+      "summary": "한화오션(Hanwha Ocean)은 한화그룹 계열의 조선·방산 기업으로, 옛 대우조선해양을 2023년 한화가 인수해 사명을 바꿨다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 조선 '빅3'의 하나로, 함정·잠수함 등 방산과 LNG운반선·해양구조물 등 상선 사업을 함께 영위한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한화오션(Hanwha Ocean)은 한화그룹 계열의 조선·방산 기업이다. 1978년 설립된 대우조선해양(DSME)을 한화그룹이 2023년 인수하며 한화오션으로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 조선 '빅3'의 하나로, 함정·잠수함 등 방산과 LNG운반선·해양구조물 등 상선 사업을 함께 영위한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hanwhaocean.com/"
     }
   ],
   "koreanSources": [
