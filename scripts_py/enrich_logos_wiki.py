@@ -152,18 +152,29 @@ def download(img_url, slug):
 def is_real(s):
     return bool(s) and "brand_atlas_logo_mark" not in str(s) and str(s).strip()
 
+def query_for(b):
+    """English search query: prefer a Latin nameEn/name; else humanize a real
+    urlSlug (the-body-shop -> 'the body shop'). Skip generic 'brand-NNN' slugs."""
+    for v in (b.get("nameEn"), b.get("name")):
+        if v and re.search(r"[A-Za-z]", str(v)):
+            return str(v)
+    us = str(b.get("urlSlug") or "")
+    if us and not re.match(r"^brand-\d+$", us) and re.search(r"[a-z]", us):
+        return us.replace("-", " ").strip()
+    return None
+
 def main():
     data = json.loads(DATA_JSON.read_text(encoding="utf-8"))
     all_brands = data.get("allBrands", [])
     candidates = [b for b in all_brands
                   if not is_real(b.get("logo")) and not is_real(b.get("image"))
-                  and re.search(r"[A-Za-z]", str(b.get("nameEn") or b.get("name") or ""))]
+                  and query_for(b)]
     candidates.sort(key=lambda b: float(b.get("rating") or 0), reverse=True)
     candidates = candidates[:LIMIT]
     print(f"candidates: {len(candidates)} (limit {LIMIT})")
     resolved, skipped = {}, 0
     for b in candidates:
-        name_en = str(b.get("nameEn") or b.get("name"))
+        name_en = query_for(b)
         url_slug = b.get("urlSlug") or b["slug"]
         expect = norm_tokens(name_en) - STOP
         if not expect:
