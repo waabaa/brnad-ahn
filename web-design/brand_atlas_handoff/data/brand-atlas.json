@@ -32,7 +32,7 @@
     "아이덴티티 아카이브"
   ],
   "stats": {
-    "brands": 1138,
+    "brands": 1164,
     "magazineBrands": 492,
     "aTier": 19,
     "sections": 5538,
@@ -53,7 +53,7 @@
       "id": "food-beverage",
       "name": "식음료",
       "nameEn": "Food & Beverage",
-      "count": 144,
+      "count": 149,
       "icon": "assets/objects/icon_food.png",
       "examples": [
         "맥도날드",
@@ -101,7 +101,7 @@
       "id": "media-entertainment",
       "name": "미디어·엔터테인먼트",
       "nameEn": "Media & Entertainment",
-      "count": 256,
+      "count": 258,
       "icon": "assets/objects/icon_media.png",
       "examples": [
         "JYP 엔터테인먼트",
@@ -117,7 +117,7 @@
       "id": "technology-electronics",
       "name": "기술·전자",
       "nameEn": "Technology & Electronics",
-      "count": 99,
+      "count": 101,
       "icon": "assets/objects/icon_tech.png",
       "examples": [
         "뱅앤올룹슨",
@@ -165,7 +165,7 @@
       "id": "sports-outdoor",
       "name": "스포츠·아웃도어",
       "nameEn": "Sports & Outdoor",
-      "count": 40,
+      "count": 42,
       "icon": "assets/objects/icon_sports.png",
       "examples": [
         "나이키",
@@ -181,7 +181,7 @@
       "id": "home-lifestyle",
       "name": "홈·라이프스타일",
       "nameEn": "Home & Lifestyle",
-      "count": 35,
+      "count": 40,
       "icon": "assets/objects/icon_home.png",
       "examples": [
         "빅",
@@ -197,7 +197,7 @@
       "id": "health-pharma",
       "name": "헬스·제약",
       "nameEn": "Health & Pharma",
-      "count": 20,
+      "count": 25,
       "icon": "assets/objects/icon_health.png",
       "examples": [
         "니베아",
@@ -228,7 +228,7 @@
       "id": "brand-business",
       "name": "브랜드·비즈니스",
       "nameEn": "Brand & Business",
-      "count": 254,
+      "count": 259,
       "icon": "assets/objects/brand_atlas_logo_mark.png",
       "examples": [
         "베스트 글로벌 브랜드",
@@ -133703,6 +133703,838 @@
       "publicReady": true,
       "displayPriority": "normal",
       "officialWebsite": "https://www.kccworld.co.kr/"
+    },
+    {
+      "id": 1312,
+      "slug": "nepa",
+      "urlSlug": "nepa",
+      "name": "네파",
+      "nameKo": "네파",
+      "nameEn": "NEPA",
+      "definition": "네파(NEPA)는 1996년 이탈리아에서 시작해 2005년부터 한국에서 본격 전개된 아웃도어 브랜드다.",
+      "summary": "네파(NEPA)는 1996년 이탈리아에서 시작해 2005년부터 한국에서 본격 전개된 아웃도어 브랜드다.",
+      "industry": "스포츠·아웃도어",
+      "domainSlug": "sports-outdoor",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/nepa.png",
+      "insight": "자유로운 감성을 표방하는 라이프스타일형 아웃도어 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "네파(NEPA)는 1996년 이탈리아 베르가모에서 등산화 브랜드로 출발했고, 2005년 평안L&C가 인수해 국내에 론칭했다. 2013년 사모펀드 MBK파트너스가 인수해 현재 운영하며 본사는 서울 강남에 있다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "자유로운 감성을 표방하는 라이프스타일형 아웃도어 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.nepamall.com/"
+    },
+    {
+      "id": 1313,
+      "slug": "eider",
+      "urlSlug": "eider",
+      "name": "아이더",
+      "nameKo": "아이더",
+      "nameEn": "EIDER",
+      "definition": "아이더(EIDER)는 1962년 프랑스에서 설립돼 현재 한국 K2코리아가 전개·보유한 아웃도어 브랜드다.",
+      "summary": "아이더(EIDER)는 1962년 프랑스에서 설립돼 현재 한국 K2코리아가 전개·보유한 아웃도어 브랜드다.",
+      "industry": "스포츠·아웃도어",
+      "domainSlug": "sports-outdoor",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "",
+      "insight": "프랑스 헤리티지를 가진, K2코리아가 글로벌 전개하는 프리미엄 아웃도어 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "아이더(EIDER)는 1962년 프랑스에서 시작해 2008년 라푸마 자회사가 됐다. K2코리아가 2006년 라이선스로 한국 사업을 시작해 2009년 국내 상표권, 2020년 글로벌 상표권까지 인수하며 한국 기업이 보유한 글로벌 브랜드가 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "프랑스 헤리티지를 가진, K2코리아가 글로벌 전개하는 프리미엄 아웃도어 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.eider.co.kr/"
+    },
+    {
+      "id": 1314,
+      "slug": "gs-construction",
+      "urlSlug": "gs-construction",
+      "name": "GS건설",
+      "nameKo": "GS건설",
+      "nameEn": "GS E&C",
+      "definition": "GS건설(GS E&C)은 GS그룹 계열의 종합건설회사로, 자이(Xi) 아파트 브랜드를 보유한 한국 대표 건설사다.",
+      "summary": "GS건설(GS E&C)은 GS그룹 계열의 종합건설회사로, 자이(Xi) 아파트 브랜드를 보유한 한국 대표 건설사다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "고급 주거 브랜드 자이를 앞세운 한국 종합건설 대표 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "GS건설(GS E&C)은 1969년 락희개발로 출발해 LG건설을 거쳐 2005년 GS그룹 편입과 함께 현 사명이 됐다. 주택·건축·토목·플랜트·환경 사업을 영위하며 2002년 출시한 자이(Xi)를 주력 아파트 브랜드로 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "고급 주거 브랜드 자이를 앞세운 한국 종합건설 대표 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.gsenc.com/"
+    },
+    {
+      "id": 1315,
+      "slug": "dl-enc",
+      "urlSlug": "dl-enc",
+      "name": "DL이앤씨",
+      "nameKo": "DL이앤씨",
+      "nameEn": "DL E&C",
+      "definition": "DL이앤씨(DL E&C)는 2021년 대림산업에서 분할 설립된 DL그룹 계열 건설사로, e편한세상·아크로 아파트 브랜드를 보유한 기업이다.",
+      "summary": "DL이앤씨(DL E&C)는 2021년 대림산업에서 분할 설립된 DL그룹 계열 건설사로, e편한세상·아크로 아파트 브랜드를 보유한 기업이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "글로벌 디벨로퍼를 지향하는 DL그룹 핵심 건설사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "DL이앤씨(DL E&C)는 2021년 DL그룹의 지주회사 체제 전환에 따라 옛 대림산업의 건설부문이 인적분할로 설립됐다. 토목·주택·플랜트 사업을 국내외에서 수행하며 주력 주거 브랜드는 e편한세상, 하이엔드 브랜드는 아크로다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "글로벌 디벨로퍼를 지향하는 DL그룹 핵심 건설사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.dlenc.co.kr/"
+    },
+    {
+      "id": 1316,
+      "slug": "hdc-hyundai",
+      "urlSlug": "hdc-hyundai",
+      "name": "HDC현대산업개발",
+      "nameKo": "HDC현대산업개발",
+      "nameEn": "HDC Hyundai Development",
+      "definition": "HDC현대산업개발(HDC)은 2018년 현대산업개발의 건설부문이 분할 설립된 HDC그룹 핵심 건설사로, 아이파크(IPARK) 아파트 브랜드를 보유한다.",
+      "summary": "HDC현대산업개발(HDC)은 2018년 현대산업개발의 건설부문이 분할 설립된 HDC그룹 핵심 건설사로, 아이파크(IPARK) 아파트 브랜드를 보유한다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/hdc-hyundai.png",
+      "insight": "아이파크 브랜드 중심의 디벨로퍼형 종합건설사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "HDC현대산업개발(HDC)은 2018년 지주회사 HDC와 사업회사로 분할되며 HDC그룹이 정식 출범할 때 설립됐다. 주택·건축·토목·개발 사업을 영위하며 2001년 출시한 아이파크를 주력 브랜드로 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "아이파크 브랜드 중심의 디벨로퍼형 종합건설사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hdc-dvp.com/"
+    },
+    {
+      "id": 1317,
+      "slug": "daewoo-enc",
+      "urlSlug": "daewoo-enc",
+      "name": "대우건설",
+      "nameKo": "대우건설",
+      "nameEn": "Daewoo E&C",
+      "definition": "대우건설(Daewoo E&C)은 1973년에 기원을 둔 한국의 종합건설사로, 2021년 중흥그룹에 인수됐으며 푸르지오 아파트 브랜드를 보유한다.",
+      "summary": "대우건설(Daewoo E&C)은 1973년에 기원을 둔 한국의 종합건설사로, 2021년 중흥그룹에 인수됐으며 푸르지오 아파트 브랜드를 보유한다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "images/logos/daewoo-enc.jpg",
+      "insight": "푸르지오 브랜드를 보유한 중흥그룹 산하 대형 건설사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "대우건설(Daewoo E&C)은 1973년 대우개발에서 출발해 여러 차례 소유권 변동을 겪었고, 산업은행 체제를 거쳐 2021년 중흥건설에 인수됐다. 주택·토목·플랜트·해외 사업을 수행하며 푸르지오를 주력 주거 브랜드로 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "푸르지오 브랜드를 보유한 중흥그룹 산하 대형 건설사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.daewooenc.com/"
+    },
+    {
+      "id": 1318,
+      "slug": "samsung-ct",
+      "urlSlug": "samsung-ct",
+      "name": "삼성물산",
+      "nameKo": "삼성물산",
+      "nameEn": "Samsung C&T",
+      "definition": "삼성물산(Samsung C&T)은 건설·상사·패션·리조트 사업을 아우르는 삼성그룹의 핵심 기업으로, 래미안 아파트 브랜드로 알려져 있다.",
+      "summary": "삼성물산(Samsung C&T)은 건설·상사·패션·리조트 사업을 아우르는 삼성그룹의 핵심 기업으로, 래미안 아파트 브랜드로 알려져 있다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "images/logos/samsung-ct.svg",
+      "insight": "래미안과 글로벌 랜드마크 시공으로 대표되는 삼성그룹의 사실상 지주격 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "삼성물산(Samsung C&T)은 1938년 삼성상회에 기원을 두며, 건설부문은 1977년 삼성종합건설로 출범했다. 2015년 제일모직과 옛 삼성물산의 합병으로 현재 체제가 됐고, 부르즈 칼리파 등 글로벌 프로젝트를 수행하며 2000년 출시한 래미안을 주력 주거 브랜드로 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "래미안과 글로벌 랜드마크 시공으로 대표되는 삼성그룹의 사실상 지주격 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.samsungcnt.com/"
+    },
+    {
+      "id": 1319,
+      "slug": "daewoong",
+      "urlSlug": "daewoong",
+      "name": "대웅제약",
+      "nameKo": "대웅제약",
+      "nameEn": "Daewoong Pharmaceutical",
+      "definition": "대웅제약(Daewoong Pharmaceutical)은 우루사·나보타 등을 보유한 한국의 종합 제약회사다.",
+      "summary": "대웅제약(Daewoong Pharmaceutical)은 우루사·나보타 등을 보유한 한국의 종합 제약회사다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "우루사로 대표되는 국내 대표 제약사이자 보툴리눔 톡신 수출 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "대웅제약(Daewoong Pharmaceutical)은 1945년 대한비타민화학공업사에 기원을 두며 2002년 인적분할로 지주회사 체제 산하 신설법인으로 재편됐다. 전문의약품과 일반의약품을 모두 생산하며 보툴리눔 톡신 나보타로 글로벌 시장에 진출했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "우루사로 대표되는 국내 대표 제약사이자 보툴리눔 톡신 수출 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.daewoong.co.kr/"
+    },
+    {
+      "id": 1320,
+      "slug": "dong-a-st",
+      "urlSlug": "dong-a-st",
+      "name": "동아에스티",
+      "nameKo": "동아에스티",
+      "nameEn": "Dong-A ST",
+      "definition": "동아에스티(Dong-A ST)는 동아쏘시오그룹 산하의 전문의약품·바이오 전문 제약회사다.",
+      "summary": "동아에스티(Dong-A ST)는 동아쏘시오그룹 산하의 전문의약품·바이오 전문 제약회사다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "동아제약에서 분리된 전문의약품 중심의 신약개발 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "동아에스티(Dong-A ST)는 2013년 동아제약의 인적분할로 신설됐으며 동아쏘시오홀딩스를 지주회사로 두는 그룹 체제에 속한다. 전문의약품과 신약개발, 바이오의약품, 의료기기 사업을 영위한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "동아제약에서 분리된 전문의약품 중심의 신약개발 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.donga-st.com/"
+    },
+    {
+      "id": 1321,
+      "slug": "sk-biopharm",
+      "urlSlug": "sk-biopharm",
+      "name": "SK바이오팜",
+      "nameKo": "SK바이오팜",
+      "nameEn": "SK Biopharmaceuticals",
+      "definition": "SK바이오팜(SK Biopharmaceuticals)은 SK그룹 산하의 중추신경계 신약개발 전문 바이오 기업이다.",
+      "summary": "SK바이오팜(SK Biopharmaceuticals)은 SK그룹 산하의 중추신경계 신약개발 전문 바이오 기업이다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "images/logos/sk-biopharm.png",
+      "insight": "세노바메이트로 미국 직접 진출에 성공한 한국 대표 혁신신약 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "SK바이오팜(SK Biopharmaceuticals)은 1993년 SK그룹의 신약연구로 출발해 2011년 분사했다. 뇌전증 치료제 세노바메이트(미국 브랜드 엑스코프리)와 솔리암페톨 두 신약으로 FDA 승인을 받은 한국 유일 기업으로 중추신경계와 항암 영역에 집중한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "세노바메이트로 미국 직접 진출에 성공한 한국 대표 혁신신약 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.skbp.com/"
+    },
+    {
+      "id": 1322,
+      "slug": "hugel",
+      "urlSlug": "hugel",
+      "name": "휴젤",
+      "nameKo": "휴젤",
+      "nameEn": "Hugel",
+      "definition": "휴젤(Hugel)은 보툴리눔 톡신 보툴렉스(레티보)를 보유한 한국의 미용 의료 바이오 기업이다.",
+      "summary": "휴젤(Hugel)은 보툴리눔 톡신 보툴렉스(레티보)를 보유한 한국의 미용 의료 바이오 기업이다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "보툴렉스·레티보로 글로벌 미용 톡신 시장을 공략하는 K-뷰티 바이오 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "휴젤(Hugel)은 2001년 설립된 국내 최대 보툴리눔 톡신 제조사로, 보툴렉스를 수출명 레티보로 미국·유럽·중국 3대 미용시장에 모두 진출시켰다. 2021년 CBC그룹 주축 컨소시엄이 최대주주가 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "보툴렉스·레티보로 글로벌 미용 톡신 시장을 공략하는 K-뷰티 바이오 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hugel.co.kr/"
+    },
+    {
+      "id": 1323,
+      "slug": "boryung",
+      "urlSlug": "boryung",
+      "name": "보령",
+      "nameKo": "보령",
+      "nameEn": "Boryung",
+      "definition": "보령(Boryung)은 고혈압 치료제 카나브와 제산제 겔포스를 보유한 한국의 제약·헬스케어 기업이다.",
+      "summary": "보령(Boryung)은 고혈압 치료제 카나브와 제산제 겔포스를 보유한 한국의 제약·헬스케어 기업이다.",
+      "industry": "헬스·제약",
+      "domainSlug": "health-pharma",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/boryung.jpg",
+      "insight": "고혈압 치료제 카나브로 대표되며 우주헬스케어로 영역을 넓히는 제약사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "보령(Boryung)은 1957년 보령약국에서 출발해 심혈관계 의약품과 겔포스로 성장했다. 2022년 사명을 보령제약에서 보령으로 변경하며 우주·항암 등 신사업 확장 의지를 반영했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "고혈압 치료제 카나브로 대표되며 우주헬스케어로 영역을 넓히는 제약사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.boryung.co.kr/"
+    },
+    {
+      "id": 1324,
+      "slug": "coway",
+      "urlSlug": "coway",
+      "name": "코웨이",
+      "nameKo": "코웨이",
+      "nameEn": "Coway",
+      "definition": "코웨이(Coway)는 정수기·공기청정기 등 환경가전을 렌탈·판매하는 대한민국의 생활가전 기업이다.",
+      "summary": "코웨이(Coway)는 정수기·공기청정기 등 환경가전을 렌탈·판매하는 대한민국의 생활가전 기업이다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "국내 렌탈 시장을 개척한 환경가전 렌탈 분야의 선도 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "코웨이(Coway)는 1989년 한국코웨이로 설립돼 정수기 렌탈 사업으로 국내 렌탈 시장 1위에 올랐다. 웅진그룹 계열을 거쳐 2020년 넷마블에 인수되며 사명을 코웨이로 확정했고 본사는 충남 공주에 있다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "국내 렌탈 시장을 개척한 환경가전 렌탈 분야의 선도 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.coway.com/"
+    },
+    {
+      "id": 1325,
+      "slug": "cuckoo",
+      "urlSlug": "cuckoo",
+      "name": "쿠쿠",
+      "nameKo": "쿠쿠",
+      "nameEn": "CUCKOO",
+      "definition": "쿠쿠(CUCKOO)는 전기밥솥을 주력으로 하는 대한민국의 종합 생활가전 브랜드다.",
+      "summary": "쿠쿠(CUCKOO)는 전기밥솥을 주력으로 하는 대한민국의 종합 생활가전 브랜드다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "'국민 밥솥' 신화를 쓴 전기밥솥 1위 가전 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "쿠쿠(CUCKOO)는 1978년 성광전자로 출발해 밥솥 OEM을 생산했고, 1998년 자체 브랜드 쿠쿠를 출시한 뒤 국내 전기밥솥 시장 1위에 올랐다. 2017년 지주사 체제(쿠쿠홀딩스)로 전환했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'국민 밥솥' 신화를 쓴 전기밥솥 1위 가전 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.cuckoo.co.kr/"
+    },
+    {
+      "id": 1326,
+      "slug": "sk-magic",
+      "urlSlug": "sk-magic",
+      "name": "SK매직",
+      "nameKo": "SK매직",
+      "nameEn": "SK Magic",
+      "definition": "SK매직(SK Magic)은 SK네트웍스가 보유한 대한민국의 환경가전·렌탈 브랜드다.",
+      "summary": "SK매직(SK Magic)은 SK네트웍스가 보유한 대한민국의 환경가전·렌탈 브랜드다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "",
+      "insight": "주방·환경가전 중심의 SK그룹 렌탈 가전 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "SK매직(SK Magic)은 동양매직을 전신으로 2016년 SK네트웍스에 인수되며 현 브랜드명이 됐다. 식기세척기·가스레인지·정수기 등 주방·환경가전을 주력으로 하며, 2025년 법인명을 SK인텔릭스로 변경했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "주방·환경가전 중심의 SK그룹 렌탈 가전 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.skmagic.com/"
+    },
+    {
+      "id": 1327,
+      "slug": "winia",
+      "urlSlug": "winia",
+      "name": "위니아",
+      "nameKo": "위니아",
+      "nameEn": "WINIA",
+      "definition": "위니아(WINIA)는 김치냉장고 '딤채'로 알려진 대한민국의 생활가전 브랜드다.",
+      "summary": "위니아(WINIA)는 김치냉장고 '딤채'로 알려진 대한민국의 생활가전 브랜드다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 3.9,
+      "image": "",
+      "logo": "images/logos/winia.svg",
+      "insight": "김치냉장고 '딤채'를 탄생시킨 김치냉장고의 원조 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "위니아(WINIA)는 만도기계 가전부문에서 출발해 1993년 위니아 브랜드, 1995년 김치냉장고 딤채를 출시하며 김치냉장고 시장을 개척했다. 위니아만도·대유위니아를 거쳐 2022년 위니아로 사명을 바꿨으나 2023년 부도 이후 회생절차를 밟았다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "김치냉장고 '딤채'를 탄생시킨 김치냉장고의 원조 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.winia.com/"
+    },
+    {
+      "id": 1328,
+      "slug": "cheongho-nais",
+      "urlSlug": "cheongho-nais",
+      "name": "청호나이스",
+      "nameKo": "청호나이스",
+      "nameEn": "Cheongho Nais",
+      "definition": "청호나이스(Cheongho Nais)는 정수기를 주력으로 하는 대한민국의 생활가전 렌탈 기업이다.",
+      "summary": "청호나이스(Cheongho Nais)는 정수기를 주력으로 하는 대한민국의 생활가전 렌탈 기업이다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "",
+      "insight": "'정수기 명가'로 불리는 정수 기술 중심의 렌탈 가전 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "청호나이스(Cheongho Nais)는 1993년 정휘동이 설립해 정수기 전문 기업으로 성장했으며, 세계 최초 얼음정수기 등 정수 기술로 알려졌다. 정수·공기·비데 등 환경가전을 렌탈·판매한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'정수기 명가'로 불리는 정수 기술 중심의 렌탈 가전 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.chungho.co.kr/"
+    },
+    {
+      "id": 1329,
+      "slug": "sempio",
+      "urlSlug": "sempio",
+      "name": "샘표",
+      "nameKo": "샘표",
+      "nameEn": "Sempio",
+      "definition": "샘표(Sempio)는 1946년 설립된 대한민국에서 가장 오래된 간장·발효식품 브랜드다.",
+      "summary": "샘표(Sempio)는 1946년 설립된 대한민국에서 가장 오래된 간장·발효식품 브랜드다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "images/logos/sempio.svg",
+      "insight": "전통 발효 기술을 기반으로 한국의 맛을 세계에 알리는 발효식품 전문 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "샘표(Sempio)는 1946년 설립돼 간장을 비롯한 장류로 성장한 국내 최고(最古) 발효식품 기업이다. 2016년 지주사 체제로 전환했으며 연두·폰타나·티아시아 등으로 제품군을 넓혔다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "전통 발효 기술을 기반으로 한국의 맛을 세계에 알리는 발효식품 전문 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.sempio.com/"
+    },
+    {
+      "id": 1330,
+      "slug": "crown-confectionery",
+      "urlSlug": "crown-confectionery",
+      "name": "크라운제과",
+      "nameKo": "크라운제과",
+      "nameEn": "Crown Confectionery",
+      "definition": "크라운제과(Crown Confectionery)는 크라운해태홀딩스를 지주회사로 하는 대한민국의 종합 제과 기업이다.",
+      "summary": "크라운제과(Crown Confectionery)는 크라운해태홀딩스를 지주회사로 하는 대한민국의 종합 제과 기업이다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "images/logos/crown-confectionery.png",
+      "insight": "죠리퐁과 산도로 상징되는 대한민국 대표 장수 제과 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "크라운제과(Crown Confectionery)는 1947년 영일당제과로 출발해 1956년 크라운제과로 이름을 바꿨고 1968년 현 법인이 설립됐다. 2005년 해태제과를 인수했고 2017년 지주사 체제로 분리됐으며 죠리퐁·산도·쿠크다스 등이 대표 제품이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "죠리퐁과 산도로 상징되는 대한민국 대표 장수 제과 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.crown.co.kr/"
+    },
+    {
+      "id": 1331,
+      "slug": "spc-samlip",
+      "urlSlug": "spc-samlip",
+      "name": "SPC삼립",
+      "nameKo": "SPC삼립",
+      "nameEn": "SPC Samlip",
+      "definition": "SPC삼립(SPC Samlip)은 1945년 창업한 상미당을 모태로 하는 SPC그룹 계열의 종합 제빵·식품 기업이다.",
+      "summary": "SPC삼립(SPC Samlip)은 1945년 창업한 상미당을 모태로 하는 SPC그룹 계열의 종합 제빵·식품 기업이다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "호빵으로 상징되는 80년 역사의 한국 양산빵 대표 브랜드다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "SPC삼립(SPC Samlip)은 1945년 상미당에서 출발해 1968년 삼립식품공업으로 법인화했고, 2016년 SPC삼립으로 사명을 바꿨다. 호빵·크림빵 등 양산빵으로 잘 알려졌으며 2026년 사명을 삼립으로 재변경하기로 의결했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "호빵으로 상징되는 80년 역사의 한국 양산빵 대표 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.spcsamlip.co.kr/"
+    },
+    {
+      "id": 1332,
+      "slug": "hy",
+      "urlSlug": "hy",
+      "name": "hy",
+      "nameKo": "hy",
+      "nameEn": "hy",
+      "definition": "hy(에치와이)는 1969년 한국야쿠르트로 설립돼 2021년 현재 사명으로 바꾼 대한민국의 발효유·유통전문 기업이다.",
+      "summary": "hy(에치와이)는 1969년 한국야쿠르트로 설립돼 2021년 현재 사명으로 바꾼 대한민국의 발효유·유통전문 기업이다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "",
+      "insight": "유산균·발효유 전문성과 냉장 유통 네트워크를 결합한 유통·물류 플랫폼 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "hy(에치와이)는 1969년 한국야쿠르트로 설립돼 야쿠르트와 발효유로 성장했고 2021년 사명을 hy로 변경했다. 헬리코박터 프로젝트 윌 등 기능성 발효유와 냉장 유통 네트워크, 온라인몰 프레딧을 운영한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "유산균·발효유 전문성과 냉장 유통 네트워크를 결합한 유통·물류 플랫폼 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hy.co.kr/"
+    },
+    {
+      "id": 1333,
+      "slug": "sajo",
+      "urlSlug": "sajo",
+      "name": "사조",
+      "nameKo": "사조",
+      "nameEn": "Sajo",
+      "definition": "사조(Sajo)는 1971년 설립된 사조산업을 모태로 원양어업과 수산·식품가공을 핵심으로 하는 대한민국의 기업집단이다.",
+      "summary": "사조(Sajo)는 1971년 설립된 사조산업을 모태로 원양어업과 수산·식품가공을 핵심으로 하는 대한민국의 기업집단이다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/sajo.png",
+      "insight": "'바다에서 식탁까지'를 표방하는 원양어업·수산식품 종합 기업집단이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "사조(Sajo)는 1971년 사조산업으로 출발해 원양어업과 참치캔 사업으로 성장했고 사조대림·사조씨푸드 등 다수 식품 계열사를 거느린다. 참치캔·어묵·김·맛살 등 폭넓은 수산·가공식품을 생산한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'바다에서 식탁까지'를 표방하는 원양어업·수산식품 종합 기업집단이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.sajo.co.kr/"
+    },
+    {
+      "id": 1334,
+      "slug": "neowiz",
+      "urlSlug": "neowiz",
+      "name": "네오위즈",
+      "nameKo": "네오위즈",
+      "nameEn": "NEOWIZ",
+      "definition": "네오위즈(NEOWIZ)는 'P의 거짓'으로 대표되는 한국의 게임 개발·퍼블리싱 기업이다.",
+      "summary": "네오위즈(NEOWIZ)는 'P의 거짓'으로 대표되는 한국의 게임 개발·퍼블리싱 기업이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4.1,
+      "image": "",
+      "logo": "images/logos/neowiz.png",
+      "insight": "모바일에서 콘솔·PC로 전략을 전환해 'P의 거짓'으로 글로벌에 안착한 게임사다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "네오위즈(NEOWIZ)는 1997년 창업한 그룹에서 2007년 게임 사업이 분할돼 출범했고 네오위즈홀딩스를 모회사로 둔다. 2023년 콘솔 액션 RPG 'P의 거짓'으로 대한민국 게임대상 대상을 받았으며 DJMAX 시리즈 등도 보유한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "모바일에서 콘솔·PC로 전략을 전환해 'P의 거짓'으로 글로벌에 안착한 게임사다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.neowiz.com/"
+    },
+    {
+      "id": 1335,
+      "slug": "lionheart-studio",
+      "urlSlug": "lionheart-studio",
+      "name": "라이온하트 스튜디오",
+      "nameKo": "라이온하트 스튜디오",
+      "nameEn": "Lionheart Studio",
+      "definition": "라이온하트 스튜디오(Lionheart Studio)는 MMORPG '오딘: 발할라 라이징'을 개발한 카카오게임즈 계열의 한국 게임 개발 스튜디오다.",
+      "summary": "라이온하트 스튜디오(Lionheart Studio)는 MMORPG '오딘: 발할라 라이징'을 개발한 카카오게임즈 계열의 한국 게임 개발 스튜디오다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/lionheart-studio.png",
+      "insight": "고품질 그래픽 MMORPG를 지향하는 카카오게임즈 산하 개발 스튜디오다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "라이온하트 스튜디오(Lionheart Studio)는 2018년 설립돼 2021년 MMORPG '오딘: 발할라 라이징'을 출시하며 구글플레이 매출 1위와 대한민국 게임대상 대상을 차지했다. 2021년 카카오게임즈의 자회사로 편입됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "고품질 그래픽 MMORPG를 지향하는 카카오게임즈 산하 개발 스튜디오다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://lionhearts.co.kr/"
+    },
+    {
+      "id": 1336,
+      "slug": "nhn",
+      "urlSlug": "nhn",
+      "name": "NHN",
+      "nameKo": "NHN",
+      "nameEn": "NHN Corporation",
+      "definition": "NHN은 게임을 기반으로 PAYCO 간편결제, 클라우드, 커머스·콘텐츠를 영위하는 한국의 종합 IT 기업이다.",
+      "summary": "NHN은 게임을 기반으로 PAYCO 간편결제, 클라우드, 커머스·콘텐츠를 영위하는 한국의 종합 IT 기업이다.",
+      "industry": "기술·전자",
+      "domainSlug": "technology-electronics",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/nhn.png",
+      "insight": "게임 DNA에서 출발해 결제·클라우드·콘텐츠로 확장한 종합 IT 테크 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "NHN은 2013년 네이버에서 분할된 NHN엔터테인먼트가 2019년 현 사명으로 바꾼 회사로, 네이버와는 별개의 독립 상장사다. 한게임을 기반으로 PAYCO 결제, NHN Cloud, 커머스·콘텐츠로 사업을 확장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "게임 DNA에서 출발해 결제·클라우드·콘텐츠로 확장한 종합 IT 테크 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://nhn.com/"
+    },
+    {
+      "id": 1337,
+      "slug": "zigbang",
+      "urlSlug": "zigbang",
+      "name": "직방",
+      "nameKo": "직방",
+      "nameEn": "Zigbang",
+      "definition": "직방(Zigbang)은 대한민국의 부동산 중개·정보 플랫폼을 운영하는 프롭테크 기업이다.",
+      "summary": "직방(Zigbang)은 대한민국의 부동산 중개·정보 플랫폼을 운영하는 프롭테크 기업이다.",
+      "industry": "기술·전자",
+      "domainSlug": "technology-electronics",
+      "tier": "C_source_backed",
+      "rating": 4,
+      "image": "",
+      "logo": "images/logos/zigbang.png",
+      "insight": "부동산 정보 비대칭을 기술로 해소하려는 한국 대표 프롭테크 플랫폼이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "직방(Zigbang)은 2010년 채널브리즈로 설립돼 2012년 부동산 앱을 출시했고 2015년 사명을 직방으로 바꿨다. 호갱노노·네모 인수와 삼성SDS 홈IoT 사업 인수 등으로 영역을 넓혀 부동산 정보와 스마트홈을 아우른다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "부동산 정보 비대칭을 기술로 해소하려는 한국 대표 프롭테크 플랫폼이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.zigbang.com/"
     }
   ],
   "koreanSources": [
