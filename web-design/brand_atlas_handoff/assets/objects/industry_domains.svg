@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-label="브랜드 아틀라스 산업 도메인 지도">
+  <defs>
+    <style>
+      .lbl{font-family:'Noto Sans KR','Apple SD Gothic Neo',sans-serif;font-size:17px;font-weight:500;fill:#0f0f0f}
+      .kick{font-family:'Noto Sans KR',sans-serif;font-size:13px;font-weight:700;letter-spacing:3px;fill:#6b7280}
+      .gl{fill:none;stroke:#0f0f0f;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+      .glr{fill:none;stroke:#ed1f26;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+      .cell{fill:none;stroke:#e5e7eb;stroke-width:1.4}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="760" height="560" fill="#ffffff"/>
+  <text x="40" y="48" class="kick">INDUSTRY DOMAINS · 산업 도메인</text>
+  <line x1="40" y1="64" x2="720" y2="64" stroke="#0f0f0f" stroke-width="2"/>
+
+  <!-- grid 4 x 3, cells 170w x 138h, origin 40,86 -->
+  <!-- row1 -->
+  <g transform="translate(40,86)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,52)">
+      <path class="gl" d="M-26,-2 h44 a4,4 0 0 1 4,4 v10 a18,18 0 0 1 -18,18 h-16 a18,18 0 0 1 -18,-18 v-10 a4,4 0 0 1 4,-4 z"/>
+      <path class="gl" d="M22,4 h8 a9,9 0 0 1 0,18 h-6"/>
+      <path class="gl" d="M-34,36 h52"/>
+      <path class="gl" d="M-12,-14 c-4,-5 4,-8 0,-14 M2,-14 c-4,-5 4,-8 0,-14"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">식음료</text>
+  </g>
+  <g transform="translate(210,86)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <path class="gl" d="M0,-22 a7,7 0 1 0 6,11"/>
+      <path class="gl" d="M0,-11 L-34,16 a3,3 0 0 0 2,5 h64 a3,3 0 0 0 2,-5 z"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">패션·럭셔리</text>
+  </g>
+  <g transform="translate(380,86)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <rect class="glr" x="-20" y="-20" width="40" height="40" rx="4"/>
+      <rect class="gl" x="-9" y="-9" width="18" height="18"/>
+      <path class="gl" d="M-13,-20 v-9 M0,-20 v-9 M13,-20 v-9 M-13,20 v9 M0,20 v9 M13,20 v9 M-20,-13 h-9 M-20,0 h-9 M-20,13 h-9 M20,-13 h9 M20,0 h9 M20,13 h9"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">기술·전자</text>
+  </g>
+  <g transform="translate(550,86)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,52)">
+      <path class="gl" d="M-34,6 v-10 l8,-18 a6,6 0 0 1 5,-3 h34 a6,6 0 0 1 5,3 l8,18 v10 a3,3 0 0 1 -3,3 h-6 a8,8 0 0 1 -16,0 h-10 a8,8 0 0 1 -16,0 h-6 a3,3 0 0 1 -3,-3 z"/>
+      <path class="gl" d="M-26,-12 h52"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">모빌리티</text>
+  </g>
+
+  <!-- row2 -->
+  <g transform="translate(40,224)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <path class="gl" d="M0,-24 c10,14 16,20 16,30 a16,16 0 0 1 -32,0 c0,-10 6,-16 16,-30 z"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">뷰티·퍼스널케어</text>
+  </g>
+  <g transform="translate(210,224)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <rect class="glr" x="-22" y="-22" width="44" height="44" rx="8"/>
+      <path class="glr" d="M0,-12 v24 M-12,0 h24"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">헬스·제약</text>
+  </g>
+  <g transform="translate(380,224)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,52)">
+      <path class="gl" d="M-30,6 l30,-30 l30,30"/>
+      <path class="gl" d="M-22,6 v22 a3,3 0 0 0 3,3 h38 a3,3 0 0 0 3,-3 v-22"/>
+      <path class="gl" d="M-6,31 v-16 h12 v16"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">홈·라이프스타일</text>
+  </g>
+  <g transform="translate(550,224)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <circle class="gl" cx="0" cy="0" r="24"/>
+      <path class="glr" d="M-9,-13 l24,13 l-24,13 z"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">미디어·엔터</text>
+  </g>
+
+  <!-- row3 -->
+  <g transform="translate(40,362)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <path class="gl" d="M-20,-10 h40 l4,38 a4,4 0 0 1 -4,4 h-44 a4,4 0 0 1 -4,-4 z"/>
+      <path class="gl" d="M-11,-10 v-6 a11,11 0 0 1 22,0 v6"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">리테일·커머스</text>
+  </g>
+  <g transform="translate(210,362)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <circle class="gl" cx="0" cy="-2" r="16"/>
+      <path class="glr" d="M-10,11 l-6,24 l16,-12 l16,12 l-6,-24"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">스포츠·아웃도어</text>
+  </g>
+  <g transform="translate(380,362)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <path class="gl" d="M-32,4 l30,-6 l-12,-18 h7 l22,16 l16,-3 a5,5 0 0 1 0,10 l-16,-3 l-22,16 h-7 l12,-18 z"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">여행·호스피탈리티</text>
+  </g>
+  <g transform="translate(550,362)">
+    <rect class="cell" x="0" y="0" width="170" height="138"/>
+    <g transform="translate(85,50)">
+      <path class="glr" d="M0,-24 l24,24 l-24,24 l-24,-24 z"/>
+      <path class="gl" d="M0,-10 l10,10 l-10,10 l-10,-10 z"/>
+    </g>
+    <text x="85" y="116" text-anchor="middle" class="lbl">브랜드·비즈니스</text>
+  </g>
+</svg>
