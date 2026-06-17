@@ -33,11 +33,21 @@ DESC_OK = re.compile(
     r"footwear|outdoor|chain|store|label|airline|air lines|airways|bank|brewer|"
     r"beer|beverage|drink|confection|automobile|automotive|hotel|restaurant|"
     r"software|technology|telecommunication|media|publisher|publishing|magazine publisher|"
-    r"record label|studio|enterprise|business|firm|service|product|maker", re.I)
+    r"record label|studio|enterprise|business|firm|service|product|maker|"
+    # cultural institutions, transit, orgs, startups (added 2026-06-18)
+    r"museum|gallery|art\b|orchestra|symphony|philharmon|opera|ensemble|"
+    r"zoo|aquarium|foundation|charit|nonprofit|non-profit|garden|botanic|"
+    r"universit|college|institute|academy|library|festival|exposition|world's fair|"
+    r"world fair|olympic|games|expo\b|airport|metro|railway|railroad|transit|"
+    r"subway|broadcast|television|\bradio\b|network|association|society|"
+    r"\bfund\b|insurance|payment|fintech|platform|\bapp\b|application|startup|"
+    r"distiller|winer|spirits|vodka|\bgin\b|tequila|whisky|whiskey|soda|juice|"
+    r"snack|\bfood\b|dairy|coffee|\bcafe\b|\btea\b|\bwine\b|aerospace|biotech|"
+    r"agency|consultanc|bureau|center|centre|organisation|organization", re.I)
 DESC_BAD = re.compile(
     r"\bsong\b|\balbum\b|\bfilm\b|\bvillage\b|\briver\b|given name|surname|"
     r"footballer|\bspecies\b|municipalit|mountain|wikimedia|disambiguat|"
-    r"\bplayer\b|neighbourhood|\bdistrict\b|\bstadium\b|\bcity\b|\btown\b|"
+    r"\bplayer\b|neighbourhood|\bstadium\b|"
     r"intersection|\bstation\b|sculpture|newspaper article|aspect of|list of", re.I)
 
 STOP = {"the", "co", "ltd", "inc", "corp", "company", "group", "brand", "brands",
