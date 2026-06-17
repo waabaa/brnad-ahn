@@ -32,7 +32,7 @@
     "아이덴티티 아카이브"
   ],
   "stats": {
-    "brands": 1035,
+    "brands": 1060,
     "magazineBrands": 492,
     "aTier": 19,
     "sections": 5538,
@@ -53,7 +53,7 @@
       "id": "food-beverage",
       "name": "식음료",
       "nameEn": "Food & Beverage",
-      "count": 126,
+      "count": 131,
       "icon": "assets/objects/icon_food.png",
       "examples": [
         "맥도날드",
@@ -85,7 +85,7 @@
       "id": "fashion-luxury",
       "name": "패션·럭셔리",
       "nameEn": "Fashion & Luxury",
-      "count": 95,
+      "count": 98,
       "icon": "assets/objects/icon_fashion.png",
       "examples": [
         "루이비통",
@@ -133,7 +133,7 @@
       "id": "beauty-personal-care",
       "name": "뷰티·퍼스널케어",
       "nameEn": "Beauty & Personal Care",
-      "count": 35,
+      "count": 39,
       "icon": "assets/objects/icon_beauty.png",
       "examples": [
         "더바디샵",
@@ -149,7 +149,7 @@
       "id": "mobility",
       "name": "모빌리티",
       "nameEn": "Mobility",
-      "count": 29,
+      "count": 31,
       "icon": "assets/objects/icon_mobility.png",
       "examples": [
         "할리데이비슨",
@@ -228,7 +228,7 @@
       "id": "brand-business",
       "name": "브랜드·비즈니스",
       "nameEn": "Brand & Business",
-      "count": 219,
+      "count": 230,
       "icon": "assets/objects/brand_atlas_logo_mark.png",
       "examples": [
         "베스트 글로벌 브랜드",
@@ -130407,6 +130407,806 @@
       "publicReady": true,
       "displayPriority": "normal",
       "officialWebsite": "https://www.fila.com/"
+    },
+    {
+      "id": 1209,
+      "slug": "hana-financial-group",
+      "urlSlug": "hana-financial-group",
+      "name": "하나금융그룹",
+      "nameKo": "하나금융그룹",
+      "nameEn": "Hana Financial Group",
+      "definition": "하나금융그룹(Hana Financial Group)은 2005년 출범한 한국 3대 금융지주회사 중 하나다.",
+      "summary": "하나금융그룹(Hana Financial Group)은 2005년 출범한 한국 3대 금융지주회사 중 하나다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "은행·증권·카드·보험·캐피탈을 거느린 한국 3대 금융지주의 하나로, 글로벌 네트워크를 갖춘 종합 금융그룹이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "하나금융그룹(Hana Financial Group)은 한국의 대표 금융지주회사다. 지주사는 2005년 12월 출범했으며, 핵심 자회사 하나은행을 중심으로 한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "은행·증권·카드·보험·캐피탈을 거느린 한국 3대 금융지주의 하나로, 글로벌 네트워크를 갖춘 종합 금융그룹이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hanafn.com/"
+    },
+    {
+      "id": 1210,
+      "slug": "woori-financial-group",
+      "urlSlug": "woori-financial-group",
+      "name": "우리금융그룹",
+      "nameKo": "우리금융그룹",
+      "nameEn": "Woori Financial Group",
+      "definition": "우리금융그룹(Woori Financial Group)은 우리은행을 중심으로 한 한국의 대형 금융지주회사다.",
+      "summary": "우리금융그룹(Woori Financial Group)은 우리은행을 중심으로 한 한국의 대형 금융지주회사다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "우리은행을 중심으로 은행·금융서비스를 아우르는 한국 4대 금융지주의 하나로, 100년이 넘는 은행 역사를 계승한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "우리금융그룹(Woori Financial Group)은 한국의 대형 금융지주회사다. 2001년 최초 지주사가 설립됐고, 민영화 과정을 거쳐 2019년 지주 체제로 재출범했다. 핵심 자회사 우리은행은 1899년 대한천일은행에 뿌리를 둔다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "우리은행을 중심으로 은행·금융서비스를 아우르는 한국 4대 금융지주의 하나로, 100년이 넘는 은행 역사를 계승한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.woorifg.com/"
+    },
+    {
+      "id": 1211,
+      "slug": "nh-financial-group",
+      "urlSlug": "nh-financial-group",
+      "name": "NH농협금융지주",
+      "nameKo": "NH농협금융지주",
+      "nameEn": "NH Nonghyup Financial Group",
+      "definition": "NH농협금융지주는 농협중앙회가 100% 소유한 한국의 대형 금융지주회사로, 2012년 설립됐다.",
+      "summary": "NH농협금융지주는 농협중앙회가 100% 소유한 한국의 대형 금융지주회사로, 2012년 설립됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "NH농협은행·NH투자증권·NH농협생명·NH농협손해보험 등을 거느린 국내 최대급 금융그룹으로, 협동조합에 기반한 금융 네트워크가 특징이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "NH농협금융지주(NH Nonghyup Financial Group)는 농협(협동조합) 계열의 금융지주회사다. 2012년 3월 설립됐으며, 농협중앙회가 지분을 100% 보유한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "NH농협은행·NH투자증권·NH농협생명·NH농협손해보험 등을 거느린 국내 최대급 금융그룹으로, 협동조합에 기반한 금융 네트워크가 특징이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.nhfngroup.com/"
+    },
+    {
+      "id": 1212,
+      "slug": "kakao-pay",
+      "urlSlug": "kakao-pay",
+      "name": "카카오페이",
+      "nameKo": "카카오페이",
+      "nameEn": "Kakao Pay",
+      "definition": "카카오페이(Kakao Pay)는 카카오 계열의 모바일 간편결제·디지털 금융 기업으로, 2014년 서비스 시작 후 2017년 분사했다.",
+      "summary": "카카오페이(Kakao Pay)는 카카오 계열의 모바일 간편결제·디지털 금융 기업으로, 2014년 서비스 시작 후 2017년 분사했다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "카카오톡과 연계한 한국 대표 모바일 간편결제·디지털 지갑으로, 송금·결제·인증·투자·보험 등 일상 금융 서비스를 폭넓게 제공한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "카카오페이(Kakao Pay)는 카카오 산하의 핀테크 기업이다. 2014년 카카오톡 내 간편결제 기능으로 시작해 2017년 별도 법인으로 분사했고, 2021년 증시에 상장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "카카오톡과 연계한 한국 대표 모바일 간편결제·디지털 지갑으로, 송금·결제·인증·투자·보험 등 일상 금융 서비스를 폭넓게 제공한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.kakaopay.com/"
+    },
+    {
+      "id": 1213,
+      "slug": "samsung-life",
+      "urlSlug": "samsung-life",
+      "name": "삼성생명",
+      "nameKo": "삼성생명",
+      "nameEn": "Samsung Life Insurance",
+      "definition": "삼성생명(Samsung Life Insurance)은 한국 최대의 생명보험사로, 1957년 동방생명으로 출발해 1989년 현 사명이 됐다.",
+      "summary": "삼성생명(Samsung Life Insurance)은 한국 최대의 생명보험사로, 1957년 동방생명으로 출발해 1989년 현 사명이 됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최대 생명보험사이자 삼성그룹의 대표 금융 계열사로, 2010년 당시 한국 사상 최대 규모의 기업공개(IPO)를 단행한 것으로도 잘 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "삼성생명(Samsung Life Insurance)은 삼성그룹 계열의 한국 최대 생명보험사다. 1957년 동방생명보험으로 설립돼 1989년 삼성생명으로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최대 생명보험사이자 삼성그룹의 대표 금융 계열사로, 2010년 당시 한국 사상 최대 규모의 기업공개(IPO)를 단행한 것으로도 잘 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.samsunglife.com/"
+    },
+    {
+      "id": 1214,
+      "slug": "dongsuh-foods",
+      "urlSlug": "dongsuh-foods",
+      "name": "동서식품",
+      "nameKo": "동서식품",
+      "nameEn": "Dongsuh Foods",
+      "definition": "동서식품(Dongsuh Foods)은 맥심(Maxim) 커피로 유명한 한국의 인스턴트 커피 기업으로, 1968년 설립됐다.",
+      "summary": "동서식품(Dongsuh Foods)은 맥심(Maxim) 커피로 유명한 한국의 인스턴트 커피 기업으로, 1968년 설립됐다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "맥심(Maxim)과 맥심 모카골드 등으로 한국 인스턴트 커피 시장을 30년 넘게 선도해 온 기업으로, 한국인의 커피믹스 문화를 대표한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "동서식품(Dongsuh Foods)은 한국의 대표 인스턴트 커피 기업이다. 1968년 한국의 동서그룹과 미국 제너럴푸드(현 몬델리즈)의 합작으로 설립됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "맥심(Maxim)과 맥심 모카골드 등으로 한국 인스턴트 커피 시장을 30년 넘게 선도해 온 기업으로, 한국인의 커피믹스 문화를 대표한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.dongsuh.co.kr/"
+    },
+    {
+      "id": 1215,
+      "slug": "daesang",
+      "urlSlug": "daesang",
+      "name": "대상",
+      "nameKo": "대상",
+      "nameEn": "Daesang",
+      "definition": "대상(Daesang)은 미원과 청정원으로 유명한 한국의 종합 식품·조미료 기업으로, 1956년 창업했다.",
+      "summary": "대상(Daesang)은 미원과 청정원으로 유명한 한국의 종합 식품·조미료 기업으로, 1956년 창업했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 조미료 시장을 대표하는 미원(MSG)과 종합식품 브랜드 청정원을 중심으로, 발효·조미료 기술에 강점을 둔 식품 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "대상(Daesang)은 한국의 종합 식품 기업이다. 1956년 동아화성공업으로 창업했으며, 현재 대상홀딩스 계열의 사업회사다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 조미료 시장을 대표하는 미원(MSG)과 종합식품 브랜드 청정원을 중심으로, 발효·조미료 기술에 강점을 둔 식품 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.daesang.com/"
+    },
+    {
+      "id": 1216,
+      "slug": "maeil-dairies",
+      "urlSlug": "maeil-dairies",
+      "name": "매일유업",
+      "nameKo": "매일유업",
+      "nameEn": "Maeil Dairies",
+      "definition": "매일유업(Maeil Dairies)은 한국의 대표 유제품 기업으로, 1969년 설립됐다.",
+      "summary": "매일유업(Maeil Dairies)은 한국의 대표 유제품 기업으로, 1969년 설립됐다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "우유·발효유·분유·치즈·커피 등 종합 유가공 제품을 생산하는 기업으로, 프리미엄 유제품과 영유아식 분야에서 강점을 보인다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "매일유업(Maeil Dairies)은 한국의 대표 유제품 기업이다. 1969년 한국낙농가공으로 설립됐으며, 현재 매일홀딩스 산하 사업회사다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "우유·발효유·분유·치즈·커피 등 종합 유가공 제품을 생산하는 기업으로, 프리미엄 유제품과 영유아식 분야에서 강점을 보인다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.maeil.com/"
+    },
+    {
+      "id": 1217,
+      "slug": "lotte-wellfood",
+      "urlSlug": "lotte-wellfood",
+      "name": "롯데웰푸드",
+      "nameKo": "롯데웰푸드",
+      "nameEn": "Lotte Wellfood",
+      "definition": "롯데웰푸드(Lotte Wellfood)는 빼빼로·가나 초콜릿으로 유명한 롯데그룹 계열 제과 기업으로, 1967년 롯데제과로 설립돼 2023년 현 사명이 됐다.",
+      "summary": "롯데웰푸드(Lotte Wellfood)는 빼빼로·가나 초콜릿으로 유명한 롯데그룹 계열 제과 기업으로, 1967년 롯데제과로 설립돼 2023년 현 사명이 됐다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "가나 초콜릿, 빼빼로, 자일리톨 껌, 코알라마치 등 친숙한 제과 브랜드를 보유한 한국의 대표 제과 기업이다. 빼빼로데이로 상징되는 마케팅으로도 잘 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "롯데웰푸드(Lotte Wellfood)는 롯데그룹 계열의 제과·식품 기업이다. 1967년 롯데제과로 설립됐고, 2022년 롯데푸드를 합병한 뒤 2023년 롯데웰푸드로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "가나 초콜릿, 빼빼로, 자일리톨 껌, 코알라마치 등 친숙한 제과 브랜드를 보유한 한국의 대표 제과 기업이다. 빼빼로데이로 상징되는 마케팅으로도 잘 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.lottewellfood.com/"
+    },
+    {
+      "id": 1218,
+      "slug": "haitai",
+      "urlSlug": "haitai",
+      "name": "해태제과",
+      "nameKo": "해태제과",
+      "nameEn": "Haitai Confectionery",
+      "definition": "해태제과(Haitai Confectionery & Foods)는 허니버터칩으로 유명한 한국의 제과 기업으로, 1945년 창업했다.",
+      "summary": "해태제과(Haitai Confectionery & Foods)는 허니버터칩으로 유명한 한국의 제과 기업으로, 1945년 창업했다.",
+      "industry": "식음료",
+      "domainSlug": "food-beverage",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "스낵·과자·빙과를 아우르는 제과 기업으로, 2014년 출시한 허니버터칩은 품귀 현상을 빚으며 사회적 신드롬을 일으킨 대표 제품이 됐다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "해태제과(Haitai Confectionery & Foods)는 한국의 제과 기업이다. 1945년 국내 자본·기술 1호 식품사로 창업했으며, 2004년 크라운제과에 인수돼 현재 크라운해태홀딩스 자회사다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "스낵·과자·빙과를 아우르는 제과 기업으로, 2014년 출시한 허니버터칩은 품귀 현상을 빚으며 사회적 신드롬을 일으킨 대표 제품이 됐다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.ht.co.kr/"
+    },
+    {
+      "id": 1219,
+      "slug": "cosmax",
+      "urlSlug": "cosmax",
+      "name": "코스맥스",
+      "nameKo": "코스맥스",
+      "nameEn": "COSMAX",
+      "definition": "코스맥스(COSMAX)는 1992년 설립된 한국의 화장품 ODM 기업으로, 세계 1위 화장품 ODM 제조사로 꼽힌다.",
+      "summary": "코스맥스(COSMAX)는 1992년 설립된 한국의 화장품 ODM 기업으로, 세계 1위 화장품 ODM 제조사로 꼽힌다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "로레알·에스티로더 등 글로벌 브랜드와 다수 로컬 브랜드의 화장품을 개발·생산하는 세계 1위 화장품 ODM 기업으로, K-뷰티의 제조 기반을 떠받치는 핵심 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "코스맥스(COSMAX)는 한국의 화장품 ODM·OEM 제조 기업이다. 1992년 설립됐으며, 자체 브랜드가 아니라 글로벌·로컬 화장품 브랜드의 제품을 개발·생산한다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "로레알·에스티로더 등 글로벌 브랜드와 다수 로컬 브랜드의 화장품을 개발·생산하는 세계 1위 화장품 ODM 기업으로, K-뷰티의 제조 기반을 떠받치는 핵심 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.cosmax.com/"
+    },
+    {
+      "id": 1220,
+      "slug": "kolmar-korea",
+      "urlSlug": "kolmar-korea",
+      "name": "한국콜마",
+      "nameKo": "한국콜마",
+      "nameEn": "Kolmar Korea",
+      "definition": "한국콜마(Kolmar Korea)는 1990년 설립된 한국의 화장품 ODM 기업으로, 국내에 ODM 사업모델을 처음 도입했다.",
+      "summary": "한국콜마(Kolmar Korea)는 1990년 설립된 한국의 화장품 ODM 기업으로, 국내에 ODM 사업모델을 처음 도입했다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "국내 화장품 업계에 처음으로 ODM 사업모델을 도입해 K-뷰티 성장의 제조 기반을 마련한 기업으로, 코스맥스와 함께 한국 화장품 제조를 대표한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한국콜마(Kolmar Korea)는 한국의 화장품 ODM 제조 기업이다. 1990년 미국 콜마와의 기술제휴로 설립됐으며, 제약·건강기능식품으로도 사업을 확장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "국내 화장품 업계에 처음으로 ODM 사업모델을 도입해 K-뷰티 성장의 제조 기반을 마련한 기업으로, 코스맥스와 함께 한국 화장품 제조를 대표한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.kolmar.co.kr/"
+    },
+    {
+      "id": 1221,
+      "slug": "tonymoly",
+      "urlSlug": "tonymoly",
+      "name": "토니모리",
+      "nameKo": "토니모리",
+      "nameEn": "TONYMOLY",
+      "definition": "토니모리(TONYMOLY)는 2006년 설립된 한국의 로드숍 화장품 브랜드로, 개성 있는 패키지 디자인으로 알려져 있다.",
+      "summary": "토니모리(TONYMOLY)는 2006년 설립된 한국의 로드숍 화장품 브랜드로, 개성 있는 패키지 디자인으로 알려져 있다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "개성 있고 재미있는 패키지 디자인을 앞세운 K-뷰티 브랜드로, 50개국 이상에 진출하며 한국 로드숍 화장품의 해외 인지도를 높였다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "토니모리(TONYMOLY)는 2006년 출범한 한국의 화장품 브랜드다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "개성 있고 재미있는 패키지 디자인을 앞세운 K-뷰티 브랜드로, 50개국 이상에 진출하며 한국 로드숍 화장품의 해외 인지도를 높였다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.tonymoly.com/"
+    },
+    {
+      "id": 1222,
+      "slug": "cosrx",
+      "urlSlug": "cosrx",
+      "name": "코스알엑스",
+      "nameKo": "코스알엑스",
+      "nameEn": "COSRX",
+      "definition": "코스알엑스(COSRX)는 2013년 설립된 한국의 민감성 피부용 스킨케어 브랜드로, 현재 아모레퍼시픽 자회사다.",
+      "summary": "코스알엑스(COSRX)는 2013년 설립된 한국의 민감성 피부용 스킨케어 브랜드로, 현재 아모레퍼시픽 자회사다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "민감성 피부를 겨냥한 저자극 스킨케어로 글로벌 K-뷰티 시장에서 큰 인기를 얻은 브랜드로, 달팽이 점액 라인 등 효능 중심 제품으로 알려져 있다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "코스알엑스(COSRX)는 2013년 설립된 한국의 스킨케어 브랜드다. 브랜드명은 코스메틱(Cosmetics)과 처방(Rx)을 결합한 것으로, 2021년 이후 아모레퍼시픽이 인수해 자회사가 됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "민감성 피부를 겨냥한 저자극 스킨케어로 글로벌 K-뷰티 시장에서 큰 인기를 얻은 브랜드로, 달팽이 점액 라인 등 효능 중심 제품으로 알려져 있다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.cosrx.com/"
+    },
+    {
+      "id": 1223,
+      "slug": "f-and-f",
+      "urlSlug": "f-and-f",
+      "name": "F&F",
+      "nameKo": "F&F",
+      "nameEn": "F&F",
+      "definition": "F&F(에프앤에프)는 MLB와 디스커버리 익스페디션 의류를 전개하는 한국의 패션 기업으로, 1992년 설립됐다.",
+      "summary": "F&F(에프앤에프)는 MLB와 디스커버리 익스페디션 의류를 전개하는 한국의 패션 기업으로, 1992년 설립됐다.",
+      "industry": "패션·럭셔리",
+      "domainSlug": "fashion-luxury",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "미국 메이저리그베이스볼의 MLB 의류(1997년 라이선스 획득)와 디스커버리 익스페디션(2012년 라이선스 출범)을 한국·아시아에서 자체 기획·전개해 한국 패션 최초로 해외 매출 1조 원을 돌파한 라이선스 패션의 강자다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "F&F(에프앤에프)는 1992년 설립된 한국의 패션 기업이다. 2021년 인적분할로 지주사 F&F홀딩스와 사업회사 F&F로 재편됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "미국 메이저리그베이스볼의 MLB 의류(1997년 라이선스 획득)와 디스커버리 익스페디션(2012년 라이선스 출범)을 한국·아시아에서 자체 기획·전개해 한국 패션 최초로 해외 매출 1조 원을 돌파한 라이선스 패션의 강자다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.fnf.co.kr/"
+    },
+    {
+      "id": 1224,
+      "slug": "handsome",
+      "urlSlug": "handsome",
+      "name": "한섬",
+      "nameKo": "한섬",
+      "nameEn": "Handsome",
+      "definition": "한섬(Handsome)은 타임·시스템 등으로 알려진 한국의 프리미엄 패션 기업으로, 1987년 설립돼 2012년 현대백화점그룹에 편입됐다.",
+      "summary": "한섬(Handsome)은 타임·시스템 등으로 알려진 한국의 프리미엄 패션 기업으로, 1987년 설립돼 2012년 현대백화점그룹에 편입됐다.",
+      "industry": "패션·럭셔리",
+      "domainSlug": "fashion-luxury",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "타임(TIME)·시스템(SYSTEM)·마인(MINE)·SJSJ 등 자체 디자이너 브랜드와 다수 수입 브랜드를 전개하는 한국 프리미엄 의류 시장의 개척자다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "한섬(Handsome)은 한국의 프리미엄 패션 기업이다. 1987년 설립됐고 2012년 현대백화점그룹에 편입됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "타임(TIME)·시스템(SYSTEM)·마인(MINE)·SJSJ 등 자체 디자이너 브랜드와 다수 수입 브랜드를 전개하는 한국 프리미엄 의류 시장의 개척자다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.handsome.co.kr/"
+    },
+    {
+      "id": 1225,
+      "slug": "e-land",
+      "urlSlug": "e-land",
+      "name": "이랜드",
+      "nameKo": "이랜드",
+      "nameEn": "E-Land",
+      "definition": "이랜드(E-Land Group)는 패션에서 출발해 유통·외식·레저로 확장한 한국의 종합 기업집단으로, 1980년 창업했다.",
+      "summary": "이랜드(E-Land Group)는 패션에서 출발해 유통·외식·레저로 확장한 한국의 종합 기업집단으로, 1980년 창업했다.",
+      "industry": "패션·럭셔리",
+      "domainSlug": "fashion-luxury",
+      "tier": "C_source_backed",
+      "rating": 4.2,
+      "image": "",
+      "logo": "",
+      "insight": "'합리적 가치'를 앞세운 캐주얼 패션으로 성장해 SPAO·후아유 등 다수 브랜드를 전개하고, 1994년 한국 최초의 아울렛을 도입한 유통·패션 복합 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "이랜드(E-Land Group)는 한국의 종합 기업집단이다. 1980년 이화여대 앞 작은 보세 옷가게에서 출발해 패션을 모태로 유통·외식·호텔·건설 등으로 확장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "'합리적 가치'를 앞세운 캐주얼 패션으로 성장해 SPAO·후아유 등 다수 브랜드를 전개하고, 1994년 한국 최초의 아울렛을 도입한 유통·패션 복합 기업이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.eland.co.kr/"
+    },
+    {
+      "id": 1226,
+      "slug": "lg-chem",
+      "urlSlug": "lg-chem",
+      "name": "LG화학",
+      "nameKo": "LG화학",
+      "nameEn": "LG Chem",
+      "definition": "LG화학(LG Chem)은 한국 최대의 화학 기업으로, 1947년 락희화학에 뿌리를 두며 현재 법인은 2009년 재편으로 성립했다.",
+      "summary": "LG화학(LG Chem)은 한국 최대의 화학 기업으로, 1947년 락희화학에 뿌리를 두며 현재 법인은 2009년 재편으로 성립했다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.5,
+      "image": "",
+      "logo": "",
+      "insight": "석유화학·첨단소재·생명과학을 아우르는 세계 톱10 화학 기업으로, 전기차용 리튬이온 배터리 소재와 범용 플라스틱 등에서 글로벌 경쟁력을 갖췄다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "LG화학(LG Chem)은 LG그룹 계열의 한국 최대 화학 기업이다. 1947년 부산에서 락희화학공업사로 출발한 계보를 잇고, 현재의 LG Chem 법인은 2009년 재편으로 성립했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "석유화학·첨단소재·생명과학을 아우르는 세계 톱10 화학 기업으로, 전기차용 리튬이온 배터리 소재와 범용 플라스틱 등에서 글로벌 경쟁력을 갖췄다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.lgchem.com/"
+    },
+    {
+      "id": 1227,
+      "slug": "sk-innovation",
+      "urlSlug": "sk-innovation",
+      "name": "SK이노베이션",
+      "nameKo": "SK이노베이션",
+      "nameEn": "SK Innovation",
+      "definition": "SK이노베이션(SK Innovation)은 SK그룹의 에너지·정유 중간지주회사로, 사업 기원은 1962년 대한석유공사이며 현 법인은 2011년 성립했다.",
+      "summary": "SK이노베이션(SK Innovation)은 SK그룹의 에너지·정유 중간지주회사로, 사업 기원은 1962년 대한석유공사이며 현 법인은 2011년 성립했다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "SK에너지(정유)·SK온(전기차 배터리)·SK지오센트릭 등을 거느린 에너지 지주로, 전통 정유 사업과 2차전지 사업을 함께 추진한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "SK이노베이션(SK Innovation)은 SK그룹 계열의 에너지 중간지주회사다. 사업 기원은 1962년 대한석유공사로 거슬러 올라가며, 현재의 SK이노베이션 법인은 2011년 사업 분할로 성립했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "SK에너지(정유)·SK온(전기차 배터리)·SK지오센트릭 등을 거느린 에너지 지주로, 전통 정유 사업과 2차전지 사업을 함께 추진한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.skinnovation.com/"
+    },
+    {
+      "id": 1228,
+      "slug": "gs-caltex",
+      "urlSlug": "gs-caltex",
+      "name": "GS칼텍스",
+      "nameKo": "GS칼텍스",
+      "nameEn": "GS Caltex",
+      "definition": "GS칼텍스(GS Caltex)는 한국 최초의 민간 정유사로, 1967년 호남정유로 설립돼 2005년 현 사명이 됐다.",
+      "summary": "GS칼텍스(GS Caltex)는 한국 최초의 민간 정유사로, 1967년 호남정유로 설립돼 2005년 현 사명이 됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최초의 민간 정유회사로 여수 정유공장을 운영하며, 윤활유 브랜드 'Kixx' 등으로 알려져 있다. GS와 셰브런의 50:50 합작 구조가 특징이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "GS칼텍스(GS Caltex)는 한국의 정유·화학 기업이다. 1967년 한국 최초의 민간 정유사 호남정유로 설립됐고, LG에서 GS그룹이 분리된 뒤 2005년 GS칼텍스로 사명을 바꿨다. GS에너지와 미국 셰브런의 합작이다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최초의 민간 정유회사로 여수 정유공장을 운영하며, 윤활유 브랜드 'Kixx' 등으로 알려져 있다. GS와 셰브런의 50:50 합작 구조가 특징이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.gscaltex.com/"
+    },
+    {
+      "id": 1229,
+      "slug": "posco",
+      "urlSlug": "posco",
+      "name": "포스코",
+      "nameKo": "포스코",
+      "nameEn": "POSCO",
+      "definition": "포스코(POSCO)는 한국을 대표하는 철강 기업으로, 1968년 포항종합제철로 설립돼 2002년 사명을 POSCO로 바꿨다.",
+      "summary": "포스코(POSCO)는 한국을 대표하는 철강 기업으로, 1968년 포항종합제철로 설립돼 2002년 사명을 POSCO로 바꿨다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.6,
+      "image": "",
+      "logo": "",
+      "insight": "포항·광양 일관제철소를 운영하는 한국 대표 철강사로 한때 세계 최대 철강 기업으로 꼽혔으며, 한국 산업화의 상징으로 평가된다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "포스코(POSCO)는 한국의 대표 철강 기업이다. 1968년 포항종합제철(포항종합제철주식회사)로 설립됐고 2002년 사명을 POSCO로 변경했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "포항·광양 일관제철소를 운영하는 한국 대표 철강사로 한때 세계 최대 철강 기업으로 꼽혔으며, 한국 산업화의 상징으로 평가된다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.posco.co.kr/"
+    },
+    {
+      "id": 1230,
+      "slug": "genesis",
+      "urlSlug": "genesis",
+      "name": "제네시스",
+      "nameKo": "제네시스",
+      "nameEn": "Genesis",
+      "definition": "제네시스(Genesis)는 현대자동차그룹이 2015년 출범시킨 럭셔리 자동차 브랜드다.",
+      "summary": "제네시스(Genesis)는 현대자동차그룹이 2015년 출범시킨 럭셔리 자동차 브랜드다.",
+      "industry": "모빌리티",
+      "domainSlug": "mobility",
+      "tier": "C_source_backed",
+      "rating": 4.5,
+      "image": "",
+      "logo": "",
+      "insight": "한국 최초의 독자 럭셔리 자동차 브랜드로, G90 등 모델을 통해 정제된 디자인과 고급 경험을 표방하며 글로벌 프리미엄 시장에 진입했다. 2008년부터 쓰인 현대 제네시스 세단 모델과는 구별된다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "제네시스(Genesis)는 현대자동차그룹의 럭셔리 자동차 브랜드다. 2015년 11월 한국 자동차 제조사 최초의 독자 럭셔리 디비전으로 출범했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "한국 최초의 독자 럭셔리 자동차 브랜드로, G90 등 모델을 통해 정제된 디자인과 고급 경험을 표방하며 글로벌 프리미엄 시장에 진입했다. 2008년부터 쓰인 현대 제네시스 세단 모델과는 구별된다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.genesis.com/"
+    },
+    {
+      "id": 1231,
+      "slug": "hyundai-mobis",
+      "urlSlug": "hyundai-mobis",
+      "name": "현대모비스",
+      "nameKo": "현대모비스",
+      "nameEn": "Hyundai Mobis",
+      "definition": "현대모비스(Hyundai Mobis)는 현대자동차그룹의 자동차 부품 기업으로, 1977년 설립돼 2000년 현 사명이 됐다.",
+      "summary": "현대모비스(Hyundai Mobis)는 현대자동차그룹의 자동차 부품 기업으로, 1977년 설립돼 2000년 현 사명이 됐다.",
+      "industry": "모빌리티",
+      "domainSlug": "mobility",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "현대·기아·제네시스의 핵심 부품과 사후 서비스(A/S)를 책임지는 글로벌 상위권 자동차 부품 공급사로, 섀시 모듈과 안전·전장 부품을 생산한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "현대모비스(Hyundai Mobis)는 현대자동차그룹 계열의 자동차 부품 기업이다. 1977년 한국정밀공업으로 창립해 현대정공을 거쳐 2000년 현대모비스로 사명을 바꿨다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "현대·기아·제네시스의 핵심 부품과 사후 서비스(A/S)를 책임지는 글로벌 상위권 자동차 부품 공급사로, 섀시 모듈과 안전·전장 부품을 생산한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.mobis.co.kr/"
+    },
+    {
+      "id": 1232,
+      "slug": "hd-hyundai-heavy",
+      "urlSlug": "hd-hyundai-heavy",
+      "name": "HD현대중공업",
+      "nameKo": "HD현대중공업",
+      "nameEn": "HD Hyundai Heavy Industries",
+      "definition": "HD현대중공업(HD Hyundai Heavy Industries)은 세계 최대 규모의 조선 기업으로, 1972년 현대조선중공업으로 설립됐다.",
+      "summary": "HD현대중공업(HD Hyundai Heavy Industries)은 세계 최대 규모의 조선 기업으로, 1972년 현대조선중공업으로 설립됐다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "1983년 세계 1위에 오른 세계 최대 규모의 조선사로, 원유운반선·LNG선·컨테이너선과 해양설비·함정 등을 건조하는 한국 중공업의 상징이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "HD현대중공업(HD Hyundai Heavy Industries)은 HD현대 그룹 산하의 조선·중공업 기업이다. 1972년 정주영이 현대조선중공업으로 설립했고, 2022년 그룹이 'HD현대'로 리브랜딩됐다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "1983년 세계 1위에 오른 세계 최대 규모의 조선사로, 원유운반선·LNG선·컨테이너선과 해양설비·함정 등을 건조하는 한국 중공업의 상징이다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.hd.com/"
+    },
+    {
+      "id": 1233,
+      "slug": "doosan",
+      "urlSlug": "doosan",
+      "name": "두산",
+      "nameKo": "두산",
+      "nameEn": "Doosan",
+      "definition": "두산(Doosan Group)은 1896년 박승직 상점으로 출발한 한국 최고(最古)의 기업으로, 현재 발전설비·건설기계 등을 아우르는 복합기업이다.",
+      "summary": "두산(Doosan Group)은 1896년 박승직 상점으로 출발한 한국 최고(最古)의 기업으로, 현재 발전설비·건설기계 등을 아우르는 복합기업이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
+      "tier": "C_source_backed",
+      "rating": 4.3,
+      "image": "",
+      "logo": "",
+      "insight": "소비재에서 출발해 발전설비·건설기계·연료전지·로보틱스 등 중공업 중심으로 사업을 전환한 복합기업으로, 건설기계 브랜드 밥캣(Bobcat) 등을 보유한다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "두산(Doosan Group)은 한국의 대표 복합 기업집단이다. 1896년 서울 종로의 박승직 상점에서 출발한 한국 현존 최고(最古) 기업으로 꼽힌다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "소비재에서 출발해 발전설비·건설기계·연료전지·로보틱스 등 중공업 중심으로 사업을 전환한 복합기업으로, 건설기계 브랜드 밥캣(Bobcat) 등을 보유한다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://www.doosan.com/"
     }
   ],
   "koreanSources": [
