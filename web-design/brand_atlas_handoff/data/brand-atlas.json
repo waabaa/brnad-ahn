@@ -69,7 +69,7 @@
       "id": "retail-commerce",
       "name": "리테일·커머스",
       "nameEn": "Retail & Commerce",
-      "count": 123,
+      "count": 115,
       "icon": "assets/objects/icon_retail.png",
       "examples": [
         "유니클로",
@@ -85,7 +85,7 @@
       "id": "fashion-luxury",
       "name": "패션·럭셔리",
       "nameEn": "Fashion & Luxury",
-      "count": 97,
+      "count": 98,
       "icon": "assets/objects/icon_fashion.png",
       "examples": [
         "루이비통",
@@ -101,7 +101,7 @@
       "id": "media-entertainment",
       "name": "미디어·엔터테인먼트",
       "nameEn": "Media & Entertainment",
-      "count": 265,
+      "count": 267,
       "icon": "assets/objects/icon_media.png",
       "examples": [
         "JYP 엔터테인먼트",
@@ -149,7 +149,7 @@
       "id": "mobility",
       "name": "모빌리티",
       "nameEn": "Mobility",
-      "count": 33,
+      "count": 34,
       "icon": "assets/objects/icon_mobility.png",
       "examples": [
         "할리데이비슨",
@@ -165,7 +165,7 @@
       "id": "sports-outdoor",
       "name": "스포츠·아웃도어",
       "nameEn": "Sports & Outdoor",
-      "count": 44,
+      "count": 45,
       "icon": "assets/objects/icon_sports.png",
       "examples": [
         "나이키",
@@ -181,7 +181,7 @@
       "id": "home-lifestyle",
       "name": "홈·라이프스타일",
       "nameEn": "Home & Lifestyle",
-      "count": 44,
+      "count": 47,
       "icon": "assets/objects/icon_home.png",
       "examples": [
         "빅",
@@ -67004,15 +67004,15 @@
       "name": "A.S.Adventure",
       "nameKo": "A.S.Adventure",
       "nameEn": "A.S.Adventure",
-      "definition": "A.S.Adventure는 벨기에의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "A.S.Adventure는 벨기에 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "에이에스 어드벤처(A.S.Adventure)는 벨기에의 선도적인 아웃도어 용품 소매 체인이다.",
+      "summary": "에이에스 어드벤처(A.S.Adventure)는 벨기에의 선도적인 아웃도어 용품 소매 체인이다.",
+      "industry": "스포츠·아웃도어",
+      "domainSlug": "sports-outdoor",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Adventure_Logo_(2025).jpg",
       "logo": "images/logos/a-s-adventure.jpg",
-      "insight": "A.S.Adventure 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "벨기에를 대표하는 아웃도어 소매 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Adventure_Logo_(2025).jpg",
@@ -67023,30 +67023,34 @@
       ],
       "sections": {
         "overview": {
-          "body": "A.S.Adventure는 벨기에 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "에이에스 어드벤처(A.S.Adventure)는 1995년 에밀 라투웨르스가 벨기에 안트베르펜에서 창업해 캠핑·하이킹·사이클링 제품을 취급한다. 모회사는 2021년 욘더랜드로 사명을 바꾼 유럽 최대 아웃도어 소매 그룹이다."
         },
         "insights": {
-          "body": "A.S.Adventure 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "A.S.Adventure 항목은 단순한 이름 목록이 아니라 스포츠·아웃도어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1995년 벨기에에서 창업한 아웃도어 소매 체인으로, 현재 욘더랜드 그룹 소속이다."
         },
         "identity": {
-          "body": "A.S.Adventure의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "벨기에를 대표하는 아웃도어 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "A.S.Adventure의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "A.S.Adventure의 제품과 서비스는 스포츠·아웃도어 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 벨기에; 산업: 리테일·커머스"
+          "body": "국가: 벨기에; 산업: 스포츠·아웃도어"
         }
-      }
+      },
+      "officialWebsite": "https://www.asadventure.com/"
     },
     {
       "id": 260,
@@ -67054,15 +67058,15 @@
       "name": "Archambault",
       "nameKo": "Archambault",
       "nameEn": "Archambault",
-      "definition": "Archambault는 캐나다의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Archambault는 캐나다 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "아르샹보(Archambault)는 캐나다 퀘벡의 서적·음반·문화상품을 취급하는 소매 체인이다.",
+      "summary": "아르샹보(Archambault)는 캐나다 퀘벡의 서적·음반·문화상품을 취급하는 소매 체인이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Archambault_2017_logo.png",
       "logo": "images/logos/archambault.png",
-      "insight": "Archambault 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "퀘벡의 대표적인 프랑스어권 문화 소매 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Archambault_2017_logo.png",
@@ -67073,22 +67077,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "Archambault는 캐나다 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "아르샹보(Archambault)는 1896년 에드몽 아르샹보가 몬트리올에 악보 판매점으로 창업했다. 이후 서적·음반·문화상품으로 확장했고 2015년 르노-브레 그룹 소속이 됐다."
         },
         "insights": {
-          "body": "Archambault 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Archambault 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1896년 캐나다 몬트리올에서 악보점으로 시작한 문화 소매 체인으로, 현재 르노-브레 소속이다."
         },
         "identity": {
-          "body": "Archambault의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "퀘벡의 대표적인 프랑스어권 문화 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Archambault의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Archambault의 제품과 서비스는 미디어·엔터테인먼트 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -67096,7 +67103,8 @@
         "current": {
           "body": "국가: 캐나다; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.archambault.ca/"
     },
     {
       "id": 192,
@@ -67412,42 +67420,46 @@
       "name": "DeSerres",
       "nameKo": "DeSerres",
       "nameEn": "DeSerres",
-      "definition": "DeSerres는 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "DeSerres는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "드세르(DeSerres)는 캐나다의 미술·공예 용품 및 액자 전문 소매 체인이다.",
+      "summary": "드세르(DeSerres)는 캐나다의 미술·공예 용품 및 액자 전문 소매 체인이다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/deserres.svg",
-      "insight": "DeSerres 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "빨간 팔레트 로고로 알려진 캐나다 대표 미술용품 소매 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "DeSerres는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "드세르(DeSerres)는 1908년 오메르 드세르가 몬트리올에서 철물점으로 창업해 3대째인 1975년 미술·공예 용품으로 전환했다. 2024년 르노-브레 그룹이 인수했고 빨간 팔레트 로고로 알려졌다."
         },
         "insights": {
-          "body": "DeSerres 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "DeSerres 항목은 단순한 이름 목록이 아니라 홈·라이프스타일 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1908년 캐나다에서 시작한 미술·공예 용품 소매 체인으로, 현재 르노-브레 소속이다."
         },
         "identity": {
-          "body": "DeSerres의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "빨간 팔레트 로고로 알려진 캐나다 대표 미술용품 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "관련 산업: 리테일·커머스"
+          "body": "관련 산업: 홈·라이프스타일"
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "산업: 리테일·커머스"
+          "body": "산업: 홈·라이프스타일"
         }
-      }
+      },
+      "officialWebsite": "https://www.deserres.ca/"
     },
     {
       "id": 228,
@@ -68228,42 +68240,46 @@
       "name": "Livraria Bertrand",
       "nameKo": "Livraria Bertrand",
       "nameEn": "Livraria Bertrand",
-      "definition": "Livraria Bertrand는 포르투갈의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Livraria Bertrand는 포르투갈 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "리브라리아 베르트란드(Livraria Bertrand)는 1732년 리스본에 설립된 세계에서 가장 오래된 영업 중인 서점이다.",
+      "summary": "리브라리아 베르트란드(Livraria Bertrand)는 1732년 리스본에 설립된 세계에서 가장 오래된 영업 중인 서점이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/livraria-bertrand.png",
-      "insight": "Livraria Bertrand 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "세계 최고(最古)의 서점이라는 역사적 상징성을 가진 포르투갈 서적 소매 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Livraria Bertrand는 포르투갈 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "리브라리아 베르트란드(Livraria Bertrand)는 1732년 리스본에 개점했고 1747년 베르트란드 형제가 합류했다. 2011년 기네스 세계기록이 '영업 중인 세계 최고(最古) 서점'으로 공인했으며 현재 포르투 에디토라 그룹 소속으로 포르투갈 전역에 지점을 운영한다."
         },
         "insights": {
-          "body": "Livraria Bertrand 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Livraria Bertrand 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1732년 포르투갈 리스본에 설립된 세계 최고(最古)의 서점으로, 현재 포르투 에디토라 소속이다."
         },
         "identity": {
-          "body": "Livraria Bertrand의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "세계 최고(最古)의 서점이라는 역사적 상징성을 가진 포르투갈 서적 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Livraria Bertrand의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Livraria Bertrand의 제품과 서비스는 미디어·엔터테인먼트 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 포르투갈; 산업: 리테일·커머스"
+          "body": "국가: 포르투갈; 산업: 미디어·엔터테인먼트"
         }
-      }
+      },
+      "officialWebsite": "https://www.bertrand.pt/"
     },
     {
       "id": 577,
@@ -68271,34 +68287,37 @@
       "name": "Louis Motorcycle",
       "nameKo": "Louis Motorcycle",
       "nameEn": "Louis Motorcycle",
-      "definition": "Louis Motorcycle는 독일의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Louis Motorcycle는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "루이스(Louis)는 1938년 독일 함부르크에서 설립된, 버크셔 해서웨이 소유의 유럽 최대 오토바이 용품·의류 소매업체이다.",
+      "summary": "루이스(Louis)는 1938년 독일 함부르크에서 설립된, 버크셔 해서웨이 소유의 유럽 최대 오토바이 용품·의류 소매업체이다.",
+      "industry": "모빌리티",
+      "domainSlug": "mobility",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/louis-motorcycle.png",
-      "insight": "Louis Motorcycle 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "오토바이 라이더를 위한 의류·장비·부품 전문 유럽 최대 소매 체인이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Louis Motorcycle는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "루이스(Louis)는 1938년 발터 로만이 함부르크에서 창업했고 1946년 데틀레프 루이스가 인수해 현 사명으로 발전시켰다. 1964년 첫 우편주문 카탈로그로 통신판매에 성공했고 2015년 버크셔 해서웨이에 인수됐다."
         },
         "insights": {
-          "body": "Louis Motorcycle 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Louis Motorcycle 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1938년 독일 함부르크에서 설립된 오토바이 용품 소매업체로, 현재 버크셔 해서웨이 소속이다."
         },
         "identity": {
-          "body": "Louis Motorcycle의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "오토바이 라이더를 위한 의류·장비·부품 전문 유럽 최대 소매 체인이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Louis Motorcycle의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Louis Motorcycle의 제품과 서비스는 모빌리티 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -68306,7 +68325,8 @@
         "current": {
           "body": "국가: 독일; 산업: 통신판매"
         }
-      }
+      },
+      "officialWebsite": "https://www.louis.eu/"
     },
     {
       "id": 610,
@@ -68364,15 +68384,15 @@
       "name": "Match",
       "nameKo": "Match",
       "nameEn": "Match",
-      "definition": "Match는 벨기에의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Match는 벨기에 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "마치(Match)는 1934년 벨기에에서 시작된, 프랑스·벨기에·룩셈부르크에서 운영되는 슈퍼마켓 체인이다.",
+      "summary": "마치(Match)는 1934년 벨기에에서 시작된, 프랑스·벨기에·룩셈부르크에서 운영되는 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Swedish-Match-Logo.svg",
       "logo": "images/logos/match.png",
-      "insight": "Match 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "루이 들레즈 그룹 계열로 운영돼 온 프랑스·베네룩스 지역 슈퍼마켓 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Swedish-Match-Logo.svg",
@@ -68383,16 +68403,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Match는 벨기에 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "마치(Match)는 1934년 벨기에에서 설립됐고 1977년 루이 들레즈 그룹이 인수했다. 프랑스 Match는 1990년 북동부의 여러 슈퍼마켓을 통합해 출범했으며 벨기에·프랑스·룩셈부르크에 매장을 운영한다."
         },
         "insights": {
           "body": "Match 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1934년 벨기에에서 시작된 프랑스·베네룩스 지역 슈퍼마켓 체인이다."
         },
         "identity": {
-          "body": "Match의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "루이 들레즈 그룹 계열로 운영돼 온 프랑스·베네룩스 지역 슈퍼마켓 브랜드다."
         },
         "external": {
           "body": ""
@@ -68406,7 +68429,8 @@
         "current": {
           "body": "국가: 벨기에; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.supermarchesmatch.fr/"
     },
     {
       "id": 404,
@@ -68414,15 +68438,15 @@
       "name": "Mercator",
       "nameKo": "Mercator",
       "nameEn": "Mercator",
-      "definition": "Mercator는 슬로베니아의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Mercator는 슬로베니아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "메르카토르(Mercator)는 1949년 슬로베니아에서 설립된, 현재 크로아티아 Fortenova 그룹 소유의 슬로베니아 최대 소매 체인이다.",
+      "summary": "메르카토르(Mercator)는 1949년 슬로베니아에서 설립된, 현재 크로아티아 Fortenova 그룹 소유의 슬로베니아 최대 소매 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stiftung_Mercator_Logo.svg",
       "logo": "images/logos/mercator.png",
-      "insight": "Mercator 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "슬로베니아 시장점유율 1위의 발칸권 종합소매 체인이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stiftung_Mercator_Logo.svg",
@@ -68433,16 +68457,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Mercator는 슬로베니아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "메르카토르(Mercator)는 1949년 류블랴나의 도매회사로 출발해 1953년 라틴어 '상인'에서 유래한 Mercator로 개명했다. 슬로베니아 최대 소매기업으로 1,000개 이상 매장을 운영하며 발칸 여러 나라에 진출했다."
         },
         "insights": {
           "body": "Mercator 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1949년 슬로베니아에서 설립된 최대 소매 체인으로, 현재 Fortenova 그룹 소속이다."
         },
         "identity": {
-          "body": "Mercator의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "슬로베니아 시장점유율 1위의 발칸권 종합소매 체인이다."
         },
         "external": {
           "body": ""
@@ -68456,7 +68483,8 @@
         "current": {
           "body": "국가: 슬로베니아; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.mercator.si/"
     },
     {
       "id": 467,
@@ -68464,15 +68492,15 @@
       "name": "New Yorker",
       "nameKo": "New Yorker",
       "nameEn": "New Yorker",
-      "definition": "New Yorker는 독일의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "New Yorker는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "뉴요커(New Yorker)는 1971년 독일에서 시작된 청소년 중심의 패스트패션 의류 소매 브랜드이다.",
+      "summary": "뉴요커(New Yorker)는 1971년 독일에서 시작된 청소년 중심의 패스트패션 의류 소매 브랜드이다.",
+      "industry": "패션·럭셔리",
+      "domainSlug": "fashion-luxury",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_New_Yorker_Marke_amisu.svg",
       "logo": "images/logos/new-yorker.png",
-      "insight": "New Yorker 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "청소년·젊은 층을 겨냥한 트렌디한 저가 패스트패션 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_New_Yorker_Marke_amisu.svg",
@@ -68483,22 +68511,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "New Yorker는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "뉴요커(New Yorker)는 1971년 플렌스부르크에서 청바지 매장으로 출발해 유럽 전역으로 확장했다. 브라운슈바이크에 본사를 두고 약 47개국 1,200개 이상 매장을 운영하는 영 패션 체인이다."
         },
         "insights": {
-          "body": "New Yorker 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "New Yorker 항목은 단순한 이름 목록이 아니라 패션·럭셔리 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1971년 독일에서 청바지 매장으로 시작한 청소년 패스트패션 브랜드다."
         },
         "identity": {
-          "body": "New Yorker의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "청소년·젊은 층을 겨냥한 트렌디한 저가 패스트패션 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "New Yorker의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "New Yorker의 제품과 서비스는 패션·럭셔리 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -68506,7 +68537,8 @@
         "current": {
           "body": "국가: 독일; 산업: clothing store chain"
         }
-      }
+      },
+      "officialWebsite": "https://www.newyorker.de/"
     },
     {
       "id": 600,
@@ -68514,15 +68546,15 @@
       "name": "Noz",
       "nameKo": "Noz",
       "nameEn": "Noz",
-      "definition": "Noz는 프랑스의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Noz는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "노즈(Noz)는 파산·과잉재고 상품을 매입해 저가로 되파는 프랑스의 재고처리 할인 소매 체인이다.",
+      "summary": "노즈(Noz)는 파산·과잉재고 상품을 매입해 저가로 되파는 프랑스의 재고처리 할인 소매 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NOZ-Logo.svg",
       "logo": "images/logos/noz.png",
-      "insight": "Noz 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "유럽 재고처리 할인 소매의 선두 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/NOZ-Logo.svg",
@@ -68533,16 +68565,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Noz는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "노즈(Noz)는 1976년 레미 아드리옹이 라발에 'Le Soldeur'로 창업해 1992년 NOZ로 개명했다. 제조 없이 도산·과잉·시즌종료 재고만 매입·재판매하는 유럽 재고처리 시장의 선두 기업이다."
         },
         "insights": {
           "body": "Noz 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1976년 프랑스 라발에서 시작된 재고처리 전문 할인 소매 체인이다."
         },
         "identity": {
-          "body": "Noz의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "유럽 재고처리 할인 소매의 선두 브랜드다."
         },
         "external": {
           "body": ""
@@ -68556,7 +68591,8 @@
         "current": {
           "body": "국가: 프랑스; 산업: Q112166112"
         }
-      }
+      },
+      "officialWebsite": "https://www.noz.fr/"
     },
     {
       "id": 601,
@@ -68564,28 +68600,31 @@
       "name": "Office 1 Superstore",
       "nameKo": "Office 1 Superstore",
       "nameEn": "Office 1 Superstore",
-      "definition": "Office 1 Superstore는 미국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Office 1 Superstore는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "오피스 원 슈퍼스토어(Office 1 Superstore)는 마스터 프랜차이즈 방식으로 운영되는 국제 사무용품 소매 프랜차이즈다.",
+      "summary": "오피스 원 슈퍼스토어(Office 1 Superstore)는 마스터 프랜차이즈 방식으로 운영되는 국제 사무용품 소매 프랜차이즈다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/office-1-superstore.jpg",
-      "insight": "Office 1 Superstore 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "신흥시장 중심의 사무용품 마스터 프랜차이즈 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Office 1 Superstore는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "오피스 원 슈퍼스토어(Office 1 Superstore)는 1994년 마크 바카시가 미국 플로리다에서 설립해 신흥시장을 마스터 프랜차이즈로 공략했다. 2018년 불가리아 판다 협동조합이 전 세계 브랜드 권리를 인수했다."
         },
         "insights": {
           "body": "Office 1 Superstore 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1994년 미국에서 설립된 사무용품 프랜차이즈로, 현재 불가리아 판다 협동조합 소유다."
         },
         "identity": {
-          "body": "Office 1 Superstore의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "신흥시장 중심의 사무용품 마스터 프랜차이즈 브랜드다."
         },
         "external": {
           "body": ""
@@ -68599,7 +68638,8 @@
         "current": {
           "body": "국가: 미국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://office1.bg/"
     },
     {
       "id": 474,
@@ -68607,42 +68647,46 @@
       "name": "Panduro Hobby",
       "nameKo": "Panduro Hobby",
       "nameEn": "Panduro Hobby",
-      "definition": "Panduro Hobby는 스웨덴의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Panduro Hobby는 스웨덴 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "판두로 하비(Panduro Hobby)는 취미·창작 재료를 취급하는 북유럽 공예용품 소매 기업이다.",
+      "summary": "판두로 하비(Panduro Hobby)는 취미·창작 재료를 취급하는 북유럽 공예용품 소매 기업이다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/panduro-hobby.svg",
-      "insight": "Panduro Hobby 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "북유럽 시장의 대표적 공예·취미 용품 소매 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Panduro Hobby는 스웨덴 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "판두로 하비(Panduro Hobby)는 1954년 카를로 판두로가 덴마크에서 창업해 1962년 스웨덴 말뫼로 이전했다. 회화·재봉·뜨개·종이·스탬프 등 공예 재료를 판매하며 2022년 레콜라르 그룹에 인수됐다."
         },
         "insights": {
-          "body": "Panduro Hobby 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Panduro Hobby 항목은 단순한 이름 목록이 아니라 홈·라이프스타일 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1954년 덴마크에서 창업해 스웨덴 말뫼로 이전한 공예용품 소매 기업으로, 현재 레콜라르 그룹 소속이다."
         },
         "identity": {
-          "body": "Panduro Hobby의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "북유럽 시장의 대표적 공예·취미 용품 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Panduro Hobby의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Panduro Hobby의 제품과 서비스는 홈·라이프스타일 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 스웨덴; 산업: 리테일·커머스"
+          "body": "국가: 스웨덴; 산업: 홈·라이프스타일"
         }
-      }
+      },
+      "officialWebsite": "https://www.panduro.com/"
     },
     {
       "id": 623,
@@ -68650,15 +68694,15 @@
       "name": "Perekryostok",
       "nameKo": "Perekryostok",
       "nameEn": "Perekryostok",
-      "definition": "Perekryostok는 러시아의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Perekryostok는 러시아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "페레크료스토크(Perekrestok)는 1994년 모스크바에서 시작된 X5 그룹 산하의 러시아 슈퍼마켓 체인이다.",
+      "summary": "페레크료스토크(Perekrestok)는 1994년 모스크바에서 시작된 X5 그룹 산하의 러시아 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Perekryostok-Logo.png",
       "logo": "images/logos/perekryostok.png",
-      "insight": "Perekryostok 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "X5 그룹의 표준형 슈퍼마켓 포맷을 대표하는 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Perekryostok-Logo.png",
@@ -68669,16 +68713,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Perekryostok는 러시아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "페레크료스토크(Perekrestok)는 1994년 모스크바에 첫 매장을 열고 2002년부터 확장했다. 2006년 퍄테로치카와 합병해 X5 리테일 그룹을 구성했으며 X5 내에서 표준 슈퍼마켓 포맷을 담당한다."
         },
         "insights": {
           "body": "Perekryostok 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1994년 러시아에서 시작된 X5 그룹 산하의 슈퍼마켓 체인이다."
         },
         "identity": {
-          "body": "Perekryostok의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "X5 그룹의 표준형 슈퍼마켓 포맷을 대표하는 브랜드다."
         },
         "external": {
           "body": ""
@@ -68692,7 +68739,8 @@
         "current": {
           "body": "국가: 러시아; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.perekrestok.ru/"
     },
     {
       "id": 606,
@@ -68700,15 +68748,15 @@
       "name": "Pick Pay",
       "nameKo": "Pick Pay",
       "nameEn": "Pick Pay",
-      "definition": "Pick Pay는 스위스의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Pick Pay는 스위스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "픽 페이(Pick Pay)는 스위스에서 운영되다 2005년 사라진 할인 슈퍼마켓 체인이다.",
+      "summary": "픽 페이(Pick Pay)는 스위스에서 운영되다 2005년 사라진 할인 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pick_n_Pay_logo.svg",
       "logo": "images/logos/pick-pay.png",
-      "insight": "Pick Pay 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "현재는 사라진(2005년 데너에 흡수) 스위스 할인 슈퍼마켓 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pick_n_Pay_logo.svg",
@@ -68719,16 +68767,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Pick Pay는 스위스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "픽 페이(Pick Pay)는 스위스의 할인 슈퍼마켓 브랜드로 독일 레베 그룹이 보유하다가 2005년 경쟁사 데너가 인수하면서 브랜드가 폐기됐다. 데너는 이후 2007년 미그로 그룹에 편입됐다."
         },
         "insights": {
           "body": "Pick Pay 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "스위스의 할인 슈퍼마켓 체인으로, 2005년 데너에 인수되며 브랜드가 폐기됐다."
         },
         "identity": {
-          "body": "Pick Pay의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "현재는 사라진(2005년 데너에 흡수) 스위스 할인 슈퍼마켓 브랜드다."
         },
         "external": {
           "body": ""
@@ -68750,15 +68801,15 @@
       "name": "Praxis",
       "nameKo": "Praxis",
       "nameEn": "Praxis",
-      "definition": "Praxis는 네덜란드의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Praxis는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "리테일·커머스",
-      "domainSlug": "retail-commerce",
+      "definition": "프락시스(Praxis)는 1978년 네덜란드에서 시작된, Maxeda DIY 그룹 소속의 DIY 홈임프루브먼트 대형소매 체인이다.",
+      "summary": "프락시스(Praxis)는 1978년 네덜란드에서 시작된, Maxeda DIY 그룹 소속의 DIY 홈임프루브먼트 대형소매 체인이다.",
+      "industry": "홈·라이프스타일",
+      "domainSlug": "home-lifestyle",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wettbewerb_in_Recht_und_Praxis_Logo.svg",
       "logo": "images/logos/praxis.png",
-      "insight": "Praxis 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "철물·정원·목재 등을 갖춘 네덜란드 대표 DIY 슈퍼스토어다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wettbewerb_in_Recht_und_Praxis_Logo.svg",
@@ -68769,22 +68820,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "Praxis는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "프락시스(Praxis)는 1978년 펜로에서 1호점을 열어 포르미도·후보 등 인수로 성장했다. 2006년 막세다 DIY 그룹에 편입됐으며 네덜란드 전역에 약 190개 매장을 운영하는 베네룩스 최대 홈임프루브먼트 소매 브랜드다."
         },
         "insights": {
-          "body": "Praxis 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Praxis 항목은 단순한 이름 목록이 아니라 홈·라이프스타일 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1978년 네덜란드에서 시작된 DIY 홈임프루브먼트 소매 체인으로, Maxeda 그룹 소속이다."
         },
         "identity": {
-          "body": "Praxis의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "철물·정원·목재 등을 갖춘 네덜란드 대표 DIY 슈퍼스토어다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Praxis의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Praxis의 제품과 서비스는 홈·라이프스타일 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -68792,7 +68846,8 @@
         "current": {
           "body": "국가: 네덜란드; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.praxis.nl/"
     },
     {
       "id": 189,
@@ -68850,28 +68905,31 @@
       "name": "Pyaterochka",
       "nameKo": "Pyaterochka",
       "nameEn": "Pyaterochka",
-      "definition": "Pyaterochka는 러시아의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Pyaterochka는 러시아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "퍄테로치카(Pyaterochka)는 1999년 러시아에서 시작된 X5 그룹 산하의 근린형 식료품 슈퍼마켓 체인이다.",
+      "summary": "퍄테로치카(Pyaterochka)는 1999년 러시아에서 시작된 X5 그룹 산하의 근린형 식료품 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "Pyaterochka 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "러시아 전역의 근린 식료품 수요를 겨냥한 X5의 대표 디스카운트형 슈퍼마켓이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Pyaterochka는 러시아 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "퍄테로치카(Pyaterochka)는 1999년 상트페테르부르크에서 1호점을 열고 2001년 모스크바로 확장했다. 2006년 페레크료스토크와 합병해 X5 리테일 그룹을 형성했으며 러시아 최대 식품소매업체 X5의 핵심 근린형 포맷이다."
         },
         "insights": {
           "body": "Pyaterochka 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1999년 러시아에서 시작된 X5 그룹 산하의 근린형 슈퍼마켓 체인이다."
         },
         "identity": {
-          "body": "Pyaterochka의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "러시아 전역의 근린 식료품 수요를 겨냥한 X5의 대표 디스카운트형 슈퍼마켓이다."
         },
         "external": {
           "body": ""
@@ -68885,7 +68943,8 @@
         "current": {
           "body": "국가: 러시아; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://5ka.ru/"
     },
     {
       "id": 413,
@@ -68893,28 +68952,31 @@
       "name": "REWE Group",
       "nameKo": "REWE Group",
       "nameEn": "REWE Group",
-      "definition": "REWE Group는 독일의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "REWE Group는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "레베 그룹(REWE Group)은 1927년 독일 쾰른에서 설립된 협동조합 기반 대형 식품유통 그룹이다.",
+      "summary": "레베 그룹(REWE Group)은 1927년 독일 쾰른에서 설립된 협동조합 기반 대형 식품유통 그룹이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/rewe-group.png",
-      "insight": "REWE Group 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "독립 소매상의 공동구매를 기반으로 한 협동조합형 유통 그룹이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "REWE Group는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "레베 그룹(REWE Group)은 1927년 17개 구매협동조합이 공동 식품조달을 위해 설립했다. 독일 식품소매 2위로 유럽 21개국에서 약 38만 명을 고용하는 협동조합형 유통 그룹이다."
         },
         "insights": {
           "body": "REWE Group 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "17개 구매협동조합이 1927년 독일 쾰른에서 설립한 협동조합형 식품유통 그룹이다."
         },
         "identity": {
-          "body": "REWE Group의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "독립 소매상의 공동구매를 기반으로 한 협동조합형 유통 그룹이다."
         },
         "external": {
           "body": ""
@@ -68928,7 +68990,8 @@
         "current": {
           "body": "국가: 독일; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.rewe-group.com/"
     },
     {
       "id": 621,
