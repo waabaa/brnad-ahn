@@ -70682,29 +70682,32 @@
       "slug": "armada",
       "name": "Armada",
       "nameKo": "Armada",
-      "nameEn": "Armada",
-      "definition": "Armada는 네덜란드의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Armada는 네덜란드 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "nameEn": "Armada Music",
+      "definition": "아르마다 뮤직(Armada Music)은 2003년 아민 반 뷰렌 등이 설립한 네덜란드의 독립 일렉트로닉 댄스 음악 레이블이다.",
+      "summary": "아르마다 뮤직(Armada Music)은 2003년 아민 반 뷰렌 등이 설립한 네덜란드의 독립 일렉트로닉 댄스 음악 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/armada.png",
-      "insight": "Armada 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "트랜스를 중심으로 한 세계 최대 규모의 독립 댄스 음악 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Armada는 네덜란드 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "아르마다 뮤직(Armada Music)은 2003년 아민 반 뷰렌·마이켈 피론·다비드 루이스가 공동 설립했으며 사명은 세 창립자 이름 앞글자에서 따왔다. 암스테르담에 본사를 두고 세계 최대 독립 댄스 음악 레이블로 평가받는다."
         },
         "insights": {
           "body": "Armada 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "아민 반 뷰렌 등이 2003년 네덜란드에서 설립한 독립 댄스 음악 레이블이다."
         },
         "identity": {
-          "body": "Armada의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "트랜스를 중심으로 한 세계 최대 규모의 독립 댄스 음악 레이블이다."
         },
         "external": {
           "body": ""
@@ -70720,7 +70723,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://www.armadamusic.com/"
     },
     {
       "id": 540,
@@ -70773,28 +70777,31 @@
       "name": "Century Media Records",
       "nameKo": "Century Media Records",
       "nameEn": "Century Media Records",
-      "definition": "Century Media Records는 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Century Media Records는 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "센추리 미디어 레코드(Century Media Records)는 1988년 독일에서 설립된 헤비메탈 전문 음반사이다.",
+      "summary": "센추리 미디어 레코드(Century Media Records)는 1988년 독일에서 설립된 헤비메탈 전문 음반사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/century-media-records.jpg",
-      "insight": "Century Media Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "메탈 신을 대표하는 소니 뮤직 산하 글로벌 메탈 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Century Media Records는 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "센추리 미디어 레코드(Century Media Records)는 1988년 로버트 캄프가 자기 밴드 앨범 발매를 위해 도르트문트에서 설립했다. 데스·블랙·고딕메탈 등을 아우르는 글로벌 메탈 명문으로 성장했고 2015년 소니 뮤직이 인수했다."
         },
         "insights": {
           "body": "Century Media Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "로버트 캄프가 1988년 독일에서 설립한 헤비메탈 음반사로, 현재 소니 뮤직 소속이다."
         },
         "identity": {
-          "body": "Century Media Records의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "메탈 신을 대표하는 소니 뮤직 산하 글로벌 메탈 레이블이다."
         },
         "external": {
           "body": ""
@@ -70826,29 +70833,32 @@
       "slug": "dsp-미디어",
       "name": "DSP 미디어",
       "nameKo": "DSP 미디어",
-      "nameEn": "DSP 미디어",
-      "definition": "DSP 미디어는 대한민국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "DSP 미디어는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "nameEn": "DSP Media",
+      "definition": "DSP미디어(DSP Media)는 핑클과 카라를 배출한 대한민국 1세대 연예기획사이다.",
+      "summary": "DSP미디어(DSP Media)는 핑클과 카라를 배출한 대한민국 1세대 연예기획사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/dsp.png",
-      "insight": "DSP 미디어 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "1세대 아이돌 유산을 보유한 RBW 계열 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "DSP 미디어는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "DSP미디어(DSP Media)는 1991년 이호연이 전신 대성기획으로 설립했고 젝스키스·핑클의 성공으로 정상급 기획사가 됐다. 2018년 창업주 별세 후 2022년 RBW에 인수돼 자회사가 됐다."
         },
         "insights": {
           "body": "DSP 미디어 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "이호연이 1991년 설립한 한국 1세대 연예기획사로, 현재 RBW 소속이다."
         },
         "identity": {
-          "body": "DSP 미디어의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "1세대 아이돌 유산을 보유한 RBW 계열 레이블이다."
         },
         "external": {
           "body": ""
@@ -70865,7 +70875,8 @@
       },
       "displayPriority": "low",
       "publicReady": false,
-      "urlSlug": "dsp"
+      "urlSlug": "dsp",
+      "officialWebsite": "https://www.dspmedia.co.kr/"
     },
     {
       "id": 660,
@@ -70977,28 +70988,31 @@
       "name": "EMI",
       "nameKo": "EMI",
       "nameEn": "EMI",
-      "definition": "EMI는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "EMI는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "EMI는 1931년 영국에서 설립된 '빅4' 메이저 음반사이다.",
+      "summary": "EMI는 1931년 영국에서 설립된 '빅4' 메이저 음반사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/emi.png",
-      "insight": "EMI 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "UMG가 보유·운영하는 영국의 상징적 음반 레이블 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "EMI는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "EMI는 1931년 두 음반사의 합병으로 설립돼 'His Master's Voice' 브랜드와 애비로드 스튜디오를 보유했다. 2012년 유니버설 뮤직 그룹이 녹음 부문을 인수했고 일부 레이블은 워너로 넘어갔으며 현재 EMI 명칭은 UMG 산하 레이블로 운영된다."
         },
         "insights": {
           "body": "EMI 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1931년 영국에서 설립된 메이저 음반사로, 현재 유니버설 뮤직 그룹 산하 레이블이다."
         },
         "identity": {
-          "body": "EMI의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "UMG가 보유·운영하는 영국의 상징적 음반 레이블 브랜드다."
         },
         "external": {
           "body": ""
@@ -71014,7 +71028,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://www.emimusic.com/"
     },
     {
       "id": 641,
@@ -71263,28 +71278,31 @@
       "name": "RBMG",
       "nameKo": "RBMG",
       "nameEn": "RBMG",
-      "definition": "RBMG는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "RBMG는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "RBMG(Raymond Braun Media Group)는 저스틴 비버 발굴을 위해 설립된 미국의 음반 조인트벤처 레이블이다.",
+      "summary": "RBMG(Raymond Braun Media Group)는 저스틴 비버 발굴을 위해 설립된 미국의 음반 조인트벤처 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "RBMG 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "저스틴 비버 단일 아티스트를 위해 만들어진 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "RBMG는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "RBMG(Raymond Braun Media Group)는 2008년 어셔와 스쿠터 브론이 저스틴 비버의 커리어를 공동 관리하기 위해 설립했다. 비버를 아일랜드 데프 잼에 사인시켰으며 사실상 비버 단일 아티스트를 위한 레이블이다."
         },
         "insights": {
           "body": "RBMG 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "어셔와 스쿠터 브론이 2008년 저스틴 비버를 위해 설립한 미국 음반 레이블이다."
         },
         "identity": {
-          "body": "RBMG의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "저스틴 비버 단일 아티스트를 위해 만들어진 레이블이다."
         },
         "external": {
           "body": ""
@@ -71308,15 +71326,15 @@
       "name": "Real World Records",
       "nameKo": "Real World Records",
       "nameEn": "Real World Records",
-      "definition": "Real World Records는 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Real World Records는 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "리얼 월드 레코드(Real World Records)는 피터 가브리엘이 설립한 영국의 월드뮤직 전문 음반사이다.",
+      "summary": "리얼 월드 레코드(Real World Records)는 피터 가브리엘이 설립한 영국의 월드뮤직 전문 음반사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/REALWORLD-box-logo-small-2.jpg",
       "logo": "images/logos/real-world-records.jpg",
-      "insight": "Real World Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "세계 음악을 발굴·소개하는 영국의 독립 월드뮤직 레이블이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/REALWORLD-box-logo-small-2.jpg",
@@ -71327,16 +71345,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Real World Records는 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "리얼 월드 레코드(Real World Records)는 1989년 피터 가브리엘과 워매드(WOMAD)가 공동 설립했다. 워매드 페스티벌의 정신을 음반으로 옮긴다는 취지로 전 세계 아티스트에게 최첨단 녹음 환경을 제공한다."
         },
         "insights": {
           "body": "Real World Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "피터 가브리엘과 워매드가 1989년 영국에서 설립한 월드뮤직 음반사다."
         },
         "identity": {
-          "body": "Real World Records의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "세계 음악을 발굴·소개하는 영국의 독립 월드뮤직 레이블이다."
         },
         "external": {
           "body": ""
@@ -71353,7 +71374,7 @@
       },
       "displayPriority": "low",
       "publicReady": false,
-      "officialWebsite": "http://www.realworldrecords.com/",
+      "officialWebsite": "https://realworldrecords.com/",
       "headquarters": "윌트셔주",
       "timeline": [
         {
@@ -71475,28 +71496,31 @@
       "name": "Saregama",
       "nameKo": "Saregama",
       "nameEn": "Saregama",
-      "definition": "Saregama는 인도의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Saregama는 인도 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "사레가마(Saregama)는 1901년 설립된 인도에서 가장 오래된 음반사이자 종합 음악·영화 콘텐츠 기업이다.",
+      "summary": "사레가마(Saregama)는 1901년 설립된 인도에서 가장 오래된 음반사이자 종합 음악·영화 콘텐츠 기업이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/saregama.png",
-      "insight": "Saregama 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "한 세기 넘게 인도 음악 유산을 보존해 온 인도 최고(最古)의 음악 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Saregama는 인도 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "사레가마(Saregama)는 영국 그래모폰 컴퍼니의 인도 지사로 1901년 출발해 한때 EMI 산하에서 HMV 상표를 사용했다. 1985년 RP-산지브 고엔카 그룹에 인수됐고 콜카타에 본사를 두며 23개 이상 인도 언어의 방대한 레퍼토리를 보유한다."
         },
         "insights": {
           "body": "Saregama 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1901년 인도에서 설립된 최고(最古)의 음반사로, 현재 RP-산지브 고엔카 그룹 소속이다."
         },
         "identity": {
-          "body": "Saregama의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "한 세기 넘게 인도 음악 유산을 보존해 온 인도 최고(最古)의 음악 레이블이다."
         },
         "external": {
           "body": ""
@@ -71512,36 +71536,40 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://www.saregama.com/"
     },
     {
       "id": 476,
       "slug": "ts-엔터테인먼트",
       "name": "TS 엔터테인먼트",
       "nameKo": "TS 엔터테인먼트",
-      "nameEn": "TS 엔터테인먼트",
-      "definition": "TS 엔터테인먼트는 대한민국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "TS 엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "nameEn": "TS Entertainment",
+      "definition": "TS엔터테인먼트(TS Entertainment)는 B.A.P와 시크릿을 배출한 뒤 폐업한 대한민국 연예기획사이다.",
+      "summary": "TS엔터테인먼트(TS Entertainment)는 B.A.P와 시크릿을 배출한 뒤 폐업한 대한민국 연예기획사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "TS 엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "2010년대 분쟁 이력으로 알려진, 폐업한 중소 K-pop 기획사다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "TS 엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "TS엔터테인먼트(TS Entertainment)는 2008년 김태송이 설립해 2009년 시크릿, 2012년 B.A.P를 데뷔시켰다. 2010년대 임금 미지급·계약 분쟁 등에 휘말렸고 2021년 폐업했다."
         },
         "insights": {
           "body": "TS 엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "김태송이 2008년 설립한 한국 연예기획사로, 2021년 폐업했다."
         },
         "identity": {
-          "body": "TS 엔터테인먼트의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "2010년대 분쟁 이력으로 알려진, 폐업한 중소 K-pop 기획사다."
         },
         "external": {
           "body": ""
@@ -71611,28 +71639,31 @@
       "name": "Universal Edition",
       "nameKo": "Universal Edition",
       "nameEn": "Universal Edition",
-      "definition": "Universal Edition는 오스트리아의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Universal Edition는 오스트리아 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "우니베르잘 에디션(Universal Edition)은 1901년 빈에서 설립된 오스트리아의 클래식·현대음악 악보 출판사이다.",
+      "summary": "우니베르잘 에디션(Universal Edition)은 1901년 빈에서 설립된 오스트리아의 클래식·현대음악 악보 출판사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/universal-edition.jpg",
-      "insight": "Universal Edition 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "20세기 현대음악을 세상에 알린 빈의 대표 클래식 악보 출판사다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Universal Edition는 오스트리아 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "우니베르잘 에디션(Universal Edition)은 1901년 빈에서 클래식·교육용 악보 공급을 목적으로 설립됐다. 1907년 이후 현대음악으로 방향을 틀어 바르토크·말러·쇤베르크 등 20세기 주요 작곡가들과 계약하며 모더니즘 음악 출판의 핵심 기관이 됐다."
         },
         "insights": {
           "body": "Universal Edition 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1901년 오스트리아 빈에서 설립된 클래식·현대음악 악보 출판사다."
         },
         "identity": {
-          "body": "Universal Edition의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "20세기 현대음악을 세상에 알린 빈의 대표 클래식 악보 출판사다."
         },
         "external": {
           "body": ""
@@ -71648,7 +71679,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://www.universaledition.com/"
     },
     {
       "id": 332,
@@ -71656,28 +71688,31 @@
       "name": "Volcano Entertainment",
       "nameKo": "Volcano Entertainment",
       "nameEn": "Volcano Entertainment",
-      "definition": "Volcano Entertainment는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Volcano Entertainment는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "볼케이노 엔터테인먼트(Volcano Entertainment)는 1996년 미국에서 설립되어 툴(Tool) 등을 발매한 록 중심의 음반 레이블이다.",
+      "summary": "볼케이노 엔터테인먼트(Volcano Entertainment)는 1996년 미국에서 설립되어 툴(Tool) 등을 발매한 록 중심의 음반 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/volcano-entertainment.png",
-      "insight": "Volcano Entertainment 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "툴 등 록 아티스트로 알려진, 소유권 변천을 거친 미국 음반 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Volcano Entertainment는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "볼케이노 엔터테인먼트(Volcano Entertainment)는 1996년 케빈 친저가 BMG로부터 주 엔터테인먼트를 인수해 출범했다. 첫 발매작 툴의 'Ænima'를 비롯해 311·서바이버 등을 냈고 소유권 변동을 거쳐 현재 카탈로그는 소니 뮤직 산하 RCA가 보유한다."
         },
         "insights": {
           "body": "Volcano Entertainment 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "케빈 친저가 1996년 미국에서 출범시킨 록 중심 음반 레이블이다."
         },
         "identity": {
-          "body": "Volcano Entertainment의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "툴 등 록 아티스트로 알려진, 소유권 변천을 거친 미국 음반 레이블이다."
         },
         "external": {
           "body": ""
@@ -71807,28 +71842,31 @@
       "name": "ZYX Music",
       "nameKo": "ZYX Music",
       "nameEn": "ZYX Music",
-      "definition": "ZYX Music는 독일의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "ZYX Music는 독일 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "지와이엑스 뮤직(ZYX Music)은 1971년 설립되어 이탈로 디스코와 댄스 음악으로 알려진 독일의 음반·유통 레이블이다.",
+      "summary": "지와이엑스 뮤직(ZYX Music)은 1971년 설립되어 이탈로 디스코와 댄스 음악으로 알려진 독일의 음반·유통 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "ZYX Music 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "이탈로 디스코를 대중화한 독일의 대표 댄스 음악 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "ZYX Music는 독일 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "지와이엑스 뮤직(ZYX Music)은 1971년 베른하르트 미쿨스키가 팝 수입업으로 시작해 1992년 ZYX Music으로 개칭했다. 1980년대부터 디스코·이탈로 디스코에 주력했으며 창립자는 'Italo disco'라는 용어를 만든 것으로 알려져 있다."
         },
         "insights": {
           "body": "ZYX Music 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "베른하르트 미쿨스키가 1971년 독일에서 시작한 댄스 음악 레이블·유통사다."
         },
         "identity": {
-          "body": "ZYX Music의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "이탈로 디스코를 대중화한 독일의 대표 댄스 음악 레이블이다."
         },
         "external": {
           "body": ""
@@ -71844,7 +71882,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://zyx.de/"
     },
     {
       "id": 360,
@@ -72224,15 +72263,15 @@
       "name": "울림엔터테인먼트",
       "nameKo": "울림엔터테인먼트",
       "nameEn": "Woollim Entertainment",
-      "definition": "울림엔터테인먼트는 대한민국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "울림엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "울림엔터테인먼트(Woollim Entertainment)는 인피니트와 골든차일드를 배출한 대한민국의 연예기획사이다.",
+      "summary": "울림엔터테인먼트(Woollim Entertainment)는 인피니트와 골든차일드를 배출한 대한민국의 연예기획사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Woollim_Entertainment.png",
       "logo": "images/logos/woollim-entertainment.png",
-      "insight": "울림엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "보컬·밴드 사운드에 강점을 둔 SM 계열 K-pop 레이블이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Woollim_Entertainment.png",
@@ -72243,16 +72282,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "울림엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "울림엔터테인먼트(Woollim Entertainment)는 2003년 이중엽이 설립했고 2013년 SM C&C와 합병되며 SM 계열 레이블이 됐다. 인피니트·러블리즈 등을 데뷔시켰고 현재 골든차일드·드리핀 등을 운영한다."
         },
         "insights": {
           "body": "울림엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "이중엽이 2003년 설립한 한국 연예기획사로, 현재 SM 계열 레이블이다."
         },
         "identity": {
-          "body": "울림엔터테인먼트의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "보컬·밴드 사운드에 강점을 둔 SM 계열 K-pop 레이블이다."
         },
         "external": {
           "body": ""
@@ -72480,15 +72522,15 @@
       "name": "플레디스엔터테인먼트",
       "nameKo": "플레디스엔터테인먼트",
       "nameEn": "Pledis Entertainment",
-      "definition": "플레디스엔터테인먼트는 대한민국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "플레디스엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "플레디스엔터테인먼트(Pledis Entertainment)는 세븐틴을 배출한 하이브 산하 연예기획사이다.",
+      "summary": "플레디스엔터테인먼트(Pledis Entertainment)는 세븐틴을 배출한 하이브 산하 연예기획사이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pledis_Entertainment_logo.png",
       "logo": "images/logos/pledis-entertainment.png",
-      "insight": "플레디스엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "세븐틴을 중심으로 한 하이브 멀티레이블 산하 K-pop 기획사다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pledis_Entertainment_logo.png",
@@ -72499,16 +72541,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "플레디스엔터테인먼트는 대한민국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "플레디스엔터테인먼트(Pledis Entertainment)는 2007년 한성수가 설립했으며 사명은 별무리 '플레이아데스'에서 유래했다. 2020년 하이브가 최대주주가 되어 자회사로 편입됐고 세븐틴·TWS 등을 운영한다."
         },
         "insights": {
           "body": "플레디스엔터테인먼트 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "한성수가 2007년 설립한 한국 연예기획사로, 2020년 하이브 자회사가 됐다."
         },
         "identity": {
-          "body": "플레디스엔터테인먼트의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "세븐틴을 중심으로 한 하이브 멀티레이블 산하 K-pop 기획사다."
         },
         "external": {
           "body": ""
@@ -72525,7 +72570,7 @@
       },
       "displayPriority": "low",
       "publicReady": false,
-      "officialWebsite": "https://www.pledis.co.kr",
+      "officialWebsite": "https://www.pledis.co.kr/",
       "timeline": [
         {
           "year": 2007,
@@ -72969,28 +73014,31 @@
       "name": "ABC-Paramount",
       "nameKo": "ABC-Paramount",
       "nameEn": "ABC-Paramount",
-      "definition": "ABC-Paramount는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "ABC-Paramount는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "에이비씨-파라마운트(ABC-Paramount)는 1955년 American Broadcasting-Paramount Theatres가 설립한 미국의 역사적 음반 레이블이다.",
+      "summary": "에이비씨-파라마운트(ABC-Paramount)는 1955년 American Broadcasting-Paramount Theatres가 설립한 미국의 역사적 음반 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "ABC-Paramount 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "1950~70년대 미국 대중음악을 이끈 방송사 계열의 역사적 음반 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "ABC-Paramount는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "에이비씨-파라마운트(ABC-Paramount)는 1955년 설립돼 초기 Am-Par Records에서 곧 ABC-Paramount로 이름을 바꿨고 1966년 ABC Records로 개칭했다. 팝·록·R&B·재즈 분야에서 입지를 다졌으며 1979년 MCA에 인수되며 역사를 마감했다."
         },
         "insights": {
           "body": "ABC-Paramount 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1955년 미국 방송사 계열이 설립해 1979년 MCA에 인수된 역사적 음반 레이블이다."
         },
         "identity": {
-          "body": "ABC-Paramount의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "1950~70년대 미국 대중음악을 이끈 방송사 계열의 역사적 음반 레이블이다."
         },
         "external": {
           "body": ""
@@ -73105,28 +73153,31 @@
       "name": "ATO Records",
       "nameKo": "ATO Records",
       "nameEn": "ATO Records",
-      "definition": "ATO Records는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "ATO Records는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "에이티오 레코드(ATO Records)는 2000년 데이브 매튜스 등이 설립한 미국 뉴욕 기반의 독립 음반 레이블이다.",
+      "summary": "에이티오 레코드(ATO Records)는 2000년 데이브 매튜스 등이 설립한 미국 뉴욕 기반의 독립 음반 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/ato-records.png",
-      "insight": "ATO Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "아티스트의 커리어 육성에 헌신하는 미국의 독립 인디·록 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "ATO Records는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "에이티오 레코드(ATO Records)는 데이브 매튜스와 매니저 코란 캡쇼 등이 설립한 뉴욕 기반 독립 레이블이다. 첫 발매작 데이비드 그레이의 'White Ladder'가 멀티플래티넘을 기록했고 2007년 RCA 지분을 인수해 완전 독립했다."
         },
         "insights": {
           "body": "ATO Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "데이브 매튜스 등이 2000년 미국에서 설립한 독립 음반 레이블이다."
         },
         "identity": {
-          "body": "ATO Records의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "아티스트의 커리어 육성에 헌신하는 미국의 독립 인디·록 레이블이다."
         },
         "external": {
           "body": ""
@@ -73142,7 +73193,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://atorecords.com/"
     },
     {
       "id": 647,
@@ -73150,28 +73202,31 @@
       "name": "Ace Records",
       "nameKo": "Ace Records",
       "nameEn": "Ace Records",
-      "definition": "Ace Records는 미국의 미디어·엔터테인먼트 브랜드로, 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역입니다.",
-      "summary": "Ace Records는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "에이스 레코드(Ace Records)는 1975년 설립된, 과거 음반의 복원·재발매를 전문으로 하는 영국의 리이슈 레이블이다.",
+      "summary": "에이스 레코드(Ace Records)는 1975년 설립된, 과거 음반의 복원·재발매를 전문으로 하는 영국의 리이슈 레이블이다.",
       "industry": "미디어·엔터테인먼트",
       "domainSlug": "media-entertainment",
       "tier": "D_directory_only",
       "rating": 3.2,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "Ace Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "잊힌 음악 유산을 복원·재발매하는 영국 최고의 리이슈 레이블이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Ace Records는 미국 기반의 미디어·엔터테인먼트 브랜드입니다. 콘텐츠 포맷, 팬덤, 채널 운영, 지식재산권 확장이 함께 작동하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "에이스 레코드(Ace Records)는 1975년 테드 캐럴 등이 런던에서 시작해 1978년 정식 명칭을 사용했다. 1950년대 블루스·R&B·로큰롤 재발매에 집중하다 소울·재즈·월드뮤직으로 확장한 영국 최고 수준의 리이슈 레이블이다."
         },
         "insights": {
           "body": "Ace Records 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "테드 캐럴 등이 1975년 영국에서 시작한 음반 복원·재발매 전문 레이블이다."
         },
         "identity": {
-          "body": "Ace Records의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "잊힌 음악 유산을 복원·재발매하는 영국 최고의 리이슈 레이블이다."
         },
         "external": {
           "body": ""
@@ -73187,7 +73242,8 @@
         }
       },
       "displayPriority": "low",
-      "publicReady": false
+      "publicReady": false,
+      "officialWebsite": "https://acerecords.co.uk/"
     },
     {
       "id": 663,
