@@ -32,7 +32,7 @@
     "아이덴티티 아카이브"
   ],
   "stats": {
-    "brands": 1191,
+    "brands": 1192,
     "magazineBrands": 492,
     "aTier": 19,
     "sections": 5538,
@@ -117,7 +117,7 @@
       "id": "technology-electronics",
       "name": "기술·전자",
       "nameEn": "Technology & Electronics",
-      "count": 102,
+      "count": 103,
       "icon": "assets/objects/icon_tech.png",
       "examples": [
         "뱅앤올룹슨",
@@ -82510,22 +82510,23 @@
     {
       "id": 619,
       "slug": "토스",
-      "name": "토스",
+      "name": "토스(TOUS)",
       "nameKo": "토스",
-      "nameEn": "토스",
-      "definition": "토스는 스페인의 패션·럭셔리 브랜드로, 소재, 실루엣, 로고, 컬렉션 운영이 취향과 지위 신호를 만드는 영역입니다.",
-      "summary": "토스는 스페인 기반의 패션·럭셔리 브랜드입니다. 소재, 실루엣, 로고, 컬렉션 운영이 취향과 지위 신호를 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "nameEn": "TOUS",
+      "definition": "토스(TOUS)는 테디베어(곰) 모티브를 상징으로 하는 스페인의 주얼리·액세서리 브랜드입니다.",
+      "summary": "토스(TOUS)는 테디베어(곰) 모티브를 상징으로 하는 스페인의 주얼리·액세서리 브랜드입니다.",
       "industry": "패션·럭셔리",
       "domainSlug": "fashion-luxury",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/brand-619.jpg",
-      "insight": "토스 항목은 단순한 이름 목록이 아니라 패션·럭셔리 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "토스(TOUS)는 1920년 스페인 카탈루냐 만레사에서 시작된 가족 주얼리 기업으로, 1985년 황금 테디베어 펜던트가 상징이 됐다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "토스는 스페인 기반의 패션·럭셔리 브랜드입니다. 소재, 실루엣, 로고, 컬렉션 운영이 취향과 지위 신호를 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "토스(TOUS)는 1920년 스페인 카탈루냐 만레사에서 살바도르 토스 부부가 설립한 주얼리 브랜드다. 1985년 로사 오리올이 디자인한 황금 테디베어 펜던트가 브랜드의 상징적 아이콘이 됐고, 현재 주얼리를 중심으로 핸드백·시계·향수까지 전개한다."
         },
         "insights": {
           "body": "토스 항목은 단순한 이름 목록이 아니라 패션·럭셔리 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
@@ -82534,7 +82535,8 @@
           "body": ""
         },
         "identity": {
-          "body": "토스의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "테디베어 곰 모티브로 대표되는, 접근 가능한 가격대의 스페인 헤리티지 주얼리 브랜드다."
         },
         "external": {
           "body": ""
@@ -82549,7 +82551,8 @@
           "body": "국가: 스페인; 산업: 주얼리"
         }
       },
-      "urlSlug": "brand-619"
+      "urlSlug": "brand-619",
+      "officialWebsite": "https://www.tous.com/"
     },
     {
       "id": 188,
@@ -135399,6 +135402,38 @@
       "publicReady": true,
       "displayPriority": "normal",
       "officialWebsite": "https://abib.com/"
+    },
+    {
+      "id": 1365,
+      "slug": "viva-republica",
+      "urlSlug": "viva-republica",
+      "name": "토스",
+      "nameKo": "토스",
+      "nameEn": "Toss",
+      "definition": "토스(Toss)는 비바리퍼블리카가 운영하는, 간편 송금을 시작으로 결제·대출·증권·보험을 아우르는 모바일 종합 금융 슈퍼앱이다.",
+      "summary": "토스(Toss)는 비바리퍼블리카가 운영하는 모바일 종합 금융 슈퍼앱이다.",
+      "industry": "기술·전자",
+      "domainSlug": "technology-electronics",
+      "tier": "C_source_backed",
+      "rating": 4.4,
+      "image": "",
+      "logo": "",
+      "insight": "어렵고 불편한 금융을 누구나 쉽게 쓰도록 만드는 사용자 중심 핀테크 혁신 기업이다.",
+      "logoHistory": [],
+      "sections": {
+        "overview": {
+          "title": "개요",
+          "body": "토스(Toss)는 2013년 설립된 비바리퍼블리카가 운영하는 금융 플랫폼이다. 2015년 간편 송금 서비스로 출발해 2018년 국내 첫 핀테크 유니콘이 됐고, 결제·대출·증권·보험을 아우르는 종합 금융 슈퍼앱으로 성장했다."
+        },
+        "identity": {
+          "title": "브랜드 정체성",
+          "body": "어렵고 불편한 금융을 누구나 쉽게 쓰도록 만드는 사용자 중심 핀테크 브랜드다."
+        }
+      },
+      "timeline": [],
+      "publicReady": true,
+      "displayPriority": "normal",
+      "officialWebsite": "https://toss.im/"
     }
   ],
   "koreanSources": [
