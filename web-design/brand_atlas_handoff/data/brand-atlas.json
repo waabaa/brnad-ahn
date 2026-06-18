@@ -53,7 +53,7 @@
       "id": "food-beverage",
       "name": "식음료",
       "nameEn": "Food & Beverage",
-      "count": 157,
+      "count": 149,
       "icon": "assets/objects/icon_food.png",
       "examples": [
         "맥도날드",
@@ -69,7 +69,7 @@
       "id": "retail-commerce",
       "name": "리테일·커머스",
       "nameEn": "Retail & Commerce",
-      "count": 105,
+      "count": 109,
       "icon": "assets/objects/icon_retail.png",
       "examples": [
         "유니클로",
@@ -101,7 +101,7 @@
       "id": "media-entertainment",
       "name": "미디어·엔터테인먼트",
       "nameEn": "Media & Entertainment",
-      "count": 261,
+      "count": 264,
       "icon": "assets/objects/icon_media.png",
       "examples": [
         "JYP 엔터테인먼트",
@@ -133,7 +133,7 @@
       "id": "beauty-personal-care",
       "name": "뷰티·퍼스널케어",
       "nameEn": "Beauty & Personal Care",
-      "count": 47,
+      "count": 48,
       "icon": "assets/objects/icon_beauty.png",
       "examples": [
         "더바디샵",
@@ -149,7 +149,7 @@
       "id": "mobility",
       "name": "모빌리티",
       "nameEn": "Mobility",
-      "count": 35,
+      "count": 33,
       "icon": "assets/objects/icon_mobility.png",
       "examples": [
         "할리데이비슨",
@@ -228,7 +228,7 @@
       "id": "brand-business",
       "name": "브랜드·비즈니스",
       "nameEn": "Brand & Business",
-      "count": 268,
+      "count": 270,
       "icon": "assets/objects/brand_atlas_logo_mark.png",
       "examples": [
         "베스트 글로벌 브랜드",
@@ -70206,15 +70206,15 @@
       "name": "Euromaster",
       "nameKo": "Euromaster",
       "nameEn": "Euromaster",
-      "definition": "Euromaster는 프랑스의 모빌리티 브랜드로, 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역입니다.",
-      "summary": "Euromaster는 프랑스 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "유로마스터(Euromaster)는 미쉐린 그룹 산하의 유럽 타이어·자동차 정비 서비스 네트워크이다.",
+      "summary": "유로마스터(Euromaster)는 미쉐린 그룹 산하의 유럽 타이어·자동차 정비 서비스 네트워크이다.",
       "industry": "모빌리티",
       "domainSlug": "mobility",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Euromaster_Logo.jpg",
       "logo": "images/logos/euromaster.png",
-      "insight": "Euromaster 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "미쉐린 백본의 범유럽 타이어·정비 서비스 체인이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Euromaster_Logo.jpg",
@@ -70225,16 +70225,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Euromaster는 프랑스 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "유로마스터(Euromaster)는 미쉐린이 유럽 각국의 기존 타이어 체인들을 인수·통합해 1991년 출범했다. 승용·대형·농기계·산업차량까지 타이어 및 정비 서비스를 제공하는 유럽 최대급 네트워크다."
         },
         "insights": {
           "body": "Euromaster 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "미쉐린이 1991년 유럽 타이어 체인들을 통합해 만든 타이어·정비 서비스 네트워크다."
         },
         "identity": {
-          "body": "Euromaster의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "미쉐린 백본의 범유럽 타이어·정비 서비스 체인이다."
         },
         "external": {
           "body": ""
@@ -70248,7 +70251,8 @@
         "current": {
           "body": "국가: 프랑스; 산업: 자동차 산업"
         }
-      }
+      },
+      "officialWebsite": "https://www.euromaster.com/"
     },
     {
       "id": 294,
@@ -70256,43 +70260,47 @@
       "name": "MPL 커뮤니케이션스",
       "nameKo": "MPL 커뮤니케이션스",
       "nameEn": "MPL 커뮤니케이션스",
-      "definition": "MPL 커뮤니케이션스는 영국의 모빌리티 브랜드로, 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역입니다.",
-      "summary": "MPL 커뮤니케이션스는 영국 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "모빌리티",
-      "domainSlug": "mobility",
+      "definition": "MPL 커뮤니케이션스(MPL Communications)는 폴 매카트니의 사업을 총괄하는 음악 출판·엔터테인먼트 지주회사이다.",
+      "summary": "MPL 커뮤니케이션스(MPL Communications)는 폴 매카트니의 사업을 총괄하는 음악 출판·엔터테인먼트 지주회사이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/mpl.png",
-      "insight": "MPL 커뮤니케이션스 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "폴 매카트니의 음악 저작권과 사업을 총괄하는 개인 소유 음악 출판 제국이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "MPL 커뮤니케이션스는 영국 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "MPL 커뮤니케이션스(MPL Communications)는 1969년 폴 매카트니가 설립해 1976년 현 이름이 됐다. 매카트니의 비틀즈 이후 활동을 관리하며 타 출판사 인수로 2만 5천 곡 이상을 보유한 세계 최대급 개인 소유 음악 출판사다."
         },
         "insights": {
-          "body": "MPL 커뮤니케이션스 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "MPL 커뮤니케이션스 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "폴 매카트니가 1969년 영국에서 설립한 음악 출판·엔터테인먼트 지주회사다."
         },
         "identity": {
-          "body": "MPL 커뮤니케이션스의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "폴 매카트니의 음악 저작권과 사업을 총괄하는 개인 소유 음악 출판 제국이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "MPL 커뮤니케이션스의 제품과 서비스는 모빌리티 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "MPL 커뮤니케이션스의 제품과 서비스는 미디어·엔터테인먼트 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 영국; 산업: 모빌리티"
+          "body": "국가: 영국; 산업: 미디어·엔터테인먼트"
         }
       },
-      "urlSlug": "mpl"
+      "urlSlug": "mpl",
+      "officialWebsite": "https://www.mplcommunications.com/"
     },
     {
       "id": 425,
@@ -70300,34 +70308,37 @@
       "name": "Mothercare",
       "nameKo": "Mothercare",
       "nameEn": "Mothercare",
-      "definition": "Mothercare는 영국의 모빌리티 브랜드로, 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역입니다.",
-      "summary": "Mothercare는 영국 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "모빌리티",
-      "domainSlug": "mobility",
+      "definition": "마더케어(Mothercare)는 임산부와 영유아·아동용품을 전문으로 하는 영국의 유아용품 소매 브랜드이다.",
+      "summary": "마더케어(Mothercare)는 임산부와 영유아·아동용품을 전문으로 하는 영국의 유아용품 소매 브랜드이다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/mothercare.png",
-      "insight": "Mothercare 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "임산부와 영유아 가족을 위한 원스톱 육아용품 전문 소매 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Mothercare는 영국 기반의 모빌리티 브랜드입니다. 기술 신뢰, 이동 경험, 서비스 네트워크, 디자인 언어가 결합되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "마더케어(Mothercare)는 1961년 셀림 질카와 제임스 골드스미스가 영국에서 첫 매장을 열며 설립했다. 유모차·유아가구·출산복 등을 취급하며 2019년 영국 자회사 폐점 후 해외 프랜차이즈 중심으로 사업을 이어간다."
         },
         "insights": {
-          "body": "Mothercare 항목은 단순한 이름 목록이 아니라 모빌리티 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Mothercare 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1961년 영국에서 설립된 임산부·영유아·아동용품 전문 소매 브랜드다."
         },
         "identity": {
-          "body": "Mothercare의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "임산부와 영유아 가족을 위한 원스톱 육아용품 전문 소매 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Mothercare의 제품과 서비스는 모빌리티 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Mothercare의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -70335,7 +70346,8 @@
         "current": {
           "body": "국가: 영국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.mothercareplc.com/"
     },
     {
       "id": 178,
@@ -72529,15 +72541,15 @@
       "name": "Kiko Milano",
       "nameKo": "Kiko Milano",
       "nameEn": "Kiko Milano",
-      "definition": "Kiko Milano는 이탈리아의 뷰티·퍼스널케어 브랜드로, 성분, 사용감, 패키지, 이미지 언어가 구매 판단에 직접 연결되는 영역입니다.",
-      "summary": "Kiko Milano는 이탈리아 기반의 뷰티·퍼스널케어 브랜드입니다. 성분, 사용감, 패키지, 이미지 언어가 구매 판단에 직접 연결되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "키코밀라노(Kiko Milano)는 이탈리아 베르가모에서 시작된 색조 중심 화장품 브랜드이다.",
+      "summary": "키코밀라노(Kiko Milano)는 이탈리아 베르가모에서 시작된 색조 중심 화장품 브랜드이다.",
       "industry": "뷰티·퍼스널케어",
       "domainSlug": "beauty-personal-care",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiko_Milano_logo.svg",
       "logo": "images/logos/kiko-milano.png",
-      "insight": "Kiko Milano 항목은 단순한 이름 목록이 아니라 뷰티·퍼스널케어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "합리적 가격대의 트렌디 색조 화장품 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiko_Milano_logo.svg",
@@ -72548,16 +72560,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Kiko Milano는 이탈리아 기반의 뷰티·퍼스널케어 브랜드입니다. 성분, 사용감, 패키지, 이미지 언어가 구매 판단에 직접 연결되는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "키코밀라노(Kiko Milano)는 1997년 페르카시 가문이 설립했으며 66개국 1,100개 이상 매장과 전자상거래를 운영한다. 2024년 LVMH 계열 사모펀드 L 캐터턴이 과반 지분을 인수했다."
         },
         "insights": {
           "body": "Kiko Milano 항목은 단순한 이름 목록이 아니라 뷰티·퍼스널케어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "페르카시 가문이 1997년 이탈리아에서 설립한 색조 화장품 브랜드다."
         },
         "identity": {
-          "body": "Kiko Milano의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "합리적 가격대의 트렌디 색조 화장품 브랜드다."
         },
         "external": {
           "body": ""
@@ -72571,7 +72586,8 @@
         "current": {
           "body": "국가: 이탈리아; 산업: 화장품 산업"
         }
-      }
+      },
+      "officialWebsite": "https://www.kikomilano.com/"
     },
     {
       "id": 255,
@@ -72579,15 +72595,15 @@
       "name": "Cabela's",
       "nameKo": "Cabela's",
       "nameEn": "Cabela's",
-      "definition": "Cabela's는 미국의 스포츠·아웃도어 브랜드로, 기능성, 경기 문화, 커뮤니티, 착용 이미지가 브랜드 가치를 만드는 영역입니다.",
-      "summary": "Cabela's는 미국 기반의 스포츠·아웃도어 브랜드입니다. 기능성, 경기 문화, 커뮤니티, 착용 이미지가 브랜드 가치를 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "카벨라스(Cabela's)는 사냥·낚시·캠핑 등 아웃도어 레크리에이션 용품을 판매하는 미국 소매업체이다.",
+      "summary": "카벨라스(Cabela's)는 사냥·낚시·캠핑 등 아웃도어 레크리에이션 용품을 판매하는 미국 소매업체이다.",
       "industry": "스포츠·아웃도어",
       "domainSlug": "sports-outdoor",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabela's_Logo.svg",
       "logo": "images/logos/cabela-s.png",
-      "insight": "Cabela's 항목은 단순한 이름 목록이 아니라 스포츠·아웃도어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "사냥·낚시 중심의 대형 아웃도어 전문 리테일러다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabela's_Logo.svg",
@@ -72598,16 +72614,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Cabela's는 미국 기반의 스포츠·아웃도어 브랜드입니다. 기능성, 경기 문화, 커뮤니티, 착용 이미지가 브랜드 가치를 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "카벨라스(Cabela's)는 1961년 딕 카벨라가 낚시용 플라이를 신문 광고로 팔며 시작했다. 사냥·낚시·보트·캠핑 용품 전문 체인으로 성장했고 2017년 배스 프로 숍스가 인수해 자회사로 운영된다."
         },
         "insights": {
           "body": "Cabela's 항목은 단순한 이름 목록이 아니라 스포츠·아웃도어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "카벨라 형제가 1961년 미국에서 시작한 아웃도어 용품 소매업체로, 현재 배스 프로 숍스 소속이다."
         },
         "identity": {
-          "body": "Cabela's의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "사냥·낚시 중심의 대형 아웃도어 전문 리테일러다."
         },
         "external": {
           "body": ""
@@ -72621,7 +72640,8 @@
         "current": {
           "body": "국가: 미국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.cabelas.com/"
     },
     {
       "id": 199,
@@ -72812,42 +72832,46 @@
       "name": "5àsec",
       "nameKo": "5àsec",
       "nameEn": "5àsec",
-      "definition": "5àsec는 프랑스의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "5àsec는 프랑스 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "생크(5àsec)는 드라이클리닝과 세탁 서비스를 제공하는 프랑스의 세탁 프랜차이즈 체인이다.",
+      "summary": "생크(5àsec)는 드라이클리닝과 세탁 서비스를 제공하는 프랑스의 세탁 프랜차이즈 체인이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/5-sec.jpg",
-      "insight": "5àsec 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "합리적 가격과 빠른 서비스를 표방하는 글로벌 드라이클리닝 프랜차이즈다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "5àsec는 프랑스 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "생크(5àsec)는 1968년 프랑스 마르세유에서 설립됐으며 사명은 당시 5단계 가격 체계에서 유래했다. 합리적 가격과 빠른 서비스를 내세워 30개국 이상에서 약 1,900개 매장을 운영하는 세계 최대급 드라이클리닝 프랜차이즈다."
         },
         "insights": {
-          "body": "5àsec 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "5àsec 항목은 단순한 이름 목록이 아니라 브랜드·비즈니스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1968년 프랑스 마르세유에서 설립된 드라이클리닝·세탁 프랜차이즈 체인이다."
         },
         "identity": {
-          "body": "5àsec의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "합리적 가격과 빠른 서비스를 표방하는 글로벌 드라이클리닝 프랜차이즈다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "5àsec의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "5àsec의 제품과 서비스는 브랜드·비즈니스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 프랑스; 산업: 식음료"
+          "body": "국가: 프랑스; 산업: 브랜드·비즈니스"
         }
-      }
+      },
+      "officialWebsite": "https://www.5asec.com/"
     },
     {
       "id": 574,
@@ -73619,42 +73643,46 @@
       "name": "Berlitz Corporation",
       "nameKo": "Berlitz Corporation",
       "nameEn": "Berlitz Corporation",
-      "definition": "Berlitz Corporation는 독일의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Berlitz Corporation는 독일 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "베를리츠(Berlitz)는 몰입식 교수법으로 알려진 미국 기원의 글로벌 어학교육 기업이다.",
+      "summary": "베를리츠(Berlitz)는 몰입식 교수법으로 알려진 미국 기원의 글로벌 어학교육 기업이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/berlitz-corporation.png",
-      "insight": "Berlitz Corporation 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "몰입식 회화 교수법으로 대표되는 세계적 어학교육 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Berlitz Corporation는 독일 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "베를리츠(Berlitz)는 1878년 막시밀리안 베를리츠가 미국 로드아일랜드에 첫 학교를 세우며 설립했다. 회화 중심의 몰입식 '베를리츠 메소드'로 급성장했고 2001년 일본 베네세를 거쳐 2022년 ILSC 홀딩스로 소유권이 이전됐다."
         },
         "insights": {
-          "body": "Berlitz Corporation 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Berlitz Corporation 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "막시밀리안 베를리츠가 1878년 미국에서 설립한 글로벌 어학교육 기업이다."
         },
         "identity": {
-          "body": "Berlitz Corporation의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "몰입식 회화 교수법으로 대표되는 세계적 어학교육 브랜드다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Berlitz Corporation의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Berlitz Corporation의 제품과 서비스는 미디어·엔터테인먼트 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 독일; 산업: 식음료"
+          "body": "국가: 독일; 산업: 미디어·엔터테인먼트"
         }
-      }
+      },
+      "officialWebsite": "https://www.berlitz.com/"
     },
     {
       "id": 438,
@@ -74520,15 +74548,15 @@
       "name": "Coop Norge SA",
       "nameKo": "Coop Norge SA",
       "nameEn": "Coop Norge SA",
-      "definition": "Coop Norge SA는 노르웨이의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Coop Norge SA는 노르웨이 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "쿱 노르게(Coop Norge)는 노르웨이 지역 협동조합들이 공동 소유하는 협동조합 기반 유통 그룹이다.",
+      "summary": "쿱 노르게(Coop Norge)는 노르웨이 지역 협동조합들이 공동 소유하는 협동조합 기반 유통 그룹이다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coop_Norge_SA_logo_(lighter_blue).svg",
       "logo": "images/logos/coop-norge-sa.png",
-      "insight": "Coop Norge SA 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "조합원이 소유하는 노르웨이 대표 협동조합 유통체다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Coop_Norge_SA_logo_(lighter_blue).svg",
@@ -74539,22 +74567,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "Coop Norge SA는 노르웨이 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "쿱 노르게(Coop Norge)는 1906년 28개 협동조합이 도매조직을 결성한 데서 출발했다. 117개 지역 협동조합과 약 200만 조합원이 소유하며 노르웨이 전역에서 슈퍼마켓을 운영한다."
         },
         "insights": {
-          "body": "Coop Norge SA 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Coop Norge SA 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1906년 노르웨이 협동조합들이 결성한 도매조직에서 출발한 협동조합 유통 그룹이다."
         },
         "identity": {
-          "body": "Coop Norge SA의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "조합원이 소유하는 노르웨이 대표 협동조합 유통체다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Coop Norge SA의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Coop Norge SA의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -74562,7 +74593,8 @@
         "current": {
           "body": "국가: 노르웨이; 산업: food retail sector"
         }
-      }
+      },
+      "officialWebsite": "https://coop.no/"
     },
     {
       "id": 573,
@@ -75020,34 +75052,37 @@
       "name": "Douglas Holding",
       "nameKo": "Douglas Holding",
       "nameEn": "Douglas Holding",
-      "definition": "Douglas Holding는 독일의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Douglas Holding는 독일 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "더글러스(Douglas)는 향수·화장품을 중심으로 하는 유럽 최대급 프리미엄 뷰티 소매 그룹이다.",
+      "summary": "더글러스(Douglas)는 향수·화장품을 중심으로 하는 유럽 최대급 프리미엄 뷰티 소매 그룹이다.",
+      "industry": "뷰티·퍼스널케어",
+      "domainSlug": "beauty-personal-care",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/douglas-holding.png",
-      "insight": "Douglas Holding 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "유럽을 대표하는 프리미엄 향수·뷰티 옴니채널 소매 그룹이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Douglas Holding는 독일 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "더글러스(Douglas)는 1821년 함부르크의 비누 공장에 기원을 두며 1910년 첫 향수점을 열었다. 1989년 더글러스 홀딩으로 사명을 바꿨고 사모펀드 소유를 거쳐 현재 약 1,970개 매장을 운영하는 유럽 1위 옴니채널 프리미엄 뷰티 소매업체다."
         },
         "insights": {
-          "body": "Douglas Holding 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Douglas Holding 항목은 단순한 이름 목록이 아니라 뷰티·퍼스널케어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1910년 첫 향수점을 연 독일 함부르크 기원의 유럽 최대 뷰티 소매 그룹이다."
         },
         "identity": {
-          "body": "Douglas Holding의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "유럽을 대표하는 프리미엄 향수·뷰티 옴니채널 소매 그룹이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Douglas Holding의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Douglas Holding의 제품과 서비스는 뷰티·퍼스널케어 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -75055,7 +75090,8 @@
         "current": {
           "body": "국가: 독일; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://douglas.group/"
     },
     {
       "id": 279,
@@ -75108,15 +75144,15 @@
       "name": "Eataly",
       "nameKo": "Eataly",
       "nameEn": "Eataly",
-      "definition": "Eataly는 미국의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Eataly는 미국 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "이탈리(Eataly)는 이탈리아 고품질 식재료의 판매·취식·학습을 한 지붕 아래 결합한 이탈리아식 식료품 마켓이다.",
+      "summary": "이탈리(Eataly)는 이탈리아 고품질 식재료의 판매·취식·학습을 한 지붕 아래 결합한 이탈리아식 식료품 마켓이다.",
       "industry": "식음료",
       "domainSlug": "food-beverage",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eataly_-_logo_(Italy%2C_2004).svg",
       "logo": "images/logos/eataly.png",
-      "insight": "Eataly 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "이탈리아 식문화를 대중에게 전하는 식품 복합공간이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eataly_-_logo_(Italy%2C_2004).svg",
@@ -75127,16 +75163,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Eataly는 미국 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "이탈리(Eataly)는 오스카 파리네티가 구상해 2007년 토리노에서 1호점을 열었다. 옛 베르무트 공장을 개조한 매장에서 합리적 가격의 고품질 이탈리아 식품을 사고 먹고 배우는 콘셉트를 표방한다."
         },
         "insights": {
           "body": "Eataly 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "오스카 파리네티가 2007년 이탈리아 토리노에서 시작한 식료품·레스토랑 복합 마켓이다."
         },
         "identity": {
-          "body": "Eataly의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "이탈리아 식문화를 대중에게 전하는 식품 복합공간이다."
         },
         "external": {
           "body": ""
@@ -75150,7 +75189,8 @@
         "current": {
           "body": "국가: 미국; 산업: 미식"
         }
-      }
+      },
+      "officialWebsite": "https://www.eataly.com/"
     },
     {
       "id": 559,
@@ -75518,15 +75558,15 @@
       "name": "Fitness First",
       "nameKo": "Fitness First",
       "nameEn": "Fitness First",
-      "definition": "Fitness First는 영국의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Fitness First는 영국 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "피트니스 퍼스트(Fitness First)는 영국에서 시작된 헬스클럽·피트니스 짐 체인 브랜드이다.",
+      "summary": "피트니스 퍼스트(Fitness First)는 영국에서 시작된 헬스클럽·피트니스 짐 체인 브랜드이다.",
+      "industry": "브랜드·비즈니스",
+      "domainSlug": "brand-business",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fitness_First_logo.svg",
       "logo": "images/logos/fitness-first.png",
-      "insight": "Fitness First 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "접근 가능한 멤버십을 내세운 글로벌 피트니스 짐 체인이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fitness_First_logo.svg",
@@ -75537,22 +75577,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "Fitness First는 영국 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "피트니스 퍼스트(Fitness First)는 1993년 마이크 발포어가 영국 본머스에 첫 클럽을 열며 설립했다. 1990년대 급성장해 한때 전 세계 360개 클럽을 운영하는 영국 최대 체인이었으며 이후 국가·지역별로 소유권이 분리됐다."
         },
         "insights": {
-          "body": "Fitness First 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Fitness First 항목은 단순한 이름 목록이 아니라 브랜드·비즈니스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1993년 영국에서 설립된 헬스클럽·피트니스 짐 체인이다."
         },
         "identity": {
-          "body": "Fitness First의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "접근 가능한 멤버십을 내세운 글로벌 피트니스 짐 체인이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Fitness First의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Fitness First의 제품과 서비스는 브랜드·비즈니스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -75560,7 +75603,8 @@
         "current": {
           "body": "국가: 영국; 산업: 헬스클럽"
         }
-      }
+      },
+      "officialWebsite": "https://www.fitnessfirst.co.uk/"
     },
     {
       "id": 530,
@@ -75838,34 +75882,37 @@
       "name": "Greek National Opera",
       "nameKo": "Greek National Opera",
       "nameEn": "Greek National Opera",
-      "definition": "Greek National Opera는 그리스의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Greek National Opera는 그리스 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "그리스 국립 오페라(Greek National Opera)는 그리스의 국립 오페라단으로 오페라 공연예술 기관이다.",
+      "summary": "그리스 국립 오페라(Greek National Opera)는 그리스의 국립 오페라단으로 오페라 공연예술 기관이다.",
+      "industry": "미디어·엔터테인먼트",
+      "domainSlug": "media-entertainment",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/greek-national-opera.png",
-      "insight": "Greek National Opera 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "그리스를 대표하는 국립 오페라·공연예술 기관이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Greek National Opera는 그리스 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "그리스 국립 오페라(Greek National Opera)는 1939년 정식 설립돼 1940년 첫 공식 공연을 가졌다. 오랫동안 아테네 올림피아 극장을 본거지로 사용하다 2017년 스타브로스 니아르호스 재단 문화센터로 이전했다."
         },
         "insights": {
-          "body": "Greek National Opera 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Greek National Opera 항목은 단순한 이름 목록이 아니라 미디어·엔터테인먼트 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1939년 아테네에서 정식 설립된 그리스의 국립 오페라단이다."
         },
         "identity": {
-          "body": "Greek National Opera의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "그리스를 대표하는 국립 오페라·공연예술 기관이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Greek National Opera의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Greek National Opera의 제품과 서비스는 미디어·엔터테인먼트 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -75873,7 +75920,8 @@
         "current": {
           "body": "국가: 그리스; 산업: 오페라"
         }
-      }
+      },
+      "officialWebsite": "https://www.nationalopera.gr/"
     },
     {
       "id": 596,
@@ -75881,15 +75929,15 @@
       "name": "Grom",
       "nameKo": "Grom",
       "nameEn": "Grom",
-      "definition": "Grom는 이탈리아의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Grom는 이탈리아 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "그롬(Grom)은 천연 재료를 강조한 이탈리아 프리미엄 젤라토 브랜드이다.",
+      "summary": "그롬(Grom)은 천연 재료를 강조한 이탈리아 프리미엄 젤라토 브랜드이다.",
       "industry": "식음료",
       "domainSlug": "food-beverage",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Grom.svg",
       "logo": "images/logos/grom.png",
-      "insight": "Grom 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "천연 원재료 중심의 장인형 이탈리아 젤라토 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Grom.svg",
@@ -75900,16 +75948,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Grom는 이탈리아 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "그롬(Grom)은 페데리코 그롬과 귀도 마르티네티가 2003년 토리노에 작은 매장으로 시작했다. 전 세계로 확장했고 2015년 유니레버가 인수한 뒤에도 토리노 본사에서 독립 사업부로 운영됐다."
         },
         "insights": {
           "body": "Grom 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "2003년 이탈리아 토리노에서 시작한 프리미엄 젤라토 브랜드로, 현재 유니레버 소속이다."
         },
         "identity": {
-          "body": "Grom의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "천연 원재료 중심의 장인형 이탈리아 젤라토 브랜드다."
         },
         "external": {
           "body": ""
@@ -75923,7 +75974,8 @@
         "current": {
           "body": "국가: 이탈리아; 산업: 외식 산업"
         }
-      }
+      },
+      "officialWebsite": "https://www.grom.it/"
     },
     {
       "id": 296,
@@ -76246,15 +76298,15 @@
       "name": "Hipercor",
       "nameKo": "Hipercor",
       "nameEn": "Hipercor",
-      "definition": "Hipercor는 스페인의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Hipercor는 스페인 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "이페르코르(Hipercor)는 스페인 엘코르테잉글레스 그룹이 운영하는 하이퍼마켓 체인이다.",
+      "summary": "이페르코르(Hipercor)는 스페인 엘코르테잉글레스 그룹이 운영하는 하이퍼마켓 체인이다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipercor_logo.svg",
       "logo": "images/logos/hipercor.png",
-      "insight": "Hipercor 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "백화점 품질을 결합한 스페인형 하이퍼마켓이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipercor_logo.svg",
@@ -76265,22 +76317,25 @@
       ],
       "sections": {
         "overview": {
-          "body": "Hipercor는 스페인 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "이페르코르(Hipercor)는 1979년 엘코르테잉글레스가 만든 상향형 하이퍼마켓 콘셉트로 1980년 세비야에 첫 매장을 열었다. 하이퍼마켓의 저가 전략과 백화점 수준의 상품군·서비스를 결합했으며 2017년 모회사에 흡수합병됐으나 브랜드는 유지됐다."
         },
         "insights": {
-          "body": "Hipercor 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "Hipercor 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "엘코르테잉글레스가 1979년 만든 스페인 하이퍼마켓 체인이다."
         },
         "identity": {
-          "body": "Hipercor의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "백화점 품질을 결합한 스페인형 하이퍼마켓이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "Hipercor의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "Hipercor의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
@@ -76288,7 +76343,8 @@
         "current": {
           "body": "국가: 스페인; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.hipercor.es/"
     },
     {
       "id": 513,
@@ -76670,15 +76726,15 @@
       "name": "JUSCO",
       "nameKo": "JUSCO",
       "nameEn": "JUSCO",
-      "definition": "JUSCO는 일본의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "JUSCO는 일본 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
-      "industry": "식음료",
-      "domainSlug": "food-beverage",
+      "definition": "자스코(JUSCO)는 이온그룹의 전신인 일본의 종합 슈퍼마켓 체인이다.",
+      "summary": "자스코(JUSCO)는 이온그룹의 전신인 일본의 종합 슈퍼마켓 체인이다.",
+      "industry": "리테일·커머스",
+      "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JUSCO_logo_(3rd).svg",
       "logo": "images/logos/jusco.png",
-      "insight": "JUSCO 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "이온그룹으로 발전한 일본 최대급 종합 슈퍼마켓 체인이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/JUSCO_logo_(3rd).svg",
@@ -76689,30 +76745,34 @@
       ],
       "sections": {
         "overview": {
-          "body": "JUSCO는 일본 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "자스코(JUSCO)는 1970년 오카다야가 후타기·시로와 합병해 'Japan United Stores Company'의 약자로 출범했다. 인수합병을 거듭하며 일본 최대 종합소매 체인으로 성장했고 2001년 사명을 이온(Aeon)으로 변경했다."
         },
         "insights": {
-          "body": "JUSCO 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
+          "body": "JUSCO 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1970년 일본에서 출범해 2001년 이온으로 사명을 바꾼 종합 슈퍼마켓 체인이다."
         },
         "identity": {
-          "body": "JUSCO의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "이온그룹으로 발전한 일본 최대급 종합 슈퍼마켓 체인이다."
         },
         "external": {
           "body": ""
         },
         "products": {
-          "body": "JUSCO의 제품과 서비스는 식음료 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
+          "body": "JUSCO의 제품과 서비스는 리테일·커머스 범주에서 해석됩니다. 이 섹션은 상품군, 서비스 방식, 판매 채널, 사용 장면을 분리해 추적하기 위한 기본 설명이며, 추가 자료가 확보되면 대표 제품과 가격대, 시장별 차이까지 확장할 수 있습니다."
         },
         "people": {
           "body": ""
         },
         "current": {
-          "body": "국가: 일본; 산업: 식음료"
+          "body": "국가: 일본; 산업: 리테일·커머스"
         }
-      }
+      },
+      "officialWebsite": "https://www.aeon.info/"
     },
     {
       "id": 317,
@@ -78781,28 +78841,31 @@
       "name": "Simon Lévelt",
       "nameKo": "Simon Lévelt",
       "nameEn": "Simon Lévelt",
-      "definition": "Simon Lévelt는 네덜란드의 식음료 브랜드로, 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역입니다.",
-      "summary": "Simon Lévelt는 네덜란드 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "시몬 레벨트(Simon Lévelt)는 6대째 가족이 운영하는 네덜란드의 커피 로스팅·차 블렌딩 전문 기업이다.",
+      "summary": "시몬 레벨트(Simon Lévelt)는 6대째 가족이 운영하는 네덜란드의 커피 로스팅·차 블렌딩 전문 기업이다.",
       "industry": "식음료",
       "domainSlug": "food-beverage",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/simon-l-velt.png",
-      "insight": "Simon Lévelt 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "유기농·공정무역을 지향하는 장인형 커피·차 가족기업이다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Simon Lévelt는 네덜란드 기반의 식음료 브랜드입니다. 맛, 메뉴 구성, 패키지, 매장 또는 유통 채널이 함께 브랜드 경험을 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "시몬 레벨트(Simon Lévelt)는 1826년 암스테르담에서 식민지 상품 가게로 시작했다. 1980년대 초 네덜란드에 유기농 커피·차를 도입한 선구자 중 하나이며 네덜란드·벨기에에 40여 개 전문 매장을 운영한다."
         },
         "insights": {
           "body": "Simon Lévelt 항목은 단순한 이름 목록이 아니라 식음료 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1826년 네덜란드 암스테르담에서 시작한 6대째 커피·차 전문 가족기업이다."
         },
         "identity": {
-          "body": "Simon Lévelt의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "유기농·공정무역을 지향하는 장인형 커피·차 가족기업이다."
         },
         "external": {
           "body": ""
@@ -78816,7 +78879,8 @@
         "current": {
           "body": "국가: 네덜란드; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.simonlevelt.nl/"
     },
     {
       "id": 516,
