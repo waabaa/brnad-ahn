@@ -660,12 +660,14 @@ function timelineItem(t) {
   return `<div><b>${t.year}</b><br><span>${t.brand ? `${t.brand} · ` : ""}${short(t.description, 72)}</span></div>`;
 }
 
-function timelineRail(items) {
+function timelineRail(items, showBrand = true) {
   const rows = [...(items || [])]
     .filter(t => isSafePublicText(t.description) && Number(t.year) >= 1800 && Number(t.year) <= 2100)
     .sort((a, b) => Number(a.year || 0) - Number(b.year || 0));
   if (!rows.length) return `<p class="empty-note">정리된 연도형 이벤트가 없습니다.</p>`;
-  return `<div class="timeline-rail">${rows.map(t => `<article class="timeline-node"><b>${t.year}</b><span>${t.brand ? `${t.brand} · ` : ""}${short(t.description, 110)}</span></article>`).join("")}</div>`;
+  // showBrand=false on a single-brand page (the brand is already obvious from context);
+  // the global timeline page keeps the prefix to distinguish mixed brands.
+  return `<div class="timeline-rail">${rows.map(t => `<article class="timeline-node"><b>${t.year}</b><span>${showBrand && t.brand ? `${t.brand} · ` : ""}${short(t.description, 110)}</span></article>`).join("")}</div>`;
 }
 
 function enableTimelineAutoFlow(container) {
@@ -860,7 +862,7 @@ function renderBrandMagazine(brand) {
     ["products", "제품과 서비스", smartCell("products", "제품과 서비스", "products")],
     ["people", "사람들", smartCell("people", "사람들", "people")],
     ["current", "현재 상태", smartCell("current", "현재 상태", "current")],
-    ["timeline", "타임라인", `<section class="cell wide timeline-cell" id="timeline"><h2>타임라인</h2>${timelineRail(brand.timeline || [])}</section>`],
+    ["timeline", "타임라인", `<section class="cell wide timeline-cell" id="timeline"><h2>타임라인</h2>${timelineRail(brand.timeline || [], false)}</section>`],
     ["bici", "BI/CI 변천사", `<section class="cell wide" id="bici"><h2>BI/CI 변천사</h2>${logoArchive(brand)}</section>`],
     ["related", "함께 읽을 브랜드", relatedLinks(brand)],
   ].filter(([, , html]) => html && html.trim());
