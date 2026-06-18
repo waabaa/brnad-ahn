@@ -66951,15 +66951,15 @@
       "name": "A&P",
       "nameKo": "A&P",
       "nameEn": "A&P",
-      "definition": "A&P는 미국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "A&P는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "A&P(The Great Atlantic & Pacific Tea Company)는 한때 미국 최대 식료품 소매업체였던 역사적 슈퍼마켓 체인으로 2015년 파산·청산되었다.",
+      "summary": "A&P(The Great Atlantic & Pacific Tea Company)는 한때 미국 최대 식료품 소매업체였던 역사적 슈퍼마켓 체인으로 2015년 파산·청산되었다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%26P_logo_2013.png",
       "logo": "images/logos/a-and-p.png",
-      "insight": "A&P 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "20세기 미국 식료품 소매를 지배했던 슈퍼마켓 선구자 브랜드(현재 영업 종료)다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/A%26P_logo_2013.png",
@@ -66970,16 +66970,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "A&P는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "A&P는 1859년 차·커피 소매로 시작해 1870년 Great Atlantic & Pacific Tea Company로 개명했고 20세기 중반까지 미국 최대 식료품 소매업체였다. 1936년 셀프서비스 슈퍼마켓 방식을 도입했으나 2010년과 2015년 두 차례 파산을 거쳐 2015년 전 매장을 폐점하고 청산됐다."
         },
         "insights": {
           "body": "A&P 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1859년 미국에서 차·커피 소매로 시작한 슈퍼마켓 선구 기업으로, 2015년 청산됐다."
         },
         "identity": {
-          "body": "A&P의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "20세기 미국 식료품 소매를 지배했던 슈퍼마켓 선구자 브랜드(현재 영업 종료)다."
         },
         "external": {
           "body": ""
@@ -67201,15 +67204,15 @@
       "name": "Biltema",
       "nameKo": "Biltema",
       "nameEn": "Biltema",
-      "definition": "Biltema는 스웨덴의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Biltema는 스웨덴 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "빌테마(Biltema)는 공구·자동차용품·레저용품을 저가로 판매하는 스웨덴 소매 체인이다.",
+      "summary": "빌테마(Biltema)는 공구·자동차용품·레저용품을 저가로 판매하는 스웨덴 소매 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biltema_logo.svg",
       "logo": "images/logos/biltema.png",
-      "insight": "Biltema 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "가족 전체를 위한 저가 잡화·자동차용품 창고형 소매점이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Biltema_logo.svg",
@@ -67220,16 +67223,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Biltema는 스웨덴 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "빌테마(Biltema)는 1963년 스텐오케 린드홀름이 자동차 부품·액세서리 통신판매업으로 스웨덴 린셰핑에서 시작했다. '왜 더 비싸게 사나'를 슬로건으로 중간 마진을 없앤 저가 모델을 내세웠고 북유럽 여러 나라로 확장한 비공개 가족기업이다."
         },
         "insights": {
           "body": "Biltema 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "스텐오케 린드홀름이 1963년 스웨덴에서 창업한 저가 잡화·자동차용품 소매 체인이다."
         },
         "identity": {
-          "body": "Biltema의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "가족 전체를 위한 저가 잡화·자동차용품 창고형 소매점이다."
         },
         "external": {
           "body": ""
@@ -67243,7 +67249,8 @@
         "current": {
           "body": "국가: 스웨덴; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.biltema.com/"
     },
     {
       "id": 259,
@@ -67251,28 +67258,31 @@
       "name": "Boerenbond",
       "nameKo": "Boerenbond",
       "nameEn": "Boerenbond",
-      "definition": "Boerenbond는 네덜란드의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Boerenbond는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "부런본드(Boerenbond)는 1890년 설립된 벨기에 가톨릭 농민조직에 뿌리를 둔, 정원·농업·반려동물·잡화를 취급하는 소매 브랜드이다.",
+      "summary": "부런본드(Boerenbond)는 1890년 설립된 벨기에 가톨릭 농민조직에 뿌리를 둔, 정원·농업·반려동물·잡화를 취급하는 소매 브랜드이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "",
-      "insight": "Boerenbond 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "농민조직에 뿌리를 둔 농업·원예·반려동물 종합 소매 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "Boerenbond는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "부런본드(Boerenbond)는 1890년 농업 위기에 대응해 설립된 벨기에 가톨릭 농민조직을 모태로 한다. 벨기에에서는 아베브 그룹(현 아르베스타)이 운영하는 소매 체인의 통칭으로 정원·반려동물·식품을 취급하는 대표 소매망을 형성한다."
         },
         "insights": {
           "body": "Boerenbond 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1890년 벨기에 농민조직에서 출발한 정원·농업·반려동물 소매 브랜드다."
         },
         "identity": {
-          "body": "Boerenbond의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "농민조직에 뿌리를 둔 농업·원예·반려동물 종합 소매 브랜드다."
         },
         "external": {
           "body": ""
@@ -67294,15 +67304,15 @@
       "name": "Botanic",
       "nameKo": "Botanic",
       "nameEn": "Botanic",
-      "definition": "Botanic는 프랑스의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Botanic는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "보타닉(Botanic)은 친환경 정원용품·반려동물·유기농 식품을 취급하는 프랑스의 가든센터 체인이다.",
+      "summary": "보타닉(Botanic)은 친환경 정원용품·반려동물·유기농 식품을 취급하는 프랑스의 가든센터 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BOTANIC_LOGO.jpg",
       "logo": "images/logos/botanic.jpg",
-      "insight": "Botanic 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "친환경·지속가능성을 핵심 가치로 한 프랑스 원예 가든센터다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BOTANIC_LOGO.jpg",
@@ -67313,16 +67323,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Botanic는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "보타닉(Botanic)은 1977년 세 원예가 가문이 첫 가든센터를 열며 출발해 1995년 Botanic 브랜드를 만들었다. '생태적 정원'을 표방하며 2008년부터 합성 화학 농약·비료를 전 매장에서 퇴출하고 유기농 제품으로 대체한 독립 가족기업이다."
         },
         "insights": {
           "body": "Botanic 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "세 원예가 가문이 1977년 시작해 1995년 브랜드화한 프랑스 친환경 가든센터다."
         },
         "identity": {
-          "body": "Botanic의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "친환경·지속가능성을 핵심 가치로 한 프랑스 원예 가든센터다."
         },
         "external": {
           "body": ""
@@ -67336,7 +67349,8 @@
         "current": {
           "body": "국가: 프랑스; 산업: Q112165658"
         }
-      }
+      },
+      "officialWebsite": "https://www.botanic.com/"
     },
     {
       "id": 204,
@@ -67344,15 +67358,15 @@
       "name": "Claire's",
       "nameKo": "Claire's",
       "nameEn": "Claire's",
-      "definition": "Claire's는 미국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Claire's는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "클레어스(Claire's)는 틴에이저와 젊은 여성을 주 고객으로 하는 미국의 패션 액세서리·주얼리 전문 소매 브랜드이다.",
+      "summary": "클레어스(Claire's)는 틴에이저와 젊은 여성을 주 고객으로 하는 미국의 패션 액세서리·주얼리 전문 소매 브랜드이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claires_logo.svg",
       "logo": "images/logos/claire-s.png",
-      "insight": "Claire's 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "소녀들의 첫 귀걸이와 첫 액세서리를 상징하는 트윈·틴 세대의 통과의례 같은 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Claires_logo.svg",
@@ -67363,16 +67377,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Claire's는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "클레어스(Claire's)는 1961년 가발 회사로 출발해 1973년 주얼리 체인을 인수하며 액세서리 사업으로 전환했고 1997년 현 사명을 확정했다. 트윈·틴 소녀용 주얼리·액세서리를 판매하며 매장 내 귀 뚫기 서비스로 잘 알려져 있다."
         },
         "insights": {
           "body": "Claire's 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1961년 미국에서 출발해 1997년 사명을 확정한 틴·트윈 대상 액세서리 소매 브랜드다."
         },
         "identity": {
-          "body": "Claire's의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "소녀들의 첫 귀걸이와 첫 액세서리를 상징하는 트윈·틴 세대의 통과의례 같은 브랜드다."
         },
         "external": {
           "body": ""
@@ -67386,7 +67403,8 @@
         "current": {
           "body": "국가: 미국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.claires.com/"
     },
     {
       "id": 202,
@@ -67437,15 +67455,15 @@
       "name": "Dixons",
       "nameKo": "Dixons",
       "nameEn": "Dixons",
-      "definition": "Dixons는 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Dixons는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "딕슨스(Dixons)는 1937년 영국에서 출발한 가전 소매 브랜드로 현재는 Currys로 통합돼 매장 브랜드로는 폐지되었다.",
+      "summary": "딕슨스(Dixons)는 1937년 영국에서 출발한 가전 소매 브랜드로 현재는 Currys로 통합돼 매장 브랜드로는 폐지되었다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dixons_logo.svg",
       "logo": "images/logos/dixons.jpg",
-      "insight": "Dixons 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "영국 가전 유통의 한 시대를 상징했으나 Currys로 흡수·소멸된 역사적 전자제품 소매 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dixons_logo.svg",
@@ -67456,16 +67474,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Dixons는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "딕슨스(Dixons)는 1937년 찰스 칼름스가 영국에서 사진 스튜디오로 창업한 뒤 가전 소매로 확장했고 1984년 커리스를 인수했다. 2006년 영국 매장 브랜드가 대체됐고 모기업은 2014년 합병을 거쳐 2021년 Currys plc로 사명을 바꾸며 딕슨스 브랜드는 폐지됐다."
         },
         "insights": {
           "body": "Dixons 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1937년 영국에서 사진 스튜디오로 출발해 가전 소매로 확장한 브랜드로, 현재 Currys로 통합됐다."
         },
         "identity": {
-          "body": "Dixons의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "영국 가전 유통의 한 시대를 상징했으나 Currys로 흡수·소멸된 역사적 전자제품 소매 브랜드다."
         },
         "external": {
           "body": ""
@@ -67479,7 +67500,8 @@
         "current": {
           "body": "산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.currys.co.uk/"
     },
     {
       "id": 251,
@@ -67487,15 +67509,15 @@
       "name": "Dollarama",
       "nameKo": "Dollarama",
       "nameEn": "Dollarama",
-      "definition": "Dollarama는 캐나다의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Dollarama는 캐나다 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "달러라마(Dollarama)는 캐나다 최대의 1~5달러 균일가 저가 소매 체인이다.",
+      "summary": "달러라마(Dollarama)는 캐나다 최대의 1~5달러 균일가 저가 소매 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dollarama_logo.svg",
       "logo": "images/logos/dollarama.png",
-      "insight": "Dollarama 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "모든 상품을 단순하고 예측 가능한 저가에 제공하는 균일가 가치소매 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dollarama_logo.svg",
@@ -67506,16 +67528,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Dollarama는 캐나다 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "달러라마(Dollarama)는 1992년 래리 로시가 퀘벡주에서 창업한 캐나다의 균일가 저가 소매 체인이다. 2009년 토론토증권거래소에 상장했으며 초기 1달러 단일가에서 현재 1~5달러 다단계 가격으로 전역에 1,600개 이상 매장을 운영한다."
         },
         "insights": {
           "body": "Dollarama 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "래리 로시가 1992년 캐나다에서 창업한 균일가 저가 소매 체인이다."
         },
         "identity": {
-          "body": "Dollarama의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "모든 상품을 단순하고 예측 가능한 저가에 제공하는 균일가 가치소매 브랜드다."
         },
         "external": {
           "body": ""
@@ -67529,7 +67554,8 @@
         "current": {
           "body": "국가: 캐나다; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.dollarama.com/"
     },
     {
       "id": 430,
@@ -67537,15 +67563,15 @@
       "name": "Euronics",
       "nameKo": "Euronics",
       "nameEn": "Euronics",
-      "definition": "Euronics는 네덜란드의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Euronics는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "유로닉스(Euronics)는 독립 전자제품 소매상들이 구매력과 자원을 공유하기 위해 결성한 범유럽 가전 유통 협동 연합이다.",
+      "summary": "유로닉스(Euronics)는 독립 전자제품 소매상들이 구매력과 자원을 공유하기 위해 결성한 범유럽 가전 유통 협동 연합이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Euronics.svg",
       "logo": "images/logos/euronics.png",
-      "insight": "Euronics 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "독립 가전 소매상의 자율성과 공동 구매력을 결합한 협동조합형 유통 네트워크다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Euronics.svg",
@@ -67556,16 +67582,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Euronics는 네덜란드 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "유로닉스(Euronics)는 1990년 세계화에 대응하고자 5개국 국가 그룹이 공동 설립했다. 유럽경제이익단체(EEIG) 형태로 회원사의 독립성을 유지하면서 공동 구매력을 확보하며 37개국 1만여 개 독립 전자 소매점이 가입한 국제 연합이다."
         },
         "insights": {
           "body": "Euronics 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1990년 유럽 5개국 가전 소매 그룹이 공동 설립한 범유럽 유통 협동 연합이다."
         },
         "identity": {
-          "body": "Euronics의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "독립 가전 소매상의 자율성과 공동 구매력을 결합한 협동조합형 유통 네트워크다."
         },
         "external": {
           "body": ""
@@ -67579,7 +67608,8 @@
         "current": {
           "body": "국가: 네덜란드; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.euronics.com/"
     },
     {
       "id": 261,
@@ -67673,15 +67703,15 @@
       "name": "FedEx Office",
       "nameKo": "FedEx Office",
       "nameEn": "FedEx Office",
-      "definition": "FedEx Office는 미국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "FedEx Office는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "페덱스 오피스(FedEx Office)는 복사·인쇄·문서·배송 서비스를 제공하는 페덱스 산하 미국 소매 체인으로, 구 Kinko's이다.",
+      "summary": "페덱스 오피스(FedEx Office)는 복사·인쇄·문서·배송 서비스를 제공하는 페덱스 산하 미국 소매 체인으로, 구 Kinko's이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FedEx_Office_-_2016_Logo.svg",
       "logo": "images/logos/fedex-office.png",
-      "insight": "FedEx Office 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "인쇄·문서 서비스와 페덱스 배송을 결합한 직영 소매 매장이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FedEx_Office_-_2016_Logo.svg",
@@ -67692,16 +67722,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "FedEx Office는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "페덱스 오피스(FedEx Office)는 1970년 폴 오팔리아가 UC 산타바버라 인근에서 복사기 한 대로 창업한 Kinko's에서 출발했다. 2004년 페덱스가 인수해 FedEx Kinko's로 운영하다가 2008년 FedEx Office로 리브랜딩했으며 전 매장이 직영이다."
         },
         "insights": {
           "body": "FedEx Office 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1970년 Kinko's로 창업해 2004년 페덱스에 인수되고 2008년 현 이름이 된 인쇄·문서 소매 체인이다."
         },
         "identity": {
-          "body": "FedEx Office의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "인쇄·문서 서비스와 페덱스 배송을 결합한 직영 소매 매장이다."
         },
         "external": {
           "body": ""
@@ -67715,7 +67748,8 @@
         "current": {
           "body": "국가: 미국; 산업: 리테일·커머스"
         }
-      }
+      },
+      "officialWebsite": "https://www.fedex.com/en-us/office.html"
     },
     {
       "id": 190,
@@ -67723,15 +67757,15 @@
       "name": "Franprix",
       "nameKo": "Franprix",
       "nameEn": "Franprix",
-      "definition": "Franprix는 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Franprix는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "프랑프리(Franprix)는 파리와 일드프랑스 도심에 집중된 프랑스 카지노 그룹 산하 도시형 근접 슈퍼마켓 체인이다.",
+      "summary": "프랑프리(Franprix)는 파리와 일드프랑스 도심에 집중된 프랑스 카지노 그룹 산하 도시형 근접 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Franprix_-_2015.svg",
       "logo": "images/logos/franprix.jpg",
-      "insight": "Franprix 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "도시 거주자를 위한 소형·근접형 식료품 소매 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Franprix_-_2015.svg",
@@ -67742,16 +67776,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Franprix는 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "프랑프리(Franprix)는 1958년 장 보가 설립했으며 매장 면적 500제곱미터 미만의 소형 점포로 파리 도심과 근교를 공략했다. 1997년부터 카지노 그룹이 지분을 인수해 2007년 완전 자회사가 됐고 프랑스 주요 도시에 수백 개 매장을 운영한다."
         },
         "insights": {
           "body": "Franprix 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "장 보가 1958년 프랑스에서 설립한 도시형 슈퍼마켓으로, 현재 카지노 그룹 소속이다."
         },
         "identity": {
-          "body": "Franprix의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "도시 거주자를 위한 소형·근접형 식료품 소매 브랜드다."
         },
         "external": {
           "body": ""
@@ -67765,7 +67802,8 @@
         "current": {
           "body": "산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.franprix.fr/"
     },
     {
       "id": 423,
@@ -67773,15 +67811,15 @@
       "name": "Galeria Kaufhof",
       "nameKo": "Galeria Kaufhof",
       "nameEn": "Galeria Kaufhof",
-      "definition": "Galeria Kaufhof는 독일의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Galeria Kaufhof는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "갈레리아 카우프호프(Galeria Kaufhof)는 독일에 마지막으로 남은 대형 백화점 체인이다.",
+      "summary": "갈레리아 카우프호프(Galeria Kaufhof)는 독일에 마지막으로 남은 대형 백화점 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Galeria_Kaufhof.svg",
       "logo": "images/logos/galeria-kaufhof.png",
-      "insight": "Galeria Kaufhof 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "독일 백화점 문화를 계승하면서 반복된 도산을 딛고 재건 중인 독일 최후의 백화점 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Galeria_Kaufhof.svg",
@@ -67792,16 +67830,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Galeria Kaufhof는 독일 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "갈레리아 카우프호프(Galeria Kaufhof)는 1879년 창업한 카우프호프와 카르슈타트를 뿌리로 하며 2018년 두 브랜드가 합병해 출범했다. 여러 차례 도산을 거쳐 2024년 새 투자자 컨소시엄에 인수돼 정상화됐으며 현재 약 80여 개 매장을 운영한다."
         },
         "insights": {
           "body": "Galeria Kaufhof 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1879년 카우프호프에 뿌리를 두고 2018년 합병으로 출범한 독일 최후의 대형 백화점 체인이다."
         },
         "identity": {
-          "body": "Galeria Kaufhof의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "독일 백화점 문화를 계승하면서 반복된 도산을 딛고 재건 중인 독일 최후의 백화점 브랜드다."
         },
         "external": {
           "body": ""
@@ -67815,7 +67856,8 @@
         "current": {
           "body": "국가: 독일; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.galeria.de/"
     },
     {
       "id": 444,
@@ -67823,28 +67865,31 @@
       "name": "GameStop",
       "nameKo": "GameStop",
       "nameEn": "GameStop",
-      "definition": "GameStop는 미국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "GameStop는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "게임스톱(GameStop)은 미국에 본사를 둔 세계 최대의 비디오게임 전문 소매 기업이다.",
+      "summary": "게임스톱(GameStop)은 미국에 본사를 둔 세계 최대의 비디오게임 전문 소매 기업이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "assets/objects/brand_atlas_logo_mark.png",
       "logo": "images/logos/gamestop.png",
-      "insight": "GameStop 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "오프라인 게임 소매의 대명사이자 2021년 밈주식 신드롬의 아이콘으로 각인된 브랜드다.",
       "logoHistory": [],
       "sections": {
         "overview": {
-          "body": "GameStop는 미국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "게임스톱(GameStop)은 1984년 텍사스 댈러스에서 소프트웨어 소매점 'Babbage's'로 출발해 1999년 현재 명칭을 채택했다. 비디오게임·콘솔을 판매하는 세계 최대 게임 소매업체로 NYSE에 상장돼 있으며 2021년 숏스퀴즈로 밈주식 현상의 아이콘이 됐다."
         },
         "insights": {
           "body": "GameStop 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1984년 미국에서 'Babbage's'로 시작해 1999년 게임스톱이 된 세계 최대 게임 소매기업이다."
         },
         "identity": {
-          "body": "GameStop의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 공개 로고 자산은 추후 권리 확인 후 보강할 수 있도록 텍스트 메타데이터 중심으로 관리합니다."
+          "title": "브랜드 정체성",
+          "body": "오프라인 게임 소매의 대명사이자 2021년 밈주식 신드롬의 아이콘으로 각인된 브랜드다."
         },
         "external": {
           "body": ""
@@ -67858,7 +67903,8 @@
         "current": {
           "body": "국가: 미국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.gamestop.com/"
     },
     {
       "id": 168,
@@ -67866,15 +67912,15 @@
       "name": "HEMA",
       "nameKo": "HEMA",
       "nameEn": "HEMA",
-      "definition": "HEMA는 룩셈부르크의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "HEMA는 룩셈부르크 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "헤마(HEMA)는 1926년 네덜란드 암스테르담에서 설립된 생활용품·의류·식품 등을 취급하는 종합 잡화점 체인이다.",
+      "summary": "헤마(HEMA)는 1926년 네덜란드 암스테르담에서 설립된 생활용품·의류·식품 등을 취급하는 종합 잡화점 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HEMA_Logo.svg",
       "logo": "images/logos/hema.png",
-      "insight": "HEMA 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "균일가 정신에서 출발해 자체 제작 상품으로 일상을 채우는 네덜란드 국민 잡화 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/HEMA_Logo.svg",
@@ -67885,16 +67931,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "HEMA는 룩셈부르크 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "헤마(HEMA)는 1926년 데 베이언코르프 백화점 소유주들이 균일가 모델로 암스테르담에 첫 매장을 열며 시작했다. 서민층 대상 저렴한 일상용품으로 성공했고 현재 대부분의 상품을 자체 제조하며 여러 나라에서 매장을 운영하는 네덜란드 국민 브랜드다."
         },
         "insights": {
           "body": "HEMA 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1926년 네덜란드 암스테르담에서 균일가 모델로 시작한 종합 잡화점 체인이다."
         },
         "identity": {
-          "body": "HEMA의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "균일가 정신에서 출발해 자체 제작 상품으로 일상을 채우는 네덜란드 국민 잡화 브랜드다."
         },
         "external": {
           "body": ""
@@ -67908,7 +67957,8 @@
         "current": {
           "body": "국가: 룩셈부르크; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.hema.nl/"
     },
     {
       "id": 408,
@@ -67916,15 +67966,15 @@
       "name": "Iceland",
       "nameKo": "Iceland",
       "nameEn": "Iceland",
-      "definition": "Iceland는 영국의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Iceland는 영국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "아이슬란드(Iceland)는 냉동식품을 전문으로 하는 영국의 슈퍼마켓 체인이다.",
+      "summary": "아이슬란드(Iceland)는 냉동식품을 전문으로 하는 영국의 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Icelandic_Socialist_Party.svg",
       "logo": "images/logos/iceland.png",
-      "insight": "Iceland 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "냉동식품 전문성과 자체 라벨 가성비를 핵심으로 하는 영국 냉동식품 슈퍼마켓이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Icelandic_Socialist_Party.svg",
@@ -67935,16 +67985,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Iceland는 영국 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "아이슬란드(Iceland)는 1970년 맬컴 워커가 영국에서 냉동식품 전문점으로 창업한 슈퍼마켓 체인이다. 웨일스 디사이드에 본사를 두고 영국 내 900개 이상 매장을 운영하며 냉동식품이 전체 물량의 약 3분의 1을 차지하고 2020년 영국 가족 소유로 복귀했다."
         },
         "insights": {
           "body": "Iceland 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "맬컴 워커가 1970년 영국에서 창업한 냉동식품 전문 슈퍼마켓 체인이다."
         },
         "identity": {
-          "body": "Iceland의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "냉동식품 전문성과 자체 라벨 가성비를 핵심으로 하는 영국 냉동식품 슈퍼마켓이다."
         },
         "external": {
           "body": ""
@@ -67958,7 +68011,8 @@
         "current": {
           "body": "국가: 영국; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.iceland.co.uk/"
     },
     {
       "id": 183,
@@ -67966,15 +68020,15 @@
       "name": "Intersport",
       "nameKo": "Intersport",
       "nameEn": "Intersport",
-      "definition": "Intersport는 스위스의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Intersport는 스위스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "인터스포츠(INTERSPORT)는 1968년 스위스에서 설립된 독립 스포츠용품 소매상들의 국제 협동조합이다.",
+      "summary": "인터스포츠(INTERSPORT)는 1968년 스위스에서 설립된 독립 스포츠용품 소매상들의 국제 협동조합이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Intersport.svg",
       "logo": "images/logos/intersport.png",
-      "insight": "Intersport 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "공동구매력과 현지 독립 소매망을 결합한 글로벌 스포츠용품 유통 협동조합이다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Intersport.svg",
@@ -67985,16 +68039,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Intersport는 스위스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "인터스포츠(INTERSPORT)는 1968년 유럽 10개국의 국가별 공동구매 조직이 연합해 스위스 베른에서 출범했다. 약 40개국에 5,000개 이상의 전문 스포츠매장을 운영하며 자체 PB 브랜드와 공동구매력을 기반으로 사업을 전개한다."
         },
         "insights": {
           "body": "Intersport 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1968년 스위스에서 유럽 공동구매 조직들이 연합해 만든 스포츠용품 유통 협동조합이다."
         },
         "identity": {
-          "body": "Intersport의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "공동구매력과 현지 독립 소매망을 결합한 글로벌 스포츠용품 유통 협동조합이다."
         },
         "external": {
           "body": ""
@@ -68008,7 +68065,8 @@
         "current": {
           "body": "국가: 스위스; 산업: sporting goods industry"
         }
-      }
+      },
+      "officialWebsite": "https://intersport.com/"
     },
     {
       "id": 614,
@@ -68066,15 +68124,15 @@
       "name": "Leader Price",
       "nameKo": "Leader Price",
       "nameEn": "Leader Price",
-      "definition": "Leader Price는 프랑스의 리테일·커머스 브랜드로, 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역입니다.",
-      "summary": "Leader Price는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다.",
+      "definition": "리더프라이스(Leader Price)는 자체상표(PB) 중심의 저가 식료품을 판매하는 프랑스 디스카운트 슈퍼마켓 체인이다.",
+      "summary": "리더프라이스(Leader Price)는 자체상표(PB) 중심의 저가 식료품을 판매하는 프랑스 디스카운트 슈퍼마켓 체인이다.",
       "industry": "리테일·커머스",
       "domainSlug": "retail-commerce",
       "tier": "C_source_backed",
       "rating": 4.1,
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leader_Price_2010_Logo.svg",
       "logo": "images/logos/leader-price.png",
-      "insight": "Leader Price 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
+      "insight": "PB 중심의 저가 디스카운트 식료품 브랜드다.",
       "logoHistory": [
         {
           "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Leader_Price_2010_Logo.svg",
@@ -68085,16 +68143,19 @@
       ],
       "sections": {
         "overview": {
-          "body": "Leader Price는 프랑스 기반의 리테일·커머스 브랜드입니다. 상품 큐레이션, 가격 체계, 매장·온라인 유통, 구매 편의성이 브랜드 인식을 좌우하는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
+          "title": "개요",
+          "body": "리더프라이스(Leader Price)는 1989년 프랑스 파리 첫 매장으로 설립됐고 1997년 카지노 그룹이 인수했다. 전체 상품의 상당수가 PB 제품일 만큼 자체상표 비중이 높으며 2020년 대부분 매장을 알디에 매각했으나 브랜드는 카지노가 유지하며 프랜차이즈로 운영을 이어간다."
         },
         "insights": {
           "body": "Leader Price 항목은 단순한 이름 목록이 아니라 리테일·커머스 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다."
         },
         "origin": {
-          "body": ""
+          "title": "기원",
+          "body": "1989년 프랑스에서 설립된 PB 중심 디스카운트 슈퍼마켓으로, 카지노 그룹이 브랜드를 보유한다."
         },
         "identity": {
-          "body": "Leader Price의 아이덴티티는 브랜드명, 로고 사용 여부, 업종 언어, 국가적 배경을 중심으로 정리됩니다. 대표 로고 자산이 연결되어 있어 시각 식별자를 함께 검토할 수 있습니다."
+          "title": "브랜드 정체성",
+          "body": "PB 중심의 저가 디스카운트 식료품 브랜드다."
         },
         "external": {
           "body": ""
@@ -68108,7 +68169,8 @@
         "current": {
           "body": "국가: 프랑스; 산업: 소매"
         }
-      }
+      },
+      "officialWebsite": "https://www.leaderprice.fr/"
     },
     {
       "id": 254,
