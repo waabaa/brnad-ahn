@@ -33,10 +33,11 @@ rsync -az --delete $DRY -e "$SSH" \
   "$SRC" "$SSH_TARGET:$STAGING/"
 
 if [ -z "$DRY" ]; then
-  # Sync staging → Nginx webroot (preserve perms; -T = treat dest as the dir itself),
-  # then validate + reload. cp/nginx/systemctl are NOPASSWD-allowed for `developer`.
+  # Mirror staging → Nginx webroot with --delete so renamed/removed pages do not
+  # linger as orphans (old `cp -aT` was additive and left stale duplicate-content
+  # pages live). rsync/nginx/systemctl are NOPASSWD-allowed for `developer`.
   $SSH "$SSH_TARGET" '
-    sudo -n cp -aT --no-preserve=ownership /home/developer/brandatlas /var/www/brandatlas &&
+    sudo -n rsync -a --delete --no-owner --no-group /home/developer/brandatlas/ /var/www/brandatlas/ &&
     sudo -n nginx -t && sudo -n systemctl reload nginx &&
     echo "deployed: $(find /var/www/brandatlas -type f | wc -l) files; brand pages $(ls /var/www/brandatlas/brand/*.html | wc -l)"'
   echo "Live: https://brandatlas.co.kr/"
