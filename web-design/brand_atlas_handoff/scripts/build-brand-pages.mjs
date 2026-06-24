@@ -44,6 +44,7 @@ sandbox.brandUrl = (b) => `../brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 sandbox.header = (active = "") => {
   const nav = [
     ["브랜드 사전", "../index.html"],
+    ["전체 브랜드", "../pages/brands.html"],
     ["산업별 탐색", "../pages/industry.html"],
     ["브랜드 매거진", "../pages/brand-artemio.html"],
     ["브랜드 인사이트", "../pages/insights.html"],
@@ -99,7 +100,7 @@ function pageHtml(brand) {
   const ogImg = absAsset(brand.image);
   const headerHtml = sandbox.header("브랜드 매거진");
   const bodyHtml = renderBrandMagazine(brand);
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="index,follow"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${url}"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=20260621"><script type="application/ld+json">${jsonLd(brand)}</script></head>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="index,follow"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${url}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=20260621"><script type="application/ld+json">${jsonLd(brand)}</script></head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${headerHtml}</div><main id="main-content" class="wrap"><div id="brandPage">${bodyHtml}</div></main></body></html>`;
 }
 
@@ -123,7 +124,7 @@ console.log(`wrote ${written} pages, ${failed} failed → ${outDir}`);
 if (!sampleSlugs) {
   // Regenerate sitemap: static pages + new /brand/<slug>.html, NO ?brand= query URLs.
   const today = new Date().toISOString().slice(0, 10);
-  const statics = ["/", "/pages/industry.html", "/pages/insights.html", "/pages/timeline.html", "/pages/bici.html", "/pages/search.html"];
+  const statics = ["/", "/pages/brands.html", "/pages/industry.html", "/pages/insights.html", "/pages/timeline.html", "/pages/bici.html", "/pages/search.html"];
   const urls = [
     ...statics.map(u => `${ORIGIN}${u}`),
     ...BRANDS.map(b => `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`),

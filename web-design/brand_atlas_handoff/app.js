@@ -39,6 +39,7 @@ function pageLink(path) {
 function header(active = "") {
   const nav = [
     ["브랜드 사전", isPage() ? "../index.html" : "index.html"],
+    ["전체 브랜드", pageLink("brands.html")],
     ["산업별 탐색", pageLink("industry.html")],
     ["브랜드 매거진", pageLink("brand-artemio.html")],
     ["브랜드 인사이트", pageLink("insights.html")],
