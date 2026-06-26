@@ -1,6 +1,9 @@
 async function loadData() {
   const dataPath = location.pathname.includes("/pages/") ? "../data/brand-atlas.json" : "./data/brand-atlas.json";
-  const res = await fetch(`${dataPath}?v=20260621`, { cache: "no-store" });
+  // Versioned URL (?v=) busts the cache on every deploy, so the browser may safely
+  // reuse the cached copy between page navigations and repeat visits (force-cache).
+  // This avoids re-downloading the ~1.3MB gzipped dataset on every hub-page load.
+  const res = await fetch(`${dataPath}?v=20260626`, { cache: "force-cache" });
   return await res.json();
 }
 
