@@ -255,7 +255,7 @@
     "tier": "A_magazine_ready",
     "rating": 5,
     "image": "images/daum/0143_001_og_7ddf0fea891bc6.jpg",
-    "logo": "images/updates/0111_logo_c4077f3cc3d71d.png",
+    "logo": "images/logos/starbucks.png",
     "sections": {
       "overview": {
         "title": "한눈에 보는 브랜드",
@@ -328,7 +328,21 @@
       "제품과 서비스",
       "현재 상태"
     ],
-    "insight": "스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성된다. 스타벅스의 비즈니스는 커피 사업이면서 동시에 사람 중심의 관계 사업이다. 브랜드의..."
+    "insight": "스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성된다. 스타벅스의 비즈니스는 커피 사업이면서 동시에 사람 중심의 관계 사업이다. 브랜드의...",
+    "logoHistory": [
+      {
+        "src": "images/updates/0111_logo_c4077f3cc3d71d.png",
+        "label": "대표 로고",
+        "note": "Current primary mark",
+        "alt": "brand logo"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Starbucks_logo.jpg",
+        "label": "BI/CI 아카이브",
+        "note": "Starbucks logo",
+        "alt": "Starbucks logo"
+      }
+    ]
   },
   "brandCards": [
     {
@@ -418,7 +432,51 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "애플에게 혁신은 일회성 전략이 아니라 조직의 습관처럼 반복되는 브랜드 행동이다. 애플은 새로움을 캠페인으로만 말하지 않는다. 제품, 인터페이스, 매장, 발표 방식까지 같은 태도로 정렬해 변화 자체를 브랜드의 일상적 리듬으로 만든다. 애플은 기기를 판매하지만, 실제로는 사용자가 기술을 대하는 방식을..."
+      "insight": "애플에게 혁신은 일회성 전략이 아니라 조직의 습관처럼 반복되는 브랜드 행동이다. 애플은 새로움을 캠페인으로만 말하지 않는다. 제품, 인터페이스, 매장, 발표 방식까지 같은 태도로 정렬해 변화 자체를 브랜드의 일상적 리듬으로 만든다. 애플은 기기를 판매하지만, 실제로는 사용자가 기술을 대하는 방식을...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0005_logo_7f105082912bf3.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Apple logo black",
+          "alt": "Apple logo black"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Apple logo white",
+          "alt": "Apple logo white"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_logo_dark_grey.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Apple logo dark grey",
+          "alt": "Apple logo dark grey"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Apple logo grey",
+          "alt": "Apple logo grey"
+        },
+        {
+          "status": "asset_pending",
+          "label": "컬러 시스템",
+          "note": "#61BF1A · #FCC917 · #F56600 · #E60D2E · #AD0DA6 · #00A3E0",
+          "alt": "애플 컬러 팔레트"
+        },
+        {
+          "status": "asset_pending",
+          "label": "아이덴티티 섹션",
+          "note": "로고 · 타입 · 컬러 · 애플리케이션",
+          "alt": "애플 아이덴티티 섹션"
+        }
+      ]
     },
     {
       "id": 86,
@@ -434,7 +492,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0356_001_og_1e2d1266f8dc3e.jpg",
-      "logo": "images/updates/0086_logo_2f45fc7d0f2c95.png",
+      "logo": "images/logos/nike.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -507,7 +565,45 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "나이키는 스포츠용품보다 자기극복의 서사를 더 강하게 판매하는 브랜드다. 신발과 의류는 제품이지만, 소비자가 실제로 구매하는 것은 기록을 갱신하고 자신을 증명하고 싶은 감정이다. 나이키의 커뮤니티와 디지털 서비스는 이 감정을 지속시키는 장치로 작동한다. 나이키의 헤리티지는 승리의 이미지를 현대적..."
+      "insight": "나이키는 스포츠용품보다 자기극복의 서사를 더 강하게 판매하는 브랜드다. 신발과 의류는 제품이지만, 소비자가 실제로 구매하는 것은 기록을 갱신하고 자신을 증명하고 싶은 감정이다. 나이키의 커뮤니티와 디지털 서비스는 이 감정을 지속시키는 장치로 작동한다. 나이키의 헤리티지는 승리의 이미지를 현대적...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0086_logo_2f45fc7d0f2c95.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "images/intelligence/logo_d9ab82fcbf5f798f.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Logo NIKE",
+          "alt": "Logo NIKE"
+        },
+        {
+          "src": "images/intelligence/logo_85ec969d25ff71f1.jpg",
+          "label": "BI/CI 아카이브",
+          "note": "Logo nike principal",
+          "alt": "Logo nike principal"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nike_Logo_White.png",
+          "label": "BI/CI 아카이브",
+          "note": "Nike Logo White",
+          "alt": "Nike Logo White"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Nike_White_Logo_2.png",
+          "label": "BI/CI 아카이브",
+          "note": "Nike White Logo 2",
+          "alt": "Nike White Logo 2"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nike_swoosh_logo71.png",
+          "label": "BI/CI 아카이브",
+          "note": "Nike swoosh logo71",
+          "alt": "Nike swoosh logo71"
+        }
+      ]
     },
     {
       "id": 11,
@@ -595,7 +691,15 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "BMW는 이동수단을 만드는 회사를 넘어, 주행 감각과 조형 언어를 함께 설계하는 디자인 브랜드다. BMW의 강점은 성능 수치만으로 설명되지 않는다. 운전자가 차를 보고, 만지고, 움직이는 순간에 느끼는 긴장감과 안정감이 하나의 브랜드 경험으로 조직된다. BMW의 브랜드 문화는 속도보다 통제된 역동성에..."
+      "insight": "BMW는 이동수단을 만드는 회사를 넘어, 주행 감각과 조형 언어를 함께 설계하는 디자인 브랜드다. BMW의 강점은 성능 수치만으로 설명되지 않는다. 운전자가 차를 보고, 만지고, 움직이는 순간에 느끼는 긴장감과 안정감이 하나의 브랜드 경험으로 조직된다. BMW의 브랜드 문화는 속도보다 통제된 역동성에...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0011_logo_bcccdad2ad10fa.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        }
+      ]
     },
     {
       "id": 93,
@@ -683,7 +787,15 @@
         "아이덴티티",
         "현재 상태"
       ],
-      "insight": "파타고니아는 아웃도어 브랜드이면서 동시에 소비를 줄이라는 역설적 메시지로 신뢰를 쌓은 브랜드다. 제품을 파는 기업이지만 브랜드의 설득력은 자연, 책임, 오래 쓰는 태도를 일관되게 말하는 데서 나온다."
+      "insight": "파타고니아는 아웃도어 브랜드이면서 동시에 소비를 줄이라는 역설적 메시지로 신뢰를 쌓은 브랜드다. 제품을 파는 기업이지만 브랜드의 설득력은 자연, 책임, 오래 쓰는 태도를 일관되게 말하는 데서 나온다.",
+      "logoHistory": [
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Patagonia_(Unternehmen)_logo.svg",
+          "label": "대표 로고",
+          "note": "대표 브랜드 마크",
+          "alt": "파타고니아 logo"
+        }
+      ]
     },
     {
       "id": 51,
@@ -699,7 +811,7 @@
       "tier": "B_editorial_review",
       "rating": 4.7,
       "image": "images/daum/0150_001_og_bf6f3e0beee68d.jpg",
-      "logo": "images/updates/0051_logo_0e18a4372b8dc4.png",
+      "logo": "images/logos/gucci.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -771,7 +883,45 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "구찌오 구찌가 1921년에 설립한 이탈리아의 명품 브랜드로 핸드백, 슈즈, 의류, 시계, 파인 주얼리 등을 제작 · 판매함. 구찌의 정의 및 기원 구찌(Gucci)는 구찌오 구찌(Guccio Cucci)가 이탈리아 피렌체(Firenze, 이탈리아 중부 토스카나 주)에 설립한..."
+      "insight": "구찌오 구찌가 1921년에 설립한 이탈리아의 명품 브랜드로 핸드백, 슈즈, 의류, 시계, 파인 주얼리 등을 제작 · 판매함. 구찌의 정의 및 기원 구찌(Gucci)는 구찌오 구찌(Guccio Cucci)가 이탈리아 피렌체(Firenze, 이탈리아 중부 토스카나 주)에 설립한...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0051_logo_0e18a4372b8dc4.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "images/intelligence/logo_533579f9d0b88a65.svg",
+          "label": "BI/CI 아카이브",
+          "note": "1960s Gucci Logo",
+          "alt": "1960s Gucci Logo"
+        },
+        {
+          "src": "images/intelligence/logo_efdd92e36719b6f9.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Gucci Logo",
+          "alt": "Gucci Logo"
+        },
+        {
+          "src": "images/intelligence/logo_e0ca0b3809ed4bcf.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Gucci logo",
+          "alt": "Gucci logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/House_of_Gucci_Logo.png",
+          "label": "BI/CI 아카이브",
+          "note": "House of Gucci Logo",
+          "alt": "House of Gucci Logo"
+        },
+        {
+          "src": "images/intelligence/logo_c53dfe532229ad26.png",
+          "label": "BI/CI 아카이브",
+          "note": "Gucci logo",
+          "alt": "Gucci logo"
+        }
+      ]
     },
     {
       "id": 2,
@@ -787,7 +937,7 @@
       "tier": "B_editorial_review",
       "rating": 4.7,
       "image": "images/daum/0267_001_og_e65ed4b37d8ca5.jpg",
-      "logo": "images/updates/0002_logo_a12f74a966d571.png",
+      "logo": "images/logos/adidas.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -859,7 +1009,33 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "아돌프 다슬러가 1948년에 설립한 독일의 스포츠 브랜드로 운동화, 운동복, 운동용품 등을 제조 · 판매함. 아디다스의 정의 및 기원 아디다스(adidas)는 바이에른(Bayern) 주의 헤르초게나우라흐(Herzogenaurach)에 본사를 둔 독일의 스포츠 용품 제조..."
+      "insight": "아돌프 다슬러가 1948년에 설립한 독일의 스포츠 브랜드로 운동화, 운동복, 운동용품 등을 제조 · 판매함. 아디다스의 정의 및 기원 아디다스(adidas)는 바이에른(Bayern) 주의 헤르초게나우라흐(Herzogenaurach)에 본사를 둔 독일의 스포츠 용품 제조...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0002_logo_a12f74a966d571.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "images/intelligence/logo_0e74638f2a38678f.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Adidas Logo",
+          "alt": "Adidas Logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adidas-group-logo-fr.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Adidas group logo fr",
+          "alt": "Adidas group logo fr"
+        },
+        {
+          "src": "images/intelligence/logo_947359e1b046f26a.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Adidas 2022 logo",
+          "alt": "Adidas 2022 logo"
+        }
+      ]
     },
     {
       "id": 28,
@@ -875,7 +1051,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0282_001_og_60a765a2436454.jpg",
-      "logo": "images/updates/0028_logo_699b4e91e1c021.png",
+      "logo": "images/logos/coca-cola.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -947,7 +1123,21 @@
         "아이덴티티",
         "현재 상태"
       ],
-      "insight": "코카-콜라는 음료의 맛보다 함께 마시는 순간의 감정을 브랜드 자산으로 축적해 왔다. 병의 형태, 색, 광고 언어, 공유의 장면이 반복되면서 제품은 탄산음료를 넘어 친숙함과 즐거움의 상징이 된다."
+      "insight": "코카-콜라는 음료의 맛보다 함께 마시는 순간의 감정을 브랜드 자산으로 축적해 왔다. 병의 형태, 색, 광고 언어, 공유의 장면이 반복되면서 제품은 탄산음료를 넘어 친숙함과 즐거움의 상징이 된다.",
+      "logoHistory": [
+        {
+          "src": "images/updates/0028_logo_699b4e91e1c021.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "status": "asset_pending",
+          "label": "아이덴티티 섹션",
+          "note": "From the same designers",
+          "alt": "코카-콜라 아이덴티티 섹션"
+        }
+      ]
     },
     {
       "id": 76,
@@ -1036,7 +1226,15 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "맥도날드는 가장 평범한 소비재를 세계 어디서나 읽히는 대중문화의 기호로 바꾼 브랜드다. 햄버거와 감자튀김은 단순한 메뉴지만, 맥도날드는 속도, 표준화, 접근성, 익숙함을 결합해 글로벌 일상의 상징을 만들었다."
+      "insight": "맥도날드는 가장 평범한 소비재를 세계 어디서나 읽히는 대중문화의 기호로 바꾼 브랜드다. 햄버거와 감자튀김은 단순한 메뉴지만, 맥도날드는 속도, 표준화, 접근성, 익숙함을 결합해 글로벌 일상의 상징을 만들었다.",
+      "logoHistory": [
+        {
+          "src": "images/updates/0076_logo_ad1b3bec57f90d.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        }
+      ]
     },
     {
       "id": 71,
@@ -1052,7 +1250,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0141_001_og_e0a603f4da2dfd.jpg",
-      "logo": "images/updates/0071_logo_190e059a5cb303.png",
+      "logo": "images/logos/louis-vuitton.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -1125,7 +1323,15 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "루이비통은 여행가방에서 출발했지만, 이동의 기능을 럭셔리한 삶의 상징으로 확장했다. 브랜드의 헤리티지는 물건을 담는 도구가 아니라 이동하는 사람의 취향과 지위를 표현하는 방식으로 발전했다."
+      "insight": "루이비통은 여행가방에서 출발했지만, 이동의 기능을 럭셔리한 삶의 상징으로 확장했다. 브랜드의 헤리티지는 물건을 담는 도구가 아니라 이동하는 사람의 취향과 지위를 표현하는 방식으로 발전했다.",
+      "logoHistory": [
+        {
+          "src": "images/updates/0071_logo_190e059a5cb303.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        }
+      ]
     },
     {
       "id": 20,
@@ -1212,7 +1418,33 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "제임스 맥라모어와 데이비드 에드거턴이 1954년 미국 마이애미에서 시작한 퀵 서비스 레스토랑으로 햄버거, 치킨, 프렌치 프라이, 탄산음료, 밀크셰이크, 샐러드, 디저트 등을 제조 · 판매함. 버거킹의 정의 및 기원 버거킹(Burger King)은 미국의 패스트푸드(Fast..."
+      "insight": "제임스 맥라모어와 데이비드 에드거턴이 1954년 미국 마이애미에서 시작한 퀵 서비스 레스토랑으로 햄버거, 치킨, 프렌치 프라이, 탄산음료, 밀크셰이크, 샐러드, 디저트 등을 제조 · 판매함. 버거킹의 정의 및 기원 버거킹(Burger King)은 미국의 패스트푸드(Fast...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0020_logo_63f5cb047465ba.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Burger_King_1969_logo.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Burger King 1969 logo",
+          "alt": "Burger King 1969 logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Burger_King_logo_%281999%E2%80%932020%29.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Burger King logo (1999–2020)",
+          "alt": "Burger King logo (1999–2020)"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Burger_King_logo_%282005%E2%80%932012%29.svg",
+          "label": "BI/CI 아카이브",
+          "note": "Burger King logo (2005–2012)",
+          "alt": "Burger King logo (2005–2012)"
+        }
+      ]
     },
     {
       "id": 117,
@@ -1228,7 +1460,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0333_001_og_781e04a639ab28.png",
-      "logo": "",
+      "logo": "images/logos/the-body-shop.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -1300,7 +1532,27 @@
         "아이덴티티",
         "현재 상태"
       ],
-      "insight": "더바디샵은 화장품을 윤리적 소비와 사회적 메시지를 담는 매개로 확장한 브랜드다. 제품의 효능만큼이나 동물실험 반대, 공정 거래, 환경 의식 같은 태도가 브랜드 선택의 이유가 된다."
+      "insight": "더바디샵은 화장품을 윤리적 소비와 사회적 메시지를 담는 매개로 확장한 브랜드다. 제품의 효능만큼이나 동물실험 반대, 공정 거래, 환경 의식 같은 태도가 브랜드 선택의 이유가 된다.",
+      "logoHistory": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/SEAT_logo_in_colour.jpg",
+          "label": "BI/CI 아카이브",
+          "note": "SEAT logo in colour",
+          "alt": "SEAT logo in colour"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/FBS_logo.jpg",
+          "label": "BI/CI 아카이브",
+          "note": "FBS logo",
+          "alt": "FBS logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TONE_Body_Logo.svg",
+          "label": "BI/CI 아카이브",
+          "note": "TONE Body Logo",
+          "alt": "TONE Body Logo"
+        }
+      ]
     },
     {
       "id": 111,
@@ -1316,7 +1568,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0143_001_og_7ddf0fea891bc6.jpg",
-      "logo": "images/updates/0111_logo_c4077f3cc3d71d.png",
+      "logo": "images/logos/starbucks.png",
       "sections": {
         "overview": {
           "title": "한눈에 보는 브랜드",
@@ -1389,7 +1641,21 @@
         "제품과 서비스",
         "현재 상태"
       ],
-      "insight": "스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성된다. 스타벅스의 비즈니스는 커피 사업이면서 동시에 사람 중심의 관계 사업이다. 브랜드의..."
+      "insight": "스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성된다. 스타벅스의 비즈니스는 커피 사업이면서 동시에 사람 중심의 관계 사업이다. 브랜드의...",
+      "logoHistory": [
+        {
+          "src": "images/updates/0111_logo_c4077f3cc3d71d.png",
+          "label": "대표 로고",
+          "note": "Current primary mark",
+          "alt": "brand logo"
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Starbucks_logo.jpg",
+          "label": "BI/CI 아카이브",
+          "note": "Starbucks logo",
+          "alt": "Starbucks logo"
+        }
+      ]
     }
   ],
   "brands": [
@@ -1515,7 +1781,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0356_001_og_1e2d1266f8dc3e.jpg",
-      "logo": "images/updates/0086_logo_2f45fc7d0f2c95.png",
+      "logo": "images/logos/nike.png",
       "sections": {
         "overview": {
           "body": "나이키는 스포츠용품보다 자기극복의 서사를 더 강하게 판매하는 브랜드다. 신발과 의류는 제품이지만, 소비자가 실제로 구매하는 것은 기록을 갱신하고 자신을 증명하고 싶은 감정이다. 나이키의 커뮤니티와 디지털 서비스는 이 감정을 지속시키는 장치로 작동한다."
@@ -1877,7 +2143,7 @@
       "tier": "B_editorial_review",
       "rating": 4.7,
       "image": "images/daum/0150_001_og_bf6f3e0beee68d.jpg",
-      "logo": "images/updates/0051_logo_0e18a4372b8dc4.png",
+      "logo": "images/logos/gucci.png",
       "sections": {
         "overview": {
           "body": "구찌는 이탈리아 기반의 패션·럭셔리 브랜드입니다. 소재, 실루엣, 로고, 컬렉션 운영이 취향과 지위 신호를 만드는 영역으로 분류되며, 브랜드명과 업종, 운영 국가, 공개 로고 여부를 함께 보며 사전 항목의 기본 맥락을 확인할 수 있습니다."
@@ -2030,7 +2296,7 @@
       "tier": "B_editorial_review",
       "rating": 4.7,
       "image": "images/daum/0267_001_og_e65ed4b37d8ca5.jpg",
-      "logo": "images/updates/0002_logo_a12f74a966d571.png",
+      "logo": "images/logos/adidas.png",
       "sections": {
         "overview": {
           "body": "아돌프 다슬러가 1948년에 설립한 독일의 스포츠 브랜드로 운동화, 운동복, 운동용품 등을 제조 · 판매함. 아디다스의 정의 및 기원 아디다스(adidas)는 바이에른(Bayern) 주의 헤르초게나우라흐(Herzogenaurach)에 본사를 둔 독일의 스포츠 용품 제조... 아디다스는 '독일의 다국적 스포츠 의류 기업'입니다. 공식 웹사이트는 https://www.adidas.com/입니다. 국가 정보는 독일로 정리했습니다. 설립/시작 시점은 1924년; 1949년로 기록되어 있습니다. 아돌프 다슬러가 1948년에 설립한 독일의 스포츠 브랜드로 운동화, 운동복, 운동용품 등을 제조 · 판매함. 아디다스의 정의 및 기원 아디다스(adidas)는 바이에른(Bayern) 주의 헤르초게나우라흐(Herzogenaurach)에 본사를 둔 독일의 스포츠 용품 제조 기업으로 1948년 아돌프 다슬러(Adolf Dassler)가 설립했다. 브랜드명은 자신의 애칭인 아디(Adi)와 성 다슬러(Dassler)를 결합한 아디다스(adidas)로 지어졌다 German multinational clothing and apparel corporation Adidas AG is a German multinational athletic apparel and footwear corporation headquartered in Herzogenaurach, Germany. It is the largest sportswear manufacturer in Europe, and the second largest in the world, after Nike. It is the holding company for the Adidas Group, which also owns an 8.33% stake in the football club Bayern Munich, and Runtastictrian fitness technology company. Adidas's revenue for 2024 was listed at €23 billion. Adidas is known for its brand image, extensive long origin history for participating in sponsoring athletes, and gear in the FIFA World Cup series. The brand is also recognized... 아돌프 다슬러가 1948년에 설립한 독일의 스포츠 브랜드로 운동화, 운동복, 운동용품 등을 제조 · 판매함. 아디다스의 정의 및 기원 아디다스(adidas)는 바이에른(Bayern) 주의 헤르초게나우라흐(Herzogenaurach)에 본사를 둔 독일의..."
@@ -2171,7 +2437,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0282_001_og_60a765a2436454.jpg",
-      "logo": "images/updates/0028_logo_699b4e91e1c021.png",
+      "logo": "images/logos/coca-cola.png",
       "sections": {
         "overview": {
           "body": "코카-콜라는 음료의 맛보다 함께 마시는 순간의 감정을 브랜드 자산으로 축적해 왔다. 병의 형태, 색, 광고 언어, 공유의 장면이 반복되면서 제품은 탄산음료를 넘어 친숙함과 즐거움의 상징이 된다."
@@ -2408,7 +2674,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0141_001_og_e0a603f4da2dfd.jpg",
-      "logo": "images/updates/0071_logo_190e059a5cb303.png",
+      "logo": "images/logos/louis-vuitton.png",
       "sections": {
         "overview": {
           "body": "루이비통은 여행가방에서 출발했지만, 이동의 기능을 럭셔리한 삶의 상징으로 확장했다. 브랜드의 헤리티지는 물건을 담는 도구가 아니라 이동하는 사람의 취향과 지위를 표현하는 방식으로 발전했다."
@@ -2652,7 +2918,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0333_001_og_781e04a639ab28.png",
-      "logo": "",
+      "logo": "images/logos/the-body-shop.png",
       "sections": {
         "overview": {
           "body": "더바디샵은 화장품을 윤리적 소비와 사회적 메시지를 담는 매개로 확장한 브랜드다. 제품의 효능만큼이나 동물실험 반대, 공정 거래, 환경 의식 같은 태도가 브랜드 선택의 이유가 된다."
@@ -2777,7 +3043,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0143_001_og_7ddf0fea891bc6.jpg",
-      "logo": "images/updates/0111_logo_c4077f3cc3d71d.png",
+      "logo": "images/logos/starbucks.png",
       "sections": {
         "overview": {
           "body": "스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성된다."
@@ -2902,7 +3168,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0155_001_og_ee45fe97d803a2.jpg",
-      "logo": "images/updates/0119_logo_35a3758d60f242.png",
+      "logo": "images/logos/tiffany-and-co.png",
       "sections": {
         "overview": {
           "body": "티파니는 주얼리 자체만큼이나 색과 포장, 선물의 의식을 브랜드 자산으로 만든다. 블루 박스와 매장 경험은 제품을 구매하는 순간을 특별한 사건으로 바꾸며, 브랜드의 상징성을 강화한다."
@@ -3182,7 +3448,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0186_001_og_a0f542ef2faaeb.jpg",
-      "logo": "images/updates/0010_logo_03af5cd331ee25.png",
+      "logo": "images/logos/bang-and-olufsen.png",
       "sections": {
         "overview": {
           "body": "뱅앤올룹슨은 오디오를 가전제품이 아니라 공간 속 오브제로 다루는 브랜드다. 소리의 품질뿐 아니라 제품이 놓이는 방식, 재료, 형태, 조작 경험까지 디자인의 일부로 통합한다."
@@ -3268,7 +3534,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0359_001_og_42799d44b17d14.jpg",
-      "logo": "images/updates/0125_logo_2bf716b5bf3d0b.png",
+      "logo": "images/logos/uniqlo.png",
       "sections": {
         "overview": {
           "body": "유니클로는 패션을 유행의 장식이 아니라 생활을 구성하는 공산품처럼 다룬다. 브랜드의 힘은 화려한 스타일보다 베이직, 품질, 가격, 운영 시스템을 일관되게 정렬하는 데서 나온다."
@@ -3347,7 +3613,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0181_001_og_8d0445e698ce6f.jpg",
-      "logo": "images/updates/0115_logo_525a505a1e8e17.png",
+      "logo": "images/logos/swatch.png",
       "sections": {
         "overview": {
           "body": "스와치는 시계를 고가의 정밀기기에서 매일 바꿔 착용할 수 있는 패션 언어로 전환했다. 시간을 알려주는 기능보다 색, 그래픽, 컬렉션, 가벼운 가격대가 브랜드 경험의 중심이 된다."
@@ -3484,7 +3750,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0140_001_og_669b4d7f6bc744.jpg",
-      "logo": "images/updates/0100_logo_519f5b3fa3cabf.png",
+      "logo": "images/logos/prada.png",
       "sections": {
         "overview": {
           "body": "프라다는 아름다움을 익숙한 화려함보다 지적인 긴장감으로 표현하는 브랜드다. 소재와 형태, 절제된 색감은 패션을 단순한 장식이 아니라 관찰과 해석의 대상으로 만든다."
@@ -3633,7 +3899,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0126_001_og_13de36012ca645.jpg",
-      "logo": "images/updates/0052_logo_a1a9c1c3288890.png",
+      "logo": "images/logos/harley-davidson.png",
       "sections": {
         "overview": {
           "body": "할리데이비슨은 모터사이클보다 자유와 소속감의 의식을 더 강하게 판매한다. 제품은 이동수단이지만 브랜드의 핵심은 엔진음, 라이딩 문화, 커뮤니티, 반항적 이미지가 결합된 정체성 경험이다."
@@ -3763,7 +4029,7 @@
       "tier": "A_magazine_ready",
       "rating": 5,
       "image": "images/daum/0316_001_og_77d3d6d73ae508.jpg",
-      "logo": "images/updates/0129_logo_061fb4d2dc2a49.png",
+      "logo": "images/logos/victoria-s-secret.png",
       "sections": {
         "overview": {
           "body": "빅토리아 시크릿은 속옷을 기능적 제품이 아니라 무대화된 판타지와 자기표현의 이미지로 포장한 브랜드다. 브랜드는 제품보다 쇼, 모델, 시각적 연출을 통해 소비자가 상상하는 매력의 장면을 판매해 왔다."
@@ -4757,7 +5023,7 @@
       "tier": "D_directory_only",
       "rating": 3.6,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/xexymix.png",
       "insight": "젝시믹스 항목은 단순한 이름 목록이 아니라 스포츠·아웃도어 시장 안에서 어떤 역할을 하는지 읽기 위한 기준점입니다. 제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
       "logoHistory": [],
       "sections": {
@@ -5888,7 +6154,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-london-sinfonietta.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -7767,7 +8033,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-here-east.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -7997,7 +8263,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-montreal-1976.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -10943,7 +11209,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mozilla-2024.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -11607,7 +11873,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-perplexity.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -12069,7 +12335,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-analog.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -12894,7 +13160,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-peerspace.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -13420,7 +13686,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-openview.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -13546,7 +13812,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-league-one-volley-ball.svg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -14205,7 +14471,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-philadelphia-art-museum-2025.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -14452,7 +14718,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-sarajevo-1984.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -14781,7 +15047,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-munich-1972.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -14865,7 +15131,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-borussia-dortmund-2023.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15023,7 +15289,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-tottenham-hotspur.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15248,7 +15514,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-delta.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15363,7 +15629,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-american-airlines.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15447,7 +15713,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-swissair-1978.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15519,7 +15785,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-austrian-airlines.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15591,7 +15857,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-norwegian.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15711,7 +15977,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-pan-am.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15823,7 +16089,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-jal.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -15895,7 +16161,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-eastern-airlines.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -16039,7 +16305,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-hughes-airwest.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -16111,7 +16377,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-klm.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -16217,7 +16483,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-israel-airlines.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -17632,7 +17898,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-fenty.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -17776,7 +18042,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-esprit.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -19185,7 +19451,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-munson.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -19558,7 +19824,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/mus-e-des-beaux-arts-de-montr-al.svg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -19741,7 +20007,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-whitney-museum-of-american-art.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -19813,7 +20079,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-new-york-botanical-garden.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -21135,7 +21401,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-popchips.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -22887,7 +23153,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-nationwide.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23031,7 +23297,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-monzo.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23171,7 +23437,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-lloyds.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23243,7 +23509,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-bancomat.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23315,7 +23581,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-hongkongbank.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23387,7 +23653,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-citibank.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23508,7 +23774,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/banco-ita.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -23664,7 +23930,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-tomato-bank.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -24018,7 +24284,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-huntington-bank.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -24609,7 +24875,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-japan-post.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -25230,7 +25496,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-twitch-2024.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -25412,7 +25678,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-vevo.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -26157,7 +26423,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-kenwood.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -26229,7 +26495,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-sigma.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -26373,7 +26639,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-seiyu.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -26692,7 +26958,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-jomo.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -26776,7 +27042,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-cosmo-oil.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -27036,7 +27302,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-rspca.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -27286,7 +27552,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-stella-artois-2023.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -27484,7 +27750,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-fanta.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -27765,7 +28031,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-yahoo-2026.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -29193,7 +29459,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-obama-foundation.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -29852,7 +30118,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-dropbox.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -29924,7 +30190,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-roblox-2025.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -30850,7 +31116,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-paysafe.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -30965,7 +31231,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-afterpay.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -31090,7 +31356,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-wise.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -31162,7 +31428,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-paypal-2024.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -31282,7 +31548,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-visa.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -31397,7 +31663,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mastercard.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -32721,7 +32987,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-asahi.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -32793,7 +33059,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-daiei.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -33032,7 +33298,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-zexel.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -33187,7 +33453,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-kirin.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -33587,7 +33853,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-reddit-2023.svg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -33779,7 +34045,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-jaffa.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -34566,7 +34832,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-deezer.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -36920,7 +37186,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-bmg.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -36992,7 +37258,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-sandals.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -37246,7 +37512,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-instacart.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -37318,7 +37584,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-bite-back.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -37443,7 +37709,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-blank-street-coffee.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -37640,7 +37906,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-the-hartford.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -39948,7 +40214,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-repsol-2025.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40103,7 +40369,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-shell.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40207,7 +40473,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-elf.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40280,7 +40546,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-tepco.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40439,7 +40705,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mobil.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40511,7 +40777,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-agip.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -40850,7 +41116,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-lotteria.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -41605,7 +41871,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-chester-zoo.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -42864,7 +43130,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-san-francisco-symphony.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -42936,7 +43202,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-muse-group.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -43163,7 +43429,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mailchimp.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -43268,7 +43534,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-bose-2024.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -44300,7 +44566,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-expo-'70.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -44383,7 +44649,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-expo-74.jpg",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46131,7 +46397,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-ribena-2025.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46316,7 +46582,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-munich-airport.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46564,7 +46830,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mexico-city-metro.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46649,7 +46915,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-nederlandse-spoorwegen.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46722,7 +46988,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-japan-railway.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -46923,7 +47189,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-prague-metro.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -47173,7 +47439,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-natural-history-museum.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -47290,7 +47556,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-philbrook-museum-of-art.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -47480,7 +47746,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-mit-media-lab.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -48454,7 +48720,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-calgary-1988.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -48527,7 +48793,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-sydney-2000.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
@@ -48896,7 +49162,7 @@
       "tier": "B_identity_archive",
       "rating": 4,
       "image": "assets/objects/brand_atlas_logo_mark.png",
-      "logo": "",
+      "logo": "images/logos/brandarchive-first-choice.png",
       "publicReady": true,
       "displayPriority": "identity-archive",
       "sections": {
