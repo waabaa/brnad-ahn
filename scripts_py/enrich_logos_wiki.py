@@ -163,11 +163,23 @@ def query_for(b):
         return us.replace("-", " ").strip()
     return None
 
+# Known mismatches: the enwiki entity for these slugs resolves to a parent-group
+# or old-corporate-name logo, never the brand's own trademark. Verified by visual
+# Read inspection across multiple runs — permanently excluded so the script stops
+# re-introducing them every sweep:
+#   kakao      -> "daumkakao" 2014 old corporate wordmark
+#   korean-air -> "HANJIN" parent-group logo
+#   gs25       -> "GS" group logo (no "25")
+#   hanwha-life/kcc -> parent-group logos (see project memory)
+BLACKLIST = {"kakao", "korean-air", "gs25", "hanwha-life", "kcc"}
+
+
 def main():
     data = json.loads(DATA_JSON.read_text(encoding="utf-8"))
     all_brands = data.get("allBrands", [])
     candidates = [b for b in all_brands
                   if not is_real(b.get("logo")) and not is_real(b.get("image"))
+                  and (b.get("urlSlug") or b.get("slug")) not in BLACKLIST
                   and query_for(b)]
     candidates.sort(key=lambda b: float(b.get("rating") or 0), reverse=True)
     candidates = candidates[:LIMIT]
