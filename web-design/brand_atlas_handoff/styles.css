@@ -61,7 +61,7 @@ body{color:#0f0f0f}.lead,.home-domain-card p,.brand-card p,#brandCards>.brand-ca
 .home-domain-card,.industry-card,.source-card,.related-card,.logo-archive article{border-radius:12px;transition:border-color .18s ease,box-shadow .18s ease,transform .18s ease}
 .home-domain-card:hover,.industry-card:hover,.source-card:hover,.related-card:hover,.logo-archive article:hover{box-shadow:0 14px 34px rgba(15,15,15,.08);transform:translateY(-2px)}
 .home-domain-card p,.source-card p{line-height:1.7}.home-domain-card strong{color:#6b7280}
-.stat p{font-size:11px;line-height:1.45;text-transform:uppercase;letter-spacing:.08em;opacity:.72;font-weight:600}.stat strong{letter-spacing:0}
+.stat p{font-size:14px;line-height:1.5;text-transform:uppercase;letter-spacing:.05em;opacity:1;font-weight:700;color:#111}.stat p:first-child{color:#111}.stat strong{letter-spacing:0}
 .brand-card p,#brandCards>.brand-card p{line-height:1.65}.timeline-node b{font-weight:800;letter-spacing:0}
 
 /* Typographic wordmark placeholder for brands without a logo asset */
