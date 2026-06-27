@@ -1,0 +1,3142 @@
+[
+  {
+    "slug": "nudie-jeans",
+    "name": "누디진",
+    "nameEn": "Nudie Jeans",
+    "status": "none"
+  },
+  {
+    "slug": "stokke",
+    "name": "스토케",
+    "nameEn": "Stokke",
+    "status": "none"
+  },
+  {
+    "slug": "best-global-brands",
+    "name": "베스트 글로벌 브랜드",
+    "nameEn": "Best Global Brands",
+    "status": "none"
+  },
+  {
+    "slug": "santa-maria-novella",
+    "name": "산타 마리아 노벨라",
+    "nameEn": "Santa Maria Novella",
+    "industry": "뷰티·퍼스널케어",
+    "wiki_title": "Officina Profumo-Farmaceutica di Santa Maria Novella",
+    "logo_file": "Logo Off. Prof. S. M. Novella.png",
+    "local": "scripts_py/logos_wiki_candidates/santa-maria-novella.png",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "bacard",
+    "name": "바카디",
+    "nameEn": "BACARDÍ",
+    "status": "none"
+  },
+  {
+    "slug": "godiva",
+    "name": "고디바",
+    "nameEn": "GODIVA",
+    "status": "none"
+  },
+  {
+    "slug": "vera-wang",
+    "name": "베라왕",
+    "nameEn": "Vera Wang",
+    "status": "none"
+  },
+  {
+    "slug": "eldi",
+    "name": "Eldi",
+    "nameEn": "Eldi",
+    "status": "none"
+  },
+  {
+    "slug": "it-s-electronics",
+    "name": "It's Electronics",
+    "nameEn": "It's Electronics",
+    "status": "none"
+  },
+  {
+    "slug": "boerenbond",
+    "name": "Boerenbond",
+    "nameEn": "Boerenbond",
+    "status": "none"
+  },
+  {
+    "slug": "pyaterochka",
+    "name": "Pyaterochka",
+    "nameEn": "Pyaterochka",
+    "industry": "리테일·커머스",
+    "wiki_title": "Pyaterochka",
+    "logo_file": "5 Пятёрочка...5 Fünfchen...2H1A1993OB.jpg",
+    "local": "scripts_py/logos_wiki_candidates/pyaterochka.jpg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "standaard-boekhandel",
+    "name": "Standaard Boekhandel",
+    "nameEn": "Standaard Boekhandel",
+    "status": "none"
+  },
+  {
+    "slug": "0711-엔터테인먼트",
+    "name": "0711 엔터테인먼트",
+    "nameEn": "0711 Entertainment",
+    "status": "none"
+  },
+  {
+    "slug": "105music",
+    "name": "105music",
+    "nameEn": "105music",
+    "status": "none"
+  },
+  {
+    "slug": "8bitpeoples",
+    "name": "8bitpeoples",
+    "nameEn": "8bitpeoples",
+    "status": "none"
+  },
+  {
+    "slug": "az",
+    "name": "AZ",
+    "nameEn": "AZ",
+    "status": "none"
+  },
+  {
+    "slug": "bros-music",
+    "name": "Bros Music",
+    "nameEn": "Bros Music",
+    "status": "none"
+  },
+  {
+    "slug": "paul-bassett",
+    "name": "폴 바셋",
+    "nameEn": "Paul Bassett",
+    "status": "none"
+  },
+  {
+    "slug": "distribution-select",
+    "name": "Distribution Select",
+    "nameEn": "Distribution Select",
+    "status": "none"
+  },
+  {
+    "slug": "norcd",
+    "name": "NorCD",
+    "nameEn": "NorCD",
+    "status": "none"
+  },
+  {
+    "slug": "pwm-edition",
+    "name": "PWM Edition",
+    "nameEn": "PWM Edition",
+    "status": "none"
+  },
+  {
+    "slug": "rbmg",
+    "name": "RBMG",
+    "nameEn": "RBMG",
+    "status": "none"
+  },
+  {
+    "slug": "ts-엔터테인먼트",
+    "name": "TS 엔터테인먼트",
+    "nameEn": "TS Entertainment",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "TS Entertainment",
+    "logo_file": "TS Entertainment.png",
+    "local": "scripts_py/logos_wiki_candidates/ts-엔터테인먼트.png",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "x-ray-dog",
+    "name": "X-Ray Dog",
+    "nameEn": "X-Ray Dog",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "BMG Rights Management",
+    "logo_file": "BMG logo 2025 (Horizontal).svg",
+    "local": "scripts_py/logos_wiki_candidates/x-ray-dog.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "오픈월드-엔터테인먼트",
+    "name": "오픈월드 엔터테인먼트",
+    "nameEn": "Open World Entertainment",
+    "status": "none"
+  },
+  {
+    "slug": "애프터매스-엔터테인먼트",
+    "name": "애프터매스 엔터테인먼트",
+    "nameEn": "Aftermath Entertainment",
+    "status": "none"
+  },
+  {
+    "slug": "코어콘텐츠미디어",
+    "name": "코어콘텐츠미디어",
+    "nameEn": "Core Contents Media",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "MBK Entertainment",
+    "logo_file": "MBK Entertainment.png",
+    "local": "scripts_py/logos_wiki_candidates/코어콘텐츠미디어.png",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "marskramer",
+    "name": "Marskramer",
+    "nameEn": "Marskramer",
+    "status": "none"
+  },
+  {
+    "slug": "2419-record-label",
+    "name": "2419 Record Label",
+    "nameEn": "2419 Record Label",
+    "status": "none"
+  },
+  {
+    "slug": "75-ark",
+    "name": "75 Ark",
+    "nameEn": "75 Ark",
+    "status": "none"
+  },
+  {
+    "slug": "77-records",
+    "name": "77 Records",
+    "nameEn": "77 Records",
+    "status": "none"
+  },
+  {
+    "slug": "abc-paramount",
+    "name": "ABC-Paramount",
+    "nameEn": "ABC-Paramount",
+    "status": "none"
+  },
+  {
+    "slug": "acv-records",
+    "name": "ACV Records",
+    "nameEn": "ACV Records",
+    "status": "none"
+  },
+  {
+    "slug": "aggressive-rockproduktionen",
+    "name": "Aggressive Rockproduktionen",
+    "nameEn": "Aggressive Rockproduktionen",
+    "status": "none"
+  },
+  {
+    "slug": "제이튠-엔터테인먼트",
+    "name": "제이튠 엔터테인먼트",
+    "nameEn": "J.Tune Entertainment",
+    "status": "none"
+  },
+  {
+    "slug": "aladdin-records",
+    "name": "Aladdin Records",
+    "nameEn": "Aladdin Records",
+    "status": "none"
+  },
+  {
+    "slug": "american-record-company",
+    "name": "American Record Company",
+    "nameEn": "American Record Company",
+    "status": "none"
+  },
+  {
+    "slug": "american-record-corporation",
+    "name": "American Record Corporation",
+    "nameEn": "American Record Corporation",
+    "status": "none"
+  },
+  {
+    "slug": "angelika-k-hlermann",
+    "name": "Angelika Köhlermann",
+    "nameEn": "Angelika Köhlermann",
+    "status": "none"
+  },
+  {
+    "slug": "amphetamine-reptile-records",
+    "name": "Amphetamine Reptile Records",
+    "nameEn": "Amphetamine Reptile Records",
+    "status": "none"
+  },
+  {
+    "slug": "beserkley-records",
+    "name": "Beserkley Records",
+    "nameEn": "Beserkley Records",
+    "status": "none"
+  },
+  {
+    "slug": "biodro-records",
+    "name": "Biodro Records",
+    "nameEn": "Biodro Records",
+    "status": "none"
+  },
+  {
+    "slug": "blue-goose-records",
+    "name": "Blue Goose Records",
+    "nameEn": "Blue Goose Records",
+    "status": "none"
+  },
+  {
+    "slug": "beryozka",
+    "name": "Beryozka",
+    "nameEn": "Beryozka",
+    "status": "none"
+  },
+  {
+    "slug": "blue-lake-records",
+    "name": "Blue Lake Records",
+    "nameEn": "Blue Lake Records",
+    "status": "none"
+  },
+  {
+    "slug": "blues-bureau-international",
+    "name": "Blues Bureau International",
+    "nameEn": "Blues Bureau International",
+    "status": "none"
+  },
+  {
+    "slug": "bonsound",
+    "name": "Bonsound",
+    "nameEn": "Bonsound",
+    "status": "none"
+  },
+  {
+    "slug": "broque",
+    "name": "Broque",
+    "nameEn": "Broque",
+    "status": "none"
+  },
+  {
+    "slug": "checker",
+    "name": "Checker",
+    "nameEn": "Checker",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "Checker Motors Corporation",
+    "logo_file": "Checkermotoslogo.svg",
+    "local": "scripts_py/logos_wiki_candidates/checker.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brain",
+    "name": "Brain",
+    "nameEn": "Brain",
+    "status": "none"
+  },
+  {
+    "slug": "classic-produktion-osnabr-ck",
+    "name": "Classic Produktion Osnabrück",
+    "nameEn": "Classic Produktion Osnabrück",
+    "status": "none"
+  },
+  {
+    "slug": "cyclone-empire",
+    "name": "Cyclone Empire",
+    "nameEn": "Cyclone Empire",
+    "status": "none"
+  },
+  {
+    "slug": "d-noy-muzik",
+    "name": "D-Noy Muzik",
+    "nameEn": "D-Noy Muzik",
+    "status": "none"
+  },
+  {
+    "slug": "desoto-records",
+    "name": "DeSoto Records",
+    "nameEn": "DeSoto Records",
+    "status": "none"
+  },
+  {
+    "slug": "conglomerate",
+    "name": "Conglomerate",
+    "nameEn": "Conglomerate",
+    "status": "none"
+  },
+  {
+    "slug": "discovery-records",
+    "name": "Discovery Records",
+    "nameEn": "Discovery Records",
+    "status": "none"
+  },
+  {
+    "slug": "disques-vogue",
+    "name": "Disques Vogue",
+    "nameEn": "Disques Vogue",
+    "status": "none"
+  },
+  {
+    "slug": "earmarc-records",
+    "name": "EarMarc Records",
+    "nameEn": "EarMarc Records",
+    "status": "none"
+  },
+  {
+    "slug": "dorian-recordings",
+    "name": "Dorian Recordings",
+    "nameEn": "Dorian Recordings",
+    "status": "none"
+  },
+  {
+    "slug": "electrola",
+    "name": "Electrola",
+    "nameEn": "Electrola",
+    "status": "none"
+  },
+  {
+    "slug": "emergency-records",
+    "name": "Emergency Records",
+    "nameEn": "Emergency Records",
+    "status": "none"
+  },
+  {
+    "slug": "enja-records",
+    "name": "Enja Records",
+    "nameEn": "Enja Records",
+    "status": "none"
+  },
+  {
+    "slug": "enzyme-records",
+    "name": "Enzyme Records",
+    "nameEn": "Enzyme Records",
+    "status": "none"
+  },
+  {
+    "slug": "flyright-records",
+    "name": "Flyright Records",
+    "nameEn": "Flyright Records",
+    "status": "none"
+  },
+  {
+    "slug": "eye-q",
+    "name": "Eye Q",
+    "nameEn": "Eye Q",
+    "status": "none"
+  },
+  {
+    "slug": "groove-unlimited",
+    "name": "Groove Unlimited",
+    "nameEn": "Groove Unlimited",
+    "status": "none"
+  },
+  {
+    "slug": "hmc",
+    "name": "HMC",
+    "nameEn": "HMC",
+    "status": "none"
+  },
+  {
+    "slug": "hannibal-records",
+    "name": "Hannibal Records",
+    "nameEn": "Hannibal Records",
+    "status": "none"
+  },
+  {
+    "slug": "hansa-records",
+    "name": "Hansa Records",
+    "nameEn": "Hansa Records",
+    "status": "none"
+  },
+  {
+    "slug": "groove",
+    "name": "Groove",
+    "nameEn": "Groove",
+    "status": "none"
+  },
+  {
+    "slug": "hippo-records",
+    "name": "Hippo Records",
+    "nameEn": "Hippo Records",
+    "status": "none"
+  },
+  {
+    "slug": "hirntot-records",
+    "name": "Hirntot Records",
+    "nameEn": "Hirntot Records",
+    "status": "none"
+  },
+  {
+    "slug": "holland-blumen-mark",
+    "name": "Holland Blumen Mark",
+    "nameEn": "Holland Blumen Mark",
+    "status": "none"
+  },
+  {
+    "slug": "jazzhaus-records",
+    "name": "Jazzhaus Records",
+    "nameEn": "Jazzhaus Records",
+    "status": "none"
+  },
+  {
+    "slug": "international-deejay-gigolo-records",
+    "name": "International DeeJay Gigolo Records",
+    "nameEn": "International DeeJay Gigolo Records",
+    "status": "none"
+  },
+  {
+    "slug": "jubilee-records",
+    "name": "Jubilee Records",
+    "nameEn": "Jubilee Records",
+    "status": "none"
+  },
+  {
+    "slug": "kitty-yo",
+    "name": "Kitty-Yo",
+    "nameEn": "Kitty-Yo",
+    "status": "none"
+  },
+  {
+    "slug": "level-plane-records",
+    "name": "Level Plane Records",
+    "nameEn": "Level Plane Records",
+    "status": "none"
+  },
+  {
+    "slug": "kopeyka",
+    "name": "Kopeyka",
+    "nameEn": "Kopeyka",
+    "status": "none"
+  },
+  {
+    "slug": "load-records",
+    "name": "Load Records",
+    "nameEn": "Load Records",
+    "status": "none"
+  },
+  {
+    "slug": "mps-레코드",
+    "name": "MPS 레코드",
+    "nameEn": "MPS 레코드",
+    "status": "none"
+  },
+  {
+    "slug": "loud-records",
+    "name": "Loud Records",
+    "nameEn": "Loud Records",
+    "status": "none"
+  },
+  {
+    "slug": "memento-materia",
+    "name": "Memento Materia",
+    "nameEn": "Memento Materia",
+    "status": "none"
+  },
+  {
+    "slug": "nighthawk-records",
+    "name": "Nighthawk Records",
+    "nameEn": "Nighthawk Records",
+    "status": "none"
+  },
+  {
+    "slug": "mille-plateaux",
+    "name": "Mille Plateaux",
+    "nameEn": "Mille Plateaux",
+    "status": "none"
+  },
+  {
+    "slug": "no-colours-records",
+    "name": "No Colours Records",
+    "nameEn": "No Colours Records",
+    "status": "none"
+  },
+  {
+    "slug": "odin-records",
+    "name": "Odin Records",
+    "nameEn": "Odin Records",
+    "status": "none"
+  },
+  {
+    "slug": "peak-records",
+    "name": "Peak Records",
+    "nameEn": "Peak Records",
+    "status": "none"
+  },
+  {
+    "slug": "planet-core-productions",
+    "name": "Planet Core Productions",
+    "nameEn": "Planet Core Productions",
+    "status": "none"
+  },
+  {
+    "slug": "porter-records",
+    "name": "Porter Records",
+    "nameEn": "Porter Records",
+    "status": "none"
+  },
+  {
+    "slug": "rak",
+    "name": "RAK",
+    "nameEn": "RAK",
+    "status": "none"
+  },
+  {
+    "slug": "rowton-houses",
+    "name": "Rowton Houses",
+    "nameEn": "Rowton Houses",
+    "status": "none"
+  },
+  {
+    "slug": "sedmoi-kontinent",
+    "name": "Sedmoi Kontinent",
+    "nameEn": "Sedmoi Kontinent",
+    "status": "none"
+  },
+  {
+    "slug": "session-records",
+    "name": "Session Records",
+    "nameEn": "Session Records",
+    "status": "none"
+  },
+  {
+    "slug": "skam-records",
+    "name": "Skam Records",
+    "nameEn": "Skam Records",
+    "status": "none"
+  },
+  {
+    "slug": "southern-fried-records",
+    "name": "Southern Fried Records",
+    "nameEn": "Southern Fried Records",
+    "status": "none"
+  },
+  {
+    "slug": "southland-records",
+    "name": "Southland Records",
+    "nameEn": "Southland Records",
+    "status": "none"
+  },
+  {
+    "slug": "tribe-records",
+    "name": "Tribe Records",
+    "nameEn": "Tribe Records",
+    "status": "none"
+  },
+  {
+    "slug": "trix-records",
+    "name": "Trix Records",
+    "nameEn": "Trix Records",
+    "status": "none"
+  },
+  {
+    "slug": "trojan-records",
+    "name": "Trojan Records",
+    "nameEn": "Trojan Records",
+    "status": "none"
+  },
+  {
+    "slug": "specialty",
+    "name": "Specialty",
+    "nameEn": "Specialty",
+    "status": "none"
+  },
+  {
+    "slug": "vitamin-records",
+    "name": "Vitamin Records",
+    "nameEn": "Vitamin Records",
+    "status": "none"
+  },
+  {
+    "slug": "uprising-records",
+    "name": "Uprising Records",
+    "nameEn": "Uprising Records",
+    "status": "none"
+  },
+  {
+    "slug": "wandelweiser",
+    "name": "Wandelweiser",
+    "nameEn": "Wandelweiser",
+    "status": "none"
+  },
+  {
+    "slug": "zappa-records",
+    "name": "Zappa Records",
+    "nameEn": "Zappa Records",
+    "status": "none"
+  },
+  {
+    "slug": "zickzack-schallplatten",
+    "name": "ZickZack Schallplatten",
+    "nameEn": "ZickZack Schallplatten",
+    "status": "none"
+  },
+  {
+    "slug": "bersee-records",
+    "name": "Übersee Records",
+    "nameEn": "Übersee Records",
+    "status": "none"
+  },
+  {
+    "slug": "zoom-records",
+    "name": "Zoom Records",
+    "nameEn": "Zoom Records",
+    "status": "none"
+  },
+  {
+    "slug": "니트로-레코드",
+    "name": "니트로 레코드",
+    "nameEn": "Nitro Records",
+    "status": "none"
+  },
+  {
+    "slug": "루슬러스-레코드",
+    "name": "루슬러스 레코드",
+    "nameEn": "Ruthless Records",
+    "status": "none"
+  },
+  {
+    "slug": "롤링-스톤스-레코드",
+    "name": "롤링 스톤스 레코드",
+    "nameEn": "Rolling Stones Records",
+    "status": "none"
+  },
+  {
+    "slug": "블랙-탑-레코드",
+    "name": "블랙 탑 레코드",
+    "nameEn": "Black Top Records",
+    "status": "none"
+  },
+  {
+    "slug": "셰이디-레코드",
+    "name": "셰이디 레코드",
+    "nameEn": "Shady Records",
+    "status": "none"
+  },
+  {
+    "slug": "스메클레이사",
+    "name": "스메클레이사",
+    "nameEn": "Smekkleysa",
+    "status": "none"
+  },
+  {
+    "slug": "아베-뉴",
+    "name": "아베;뉴",
+    "nameEn": "아베;뉴",
+    "status": "none"
+  },
+  {
+    "slug": "앳코-레코드",
+    "name": "앳코 레코드",
+    "nameEn": "Atco Records",
+    "status": "none"
+  },
+  {
+    "slug": "워프-레코즈",
+    "name": "워프 레코즈",
+    "nameEn": "Warp Records",
+    "status": "none"
+  },
+  {
+    "slug": "좀바-레이블-그룹",
+    "name": "좀바 레이블 그룹",
+    "nameEn": "Zomba Label Group",
+    "status": "none"
+  },
+  {
+    "slug": "체리트리-레코드",
+    "name": "체리트리 레코드",
+    "nameEn": "Cherrytree Records",
+    "status": "none"
+  },
+  {
+    "slug": "캐피털-레코드",
+    "name": "캐피털 레코드",
+    "nameEn": "Capitol Records",
+    "status": "none"
+  },
+  {
+    "slug": "au-vieux-campeur",
+    "name": "Au vieux campeur",
+    "nameEn": "Au vieux campeur",
+    "status": "none"
+  },
+  {
+    "slug": "patrizia-pepe",
+    "name": "Patrizia Pepe",
+    "nameEn": "Patrizia Pepe",
+    "status": "none"
+  },
+  {
+    "slug": "the-sting",
+    "name": "The Sting",
+    "nameEn": "The Sting",
+    "status": "none"
+  },
+  {
+    "slug": "fun",
+    "name": "Fun",
+    "nameEn": "Fun",
+    "status": "none"
+  },
+  {
+    "slug": "마뗑킴",
+    "name": "마뗑킴",
+    "nameEn": "Matin Kim",
+    "status": "none"
+  },
+  {
+    "slug": "미니스트리-오브-사운드",
+    "name": "미니스트리 오브 사운드",
+    "nameEn": "Ministry of Sound",
+    "status": "none"
+  },
+  {
+    "slug": "떠그클럽",
+    "name": "떠그클럽",
+    "nameEn": "Thug Club",
+    "status": "none"
+  },
+  {
+    "slug": "에이이에이이",
+    "name": "에이이에이이",
+    "nameEn": "AEAE",
+    "status": "none"
+  },
+  {
+    "slug": "메디힐",
+    "name": "메디힐",
+    "nameEn": "Mediheal",
+    "status": "none"
+  },
+  {
+    "slug": "토리든",
+    "name": "토리든",
+    "nameEn": "Torriden",
+    "status": "none"
+  },
+  {
+    "slug": "렉토",
+    "name": "렉토",
+    "nameEn": "RECTO",
+    "status": "none"
+  },
+  {
+    "slug": "탬버린즈",
+    "name": "탬버린즈",
+    "nameEn": "TAMBURINS",
+    "status": "none"
+  },
+  {
+    "slug": "아더에러",
+    "name": "아더에러",
+    "nameEn": "ADER ERROR",
+    "status": "none"
+  },
+  {
+    "slug": "클리오",
+    "name": "클리오",
+    "nameEn": "CLIO",
+    "status": "none"
+  },
+  {
+    "slug": "롬앤",
+    "name": "롬앤",
+    "nameEn": "rom&nd",
+    "status": "none"
+  },
+  {
+    "slug": "닥터자르트",
+    "name": "닥터자르트",
+    "nameEn": "Dr.Jart+",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-blank&",
+    "name": "Blank&",
+    "nameEn": "Blank&",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pot-gang",
+    "name": "Pot Gang",
+    "nameEn": "Pot Gang",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-brusco-burger",
+    "name": "Brusco Burger",
+    "nameEn": "Brusco Burger",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-norton",
+    "name": "The Norton",
+    "nameEn": "The Norton",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-machine-screen-printers",
+    "name": "Machine Screen Printers",
+    "nameEn": "Machine Screen Printers",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mecca-coffee",
+    "name": "Mecca Coffee",
+    "nameEn": "Mecca Coffee",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-betta",
+    "name": "Betta",
+    "nameEn": "Betta",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-perfomance-golf",
+    "name": "Perfomance Golf",
+    "nameEn": "Perfomance Golf",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-flat",
+    "name": "Flat",
+    "nameEn": "Flat",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tugg",
+    "name": "Tugg",
+    "nameEn": "Tugg",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ouch-burgers",
+    "name": "*ouch*",
+    "nameEn": "*ouch*",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-razz-burger",
+    "name": "Razz Burger",
+    "nameEn": "Razz Burger",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-fuku",
+    "name": "Fuku",
+    "nameEn": "Fuku",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-burger-service",
+    "name": "Burger Service",
+    "nameEn": "Burger Service",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-east-cut",
+    "name": "The East Cut",
+    "nameEn": "The East Cut",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-west-loop",
+    "name": "West Loop",
+    "nameEn": "West Loop",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-blue-mountains",
+    "name": "Blue Mountains",
+    "nameEn": "Blue Mountains",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kiss-fm",
+    "name": "Kiss FM",
+    "nameEn": "Kiss FM",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Kiss FM (Sri Lanka)",
+    "logo_file": "KissFMSriLankaLogo2012.png",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-kiss-fm.png",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-florentia-village",
+    "name": "Florentia Village",
+    "nameEn": "Florentia Village",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-south-flats",
+    "name": "South Flats",
+    "nameEn": "South Flats",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-16th-dean-street",
+    "name": "16th Street",
+    "nameEn": "16th Street",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-westbund-central",
+    "name": "Westbund Central",
+    "nameEn": "Westbund Central",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-zudo",
+    "name": "Zudo",
+    "nameEn": "Zudo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-inax",
+    "name": "INAX",
+    "nameEn": "INAX",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-são-paulo-petróleo",
+    "name": "São Paulo Petróleo",
+    "nameEn": "São Paulo Petróleo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-eat-dirt",
+    "name": "Eat Dirt",
+    "nameEn": "Eat Dirt",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-flaum",
+    "name": "Flaum",
+    "nameEn": "Flaum",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-nasa",
+    "name": "NASA",
+    "nameEn": "NASA",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-chilly-willy",
+    "name": "Chilly Willy",
+    "nameEn": "Chilly Willy",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-lolo",
+    "name": "Lolo",
+    "nameEn": "Lolo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-best-of-the-bone",
+    "name": "Best of the Bone",
+    "nameEn": "Best of the Bone",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-graza",
+    "name": "Graza",
+    "nameEn": "Graza",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-cob-popcorn",
+    "name": "Cob",
+    "nameEn": "Cob",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ayoh",
+    "name": "Ayoh!",
+    "nameEn": "Ayoh!",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-korshags-2024",
+    "name": "Korshags",
+    "nameEn": "Korshags",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-phil's-finest",
+    "name": "Phil's Finest",
+    "nameEn": "Phil's Finest",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-veesey",
+    "name": "Veesey",
+    "nameEn": "Veesey",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ghia-non-alcoholic-aperitif",
+    "name": "Ghia Non-Alcoholic Aperitif",
+    "nameEn": "Ghia Non-Alcoholic Aperitif",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-yellowbird",
+    "name": "Yellowbird",
+    "nameEn": "Yellowbird",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-uniqode",
+    "name": "Uniqode",
+    "nameEn": "Uniqode",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-equator",
+    "name": "Equator",
+    "nameEn": "Equator",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mux",
+    "name": "Mux",
+    "nameEn": "Mux",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-flodesk",
+    "name": "Flodesk",
+    "nameEn": "Flodesk",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-center-square",
+    "name": "Center Square",
+    "nameEn": "Center Square",
+    "industry": "기술·전자",
+    "wiki_title": "The Center Square",
+    "logo_file": "The Center Square.png",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-center-square.png",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-pigment-ai",
+    "name": "Pigment AI",
+    "nameEn": "Pigment AI",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-twelve-labs",
+    "name": "Twelve Labs",
+    "nameEn": "Twelve Labs",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hook-ai",
+    "name": "Hook AI",
+    "nameEn": "Hook AI",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-faculty-ai",
+    "name": "Faculty AI",
+    "nameEn": "Faculty AI",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-jupi",
+    "name": "Jupi",
+    "nameEn": "Jupi",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-visual-electric",
+    "name": "Visual Electric",
+    "nameEn": "Visual Electric",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-isomorphic-labs",
+    "name": "Isomorphic Labs",
+    "nameEn": "Isomorphic Labs",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-robin",
+    "name": "Robin",
+    "nameEn": "Robin",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mit-museum",
+    "name": "MIT Museum",
+    "nameEn": "MIT Museum",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-eames-institute",
+    "name": "Eames Institute",
+    "nameEn": "Eames Institute",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-vessel-floats",
+    "name": "Vessel Floats",
+    "nameEn": "Vessel Floats",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sauvage",
+    "name": "Sauvage",
+    "nameEn": "Sauvage",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-forgotten-boardwalk-brewing",
+    "name": "Forgotten Boardwalk Brewing",
+    "nameEn": "Forgotten Boardwalk Brewing",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-shy-bird",
+    "name": "Shy Bird",
+    "nameEn": "Shy Bird",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-smlxl",
+    "name": "smlXL",
+    "nameEn": "smlXL",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hija-de-sanchez",
+    "name": "Hija de Sanchez",
+    "nameEn": "Hija de Sanchez",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hart-bageri",
+    "name": "Hart Bageri",
+    "nameEn": "Hart Bageri",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mode",
+    "name": "Mode",
+    "nameEn": "Mode",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mountain-hardware",
+    "name": "Mountain Hardware",
+    "nameEn": "Mountain Hardware",
+    "industry": "기술·전자",
+    "wiki_title": "Mountain Computer",
+    "logo_file": "Mountain Computer logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-mountain-hardware.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-dallas-trinity-fc",
+    "name": "Dallas Trinity FC",
+    "nameEn": "Dallas Trinity FC",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-nike-run",
+    "name": "Nike Run",
+    "nameEn": "Nike Run",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mexico-1968",
+    "name": "Mexico 1968",
+    "nameEn": "Mexico 1968",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bea",
+    "name": "BEA",
+    "nameEn": "BEA",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-nuud",
+    "name": "Nuud",
+    "nameEn": "Nuud",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-veikkausliiga",
+    "name": "Veikkausliiga",
+    "nameEn": "Veikkausliiga",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pizza-express-2025",
+    "name": "Pizza Express",
+    "nameEn": "Pizza Express",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "PizzaExpress",
+    "logo_file": "Pizzaexpress.jpg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-pizza-express-2025.jpg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-brooklyn-org",
+    "name": "Brooklyn Org",
+    "nameEn": "Brooklyn Org",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-air-up",
+    "name": "Air up",
+    "nameEn": "Air up",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-reveri",
+    "name": "Reveri",
+    "nameEn": "Reveri",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-fhirst",
+    "name": "Fhirst",
+    "nameEn": "Fhirst",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sarah-&-sebastian",
+    "name": "Sarah & Sebastian",
+    "nameEn": "Sarah & Sebastian",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-thebe-magugu",
+    "name": "Thebe Magugu",
+    "nameEn": "Thebe Magugu",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-maison-de-greef-1848",
+    "name": "Maison De Greef 1848",
+    "nameEn": "Maison De Greef 1848",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-arrels",
+    "name": "Arrels",
+    "nameEn": "Arrels",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-aurlands",
+    "name": "Aurlands",
+    "nameEn": "Aurlands",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-paco-rabanne",
+    "name": "Paco Rabanne",
+    "nameEn": "Paco Rabanne",
+    "industry": "패션·럭셔리",
+    "wiki_title": "Rabanne (fashion house)",
+    "logo_file": "Rabanne logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-paco-rabanne.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-lorod",
+    "name": "Lorod",
+    "nameEn": "Lorod",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-jägermeister",
+    "name": "Jägermeister",
+    "nameEn": "Jägermeister",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-farah",
+    "name": "Farah",
+    "nameEn": "Farah",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-practical-man",
+    "name": "The Practical Man",
+    "nameEn": "The Practical Man",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-diana's-seafood",
+    "name": "Diana's Seafood",
+    "nameEn": "Diana's Seafood",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-f32",
+    "name": "f32",
+    "nameEn": "f32",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-natural-innovations",
+    "name": "Natural Innovations",
+    "nameEn": "Natural Innovations",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sauce-shop",
+    "name": "Sauce Shop",
+    "nameEn": "Sauce Shop",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-eat-real",
+    "name": "Eat Real",
+    "nameEn": "Eat Real",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bezi",
+    "name": "Bezi",
+    "nameEn": "Bezi",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-unto",
+    "name": "Unto",
+    "nameEn": "Unto",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-drumroll",
+    "name": "Drumroll",
+    "nameEn": "Drumroll",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-magic-spoon-treats",
+    "name": "Magic Spoon Treats",
+    "nameEn": "Magic Spoon Treats",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-den-kongelige-samling",
+    "name": "Den Kongelige Samling",
+    "nameEn": "Den Kongelige Samling",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-masp",
+    "name": "MASP",
+    "nameEn": "MASP",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-postmuseum",
+    "name": "Postmuseum",
+    "nameEn": "Postmuseum",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-met",
+    "name": "The Met",
+    "nameEn": "The Met",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-vitenskapsmuseet",
+    "name": "Vitenskapsmuseet",
+    "nameEn": "Vitenskapsmuseet",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-siuru-–-tartu-cultural-centre",
+    "name": "Siuru – Tartu Cultural Centre",
+    "nameEn": "Siuru – Tartu Cultural Centre",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-royal-ontario-museum",
+    "name": "Royal Ontario Museum (ROM)",
+    "nameEn": "Royal Ontario Museum (ROM)",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-art-museum",
+    "name": "Art Museum",
+    "nameEn": "Art Museum",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-brami",
+    "name": "Brami",
+    "nameEn": "Brami",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-paro",
+    "name": "Paro",
+    "nameEn": "Paro",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-omy",
+    "name": "Omy",
+    "nameEn": "Omy",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ami-ami",
+    "name": "AMI AMI",
+    "nameEn": "AMI AMI",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-matheson-food-company",
+    "name": "Matheson Food Company",
+    "nameEn": "Matheson Food Company",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-somerset-house-2025",
+    "name": "Somerset House",
+    "nameEn": "Somerset House",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-equip",
+    "name": "Equip",
+    "nameEn": "Equip",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-think-packaging",
+    "name": "Think Packaging",
+    "nameEn": "Think Packaging",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-departed-spirits",
+    "name": "Departed Spirits",
+    "nameEn": "Departed Spirits",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-autex-acoustics",
+    "name": "Autex Acoustics",
+    "nameEn": "Autex Acoustics",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tipple-topper",
+    "name": "Tipple Topper",
+    "nameEn": "Tipple Topper",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-berg",
+    "name": "Berg",
+    "nameEn": "Berg",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-everybird",
+    "name": "Everybird",
+    "nameEn": "Everybird",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bruce-juice",
+    "name": "Bruce Juice",
+    "nameEn": "Bruce Juice",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-phoenix-organics",
+    "name": "Phoenix Organics",
+    "nameEn": "Phoenix Organics",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-cash-flow-vodka",
+    "name": "Cash Flow Vodka",
+    "nameEn": "Cash Flow Vodka",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-yes-you-can",
+    "name": "Yes You Can",
+    "nameEn": "Yes You Can",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-guilty-pleasures-cafe",
+    "name": "Guilty Pleasure Cafe",
+    "nameEn": "Guilty Pleasure Cafe",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-almighty",
+    "name": "Almighty",
+    "nameEn": "Almighty",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-disrepute",
+    "name": "Disrepute",
+    "nameEn": "Disrepute",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-lucia",
+    "name": "Lucia",
+    "nameEn": "Lucia",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sessions",
+    "name": "Sessions",
+    "nameEn": "Sessions",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-amatrice",
+    "name": "Amatrice",
+    "nameEn": "Amatrice",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-oji",
+    "name": "Oji",
+    "nameEn": "Oji",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-culprit",
+    "name": "Culprit",
+    "nameEn": "Culprit",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-woods-yard",
+    "name": "Woods Yard",
+    "nameEn": "Woods Yard",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kisume",
+    "name": "Kisumé",
+    "nameEn": "Kisumé",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-banamax-2024",
+    "name": "Banamax",
+    "nameEn": "Banamax",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-maebishi-shinkin-bank",
+    "name": "Maebishi Shinkin Bank",
+    "nameEn": "Maebishi Shinkin Bank",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-teller",
+    "name": "Teller",
+    "nameEn": "Teller",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tribank",
+    "name": "Tribank",
+    "nameEn": "Tribank",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-story-espresso",
+    "name": "Story Espresso",
+    "nameEn": "Story Espresso",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-nippon-shinpan",
+    "name": "Nippon Shinpan",
+    "nameEn": "Nippon Shinpan",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Mitsubishi UFJ NICOS",
+    "logo_file": "Mitsubishi UFJ Financial Group.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-nippon-shinpan.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-meander-valley",
+    "name": "Meander Valley",
+    "nameEn": "Meander Valley",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-imperia",
+    "name": "Imperia",
+    "nameEn": "Imperia",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-lobos-1707",
+    "name": "Lobos 1707 Tequila",
+    "nameEn": "Lobos 1707 Tequila",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-time",
+    "name": "Time",
+    "nameEn": "Time",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Time (magazine)",
+    "logo_file": "Time Magazine logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-time.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-orchestra-sinfonica-di-milano",
+    "name": "Orchestra Sinfonica Di Milano",
+    "nameEn": "Orchestra Sinfonica Di Milano",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-church",
+    "name": "Church",
+    "nameEn": "Church",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-melissa",
+    "name": "Melissa",
+    "nameEn": "Melissa",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kunsthalle-basel",
+    "name": "Kunsthalle Basel",
+    "nameEn": "Kunsthalle Basel",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pac-nyc",
+    "name": "PAC NYC",
+    "nameEn": "PAC NYC",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tingz",
+    "name": "Tingz",
+    "nameEn": "Tingz",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-superkeen",
+    "name": "Superkeen",
+    "nameEn": "Superkeen",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-lunge",
+    "name": "Lunge",
+    "nameEn": "Lunge",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-isle-of-wight-tomatoes-2023",
+    "name": "Isle of Wight Tomatoes",
+    "nameEn": "Isle of Wight Tomatoes",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bol",
+    "name": "BOL",
+    "nameEn": "BOL",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-cuckoo-muesli",
+    "name": "Cuckoo Muesli",
+    "nameEn": "Cuckoo Muesli",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-juchheims",
+    "name": "Juchheim's",
+    "nameEn": "Juchheim's",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-smk",
+    "name": "SMK",
+    "nameEn": "SMK",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kawasaki-shinkin-bank",
+    "name": "Kawasaki Shinkin Bank",
+    "nameEn": "Kawasaki Shinkin Bank",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-intune-cbd-soda",
+    "name": "Intune CBD Soda",
+    "nameEn": "Intune CBD Soda",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bear-paws",
+    "name": "Bear Paws",
+    "nameEn": "Bear Paws",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-j20-juice-2025",
+    "name": "J2O",
+    "nameEn": "J2O",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-innocent-rebrand-2025",
+    "name": "Innocent",
+    "nameEn": "Innocent",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-live-soda",
+    "name": "Live Soda",
+    "nameEn": "Live Soda",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-fibe",
+    "name": "Fibe",
+    "nameEn": "Fibe",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-rapscallion-soda",
+    "name": "Rapscallion Soda:",
+    "nameEn": "Rapscallion Soda:",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-agua-de-madre",
+    "name": "Agua de Madre",
+    "nameEn": "Agua de Madre",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-living-things",
+    "name": "Living Things",
+    "nameEn": "Living Things",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ceria",
+    "name": "Ceria",
+    "nameEn": "Ceria",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mill",
+    "name": "Mill",
+    "nameEn": "Mill",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-vast",
+    "name": "Vast",
+    "nameEn": "Vast",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Vast (company)",
+    "logo_file": "Vast Wordmark 2024.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-vast.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-quilt",
+    "name": "Quilt",
+    "nameEn": "Quilt",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-recchiuti-confections",
+    "name": "Recchiuti Confections",
+    "nameEn": "Recchiuti Confections",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-new-orbit",
+    "name": "New Orbit",
+    "nameEn": "New Orbit",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-checkmyfile",
+    "name": "Checkmyfile",
+    "nameEn": "Checkmyfile",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-goolf",
+    "name": "Goolf",
+    "nameEn": "Goolf",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-north-road",
+    "name": "North Road",
+    "nameEn": "North Road",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-peckish",
+    "name": "Peckish",
+    "nameEn": "Peckish",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-big-cartel-2025",
+    "name": "Big Cartel",
+    "nameEn": "Big Cartel",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ding",
+    "name": "Ding",
+    "nameEn": "Ding",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sendwave",
+    "name": "Sendwave",
+    "nameEn": "Sendwave",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-wooden-spoon-herbs",
+    "name": "Wooden Spoon Herbs",
+    "nameEn": "Wooden Spoon Herbs",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mercado-famous",
+    "name": "Mercado Famous",
+    "nameEn": "Mercado Famous",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-happy-viking",
+    "name": "Happy Viking",
+    "nameEn": "Happy Viking",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-beanworks",
+    "name": "Beanworks",
+    "nameEn": "Beanworks",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-from-babies-with-love",
+    "name": "From Babies With Love",
+    "nameEn": "From Babies With Love",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ten",
+    "name": "Ten",
+    "nameEn": "Ten",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-social-enterprise-uk",
+    "name": "Social Enterprise UK",
+    "nameEn": "Social Enterprise UK",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-spudos-crisps",
+    "name": "Spudos",
+    "nameEn": "Spudos",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kawatetsu",
+    "name": "Kawatetsu / Kawasaki Steel Corporation",
+    "nameEn": "Kawatetsu / Kawasaki Steel Corporation",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-benesse",
+    "name": "Benesse",
+    "nameEn": "Benesse",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Benesse",
+    "logo_file": "ベネッセ ロゴ.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-benesse.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-7up-2023",
+    "name": "7up",
+    "nameEn": "7up",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "7 Up",
+    "logo_file": "7Up logo (2024).svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-7up-2023.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-yo!",
+    "name": "YO!",
+    "nameEn": "YO!",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-misfits",
+    "name": "Misfits",
+    "nameEn": "Misfits",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Misfits Boxing",
+    "logo_file": "Misfits Boxing 2024 logo.png",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-misfits.png",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-fluz",
+    "name": "Fluz",
+    "nameEn": "Fluz",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-de-extinction",
+    "name": "De-Extinction",
+    "nameEn": "De-Extinction",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kit",
+    "name": "Kit",
+    "nameEn": "Kit",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-gustini",
+    "name": "Gustini",
+    "nameEn": "Gustini",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-partech",
+    "name": "Partech",
+    "nameEn": "Partech",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bastian-beach",
+    "name": "Bastian Beach",
+    "nameEn": "Bastian Beach",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ultraderp",
+    "name": "Ultraderp",
+    "nameEn": "Ultraderp",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-brewbird",
+    "name": "BrewBird",
+    "nameEn": "BrewBird",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-iaac",
+    "name": "IAAC",
+    "nameEn": "IAAC",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ostro",
+    "name": "Ostro",
+    "nameEn": "Ostro",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bonodora",
+    "name": "Bonodora",
+    "nameEn": "Bonodora",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-olo",
+    "name": "OLO Homes",
+    "nameEn": "OLO Homes",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-70-hudson-yards",
+    "name": "70 Hudson Yards",
+    "nameEn": "70 Hudson Yards",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-fitzjohns",
+    "name": "FitzJohn's",
+    "nameEn": "FitzJohn's",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ark",
+    "name": "Ark",
+    "nameEn": "Ark",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-antara",
+    "name": "Antara",
+    "nameEn": "Antara",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-246-queen",
+    "name": "246 Queen",
+    "nameEn": "246 Queen",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-outline",
+    "name": "Outline",
+    "nameEn": "Outline",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-hugo",
+    "name": "The Hugo",
+    "nameEn": "The Hugo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-everlea",
+    "name": "Everlea",
+    "nameEn": "Everlea",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-onefourfive-clarendon",
+    "name": "OneFourFive Clarendon",
+    "nameEn": "OneFourFive Clarendon",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tembo",
+    "name": "Tembo",
+    "nameEn": "Tembo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-curve-club",
+    "name": "Curve Club",
+    "nameEn": "Curve Club",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-platf9rm",
+    "name": "PLATF9RM",
+    "nameEn": "PLATF9RM",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-boc",
+    "name": "BOC",
+    "nameEn": "BOC",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-yoloh",
+    "name": "Yoloh",
+    "nameEn": "Yoloh",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hotpod-yoga",
+    "name": "Hotpod Yoga",
+    "nameEn": "Hotpod Yoga",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hello-klean",
+    "name": "Hello Klean",
+    "nameEn": "Hello Klean",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-heights",
+    "name": "Heights",
+    "nameEn": "Heights",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-aa",
+    "name": "AA",
+    "nameEn": "AA",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tameko",
+    "name": "Tameko",
+    "nameEn": "Tameko",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bovis",
+    "name": "Bovis",
+    "nameEn": "Bovis",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-joyful-outdoors",
+    "name": "Joyful Outdoors",
+    "nameEn": "Joyful Outdoors",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hometree",
+    "name": "Hometree",
+    "nameEn": "Hometree",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-otta",
+    "name": "Otta",
+    "nameEn": "Otta",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-islington-square",
+    "name": "Islington Square",
+    "nameEn": "Islington Square",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hub-residential",
+    "name": "HUB Residential",
+    "nameEn": "HUB Residential",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-round",
+    "name": "The Round",
+    "nameEn": "The Round",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-dumbo-nyc",
+    "name": "Dumbo",
+    "nameEn": "Dumbo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-wype",
+    "name": "Wype",
+    "nameEn": "Wype",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-when",
+    "name": "When",
+    "nameEn": "When",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-zvyk",
+    "name": "ZVYK",
+    "nameEn": "ZVYK",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-twyg",
+    "name": "TWYG",
+    "nameEn": "TWYG",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pelago",
+    "name": "Pelago",
+    "nameEn": "Pelago",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-unmind",
+    "name": "Unmind",
+    "nameEn": "Unmind",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-framework",
+    "name": "Framework",
+    "nameEn": "Framework",
+    "industry": "헬스·제약",
+    "wiki_title": "Framework Computer",
+    "logo_file": "Framework Computer logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-framework.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-abdipharma",
+    "name": "ABDIPharma",
+    "nameEn": "ABDIPharma",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-miles",
+    "name": "Miles",
+    "nameEn": "Miles",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pam",
+    "name": "PAM",
+    "nameEn": "PAM",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-marshmallow",
+    "name": "Marshmallow",
+    "nameEn": "Marshmallow",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tsukiyo",
+    "name": "Tsukiyo",
+    "nameEn": "Tsukiyo",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-yum-bun",
+    "name": "Yum Bun",
+    "nameEn": "Yum Bun",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-frydate",
+    "name": "Frydate",
+    "nameEn": "Frydate",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-leb",
+    "name": "London Electricity Board",
+    "nameEn": "London Electricity Board",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kokoro",
+    "name": "Kokoro",
+    "nameEn": "Kokoro",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-mean-tomato",
+    "name": "The Mean Tomato",
+    "nameEn": "The Mean Tomato",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-happy-endings",
+    "name": "Happy Endings",
+    "nameEn": "Happy Endings",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-aruba-conservation-foundation",
+    "name": "Aruba Conservation Foundation",
+    "nameEn": "Aruba Conservation Foundation",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-wild-thingz",
+    "name": "Wild Thingz",
+    "nameEn": "Wild Thingz",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mama-mexa",
+    "name": "Mama Mexa",
+    "nameEn": "Mama Mexa",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-the-wool-pot",
+    "name": "The Wool Pot",
+    "nameEn": "The Wool Pot",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ashton",
+    "name": "Ashton",
+    "nameEn": "Ashton",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-food-nation",
+    "name": "Food Nation",
+    "nameEn": "Food Nation",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-scapegoats",
+    "name": "Scapegoats",
+    "nameEn": "Scapegoats",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-suupaa",
+    "name": "Suupaa",
+    "nameEn": "Suupaa",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-club-prescine",
+    "name": "Club Pescine",
+    "nameEn": "Club Pescine",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kettle-kids",
+    "name": "Kettle Kids",
+    "nameEn": "Kettle Kids",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-still-waters",
+    "name": "Still Waters",
+    "nameEn": "Still Waters",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-meitetsu",
+    "name": "Meitetsu",
+    "nameEn": "Meitetsu",
+    "industry": "기술·전자",
+    "wiki_title": "Meitetsu",
+    "logo_file": "Meitetsu logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-meitetsu.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-a-to-b",
+    "name": "A-TO-B",
+    "nameEn": "A-TO-B",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-kalw-public-media",
+    "name": "KALW Public Media",
+    "nameEn": "KALW Public Media",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-wholesome",
+    "name": "Wholesome",
+    "nameEn": "Wholesome",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sustana",
+    "name": "Sustana",
+    "nameEn": "Sustana",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-freeform",
+    "name": "Freeform",
+    "nameEn": "Freeform",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Freeform (TV channel)",
+    "logo_file": "Freeform 2022 pink.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-freeform.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-andmore",
+    "name": "ANDMORE",
+    "nameEn": "ANDMORE",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-freewheel",
+    "name": "Freewheel",
+    "nameEn": "Freewheel",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-loot-coffee",
+    "name": "Loot",
+    "nameEn": "Loot",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-allies",
+    "name": "Allies",
+    "nameEn": "Allies",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-supertrash",
+    "name": "Supertrash",
+    "nameEn": "Supertrash",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-paws-off",
+    "name": "Paws Off!",
+    "nameEn": "Paws Off!",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-we-compost",
+    "name": "We Compost",
+    "nameEn": "We Compost",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-expo-75",
+    "name": "Expo '75",
+    "nameEn": "Expo '75",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-portopia-81",
+    "name": "Portopia '81",
+    "nameEn": "Portopia '81",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hemisfair-'68",
+    "name": "HemisFair '68",
+    "nameEn": "HemisFair '68",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-expo-85",
+    "name": "Expo 85",
+    "nameEn": "Expo 85",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-komero",
+    "name": "Komero",
+    "nameEn": "Komero",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-expo-'90",
+    "name": "Expo '90",
+    "nameEn": "Expo '90",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-pirkkalan",
+    "name": "Pirkkalan",
+    "nameEn": "Pirkkalan",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-galipette-cidre",
+    "name": "Galipette Cidre",
+    "nameEn": "Galipette Cidre",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-helsinki-city-museum",
+    "name": "Helsinki City Museum",
+    "nameEn": "Helsinki City Museum",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-moth-drinks",
+    "name": "Moth",
+    "nameEn": "Moth",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-tenzing",
+    "name": "Tenzing",
+    "nameEn": "Tenzing",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-ito-gin",
+    "name": "Ito Gin",
+    "nameEn": "Ito Gin",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-half-day",
+    "name": "Half Day",
+    "nameEn": "Half Day",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-hip-pop",
+    "name": "Hip Pop",
+    "nameEn": "Hip Pop",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-yaté",
+    "name": "Yaté",
+    "nameEn": "Yaté",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-helsinki",
+    "name": "Helsinki",
+    "nameEn": "Helsinki",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-moju",
+    "name": "Moju",
+    "nameEn": "Moju",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-wilda",
+    "name": "Wilda",
+    "nameEn": "Wilda",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sbb",
+    "name": "SBB",
+    "nameEn": "SBB",
+    "industry": "스포츠·아웃도어",
+    "wiki_title": "Swiss Federal Railways",
+    "logo_file": "SBB CFF FFS logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-sbb.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-metro-bilbao",
+    "name": "Metro Bilbao ",
+    "nameEn": "Metro Bilbao ",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-london-buses",
+    "name": "London Buses",
+    "nameEn": "London Buses",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-greater-manchester-transport",
+    "name": "Greater Manchester Transport",
+    "nameEn": "Greater Manchester Transport",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-bacàn",
+    "name": "Bacàn",
+    "nameEn": "Bacàn",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mind",
+    "name": "Mind",
+    "nameEn": "Mind",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-eternal-research",
+    "name": "Eternal Research",
+    "nameEn": "Eternal Research",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-mssivemusic",
+    "name": "MassiveMusic",
+    "nameEn": "MassiveMusic",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-beams",
+    "name": "Beams",
+    "nameEn": "Beams",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-lucas",
+    "name": "Lucas",
+    "nameEn": "Lucas",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-philharmonie-luxembourg",
+    "name": "Philharmonie Luxembourg",
+    "nameEn": "Philharmonie Luxembourg",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-nn-north-sea-jazz-festival",
+    "name": "NN North Sea Jazz Festival",
+    "nameEn": "NN North Sea Jazz Festival",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-osesp",
+    "name": "OSESP",
+    "nameEn": "OSESP",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-sing-king",
+    "name": "Sing King",
+    "nameEn": "Sing King",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-air-studios",
+    "name": "AIR Studios",
+    "nameEn": "AIR Studios",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-la-'84",
+    "name": "LA 1984",
+    "nameEn": "LA 1984",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-osaka-candidate-city-2008",
+    "name": "Osaka Candidate City 2008",
+    "nameEn": "Osaka Candidate City 2008",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-moscow-1976",
+    "name": "Moscow 1980",
+    "nameEn": "Moscow 1980",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-freesoul",
+    "name": "Freesoul",
+    "nameEn": "Freesoul",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-omlet",
+    "name": "Omlet",
+    "nameEn": "Omlet",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-go-compare",
+    "name": "Go Compare",
+    "nameEn": "Go Compare",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Go.Compare",
+    "logo_file": "GoCompare_Primary_Linear_GREEN.svg",
+    "local": "scripts_py/logos_wiki_candidates/brandarchive-go-compare.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "brandarchive-eager",
+    "name": "Eager",
+    "nameEn": "Eager",
+    "status": "none"
+  },
+  {
+    "slug": "brandarchive-assembly",
+    "name": "Assembly",
+    "nameEn": "Assembly",
+    "status": "none"
+  },
+  {
+    "slug": "baemin",
+    "name": "배달의민족",
+    "nameEn": "Baemin",
+    "status": "none"
+  },
+  {
+    "slug": "lotte-mart",
+    "name": "롯데마트",
+    "nameEn": "Lotte Mart",
+    "industry": "리테일·커머스",
+    "wiki_title": "Lotte Mart",
+    "logo_file": "Lotte Mart (2023).svg",
+    "local": "scripts_py/logos_wiki_candidates/lotte-mart.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "bibigo",
+    "name": "비비고",
+    "nameEn": "bibigo",
+    "status": "none"
+  },
+  {
+    "slug": "gs25",
+    "name": "GS25",
+    "nameEn": "GS25",
+    "industry": "리테일·커머스",
+    "wiki_title": "GS25",
+    "logo_file": "GS25 bi (2019).svg",
+    "local": "scripts_py/logos_wiki_candidates/gs25.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "lotte-chilsung",
+    "name": "롯데칠성음료",
+    "nameEn": "Lotte Chilsung Beverage",
+    "status": "none"
+  },
+  {
+    "slug": "sk-hynix",
+    "name": "SK하이닉스",
+    "nameEn": "SK Hynix",
+    "industry": "기술·전자",
+    "wiki_title": "SK Hynix",
+    "logo_file": "SK Hynix.svg",
+    "local": "scripts_py/logos_wiki_candidates/sk-hynix.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "korean-air",
+    "name": "대한항공",
+    "nameEn": "Korean Air",
+    "industry": "여행·호스피탈리티",
+    "wiki_title": "Korean Air",
+    "logo_file": "Korean Air 2025.svg",
+    "local": "scripts_py/logos_wiki_candidates/korean-air.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "nh-financial-group",
+    "name": "NH농협금융지주",
+    "nameEn": "NH Nonghyup Financial Group",
+    "status": "none"
+  },
+  {
+    "slug": "dongsuh-foods",
+    "name": "동서식품",
+    "nameEn": "Dongsuh Foods",
+    "status": "none"
+  },
+  {
+    "slug": "daesang",
+    "name": "대상",
+    "nameEn": "Daesang",
+    "status": "none"
+  },
+  {
+    "slug": "maeil-dairies",
+    "name": "매일유업",
+    "nameEn": "Maeil Dairies",
+    "status": "none"
+  },
+  {
+    "slug": "cosmax",
+    "name": "코스맥스",
+    "nameEn": "COSMAX",
+    "status": "none"
+  },
+  {
+    "slug": "f-and-f",
+    "name": "F&F",
+    "nameEn": "F&F",
+    "status": "none"
+  },
+  {
+    "slug": "dunamu",
+    "name": "두나무",
+    "nameEn": "Dunamu",
+    "industry": "기술·전자",
+    "wiki_title": "Upbit",
+    "logo_file": "UPbit Logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/dunamu.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "toss-bank",
+    "name": "토스뱅크",
+    "nameEn": "Toss Bank",
+    "status": "none"
+  },
+  {
+    "slug": "smilegate",
+    "name": "스마일게이트",
+    "nameEn": "Smilegate",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "Smilegate",
+    "logo_file": "Smilegate Logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/smilegate.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "gc-biopharma",
+    "name": "GC녹십자",
+    "nameEn": "GC Biopharma",
+    "status": "none"
+  },
+  {
+    "slug": "kakao-pay",
+    "name": "카카오페이",
+    "nameEn": "Kakao Pay",
+    "status": "none"
+  },
+  {
+    "slug": "hyundai-enc",
+    "name": "현대건설",
+    "nameEn": "Hyundai E&C",
+    "status": "none"
+  },
+  {
+    "slug": "cu",
+    "name": "CU",
+    "nameEn": "CU",
+    "status": "none"
+  },
+  {
+    "slug": "7-eleven-korea",
+    "name": "세븐일레븐",
+    "nameEn": "7-Eleven Korea",
+    "status": "none"
+  },
+  {
+    "slug": "hyundai-department-store",
+    "name": "현대백화점",
+    "nameEn": "Hyundai Department Store",
+    "industry": "리테일·커머스",
+    "wiki_title": "Hyundai Department Store",
+    "logo_file": "Hyundai Department Store Group CI.svg",
+    "local": "scripts_py/logos_wiki_candidates/hyundai-department-store.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "korea-investment-securities",
+    "name": "한국투자증권",
+    "nameEn": "Korea Investment & Securities",
+    "status": "none"
+  },
+  {
+    "slug": "samsung-fire",
+    "name": "삼성화재",
+    "nameEn": "Samsung Fire & Marine",
+    "status": "none"
+  },
+  {
+    "slug": "devsisters",
+    "name": "데브시스터즈",
+    "nameEn": "Devsisters",
+    "industry": "미디어·엔터테인먼트",
+    "wiki_title": "Devsisters",
+    "logo_file": "Devsisters logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/devsisters.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "ohou",
+    "name": "오늘의집",
+    "nameEn": "Ohou",
+    "status": "none"
+  },
+  {
+    "slug": "hanwha-ocean",
+    "name": "한화오션",
+    "nameEn": "Hanwha Ocean",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Hanwha Ocean",
+    "logo_file": "Hanwha Ocean Logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/hanwha-ocean.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "baskin-robbins-korea",
+    "name": "배스킨라빈스",
+    "nameEn": "Baskin Robbins Korea",
+    "status": "none"
+  },
+  {
+    "slug": "meritz-fire",
+    "name": "메리츠화재",
+    "nameEn": "Meritz Fire & Marine Insurance",
+    "status": "none"
+  },
+  {
+    "slug": "renault-korea",
+    "name": "르노코리아",
+    "nameEn": "Renault Korea",
+    "industry": "모빌리티",
+    "wiki_title": "Renault Korea",
+    "logo_file": "2021 Renault Group logo.svg",
+    "local": "scripts_py/logos_wiki_candidates/renault-korea.svg",
+    "confident": true,
+    "status": "ok"
+  },
+  {
+    "slug": "shift-up",
+    "name": "시프트업",
+    "nameEn": "Shift Up",
+    "status": "none"
+  },
+  {
+    "slug": "eider",
+    "name": "아이더",
+    "nameEn": "EIDER",
+    "status": "none"
+  },
+  {
+    "slug": "gs-construction",
+    "name": "GS건설",
+    "nameEn": "GS E&C",
+    "status": "none"
+  },
+  {
+    "slug": "hugel",
+    "name": "휴젤",
+    "nameEn": "Hugel",
+    "status": "none"
+  },
+  {
+    "slug": "cuckoo",
+    "name": "쿠쿠",
+    "nameEn": "CUCKOO",
+    "status": "none"
+  },
+  {
+    "slug": "sk-magic",
+    "name": "SK매직",
+    "nameEn": "SK Magic",
+    "status": "none"
+  },
+  {
+    "slug": "spc-samlip",
+    "name": "SPC삼립",
+    "nameEn": "SPC Samlip",
+    "status": "none"
+  },
+  {
+    "slug": "kcc",
+    "name": "KCC",
+    "nameEn": "KCC Corporation",
+    "status": "none"
+  },
+  {
+    "slug": "hy",
+    "name": "hy",
+    "nameEn": "hy",
+    "status": "none"
+  },
+  {
+    "slug": "bohae",
+    "name": "보해양조",
+    "nameEn": "Bohae",
+    "status": "none"
+  },
+  {
+    "slug": "donga-otsuka",
+    "name": "동아오츠카",
+    "nameEn": "Dong-A Otsuka",
+    "status": "none"
+  },
+  {
+    "slug": "kooksoondang",
+    "name": "국순당",
+    "nameEn": "Kooksoondang",
+    "status": "none"
+  },
+  {
+    "slug": "kb-securities",
+    "name": "KB증권",
+    "nameEn": "KB Securities",
+    "status": "none"
+  },
+  {
+    "slug": "kolon-industries",
+    "name": "코오롱인더스트리",
+    "nameEn": "Kolon Industries",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Kolon Industries",
+    "logo_file": "KOLON.png",
+    "local": "scripts_py/logos_wiki_candidates/kolon-industries.png",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "citibank-korea",
+    "name": "한국씨티은행",
+    "nameEn": "Citibank Korea",
+    "industry": "브랜드·비즈니스",
+    "wiki_title": "Citibank Korea",
+    "logo_file": "Citi.svg",
+    "local": "scripts_py/logos_wiki_candidates/citibank-korea.svg",
+    "confident": false,
+    "status": "ok"
+  },
+  {
+    "slug": "hanwha-life",
+    "name": "한화생명",
+    "nameEn": "Hanwha Life",
+    "status": "none"
+  },
+  {
+    "slug": "no-brand",
+    "name": "노브랜드",
+    "nameEn": "No Brand",
+    "status": "none"
+  },
+  {
+    "slug": "hollys",
+    "name": "할리스",
+    "nameEn": "Hollys",
+    "status": "none"
+  },
+  {
+    "slug": "dr-g",
+    "name": "닥터지",
+    "nameEn": "Dr.G",
+    "status": "none"
+  },
+  {
+    "slug": "angelinus",
+    "name": "엔제리너스",
+    "nameEn": "Angel-in-us",
+    "status": "none"
+  }
+]
