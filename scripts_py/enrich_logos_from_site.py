@@ -93,6 +93,20 @@ BLACKLIST = {
     # 2nd batch rejects
     "pwm-edition", "bonsound", "hansa-records", "mps-레코드", "미니스트리-오브-사운드",
     "셰이디-레코드", "스메클레이사", "체리트리-레코드", "마뗑킴", "메디힐", "토리든",
+    # 3rd batch (Playwright JS-render) rejects
+    "렉토", "클리오", "탬버린즈", "롬앤", "lotte-mart", "sk-hynix", "nh-financial-group",
+    "cosmax", "gc-biopharma", "hyundai-department-store", "korea-investment-securities",
+    "eider", "cuckoo", "kooksoondang", "kolon-industries", "kb-securities", "no-brand",
+    "hollys",
+    # 4th batch rejects
+    "enja-records", "trojan-records", "캐피털-레코드", "에이이에이이", "hy",
+    # Exhausted: static + JS-render both nocandidate (logo via canvas/lazy-load/
+    # bot-block, outside extraction patterns). Left as wordmark per policy.
+    "eldi", "pyaterochka", "standaard-boekhandel", "8bitpeoples", "holland-blumen-mark",
+    "wandelweiser", "워프-레코즈", "au-vieux-campeur", "patrizia-pepe", "떠그클럽",
+    "아더에러", "닥터자르트", "gs25", "lotte-chilsung", "korean-air", "f-and-f",
+    "devsisters", "ohou", "meritz-fire", "renault-korea", "kcc", "gs-construction",
+    "hugel", "bohae", "hanwha-life", "citibank-korea", "angelinus",
 }
 
 
