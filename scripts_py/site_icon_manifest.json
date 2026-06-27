@@ -1,0 +1,606 @@
+[
+  {
+    "slug": "nudie-jeans",
+    "name": "누디진",
+    "site": "https://www.nudiejeans.com/",
+    "icon_url": "https://www.nudiejeans.com/apple-touch-icon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/nudie-jeans.png",
+    "status": "ok"
+  },
+  {
+    "slug": "stokke",
+    "name": "스토케",
+    "site": "https://www.stokke.com/",
+    "icon_url": "https://www.stokke.com/mobify/bundle/4267/static/img/global/apple-touch-icon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/stokke.png",
+    "status": "ok"
+  },
+  {
+    "slug": "best-global-brands",
+    "name": "베스트 글로벌 브랜드",
+    "site": "https://interbrand.com/best-global-brands",
+    "icon_url": "https://interbrand.com/favicon-32x32.png",
+    "size_hint": 32,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/best-global-brands.png",
+    "status": "ok"
+  },
+  {
+    "slug": "godiva",
+    "name": "고디바",
+    "site": "https://www.godiva.com/",
+    "icon_url": "https://www.godiva.com/cdn/shop/files/GDVA-favicon-03.png?crop=center&height=32&v=1758827008&width=32",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/godiva.png",
+    "status": "ok"
+  },
+  {
+    "slug": "bacard",
+    "name": "바카디",
+    "site": "https://www.bacardi.com/",
+    "icon_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/sites/32/2020/12/10111719/FAV-Icon-192x192-min.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/bacard.png",
+    "status": "ok"
+  },
+  {
+    "slug": "paul-bassett",
+    "name": "폴 바셋",
+    "site": "https://www.baristapaulbassett.co.kr",
+    "status": "none"
+  },
+  {
+    "slug": "vera-wang",
+    "name": "베라왕",
+    "site": "https://www.verawang.com/",
+    "icon_url": "https://www.verawang.com/cdn/shop/files/vw-icon_96c147c9-97ce-45b6-b36d-b3b4fae4904d.png?crop=center&height=32&v=1775500195&width=32",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/vera-wang.png",
+    "status": "ok"
+  },
+  {
+    "slug": "eldi",
+    "name": "Eldi",
+    "site": "https://www.eldi.be",
+    "status": "none"
+  },
+  {
+    "slug": "pyaterochka",
+    "name": "Pyaterochka",
+    "site": "https://5ka.ru/",
+    "status": "none"
+  },
+  {
+    "slug": "standaard-boekhandel",
+    "name": "Standaard Boekhandel",
+    "site": "https://www.standaardboekhandel.be",
+    "status": "none"
+  },
+  {
+    "slug": "8bitpeoples",
+    "name": "8bitpeoples",
+    "site": "https://www.8bitpeoples.com",
+    "status": "none"
+  },
+  {
+    "slug": "pwm-edition",
+    "name": "PWM Edition",
+    "site": "https://pwm.com.pl",
+    "status": "none"
+  },
+  {
+    "slug": "bonsound",
+    "name": "Bonsound",
+    "site": "https://www.bonsound.com",
+    "icon_url": "https://www.bonsound.com/favicon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/bonsound.png",
+    "status": "ok"
+  },
+  {
+    "slug": "enja-records",
+    "name": "Enja Records",
+    "site": "https://www.enjarecords.com",
+    "status": "none"
+  },
+  {
+    "slug": "hansa-records",
+    "name": "Hansa Records",
+    "site": "https://hansastudios.de",
+    "icon_url": "https://hansastudios.de/wp-content/uploads/2018/06/cropped-HS_Favicon-180x180.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/hansa-records.png",
+    "status": "ok"
+  },
+  {
+    "slug": "holland-blumen-mark",
+    "name": "Holland Blumen Mark",
+    "site": "http://www.hollandblumenmark.at/",
+    "status": "none"
+  },
+  {
+    "slug": "mps-레코드",
+    "name": "MPS 레코드",
+    "site": "https://www.mps-music.com",
+    "icon_url": "https://www.mps-music.com/wp-content/uploads/2018/02/50yearsMPS_black64.png",
+    "size_hint": 64,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/mps-레코드.png",
+    "status": "ok"
+  },
+  {
+    "slug": "trojan-records",
+    "name": "Trojan Records",
+    "site": "https://trojanrecords.com",
+    "status": "none"
+  },
+  {
+    "slug": "wandelweiser",
+    "name": "Wandelweiser",
+    "site": "https://www.wandelweiser.de",
+    "status": "none"
+  },
+  {
+    "slug": "미니스트리-오브-사운드",
+    "name": "미니스트리 오브 사운드",
+    "site": "https://ministryofsound.com",
+    "icon_url": "https://ministryofsound.com/wp-content/themes/crush-theme/assets/img/icons/fav.png",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/미니스트리-오브-사운드.png",
+    "status": "ok"
+  },
+  {
+    "slug": "셰이디-레코드",
+    "name": "셰이디 레코드",
+    "site": "https://www.shadyrecords.com",
+    "status": "none"
+  },
+  {
+    "slug": "스메클레이사",
+    "name": "스메클레이사",
+    "site": "https://smekkleysa.net",
+    "icon_url": "https://smekkleysa.net/wp-content/uploads/2020/04/cropped-sm_giftcard-180x180.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/스메클레이사.png",
+    "status": "ok"
+  },
+  {
+    "slug": "워프-레코즈",
+    "name": "워프 레코즈",
+    "site": "https://warp.net",
+    "icon_url": "https://warp.net/favicon.svg",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/워프-레코즈.svg",
+    "status": "ok"
+  },
+  {
+    "slug": "체리트리-레코드",
+    "name": "체리트리 레코드",
+    "site": "https://cherrytreerecords.com",
+    "icon_url": "https://framerusercontent.com/images/BG6cXZZZjtFffCroC8Jnn1pnTus.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/체리트리-레코드.png",
+    "status": "ok"
+  },
+  {
+    "slug": "캐피털-레코드",
+    "name": "캐피털 레코드",
+    "site": "https://www.capitolrecords.com/",
+    "icon_url": "https://www.capitolrecords.com/wp-content/uploads/sites/20182/2026/01/fav.png",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/캐피털-레코드.png",
+    "status": "ok"
+  },
+  {
+    "slug": "au-vieux-campeur",
+    "name": "Au vieux campeur",
+    "site": "https://www.auvieuxcampeur.fr/",
+    "status": "none"
+  },
+  {
+    "slug": "patrizia-pepe",
+    "name": "Patrizia Pepe",
+    "site": "https://www.patriziapepe.com/",
+    "status": "none"
+  },
+  {
+    "slug": "the-sting",
+    "name": "The Sting",
+    "site": "https://www.thesting.com/",
+    "icon_url": "https://www.thesting.com/on/demandware.static/Sites-TheSting-Site/-/default/dw01613968/assets/favicons/thesting/apple-touch-icon-1024x1024.png",
+    "size_hint": 1024,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/the-sting.png",
+    "status": "ok"
+  },
+  {
+    "slug": "마뗑킴",
+    "name": "마뗑킴",
+    "site": "https://matinkim.com/",
+    "status": "none"
+  },
+  {
+    "slug": "렉토",
+    "name": "렉토",
+    "site": "https://recto.co/",
+    "status": "none"
+  },
+  {
+    "slug": "떠그클럽",
+    "name": "떠그클럽",
+    "site": "https://thug-club.com/",
+    "status": "none"
+  },
+  {
+    "slug": "에이이에이이",
+    "name": "에이이에이이",
+    "site": "https://ae-ae.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "메디힐",
+    "name": "메디힐",
+    "site": "https://mediheal.com/",
+    "icon_url": "https://mediheal.com/cdn/shop/files/favicon_1.png?crop=center&height=32&v=1703199816&width=32",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/메디힐.png",
+    "status": "ok"
+  },
+  {
+    "slug": "토리든",
+    "name": "토리든",
+    "site": "https://www.torriden.com/",
+    "status": "none"
+  },
+  {
+    "slug": "클리오",
+    "name": "클리오",
+    "site": "https://www.cliocosmetic.com/",
+    "status": "none"
+  },
+  {
+    "slug": "탬버린즈",
+    "name": "탬버린즈",
+    "site": "https://www.tamburins.com",
+    "icon_url": "https://web-resource.tamburins.com/common/favicon/apple-icon-57_57.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/탬버린즈.png",
+    "status": "ok"
+  },
+  {
+    "slug": "아더에러",
+    "name": "아더에러",
+    "site": "https://www.adererror.com",
+    "status": "none"
+  },
+  {
+    "slug": "닥터자르트",
+    "name": "닥터자르트",
+    "site": "https://www.drjart.com/",
+    "status": "none"
+  },
+  {
+    "slug": "롬앤",
+    "name": "롬앤",
+    "site": "https://romand.co.kr",
+    "status": "none"
+  },
+  {
+    "slug": "bibigo",
+    "name": "비비고",
+    "site": "https://www.cj.co.kr/kr/brands/bibigo",
+    "icon_url": "https://www.cj.co.kr/resources/img/icon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/bibigo.png",
+    "status": "ok"
+  },
+  {
+    "slug": "baemin",
+    "name": "배달의민족",
+    "site": "https://www.baemin.com/",
+    "icon_url": "https://www.baemin.com/_next/static/media/favicon-180x180.7697ba01.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/baemin.png",
+    "status": "ok"
+  },
+  {
+    "slug": "lotte-chilsung",
+    "name": "롯데칠성음료",
+    "site": "https://company.lottechilsung.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "nh-financial-group",
+    "name": "NH농협금융지주",
+    "site": "https://www.nhfngroup.com/",
+    "status": "none"
+  },
+  {
+    "slug": "kakao-pay",
+    "name": "카카오페이",
+    "site": "https://www.kakaopay.com/",
+    "icon_url": "https://t1.kakaocdn.net/kakaopay/icons/web/180-brand.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/kakao-pay.png",
+    "status": "ok"
+  },
+  {
+    "slug": "dongsuh-foods",
+    "name": "동서식품",
+    "site": "https://www.dongsuh.co.kr/",
+    "icon_url": "https://www.dongsuh.co.kr/images/favicon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/dongsuh-foods.png",
+    "status": "ok"
+  },
+  {
+    "slug": "daesang",
+    "name": "대상",
+    "site": "https://www.daesang.com/",
+    "status": "none"
+  },
+  {
+    "slug": "maeil-dairies",
+    "name": "매일유업",
+    "site": "https://www.maeil.com/",
+    "status": "none"
+  },
+  {
+    "slug": "cosmax",
+    "name": "코스맥스",
+    "site": "https://www.cosmax.com/",
+    "icon_url": "https://www.cosmax.com/icon/apple-touch-icon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/cosmax.png",
+    "status": "ok"
+  },
+  {
+    "slug": "f-and-f",
+    "name": "F&F",
+    "site": "https://www.fnf.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "dunamu",
+    "name": "두나무",
+    "site": "https://www.dunamu.com/",
+    "icon_url": "https://www.dunamu.com/favicon.png",
+    "size_hint": 32,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/dunamu.png",
+    "status": "ok"
+  },
+  {
+    "slug": "toss-bank",
+    "name": "토스뱅크",
+    "site": "https://www.tossbank.com/",
+    "icon_url": "https://static.toss.im/tds/favicon/apple-touch-icon-57x57.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/toss-bank.png",
+    "status": "ok"
+  },
+  {
+    "slug": "gc-biopharma",
+    "name": "GC녹십자",
+    "site": "https://www.gcbiopharma.com/",
+    "status": "none"
+  },
+  {
+    "slug": "hyundai-enc",
+    "name": "현대건설",
+    "site": "https://www.hdec.kr/",
+    "icon_url": "https://www.hdec.kr/favicon.png",
+    "size_hint": 32,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/hyundai-enc.png",
+    "status": "ok"
+  },
+  {
+    "slug": "hyundai-department-store",
+    "name": "현대백화점",
+    "site": "https://www.ehyundai.com/",
+    "status": "none"
+  },
+  {
+    "slug": "cu",
+    "name": "CU",
+    "site": "https://cu.bgfretail.com/",
+    "status": "none"
+  },
+  {
+    "slug": "7-eleven-korea",
+    "name": "세븐일레븐",
+    "site": "https://www.7-eleven.co.kr/",
+    "icon_url": "https://www.7-eleven.co.kr/ico_7eleven_favicon.png",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/7-eleven-korea.png",
+    "status": "ok"
+  },
+  {
+    "slug": "samsung-fire",
+    "name": "삼성화재",
+    "site": "https://www.samsungfire.com/",
+    "status": "none"
+  },
+  {
+    "slug": "korea-investment-securities",
+    "name": "한국투자증권",
+    "site": "https://securities.koreainvestment.com/",
+    "status": "none"
+  },
+  {
+    "slug": "shift-up",
+    "name": "시프트업",
+    "site": "https://shiftup.co.kr/",
+    "icon_url": "https://shiftup.co.kr/img/logo.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/shift-up.png",
+    "status": "ok"
+  },
+  {
+    "slug": "ohou",
+    "name": "오늘의집",
+    "site": "https://www.ohou.se/",
+    "status": "none"
+  },
+  {
+    "slug": "baskin-robbins-korea",
+    "name": "배스킨라빈스",
+    "site": "https://www.baskinrobbins.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "meritz-fire",
+    "name": "메리츠화재",
+    "site": "https://www.meritzfire.com/",
+    "status": "none"
+  },
+  {
+    "slug": "renault-korea",
+    "name": "르노코리아",
+    "site": "https://www.renault.co.kr/",
+    "icon_url": "https://www.renault.co.kr:443/ko/res/img/favicon.svg",
+    "size_hint": 114,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/renault-korea.svg",
+    "status": "ok"
+  },
+  {
+    "slug": "kcc",
+    "name": "KCC",
+    "site": "https://www.kccworld.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "eider",
+    "name": "아이더",
+    "site": "https://www.eider.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "gs-construction",
+    "name": "GS건설",
+    "site": "https://www.gsenc.com/",
+    "status": "none"
+  },
+  {
+    "slug": "hugel",
+    "name": "휴젤",
+    "site": "https://www.hugel.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "cuckoo",
+    "name": "쿠쿠",
+    "site": "https://www.cuckoo.co.kr/",
+    "icon_url": "https://cdn.cuckoo.co.kr/upload_cuckoo/pc/images/common/favicon.png",
+    "size_hint": 0,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/cuckoo.png",
+    "status": "ok"
+  },
+  {
+    "slug": "sk-magic",
+    "name": "SK매직",
+    "site": "https://www.skmagic.com/",
+    "status": "none"
+  },
+  {
+    "slug": "spc-samlip",
+    "name": "SPC삼립",
+    "site": "https://www.spcsamlip.co.kr/",
+    "icon_url": "https://spcsamlip.co.kr/apple-touch-icon.png",
+    "size_hint": 180,
+    "apple": true,
+    "local": "scripts_py/logos_site_candidates/spc-samlip.png",
+    "status": "ok"
+  },
+  {
+    "slug": "hy",
+    "name": "hy",
+    "site": "https://www.hy.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "bohae",
+    "name": "보해양조",
+    "site": "https://www.bohae.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "kooksoondang",
+    "name": "국순당",
+    "site": "https://www.ksdb.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "donga-otsuka",
+    "name": "동아오츠카",
+    "site": "https://www.donga-otsuka.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "kb-securities",
+    "name": "KB증권",
+    "site": "https://www.kbsec.com/",
+    "status": "none"
+  },
+  {
+    "slug": "hanwha-life",
+    "name": "한화생명",
+    "site": "https://www.hanwhalife.com/",
+    "status": "none"
+  },
+  {
+    "slug": "no-brand",
+    "name": "노브랜드",
+    "site": "https://emart.ssg.com/",
+    "status": "none"
+  },
+  {
+    "slug": "hollys",
+    "name": "할리스",
+    "site": "https://www.hollys.co.kr/",
+    "status": "none"
+  },
+  {
+    "slug": "angelinus",
+    "name": "엔제리너스",
+    "site": "https://www.angelinus.com/",
+    "status": "none"
+  },
+  {
+    "slug": "dr-g",
+    "name": "닥터지",
+    "site": "https://www.dr-g.co.kr/",
+    "icon_url": "https://www.dr-g.co.kr/resources/assets/imgs/favicon-128.png",
+    "size_hint": 128,
+    "apple": false,
+    "local": "scripts_py/logos_site_candidates/dr-g.png",
+    "status": "ok"
+  }
+]
