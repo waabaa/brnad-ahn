@@ -3,7 +3,7 @@ import json, re, sys
 
 ROOT = "/home/waabaa/projects/brand-atlas/web-design/brand_atlas_handoff"
 DATA = f"{ROOT}/data/brand-atlas.json"
-BATCH = "/tmp/claude-1000/-home-waabaa-projects-brand-atlas/3737a6ac-20fd-4c92-aa9b-8180afa666ba/scratchpad/batch_content.json"
+BATCH = "/tmp/claude-1000/-home-waabaa-projects-brand-atlas/6ccb1be8-51e6-4600-b250-baae131ec798/scratchpad/batch_content.json"
 
 TITLES = {"overview": "개요", "insights": None, "origin": None,
           "identity": "브랜드 아이덴티티", "products": None, "current": None}
@@ -32,7 +32,9 @@ errors, warns = [], []
 for slug, secs in batch.items():
     if slug not in ab and slug not in ab_url:
         errors.append(f"MISSING slug: {slug}"); continue
-    for k in KEYS:
+    for k in secs:
+        if k not in TITLES:
+            errors.append(f"{slug}.{k}: UNKNOWN KEY"); continue
         body = (secs.get(k) or "").strip()
         if not body:
             errors.append(f"{slug}.{k}: EMPTY"); continue
@@ -62,7 +64,7 @@ if "--write" in sys.argv:
         if not secs:
             continue
         brand.setdefault("sections", {})
-        for k in KEYS:
+        for k in secs:
             brand["sections"][k] = {"title": TITLES[k], "body": secs[k]}
         updated += 1
     with open(DATA, "w", encoding="utf-8") as f:
