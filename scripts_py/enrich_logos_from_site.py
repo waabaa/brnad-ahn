@@ -82,8 +82,23 @@ LIMIT = int(sys.argv[1]) if len(sys.argv) > 1 else 200
 # Optional substring filter on slug/nameKo for targeted runs.
 ONLY = sys.argv[2] if len(sys.argv) > 2 else None
 
+# Slugs whose auto-extracted candidate was already reviewed and rejected
+# (white-on-white, placeholder, product/award/cert mark, parent-company
+# mismatch). Skip to avoid re-fetching the same junk every run.
+BLACKLIST = {
+    "baemin", "kakao-pay", "dongsuh-foods", "smilegate", "daesang",
+    "maeil-dairies", "hyundai-enc", "cu", "shift-up", "7-eleven-korea",
+    "baskin-robbins-korea", "donga-otsuka", "sk-magic", "toss-bank",
+    "samsung-fire", "dunamu", "hanwha-ocean", "the-sting", "spc-samlip", "dr-g",
+    # 2nd batch rejects
+    "pwm-edition", "bonsound", "hansa-records", "mps-레코드", "미니스트리-오브-사운드",
+    "셰이디-레코드", "스메클레이사", "체리트리-레코드", "마뗑킴", "메디힐", "토리든",
+}
+
 
 def eligible(b):
+    if b.get("slug") in BLACKLIST:
+        return False
     if E.is_real(b.get("logo")) or E.is_real(b.get("image")):
         return False
     site = str(b.get("officialWebsite") or "")
