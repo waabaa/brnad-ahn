@@ -18,7 +18,7 @@ const today = new Date().toISOString().slice(0, 10);
 
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const urlSlugOf = (b) => b.urlSlug || b.slug;
-const cssV = "20260628y";
+const cssV = "20260628z";
 
 // ---- static header (depth: /pages/) ----
 function header(active = "") {
