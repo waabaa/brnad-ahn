@@ -3,7 +3,7 @@ async function loadData() {
   // Versioned URL (?v=) busts the cache on every deploy, so the browser may safely
   // reuse the cached copy between page navigations and repeat visits (force-cache).
   // This avoids re-downloading the ~1.3MB gzipped dataset on every hub-page load.
-  const res = await fetch(`${dataPath}?v=20260629h`, { cache: "force-cache" });
+  const res = await fetch(`${dataPath}?v=20260629i`, { cache: "force-cache" });
   return await res.json();
 }
 

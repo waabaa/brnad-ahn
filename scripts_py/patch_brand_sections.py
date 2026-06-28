@@ -3,7 +3,7 @@ import json, re, sys
 
 ROOT = "/home/waabaa/projects/brand-atlas/web-design/brand_atlas_handoff"
 DATA = f"{ROOT}/data/brand-atlas.json"
-BATCH = "/tmp/claude-1000/-home-waabaa-projects-brand-atlas/6ccb1be8-51e6-4600-b250-baae131ec798/scratchpad/batch_content.json"
+BATCH = f"{ROOT}/scratchpad/batch_content.json"
 
 TITLES = {"overview": "개요", "insights": None, "origin": None,
           "identity": "브랜드 아이덴티티", "products": None, "current": None}
