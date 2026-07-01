@@ -97585,10 +97585,17 @@
       "domainSlug": "beauty-personal-care",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/qDiGOWTegeyI5Gwj7BeVKUQHMWK785P9u_1bXtg7BZSIj0RLi3tX8WZIiowTMCiEM9PNoecvzf5Yl4Z2MW1Xn_M7sGDrvCcaxJ8golfpUjyBtIDVXAufyfGvGJuF4_8gJNIZ6TyFFBd6qgQWQ8y0cQ.webp",
+      "logo": "https://i.namu.wiki/i/qDiGOWTegeyI5Gwj7BeVKUQHMWK785P9u_1bXtg7BZSIj0RLi3tX8WZIiowTMCiEM9PNoecvzf5Yl4Z2MW1Xn_M7sGDrvCcaxJ8golfpUjyBtIDVXAufyfGvGJuF4_8gJNIZ6TyFFBd6qgQWQ8y0cQ.webp",
       "insight": "",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/qDiGOWTegeyI5Gwj7BeVKUQHMWK785P9u_1bXtg7BZSIj0RLi3tX8WZIiowTMCiEM9PNoecvzf5Yl4Z2MW1Xn_M7sGDrvCcaxJ8golfpUjyBtIDVXAufyfGvGJuF4_8gJNIZ6TyFFBd6qgQWQ8y0cQ.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8B%A5%ED%84%B0%EC%9E%90%EB%A5%B4%ED%8A%B8)",
+          "alt": "닥터자르트 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -97675,7 +97682,8 @@
       "foundedLocation": "서울",
       "operatingStatus": "활성",
       "operatingStatusNote": "에스티로더그룹(Estée Lauder Companies)이 지분을 인수해 계열 브랜드로 운영 중인 것으로 알려져 있다.",
-      "enrichedFrom300": true
+      "enrichedFrom300": true,
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 696,
@@ -162058,10 +162066,17 @@
       "domainSlug": "food-beverage",
       "tier": "C_source_backed",
       "rating": 4.1,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/bvfdkkbAaUo7bKp5pUzYPJEzevaAYU-Drww8emS-6X7QHN0J4IiBqfDWS4tBRDJw17hGDuFe8_xULkI1iDSJzA.webp",
+      "logo": "https://i.namu.wiki/i/bvfdkkbAaUo7bKp5pUzYPJEzevaAYU-Drww8emS-6X7QHN0J4IiBqfDWS4tBRDJw17hGDuFe8_xULkI1iDSJzA.webp",
       "insight": "1997년 무교동 노점에서 출발한 국내 최초 토스트 프랜차이즈로, 위생을 앞세워 길거리 토스트를 체인화했다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/bvfdkkbAaUo7bKp5pUzYPJEzevaAYU-Drww8emS-6X7QHN0J4IiBqfDWS4tBRDJw17hGDuFe8_xULkI1iDSJzA.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%84%9D%EB%B4%89%ED%86%A0%EC%8A%A4%ED%8A%B8)",
+          "alt": "석봉토스트 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -162184,7 +162199,8 @@
       "foundedLocation": "천안",
       "operatingStatus": "활성",
       "operatingStatusNote": "가맹 형태로 운영 중인 것으로 알려져 있으나 최신 현황은 재확인 필요",
-      "enrichedFrom300": true
+      "enrichedFrom300": true,
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1367,
@@ -166294,11 +166310,18 @@
       "operatingStatusNote": "2018년 전후 기업회생절차를 겪으며 매장 수와 사업 규모가 크게 축소되었다",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/dqYEBAoY9p649dKQhUufumoV2Hrs9SFWGiA2QCVlHDmH0dciXGWIBzOrP6oeWa_PF-fI796XzhQ2MPb3_DjVXxzv9IELGKmuXXcZRxknYF7r2tmvr-oDKN4XFAVU8GAvcyJ9YMMpg7ffxk8p9gf93g.svg",
+      "logo": "https://i.namu.wiki/i/dqYEBAoY9p649dKQhUufumoV2Hrs9SFWGiA2QCVlHDmH0dciXGWIBzOrP6oeWa_PF-fI796XzhQ2MPb3_DjVXxzv9IELGKmuXXcZRxknYF7r2tmvr-oDKN4XFAVU8GAvcyJ9YMMpg7ffxk8p9gf93g.svg",
       "logoSearchQuery": "카페베네 caffe bene logo",
       "insight": "짧은 시간에 급성장한 프랜차이즈가 과잉 출점과 재무 레버리지로 인해 축소 국면에 진입하는 패턴을 보여주는 사례로, 확장 속도와 재무 건전성의 균형 문제를 드러낸다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/dqYEBAoY9p649dKQhUufumoV2Hrs9SFWGiA2QCVlHDmH0dciXGWIBzOrP6oeWa_PF-fI796XzhQ2MPb3_DjVXxzv9IELGKmuXXcZRxknYF7r2tmvr-oDKN4XFAVU8GAvcyJ9YMMpg7ffxk8p9gf93g.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%B9%B4%ED%8E%98%EB%B2%A0%EB%84%A4)",
+          "alt": "카페베네 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -166396,7 +166419,8 @@
       "priorityReason": "경영난·회생절차 관련 정확한 연도와 절차 성격(법정관리 여부 등) 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1419,
@@ -166735,11 +166759,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/vH_lW0KcFHcQAJmTUPD0O0ew-orhwzHGuTMA3_FMmW0tLmqZFJlmQc3cPHGzmjQzZdiCgxU7-nzSmlX_2beqBQbyz7D4_C-1xyCYb6owqYdSxIPVR8KNe41Tv9pXvA3e5NeFCviBgunohD4EJXRFzg.webp",
+      "logo": "https://i.namu.wiki/i/vH_lW0KcFHcQAJmTUPD0O0ew-orhwzHGuTMA3_FMmW0tLmqZFJlmQc3cPHGzmjQzZdiCgxU7-nzSmlX_2beqBQbyz7D4_C-1xyCYb6owqYdSxIPVR8KNe41Tv9pXvA3e5NeFCviBgunohD4EJXRFzg.webp",
       "logoSearchQuery": "빙그레 바나나맛우유 항아리 용기 디자인",
       "insight": "패키지 디자인 자체가 브랜드 자산이 되어 제품 리뉴얼 압력에도 형태를 고수하는 전략을 취한 사례로, 포장이 곧 브랜드가 된 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/vH_lW0KcFHcQAJmTUPD0O0ew-orhwzHGuTMA3_FMmW0tLmqZFJlmQc3cPHGzmjQzZdiCgxU7-nzSmlX_2beqBQbyz7D4_C-1xyCYb6owqYdSxIPVR8KNe41Tv9pXvA3e5NeFCviBgunohD4EJXRFzg.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%B0%94%EB%82%98%EB%82%98%EB%A7%9B%EC%9A%B0%EC%9C%A0)",
+          "alt": "빙그레바나나맛우유 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -166837,7 +166868,8 @@
       "priorityReason": "해외 수출 확대 시점 등 최근 사업 확장 세부 사실 검증 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1422,
@@ -166857,11 +166889,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/mpie2Mg7Vh56H5wzBkmrggyhwDZjArsncsa7xcOTe7hB26fDBguRWPAAlhFIsRIINEzfoVk9G7TlsTbY-56tUgmJhvUnJZUHgHyOdciQ14eqfW_mYDDFtVJnsguRl1yhmI8KkddTlHgZzqIVkHfY2w.webp",
+      "logo": "https://i.namu.wiki/i/mpie2Mg7Vh56H5wzBkmrggyhwDZjArsncsa7xcOTe7hB26fDBguRWPAAlhFIsRIINEzfoVk9G7TlsTbY-56tUgmJhvUnJZUHgHyOdciQ14eqfW_mYDDFtVJnsguRl1yhmI8KkddTlHgZzqIVkHfY2w.webp",
       "logoSearchQuery": "해찬들 로고 CJ Haechandle logo",
       "insight": "가내 수공업 영역이던 전통 식품을 대기업 제조 시스템으로 편입시켜 표준화·규모화한 산업화 사례로 볼 수 있다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/mpie2Mg7Vh56H5wzBkmrggyhwDZjArsncsa7xcOTe7hB26fDBguRWPAAlhFIsRIINEzfoVk9G7TlsTbY-56tUgmJhvUnJZUHgHyOdciQ14eqfW_mYDDFtVJnsguRl1yhmI8KkddTlHgZzqIVkHfY2w.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%95%B4%EC%B0%AC%EB%93%A4)",
+          "alt": "해찬들 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -166958,7 +166997,8 @@
       "priorityReason": "CJ제일제당 계열 편입 및 제품 확장 시점의 정확한 연도 검증 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1423,
@@ -167491,11 +167531,18 @@
       "operatingStatusNote": "대림수산과 사조그룹 계열사 합병을 거쳐 사조대림으로 재편되었다.",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/gxnSOr9rTHapnzoheJoLbjSKdqp2Yf9AP1AI6Jbnjrho7BDFm8nCHNdtv7F3XyWvju3D8AHlNKl7E9EAq_-DKkWvbjNeGmwByCLxblda0380ufaXE7EL7S1mUxz6Dv5wh8AbBaa6tuQobGdVUk4W4w.svg",
+      "logo": "https://i.namu.wiki/i/gxnSOr9rTHapnzoheJoLbjSKdqp2Yf9AP1AI6Jbnjrho7BDFm8nCHNdtv7F3XyWvju3D8AHlNKl7E9EAq_-DKkWvbjNeGmwByCLxblda0380ufaXE7EL7S1mUxz6Dv5wh8AbBaa6tuQobGdVUk4W4w.svg",
       "logoSearchQuery": "사조대림 로고 Sajo Daelim logo",
       "insight": "원양·연근해 수산업 기반 기업이 가공식품 제조로 사업 영역을 넓히며 그룹 계열사 재편(인수합병)을 통해 몸집을 키운 산업 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/gxnSOr9rTHapnzoheJoLbjSKdqp2Yf9AP1AI6Jbnjrho7BDFm8nCHNdtv7F3XyWvju3D8AHlNKl7E9EAq_-DKkWvbjNeGmwByCLxblda0380ufaXE7EL7S1mUxz6Dv5wh8AbBaa6tuQobGdVUk4W4w.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%82%AC%EC%A1%B0%EB%8C%80%EB%A6%BC)",
+          "alt": "사조대림 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -167592,7 +167639,8 @@
       "priorityReason": "대림수산 설립 연도 및 사조그룹 편입·사명변경 시점 등 핵심 연혁 검증 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1428,
@@ -168394,11 +168442,18 @@
       "operatingStatusNote": "현재도 문학·아동·인문 출판사로 활발히 운영 중이다.",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/sRX1brBeV-R9kYXW-wTkM2BuhvEMG6UWs--CeOuXzjjH6pdaHZV5Cj5LHay5d1dM9qlk8indjFSeKy1vQn93ZeH96Q7_lhWkYyzFIykRlyrYqy7vDW0kcVfPSjwzCfHBdu_Ns6Ve5Ik3c95KlHfF9Q.svg",
+      "logo": "https://i.namu.wiki/i/sRX1brBeV-R9kYXW-wTkM2BuhvEMG6UWs--CeOuXzjjH6pdaHZV5Cj5LHay5d1dM9qlk8indjFSeKy1vQn93ZeH96Q7_lhWkYyzFIykRlyrYqy7vDW0kcVfPSjwzCfHBdu_Ns6Ve5Ik3c95KlHfF9Q.svg",
       "logoSearchQuery": "창비 출판사 로고 changbi logo",
       "insight": "출판사가 단순한 콘텐츠 유통업이 아니라 시대의 지식 담론을 조직하는 기관으로 기능할 수 있음을 보여주며, 정치적 억압이 브랜드의 정체성(비판적 지식인 거점)을 오히려 강화한 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/sRX1brBeV-R9kYXW-wTkM2BuhvEMG6UWs--CeOuXzjjH6pdaHZV5Cj5LHay5d1dM9qlk8indjFSeKy1vQn93ZeH96Q7_lhWkYyzFIykRlyrYqy7vDW0kcVfPSjwzCfHBdu_Ns6Ve5Ik3c95KlHfF9Q.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%B0%BD%EB%B9%84)",
+          "alt": "창비 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -168496,7 +168551,8 @@
       "priorityReason": null,
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1435,
@@ -168516,11 +168572,18 @@
       "operatingStatusNote": "현재도 시사 주간지로 발행을 이어가고 있다.",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/gVRSkcrK3tjOfi3YrwjJWRiGGy1Q3skSI8RoOvfacqkAidueacrLn6PBMOUa-oDkIShDSXj6V6yeKkWbkZINexem0Y4cCs1xJN4YhWsffQjSLZHDdCQZDFXkXHaBj1497iIXEDzDPTnmmsomR-IZhQ.svg",
+      "logo": "https://i.namu.wiki/i/gVRSkcrK3tjOfi3YrwjJWRiGGy1Q3skSI8RoOvfacqkAidueacrLn6PBMOUa-oDkIShDSXj6V6yeKkWbkZINexem0Y4cCs1xJN4YhWsffQjSLZHDdCQZDFXkXHaBj1497iIXEDzDPTnmmsomR-IZhQ.svg",
       "logoSearchQuery": "시사IN 로고 sisain logo",
       "insight": "기존 매체 내부의 편집권 갈등이 새로운 독립 매체 창간으로 이어지는 과정은, 저널리즘 조직에서 소유·자본 구조와 편집 독립성 간 긴장이 브랜드 탄생의 직접적 동인이 될 수 있음을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/gVRSkcrK3tjOfi3YrwjJWRiGGy1Q3skSI8RoOvfacqkAidueacrLn6PBMOUa-oDkIShDSXj6V6yeKkWbkZINexem0Y4cCs1xJN4YhWsffQjSLZHDdCQZDFXkXHaBj1497iIXEDzDPTnmmsomR-IZhQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%8B%9C%EC%82%ACIN)",
+          "alt": "시사IN logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -168615,7 +168678,8 @@
       "priorityReason": null,
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1436,
@@ -169155,11 +169219,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/GXhAZfZy5LarMNWLB7SD1cHAOHk3E8Qgdl5XoApNHlKcC7cWBoCoUF-_4o4AnNdWCPWiKXcR0M82F0-BYIVLJSc1O1EvK8XR-3SlD1yMiSUDvn0SZ4z9wBL6c3rQihNEcRkaWIG-Bgsel1vIKTIW3A.svg",
+      "logo": "https://i.namu.wiki/i/GXhAZfZy5LarMNWLB7SD1cHAOHk3E8Qgdl5XoApNHlKcC7cWBoCoUF-_4o4AnNdWCPWiKXcR0M82F0-BYIVLJSc1O1EvK8XR-3SlD1yMiSUDvn0SZ4z9wBL6c3rQihNEcRkaWIG-Bgsel1vIKTIW3A.svg",
       "logoSearchQuery": "한살림 로고 CI 생협",
       "insight": "환경·농업 문제 해결을 위한 사상적 운동이 협동조합이라는 사업 형태로 제도화되며 전국 규모의 유통 조직으로 성장한 구조를 보여준다. 이익보다 산지-소비자 관계와 생태적 가치를 우선하는 거버넌스가 장기 지속성의 기반이 됐다는 점이 연구 포인트다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/GXhAZfZy5LarMNWLB7SD1cHAOHk3E8Qgdl5XoApNHlKcC7cWBoCoUF-_4o4AnNdWCPWiKXcR0M82F0-BYIVLJSc1O1EvK8XR-3SlD1yMiSUDvn0SZ4z9wBL6c3rQihNEcRkaWIG-Bgsel1vIKTIW3A.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%95%9C%EC%82%B4%EB%A6%BC)",
+          "alt": "한살림 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -169255,7 +169326,8 @@
       "priorityReason": "정확한 지역 조직 설립 연도와 조합원 규모 통계 등 세부 수치의 재확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1441,
@@ -170447,11 +170519,18 @@
       "operatingStatusNote": "KG그룹 계열로 인수되어 운영 중",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/UbAZXRD-lqqhvZ5C-vuyEelVXfvf1ftXlKXrA9jz8AzWvIulHRL3sbAQtmT38UlfRw2zXmGpEKR6BxlSQX2t_uBNS11gPyOeyQuepfiElpBfRLgZRMjp-pgU3ZEDkH6vzEea3k4KswL0glYiyqYV_g.svg",
+      "logo": "https://i.namu.wiki/i/UbAZXRD-lqqhvZ5C-vuyEelVXfvf1ftXlKXrA9jz8AzWvIulHRL3sbAQtmT38UlfRw2zXmGpEKR6BxlSQX2t_uBNS11gPyOeyQuepfiElpBfRLgZRMjp-pgU3ZEDkH6vzEea3k4KswL0glYiyqYV_g.svg",
       "logoSearchQuery": "할리스커피 로고 Hollys Coffee logo",
       "insight": "해외 브랜드 진출 직후 국내 자본이 유사한 카페 포맷을 빠르게 재현해 시장을 함께 키운 초기 프랜차이즈 확산 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/UbAZXRD-lqqhvZ5C-vuyEelVXfvf1ftXlKXrA9jz8AzWvIulHRL3sbAQtmT38UlfRw2zXmGpEKR6BxlSQX2t_uBNS11gPyOeyQuepfiElpBfRLgZRMjp-pgU3ZEDkH6vzEea3k4KswL0glYiyqYV_g.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%95%A0%EB%A6%AC%EC%8A%A4%EC%BB%A4%ED%94%BC)",
+          "alt": "할리스커피 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -170549,7 +170628,8 @@
       "priorityReason": "소유 기업 변경 시점 등 세부 연도의 정밀 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1451,
@@ -171663,11 +171743,18 @@
       "operatingStatusNote": "2022년 롯데푸드와 합병 후 2024년 롯데웰푸드로 사명 변경",
       "tier": "C_source_backed",
       "rating": 4.2,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/6295F3TdIqfh1B5D4KInUD1921Sl-wHSHbqZm2BEmpJkvm9IUTbxQ4TEtdxBtXG8Y3Ut2XB30eTUpTLI-irFLRw5s8RXn8s2LDYWek-l3bBJhlpDvSNxIqY8JY3ynExfIjJ-tpGFzwh5yL_qX_k8-Q.svg",
+      "logo": "https://i.namu.wiki/i/6295F3TdIqfh1B5D4KInUD1921Sl-wHSHbqZm2BEmpJkvm9IUTbxQ4TEtdxBtXG8Y3Ut2XB30eTUpTLI-irFLRw5s8RXn8s2LDYWek-l3bBJhlpDvSNxIqY8JY3ynExfIjJ-tpGFzwh5yL_qX_k8-Q.svg",
       "logoSearchQuery": "롯데제과 로고 Lotte Confectionery logo",
       "insight": "특정 제품 출시일(11월 11일)을 소비자 기념일로 마케팅에 활용해 장기 스테디셀러 브랜드로 정착시킨 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/6295F3TdIqfh1B5D4KInUD1921Sl-wHSHbqZm2BEmpJkvm9IUTbxQ4TEtdxBtXG8Y3Ut2XB30eTUpTLI-irFLRw5s8RXn8s2LDYWek-l3bBJhlpDvSNxIqY8JY3ynExfIjJ-tpGFzwh5yL_qX_k8-Q.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%A1%AF%EB%8D%B0%EC%A0%9C%EA%B3%BC)",
+          "alt": "롯데제과 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -171788,7 +171875,8 @@
       "priorityReason": "널리 알려진 대형 계열사로 추가 심층 조사 우선순위는 낮음",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1460,
@@ -173265,11 +173353,18 @@
       "operatingStatusNote": "교원그룹 산하 브랜드로 현재도 운영 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/tSxI1oQf1ejBz47TnS3bSu6xkUr1vPTJKo45fI26NW-KRn3H6-uDbEflL2oK8XwRp9kU-xbO_nTBkRP95my75LnMq1sT8qWpty_ILwyUWvVPGojFE5k02U6RJZlDY1Gf_hp8RmtlGBcVPz0Qv5JqlQ.svg",
+      "logo": "https://i.namu.wiki/i/tSxI1oQf1ejBz47TnS3bSu6xkUr1vPTJKo45fI26NW-KRn3H6-uDbEflL2oK8XwRp9kU-xbO_nTBkRP95my75LnMq1sT8qWpty_ILwyUWvVPGojFE5k02U6RJZlDY1Gf_hp8RmtlGBcVPz0Qv5JqlQ.svg",
       "logoSearchQuery": "빨간펜 교원 로고",
       "insight": "학습지라는 표준화된 콘텐츠에 '첨삭'이라는 개인화 서비스를 결합한 사례로, 서비스명이 곧 핵심 행위(빨간펜 첨삭)를 지칭하는 브랜드 네이밍 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/tSxI1oQf1ejBz47TnS3bSu6xkUr1vPTJKo45fI26NW-KRn3H6-uDbEflL2oK8XwRp9kU-xbO_nTBkRP95my75LnMq1sT8qWpty_ILwyUWvVPGojFE5k02U6RJZlDY1Gf_hp8RmtlGBcVPz0Qv5JqlQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%B9%A8%EA%B0%84%ED%8E%9C)",
+          "alt": "빨간펜 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -173364,7 +173459,8 @@
       "priorityReason": "정확한 브랜드 출시 연도(1985 vs 1991 등)와 교원그룹 창립 시점 관계 재확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1472,
@@ -173384,11 +173480,18 @@
       "operatingStatusNote": "대교그룹의 대표 학습지 브랜드로 존속하며 디지털 학습 서비스로도 확장.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/XMz0Usln19jrJxUlQ3uJFb3UTZGlRx2MWOo6C5jWwIqag00E-gU7ZQWyh4Jd5Sab84Gfp5MKN5kdbipy-cdGOBSY5LyiKNCbkhzc_Sa7YjHRVEt20Q5G_ICHhB211HT6ZWoGwQZN_dGX-BtSn8eljA.svg",
+      "logo": "https://i.namu.wiki/i/XMz0Usln19jrJxUlQ3uJFb3UTZGlRx2MWOo6C5jWwIqag00E-gU7ZQWyh4Jd5Sab84Gfp5MKN5kdbipy-cdGOBSY5LyiKNCbkhzc_Sa7YjHRVEt20Q5G_ICHhB211HT6ZWoGwQZN_dGX-BtSn8eljA.svg",
       "logoSearchQuery": "대교 눈높이 로고",
       "insight": "브랜드명이 곧 교육 철학(눈높이 맞춤 교육)을 표방하며, 방문교사라는 인적 유통망이 핵심 경쟁력으로 작동한 전국 단위 학습지 사업 모델의 대표 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/XMz0Usln19jrJxUlQ3uJFb3UTZGlRx2MWOo6C5jWwIqag00E-gU7ZQWyh4Jd5Sab84Gfp5MKN5kdbipy-cdGOBSY5LyiKNCbkhzc_Sa7YjHRVEt20Q5G_ICHhB211HT6ZWoGwQZN_dGX-BtSn8eljA.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%88%88%EB%86%92%EC%9D%B4)",
+          "alt": "눈높이 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -173486,7 +173589,8 @@
       "priorityReason": "구체적 연도별 사건에 대한 확인 가능한 사료가 부족해 사실관계 보강이 필요함.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1473,
@@ -174316,11 +174420,18 @@
       "operatingStatusNote": "천재교육의 디지털 학습 브랜드로 존속.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/r6U-m2CLBnp6ySXWmLrksc41aagTXALvrYgYMvFK1tFrBGB6QPWA67E_CKfhtQZ7bXZiTnQEyucDG6nQbFurzMPE8CdD4VmojnQWjRXVbCPDOOBln9gZcJsP8rncNRN_ecA7bOK799jBq2na2A5C2Q.webp",
+      "logo": "https://i.namu.wiki/i/r6U-m2CLBnp6ySXWmLrksc41aagTXALvrYgYMvFK1tFrBGB6QPWA67E_CKfhtQZ7bXZiTnQEyucDG6nQbFurzMPE8CdD4VmojnQWjRXVbCPDOOBln9gZcJsP8rncNRN_ecA7bOK799jBq2na2A5C2Q.webp",
       "logoSearchQuery": "밀크T 로고 milkt",
       "insight": "출판 기업이 축적한 콘텐츠 자산을 디지털 학습기기 서비스로 전환한 사례로, 하드웨어(태블릿)와 소프트웨어(AI 분석)를 결합한 학습지 대체 모델을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/r6U-m2CLBnp6ySXWmLrksc41aagTXALvrYgYMvFK1tFrBGB6QPWA67E_CKfhtQZ7bXZiTnQEyucDG6nQbFurzMPE8CdD4VmojnQWjRXVbCPDOOBln9gZcJsP8rncNRN_ecA7bOK799jBq2na2A5C2Q.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%B0%80%ED%81%ACT)",
+          "alt": "밀크T logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -174393,7 +174504,8 @@
       "priorityReason": "구체적 성장 지표와 서비스 개편 이력에 대한 확인이 필요함.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1481,
@@ -174413,11 +174525,18 @@
       "operatingStatusNote": "온라인 초등 학습 서비스로 운영 중인 것으로 파악되나 최신 사업 현황에 대한 확인이 필요하다.",
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/18azT7zcI2bKSXJ9ZASjrMiPurkXwsz0sgU7z-0463tNVPyo-JgJtqzV6f_6PU06pwcUFa7J3H6BXf9EOQsoITAgJLzme72yF4KZoRKcoflaoNWeHvlx2maii3N2n-EqpE6wris75Mj3YSi4tnG5MQ.svg",
+      "logo": "https://i.namu.wiki/i/18azT7zcI2bKSXJ9ZASjrMiPurkXwsz0sgU7z-0463tNVPyo-JgJtqzV6f_6PU06pwcUFa7J3H6BXf9EOQsoITAgJLzme72yF4KZoRKcoflaoNWeHvlx2maii3N2n-EqpE6wris75Mj3YSi4tnG5MQ.svg",
       "logoSearchQuery": "와이즈캠프 로고",
       "insight": "학습지라는 전통적 상품 형태를 웹 환경으로 옮긴 초기 시도 중 하나로, 온라인 학습지 시장의 초창기 실험적 사례로 볼 수 있다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/18azT7zcI2bKSXJ9ZASjrMiPurkXwsz0sgU7z-0463tNVPyo-JgJtqzV6f_6PU06pwcUFa7J3H6BXf9EOQsoITAgJLzme72yF4KZoRKcoflaoNWeHvlx2maii3N2n-EqpE6wris75Mj3YSi4tnG5MQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%99%80%EC%9D%B4%EC%A6%88%EC%BA%A0%ED%94%84)",
+          "alt": "와이즈캠프 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -174488,7 +174607,8 @@
       "priorityReason": "창업 주체, 운영사, 현재 사업 현황 등 기본 사실 확인이 미흡해 우선 검증이 필요함.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1482,
@@ -174733,11 +174853,18 @@
       "operatingStatusNote": "어학 온라인 강의 서비스로 운영 중인 것으로 파악되나 최신 사업 현황 확인이 필요하다.",
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/u-BRF2utAo9DyEbgzf-VXKmd_lbJfGksMqmNAQxVzsfnEEqJN3LfpRm7W4ciN9fR-KVZNCSO1iagTcz4u6fwusZuunQk9OIpLIxSswNoTauu_5k089w4ApLtrS2pWBdicSIW53NR-11h67oXTJanOg.webp",
+      "logo": "https://i.namu.wiki/i/u-BRF2utAo9DyEbgzf-VXKmd_lbJfGksMqmNAQxVzsfnEEqJN3LfpRm7W4ciN9fR-KVZNCSO1iagTcz4u6fwusZuunQk9OIpLIxSswNoTauu_5k089w4ApLtrS2pWBdicSIW53NR-11h67oXTJanOg.webp",
       "logoSearchQuery": "스터디맥스 로고",
       "insight": "특정 시험(토익) 대비 강의라는 좁은 카테고리에서 온라인 스트리밍이라는 유통 방식 혁신을 시도한 사례로 볼 수 있다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/u-BRF2utAo9DyEbgzf-VXKmd_lbJfGksMqmNAQxVzsfnEEqJN3LfpRm7W4ciN9fR-KVZNCSO1iagTcz4u6fwusZuunQk9OIpLIxSswNoTauu_5k089w4ApLtrS2pWBdicSIW53NR-11h67oXTJanOg.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%8A%A4%ED%84%B0%EB%94%94%EB%A7%A5%EC%8A%A4)",
+          "alt": "스터디맥스 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -174808,7 +174935,8 @@
       "priorityReason": "창업 주체, 운영사, 현재 사업 현황 등 기본 사실 확인이 미흡해 우선 검증이 필요함.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1485,
@@ -175308,11 +175436,18 @@
       "operatingStatusNote": "죠스푸드 운영, 프랜차이즈 매장으로 운영 지속.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/gn9_Rfqk3sq4GCs1c3HuVZMOnoUmSaiSNkSTVQL5IaAfGXdqBdYN9nkZGyvpPSLHthjZkxK8t17WmhFW5Ya7Ch97UgKBgIutTmG5xfl8B55k8NamMfBdJE7ZV8QCVqdmXHxjHBqqrMJnw6qx0CkfVg.svg",
+      "logo": "https://i.namu.wiki/i/gn9_Rfqk3sq4GCs1c3HuVZMOnoUmSaiSNkSTVQL5IaAfGXdqBdYN9nkZGyvpPSLHthjZkxK8t17WmhFW5Ya7Ch97UgKBgIutTmG5xfl8B55k8NamMfBdJE7ZV8QCVqdmXHxjHBqqrMJnw6qx0CkfVg.svg",
       "logoSearchQuery": "죠스떡볶이 로고",
       "insight": "노점 중심의 비정형 분식 시장을 표준화된 매장 프랜차이즈로 전환한 초기 사례로, 이후 유사 분식 프랜차이즈들의 참조점이 되었다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/gn9_Rfqk3sq4GCs1c3HuVZMOnoUmSaiSNkSTVQL5IaAfGXdqBdYN9nkZGyvpPSLHthjZkxK8t17WmhFW5Ya7Ch97UgKBgIutTmG5xfl8B55k8NamMfBdJE7ZV8QCVqdmXHxjHBqqrMJnw6qx0CkfVg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%A3%A0%EC%8A%A4%EB%96%A1%EB%B3%B6%EC%9D%B4)",
+          "alt": "죠스떡볶이 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -175410,7 +175545,8 @@
       "priorityReason": "창업자명 및 초기 가맹 확대 정확한 연도에 대한 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1490,
@@ -175430,11 +175566,18 @@
       "operatingStatusNote": "프랜차이즈 형태로 전국 매장 운영 지속.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/yK_lldIsNvcHVn1ARbo_p4VBxbD9Ys5kNHsCwx2yRupS086Vo-Z6oFjsgrGlux-6ia70LMNFfLVu9fhABDqxq92W8EnnemrsrCjir_3b-fNBte3ntvjcSCPj7Tai2YSWFiHbL26jbRXiFt6r8Bg2GQ.svg",
+      "logo": "https://i.namu.wiki/i/yK_lldIsNvcHVn1ARbo_p4VBxbD9Ys5kNHsCwx2yRupS086Vo-Z6oFjsgrGlux-6ia70LMNFfLVu9fhABDqxq92W8EnnemrsrCjir_3b-fNBte3ntvjcSCPj7Tai2YSWFiHbL26jbRXiFt6r8Bg2GQ.svg",
       "logoSearchQuery": "원할머니보쌈 로고",
       "insight": "가정식 레시피가 입소문을 통해 점차 프랜차이즈로 성장하는 한국 외식업의 전형적인 경로를 보여주는 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/yK_lldIsNvcHVn1ARbo_p4VBxbD9Ys5kNHsCwx2yRupS086Vo-Z6oFjsgrGlux-6ia70LMNFfLVu9fhABDqxq92W8EnnemrsrCjir_3b-fNBte3ntvjcSCPj7Tai2YSWFiHbL26jbRXiFt6r8Bg2GQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9B%90%ED%95%A0%EB%A8%B8%EB%8B%88%EB%B3%B4%EC%8C%88)",
+          "alt": "원할머니보쌈 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -175529,7 +175672,8 @@
       "priorityReason": "프랜차이즈 전환 정확한 연도 및 창업 지역에 대한 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1491,
@@ -175549,11 +175693,18 @@
       "operatingStatusNote": "프랜차이즈 매장으로 운영 지속.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/9j3WwKAhpU44vuGdiFq4HMww4vuiPltkWOG4bbjBESLfYKs6UYzVw0qK9YxSWrBuOn4a4tKFRHgjWlXGEaiGnKiAmJ0hbW5Z6RhjbhuFcJhRKT0cAxD0rYWTIXAgy4dVfYPp6bq7zP-fF-QJg3LDKw.svg",
+      "logo": "https://i.namu.wiki/i/9j3WwKAhpU44vuGdiFq4HMww4vuiPltkWOG4bbjBESLfYKs6UYzVw0qK9YxSWrBuOn4a4tKFRHgjWlXGEaiGnKiAmJ0hbW5Z6RhjbhuFcJhRKT0cAxD0rYWTIXAgy4dVfYPp6bq7zP-fF-QJg3LDKw.svg",
       "logoSearchQuery": "홍루이젠 로고",
       "insight": "해외 길거리 음식을 한국 소비자 취향에 맞게 현지화해 새로운 간편식 카테고리로 자리잡게 한 사례를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/9j3WwKAhpU44vuGdiFq4HMww4vuiPltkWOG4bbjBESLfYKs6UYzVw0qK9YxSWrBuOn4a4tKFRHgjWlXGEaiGnKiAmJ0hbW5Z6RhjbhuFcJhRKT0cAxD0rYWTIXAgy4dVfYPp6bq7zP-fF-QJg3LDKw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%99%8D%EB%A3%A8%EC%9D%B4%EC%A0%A0)",
+          "alt": "홍루이젠 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -175651,7 +175802,8 @@
       "priorityReason": "창업자 및 초기 매장 위치, 확장 시점에 대한 구체적 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1492,
@@ -176070,11 +176222,18 @@
       "operatingStatusNote": "국내외에서 매장을 운영 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/6AuayxK8q6osNFSxKQsMJauNaAmhFSvPcWyQHnhlQCJXFnMm1iXYSsK5yEjcKRmVoqHbfbSPq1UWPyisPX_bkw.svg",
+      "logo": "https://i.namu.wiki/i/6AuayxK8q6osNFSxKQsMJauNaAmhFSvPcWyQHnhlQCJXFnMm1iXYSsK5yEjcKRmVoqHbfbSPq1UWPyisPX_bkw.svg",
       "logoSearchQuery": "탐앤탐스 TOM N TOMS coffee logo",
       "insight": "커피전문점 1차 붐 초기에 등장해 '음료 단일 카테고리'에서 '음료+디저트 복합 공간'으로 카페 포맷을 확장시킨 사례로 볼 수 있다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/6AuayxK8q6osNFSxKQsMJauNaAmhFSvPcWyQHnhlQCJXFnMm1iXYSsK5yEjcKRmVoqHbfbSPq1UWPyisPX_bkw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%83%90%EC%95%A4%ED%83%90%EC%8A%A4)",
+          "alt": "탐앤탐스 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -176172,7 +176331,8 @@
       "priorityReason": "해외 확장·리뉴얼 시점 등 세부 사실 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1496,
@@ -176192,11 +176352,18 @@
       "operatingStatusNote": "전국적으로 매장을 운영 중인 저가 음료 프랜차이즈",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/br7QVNmRfwfmkP60MNL9l5xRcttqKxPHUHWyoRqdvIbY7onvIKG0Qg3uu1rYDod58ZG6dq1vK3TLcYwAYr9srMdaSxFW-55c26JgDZvoqDWQNEtc_JpMCR5uXk3YvIfG10sCJt17Hyjt1j-X69MQbw.svg",
+      "logo": "https://i.namu.wiki/i/br7QVNmRfwfmkP60MNL9l5xRcttqKxPHUHWyoRqdvIbY7onvIKG0Qg3uu1rYDod58ZG6dq1vK3TLcYwAYr9srMdaSxFW-55c26JgDZvoqDWQNEtc_JpMCR5uXk3YvIfG10sCJt17Hyjt1j-X69MQbw.svg",
       "logoSearchQuery": "더벤티 THE VENTI logo",
       "insight": "프리미엄 스페셜티 커피와 대비되는 '가성비 대용량' 포지셔닝으로 별도의 저가 음료 카테고리를 형성한 사례로, 2010년대 후반 저가 커피 프랜차이즈 붐의 한 축을 이룬다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/br7QVNmRfwfmkP60MNL9l5xRcttqKxPHUHWyoRqdvIbY7onvIKG0Qg3uu1rYDod58ZG6dq1vK3TLcYwAYr9srMdaSxFW-55c26JgDZvoqDWQNEtc_JpMCR5uXk3YvIfG10sCJt17Hyjt1j-X69MQbw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8D%94%EB%B2%A4%ED%8B%B0)",
+          "alt": "더벤티 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -176294,7 +176461,8 @@
       "priorityReason": "창업자 및 지분 구조 등 세부 사실 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1497,
@@ -176314,11 +176482,18 @@
       "operatingStatusNote": "전국에 다수 가맹점을 운영 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/h53qx5QzvAHjvK00KVNcaCvf0C8LCU2xnUxFmPMsOXyUGtQM3_-2D-r26mspVqe7L3weKXR9Bk6T-6O4OXwIPmxJ2jcNiWJllmJ8Kcg-r_Fr08oLg87KgcocTSXV_ghgNcxgj9AYsR8cpbVuQLN1hw.svg",
+      "logo": "https://i.namu.wiki/i/h53qx5QzvAHjvK00KVNcaCvf0C8LCU2xnUxFmPMsOXyUGtQM3_-2D-r26mspVqe7L3weKXR9Bk6T-6O4OXwIPmxJ2jcNiWJllmJ8Kcg-r_Fr08oLg87KgcocTSXV_ghgNcxgj9AYsR8cpbVuQLN1hw.svg",
       "logoSearchQuery": "명랑핫도그 로고",
       "insight": "저가·소형 매장 포맷의 길거리 간식이 짧은 기간 내 다수 유사 브랜드를 낳으며 카테고리 전체가 유행처럼 확산·소멸하는 국내 프랜차이즈 시장의 전형적 패턴을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/h53qx5QzvAHjvK00KVNcaCvf0C8LCU2xnUxFmPMsOXyUGtQM3_-2D-r26mspVqe7L3weKXR9Bk6T-6O4OXwIPmxJ2jcNiWJllmJ8Kcg-r_Fr08oLg87KgcocTSXV_ghgNcxgj9AYsR8cpbVuQLN1hw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%AA%85%EB%9E%91%ED%95%AB%EB%8F%84%EA%B7%B8)",
+          "alt": "명랑핫도그 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -176416,7 +176591,8 @@
       "priorityReason": "창업자·정확한 창업 시점 등 세부 사실 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1498,
@@ -176687,11 +176863,18 @@
       "operatingStatusNote": "가맹점 형태로 매장을 운영 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/V3kAgnKE6QxYC8bUrCMgbGpmaA6n59VmRNhncr8cdThNQtLEEafeolwNGfycYlynnf-y3OcD56482CeIIFSJlXhKK_o2GPEHcz89JiczDgHmZJo3xgQoRLXkXFyHFx9ZVv9SYzGeJ97kf4qPC7abuQ.webp",
+      "logo": "https://i.namu.wiki/i/V3kAgnKE6QxYC8bUrCMgbGpmaA6n59VmRNhncr8cdThNQtLEEafeolwNGfycYlynnf-y3OcD56482CeIIFSJlXhKK_o2GPEHcz89JiczDgHmZJo3xgQoRLXkXFyHFx9ZVv9SYzGeJ97kf4qPC7abuQ.webp",
       "logoSearchQuery": "봉구스밥버거 로고",
       "insight": "서구식 패스트푸드 포맷(빵+패티)의 핵심 재료를 한국인에게 익숙한 밥으로 치환해 새로운 로컬 카테고리를 만든 사례로, 저비용 창업 구조가 확산 속도를 높였다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/V3kAgnKE6QxYC8bUrCMgbGpmaA6n59VmRNhncr8cdThNQtLEEafeolwNGfycYlynnf-y3OcD56482CeIIFSJlXhKK_o2GPEHcz89JiczDgHmZJo3xgQoRLXkXFyHFx9ZVv9SYzGeJ97kf4qPC7abuQ.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%B4%89%EA%B5%AC%EC%8A%A4%EB%B0%A5%EB%B2%84%EA%B1%B0)",
+          "alt": "봉구스밥버거 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -176789,7 +176972,8 @@
       "priorityReason": "창업자 정보 및 세부 연혁 확인 자료가 제한적",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1501,
@@ -176930,11 +177114,18 @@
       "operatingStatusNote": "경남 지역 기반으로 소주 등을 제조·판매 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/687x3OsrK3oTgSVZMSOe66ZXdFx0uRbbiPDybVSJQNYcaF-lqcMiktPCuRDI7EquukefOfteN97W-3BqBkg1O7WjPewFnzKpBwuVuVyIX-ywaS2jwSXWXKsDY2zLpubF0BX-4VNuuD1pew2BunFscQ.svg",
+      "logo": "https://i.namu.wiki/i/687x3OsrK3oTgSVZMSOe66ZXdFx0uRbbiPDybVSJQNYcaF-lqcMiktPCuRDI7EquukefOfteN97W-3BqBkg1O7WjPewFnzKpBwuVuVyIX-ywaS2jwSXWXKsDY2zLpubF0BX-4VNuuD1pew2BunFscQ.svg",
       "logoSearchQuery": "무학소주 로고",
       "insight": "전국 단일 브랜드 진로가 시장을 주도하는 가운데서도, 지역 기반 주류 제조사가 오랜 기간 로컬 점유율을 유지해온 국내 소주 산업의 지역 과점 구조를 보여주는 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/687x3OsrK3oTgSVZMSOe66ZXdFx0uRbbiPDybVSJQNYcaF-lqcMiktPCuRDI7EquukefOfteN97W-3BqBkg1O7WjPewFnzKpBwuVuVyIX-ywaS2jwSXWXKsDY2zLpubF0BX-4VNuuD1pew2BunFscQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%AC%B4%ED%95%99%EC%86%8C%EC%A3%BC)",
+          "alt": "무학소주 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177031,7 +177222,8 @@
       "priorityReason": "1950~1990년대 경영 세부 연혁에 대한 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1503,
@@ -177051,11 +177243,18 @@
       "operatingStatusNote": "대구·경북 지역 기반으로 소주 등을 제조·판매 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/a4Ktq3iqUmjiV0FgHh7n60POPCuWm6eydxyoyPpzP-HAQMvXAwqvYKYKZ1qqFJagBBarEst-CRJN9Ak9q6iAaIeYwmVyUsmk5FIr9Nto-KDyJ-9cwnBWIwgNt0K3bNW9CfnEEYx_eeavjzEveJWGpQ.svg",
+      "logo": "https://i.namu.wiki/i/a4Ktq3iqUmjiV0FgHh7n60POPCuWm6eydxyoyPpzP-HAQMvXAwqvYKYKZ1qqFJagBBarEst-CRJN9Ak9q6iAaIeYwmVyUsmk5FIr9Nto-KDyJ-9cwnBWIwgNt0K3bNW9CfnEEYx_eeavjzEveJWGpQ.svg",
       "logoSearchQuery": "금복주 소주 로고",
       "insight": "특정 지역에서 오랜 기간 압도적 점유율을 유지하는 소주 제조사가 전국 브랜드 확산 압력에도 로컬 정체성을 지속시키는 국내 주류 산업의 지역 과점 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/a4Ktq3iqUmjiV0FgHh7n60POPCuWm6eydxyoyPpzP-HAQMvXAwqvYKYKZ1qqFJagBBarEst-CRJN9Ak9q6iAaIeYwmVyUsmk5FIr9Nto-KDyJ-9cwnBWIwgNt0K3bNW9CfnEEYx_eeavjzEveJWGpQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EA%B8%88%EB%B3%B5%EC%A3%BC)",
+          "alt": "금복주 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177152,7 +177351,8 @@
       "priorityReason": "2010년대 경영 이슈 등 세부 사실관계 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1504,
@@ -177172,11 +177372,18 @@
       "operatingStatusNote": "이후 매일유업(매일홀딩스) 계열로 편입되었다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/jJ-Wr9L106wgxP2xWspUt0bUpVqdEADyYUNK8EJuW6_RmUoTbZFZhcFJNpOozDJ_4dIjAanz88ZlZAoEraZDHgda_MyMwDZgT9FivM_Nt5l99ycdrbIq3B1MXHqkeSxT0yMuM3HnKkyFTpX3rBI8jg.svg",
+      "logo": "https://i.namu.wiki/i/jJ-Wr9L106wgxP2xWspUt0bUpVqdEADyYUNK8EJuW6_RmUoTbZFZhcFJNpOozDJ_4dIjAanz88ZlZAoEraZDHgda_MyMwDZgT9FivM_Nt5l99ycdrbIq3B1MXHqkeSxT0yMuM3HnKkyFTpX3rBI8jg.svg",
       "logoSearchQuery": "초록마을 로고 유기농 Chorokmaeul logo",
       "insight": "건강·환경 가치를 내세운 먹거리 운동이 개별 매장 네트워크라는 상업적 유통 모델로 구현된 사례로, 가치 지향 소비와 프랜차이즈 확장이 결합된 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/jJ-Wr9L106wgxP2xWspUt0bUpVqdEADyYUNK8EJuW6_RmUoTbZFZhcFJNpOozDJ_4dIjAanz88ZlZAoEraZDHgda_MyMwDZgT9FivM_Nt5l99ycdrbIq3B1MXHqkeSxT0yMuM3HnKkyFTpX3rBI8jg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%B4%88%EB%A1%9D%EB%A7%88%EC%9D%84)",
+          "alt": "초록마을 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177273,7 +177480,8 @@
       "priorityReason": "창업 배경(운영주체), 매일유업 계열 편입 시점 등 핵심 사실이 불확실해 낮은 확신도로 처리함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1505,
@@ -177414,11 +177622,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/HNFQrwwevD-0Pq-Ihiiz5c5CbRYcx2oIFbgJMQtWmJHalKe2bpUry0UOt22PjALFBQOzNPdkCuBhCgHrv70zHs3iJykHQom_P2j-64bGjTtevpYChFvAGWrs-UvasEtiBJYUGreB7zevSC5OS6oXbA.webp",
+      "logo": "https://i.namu.wiki/i/HNFQrwwevD-0Pq-Ihiiz5c5CbRYcx2oIFbgJMQtWmJHalKe2bpUry0UOt22PjALFBQOzNPdkCuBhCgHrv70zHs3iJykHQom_P2j-64bGjTtevpYChFvAGWrs-UvasEtiBJYUGreB7zevSC5OS6oXbA.webp",
       "logoSearchQuery": "동아연필 dong-a pencil 로고",
       "insight": "디지털 전환과 필기구 다변화 속에서도 단일 제품군(연필) 제조를 고수한 레거시 제조업의 지속 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/HNFQrwwevD-0Pq-Ihiiz5c5CbRYcx2oIFbgJMQtWmJHalKe2bpUry0UOt22PjALFBQOzNPdkCuBhCgHrv70zHs3iJykHQom_P2j-64bGjTtevpYChFvAGWrs-UvasEtiBJYUGreB7zevSC5OS6oXbA.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8F%99%EC%95%84%EC%97%B0%ED%95%84)",
+          "alt": "동아연필 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177513,7 +177728,8 @@
       "priorityReason": "구체적 연혁 자료 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1507,
@@ -177533,11 +177749,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/DFoe-IdA3N7EL2UyRVwCvcpEVQibofbr_DpB0vjz3Mm75IC9tfy8oZb3Zb1i_QINZ9OEWrhpAsX-bQQkVUVLsLAaxeH3-d2ptcZ5DTKyOVU-VYCJXKGUBOVvZ51DWFewG8e8UhIQOs_o5HZEiuwWcg.svg",
+      "logo": "https://i.namu.wiki/i/DFoe-IdA3N7EL2UyRVwCvcpEVQibofbr_DpB0vjz3Mm75IC9tfy8oZb3Zb1i_QINZ9OEWrhpAsX-bQQkVUVLsLAaxeH3-d2ptcZ5DTKyOVU-VYCJXKGUBOVvZ51DWFewG8e8UhIQOs_o5HZEiuwWcg.svg",
       "logoSearchQuery": "알파문구 alpha stationery 로고",
       "insight": "파편화된 영세 소매업(동네 문방구)을 체인 유통 모델로 재편한 산업 재구조화 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/DFoe-IdA3N7EL2UyRVwCvcpEVQibofbr_DpB0vjz3Mm75IC9tfy8oZb3Zb1i_QINZ9OEWrhpAsX-bQQkVUVLsLAaxeH3-d2ptcZ5DTKyOVU-VYCJXKGUBOVvZ51DWFewG8e8UhIQOs_o5HZEiuwWcg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%95%8C%ED%8C%8C%EB%AC%B8%EA%B5%AC)",
+          "alt": "알파문구 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177635,7 +177858,8 @@
       "priorityReason": "구체적 연혁 자료 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1508,
@@ -177655,11 +177879,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/1goryicMrVImvX99i8o40V00J7tCIyzR2UQBPoVILORJfD5A6q4MxcuWlqAKkXQsUgERlRQgBYLTXIRH2PBmSz0qZ4p1C51hcgMtaAcrwSbkLWWxuGG_fpPfXJ8m7EW18wfjb9_J3a5klQ0X0LwdYw.webp",
+      "logo": "https://i.namu.wiki/i/1goryicMrVImvX99i8o40V00J7tCIyzR2UQBPoVILORJfD5A6q4MxcuWlqAKkXQsUgERlRQgBYLTXIRH2PBmSz0qZ4p1C51hcgMtaAcrwSbkLWWxuGG_fpPfXJ8m7EW18wfjb9_J3a5klQ0X0LwdYw.webp",
       "logoSearchQuery": "모닝글로리 morning glory stationery 로고",
       "insight": "실용재였던 문구를 캐릭터·디자인 기반 감성 소비재로 전환시켜 새로운 소비층(학생·청소년)을 문구 시장의 핵심 고객으로 만든 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/1goryicMrVImvX99i8o40V00J7tCIyzR2UQBPoVILORJfD5A6q4MxcuWlqAKkXQsUgERlRQgBYLTXIRH2PBmSz0qZ4p1C51hcgMtaAcrwSbkLWWxuGG_fpPfXJ8m7EW18wfjb9_J3a5klQ0X0LwdYw.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%AA%A8%EB%8B%9D%EA%B8%80%EB%A1%9C%EB%A6%AC)",
+          "alt": "모닝글로리 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -177757,7 +177988,8 @@
       "priorityReason": "구체적 연혁 자료 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1509,
@@ -178273,11 +178505,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/eC1Wf4F8BZM2fdzwRTALtB-AvwzUYhCdEfxwfL34WQl4DL_sQXHupDdBnU0xXPUG5-GIOsNLZHsrMgIMnGw0T1ebGxf7MpDY_hbwh7XVIF61kVY_ug-c5Bsqz7s5o-LwU_DXrwTi0-xrjaExOhcKIQ.webp",
+      "logo": "https://i.namu.wiki/i/eC1Wf4F8BZM2fdzwRTALtB-AvwzUYhCdEfxwfL34WQl4DL_sQXHupDdBnU0xXPUG5-GIOsNLZHsrMgIMnGw0T1ebGxf7MpDY_hbwh7XVIF61kVY_ug-c5Bsqz7s5o-LwU_DXrwTi0-xrjaExOhcKIQ.webp",
       "logoSearchQuery": "동국제약 dongkook pharmaceutical 로고 CI",
       "insight": "단일 대표 제품이 수십 년간 브랜드 신뢰의 핵심 축으로 기능하며 회사 전체 정체성을 지탱한 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/eC1Wf4F8BZM2fdzwRTALtB-AvwzUYhCdEfxwfL34WQl4DL_sQXHupDdBnU0xXPUG5-GIOsNLZHsrMgIMnGw0T1ebGxf7MpDY_hbwh7XVIF61kVY_ug-c5Bsqz7s5o-LwU_DXrwTi0-xrjaExOhcKIQ.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD)",
+          "alt": "동국제약 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -178376,7 +178615,8 @@
       "priorityReason": "세부 연혁 자료 추가 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1514,
@@ -179006,11 +179246,18 @@
       "operatingStatusNote": "2024년 코스피에 상장한 것으로 알려져 있다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/K_Nig8r2ufM05ok8dcDrU42HJbc3C-BISxCfZ0sMer7J5C_7z6JhR-I3VfSPu22llmeLYLYUX20Ygvux24ImoRXg-QayEQB8o6kcpdtlsGn0k4gIMMI89m5B_mSbChH2NmpH00Ffhtz2IV9I9cTPTQ.svg",
+      "logo": "https://i.namu.wiki/i/K_Nig8r2ufM05ok8dcDrU42HJbc3C-BISxCfZ0sMer7J5C_7z6JhR-I3VfSPu22llmeLYLYUX20Ygvux24ImoRXg-QayEQB8o6kcpdtlsGn0k4gIMMI89m5B_mSbChH2NmpH00Ffhtz2IV9I9cTPTQ.svg",
       "logoSearchQuery": "에이피알 APR 메디큐브 logo",
       "insight": "화장품 브랜드에서 출발해 하드웨어(뷰티 디바이스) 영역으로 사업을 확장한 사례로, 소프트 뷰티와 하드웨어 기술을 결합한 카테고리 창출형 성장을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/K_Nig8r2ufM05ok8dcDrU42HJbc3C-BISxCfZ0sMer7J5C_7z6JhR-I3VfSPu22llmeLYLYUX20Ygvux24ImoRXg-QayEQB8o6kcpdtlsGn0k4gIMMI89m5B_mSbChH2NmpH00Ffhtz2IV9I9cTPTQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%8C)",
+          "alt": "에이피알 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -179095,7 +179342,8 @@
       "priorityReason": "창업자 이력 및 상장 세부 수치(공모가, 시가총액 등)에 대한 재검증이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1520,
@@ -179115,11 +179363,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/-9NVMxHcU1rAWS3swzYsLdMpbvWesk3jxTDBEQCBOvjEl9GJWEFbv4FyzF3kiAqyXBib23lmacm01ByDHNGa1eikPbXN1AE7Wx_ME_aJEnac44YIoJSPShQhK0IICY83Kp6JspVrlHUzSypkA6AbQw.svg",
+      "logo": "https://i.namu.wiki/i/-9NVMxHcU1rAWS3swzYsLdMpbvWesk3jxTDBEQCBOvjEl9GJWEFbv4FyzF3kiAqyXBib23lmacm01ByDHNGa1eikPbXN1AE7Wx_ME_aJEnac44YIoJSPShQhK0IICY83Kp6JspVrlHUzSypkA6AbQw.svg",
       "logoSearchQuery": "형지 크로커다일 샤트렌 로고 브랜드",
       "insight": "패션 대기업이 자체 개발 브랜드와 해외 라이선스 브랜드를 병행 운영하며 특정 연령대·성별 시장을 세분화해 장악하는 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/-9NVMxHcU1rAWS3swzYsLdMpbvWesk3jxTDBEQCBOvjEl9GJWEFbv4FyzF3kiAqyXBib23lmacm01ByDHNGa1eikPbXN1AE7Wx_ME_aJEnac44YIoJSPShQhK0IICY83Kp6JspVrlHUzSypkA6AbQw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%98%95%EC%A7%80)",
+          "alt": "형지 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -179216,7 +179471,8 @@
       "priorityReason": "구체적 연도·수치 정보가 부족해 추가 검증 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1521,
@@ -181019,11 +181275,18 @@
       "operatingStatusNote": "2024년 판매대금 정산 지연 사태(티메프 사태) 이후 기업회생 절차 진행",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/MOH7_vt7yQ7vMQKy_gGhkzh3a5Az2AILGxOHIcr39o7ViRt3vt99Sg0zoEyIXfS9tbVXKQ0dXeks-GH3Y1sqQP5UfZ_H3MMiW2CK7DlMiFU0MS0eXqKY7l9larFes3_IszcjgmN-pD379Wh7JC0ipQ.svg",
+      "logo": "https://i.namu.wiki/i/MOH7_vt7yQ7vMQKy_gGhkzh3a5Az2AILGxOHIcr39o7ViRt3vt99Sg0zoEyIXfS9tbVXKQ0dXeks-GH3Y1sqQP5UfZ_H3MMiW2CK7DlMiFU0MS0eXqKY7l9larFes3_IszcjgmN-pD379Wh7JC0ipQ.svg",
       "logoSearchQuery": "위메프 wemakeprice 로고",
       "insight": "초기 시장 개척자로서 확보한 트래픽과 브랜드력이 이후 지속된 적자와 유동성 위기를 상쇄하지 못했고, 판매자 정산 구조의 취약성이 플랫폼 신뢰 붕괴로 직결된 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/MOH7_vt7yQ7vMQKy_gGhkzh3a5Az2AILGxOHIcr39o7ViRt3vt99Sg0zoEyIXfS9tbVXKQ0dXeks-GH3Y1sqQP5UfZ_H3MMiW2CK7DlMiFU0MS0eXqKY7l9larFes3_IszcjgmN-pD379Wh7JC0ipQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9C%84%EB%A9%94%ED%94%84)",
+          "alt": "위메프 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -181135,7 +181398,8 @@
       "priorityReason": "2024년 정산 지연 사태 이후 회생절차 진행 상황이 유동적이어서 최신 사실관계 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1536,
@@ -183646,11 +183910,18 @@
       "operatingStatusNote": "전동킥보드 관련 안전사고·주차 민원 등으로 규제가 강화되며 업계 재편이 있었다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/WySFFupvd2TeborK0Y4sPvnskseruz21OjtJBovehqQ_Wd6FqArfXuF4_Uzyegb50NhzA2EdW2Uy8qWz3izKmh1a_kMIpI68u_wWZ1qLB9kZkNfxpWDi3graCh83-Z4UL1j7vr8FpwcY7V_R4cHjgw.svg",
+      "logo": "https://i.namu.wiki/i/WySFFupvd2TeborK0Y4sPvnskseruz21OjtJBovehqQ_Wd6FqArfXuF4_Uzyegb50NhzA2EdW2Uy8qWz3izKmh1a_kMIpI68u_wWZ1qLB9kZkNfxpWDi3graCh83-Z4UL1j7vr8FpwcY7V_R4cHjgw.svg",
       "logoSearchQuery": "킥고잉 KICKGOING 로고",
       "insight": "대중교통 정류장과 목적지 사이의 '라스트마일' 구간이라는 새로운 이동 수요를 공유 모빌리티 상품으로 포착한 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/WySFFupvd2TeborK0Y4sPvnskseruz21OjtJBovehqQ_Wd6FqArfXuF4_Uzyegb50NhzA2EdW2Uy8qWz3izKmh1a_kMIpI68u_wWZ1qLB9kZkNfxpWDi3graCh83-Z4UL1j7vr8FpwcY7V_R4cHjgw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%ED%82%A5%EA%B3%A0%EC%9E%89)",
+          "alt": "킥고잉 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -183736,7 +184007,8 @@
       "priorityReason": "군소 경쟁사가 많은 시장으로 심층 조사 우선순위는 낮음",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1556,
@@ -184432,11 +184704,18 @@
       "operatingStatusNote": "신세계그룹 계열사로 인수되어 운영되고 있다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/BfA31o_RF7FKY2eEW6Vbt0W1KEE6PvnOZCxq7eF45TwEeCHfUSfxRTJRD9jg3DaDZKlwBChx4SLHNoKxn8aDAyeXX3dVXjIlSrHHeO9MMRrGBLzgRDZdBEU63XEtlBYMvCiY8JMeUWj9ghGYLLyZxg.webp",
+      "logo": "https://i.namu.wiki/i/BfA31o_RF7FKY2eEW6Vbt0W1KEE6PvnOZCxq7eF45TwEeCHfUSfxRTJRD9jg3DaDZKlwBChx4SLHNoKxn8aDAyeXX3dVXjIlSrHHeO9MMRrGBLzgRDZdBEU63XEtlBYMvCiY8JMeUWj9ghGYLLyZxg.webp",
       "logoSearchQuery": "까사미아 casamia 로고",
       "insight": "수입 브랜드 중심 카테고리에서 디자인을 모방·재해석한 국산 대체재가 자리잡는 과정과, 이후 대형 유통그룹 인수를 통한 자본·채널 결합이라는 성장 경로를 함께 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/BfA31o_RF7FKY2eEW6Vbt0W1KEE6PvnOZCxq7eF45TwEeCHfUSfxRTJRD9jg3DaDZKlwBChx4SLHNoKxn8aDAyeXX3dVXjIlSrHHeO9MMRrGBLzgRDZdBEU63XEtlBYMvCiY8JMeUWj9ghGYLLyZxg.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EA%B9%8C%EC%82%AC%EB%AF%B8%EC%95%84)",
+          "alt": "까사미아 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -184535,7 +184814,8 @@
       "priorityReason": "신세계그룹 인수 정확한 시점 등 사실 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1562,
@@ -184555,11 +184835,18 @@
       "operatingStatusNote": "모기업인 대유위니아그룹의 유동성 위기로 경영난을 겪은 이력이 있다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/f4vkZz-Jio7tLdD5CSOYOMc21Fkvrt-9DBZTltQFfn0ufSkcgRuO-EogEukAsM1UlY4s4dl8akcXXAmwG8Y7wrTDsIaaOVbrDwB1hFiBEPC7TPBFtxRqJUGYXpfuqJwKdK7OeFx8YCT5Ki_Cf1W-Lg.svg",
+      "logo": "https://i.namu.wiki/i/f4vkZz-Jio7tLdD5CSOYOMc21Fkvrt-9DBZTltQFfn0ufSkcgRuO-EogEukAsM1UlY4s4dl8akcXXAmwG8Y7wrTDsIaaOVbrDwB1hFiBEPC7TPBFtxRqJUGYXpfuqJwKdK7OeFx8YCT5Ki_Cf1W-Lg.svg",
       "logoSearchQuery": "위니아 딤채 로고 WINIA Dimchae",
       "insight": "기존 대기업 계열사의 사업부에서 분사한 조직이 문화적 특수성(김장)에 맞춘 제품으로 신규 가전 카테고리를 창출한 사례다. 이후 지분 구조 변화와 경영권 이동이 반복되며 레거시 제조 브랜드가 겪는 소유구조 리스크를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/f4vkZz-Jio7tLdD5CSOYOMc21Fkvrt-9DBZTltQFfn0ufSkcgRuO-EogEukAsM1UlY4s4dl8akcXXAmwG8Y7wrTDsIaaOVbrDwB1hFiBEPC7TPBFtxRqJUGYXpfuqJwKdK7OeFx8YCT5Ki_Cf1W-Lg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9C%84%EB%8B%88%EC%95%84%EB%94%A4%EC%B1%84)",
+          "alt": "위니아딤채 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -184655,7 +184942,8 @@
       "priorityReason": "사명·지분 구조 변경 연도와 2023년 경영위기 이후 현재 상태에 대한 사실 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1563,
@@ -185763,11 +186051,18 @@
       "operatingStatusNote": "보성군 다원을 중심으로 재배·생산이 지속되고 있음",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/rTO2Zto16612h1eYgDj8UEA-Ii2_ZItDKNFU2Z4PdyXhNna1Q5-DP-Iae2Qfh3Pq08besvDKjTqu5o9VHs2lM0OlSlRCHZTUBc0HALT7CKSfrJXcOEka5RxJFnvQOVDAG4xnkdk3rUzCMqCX0dXhKA.svg",
+      "logo": "https://i.namu.wiki/i/rTO2Zto16612h1eYgDj8UEA-Ii2_ZItDKNFU2Z4PdyXhNna1Q5-DP-Iae2Qfh3Pq08besvDKjTqu5o9VHs2lM0OlSlRCHZTUBc0HALT7CKSfrJXcOEka5RxJFnvQOVDAG4xnkdk3rUzCMqCX0dXhKA.svg",
       "logoSearchQuery": "보성녹차 로고 전남 보성 다원 브랜드",
       "insight": "농업 생산지가 관광 자원으로 함께 발전한 사례로, 상품 브랜드와 지역 관광 브랜드가 서로를 강화하는 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/rTO2Zto16612h1eYgDj8UEA-Ii2_ZItDKNFU2Z4PdyXhNna1Q5-DP-Iae2Qfh3Pq08besvDKjTqu5o9VHs2lM0OlSlRCHZTUBc0HALT7CKSfrJXcOEka5RxJFnvQOVDAG4xnkdk3rUzCMqCX0dXhKA.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%B3%B4%EC%84%B1%EB%85%B9%EC%B0%A8)",
+          "alt": "보성녹차 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -185864,7 +186159,8 @@
       "priorityReason": "지역 공동 브랜드로 초기 조성 시점 등 세부 자료 확인이 제한적",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1573,
@@ -186126,11 +186422,18 @@
       "operatingStatusNote": "전주 지역 다수 음식점을 통해 지속 판매되는 향토 음식 브랜드",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/_w0KjERAEPilaxNv9Ly8l_xcUPDvlIPFUk9beGcKt9bFisssecVgtklASCeKSpHZYX4MwzG6ylHupAwwIpXaIa83FHCMq3vAhG3gPJT-L4yfPLUH-Ukn3qfpCar8rJmcOBB7g-oyPucshRaN1vz-hg.webp",
+      "logo": "https://i.namu.wiki/i/_w0KjERAEPilaxNv9Ly8l_xcUPDvlIPFUk9beGcKt9bFisssecVgtklASCeKSpHZYX4MwzG6ylHupAwwIpXaIa83FHCMq3vAhG3gPJT-L4yfPLUH-Ukn3qfpCar8rJmcOBB7g-oyPucshRaN1vz-hg.webp",
       "logoSearchQuery": "전주비빔밥 로고 전주 향토음식 인증마크",
       "insight": "지자체가 개별 점포들의 브랜드를 통합 관리하려는 시도(공동 상표, 품질 인증)를 한 사례로, 분산된 생계형 점포 집합을 하나의 지역 브랜드로 묶는 관리 방식의 어려움을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/_w0KjERAEPilaxNv9Ly8l_xcUPDvlIPFUk9beGcKt9bFisssecVgtklASCeKSpHZYX4MwzG6ylHupAwwIpXaIa83FHCMq3vAhG3gPJT-L4yfPLUH-Ukn3qfpCar8rJmcOBB7g-oyPucshRaN1vz-hg.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%A0%84%EC%A3%BC%EB%B9%84%EB%B9%94%EB%B0%A5)",
+          "alt": "전주비빔밥 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -186225,7 +186528,8 @@
       "priorityReason": "단일 브랜드 주체가 없는 향토 음식 카테고리로 세부 사실 확인이 제한적",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1576,
@@ -186245,11 +186549,18 @@
       "operatingStatusNote": "나주 원도심 일대에서 다수의 개별 곰탕집이 현재도 영업 중이며, 단일 법인이 아닌 향토음식 브랜드군으로 존재한다.",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/yklQaBX9wWEXN3asyc7NqtS49V96xV_-WPsWvO_jHXGgPR12oPX2teOYmjKX6rmmSQlUwLXhvzeGurbmiULEugxaDE5kQtayZ0yib-c2vbWTWkBh1AulPvIbjPoQ5QrnwPVWVQheT3hp5-kcP8CsFA.webp",
+      "logo": "https://i.namu.wiki/i/yklQaBX9wWEXN3asyc7NqtS49V96xV_-WPsWvO_jHXGgPR12oPX2teOYmjKX6rmmSQlUwLXhvzeGurbmiULEugxaDE5kQtayZ0yib-c2vbWTWkBh1AulPvIbjPoQ5QrnwPVWVQheT3hp5-kcP8CsFA.webp",
       "logoSearchQuery": "나주곰탕 하얀집 간판",
       "insight": "단일 기업이 아니라 동일 지역·동일 업종의 여러 점포가 집합적으로 '나주곰탕'이라는 지역 브랜드를 형성한 사례다. 이는 성심당형 로컬 브랜드와 달리 브랜드 주체가 분산되어 있다는 점에서 구별된다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/yklQaBX9wWEXN3asyc7NqtS49V96xV_-WPsWvO_jHXGgPR12oPX2teOYmjKX6rmmSQlUwLXhvzeGurbmiULEugxaDE5kQtayZ0yib-c2vbWTWkBh1AulPvIbjPoQ5QrnwPVWVQheT3hp5-kcP8CsFA.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95)",
+          "alt": "나주곰탕 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -186344,7 +186655,8 @@
       "priorityReason": "단일 기업 브랜드가 아닌 지역 집합 브랜드로 공식 자료가 희박해 상세 사실 확인이 추가로 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1577,
@@ -186963,11 +187275,18 @@
       "operatingStatusNote": "카카오 계열사(카카오IX 등) 구조 조정을 여러 차례 거침",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/Tb6gUfEp-vmA8qivS1189cDdniJmwCKnIONu4piaxCG3GM-ZBnKF-iGHab_isEvlV3UGn67tOofXGqkKREXTb9iEPHo7a67E2iuyLwUvmg8t7yXVfAeQU6NFFhBbw7u5S8trt2EPMI-GSvKCl5b7LA.webp",
+      "logo": "https://i.namu.wiki/i/Tb6gUfEp-vmA8qivS1189cDdniJmwCKnIONu4piaxCG3GM-ZBnKF-iGHab_isEvlV3UGn67tOofXGqkKREXTb9iEPHo7a67E2iuyLwUvmg8t7yXVfAeQU6NFFhBbw7u5S8trt2EPMI-GSvKCl5b7LA.webp",
       "logoSearchQuery": "카카오프렌즈 로고 라이언",
       "insight": "국내 메신저 서비스의 이모티콘 캐릭터가 별도 브랜드로 독립해 오프라인 리테일 사업으로 확장되는 패턴을 보여주며, 라인프렌즈와 유사한 구조적 경로를 국내 메신저 시장에서 밟았다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/Tb6gUfEp-vmA8qivS1189cDdniJmwCKnIONu4piaxCG3GM-ZBnKF-iGHab_isEvlV3UGn67tOofXGqkKREXTb9iEPHo7a67E2iuyLwUvmg8t7yXVfAeQU6NFFhBbw7u5S8trt2EPMI-GSvKCl5b7LA.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88)",
+          "alt": "카카오프렌즈 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -187064,7 +187383,8 @@
       "priorityReason": "카카오 계열사 법인명·개편 이력의 정확한 시점 확인 필요",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1583,
@@ -188445,11 +188765,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/vzzSFnV4FigTpcaU_XZsE71Szdot8SKim6YMOLnjsAni04yIRlBCxovKo2QwQL55EX0E7RSHS94o2CU-X9jUFlgmPA2otMRWPoggmruwcqOdX1dsNteCc7Et-CcklMMegs6Q1qI6EKCmx2g72zht4g.svg",
+      "logo": "https://i.namu.wiki/i/vzzSFnV4FigTpcaU_XZsE71Szdot8SKim6YMOLnjsAni04yIRlBCxovKo2QwQL55EX0E7RSHS94o2CU-X9jUFlgmPA2otMRWPoggmruwcqOdX1dsNteCc7Et-CcklMMegs6Q1qI6EKCmx2g72zht4g.svg",
       "logoSearchQuery": "메가엠디 로고 Mega MD logo",
       "insight": "일반 입시 시장 안에서도 의학계열이라는 특정 전공군을 세분화해 전문 학원 브랜드로 만든 사례로, 한국의 학벌·전공 선호가 교육 산업의 세분화를 이끄는 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/vzzSFnV4FigTpcaU_XZsE71Szdot8SKim6YMOLnjsAni04yIRlBCxovKo2QwQL55EX0E7RSHS94o2CU-X9jUFlgmPA2otMRWPoggmruwcqOdX1dsNteCc7Et-CcklMMegs6Q1qI6EKCmx2g72zht4g.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%A9%94%EA%B0%80%EC%97%A0%EB%94%94)",
+          "alt": "메가엠디 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -188531,7 +188858,8 @@
       "priorityReason": "구체적 프로그램 확장 시점에 대한 추가 검증이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1595,
@@ -188551,11 +188879,18 @@
       "operatingStatusNote": "GS건설의 주거 브랜드로 계속 사용 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/zvg6KA0Qa4JylSIJt0xf2h0JJo7BccG-D9ppuTah5skalEVLpwszu1uWdktuZ9BafzblU82XrDRnX4agVYbB-e5clI3LBfllfyUaW_6QQ0WSDPa5qcP6XjGxWy6aj9rUT9CJ5pkiBNjqxCHyPI3QEA.svg",
+      "logo": "https://i.namu.wiki/i/zvg6KA0Qa4JylSIJt0xf2h0JJo7BccG-D9ppuTah5skalEVLpwszu1uWdktuZ9BafzblU82XrDRnX4agVYbB-e5clI3LBfllfyUaW_6QQ0WSDPa5qcP6XjGxWy6aj9rUT9CJ5pkiBNjqxCHyPI3QEA.svg",
       "logoSearchQuery": "자이 Xi GS건설 아파트 로고",
       "insight": "2000년대 초 대형 건설사들이 일제히 회사명 대신 별도의 아파트 브랜드를 만들어 내세우기 시작한 것은, 주택이 상품에서 브랜드 자산으로 전환되던 한국 부동산 시장의 구조적 변화를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/zvg6KA0Qa4JylSIJt0xf2h0JJo7BccG-D9ppuTah5skalEVLpwszu1uWdktuZ9BafzblU82XrDRnX4agVYbB-e5clI3LBfllfyUaW_6QQ0WSDPa5qcP6XjGxWy6aj9rUT9CJ5pkiBNjqxCHyPI3QEA.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/GS%EC%9E%90%EC%9D%B4)",
+          "alt": "GS자이 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -188655,7 +188990,8 @@
       "priorityReason": "founded_year가 모기업 설립 연도인지 브랜드 런칭 연도인지 구분이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1596,
@@ -188675,11 +189011,18 @@
       "operatingStatusNote": "DL이앤씨의 아파트 브랜드로 계속 사용 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/HQTSGos0Ng0PRf3kb8vK-lU8HDC304SNiYIO_7_VYKUOm-iin-GFMmqCSUt03uRF0GH0k3j31esW2KTCJz7ITjvowHtwFbCa91-KUVi2DyPiMoa8OfoCQ8MISlilUDKfaNecplKdVKRzVC_L6xgRSA.svg",
+      "logo": "https://i.namu.wiki/i/HQTSGos0Ng0PRf3kb8vK-lU8HDC304SNiYIO_7_VYKUOm-iin-GFMmqCSUt03uRF0GH0k3j31esW2KTCJz7ITjvowHtwFbCa91-KUVi2DyPiMoa8OfoCQ8MISlilUDKfaNecplKdVKRzVC_L6xgRSA.svg",
       "logoSearchQuery": "이편한세상 e편한세상 로고 DL이앤씨 아파트",
       "insight": "브랜드명에 소비자 편익(편리함)을 직접적으로 담은 네이밍 전략은, 아파트 브랜드가 기술력이나 규모보다 감성적 약속을 앞세우기 시작한 시기를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/HQTSGos0Ng0PRf3kb8vK-lU8HDC304SNiYIO_7_VYKUOm-iin-GFMmqCSUt03uRF0GH0k3j31esW2KTCJz7ITjvowHtwFbCa91-KUVi2DyPiMoa8OfoCQ8MISlilUDKfaNecplKdVKRzVC_L6xgRSA.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9D%B4%ED%8E%B8%ED%95%9C%EC%84%B8%EC%83%81)",
+          "alt": "이편한세상 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -188766,7 +189109,8 @@
       "priorityReason": "브랜드 런칭 초기 세부 사실관계에 대한 추가 검증이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1597,
@@ -188786,11 +189130,18 @@
       "operatingStatusNote": "삼성물산 건설부문의 아파트 브랜드로 계속 사용 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/4solEyTjvlKsuwOmn1n9gPkUbAK-8miCQZCQc0Ov8hEghmX9JZ9PY-Ms2ZTr7uR5deJu7_-OqsS_Zd5gS1TZ8CR7wiH44g-EEsM840JN1ortzTgyFdYcT8fC3G-8DySKDw8iqONcL7mkwA-JqCutKA.svg",
+      "logo": "https://i.namu.wiki/i/4solEyTjvlKsuwOmn1n9gPkUbAK-8miCQZCQc0Ov8hEghmX9JZ9PY-Ms2ZTr7uR5deJu7_-OqsS_Zd5gS1TZ8CR7wiH44g-EEsM840JN1ortzTgyFdYcT8fC3G-8DySKDw8iqONcL7mkwA-JqCutKA.svg",
       "logoSearchQuery": "래미안 Raemian 삼성물산 로고",
       "insight": "그룹 전체의 브랜드 신뢰도를 개별 사업 영역(주거)으로 확장하는 전략은, 대기업 계열사가 신규 소비재 시장에 진입할 때 활용하는 대표적인 브랜드 확장 방식이다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/4solEyTjvlKsuwOmn1n9gPkUbAK-8miCQZCQc0Ov8hEghmX9JZ9PY-Ms2ZTr7uR5deJu7_-OqsS_Zd5gS1TZ8CR7wiH44g-EEsM840JN1ortzTgyFdYcT8fC3G-8DySKDw8iqONcL7mkwA-JqCutKA.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%9E%98%EB%AF%B8%EC%95%88)",
+          "alt": "래미안 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -188877,7 +189228,8 @@
       "priorityReason": "CI 리뉴얼 정확한 시점 등 세부 사실관계에 대한 추가 검증이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1598,
@@ -189287,11 +189639,18 @@
       "operatingStatusNote": "코스닥 상장을 추진했으며 정확한 상장 성사 여부와 시점은 추가 확인이 필요함",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/EqiFZ1J5vQkzKUhHrIxrsVZ2BC8zUtmNaAg6F-QjfyYv1RoWRf4RXa_W4lmiMpV1MLbkdGl2uj2SMBj938TlJDTqUTK0ftPC-UDJ025gI2pXJZAtPl5YDFEzEzbeUHaIBKt-dk-tC4Y7hqsiNBqt-g.svg",
+      "logo": "https://i.namu.wiki/i/EqiFZ1J5vQkzKUhHrIxrsVZ2BC8zUtmNaAg6F-QjfyYv1RoWRf4RXa_W4lmiMpV1MLbkdGl2uj2SMBj938TlJDTqUTK0ftPC-UDJ025gI2pXJZAtPl5YDFEzEzbeUHaIBKt-dk-tC4Y7hqsiNBqt-g.svg",
       "logoSearchQuery": "오아시스마켓 로고 Oasis Market logo",
       "insight": "신선식품 유통에서 오프라인 매장과 온라인 새벽배송을 병행하며 손익 관리에 집중하는 방식으로 다른 새벽배송 업체와 차별화했다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/EqiFZ1J5vQkzKUhHrIxrsVZ2BC8zUtmNaAg6F-QjfyYv1RoWRf4RXa_W4lmiMpV1MLbkdGl2uj2SMBj938TlJDTqUTK0ftPC-UDJ025gI2pXJZAtPl5YDFEzEzbeUHaIBKt-dk-tC4Y7hqsiNBqt-g.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%EB%A7%88%EC%BC%93)",
+          "alt": "오아시스마켓 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -189401,7 +189760,8 @@
       "priorityReason": "코스닥 상장 여부·시점 등 핵심 연혁 사실관계 확인이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1602,
@@ -190373,11 +190733,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/OYc05ShsCcw-wJWvM_GUzk2okOG0P0dOxzsRB6MqaugJ2Y8L5wDSCyihhhLuC-P_3zLGKoeqxZAPDtm48rwLqtLLk7gGvMpJc-dDZQvk7eS2UcPZmcKz5QXZRy3U2zNBeK2_d3qYzrlpP0irJB0kKg.svg",
+      "logo": "https://i.namu.wiki/i/OYc05ShsCcw-wJWvM_GUzk2okOG0P0dOxzsRB6MqaugJ2Y8L5wDSCyihhhLuC-P_3zLGKoeqxZAPDtm48rwLqtLLk7gGvMpJc-dDZQvk7eS2UcPZmcKz5QXZRy3U2zNBeK2_d3qYzrlpP0irJB0kKg.svg",
       "logoSearchQuery": "웰컴저축은행 로고 CI",
       "insight": "저축은행이라는 업권 특성상 신뢰 확보가 관건인데, 모바일 앱과 디지털 채널을 앞세워 시중은행과 유사한 사용자 경험을 제공하려 한 시도로 볼 수 있다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/OYc05ShsCcw-wJWvM_GUzk2okOG0P0dOxzsRB6MqaugJ2Y8L5wDSCyihhhLuC-P_3zLGKoeqxZAPDtm48rwLqtLLk7gGvMpJc-dDZQvk7eS2UcPZmcKz5QXZRy3U2zNBeK2_d3qYzrlpP0irJB0kKg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9B%B0%EC%BB%B4%EC%A0%80%EC%B6%95%EC%9D%80%ED%96%89)",
+          "alt": "웰컴저축은행 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -190472,7 +190839,8 @@
       "priorityReason": "전신 저축은행의 설립 경위, 웰컴그룹 인수 시점 등 핵심 사실관계 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1611,
@@ -190492,11 +190860,18 @@
       "operatingStatusNote": "정부(과학기술정보통신부 우정사업본부)가 운영하는 공영 보험",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/U66BdlPhbSPSIA3ZyHFYT7XElSLvzA5Yj-2L2Oft_srMAqFGYbxtp1qK3zQ5m7ut9BVq60lzgHsFtxfICm2sCpM_JChPjmTHIqvWdrn9Fwv09N5fp_pQZbjRrMVsrHgsAqs6ss68u_7SaF8HX414lQ.svg",
+      "logo": "https://i.namu.wiki/i/U66BdlPhbSPSIA3ZyHFYT7XElSLvzA5Yj-2L2Oft_srMAqFGYbxtp1qK3zQ5m7ut9BVq60lzgHsFtxfICm2sCpM_JChPjmTHIqvWdrn9Fwv09N5fp_pQZbjRrMVsrHgsAqs6ss68u_7SaF8HX414lQ.svg",
       "logoSearchQuery": "우체국보험 로고 CI",
       "insight": "민간 보험사가 아닌 국가 기관이 전국 우체국 창구를 통해 보험 상품을 직접 판매하는 구조로, 민간 금융 인프라가 부족한 지역까지 보험 접근성을 확보한 공공 금융 모델의 사례다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/U66BdlPhbSPSIA3ZyHFYT7XElSLvzA5Yj-2L2Oft_srMAqFGYbxtp1qK3zQ5m7ut9BVq60lzgHsFtxfICm2sCpM_JChPjmTHIqvWdrn9Fwv09N5fp_pQZbjRrMVsrHgsAqs6ss68u_7SaF8HX414lQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%9A%B0%EC%B2%B4%EA%B5%AD%EB%B3%B4%ED%97%98)",
+          "alt": "우체국보험 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -190593,7 +190968,8 @@
       "priorityReason": "해방 이후 명칭 변경 및 제도 재편 시점 등 구체적 연도 확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1612,
@@ -191097,11 +191473,18 @@
       "operatingStatusNote": "현대카드가 운영하는 문화·라이프스타일 콘텐츠 플랫폼으로 계속 서비스 중",
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/p1nn6y83V5R8dxJaBqalz5L9GyaUD3iIabKDCxl713Hqhvox7qG1z27SMl3TwEw04wkuD4Z_KU4mMmlkIqPqmq6J6Z53IW6sFav9-MTSIxe60xvxUBPVQ8hnjR344SUQHN1VaufZi4TuU0QamaNhqw.svg",
+      "logo": "https://i.namu.wiki/i/p1nn6y83V5R8dxJaBqalz5L9GyaUD3iIabKDCxl713Hqhvox7qG1z27SMl3TwEw04wkuD4Z_KU4mMmlkIqPqmq6J6Z53IW6sFav9-MTSIxe60xvxUBPVQ8hnjR344SUQHN1VaufZi4TuU0QamaNhqw.svg",
       "logoSearchQuery": "현대카드 DIVE 로고 Hyundai Card DIVE logo",
       "insight": "금융사가 문화 콘텐츠 큐레이터 역할을 자처하며 상품이 아닌 브랜드 경험으로 고객 충성도를 형성했다. 오프라인 라이브러리 자산을 디지털 플랫폼으로 확장한 것이 특징이다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/p1nn6y83V5R8dxJaBqalz5L9GyaUD3iIabKDCxl713Hqhvox7qG1z27SMl3TwEw04wkuD4Z_KU4mMmlkIqPqmq6J6Z53IW6sFav9-MTSIxe60xvxUBPVQ8hnjR344SUQHN1VaufZi4TuU0QamaNhqw.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 '현대카드' 문서 대표 이미지(모브랜드 로고, DIVE 서브브랜드 전용 로고 아님) — 공식 출처 미검증, 연구/비교 목적으로만 사용",
+          "alt": "현대카드DIVE logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -191198,7 +191581,8 @@
       "priorityReason": "DIVE 플랫폼의 정확한 출시 시점과 사업 구조에 대한 추가 확인이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1617,
@@ -191456,11 +191840,18 @@
       "operatingStatusNote": "11번가 플랫폼 내 도서 전문관 형태로 운영",
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/6TGzvyjNW1t3pGvi-DGtduywET0J1icqsK-PT4VEWNJ-iGUnz76BINCW1_eYTMh__3EQ0bTGfxKMJwOCdoM7EDSAd8pBFvdufB_Vm0k1yFcskjH_7lWe2zYqs-WOv4fh_lGFPdl3sILn6WpVo7gS7w.svg",
+      "logo": "https://i.namu.wiki/i/6TGzvyjNW1t3pGvi-DGtduywET0J1icqsK-PT4VEWNJ-iGUnz76BINCW1_eYTMh__3EQ0bTGfxKMJwOCdoM7EDSAd8pBFvdufB_Vm0k1yFcskjH_7lWe2zYqs-WOv4fh_lGFPdl3sILn6WpVo7gS7w.svg",
       "logoSearchQuery": "11번가 도서 로고 11st book",
       "insight": "종합 오픈마켓이 카테고리 전문관을 통해 버티컬 시장(도서)에 진입할 때 기존 전문몰과 경쟁하기보다 채널 다변화 옵션으로 자리잡는 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/6TGzvyjNW1t3pGvi-DGtduywET0J1icqsK-PT4VEWNJ-iGUnz76BINCW1_eYTMh__3EQ0bTGfxKMJwOCdoM7EDSAd8pBFvdufB_Vm0k1yFcskjH_7lWe2zYqs-WOv4fh_lGFPdl3sILn6WpVo7gS7w.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8F%84%EC%84%9C11%EB%B2%88%EA%B0%80)",
+          "alt": "도서11번가 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -191542,7 +191933,8 @@
       "priorityReason": "독립 브랜드가 아닌 11번가 내 카테고리 사업으로 공개된 개별 연혁 정보가 적음",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1620,
@@ -191924,11 +192316,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/jRoSFa_SXMyzRyWYi6AE1OsqecP_RW3EzySucYUP2N_2QrZJO91ZXH2kOL4eG2W5AXOtrMGbZKrwYb43l8xKdTY_95Npefyfb9uSZS6wIsRq4WdLCSS68-g0RdwbZmef8NkQX7wy3ch0KaDQiMN5Hw.webp",
+      "logo": "https://i.namu.wiki/i/jRoSFa_SXMyzRyWYi6AE1OsqecP_RW3EzySucYUP2N_2QrZJO91ZXH2kOL4eG2W5AXOtrMGbZKrwYb43l8xKdTY_95Npefyfb9uSZS6wIsRq4WdLCSS68-g0RdwbZmef8NkQX7wy3ch0KaDQiMN5Hw.webp",
       "logoSearchQuery": "코리아나화장품 Coreana Cosmetics 로고",
       "insight": "대형 화장품 대기업들의 그늘 속에서도 독자 브랜드와 유통 채널을 유지하며 장기간 존속한 중견 제조사의 생존 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/jRoSFa_SXMyzRyWYi6AE1OsqecP_RW3EzySucYUP2N_2QrZJO91ZXH2kOL4eG2W5AXOtrMGbZKrwYb43l8xKdTY_95Npefyfb9uSZS6wIsRq4WdLCSS68-g0RdwbZmef8NkQX7wy3ch0KaDQiMN5Hw.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%EB%82%98%ED%99%94%EC%9E%A5%ED%92%88)",
+          "alt": "코리아나화장품 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -192027,7 +192426,8 @@
       "priorityReason": "창업 연도 및 초기 연혁의 구체적 사실 확인이 부족함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1624,
@@ -192176,11 +192576,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/xtqzhqN7DoOWtn8AgcoE8ILmXqj4rD_MfJCSM5_qpPYoiwf0HmDp-eRN7NYQbYWl9vDL91izTR8cO2FrjIKMvVjsWnB_5eKxZSv3L-W3Pz2UBb8f1YsHdumYWDYhLizmqq9hvUzZ8ka2YDPJosF0UQ.svg",
+      "logo": "https://i.namu.wiki/i/xtqzhqN7DoOWtn8AgcoE8ILmXqj4rD_MfJCSM5_qpPYoiwf0HmDp-eRN7NYQbYWl9vDL91izTR8cO2FrjIKMvVjsWnB_5eKxZSv3L-W3Pz2UBb8f1YsHdumYWDYhLizmqq9hvUzZ8ka2YDPJosF0UQ.svg",
       "logoSearchQuery": "소망화장품 꽃을든남자 로고",
       "insight": "여성 중심으로 형성된 화장품 시장에서 성별 세분화를 통해 새로운 소비자층(남성)을 발굴한 사례로, 카테고리 개척이 후발 제조사의 차별화 전략이 될 수 있음을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/xtqzhqN7DoOWtn8AgcoE8ILmXqj4rD_MfJCSM5_qpPYoiwf0HmDp-eRN7NYQbYWl9vDL91izTR8cO2FrjIKMvVjsWnB_5eKxZSv3L-W3Pz2UBb8f1YsHdumYWDYhLizmqq9hvUzZ8ka2YDPJosF0UQ.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%86%8C%EB%A7%9D%ED%99%94%EC%9E%A5%ED%92%88)",
+          "alt": "소망화장품 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -192279,7 +192686,8 @@
       "priorityReason": "꽃을든남자 출시 정확 연도 등 세부 사실의 재확인이 필요함",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1626,
@@ -192299,11 +192707,18 @@
       "operatingStatusNote": "브랜드 소유·운영 주체가 시기별로 변경된 것으로 알려짐",
       "tier": "C_source_backed",
       "rating": 3.8,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/TsTtFoMnaZg-HMIcKOyevXa6YUmDMxJv4SoNuoDqg9eSsSQ9UfyQaAM2qLnhaV6OM4f09-1SddE15Kfxx84Ue9N5DYXquDk4FQGIQpUZ09SjWfdMyWUXLl-Nz2LquxN6f4jy0G-blhPrR9f22iu1bw.webp",
+      "logo": "https://i.namu.wiki/i/TsTtFoMnaZg-HMIcKOyevXa6YUmDMxJv4SoNuoDqg9eSsSQ9UfyQaAM2qLnhaV6OM4f09-1SddE15Kfxx84Ue9N5DYXquDk4FQGIQpUZ09SjWfdMyWUXLl-Nz2LquxN6f4jy0G-blhPrR9f22iu1bw.webp",
       "logoSearchQuery": "엔프라니 Enprani 에이지투웨니스 로고",
       "insight": "기존 채널에서 어려움을 겪던 화장품 제조사가 편의점이라는 비전통 유통 채널을 통해 재도약한 사례로, 유통 채널 전환이 브랜드 재생의 계기가 될 수 있음을 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/TsTtFoMnaZg-HMIcKOyevXa6YUmDMxJv4SoNuoDqg9eSsSQ9UfyQaAM2qLnhaV6OM4f09-1SddE15Kfxx84Ue9N5DYXquDk4FQGIQpUZ09SjWfdMyWUXLl-Nz2LquxN6f4jy0G-blhPrR9f22iu1bw.webp",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EC%97%94%ED%94%84%EB%9D%BC%EB%8B%88)",
+          "alt": "엔프라니 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -192402,7 +192817,8 @@
       "priorityReason": "경영권·지분 변동 이력에 대한 확인이 필요하며 상세 사실 검증 가치가 있음",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     },
     {
       "id": 1627,
@@ -192653,11 +193069,18 @@
       "operatingStatusNote": null,
       "tier": "C_source_backed",
       "rating": 4,
-      "image": "",
-      "logo": "",
+      "image": "https://i.namu.wiki/i/M9gF_FlpaW1A72lEMLW7wnChqRXaeOrl0AyLI3BR6wafwpDngQcYzjz24TLE-qOlV-ixtNYhwmvFzoRYpTiNyxz8XfchjA5GeV2vSAZqmi79IMTjW2s0JYWx6-pvcgye4yltBLUQkRL3V-AY9t7pPg.svg",
+      "logo": "https://i.namu.wiki/i/M9gF_FlpaW1A72lEMLW7wnChqRXaeOrl0AyLI3BR6wafwpDngQcYzjz24TLE-qOlV-ixtNYhwmvFzoRYpTiNyxz8XfchjA5GeV2vSAZqmi79IMTjW2s0JYWx6-pvcgye4yltBLUQkRL3V-AY9t7pPg.svg",
       "logoSearchQuery": "곰표 대한제분 로고 곰 캐릭터",
       "insight": "제조업 중심의 전통 B2C 브랜드가 본업 제품이 아닌 로고·캐릭터 자산을 통해 뉴트로 트렌드의 중심에 서게 된 사례다. 레거시 브랜드가 컬래버레이션을 매개로 세대를 넘나드는 브랜드 인지도를 재획득하는 구조를 보여준다.",
-      "logoHistory": [],
+      "logoHistory": [
+        {
+          "src": "https://i.namu.wiki/i/M9gF_FlpaW1A72lEMLW7wnChqRXaeOrl0AyLI3BR6wafwpDngQcYzjz24TLE-qOlV-ixtNYhwmvFzoRYpTiNyxz8XfchjA5GeV2vSAZqmi79IMTjW2s0JYWx6-pvcgye4yltBLUQkRL3V-AY9t7pPg.svg",
+          "label": "대표 로고 (비공식·연구용)",
+          "note": "나무위키 문서 대표 이미지 기반, 공식 출처 미검증 — 연구/비교 목적으로만 사용 (출처: https://namu.wiki/w/%EB%8C%80%ED%95%9C%EC%A0%9C%EB%B6%84)",
+          "alt": "대한제분곰표 logo (unofficial)"
+        }
+      ],
       "sections": {
         "overview": {
           "title": "개요",
@@ -192753,7 +193176,8 @@
       "priorityReason": "대한제분의 정확한 설립 연도와 곰표 브랜드 출시 시점에 대한 사실 재확인이 필요하다.",
       "publicReady": true,
       "displayPriority": "normal",
-      "sourceBatch": "300-brands-pipeline-2026"
+      "sourceBatch": "300-brands-pipeline-2026",
+      "logoSourceTier": "unofficial-research-only"
     }
   ],
   "koreanSources": [
