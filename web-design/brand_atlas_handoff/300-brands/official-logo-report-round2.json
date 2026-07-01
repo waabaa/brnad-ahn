@@ -1,0 +1,400 @@
+{
+  "attempted": 56,
+  "matched": 16,
+  "failed": 40,
+  "results": [
+    {
+      "id": 1417,
+      "name": "공차코리아",
+      "domain": "https://www.gong-cha.co.kr",
+      "logoUrl": "https://www.gong-cha.co.kr/favicon/ogImage.jpg",
+      "ok": true
+    },
+    {
+      "id": 1418,
+      "name": "카페베네",
+      "domain": "https://www.caffebene.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1421,
+      "name": "빙그레바나나맛우유",
+      "domain": "https://www.binggrae.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1427,
+      "name": "사조대림",
+      "domain": "https://www.sajodaelim.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1428,
+      "name": "유한킴벌리",
+      "domain": "https://www.yuhankimberly.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1436,
+      "name": "카카오페이지",
+      "domain": "https://page.kakao.com",
+      "logoUrl": "https://page.kakaocdn.net/pageweb/ogImage.png",
+      "ok": true
+    },
+    {
+      "id": 1439,
+      "name": "카카오T",
+      "domain": "https://www.kakaomobility.com",
+      "logoUrl": "https://www.kakaomobility.com/opengraph.jpg",
+      "ok": true
+    },
+    {
+      "id": 1450,
+      "name": "할리스커피",
+      "domain": "https://www.hollys.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1453,
+      "name": "네이버쇼핑",
+      "domain": "https://shopping.naver.com",
+      "status": 405,
+      "ok": false
+    },
+    {
+      "id": 1454,
+      "name": "크림",
+      "domain": "https://kream.co.kr",
+      "logoUrl": "https://kream-phinf.pstatic.net/MjAyNDAxMTJfMTQ4/MDAxNzA1MDQxNjE0MTMz.c956hir6rKZSyQUFYX1prj8qyo8LuyDzfXtDtFx595Ig.DWbSMrExDH22bv3jmz29B4VsiGv8aNukww_UnI8iB6Qg.PNG/a_2c9295bebd5b4374ac728f6964bb402e.png",
+      "ok": true
+    },
+    {
+      "id": 1455,
+      "name": "현대카드",
+      "domain": "https://www.hyundaicard.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1458,
+      "name": "CGV",
+      "domain": "https://www.cgv.co.kr",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1459,
+      "name": "롯데제과",
+      "domain": "https://www.lotteconfectionery.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1468,
+      "name": "종근당건강",
+      "domain": "https://www.ckdhc.com",
+      "logoUrl": "https://www.ckdhc.com/images/pc/common/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1472,
+      "name": "눈높이",
+      "domain": "https://www.noonnoppi.com",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1478,
+      "name": "비상교육",
+      "domain": "https://www.visang.com",
+      "logoUrl": "https://www.visang.com/images/favicon.png",
+      "ok": true
+    },
+    {
+      "id": 1487,
+      "name": "튼튼영어",
+      "domain": "https://www.tuntun.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1495,
+      "name": "탐앤탐스",
+      "domain": "https://www.tomntoms.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1499,
+      "name": "설빙",
+      "domain": "https://www.sulbing.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1505,
+      "name": "놀부",
+      "domain": "https://www.nolboo.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1506,
+      "name": "동아연필",
+      "domain": "https://www.dongapencil.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1507,
+      "name": "알파문구",
+      "domain": "https://www.alpha.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1508,
+      "name": "모닝글로리",
+      "domain": "https://www.morningglory.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1509,
+      "name": "깨끗한나라",
+      "domain": "https://www.kleannara.co.kr",
+      "logoUrl": "https://www.kleannara.co.kr/front/ko/images/snsshare.jpg",
+      "ok": true
+    },
+    {
+      "id": 1510,
+      "name": "쌍방울",
+      "domain": "https://www.ssangbangwool.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1512,
+      "name": "불스원",
+      "domain": "https://www.bullsone.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1513,
+      "name": "동국제약",
+      "domain": "https://www.dongkookpharm.com",
+      "logoUrl": "data:,",
+      "ok": false,
+      "reason": "image url not verifiable"
+    },
+    {
+      "id": 1515,
+      "name": "녹십자",
+      "domain": "https://www.gccorp.com",
+      "logoUrl": "https://www.gccorp.com/kor/image/logo.svg",
+      "ok": true
+    },
+    {
+      "id": 1518,
+      "name": "어퓨",
+      "domain": "https://www.apieu.com",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1524,
+      "name": "에잇세컨즈",
+      "domain": "https://www.8seconds.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1525,
+      "name": "빈폴",
+      "domain": "https://www.beanpole.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1531,
+      "name": "에이블리",
+      "domain": "https://www.a-bly.com",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1535,
+      "name": "위메프",
+      "domain": "https://www.wemakeprice.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1537,
+      "name": "G마켓",
+      "domain": "https://www.gmarket.co.kr",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1547,
+      "name": "영풍문고",
+      "domain": "https://www.ypbooks.co.kr",
+      "logoUrl": "https://cdn.ypbooks.co.kr/front_web/assets/img/241111_link_thumbnail_v1.jpg",
+      "ok": true
+    },
+    {
+      "id": 1548,
+      "name": "아이코닉스",
+      "domain": "https://www.iconix.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1555,
+      "name": "킥고잉",
+      "domain": "https://www.kickgoing.com",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1557,
+      "name": "현대리바트",
+      "domain": "https://www.hyundailivart.co.kr",
+      "logoUrl": "https://static.hyundailivart.co.kr/assets/images/common/livart.svg",
+      "ok": true
+    },
+    {
+      "id": 1558,
+      "name": "에넥스",
+      "domain": "https://www.enex.co.kr",
+      "logoUrl": "https://www.enex.co.kr/data/common/snsRepresentImage.jpg?v=1772600235",
+      "ok": true
+    },
+    {
+      "id": 1561,
+      "name": "까사미아",
+      "domain": "https://www.casamia.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1563,
+      "name": "트리플래닛",
+      "domain": "https://www.treepla.net",
+      "logoUrl": "https://cdn.imweb.me/upload/S202603067e88aff445842/431c502b80019.png",
+      "ok": true
+    },
+    {
+      "id": 1578,
+      "name": "핏펫",
+      "domain": "https://www.fitpet.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1582,
+      "name": "카카오프렌즈",
+      "domain": "https://www.kakaofriends.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1584,
+      "name": "아가방앤컴퍼니",
+      "domain": "https://www.agabang.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1592,
+      "name": "차병원그룹",
+      "domain": "https://www.chamc.co.kr",
+      "logoUrl": "https://www.chamc.co.kr/asset/img/kakao_img.jpg",
+      "ok": true
+    },
+    {
+      "id": 1597,
+      "name": "래미안",
+      "domain": "https://www.raemian.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1598,
+      "name": "힐스테이트",
+      "domain": "https://www.hillstate.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1600,
+      "name": "부동산114",
+      "domain": "https://www.r114.com",
+      "logoUrl": "https://r114.com/opengraph-image.png?9ec1e67b2e6bc6d6",
+      "ok": true
+    },
+    {
+      "id": 1602,
+      "name": "메가박스",
+      "domain": "https://www.megabox.co.kr",
+      "logoUrl": "https://img.megabox.co.kr/SharedImg/metaTag/2020/02/04/gFfTzMwwiCxhBwcUV5TRGMFX9Cmoj64W.jpg",
+      "ok": true
+    },
+    {
+      "id": 1609,
+      "name": "롯데칠성",
+      "domain": "https://www.lottechilsung.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1620,
+      "name": "윌라",
+      "domain": "https://www.welaaa.com",
+      "logoUrl": "https://static.welaaa.co.kr/static/kakao/welaaa_og_251229.png",
+      "ok": true
+    },
+    {
+      "id": 1622,
+      "name": "잉크테크",
+      "domain": "https://www.inktec.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1623,
+      "name": "코리아나화장품",
+      "domain": "https://www.coreana.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1625,
+      "name": "소망화장품",
+      "domain": "https://www.somang.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1626,
+      "name": "엔프라니",
+      "domain": "https://www.enprani.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1627,
+      "name": "내추럴플러스",
+      "domain": "https://www.naturalplus.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    }
+  ]
+}

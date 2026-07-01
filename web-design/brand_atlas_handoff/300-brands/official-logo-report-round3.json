@@ -1,0 +1,84 @@
+{
+  "attempted": 11,
+  "matched": 6,
+  "failed": 5,
+  "results": [
+    {
+      "id": 1168,
+      "name": "넥슨",
+      "domain": "https://www.nexon.com",
+      "logoUrl": "https://ssl.nexon.com/s2/p3/main/nexon.png",
+      "ok": true
+    },
+    {
+      "id": 1177,
+      "name": "오리온",
+      "domain": "https://www.orionworld.com",
+      "logoUrl": "https://www.orionworld.com/theme/102114/kr/assets/images/ogImage.jpg",
+      "ok": true
+    },
+    {
+      "id": 1434,
+      "name": "창비",
+      "domain": "https://changbi.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1440,
+      "name": "한살림",
+      "domain": "https://hansalim.or.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1442,
+      "name": "두손컴퍼니",
+      "domain": "https://www.doosohn.com",
+      "logoUrl": "https://img1.wsimg.com/isteam/getty/859532976",
+      "ok": true
+    },
+    {
+      "id": 1444,
+      "name": "행복나래",
+      "domain": "https://www.happynarae.com",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1568,
+      "name": "강화섬쌀",
+      "domain": "https://www.ganghwaisland.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1613,
+      "name": "스타트업얼라이언스",
+      "domain": "https://www.startupall.kr",
+      "logoUrl": "https://www.startupall.kr/images/new_og.png",
+      "ok": true
+    },
+    {
+      "id": 1614,
+      "name": "디캠프",
+      "domain": "https://dcamp.kr",
+      "logoUrl": "https://dcamp.kr/images/og-image.jpg?v=2",
+      "ok": true
+    },
+    {
+      "id": 1615,
+      "name": "한국콘텐츠진흥원",
+      "domain": "https://www.kocca.kr",
+      "logoUrl": "https://kocca.kr/logoK.jpg",
+      "ok": true
+    },
+    {
+      "id": 1617,
+      "name": "아트조선",
+      "domain": "https://art.chosun.com",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     <article class="mock-panel" id="insights" style="margin-top:28px"><h2><span>04</span>브랜드 인사이트</h2><div class="insight-list vertical" id="insightList"></div></article>
     <article class="mock-panel" id="admin" style="margin-top:28px"><h2><span>05</span>운영자 관리자</h2><div class="admin-list" id="adminList"></div></article>
   </div>
-</section></main><script src="../app.js?v=20260629d" defer></script><script>document.addEventListener("DOMContentLoaded", () => {
+</section><footer class="footer"><nav class="footer-nav" aria-label="사이트맵"><a href="../pages/brands.html">전체 브랜드 목록</a> · <a href="../pages/industry.html">산업별 탐색</a> · <a href="../pages/insights.html">브랜드 인사이트</a> · <a href="../pages/timeline.html">타임라인</a> · <a href="../pages/bici.html">BI/CI 아카이브</a> · <a href="../pages/search.html">검색</a></nav><span>브랜드는 시대를 기록하고, 문화를 만들며, 미래를 설계합니다.</span><div class="footer-brand"><img src="../assets/objects/archetypos_logo.png" alt="아키타이포스 로고" width="284" height="66" decoding="async"><span>브랜드성장연구소 <b>아키타이포스</b></span></div></footer></main><script src="../app.js?v=20260629d" defer></script><script>document.addEventListener("DOMContentLoaded", () => {
 document.getElementById("head").innerHTML = header("검색");
 loadData().then(d => {
   const allBrands = d.allBrands || d.brands;

@@ -1,0 +1,805 @@
+{
+  "attempted": 114,
+  "matched": 87,
+  "failed": 27,
+  "results": [
+    {
+      "id": 695,
+      "name": "닥터자르트",
+      "domain": "https://www.drjart.com",
+      "logoUrl": "https://www.drjart.com/sites/drjart/themes/drjart_base/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1212,
+      "name": "카카오페이",
+      "domain": "https://www.kakaopay.com",
+      "logoUrl": "https://t1.daumcdn.net/kakaopay/homepage/og/kakaopay_og_20190524.png",
+      "ok": true
+    },
+    {
+      "id": 1235,
+      "name": "두나무",
+      "domain": "https://www.dunamu.com",
+      "logoUrl": "https://www.dunamu.com/images/img_dunamu_share.png",
+      "ok": true
+    },
+    {
+      "id": 1325,
+      "name": "쿠쿠",
+      "domain": "https://www.cuckoo.co.kr",
+      "logoUrl": "https://cdn.cuckoo.co.kr/upload_cuckoo/pc/images/common/favicon.png",
+      "ok": true
+    },
+    {
+      "id": 1377,
+      "name": "더본코리아",
+      "domain": "https://www.theborn.co.kr",
+      "logoUrl": "https://www.theborn.co.kr/wp-content/uploads/2017/07/cropped-theborn_favi-32x32.png",
+      "ok": true
+    },
+    {
+      "id": 1416,
+      "name": "웅진씽크빅",
+      "domain": "https://www.wjthinkbig.com",
+      "logoUrl": "https://www.wjthinkbig.com/re/images/meta/meta_thumb_02.png",
+      "ok": true
+    },
+    {
+      "id": 1417,
+      "name": "공차코리아",
+      "domain": "https://www.gongcha.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1418,
+      "name": "카페베네",
+      "domain": "https://www.caffebene.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1419,
+      "name": "동화약품활명수",
+      "domain": "https://www.dong-wha.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1420,
+      "name": "한국야쿠르트",
+      "domain": "https://www.hy.co.kr",
+      "logoUrl": "https://www.hy.co.kr/images/kr/common/hy-brand-logo.jpg",
+      "ok": true
+    },
+    {
+      "id": 1421,
+      "name": "빙그레바나나맛우유",
+      "domain": "https://www.binggrae.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1423,
+      "name": "청정원",
+      "domain": "https://www.chungjungone.com",
+      "logoUrl": "https://www.chungjungone.com/wp-content/uploads/2022/05/og_img2.png",
+      "ok": true
+    },
+    {
+      "id": 1424,
+      "name": "종가집",
+      "domain": "https://www.jongga.co.kr",
+      "logoUrl": "https://www.jongga.co.kr/wp-content/themes/jongga/assets/images/logo/og_img2.png",
+      "ok": true
+    },
+    {
+      "id": 1425,
+      "name": "동원참치",
+      "domain": "https://www.dongwon.com",
+      "logoUrl": "https://www.dongwon.com/asset/image/og/ci_dongwon_group.jpg",
+      "ok": true
+    },
+    {
+      "id": 1426,
+      "name": "하림",
+      "domain": "https://www.harim.com",
+      "logoUrl": "https://www.harim.com/main/img/ci.png",
+      "ok": true
+    },
+    {
+      "id": 1428,
+      "name": "유한킴벌리",
+      "domain": "https://www.yuhan-kimberly.co.kr",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1429,
+      "name": "아름다운가게",
+      "domain": "https://www.beautifulstore.org",
+      "logoUrl": "https://www.beautifulstore.org/wp-content/themes/bs/images/bs-image.png",
+      "ok": true
+    },
+    {
+      "id": 1430,
+      "name": "한세실업",
+      "domain": "https://www.hansae.com",
+      "logoUrl": "https://www.hansae.com/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1432,
+      "name": "번개장터",
+      "domain": "https://www.bunjang.co.kr",
+      "logoUrl": "https://static.bunjang.co.kr/web/ui/og-image.webp",
+      "ok": true
+    },
+    {
+      "id": 1433,
+      "name": "쿠팡이츠",
+      "domain": "https://www.coupangeats.com",
+      "logoUrl": "https://www.coupangeats.com/wp-content/uploads/2022/05/20220502_%EC%BF%A0%ED%8C%A1%EC%9D%B4%EC%B8%A02982-1-copy.jpg",
+      "ok": true
+    },
+    {
+      "id": 1434,
+      "name": "창비",
+      "domain": "https://www.changbi.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1435,
+      "name": "시사IN",
+      "domain": "https://www.sisain.co.kr",
+      "logoUrl": "https://www.sisain.co.kr/image/logo/snslogo_20240404115546.png",
+      "ok": true
+    },
+    {
+      "id": 1437,
+      "name": "멜론",
+      "domain": "https://www.melon.com",
+      "logoUrl": "https://cdnimg.melon.co.kr/resource/image/web/common/logo_melon142x99.png",
+      "ok": true
+    },
+    {
+      "id": 1440,
+      "name": "한살림",
+      "domain": "https://www.hansalim.or.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1441,
+      "name": "아이쿱생협",
+      "domain": "https://www.icoop.or.kr",
+      "logoUrl": "https://www.icoop.or.kr/coopmall/images/favi/meta_link_image_new.jpg",
+      "ok": true
+    },
+    {
+      "id": 1445,
+      "name": "라인프렌즈",
+      "domain": "https://www.linefriends.com",
+      "logoUrl": "https://cdn.prod.website-files.com/69311b39f8f16a9fc0469883/698571693c05e350d486de91_add%20OG%20img.png",
+      "ok": true
+    },
+    {
+      "id": 1446,
+      "name": "케이뱅크",
+      "domain": "https://www.kbanknow.com",
+      "logoUrl": "https://cdnisb.kbanknow.com/resource/images/web/og/og-image.png",
+      "ok": true
+    },
+    {
+      "id": 1447,
+      "name": "다방",
+      "domain": "https://www.dabangapp.com",
+      "logoUrl": "https://static.dabangapp.com/img/opengraph.png",
+      "ok": true
+    },
+    {
+      "id": 1448,
+      "name": "스테이폴리오",
+      "domain": "https://www.stayfolio.com",
+      "logoUrl": "https://www.stayfolio.com/logo-512.png",
+      "ok": true
+    },
+    {
+      "id": 1450,
+      "name": "할리스커피",
+      "domain": "https://www.hollys.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1451,
+      "name": "BGF리테일CU",
+      "domain": "https://cu.bgfretail.com",
+      "logoUrl": "https://cu.bgfretail.com/images/facebook.jpg",
+      "ok": true
+    },
+    {
+      "id": 1452,
+      "name": "코스트코코리아",
+      "domain": "https://www.costco.co.kr",
+      "logoUrl": "https://www.costco.co.kr/_ui/responsive/common/images/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1454,
+      "name": "크림",
+      "domain": "https://kream.co.kr",
+      "status": 500,
+      "ok": false
+    },
+    {
+      "id": 1455,
+      "name": "현대카드",
+      "domain": "https://www.hyundaicard.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1456,
+      "name": "에버랜드",
+      "domain": "https://www.everland.com",
+      "logoUrl": "https://www.everland.com/contents/ia/contents/common/everland_thumbnail.jpg",
+      "ok": true
+    },
+    {
+      "id": 1457,
+      "name": "롯데월드",
+      "domain": "https://www.lotteworld.com",
+      "logoUrl": "https://www.lotteworld.com/og/og_img_lotteworld_group.jpg",
+      "ok": true
+    },
+    {
+      "id": 1458,
+      "name": "CGV",
+      "domain": "https://www.cgv.co.kr",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1460,
+      "name": "기업은행",
+      "domain": "https://www.ibk.co.kr",
+      "logoUrl": "https://www.ibk.co.kr/img/logo800.png",
+      "ok": true
+    },
+    {
+      "id": 1461,
+      "name": "신한카드",
+      "domain": "https://www.shinhancard.com",
+      "logoUrl": "https://www.shinhancard.com/pconts/static/images/common/share/default_share.png",
+      "ok": true
+    },
+    {
+      "id": 1462,
+      "name": "서울옥션",
+      "domain": "https://www.seoulauction.com",
+      "logoUrl": "https://www.seoulauction.com/images/common/open_graph_image.png",
+      "ok": true
+    },
+    {
+      "id": 1463,
+      "name": "케이옥션",
+      "domain": "https://www.k-auction.com",
+      "logoUrl": "https://www.k-auction.com/img/kauction_thumbnail.jpg",
+      "ok": true
+    },
+    {
+      "id": 1464,
+      "name": "예술의전당",
+      "domain": "https://www.sac.or.kr",
+      "logoUrl": "https://www.sac.or.kr/design/theme/sac/images/logo-200x200.gif",
+      "ok": true
+    },
+    {
+      "id": 1465,
+      "name": "국립현대미술관",
+      "domain": "https://www.mmca.go.kr",
+      "logoUrl": "https://www.mmca.go.kr/asset/images/common/preview_logo.png",
+      "ok": true
+    },
+    {
+      "id": 1466,
+      "name": "밀리의서재",
+      "domain": "https://www.millie.co.kr",
+      "logoUrl": "https://www.millie.co.kr/images/millie_default_img.png",
+      "ok": true
+    },
+    {
+      "id": 1467,
+      "name": "한글과컴퓨터",
+      "domain": "https://www.hancom.com",
+      "logoUrl": "https://www.hancom.com/images/og/og_main_20260519.png",
+      "ok": true
+    },
+    {
+      "id": 1469,
+      "name": "메가스터디",
+      "domain": "https://www.megastudy.net",
+      "logoUrl": "https://img.megastudy.net/common/og-image.png",
+      "ok": true
+    },
+    {
+      "id": 1473,
+      "name": "에듀윌",
+      "domain": "https://www.eduwill.net",
+      "logoUrl": "https://img.eduwill.net/resources/common/web/images/gnb/og_logo.png",
+      "ok": true
+    },
+    {
+      "id": 1474,
+      "name": "이투스",
+      "domain": "https://www.etoos.com",
+      "logoUrl": "https://img.etoos.com/enp/front/main/icons/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1475,
+      "name": "천재교육",
+      "domain": "https://www.chunjae.co.kr",
+      "logoUrl": "https://www.chunjae.co.kr/webdata/_cj/www/meta/chunjae_logo.png",
+      "ok": true
+    },
+    {
+      "id": 1476,
+      "name": "디딤돌",
+      "domain": "https://www.didimdol.co.kr",
+      "logoUrl": "https://www.didimdol.co.kr/images/favicon/favicon3.png",
+      "ok": true
+    },
+    {
+      "id": 1478,
+      "name": "비상교육",
+      "domain": "https://www.visang.com",
+      "logoUrl": "https://www.visang.com/images/favicon.png",
+      "ok": true
+    },
+    {
+      "id": 1479,
+      "name": "아이스크림에듀",
+      "domain": "https://www.i-screamedu.co.kr",
+      "logoUrl": "https://www.i-screamedu.co.kr/favicon.ico?ver=",
+      "ok": true
+    },
+    {
+      "id": 1482,
+      "name": "윤선생영어",
+      "domain": "https://www.yoons.com",
+      "logoUrl": "https://www.yoons.com/assets/image/kakao_icon.png",
+      "ok": true
+    },
+    {
+      "id": 1492,
+      "name": "네네치킨",
+      "domain": "https://www.nenechicken.com",
+      "logoUrl": "https://nenechicken.com/images/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1493,
+      "name": "굽네치킨",
+      "domain": "https://www.goobne.co.kr",
+      "logoUrl": "https://www.goobne.co.kr/resources/images/red_bg_logo.png",
+      "ok": true
+    },
+    {
+      "id": 1495,
+      "name": "탐앤탐스",
+      "domain": "https://www.tomntoms.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1499,
+      "name": "설빙",
+      "domain": "https://www.sulbing.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1505,
+      "name": "놀부",
+      "domain": "https://www.nolboo.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1511,
+      "name": "BYC",
+      "domain": "https://www.byc.co.kr",
+      "logoUrl": "https://www.byc.co.kr/data/common/snsRepresentImage.jpg?v=1772169966",
+      "ok": true
+    },
+    {
+      "id": 1512,
+      "name": "불스원",
+      "domain": "https://www.bullsone.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1514,
+      "name": "보령제약",
+      "domain": "https://www.boryung.co.kr",
+      "logoUrl": "https://boryung.co.kr/images/og.jpg",
+      "ok": true
+    },
+    {
+      "id": 1516,
+      "name": "일동제약",
+      "domain": "https://www.ildong.com",
+      "logoUrl": "https://www.ildong.com/resources/img/ildong/layout/logo.png",
+      "ok": true
+    },
+    {
+      "id": 1517,
+      "name": "COSRX",
+      "domain": "https://cosrx.com",
+      "logoUrl": "http://www.cosrx.com/cdn/shop/files/facebookimg_dedb55e4-9ae0-421a-b480-dbcd570723aa_1200x1200.jpg?v=1612428226",
+      "ok": true
+    },
+    {
+      "id": 1522,
+      "name": "트렉스타",
+      "domain": "https://www.trekstar.com",
+      "logoUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAgMBApWzZ/AAAAAASUVORK5CYII=",
+      "ok": true
+    },
+    {
+      "id": 1524,
+      "name": "에잇세컨즈",
+      "domain": "https://www.8seconds.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1525,
+      "name": "빈폴",
+      "domain": "https://www.beanpole.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1526,
+      "name": "잡코리아",
+      "domain": "https://www.jobkorea.co.kr",
+      "logoUrl": "https://file1.jobkorea.co.kr/banner/share/share_img_01.png",
+      "ok": true
+    },
+    {
+      "id": 1527,
+      "name": "사람인",
+      "domain": "https://www.saramin.co.kr",
+      "logoUrl": "https://www.saraminimage.co.kr/logo/saraminsnslogo.png",
+      "ok": true
+    },
+    {
+      "id": 1528,
+      "name": "마이리얼트립",
+      "domain": "https://www.myrealtrip.com",
+      "logoUrl": "https://dffoxz5he03rp.cloudfront.net/logos/mrt_main_og_image.png",
+      "ok": true
+    },
+    {
+      "id": 1529,
+      "name": "리디",
+      "domain": "https://ridi.com",
+      "logoUrl": "https://static.ridicdn.net/books-frontend/p/75a167/_next/static/media/ridibooks.dc8aa63e.png",
+      "ok": true
+    },
+    {
+      "id": 1530,
+      "name": "뱅크샐러드",
+      "domain": "https://www.banksalad.com",
+      "logoUrl": "https://cdn.banksalad.com/graphic/color/illustration/og-image/banksalad-web.png",
+      "ok": true
+    },
+    {
+      "id": 1531,
+      "name": "에이블리",
+      "domain": "https://www.a-bly.com",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1532,
+      "name": "원티드",
+      "domain": "https://www.wanted.co.kr",
+      "logoUrl": "https://static.wanted.co.kr/images/meta/meta_home_default.jpeg",
+      "ok": true
+    },
+    {
+      "id": 1533,
+      "name": "강남언니",
+      "domain": "https://www.gangnamunni.com",
+      "logoUrl": "https://www.gangnamunni.com/images/kr/og-winter-brand-campaign.png",
+      "ok": true
+    },
+    {
+      "id": 1534,
+      "name": "닥터나우",
+      "domain": "https://www.doctornow.co.kr",
+      "logoUrl": "https://media.doctornow.co.kr/og-main.png",
+      "ok": true
+    },
+    {
+      "id": 1535,
+      "name": "위메프",
+      "domain": "https://www.wemakeprice.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1536,
+      "name": "티몬",
+      "domain": "https://www.tmon.co.kr",
+      "logoUrl": "https://tmonprod.edge.naverncp.com/mobile/ico/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1537,
+      "name": "G마켓",
+      "domain": "https://www.gmarket.co.kr",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "id": 1538,
+      "name": "11번가",
+      "domain": "https://www.11st.co.kr",
+      "logoUrl": "https://s.011st.com/img/common/icon/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1539,
+      "name": "SSG닷컴",
+      "domain": "https://www.ssg.com",
+      "logoUrl": "https://sui.ssgcdn.com/ui/common/img/sns/ssg.png",
+      "ok": true
+    },
+    {
+      "id": 1540,
+      "name": "요기요",
+      "domain": "https://www.yogiyo.co.kr",
+      "logoUrl": "https://www.yogiyo.co.kr/mobile/image/app_img_560x292_v2.png",
+      "ok": true
+    },
+    {
+      "id": 1541,
+      "name": "빗썸",
+      "domain": "https://www.bithumb.com",
+      "logoUrl": "https://content.bithumb.com/resources/img/comm/seo/20200701_og_bithumb.png?v=bithumb2.0",
+      "ok": true
+    },
+    {
+      "id": 1542,
+      "name": "민음사",
+      "domain": "https://www.minumsa.com",
+      "logoUrl": "https://minumsa.minumsa.com/files/2018/04/minuma_th.jpg",
+      "ok": true
+    },
+    {
+      "id": 1543,
+      "name": "문학동네",
+      "domain": "https://www.munhak.com",
+      "logoUrl": "https://munhak.com/meta_logo.jpg",
+      "ok": true
+    },
+    {
+      "id": 1544,
+      "name": "김영사",
+      "domain": "https://www.gimmyoung.com",
+      "logoUrl": "https://www.gimmyoung.com/static/book/image/comm/share-logo.jpg",
+      "ok": true
+    },
+    {
+      "id": 1545,
+      "name": "알라딘",
+      "domain": "https://www.aladin.co.kr",
+      "logoUrl": "https://image.aladin.co.kr/img/logo_big.jpg",
+      "ok": true
+    },
+    {
+      "id": 1546,
+      "name": "예스24",
+      "domain": "https://www.yes24.com",
+      "logoUrl": "https://image.yes24.com/sysimage/renew/og_YES24.png",
+      "ok": true
+    },
+    {
+      "id": 1548,
+      "name": "아이코닉스",
+      "domain": "https://www.iconix.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1549,
+      "name": "왓챠",
+      "domain": "https://watcha.com",
+      "logoUrl": "https://an2-ast.amz.wtchn.net/erd/_rx_base/assets/C0AF6C4s.png",
+      "ok": true
+    },
+    {
+      "id": 1550,
+      "name": "하나투어",
+      "domain": "https://www.hanatour.com",
+      "logoUrl": "https://image.hanatour.com/usr/manual/etc/kakao/share_thumb01.jpg",
+      "ok": true
+    },
+    {
+      "id": 1551,
+      "name": "모두투어",
+      "domain": "https://www.modetour.com",
+      "logoUrl": "https://img.modetour.com/FIT/talk/messenger_img_20240307.jpg",
+      "ok": true
+    },
+    {
+      "id": 1552,
+      "name": "노랑풍선",
+      "domain": "https://www.ybtour.co.kr",
+      "logoUrl": "https://dimgcdn.ybtour.co.kr/TN/e1/e1796d23bb2c6a0eb7801f3852976fdf.tn.410x280.jpg",
+      "ok": true
+    },
+    {
+      "id": 1559,
+      "name": "퍼시스",
+      "domain": "https://www.fursys.com",
+      "logoUrl": "https://www.fursys.com/fursys-favicon.svg",
+      "ok": true
+    },
+    {
+      "id": 1560,
+      "name": "일룸",
+      "domain": "https://www.iloom.com",
+      "logoUrl": "https://www.iloom.com/img/og/og_logo.jpg",
+      "ok": true
+    },
+    {
+      "id": 1562,
+      "name": "위니아딤채",
+      "domain": "https://www.winia.com",
+      "logoUrl": "https://www.winiadimchae.com/resources/images/com/winia_share_image2.png",
+      "ok": true
+    },
+    {
+      "id": 1570,
+      "name": "제주삼다수",
+      "domain": "https://www.jejusamdasoo.com",
+      "logoUrl": "https://www.jejusamdasoo.com/data/mall_data/images/favicon.png",
+      "ok": true
+    },
+    {
+      "id": 1578,
+      "name": "핏펫",
+      "domain": "https://www.fitpet.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1582,
+      "name": "카카오프렌즈",
+      "domain": "https://www.kakaofriends.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1584,
+      "name": "아가방앤컴퍼니",
+      "domain": "https://www.agabang.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1586,
+      "name": "핀다",
+      "domain": "https://www.finda.co.kr",
+      "logoUrl": "https://finda.co.kr/images/og-image.png",
+      "ok": true
+    },
+    {
+      "id": 1587,
+      "name": "8퍼센트",
+      "domain": "https://www.8percent.kr",
+      "logoUrl": "https://cdn-media.8percent.kr/meta/8percent-meta.png",
+      "ok": true
+    },
+    {
+      "id": 1588,
+      "name": "미래에셋",
+      "domain": "https://www.miraeasset.com",
+      "logoUrl": "https://www.miraeasset.com/resources/img/common/corp_thumbnail_mirae.png",
+      "ok": true
+    },
+    {
+      "id": 1589,
+      "name": "크라우드웍스",
+      "domain": "https://www.crowdworks.kr",
+      "logoUrl": "https://framerusercontent.com/assets/f9Mkt8ae6Ajis65hEMc62kNeY.jpg",
+      "ok": true
+    },
+    {
+      "id": 1597,
+      "name": "래미안",
+      "domain": "https://www.raemian.co.kr",
+      "ok": false,
+      "reason": "no og:image/icon found"
+    },
+    {
+      "id": 1599,
+      "name": "푸르지오",
+      "domain": "https://www.prugio.com",
+      "logoUrl": "http://www.prugio.com/asset/images/common/og_img.jpg",
+      "ok": true
+    },
+    {
+      "id": 1603,
+      "name": "골프존",
+      "domain": "https://www.golfzon.com",
+      "logoUrl": "https://www.golfzon.com/favicon.ico",
+      "ok": true
+    },
+    {
+      "id": 1606,
+      "name": "바디프랜드",
+      "domain": "https://www.bodyfriend.co.kr",
+      "logoUrl": "https://bodyfriend.speedgabia.com/img/bodyfriend/common/logo/logo_bf_grey.png",
+      "ok": true
+    },
+    {
+      "id": 1607,
+      "name": "세라젬",
+      "domain": "https://www.ceragem.com",
+      "logoUrl": "https://www.ceragem.com/en/assets/image/crg_main_006_1.jpg",
+      "ok": true
+    },
+    {
+      "id": 1608,
+      "name": "휴롬",
+      "domain": "https://www.hurom.com",
+      "logoUrl": "http://www.hurom.com/cdn/shop/t/693/assets/share-facebook.jpg?v=127883500427209221782325117",
+      "ok": true
+    },
+    {
+      "id": 1609,
+      "name": "롯데칠성",
+      "domain": "https://www.lottechilsung.co.kr",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1612,
+      "name": "삼성카드",
+      "domain": "https://www.samsungcard.com",
+      "logoUrl": "https://static12.samsungcard.com/images/personal/samsung.jpg",
+      "ok": true
+    },
+    {
+      "id": 1621,
+      "name": "폴라리스오피스",
+      "domain": "https://www.polarisoffice.com",
+      "logoUrl": "https://polink-static-contents.polarisoffice.com/web/resources/image/Link_bi.png",
+      "ok": true
+    },
+    {
+      "id": 1622,
+      "name": "잉크테크",
+      "domain": "https://www.inktec.com",
+      "ok": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1624,
+      "name": "참존",
+      "domain": "https://www.charmzone.co.kr",
+      "logoUrl": "http://www.charmzone.co.kr/shopimages/charmzone/all_og__20250903094457phpQENuyQ.jpg",
+      "ok": true
+    }
+  ]
+}
