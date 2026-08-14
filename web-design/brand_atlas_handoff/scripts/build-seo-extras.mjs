@@ -29,6 +29,16 @@ const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data/brand-atlas.json")
 const BRANDS = DATA.allBrands || [];
 const total = BRANDS.length;
 
+// 내용이 같으면 파일을 다시 쓰지 않는다 — sitemap lastmod가 mtime에서 나오므로
+// 무의미한 덮어쓰기는 "전부 갱신됨"이라는 거짓 신선도 신호가 된다.
+function writeIfChanged(p, content) {
+  try {
+    if (fs.readFileSync(p, "utf8") === content) return false;
+  } catch { /* 없으면 새로 쓴다 */ }
+  fs.writeFileSync(p, content);
+  return true;
+}
+
 const brandHref = (b, prefix = "../") => `${prefix}brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 const byName = (a, b) => String(a.name).localeCompare(String(b.name), "ko");
 
@@ -82,7 +92,7 @@ for (const [slug, g] of industryGroups) {
 ${note}
 ${listSection(g.label, g.items, `cat-${slug}`)}`;
 
-  fs.writeFileSync(path.join(ROOT, "category", `${slug}.html`), page({
+  writeIfChanged(path.join(ROOT, "category", `${slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "산업별 탐색",
     jsonLd: collectionJsonLd({
       name: title, description: desc, url,
@@ -153,7 +163,7 @@ for (const [c, arr] of countryGroups) {
 <p class="bx-note">${esc(facts.join(" "))}</p>
 ${listSection(`${c} 브랜드`, arr, `country-${slug}`)}`;
 
-  fs.writeFileSync(path.join(ROOT, "country", `${slug}.html`), page({
+  writeIfChanged(path.join(ROOT, "country", `${slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "산업별 탐색",
     jsonLd: collectionJsonLd({
       name: title, description: desc, url,
@@ -179,7 +189,7 @@ console.log(`country/: ${countryGroups.length} pages, ${countryGroups.reduce((s,
 <nav class="bx-toc" aria-label="산업 바로가기">${categoryLinks}</nav>
 <nav class="bx-toc" aria-label="국가 바로가기">${countryLinks}</nav>
 ${sections}`;
-  fs.writeFileSync(path.join(ROOT, "pages", "brands.html"), page({
+  writeIfChanged(path.join(ROOT, "pages", "brands.html"), page({
     title, desc, canonical: url, bodyHtml: body, active: "전체 브랜드",
     jsonLd: collectionJsonLd({
       name: title, description: desc, url,
@@ -207,7 +217,7 @@ function injectContainer(file, containerId, html) {
     throw new Error(`injectContainer(${containerId}): 주입 마크업에 <div>가 있으면 재실행 시 구조가 깨집니다`);
   }
   s = s.replace(re, `$1${html}$2`);
-  fs.writeFileSync(p, s);
+  writeIfChanged(p, s);
   return true;
 }
 
@@ -273,18 +283,22 @@ function injectContainer(file, containerId, html) {
   } else {
     console.warn("  ! index.html: </main>을 찾지 못해 홈 링크 주입을 건너뜀");
   }
-  fs.writeFileSync(p, s);
+  writeIfChanged(p, s);
   console.log(`index.html: ${featured.length} static brand links`);
 }
 
 // ─── 6) sitemap index + 분할 ───────────────────────────────────────────────
 // lastmod는 실제 파일 mtime을 쓴다. 이전에는 전량 동일한 고정 날짜라 갱신 신호로
 // 기능하지 않았다.
+// KST 기준 날짜로 찍는다. UTC로 자르면 오전 9시 이전에 만든 파일이 전날로 기록되어
+// 방금 갱신한 페이지가 하루 묵은 것처럼 보인다.
+const kstDay = (ms) => new Date(ms + 9 * 3600e3).toISOString().slice(0, 10);
+
 function mtime(relPath) {
   try {
-    return fs.statSync(path.join(ROOT, relPath)).mtime.toISOString().slice(0, 10);
+    return kstDay(fs.statSync(path.join(ROOT, relPath)).mtimeMs);
   } catch {
-    return new Date().toISOString().slice(0, 10);
+    return kstDay(Date.now());
   }
 }
 function urlset(entries) {
@@ -322,19 +336,19 @@ const brandEntries = indexable.map(b => {
 
 const CHUNK = 1000;
 const files = [];
-fs.writeFileSync(path.join(ROOT, "sitemap-hubs.xml"), urlset(hubEntries));
+writeIfChanged(path.join(ROOT, "sitemap-hubs.xml"), urlset(hubEntries));
 files.push("sitemap-hubs.xml");
 for (let i = 0; i < brandEntries.length; i += CHUNK) {
   const name = `sitemap-brands-${Math.floor(i / CHUNK) + 1}.xml`;
-  fs.writeFileSync(path.join(ROOT, name), urlset(brandEntries.slice(i, i + CHUNK)));
+  writeIfChanged(path.join(ROOT, name), urlset(brandEntries.slice(i, i + CHUNK)));
   files.push(name);
 }
 // 오래된 단일 sitemap을 남기면 크롤러가 noindex URL을 계속 물고 간다.
 for (const stale of fs.readdirSync(ROOT).filter(f => /^sitemap-brands-\d+\.xml$/.test(f))) {
   if (!files.includes(stale)) fs.unlinkSync(path.join(ROOT, stale));
 }
-const today = new Date().toISOString().slice(0, 10);
-fs.writeFileSync(path.join(ROOT, "sitemap.xml"),
+const today = kstDay(Date.now());
+writeIfChanged(path.join(ROOT, "sitemap.xml"),
   `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.map(f => `  <sitemap><loc>${ORIGIN}/${f}</loc><lastmod>${today}</lastmod></sitemap>`).join("\n")}\n</sitemapindex>\n`);
 console.log(`sitemap.xml: index of ${files.length} files, ${hubEntries.length} hubs + ${brandEntries.length} brands (${total - indexable.length} noindex excluded)`);
 
@@ -349,7 +363,7 @@ console.log(`sitemap.xml: index of ${files.length} files, ${hubEntries.length} h
     const d = String(b.definition || b.summary || b.insight || "").slice(0, 280);
     return `    <item><title>${esc(displayName(b))}</title><link>${link}</link><guid isPermaLink="true">${link}</guid><category>${esc(b.industry || "")}</category><pubDate>${new Date(m || Date.now()).toUTCString()}</pubDate><description>${esc(d)}</description></item>`;
   }).join("\n");
-  fs.writeFileSync(path.join(ROOT, "rss.xml"), `<?xml version="1.0" encoding="UTF-8"?>
+  writeIfChanged(path.join(ROOT, "rss.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>브랜드 아틀라스 | 브랜드 사전 매거진</title>

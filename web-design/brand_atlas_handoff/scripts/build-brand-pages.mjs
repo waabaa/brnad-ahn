@@ -214,18 +214,23 @@ function pageHtml(brand) {
 const outDir = sampleSlugs ? "/tmp/ssg-brand-sample" : path.join(ROOT, "brand");
 fs.mkdirSync(outDir, { recursive: true });
 const list = sampleSlugs ? BRANDS.filter(b => sampleSlugs.includes(b.slug)) : BRANDS;
-let written = 0, failed = 0;
+let written = 0, unchanged = 0, failed = 0;
 for (const b of list) {
   try {
     const html = pageHtml(b);
-    fs.writeFileSync(path.join(outDir, `${urlSlugOf(b)}.html`), html);
+    const out = path.join(outDir, `${urlSlugOf(b)}.html`);
+    // 내용이 같으면 다시 쓰지 않는다. sitemap의 lastmod가 파일 mtime에서 나오므로,
+    // 주간 재빌드마다 전량을 덮어쓰면 바뀐 게 없는데도 "전부 갱신됨" 신호를 보내게 되고
+    // 크롤러는 그 lastmod를 신뢰하지 않게 된다.
+    if (fs.existsSync(out) && fs.readFileSync(out, "utf8") === html) { unchanged++; continue; }
+    fs.writeFileSync(out, html);
     written++;
   } catch (e) {
     failed++;
     console.error(`FAIL ${b.slug}: ${e.message}`);
   }
 }
-console.log(`wrote ${written} pages, ${failed} failed → ${outDir}`);
+console.log(`wrote ${written} pages, ${unchanged} unchanged, ${failed} failed → ${outDir}`);
 
 if (!sampleSlugs) {
   // sitemap은 카테고리·국가 허브까지 알아야 하므로 build-seo-extras.mjs가 만든다.
