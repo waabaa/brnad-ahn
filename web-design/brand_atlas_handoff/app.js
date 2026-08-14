@@ -691,7 +691,9 @@ function enableTimelineAutoFlow(container) {
 
 function sectionBody(brand, key) {
   const body = brand.sections?.[key]?.body;
-  if (key === "products" && cleanPublicText(body).length < 18) return "대표 제품과 서비스 정보는 편집 검수 후 공개됩니다.";
+  // 내용이 없으면 안내 문구 대신 빈 문자열을 돌려 섹션 자체를 렌더하지 않는다.
+  // 빈 섹션 안내문은 검색엔진에 미완성 신호로 읽힌다(2026-08 SEO 감사).
+  if (key === "products" && cleanPublicText(body).length < 18) return "";
   if (body && body.trim() && isSafeSectionText(body, key)) return body;
   if (key === "overview") return brand.definition || brand.summary || "";
   return "";
@@ -857,6 +859,13 @@ function renderBrandMagazine(brand) {
     if (structured) return `<section class="cell compact" id="${id}"><h2>${title}</h2>${metaList(body)}</section>`;
     return `<section class="cell story" id="${id}"><h2>${title}</h2><div class="prose">${prose(body, brand)}</div></section>`;
   };
+  // 타임라인·BI/CI는 내용이 없으면 셀을 만들지 않는다. 두 렌더러는 빈 상태에서
+  // 안내 문구(.empty-note)를 돌려주는데, 그 문구만 담긴 섹션이 1,000건 가까이
+  // 발행되어 검색엔진에 미완성 신호를 주고 있었다(2026-08 SEO 감사).
+  const timelineHtml = timelineRail(brand.timeline || [], false);
+  const biciHtml = logoArchive(brand);
+  const hasTimeline = !timelineHtml.includes("empty-note");
+  const hasBici = !biciHtml.includes("empty-note");
   const cells = [
     ["overview", "한눈에 보는 브랜드", proseCell("cell feature wide", "overview", "한눈에 보는 브랜드", "overview")],
     ["insights", "브랜드 관점", proseCell("cell insight-cell", "insights", "브랜드 관점", "insights")],
@@ -866,8 +875,8 @@ function renderBrandMagazine(brand) {
     ["products", "제품과 서비스", smartCell("products", "제품과 서비스", "products")],
     ["people", "사람들", smartCell("people", "사람들", "people")],
     ["current", "현재 상태", smartCell("current", "현재 상태", "current")],
-    ["timeline", "타임라인", `<section class="cell wide timeline-cell" id="timeline"><h2>타임라인</h2>${timelineRail(brand.timeline || [], false)}</section>`],
-    ["bici", "BI/CI 변천사", `<section class="cell wide" id="bici"><h2>BI/CI 변천사</h2>${logoArchive(brand)}</section>`],
+    ["timeline", "타임라인", hasTimeline ? `<section class="cell wide timeline-cell" id="timeline"><h2>타임라인</h2>${timelineHtml}</section>` : ""],
+    ["bici", "BI/CI 변천사", hasBici ? `<section class="cell wide" id="bici"><h2>BI/CI 변천사</h2>${biciHtml}</section>` : ""],
     ["related", "함께 읽을 브랜드", relatedLinks(brand)],
   ].filter(([, , html]) => html && html.trim());
   const tabs = cells.map(([id, title], index) => `<a class="${index === 0 ? "active" : ""}" href="#${id}">${title}</a>`).join("");

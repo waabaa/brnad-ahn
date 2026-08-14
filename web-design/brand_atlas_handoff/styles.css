@@ -101,3 +101,10 @@ body{color:#0f0f0f}.lead,.home-domain-card p,.brand-card p,#brandCards>.brand-ca
 .index-item:hover b{color:var(--red)}
 @media(max-width:1200px){.index-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.index-grid{grid-template-columns:1fr}.index-item span{display:none}}
+
+/* --- 2026-08 SEO: h1 한/영 병기 + FAQ 셀 --- */
+.brand-hero h1 .h1-en{display:block;font-family:var(--font-en);font-size:.3em;font-weight:400;letter-spacing:.02em;color:var(--muted);line-height:1.3;margin-top:.35em}
+.mag-grid .faq-cell .faq-list{display:grid;gap:22px}
+.mag-grid .faq-cell .faq-item h3{font-family:var(--font-serif);font-size:19px;font-weight:700;line-height:1.5;margin:0 0 8px}
+.mag-grid .faq-cell .faq-item p{margin:0;font-size:16px;line-height:1.82;color:var(--ink)}
+@media(max-width:900px){.brand-hero h1 .h1-en{font-size:.34em}.mag-grid .faq-cell .faq-item h3{font-size:17px}}

@@ -10,6 +10,10 @@ import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
+import {
+  buildTitle, buildDescription, buildFaq, headingMarkup,
+  countryOf, foundedYear, isThin, bodyTextLength, THIN_THRESHOLD, CSS_V,
+} from "./lib/brand-seo.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");               // brand_atlas_handoff/
@@ -72,9 +76,11 @@ function absAsset(src) {
   return /^https?:\/\//.test(a) ? a : `${ORIGIN}/${a}`;
 }
 
-function jsonLd(brand) {
+function jsonLd(brand, faq) {
   const url = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(brand))}.html`;
   const facts = brand.facts || {};
+  const year = foundedYear(brand);
+  const country = countryOf(brand);
   const org = {
     "@type": "Organization",
     name: brand.name,
@@ -82,7 +88,10 @@ function jsonLd(brand) {
     description: short(`${brand.definition || brand.summary || ""}`, 200) || undefined,
     url: facts.officialWebsite || brand.officialWebsite || undefined,
     logo: brand.logo ? absAsset(brand.logo) : undefined,
-    foundingDate: brand.timeline && brand.timeline[0] && brand.timeline[0].year ? String(brand.timeline[0].year) : undefined,
+    // foundingDate/foundingLocation은 definition에서 검증된 값만 쓴다. timeline 최소연도는
+    // 모기업 창업연도가 섞여 있어(2026-08 감사) 근거로 쓰지 않는다.
+    foundingDate: year ? String(year) : undefined,
+    foundingLocation: country ? { "@type": "Place", name: country } : undefined,
   };
   const breadcrumb = {
     "@type": "BreadcrumbList",
@@ -93,17 +102,111 @@ function jsonLd(brand) {
     ],
   };
   const graph = [org, breadcrumb];
+  if (faq && faq.length >= 2) {
+    graph.push({
+      "@type": "FAQPage",
+      mainEntity: faq.map(({ q, a }) => ({
+        "@type": "Question",
+        name: q,
+        acceptedAnswer: { "@type": "Answer", text: a },
+      })),
+    });
+  }
   return JSON.stringify({ "@context": "https://schema.org", "@graph": graph });
+}
+
+// 렌더된 본문(헤더/푸터/관련 브랜드 제외) 기준 thin 임계. 실제 페이지에 실리는 글자 수다.
+const RENDERED_THIN_THRESHOLD = 700;
+const renderedLen = new Map();
+
+// 같은 브랜드가 두 레코드로 들어온 경우(마르디 메크르디, 롯데리아)를 중복 콘텐츠로
+// 두지 않는다. 본문이 긴 쪽을 정본으로 삼고 나머지는 canonical을 정본으로 돌린 뒤
+// 색인에서 뺀다. 판정 기준은 title이 아니라 정규화한 브랜드명이다 — 같은 브랜드라도
+// 설립연도 확보 여부에 따라 title이 갈려 title 기준으로는 잡히지 않는다.
+const canonicalOverride = new Map(); // slug → 정본 URL
+{
+  const normName = (b) => String(b.name || "").toLowerCase().replace(/[^a-z0-9가-힣]/g, "");
+  // 브랜드명이 같은 경우와 title이 같은 경우를 모두 잡는다(롯데리아는 name이 갈리고
+  // 마르디 메크르디는 title이 갈린다).
+  for (const keyOf of [normName, (b) => buildTitle(b)]) {
+    const groups = new Map();
+    for (const b of BRANDS) {
+      const k = keyOf(b);
+      if (!k) continue;
+      if (!groups.has(k)) groups.set(k, []);
+      groups.get(k).push(b);
+    }
+    for (const [, group] of groups) {
+      if (group.length < 2) continue;
+      // 이미 다른 정본으로 합쳐진 레코드는 그 판정을 유지한다.
+      if (group.every(b => canonicalOverride.has(urlSlugOf(b)))) continue;
+      const primary = group.reduce((a, b) => (bodyTextLength(b) >= bodyTextLength(a) ? b : a));
+      const primaryUrl = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(primary))}.html`;
+      for (const b of group) {
+        if (b === primary || canonicalOverride.has(urlSlugOf(b))) continue;
+        canonicalOverride.set(urlSlugOf(b), primaryUrl);
+        console.log(`  dup → canonical: ${urlSlugOf(b)} → ${urlSlugOf(primary)}`);
+      }
+    }
+  }
+}
+
+/** 발행되는 본문의 순수 텍스트 길이 — 관련 브랜드 카드는 보일러플레이트라 제외한다. */
+function renderedBodyChars(bodyHtml) {
+  const m = /<section class="mag-grid">([\s\S]*)$/.exec(bodyHtml);
+  let s = m ? m[1] : bodyHtml;
+  s = s.replace(/<section class="cell wide related-cell"[\s\S]*/, " ");
+  return s.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().length;
+}
+
+/** FAQ 섹션 마크업. 답변은 전부 기존 데이터에서 인용한 것이다(생성 금지). */
+function faqSection(faq) {
+  if (!faq.length) return "";
+  const items = faq.map(({ q, a }) =>
+    `<div class="faq-item"><h3>${esc(q)}</h3><p>${esc(a)}</p></div>`).join("");
+  return `<section class="cell wide faq-cell" id="faq"><h2>자주 묻는 질문</h2><div class="faq-list">${items}</div></section>`;
 }
 
 function pageHtml(brand) {
   const url = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(brand))}.html`;
-  const title = `${brand.name} 브랜드 매거진 | 브랜드 아틀라스`;
-  const desc = short(`${brand.definition || ""} ${brand.insight || ""}`.trim(), 155);
+  const title = buildTitle(brand);
+  const desc = buildDescription(brand);
+  const faq = buildFaq(brand);
   const ogImg = absAsset(brand.image);
   const headerHtml = sandbox.header("브랜드 매거진");
-  const bodyHtml = renderBrandMagazine(brand);
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="index,follow"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${url}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=20260629r"><script type="application/ld+json">${jsonLd(brand)}</script></head>
+
+  let bodyHtml = renderBrandMagazine(brand);
+
+  // h1 한/영 병기 — renderBrandMagazine은 brand.name만 출력한다. 검증된 한글/원어
+  // 표기가 둘 다 있을 때만 병기하며, 없으면 원래 마크업을 그대로 둔다.
+  const h1 = headingMarkup(brand, esc);
+  const h1Plain = `<h1>${esc(brand.name)}</h1>`;
+  if (h1 !== esc(brand.name) && bodyHtml.includes(h1Plain)) {
+    bodyHtml = bodyHtml.replace(h1Plain, `<h1>${h1}</h1>`);
+  }
+
+  // FAQ 셀을 "함께 읽을 브랜드" 앞에 넣고 탭에도 항목을 추가한다.
+  const faqHtml = faqSection(faq);
+  if (faqHtml) {
+    const relatedCell = '<section class="cell wide related-cell"';
+    bodyHtml = bodyHtml.includes(relatedCell)
+      ? bodyHtml.replace(relatedCell, `${faqHtml}${relatedCell}`)
+      : bodyHtml.replace("</section>$", `${faqHtml}</section>`);
+    const relatedTab = '<a class="" href="#related">함께 읽을 브랜드</a>';
+    if (bodyHtml.includes(relatedTab)) {
+      bodyHtml = bodyHtml.replace(relatedTab, `<a class="" href="#faq">자주 묻는 질문</a>${relatedTab}`);
+    }
+  }
+
+  // 색인 판정은 실제로 발행되는 본문 기준이다. sections 원문 길이만 보면 FAQ·개요
+  // 폴백이 더해진 최종 페이지를 과소평가해 리바이스 같은 브랜드까지 색인에서 빠진다.
+  const renderedChars = renderedBodyChars(bodyHtml);
+  const dupCanonical = canonicalOverride.get(urlSlugOf(brand));
+  const robots = (dupCanonical || renderedChars < RENDERED_THIN_THRESHOLD) ? "noindex,follow" : "index,follow";
+  renderedLen.set(urlSlugOf(brand), dupCanonical ? 0 : renderedChars);
+  const canonical = dupCanonical || url;
+
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq)}</script></head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${headerHtml}</div><main id="main-content" class="wrap"><div id="brandPage">${bodyHtml}</div>${SUB_FOOTER}</main></body></html>`;
 }
 
@@ -125,14 +228,30 @@ for (const b of list) {
 console.log(`wrote ${written} pages, ${failed} failed → ${outDir}`);
 
 if (!sampleSlugs) {
-  // Regenerate sitemap: static pages + new /brand/<slug>.html, NO ?brand= query URLs.
-  const today = new Date().toISOString().slice(0, 10);
-  const statics = ["/", "/pages/brands.html", "/pages/industry.html", "/pages/insights.html", "/pages/timeline.html", "/pages/bici.html", "/pages/search.html"];
-  const urls = [
-    ...statics.map(u => `${ORIGIN}${u}`),
-    ...BRANDS.map(b => `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`),
-  ];
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${u}</loc><lastmod>${today}</lastmod></url>`).join("\n")}\n</urlset>\n`;
-  fs.writeFileSync(path.join(ROOT, "sitemap.xml"), xml);
-  console.log(`sitemap.xml: ${urls.length} URLs (0 query-string)`);
+  // sitemap은 카테고리·국가 허브까지 알아야 하므로 build-seo-extras.mjs가 만든다.
+  // 여기서는 thin(noindex) 판정 결과만 리포트로 남겨 되돌릴 수 있게 한다.
+  const thin = BRANDS
+    .filter(b => (renderedLen.get(urlSlugOf(b)) ?? 0) < RENDERED_THIN_THRESHOLD)
+    .map(b => ({
+      slug: urlSlugOf(b),
+      name: b.name,
+      industry: b.industry || null,
+      renderedChars: renderedLen.get(urlSlugOf(b)) ?? 0,
+      sectionChars: bodyTextLength(b),
+    }))
+    .sort((a, b) => a.renderedChars - b.renderedChars);
+  fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });
+  fs.writeFileSync(
+    path.join(ROOT, "reports", "thin-pages.json"),
+    JSON.stringify({
+      threshold: RENDERED_THIN_THRESHOLD,
+      basis: "rendered body text (excludes header/footer/related cards)",
+      total: BRANDS.length,
+      noindexed: thin.length,
+      slugs: thin.map(t => t.slug),
+      pages: thin,
+    }, null, 1)
+  );
+  console.log(`thin(noindex): ${thin.length}/${BRANDS.length} → reports/thin-pages.json`);
+  console.log("run scripts/build-seo-extras.mjs next to regenerate hubs + sitemap");
 }
