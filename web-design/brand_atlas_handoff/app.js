@@ -3,7 +3,7 @@ async function loadData() {
   // Versioned URL (?v=) busts the cache on every deploy, so the browser may safely
   // reuse the cached copy between page navigations and repeat visits (force-cache).
   // This avoids re-downloading the ~1.3MB gzipped dataset on every hub-page load.
-  const res = await fetch(`${dataPath}?v=20260629s`, { cache: "force-cache" });
+  const res = await fetch(`${dataPath}?v=20260815a`, { cache: "force-cache" });
   return await res.json();
 }
 
@@ -233,7 +233,7 @@ function relatedBrands(brand, limit = 8) {
 function relatedLinks(brand) {
   const rows = relatedBrands(brand, 8);
   if (!rows.length) return "";
-  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}">${cardThumb(b)}<span>${b.industry} · ${tierLabel(b.tier)}</span><b>${b.name}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
+  return `<section class="cell wide related-cell" id="related"><h2>함께 읽을 브랜드</h2><div class="related-grid">${rows.map(b => `<a class="related-card" href="${brandUrl(b)}">${cardThumb(b)}<span>${b.industry} · ${tierLabel(b.tier)}</span><b>${escapeHtml(bilingualName(b))}</b><p>${short(b.definition, 92)}</p></a>`).join("")}</div></section>`;
 }
 
 function short(text, length = 120) {
@@ -269,7 +269,7 @@ function brandInitials(brand) {
 // no logo asset exists, so missing logos read as intentional rather than broken.
 function logoMarkup(brand, variant = "panel") {
   if (brand?.logo) {
-    return `<img src="${asset(brand.logo)}" alt="${escapeHtml(brand.name)} 로고" decoding="async">`;
+    return `<img src="${asset(brand.logo)}" alt="${escapeHtml(bilingualName(brand))} 로고" decoding="async">`;
   }
   return `<div class="brand-wordmark ${variant}" role="img" aria-label="${escapeHtml(brand?.name || "")} 로고 자리">
     <span class="wordmark-initials">${escapeHtml(brandInitials(brand))}</span>
@@ -283,12 +283,45 @@ function logoMarkup(brand, variant = "panel") {
 function isRealAsset(src) {
   return !!src && !String(src).includes("brand_atlas_logo_mark");
 }
+// ─── 한/영 병기 ─────────────────────────────────────────────────────────────
+// 같은 브랜드를 한글로 찾는 사람과 영문으로 찾는 사람이 모두 있다. 표기가 하나만
+// 노출되면 다른 쪽 검색어에는 걸리지 않으므로, 사람이 읽는 모든 표기(제목·alt·카드)에
+// 두 표기를 함께 쓴다. 데이터에 없는 표기는 만들지 않는다(음차 생성 금지).
+//
+// scripts/lib/brand-seo.mjs의 koreanName/latinName과 같은 규칙이다. 브라우저와 Node
+// 모듈이라 코드를 공유할 수 없으니 한쪽을 고치면 다른 쪽도 맞춰야 한다.
+const KO_EN_LEAD_RE = /^([가-힣][가-힣A-Za-z0-9·&'’\s.\-]*?)\s*\(([^)]{1,60})\)\s*(?:는|은|이|가)\s/;
+
+function koreanNameOf(b) {
+  if (/[가-힣]/.test(String(b?.name || ""))) return String(b.name).trim();
+  if (/[가-힣]/.test(String(b?.nameKo || ""))) return String(b.nameKo).trim();
+  const m = KO_EN_LEAD_RE.exec(String(b?.definition || b?.summary || ""));
+  return m ? m[1].trim() : null;
+}
+
+function latinNameOf(b) {
+  for (const v of [b?.nameEn, b?.name, b?.nameKo]) {
+    const s = String(v || "").trim();
+    if (s && /[A-Za-z]/.test(s) && !/[가-힣]/.test(s)) return s;
+  }
+  const m = KO_EN_LEAD_RE.exec(String(b?.definition || ""));
+  return m && /[A-Za-z]/.test(m[2]) && !/[가-힣]/.test(m[2]) ? m[2].trim() : null;
+}
+
+/** "코치넬레(Coccinelle)" — 한쪽 표기만 있으면 그것만 돌려준다. */
+function bilingualName(b) {
+  const ko = koreanNameOf(b);
+  const en = latinNameOf(b);
+  if (ko && en && ko.toLowerCase() !== en.toLowerCase()) return `${ko}(${en})`;
+  return ko || en || String(b?.name || "");
+}
+
 function cardThumb(b, variant = "card") {
   if (isRealAsset(b?.logo)) {
-    return `<img src="${asset(b.logo)}" alt="${escapeHtml(b.name)} 로고" loading="lazy" decoding="async">`;
+    return `<img src="${asset(b.logo)}" alt="${escapeHtml(bilingualName(b))} 로고" loading="lazy" decoding="async">`;
   }
   if (isRealAsset(b?.image)) {
-    return `<img src="${asset(b.image)}" alt="${escapeHtml(b.name)}" loading="lazy" decoding="async">`;
+    return `<img src="${asset(b.image)}" alt="${escapeHtml(bilingualName(b))}" loading="lazy" decoding="async">`;
   }
   return logoMarkup(b, variant);
 }
@@ -303,8 +336,8 @@ function teaserText(text, length = 150) {
 
 function brandCard(b) {
   return `<a class="brand-card" href="${brandUrl(b)}">
-    <div class="txt"><small>${b.industry} · ${tierLabel(b.tier)}</small><br><b>${b.name}</b><p>${teaserText(b.definition || b.summary, 62)}<br>★ ${b.rating}</p></div>
-    <img src="${asset(b.image)}" alt="${b.name} 브랜드 이미지" loading="lazy" decoding="async">
+    <div class="txt"><small>${b.industry} · ${tierLabel(b.tier)}</small><br><b>${escapeHtml(bilingualName(b))}</b><p>${teaserText(b.definition || b.summary, 62)}<br>★ ${b.rating}</p></div>
+    <img src="${asset(b.image)}" alt="${escapeHtml(bilingualName(b))} 브랜드 이미지" loading="lazy" decoding="async">
   </a>`;
 }
 
@@ -321,7 +354,7 @@ function hasShowcaseImage(b) {
 // book directory to the featured cards' magazine front.
 function brandIndexItem(b) {
   return `<a class="index-item" href="${brandUrl(b)}">
-    <b>${b.name}</b><span>${b.industry}</span><em>★ ${b.rating}</em>
+    <b>${escapeHtml(bilingualName(b))}</b><span>${b.industry}</span><em>★ ${b.rating}</em>
   </a>`;
 }
 
@@ -563,7 +596,7 @@ function homePathCards(data, daily) {
     const links = (related.length ? related : fallback).slice(0, 4);
     return `<article class="path-card">
       <a class="path-main" href="${brandUrl(seed)}">
-        <img src="${asset(seed.logo || seed.image)}" alt="${seed.name} 로고" loading="lazy" decoding="async">
+        <img src="${asset(seed.logo || seed.image)}" alt="${escapeHtml(bilingualName(seed))} 로고" loading="lazy" decoding="async">
         <span>${seed.industry} · ${tierLabel(seed.tier)}</span>
         <b>${seed.name}</b>
       </a>
@@ -765,7 +798,7 @@ function logoArchive(brand) {
     if (item.status === "asset_pending") {
       return `<article class="pending-logo"><div class="logo-text-mark"><strong>${brand.name}</strong><span>BI/CI</span></div><b>${label}</b><span>${note}</span></article>`;
     }
-    return `<article><img src="${asset(item.src)}" alt="${item.alt || `${brand.name} ${label}`}" loading="lazy" decoding="async"><b>${label}</b><span>${note}</span></article>`;
+    return `<article><img src="${asset(item.src)}" alt="${escapeHtml(`${bilingualName(brand)} ${label}`)}" loading="lazy" decoding="async"><b>${label}</b><span>${note}</span></article>`;
   }).join("")}</div>`;
 }
 
@@ -882,7 +915,7 @@ function renderBrandMagazine(brand) {
   const tabs = cells.map(([id, title], index) => `<a class="${index === 0 ? "active" : ""}" href="#${id}">${title}</a>`).join("");
   return `<section class="brand-hero${hasRealPhoto ? "" : " no-photo"}">
     <div class="info"><p>홈 > 브랜드 매거진 > ${brand.name}</p><h1>${brand.name}</h1><p class="lead">${short(brand.definition, 260)}</p><hr><p>산업 분야 <b>${brand.industry}</b> · 공개 등급 <b>${tierLabel(brand.tier)}</b> · 브랜드 평가 <b>${brand.rating} ★</b></p></div>
-    ${hasRealPhoto ? `<img class="photo" src="${asset(brand.image)}" alt="${brand.name} 브랜드 이미지" decoding="async">` : ""}
+    ${hasRealPhoto ? `<img class="photo" src="${asset(brand.image)}" alt="${escapeHtml(bilingualName(brand))} 브랜드 이미지" decoding="async">` : ""}
     ${logo}
   </section>
   <nav class="tabs">${tabs}</nav>

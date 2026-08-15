@@ -11,7 +11,7 @@ import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
 import {
-  buildTitle, buildDescription, buildFaq, headingMarkup,
+  buildTitle, buildDescription, buildFaq, headingMarkup, koreanName, latinName, displayName,
   countryOf, foundedYear, isThin, bodyTextLength, THIN_THRESHOLD, CSS_V,
 } from "./lib/brand-seo.mjs";
 
@@ -81,10 +81,19 @@ function jsonLd(brand, faq) {
   const facts = brand.facts || {};
   const year = foundedYear(brand);
   const country = countryOf(brand);
+  // 검색엔진이 한글 표기와 원어 표기를 같은 개체로 묶도록 둘 다 싣는다. 한국어
+  // 사이트이므로 name은 한글을 우선하고, 나머지 표기는 alternateName에 모은다.
+  const ko = koreanName(brand);
+  const en = latinName(brand);
+  const primary = ko || en || brand.name;
+  const alternates = [...new Set([ko, en, brand.name, brand.nameEn, brand.nameKo]
+    .map(v => String(v || "").trim())
+    .filter(v => v && v !== primary))];
+
   const org = {
     "@type": "Organization",
-    name: brand.name,
-    alternateName: brand.nameEn || undefined,
+    name: primary,
+    alternateName: alternates.length ? (alternates.length === 1 ? alternates[0] : alternates) : undefined,
     description: short(`${brand.definition || brand.summary || ""}`, 200) || undefined,
     url: facts.officialWebsite || brand.officialWebsite || undefined,
     logo: brand.logo ? absAsset(brand.logo) : undefined,
@@ -98,7 +107,7 @@ function jsonLd(brand, faq) {
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "브랜드 사전", item: `${ORIGIN}/` },
       { "@type": "ListItem", position: 2, name: brand.industry || "산업", item: `${ORIGIN}/pages/industry.html` },
-      { "@type": "ListItem", position: 3, name: brand.name, item: url },
+      { "@type": "ListItem", position: 3, name: primary, item: url },
     ],
   };
   const graph = [org, breadcrumb];
@@ -206,7 +215,7 @@ function pageHtml(brand) {
   renderedLen.set(urlSlugOf(brand), dupCanonical ? 0 : renderedChars);
   const canonical = dupCanonical || url;
 
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq)}</script></head>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta property="og:image:alt" content="${esc(`${displayName(brand)} 브랜드 이미지`)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq)}</script></head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${headerHtml}</div><main id="main-content" class="wrap"><div id="brandPage">${bodyHtml}</div>${SUB_FOOTER}</main></body></html>`;
 }
 
