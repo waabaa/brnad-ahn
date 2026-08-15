@@ -14,14 +14,25 @@ const ORIGIN = "https://brandatlas.co.kr";
 const all = process.argv.includes("--all");
 const CONCURRENCY = 8;
 
-const report = JSON.parse(fs.readFileSync(path.join(ROOT, "reports/slug-migration.json"), "utf8"));
-let rows = report.migrated;
+// 검증 기준은 실제로 서버에 올라가는 301 map이다. 회차별 리포트를 쓰면 직전 실행분만
+// 검사하게 되어(한 번 겪었다 — 519건 중 1건만 검증) 나머지가 깨져도 알 수 없다.
+const MAP = path.resolve(ROOT, "../../deploy/brandatlas-redirects.map");
+let allRows = 0;
+let rows = fs.readFileSync(MAP, "utf8")
+  .split("\n")
+  .filter(l => l.startsWith("/"))
+  .map(l => {
+    const [from, to] = l.replace(/;$/, "").split(/\s+/);
+    return { from, to };
+  })
+  .filter(r => r.from && r.to);
+allRows = rows.length;
 if (!all) {
   // 앞·중간·뒤에서 고르게 뽑아 특정 구간만 검증하는 편향을 피한다.
   const step = Math.max(1, Math.floor(rows.length / 60));
   rows = rows.filter((_, i) => i % step === 0).slice(0, 60);
 }
-console.log(`검증 대상 ${rows.length}건 / 전체 ${report.migrated.length}건`);
+console.log(`검증 대상 ${rows.length}건 / map 전체 ${allRows}건`);
 
 async function head(url) {
   const res = await fetch(url, { redirect: "manual", signal: AbortSignal.timeout(20000) });
@@ -35,8 +46,8 @@ let cursor = 0;
 async function worker() {
   while (cursor < rows.length) {
     const r = rows[cursor++];
-    const oldUrl = `${ORIGIN}/brand/${encodeURIComponent(r.from)}.html`;
-    const newUrl = `${ORIGIN}/brand/${encodeURIComponent(r.to)}.html`;
+    const oldUrl = ORIGIN + r.from;
+    const newUrl = ORIGIN + r.to;
     try {
       const red = await head(oldUrl);
       if (red.status !== 301) {
@@ -45,7 +56,7 @@ async function worker() {
       }
       // Location은 절대/상대 모두 허용하되 목표 경로가 맞아야 한다.
       const loc = String(red.location || "");
-      if (!loc.endsWith(`/brand/${encodeURIComponent(r.to)}.html`) && !loc.endsWith(`/brand/${r.to}.html`)) {
+      if (!loc.endsWith(r.to) && loc !== newUrl) {
         fails.push(`${r.from}: Location 불일치 → ${loc}`);
         continue;
       }

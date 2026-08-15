@@ -16,7 +16,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { latinName, urlSlugOf, ORIGIN } from "./lib/brand-seo.mjs";
+import { latinName, koreanName, romanizeKorean, urlSlugOf, ORIGIN } from "./lib/brand-seo.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -53,6 +53,9 @@ const slugify = (s) => String(s || "")
   .toLowerCase()
   .normalize("NFKD").replace(/[̀-ͯ]/g, "")   // 발음 구별 부호 제거 (Nestlé → nestle)
   .replace(/&/g, " and ")
+  // 단어 안에 낀 구두점은 없애고 붙인다("아베;뉴" → abenyu, "Care.com" → carecom).
+  // 하이픈으로 바꾸면 발음에 없는 경계가 생겨 브랜드명과 멀어진다.
+  .replace(/[;:'’".]/g, "")
   .replace(/[^a-z0-9]+/g, "-")
   .replace(/^-+|-+$/g, "");
 
@@ -68,8 +71,11 @@ for (const b of BRANDS) {
   const from = urlSlugOf(b);
   if (!needsMigration(from)) continue;
   const en = latinName(b);
-  const to = en ? slugify(en) : "";
-  if (!to || to.length < 2) { skipped.push({ from, name: b.name, reason: "영문/원어 표기 없음" }); continue; }
+  // 영문/원어 표기가 없으면 한글명을 로마자로 옮긴다. 번호 slug를 남기거나 URL
+  // 인코딩된 한글 경로를 쓰는 것보다 브랜드와의 연관성이 분명하다.
+  const ko = en ? null : koreanName(b);
+  const to = slugify(en || (ko ? romanizeKorean(ko) : ""));
+  if (!to || to.length < 2) { skipped.push({ from, name: b.name, reason: "영문·한글 표기 모두 없음" }); continue; }
   if (to === from) continue;
   if (taken.has(to)) { skipped.push({ from, name: b.name, reason: `충돌: ${to}` }); continue; }
   taken.delete(from);
@@ -124,14 +130,22 @@ for (const p of plan) {
 console.log(`구 HTML ${removed}건 삭제`);
 
 // 3) nginx 301 map — /brand/<old>.html → /brand/<new>.html
-const mapLines = plan.map(p => `/brand/${p.from}.html /brand/${p.to}.html;`);
+//
+// 반드시 기존 항목에 **더한다**. 이 스크립트를 다시 돌리면 이번 회차의 plan만 남는데,
+// 그것으로 파일을 덮어쓰면 지난 회차에 이전한 URL들의 리다이렉트가 통째로 사라진다
+// (실제로 한 번 겪었다 — 519건이 1건으로 줄었다).
 const mapPath = path.join(REPO, "deploy", "brandatlas-redirects.map");
 fs.mkdirSync(path.dirname(mapPath), { recursive: true });
+const prior = fs.existsSync(mapPath) ? fs.readFileSync(mapPath, "utf8") : "";
+const mapLines = new Set(prior.split("\n").filter(l => l.startsWith("/")));
+const added = plan.filter(p => !mapLines.has(`/brand/${p.from}.html /brand/${p.to}.html;`)).length;
+for (const p of plan) mapLines.add(`/brand/${p.from}.html /brand/${p.to}.html;`);
+const sortedMap = [...mapLines].sort();
 fs.writeFileSync(mapPath,
-  `# brand-atlas Phase E slug 이전 301 map (생성: scripts/migrate-slugs.mjs)\n` +
-  `# nginx map 블록 안에서 include 한다. 총 ${mapLines.length}건.\n` +
-  `${mapLines.join("\n")}\n`);
-console.log(`deploy/brandatlas-redirects.map: ${mapLines.length}건`);
+  `# brand-atlas Phase E 301 map (생성: scripts/migrate-slugs.mjs 외)\n` +
+  `# nginx map 블록 안에서 include 한다. 총 ${sortedMap.length}건.\n` +
+  `${sortedMap.join("\n")}\n`);
+console.log(`deploy/brandatlas-redirects.map: ${sortedMap.length}건 (이번에 +${added})`);
 
 // 4) 이전 기록 — 되돌리거나 사후 검증할 때 쓴다.
 fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });

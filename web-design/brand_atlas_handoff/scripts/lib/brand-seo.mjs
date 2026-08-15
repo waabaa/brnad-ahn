@@ -271,3 +271,25 @@ export function slugifyAscii(s) {
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
 export const CSS_V = "20260815a";
+
+// ─────────────────────────────────────────────────────────────────────────────
+// 한글 전용 브랜드명을 URL slug로 쓸 수 있게 로마자로 옮긴다.
+// 영문/원어 표기가 아예 없는 브랜드(예: "아베;뉴")는 이 변환 없이는 의미 없는
+// 번호 slug나 URL 인코딩된 한글 경로를 쓸 수밖에 없다.
+// 국립국어원 로마자 표기법을 근사한다 — 음운 변동(자음동화 등)은 반영하지 않는다.
+// ─────────────────────────────────────────────────────────────────────────────
+const ROMAN_CHO = ["g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "", "j", "jj", "ch", "k", "t", "p", "h"];
+const ROMAN_JUNG = ["a", "ae", "ya", "yae", "eo", "e", "yeo", "ye", "o", "wa", "wae", "oe", "yo", "u", "wo", "we", "wi", "yu", "eu", "ui", "i"];
+const ROMAN_JONG = ["", "k", "k", "k", "n", "n", "n", "t", "l", "k", "m", "l", "l", "l", "p", "l", "m", "p", "p", "t", "t", "ng", "t", "t", "k", "t", "p", "t"];
+
+export function romanizeKorean(text) {
+  let out = "";
+  for (const ch of String(text || "")) {
+    const code = ch.codePointAt(0) - 0xac00;
+    if (code < 0 || code > 11171) { out += ch; continue; }
+    out += ROMAN_CHO[Math.floor(code / 588)]
+      + ROMAN_JUNG[Math.floor((code % 588) / 28)]
+      + ROMAN_JONG[code % 28];
+  }
+  return out;
+}
