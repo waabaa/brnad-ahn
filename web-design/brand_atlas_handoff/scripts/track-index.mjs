@@ -6,9 +6,15 @@
 // 네이버 검색 API 키가 있으면 그것을 쓰고, 없으면 노출 수치만 수동 입력할 수 있게
 // 항목 틀을 만들어 둔다(측정 실패를 성공으로 위장하지 않는다).
 //
+// 인증 경로가 둘이다(2026-07-31 네이버 개발자센터 → NAVER API HUB 이관):
+//   1) NAVER API HUB (NCP)  — 신규 발급은 이 경로만 가능
+//   2) 개발자센터 레거시 키 — 2026-07-31 이전 발급분만, 2027-06-30까지 유효
+// 둘 다 있으면 API HUB를 먼저 쓴다. 어느 경로로 잰 값인지 로그에 남긴다.
+//
 // Usage:
-//   NAVER_CLIENT_ID=... NAVER_CLIENT_SECRET=... node scripts/track-index.mjs
-//   node scripts/track-index.mjs --note "Phase E 배포"
+//   NCP_APIGW_KEY_ID=... NCP_APIGW_KEY=... node scripts/track-index.mjs
+//   NAVER_CLIENT_ID=... NAVER_CLIENT_SECRET=... node scripts/track-index.mjs   # 레거시
+//   node scripts/track-index.mjs --naver-indexed 425 --note "서치어드바이저 수동 확인"
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -30,21 +36,49 @@ const manualClicks = arg("--clicks");
 // KST 기준 날짜 — UTC로 찍으면 오전 9시 이전 실행이 전날로 기록된다.
 const kstDate = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
 
+const SITE_QUERY = "site:brandatlas.co.kr";
+
+/** 응답에서 total을 꺼낸다. 두 경로 모두 같은 검색 API라 응답 스키마가 같다. */
+async function fetchTotal(url, headers, label) {
+  try {
+    const res = await fetch(url, { headers, signal: AbortSignal.timeout(20000) });
+    if (!res.ok) return { value: null, reason: `${label} HTTP ${res.status}`, source: label };
+    const j = await res.json();
+    return typeof j.total === "number"
+      ? { value: j.total, reason: "", source: label }
+      : { value: null, reason: `${label} 응답에 total 없음`, source: label };
+  } catch (e) {
+    return { value: null, reason: `${label} ${e.message}`, source: label };
+  }
+}
+
 async function naverIndexed() {
+  // 1) NAVER API HUB (NCP) — 2026-07-31 이후 신규 발급은 이 경로만 가능하다.
+  const ncpId = process.env.NCP_APIGW_KEY_ID;
+  const ncpKey = process.env.NCP_APIGW_KEY;
+  if (ncpId && ncpKey) {
+    const r = await fetchTotal(
+      `https://naverapihub.apigw.ntruss.com/search/v1/webkr?query=${encodeURIComponent(SITE_QUERY)}&display=1`,
+      { "X-NCP-APIGW-API-KEY-ID": ncpId, "X-NCP-APIGW-API-KEY": ncpKey },
+      "apihub"
+    );
+    if (r.value != null) return r;
+    // 실패 사유를 그대로 남긴다 — 엔드포인트/헤더가 바뀌었는지 바로 드러나야 한다.
+    console.warn(`API HUB 조회 실패: ${r.reason}`);
+    if (!process.env.NAVER_CLIENT_ID) return r;
+  }
+
+  // 2) 개발자센터 레거시 키 — 2026-07-31 이전 발급분만, 2027-06-30까지.
   const id = process.env.NAVER_CLIENT_ID;
   const secret = process.env.NAVER_CLIENT_SECRET;
-  if (!id || !secret) return { value: null, reason: "NAVER_CLIENT_ID/SECRET 미설정" };
-  try {
-    const res = await fetch(
-      "https://openapi.naver.com/v1/search/webkr.json?query=" + encodeURIComponent("site:brandatlas.co.kr") + "&display=1",
-      { headers: { "X-Naver-Client-Id": id, "X-Naver-Client-Secret": secret }, signal: AbortSignal.timeout(20000) }
-    );
-    if (!res.ok) return { value: null, reason: `HTTP ${res.status}` };
-    const j = await res.json();
-    return { value: typeof j.total === "number" ? j.total : null, reason: "" };
-  } catch (e) {
-    return { value: null, reason: e.message };
+  if (!id || !secret) {
+    return { value: null, reason: "NCP_APIGW_KEY_ID/KEY 또는 NAVER_CLIENT_ID/SECRET 미설정", source: null };
   }
+  return fetchTotal(
+    `https://openapi.naver.com/v1/search/webkr.json?query=${encodeURIComponent(SITE_QUERY)}&display=1`,
+    { "X-Naver-Client-Id": id, "X-Naver-Client-Secret": secret },
+    "developers"
+  );
 }
 
 /** 사이트가 실제로 응답하는지 — 색인 수가 떨어졌을 때 원인 구분에 필요하다. */
