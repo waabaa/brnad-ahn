@@ -1,0 +1,5642 @@
+{
+ "generatedAt": "2026-09-01T02:19:33.964Z",
+ "method": "Wikidata SPARQL, P856 (official website) exact URL match; ambiguous QIDs dropped",
+ "brandsWithOfficialWebsite": 606,
+ "matched": 408,
+ "withKoWikipedia": 272,
+ "withEnWikipedia": 330,
+ "rejected": 42,
+ "rejectedEntries": [
+  {
+   "slug": "ducati",
+   "name": "두카티",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q271812",
+     "labelEn": "Ducati",
+     "labelKo": "두카티"
+    },
+    {
+     "qid": "Q48767526",
+     "labelEn": "Ducati",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "volvo",
+   "name": "볼보",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q215293",
+     "labelEn": "Volvo Cars",
+     "labelKo": "볼보자동차"
+    },
+    {
+     "qid": "Q1621085",
+     "labelEn": "Volvo Halifax Assembly",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "ralph-lauren",
+   "name": "랄프 로렌",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q125145302",
+     "labelEn": "Ralph Lauren",
+     "labelKo": null
+    },
+    {
+     "qid": "Q20971370",
+     "labelEn": "Ralph Lauren",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "dior",
+   "name": "크리스챤 디올",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q542767",
+     "labelEn": "Christian Dior",
+     "labelKo": "크리스티앙 디오르"
+    }
+   ]
+  },
+  {
+   "slug": "paul-smith",
+   "name": "폴 스미스",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q1231482",
+     "labelEn": "Paul Smith",
+     "labelKo": "폴 스미스"
+    }
+   ]
+  },
+  {
+   "slug": "l-occitane",
+   "name": "록시땅",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q119051016",
+     "labelEn": "L'Occitane Group",
+     "labelKo": null
+    },
+    {
+     "qid": "Q1880676",
+     "labelEn": "L'Occitane en Provence",
+     "labelKo": "록시땅/록시딴/록시탄"
+    }
+   ]
+  },
+  {
+   "slug": "santa-maria-novella",
+   "name": "산타 마리아 노벨라",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q2517185",
+     "labelEn": "Officina di Santa Maria Novella",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "est-e-lauder",
+   "name": "에스티 로더",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q285493",
+     "labelEn": "Estée Lauder",
+     "labelKo": "에스티 로더"
+    }
+   ]
+  },
+  {
+   "slug": "best-global-brands",
+   "name": "베스트 글로벌 브랜드",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q137377002",
+     "labelEn": "Interbrand Best Global Brands",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "k2",
+   "name": "K2",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q1500866",
+     "labelEn": "K2 Sports",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "gillette",
+   "name": "질레트",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q123160974",
+     "labelEn": "The Gillette Company",
+     "labelKo": "질레트"
+    },
+    {
+     "qid": "Q503592",
+     "labelEn": "Gillette",
+     "labelKo": "질레트"
+    }
+   ]
+  },
+  {
+   "slug": "vera-wang",
+   "name": "베라왕",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q230728",
+     "labelEn": "Vera Wang",
+     "labelKo": "베라 왕"
+    }
+   ]
+  },
+  {
+   "slug": "dixons",
+   "name": "Dixons",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q3246464",
+     "labelEn": "Currys",
+     "labelKo": null
+    },
+    {
+     "qid": "Q5195236",
+     "labelEn": "Currys Digital",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "euronics",
+   "name": "Euronics",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q184860",
+     "labelEn": "Euronics",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "euronics-deutschland",
+   "name": "Euronics Deutschland",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q184860",
+     "labelEn": "Euronics",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "deutsche-grammophon",
+   "name": "도이치 그라모폰",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q635515",
+     "labelEn": "Archiv Produktion",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "stone-music-entertainment",
+   "name": "스톤뮤직 엔터테인먼트",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q10854462",
+     "labelEn": "CJ ENM Entertainment Division",
+     "labelKo": "CJ E&M"
+    }
+   ]
+  },
+  {
+   "slug": "ace-records",
+   "name": "Ace Records",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q4673004",
+     "labelEn": "Ace",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "gnp",
+   "name": "GNP",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q5513979",
+     "labelEn": "GNP Crescendo",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "hall-of-sermon",
+   "name": "Hall of Sermon",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q625529",
+     "labelEn": "Lacrimosa",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "jusco",
+   "name": "JUSCO",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q271413",
+     "labelEn": "Aeon",
+     "labelKo": "이온"
+    }
+   ]
+  },
+  {
+   "slug": "talens",
+   "name": "Talens",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q2304183",
+     "labelEn": "Royal Talens",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "levi-strauss-and-co",
+   "name": "리바이 스트라우스 앤드 컴퍼니",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q156343",
+     "labelEn": "Levi Strauss",
+     "labelKo": "리바이 스트라우스"
+    }
+   ]
+  },
+  {
+   "slug": "clio",
+   "name": "클리오",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q31179404",
+     "labelEn": "Peripera",
+     "labelKo": "페리페라"
+    }
+   ]
+  },
+  {
+   "slug": "nexon",
+   "name": "넥슨",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q20874468",
+     "labelEn": "Closers",
+     "labelKo": "클로저스"
+    }
+   ]
+  },
+  {
+   "slug": "samsung-sdi",
+   "name": "삼성SDI",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q131887021",
+     "labelEn": null,
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "mega-coffee",
+   "name": "메가MGC커피",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q120998343",
+     "labelEn": "Mega MGC Coffee",
+     "labelKo": "메가MGC커피"
+    }
+   ]
+  },
+  {
+   "slug": "com2us",
+   "name": "컴투스",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q5150442",
+     "labelEn": "Com2uS",
+     "labelKo": "컴투스"
+    }
+   ]
+  },
+  {
+   "slug": "cj-enm",
+   "name": "CJ ENM",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q10854462",
+     "labelEn": "CJ ENM Entertainment Division",
+     "labelKo": "CJ E&M"
+    }
+   ]
+  },
+  {
+   "slug": "dongwon",
+   "name": "동원",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q16219490",
+     "labelEn": null,
+     "labelKo": "동원그룹"
+    }
+   ]
+  },
+  {
+   "slug": "7-eleven-korea",
+   "name": "세븐일레븐",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q16176797",
+     "labelEn": "Korea Seven",
+     "labelKo": "코리아세븐"
+    }
+   ]
+  },
+  {
+   "slug": "bhc-chicken",
+   "name": "bhc치킨",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q87715854",
+     "labelEn": "bhc",
+     "labelKo": "bhc"
+    }
+   ]
+  },
+  {
+   "slug": "kcc",
+   "name": "KCC",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q16169027",
+     "labelEn": "KCC Group",
+     "labelKo": "KCC그룹"
+    }
+   ]
+  },
+  {
+   "slug": "hdc-hyundai",
+   "name": "HDC현대산업개발",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q5962586",
+     "labelEn": "IPARK Hyundai Development Company",
+     "labelKo": "아이파크현대산업개발"
+    }
+   ]
+  },
+  {
+   "slug": "boryung",
+   "name": "보령",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q12598338",
+     "labelEn": null,
+     "labelKo": "보령제약그룹"
+    }
+   ]
+  },
+  {
+   "slug": "neowiz",
+   "name": "네오위즈",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q795348",
+     "labelEn": "Neowiz",
+     "labelKo": "네오위즈"
+    },
+    {
+     "qid": "Q795583",
+     "labelEn": "Neowiz",
+     "labelKo": "네오위즈"
+    }
+   ]
+  },
+  {
+   "slug": "com2us-holdings",
+   "name": "컴투스홀딩스",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q5150442",
+     "labelEn": "Com2uS",
+     "labelKo": "컴투스"
+    }
+   ]
+  },
+  {
+   "slug": "douzone",
+   "name": "더존비즈온",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q12592762",
+     "labelEn": null,
+     "labelKo": "더존IT그룹"
+    }
+   ]
+  },
+  {
+   "slug": "mega-mgc-coffee",
+   "name": "메가엠지씨커피",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q120998343",
+     "labelEn": "Mega MGC Coffee",
+     "labelKo": "메가MGC커피"
+    }
+   ]
+  },
+  {
+   "slug": "sfa-engineering",
+   "name": "에스에프에이",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q16172533",
+     "labelEn": null,
+     "labelKo": "SFA"
+    }
+   ]
+  },
+  {
+   "slug": "samjin-fishcake",
+   "name": "삼진어묵",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q135187886",
+     "labelEn": null,
+     "labelKo": "삼진식품"
+    }
+   ]
+  },
+  {
+   "slug": "mardi-mercredi",
+   "name": "마르디 메크르디",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q137426861",
+     "labelEn": null,
+     "labelKo": "피스피스스튜디오"
+    }
+   ]
+  }
+ ],
+ "entries": [
+  {
+   "slug": "bang-and-olufsen",
+   "name": "뱅앤올룹슨",
+   "qid": "Q790020",
+   "officialWebsite": "https://www.bang-olufsen.com/",
+   "labelKo": "뱅 앤 올룹슨",
+   "labelEn": "Bang & Olufsen",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q790020",
+    "https://ko.wikipedia.org/wiki/%EB%B1%85_%EC%95%A4_%EC%98%AC%EB%A3%B9%EC%8A%A8",
+    "https://en.wikipedia.org/wiki/Bang_%26_Olufsen"
+   ]
+  },
+  {
+   "slug": "uniqlo",
+   "name": "유니클로",
+   "qid": "Q26070",
+   "officialWebsite": "https://www.uniqlo.com/",
+   "labelKo": "유니클로",
+   "labelEn": "Uniqlo",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26070",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/Uniqlo"
+   ]
+  },
+  {
+   "slug": "lush",
+   "name": "러쉬",
+   "qid": "Q1585448",
+   "officialWebsite": "https://www.lush.com/",
+   "labelKo": "러쉬",
+   "labelEn": "Lush",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1585448",
+    "https://ko.wikipedia.org/wiki/%EB%9F%AC%EC%89%AC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Lush_(company)"
+   ]
+  },
+  {
+   "slug": "cisco",
+   "name": "시스코",
+   "qid": "Q173395",
+   "officialWebsite": "https://www.cisco.com/",
+   "labelKo": "시스코 시스템즈",
+   "labelEn": "Cisco",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173395",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%8A%A4%EC%BD%94_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Cisco"
+   ]
+  },
+  {
+   "slug": "olympus",
+   "name": "올림푸스",
+   "qid": "Q688619",
+   "officialWebsite": "https://www.olympus-global.com/",
+   "labelKo": "올림푸스",
+   "labelEn": "Olympus Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q688619",
+    "https://ko.wikipedia.org/wiki/%EC%98%AC%EB%A6%BC%ED%91%B8%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Olympus_Corporation"
+   ]
+  },
+  {
+   "slug": "intel",
+   "name": "인텔",
+   "qid": "Q248",
+   "officialWebsite": "https://www.intel.com",
+   "labelKo": "인텔",
+   "labelEn": "Intel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q248",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%85%94",
+    "https://en.wikipedia.org/wiki/Intel"
+   ]
+  },
+  {
+   "slug": "xerox",
+   "name": "제록스",
+   "qid": "Q152433",
+   "officialWebsite": "https://www.xerox.com/",
+   "labelKo": "제록스",
+   "labelEn": "Xerox",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q152433",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%A1%9D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Xerox"
+   ]
+  },
+  {
+   "slug": "fedex",
+   "name": "페덱스",
+   "qid": "Q459477",
+   "officialWebsite": "https://www.fedex.com/",
+   "labelKo": "페덱스",
+   "labelEn": "FedEx",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q459477",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%8D%B1%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/FedEx"
+   ]
+  },
+  {
+   "slug": "audi",
+   "name": "아우디",
+   "qid": "Q23317",
+   "officialWebsite": "https://www.audi.com/",
+   "labelKo": "아우디",
+   "labelEn": "Audi AG",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q23317",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9A%B0%EB%94%94",
+    "https://en.wikipedia.org/wiki/Audi"
+   ]
+  },
+  {
+   "slug": "dove",
+   "name": "도브",
+   "qid": "Q962709",
+   "officialWebsite": "https://www.dove.com/",
+   "labelKo": "도브",
+   "labelEn": "Dove",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q962709",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%B8%8C_(%EC%84%B8%EB%A9%B4%EB%8F%84%EA%B5%AC)",
+    "https://en.wikipedia.org/wiki/Dove_(Unilever_brand)"
+   ]
+  },
+  {
+   "slug": "new-balance",
+   "name": "뉴발란스",
+   "qid": "Q742988",
+   "officialWebsite": "https://www.newbalance.com/",
+   "labelKo": "뉴발란스",
+   "labelEn": "New Balance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q742988",
+    "https://ko.wikipedia.org/wiki/%EB%89%B4%EB%B0%9C%EB%9E%80%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/New_Balance"
+   ]
+  },
+  {
+   "slug": "reebok",
+   "name": "리복",
+   "qid": "Q466183",
+   "officialWebsite": "https://www.reebok.com/",
+   "labelKo": "리복",
+   "labelEn": "Reebok",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q466183",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%B3%B5",
+    "https://en.wikipedia.org/wiki/Reebok"
+   ]
+  },
+  {
+   "slug": "marlboro",
+   "name": "말보로",
+   "qid": "Q15075",
+   "officialWebsite": "https://www.marlboro.com/",
+   "labelKo": "말보로",
+   "labelEn": "Marlboro",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15075",
+    "https://ko.wikipedia.org/wiki/%EB%A7%90%EB%B3%B4%EB%A1%9C_(%EB%8B%B4%EB%B0%B0)",
+    "https://en.wikipedia.org/wiki/Marlboro"
+   ]
+  },
+  {
+   "slug": "nestl",
+   "name": "네슬레",
+   "qid": "Q160746",
+   "officialWebsite": "https://www.nestle.com/",
+   "labelKo": "네슬레",
+   "labelEn": "Nestlé",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160746",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%8A%AC%EB%A0%88",
+    "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+   ]
+  },
+  {
+   "slug": "budweiser",
+   "name": "버드와이저",
+   "qid": "Q610672",
+   "officialWebsite": "https://www.budweiser.com/",
+   "labelKo": "버드와이저",
+   "labelEn": "Budweiser",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q610672",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%93%9C%EC%99%80%EC%9D%B4%EC%A0%80",
+    "https://en.wikipedia.org/wiki/Budweiser"
+   ]
+  },
+  {
+   "slug": "dkny",
+   "name": "DKNY",
+   "qid": "Q938773",
+   "officialWebsite": "https://www.dkny.com/",
+   "labelKo": "디케이엔와이",
+   "labelEn": "DKNY",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q938773",
+    "https://ko.wikipedia.org/wiki/DKNY",
+    "https://en.wikipedia.org/wiki/DKNY"
+   ]
+  },
+  {
+   "slug": "gucci",
+   "name": "구찌",
+   "qid": "Q178516",
+   "officialWebsite": "https://www.gucci.com/",
+   "labelKo": "구찌",
+   "labelEn": "Gucci",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q178516",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%B0%8C",
+    "https://en.wikipedia.org/wiki/Gucci"
+   ]
+  },
+  {
+   "slug": "cartier",
+   "name": "까르띠에",
+   "qid": "Q538587",
+   "officialWebsite": "https://www.cartier.com/",
+   "labelKo": "까르띠에",
+   "labelEn": "Cartier",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q538587",
+    "https://ko.wikipedia.org/wiki/%EA%B9%8C%EB%A5%B4%EB%9D%A0%EC%97%90",
+    "https://en.wikipedia.org/wiki/Cartier_(brand)"
+   ]
+  },
+  {
+   "slug": "nudie-jeans",
+   "name": "누디진",
+   "qid": "Q2436187",
+   "officialWebsite": "https://www.nudiejeans.com/",
+   "labelKo": "누디진",
+   "labelEn": "Nudie Jeans",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2436187",
+    "https://en.wikipedia.org/wiki/Nudie_Jeans"
+   ]
+  },
+  {
+   "slug": "diesel",
+   "name": "디젤",
+   "qid": "Q158285",
+   "officialWebsite": "https://www.diesel.com/",
+   "labelKo": "디젤",
+   "labelEn": "Diesel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q158285",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%A0%A4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Diesel_(company)"
+   ]
+  },
+  {
+   "slug": "rolex",
+   "name": "롤렉스",
+   "qid": "Q62288",
+   "officialWebsite": "https://www.rolex.com/",
+   "labelKo": "롤렉스",
+   "labelEn": "Rolex",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q62288",
+    "https://ko.wikipedia.org/wiki/%EB%A1%A4%EB%A0%89%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Rolex"
+   ]
+  },
+  {
+   "slug": "burberry",
+   "name": "버버리",
+   "qid": "Q390107",
+   "officialWebsite": "https://www.burberry.com/",
+   "labelKo": "버버리",
+   "labelEn": "Burberry",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q390107",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%B2%84%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Burberry"
+   ]
+  },
+  {
+   "slug": "yves-saint-laurent",
+   "name": "생 로랑",
+   "qid": "Q2282172",
+   "officialWebsite": "https://www.ysl.com/",
+   "labelKo": "입생로랑",
+   "labelEn": "Yves Saint Laurent",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2282172",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B8%8C_%EC%83%9D_%EB%A1%9C%EB%9E%91_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+    "https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house)"
+   ]
+  },
+  {
+   "slug": "ugg",
+   "name": "어그",
+   "qid": "Q1138480",
+   "officialWebsite": "https://www.ugg.com/",
+   "labelKo": "어그",
+   "labelEn": "UGG",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1138480",
+    "https://ko.wikipedia.org/wiki/%EC%96%B4%EA%B7%B8",
+    "https://en.wikipedia.org/wiki/UGG_(brand)"
+   ]
+  },
+  {
+   "slug": "omega",
+   "name": "오메가",
+   "qid": "Q659224",
+   "officialWebsite": "https://www.omegawatches.com/",
+   "labelKo": "오메가",
+   "labelEn": "Omega SA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q659224",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A9%94%EA%B0%80_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Omega_SA"
+   ]
+  },
+  {
+   "slug": "giorgio-armani",
+   "name": "조르지오 아르마니",
+   "qid": "Q635484",
+   "officialWebsite": "https://www.armani.com/",
+   "labelKo": "아르마니",
+   "labelEn": "Giorgio Armani",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q635484",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A5%B4%EB%A7%88%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Armani"
+   ]
+  },
+  {
+   "slug": "ferrari",
+   "name": "페라리",
+   "qid": "Q27586",
+   "officialWebsite": "https://www.ferrari.com/",
+   "labelKo": "페라리",
+   "labelEn": "Ferrari",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27586",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%9D%BC%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Ferrari"
+   ]
+  },
+  {
+   "slug": "aspirin",
+   "name": "아스피린",
+   "qid": "Q10420388",
+   "officialWebsite": "https://www.aspirin.com",
+   "labelKo": null,
+   "labelEn": "Aspirin",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q10420388"
+   ]
+  },
+  {
+   "slug": "camper",
+   "name": "캠퍼",
+   "qid": "Q1030922",
+   "officialWebsite": "https://www.camper.com",
+   "labelKo": "캠퍼",
+   "labelEn": "Camper",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1030922",
+    "https://ko.wikipedia.org/wiki/%EC%BA%A0%ED%8D%BC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Camper_(company)"
+   ]
+  },
+  {
+   "slug": "bic",
+   "name": "빅",
+   "qid": "Q795981",
+   "officialWebsite": "https://www.bic.com",
+   "labelKo": "Bic",
+   "labelEn": "Bic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q795981",
+    "https://ko.wikipedia.org/wiki/Bic_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Bic"
+   ]
+  },
+  {
+   "slug": "alessi",
+   "name": "알레시",
+   "qid": "Q1649271",
+   "officialWebsite": "https://www.alessi.com",
+   "labelKo": null,
+   "labelEn": "Alessi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1649271",
+    "https://en.wikipedia.org/wiki/Alessi_(Italian_company)"
+   ]
+  },
+  {
+   "slug": "siemens",
+   "name": "지멘스",
+   "qid": "Q81230",
+   "officialWebsite": "https://www.siemens.com/",
+   "labelKo": "지멘스 AG",
+   "labelEn": "Siemens",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q81230",
+    "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%A9%98%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Siemens"
+   ]
+  },
+  {
+   "slug": "stokke",
+   "name": "스토케",
+   "qid": "Q1056473",
+   "officialWebsite": "https://www.stokke.com/",
+   "labelKo": "스토케 AS",
+   "labelEn": "Stokke AS",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1056473",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%86%A0%EC%BC%80_AS",
+    "https://en.wikipedia.org/wiki/Stokke_AS"
+   ]
+  },
+  {
+   "slug": "yankee-candle",
+   "name": "양키캔들",
+   "qid": "Q8048733",
+   "officialWebsite": "https://www.yankeecandle.com/",
+   "labelKo": null,
+   "labelEn": "Yankee Candle Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8048733",
+    "https://en.wikipedia.org/wiki/Yankee_Candle"
+   ]
+  },
+  {
+   "slug": "saab",
+   "name": "사브",
+   "qid": "Q219501",
+   "officialWebsite": "https://www.saab.com/",
+   "labelKo": "사브",
+   "labelEn": "Saab Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q219501",
+    "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%B8%8C",
+    "https://en.wikipedia.org/wiki/Saab_AB"
+   ]
+  },
+  {
+   "slug": "pizza-hut",
+   "name": "피자헛",
+   "qid": "Q191615",
+   "officialWebsite": "https://www.pizzahut.com/",
+   "labelKo": "피자헛",
+   "labelEn": "Pizza Hut",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q191615",
+    "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%9E%90%ED%97%9B",
+    "https://en.wikipedia.org/wiki/Pizza_Hut"
+   ]
+  },
+  {
+   "slug": "bobbi-brown",
+   "name": "바비브라운",
+   "qid": "Q105132734",
+   "officialWebsite": "https://www.bobbibrowncosmetics.com/",
+   "labelKo": null,
+   "labelEn": "Bobbi Brown",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q105132734"
+   ]
+  },
+  {
+   "slug": "vaseline",
+   "name": "바세린",
+   "qid": "Q185120",
+   "officialWebsite": "https://www.vaseline.com/",
+   "labelKo": "바셀린",
+   "labelEn": "vaseline",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q185120",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%84%B8%EB%A6%B0",
+    "https://en.wikipedia.org/wiki/Vaseline"
+   ]
+  },
+  {
+   "slug": "origins",
+   "name": "오리진스",
+   "qid": "Q6643229",
+   "officialWebsite": "https://www.origins.com/",
+   "labelKo": null,
+   "labelEn": "Origins Natural Resources, Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6643229",
+    "https://en.wikipedia.org/wiki/Origins_(cosmetics)"
+   ]
+  },
+  {
+   "slug": "wella",
+   "name": "웰라",
+   "qid": "Q702674",
+   "officialWebsite": "https://www.wella.com/",
+   "labelKo": "웰라",
+   "labelEn": "Wella",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q702674",
+    "https://ko.wikipedia.org/wiki/%EC%9B%B0%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Wella"
+   ]
+  },
+  {
+   "slug": "henkel",
+   "name": "헨켈",
+   "qid": "Q276507",
+   "officialWebsite": "https://www.henkel.com/",
+   "labelKo": "헨켈",
+   "labelEn": "Henkel KGaA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q276507",
+    "https://ko.wikipedia.org/wiki/%ED%97%A8%EC%BC%88",
+    "https://en.wikipedia.org/wiki/Henkel"
+   ]
+  },
+  {
+   "slug": "the-north-face",
+   "name": "노스페이스",
+   "qid": "Q152784",
+   "officialWebsite": "https://www.thenorthface.com/",
+   "labelKo": "노스페이스",
+   "labelEn": "The North Face, Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q152784",
+    "https://ko.wikipedia.org/wiki/%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/The_North_Face"
+   ]
+  },
+  {
+   "slug": "arc-teryx",
+   "name": "아크테릭스",
+   "qid": "Q3271455",
+   "officialWebsite": "https://arcteryx.com/",
+   "labelKo": "아크테릭스",
+   "labelEn": "Arc'teryx",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3271455",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%81%AC%ED%85%8C%EB%A6%AD%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Arc%27teryx"
+   ]
+  },
+  {
+   "slug": "godiva",
+   "name": "고디바",
+   "qid": "Q931084",
+   "officialWebsite": "https://www.godiva.com/",
+   "labelKo": "고다이바",
+   "labelEn": "Godiva Chocolatier",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q931084",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%94%94%EB%B0%94",
+    "https://en.wikipedia.org/wiki/Godiva_Chocolatier"
+   ]
+  },
+  {
+   "slug": "nescafe",
+   "name": "네스카페",
+   "qid": "Q503191",
+   "officialWebsite": "https://www.nescafe.com/",
+   "labelKo": "네스카페",
+   "labelEn": "Nescafé",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q503191",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%8A%A4%EC%B9%B4%ED%8E%98",
+    "https://en.wikipedia.org/wiki/Nescaf%C3%A9"
+   ]
+  },
+  {
+   "slug": "domino-s-pizza",
+   "name": "도미노피자",
+   "qid": "Q839466",
+   "officialWebsite": "https://www.dominos.com/",
+   "labelKo": "도미노피자",
+   "labelEn": "Domino's Pizza",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q839466",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90",
+    "https://en.wikipedia.org/wiki/Domino%27s"
+   ]
+  },
+  {
+   "slug": "dom-p-rignon",
+   "name": "돔 페리뇽",
+   "qid": "Q347187",
+   "officialWebsite": "https://www.domperignon.com/",
+   "labelKo": "동 페리뇽",
+   "labelEn": "Dom Pérignon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q347187",
+    "https://ko.wikipedia.org/wiki/%EB%8F%94_%ED%8E%98%EB%A6%AC%EB%87%BD_(%EC%83%B4%ED%8E%98%EC%9D%B8)",
+    "https://en.wikipedia.org/wiki/Dom_P%C3%A9rignon"
+   ]
+  },
+  {
+   "slug": "red-bull",
+   "name": "레드불",
+   "qid": "Q698639",
+   "officialWebsite": "https://www.redbull.com/",
+   "labelKo": "레드불 유한회사",
+   "labelEn": "Red Bull GmbH",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q698639",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%93%9C%EB%B6%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Red_Bull_GmbH"
+   ]
+  },
+  {
+   "slug": "moet-and-chandon",
+   "name": "모엣&샹동",
+   "qid": "Q699529",
+   "officialWebsite": "https://www.moet.com/",
+   "labelKo": "모엣 & 샹동",
+   "labelEn": "Moët & Chandon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q699529",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%97%A3_%26_%EC%83%B9%EB%8F%99",
+    "https://en.wikipedia.org/wiki/Mo%C3%ABt_%26_Chandon"
+   ]
+  },
+  {
+   "slug": "bacard",
+   "name": "바카디",
+   "qid": "Q685395",
+   "officialWebsite": "https://www.bacardi.com/",
+   "labelKo": "바카디",
+   "labelEn": "Bacardi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q685395",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%B9%B4%EB%94%94",
+    "https://en.wikipedia.org/wiki/Bacardi"
+   ]
+  },
+  {
+   "slug": "subway",
+   "name": "써브웨이",
+   "qid": "Q244457",
+   "officialWebsite": "https://www.subway.com/",
+   "labelKo": "써브웨이",
+   "labelEn": "Subway",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q244457",
+    "https://ko.wikipedia.org/wiki/%EC%8D%A8%EB%B8%8C%EC%9B%A8%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Subway_(restaurant)"
+   ]
+  },
+  {
+   "slug": "corona-extra",
+   "name": "코로나 엑스트라",
+   "qid": "Q864987",
+   "officialWebsite": "https://www.corona.com/",
+   "labelKo": "코로나",
+   "labelEn": "Corona",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q864987",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A1%9C%EB%82%98_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Corona_(beer)"
+   ]
+  },
+  {
+   "slug": "club-med",
+   "name": "클럽메드",
+   "qid": "Q1076645",
+   "officialWebsite": "https://www.clubmed.com/",
+   "labelKo": "클럽메드",
+   "labelEn": "Club Med",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1076645",
+    "https://ko.wikipedia.org/wiki/%ED%81%B4%EB%9F%BD%EB%A9%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Club_Med"
+   ]
+  },
+  {
+   "slug": "portmeirion",
+   "name": "포트메리온",
+   "qid": "Q7232125",
+   "officialWebsite": "https://www.portmeirion.co.uk/",
+   "labelKo": null,
+   "labelEn": "Portmeirion Pottery",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7232125",
+    "https://en.wikipedia.org/wiki/Portmeirion_Pottery"
+   ]
+  },
+  {
+   "slug": "heineken",
+   "name": "하이네켄",
+   "qid": "Q854383",
+   "officialWebsite": "https://www.heineken.com/",
+   "labelKo": "하이네켄",
+   "labelEn": "Heineken",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q854383",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EB%84%A4%EC%BC%84",
+    "https://en.wikipedia.org/wiki/Heineken"
+   ]
+  },
+  {
+   "slug": "rimowa",
+   "name": "리모와",
+   "qid": "Q1287437",
+   "officialWebsite": "https://www.rimowa.com",
+   "labelKo": "리모와",
+   "labelEn": "Rimowa",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1287437",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%AA%A8%EC%99%80",
+    "https://en.wikipedia.org/wiki/Rimowa"
+   ]
+  },
+  {
+   "slug": "international-watch-company",
+   "name": "IWC",
+   "qid": "Q662902",
+   "officialWebsite": "https://www.iwc.com/",
+   "labelKo": "IWC",
+   "labelEn": "International Watch Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q662902",
+    "https://ko.wikipedia.org/wiki/IWC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/IWC_Schaffhausen"
+   ]
+  },
+  {
+   "slug": "gap",
+   "name": "갭",
+   "qid": "Q124981193",
+   "officialWebsite": "https://www.gap.com/",
+   "labelKo": null,
+   "labelEn": "GAP",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q124981193"
+   ]
+  },
+  {
+   "slug": "dolce-and-gabbana",
+   "name": "돌체앤가바나",
+   "qid": "Q214480",
+   "officialWebsite": "https://www.dolcegabbana.com/",
+   "labelKo": "돌체앤가바나",
+   "labelEn": "Dolce & Gabbana",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q214480",
+    "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%B2%B4%EC%95%A4%EA%B0%80%EB%B0%94%EB%82%98",
+    "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana"
+   ]
+  },
+  {
+   "slug": "de-beers",
+   "name": "드비어스",
+   "qid": "Q471891",
+   "officialWebsite": "https://www.debeersgroup.com/",
+   "labelKo": "드비어스",
+   "labelEn": "De Beers",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q471891",
+    "https://ko.wikipedia.org/wiki/%EB%93%9C%EB%B9%84%EC%96%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/De_Beers"
+   ]
+  },
+  {
+   "slug": "maxmara",
+   "name": "막스마라",
+   "qid": "Q1151774",
+   "officialWebsite": "https://www.maxmara.com/",
+   "labelKo": "막스마라",
+   "labelEn": "Max Mara",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1151774",
+    "https://ko.wikipedia.org/wiki/%EB%A7%89%EC%8A%A4%EB%A7%88%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Max_Mara"
+   ]
+  },
+  {
+   "slug": "moncler",
+   "name": "몽클레르",
+   "qid": "Q1548951",
+   "officialWebsite": "https://www.moncler.com/",
+   "labelKo": "몽클레르",
+   "labelEn": "Moncler",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1548951",
+    "https://ko.wikipedia.org/wiki/%EB%AA%BD%ED%81%B4%EB%A0%88%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Moncler"
+   ]
+  },
+  {
+   "slug": "van-cleef-and-arpels",
+   "name": "반클리프 아펠",
+   "qid": "Q2708181",
+   "officialWebsite": "https://www.vancleefarpels.com/",
+   "labelKo": "반클리프 아펠",
+   "labelEn": "Van Cleef & Arpels",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2708181",
+    "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%81%B4%EB%A6%AC%ED%94%84_%EC%95%84%ED%8E%A0",
+    "https://en.wikipedia.org/wiki/Van_Cleef_%26_Arpels"
+   ]
+  },
+  {
+   "slug": "bottega-veneta",
+   "name": "보테가 베네타",
+   "qid": "Q894874",
+   "officialWebsite": "https://www.bottegaveneta.com/",
+   "labelKo": "보테가 베네타",
+   "labelEn": "Bottega Veneta",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q894874",
+    "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%85%8C%EA%B0%80_%EB%B2%A0%EB%84%A4%ED%83%80",
+    "https://en.wikipedia.org/wiki/Bottega_Veneta"
+   ]
+  },
+  {
+   "slug": "ferragamo",
+   "name": "살바토레 페라가모",
+   "qid": "Q3946053",
+   "officialWebsite": "https://www.ferragamo.com/",
+   "labelKo": "살바토레 페라가모 S.p.A.",
+   "labelEn": "Salvatore Ferragamo",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3946053",
+    "https://ko.wikipedia.org/wiki/%EC%82%B4%EB%B0%94%ED%86%A0%EB%A0%88_%ED%8E%98%EB%9D%BC%EA%B0%80%EB%AA%A8_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Salvatore_Ferragamo_(company)"
+   ]
+  },
+  {
+   "slug": "swarovski",
+   "name": "스와로브스키",
+   "qid": "Q611115",
+   "officialWebsite": "https://www.swarovski.com/",
+   "labelKo": "스와로브스키",
+   "labelEn": "Swarovski",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q611115",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%99%80%EB%A1%9C%EB%B8%8C%EC%8A%A4%ED%82%A4",
+    "https://en.wikipedia.org/wiki/Swarovski"
+   ]
+  },
+  {
+   "slug": "zegna",
+   "name": "에르메네질도 제냐",
+   "qid": "Q1355904",
+   "officialWebsite": "https://www.zegna.com/",
+   "labelKo": "에르메네질도 제냐",
+   "labelEn": "Zegna",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1355904",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%A5%B4%EB%A9%94%EB%84%A4%EC%A7%88%EB%8F%84_%EC%A0%9C%EB%83%90",
+    "https://en.wikipedia.org/wiki/Zegna"
+   ]
+  },
+  {
+   "slug": "givenchy",
+   "name": "지방시",
+   "qid": "Q759210",
+   "officialWebsite": "https://www.givenchy.com/",
+   "labelKo": "지방시",
+   "labelEn": "Givenchy",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q759210",
+    "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%B0%A9%EC%8B%9C_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+    "https://en.wikipedia.org/wiki/Givenchy"
+   ]
+  },
+  {
+   "slug": "g-shock",
+   "name": "지샥",
+   "qid": "Q1047701",
+   "officialWebsite": "https://gshock.casio.com/",
+   "labelKo": "지샥",
+   "labelEn": "G-Shock",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1047701",
+    "https://ko.wikipedia.org/wiki/G-SHOCK",
+    "https://en.wikipedia.org/wiki/G-Shock"
+   ]
+  },
+  {
+   "slug": "tag-heuer",
+   "name": "태그호이어",
+   "qid": "Q645984",
+   "officialWebsite": "https://www.tagheuer.com/",
+   "labelKo": "태그호이어",
+   "labelEn": "TAG Heuer",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q645984",
+    "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B7%B8%ED%98%B8%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/TAG_Heuer"
+   ]
+  },
+  {
+   "slug": "tory-burch",
+   "name": "토리 버치",
+   "qid": "Q19988222",
+   "officialWebsite": "https://www.toryburch.com/",
+   "labelKo": "토리버치",
+   "labelEn": "Tory Burch LLC",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q19988222",
+    "https://en.wikipedia.org/wiki/Tory_Burch_LLC"
+   ]
+  },
+  {
+   "slug": "tumi",
+   "name": "투미",
+   "qid": "Q4465402",
+   "officialWebsite": "https://www.tumi.com",
+   "labelKo": "투미",
+   "labelEn": "Tumi Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4465402",
+    "https://en.wikipedia.org/wiki/Tumi_Inc."
+   ]
+  },
+  {
+   "slug": "fendi",
+   "name": "펜디",
+   "qid": "Q926575",
+   "officialWebsite": "https://www.fendi.com/",
+   "labelKo": "펜디",
+   "labelEn": "Fendi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q926575",
+    "https://ko.wikipedia.org/wiki/%ED%8E%9C%EB%94%94",
+    "https://en.wikipedia.org/wiki/Fendi"
+   ]
+  },
+  {
+   "slug": "hugo-boss",
+   "name": "휴고 보스",
+   "qid": "Q491627",
+   "officialWebsite": "https://www.hugoboss.com/",
+   "labelKo": "휴고 보스",
+   "labelEn": "Hugo Boss",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q491627",
+    "https://ko.wikipedia.org/wiki/%ED%9C%B4%EA%B3%A0_%EB%B3%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Hugo_Boss"
+   ]
+  },
+  {
+   "slug": "kiehl-s",
+   "name": "키엘",
+   "qid": "Q3196447",
+   "officialWebsite": "https://www.kiehls.com",
+   "labelKo": "키엘",
+   "labelEn": "Kiehl's",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3196447",
+    "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%97%98",
+    "https://en.wikipedia.org/wiki/Kiehl%27s"
+   ]
+  },
+  {
+   "slug": "le-creuset",
+   "name": "르크루제",
+   "qid": "Q555861",
+   "officialWebsite": "https://www.lecreuset.com",
+   "labelKo": "르크루제",
+   "labelEn": "Le Creuset",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q555861",
+    "https://ko.wikipedia.org/wiki/%EB%A5%B4%ED%81%AC%EB%A3%A8%EC%A0%9C",
+    "https://en.wikipedia.org/wiki/Le_Creuset"
+   ]
+  },
+  {
+   "slug": "eldi",
+   "name": "Eldi",
+   "qid": "Q3050500",
+   "officialWebsite": "https://www.eldi.be",
+   "labelKo": null,
+   "labelEn": "Eldi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3050500"
+   ]
+  },
+  {
+   "slug": "elkj-p",
+   "name": "Elkjøp",
+   "qid": "Q1771628",
+   "officialWebsite": "https://www.elkjop.no/",
+   "labelKo": null,
+   "labelEn": "Elkjøp",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1771628",
+    "https://en.wikipedia.org/wiki/Elkj%C3%B8p"
+   ]
+  },
+  {
+   "slug": "libro",
+   "name": "Libro",
+   "qid": "Q1823138",
+   "officialWebsite": "https://www.libro.at/",
+   "labelKo": null,
+   "labelEn": "Libro",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1823138"
+   ]
+  },
+  {
+   "slug": "saturn",
+   "name": "Saturn",
+   "qid": "Q2543504",
+   "officialWebsite": "https://www.saturn.de/",
+   "labelKo": null,
+   "labelEn": "Saturn",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2543504",
+    "https://en.wikipedia.org/wiki/Saturn_(store)"
+   ]
+  },
+  {
+   "slug": "unieuro",
+   "name": "Unieuro",
+   "qid": "Q4004687",
+   "officialWebsite": "https://www.unieuro.it/",
+   "labelKo": null,
+   "labelEn": "Unieuro",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4004687",
+    "https://en.wikipedia.org/wiki/Unieuro"
+   ]
+  },
+  {
+   "slug": "verizon-wireless",
+   "name": "버라이즌 와이어리스",
+   "qid": "Q919641",
+   "officialWebsite": "https://www.verizon.com/",
+   "labelKo": "버라이즌 와이어리스",
+   "labelEn": "Verizon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q919641",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EB%9D%BC%EC%9D%B4%EC%A6%8C_(%EB%AA%A8%EB%B0%94%EC%9D%BC_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+    "https://en.wikipedia.org/wiki/Verizon_(wireless_service)"
+   ]
+  },
+  {
+   "slug": "yodobashi-camera",
+   "name": "요도바시 카메라",
+   "qid": "Q168467",
+   "officialWebsite": "https://www.yodobashi.com/",
+   "labelKo": "요도바시 카메라",
+   "labelEn": "Yodobashi Camera",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q168467",
+    "https://ko.wikipedia.org/wiki/%EC%9A%94%EB%8F%84%EB%B0%94%EC%8B%9C_%EC%B9%B4%EB%A9%94%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Yodobashi_Camera"
+   ]
+  },
+  {
+   "slug": "archambault",
+   "name": "Archambault",
+   "qid": "Q2860003",
+   "officialWebsite": "https://www.archambault.ca/",
+   "labelKo": null,
+   "labelEn": "Archambault",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2860003",
+    "https://en.wikipedia.org/wiki/Archambault"
+   ]
+  },
+  {
+   "slug": "biltema",
+   "name": "Biltema",
+   "qid": "Q3355552",
+   "officialWebsite": "https://www.biltema.com/",
+   "labelKo": null,
+   "labelEn": "Biltema",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3355552",
+    "https://en.wikipedia.org/wiki/Biltema"
+   ]
+  },
+  {
+   "slug": "botanic",
+   "name": "Botanic",
+   "qid": "Q2911642",
+   "officialWebsite": "https://www.botanic.com/",
+   "labelKo": null,
+   "labelEn": "Botanic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2911642"
+   ]
+  },
+  {
+   "slug": "deserres",
+   "name": "DeSerres",
+   "qid": "Q3020049",
+   "officialWebsite": "https://www.deserres.ca/",
+   "labelKo": null,
+   "labelEn": "DeSerres",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3020049"
+   ]
+  },
+  {
+   "slug": "dollarama",
+   "name": "Dollarama",
+   "qid": "Q3033947",
+   "officialWebsite": "https://www.dollarama.com/",
+   "labelKo": null,
+   "labelEn": "Dollarama",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3033947",
+    "https://en.wikipedia.org/wiki/Dollarama"
+   ]
+  },
+  {
+   "slug": "franprix",
+   "name": "Franprix",
+   "qid": "Q2420096",
+   "officialWebsite": "https://www.franprix.fr/",
+   "labelKo": null,
+   "labelEn": "Franprix",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2420096",
+    "https://en.wikipedia.org/wiki/Franprix"
+   ]
+  },
+  {
+   "slug": "galeria-kaufhof",
+   "name": "Galeria Kaufhof",
+   "qid": "Q80220059",
+   "officialWebsite": "https://www.galeria.de/",
+   "labelKo": null,
+   "labelEn": "Galeria",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q80220059",
+    "https://en.wikipedia.org/wiki/Galeria_(department_store)"
+   ]
+  },
+  {
+   "slug": "gamestop",
+   "name": "GameStop",
+   "qid": "Q202210",
+   "officialWebsite": "https://www.gamestop.com/",
+   "labelKo": "GameStop",
+   "labelEn": "GameStop",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q202210",
+    "https://ko.wikipedia.org/wiki/%EA%B2%8C%EC%9E%84%EC%8A%A4%ED%83%91",
+    "https://en.wikipedia.org/wiki/GameStop"
+   ]
+  },
+  {
+   "slug": "hema",
+   "name": "HEMA",
+   "qid": "Q903805",
+   "officialWebsite": "https://www.hema.nl/",
+   "labelKo": null,
+   "labelEn": "HEMA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q903805",
+    "https://en.wikipedia.org/wiki/HEMA_(store)"
+   ]
+  },
+  {
+   "slug": "iceland",
+   "name": "Iceland",
+   "qid": "Q721810",
+   "officialWebsite": "https://www.iceland.co.uk/",
+   "labelKo": null,
+   "labelEn": "Iceland",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q721810",
+    "https://en.wikipedia.org/wiki/Iceland_(supermarket)"
+   ]
+  },
+  {
+   "slug": "intersport",
+   "name": "Intersport",
+   "qid": "Q666888",
+   "officialWebsite": "https://intersport.com/",
+   "labelKo": null,
+   "labelEn": "Intersport",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q666888",
+    "https://en.wikipedia.org/wiki/Intersport"
+   ]
+  },
+  {
+   "slug": "leader-price",
+   "name": "Leader Price",
+   "qid": "Q2181426",
+   "officialWebsite": "https://www.leaderprice.fr/",
+   "labelKo": null,
+   "labelEn": "Leader Price",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2181426",
+    "https://en.wikipedia.org/wiki/Leader_Price"
+   ]
+  },
+  {
+   "slug": "livraria-bertrand",
+   "name": "Livraria Bertrand",
+   "qid": "Q1866547",
+   "officialWebsite": "https://www.bertrand.pt/",
+   "labelKo": null,
+   "labelEn": "Livraria Bertrand",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1866547",
+    "https://en.wikipedia.org/wiki/Livraria_Bertrand"
+   ]
+  },
+  {
+   "slug": "ludwig-g-rtz",
+   "name": "Ludwig Görtz",
+   "qid": "Q1559593",
+   "officialWebsite": "https://www.goertz.de",
+   "labelKo": null,
+   "labelEn": "Ludwig Görtz",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1559593"
+   ]
+  },
+  {
+   "slug": "match",
+   "name": "Match",
+   "qid": "Q513977",
+   "officialWebsite": "https://www.supermarchesmatch.fr/",
+   "labelKo": null,
+   "labelEn": "Match",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q513977",
+    "https://en.wikipedia.org/wiki/Match_(supermarket)"
+   ]
+  },
+  {
+   "slug": "mercator",
+   "name": "Mercator",
+   "qid": "Q738412",
+   "officialWebsite": "https://www.mercator.si/",
+   "labelKo": null,
+   "labelEn": "Mercator",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q738412",
+    "https://en.wikipedia.org/wiki/Mercator_(retail)"
+   ]
+  },
+  {
+   "slug": "new-yorker",
+   "name": "New Yorker",
+   "qid": "Q706421",
+   "officialWebsite": "https://www.newyorker.de/",
+   "labelKo": null,
+   "labelEn": "New Yorker",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q706421",
+    "https://en.wikipedia.org/wiki/New_Yorker_(clothing)"
+   ]
+  },
+  {
+   "slug": "noz",
+   "name": "Noz",
+   "qid": "Q3345688",
+   "officialWebsite": "https://www.noz.fr/",
+   "labelKo": null,
+   "labelEn": "Noz",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3345688"
+   ]
+  },
+  {
+   "slug": "panduro-hobby",
+   "name": "Panduro Hobby",
+   "qid": "Q265941",
+   "officialWebsite": "https://www.panduro.com/",
+   "labelKo": null,
+   "labelEn": "Panduro Hobby",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q265941"
+   ]
+  },
+  {
+   "slug": "perekryostok",
+   "name": "Perekryostok",
+   "qid": "Q1684639",
+   "officialWebsite": "https://www.perekrestok.ru/",
+   "labelKo": null,
+   "labelEn": "Perekryostok",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1684639",
+    "https://en.wikipedia.org/wiki/Perekrestok_(supermarket_chain)"
+   ]
+  },
+  {
+   "slug": "praxis",
+   "name": "Praxis",
+   "qid": "Q2741995",
+   "officialWebsite": "https://www.praxis.nl/",
+   "labelKo": null,
+   "labelEn": "Praxis",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2741995",
+    "https://en.wikipedia.org/wiki/Praxis_(store)"
+   ]
+  },
+  {
+   "slug": "pressbyr-n",
+   "name": "Pressbyrån",
+   "qid": "Q2489072",
+   "officialWebsite": "https://pressbyran.se",
+   "labelKo": null,
+   "labelEn": "Pressbyrån",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2489072",
+    "https://en.wikipedia.org/wiki/Pressbyr%C3%A5n"
+   ]
+  },
+  {
+   "slug": "pyaterochka",
+   "name": "Pyaterochka",
+   "qid": "Q1768969",
+   "officialWebsite": "https://5ka.ru/",
+   "labelKo": null,
+   "labelEn": "Pyaterochka",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1768969",
+    "https://en.wikipedia.org/wiki/Pyaterochka"
+   ]
+  },
+  {
+   "slug": "rewe-group",
+   "name": "REWE Group",
+   "qid": "Q573266",
+   "officialWebsite": "https://www.rewe-group.com/",
+   "labelKo": null,
+   "labelEn": "REWE Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q573266",
+    "https://en.wikipedia.org/wiki/REWE_Group"
+   ]
+  },
+  {
+   "slug": "rona",
+   "name": "Rona",
+   "qid": "Q3415283",
+   "officialWebsite": "https://www.rona.ca",
+   "labelKo": null,
+   "labelEn": "Rona",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3415283",
+    "https://en.wikipedia.org/wiki/Rona_(store)"
+   ]
+  },
+  {
+   "slug": "sport-chek",
+   "name": "Sport Chek",
+   "qid": "Q3494037",
+   "officialWebsite": "https://www.sportchek.ca",
+   "labelKo": null,
+   "labelEn": "Sport Chek",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3494037",
+    "https://en.wikipedia.org/wiki/Sport_Chek"
+   ]
+  },
+  {
+   "slug": "sportscheck",
+   "name": "SportScheck",
+   "qid": "Q1664847",
+   "officialWebsite": "https://www.sportscheck.com",
+   "labelKo": null,
+   "labelEn": "SportScheck",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1664847"
+   ]
+  },
+  {
+   "slug": "standaard-boekhandel",
+   "name": "Standaard Boekhandel",
+   "qid": "Q3496554",
+   "officialWebsite": "https://www.standaardboekhandel.be",
+   "labelKo": null,
+   "labelEn": "Standaard Boekhandel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3496554"
+   ]
+  },
+  {
+   "slug": "stop-and-shop",
+   "name": "Stop & Shop",
+   "qid": "Q3658429",
+   "officialWebsite": "https://stopandshop.com",
+   "labelKo": null,
+   "labelEn": "Stop & Shop",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3658429",
+    "https://en.wikipedia.org/wiki/Stop_%26_Shop"
+   ]
+  },
+  {
+   "slug": "sunglass-hut",
+   "name": "Sunglass Hut",
+   "qid": "Q136311",
+   "officialWebsite": "https://www.sunglasshut.com",
+   "labelKo": null,
+   "labelEn": "Sunglass Hut",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q136311",
+    "https://en.wikipedia.org/wiki/Sunglass_Hut"
+   ]
+  },
+  {
+   "slug": "superbiomarkt",
+   "name": "SuperBioMarkt",
+   "qid": "Q2367009",
+   "officialWebsite": "https://www.superbiomarkt.de",
+   "labelKo": null,
+   "labelEn": "SuperBioMarkt",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2367009"
+   ]
+  },
+  {
+   "slug": "ten-thousand-villages",
+   "name": "Ten Thousand Villages",
+   "qid": "Q2403252",
+   "officialWebsite": "https://www.tenthousandvillages.com",
+   "labelKo": null,
+   "labelEn": "Ten Thousand Villages",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2403252",
+    "https://en.wikipedia.org/wiki/Ten_Thousand_Villages"
+   ]
+  },
+  {
+   "slug": "the-children-s-place",
+   "name": "The Children's Place",
+   "qid": "Q3520257",
+   "officialWebsite": "https://www.childrensplace.com",
+   "labelKo": null,
+   "labelEn": "The Children's Place",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3520257",
+    "https://en.wikipedia.org/wiki/The_Children%27s_Place"
+   ]
+  },
+  {
+   "slug": "dm-drogerie-markt",
+   "name": "디엠-드로게리 마크트",
+   "qid": "Q266572",
+   "officialWebsite": "https://www.dm.de/",
+   "labelKo": "디엠-드로게리 마크트",
+   "labelEn": "dm-drogerie markt",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q266572",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%97%A0-%EB%93%9C%EB%A1%9C%EA%B2%8C%EB%A6%AC_%EB%A7%88%ED%81%AC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Dm-drogerie_markt"
+   ]
+  },
+  {
+   "slug": "bed-bath-and-beyond",
+   "name": "베드 베스 앤드 비욘드",
+   "qid": "Q3301958",
+   "officialWebsite": "https://www.bedbathandbeyond.com/",
+   "labelKo": null,
+   "labelEn": "Bed Bath & Beyond, Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3301958",
+    "https://en.wikipedia.org/wiki/Bed_Bath_%26_Beyond_(2023%E2%80%93present)"
+   ]
+  },
+  {
+   "slug": "best-buy",
+   "name": "베스트 바이",
+   "qid": "Q533415",
+   "officialWebsite": "https://www.bestbuy.com/",
+   "labelKo": "베스트 바이",
+   "labelEn": "Best Buy",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q533415",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%8A%A4%ED%8A%B8_%EB%B0%94%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Best_Buy"
+   ]
+  },
+  {
+   "slug": "staples",
+   "name": "스테이플스",
+   "qid": "Q785943",
+   "officialWebsite": "https://www.staples.com/",
+   "labelKo": "스테이플스",
+   "labelEn": "Staples Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q785943",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%94%8C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Staples_Inc."
+   ]
+  },
+  {
+   "slug": "walmart",
+   "name": "월마트",
+   "qid": "Q483551",
+   "officialWebsite": "https://www.walmart.com/",
+   "labelKo": "월마트",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483551",
+    "https://ko.wikipedia.org/wiki/%EC%9B%94%EB%A7%88%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Walmart"
+   ]
+  },
+  {
+   "slug": "emart",
+   "name": "이마트",
+   "qid": "Q490371",
+   "officialWebsite": "https://company.emart.com/",
+   "labelKo": "이마트",
+   "labelEn": "emart",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q490371",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A7%88%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Emart"
+   ]
+  },
+  {
+   "slug": "intimissimi",
+   "name": "인티미시미",
+   "qid": "Q305404",
+   "officialWebsite": "https://www.intimissimi.com/",
+   "labelKo": "인티미시미",
+   "labelEn": "Intimissimi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q305404",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%8B%B0%EB%AF%B8%EC%8B%9C%EB%AF%B8",
+    "https://en.wikipedia.org/wiki/Intimissimi"
+   ]
+  },
+  {
+   "slug": "champs-sports",
+   "name": "챔스스포츠",
+   "qid": "Q2955924",
+   "officialWebsite": "https://www.champssports.com/",
+   "labelKo": "챔스스포츠",
+   "labelEn": "Champs Sports",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2955924",
+    "https://en.wikipedia.org/wiki/Champs_Sports"
+   ]
+  },
+  {
+   "slug": "pull-and-bear",
+   "name": "풀앤베어",
+   "qid": "Q691029",
+   "officialWebsite": "https://www.pullandbear.com/",
+   "labelKo": "풀앤베어",
+   "labelEn": "Pull&Bear",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q691029",
+    "https://ko.wikipedia.org/wiki/%ED%92%80%EC%95%A4%EB%B2%A0%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Pull%26Bear"
+   ]
+  },
+  {
+   "slug": "mpl",
+   "name": "MPL 커뮤니케이션스",
+   "qid": "Q32294",
+   "officialWebsite": "https://www.mplcommunications.com/",
+   "labelKo": "MPL 커뮤니케이션스",
+   "labelEn": "MPL Communications",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q32294",
+    "https://ko.wikipedia.org/wiki/MPL_%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/MPL_Communications"
+   ]
+  },
+  {
+   "slug": "mothercare",
+   "name": "Mothercare",
+   "qid": "Q136738",
+   "officialWebsite": "https://www.mothercareplc.com/",
+   "labelKo": null,
+   "labelEn": "Mothercare",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q136738",
+    "https://en.wikipedia.org/wiki/Mothercare"
+   ]
+  },
+  {
+   "slug": "repco",
+   "name": "Repco",
+   "qid": "Q173425",
+   "officialWebsite": "https://www.repco.com.au",
+   "labelKo": null,
+   "labelEn": "Repco",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173425",
+    "https://en.wikipedia.org/wiki/Repco"
+   ]
+  },
+  {
+   "slug": "ryder",
+   "name": "Ryder",
+   "qid": "Q2178198",
+   "officialWebsite": "https://www.ryder.com",
+   "labelKo": null,
+   "labelEn": "Ryder",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2178198",
+    "https://en.wikipedia.org/wiki/Ryder"
+   ]
+  },
+  {
+   "slug": "carrefour",
+   "name": "까르푸",
+   "qid": "Q217599",
+   "officialWebsite": "https://www.carrefour.com/",
+   "labelKo": "까르푸",
+   "labelEn": "Carrefour",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q217599",
+    "https://ko.wikipedia.org/wiki/%EA%B9%8C%EB%A5%B4%ED%91%B8",
+    "https://en.wikipedia.org/wiki/Carrefour"
+   ]
+  },
+  {
+   "slug": "8bitpeoples",
+   "name": "8bitpeoples",
+   "qid": "Q83741",
+   "officialWebsite": "https://www.8bitpeoples.com",
+   "labelKo": null,
+   "labelEn": "8bitpeoples",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q83741"
+   ]
+  },
+  {
+   "slug": "armada",
+   "name": "Armada",
+   "qid": "Q160732",
+   "officialWebsite": "https://www.armadamusic.com/",
+   "labelKo": null,
+   "labelEn": "Armada",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160732",
+    "https://en.wikipedia.org/wiki/Armada_Music"
+   ]
+  },
+  {
+   "slug": "century-media-records",
+   "name": "Century Media Records",
+   "qid": "Q158867",
+   "officialWebsite": "https://www.centurymedia.com/",
+   "labelKo": null,
+   "labelEn": "Century Media Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q158867",
+    "https://en.wikipedia.org/wiki/Century_Media_Records"
+   ]
+  },
+  {
+   "slug": "fmp-free-music-production",
+   "name": "FMP/Free Music Production",
+   "qid": "Q266157",
+   "officialWebsite": "http://www.fmp-label.de",
+   "labelKo": null,
+   "labelEn": "FMP/Free Music Production",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q266157",
+    "https://en.wikipedia.org/wiki/FMP/Free_Music_Production"
+   ]
+  },
+  {
+   "slug": "morr-music",
+   "name": "Morr Music",
+   "qid": "Q474113",
+   "officialWebsite": "https://morrmusic.com",
+   "labelKo": null,
+   "labelEn": "Morr Music",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q474113",
+    "https://en.wikipedia.org/wiki/Morr_Music"
+   ]
+  },
+  {
+   "slug": "pwm-edition",
+   "name": "PWM Edition",
+   "qid": "Q198579",
+   "officialWebsite": "https://pwm.com.pl",
+   "labelKo": null,
+   "labelEn": "PWM Edition",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q198579",
+    "https://en.wikipedia.org/wiki/PWM_Edition"
+   ]
+  },
+  {
+   "slug": "real-world-records",
+   "name": "Real World Records",
+   "qid": "Q325866",
+   "officialWebsite": "https://realworldrecords.com/",
+   "labelKo": null,
+   "labelEn": "Real World Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q325866",
+    "https://en.wikipedia.org/wiki/Real_World_Records"
+   ]
+  },
+  {
+   "slug": "sm-entertainment",
+   "name": "SM 엔터테인먼트",
+   "qid": "Q483938",
+   "officialWebsite": "https://www.smentertainment.com",
+   "labelKo": "SM 엔터테인먼트",
+   "labelEn": "SM Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483938",
+    "https://ko.wikipedia.org/wiki/SM_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/SM_Entertainment"
+   ]
+  },
+  {
+   "slug": "saregama",
+   "name": "Saregama",
+   "qid": "Q122575",
+   "officialWebsite": "https://www.saregama.com/",
+   "labelKo": null,
+   "labelEn": "Saregama",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q122575",
+    "https://en.wikipedia.org/wiki/Saregama"
+   ]
+  },
+  {
+   "slug": "trisol-music-group",
+   "name": "Trisol Music Group",
+   "qid": "Q553557",
+   "officialWebsite": "https://www.trisol.de",
+   "labelKo": null,
+   "labelEn": "Trisol Music Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q553557",
+    "https://en.wikipedia.org/wiki/Trisol_Music_Group"
+   ]
+  },
+  {
+   "slug": "universal-edition",
+   "name": "Universal Edition",
+   "qid": "Q569779",
+   "officialWebsite": "https://www.universaledition.com/",
+   "labelKo": null,
+   "labelEn": "Universal Edition",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q569779",
+    "https://en.wikipedia.org/wiki/Universal_Edition"
+   ]
+  },
+  {
+   "slug": "yg-entertainment",
+   "name": "YG 엔터테인먼트",
+   "qid": "Q50595",
+   "officialWebsite": "https://ygfamily.com",
+   "labelKo": "YG 엔터테인먼트",
+   "labelEn": "YG Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q50595",
+    "https://ko.wikipedia.org/wiki/YG_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/YG_Entertainment"
+   ]
+  },
+  {
+   "slug": "zyx-music",
+   "name": "ZYX Music",
+   "qid": "Q107906233",
+   "officialWebsite": "https://zyx.de/",
+   "labelKo": null,
+   "labelEn": "ZYX Music GMBH & Co. KG",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q107906233"
+   ]
+  },
+  {
+   "slug": "emusic",
+   "name": "eMusic",
+   "qid": "Q286400",
+   "officialWebsite": "https://www.emusic.com",
+   "labelKo": null,
+   "labelEn": "eMusic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q286400",
+    "https://en.wikipedia.org/wiki/EMusic"
+   ]
+  },
+  {
+   "slug": "roadrunner-records",
+   "name": "로드러너 레코드",
+   "qid": "Q18628",
+   "officialWebsite": "https://www.roadrunnerrecords.com",
+   "labelKo": "로드러너 레코드",
+   "labelEn": "Roadrunner Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18628",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%93%9C%EB%9F%AC%EB%84%88_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Roadrunner_Records"
+   ]
+  },
+  {
+   "slug": "woollim-entertainment",
+   "name": "울림엔터테인먼트",
+   "qid": "Q50596",
+   "officialWebsite": "https://www.woolliment.com/",
+   "labelKo": "울림엔터테인먼트",
+   "labelEn": "Woollim Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q50596",
+    "https://ko.wikipedia.org/wiki/%EC%9A%B8%EB%A6%BC%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Woollim_Entertainment"
+   ]
+  },
+  {
+   "slug": "cube-entertainment",
+   "name": "큐브엔터테인먼트",
+   "qid": "Q484449",
+   "officialWebsite": "http://www.cubeent.co.kr",
+   "labelKo": "큐브엔터테인먼트",
+   "labelEn": "Cube Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484449",
+    "https://ko.wikipedia.org/wiki/%ED%81%90%EB%B8%8C_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Cube_Entertainment"
+   ]
+  },
+  {
+   "slug": "pony-canyon",
+   "name": "포니 캐년",
+   "qid": "Q513712",
+   "officialWebsite": "https://www.ponycanyon.co.jp/",
+   "labelKo": "포니 캐년",
+   "labelEn": "Pony Canyon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q513712",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%8B%88_%EC%BA%90%EB%85%84",
+    "https://en.wikipedia.org/wiki/Pony_Canyon"
+   ]
+  },
+  {
+   "slug": "pledis-entertainment",
+   "name": "플레디스엔터테인먼트",
+   "qid": "Q45282",
+   "officialWebsite": "https://www.pledis.co.kr/",
+   "labelKo": "플레디스엔터테인먼트",
+   "labelEn": "Pledis Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q45282",
+    "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A0%88%EB%94%94%EC%8A%A4_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Pledis_Entertainment"
+   ]
+  },
+  {
+   "slug": "cabela-s",
+   "name": "Cabela's",
+   "qid": "Q2793714",
+   "officialWebsite": "https://www.cabelas.com/",
+   "labelKo": null,
+   "labelEn": "Cabela's",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2793714",
+    "https://en.wikipedia.org/wiki/Cabela%27s"
+   ]
+  },
+  {
+   "slug": "marathon-sports",
+   "name": "Marathon Sports",
+   "qid": "Q3027516",
+   "officialWebsite": "https://www.marathon.store",
+   "labelKo": null,
+   "labelEn": "Marathon Sports",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3027516",
+    "https://en.wikipedia.org/wiki/Marathon_Sports"
+   ]
+  },
+  {
+   "slug": "5-sec",
+   "name": "5àsec",
+   "qid": "Q2817899",
+   "officialWebsite": "https://www.5asec.com/",
+   "labelKo": null,
+   "labelEn": "5àsec",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2817899",
+    "https://en.wikipedia.org/wiki/5%C3%A0sec"
+   ]
+  },
+  {
+   "slug": "afm",
+   "name": "AFM 레코드",
+   "qid": "Q292128",
+   "officialWebsite": "https://www.afm-records.de",
+   "labelKo": "AFM 레코드",
+   "labelEn": "AFM Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q292128",
+    "https://ko.wikipedia.org/wiki/AFM_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/AFM_Records"
+   ]
+  },
+  {
+   "slug": "ato-records",
+   "name": "ATO Records",
+   "qid": "Q128280",
+   "officialWebsite": "https://atorecords.com/",
+   "labelKo": null,
+   "labelEn": "ATO Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q128280",
+    "https://en.wikipedia.org/wiki/ATO_Records"
+   ]
+  },
+  {
+   "slug": "anjunabeats",
+   "name": "Anjunabeats",
+   "qid": "Q551566",
+   "officialWebsite": "https://anjunabeats.com",
+   "labelKo": null,
+   "labelEn": "Anjunabeats",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q551566",
+    "https://en.wikipedia.org/wiki/Anjunabeats"
+   ]
+  },
+  {
+   "slug": "bis-records",
+   "name": "BIS Records",
+   "qid": "Q200426",
+   "officialWebsite": "https://bis.se",
+   "labelKo": null,
+   "labelEn": "BIS Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q200426",
+    "https://en.wikipedia.org/wiki/BIS_Records"
+   ]
+  },
+  {
+   "slug": "berlitz-corporation",
+   "name": "Berlitz Corporation",
+   "qid": "Q821960",
+   "officialWebsite": "https://www.berlitz.com/",
+   "labelKo": null,
+   "labelEn": "Berlitz Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q821960",
+    "https://en.wikipedia.org/wiki/Berlitz_Corporation"
+   ]
+  },
+  {
+   "slug": "bonsound",
+   "name": "Bonsound",
+   "qid": "Q550482",
+   "officialWebsite": "https://www.bonsound.com",
+   "labelKo": null,
+   "labelEn": "Bonsound",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q550482",
+    "https://en.wikipedia.org/wiki/Bonsound"
+   ]
+  },
+  {
+   "slug": "cap",
+   "name": "CAP",
+   "qid": "Q1022827",
+   "officialWebsite": "https://www.cap-markt.de",
+   "labelKo": null,
+   "labelEn": "CAP",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1022827",
+    "https://en.wikipedia.org/wiki/CAP_Markets"
+   ]
+  },
+  {
+   "slug": "coop-norge-sa",
+   "name": "Coop Norge SA",
+   "qid": "Q1618373",
+   "officialWebsite": "https://coop.no/",
+   "labelKo": null,
+   "labelEn": "Coop Norge SA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1618373",
+    "https://en.wikipedia.org/wiki/Coop_Norge"
+   ]
+  },
+  {
+   "slug": "delicious-vinyl",
+   "name": "Delicious Vinyl",
+   "qid": "Q518854",
+   "officialWebsite": "https://www.deliciousvinyl.com",
+   "labelKo": null,
+   "labelEn": "Delicious Vinyl",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q518854",
+    "https://en.wikipedia.org/wiki/Delicious_Vinyl"
+   ]
+  },
+  {
+   "slug": "eataly",
+   "name": "Eataly",
+   "qid": "Q3046645",
+   "officialWebsite": "https://www.eataly.com/",
+   "labelKo": null,
+   "labelEn": "Eataly",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3046645",
+    "https://en.wikipedia.org/wiki/Eataly"
+   ]
+  },
+  {
+   "slug": "edel-records",
+   "name": "Edel Records",
+   "qid": "Q523563",
+   "officialWebsite": "https://www.edel.com",
+   "labelKo": null,
+   "labelEn": "Edel Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q523563"
+   ]
+  },
+  {
+   "slug": "enja-records",
+   "name": "Enja Records",
+   "qid": "Q466785",
+   "officialWebsite": "https://www.enjarecords.com",
+   "labelKo": null,
+   "labelEn": "Enja Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q466785",
+    "https://en.wikipedia.org/wiki/Enja_Records"
+   ]
+  },
+  {
+   "slug": "equal-vision-records",
+   "name": "Equal Vision Records",
+   "qid": "Q264980",
+   "officialWebsite": "https://equalvision.com",
+   "labelKo": null,
+   "labelEn": "Equal Vision Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q264980",
+    "https://en.wikipedia.org/wiki/Equal_Vision_Records"
+   ]
+  },
+  {
+   "slug": "fysisk-format",
+   "name": "Fysisk Format",
+   "qid": "Q602130",
+   "officialWebsite": "https://fysiskformat.no",
+   "labelKo": null,
+   "labelEn": "Fysisk Format",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q602130",
+    "https://en.wikipedia.org/wiki/Fysisk_Format"
+   ]
+  },
+  {
+   "slug": "global-underground",
+   "name": "Global Underground",
+   "qid": "Q530710",
+   "officialWebsite": "https://www.globalunderground.co.uk",
+   "labelKo": null,
+   "labelEn": "Global Underground",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q530710",
+    "https://en.wikipedia.org/wiki/Global_Underground"
+   ]
+  },
+  {
+   "slug": "greek-national-opera",
+   "name": "Greek National Opera",
+   "qid": "Q582625",
+   "officialWebsite": "https://www.nationalopera.gr/",
+   "labelKo": null,
+   "labelEn": "Greek National Opera",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q582625",
+    "https://en.wikipedia.org/wiki/Greek_National_Opera"
+   ]
+  },
+  {
+   "slug": "heavenly-recordings",
+   "name": "Heavenly Recordings",
+   "qid": "Q375229",
+   "officialWebsite": "https://heavenlyrecordings.com",
+   "labelKo": null,
+   "labelEn": "Heavenly Recordings",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q375229",
+    "https://en.wikipedia.org/wiki/Heavenly_Recordings"
+   ]
+  },
+  {
+   "slug": "hipercor",
+   "name": "Hipercor",
+   "qid": "Q191574",
+   "officialWebsite": "https://www.hipercor.es/",
+   "labelKo": null,
+   "labelEn": "Hipercor",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q191574",
+    "https://en.wikipedia.org/wiki/Hipercor"
+   ]
+  },
+  {
+   "slug": "holland-blumen-mark",
+   "name": "Holland Blumen Mark",
+   "qid": "Q1624739",
+   "officialWebsite": "http://www.hollandblumenmark.at/",
+   "labelKo": null,
+   "labelEn": "Holland Blumen Mark",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1624739"
+   ]
+  },
+  {
+   "slug": "innova-recordings",
+   "name": "Innova Recordings",
+   "qid": "Q113376",
+   "officialWebsite": "https://www.innova.mu",
+   "labelKo": null,
+   "labelEn": "Innova Recordings",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q113376",
+    "https://en.wikipedia.org/wiki/Innova_Recordings"
+   ]
+  },
+  {
+   "slug": "intakt-records",
+   "name": "Intakt Records",
+   "qid": "Q544186",
+   "officialWebsite": "https://www.intaktrec.ch",
+   "labelKo": null,
+   "labelEn": "Intakt Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q544186",
+    "https://en.wikipedia.org/wiki/Intakt_Records"
+   ]
+  },
+  {
+   "slug": "kompakt",
+   "name": "Kompakt",
+   "qid": "Q564432",
+   "officialWebsite": "https://kompakt.fm",
+   "labelKo": null,
+   "labelEn": "Kompakt",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q564432",
+    "https://en.wikipedia.org/wiki/Kompakt"
+   ]
+  },
+  {
+   "slug": "kung-fu-records",
+   "name": "Kung Fu Records",
+   "qid": "Q537118",
+   "officialWebsite": "https://www.kungfurecords.com",
+   "labelKo": null,
+   "labelEn": "Kung Fu Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q537118",
+    "https://en.wikipedia.org/wiki/Kung_Fu_Records"
+   ]
+  },
+  {
+   "slug": "mega-family-shopping-centre",
+   "name": "MEGA Family Shopping Centre",
+   "qid": "Q624897",
+   "officialWebsite": "https://mega.ru/",
+   "labelKo": null,
+   "labelEn": "MEGA Family Shopping Centre",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624897",
+    "https://en.wikipedia.org/wiki/MEGA_Family_Shopping_Centre"
+   ]
+  },
+  {
+   "slug": "mps",
+   "name": "MPS 레코드",
+   "qid": "Q319256",
+   "officialWebsite": "https://www.mps-music.com",
+   "labelKo": "MPS 레코드",
+   "labelEn": "MPS Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q319256",
+    "https://ko.wikipedia.org/wiki/MPS_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/MPS_Records"
+   ]
+  },
+  {
+   "slug": "megaforce-records",
+   "name": "Megaforce Records",
+   "qid": "Q477213",
+   "officialWebsite": "https://www.megaforcerecords.com",
+   "labelKo": null,
+   "labelEn": "Megaforce Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q477213",
+    "https://en.wikipedia.org/wiki/Megaforce_Records"
+   ]
+  },
+  {
+   "slug": "milan",
+   "name": "Milan",
+   "qid": "Q303739",
+   "officialWebsite": "https://www.milanrecords.com",
+   "labelKo": null,
+   "labelEn": "Milan",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q303739",
+    "https://en.wikipedia.org/wiki/Milan_Records"
+   ]
+  },
+  {
+   "slug": "moeder-babelutte",
+   "name": "Moeder Babelutte",
+   "qid": "Q2877824",
+   "officialWebsite": "https://moederbabelutte.be/",
+   "labelKo": null,
+   "labelEn": "Moeder Babelutte",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2877824"
+   ]
+  },
+  {
+   "slug": "owsla",
+   "name": "OWSLA",
+   "qid": "Q21090",
+   "officialWebsite": "https://owsla.com",
+   "labelKo": "OWSLA",
+   "labelEn": "OWSLA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21090",
+    "https://ko.wikipedia.org/wiki/OWSLA",
+    "https://en.wikipedia.org/wiki/Owsla"
+   ]
+  },
+  {
+   "slug": "osmose-productions",
+   "name": "Osmose Productions",
+   "qid": "Q37479",
+   "officialWebsite": "https://www.osmoseproductions.com",
+   "labelKo": null,
+   "labelEn": "Osmose Productions",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q37479",
+    "https://en.wikipedia.org/wiki/Osmose_Productions"
+   ]
+  },
+  {
+   "slug": "p-vine-records",
+   "name": "P-Vine Records",
+   "qid": "Q115570",
+   "officialWebsite": "https://p-vine.jp",
+   "labelKo": null,
+   "labelEn": "P-Vine Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q115570",
+    "https://en.wikipedia.org/wiki/P-Vine_Records"
+   ]
+  },
+  {
+   "slug": "pataugas",
+   "name": "Pataugas",
+   "qid": "Q3368657",
+   "officialWebsite": "https://www.pataugas.com/",
+   "labelKo": null,
+   "labelEn": "Pataugas",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3368657",
+    "https://en.wikipedia.org/wiki/Pataugas"
+   ]
+  },
+  {
+   "slug": "rca",
+   "name": "RCA 레코드",
+   "qid": "Q202585",
+   "officialWebsite": "https://www.rcarecords.com",
+   "labelKo": "RCA 레코드",
+   "labelEn": "RCA Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q202585",
+    "https://ko.wikipedia.org/wiki/RCA_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/RCA_Records"
+   ]
+  },
+  {
+   "slug": "richter-frenzel",
+   "name": "Richter+Frenzel",
+   "qid": "Q2151266",
+   "officialWebsite": "https://www.richter-frenzel.de/",
+   "labelKo": null,
+   "labelEn": "Richter+Frenzel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2151266"
+   ]
+  },
+  {
+   "slug": "rise-above-records",
+   "name": "Rise Above Records",
+   "qid": "Q549624",
+   "officialWebsite": "https://riseaboverecords.com",
+   "labelKo": null,
+   "labelEn": "Rise Above Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q549624",
+    "https://en.wikipedia.org/wiki/Rise_Above_Records"
+   ]
+  },
+  {
+   "slug": "sk-telecom",
+   "name": "SK텔레콤",
+   "qid": "Q493145",
+   "officialWebsite": "https://www.sktelecom.com/",
+   "labelKo": "SK텔레콤",
+   "labelEn": "SK Telecom",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493145",
+    "https://ko.wikipedia.org/wiki/SK%ED%85%94%EB%A0%88%EC%BD%A4",
+    "https://en.wikipedia.org/wiki/SK_Telecom"
+   ]
+  },
+  {
+   "slug": "simon-l-velt",
+   "name": "Simon Lévelt",
+   "qid": "Q2220070",
+   "officialWebsite": "https://www.simonlevelt.nl/",
+   "labelKo": null,
+   "labelEn": "Simon Lévelt",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2220070"
+   ]
+  },
+  {
+   "slug": "thrill-jockey",
+   "name": "Thrill Jockey",
+   "qid": "Q448723",
+   "officialWebsite": "https://thrilljockey.com",
+   "labelKo": null,
+   "labelEn": "Thrill Jockey",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q448723",
+    "https://en.wikipedia.org/wiki/Thrill_Jockey"
+   ]
+  },
+  {
+   "slug": "trojan-records",
+   "name": "Trojan Records",
+   "qid": "Q126543",
+   "officialWebsite": "https://trojanrecords.com",
+   "labelKo": null,
+   "labelEn": "Trojan Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q126543",
+    "https://en.wikipedia.org/wiki/Trojan_Records"
+   ]
+  },
+  {
+   "slug": "wandelweiser",
+   "name": "Wandelweiser",
+   "qid": "Q536894",
+   "officialWebsite": "https://www.wandelweiser.de",
+   "labelKo": null,
+   "labelEn": "Wandelweiser",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q536894",
+    "https://en.wikipedia.org/wiki/Wandelweiser"
+   ]
+  },
+  {
+   "slug": "oodji",
+   "name": "oodji",
+   "qid": "Q172108",
+   "officialWebsite": "https://oodji.com/",
+   "labelKo": null,
+   "labelEn": "oodji",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q172108",
+    "https://en.wikipedia.org/wiki/OGGI"
+   ]
+  },
+  {
+   "slug": "geffen-records",
+   "name": "게펜 레코드",
+   "qid": "Q212699",
+   "officialWebsite": "https://www.geffen.com/",
+   "labelKo": "게펜 레코드",
+   "labelEn": "Geffen Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q212699",
+    "https://ko.wikipedia.org/wiki/%EA%B2%8C%ED%8E%80_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Geffen_Records"
+   ]
+  },
+  {
+   "slug": "dollar-general",
+   "name": "달러 제너럴",
+   "qid": "Q145168",
+   "officialWebsite": "https://www.dollargeneral.com/",
+   "labelKo": "달러 제너럴",
+   "labelEn": "Dollar General",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q145168",
+    "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%9F%AC_%EC%A0%9C%EB%84%88%EB%9F%B4",
+    "https://en.wikipedia.org/wiki/Dollar_General"
+   ]
+  },
+  {
+   "slug": "tous-les-jours",
+   "name": "뚜레쥬르",
+   "qid": "Q3535609",
+   "officialWebsite": "http://www.tlj.co.kr",
+   "labelKo": "뚜레쥬르",
+   "labelEn": "Tous les Jours",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3535609",
+    "https://ko.wikipedia.org/wiki/%EB%9A%9C%EB%A0%88%EC%A5%AC%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Tous_les_Jours"
+   ]
+  },
+  {
+   "slug": "mercury-records",
+   "name": "머큐리 레코드",
+   "qid": "Q165745",
+   "officialWebsite": "https://www.mercuryrecords.com/",
+   "labelKo": "머큐리 레코드",
+   "labelEn": "Mercury Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q165745",
+    "https://ko.wikipedia.org/wiki/%EB%A8%B8%ED%81%90%EB%A6%AC_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Mercury_Records"
+   ]
+  },
+  {
+   "slug": "motown",
+   "name": "모타운 레코드",
+   "qid": "Q43327",
+   "officialWebsite": "https://www.motownrecords.com/",
+   "labelKo": "모타운 레코드",
+   "labelEn": "Motown",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q43327",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%83%80%EC%9A%B4",
+    "https://en.wikipedia.org/wiki/Motown"
+   ]
+  },
+  {
+   "slug": "ministry-of-sound",
+   "name": "미니스트리 오브 사운드",
+   "qid": "Q97623539",
+   "officialWebsite": "https://ministryofsound.com",
+   "labelKo": "미니스트리 오브 사운드",
+   "labelEn": "Ministry of Sound",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q97623539",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%88%EC%8A%A4%ED%8A%B8%EB%A6%AC_%EC%98%A4%EB%B8%8C_%EC%82%AC%EC%9A%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Ministry_of_Sound"
+   ]
+  },
+  {
+   "slug": "virgin-records",
+   "name": "버진 레코드",
+   "qid": "Q203059",
+   "officialWebsite": "https://www.virginmusic.com/",
+   "labelKo": "버진 레코드",
+   "labelEn": "Virgin Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q203059",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EC%A7%84_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Virgin_Records"
+   ]
+  },
+  {
+   "slug": "shady-records",
+   "name": "셰이디 레코드",
+   "qid": "Q568246",
+   "officialWebsite": "https://www.shadyrecords.com",
+   "labelKo": "셰이디 레코드",
+   "labelEn": "Shady Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q568246",
+    "https://ko.wikipedia.org/wiki/%EC%85%B0%EC%9D%B4%EB%94%94_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Shady_Records"
+   ]
+  },
+  {
+   "slug": "smekkleysa",
+   "name": "스메클레이사",
+   "qid": "Q579423",
+   "officialWebsite": "https://smekkleysa.net",
+   "labelKo": "스메클레이사",
+   "labelEn": "Bad Taste",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q579423",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A9%94%ED%81%B4%EB%A0%88%EC%9D%B4%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Bad_Taste_(record_label)"
+   ]
+  },
+  {
+   "slug": "american-recordings",
+   "name": "아메리칸 레코딩스",
+   "qid": "Q466649",
+   "officialWebsite": "https://www.americanrecordings.com/",
+   "labelKo": "아메리칸 레코딩스",
+   "labelEn": "American Recordings",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q466649",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EB%A0%88%EC%BD%94%EB%94%A9%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/American_Recordings_(record_label)"
+   ]
+  },
+  {
+   "slug": "island-records",
+   "name": "아일랜드 레코드",
+   "qid": "Q190585",
+   "officialWebsite": "https://islandrecords.com/",
+   "labelKo": "아일랜드 레코드",
+   "labelEn": "Island Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q190585",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Island_Records"
+   ]
+  },
+  {
+   "slug": "atlantic-records",
+   "name": "애틀랜틱 레코드",
+   "qid": "Q202440",
+   "officialWebsite": "https://www.atlanticrecords.com/",
+   "labelKo": "애틀랜틱 레코드",
+   "labelEn": "Atlantic Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q202440",
+    "https://ko.wikipedia.org/wiki/%EC%95%A0%ED%8B%80%EB%9E%9C%ED%8B%B1_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Atlantic_Records"
+   ]
+  },
+  {
+   "slug": "epic-records",
+   "name": "에픽 레코드",
+   "qid": "Q216364",
+   "officialWebsite": "https://www.epicrecords.com/",
+   "labelKo": "에픽 레코드",
+   "labelEn": "Epic Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q216364",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%ED%94%BD_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Epic_Records"
+   ]
+  },
+  {
+   "slug": "warner-music-group",
+   "name": "워너 뮤직 그룹",
+   "qid": "Q21077",
+   "officialWebsite": "https://www.wmg.com/",
+   "labelKo": "워너 뮤직 그룹",
+   "labelEn": "Warner Music Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21077",
+    "https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%84%88_%EB%AE%A4%EC%A7%81_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Warner_Music_Group"
+   ]
+  },
+  {
+   "slug": "warp-records",
+   "name": "워프 레코즈",
+   "qid": "Q543707",
+   "officialWebsite": "https://warp.net",
+   "labelKo": "워프 레코즈",
+   "labelEn": "Warp",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q543707",
+    "https://ko.wikipedia.org/wiki/%EC%9B%8C%ED%94%84_%EB%A0%88%EC%BD%94%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Warp_Records"
+   ]
+  },
+  {
+   "slug": "jagjaguwar",
+   "name": "잭재규어",
+   "qid": "Q511652",
+   "officialWebsite": "https://jagjaguwar.com",
+   "labelKo": "잭재규어",
+   "labelEn": "Jagjaguwar",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q511652",
+    "https://ko.wikipedia.org/wiki/%EC%9E%AD%EC%9E%AC%EA%B7%9C%EC%9B%8C",
+    "https://en.wikipedia.org/wiki/Jagjaguwar"
+   ]
+  },
+  {
+   "slug": "capitol-records",
+   "name": "캐피털 레코드",
+   "qid": "Q193023",
+   "officialWebsite": "https://www.capitolrecords.com/",
+   "labelKo": "캐피털 레코드",
+   "labelEn": "Capitol Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q193023",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%ED%94%BC%ED%8B%80_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Capitol_Records"
+   ]
+  },
+  {
+   "slug": "columbia-records",
+   "name": "컬럼비아 레코드",
+   "qid": "Q183387",
+   "officialWebsite": "https://www.columbiarecords.com/",
+   "labelKo": "컬럼비아 레코드",
+   "labelEn": "Columbia Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q183387",
+    "https://ko.wikipedia.org/wiki/%EC%BB%AC%EB%9F%BC%EB%B9%84%EC%95%84_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Columbia_Records"
+   ]
+  },
+  {
+   "slug": "costco",
+   "name": "코스트코",
+   "qid": "Q715583",
+   "officialWebsite": "https://www.costco.com/",
+   "labelKo": "코스트코",
+   "labelEn": "Costco",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q715583",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%BD%94",
+    "https://en.wikipedia.org/wiki/Costco"
+   ]
+  },
+  {
+   "slug": "crocs",
+   "name": "크록스",
+   "qid": "Q926699",
+   "officialWebsite": "https://www.crocs.com/",
+   "labelKo": "크록스",
+   "labelEn": "Crocs, Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q926699",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Crocs"
+   ]
+  },
+  {
+   "slug": "parlophone",
+   "name": "팔로폰 레코드",
+   "qid": "Q208909",
+   "officialWebsite": "https://www.parlophonerecords.com",
+   "labelKo": "팔로폰 레코드",
+   "labelEn": "Parlophone",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q208909",
+    "https://ko.wikipedia.org/wiki/%ED%8C%94%EB%A1%9C%ED%8F%B0",
+    "https://en.wikipedia.org/wiki/Parlophone"
+   ]
+  },
+  {
+   "slug": "priority-records",
+   "name": "프라이오리티 레코드",
+   "qid": "Q522618",
+   "officialWebsite": "https://www.priorityrecords.com",
+   "labelKo": "프라이오리티 레코드",
+   "labelEn": "Priority Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q522618",
+    "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%EC%9D%B4%EC%98%A4%EB%A6%AC%ED%8B%B0_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Priority_Records"
+   ]
+  },
+  {
+   "slug": "hollywood-records",
+   "name": "할리우드 레코드",
+   "qid": "Q387539",
+   "officialWebsite": "https://www.hollywoodrecords.com",
+   "labelKo": "할리우드 레코드",
+   "labelEn": "Hollywood Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q387539",
+    "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Hollywood_Records"
+   ]
+  },
+  {
+   "slug": "hands",
+   "name": "핸즈",
+   "qid": "Q859212",
+   "officialWebsite": "https://hands.net/",
+   "labelKo": "핸즈",
+   "labelEn": "Hands",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q859212",
+    "https://en.wikipedia.org/wiki/Hands_(store)"
+   ]
+  },
+  {
+   "slug": "love-s-travel-stops-and-country-stores",
+   "name": "Love's Travel Stops & Country Stores",
+   "qid": "Q1872496",
+   "officialWebsite": "https://www.loves.com",
+   "labelKo": null,
+   "labelEn": "Love's Travel Stops & Country Stores",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1872496",
+    "https://en.wikipedia.org/wiki/Love%27s"
+   ]
+  },
+  {
+   "slug": "au-vieux-campeur",
+   "name": "Au vieux campeur",
+   "qid": "Q2409646",
+   "officialWebsite": "https://www.auvieuxcampeur.fr/",
+   "labelKo": null,
+   "labelEn": "Au vieux campeur",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2409646"
+   ]
+  },
+  {
+   "slug": "coccinelle",
+   "name": "Coccinelle",
+   "qid": "Q944874",
+   "officialWebsite": "https://www.coccinelle.com/",
+   "labelKo": null,
+   "labelEn": "Coccinelle",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q944874"
+   ]
+  },
+  {
+   "slug": "hunkem-ller",
+   "name": "Hunkemöller",
+   "qid": "Q2604175",
+   "officialWebsite": "https://www.hunkemoller.com/",
+   "labelKo": null,
+   "labelEn": "Hunkemöller",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2604175",
+    "https://en.wikipedia.org/wiki/Hunkem%C3%B6ller"
+   ]
+  },
+  {
+   "slug": "kathmandu",
+   "name": "Kathmandu",
+   "qid": "Q1736294",
+   "officialWebsite": "https://www.kathmandu.co.nz/",
+   "labelKo": null,
+   "labelEn": "Kathmandu",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1736294",
+    "https://en.wikipedia.org/wiki/KMD_Brands"
+   ]
+  },
+  {
+   "slug": "mexx",
+   "name": "Mexx",
+   "qid": "Q1837290",
+   "officialWebsite": "https://www.mexx.com/",
+   "labelKo": null,
+   "labelEn": "Mexx",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1837290",
+    "https://en.wikipedia.org/wiki/Mexx"
+   ]
+  },
+  {
+   "slug": "munich",
+   "name": "Munich",
+   "qid": "Q2076935",
+   "officialWebsite": "https://www.munichsports.com/",
+   "labelKo": null,
+   "labelEn": "Munich",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2076935",
+    "https://en.wikipedia.org/wiki/Munich_(sport_shoes)"
+   ]
+  },
+  {
+   "slug": "nkd",
+   "name": "NKD",
+   "qid": "Q927272",
+   "officialWebsite": "https://www.nkd.com/",
+   "labelKo": null,
+   "labelEn": "NKD",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q927272",
+    "https://en.wikipedia.org/wiki/NKD_(retailer)"
+   ]
+  },
+  {
+   "slug": "patrizia-pepe",
+   "name": "Patrizia Pepe",
+   "qid": "Q3897831",
+   "officialWebsite": "https://www.patriziapepe.com/",
+   "labelKo": null,
+   "labelEn": "Patrizia Pepe",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3897831"
+   ]
+  },
+  {
+   "slug": "river-island",
+   "name": "River Island",
+   "qid": "Q2670328",
+   "officialWebsite": "https://www.riverisland.com/",
+   "labelKo": null,
+   "labelEn": "River Island",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2670328",
+    "https://en.wikipedia.org/wiki/River_Island"
+   ]
+  },
+  {
+   "slug": "schaap-en-citroen",
+   "name": "Schaap en Citroen",
+   "qid": "Q1984947",
+   "officialWebsite": "https://www.schaapcitroen.nl/",
+   "labelKo": null,
+   "labelEn": "Schaap en Citroen",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1984947"
+   ]
+  },
+  {
+   "slug": "springfield",
+   "name": "Springfield",
+   "qid": "Q958209",
+   "officialWebsite": "https://www.myspringfield.com/",
+   "labelKo": null,
+   "labelEn": "Springfield",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q958209"
+   ]
+  },
+  {
+   "slug": "the-society-shop",
+   "name": "The Society Shop",
+   "qid": "Q2021229",
+   "officialWebsite": "https://thesocietyshop.com/",
+   "labelKo": null,
+   "labelEn": "The Society Shop",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2021229"
+   ]
+  },
+  {
+   "slug": "the-sting",
+   "name": "The Sting",
+   "qid": "Q2518794",
+   "officialWebsite": "https://www.thesting.com/",
+   "labelKo": null,
+   "labelEn": "The Sting",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2518794"
+   ]
+  },
+  {
+   "slug": "vero-moda",
+   "name": "Vero Moda",
+   "qid": "Q640418",
+   "officialWebsite": "https://www.veromoda.com/",
+   "labelKo": null,
+   "labelEn": "Vero Moda",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q640418"
+   ]
+  },
+  {
+   "slug": "wibra",
+   "name": "Wibra",
+   "qid": "Q943405",
+   "officialWebsite": "https://www.wibra.nl/",
+   "labelKo": null,
+   "labelEn": "Wibra",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q943405",
+    "https://en.wikipedia.org/wiki/Wibra"
+   ]
+  },
+  {
+   "slug": "zeeman",
+   "name": "Zeeman",
+   "qid": "Q184399",
+   "officialWebsite": "https://www.zeeman.com/",
+   "labelKo": null,
+   "labelEn": "Zeeman",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q184399",
+    "https://en.wikipedia.org/wiki/Zeeman_(store)"
+   ]
+  },
+  {
+   "slug": "lacoste",
+   "name": "라코스테",
+   "qid": "Q309031",
+   "officialWebsite": "https://www.lacoste.com/",
+   "labelKo": "라코스테",
+   "labelEn": "Lacoste",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q309031",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%BD%94%EC%8A%A4%ED%85%8C",
+    "https://en.wikipedia.org/wiki/Lacoste"
+   ]
+  },
+  {
+   "slug": "mulberry",
+   "name": "멀버리",
+   "qid": "Q3866987",
+   "officialWebsite": "https://www.mulberry.com/",
+   "labelKo": "멀버리",
+   "labelEn": "Mulberry",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3866987",
+    "https://en.wikipedia.org/wiki/Mulberry_Group"
+   ]
+  },
+  {
+   "slug": "k-way",
+   "name": "케이웨이",
+   "qid": "Q2820820",
+   "officialWebsite": "https://www.k-way.com/",
+   "labelKo": "케이웨이",
+   "labelEn": "K-way",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2820820",
+    "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%9D%B4%EC%9B%A8%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/K-Way"
+   ]
+  },
+  {
+   "slug": "tous",
+   "name": "토스(TOUS)",
+   "qid": "Q3815128",
+   "officialWebsite": "https://www.tous.com/",
+   "labelKo": "토스",
+   "labelEn": "Tous",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3815128",
+    "https://en.wikipedia.org/wiki/Tous_(company)"
+   ]
+  },
+  {
+   "slug": "fao-schwarz",
+   "name": "FAO Schwarz",
+   "qid": "Q2917244",
+   "officialWebsite": "https://www.faoschwarz.com",
+   "labelKo": null,
+   "labelEn": "FAO Schwarz",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2917244",
+    "https://en.wikipedia.org/wiki/FAO_Schwarz"
+   ]
+  },
+  {
+   "slug": "globus",
+   "name": "Globus",
+   "qid": "Q457503",
+   "officialWebsite": "https://www.globus.de",
+   "labelKo": null,
+   "labelEn": "Globus",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q457503",
+    "https://en.wikipedia.org/wiki/Globus_Holding"
+   ]
+  },
+  {
+   "slug": "kwantum",
+   "name": "Kwantum",
+   "qid": "Q2262591",
+   "officialWebsite": "https://www.kwantum.nl",
+   "labelKo": null,
+   "labelEn": "Kwantum",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2262591"
+   ]
+  },
+  {
+   "slug": "pottery-barn",
+   "name": "Pottery Barn",
+   "qid": "Q3400126",
+   "officialWebsite": "https://www.potterybarn.com",
+   "labelKo": null,
+   "labelEn": "Pottery Barn",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3400126",
+    "https://en.wikipedia.org/wiki/Pottery_Barn"
+   ]
+  },
+  {
+   "slug": "smyk",
+   "name": "Smyk",
+   "qid": "Q2295606",
+   "officialWebsite": "https://www.smyk.com",
+   "labelKo": null,
+   "labelEn": "Smyk",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2295606",
+    "https://en.wikipedia.org/wiki/Smyk_(store)"
+   ]
+  },
+  {
+   "slug": "olive-young",
+   "name": "올리브영",
+   "qid": "Q55643246",
+   "officialWebsite": "https://www.oliveyoung.co.kr",
+   "labelKo": "올리브영",
+   "labelEn": "Olive Young",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55643246",
+    "https://ko.wikipedia.org/wiki/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81",
+    "https://en.wikipedia.org/wiki/Olive_Young_(company)"
+   ]
+  },
+  {
+   "slug": "gentle-monster",
+   "name": "젠틀몬스터",
+   "qid": "Q43083084",
+   "officialWebsite": "https://www.gentlemonster.com/",
+   "labelKo": "젠틀몬스터",
+   "labelEn": "Gentle Monster",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q43083084",
+    "https://ko.wikipedia.org/wiki/%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Gentle_Monster"
+   ]
+  },
+  {
+   "slug": "xexymix",
+   "name": "젝시믹스",
+   "qid": "Q131188308",
+   "officialWebsite": "https://www.xexymix.com/",
+   "labelKo": "젝시믹스",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188308",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9D%EC%8B%9C%EB%AF%B9%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "thisisneverthat",
+   "name": "디스이즈네버댓",
+   "qid": "Q107394173",
+   "officialWebsite": "https://thisisneverthat.com/",
+   "labelKo": "디스이즈네버댓",
+   "labelEn": "Thisisneverthat",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q107394173"
+   ]
+  },
+  {
+   "slug": "ader-error",
+   "name": "아더에러",
+   "qid": "Q107394133",
+   "officialWebsite": "https://www.adererror.com",
+   "labelKo": "아더에러",
+   "labelEn": "Ader Error",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q107394133"
+   ]
+  },
+  {
+   "slug": "innisfree",
+   "name": "이니스프리",
+   "qid": "Q16176002",
+   "officialWebsite": "https://www.innisfree.com",
+   "labelKo": "이니스프리",
+   "labelEn": "Innisfree",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16176002",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Innisfree_(brand)"
+   ]
+  },
+  {
+   "slug": "dr-jart",
+   "name": "닥터자르트",
+   "qid": "Q85845827",
+   "officialWebsite": "https://www.drjart.com/",
+   "labelKo": "닥터자르트",
+   "labelEn": "Dr. Jart+",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q85845827",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A5%ED%84%B0%EC%9E%90%EB%A5%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Dr._Jart%2B"
+   ]
+  },
+  {
+   "slug": "kolon-sport",
+   "name": "코오롱스포츠",
+   "qid": "Q131394332",
+   "officialWebsite": "https://www.kolonsport.com",
+   "labelKo": "코오롱스포츠",
+   "labelEn": "Kolon Sport",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131394332"
+   ]
+  },
+  {
+   "slug": "black-yak",
+   "name": "블랙야크",
+   "qid": "Q55730526",
+   "officialWebsite": "https://www.blackyak.com",
+   "labelKo": "블랙야크",
+   "labelEn": "Black Yak",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55730526",
+    "https://ko.wikipedia.org/wiki/BYN%EB%B8%94%EB%9E%99%EC%95%BC%ED%81%AC"
+   ]
+  },
+  {
+   "slug": "amorepacific",
+   "name": "아모레퍼시픽",
+   "qid": "Q18141920",
+   "officialWebsite": "https://www.apgroup.com/",
+   "labelKo": "아모레퍼시픽홀딩스",
+   "labelEn": "Amorepacific Holdings",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18141920",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%AA%A8%EB%A0%88%ED%8D%BC%EC%8B%9C%ED%94%BD%ED%99%80%EB%94%A9%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "lg-household-health-care",
+   "name": "LG생활건강",
+   "qid": "Q16169971",
+   "officialWebsite": "https://www.lghnh.com/",
+   "labelKo": "LG생활건강",
+   "labelEn": "LG Household & Health Care",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16169971",
+    "https://ko.wikipedia.org/wiki/LG%EC%83%9D%ED%99%9C%EA%B1%B4%EA%B0%95",
+    "https://en.wikipedia.org/wiki/LG_H%26H"
+   ]
+  },
+  {
+   "slug": "samsung-electronics",
+   "name": "삼성전자",
+   "qid": "Q20718",
+   "officialWebsite": "https://www.samsung.com/",
+   "labelKo": "삼성전자",
+   "labelEn": "Samsung Electronics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20718",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90",
+    "https://en.wikipedia.org/wiki/Samsung_Electronics"
+   ]
+  },
+  {
+   "slug": "hyundai-motor",
+   "name": "현대자동차",
+   "qid": "Q55931",
+   "officialWebsite": "https://www.hyundai.com/",
+   "labelKo": "현대자동차",
+   "labelEn": "Hyundai Motor Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55931",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
+   ]
+  },
+  {
+   "slug": "kia",
+   "name": "기아",
+   "qid": "Q35349",
+   "officialWebsite": "https://www.kia.com/",
+   "labelKo": "기아",
+   "labelEn": "Kia",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35349",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%95%84_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Kia"
+   ]
+  },
+  {
+   "slug": "naver",
+   "name": "네이버",
+   "qid": "Q485639",
+   "officialWebsite": "https://www.naver.com/",
+   "labelKo": "네이버",
+   "labelEn": "Naver",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q485639",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%9D%B4%EB%B2%84",
+    "https://en.wikipedia.org/wiki/Naver"
+   ]
+  },
+  {
+   "slug": "lg-electronics",
+   "name": "LG전자",
+   "qid": "Q162345",
+   "officialWebsite": "https://www.lge.co.kr/",
+   "labelKo": "LG전자",
+   "labelEn": "LG Electronics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q162345",
+    "https://ko.wikipedia.org/wiki/LG%EC%A0%84%EC%9E%90",
+    "https://en.wikipedia.org/wiki/LG_Electronics"
+   ]
+  },
+  {
+   "slug": "coupang",
+   "name": "쿠팡",
+   "qid": "Q12620655",
+   "officialWebsite": "https://www.coupang.com/",
+   "labelKo": "쿠팡",
+   "labelEn": "Coupang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12620655",
+    "https://ko.wikipedia.org/wiki/%EC%BF%A0%ED%8C%A1",
+    "https://en.wikipedia.org/wiki/Coupang"
+   ]
+  },
+  {
+   "slug": "kakao",
+   "name": "카카오",
+   "qid": "Q17684312",
+   "officialWebsite": "https://www.kakaocorp.com/",
+   "labelKo": "카카오",
+   "labelEn": "Kakao",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17684312",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%B9%B4%EC%98%A4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Kakao"
+   ]
+  },
+  {
+   "slug": "krafton",
+   "name": "크래프톤",
+   "qid": "Q4035237",
+   "officialWebsite": "https://www.krafton.com/",
+   "labelKo": "블루홀 스튜디오",
+   "labelEn": "Krafton",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4035237",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4",
+    "https://en.wikipedia.org/wiki/Krafton"
+   ]
+  },
+  {
+   "slug": "socar",
+   "name": "쏘카",
+   "qid": "Q24000067",
+   "officialWebsite": "https://www.socar.kr/",
+   "labelKo": "쏘카",
+   "labelEn": "SOCAR",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24000067",
+    "https://ko.wikipedia.org/wiki/%EC%8F%98%EC%B9%B4"
+   ]
+  },
+  {
+   "slug": "shinsegae",
+   "name": "신세계",
+   "qid": "Q490787",
+   "officialWebsite": "https://www.shinsegae.com/",
+   "labelKo": "신세계백화점",
+   "labelEn": "Shinsegae",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q490787",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%84%B8%EA%B3%84_(%EB%B0%B1%ED%99%94%EC%A0%90)",
+    "https://en.wikipedia.org/wiki/Shinsegae"
+   ]
+  },
+  {
+   "slug": "gs25",
+   "name": "GS25",
+   "qid": "Q624041",
+   "officialWebsite": "https://www.gs25.gsretail.com/",
+   "labelKo": "GS25",
+   "labelEn": "GS25",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624041",
+    "https://ko.wikipedia.org/wiki/GS25",
+    "https://en.wikipedia.org/wiki/GS25"
+   ]
+  },
+  {
+   "slug": "kurly",
+   "name": "컬리",
+   "qid": "Q97203011",
+   "officialWebsite": "https://www.kurly.com/",
+   "labelKo": "컬리",
+   "labelEn": "Kurly",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q97203011",
+    "https://ko.wikipedia.org/wiki/%EC%BB%AC%EB%A6%AC_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "danggeun-market",
+   "name": "당근마켓",
+   "qid": "Q90002272",
+   "officialWebsite": "https://www.daangn.com/",
+   "labelKo": "당근마켓",
+   "labelEn": "Daangn Market",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q90002272",
+    "https://ko.wikipedia.org/wiki/%EB%8B%B9%EA%B7%BC_(%ED%94%8C%EB%9E%AB%ED%8F%BC)"
+   ]
+  },
+  {
+   "slug": "nongshim",
+   "name": "농심",
+   "qid": "Q483018",
+   "officialWebsite": "https://www.nongshim.com/",
+   "labelKo": "농심",
+   "labelEn": "Nong Shim Ltd.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483018",
+    "https://ko.wikipedia.org/wiki/%EB%86%8D%EC%8B%AC",
+    "https://en.wikipedia.org/wiki/Nongshim"
+   ]
+  },
+  {
+   "slug": "orion",
+   "name": "오리온",
+   "qid": "Q7102776",
+   "officialWebsite": "https://www.orionworld.com/",
+   "labelKo": "오리온",
+   "labelEn": "Orion Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7102776",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EC%98%A8_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Orion_Corporation_(South_Korean_company)"
+   ]
+  },
+  {
+   "slug": "binggrae",
+   "name": "빙그레",
+   "qid": "Q12599539",
+   "officialWebsite": "https://www.bing.co.kr/",
+   "labelKo": "빙그레",
+   "labelEn": "Binggrae",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12599539",
+    "https://ko.wikipedia.org/wiki/%EB%B9%99%EA%B7%B8%EB%A0%88",
+    "https://en.wikipedia.org/wiki/Binggrae"
+   ]
+  },
+  {
+   "slug": "hitejinro",
+   "name": "하이트진로",
+   "qid": "Q494272",
+   "officialWebsite": "https://www.hitejinro.com/",
+   "labelKo": "하이트진로",
+   "labelEn": "HiteJinro",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494272",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%ED%8A%B8%EC%A7%84%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/HiteJinro"
+   ]
+  },
+  {
+   "slug": "kakao-entertainment",
+   "name": "카카오엔터테인먼트",
+   "qid": "Q106341957",
+   "officialWebsite": "https://www.kakaoent.com/",
+   "labelKo": "카카오엔터테인먼트",
+   "labelEn": "Kakao Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q106341957",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Kakao_Entertainment"
+   ]
+  },
+  {
+   "slug": "shinhan-financial-group",
+   "name": "신한금융그룹",
+   "qid": "Q491325",
+   "officialWebsite": "https://www.shinhangroup.com/",
+   "labelKo": "신한금융지주",
+   "labelEn": "Shinhan Financial Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q491325",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Shinhan_Financial_Group"
+   ]
+  },
+  {
+   "slug": "kakaobank",
+   "name": "카카오뱅크",
+   "qid": "Q33570421",
+   "officialWebsite": "https://www.kakaobank.com/",
+   "labelKo": "카카오뱅크",
+   "labelEn": "KakaoBank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q33570421",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC",
+    "https://en.wikipedia.org/wiki/KakaoBank"
+   ]
+  },
+  {
+   "slug": "sk-hynix",
+   "name": "SK하이닉스",
+   "qid": "Q370719",
+   "officialWebsite": "https://www.skhynix.com/",
+   "labelKo": "SK하이닉스",
+   "labelEn": "SK Hynix",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q370719",
+    "https://ko.wikipedia.org/wiki/SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/SK_Hynix"
+   ]
+  },
+  {
+   "slug": "kt",
+   "name": "KT",
+   "qid": "Q485908",
+   "officialWebsite": "https://www.kt.com/",
+   "labelKo": "KT",
+   "labelEn": "KT Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q485908",
+    "https://ko.wikipedia.org/wiki/KT",
+    "https://en.wikipedia.org/wiki/KT_Corporation"
+   ]
+  },
+  {
+   "slug": "pearl-abyss",
+   "name": "펄어비스",
+   "qid": "Q55735496",
+   "officialWebsite": "https://www.pearlabyss.com/",
+   "labelKo": "펄어비스",
+   "labelEn": "Pearl Abyss",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55735496",
+    "https://ko.wikipedia.org/wiki/%ED%8E%84%EC%96%B4%EB%B9%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Pearl_Abyss"
+   ]
+  },
+  {
+   "slug": "korean-air",
+   "name": "대한항공",
+   "qid": "Q213147",
+   "officialWebsite": "https://www.koreanair.com/",
+   "labelKo": "대한항공",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q213147",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Korean_Air"
+   ]
+  },
+  {
+   "slug": "asiana-airlines",
+   "name": "아시아나항공",
+   "qid": "Q211165",
+   "officialWebsite": "https://flyasiana.com/",
+   "labelKo": "아시아나항공",
+   "labelEn": "Asiana Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q211165",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84%EB%82%98%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Asiana_Airlines"
+   ]
+  },
+  {
+   "slug": "jeju-air",
+   "name": "제주항공",
+   "qid": "Q482642",
+   "officialWebsite": "https://www.jejuair.net/",
+   "labelKo": "제주항공",
+   "labelEn": "Jeju Air",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q482642",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Jeju_Air"
+   ]
+  },
+  {
+   "slug": "celltrion",
+   "name": "셀트리온",
+   "qid": "Q16175734",
+   "officialWebsite": "https://www.celltrion.com/",
+   "labelKo": "셀트리온",
+   "labelEn": "Celltrion",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16175734",
+    "https://ko.wikipedia.org/wiki/%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8",
+    "https://en.wikipedia.org/wiki/Celltrion"
+   ]
+  },
+  {
+   "slug": "samsung-biologics",
+   "name": "삼성바이오로직스",
+   "qid": "Q16767532",
+   "officialWebsite": "https://samsungbiologics.com/",
+   "labelKo": "삼성바이오로직스",
+   "labelEn": "Samsung Biologics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16767532",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Samsung_Biologics"
+   ]
+  },
+  {
+   "slug": "yuhan",
+   "name": "유한양행",
+   "qid": "Q8060442",
+   "officialWebsite": "https://www.yuhan.co.kr/",
+   "labelKo": "유한양행",
+   "labelEn": "Yuhan",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8060442",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89",
+    "https://en.wikipedia.org/wiki/Yuhan"
+   ]
+  },
+  {
+   "slug": "samyang-foods",
+   "name": "삼양식품",
+   "qid": "Q7413176",
+   "officialWebsite": "https://www.samyangfoods.com/",
+   "labelKo": "삼양식품",
+   "labelEn": "Samyang Foods",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7413176",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%96%91%EC%8B%9D%ED%92%88",
+    "https://en.wikipedia.org/wiki/Samyang_Foods"
+   ]
+  },
+  {
+   "slug": "pulmuone",
+   "name": "풀무원",
+   "qid": "Q7259556",
+   "officialWebsite": "https://www.pulmuone.co.kr/",
+   "labelKo": "풀무원",
+   "labelEn": "Pulmuone",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7259556",
+    "https://ko.wikipedia.org/wiki/%ED%92%80%EB%AC%B4%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Pulmuone"
+   ]
+  },
+  {
+   "slug": "ottogi",
+   "name": "오뚜기",
+   "qid": "Q625852",
+   "officialWebsite": "https://www.ottogi.co.kr/",
+   "labelKo": "오뚜기",
+   "labelEn": "Ottogi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q625852",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9A%9C%EA%B8%B0",
+    "https://en.wikipedia.org/wiki/Ottogi"
+   ]
+  },
+  {
+   "slug": "kyochon",
+   "name": "교촌치킨",
+   "qid": "Q6451885",
+   "officialWebsite": "https://www.kyochon.com/",
+   "labelKo": "교촌",
+   "labelEn": "Kyochon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6451885",
+    "https://ko.wikipedia.org/wiki/%EA%B5%90%EC%B4%8C_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+    "https://en.wikipedia.org/wiki/Kyochon"
+   ]
+  },
+  {
+   "slug": "hankook-tire",
+   "name": "한국타이어",
+   "qid": "Q493094",
+   "officialWebsite": "https://www.hankooktire.com/",
+   "labelKo": "한국타이어앤테크놀로지",
+   "labelEn": "Hankook Tire & Technology",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493094",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%ED%83%80%EC%9D%B4%EC%96%B4%EC%95%A4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Hankook"
+   ]
+  },
+  {
+   "slug": "samsung-life",
+   "name": "삼성생명",
+   "qid": "Q624080",
+   "officialWebsite": "https://www.samsunglife.com/",
+   "labelKo": "삼성생명보험",
+   "labelEn": "Samsung Life Insurance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624080",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EC%83%9D%EB%AA%85%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Samsung_Life_Insurance"
+   ]
+  },
+  {
+   "slug": "daesang",
+   "name": "대상",
+   "qid": "Q12591553",
+   "officialWebsite": "https://www.daesang.com/",
+   "labelKo": "대상 (기업)",
+   "labelEn": "Daesang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12591553",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%83%81_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "maeil-dairies",
+   "name": "매일유업",
+   "qid": "Q11239984",
+   "officialWebsite": "https://www.maeil.com/",
+   "labelKo": "매일유업",
+   "labelEn": "Maeil Dairies",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11239984",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A4%EC%9D%BC%EC%9C%A0%EC%97%85"
+   ]
+  },
+  {
+   "slug": "lotte-wellfood",
+   "name": "롯데웰푸드",
+   "qid": "Q6684915",
+   "officialWebsite": "https://www.lottewellfood.com/",
+   "labelKo": "롯데웰푸드",
+   "labelEn": "Lotte Wellfood",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6684915",
+    "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%9B%B0%ED%91%B8%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Lotte_Wellfood"
+   ]
+  },
+  {
+   "slug": "haitai",
+   "name": "해태제과",
+   "qid": "Q487281",
+   "officialWebsite": "https://www.ht.co.kr/",
+   "labelKo": "해태제과식품",
+   "labelEn": "Haitai Confectionery & Foods",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q487281",
+    "https://ko.wikipedia.org/wiki/%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%EC%8B%9D%ED%92%88",
+    "https://en.wikipedia.org/wiki/Haitai"
+   ]
+  },
+  {
+   "slug": "cosmax",
+   "name": "코스맥스",
+   "qid": "Q17991457",
+   "officialWebsite": "https://www.cosmax.com/",
+   "labelKo": "코스맥스",
+   "labelEn": "Cosmax",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17991457",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%8A%A4%EB%A7%A5%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "kolmar-korea",
+   "name": "한국콜마",
+   "qid": "Q18142473",
+   "officialWebsite": "https://www.kolmar.co.kr/",
+   "labelKo": "한국콜마",
+   "labelEn": "Kolmar Korea Co., Ltd.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18142473",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%BD%9C%EB%A7%88"
+   ]
+  },
+  {
+   "slug": "f-and-f",
+   "name": "F&F",
+   "qid": "Q18998034",
+   "officialWebsite": "https://www.fnf.co.kr/",
+   "labelKo": "F&F",
+   "labelEn": "F&F",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18998034",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%ED%94%84%EC%95%A4%EC%97%90%ED%94%84"
+   ]
+  },
+  {
+   "slug": "handsome",
+   "name": "한섬",
+   "qid": "Q12624097",
+   "officialWebsite": "https://www.handsome.co.kr/",
+   "labelKo": "한섬 (기업)",
+   "labelEn": "HANDSOME Corp.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12624097",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%84%AC_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "e-land",
+   "name": "이랜드",
+   "qid": "Q5321417",
+   "officialWebsite": "https://www.eland.co.kr/",
+   "labelKo": "이랜드그룹",
+   "labelEn": "E-Land",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5321417",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%9E%9C%EB%93%9C%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/E-Land_Group"
+   ]
+  },
+  {
+   "slug": "lg-chem",
+   "name": "LG화학",
+   "qid": "Q486976",
+   "officialWebsite": "https://www.lgchem.com/",
+   "labelKo": "LG화학",
+   "labelEn": "LG Chem",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q486976",
+    "https://ko.wikipedia.org/wiki/LG%ED%99%94%ED%95%99",
+    "https://en.wikipedia.org/wiki/LG_Chem"
+   ]
+  },
+  {
+   "slug": "sk-innovation",
+   "name": "SK이노베이션",
+   "qid": "Q16172809",
+   "officialWebsite": "https://www.skinnovation.com/",
+   "labelKo": "SK이노베이션",
+   "labelEn": "SK Innovation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16172809",
+    "https://ko.wikipedia.org/wiki/SK%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/SK_Innovation"
+   ]
+  },
+  {
+   "slug": "gs-caltex",
+   "name": "GS칼텍스",
+   "qid": "Q624012",
+   "officialWebsite": "https://www.gscaltex.com/",
+   "labelKo": "GS칼텍스",
+   "labelEn": "GS Caltex",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624012",
+    "https://ko.wikipedia.org/wiki/GS%EC%B9%BC%ED%85%8D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/GS_Caltex"
+   ]
+  },
+  {
+   "slug": "posco",
+   "name": "포스코",
+   "qid": "Q12621895",
+   "officialWebsite": "https://www.posco.co.kr/",
+   "labelKo": "포스코그룹",
+   "labelEn": "POSCO Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12621895",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%A3%B9"
+   ]
+  },
+  {
+   "slug": "genesis",
+   "name": "제네시스",
+   "qid": "Q21451523",
+   "officialWebsite": "https://www.genesis.com/",
+   "labelKo": "제네시스 (자동차)",
+   "labelEn": "Genesis Motor",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21451523",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Genesis_Motor"
+   ]
+  },
+  {
+   "slug": "hd-hyundai-heavy",
+   "name": "HD현대중공업",
+   "qid": "Q626638",
+   "officialWebsite": "https://www.hd.com/",
+   "labelKo": "HD현대",
+   "labelEn": "HD Hyundai",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q626638",
+    "https://ko.wikipedia.org/wiki/HD%ED%98%84%EB%8C%80",
+    "https://en.wikipedia.org/wiki/HD_Hyundai"
+   ]
+  },
+  {
+   "slug": "doosan",
+   "name": "두산",
+   "qid": "Q486002",
+   "officialWebsite": "https://www.doosan.com/",
+   "labelKo": "두산그룹",
+   "labelEn": "Doosan Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q486002",
+    "https://ko.wikipedia.org/wiki/%EB%91%90%EC%82%B0%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Doosan_Group"
+   ]
+  },
+  {
+   "slug": "line",
+   "name": "라인",
+   "qid": "Q602471",
+   "officialWebsite": "https://line.me/",
+   "labelKo": "라인",
+   "labelEn": "LINE",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q602471",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B8_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)",
+    "https://en.wikipedia.org/wiki/Line_(software)"
+   ]
+  },
+  {
+   "slug": "dunamu",
+   "name": "두나무",
+   "qid": "Q130217833",
+   "officialWebsite": "https://www.dunamu.com/",
+   "labelKo": "두나무",
+   "labelEn": "Dunamu Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q130217833"
+   ]
+  },
+  {
+   "slug": "toss-bank",
+   "name": "토스뱅크",
+   "qid": "Q110117949",
+   "officialWebsite": "https://www.tossbank.com/",
+   "labelKo": "토스뱅크",
+   "labelEn": "Toss Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q110117949",
+    "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC"
+   ]
+  },
+  {
+   "slug": "smilegate",
+   "name": "스마일게이트",
+   "qid": "Q12603595",
+   "officialWebsite": "https://www.smilegate.com/",
+   "labelKo": "스마일게이트",
+   "labelEn": "Smilegate",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12603595",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%EC%9D%BC%EA%B2%8C%EC%9D%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Smilegate"
+   ]
+  },
+  {
+   "slug": "wemade",
+   "name": "위메이드",
+   "qid": "Q488510",
+   "officialWebsite": "https://www.wemade.com/",
+   "labelKo": "위메이드 엔터테인먼트",
+   "labelEn": "WeMade Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q488510",
+    "https://ko.wikipedia.org/wiki/%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Wemade_Entertainment"
+   ]
+  },
+  {
+   "slug": "tvn",
+   "name": "tvN",
+   "qid": "Q333424",
+   "officialWebsite": "https://tvn.cjenm.com/",
+   "labelKo": "tvN",
+   "labelEn": "tvN",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q333424",
+    "https://ko.wikipedia.org/wiki/TvN",
+    "https://en.wikipedia.org/wiki/TvN_(South_Korean_TV_channel)"
+   ]
+  },
+  {
+   "slug": "sbs",
+   "name": "SBS",
+   "qid": "Q928831",
+   "officialWebsite": "https://www.sbs.co.kr/",
+   "labelKo": "SBS",
+   "labelEn": "Seoul Broadcasting System",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q928831",
+    "https://ko.wikipedia.org/wiki/SBS",
+    "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System"
+   ]
+  },
+  {
+   "slug": "studio-dragon",
+   "name": "스튜디오드래곤",
+   "qid": "Q31180504",
+   "officialWebsite": "https://www.studiodragon.net/",
+   "labelKo": "스튜디오드래곤",
+   "labelEn": "Studio Dragon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q31180504",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EB%93%9C%EB%9E%98%EA%B3%A4",
+    "https://en.wikipedia.org/wiki/Studio_Dragon"
+   ]
+  },
+  {
+   "slug": "paris-baguette",
+   "name": "파리바게뜨",
+   "qid": "Q62605260",
+   "officialWebsite": "https://www.paris.co.kr/",
+   "labelKo": "파리바게뜨",
+   "labelEn": "Paris Baguette",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q62605260"
+   ]
+  },
+  {
+   "slug": "bbq",
+   "name": "BBQ",
+   "qid": "Q87716489",
+   "officialWebsite": "https://www.bbq.co.kr/",
+   "labelKo": "BBQ",
+   "labelEn": "BBQ",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q87716489"
+   ]
+  },
+  {
+   "slug": "twosome-place",
+   "name": "투썸플레이스",
+   "qid": "Q12621301",
+   "officialWebsite": "https://www.twosome.co.kr/",
+   "labelKo": "투썸플레이스",
+   "labelEn": "A Twosome Place",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12621301",
+    "https://ko.wikipedia.org/wiki/%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/A_Twosome_Place"
+   ]
+  },
+  {
+   "slug": "ediya-coffee",
+   "name": "이디야커피",
+   "qid": "Q12611298",
+   "officialWebsite": "https://www.ediya.com/",
+   "labelKo": "이디야커피",
+   "labelEn": "Ediya Coffee",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12611298",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%94%94%EC%95%BC%EC%BB%A4%ED%94%BC",
+    "https://en.wikipedia.org/wiki/Ediya_Coffee"
+   ]
+  },
+  {
+   "slug": "hanmi-pharm",
+   "name": "한미약품",
+   "qid": "Q17095096",
+   "officialWebsite": "https://www.hanmi.co.kr/",
+   "labelKo": "한미약품",
+   "labelEn": "Hanmi Pharmaceutical",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17095096",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88",
+    "https://en.wikipedia.org/wiki/Hanmi_Pharm"
+   ]
+  },
+  {
+   "slug": "chong-kun-dang",
+   "name": "종근당",
+   "qid": "Q12617231",
+   "officialWebsite": "https://www.ckdpharm.com/",
+   "labelKo": "종근당",
+   "labelEn": "Chong Kun Dang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12617231",
+    "https://ko.wikipedia.org/wiki/%EC%A2%85%EA%B7%BC%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Chong_Kun_Dang"
+   ]
+  },
+  {
+   "slug": "kwangdong-pharm",
+   "name": "광동제약",
+   "qid": "Q12584983",
+   "officialWebsite": "https://www.ekdp.com/",
+   "labelKo": "광동제약",
+   "labelEn": "Kwang Dong Pharmaceutical",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12584983",
+    "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8F%99%EC%A0%9C%EC%95%BD"
+   ]
+  },
+  {
+   "slug": "s-oil",
+   "name": "에쓰오일",
+   "qid": "Q185564",
+   "officialWebsite": "https://www.s-oil.com/",
+   "labelKo": "S-Oil",
+   "labelEn": "S-Oil",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q185564",
+    "https://ko.wikipedia.org/wiki/S-OIL",
+    "https://en.wikipedia.org/wiki/S-Oil"
+   ]
+  },
+  {
+   "slug": "hanwha-solutions",
+   "name": "한화솔루션",
+   "qid": "Q5651426",
+   "officialWebsite": "https://www.hanwhasolutions.com/",
+   "labelKo": "한화솔루션",
+   "labelEn": "Hanwha Solutions",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5651426",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%99%94%EC%86%94%EB%A3%A8%EC%85%98",
+    "https://en.wikipedia.org/wiki/Hanwha_Solutions"
+   ]
+  },
+  {
+   "slug": "hyosung",
+   "name": "효성",
+   "qid": "Q497254",
+   "officialWebsite": "https://www.hyosung.com/",
+   "labelKo": "효성",
+   "labelEn": "Hyosung",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q497254",
+    "https://ko.wikipedia.org/wiki/%ED%9A%A8%EC%84%B1_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Hyosung"
+   ]
+  },
+  {
+   "slug": "hyundai-enc",
+   "name": "현대건설",
+   "qid": "Q489809",
+   "officialWebsite": "https://www.hdec.kr/",
+   "labelKo": "현대건설",
+   "labelEn": "Hyundai Engineering and Construction",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489809",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EA%B1%B4%EC%84%A4",
+    "https://en.wikipedia.org/wiki/Hyundai_Engineering_and_Construction"
+   ]
+  },
+  {
+   "slug": "hyundai-department-store",
+   "name": "현대백화점",
+   "qid": "Q624388",
+   "officialWebsite": "https://www.ehyundai.com/",
+   "labelKo": "현대백화점",
+   "labelEn": "Hyundai Department Store",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624388",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90",
+    "https://en.wikipedia.org/wiki/Hyundai_Department_Store"
+   ]
+  },
+  {
+   "slug": "cu",
+   "name": "CU",
+   "qid": "Q12580836",
+   "officialWebsite": "https://cu.bgfretail.com/",
+   "labelKo": "CU",
+   "labelEn": "CU",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12580836",
+    "https://ko.wikipedia.org/wiki/CU_(%ED%8E%B8%EC%9D%98%EC%A0%90)",
+    "https://en.wikipedia.org/wiki/CU_(store)"
+   ]
+  },
+  {
+   "slug": "homeplus",
+   "name": "홈플러스",
+   "qid": "Q5889167",
+   "officialWebsite": "https://www.homeplus.co.kr/",
+   "labelKo": "홈플러스",
+   "labelEn": "Homeplus",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5889167",
+    "https://ko.wikipedia.org/wiki/%ED%99%88%ED%94%8C%EB%9F%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Homeplus"
+   ]
+  },
+  {
+   "slug": "samsung-fire",
+   "name": "삼성화재",
+   "qid": "Q492706",
+   "officialWebsite": "https://www.samsungfire.com/",
+   "labelKo": "삼성화재해상보험",
+   "labelEn": "Samsung Fire & Marine Insurance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q492706",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%ED%99%94%EC%9E%AC%ED%95%B4%EC%83%81%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Samsung_Fire_%26_Marine_Insurance"
+   ]
+  },
+  {
+   "slug": "kiwoom-securities",
+   "name": "키움증권",
+   "qid": "Q12620803",
+   "officialWebsite": "https://www.kiwoom.com/",
+   "labelKo": "키움증권",
+   "labelEn": "Kiwoom Securities",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12620803",
+    "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C",
+    "https://en.wikipedia.org/wiki/Kiwoom_Securities"
+   ]
+  },
+  {
+   "slug": "db-insurance",
+   "name": "DB손해보험",
+   "qid": "Q5295830",
+   "officialWebsite": "https://www.idbins.com/",
+   "labelKo": "DB손해보험",
+   "labelEn": "DB Insurance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5295830",
+    "https://ko.wikipedia.org/wiki/DB%EC%86%90%ED%95%B4%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/DB_Insurance"
+   ]
+  },
+  {
+   "slug": "namyang-dairy",
+   "name": "남양유업",
+   "qid": "Q12589926",
+   "officialWebsite": "https://www.namyangi.com/",
+   "labelKo": "남양유업",
+   "labelEn": "Namyang Dairy Products",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12589926",
+    "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%96%91%EC%9C%A0%EC%97%85",
+    "https://en.wikipedia.org/wiki/Namyang_Dairy_Products"
+   ]
+  },
+  {
+   "slug": "lotteria",
+   "name": "롯데리아",
+   "qid": "Q249525",
+   "officialWebsite": "https://www.lotteria.com/",
+   "labelKo": "롯데리아",
+   "labelEn": "Lotteria",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q249525",
+    "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EB%A6%AC%EC%95%84",
+    "https://en.wikipedia.org/wiki/Lotteria"
+   ]
+  },
+  {
+   "slug": "moms-touch",
+   "name": "맘스터치",
+   "qid": "Q23044856",
+   "officialWebsite": "https://momstouch.co.kr/",
+   "labelKo": "맘스터치",
+   "labelEn": "Mom's Touch",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q23044856",
+    "https://ko.wikipedia.org/wiki/%EB%A7%98%EC%8A%A4%ED%84%B0%EC%B9%98",
+    "https://en.wikipedia.org/wiki/Mom%27s_Touch"
+   ]
+  },
+  {
+   "slug": "compose-coffee",
+   "name": "컴포즈커피",
+   "qid": "Q120997937",
+   "officialWebsite": "https://composecoffee.com/",
+   "labelKo": "컴포즈커피",
+   "labelEn": "Compose Coffee",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q120997937",
+    "https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC",
+    "https://en.wikipedia.org/wiki/Compose_Coffee"
+   ]
+  },
+  {
+   "slug": "the-face-shop",
+   "name": "더페이스샵",
+   "qid": "Q624440",
+   "officialWebsite": "https://www.thefaceshop.com/",
+   "labelKo": "더페이스샵",
+   "labelEn": "The Face Shop",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624440",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%83%B5"
+   ]
+  },
+  {
+   "slug": "nature-republic",
+   "name": "네이처리퍼블릭",
+   "qid": "Q16935507",
+   "officialWebsite": "https://www.naturerepublic.com/",
+   "labelKo": "네이처리퍼블릭",
+   "labelEn": "Nature Republic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16935507",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%9D%B4%EC%B2%98%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AD",
+    "https://en.wikipedia.org/wiki/Nature_Republic"
+   ]
+  },
+  {
+   "slug": "mamonde",
+   "name": "마몽드",
+   "qid": "Q16935509",
+   "officialWebsite": "https://www.mamonde.com/",
+   "labelKo": "마몽드",
+   "labelEn": "Mamonde",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16935509",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%AA%BD%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Mamonde"
+   ]
+  },
+  {
+   "slug": "manyo-factory",
+   "name": "마녀공장",
+   "qid": "Q131188099",
+   "officialWebsite": "https://www.manyo.co.kr/",
+   "labelKo": "마녀공장",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188099",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%85%80%EA%B3%B5%EC%9E%A5"
+   ]
+  },
+  {
+   "slug": "shift-up",
+   "name": "시프트업",
+   "qid": "Q108537188",
+   "officialWebsite": "https://shiftup.co.kr/",
+   "labelKo": "시프트업",
+   "labelEn": "Shift Up",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q108537188",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%94%84%ED%8A%B8%EC%97%85",
+    "https://en.wikipedia.org/wiki/Shift_Up"
+   ]
+  },
+  {
+   "slug": "devsisters",
+   "name": "데브시스터즈",
+   "qid": "Q20445830",
+   "officialWebsite": "https://www.devsisters.com/",
+   "labelKo": "데브시스터즈",
+   "labelEn": "Devsisters",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20445830",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Devsisters"
+   ]
+  },
+  {
+   "slug": "gravity",
+   "name": "그라비티",
+   "qid": "Q484143",
+   "officialWebsite": "https://www.gravity.co.kr/",
+   "labelKo": "그라비티",
+   "labelEn": "Gravity Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484143",
+    "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9D%BC%EB%B9%84%ED%8B%B0_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Gravity_(video_game_company)"
+   ]
+  },
+  {
+   "slug": "jin-air",
+   "name": "진에어",
+   "qid": "Q484872",
+   "officialWebsite": "https://www.jinair.com/",
+   "labelKo": "진에어",
+   "labelEn": "Jin Air",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484872",
+    "https://ko.wikipedia.org/wiki/%EC%A7%84%EC%97%90%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Jin_Air"
+   ]
+  },
+  {
+   "slug": "tway-air",
+   "name": "티웨이항공",
+   "qid": "Q494775",
+   "officialWebsite": "https://www.twayair.com/",
+   "labelKo": "티웨이항공",
+   "labelEn": "T'way Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494775",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/T%27way_Air"
+   ]
+  },
+  {
+   "slug": "cj-logistics",
+   "name": "CJ대한통운",
+   "qid": "Q5012276",
+   "officialWebsite": "https://www.cjlogistics.com/",
+   "labelKo": "CJ대한통운",
+   "labelEn": "CJ Logistics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5012276",
+    "https://ko.wikipedia.org/wiki/CJ%EB%8C%80%ED%95%9C%ED%86%B5%EC%9A%B4",
+    "https://en.wikipedia.org/wiki/CJ_Logistics"
+   ]
+  },
+  {
+   "slug": "discovery-expedition",
+   "name": "디스커버리 익스페디션",
+   "qid": "Q26286443",
+   "officialWebsite": "https://www.discovery-expedition.com/",
+   "labelKo": "디스커버리 익스페디션",
+   "labelEn": "Discovery Expedition (clothing)",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26286443",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%8A%A4%EC%BB%A4%EB%B2%84%EB%A6%AC_%EC%9D%B5%EC%8A%A4%ED%8E%98%EB%94%94%EC%85%98",
+    "https://en.wikipedia.org/wiki/Discovery_Expedition_(clothing)"
+   ]
+  },
+  {
+   "slug": "stylenanda",
+   "name": "스타일난다",
+   "qid": "Q21178775",
+   "officialWebsite": "https://www.stylenanda.com/",
+   "labelKo": "스타일난다",
+   "labelEn": "Stylenanda",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21178775",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%EC%9D%BC%EB%82%9C%EB%8B%A4",
+    "https://en.wikipedia.org/wiki/Stylenanda"
+   ]
+  },
+  {
+   "slug": "ibk",
+   "name": "IBK기업은행",
+   "qid": "Q483855",
+   "officialWebsite": "https://www.ibk.co.kr/",
+   "labelKo": "중소기업은행",
+   "labelEn": "Industrial Bank of Korea",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483855",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Industrial_Bank_of_Korea"
+   ]
+  },
+  {
+   "slug": "kyobo-life",
+   "name": "교보생명",
+   "qid": "Q6451862",
+   "officialWebsite": "https://www.kyobo.com/",
+   "labelKo": "교보생명보험",
+   "labelEn": "Kyobo Life",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6451862",
+    "https://ko.wikipedia.org/wiki/%EA%B5%90%EB%B3%B4%EC%83%9D%EB%AA%85%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Kyobo_Life_Insurance"
+   ]
+  },
+  {
+   "slug": "hyundai-marine",
+   "name": "현대해상",
+   "qid": "Q482973",
+   "officialWebsite": "https://www.hi.co.kr/",
+   "labelKo": "현대해상화재보험",
+   "labelEn": "Hyundai Marine & Fire Insurance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q482973",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%ED%95%B4%EC%83%81%ED%99%94%EC%9E%AC%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Hyundai_Marine_%26_Fire_Insurance"
+   ]
+  },
+  {
+   "slug": "meritz-fire",
+   "name": "메리츠화재",
+   "qid": "Q6819575",
+   "officialWebsite": "https://www.meritzfire.com/",
+   "labelKo": "메리츠화재해상보험",
+   "labelEn": "Meritz",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6819575",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A6%AC%EC%B8%A0%ED%99%94%EC%9E%AC%ED%95%B4%EC%83%81%EB%B3%B4%ED%97%98"
+   ]
+  },
+  {
+   "slug": "kg-mobility",
+   "name": "KG모빌리티",
+   "qid": "Q221869",
+   "officialWebsite": "https://www.kg-mobility.com/",
+   "labelKo": "KG모빌리티",
+   "labelEn": "KG Mobility",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q221869",
+    "https://ko.wikipedia.org/wiki/KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/KG_Mobility"
+   ]
+  },
+  {
+   "slug": "nexen-tire",
+   "name": "넥센타이어",
+   "qid": "Q625573",
+   "officialWebsite": "https://www.nexentire.com/",
+   "labelKo": "넥센타이어",
+   "labelEn": "Nexen Tire",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q625573",
+    "https://ko.wikipedia.org/wiki/%EB%84%A5%EC%84%BC%ED%83%80%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Nexen_Tire"
+   ]
+  },
+  {
+   "slug": "hanon-systems",
+   "name": "한온시스템",
+   "qid": "Q5642735",
+   "officialWebsite": "https://www.hanonsystems.com/",
+   "labelKo": "한온시스템",
+   "labelEn": "Hanon Systems",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5642735",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%98%A8%EC%8B%9C%EC%8A%A4%ED%85%9C",
+    "https://en.wikipedia.org/wiki/Hanon_Systems"
+   ]
+  },
+  {
+   "slug": "korea-zinc",
+   "name": "고려아연",
+   "qid": "Q16183878",
+   "officialWebsite": "https://www.koreazinc.co.kr/",
+   "labelKo": "고려아연",
+   "labelEn": "Korea Zinc Co.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16183878",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A0%A4%EC%95%84%EC%97%B0",
+    "https://en.wikipedia.org/wiki/Korea_Zinc"
+   ]
+  },
+  {
+   "slug": "nepa",
+   "name": "네파",
+   "qid": "Q31179052",
+   "officialWebsite": "https://www.nepamall.com/",
+   "labelKo": "네파",
+   "labelEn": "Nepa",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q31179052",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%ED%8C%8C"
+   ]
+  },
+  {
+   "slug": "gs-construction",
+   "name": "GS건설",
+   "qid": "Q16219417",
+   "officialWebsite": "https://www.gsenc.com/",
+   "labelKo": "GS건설",
+   "labelEn": "GS Engineering & Construction",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16219417",
+    "https://ko.wikipedia.org/wiki/GS%EA%B1%B4%EC%84%A4",
+    "https://en.wikipedia.org/wiki/GS_Engineering_%26_Construction"
+   ]
+  },
+  {
+   "slug": "dl-enc",
+   "name": "DL이앤씨",
+   "qid": "Q105628048",
+   "officialWebsite": "https://www.dlenc.co.kr/",
+   "labelKo": "DL이앤씨",
+   "labelEn": "DL E&C",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q105628048",
+    "https://ko.wikipedia.org/wiki/DL%EC%9D%B4%EC%95%A4%EC%94%A8",
+    "https://en.wikipedia.org/wiki/DL_E%26C"
+   ]
+  },
+  {
+   "slug": "daewoo-enc",
+   "name": "대우건설",
+   "qid": "Q626452",
+   "officialWebsite": "https://www.daewooenc.com/",
+   "labelKo": "대우건설",
+   "labelEn": "Daewoo E&C",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q626452",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9A%B0%EA%B1%B4%EC%84%A4",
+    "https://en.wikipedia.org/wiki/Daewoo_E%26C"
+   ]
+  },
+  {
+   "slug": "samsung-ct",
+   "name": "삼성물산",
+   "qid": "Q499194",
+   "officialWebsite": "https://www.samsungcnt.com/",
+   "labelKo": "삼성물산",
+   "labelEn": "Samsung C&T Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q499194",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0",
+    "https://en.wikipedia.org/wiki/Samsung_C%26T_Corporation"
+   ]
+  },
+  {
+   "slug": "daewoong",
+   "name": "대웅제약",
+   "qid": "Q16219728",
+   "officialWebsite": "https://www.daewoong.co.kr/",
+   "labelKo": "대웅제약",
+   "labelEn": "Daewoong Pharm",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16219728",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD",
+    "https://en.wikipedia.org/wiki/Daewoong_Pharmaceutical"
+   ]
+  },
+  {
+   "slug": "dong-a-st",
+   "name": "동아에스티",
+   "qid": "Q110114773",
+   "officialWebsite": "https://www.donga-st.com/",
+   "labelKo": "동아에스티",
+   "labelEn": "Dong-A ST",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q110114773",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%84%EC%97%90%EC%8A%A4%ED%8B%B0"
+   ]
+  },
+  {
+   "slug": "sk-biopharm",
+   "name": "SK바이오팜",
+   "qid": "Q131188052",
+   "officialWebsite": "https://www.skbp.com/",
+   "labelKo": "SK바이오팜",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188052",
+    "https://ko.wikipedia.org/wiki/SK%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C"
+   ]
+  },
+  {
+   "slug": "cuckoo",
+   "name": "쿠쿠",
+   "qid": "Q5192364",
+   "officialWebsite": "https://www.cuckoo.co.kr/",
+   "labelKo": "쿠쿠전자",
+   "labelEn": "Cuckoo Electronics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5192364",
+    "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%BF%A0%EC%A0%84%EC%9E%90",
+    "https://en.wikipedia.org/wiki/Cuckoo_Electronics"
+   ]
+  },
+  {
+   "slug": "sk-magic",
+   "name": "SK매직",
+   "qid": "Q19657217",
+   "officialWebsite": "https://www.skmagic.com/",
+   "labelKo": "동양매직",
+   "labelEn": "SK Magic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q19657217",
+    "https://ko.wikipedia.org/wiki/SK%EC%9D%B8%ED%85%94%EB%A6%AD%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "cheongho-nais",
+   "name": "청호나이스",
+   "qid": "Q12619320",
+   "officialWebsite": "https://www.chungho.co.kr/",
+   "labelKo": "청호나이스",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12619320",
+    "https://ko.wikipedia.org/wiki/%EC%B2%AD%ED%98%B8%EB%82%98%EC%9D%B4%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "sempio",
+   "name": "샘표",
+   "qid": "Q16168540",
+   "officialWebsite": "https://www.sempio.com/",
+   "labelKo": "샘표식품",
+   "labelEn": "Sempio Foods",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16168540",
+    "https://ko.wikipedia.org/wiki/%EC%83%98%ED%91%9C%EC%8B%9D%ED%92%88"
+   ]
+  },
+  {
+   "slug": "crown-confectionery",
+   "name": "크라운제과",
+   "qid": "Q624194",
+   "officialWebsite": "https://www.crown.co.kr/",
+   "labelKo": "크라운제과",
+   "labelEn": "Crown Confectionery",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624194",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%9D%BC%EC%9A%B4%EC%A0%9C%EA%B3%BC",
+    "https://en.wikipedia.org/wiki/Crown_Confectionery"
+   ]
+  },
+  {
+   "slug": "spc-samlip",
+   "name": "SPC삼립",
+   "qid": "Q16165525",
+   "officialWebsite": "https://www.spcsamlip.co.kr/",
+   "labelKo": "SPC삼립",
+   "labelEn": "SPC Samlip",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16165525",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EB%A6%BD"
+   ]
+  },
+  {
+   "slug": "lionheart-studio",
+   "name": "라이온하트 스튜디오",
+   "qid": "Q132041252",
+   "officialWebsite": "https://lionhearts.co.kr/",
+   "labelKo": "라이온하트스튜디오",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q132041252",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%98%A8%ED%95%98%ED%8A%B8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
+   ]
+  },
+  {
+   "slug": "nhn",
+   "name": "NHN",
+   "qid": "Q16171459",
+   "officialWebsite": "https://nhn.com/",
+   "labelKo": "NHN",
+   "labelEn": "NHN",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16171459",
+    "https://ko.wikipedia.org/wiki/NHN",
+    "https://en.wikipedia.org/wiki/NHN_Corporation"
+   ]
+  },
+  {
+   "slug": "muhak",
+   "name": "무학",
+   "qid": "Q16168484",
+   "officialWebsite": "https://www.muhak.co.kr/",
+   "labelKo": "무학",
+   "labelEn": "MUHAK",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16168484",
+    "https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%99_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "bohae",
+   "name": "보해양조",
+   "qid": "Q10985746",
+   "officialWebsite": "https://www.bohae.co.kr/",
+   "labelKo": "보해양조",
+   "labelEn": "Bohae",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q10985746",
+    "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%95%B4%EC%96%91%EC%A1%B0",
+    "https://en.wikipedia.org/wiki/Bohae"
+   ]
+  },
+  {
+   "slug": "kooksoondang",
+   "name": "국순당",
+   "qid": "Q6430558",
+   "officialWebsite": "https://www.ksdb.co.kr/",
+   "labelKo": "국순당",
+   "labelEn": "Kooksoondang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6430558",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%88%9C%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Kooksoondang"
+   ]
+  },
+  {
+   "slug": "woongjin-food",
+   "name": "웅진식품",
+   "qid": "Q12609214",
+   "officialWebsite": "https://www.wjfood.co.kr/",
+   "labelKo": "웅진식품",
+   "labelEn": "Woongjin foods",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12609214",
+    "https://ko.wikipedia.org/wiki/%EC%9B%85%EC%A7%84%EC%8B%9D%ED%92%88"
+   ]
+  },
+  {
+   "slug": "donga-otsuka",
+   "name": "동아오츠카",
+   "qid": "Q12593475",
+   "officialWebsite": "https://www.donga-otsuka.co.kr/",
+   "labelKo": "동아오츠카",
+   "labelEn": "Dong-a Otsuka",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12593475",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%95%84%EC%98%A4%EC%B8%A0%EC%B9%B4"
+   ]
+  },
+  {
+   "slug": "kumho-petrochemical",
+   "name": "금호석유화학",
+   "qid": "Q16171192",
+   "officialWebsite": "https://www.kkpc.com/",
+   "labelKo": "금호석유화학",
+   "labelEn": "Kumho Petrochemical Co.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16171192",
+    "https://ko.wikipedia.org/wiki/%EA%B8%88%ED%98%B8%EC%84%9D%EC%9C%A0%ED%99%94%ED%95%99",
+    "https://en.wikipedia.org/wiki/Kumho_Petrochemical"
+   ]
+  },
+  {
+   "slug": "oci",
+   "name": "OCI",
+   "qid": "Q497825",
+   "officialWebsite": "https://www.oci.co.kr/",
+   "labelKo": "OCI",
+   "labelEn": "OCI Company Ltd.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q497825",
+    "https://ko.wikipedia.org/wiki/OCI_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/OCI_(company)"
+   ]
+  },
+  {
+   "slug": "hyosung-tnc",
+   "name": "효성티앤씨",
+   "qid": "Q131187773",
+   "officialWebsite": "https://www.hyosungtnc.com/",
+   "labelKo": "효성티앤씨",
+   "labelEn": "Hyosung TNC",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131187773",
+    "https://ko.wikipedia.org/wiki/%ED%9A%A8%EC%84%B1%ED%8B%B0%EC%95%A4%EC%94%A8",
+    "https://en.wikipedia.org/wiki/Hyosung_TNC"
+   ]
+  },
+  {
+   "slug": "woori-bank",
+   "name": "우리은행",
+   "qid": "Q494369",
+   "officialWebsite": "https://www.wooribank.com/",
+   "labelKo": "우리은행",
+   "labelEn": "Woori Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494369",
+    "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Woori_Bank"
+   ]
+  },
+  {
+   "slug": "nh-securities",
+   "name": "NH투자증권",
+   "qid": "Q12581611",
+   "officialWebsite": "https://www.nhqv.com/",
+   "labelKo": "NH투자증권",
+   "labelEn": "NH Investment & Securities",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12581611",
+    "https://ko.wikipedia.org/wiki/NH%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C",
+    "https://en.wikipedia.org/wiki/NH_Investment_%26_Securities"
+   ]
+  },
+  {
+   "slug": "kb-securities",
+   "name": "KB증권",
+   "qid": "Q12581340",
+   "officialWebsite": "https://www.kbsec.com/",
+   "labelKo": "KB증권",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12581340",
+    "https://ko.wikipedia.org/wiki/KB%EC%A6%9D%EA%B6%8C"
+   ]
+  },
+  {
+   "slug": "hanwha-life",
+   "name": "한화생명",
+   "qid": "Q491990",
+   "officialWebsite": "https://www.hanwhalife.com/",
+   "labelKo": "한화생명보험",
+   "labelEn": "Hanwha Life Insurance",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q491990",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%99%94%EC%83%9D%EB%AA%85%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Hanwha_Life_Insurance"
+   ]
+  },
+  {
+   "slug": "citibank-korea",
+   "name": "한국씨티은행",
+   "qid": "Q5122452",
+   "officialWebsite": "https://www.citibank.co.kr/",
+   "labelKo": "한국씨티은행",
+   "labelEn": "Citibank Korea",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5122452",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%94%A8%ED%8B%B0%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Citibank_Korea"
+   ]
+  },
+  {
+   "slug": "emart24",
+   "name": "이마트24",
+   "qid": "Q16219674",
+   "officialWebsite": "https://www.emart24.co.kr/",
+   "labelKo": "이마트24",
+   "labelEn": "Emart24",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16219674",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A7%88%ED%8A%B824"
+   ]
+  },
+  {
+   "slug": "hollys",
+   "name": "할리스",
+   "qid": "Q12624386",
+   "officialWebsite": "https://www.hollys.co.kr/",
+   "labelKo": "할리스 커피",
+   "labelEn": "Hollys Coffee",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12624386",
+    "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%A6%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Hollys"
+   ]
+  },
+  {
+   "slug": "angelinus",
+   "name": "엔제리너스",
+   "qid": "Q12606781",
+   "officialWebsite": "https://www.angelinus.com/",
+   "labelKo": "엔제리너스",
+   "labelEn": "Angel-in-us",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12606781",
+    "https://ko.wikipedia.org/wiki/%EC%97%94%EC%A0%9C%EB%A6%AC%EB%84%88%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Angel-in-us"
+   ]
+  },
+  {
+   "slug": "paiks-coffee",
+   "name": "빽다방",
+   "qid": "Q55730575",
+   "officialWebsite": "https://paikdabang.com/",
+   "labelKo": "빽다방",
+   "labelEn": "Paik's Coffee",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55730575",
+    "https://ko.wikipedia.org/wiki/%EB%B9%BD%EB%8B%A4%EB%B0%A9",
+    "https://en.wikipedia.org/wiki/Paik%27s_Coffee"
+   ]
+  },
+  {
+   "slug": "jyp",
+   "name": "JYP엔터테인먼트",
+   "qid": "Q483238",
+   "officialWebsite": "https://www.jype.com/",
+   "labelKo": "JYP 엔터테인먼트",
+   "labelEn": "JYP Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483238",
+    "https://ko.wikipedia.org/wiki/JYP_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/JYP_Entertainment"
+   ]
+  },
+  {
+   "slug": "etude",
+   "name": "에뛰드",
+   "qid": "Q16174973",
+   "officialWebsite": "https://www.etudehouse.com/",
+   "labelKo": "에뛰드",
+   "labelEn": "Etude House",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16174973",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%9B%B0%EB%93%9C%ED%95%98%EC%9A%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Etude_House"
+   ]
+  },
+  {
+   "slug": "viva-republica",
+   "name": "토스",
+   "qid": "Q61090825",
+   "officialWebsite": "https://toss.im/",
+   "labelKo": "토스",
+   "labelEn": "Toss",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q61090825",
+    "https://ko.wikipedia.org/wiki/Toss"
+   ]
+  },
+  {
+   "slug": "isaac-toast",
+   "name": "이삭토스트",
+   "qid": "Q25939030",
+   "officialWebsite": "https://www.isaac-toast.co.kr",
+   "labelKo": "이삭토스트",
+   "labelEn": "Isaac Toast",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q25939030",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%AD%ED%86%A0%EC%8A%A4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Isaac_Toast"
+   ]
+  },
+  {
+   "slug": "hansot",
+   "name": "한솥도시락",
+   "qid": "Q12624133",
+   "officialWebsite": "https://www.hsd.co.kr",
+   "labelKo": "한솥도시락",
+   "labelEn": "Hansot",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12624133",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%86%A5%EB%8F%84%EC%8B%9C%EB%9D%BD"
+   ]
+  },
+  {
+   "slug": "cheongnyeon-dabang",
+   "name": "청년다방",
+   "qid": "Q131417179",
+   "officialWebsite": "https://www.youngdabang.com",
+   "labelKo": "청년다방",
+   "labelEn": "Youngdabang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131417179"
+   ]
+  },
+  {
+   "slug": "theborn-korea",
+   "name": "더본코리아",
+   "qid": "Q130223345",
+   "officialWebsite": "https://www.theborn.co.kr",
+   "labelKo": "더본코리아",
+   "labelEn": "Theborn Korea",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q130223345",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%B3%B8%EC%BD%94%EB%A6%AC%EC%95%84"
+   ]
+  },
+  {
+   "slug": "hanmi-semiconductor",
+   "name": "한미반도체",
+   "qid": "Q131188043",
+   "officialWebsite": "https://www.hanmisemi.com",
+   "labelKo": "한미반도체",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188043",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%AF%B8%EB%B0%98%EB%8F%84%EC%B2%B4",
+    "https://en.wikipedia.org/wiki/Hanmi_Semiconductor"
+   ]
+  },
+  {
+   "slug": "soulbrain",
+   "name": "솔브레인",
+   "qid": "Q131188065",
+   "officialWebsite": "https://www.soulbrain.co.kr",
+   "labelKo": "솔브레인",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188065",
+    "https://ko.wikipedia.org/wiki/%EC%86%94%EB%B8%8C%EB%A0%88%EC%9D%B8"
+   ]
+  },
+  {
+   "slug": "koh-young",
+   "name": "고영테크놀러지",
+   "qid": "Q19598726",
+   "officialWebsite": "https://www.kohyoung.com",
+   "labelKo": "고영테크놀러지",
+   "labelEn": "Koh Young Technology (South Korea)",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q19598726",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%98%81%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80"
+   ]
+  },
+  {
+   "slug": "park-systems",
+   "name": "파크시스템스",
+   "qid": "Q7138070",
+   "officialWebsite": "https://www.parksystems.com",
+   "labelKo": "파크시스템스",
+   "labelEn": "Park Systems Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7138070",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Park_Systems"
+   ]
+  },
+  {
+   "slug": "jusung-engineering",
+   "name": "주성엔지니어링",
+   "qid": "Q131188711",
+   "officialWebsite": "https://www.jusung.com",
+   "labelKo": "주성엔지니어링",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188711",
+    "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%84%B1%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81"
+   ]
+  },
+  {
+   "slug": "dentium",
+   "name": "덴티움",
+   "qid": "Q131187954",
+   "officialWebsite": "https://www.dentium.co.kr",
+   "labelKo": "덴티움",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131187954",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B4%ED%8B%B0%EC%9B%80"
+   ]
+  },
+  {
+   "slug": "vatech",
+   "name": "바텍",
+   "qid": "Q106411851",
+   "officialWebsite": "https://www.vatech.com",
+   "labelKo": null,
+   "labelEn": "Vatech (South Korea)",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q106411851"
+   ]
+  },
+  {
+   "slug": "sungsimdang",
+   "name": "성심당",
+   "qid": "Q22974149",
+   "officialWebsite": "https://www.sungsimdang.co.kr",
+   "labelKo": "성심당",
+   "labelEn": "Sungsimdang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q22974149",
+    "https://ko.wikipedia.org/wiki/%EC%84%B1%EC%8B%AC%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Sungsimdang"
+   ]
+  },
+  {
+   "slug": "dong-wha-pharm",
+   "name": "동화약품",
+   "qid": "Q12593630",
+   "officialWebsite": "https://www.dong-wha.co.kr",
+   "labelKo": "동화약품",
+   "labelEn": "Dong Wha Pharm",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12593630",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%99%94%EC%95%BD%ED%92%88"
+   ]
+  },
+  {
+   "slug": "osulloc",
+   "name": "오설록",
+   "qid": "Q16098850",
+   "officialWebsite": "https://www.osulloc.com",
+   "labelKo": "오설록",
+   "labelEn": "O'Sulloc Tea",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16098850",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%84%A4%EB%A1%9D",
+    "https://en.wikipedia.org/wiki/O%27Sulloc_Tea"
+   ]
+  },
+  {
+   "slug": "samhwa-paints",
+   "name": "삼화페인트",
+   "qid": "Q131188619",
+   "officialWebsite": "https://www.samhwa.com",
+   "labelKo": "삼화페인트",
+   "labelEn": "Samhwa",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131188619",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%8A%A4%ED%94%BC%EC%82%BC%ED%99%94"
+   ]
+  },
+  {
+   "slug": "seoul-milk",
+   "name": "서울우유",
+   "qid": "Q626144",
+   "officialWebsite": "https://www.seoulmilk.co.kr",
+   "labelKo": "서울우유협동조합",
+   "labelEn": "Seoul Milk",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q626144",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9",
+    "https://en.wikipedia.org/wiki/Seoul_Milk"
+   ]
+  },
+  {
+   "slug": "lock-n-lock",
+   "name": "락앤락",
+   "qid": "Q5646759",
+   "officialWebsite": "https://www.locknlock.com",
+   "labelKo": "락앤락",
+   "labelEn": "Lock & Lock",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5646759",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BD%EC%95%A4%EB%9D%BD",
+    "https://en.wikipedia.org/wiki/Lock_%26_Lock"
+   ]
+  },
+  {
+   "slug": "jobis-villains",
+   "name": "자비스앤빌런즈",
+   "qid": "Q131187935",
+   "officialWebsite": "https://jobisnvillains.com",
+   "labelKo": "자비스앤빌런즈",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131187935",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B9%84%EC%8A%A4%EC%95%A4%EB%B9%8C%EB%9F%B0%EC%A6%88"
+   ]
+  }
+ ]
+}

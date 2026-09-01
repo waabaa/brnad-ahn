@@ -31,3 +31,13 @@ scripts_py/logos_site_candidates/
 scripts_py/logos_site_render/
 scripts_py/verify_report.json
 web-design/brand_atlas_handoff/scratchpad/
+
+# 데이터 백업본(11MB급)은 저장소에도 배포본에도 두지 않는다.
+*.bak-*
+# 다만 아래 두 리포트는 산출물이 아니라 근거 자료다.
+#  - page-dates.json: dateModified 원장. 유실되면 발행일이 재시딩된다.
+#  - wikidata-entity-links.json: sameAs 채택/기각 근거.
+!web-design/brand_atlas_handoff/reports/
+web-design/brand_atlas_handoff/reports/*
+!web-design/brand_atlas_handoff/reports/page-dates.json
+!web-design/brand_atlas_handoff/reports/wikidata-entity-links.json

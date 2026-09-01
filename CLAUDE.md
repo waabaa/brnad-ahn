@@ -57,8 +57,8 @@
 ## 3. 빌드·배포
 
 ```bash
-node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin 판정
-node scripts/build-seo-extras.mjs      # 허브·카테고리·국가·sitemap·RSS
+node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin 판정 + 신선도 원장
+node scripts/build-seo-extras.mjs      # 허브·카테고리·국가·sitemap·RSS·robots·llms.txt
 ```
 
 **순서 고정.** 앞이 `reports/thin-pages.json`(noindex 판정)을 쓰고 뒤가 그걸 읽어
@@ -68,12 +68,33 @@ sitemap에서 제외한다. 순서를 바꾸면 noindex 페이지가 sitemap에 
 lastmod가 파일 mtime에서 나오므로, 매번 전량을 덮어쓰면 바뀐 게 없는데도 "전부 갱신됨"
 신호를 보내게 되고 크롤러는 그 lastmod를 신뢰하지 않게 된다. 이 동작을 없애지 말 것.
 
+### 신선도 원장 (`reports/page-dates.json`)
+
+`dateModified`는 이 원장에서 나온다. 빌더가 렌더 본문의 해시를 원장과 비교해 **실제로 바뀐
+페이지만** 오늘 날짜로 갱신한다. 매 빌드 오늘 날짜를 찍으면 sitemap `lastmod`와 마찬가지로
+거짓 신선도 신호가 되고, 크롤러는 그 값을 신뢰하지 않게 된다.
+
+원장이 없으면 배포본(`brand/<slug>.html`)에서 본문만 떼어내 해시해 스스로 복구하므로 유실돼도
+전량이 "오늘 갱신"으로 튀지 않는다. **이 자기복구 경로를 없애지 말 것.** `published`는 파일
+mtime으로 시딩된다.
+
+### 엔티티 연결 (`sameAs`)
+
+`scripts/enrich-wikidata-entity-links.mjs`가 Wikidata **P856(공식 웹사이트) URL 완전 일치**로만
+개체를 확정해 `brand.entityLinks`에 기록한다. **이름 유사도 매칭을 도입하지 말 것** — 초기 구현이
+`intel.com`에서 "Flea"를, `ralphlauren.com`에서 창업자(사람)를 골랐다. 채택 조건은 ① 한 QID가 한
+브랜드에만 대응 ② `P31/P279*`로 조직·브랜드 개체 확인 ③ 레이블이 브랜드명과 일치. 셋을 통과해
+하나로 좁혀지지 않으면 아무것도 쓰지 않는다. 채택·기각 근거는 `reports/wikidata-entity-links.json`.
+
+잘못된 `sameAs`는 검색엔진에 "이 페이지는 다른 회사를 설명한다"고 선언하는 것과 같다.
+커버리지보다 정확도가 우선이다(§2와 같은 원칙).
+
 배포 전 **검증 4종을 모두 통과**해야 한다:
 
 ```bash
 node scripts/verify-crawl-graph.mjs      # 정적 링크 도달성·깊이·끊긴 링크
 node scripts/qa-seo.mjs                  # sitemap↔파일, JSON-LD, canonical, noindex
-node scripts/audit-seo.mjs               # 수용기준 13항목
+node scripts/audit-seo.mjs               # 수용기준 20항목 (A~D + GEO G2~G8)
 node scripts/verify-redirects.mjs --all  # 301 전건
 ```
 
@@ -96,6 +117,10 @@ node scripts/verify-redirects.mjs --all  # 301 전건
 **301 map은 항상 기존 항목에 더한다.** 회차별 plan으로 덮어쓰면 지난 이전분의
 리다이렉트가 통째로 사라진다(실제로 519건이 1건으로 줄어 git에서 복구했다).
 
+**정규 호스트는 apex다.** `www`는 301로 apex에 보낸다(`deploy/apply-canonical-host.sh`, 멱등).
+443 `server_name`에 apex와 www를 같이 두면 두 호스트가 같은 바이트를 200으로 돌려주고, canonical
+순응도가 낮은 네이버에서 색인이 갈린다. 80번 블록에는 ACME 갱신을 위해 www를 남겨 둔다.
+
 nginx 주의사항:
 - 설정 백업은 `sites-enabled` **밖**에 둔다. 그 안에 두면 백업까지 설정으로 로드된다.
 - `map_hash_bucket_size`는 `conf.d/00-map-hash-bucket.conf`에 있다. nginx는 첫 `map`
@@ -105,6 +130,7 @@ nginx 주의사항:
 
 ## 5. 현황·계획
 
-- 계획서: `.omc/plans/brand-atlas-search-visibility-2026-08.md`
+- 계획서: `.omc/plans/brand-atlas-geo-visibility-2026-09.md`(GEO·잔여 결함),
+  `.omc/plans/brand-atlas-search-visibility-2026-08.md`(크롤 그래프·키워드 정렬)
 - 색인 추적: `.omc/state/seo-index-log.json` (`scripts/track-index.mjs`)
 - 변경 이력: `CHANGELOG.md`

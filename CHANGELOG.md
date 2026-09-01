@@ -1,5 +1,56 @@
 # 브랜드 아틀라스 — 변경 이력
 
+## 2026-09-01 — GEO(AI 검색) 대응 + 잔여 기술 결함 교정
+
+2026-08-15 Phase A~E로 수용기준 13항목이 전부 통과한 뒤 재감사해 남은 손실 10건을 교정했다.
+계획서: `.omc/plans/brand-atlas-geo-visibility-2026-09.md`
+
+### 호스트·색인
+- **`www` → apex 301** — 두 호스트가 같은 바이트를 200으로 돌려주고 있었다(canonical만 apex 지정).
+  443 server_name에서 www를 분리하고 전용 301 블록을 뒀다(`deploy/patch-nginx-canonical-host.py`, 멱등·자체 원복).
+- **JS 껍데기 3종 `noindex,follow`** — `brand-artemio.html`(3.3KB)은 **전 1,449 브랜드 페이지의 nav에서
+  링크**되어 사이트 내부링크 최다 대상이 빈 페이지였다. nav에서 제거하고, BI/CI·검색 페이지의 JS 목록
+  링크도 `?brand=` SPA 대신 정적 `/brand/<slug>.html`로 돌렸다. 껍데기로 가는 내부링크 1,449 → 0.
+- **데이터 백업본 공개 차단** — `data/*.bak-*`(11MB×2)이 200으로 서빙되고 있었다. nginx 404 +
+  배포 스크립트 제외·서버 정리 + `.gitignore`. 저장소에서도 추적 해제.
+
+### 신선도 (AI 인용의 전제)
+- `dateModified`/`datePublished`가 **0건**이었다. 최신성은 AI 인용의 1차 조건인데 판단 근거 자체가 없었다.
+- **본문 해시 원장**(`reports/page-dates.json`) 도입 — 렌더 본문이 실제로 바뀐 페이지만 `dateModified`를
+  갱신한다. 매 빌드 오늘 날짜를 찍으면 거짓 신선도 신호가 되므로(`writeIfChanged`와 같은 이유),
+  원장이 없거나 유실돼도 배포본 본문 해시로 스스로 복구한다.
+- `Article` JSON-LD(발행/수정일·발행 주체) 1,449건, 가시 "최종 업데이트" 표기 1,449건.
+- sitemap `lastmod`를 원장의 `modified`와 같은 값으로 일치시켰다.
+
+### 엔티티 연결 (sameAs)
+- Wikidata **P856(공식 웹사이트) URL 완전 일치**로만 개체를 확정해 **408건**에 `sameAs`
+  (Wikidata + 한국어/영어 위키백과) 부착. ko위키 272, en위키 330.
+- 이름 유사도 매칭은 쓰지 않는다. 채택 조건은 ① 한 QID가 한 브랜드에만 대응 ② `P31/P279*`로
+  조직·브랜드 개체 확인 ③ 레이블이 브랜드명과 일치. 하나로 좁혀지지 않으면 **아무것도 쓰지 않는다**.
+  실제로 초기 구현은 `intel.com`에서 "Flea"를, `ralphlauren.com`에서 창업자(사람)를 골랐다.
+  기각 42건의 사유는 `reports/wikidata-entity-links.json`에 남는다.
+
+### 크롤 그래프·콘텐츠 품질
+- **가시 breadcrumb을 링크로** — 종전 `<p>홈 > 브랜드 매거진 > X</p>`는 링크가 아니었고 JSON-LD의
+  BreadcrumbList와 표기도 달랐다. 3단 링크 `<nav>`로 바꾸고 2단을 실제 산업 카테고리 허브
+  (`/category/<slug>.html`)로 보냈다 — 브랜드 페이지 1,449개에서 12개 허브로 가는 상향 링크가 새로 생겼다.
+- **타임라인 스크랩 잔재 정리** — 같은 문단이 여러 연도에 복제된 레코드(897개 연표 중 426개) 중복 제거,
+  문장 중간에서 끊기던 하드 절단을 문장·어절 경계 절단으로 교체.
+- **BI/CI 캡션·alt 변별** — 한 페이지의 이미지 5개가 모두 같은 alt였다(82페이지). 중복 캡션에만 순번 부여.
+- `bilingualName` 이중 병기 버그(`토스(TOUS)(TOUS)`) 수정 — SPA·SSG 양쪽.
+
+### AI 크롤러·이미지
+- `robots.txt` — Yeti·Googlebot + AI 크롤러 10종(GPTBot·OAI-SearchBot·ClaudeBot·PerplexityBot 등) 명시
+  허용, sitemap 4건 등재. 구글은 AI 전용 파일이 순위에 영향이 없다고 명시했으므로 순위 목적이 아니라
+  보수적으로 판단하는 크롤러의 접근을 확실히 열어두기 위한 것이다.
+- `llms.txt` 신규 — 허브 28건 + 주요 브랜드 60건. 수치는 전부 실제 집계값이다.
+- **이미지 sitemap** — 이미지 검색이 실유입원인데 sitemap에 이미지가 0건이었다. 자사 도메인 이미지만
+  1,413건 등재(외부 호스트 이미지는 소유 확인이 안 되므로 제외).
+
+### 수용기준
+`scripts/audit-seo.mjs`에 AC-G2~G8을 추가해 **20/20 PASS**. 검증 4종(crawl-graph·qa-seo·audit-seo·
+redirects 755건) 전부 통과 후 배포.
+
 ## 2026-08-15 — 검색 노출 재건 (Phase A/B/C/E + 신선도 엔진)
 
 네이버 색인이 473/1,452(32.6%), 30일 노출 1,400·클릭 26에 머문 원인을 실측 진단하고 교정.

@@ -24,6 +24,10 @@ const pick = (h, re) => { const m = re.exec(h); return m ? unescapeHtml(m[1]) : 
 const titles = new Map(), descs = new Map(), canons = new Map();
 let koEnTitle = 0, magazineTitle = 0, titleOver = 0;
 let h1KoEn = 0, faqPages = 0, noindex = 0, emptyNote = 0;
+// 2026-09 GEO 감사 지표
+let withDateModified = 0, withSameAs = 0, withUpdatedLine = 0;
+let crumbLinked = 0, crumbToCategory = 0, crumbMismatch = 0;
+let dupAltPages = 0, artemioLinked = 0, staleEllipsis = 0;
 const bodyLens = [], titleLens = [], descLens = [];
 
 for (const f of files) {
@@ -44,6 +48,32 @@ for (const f of files) {
   if (h.includes('"@type":"FAQPage"')) faqPages++;
   if (/name="robots" content="noindex/.test(h)) noindex++;
   if (h.includes("empty-note")) emptyNote++;
+
+  // 신선도·엔티티
+  if (/"dateModified":"\d{4}-\d{2}-\d{2}"/.test(h)) withDateModified++;
+  if (/"sameAs":\[/.test(h)) withSameAs++;
+  if (/<p class="page-updated">최종 업데이트 <time datetime="\d{4}-\d{2}-\d{2}"/.test(h)) withUpdatedLine++;
+
+  // 가시 breadcrumb ↔ JSON-LD BreadcrumbList 일치
+  const crumbs = /<nav class="crumbs"[^>]*>([\s\S]*?)<\/nav>/.exec(h);
+  if (crumbs) {
+    const hrefs = [...crumbs[1].matchAll(/href="([^"]+)"/g)].map(m => m[1]);
+    if (hrefs.length === 2) crumbLinked++;
+    const cat = hrefs.find(x => x.includes("/category/"));
+    if (cat) crumbToCategory++;
+    const ld = /"@type":"ListItem","position":2,"name":"([^"]*)","item":"([^"]*)"/.exec(h);
+    const visibleSecond = /<a href="[^"]*category\/[^"]*">([^<]*)<\/a>/.exec(crumbs[1]);
+    if (!ld || !visibleSecond || unescapeHtml(visibleSecond[1]) !== unescapeHtml(ld[1]) || !ld[2].includes("/category/")) crumbMismatch++;
+  } else {
+    crumbMismatch++;
+  }
+
+  // 한 페이지 안에서 같은 alt가 반복되면 이미지 검색에서 서로 구분되지 않는다.
+  const alts = [...h.matchAll(/<img [^>]*alt="([^"]*)"/g)].map(m => m[1]).filter(Boolean);
+  if (alts.length !== new Set(alts).size) dupAltPages++;
+
+  if (h.includes("pages/brand-artemio.html")) artemioLinked++;
+  if (/<article class="timeline-node">[\s\S]*?\.\.\.<\/span>/.test(h)) staleEllipsis++;
 
   const m = /<section class="mag-grid">([\s\S]*?)<\/section>\s*<\/div><footer/.exec(h);
   let body = m ? m[1] : "";
@@ -66,7 +96,7 @@ const staticBrandLinks = (rel) => {
   return set.size;
 };
 
-let sitemapLocs = 0, sitemapFiles = 0, lastmods = new Set();
+let sitemapLocs = 0, sitemapFiles = 0, sitemapImages = 0, lastmods = new Set();
 const smIndex = path.join(ROOT, "sitemap.xml");
 if (fs.existsSync(smIndex)) {
   const s = fs.readFileSync(smIndex, "utf8");
@@ -77,6 +107,7 @@ if (fs.existsSync(smIndex)) {
     if (!fs.existsSync(p3)) continue;
     const x = fs.readFileSync(p3, "utf8");
     sitemapLocs += (x.match(/<loc>/g) || []).length;
+    sitemapImages += (x.match(/<image:loc>/g) || []).length;
     for (const m of x.matchAll(/<lastmod>([^<]+)<\/lastmod>/g)) lastmods.add(m[1]);
   }
   if (!children.length) {
@@ -124,7 +155,25 @@ const report = {
     insightsBytes: fs.existsSync(path.join(ROOT, "pages/insights.html"))
       ? fs.statSync(path.join(ROOT, "pages/insights.html")).size : 0,
   },
-  sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, distinctLastmod: lastmods.size },
+  geo: {
+    dateModified: withDateModified,
+    visibleUpdatedLine: withUpdatedLine,
+    sameAs: withSameAs,
+    breadcrumbLinked: crumbLinked,
+    breadcrumbToCategory: crumbToCategory,
+    breadcrumbMismatch: crumbMismatch,
+    duplicateAltPages: dupAltPages,
+    pagesLinkingSpaShell: artemioLinked,
+    timelineHardTruncation: staleEllipsis,
+    llmsTxt: fs.existsSync(path.join(ROOT, "llms.txt")),
+    robotsAiAgents: (() => {
+      try { return (fs.readFileSync(path.join(ROOT, "robots.txt"), "utf8").match(/^User-agent: (?!\*)/gm) || []).length; }
+      catch { return 0; }
+    })(),
+    shellsNoindex: ["pages/brand-artemio.html", "pages/mobile.html", "pages/other-pages.html"]
+      .filter(f => { try { return /content="noindex/.test(fs.readFileSync(path.join(ROOT, f), "utf8")); } catch { return false; } }).length,
+  },
+  sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, distinctLastmod: lastmods.size, imageEntries: sitemapImages },
   rssItems: fs.existsSync(path.join(ROOT, "rss.xml"))
     ? (fs.readFileSync(path.join(ROOT, "rss.xml"), "utf8").match(/<item>/g) || []).length : 0,
 };
@@ -147,6 +196,13 @@ if (asJson) {
     ["AC-C1 empty-note == 0", report.emptyNotePages === 0],
     ["AC-D1 rss >= 100", report.rssItems >= 100],
     ["canonical 중복 = 의도된 통합분만", report.canonicalMerged <= 2],
+    ["AC-G2 dateModified == 전 브랜드 페이지", report.geo.dateModified === files.length && report.geo.visibleUpdatedLine === files.length],
+    ["AC-G3 sameAs > 300 (Wikidata 검증분)", report.geo.sameAs >= 300],
+    ["AC-G4 껍데기 3종 noindex + 내부링크 0", report.geo.shellsNoindex === 3 && report.geo.pagesLinkingSpaShell === 0],
+    ["AC-G5 breadcrumb 가시↔JSON-LD 일치", report.geo.breadcrumbMismatch === 0 && report.geo.breadcrumbToCategory === files.length],
+    ["AC-G6 타임라인 하드 절단 0", report.geo.timelineHardTruncation === 0],
+    ["AC-G7 페이지 내 중복 alt 0", report.geo.duplicateAltPages === 0],
+    ["AC-G8 llms.txt + AI 크롤러 명시 + 이미지 sitemap", report.geo.llmsTxt && report.geo.robotsAiAgents >= 10 && report.sitemap.imageEntries > 1000],
   ];
   console.log("\n=== 수용기준 ===");
   for (const [name, ok] of ac) console.log(`${ok ? "PASS" : "FAIL"}  ${name}`);

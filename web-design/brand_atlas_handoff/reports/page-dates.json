@@ -1,0 +1,7250 @@
+{
+ "version": 1,
+ "pages": {
+  "bang-and-olufsen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2f492586c1ef9894"
+  },
+  "apple": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c95c2871595601fd"
+  },
+  "uniqlo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3916f77ff51d037e"
+  },
+  "harley-davidson": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f5b499b98865e10c"
+  },
+  "the-body-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f2c397cd6ba046db"
+  },
+  "lush": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "43849a1f86af46df"
+  },
+  "nike": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2908d6f0227d911c"
+  },
+  "mcdonald-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "73349e320d23fdaa"
+  },
+  "starbucks": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb628a6f90bb5bce"
+  },
+  "absolut": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7cbc2f5b50c49b2d"
+  },
+  "coca-cola": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4d0ee1b959208ffc"
+  },
+  "louis-vuitton": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7d745a79dab87007"
+  },
+  "montblanc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "75b99d8b299c0f8c"
+  },
+  "victoria-s-secret": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ba327822d36599eb"
+  },
+  "swatch": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "04da30b7b71b2446"
+  },
+  "herm-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ca7e129cf8c444c5"
+  },
+  "coach": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "395be2efe7e0aae2"
+  },
+  "tiffany-and-co": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f906ab8867c21d96"
+  },
+  "prada": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78fe9a9484a8a0db"
+  },
+  "mini": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "335afdc2c13676f4"
+  },
+  "cisco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c8ebadaf846ace25"
+  },
+  "olympus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c7773a2389da7529"
+  },
+  "intel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8f3d54e11bcfb528"
+  },
+  "xerox": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6638605c9b10e8f6"
+  },
+  "fedex": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6b6a016df9fe9da7"
+  },
+  "philips": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "69090cb1ee5a2f9d"
+  },
+  "amazon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9937dbe7eb1d444f"
+  },
+  "bavarian-motor-works-bayerische-motoren-werke": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e46bfd7f47959e1a"
+  },
+  "ducati": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "abe5dd9e67df4194"
+  },
+  "volvo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6027a16563760793"
+  },
+  "audi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fee20760aede2ea4"
+  },
+  "dove": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4eff3aef34faf598"
+  },
+  "benefit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "656ab488b6774e55"
+  },
+  "new-balance": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9dbafcbd0bd3b6bd"
+  },
+  "reebok": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "34fb24c6f7628e1a"
+  },
+  "marlboro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ab817862e9bb8604"
+  },
+  "adidas": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f03b16a869053b09"
+  },
+  "patagonia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0bfd6328d6e0be74"
+  },
+  "puma": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3ab02704e4bf20a2"
+  },
+  "kentucky-fried-chicken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9e68145fc300fcef"
+  },
+  "nestl": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "17fedb1012ebab8c"
+  },
+  "burger-king": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0c1bbf74b907ed1f"
+  },
+  "budweiser": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7da9a5219ab41124"
+  },
+  "kellogg-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7ff6796e44ec259f"
+  },
+  "pepsi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c9ef417ab33f0384"
+  },
+  "heinz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ff5e59ff6ac1253b"
+  },
+  "toms": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d442d80691b9929a"
+  },
+  "dkny": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fa6e27d36d5c9375"
+  },
+  "h-and-m": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "47aa58268ee424b2"
+  },
+  "gucci": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "82fd8da4118f2aae"
+  },
+  "cartier": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f3df28534570a8ed"
+  },
+  "nudie-jeans": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f0a3996470d7db49"
+  },
+  "diesel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3fd1458066af3148"
+  },
+  "ralph-lauren": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5960ffc12f3d79c9"
+  },
+  "rolex": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3ae93b5b1a19a688"
+  },
+  "levi-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7911a56c90806de1"
+  },
+  "burberry": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a97992c97438c08"
+  },
+  "vivienne-westwood": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b4699c7156bb2ea7"
+  },
+  "yves-saint-laurent": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a03973d506d939e7"
+  },
+  "chanel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "98f0dc391fc7e840"
+  },
+  "ugg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c8580ba307567e9f"
+  },
+  "omega": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "abc4b79a42200dc2"
+  },
+  "zara": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b917ff74cfa37e72"
+  },
+  "giorgio-armani": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66b921861380eefa"
+  },
+  "dior": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8c64f130a1aacf06"
+  },
+  "ferrari": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0c052708a971f677"
+  },
+  "paul-smith": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "74d0da8f6a389906"
+  },
+  "nivea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d223ca1414270e59"
+  },
+  "aspirin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4f311cb1103de89d"
+  },
+  "camper": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5a75f626b92ac275"
+  },
+  "bic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d9ddd15ec1cdc1ba"
+  },
+  "alessi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "47f99b46c19a79a3"
+  },
+  "oxo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d854ba9bce59f065"
+  },
+  "siemens": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4a0792f90e8c1730"
+  },
+  "lipton": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "30153eba70149d21"
+  },
+  "stokke": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e5e42bc14ef984a5"
+  },
+  "yankee-candle": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a5d9f6b01bb3ac84"
+  },
+  "mercedes-benz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "51baed425ca474cc"
+  },
+  "bridgestone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5984a6ff322ac236"
+  },
+  "saab": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28d31c62eb8f53f4"
+  },
+  "cadillac": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "11236cb45072ab9e"
+  },
+  "pizza-hut": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e218da3d2127573b"
+  },
+  "la-mer": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c3523ad5e50c515f"
+  },
+  "lanc-me": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "94be8401a1ffbd74"
+  },
+  "l-occitane": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d7da3b6390cf5ea6"
+  },
+  "bobbi-brown": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "da1b57d2b476aafa"
+  },
+  "vaseline": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5e426354b380134d"
+  },
+  "santa-maria-novella": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7385b160456494a9"
+  },
+  "shiseido": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b9234d70d31cfe41"
+  },
+  "est-e-lauder": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "026261fb754dbd20"
+  },
+  "origins": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6bbb5b878242f81d"
+  },
+  "wella": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "086ecc0e807a7c14"
+  },
+  "henkel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bc2951ae3935e013"
+  },
+  "best-global-brands": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c867dffc8304c393"
+  },
+  "k2": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f79557db9eafebe4"
+  },
+  "the-north-face": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c7024fe2eab460a3"
+  },
+  "montbell": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e4e165c6d6586f32"
+  },
+  "arc-teryx": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8bc98ddebb208691"
+  },
+  "gillette": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6fc9ff15e13e5bee"
+  },
+  "godiva": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4a85bbb8c8016a1b"
+  },
+  "glenfiddich": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "25856bd358a57215"
+  },
+  "nescafe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "18c164c74934a2e0"
+  },
+  "domino-s-pizza": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "de775f431239f6d5"
+  },
+  "dom-p-rignon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b11123a9d546230b"
+  },
+  "red-bull": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0929c48e5000ca65"
+  },
+  "moet-and-chandon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6373401fcf9cef8b"
+  },
+  "bacard": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8da0de20d533d002"
+  },
+  "subway": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "43137d91117caf64"
+  },
+  "corona-extra": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1c2295b4720f47a1"
+  },
+  "club-med": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4ff2a0dc503ca0ba"
+  },
+  "portmeirion": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "847bd2437dae9cec"
+  },
+  "paul-bassett": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3e6f8d35c4355a73"
+  },
+  "heineken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f7813d209abc356e"
+  },
+  "rimowa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "721ec83e108362b7"
+  },
+  "international-watch-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "67bc57c181a5f564"
+  },
+  "gap": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9511b85d920db9b8"
+  },
+  "dolce-and-gabbana": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f4a3bf6f1a51758a"
+  },
+  "de-beers": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "63234b00a2e6db8a"
+  },
+  "marc-jacobs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "18a6f29c714bbb0f"
+  },
+  "maxmara": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ec989aa03ccda7cd"
+  },
+  "moncler": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7a95ecb4840fce66"
+  },
+  "van-cleef-and-arpels": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "02528aefcb139b4c"
+  },
+  "vera-wang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c9eef0324fd17844"
+  },
+  "bottega-veneta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ece122130e43dbfa"
+  },
+  "ferragamo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "86e8c7b9c48bdab0"
+  },
+  "swarovski": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0948158c2366c272"
+  },
+  "zegna": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00e29c53887dd56d"
+  },
+  "givenchy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a698b20a21549880"
+  },
+  "g-shock": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8a580f7a9cad2900"
+  },
+  "tag-heuer": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8f3149a030bf838"
+  },
+  "tory-burch": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5756bf19c705c35b"
+  },
+  "tumi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "05ab5ec9cb2e4821"
+  },
+  "fendi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2aa84e0f62117569"
+  },
+  "hugo-boss": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ac10f6d5e2b6f2a5"
+  },
+  "kiehl-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a5c51924b67cfb6e"
+  },
+  "le-creuset": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "55a69016635b415d"
+  },
+  "tupperware": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "102b160535d9416b"
+  },
+  "eldi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fd0a7b7eb7a468a7"
+  },
+  "elkj-p": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cfb04555836824da"
+  },
+  "escom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2002a5beecd64bed"
+  },
+  "it-s-electronics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f99612b2a86d56b9"
+  },
+  "libro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8bbbe72b4a3c692b"
+  },
+  "saturn": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d696bcfbbc88e849"
+  },
+  "unieuro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d84d94d06daa585b"
+  },
+  "verizon-wireless": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "22efa9bbaa0f8e54"
+  },
+  "yodobashi-camera": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4ffcecbfa3268a59"
+  },
+  "a-and-p": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6c7985a1b2bd6f26"
+  },
+  "a-s-adventure": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7bd717367c3de516"
+  },
+  "archambault": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e0a26f85e73f491f"
+  },
+  "bcc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c0902034673e19bd"
+  },
+  "belcompany": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d3793fdbd2f59f77"
+  },
+  "biltema": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "31a253a43a382329"
+  },
+  "boerenbond": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0243d1ded618c47a"
+  },
+  "botanic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d2357356c114a916"
+  },
+  "claire-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae509d5ae9bc840a"
+  },
+  "deserres": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "df84091eef5e3067"
+  },
+  "dixons": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ad64bdb10f775c8"
+  },
+  "dollarama": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3c43114ee31aadd9"
+  },
+  "euronics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f96a7c47946bb51"
+  },
+  "euronics-deutschland": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f2306291377394b2"
+  },
+  "extra": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a039be586443e766"
+  },
+  "fedex-office": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "81747a1dede63468"
+  },
+  "franprix": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e628ecfe1c1568a8"
+  },
+  "galeria-kaufhof": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6d1b4eb9e3f49ff8"
+  },
+  "gamestop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2774da01ac358edf"
+  },
+  "hema": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "94bdb3bfe482096f"
+  },
+  "iceland": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a975f7ba734f17be"
+  },
+  "intersport": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5b56391c43e8c4ef"
+  },
+  "kijkshop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "82e98ec2a70497a4"
+  },
+  "leader-price": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "65015a63a884f235"
+  },
+  "les-ailes-de-la-mode": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a5a73ad3e19546c6"
+  },
+  "livraria-bertrand": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9b26c657480d0a8e"
+  },
+  "louis-motorcycle": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e7547bdd0a53db78"
+  },
+  "ludwig-g-rtz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b84aaf8789a4016c"
+  },
+  "match": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7937ccc274e9fc73"
+  },
+  "mercator": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c59b91da68706ee"
+  },
+  "new-yorker": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "51a9dc560118ca37"
+  },
+  "noz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c217697012ef827b"
+  },
+  "office-1-superstore": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7fe69c6cbec585c9"
+  },
+  "panduro-hobby": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cb9fa7f29d189bf8"
+  },
+  "perekryostok": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "54644f74f9bd0906"
+  },
+  "pick-pay": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "912fff506e1fd710"
+  },
+  "praxis": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1f02cbfe92c99df"
+  },
+  "pressbyr-n": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00abc5043f3d66a0"
+  },
+  "pyaterochka": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bae0d88ba33ac640"
+  },
+  "rewe-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "47a73687594cb353"
+  },
+  "relay": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "20120082af9aa2d1"
+  },
+  "rite-aid": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "577dfa56186c8b94"
+  },
+  "rona": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d41d7aee548c47ad"
+  },
+  "schlecker": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e10d06a223ca446e"
+  },
+  "simply-market": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9272bd108f947657"
+  },
+  "sony-centre": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7061aec04255de7d"
+  },
+  "sport-chek": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "971c7a9c0b7c5fff"
+  },
+  "sportscheck": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae320f5151b97670"
+  },
+  "standaard-boekhandel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6c099d1399a7be0d"
+  },
+  "stop-and-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "115b04a61531be70"
+  },
+  "sunglass-hut": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c56d7be44b0887e"
+  },
+  "superbiomarkt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4d9908059e47f1a3"
+  },
+  "ten-thousand-villages": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "06a6d6214596212b"
+  },
+  "the-children-s-place": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e508d804816f4612"
+  },
+  "van-leest": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "295dc305dc5cb156"
+  },
+  "whsmith": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4c04456859141514"
+  },
+  "dm-drogerie-markt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9fcee9e1ceeb2a43"
+  },
+  "microsoft-store": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f61ea1157339de34"
+  },
+  "bed-bath-and-beyond": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "db2e6952e09693e5"
+  },
+  "best-buy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fbba150173290314"
+  },
+  "staples": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39a5bc16bf54188d"
+  },
+  "walmart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b4321d71b2272e5a"
+  },
+  "emart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d465636ca3f4999"
+  },
+  "intimissimi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "68faf12eecdf767d"
+  },
+  "champs-sports": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "97a1d8d46147ceae"
+  },
+  "pull-and-bear": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d73e0e102c2dc78a"
+  },
+  "euromaster": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5649d3240c83ea70"
+  },
+  "mpl": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1a67afe7a376b8a1"
+  },
+  "mothercare": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "da6a9bc8cf59380c"
+  },
+  "repco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "89934cf52c3e1d49"
+  },
+  "ryder": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d5cbfb11dc7e992b"
+  },
+  "carrefour": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "534e671324f115d6"
+  },
+  "0711": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "27c5ea75bff3ee7f"
+  },
+  "105music": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9ccfed2fd235947c"
+  },
+  "8bitpeoples": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a13f1fd34074b098"
+  },
+  "az": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a7b596c729861b71"
+  },
+  "armada": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0607cc9979e7c4d6"
+  },
+  "bros-music": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f1e52bbeb02dd364"
+  },
+  "century-media-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e6d3a1c926db8438"
+  },
+  "dsp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "260bfc23eb8e50e9"
+  },
+  "dial-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4c0d7c28fd729a20"
+  },
+  "distribution-select": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "341223a216e35970"
+  },
+  "emi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0c95ae3cdd2e0703"
+  },
+  "fmp-free-music-production": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c972b36449ffea30"
+  },
+  "morr-music": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4f6427403b43c1df"
+  },
+  "norcd": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d23c3aa930af4fe"
+  },
+  "pwm-edition": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "14762ca65f1ff35c"
+  },
+  "rbmg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28c14df1277db465"
+  },
+  "real-world-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "754a32b6cf155a7d"
+  },
+  "sm-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c2f3cbb227e66830"
+  },
+  "salted-music": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "90a7d3678783eb02"
+  },
+  "saregama": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "21d7377c56cb5ec3"
+  },
+  "ts": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c55e8e933ff429f"
+  },
+  "trisol-music-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2782b6940b9dba20"
+  },
+  "universal-edition": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "06c9c99a99cd8184"
+  },
+  "volcano-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2595beeeb776cd1c"
+  },
+  "x-ray-dog": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f4adf8ec9153513b"
+  },
+  "yg-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb4211f2ddaddbe4"
+  },
+  "zyx-music": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ad5226468a5f9e4e"
+  },
+  "zooland-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f926b83b8b7e633f"
+  },
+  "emusic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "caf10b01ffcec2b4"
+  },
+  "nuclear-blast": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a892ceb03b44c2ee"
+  },
+  "deutsche-grammophon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a9b7200c9d02979b"
+  },
+  "roadrunner-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b27613965805dcfb"
+  },
+  "stone-music-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12e7ef2628424dca"
+  },
+  "aftermath-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d8d8c2cc23bbf6f6"
+  },
+  "open-world-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "340217c7614005d4"
+  },
+  "woollim-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9b6db938871f605d"
+  },
+  "j-tune-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "623d4808bf77ef87"
+  },
+  "core-contents-media": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6baebb7852bfd846"
+  },
+  "cube-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e5cd5e279deb9bb7"
+  },
+  "pony-canyon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d2db687a4894a4b"
+  },
+  "pledis-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b4eb31bcdee46c04"
+  },
+  "kiko-milano": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "769126221eb75692"
+  },
+  "cabela-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1f9ce7215085745b"
+  },
+  "marathon-sports": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8e8e0319af91eba3"
+  },
+  "marskramer": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a51fc4d62927a3ac"
+  },
+  "2419-record-label": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "35a8ccd63808511d"
+  },
+  "5-minute-walk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d9f2533c08f30234"
+  },
+  "5-sec": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "67add59c08d28f7e"
+  },
+  "75-ark": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "caa3499d68620a11"
+  },
+  "77-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0d7793118ae3433f"
+  },
+  "abc-paramount": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a317cdb14e6dd023"
+  },
+  "acv-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b55f271db149bd72"
+  },
+  "afm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "41fb9757d745b189"
+  },
+  "ato-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9a47e2f859fd3a1e"
+  },
+  "ace-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6e9c5761c8c10cbf"
+  },
+  "adeline-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f24dff18a368b9f"
+  },
+  "aggressive-rockproduktionen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "44029e836a72942e"
+  },
+  "aladdin-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e43d4585a0fb9536"
+  },
+  "american-record-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "247f5cf43de86f5d"
+  },
+  "american-record-corporation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "da6263372487e1f2"
+  },
+  "amphetamine-reptile-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5b52dec907d00176"
+  },
+  "angelika-k-hlermann": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d013b21070a2fb3"
+  },
+  "anjunabeats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ec9c4d1d955a4062"
+  },
+  "arcade-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e2b8785c46e79915"
+  },
+  "bis-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "065eac7a0fce1b60"
+  },
+  "berlitz-corporation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5c51851fe7f60a17"
+  },
+  "beryozka": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5166051f54c60edd"
+  },
+  "beserkley-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "918d6fc043c0ece5"
+  },
+  "biodro-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0e2960c338469552"
+  },
+  "blood-and-fire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cdd28f93eb84c66c"
+  },
+  "blue-goose-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b1ae1586aa630cc0"
+  },
+  "blue-lake-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "882b0d9f98a7ba22"
+  },
+  "blues-bureau-international": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3a8b86987ce21b43"
+  },
+  "bonsound": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fb98f86d41292439"
+  },
+  "brain": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ed2a5920bd83425d"
+  },
+  "broque": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "462988159b005c3d"
+  },
+  "buddah-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7165a9ec551eda19"
+  },
+  "cap": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb51269f83598811"
+  },
+  "cti-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "458dd3457b843dee"
+  },
+  "castle-communications": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2a76afd515a49af6"
+  },
+  "checker": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dfbd2411b98d40c6"
+  },
+  "chesky-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae973f37365f7078"
+  },
+  "classic-produktion-osnabr-ck": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "589e2552a8462ee2"
+  },
+  "coconut-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d40e7d3c74850544"
+  },
+  "conglomerate": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0294970ce8373cf0"
+  },
+  "coop-norge-sa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5f1e7c860e632bf0"
+  },
+  "croatia-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "90e1f4ccfed35238"
+  },
+  "cyclone-empire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ce4cc3aa46f1440d"
+  },
+  "d-noy-muzik": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "58ac7caafa66e11e"
+  },
+  "djm-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "454798c9dcedfdeb"
+  },
+  "desoto-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c724583c811f5ec3"
+  },
+  "delicious-vinyl": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4e68a4c08844169e"
+  },
+  "discovery-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1b57594e1cb71ed"
+  },
+  "displeased-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3587a9490a5ba9d9"
+  },
+  "disques-vogue": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6e4f92b410249928"
+  },
+  "dorian-recordings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cbe85e593c4ab55c"
+  },
+  "douglas-holding": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6677dd73cdcf7ecc"
+  },
+  "earmarc-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d683d95d028cd6a8"
+  },
+  "eataly": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ef0b18cafa5e3c94"
+  },
+  "edel-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bdd77009fcd9dbab"
+  },
+  "electrola": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "104f5f41909e7c01"
+  },
+  "emergency-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b40661d5abf2bfea"
+  },
+  "enja-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "29701693fe192073"
+  },
+  "enzyme-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "93901be488ee4bca"
+  },
+  "equal-vision-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "48bd16faf91ffc6c"
+  },
+  "eye-q": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e9b0e84a8557dcb4"
+  },
+  "factory-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c342bbf8ef076d6"
+  },
+  "fitness-first": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b639e29f66cc7bdd"
+  },
+  "flip-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80f23824db5e6026"
+  },
+  "flyright-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c1cf6453c6e37142"
+  },
+  "futura-et-marge": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f6d07b3a0ae84403"
+  },
+  "fysisk-format": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "19161aa22a6495de"
+  },
+  "gnp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4996dd9eec3cd58c"
+  },
+  "global-underground": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1dbf75b4d7f74ade"
+  },
+  "greek-national-opera": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5f047e1138b1e9cb"
+  },
+  "grom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5ae708bd05e82a99"
+  },
+  "groove": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e358a988d740cb14"
+  },
+  "groove-unlimited": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0a1c995d36a8c3d5"
+  },
+  "hmc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3817a1b2700e4a7e"
+  },
+  "hall-of-sermon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb9ce89d273b0154"
+  },
+  "hannibal-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a7b7120d9cff8cb4"
+  },
+  "hansa-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1d284758de7870e0"
+  },
+  "heavenly-recordings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7b681b5de953f5a6"
+  },
+  "hipercor": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7b9ef206c4ae57cc"
+  },
+  "hippo-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d4f95bcad956cbe4"
+  },
+  "hirntot-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3b8f3de7d0adf1cc"
+  },
+  "holland-blumen-mark": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9ea816ecf0dd544c"
+  },
+  "innova-recordings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "65920bf737f6d507"
+  },
+  "intakt-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "55c0bd65270c60e6"
+  },
+  "international-deejay-gigolo-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d0f94f827d0fea9e"
+  },
+  "j": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4c90b7240694fc47"
+  },
+  "jtbc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9cd935b5b4fb1051"
+  },
+  "jusco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dfdf1bdb25f39847"
+  },
+  "jazzhaus-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fae685f7facd65f8"
+  },
+  "jubilee-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4781f1c95a230514"
+  },
+  "kitty-yo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4d7f8b66d54d9f1a"
+  },
+  "kompakt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ee8db37e271385e7"
+  },
+  "kopeyka": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "489cd92b37efbc25"
+  },
+  "kung-fu-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "930464beaddcb3fc"
+  },
+  "level-plane-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a134264185b90648"
+  },
+  "libris": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a49b47622cdb36a8"
+  },
+  "load-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "666421e950a4f956"
+  },
+  "lookout-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4f6bf85c8bf3b9d9"
+  },
+  "loud-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9998929eca4f15a1"
+  },
+  "mega-family-shopping-centre": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a938cc3a5508351e"
+  },
+  "mfs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "27a204bfbc7ca470"
+  },
+  "mps": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "90fa4469b098d249"
+  },
+  "maskulin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c0611fb3614c4e8e"
+  },
+  "megaforce-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "777830d5ef383e1d"
+  },
+  "mein-real": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2ca6281685180144"
+  },
+  "memento-materia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2dde05450b28dbe5"
+  },
+  "milan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "32de4e8eadc7115e"
+  },
+  "mille-plateaux": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7fd88799805e492e"
+  },
+  "minus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4892e709b66d10e0"
+  },
+  "moeder-babelutte": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4bef44ae447cd483"
+  },
+  "nighthawk-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "413de0e33393780a"
+  },
+  "no-colours-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5472fd8ebe3dfd02"
+  },
+  "owsla": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4e702f501429d111"
+  },
+  "odin-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "582b4bffd565f5a9"
+  },
+  "oniverse": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c92407ab47e23280"
+  },
+  "osmose-productions": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "09670c04fc03cb36"
+  },
+  "p-vine-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "af61c78fc1df58cd"
+  },
+  "pataugas": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2ea228abe4f93328"
+  },
+  "peak-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "17a191e1ddcb1688"
+  },
+  "philadelphia-international-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9749ee056e3de549"
+  },
+  "pi-recordings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "75eb8078e960a555"
+  },
+  "planet-core-productions": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7a7a90dc676311a0"
+  },
+  "porter-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3c33f13f1fa35059"
+  },
+  "rak": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "67577d0b29596705"
+  },
+  "rca": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3c01e96b087b5ee7"
+  },
+  "relativity-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "349a6893f350c88a"
+  },
+  "richter-frenzel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e6abe4d04c8b4c05"
+  },
+  "rise-above-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "70d27182074fe0f5"
+  },
+  "rooster-blues": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ec9d9d1c7a2fb2eb"
+  },
+  "rowton-houses": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d06472c6ea070f56"
+  },
+  "sk-telecom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0bbf0a4322b4d57e"
+  },
+  "sedmoi-kontinent": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5e47396354a8b6fe"
+  },
+  "session-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "847669584095989a"
+  },
+  "simon-l-velt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "68b33c5af97c71b0"
+  },
+  "skam-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cc4fedb6000ea7c7"
+  },
+  "smoke-a-lot-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28fad3fbe976eb29"
+  },
+  "southern-fried-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "18be54f771c2c93a"
+  },
+  "southland-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0d25966877a54fd8"
+  },
+  "specialty": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "777d507ba8787ff4"
+  },
+  "sunrise-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6b9f98dc701265b3"
+  },
+  "talens": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "92f1f32b1549b5d1"
+  },
+  "teldec": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e65c2cea8b0a3e16"
+  },
+  "thrill-jockey": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dc1502efe23bc3e5"
+  },
+  "tribe-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8f0395776e0d4db0"
+  },
+  "trix-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d6a355f0588cf178"
+  },
+  "trojan-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8d2f93a6633b627"
+  },
+  "uni": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "439302d4db061e04"
+  },
+  "uprising-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d3c35d0a4bfaa0b"
+  },
+  "venchi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3bb1416c4757219c"
+  },
+  "vitamin-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fca34938c0ddf0f7"
+  },
+  "wandelweiser": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ee3619b2f9b2c67e"
+  },
+  "yazoo-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "166bd7f7c74de1b7"
+  },
+  "ztt-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b8743f97b5b8d5a7"
+  },
+  "zappa-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2e8d02113471f3fe"
+  },
+  "zickzack-schallplatten": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ce0e38091f2af6d5"
+  },
+  "zoom-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b2bd6faa510dd1a2"
+  },
+  "anticon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ed0ecd27ead5c40a"
+  },
+  "ersguterjunge": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "32501bcef1f2d1b6"
+  },
+  "oodji": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e7135250ee54a091"
+  },
+  "vomfass": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f5549e35cf6a8ce"
+  },
+  "bersee-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "156bbb5bd8d35be4"
+  },
+  "geffen-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c84fc8a22840180"
+  },
+  "nitro-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ebc6ffbff7aaebb5"
+  },
+  "dollar-general": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "24a2ad5a9d2e64ef"
+  },
+  "decca-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6004e49d0eb4bde8"
+  },
+  "tous-les-jours": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9a8958ff0e904b18"
+  },
+  "rolling-stones-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9f0abdc081bbbb70"
+  },
+  "lotte-department-store": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1f760de59d42f66"
+  },
+  "ruthless-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "76c0a224b65bc5d1"
+  },
+  "mercury-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a05df7c3f46fa066"
+  },
+  "motown": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "20f8916c5a1c8a95"
+  },
+  "ministry-of-sound": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7d29b3d7b48fec8f"
+  },
+  "virgin-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "acf9e1f7a8e3a155"
+  },
+  "brainfeeder": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1ccdbdcd444d3bf6"
+  },
+  "black-top-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8bf2ce444c801bb5"
+  },
+  "sire-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a2c1ea8a6620ec3b"
+  },
+  "shady-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9aad773eaa53a542"
+  },
+  "smekkleysa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3117fcefead82656"
+  },
+  "studio-one": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2bac05dd3db7f3d3"
+  },
+  "american-recordings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bcbd04d25c331d6f"
+  },
+  "abenyu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12f46d75b804b24f"
+  },
+  "island-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "316ea95edc53906b"
+  },
+  "atlantic-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f0da9e5bc286b3f9"
+  },
+  "apple-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "41088f5f3c45d21a"
+  },
+  "atco-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a36ac4ef5b512221"
+  },
+  "epic-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "044beca66aabf4af"
+  },
+  "warner-music-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ed4e8bcd1a7da76b"
+  },
+  "warp-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7080fb97c8d038d4"
+  },
+  "walt-disney-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "26b075a48f115866"
+  },
+  "jive-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "16a6eee5b08bc038"
+  },
+  "jagjaguwar": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bf1fcceac8bb872f"
+  },
+  "zomba-label-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b55f2dc5a7cd2fd6"
+  },
+  "cherrytree-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b5bd029788a3f94d"
+  },
+  "capitol-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "25575ac82dbafc23"
+  },
+  "columbia-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3193da7dde591dcf"
+  },
+  "costco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d4b1e14d68888b6"
+  },
+  "crocs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e02b5c3942c68f77"
+  },
+  "triumph-international": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "487f478e0e1ac14f"
+  },
+  "parlophone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "33da0558310c7b1a"
+  },
+  "polydor-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "15aa29c0f745b47a"
+  },
+  "priority-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "db92494b5b1a5d2d"
+  },
+  "hollywood-records": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d0b70d03e2cc6cb3"
+  },
+  "hands": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b92c9ca9dbfad3ad"
+  },
+  "love-s-travel-stops-and-country-stores": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2651335c68ce3d49"
+  },
+  "au-vieux-campeur": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6d405b31b315659d"
+  },
+  "coccinelle": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3c2cfc0a6462ae96"
+  },
+  "hunkem-ller": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "caf802362e9a640c"
+  },
+  "kathmandu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9b2e9775a0928328"
+  },
+  "mexx": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d582b7cb8554c4e"
+  },
+  "munich": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b3aedc431dcc92e5"
+  },
+  "nkd": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "20c9f3036a6ffbdc"
+  },
+  "patrizia-pepe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "db7e339952659643"
+  },
+  "peek-and-cloppenburg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eac333faae718243"
+  },
+  "river-island": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a9ec9009e3ee72cb"
+  },
+  "schaap-en-citroen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f7594b4c5c8822ff"
+  },
+  "springfield": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "443ca18b2d1b4950"
+  },
+  "the-society-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "514d3fa7eed08777"
+  },
+  "the-sting": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6027b53cc1aa2862"
+  },
+  "vero-moda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8e3648ef61a1a291"
+  },
+  "wibra": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66b448e2ede71de0"
+  },
+  "zeeman": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c1e814d08975452b"
+  },
+  "lacoste": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8117bc647e034cce"
+  },
+  "levi-strauss-and-co": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0b8ec7fb49cd5317"
+  },
+  "mulberry": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0e2ff8953169e885"
+  },
+  "k-way": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2efd03e59f64975c"
+  },
+  "tous": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "74248375518cbbe0"
+  },
+  "cuisinella": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "895d256749ed50d9"
+  },
+  "fao-schwarz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66387bcf94323d6e"
+  },
+  "fun": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "44b7646a062b27bc"
+  },
+  "globus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "87c25a20f90efd9d"
+  },
+  "jumbo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e7baec29639d7044"
+  },
+  "kwantum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a74498a3b33452d6"
+  },
+  "pottery-barn": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6766957bc75596f7"
+  },
+  "smyk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1fa9f85c433d485a"
+  },
+  "mytoys-de": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "476cfcf87a55c048"
+  },
+  "musinsa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "02a945afa0375600"
+  },
+  "matin-kim": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f2410b651f03b1ed"
+  },
+  "olive-young": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f473e08868843dff"
+  },
+  "daiso-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d1fd554bc4929330"
+  },
+  "gentle-monster": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8bb2d831a9b39204"
+  },
+  "xexymix": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e69b08d6adad1962"
+  },
+  "marithe-francois-girbaud": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2126828bf9abd652"
+  },
+  "thisisneverthat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aae7736399ca72c5"
+  },
+  "acme-de-la-vie": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c5cbcdf93abd37f"
+  },
+  "recto": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "50dfba5a0791e1e4"
+  },
+  "thug-club": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a2a46465fc755779"
+  },
+  "stand-oil": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d0888c1bf85991cd"
+  },
+  "aeae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1ea03ac3c21296c5"
+  },
+  "mediheal": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00014b5f8488889b"
+  },
+  "torriden": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "73882b9aa9df3e2b"
+  },
+  "clio": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae40eb1fab924242"
+  },
+  "tamburins": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7463b4e54f87a1cf"
+  },
+  "ader-error": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bcee51147c7e2fb0"
+  },
+  "sulwhasoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1dbc5923ca0ee00e"
+  },
+  "laneige": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "884b61846c3dc858"
+  },
+  "innisfree": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f4316d6acc5f72c7"
+  },
+  "dr-jart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d4e033cfb25bcd54"
+  },
+  "round-lab": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c9937feb64ece49f"
+  },
+  "rom-nd": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c391e4b4161f6460"
+  },
+  "d-alba": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c895a76d380e6d42"
+  },
+  "anua": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "94d7475d259e47d4"
+  },
+  "beauty-of-joseon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "214c43822167546b"
+  },
+  "tirtir": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "052f24b8b58d1e3a"
+  },
+  "spao": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1b30050a43d78a52"
+  },
+  "topten10": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4bd3953a8b049b2c"
+  },
+  "kolon-sport": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "127e7bf6a629bd56"
+  },
+  "black-yak": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "605afaccf7d1a39b"
+  },
+  "the-norton": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9031c2dabccc4cd9"
+  },
+  "lebara": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "491c1a70cf82ef82"
+  },
+  "blank-and": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7a61cfc683111fa8"
+  },
+  "pot-gang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "da110aeadd265a7a"
+  },
+  "brusco-burger": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8b7a6b9e1f643fb1"
+  },
+  "london-sinfonietta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4726db46de1f30ea"
+  },
+  "kiss-fm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "486757240b26a1a1"
+  },
+  "machine-screen-printers": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "19329c9c2ea4a0fa"
+  },
+  "mecca-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1873bba712bd5f64"
+  },
+  "betta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8d4fc3438dbaa649"
+  },
+  "perfomance-golf": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "03a178dc74f0c31e"
+  },
+  "aneo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f57eac9c9791a93a"
+  },
+  "flat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "649ebe4bb69f3cc0"
+  },
+  "tugg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5cda8c002becabc9"
+  },
+  "ouch": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "657d0d2217705862"
+  },
+  "razz-burger": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f07e740511d1f6f3"
+  },
+  "fuku": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4d262673226986ef"
+  },
+  "burger-service": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "837de4ae1a08e969"
+  },
+  "the-east-cut": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "55c1afbbc947d90a"
+  },
+  "west-loop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "247ec9f88dafe0f7"
+  },
+  "blue-mountains": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6f822639cc299e15"
+  },
+  "16th-street": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8f1c19fa090d7617"
+  },
+  "florentia-village": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e0a4c553ef9654b9"
+  },
+  "south-flats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6045d94479bc4192"
+  },
+  "here-east": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b832e75af894ba28"
+  },
+  "zudo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e564a6f18f4b08d4"
+  },
+  "westbund-central": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "90a121d2b02885ad"
+  },
+  "montreal-1976": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7030c8b70333ee0b"
+  },
+  "mazda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "93997bfd11425db8"
+  },
+  "inax": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "596fa667923bd4c9"
+  },
+  "ibm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b52f882f70d458bf"
+  },
+  "olivetti": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f3fe61de7a9e6175"
+  },
+  "sapporo-1972": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ff8c4ec91c1c419a"
+  },
+  "british-rail": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d037b62ad37ffbe2"
+  },
+  "nasa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78e0e57d4d457614"
+  },
+  "tokyo-1964": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "414753ecd945a363"
+  },
+  "canadian-national-railway": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7fb47f29f3631451"
+  },
+  "s-o-paulo-petr-leo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0dd501a43264118f"
+  },
+  "eat-dirt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ca4e5cedbd5a4998"
+  },
+  "flaum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5cc4e5478416e94b"
+  },
+  "graza": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "22b4971824d56f12"
+  },
+  "chilly-willy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d39f9440ddcaa370"
+  },
+  "lolo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "01e59b527afe5b45"
+  },
+  "best-of-the-bone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1b20367ef6832ed0"
+  },
+  "cob": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "64a7dd4cecbb12b7"
+  },
+  "ayoh": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c46525476d490e3b"
+  },
+  "korshags": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1ec108eeffc413fe"
+  },
+  "phil-s-finest": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b4a7b44f3e4c5683"
+  },
+  "veesey": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dde8a2cf969dd90c"
+  },
+  "yellowbird": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "49116073f143788a"
+  },
+  "ghia-non-alcoholic-aperitif": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c233f7581f22ccd"
+  },
+  "center-square": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "267101b5abd1701f"
+  },
+  "uniqode": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eec9bc76699a20c9"
+  },
+  "open-ai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "21547aad00b8a46d"
+  },
+  "equator": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "844d5fff83bbb743"
+  },
+  "mux": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0786e7b22ebf311e"
+  },
+  "cohere": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3a1d0c8a9112f882"
+  },
+  "coinbase": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b02235f7b0202809"
+  },
+  "bolt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "811c66d912107025"
+  },
+  "fujitsu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9014e8afb35832ad"
+  },
+  "mozilla": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0408a6f5ac749ffd"
+  },
+  "flodesk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "909a421836523147"
+  },
+  "spotify": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a00ef921b131548"
+  },
+  "pigment-ai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c60381e9fd76087b"
+  },
+  "gemini": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5195fdc0aaf9d393"
+  },
+  "robin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0096a5ac36d6f34e"
+  },
+  "twelve-labs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "60fe669a7974869e"
+  },
+  "perplexity": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f8fea369f9f7a6f"
+  },
+  "hook-ai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5259631c2dc85960"
+  },
+  "faculty-ai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "07938f23d8cbbdeb"
+  },
+  "jupi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3e22c8805e638ab8"
+  },
+  "analog": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "288060e4a79d0723"
+  },
+  "visual-electric": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1eea393e4bb56800"
+  },
+  "isomorphic-labs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b49adb062954b721"
+  },
+  "sauvage": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eaa21c48a35b6b37"
+  },
+  "mit-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ac3401b1d41e2834"
+  },
+  "westinghouse": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8a5380d1cd5027c0"
+  },
+  "eames-institute": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e4f0952bcbfcb82d"
+  },
+  "peerspace": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fad19b7d91555291"
+  },
+  "vessel-floats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1f48ce2d7a6783d5"
+  },
+  "shy-bird": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f1d990cc09872033"
+  },
+  "forgotten-boardwalk-brewing": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "31aaaa7278e92518"
+  },
+  "smlxl": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6ce8cab838cfa589"
+  },
+  "openview": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c51789e95a2d9bc1"
+  },
+  "league-one-volleyball": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fd75b0e71f31c0ce"
+  },
+  "hija-de-sanchez": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "81a39f9f7ac32cc7"
+  },
+  "new-york-city-fc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "44c6545d83a1a821"
+  },
+  "hart-bageri": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "950bc7392382722a"
+  },
+  "mountain-hardware": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0b392e998b633bea"
+  },
+  "mode": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c6ab0daf61b01ae4"
+  },
+  "philadelphia-art-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1793617792029904"
+  },
+  "dallas-trinity-fc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "68fe59837a8ec67e"
+  },
+  "sarajevo-1984": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f26b2c025d85aa84"
+  },
+  "nike-run": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6fd68bb15ee02756"
+  },
+  "veikkausliiga": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4786cd0b0c022bfc"
+  },
+  "munich-1972": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0dd5350354051151"
+  },
+  "borussia-dortmund": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "19386886e5c4c877"
+  },
+  "mexico-1968": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1029aef50df154c6"
+  },
+  "tottenham-hotspur": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "082fbd1297eed541"
+  },
+  "slazenger": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cba2c3fcbddf2103"
+  },
+  "delta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e94e35c1794bd7bf"
+  },
+  "american-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a2d5fc4ba24e0958"
+  },
+  "swissair": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a92d0eac7009b565"
+  },
+  "austrian-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "797aabe11e38c0d2"
+  },
+  "norwegian": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "71e36c6ec420e3d9"
+  },
+  "pan-am": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aefb5563a6559150"
+  },
+  "japan-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4653eb8b46fa6bd1"
+  },
+  "eastern-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "45ae1ea41f037848"
+  },
+  "bea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "41a4afbc67789b1c"
+  },
+  "hughes-airwest": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e0a2412f04dc80bc"
+  },
+  "klm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b79b52e3042530ae"
+  },
+  "israel-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "194f77f3d29858dc"
+  },
+  "nuud": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ce221bff488bc3eb"
+  },
+  "adobe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4dfe933d0abb4b0d"
+  },
+  "pizza-express": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e900216ba47d9024"
+  },
+  "air-up": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eed667266e62f71f"
+  },
+  "brooklyn-org": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "65c1d5b231bfd865"
+  },
+  "reveri": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c1429c28d48bc42a"
+  },
+  "j-germeister": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d2c2bda3d87a2174"
+  },
+  "fhirst": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e37c654d04daa43a"
+  },
+  "sarah-and-sebastian": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9645d6989981befe"
+  },
+  "thebe-magugu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a4f9de5f90394e39"
+  },
+  "maison-de-greef-1848": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "50e5f7504babd0bf"
+  },
+  "arrels": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "79777380462f7c8e"
+  },
+  "fenty": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8a44a456fc90c7d5"
+  },
+  "aurlands": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0758425228c9292e"
+  },
+  "esprit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66fe2f7846ff1375"
+  },
+  "paco-rabanne": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8aa4d3e5c8f21d17"
+  },
+  "lorod": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f6c81af977b04fcc"
+  },
+  "farah": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12123c3102f01da2"
+  },
+  "f32": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e27d2faaffea6863"
+  },
+  "the-practical-man": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "934c582a5b90e69b"
+  },
+  "diana-s-seafood": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2e6536cc64841405"
+  },
+  "natural-innovations": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b20e15991973f104"
+  },
+  "sauce-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "70d0c855752693f6"
+  },
+  "eat-real": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cbef4ad98da99cc2"
+  },
+  "drumroll": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "76fbc95b40f9181e"
+  },
+  "bezi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "89b9f3a30b3920aa"
+  },
+  "unto": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e53a4b4eba9d4280"
+  },
+  "magic-spoon-treats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cb9b302890dc8166"
+  },
+  "masp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1a7d1cb1285b14e3"
+  },
+  "den-kongelige-samling": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6145e5582881367c"
+  },
+  "munson": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e774795d8c82fce6"
+  },
+  "postmuseum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f685d977377ae0f6"
+  },
+  "art-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "38dd4e6912e3cbcc"
+  },
+  "the-met": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7be0f981c7988e71"
+  },
+  "mus-e-des-beaux-arts-de-montr-al": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d8a66e4ad08bacf1"
+  },
+  "vitenskapsmuseet": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ed4d3be9cbd62e4"
+  },
+  "whitney-museum-of-american-art": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d60edd3ddf3a97f7"
+  },
+  "new-york-botanical-garden": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "120edf64a6266463"
+  },
+  "siuru-tartu-cultural-centre": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1ab3f7c81e8ac461"
+  },
+  "royal-ontario-museum-rom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a87c0059ae88fdac"
+  },
+  "somerset-house": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "284679f7fa0ec83b"
+  },
+  "brami": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a19fd57f74c5ea1c"
+  },
+  "paro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9552954dad4d875f"
+  },
+  "omy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "20b054827963df26"
+  },
+  "ami-ami": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a68218de83d3b1ca"
+  },
+  "matheson-food-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e18853265c974856"
+  },
+  "equip": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2e0c65c4cf63778e"
+  },
+  "think-packaging": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39b58478d7a49d49"
+  },
+  "departed-spirits": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "889fe4bfb4e03542"
+  },
+  "autex-acoustics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f71d44a25a5277fa"
+  },
+  "tipple-topper": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a88234f4ccc4609b"
+  },
+  "popchips": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8d87bb60a4c0fcb"
+  },
+  "yes-you-can": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3baa41b683b89000"
+  },
+  "berg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5c6f0df70adefb93"
+  },
+  "everybird": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d4dff6b9463cd2f7"
+  },
+  "bruce-juice": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bc8090468966a2fc"
+  },
+  "phoenix-organics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "869fe8a1eb63d8d8"
+  },
+  "cash-flow-vodka": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3fdd121aa88cebcf"
+  },
+  "almighty": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "325f1a4fa9604589"
+  },
+  "guilty-pleasure-cafe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b4d8ae458c597ef4"
+  },
+  "sessions": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1c8768928d01b3f3"
+  },
+  "disrepute": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c0e9885354a3b97a"
+  },
+  "lucia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a764e23bbdd90203"
+  },
+  "amatrice": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d81c13cb5aa329b"
+  },
+  "oji": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa7ec46dfe798122"
+  },
+  "culprit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "83c928f0e57882a2"
+  },
+  "teller": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0fc9dfd85ec4697c"
+  },
+  "woods-yard": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8346be95177d490"
+  },
+  "kisume": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "688a71447f754db8"
+  },
+  "nationwide": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3dd66d1ce9f69c2a"
+  },
+  "banamax": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e2f6f235979a374a"
+  },
+  "monzo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b51f2e03af9a9621"
+  },
+  "lloyds": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "96e766bfe9c2553a"
+  },
+  "bancomat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "45379af3bb921f30"
+  },
+  "hongkongbank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5673283916bee527"
+  },
+  "citibank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "34b03a509bdbaa37"
+  },
+  "banco-ita": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d246ff7af41c0b7e"
+  },
+  "tomato-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "682fd684ed13ec69"
+  },
+  "maebishi-shinkin-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b7b0f69b4a29d739"
+  },
+  "nippon-shinpan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2f5181bb67f02600"
+  },
+  "tribank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7e8131bbe107c57e"
+  },
+  "huntington-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a59a106bd78e78e5"
+  },
+  "story-espresso": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4fdb0a88a297890d"
+  },
+  "meander-valley": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1f0ade2b581fa488"
+  },
+  "time": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2fccc350bd3f916a"
+  },
+  "imperia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0a342eee5f4770ef"
+  },
+  "lobos-1707-tequila": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dd651efb8ad5a30a"
+  },
+  "japan-post": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9aa64a419ff6f77b"
+  },
+  "orchestra-sinfonica-di-milano": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "08d3e073f710104e"
+  },
+  "robinhood": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "318607ba835eac18"
+  },
+  "church": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "63772b3ef3f480b7"
+  },
+  "melissa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "708fd26022c15c3f"
+  },
+  "kunsthalle-basel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4fcaeef589c22af8"
+  },
+  "olympikus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a68c9a9ff9820481"
+  },
+  "twitch": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d81c760df753d181"
+  },
+  "pac-nyc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "59efc9c9a503d49b"
+  },
+  "vevo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a79a31ec6251b457"
+  },
+  "lunge": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "01502681e2a6dbcd"
+  },
+  "tingz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cb7cb803eb7fbfa4"
+  },
+  "superkeen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3970372fe05feeb2"
+  },
+  "isle-of-wight-tomatoes": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "56e02e3ba540dcdc"
+  },
+  "bear-paws": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1342d071ef6e17db"
+  },
+  "bol": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e59f88d0bcb5fe45"
+  },
+  "cuckoo-muesli": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4f77af583066fa17"
+  },
+  "kenwood": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e7c14cb4478bcac6"
+  },
+  "sigma": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9ebb21155a113c0e"
+  },
+  "national": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "670dca5e507101cb"
+  },
+  "seiyu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dc74c502fbbb49b5"
+  },
+  "toyota": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fa077abe33332b4a"
+  },
+  "juchheim-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bfa01c079a58682c"
+  },
+  "iwate-broadcasting-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "157032f4cae5f2d5"
+  },
+  "japan-energy-corporation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "26851143b7047f41"
+  },
+  "cosmo-oil": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "67eb697440366b5a"
+  },
+  "smk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e2a8649e0c27f47d"
+  },
+  "kawasaki-shinkin-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dd49182f058f7913"
+  },
+  "rspca": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7e37795b10580a0e"
+  },
+  "stella-artois": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f23a4537b77deb6"
+  },
+  "dunkin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1cab76238c43fb26"
+  },
+  "fanta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e63bdb86cf253447"
+  },
+  "m-and-m-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c9146024c9a28dde"
+  },
+  "chime": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "56df6888ee4930ad"
+  },
+  "yahoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "09a0bd565811c44f"
+  },
+  "snickers": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2045f646481d0271"
+  },
+  "sprite": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b0aa34eb80d6ef33"
+  },
+  "intune-cbd-soda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ffdd4da3f6b25fff"
+  },
+  "innocent": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1d019f9f57f73353"
+  },
+  "j2o": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d9d4f5ff22acc322"
+  },
+  "living-things": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3b461752f3142f4a"
+  },
+  "live-soda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a888466456de076"
+  },
+  "fibe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ac99ef5516ed62f4"
+  },
+  "rapscallion-soda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "599e344c82a3fa69"
+  },
+  "agua-de-madre": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b8555f4a95669e06"
+  },
+  "ceria": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3eb206acfda607ed"
+  },
+  "vast": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "086ea4480fc5818b"
+  },
+  "mill": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c33e9c6316bea9a3"
+  },
+  "obama-foundation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1e0c673577c92758"
+  },
+  "care-com": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7170f5eccfd07c64"
+  },
+  "quilt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2528699edb6a7934"
+  },
+  "north-road": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f55900248b689b19"
+  },
+  "recchiuti-confections": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "847038ae9d14c778"
+  },
+  "new-orbit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "03eb4ac15d2da08e"
+  },
+  "dropbox": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "529bb4949e5632e1"
+  },
+  "roblox": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "84bd087dc7ff54dd"
+  },
+  "lyft": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bbc03988a4da2f0d"
+  },
+  "checkmyfile": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cb30902850648382"
+  },
+  "goolf": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa3e4fd86e168c92"
+  },
+  "ding": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6df3e34b4719f234"
+  },
+  "peckish": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3894cbc36a1b0d91"
+  },
+  "big-cartel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1e1257c757de2b36"
+  },
+  "cazoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f7f49d6ec441f264"
+  },
+  "sendwave": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eba0f5c8642d9dc9"
+  },
+  "paysafe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ab7dbd3a9c58581"
+  },
+  "afterpay": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f8639738ef985c29"
+  },
+  "wise": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b9e4cecc04861644"
+  },
+  "paypal": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "56e974f3c7f9e2ba"
+  },
+  "visa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d3b341ecb4ce8c3"
+  },
+  "mastercard": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bac946e8b6d26216"
+  },
+  "wooden-spoon-herbs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a4c045e736a3cb6"
+  },
+  "mercado-famous": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "465ddfb9554cf136"
+  },
+  "happy-viking": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "112d5f92d51e3c7c"
+  },
+  "beanworks": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bd1644cb0325a383"
+  },
+  "new-chapter": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a77b172c501f22e"
+  },
+  "yo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3e9c25fe0d90cfb1"
+  },
+  "from-babies-with-love": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "42bf05e6137639cd"
+  },
+  "ten": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "58bf90019a8b24d0"
+  },
+  "social-enterprise-uk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "271869ccb604919a"
+  },
+  "spudos": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dacbfec9b9c05d33"
+  },
+  "asahi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a39eca0b03601271"
+  },
+  "daiei": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80a721dd817b6cb3"
+  },
+  "asics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c63c15e7899a80c3"
+  },
+  "kawatetsu-kawasaki-steel-corporation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "31bb926da306e667"
+  },
+  "zexel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "539af83233d17cb2"
+  },
+  "benesse": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "49a833ef8f05e25a"
+  },
+  "kirin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b359a6c983db5a90"
+  },
+  "7up": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1fa7c93ca15e0dd"
+  },
+  "electronic-arts": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2eaca2cbc4d6e04c"
+  },
+  "reddit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1790d03de3e17812"
+  },
+  "kleenex": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8c8880a5395038db"
+  },
+  "jaffa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8b697380d1d17ad3"
+  },
+  "mitsubishi-motors": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c46a079055b76ee"
+  },
+  "tripadvisor": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "64128b769b92b796"
+  },
+  "misfits": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2466a662ad387d1b"
+  },
+  "de-extinction": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "be5ad6c452b817e2"
+  },
+  "fluz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b7e8f3a165c86b15"
+  },
+  "kit": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7e2d93f3ffdf534a"
+  },
+  "deezer": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "466154992f57cc5f"
+  },
+  "gustini": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "52fec038f6aa8f98"
+  },
+  "partech": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "017a6fc33b638f0f"
+  },
+  "antara": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dbd9bd0b631c1491"
+  },
+  "bastian-beach": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "11df7fcc4d2f507a"
+  },
+  "ultraderp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c9859d00adf88717"
+  },
+  "brewbird": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eb6acf3050376b3a"
+  },
+  "iaac": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a5ea747d26b44d99"
+  },
+  "ostro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e2e51ab0e987e58a"
+  },
+  "bonodora": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f755d706d2ec61f8"
+  },
+  "olo-homes": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3585f5014e020e61"
+  },
+  "70-hudson-yards": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "335877200433726e"
+  },
+  "fitzjohn-s": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "07bbda6e15842644"
+  },
+  "ark": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d8494bca08a4b7cd"
+  },
+  "outline": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8a675dacb99d1cb0"
+  },
+  "246-queen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8b70e8922a0d8c72"
+  },
+  "tembo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b124d6e31c1ea249"
+  },
+  "the-hugo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3bfebb5bfecddc36"
+  },
+  "everlea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "910d025d1d1f3615"
+  },
+  "onefourfive-clarendon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "86b70406bb89508b"
+  },
+  "curve-club": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c51d739e75c78426"
+  },
+  "platf9rm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8f7d5f9d191feb37"
+  },
+  "boc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4a5ce52571e44764"
+  },
+  "bmg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "96dd597d7183b4e9"
+  },
+  "sandals": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "871ec09d242c475c"
+  },
+  "decathlon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "47cc78aa6a80b871"
+  },
+  "bovis": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dc968bb1d5f3d3c9"
+  },
+  "instacart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5475ea174e987409"
+  },
+  "bite-back": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b371948a8bea1bb9"
+  },
+  "blank-street-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8c150a9eb1677818"
+  },
+  "yoloh": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "766370fac65ab9f3"
+  },
+  "the-hartford": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f7d1f9ee2ea416fa"
+  },
+  "hotpod-yoga": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a42f1853571b67d"
+  },
+  "hello-klean": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "391a806c8b2d8e42"
+  },
+  "heights": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "88fb47b676ce4c22"
+  },
+  "aa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "212bef89b85dd2a7"
+  },
+  "tameko": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1d173a17b374a054"
+  },
+  "joyful-outdoors": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "48c70d2d6365874a"
+  },
+  "otta": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "694390bd240e6d08"
+  },
+  "hometree": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4185c52051ca5c33"
+  },
+  "islington-square": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d8a98d540f1ab10"
+  },
+  "the-round": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4bda38fd08750769"
+  },
+  "hub-residential": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8c0fa739b866f29b"
+  },
+  "dumbo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9155bda3d300175b"
+  },
+  "when": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bbacee65153ead04"
+  },
+  "wype": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1bde27224b44522d"
+  },
+  "twyg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c8afa53722daff4e"
+  },
+  "zvyk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "10cf2e6a74aa6f91"
+  },
+  "pelago": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "181f3bb3cd55b37c"
+  },
+  "miles": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7d063d7285a59073"
+  },
+  "unmind": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "db16653c90b25508"
+  },
+  "framework": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "30e0c5fc0adb32af"
+  },
+  "abdipharma": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "08d326bc421f9ae7"
+  },
+  "repsol": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5237a688bebc8c7a"
+  },
+  "shell": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "53eff90e45453025"
+  },
+  "elf": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "69247a59107b641c"
+  },
+  "tepco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2087b936083f30d7"
+  },
+  "pam": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dcf71d5e24e73262"
+  },
+  "mobil": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "429855a2cb9c9783"
+  },
+  "agip": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "376b8971901f55f0"
+  },
+  "london-electricity-board": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7aa6764c4fe97f94"
+  },
+  "marshmallow": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39f81439bf19a207"
+  },
+  "tsukiyo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2f27fcd08806b0e2"
+  },
+  "yum-bun": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78c48b9d9348c427"
+  },
+  "frydate": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "882cf2be88148270"
+  },
+  "kokoro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dac6eb2dfac2ecf2"
+  },
+  "happy-endings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5f0aa04f22cb206f"
+  },
+  "the-mean-tomato": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "05730ada584bd6e2"
+  },
+  "ashton": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c39bb760b1c7e6e0"
+  },
+  "aruba-conservation-foundation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "532544477a77896c"
+  },
+  "chester-zoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "63eee5269ff07b68"
+  },
+  "wild-thingz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "79518c785fa27ff7"
+  },
+  "mama-mexa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "788016e1662b7b72"
+  },
+  "the-wool-pot": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "63f6b87937f6ad59"
+  },
+  "scapegoats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e4ecfd6e541ac933"
+  },
+  "food-nation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f10bcdf4ece96699"
+  },
+  "still-waters": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2375493e477db767"
+  },
+  "suupaa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1f2999cffdd28ef2"
+  },
+  "club-pescine": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00604b780c787e7e"
+  },
+  "kettle-kids": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80f101a06a8fff50"
+  },
+  "a-to-b": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c88bebf31de02588"
+  },
+  "meitetsu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "db574adce6ba16e4"
+  },
+  "wholesome": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b807d7ae8ea27978"
+  },
+  "san-francisco-symphony": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28fa0a7cb832efc3"
+  },
+  "muse-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dbc5656b2561a5b2"
+  },
+  "kalw-public-media": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0f7cac5e4eaf3015"
+  },
+  "mailchimp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ac86200c56ebf860"
+  },
+  "bose": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "33e003382afbbdf9"
+  },
+  "freeform": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f83eaf7efb8a01bf"
+  },
+  "sustana": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "42e201948d35ff1a"
+  },
+  "freewheel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e72dcc36c73d7af2"
+  },
+  "andmore": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e164b6097f1d428f"
+  },
+  "allies": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "df3f02373e068601"
+  },
+  "loot": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2ec666351dbe1d5d"
+  },
+  "paws-off": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "edf2ff8c45fd38d5"
+  },
+  "supertrash": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "460c0415b1c0b8b8"
+  },
+  "we-compost": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8571cc17a3322f19"
+  },
+  "expo-70": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66c74e7e13b8a88f"
+  },
+  "expo-74": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ed530cc7f9887335"
+  },
+  "portopia-81": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "37021399cf7512d4"
+  },
+  "expo-75": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3d358d5c96d71656"
+  },
+  "hemisfair-68": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae42153e76a1797c"
+  },
+  "expo-85": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ca491232cc0c5ba"
+  },
+  "expo-90": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6bff8c94837c019e"
+  },
+  "komero": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b1376a0ceda48c2e"
+  },
+  "pirkkalan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9e28a48a8ea45a53"
+  },
+  "helsinki": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "83e59850ef3eff95"
+  },
+  "galipette-cidre": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ccaf63ff20b2210"
+  },
+  "helsinki-city-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "705f1bd52ea0b362"
+  },
+  "moth": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "52d76a74785a4488"
+  },
+  "tenzing": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c8652a6b25416dcb"
+  },
+  "ito-gin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3599f1f9d14019f8"
+  },
+  "half-day": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "69a294ad7a0a60b0"
+  },
+  "hip-pop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa112ef940c1b1d7"
+  },
+  "yat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "74cf9ba52ac96734"
+  },
+  "moju": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "46aecd240602aafb"
+  },
+  "wilda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cc62d2c1298706f5"
+  },
+  "ribena": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4eb3183cf5152e73"
+  },
+  "sbb": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "910b9c007f775a35"
+  },
+  "munich-airport": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a5bf6e22b25eb8a"
+  },
+  "london-buses": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cfe4877a52aa6e9a"
+  },
+  "metro-bilbao": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "30266b86b80a8f8d"
+  },
+  "mexico-city-metro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f16621f262efe0d3"
+  },
+  "nederlandse-spoorwegen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9f771e0d8aed58b4"
+  },
+  "japan-railway": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "788c822f162e8d16"
+  },
+  "greater-manchester-transport": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "18c7f7bb28f825f4"
+  },
+  "prague-metro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ddeb93d872b63b70"
+  },
+  "mind": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7bccba2db615a801"
+  },
+  "natural-history-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "448ee9837fbb5352"
+  },
+  "philbrook-museum-of-art": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b6646ea4a8ab9254"
+  },
+  "bac-n": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "51553da2969fe3b7"
+  },
+  "mit-media-lab": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bc6af667bf93a4cb"
+  },
+  "lucas": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3d71bd9023f5e102"
+  },
+  "eternal-research": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c933bd4baa082cf1"
+  },
+  "massivemusic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7647f4a23e402ca2"
+  },
+  "beams": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "24a6554f3fac1699"
+  },
+  "philharmonie-luxembourg": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "99059c0d2868cc24"
+  },
+  "osesp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ba20a9cd8d09c781"
+  },
+  "nn-north-sea-jazz-festival": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b6f28d2cf2ffdf02"
+  },
+  "sing-king": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e62c717d8050dd9b"
+  },
+  "air-studios": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "17d0f62033ff7971"
+  },
+  "calgary-1988": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "994a4e7a038c9203"
+  },
+  "sydney-2000": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c0096b17ce373621"
+  },
+  "la-1984": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6feb18ed9763e0ab"
+  },
+  "moscow-1980": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d84f66e8dbf2c14d"
+  },
+  "osaka-candidate-city-2008": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9f430576593fbfc0"
+  },
+  "freesoul": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f6e97da7d295c209"
+  },
+  "first-choice": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fef17750578bf720"
+  },
+  "omlet": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e46f4cd8de469db3"
+  },
+  "go-compare": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "624ac78a2f091255"
+  },
+  "eager": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "569b96d72c83eabb"
+  },
+  "assembly": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "96b181d218eb6f1c"
+  },
+  "amorepacific": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d32bb383c96c5b5f"
+  },
+  "lg-household-health-care": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e619493940038691"
+  },
+  "bibigo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2a31f5053b4ec8c3"
+  },
+  "samsung-electronics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4666bb0be98ab4e9"
+  },
+  "hyundai-motor": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5bcab34bab342ec8"
+  },
+  "kia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "713331d157c4d2da"
+  },
+  "naver": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e9aa050993cfd80a"
+  },
+  "lg-electronics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0b16ec99a6c11c0a"
+  },
+  "coupang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "affd695f8152a3f4"
+  },
+  "kakao": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d84c2b2fc98a33d"
+  },
+  "baemin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "759426b464898b78"
+  },
+  "nexon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8c95ec40a7a4813"
+  },
+  "krafton": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1c043f7f3b4da26d"
+  },
+  "socar": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3b85ce0344959cbf"
+  },
+  "shinsegae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b8ab394cbfb81552"
+  },
+  "lotte-mart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cac45492b6dd56a8"
+  },
+  "gs25": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c22c6d8dd88b506d"
+  },
+  "kurly": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c315274a9292b201"
+  },
+  "danggeun-market": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a91f0eda7f9c7d8"
+  },
+  "nongshim": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "967949b737140a75"
+  },
+  "orion": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d811d41ed5ae2d3c"
+  },
+  "lotte-chilsung": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "26990de7625be53c"
+  },
+  "binggrae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6870e5d9bb767c85"
+  },
+  "hitejinro": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8bdb413ca27bca43"
+  },
+  "hybe": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "627ea65d14807f59"
+  },
+  "kakao-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c7ff4716db0c08e"
+  },
+  "kb-kookmin-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "03877105a5a58d15"
+  },
+  "shinhan-financial-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7d8a5980745ab98a"
+  },
+  "kakaobank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f33337e141aac4d2"
+  },
+  "sk-hynix": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5c19b11f443ce655"
+  },
+  "kt": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa0aab509ba76e47"
+  },
+  "lg-uplus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "063a9a1d4e69259d"
+  },
+  "samsung-sdi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cfb47b31a0e46606"
+  },
+  "ncsoft": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80c130c7450c132a"
+  },
+  "pearl-abyss": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ba854baf43648584"
+  },
+  "netmarble": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "696a347afe0ae664"
+  },
+  "kakao-games": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4f710c55efbe68dd"
+  },
+  "korean-air": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "62e664c9afa76a9b"
+  },
+  "asiana-airlines": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "057bc47a8d785994"
+  },
+  "jeju-air": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b3830da43a46f821"
+  },
+  "celltrion": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12aa4b42b74af003"
+  },
+  "samsung-biologics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b8a7e454473a0f41"
+  },
+  "yuhan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b52432bd5b3d6e58"
+  },
+  "samyang-foods": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "311c9f10c4dda802"
+  },
+  "pulmuone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bdff72170fd051f6"
+  },
+  "ottogi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b941f220c1d7e03f"
+  },
+  "kyochon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ce275cd73c72103e"
+  },
+  "mega-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8e5d6ead293b0c3b"
+  },
+  "missha": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4593153c318c1f3a"
+  },
+  "andar": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f03b286458152715"
+  },
+  "hankook-tire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9afefedd39a7c871"
+  },
+  "fila-holdings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5e2285559f1f1e8a"
+  },
+  "hana-financial-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1470b25b9339e65"
+  },
+  "woori-financial-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "007a697ee69ddae9"
+  },
+  "nh-financial-group": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "103451e62a96e76b"
+  },
+  "kakao-pay": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eaaab4b08b529433"
+  },
+  "samsung-life": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39ab7d5038f1b05a"
+  },
+  "dongsuh-foods": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f2ebb013f19bd4f2"
+  },
+  "daesang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dd14291aa71b6bc8"
+  },
+  "maeil-dairies": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b786bb2d31a94d15"
+  },
+  "lotte-wellfood": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b7215d2f72ba98db"
+  },
+  "haitai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ed9408b88f8e8b9b"
+  },
+  "cosmax": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e5e884670240f21e"
+  },
+  "kolmar-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fcd66ee97f19a701"
+  },
+  "tonymoly": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "21d49d00dd6ede6e"
+  },
+  "cosrx": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ff1193c15712d287"
+  },
+  "f-and-f": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2b40e379e3078210"
+  },
+  "handsome": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "215da1f11954c5a4"
+  },
+  "e-land": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12b000f2670141e9"
+  },
+  "lg-chem": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "435a3e67aad2df0c"
+  },
+  "sk-innovation": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b6630d23743715f0"
+  },
+  "gs-caltex": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "51ea5b76a0351d89"
+  },
+  "posco": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "88f6455e6bd28cea"
+  },
+  "genesis": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0e5be2891391081b"
+  },
+  "hyundai-mobis": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ebf1130c784d6e6e"
+  },
+  "hd-hyundai-heavy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e754d03ce912c5c5"
+  },
+  "doosan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2f9fc7e1b24f835a"
+  },
+  "line": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ea251bf79853ccfe"
+  },
+  "dunamu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ac6069999550b769"
+  },
+  "toss-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78dc6e4472463a6a"
+  },
+  "yanolja": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ddfbceff841b40d2"
+  },
+  "smilegate": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c2da75ccb67062f6"
+  },
+  "com2us": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "01c4865485c93b43"
+  },
+  "wemade": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7cfd8bcd6668f993"
+  },
+  "webzen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "68073a654949674a"
+  },
+  "cj-enm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa1803caf1594130"
+  },
+  "tvn": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "87de76cbf8c906cd"
+  },
+  "sbs": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "644f13310ab63a69"
+  },
+  "studio-dragon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7353be53a299a3df"
+  },
+  "dongwon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8f6e372319b55160"
+  },
+  "paris-baguette": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d32087fc2d65ef0"
+  },
+  "bbq": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "44c7845ab18f3da3"
+  },
+  "twosome-place": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d6b84415b682f53d"
+  },
+  "ediya-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "afcfe263e1247a2e"
+  },
+  "hanmi-pharm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0807a2b7e36463e2"
+  },
+  "chong-kun-dang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e0ffe9bc4a1ab62c"
+  },
+  "gc-biopharma": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39e209d0b253cd14"
+  },
+  "kwangdong-pharm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a1604789dc40475d"
+  },
+  "s-oil": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "08f35d2b1baa78f8"
+  },
+  "lotte-chemical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e270b7c86257a207"
+  },
+  "hanwha-solutions": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d2d11d9918cb506"
+  },
+  "hyosung": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7f1c014bdbfe9da4"
+  },
+  "hyundai-enc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b92151fbe073e87b"
+  },
+  "hyundai-department-store": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6f3de7a9386ecfb8"
+  },
+  "cu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1e368b8c01a33b6c"
+  },
+  "7-eleven-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa23efbae912f2ed"
+  },
+  "homeplus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "196d363d35fbba71"
+  },
+  "samsung-fire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9e43d53922b142fb"
+  },
+  "mirae-asset-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a09600725f82e8ee"
+  },
+  "korea-investment-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2a5bf5cf4ce772da"
+  },
+  "kiwoom-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1de512c939b18cd5"
+  },
+  "db-insurance": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c44b306a527f792b"
+  },
+  "namyang-dairy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dd2379412233d2fd"
+  },
+  "lotteria": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "98d7bf419187c946"
+  },
+  "moms-touch": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ff47386e4c0db2f4"
+  },
+  "bhc-chicken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "31e11789cc15cf0a"
+  },
+  "compose-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d675d3cd3c581b5d"
+  },
+  "the-face-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d3d8386b0aafee30"
+  },
+  "nature-republic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f8ae10781f7b09bb"
+  },
+  "hera": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d4452492dcb1c581"
+  },
+  "mamonde": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "14e2188c4543867a"
+  },
+  "manyo-factory": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e23e6726e62be6a1"
+  },
+  "shift-up": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f539d11dc24dc78e"
+  },
+  "devsisters": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a11c7bba05f99d9"
+  },
+  "gravity": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6b683b3c3c6ecd64"
+  },
+  "ohou": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4b1e3d6dc1e96bbb"
+  },
+  "jin-air": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c7b846441589c4d5"
+  },
+  "tway-air": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ebc7152b800255bb"
+  },
+  "cj-logistics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "75db2ecd78045823"
+  },
+  "samsung-heavy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b9dc778760ac37ca"
+  },
+  "hanwha-ocean": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a6c17a0e4783e4a0"
+  },
+  "discovery-expedition": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2ee9b8e3fc62ed89"
+  },
+  "stylenanda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cd8567b53323d97a"
+  },
+  "national-geographic-apparel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "38a330a10e9e0d40"
+  },
+  "starbucks-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d2cb8d77cfa6eb17"
+  },
+  "baskin-robbins-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "55d39e3de5742dcc"
+  },
+  "gong-cha": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "939893deab67fc4b"
+  },
+  "ibk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "54d293c9a2d71615"
+  },
+  "samsung-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "273223cd583685bd"
+  },
+  "kyobo-life": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "942ebcbb17c90327"
+  },
+  "hyundai-marine": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d91a4b0afda10885"
+  },
+  "meritz-fire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9a11701545730a22"
+  },
+  "kg-mobility": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0f33a5baa8e206ca"
+  },
+  "renault-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6cbe5b2b4825a8b8"
+  },
+  "hl-mando": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "939654ef1699e6ec"
+  },
+  "nexen-tire": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "052744fd2e3f7b69"
+  },
+  "hanon-systems": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7c54b5854ba4ceab"
+  },
+  "hanwha-aerospace": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "916d188aa193ddcb"
+  },
+  "kai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7382b21a909204af"
+  },
+  "lig-nex1": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e539f0c010c59423"
+  },
+  "korea-zinc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c4e5aad3f1639b59"
+  },
+  "kcc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "13be1e84969a46f9"
+  },
+  "nepa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c34db7896095bd7d"
+  },
+  "eider": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f046e9ec7bbd9fb4"
+  },
+  "gs-construction": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8ce4eb065e8dcb5d"
+  },
+  "dl-enc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c97b66ee99fc3d30"
+  },
+  "hdc-hyundai": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c6161a5946070031"
+  },
+  "daewoo-enc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "12d23f35f3aea1dd"
+  },
+  "samsung-ct": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "116ab201bf584855"
+  },
+  "daewoong": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e8615953ebbc8e2c"
+  },
+  "dong-a-st": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2a410ad740a4e005"
+  },
+  "sk-biopharm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "acc39b9ee02d4889"
+  },
+  "hugel": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ba31a8c2e30a456f"
+  },
+  "boryung": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b30dbf94d1f8efdd"
+  },
+  "coway": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e18605b28451ef8b"
+  },
+  "cuckoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c211c144668f2ce"
+  },
+  "sk-magic": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c78d5600302f30e9"
+  },
+  "winia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00a7e4570c362728"
+  },
+  "cheongho-nais": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e0519b2c7519dfa8"
+  },
+  "sempio": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c66b258c2f643002"
+  },
+  "crown-confectionery": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "279ce4365a9d91bb"
+  },
+  "spc-samlip": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d0e222318ec4bfbc"
+  },
+  "hy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4eb5dd164f882b2c"
+  },
+  "sajo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "29cee78a5c4d4099"
+  },
+  "neowiz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e7efc77fec354154"
+  },
+  "lionheart-studio": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d415d529fb04fd3b"
+  },
+  "nhn": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "822d531c2065d1e2"
+  },
+  "zigbang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7311838c2d5d4236"
+  },
+  "muhak": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "196490dcd5fa2911"
+  },
+  "bohae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dc88afcaec368834"
+  },
+  "kooksoondang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "47a892dfe9a6f85b"
+  },
+  "woongjin-food": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6e91845b8faf5247"
+  },
+  "donga-otsuka": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a8cb07fd2bc7b2fd"
+  },
+  "kumho-petrochemical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cce481614c3b9f32"
+  },
+  "oci": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "471f179a1f621aee"
+  },
+  "kolon-industries": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fb148dfc2464314b"
+  },
+  "hyosung-tnc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d3cf45193a777dee"
+  },
+  "hansol-chemical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7b357c25f9506919"
+  },
+  "woori-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8c8139e5a368ee97"
+  },
+  "nh-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a4d3af421ec86237"
+  },
+  "kb-securities": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb78190118863508"
+  },
+  "hanwha-life": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2670378691f45acb"
+  },
+  "citibank-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "97efb91914524a97"
+  },
+  "emart24": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3d535033e1d44cfa"
+  },
+  "no-brand": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "768ac1e4840501ff"
+  },
+  "hollys": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7aacdae3cc3e5247"
+  },
+  "angelinus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c2f8f2250db59376"
+  },
+  "paiks-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ec6b16a1ab158575"
+  },
+  "doubleu-games": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3e300ab168849787"
+  },
+  "com2us-holdings": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b7321fac2723e358"
+  },
+  "jyp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8b9b5de2f01fb4ee"
+  },
+  "douzone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4cb7e8a2c29707b0"
+  },
+  "etude": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8dc7102bca276f67"
+  },
+  "dr-g": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9e85e8ec5af1444d"
+  },
+  "abib": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9f95757f130e4791"
+  },
+  "viva-republica": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "65e3a1a95b845ae3"
+  },
+  "seokbong-toast": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c4176bd167cd7e1"
+  },
+  "isaac-toast": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "369f3de2367892d5"
+  },
+  "hansot": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "232a736c7fc56b02"
+  },
+  "bonjuk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0940dbeaf13e6936"
+  },
+  "gimbap-cheonguk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "736fb66738b05666"
+  },
+  "sinjeon-tteokbokki": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d9332ee81d0bafb"
+  },
+  "cheongnyeon-dabang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "540efe50c2040c1c"
+  },
+  "mega-mgc-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7325fa60aa2271c3"
+  },
+  "knotted": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2a926da83dc812a9"
+  },
+  "london-bagel-museum": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d87e07e76b8d2d09"
+  },
+  "myeongryun-jinsa-galbi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4ea7093fc28f1bb8"
+  },
+  "theborn-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a5607aff8f47e542"
+  },
+  "hanmi-semiconductor": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39e9a9ad01b9338c"
+  },
+  "leeno-industrial": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e88296e7a794190e"
+  },
+  "soulbrain": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1874196f127e6b85"
+  },
+  "dongjin-semichem": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "495d3a81c9a0c036"
+  },
+  "koh-young": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "52d6328d83c541a8"
+  },
+  "park-systems": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8187099de82ed986"
+  },
+  "jusung-engineering": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7fec307f758e08df"
+  },
+  "wonik-ips": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6f227fb37edc9f81"
+  },
+  "sfa-engineering": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b6fb7981a01a1c65"
+  },
+  "classys": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3fbd0d7bce297f96"
+  },
+  "dentium": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "99f91b346e98b710"
+  },
+  "vatech": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b76de579a591454f"
+  },
+  "sungsimdang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a665e735fee740fb"
+  },
+  "lee-sung-dang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "faae710d747ab4b9"
+  },
+  "taegeukdang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d6d04fbaecb2732f"
+  },
+  "dong-wha-pharm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b87f726fd58596ab"
+  },
+  "osulloc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b567ec865fe3ff21"
+  },
+  "cheong-kwan-jang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2dd8d89ecc1fd315"
+  },
+  "malpyo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e1b2b1c9061f7c44"
+  },
+  "monami": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0d9217585e07af10"
+  },
+  "young-toys": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b1acfd4ffdcb88c8"
+  },
+  "samhwa-paints": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3981caa66aa59cec"
+  },
+  "noroo-paint": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "555163c38b2136eb"
+  },
+  "seoul-milk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d8c57184b6e29439"
+  },
+  "29cm": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3ee73a4ac15a036c"
+  },
+  "wisely": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ceeb29d67681655a"
+  },
+  "sidiz": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aa410b36861fbed8"
+  },
+  "lock-n-lock": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3a4964c456bdcf9d"
+  },
+  "samjin-fishcake": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "931808eb75d093b7"
+  },
+  "toun28": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9381ec4f89dbb29a"
+  },
+  "fritz-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f765acc6255e571b"
+  },
+  "terarosa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "622d7095c80e1cd8"
+  },
+  "jeongyukgak": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7759d53017204bbc"
+  },
+  "mobetterworks": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "67712439f80d3510"
+  },
+  "ohlollyday": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "43f826de463a40cd"
+  },
+  "mardi-mercredi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "da7655d0d484c469"
+  },
+  "covernat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e211bf9689fc9e23"
+  },
+  "jobis-villains": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9ab161753f2910a5"
+  },
+  "woongjin-thinkbig": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0f229ddcabe9853e"
+  },
+  "gong-cha-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1bedc8a4af0fe877"
+  },
+  "caffe-bene": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b5db6a7b7dcfee1b"
+  },
+  "dong-a-pharmaceutical-hwal-myung-su": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c5728c498d5c1ae3"
+  },
+  "korea-yakult-hy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "be8f7319f03733fe"
+  },
+  "binggrae-banana-flavored-milk": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d0df621ebf206174"
+  },
+  "haechandle": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2b5521dd5488644d"
+  },
+  "chungjungone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e033fc6dba33da7d"
+  },
+  "jongga": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80aca598436123e5"
+  },
+  "dongwon-tuna": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9cdfb1fbc3d2c14d"
+  },
+  "harim": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "788940e43615e8c4"
+  },
+  "sajo-daelim": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1064089b62db836a"
+  },
+  "yuhan-kimberly": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d252b32039932545"
+  },
+  "beautiful-store": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28f0e0e0ac42eb86"
+  },
+  "hansae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6b803741c92d99f7"
+  },
+  "shinwon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9e5d245a392d567e"
+  },
+  "bunjang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "20a4521469e3bdd5"
+  },
+  "coupang-eats": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8168149bff0b12ca"
+  },
+  "changbi-publishers": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cd1f258ad1a4f75f"
+  },
+  "sisa-in": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8d0c13ec233bf72c"
+  },
+  "kakaopage": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2c0d902a1ac3da64"
+  },
+  "melon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "76cfc1fa8841d0cb"
+  },
+  "tada": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "80f1c9cc6d683813"
+  },
+  "kakao-t": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "84d65e8190f06c83"
+  },
+  "hansalim": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ea04aff63cfb29e3"
+  },
+  "icoop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e482b9107630297a"
+  },
+  "doosohn-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e6330b3ff6704788"
+  },
+  "almang-market": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "56ff211b7a3a72c4"
+  },
+  "happynarae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2d65e8907bf19d08"
+  },
+  "line-friends": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c31a7b805e2e1ac2"
+  },
+  "k-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6f5e558f5b801a06"
+  },
+  "dabang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d04f12eebfa75f42"
+  },
+  "stayfolio": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1eca7f1c6e4bdd0d"
+  },
+  "gs-the-fresh": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78fb15f45c5249b9"
+  },
+  "hollys-coffee": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fa705dc367480878"
+  },
+  "cu-bgf-retail": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7dd71b868f4b203e"
+  },
+  "costco-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0bfb6a826be3d202"
+  },
+  "naver-shopping": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5f57d9815e26d8c3"
+  },
+  "kream": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5e82b08ec097831b"
+  },
+  "hyundai-card": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3353de6b7544af83"
+  },
+  "everland": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "59126292ce2429cc"
+  },
+  "lotte-world": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "88cca4190507f6d7"
+  },
+  "cgv": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "06108f0e88a9bac1"
+  },
+  "lotte-confectionery": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "502551279623b5a7"
+  },
+  "ibk-industrial-bank-of-korea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d75d53c09570ede8"
+  },
+  "shinhan-card": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "25d868f31a60c245"
+  },
+  "seoul-auction": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f13cf233ff245c15"
+  },
+  "k-auction": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb5c2e9a1ba61774"
+  },
+  "seoul-arts-center": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "08cdcdaf520448fa"
+  },
+  "national-museum-of-modern-and-contemporary-art-korea-mmca": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "24d1746047d7a72d"
+  },
+  "millie-s-library": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "43945d7d6da95773"
+  },
+  "hancom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "aab5599800c588ab"
+  },
+  "chong-kun-dang-health": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "48510627e341f0ba"
+  },
+  "megastudy": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "88e25756535e8c91"
+  },
+  "st-unitas": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d5d3b6ec6cc7978"
+  },
+  "red-pen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1af8c229669eac2a"
+  },
+  "noonnoppi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "41acd70a10b1b949"
+  },
+  "eduwill": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c30227c8d7ecf1e1"
+  },
+  "etoos": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ca89f329793531d6"
+  },
+  "chunjae-education": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a1011e0eee3c0cc9"
+  },
+  "didimdol": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9ed89bad65d59897"
+  },
+  "jongro-hakwon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6b3b41a623aca12b"
+  },
+  "visang-education": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c77f2e1414f12472"
+  },
+  "i-scream-edu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dbfbf5fa2e16d70b"
+  },
+  "milk-t": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5c2b77fcfbf093a6"
+  },
+  "wise-camp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "033a7a1a644f0681"
+  },
+  "yoon-s-english": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a85deeeb3ca6a48e"
+  },
+  "haebup-math": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3fc912e8bc7f6494"
+  },
+  "study-max": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f12ff2d3b61586e9"
+  },
+  "gongsin-study-god": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d1f302b9061d5d9"
+  },
+  "hansol-education": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "34cd074d205ea90c"
+  },
+  "tuntun-english": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a6d678e14b61b7ac"
+  },
+  "anheung-jjinppang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "710e0eb1817736d5"
+  },
+  "jaws-tteokbokki": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1dd6843701c6bb32"
+  },
+  "won-halmoni-bossam": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0fef3ec13d81134a"
+  },
+  "hong-rui-zhen": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "de6b8cec4026af9f"
+  },
+  "nene-chicken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a064869b8480b167"
+  },
+  "goobne-chicken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d747f61825a168c"
+  },
+  "chegajip-yangnyeom-chicken": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "59bb08b224975448"
+  },
+  "tom-n-toms": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b2dad179978106cb"
+  },
+  "theventi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "97e56aca71f0d218"
+  },
+  "myungrang-hotdog": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0f7ac1c0758477ec"
+  },
+  "ddukki-tteokbokki": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4016685d981f4089"
+  },
+  "sulbing": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5d9bf112bf3c46b4"
+  },
+  "bonggu-s-bapburger": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d1876549818c7c9f"
+  },
+  "bokeumjari": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6e698b1d5895bfda"
+  },
+  "muhak-2": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "764c13805c0e3a8d"
+  },
+  "keumbokju": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "159dbd72cfd377e7"
+  },
+  "chorokmaeul": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a197368b81f54853"
+  },
+  "nolboo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "99457133de866795"
+  },
+  "dong-a-pencil": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e15f9e52e2d1e424"
+  },
+  "alpha": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6a5e74fd3ce682c5"
+  },
+  "morning-glory": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66c5ac78ebced3c5"
+  },
+  "kleannara": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "592ed4d5c44b4c3a"
+  },
+  "ssangbangwool": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6987b3a3e414f18a"
+  },
+  "byc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d9252d6bb95b537d"
+  },
+  "bullsone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6d294d79c6168095"
+  },
+  "dong-kook-pharmaceutical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "74009a5787d454ea"
+  },
+  "boryung-pharmaceutical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "470f3573d58a62cf"
+  },
+  "gc-green-cross": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "320c7f315d4d61e1"
+  },
+  "ildong-pharmaceutical": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f655f67977d86b9c"
+  },
+  "cosrx-2": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e6dd95aba991f0b8"
+  },
+  "a-pieu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "66c624c77c21a31f"
+  },
+  "apr": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d925201242a55878"
+  },
+  "hyungji": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7566718b51d10311"
+  },
+  "sejung": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6671bddb13ebc809"
+  },
+  "trekstar": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "7c5f03011b3e3293"
+  },
+  "kolon-fnc": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4475f64ef354286a"
+  },
+  "8-seconds": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "11a85ba703a10974"
+  },
+  "beanpole": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c12d16d76f16030c"
+  },
+  "jobkorea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "c061d56a7fdc624f"
+  },
+  "saramin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f10593da9d23b494"
+  },
+  "myrealtrip": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "cad9180a47dbb4ed"
+  },
+  "ridi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8736428581f759ac"
+  },
+  "banksalad": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "54138739945e4459"
+  },
+  "ably": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "eede06ee829857bd"
+  },
+  "wanted": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "39b018dc62005b58"
+  },
+  "gangnam-unni": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bb35ae0477ce2868"
+  },
+  "doctornow": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b388a9bc618a51dd"
+  },
+  "wemakeprice": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2251c68f91be1bb5"
+  },
+  "tmon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78e1975ec62831a4"
+  },
+  "gmarket": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e16f8f31f1572acd"
+  },
+  "11st": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ba653c2e94edce38"
+  },
+  "ssg-com": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0bf637324a47205e"
+  },
+  "yogiyo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b40073559d79a4e8"
+  },
+  "bithumb": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6e7362ba89d29464"
+  },
+  "minumsa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "61c9cf6a7480f016"
+  },
+  "munhakdongne": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4a462c292e7846d5"
+  },
+  "gimm-young-publishers": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28ee1e6f0260ecb8"
+  },
+  "aladin": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a3e41faf676eb22e"
+  },
+  "yes24": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "929357ff8cacf167"
+  },
+  "youngpoong-bookstore": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a11f96dc4fa3f628"
+  },
+  "iconix-entertainment": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6be23109cf787c61"
+  },
+  "watcha": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f7cf64d20c7923a1"
+  },
+  "hana-tour": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "03e20485cfd13bae"
+  },
+  "mode-tour": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e78413d52c0e723e"
+  },
+  "yellow-balloon-tour": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fae89bef49b163ff"
+  },
+  "yeogi-eottae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "199dd39904f7a60b"
+  },
+  "air-seoul": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ace949ab6553ebb6"
+  },
+  "kickgoing": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b42db737ce487a0f"
+  },
+  "hanssem": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "81fdfda1b161714d"
+  },
+  "hyundai-livart": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6c9cff8ebd2f6480"
+  },
+  "enex": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8cf709bebb010245"
+  },
+  "fursys": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f8d12d4915d422ad"
+  },
+  "iloom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1682a2f8ef5e0283"
+  },
+  "casamia": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9eb64e427f2e24ef"
+  },
+  "winia-dimchae": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "efed0257fd24259a"
+  },
+  "tree-planet": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8cecd8790a6f870b"
+  },
+  "noridan": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d3c33df709969d5c"
+  },
+  "fair-trade-shop": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9792cbaabe8a4729"
+  },
+  "social-solidarity-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b1eb72addc0a9d27"
+  },
+  "oimu": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "acbe1e797ed1f4a4"
+  },
+  "ganghwa-seom-ssal": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "361fd4658636ac82"
+  },
+  "hoengseong-hanwoo-cooperative": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fbe43744a1757ca2"
+  },
+  "jeju-samdasoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "4c9c2a2245b77624"
+  },
+  "hallasan-soju": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f05542c9f1ca74e8"
+  },
+  "boseong-green-tea": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "51ec760dba58c46d"
+  },
+  "bongpyeong-buckwheat": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "09ae4a8f4241566b"
+  },
+  "chuncheon-dakgalbi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "fdc0d9885aedecc2"
+  },
+  "jeonju-bibimbap": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9597dd1181838c13"
+  },
+  "naju-gomtang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ae93b40871b7cffe"
+  },
+  "hongseong-hanwoo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "710e1f6943df3c69"
+  },
+  "fitpet": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ddd8a4745ee13b2b"
+  },
+  "dr-dory": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "af393a168a78fad1"
+  },
+  "bite-me": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5c54c35b5dc0de9c"
+  },
+  "aboutpet": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e72de7eefa7a946f"
+  },
+  "kakao-friends": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a55aedea3fec6abe"
+  },
+  "pororo-park": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a12a4ed317fa7ac2"
+  },
+  "agabang-and-company": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "f80d3ca1547bdc8d"
+  },
+  "boryung-medience": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "dd6b7eb0270ce138"
+  },
+  "finda": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5bb409c1f9f5fa84"
+  },
+  "8percent": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "28191c4627fdb050"
+  },
+  "mirae-asset": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "89d51dcabfb51467"
+  },
+  "crowdworks": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a0776baf281d7391"
+  },
+  "ud-dental": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ab6e5264abfe3e76"
+  },
+  "gangnam-peter-hospital": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9d7b73a82a4423f4"
+  },
+  "cha-medical-group-cha-hospital": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "85ddc0b8aa38314f"
+  },
+  "miso-dental": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "8708260a40bf025d"
+  },
+  "mega-md": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "79005db6c9dc5f67"
+  },
+  "gs-xi": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a50c8c15d43c9a0e"
+  },
+  "e-pyeonhansesang": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ce86f952c79eeb33"
+  },
+  "raemian": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9463593264758a1e"
+  },
+  "hillstate": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6320a255e6a2eba0"
+  },
+  "prugio": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ddea67900d1675bf"
+  },
+  "r114": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "132d936ee74f486f"
+  },
+  "oasis-market": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b3bc7e782f3bb453"
+  },
+  "megabox": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "11de0bfa151b748c"
+  },
+  "golfzon": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a696cbc1e624ca44"
+  },
+  "hanil-electric": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "9c82f27f0e0e9f36"
+  },
+  "shinil-industrial": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "e6b46d2758b5ff17"
+  },
+  "bodyfriend": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "85e12b426b9381ff"
+  },
+  "ceragem": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6ede609d08006210"
+  },
+  "hurom": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "26b9d35ab1e36b34"
+  },
+  "lotte-chilsung-beverage": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "feed805eb2bc570b"
+  },
+  "welcome-savings-bank": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "78cf7d6c29e051b4"
+  },
+  "korea-post-insurance": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "1fbe9ebf45a79a09"
+  },
+  "samsung-card": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "0d780aa8e24ab9bd"
+  },
+  "startup-alliance": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "00ee686cce740f0b"
+  },
+  "d-camp": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ad4643e35b9bcbbc"
+  },
+  "korea-creative-content-agency-kocca": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "2631dc4006241e6b"
+  },
+  "hyundai-card-dive": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "ef547657119b3e9f"
+  },
+  "art-chosun": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "46aff4577196814d"
+  },
+  "jeju-museum-of-art": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "bee20638a5d8ad6f"
+  },
+  "book-11st": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "5233ee4dfd7e038e"
+  },
+  "welaaa": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "33d231b2c9883277"
+  },
+  "polaris-office": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6707754e9bc02ba3"
+  },
+  "inktec": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "70dbe4b75a921814"
+  },
+  "coreana-cosmetics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "27a1560270028ed5"
+  },
+  "charmzone": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "d585f0f39aac3cb5"
+  },
+  "somang-cosmetics": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "6d2d84ff19c361a1"
+  },
+  "enprani": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "3a65c22771cea896"
+  },
+  "natural-plus": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "b0b5ae69b0eaf310"
+  },
+  "cj-wellcare": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "a78ef7fed8e9337f"
+  },
+  "daehan-flour-mills-gompyo": {
+   "published": "2026-08-15",
+   "modified": "2026-09-01",
+   "hash": "94d41615dde7ee4f"
+  }
+ }
+}

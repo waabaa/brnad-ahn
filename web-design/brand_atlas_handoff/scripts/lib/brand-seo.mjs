@@ -15,10 +15,16 @@ const KO_EN_LEAD = /^([가-힣][가-힣A-Za-z0-9·&'’\s.\-]*?)\s*\(([^)]{1,60}
 // "노스페이스는 1966년 …" (괄호 없는 한글 리드)
 const KO_LEAD = /^([가-힣][가-힣A-Za-z0-9·&'’\s.\-]{0,30}?)\s*(?:는|은|이|가)\s/;
 
+// "토스(TOUS)"처럼 name에 원어가 괄호로 붙어 있는 레코드가 있다. 그대로 두면
+// displayName이 "토스(TOUS)(TOUS)"를 만든다. 괄호 안이 원어일 때만 떼어낸다.
+function stripLatinParen(value) {
+  return String(value).replace(/\s*\(([^)]*)\)\s*$/, (m, inner) => HANGUL.test(inner) ? m : "").trim();
+}
+
 /** 데이터로 확인되는 한글 표기. 없으면 null (음차 생성 금지). */
 export function koreanName(brand) {
-  if (HANGUL.test(String(brand.name || ""))) return String(brand.name).trim();
-  if (HANGUL.test(String(brand.nameKo || ""))) return String(brand.nameKo).trim();
+  if (HANGUL.test(String(brand.name || ""))) return stripLatinParen(brand.name);
+  if (HANGUL.test(String(brand.nameKo || ""))) return stripLatinParen(brand.nameKo);
   const def = String(brand.definition || brand.summary || "");
   const m = KO_EN_LEAD.exec(def);
   if (m) return m[1].trim();
@@ -270,7 +276,7 @@ export function slugifyAscii(s) {
 }
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
-export const CSS_V = "20260815a";
+export const CSS_V = "20260901a";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 한글 전용 브랜드명을 URL slug로 쓸 수 있게 로마자로 옮긴다.

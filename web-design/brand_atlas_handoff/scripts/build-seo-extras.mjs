@@ -301,9 +301,45 @@ function mtime(relPath) {
     return kstDay(Date.now());
   }
 }
+// 이미지 sitemap을 함께 낸다. 이 사이트의 실제 클릭 상당수가 로고·BI/CI 이미지
+// 검색에서 나오는데(네이버 서치어드바이저), sitemap에 이미지가 한 건도 없었다.
 function urlset(entries) {
-  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries.map(([loc, lm]) => `  <url><loc>${loc}</loc><lastmod>${lm}</lastmod></url>`).join("\n")}\n</urlset>\n`;
+  const hasImages = entries.some(([, , imgs]) => imgs && imgs.length);
+  const ns = hasImages ? ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"' : "";
+  const body = entries.map(([loc, lm, imgs]) => {
+    const images = (imgs || []).map(({ url, title }) =>
+      `\n    <image:image><image:loc>${esc(url)}</image:loc><image:title>${esc(title)}</image:title></image:image>`).join("");
+    return `  <url><loc>${loc}</loc><lastmod>${lm}</lastmod>${images}${images ? "\n  " : ""}</url>`;
+  }).join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${ns}>\n${body}\n</urlset>\n`;
 }
+
+/** 브랜드 페이지에 실제로 실리는 이미지 — 대표 이미지·로고·BI/CI 앞 2건. */
+function brandImages(b) {
+  const abs = (src) => {
+    const clean = String(src || "").replace(/^\.\.\//, "").replaceAll("\\", "/");
+    if (!clean || clean.includes("brand_atlas_logo_mark")) return null;
+    // 외부 호스트(위키미디어 등) 이미지는 넣지 않는다. 이미지 sitemap은 소유가
+    // 확인된 도메인의 이미지만 유효하고, 남의 도메인 URL을 넣으면 무시된다.
+    if (/^https?:\/\//.test(clean)) return clean.startsWith(`${ORIGIN}/`) ? clean : null;
+    return `${ORIGIN}/${clean}`;
+  };
+  const name = displayName(b);
+  const out = new Map();
+  const push = (src, title) => { const u = abs(src); if (u && !out.has(u)) out.set(u, { url: u, title }); };
+  push(b.image, `${name} 브랜드 이미지`);
+  push(b.logo, `${name} 로고`);
+  for (const item of (Array.isArray(b.logoHistory) ? b.logoHistory : []).slice(0, 2)) {
+    push(item && item.src, `${name} ${(item && item.label) || "BI/CI"}`);
+  }
+  return [...out.values()].slice(0, 4);
+}
+
+/** dateModified(신선도 원장)와 sitemap lastmod를 같은 값으로 맞춘다. */
+const pageDateLedger = (() => {
+  try { return JSON.parse(fs.readFileSync(path.join(ROOT, "reports", "page-dates.json"), "utf8")).pages || {}; }
+  catch { return {}; }
+})();
 
 const hubEntries = [
   ["/", "index.html"],
@@ -331,7 +367,12 @@ const thinReport = (() => {
 const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
 const brandEntries = indexable.map(b => {
   const slug = urlSlugOf(b);
-  return [`${ORIGIN}/brand/${encodeURIComponent(slug)}.html`, mtime(`brand/${slug}.html`)];
+  const led = pageDateLedger[slug];
+  return [
+    `${ORIGIN}/brand/${encodeURIComponent(slug)}.html`,
+    (led && led.modified) || mtime(`brand/${slug}.html`),
+    brandImages(b),
+  ];
 });
 
 const CHUNK = 1000;
@@ -377,6 +418,75 @@ ${items}
 </rss>
 `);
   console.log(`rss.xml: ${ranked.length} items`);
+}
+
+// ─── 8) robots.txt — AI 크롤러 명시 ────────────────────────────────────────
+// 구글은 llms.txt 같은 AI 전용 파일이 검색 순위·노출에 영향을 주지 않는다고 명시했다.
+// 여기서 AI 크롤러를 명시하는 것은 순위 목적이 아니라, 기본 규칙만 있을 때 보수적으로
+// 판단하는 크롤러(GPTBot·ClaudeBot·PerplexityBot 등)의 접근을 확실히 열어두기 위한 것이다.
+{
+  const AI_AGENTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "anthropic-ai", "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "meta-externalagent"];
+  const sitemaps = [`${ORIGIN}/sitemap.xml`, ...files.map(f => `${ORIGIN}/${f}`)];
+  const robots = [
+    "User-agent: *",
+    "Allow: /",
+    "",
+    "# 네이버 Yeti·구글봇은 전체 허용(별도 제한 없음)",
+    "User-agent: Yeti",
+    "Allow: /",
+    "",
+    "User-agent: Googlebot",
+    "Allow: /",
+    "",
+    "# AI 검색 크롤러 — 인용 노출을 위해 명시적으로 허용한다",
+    ...AI_AGENTS.flatMap(a => [`User-agent: ${a}`, "Allow: /", ""]),
+    ...sitemaps.map(u => `Sitemap: ${u}`),
+    "",
+  ].join("\n");
+  writeIfChanged(path.join(ROOT, "robots.txt"), robots);
+  console.log(`robots.txt: AI 크롤러 ${AI_AGENTS.length}종 명시, sitemap ${sitemaps.length}건`);
+}
+
+// ─── 9) llms.txt ───────────────────────────────────────────────────────────
+// 구글 검색에는 영향이 없다(공식 문서). 다른 AI 시스템이 사이트 구조를 파악할 때
+// 쓰라고 두는 안내 파일이며, 여기 적는 수치는 전부 실제 집계값이다.
+{
+  const top = [...indexable]
+    .sort((a, b) => (b.displayPriority || 0) - (a.displayPriority || 0) || (b.rating || 0) - (a.rating || 0))
+    .slice(0, 60);
+  const lines = [
+    "# 브랜드 아틀라스 (Brand Atlas)",
+    "> 브랜드의 설립 배경, 브랜드 아이덴티티, BI/CI 변천, 제품과 서비스, 현재 상태를 정리한 한국어 브랜드 사전입니다.",
+    `> 수록 브랜드 ${total}개, 색인 대상 ${indexable.length}개. 운영 브랜드성장연구소 아키타이포스.`,
+    "",
+    "## 데이터 원칙",
+    "- 브랜드명은 한글과 원어를 함께 표기합니다. 데이터에 없는 표기는 만들지 않습니다.",
+    "- 기원 국가·설립연도는 사람이 검수한 정의문에서 확인된 경우에만 표기합니다.",
+    `- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 ${BRANDS.filter(b => b.entityLinks).length}개 브랜드에만 붙어 있습니다.`,
+    "",
+    "## 허브",
+    `- [전체 브랜드 목록](${ORIGIN}/pages/brands.html): ${total}개 브랜드 색인`,
+    `- [산업별 탐색](${ORIGIN}/pages/industry.html): 산업 분류 진입점`,
+    `- [브랜드 인사이트](${ORIGIN}/pages/insights.html): 브랜드별 관점 글 모음`,
+    `- [타임라인](${ORIGIN}/pages/timeline.html): 연도별 브랜드 사건`,
+    `- [BI/CI 아카이브](${ORIGIN}/pages/bici.html): 로고·아이덴티티 변천`,
+    "",
+    "## 산업 카테고리",
+    ...industryGroups.map(([slug, g]) => `- [${g.label}](${ORIGIN}/category/${slug}.html): ${g.items.length}개 브랜드`),
+    "",
+    "## 기원 국가",
+    ...countryGroups.map(([c, arr]) => `- [${c}](${ORIGIN}/country/${COUNTRY_SLUG[c]}.html): ${arr.length}개 브랜드`),
+    "",
+    "## 주요 브랜드",
+    ...top.map(b => `- [${displayName(b)}](${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html): ${String(b.definition || b.summary || "").replace(/\s+/g, " ").slice(0, 120)}`),
+    "",
+    "## 기타",
+    `- [RSS](${ORIGIN}/rss.xml): 최근 갱신 100건`,
+    `- [사이트맵](${ORIGIN}/sitemap.xml)`,
+    "",
+  ];
+  writeIfChanged(path.join(ROOT, "llms.txt"), lines.join("\n"));
+  console.log(`llms.txt: 허브 ${industryGroups.length + countryGroups.length}건 + 주요 브랜드 ${top.length}건`);
 }
 
 console.log(`\ncssV=${CSS_V} — styles.css 캐시버스터 확인 필요`);

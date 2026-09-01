@@ -9,6 +9,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import {
   buildTitle, buildDescription, buildFaq, headingMarkup, koreanName, latinName, displayName,
@@ -53,7 +54,6 @@ sandbox.header = (active = "") => {
     ["브랜드 사전", "../index.html"],
     ["전체 브랜드", "../pages/brands.html"],
     ["산업별 탐색", "../pages/industry.html"],
-    ["브랜드 매거진", "../pages/brand-artemio.html"],
     ["브랜드 인사이트", "../pages/insights.html"],
     ["타임라인", "../pages/timeline.html"],
     ["BI/CI 아카이브", "../pages/bici.html"],
@@ -70,13 +70,21 @@ const short = sandbox.short || ((t, n) => String(t || "").slice(0, n));
 const asset = sandbox.asset;
 const renderBrandMagazine = sandbox.renderBrandMagazine;
 
+// 운영 주체. 페이지마다 반복 선언하지 않도록 상수로 둔다.
+const PUBLISHER = {
+  "@type": "Organization",
+  name: "브랜드성장연구소 아키타이포스",
+  url: `${ORIGIN}/`,
+  logo: { "@type": "ImageObject", url: `${ORIGIN}/assets/objects/archetypos_logo.png`, width: 284, height: 66 },
+};
+
 function absAsset(src) {
   // brand.image like "images/..."/"assets/..." → absolute for OG
   const a = asset(src).replace(/^\.\.\//, "");
   return /^https?:\/\//.test(a) ? a : `${ORIGIN}/${a}`;
 }
 
-function jsonLd(brand, faq) {
+function jsonLd(brand, faq, dates) {
   const url = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(brand))}.html`;
   const facts = brand.facts || {};
   const year = foundedYear(brand);
@@ -92,6 +100,7 @@ function jsonLd(brand, faq) {
 
   const org = {
     "@type": "Organization",
+    "@id": `${url}#brand`,
     name: primary,
     alternateName: alternates.length ? (alternates.length === 1 ? alternates[0] : alternates) : undefined,
     description: short(`${brand.definition || brand.summary || ""}`, 200) || undefined,
@@ -101,16 +110,39 @@ function jsonLd(brand, faq) {
     // 모기업 창업연도가 섞여 있어(2026-08 감사) 근거로 쓰지 않는다.
     foundingDate: year ? String(year) : undefined,
     foundingLocation: country ? { "@type": "Place", name: country } : undefined,
+    // sameAs는 Wikidata P856(공식 웹사이트) 완전 일치 + 조직·브랜드 개체 확인분만
+    // 싣는다. 이름 유사도로 붙이면 동명 개체를 이 브랜드라고 선언하게 된다
+    // (scripts/enrich-wikidata-entity-links.mjs 주석 참조).
+    sameAs: brand.entityLinks?.sameAs?.length ? brand.entityLinks.sameAs : undefined,
   };
+  const categoryUrl = brand.domainSlug
+    ? `${ORIGIN}/category/${brand.domainSlug}.html`
+    : `${ORIGIN}/pages/industry.html`;
   const breadcrumb = {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "브랜드 사전", item: `${ORIGIN}/` },
-      { "@type": "ListItem", position: 2, name: brand.industry || "산업", item: `${ORIGIN}/pages/industry.html` },
+      { "@type": "ListItem", position: 2, name: brand.industry || "산업", item: categoryUrl },
       { "@type": "ListItem", position: 3, name: primary, item: url },
     ],
   };
-  const graph = [org, breadcrumb];
+  // Article — 발행/수정일과 발행 주체를 명시한다. 두 값이 없으면 검색엔진도 AI도
+  // 이 페이지의 최신성을 판단할 근거가 없다.
+  const article = {
+    "@type": "Article",
+    headline: short(buildTitle(brand), 110),
+    description: buildDescription(brand),
+    image: absAsset(brand.image),
+    inLanguage: "ko-KR",
+    datePublished: dates.published,
+    dateModified: dates.modified,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    about: { "@id": `${url}#brand` },
+    isPartOf: { "@type": "WebSite", name: "브랜드 아틀라스", url: `${ORIGIN}/` },
+    author: PUBLISHER,
+    publisher: PUBLISHER,
+  };
+  const graph = [org, article, breadcrumb];
   if (faq && faq.length >= 2) {
     graph.push({
       "@type": "FAQPage",
@@ -125,6 +157,49 @@ function jsonLd(brand, faq) {
 }
 
 // 렌더된 본문(헤더/푸터/관련 브랜드 제외) 기준 thin 임계. 실제 페이지에 실리는 글자 수다.
+// ─── 신선도 원장 ────────────────────────────────────────────────────────────
+// AI 검색·일반 검색 모두 최신성을 인용 조건으로 쓰는데(3개월 이내 콘텐츠 인용률
+// 약 3배, SE Ranking), 이 사이트에는 dateModified가 한 건도 없었다.
+//
+// 매 빌드마다 오늘 날짜를 찍으면 거짓 신선도 신호가 된다(sitemap lastmod에
+// writeIfChanged를 둔 것과 같은 이유). 그래서 렌더 본문의 해시를 원장에 남기고,
+// 해시가 바뀐 페이지의 dateModified만 갱신한다. 최초 1회는 이미 배포된
+// brand/<slug>.html의 mtime을 실제 최종 변경일로 삼아 원장을 시딩한다.
+const DATES_PATH = path.join(ROOT, "reports", "page-dates.json");
+const TODAY = new Date().toISOString().slice(0, 10);
+let dateLedger = { version: 1, pages: {} };
+try { dateLedger = JSON.parse(fs.readFileSync(DATES_PATH, "utf8")); } catch { /* 최초 실행 */ }
+dateLedger.pages = dateLedger.pages || {};
+
+const contentHash = (text) => crypto.createHash("sha1").update(text).digest("hex").slice(0, 16);
+
+/** 이미 배포된 파일에서 본문만 떼어내 해시한다 — 원장이 없거나 유실돼도 판정이 가능하다. */
+function deployedBodyHash(slug) {
+  let html;
+  try { html = fs.readFileSync(path.join(ROOT, "brand", `${slug}.html`), "utf8"); } catch { return null; }
+  const m = /<div id="brandPage">([\s\S]*)<\/div><footer/.exec(html);
+  if (!m) return null;
+  // 날짜 줄 자체는 비교 대상에서 뺀다(그것 때문에 "바뀜"으로 판정되면 매주 갱신된다).
+  return contentHash(m[1].replace(/<p class="page-updated">[\s\S]*?<\/p>/, ""));
+}
+
+function fileDate(slug) {
+  try { return fs.statSync(path.join(ROOT, "brand", `${slug}.html`)).mtime.toISOString().slice(0, 10); }
+  catch { return TODAY; }
+}
+
+function pageDates(slug, hash) {
+  const prev = dateLedger.pages[slug] || {};
+  const seed = fileDate(slug);
+  const published = prev.published || seed;
+  const before = prev.hash || deployedBodyHash(slug);
+  const modified = before && before === hash ? (prev.modified || seed) : TODAY;
+  dateLedger.pages[slug] = { published, modified, hash };
+  return dateLedger.pages[slug];
+}
+
+const koDate = (iso) => { const [y, m, d] = iso.split("-"); return `${y}년 ${Number(m)}월 ${Number(d)}일`; };
+
 const RENDERED_THIN_THRESHOLD = 700;
 const renderedLen = new Map();
 
@@ -182,7 +257,7 @@ function pageHtml(brand) {
   const desc = buildDescription(brand);
   const faq = buildFaq(brand);
   const ogImg = absAsset(brand.image);
-  const headerHtml = sandbox.header("브랜드 매거진");
+  const headerHtml = sandbox.header("전체 브랜드");
 
   let bodyHtml = renderBrandMagazine(brand);
 
@@ -209,13 +284,21 @@ function pageHtml(brand) {
 
   // 색인 판정은 실제로 발행되는 본문 기준이다. sections 원문 길이만 보면 FAQ·개요
   // 폴백이 더해진 최종 페이지를 과소평가해 리바이스 같은 브랜드까지 색인에서 빠진다.
+  // 신선도: 본문 해시가 바뀐 페이지만 dateModified를 갱신한다(거짓 신선도 차단).
+  const dates = pageDates(urlSlugOf(brand), contentHash(bodyHtml));
+  const updatedLine = `<p class="page-updated">최종 업데이트 <time datetime="${dates.modified}">${koDate(dates.modified)}</time></p>`;
+  const ratingMark = `<b>${brand.rating} \u2605</b></p>`;
+  bodyHtml = bodyHtml.includes(ratingMark)
+    ? bodyHtml.replace(ratingMark, `<b>${brand.rating} \u2605</b></p>${updatedLine}`)
+    : bodyHtml;
+
   const renderedChars = renderedBodyChars(bodyHtml);
   const dupCanonical = canonicalOverride.get(urlSlugOf(brand));
   const robots = (dupCanonical || renderedChars < RENDERED_THIN_THRESHOLD) ? "noindex,follow" : "index,follow";
   renderedLen.set(urlSlugOf(brand), dupCanonical ? 0 : renderedChars);
   const canonical = dupCanonical || url;
 
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta property="og:image:alt" content="${esc(`${displayName(brand)} 브랜드 이미지`)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq)}</script></head>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta property="og:image:alt" content="${esc(`${displayName(brand)} 브랜드 이미지`)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq, dates)}</script></head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${headerHtml}</div><main id="main-content" class="wrap"><div id="brandPage">${bodyHtml}</div>${SUB_FOOTER}</main></body></html>`;
 }
 
@@ -242,6 +325,11 @@ for (const b of list) {
 console.log(`wrote ${written} pages, ${unchanged} unchanged, ${failed} failed → ${outDir}`);
 
 if (!sampleSlugs) {
+  fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });
+  fs.writeFileSync(DATES_PATH, JSON.stringify(dateLedger, null, 1));
+  const changedToday = Object.values(dateLedger.pages).filter(p => p.modified === TODAY).length;
+  console.log(`page-dates: ${Object.keys(dateLedger.pages).length}건 원장, 오늘 갱신 ${changedToday}건`);
+
   // sitemap은 카테고리·국가 허브까지 알아야 하므로 build-seo-extras.mjs가 만든다.
   // 여기서는 thin(noindex) 판정 결과만 리포트로 남겨 되돌릴 수 있게 한다.
   const thin = BRANDS

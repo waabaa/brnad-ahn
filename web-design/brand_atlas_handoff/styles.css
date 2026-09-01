@@ -108,3 +108,12 @@ body{color:#0f0f0f}.lead,.home-domain-card p,.brand-card p,#brandCards>.brand-ca
 .mag-grid .faq-cell .faq-item h3{font-family:var(--font-serif);font-size:19px;font-weight:700;line-height:1.5;margin:0 0 8px}
 .mag-grid .faq-cell .faq-item p{margin:0;font-size:16px;line-height:1.82;color:var(--ink)}
 @media(max-width:900px){.brand-hero h1 .h1-en{font-size:.34em}.mag-grid .faq-cell .faq-item h3{font-size:17px}}
+
+/* 2026-09 — 가시 breadcrumb(링크)과 최종 업데이트 표기.
+   종전 breadcrumb은 링크 없는 문자열이라 크롤러에게 상향 경로를 주지 못했다. */
+.brand-hero .crumbs{font-size:13px;line-height:1.6;color:var(--muted);margin:0 0 18px;display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}
+.brand-hero .crumbs a{color:var(--muted);text-decoration:none;border-bottom:1px solid transparent}
+.brand-hero .crumbs a:hover{color:var(--ink);border-bottom-color:currentColor}
+.brand-hero .crumbs span{opacity:.5}
+.brand-hero .crumbs b{color:var(--ink);font-weight:500}
+.brand-hero .page-updated{margin:10px 0 0;font-size:13px;color:var(--muted)}

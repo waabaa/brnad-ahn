@@ -44,7 +44,8 @@ function header(active = "") {
     ["브랜드 사전", isPage() ? "../index.html" : "index.html"],
     ["전체 브랜드", pageLink("brands.html")],
     ["산업별 탐색", pageLink("industry.html")],
-    ["브랜드 매거진", pageLink("brand-artemio.html")],
+    // brand-artemio.html(구 SPA 셸, 3.3KB)은 nav에서 뺀다. 전 브랜드 페이지가
+    // 링크하던 탓에 사이트 내부링크 최다 대상이 빈 페이지였다(2026-09 감사).
     ["브랜드 인사이트", pageLink("insights.html")],
     ["타임라인", pageLink("timeline.html")],
     ["BI/CI 아카이브", pageLink("bici.html")],
@@ -292,9 +293,16 @@ function isRealAsset(src) {
 // 모듈이라 코드를 공유할 수 없으니 한쪽을 고치면 다른 쪽도 맞춰야 한다.
 const KO_EN_LEAD_RE = /^([가-힣][가-힣A-Za-z0-9·&'’\s.\-]*?)\s*\(([^)]{1,60})\)\s*(?:는|은|이|가)\s/;
 
+// "토스(TOUS)"처럼 name 자체에 원어가 괄호로 붙어 있는 레코드가 있다. 그대로 두면
+// bilingualName이 원어를 한 번 더 붙여 "토스(TOUS)(TOUS)"가 된다. 괄호 안이 원어일
+// 때만 떼어낸다(한글 부연은 브랜드명의 일부일 수 있으므로 남긴다).
+function stripLatinParen(value) {
+  return String(value).replace(/\s*\(([^)]*)\)\s*$/, (m, inner) => /[가-힣]/.test(inner) ? m : "").trim();
+}
+
 function koreanNameOf(b) {
-  if (/[가-힣]/.test(String(b?.name || ""))) return String(b.name).trim();
-  if (/[가-힣]/.test(String(b?.nameKo || ""))) return String(b.nameKo).trim();
+  if (/[가-힣]/.test(String(b?.name || ""))) return stripLatinParen(b.name);
+  if (/[가-힣]/.test(String(b?.nameKo || ""))) return stripLatinParen(b.nameKo);
   const m = KO_EN_LEAD_RE.exec(String(b?.definition || b?.summary || ""));
   return m ? m[1].trim() : null;
 }
@@ -697,14 +705,35 @@ function timelineItem(t) {
   return `<div><b>${t.year}</b><br><span>${t.brand ? `${t.brand} · ` : ""}${short(t.description, 72)}</span></div>`;
 }
 
+// 연표 텍스트는 스크랩 원문이라 문장 중간에서 끊기는 경우가 많았다("… 3) 가족 경영의 위...").
+// 한도 안에 첫 문장이 들어오면 문장 단위로 끊고, 아니면 어절 경계에서 끊는다.
+function timelineText(text, limit = 110) {
+  const value = cleanPublicText(text).replace(/\s+/g, " ").trim();
+  if (value.length <= limit) return value;
+  const sentence = /^[\s\S]{16,}?(?:다\.|요\.|[.!?])(?=\s|$)/.exec(value);
+  if (sentence && sentence[0].length <= limit) return sentence[0].trim();
+  const cut = value.slice(0, limit);
+  const sp = cut.lastIndexOf(" ");
+  return `${(sp > limit * 0.6 ? cut.slice(0, sp) : cut).trim()}…`;
+}
+
 function timelineRail(items, showBrand = true) {
   const rows = [...(items || [])]
     .filter(t => isSafePublicText(t.description) && Number(t.year) >= 1800 && Number(t.year) <= 2100)
     .sort((a, b) => Number(a.year || 0) - Number(b.year || 0));
-  if (!rows.length) return `<p class="empty-note">정리된 연도형 이벤트가 없습니다.</p>`;
+  // 같은 스크랩 문단이 여러 연도에 그대로 복제된 레코드가 많다(897개 연표 중 426개).
+  // 같은 도입부가 반복되면 첫 항목만 남긴다 — 이후 연도에 붙은 사본은 정보가 없다.
+  const seen = new Set();
+  const unique = rows.filter(t => {
+    const key = cleanPublicText(t.description).replace(/\s+/g, "").slice(0, 40);
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+  if (!unique.length) return `<p class="empty-note">정리된 연도형 이벤트가 없습니다.</p>`;
   // showBrand=false on a single-brand page (the brand is already obvious from context);
   // the global timeline page keeps the prefix to distinguish mixed brands.
-  return `<div class="timeline-rail">${rows.map(t => `<article class="timeline-node"><b>${t.year}</b><span>${showBrand && t.brand ? `${t.brand} · ` : ""}${short(t.description, 110)}</span></article>`).join("")}</div>`;
+  return `<div class="timeline-rail">${unique.map(t => `<article class="timeline-node"><b>${t.year}</b><span>${showBrand && t.brand ? `${t.brand} · ` : ""}${timelineText(t.description, 110)}</span></article>`).join("")}</div>`;
 }
 
 function enableTimelineAutoFlow(container) {
@@ -792,9 +821,19 @@ function logoArchive(brand) {
   if (!items.length || (items.length === 1 && String(items[0].src || "").includes("brand_atlas_logo_mark") && !brand.logo)) {
     return `<p class="empty-note">확인된 BI/CI 이미지가 아직 없습니다.</p>`;
   }
+  // 한 페이지에 같은 캡션·alt가 5개씩 반복되면 이미지 검색에서 서로 구분되지 않는다.
+  // 데이터의 label이 전부 "BI/CI 아카이브"인 레코드가 많아, 이미 쓴 캡션이면 순번을
+  // 덧붙여 변별한다. 없는 사실(연도·출처)을 지어내지는 않는다.
+  const usedLabels = new Set();
+  const distinct = (base, index) => {
+    if (!usedLabels.has(base)) { usedLabels.add(base); return base; }
+    const alt = `${base} ${index}`;
+    usedLabels.add(alt);
+    return alt;
+  };
   return `<div class="logo-archive">${items.map((item, index) => {
-    const label = item.label || (index === 0 ? "대표 로고" : "BI/CI 아카이브");
-    const note = item.year ? `${item.year}` : (index === 0 ? "대표 브랜드 마크" : "BI/CI 아카이브");
+    const label = distinct(item.label || (index === 0 ? "대표 로고" : "BI/CI 아카이브"), index);
+    const note = item.year ? `${item.year}` : (index === 0 ? "대표 브랜드 마크" : `보관 이미지 ${index}`);
     if (item.status === "asset_pending") {
       return `<article class="pending-logo"><div class="logo-text-mark"><strong>${brand.name}</strong><span>BI/CI</span></div><b>${label}</b><span>${note}</span></article>`;
     }
@@ -865,6 +904,16 @@ function applyBrandSeo(brand) {
   script.textContent = JSON.stringify(jsonLd);
 }
 
+// 가시 breadcrumb. 종전에는 링크 없는 `<p>홈 > 브랜드 매거진 > X</p>` 문자열이라
+// ① 크롤러에게 상향 경로를 주지 못했고 ② JSON-LD의 BreadcrumbList(브랜드 사전 >
+// 산업)와 표기가 달랐다. 둘을 일치시키고, 2단을 실제 산업 카테고리 허브로 보낸다.
+function breadcrumbNav(brand) {
+  const prefix = isPage() ? "../" : "";
+  const industry = brand.industry || "산업";
+  const catHref = brand.domainSlug ? `${prefix}category/${brand.domainSlug}.html` : `${prefix}pages/industry.html`;
+  return `<nav class="crumbs" aria-label="현재 위치"><a href="${prefix}index.html">브랜드 사전</a> <span>&gt;</span> <a href="${catHref}">${escapeHtml(industry)}</a> <span>&gt;</span> <b>${escapeHtml(bilingualName(brand))}</b></nav>`;
+}
+
 function renderBrandMagazine(brand) {
   const logo = `<div class="brand-logo-panel${brand.logo ? "" : " is-wordmark"}">${logoMarkup(brand)}</div>`;
   // Only show the hero photo when there's a real photo — not when `image` is just the
@@ -914,7 +963,7 @@ function renderBrandMagazine(brand) {
   ].filter(([, , html]) => html && html.trim());
   const tabs = cells.map(([id, title], index) => `<a class="${index === 0 ? "active" : ""}" href="#${id}">${title}</a>`).join("");
   return `<section class="brand-hero${hasRealPhoto ? "" : " no-photo"}">
-    <div class="info"><p>홈 > 브랜드 매거진 > ${brand.name}</p><h1>${brand.name}</h1><p class="lead">${short(brand.definition, 260)}</p><hr><p>산업 분야 <b>${brand.industry}</b> · 공개 등급 <b>${tierLabel(brand.tier)}</b> · 브랜드 평가 <b>${brand.rating} ★</b></p></div>
+    <div class="info">${breadcrumbNav(brand)}<h1>${brand.name}</h1><p class="lead">${short(brand.definition, 260)}</p><hr><p>산업 분야 <b>${brand.industry}</b> · 공개 등급 <b>${tierLabel(brand.tier)}</b> · 브랜드 평가 <b>${brand.rating} ★</b></p></div>
     ${hasRealPhoto ? `<img class="photo" src="${asset(brand.image)}" alt="${escapeHtml(bilingualName(brand))} 브랜드 이미지" decoding="async">` : ""}
     ${logo}
   </section>
