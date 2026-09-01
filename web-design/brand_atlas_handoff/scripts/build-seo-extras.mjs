@@ -42,14 +42,70 @@ function writeIfChanged(p, content) {
 const brandHref = (b, prefix = "../") => `${prefix}brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 const byName = (a, b) => String(a.name).localeCompare(String(b.name), "ko");
 
-/** 목록 항목 — 브랜드명(한/영) + 한 줄 설명. 설명이 있으면 크롤러가 읽을 텍스트가 늘어난다. */
-function entry(b, prefix = "../") {
-  const en = b.nameEn && b.nameEn !== b.name ? ` <span class="bx-en">${esc(b.nameEn)}</span>` : "";
-  return `<li><a href="${brandHref(b, prefix)}">${esc(b.name)}${en}</a></li>`;
+/** definition 첫 문장. 없는 말을 만들지 않고 있는 문장을 잘라 쓴다. */
+function oneLine(b, limit = 95) {
+  const raw = String(b.definition || b.summary || "").replace(/\s+/g, " ").trim();
+  if (!raw) return "";
+  const m = /^[\s\S]{10,}?(?:다\.|요\.|[.!?])(?=\s|$)/.exec(raw);
+  const first = m ? m[0].trim() : raw;
+  if (first.length <= limit) return first;
+  const cut = first.slice(0, limit);
+  const sp = cut.lastIndexOf(" ");
+  return `${(sp > limit * 0.6 ? cut.slice(0, sp) : cut).trim()}…`;
 }
 
-function listSection(titleText, arr, anchor, prefix = "../") {
-  return `<section class="bx-group" id="${anchor}"><h2>${esc(titleText)} <small>${arr.length}</small></h2><ul class="bx-list">${arr.map(b => entry(b, prefix)).join("")}</ul></section>`;
+/** 목록 항목. withDesc면 한 줄 설명을 붙인다.
+ *
+ * 2026-09 감사: 카테고리·국가 허브 28개가 네이버 색인 0건이었다. 원인은 기술이 아니라
+ * 내용이었다 — 산문이 200~300자뿐이라(브랜드 페이지 중앙값 1,820자) 우리 자신의 thin
+ * 기준(700자)에도 미달했다. 크롤 그래프의 핵심 허브가 정작 색인되지 않으면 하위 브랜드로
+ * 링크 에퀴티가 전달되지 않는다. 설명을 붙여 목록 자체를 정보로 만든다.
+ *
+ * brands.html(1,449개)에는 붙이지 않는다 — 페이지가 과대해진다.
+ */
+function entry(b, prefix = "../", withDesc = false) {
+  const en = b.nameEn && b.nameEn !== b.name ? ` <span class="bx-en">${esc(b.nameEn)}</span>` : "";
+  const link = `<a href="${brandHref(b, prefix)}">${esc(b.name)}${en}</a>`;
+  if (!withDesc) return `<li>${link}</li>`;
+  const d = oneLine(b);
+  return `<li class="bx-entry">${link}${d ? `<p>${esc(d)}</p>` : ""}</li>`;
+}
+
+function listSection(titleText, arr, anchor, prefix = "../", withDesc = false) {
+  return `<section class="bx-group" id="${anchor}"><h2>${esc(titleText)} <small>${arr.length}</small></h2><ul class="bx-list">${arr.map(b => entry(b, prefix, withDesc)).join("")}</ul></section>`;
+}
+
+/** 허브 본문에 실을 집계 문장. 전부 수록 데이터를 센 값이며 새 사실을 만들지 않는다. */
+function hubFacts(items) {
+  const out = [];
+  const years = items.map(foundedYear).filter(Boolean);
+  if (years.length >= 3) {
+    const era = { "1900년 이전": 0, "1900~1949년": 0, "1950~1999년": 0, "2000년 이후": 0 };
+    for (const y of years) {
+      if (y < 1900) era["1900년 이전"]++;
+      else if (y < 1950) era["1900~1949년"]++;
+      else if (y < 2000) era["1950~1999년"]++;
+      else era["2000년 이후"]++;
+    }
+    const parts = Object.entries(era).filter(([, n]) => n > 0).map(([k, n]) => `${k} ${n}개`);
+    out.push(`설립 연도가 확인된 ${years.length}개를 시기별로 나누면 ${parts.join(", ")}입니다.`);
+    const oldest = items.filter(b => foundedYear(b) === Math.min(...years))[0];
+    const newest = items.filter(b => foundedYear(b) === Math.max(...years))[0];
+    if (oldest && newest && oldest !== newest) {
+      out.push(`가장 이른 브랜드는 ${displayName(oldest)}(${Math.min(...years)}년), 가장 늦은 브랜드는 ${displayName(newest)}(${Math.max(...years)}년)입니다.`);
+    }
+  }
+  const withLogo = items.filter(b => b.logo && !String(b.logo).includes("brand_atlas_logo_mark")).length;
+  const withBici = items.filter(b => Array.isArray(b.logoHistory) && b.logoHistory.length > 1).length;
+  const withTimeline = items.filter(b => Array.isArray(b.timeline) && b.timeline.length).length;
+  const assets = [];
+  if (withLogo) assets.push(`로고 이미지 ${withLogo}개`);
+  if (withBici) assets.push(`BI/CI 변천 자료 ${withBici}개`);
+  if (withTimeline) assets.push(`연혁 타임라인 ${withTimeline}개`);
+  if (assets.length) out.push(`수록 자료로는 ${assets.join(", ")}를 갖췄습니다.`);
+  const withEntity = items.filter(b => b.entityLinks && b.entityLinks.wikidata).length;
+  if (withEntity) out.push(`이 가운데 ${withEntity}개는 공식 웹사이트가 일치하는 위키데이터 개체로 연결해 두었습니다.`);
+  return out;
 }
 
 // ─── 1) 산업 카테고리 허브 ──────────────────────────────────────────────────
@@ -73,14 +129,12 @@ for (const [slug, g] of industryGroups) {
   const countryTally = new Map();
   for (const b of withCountry) countryTally.set(countryOf(b), (countryTally.get(countryOf(b)) || 0) + 1);
   const topCountries = [...countryTally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
-  const years = g.items.map(foundedYear).filter(Boolean);
-  const oldest = years.length ? Math.min(...years) : null;
 
   // 큐레이션 문단 — 전부 집계값이며 새로운 사실을 만들지 않는다.
   const lead = `브랜드 아틀라스의 ${g.label} 브랜드 ${g.items.length}개를 한자리에 모았습니다. 각 항목은 설립 배경, 브랜드 아이덴티티, BI/CI 변천, 제품과 서비스, 현재 상태를 정리한 상세 페이지로 이어집니다.`;
   const facts = [];
   if (topCountries.length) facts.push(`기원 국가가 확인된 브랜드는 ${withCountry.length}개이며 ${topCountries.map(([c, n]) => `${c} ${n}개`).join(", ")} 순으로 많습니다.`);
-  if (oldest) facts.push(`가장 이른 설립 연도는 ${oldest}년입니다.`);
+  facts.push(...hubFacts(g.items));
   // lead는 hero에 이미 나오므로 여기서는 집계 사실만 덧붙인다(중복 출력 방지).
   const note = facts.length ? `<p class="bx-note">${esc(facts.join(" "))}</p>` : "";
 
@@ -90,7 +144,7 @@ for (const [slug, g] of industryGroups) {
   const body = `<section class="page-title"><div><p class="kicker">CATEGORY</p><h1>${esc(g.label)} 브랜드</h1><p class="lead">${esc(lead)}</p></div></section>
 <nav class="bx-toc" aria-label="다른 산업">${categoryLinks}</nav>
 ${note}
-${listSection(g.label, g.items, `cat-${slug}`)}`;
+${listSection(g.label, g.items, `cat-${slug}`, "../", true)}`;
 
   writeIfChanged(path.join(ROOT, "category", `${slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "산업별 탐색",
@@ -123,7 +177,13 @@ const COUNTRY_SLUG = {
   아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia",
   필리핀: "philippines", 우크라이나: "ukraine",
 };
-const MIN_COUNTRY_BRANDS = 5; // 이보다 적으면 목록 페이지로서 얇다.
+// 국가 허브는 브랜드 수가 아니라 **발행될 본문 길이**로 거른다. 브랜드 페이지에는
+// 렌더 본문 700자 미만이면 noindex를 걸면서, 정작 크롤 그래프의 핵심인 허브는 200~300자로
+// 발행하고 있었다(2026-09 감사 — 카테고리·국가 허브 28개 네이버 색인 0건). 기준을 하나로
+// 맞춘다. 수가 적어 내용이 안 나오는 국가는 아예 만들지 않는다 — 그 브랜드들은 산업
+// 카테고리 허브 12개가 이미 전량 커버한다.
+const MIN_COUNTRY_BRANDS = 5;   // 본문 판정 전 1차 컷(계산 낭비 방지)
+const HUB_MIN_PROSE = 700;      // 브랜드 페이지 thin 임계와 동일
 
 const byCountry = new Map();
 for (const b of BRANDS) {
@@ -138,30 +198,54 @@ const countryGroups = [...byCountry.entries()]
 for (const [, arr] of countryGroups) arr.sort(byName);
 
 fs.mkdirSync(path.join(ROOT, "country"), { recursive: true });
-const countryLinks = countryGroups
-  .map(([c, arr]) => `<a href="../country/${COUNTRY_SLUG[c]}.html">${esc(c)} <small>${arr.length}</small></a>`)
-  .join("");
 
+/** 발행될 본문의 순수 텍스트 길이. 헤더·푸터·다른 국가 nav는 보일러플레이트라 뺀다. */
+function prosePreview(bodyHtml) {
+  return bodyHtml
+    .replace(/<nav[\s\S]*?<\/nav>/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim().length;
+}
+
+// 1차: 본문을 만들어 길이를 잰다(링크는 아직 붙이지 않는다 — 살아남는 국가가 정해져야
+// 서로를 링크할 수 있다).
+const countryDrafts = [];
 for (const [c, arr] of countryGroups) {
   const slug = COUNTRY_SLUG[c];
-  const url = `${ORIGIN}/country/${slug}.html`;
   const indTally = new Map();
   for (const b of arr) indTally.set(b.industry, (indTally.get(b.industry) || 0) + 1);
   const topInd = [...indTally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 4);
-  const years = arr.map(foundedYear).filter(Boolean);
 
   const lead = `${c}에서 시작한 브랜드 ${arr.length}개를 모았습니다. 수록 기준은 각 브랜드 설명에서 기원 국가가 확인된 경우로 한정했습니다.`;
   const facts = [];
   if (topInd.length) facts.push(`산업별로는 ${topInd.map(([i, n]) => `${i} ${n}개`).join(", ")} 순입니다.`);
-  if (years.length) facts.push(`설립 연도가 확인된 ${years.length}개 중 가장 이른 해는 ${Math.min(...years)}년입니다.`);
+  facts.push(...hubFacts(arr));
 
+  const head = `<section class="page-title"><div><p class="kicker">COUNTRY</p><h1>${esc(c)} 브랜드</h1><p class="lead">${esc(lead)}</p></div></section>`;
+  const rest = `<p class="bx-note">${esc(facts.join(" "))}</p>
+${listSection(`${c} 브랜드`, arr, `country-${slug}`, "../", true)}`;
+  const prose = prosePreview(head + rest);
+  if (prose < HUB_MIN_PROSE) {
+    console.log(`  country/${slug}: 본문 ${prose}자 < ${HUB_MIN_PROSE} — 발행 생략`);
+    const stale = path.join(ROOT, "country", `${slug}.html`);
+    if (fs.existsSync(stale)) fs.unlinkSync(stale);   // 과거 발행분이 남으면 고아가 된다
+    continue;
+  }
+  countryDrafts.push({ c, slug, arr, topInd, head, rest, prose });
+}
+
+const countryLinks = countryDrafts
+  .map(({ c, slug, arr }) => `<a href="../country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`)
+  .join("");
+
+for (const { c, slug, arr, topInd, head, rest } of countryDrafts) {
+  const url = `${ORIGIN}/country/${slug}.html`;
   const title = `${c} 브랜드 ${arr.length}개 목록 — 설립 역사·BI/CI | 브랜드 아틀라스`;
   const desc = `${c}에서 시작한 브랜드 ${arr.length}개 목록. ${topInd.map(([i]) => i).join("·")} 등 각 브랜드의 설립 배경과 아이덴티티, BI/CI 변천사를 정리했습니다.`;
-
-  const body = `<section class="page-title"><div><p class="kicker">COUNTRY</p><h1>${esc(c)} 브랜드</h1><p class="lead">${esc(lead)}</p></div></section>
+  const body = `${head}
 <nav class="bx-toc" aria-label="다른 국가">${countryLinks}</nav>
-<p class="bx-note">${esc(facts.join(" "))}</p>
-${listSection(`${c} 브랜드`, arr, `country-${slug}`)}`;
+${rest}`;
 
   writeIfChanged(path.join(ROOT, "country", `${slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "산업별 탐색",
@@ -175,7 +259,7 @@ ${listSection(`${c} 브랜드`, arr, `country-${slug}`)}`;
     }),
   }));
 }
-console.log(`country/: ${countryGroups.length} pages, ${countryGroups.reduce((s, [, a]) => s + a.length, 0)} links`);
+console.log(`country/: ${countryDrafts.length} pages, ${countryDrafts.reduce((s, d) => s + d.arr.length, 0)} links (얇아서 생략 ${countryGroups.length - countryDrafts.length})`);
 
 // ─── 3) /pages/brands.html — 전체 정적 인덱스 ────────────────────────────────
 {
@@ -350,7 +434,7 @@ const hubEntries = [
   ["/pages/bici.html", "pages/bici.html"],
   ["/pages/search.html", "pages/search.html"],
   ...industryGroups.map(([slug]) => [`/category/${slug}.html`, `category/${slug}.html`]),
-  ...countryGroups.map(([c]) => [`/country/${COUNTRY_SLUG[c]}.html`, `country/${COUNTRY_SLUG[c]}.html`]),
+  ...countryDrafts.map(({ slug }) => [`/country/${slug}.html`, `country/${slug}.html`]),
 ].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)]);
 
 // noindex(thin) 브랜드는 sitemap에서 뺀다. 카테고리 목록 링크는 유지되므로
@@ -475,7 +559,7 @@ ${items}
     ...industryGroups.map(([slug, g]) => `- [${g.label}](${ORIGIN}/category/${slug}.html): ${g.items.length}개 브랜드`),
     "",
     "## 기원 국가",
-    ...countryGroups.map(([c, arr]) => `- [${c}](${ORIGIN}/country/${COUNTRY_SLUG[c]}.html): ${arr.length}개 브랜드`),
+    ...countryDrafts.map(({ c, slug, arr }) => `- [${c}](${ORIGIN}/country/${slug}.html): ${arr.length}개 브랜드`),
     "",
     "## 주요 브랜드",
     ...top.map(b => `- [${displayName(b)}](${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html): ${String(b.definition || b.summary || "").replace(/\s+/g, " ").slice(0, 120)}`),
@@ -486,7 +570,7 @@ ${items}
     "",
   ];
   writeIfChanged(path.join(ROOT, "llms.txt"), lines.join("\n"));
-  console.log(`llms.txt: 허브 ${industryGroups.length + countryGroups.length}건 + 주요 브랜드 ${top.length}건`);
+  console.log(`llms.txt: 허브 ${industryGroups.length + countryDrafts.length}건 + 주요 브랜드 ${top.length}건`);
 }
 
 console.log(`\ncssV=${CSS_V} — styles.css 캐시버스터 확인 필요`);

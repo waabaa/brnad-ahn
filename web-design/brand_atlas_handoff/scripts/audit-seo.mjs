@@ -173,6 +173,25 @@ const report = {
     shellsNoindex: ["pages/brand-artemio.html", "pages/mobile.html", "pages/other-pages.html"]
       .filter(f => { try { return /content="noindex/.test(fs.readFileSync(path.join(ROOT, f), "utf8")); } catch { return false; } }).length,
   },
+  // 허브가 얇으면 색인되지 않고, 색인되지 않으면 하위 브랜드로 링크 에퀴티가 가지 않는다.
+  // 2026-09 감사에서 카테고리·국가 허브 28개가 네이버 색인 0건이었고 원인이 이것이었다.
+  hubProse: (() => {
+    const strip = (h) => h
+      .replace(/<script[\s\S]*?<\/script>/g, " ").replace(/<style[\s\S]*?<\/style>/g, " ")
+      .replace(/<nav[\s\S]*?<\/nav>/g, " ").replace(/<header[\s\S]*?<\/header>/g, " ")
+      .replace(/<footer[\s\S]*?<\/footer>/g, " ")
+      .replace(TAG, " ").replace(/\s+/g, " ").trim().length;
+    const lens = [];
+    for (const dir of ["category", "country"]) {
+      const d = path.join(ROOT, dir);
+      if (!fs.existsSync(d)) continue;
+      for (const f of fs.readdirSync(d).filter(x => x.endsWith(".html"))) {
+        lens.push(strip(fs.readFileSync(path.join(d, f), "utf8")));
+      }
+    }
+    lens.sort((a, b) => a - b);
+    return { pages: lens.length, min: lens[0] ?? 0, p50: lens[Math.floor(lens.length / 2)] ?? 0, under700: lens.filter(x => x < 700).length };
+  })(),
   sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, distinctLastmod: lastmods.size, imageEntries: sitemapImages },
   rssItems: fs.existsSync(path.join(ROOT, "rss.xml"))
     ? (fs.readFileSync(path.join(ROOT, "rss.xml"), "utf8").match(/<item>/g) || []).length : 0,
@@ -185,7 +204,11 @@ if (asJson) {
   const ac = [
     ["AC-A1 허브 정적 링크 > 0", Object.values(report.hubs.staticBrandLinks).every(v => v > 0)],
     ["AC-A2 카테고리 페이지 == 12", report.hubs.categoryPages === 12],
-    ["AC-A3 국가 페이지 >= 15", report.hubs.countryPages >= 15],
+    // 2026-09 개정: 개수 기준(>=15)에서 품질 기준으로 바꿨다. 종전에는 브랜드 5개짜리
+    // 국가도 발행해 본문 600자대 껍데기가 섞였고, 그런 허브는 색인되지 않아 크롤 경로로
+    // 기능하지 못했다. 얇은 허브를 빼면 14개가 되지만 커버 브랜드는 497개로 거의 그대로다
+    // (직전 507). 개수보다 "발행된 허브가 실제로 색인될 수 있는가"가 목적에 맞다.
+    ["AC-A3 국가 페이지 >= 12 (전부 본문 기준 충족)", report.hubs.countryPages >= 12 && report.hubProse.under700 === 0],
     ["AC-A5 홈 정적 링크 >= 60", (report.hubs.staticBrandLinks["index.html"] || 0) >= 60],
     ["AC-A6 sitemap index 구성", report.sitemap.childFiles >= 2 && report.sitemap.totalLocs > 1400],
     ["AC-B1 '브랜드 매거진' 잔존 == 0", report.title.containsMagazineFiller === 0],
@@ -203,6 +226,7 @@ if (asJson) {
     ["AC-G6 타임라인 하드 절단 0", report.geo.timelineHardTruncation === 0],
     ["AC-G7 페이지 내 중복 alt 0", report.geo.duplicateAltPages === 0],
     ["AC-G8 llms.txt + AI 크롤러 명시 + 이미지 sitemap", report.geo.llmsTxt && report.geo.robotsAiAgents >= 10 && report.sitemap.imageEntries > 1000],
+    ["AC-G9 허브 본문 700자 미만 == 0", report.hubProse.under700 === 0 && report.hubProse.pages >= 24],
   ];
   console.log("\n=== 수용기준 ===");
   for (const [name, ok] of ac) console.log(`${ok ? "PASS" : "FAIL"}  ${name}`);

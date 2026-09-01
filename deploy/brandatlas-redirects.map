@@ -755,3 +755,7 @@
 /images/logos/brandarchive-wise.png /images/logos/wise.png;
 /images/logos/brandarchive-yahoo-2026.png /images/logos/yahoo.png;
 /images/logos/brandarchive-zexel.png /images/logos/zexel.png;
+# 2026-09-01 — 본문 700자 미달로 발행 중단한 국가 허브(스페인 5개·오스트리아 5개).
+# 해당 브랜드는 산업 카테고리 허브가 전량 커버한다.
+/country/spain.html /pages/brands.html;
+/country/austria.html /pages/brands.html;
