@@ -32,6 +32,9 @@ node scripts/build-brand-pages.mjs | tail -4
 echo "=== [2/5] 허브·사이트맵·RSS 빌드 ==="
 node scripts/build-seo-extras.mjs | tail -10
 
+echo "=== [2-b/5] 어드민 스냅샷 ==="
+node scripts/build-admin-snapshot.mjs | tail -1
+
 echo "=== [3/5] 검증 ==="
 node scripts/verify-crawl-graph.mjs | tail -2
 node scripts/audit-seo.mjs | sed -n '/=== 수용기준 ===/,$p'

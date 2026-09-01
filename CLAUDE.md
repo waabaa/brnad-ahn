@@ -128,7 +128,36 @@ nginx 주의사항:
 
 ---
 
-## 5. 현황·계획
+## 5. 운영 어드민
+
+`https://brandatlas.co.kr/admin/` — 색인 추이, 크롤러 방문, 콘텐츠 품질, 엔티티 연결,
+수용기준, 검색어트렌드를 본다. 비밀번호 단일 인증(`~/.config/brandatlas/env`).
+
+```
+admin/admin_server.py     백엔드 (표준 라이브러리만, 127.0.0.1:8810)
+admin/public/             UI (빌드 스텝 없음)
+deploy/setup-admin.sh     최초 설치 — systemd 시스템 유닛 + nginx + 비밀번호 (멱등)
+deploy/deploy-admin.sh    UI·스냅샷 갱신
+```
+
+**어드민 UI는 사이트 웹루트에 두지 않는다.** 사이트 배포가 `rsync --delete`로 웹루트를
+통째 덮어써서 매번 지워진다. `/var/www/brandatlas-admin/`에 따로 둔다. 홈 디렉토리에
+두는 것도 안 된다 — nginx(www-data)가 `developer`의 700 디렉토리에 들어갈 수 없다.
+
+**nginx location은 `^~ /admin/`이어야 한다.** 이 설정에는 `~* \.html$`·`~* \.(css|js|…)$`
+정규식 location이 앞에 있고 nginx는 정규식을 prefix보다 먼저 고른다. `^~`가 없으면
+`/admin/app.js`가 사이트 웹루트에서 찾아져 404가 된다.
+
+**systemd는 사용자 유닛이 아니라 시스템 유닛이다.** 크롤러 분석이 nginx 로그
+(640 www-data:adm)를 읽어야 하는데 `developer`의 user manager는 오래전 그룹으로 떠 있어
+`adm`이 빠져 있다. 세션을 재시작하면 같은 매니저에 물린 LLM 게이트웨이도 죽는다.
+
+데이터는 `reports/admin-snapshot.json`(빌드 산출)과 실시간 조회(네이버 API·nginx 로그)를
+합쳐 쓴다. 스냅샷은 `scripts/build-admin-snapshot.mjs`가 만들고 주간 리프레시에 물려 있다.
+
+---
+
+## 6. 현황·계획
 
 - 계획서: `.omc/plans/brand-atlas-geo-visibility-2026-09.md`(GEO·잔여 결함),
   `.omc/plans/brand-atlas-search-visibility-2026-08.md`(크롤 그래프·키워드 정렬)

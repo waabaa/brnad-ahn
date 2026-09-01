@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>운영 어드민 | 브랜드 아틀라스</title>
+<link rel="icon" href="/assets/objects/brand_atlas_logo_mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --ink:#141414; --muted:#6b7280; --line:#e5e7eb; --red:#e2231a;
+  --side:#161616; --side-hover:#262626; --bg:#f5f5f4; --card:#fff;
+  --ok:#15803d; --ok-bg:#dcfce7; --warn:#b45309; --warn-bg:#fef3c7; --bad:#b91c1c; --bad-bg:#fee2e2;
+  --radius:10px; --side-w:220px;
+}
+body{font-family:"Noto Sans KR",-apple-system,system-ui,sans-serif;background:var(--bg);color:var(--ink);
+     line-height:1.6;-webkit-font-smoothing:antialiased;font-size:14px}
+
+/* ── 로그인 ── */
+#login{position:fixed;inset:0;display:grid;place-items:center;background:var(--bg);z-index:50}
+#login .box{background:#fff;border:1px solid var(--line);border-radius:14px;padding:40px;width:min(380px,92vw)}
+#login h1{font-size:22px;font-weight:800;margin-bottom:6px}
+#login p{color:var(--muted);font-size:13px;margin-bottom:24px}
+#login input{width:100%;height:44px;border:1px solid var(--line);border-radius:8px;padding:0 14px;font-size:15px;font-family:inherit}
+#login input:focus{outline:2px solid var(--red);outline-offset:-1px;border-color:transparent}
+#login button{width:100%;height:44px;margin-top:12px;background:var(--ink);color:#fff;border:0;border-radius:8px;
+              font-size:15px;font-weight:700;cursor:pointer;font-family:inherit}
+#login button:hover{background:var(--red)}
+#login .err{color:var(--bad);font-size:13px;margin-top:12px;min-height:20px}
+
+/* ── 레이아웃 ── */
+#app{display:none;min-height:100vh}
+#app.on{display:block}
+.sidebar{position:fixed;left:0;top:0;bottom:0;width:var(--side-w);background:var(--side);color:#e5e5e5;
+         display:flex;flex-direction:column;z-index:20}
+.sidebar .brand{padding:22px 20px 18px;border-bottom:1px solid #2a2a2a}
+.sidebar .brand b{display:block;font-size:15px;color:#fff;font-weight:700}
+.sidebar .brand span{font-size:11px;color:#8a8a8a;letter-spacing:.12em}
+.sidebar nav{flex:1;overflow-y:auto;padding:10px 0}
+.sidebar a{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:11px 20px;color:#c4c4c4;
+           text-decoration:none;font-size:14px;border-left:3px solid transparent;cursor:pointer}
+.sidebar a:hover{background:var(--side-hover);color:#fff}
+.sidebar a.active{background:var(--side-hover);color:#fff;border-left-color:var(--red);font-weight:500}
+.sidebar a small{font-size:11px;color:#7a7a7a;font-weight:400}
+.sidebar .foot{padding:14px 20px;border-top:1px solid #2a2a2a;font-size:12px;color:#7a7a7a}
+.sidebar .foot button{background:none;border:1px solid #3a3a3a;color:#c4c4c4;border-radius:6px;padding:5px 10px;
+                      font-size:12px;cursor:pointer;font-family:inherit;margin-top:8px;width:100%}
+.sidebar .foot button:hover{border-color:var(--red);color:#fff}
+
+main{margin-left:var(--side-w);min-height:100vh}
+.topbar{background:#fff;border-bottom:1px solid var(--line);padding:18px 30px;display:flex;
+        align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10}
+.topbar h1{font-size:20px;font-weight:800}
+.topbar .meta{font-size:12px;color:var(--muted);text-align:right;line-height:1.5}
+.wrap{padding:26px 30px 60px}
+.panel{display:none}
+.panel.on{display:block}
+
+/* ── 카드 ── */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px;margin-bottom:24px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+.card .k{font-size:12px;color:var(--muted);margin-bottom:8px}
+.card .v{font-size:28px;font-weight:800;line-height:1.15;letter-spacing:-.02em}
+.card .v small{font-size:14px;font-weight:500;color:var(--muted);margin-left:4px}
+.card .s{font-size:12px;color:var(--muted);margin-top:6px}
+.card.accent .v{color:var(--red)}
+
+.box{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;margin-bottom:20px}
+.box h2{font-size:16px;font-weight:700;margin-bottom:4px}
+.box .sub{font-size:12.5px;color:var(--muted);margin-bottom:18px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media(max-width:1100px){.grid2{grid-template-columns:1fr}}
+
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11.5px;color:var(--muted);font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+td.num{text-align:right;font-variant-numeric:tabular-nums;font-weight:600;white-space:nowrap}
+tbody tr:hover{background:#fafafa}
+
+.pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:11.5px;font-weight:700}
+.pill.ok{background:var(--ok-bg);color:var(--ok)}
+.pill.warn{background:var(--warn-bg);color:var(--warn)}
+.pill.bad{background:var(--bad-bg);color:var(--bad)}
+.pill.mute{background:#f1f1f0;color:var(--muted)}
+
+.bar{height:8px;background:#eee;border-radius:99px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--red)}
+
+button.act{background:var(--ink);color:#fff;border:0;border-radius:7px;padding:8px 15px;font-size:13px;
+           font-weight:600;cursor:pointer;font-family:inherit}
+button.act:hover{background:var(--red)}
+button.act[disabled]{opacity:.5;cursor:default}
+button.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
+button.ghost:hover{border-color:var(--red);color:var(--red);background:#fff}
+input.txt{height:36px;border:1px solid var(--line);border-radius:7px;padding:0 12px;font-size:13.5px;font-family:inherit}
+input.txt:focus{outline:2px solid var(--red);outline-offset:-1px;border-color:transparent}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.muted{color:var(--muted)}
+.chartwrap{position:relative;height:300px}
+.empty{color:var(--muted);font-size:13.5px;padding:26px 0;text-align:center}
+.scroll{max-height:420px;overflow-y:auto}
+code{background:#f1f1f0;padding:1px 6px;border-radius:4px;font-size:12.5px;
+     font-family:ui-monospace,Menlo,Consolas,monospace;word-break:break-all}
+@media(max-width:860px){
+  .sidebar{position:static;width:auto}
+  .sidebar nav{display:flex;overflow-x:auto;padding:0}
+  .sidebar a{border-left:0;border-bottom:3px solid transparent;white-space:nowrap}
+  .sidebar a.active{border-left:0;border-bottom-color:var(--red)}
+  .sidebar a small{display:none}
+  main{margin-left:0}
+  .wrap,.topbar{padding-left:16px;padding-right:16px}
+}
+</style>
+</head>
+<body>
+
+<div id="login">
+  <form class="box" id="loginForm">
+    <h1>브랜드 아틀라스 운영</h1>
+    <p>관리자 비밀번호를 입력하세요.</p>
+    <input type="password" id="pw" autocomplete="current-password" placeholder="비밀번호" required>
+    <button type="submit">로그인</button>
+    <div class="err" id="loginErr"></div>
+  </form>
+</div>
+
+<div id="app">
+  <aside class="sidebar">
+    <div class="brand"><b>브랜드 아틀라스</b><span>OPERATIONS</span></div>
+    <nav id="nav"></nav>
+    <div class="foot">
+      <div id="footInfo">—</div>
+      <button id="logout">로그아웃</button>
+    </div>
+  </aside>
+  <main>
+    <div class="topbar">
+      <h1 id="title">대시보드</h1>
+      <div class="meta" id="topMeta"></div>
+    </div>
+    <div class="wrap" id="panels"></div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
