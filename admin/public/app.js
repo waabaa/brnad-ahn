@@ -15,6 +15,18 @@ const el = (t, a = {}, ...kids) => {
 };
 const num = (n) => (n == null ? "—" : Number(n).toLocaleString("ko-KR"));
 const pct = (a, b) => (b ? `${((a / b) * 100).toFixed(1)}%` : "—");
+/** 사이트 내부 경로만 링크로 허용한다.
+ *
+ * GA4의 pagePath 같은 값은 우리 데이터가 아니다. 측정 ID는 페이지 소스에 공개돼 있어
+ * 누구나 임의 page_location 을 보낼 수 있고, 그 값이 href 로 들어가면 `javascript:` 로
+ * 어드민 세션에서 스크립트가 돈다. `//evil.com` 같은 프로토콜 상대 경로도 외부로 나간다.
+ * 검증에 실패하면 링크를 만들지 않는다.
+ */
+function internalPath(v) {
+  const s = String(v ?? "");
+  return /^\/(?!\/)[^\s"'<>\\]*$/.test(s) ? s : null;
+}
+
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
 async function api(path, opts = {}) {
@@ -131,6 +143,14 @@ function table(headers, rows) {
         : el("td", { class: typeof c === "number" ? "num" : null }, typeof c === "number" ? num(c) : c))))));
   return t;
 }
+/** 브랜드 상세 링크. slug 는 우리 데이터지만 같은 규칙으로 검증해 둔다. */
+function brandLink(slug) {
+  const href = internalPath(`/brand/${encodeURIComponent(String(slug ?? ""))}.html`);
+  return href
+    ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:#e2231a" }, "열기")
+    : el("span", { class: "muted" }, "—");
+}
+
 async function withLoading(btn, fn) {
   const old = btn.textContent;
   btn.disabled = true; btn.textContent = "불러오는 중…";
@@ -329,15 +349,13 @@ function renderContent(host) {
     "이미지 검색이 실제 유입원입니다. 네이버 이미지 API로 보강할 대상입니다. (상위 200건 표시)");
   b3.append(el("div", { class: "scroll" }, table(["브랜드", "산업", "페이지"],
     (SNAP.noLogo?.sample || []).map((b) => [
-      b.name, b.industry || "—",
-      el("a", { href: `/brand/${b.slug}.html`, target: "_blank", style: "color:#e2231a" }, "열기"),
+      b.name, b.industry || "—", brandLink(b.slug),
     ]))));
 
   const b4 = box(host, `본문이 얇아 색인에서 뺀 페이지 ${num(t.thin)}건`, "noindex,follow — 링크는 살아 있고 색인만 제외됩니다.");
   b4.append(el("div", { class: "scroll" }, table(["브랜드", "산업", { label: "본문", num: 1 }, "페이지"],
     (SNAP.thinPages || []).map((p) => [
-      p.name, p.industry || "—", p.renderedChars,
-      el("a", { href: `/brand/${p.slug}.html`, target: "_blank", style: "color:#e2231a" }, "열기"),
+      p.name, p.industry || "—", p.renderedChars, brandLink(p.slug),
     ]))));
 }
 
@@ -480,10 +498,15 @@ function renderGa4(host) {
     const pb = el("div", { class: "box" }, el("h2", {}, "인기 페이지"), el("div", { class: "sub" }, "페이지뷰 상위 30"));
     pb.append(d.pages?.length
       ? el("div", { class: "scroll" }, table(["경로", { label: "페이지뷰", num: 1 }, { label: "사용자", num: 1 }, ""],
-          d.pages.map((r) => [
-            r.pagePath, r.screenPageViews, r.activeUsers,
-            el("a", { href: r.pagePath, target: "_blank", style: "color:#e2231a" }, "열기"),
-          ])))
+          d.pages.map((r) => {
+            const href = internalPath(r.pagePath);
+            return [
+              r.pagePath, r.screenPageViews, r.activeUsers,
+              href
+                ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:#e2231a" }, "열기")
+                : el("span", { class: "muted" }, "경로 아님"),
+            ];
+          })))
       : el("div", { class: "empty" }, "아직 데이터가 없습니다. 태그를 심은 지 24~48시간이 지나야 채워집니다."));
     out.append(pb);
   });
