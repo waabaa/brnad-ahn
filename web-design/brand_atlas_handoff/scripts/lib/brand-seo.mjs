@@ -276,7 +276,19 @@ export function slugifyAscii(s) {
 }
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
-export const CSS_V = "20260901a";
+export const CSS_V = "20260901b";
+
+// Google Analytics 4. 빈 문자열이면 태그를 넣지 않는다(로컬·테스트 빌드).
+// 어드민(/admin/)에는 넣지 않는다 — 운영자 방문이 지표를 오염시킨다.
+export const GA4_ID = process.env.GA4_MEASUREMENT_ID || "G-EE13LML8RQ";
+
+/** gtag 스니펫. 렌더를 막지 않도록 async로 싣는다. */
+export function gaSnippet() {
+  if (!GA4_ID) return "";
+  return `<script async src="https://www.googletagmanager.com/gtag/js?id=${GA4_ID}"></script>`
+    + `<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}`
+    + `gtag('js',new Date());gtag('config','${GA4_ID}');</script>`;
+}
 
 // ─────────────────────────────────────────────────────────────────────────────
 // 한글 전용 브랜드명을 URL slug로 쓸 수 있게 로마자로 옮긴다.

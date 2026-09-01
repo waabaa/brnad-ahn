@@ -2,7 +2,7 @@
 // Every hub is emitted as complete HTML — Naver's crawler does not run JS, so any
 // link that exists only after app.js runs is invisible to it (2026-08 SEO audit).
 
-import { ORIGIN, CSS_V } from "./brand-seo.mjs";
+import { ORIGIN, CSS_V, gaSnippet } from "./brand-seo.mjs";
 
 export const esc = (s) => String(s == null ? "" : s)
   .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -36,7 +36,7 @@ export const HUB_STYLE = `<style>.bx-toc{display:flex;flex-wrap:wrap;gap:8px;mar
  */
 export function page({ title, desc, canonical, bodyHtml, jsonLd, active = "", prefix = "../", extraStyle = "" }) {
   const ld = jsonLd ? `<script type="application/ld+json">${jsonLd}</script>` : "";
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="index,follow"><meta property="og:type" content="website"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="${ORIGIN}/assets/objects/brand_atlas_logo_mark.png"><meta name="twitter:card" content="summary"><link rel="icon" href="${prefix}assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="${prefix}styles.css?v=${CSS_V}">${HUB_STYLE}${extraStyle}${ld}</head>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="index,follow"><meta property="og:type" content="website"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="${ORIGIN}/assets/objects/brand_atlas_logo_mark.png"><meta name="twitter:card" content="summary"><link rel="icon" href="${prefix}assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="${prefix}styles.css?v=${CSS_V}">${HUB_STYLE}${extraStyle}${ld}${gaSnippet()}</head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${header(active, prefix)}</div><main id="main-content" class="wrap">${bodyHtml}${footer(prefix)}</main></body></html>`;
 }
 

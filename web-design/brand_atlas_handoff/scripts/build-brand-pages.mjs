@@ -13,7 +13,7 @@ import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import {
   buildTitle, buildDescription, buildFaq, headingMarkup, koreanName, latinName, displayName,
-  countryOf, foundedYear, isThin, bodyTextLength, THIN_THRESHOLD, CSS_V,
+  countryOf, foundedYear, isThin, bodyTextLength, THIN_THRESHOLD, CSS_V, gaSnippet,
 } from "./lib/brand-seo.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -298,7 +298,7 @@ function pageHtml(brand) {
   renderedLen.set(urlSlugOf(brand), dupCanonical ? 0 : renderedChars);
   const canonical = dupCanonical || url;
 
-  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta property="og:image:alt" content="${esc(`${displayName(brand)} 브랜드 이미지`)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq, dates)}</script></head>
+  return `<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><meta name="robots" content="${robots}"><meta property="og:type" content="article"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ogImg}"><meta property="og:image:alt" content="${esc(`${displayName(brand)} 브랜드 이미지`)}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="${canonical}"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="${ORIGIN}/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=${CSS_V}"><script type="application/ld+json">${jsonLd(brand, faq, dates)}</script>${gaSnippet()}</head>
 <body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head">${headerHtml}</div><main id="main-content" class="wrap"><div id="brandPage">${bodyHtml}</div>${SUB_FOOTER}</main></body></html>`;
 }
 

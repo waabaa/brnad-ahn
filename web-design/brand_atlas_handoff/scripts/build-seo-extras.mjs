@@ -19,7 +19,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  ORIGIN, CSS_V, urlSlugOf, countryOf, foundedYear, isThin, displayName,
+  ORIGIN, CSS_V, urlSlugOf, countryOf, foundedYear, isThin, displayName, GA4_ID, gaSnippet,
 } from "./lib/brand-seo.mjs";
 import { esc, page, collectionJsonLd } from "./lib/page-shell.mjs";
 
@@ -502,6 +502,39 @@ ${items}
 </rss>
 `);
   console.log(`rss.xml: ${ranked.length} items`);
+}
+
+// ─── 7-b) GA4 태그 주입 ────────────────────────────────────────────────────
+// 손으로 관리하는 셸(index.html, pages/*.html)에도 태그가 있어야 한다. 한 번 sed로
+// 넣으면 측정 ID가 바뀌거나 새 페이지가 생겼을 때 어긋나므로, 빌드가 매번 맞춘다.
+// 어드민(/admin/)에는 넣지 않는다 — 운영자 방문이 지표를 오염시킨다.
+{
+  const MARK = "googletagmanager.com/gtag/js";
+  const snippet = gaSnippet();
+  const targets = ["index.html", ...fs.readdirSync(path.join(ROOT, "pages"))
+    .filter(f => f.endsWith(".html")).map(f => `pages/${f}`)];
+  let injected = 0, updated = 0, skipped = 0;
+  for (const rel of targets) {
+    const p = path.join(ROOT, rel);
+    let html = fs.readFileSync(p, "utf8");
+    const has = html.includes(MARK);
+    if (!snippet) {
+      if (has) { html = html.replace(/<script async src="https:\/\/www\.googletagmanager\.com[\s\S]*?<\/script><script>window\.dataLayer[\s\S]*?<\/script>/, ""); updated++; }
+    } else if (!has) {
+      if (!html.includes("</head>")) { skipped++; continue; }
+      html = html.replace("</head>", `${snippet}</head>`);
+      injected++;
+    } else {
+      // 측정 ID가 바뀌었으면 갈아끼운다.
+      const cur = /gtag\/js\?id=([A-Z0-9-]+)/.exec(html);
+      if (cur && cur[1] !== GA4_ID) {
+        html = html.replace(/<script async src="https:\/\/www\.googletagmanager\.com[\s\S]*?<\/script>\s*<script>[\s\S]*?gtag\('config'[\s\S]*?<\/script>/, snippet);
+        updated++;
+      }
+    }
+    writeIfChanged(p, html);
+  }
+  console.log(`GA4(${GA4_ID || "미설정"}): 신규 주입 ${injected}, 갱신 ${updated}, 건너뜀 ${skipped} / 대상 ${targets.length}`);
 }
 
 // ─── 8) robots.txt — AI 크롤러 명시 ────────────────────────────────────────
