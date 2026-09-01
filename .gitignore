@@ -45,3 +45,7 @@ web-design/brand_atlas_handoff/reports/*
 # GA4 서비스 계정 키는 저장소에 두지 않는다.
 ga4-service-account*.json
 *-service-account*.json
+
+# 작업 중 캡처한 임시 스크린샷
+footer-index.png
+naver_search1.png
