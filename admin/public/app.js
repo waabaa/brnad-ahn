@@ -420,24 +420,115 @@ function renderKeywords(host) {
 
 // ─── 8. GA4 ─────────────────────────────────────────────────────────────────
 function renderGa4(host) {
-  const b = box(host, "Google Analytics 4", "방문·유입·인기 페이지를 봅니다.");
-  if (!CONF?.ga4MeasurementId) {
-    b.append(el("div", { html: `
-      <p style="margin-bottom:14px">아직 <b>GA4가 사이트에 붙어 있지 않습니다.</b> 측정 ID를 만들어 넣으면 그때부터 데이터가 쌓입니다.</p>
-      <ol style="margin:0 0 16px 20px;line-height:2">
-        <li><code>analytics.google.com</code> 접속 → 왼쪽 아래 <b>관리(톱니바퀴)</b></li>
-        <li><b>속성 만들기</b> → 이름 <code>브랜드 아틀라스</code>, 시간대 <b>대한민국</b>, 통화 <b>KRW</b></li>
-        <li>업종·규모는 아무거나 골라도 됩니다 → <b>만들기</b></li>
-        <li>데이터 스트림에서 <b>웹</b> 선택 → URL <code>https://brandatlas.co.kr</code>, 이름 <code>brandatlas</code></li>
-        <li><b>스트림 만들기</b>를 누르면 <b>측정 ID</b>가 나옵니다 (<code>G-</code>로 시작)</li>
-        <li>그 측정 ID를 담당자에게 알려주면 전 페이지에 심습니다</li>
-      </ol>
-      <p class="muted">측정 ID를 넣어도 이 화면에 수치가 뜨려면 GA4 <b>속성 ID</b>와 조회 권한이 추가로 필요합니다. 그건 측정 ID를 받은 뒤에 이어서 설정합니다.</p>` }));
-    return;
-  }
-  b.append(el("div", {}, `측정 ID ${CONF.ga4MeasurementId} 적용됨.`));
-  const b2 = box(host, "수치", "");
-  b2.append(el("div", { class: "empty" }, "GA4 Data API 연동 준비 중입니다."));
+  const b = box(host, "Google Analytics 4", "방문·유입·인기 페이지. 측정 ID는 데이터를 보내는 쪽이고, 이 화면이 수치를 읽으려면 속성 ID와 서비스 계정 권한이 따로 필요합니다.");
+  const sel = el("select", { class: "txt" }, ...[7, 28, 90, 365].map((d) => el("option", { value: d, selected: d === 28 ? "" : null }, `최근 ${d}일`)));
+  const btn = el("button", { class: "act" }, "조회");
+  const out = el("div", {});
+  b.append(el("div", { class: "row" }, sel, btn), out);
+
+  const load = () => withLoading(btn, async () => {
+    const d = await api(`/api/ga4?days=${sel.value}`);
+    out.innerHTML = "";
+    if (!d.enabled) { out.append(setupGuide(d)); return; }
+
+    const inner = el("div", {});
+    const s = d.summary || {};
+    const dur = s.averageSessionDuration ? `${Math.round(s.averageSessionDuration)}초` : "—";
+    cards(inner, [
+      { k: "실시간 사용자", v: d.realtimeUsers == null ? "—" : num(d.realtimeUsers), s: "지난 30분", accent: true },
+      { k: "사용자", v: num(s.activeUsers), s: `최근 ${d.days}일` },
+      { k: "세션", v: num(s.sessions) },
+      { k: "페이지뷰", v: num(s.screenPageViews) },
+      { k: "평균 체류", v: dur },
+      { k: "이탈률", v: s.bounceRate != null ? `${(s.bounceRate * 100).toFixed(1)}%` : "—" },
+    ]);
+    out.append(inner);
+
+    if (d.daily?.length) {
+      const db = el("div", { class: "box" }, el("h2", {}, "일별 추이"));
+      const c = el("canvas", { id: "chGa4" });
+      db.append(el("div", { class: "chartwrap" }, c));
+      out.append(db);
+      const label = (v) => `${v.slice(0, 4)}-${v.slice(4, 6)}-${v.slice(6, 8)}`;
+      chart(c, {
+        type: "line",
+        data: {
+          labels: d.daily.map((r) => label(r.date)),
+          datasets: [
+            { label: "사용자", data: d.daily.map((r) => r.activeUsers), borderColor: "#e2231a", backgroundColor: "rgba(226,35,26,.08)", fill: true, tension: .3, pointRadius: 2 },
+            { label: "페이지뷰", data: d.daily.map((r) => r.screenPageViews), borderColor: "#141414", backgroundColor: "transparent", tension: .3, pointRadius: 2 },
+          ],
+        },
+        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } },
+      });
+    }
+
+    const g = el("div", { class: "grid2" });
+    out.append(g);
+    const cb = el("div", { class: "box" }, el("h2", {}, "유입 경로"), el("div", { class: "sub" }, "채널 그룹 기준"));
+    cb.append(d.channels?.length
+      ? table(["채널", { label: "세션", num: 1 }, { label: "사용자", num: 1 }],
+          d.channels.map((r) => [r.sessionDefaultChannelGroup || "(없음)", r.sessions, r.activeUsers]))
+      : el("div", { class: "empty" }, "데이터 없음"));
+    g.append(cb);
+    const sb = el("div", { class: "box" }, el("h2", {}, "유입 출처"), el("div", { class: "sub" }, "sessionSource 기준"));
+    sb.append(d.sources?.length
+      ? table(["출처", { label: "세션", num: 1 }], d.sources.map((r) => [r.sessionSource || "(직접)", r.sessions]))
+      : el("div", { class: "empty" }, "데이터 없음"));
+    g.append(sb);
+
+    const pb = el("div", { class: "box" }, el("h2", {}, "인기 페이지"), el("div", { class: "sub" }, "페이지뷰 상위 30"));
+    pb.append(d.pages?.length
+      ? el("div", { class: "scroll" }, table(["경로", { label: "페이지뷰", num: 1 }, { label: "사용자", num: 1 }, ""],
+          d.pages.map((r) => [
+            r.pagePath, r.screenPageViews, r.activeUsers,
+            el("a", { href: r.pagePath, target: "_blank", style: "color:#e2231a" }, "열기"),
+          ])))
+      : el("div", { class: "empty" }, "아직 데이터가 없습니다. 태그를 심은 지 24~48시간이 지나야 채워집니다."));
+    out.append(pb);
+  });
+  btn.addEventListener("click", load);
+  load();
+}
+
+/** 아직 못 읽는 상태일 때의 안내 — 무엇이 빠졌는지 서버가 알려준 사유를 그대로 보여 준다. */
+function setupGuide(d) {
+  const wrap = el("div", {});
+  wrap.append(el("div", { class: "box", style: "border-color:#f0dcb8;background:#fff8ec" },
+    el("h2", {}, "아직 수치를 읽을 수 없습니다"),
+    el("div", { class: "sub" }, d.reason || "설정이 필요합니다."),
+    d.measurementId
+      ? el("div", {}, `측정 ID ${d.measurementId} 는 사이트에 심어져 있습니다. 데이터는 GA4에 정상적으로 쌓이고 있으며, 이 화면에서 읽으려면 아래 설정이 더 필요합니다.`)
+      : el("div", {}, "측정 ID도 아직 없습니다.")));
+  wrap.append(el("div", { class: "box", html: `
+    <h2>설정 방법</h2>
+    <div class="sub">두 가지가 필요합니다 — 속성 ID(어느 속성을 읽을지)와 서비스 계정(읽을 권한).</div>
+    <h3 style="font-size:14px;margin:16px 0 8px">1. 속성 ID 확인 <span class="muted" style="font-weight:400">· 1분</span></h3>
+    <ol style="margin:0 0 8px 20px;line-height:2">
+      <li><code>analytics.google.com</code> → 왼쪽 아래 <b>관리</b></li>
+      <li><b>속성 세부정보</b> 클릭</li>
+      <li>오른쪽 위 <b>속성 ID</b> 9자리 숫자를 복사</li>
+    </ol>
+    <h3 style="font-size:14px;margin:20px 0 8px">2. 서비스 계정 만들기 <span class="muted" style="font-weight:400">· 4분</span></h3>
+    <ol style="margin:0 0 8px 20px;line-height:2">
+      <li><code>console.cloud.google.com</code> 접속 (구글 계정으로 로그인)</li>
+      <li>위쪽 프로젝트 선택 → <b>새 프로젝트</b> → 이름 <code>brandatlas</code> → 만들기</li>
+      <li>검색창에 <b>Google Analytics Data API</b> → <b>사용</b> 클릭</li>
+      <li>검색창에 <b>서비스 계정</b> → <b>서비스 계정 만들기</b></li>
+      <li>이름 <code>brandatlas-admin</code> → 만들고 계속 → 역할 없이 <b>완료</b></li>
+      <li>만들어진 계정 클릭 → <b>키</b> 탭 → <b>키 추가 → 새 키 만들기 → JSON</b> → 만들기</li>
+      <li>JSON 파일이 자동으로 내려받아집니다. <b>이 파일과 속성 ID를 담당자에게 전달</b></li>
+    </ol>
+    <h3 style="font-size:14px;margin:20px 0 8px">3. GA4에 읽기 권한 주기 <span class="muted" style="font-weight:400">· 1분</span></h3>
+    <ol style="margin:0 0 8px 20px;line-height:2">
+      <li>JSON 파일을 메모장으로 열어 <code>client_email</code> 값을 복사
+        (<code>…@….iam.gserviceaccount.com</code>)</li>
+      <li><code>analytics.google.com</code> → <b>관리</b> → <b>속성 액세스 관리</b></li>
+      <li>오른쪽 위 <b>+</b> → <b>사용자 추가</b> → 그 이메일 붙여넣기</li>
+      <li>역할은 <b>뷰어</b> 선택 → <b>추가</b></li>
+    </ol>
+    <p class="muted" style="margin-top:14px">JSON 키 파일은 비밀번호와 같습니다. 채팅으로 보내지 마시고, 파일 위치만 알려주시면 담당자가 서버에 안전하게 넣습니다.</p>` }));
+  return wrap;
 }
 
 // ─── 9. 설정 ────────────────────────────────────────────────────────────────

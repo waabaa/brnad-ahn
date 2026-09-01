@@ -51,6 +51,8 @@ NCP_KEY_ID = os.environ.get("NCP_APIGW_KEY_ID", "")
 NCP_KEY = os.environ.get("NCP_APIGW_KEY", "")
 GA4_MEASUREMENT_ID = os.environ.get("GA4_MEASUREMENT_ID", "")
 GA4_PROPERTY_ID = os.environ.get("GA4_PROPERTY_ID", "")
+GA4_SA_KEY_FILE = Path(os.environ.get("GA4_SA_KEY_FILE", str(DATA_DIR.parent / "ga4-service-account.json")))
+GA4_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
 
 
 # ─── 인증 ──────────────────────────────────────────────────────────────────
@@ -241,6 +243,123 @@ def crawler_report(days: int = 7) -> dict:
     }
 
 
+# ─── GA4 Data API ──────────────────────────────────────────────────────────
+# 측정 ID(G-…)는 데이터를 "보내는" 쪽이고, 여기서 데이터를 "읽으려면" 속성 ID와
+# 서비스 계정 권한이 따로 필요하다. 자격증명이 없으면 조용히 비활성으로 두고
+# 나머지 기능은 그대로 돌아간다 — 어드민 전체가 GA4에 묶이면 안 된다.
+_ga4_token: dict = {"value": None, "expires": 0.0}
+
+
+def ga4_ready() -> tuple[bool, str]:
+    if not GA4_PROPERTY_ID:
+        return False, "GA4_PROPERTY_ID 미설정 (GA4 관리 → 속성 세부정보의 9자리 숫자)"
+    if not GA4_SA_KEY_FILE.exists():
+        return False, f"서비스 계정 키 파일 없음: {GA4_SA_KEY_FILE}"
+    try:
+        import google.oauth2.service_account  # noqa: F401
+        import google.auth.transport.requests  # noqa: F401
+    except ImportError:
+        return False, "google-auth·requests 미설치 (admin/requirements.txt)"
+    return True, ""
+
+
+def ga4_access_token() -> str:
+    """서비스 계정으로 액세스 토큰을 받는다. 만료 1분 전까지 재사용한다."""
+    if _ga4_token["value"] and time.time() < _ga4_token["expires"] - 60:
+        return _ga4_token["value"]
+    from google.oauth2 import service_account
+    from google.auth.transport.requests import Request as GoogleRequest
+    creds = service_account.Credentials.from_service_account_file(
+        str(GA4_SA_KEY_FILE), scopes=[GA4_SCOPE])
+    creds.refresh(GoogleRequest())
+    _ga4_token["value"] = creds.token
+    _ga4_token["expires"] = creds.expiry.replace(tzinfo=timezone.utc).timestamp() if creds.expiry else time.time() + 3000
+    return creds.token
+
+
+def ga4_call(method: str, body: dict) -> dict:
+    url = f"https://analyticsdata.googleapis.com/v1beta/properties/{GA4_PROPERTY_ID}:{method}"
+    data = json.dumps(body).encode("utf-8")
+    req = urllib.request.Request(url, data=data, method="POST", headers={
+        "Authorization": f"Bearer {ga4_access_token()}",
+        "Content-Type": "application/json",
+    })
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def ga4_rows(payload: dict) -> list[dict]:
+    """runReport 응답을 [{차원…, 지표…}] 로 편다."""
+    dims = [h["name"] for h in payload.get("dimensionHeaders", [])]
+    mets = [h["name"] for h in payload.get("metricHeaders", [])]
+    out = []
+    for row in payload.get("rows", []) or []:
+        rec = {}
+        for i, d in enumerate(dims):
+            rec[d] = row["dimensionValues"][i]["value"]
+        for i, m in enumerate(mets):
+            v = row["metricValues"][i]["value"]
+            try:
+                rec[m] = float(v) if "." in v else int(v)
+            except ValueError:
+                rec[m] = v
+        out.append(rec)
+    return out
+
+
+def ga4_report(days: int = 28) -> dict:
+    rng = [{"startDate": f"{days}daysAgo", "endDate": "today"}]
+    summary = ga4_rows(ga4_call("runReport", {
+        "dateRanges": rng,
+        "metrics": [{"name": n} for n in
+                    ("activeUsers", "sessions", "screenPageViews", "averageSessionDuration", "bounceRate")],
+    }))
+    daily = ga4_rows(ga4_call("runReport", {
+        "dateRanges": rng,
+        "dimensions": [{"name": "date"}],
+        "metrics": [{"name": "activeUsers"}, {"name": "sessions"}, {"name": "screenPageViews"}],
+        "orderBys": [{"dimension": {"dimensionName": "date"}}],
+        "limit": 400,
+    }))
+    pages = ga4_rows(ga4_call("runReport", {
+        "dateRanges": rng,
+        "dimensions": [{"name": "pagePath"}],
+        "metrics": [{"name": "screenPageViews"}, {"name": "activeUsers"}],
+        "orderBys": [{"metric": {"metricName": "screenPageViews"}, "desc": True}],
+        "limit": 30,
+    }))
+    channels = ga4_rows(ga4_call("runReport", {
+        "dateRanges": rng,
+        "dimensions": [{"name": "sessionDefaultChannelGroup"}],
+        "metrics": [{"name": "sessions"}, {"name": "activeUsers"}],
+        "orderBys": [{"metric": {"metricName": "sessions"}, "desc": True}],
+        "limit": 15,
+    }))
+    sources = ga4_rows(ga4_call("runReport", {
+        "dateRanges": rng,
+        "dimensions": [{"name": "sessionSource"}],
+        "metrics": [{"name": "sessions"}],
+        "orderBys": [{"metric": {"metricName": "sessions"}, "desc": True}],
+        "limit": 15,
+    }))
+    try:
+        realtime = ga4_rows(ga4_call("runRealtimeReport", {"metrics": [{"name": "activeUsers"}]}))
+    except (urllib.error.URLError, ValueError, KeyError):
+        realtime = []
+    return {
+        "enabled": True,
+        "days": days,
+        "propertyId": GA4_PROPERTY_ID,
+        "measurementId": GA4_MEASUREMENT_ID or None,
+        "summary": summary[0] if summary else {},
+        "realtimeUsers": realtime[0].get("activeUsers") if realtime else None,
+        "daily": daily,
+        "pages": pages,
+        "channels": channels,
+        "sources": sources,
+    }
+
+
 # ─── HTTP ──────────────────────────────────────────────────────────────────
 class Handler(BaseHTTPRequestHandler):
     server_version = "brandatlas-admin"
@@ -354,6 +473,8 @@ class Handler(BaseHTTPRequestHandler):
                 "naverApi": bool(NCP_KEY_ID and NCP_KEY),
                 "ga4MeasurementId": GA4_MEASUREMENT_ID or None,
                 "ga4PropertyId": GA4_PROPERTY_ID or None,
+                "ga4Ready": ga4_ready()[0],
+                "ga4Reason": ga4_ready()[1] or None,
                 "nginxLogReadable": NGINX_LOG.exists() and os.access(NGINX_LOG, os.R_OK),
                 "snapshotPath": str(DATA_DIR / "admin-snapshot.json"),
             })
@@ -369,10 +490,18 @@ class Handler(BaseHTTPRequestHandler):
             except OSError as e:
                 return self._json(500, {"error": f"로그 읽기 실패: {e}"})
         if route == "/api/ga4":
-            if not GA4_PROPERTY_ID:
-                return self._json(200, {"enabled": False,
-                                        "reason": "GA4_PROPERTY_ID 미설정 — 측정 ID·속성 ID를 넣으면 활성화됩니다."})
-            return self._json(200, {"enabled": False, "reason": "GA4 Data API 연동 준비 중"})
+            ok, why = ga4_ready()
+            if not ok:
+                return self._json(200, {"enabled": False, "reason": why,
+                                        "measurementId": GA4_MEASUREMENT_ID or None})
+            days = max(1, min(int((qs.get("days") or ["28"])[0] or 28), 365))
+            try:
+                return self._json(200, ga4_report(days))
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode("utf-8", "replace")[:400]
+                return self._json(502, {"error": f"GA4 조회 실패 HTTP {e.code}: {detail}"})
+            except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
+                return self._json(502, {"error": f"GA4 조회 실패: {e}"})
         return self._json(404, {"error": "not found"})
 
 

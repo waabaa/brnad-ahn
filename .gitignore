@@ -41,3 +41,7 @@ web-design/brand_atlas_handoff/scratchpad/
 web-design/brand_atlas_handoff/reports/*
 !web-design/brand_atlas_handoff/reports/page-dates.json
 !web-design/brand_atlas_handoff/reports/wikidata-entity-links.json
+
+# GA4 서비스 계정 키는 저장소에 두지 않는다.
+ga4-service-account*.json
+*-service-account*.json

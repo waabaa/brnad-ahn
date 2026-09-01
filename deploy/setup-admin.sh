@@ -30,11 +30,22 @@ ADMIN_PORT=8810
 ADMIN_HOST=127.0.0.1
 ADMIN_DATA_DIR=$REMOTE/data
 ADMIN_NGINX_LOG=/var/log/nginx/brandatlas.co.kr.access.log
+GA4_SA_KEY_FILE=$REMOTE/ga4-service-account.json
 NCP_APIGW_KEY_ID=${NCP_APIGW_KEY_ID:-}
 NCP_APIGW_KEY=${NCP_APIGW_KEY:-}
 GA4_MEASUREMENT_ID=${GA4_MEASUREMENT_ID:-}
 GA4_PROPERTY_ID=${GA4_PROPERTY_ID:-}
 EOF
+
+# ── 1-b) venv — GA4 Data API에만 필요하다 ──────────────────────────────────
+# 나머지 기능은 표준 라이브러리로 돌기 때문에, 설치가 실패해도 어드민은 뜬다.
+scp -q "${SSH_OPTS[@]}" "$REPO/admin/requirements.txt" "$SSH_TARGET:$REMOTE/requirements.txt"
+ssh "${SSH_OPTS[@]}" "$SSH_TARGET" "
+  cd $REMOTE
+  [ -d .venv ] || python3 -m venv .venv
+  ./.venv/bin/pip install -q --upgrade pip >/dev/null 2>&1 || true
+  ./.venv/bin/pip install -q -r requirements.txt && echo 'venv 준비 완료' || echo '경고: 의존성 설치 실패 — GA4 탭만 비활성으로 동작합니다'
+"
 
 # ── 2) systemd 시스템 유닛 ─────────────────────────────────────────────────
 #
@@ -54,7 +65,7 @@ Group=developer
 SupplementaryGroups=adm
 WorkingDirectory=$REMOTE
 EnvironmentFile=$REMOTE/env
-ExecStart=/usr/bin/python3 $REMOTE/admin_server.py
+ExecStart=$REMOTE/.venv/bin/python $REMOTE/admin_server.py
 Restart=on-failure
 RestartSec=3
 NoNewPrivileges=yes
