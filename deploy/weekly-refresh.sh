@@ -15,6 +15,13 @@ set -euo pipefail
 
 REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SITE="$REPO/web-design/brand_atlas_handoff"
+
+# 네이버 검색 API 키(NAVER API HUB / NCP)는 저장소 밖에 둔다 — 커밋되면 안 되고,
+# cron은 ~/.bashrc를 읽지 않으므로 여기서 직접 읽어 준다. 없으면 색인 측정만
+# 건너뛰고 나머지는 그대로 진행한다.
+ENV_FILE="${BRANDATLAS_ENV:-$HOME/.config/brandatlas/env}"
+# shellcheck source=/dev/null
+[ -r "$ENV_FILE" ] && . "$ENV_FILE"
 DEPLOY=1
 [ "${1:-}" = "--no-deploy" ] && DEPLOY=0
 

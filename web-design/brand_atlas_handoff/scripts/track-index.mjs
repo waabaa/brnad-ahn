@@ -103,7 +103,7 @@ const log = fs.existsSync(LOG)
 const auto = await naverIndexed();
 const idx = manualIndexed != null
   ? { value: Number(manualIndexed), reason: "", source: "manual" }
-  : { ...auto, source: "api" };
+  : auto;   // source는 naverIndexed()가 어느 경로로 쟀는지 그대로 담는다(apihub|developers)
 const live = await liveCheck();
 
 const entry = {
