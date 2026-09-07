@@ -1,5 +1,38 @@
 # 브랜드 아틀라스 — 변경 이력
 
+## 2026-09-07 — 아카이브 완성도 재건 (데이터·구조·디자인 전면 개편)
+
+계획서: `.omc/plans/brand-atlas-archive-quality-2026-09.md`. 검증 4종(crawl-graph·qa-seo·audit 21/21·redirects 757) 통과 후 배포.
+
+### 데이터
+- **외부 핫링크 제거** — 로고 190·대표 이미지 279·BI/CI 559건이 namu.wiki·pstatic 등 외부 호스트를 직접 가리켰고
+  referer 차단(403)으로 라이브에서 깨져 있었다. `scripts/localize-external-assets.mjs`로 로고 132·이미지 90·BI/CI 275건을
+  자사 도메인(`images/logos|photos|bici/`)으로 가져왔다. namu.wiki 53건은 봇 차단으로 불가 → 로고 없음 처리.
+- **파일 없는 BI/CI 항목 509건 제거**(`prune-logo-history.mjs`) — "로고 변천사"가 빈 박스로 발행되던 원인.
+- **Wikidata 팩트** — QID 확정 408건에서 국가 363·설립일 380·본사 350·창업자 130·모기업 126을 가져와 `brand.wikidata`에
+  기록(`enrich-wikidata-facts.mjs`). 훼손 레이블(소문자 라틴)은 버린다. 설립연도 확인 브랜드 36% → 538건, 기원 국가 486건.
+- **로고 보강** — Commons(P154) 2건 + 공식 사이트(apple-touch-icon·logo img) 44건 중 육안 검수로 7건 기각 → 37건 채택.
+  손으로 확인한 공식 도메인 55건을 `officialWebsite`에 채웠다. 로고 보유 1,004건.
+- **아카이브 등급** — 한글 표기·로고가 모두 없는 388건을 `directory`로 분리(noindex, 목록·홈·sitemap·llms 제외,
+  `pages/directory.html`에서만 링크). 본 목록 1,061건, 그중 core 539건.
+
+### 구조·디자인
+- 디자인 시스템 재작성(`styles.css`): Pretendard, 본문 400, 로고 타일 중심, 체크박스 모바일 메뉴(JS 불필요).
+- 페이지 셸 통일(`lib/page-shell.mjs`): 헤더 검색창, 한글 내비(브랜드 사전·산업별·국가별·로고 아카이브·타임라인·인사이트), 푸터 안내 링크.
+- 브랜드 페이지(`lib/brand-render.mjs`): 검증값만 담은 **브랜드 정보 표**(출처 표기), **질문형 H2**(데이터 있는 절만),
+  목차, 로고 변천사, FAQ(창업자·본사·모기업 추가), 출처와 검증 절, 관련 브랜드 로고 타일. `dateModified`는 본문 텍스트 해시 기준.
+- 허브 전면 정적화·재설계: 카테고리 12·국가 15(설명 포함 목록으로 700자 기준 충족), 신규 `pages/ganada.html`(가나다·ABC 색인),
+  `pages/countries.html`, `pages/directory.html`, `pages/about.html`(편집 원칙), `pages/privacy.html`, `pages/contact.html`.
+  `industry`·`bici`(로고 월 885)·`timeline`·`insights` 는 app.js 없이 완결.
+- 홈 재작성: 검색 → 산업 카드 → 주요 브랜드 48 타일 → 오늘의 브랜드(빌드 날짜 결정) → 최근 갱신 → 가나다·국가 → 편집 원칙.
+- 검색: 8.4MB JSON 대신 `data/search-index.json`(393KB) + **초성 검색**(ㄱㅉ→구찌) + 로고 결과.
+- 문의 채널: 자체 폼 → `/contact-api/submit`(nginx rate limit) → 어드민 "문의" 탭(`admin_server.py`, 이메일 발송 없음).
+- 검증 스크립트 갱신: AC-A6 "sitemap == 색인 대상", AC-B4 비율 기준, 허브 목록에 ganada 추가.
+
+### 잔여
+- namu.wiki 출처였던 한국 브랜드 로고 ~50건(카페베네·빙그레 바나나맛우유·해찬들 등) — 공식 사이트 수집 실패분은 육안 수집 필요.
+- 국가 허브 노르웨이·뉴질랜드는 브랜드 수 미달로 제거(→ `/pages/countries.html` 301).
+
 ## 2026-09-01 — GEO(AI 검색) 대응 + 잔여 기술 결함 교정
 
 2026-08-15 Phase A~E로 수용기준 13항목이 전부 통과한 뒤 재감사해 남은 손실 10건을 교정했다.

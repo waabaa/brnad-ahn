@@ -75,7 +75,9 @@ for (const f of files) {
   if (h.includes("pages/brand-artemio.html")) artemioLinked++;
   if (/<article class="timeline-node">[\s\S]*?\.\.\.<\/span>/.test(h)) staleEllipsis++;
 
-  const m = /<section class="mag-grid">([\s\S]*?)<\/section>\s*<\/div><footer/.exec(h);
+  // 2026-09 재설계: 본문은 <div class="brand-main" id="brandPage"> … <!--related--> 구간(사이드·관련 제외)
+  const m = /<div class="brand-main" id="brandPage">([\s\S]*?)<!--related-->/.exec(h)
+    || /<section class="mag-grid">([\s\S]*?)<\/section>\s*<\/div><footer/.exec(h);
   let body = m ? m[1] : "";
   body = body.replace(/<section class="cell wide related-cell"[\s\S]*/, " ");
   bodyLens.push(body.replace(TAG, " ").replace(/\s+/g, " ").trim().length);
@@ -96,7 +98,7 @@ const staticBrandLinks = (rel) => {
   return set.size;
 };
 
-let sitemapLocs = 0, sitemapFiles = 0, sitemapImages = 0, lastmods = new Set();
+let sitemapLocs = 0, sitemapFiles = 0, sitemapImages = 0, sitemapHubLocs = 0, lastmods = new Set();
 const smIndex = path.join(ROOT, "sitemap.xml");
 if (fs.existsSync(smIndex)) {
   const s = fs.readFileSync(smIndex, "utf8");
@@ -106,6 +108,7 @@ if (fs.existsSync(smIndex)) {
     const p3 = path.join(ROOT, c);
     if (!fs.existsSync(p3)) continue;
     const x = fs.readFileSync(p3, "utf8");
+    if (c === "sitemap-hubs.xml") sitemapHubLocs += (x.match(/<loc>/g) || []).length;
     sitemapLocs += (x.match(/<loc>/g) || []).length;
     sitemapImages += (x.match(/<image:loc>/g) || []).length;
     for (const m of x.matchAll(/<lastmod>([^<]+)<\/lastmod>/g)) lastmods.add(m[1]);
@@ -151,6 +154,8 @@ const report = {
       "pages/insights.html": staticBrandLinks("pages/insights.html"),
       "pages/bici.html": staticBrandLinks("pages/bici.html"),
       "pages/timeline.html": staticBrandLinks("pages/timeline.html"),
+      "pages/ganada.html": staticBrandLinks("pages/ganada.html"),
+      "pages/countries.html": staticBrandLinks("pages/countries.html") ?? 0,
     },
     insightsBytes: fs.existsSync(path.join(ROOT, "pages/insights.html"))
       ? fs.statSync(path.join(ROOT, "pages/insights.html")).size : 0,
@@ -192,7 +197,7 @@ const report = {
     lens.sort((a, b) => a - b);
     return { pages: lens.length, min: lens[0] ?? 0, p50: lens[Math.floor(lens.length / 2)] ?? 0, under700: lens.filter(x => x < 700).length };
   })(),
-  sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, distinctLastmod: lastmods.size, imageEntries: sitemapImages },
+  sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, hubLocs: sitemapHubLocs, brandLocs: sitemapLocs - sitemapHubLocs, distinctLastmod: lastmods.size, imageEntries: sitemapImages },
   rssItems: fs.existsSync(path.join(ROOT, "rss.xml"))
     ? (fs.readFileSync(path.join(ROOT, "rss.xml"), "utf8").match(/<item>/g) || []).length : 0,
 };
@@ -202,7 +207,7 @@ if (asJson) {
 } else {
   console.log(JSON.stringify(report, null, 1));
   const ac = [
-    ["AC-A1 허브 정적 링크 > 0", Object.values(report.hubs.staticBrandLinks).every(v => v > 0)],
+    ["AC-A1 허브 정적 링크 > 0", Object.entries(report.hubs.staticBrandLinks).filter(([k]) => k !== "pages/countries.html").every(([, v]) => v > 0)],
     ["AC-A2 카테고리 페이지 == 12", report.hubs.categoryPages === 12],
     // 2026-09 개정: 개수 기준(>=15)에서 품질 기준으로 바꿨다. 종전에는 브랜드 5개짜리
     // 국가도 발행해 본문 600자대 껍데기가 섞였고, 그런 허브는 색인되지 않아 크롤 경로로
@@ -210,11 +215,12 @@ if (asJson) {
     // (직전 507). 개수보다 "발행된 허브가 실제로 색인될 수 있는가"가 목적에 맞다.
     ["AC-A3 국가 페이지 >= 12 (전부 본문 기준 충족)", report.hubs.countryPages >= 12 && report.hubProse.under700 === 0],
     ["AC-A5 홈 정적 링크 >= 60", (report.hubs.staticBrandLinks["index.html"] || 0) >= 60],
-    ["AC-A6 sitemap index 구성", report.sitemap.childFiles >= 2 && report.sitemap.totalLocs > 1400],
+    // 2026-09: 디렉토리 등급(noindex)을 sitemap에서 빼므로 절대 수 대신 "색인 대상 == sitemap 브랜드 수"를 본다.
+    ["AC-A6 sitemap == 색인 대상(브랜드 페이지 − noindex) + 허브", report.sitemap.childFiles >= 2 && report.sitemap.brandLocs === report.brandPages - report.noindexThin && report.sitemap.hubLocs >= 20],
     ["AC-B1 '브랜드 매거진' 잔존 == 0", report.title.containsMagazineFiller === 0],
     ["AC-B1 title <= 62자 95%+", report.title.over62chars / files.length <= 0.05],
     ["AC-B3 desc 80~155 95%+", report.description.within80to155 / files.length >= 0.95],
-    ["AC-B4 FAQPage >= 1200", report.faqPageJsonLd >= 1200],
+    ["AC-B4 FAQPage >= 색인 대상의 85%", report.faqPageJsonLd >= Math.floor((report.brandPages - report.noindexThin) * 0.85)],
     ["AC-B5 desc 중복 0 / title 중복은 canonical 통합됨", report.description.duplicateGroups === 0 && report.title.duplicateGroups <= report.canonicalMerged],
     ["AC-C1 empty-note == 0", report.emptyNotePages === 0],
     ["AC-D1 rss >= 100", report.rssItems >= 100],

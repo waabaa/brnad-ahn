@@ -1,23 +1,64 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>브랜드 검색 | 브랜드 아틀라스</title><meta name="description" content="브랜드명, 산업, 관점 키워드로 브랜드 사전 항목을 검색합니다."><meta name="robots" content="index,follow"><meta property="og:type" content="website"><meta property="og:title" content="브랜드 검색 | 브랜드 아틀라스"><meta property="og:description" content="브랜드명, 산업, 관점 키워드로 브랜드 사전 항목을 검색합니다."><meta property="og:url" content="https://brandatlas.co.kr/pages/search.html"><meta property="og:image" content="https://brandatlas.co.kr/assets/objects/search_result_panel.png"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="canonical" href="https://brandatlas.co.kr/pages/search.html"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../styles.css?v=20260901b"><script async src="https://www.googletagmanager.com/gtag/js?id=G-EE13LML8RQ"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-EE13LML8RQ');</script></head>
-<body><a href="#main-content" class="skip-nav">본문 바로가기</a><div id="head"></div><main id="main-content" class="wrap"><section class="page-title"><div><p class="kicker">BRAND SEARCH</p><h1>브랜드 검색</h1><p class="lead">브랜드명, 산업, 제품, 인물, 관점 키워드로 <span id="brandCount">1,191</span>개 브랜드 사전 항목을 탐색합니다.</p><div class="search"><input id="query" type="search" aria-label="브랜드 검색어" placeholder="예: 디자인, 공간, 스타벅스, 모빌리티"><button aria-label="검색">⌕</button></div></div></section><section class="section-grid"><div class="panel"><h2>검색 결과</h2><div class="result-list" id="results"></div></div><aside class="panel"><h2>인기 검색어</h2><div class="chips" id="keywordLinks"></div></aside></section><footer class="footer"><nav class="footer-nav" aria-label="사이트맵"><a href="../pages/brands.html">전체 브랜드 목록</a> · <a href="../pages/industry.html">산업별 탐색</a> · <a href="../pages/insights.html">브랜드 인사이트</a> · <a href="../pages/timeline.html">타임라인</a> · <a href="../pages/bici.html">BI/CI 아카이브</a> · <a href="../pages/search.html">검색</a></nav><span>브랜드는 시대를 기록하고, 문화를 만들며, 미래를 설계합니다.</span><div class="footer-brand"><img src="../assets/objects/archetypos_logo.png" alt="아키타이포스 로고" width="284" height="66" decoding="async"><span>브랜드성장연구소 <b>아키타이포스</b></span></div></footer></main><script src="../app.js?v=20260629d" defer></script><script>document.addEventListener("DOMContentLoaded", () => {
-document.getElementById("head").innerHTML = header("검색");
-loadData().then(d => {
-  const allBrands = d.allBrands || d.brands;
-  const cnt = document.getElementById("brandCount");
-  if (cnt) cnt.textContent = (allBrands.length || 0).toLocaleString();
-  const input = document.getElementById("query");
-  const params = new URLSearchParams(location.search);
-  const renderResults = q => {
-    const query = (q || "").trim();
-    if (query) history.replaceState(null, "", `search.html?q=${encodeURIComponent(query)}`);
-    const rows = searchBrands(allBrands, query, 24);
-    document.getElementById("results").innerHTML = rows.map(b => `<a class="result-item" href="../brand/${encodeURIComponent(b.urlSlug || b.slug)}.html"><img src="${asset(b.image)}" alt="${b.name} 브랜드 이미지" loading="lazy" decoding="async"><div><b>${b.name}</b><p>${b.industry} · ${tierLabel(b.tier)}</p><small>${short(b.definition, 140)}</small></div></a>`).join("") || `<p class="empty-note">검색 결과가 없습니다.</p>`;
-    enhanceImages(document);
-  };
-  document.getElementById("keywordLinks").innerHTML = d.keywords.map(k => `<a class="chip tag-chip" href="search.html?q=${encodeURIComponent(k)}">${k}</a>`).join("");
-  input.value = params.get("q") || "";
-  renderResults(input.value);
-  input.addEventListener("input", e => renderResults(e.target.value));
-  document.querySelector(".search button").addEventListener("click", () => renderResults(input.value));
-});
-});</script></body></html>
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>브랜드 검색 — 한글·원어·초성으로 찾기 | 브랜드 아틀라스</title><meta name="description" content="브랜드 아틀라스에 수록된 브랜드를 한글 이름, 원어 이름, 초성(예: ㄱㅉ), 산업 키워드로 검색합니다."><meta name="robots" content="index,follow"><meta property="og:type" content="website"><meta property="og:site_name" content="브랜드 아틀라스"><meta property="og:locale" content="ko_KR"><meta property="og:title" content="브랜드 검색 | 브랜드 아틀라스"><meta property="og:description" content="브랜드를 한글·원어·초성·산업 키워드로 검색합니다."><meta property="og:url" content="https://brandatlas.co.kr/pages/search.html"><meta property="og:image" content="https://brandatlas.co.kr/assets/objects/brand_atlas_logo_mark.png"><meta name="twitter:card" content="summary"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="manifest" href="../site.webmanifest"><link rel="canonical" href="https://brandatlas.co.kr/pages/search.html"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="https://brandatlas.co.kr/rss.xml"><link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"><link rel="stylesheet" href="../styles.css?v=20260907a"><script async src="https://www.googletagmanager.com/gtag/js?id=G-EE13LML8RQ"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-EE13LML8RQ');</script></head>
+<body><a href="#main-content" class="skip-nav">본문 바로가기</a><header class="site-header"><input type="checkbox" id="menu-toggle" aria-hidden="true"><div class="bar"><a class="logo" href="../index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><nav class="nav" aria-label="주 메뉴"><a class="" href="../pages/ganada.html">브랜드 사전</a><a class="" href="../pages/industry.html">산업별</a><a class="" href="../pages/countries.html">국가별</a><a class="" href="../pages/bici.html">로고 아카이브</a><a class="" href="../pages/timeline.html">타임라인</a><a class="" href="../pages/insights.html">인사이트</a></nav><form class="hdr-search" role="search" action="../pages/search.html" method="get"><label class="sr-only" for="hdr-q">브랜드 검색</label><input id="hdr-q" name="q" type="search" placeholder="브랜드명·초성으로 검색" autocomplete="off"><button type="submit" aria-label="검색"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button></form><label class="menu-btn" for="menu-toggle" aria-label="메뉴 열기"><span></span><span></span><span></span></label></div><div class="mobile-menu"><div class="inner"><form role="search" action="../pages/search.html" method="get"><label class="sr-only" for="m-q">브랜드 검색</label><input id="m-q" name="q" type="search" placeholder="브랜드명·초성으로 검색"><button type="submit">검색</button></form><nav aria-label="모바일 메뉴"><a class="" href="../pages/ganada.html">브랜드 사전</a><a class="" href="../pages/industry.html">산업별</a><a class="" href="../pages/countries.html">국가별</a><a class="" href="../pages/bici.html">로고 아카이브</a><a class="" href="../pages/timeline.html">타임라인</a><a class="" href="../pages/insights.html">인사이트</a><a href="../pages/about.html">소개</a></nav></div></div></header><main id="main-content">
+<div class="page-head"><div class="wrap"><nav class="crumbs" aria-label="현재 위치"><a href="../index.html">브랜드 사전</a> <span>›</span> <b>검색</b></nav><span class="kicker">검색</span><h1>브랜드 검색</h1><p class="lead">한글 이름, 원어 이름, 초성(예: <b>ㄱㅉ</b> → 구찌), 산업 키워드로 찾습니다. 입력하는 대로 결과가 바뀝니다.</p><form class="hero-search" id="searchForm" role="search" action="search.html" method="get" style="margin-top:18px"><label class="sr-only" for="query">검색어</label><input id="query" name="q" type="search" placeholder="예: 구찌, ㄱㅉ, gucci, 커피" autocomplete="off" autofocus><button type="submit">검색</button></form></div></div>
+<div class="wrap search-layout"><section><p class="search-status" id="status">인덱스를 불러오는 중…</p><div class="result-list" id="results"></div></section><aside><div class="facts"><h2>인기 검색어</h2><div class="chips" id="keywords"></div></div><div class="facts" style="margin-top:14px"><h2>산업별로 찾기</h2><div class="chips" id="industries"></div></div><div class="facts" style="margin-top:14px"><h2>다른 방법</h2><table><tbody><tr><th>색인</th><td><a href="ganada.html">가나다 · ABC</a></td></tr><tr><th>국가</th><td><a href="countries.html">국가별 브랜드</a></td></tr><tr><th>로고</th><td><a href="bici.html">로고 아카이브</a></td></tr></tbody></table></div></aside></div>
+</main><footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="../index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div><div><h4>찾아보기</h4><ul><li><a href="../pages/ganada.html">가나다 · ABC 색인</a></li><li><a href="../pages/industry.html">산업별 브랜드</a></li><li><a href="../pages/countries.html">국가별 브랜드</a></li><li><a href="../pages/brands.html">전체 브랜드 목록</a></li><li><a href="../pages/search.html">브랜드 검색</a></li></ul></div><div><h4>아카이브</h4><ul><li><a href="../pages/bici.html">로고 아카이브</a></li><li><a href="../pages/timeline.html">브랜드 타임라인</a></li><li><a href="../pages/insights.html">브랜드 인사이트</a></li><li><a href="../rss.xml">최근 갱신(RSS)</a></li></ul></div><div><h4>안내</h4><ul><li><a href="../pages/about.html">브랜드 아틀라스 소개</a></li><li><a href="../pages/about.html#principles">편집 원칙</a></li><li><a href="../pages/contact.html">문의</a></li><li><a href="../pages/privacy.html">개인정보 처리방침</a></li></ul></div></div><div class="legal"><img src="../assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>
+<script>
+(function(){
+  var CHO=["ㄱ","ㄲ","ㄴ","ㄷ","ㄸ","ㄹ","ㅁ","ㅂ","ㅃ","ㅅ","ㅆ","ㅇ","ㅈ","ㅉ","ㅊ","ㅋ","ㅌ","ㅍ","ㅎ"];
+  var SOFT={"ㄲ":"ㄱ","ㄸ":"ㄷ","ㅃ":"ㅂ","ㅆ":"ㅅ","ㅉ":"ㅈ"};
+  function cho(s){var o="";for(var i=0;i<s.length;i++){var c=s.charCodeAt(i)-0xac00;o+=(c>=0&&c<=11171)?CHO[Math.floor(c/588)]:s[i];}return o;}
+  function soft(s){return s.replace(/[ㄲㄸㅃㅆㅉ]/g,function(c){return SOFT[c]});}
+  function norm(s){return String(s||"").toLowerCase().normalize("NFC").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9가-힣ㄱ-ㅎ]+/g," ").trim();}
+  var isCho=function(q){return /^[ㄱ-ㅎ\s]+$/.test(q);};
+  var esc=function(s){return String(s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
+  var KEYWORDS=["디자인","커피","패션","자동차","화장품","게임","항공","백화점","치킨","스포츠","은행","제약"];
+  var input=document.getElementById("query"),results=document.getElementById("results"),status=document.getElementById("status");
+  var index=null;
+  function score(b,q,qc){
+    var n=norm(b.n),e=norm(b.e),i=norm(b.i),d=norm(b.d),a=(b.a||[]).map(norm).join(" ");
+    var s=0;
+    if(isCho(q)){var qq=soft(q.replace(/\s+/g,""));var bc=soft(b.c||"");if(!bc)return 0;if(bc===qq)s+=1000;else if(bc.indexOf(qq)===0)s+=700;else if(bc.indexOf(qq)>-1)s+=300;else return 0;}
+    else{
+      if(n===q||e===q)s+=1000;
+      else if(n.indexOf(q)===0||e.indexOf(q)===0)s+=650;
+      else if(n.indexOf(q)>-1||e.indexOf(q)>-1||a.indexOf(q)>-1)s+=400;
+      else if(i.indexOf(q)>-1)s+=180;
+      else if(d.indexOf(q)>-1)s+=110;
+      else if(qc&&b.c&&soft(b.c).indexOf(soft(qc))===0)s+=200;
+      else return 0;
+    }
+    if(b.t==="c")s+=40;else if(b.t==="d")s-=300;
+    if(b.l)s+=20;
+    return s;
+  }
+  function render(qRaw){
+    var q=norm(qRaw);
+    if(!index){status.textContent="인덱스를 불러오는 중…";return;}
+    if(!q){status.textContent="수록 브랜드 "+index.length.toLocaleString("ko-KR")+"개. 검색어를 입력하세요.";results.innerHTML="";return;}
+    var qc=/[가-힣]/.test(q)?cho(q):"";
+    var rows=[];
+    for(var k=0;k<index.length;k++){var sc=score(index[k],q,qc);if(sc>0)rows.push([sc,index[k]]);}
+    rows.sort(function(x,y){return y[0]-x[0]||x[1].n.localeCompare(y[1].n,"ko")});
+    var listed=rows.filter(function(r){return r[1].t!=="d"}),dir=rows.filter(function(r){return r[1].t==="d"});
+    var show=listed.slice(0,40);
+    if(!show.length)show=dir.slice(0,20);
+    status.textContent=rows.length?("\""+qRaw.trim()+"\" 결과 "+rows.length.toLocaleString("ko-KR")+"개"+(rows.length>show.length?" 중 상위 "+show.length+"개":"")):("\""+qRaw.trim()+"\"에 맞는 브랜드가 없습니다. 초성(예: ㅅㅌㅂㅅ)이나 원어 표기로도 찾아보세요.");
+    results.innerHTML=show.map(function(r){var b=r[1];var img=b.l?'<img src="../'+esc(b.l)+'" alt="'+esc(b.n)+' 로고" loading="lazy" decoding="async">':'<span class="none" aria-hidden="true"></span>';return '<a class="result-item" href="../brand/'+encodeURIComponent(b.s)+'.html">'+img+'<div><b>'+esc(b.n)+(b.e?' <span class="en">'+esc(b.e)+'</span>':'')+'</b><p>'+esc(b.i)+(b.t==="d"?' · 디렉토리 등급':'')+'</p><small>'+esc(b.d)+'</small></div></a>'}).join("");
+    try{history.replaceState(null,"","search.html?q="+encodeURIComponent(qRaw.trim()))}catch(e){}
+  }
+  document.getElementById("keywords").innerHTML=KEYWORDS.map(function(k){return '<a class="chip" href="search.html?q='+encodeURIComponent(k)+'">'+esc(k)+'</a>'}).join("");
+  var initial=new URLSearchParams(location.search).get("q")||"";
+  input.value=initial;
+  fetch("../data/search-index.json?v=20260907a",{cache:"force-cache"}).then(function(r){return r.json()}).then(function(j){
+    index=j.brands||[];
+    var inds={};index.forEach(function(b){if(b.i&&b.t!=="d")inds[b.i]=(inds[b.i]||0)+1});
+    document.getElementById("industries").innerHTML=Object.keys(inds).sort(function(a,b){return inds[b]-inds[a]}).map(function(i){return '<a class="chip" href="search.html?q='+encodeURIComponent(i)+'">'+esc(i)+' <small>'+inds[i]+'</small></a>'}).join("");
+    render(input.value);
+  }).catch(function(){status.textContent="검색 인덱스를 불러오지 못했습니다. 새로고침해 주세요."});
+  var t;input.addEventListener("input",function(){clearTimeout(t);t=setTimeout(function(){render(input.value)},80)});
+  document.getElementById("searchForm").addEventListener("submit",function(e){e.preventDefault();render(input.value)});
+  document.querySelectorAll("a.chip").forEach(function(a){a.addEventListener("click",function(e){var q=new URLSearchParams(a.getAttribute("href").split("?")[1]||"").get("q");if(q!==null){e.preventDefault();input.value=q;render(q);window.scrollTo({top:0,behavior:"smooth"})}})});
+  document.getElementById("industries").addEventListener("click",function(e){var a=e.target.closest("a.chip");if(!a)return;var q=new URLSearchParams(a.getAttribute("href").split("?")[1]||"").get("q");if(q!==null){e.preventDefault();input.value=q;render(q)}});
+})();
+</script></body></html>

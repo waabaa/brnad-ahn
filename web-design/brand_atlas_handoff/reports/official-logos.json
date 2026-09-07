@@ -1,0 +1,431 @@
+{
+ "generatedAt": "2026-09-07T01:00:27.776Z",
+ "targets": 73,
+ "added": [
+  {
+   "slug": "8bitpeoples",
+   "name": "8bitpeoples",
+   "kind": "og:image-logo",
+   "url": "https://s9.limitedrun.com/images/1100614/8bitpeoples_logo___ring_03_0276x0276.jpg",
+   "file": "images/logos/8bitpeoples-site-0aefeafe.jpg"
+  },
+  {
+   "slug": "eider",
+   "name": "아이더",
+   "kind": "og:image-logo",
+   "url": "https://www.eider.co.kr/bi/SEO.png",
+   "file": "images/logos/eider-site-81d22283.png"
+  },
+  {
+   "slug": "hy",
+   "name": "hy",
+   "kind": "og:image-logo",
+   "url": "https://www.hy.co.kr/images/kr/common/hy-brand-logo.jpg",
+   "file": "images/logos/hy-site-15cefa17.jpg"
+  },
+  {
+   "slug": "sisa-in",
+   "name": "시사IN",
+   "kind": "img-logo",
+   "url": "https://cdn.sisain.co.kr/image/logo/mobilelogo_20240404115546.svg",
+   "file": "images/logos/sisa-in-site-c8513b73.svg"
+  },
+  {
+   "slug": "tada",
+   "name": "타다",
+   "kind": "apple-touch-icon",
+   "url": "https://framerusercontent.com/images/WPIfZBDjxzFJFhY7M08wyT95rs.png",
+   "file": "images/logos/tada-site-d159b139.png"
+  },
+  {
+   "slug": "hollys-coffee",
+   "name": "할리스커피",
+   "kind": "img-logo",
+   "url": "https://www.hollys.co.kr/websrc/images/layout/logo_210302.gif",
+   "file": "images/logos/hollys-coffee-site-de3a7e32.gif"
+  },
+  {
+   "slug": "noonnoppi",
+   "name": "눈높이",
+   "kind": "img-logo",
+   "url": "https://noonnoppi.daekyo.com/static/img/common/logo.gif",
+   "file": "images/logos/noonnoppi-site-b354dc7d.gif"
+  },
+  {
+   "slug": "wise-camp",
+   "name": "와이즈캠프",
+   "kind": "img-logo",
+   "url": "https://www.wisecamp.com/images/new_images/logo/visang_logo_2022.png",
+   "file": "images/logos/wise-camp-site-a0c7e4c2.png"
+  },
+  {
+   "slug": "gongsin-study-god",
+   "name": "공부의신",
+   "kind": "img-logo",
+   "url": "https://www.gongsin.com/images/logo.png?v101",
+   "file": "images/logos/gongsin-study-god-site-c2799f5f.png"
+  },
+  {
+   "slug": "muhak-2",
+   "name": "무학소주",
+   "kind": "img-logo",
+   "url": "https://muhak-bucket.s3.us-west-2.amazonaws.com/wp-content/uploads/2025/06/16043223/logo-muhak.svg",
+   "file": "images/logos/muhak-2-site-65d6e4e4.svg"
+  },
+  {
+   "slug": "chorokmaeul",
+   "name": "초록마을",
+   "kind": "img-logo",
+   "url": "https://www.choroc.com/new/_next/static/media/logo.d43b4468.svg",
+   "file": "images/logos/chorokmaeul-site-57f4d620.svg"
+  },
+  {
+   "slug": "dong-kook-pharmaceutical",
+   "name": "동국제약",
+   "kind": "img-logo",
+   "url": "https://www.dkpharm.co.kr/images/common/w-gnb-logo-white.png",
+   "file": "images/logos/dong-kook-pharmaceutical-site-fb3eb2ec.png"
+  },
+  {
+   "slug": "apr",
+   "name": "에이피알",
+   "kind": "img-logo",
+   "url": "https://www.apr-in.com/img/mo_nav_apec_logo.webp",
+   "file": "images/logos/apr-site-8485c093.webp"
+  },
+  {
+   "slug": "hyungji",
+   "name": "형지",
+   "kind": "img-logo",
+   "url": "https://www.hyungji.co.kr/app/images/common/main_logo.png",
+   "file": "images/logos/hyungji-site-6553b8d6.png"
+  },
+  {
+   "slug": "gangnam-unni",
+   "name": "강남언니",
+   "kind": "og:image-logo",
+   "url": "https://www.gangnamunni.com/images/kr/og-rebrand-logo.png",
+   "file": "images/logos/gangnam-unni-site-dd6b9a10.png"
+  },
+  {
+   "slug": "kickgoing",
+   "name": "킥고잉",
+   "kind": "img-logo",
+   "url": "https://kickgoing.io/image/Logo_Eng_White.png?v=20221205",
+   "file": "images/logos/kickgoing-site-3e6f0024.png"
+  },
+  {
+   "slug": "hyundai-livart",
+   "name": "현대리바트",
+   "kind": "img-logo",
+   "url": "https://static.hyundailivart.co.kr/assets/images/common/logo_sams.png",
+   "file": "images/logos/hyundai-livart-site-0b09ffd8.png"
+  },
+  {
+   "slug": "casamia",
+   "name": "까사미아",
+   "kind": "og:image-logo",
+   "url": "https://www.guud.com/pc/assets/images/header/logo-pc.png",
+   "file": "images/logos/casamia-site-2205ddb0.png"
+  },
+  {
+   "slug": "winia-dimchae",
+   "name": "위니아딤채",
+   "kind": "img-logo",
+   "url": "https://www.winia.com/resources/images/com/logo_winiadimchae.svg",
+   "file": "images/logos/winia-dimchae-site-6bf252f2.svg"
+  },
+  {
+   "slug": "social-solidarity-bank",
+   "name": "사회연대은행",
+   "kind": "img-logo",
+   "url": "https://www.bss.or.kr/wp-content/uploads/2024/09/site-logo-1.png",
+   "file": "images/logos/social-solidarity-bank-site-f737f037.png"
+  },
+  {
+   "slug": "oimu",
+   "name": "오이뮤",
+   "kind": "img-logo",
+   "url": "https://oimu-seoul.com/web/upload/product/icon/oimuLogoB.png",
+   "file": "images/logos/oimu-site-74bc691e.png"
+  },
+  {
+   "slug": "fitpet",
+   "name": "핏펫",
+   "kind": "img-logo",
+   "url": "https://fitpet.co.kr/front/image/new-logo-blue.png",
+   "file": "images/logos/fitpet-site-d5f2cbed.png"
+  },
+  {
+   "slug": "aboutpet",
+   "name": "어바웃펫",
+   "kind": "apple-touch-icon",
+   "url": "https://www.aboutpet.co.kr/_images/common/favicon.png",
+   "file": "images/logos/aboutpet-site-9db33562.png"
+  },
+  {
+   "slug": "boryung-medience",
+   "name": "보령메디앙스",
+   "kind": "img-logo",
+   "url": "https://www.medience.co.kr/images/ico/m_logo2.png",
+   "file": "images/logos/boryung-medience-site-2ad5f97e.png"
+  },
+  {
+   "slug": "gs-xi",
+   "name": "GS자이",
+   "kind": "img-logo",
+   "url": "https://www.xi.co.kr/Content/static/images/common/logo.png",
+   "file": "images/logos/gs-xi-site-aa5bbd84.png"
+  },
+  {
+   "slug": "oasis-market",
+   "name": "오아시스마켓",
+   "kind": "img-logo",
+   "url": "https://oasisprodcom.edge.naverncp.com/pc/img/img_babyFood_logo.gif",
+   "file": "images/logos/oasis-market-site-6e497c48.gif"
+  },
+  {
+   "slug": "welcome-savings-bank",
+   "name": "웰컴저축은행",
+   "kind": "img-logo",
+   "url": "https://www.welcomebank.co.kr/web/ibn/img/common/img_logo_ccm.png",
+   "file": "images/logos/welcome-savings-bank-site-50df5690.png"
+  },
+  {
+   "slug": "coreana-cosmetics",
+   "name": "코리아나화장품",
+   "kind": "img-logo",
+   "url": "https://www.coreana.com/content/images/brand/a1/img_brand_a1_logo.png",
+   "file": "images/logos/coreana-cosmetics-site-b8f876e2.png"
+  },
+  {
+   "slug": "charmzone",
+   "name": "참존",
+   "kind": "img-logo",
+   "url": "https://gi.esmplus.com/rhymezone/MAKESHOP/DESIGN/logo/logo_pc.jpg",
+   "file": "images/logos/charmzone-site-b88d76e5.jpg"
+  }
+ ],
+ "failed": [
+  {
+   "slug": "best-global-brands",
+   "site": "https://interbrand.com/best-global-brands",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "eldi",
+   "site": "https://www.eldi.be",
+   "reason": "HTTP 403"
+  },
+  {
+   "slug": "holland-blumen-mark",
+   "site": "http://www.hollandblumenmark.at/",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "trojan-records",
+   "site": "https://trojanrecords.com",
+   "reason": "HTTP 403"
+  },
+  {
+   "slug": "wandelweiser",
+   "site": "https://www.wandelweiser.de",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "au-vieux-campeur",
+   "site": "https://www.auvieuxcampeur.fr/",
+   "reason": "HTTP 403"
+  },
+  {
+   "slug": "patrizia-pepe",
+   "site": "https://www.patriziapepe.com/",
+   "reason": "HTTP 500"
+  },
+  {
+   "slug": "aeae",
+   "site": "https://ae-ae.kr/",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "ader-error",
+   "site": "https://www.adererror.com",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "dr-jart",
+   "site": "https://www.drjart.com/",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "rom-nd",
+   "site": "https://romand.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "f-and-f",
+   "site": "https://www.fnf.co.kr/",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "kcc",
+   "site": "https://www.kccworld.co.kr/",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "hanwha-life",
+   "site": "https://www.hanwhalife.com/",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "no-brand",
+   "site": "https://emart.ssg.com/",
+   "reason": "HTTP 403"
+  },
+  {
+   "slug": "mobetterworks",
+   "site": "https://mobetterworks.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "ohlollyday",
+   "site": "https://oh-lolly-day.com",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "caffe-bene",
+   "site": "https://www.caffebene.co.kr",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "changbi-publishers",
+   "site": "https://www.changbi.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "hansalim",
+   "site": "https://www.hansalim.or.kr",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "gs-the-fresh",
+   "site": "https://www.gsthefresh.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "st-unitas",
+   "site": "https://www.stunitas.com",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "milk-t",
+   "site": "https://www.milkt.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "tom-n-toms",
+   "site": "https://www.tomntoms.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "theventi",
+   "site": "https://www.theventi.co.kr",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "alpha",
+   "site": "https://www.alpha.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "morning-glory",
+   "site": "https://www.morningglory.co.kr",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "bullsone",
+   "site": "https://www.bullsone.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "ably",
+   "site": "https://a-bly.com",
+   "reason": "HTTP 403"
+  },
+  {
+   "slug": "wemakeprice",
+   "site": "https://front.wemakeprice.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "iconix-entertainment",
+   "site": "https://www.iconix.co.kr",
+   "reason": "후보 이미지 검증 실패"
+  },
+  {
+   "slug": "kakao-friends",
+   "site": "https://www.kakaofriends.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "pororo-park",
+   "site": "https://www.pororopark.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "agabang-and-company",
+   "site": "https://www.agabang.co.kr",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "mega-md",
+   "site": "https://www.megamd.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "raemian",
+   "site": "https://www.raemian.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "korea-post-insurance",
+   "site": "https://www.epostbank.go.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "hyundai-card-dive",
+   "site": "https://dive.hyundaicard.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "jeju-museum-of-art",
+   "site": "https://www.jeju.go.kr/jejumuseum/",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "book-11st",
+   "site": "https://www.11st.co.kr",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "inktec",
+   "site": "https://www.inktec.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "enprani",
+   "site": "https://www.enprani.com",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "cj-wellcare",
+   "site": "https://www.cjwellcare.com",
+   "reason": "후보 없음"
+  },
+  {
+   "slug": "daehan-flour-mills-gompyo",
+   "site": "https://www.dhflour.co.kr",
+   "reason": "fetch failed"
+  }
+ ]
+}

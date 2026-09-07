@@ -46,6 +46,7 @@ const TABS = [
   { id: "audit", name: "SEO 검증", render: renderAudit },
   { id: "keywords", name: "키워드", render: renderKeywords },
   { id: "ga4", name: "GA4", render: renderGa4 },
+  { id: "contact", name: "문의", render: renderContact },
   { id: "settings", name: "설정", render: renderSettings },
 ];
 
@@ -571,4 +572,30 @@ function renderSettings(host) {
     ["경로", el("code", {}, c.snapshotPath || "—")],
     ["수록 브랜드", num(SNAP.totals?.brands)],
   ]));
+}
+
+
+// ─── 10. 문의 ───────────────────────────────────────────────────────────────
+// 사이트 /pages/contact.html 폼이 /contact-api/submit 으로 보낸 내용. 서버 파일에 쌓이고
+// 여기서 읽는다(이메일 발송 없음).
+async function renderContact(host) {
+  const b = box(host, "접수된 문의", "최근 200건. 회신 연락처는 이용자가 자발적으로 적은 값이며 처리 후 1년 이내 삭제합니다.");
+  const out = el("div", {}, "불러오는 중…");
+  b.append(out);
+  try {
+    const d = await api("/api/contact/list");
+    out.innerHTML = "";
+    if (!d.items.length) { out.append(el("p", { class: "muted" }, "아직 접수된 문의가 없습니다.")); return; }
+    out.append(el("div", { class: "scroll" }, table(["접수", "구분", "브랜드/페이지", "내용", "회신처", "IP"],
+      d.items.map((r) => [
+        new Date(r.at).toLocaleString("ko-KR"),
+        d.kinds[r.kind] || r.kind,
+        r.subject || "—",
+        el("div", { style: "white-space:pre-wrap;max-width:520px" }, r.message),
+        r.reply || "—",
+        el("code", {}, r.ip || ""),
+      ]))));
+  } catch (e) {
+    out.textContent = `조회 실패: ${e.message}`;
+  }
 }

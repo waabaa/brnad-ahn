@@ -3,7 +3,7 @@ async function loadData() {
   // Versioned URL (?v=) busts the cache on every deploy, so the browser may safely
   // reuse the cached copy between page navigations and repeat visits (force-cache).
   // This avoids re-downloading the ~1.3MB gzipped dataset on every hub-page load.
-  const res = await fetch(`${dataPath}?v=20260815a`, { cache: "force-cache" });
+  const res = await fetch(`${dataPath}?v=20260907a`, { cache: "force-cache" });
   return await res.json();
 }
 
@@ -40,24 +40,20 @@ function pageLink(path) {
 }
 
 function header(active = "") {
+  // 정적 셸(scripts/lib/page-shell.mjs)과 같은 마크업. 이 함수는 레거시 JS 셸
+  // (brand-artemio·mobile·other-pages)에서만 쓰인다.
+  const p = isPage() ? "../" : "";
   const nav = [
-    ["브랜드 사전", isPage() ? "../index.html" : "index.html"],
-    ["전체 브랜드", pageLink("brands.html")],
-    ["산업별 탐색", pageLink("industry.html")],
-    // brand-artemio.html(구 SPA 셸, 3.3KB)은 nav에서 뺀다. 전 브랜드 페이지가
-    // 링크하던 탓에 사이트 내부링크 최다 대상이 빈 페이지였다(2026-09 감사).
-    ["브랜드 인사이트", pageLink("insights.html")],
-    ["타임라인", pageLink("timeline.html")],
-    ["BI/CI 아카이브", pageLink("bici.html")],
-    ["검색", pageLink("search.html")],
+    ["브랜드 사전", `${p}pages/ganada.html`, "ganada"],
+    ["산업별", `${p}pages/industry.html`, "industry"],
+    ["국가별", `${p}pages/countries.html`, "countries"],
+    ["로고 아카이브", `${p}pages/bici.html`, "bici"],
+    ["타임라인", `${p}pages/timeline.html`, "timeline"],
+    ["인사이트", `${p}pages/insights.html`, "insights"],
   ];
-  const links = nav.map(([name, href]) => `<a class="${name === active ? "active" : ""}" href="${href}">${name}</a>`).join("");
-  const home = isPage() ? "../index.html" : "index.html";
-  return `<header class="header">
-    <a class="logo" href="${home}"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a>
-    <nav class="nav">${links}</nav>
-    <div class="tools"><a aria-label="검색" href="${pageLink("search.html")}">⌕</a><a href="${pageLink("industry.html")}">Menu</a><a class="hamb" aria-label="전체 메뉴" href="${pageLink("industry.html")}">≡</a></div>
-  </header>`;
+  const links = nav.map(([name, href, key]) => `<a class="${key === active ? "active" : ""}" href="${href}">${name}</a>`).join("");
+  const icon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>';
+  return `<header class="site-header"><input type="checkbox" id="menu-toggle" aria-hidden="true"><div class="bar"><a class="logo" href="${p}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><nav class="nav" aria-label="주 메뉴">${links}</nav><form class="hdr-search" role="search" action="${p}pages/search.html" method="get"><label class="sr-only" for="hdr-q">브랜드 검색</label><input id="hdr-q" name="q" type="search" placeholder="브랜드명·초성으로 검색" autocomplete="off"><button type="submit" aria-label="검색">${icon}</button></form><label class="menu-btn" for="menu-toggle" aria-label="메뉴 열기"><span></span><span></span><span></span></label></div><div class="mobile-menu"><div class="inner"><form role="search" action="${p}pages/search.html" method="get"><label class="sr-only" for="m-q">브랜드 검색</label><input id="m-q" name="q" type="search" placeholder="브랜드명·초성으로 검색"><button type="submit">검색</button></form><nav aria-label="모바일 메뉴">${links}<a href="${p}pages/about.html">소개</a></nav></div></div></header>`;
 }
 
 function fmt(n) {

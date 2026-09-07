@@ -1,0 +1,64 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>브랜드 검색 — 한글·원어·초성으로 찾기 | 브랜드 아틀라스</title><meta name="description" content="브랜드 아틀라스에 수록된 브랜드를 한글 이름, 원어 이름, 초성(예: ㄱㅉ), 산업 키워드로 검색합니다."><meta name="robots" content="index,follow"><meta property="og:type" content="website"><meta property="og:site_name" content="브랜드 아틀라스"><meta property="og:locale" content="ko_KR"><meta property="og:title" content="브랜드 검색 | 브랜드 아틀라스"><meta property="og:description" content="브랜드를 한글·원어·초성·산업 키워드로 검색합니다."><meta property="og:url" content="https://brandatlas.co.kr/pages/search.html"><meta property="og:image" content="https://brandatlas.co.kr/assets/objects/brand_atlas_logo_mark.png"><meta name="twitter:card" content="summary"><link rel="icon" href="../assets/objects/brand_atlas_logo_mark.png"><link rel="manifest" href="../site.webmanifest"><link rel="canonical" href="https://brandatlas.co.kr/pages/search.html"><link rel="alternate" type="application/rss+xml" title="브랜드 아틀라스 RSS" href="https://brandatlas.co.kr/rss.xml"><link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"><link rel="stylesheet" href="../styles.css?v=__CSS_V__"><script async src="https://www.googletagmanager.com/gtag/js?id=G-EE13LML8RQ"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-EE13LML8RQ');</script></head>
+<body><a href="#main-content" class="skip-nav">본문 바로가기</a>__HEADER__<main id="main-content">
+<div class="page-head"><div class="wrap"><nav class="crumbs" aria-label="현재 위치"><a href="../index.html">브랜드 사전</a> <span>›</span> <b>검색</b></nav><span class="kicker">검색</span><h1>브랜드 검색</h1><p class="lead">한글 이름, 원어 이름, 초성(예: <b>ㄱㅉ</b> → 구찌), 산업 키워드로 찾습니다. 입력하는 대로 결과가 바뀝니다.</p><form class="hero-search" id="searchForm" role="search" action="search.html" method="get" style="margin-top:18px"><label class="sr-only" for="query">검색어</label><input id="query" name="q" type="search" placeholder="예: 구찌, ㄱㅉ, gucci, 커피" autocomplete="off" autofocus><button type="submit">검색</button></form></div></div>
+<div class="wrap search-layout"><section><p class="search-status" id="status">인덱스를 불러오는 중…</p><div class="result-list" id="results"></div></section><aside><div class="facts"><h2>인기 검색어</h2><div class="chips" id="keywords"></div></div><div class="facts" style="margin-top:14px"><h2>산업별로 찾기</h2><div class="chips" id="industries"></div></div><div class="facts" style="margin-top:14px"><h2>다른 방법</h2><table><tbody><tr><th>색인</th><td><a href="ganada.html">가나다 · ABC</a></td></tr><tr><th>국가</th><td><a href="countries.html">국가별 브랜드</a></td></tr><tr><th>로고</th><td><a href="bici.html">로고 아카이브</a></td></tr></tbody></table></div></aside></div>
+</main>__FOOTER__
+<script>
+(function(){
+  var CHO=["ㄱ","ㄲ","ㄴ","ㄷ","ㄸ","ㄹ","ㅁ","ㅂ","ㅃ","ㅅ","ㅆ","ㅇ","ㅈ","ㅉ","ㅊ","ㅋ","ㅌ","ㅍ","ㅎ"];
+  var SOFT={"ㄲ":"ㄱ","ㄸ":"ㄷ","ㅃ":"ㅂ","ㅆ":"ㅅ","ㅉ":"ㅈ"};
+  function cho(s){var o="";for(var i=0;i<s.length;i++){var c=s.charCodeAt(i)-0xac00;o+=(c>=0&&c<=11171)?CHO[Math.floor(c/588)]:s[i];}return o;}
+  function soft(s){return s.replace(/[ㄲㄸㅃㅆㅉ]/g,function(c){return SOFT[c]});}
+  function norm(s){return String(s||"").toLowerCase().normalize("NFC").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9가-힣ㄱ-ㅎ]+/g," ").trim();}
+  var isCho=function(q){return /^[ㄱ-ㅎ\s]+$/.test(q);};
+  var esc=function(s){return String(s||"").replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
+  var KEYWORDS=["디자인","커피","패션","자동차","화장품","게임","항공","백화점","치킨","스포츠","은행","제약"];
+  var input=document.getElementById("query"),results=document.getElementById("results"),status=document.getElementById("status");
+  var index=null;
+  function score(b,q,qc){
+    var n=norm(b.n),e=norm(b.e),i=norm(b.i),d=norm(b.d),a=(b.a||[]).map(norm).join(" ");
+    var s=0;
+    if(isCho(q)){var qq=soft(q.replace(/\s+/g,""));var bc=soft(b.c||"");if(!bc)return 0;if(bc===qq)s+=1000;else if(bc.indexOf(qq)===0)s+=700;else if(bc.indexOf(qq)>-1)s+=300;else return 0;}
+    else{
+      if(n===q||e===q)s+=1000;
+      else if(n.indexOf(q)===0||e.indexOf(q)===0)s+=650;
+      else if(n.indexOf(q)>-1||e.indexOf(q)>-1||a.indexOf(q)>-1)s+=400;
+      else if(i.indexOf(q)>-1)s+=180;
+      else if(d.indexOf(q)>-1)s+=110;
+      else if(qc&&b.c&&soft(b.c).indexOf(soft(qc))===0)s+=200;
+      else return 0;
+    }
+    if(b.t==="c")s+=40;else if(b.t==="d")s-=300;
+    if(b.l)s+=20;
+    return s;
+  }
+  function render(qRaw){
+    var q=norm(qRaw);
+    if(!index){status.textContent="인덱스를 불러오는 중…";return;}
+    if(!q){status.textContent="수록 브랜드 "+index.length.toLocaleString("ko-KR")+"개. 검색어를 입력하세요.";results.innerHTML="";return;}
+    var qc=/[가-힣]/.test(q)?cho(q):"";
+    var rows=[];
+    for(var k=0;k<index.length;k++){var sc=score(index[k],q,qc);if(sc>0)rows.push([sc,index[k]]);}
+    rows.sort(function(x,y){return y[0]-x[0]||x[1].n.localeCompare(y[1].n,"ko")});
+    var listed=rows.filter(function(r){return r[1].t!=="d"}),dir=rows.filter(function(r){return r[1].t==="d"});
+    var show=listed.slice(0,40);
+    if(!show.length)show=dir.slice(0,20);
+    status.textContent=rows.length?("\""+qRaw.trim()+"\" 결과 "+rows.length.toLocaleString("ko-KR")+"개"+(rows.length>show.length?" 중 상위 "+show.length+"개":"")):("\""+qRaw.trim()+"\"에 맞는 브랜드가 없습니다. 초성(예: ㅅㅌㅂㅅ)이나 원어 표기로도 찾아보세요.");
+    results.innerHTML=show.map(function(r){var b=r[1];var img=b.l?'<img src="../'+esc(b.l)+'" alt="'+esc(b.n)+' 로고" loading="lazy" decoding="async">':'<span class="none" aria-hidden="true"></span>';return '<a class="result-item" href="../brand/'+encodeURIComponent(b.s)+'.html">'+img+'<div><b>'+esc(b.n)+(b.e?' <span class="en">'+esc(b.e)+'</span>':'')+'</b><p>'+esc(b.i)+(b.t==="d"?' · 디렉토리 등급':'')+'</p><small>'+esc(b.d)+'</small></div></a>'}).join("");
+    try{history.replaceState(null,"","search.html?q="+encodeURIComponent(qRaw.trim()))}catch(e){}
+  }
+  document.getElementById("keywords").innerHTML=KEYWORDS.map(function(k){return '<a class="chip" href="search.html?q='+encodeURIComponent(k)+'">'+esc(k)+'</a>'}).join("");
+  var initial=new URLSearchParams(location.search).get("q")||"";
+  input.value=initial;
+  fetch("../data/search-index.json?v=__CSS_V__",{cache:"force-cache"}).then(function(r){return r.json()}).then(function(j){
+    index=j.brands||[];
+    var inds={};index.forEach(function(b){if(b.i&&b.t!=="d")inds[b.i]=(inds[b.i]||0)+1});
+    document.getElementById("industries").innerHTML=Object.keys(inds).sort(function(a,b){return inds[b]-inds[a]}).map(function(i){return '<a class="chip" href="search.html?q='+encodeURIComponent(i)+'">'+esc(i)+' <small>'+inds[i]+'</small></a>'}).join("");
+    render(input.value);
+  }).catch(function(){status.textContent="검색 인덱스를 불러오지 못했습니다. 새로고침해 주세요."});
+  var t;input.addEventListener("input",function(){clearTimeout(t);t=setTimeout(function(){render(input.value)},80)});
+  document.getElementById("searchForm").addEventListener("submit",function(e){e.preventDefault();render(input.value)});
+  document.querySelectorAll("a.chip").forEach(function(a){a.addEventListener("click",function(e){var q=new URLSearchParams(a.getAttribute("href").split("?")[1]||"").get("q");if(q!==null){e.preventDefault();input.value=q;render(q);window.scrollTo({top:0,behavior:"smooth"})}})});
+  document.getElementById("industries").addEventListener("click",function(e){var a=e.target.closest("a.chip");if(!a)return;var q=new URLSearchParams(a.getAttribute("href").split("?")[1]||"").get("q");if(q!==null){e.preventDefault();input.value=q;render(q)}});
+})();
+</script></body></html>

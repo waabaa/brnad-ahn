@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /pages/directory.html
 
-# 네이버 Yeti·구글봇은 전체 허용(별도 제한 없음)
+# 네이버 Yeti·구글봇은 전체 허용
 User-agent: Yeti
 Allow: /
 

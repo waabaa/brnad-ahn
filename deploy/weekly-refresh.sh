@@ -37,6 +37,7 @@ node scripts/build-admin-snapshot.mjs | tail -1
 
 echo "=== [3/5] 검증 ==="
 node scripts/verify-crawl-graph.mjs | tail -2
+node scripts/qa-seo.mjs | tail -2
 node scripts/audit-seo.mjs | sed -n '/=== 수용기준 ===/,$p'
 if node scripts/audit-seo.mjs | grep -q '^FAIL'; then
   echo "수용기준 미달 — 배포를 중단합니다."

@@ -26,7 +26,7 @@ echo "Source : $SRC"
 echo "Target : $SSH_TARGET:$WEBROOT (via $STAGING)"
 
 rsync -az --delete $DRY -e "$SSH" \
-  --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scripts/' \
+  --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scripts/' --exclude='scratchpad/' \
   --exclude='source-imports/' --exclude='reports/' --exclude='archive/brandarchive/' \
   --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' \
   --exclude='DATA_COMPLETION_WORK_ORDERS.md' --exclude='README.md' \

@@ -1,0 +1,4788 @@
+{
+ "generatedAt": "2026-09-07T00:57:49.364Z",
+ "brands": 408,
+ "withCountry": 363,
+ "withInception": 380,
+ "withHq": 350,
+ "withFounder": 130,
+ "withParent": 126,
+ "logoAdded": 2,
+ "logoFailed": [],
+ "entries": [
+  {
+   "slug": "bang-and-olufsen",
+   "name": "뱅앤올룹슨",
+   "qid": "Q790020",
+   "country": "덴마크",
+   "inception": "1925-11-17",
+   "headquarters": "Struer",
+   "founders": [
+    "Peter Bang",
+    "Svend Olufsen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "uniqlo",
+   "name": "유니클로",
+   "qid": "Q26070",
+   "country": "일본",
+   "inception": "1984-06-02",
+   "headquarters": "미드타운 타워",
+   "founders": [],
+   "parent": "Fast Retailing",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lush",
+   "name": "러쉬",
+   "qid": "Q1585448",
+   "country": "영국",
+   "inception": "1995",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cisco",
+   "name": "시스코",
+   "qid": "Q173395",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": "산호세",
+   "founders": [
+    "Leonard Bosack",
+    "Sandra Lerner"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "olympus",
+   "name": "올림푸스",
+   "qid": "Q688619",
+   "country": "일본",
+   "inception": "1919-10-12",
+   "headquarters": "신주쿠구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "intel",
+   "name": "인텔",
+   "qid": "Q248",
+   "country": "미국",
+   "inception": "1968-07-18",
+   "headquarters": "샌타클라라",
+   "founders": [
+    "로버트 노이스",
+    "고든 무어",
+    "앤디 그로브"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "xerox",
+   "name": "제록스",
+   "qid": "Q152433",
+   "country": "미국",
+   "inception": "1906-04-18",
+   "headquarters": "노워크",
+   "founders": [
+    "Joseph C. Wilson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fedex",
+   "name": "페덱스",
+   "qid": "Q459477",
+   "country": "미국",
+   "inception": "1971",
+   "headquarters": "멤피스",
+   "founders": [
+    "Frederick W. Smith"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "audi",
+   "name": "아우디",
+   "qid": "Q23317",
+   "country": "독일",
+   "inception": "1909",
+   "headquarters": "잉골슈타트",
+   "founders": [
+    "아우구스트 호르히"
+   ],
+   "parent": "폭스바겐 AG",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dove",
+   "name": "도브",
+   "qid": "Q962709",
+   "country": null,
+   "inception": "1955",
+   "headquarters": "미국",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "new-balance",
+   "name": "뉴발란스",
+   "qid": "Q742988",
+   "country": "미국",
+   "inception": "1906",
+   "headquarters": "보스턴",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "reebok",
+   "name": "리복",
+   "qid": "Q466183",
+   "country": "미국",
+   "inception": "1895",
+   "headquarters": "보스턴",
+   "founders": [
+    "Joseph William Foster"
+   ],
+   "parent": "아디다스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "marlboro",
+   "name": "말보로",
+   "qid": "Q15075",
+   "country": null,
+   "inception": "1924",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nestl",
+   "name": "네슬레",
+   "qid": "Q160746",
+   "country": "스위스",
+   "inception": "1866",
+   "headquarters": "브베",
+   "founders": [
+    "앙리 네슬레"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "budweiser",
+   "name": "버드와이저",
+   "qid": "Q610672",
+   "country": null,
+   "inception": "1876",
+   "headquarters": "세인트루이스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dkny",
+   "name": "DKNY",
+   "qid": "Q938773",
+   "country": "미국",
+   "inception": "1989",
+   "headquarters": "뉴욕",
+   "founders": [
+    "도나 캐런"
+   ],
+   "parent": "G-III Apparel Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gucci",
+   "name": "구찌",
+   "qid": "Q178516",
+   "country": "이탈리아",
+   "inception": "1921",
+   "headquarters": "피렌체",
+   "founders": [
+    "구찌오 구찌"
+   ],
+   "parent": "케링",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cartier",
+   "name": "까르띠에",
+   "qid": "Q538587",
+   "country": "프랑스",
+   "inception": "1847",
+   "headquarters": "cité du Retiro",
+   "founders": [
+    "루이프랑소와 까르띠에"
+   ],
+   "parent": "리슈몽",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nudie-jeans",
+   "name": "누디진",
+   "qid": "Q2436187",
+   "country": "스웨덴",
+   "inception": "2001",
+   "headquarters": "예테보리",
+   "founders": [
+    "Maria Erixon Levin",
+    "Joakim Levin"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "diesel",
+   "name": "디젤",
+   "qid": "Q158285",
+   "country": "이탈리아",
+   "inception": "1978",
+   "headquarters": "Breganze",
+   "founders": [
+    "Renzo Rosso"
+   ],
+   "parent": "OTB Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rolex",
+   "name": "롤렉스",
+   "qid": "Q62288",
+   "country": "스위스",
+   "inception": "1905",
+   "headquarters": "제네바",
+   "founders": [
+    "한스 윌스도르프"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "burberry",
+   "name": "버버리",
+   "qid": "Q390107",
+   "country": "영국",
+   "inception": "1856",
+   "headquarters": "런던",
+   "founders": [
+    "Thomas Burberry"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yves-saint-laurent",
+   "name": "생 로랑",
+   "qid": "Q2282172",
+   "country": "프랑스",
+   "inception": "1961",
+   "headquarters": "파리",
+   "founders": [
+    "이브 생로랑",
+    "Pierre Bergé"
+   ],
+   "parent": "케링",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ugg",
+   "name": "어그",
+   "qid": "Q1138480",
+   "country": "미국",
+   "inception": "1978",
+   "headquarters": "골레타",
+   "founders": [],
+   "parent": "Deckers Outdoor Corporation",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "omega",
+   "name": "오메가",
+   "qid": "Q659224",
+   "country": "스위스",
+   "inception": "1848",
+   "headquarters": "빌/비엔",
+   "founders": [],
+   "parent": "스와치 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "giorgio-armani",
+   "name": "조르지오 아르마니",
+   "qid": "Q635484",
+   "country": "이탈리아",
+   "inception": "1975",
+   "headquarters": "밀라노",
+   "founders": [
+    "조르조 아르마니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ferrari",
+   "name": "페라리",
+   "qid": "Q27586",
+   "country": "이탈리아",
+   "inception": "1947-03-12",
+   "headquarters": "마라넬로",
+   "founders": [
+    "엔초 페라리"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aspirin",
+   "name": "아스피린",
+   "qid": "Q10420388",
+   "country": null,
+   "inception": "1899",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "camper",
+   "name": "캠퍼",
+   "qid": "Q1030922",
+   "country": "스페인",
+   "inception": "1975",
+   "headquarters": "Inca",
+   "founders": [
+    "Llorenç Fluxà Figuerola"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bic",
+   "name": "빅",
+   "qid": "Q795981",
+   "country": "프랑스",
+   "inception": "1945",
+   "headquarters": "클리시",
+   "founders": [
+    "Marcel Bich"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "alessi",
+   "name": "알레시",
+   "qid": "Q1649271",
+   "country": "이탈리아",
+   "inception": "1921",
+   "headquarters": "Crusinallo",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "siemens",
+   "name": "지멘스",
+   "qid": "Q81230",
+   "country": "독일",
+   "inception": "1847-10-01",
+   "headquarters": "뮌헨",
+   "founders": [
+    "에른스트 베르너 폰 지멘스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "stokke",
+   "name": "스토케",
+   "qid": "Q1056473",
+   "country": "노르웨이",
+   "inception": "1932",
+   "headquarters": "올레순",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yankee-candle",
+   "name": "양키캔들",
+   "qid": "Q8048733",
+   "country": "미국",
+   "inception": "1969",
+   "headquarters": "South Deerfield",
+   "founders": [],
+   "parent": "Newell Brands",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "saab",
+   "name": "사브",
+   "qid": "Q219501",
+   "country": "스웨덴",
+   "inception": "1937",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": "Saab-Scania",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pizza-hut",
+   "name": "피자헛",
+   "qid": "Q191615",
+   "country": null,
+   "inception": "2002-06-15",
+   "headquarters": null,
+   "founders": [
+    "Dan and Frank Carney"
+   ],
+   "parent": "얌! 브랜드",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bobbi-brown",
+   "name": "바비브라운",
+   "qid": "Q105132734",
+   "country": "미국",
+   "inception": "1991",
+   "headquarters": null,
+   "founders": [
+    "보비 브라운"
+   ],
+   "parent": "에스티 로더",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "vaseline",
+   "name": "바세린",
+   "qid": "Q185120",
+   "country": "미국",
+   "inception": "1872",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "origins",
+   "name": "오리진스",
+   "qid": "Q6643229",
+   "country": "미국",
+   "inception": "1990",
+   "headquarters": null,
+   "founders": [
+    "Leonard Lauder"
+   ],
+   "parent": "에스티 로더",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wella",
+   "name": "웰라",
+   "qid": "Q702674",
+   "country": "독일",
+   "inception": "1880",
+   "headquarters": "다름슈타트",
+   "founders": [],
+   "parent": "Coty",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "henkel",
+   "name": "헨켈",
+   "qid": "Q276507",
+   "country": "독일",
+   "inception": "1876-09-26",
+   "headquarters": "뒤셀도르프",
+   "founders": [
+    "Fritz Henkel"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-north-face",
+   "name": "노스페이스",
+   "qid": "Q152784",
+   "country": "미국",
+   "inception": "1968",
+   "headquarters": "덴버",
+   "founders": [
+    "더글러스 톰프킨스",
+    "Susie Tompkins Buell"
+   ],
+   "parent": "VF Corporation",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "arc-teryx",
+   "name": "아크테릭스",
+   "qid": "Q3271455",
+   "country": null,
+   "inception": "1989",
+   "headquarters": "노스밴쿠버",
+   "founders": [],
+   "parent": "에이머 스포츠",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "godiva",
+   "name": "고디바",
+   "qid": "Q931084",
+   "country": "벨기에",
+   "inception": "1926",
+   "headquarters": "쿠켈베르흐",
+   "founders": [
+    "Pierre Draps"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nescafe",
+   "name": "네스카페",
+   "qid": "Q503191",
+   "country": null,
+   "inception": "1938-04-01",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "domino-s-pizza",
+   "name": "도미노피자",
+   "qid": "Q839466",
+   "country": "미국",
+   "inception": "1960-06-10",
+   "headquarters": "미시간 주 앤아버 차터 타운십",
+   "founders": [
+    "톰 모너핸"
+   ],
+   "parent": "베인 캐피탈",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dom-p-rignon",
+   "name": "돔 페리뇽",
+   "qid": "Q347187",
+   "country": "프랑스",
+   "inception": "1921",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "red-bull",
+   "name": "레드불",
+   "qid": "Q698639",
+   "country": "오스트리아",
+   "inception": "1987-04-01",
+   "headquarters": "Fuschl am See",
+   "founders": [
+    "디트리히 마테시츠",
+    "Chaleo Yoovidhya"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "moet-and-chandon",
+   "name": "모엣&샹동",
+   "qid": "Q699529",
+   "country": "프랑스",
+   "inception": "1743",
+   "headquarters": "에페르네",
+   "founders": [
+    "Claude Moët"
+   ],
+   "parent": "LVMH",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bacard",
+   "name": "바카디",
+   "qid": "Q685395",
+   "country": "버뮤다",
+   "inception": "1862",
+   "headquarters": "해밀턴",
+   "founders": [
+    "Facundo Bacardi"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "subway",
+   "name": "써브웨이",
+   "qid": "Q244457",
+   "country": "미국",
+   "inception": "1965-08-28",
+   "headquarters": "밀퍼드",
+   "founders": [
+    "Fred DeLuca",
+    "Peter Buck"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "corona-extra",
+   "name": "코로나 엑스트라",
+   "qid": "Q864987",
+   "country": "멕시코",
+   "inception": "1925",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "club-med",
+   "name": "클럽메드",
+   "qid": "Q1076645",
+   "country": "프랑스",
+   "inception": "1950",
+   "headquarters": "파리",
+   "founders": [
+    "제라르 블리츠"
+   ],
+   "parent": "Fosun International Limited",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "portmeirion",
+   "name": "포트메리온",
+   "qid": "Q7232125",
+   "country": "영국",
+   "inception": "1960",
+   "headquarters": "스토크온트렌트",
+   "founders": [
+    "Susan Williams-Ellis"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "heineken",
+   "name": "하이네켄",
+   "qid": "Q854383",
+   "country": null,
+   "inception": "1874",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rimowa",
+   "name": "리모와",
+   "qid": "Q1287437",
+   "country": "독일",
+   "inception": "1898",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "international-watch-company",
+   "name": "IWC",
+   "qid": "Q662902",
+   "country": "스위스",
+   "inception": "1868",
+   "headquarters": "샤프하우젠",
+   "founders": [],
+   "parent": "리슈몽",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gap",
+   "name": "갭",
+   "qid": "Q124981193",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dolce-and-gabbana",
+   "name": "돌체앤가바나",
+   "qid": "Q214480",
+   "country": "이탈리아",
+   "inception": "1980",
+   "headquarters": "밀라노",
+   "founders": [
+    "Domenico Dolce",
+    "Stefano Gabbana"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "de-beers",
+   "name": "드비어스",
+   "qid": "Q471891",
+   "country": "남아프리카공화국",
+   "inception": "1888",
+   "headquarters": "런던",
+   "founders": [
+    "세실 로즈"
+   ],
+   "parent": "앵글로아메리칸",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "maxmara",
+   "name": "막스마라",
+   "qid": "Q1151774",
+   "country": "이탈리아",
+   "inception": "1951",
+   "headquarters": "레조넬에밀리아",
+   "founders": [
+    "Achille Maramotti"
+   ],
+   "parent": "Max Mara Fashion Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "moncler",
+   "name": "몽클레르",
+   "qid": "Q1548951",
+   "country": "이탈리아",
+   "inception": "1952",
+   "headquarters": "Palazzo Moncler",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "van-cleef-and-arpels",
+   "name": "반클리프 아펠",
+   "qid": "Q2708181",
+   "country": "프랑스",
+   "inception": "1896",
+   "headquarters": "파리 1구",
+   "founders": [],
+   "parent": "리슈몽",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bottega-veneta",
+   "name": "보테가 베네타",
+   "qid": "Q894874",
+   "country": "이탈리아",
+   "inception": "1966",
+   "headquarters": "비첸차",
+   "founders": [],
+   "parent": "케링",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ferragamo",
+   "name": "살바토레 페라가모",
+   "qid": "Q3946053",
+   "country": "이탈리아",
+   "inception": "1927",
+   "headquarters": "피렌체",
+   "founders": [
+    "살바토레 페라가모"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "swarovski",
+   "name": "스와로브스키",
+   "qid": "Q611115",
+   "country": "오스트리아",
+   "inception": "1895",
+   "headquarters": "Wattens",
+   "founders": [
+    "Daniel Swarovski"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "zegna",
+   "name": "에르메네질도 제냐",
+   "qid": "Q1355904",
+   "country": "이탈리아",
+   "inception": "1910",
+   "headquarters": "밀라노",
+   "founders": [
+    "Ermenegildo Zegna"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "givenchy",
+   "name": "지방시",
+   "qid": "Q759210",
+   "country": "프랑스",
+   "inception": "1952",
+   "headquarters": "파리",
+   "founders": [
+    "위베르 드 지방시"
+   ],
+   "parent": "LVMH",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "g-shock",
+   "name": "지샥",
+   "qid": "Q1047701",
+   "country": null,
+   "inception": "1983-04",
+   "headquarters": null,
+   "founders": [],
+   "parent": "카시오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tag-heuer",
+   "name": "태그호이어",
+   "qid": "Q645984",
+   "country": "스위스",
+   "inception": "1860",
+   "headquarters": "라쇼드퐁",
+   "founders": [],
+   "parent": "LVMH",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tory-burch",
+   "name": "토리 버치",
+   "qid": "Q19988222",
+   "country": "미국",
+   "inception": "2004",
+   "headquarters": "뉴욕",
+   "founders": [
+    "토리 버치"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tumi",
+   "name": "투미",
+   "qid": "Q4465402",
+   "country": "미국",
+   "inception": "1975",
+   "headquarters": "South Plainfield",
+   "founders": [],
+   "parent": "샘소나이트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fendi",
+   "name": "펜디",
+   "qid": "Q926575",
+   "country": "이탈리아",
+   "inception": "1925",
+   "headquarters": "로마",
+   "founders": [],
+   "parent": "LVMH",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hugo-boss",
+   "name": "휴고 보스",
+   "qid": "Q491627",
+   "country": "독일",
+   "inception": "1924",
+   "headquarters": "Metzingen",
+   "founders": [
+    "후고 페르디난트 보스"
+   ],
+   "parent": "Marzotto",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kiehl-s",
+   "name": "키엘",
+   "qid": "Q3196447",
+   "country": null,
+   "inception": "1851",
+   "headquarters": "Third Avenue",
+   "founders": [],
+   "parent": "로레알",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "le-creuset",
+   "name": "르크루제",
+   "qid": "Q555861",
+   "country": "프랑스",
+   "inception": "1925-09-01",
+   "headquarters": "Fresnoy-le-Grand",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "eldi",
+   "name": "Eldi",
+   "qid": "Q3050500",
+   "country": "벨기에",
+   "inception": "1972",
+   "headquarters": "Leuze-en-Hainaut",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "elkj-p",
+   "name": "Elkjøp",
+   "qid": "Q1771628",
+   "country": "노르웨이",
+   "inception": "1962-03-16",
+   "headquarters": "Nydalen",
+   "founders": [],
+   "parent": "Currys",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "libro",
+   "name": "Libro",
+   "qid": "Q1823138",
+   "country": "오스트리아",
+   "inception": "2002",
+   "headquarters": "Guntramsdorf",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "saturn",
+   "name": "Saturn",
+   "qid": "Q2543504",
+   "country": "독일",
+   "inception": "1961-07",
+   "headquarters": null,
+   "founders": [],
+   "parent": "Ceconomy",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "unieuro",
+   "name": "Unieuro",
+   "qid": "Q4004687",
+   "country": "이탈리아",
+   "inception": "1967",
+   "headquarters": "포를리",
+   "founders": [
+    "Paolo Farinetti"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "verizon-wireless",
+   "name": "버라이즌 와이어리스",
+   "qid": "Q919641",
+   "country": "미국",
+   "inception": "2000",
+   "headquarters": "Basking Ridge",
+   "founders": [
+    "버라이즌 커뮤니케이션스"
+   ],
+   "parent": "버라이즌 커뮤니케이션스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yodobashi-camera",
+   "name": "요도바시 카메라",
+   "qid": "Q168467",
+   "country": "일본",
+   "inception": "1960-04",
+   "headquarters": "신주쿠",
+   "founders": [
+    "Terukazu Fujisawa"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "archambault",
+   "name": "Archambault",
+   "qid": "Q2860003",
+   "country": "캐나다",
+   "inception": "1896",
+   "headquarters": "몬트리올",
+   "founders": [],
+   "parent": "Renaud-Bray",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "biltema",
+   "name": "Biltema",
+   "qid": "Q3355552",
+   "country": "스웨덴",
+   "inception": "1963",
+   "headquarters": "헬싱보리",
+   "founders": [],
+   "parent": "Biltema Holding",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "botanic",
+   "name": "Botanic",
+   "qid": "Q2911642",
+   "country": "프랑스",
+   "inception": "1995-05-30",
+   "headquarters": "Archamps",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "deserres",
+   "name": "DeSerres",
+   "qid": "Q3020049",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dollarama",
+   "name": "Dollarama",
+   "qid": "Q3033947",
+   "country": "캐나다",
+   "inception": "1992",
+   "headquarters": "몬트리올",
+   "founders": [
+    "Larry Rossy"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "franprix",
+   "name": "Franprix",
+   "qid": "Q2420096",
+   "country": null,
+   "inception": "1958",
+   "headquarters": "비트리쉬르센",
+   "founders": [
+    "Jean Baud"
+   ],
+   "parent": "Casino Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "galeria-kaufhof",
+   "name": "Galeria Kaufhof",
+   "qid": "Q80220059",
+   "country": "독일",
+   "inception": "2019-03-25",
+   "headquarters": "에센",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gamestop",
+   "name": "GameStop",
+   "qid": "Q202210",
+   "country": "미국",
+   "inception": "1980-08-20",
+   "headquarters": "그레이프바인",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hema",
+   "name": "HEMA",
+   "qid": "Q903805",
+   "country": "독일",
+   "inception": "1926-11-04",
+   "headquarters": "암스테르담",
+   "founders": [
+    "Arthur Isaac",
+    "Leo Meyer"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "iceland",
+   "name": "Iceland",
+   "qid": "Q721810",
+   "country": "영국",
+   "inception": "1970",
+   "headquarters": "Deeside",
+   "founders": [
+    "Malcolm Walker"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "intersport",
+   "name": "Intersport",
+   "qid": "Q666888",
+   "country": "스위스",
+   "inception": "1968",
+   "headquarters": "베른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "leader-price",
+   "name": "Leader Price",
+   "qid": "Q2181426",
+   "country": "프랑스",
+   "inception": "1989",
+   "headquarters": "비트리쉬르센",
+   "founders": [
+    "Jean Baud"
+   ],
+   "parent": "Casino Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "livraria-bertrand",
+   "name": "Livraria Bertrand",
+   "qid": "Q1866547",
+   "country": "포르투갈",
+   "inception": "1732",
+   "headquarters": "Chiado",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ludwig-g-rtz",
+   "name": "Ludwig Görtz",
+   "qid": "Q1559593",
+   "country": "독일",
+   "inception": "1875",
+   "headquarters": "함부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "match",
+   "name": "Match",
+   "qid": "Q513977",
+   "country": "벨기에",
+   "inception": "1934",
+   "headquarters": "플뢰뤼스",
+   "founders": [],
+   "parent": "Louis Delhaize Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mercator",
+   "name": "Mercator",
+   "qid": "Q738412",
+   "country": "슬로베니아",
+   "inception": "1949",
+   "headquarters": "류블랴나",
+   "founders": [],
+   "parent": "Agrokor",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "new-yorker",
+   "name": "New Yorker",
+   "qid": "Q706421",
+   "country": "독일",
+   "inception": "1971",
+   "headquarters": "브라운슈바이크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "noz",
+   "name": "Noz",
+   "qid": "Q3345688",
+   "country": "프랑스",
+   "inception": "1976",
+   "headquarters": "Saint-Berthevin",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "panduro-hobby",
+   "name": "Panduro Hobby",
+   "qid": "Q265941",
+   "country": "스웨덴",
+   "inception": "1955",
+   "headquarters": "말뫼",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "perekryostok",
+   "name": "Perekryostok",
+   "qid": "Q1684639",
+   "country": "러시아",
+   "inception": "1995",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": "X5 리테일 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "praxis",
+   "name": "Praxis",
+   "qid": "Q2741995",
+   "country": "네덜란드",
+   "inception": "1978",
+   "headquarters": "암스테르담",
+   "founders": [],
+   "parent": "Maxeda",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pressbyr-n",
+   "name": "Pressbyrån",
+   "qid": "Q2489072",
+   "country": null,
+   "inception": "1899",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": "Reitan Convenience",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pyaterochka",
+   "name": "Pyaterochka",
+   "qid": "Q1768969",
+   "country": "러시아",
+   "inception": "1998",
+   "headquarters": "러시아",
+   "founders": [],
+   "parent": "X5 리테일 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rewe-group",
+   "name": "REWE Group",
+   "qid": "Q573266",
+   "country": "독일",
+   "inception": "1927",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rona",
+   "name": "Rona",
+   "qid": "Q3415283",
+   "country": "캐나다",
+   "inception": "1939",
+   "headquarters": "Boucherville",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sport-chek",
+   "name": "Sport Chek",
+   "qid": "Q3494037",
+   "country": null,
+   "inception": "1999",
+   "headquarters": "캘거리",
+   "founders": [],
+   "parent": "캐나디안 타이어",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sportscheck",
+   "name": "SportScheck",
+   "qid": "Q1664847",
+   "country": "독일",
+   "inception": "1946",
+   "headquarters": "운터하힝",
+   "founders": [],
+   "parent": "Galeria",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "standaard-boekhandel",
+   "name": "Standaard Boekhandel",
+   "qid": "Q3496554",
+   "country": "벨기에",
+   "inception": "1919",
+   "headquarters": "신트니클라스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "stop-and-shop",
+   "name": "Stop & Shop",
+   "qid": "Q3658429",
+   "country": "미국",
+   "inception": "1914",
+   "headquarters": "퀸시",
+   "founders": [],
+   "parent": "아홀드 델레이즈",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sunglass-hut",
+   "name": "Sunglass Hut",
+   "qid": "Q136311",
+   "country": "미국",
+   "inception": "1971",
+   "headquarters": null,
+   "founders": [],
+   "parent": "룩소티카",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "superbiomarkt",
+   "name": "SuperBioMarkt",
+   "qid": "Q2367009",
+   "country": "독일",
+   "inception": "1973",
+   "headquarters": "뮌스터",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ten-thousand-villages",
+   "name": "Ten Thousand Villages",
+   "qid": "Q2403252",
+   "country": "미국",
+   "inception": "1946",
+   "headquarters": "Akron",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-children-s-place",
+   "name": "The Children's Place",
+   "qid": "Q3520257",
+   "country": "미국",
+   "inception": "1969",
+   "headquarters": "Secaucus",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dm-drogerie-markt",
+   "name": "디엠-드로게리 마크트",
+   "qid": "Q266572",
+   "country": "독일",
+   "inception": "1973-08-28",
+   "headquarters": "카를스루에",
+   "founders": [
+    "Götz Werner"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bed-bath-and-beyond",
+   "name": "베드 베스 앤드 비욘드",
+   "qid": "Q3301958",
+   "country": "미국",
+   "inception": "1997",
+   "headquarters": "미드베일",
+   "founders": [
+    "Patrick M. Byrne"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "best-buy",
+   "name": "베스트 바이",
+   "qid": "Q533415",
+   "country": "미국",
+   "inception": "1966-08-22",
+   "headquarters": "Richfield",
+   "founders": [
+    "Richard M. Schulze"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "staples",
+   "name": "스테이플스",
+   "qid": "Q785943",
+   "country": "미국",
+   "inception": "1986",
+   "headquarters": "프레이밍햄",
+   "founders": [
+    "Leo Kahn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "walmart",
+   "name": "월마트",
+   "qid": "Q483551",
+   "country": "미국",
+   "inception": "1962-07-02",
+   "headquarters": "벤턴빌",
+   "founders": [
+    "샘 월턴"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "emart",
+   "name": "이마트",
+   "qid": "Q490371",
+   "country": "한국",
+   "inception": "1993",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "신세계백화점",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "intimissimi",
+   "name": "인티미시미",
+   "qid": "Q305404",
+   "country": "이탈리아",
+   "inception": "1996",
+   "headquarters": "Dossobuono",
+   "founders": [],
+   "parent": "Oniverse",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "champs-sports",
+   "name": "챔스스포츠",
+   "qid": "Q2955924",
+   "country": null,
+   "inception": "1984",
+   "headquarters": "West Bradenton",
+   "founders": [],
+   "parent": "풋 로커",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pull-and-bear",
+   "name": "풀앤베어",
+   "qid": "Q691029",
+   "country": "스페인",
+   "inception": "1991",
+   "headquarters": "아르테이쇼",
+   "founders": [],
+   "parent": "인디텍스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mpl",
+   "name": "MPL 커뮤니케이션스",
+   "qid": "Q32294",
+   "country": "영국",
+   "inception": "1970",
+   "headquarters": "런던",
+   "founders": [
+    "폴 매카트니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mothercare",
+   "name": "Mothercare",
+   "qid": "Q136738",
+   "country": "영국",
+   "inception": "1961",
+   "headquarters": "왓퍼드",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "repco",
+   "name": "Repco",
+   "qid": "Q173425",
+   "country": "호주",
+   "inception": "1920",
+   "headquarters": "Rowville",
+   "founders": [],
+   "parent": "Genuine Parts Company",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ryder",
+   "name": "Ryder",
+   "qid": "Q2178198",
+   "country": "미국",
+   "inception": "1933",
+   "headquarters": "코럴게이블즈",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "carrefour",
+   "name": "까르푸",
+   "qid": "Q217599",
+   "country": "프랑스",
+   "inception": "1959-11-30",
+   "headquarters": null,
+   "founders": [],
+   "parent": "Carrefour Group",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "8bitpeoples",
+   "name": "8bitpeoples",
+   "qid": "Q83741",
+   "country": "미국",
+   "inception": "1999",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "armada",
+   "name": "Armada",
+   "qid": "Q160732",
+   "country": "네덜란드",
+   "inception": "2003",
+   "headquarters": "암스테르담",
+   "founders": [
+    "아르민 판 뷔런"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "century-media-records",
+   "name": "Century Media Records",
+   "qid": "Q158867",
+   "country": "미국",
+   "inception": "1988",
+   "headquarters": "도르트문트",
+   "founders": [],
+   "parent": "소니 뮤직 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fmp-free-music-production",
+   "name": "FMP/Free Music Production",
+   "qid": "Q266157",
+   "country": "독일",
+   "inception": "1969",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "morr-music",
+   "name": "Morr Music",
+   "qid": "Q474113",
+   "country": "독일",
+   "inception": "1999",
+   "headquarters": "베를린",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pwm-edition",
+   "name": "PWM Edition",
+   "qid": "Q198579",
+   "country": "폴란드",
+   "inception": "1945",
+   "headquarters": "크라쿠프",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "real-world-records",
+   "name": "Real World Records",
+   "qid": "Q325866",
+   "country": "영국",
+   "inception": "1989",
+   "headquarters": "윌트셔주",
+   "founders": [
+    "피터 가브리엘"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sm-entertainment",
+   "name": "SM 엔터테인먼트",
+   "qid": "Q483938",
+   "country": "한국",
+   "inception": "1995-02-14",
+   "headquarters": "서울특별시",
+   "founders": [
+    "이수만"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "saregama",
+   "name": "Saregama",
+   "qid": "Q122575",
+   "country": "인도",
+   "inception": "2000",
+   "headquarters": "콜카타",
+   "founders": [],
+   "parent": "The Gramophone Co. Ltd.",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "trisol-music-group",
+   "name": "Trisol Music Group",
+   "qid": "Q553557",
+   "country": "독일",
+   "inception": "1997",
+   "headquarters": "Dieburg",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "universal-edition",
+   "name": "Universal Edition",
+   "qid": "Q569779",
+   "country": "오스트리아",
+   "inception": "1901",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yg-entertainment",
+   "name": "YG 엔터테인먼트",
+   "qid": "Q50595",
+   "country": "한국",
+   "inception": "1995-02-24",
+   "headquarters": "합정동",
+   "founders": [
+    "양현석"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "zyx-music",
+   "name": "ZYX Music",
+   "qid": "Q107906233",
+   "country": "독일",
+   "inception": "1971",
+   "headquarters": "Merenberg",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "emusic",
+   "name": "eMusic",
+   "qid": "Q286400",
+   "country": "미국",
+   "inception": "1998",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "roadrunner-records",
+   "name": "로드러너 레코드",
+   "qid": "Q18628",
+   "country": "미국",
+   "inception": "1980",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": "워너 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "woollim-entertainment",
+   "name": "울림엔터테인먼트",
+   "qid": "Q50596",
+   "country": "한국",
+   "inception": "2003",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cube-entertainment",
+   "name": "큐브엔터테인먼트",
+   "qid": "Q484449",
+   "country": "한국",
+   "inception": "2006-08-29",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pony-canyon",
+   "name": "포니 캐년",
+   "qid": "Q513712",
+   "country": "일본",
+   "inception": "1966-10-01",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": "후지 미디어 홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pledis-entertainment",
+   "name": "플레디스엔터테인먼트",
+   "qid": "Q45282",
+   "country": "한국",
+   "inception": "2007",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "하이브",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cabela-s",
+   "name": "Cabela's",
+   "qid": "Q2793714",
+   "country": "미국",
+   "inception": "1961",
+   "headquarters": "Sidney",
+   "founders": [
+    "Richard N. Cabela"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "marathon-sports",
+   "name": "Marathon Sports",
+   "qid": "Q3027516",
+   "country": "에콰도르",
+   "inception": "1981",
+   "headquarters": "키토",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "5-sec",
+   "name": "5àsec",
+   "qid": "Q2817899",
+   "country": "프랑스",
+   "inception": "1968",
+   "headquarters": "프랑스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "afm",
+   "name": "AFM 레코드",
+   "qid": "Q292128",
+   "country": "독일",
+   "inception": "1993",
+   "headquarters": "Schwalmstadt",
+   "founders": [
+    "Andreas Allendörfer"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ato-records",
+   "name": "ATO Records",
+   "qid": "Q128280",
+   "country": "미국",
+   "inception": "2000",
+   "headquarters": "뉴욕",
+   "founders": [
+    "데이브 매슈스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "anjunabeats",
+   "name": "Anjunabeats",
+   "qid": "Q551566",
+   "country": "영국",
+   "inception": "2000",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bis-records",
+   "name": "BIS Records",
+   "qid": "Q200426",
+   "country": "스웨덴",
+   "inception": "1973",
+   "headquarters": "Åkersberga",
+   "founders": [
+    "Robert von Bahr"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "berlitz-corporation",
+   "name": "Berlitz Corporation",
+   "qid": "Q821960",
+   "country": "독일",
+   "inception": "1878",
+   "headquarters": "프랑크푸르트",
+   "founders": [
+    "막시밀리안 베를리츠"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bonsound",
+   "name": "Bonsound",
+   "qid": "Q550482",
+   "country": "캐나다",
+   "inception": "2004",
+   "headquarters": "몬트리올",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cap",
+   "name": "CAP",
+   "qid": "Q1022827",
+   "country": "독일",
+   "inception": "2001",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": "에데카",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "coop-norge-sa",
+   "name": "Coop Norge SA",
+   "qid": "Q1618373",
+   "country": "노르웨이",
+   "inception": "2007",
+   "headquarters": "오슬로",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "delicious-vinyl",
+   "name": "Delicious Vinyl",
+   "qid": "Q518854",
+   "country": "미국",
+   "inception": "1987",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "Matt Dike"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "eataly",
+   "name": "Eataly",
+   "qid": "Q3046645",
+   "country": "미국",
+   "inception": "2004",
+   "headquarters": "Monticello d'Alba",
+   "founders": [
+    "Oscar Farinetti"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "edel-records",
+   "name": "Edel Records",
+   "qid": "Q523563",
+   "country": "독일",
+   "inception": "1986",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "enja-records",
+   "name": "Enja Records",
+   "qid": "Q466785",
+   "country": "독일",
+   "inception": "1971",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07",
+   "logoSource": "commons:Enja Records (logo).png"
+  },
+  {
+   "slug": "equal-vision-records",
+   "name": "Equal Vision Records",
+   "qid": "Q264980",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "올버니",
+   "founders": [
+    "Ray Cappo"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fysisk-format",
+   "name": "Fysisk Format",
+   "qid": "Q602130",
+   "country": "노르웨이",
+   "inception": "2008",
+   "headquarters": "오슬로",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "global-underground",
+   "name": "Global Underground",
+   "qid": "Q530710",
+   "country": "영국",
+   "inception": "1996",
+   "headquarters": null,
+   "founders": [
+    "Andy Horsfield"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "greek-national-opera",
+   "name": "Greek National Opera",
+   "qid": "Q582625",
+   "country": "그리스",
+   "inception": "1939-03-05",
+   "headquarters": "Greek National Opera House",
+   "founders": [
+    "Costis Bastias"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "heavenly-recordings",
+   "name": "Heavenly Recordings",
+   "qid": "Q375229",
+   "country": "영국",
+   "inception": "1990",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hipercor",
+   "name": "Hipercor",
+   "qid": "Q191574",
+   "country": "스페인",
+   "inception": "1979",
+   "headquarters": "마드리드",
+   "founders": [],
+   "parent": "엘 코르테 잉글레스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "holland-blumen-mark",
+   "name": "Holland Blumen Mark",
+   "qid": "Q1624739",
+   "country": "오스트리아",
+   "inception": "1974",
+   "headquarters": "Gerasdorf bei Wien",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "innova-recordings",
+   "name": "Innova Recordings",
+   "qid": "Q113376",
+   "country": "미국",
+   "inception": "1982",
+   "headquarters": "세인트폴",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "intakt-records",
+   "name": "Intakt Records",
+   "qid": "Q544186",
+   "country": "스위스",
+   "inception": "1986",
+   "headquarters": "취리히",
+   "founders": [
+    "Patrik Landolt"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kompakt",
+   "name": "Kompakt",
+   "qid": "Q564432",
+   "country": "독일",
+   "inception": "1998",
+   "headquarters": "쾰른",
+   "founders": [
+    "Wolfgang Voigt"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kung-fu-records",
+   "name": "Kung Fu Records",
+   "qid": "Q537118",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "실비치",
+   "founders": [
+    "The Vandals"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mega-family-shopping-centre",
+   "name": "MEGA Family Shopping Centre",
+   "qid": "Q624897",
+   "country": "러시아",
+   "inception": "2002",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mps",
+   "name": "MPS 레코드",
+   "qid": "Q319256",
+   "country": "독일",
+   "inception": "1968",
+   "headquarters": "Villingen-Schwenningen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "megaforce-records",
+   "name": "Megaforce Records",
+   "qid": "Q477213",
+   "country": "미국",
+   "inception": "1982",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "milan",
+   "name": "Milan",
+   "qid": "Q303739",
+   "country": "미국",
+   "inception": "1978",
+   "headquarters": "로스앤젤레스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "moeder-babelutte",
+   "name": "Moeder Babelutte",
+   "qid": "Q2877824",
+   "country": "벨기에",
+   "inception": "1850",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "owsla",
+   "name": "OWSLA",
+   "qid": "Q21090",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "스크릴렉스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "osmose-productions",
+   "name": "Osmose Productions",
+   "qid": "Q37479",
+   "country": "프랑스",
+   "inception": "1991",
+   "headquarters": "Beaurainville",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "p-vine-records",
+   "name": "P-Vine Records",
+   "qid": "Q115570",
+   "country": "일본",
+   "inception": "1975",
+   "headquarters": "사쿠라가오카초",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pataugas",
+   "name": "Pataugas",
+   "qid": "Q3368657",
+   "country": "프랑스",
+   "inception": "1950-08-24",
+   "headquarters": "엑상프로방스",
+   "founders": [
+    "René Elissabide"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rca",
+   "name": "RCA 레코드",
+   "qid": "Q202585",
+   "country": "미국",
+   "inception": "1901",
+   "headquarters": "뉴욕",
+   "founders": [
+    "에밀 베를리너",
+    "Eldridge R. Johnson"
+   ],
+   "parent": "소니 뮤직 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "richter-frenzel",
+   "name": "Richter+Frenzel",
+   "qid": "Q2151266",
+   "country": "독일",
+   "inception": "1895",
+   "headquarters": "뷔르츠부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rise-above-records",
+   "name": "Rise Above Records",
+   "qid": "Q549624",
+   "country": "영국",
+   "inception": "1988",
+   "headquarters": "런던",
+   "founders": [
+    "Lee Dorrian"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-telecom",
+   "name": "SK텔레콤",
+   "qid": "Q493145",
+   "country": "한국",
+   "inception": "1984",
+   "headquarters": "중구",
+   "founders": [],
+   "parent": "SK",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "simon-l-velt",
+   "name": "Simon Lévelt",
+   "qid": "Q2220070",
+   "country": "네덜란드",
+   "inception": "1826",
+   "headquarters": "하를럼",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "thrill-jockey",
+   "name": "Thrill Jockey",
+   "qid": "Q448723",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "시카고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "trojan-records",
+   "name": "Trojan Records",
+   "qid": "Q126543",
+   "country": "영국",
+   "inception": "1968",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": "생츄어리 레코드",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wandelweiser",
+   "name": "Wandelweiser",
+   "qid": "Q536894",
+   "country": "독일",
+   "inception": "1992",
+   "headquarters": "Haan",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "oodji",
+   "name": "oodji",
+   "qid": "Q172108",
+   "country": "러시아",
+   "inception": "1998",
+   "headquarters": "상트페테르부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "geffen-records",
+   "name": "게펜 레코드",
+   "qid": "Q212699",
+   "country": "미국",
+   "inception": "1980",
+   "headquarters": "샌타모니카",
+   "founders": [
+    "데이비드 게펀"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dollar-general",
+   "name": "달러 제너럴",
+   "qid": "Q145168",
+   "country": "미국",
+   "inception": "1939",
+   "headquarters": "Goodlettsville",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tous-les-jours",
+   "name": "뚜레쥬르",
+   "qid": "Q3535609",
+   "country": "한국",
+   "inception": "1997",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mercury-records",
+   "name": "머큐리 레코드",
+   "qid": "Q165745",
+   "country": "미국",
+   "inception": "1945",
+   "headquarters": "런던",
+   "founders": [
+    "Arthur Talmadge",
+    "Irving Green",
+    "Ray Greenberg"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "motown",
+   "name": "모타운 레코드",
+   "qid": "Q43327",
+   "country": "미국",
+   "inception": "1959-01-12",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "베리 고디"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ministry-of-sound",
+   "name": "미니스트리 오브 사운드",
+   "qid": "Q97623539",
+   "country": "영국",
+   "inception": "1991",
+   "headquarters": "런던",
+   "founders": [
+    "James Palumbo",
+    "Justin Berkmann"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "virgin-records",
+   "name": "버진 레코드",
+   "qid": "Q203059",
+   "country": "영국",
+   "inception": "1972",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "리처드 브랜슨",
+    "Nik Powell",
+    "톰 뉴먼"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shady-records",
+   "name": "셰이디 레코드",
+   "qid": "Q568246",
+   "country": "미국",
+   "inception": "1999-06-29",
+   "headquarters": "뉴욕",
+   "founders": [
+    "에미넴",
+    "Paul Rosenberg"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "smekkleysa",
+   "name": "스메클레이사",
+   "qid": "Q579423",
+   "country": "아이슬란드",
+   "inception": "1986",
+   "headquarters": "레이캬비크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "american-recordings",
+   "name": "아메리칸 레코딩스",
+   "qid": "Q466649",
+   "country": "미국",
+   "inception": "1988",
+   "headquarters": "버뱅크",
+   "founders": [
+    "릭 루빈"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "island-records",
+   "name": "아일랜드 레코드",
+   "qid": "Q190585",
+   "country": "자메이카",
+   "inception": "1959-07-04",
+   "headquarters": "런던",
+   "founders": [
+    "Chris Blackwell",
+    "Graeme Goodall",
+    "Leslie Kong"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "atlantic-records",
+   "name": "애틀랜틱 레코드",
+   "qid": "Q202440",
+   "country": "미국",
+   "inception": "1947",
+   "headquarters": "미국",
+   "founders": [
+    "아흐메트 에르테군",
+    "Herb Abramson"
+   ],
+   "parent": "워너 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "epic-records",
+   "name": "에픽 레코드",
+   "qid": "Q216364",
+   "country": "미국",
+   "inception": "1953",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "컬럼비아 레코드"
+   ],
+   "parent": "소니 뮤직 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "warner-music-group",
+   "name": "워너 뮤직 그룹",
+   "qid": "Q21077",
+   "country": "미국",
+   "inception": "1958-04-06",
+   "headquarters": "뉴욕",
+   "founders": [
+    "워너 브로스"
+   ],
+   "parent": "Access Industries",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "warp-records",
+   "name": "워프 레코즈",
+   "qid": "Q543707",
+   "country": "영국",
+   "inception": "1989",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jagjaguwar",
+   "name": "잭재규어",
+   "qid": "Q511652",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "블루밍턴",
+   "founders": [
+    "Darius Van Arman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "capitol-records",
+   "name": "캐피털 레코드",
+   "qid": "Q193023",
+   "country": "미국",
+   "inception": "1942",
+   "headquarters": null,
+   "founders": [
+    "조니 머서",
+    "Buddy DeSylva"
+   ],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "columbia-records",
+   "name": "컬럼비아 레코드",
+   "qid": "Q183387",
+   "country": "미국",
+   "inception": "1889-01-15",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Edward D. Easton"
+   ],
+   "parent": "소니 뮤직 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "costco",
+   "name": "코스트코",
+   "qid": "Q715583",
+   "country": "미국",
+   "inception": "1983",
+   "headquarters": "이사콰",
+   "founders": [
+    "짐 시네갈",
+    "Jeffrey Brotman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "crocs",
+   "name": "크록스",
+   "qid": "Q926699",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "롱먼트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "parlophone",
+   "name": "팔로폰 레코드",
+   "qid": "Q208909",
+   "country": "영국",
+   "inception": "1896",
+   "headquarters": null,
+   "founders": [
+    "Carl Lindström A.G."
+   ],
+   "parent": "워너 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "priority-records",
+   "name": "프라이오리티 레코드",
+   "qid": "Q522618",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "로스앤젤레스",
+   "founders": [],
+   "parent": "유니버설 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hollywood-records",
+   "name": "할리우드 레코드",
+   "qid": "Q387539",
+   "country": "미국",
+   "inception": "1989",
+   "headquarters": "버뱅크",
+   "founders": [
+    "마이클 아이스너"
+   ],
+   "parent": "디즈니 뮤직 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hands",
+   "name": "핸즈",
+   "qid": "Q859212",
+   "country": "일본",
+   "inception": "1976-08-28",
+   "headquarters": "Shinjuku Eastside Square",
+   "founders": [],
+   "parent": "Tokyu Fudosan Holdings",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "love-s-travel-stops-and-country-stores",
+   "name": "Love's Travel Stops & Country Stores",
+   "qid": "Q1872496",
+   "country": "미국",
+   "inception": "1964",
+   "headquarters": "오클라호마시티",
+   "founders": [
+    "Tom Love",
+    "Judy Love"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "au-vieux-campeur",
+   "name": "Au vieux campeur",
+   "qid": "Q2409646",
+   "country": null,
+   "inception": "1941",
+   "headquarters": "파리",
+   "founders": [
+    "Roger de Rorthays"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "coccinelle",
+   "name": "Coccinelle",
+   "qid": "Q944874",
+   "country": "이탈리아",
+   "inception": "1978",
+   "headquarters": "Sala Baganza",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hunkem-ller",
+   "name": "Hunkemöller",
+   "qid": "Q2604175",
+   "country": "네덜란드",
+   "inception": "1886",
+   "headquarters": "힐베르쉼",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kathmandu",
+   "name": "Kathmandu",
+   "qid": "Q1736294",
+   "country": null,
+   "inception": "1987",
+   "headquarters": "크라이스트처치",
+   "founders": [
+    "Jan Cameron"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mexx",
+   "name": "Mexx",
+   "qid": "Q1837290",
+   "country": "네덜란드",
+   "inception": "1986",
+   "headquarters": "Drunen",
+   "founders": [
+    "Rattan Chadha"
+   ],
+   "parent": "Kate Spade & Company",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "munich",
+   "name": "Munich",
+   "qid": "Q2076935",
+   "country": "스페인",
+   "inception": "1939",
+   "headquarters": "Capellades",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nkd",
+   "name": "NKD",
+   "qid": "Q927272",
+   "country": "독일",
+   "inception": "1962",
+   "headquarters": "Bindlach",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "patrizia-pepe",
+   "name": "Patrizia Pepe",
+   "qid": "Q3897831",
+   "country": "이탈리아",
+   "inception": "1993",
+   "headquarters": "캄피비센치오",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "river-island",
+   "name": "River Island",
+   "qid": "Q2670328",
+   "country": "영국",
+   "inception": "1948",
+   "headquarters": "런던",
+   "founders": [
+    "Bernard Lewis"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "schaap-en-citroen",
+   "name": "Schaap en Citroen",
+   "qid": "Q1984947",
+   "country": "네덜란드",
+   "inception": "2009",
+   "headquarters": "암스테르담",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "springfield",
+   "name": "Springfield",
+   "qid": "Q958209",
+   "country": "스페인",
+   "inception": "1988",
+   "headquarters": "마드리드",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-society-shop",
+   "name": "The Society Shop",
+   "qid": "Q2021229",
+   "country": "네덜란드",
+   "inception": "1935",
+   "headquarters": "암스테르담",
+   "founders": [
+    "Ger Dijkstra"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-sting",
+   "name": "The Sting",
+   "qid": "Q2518794",
+   "country": "네덜란드",
+   "inception": "1982",
+   "headquarters": "틸뷔르흐",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "vero-moda",
+   "name": "Vero Moda",
+   "qid": "Q640418",
+   "country": "덴마크",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wibra",
+   "name": "Wibra",
+   "qid": "Q943405",
+   "country": "네덜란드",
+   "inception": "1956",
+   "headquarters": "Epe",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "zeeman",
+   "name": "Zeeman",
+   "qid": "Q184399",
+   "country": "네덜란드",
+   "inception": "1967-03",
+   "headquarters": "알펀안덴레인",
+   "founders": [
+    "Jan Zeeman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lacoste",
+   "name": "라코스테",
+   "qid": "Q309031",
+   "country": "프랑스",
+   "inception": "1933",
+   "headquarters": "파리",
+   "founders": [
+    "르네 라코스트",
+    "André Gillier"
+   ],
+   "parent": "Maus Frères",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mulberry",
+   "name": "멀버리",
+   "qid": "Q3866987",
+   "country": "영국",
+   "inception": "1971",
+   "headquarters": "Chilcompton",
+   "founders": [
+    "Roger Saul"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "k-way",
+   "name": "케이웨이",
+   "qid": "Q2820820",
+   "country": null,
+   "inception": "1965",
+   "headquarters": "파리 3구",
+   "founders": [],
+   "parent": "BasicNet",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tous",
+   "name": "토스(TOUS)",
+   "qid": "Q3815128",
+   "country": "스페인",
+   "inception": "1920",
+   "headquarters": "만레사",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fao-schwarz",
+   "name": "FAO Schwarz",
+   "qid": "Q2917244",
+   "country": "미국",
+   "inception": "1862",
+   "headquarters": "GE 빌딩",
+   "founders": [
+    "Frederick August Otto Schwarz"
+   ],
+   "parent": "토이저러스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "globus",
+   "name": "Globus",
+   "qid": "Q457503",
+   "country": "독일",
+   "inception": "1828",
+   "headquarters": "Sankt Wendel",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kwantum",
+   "name": "Kwantum",
+   "qid": "Q2262591",
+   "country": "네덜란드",
+   "inception": null,
+   "headquarters": null,
+   "founders": [
+    "Joop Steenbergen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pottery-barn",
+   "name": "Pottery Barn",
+   "qid": "Q3400126",
+   "country": "미국",
+   "inception": "1949",
+   "headquarters": "샌프란시스코",
+   "founders": [
+    "Paul Secon"
+   ],
+   "parent": "Williams-Sonoma, Inc.",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "smyk",
+   "name": "Smyk",
+   "qid": "Q2295606",
+   "country": "폴란드",
+   "inception": "2000",
+   "headquarters": "바르샤바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "olive-young",
+   "name": "올리브영",
+   "qid": "Q55643246",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gentle-monster",
+   "name": "젠틀몬스터",
+   "qid": "Q43083084",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "xexymix",
+   "name": "젝시믹스",
+   "qid": "Q131188308",
+   "country": "한국",
+   "inception": "2017-08-23",
+   "headquarters": "성동구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "thisisneverthat",
+   "name": "디스이즈네버댓",
+   "qid": "Q107394173",
+   "country": "한국",
+   "inception": "2010",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ader-error",
+   "name": "아더에러",
+   "qid": "Q107394133",
+   "country": "한국",
+   "inception": "2014",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "innisfree",
+   "name": "이니스프리",
+   "qid": "Q16176002",
+   "country": "한국",
+   "inception": "2000",
+   "headquarters": "서울특별시",
+   "founders": [
+    "서경배"
+   ],
+   "parent": "아모레퍼시픽홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dr-jart",
+   "name": "닥터자르트",
+   "qid": "Q85845827",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": "에스티 로더",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kolon-sport",
+   "name": "코오롱스포츠",
+   "qid": "Q131394332",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "black-yak",
+   "name": "블랙야크",
+   "qid": "Q55730526",
+   "country": null,
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "amorepacific",
+   "name": "아모레퍼시픽",
+   "qid": "Q18141920",
+   "country": "한국",
+   "inception": "1945-09-05",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-household-health-care",
+   "name": "LG생활건강",
+   "qid": "Q16169971",
+   "country": null,
+   "inception": "1947-01-05",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-electronics",
+   "name": "삼성전자",
+   "qid": "Q20718",
+   "country": "한국",
+   "inception": "1969-01-13",
+   "headquarters": "수원시",
+   "founders": [
+    "이병철"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-motor",
+   "name": "현대자동차",
+   "qid": "Q55931",
+   "country": "한국",
+   "inception": "1967-12-29",
+   "headquarters": "서울특별시",
+   "founders": [
+    "정주영"
+   ],
+   "parent": "현대",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kia",
+   "name": "기아",
+   "qid": "Q35349",
+   "country": "한국",
+   "inception": "1944-12-11",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "현대자동차그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "naver",
+   "name": "네이버",
+   "qid": "Q485639",
+   "country": "한국",
+   "inception": "1999-06-02",
+   "headquarters": null,
+   "founders": [
+    "이해진"
+   ],
+   "parent": "네이버 주식회사",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-electronics",
+   "name": "LG전자",
+   "qid": "Q162345",
+   "country": "한국",
+   "inception": "1958-10",
+   "headquarters": "서울특별시",
+   "founders": [
+    "구인회"
+   ],
+   "parent": "LG",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "coupang",
+   "name": "쿠팡",
+   "qid": "Q12620655",
+   "country": "한국",
+   "inception": "2010-08-10",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김범석"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kakao",
+   "name": "카카오",
+   "qid": "Q17684312",
+   "country": "한국",
+   "inception": "1995-02-16",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김범수 (기업인)"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "krafton",
+   "name": "크래프톤",
+   "qid": "Q4035237",
+   "country": "한국",
+   "inception": "2007-03-26",
+   "headquarters": "성남시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "socar",
+   "name": "쏘카",
+   "qid": "Q24000067",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "제주시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shinsegae",
+   "name": "신세계",
+   "qid": "Q490787",
+   "country": "한국",
+   "inception": "1963",
+   "headquarters": "서울특별시",
+   "founders": [
+    "이병철"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gs25",
+   "name": "GS25",
+   "qid": "Q624041",
+   "country": "한국",
+   "inception": "1990",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kurly",
+   "name": "컬리",
+   "qid": "Q97203011",
+   "country": "한국",
+   "inception": "2015",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "danggeun-market",
+   "name": "당근마켓",
+   "qid": "Q90002272",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nongshim",
+   "name": "농심",
+   "qid": "Q483018",
+   "country": "한국",
+   "inception": "1965-09-18",
+   "headquarters": "서울특별시",
+   "founders": [
+    "신춘호"
+   ],
+   "parent": "농심홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "orion",
+   "name": "오리온",
+   "qid": "Q7102776",
+   "country": null,
+   "inception": "1956",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "오리온그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "binggrae",
+   "name": "빙그레",
+   "qid": "Q12599539",
+   "country": "한국",
+   "inception": "1967-09-13",
+   "headquarters": "남양주시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hitejinro",
+   "name": "하이트진로",
+   "qid": "Q494272",
+   "country": "한국",
+   "inception": "1924",
+   "headquarters": "서초동",
+   "founders": [],
+   "parent": "하이트진로홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kakao-entertainment",
+   "name": "카카오엔터테인먼트",
+   "qid": "Q106341957",
+   "country": "한국",
+   "inception": "2010-07-20",
+   "headquarters": "성남시",
+   "founders": [],
+   "parent": "카카오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shinhan-financial-group",
+   "name": "신한금융그룹",
+   "qid": "Q491325",
+   "country": "한국",
+   "inception": "2001-09-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kakaobank",
+   "name": "카카오뱅크",
+   "qid": "Q33570421",
+   "country": "한국",
+   "inception": "2016-01-22",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-hynix",
+   "name": "SK하이닉스",
+   "qid": "Q370719",
+   "country": "한국",
+   "inception": "1983",
+   "headquarters": "이천시",
+   "founders": [
+    "정주영"
+   ],
+   "parent": "SK그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kt",
+   "name": "KT",
+   "qid": "Q485908",
+   "country": "한국",
+   "inception": "1981",
+   "headquarters": "성남시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pearl-abyss",
+   "name": "펄어비스",
+   "qid": "Q55735496",
+   "country": "한국",
+   "inception": "2010-09-10",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korean-air",
+   "name": "대한항공",
+   "qid": "Q213147",
+   "country": "한국",
+   "inception": "1969-03-01",
+   "headquarters": "공항동",
+   "founders": [],
+   "parent": "한진그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "asiana-airlines",
+   "name": "아시아나항공",
+   "qid": "Q211165",
+   "country": "한국",
+   "inception": "1988-02-17",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jeju-air",
+   "name": "제주항공",
+   "qid": "Q482642",
+   "country": "한국",
+   "inception": "2005",
+   "headquarters": "제주시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "celltrion",
+   "name": "셀트리온",
+   "qid": "Q16175734",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "인천광역시",
+   "founders": [
+    "서정진"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-biologics",
+   "name": "삼성바이오로직스",
+   "qid": "Q16767532",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "인천광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yuhan",
+   "name": "유한양행",
+   "qid": "Q8060442",
+   "country": null,
+   "inception": "1926",
+   "headquarters": "서울특별시",
+   "founders": [
+    "유일한"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samyang-foods",
+   "name": "삼양식품",
+   "qid": "Q7413176",
+   "country": "한국",
+   "inception": "1961",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pulmuone",
+   "name": "풀무원",
+   "qid": "Q7259556",
+   "country": "한국",
+   "inception": "1981",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ottogi",
+   "name": "오뚜기",
+   "qid": "Q625852",
+   "country": "한국",
+   "inception": "1969",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kyochon",
+   "name": "교촌치킨",
+   "qid": "Q6451885",
+   "country": "한국",
+   "inception": "1991",
+   "headquarters": "오산시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hankook-tire",
+   "name": "한국타이어",
+   "qid": "Q493094",
+   "country": "한국",
+   "inception": "1941",
+   "headquarters": "성남시",
+   "founders": [
+    "브리지스톤"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-life",
+   "name": "삼성생명",
+   "qid": "Q624080",
+   "country": "한국",
+   "inception": "1957",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "삼성",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "daesang",
+   "name": "대상",
+   "qid": "Q12591553",
+   "country": "한국",
+   "inception": "1956",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대상홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "maeil-dairies",
+   "name": "매일유업",
+   "qid": "Q11239984",
+   "country": "한국",
+   "inception": "1969-02-14",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lotte-wellfood",
+   "name": "롯데웰푸드",
+   "qid": "Q6684915",
+   "country": "한국",
+   "inception": "1967",
+   "headquarters": "서울특별시",
+   "founders": [
+    "신격호"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "haitai",
+   "name": "해태제과",
+   "qid": "Q487281",
+   "country": "한국",
+   "inception": "1945-10-03",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "크라운해태홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cosmax",
+   "name": "코스맥스",
+   "qid": "Q17991457",
+   "country": "한국",
+   "inception": "1992-11",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kolmar-korea",
+   "name": "한국콜마",
+   "qid": "Q18142473",
+   "country": "한국",
+   "inception": "1990-05-15",
+   "headquarters": "세종특별자치시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "f-and-f",
+   "name": "F&F",
+   "qid": "Q18998034",
+   "country": "한국",
+   "inception": "1992-08",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "F&F홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "handsome",
+   "name": "한섬",
+   "qid": "Q12624097",
+   "country": "한국",
+   "inception": "1987-05",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "e-land",
+   "name": "이랜드",
+   "qid": "Q5321417",
+   "country": "한국",
+   "inception": "1978-12-22",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-chem",
+   "name": "LG화학",
+   "qid": "Q486976",
+   "country": "한국",
+   "inception": "1947",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-innovation",
+   "name": "SK이노베이션",
+   "qid": "Q16172809",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "SK",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gs-caltex",
+   "name": "GS칼텍스",
+   "qid": "Q624012",
+   "country": "일본",
+   "inception": "1967-05-19",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "GS에너지",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "posco",
+   "name": "포스코",
+   "qid": "Q12621895",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "genesis",
+   "name": "제네시스",
+   "qid": "Q21451523",
+   "country": "한국",
+   "inception": "2015-11-04",
+   "headquarters": "서울특별시",
+   "founders": [
+    "현대자동차"
+   ],
+   "parent": "현대자동차",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hd-hyundai-heavy",
+   "name": "HD현대중공업",
+   "qid": "Q626638",
+   "country": "한국",
+   "inception": "2002-02-28",
+   "headquarters": "성남시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "doosan",
+   "name": "두산",
+   "qid": "Q486002",
+   "country": "한국",
+   "inception": "1896",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "line",
+   "name": "라인",
+   "qid": "Q602471",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dunamu",
+   "name": "두나무",
+   "qid": "Q130217833",
+   "country": "한국",
+   "inception": "2012-04-03",
+   "headquarters": "서초구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "toss-bank",
+   "name": "토스뱅크",
+   "qid": "Q110117949",
+   "country": "한국",
+   "inception": "2020-01-31",
+   "headquarters": "역삼동",
+   "founders": [],
+   "parent": "비바리퍼블리카",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "smilegate",
+   "name": "스마일게이트",
+   "qid": "Q12603595",
+   "country": "한국",
+   "inception": "2002-06-11",
+   "headquarters": "성남시",
+   "founders": [
+    "권혁빈"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wemade",
+   "name": "위메이드",
+   "qid": "Q488510",
+   "country": null,
+   "inception": "2000",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tvn",
+   "name": "tvN",
+   "qid": "Q333424",
+   "country": "한국",
+   "inception": "2006",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sbs",
+   "name": "SBS",
+   "qid": "Q928831",
+   "country": "한국",
+   "inception": "1990-11-14",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "TY홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "studio-dragon",
+   "name": "스튜디오드래곤",
+   "qid": "Q31180504",
+   "country": "한국",
+   "inception": "2016-05-03",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "CJ E&M",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "paris-baguette",
+   "name": "파리바게뜨",
+   "qid": "Q62605260",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bbq",
+   "name": "BBQ",
+   "qid": "Q87716489",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "twosome-place",
+   "name": "투썸플레이스",
+   "qid": "Q12621301",
+   "country": null,
+   "inception": "2002",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ediya-coffee",
+   "name": "이디야커피",
+   "qid": "Q12611298",
+   "country": "한국",
+   "inception": "2001",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanmi-pharm",
+   "name": "한미약품",
+   "qid": "Q17095096",
+   "country": "한국",
+   "inception": "1973",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "chong-kun-dang",
+   "name": "종근당",
+   "qid": "Q12617231",
+   "country": "한국",
+   "inception": "1941-05-07",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "종근당홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kwangdong-pharm",
+   "name": "광동제약",
+   "qid": "Q12584983",
+   "country": "한국",
+   "inception": "1963",
+   "headquarters": "과천시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "s-oil",
+   "name": "에쓰오일",
+   "qid": "Q185564",
+   "country": "한국",
+   "inception": "1976-01-06",
+   "headquarters": "서울특별시",
+   "founders": [
+    "쌍용그룹"
+   ],
+   "parent": "사우디 아람코",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanwha-solutions",
+   "name": "한화솔루션",
+   "qid": "Q5651426",
+   "country": "한국",
+   "inception": "1974-04-27",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyosung",
+   "name": "효성",
+   "qid": "Q497254",
+   "country": "한국",
+   "inception": "1966",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-enc",
+   "name": "현대건설",
+   "qid": "Q489809",
+   "country": "한국",
+   "inception": "1947",
+   "headquarters": "서울특별시",
+   "founders": [
+    "정주영"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-department-store",
+   "name": "현대백화점",
+   "qid": "Q624388",
+   "country": null,
+   "inception": "1971-06-15",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cu",
+   "name": "CU",
+   "qid": "Q12580836",
+   "country": "한국",
+   "inception": "1990",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07",
+   "logoSource": "commons:CU BI (2017).svg"
+  },
+  {
+   "slug": "homeplus",
+   "name": "홈플러스",
+   "qid": "Q5889167",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "강서구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-fire",
+   "name": "삼성화재",
+   "qid": "Q492706",
+   "country": null,
+   "inception": "1952",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kiwoom-securities",
+   "name": "키움증권",
+   "qid": "Q12620803",
+   "country": "한국",
+   "inception": "2000-01-31",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "db-insurance",
+   "name": "DB손해보험",
+   "qid": "Q5295830",
+   "country": "한국",
+   "inception": "1993",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "namyang-dairy",
+   "name": "남양유업",
+   "qid": "Q12589926",
+   "country": "한국",
+   "inception": "1964-03-13",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lotteria",
+   "name": "롯데리아",
+   "qid": "Q249525",
+   "country": "한국",
+   "inception": "1972-02-02",
+   "headquarters": null,
+   "founders": [],
+   "parent": "롯데지주",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "moms-touch",
+   "name": "맘스터치",
+   "qid": "Q23044856",
+   "country": null,
+   "inception": "1997",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "compose-coffee",
+   "name": "컴포즈커피",
+   "qid": "Q120997937",
+   "country": "한국",
+   "inception": "2014",
+   "headquarters": "부산광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-face-shop",
+   "name": "더페이스샵",
+   "qid": "Q624440",
+   "country": "한국",
+   "inception": "2003",
+   "headquarters": "종로구",
+   "founders": [],
+   "parent": "LG생활건강",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nature-republic",
+   "name": "네이처리퍼블릭",
+   "qid": "Q16935507",
+   "country": "한국",
+   "inception": "2009-03",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mamonde",
+   "name": "마몽드",
+   "qid": "Q16935509",
+   "country": null,
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "manyo-factory",
+   "name": "마녀공장",
+   "qid": "Q131188099",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shift-up",
+   "name": "시프트업",
+   "qid": "Q108537188",
+   "country": "한국",
+   "inception": "2013-12-02",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김형태"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "devsisters",
+   "name": "데브시스터즈",
+   "qid": "Q20445830",
+   "country": "한국",
+   "inception": "2007",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gravity",
+   "name": "그라비티",
+   "qid": "Q484143",
+   "country": "한국",
+   "inception": "2000",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "겅호 온라인 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jin-air",
+   "name": "진에어",
+   "qid": "Q484872",
+   "country": "한국",
+   "inception": "2008",
+   "headquarters": "강서구",
+   "founders": [],
+   "parent": "한진칼",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tway-air",
+   "name": "티웨이항공",
+   "qid": "Q494775",
+   "country": "한국",
+   "inception": "2004",
+   "headquarters": "동인동",
+   "founders": [],
+   "parent": "티웨이홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cj-logistics",
+   "name": "CJ대한통운",
+   "qid": "Q5012276",
+   "country": null,
+   "inception": "1930-11-15",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "discovery-expedition",
+   "name": "디스커버리 익스페디션",
+   "qid": "Q26286443",
+   "country": null,
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "stylenanda",
+   "name": "스타일난다",
+   "qid": "Q21178775",
+   "country": "한국",
+   "inception": "2004",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김소희"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ibk",
+   "name": "IBK기업은행",
+   "qid": "Q483855",
+   "country": "한국",
+   "inception": "1961-08-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대한민국 금융위원회",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kyobo-life",
+   "name": "교보생명",
+   "qid": "Q6451862",
+   "country": null,
+   "inception": "1958",
+   "headquarters": "종로구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-marine",
+   "name": "현대해상",
+   "qid": "Q482973",
+   "country": "한국",
+   "inception": "1955-03-05",
+   "headquarters": "종로구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "meritz-fire",
+   "name": "메리츠화재",
+   "qid": "Q6819575",
+   "country": "한국",
+   "inception": "1922",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kg-mobility",
+   "name": "KG모빌리티",
+   "qid": "Q221869",
+   "country": "한국",
+   "inception": "1954-03-04",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "KG그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nexen-tire",
+   "name": "넥센타이어",
+   "qid": "Q625573",
+   "country": "한국",
+   "inception": "1942",
+   "headquarters": "양산시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanon-systems",
+   "name": "한온시스템",
+   "qid": "Q5642735",
+   "country": "한국",
+   "inception": "1986-03-11",
+   "headquarters": "대전광역시",
+   "founders": [],
+   "parent": "한국타이어앤테크놀로지",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-zinc",
+   "name": "고려아연",
+   "qid": "Q16183878",
+   "country": "한국",
+   "inception": "1974-08-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nepa",
+   "name": "네파",
+   "qid": "Q31179052",
+   "country": "한국",
+   "inception": "1996",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gs-construction",
+   "name": "GS건설",
+   "qid": "Q16219417",
+   "country": "한국",
+   "inception": "1969-12-19",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dl-enc",
+   "name": "DL이앤씨",
+   "qid": "Q105628048",
+   "country": "한국",
+   "inception": "2021-01-04",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "DL",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "daewoo-enc",
+   "name": "대우건설",
+   "qid": "Q626452",
+   "country": "한국",
+   "inception": "1973",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-ct",
+   "name": "삼성물산",
+   "qid": "Q499194",
+   "country": "한국",
+   "inception": "1938",
+   "headquarters": "서초구",
+   "founders": [
+    "이병철"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "daewoong",
+   "name": "대웅제약",
+   "qid": "Q16219728",
+   "country": "한국",
+   "inception": "1978-02-28",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dong-a-st",
+   "name": "동아에스티",
+   "qid": "Q110114773",
+   "country": null,
+   "inception": "2013-03-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-biopharm",
+   "name": "SK바이오팜",
+   "qid": "Q131188052",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cuckoo",
+   "name": "쿠쿠",
+   "qid": "Q5192364",
+   "country": "한국",
+   "inception": "1978",
+   "headquarters": "양산시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-magic",
+   "name": "SK매직",
+   "qid": "Q19657217",
+   "country": "한국",
+   "inception": "2013-05-02",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cheongho-nais",
+   "name": "청호나이스",
+   "qid": "Q12619320",
+   "country": "한국",
+   "inception": "1993-05",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sempio",
+   "name": "샘표",
+   "qid": "Q16168540",
+   "country": "한국",
+   "inception": "2016-07-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "crown-confectionery",
+   "name": "크라운제과",
+   "qid": "Q624194",
+   "country": null,
+   "inception": "1947",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "크라운해태홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "spc-samlip",
+   "name": "SPC삼립",
+   "qid": "Q16165525",
+   "country": "한국",
+   "inception": "1945-10-28",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": "SPC그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lionheart-studio",
+   "name": "라이온하트 스튜디오",
+   "qid": "Q132041252",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nhn",
+   "name": "NHN",
+   "qid": "Q16171459",
+   "country": "한국",
+   "inception": "2013-08-01",
+   "headquarters": "분당구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "muhak",
+   "name": "무학",
+   "qid": "Q16168484",
+   "country": "한국",
+   "inception": "1973-10-01",
+   "headquarters": "경상남도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bohae",
+   "name": "보해양조",
+   "qid": "Q10985746",
+   "country": "한국",
+   "inception": "1950",
+   "headquarters": "전라남도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kooksoondang",
+   "name": "국순당",
+   "qid": "Q6430558",
+   "country": "한국",
+   "inception": "1952",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "woongjin-food",
+   "name": "웅진식품",
+   "qid": "Q12609214",
+   "country": "한국",
+   "inception": "1976-04-28",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "Uni-President Enterprises Corporation",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "donga-otsuka",
+   "name": "동아오츠카",
+   "qid": "Q12593475",
+   "country": "한국",
+   "inception": "1979-03-02",
+   "headquarters": "안양시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kumho-petrochemical",
+   "name": "금호석유화학",
+   "qid": "Q16171192",
+   "country": "한국",
+   "inception": "1970",
+   "headquarters": "서울특별시",
+   "founders": [
+    "박인천"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "oci",
+   "name": "OCI",
+   "qid": "Q497825",
+   "country": "한국",
+   "inception": "1959",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyosung-tnc",
+   "name": "효성티앤씨",
+   "qid": "Q131187773",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "woori-bank",
+   "name": "우리은행",
+   "qid": "Q494369",
+   "country": "한국",
+   "inception": "1899",
+   "headquarters": "중구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nh-securities",
+   "name": "NH투자증권",
+   "qid": "Q12581611",
+   "country": null,
+   "inception": "1969",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "NH농협금융지주",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kb-securities",
+   "name": "KB증권",
+   "qid": "Q12581340",
+   "country": "한국",
+   "inception": "1962-06-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanwha-life",
+   "name": "한화생명",
+   "qid": "Q491990",
+   "country": "한국",
+   "inception": "1946-09-09",
+   "headquarters": "63빌딩",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "citibank-korea",
+   "name": "한국씨티은행",
+   "qid": "Q5122452",
+   "country": "한국",
+   "inception": "1983",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "씨티은행",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "emart24",
+   "name": "이마트24",
+   "qid": "Q16219674",
+   "country": "한국",
+   "inception": "2006-06-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hollys",
+   "name": "할리스",
+   "qid": "Q12624386",
+   "country": null,
+   "inception": "1998",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "angelinus",
+   "name": "엔제리너스",
+   "qid": "Q12606781",
+   "country": null,
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "paiks-coffee",
+   "name": "빽다방",
+   "qid": "Q55730575",
+   "country": "한국",
+   "inception": "2006",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "더본코리아",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jyp",
+   "name": "JYP엔터테인먼트",
+   "qid": "Q483238",
+   "country": "한국",
+   "inception": "1996-04-25",
+   "headquarters": "서울특별시",
+   "founders": [
+    "박진영"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "etude",
+   "name": "에뛰드",
+   "qid": "Q16174973",
+   "country": "한국",
+   "inception": "1966",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "아모레퍼시픽홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "viva-republica",
+   "name": "토스",
+   "qid": "Q61090825",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "isaac-toast",
+   "name": "이삭토스트",
+   "qid": "Q25939030",
+   "country": null,
+   "inception": "2003",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hansot",
+   "name": "한솥도시락",
+   "qid": "Q12624133",
+   "country": "한국",
+   "inception": "1993-07-07",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cheongnyeon-dabang",
+   "name": "청년다방",
+   "qid": "Q131417179",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "theborn-korea",
+   "name": "더본코리아",
+   "qid": "Q130223345",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanmi-semiconductor",
+   "name": "한미반도체",
+   "qid": "Q131188043",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "soulbrain",
+   "name": "솔브레인",
+   "qid": "Q131188065",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "koh-young",
+   "name": "고영테크놀러지",
+   "qid": "Q19598726",
+   "country": "한국",
+   "inception": "2002-06",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "park-systems",
+   "name": "파크시스템스",
+   "qid": "Q7138070",
+   "country": "한국",
+   "inception": "1997-04-07",
+   "headquarters": "수원시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jusung-engineering",
+   "name": "주성엔지니어링",
+   "qid": "Q131188711",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dentium",
+   "name": "덴티움",
+   "qid": "Q131187954",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "vatech",
+   "name": "바텍",
+   "qid": "Q106411851",
+   "country": "한국",
+   "inception": "1992",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sungsimdang",
+   "name": "성심당",
+   "qid": "Q22974149",
+   "country": "한국",
+   "inception": "1956-10-15",
+   "headquarters": "중구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dong-wha-pharm",
+   "name": "동화약품",
+   "qid": "Q12593630",
+   "country": "한국",
+   "inception": "1897-09-25",
+   "headquarters": "충주시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "osulloc",
+   "name": "오설록",
+   "qid": "Q16098850",
+   "country": null,
+   "inception": "2019-08-12",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samhwa-paints",
+   "name": "삼화페인트",
+   "qid": "Q131188619",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seoul-milk",
+   "name": "서울우유",
+   "qid": "Q626144",
+   "country": "한국",
+   "inception": "1937",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lock-n-lock",
+   "name": "락앤락",
+   "qid": "Q5646759",
+   "country": "한국",
+   "inception": "1978",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jobis-villains",
+   "name": "자비스앤빌런즈",
+   "qid": "Q131187935",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  }
+ ]
+}

@@ -106,6 +106,22 @@ const OWNERSHIP_CONTEXT = /(?:인수|소유|산하|자회사|모기업|진출|�
  * 소유·유통 문맥과 겹치면 버린다. 근거가 없으면 null.
  */
 export function countryOf(brand) {
+  const fromDef = countryFromDefinition(brand);
+  if (fromDef) return fromDef;
+  // definition에 근거가 없을 때만 Wikidata P17을 쓴다. 이 값은 공식 웹사이트 URL 완전
+  // 일치로 확정된 개체에서 온 것이라 이름 매칭 오류가 없다(enrich-wikidata-facts.mjs).
+  const wd = brand.wikidata && brand.wikidata.country;
+  if (wd && COUNTRY_NAMES.includes(wd)) return COUNTRY_ALIAS[wd] || wd;
+  return null;
+}
+
+/** 근거의 출처 — 팩트 표에서 "정의문" / "위키데이터"를 구분해 표기한다. */
+export function countrySource(brand) {
+  if (countryFromDefinition(brand)) return "definition";
+  return brand.wikidata && brand.wikidata.country ? "wikidata" : null;
+}
+
+function countryFromDefinition(brand) {
   const def = String(brand.definition || brand.summary || "");
   if (!def) return null;
   for (const { re, guard } of ORIGIN_PATTERNS) {
@@ -133,9 +149,55 @@ const YEAR_ORIGIN = new RegExp(
 export function foundedYear(brand) {
   const def = String(brand.definition || brand.summary || "");
   const m = YEAR_ORIGIN.exec(def);
-  if (!m) return null;
-  const n = Number(m[1]);
-  return n >= 1800 && n <= 2100 ? n : null;
+  if (m) {
+    const n = Number(m[1]);
+    if (n >= 1800 && n <= 2100) return n;
+  }
+  const wd = brand.wikidata && brand.wikidata.inception;
+  if (wd) {
+    const y = Number(String(wd).slice(0, 4));
+    if (y >= 1800 && y <= 2100) return y;
+  }
+  return null;
+}
+
+export function foundedYearSource(brand) {
+  const def = String(brand.definition || brand.summary || "");
+  if (YEAR_ORIGIN.test(def)) return "definition";
+  return brand.wikidata && brand.wikidata.inception ? "wikidata" : null;
+}
+
+/**
+ * 팩트 표 — 검증된 값만. 없는 칸은 만들지 않는다.
+ * 반환: [{ label, value, href?, source }] 
+ */
+export function factRows(brand) {
+  const rows = [];
+  const ko = koreanName(brand), en = latinName(brand);
+  if (ko && en && ko.toLowerCase() !== en.toLowerCase()) rows.push({ label: "원어 표기", value: en, source: "data" });
+  if (brand.industry) rows.push({ label: "산업", value: brand.industry, href: brand.domainSlug ? `category/${brand.domainSlug}.html` : null, source: "data" });
+  const c = countryOf(brand);
+  if (c) rows.push({ label: "기원 국가", value: c, source: countrySource(brand) });
+  const y = foundedYear(brand);
+  if (y) rows.push({ label: "설립", value: `${y}년`, source: foundedYearSource(brand) });
+  const wd = brand.wikidata || {};
+  if (wd.headquarters) rows.push({ label: "본사", value: wd.headquarters, source: "wikidata" });
+  if (Array.isArray(wd.founders) && wd.founders.length) rows.push({ label: "창업자", value: wd.founders.slice(0, 3).join(", "), source: "wikidata" });
+  if (wd.parent) rows.push({ label: "모기업", value: wd.parent, source: "wikidata" });
+  const site = brand.facts?.officialWebsite || brand.officialWebsite;
+  if (site && /^https?:\/\//.test(site)) {
+    let host = site; try { host = new URL(site).hostname.replace(/^www\./, ""); } catch {}
+    rows.push({ label: "공식 사이트", value: host, href: site, external: true, source: "data" });
+  }
+  return rows;
+}
+
+/** 주격/보조사 — "구찌는" / "삼성은". 원어 표기는 "는"으로 통일한다. */
+export function topicParticle(name) {
+  const s = String(name || "").trim();
+  const code = s.charCodeAt(s.length - 1);
+  if (code < 0xac00 || code > 0xd7a3) return "는";
+  return (code - 0xac00) % 28 === 0 ? "는" : "은";
 }
 
 /** 실제 BI/CI 이미지 보유 여부 (플레이스홀더 제외). */
@@ -244,10 +306,21 @@ export function buildFaq(brand) {
     faq.push({ q, a: current });
   }
 
+  const wd = brand.wikidata || {};
+  if (wd.founders && wd.founders.length && !faq.some(f => /창업|설립자/.test(f.q))) {
+    faq.push({ q: `${label}의 창업자는 누구인가요?`, a: `${label}의 창업자는 ${wd.founders.slice(0, 3).join(", ")}입니다(위키데이터 기준).` });
+  }
+  if (wd.headquarters && !faq.some(f => /본사/.test(f.q))) {
+    faq.push({ q: `${label}의 본사는 어디에 있나요?`, a: `${label}의 본사는 ${wd.headquarters}에 있습니다(위키데이터 기준).` });
+  }
+  if (wd.parent && !faq.some(f => /소유|모기업/.test(f.q))) {
+    faq.push({ q: `${label}의 모기업은 어디인가요?`, a: `${label}의 모기업은 ${wd.parent}입니다(위키데이터 기준).` });
+  }
+
   const site = brand.facts?.officialWebsite || brand.officialWebsite;
   if (site) faq.push({ q: `${label}의 공식 웹사이트는 어디인가요?`, a: `${label}의 공식 웹사이트는 ${site} 입니다.` });
 
-  return faq.slice(0, 6);
+  return faq.slice(0, 7);
 }
 
 /** 본문(헤더/푸터/관련브랜드 제외) 실텍스트 길이 — thin 판정용. */
@@ -276,7 +349,7 @@ export function slugifyAscii(s) {
 }
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
-export const CSS_V = "20260901b";
+export const CSS_V = "20260907a";
 
 // Google Analytics 4. 빈 문자열이면 태그를 넣지 않는다(로컬·테스트 빌드).
 // 어드민(/admin/)에는 넣지 않는다 — 운영자 방문이 지표를 오염시킨다.

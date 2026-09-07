@@ -1,0 +1,98 @@
+{
+ "generatedAt": "2026-09-07T00:45:26.071Z",
+ "logo": {
+  "ok": 132,
+  "fail": 5,
+  "skipped": 53
+ },
+ "image": {
+  "ok": 90,
+  "fail": 0,
+  "skipped": 53
+ },
+ "bici": {
+  "ok": 275,
+  "fail": 8,
+  "skipped": 53
+ },
+ "failures": [
+  {
+   "slug": "fedex",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_hidden_arrow_in_the_FedEx_logo_-_Do_we_really_unconsciously_%22see%22_it%3F.pdf",
+   "reason": "not image (application/pdf)"
+  },
+  {
+   "slug": "benefit",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Benefit_Monkey_Logo.jpg",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "pepsi",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pepsi_logo_%282014%29.svg",
+   "reason": "svg without <svg>"
+  },
+  {
+   "slug": "k2",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/K2-Animation_280611_DLR-Logo_1280x720.ogv",
+   "reason": "not image (application/ogg)"
+  },
+  {
+   "slug": "red-bull",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Red_Bull_Racing_-_2015_Logo.svg",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "red-bull",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Red_Bull_Racing_-_2021_Logo.svg",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "red-bull",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/RED_BULL_LOGO_2026.svg",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "g-shock",
+   "kind": "bici",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/San_Francisco_Shock_logos_US_Copyright_Office_decision.pdf",
+   "reason": "not image (application/pdf)"
+  },
+  {
+   "slug": "hansae",
+   "kind": "logo",
+   "url": "https://www.hansae.com/favicon.ico",
+   "reason": "fetch failed"
+  },
+  {
+   "slug": "gangnam-unni",
+   "kind": "logo",
+   "url": "https://www.gangnamunni.com/images/kr/og-winter-brand-campaign.png",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "hyundai-livart",
+   "kind": "logo",
+   "url": "https://static.hyundailivart.co.kr/assets/images/common/livart.svg",
+   "reason": "svg without <svg>"
+  },
+  {
+   "slug": "iconix-entertainment",
+   "kind": "logo",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iconix_Logo_since_2014.jpg",
+   "reason": "HTTP 404"
+  },
+  {
+   "slug": "charmzone",
+   "kind": "logo",
+   "url": "http://www.charmzone.co.kr/shopimages/charmzone/all_og__20250903094457phpQENuyQ.jpg",
+   "reason": "HTTP 404"
+  }
+ ]
+}

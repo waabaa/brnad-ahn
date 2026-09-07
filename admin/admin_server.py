@@ -361,6 +361,49 @@ def ga4_report(days: int = 28) -> dict:
 
 
 # ─── HTTP ──────────────────────────────────────────────────────────────────
+
+# ─── 문의(Contact) ───────────────────────────────────────────────────────────
+# 공개 폼 → 서버 저장 → 어드민 조회. 이메일 발송이나 외부 서비스에 의존하지 않는다
+# (글로벌 정책: resort.co.kr admin_auth_server.py 와 같은 패턴). 저장 위치는 DATA_DIR/contacts.jsonl.
+CONTACT_FILE = DATA_DIR / "contacts.jsonl"
+CONTACT_RATE_LIMIT = int(os.environ.get("CONTACT_RATE_LIMIT", "5"))     # IP당 시간당
+CONTACT_KINDS = {"correction": "자료 오류·수정", "rights": "로고·상표 권리", "partnership": "협업·제휴", "other": "기타"}
+_contact_hits: dict[str, list[float]] = defaultdict(list)
+
+
+def contact_rate_ok(ip: str) -> bool:
+    now = time.time()
+    hits = [t for t in _contact_hits[ip] if now - t < 3600]
+    _contact_hits[ip] = hits
+    if len(hits) >= CONTACT_RATE_LIMIT:
+        return False
+    hits.append(now)
+    return True
+
+
+def save_contact(entry: dict) -> None:
+    CONTACT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with CONTACT_FILE.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+
+def list_contacts(limit: int = 200) -> list[dict]:
+    if not CONTACT_FILE.exists():
+        return []
+    rows = []
+    with CONTACT_FILE.open(encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rows.append(json.loads(line))
+            except ValueError:
+                continue
+    rows.reverse()
+    return rows[:limit]
+
+
 class Handler(BaseHTTPRequestHandler):
     server_version = "brandatlas-admin"
     protocol_version = "HTTP/1.1"
@@ -413,6 +456,8 @@ class Handler(BaseHTTPRequestHandler):
         if route == "/logout":
             expired = f"{COOKIE_NAME}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax"
             return self._json(200, {"ok": True}, {"Set-Cookie": expired})
+        if route == "/contact/submit":
+            return self._contact_submit()
         if not self._authed():
             return self._json(401, {"error": "인증 필요"})
         if route == "/api/trend":
@@ -435,6 +480,37 @@ class Handler(BaseHTTPRequestHandler):
         cookie = (f"{COOKIE_NAME}={token}; Path=/; Max-Age={SESSION_SECONDS}; "
                   "HttpOnly; Secure; SameSite=Lax")
         return self._json(200, {"ok": True}, {"Set-Cookie": cookie})
+
+    def _contact_submit(self):
+        """공개 문의 접수. nginx가 /contact-api/submit → /contact/submit 으로 프록시한다."""
+        ip = self._client_ip()
+        body = self._body()
+        # 허니팟(website)이 채워졌으면 봇 — 성공한 척 응답하고 버린다.
+        if str(body.get("website", "")).strip():
+            return self._json(200, {"ok": True})
+        message = str(body.get("message", "")).strip()
+        if not message:
+            return self._json(400, {"error": "내용을 입력해 주세요."})
+        if len(message) > 2000:
+            return self._json(400, {"error": "내용은 2,000자 이내로 적어 주세요."})
+        if not contact_rate_ok(ip):
+            return self._json(429, {"error": "문의가 너무 잦습니다. 잠시 후 다시 시도해 주세요."})
+        kind = str(body.get("kind", "other"))
+        entry = {
+            "id": hashlib.sha1(f"{ip}{time.time()}{message[:40]}".encode()).hexdigest()[:12],
+            "at": datetime.now(KST).isoformat(timespec="seconds"),
+            "kind": kind if kind in CONTACT_KINDS else "other",
+            "subject": str(body.get("subject", "")).strip()[:200],
+            "message": message,
+            "reply": str(body.get("reply", "")).strip()[:200],
+            "ip": ip,
+            "ua": str(self.headers.get("User-Agent", ""))[:200],
+        }
+        try:
+            save_contact(entry)
+        except OSError as e:
+            return self._json(500, {"error": f"저장 실패: {e}"})
+        return self._json(200, {"ok": True, "id": entry["id"]})
 
     def _trend(self):
         body = self._body()
@@ -468,6 +544,9 @@ class Handler(BaseHTTPRequestHandler):
 
         if route in ("/api/overview", "/api/snapshot"):
             return self._json(200, snapshot())
+        if route == "/api/contact/list":
+            rows = list_contacts()
+            return self._json(200, {"count": len(rows), "kinds": CONTACT_KINDS, "items": rows})
         if route == "/api/config":
             return self._json(200, {
                 "naverApi": bool(NCP_KEY_ID and NCP_KEY),

@@ -99,7 +99,7 @@ for (const f of brandFiles) {
 
 // ── 허브 ──────────────────────────────────────────────────────────────────
 for (const rel of ["index.html", "pages/brands.html", "pages/industry.html",
-  "pages/insights.html", "pages/bici.html", "pages/timeline.html"]) {
+  "pages/insights.html", "pages/bici.html", "pages/timeline.html", "pages/ganada.html"]) {
   const p = path.join(ROOT, rel);
   if (!fs.existsSync(p)) { fail(`허브 없음: ${rel}`); continue; }
   const h = fs.readFileSync(p, "utf8").replace(/<script\b[\s\S]*?<\/script>/gi, " ");

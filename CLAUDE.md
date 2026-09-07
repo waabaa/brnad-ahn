@@ -54,14 +54,46 @@
 
 ---
 
+## 2-b. 아카이브 등급 (2026-09-07)
+
+등급은 저장하지 않고 `scripts/lib/archive.mjs`의 `archiveTier()`가 매번 계산한다.
+
+| 등급 | 조건 | 취급 |
+|---|---|---|
+| `core` | 한글 표기 + 로고 + 본문 800자 이상 | 홈 "주요 브랜드"·허브 상단 타일 |
+| `standard` | 한글 표기 또는 로고 중 하나 이상 | 목록 노출 |
+| `directory` | 한글 표기 없음 **그리고** 로고 없음 | `noindex,follow`, 목록·홈·sitemap·llms 제외, `pages/directory.html`과 카테고리 하단 접힘 목록에서만 링크 |
+
+한글 표기 없는 레코드 749건의 절반이 해외 음반사·지역 소매점 스크랩이었다. 삭제하지 않는 이유는
+URL이 이미 색인·301 그래프에 들어 있어서다. 로고나 한글 표기가 확인되면 자동으로 올라간다.
+
+**외부 이미지는 핫링크하지 않는다.** `scripts/localize-external-assets.mjs`가 로고·대표 이미지·BI/CI를
+`images/logos|photos|bici/`로 내려받는다(namu.wiki는 봇 차단이라 불가 → 로고 없음 처리 후 공식 사이트에서
+재수집). 위키미디어는 호스트별 직렬화·식별 UA가 없으면 429를 돌려준다.
+
+**Wikidata 팩트(`brand.wikidata`)**는 `scripts/enrich-wikidata-facts.mjs`가 entityLinks(QID 확정분)에서만
+P17·P571·P159·P112·P749·P154를 가져온다. `countryOf()`/`foundedYear()`는 definition 근거가 없을 때만 이
+값을 폴백으로 쓴다. 팩트 표(`factRows()`)는 값마다 출처를 남긴다.
+
 ## 3. 빌드·배포
 
 ```bash
-node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin 판정 + 신선도 원장
-node scripts/build-seo-extras.mjs      # 허브·카테고리·국가·sitemap·RSS·robots·llms.txt
+# 데이터 보강(필요 시, 순서 고정)
+node scripts/localize-external-assets.mjs   # 외부 이미지 로컬화
+node scripts/enrich-wikidata-facts.mjs      # Wikidata 팩트 + Commons 로고
+node scripts/fetch-official-logos.mjs       # 공식 사이트에서 로고(로고 없는 브랜드만)
+node scripts/prune-logo-history.mjs         # 파일 없는 BI/CI 항목 제거
+
+# 사이트 빌드(순서 고정)
+node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin/directory 판정 + 신선도 원장
+node scripts/build-seo-extras.mjs      # 허브·홈·가나다·국가·로고월·sitemap·RSS·robots·llms.txt·검색 인덱스
 ```
 
-**순서 고정.** 앞이 `reports/thin-pages.json`(noindex 판정)을 쓰고 뒤가 그걸 읽어
+페이지 골격은 `scripts/lib/page-shell.mjs`(헤더·푸터·`<head>`), 브랜드 본문은 `scripts/lib/brand-render.mjs`,
+타일·이름 목록은 `scripts/lib/markup.mjs`. 허브는 전부 app.js 없이 완결된다. 검색은 `data/search-index.json`
+(슬림, 초성 포함)만 받는다 — 8MB 원본 JSON을 허브에서 fetch하지 않는다.
+
+**순서 고정.** 앞이 `reports/thin-pages.json`(noindex = thin + directory 판정)을 쓰고 뒤가 그걸 읽어
 sitemap에서 제외한다. 순서를 바꾸면 noindex 페이지가 sitemap에 남는다.
 
 두 빌더는 내용이 같으면 파일을 **다시 쓰지 않는다**(`writeIfChanged`). sitemap의
@@ -70,8 +102,8 @@ lastmod가 파일 mtime에서 나오므로, 매번 전량을 덮어쓰면 바뀐
 
 ### 신선도 원장 (`reports/page-dates.json`)
 
-`dateModified`는 이 원장에서 나온다. 빌더가 렌더 본문의 해시를 원장과 비교해 **실제로 바뀐
-페이지만** 오늘 날짜로 갱신한다. 매 빌드 오늘 날짜를 찍으면 sitemap `lastmod`와 마찬가지로
+`dateModified`는 이 원장에서 나온다. 빌더가 렌더 본문 **텍스트**(태그 제거)의 해시를 원장과 비교해
+**실제로 바뀐 페이지만** 오늘 날짜로 갱신한다(마크업·디자인만 바뀐 재빌드는 갱신으로 치지 않는다). 매 빌드 오늘 날짜를 찍으면 sitemap `lastmod`와 마찬가지로
 거짓 신선도 신호가 되고, 크롤러는 그 값을 신뢰하지 않게 된다.
 
 원장이 없으면 배포본(`brand/<slug>.html`)에서 본문만 떼어내 해시해 스스로 복구하므로 유실돼도

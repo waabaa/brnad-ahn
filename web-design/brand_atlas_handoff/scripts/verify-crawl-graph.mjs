@@ -92,7 +92,7 @@ for (const f of reached) {
 
 // 허브별 정적 브랜드 링크 수 — 크롤 경로가 한 페이지에 몰려 있지 않은지 본다.
 const hubs = ["index.html", "pages/brands.html", "pages/industry.html", "pages/insights.html",
-  "pages/bici.html", "pages/timeline.html"];
+  "pages/bici.html", "pages/timeline.html", "pages/ganada.html"];
 const hubLinks = {};
 for (const h of hubs) {
   const rawHtml = readIfExists(path.join(ROOT, h));
