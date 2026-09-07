@@ -26,8 +26,9 @@ export function hasKoreanName(b) {
 export function archiveTier(b) {
   const ko = hasKoreanName(b);
   const logo = hasLogo(b);
+  // publicReady=false(구 파이프라인의 thin 표시)는 쓰지 않는다 — 도이치 그라모폰·컬럼비아 레코드·
+  // 워너 뮤직 그룹처럼 한글 표기와 로고가 다 있는 브랜드 156건을 디렉토리로 떨어뜨렸다(2026-09-07).
   if (!ko && !logo) return "directory";
-  if (b.publicReady === false) return "directory";
   if (ko && logo && bodyTextLength(b) >= 800) return "core";
   return "standard";
 }

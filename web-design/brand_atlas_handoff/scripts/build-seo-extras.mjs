@@ -368,6 +368,14 @@ const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)) && isListed(b
   console.log(`index.html: featured=${featured.name}, popular=${popular.length}, recent=${recent.length}`);
 }
 
+// ─── 10-a) 404 ───────────────────────────────────────────────────────────
+// nginx error_page 404 /404.html (deploy/patch-nginx-404.py). 상태 코드는 404 그대로다.
+{
+  const body = `<div class="page-head"><div class="wrap"><span class="kicker">404</span><h1>페이지를 찾을 수 없습니다</h1><p class="lead">주소가 바뀌었거나 없는 페이지입니다. 브랜드 이름이나 초성으로 검색하거나 색인에서 찾아보세요.</p><form class="hero-search" role="search" action="/pages/search.html" method="get" style="margin-top:18px"><label class="sr-only" for="nf-q">브랜드 검색</label><input id="nf-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ)"><button type="submit">검색</button></form></div></div><div class="wrap section"><div class="chips"><a class="chip" href="/pages/ganada.html">가나다 · ABC 색인</a><a class="chip" href="/pages/industry.html">산업별</a><a class="chip" href="/pages/countries.html">국가별</a><a class="chip" href="/pages/bici.html">로고 아카이브</a><a class="chip" href="/index.html">홈으로</a></div></div>`;
+  // 404는 어떤 깊이의 URL에서도 서빙되므로 절대 경로("/")를 쓴다.
+  writeIfChanged(path.join(ROOT, "404.html"), page({ title: "페이지를 찾을 수 없습니다 | 브랜드 아틀라스", desc: "요청한 페이지가 없습니다.", canonical: `${ORIGIN}/404.html`, bodyHtml: body, active: "", prefix: "/", robots: "noindex,follow" }));
+}
+
 // ─── 10-b) 검색 페이지(템플릿 치환) ──────────────────────────────────────
 {
   const tpl = fs.readFileSync(path.join(__dirname, "templates", "search.html"), "utf8");

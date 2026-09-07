@@ -6108,9 +6108,15 @@
    "tier": "D_directory_only",
    "rating": 3.6,
    "image": "assets/objects/brand_atlas_logo_mark.png",
-   "logo": "",
+   "logo": "images/logos/aeae-cand-1.png",
    "insight": "제품·서비스 범위, 유통 방식, 시각 아이덴티티, 시장 포지션을 함께 비교하면 같은 산업의 다른 브랜드와 차이가 선명해집니다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/aeae-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "body": "에이이에이이는 패션·럭셔리 브랜드입니다."
@@ -71141,9 +71147,15 @@
    "tier": "C_source_backed",
    "rating": 4.3,
    "image": "images/naver/0123_001_og_beb6a23179c907.png",
-   "logo": "",
+   "logo": "images/logos/best-global-brands-cand-5.png",
    "insight": "베스트 글로벌 브랜드는 인터브랜드가 매년 발표하는 대표적 세계 브랜드 가치 순위다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/best-global-brands-cand-5.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "body": "베스트 글로벌 브랜드(Best Global Brands)는 브랜드 컨설팅 기업 인터브랜드가 2000년부터 매년 발표하는 세계 브랜드 가치 순위다. 재무 성과·브랜드 역할·브랜드 강도를 결합해 100대 브랜드의 가치를 평가한다."
@@ -71177,7 +71189,9 @@
      "description": "Interbrand Best Global Brands 2025 at Nasdaq Tower 2."
     }
    ],
-   "officialWebsite": "https://interbrand.com/best-global-brands"
+   "officialWebsite": "https://interbrand.com/best-global-brands",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://cdn.cookielaw.org/logos/c0a325be-6f68-46be-a0de-e4a750890f7d/0195edf3-a9b0-70dc-8788-591905082934/bef03eed-af35-4f7c-978a-d62924872ce7/Newlogo.png"
   },
   {
    "id": 61,
@@ -85484,9 +85498,15 @@
    "tier": "D_directory_only",
    "rating": 3.2,
    "image": "assets/objects/brand_atlas_logo_mark.png",
-   "logo": "",
+   "logo": "images/logos/core-contents-media-cand-1.jpg",
    "insight": "티아라를 배출했으나 멤버 논란으로 사명을 바꾼 한국 연예기획사다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/core-contents-media-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -85520,7 +85540,9 @@
    "publicReady": false,
    "urlSlug": "core-contents-media",
    "country": "한국",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5165/2014/09/15/829913_767360_2811_99_20140915135105.jpg"
   },
   {
    "id": 489,
@@ -94325,9 +94347,15 @@
    "tier": "D_directory_only",
    "rating": 3.2,
    "image": "assets/objects/brand_atlas_logo_mark.png",
-   "logo": "",
+   "logo": "images/logos/trojan-records-cand-2.png",
    "insight": "트로잔 레코드는 스카·록스테디·레게를 영국에 대중화한 대표 레이블이다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/trojan-records-cand-2.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "body": "트로잔 레코드(Trojan Records)는 1968년 영국 런던에서 설립된 레게·스카 음반 레이블이다. 자메이카 음악을 영국에 대중화한 대표 레이블로, 현재 BMG 산하다."
@@ -94375,7 +94403,9 @@
     "founders": [],
     "parent": "생츄어리 레코드",
     "fetchedAt": "2026-09-07"
-   }
+   },
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://images.tmstor.es/trojanrecords/lafQfUItr4LITFeYqbuYV3KPGXxocpLVvyJyk956.png"
   },
   {
    "id": 527,
@@ -101530,9 +101560,15 @@
    "tier": "D_directory_only",
    "rating": 3.6,
    "image": "assets/objects/brand_atlas_logo_mark.png",
-   "logo": "",
+   "logo": "images/logos/aeae-cand-1.png",
    "insight": "동시대 문화를 반영한 자유로운 디자인의 한국 스트리트웨어 브랜드다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/aeae-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -101566,7 +101602,9 @@
    "urlSlug": "aeae",
    "officialWebsite": "https://ae-ae.kr/",
    "country": "한국",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://ae-ae.kr/web/aeae%20new%20symbol.png"
   },
   {
    "id": 687,
@@ -101960,9 +101998,15 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": "assets/objects/brand_atlas_logo_mark.png",
-   "logo": "",
+   "logo": "images/logos/ader-error-cand-1.png",
    "insight": "아더에러는 익명 콜렉티브 운영과 실험적 협업으로 컬트적 팬덤을 구축한 컨템포러리 패션 브랜드다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/ader-error-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -102023,7 +102067,9 @@
     "founders": [],
     "parent": null,
     "fetchedAt": "2026-09-07"
-   }
+   },
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://s3-eu-west-1.amazonaws.com/globale-prod/Images/FIVESPACECOLTD/ADERERROR%20STANDIC%20LOGO_PNG-01%20copy.png"
   },
   {
    "id": 692,
@@ -163933,9 +163979,15 @@
    "tier": "C_source_backed",
    "rating": 4.1,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/kcc-cand-1.png",
    "insight": "도료·소재·실리콘을 아우르는 국내 대표 종합 화학소재 기업이다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/kcc-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -163967,7 +164019,9 @@
    "displayPriority": "normal",
    "officialWebsite": "https://www.kccworld.co.kr/",
    "country": "한국",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://www.kccworld.co.kr/assets/images/ho/common/img_seo_hdesg.png"
   },
   {
    "id": 1312,
@@ -167315,9 +167369,15 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/hanwha-life-cand-3.jpg",
    "insight": "대한민국 최초의 생명보험사 헤리티지를 가진 한화그룹의 핵심 금융 계열사다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/hanwha-life-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -167367,7 +167427,9 @@
     "founders": [],
     "parent": null,
     "fetchedAt": "2026-09-07"
-   }
+   },
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5403/2020/04/20/0000045193_002_20200420102246151.jpg"
   },
   {
    "id": 1352,
@@ -167530,9 +167592,15 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/no-brand-cand-3.jpg",
    "insight": "불필요한 마케팅·포장을 줄여 가격을 낮춘 이마트의 대표 PB다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/no-brand-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -167564,7 +167632,9 @@
    "displayPriority": "normal",
    "officialWebsite": "https://emart.ssg.com/",
    "country": "일본",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5005/2022/07/03/0000686816_001_20220703060202723.jpg"
   },
   {
    "id": 1355,
@@ -172677,9 +172747,15 @@
    "tier": "C_source_backed",
    "rating": 4.1,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/ohlollyday-cand-2.png",
    "insight": "행복을 콘셉트로 한 디자인 라이프스타일 브랜드로, 캐릭터 못난이와 못나니즈 세계관으로 팬덤을 형성했다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/ohlollyday-cand-2.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -172720,7 +172796,9 @@
    "officialWebsite": "https://oh-lolly-day.com",
    "urlSlug": "ohlollyday",
    "country": "한국",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://framerusercontent.com/images/zjNIgV2M00oNWfWgc0wAkKIm0Y.png?width=812&height=812"
   },
   {
    "id": 1413,
@@ -173320,10 +173398,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/caffe-bene-cand-8.svg",
    "logoSearchQuery": "카페베네 caffe bene logo",
    "insight": "짧은 시간에 급성장한 프랜차이즈가 과잉 출점과 재무 레버리지로 인해 축소 국면에 진입하는 패턴을 보여주는 사례로, 확장 속도와 재무 건전성의 균형 문제를 드러낸다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/caffe-bene-cand-8.svg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -173422,9 +173506,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.caffebene.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://i.namu.wiki/i/5GpJq0VAf2XLkTOBRqXOtSdys7odeY-v2zTWEVrg1Gv7QWnBITB0O3eWaAOXESr-aepq-DuxgOraBLoCd3u37A.svg"
   },
   {
    "id": 1419,
@@ -174522,10 +174607,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/sajo-daelim-cand-1.svg",
    "logoSearchQuery": "사조대림 로고 Sajo Daelim logo",
    "insight": "원양·연근해 수산업 기반 기업이 가공식품 제조로 사업 영역을 넓히며 그룹 계열사 재편(인수합병)을 통해 몸집을 키운 산업 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/sajo-daelim-cand-1.svg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -174623,7 +174714,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://i.namu.wiki/i/jwSk2RzqyKHuK7_s8Kl-x6D-bWPZG8R3nUt1G5Lzft2qs7wENPJ1HU-uuVhsTVz0-Cg5z9erY3n_oKZqp2Tibw.svg"
   },
   {
    "id": 1428,
@@ -174896,10 +174988,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/hansae-cand-5.jpg",
    "logoSearchQuery": "한세실업 Hansae 로고 CI",
    "insight": "제조업 중심 OEM 기업이 해외 생산기지 다변화와 대형 유통 바이어와의 장기 계약을 통해 규모의 경제를 확보한 사례로, 브랜드 자산보다 생산·공급망 경쟁력이 성장의 핵심 축이었다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/hansae-cand-5.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -175010,7 +175108,9 @@
    "priorityReason": "해외 생산법인 설립 구체 연도 등 세부 사실 검증 필요",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5381/2021/04/09/0000026068_001_20210415113724963.jpg"
   },
   {
    "id": 1431,
@@ -176211,10 +176311,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/hansalim-cand-4.png",
    "logoSearchQuery": "한살림 로고 CI 생협",
    "insight": "환경·농업 문제 해결을 위한 사상적 운동이 협동조합이라는 사업 형태로 제도화되며 전국 규모의 유통 조직으로 성장한 구조를 보여준다. 이익보다 산지-소비자 관계와 생태적 가치를 우선하는 거버넌스가 장기 지속성의 기반이 됐다는 점이 연구 포인트다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/hansalim-cand-4.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -176311,9 +176417,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.hansalim.or.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5097/2018/08/03/343086_213048_639_20180803141422631.PNG"
   },
   {
    "id": 1441,
@@ -177392,10 +177499,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/gs-the-fresh-cand-1.jpg",
    "logoSearchQuery": "GS더프레시 로고 GS The Fresh logo",
    "insight": "대형마트와 편의점 사이의 유통 공백을 근거리성과 신선식품 구색으로 메운 SSM(기업형 슈퍼마켓) 모델의 대표 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/gs-the-fresh-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -177495,7 +177608,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.gsthefresh.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://ldb-phinf.pstatic.net/20250126_93/17378856487885qI2w_JPEG/1000002369.jpg"
   },
   {
    "id": 1450,
@@ -178750,10 +178865,16 @@
    "tier": "C_source_backed",
    "rating": 4.2,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/lotte-confectionery-cand-3.png",
    "logoSearchQuery": "롯데제과 로고 Lotte Confectionery logo",
    "insight": "특정 제품 출시일(11월 11일)을 소비자 기념일로 마케팅에 활용해 장기 스테디셀러 브랜드로 정착시킨 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/lotte-confectionery-cand-3.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -178875,7 +178996,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5181/2020/06/20/0001788219_001_20200620105806269.png"
   },
   {
    "id": 1460,
@@ -180230,10 +180352,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/st-unitas-cand-2.png",
    "logoSearchQuery": "ST유니타스 로고 공단기",
    "insight": "단일 교육 브랜드가 아니라 시험 종류별 서브 브랜드를 별도로 운영하는 멀티 브랜드 구조가 특징으로, 각 서브 브랜드가 독립적인 시장 지위를 갖도록 설계된 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/st-unitas-cand-2.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -180334,7 +180462,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.stunitas.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://www.stunitas.com/images/common/favicon-32x32.png"
   },
   {
    "id": 1471,
@@ -180355,10 +180485,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/red-pen-cand-3.jpg",
    "logoSearchQuery": "빨간펜 교원 로고",
    "insight": "학습지라는 표준화된 콘텐츠에 '첨삭'이라는 개인화 서비스를 결합한 사례로, 서비스명이 곧 핵심 행위(빨간펜 첨삭)를 지칭하는 브랜드 네이밍 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/red-pen-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -180454,7 +180590,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5721/2024/12/26/0000120210_002_20241226121817118.jpg"
   },
   {
    "id": 1472,
@@ -181425,10 +181562,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/milk-t-cand-2.jpg",
    "logoSearchQuery": "밀크T 로고 milkt",
    "insight": "출판 기업이 축적한 콘텐츠 자산을 디지털 학습기기 서비스로 전환한 사례로, 하드웨어(태블릿)와 소프트웨어(AI 분석)를 결합한 학습지 대체 모델을 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/milk-t-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -181502,9 +181645,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.milkt.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://cdn.iconsumer.or.kr/news/photo/202204/23983_28074_323.jpg"
   },
   {
    "id": 1481,
@@ -181863,10 +182007,16 @@
    "tier": "C_source_backed",
    "rating": 3.8,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/study-max-cand-2.jpg",
    "logoSearchQuery": "스터디맥스 로고",
    "insight": "특정 시험(토익) 대비 강의라는 좁은 카테고리에서 온라인 스트리밍이라는 유통 방식 혁신을 시도한 사례로 볼 수 있다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/study-max-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -181938,7 +182088,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_1282cc10309179.jpeg"
   },
   {
    "id": 1485,
@@ -182346,10 +182497,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/anheung-jjinppang-cand-1.jpg",
    "logoSearchQuery": "안흥찐빵 간판 로고",
    "insight": "특정 기업의 창업이 아니라 지역 특산물이 자생적으로 브랜드화된 사례로, 지명 자체가 품질 보증 표시처럼 기능하는 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/anheung-jjinppang-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -182444,7 +182601,9 @@
    "priorityReason": "단일 법인이 아닌 지역 점포 집합체 특성상 개별 사실 확인이 제한적이다.",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/087/2016/01/15/216011400105_99_20160115003400.jpg"
   },
   {
    "id": 1489,
@@ -182465,10 +182624,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/jaws-tteokbokki-cand-1.gif",
    "logoSearchQuery": "죠스떡볶이 로고",
    "insight": "노점 중심의 비정형 분식 시장을 표준화된 매장 프랜차이즈로 전환한 초기 사례로, 이후 유사 분식 프랜차이즈들의 참조점이 되었다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/jaws-tteokbokki-cand-1.gif",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -182567,7 +182732,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://image.reportshop.co.kr/newprimg/764/763654-0001.gif"
   },
   {
    "id": 1490,
@@ -182588,10 +182754,21 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/won-halmoni-bossam-cand-8.jpg",
    "logoSearchQuery": "원할머니보쌈 로고",
    "insight": "가정식 레시피가 입소문을 통해 점차 프랜차이즈로 성장하는 한국 외식업의 전형적인 경로를 보여주는 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/won-halmoni-bossam-cand-8.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    },
+    {
+     "src": "images/logos/won-halmoni-bossam-cand-5.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -182687,7 +182864,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://yt3.googleusercontent.com/Cbasu4UYWPYj2TLv0GNh7qigVhnv0gmP5CZqNOp-QtiZaBojBtQ-Um14d8p3KM6NkU_jBbS9IQw=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": 1491,
@@ -182708,10 +182886,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/hong-rui-zhen-cand-1.jpg",
    "logoSearchQuery": "홍루이젠 로고",
    "insight": "해외 길거리 음식을 한국 소비자 취향에 맞게 현지화해 새로운 간편식 카테고리로 자리잡게 한 사례를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/hong-rui-zhen-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -182810,7 +182994,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/421/2022/01/11/0005836941_001_20220111105103191.jpg"
   },
   {
    "id": 1492,
@@ -183488,10 +183673,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/myungrang-hotdog-cand-2.jpg",
    "logoSearchQuery": "명랑핫도그 로고",
    "insight": "저가·소형 매장 포맷의 길거리 간식이 짧은 기간 내 다수 유사 브랜드를 낳으며 카테고리 전체가 유행처럼 확산·소멸하는 국내 프랜차이즈 시장의 전형적 패턴을 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/myungrang-hotdog-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -183590,7 +183781,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://cdn-dantats.stunning.kr/prod/portfolios/f2571444-cc4e-45cf-adf6-a189b83ca4d6/covers/order_sub_2507342_1_200710225606.jpg"
   },
   {
    "id": 1498,
@@ -183870,10 +184062,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/bonggu-s-bapburger-cand-1.jpg",
    "logoSearchQuery": "봉구스밥버거 로고",
    "insight": "서구식 패스트푸드 포맷(빵+패티)의 핵심 재료를 한국인에게 익숙한 밥으로 치환해 새로운 로컬 카테고리를 만든 사례로, 저비용 창업 구조가 확산 속도를 높였다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/bonggu-s-bapburger-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -183972,7 +184170,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/056/2018/10/03/0010625678_001_20181003223620690.jpg"
   },
   {
    "id": 1501,
@@ -183993,10 +184192,16 @@
    "tier": "C_source_backed",
    "rating": 3.8,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/bokeumjari-cand-1.jpg",
    "logoSearchQuery": "복음자리 잼 로고",
    "insight": "종교 공동체의 사회적 목적과 제조업 노하우가 결합해, 이윤 극대화가 아닌 지역 자립 지원을 목표로 삼은 사업이 장기간 시장에서 지속된 사례로 볼 수 있다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/bokeumjari-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -184093,7 +184298,9 @@
    "priorityReason": "설립 주체·정확한 연혁에 대한 공개 정보가 제한적이며 사실관계 재확인 필요",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://yt3.googleusercontent.com/u8JXd-KuODZqM5y_2Mgk6awNqlidr2nmX-1vZqBSVqre0NFGl234ENEWN8i08DZuazUfbnY8DA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
    "id": 1502,
@@ -184245,10 +184452,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/keumbokju-cand-6.jpg",
    "logoSearchQuery": "금복주 소주 로고",
    "insight": "특정 지역에서 오랜 기간 압도적 점유율을 유지하는 소주 제조사가 전국 브랜드 확산 압력에도 로컬 정체성을 지속시키는 국내 주류 산업의 지역 과점 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/keumbokju-cand-6.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -184346,7 +184559,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://teamblindstatics.s3.ap-northeast-1.amazonaws.com/img/companyPage/logo_601eec55874747.jpeg"
   },
   {
    "id": 1504,
@@ -184747,10 +184961,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/alpha-cand-1.gif",
    "logoSearchQuery": "알파문구 alpha stationery 로고",
    "insight": "파편화된 영세 소매업(동네 문방구)을 체인 유통 모델로 재편한 산업 재구조화 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/alpha-cand-1.gif",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -184849,9 +185069,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.alpha.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://www.alpha.co.kr/image/2026main/logo05.gif"
   },
   {
    "id": 1508,
@@ -184872,10 +185093,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/morning-glory-cand-2.jpg",
    "logoSearchQuery": "모닝글로리 morning glory stationery 로고",
    "insight": "실용재였던 문구를 캐릭터·디자인 기반 감성 소비재로 전환시켜 새로운 소비층(학생·청소년)을 문구 시장의 핵심 고객으로 만든 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/morning-glory-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -184974,9 +185201,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.morningglory.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/022/2025/08/22/20250822509916_20250822151614093.jpg"
   },
   {
    "id": 1509,
@@ -186627,10 +186855,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/trekstar-cand-1.png",
    "logoSearchQuery": "트렉스타 Trekstar 로고",
    "insight": "제조 기술 특화로 시작한 브랜드가 기술 자산을 발판으로 카테고리를 확장하는 경로를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/trekstar-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -186727,7 +186961,9 @@
    "priorityReason": "수출 규모·특정 연도 이벤트에 대한 구체 사실 검증 필요",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://play-lh.googleusercontent.com/Ktk8BsC6nXVfhSkKKHOw1pf6msLYpvIkHUoJP7gUosb9XtR6kUDQ_ZWiA1GJUHEQq_BkMw3yjqhzL629tsS8Ww"
   },
   {
    "id": 1523,
@@ -187783,10 +188019,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/ably-cand-3.jpg",
    "logoSearchQuery": "에이블리 ABLY 로고 브랜드",
    "insight": "여성 패션이라는 세분 시장에서 개인화 추천 기술을 핵심 무기로 삼아, 자체 재고보다 매칭 알고리즘과 셀러 생태계에 투자를 집중한 플랫폼형 성장 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/ably-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -187885,7 +188127,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://a-bly.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/421/2023/03/23/0006700921_001_20230323092205002.jpg"
   },
   {
    "id": 1532,
@@ -188032,10 +188276,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/gangnam-unni-cand-4.png",
    "logoSearchQuery": "강남언니 힐링페이퍼 로고",
    "insight": "은밀하게 소비되던 의료 서비스 정보를 사용자 후기 기반으로 공개화해, 정보 비대칭이 컸던 시장에 비교·탐색 기능을 도입한 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/gangnam-unni-cand-4.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -188133,8 +188383,8 @@
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.gangnamunni.com",
    "officialWebsiteSource": "curated-2026-09",
-   "logoSourceTier": "rejected-2026-09",
-   "logoRejected": "https://www.gangnamunni.com/images/kr/og-rebrand-logo.png"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://www.gangnamunni.com/images/icon/apple-icon-180x180.png"
   },
   {
    "id": 1534,
@@ -188281,10 +188531,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/wemakeprice-cand-3.jpg",
    "logoSearchQuery": "위메프 wemakeprice 로고",
    "insight": "초기 시장 개척자로서 확보한 트래픽과 브랜드력이 이후 지속된 적자와 유동성 위기를 상쇄하지 못했고, 판매자 정산 구조의 취약성이 플랫폼 신뢰 붕괴로 직결된 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/wemakeprice-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -188397,9 +188653,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://front.wemakeprice.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5374/2019/07/03/20190703171525_53573_20190703185838277.jpg"
   },
   {
    "id": 1536,
@@ -190021,10 +190278,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/iconix-entertainment-cand-3.png",
    "logoSearchQuery": "아이코닉스 ICONIX 로고 CI",
    "insight": "단일 애니메이션 캐릭터가 방송 콘텐츠에서 시작해 완구·문구·출판·테마파크 등 다수 산업으로 라이선싱되며 국가 단위 IP 자산으로 성장한 구조를 보여준다. 콘텐츠 제작사가 방영권보다 캐릭터 라이선싱 수익 구조로 무게중심을 옮긴 사례로 연구할 가치가 있다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/iconix-entertainment-cand-3.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -190135,7 +190398,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.iconix.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://iconix.co.kr/images/sns_link.png"
   },
   {
    "id": 1549,
@@ -192593,10 +192858,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/ganghwa-seom-ssal-cand-1.jpg",
    "logoSearchQuery": "강화섬쌀 로고 인천 강화군 지역 특산 쌀",
    "insight": "지명 자체가 상품 브랜드가 된 사례로, 개별 농가가 아니라 지역 농협이라는 협동조합 조직이 브랜드 관리 주체 역할을 한다는 점에서 일반적인 기업형 브랜드와 소유·관리 구조가 다르다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/ganghwa-seom-ssal-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -192694,7 +192965,9 @@
    "priorityReason": "단일 기업이 아닌 지역 공동 브랜드로, 확인 가능한 구체적 연혁 자료가 매우 제한적",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://shop-phinf.pstatic.net/20211114_64/1636839025223hdeAu_JPEG/100084_8.jpg"
   },
   {
    "id": 1569,
@@ -192715,10 +192988,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/hoengseong-hanwoo-cooperative-cand-4.jpg",
    "logoSearchQuery": "횡성한우 로고 강원 횡성군 한우협동조합",
    "insight": "개별 축산 농가가 협동조합이라는 조직 형태를 통해 공동 브랜드를 형성한 사례로, 브랜드 자산이 특정 기업이 아닌 조합원 집단에 귀속된다는 점이 특징이다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/hoengseong-hanwoo-cooperative-cand-4.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -192803,7 +193082,9 @@
    "priorityReason": "협동조합 형태의 지역 공동 브랜드로 구체적 연혁 자료가 제한적",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/032/2008/12/09/20081209.01100199351351.01M.jpg"
   },
   {
    "id": 1570,
@@ -193092,10 +193373,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/boseong-green-tea-cand-6.jpg",
    "logoSearchQuery": "보성녹차 로고 전남 보성 다원 브랜드",
    "insight": "농업 생산지가 관광 자원으로 함께 발전한 사례로, 상품 브랜드와 지역 관광 브랜드가 서로를 강화하는 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/boseong-green-tea-cand-6.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -193193,7 +193480,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5379/2025/05/27/27_771863-64_20250527134617153.jpg"
   },
   {
    "id": 1573,
@@ -194073,10 +194361,16 @@
    "tier": "C_source_backed",
    "rating": 3.8,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/bite-me-cand-2.jpg",
    "logoSearchQuery": "바잇미 반려동물 브랜드 로고",
    "insight": "반려동물을 가족 구성원이자 패션의 대상으로 보는 소비 트렌드를 포착해 전문 브랜드로 자리잡으려 한 것으로 추정된다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/bite-me-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -194173,7 +194467,9 @@
    "priorityReason": "브랜드 존재와 대략적 포지셔닝은 파악되나 창업자·투자·구체 연혁 등 핵심 사실 확인이 필요해 추가 리서치 우선순위가 있다.",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://phinf.pstatic.net/dthumb/?src=%22http%3A%2F%2Fshop1.phinf.naver.net%2F20220706_142%2F1657074457950zDdp1_JPEG%2F58210241652436459_1481571427.jpg%22&service=selective&type=w600_q90"
   },
   {
    "id": 1581,
@@ -194323,10 +194619,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/kakao-friends-cand-5.png",
    "logoSearchQuery": "카카오프렌즈 로고 라이언",
    "insight": "국내 메신저 서비스의 이모티콘 캐릭터가 별도 브랜드로 독립해 오프라인 리테일 사업으로 확장되는 패턴을 보여주며, 라인프렌즈와 유사한 구조적 경로를 국내 메신저 시장에서 밟았다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/kakao-friends-cand-5.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -194424,9 +194726,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.kakaofriends.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5404/2018/07/18/0000013960_001_20180718131509203.png"
   },
   {
    "id": 1583,
@@ -194447,10 +194750,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/pororo-park-cand-1.jpg",
    "logoSearchQuery": "뽀로로파크 로고 Pororo Park",
    "insight": "TV 애니메이션 캐릭터 IP가 오프라인 체험 공간 사업으로 확장되는 경로를 보여주는 사례로, 콘텐츠 IP의 라이선싱 모델이 공간 비즈니스로 이어지는 구조를 관찰할 수 있다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/pororo-park-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -194550,7 +194859,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.pororopark.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://i.pinimg.com/736x/f8/d0/1c/f8d01c4dcf542d2b0cb79a98304cf9e5.jpg"
   },
   {
    "id": 1584,
@@ -194571,10 +194882,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/agabang-and-company-cand-1.jpg",
    "logoSearchQuery": "아가방앤컴퍼니 로고 Agabang",
    "insight": "산업화 시대에 창업한 제조 기반 유아복 기업이 이후 대기업 계열로 편입되며 지배구조를 재편한 사례로, 전통 브랜드의 소유권 이전 패턴을 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/agabang-and-company-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -194673,7 +194990,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.agabang.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5781/2021/08/10/0000008392_002_20210810171851186.jpg"
   },
   {
    "id": 1585,
@@ -195482,10 +195801,16 @@
    "tier": "C_source_backed",
    "rating": 3.8,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/gangnam-peter-hospital-cand-4.webp",
    "logoSearchQuery": "강남베드로병원 로고",
    "insight": "의료 서비스도 특정 진료 영역에 집중한 전문 브랜드화를 통해 일반 병원과 차별화될 수 있음을 보여주는 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/gangnam-peter-hospital-cand-4.webp",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -195570,7 +195895,9 @@
    "priorityReason": "공개된 구체적 사실관계가 적어 전반적으로 신뢰도가 낮음",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://i.namu.wiki/i/0P7eOFXo4ShsRgVb9dG2ObitiW6geanmK15eILN2-gQe8z61oOyWPayqu38H7czaspsF1hDdNejgUgv7b6DLVg.webp"
   },
   {
    "id": 1592,
@@ -195838,10 +196165,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/mega-md-cand-1.png",
    "logoSearchQuery": "메가엠디 로고 Mega MD logo",
    "insight": "일반 입시 시장 안에서도 의학계열이라는 특정 전공군을 세분화해 전문 학원 브랜드로 만든 사례로, 한국의 학벌·전공 선호가 교육 산업의 세분화를 이끄는 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/mega-md-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -195924,9 +196257,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.megamd.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://img.megamd.co.kr/2026/0807_main/logo.png"
   },
   {
    "id": 1595,
@@ -196081,10 +196415,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/e-pyeonhansesang-cand-1.jpg",
    "logoSearchQuery": "이편한세상 e편한세상 로고 DL이앤씨 아파트",
    "insight": "브랜드명에 소비자 편익(편리함)을 직접적으로 담은 네이밍 전략은, 아파트 브랜드가 기술력이나 규모보다 감성적 약속을 앞세우기 시작한 시기를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/e-pyeonhansesang-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -196172,7 +196512,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/050/2016/06/21/6aa708a7ed708619679e3793d1099b6d_99_20160621170911.jpg"
   },
   {
    "id": 1597,
@@ -196193,10 +196534,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/raemian-cand-1.png",
    "logoSearchQuery": "래미안 Raemian 삼성물산 로고",
    "insight": "그룹 전체의 브랜드 신뢰도를 개별 사업 영역(주거)으로 확장하는 전략은, 대기업 계열사가 신규 소비재 시장에 진입할 때 활용하는 대표적인 브랜드 확장 방식이다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/raemian-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -196284,9 +196631,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.raemian.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://www.raemian.co.kr/assets/front/inc/images/layout/logo_h.png"
   },
   {
    "id": 1598,
@@ -196697,10 +197045,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/oasis-market-cand-1.png",
    "logoSearchQuery": "오아시스마켓 로고 Oasis Market logo",
    "insight": "신선식품 유통에서 오프라인 매장과 온라인 새벽배송을 병행하며 손익 관리에 집중하는 방식으로 다른 새벽배송 업체와 차별화했다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/oasis-market-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -196811,10 +197165,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "rejected-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.oasis.co.kr",
    "officialWebsiteSource": "curated-2026-09",
-   "logoRejected": "https://oasisprodcom.edge.naverncp.com/pc/img/img_babyFood_logo.gif"
+   "logoSource": "https://oasisprodevent.edge.naverncp.com/oasis_shop/pc/common/logo_header_oasis.png"
   },
   {
    "id": 1602,
@@ -197918,10 +198272,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/korea-post-insurance-cand-6.jpg",
    "logoSearchQuery": "우체국보험 로고 CI",
    "insight": "민간 보험사가 아닌 국가 기관이 전국 우체국 창구를 통해 보험 상품을 직접 판매하는 구조로, 민간 금융 인프라가 부족한 지역까지 보험 접근성을 확보한 공공 금융 모델의 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/korea-post-insurance-cand-6.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -198019,9 +198379,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.epostbank.go.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://yt3.ggpht.com/a-/AAuE7mBPJUOJkgIKJEr_MWJrE8l_RlRCe5Lji5cItg=s900-mo-c-c0xffffffff-rj-k-no"
   },
   {
    "id": 1612,
@@ -198650,10 +199011,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/art-chosun-cand-2.jpg",
    "logoSearchQuery": "아트조선 Art Chosun 로고",
    "insight": "언론사가 보유한 콘텐츠·네트워크 자산을 활용해 매체에서 유통·이벤트 사업으로 확장한 사례로, 미디어 브랜드가 산업 플레이어로 전환하는 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/art-chosun-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -198748,7 +199115,9 @@
    "priorityReason": "세부 연혁 정보가 제한적이며 확인 가능한 공개 자료가 적음",
    "publicReady": true,
    "displayPriority": "normal",
-   "sourceBatch": "300-brands-pipeline-2026"
+   "sourceBatch": "300-brands-pipeline-2026",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://clogo.saramin.co.kr/company/logo/202211/01/rknkii_h563-1klobks_logo.jpg"
   },
   {
    "id": 1618,
@@ -198769,10 +199138,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/jeju-museum-of-art-cand-2.jpg",
    "logoSearchQuery": "제주도립미술관 로고 Jeju Museum of Art",
    "insight": "지방자치단체가 문화 인프라를 직접 조성해 관광·지역민 문화 접근성을 동시에 해결하려 한 공공 주도형 미술관 모델의 사례다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/jeju-museum-of-art-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -198869,7 +199244,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.jeju.go.kr/jejumuseum/",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/5090/2017/03/21/0001430030_001_20170321080326523.jpg"
   },
   {
    "id": 1619,
@@ -199242,10 +199619,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/inktec-cand-1.jpg",
    "logoSearchQuery": "잉크테크 InkTec 로고",
    "insight": "범용 소모품(프린터 잉크) 제조 기술을 고부가가치 산업 소재(전도성 잉크)로 전환한 사례로, 성숙 시장의 기초 기술이 신산업 소재 기업으로 진화하는 경로를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/inktec-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -199342,7 +199725,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.inktec.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://d2u3dcdbebyaiu.cloudfront.net/img/companyPage_kr/logo_10350.jpg"
   },
   {
    "id": 1623,
@@ -199490,10 +199875,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/charmzone-cand-1.png",
    "logoSearchQuery": "참존 Charmzone 화장품 로고",
    "insight": "대형 유통망 없이도 인적 판매 조직을 핵심 자산으로 삼아 장기간 시장 지위를 유지한 사례로, 유통 채널 선택 자체가 브랜드 전략이 된 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/charmzone-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -199594,8 +199985,8 @@
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.charmzone.co.kr",
    "officialWebsiteSource": "curated-2026-09",
-   "logoSourceTier": "rejected-2026-09",
-   "logoRejected": "https://gi.esmplus.com/rhymezone/MAKESHOP/DESIGN/logo/logo_pc.jpg"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "https://play-lh.googleusercontent.com/xbDTEoCtWOFto-921rOqX5hUpOdXJAl62DUcnTsfy1Ewh84AojARZRNZCC0yG_qPww"
   },
   {
    "id": 1625,
@@ -199616,10 +200007,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/somang-cosmetics-cand-1.jpg",
    "logoSearchQuery": "소망화장품 꽃을든남자 로고",
    "insight": "여성 중심으로 형성된 화장품 시장에서 성별 세분화를 통해 새로운 소비자층(남성)을 발굴한 사례로, 카테고리 개척이 후발 제조사의 차별화 전략이 될 수 있음을 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/somang-cosmetics-cand-1.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -199719,7 +200116,8 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only"
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/277/2015/07/23/2015072311191430615_1_99_20150723112112.jpg"
   },
   {
    "id": 1626,
@@ -199975,10 +200373,21 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": "",
-   "logo": "",
+   "logo": "images/logos/cj-wellcare-cand-3.jpg",
    "logoSearchQuery": "CJ웰케어 로고 CJ Wellcare logo",
    "insight": "식품 대기업의 발효·미생물 기술 자산을 건기식 전문 자회사로 재편해 시장 대응 속도를 높인 것이 특징이다. 계열사 분사를 통한 사업 전문화 전략을 취했다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/cj-wellcare-cand-3.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    },
+    {
+     "src": "images/logos/cj-wellcare-cand-2.jpg",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -200078,7 +200487,9 @@
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
    "officialWebsite": "https://www.cjwellcare.com",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSourceTier": "visual-review-2026-09",
+   "logoSource": "http://imgnews.naver.net/image/008/2021/11/23/0004673966_001_20211124041616974.jpg"
   },
   {
    "id": 1629,
@@ -200099,10 +200510,16 @@
    "tier": "C_source_backed",
    "rating": 4,
    "image": null,
-   "logo": null,
+   "logo": "images/logos/daehan-flour-mills-gompyo-cand-1.png",
    "logoSearchQuery": "곰표 대한제분 로고 곰 캐릭터",
    "insight": "제조업 중심의 전통 B2C 브랜드가 본업 제품이 아닌 로고·캐릭터 자산을 통해 뉴트로 트렌드의 중심에 서게 된 사례다. 레거시 브랜드가 컬래버레이션을 매개로 세대를 넘나드는 브랜드 인지도를 재획득하는 구조를 보여준다.",
-   "logoHistory": [],
+   "logoHistory": [
+    {
+     "src": "images/logos/daehan-flour-mills-gompyo-cand-1.png",
+     "label": "대표 로고",
+     "note": "현재 사용 중인 마크"
+    }
+   ],
    "sections": {
     "overview": {
      "title": "개요",
@@ -200199,9 +200616,10 @@
    "publicReady": true,
    "displayPriority": "normal",
    "sourceBatch": "300-brands-pipeline-2026",
-   "logoSourceTier": "unofficial-research-only",
+   "logoSourceTier": "visual-review-2026-09",
    "officialWebsite": "https://www.dhflour.co.kr",
-   "officialWebsiteSource": "curated-2026-09"
+   "officialWebsiteSource": "curated-2026-09",
+   "logoSource": "https://imagedelivery.net/RyLR_iTjWFphq6Vt_p0vIg/71eb9fdb-6a4f-407c-0f72-c1708c07fe00/public"
   }
  ],
  "koreanSources": [
