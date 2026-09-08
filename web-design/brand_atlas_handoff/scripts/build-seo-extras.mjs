@@ -11,8 +11,9 @@
 //   data/search-index.json 슬림 검색 인덱스(초성 포함)
 //   sitemap*.xml rss.xml robots.txt llms.txt
 //
-// 디렉토리 등급(한글 표기·로고 모두 없음)은 목록·홈·sitemap·llms에서 제외하고
-// pages/directory.html 과 카테고리 하단 접힘 목록에서만 링크한다(도달성 유지, noindex).
+// 디렉토리 등급(한글 표기·로고 모두 없음)은 목록·홈·llms에서 제외하고 pages/directory.html
+// 과 카테고리 하단 접힘 목록에서만 링크한다. 색인 여부는 등급이 아니라 본문 분량으로
+// 가른다(archive.mjs isNoindex) — 본문이 충실한 항목은 sitemap에 남는다.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -202,7 +203,7 @@ const indexNav = (current = "", prefix = P) => `<nav class="index-nav" aria-labe
 
   const durl = `${ORIGIN}/pages/directory.html`;
   const dsections = industryGroups.filter(([, g]) => g.directory.length).map(([slug, g]) => `<section class="group"><h2><a href="${P}category/${slug}.html">${esc(g.label)}</a> <small>${g.directory.length}개</small></h2>${nameList([...g.directory].sort(byName))}</section>`).join("");
-  const dbody = `${hubHead("디렉토리", `디렉토리 등급 항목 <span class="en count">${DIRECTORY.length}</span>`, esc("한글 표기와 로고가 아직 확인되지 않은 항목입니다. 수록 자료를 그대로 옮긴 페이지이며 검색 색인에서는 제외됩니다. 한글 표기나 로고가 확인되면 자동으로 본 목록으로 올라갑니다."), crumbsHub("디렉토리"))}<div class="wrap">${dsections}</div>`;
+  const dbody = `${hubHead("디렉토리", `디렉토리 등급 항목 <span class="en count">${DIRECTORY.length}</span>`, esc("한글 표기와 로고가 아직 확인되지 않은 항목입니다. 수록 자료를 그대로 옮긴 페이지이며 목록과 홈에는 올리지 않습니다. 본문이 얇은 항목은 검색 색인에서도 제외됩니다. 한글 표기나 로고가 확인되면 자동으로 본 목록으로 올라갑니다."), crumbsHub("디렉토리"))}<div class="wrap">${dsections}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "directory.html"), page({ title: `디렉토리 등급 항목 ${DIRECTORY.length}개 | 브랜드 아틀라스`, desc: "한글 표기·로고가 미확인인 수록 항목 목록.", canonical: durl, bodyHtml: dbody, active: "ganada", robots: "noindex,follow" }));
   console.log(`pages/brands.html: ${listedTotal} / pages/directory.html: ${DIRECTORY.length}`);
 }
@@ -263,7 +264,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
   const entries = withInsight.map(b => `<a class="recent" style="display:flex" href="${brandHref(b)}">${hasLogo(b) ? `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(String(b.insight).replace(/\s+/g, " ").slice(0, 140))}</small></span></a>`).join("");
   const title = `브랜드 인사이트 — ${withInsight.length}개 브랜드의 관점 | 브랜드 아틀라스`;
   const desc = `브랜드마다 한 줄로 정리한 관점(인사이트) ${withInsight.length}개. 각 브랜드가 시장에서 어떤 위치와 태도를 취하는지 요약합니다.`;
-  const body = `${hubHead("인사이트", `브랜드 인사이트 <span class="en count">${withInsight.length}</span>`, esc("각 브랜드 페이지의 '어떻게 봐야 할까' 절을 한 줄로 요약한 관점 모음입니다. 항목을 누르면 브랜드 상세로 이동합니다."), crumbsHub("인사이트"))}<div class="wrap section"><div class="recent" style="grid-template-columns:repeat(auto-fill,minmax(360px,1fr))">${entries}</div></div>`;
+  const body = `${hubHead("인사이트", `브랜드 인사이트 <span class="en count">${withInsight.length}</span>`, esc("각 브랜드 페이지의 '어떻게 봐야 할까' 절을 한 줄로 요약한 관점 모음입니다. 항목을 누르면 브랜드 상세로 이동합니다."), crumbsHub("인사이트"))}<div class="wrap section"><div class="recent" style="grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr))">${entries}</div></div>`;
   writeIfChanged(path.join(ROOT, "pages", "insights.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "insights", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "인사이트", url }] }) }));
   console.log(`pages/insights.html: ${withInsight.length} entries`);
 }
@@ -282,7 +283,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
 <ul><li><b>없는 표기를 만들지 않습니다.</b> 브랜드명은 한글과 원어를 함께 적되, 확인된 한글 표기가 없는 브랜드는 원어만 씁니다. 임의로 음차하지 않습니다.</li>
 <li><b>검증된 사실만 표에 넣습니다.</b> 기원 국가와 설립연도는 검수된 브랜드 설명에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 정확히 일치하는 위키데이터 개체의 값을 씁니다. 현재 소유주의 국적이나 모기업의 창업연도는 기원 정보로 쓰지 않습니다. 빈 칸은 채우지 않습니다.</li>
 <li><b>개체 연결은 URL 일치로만 합니다.</b> 위키데이터·위키백과 링크(sameAs)는 공식 웹사이트가 완전히 일치하는 ${stats.entity}개 브랜드에만 붙어 있습니다. 이름이 비슷하다는 이유로 연결하지 않습니다.</li>
-<li><b>등급을 나눕니다.</b> 한글 표기와 로고가 모두 확인되지 않은 항목은 디렉토리 등급으로 분류해 목록과 검색 색인에서 분리합니다. 자료가 보강되면 자동으로 본 목록에 올라갑니다.</li>
+<li><b>등급을 나눕니다.</b> 한글 표기와 로고가 모두 확인되지 않은 항목은 디렉토리 등급으로 분류해 목록과 홈에서 분리합니다. 그 가운데 본문이 얇은 항목은 검색 색인에서도 제외합니다. 자료가 보강되면 자동으로 본 목록에 올라갑니다.</li>
 <li><b>갱신일은 실제 변경이 있을 때만 바꿉니다.</b> 본문이 바뀐 페이지만 '최종 업데이트'가 갱신됩니다.</li></ul>
 <h2>로고와 상표에 대해</h2><p>로고·상표의 권리는 각 브랜드 소유자에게 있습니다. 브랜드 아틀라스는 브랜드를 식별하고 그 역사를 설명하기 위한 자료로 로고를 싣습니다. 권리자가 삭제나 수정을 원하면 <a href="${P}pages/contact.html">문의</a>로 알려 주시면 확인 후 처리합니다.</p>
 <h2>운영</h2><p>브랜드성장연구소 아키타이포스가 기획·편집·운영합니다. 데이터 보강과 페이지 생성은 자동화되어 있으며, 사실 검증 기준은 위 편집 원칙을 따릅니다. 사이트 이용 통계는 Google Analytics로 집계하며 자세한 내용은 <a href="${P}pages/privacy.html">개인정보 처리방침</a>에 있습니다.</p>
@@ -334,7 +335,9 @@ const thinReport = (() => {
   if (!fs.existsSync(p)) { console.warn("  ! reports/thin-pages.json 없음 — build-brand-pages.mjs를 먼저 실행하세요."); return new Set(); }
   return new Set(JSON.parse(fs.readFileSync(p, "utf8")).slugs || []);
 })();
-const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)) && isListed(b));
+// thin-pages.json의 slugs가 noindex 전건이다(렌더 thin + 본문 얇은 디렉토리 등급).
+// 등급으로 한 번 더 거르지 않는다 — 디렉토리 등급이어도 본문이 충실하면 색인 대상이다.
+const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
 
 {
   const H = "";
@@ -449,7 +452,9 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
 
 // ─── 13) RSS ─────────────────────────────────────────────────────────────
 {
-  const ranked = indexable.map(b => ({ b, d: pageDateLedger[urlSlugOf(b)]?.modified || mtime(`brand/${urlSlugOf(b)}.html`) })).sort((x, y) => y.d.localeCompare(x.d) || byScore(x.b, y.b)).slice(0, 100);
+  // RSS는 '최근 갱신된 브랜드' 채널이므로 목록 노출 대상만 싣는다 — 디렉토리 등급은
+  // 색인 대상이어도 목록·홈에 올리지 않는다는 정책과 같은 기준이다.
+  const ranked = indexable.filter(isListed).map(b => ({ b, d: pageDateLedger[urlSlugOf(b)]?.modified || mtime(`brand/${urlSlugOf(b)}.html`) })).sort((x, y) => y.d.localeCompare(x.d) || byScore(x.b, y.b)).slice(0, 100);
   const items = ranked.map(({ b, d }) => {
     const link = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`;
     const text = String(b.definition || b.summary || b.insight || "").slice(0, 280);
@@ -473,7 +478,7 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
   const lines = [
     "# 브랜드 아틀라스 (Brand Atlas)",
     "> 브랜드의 설립 배경, 브랜드 아이덴티티, 로고(BI/CI) 변천, 제품과 서비스, 현재 상태를 정리한 한국어 브랜드 사전입니다.",
-    `> 수록 브랜드 ${listedTotal}개(디렉토리 등급 ${DIRECTORY.length}개 별도), 색인 대상 ${indexable.length}개, 로고 이미지 ${LISTED.filter(hasLogo).length}개. 운영 브랜드성장연구소 아키타이포스.`,
+    `> 수록 브랜드 ${BRANDS.length}개(목록 노출 ${listedTotal}개 + 디렉토리 등급 ${DIRECTORY.length}개), 색인 대상 ${indexable.length}개, 로고 이미지 ${LISTED.filter(hasLogo).length}개. 운영 브랜드성장연구소 아키타이포스.`,
     "",
     "## 데이터 원칙",
     "- 브랜드명은 한글과 원어를 함께 표기합니다. 데이터에 없는 표기는 만들지 않습니다.",

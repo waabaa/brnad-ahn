@@ -34,6 +34,11 @@ export function archiveTier(b) {
 }
 
 export const isDirectory = (b) => archiveTier(b) === "directory";
+
+// 색인 제외는 등급이 아니라 본문 분량으로 가른다. 디렉토리 등급은 목록·홈·llms에서 빼는
+// 기준이고, 그 안에서도 읽을 내용이 있는 페이지는 색인·sitemap에 남긴다(2026-09-08).
+// 등급만으로 noindex를 걸면 이미 색인·301 그래프에 들어간 URL이 교체되지 못한 채 남는다.
+export const isNoindex = (b) => isDirectory(b) && bodyTextLength(b) < 800;
 export const isListed = (b) => !isDirectory(b);
 
 /** 목록 정렬 점수 — 로고·한글·본문·등급. 높은 순. */

@@ -290,6 +290,11 @@ export function buildFaq(brand) {
   if (year) {
     faq.push({ q: `${label}는 언제 설립되었나요?`, a: `${label}는 ${year}년 설립되었습니다.` });
   }
+  // 국가를 모르면 위 질문에 industry가 실리지 않는다. 산업 분류는 우리가 검수한 자체
+  // 값이라 근거가 확실하므로, 국가가 없을 때만 단독 항목으로 낸다(중복 방지).
+  if (!country && industry) {
+    faq.push({ q: `${label}는 어떤 산업의 브랜드인가요?`, a: `${label}는 ${industry} 분야의 브랜드입니다.` });
+  }
   const identity = firstSentence(brand.sections?.identity?.body);
   if (identity) faq.push({ q: `${label}의 브랜드 아이덴티티는 무엇인가요?`, a: identity });
 
@@ -315,6 +320,13 @@ export function buildFaq(brand) {
   }
   if (wd.parent && !faq.some(f => /소유|모기업/.test(f.q))) {
     faq.push({ q: `${label}의 모기업은 어디인가요?`, a: `${label}의 모기업은 ${wd.parent}입니다(위키데이터 기준).` });
+  }
+
+  // 아카이브 계열 레코드의 people 섹션은 `designer: 이름` 꼴로 들어와 있다.
+  // 값이 그 형식일 때만 인용한다 — 산문형 people은 문장이 브랜드마다 달라 질문과 어긋난다.
+  const designer = /(?:^|;)\s*designer\s*:\s*([^;\n]{2,60})/i.exec(String(brand.sections?.people?.body || ""));
+  if (designer && !faq.some(f => /디자인|누가/.test(f.q))) {
+    faq.push({ q: `${label}의 브랜드 아이덴티티는 누가 디자인했나요?`, a: `${label}의 아이덴티티 디자인은 ${designer[1].trim()}가 맡은 것으로 기록되어 있습니다.` });
   }
 
   const site = brand.facts?.officialWebsite || brand.officialWebsite;

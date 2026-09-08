@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-07T00:57:49.364Z",
- "brands": 408,
- "withCountry": 363,
- "withInception": 380,
- "withHq": 350,
- "withFounder": 130,
- "withParent": 126,
- "logoAdded": 2,
+ "generatedAt": "2026-09-07T19:39:10.564Z",
+ "brands": 690,
+ "withCountry": 632,
+ "withInception": 645,
+ "withHq": 592,
+ "withFounder": 246,
+ "withParent": 218,
+ "logoAdded": 0,
  "logoFailed": [],
  "entries": [
   {
@@ -477,6 +477,20 @@
    "headquarters": null,
    "founders": [],
    "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "est-e-lauder",
+   "name": "에스티 로더",
+   "qid": "Q141314252",
+   "country": null,
+   "inception": "1943",
+   "headquarters": null,
+   "founders": [
+    "에스티 로더",
+    "Joseph Lauder"
+   ],
+   "parent": "에스티 로더",
    "fetchedAt": "2026-09-07"
   },
   {
@@ -1902,6 +1916,17 @@
    "fetchedAt": "2026-09-07"
   },
   {
+   "slug": "chesky-records",
+   "name": "Chesky Records",
+   "qid": "Q127855",
+   "country": "미국",
+   "inception": "1978",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
    "slug": "coop-norge-sa",
    "name": "Coop Norge SA",
    "qid": "Q1618373",
@@ -1958,8 +1983,7 @@
    "headquarters": null,
    "founders": [],
    "parent": null,
-   "fetchedAt": "2026-09-07",
-   "logoSource": "commons:Enja Records (logo).png"
+   "fetchedAt": "2026-09-07"
   },
   {
    "slug": "equal-vision-records",
@@ -2194,6 +2218,17 @@
    "founders": [
     "René Elissabide"
    ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pi-recordings",
+   "name": "Pi Recordings",
+   "qid": "Q547131",
+   "country": "미국",
+   "inception": "2001",
+   "headquarters": null,
+   "founders": [],
    "parent": null,
    "fetchedAt": "2026-09-07"
   },
@@ -3024,6 +3059,88 @@
    "fetchedAt": "2026-09-07"
   },
   {
+   "slug": "open-ai",
+   "name": "오픈AI",
+   "qid": "Q21708200",
+   "country": "미국",
+   "inception": "2015-12-08",
+   "headquarters": "샌프란시스코",
+   "founders": [
+    "샘 올트먼",
+    "일리야 수츠케버",
+    "그레그 브로크먼",
+    "보이치에흐 자렘바"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "spotify",
+   "name": "스포티파이",
+   "qid": "Q689141",
+   "country": null,
+   "inception": "2006-04-23",
+   "headquarters": null,
+   "founders": [
+    "다니엘 에크",
+    "Martin Lorentzon"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pan-am",
+   "name": "팬아메리칸 월드 항공",
+   "qid": "Q8681",
+   "country": "미국",
+   "inception": "1927-03-14",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "adobe",
+   "name": "어도비",
+   "qid": "Q11463",
+   "country": "미국",
+   "inception": "1982-02-28",
+   "headquarters": "산호세",
+   "founders": [
+    "찰스 게슈케",
+    "존 워녹"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dunkin",
+   "name": "던킨",
+   "qid": "Q847743",
+   "country": "미국",
+   "inception": "1950",
+   "headquarters": "Canton",
+   "founders": [
+    "William Rosenberg"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shell",
+   "name": "로열 더치 쉘",
+   "qid": "Q154950",
+   "country": "영국",
+   "inception": "1890",
+   "headquarters": "런던",
+   "founders": [
+    "Marcus Samuel, 1st Viscount Bearsted",
+    "앙리 데테르딩"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
    "slug": "amorepacific",
    "name": "아모레퍼시픽",
    "qid": "Q18141920",
@@ -3235,17 +3352,6 @@
    "headquarters": "남양주시",
    "founders": [],
    "parent": null,
-   "fetchedAt": "2026-09-07"
-  },
-  {
-   "slug": "hitejinro",
-   "name": "하이트진로",
-   "qid": "Q494272",
-   "country": "한국",
-   "inception": "1924",
-   "headquarters": "서초동",
-   "founders": [],
-   "parent": "하이트진로홀딩스",
    "fetchedAt": "2026-09-07"
   },
   {
@@ -3524,7 +3630,7 @@
   },
   {
    "slug": "f-and-f",
-   "name": "F&F",
+   "name": "에프앤에프",
    "qid": "Q18998034",
    "country": "한국",
    "inception": "1992-08",
@@ -3815,6 +3921,17 @@
    "fetchedAt": "2026-09-07"
   },
   {
+   "slug": "lotte-chemical",
+   "name": "롯데케미칼",
+   "qid": "Q12594201",
+   "country": "한국",
+   "inception": "1976",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
    "slug": "hanwha-solutions",
    "name": "한화솔루션",
    "qid": "Q5651426",
@@ -3869,8 +3986,7 @@
    "headquarters": null,
    "founders": [],
    "parent": null,
-   "fetchedAt": "2026-09-07",
-   "logoSource": "commons:CU BI (2017).svg"
+   "fetchedAt": "2026-09-07"
   },
   {
    "slug": "homeplus",
@@ -4363,17 +4479,6 @@
    "fetchedAt": "2026-09-07"
   },
   {
-   "slug": "muhak",
-   "name": "무학",
-   "qid": "Q16168484",
-   "country": "한국",
-   "inception": "1973-10-01",
-   "headquarters": "경상남도",
-   "founders": [],
-   "parent": null,
-   "fetchedAt": "2026-09-07"
-  },
-  {
    "slug": "bohae",
    "name": "보해양조",
    "qid": "Q10985746",
@@ -4513,17 +4618,6 @@
    "qid": "Q16219674",
    "country": "한국",
    "inception": "2006-06-01",
-   "headquarters": "서울특별시",
-   "founders": [],
-   "parent": null,
-   "fetchedAt": "2026-09-07"
-  },
-  {
-   "slug": "hollys",
-   "name": "할리스",
-   "qid": "Q12624386",
-   "country": null,
-   "inception": "1998",
    "headquarters": "서울특별시",
    "founders": [],
    "parent": null,
@@ -4780,6 +4874,3306 @@
    "country": "한국",
    "inception": null,
    "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "caffe-bene",
+   "name": "카페베네",
+   "qid": "Q5017149",
+   "country": "한국",
+   "inception": "2008",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "changbi-publishers",
+   "name": "창비",
+   "qid": "Q11273341",
+   "country": "한국",
+   "inception": "1966",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sisa-in",
+   "name": "시사IN",
+   "qid": "Q12603938",
+   "country": "한국",
+   "inception": "2007",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tada",
+   "name": "타다",
+   "qid": "Q65302095",
+   "country": null,
+   "inception": "2018",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "line-friends",
+   "name": "라인프렌즈",
+   "qid": "Q24859550",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tom-n-toms",
+   "name": "탐앤탐스",
+   "qid": "Q18142418",
+   "country": "한국",
+   "inception": "2004-12-21",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "theventi",
+   "name": "더벤티",
+   "qid": "Q120998398",
+   "country": "한국",
+   "inception": "2014",
+   "headquarters": "부산광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "morning-glory",
+   "name": "모닝글로리",
+   "qid": "Q131379573",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dong-kook-pharmaceutical",
+   "name": "동국제약",
+   "qid": "Q61096839",
+   "country": "한국",
+   "inception": "1968-10",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "apr",
+   "name": "에이피알",
+   "qid": "Q131187960",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "iconix-entertainment",
+   "name": "아이코닉스",
+   "qid": "Q625654",
+   "country": null,
+   "inception": "1996",
+   "headquarters": "서울특별시",
+   "founders": [
+    "최종일"
+   ],
+   "parent": "블루홀 스튜디오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-livart",
+   "name": "현대리바트",
+   "qid": "Q18531393",
+   "country": "한국",
+   "inception": "1999-06-10",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "boryung-medience",
+   "name": "보령메디앙스",
+   "qid": "Q19483834",
+   "country": "한국",
+   "inception": "1979-04-28",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "raemian",
+   "name": "래미안",
+   "qid": "Q7281980",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "coreana-cosmetics",
+   "name": "코리아나화장품",
+   "qid": "Q130381170",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [
+    "유상옥"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "daehan-flour-mills-gompyo",
+   "name": "대한제분곰표",
+   "qid": "Q16178354",
+   "country": "한국",
+   "inception": "1952-12-25",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "facebook",
+   "name": "페이스북",
+   "qid": "Q355",
+   "country": null,
+   "inception": "2004-02-04",
+   "headquarters": null,
+   "founders": [
+    "마크 저커버그",
+    "에드와도 새버린",
+    "더스틴 모스코비츠",
+    "크리스 휴스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "google",
+   "name": "구글",
+   "qid": "Q95",
+   "country": "미국",
+   "inception": "1998-09-04",
+   "headquarters": "마운틴뷰",
+   "founders": [
+    "세르게이 브린",
+    "래리 페이지"
+   ],
+   "parent": "알파벳",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "volkswagen",
+   "name": "폭스바겐",
+   "qid": "Q246",
+   "country": "독일",
+   "inception": "1937-05-28",
+   "headquarters": "볼프스부르크",
+   "founders": [
+    "독일노동전선"
+   ],
+   "parent": "폭스바겐 AG",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "telegram",
+   "name": "텔레그램",
+   "qid": "Q15616276",
+   "country": null,
+   "inception": "2013-08-14",
+   "headquarters": null,
+   "founders": [
+    "파벨 두로프"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "netflix",
+   "name": "넷플릭스",
+   "qid": "Q907311",
+   "country": "미국",
+   "inception": "2007",
+   "headquarters": "로스가토스",
+   "founders": [
+    "넷플릭스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-walt-disney-company",
+   "name": "월트 디즈니 컴퍼니",
+   "qid": "Q7414",
+   "country": "미국",
+   "inception": "1923-10-16",
+   "headquarters": "버뱅크",
+   "founders": [
+    "월트 디즈니",
+    "로이 O. 디즈니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "international-union-for-conservation-of-nature",
+   "name": "국제자연보전연맹",
+   "qid": "Q48268",
+   "country": "스위스",
+   "inception": "1948-10-05",
+   "headquarters": "글랑",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "spacex",
+   "name": "스페이스X",
+   "qid": "Q193701",
+   "country": "미국",
+   "inception": "2002-03-14",
+   "headquarters": "보카치카",
+   "founders": [
+    "일론 머스크"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sony-group",
+   "name": "소니그룹",
+   "qid": "Q41187",
+   "country": "일본",
+   "inception": "1946-05-07",
+   "headquarters": "미나토구",
+   "founders": [
+    "이부카 마사루",
+    "모리타 아키오"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tesla",
+   "name": "테슬라",
+   "qid": "Q478214",
+   "country": "미국",
+   "inception": "2003-07-01",
+   "headquarters": "오스틴",
+   "founders": [
+    "마틴 에버하드",
+    "마크 타페닝"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "honda",
+   "name": "혼다",
+   "qid": "Q9584",
+   "country": "일본",
+   "inception": "1948-09-24",
+   "headquarters": "미나토구",
+   "founders": [
+    "혼다 소이치로",
+    "Takeo Fujisawa"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lufthansa",
+   "name": "루프트한자",
+   "qid": "Q9325",
+   "country": "독일",
+   "inception": "1926",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": "Lufthansa",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "american-broadcasting-company",
+   "name": "American Broadcasting Company",
+   "qid": "Q169889",
+   "country": "미국",
+   "inception": "1943-10-12",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Edward John Noble"
+   ],
+   "parent": "월트 디즈니 컴퍼니",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "warner-bros-entertainment",
+   "name": "워너 브라더스",
+   "qid": "Q126399",
+   "country": "미국",
+   "inception": "1923-04-04",
+   "headquarters": "버뱅크",
+   "founders": [
+    "알버트 워너",
+    "해리 워너",
+    "샘 워너",
+    "잭 워너"
+   ],
+   "parent": "워너 브라더스 디스커버리",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cbs",
+   "name": "CBS",
+   "qid": "Q43380",
+   "country": "미국",
+   "inception": "1927-09-18",
+   "headquarters": "CBS 빌딩",
+   "founders": [
+    "Arthur Judson"
+   ],
+   "parent": "파라마운트 스카이댄스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "openstreetmap",
+   "name": "오픈스트리트맵",
+   "qid": "Q936",
+   "country": "영국",
+   "inception": "2004-07-01",
+   "headquarters": null,
+   "founders": [
+    "Steve Coast"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "huawei",
+   "name": "화웨이",
+   "qid": "Q160120",
+   "country": "중국",
+   "inception": "1987",
+   "headquarters": "선전시",
+   "founders": [
+    "런정페이"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pixar",
+   "name": "픽사",
+   "qid": "Q127552",
+   "country": "미국",
+   "inception": "1986-02-03",
+   "headquarters": "에머리빌",
+   "founders": [
+    "에드윈 캣멀",
+    "앨비 레이 스미스"
+   ],
+   "parent": "월트 디즈니 스튜디오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "universal-pictures",
+   "name": "유니버설 픽처스",
+   "qid": "Q168383",
+   "country": "미국",
+   "inception": "1912-04-30",
+   "headquarters": "유니버설시티",
+   "founders": [
+    "칼 렘리",
+    "Pat Powers",
+    "Jules Brulatour",
+    "David Horsley"
+   ],
+   "parent": "NBC유니버설",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yamaha-motor-company",
+   "name": "야마하 발동기",
+   "qid": "Q158888",
+   "country": "일본",
+   "inception": "1955-07-01",
+   "headquarters": "이와타시",
+   "founders": [
+    "겐이치 카와카미"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mac",
+   "name": "맥",
+   "qid": "Q75687",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "marvel-comics",
+   "name": "마블 코믹스",
+   "qid": "Q173496",
+   "country": "미국",
+   "inception": "1961-06",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Martin Goodman"
+   ],
+   "parent": "마블 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ebay",
+   "name": "이베이",
+   "qid": "Q58024",
+   "country": "미국",
+   "inception": "1995-09-03",
+   "headquarters": "산호세",
+   "founders": [
+    "피에르 오미다이어"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wwe",
+   "name": "WWE",
+   "qid": "Q35339",
+   "country": "미국",
+   "inception": "1952",
+   "headquarters": "스탬퍼드",
+   "founders": [
+    "Jess McMahon"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "google-play",
+   "name": "구글 플레이",
+   "qid": "Q79576",
+   "country": null,
+   "inception": "2008-10-22",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "barbie",
+   "name": "바비",
+   "qid": "Q167447",
+   "country": "미국",
+   "inception": "1959-03-09",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "reuters",
+   "name": "로이터",
+   "qid": "Q130879",
+   "country": "영국",
+   "inception": "1851-10",
+   "headquarters": "런던",
+   "founders": [
+    "파울 율리우스 로이터"
+   ],
+   "parent": "톰슨 로이터",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "general-motors",
+   "name": "제너럴 모터스",
+   "qid": "Q81965",
+   "country": "미국",
+   "inception": "1908-09-16",
+   "headquarters": "디트로이트",
+   "founders": [
+    "윌리엄 크라포 듀란트",
+    "Charles Stewart Mott"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nissan",
+   "name": "닛산 자동차",
+   "qid": "Q20165",
+   "country": "일본",
+   "inception": "1933-12-26",
+   "headquarters": "요코하마시",
+   "founders": [
+    "아이카와 요시스케",
+    "덴 겐지로",
+    "William R. Gorham"
+   ],
+   "parent": "르노",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "biblioth-que-nationale-de-france",
+   "name": "프랑스 국립도서관",
+   "qid": "Q193563",
+   "country": "프랑스",
+   "inception": "1994",
+   "headquarters": "파리 2구",
+   "founders": [],
+   "parent": "프랑스 문화부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "european-central-bank",
+   "name": "유럽 중앙은행",
+   "qid": "Q8901",
+   "country": "독일",
+   "inception": "1998-06-01",
+   "headquarters": "프랑크푸르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "turkish-airlines",
+   "name": "터키항공",
+   "qid": "Q4548",
+   "country": "터키",
+   "inception": "1933-05-20",
+   "headquarters": "이스탄불",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "royal-society",
+   "name": "왕립학회",
+   "qid": "Q123885",
+   "country": "영국",
+   "inception": "1660-11",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "opel",
+   "name": "오펠",
+   "qid": "Q40966",
+   "country": "독일",
+   "inception": "1862-01-21",
+   "headquarters": "Rüsselsheim am Main",
+   "founders": [
+    "Adam Opel"
+   ],
+   "parent": "스텔란티스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fiat",
+   "name": "피아트",
+   "qid": "Q27597",
+   "country": "이탈리아",
+   "inception": "1899-07-11",
+   "headquarters": "토리노",
+   "founders": [
+    "조반니 아녤리"
+   ],
+   "parent": "스텔란티스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "20th-century-studios",
+   "name": "20세기 스튜디오",
+   "qid": "Q434841",
+   "country": "미국",
+   "inception": "1935-05-31",
+   "headquarters": "폭스 플라자",
+   "founders": [
+    "조지프 M. 솅크",
+    "대릴 F. 재넉",
+    "윌리엄 폭스"
+   ],
+   "parent": "월트 디즈니 스튜디오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "xiaomi",
+   "name": "샤오미",
+   "qid": "Q1636958",
+   "country": "중국",
+   "inception": "2010-04-06",
+   "headquarters": "베이징시",
+   "founders": [
+    "레이쥔",
+    "Lin Bin"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "air-france",
+   "name": "에어 프랑스",
+   "qid": "Q131005",
+   "country": "프랑스",
+   "inception": "1933-08-30",
+   "headquarters": "트랑블레앙프랑스",
+   "founders": [],
+   "parent": "에어 프랑스-KLM",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lamborghini",
+   "name": "람보르기니",
+   "qid": "Q35886",
+   "country": "이탈리아",
+   "inception": "1948-03-11",
+   "headquarters": "산타가타볼로녜세",
+   "founders": [
+    "페루치오 람보르기니"
+   ],
+   "parent": "아우디",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hbo",
+   "name": "HBO",
+   "qid": "Q23633",
+   "country": "미국",
+   "inception": "1972-11-08",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Charles Dolan"
+   ],
+   "parent": "워너 브라더스 디스커버리",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "chevrolet",
+   "name": "쉐보레",
+   "qid": "Q29570",
+   "country": "미국",
+   "inception": "1911-11-03",
+   "headquarters": "디트로이트",
+   "founders": [
+    "루이 셰브럴레이",
+    "윌리엄 크라포 듀란트",
+    "아서 셰브럴레이"
+   ],
+   "parent": "제너럴 모터스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hewlett-packard",
+   "name": "휴렛 팩커드",
+   "qid": "Q80978",
+   "country": "미국",
+   "inception": "1939-07-02",
+   "headquarters": "팰로앨토",
+   "founders": [
+    "윌리엄 휴렛",
+    "데이비드 패커드"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tv-azteca",
+   "name": "TV 아즈테카",
+   "qid": "Q1281055",
+   "country": "멕시코",
+   "inception": "1993",
+   "headquarters": "멕시코시티",
+   "founders": [
+    "Ricardo Salinas Pliego"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dc-comics",
+   "name": "DC 코믹스",
+   "qid": "Q2924461",
+   "country": "미국",
+   "inception": "1977",
+   "headquarters": "버뱅크",
+   "founders": [
+    "맬컴 휠러니컬슨"
+   ],
+   "parent": "DC 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "meta-platforms",
+   "name": "메타 플랫폼스",
+   "qid": "Q380",
+   "country": "미국",
+   "inception": "2004-07-29",
+   "headquarters": "멘로파크",
+   "founders": [
+    "마크 저커버그",
+    "에드와도 새버린",
+    "더스틴 모스코비츠",
+    "크리스 휴스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "heidelberg-university",
+   "name": "하이델베르크 대학교",
+   "qid": "Q151510",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "하이델베르크",
+   "founders": [
+    "Rupert I, Elector Palatine"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "international-civil-aviation-organization",
+   "name": "국제 민간 항공 기구",
+   "qid": "Q125761",
+   "country": "캐나다",
+   "inception": "1944-12-07",
+   "headquarters": "International Civil Aviation Organization Headquarters",
+   "founders": [],
+   "parent": "유엔 경제 사회 이사회",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lenovo",
+   "name": "레노버",
+   "qid": "Q14799",
+   "country": "중국",
+   "inception": "1984",
+   "headquarters": "베이징시",
+   "founders": [
+    "류촨즈"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "british-airways",
+   "name": "영국항공",
+   "qid": "Q8766",
+   "country": "영국",
+   "inception": "1919",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": "국제 항공 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "deepseek",
+   "name": "딥시크",
+   "qid": "Q131577453",
+   "country": "중국",
+   "inception": "2023-05",
+   "headquarters": "항저우시",
+   "founders": [
+    "량원펑"
+   ],
+   "parent": "하이플라이어 퀀트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dell",
+   "name": "델",
+   "qid": "Q30873",
+   "country": "미국",
+   "inception": "1984-05-03",
+   "headquarters": "라운드록",
+   "founders": [
+    "마이클 델"
+   ],
+   "parent": "델 테크놀로지스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "humboldt-universit-t-zu-berlin",
+   "name": "베를린 훔볼트 대학교",
+   "qid": "Q152087",
+   "country": "독일",
+   "inception": "1809-08-16",
+   "headquarters": "베를린",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nvidia",
+   "name": "엔비디아",
+   "qid": "Q182477",
+   "country": "미국",
+   "inception": "1993-04-05",
+   "headquarters": "샌타클라라",
+   "founders": [
+    "젠슨 황",
+    "크리스 말라초스키",
+    "커티스 프림"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "united-airlines",
+   "name": "유나이티드 항공",
+   "qid": "Q174769",
+   "country": "미국",
+   "inception": "1926-04-06",
+   "headquarters": "윌리스 타워",
+   "founders": [
+    "Walter Varney"
+   ],
+   "parent": "유나이티드 콘티넨탈 홀딩스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "billboard",
+   "name": "빌보드",
+   "qid": "Q485240",
+   "country": "미국",
+   "inception": "1894",
+   "headquarters": "뉴욕",
+   "founders": [
+    "닐슨 사운드스캔",
+    "Eldridge",
+    "William Henry Donaldson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "disneyland",
+   "name": "디즈니랜드",
+   "qid": "Q181185",
+   "country": "미국",
+   "inception": "1955-07-17",
+   "headquarters": null,
+   "founders": [
+    "월트 디즈니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "motorola",
+   "name": "모토로라",
+   "qid": "Q259011",
+   "country": "미국",
+   "inception": "1928-09-25",
+   "headquarters": "숌버그",
+   "founders": [
+    "Joseph Galvin",
+    "Paul Galvin"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "amd",
+   "name": "AMD",
+   "qid": "Q128896",
+   "country": "미국",
+   "inception": "1969-05-01",
+   "headquarters": "샌타클라라",
+   "founders": [
+    "Jack Gifford",
+    "제리 샌더스",
+    "Edwin Turney"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "burj-al-arab",
+   "name": "부르즈 알 아랍",
+   "qid": "Q62939",
+   "country": "아랍에미리트",
+   "inception": "1999",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "oracle-corporation",
+   "name": "오라클",
+   "qid": "Q19900",
+   "country": "미국",
+   "inception": "1977-06-16",
+   "headquarters": "오스틴",
+   "founders": [
+    "래리 엘리슨",
+    "Bob Miner",
+    "Ed Oates"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "international-union-of-pure-and-applied-chemistry",
+   "name": "국제 순수·응용 화학 연합",
+   "qid": "Q33438",
+   "country": null,
+   "inception": "1919",
+   "headquarters": "취리히",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gazprom",
+   "name": "가스프롬",
+   "qid": "Q102673",
+   "country": "러시아",
+   "inception": "1989",
+   "headquarters": "상트페테르부르크",
+   "founders": [
+    "러시아 연방정부"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "metro-goldwyn-mayer",
+   "name": "메트로 골드윈 메이어",
+   "qid": "Q179200",
+   "country": "미국",
+   "inception": "1924-04-17",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "마커스 로우",
+    "루이스 B. 메이어"
+   ],
+   "parent": "아마존 스튜디오",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "citro-n",
+   "name": "시트로엥",
+   "qid": "Q6746",
+   "country": "프랑스",
+   "inception": "1919-06-04",
+   "headquarters": "PSA Poissy Plant",
+   "founders": [
+    "앙드레 시트로엥"
+   ],
+   "parent": "스텔란티스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-group",
+   "name": "LG그룹",
+   "qid": "Q136778",
+   "country": "한국",
+   "inception": "1947-01-05",
+   "headquarters": "서울특별시",
+   "founders": [
+    "구인회"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "federal-reserve-system",
+   "name": "연방준비제도",
+   "qid": "Q53536",
+   "country": "미국",
+   "inception": "1913-12-23",
+   "headquarters": "에클스 빌딩",
+   "founders": [
+    "Robert Latham Owen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "alfa-romeo",
+   "name": "알파 로메오",
+   "qid": "Q26921",
+   "country": "이탈리아",
+   "inception": "1910-06-24",
+   "headquarters": "토리노",
+   "founders": [
+    "Nicola Romeo"
+   ],
+   "parent": "스텔란티스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "toshiba",
+   "name": "도시바",
+   "qid": "Q49125",
+   "country": "일본",
+   "inception": "1875",
+   "headquarters": "미나토구",
+   "founders": [
+    "Tanaka Hisashige"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "university-of-geneva",
+   "name": "제네바 대학교",
+   "qid": "Q503473",
+   "country": "스위스",
+   "inception": "1559",
+   "headquarters": "제네바",
+   "founders": [
+    "장 칼뱅"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ryanair",
+   "name": "라이언에어",
+   "qid": "Q170614",
+   "country": "아일랜드",
+   "inception": "1985",
+   "headquarters": "더블린 공항",
+   "founders": [
+    "Tony Ryan"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "rotten-tomatoes",
+   "name": "로튼 토마토",
+   "qid": "Q105584",
+   "country": "미국",
+   "inception": "1998-08-19",
+   "headquarters": "샌프란시스코",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bolshoi-theatre",
+   "name": "볼쇼이 극장",
+   "qid": "Q138908",
+   "country": "러시아",
+   "inception": "1776-03-28",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "valve-corporation",
+   "name": "밸브 코퍼레이션",
+   "qid": "Q193559",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "벨뷰",
+   "founders": [
+    "게이브 뉴웰",
+    "마이크 해링턴"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "bank-of-england",
+   "name": "잉글랜드 은행",
+   "qid": "Q183231",
+   "country": "영국",
+   "inception": "1694-07-27",
+   "headquarters": "잉글랜드 은행 청사",
+   "founders": [
+    "Charles Montagu, 1st Earl of Halifax"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "roscosmos-state-corporation",
+   "name": "로스코스모스",
+   "qid": "Q190795",
+   "country": "러시아",
+   "inception": "1992-02-25",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "delta-air-lines",
+   "name": "델타 항공",
+   "qid": "Q188920",
+   "country": "미국",
+   "inception": "1925-03-02",
+   "headquarters": "애틀랜타",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "emirates",
+   "name": "에미레이트 항공",
+   "qid": "Q180432",
+   "country": "아랍에미리트",
+   "inception": "1985-03-25",
+   "headquarters": "Al Garhoud",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "virgin-atlantic",
+   "name": "버진 애틀랜틱",
+   "qid": "Q32277",
+   "country": "영국",
+   "inception": "1984",
+   "headquarters": "크롤리",
+   "founders": [
+    "리처드 브랜슨",
+    "Randolph Fields",
+    "Alan Hellary"
+   ],
+   "parent": "버진 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "astrazeneca",
+   "name": "아스트라제네카",
+   "qid": "Q731938",
+   "country": "영국",
+   "inception": "1913",
+   "headquarters": "케임브리지",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "berkshire-hathaway",
+   "name": "버크셔 해서웨이",
+   "qid": "Q217583",
+   "country": "미국",
+   "inception": "1955",
+   "headquarters": "오마하",
+   "founders": [
+    "Oliver Chace"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "alitalia",
+   "name": "알리탈리아",
+   "qid": "Q153975",
+   "country": "이탈리아",
+   "inception": "1946-09-16",
+   "headquarters": "피우미치노",
+   "founders": [],
+   "parent": "Ministry of Economy and Finance",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "air-new-zealand",
+   "name": "에어 뉴질랜드",
+   "qid": "Q204296",
+   "country": "뉴질랜드",
+   "inception": "1940-04-26",
+   "headquarters": "오클랜드",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "china-eastern-airlines",
+   "name": "중국동방항공",
+   "qid": "Q291796",
+   "country": "중국",
+   "inception": "1988",
+   "headquarters": "상하이 훙차오 국제공항",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "european-bank-for-reconstruction-and-development",
+   "name": "유럽 부흥 개발 은행",
+   "qid": "Q488981",
+   "country": "영국",
+   "inception": "1991",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "channel-one-russia",
+   "name": "페르비 카날",
+   "qid": "Q330067",
+   "country": "러시아",
+   "inception": "1995-01-24",
+   "headquarters": "Ostankino Technical Center",
+   "founders": [
+    "알렉산드르 니콜라예비치 야코블레프",
+    "블라디슬라프 리스티예프"
+   ],
+   "parent": "Channel One Russia International Network",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dodge",
+   "name": "닷지",
+   "qid": "Q27564",
+   "country": "미국",
+   "inception": "1900-12-14",
+   "headquarters": "Dodge Building",
+   "founders": [
+    "John Francis Dodge",
+    "Horace Elgin Dodge"
+   ],
+   "parent": "Stellantis North America",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "quora",
+   "name": "쿼라",
+   "qid": "Q51711",
+   "country": "미국",
+   "inception": "2009-06-25",
+   "headquarters": "마운틴뷰",
+   "founders": [
+    "애덤 디안젤로",
+    "Charlie Cheever"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "barclays",
+   "name": "바클리즈",
+   "qid": "Q245343",
+   "country": "영국",
+   "inception": "1690",
+   "headquarters": "One Churchill Place",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tsmc",
+   "name": "TSMC",
+   "qid": "Q713418",
+   "country": "대만",
+   "inception": "1987-02-21",
+   "headquarters": "신주과학공원",
+   "founders": [
+    "모리스 창"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tass",
+   "name": "타스",
+   "qid": "Q223799",
+   "country": "러시아",
+   "inception": "1904-09-01",
+   "headquarters": "ITAR-TASS building",
+   "founders": [
+    "인민위원평의회"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "university-of-florida",
+   "name": "플로리다 대학교",
+   "qid": "Q501758",
+   "country": "미국",
+   "inception": "1853",
+   "headquarters": "게인즈빌",
+   "founders": [],
+   "parent": "State University System of Florida",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "national-academy-of-sciences",
+   "name": "미국국립과학원",
+   "qid": "Q270794",
+   "country": "미국",
+   "inception": "1863-03-03",
+   "headquarters": "National Academy of Sciences building",
+   "founders": [],
+   "parent": "미국 국립 연구 회의",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "the-black-label",
+   "name": "더블랙레이블",
+   "qid": "Q24866458",
+   "country": "한국",
+   "inception": "2016-05",
+   "headquarters": "서울특별시",
+   "founders": [
+    "테디"
+   ],
+   "parent": "YG 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pandora-technogies",
+   "name": "팬택",
+   "qid": "Q493163",
+   "country": "한국",
+   "inception": "1991",
+   "headquarters": "디지털미디어시티",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mbk-entertainment",
+   "name": "MBK 엔터테인먼트",
+   "qid": "Q429296",
+   "country": "한국",
+   "inception": "2006",
+   "headquarters": "역삼동",
+   "founders": [],
+   "parent": "CJ E&M",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kumon",
+   "name": "구몬교육연구회",
+   "qid": "Q142054",
+   "country": "미국",
+   "inception": "1958",
+   "headquarters": "오사카시",
+   "founders": [
+    "구몬 토오루"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanwha-group",
+   "name": "한화그룹",
+   "qid": "Q489202",
+   "country": "한국",
+   "inception": "1952-10",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김종희"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanjin-shipping",
+   "name": "한진해운",
+   "qid": "Q494904",
+   "country": "한국",
+   "inception": "1977",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대한항공",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hanjin",
+   "name": "한진그룹",
+   "qid": "Q483274",
+   "country": "한국",
+   "inception": "1945-11-01",
+   "headquarters": "서울특별시",
+   "founders": [
+    "조중훈"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samyang-optics",
+   "name": "LK삼양",
+   "qid": "Q1149165",
+   "country": "한국",
+   "inception": "1972",
+   "headquarters": "마산시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-display",
+   "name": "LG디스플레이",
+   "qid": "Q483006",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "LG전자",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "eastar-jet",
+   "name": "이스타항공",
+   "qid": "Q489392",
+   "country": "한국",
+   "inception": "2007",
+   "headquarters": "강서구",
+   "founders": [],
+   "parent": "이스타항공그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-electric-power-corporation",
+   "name": "한국전력공사",
+   "qid": "Q486737",
+   "country": "한국",
+   "inception": "1898",
+   "headquarters": "나주시",
+   "founders": [],
+   "parent": "산업통상자원부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cowon-systems",
+   "name": "코원시스템",
+   "qid": "Q311636",
+   "country": "한국",
+   "inception": "1995",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "qcells",
+   "name": "한화솔라원",
+   "qid": "Q265176",
+   "country": "독일",
+   "inception": "2012",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "stx-corporation",
+   "name": "STX",
+   "qid": "Q489238",
+   "country": "한국",
+   "inception": "2001-05-01",
+   "headquarters": "성산구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "asia-motors",
+   "name": "아시아자동차공업",
+   "qid": "Q484849",
+   "country": "한국",
+   "inception": "1965",
+   "headquarters": "광주광역시",
+   "founders": [],
+   "parent": "기아",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "fantagio",
+   "name": "판타지오",
+   "qid": "Q13424955",
+   "country": "한국",
+   "inception": "2008-10",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kr-motors",
+   "name": "KR모터스",
+   "qid": "Q483190",
+   "country": "한국",
+   "inception": "1978-06-05",
+   "headquarters": "창원시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-steel",
+   "name": "현대제철",
+   "qid": "Q6502960",
+   "country": "한국",
+   "inception": "1975",
+   "headquarters": "인천광역시",
+   "founders": [],
+   "parent": "현대자동차그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "zalman",
+   "name": "잘만테크",
+   "qid": "Q145156",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "대한민국",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "shinhan-bank",
+   "name": "신한은행",
+   "qid": "Q487230",
+   "country": "한국",
+   "inception": "1897",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tving",
+   "name": "티빙",
+   "qid": "Q12621401",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kt-genie-music",
+   "name": "KT지니뮤직",
+   "qid": "Q20943680",
+   "country": "한국",
+   "inception": "1991",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cj-cheil-jedang",
+   "name": "CJ제일제당",
+   "qid": "Q6451272",
+   "country": "한국",
+   "inception": "1953-11",
+   "headquarters": "중구",
+   "founders": [
+    "이병철"
+   ],
+   "parent": "CJ",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gs-group",
+   "name": "GS그룹",
+   "qid": "Q489198",
+   "country": "한국",
+   "inception": "2005",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-gas-corporation",
+   "name": "한국가스공사",
+   "qid": "Q491489",
+   "country": "한국",
+   "inception": "1983-08-18",
+   "headquarters": "대구광역시",
+   "founders": [],
+   "parent": "산업통상자원부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yonhap-television-news",
+   "name": "YTN",
+   "qid": "Q487590",
+   "country": "한국",
+   "inception": "1995",
+   "headquarters": "YTN뉴스퀘어",
+   "founders": [],
+   "parent": "연합뉴스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "buldak-ramen",
+   "name": "불닭볶음면",
+   "qid": "Q16726460",
+   "country": "한국",
+   "inception": "2012-04",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "c-jes-studios",
+   "name": "씨제스 스튜디오",
+   "qid": "Q5005884",
+   "country": "한국",
+   "inception": "2009",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-engineering",
+   "name": "삼성E&A",
+   "qid": "Q2998661",
+   "country": "한국",
+   "inception": "1970",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "삼성",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-post",
+   "name": "우정사업본부",
+   "qid": "Q483280",
+   "country": "한국",
+   "inception": "2000",
+   "headquarters": "세종특별자치시",
+   "founders": [],
+   "parent": "대한민국 미래창조과학부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hj-shipbuilding-construction",
+   "name": "HJ중공업",
+   "qid": "Q489195",
+   "country": "한국",
+   "inception": "1937",
+   "headquarters": "봉래동",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "winia-electronics",
+   "name": "위니아전자",
+   "qid": "Q496538",
+   "country": "한국",
+   "inception": "1987",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lig-defense-aerospace",
+   "name": "LIG 디펜스&에어로스페이스",
+   "qid": "Q6458668",
+   "country": "한국",
+   "inception": "1976",
+   "headquarters": "용인시",
+   "founders": [],
+   "parent": "LIG그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yongin-daejanggeum-park",
+   "name": "용인대장금파크",
+   "qid": "Q15622253",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-development-bank",
+   "name": "한국산업은행",
+   "qid": "Q4409074",
+   "country": "한국",
+   "inception": "1954",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대한민국 금융위원회",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samick",
+   "name": "삼익악기",
+   "qid": "Q489208",
+   "country": "한국",
+   "inception": "1958",
+   "headquarters": "인천광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "p-nation",
+   "name": "P NATION",
+   "qid": "Q61410007",
+   "country": "한국",
+   "inception": "2019-01-24",
+   "headquarters": "서울특별시",
+   "founders": [
+    "싸이"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aomg",
+   "name": "AOMG",
+   "qid": "Q16164774",
+   "country": "한국",
+   "inception": "2013-09",
+   "headquarters": "서울특별시",
+   "founders": [
+    "박재범"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "air-incheon",
+   "name": "에어제타",
+   "qid": "Q11289522",
+   "country": "한국",
+   "inception": "2012",
+   "headquarters": "인천국제공항",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cj-enm-films-television",
+   "name": "CJ엔터테인먼트",
+   "qid": "Q5012265",
+   "country": "한국",
+   "inception": "1995",
+   "headquarters": "서울특별시",
+   "founders": [
+    "CJ그룹"
+   ],
+   "parent": "CJ그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "studio-mir",
+   "name": "스튜디오 미르",
+   "qid": "Q7628201",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "estsoft",
+   "name": "이스트소프트",
+   "qid": "Q488993",
+   "country": "한국",
+   "inception": "1992",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-hydro-nuclear-power",
+   "name": "한국수력원자력",
+   "qid": "Q6431646",
+   "country": "한국",
+   "inception": "2001-04-02",
+   "headquarters": "경주시",
+   "founders": [
+    "한국전력공사"
+   ],
+   "parent": "한국전력공사",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "busan-cinema-center",
+   "name": "영화의전당",
+   "qid": "Q14020347",
+   "country": "한국",
+   "inception": "2011-09-29",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "brand-new-music",
+   "name": "브랜뉴뮤직",
+   "qid": "Q12599305",
+   "country": "한국",
+   "inception": "2011",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "keyeast",
+   "name": "키이스트",
+   "qid": "Q11133743",
+   "country": "한국",
+   "inception": "1996",
+   "headquarters": "서울특별시",
+   "founders": [
+    "배용준"
+   ],
+   "parent": "SM Studios",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seoul-metro",
+   "name": "서울교통공사",
+   "qid": "Q28699048",
+   "country": "한국",
+   "inception": "2017-05-31",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pan-entertainment",
+   "name": "팬 엔터테인먼트",
+   "qid": "Q17278347",
+   "country": "한국",
+   "inception": "1998-03-04",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "paris-croissant",
+   "name": "파리크라상",
+   "qid": "Q12621461",
+   "country": "한국",
+   "inception": "1986-10-17",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "next-entertainment-world",
+   "name": "넥스트엔터테인먼트월드",
+   "qid": "Q15730367",
+   "country": "한국",
+   "inception": "2008",
+   "headquarters": "논현동",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "academy-of-korean-studies",
+   "name": "한국학중앙연구원",
+   "qid": "Q626534",
+   "country": "한국",
+   "inception": "1978-06-22",
+   "headquarters": null,
+   "founders": [],
+   "parent": "대한민국 교육부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seoul-metropolitan-rapid-transit-corporation",
+   "name": "서울특별시 도시철도공사",
+   "qid": "Q196405",
+   "country": "한국",
+   "inception": "1994-03",
+   "headquarters": "성동구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "soribada",
+   "name": "소리바다",
+   "qid": "Q485718",
+   "country": "한국",
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mirae-asset-group",
+   "name": "미래에셋그룹",
+   "qid": "Q6872554",
+   "country": "한국",
+   "inception": "1997",
+   "headquarters": "서울특별시",
+   "founders": [
+    "박현주"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-energy-solution",
+   "name": "LG에너지솔루션",
+   "qid": "Q109464416",
+   "country": "한국",
+   "inception": null,
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ioniq",
+   "name": "아이오닉",
+   "qid": "Q98441159",
+   "country": "한국",
+   "inception": "2020-08-10",
+   "headquarters": "서울특별시",
+   "founders": [
+    "현대자동차"
+   ],
+   "parent": "현대자동차",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lotte-hotels-resorts",
+   "name": "롯데호텔",
+   "qid": "Q326720",
+   "country": "한국",
+   "inception": "1973",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hana-bank",
+   "name": "하나은행",
+   "qid": "Q484047",
+   "country": "한국",
+   "inception": "1967-01-30",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai-wia",
+   "name": "현대위아",
+   "qid": "Q493997",
+   "country": "한국",
+   "inception": "1976-03-29",
+   "headquarters": "창원시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lotte-himart",
+   "name": "롯데하이마트",
+   "qid": "Q765895",
+   "country": "한국",
+   "inception": "1993",
+   "headquarters": "강남구",
+   "founders": [],
+   "parent": "롯데쇼핑",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cheil-worldwide",
+   "name": "제일기획",
+   "qid": "Q5089641",
+   "country": "한국",
+   "inception": "1973",
+   "headquarters": "서울특별시",
+   "founders": [
+    "이병철"
+   ],
+   "parent": "삼성",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samsung-sds",
+   "name": "삼성SDS",
+   "qid": "Q7410538",
+   "country": "한국",
+   "inception": "1985",
+   "headquarters": "삼성SDS타워",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "showbox-co-ltd",
+   "name": "쇼박스",
+   "qid": "Q626185",
+   "country": "한국",
+   "inception": "2002",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seoul-semiconductor",
+   "name": "서울반도체",
+   "qid": "Q494657",
+   "country": "한국",
+   "inception": "1992",
+   "headquarters": "안산시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hdc-young-chang",
+   "name": "IPARK영창",
+   "qid": "Q495824",
+   "country": "한국",
+   "inception": "1978",
+   "headquarters": "인천광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "yg-plus",
+   "name": "YG플러스",
+   "qid": "Q21057587",
+   "country": "한국",
+   "inception": "2014-11",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "YG 엔터테인먼트",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ls-cable-system",
+   "name": "LS전선",
+   "qid": "Q489456",
+   "country": "한국",
+   "inception": "1962-05",
+   "headquarters": "안양시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "daewon-media",
+   "name": "대원미디어",
+   "qid": "Q490424",
+   "country": "한국",
+   "inception": "1973",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "posco-international",
+   "name": "포스코인터내셔널",
+   "qid": "Q492345",
+   "country": "한국",
+   "inception": "2000",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김우중"
+   ],
+   "parent": "포스코",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "dr-movie",
+   "name": "디알무비",
+   "qid": "Q615140",
+   "country": "한국",
+   "inception": "1990-11",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seoul-land",
+   "name": "서울랜드",
+   "qid": "Q483663",
+   "country": "한국",
+   "inception": "1987",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "parata-air",
+   "name": "파라타항공",
+   "qid": "Q65308518",
+   "country": "한국",
+   "inception": "2016-04-12",
+   "headquarters": "양양군",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ahnlab-inc",
+   "name": "안랩",
+   "qid": "Q402131",
+   "country": "한국",
+   "inception": "1995",
+   "headquarters": "성남시",
+   "founders": [
+    "안철수"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pandora-tv",
+   "name": "판도라TV",
+   "qid": "Q497382",
+   "country": "한국",
+   "inception": "2004-10-25",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김경익"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "tongyang-group",
+   "name": "동양",
+   "qid": "Q12593494",
+   "country": "한국",
+   "inception": "1957",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "posco-future-m",
+   "name": "포스코퓨처엠",
+   "qid": "Q12621901",
+   "country": "한국",
+   "inception": "1971-05-13",
+   "headquarters": "경상북도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mbc-c-i",
+   "name": "MBC C&I",
+   "qid": "Q16219423",
+   "country": "한국",
+   "inception": "1991-01-10",
+   "headquarters": "고양시",
+   "founders": [],
+   "parent": "문화방송",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "news1",
+   "name": "뉴스1",
+   "qid": "Q16162804",
+   "country": "한국",
+   "inception": "2011-04-11",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kb-insurance-company",
+   "name": "KB손해보험",
+   "qid": "Q493151",
+   "country": "한국",
+   "inception": "1959-01-27",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jeju-shinhwa-world",
+   "name": "제주신화월드",
+   "qid": "Q60767828",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "chuncheon-munhwa-broadcasting",
+   "name": "춘천문화방송",
+   "qid": "Q1575793",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wonju-munhwa-broadcasting",
+   "name": "원주문화방송",
+   "qid": "Q1576691",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jei-corporation",
+   "name": "재능교육",
+   "qid": "Q12614835",
+   "country": "한국",
+   "inception": "1977",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kbs-media",
+   "name": "KBS 미디어",
+   "qid": "Q31180785",
+   "country": "한국",
+   "inception": "1991",
+   "headquarters": "KBS미디어센터",
+   "founders": [],
+   "parent": "KBS (한국방송공사)",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "zepetto",
+   "name": "제페토",
+   "qid": "Q4053571",
+   "country": "한국",
+   "inception": "2003-09-08",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ssangyong-engineering-and-construction",
+   "name": "쌍용건설",
+   "qid": "Q7586640",
+   "country": "한국",
+   "inception": "1977",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "walt-disney-world-resort",
+   "name": "월트 디즈니 월드 리조트",
+   "qid": "Q206859",
+   "country": "미국",
+   "inception": "1971-10-01",
+   "headquarters": null,
+   "founders": [
+    "월트 디즈니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "texas-instruments",
+   "name": "텍사스 인스트루먼트",
+   "qid": "Q193412",
+   "country": "미국",
+   "inception": "1930-12-06",
+   "headquarters": "댈러스",
+   "founders": [
+    "Cecil Howard Green"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "russian-aircraft-corporation-mig",
+   "name": "미그",
+   "qid": "Q188508",
+   "country": "러시아",
+   "inception": "1939-12-08",
+   "headquarters": "모스크바",
+   "founders": [
+    "미하일 구레비치",
+    "아르툠 미코얀"
+   ],
+   "parent": "통합항공기제작사",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "scania",
+   "name": "스카니아",
+   "qid": "Q219960",
+   "country": "스웨덴",
+   "inception": "1911",
+   "headquarters": "쇠데르텔리에",
+   "founders": [],
+   "parent": "트라톤",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "southwest-airlines",
+   "name": "사우스웨스트 항공",
+   "qid": "Q503308",
+   "country": "미국",
+   "inception": "1967-03-15",
+   "headquarters": "댈러스",
+   "founders": [
+    "Herb Kelleher"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "comcast",
+   "name": "컴캐스트",
+   "qid": "Q1113804",
+   "country": "미국",
+   "inception": "1963-06-28",
+   "headquarters": "필라델피아",
+   "founders": [
+    "Ralph J. Roberts",
+    "Julian A. Brodsky"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "moulin-rouge",
+   "name": "물랭 루주",
+   "qid": "Q151030",
+   "country": "프랑스",
+   "inception": "1889",
+   "headquarters": null,
+   "founders": [
+    "Joseph Oller",
+    "Charles Zidler"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "man-se",
+   "name": "MAN SE",
+   "qid": "Q35953",
+   "country": "독일",
+   "inception": "1758",
+   "headquarters": "뮌헨",
+   "founders": [],
+   "parent": "트라톤",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aer-lingus",
+   "name": "에어링구스",
+   "qid": "Q83716",
+   "country": "아일랜드",
+   "inception": "1936-05-28",
+   "headquarters": "더블린 공항",
+   "founders": [],
+   "parent": "국제 항공 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "skyteam",
+   "name": "스카이팀",
+   "qid": "Q212282",
+   "country": "네덜란드",
+   "inception": "2000-06-22",
+   "headquarters": "암스텔베인",
+   "founders": [
+    "아에로멕시코",
+    "에어 프랑스",
+    "대한항공",
+    "델타 항공"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "wizz-air",
+   "name": "위즈 에어",
+   "qid": "Q335147",
+   "country": "헝가리",
+   "inception": "2003-09",
+   "headquarters": "부다페스트 리스트 페렌츠 국제공항",
+   "founders": [],
+   "parent": "Wizz Air Holdings",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "amtrak",
+   "name": "암트랙",
+   "qid": "Q23239",
+   "country": "미국",
+   "inception": "1971-05-01",
+   "headquarters": "유니언역",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aol",
+   "name": "AOL",
+   "qid": "Q27585",
+   "country": "미국",
+   "inception": "1983",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Marc Seriff",
+    "Steve Case",
+    "Jim Kimsey"
+   ],
+   "parent": "워너미디어",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "ajinomoto",
+   "name": "아지노모도",
+   "qid": "Q412826",
+   "country": "일본",
+   "inception": "1925",
+   "headquarters": "Ajinomoto Headquarters Building",
+   "founders": [
+    "이케다 기쿠나에"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "airbaltic",
+   "name": "에어발틱",
+   "qid": "Q300924",
+   "country": "라트비아",
+   "inception": "1995-02-08",
+   "headquarters": "Mārupe Parish",
+   "founders": [],
+   "parent": "Government of Latvia",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "myheritage",
+   "name": "MyHeritage",
+   "qid": "Q589757",
+   "country": "이스라엘",
+   "inception": "2003",
+   "headquarters": "오르예후다",
+   "founders": [
+    "Gilad Japhet"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "international-development-association",
+   "name": "국제 개발 협회",
+   "qid": "Q827525",
+   "country": "미국",
+   "inception": "1960",
+   "headquarters": "워싱턴 D.C.",
+   "founders": [],
+   "parent": "세계은행 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "canadian-broadcasting-corporation",
+   "name": "캐나다 방송 협회",
+   "qid": "Q461761",
+   "country": "캐나다",
+   "inception": "1936-11-02",
+   "headquarters": "오타와",
+   "founders": [],
+   "parent": "Department of Canadian Heritage",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aegean-airlines",
+   "name": "에게 항공",
+   "qid": "Q380580",
+   "country": "그리스",
+   "inception": "1987",
+   "headquarters": "키피시아",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "accenture",
+   "name": "액센츄어",
+   "qid": "Q338825",
+   "country": "아일랜드",
+   "inception": "2001-01-01",
+   "headquarters": "더블린",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "news-corporation",
+   "name": "뉴스 코퍼레이션",
+   "qid": "Q185278",
+   "country": "미국",
+   "inception": "1980",
+   "headquarters": "1211 Avenue of the Americas",
+   "founders": [
+    "루퍼트 머독"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "canonical-ltd",
+   "name": "캐노니컬",
+   "qid": "Q39064",
+   "country": "영국",
+   "inception": "2004-03-05",
+   "headquarters": "런던",
+   "founders": [
+    "마크 셔틀워스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "air-berlin",
+   "name": "에어 베를린",
+   "qid": "Q156829",
+   "country": "독일",
+   "inception": "1978",
+   "headquarters": "Charlottenburg-Nord",
+   "founders": [],
+   "parent": "에티하드 항공",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "united-states-centers-for-disease-control-and-prevention",
+   "name": "미국 질병통제예방센터",
+   "qid": "Q583725",
+   "country": "미국",
+   "inception": null,
+   "headquarters": "애틀랜타",
+   "founders": [],
+   "parent": "미국 보건복지부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "eurostar",
+   "name": "유로스타",
+   "qid": "Q156013",
+   "country": "영국",
+   "inception": "1994-11-14",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sveriges-television",
+   "name": "SVT",
+   "qid": "Q215363",
+   "country": "스웨덴",
+   "inception": "1934-09-17",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": "Foundation Management for SR, SVT, and UR",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kamaz",
+   "name": "카마스",
+   "qid": "Q30378",
+   "country": "러시아",
+   "inception": "1969",
+   "headquarters": "나베레즈니예첼니",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "airasia",
+   "name": "에어아시아",
+   "qid": "Q406643",
+   "country": "말레이시아",
+   "inception": "1993-12-20",
+   "headquarters": "쿠알라룸푸르 국제공항",
+   "founders": [],
+   "parent": "튠 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "aliexpress",
+   "name": "알리익스프레스",
+   "qid": "Q29904317",
+   "country": "중국",
+   "inception": null,
+   "headquarters": "항저우시",
+   "founders": [],
+   "parent": "알리바바 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kaspersky-lab",
+   "name": "카스퍼스키 랩",
+   "qid": "Q489943",
+   "country": "러시아",
+   "inception": "1997-06-26",
+   "headquarters": "모스크바",
+   "founders": [
+    "유진 카스퍼스키"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "id-software",
+   "name": "이드 소프트웨어",
+   "qid": "Q204474",
+   "country": "미국",
+   "inception": "1991-02-01",
+   "headquarters": "리처드슨",
+   "founders": [
+    "존 카맥",
+    "에이드리언 카맥",
+    "톰 홀",
+    "존 로메로"
+   ],
+   "parent": "제니맥스 미디어",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "smart",
+   "name": "스마트",
+   "qid": "Q156490",
+   "country": null,
+   "inception": "1994-02",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "converse",
+   "name": "컨버스",
+   "qid": "Q319515",
+   "country": "미국",
+   "inception": "1910",
+   "headquarters": "보스턴",
+   "founders": [
+    "Marquis Mills Converse"
+   ],
+   "parent": "나이키",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "haiku",
+   "name": "하이쿠",
+   "qid": "Q215448",
+   "country": null,
+   "inception": "2002",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lotus-cars",
+   "name": "로터스 자동차",
+   "qid": "Q35935",
+   "country": "영국",
+   "inception": "1952",
+   "headquarters": "Hethel",
+   "founders": [
+    "콜린 채프먼"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "maybach",
+   "name": "메르세데스-마이바흐",
+   "qid": "Q35989",
+   "country": "독일",
+   "inception": "1909",
+   "headquarters": "슈투트가르트",
+   "founders": [
+    "빌헬름 마이바흐"
+   ],
+   "parent": "메르세데스-벤츠",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hummer",
+   "name": "허머",
+   "qid": "Q213487",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "디트로이트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pringles",
+   "name": "프링글스",
+   "qid": "Q528187",
+   "country": "미국",
+   "inception": "1968",
+   "headquarters": "미국",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "byd-auto",
+   "name": "비야디 자동차",
+   "qid": "Q27423",
+   "country": "중국",
+   "inception": "2003-01-22",
+   "headquarters": "시안시",
+   "founders": [
+    "왕촨푸"
+   ],
+   "parent": "비야디",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hyundai",
+   "name": "현대",
+   "qid": "Q29311",
+   "country": "한국",
+   "inception": "1947",
+   "headquarters": "서울특별시",
+   "founders": [
+    "정주영"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "holiday-inn",
+   "name": "홀리데이 인",
+   "qid": "Q2717882",
+   "country": "미국",
+   "inception": "1952",
+   "headquarters": "덴햄",
+   "founders": [
+    "Kemmons Wilson"
+   ],
+   "parent": "인터콘티넨털 호텔스 그룹",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "gorilla-glass",
+   "name": "고릴라 글래스",
+   "qid": "Q268706",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "minitel",
+   "name": "미니텔",
+   "qid": "Q1133476",
+   "country": "프랑스",
+   "inception": "1978",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "edeka",
+   "name": "에데카",
+   "qid": "Q701755",
+   "country": "독일",
+   "inception": "1907-11-25",
+   "headquarters": "New-York-Ring 6 und 6a",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "neoplan",
+   "name": "네오플란",
+   "qid": "Q326013",
+   "country": "독일",
+   "inception": "1935",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": "만 트럭 & 버스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "hot-wheels",
+   "name": "핫 휠",
+   "qid": "Q585537",
+   "country": null,
+   "inception": "1968-05-18",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sun-records",
+   "name": "선 레코드",
+   "qid": "Q898618",
+   "country": "미국",
+   "inception": "1952",
+   "headquarters": "멤피스",
+   "founders": [
+    "샘 필립스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "papa-john-s",
+   "name": "파파존스",
+   "qid": "Q2759586",
+   "country": "미국",
+   "inception": "1984-10-02",
+   "headquarters": "루이빌",
+   "founders": [
+    "John Schnatter"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mbc-game",
+   "name": "MBC 게임",
+   "qid": "Q490687",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mystic-story",
+   "name": "미스틱스토리",
+   "qid": "Q15509774",
+   "country": "한국",
+   "inception": "2001",
+   "headquarters": "서울특별시",
+   "founders": [
+    "윤종신"
+   ],
+   "parent": "SM Studios",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "export-import-bank-of-korea",
+   "name": "한국수출입은행",
+   "qid": "Q4501812",
+   "country": "한국",
+   "inception": "1976",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대한민국 기획재정부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "studio-santa-claus-entertainment",
+   "name": "스튜디오 산타클로스엔터테인먼트",
+   "qid": "Q55736184",
+   "country": "한국",
+   "inception": "2014-08-12",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "samhwa-networks",
+   "name": "삼화네트웍스",
+   "qid": "Q17278268",
+   "country": "한국",
+   "inception": "1980",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "softmax",
+   "name": "세영D&C",
+   "qid": "Q482747",
+   "country": "한국",
+   "inception": "1994-10-28",
+   "headquarters": "대한민국",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "chorokbaem-media",
+   "name": "초록뱀미디어",
+   "qid": "Q12619374",
+   "country": "한국",
+   "inception": "2000",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "nol-universe",
+   "name": "놀유니버스",
+   "qid": "Q6045102",
+   "country": "한국",
+   "inception": "1996",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "camp-mobile",
+   "name": "캠프모바일",
+   "qid": "Q16176298",
+   "country": "한국",
+   "inception": "2013-03-01",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "taekwang-group",
+   "name": "태광그룹",
+   "qid": "Q7674768",
+   "country": "한국",
+   "inception": "1950",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "artist-company",
+   "name": "아티스트컴퍼니",
+   "qid": "Q43396567",
+   "country": "한국",
+   "inception": "2016",
+   "headquarters": "서울특별시",
+   "founders": [
+    "정우성",
+    "이정재"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "city-air-logistics-transportation",
+   "name": "한국도심공항",
+   "qid": "Q624367",
+   "country": "한국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "lg-cns",
+   "name": "LG CNS",
+   "qid": "Q10854619",
+   "country": "한국",
+   "inception": "1987-01-14",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "LG",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-inc",
+   "name": "SK",
+   "qid": "Q494136",
+   "country": "한국",
+   "inception": "1991",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "munhwa-ilbo",
+   "name": "문화일보",
+   "qid": "Q624791",
+   "country": "한국",
+   "inception": "1990",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kangwon-land",
+   "name": "강원랜드",
+   "qid": "Q12583025",
+   "country": "한국",
+   "inception": "1998-06-29",
+   "headquarters": "강원특별자치도",
+   "founders": [],
+   "parent": "산업통상자원부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "penta-security",
+   "name": "펜타시큐리티",
+   "qid": "Q5930964",
+   "country": "한국",
+   "inception": "1997-07",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "softcamp",
+   "name": "소프트캠프",
+   "qid": "Q16177018",
+   "country": "한국",
+   "inception": "1999",
+   "headquarters": "과천시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "neo-trans",
+   "name": "네오트랜스",
+   "qid": "Q13709959",
+   "country": "한국",
+   "inception": "2005",
+   "headquarters": "성남시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sk-energy",
+   "name": "SK에너지",
+   "qid": "Q4048790",
+   "country": "한국",
+   "inception": "1962",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "SK이노베이션",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "sr-corporation",
+   "name": "에스알",
+   "qid": "Q15615204",
+   "country": "한국",
+   "inception": "2013-12-27",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "대한민국 국토교통부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "josun-hotels-resorts",
+   "name": "조선호텔앤리조트",
+   "qid": "Q567458",
+   "country": "한국",
+   "inception": "1914-10",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-trade-investment-promotion-agency",
+   "name": "대한무역투자진흥공사",
+   "qid": "Q496116",
+   "country": "한국",
+   "inception": "1962",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "산업통상자원부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "kim-jong-hak-production",
+   "name": "김종학 프로덕션",
+   "qid": "Q12588703",
+   "country": "한국",
+   "inception": "1999-02",
+   "headquarters": "서울특별시",
+   "founders": [
+    "김종학"
+   ],
+   "parent": "소프트맥스",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "jeju-free-international-city-development-center",
+   "name": "제주국제자유도시개발센터",
+   "qid": "Q6176555",
+   "country": "한국",
+   "inception": "2002-05-15",
+   "headquarters": null,
+   "founders": [],
+   "parent": "대한민국 국토교통부",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "pelicana-chicken",
+   "name": "페리카나",
+   "qid": "Q17575847",
+   "country": "한국",
+   "inception": "1982-04-27",
+   "headquarters": "충청남도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "music-new",
+   "name": "뮤직앤뉴",
+   "qid": "Q17063045",
+   "country": "한국",
+   "inception": "2012",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "넥스트엔터테인먼트월드",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "stardom-entertainment",
+   "name": "스타덤 엔터테인먼트",
+   "qid": "Q618913",
+   "country": "한국",
+   "inception": "2009",
+   "headquarters": "독산동",
+   "founders": [
+    "조PD"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "korea-engineering-plastics",
+   "name": "한국엔지니어링플라스틱",
+   "qid": "Q1784311",
+   "country": "한국",
+   "inception": "1987",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "mbcgyeongnam",
+   "name": "MBC경남",
+   "qid": "Q3786074",
+   "country": "한국",
+   "inception": "2011-09-01",
+   "headquarters": "대한민국",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "seo-taiji-company",
+   "name": "서태지컴퍼니",
+   "qid": "Q7451487",
+   "country": "한국",
+   "inception": "2001",
+   "headquarters": null,
+   "founders": [
+    "서태지"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "cj-enm-commerce-division",
+   "name": "CJ온스타일",
+   "qid": "Q12580820",
+   "country": "한국",
+   "inception": "1994",
+   "headquarters": "방배동",
+   "founders": [
+    "CJ그룹"
+   ],
+   "parent": "CJ",
+   "fetchedAt": "2026-09-07"
+  },
+  {
+   "slug": "innocean-worldwide",
+   "name": "이노션",
+   "qid": "Q16175946",
+   "country": "한국",
+   "inception": "2005-05-17",
+   "headquarters": "서울특별시",
    "founders": [],
    "parent": null,
    "fetchedAt": "2026-09-07"

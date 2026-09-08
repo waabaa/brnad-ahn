@@ -91,15 +91,15 @@ ul,ol{margin:0;padding:0;list-style:none}
 .btn.ghost{background:#fff;color:var(--ink);border:1.5px solid var(--line-2)}.btn.ghost:hover{border-color:var(--ink)}
 
 /* ── 로고 타일 ────────────────────────────────────────────────── */
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
-.tiles.lg{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
-.tiles.sm{grid-template-columns:repeat(auto-fill,minmax(124px,1fr));gap:10px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(150px,100%),1fr));gap:12px}
+.tiles.lg{grid-template-columns:repeat(auto-fill,minmax(min(180px,100%),1fr));gap:14px}
+.tiles.sm{grid-template-columns:repeat(auto-fill,minmax(min(124px,100%),1fr));gap:10px}
 .tile{display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;transition:border-color var(--t),box-shadow var(--t),transform var(--t)}
 .tile:hover{border-color:var(--line-2);box-shadow:var(--shadow);transform:translateY(-2px)}
-.tile .art{aspect-ratio:4/3;display:grid;place-items:center;padding:16%;background:var(--tile);border-bottom:1px solid var(--line)}
-.tile .art img{width:100%;height:100%;object-fit:contain}
-.tile .art.photo{padding:0}.tile .art.photo img{object-fit:cover}
-.tile .art .brand-wordmark{padding:0;gap:6px}
+.tile .art{position:relative;aspect-ratio:4/3;display:block;background:var(--tile);border-bottom:1px solid var(--line);overflow:hidden}
+.tile .art img{position:absolute;inset:16%;width:68%;height:68%;object-fit:contain}
+.tile .art.photo img{inset:0;width:100%;height:100%;object-fit:cover}
+.tile .art .brand-wordmark{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
 .tile .txt{padding:10px 12px 12px;min-height:58px}
 .tile .txt b{display:block;font-size:14px;font-weight:700;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .tile .txt small{display:block;font-size:11.5px;color:var(--muted);line-height:1.4;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
@@ -123,13 +123,13 @@ ul,ol{margin:0;padding:0;list-style:none}
 .group h2{font-size:22px;display:flex;align-items:baseline;gap:10px;margin-bottom:16px}
 .group h2 small{font-size:13px;color:var(--faint);font-weight:500}
 .group h2 a:hover{color:var(--red)}
-.name-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:2px 18px}
+.name-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(230px,100%),1fr));gap:2px 18px}
 .name-list a{display:flex;align-items:center;gap:10px;padding:7px 4px;border-radius:6px;font-size:14.5px;line-height:1.4}
 .name-list a:hover{background:#fff}
 .name-list .mini{width:34px;height:26px;flex:none;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:4px;padding:3px}
 .name-list .mini.none{display:inline-block;background:var(--tile)}
 .name-list .en{font-size:12px}
-.name-list.with-desc{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:6px 18px}
+.name-list.with-desc{grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr));gap:6px 18px}
 .name-list.with-desc a{align-items:flex-start;padding:8px 4px}
 .name-list.with-desc .mini{margin-top:2px}
 .name-list .desc{display:block;font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:2px}
@@ -142,7 +142,7 @@ details.fold[open] summary::after{content:"–"}
 details.fold .name-list{padding:4px 0 18px}
 
 /* ── 카테고리 카드 ───────────────────────────────────────────── */
-.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(280px,100%),1fr));gap:14px}
 .cat-card{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--r-lg);padding:20px 20px 18px;transition:border-color var(--t),box-shadow var(--t),transform var(--t)}
 .cat-card:hover{border-color:var(--line-2);box-shadow:var(--shadow);transform:translateY(-2px)}
 .cat-card .head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
@@ -179,7 +179,7 @@ details.fold .name-list{padding:4px 0 18px}
 .today .card .chips a:hover{border-color:#fff}
 .today .card img{width:100%;height:100%;object-fit:cover;border-radius:12px;min-height:220px}
 .today .photo{padding:0;overflow:hidden}
-.recent{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.recent{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(250px,100%),1fr));gap:10px}
 .recent a{display:flex;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px;transition:border-color var(--t)}
 .recent a:hover{border-color:var(--ink)}
 .recent img,.recent .none{width:48px;height:40px;object-fit:contain;flex:none;background:var(--tile);border:1px solid var(--line);border-radius:6px;padding:4px}
@@ -204,7 +204,7 @@ details.fold .name-list{padding:4px 0 18px}
 .logo-panel.is-wordmark{padding:20px}
 .logo-panel .brand-wordmark .wordmark-initials{width:84px;height:84px;font-size:32px}
 .logo-panel .brand-wordmark strong{font-size:18px}
-.brand-body{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:40px;padding:36px 0 48px;align-items:start}
+.brand-body{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:40px;padding:36px var(--gutter) 48px;align-items:start}
 .brand-main>section{padding:0 0 34px;margin-bottom:34px;border-bottom:1px solid var(--line)}
 .brand-main>section:last-child{border-bottom:0;margin-bottom:0}
 .brand-main h2{font-size:clamp(20px,2.3vw,25px);margin-bottom:16px;line-height:1.35}
@@ -217,7 +217,7 @@ details.fold .name-list{padding:4px 0 18px}
 .quote-box .text-link{color:#fff;text-decoration-color:rgba(255,255,255,.4)}
 .text-link{font-weight:500;text-decoration:underline;text-decoration-color:rgba(229,37,43,.45);text-decoration-thickness:2px;text-underline-offset:4px}
 .text-link:hover{color:var(--red);text-decoration-color:var(--red)}
-.meta-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px 22px;margin:0}
+.meta-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr));gap:10px 22px;margin:0}
 .meta-list div{border-top:1px solid var(--line);padding:10px 0}
 .meta-list dt{font-size:12px;font-weight:600;color:var(--muted);margin-bottom:2px}
 .meta-list dd{margin:0;font-size:15px}
@@ -245,7 +245,7 @@ details.fold .name-list{padding:4px 0 18px}
 .timeline.autoflow .timeline-rail:hover{animation-play-state:paused}
 @keyframes timeline-flow{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media(prefers-reduced-motion:reduce){.timeline.autoflow .timeline-rail{animation:none;overflow-x:auto}}
-.logo-archive{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.logo-archive{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(160px,100%),1fr));gap:12px}
 .logo-archive article{border:1px solid var(--line);border-radius:var(--r);background:#fff;padding:14px;display:grid;grid-template-rows:120px auto auto;gap:4px}
 .logo-archive img{width:100%;height:100%;object-fit:contain;background:var(--tile);border-radius:6px;padding:12px}
 .logo-archive b{font-size:13.5px;margin-top:8px}
@@ -315,8 +315,8 @@ details.fold .name-list{padding:4px 0 18px}
   .brand-head .grid{grid-template-columns:1fr}
   .brand-head .grid .logo-panel{order:-1;max-width:220px;margin-bottom:6px}
   .aside{grid-template-columns:1fr}
-  .tiles{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}
-  .tiles.lg{grid-template-columns:repeat(auto-fill,minmax(140px,1fr))}
+  .tiles{grid-template-columns:repeat(auto-fill,minmax(min(130px,100%),1fr));gap:10px}
+  .tiles.lg{grid-template-columns:repeat(auto-fill,minmax(min(140px,100%),1fr))}
   .cat-card .logos{grid-template-columns:repeat(5,1fr)}
   .name-list{grid-template-columns:1fr}
   .site-footer .inner{grid-template-columns:1fr;gap:18px}

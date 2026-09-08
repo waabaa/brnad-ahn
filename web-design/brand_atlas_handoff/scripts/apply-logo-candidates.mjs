@@ -11,9 +11,11 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const DATA_PATH = path.join(ROOT, "data/brand-atlas.json");
-const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, "scratchpad/logo-cands/manifest.json"), "utf8"));
+const mfArg = process.argv.indexOf("--manifest");
+const MF = mfArg > -1 ? process.argv[mfArg + 1] : "scratchpad/logo-cands/manifest.json";
+const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, MF), "utf8"));
 const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
-const picks = process.argv.slice(2).map(s => s.split(":")).filter(x => x.length === 2);
+const picks = process.argv.slice(2).filter(a => /^[^-].*:\d+$/.test(a)).map(s => s.split(":")).filter(x => x.length === 2);
 if (!picks.length) { console.error("채택 목록이 없습니다: slug:n ..."); process.exit(1); }
 
 const bySlug = new Map(data.allBrands.map(b => [b.urlSlug || b.slug, b]));

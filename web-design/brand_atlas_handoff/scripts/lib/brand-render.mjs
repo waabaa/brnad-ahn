@@ -7,7 +7,7 @@
 import { esc, breadcrumbs } from "./page-shell.mjs";
 import { koreanName, latinName, displayName, headingMarkup, factRows, topicParticle, urlSlugOf, countryOf } from "./brand-seo.mjs";
 import { tiles, logoImg, assetHref } from "./markup.mjs";
-import { isDirectory, hasLogo } from "./archive.mjs";
+import { isDirectory, isNoindex, hasLogo } from "./archive.mjs";
 
 const COUNTRY_SLUG_REF = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
 
@@ -17,6 +17,28 @@ const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", dat
  * @param brand
  * @param ctx { sandbox, faq, dates, countryHubs:Set<slug>, related:Brand[] }
  */
+// 같은 항목이 여러 벌 들어온 레코드가 있다(예: "창업자: X; CEO: Y; 창업자: X").
+// 중복은 본문과 JSON-LD에 그대로 반복돼 저품질 신호가 되므로 렌더 단계에서 걷어낸다.
+// `키: 값` 목록일 때만 항목 단위로 다시 쪼갠다 — 산문은 콜론이 문장 부호라 건드리지 않는다.
+function dedupeSegments(text) {
+  const raw = String(text || "");
+  if (!raw.includes(";")) return raw;
+  let segs = raw.split(";").map(s => s.trim()).filter(Boolean);
+  const kv = segs.filter(s => /^[^:;]{1,18}\s*:/.test(s)).length >= Math.ceil(segs.length / 2);
+  if (kv) {
+    segs = segs.flatMap(s => s.split(/\s+(?=[^\s:;]{1,18}\s*:\s)/).map(x => x.trim()).filter(Boolean));
+  }
+  const seen = new Set();
+  const out = [];
+  for (const seg of segs) {
+    const key = seg.replace(/\s+/g, " ");
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(seg);
+  }
+  return out.join("; ");
+}
+
 export function renderBrandPage(brand, ctx) {
   const { sandbox, faq, countryHubs } = ctx;
   const P = "../";
@@ -40,7 +62,7 @@ export function renderBrandPage(brand, ctx) {
   ];
   const sections = [];
   for (const [id, title, cls, mode] of defs) {
-    const body = sectionBody(id);
+    const body = dedupeSegments(sectionBody(id));
     if (!body || !body.trim()) continue;
     let inner = "";
     if (mode === "quote") inner = `<div class="prose quote-box">${prose(body)}</div>`;
@@ -93,7 +115,14 @@ export function renderBrandPage(brand, ctx) {
   const factsHtml = rows.length ? `<div class="facts"><h2>브랜드 정보</h2><table><tbody>${rows.map(r => `<tr><th scope="row">${esc(r.label)}</th><td>${r.href ? `<a href="${r.external ? esc(r.href) : P + r.href}"${r.external ? ' rel="noopener" target="_blank"' : ""}>${esc(r.value)}</a>` : esc(r.value)}</td></tr>`).join("")}</tbody></table><p class="src">출처: ${[...new Set(rows.map(r => SOURCE_LABEL[r.source] || r.source))].join(" · ")}. 검증된 값만 표기하며 빈 칸은 채우지 않습니다.</p></div>` : "";
   const tocHtml = `<nav class="toc" aria-label="목차"><h2>목차</h2><ol>${[...sections, ...(related.length ? [{ id: "related", title: "함께 읽을 브랜드" }] : [])].map(s => `<li><a href="#${s.id}">${s.title.replace(/ — .*$/, "")}</a></li>`).join("")}</ol></nav>`;
 
-  const note = directory ? `<p class="directory-note">이 항목은 한글 표기와 로고가 아직 확인되지 않은 <b>디렉토리 등급</b> 자료입니다. 본문은 수록 자료를 그대로 옮긴 것이며 검색 색인에서는 제외됩니다.</p>` : "";
+  // 안내 문구는 실제 robots 값과 어긋나면 안 된다. 디렉토리 등급이어도 본문이 충실하면
+  // 색인 대상이므로(archive.mjs isNoindex), 색인 제외라고 적을 수 있는 것은 그 안에서도
+  // 본문이 얇은 항목뿐이다.
+  const note = directory
+    ? (isNoindex(brand)
+      ? `<p class="directory-note">이 항목은 한글 표기와 로고가 아직 확인되지 않은 <b>디렉토리 등급</b> 자료입니다. 본문은 수록 자료를 그대로 옮긴 것이며 검색 색인에서는 제외됩니다.</p>`
+      : `<p class="directory-note">이 항목은 한글 표기와 로고가 아직 확인되지 않은 <b>디렉토리 등급</b> 자료입니다. 본문은 수록 자료를 그대로 옮긴 것이며 목록과 홈에는 올리지 않습니다. 표기나 로고가 확인되면 자동으로 본 목록에 올라갑니다.</p>`)
+    : "";
 
   const body = `${head}<div class="wrap brand-body"><div class="brand-main" id="brandPage">${note}${sections.map(s => s.html).join("")}<!--related-->${relatedHtml}</div><aside class="aside">${factsHtml}${tocHtml}</aside></div>`;
   return body;

@@ -62,10 +62,17 @@
 |---|---|---|
 | `core` | 한글 표기 + 로고 + 본문 800자 이상 | 홈 "주요 브랜드"·허브 상단 타일 |
 | `standard` | 한글 표기 또는 로고 중 하나 이상 | 목록 노출 |
-| `directory` | 한글 표기 없음 **그리고** 로고 없음 | `noindex,follow`, 목록·홈·sitemap·llms 제외, `pages/directory.html`과 카테고리 하단 접힘 목록에서만 링크 |
+| `directory` | 한글 표기 없음 **그리고** 로고 없음 | 목록·홈·llms 제외, `pages/directory.html`과 카테고리 하단 접힘 목록에서만 링크 |
 
 한글 표기 없는 레코드 749건의 절반이 해외 음반사·지역 소매점 스크랩이었다. 삭제하지 않는 이유는
 URL이 이미 색인·301 그래프에 들어 있어서다. 로고나 한글 표기가 확인되면 자동으로 올라간다.
+
+**색인 제외는 등급이 아니라 본문 분량으로 가른다**(`isNoindex()` = `directory` 그리고 본문 800자 미만,
+2026-09-08). 등급은 목록·홈 노출을 정하는 기준이고, 그 안에서도 읽을 내용이 있는 페이지는 색인·sitemap에
+남긴다. 종전에는 등급만으로 `noindex`를 걸어, 이미 색인·301 그래프에 들어간 URL이 새 URL로 교체되지
+못했다 — 네이버 웹마스터 '리다이렉션된 페이지' 진단 108건 중 41건이 301 목적지가 `noindex`인 경우였다.
+226건 중 202건이 이 기준으로 색인에 복귀했다. **페이지 안내 문구는 실제 `robots` 값과 일치시킬 것**
+(`brand-render.mjs`가 `isNoindex`로 두 문구를 가른다).
 
 **외부 이미지는 핫링크하지 않는다.** `scripts/localize-external-assets.mjs`가 로고·대표 이미지·BI/CI를
 `images/logos|photos|bici/`로 내려받는다(namu.wiki는 봇 차단이라 불가 → 로고 없음 처리 후 공식 사이트에서
@@ -74,6 +81,28 @@ URL이 이미 색인·301 그래프에 들어 있어서다. 로고나 한글 표
 **Wikidata 팩트(`brand.wikidata`)**는 `scripts/enrich-wikidata-facts.mjs`가 entityLinks(QID 확정분)에서만
 P17·P571·P159·P112·P749·P154를 가져온다. `countryOf()`/`foundedYear()`는 definition 근거가 없을 때만 이
 값을 폴백으로 쓴다. 팩트 표(`factRows()`)는 값마다 출처를 남긴다.
+
+## 2-c. 신규 브랜드 수록 (2026-09-07)
+
+수록 후보는 `scripts/discover-wikidata-brands.mjs`가 Wikidata에서 찾고,
+`scripts/import-wikidata-brands.mjs`가 레코드로 만든다.
+
+**채택 조건**: ① 한국어 위키백과 문서가 있다(= 한글 표기가 실재한다) ② `P31/P279*`가 기업·브랜드·
+소매체인·상표 ③ 사람·대학·리그·행정구역·작품은 P31 차단 목록으로 배제 ④ 한국어 본문 500자 이상.
+
+**본문은 근거 밖으로 나가지 않는다.** 근거는 한국어 위키백과 문서 본문(앞 4,500자)과 Wikidata 팩트뿐이고,
+LLM은 그 근거를 사전 문체로 다시 쓰는 일만 한다. 생성문에 **근거에 없는 숫자가 하나라도 있으면 그 브랜드는
+수록하지 않는다**(`verifyText`). 격식체·추측 표현도 같은 기준으로 기각한다. 기각 사유는
+`reports/wikidata-brand-import.json`에 남는다.
+
+`entityLinks.source`는 `wikidata ko sitelink (import ...)`로 적는다 — 이 레코드는 그 개체에서 만들어졌으므로
+§2의 P856 일치 규칙(기존 레코드에 sameAs를 붙일 때의 규칙)과는 근거가 다르다는 뜻이다.
+
+LLM 호출은 배포 서버의 게이트웨이를 SSH 터널로 쓴다(`ssh -L 15055:127.0.0.1:5055`). 터널이 끊기면 전부
+"파싱 실패"로 기각되므로 워치독으로 유지한다. GPT 한도 초과 시 자동으로 Gemini로 넘어간다.
+
+**한글 표기 보강**은 `scripts/add-korean-labels.mjs` — QID가 확정된 레코드에 한해 Wikidata ko 레이블이나
+한국어 위키백과 문서 제목을 넣는다. 음차 생성은 금지(§1)이므로 근거가 없으면 비워 둔다.
 
 ## 3. 빌드·배포
 

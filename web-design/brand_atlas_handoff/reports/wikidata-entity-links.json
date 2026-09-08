@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-01T02:19:33.964Z",
+ "generatedAt": "2026-09-07T19:38:12.109Z",
  "method": "Wikidata SPARQL, P856 (official website) exact URL match; ambiguous QIDs dropped",
- "brandsWithOfficialWebsite": 606,
- "matched": 408,
- "withKoWikipedia": 272,
- "withEnWikipedia": 330,
- "rejected": 42,
+ "brandsWithOfficialWebsite": 956,
+ "matched": 690,
+ "withKoWikipedia": 549,
+ "withEnWikipedia": 591,
+ "rejected": 64,
  "rejectedEntries": [
   {
    "slug": "ducati",
@@ -27,7 +27,7 @@
   {
    "slug": "volvo",
    "name": "볼보",
-   "reason": "후보가 하나로 좁혀지지 않음",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
    "cands": [
     {
      "qid": "Q215293",
@@ -108,18 +108,6 @@
      "qid": "Q2517185",
      "labelEn": "Officina di Santa Maria Novella",
      "labelKo": null
-    }
-   ]
-  },
-  {
-   "slug": "est-e-lauder",
-   "name": "에스티 로더",
-   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
-   "cands": [
-    {
-     "qid": "Q285493",
-     "labelEn": "Estée Lauder",
-     "labelKo": "에스티 로더"
     }
    ]
   },
@@ -338,6 +326,23 @@
    ]
   },
   {
+   "slug": "hitejinro",
+   "name": "하이트진로",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q490435",
+     "labelEn": "Hite",
+     "labelKo": "하이트"
+    },
+    {
+     "qid": "Q494272",
+     "labelEn": "HiteJinro",
+     "labelKo": "하이트진로"
+    }
+   ]
+  },
+  {
    "slug": "samsung-sdi",
    "name": "삼성SDI",
    "reason": "레이블이 브랜드명과 일치하지 않음",
@@ -475,6 +480,30 @@
    ]
   },
   {
+   "slug": "muhak",
+   "name": "무학",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q16168484",
+     "labelEn": "MUHAK",
+     "labelKo": "무학"
+    }
+   ]
+  },
+  {
+   "slug": "hollys",
+   "name": "할리스",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q12624386",
+     "labelEn": "Hollys Coffee",
+     "labelKo": "할리스 커피"
+    }
+   ]
+  },
+  {
    "slug": "com2us-holdings",
    "name": "컴투스홀딩스",
    "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
@@ -543,6 +572,291 @@
      "qid": "Q137426861",
      "labelEn": null,
      "labelKo": "피스피스스튜디오"
+    }
+   ]
+  },
+  {
+   "slug": "hollys-coffee",
+   "name": "할리스커피",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q12624386",
+     "labelEn": "Hollys Coffee",
+     "labelKo": "할리스 커피"
+    }
+   ]
+  },
+  {
+   "slug": "gongsin-study-god",
+   "name": "공부의신",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q12584712",
+     "labelEn": "Gongsin dot com",
+     "labelKo": "공신 (웹사이트)"
+    }
+   ]
+  },
+  {
+   "slug": "muhak-2",
+   "name": "무학소주",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q16168484",
+     "labelEn": "MUHAK",
+     "labelKo": "무학"
+    }
+   ]
+  },
+  {
+   "slug": "hyungji",
+   "name": "형지",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q133310457",
+     "labelEn": null,
+     "labelKo": "패션그룹형지"
+    }
+   ]
+  },
+  {
+   "slug": "welcome-savings-bank",
+   "name": "웰컴저축은행",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q17401397",
+     "labelEn": null,
+     "labelKo": "웰컴저축은행"
+    }
+   ]
+  },
+  {
+   "slug": "book-11st",
+   "name": "도서11번가",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q12579938",
+     "labelEn": "11Street",
+     "labelKo": "11번가"
+    }
+   ]
+  },
+  {
+   "slug": "charmzone",
+   "name": "참존",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q22975041",
+     "labelEn": null,
+     "labelKo": "참존"
+    }
+   ]
+  },
+  {
+   "slug": "paramount-pictures",
+   "name": "파라마운트 픽처스",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q6593521",
+     "labelEn": "List of Paramount executives",
+     "labelKo": null
+    },
+    {
+     "qid": "Q76846862",
+     "labelEn": "Paramount Global",
+     "labelKo": "파라마운트 글로벌"
+    },
+    {
+     "qid": "Q135485147",
+     "labelEn": "Paramount Skydance",
+     "labelKo": "파라마운트 스카이댄스"
+    }
+   ]
+  },
+  {
+   "slug": "qr-code",
+   "name": "QR 코드",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q12203",
+     "labelEn": "QR code",
+     "labelKo": "QR 코드"
+    }
+   ]
+  },
+  {
+   "slug": "panasonic-holdings-corporation",
+   "name": "파나소닉 홀딩스",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q833266",
+     "labelEn": "Panasonic Corporation",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "abs-cbn-corporation",
+   "name": "ABS-CBN",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q2022113",
+     "labelEn": "ABS-CBN",
+     "labelKo": null
+    },
+    {
+     "qid": "Q287617",
+     "labelEn": "ABS-CBN Corporation",
+     "labelKo": "ABS-CBN"
+    }
+   ]
+  },
+  {
+   "slug": "gma-network-inc",
+   "name": "GMA 네트워크",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q15548065",
+     "labelEn": "GMA Network, Inc.",
+     "labelKo": "GMA 네트워크"
+    },
+    {
+     "qid": "Q399643",
+     "labelEn": "GMA Network",
+     "labelKo": "GMA 네트워크"
+    }
+   ]
+  },
+  {
+   "slug": "xinhua-news-agency",
+   "name": "신화통신사",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q11081577",
+     "labelEn": "Xinhuanet",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "volvo-cars",
+   "name": "볼보자동차",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q215293",
+     "labelEn": "Volvo Cars",
+     "labelKo": "볼보자동차"
+    },
+    {
+     "qid": "Q1621085",
+     "labelEn": "Volvo Halifax Assembly",
+     "labelKo": null
+    }
+   ]
+  },
+  {
+   "slug": "cj-enm-entertainment-division",
+   "name": "CJ E&M",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q10854462",
+     "labelEn": "CJ ENM Entertainment Division",
+     "labelKo": "CJ E&M"
+    }
+   ]
+  },
+  {
+   "slug": "hite",
+   "name": "하이트맥주 주식회사",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q490435",
+     "labelEn": "Hite",
+     "labelKo": "하이트"
+    },
+    {
+     "qid": "Q494272",
+     "labelEn": "HiteJinro",
+     "labelKo": "하이트진로"
+    }
+   ]
+  },
+  {
+   "slug": "beos",
+   "name": "BeOS",
+   "reason": "레이블이 브랜드명과 일치하지 않음",
+   "cands": [
+    {
+     "qid": "Q791615",
+     "labelEn": "Be Inc.",
+     "labelKo": "Be"
+    }
+   ]
+  },
+  {
+   "slug": "atari",
+   "name": "아타리",
+   "reason": "후보가 하나로 좁혀지지 않음",
+   "cands": [
+    {
+     "qid": "Q207922",
+     "labelEn": "Atari",
+     "labelKo": "아타리"
+    },
+    {
+     "qid": "Q527336",
+     "labelEn": "Atari, Inc.",
+     "labelKo": "아타리"
+    }
+   ]
+  },
+  {
+   "slug": "s-lcd",
+   "name": "S-LCD",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q16166104",
+     "labelEn": "Samsung Display",
+     "labelKo": "삼성디스플레이"
+    },
+    {
+     "qid": "Q489661",
+     "labelEn": "S-LCD",
+     "labelKo": "S-LCD"
+    }
+   ]
+  },
+  {
+   "slug": "samsung-display",
+   "name": "삼성디스플레이",
+   "reason": "조직·브랜드 개체가 아니거나 QID가 여러 브랜드에 공유됨",
+   "cands": [
+    {
+     "qid": "Q16166104",
+     "labelEn": "Samsung Display",
+     "labelKo": "삼성디스플레이"
+    },
+    {
+     "qid": "Q489661",
+     "labelEn": "S-LCD",
+     "labelKo": "S-LCD"
     }
    ]
   }
@@ -1033,6 +1347,17 @@
     "https://www.wikidata.org/wiki/Q185120",
     "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%84%B8%EB%A6%B0",
     "https://en.wikipedia.org/wiki/Vaseline"
+   ]
+  },
+  {
+   "slug": "est-e-lauder",
+   "name": "에스티 로더",
+   "qid": "Q141314252",
+   "officialWebsite": "https://www.esteelauder.com/",
+   "labelKo": null,
+   "labelEn": "Estée Lauder",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q141314252"
    ]
   },
   {
@@ -2528,6 +2853,18 @@
    ]
   },
   {
+   "slug": "chesky-records",
+   "name": "Chesky Records",
+   "qid": "Q127855",
+   "officialWebsite": "https://chesky.com",
+   "labelKo": null,
+   "labelEn": "Chesky Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q127855",
+    "https://en.wikipedia.org/wiki/Chesky_Records"
+   ]
+  },
+  {
    "slug": "coop-norge-sa",
    "name": "Coop Norge SA",
    "qid": "Q1618373",
@@ -2824,6 +3161,18 @@
    "sameAs": [
     "https://www.wikidata.org/wiki/Q3368657",
     "https://en.wikipedia.org/wiki/Pataugas"
+   ]
+  },
+  {
+   "slug": "pi-recordings",
+   "name": "Pi Recordings",
+   "qid": "Q547131",
+   "officialWebsite": "https://pirecordings.com",
+   "labelKo": null,
+   "labelEn": "Pi Recordings",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q547131",
+    "https://en.wikipedia.org/wiki/Pi_Recordings"
    ]
   },
   {
@@ -3660,6 +4009,84 @@
    ]
   },
   {
+   "slug": "open-ai",
+   "name": "오픈AI",
+   "qid": "Q21708200",
+   "officialWebsite": "https://openai.com/",
+   "labelKo": "오픈AI",
+   "labelEn": "OpenAI",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21708200",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88AI",
+    "https://en.wikipedia.org/wiki/OpenAI"
+   ]
+  },
+  {
+   "slug": "spotify",
+   "name": "스포티파이",
+   "qid": "Q689141",
+   "officialWebsite": "https://www.spotify.com",
+   "labelKo": "스포티파이",
+   "labelEn": "Spotify",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q689141",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Spotify"
+   ]
+  },
+  {
+   "slug": "pan-am",
+   "name": "팬아메리칸 월드 항공",
+   "qid": "Q8681",
+   "officialWebsite": "http://www.panam.org",
+   "labelKo": "팬아메리칸 월드 항공",
+   "labelEn": "Pan Am",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8681",
+    "https://ko.wikipedia.org/wiki/%ED%8C%AC%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EC%9B%94%EB%93%9C_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Pan_Am"
+   ]
+  },
+  {
+   "slug": "adobe",
+   "name": "어도비",
+   "qid": "Q11463",
+   "officialWebsite": "https://www.adobe.com/",
+   "labelKo": "어도비 시스템즈",
+   "labelEn": "Adobe",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11463",
+    "https://ko.wikipedia.org/wiki/%EC%96%B4%EB%8F%84%EB%B9%84_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Adobe_Inc."
+   ]
+  },
+  {
+   "slug": "dunkin",
+   "name": "던킨",
+   "qid": "Q847743",
+   "officialWebsite": "https://www.dunkindonuts.com/",
+   "labelKo": "던킨",
+   "labelEn": "Dunkin'",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q847743",
+    "https://ko.wikipedia.org/wiki/%EB%8D%98%ED%82%A8",
+    "https://en.wikipedia.org/wiki/Dunkin%27_Donuts"
+   ]
+  },
+  {
+   "slug": "shell",
+   "name": "로열 더치 쉘",
+   "qid": "Q154950",
+   "officialWebsite": "https://www.shell.com/",
+   "labelKo": "로열 더치 쉘",
+   "labelEn": "Shell",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q154950",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%97%B4_%EB%8D%94%EC%B9%98_%EC%89%98",
+    "https://en.wikipedia.org/wiki/Shell_plc"
+   ]
+  },
+  {
    "slug": "amorepacific",
    "name": "아모레퍼시픽",
    "qid": "Q18141920",
@@ -3887,19 +4314,6 @@
     "https://www.wikidata.org/wiki/Q12599539",
     "https://ko.wikipedia.org/wiki/%EB%B9%99%EA%B7%B8%EB%A0%88",
     "https://en.wikipedia.org/wiki/Binggrae"
-   ]
-  },
-  {
-   "slug": "hitejinro",
-   "name": "하이트진로",
-   "qid": "Q494272",
-   "officialWebsite": "https://www.hitejinro.com/",
-   "labelKo": "하이트진로",
-   "labelEn": "HiteJinro",
-   "sameAs": [
-    "https://www.wikidata.org/wiki/Q494272",
-    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%ED%8A%B8%EC%A7%84%EB%A1%9C",
-    "https://en.wikipedia.org/wiki/HiteJinro"
    ]
   },
   {
@@ -4212,7 +4626,7 @@
   },
   {
    "slug": "f-and-f",
-   "name": "F&F",
+   "name": "에프앤에프",
    "qid": "Q18998034",
    "officialWebsite": "https://www.fnf.co.kr/",
    "labelKo": "F&F",
@@ -4538,6 +4952,19 @@
    ]
   },
   {
+   "slug": "lotte-chemical",
+   "name": "롯데케미칼",
+   "qid": "Q12594201",
+   "officialWebsite": "https://www.lottechem.com/",
+   "labelKo": "롯데케미칼",
+   "labelEn": "Lotte Chemical",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12594201",
+    "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%EC%BC%80%EB%AF%B8%EC%B9%BC",
+    "https://en.wikipedia.org/wiki/Lotte_Chemical"
+   ]
+  },
+  {
    "slug": "hanwha-solutions",
    "name": "한화솔루션",
    "qid": "Q5651426",
@@ -4817,7 +5244,7 @@
    "labelEn": "T'way Airlines",
    "sameAs": [
     "https://www.wikidata.org/wiki/Q494775",
-    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0%ED%95%AD%EA%B3%B5",
+    "https://ko.wikipedia.org/wiki/%ED%8B%B0%EC%9B%A8%EC%9D%B4%ED%95%AD%EA%B3%B5",
     "https://en.wikipedia.org/wiki/T%27way_Air"
    ]
   },
@@ -5164,18 +5591,6 @@
    ]
   },
   {
-   "slug": "muhak",
-   "name": "무학",
-   "qid": "Q16168484",
-   "officialWebsite": "https://www.muhak.co.kr/",
-   "labelKo": "무학",
-   "labelEn": "MUHAK",
-   "sameAs": [
-    "https://www.wikidata.org/wiki/Q16168484",
-    "https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%99_(%EA%B8%B0%EC%97%85)"
-   ]
-  },
-  {
    "slug": "bohae",
    "name": "보해양조",
    "qid": "Q10985746",
@@ -5338,19 +5753,6 @@
    "sameAs": [
     "https://www.wikidata.org/wiki/Q16219674",
     "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A7%88%ED%8A%B824"
-   ]
-  },
-  {
-   "slug": "hollys",
-   "name": "할리스",
-   "qid": "Q12624386",
-   "officialWebsite": "https://www.hollys.co.kr/",
-   "labelKo": "할리스 커피",
-   "labelEn": "Hollys Coffee",
-   "sameAs": [
-    "https://www.wikidata.org/wiki/Q12624386",
-    "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%A6%AC%EC%8A%A4",
-    "https://en.wikipedia.org/wiki/Hollys"
    ]
   },
   {
@@ -5636,6 +6038,3558 @@
    "sameAs": [
     "https://www.wikidata.org/wiki/Q131187935",
     "https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B9%84%EC%8A%A4%EC%95%A4%EB%B9%8C%EB%9F%B0%EC%A6%88"
+   ]
+  },
+  {
+   "slug": "caffe-bene",
+   "name": "카페베네",
+   "qid": "Q5017149",
+   "officialWebsite": "https://www.caffebene.co.kr",
+   "labelKo": "카페베네",
+   "labelEn": "Caffe Bene",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5017149",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%ED%8E%98%EB%B2%A0%EB%84%A4",
+    "https://en.wikipedia.org/wiki/Caffe_Bene"
+   ]
+  },
+  {
+   "slug": "changbi-publishers",
+   "name": "창비",
+   "qid": "Q11273341",
+   "officialWebsite": "https://www.changbi.com",
+   "labelKo": "창비",
+   "labelEn": "Changbi Publishers",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11273341",
+    "https://ko.wikipedia.org/wiki/%EC%B0%BD%EB%B9%84"
+   ]
+  },
+  {
+   "slug": "sisa-in",
+   "name": "시사IN",
+   "qid": "Q12603938",
+   "officialWebsite": "https://www.sisain.co.kr",
+   "labelKo": "시사IN",
+   "labelEn": "Sisa IN",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12603938",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%82%ACIN",
+    "https://en.wikipedia.org/wiki/Sisain"
+   ]
+  },
+  {
+   "slug": "tada",
+   "name": "타다",
+   "qid": "Q65302095",
+   "officialWebsite": "https://tadatada.com",
+   "labelKo": "타다",
+   "labelEn": "TADA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q65302095",
+    "https://ko.wikipedia.org/wiki/%ED%83%80%EB%8B%A4_(%ED%94%8C%EB%9E%AB%ED%8F%BC)"
+   ]
+  },
+  {
+   "slug": "line-friends",
+   "name": "라인프렌즈",
+   "qid": "Q24859550",
+   "officialWebsite": "https://www.linefriends.com",
+   "labelKo": "라인프렌즈",
+   "labelEn": "Line Friends",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24859550",
+    "https://ko.wikipedia.org/wiki/IPX_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Line_Friends"
+   ]
+  },
+  {
+   "slug": "tom-n-toms",
+   "name": "탐앤탐스",
+   "qid": "Q18142418",
+   "officialWebsite": "https://www.tomntoms.com",
+   "labelKo": "탐앤탐스",
+   "labelEn": "Tom N Toms",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18142418",
+    "https://ko.wikipedia.org/wiki/%ED%83%90%EC%95%A4%ED%83%90%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Tom_N_Toms"
+   ]
+  },
+  {
+   "slug": "theventi",
+   "name": "더벤티",
+   "qid": "Q120998398",
+   "officialWebsite": "https://www.theventi.co.kr",
+   "labelKo": "더벤티",
+   "labelEn": "The Venti",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q120998398"
+   ]
+  },
+  {
+   "slug": "morning-glory",
+   "name": "모닝글로리",
+   "qid": "Q131379573",
+   "officialWebsite": "https://www.morningglory.co.kr",
+   "labelKo": "모닝 글로리",
+   "labelEn": "Morning Glory",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131379573"
+   ]
+  },
+  {
+   "slug": "dong-kook-pharmaceutical",
+   "name": "동국제약",
+   "qid": "Q61096839",
+   "officialWebsite": "https://www.dkpharm.co.kr",
+   "labelKo": "동국제약",
+   "labelEn": "Dongkook Pharmaceutical",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q61096839",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD"
+   ]
+  },
+  {
+   "slug": "apr",
+   "name": "에이피알",
+   "qid": "Q131187960",
+   "officialWebsite": "https://www.apr-in.com",
+   "labelKo": "에이피알",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131187960",
+    "https://ko.wikipedia.org/wiki/APR_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "iconix-entertainment",
+   "name": "아이코닉스",
+   "qid": "Q625654",
+   "officialWebsite": "https://www.iconix.co.kr",
+   "labelKo": "아이코닉스",
+   "labelEn": "Iconix Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q625654",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%BD%94%EB%8B%89%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Iconix_Entertainment"
+   ]
+  },
+  {
+   "slug": "hyundai-livart",
+   "name": "현대리바트",
+   "qid": "Q18531393",
+   "officialWebsite": "https://www.hyundailivart.co.kr",
+   "labelKo": "현대리바트",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18531393",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EB%A6%AC%EB%B0%94%ED%8A%B8"
+   ]
+  },
+  {
+   "slug": "boryung-medience",
+   "name": "보령메디앙스",
+   "qid": "Q19483834",
+   "officialWebsite": "https://www.medience.co.kr",
+   "labelKo": "보령메디앙스",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q19483834",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%94%94%EC%95%99%EC%8A%A4"
+   ]
+  },
+  {
+   "slug": "raemian",
+   "name": "래미안",
+   "qid": "Q7281980",
+   "officialWebsite": "https://www.raemian.co.kr",
+   "labelKo": "래미안",
+   "labelEn": "Raemian",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7281980",
+    "https://ko.wikipedia.org/wiki/%EB%9E%98%EB%AF%B8%EC%95%88",
+    "https://en.wikipedia.org/wiki/Raemian"
+   ]
+  },
+  {
+   "slug": "coreana-cosmetics",
+   "name": "코리아나화장품",
+   "qid": "Q130381170",
+   "officialWebsite": "https://www.coreana.com",
+   "labelKo": "코리아나화장품",
+   "labelEn": "Coreana Cosmetics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q130381170",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EB%82%98%ED%99%94%EC%9E%A5%ED%92%88"
+   ]
+  },
+  {
+   "slug": "daehan-flour-mills-gompyo",
+   "name": "대한제분곰표",
+   "qid": "Q16178354",
+   "officialWebsite": "https://www.dhflour.co.kr",
+   "labelKo": "대한제분",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16178354",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EC%A0%9C%EB%B6%84"
+   ]
+  },
+  {
+   "slug": "facebook",
+   "name": "페이스북",
+   "qid": "Q355",
+   "officialWebsite": "https://www.facebook.com",
+   "labelKo": "페이스북",
+   "labelEn": "Facebook",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q355",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81",
+    "https://en.wikipedia.org/wiki/Facebook"
+   ]
+  },
+  {
+   "slug": "google",
+   "name": "구글",
+   "qid": "Q95",
+   "officialWebsite": "https://about.google/",
+   "labelKo": "구글",
+   "labelEn": "Google",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q95",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80",
+    "https://en.wikipedia.org/wiki/Google"
+   ]
+  },
+  {
+   "slug": "volkswagen",
+   "name": "폭스바겐",
+   "qid": "Q246",
+   "officialWebsite": "https://www.vw.com/en.html",
+   "labelKo": "폭스바겐",
+   "labelEn": "Volkswagen",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q246",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90",
+    "https://en.wikipedia.org/wiki/Volkswagen"
+   ]
+  },
+  {
+   "slug": "telegram",
+   "name": "텔레그램",
+   "qid": "Q15616276",
+   "officialWebsite": "https://telegram.org",
+   "labelKo": "텔레그램",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15616276",
+    "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8",
+    "https://en.wikipedia.org/wiki/Telegram_(software)"
+   ]
+  },
+  {
+   "slug": "netflix",
+   "name": "넷플릭스",
+   "qid": "Q907311",
+   "officialWebsite": "https://www.netflix.com/",
+   "labelKo": "넷플릭스",
+   "labelEn": "Netflix",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q907311",
+    "https://ko.wikipedia.org/wiki/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Netflix"
+   ]
+  },
+  {
+   "slug": "the-walt-disney-company",
+   "name": "월트 디즈니 컴퍼니",
+   "qid": "Q7414",
+   "officialWebsite": "https://thewaltdisneycompany.com/",
+   "labelKo": "월트 디즈니 컴퍼니",
+   "labelEn": "The Walt Disney Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7414",
+    "https://ko.wikipedia.org/wiki/%EC%9B%94%ED%8A%B8_%EB%94%94%EC%A6%88%EB%8B%88_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/The_Walt_Disney_Company"
+   ]
+  },
+  {
+   "slug": "international-union-for-conservation-of-nature",
+   "name": "국제자연보전연맹",
+   "qid": "Q48268",
+   "officialWebsite": "https://iucn.org",
+   "labelKo": "국제자연보전연맹",
+   "labelEn": "International Union for Conservation of Nature",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q48268",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%97%B0%EB%B3%B4%EC%A0%84%EC%97%B0%EB%A7%B9",
+    "https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature"
+   ]
+  },
+  {
+   "slug": "spacex",
+   "name": "스페이스X",
+   "qid": "Q193701",
+   "officialWebsite": "https://spacex.com",
+   "labelKo": "스페이스X",
+   "labelEn": "SpaceX",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q193701",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4X",
+    "https://en.wikipedia.org/wiki/SpaceX"
+   ]
+  },
+  {
+   "slug": "sony-group",
+   "name": "소니그룹",
+   "qid": "Q41187",
+   "officialWebsite": "https://www.sony.com/en/",
+   "labelKo": "소니그룹",
+   "labelEn": "Sony Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q41187",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%8B%88%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Sony"
+   ]
+  },
+  {
+   "slug": "tesla",
+   "name": "테슬라",
+   "qid": "Q478214",
+   "officialWebsite": "https://www.tesla.com/",
+   "labelKo": "테슬라",
+   "labelEn": "Tesla",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q478214",
+    "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%AC%EB%9D%BC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Tesla,_Inc."
+   ]
+  },
+  {
+   "slug": "honda",
+   "name": "혼다",
+   "qid": "Q9584",
+   "officialWebsite": "https://global.honda",
+   "labelKo": "혼다 기연공업",
+   "labelEn": "Honda",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9584",
+    "https://ko.wikipedia.org/wiki/%ED%98%BC%EB%8B%A4",
+    "https://en.wikipedia.org/wiki/Honda"
+   ]
+  },
+  {
+   "slug": "lufthansa",
+   "name": "루프트한자",
+   "qid": "Q9325",
+   "officialWebsite": "https://lufthansa.com",
+   "labelKo": "루프트한자",
+   "labelEn": "Lufthansa",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9325",
+    "https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%94%84%ED%8A%B8%ED%95%9C%EC%9E%90",
+    "https://en.wikipedia.org/wiki/Lufthansa"
+   ]
+  },
+  {
+   "slug": "american-broadcasting-company",
+   "name": "American Broadcasting Company",
+   "qid": "Q169889",
+   "officialWebsite": "https://abc.com",
+   "labelKo": "미국 방송 회사",
+   "labelEn": "American Broadcasting Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q169889",
+    "https://ko.wikipedia.org/wiki/ABC_(%EB%AF%B8%EA%B5%AD%EC%9D%98_%EB%B0%A9%EC%86%A1%EC%82%AC)",
+    "https://en.wikipedia.org/wiki/American_Broadcasting_Company"
+   ]
+  },
+  {
+   "slug": "warner-bros-entertainment",
+   "name": "워너 브라더스",
+   "qid": "Q126399",
+   "officialWebsite": "https://www.warnerbros.com/",
+   "labelKo": "워너 브로스",
+   "labelEn": "Warner Bros. Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q126399",
+    "https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%84%88_%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Warner_Bros._Entertainment"
+   ]
+  },
+  {
+   "slug": "cbs",
+   "name": "CBS",
+   "qid": "Q43380",
+   "officialWebsite": "https://cbs.com",
+   "labelKo": "CBS",
+   "labelEn": "CBS",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q43380",
+    "https://ko.wikipedia.org/wiki/CBS_(%EB%AF%B8%EA%B5%AD%EC%9D%98_%EB%B0%A9%EC%86%A1%EC%82%AC)",
+    "https://en.wikipedia.org/wiki/CBS"
+   ]
+  },
+  {
+   "slug": "openstreetmap",
+   "name": "오픈스트리트맵",
+   "qid": "Q936",
+   "officialWebsite": "https://www.openstreetmap.org/",
+   "labelKo": "오픈스트리트맵",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q936",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A7%B5",
+    "https://en.wikipedia.org/wiki/OpenStreetMap"
+   ]
+  },
+  {
+   "slug": "huawei",
+   "name": "화웨이",
+   "qid": "Q160120",
+   "officialWebsite": "https://www.huawei.com/",
+   "labelKo": "화웨이",
+   "labelEn": "Huawei",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160120",
+    "https://ko.wikipedia.org/wiki/%ED%99%94%EC%9B%A8%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Huawei"
+   ]
+  },
+  {
+   "slug": "pixar",
+   "name": "픽사",
+   "qid": "Q127552",
+   "officialWebsite": "https://www.pixar.com/",
+   "labelKo": "픽사",
+   "labelEn": "Pixar",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q127552",
+    "https://ko.wikipedia.org/wiki/%ED%94%BD%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Pixar"
+   ]
+  },
+  {
+   "slug": "universal-pictures",
+   "name": "유니버설 픽처스",
+   "qid": "Q168383",
+   "officialWebsite": "http://universalpictures.com/",
+   "labelKo": "유니버설 스튜디오",
+   "labelEn": "Universal Pictures",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q168383",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EB%B2%84%EC%84%A4_%ED%94%BD%EC%B2%98%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Universal_Pictures"
+   ]
+  },
+  {
+   "slug": "yamaha-motor-company",
+   "name": "야마하 발동기",
+   "qid": "Q158888",
+   "officialWebsite": "https://global.yamaha-motor.com/",
+   "labelKo": "야마하 발동기",
+   "labelEn": "Yamaha Motor Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q158888",
+    "https://ko.wikipedia.org/wiki/%EC%95%BC%EB%A7%88%ED%95%98_%EB%B0%9C%EB%8F%99%EA%B8%B0",
+    "https://en.wikipedia.org/wiki/Yamaha_Motor_Company"
+   ]
+  },
+  {
+   "slug": "mac",
+   "name": "맥",
+   "qid": "Q75687",
+   "officialWebsite": "https://www.apple.com/mac/",
+   "labelKo": "매킨토시",
+   "labelEn": "Mac",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q75687",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A5_(%EC%BB%B4%ED%93%A8%ED%84%B0)",
+    "https://en.wikipedia.org/wiki/Mac_(computer)"
+   ]
+  },
+  {
+   "slug": "marvel-comics",
+   "name": "마블 코믹스",
+   "qid": "Q173496",
+   "officialWebsite": "https://www.marvel.com/",
+   "labelKo": "마블 코믹스",
+   "labelEn": "Marvel Comics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173496",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%B8%94_%EC%BD%94%EB%AF%B9%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Marvel_Comics"
+   ]
+  },
+  {
+   "slug": "ebay",
+   "name": "이베이",
+   "qid": "Q58024",
+   "officialWebsite": "https://www.ebay.com",
+   "labelKo": "이베이",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q58024",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/EBay"
+   ]
+  },
+  {
+   "slug": "wwe",
+   "name": "WWE",
+   "qid": "Q35339",
+   "officialWebsite": "https://www.wwe.com/",
+   "labelKo": "WWE",
+   "labelEn": "WWE",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35339",
+    "https://ko.wikipedia.org/wiki/WWE",
+    "https://en.wikipedia.org/wiki/WWE"
+   ]
+  },
+  {
+   "slug": "google-play",
+   "name": "구글 플레이",
+   "qid": "Q79576",
+   "officialWebsite": "https://play.google.com/",
+   "labelKo": "구글 플레이",
+   "labelEn": "Google Play",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q79576",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80_%ED%94%8C%EB%A0%88%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Google_Play"
+   ]
+  },
+  {
+   "slug": "barbie",
+   "name": "바비",
+   "qid": "Q167447",
+   "officialWebsite": "https://shop.mattel.com/pages/barbie",
+   "labelKo": "바비",
+   "labelEn": "Barbie",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q167447",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%B9%84",
+    "https://en.wikipedia.org/wiki/Barbie"
+   ]
+  },
+  {
+   "slug": "reuters",
+   "name": "로이터",
+   "qid": "Q130879",
+   "officialWebsite": "https://www.reuters.com/",
+   "labelKo": "로이터",
+   "labelEn": "Reuters",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q130879",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9D%B4%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Reuters"
+   ]
+  },
+  {
+   "slug": "general-motors",
+   "name": "제너럴 모터스",
+   "qid": "Q81965",
+   "officialWebsite": "https://www.gm.com/",
+   "labelKo": "제너럴 모터스",
+   "labelEn": "General Motors",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q81965",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%88%EB%9F%B4_%EB%AA%A8%ED%84%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/General_Motors"
+   ]
+  },
+  {
+   "slug": "nissan",
+   "name": "닛산 자동차",
+   "qid": "Q20165",
+   "officialWebsite": "https://www.nissan-global.com/",
+   "labelKo": "닛산 자동차",
+   "labelEn": "Nissan",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20165",
+    "https://ko.wikipedia.org/wiki/%EB%8B%9B%EC%82%B0_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Nissan"
+   ]
+  },
+  {
+   "slug": "biblioth-que-nationale-de-france",
+   "name": "프랑스 국립도서관",
+   "qid": "Q193563",
+   "officialWebsite": "https://www.bnf.fr/",
+   "labelKo": "프랑스 국립도서관",
+   "labelEn": "Bibliothèque nationale de France",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q193563",
+    "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%8A%A4_%EA%B5%AD%EB%A6%BD%EB%8F%84%EC%84%9C%EA%B4%80",
+    "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France"
+   ]
+  },
+  {
+   "slug": "european-central-bank",
+   "name": "유럽 중앙은행",
+   "qid": "Q8901",
+   "officialWebsite": "https://www.ecb.europa.eu",
+   "labelKo": "유럽 중앙은행",
+   "labelEn": "European Central Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8901",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%9F%BD_%EC%A4%91%EC%95%99%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/European_Central_Bank"
+   ]
+  },
+  {
+   "slug": "turkish-airlines",
+   "name": "터키항공",
+   "qid": "Q4548",
+   "officialWebsite": "https://www.turkishairlines.com/",
+   "labelKo": "터키항공",
+   "labelEn": "Turkish Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4548",
+    "https://ko.wikipedia.org/wiki/%ED%84%B0%ED%82%A4%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Turkish_Airlines"
+   ]
+  },
+  {
+   "slug": "royal-society",
+   "name": "왕립학회",
+   "qid": "Q123885",
+   "officialWebsite": "https://royalsociety.org",
+   "labelKo": "왕립학회",
+   "labelEn": "Royal Society",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q123885",
+    "https://ko.wikipedia.org/wiki/%EC%99%95%EB%A6%BD%ED%95%99%ED%9A%8C",
+    "https://en.wikipedia.org/wiki/Royal_Society"
+   ]
+  },
+  {
+   "slug": "opel",
+   "name": "오펠",
+   "qid": "Q40966",
+   "officialWebsite": "https://www.opel.com/",
+   "labelKo": "오펠",
+   "labelEn": "Opel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q40966",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%8E%A0",
+    "https://en.wikipedia.org/wiki/Opel"
+   ]
+  },
+  {
+   "slug": "fiat",
+   "name": "피아트",
+   "qid": "Q27597",
+   "officialWebsite": "https://www.fiat.com/",
+   "labelKo": "피아트",
+   "labelEn": "Fiat",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27597",
+    "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%95%84%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Fiat"
+   ]
+  },
+  {
+   "slug": "20th-century-studios",
+   "name": "20세기 스튜디오",
+   "qid": "Q434841",
+   "officialWebsite": "https://www.20thcenturystudios.com",
+   "labelKo": "20세기 폭스",
+   "labelEn": "20th Century Studios",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q434841",
+    "https://ko.wikipedia.org/wiki/20%EC%84%B8%EA%B8%B0_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+    "https://en.wikipedia.org/wiki/20th_Century_Studios"
+   ]
+  },
+  {
+   "slug": "xiaomi",
+   "name": "샤오미",
+   "qid": "Q1636958",
+   "officialWebsite": "https://www.mi.com/",
+   "labelKo": "샤오미 테크",
+   "labelEn": "Xiaomi",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1636958",
+    "https://ko.wikipedia.org/wiki/%EC%83%A4%EC%98%A4%EB%AF%B8",
+    "https://en.wikipedia.org/wiki/Xiaomi"
+   ]
+  },
+  {
+   "slug": "air-france",
+   "name": "에어 프랑스",
+   "qid": "Q131005",
+   "officialWebsite": "https://www.airfrance.com/",
+   "labelKo": "에어 프랑스",
+   "labelEn": "Air France",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131005",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%ED%94%84%EB%9E%91%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Air_France"
+   ]
+  },
+  {
+   "slug": "lamborghini",
+   "name": "람보르기니",
+   "qid": "Q35886",
+   "officialWebsite": "https://www.lamborghini.com/en-en",
+   "labelKo": "람보르기니",
+   "labelEn": "Lamborghini",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35886",
+    "https://ko.wikipedia.org/wiki/%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Lamborghini"
+   ]
+  },
+  {
+   "slug": "hbo",
+   "name": "HBO",
+   "qid": "Q23633",
+   "officialWebsite": "https://hbo.com",
+   "labelKo": "HBO",
+   "labelEn": "HBO",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q23633",
+    "https://ko.wikipedia.org/wiki/HBO",
+    "https://en.wikipedia.org/wiki/HBO"
+   ]
+  },
+  {
+   "slug": "chevrolet",
+   "name": "쉐보레",
+   "qid": "Q29570",
+   "officialWebsite": "https://www.chevrolet.com/",
+   "labelKo": "쉐보레",
+   "labelEn": "Chevrolet",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29570",
+    "https://ko.wikipedia.org/wiki/%EC%89%90%EB%B3%B4%EB%A0%88",
+    "https://en.wikipedia.org/wiki/Chevrolet"
+   ]
+  },
+  {
+   "slug": "hewlett-packard",
+   "name": "휴렛 팩커드",
+   "qid": "Q80978",
+   "officialWebsite": "https://www.hp.com/",
+   "labelKo": "휴렛 팩커드",
+   "labelEn": "Hewlett-Packard",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q80978",
+    "https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A0%9B_%ED%8C%A9%EC%BB%A4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Hewlett-Packard"
+   ]
+  },
+  {
+   "slug": "tv-azteca",
+   "name": "TV 아즈테카",
+   "qid": "Q1281055",
+   "officialWebsite": "http://www.tvazteca.com/",
+   "labelKo": "TV 아즈테카",
+   "labelEn": "TV Azteca",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1281055",
+    "https://ko.wikipedia.org/wiki/TV_%EC%95%84%EC%A6%88%ED%85%8C%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/TV_Azteca"
+   ]
+  },
+  {
+   "slug": "dc-comics",
+   "name": "DC 코믹스",
+   "qid": "Q2924461",
+   "officialWebsite": "https://www.dc.com/",
+   "labelKo": "DC 코믹스",
+   "labelEn": "DC Comics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2924461",
+    "https://ko.wikipedia.org/wiki/DC_%EC%BD%94%EB%AF%B9%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/DC_Comics"
+   ]
+  },
+  {
+   "slug": "meta-platforms",
+   "name": "메타 플랫폼스",
+   "qid": "Q380",
+   "officialWebsite": "https://www.meta.com/",
+   "labelKo": "메타",
+   "labelEn": "Meta Platforms",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q380",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Meta_Platforms"
+   ]
+  },
+  {
+   "slug": "heidelberg-university",
+   "name": "하이델베르크 대학교",
+   "qid": "Q151510",
+   "officialWebsite": "https://www.uni-heidelberg.de/",
+   "labelKo": "하이델베르크 루프레히트 카를 대학교",
+   "labelEn": "Heidelberg University",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q151510",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EB%8D%B8%EB%B2%A0%EB%A5%B4%ED%81%AC_%EB%8C%80%ED%95%99%EA%B5%90",
+    "https://en.wikipedia.org/wiki/Heidelberg_University"
+   ]
+  },
+  {
+   "slug": "international-civil-aviation-organization",
+   "name": "국제 민간 항공 기구",
+   "qid": "Q125761",
+   "officialWebsite": "https://icao.int",
+   "labelKo": "국제 민간 항공 기구",
+   "labelEn": "International Civil Aviation Organization",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q125761",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EB%AF%BC%EA%B0%84_%ED%95%AD%EA%B3%B5_%EA%B8%B0%EA%B5%AC",
+    "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization"
+   ]
+  },
+  {
+   "slug": "lenovo",
+   "name": "레노버",
+   "qid": "Q14799",
+   "officialWebsite": "https://www.lenovo.com/",
+   "labelKo": "레노버",
+   "labelEn": "Lenovo",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q14799",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%85%B8%EB%B2%84",
+    "https://en.wikipedia.org/wiki/Lenovo"
+   ]
+  },
+  {
+   "slug": "british-airways",
+   "name": "영국항공",
+   "qid": "Q8766",
+   "officialWebsite": "https://britishairways.com/",
+   "labelKo": "영국항공",
+   "labelEn": "British Airways",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8766",
+    "https://ko.wikipedia.org/wiki/%EC%98%81%EA%B5%AD%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/British_Airways"
+   ]
+  },
+  {
+   "slug": "deepseek",
+   "name": "딥시크",
+   "qid": "Q131577453",
+   "officialWebsite": "https://deepseek.com",
+   "labelKo": "DeepSeek",
+   "labelEn": "DeepSeek",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131577453",
+    "https://ko.wikipedia.org/wiki/%EB%94%A5%EC%8B%9C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/DeepSeek"
+   ]
+  },
+  {
+   "slug": "dell",
+   "name": "델",
+   "qid": "Q30873",
+   "officialWebsite": "https://www.dell.com/",
+   "labelKo": "델",
+   "labelEn": "Dell",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q30873",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B8",
+    "https://en.wikipedia.org/wiki/Dell"
+   ]
+  },
+  {
+   "slug": "humboldt-universit-t-zu-berlin",
+   "name": "베를린 훔볼트 대학교",
+   "qid": "Q152087",
+   "officialWebsite": "https://www.hu-berlin.de/",
+   "labelKo": "베를린 훔볼트 대학교",
+   "labelEn": "Humboldt-Universität zu Berlin",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q152087",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%BC%EB%A6%B0_%ED%9B%94%EB%B3%BC%ED%8A%B8_%EB%8C%80%ED%95%99%EA%B5%90",
+    "https://en.wikipedia.org/wiki/Humboldt_University_of_Berlin"
+   ]
+  },
+  {
+   "slug": "nvidia",
+   "name": "엔비디아",
+   "qid": "Q182477",
+   "officialWebsite": "https://www.nvidia.com/",
+   "labelKo": "엔비디아",
+   "labelEn": "Nvidia",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q182477",
+    "https://ko.wikipedia.org/wiki/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84",
+    "https://en.wikipedia.org/wiki/Nvidia"
+   ]
+  },
+  {
+   "slug": "united-airlines",
+   "name": "유나이티드 항공",
+   "qid": "Q174769",
+   "officialWebsite": "https://www.united.com/",
+   "labelKo": "유나이티드 항공",
+   "labelEn": "United Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q174769",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/United_Airlines"
+   ]
+  },
+  {
+   "slug": "billboard",
+   "name": "빌보드",
+   "qid": "Q485240",
+   "officialWebsite": "https://billboard.com",
+   "labelKo": "빌보드",
+   "labelEn": "Billboard",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q485240",
+    "https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%B3%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Billboard_(magazine)"
+   ]
+  },
+  {
+   "slug": "disneyland",
+   "name": "디즈니랜드",
+   "qid": "Q181185",
+   "officialWebsite": "https://disneyland.disney.go.com",
+   "labelKo": "디즈니랜드",
+   "labelEn": "Disneyland",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q181185",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%A6%88%EB%8B%88%EB%9E%9C%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Disneyland"
+   ]
+  },
+  {
+   "slug": "motorola",
+   "name": "모토로라",
+   "qid": "Q259011",
+   "officialWebsite": "http://www.motorola.com/",
+   "labelKo": "모토로라",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q259011",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%86%A0%EB%A1%9C%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Motorola"
+   ]
+  },
+  {
+   "slug": "amd",
+   "name": "AMD",
+   "qid": "Q128896",
+   "officialWebsite": "https://www.amd.com/",
+   "labelKo": "어드밴스트 마이크로 디바이시스",
+   "labelEn": "AMD",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q128896",
+    "https://ko.wikipedia.org/wiki/AMD",
+    "https://en.wikipedia.org/wiki/AMD"
+   ]
+  },
+  {
+   "slug": "burj-al-arab",
+   "name": "부르즈 알 아랍",
+   "qid": "Q62939",
+   "officialWebsite": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+   "labelKo": "부르즈 알 아랍",
+   "labelEn": "Burj al-Arab",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q62939",
+    "https://ko.wikipedia.org/wiki/%EB%B6%80%EB%A5%B4%EC%A6%88_%EC%95%8C_%EC%95%84%EB%9E%8D",
+    "https://en.wikipedia.org/wiki/Burj_Al_Arab"
+   ]
+  },
+  {
+   "slug": "oracle-corporation",
+   "name": "오라클",
+   "qid": "Q19900",
+   "officialWebsite": "https://www.oracle.com/",
+   "labelKo": "오라클",
+   "labelEn": "Oracle Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q19900",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9D%BC%ED%81%B4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Oracle_Corporation"
+   ]
+  },
+  {
+   "slug": "international-union-of-pure-and-applied-chemistry",
+   "name": "국제 순수·응용 화학 연합",
+   "qid": "Q33438",
+   "officialWebsite": "https://iupac.org/",
+   "labelKo": "국제 순수·응용 화학 연합",
+   "labelEn": "International Union of Pure and Applied Chemistry",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q33438",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EC%88%9C%EC%88%98%C2%B7%EC%9D%91%EC%9A%A9_%ED%99%94%ED%95%99_%EC%97%B0%ED%95%A9",
+    "https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry"
+   ]
+  },
+  {
+   "slug": "gazprom",
+   "name": "가스프롬",
+   "qid": "Q102673",
+   "officialWebsite": "https://www.gazprom.ru/",
+   "labelKo": "가스프롬",
+   "labelEn": "Gazprom",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q102673",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%8A%A4%ED%94%84%EB%A1%AC",
+    "https://en.wikipedia.org/wiki/Gazprom"
+   ]
+  },
+  {
+   "slug": "metro-goldwyn-mayer",
+   "name": "메트로 골드윈 메이어",
+   "qid": "Q179200",
+   "officialWebsite": "https://mgm.com/",
+   "labelKo": "메트로 골드윈 메이어",
+   "labelEn": "Metro-Goldwyn-Mayer",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q179200",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%ED%8A%B8%EB%A1%9C_%EA%B3%A8%EB%93%9C%EC%9C%88_%EB%A9%94%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer"
+   ]
+  },
+  {
+   "slug": "citro-n",
+   "name": "시트로엥",
+   "qid": "Q6746",
+   "officialWebsite": "https://citroen.com/",
+   "labelKo": "시트로엥",
+   "labelEn": "Citroën",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6746",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%8A%B8%EB%A1%9C%EC%97%A5",
+    "https://en.wikipedia.org/wiki/Citro%C3%ABn"
+   ]
+  },
+  {
+   "slug": "lg-group",
+   "name": "LG그룹",
+   "qid": "Q136778",
+   "officialWebsite": "https://lg.com/",
+   "labelKo": "LG",
+   "labelEn": "LG Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q136778",
+    "https://ko.wikipedia.org/wiki/LG%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/LG"
+   ]
+  },
+  {
+   "slug": "federal-reserve-system",
+   "name": "연방준비제도",
+   "qid": "Q53536",
+   "officialWebsite": "https://www.federalreserve.gov/",
+   "labelKo": "연방준비제도",
+   "labelEn": "Federal Reserve System",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q53536",
+    "https://ko.wikipedia.org/wiki/%EC%97%B0%EB%B0%A9%EC%A4%80%EB%B9%84%EC%A0%9C%EB%8F%84",
+    "https://en.wikipedia.org/wiki/Federal_Reserve"
+   ]
+  },
+  {
+   "slug": "alfa-romeo",
+   "name": "알파 로메오",
+   "qid": "Q26921",
+   "officialWebsite": "https://www.alfaromeo.com/",
+   "labelKo": "알파 로메오",
+   "labelEn": "Alfa Romeo",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26921",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EB%A1%9C%EB%A9%94%EC%98%A4",
+    "https://en.wikipedia.org/wiki/Alfa_Romeo"
+   ]
+  },
+  {
+   "slug": "toshiba",
+   "name": "도시바",
+   "qid": "Q49125",
+   "officialWebsite": "https://www.toshiba.com/",
+   "labelKo": "도시바",
+   "labelEn": "Toshiba",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q49125",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8B%9C%EB%B0%94",
+    "https://en.wikipedia.org/wiki/Toshiba"
+   ]
+  },
+  {
+   "slug": "university-of-geneva",
+   "name": "제네바 대학교",
+   "qid": "Q503473",
+   "officialWebsite": "https://www.unige.ch",
+   "labelKo": "제네바 대학교",
+   "labelEn": "University of Geneva",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q503473",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%A4%EB%B0%94_%EB%8C%80%ED%95%99%EA%B5%90",
+    "https://en.wikipedia.org/wiki/University_of_Geneva"
+   ]
+  },
+  {
+   "slug": "ryanair",
+   "name": "라이언에어",
+   "qid": "Q170614",
+   "officialWebsite": "https://www.ryanair.com/",
+   "labelKo": "라이언에어",
+   "labelEn": "Ryanair",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q170614",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%97%90%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Ryanair"
+   ]
+  },
+  {
+   "slug": "rotten-tomatoes",
+   "name": "로튼 토마토",
+   "qid": "Q105584",
+   "officialWebsite": "https://www.rottentomatoes.com/",
+   "labelKo": "로튼 토마토",
+   "labelEn": "Rotten Tomatoes",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q105584",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%8A%BC_%ED%86%A0%EB%A7%88%ED%86%A0",
+    "https://en.wikipedia.org/wiki/Rotten_Tomatoes"
+   ]
+  },
+  {
+   "slug": "bolshoi-theatre",
+   "name": "볼쇼이 극장",
+   "qid": "Q138908",
+   "officialWebsite": "https://bolshoi.ru/",
+   "labelKo": "볼쇼이 극장",
+   "labelEn": "Bolshoi Theatre",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q138908",
+    "https://ko.wikipedia.org/wiki/%EB%B3%BC%EC%87%BC%EC%9D%B4_%EA%B7%B9%EC%9E%A5",
+    "https://en.wikipedia.org/wiki/Bolshoi_Theatre"
+   ]
+  },
+  {
+   "slug": "valve-corporation",
+   "name": "밸브 코퍼레이션",
+   "qid": "Q193559",
+   "officialWebsite": "https://www.valvesoftware.com",
+   "labelKo": "밸브 코퍼레이션",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q193559",
+    "https://ko.wikipedia.org/wiki/%EB%B0%B8%EB%B8%8C_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/Valve_Corporation"
+   ]
+  },
+  {
+   "slug": "bank-of-england",
+   "name": "잉글랜드 은행",
+   "qid": "Q183231",
+   "officialWebsite": "https://www.bankofengland.co.uk/",
+   "labelKo": "잉글랜드 은행",
+   "labelEn": "Bank of England",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q183231",
+    "https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Bank_of_England"
+   ]
+  },
+  {
+   "slug": "roscosmos-state-corporation",
+   "name": "로스코스모스",
+   "qid": "Q190795",
+   "officialWebsite": "https://www.roscosmos.ru/",
+   "labelKo": "러시아 연방 우주국",
+   "labelEn": "Roscosmos State Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q190795",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%8A%A4%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Roscosmos"
+   ]
+  },
+  {
+   "slug": "delta-air-lines",
+   "name": "델타 항공",
+   "qid": "Q188920",
+   "officialWebsite": "https://www.delta.com/",
+   "labelKo": "델타 항공",
+   "labelEn": "Delta Air Lines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q188920",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B8%ED%83%80_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Delta_Air_Lines"
+   ]
+  },
+  {
+   "slug": "emirates",
+   "name": "에미레이트 항공",
+   "qid": "Q180432",
+   "officialWebsite": "https://www.emirates.com/",
+   "labelKo": "에미레이트 항공",
+   "labelEn": "Emirates",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q180432",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%AF%B8%EB%A0%88%EC%9D%B4%ED%8A%B8_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Emirates_(airline)"
+   ]
+  },
+  {
+   "slug": "virgin-atlantic",
+   "name": "버진 애틀랜틱",
+   "qid": "Q32277",
+   "officialWebsite": "https://www.virginatlantic.com/",
+   "labelKo": "버진 애틀랜틱",
+   "labelEn": "Virgin Atlantic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q32277",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EC%A7%84_%EC%95%A0%ED%8B%80%EB%9E%9C%ED%8B%B1",
+    "https://en.wikipedia.org/wiki/Virgin_Atlantic"
+   ]
+  },
+  {
+   "slug": "astrazeneca",
+   "name": "아스트라제네카",
+   "qid": "Q731938",
+   "officialWebsite": "http://www.astrazeneca.com/",
+   "labelKo": "아스트라제네카",
+   "labelEn": "AstraZeneca",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q731938",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%A0%9C%EB%84%A4%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/AstraZeneca"
+   ]
+  },
+  {
+   "slug": "berkshire-hathaway",
+   "name": "버크셔 해서웨이",
+   "qid": "Q217583",
+   "officialWebsite": "https://www.berkshirehathaway.com/",
+   "labelKo": "버크셔 해서웨이",
+   "labelEn": "Berkshire Hathaway",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q217583",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%ED%81%AC%EC%85%94_%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Berkshire_Hathaway"
+   ]
+  },
+  {
+   "slug": "alitalia",
+   "name": "알리탈리아",
+   "qid": "Q153975",
+   "officialWebsite": "http://www.alitalia.com",
+   "labelKo": "알리탈리아",
+   "labelEn": "Alitalia",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q153975",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A6%AC%ED%83%88%EB%A6%AC%EC%95%84",
+    "https://en.wikipedia.org/wiki/Alitalia"
+   ]
+  },
+  {
+   "slug": "air-new-zealand",
+   "name": "에어 뉴질랜드",
+   "qid": "Q204296",
+   "officialWebsite": "https://www.airnewzealand.com",
+   "labelKo": "에어 뉴질랜드",
+   "labelEn": "Air New Zealand",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q204296",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Air_New_Zealand"
+   ]
+  },
+  {
+   "slug": "china-eastern-airlines",
+   "name": "중국동방항공",
+   "qid": "Q291796",
+   "officialWebsite": "http://global.ceair.com",
+   "labelKo": "중국동방항공",
+   "labelEn": "China Eastern Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q291796",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EB%8F%99%EB%B0%A9%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/China_Eastern_Airlines"
+   ]
+  },
+  {
+   "slug": "european-bank-for-reconstruction-and-development",
+   "name": "유럽 부흥 개발 은행",
+   "qid": "Q488981",
+   "officialWebsite": "https://www.ebrd.com/",
+   "labelKo": "유럽 부흥 개발 은행",
+   "labelEn": "European Bank for Reconstruction and Development",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q488981",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%9F%BD_%EB%B6%80%ED%9D%A5_%EA%B0%9C%EB%B0%9C_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/European_Bank_for_Reconstruction_and_Development"
+   ]
+  },
+  {
+   "slug": "channel-one-russia",
+   "name": "페르비 카날",
+   "qid": "Q330067",
+   "officialWebsite": "https://www.1tv.ru",
+   "labelKo": "페르비 카날",
+   "labelEn": "Channel One Russia",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q330067",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A5%B4%EB%B9%84_%EC%B9%B4%EB%82%A0",
+    "https://en.wikipedia.org/wiki/Channel_One_(Russia)"
+   ]
+  },
+  {
+   "slug": "dodge",
+   "name": "닷지",
+   "qid": "Q27564",
+   "officialWebsite": "https://www.dodge.com/",
+   "labelKo": "닷지",
+   "labelEn": "Dodge",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27564",
+    "https://ko.wikipedia.org/wiki/%EB%8B%B7%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Dodge"
+   ]
+  },
+  {
+   "slug": "quora",
+   "name": "쿼라",
+   "qid": "Q51711",
+   "officialWebsite": "https://www.quora.com",
+   "labelKo": "쿼라",
+   "labelEn": "Quora",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q51711",
+    "https://ko.wikipedia.org/wiki/%EC%BF%BC%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Quora"
+   ]
+  },
+  {
+   "slug": "barclays",
+   "name": "바클리즈",
+   "qid": "Q245343",
+   "officialWebsite": "https://home.barclays/",
+   "labelKo": "바클레이스",
+   "labelEn": "Barclays",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q245343",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%ED%81%B4%EB%A6%AC%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Barclays"
+   ]
+  },
+  {
+   "slug": "tsmc",
+   "name": "TSMC",
+   "qid": "Q713418",
+   "officialWebsite": "https://www.tsmc.com/",
+   "labelKo": "TSMC",
+   "labelEn": "TSMC",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q713418",
+    "https://ko.wikipedia.org/wiki/TSMC",
+    "https://en.wikipedia.org/wiki/TSMC"
+   ]
+  },
+  {
+   "slug": "tass",
+   "name": "타스",
+   "qid": "Q223799",
+   "officialWebsite": "https://tass.ru/",
+   "labelKo": "타스",
+   "labelEn": "TASS",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q223799",
+    "https://ko.wikipedia.org/wiki/%ED%83%80%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/TASS"
+   ]
+  },
+  {
+   "slug": "university-of-florida",
+   "name": "플로리다 대학교",
+   "qid": "Q501758",
+   "officialWebsite": "https://www.ufl.edu/",
+   "labelKo": "플로리다 대학교",
+   "labelEn": "University of Florida",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q501758",
+    "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A1%9C%EB%A6%AC%EB%8B%A4_%EB%8C%80%ED%95%99%EA%B5%90",
+    "https://en.wikipedia.org/wiki/University_of_Florida"
+   ]
+  },
+  {
+   "slug": "national-academy-of-sciences",
+   "name": "미국국립과학원",
+   "qid": "Q270794",
+   "officialWebsite": "http://www.nasonline.org/",
+   "labelKo": "미국 과학 아카데미",
+   "labelEn": "National Academy of Sciences",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q270794",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EA%B5%AD%EB%A6%BD%EA%B3%BC%ED%95%99%EC%9B%90",
+    "https://en.wikipedia.org/wiki/National_Academy_of_Sciences"
+   ]
+  },
+  {
+   "slug": "the-black-label",
+   "name": "더블랙레이블",
+   "qid": "Q24866458",
+   "officialWebsite": "https://theblacklabel.com/",
+   "labelKo": "더블랙레이블",
+   "labelEn": "The Black Label",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24866458",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%B8%94%EB%9E%99%EB%A0%88%EC%9D%B4%EB%B8%94",
+    "https://en.wikipedia.org/wiki/The_Black_Label"
+   ]
+  },
+  {
+   "slug": "pandora-technogies",
+   "name": "팬택",
+   "qid": "Q493163",
+   "officialWebsite": "http://www.pantech.co.kr",
+   "labelKo": "팬택계열",
+   "labelEn": "Pandora Technogies",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493163",
+    "https://ko.wikipedia.org/wiki/%ED%8C%AC%ED%83%9D",
+    "https://en.wikipedia.org/wiki/Pantech"
+   ]
+  },
+  {
+   "slug": "mbk-entertainment",
+   "name": "MBK 엔터테인먼트",
+   "qid": "Q429296",
+   "officialWebsite": "http://mbk-ent.co.kr/",
+   "labelKo": "코어콘텐츠미디어",
+   "labelEn": "MBK Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q429296",
+    "https://ko.wikipedia.org/wiki/MBK_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/MBK_Entertainment"
+   ]
+  },
+  {
+   "slug": "kumon",
+   "name": "구몬교육연구회",
+   "qid": "Q142054",
+   "officialWebsite": "https://www.kumon.org",
+   "labelKo": "구몬학습",
+   "labelEn": "Kumon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q142054",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AA%AC%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%ED%9A%8C",
+    "https://en.wikipedia.org/wiki/Kumon"
+   ]
+  },
+  {
+   "slug": "hanwha-group",
+   "name": "한화그룹",
+   "qid": "Q489202",
+   "officialWebsite": "http://www.hanwha.com/",
+   "labelKo": "한화그룹",
+   "labelEn": "Hanwha Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489202",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Hanwha_Group"
+   ]
+  },
+  {
+   "slug": "hanjin-shipping",
+   "name": "한진해운",
+   "qid": "Q494904",
+   "officialWebsite": "http://www.hanjin.com/",
+   "labelKo": "한진해운",
+   "labelEn": "Hanjin Shipping",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494904",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A7%84%ED%95%B4%EC%9A%B4",
+    "https://en.wikipedia.org/wiki/Hanjin_Shipping"
+   ]
+  },
+  {
+   "slug": "hanjin",
+   "name": "한진그룹",
+   "qid": "Q483274",
+   "officialWebsite": "http://www.hanjin.co.kr",
+   "labelKo": "한진그룹",
+   "labelEn": "Hanjin",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483274",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EC%A7%84%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Hanjin"
+   ]
+  },
+  {
+   "slug": "samyang-optics",
+   "name": "LK삼양",
+   "qid": "Q1149165",
+   "officialWebsite": "https://www.lksamyang.com/ko/index.php",
+   "labelKo": "삼양옵틱스",
+   "labelEn": "Samyang Optics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1149165",
+    "https://ko.wikipedia.org/wiki/LK%EC%82%BC%EC%96%91",
+    "https://en.wikipedia.org/wiki/LK_Samyang"
+   ]
+  },
+  {
+   "slug": "lg-display",
+   "name": "LG디스플레이",
+   "qid": "Q483006",
+   "officialWebsite": "http://www.lgdisplay.com/",
+   "labelKo": "LG디스플레이",
+   "labelEn": "LG Display",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483006",
+    "https://ko.wikipedia.org/wiki/LG%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/LG_Display"
+   ]
+  },
+  {
+   "slug": "eastar-jet",
+   "name": "이스타항공",
+   "qid": "Q489392",
+   "officialWebsite": "https://main.eastarjet.com",
+   "labelKo": "이스타항공",
+   "labelEn": "Eastar Jet",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489392",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%ED%83%80%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Eastar_Jet"
+   ]
+  },
+  {
+   "slug": "korea-electric-power-corporation",
+   "name": "한국전력공사",
+   "qid": "Q486737",
+   "officialWebsite": "http://home.kepco.co.kr/kepco/EN/main.do",
+   "labelKo": "한국전력공사",
+   "labelEn": "Korea Electric Power Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q486737",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%A0%84%EB%A0%A5%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Korea_Electric_Power_Corporation"
+   ]
+  },
+  {
+   "slug": "cowon-systems",
+   "name": "코원시스템",
+   "qid": "Q311636",
+   "officialWebsite": "http://www.cowonglobal.com/",
+   "labelKo": "코원시스템",
+   "labelEn": "Cowon Systems",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q311636",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%9B%90%EC%8B%9C%EC%8A%A4%ED%85%9C",
+    "https://en.wikipedia.org/wiki/Cowon"
+   ]
+  },
+  {
+   "slug": "qcells",
+   "name": "한화솔라원",
+   "qid": "Q265176",
+   "officialWebsite": "https://qcells.com/",
+   "labelKo": "한화솔라원",
+   "labelEn": "Qcells",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q265176",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%ED%99%94%EC%86%94%EB%9D%BC%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Qcells"
+   ]
+  },
+  {
+   "slug": "stx-corporation",
+   "name": "STX",
+   "qid": "Q489238",
+   "officialWebsite": "https://www.stx.co.kr",
+   "labelKo": "STX기업",
+   "labelEn": "STX Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489238",
+    "https://ko.wikipedia.org/wiki/STX_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/STX_Corporation"
+   ]
+  },
+  {
+   "slug": "asia-motors",
+   "name": "아시아자동차공업",
+   "qid": "Q484849",
+   "officialWebsite": "http://asia.co.kr",
+   "labelKo": "아시아자동차공업",
+   "labelEn": "Asia Motors",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484849",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8B%9C%EC%95%84%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/Asia_Motors"
+   ]
+  },
+  {
+   "slug": "fantagio",
+   "name": "판타지오",
+   "qid": "Q13424955",
+   "officialWebsite": "http://www.fantagio.kr/",
+   "labelKo": "판타지오",
+   "labelEn": "Fantagio",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13424955",
+    "https://ko.wikipedia.org/wiki/%ED%8C%90%ED%83%80%EC%A7%80%EC%98%A4",
+    "https://en.wikipedia.org/wiki/Fantagio"
+   ]
+  },
+  {
+   "slug": "kr-motors",
+   "name": "KR모터스",
+   "qid": "Q483190",
+   "officialWebsite": "http://www.krmotors.com/",
+   "labelKo": "KR모터스",
+   "labelEn": "KR Motors",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483190",
+    "https://ko.wikipedia.org/wiki/KR%EB%AA%A8%ED%84%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/KR_Motors"
+   ]
+  },
+  {
+   "slug": "hyundai-steel",
+   "name": "현대제철",
+   "qid": "Q6502960",
+   "officialWebsite": "http://www.hyundai-steel.com/",
+   "labelKo": "현대제철",
+   "labelEn": "Hyundai Steel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6502960",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%A0%9C%EC%B2%A0",
+    "https://en.wikipedia.org/wiki/Hyundai_Steel"
+   ]
+  },
+  {
+   "slug": "zalman",
+   "name": "잘만테크",
+   "qid": "Q145156",
+   "officialWebsite": "https://www.zalman.com/",
+   "labelKo": "잘만테크",
+   "labelEn": "Zalman",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q145156",
+    "https://ko.wikipedia.org/wiki/%EC%9E%98%EB%A7%8C%ED%85%8C%ED%81%AC"
+   ]
+  },
+  {
+   "slug": "shinhan-bank",
+   "name": "신한은행",
+   "qid": "Q487230",
+   "officialWebsite": "https://www.shinhan.com/",
+   "labelKo": "신한은행",
+   "labelEn": "Shinhan Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q487230",
+    "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Shinhan_Bank"
+   ]
+  },
+  {
+   "slug": "tving",
+   "name": "티빙",
+   "qid": "Q12621401",
+   "officialWebsite": "http://www.tving.com",
+   "labelKo": "티빙",
+   "labelEn": "TVING",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12621401",
+    "https://ko.wikipedia.org/wiki/TVING",
+    "https://en.wikipedia.org/wiki/TVING"
+   ]
+  },
+  {
+   "slug": "kt-genie-music",
+   "name": "KT지니뮤직",
+   "qid": "Q20943680",
+   "officialWebsite": "http://www.geniemusic.co.kr/",
+   "labelKo": "지니뮤직",
+   "labelEn": "KT Genie Music",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20943680",
+    "https://ko.wikipedia.org/wiki/KT%EC%A7%80%EB%8B%88%EB%AE%A4%EC%A7%81",
+    "https://en.wikipedia.org/wiki/KT_Genie_Music"
+   ]
+  },
+  {
+   "slug": "cj-cheil-jedang",
+   "name": "CJ제일제당",
+   "qid": "Q6451272",
+   "officialWebsite": "http://www.cj.co.kr/",
+   "labelKo": "CJ제일제당",
+   "labelEn": "CJ Cheil Jedang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6451272",
+    "https://ko.wikipedia.org/wiki/CJ%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/CJ_CheilJedang"
+   ]
+  },
+  {
+   "slug": "gs-group",
+   "name": "GS그룹",
+   "qid": "Q489198",
+   "officialWebsite": "http://www.gsholdings.com/eng/",
+   "labelKo": "GS그룹",
+   "labelEn": "GS Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489198",
+    "https://ko.wikipedia.org/wiki/GS%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/GS_Group"
+   ]
+  },
+  {
+   "slug": "korea-gas-corporation",
+   "name": "한국가스공사",
+   "qid": "Q491489",
+   "officialWebsite": "http://www.kogas.or.kr",
+   "labelKo": "한국가스공사",
+   "labelEn": "Korea Gas Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q491489",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B0%80%EC%8A%A4%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Korea_Gas_Corporation"
+   ]
+  },
+  {
+   "slug": "yonhap-television-news",
+   "name": "YTN",
+   "qid": "Q487590",
+   "officialWebsite": "https://ytn.co.kr/",
+   "labelKo": "YTN",
+   "labelEn": "Yonhap Television News",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q487590",
+    "https://ko.wikipedia.org/wiki/YTN",
+    "https://en.wikipedia.org/wiki/YTN"
+   ]
+  },
+  {
+   "slug": "buldak-ramen",
+   "name": "불닭볶음면",
+   "qid": "Q16726460",
+   "officialWebsite": "http://www.samyangfoods.com/eng/brand/spicyRamen.do",
+   "labelKo": "불닭볶음면",
+   "labelEn": "Buldak Ramen",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16726460",
+    "https://ko.wikipedia.org/wiki/%EB%B6%88%EB%8B%AD%EB%B3%B6%EC%9D%8C%EB%A9%B4",
+    "https://en.wikipedia.org/wiki/Buldak_Ramen"
+   ]
+  },
+  {
+   "slug": "c-jes-studios",
+   "name": "씨제스 스튜디오",
+   "qid": "Q5005884",
+   "officialWebsite": "http://c-jes.com/",
+   "labelKo": "씨제스엔터테인먼트",
+   "labelEn": "C-JeS Studios",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5005884",
+    "https://ko.wikipedia.org/wiki/%EC%94%A8%EC%A0%9C%EC%8A%A4_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+    "https://en.wikipedia.org/wiki/C-JeS_Studios"
+   ]
+  },
+  {
+   "slug": "samsung-engineering",
+   "name": "삼성E&A",
+   "qid": "Q2998661",
+   "officialWebsite": "http://www.samsungengineering.com",
+   "labelKo": "삼성엔지니어링",
+   "labelEn": "Samsung Engineering",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2998661",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1E%26A",
+    "https://en.wikipedia.org/wiki/Samsung_E%26A"
+   ]
+  },
+  {
+   "slug": "korea-post",
+   "name": "우정사업본부",
+   "qid": "Q483280",
+   "officialWebsite": "http://www.koreapost.go.kr/",
+   "labelKo": "우정사업본부",
+   "labelEn": "Korea Post",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483280",
+    "https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A0%95%EC%82%AC%EC%97%85%EB%B3%B8%EB%B6%80",
+    "https://en.wikipedia.org/wiki/Korea_Post"
+   ]
+  },
+  {
+   "slug": "hj-shipbuilding-construction",
+   "name": "HJ중공업",
+   "qid": "Q489195",
+   "officialWebsite": "https://www.hjsc.co.kr/",
+   "labelKo": "HJ중공업",
+   "labelEn": "HJ Shipbuilding & Construction",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489195",
+    "https://ko.wikipedia.org/wiki/HJ%EC%A4%91%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/HJ_Shipbuilding_%26_Construction"
+   ]
+  },
+  {
+   "slug": "winia-electronics",
+   "name": "위니아전자",
+   "qid": "Q496538",
+   "officialWebsite": "https://www.winia-elec.com/english/index.asp",
+   "labelKo": "위니아전자",
+   "labelEn": "Winia Electronics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q496538",
+    "https://ko.wikipedia.org/wiki/%EC%9C%84%EB%8B%88%EC%95%84%EC%A0%84%EC%9E%90",
+    "https://en.wikipedia.org/wiki/Winia_Electronics"
+   ]
+  },
+  {
+   "slug": "lig-defense-aerospace",
+   "name": "LIG 디펜스&에어로스페이스",
+   "qid": "Q6458668",
+   "officialWebsite": "https://www.lignex1.com/web/kor/main.do",
+   "labelKo": "LIG 디펜스&에어로스페이스",
+   "labelEn": "LIG Defense&Aerospace",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6458668",
+    "https://ko.wikipedia.org/wiki/LIG_%EB%94%94%ED%8E%9C%EC%8A%A4%26%EC%97%90%EC%96%B4%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/LIG_Defense_%26_Aerospace"
+   ]
+  },
+  {
+   "slug": "yongin-daejanggeum-park",
+   "name": "용인대장금파크",
+   "qid": "Q15622253",
+   "officialWebsite": "http://withmbc.imbc.com/dramia/",
+   "labelKo": "MBC 드라미아",
+   "labelEn": "Yongin Daejanggeum Park",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15622253",
+    "https://ko.wikipedia.org/wiki/%EC%9A%A9%EC%9D%B8%EB%8C%80%EC%9E%A5%EA%B8%88%ED%8C%8C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Yongin_Daejanggeum_Park"
+   ]
+  },
+  {
+   "slug": "korea-development-bank",
+   "name": "한국산업은행",
+   "qid": "Q4409074",
+   "officialWebsite": "https://www.kdb.co.kr/",
+   "labelKo": "한국산업은행",
+   "labelEn": "Korea Development Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4409074",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Korea_Development_Bank"
+   ]
+  },
+  {
+   "slug": "samick",
+   "name": "삼익악기",
+   "qid": "Q489208",
+   "officialWebsite": "http://samick.co.kr/",
+   "labelKo": "삼익악기",
+   "labelEn": "Samick",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489208",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%9D%B5%EC%95%85%EA%B8%B0",
+    "https://en.wikipedia.org/wiki/Samick"
+   ]
+  },
+  {
+   "slug": "p-nation",
+   "name": "P NATION",
+   "qid": "Q61410007",
+   "officialWebsite": "https://www.pnation.com/",
+   "labelKo": "P NATION",
+   "labelEn": "P Nation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q61410007",
+    "https://ko.wikipedia.org/wiki/P_NATION",
+    "https://en.wikipedia.org/wiki/P_Nation"
+   ]
+  },
+  {
+   "slug": "aomg",
+   "name": "AOMG",
+   "qid": "Q16164774",
+   "officialWebsite": "http://www.aomgofficial.com/",
+   "labelKo": "AOMG",
+   "labelEn": "AOMG",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16164774",
+    "https://ko.wikipedia.org/wiki/AOMG",
+    "https://en.wikipedia.org/wiki/AOMG"
+   ]
+  },
+  {
+   "slug": "air-incheon",
+   "name": "에어제타",
+   "qid": "Q11289522",
+   "officialWebsite": "http://www.air-incheon.com/en/",
+   "labelKo": "에어인천",
+   "labelEn": "Air Incheon",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11289522",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EC%A0%9C%ED%83%80",
+    "https://en.wikipedia.org/wiki/AirZeta"
+   ]
+  },
+  {
+   "slug": "cj-enm-films-television",
+   "name": "CJ엔터테인먼트",
+   "qid": "Q5012265",
+   "officialWebsite": "http://www.cjent.co.kr/",
+   "labelKo": "CJ엔터테인먼트",
+   "labelEn": "CJ ENM Films & Television",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5012265",
+    "https://ko.wikipedia.org/wiki/CJ%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/CJ_ENM_Films_%26_Television"
+   ]
+  },
+  {
+   "slug": "studio-mir",
+   "name": "스튜디오 미르",
+   "qid": "Q7628201",
+   "officialWebsite": "http://www.studiomir.co.kr/",
+   "labelKo": "스튜디오 미르",
+   "labelEn": "Studio Mir",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7628201",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EB%AF%B8%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Studio_Mir"
+   ]
+  },
+  {
+   "slug": "estsoft",
+   "name": "이스트소프트",
+   "qid": "Q488993",
+   "officialWebsite": "https://www.estsoft.com",
+   "labelKo": "이스트소프트",
+   "labelEn": "ESTsoft",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q488993",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%ED%8A%B8%EC%86%8C%ED%94%84%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/ESTsoft"
+   ]
+  },
+  {
+   "slug": "korea-hydro-nuclear-power",
+   "name": "한국수력원자력",
+   "qid": "Q6431646",
+   "officialWebsite": "http://www.khnp.co.kr/",
+   "labelKo": "한국수력원자력",
+   "labelEn": "Korea Hydro & Nuclear Power",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6431646",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%88%98%EB%A0%A5%EC%9B%90%EC%9E%90%EB%A0%A5",
+    "https://en.wikipedia.org/wiki/Korea_Hydro_%26_Nuclear_Power"
+   ]
+  },
+  {
+   "slug": "busan-cinema-center",
+   "name": "영화의전당",
+   "qid": "Q14020347",
+   "officialWebsite": "http://www.dureraum.org/english/Main.html",
+   "labelKo": "영화의전당",
+   "labelEn": "Busan Cinema Center",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q14020347",
+    "https://ko.wikipedia.org/wiki/%EC%98%81%ED%99%94%EC%9D%98%EC%A0%84%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Busan_Cinema_Center"
+   ]
+  },
+  {
+   "slug": "brand-new-music",
+   "name": "브랜뉴뮤직",
+   "qid": "Q12599305",
+   "officialWebsite": "http://www.brandnewmusic.co.kr/",
+   "labelKo": "브랜뉴뮤직",
+   "labelEn": "Brand New Music",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12599305",
+    "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9E%9C%EB%89%B4%EB%AE%A4%EC%A7%81",
+    "https://en.wikipedia.org/wiki/BrandNew_Music"
+   ]
+  },
+  {
+   "slug": "keyeast",
+   "name": "키이스트",
+   "qid": "Q11133743",
+   "officialWebsite": "http://www.keyeast.co.kr/",
+   "labelKo": "키이스트",
+   "labelEn": "KeyEast",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11133743",
+    "https://ko.wikipedia.org/wiki/%ED%82%A4%EC%9D%B4%EC%8A%A4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/KeyEast"
+   ]
+  },
+  {
+   "slug": "seoul-metro",
+   "name": "서울교통공사",
+   "qid": "Q28699048",
+   "officialWebsite": "http://www.seoulmetro.co.kr/",
+   "labelKo": "서울교통공사",
+   "labelEn": "Seoul Metro",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q28699048",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Seoul_Metro"
+   ]
+  },
+  {
+   "slug": "pan-entertainment",
+   "name": "팬 엔터테인먼트",
+   "qid": "Q17278347",
+   "officialWebsite": "http://www.thepan.co.kr",
+   "labelKo": "팬 엔터테인먼트",
+   "labelEn": "Pan Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17278347",
+    "https://ko.wikipedia.org/wiki/%ED%8C%AC_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Pan_Entertainment"
+   ]
+  },
+  {
+   "slug": "paris-croissant",
+   "name": "파리크라상",
+   "qid": "Q12621461",
+   "officialWebsite": "http://www.pariscroissant.co.kr/",
+   "labelKo": "파리크라상",
+   "labelEn": "Paris Croissant",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12621461",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%A6%AC%ED%81%AC%EB%9D%BC%EC%83%81",
+    "https://en.wikipedia.org/wiki/Paris_Baguette"
+   ]
+  },
+  {
+   "slug": "next-entertainment-world",
+   "name": "넥스트엔터테인먼트월드",
+   "qid": "Q15730367",
+   "officialWebsite": "http://www.its-new.co.kr/",
+   "labelKo": "넥스트엔터테인먼트월드",
+   "labelEn": "Next Entertainment World",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15730367",
+    "https://ko.wikipedia.org/wiki/%EB%84%A5%EC%8A%A4%ED%8A%B8%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%EC%9B%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Next_Entertainment_World"
+   ]
+  },
+  {
+   "slug": "academy-of-korean-studies",
+   "name": "한국학중앙연구원",
+   "qid": "Q626534",
+   "officialWebsite": "https://www.aks.ac.kr",
+   "labelKo": "한국학중앙연구원",
+   "labelEn": "Academy of Korean Studies",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q626534",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%ED%95%99%EC%A4%91%EC%95%99%EC%97%B0%EA%B5%AC%EC%9B%90",
+    "https://en.wikipedia.org/wiki/Academy_of_Korean_Studies"
+   ]
+  },
+  {
+   "slug": "seoul-metropolitan-rapid-transit-corporation",
+   "name": "서울특별시 도시철도공사",
+   "qid": "Q196405",
+   "officialWebsite": "http://www.smrt.co.kr/",
+   "labelKo": "서울특별시 도시철도공사",
+   "labelEn": "Seoul Metropolitan Rapid Transit Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q196405",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C_%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Seoul_Metropolitan_Rapid_Transit_Corporation"
+   ]
+  },
+  {
+   "slug": "soribada",
+   "name": "소리바다",
+   "qid": "Q485718",
+   "officialWebsite": "http://www.soribada.com/",
+   "labelKo": "소리바다",
+   "labelEn": "Soribada",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q485718",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%A6%AC%EB%B0%94%EB%8B%A4",
+    "https://en.wikipedia.org/wiki/Soribada"
+   ]
+  },
+  {
+   "slug": "mirae-asset-group",
+   "name": "미래에셋그룹",
+   "qid": "Q6872554",
+   "officialWebsite": "http://www.miraeasset.co.kr/",
+   "labelKo": "미래에셋금융그룹",
+   "labelEn": "Mirae Asset Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6872554",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group"
+   ]
+  },
+  {
+   "slug": "lg-energy-solution",
+   "name": "LG에너지솔루션",
+   "qid": "Q109464416",
+   "officialWebsite": "https://www.lgensol.com",
+   "labelKo": "LG에너지솔루션",
+   "labelEn": "LG Energy Solution",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q109464416",
+    "https://ko.wikipedia.org/wiki/LG%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98",
+    "https://en.wikipedia.org/wiki/LG_Energy_Solution"
+   ]
+  },
+  {
+   "slug": "ioniq",
+   "name": "아이오닉",
+   "qid": "Q98441159",
+   "officialWebsite": "https://www.hyundai.com/worldwide/en/ioniq",
+   "labelKo": "아이오닉",
+   "labelEn": "Ioniq",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q98441159",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%89_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Ioniq"
+   ]
+  },
+  {
+   "slug": "lotte-hotels-resorts",
+   "name": "롯데호텔",
+   "qid": "Q326720",
+   "officialWebsite": "https://www.lottehotel.com/",
+   "labelKo": "롯데호텔앤리조트",
+   "labelEn": "Lotte Hotels & Resorts",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q326720",
+    "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94",
+    "https://en.wikipedia.org/wiki/Lotte_Hotels_%26_Resorts"
+   ]
+  },
+  {
+   "slug": "hana-bank",
+   "name": "하나은행",
+   "qid": "Q484047",
+   "officialWebsite": "https://www.hanabank.com/",
+   "labelKo": "하나은행",
+   "labelEn": "Hana Bank",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484047",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EB%82%98%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Hana_Bank"
+   ]
+  },
+  {
+   "slug": "hyundai-wia",
+   "name": "현대위아",
+   "qid": "Q493997",
+   "officialWebsite": "https://en.hyundai-wia.com/main/main.asp",
+   "labelKo": "현대위아",
+   "labelEn": "Hyundai WIA",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493997",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EC%9C%84%EC%95%84",
+    "https://en.wikipedia.org/wiki/Hyundai_WIA"
+   ]
+  },
+  {
+   "slug": "lotte-himart",
+   "name": "롯데하이마트",
+   "qid": "Q765895",
+   "officialWebsite": "http://www.himart.co.kr/",
+   "labelKo": "롯데하이마트",
+   "labelEn": "Lotte Himart",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q765895",
+    "https://ko.wikipedia.org/wiki/%EB%A1%AF%EB%8D%B0%ED%95%98%EC%9D%B4%EB%A7%88%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Lotte_Hi-Mart"
+   ]
+  },
+  {
+   "slug": "cheil-worldwide",
+   "name": "제일기획",
+   "qid": "Q5089641",
+   "officialWebsite": "http://www.cheil.com/",
+   "labelKo": "제일기획",
+   "labelEn": "Cheil Worldwide",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5089641",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9D%BC%EA%B8%B0%ED%9A%8D",
+    "https://en.wikipedia.org/wiki/Cheil_Worldwide"
+   ]
+  },
+  {
+   "slug": "samsung-sds",
+   "name": "삼성SDS",
+   "qid": "Q7410538",
+   "officialWebsite": "http://www.sds.samsung.com/index.jsp",
+   "labelKo": "삼성SDS",
+   "labelEn": "Samsung SDS",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7410538",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%EC%84%B1SDS",
+    "https://en.wikipedia.org/wiki/Samsung_SDS"
+   ]
+  },
+  {
+   "slug": "showbox-co-ltd",
+   "name": "쇼박스",
+   "qid": "Q626185",
+   "officialWebsite": "https://www.showbox.co.kr/",
+   "labelKo": "쇼박스",
+   "labelEn": "SHOWBOX Co., Ltd.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q626185",
+    "https://ko.wikipedia.org/wiki/%EC%87%BC%EB%B0%95%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Showbox"
+   ]
+  },
+  {
+   "slug": "seoul-semiconductor",
+   "name": "서울반도체",
+   "qid": "Q494657",
+   "officialWebsite": "http://www.seoulsemicon.com/",
+   "labelKo": "서울반도체",
+   "labelEn": "Seoul Semiconductor",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494657",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%B0%98%EB%8F%84%EC%B2%B4",
+    "https://en.wikipedia.org/wiki/Seoul_Semiconductor"
+   ]
+  },
+  {
+   "slug": "hdc-young-chang",
+   "name": "IPARK영창",
+   "qid": "Q495824",
+   "officialWebsite": "http://www.ycpiano.co.kr/",
+   "labelKo": "HDC영창",
+   "labelEn": "HDC Young Chang",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q495824",
+    "https://ko.wikipedia.org/wiki/IPARK%EC%98%81%EC%B0%BD",
+    "https://en.wikipedia.org/wiki/Young_Chang"
+   ]
+  },
+  {
+   "slug": "yg-plus",
+   "name": "YG플러스",
+   "qid": "Q21057587",
+   "officialWebsite": "http://www.ygplus.com/",
+   "labelKo": "YG플러스",
+   "labelEn": "YG Plus",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21057587",
+    "https://ko.wikipedia.org/wiki/YG%ED%94%8C%EB%9F%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/YG_Plus"
+   ]
+  },
+  {
+   "slug": "ls-cable-system",
+   "name": "LS전선",
+   "qid": "Q489456",
+   "officialWebsite": "http://www.lscns.com/",
+   "labelKo": "LS전선",
+   "labelEn": "LS Cable & System",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489456",
+    "https://ko.wikipedia.org/wiki/LS%EC%A0%84%EC%84%A0",
+    "https://en.wikipedia.org/wiki/LS_Cable_%26_System"
+   ]
+  },
+  {
+   "slug": "daewon-media",
+   "name": "대원미디어",
+   "qid": "Q490424",
+   "officialWebsite": "http://www.daewonmedia.com",
+   "labelKo": "대원미디어",
+   "labelEn": "Daewon Media",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q490424",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9B%90%EB%AF%B8%EB%94%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Daewon_Media"
+   ]
+  },
+  {
+   "slug": "posco-international",
+   "name": "포스코인터내셔널",
+   "qid": "Q492345",
+   "officialWebsite": "http://www.daewoo.com/",
+   "labelKo": "포스코인터내셔널",
+   "labelEn": "POSCO International",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q492345",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90",
+    "https://en.wikipedia.org/wiki/POSCO_International"
+   ]
+  },
+  {
+   "slug": "dr-movie",
+   "name": "디알무비",
+   "qid": "Q615140",
+   "officialWebsite": "http://www.drmovie.biz/",
+   "labelKo": "디알무비",
+   "labelEn": "DR Movie",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q615140",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%95%8C%EB%AC%B4%EB%B9%84",
+    "https://en.wikipedia.org/wiki/DR_Movie"
+   ]
+  },
+  {
+   "slug": "seoul-land",
+   "name": "서울랜드",
+   "qid": "Q483663",
+   "officialWebsite": "http://eng.seoulland.co.kr",
+   "labelKo": "서울랜드",
+   "labelEn": "Seoul Land",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483663",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%9E%9C%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Seoul_Land"
+   ]
+  },
+  {
+   "slug": "parata-air",
+   "name": "파라타항공",
+   "qid": "Q65308518",
+   "officialWebsite": "http://www.parataair.com/",
+   "labelKo": "파라타항공",
+   "labelEn": "Parata Air",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q65308518",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%9D%BC%ED%83%80%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Parata_Air"
+   ]
+  },
+  {
+   "slug": "ahnlab-inc",
+   "name": "안랩",
+   "qid": "Q402131",
+   "officialWebsite": "https://www.ahnlab.com",
+   "labelKo": "안랩",
+   "labelEn": "AhnLab Inc",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q402131",
+    "https://ko.wikipedia.org/wiki/%EC%95%88%EB%9E%A9"
+   ]
+  },
+  {
+   "slug": "pandora-tv",
+   "name": "판도라TV",
+   "qid": "Q497382",
+   "officialWebsite": "http://www.pandora.tv",
+   "labelKo": "판도라TV",
+   "labelEn": "Pandora TV",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q497382",
+    "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%8F%84%EB%9D%BCTV",
+    "https://en.wikipedia.org/wiki/Pandora_TV"
+   ]
+  },
+  {
+   "slug": "tongyang-group",
+   "name": "동양",
+   "qid": "Q12593494",
+   "officialWebsite": "http://www.tongyanginc.co.kr/kor/default.htm",
+   "labelKo": "동양그룹",
+   "labelEn": "Tongyang Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12593494",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%96%91_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Tongyang_Group"
+   ]
+  },
+  {
+   "slug": "posco-future-m",
+   "name": "포스코퓨처엠",
+   "qid": "Q12621901",
+   "officialWebsite": "http://www.poscochemical.com/",
+   "labelKo": "포스코퓨처엠",
+   "labelEn": "POSCO Future M",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12621901",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%8A%A4%EC%BD%94%ED%93%A8%EC%B2%98%EC%97%A0",
+    "https://en.wikipedia.org/wiki/POSCO_Future_M"
+   ]
+  },
+  {
+   "slug": "mbc-c-i",
+   "name": "MBC C&I",
+   "qid": "Q16219423",
+   "officialWebsite": "http://www.mbccni.co.kr/",
+   "labelKo": "MBC C&I",
+   "labelEn": "MBC C&I",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16219423",
+    "https://ko.wikipedia.org/wiki/MBC_C%26I",
+    "https://en.wikipedia.org/wiki/MBC_C%26I"
+   ]
+  },
+  {
+   "slug": "news1",
+   "name": "뉴스1",
+   "qid": "Q16162804",
+   "officialWebsite": "http://news1.kr",
+   "labelKo": "뉴스1",
+   "labelEn": "News1",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16162804",
+    "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%8A%A41"
+   ]
+  },
+  {
+   "slug": "kb-insurance-company",
+   "name": "KB손해보험",
+   "qid": "Q493151",
+   "officialWebsite": "http://www.kbinsure.co.kr/",
+   "labelKo": "KB손해보험",
+   "labelEn": "KB Insurance Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493151",
+    "https://ko.wikipedia.org/wiki/KB%EC%86%90%ED%95%B4%EB%B3%B4%ED%97%98"
+   ]
+  },
+  {
+   "slug": "jeju-shinhwa-world",
+   "name": "제주신화월드",
+   "qid": "Q60767828",
+   "officialWebsite": "https://www.shinhwaworld.com/",
+   "labelKo": "제주신화월드",
+   "labelEn": "Jeju Shinhwa World",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q60767828",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EC%8B%A0%ED%99%94%EC%9B%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Jeju_Shinhwa_World"
+   ]
+  },
+  {
+   "slug": "chuncheon-munhwa-broadcasting",
+   "name": "춘천문화방송",
+   "qid": "Q1575793",
+   "officialWebsite": "http://www.chmbc.co.kr/",
+   "labelKo": "춘천문화방송",
+   "labelEn": "Chuncheon Munhwa Broadcasting",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1575793",
+    "https://ko.wikipedia.org/wiki/%EC%B6%98%EC%B2%9C%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+   ]
+  },
+  {
+   "slug": "wonju-munhwa-broadcasting",
+   "name": "원주문화방송",
+   "qid": "Q1576691",
+   "officialWebsite": "http://www.wjmbc.co.kr/",
+   "labelKo": "원주문화방송",
+   "labelEn": "Wonju Munhwa Broadcasting",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1576691",
+    "https://ko.wikipedia.org/wiki/%EC%9B%90%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1"
+   ]
+  },
+  {
+   "slug": "jei-corporation",
+   "name": "재능교육",
+   "qid": "Q12614835",
+   "officialWebsite": "http://www.jei.com",
+   "labelKo": "재능교육",
+   "labelEn": "JEI Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12614835",
+    "https://ko.wikipedia.org/wiki/%EC%9E%AC%EB%8A%A5%EA%B5%90%EC%9C%A1",
+    "https://en.wikipedia.org/wiki/JEI_Corporation"
+   ]
+  },
+  {
+   "slug": "kbs-media",
+   "name": "KBS 미디어",
+   "qid": "Q31180785",
+   "officialWebsite": "http://www.kbsmedia.co.kr/",
+   "labelKo": "KBS 미디어",
+   "labelEn": "KBS Media",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q31180785",
+    "https://ko.wikipedia.org/wiki/KBS_%EB%AF%B8%EB%94%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/KBS_Media"
+   ]
+  },
+  {
+   "slug": "zepetto",
+   "name": "제페토",
+   "qid": "Q4053571",
+   "officialWebsite": "http://www.zepetto.com/",
+   "labelKo": "제페토 (기업)",
+   "labelEn": "Zepetto",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4053571",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%ED%8E%98%ED%86%A0_(%EA%B8%B0%EC%97%85)"
+   ]
+  },
+  {
+   "slug": "ssangyong-engineering-and-construction",
+   "name": "쌍용건설",
+   "qid": "Q7586640",
+   "officialWebsite": "http://www.ssyenc.com/",
+   "labelKo": "쌍용건설",
+   "labelEn": "Ssangyong Engineering and Construction",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7586640",
+    "https://ko.wikipedia.org/wiki/%EC%8C%8D%EC%9A%A9%EA%B1%B4%EC%84%A4",
+    "https://en.wikipedia.org/wiki/Ssangyong_Engineering_and_Construction"
+   ]
+  },
+  {
+   "slug": "walt-disney-world-resort",
+   "name": "월트 디즈니 월드 리조트",
+   "qid": "Q206859",
+   "officialWebsite": "http://disneyworld.disney.go.com/",
+   "labelKo": "월트 디즈니 월드 리조트",
+   "labelEn": "Walt Disney World Resort",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q206859",
+    "https://ko.wikipedia.org/wiki/%EC%9B%94%ED%8A%B8_%EB%94%94%EC%A6%88%EB%8B%88_%EC%9B%94%EB%93%9C_%EB%A6%AC%EC%A1%B0%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Walt_Disney_World"
+   ]
+  },
+  {
+   "slug": "texas-instruments",
+   "name": "텍사스 인스트루먼트",
+   "qid": "Q193412",
+   "officialWebsite": "https://www.ti.com/",
+   "labelKo": "텍사스 인스트루먼트",
+   "labelEn": "Texas Instruments",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q193412",
+    "https://ko.wikipedia.org/wiki/%ED%85%8D%EC%82%AC%EC%8A%A4_%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Texas_Instruments"
+   ]
+  },
+  {
+   "slug": "russian-aircraft-corporation-mig",
+   "name": "미그",
+   "qid": "Q188508",
+   "officialWebsite": "http://www.migavia.ru/",
+   "labelKo": "미그",
+   "labelEn": "Russian Aircraft Corporation MiG",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q188508",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B7%B8",
+    "https://en.wikipedia.org/wiki/Mikoyan"
+   ]
+  },
+  {
+   "slug": "scania",
+   "name": "스카니아",
+   "qid": "Q219960",
+   "officialWebsite": "https://www.scania.com/",
+   "labelKo": "스카니아",
+   "labelEn": "Scania",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q219960",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%B9%B4%EB%8B%88%EC%95%84",
+    "https://en.wikipedia.org/wiki/Scania_AB"
+   ]
+  },
+  {
+   "slug": "southwest-airlines",
+   "name": "사우스웨스트 항공",
+   "qid": "Q503308",
+   "officialWebsite": "https://www.southwest.com/",
+   "labelKo": "사우스웨스트 항공",
+   "labelEn": "Southwest Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q503308",
+    "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%B0%EC%8A%A4%EC%9B%A8%EC%8A%A4%ED%8A%B8_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Southwest_Airlines"
+   ]
+  },
+  {
+   "slug": "comcast",
+   "name": "컴캐스트",
+   "qid": "Q1113804",
+   "officialWebsite": "http://corporate.comcast.com",
+   "labelKo": "컴캐스트",
+   "labelEn": "Comcast",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1113804",
+    "https://ko.wikipedia.org/wiki/%EC%BB%B4%EC%BA%90%EC%8A%A4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Comcast"
+   ]
+  },
+  {
+   "slug": "moulin-rouge",
+   "name": "물랭 루주",
+   "qid": "Q151030",
+   "officialWebsite": "https://www.moulinrouge.fr/",
+   "labelKo": "물랭 루주",
+   "labelEn": "Moulin Rouge",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q151030",
+    "https://ko.wikipedia.org/wiki/%EB%AC%BC%EB%9E%AD_%EB%A3%A8%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Moulin_Rouge"
+   ]
+  },
+  {
+   "slug": "man-se",
+   "name": "MAN SE",
+   "qid": "Q35953",
+   "officialWebsite": "https://www.mantruckandbus.com/en/man.html",
+   "labelKo": "MAN SE",
+   "labelEn": "MAN SE",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35953",
+    "https://ko.wikipedia.org/wiki/MAN_SE",
+    "https://en.wikipedia.org/wiki/MAN_SE"
+   ]
+  },
+  {
+   "slug": "aer-lingus",
+   "name": "에어링구스",
+   "qid": "Q83716",
+   "officialWebsite": "https://www.aerlingus.com",
+   "labelKo": "에어링구스",
+   "labelEn": "Aer Lingus",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q83716",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EB%A7%81%EA%B5%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Aer_Lingus"
+   ]
+  },
+  {
+   "slug": "skyteam",
+   "name": "스카이팀",
+   "qid": "Q212282",
+   "officialWebsite": "http://www.skyteam.com/",
+   "labelKo": "스카이팀",
+   "labelEn": "SkyTeam",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q212282",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%8C%80",
+    "https://en.wikipedia.org/wiki/SkyTeam"
+   ]
+  },
+  {
+   "slug": "wizz-air",
+   "name": "위즈 에어",
+   "qid": "Q335147",
+   "officialWebsite": "https://wizzair.com",
+   "labelKo": "위즈 에어",
+   "labelEn": "Wizz Air",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q335147",
+    "https://ko.wikipedia.org/wiki/%EC%9C%84%EC%A6%88_%EC%97%90%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Wizz_Air"
+   ]
+  },
+  {
+   "slug": "amtrak",
+   "name": "암트랙",
+   "qid": "Q23239",
+   "officialWebsite": "https://amtrak.com",
+   "labelKo": "암트랙",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q23239",
+    "https://ko.wikipedia.org/wiki/%EC%95%94%ED%8A%B8%EB%9E%99",
+    "https://en.wikipedia.org/wiki/Amtrak"
+   ]
+  },
+  {
+   "slug": "aol",
+   "name": "AOL",
+   "qid": "Q27585",
+   "officialWebsite": "https://aol.com/",
+   "labelKo": "AOL",
+   "labelEn": "AOL",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27585",
+    "https://ko.wikipedia.org/wiki/AOL",
+    "https://en.wikipedia.org/wiki/AOL"
+   ]
+  },
+  {
+   "slug": "ajinomoto",
+   "name": "아지노모도",
+   "qid": "Q412826",
+   "officialWebsite": "https://www.ajinomoto.co.jp/",
+   "labelKo": "아지노모토",
+   "labelEn": "Ajinomoto",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q412826",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%A7%80%EB%85%B8%EB%AA%A8%EB%8F%84",
+    "https://en.wikipedia.org/wiki/Ajinomoto"
+   ]
+  },
+  {
+   "slug": "airbaltic",
+   "name": "에어발틱",
+   "qid": "Q300924",
+   "officialWebsite": "http://www.airbaltic.com/",
+   "labelKo": "에어발틱",
+   "labelEn": "AirBaltic",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q300924",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EB%B0%9C%ED%8B%B1",
+    "https://en.wikipedia.org/wiki/AirBaltic"
+   ]
+  },
+  {
+   "slug": "myheritage",
+   "name": "MyHeritage",
+   "qid": "Q589757",
+   "officialWebsite": "https://www.myheritage.com/",
+   "labelKo": "나의 헤리티지",
+   "labelEn": "MyHeritage",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q589757",
+    "https://ko.wikipedia.org/wiki/MyHeritage",
+    "https://en.wikipedia.org/wiki/MyHeritage"
+   ]
+  },
+  {
+   "slug": "international-development-association",
+   "name": "국제 개발 협회",
+   "qid": "Q827525",
+   "officialWebsite": "http://www.worldbank.org/ida/",
+   "labelKo": "국제 개발 협회",
+   "labelEn": "International Development Association",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q827525",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EA%B0%9C%EB%B0%9C_%ED%98%91%ED%9A%8C",
+    "https://en.wikipedia.org/wiki/International_Development_Association"
+   ]
+  },
+  {
+   "slug": "canadian-broadcasting-corporation",
+   "name": "캐나다 방송 협회",
+   "qid": "Q461761",
+   "officialWebsite": "https://cbc.radio-canada.ca/",
+   "labelKo": "캐나다 방송 협회",
+   "labelEn": "Canadian Broadcasting Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q461761",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4_%EB%B0%A9%EC%86%A1_%ED%98%91%ED%9A%8C",
+    "https://en.wikipedia.org/wiki/Canadian_Broadcasting_Corporation"
+   ]
+  },
+  {
+   "slug": "aegean-airlines",
+   "name": "에게 항공",
+   "qid": "Q380580",
+   "officialWebsite": "http://www.aegeanair.com",
+   "labelKo": "에게 항공",
+   "labelEn": "Aegean Airlines",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q380580",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EA%B2%8C_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Aegean_Airlines"
+   ]
+  },
+  {
+   "slug": "accenture",
+   "name": "액센츄어",
+   "qid": "Q338825",
+   "officialWebsite": "https://www.accenture.com/",
+   "labelKo": "액센츄어",
+   "labelEn": "Accenture",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q338825",
+    "https://ko.wikipedia.org/wiki/%EC%95%A1%EC%84%BC%EC%B8%84%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Accenture"
+   ]
+  },
+  {
+   "slug": "news-corporation",
+   "name": "뉴스 코퍼레이션",
+   "qid": "Q185278",
+   "officialWebsite": "http://www.newscorp.com",
+   "labelKo": "뉴스 코퍼레이션",
+   "labelEn": "News Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q185278",
+    "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%8A%A4_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/News_Corporation"
+   ]
+  },
+  {
+   "slug": "canonical-ltd",
+   "name": "캐노니컬",
+   "qid": "Q39064",
+   "officialWebsite": "https://canonical.com",
+   "labelKo": "캐노니컬",
+   "labelEn": "Canonical Ltd.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q39064",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%85%B8%EB%8B%88%EC%BB%AC",
+    "https://en.wikipedia.org/wiki/Canonical_(company)"
+   ]
+  },
+  {
+   "slug": "air-berlin",
+   "name": "에어 베를린",
+   "qid": "Q156829",
+   "officialWebsite": "https://www.airberlin.com",
+   "labelKo": "에어 베를린",
+   "labelEn": "Air Berlin",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q156829",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EB%B2%A0%EB%A5%BC%EB%A6%B0",
+    "https://en.wikipedia.org/wiki/Air_Berlin"
+   ]
+  },
+  {
+   "slug": "united-states-centers-for-disease-control-and-prevention",
+   "name": "미국 질병통제예방센터",
+   "qid": "Q583725",
+   "officialWebsite": "https://www.cdc.gov",
+   "labelKo": "질병 통제 예방 센터",
+   "labelEn": "United States Centers for Disease Control and Prevention",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q583725",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%EC%A7%88%EB%B3%91%ED%86%B5%EC%A0%9C%EC%98%88%EB%B0%A9%EC%84%BC%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention"
+   ]
+  },
+  {
+   "slug": "eurostar",
+   "name": "유로스타",
+   "qid": "Q156013",
+   "officialWebsite": "https://www.eurostar.com",
+   "labelKo": "유로스타",
+   "labelEn": "Eurostar",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q156013",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%A1%9C%EC%8A%A4%ED%83%80",
+    "https://en.wikipedia.org/wiki/Eurostar"
+   ]
+  },
+  {
+   "slug": "sveriges-television",
+   "name": "SVT",
+   "qid": "Q215363",
+   "officialWebsite": "https://svt.se",
+   "labelKo": "SVT",
+   "labelEn": "Sveriges Television",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q215363",
+    "https://ko.wikipedia.org/wiki/SVT",
+    "https://en.wikipedia.org/wiki/Sveriges_Television"
+   ]
+  },
+  {
+   "slug": "kamaz",
+   "name": "카마스",
+   "qid": "Q30378",
+   "officialWebsite": "https://kamaz.ru/en/",
+   "labelKo": "카마스",
+   "labelEn": "Kamaz",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q30378",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A7%88%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Kamaz"
+   ]
+  },
+  {
+   "slug": "airasia",
+   "name": "에어아시아",
+   "qid": "Q406643",
+   "officialWebsite": "http://www.airasia.com/",
+   "labelKo": "에어아시아",
+   "labelEn": "AirAsia",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q406643",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EC%95%84%EC%8B%9C%EC%95%84",
+    "https://en.wikipedia.org/wiki/AirAsia"
+   ]
+  },
+  {
+   "slug": "aliexpress",
+   "name": "알리익스프레스",
+   "qid": "Q29904317",
+   "officialWebsite": "http://aliexpress.com/index.html",
+   "labelKo": "알리익스프레스",
+   "labelEn": "AliExpress",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29904317",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A6%AC%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/AliExpress"
+   ]
+  },
+  {
+   "slug": "kaspersky-lab",
+   "name": "카스퍼스키 랩",
+   "qid": "Q489943",
+   "officialWebsite": "https://www.kaspersky.com/",
+   "labelKo": "카스퍼스키 랩",
+   "labelEn": "Kaspersky Lab",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489943",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%8A%A4%ED%8D%BC%EC%8A%A4%ED%82%A4_%EB%9E%A9",
+    "https://en.wikipedia.org/wiki/Kaspersky_Lab"
+   ]
+  },
+  {
+   "slug": "id-software",
+   "name": "이드 소프트웨어",
+   "qid": "Q204474",
+   "officialWebsite": "https://www.idsoftware.com/",
+   "labelKo": "이드 소프트웨어",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q204474",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%93%9C_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Id_Software"
+   ]
+  },
+  {
+   "slug": "smart",
+   "name": "스마트",
+   "qid": "Q156490",
+   "officialWebsite": "https://global.smart.com",
+   "labelKo": "스마트",
+   "labelEn": "Smart",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q156490",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Smart_(marque)"
+   ]
+  },
+  {
+   "slug": "converse",
+   "name": "컨버스",
+   "qid": "Q319515",
+   "officialWebsite": "https://www.converse.com/",
+   "labelKo": "컨버스",
+   "labelEn": "Converse",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q319515",
+    "https://ko.wikipedia.org/wiki/%EC%BB%A8%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Converse_(brand)"
+   ]
+  },
+  {
+   "slug": "haiku",
+   "name": "하이쿠",
+   "qid": "Q215448",
+   "officialWebsite": "https://www.haiku-os.org",
+   "labelKo": "하이쿠",
+   "labelEn": "Haiku",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q215448",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EC%BF%A0_(%EC%9A%B4%EC%98%81_%EC%B2%B4%EC%A0%9C)",
+    "https://en.wikipedia.org/wiki/Haiku_(operating_system)"
+   ]
+  },
+  {
+   "slug": "lotus-cars",
+   "name": "로터스 자동차",
+   "qid": "Q35935",
+   "officialWebsite": "https://www.lotuscars.com",
+   "labelKo": "로터스 자동차",
+   "labelEn": "Lotus Cars",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35935",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%84%B0%EC%8A%A4_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Lotus_Cars"
+   ]
+  },
+  {
+   "slug": "maybach",
+   "name": "메르세데스-마이바흐",
+   "qid": "Q35989",
+   "officialWebsite": "https://www.maybach.com/",
+   "labelKo": "마이바흐",
+   "labelEn": "Maybach",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35989",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%A7%88%EC%9D%B4%EB%B0%94%ED%9D%90",
+    "https://en.wikipedia.org/wiki/Maybach"
+   ]
+  },
+  {
+   "slug": "hummer",
+   "name": "허머",
+   "qid": "Q213487",
+   "officialWebsite": "https://www.gmc.com/electric/hummer-ev/pickup-trucks-suvs",
+   "labelKo": "허머",
+   "labelEn": "Hummer",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q213487",
+    "https://ko.wikipedia.org/wiki/%ED%97%88%EB%A8%B8",
+    "https://en.wikipedia.org/wiki/Hummer"
+   ]
+  },
+  {
+   "slug": "pringles",
+   "name": "프링글스",
+   "qid": "Q528187",
+   "officialWebsite": "https://www.pringles.com",
+   "labelKo": "프링글스",
+   "labelEn": "Pringles",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q528187",
+    "https://ko.wikipedia.org/wiki/%ED%94%84%EB%A7%81%EA%B8%80%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Pringles"
+   ]
+  },
+  {
+   "slug": "byd-auto",
+   "name": "비야디 자동차",
+   "qid": "Q27423",
+   "officialWebsite": "https://www.byd.com/cn",
+   "labelKo": "비야디 자동차",
+   "labelEn": "BYD Auto",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27423",
+    "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%95%BC%EB%94%94_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/BYD_Auto"
+   ]
+  },
+  {
+   "slug": "hyundai",
+   "name": "현대",
+   "qid": "Q29311",
+   "officialWebsite": "http://www.hyundaigroup.com/",
+   "labelKo": "현대",
+   "labelEn": "Hyundai",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29311",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Hyundai"
+   ]
+  },
+  {
+   "slug": "holiday-inn",
+   "name": "홀리데이 인",
+   "qid": "Q2717882",
+   "officialWebsite": "https://www.holidayinn.com/",
+   "labelKo": "홀리데이 인",
+   "labelEn": "Holiday Inn",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2717882",
+    "https://ko.wikipedia.org/wiki/%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4_%EC%9D%B8",
+    "https://en.wikipedia.org/wiki/Holiday_Inn"
+   ]
+  },
+  {
+   "slug": "gorilla-glass",
+   "name": "고릴라 글래스",
+   "qid": "Q268706",
+   "officialWebsite": "http://www.corninggorillaglass.com",
+   "labelKo": "고릴라 글래스",
+   "labelEn": "Gorilla Glass",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q268706",
+    "https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A6%B4%EB%9D%BC_%EA%B8%80%EB%9E%98%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Gorilla_Glass"
+   ]
+  },
+  {
+   "slug": "minitel",
+   "name": "미니텔",
+   "qid": "Q1133476",
+   "officialWebsite": "http://www.minitel.fr",
+   "labelKo": "미니텔",
+   "labelEn": "Minitel",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1133476",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%88%ED%85%94",
+    "https://en.wikipedia.org/wiki/Minitel"
+   ]
+  },
+  {
+   "slug": "edeka",
+   "name": "에데카",
+   "qid": "Q701755",
+   "officialWebsite": "https://www.edeka.de",
+   "labelKo": "에데카",
+   "labelEn": "Edeka",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q701755",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%8D%B0%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Edeka"
+   ]
+  },
+  {
+   "slug": "neoplan",
+   "name": "네오플란",
+   "qid": "Q326013",
+   "officialWebsite": "https://www.neoplan.com/",
+   "labelKo": "네오플랜",
+   "labelEn": "Neoplan",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q326013",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%98%A4%ED%94%8C%EB%9E%80",
+    "https://en.wikipedia.org/wiki/Neoplan"
+   ]
+  },
+  {
+   "slug": "hot-wheels",
+   "name": "핫 휠",
+   "qid": "Q585537",
+   "officialWebsite": "https://www.mattel.com/pages/hot-wheels",
+   "labelKo": "핫 휠",
+   "labelEn": "Hot Wheels",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q585537",
+    "https://ko.wikipedia.org/wiki/%ED%95%AB_%ED%9C%A0",
+    "https://en.wikipedia.org/wiki/Hot_Wheels"
+   ]
+  },
+  {
+   "slug": "sun-records",
+   "name": "선 레코드",
+   "qid": "Q898618",
+   "officialWebsite": "http://www.sunrecords.com",
+   "labelKo": "선 레코드",
+   "labelEn": "Sun Records",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q898618",
+    "https://ko.wikipedia.org/wiki/%EC%84%A0_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Sun_Records"
+   ]
+  },
+  {
+   "slug": "papa-john-s",
+   "name": "파파존스",
+   "qid": "Q2759586",
+   "officialWebsite": "https://www.papajohns.com",
+   "labelKo": "파파존스",
+   "labelEn": "Papa John's",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2759586",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%8C%8C%EC%A1%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Papa_John%27s"
+   ]
+  },
+  {
+   "slug": "mbc-game",
+   "name": "MBC 게임",
+   "qid": "Q490687",
+   "officialWebsite": "http://www.mbcplus.com/game/index.html",
+   "labelKo": "MBC 게임",
+   "labelEn": "MBC Game",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q490687",
+    "https://ko.wikipedia.org/wiki/MBC_%EA%B2%8C%EC%9E%84",
+    "https://en.wikipedia.org/wiki/MBC_Game"
+   ]
+  },
+  {
+   "slug": "mystic-story",
+   "name": "미스틱스토리",
+   "qid": "Q15509774",
+   "officialWebsite": "http://www.mystic89.net/",
+   "labelKo": "미스틱스토리",
+   "labelEn": "Mystic Story",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15509774",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8A%A4%ED%8B%B1%EC%8A%A4%ED%86%A0%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Mystic_Story"
+   ]
+  },
+  {
+   "slug": "export-import-bank-of-korea",
+   "name": "한국수출입은행",
+   "qid": "Q4501812",
+   "officialWebsite": "https://www.koreaexim.go.kr/",
+   "labelKo": "한국수출입은행",
+   "labelEn": "Export-Import Bank of Korea",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4501812",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%88%98%EC%B6%9C%EC%9E%85%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Export%E2%80%93Import_Bank_of_Korea"
+   ]
+  },
+  {
+   "slug": "studio-santa-claus-entertainment",
+   "name": "스튜디오 산타클로스엔터테인먼트",
+   "qid": "Q55736184",
+   "officialWebsite": "http://studiosantaent.com/",
+   "labelKo": "스튜디오 산타클로스엔터테인먼트",
+   "labelEn": "Studio Santa Claus Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55736184",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%82%B0%ED%83%80%ED%81%B4%EB%A1%9C%EC%8A%A4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Studio_Santa_Claus_Entertainment"
+   ]
+  },
+  {
+   "slug": "samhwa-networks",
+   "name": "삼화네트웍스",
+   "qid": "Q17278268",
+   "officialWebsite": "http://www.shnetworks.co.kr/",
+   "labelKo": "삼화네트웍스",
+   "labelEn": "Samhwa Networks",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17278268",
+    "https://ko.wikipedia.org/wiki/%EC%82%BC%ED%99%94%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Samhwa_Networks"
+   ]
+  },
+  {
+   "slug": "softmax",
+   "name": "세영D&C",
+   "qid": "Q482747",
+   "officialWebsite": "http://www.softmax.co.kr",
+   "labelKo": "소프트맥스",
+   "labelEn": "Softmax",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q482747",
+    "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%98%81D%26C",
+    "https://en.wikipedia.org/wiki/Seyoung_D%26C"
+   ]
+  },
+  {
+   "slug": "chorokbaem-media",
+   "name": "초록뱀미디어",
+   "qid": "Q12619374",
+   "officialWebsite": "http://www.chorokbaem.com/",
+   "labelKo": "초록뱀미디어",
+   "labelEn": "Chorokbaem Media",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12619374",
+    "https://ko.wikipedia.org/wiki/%EC%B4%88%EB%A1%9D%EB%B1%80%EB%AF%B8%EB%94%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Chorokbaem_Media"
+   ]
+  },
+  {
+   "slug": "nol-universe",
+   "name": "놀유니버스",
+   "qid": "Q6045102",
+   "officialWebsite": "http://www.interpark.com",
+   "labelKo": "놀유니버스",
+   "labelEn": "NOL Universe",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6045102",
+    "https://ko.wikipedia.org/wiki/%EB%86%80%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Interpark"
+   ]
+  },
+  {
+   "slug": "camp-mobile",
+   "name": "캠프모바일",
+   "qid": "Q16176298",
+   "officialWebsite": "http://www.campmobile.com/",
+   "labelKo": "캠프모바일",
+   "labelEn": "Camp Mobile",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16176298",
+    "https://ko.wikipedia.org/wiki/%EC%BA%A0%ED%94%84%EB%AA%A8%EB%B0%94%EC%9D%BC",
+    "https://en.wikipedia.org/wiki/Camp_Mobile"
+   ]
+  },
+  {
+   "slug": "taekwang-group",
+   "name": "태광그룹",
+   "qid": "Q7674768",
+   "officialWebsite": "http://www.taekwanggroup.co.kr",
+   "labelKo": "태광그룹",
+   "labelEn": "Taekwang Group",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7674768",
+    "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B4%91%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Taekwang_Group"
+   ]
+  },
+  {
+   "slug": "artist-company",
+   "name": "아티스트컴퍼니",
+   "qid": "Q43396567",
+   "officialWebsite": "http://www.artistcompany.co.kr/",
+   "labelKo": "아티스트컴퍼니",
+   "labelEn": "Artist Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q43396567",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Artist_Company"
+   ]
+  },
+  {
+   "slug": "city-air-logistics-transportation",
+   "name": "한국도심공항",
+   "qid": "Q624367",
+   "officialWebsite": "https://www.calt.co.kr/EN",
+   "labelKo": "한국도심공항",
+   "labelEn": "City Air Logistics & Transportation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624367",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%8F%84%EC%8B%AC%EA%B3%B5%ED%95%AD",
+    "https://en.wikipedia.org/wiki/City_Air_Logistics_%26_Transportation"
+   ]
+  },
+  {
+   "slug": "lg-cns",
+   "name": "LG CNS",
+   "qid": "Q10854619",
+   "officialWebsite": "http://www.lgcns.com/",
+   "labelKo": "LG CNS",
+   "labelEn": "LG CNS",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q10854619",
+    "https://ko.wikipedia.org/wiki/LG_CNS",
+    "https://en.wikipedia.org/wiki/LG_CNS"
+   ]
+  },
+  {
+   "slug": "sk-inc",
+   "name": "SK",
+   "qid": "Q494136",
+   "officialWebsite": "https://www.sk-inc.com/en/",
+   "labelKo": "SK",
+   "labelEn": "SK Inc.",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494136",
+    "https://ko.wikipedia.org/wiki/SK_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/SK_Inc."
+   ]
+  },
+  {
+   "slug": "munhwa-ilbo",
+   "name": "문화일보",
+   "qid": "Q624791",
+   "officialWebsite": "https://www.munhwa.com/",
+   "labelKo": "문화일보",
+   "labelEn": "Munhwa Ilbo",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624791",
+    "https://ko.wikipedia.org/wiki/%EB%AC%B8%ED%99%94%EC%9D%BC%EB%B3%B4",
+    "https://en.wikipedia.org/wiki/Munhwa_Ilbo"
+   ]
+  },
+  {
+   "slug": "kangwon-land",
+   "name": "강원랜드",
+   "qid": "Q12583025",
+   "officialWebsite": "http://kangwonland.high1.com/",
+   "labelKo": "강원랜드",
+   "labelEn": "Kangwon Land",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12583025",
+    "https://ko.wikipedia.org/wiki/%EA%B0%95%EC%9B%90%EB%9E%9C%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Kangwon_Land"
+   ]
+  },
+  {
+   "slug": "penta-security",
+   "name": "펜타시큐리티",
+   "qid": "Q5930964",
+   "officialWebsite": "https://www.pentasecurity.co.jp",
+   "labelKo": "펜타시큐리티",
+   "labelEn": "Penta Security",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5930964",
+    "https://ko.wikipedia.org/wiki/%ED%8E%9C%ED%83%80%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/Penta_Security"
+   ]
+  },
+  {
+   "slug": "softcamp",
+   "name": "소프트캠프",
+   "qid": "Q16177018",
+   "officialWebsite": "http://www.softcamp.co.kr",
+   "labelKo": "소프트캠프",
+   "labelEn": "SoftCamp",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16177018",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%BA%A0%ED%94%84",
+    "https://en.wikipedia.org/wiki/SoftCamp"
+   ]
+  },
+  {
+   "slug": "neo-trans",
+   "name": "네오트랜스",
+   "qid": "Q13709959",
+   "officialWebsite": "http://www.shinbundang.co.kr/",
+   "labelKo": "네오트랜스",
+   "labelEn": "Neo Trans",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13709959",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%98%A4%ED%8A%B8%EB%9E%9C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Neo_Trans"
+   ]
+  },
+  {
+   "slug": "sk-energy",
+   "name": "SK에너지",
+   "qid": "Q4048790",
+   "officialWebsite": "http://www.skenergy.com/",
+   "labelKo": "SK에너지",
+   "labelEn": "SK Energy",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4048790",
+    "https://ko.wikipedia.org/wiki/SK%EC%97%90%EB%84%88%EC%A7%80"
+   ]
+  },
+  {
+   "slug": "sr-corporation",
+   "name": "에스알",
+   "qid": "Q15615204",
+   "officialWebsite": "http://www.srail.co.kr/",
+   "labelKo": "SR",
+   "labelEn": "SR Corporation",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15615204",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%8A%A4%EC%95%8C",
+    "https://en.wikipedia.org/wiki/SR_Corporation"
+   ]
+  },
+  {
+   "slug": "josun-hotels-resorts",
+   "name": "조선호텔앤리조트",
+   "qid": "Q567458",
+   "officialWebsite": "https://www.josunhotel.com/",
+   "labelKo": "조선호텔앤리조트",
+   "labelEn": "Josun Hotels & Resorts",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q567458",
+    "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0%ED%98%B8%ED%85%94%EC%95%A4%EB%A6%AC%EC%A1%B0%ED%8A%B8"
+   ]
+  },
+  {
+   "slug": "korea-trade-investment-promotion-agency",
+   "name": "대한무역투자진흥공사",
+   "qid": "Q496116",
+   "officialWebsite": "http://www.kotra.or.kr",
+   "labelKo": "대한무역투자진흥공사",
+   "labelEn": "Korea Trade-Investment Promotion Agency",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q496116",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AC%B4%EC%97%AD%ED%88%AC%EC%9E%90%EC%A7%84%ED%9D%A5%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/KOTRA"
+   ]
+  },
+  {
+   "slug": "kim-jong-hak-production",
+   "name": "김종학 프로덕션",
+   "qid": "Q12588703",
+   "officialWebsite": "http://www.kjhpro.com",
+   "labelKo": "김종학 프로덕션",
+   "labelEn": "Kim Jong-hak Production",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12588703",
+    "https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A2%85%ED%95%99_%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98",
+    "https://en.wikipedia.org/wiki/Kim_Jong-hak_Production"
+   ]
+  },
+  {
+   "slug": "jeju-free-international-city-development-center",
+   "name": "제주국제자유도시개발센터",
+   "qid": "Q6176555",
+   "officialWebsite": "https://www.jdcenter.com",
+   "labelKo": "제주국제자유도시개발센터",
+   "labelEn": "Jeju Free International City Development Center",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6176555",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A3%BC%EA%B5%AD%EC%A0%9C%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EC%84%BC%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Jeju_Free_International_City_Development_Center"
+   ]
+  },
+  {
+   "slug": "pelicana-chicken",
+   "name": "페리카나",
+   "qid": "Q17575847",
+   "officialWebsite": "http://www.pelicana.co.kr",
+   "labelKo": "페리카나",
+   "labelEn": "Pelicana Chicken",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17575847",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A6%AC%EC%B9%B4%EB%82%98",
+    "https://en.wikipedia.org/wiki/Pelicana_Chicken"
+   ]
+  },
+  {
+   "slug": "music-new",
+   "name": "뮤직앤뉴",
+   "qid": "Q17063045",
+   "officialWebsite": "http://music.its-new.co.kr/",
+   "labelKo": "뮤직앤뉴",
+   "labelEn": "Music&NEW",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17063045",
+    "https://ko.wikipedia.org/wiki/%EB%AE%A4%EC%A7%81%EC%95%A4%EB%89%B4",
+    "https://en.wikipedia.org/wiki/Music%26New"
+   ]
+  },
+  {
+   "slug": "stardom-entertainment",
+   "name": "스타덤 엔터테인먼트",
+   "qid": "Q618913",
+   "officialWebsite": "http://brandnewstardom.com/",
+   "labelKo": "스타덤 엔터테인먼트",
+   "labelEn": "Stardom Entertainment",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q618913",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80%EB%8D%A4_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Stardom_Entertainment"
+   ]
+  },
+  {
+   "slug": "korea-engineering-plastics",
+   "name": "한국엔지니어링플라스틱",
+   "qid": "Q1784311",
+   "officialWebsite": "http://www.kepital.com/",
+   "labelKo": "한국엔지니어링플라스틱",
+   "labelEn": "Korea Engineering Plastics",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1784311",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1",
+    "https://en.wikipedia.org/wiki/Korea_Engineering_Plastics"
+   ]
+  },
+  {
+   "slug": "mbcgyeongnam",
+   "name": "MBC경남",
+   "qid": "Q3786074",
+   "officialWebsite": "http://mbcgn.kr/",
+   "labelKo": "MBC경남",
+   "labelEn": null,
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3786074",
+    "https://ko.wikipedia.org/wiki/MBC%EA%B2%BD%EB%82%A8"
+   ]
+  },
+  {
+   "slug": "seo-taiji-company",
+   "name": "서태지컴퍼니",
+   "qid": "Q7451487",
+   "officialWebsite": "http://www.seotaijicompany.com/",
+   "labelKo": "서태지컴퍼니",
+   "labelEn": "Seo Taiji Company",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7451487",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%ED%83%9C%EC%A7%80%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Seo_Taiji_Company"
+   ]
+  },
+  {
+   "slug": "cj-enm-commerce-division",
+   "name": "CJ온스타일",
+   "qid": "Q12580820",
+   "officialWebsite": "http://www.cjoshopping.com/index.asp",
+   "labelKo": "CJ오쇼핑",
+   "labelEn": "CJ ENM Commerce Division",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12580820",
+    "https://ko.wikipedia.org/wiki/CJ%EC%98%A8%EC%8A%A4%ED%83%80%EC%9D%BC",
+    "https://en.wikipedia.org/wiki/CJ_ENM_Commerce_Division"
+   ]
+  },
+  {
+   "slug": "innocean-worldwide",
+   "name": "이노션",
+   "qid": "Q16175946",
+   "officialWebsite": "http://www.innocean.com/",
+   "labelKo": "이노션",
+   "labelEn": "Innocean Worldwide",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16175946",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%85%B8%EC%85%98"
    ]
   }
  ]

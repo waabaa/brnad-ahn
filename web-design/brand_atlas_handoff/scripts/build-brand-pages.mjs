@@ -12,11 +12,11 @@ import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import {
   buildTitle, buildDescription, buildFaq, koreanName, latinName, displayName,
-  countryOf, foundedYear, bodyTextLength, urlSlugOf,
+  countryOf, foundedYear, bodyTextLength, urlSlugOf, THIN_THRESHOLD,
 } from "./lib/brand-seo.mjs";
 import { page as shell, esc } from "./lib/page-shell.mjs";
 import { renderBrandPage } from "./lib/brand-render.mjs";
-import { isDirectory, byScore } from "./lib/archive.mjs";
+import { isDirectory, isNoindex, byScore } from "./lib/archive.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -121,7 +121,10 @@ function jsonLd(brand, faq, dates, url) {
 // 텍스트 해시를 쓰는 이유: 디자인·클래스명만 바뀐 재빌드가 전량 "오늘 갱신"으로 튀면
 // sitemap lastmod와 마찬가지로 거짓 신선도 신호가 된다.
 const DATES_PATH = path.join(ROOT, "reports", "page-dates.json");
-const TODAY = new Date().toISOString().slice(0, 10);
+// 한국 사이트이므로 날짜는 KST 기준으로 센다. UTC로 세면 새벽 빌드(주간 cron 월 05:10 KST)에서
+// 이 빌더만 하루 이른 날짜를 찍어 build-seo-extras.mjs의 sitemap·RSS와 어긋난다(2026-09-08).
+const kstDay = (ms) => new Date(ms + 9 * 3600e3).toISOString().slice(0, 10);
+const TODAY = kstDay(Date.now());
 let dateLedger = { version: 2, pages: {} };
 try { dateLedger = JSON.parse(fs.readFileSync(DATES_PATH, "utf8")); } catch { /* 최초 실행 */ }
 dateLedger.pages = dateLedger.pages || {};
@@ -139,16 +142,22 @@ function deployedBodyHash(slug) {
   return contentHash(textOf(m[1]));
 }
 function fileDate(slug) {
-  try { return fs.statSync(path.join(ROOT, "brand", `${slug}.html`)).mtime.toISOString().slice(0, 10); }
+  try { return kstDay(fs.statSync(path.join(ROOT, "brand", `${slug}.html`)).mtimeMs); }
   catch { return TODAY; }
 }
-function pageDates(slug, hash) {
+function pageDates(slug, hash, robots) {
   const prev = dateLedger.pages[slug] || {};
   const seed = fileDate(slug);
   const published = prev.published || seed;
   const before = prev.hash || deployedBodyHash(slug);
-  const modified = before && before === hash ? (prev.modified || seed) : TODAY;
-  dateLedger.pages[slug] = { published, modified, hash };
+  // 색인 상태가 바뀐 것도 갱신 사유다. 본문이 그대로여도 noindex → index로 바뀌었으면
+  // 크롤러가 다시 와야 하는데, 본문 해시만 보면 lastmod가 옛 날짜로 남아 재수집이
+  // 일어나지 않는다(2026-09-08, 디렉토리 등급 202건 색인 복귀 때 확인).
+  // robots를 기록하지 않던 시절의 항목은 값이 없으므로 변경으로 치지 않는다.
+  const robotsChanged = prev.robots !== undefined && prev.robots !== robots;
+  const bodySame = before && before === hash;
+  const modified = bodySame && !robotsChanged ? (prev.modified || seed) : TODAY;
+  dateLedger.pages[slug] = { published, modified, hash, robots };
   return dateLedger.pages[slug];
 }
 const koDate = (iso) => { const [y, m, d] = iso.split("-"); return `${y}년 ${Number(m)}월 ${Number(d)}일`; };
@@ -202,13 +211,17 @@ function pageHtml(brand) {
   let bodyHtml = renderBrandPage(brand, { sandbox, faq, countryHubs, related: relatedFor(brand) });
 
   const text = mainText(bodyHtml);
-  const dates = pageDates(slug, contentHash(text));
-  bodyHtml = bodyHtml.replace("__UPDATED__", `<p class="page-updated">최종 업데이트 <time datetime="${dates.modified}">${koDate(dates.modified)}</time></p>`);
-
   const renderedChars = text.length;
   const dupCanonical = canonicalOverride.get(slug);
   const directory = isDirectory(brand);
-  const robots = (dupCanonical || directory || renderedChars < RENDERED_THIN_THRESHOLD) ? "noindex,follow" : "index,follow";
+  // 디렉토리 등급이라도 본문이 충실하면 색인한다(2026-09-08). 등급은 목록·홈 노출을 가르는
+  // 기준이고, 색인 여부는 페이지에 읽을 내용이 있느냐로 판단한다. 종전에는 등급만으로
+  // noindex를 걸어, 네이버가 구 URL을 301로 따라와 도착한 곳이 색인 불가라 URL 교체가
+  // 진행되지 않았다(웹마스터 '리다이렉션된 페이지' 진단 108건 중 41건이 이 경우).
+  const robots = (dupCanonical || isNoindex(brand) || renderedChars < RENDERED_THIN_THRESHOLD) ? "noindex,follow" : "index,follow";
+  // 신선도 원장은 robots까지 보고 판정하므로 robots를 먼저 확정한 뒤 호출한다.
+  const dates = pageDates(slug, contentHash(text), robots);
+  bodyHtml = bodyHtml.replace("__UPDATED__", `<p class="page-updated">최종 업데이트 <time datetime="${dates.modified}">${koDate(dates.modified)}</time></p>`);
   renderedLen.set(slug, dupCanonical ? 0 : renderedChars);
   tierOf.set(slug, directory ? "directory" : "listed");
   const canonical = dupCanonical || url;
@@ -258,7 +271,7 @@ if (!sampleSlugs) {
     .filter(b => (renderedLen.get(urlSlugOf(b)) ?? 0) < RENDERED_THIN_THRESHOLD)
     .map(b => ({ slug: urlSlugOf(b), name: b.name, industry: b.industry || null, renderedChars: renderedLen.get(urlSlugOf(b)) ?? 0, sectionChars: bodyTextLength(b), tier: tierOf.get(urlSlugOf(b)) }))
     .sort((a, b) => a.renderedChars - b.renderedChars);
-  const directory = BRANDS.filter(b => isDirectory(b)).map(b => urlSlugOf(b));
+  const directory = BRANDS.filter(b => isNoindex(b)).map(b => urlSlugOf(b));
   const noindexSlugs = [...new Set([...thin.map(t => t.slug), ...directory])];
   fs.writeFileSync(path.join(ROOT, "reports", "thin-pages.json"), JSON.stringify({
     threshold: RENDERED_THIN_THRESHOLD,
