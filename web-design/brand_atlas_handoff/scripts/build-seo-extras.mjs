@@ -16,6 +16,7 @@
 // 가른다(archive.mjs isNoindex) — 본문이 충실한 항목은 sitemap에 남는다.
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { ORIGIN, CSS_V, urlSlugOf, countryOf, foundedYear, displayName, koreanName, latinName, bodyTextLength } from "./lib/brand-seo.mjs";
 import { esc, page, collectionJsonLd, breadcrumbs, header, footer } from "./lib/page-shell.mjs";
@@ -379,14 +380,10 @@ const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
   writeIfChanged(path.join(ROOT, "404.html"), page({ title: "페이지를 찾을 수 없습니다 | 브랜드 아틀라스", desc: "요청한 페이지가 없습니다.", canonical: `${ORIGIN}/404.html`, bodyHtml: body, active: "", prefix: "/", robots: "noindex,follow" }));
 }
 
-// ─── 10-b) 검색 페이지(템플릿 치환) ──────────────────────────────────────
-{
-  const tpl = fs.readFileSync(path.join(__dirname, "templates", "search.html"), "utf8");
-  const html = tpl.replaceAll("__HEADER__", header("", P)).replaceAll("__FOOTER__", footer(P)).replaceAll("__CSS_V__", CSS_V);
-  writeIfChanged(path.join(ROOT, "pages", "search.html"), html);
-}
-
 // ─── 11) 검색 인덱스(슬림) ────────────────────────────────────────────────
+// 검색 페이지가 force-cache로 받으므로 URL 버전은 인덱스 내용 해시로 정한다 — CSS_V를 올려
+// 전 페이지를 다시 쓰지 않고도 로고·이름이 바뀐 인덱스를 재방문자에게 새로 받게 한다.
+let INDEX_V = CSS_V;
 {
   const rows = BRANDS.map(b => {
     const ko = koreanName(b), en = latinName(b);
@@ -398,7 +395,15 @@ const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
     };
   });
   writeIfChanged(path.join(ROOT, "data", "search-index.json"), JSON.stringify({ generatedAt: TODAY, count: rows.length, brands: rows }));
-  console.log(`data/search-index.json: ${rows.length} rows, ${(fs.statSync(path.join(ROOT, "data", "search-index.json")).size / 1024).toFixed(0)}KB`);
+  INDEX_V = crypto.createHash("sha256").update(JSON.stringify(rows)).digest("hex").slice(0, 10);
+  console.log(`data/search-index.json: ${rows.length} rows, ${(fs.statSync(path.join(ROOT, "data", "search-index.json")).size / 1024).toFixed(0)}KB, v=${INDEX_V}`);
+}
+
+// ─── 11-b) 검색 페이지(템플릿 치환) ──────────────────────────────────────
+{
+  const tpl = fs.readFileSync(path.join(__dirname, "templates", "search.html"), "utf8");
+  const html = tpl.replaceAll("__HEADER__", header("", P)).replaceAll("__FOOTER__", footer(P)).replaceAll("__INDEX_V__", INDEX_V).replaceAll("__CSS_V__", CSS_V);
+  writeIfChanged(path.join(ROOT, "pages", "search.html"), html);
 }
 
 // ─── 12) sitemap ─────────────────────────────────────────────────────────

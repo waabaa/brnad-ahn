@@ -50,7 +50,7 @@
   document.getElementById("keywords").innerHTML=KEYWORDS.map(function(k){return '<a class="chip" href="search.html?q='+encodeURIComponent(k)+'">'+esc(k)+'</a>'}).join("");
   var initial=new URLSearchParams(location.search).get("q")||"";
   input.value=initial;
-  fetch("../data/search-index.json?v=20260907a",{cache:"force-cache"}).then(function(r){return r.json()}).then(function(j){
+  fetch("../data/search-index.json?v=47c6f48cc5",{cache:"force-cache"}).then(function(r){return r.json()}).then(function(j){
     index=j.brands||[];
     var inds={};index.forEach(function(b){if(b.i&&b.t!=="d")inds[b.i]=(inds[b.i]||0)+1});
     document.getElementById("industries").innerHTML=Object.keys(inds).sort(function(a,b){return inds[b]-inds[a]}).map(function(i){return '<a class="chip" href="search.html?q='+encodeURIComponent(i)+'">'+esc(i)+' <small>'+inds[i]+'</small></a>'}).join("");

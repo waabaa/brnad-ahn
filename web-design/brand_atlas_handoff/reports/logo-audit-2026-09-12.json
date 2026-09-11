@@ -1,0 +1,1614 @@
+{
+ "auditedAt": "2026-09-12",
+ "method": "전수 육안 검수(컨택트시트 60장, 1,786개) + BI/CI 원본 파일명 대조",
+ "items": [
+  {
+   "slug": "a-s-adventure",
+   "src": "images/photos/a-s-adventure-19346f5c.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "JLR The Adventure"
+  },
+  {
+   "slug": "a-s-adventure",
+   "src": "images/logos/a-s-adventure.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "JLR The Adventure (main)"
+  },
+  {
+   "slug": "absolut",
+   "src": "images/bici/absolut-56c38390.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Absolut relax radio"
+  },
+  {
+   "slug": "absolut",
+   "src": "images/bici/absolut-7c65b60f.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Absolut music XL radio"
+  },
+  {
+   "slug": "absolut",
+   "src": "images/bici/absolut-6c556b88.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Absolut TOP radio"
+  },
+  {
+   "slug": "absolut",
+   "src": "images/bici/absolut-d46d1026.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Absolut Bank"
+  },
+  {
+   "slug": "absolut",
+   "src": "images/logos/absolut.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Absolut relax radio (main logo)"
+  },
+  {
+   "slug": "aladdin-records",
+   "src": "images/logos/aladdin-records-cand-1.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "78rpm label photo (main)"
+  },
+  {
+   "slug": "alessi",
+   "src": "images/bici/alessi-83d1ba70.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Federico Alessi logo"
+  },
+  {
+   "slug": "alfa-romeo",
+   "src": "images/logos/alfa-romeo-wd.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "badge photo for Alfa Romeo (main)"
+  },
+  {
+   "slug": "american-record-company",
+   "src": "images/logos/american-record-company-cand-3.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "78rpm label photo (main)"
+  },
+  {
+   "slug": "analog",
+   "src": "images/logos/analog.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Analog Devices for edge-AI Analog (main)"
+  },
+  {
+   "slug": "anua",
+   "src": "images/photos/anua-c8d754b2.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "ANUAS e.V."
+  },
+  {
+   "slug": "arc-teryx",
+   "src": "images/bici/arc-teryx-2f539b46.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "fleece photo"
+  },
+  {
+   "slug": "arc-teryx",
+   "src": "images/bici/arc-teryx-c31f2ccd.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "jacket photo"
+  },
+  {
+   "slug": "arc-teryx",
+   "src": "images/logos/arc-teryx.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "fleece embroidery photo (main)"
+  },
+  {
+   "slug": "bcc",
+   "src": "images/photos/bcc-a0cb6fdf.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "BCC 1931 Witten"
+  },
+  {
+   "slug": "bcc",
+   "src": "images/logos/bcc.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "BCC 1931 Witten club (main)"
+  },
+  {
+   "slug": "bea",
+   "src": "images/logos/bea-cand-1.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "BEA Systems for British European Airways (main)"
+  },
+  {
+   "slug": "benefit",
+   "src": "images/bici/benefit-197c06f9.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Chinese seal"
+  },
+  {
+   "slug": "benefit",
+   "src": "images/bici/benefit-abf01425.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "iCan"
+  },
+  {
+   "slug": "benefit",
+   "src": "images/bici/benefit-58f80c2a.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Ferrarelle"
+  },
+  {
+   "slug": "benefit",
+   "src": "images/logos/benefit.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Chinese seal (main)"
+  },
+  {
+   "slug": "bibigo",
+   "src": "images/logos/bibigo-site-020fcd09.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "CJ CheilJedang parent logo for bibigo (main)"
+  },
+  {
+   "slug": "bic",
+   "src": "images/bici/bic-0bf199f6.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "other BIC"
+  },
+  {
+   "slug": "bic",
+   "src": "images/bici/bic-2f5e7a34.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "unknown mark"
+  },
+  {
+   "slug": "bic",
+   "src": "images/bici/bic-7a128450.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "beincom"
+  },
+  {
+   "slug": "bic",
+   "src": "images/intelligence/logo_7da16e86ee40482b.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "BicCamera"
+  },
+  {
+   "slug": "bridgestone",
+   "src": "images/bici/bridgestone-6c82c82f.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "CSBK championship"
+  },
+  {
+   "slug": "budweiser",
+   "src": "images/bici/budweiser-6cb2e955.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "zippo photo"
+  },
+  {
+   "slug": "budweiser",
+   "src": "images/bici/budweiser-3fd0feac.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Budvar"
+  },
+  {
+   "slug": "budweiser",
+   "src": "images/bici/budweiser-aa4de58e.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Budvar"
+  },
+  {
+   "slug": "budweiser",
+   "src": "images/logos/budweiser.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Budejovicky Budvar (main)"
+  },
+  {
+   "slug": "byc",
+   "src": "images/logos/byc-4e3bf9ad.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "model photo for BYC (main)"
+  },
+  {
+   "slug": "camper",
+   "src": "images/intelligence/logo_af9388189a37cf1a.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Indie Campers"
+  },
+  {
+   "slug": "camper",
+   "src": "images/bici/camper-57c22dc0.webp",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Camper Wyszkow volleyball"
+  },
+  {
+   "slug": "cap",
+   "src": "images/photos/cap-2e49a26c.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "CAP Cooperativa Autotrasporti Pratese"
+  },
+  {
+   "slug": "cartier",
+   "src": "images/bici/cartier-40b3534a.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Velopiste Jacques-Cartier"
+  },
+  {
+   "slug": "cartier",
+   "src": "images/bici/cartier-9b6ea80e.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Editura Cartier publisher wordmark"
+  },
+  {
+   "slug": "casamia",
+   "src": "images/logos/casamia-site-2205ddb0.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Guud for Casamia (main)"
+  },
+  {
+   "slug": "ceragem",
+   "src": "images/logos/ceragem-51d40b4c.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "booth photo for Ceragem (main)"
+  },
+  {
+   "slug": "cha-medical-group-cha-hospital",
+   "src": "images/logos/cha-medical-group-cha-hospital-2afedddd.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "banner for CHA Medical (main)"
+  },
+  {
+   "slug": "chanel",
+   "src": "images/intelligence/logo_e2a146adf5ab362f.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Disney Junior"
+  },
+  {
+   "slug": "chanel",
+   "src": "images/bici/chanel-53900a89.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Disney Channel"
+  },
+  {
+   "slug": "chong-kun-dang-health",
+   "src": "images/logos/chong-kun-dang-health-6b7487f4.ico",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny icon for CKD Health (main)"
+  },
+  {
+   "slug": "cj-wellcare",
+   "src": "images/logos/cj-wellcare-cand-2.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "CJ CheilJedang news image for CJ Wellcare"
+  },
+  {
+   "slug": "costco-korea",
+   "src": "images/logos/costco-korea-fb3c1797.ico",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "favicon tiny C for Costco Korea (main)"
+  },
+  {
+   "slug": "coupang-eats",
+   "src": "images/logos/coupang-eats-6140cd1b.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "people photo for Coupang Eats (main)"
+  },
+  {
+   "slug": "cuckoo",
+   "src": "images/logos/cuckoo-558ab577.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny odd glyph for CUCKOO (main)"
+  },
+  {
+   "slug": "d-alba",
+   "src": "images/photos/d-alba-4c7e6ef2.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Gazzetta d'Alba"
+  },
+  {
+   "slug": "d-alba",
+   "src": "images/logos/d-alba.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Gazzetta d'Alba newspaper (main)"
+  },
+  {
+   "slug": "dial-records",
+   "src": "images/photos/dial-records-59e7dfab.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "record label photo"
+  },
+  {
+   "slug": "dial-records",
+   "src": "images/logos/dial-records.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "record label photo (main)"
+  },
+  {
+   "slug": "didimdol",
+   "src": "images/logos/didimdol-9e56bd0c.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny icon for Didimdol (main)"
+  },
+  {
+   "slug": "diesel",
+   "src": "images/bici/diesel-9260b3ec.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Porsche-Diesel"
+  },
+  {
+   "slug": "diesel",
+   "src": "images/intelligence/logo_58a10fd7ad5f78cf.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Hino"
+  },
+  {
+   "slug": "dior",
+   "src": "images/bici/dior-7c928c76.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Buendnis 90 Gruene"
+  },
+  {
+   "slug": "discovery-expedition",
+   "src": "images/logos/discovery-expedition.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "circle waves for Discovery Expedition (main)"
+  },
+  {
+   "slug": "discovery-records",
+   "src": "images/logos/discovery-records-cand-1.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "78rpm label photo (main)"
+  },
+  {
+   "slug": "doctornow",
+   "src": "images/logos/doctornow-56f83f74.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "app ad banner for Doctornow (main)"
+  },
+  {
+   "slug": "domino-s-pizza",
+   "src": "images/bici/domino-s-pizza-35453621.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "pavement photo"
+  },
+  {
+   "slug": "dong-a-pencil",
+   "src": "images/logos/dong-a-pencil-cand-5.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "pencils photo for Dong-A Pencil (main)"
+  },
+  {
+   "slug": "doosan",
+   "src": "images/logos/doosan.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "blue D for Doosan (main)"
+  },
+  {
+   "slug": "doosohn-company",
+   "src": "images/logos/doosohn-company-852b462b.webp",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "suit photo for Doosohn (main)"
+  },
+  {
+   "slug": "dove",
+   "src": "images/bici/dove-0bc33252.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "bible-app icon"
+  },
+  {
+   "slug": "dove",
+   "src": "images/bici/dove-8909a2fa.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Dove Television"
+  },
+  {
+   "slug": "dove",
+   "src": "images/logos/dove.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "bible-app icon (main)"
+  },
+  {
+   "slug": "ducati",
+   "src": "images/bici/ducati-f6d57ff8.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "old tank badge photo"
+  },
+  {
+   "slug": "dunkin",
+   "src": "images/logos/dunkin.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "storefront photo (main)"
+  },
+  {
+   "slug": "emergency-records",
+   "src": "images/logos/emergency-records-cand-2.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "record label photo (main)"
+  },
+  {
+   "slug": "finda",
+   "src": "images/logos/finda-b43f738c.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "phone mockup for Finda (main)"
+  },
+  {
+   "slug": "fursys",
+   "src": "images/logos/fursys-99c39973.svg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "black shape for Fursys (main)"
+  },
+  {
+   "slug": "g-shock",
+   "src": "images/logos/g-shock.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "document scan (main)"
+  },
+  {
+   "slug": "golfzon",
+   "src": "images/logos/golfzon-52730df4.ico",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny bars for Golfzon (main)"
+  },
+  {
+   "slug": "gucci",
+   "src": "images/bici/gucci-e38731e8.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "House of Gucci film"
+  },
+  {
+   "slug": "hallasan-soju",
+   "src": "images/logos/hallasan-soju-18500a5b.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "bottle photo for Hallasan Soju (main)"
+  },
+  {
+   "slug": "hancom",
+   "src": "images/logos/hancom-e6dbf2f8.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "event photo for Hancom (main)"
+  },
+  {
+   "slug": "heinz",
+   "src": "images/bici/heinz-3b7daafa.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Heinz Nixdorf Institut"
+  },
+  {
+   "slug": "heinz",
+   "src": "images/bici/heinz-fcd1c627.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Buergerliste Heinz"
+  },
+  {
+   "slug": "heinz",
+   "src": "images/bici/heinz-6b8d9c70.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Heinz-Brandt-Schule"
+  },
+  {
+   "slug": "henkel",
+   "src": "images/bici/henkel-2214488b.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Gerda Henkel Stiftung"
+  },
+  {
+   "slug": "herm-s",
+   "src": "images/bici/herm-s-c7baf3d7.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Hermes courier"
+  },
+  {
+   "slug": "herm-s",
+   "src": "images/bici/herm-s-ab601acf.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Hermes other"
+  },
+  {
+   "slug": "herm-s",
+   "src": "images/bici/herm-s-0f949079.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Hermes water"
+  },
+  {
+   "slug": "herm-s",
+   "src": "images/bici/herm-s-a9ffa4cc.webp",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Evri/Hermes courier"
+  },
+  {
+   "slug": "herm-s",
+   "src": "images/bici/herm-s-6ecc8374.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Hermes airports"
+  },
+  {
+   "slug": "hongseong-hanwoo",
+   "src": "images/logos/hongseong-hanwoo-55f7ec29.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "certification badge for Hongseong Hanwoo (main)"
+  },
+  {
+   "slug": "hyundai-livart",
+   "src": "images/logos/hyundai-livart-site-0b09ffd8.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Samsung logo for Hyundai Livart (main)"
+  },
+  {
+   "slug": "iceland",
+   "src": "images/photos/iceland-310743e4.svg",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "red star circle"
+  },
+  {
+   "slug": "jongro-hakwon",
+   "src": "images/logos/jongro-hakwon-0ccfb1df.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "branch list image for Jongro Hakwon (main)"
+  },
+  {
+   "slug": "k-bank",
+   "src": "images/logos/k-bank-5ff76e58.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "ad banner for K bank (main)"
+  },
+  {
+   "slug": "k2",
+   "src": "images/bici/k2-7afb556c.svg",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "K2 yellow-blue"
+  },
+  {
+   "slug": "k2",
+   "src": "images/bici/k2-9a5ef47e.png",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "K 2 boxes"
+  },
+  {
+   "slug": "k2",
+   "src": "images/bici/k2-aeab754e.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "K2 Advisors"
+  },
+  {
+   "slug": "k2",
+   "src": "images/logos/k2.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "K2 yellow-blue (main)"
+  },
+  {
+   "slug": "kakao-friends",
+   "src": "images/logos/kakao-friends-cand-5.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "character banner for Kakao Friends (main)"
+  },
+  {
+   "slug": "kakao-pay",
+   "src": "images/logos/kakao-pay-07d2d3b1.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "slogan banner for Kakao Pay (main)"
+  },
+  {
+   "slug": "kathmandu",
+   "src": "images/logos/kathmandu.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "KMD Brands parent (main)"
+  },
+  {
+   "slug": "kellogg-s",
+   "src": "images/bici/kellogg-s-448edc94.svg",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "W.K. Kellogg Co historic"
+  },
+  {
+   "slug": "kolon-sport",
+   "src": "images/logos/kolon-sport.svg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Weather Monster (main)"
+  },
+  {
+   "slug": "kr-motors",
+   "src": "images/logos/kr-motors-wd.jpg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Hyosung logo for KR Motors (main, former Hyosung Motors)"
+  },
+  {
+   "slug": "l-occitane",
+   "src": "images/bici/l-occitane-fbc4ba79.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "V2.fi"
+  },
+  {
+   "slug": "la-mer",
+   "src": "images/bici/la-mer-effcc34f.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "SNSM"
+  },
+  {
+   "slug": "la-mer",
+   "src": "images/bici/la-mer-95d640c7.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Chant de la mer"
+  },
+  {
+   "slug": "la-mer",
+   "src": "images/bici/la-mer-90d1dd0b.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "La Mer de sable"
+  },
+  {
+   "slug": "la-mer",
+   "src": "images/bici/la-mer-23357b6f.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Vattetot-sur-Mer"
+  },
+  {
+   "slug": "la-mer",
+   "src": "images/logos/la-mer.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "SNSM sea rescue (main)"
+  },
+  {
+   "slug": "levi-s",
+   "src": "images/bici/levi-s-db0624c4.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Levi's Stadium"
+  },
+  {
+   "slug": "lipton",
+   "src": "images/bici/lipton-c668af98.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Wachtell Lipton law firm"
+  },
+  {
+   "slug": "london-bagel-museum",
+   "src": "images/logos/london-bagel-museum-site-f49f888c.webp",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Instagram icon for London Bagel Museum (main)"
+  },
+  {
+   "slug": "lotte-confectionery",
+   "src": "images/logos/lotte-confectionery-cand-3.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "news-watermarked image for Lotte Confectionery (main)"
+  },
+  {
+   "slug": "lotte-world",
+   "src": "images/logos/lotte-world-58f630c9.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "mascot banner for Lotte World (main)"
+  },
+  {
+   "slug": "lush",
+   "src": "images/bici/lush-7fac9a63.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "LUSH engineering"
+  },
+  {
+   "slug": "marlboro",
+   "src": "images/bici/marlboro-21e97248.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Town of Upper Marlboro"
+  },
+  {
+   "slug": "marlboro",
+   "src": "images/bici/marlboro-f6ce2caf.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Marlboro College"
+  },
+  {
+   "slug": "marlboro",
+   "src": "images/bici/marlboro-084eb14d.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Ferrari livery photo"
+  },
+  {
+   "slug": "marlboro",
+   "src": "images/bici/marlboro-eb160f9e.png",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Marlboro Music"
+  },
+  {
+   "slug": "match",
+   "src": "images/photos/match-b73cae9b.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Swedish Match"
+  },
+  {
+   "slug": "mercator",
+   "src": "images/photos/mercator-ad08b06e.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Stiftung Mercator"
+  },
+  {
+   "slug": "mercator",
+   "src": "images/logos/mercator.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Stiftung Mercator (main)"
+  },
+  {
+   "slug": "mercedes-benz",
+   "src": "images/bici/mercedes-benz-30390c46.png",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "model badge 4MATIC"
+  },
+  {
+   "slug": "mercedes-benz",
+   "src": "images/bici/mercedes-benz-d7c64454.png",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "model badge C300"
+  },
+  {
+   "slug": "meta-platforms",
+   "src": "images/logos/meta-platforms-wd.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "old FACEBOOK wordmark for Meta Platforms (main)"
+  },
+  {
+   "slug": "misfits",
+   "src": "images/logos/misfits.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Misfits Boxing for Misfits Health (main)"
+  },
+  {
+   "slug": "mode-tour",
+   "src": "images/logos/mode-tour-43072efa.avif",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "ad graphic for Mode Tour (main)"
+  },
+  {
+   "slug": "montblanc",
+   "src": "images/intelligence/logo_342033a94121c751.svg",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "MONT BLANC 2-line"
+  },
+  {
+   "slug": "montblanc",
+   "src": "images/bici/montblanc-266d4b07.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "MBLIVE TV"
+  },
+  {
+   "slug": "montblanc",
+   "src": "images/logos/montblanc.svg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "MONT BLANC 2-line"
+  },
+  {
+   "slug": "munson",
+   "src": "images/logos/munson.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "National Park Service for Munson (main)"
+  },
+  {
+   "slug": "mus-e-des-beaux-arts-de-montr-al",
+   "src": "images/logos/mus-e-des-beaux-arts-de-montr-al.svg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "generic pin icon for MBAM (main)"
+  },
+  {
+   "slug": "namyang-dairy",
+   "src": "images/logos/namyang-dairy.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Namyang mall logo (main)"
+  },
+  {
+   "slug": "national",
+   "src": "images/logos/national.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "US National Archives for Panasonic National (main)"
+  },
+  {
+   "slug": "neowiz",
+   "src": "images/logos/neowiz.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "red flower for NEOWIZ (main)"
+  },
+  {
+   "slug": "new-balance",
+   "src": "images/intelligence/logo_08bd16e1a6e24e45.xsl",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "broken .xsl file"
+  },
+  {
+   "slug": "new-balance",
+   "src": "images/bici/new-balance-84a13875.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Balance bar"
+  },
+  {
+   "slug": "nongshim",
+   "src": "images/logos/nongshim.svg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "N.LIVE for Nongshim (main)"
+  },
+  {
+   "slug": "noz",
+   "src": "images/photos/noz-b66f2580.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Neue Osnabruecker Zeitung"
+  },
+  {
+   "slug": "nudie-jeans",
+   "src": "images/logos/nudie-jeans-site-22dcea39.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "landscape photo (main)"
+  },
+  {
+   "slug": "olympus",
+   "src": "images/bici/olympus-6b70e3ca.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "badge photo"
+  },
+  {
+   "slug": "olympus",
+   "src": "images/bici/olympus-f6dab7b2.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Olympus Mobility"
+  },
+  {
+   "slug": "olympus",
+   "src": "images/bici/olympus-7f8194e7.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Olympus airways"
+  },
+  {
+   "slug": "omega",
+   "src": "images/bici/omega-b356cb24.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Omega Force"
+  },
+  {
+   "slug": "omega",
+   "src": "images/bici/omega-c0fc9856.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Omega Made in Italy"
+  },
+  {
+   "slug": "omega",
+   "src": "images/bici/omega-010a0da1.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Omega Aerial Refueling Services"
+  },
+  {
+   "slug": "openview",
+   "src": "images/logos/openview.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "HP logo for OpenView VC (main)"
+  },
+  {
+   "slug": "origins",
+   "src": "images/bici/origins-db67ea27.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Stargate Origins"
+  },
+  {
+   "slug": "origins",
+   "src": "images/logos/origins.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Stargate Origins (main)"
+  },
+  {
+   "slug": "oxo",
+   "src": "images/updates/0092_logo_bb940f2b299349.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "University of Oxford (main)"
+  },
+  {
+   "slug": "panduro-hobby",
+   "src": "images/logos/panduro-hobby.svg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Kreatima for Panduro (main)"
+  },
+  {
+   "slug": "paul-smith",
+   "src": "images/bici/paul-smith-84d1b7c8.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Pearl Harbor photo"
+  },
+  {
+   "slug": "paul-smith",
+   "src": "images/bici/paul-smith-e0e625f5.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Tinker Tailor film"
+  },
+  {
+   "slug": "paul-smith",
+   "src": "images/logos/paul-smith.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Pearl Harbor photo (main)"
+  },
+  {
+   "slug": "prada",
+   "src": "images/intelligence/logo_d0d4fc516ed15181.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Devil Wears Prada film"
+  },
+  {
+   "slug": "prada",
+   "src": "images/bici/prada-537322c9.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Devil Wears Prada film"
+  },
+  {
+   "slug": "prada",
+   "src": "images/bici/prada-4854a8ad.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Diet Prada"
+  },
+  {
+   "slug": "praxis",
+   "src": "images/photos/praxis-7487f1e4.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "WRP Wettbewerb in Recht und Praxis"
+  },
+  {
+   "slug": "puma",
+   "src": "images/bici/puma-e081bac1.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Puma Energy"
+  },
+  {
+   "slug": "puma",
+   "src": "images/bici/puma-e20b52e0.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "broken/blank"
+  },
+  {
+   "slug": "ralph-lauren",
+   "src": "images/bici/ralph-lauren-b09bd2e4.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "clothing photo"
+  },
+  {
+   "slug": "ralph-lauren",
+   "src": "images/bici/ralph-lauren-2de6432a.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "label photo"
+  },
+  {
+   "slug": "ralph-lauren",
+   "src": "images/logos/ralph-lauren.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "clothing photo (main)"
+  },
+  {
+   "slug": "reebok",
+   "src": "images/bici/reebok-ec9373ed.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Ree-T-bok unknown"
+  },
+  {
+   "slug": "repco",
+   "src": "images/photos/repco-60236960.jpg",
+   "role": "history",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Repco-Brabham badge photo"
+  },
+  {
+   "slug": "repco",
+   "src": "images/logos/repco.jpg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "Repco-Brabham badge photo (main)"
+  },
+  {
+   "slug": "rolling-stones-records",
+   "src": "images/logos/rolling-stones-records.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "record label photo (main)"
+  },
+  {
+   "slug": "sbs",
+   "src": "images/logos/sbs.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "SBS play sub-service for SBS (main)"
+  },
+  {
+   "slug": "seokbong-toast",
+   "src": "images/logos/seokbong-toast-site-acdd38e6.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "SEOUL TOAST for Seokbong Toast (main)"
+  },
+  {
+   "slug": "seoul-auction",
+   "src": "images/logos/seoul-auction-d65af54b.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "auction event photo for Seoul Auction (main)"
+  },
+  {
+   "slug": "shinwon",
+   "src": "images/logos/shinwon-e088e863.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Sejung INDIAN brand for Shinwon (main)"
+  },
+  {
+   "slug": "siemens",
+   "src": "images/bici/siemens-cfc565fb.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "BenQ-Siemens JV"
+  },
+  {
+   "slug": "siemens",
+   "src": "images/bici/siemens-3bff9593.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "product photo"
+  },
+  {
+   "slug": "southland-records",
+   "src": "images/logos/southland-records-cand-1.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "78rpm label photo (main)"
+  },
+  {
+   "slug": "ssangbangwool",
+   "src": "images/logos/ssangbangwool-ee169ff3.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "photo-like for Ssangbangwool (main)"
+  },
+  {
+   "slug": "starbucks",
+   "src": "images/bici/starbucks-66338247.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "storefront photo"
+  },
+  {
+   "slug": "swarovski",
+   "src": "images/bici/swarovski-e92b42d2.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "storefront sign photo"
+  },
+  {
+   "slug": "swarovski",
+   "src": "images/bici/swarovski-323fc697.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "sign photo"
+  },
+  {
+   "slug": "tag-heuer",
+   "src": "images/bici/tag-heuer-12dea052.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "building banner photo"
+  },
+  {
+   "slug": "tag-heuer",
+   "src": "images/bici/tag-heuer-f25eaa6b.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "stickers photo"
+  },
+  {
+   "slug": "the-body-shop",
+   "src": "images/bici/the-body-shop-687ddd86.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "SEAT emblem photo"
+  },
+  {
+   "slug": "the-body-shop",
+   "src": "images/bici/the-body-shop-aba78b75.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Fresh Body Shop (other shop)"
+  },
+  {
+   "slug": "the-body-shop",
+   "src": "images/bici/the-body-shop-8489cc08.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "TONE"
+  },
+  {
+   "slug": "the-north-face",
+   "src": "images/bici/the-north-face-c83e5210.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "magnifier photo"
+  },
+  {
+   "slug": "theborn-korea",
+   "src": "images/logos/theborn-korea-ff387d11.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny red glyph for TheBorn Korea (main)"
+  },
+  {
+   "slug": "thisisneverthat",
+   "src": "images/logos/thisisneverthat.png",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "t app icon (main)"
+  },
+  {
+   "slug": "toms",
+   "src": "images/intelligence/logo_813ab72f23efd90d.png",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Tom and Jerry"
+  },
+  {
+   "slug": "toms",
+   "src": "images/bici/toms-7295fdff.svg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Tom and Jerry"
+  },
+  {
+   "slug": "toms",
+   "src": "images/logos/toms.svg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Toms Danish confectionery (main)"
+  },
+  {
+   "slug": "tory-burch",
+   "src": "images/bici/tory-burch-0da5bc41.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "pattern artwork"
+  },
+  {
+   "slug": "tory-burch",
+   "src": "images/logos/tory-burch.jpg",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "keep",
+   "note": "pattern artwork (main)"
+  },
+  {
+   "slug": "tous-les-jours",
+   "src": "images/logos/tous-les-jours.jpg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "TLJ bakery badge (main)"
+  },
+  {
+   "slug": "tree-planet",
+   "src": "images/logos/tree-planet-02a21628.png",
+   "role": "logo",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "forest photo for Tree Planet (main)"
+  },
+  {
+   "slug": "ud-dental",
+   "src": "images/logos/ud-dental-11e37ff8.jpg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "tiny multi logos for UD Dental (main)"
+  },
+  {
+   "slug": "uprising-records",
+   "src": "images/logos/uprising-records-cand-1.jpg",
+   "role": "logo",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "artwork painting (main)"
+  },
+  {
+   "slug": "volvo",
+   "src": "images/bici/volvo-d9a7ca22.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "grille photo"
+  },
+  {
+   "slug": "volvo",
+   "src": "images/bici/volvo-2f66b079.jpg",
+   "role": "history",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "VIKING badge photo"
+  },
+  {
+   "slug": "wisely",
+   "src": "images/logos/wisely-site-3ed82eaf.svg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "ISMS certification badge for Wisely (main)"
+  },
+  {
+   "slug": "won-halmoni-bossam",
+   "src": "images/logos/won-halmoni-bossam-cand-5.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "person photo composite (hist)"
+  },
+  {
+   "slug": "xerox",
+   "src": "images/bici/xerox-9ebdbea5.jpg",
+   "role": "history",
+   "verdict": "not-a-logo",
+   "action": "remove",
+   "note": "Fuji Xerox badge photo"
+  },
+  {
+   "slug": "yahoo",
+   "src": "images/logos/yahoo.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Verizon Media for Yahoo (main)"
+  },
+  {
+   "slug": "yellow-balloon-tour",
+   "src": "images/logos/yellow-balloon-tour-e8a1a7c6.jpg",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Florence city photo for Yellow Balloon Tour (main)"
+  },
+  {
+   "slug": "zexel",
+   "src": "images/logos/zexel.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Bosch logo for Zexel (main)"
+  }
+ ]
+}
