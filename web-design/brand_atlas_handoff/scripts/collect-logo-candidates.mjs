@@ -9,7 +9,7 @@
 // 결과: <out>/<slug>/<n>.<ext> + manifest.json. 채택은 apply-logo-candidates.mjs 에 "slug:n" 을 넘긴다.
 // 자동 채택은 절대 하지 않는다 — 이름이 같은 다른 개체(인물·앨범·지명)가 흔하다.
 //
-// Usage: node scripts/collect-logo-candidates.mjs [--only slug,slug] [--naver] [--all] [--out scratchpad/logo-cands]
+// Usage: node scripts/collect-logo-candidates.mjs [--only slug,slug] [--naver] [--all] [--out scratchpad/logo-cands] [--hints hints.json]
 import fs from "node:fs";
 import path from "node:path";
 import { execFile } from "node:child_process";
@@ -32,7 +32,9 @@ const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const BOT_UA = "BrandAtlasBot/1.0 (https://brandatlas.co.kr; logo archive; contact via site form)";
 
 const isRealLogo = (s) => !!s && !String(s).includes("brand_atlas_logo_mark") && !String(s).startsWith("data:");
-const siteOf = (b) => String(b.facts?.officialWebsite || b.officialWebsite || "").trim();
+// --hints file.json: { slug: { site, wiki: ["en:Title", "ko:제목"], qid } } — 사람이 확인한 공식 도메인·문서만 넣는다.
+const HINTS = opt("--hints") ? JSON.parse(fs.readFileSync(path.resolve(opt("--hints")), "utf8")) : {};
+const siteOf = (b) => String(HINTS[b.urlSlug || b.slug]?.site || b.facts?.officialWebsite || b.officialWebsite || "").trim();
 const koName = (b) => /[가-힣]/.test(b.name) ? b.name : (b.nameKo || "");
 const enName = (b) => String(b.nameEn || (!/[가-힣]/.test(b.name) ? b.name : "")).trim();
 const designerOf = (b) => { const m = /사례입니다\.\s*(.+?)가 아이덴티티 작업의 디자이너/.exec(String(b.definition || "")); return m ? m[1].trim() : ""; };
@@ -65,16 +67,35 @@ async function wikiFetch(url) {
 const LOGO_FILE = /logo|wordmark|emblem|symbol|\blabel\b|seal|crest|marque|mark|brand|\bci\b|\bbi\b|signet|record/i;
 const JUNK_FILE = /flag_of|commons-logo|question_book|ambox|edit-ltr|symbol_category|wiki|icon_|star_|padlock|crystal|nuvola|disambig|ooui|red_pog|map|location|stub|magnify|speaker|sound|pd-icon|cc-|gnome|arrow|checkmark/i;
 
+// 개체가 이미 확정된 문서 제목: entityLinks.sameAs(P856 일치로 확정) + --hints 의 wiki.
+// 이름 검색은 동음이의어 상위 3건에 막힌다(도브 → 새 문서들) — 확정 제목이 있으면 그것부터 쓴다.
+function knownTitles(b) {
+  const out = [];
+  for (const u of b.entityLinks?.sameAs || []) {
+    const m = /^https:\/\/(en|ko)\.wikipedia\.org\/wiki\/(.+)$/.exec(u);
+    if (m) out.push([m[1], decodeURIComponent(m[2]).replace(/_/g, " ")]);
+  }
+  for (const w of HINTS[b.urlSlug || b.slug]?.wiki || []) { const [lang, ...t] = w.split(":"); out.push([lang, t.join(":")]); }
+  return out;
+}
+
 async function wikipediaCandidates(b) {
   const out = [];
   const names = [enName(b), koName(b), b.name].filter(Boolean);
   const langs = [["en", enName(b) || b.name], ...(koName(b) ? [["ko", koName(b)]] : [])];
   const seenTitles = new Set();
-  for (const [lang, q] of langs) {
-    const j = await wikiFetch(`https://${lang}.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(q)}&gsrlimit=3&prop=pageimages|pageprops|images&piprop=original&ppprop=wikibase_item&imlimit=40&format=json`);
-    const pages = Object.values(j?.query?.pages || {}).sort((a, c) => (a.index || 9) - (c.index || 9));
+  const qidKnown = b.entityLinks?.wikidata || HINTS[b.urlSlug || b.slug]?.qid;
+  const queries = [...knownTitles(b).map(([lang, t]) => [lang, t, true]), ...langs.map(([lang, q]) => [lang, q, false])];
+  for (const [lang, q, exact] of queries) {
+    const j = exact
+      ? await wikiFetch(`https://${lang}.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(q)}&redirects=1&prop=pageimages|pageprops|images&piprop=original&ppprop=wikibase_item&imlimit=60&format=json`)
+      : await wikiFetch(`https://${lang}.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(q)}&gsrlimit=3&prop=pageimages|pageprops|images&piprop=original&ppprop=wikibase_item&imlimit=40&format=json`);
+    const pages = Object.values(j?.query?.pages || {}).filter(p => !p.missing && p.pageid).sort((a, c) => (a.index || 9) - (c.index || 9));
     for (const p of pages) {
-      if (!titleMatches(p.title, names) || seenTitles.has(p.title) || JUNK_TITLE.test(p.title)) continue;
+      if (seenTitles.has(p.title) || JUNK_TITLE.test(p.title)) continue;
+      if (!exact && !titleMatches(p.title, names)) continue;
+      // 확정 QID와 다른 개체의 문서는 이름이 같아도 버린다.
+      if (!exact && qidKnown && p.pageprops?.wikibase_item && p.pageprops.wikibase_item !== qidKnown) continue;
       seenTitles.add(p.title);
       const qid = p.pageprops?.wikibase_item;
       if (p.original?.source) out.push({ url: p.original.source.split("?")[0], kind: `wiki-${lang}:${p.title}`, prio: 7 });
@@ -88,8 +109,9 @@ async function wikipediaCandidates(b) {
       if (qid) out.push(...await wikidataCandidates(qid, p.title));
     }
   }
+  if (qidKnown && !out.some(o => o.kind.includes(qidKnown))) out.push(...await wikidataCandidates(qidKnown, "entityLinks"));
   // 문서가 없으면 Wikidata 검색으로 직접
-  if (!seenTitles.size) {
+  if (!seenTitles.size && !qidKnown) {
     const ws = await wikiFetch(`https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(enName(b) || b.name)}&language=en&limit=4&format=json`);
     for (const e of (ws?.search || [])) {
       if (!titleMatches(e.label, names)) continue;
