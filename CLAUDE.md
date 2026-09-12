@@ -112,6 +112,11 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 편입은 `scripts/assign-collections.mjs`가 `brand.collections`에 쓰고 근거를 `reports/collections.json`에 남긴다.
 편입 기준은 Wikidata 클레임뿐이다 — 이름·설명 키워드로 넣지 않는다. 5건 미만 컬렉션은 허브를 만들지 않는다.
 
+`industry` 필드가 있는 컬렉션(현재 `ai`)은 허브 대신 **산업 분류로 발행**한다 — 편입 브랜드의 `domainSlug`를
+그 산업으로 옮기고 원래 값은 `industryBefore`에 남긴다(편입에서 빠지면 되돌린다). 같은 목록의 허브가 두 벌 생기지
+않도록 `collection/ai.html`은 `category/ai.html`로 301. `data.industries[].pinned` 산업은 모든 산업 목록의 맨 앞에,
+홈·산업별 카드 그리드에서는 줄 전체 폭으로 놓인다.
+
 **한글 표기 보강**은 `scripts/add-korean-labels.mjs` — QID가 확정된 레코드에 한해 Wikidata ko 레이블이나
 한국어 위키백과 문서 제목을 넣는다. 음차 생성은 금지(§1)이므로 근거가 없으면 비워 둔다.
 

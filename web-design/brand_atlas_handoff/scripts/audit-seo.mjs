@@ -8,6 +8,8 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
+// 산업 분류 수는 데이터가 정한다(2026-09-12 AI 추가로 12 → 13). 수록 브랜드가 있는 domainSlug 마다 허브 1개.
+const EXPECTED_CATEGORIES = new Set(JSON.parse(fs.readFileSync(path.join(ROOT, "data/brand-atlas.json"), "utf8")).allBrands.map(b => b.domainSlug || "etc")).size;
 const asJson = process.argv.includes("--json");
 
 const files = fs.readdirSync(path.join(ROOT, "brand")).filter(f => f.endsWith(".html"));
@@ -208,7 +210,7 @@ if (asJson) {
   console.log(JSON.stringify(report, null, 1));
   const ac = [
     ["AC-A1 허브 정적 링크 > 0", Object.entries(report.hubs.staticBrandLinks).filter(([k]) => k !== "pages/countries.html").every(([, v]) => v > 0)],
-    ["AC-A2 카테고리 페이지 == 12", report.hubs.categoryPages === 12],
+    [`AC-A2 카테고리 페이지 == 산업 수(${EXPECTED_CATEGORIES})`, report.hubs.categoryPages === EXPECTED_CATEGORIES],
     // 2026-09 개정: 개수 기준(>=15)에서 품질 기준으로 바꿨다. 종전에는 브랜드 5개짜리
     // 국가도 발행해 본문 600자대 껍데기가 섞였고, 그런 허브는 색인되지 않아 크롤 경로로
     // 기능하지 못했다. 얇은 허브를 빼면 14개가 되지만 커버 브랜드는 497개로 거의 그대로다

@@ -13,7 +13,9 @@
 
 export const COLLECTIONS = [
   {
-    slug: "ai", name: "AI 브랜드", en: "AI Brands",
+    // industry: 이 컬렉션은 허브 대신 산업 분류(category/ai.html)로 발행한다 — 편입 브랜드의 domainSlug 를
+    // 이 값으로 옮긴다(assign-collections). 같은 목록의 허브가 두 벌 생기지 않도록 컬렉션 허브는 만들지 않는다.
+    slug: "ai", name: "AI 브랜드", en: "AI Brands", industry: "ai",
     p452: ["Q11660"], p31: ["Q117246174", "Q870780", "Q115305900", "Q133284163"],
     include: ["cohere", "gemini", "robin", "twelve-labs", "perplexity", "hook-ai", "faculty-ai", "jupi", "analog", "visual-electric", "isomorphic-labs", "crowdworks"],
     exclude: ["adobe"],
@@ -92,5 +94,5 @@ export const MIN_COLLECTION_BRANDS = 5;
 export function publishedCollections(brands, isListed) {
   const n = new Map();
   for (const b of brands) if (isListed(b)) for (const s of collectionsOf(b)) n.set(s, (n.get(s) || 0) + 1);
-  return new Set([...n].filter(([, c]) => c >= MIN_COLLECTION_BRANDS).map(([s]) => s));
+  return new Set([...n].filter(([s, c]) => c >= MIN_COLLECTION_BRANDS && !COLLECTION_BY_SLUG.get(s).industry).map(([s]) => s));
 }

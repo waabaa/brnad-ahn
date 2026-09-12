@@ -58,6 +58,10 @@ fs.writeFileSync(CACHE, JSON.stringify(cache));
 // 3) 편입
 const classSets = new Map(COLLECTIONS.map(c => [c.slug, new Set(c.p31.flatMap(cls => cache.subclasses[cls] || [cls]))]));
 const report = {};
+const industryName = new Map(data.industries.map(i => [i.id, i.name]));
+const missingInd = COLLECTIONS.filter(c => c.industry && !industryName.has(c.industry)).map(c => c.industry);
+if (missingInd.length) throw new Error(`data.industries 에 없는 산업: ${missingInd.join(", ")}`);
+const moved = [];
 const counts = Object.fromEntries(COLLECTIONS.map(c => [c.slug, 0]));
 for (const b of data.allBrands) {
   const q = qidOf(b);
@@ -76,7 +80,17 @@ for (const b of data.allBrands) {
     if (why) { got.push(c.slug); (report[slugOf(b)] ||= []).push({ collection: c.slug, why }); counts[c.slug]++; }
   }
   if (got.length) b.collections = got; else delete b.collections;
+  // 산업으로 발행하는 컬렉션(industry)은 domainSlug 를 옮기고, 원래 값을 industryBefore 에 남긴다.
+  // 편입에서 빠지면 원래 산업으로 되돌린다.
+  const ind = COLLECTIONS.find(c => c.industry && got.includes(c.slug))?.industry;
+  if (ind && b.domainSlug !== ind) {
+    b.industryBefore = b.domainSlug; b.domainSlug = ind; b.industry = industryName.get(ind); moved.push(`${slugOf(b)} → ${ind}`);
+  } else if (!ind && b.industryBefore && COLLECTIONS.some(c => c.industry === b.domainSlug)) {
+    moved.push(`${slugOf(b)} ← ${b.industryBefore}`); b.domainSlug = b.industryBefore; b.industry = industryName.get(b.domainSlug); delete b.industryBefore;
+  }
 }
+for (const i of data.industries) i.count = data.allBrands.filter(b => b.domainSlug === i.id).length;
+if (moved.length) console.log(`산업 이동 ${moved.length}건: ${moved.join(", ")}`);
 const unknownInclude = COLLECTIONS.flatMap(c => (c.include || []).filter(s => !data.allBrands.some(b => slugOf(b) === s)).map(s => `${c.slug}:${s}`));
 if (unknownInclude.length) console.warn("include에 없는 slug:", unknownInclude.join(", "));
 console.log(counts);

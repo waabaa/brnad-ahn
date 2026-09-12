@@ -760,3 +760,5 @@
 # 2026-09-07 국가 허브 재편 — 디렉토리 등급 분리로 브랜드 수가 5 미만이 된 국가 허브
 /country/new-zealand.html /pages/countries.html;
 /country/norway.html /pages/countries.html;
+# 2026-09-12 AI 컬렉션을 산업 분류로 승격 — 같은 목록의 허브가 두 벌 생기지 않게 컬렉션 허브를 산업 허브로 보낸다
+/collection/ai.html /category/ai.html;

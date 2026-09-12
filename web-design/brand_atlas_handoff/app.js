@@ -556,6 +556,7 @@ function homeDomainCards(data) {
 
 function industryEditorialDescription(industry) {
   const map = {
+    ai: "챗GPT, 클로드, 제미나이처럼 AI 자체가 제품인 서비스와 대규모 언어 모델을 만드는 연구 기업의 브랜드를 모았습니다.",
     "food-beverage": "스타벅스부터 코카-콜라까지, 일상을 채우는 음료·식품 브랜드의 역사와 전략을 연결합니다.",
     "retail-commerce": "아마존, 유니클로, 립톤처럼 구매 경험과 유통 방식을 바꾼 브랜드를 탐색합니다.",
     "fashion-luxury": "루이비통, 샤넬, 에르메스처럼 욕망과 정체성을 설계한 브랜드들의 계보를 읽습니다.",

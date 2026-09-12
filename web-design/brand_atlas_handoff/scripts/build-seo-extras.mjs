@@ -90,7 +90,9 @@ for (const b of BRANDS) {
   if (!byIndustry.has(key)) byIndustry.set(key, { label: b.industry || "기타", items: [], directory: [] });
   (isListed(b) ? byIndustry.get(key).items : byIndustry.get(key).directory).push(b);
 }
-const industryGroups = [...byIndustry.entries()].sort((a, b) => b[1].items.length - a[1].items.length);
+// 산업 순서는 수록 수 내림차순이되, pinned 산업(data.industries[].pinned — 현재 AI)은 맨 앞에 둔다.
+const PINNED = new Set((DATA.industries || []).filter(i => i.pinned).map(i => i.id));
+const industryGroups = [...byIndustry.entries()].sort((a, b) => (PINNED.has(b[0]) - PINNED.has(a[0])) || (b[1].items.length - a[1].items.length));
 const categoryChips = (current) => `<nav class="chips" aria-label="다른 산업">${industryGroups.map(([slug, g]) => `<a class="chip${slug === current ? " active" : ""}" href="${P}category/${slug}.html">${esc(g.label)} <small>${g.items.length}</small></a>`).join("")}</nav>`;
 
 for (const [slug, g] of industryGroups) {
@@ -259,9 +261,12 @@ const indexNav = (current = "", prefix = P) => `<nav class="index-nav" aria-labe
 }
 
 // ─── 5) 산업별 카드 페이지 ────────────────────────────────────────────────
+// pinned 산업(AI)은 줄 전체를 차지하는 카드로 맨 앞에 둔다 — 13개가 4·3·2열 어디서나 1 + 12로 딱 맞는다.
+// 스타일은 인라인으로 둔다(styles.css 를 바꾸면 CSS_V 를 올려 전 페이지를 다시 써야 한다).
 function catCard(slug, g, prefix = P) {
-  const top = [...g.items].sort(byScore).slice(0, 5);
-  return `<a class="cat-card" href="${prefix}category/${slug}.html"><span class="head"><b>${esc(g.label)}</b><span class="n">${g.items.length}개</span></span><p>${esc(oneLineIndustry(slug))}</p><span class="logos">${top.map(b => `<span>${hasLogo(b) ? `<img src="${assetHref(b.logo, prefix)}" alt="" loading="lazy" decoding="async">` : ""}</span>`).join("")}</span></a>`;
+  const pinned = PINNED.has(slug);
+  const top = [...g.items].sort(byScore).filter(b => !pinned || hasLogo(b)).slice(0, pinned ? 10 : 5);
+  return `<a class="cat-card" href="${prefix}category/${slug}.html"${pinned ? ` style="grid-column:1/-1"` : ""}><span class="head"><b>${esc(g.label)}</b><span class="n">${g.items.length}개</span></span><p>${esc(pinned ? (INDUSTRY_DESC[slug] || "") : oneLineIndustry(slug))}</p><span class="logos"${pinned ? ` style="grid-template-columns:repeat(auto-fill,minmax(52px,1fr))"` : ""}>${top.map(b => `<span>${hasLogo(b) ? `<img src="${assetHref(b.logo, prefix)}" alt="" loading="lazy" decoding="async">` : ""}</span>`).join("")}</span></a>`;
 }
 function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+/g, " ").slice(0, 70); }
 {
@@ -270,7 +275,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
   const blocks = industryGroups.map(([slug, g]) => `<section class="group" id="ind-${slug}"><div class="section-head"><h2><a href="${P}category/${slug}.html">${esc(g.label)}</a> <small>${g.items.length}개</small></h2><a class="more" href="${P}category/${slug}.html">${esc(g.label)} 전체 보기 →</a></div>${tiles([...g.items].sort(byScore).slice(0, 12), P, { sub: "origin", size: "sm" })}</section>`).join("");
   const title = `산업별 브랜드 탐색 — ${industryGroups.length}개 산업 ${listedTotal}개 브랜드 | 브랜드 아틀라스`;
   const desc = `${industryGroups.map(([, g]) => g.label).join("·")} 등 ${industryGroups.length}개 산업으로 브랜드 ${listedTotal}개를 분류했습니다. 산업별 대표 브랜드의 로고와 설립 정보를 한눈에 봅니다.`;
-  const body = `${hubHead("산업별 브랜드", "산업별로 찾는 브랜드", esc("브랜드가 실제로 경쟁하는 시장을 기준으로 12개 산업으로 나눴습니다. 카드를 누르면 해당 산업의 전체 브랜드 목록으로 이동합니다."), crumbsHub("산업별"))}<div class="wrap section"><div class="cat-grid">${cards}</div></div><div class="wrap">${blocks}</div>`;
+  const body = `${hubHead("산업별 브랜드", "산업별로 찾는 브랜드", esc(`브랜드가 실제로 경쟁하는 시장을 기준으로 ${industryGroups.length}개 산업으로 나눴습니다. 카드를 누르면 해당 산업의 전체 브랜드 목록으로 이동합니다.`), crumbsHub("산업별"))}<div class="wrap section"><div class="cat-grid">${cards}</div></div><div class="wrap">${blocks}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "industry.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "industry", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "산업별", url }] }) }));
 }
 
@@ -406,7 +411,18 @@ const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(is
   const stat = (href, n, label) => `<a href="${H}${href}"><b data-count="${n}">${n.toLocaleString("ko-KR")}</b><span>${label}</span></a>`;
   const keywords = (DATA.keywords || []).slice(0, 8);
   const insightText = String(featured.sections?.insights?.body || featured.insight || featured.definition || "").replace(/\s+/g, " ");
-  const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(insightText.slice(0, 230))}${insightText.length > 230 ? "…" : ""}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div><a class="card photo" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async"></a></div>`;
+  // 카드 높이는 오른쪽 사진이 정한다 — 글이 짧으면 빈 칸이 남으므로 문장 단위로 최대 520자까지 싣는다.
+  // 인사이트가 짧으면(280자 미만) 정의 문장을 앞에 붙인다. 중간에서 자르지 않고 마지막 온전한 문장에서 끊는다.
+  const FEATURED_MAX = 520;
+  const defText = String(featured.definition || "").replace(/\s+/g, " ").trim();
+  const baseText = insightText.length < 280 && defText && !insightText.includes(defText.slice(0, 20)) ? `${defText} ${insightText}` : insightText;
+  const featuredText = (() => {
+    if (baseText.length <= FEATURED_MAX) return baseText;
+    const cut = baseText.slice(0, FEATURED_MAX);
+    const end = Math.max(cut.lastIndexOf("다. "), cut.lastIndexOf("다."));
+    return end > 200 ? cut.slice(0, end + 2) : `${cut.trimEnd()}…`;
+  })();
+  const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(featuredText)}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div><a class="card photo" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async"></a></div>`;
   const body = `<section class="hero"><div class="wrap"><span class="kicker">브랜드 사전 · 로고 아카이브</span><h1>브랜드의 역사와 <span class="red">아이덴티티</span>를<br>한글로 기록합니다</h1><p class="lead">${stats.brands}개 브랜드의 시작과 성장, 브랜드 아이덴티티, 로고 변천사를 한 페이지에 정리했습니다. 한글 이름으로도, 원어 이름으로도, 초성만으로도 찾을 수 있습니다.</p><form class="hero-search" role="search" action="${H}pages/search.html" method="get"><label class="sr-only" for="home-q">브랜드 검색</label><input id="home-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ, gucci)" autocomplete="off"><button type="submit">검색</button></form><div class="chips"><span class="lbl">인기 검색어</span>${keywords.map(k => `<a class="chip" href="${H}pages/search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("")}</div><div class="stats">${stat("pages/ganada.html", stats.brands, "수록 브랜드")}${stat("pages/bici.html", stats.logos, "로고 이미지")}${stat("pages/industry.html", stats.industries, "산업 분류")}${stat("pages/collections.html", stats.collections, "테마 컬렉션")}${stat("pages/countries.html", stats.countries, "국가 허브")}</div><p class="stats-asof">${TODAY.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (m, y, mo, d) => `${y}년 ${Number(mo)}월 ${Number(d)}일`)} 기준</p></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>오늘의 브랜드</h2><p>한 브랜드를 골라 깊이 읽어 봅니다</p></div>${feat}</div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div><div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
@@ -421,7 +437,7 @@ const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(is
     { "@type": "ItemList", name: "주요 브랜드", numberOfItems: popular.length, itemListElement: popular.slice(0, 48).map((b, i) => ({ "@type": "ListItem", position: i + 1, name: displayName(b), url: `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html` })) },
   ] });
   // 홈 전용 스타일 — styles.css를 바꾸면 CSS_V를 올려야 하고 전 페이지가 다시 쓰인다.
-  const homeStyle = `<style>.stats{grid-template-columns:repeat(5,1fr);max-width:900px}.stats-asof{margin-top:10px;font-size:12px;color:var(--muted)}@media(max-width:767px){.stats{grid-template-columns:repeat(2,1fr)}}</style>`;
+  const homeStyle = `<style>.today .card.dark .chips{margin-top:auto}.stats{grid-template-columns:repeat(5,1fr);max-width:900px}.stats-asof{margin-top:10px;font-size:12px;color:var(--muted)}@media(max-width:767px){.stats{grid-template-columns:repeat(2,1fr)}}</style>`;
   const countUp = `<script>(()=>{const els=document.querySelectorAll('.stats b[data-count]');if(!els.length||!('IntersectionObserver'in window)||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const run=el=>{const n=+el.dataset.count,t0=performance.now(),d=900;const f=t=>{const p=Math.min(1,(t-t0)/d),v=Math.round(n*(1-Math.pow(1-p,3)));el.textContent=v.toLocaleString('ko-KR');if(p<1)requestAnimationFrame(f)};requestAnimationFrame(f)};const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){io.unobserve(e.target);run(e.target)}}),{threshold:.6});els.forEach(el=>io.observe(el))})();</script>`;
   const html = page({ title, desc, canonical: `${ORIGIN}/`, bodyHtml: homeStyle + body + countUp, active: "", prefix: "", jsonLd, ogImage: `${ORIGIN}/assets/objects/world_map_dots.png`, extraHead: '<meta name="naver-site-verification" content="a5a82f7a952f8b6756924f50e705050cca7aa574">' });
   writeIfChanged(path.join(ROOT, "index.html"), html);
