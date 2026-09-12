@@ -16,6 +16,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Conglomerates"
+   },
    "have": null,
    "haveBy": null
   },
@@ -30,6 +34,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -44,6 +52,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -58,6 +70,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -72,6 +88,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "IT Consulting & Other Services"
+   },
    "have": "accenture",
    "haveBy": "qid"
   },
@@ -88,6 +108,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": "adobe",
    "haveBy": "qid"
   },
@@ -104,6 +130,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": "amd",
    "haveBy": "qid"
   },
@@ -118,6 +150,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Independent Power Producers & Energy Traders"
+   },
    "have": null,
    "haveBy": null
   },
@@ -132,6 +168,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Life & Health Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -146,6 +186,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -160,6 +204,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Industrial Gases"
+   },
    "have": null,
    "haveBy": null
   },
@@ -176,6 +224,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Diversified Commercial Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -190,6 +244,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Internet Services & Infrastructure"
+   },
    "have": null,
    "haveBy": null
   },
@@ -204,6 +262,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -218,6 +280,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Office REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -232,6 +298,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Supplies"
+   },
    "have": null,
    "haveBy": null
   },
@@ -246,6 +316,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -260,6 +334,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -274,6 +352,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -292,6 +374,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Interactive Media & Services",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -306,6 +394,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Tobacco"
+   },
    "have": null,
    "haveBy": null
   },
@@ -322,6 +414,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Broadline Retail",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Catalog/Specialty Distribution"
+   },
    "have": "amazon",
    "haveBy": "name"
   },
@@ -336,6 +434,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Paper & Plastic Packaging Products & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -350,6 +452,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -366,6 +472,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities",
+    "icb": "Utilities",
+    "icbSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -380,6 +492,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Consumer Finance"
+   },
    "have": "american-express",
    "haveBy": "qid"
   },
@@ -394,6 +510,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Multi-line Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -408,6 +528,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Telecom Tower REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -422,6 +546,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Water Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -436,6 +564,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -450,6 +582,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Electrical Components & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -466,6 +602,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology",
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -480,6 +622,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -496,6 +642,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -510,6 +662,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -524,6 +680,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -538,6 +698,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -554,6 +718,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals",
+    "icb": "Technology",
+    "icbSub": "Computer Hardware"
+   },
    "have": "apple",
    "haveBy": "name"
   },
@@ -570,6 +740,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductor Materials & Equipment",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -586,6 +762,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Advertising",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -600,6 +782,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automotive Parts & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -614,6 +800,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -628,6 +818,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Agricultural Products & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -642,6 +836,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -656,6 +854,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -670,6 +872,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -684,6 +890,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Multi-line Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -698,6 +908,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Integrated Telecommunication Services"
+   },
    "have": "at-t",
    "haveBy": "qid"
   },
@@ -712,6 +926,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Gas Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -728,6 +946,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -744,6 +968,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Human Resource & Employment Services",
+    "icb": "Industrials",
+    "icbSub": "Diversified Commercial Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -758,6 +988,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automotive Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -772,6 +1006,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Paper & Plastic Packaging Products & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -788,6 +1026,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense",
+    "icb": "Industrials",
+    "icbSub": "Ordnance & Accessories"
+   },
    "have": null,
    "haveBy": null
   },
@@ -804,6 +1048,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Equipment & Services",
+    "icb": "Energy",
+    "icbSub": "Oil Equipment & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -818,6 +1068,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Metal, Glass & Plastic Containers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -832,6 +1086,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": "bank-of-america",
    "haveBy": "qid"
   },
@@ -846,6 +1104,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -860,6 +1122,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -874,6 +1140,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Multi-Sector Holdings"
+   },
    "have": "berkshire-hathaway",
    "haveBy": "qid"
   },
@@ -888,6 +1158,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Computer & Electronics Retail"
+   },
    "have": "best-buy",
    "haveBy": "qid"
   },
@@ -902,6 +1176,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -916,6 +1194,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -930,6 +1212,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": "blackrock",
    "haveBy": "qid"
   },
@@ -944,6 +1230,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -958,6 +1248,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -972,6 +1266,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -986,6 +1284,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1002,6 +1304,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Transportation Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1016,6 +1324,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1030,6 +1342,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1046,6 +1362,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1060,6 +1382,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Data Processing & Outsourced Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1074,6 +1400,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1088,6 +1418,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Distillers & Vintners"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1102,6 +1436,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1116,6 +1454,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Agricultural Products & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1130,6 +1472,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Office REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1144,6 +1490,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Air Freight & Logistics"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1160,6 +1510,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1174,6 +1530,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Multi-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1188,6 +1548,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Consumer Finance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1202,6 +1566,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1216,6 +1584,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1230,6 +1602,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1244,6 +1620,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automotive Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1258,6 +1638,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Food Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1272,6 +1656,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction Machinery & Heavy Transportation Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1286,6 +1674,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1300,6 +1692,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Real Estate Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1314,6 +1710,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1328,6 +1728,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1342,6 +1746,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Managed Health Care"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1356,6 +1764,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1370,6 +1782,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Fertilizers & Agricultural Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1384,6 +1800,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1398,6 +1818,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1412,6 +1836,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Cable & Satellite"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1426,6 +1854,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Integrated Oil & Gas"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1440,6 +1872,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1454,6 +1890,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1468,6 +1908,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Household Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1482,6 +1926,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1496,6 +1944,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1510,6 +1962,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1526,6 +1982,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Diversified Support Services",
+    "icb": "Industrials",
+    "icbSub": "Garments & Clothing"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1542,6 +2004,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment",
+    "icb": "Telecommunications",
+    "icbSub": "Computer Communications Equipment"
+   },
    "have": "cisco",
    "haveBy": "qid"
   },
@@ -1556,6 +2024,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1570,6 +2042,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1584,6 +2060,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Household Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1598,6 +2078,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1612,6 +2096,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1626,6 +2114,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Soft Drinks & Non-alcoholic Beverages"
+   },
    "have": "coca-cola",
    "haveBy": "name"
   },
@@ -1640,6 +2132,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "IT Consulting & Other Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1654,6 +2150,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1668,6 +2168,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": "coinbase",
    "haveBy": "name"
   },
@@ -1682,6 +2186,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Household Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1698,6 +2206,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Cable & Satellite",
+    "icb": "Telecommunications",
+    "icbSub": "Cable & Other Pay Television Services"
+   },
    "have": "comcast",
    "haveBy": "qid"
   },
@@ -1712,6 +2226,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction & Engineering"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1726,6 +2244,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1740,6 +2262,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1754,6 +2280,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Distillers & Vintners"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1770,6 +2300,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities",
+    "icb": "Utilities",
+    "icbSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1784,6 +2320,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Supplies"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1800,6 +2340,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Diversified Support Services",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1814,6 +2360,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1828,6 +2378,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1842,6 +2396,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Fertilizers & Agricultural Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1856,6 +2414,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Real Estate Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1872,6 +2434,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Consumer Staples Merchandise Retail",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Department/Specialty Retail Stores"
+   },
    "have": "costco",
    "haveBy": "qid"
   },
@@ -1886,6 +2454,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Construction Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1902,6 +2474,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1916,6 +2494,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Telecom Tower REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1932,6 +2514,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Rail Transportation",
+    "icb": "Industrials",
+    "icbSub": "Railroads"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1946,6 +2534,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction Machinery & Heavy Transportation Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1960,6 +2552,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1974,6 +2570,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -1988,6 +2588,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2004,6 +2608,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2018,6 +2628,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2032,6 +2646,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Footwear"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2046,6 +2664,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Agricultural & Farm Machinery"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2060,6 +2682,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2074,6 +2700,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Passenger Airlines"
+   },
    "have": "delta-air-lines",
    "haveBy": "qid"
   },
@@ -2088,6 +2718,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2104,6 +2738,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment",
+    "icb": "Health Care",
+    "icbSub": "Medical/Dental Instruments"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2120,6 +2760,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production",
+    "icb": "Energy",
+    "icbSub": "Oil & Gas Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2134,6 +2780,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Data Center REITs"
+   },
    "have": "digital-realty-trust",
    "haveBy": "qid"
   },
@@ -2148,6 +2798,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Consumer Staples Merchandise Retail"
+   },
    "have": "dollar-general",
    "haveBy": "qid"
   },
@@ -2162,6 +2816,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Consumer Staples Merchandise Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2176,6 +2834,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2190,6 +2852,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants"
+   },
    "have": "domino-s-pizza",
    "haveBy": "qid"
   },
@@ -2206,6 +2872,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Specialized Consumer Services",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2220,6 +2892,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2234,6 +2910,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Commodity Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2248,6 +2928,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Homebuilding"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2262,6 +2946,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2276,6 +2964,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2290,6 +2982,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Conglomerates"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2304,6 +3000,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Electrical Components & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2318,6 +3018,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Broadline Retail"
+   },
    "have": "ebay",
    "haveBy": "qid"
   },
@@ -2332,6 +3036,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Wireless Telecommunication Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2346,6 +3054,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2360,6 +3072,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2374,6 +3090,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2388,6 +3108,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Managed Health Care"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2402,6 +3126,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction & Engineering"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2416,6 +3144,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Electrical Components & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2430,6 +3162,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2444,6 +3180,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2458,6 +3198,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2472,6 +3216,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Research & Consulting Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2486,6 +3234,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Data Center REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2500,6 +3252,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2514,6 +3270,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Multi-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2528,6 +3288,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Personal Care Products"
+   },
    "have": "est-e-lauder",
    "haveBy": "name"
   },
@@ -2542,6 +3306,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Reinsurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2556,6 +3324,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2570,6 +3342,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2586,6 +3362,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities",
+    "icb": "Utilities",
+    "icbSub": "Power Generation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2600,6 +3382,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2614,6 +3400,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2628,6 +3418,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Air Freight & Logistics"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2642,6 +3436,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Self-Storage REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2656,6 +3454,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Integrated Oil & Gas"
+   },
    "have": "exxonmobil",
    "haveBy": "qid"
   },
@@ -2670,6 +3472,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2684,6 +3490,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2698,6 +3508,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2714,6 +3528,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Trading Companies & Distributors",
+    "icb": "Industrials",
+    "icbSub": "Construction & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2728,6 +3548,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Retail REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2743,6 +3567,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Cargo Ground Transportation"
+   },
    "have": "fedex",
    "haveBy": "qid"
   },
@@ -2757,6 +3585,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Trading Companies & Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2771,6 +3603,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2785,6 +3621,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2799,6 +3639,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2813,6 +3657,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2827,6 +3675,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2841,6 +3693,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Manufacturing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2855,6 +3711,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automobile Manufacturers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2871,6 +3731,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software",
+    "icb": "Technology",
+    "icbSub": "Computer Peripheral Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2885,6 +3751,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2900,6 +3770,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Broadcasting"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2914,6 +3788,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2928,6 +3806,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Copper"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2942,6 +3824,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Consumer Electronics"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2956,6 +3842,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "IT Consulting & Other Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2970,6 +3860,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -2986,6 +3880,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment",
+    "icb": "Health Care",
+    "icbSub": "Medical Electronics"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3000,6 +3900,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Heavy Electrical Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3014,6 +3918,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3028,6 +3936,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Heavy Electrical Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3042,6 +3954,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3056,6 +3972,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3070,6 +3990,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automobile Manufacturers"
+   },
    "have": "general-motors",
    "haveBy": "qid"
   },
@@ -3084,6 +4008,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3100,6 +4028,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology",
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3114,6 +4048,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3128,6 +4066,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Life & Health Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3142,6 +4084,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Internet Services & Infrastructure"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3156,6 +4102,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": "goldman-sachs",
    "haveBy": "qid"
   },
@@ -3170,6 +4120,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Equipment & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3184,6 +4138,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": "the-hartford",
    "haveBy": "name"
   },
@@ -3198,6 +4156,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Leisure Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3212,6 +4174,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Facilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3226,6 +4192,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Health Care REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3240,6 +4210,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3254,6 +4228,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3268,6 +4246,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3282,6 +4264,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3296,6 +4282,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Home Improvement Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3312,6 +4302,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense",
+    "icb": "Industrials",
+    "icbSub": "Aerospace"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3328,6 +4324,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Conglomerates",
+    "icb": "Industrials",
+    "icbSub": "Diversified Industrials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3342,6 +4344,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3356,6 +4362,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Hotel & Resort REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3370,6 +4380,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3384,6 +4398,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3398,6 +4416,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3412,6 +4434,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Managed Health Care"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3426,6 +4452,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3440,6 +4470,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3454,6 +4488,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "IT Consulting & Other Services"
+   },
    "have": "ibm",
    "haveBy": "name"
   },
@@ -3468,6 +4506,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3484,6 +4526,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment",
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3498,6 +4546,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3512,6 +4564,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3526,6 +4582,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3542,6 +4602,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": "intel",
    "haveBy": "qid"
   },
@@ -3556,6 +4622,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3570,6 +4640,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3584,6 +4658,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3598,6 +4676,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Paper & Plastic Packaging Products & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3614,6 +4696,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Computer Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3630,6 +4718,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment",
+    "icb": "Health Care",
+    "icbSub": "Industrial Specialties"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3644,6 +4738,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3658,6 +4756,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Single-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3672,6 +4774,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3686,6 +4792,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Other Specialized REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3700,6 +4810,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Cargo Ground Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3714,6 +4828,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Manufacturing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3728,6 +4846,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3742,6 +4864,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction & Engineering"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3756,6 +4882,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3770,6 +4900,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3784,6 +4918,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": "jpmorgan-chase",
    "haveBy": "qid"
   },
@@ -3798,6 +4936,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Personal Care Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3814,6 +4956,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Soft Drinks & Non-alcoholic Beverages",
+    "icb": "Consumer Staples",
+    "icbSub": "Soft Drinks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3828,6 +4976,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3842,6 +4994,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Equipment & Instruments"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3856,6 +5012,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Household Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3870,6 +5030,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Retail REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3884,6 +5048,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Storage & Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3898,6 +5066,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3914,6 +5086,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductor Materials & Equipment",
+    "icb": "Technology",
+    "icbSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3930,6 +5108,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats",
+    "icb": "Consumer Staples",
+    "icbSub": "Packaged Foods"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3944,6 +5128,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Food Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3958,6 +5146,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3972,6 +5164,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -3988,6 +5184,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductor Materials & Equipment",
+    "icb": "Technology",
+    "icbSub": "Industrial Machinery"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4002,6 +5204,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Casinos & Gaming"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4016,6 +5222,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Diversified Support Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4030,6 +5240,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Homebuilding"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4044,6 +5258,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4058,6 +5276,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4074,6 +5296,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Industrial Gases",
+    "icb": "Basic Materials",
+    "icbSub": "Major Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4088,6 +5316,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Movies & Entertainment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4102,6 +5334,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": "lockheed-martin",
    "haveBy": "qid"
   },
@@ -4116,6 +5352,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Multi-line Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4130,6 +5370,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Home Improvement Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4144,6 +5388,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel, Accessories & Luxury Goods"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4160,6 +5408,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment",
+    "icb": "Technology",
+    "icbSub": "Communication Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4174,6 +5428,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4188,6 +5446,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4202,6 +5464,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Refining & Marketing"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4218,6 +5484,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Hotels/Resorts"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4232,6 +5504,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4246,6 +5522,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Construction Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4262,6 +5542,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4276,6 +5562,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4290,6 +5580,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": "mastercard",
    "haveBy": "name"
   },
@@ -4304,6 +5598,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4318,6 +5616,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants"
+   },
    "have": "mcdonald-s",
    "haveBy": "name"
   },
@@ -4332,6 +5634,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4346,6 +5652,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4360,6 +5670,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4376,6 +5690,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Interactive Media & Services",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": "meta-platforms",
    "haveBy": "qid"
   },
@@ -4390,6 +5710,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Life & Health Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4404,6 +5728,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4418,6 +5746,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Casinos & Gaming"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4434,6 +5766,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4450,6 +5788,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4466,6 +5810,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": "microsoft",
    "haveBy": "qid"
   },
@@ -4480,6 +5830,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Multi-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4494,6 +5848,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4508,6 +5866,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Brewers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4524,6 +5886,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats",
+    "icb": "Consumer Staples",
+    "icbSub": "Packaged Foods"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4540,6 +5908,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4556,6 +5930,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Soft Drinks & Non-alcoholic Beverages",
+    "icb": "Consumer Staples",
+    "icbSub": "Soft Drinks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4570,6 +5950,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4584,6 +5968,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": "morgan-stanley",
    "haveBy": "qid"
   },
@@ -4598,6 +5986,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Fertilizers & Agricultural Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4612,6 +6004,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Communications Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4626,6 +6022,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4640,6 +6040,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4654,6 +6058,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4670,6 +6078,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Movies & Entertainment",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Consumer Electronics"
+   },
    "have": "netflix",
    "haveBy": "name"
   },
@@ -4684,6 +6098,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Gold"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4699,6 +6117,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Publishing"
+   },
    "have": "news-corporation",
    "haveBy": "name"
   },
@@ -4713,6 +6135,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4727,6 +6153,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel, Accessories & Luxury Goods"
+   },
    "have": "nike",
    "haveBy": "name"
   },
@@ -4741,6 +6171,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4755,6 +6189,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4769,6 +6207,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Rail Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4783,6 +6225,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4797,6 +6243,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4811,6 +6261,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4825,6 +6279,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Independent Power Producers & Energy Traders"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4839,6 +6297,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Steel"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4855,6 +6317,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": "nvidia",
    "haveBy": "qid"
   },
@@ -4869,6 +6337,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Homebuilding"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4885,6 +6357,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4901,6 +6379,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automotive Retail",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Specialty Retailers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4915,6 +6399,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4931,6 +6419,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Cargo Ground Transportation",
+    "icb": "Industrials",
+    "icbSub": "Trucking"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4945,6 +6439,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Advertising"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4959,6 +6457,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4973,6 +6475,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Storage & Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -4987,6 +6493,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": "oracle-corporation",
    "haveBy": "qid"
   },
@@ -5001,6 +6511,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5017,6 +6531,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction Machinery & Heavy Transportation Equipment",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Motor Vehicles"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5031,6 +6551,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Paper & Plastic Packaging Products & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5047,6 +6571,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5063,6 +6593,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software",
+    "icb": "Technology",
+    "icbSub": "Computer Peripheral Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5077,6 +6613,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Movies & Entertainment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5091,6 +6631,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5107,6 +6651,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Human Resource & Employment Services",
+    "icb": "Industrials",
+    "icbSub": "Diversified Commercial Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5123,6 +6673,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services",
+    "icb": "Industrials",
+    "icbSub": "Diversified Commercial Services"
+   },
    "have": "paypal",
    "haveBy": "name"
   },
@@ -5137,6 +6693,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5153,6 +6713,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Soft Drinks & Non-alcoholic Beverages",
+    "icb": "Consumer Staples",
+    "icbSub": "Soft Drinks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5167,6 +6733,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": "pfizer",
    "haveBy": "qid"
   },
@@ -5181,6 +6751,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5195,6 +6769,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Tobacco"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5209,6 +6787,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Refining & Marketing"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5223,6 +6805,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5237,6 +6823,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5251,6 +6841,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5265,6 +6859,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5279,6 +6877,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Life & Health Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5293,6 +6895,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Personal Care Products"
+   },
    "have": "procter-gamble",
    "haveBy": "qid"
   },
@@ -5307,6 +6913,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5321,6 +6931,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Industrial REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5335,6 +6949,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Life & Health Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5349,6 +6967,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5363,6 +6985,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5377,6 +7003,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Self-Storage REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5391,6 +7021,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Homebuilding"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5405,6 +7039,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction & Engineering"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5421,6 +7059,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5435,6 +7079,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5449,6 +7097,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductor Materials & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5463,6 +7115,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel, Accessories & Luxury Goods"
+   },
    "have": "ralph-lauren",
    "haveBy": "name"
   },
@@ -5477,6 +7133,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5491,6 +7151,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Interactive Media & Services"
+   },
    "have": "reddit",
    "haveBy": "name"
   },
@@ -5505,6 +7169,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5519,6 +7187,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Retail REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5533,6 +7205,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Retail REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5549,6 +7225,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology",
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5563,6 +7245,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Regional Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5577,6 +7263,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Environmental & Facilities Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5591,6 +7281,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5605,6 +7299,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5619,6 +7317,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Investment Banking & Brokerage"
+   },
    "have": "robinhood",
    "haveBy": "name"
   },
@@ -5633,6 +7335,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Electrical Components & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5647,6 +7353,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Environmental & Facilities Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5663,6 +7373,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Equipment & Instruments",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5679,6 +7395,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel Retail",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Clothing/Shoe/Accessory Stores"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5693,6 +7415,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Hotels, Resorts & Cruise Lines"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5707,6 +7433,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Financial Exchanges & Data"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5721,6 +7451,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5737,6 +7471,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals",
+    "icb": "Technology",
+    "icbSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5751,6 +7491,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Telecom Tower REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5765,6 +7509,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Equipment & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5781,6 +7529,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals",
+    "icb": "Technology",
+    "icbSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5795,6 +7549,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5809,6 +7567,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Systems Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5823,6 +7585,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Specialty Chemicals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5837,6 +7603,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Retail REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5851,6 +7621,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5865,6 +7639,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5879,6 +7657,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Paper & Plastic Packaging Products & Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5893,6 +7675,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5907,6 +7693,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Technology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5921,6 +7711,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5935,6 +7729,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Passenger Airlines"
+   },
    "have": "southwest-airlines",
    "haveBy": "qid"
   },
@@ -5949,6 +7747,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5965,6 +7767,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Restaurants"
+   },
    "have": "starbucks",
    "haveBy": "name"
   },
@@ -5979,6 +7787,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -5993,6 +7805,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Steel"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6007,6 +7823,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6021,6 +7841,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6035,6 +7859,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6049,6 +7877,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Consumer Finance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6065,6 +7897,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6079,6 +7917,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Food Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6095,6 +7937,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Wireless Telecommunication Services",
+    "icb": "Telecommunications",
+    "icbSub": "Telecommunications Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6109,6 +7957,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Asset Management & Custody Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6125,6 +7977,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Interactive Home Entertainment",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Miscellaneous Amusement & Recreation Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6139,6 +7997,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel, Accessories & Luxury Goods"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6153,6 +8015,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Storage & Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6167,6 +8033,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Consumer Staples Merchandise Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6181,6 +8051,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Manufacturing Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6195,6 +8069,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Equipment & Instruments"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6211,6 +8089,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductor Materials & Equipment",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6227,6 +8111,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Automobile Manufacturers",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Automobiles & Parts"
+   },
    "have": "tesla",
    "haveBy": "qid"
   },
@@ -6243,6 +8133,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Semiconductors",
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": "texas-instruments",
    "haveBy": "qid"
   },
@@ -6257,6 +8153,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Exploration & Production"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6271,6 +8171,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6285,6 +8189,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6299,6 +8207,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Apparel Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6313,6 +8225,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Movies & Entertainment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6327,6 +8243,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Advertising"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6341,6 +8261,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Other Specialty Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6355,6 +8279,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Building Products"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6369,6 +8297,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Aerospace & Defense"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6383,6 +8315,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6397,6 +8333,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6411,6 +8351,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6425,6 +8369,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6439,6 +8387,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Packaged Foods & Meats"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6453,6 +8405,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6467,6 +8423,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Passenger Ground Transportation"
+   },
    "have": "uber",
    "haveBy": "qid"
   },
@@ -6481,6 +8441,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Multi-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6495,6 +8459,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Other Specialty Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6509,6 +8477,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Rail Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6523,6 +8495,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Passenger Airlines"
+   },
    "have": "united-airlines",
    "haveBy": "qid"
   },
@@ -6537,6 +8513,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Air Freight & Logistics"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6551,6 +8531,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Trading Companies & Distributors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6565,6 +8549,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Managed Health Care"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6579,6 +8567,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Facilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6593,6 +8585,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Refining & Marketing"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6607,6 +8603,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Technology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6621,6 +8621,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Health Care REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6635,6 +8639,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Environmental & Facilities Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6649,6 +8657,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Internet Services & Infrastructure"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6663,6 +8675,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Research & Consulting Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6677,6 +8693,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Integrated Telecommunication Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6693,6 +8713,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Biotechnology",
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6707,6 +8733,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Electrical Components & Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6721,6 +8751,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6735,6 +8769,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Hotel & Resort REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6749,6 +8787,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Transaction & Payment Processing Services"
+   },
    "have": "visa",
    "haveBy": "name"
   },
@@ -6763,6 +8805,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6777,6 +8823,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Multi-Family Residential REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6791,6 +8841,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Materials",
+    "gicsSub": "Construction Materials"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6805,6 +8859,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Property & Casualty Insurance"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6819,6 +8877,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6833,6 +8895,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Construction Machinery & Heavy Transportation Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6849,6 +8915,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Consumer Staples",
+    "gicsSub": "Consumer Staples Merchandise Retail",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Department/Specialty Retail Stores"
+   },
    "have": "walmart",
    "haveBy": "qid"
   },
@@ -6863,6 +8935,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Movies & Entertainment"
+   },
    "have": "the-walt-disney-company",
    "haveBy": "qid"
   },
@@ -6879,6 +8955,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Communication Services",
+    "gicsSub": "Broadcasting",
+    "icb": "Consumer Discretionary",
+    "icbSub": "Entertainment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6893,6 +8975,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Environmental & Facilities Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6907,6 +8993,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Life Sciences Tools & Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6921,6 +9011,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Electric Utilities"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6935,6 +9029,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Diversified Banks"
+   },
    "have": "wells-fargo",
    "haveBy": "qid"
   },
@@ -6949,6 +9047,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Health Care REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6963,6 +9065,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Supplies"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6979,6 +9085,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Technology Hardware, Storage & Peripherals",
+    "icb": "Technology",
+    "icbSub": "Electronic Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -6993,6 +9105,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Real Estate",
+    "gicsSub": "Timber REITs"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7007,6 +9123,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Homefurnishing Retail"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7021,6 +9141,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Energy",
+    "gicsSub": "Oil & Gas Storage & Transportation"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7035,6 +9159,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Financials",
+    "gicsSub": "Insurance Brokers"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7051,6 +9179,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Application Software",
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7065,6 +9199,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Casinos & Gaming"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7081,6 +9219,12 @@
     "S&P500",
     "NDX100"
    ],
+   "sectors": {
+    "gics": "Utilities",
+    "gicsSub": "Multi-Utilities",
+    "icb": "Utilities",
+    "icbSub": "Conventional Electricity"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7095,6 +9239,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Industrials",
+    "gicsSub": "Industrial Machinery & Supplies & Components"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7109,6 +9257,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Consumer Discretionary",
+    "gicsSub": "Restaurants"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7123,6 +9275,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Information Technology",
+    "gicsSub": "Electronic Equipment & Instruments"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7137,6 +9293,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Health Care Equipment"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7151,6 +9311,10 @@
    "idx": [
     "S&P500"
    ],
+   "sectors": {
+    "gics": "Health Care",
+    "gicsSub": "Pharmaceuticals"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7165,6 +9329,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Health Care",
+    "icbSub": "Biotechnology"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7179,6 +9347,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7193,6 +9365,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Industrial Machinery"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7207,6 +9383,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Semiconductors"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7221,6 +9401,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Consumer Staples",
+    "icbSub": "Soft Drinks"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7235,6 +9419,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Computer Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7249,6 +9437,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Industrials",
+    "icbSub": "Military, Government, Technical"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7263,6 +9455,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Consumer Discretionary",
+    "icbSub": "Catalog/Specialty Distribution"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7277,6 +9473,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7291,6 +9491,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Computer Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7305,6 +9509,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "EDP Services"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7319,6 +9527,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Industrials",
+    "icbSub": "Aerospace"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7333,6 +9545,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   },
@@ -7347,6 +9563,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Telecommunications",
+    "icbSub": "Telecommunications Services"
+   },
    "have": "spacex",
    "haveBy": "qid"
   },
@@ -7361,6 +9581,10 @@
    "idx": [
     "NDX100"
    ],
+   "sectors": {
+    "icb": "Technology",
+    "icbSub": "Software"
+   },
    "have": null,
    "haveBy": null
   }

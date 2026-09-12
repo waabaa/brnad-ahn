@@ -1,10 +1,102 @@
 {
  "auditedAt": "2026-09-12",
- "method": "2026-09-12 신규 수록 브랜드 로고(Wikidata P154 → Commons) 전수 육안 검수 — 컨택트시트",
+ "method": "2026-09-12 신규 수록 브랜드 로고(Wikidata P154 → Commons) 전수 육안 검수 — 컨택트시트 · S&P 500·나스닥100 한국어 근거 수록분 110건 포함 · 영문 근거 수록분 81건 포함",
  "items": [
-  { "slug": "spacexai", "src": "images/logos/spacexai-wd.png", "role": "logo", "verdict": "wrong-entity", "action": "remove", "note": "SpaceX 워드마크 — xAI 개체의 현재 마크로 확인 불가" },
-  { "slug": "panda-express", "src": "images/logos/panda-express-wd.jpg", "role": "logo", "verdict": "not-logo", "action": "remove", "note": "드라이브스루 간판 사진(로고 원본 아님)" },
-  { "slug": "stellantis-north-america", "src": "images/logos/stellantis-north-america-wd.png", "role": "logo", "verdict": "outdated", "action": "remove", "note": "옛 FCA(Fiat Chrysler Automobiles) 로고 — 현 개체명과 불일치" },
-  { "slug": "microsoft", "src": "images/logos/microsoft-wd.png", "role": "logo", "verdict": "outdated", "action": "replace", "note": "1987년형 워드마크 → 현행 로고(Commons File:Microsoft logo (2012).svg)로 교체, 옛 마크는 이력으로 보존" }
+  {
+   "slug": "spacexai",
+   "src": "images/logos/spacexai-wd.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "SpaceX 워드마크 — xAI 개체의 현재 마크로 확인 불가"
+  },
+  {
+   "slug": "panda-express",
+   "src": "images/logos/panda-express-wd.jpg",
+   "role": "logo",
+   "verdict": "not-logo",
+   "action": "remove",
+   "note": "드라이브스루 간판 사진(로고 원본 아님)"
+  },
+  {
+   "slug": "stellantis-north-america",
+   "src": "images/logos/stellantis-north-america-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 FCA(Fiat Chrysler Automobiles) 로고 — 현 개체명과 불일치"
+  },
+  {
+   "slug": "microsoft",
+   "src": "images/logos/microsoft-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "replace",
+   "note": "1987년형 워드마크 → 현행 로고(Commons File:Microsoft logo (2012).svg)로 교체, 옛 마크는 이력으로 보존"
+  },
+  {
+   "slug": "gen-digital",
+   "src": "images/logos/gen-digital-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 NortonLifeLock 로고(2022년 Gen Digital로 개명)"
+  },
+  {
+   "slug": "carnival-corporation",
+   "src": "images/logos/carnival-corporation-wd.png",
+   "role": "logo",
+   "verdict": "not-logo",
+   "action": "remove",
+   "note": "회사 하우스 플래그(Commons: Carnival Corporation house flag.svg) — 로고 아님"
+  },
+  {
+   "slug": "rtx",
+   "src": "images/logos/rtx-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 Raytheon Technologies 로고"
+  },
+  {
+   "slug": "strategy",
+   "src": "images/logos/strategy-wd.gif",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 MicroStrategy 로고"
+  },
+  {
+   "slug": "apa-corporation",
+   "src": "images/logos/apa-corporation-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "자회사 Apache Corporation 로고 — 지주회사 APA의 마크 아님"
+  },
+  {
+   "slug": "elevance-health-inc",
+   "src": "images/logos/elevance-health-inc-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 WellPoint 로고"
+  },
+  {
+   "slug": "expand-energy",
+   "src": "images/logos/expand-energy-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 Chesapeake Energy 로고"
+  },
+  {
+   "slug": "honeywell-aerospace",
+   "src": "images/logos/honeywell-aerospace-wd.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "모회사 Honeywell의 옛 태그라인 로고 — 분사 개체의 마크로 확인 불가"
+  }
  ]
 }

@@ -1,0 +1,947 @@
+{
+ "updatedAt": "2026-09-12",
+ "moves": [
+  {
+   "slug": "aneo",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "s-o-paulo-petr-leo",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "coinbase",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "bolt",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "adobe",
+   "from": "brand-business",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Application Software"
+  },
+  {
+   "slug": "nationwide",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "banamax",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "monzo",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "lloyds",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "bancomat",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "hongkongbank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "citibank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "banco-ita",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "nippon-shinpan",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "huntington-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "robinhood",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "japan-energy-corporation",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "cosmo-oil",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "kawasaki-shinkin-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "chime",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "sendwave",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "paysafe",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "afterpay",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "wise",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "paypal",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "visa",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "mastercard",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "repsol",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "shell",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "elf",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "tepco",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "pam",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "mobil",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "agip",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "london-electricity-board",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "kb-kookmin-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "shinhan-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "kakaobank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "hana-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "woori-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "nh-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "kakao-pay",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "sk-innovation",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "gs-caltex",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "dunamu",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "toss-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "s-oil",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "ibk",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "woori-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "citibank-korea",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "viva-republica",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "jobis-villains",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "k-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "hyundai-card",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "ibk-industrial-bank-of-korea",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "shinhan-card",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "banksalad",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "bithumb",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "finda",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "8percent",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "welcome-savings-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "samsung-card",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "european-central-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "gazprom",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "federal-reserve-system",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "bank-of-england",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "berkshire-hathaway",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Multi-Sector Holdings"
+  },
+  {
+   "slug": "european-bank-for-reconstruction-and-development",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "barclays",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "american-express",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Consumer Finance"
+  },
+  {
+   "slug": "korea-electric-power-corporation",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "qcells",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "shinhan-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "korea-gas-corporation",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "korea-development-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "korea-hydro-nuclear-power",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "hana-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "hd-hyundai-oilbank",
+   "from": "retail-commerce",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "international-development-association",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "accenture",
+   "from": "brand-business",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / IT Consulting & Other Services"
+  },
+  {
+   "slug": "export-import-bank-of-korea",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "sk-energy",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "im-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "bnk-financial-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "adyen",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "deutsche-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "hsbc",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "grameen-bank",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "ubs",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "credit-suisse",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "lehman-brothers",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "wells-fargo",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Diversified Banks"
+  },
+  {
+   "slug": "morgan-stanley",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Investment Banking & Brokerage"
+  },
+  {
+   "slug": "bnp-paribas",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection banking"
+  },
+  {
+   "slug": "bank-of-america",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Diversified Banks"
+  },
+  {
+   "slug": "goldman-sachs",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Investment Banking & Brokerage"
+  },
+  {
+   "slug": "standard-oil",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "rosneft",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "state-grid-corporation-of-china",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "electricite-de-france",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "enel",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "yukos",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "digital-realty-trust",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Real Estate / Data Center REITs"
+  },
+  {
+   "slug": "unionpay",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "collection fintech"
+  },
+  {
+   "slug": "jpmorgan-chase",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Diversified Banks"
+  },
+  {
+   "slug": "engie",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "exxonmobil",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Energy / Integrated Oil & Gas"
+  },
+  {
+   "slug": "sinopec",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "collection energy"
+  },
+  {
+   "slug": "lockheed-martin",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "blackrock",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Asset Management & Custody Banks"
+  },
+  {
+   "slug": "3m",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Industrial Conglomerates"
+  },
+  {
+   "slug": "air-products-chemicals",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Materials / Industrial Gases"
+  },
+  {
+   "slug": "american-international-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Multi-line Insurance"
+  },
+  {
+   "slug": "american-electric-power",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Utilities / Electric Utilities"
+  },
+  {
+   "slug": "automatic-data-processing",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Human Resource & Employment Services"
+  },
+  {
+   "slug": "capital-one",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Consumer Finance"
+  },
+  {
+   "slug": "caterpillar-inc",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Construction Machinery & Heavy Transportation Equipment"
+  },
+  {
+   "slug": "citigroup",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Diversified Banks"
+  },
+  {
+   "slug": "eaton-corporation",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Electrical Components & Equipment"
+  },
+  {
+   "slug": "factset",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Financial Exchanges & Data"
+  },
+  {
+   "slug": "fiserv",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Financials / Transaction & Payment Processing Services"
+  },
+  {
+   "slug": "franklin-templeton-investments",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Asset Management & Custody Banks"
+  },
+  {
+   "slug": "gartner",
+   "from": "brand-business",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / IT Consulting & Other Services"
+  },
+  {
+   "slug": "honeywell",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Industrial Conglomerates"
+  },
+  {
+   "slug": "international-paper",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Materials / Paper & Plastic Packaging Products & Materials"
+  },
+  {
+   "slug": "interactive-brokers",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Investment Banking & Brokerage"
+  },
+  {
+   "slug": "intercontinental-exchange",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Financial Exchanges & Data"
+  },
+  {
+   "slug": "kohlberg-kravis-roberts",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Asset Management & Custody Banks"
+  },
+  {
+   "slug": "metlife",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Life & Health Insurance"
+  },
+  {
+   "slug": "mettler-toledo",
+   "from": "technology-electronics",
+   "to": "health-pharma",
+   "why": "GICS Health Care / Life Sciences Tools & Services"
+  },
+  {
+   "slug": "moodys-corporation",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Financial Exchanges & Data"
+  },
+  {
+   "slug": "msci",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Financial Exchanges & Data"
+  },
+  {
+   "slug": "newmont-mining-corporation",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Materials / Gold"
+  },
+  {
+   "slug": "northrop-grumman-corporation",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "otis-worldwide-corporation",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Industrial Machinery & Supplies & Components"
+  },
+  {
+   "slug": "paccar",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Construction Machinery & Heavy Transportation Equipment"
+  },
+  {
+   "slug": "raymond-james-financial",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Investment Banking & Brokerage"
+  },
+  {
+   "slug": "rtx",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "rockwell-automation",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Electrical Components & Equipment"
+  },
+  {
+   "slug": "s-p-global",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Financial Exchanges & Data"
+  },
+  {
+   "slug": "ppg-industries",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Materials / Specialty Chemicals"
+  },
+  {
+   "slug": "stanley-black-decker",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Industrial Machinery & Supplies & Components"
+  },
+  {
+   "slug": "t-rowe-price",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Asset Management & Custody Banks"
+  },
+  {
+   "slug": "vertiv",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Electrical Components & Equipment"
+  },
+  {
+   "slug": "occidental-petroleum",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Energy / Oil & Gas Exploration & Production"
+  },
+  {
+   "slug": "american-tower-corporation",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Real Estate / Telecom Tower REITs"
+  },
+  {
+   "slug": "axon-enterprise",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "broadridge-financial-solutions",
+   "from": "finance",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Data Processing & Outsourced Services"
+  },
+  {
+   "slug": "boston-properties",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Office REITs"
+  },
+  {
+   "slug": "cbre-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Real Estate Services"
+  },
+  {
+   "slug": "cintas",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Diversified Support Services"
+  },
+  {
+   "slug": "costar-group",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Real Estate Services"
+  },
+  {
+   "slug": "crown-castle-international-corp",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Real Estate / Telecom Tower REITs"
+  },
+  {
+   "slug": "fico",
+   "from": "finance",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Application Software"
+  },
+  {
+   "slug": "first-solar",
+   "from": "industrial-energy",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Semiconductors"
+  },
+  {
+   "slug": "invitation-homes",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Single-Family Residential REITs"
+  },
+  {
+   "slug": "iron-mountain-incorporated",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Other Specialized REITs"
+  }
+ ]
+}

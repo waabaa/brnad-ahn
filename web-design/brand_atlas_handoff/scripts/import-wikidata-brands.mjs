@@ -6,7 +6,12 @@
 //    다시 쓰는 일만 한다. 생성문에 근거에 없는 연도·숫자가 나오면 그 브랜드는 수록하지 않는다.
 //  - country/foundedYear 원본 필드는 쓰지 않는다. 위키데이터 P17/P571만 brand.wikidata에 넣는다.
 //
-// Usage: node scripts/import-wikidata-brands.mjs [--limit 50] [--dry] [--batch 3] [--only Q1,Q2] [--candidates file] [--no-fallback] [--concurrency 2]
+//
+// --source en (2026-09-12, S&P 500·나스닥100 커버리지): 한국어 위키백과 문서가 없는 개체를 영문 위키백과 본문과
+// 위키데이터 팩트를 근거로 수록한다. 근거 밖 숫자 기각 규칙은 같다. 한글 표기는 위키데이터 ko 레이블이 있을 때만
+// 쓰고 없으면 비워 둔다(음차 생성 금지, CLAUDE.md §1) — 원어만 있는 레코드가 된다.
+//
+// Usage: node scripts/import-wikidata-brands.mjs [--limit 50] [--dry] [--batch 3] [--only Q1,Q2] [--candidates file] [--no-fallback] [--concurrency 2] [--source en]
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -23,6 +28,7 @@ const ONLY = opt("--only") ? new Set(opt("--only").split(",")) : null;
 // fallback은 research 의 gemini 몫(일 20)을 금방 비우고, 그 뒤로는 1시간짜리 429가 돌아온다(2026-09-12).
 const FALLBACK = args.includes("--no-fallback") ? [] : ["gemini"];
 const CONCURRENCY = Math.max(1, Number(opt("--concurrency", 4)));
+const SOURCE_EN = opt("--source", "ko") === "en";
 const UA = "BrandAtlasBot/1.0 (https://brandatlas.co.kr; brand dictionary; contact via site form)";
 const GW = process.env.LLM_GATEWAY_URL || "http://127.0.0.1:15055/v1/generate";
 const GW_KEY = process.env.LLM_GATEWAY_KEY || "";
@@ -34,7 +40,9 @@ const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
 const candidates = JSON.parse(fs.readFileSync(path.join(ROOT, opt("--candidates", "reports/brand-candidates.json")), "utf8"));
 const REPORT = path.join(ROOT, "reports/wikidata-brand-import.json");
 const prevReport = fs.existsSync(REPORT) ? JSON.parse(fs.readFileSync(REPORT, "utf8")) : { added: [], rejected: [] };
-const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.map(r => r.qid)]);
+// en 모드는 ko 근거 때문에 기각된 개체(문서 없음·요약 짧음·동음이의)를 다시 시도한다.
+const KO_ONLY_REJECT = /ko 문서 없음|요약 짧음|동음이의/;
+const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.filter(r => !(SOURCE_EN && KO_ONLY_REJECT.test(r.why))).map(r => r.qid)]);
 
 // 브랜드가 아닌 개체(사람·대학·리그·행정구역·작품)는 수록하지 않는다.
 const BLOCK_P31 = new Set(["Q484652", "Q79913", "Q163740", "Q1664720", "Q15911314", "Q31855", "Q3914", "Q2385804", "Q7075", "Q1785271", "Q4438121", "Q17127659", "Q5", "Q3918", "Q875538", "Q902104", "Q847017", "Q476028", "Q623109", "Q15991290", "Q15991303", "Q1478437", "Q515", "Q6256", "Q3624078", "Q11424", "Q482994", "Q134556", "Q7889", "Q571", "Q13406463", "Q4167410", "Q4167836", "Q7278", "Q245065", "Q327333", "Q43229x", "Q1250464", "Q10387575", "Q41176", "Q811979"]);
@@ -72,10 +80,11 @@ async function labelsOf(qids) {
 }
 
 // ── LLM: 근거만으로 우리 문체의 본문을 쓴다 ──────────────────────────────
+// 게이트웨이 기본 upstream 타임아웃으로는 두 건 묶음 생성(30초 남짓)이 잘려 나간다(2026-09-12) — 170초를 명시한다.
 async function generate(prompt) {
   for (let i = 0; i < 6; i++) {
     try {
-      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "gpt", prompt, fallback: FALLBACK }), signal: AbortSignal.timeout(180000) });
+      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "gpt", prompt, fallback: FALLBACK, timeout_ms: 170000 }), signal: AbortSignal.timeout(180000) });
       const j = await res.json().catch(() => null);
       if (j?.ok && j.content) return String(j.content);
       const err = j?.error;
@@ -101,6 +110,9 @@ function promptFor(items) {
 - 근거에 없는 사실(연도, 수치, 인물, 지명, 제품명)을 절대 쓰지 마라. 모르면 그 내용을 빼라.
 - 추측·홍보 표현·과장 금지. 문장 끝은 반드시 '~이다/~한다/~했다' 평서형으로 쓴다. '~입니다/~습니다'는 절대 쓰지 마라.
 - 브랜드명은 첫 문장에서 "한글명(원어)" 형태로 한 번만 병기한다. 원어가 없으면 한글명만 쓴다.
+- 한글명이 "(없음)"이면 브랜드명의 한글 음차를 절대 만들지 말고 원어 표기만 쓴다.
+- 근거가 영문이면 한국어로 옮겨 쓴다. 인명·회사명·제품명은 원어 철자 그대로 두고, 국가·도시처럼 한국어 표기가 확립된 지명만 한국어로 쓴다.
+  금액·수치를 단위 환산(billion→억 등)하지 마라. 환산이 필요한 숫자는 쓰지 말고, 연도와 근거에 그대로 있는 숫자만 쓴다.
 - definition: 1~2문장(80~160자). 그 브랜드가 무엇인지.
 - overview: 4~6문장(300~500자). 무엇을 하는 브랜드이며 지금 어떤 위치인지.
 - origin: 3~5문장(250~450자). 언제 누가 시작했고 어떻게 성장했는지. 근거에 없으면 빈 문자열 "".
@@ -114,10 +126,10 @@ function promptFor(items) {
 
 브랜드 ${items.length}건:
 ${items.map(it => `--- id: ${it.qid}
-한글명: ${it.ko}
+한글명: ${it.ko || "(없음)"}
 원어: ${it.en || "(없음)"}
 위키데이터 팩트: ${it.factLine || "(없음)"}
-한국어 위키백과 본문(근거): ${it.extract}`).join("\n")}`;
+${it.sourceLang === "en" ? "영문 위키백과 본문(근거)" : "한국어 위키백과 본문(근거)"}: ${it.extract}`).join("\n")}`;
 }
 
 // 생성문 검증: 근거에 없는 숫자(연도·수치)가 나오면 기각한다.
@@ -171,7 +183,7 @@ async function downloadLogo(commonsFile, slug) {
 
 // ── 후보 준비 ────────────────────────────────────────────────────────
 // 스캔은 위키 API 두 번씩 1,500건이라 40분쯤 걸린다. 결과를 캐시해 재시작 비용을 없앤다.
-const PREP_CACHE = path.join(ROOT, "reports/wikidata-brand-prepared.json");
+const PREP_CACHE = path.join(ROOT, SOURCE_EN ? "reports/wikidata-brand-prepared-en.json" : "reports/wikidata-brand-prepared.json");
 const prepared = [];
 const rejected = [];
 let scanned = 0;
@@ -180,23 +192,24 @@ for (const c of (CACHED ? [] : candidates)) {
   if (prepared.length >= LIMIT) break;
   if (ONLY && !ONLY.has(c.qid)) continue;
   if (doneQids.has(c.qid)) continue;
-  const koBase = c.ko.replace(/\s*\(.*?\)\s*$/, "").trim();
-  if (have.has(norm(koBase))) { rejected.push({ qid: c.qid, ko: c.ko, why: "이미 수록" }); continue; }
+  const koBase = String(c.ko || "").replace(/\s*\(.*?\)\s*$/, "").trim();
+  if (koBase && have.has(norm(koBase))) { rejected.push({ qid: c.qid, ko: c.ko, why: "이미 수록" }); continue; }
   scanned++;
   const ent = await wikiFetch(`https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${c.qid}&props=claims|labels|descriptions|sitelinks/urls&languages=ko|en&sitefilter=kowiki|enwiki&format=json`);
   const e = ent?.entities?.[c.qid];
   if (!e) { rejected.push({ qid: c.qid, ko: c.ko, why: "위키데이터 조회 실패" }); continue; }
   const p31 = claimValues(e.claims, "P31").map(qidOf).filter(Boolean);
   if (p31.some(q => BLOCK_P31.has(q))) { rejected.push({ qid: c.qid, ko: c.ko, why: `브랜드 아님(${p31.join(",")})` }); continue; }
-  const koTitle = e.sitelinks?.kowiki?.title;
-  if (!koTitle) { rejected.push({ qid: c.qid, ko: c.ko, why: "ko 문서 없음" }); continue; }
+  const koTitle = SOURCE_EN ? null : e.sitelinks?.kowiki?.title;
+  const srcTitle = SOURCE_EN ? e.sitelinks?.enwiki?.title : koTitle;
+  if (!srcTitle) { rejected.push({ qid: c.qid, ko: c.ko, why: SOURCE_EN ? "en 문서 없음" : "ko 문서 없음" }); continue; }
   // 리드 문단(REST summary)만 쓰면 근거가 300자 안팎이라 사전 항목이 얇아진다. 문서 본문 앞부분까지 근거로 쓴다.
-  const ex = await wikiFetch(`https://ko.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&exsectionformat=plain&titles=${encodeURIComponent(koTitle)}&format=json`);
+  const ex = await wikiFetch(`https://${SOURCE_EN ? "en" : "ko"}.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&exsectionformat=plain&titles=${encodeURIComponent(srcTitle)}&format=json`);
   const full = String(Object.values(ex?.query?.pages || {})[0]?.extract || "")
-    .replace(/\n{2,}/g, "\n").replace(/^(각주|참고 문헌|외부 링크|같이 보기)[\s\S]*$/m, "").trim();
+    .replace(/\n{2,}/g, "\n").replace(/^(각주|참고 문헌|외부 링크|같이 보기|See also|References|External links|Notes|Further reading)[\s\S]*$/m, "").trim();
   const extract = full.slice(0, 4500);
   if (extract.length < 500) { rejected.push({ qid: c.qid, ko: c.ko, why: `요약 짧음(${extract.length}자)` }); continue; }
-  if (/동음이의|넘겨주기/.test(extract)) { rejected.push({ qid: c.qid, ko: c.ko, why: "동음이의" }); continue; }
+  if (/동음이의|넘겨주기|may refer to:/.test(extract)) { rejected.push({ qid: c.qid, ko: c.ko, why: "동음이의" }); continue; }
 
   const enTitle = String(e.sitelinks?.enwiki?.title || "").replace(/\s*\(.*?\)\s*$/, "").trim();
   const en = e.labels?.en?.value || enTitle || "";
@@ -208,7 +221,10 @@ for (const c of (CACHED ? [] : candidates)) {
   const web = claimValues(e.claims, "P856")[0] || "";
   const logoFile = claimValues(e.claims, "P154")[0] || claimValues(e.claims, "P8972")[0] || "";
   if (have.has(norm(en)) || haveSlug.has(slugifyAscii(en || romanizeKorean(koBase)))) { rejected.push({ qid: c.qid, ko: c.ko, why: `이미 수록(원어 ${en})` }); continue; }
-  prepared.push({ qid: c.qid, ko: koBase, koTitle, en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
+  // en 모드의 한글 표기: 위키데이터 ko 레이블(한글 포함)만. 없으면 빈 값 — 음차하지 않는다.
+  const koName = SOURCE_EN ? (/[가-힣]/.test(e.labels?.ko?.value || "") ? e.labels.ko.value.trim() : "") : koBase;
+  if (SOURCE_EN && koName && have.has(norm(koName))) { rejected.push({ qid: c.qid, ko: koName, why: "이미 수록" }); continue; }
+  prepared.push({ qid: c.qid, ko: koName, koTitle, enTitle: e.sitelinks?.enwiki?.title || "", sourceLang: SOURCE_EN ? "en" : "ko", en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
   if (scanned % 25 === 0) console.log(`  스캔 ${scanned}, 준비 ${prepared.length}, 기각 ${rejected.length}`);
 }
 if (!CACHED && !DRY) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
@@ -245,7 +261,7 @@ function buildRecord(p, g) {
   haveSlug.add(slug);
   const sameAs = [`https://www.wikidata.org/wiki/${p.qid}`, p.koUrl, p.enUrl].filter(Boolean);
   return {
-    id: 0, slug, urlSlug: slug, name: p.ko, nameKo: p.ko, nameEn: p.en || "",
+    id: 0, slug, urlSlug: slug, name: p.ko || p.en, nameKo: p.ko || "", nameEn: p.en || "",
     definition: g.definition, summary: g.definition,
     industry: industries.get(g.industry), domainSlug: g.industry,
     tier: "C_source_backed", rating: Math.min(5, 3.5 + Math.min(1.5, p.sitelinks / 60)),
@@ -260,7 +276,7 @@ function buildRecord(p, g) {
     },
     timeline: [], publicReady: true, displayPriority: "normal",
     officialWebsite: p.web,
-    entityLinks: { wikidata: p.qid, sameAs, source: "wikidata ko sitelink (import 2026-09)" },
+    entityLinks: { wikidata: p.qid, sameAs, source: p.sourceLang === "en" ? "wikidata en sitelink (import 2026-09)" : "wikidata ko sitelink (import 2026-09)" },
     wikidata: {
       qid: p.qid,
       country: p.countryQ ? labels.get(p.countryQ) || null : null,
@@ -270,7 +286,7 @@ function buildRecord(p, g) {
       parent: p.parentQ ? labels.get(p.parentQ) || null : null,
       fetchedAt: TODAY,
     },
-    sourceNote: `한국어 위키백과 「${p.koTitle}」 요약과 위키데이터 ${p.qid} 팩트를 근거로 편집`,
+    sourceNote: p.sourceLang === "en" ? `영문 위키백과 「${p.enTitle}」 본문과 위키데이터 ${p.qid} 팩트를 근거로 편집` : `한국어 위키백과 「${p.koTitle}」 요약과 위키데이터 ${p.qid} 팩트를 근거로 편집`,
   };
 }
 
@@ -294,7 +310,7 @@ async function processChunk(chunk, retry = false) {
     if (p.logoFile && !DRY) { rec.logo = await downloadLogo(p.logoFile, rec.urlSlug); if (rec.logo) rec.logoHistory = [{ src: rec.logo, label: "대표 로고", note: "현재 사용 중인 마크" }]; }
     rec.id = nextId++;
     if (!DRY) data.allBrands.push(rec);
-    added.push({ qid: p.qid, name: p.ko, slug: rec.urlSlug, industry: rec.industry, logo: !!rec.logo });
+    added.push({ qid: p.qid, name: p.ko || p.en, source: p.sourceLang, slug: rec.urlSlug, industry: rec.industry, logo: !!rec.logo });
     have.add(norm(p.ko));
   }
   return failed;

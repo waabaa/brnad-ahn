@@ -3,9 +3,9 @@
  "counts": {
   "ai": 25,
   "fintech": 28,
-  "banking": 46,
-  "energy": 31,
-  "property": 28,
+  "banking": 51,
+  "energy": 39,
+  "property": 33,
   "airlines": 61,
   "museums": 27,
   "fast-food": 44,
@@ -2508,6 +2508,114 @@
    {
     "collection": "digital-services",
     "why": "wikidata Q156376 P31=Q59152282"
+   }
+  ],
+  "occidental-petroleum": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2013357 P452=Q862571"
+   }
+  ],
+  "apa-corporation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q119991 P452=Q862571"
+   }
+  ],
+  "citizens-financial-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q5122694 P31=Q22687"
+   }
+  ],
+  "crown-castle-international-corp": [
+   {
+    "collection": "property",
+    "why": "wikidata Q5189320 P31=Q697852"
+   }
+  ],
+  "devon-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1206980 P452=Q862571"
+   }
+  ],
+  "diamondback-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q65091423 P31=Q14941854"
+   }
+  ],
+  "d-r-horton": [
+   {
+    "collection": "property",
+    "why": "wikidata Q5203782 P452=Q385378"
+   }
+  ],
+  "eog-resources": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1275577 P452=Q862571"
+   }
+  ],
+  "expand-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2962826 P452=Q862571"
+   }
+  ],
+  "fifth-third-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1411810 P31=Q76218249"
+   }
+  ],
+  "huntington-bancshares": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q798819 P31=Q22687"
+   }
+  ],
+  "invitation-homes": [
+   {
+    "collection": "property",
+    "why": "wikidata Q85769855 P31=Q697852"
+   }
+  ],
+  "keybank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1740314 P31=Q22687"
+   }
+  ],
+  "kinder-morgan": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q931032 P452=Q862571"
+   }
+  ],
+  "lennar-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q16981175 P452=Q385378"
+   }
+  ],
+  "m-t-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q3272257 P31=Q22687"
+   }
+  ],
+  "marathon-petroleum": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q458363 P452=Q862571"
+   }
+  ],
+  "maa": [
+   {
+    "collection": "property",
+    "why": "wikidata Q27988239 P31=Q697852"
    }
   ]
  }
