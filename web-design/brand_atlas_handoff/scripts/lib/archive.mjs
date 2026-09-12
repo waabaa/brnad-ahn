@@ -95,14 +95,24 @@ export function indexKey(b) {
   return "기타";
 }
 
+/**
+ * 색인 그룹. 한글 표기와 원어 표기가 모두 있는 브랜드는 두 색인에 다 싣는다 — 초성(ㅇ: 오픈AI)과
+ * 원어 첫 글자(O: OpenAI). 한쪽에만 두면 다른 표기로 찾는 사람에게는 없는 브랜드가 된다(표기 병기 규칙과 같은 이유).
+ * 알파벳 그룹 안에서는 원어 기준으로 정렬한다.
+ */
 export function groupByIndex(brands) {
   const groups = new Map();
+  const put = (k, b) => { if (!groups.has(k)) groups.set(k, []); if (!groups.get(k).includes(b)) groups.get(k).push(b); };
   for (const b of brands) {
-    const k = indexKey(b);
-    if (!groups.has(k)) groups.set(k, []);
-    groups.get(k).push(b);
+    put(indexKey(b), b);
+    const latin = String(latinName(b) || "").trim();
+    if (koreanName(b) && /^[A-Za-z]/.test(latin)) put(latin[0].toUpperCase(), b);
   }
-  for (const arr of groups.values()) arr.sort((a, b) => sortKey(a).localeCompare(sortKey(b), "ko"));
+  const alphaKey = (b) => String(latinName(b) || sortKey(b)).trim();
+  for (const [k, arr] of groups) {
+    if (ALPHA_KEYS.includes(k)) arr.sort((a, b) => alphaKey(a).localeCompare(alphaKey(b), "en", { sensitivity: "base" }));
+    else arr.sort((a, b) => sortKey(a).localeCompare(sortKey(b), "ko"));
+  }
   const order = [...GANADA_KEYS, ...ALPHA_KEYS, "0-9", "기타"];
   return order.filter(k => groups.has(k)).map(k => [k, groups.get(k)]);
 }

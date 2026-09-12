@@ -1,0 +1,7368 @@
+{
+ "source": "en.wikipedia List of S&P 500 companies + List of NASDAQ-100 companies (2026-09-12)",
+ "total": 513,
+ "have": 58,
+ "missingWithKowiki": 224,
+ "missingNoKowiki": 231,
+ "companies": [
+  {
+   "qid": "Q159433",
+   "en": "3M",
+   "ko": "3M",
+   "kowiki": "3M",
+   "tickers": [
+    "MMM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4648219",
+   "en": "A. O. Smith",
+   "ko": "A. O. 스미스",
+   "kowiki": "A. O. 스미스",
+   "tickers": [
+    "AOS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q306764",
+   "en": "Abbott Laboratories",
+   "ko": "애벗 래버러토리스",
+   "kowiki": "애벗 래버러토리스",
+   "tickers": [
+    "ABT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q14662364",
+   "en": "AbbVie",
+   "ko": "애브비",
+   "kowiki": "애브비",
+   "tickers": [
+    "ABBV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q338825",
+   "en": "Accenture",
+   "ko": "액센츄어",
+   "kowiki": "액센츄어",
+   "tickers": [
+    "ACN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "accenture",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q11463",
+   "en": "Adobe",
+   "ko": "어도비 시스템즈",
+   "kowiki": "어도비 (기업)",
+   "tickers": [
+    "ADBE",
+    "| ADBE"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "adobe",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q128896",
+   "en": "AMD",
+   "ko": "어드밴스트 마이크로 디바이시스",
+   "kowiki": "AMD",
+   "tickers": [
+    "AMD",
+    "| AMD"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "amd",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q291508",
+   "en": "AES Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AES"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q26311",
+   "en": "Aflac",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AFL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q393762",
+   "en": "Agilent Technologies",
+   "ko": "애질런트 테크놀로지스",
+   "kowiki": "애질런트 테크놀로지스",
+   "tickers": [
+    "A"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q407744",
+   "en": "Air Products & Chemicals",
+   "ko": "에어 프로덕츠",
+   "kowiki": "에어 프로덕츠",
+   "tickers": [
+    "APD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q63327",
+   "en": "Airbnb",
+   "ko": "에어비앤비",
+   "kowiki": "에어비앤비",
+   "tickers": [
+    "ABNB",
+    "| ABNB"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q415598",
+   "en": "Akamai Technologies",
+   "ko": "Akamai Technologies",
+   "kowiki": "아카마이 테크놀로지스",
+   "tickers": [
+    "AKAM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q127074",
+   "en": "Albemarle Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ALB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q48739877",
+   "en": "Alexandria Real Estate Equities",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ARE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q30272258",
+   "en": "Align Technology",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ALGN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16738121",
+   "en": "Allegion",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ALLE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4732492",
+   "en": "Alliant Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LNT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2645636",
+   "en": "Allstate",
+   "ko": "올스테이트",
+   "kowiki": "올스테이트",
+   "tickers": [
+    "ALL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q20800404",
+   "en": "Alphabet Inc.",
+   "ko": "알파벳",
+   "kowiki": "알파벳 (기업)",
+   "tickers": [
+    "GOOGL",
+    "GOOG",
+    "| GOOGL",
+    "| GOOG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q445007",
+   "en": "Altria",
+   "ko": "알트리아",
+   "kowiki": "알트리아",
+   "tickers": [
+    "MO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3884",
+   "en": "Amazon",
+   "ko": "아마존닷컴",
+   "kowiki": "아마존 (기업)",
+   "tickers": [
+    "AMZN",
+    "| AMZN"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "amazon",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q460307",
+   "en": "Amcor",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AMCR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q462984",
+   "en": "Ameren",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AEE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q464092",
+   "en": "American Electric Power",
+   "ko": "아메리칸 일렉트릭 파워",
+   "kowiki": "아메리칸 일렉트릭 파워",
+   "tickers": [
+    "AEP",
+    "| AEP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q194360",
+   "en": "American Express",
+   "ko": "아메리칸 엑스프레스",
+   "kowiki": "아메리칸 익스프레스",
+   "tickers": [
+    "AXP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "american-express",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q212235",
+   "en": "American International Group",
+   "ko": "아메리칸 인터내셔널 그룹",
+   "kowiki": "아메리칸 인터내셔널 그룹",
+   "tickers": [
+    "AIG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4745263",
+   "en": "American Tower Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AMT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q467238",
+   "en": "American Water Works",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AWK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2843129",
+   "en": "Ameriprise Financial",
+   "ko": "아메리프라이즈 파이낸셜",
+   "kowiki": "아메리프라이즈 파이낸셜",
+   "tickers": [
+    "AMP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q470317",
+   "en": "Ametek",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AME"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q470517",
+   "en": "Amgen",
+   "ko": "암젠",
+   "kowiki": "암젠",
+   "tickers": [
+    "AMGN",
+    "| AMGN"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q474621",
+   "en": "Amphenol",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "APH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q484930",
+   "en": "Analog Devices",
+   "ko": "아날로그 디바이스",
+   "kowiki": "아날로그 디바이스",
+   "tickers": [
+    "ADI",
+    "| ADI"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q739518",
+   "en": "Aon plc",
+   "ko": "Aon(회사)",
+   "kowiki": "에이온",
+   "tickers": [
+    "AON"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q119991",
+   "en": "APA Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "APA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q619121",
+   "en": "Apollo Global Management",
+   "ko": "아폴로 글로벌 매니지먼트",
+   "kowiki": "아폴로 글로벌 매니지먼트",
+   "tickers": [
+    "APO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q312",
+   "en": "Apple Inc.",
+   "ko": "애플",
+   "kowiki": "애플",
+   "tickers": [
+    "AAPL",
+    "| AAPL"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "apple",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q621610",
+   "en": "Applied Materials",
+   "ko": "어플라이드 머티어리얼즈",
+   "kowiki": "어플라이드 머티어리얼즈",
+   "tickers": [
+    "AMAT",
+    "| AMAT"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27150212",
+   "en": "AppLovin",
+   "ko": "앱러빈",
+   "kowiki": "앱러빈",
+   "tickers": [
+    "APP",
+    "| APP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q643626",
+   "en": "Aptiv",
+   "ko": "Delphi Automotive",
+   "kowiki": "앱티브",
+   "tickers": [
+    "APTV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q28155430",
+   "en": "Arch Capital Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ACGL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q632694",
+   "en": "Archer Daniels Midland",
+   "ko": "아처 대니얼스 미들랜드",
+   "kowiki": "아처 대니얼스 미들랜드",
+   "tickers": [
+    "ADM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4789079",
+   "en": "Ares Management",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ARES"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2861324",
+   "en": "Arista Networks",
+   "ko": "아리스타 네트웍스",
+   "kowiki": "아리스타 네트웍스",
+   "tickers": [
+    "ANET"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4799191",
+   "en": "Arthur J. Gallagher & Co.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AJG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4810399",
+   "en": "Assurant",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AIZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q35476",
+   "en": "AT&T",
+   "ko": "AT&T",
+   "kowiki": "AT&T",
+   "tickers": [
+    "T"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "at-t",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q4817084",
+   "en": "Atmos Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ATO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q628051",
+   "en": "Autodesk",
+   "ko": "오토데스크",
+   "kowiki": "오토데스크",
+   "tickers": [
+    "ADSK",
+    "| ADSK"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q489080",
+   "en": "Automatic Data Processing",
+   "ko": "Automatic Data Processing",
+   "kowiki": "ADP (기업)",
+   "tickers": [
+    "ADP",
+    "| ADP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4826087",
+   "en": "AutoZone",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AZO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q790650",
+   "en": "Avery Dennison",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AVY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q690604",
+   "en": "Axon Enterprise",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "AXON",
+    "| AXON"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q804353",
+   "en": "Baker Hughes",
+   "ko": "베이커 휴즈",
+   "kowiki": "베이커 휴즈",
+   "tickers": [
+    "BKR",
+    "| BKR"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4034815",
+   "en": "Ball Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BALL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q487907",
+   "en": "Bank of America",
+   "ko": "뱅크 오브 아메리카",
+   "kowiki": "뱅크 오브 아메리카",
+   "tickers": [
+    "BAC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "bank-of-america",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q761965",
+   "en": "Baxter International",
+   "ko": "백스터",
+   "kowiki": "백스터",
+   "tickers": [
+    "BAX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q813780",
+   "en": "Becton Dickinson",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BDX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q217583",
+   "en": "Berkshire Hathaway",
+   "ko": "버크셔 해서웨이",
+   "kowiki": "버크셔 해서웨이",
+   "tickers": [
+    "BRK.B"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "berkshire-hathaway",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q533415",
+   "en": "Best Buy",
+   "ko": "베스트 바이",
+   "kowiki": "베스트 바이",
+   "tickers": [
+    "BBY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "best-buy",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q19873469",
+   "en": "Bio-Techne",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TECH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q864338",
+   "en": "Biogen",
+   "ko": "바이오젠",
+   "kowiki": "바이오젠",
+   "tickers": [
+    "BIIB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q219635",
+   "en": "BlackRock",
+   "ko": "블랙록",
+   "kowiki": "블랙록 (기업)",
+   "tickers": [
+    "BLK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "blackrock",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q880942",
+   "en": "Blackstone Inc.",
+   "ko": "블랙스톤 그룹",
+   "kowiki": "블랙스톤 그룹",
+   "tickers": [
+    "BX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q110778747",
+   "en": "Block, Inc.",
+   "ko": "스퀘어 (회사)",
+   "kowiki": "블록 (기업)",
+   "tickers": [
+    "XYZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q589288",
+   "en": "The Bank of New York Mellon",
+   "ko": "뉴욕멜론은행",
+   "kowiki": "뉴욕멜론은행",
+   "tickers": [
+    "BNY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q66",
+   "en": "Boeing",
+   "ko": "보잉",
+   "kowiki": "보잉",
+   "tickers": [
+    "BA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q18674747",
+   "en": "Booking Holdings",
+   "ko": "부킹 홀딩스",
+   "kowiki": "부킹 홀딩스",
+   "tickers": [
+    "BKNG",
+    "| BKNG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q894585",
+   "en": "Boston Scientific",
+   "ko": "보스톤사이언티픽",
+   "kowiki": "보스톤사이언티픽",
+   "tickers": [
+    "BSX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q266423",
+   "en": "Bristol-Myers Squibb",
+   "ko": "브리스톨 마이어스 스퀴브",
+   "kowiki": "브리스톨 마이어스 스퀴브",
+   "tickers": [
+    "BMY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q790060",
+   "en": "Broadcom",
+   "ko": "Broadcom",
+   "kowiki": "브로드컴",
+   "tickers": [
+    "AVGO",
+    "| AVGO"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4972280",
+   "en": "Broadridge Financial Solutions",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4976010",
+   "en": "Brown & Brown",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BRO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q392221",
+   "en": "Brown-Forman",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BF.B"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27686100",
+   "en": "Builders FirstSource",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BLDR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1009458",
+   "en": "Bunge Limited",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4844439",
+   "en": "Boston Properties",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "BXP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q931200",
+   "en": "C. H. Robinson Worldwide",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CHRW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q608776",
+   "en": "Cadence Design Systems",
+   "ko": "케이던스 디자인 시스템즈",
+   "kowiki": "케이던스 디자인 시스템즈",
+   "tickers": [
+    "CDNS",
+    "| CDNS"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5025803",
+   "en": "Camden Property Trust",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CPT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1034654",
+   "en": "Capital One",
+   "ko": "캐피털 원",
+   "kowiki": "캐피털 원",
+   "tickers": [
+    "COF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q902397",
+   "en": "Cardinal Health",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CAH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1044059",
+   "en": "Carnival Corporation",
+   "ko": "카니발 코퍼레이션",
+   "kowiki": "카니발 코퍼레이션",
+   "tickers": [
+    "CCL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q731912",
+   "en": "Carrier Corporation",
+   "ko": "캐리어",
+   "kowiki": "캐리어 (기업)",
+   "tickers": [
+    "CARR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16247191",
+   "en": "Carvana",
+   "ko": "카바나",
+   "kowiki": "카바나",
+   "tickers": [
+    "CVNA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2940968",
+   "en": "Casey's General Stores",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CASY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q459965",
+   "en": "Caterpillar Inc.",
+   "ko": "캐터필러",
+   "kowiki": "캐터필러",
+   "tickers": [
+    "CAT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q30635731",
+   "en": "Cboe Global Markets, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "{{BZX link|CBOE}}"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1023013",
+   "en": "CBRE Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CBRE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1023155",
+   "en": "CDW",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CDW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q470156",
+   "en": "Cencora",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "COR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5059102",
+   "en": "Centene Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CNC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1053560",
+   "en": "CenterPoint Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CNP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q905806",
+   "en": "CF Industries",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5082076",
+   "en": "Charles River Laboratories",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CRL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1066028",
+   "en": "Charles Schwab Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SCHW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2961234",
+   "en": "Spectrum",
+   "ko": "차터 커뮤니케이션스",
+   "kowiki": "차터 커뮤니케이션스",
+   "tickers": [
+    "CHTR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q319642",
+   "en": "Chevron Corporation",
+   "ko": "셰브런",
+   "kowiki": "셰브론",
+   "tickers": [
+    "CVX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q465751",
+   "en": "Chipotle Mexican Grill",
+   "ko": "치포틀레 멕시칸 그릴",
+   "kowiki": "치폴레 멕시칸 그릴",
+   "tickers": [
+    "CMG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1089060",
+   "en": "Chubb Corp.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5116536",
+   "en": "Church & Dwight",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CHD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1091783",
+   "en": "Ciena",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CIEN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q642271",
+   "en": "The Cigna Group",
+   "ko": "시그나",
+   "kowiki": "시그나",
+   "tickers": [
+    "CI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5120253",
+   "en": "Cincinnati Financial",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CINF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1092571",
+   "en": "Cintas",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CTAS",
+    "| CTAS"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q173395",
+   "en": "Cisco",
+   "ko": "시스코 시스템즈",
+   "kowiki": "시스코 시스템즈",
+   "tickers": [
+    "CSCO",
+    "| CSCO"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "cisco",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q219508",
+   "en": "Citigroup",
+   "ko": "시티그룹",
+   "kowiki": "씨티그룹",
+   "tickers": [
+    "C"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5122694",
+   "en": "Citizens Financial Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CFG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q910368",
+   "en": "Clorox",
+   "ko": "크로락스",
+   "kowiki": "크로락스",
+   "tickers": [
+    "CLX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1023876",
+   "en": "CME Group",
+   "ko": "CME 그룹",
+   "kowiki": "CME 그룹",
+   "tickers": [
+    "CME"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5013012",
+   "en": "CMS Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CMS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3295867",
+   "en": "The Coca-Cola Company",
+   "ko": "코카콜라 컴퍼니",
+   "kowiki": "코카콜라 컴퍼니",
+   "tickers": [
+    "KO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "coca-cola",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1107035",
+   "en": "Cognizant Technology Solutions",
+   "ko": "카그너전트",
+   "kowiki": "카그너전트",
+   "tickers": [
+    "CTSH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q15109887",
+   "en": "Coherent Corp.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "COHR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16972754",
+   "en": "Coinbase",
+   "ko": "코인베이스",
+   "kowiki": "코인베이스",
+   "tickers": [
+    "COIN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "coinbase",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q609466",
+   "en": "Colgate-Palmolive Company",
+   "ko": "콜게이트 파몰리브",
+   "kowiki": "콜게이트-파몰리브",
+   "tickers": [
+    "CL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1113804",
+   "en": "Comcast",
+   "ko": "컴캐스트",
+   "kowiki": "컴캐스트",
+   "tickers": [
+    "CMCSA",
+    "| CMCSA"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "comcast",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q5151691",
+   "en": "Comfort Systems USA",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FIX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q214763",
+   "en": "ConocoPhillips",
+   "ko": "코노코필립스",
+   "kowiki": "코노코필립스",
+   "tickers": [
+    "COP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1127536",
+   "en": "Consolidated Edison",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ED"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1128160",
+   "en": "Constellation Brands",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "STZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q259195",
+   "en": "Constellation Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CEG",
+    "| CEG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1129792",
+   "en": "The Cooper Companies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "COO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16951448",
+   "en": "Copart",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CPRT",
+    "| CPRT"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5842736",
+   "en": "Corning Inc.",
+   "ko": "코닝 주식회사",
+   "kowiki": "코닝 (기업)",
+   "tickers": [
+    "GLW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16838618",
+   "en": "Corpay",
+   "ko": "코페이",
+   "kowiki": "코페이 (기업)",
+   "tickers": [
+    "CPAY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q63197674",
+   "en": "Corteva",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CTVA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16988748",
+   "en": "CoStar Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CSGP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q715583",
+   "en": "Costco",
+   "ko": "코스트코",
+   "kowiki": "코스트코",
+   "tickers": [
+    "COST",
+    "| COST"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "costco",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1053299",
+   "en": "CRH",
+   "ko": "CRH",
+   "kowiki": "CRH (기업)",
+   "tickers": [
+    "CRH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q24890758",
+   "en": "CrowdStrike",
+   "ko": "크라우드스트라이크",
+   "kowiki": "크라우드스트라이크",
+   "tickers": [
+    "CRWD",
+    "| CRWD"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5189320",
+   "en": "Crown Castle International Corp.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "CCI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1024454",
+   "en": "CSX Corporation",
+   "ko": "CSX 코퍼레이션",
+   "kowiki": "CSX 코퍼레이션",
+   "tickers": [
+    "CSX",
+    "| CSX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q173476",
+   "en": "Cummins",
+   "ko": "커민스",
+   "kowiki": "커민스 (기업)",
+   "tickers": [
+    "CMI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q624375",
+   "en": "CVS Health",
+   "ko": "CVS 헬스",
+   "kowiki": "CVS 헬스",
+   "tickers": [
+    "CVS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1159256",
+   "en": "Danaher Corporation",
+   "ko": "다나허 코퍼레이션",
+   "kowiki": "다나허 코퍼레이션",
+   "tickers": [
+    "DHR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q742196",
+   "en": "Darden Restaurants",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DRI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16248637",
+   "en": "Datadog",
+   "ko": "데이터도그",
+   "kowiki": "데이터도그",
+   "tickers": [
+    "DDOG",
+    "| DDOG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5207184",
+   "en": "DaVita",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DVA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1181953",
+   "en": "Deckers Outdoor Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DECK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q496302",
+   "en": "Deere & Company",
+   "ko": "디어 앤 컴퍼니",
+   "kowiki": "디어 앤 컴파니",
+   "tickers": [
+    "DE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27500963",
+   "en": "Dell Technologies",
+   "ko": "델 테크놀로지스",
+   "kowiki": "델 테크놀로지스",
+   "tickers": [
+    "DELL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q188920",
+   "en": "Delta Air Lines",
+   "ko": "델타 항공",
+   "kowiki": "델타 항공",
+   "tickers": [
+    "DAL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "delta-air-lines",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1206980",
+   "en": "Devon Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DVN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q15109865",
+   "en": "Dexcom",
+   "ko": "덱스콤",
+   "kowiki": "덱스콤",
+   "tickers": [
+    "DXCM",
+    "| DXCM"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q65091423",
+   "en": "Diamondback Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FANG",
+    "| FANG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5275969",
+   "en": "Digital Realty Trust",
+   "ko": "디지털 리얼티",
+   "kowiki": "디지털 리얼티",
+   "tickers": [
+    "DLR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "digital-realty-trust",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q145168",
+   "en": "Dollar General",
+   "ko": "달러 제너럴",
+   "kowiki": "달러 제너럴",
+   "tickers": [
+    "DG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "dollar-general",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q5289230",
+   "en": "Dollar Tree",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DLTR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q677464",
+   "en": "Dominion Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "D"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q839466",
+   "en": "Domino's Pizza",
+   "ko": "도미노피자",
+   "kowiki": "도미노피자",
+   "tickers": [
+    "DPZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "domino-s-pizza",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q20714323",
+   "en": "DoorDash",
+   "ko": "도어대시",
+   "kowiki": "도어대시",
+   "tickers": [
+    "DASH",
+    "| DASH"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16974527",
+   "en": "Dover Corporation",
+   "ko": "도버",
+   "kowiki": "도버 (기업)",
+   "tickers": [
+    "DOV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q855639",
+   "en": "Dow Chemical Company",
+   "ko": "다우 케미컬",
+   "kowiki": "다우 케미칼",
+   "tickers": [
+    "DOW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5203782",
+   "en": "D. R. Horton",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DHI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5206232",
+   "en": "DTE Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DTE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1264404",
+   "en": "Duke Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DUK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q221062",
+   "en": "DuPont",
+   "ko": "듀폰",
+   "kowiki": "듀폰",
+   "tickers": [
+    "DD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q48872",
+   "en": "Eaton Corporation",
+   "ko": "이튼 코퍼레이션",
+   "kowiki": "이튼 코퍼레이션",
+   "tickers": [
+    "ETN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q58024",
+   "en": "eBay",
+   "ko": "이베이",
+   "kowiki": "이베이",
+   "tickers": [
+    "EBAY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "ebay",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1280748",
+   "en": "EchoStar",
+   "ko": "에코스타",
+   "kowiki": "에코스타",
+   "tickers": [
+    "ECHO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1282031",
+   "en": "Ecolab",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ECL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q662095",
+   "en": "Edison International",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EIX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16966841",
+   "en": "Edwards Lifesciences",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q677488",
+   "en": "Elevance Health, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ELV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5370289",
+   "en": "EMCOR",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EME"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1335585",
+   "en": "Emerson Electric",
+   "ko": "에머슨 일렉트릭",
+   "kowiki": "에머슨 일렉트릭",
+   "tickers": [
+    "EMR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1344587",
+   "en": "Entergy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ETR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1275577",
+   "en": "EOG Resources",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EOG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5323987",
+   "en": "EQT",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EQT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5384453",
+   "en": "Equifax",
+   "ko": "에퀴팩스",
+   "kowiki": "에퀴팩스",
+   "tickers": [
+    "EFX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q851641",
+   "en": "Equinix",
+   "ko": "에퀴닉스",
+   "kowiki": "에퀴닉스",
+   "tickers": [
+    "EQIX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5388314",
+   "en": "Erie Insurance Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ERIE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27964091",
+   "en": "Essex Property Trust, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ESS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1260606",
+   "en": "Estée Lauder Companies",
+   "ko": "에스티 로더",
+   "kowiki": "에스티 로더",
+   "tickers": [
+    "EL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "est-e-lauder",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1381973",
+   "en": "Everest Re",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7987107",
+   "en": "Evergy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EVRG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3344199",
+   "en": "Eversource Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ES"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1383669",
+   "en": "Exelon",
+   "ko": "엑셀론",
+   "kowiki": "엑셀론",
+   "tickers": [
+    "EXC",
+    "| EXC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2962826",
+   "en": "Expand Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EXE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q8085893",
+   "en": "Expedia Group",
+   "ko": "익스피디아 그룹",
+   "kowiki": "익스피디아 그룹",
+   "tickers": [
+    "EXPE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1384324",
+   "en": "Expeditors International",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EXPD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5422162",
+   "en": "Extra Space Storage",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "EXR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q156238",
+   "en": "ExxonMobil",
+   "ko": "엑슨모빌",
+   "kowiki": "엑슨모빌",
+   "tickers": [
+    "XOM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "exxonmobil",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q3029296",
+   "en": "F5, Inc.",
+   "ko": "F5 내트워크",
+   "kowiki": "F5 네트웍스",
+   "tickers": [
+    "FFIV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1885491",
+   "en": "FactSet",
+   "ko": "팩트셋 리서치 시스템즈",
+   "kowiki": "팩트셋",
+   "tickers": [
+    "FDS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1392999",
+   "en": "FICO",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FICO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3067119",
+   "en": "Fastenal",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FAST",
+    "| FAST"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27988152",
+   "en": "Federal Realty Investment Trust",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FRT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q459477",
+   "en": "FedEx",
+   "ko": "페덱스",
+   "kowiki": "페덱스",
+   "tickers": [
+    "FDX",
+    "FDXF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "fedex",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q5444235",
+   "en": "Ferguson Enterprises",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FERG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1411295",
+   "en": "Fidelity National Information Services",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FIS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1411810",
+   "en": "Fifth Third Bank",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FITB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1138888",
+   "en": "First Solar",
+   "ko": "First solar",
+   "kowiki": null,
+   "tickers": [
+    "FSLR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1419248",
+   "en": "FirstEnergy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1420513",
+   "en": "Fiserv",
+   "ko": "파이서브",
+   "kowiki": "파이서브",
+   "tickers": [
+    "FISV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1140680",
+   "en": "Flex Ltd.",
+   "ko": "플렉스",
+   "kowiki": "플렉스 (기업)",
+   "tickers": [
+    "FLEX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q44294",
+   "en": "Ford Motor Company",
+   "ko": "포드 자동차 회사",
+   "kowiki": "포드 모터 컴퍼니",
+   "tickers": [
+    "F"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2749364",
+   "en": "Fortinet",
+   "ko": "포티넷",
+   "kowiki": "포티넷",
+   "tickers": [
+    "FTNT",
+    "| FTNT"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q27919383",
+   "en": "Fortive",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "FTV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q60238941",
+   "en": "Fox Corporation",
+   "ko": "폭스 코퍼레이션",
+   "kowiki": "폭스 코퍼레이션",
+   "tickers": [
+    "FOXA",
+    "FOX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q744683",
+   "en": "Franklin Templeton Investments",
+   "ko": "프랭클린 템플턴 인베스트먼츠",
+   "kowiki": "프랭클린 템플턴 인베스트먼츠",
+   "tickers": [
+    "BEN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1453620",
+   "en": "Freeport-McMoRan",
+   "ko": "프리포트 맥모란",
+   "kowiki": "프리포트 맥모란",
+   "tickers": [
+    "FCX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q658789",
+   "en": "Garmin Group",
+   "ko": "가르민",
+   "kowiki": "가민",
+   "tickers": [
+    "GRMN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q174198",
+   "en": "Gartner",
+   "ko": "가트너",
+   "kowiki": "가트너",
+   "tickers": [
+    "IT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1485061",
+   "en": "GE Aerospace",
+   "ko": "GE 에어로스페이스",
+   "kowiki": "GE 에어로스페이스",
+   "tickers": [
+    "GE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1152374",
+   "en": "GE HealthCare",
+   "ko": "GE 헬스케어",
+   "kowiki": "GE 헬스케어",
+   "tickers": [
+    "GEHC",
+    "| GEHC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q118957699",
+   "en": "GE Vernova",
+   "ko": "GE버노바",
+   "kowiki": "GE버노바",
+   "tickers": [
+    "GEV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q677085",
+   "en": "Gen Digital",
+   "ko": "Gen Digital",
+   "kowiki": "젠 디지털",
+   "tickers": [
+    "GEN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5531627",
+   "en": "Generac Holdings Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "GNRC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q502940",
+   "en": "General Dynamics",
+   "ko": "제너럴 다이내믹스",
+   "kowiki": "제너럴 다이내믹스",
+   "tickers": [
+    "GD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q629998",
+   "en": "General Mills",
+   "ko": "제너럴 밀스",
+   "kowiki": "제너럴 밀스",
+   "tickers": [
+    "GIS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q81965",
+   "en": "General Motors",
+   "ko": "제너럴 모터스",
+   "kowiki": "제너럴 모터스",
+   "tickers": [
+    "GM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "general-motors",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q5533818",
+   "en": "Genuine Parts Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "GPC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q663596",
+   "en": "Gilead Sciences",
+   "ko": "길리어드 사이언스",
+   "kowiki": "길리어드 사이언스",
+   "tickers": [
+    "GILD",
+    "| GILD"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5570544",
+   "en": "Global Payments",
+   "ko": "글로벌페이먼츠",
+   "kowiki": "글로벌페이먼츠",
+   "tickers": [
+    "GPN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7825574",
+   "en": "Globe Life",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "GL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1416215",
+   "en": "GoDaddy",
+   "ko": "고대디",
+   "kowiki": "고대디",
+   "tickers": [
+    "GDDY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q193326",
+   "en": "Goldman Sachs",
+   "ko": "골드만삭스",
+   "kowiki": "골드만삭스",
+   "tickers": [
+    "GS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "goldman-sachs",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q656165",
+   "en": "Halliburton",
+   "ko": "할리버튼",
+   "kowiki": "할리버튼",
+   "tickers": [
+    "HAL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q444110",
+   "en": "The Hartford",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HIG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "the-hartford",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q501476",
+   "en": "Hasbro",
+   "ko": "해즈브로",
+   "kowiki": "해즈브로",
+   "tickers": [
+    "HAS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1630431",
+   "en": "HCA Healthcare",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HCA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16975567",
+   "en": "Healthpeak Properties",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DOC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q905086",
+   "en": "Henry Schein",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HSIC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1056637",
+   "en": "The Hershey Company",
+   "ko": "허쉬",
+   "kowiki": "허쉬 (기업)",
+   "tickers": [
+    "HSY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q19923099",
+   "en": "Hewlett Packard Enterprise",
+   "ko": "휴렛 팩커드 엔터프라이즈",
+   "kowiki": "휴렛 팩커드 엔터프라이즈",
+   "tickers": [
+    "HPE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1057464",
+   "en": "Hilton Worldwide",
+   "ko": "힐튼 월드와이드",
+   "kowiki": "힐튼 월드와이드",
+   "tickers": [
+    "HLT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q864407",
+   "en": "The Home Depot",
+   "ko": "홈디포",
+   "kowiki": "홈디포",
+   "tickers": [
+    "HD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5893992",
+   "en": "Honeywell Aerospace",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HONA",
+    "| HONA"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q898208",
+   "en": "Honeywell",
+   "ko": "허니웰",
+   "kowiki": "허니웰",
+   "tickers": [
+    "HON",
+    "| HON"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1454852",
+   "en": "Hormel",
+   "ko": "호멜",
+   "kowiki": "호멜 (기업)",
+   "tickers": [
+    "HRL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1630559",
+   "en": "Host Hotels & Resorts",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HST"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q25104597",
+   "en": "Howmet Aerospace",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HWM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q21404084",
+   "en": "HP Inc.",
+   "ko": "HP Inc.",
+   "kowiki": "HP (기업)",
+   "tickers": [
+    "HPQ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q21036456",
+   "en": "Hubbell Incorporated",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HUBB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q910866",
+   "en": "Humana",
+   "ko": "휴매나",
+   "kowiki": "휴매나",
+   "tickers": [
+    "HUM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q798819",
+   "en": "Huntington Bancshares",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HBAN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7257522",
+   "en": "Huntington Ingalls Industries",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "HII"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q37156",
+   "en": "IBM",
+   "ko": "IBM",
+   "kowiki": "IBM",
+   "tickers": [
+    "IBM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "ibm",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q5970002",
+   "en": "IDEX Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IEX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1758392",
+   "en": "IDEXX Laboratories, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IDXX",
+    "| IDXX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1510378",
+   "en": "Illinois Tool Works",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ITW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6015591",
+   "en": "Incyte",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "INCY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q55453962",
+   "en": "Ingersoll Rand",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q248",
+   "en": "Intel",
+   "ko": "인텔",
+   "kowiki": "인텔",
+   "tickers": [
+    "INTC",
+    "| INTC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "intel",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q20011294",
+   "en": "Interactive Brokers",
+   "ko": "인터랙티브 브로커스",
+   "kowiki": "인터랙티브 브로커스",
+   "tickers": [
+    "IBKR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q841458",
+   "en": "Intercontinental Exchange",
+   "ko": "인터컨티넨탈 익스체인지",
+   "kowiki": "인터콘티넨털 익스체인지",
+   "tickers": [
+    "ICE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1666568",
+   "en": "International Flavors & Fragrances",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IFF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q202972",
+   "en": "International Paper",
+   "ko": "인터내셔널페이퍼",
+   "kowiki": "인터내셔널페이퍼",
+   "tickers": [
+    "IP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1318848",
+   "en": "Intuit",
+   "ko": "인튜이트",
+   "kowiki": "인튜이트",
+   "tickers": [
+    "INTU",
+    "| INTU"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2743863",
+   "en": "Intuitive Surgical",
+   "ko": "인튜이티브 서지컬",
+   "kowiki": "인튜이티브 서지컬",
+   "tickers": [
+    "ISRG",
+    "| ISRG"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q522617",
+   "en": "Invesco",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IVZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q85769855",
+   "en": "Invitation Homes",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "INVH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q305473",
+   "en": "IQVIA Holdings, Inc.",
+   "ko": "아이큐비아",
+   "kowiki": "아이큐비아",
+   "tickers": [
+    "IQV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1673079",
+   "en": "Iron Mountain Incorporated",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "IRM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q4041705",
+   "en": "J. B. Hunt",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "JBHT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2171646",
+   "en": "Jabil",
+   "ko": "자빌",
+   "kowiki": "자빌",
+   "tickers": [
+    "JBL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6113060",
+   "en": "Jack Henry & Associates",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "JKHY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3157622",
+   "en": "Jacobs Engineering Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "J"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q333718",
+   "en": "Johnson & Johnson",
+   "ko": "존슨앤드존슨",
+   "kowiki": "존슨앤드존슨",
+   "tickers": [
+    "JNJ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q667865",
+   "en": "Johnson Controls",
+   "ko": "존슨 컨트롤스",
+   "kowiki": "존슨 컨트롤스",
+   "tickers": [
+    "JCI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q192314",
+   "en": "JPMorgan Chase",
+   "ko": "JP모간 체이스",
+   "kowiki": "JP모건 체이스",
+   "tickers": [
+    "JPM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "jpmorgan-chase",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q118905792",
+   "en": "Kenvue",
+   "ko": "켄뷰",
+   "kowiki": null,
+   "tickers": [
+    "KVUE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3116111",
+   "en": "Keurig Dr Pepper",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "KDP",
+    "| KDP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1740314",
+   "en": "KeyBank",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "KEY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q17551096",
+   "en": "Keysight Technologies",
+   "ko": "키사이트",
+   "kowiki": "키사이트",
+   "tickers": [
+    "KEYS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1741634",
+   "en": "Kimberly-Clark",
+   "ko": "킴벌리-클라크",
+   "kowiki": "킴벌리-클라크",
+   "tickers": [
+    "KMB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6410043",
+   "en": "Kimco Realty",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "KIM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q931032",
+   "en": "Kinder Morgan",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "KMI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1570773",
+   "en": "Kohlberg Kravis Roberts",
+   "ko": "콜버그 크래비스 로버츠",
+   "kowiki": "콜버그 크래비스 로버츠",
+   "tickers": [
+    "KKR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q624649",
+   "en": "KLA Corporation",
+   "ko": "KLA",
+   "kowiki": "KLA (기업)",
+   "tickers": [
+    "KLAC",
+    "| KLAC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q19681433",
+   "en": "Kraft Heinz",
+   "ko": "크래프트 하인즈",
+   "kowiki": "크래프트 하인즈",
+   "tickers": [
+    "KHC",
+    "| KHC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q153417",
+   "en": "Kroger",
+   "ko": "크로거",
+   "kowiki": "크로거",
+   "tickers": [
+    "KR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q30291091",
+   "en": "L3Harris Technologies",
+   "ko": "L3해리스",
+   "kowiki": "L3해리스",
+   "tickers": [
+    "LHX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6466630",
+   "en": "LabCorp",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1342041",
+   "en": "Lam Research",
+   "ko": "램 리서치",
+   "kowiki": "램 리서치",
+   "tickers": [
+    "LRCX",
+    "| LRCX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1506045",
+   "en": "Las Vegas Sands",
+   "ko": "라스베이거스 샌즈",
+   "kowiki": "라스베가스 샌즈",
+   "tickers": [
+    "LVS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q502132",
+   "en": "Leidos",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LDOS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16981175",
+   "en": "Lennar Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LEN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q224751",
+   "en": "Lennox International",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LII"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q632240",
+   "en": "Eli Lilly and Company",
+   "ko": "일라이 릴리 앤드 컴퍼니",
+   "kowiki": "일라이 릴리 앤드 컴퍼니",
+   "tickers": [
+    "LLY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q682759",
+   "en": "Linde Group",
+   "ko": "린데",
+   "kowiki": "린데",
+   "tickers": [
+    "LIN",
+    "| LIN"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1061903",
+   "en": "Live Nation Entertainment",
+   "ko": "라이브 네이션",
+   "kowiki": "라이브 네이션",
+   "tickers": [
+    "LYV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7240",
+   "en": "Lockheed Martin",
+   "ko": "록히드 마틴",
+   "kowiki": "록히드 마틴",
+   "tickers": [
+    "LMT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "lockheed-martin",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q826526",
+   "en": "Loews Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "L"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1373493",
+   "en": "Lowe's",
+   "ko": "로우스",
+   "kowiki": "로우스",
+   "tickers": [
+    "LOW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6702957",
+   "en": "Lululemon Athletica",
+   "ko": "룰루레몬 애틀라티카",
+   "kowiki": "룰루레몬",
+   "tickers": [
+    "LULU"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q138786899",
+   "en": "Lumentum",
+   "ko": "루멘텀",
+   "kowiki": "루멘텀",
+   "tickers": [
+    "LITE",
+    "| LITE"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q899255",
+   "en": "LyondellBasell",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "LYB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3272257",
+   "en": "M&T Bank",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MTB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q458363",
+   "en": "Marathon Petroleum",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MPC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1141173",
+   "en": "Marriott International",
+   "ko": "매리엇 인터내셔널",
+   "kowiki": "메리어트 인터내셔널",
+   "tickers": [
+    "MAR",
+    "| MAR"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1786345",
+   "en": "Marsh & McLennan Companies",
+   "ko": "마시 맥레넌 컴퍼니",
+   "kowiki": "마시 & 매클레넌 컴퍼니스",
+   "tickers": [
+    "MRSH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6776123",
+   "en": "Martin Marietta Materials",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MLM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1347782",
+   "en": "Marvell Technology",
+   "ko": "마벨 테크놀로지 그룹",
+   "kowiki": "마벨 테크놀로지",
+   "tickers": [
+    "MRVL",
+    "| MRVL"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6782872",
+   "en": "Masco",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MAS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q489921",
+   "en": "Mastercard",
+   "ko": "마스타카드",
+   "kowiki": "마스터카드",
+   "tickers": [
+    "MA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "mastercard",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1915049",
+   "en": "McCormick & Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MKC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q38076",
+   "en": "McDonald's",
+   "ko": "맥도날드",
+   "kowiki": "맥도날드",
+   "tickers": [
+    "MCD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "mcdonald-s",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q570473",
+   "en": "McKesson Corporation",
+   "ko": "맥케슨",
+   "kowiki": "맥케슨",
+   "tickers": [
+    "MCK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q642189",
+   "en": "Medtronic plc",
+   "ko": "메드트로닉",
+   "kowiki": "메드트로닉",
+   "tickers": [
+    "MDT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q247489",
+   "en": "Merck & Co.",
+   "ko": "MSD",
+   "kowiki": "MSD (기업)",
+   "tickers": [
+    "MRK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q380",
+   "en": "Meta Platforms",
+   "ko": "메타",
+   "kowiki": "메타 플랫폼스",
+   "tickers": [
+    "META",
+    "| META"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "meta-platforms",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q607131",
+   "en": "MetLife",
+   "ko": "메트라이프",
+   "kowiki": "메트라이프",
+   "tickers": [
+    "MET"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q680186",
+   "en": "Mettler Toledo",
+   "ko": "메틀러 톨레도",
+   "kowiki": "메틀러 톨레도",
+   "tickers": [
+    "MTD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q568532",
+   "en": "MGM Resorts International",
+   "ko": "MGM 리조트 인터내셔널",
+   "kowiki": "MGM 리조트 인터내셔널",
+   "tickers": [
+    "MGM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1545076",
+   "en": "Microchip Technology",
+   "ko": "마이크로칩 테크놀로지",
+   "kowiki": "마이크로칩 테크놀로지",
+   "tickers": [
+    "MCHP",
+    "| MCHP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1197548",
+   "en": "Micron Technology",
+   "ko": "마이크론 테크놀로지",
+   "kowiki": "마이크론 테크놀로지",
+   "tickers": [
+    "MU",
+    "| MU"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2283",
+   "en": "Microsoft",
+   "ko": "마이크로소프트",
+   "kowiki": "마이크로소프트",
+   "tickers": [
+    "MSFT",
+    "| MSFT"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "microsoft",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q27988239",
+   "en": "MAA",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MAA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q17081612",
+   "en": "Moderna",
+   "ko": "모더나",
+   "kowiki": "모더나",
+   "tickers": [
+    "MRNA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3319685",
+   "en": "Molson Coors Brewing Company",
+   "ko": "몰슨 쿠어스",
+   "kowiki": "몰슨 쿠어스",
+   "tickers": [
+    "TAP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q12857502",
+   "en": "Mondelez International",
+   "ko": "몬덜리즈 인터내셔널",
+   "kowiki": "몬덜리즈 인터내셔널",
+   "tickers": [
+    "MDLZ",
+    "| MDLZ"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q22058448",
+   "en": "Monolithic Power Systems",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MPWR",
+    "| MPWR"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1945295",
+   "en": "Monster Beverage",
+   "ko": "몬스터 음료",
+   "kowiki": "몬스터 베버리지",
+   "tickers": [
+    "MNST",
+    "| MNST"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q675585",
+   "en": "Moody's Corporation",
+   "ko": "무디스",
+   "kowiki": "무디스",
+   "tickers": [
+    "MCO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q334204",
+   "en": "Morgan Stanley",
+   "ko": "모건 스탠리",
+   "kowiki": "모건 스탠리",
+   "tickers": [
+    "MS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "morgan-stanley",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q7752327",
+   "en": "The Mosaic Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "MOS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q634815",
+   "en": "Motorola Solutions",
+   "ko": "모토로라 솔루션스",
+   "kowiki": "모토로라 솔루션스",
+   "tickers": [
+    "MSI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q768773",
+   "en": "MSCI",
+   "ko": "MSCI",
+   "kowiki": "MSCI",
+   "tickers": [
+    "MSCI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1472929",
+   "en": "Nasdaq, Inc.",
+   "ko": "나스닥 주식회사",
+   "kowiki": "나스닥 (기업)",
+   "tickers": [
+    "NDAQ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q727883",
+   "en": "NetApp",
+   "ko": "넷앱",
+   "kowiki": "넷앱",
+   "tickers": [
+    "NTAP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q116452644",
+   "en": "Netflix, Inc.",
+   "ko": "넷플릭스",
+   "kowiki": null,
+   "tickers": [
+    "NFLX",
+    "| NFLX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "netflix",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1785405",
+   "en": "Newmont Mining Corporation",
+   "ko": "뉴몬트",
+   "kowiki": "뉴몬트",
+   "tickers": [
+    "NEM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q14289857",
+   "en": "News Corp",
+   "ko": "뉴스 코프",
+   "kowiki": "뉴스 코프",
+   "tickers": [
+    "NWSA",
+    "NWS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "news-corporation",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q967868",
+   "en": "NextEra Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NEE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q483915",
+   "en": "Nike",
+   "ko": "나이키",
+   "kowiki": "나이키",
+   "tickers": [
+    "NKE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "nike",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1984481",
+   "en": "NiSource",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1998662",
+   "en": "Nordson Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NDSN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1321054",
+   "en": "Norfolk Southern Railway",
+   "ko": "노퍽 서던 철도",
+   "kowiki": "노퍽 서던 철도",
+   "tickers": [
+    "NSC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q970695",
+   "en": "Northern Trust",
+   "ko": "노던 트러스트",
+   "kowiki": "노던 트러스트",
+   "tickers": [
+    "NTRS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q329953",
+   "en": "Northrop Grumman Corporation",
+   "ko": "노스럽 그러먼",
+   "kowiki": "노스롭그루먼",
+   "tickers": [
+    "NOC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q60767471",
+   "en": "Norwegian Cruise Line Holdings Ltd.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NCLH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q6955139",
+   "en": "NRG Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NRG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1645081",
+   "en": "Nucor",
+   "ko": "누코",
+   "kowiki": "뉴코",
+   "tickers": [
+    "NUE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q182477",
+   "en": "Nvidia",
+   "ko": "엔비디아",
+   "kowiki": "엔비디아",
+   "tickers": [
+    "NVDA",
+    "| NVDA"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "nvidia",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q6955706",
+   "en": "NVR, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "NVR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1155668",
+   "en": "NXP Semiconductors",
+   "ko": "NXP 반도체",
+   "kowiki": "NXP 반도체",
+   "tickers": [
+    "NXPI",
+    "| NXPI"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7071951",
+   "en": "O'Reilly Auto Parts",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ORLY",
+    "| ORLY"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2013357",
+   "en": "Occidental Petroleum",
+   "ko": "옥시덴탈 석유회사",
+   "kowiki": "옥시덴탈 페트롤리움",
+   "tickers": [
+    "OXY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7083862",
+   "en": "Old Dominion Freight Line",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ODFL",
+    "| ODFL"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1519267",
+   "en": "Omnicom Group",
+   "ko": "옴니콤 그룹",
+   "kowiki": "옴니콤 그룹",
+   "tickers": [
+    "OMC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1671509",
+   "en": "onsemi",
+   "ko": "온 세미컨덕더",
+   "kowiki": "온 세미컨덕터",
+   "tickers": [
+    "ON"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q11074156",
+   "en": "ONEOK",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "OKE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q19900",
+   "en": "Oracle Corporation",
+   "ko": "오라클",
+   "kowiki": "오라클 (기업)",
+   "tickers": [
+    "ORCL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "oracle-corporation",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1134069",
+   "en": "Otis Worldwide Corporation",
+   "ko": "오티스 엘리베이터 코리아",
+   "kowiki": "오티스 엘리베이터",
+   "tickers": [
+    "OTIS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1477661",
+   "en": "PACCAR",
+   "ko": "파카 그룹",
+   "kowiki": "파카 그룹",
+   "tickers": [
+    "PCAR",
+    "| PCAR"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16983334",
+   "en": "Packaging Corporation of America",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PKG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2047336",
+   "en": "Palantir Technologies",
+   "ko": "팔란티어 테크놀로지스",
+   "kowiki": "팔란티어 테크놀로지스",
+   "tickers": [
+    "PLTR",
+    "| PLTR"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7128508",
+   "en": "Palo Alto Networks",
+   "ko": "팰러앨토 네트웍스",
+   "kowiki": "팰로앨토 네트웍스",
+   "tickers": [
+    "PANW",
+    "| PANW"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q135485147",
+   "en": "Paramount Skydance",
+   "ko": "파라마운트 스카이댄스",
+   "kowiki": "파라마운트 스카이댄스",
+   "tickers": [
+    "PSKY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1470619",
+   "en": "Parker Hannifin",
+   "ko": "파커 하니핀",
+   "kowiki": null,
+   "tickers": [
+    "PH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q946080",
+   "en": "Paychex",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PAYX",
+    "| PAYX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q483959",
+   "en": "PayPal",
+   "ko": "페이팔",
+   "kowiki": "페이팔",
+   "tickers": [
+    "PYPL",
+    "| PYPL"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "paypal",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q7165001",
+   "en": "Pentair",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PNR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q334800",
+   "en": "PepsiCo",
+   "ko": "펩시코",
+   "kowiki": "펩시코",
+   "tickers": [
+    "PEP",
+    "| PEP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q206921",
+   "en": "Pfizer",
+   "ko": "화이자",
+   "kowiki": "화이자",
+   "tickers": [
+    "PFE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "pfizer",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1815011",
+   "en": "Pacific Gas and Electric Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PCG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1852556",
+   "en": "Philip Morris International",
+   "ko": "필립 모리스 인터내셔널",
+   "kowiki": "필립 모리스 인터내셔널",
+   "tickers": [
+    "PM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1656230",
+   "en": "Phillips 66",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PSX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q26110522",
+   "en": "Pinnacle West Capital Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PNW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q38928",
+   "en": "PNC Financial Services",
+   "ko": "PNC 파이낸셜 서비시즈",
+   "kowiki": "PNC 파이낸셜 서비시즈",
+   "tickers": [
+    "PNC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q48754",
+   "en": "PPG Industries",
+   "ko": "PPG 인더스트리",
+   "kowiki": "PPG 인더스트리",
+   "tickers": [
+    "PPG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2044512",
+   "en": "PPL",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PPL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3403513",
+   "en": "Principal Financial Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PFG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q212405",
+   "en": "Procter & Gamble",
+   "ko": "프록터 앤드 갬블",
+   "kowiki": "프록터 앤드 갬블",
+   "tickers": [
+    "PG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "procter-gamble",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q7248721",
+   "en": "Progressive Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PGR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16983765",
+   "en": "Prologis",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PLD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2114414",
+   "en": "Prudential Financial",
+   "ko": "푸르덴셜 파이낸셜",
+   "kowiki": "푸르덴셜 파이낸셜",
+   "tickers": [
+    "PRU"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q930919",
+   "en": "Public Service Enterprise Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PEG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1760641",
+   "en": "Parametric Technology Corporation",
+   "ko": "PTC",
+   "kowiki": "PTC (기업)",
+   "tickers": [
+    "PTC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1156045",
+   "en": "Public Storage",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PSA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7259716",
+   "en": "PulteGroup",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PHM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7268886",
+   "en": "Quanta Services",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "PWR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q544847",
+   "en": "Qualcomm",
+   "ko": "퀄컴",
+   "kowiki": "퀄컴",
+   "tickers": [
+    "QCOM",
+    "| QCOM"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7271456",
+   "en": "Quest Diagnostics",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "DGX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q138685636",
+   "en": "Qnity",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "Q"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1641437",
+   "en": "Ralph Lauren Corporation",
+   "ko": "랠프 로런",
+   "kowiki": "랄프 로렌 (기업)",
+   "tickers": [
+    "RL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "ralph-lauren",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q7298901",
+   "en": "Raymond James Financial",
+   "ko": "레이몬드 제임스",
+   "kowiki": "레이먼드 제임스",
+   "tickers": [
+    "RJF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1136",
+   "en": "Reddit",
+   "ko": "레딧",
+   "kowiki": "레딧",
+   "tickers": [
+    "RDDT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "reddit",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q89368734",
+   "en": "RTX",
+   "ko": "RTX 코퍼레이션",
+   "kowiki": "RTX 코퍼레이션",
+   "tickers": [
+    "RTX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7301386",
+   "en": "Realty Income Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "O"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7308000",
+   "en": "Regency Centers",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "REG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7308054",
+   "en": "Regeneron Pharmaceuticals",
+   "ko": "리제네론 파마슈티컬스",
+   "kowiki": "리제네론 파마슈티컬스",
+   "tickers": [
+    "REGN",
+    "| REGN"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q917131",
+   "en": "Regions Financial Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "RF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7314415",
+   "en": "Republic Services",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "RSG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7314903",
+   "en": "ResMed",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "RMD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q120467527",
+   "en": "Revvity Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "RVTY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q18155123",
+   "en": "Robinhood",
+   "ko": "로빈후드 (기업)",
+   "kowiki": "로빈후드 (기업)",
+   "tickers": [
+    "HOOD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "robinhood",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q1529234",
+   "en": "Rockwell Automation",
+   "ko": "로크웰 오토메이션",
+   "kowiki": "로크웰 오토메이션",
+   "tickers": [
+    "ROK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7361273",
+   "en": "Rollins Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ROL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16932392",
+   "en": "Roper Technologies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ROP",
+    "| ROP"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3442791",
+   "en": "Ross Dress for Less",
+   "ko": "로스 스토어스",
+   "kowiki": "로스 스토어스",
+   "tickers": [
+    "ROST",
+    "| ROST"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q427881",
+   "en": "Royal Caribbean Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "RCL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q868587",
+   "en": "S&P Global",
+   "ko": "맥그로-힐",
+   "kowiki": "S&P 글로벌",
+   "tickers": [
+    "SPGI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q941127",
+   "en": "Salesforce",
+   "ko": "세일즈포스닷컴",
+   "kowiki": "세일즈포스닷컴",
+   "tickers": [
+    "CRM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q260833",
+   "en": "Sandisk",
+   "ko": "샌디스크",
+   "kowiki": "샌디스크",
+   "tickers": [
+    "SNDK",
+    "| SNDK"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7388926",
+   "en": "SBA Communications",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SBAC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1425316",
+   "en": "SLB",
+   "ko": "슐룸베르거",
+   "kowiki": "슐룸베르거",
+   "tickers": [
+    "SLB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q705392",
+   "en": "Seagate Technology",
+   "ko": "시게이트",
+   "kowiki": "씨게이트 테크놀로지",
+   "tickers": [
+    "STX",
+    "| STX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7449804",
+   "en": "Sempra",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SRE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7455653",
+   "en": "ServiceNow",
+   "ko": "서비스나우",
+   "kowiki": "서비스나우",
+   "tickers": [
+    "NOW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q48881",
+   "en": "Sherwin-Williams",
+   "ko": "셔윈윌리암스",
+   "kowiki": "셔윈윌리암스",
+   "tickers": [
+    "SHW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2287759",
+   "en": "Simon Property Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SPG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7538146",
+   "en": "Skyworks Solutions",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SWKS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7742790",
+   "en": "The J.M. Smucker Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SJM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1536176",
+   "en": "Smurfit Westrock Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1631922",
+   "en": "Snap-on",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SNA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q124795355",
+   "en": "Solventum",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SOLV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2304693",
+   "en": "Southern Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q503308",
+   "en": "Southwest Airlines",
+   "ko": "사우스웨스트 항공",
+   "kowiki": "사우스웨스트 항공",
+   "tickers": [
+    "LUV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "southwest-airlines",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q706094",
+   "en": "Stanley Black & Decker",
+   "ko": "스탠리 블랙앤데커",
+   "kowiki": "스탠리 블랙앤데커",
+   "tickers": [
+    "SWK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q37158",
+   "en": "Starbucks",
+   "ko": "스타벅스",
+   "kowiki": "스타벅스",
+   "tickers": [
+    "SBUX",
+    "| SBUX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "starbucks",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q2037125",
+   "en": "State Street Corporation",
+   "ko": "스테이트 스트리트 코퍼레이션",
+   "kowiki": "스테이트 스트리트 코퍼레이션",
+   "tickers": [
+    "STT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7605667",
+   "en": "Steel Dynamics",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "STLD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q80947821",
+   "en": "Steris",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "STE"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2357515",
+   "en": "Stryker Corporation",
+   "ko": "스트라이커 (기업)",
+   "kowiki": "스트라이커 (기업)",
+   "tickers": [
+    "SYK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1817174",
+   "en": "Supermicro",
+   "ko": "슈퍼마이크로",
+   "kowiki": "슈퍼마이크로",
+   "tickers": [
+    "SMCI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q18387139",
+   "en": "Synchrony Financial",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SYF"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2303478",
+   "en": "Synopsys",
+   "ko": "시놉시스",
+   "kowiki": "시높시스",
+   "tickers": [
+    "SNPS",
+    "| SNPS"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2376711",
+   "en": "Sysco",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "SYY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3511885",
+   "en": "T-Mobile US",
+   "ko": "T-모바일 US",
+   "kowiki": "T-모바일 US",
+   "tickers": [
+    "TMUS",
+    "| TMUS"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3511946",
+   "en": "T. Rowe Price",
+   "ko": "티. 로우 프라이스",
+   "kowiki": "티. 로우 프라이스",
+   "tickers": [
+    "TROW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q94933",
+   "en": "Take-Two Interactive",
+   "ko": "테이크투 인터랙티브",
+   "kowiki": "테이크투 인터랙티브",
+   "tickers": [
+    "TTWO",
+    "| TTWO"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q56273715",
+   "en": "Tapestry, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TPR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7685824",
+   "en": "Targa Resources",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TRGP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1046951",
+   "en": "Target Corporation",
+   "ko": "타깃 코퍼레이션",
+   "kowiki": "타깃 코퍼레이션",
+   "tickers": [
+    "TGT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q663452",
+   "en": "TE Connectivity",
+   "ko": "TE 커넥티비티",
+   "kowiki": "TE 커넥티비티",
+   "tickers": [
+    "TEL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7696127",
+   "en": "Teledyne Technologies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TDY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2404292",
+   "en": "Teradyne",
+   "ko": "테라다인",
+   "kowiki": "테라다인",
+   "tickers": [
+    "TER",
+    "| TER"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q478214",
+   "en": "Tesla",
+   "ko": "테슬라",
+   "kowiki": "테슬라 (기업)",
+   "tickers": [
+    "TSLA",
+    "| TSLA"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "tesla",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q193412",
+   "en": "Texas Instruments",
+   "ko": "텍사스 인스트루먼트",
+   "kowiki": "텍사스 인스트루먼트",
+   "tickers": [
+    "TXN",
+    "| TXN"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "texas-instruments",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q7707900",
+   "en": "Texas Pacific Land Trust",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TPL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2140315",
+   "en": "Textron",
+   "ko": "텍스트론",
+   "kowiki": "텍스트론",
+   "tickers": [
+    "TXT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q643674",
+   "en": "Thermo Fisher Scientific Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TMO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1285819",
+   "en": "TJX Companies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TJX"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q120435068",
+   "en": "TKO Group Holdings",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TKO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q60744565",
+   "en": "Trade Desk",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TTD"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q15109925",
+   "en": "Tractor Supply Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TSCO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q131744111",
+   "en": "Trane Technologies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7833612",
+   "en": "TransDigm Group Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TDG"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q942471",
+   "en": "The Travelers Companies",
+   "ko": "트래블러스",
+   "kowiki": "트래블러스 컴퍼니",
+   "tickers": [
+    "TRV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2297063",
+   "en": "Trimble",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TRMB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q795486",
+   "en": "Truist Financial",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TFC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q48802335",
+   "en": "Tyler Technologies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "TYL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1325987",
+   "en": "Tyson Foods",
+   "ko": "타이슨 푸드",
+   "kowiki": "타이슨 푸드",
+   "tickers": [
+    "TSN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q739084",
+   "en": "U.S. Bancorp",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "USB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q780442",
+   "en": "Uber",
+   "ko": "우버",
+   "kowiki": "우버",
+   "tickers": [
+    "UBER"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "uber",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q27988153",
+   "en": "UDR",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "UDR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7880076",
+   "en": "Ulta Beauty",
+   "ko": "울타 뷰티",
+   "kowiki": "울타 뷰티",
+   "tickers": [
+    "ULTA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q20183163",
+   "en": "Union Pacific Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "UNP"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q174769",
+   "en": "United Airlines",
+   "ko": "유나이티드 항공",
+   "kowiki": "유나이티드 항공",
+   "tickers": [
+    "UAL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "united-airlines",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q155026",
+   "en": "United Parcel Service",
+   "ko": "UPS",
+   "kowiki": "UPS (기업)",
+   "tickers": [
+    "UPS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7889101",
+   "en": "United Rentals",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "URI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2103926",
+   "en": "UnitedHealth Group",
+   "ko": "유나이티드 헬스케어",
+   "kowiki": "유나이티드헬스그룹",
+   "tickers": [
+    "UNH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7893967",
+   "en": "Universal Health Services",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "UHS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1283291",
+   "en": "Valero Energy",
+   "ko": "발레로 에너지",
+   "kowiki": "발레로 에너지",
+   "tickers": [
+    "VLO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q24204493",
+   "en": "Veeva Systems",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VEEV"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q19865761",
+   "en": "Ventas, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VTR"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q124721239",
+   "en": "Veralto Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VLTO"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q734338",
+   "en": "Verisign",
+   "ko": "베리사인",
+   "kowiki": "베리사인",
+   "tickers": [
+    "VRSN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7921370",
+   "en": "Verisk Analytics",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VRSK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q467752",
+   "en": "Verizon",
+   "ko": "버라이즌 커뮤니케이션스",
+   "kowiki": "버라이즌 커뮤니케이션스",
+   "tickers": [
+    "VZ"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2744099",
+   "en": "Vertex Pharmaceuticals",
+   "ko": "버텍스 파마슈티컬",
+   "kowiki": "버텍스 파마슈티컬",
+   "tickers": [
+    "VRTX",
+    "| VRTX"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q5370909",
+   "en": "Vertiv",
+   "ko": "버티브",
+   "kowiki": "버티브",
+   "tickers": [
+    "VRT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q101983981",
+   "en": "Viatris",
+   "ko": "비아트리스",
+   "kowiki": "비아트리스",
+   "tickers": [
+    "VTRS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q54263910",
+   "en": "Vici Properties",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VICI"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q328840",
+   "en": "Visa Inc.",
+   "ko": "비자",
+   "kowiki": "비자 (기업)",
+   "tickers": [
+    "V"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "visa",
+   "haveBy": "name"
+  },
+  {
+   "qid": "Q104158381",
+   "en": "Vistra",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VST"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q187740",
+   "en": "Vivmark Residential",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VMRK"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1685287",
+   "en": "Vulcan Materials Company",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "VMC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1369955",
+   "en": "W. R. Berkley",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WRB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1627894",
+   "en": "W. W. Grainger",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "GWW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q741707",
+   "en": "Wabtec",
+   "ko": "웹텍",
+   "kowiki": "웹텍",
+   "tickers": [
+    "WAB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q483551",
+   "en": "Walmart",
+   "ko": "월마트",
+   "kowiki": "월마트",
+   "tickers": [
+    "WMT",
+    "| WMT"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": "walmart",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q7414",
+   "en": "The Walt Disney Company",
+   "ko": "월트 디즈니 컴퍼니",
+   "kowiki": "월트 디즈니 컴퍼니",
+   "tickers": [
+    "DIS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "the-walt-disney-company",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q107074885",
+   "en": "Warner Bros. Discovery",
+   "ko": "워너 브라더스 디스커버리",
+   "kowiki": "워너 브라더스 디스커버리",
+   "tickers": [
+    "WBD",
+    "| WBD"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2552219",
+   "en": "Waste Management, Inc",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1322011",
+   "en": "Waters Corporation",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WAT"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q8027166",
+   "en": "WEC Energy Group",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WEC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q744149",
+   "en": "Wells Fargo",
+   "ko": "웰스 파고",
+   "kowiki": "웰스 파고",
+   "tickers": [
+    "WFC"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": "wells-fargo",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q20486917",
+   "en": "Welltower",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WELL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q30338243",
+   "en": "West Pharmaceutical Services (United States)",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WST"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q738770",
+   "en": "Western Digital",
+   "ko": "웨스턴 디지털",
+   "kowiki": "웨스턴 디지털",
+   "tickers": [
+    "WDC",
+    "| WDC"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1780382",
+   "en": "Weyerhaeuser",
+   "ko": "와이어하우저",
+   "kowiki": "와이어하우저",
+   "tickers": [
+    "WY"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2581220",
+   "en": "Williams-Sonoma, Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WSM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q930639",
+   "en": "Williams Companies",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "WMB"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q21189883",
+   "en": "Willis Towers Watson",
+   "ko": "윌리스 타워스 왓슨",
+   "kowiki": "윌리스 타워스 왓슨",
+   "tickers": [
+    "WTW"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q8034666",
+   "en": "Workday, Inc.",
+   "ko": "워크데이",
+   "kowiki": "워크데이",
+   "tickers": [
+    "WDAY",
+    "| WDAY"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2274089",
+   "en": "Wynn Resorts",
+   "ko": "윈 리조트",
+   "kowiki": "윈 리조트",
+   "tickers": [
+    "WYNN"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1486956",
+   "en": "Xcel Energy",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "XEL",
+    "| XEL"
+   ],
+   "idx": [
+    "S&P500",
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q3146975",
+   "en": "Xylem Inc.",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "XYL"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q668737",
+   "en": "Yum! Brands",
+   "ko": "얌! 브랜드",
+   "kowiki": "얌! 브랜즈",
+   "tickers": [
+    "YUM"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q2443609",
+   "en": "Zebra Technologies",
+   "ko": "지브라 테크놀로지스",
+   "kowiki": "지브라 테크놀로지스",
+   "tickers": [
+    "ZBRA"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q203552",
+   "en": "Zimmer Biomet Holdings",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ZBH"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q8073337",
+   "en": "Zoetis",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "ZTS"
+   ],
+   "idx": [
+    "S&P500"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q16974682",
+   "en": "Alnylam Pharmaceuticals",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "| ALNY"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q296782",
+   "en": "Arm Holdings",
+   "ko": "ARM 홀딩스",
+   "kowiki": "ARM 홀딩스",
+   "tickers": [
+    "| ARM"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q297879",
+   "en": "ASML Holding",
+   "ko": "ASML",
+   "kowiki": "ASML",
+   "tickers": [
+    "| ASML"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q125028873",
+   "en": "Astera Labs",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "| ALAB"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q20811256",
+   "en": "Coca-Cola Europacific Partners",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "| CCEP"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q121875386",
+   "en": "CoreWeave",
+   "ko": "코어위브",
+   "kowiki": "코어위브",
+   "tickers": [
+    "| CRWV"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1408037",
+   "en": "Ferrovial",
+   "ko": null,
+   "kowiki": null,
+   "tickers": [
+    "| FER"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q950419",
+   "en": "Mercado Libre",
+   "ko": "메르카도 리브레",
+   "kowiki": "메르카도리브레",
+   "tickers": [
+    "| MELI"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q1192211",
+   "en": "Strategy",
+   "ko": "마이크로스트래티지",
+   "kowiki": "마이크로스트래티지",
+   "tickers": [
+    "| MSTR"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q47120756",
+   "en": "Nebius Group",
+   "ko": "네비우스 그룹",
+   "kowiki": "네비우스 그룹",
+   "tickers": [
+    "| NBIS"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q47015652",
+   "en": "Pinduoduo",
+   "ko": "핀둬둬",
+   "kowiki": "핀둬둬",
+   "tickers": [
+    "| PDD"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q116319",
+   "en": "Rocket Lab",
+   "ko": "로켓 랩",
+   "kowiki": "로켓 랩",
+   "tickers": [
+    "| RKLB"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q7501150",
+   "en": "Shopify",
+   "ko": "쇼피파이",
+   "kowiki": "쇼피파이",
+   "tickers": [
+    "| SHOP"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  },
+  {
+   "qid": "Q193701",
+   "en": "SpaceX",
+   "ko": "스페이스X",
+   "kowiki": "스페이스X",
+   "tickers": [
+    "| SPCX"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": "spacex",
+   "haveBy": "qid"
+  },
+  {
+   "qid": "Q1141267",
+   "en": "Thomson Reuters",
+   "ko": "톰슨 로이터",
+   "kowiki": "톰슨 로이터",
+   "tickers": [
+    "| TRI"
+   ],
+   "idx": [
+    "NDX100"
+   ],
+   "have": null,
+   "haveBy": null
+  }
+ ]
+}

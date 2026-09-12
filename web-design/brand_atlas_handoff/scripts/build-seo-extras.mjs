@@ -239,7 +239,7 @@ const indexNav = (current = "", prefix = P) => `<nav class="index-nav" aria-labe
   const groups = indexGroups.map(([k, arr]) => `<section class="group" id="idx-${esc(k)}"><h2>${esc(k)} <small>${arr.length}개</small></h2>${nameList(arr)}</section>`).join("");
   const title = `브랜드 사전 가나다·ABC 색인 — ${listedTotal}개 브랜드 | 브랜드 아틀라스`;
   const desc = `브랜드 아틀라스에 수록된 브랜드 ${listedTotal}개를 한글 가나다순과 알파벳순으로 찾아보는 색인. 한글 표기와 원어 표기를 함께 적어 어느 쪽으로도 찾을 수 있습니다.`;
-  const body = `${hubHead("브랜드 사전", `가나다 · ABC 색인 <span class="en count">${listedTotal}</span>`, esc("한글 표기가 있는 브랜드는 첫 글자의 초성으로, 원어만 있는 브랜드는 알파벳으로 묶었습니다. 된소리(ㄲ·ㄸ·ㅃ·ㅆ·ㅉ)는 사전 관행대로 예사소리에 합쳤습니다."), crumbsHub("가나다 색인"))}<div class="wrap">${indexNav()}${groups}</div>`;
+  const body = `${hubHead("브랜드 사전", `가나다 · ABC 색인 <span class="en count">${listedTotal}</span>`, esc("한글 표기는 첫 글자의 초성으로, 원어 표기는 첫 알파벳으로 묶었습니다. 두 표기가 모두 있는 브랜드는 양쪽 색인에 다 있어서, 오픈AI는 ㅇ에서도 O에서도 찾을 수 있습니다. 된소리(ㄲ·ㄸ·ㅃ·ㅆ·ㅉ)는 사전 관행대로 예사소리에 합쳤습니다."), crumbsHub("가나다 색인"))}<div class="wrap">${indexNav()}${groups}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "ganada.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "ganada", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "가나다 색인", url }] }) }));
   console.log(`pages/ganada.html: ${indexGroups.length} groups`);
 }
