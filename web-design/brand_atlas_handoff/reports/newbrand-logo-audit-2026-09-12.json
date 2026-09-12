@@ -1,0 +1,10 @@
+{
+ "auditedAt": "2026-09-12",
+ "method": "2026-09-12 신규 수록 브랜드 로고(Wikidata P154 → Commons) 전수 육안 검수 — 컨택트시트",
+ "items": [
+  { "slug": "spacexai", "src": "images/logos/spacexai-wd.png", "role": "logo", "verdict": "wrong-entity", "action": "remove", "note": "SpaceX 워드마크 — xAI 개체의 현재 마크로 확인 불가" },
+  { "slug": "panda-express", "src": "images/logos/panda-express-wd.jpg", "role": "logo", "verdict": "not-logo", "action": "remove", "note": "드라이브스루 간판 사진(로고 원본 아님)" },
+  { "slug": "stellantis-north-america", "src": "images/logos/stellantis-north-america-wd.png", "role": "logo", "verdict": "outdated", "action": "remove", "note": "옛 FCA(Fiat Chrysler Automobiles) 로고 — 현 개체명과 불일치" },
+  { "slug": "microsoft", "src": "images/logos/microsoft-wd.png", "role": "logo", "verdict": "outdated", "action": "replace", "note": "1987년형 워드마크 → 현행 로고(Commons File:Microsoft logo (2012).svg)로 교체, 옛 마크는 이력으로 보존" }
+ ]
+}

@@ -1,0 +1,2514 @@
+{
+ "generatedAt": "2026-09-12",
+ "counts": {
+  "ai": 25,
+  "fintech": 28,
+  "banking": 46,
+  "energy": 31,
+  "property": 28,
+  "airlines": 61,
+  "museums": 27,
+  "fast-food": 44,
+  "cafes": 31,
+  "digital-services": 81,
+  "olympics-expos": 16
+ },
+ "members": {
+  "mcdonald-s": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "starbucks": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kentucky-fried-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "burger-king": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "pizza-hut": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q191615 P31=Q18509232"
+   }
+  ],
+  "nescafe": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "domino-s-pizza": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q839466 P31=Q18509232"
+   }
+  ],
+  "subway": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q244457 P31=Q18509232"
+   }
+  ],
+  "paul-bassett": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "simon-l-velt": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "musinsa": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "the-norton": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "brusco-burger": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mecca-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "perfomance-golf": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "aneo": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tugg": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ouch": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "razz-burger": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "fuku": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "burger-service": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "montreal-1976": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sapporo-1972": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tokyo-1964": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "s-o-paulo-petr-leo": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "uniqode": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "open-ai": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q21708200 P452=Q11660"
+   }
+  ],
+  "mux": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "cohere": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "coinbase": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bolt": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "spotify": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q689141 P31=Q620615"
+   }
+  ],
+  "gemini": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "robin": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "twelve-labs": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "perplexity": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hook-ai": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "faculty-ai": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jupi": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "analog": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "visual-electric": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "isomorphic-labs": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sauvage": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mit-museum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "peerspace": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "shy-bird": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mode": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "philadelphia-art-museum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sarajevo-1984": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "munich-1972": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mexico-1968": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "delta": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "american-airlines": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "swissair": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "austrian-airlines": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "norwegian": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "pan-am": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q8681 P31=Q46970"
+   }
+  ],
+  "japan-airlines": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "eastern-airlines": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bea": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hughes-airwest": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "klm": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "israel-airlines": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "reveri": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "masp": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "den-kongelige-samling": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "munson": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "postmuseum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "art-museum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "the-met": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mus-e-des-beaux-arts-de-montr-al": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "vitenskapsmuseet": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "whitney-museum-of-american-art": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "royal-ontario-museum-rom": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "everybird": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "nationwide": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "banamax": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "monzo": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   },
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "lloyds": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bancomat": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hongkongbank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "citibank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "banco-ita": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "nippon-shinpan": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "huntington-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "robinhood": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "twitch": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "vevo": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "japan-energy-corporation": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "cosmo-oil": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kawasaki-shinkin-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "dunkin": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q847743 P31=Q18509232"
+   },
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "chime": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "yahoo": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "roblox": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "lyft": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ding": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "peckish": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "big-cartel": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "cazoo": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sendwave": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "paysafe": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "afterpay": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "wise": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "paypal": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "visa": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mastercard": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "reddit": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tripadvisor": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kit": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "deezer": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "brewbird": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "olo-homes": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tembo": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bovis": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "blank-street-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "otta": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "repsol": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "shell": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q154950 P31=Q14941854"
+   }
+  ],
+  "elf": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tepco": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "pam": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mobil": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "agip": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "london-electricity-board": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "the-mean-tomato": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mailchimp": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "expo-70": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "expo-74": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "expo-75": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "expo-85": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "expo-90": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "helsinki-city-museum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "natural-history-museum": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "philbrook-museum-of-art": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "calgary-1988": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sydney-2000": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "la-1984": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "moscow-1980": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "osaka-candidate-city-2008": [
+   {
+    "collection": "olympics-expos",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "go-compare": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kakao": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "baemin": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "danggeun-market": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kb-kookmin-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "shinhan-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kakaobank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q33570421 P31=Q22687"
+   }
+  ],
+  "korean-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q213147 P31=Q46970"
+   }
+  ],
+  "asiana-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q211165 P31=Q46970"
+   }
+  ],
+  "jeju-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q482642 P31=Q46970"
+   }
+  ],
+  "kyochon": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "mega-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hana-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "woori-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "nh-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kakao-pay": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "dongsuh-foods": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sk-innovation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q16172809 P452=Q862571"
+   }
+  ],
+  "gs-caltex": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q624012 P452=Q862571"
+   }
+  ],
+  "line": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q602471 P31=Q2462003"
+   }
+  ],
+  "dunamu": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "toss-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q110117949 P31=Q22687"
+   }
+  ],
+  "yanolja": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bbq": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q87716489 P31=Q18509232"
+   }
+  ],
+  "twosome-place": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q12621301 P31=Q76212517"
+   }
+  ],
+  "ediya-coffee": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q12611298 P31=Q76212517"
+   }
+  ],
+  "s-oil": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q185564 P452=Q862571"
+   }
+  ],
+  "hyundai-enc": [
+   {
+    "collection": "property",
+    "why": "wikidata Q489809 P452=Q385378"
+   }
+  ],
+  "lotteria": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q249525 P31=Q18509232"
+   }
+  ],
+  "moms-touch": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bhc-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "compose-coffee": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q120997937 P31=Q76212517"
+   }
+  ],
+  "ohou": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jin-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q484872 P31=Q46970"
+   }
+  ],
+  "tway-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q494775 P31=Q46970"
+   }
+  ],
+  "starbucks-korea": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ibk": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q483855 P31=Q22687"
+   }
+  ],
+  "gs-construction": [
+   {
+    "collection": "property",
+    "why": "wikidata Q16219417 P31=Q811930"
+   }
+  ],
+  "dl-enc": [
+   {
+    "collection": "property",
+    "why": "wikidata Q105628048 P31=Q811930"
+   }
+  ],
+  "hdc-hyundai": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "daewoo-enc": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "samsung-ct": [
+   {
+    "collection": "property",
+    "why": "wikidata Q499194 P452=Q385378"
+   }
+  ],
+  "zigbang": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   },
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "woori-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q494369 P31=Q848507"
+   }
+  ],
+  "citibank-korea": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hollys": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "angelinus": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "paiks-coffee": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q55730575 P31=Q76212517"
+   }
+  ],
+  "viva-republica": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   },
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q61090825 P31=Q620615"
+   }
+  ],
+  "seokbong-toast": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "gimbap-cheonguk": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "sinjeon-tteokbokki": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "cheongnyeon-dabang": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q131417179 P31=Q18509232"
+   }
+  ],
+  "mega-mgc-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "london-bagel-museum": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "osulloc": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "fritz-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "terarosa": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jobis-villains": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "caffe-bene": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bunjang": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "coupang-eats": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kakaopage": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "melon": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kakao-t": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "k-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "dabang": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "stayfolio": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hollys-coffee": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kream": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hyundai-card": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ibk-industrial-bank-of-korea": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "shinhan-card": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "national-museum-of-modern-and-contemporary-art-korea-mmca": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jaws-tteokbokki": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "nene-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "goobne-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "chegajip-yangnyeom-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "tom-n-toms": [
+   {
+    "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "theventi": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q120998398 P31=Q76212517"
+   }
+  ],
+  "ddukki-tteokbokki": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bonggu-s-bapburger": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jobkorea": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "saramin": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "myrealtrip": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ridi": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "banksalad": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   },
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ably": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "wanted": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "gangnam-unni": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "doctornow": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "yogiyo": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bithumb": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "watcha": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "yeogi-eottae": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "air-seoul": [
+   {
+    "collection": "airlines",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "finda": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   },
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "8percent": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "crowdworks": [
+   {
+    "collection": "ai",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "gs-xi": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "e-pyeonhansesang": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "raemian": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hillstate": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "prugio": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "r114": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "welcome-savings-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "samsung-card": [
+   {
+    "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "jeju-museum-of-art": [
+   {
+    "collection": "museums",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "facebook": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q355 P31=Q3220391"
+   }
+  ],
+  "telegram": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q15616276 P31=Q2462003"
+   }
+  ],
+  "netflix": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q907311 P31=Q620615"
+   }
+  ],
+  "lufthansa": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q9325 P31=Q46970"
+   }
+  ],
+  "google-play": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "european-central-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q8901 P31=Q66344"
+   }
+  ],
+  "turkish-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q4548 P31=Q46970"
+   }
+  ],
+  "air-france": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q131005 P31=Q46970"
+   }
+  ],
+  "british-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q8766 P31=Q46970"
+   }
+  ],
+  "deepseek": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q131577453 P452=Q11660"
+   }
+  ],
+  "united-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q174769 P31=Q46970"
+   }
+  ],
+  "gazprom": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "federal-reserve-system": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q53536 P31=Q66344"
+   }
+  ],
+  "aeroflot": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q58707 P31=Q46970"
+   }
+  ],
+  "ryanair": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q170614 P31=Q46970"
+   }
+  ],
+  "bank-of-england": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q183231 P31=Q66344"
+   }
+  ],
+  "delta-air-lines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q188920 P31=Q46970"
+   }
+  ],
+  "emirates": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q180432 P31=Q46970"
+   }
+  ],
+  "virgin-atlantic": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q32277 P31=Q46970"
+   }
+  ],
+  "alitalia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q153975 P31=Q46970"
+   }
+  ],
+  "air-new-zealand": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q204296 P31=Q46970"
+   }
+  ],
+  "china-eastern-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q291796 P31=Q46970"
+   }
+  ],
+  "european-bank-for-reconstruction-and-development": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q488981 P31=Q105758271"
+   }
+  ],
+  "quora": [
+   {
+    "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "barclays": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q245343 P31=Q568041"
+   }
+  ],
+  "american-express": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q194360 P31=Q5038204"
+   }
+  ],
+  "eastar-jet": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q489392 P31=Q46970"
+   }
+  ],
+  "korea-electric-power-corporation": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "qcells": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "shinhan-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q487230 P31=Q848507"
+   }
+  ],
+  "tving": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q12621401 P31=Q829548"
+   }
+  ],
+  "korea-gas-corporation": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hj-shipbuilding-construction": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "korea-development-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q4409074 P31=Q6972269"
+   }
+  ],
+  "air-incheon": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q11289522 P31=Q1057026"
+   }
+  ],
+  "korea-hydro-nuclear-power": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q6431646 P452=Q2316331"
+   }
+  ],
+  "hana-bank": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hd-hyundai-oilbank": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q5962649 P452=Q862571"
+   }
+  ],
+  "parata-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q65308518 P31=Q46970"
+   }
+  ],
+  "ssangyong-engineering-and-construction": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "southwest-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q503308 P31=Q46970"
+   }
+  ],
+  "aer-lingus": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q83716 P31=Q46970"
+   }
+  ],
+  "wizz-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q335147 P31=Q46970"
+   }
+  ],
+  "airbaltic": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q300924 P31=Q46970"
+   }
+  ],
+  "myheritage": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q589757 P31=Q3220391"
+   }
+  ],
+  "international-development-association": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q827525 P31=Q105758271"
+   }
+  ],
+  "aegean-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q380580 P31=Q46970"
+   }
+  ],
+  "air-berlin": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q156829 P31=Q46970"
+   }
+  ],
+  "airasia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q406643 P31=Q46970"
+   }
+  ],
+  "big-mac": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "papa-john-s": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q2759586 P31=Q18509232"
+   }
+  ],
+  "export-import-bank-of-korea": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "korean-national-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q487178 P31=Q46970"
+   }
+  ],
+  "sk-energy": [
+   {
+    "collection": "energy",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kumho-engineering-and-construction": [
+   {
+    "collection": "property",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "pelicana-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "im-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "bnk-financial-group": [
+   {
+    "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "chatgpt": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q115564437 P31=Q133284163"
+   }
+  ],
+  "grok": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q123361035 P31=Q117246174"
+   }
+  ],
+  "claude": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q118876059 P31=Q870780"
+   }
+  ],
+  "anthropic": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q116758847 P452=Q11660"
+   }
+  ],
+  "google-deepmind": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q15733006 P452=Q11660"
+   }
+  ],
+  "microsoft-copilot": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q116793893 P31=Q870780"
+   }
+  ],
+  "dall-e": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q105078662 P31=Q116777014"
+   }
+  ],
+  "spacexai": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q120599684 P452=Q11660"
+   }
+  ],
+  "qwen": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q130234299 P31=Q870780"
+   }
+  ],
+  "adyen": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q4686934 P452=Q97466005"
+   }
+  ],
+  "deutsche-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q66048 P31=Q568041"
+   }
+  ],
+  "hsbc": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q190464 P31=Q22687"
+   }
+  ],
+  "grameen-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q188567 P31=Q22687"
+   }
+  ],
+  "ubs": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q193199 P31=Q1548033"
+   }
+  ],
+  "credit-suisse": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q372657 P31=Q22687"
+   }
+  ],
+  "lehman-brothers": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q212900 P31=Q319845"
+   }
+  ],
+  "wells-fargo": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q744149 P31=Q22687"
+   }
+  ],
+  "morgan-stanley": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q334204 P31=Q22687"
+   }
+  ],
+  "llama": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q116894231 P31=Q124629760"
+   }
+  ],
+  "character-ai": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q115517493 P31=Q870780"
+   }
+  ],
+  "bnp-paribas": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q499707 P31=Q22687"
+   }
+  ],
+  "bank-of-america": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q487907 P31=Q22687"
+   }
+  ],
+  "goldman-sachs": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q193326 P31=Q319845"
+   }
+  ],
+  "standard-oil": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q375791 P452=Q862571"
+   }
+  ],
+  "rosneft": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1141123 P452=Q862571"
+   }
+  ],
+  "state-grid-corporation-of-china": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q209078 P31=Q112046"
+   }
+  ],
+  "electricite-de-france": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q274591 P31=Q1341478"
+   }
+  ],
+  "kongo-gumi": [
+   {
+    "collection": "property",
+    "why": "wikidata Q72634 P31=Q811930"
+   }
+  ],
+  "enel": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q651222 P31=Q1341478"
+   }
+  ],
+  "yukos": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q835692 P452=Q862571"
+   }
+  ],
+  "shimizu-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q7496874 P31=Q811930"
+   }
+  ],
+  "kajima-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q1081154 P452=Q385378"
+   }
+  ],
+  "obayashi-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q384730 P452=Q385378"
+   }
+  ],
+  "digital-realty-trust": [
+   {
+    "collection": "property",
+    "why": "wikidata Q5275969 P31=Q697852"
+   }
+  ],
+  "sumitomo-mitsui-construction": [
+   {
+    "collection": "property",
+    "why": "wikidata Q4050344 P452=Q385378"
+   }
+  ],
+  "air-canada": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q185339 P31=Q46970"
+   }
+  ],
+  "malaysia-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q308952 P31=Q46970"
+   }
+  ],
+  "singapore-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q32245 P31=Q46970"
+   }
+  ],
+  "china-state-construction-engineering-group-co-ltd": [
+   {
+    "collection": "property",
+    "why": "wikidata Q1073519 P31=Q811930"
+   }
+  ],
+  "wework": [
+   {
+    "collection": "property",
+    "why": "wikidata Q19995004 P31=Q1660104"
+   }
+  ],
+  "acciona": [
+   {
+    "collection": "property",
+    "why": "wikidata Q339142 P452=Q385378"
+   }
+  ],
+  "qatar-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q208033 P31=Q46970"
+   }
+  ],
+  "etihad-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q212304 P31=Q46970"
+   }
+  ],
+  "air-india": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q69906 P31=Q46970"
+   }
+  ],
+  "scandinavian-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q187854 P31=Q46970"
+   }
+  ],
+  "iberia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q187972 P31=Q46970"
+   }
+  ],
+  "thai-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q188710 P31=Q46970"
+   }
+  ],
+  "swiss-international-air-lines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q156776 P31=Q46970"
+   }
+  ],
+  "vietnam-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q174386 P31=Q46970"
+   }
+  ],
+  "finnair": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q201821 P31=Q46970"
+   }
+  ],
+  "cathay-pacific": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q32141 P31=Q46970"
+   }
+  ],
+  "all-nippon-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q204284 P31=Q46970"
+   }
+  ],
+  "lot-polish-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q204268 P31=Q46970"
+   }
+  ],
+  "ethiopian-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q245233 P31=Q46970"
+   }
+  ],
+  "louvre-museum": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q19675 P31=Q207694"
+   }
+  ],
+  "musee-dorsay": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q23402 P31=Q207694"
+   }
+  ],
+  "british-museum": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q6373 P31=Q17431399"
+   }
+  ],
+  "hermitage-museum": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q132783 P31=Q28737012"
+   }
+  ],
+  "museo-del-prado": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q160112 P31=Q207694"
+   }
+  ],
+  "chick-fil-a": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q491516 P31=Q18509232"
+   }
+  ],
+  "popeyes": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1330910 P31=Q18509232"
+   }
+  ],
+  "five-guys": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1131810 P31=Q18509232"
+   }
+  ],
+  "national-gallery": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q180788 P31=Q3844310"
+   }
+  ],
+  "rijksmuseum": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q190804 P31=Q17431399"
+   }
+  ],
+  "madame-tussauds": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q186309 P31=Q667018"
+   }
+  ],
+  "taco-bell": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q752941 P31=Q18509232"
+   }
+  ],
+  "wendys": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q550258 P31=Q18509232"
+   }
+  ],
+  "in-n-out-burger": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1205312 P31=Q18509232"
+   }
+  ],
+  "panda-express": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1358690 P31=Q18509232"
+   }
+  ],
+  "yoshinoya": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q776272 P31=Q18509232"
+   }
+  ],
+  "peets-coffee": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q1094101 P31=Q76212517"
+   }
+  ],
+  "the-coffee-bean-tea-leaf": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q1141384 P31=Q76212517"
+   }
+  ],
+  "youtube": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q866 P31=Q59152282"
+   }
+  ],
+  "whatsapp": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q1049511 P31=Q2462003"
+   }
+  ],
+  "imdb": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q37312 P31=Q847959"
+   }
+  ],
+  "skype": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q40984 P31=Q620615"
+   }
+  ],
+  "x": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q918 P31=Q3220391"
+   }
+  ],
+  "instagram": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q209330 P31=Q3220391"
+   }
+  ],
+  "tiktok": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q48938223 P31=Q3220391"
+   }
+  ],
+  "unionpay": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q719625 P31=Q5038204"
+   }
+  ],
+  "jpmorgan-chase": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q192314 P31=Q22687"
+   }
+  ],
+  "engie": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q13416787 P31=Q1341478"
+   }
+  ],
+  "exxonmobil": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q156238 P31=Q14941854"
+   }
+  ],
+  "sinopec": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q831445 P452=Q862571"
+   }
+  ],
+  "easyjet": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q191551 P31=Q46970"
+   }
+  ],
+  "uffizi-gallery": [
+   {
+    "collection": "museums",
+    "why": "wikidata Q51252 P31=Q207694"
+   }
+  ],
+  "krispy-kreme": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1192805 P31=Q18509232"
+   }
+  ],
+  "air-china": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q51747 P31=Q46970"
+   }
+  ],
+  "mixue-ice-cream-tea": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q107406476 P31=Q76220181"
+   }
+  ],
+  "mos-burger": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1204169 P31=Q18509232"
+   }
+  ],
+  "duolingo": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q2918660 P31=Q620615"
+   }
+  ],
+  "myspace": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q40629 P31=Q3220391"
+   }
+  ],
+  "linkedin": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q213660 P31=Q3220391"
+   }
+  ],
+  "arbys": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q630866 P31=Q18509232"
+   }
+  ],
+  "discord": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q22907849 P31=Q620615"
+   }
+  ],
+  "pinterest": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q255381 P31=Q3220391"
+   }
+  ],
+  "github": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q364 P31=Q3220391"
+   }
+  ],
+  "flickr": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q103204 P31=Q620615"
+   }
+  ],
+  "tumblr": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q384060 P31=Q3220391"
+   }
+  ],
+  "wechat": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q283233 P31=Q3220391"
+   }
+  ],
+  "disney-plus": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q54958752 P31=Q59152282"
+   }
+  ],
+  "threads": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q120281745 P31=Q3220391"
+   }
+  ],
+  "last-fm": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q183718 P31=Q3220391"
+   }
+  ],
+  "messenger": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q116947 P31=Q2462003"
+   }
+  ],
+  "qantas-airways": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q32491 P31=Q46970"
+   }
+  ],
+  "vimeo": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q156376 P31=Q59152282"
+   }
+  ]
+ }
+}

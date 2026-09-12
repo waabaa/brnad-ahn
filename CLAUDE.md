@@ -99,7 +99,18 @@ LLM은 그 근거를 사전 문체로 다시 쓰는 일만 한다. 생성문에 
 §2의 P856 일치 규칙(기존 레코드에 sameAs를 붙일 때의 규칙)과는 근거가 다르다는 뜻이다.
 
 LLM 호출은 배포 서버의 게이트웨이를 SSH 터널로 쓴다(`ssh -L 15055:127.0.0.1:5055`). 터널이 끊기면 전부
-"파싱 실패"로 기각되므로 워치독으로 유지한다. GPT 한도 초과 시 자동으로 Gemini로 넘어간다.
+"파싱 실패"로 기각되므로 워치독으로 유지한다. 대량 수록은 `--no-fallback --concurrency 2 --batch 1~2`로 돌린다 —
+Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1시간짜리 429가 돌아온다.
+수록 스크립트는 5배치마다 데이터를, 끝에서만 원장(`reports/wikidata-brand-import.json`)을 쓰므로 도중에 멈추면
+원장을 데이터에서 복원한 뒤 재실행한다(안 그러면 저장분이 "이미 수록"으로 기각 기록된다).
+
+**새 레코드의 로고는 수록 직후 육안 검수한다.** Wikidata P154도 다른 개체 로고·옛 로고·간판 사진이 섞여 있다.
+
+## 2-d. 테마 컬렉션 (2026-09-12)
+
+업종(`domainSlug`)과 별개의 가로축. 정의는 `scripts/lib/collections.mjs`(P452·P31 QID 목록 + include/exclude),
+편입은 `scripts/assign-collections.mjs`가 `brand.collections`에 쓰고 근거를 `reports/collections.json`에 남긴다.
+편입 기준은 Wikidata 클레임뿐이다 — 이름·설명 키워드로 넣지 않는다. 5건 미만 컬렉션은 허브를 만들지 않는다.
 
 **한글 표기 보강**은 `scripts/add-korean-labels.mjs` — QID가 확정된 레코드에 한해 Wikidata ko 레이블이나
 한국어 위키백과 문서 제목을 넣는다. 음차 생성은 금지(§1)이므로 근거가 없으면 비워 둔다.

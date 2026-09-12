@@ -1,0 +1,78 @@
+{
+ "auditedAt": "2026-09-12",
+ "method": "image 필드 전수 육안 검수(컨택트시트 11장, 216개 — 플레이스홀더 756·로고와 같은 119 제외)",
+ "items": [
+  {
+   "slug": "apple",
+   "src": "images/daum/0253_001_og_1d23274c8fdcce.jpg",
+   "role": "image",
+   "verdict": "not-brand-image",
+   "action": "remove",
+   "note": "인물 초상(스티브 잡스)"
+  },
+  {
+   "slug": "the-body-shop",
+   "src": "images/daum/0333_001_og_781e04a639ab28.png",
+   "role": "image",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "게티이미지 워터마크"
+  },
+  {
+   "slug": "coach",
+   "src": "images/daum/0269_001_og_0c8c88fe6b9cf9.jpg",
+   "role": "image",
+   "verdict": "not-brand-image",
+   "action": "remove",
+   "note": "인물 사진(브랜드 이미지 아님)"
+  },
+  {
+   "slug": "k2",
+   "src": "images/daum/0156_001_og_e0120e8db6d456.jpg",
+   "role": "image",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "러닝화 사진 — K2 Sports(스키)가 아닌 K2 Korea 계열 제품으로 보임"
+  },
+  {
+   "slug": "de-beers",
+   "src": "images/daum/0214_001_og_da272b609d4e0a.jpg",
+   "role": "image",
+   "verdict": "not-brand-image",
+   "action": "remove",
+   "note": "인물 사진(브랜드 이미지 아님)"
+  },
+  {
+   "slug": "swarovski",
+   "src": "images/daum/0174_001_og_b0834b114a9965.jpg",
+   "role": "image",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "크리스찬 디올 광고와 오드리 헵번 사진 — 스와로브스키 이미지 아님"
+  },
+  {
+   "slug": "givenchy",
+   "src": "images/daum/0351_001_og_bf999eebd79069.jpg",
+   "role": "image",
+   "verdict": "not-brand-image",
+   "action": "remove",
+   "note": "인물 사진(오드리 헵번)"
+  },
+  {
+   "slug": "jtbc",
+   "src": "images/photos/jtbc-5ae865a0.jpg",
+   "role": "image",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "건물 사진 — JTBC 사옥 여부 미확인"
+  },
+  {
+   "slug": "sk-telecom",
+   "src": "images/photos/sk-telecom-e874a277.jpg",
+   "role": "image",
+   "verdict": "unverified",
+   "action": "keep",
+   "note": "건물 사진 — SK텔레콤 사옥 여부 미확인"
+  }
+ ]
+}

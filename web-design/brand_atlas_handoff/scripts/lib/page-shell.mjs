@@ -12,6 +12,7 @@ export const NAV = [
   ["브랜드 사전", "pages/ganada.html", "ganada"],
   ["산업별", "pages/industry.html", "industry"],
   ["국가별", "pages/countries.html", "countries"],
+  ["컬렉션", "pages/collections.html", "collections"],
   ["로고 아카이브", "pages/bici.html", "bici"],
   ["타임라인", "pages/timeline.html", "timeline"],
   ["인사이트", "pages/insights.html", "insights"],
@@ -29,7 +30,7 @@ export function header(active = "", prefix = "../") {
 
 export function footer(prefix = "../") {
   const col = (title, items) => `<div><h4>${title}</h4><ul>${items.map(([n, h]) => `<li><a href="${prefix}${h}">${n}</a></li>`).join("")}</ul></div>`;
-  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"]])}</div><div class="legal"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
+  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["테마별 컬렉션", "pages/collections.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"]])}</div><div class="legal"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
 }
 
 /** <head> 공용부. */

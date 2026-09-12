@@ -26,6 +26,9 @@ DEPLOY=1
 [ "${1:-}" = "--no-deploy" ] && DEPLOY=0
 
 cd "$SITE"
+echo "=== [0/5] 컬렉션 편입(새 QID만 Wikidata 조회, 실패해도 기존 편입 유지) ==="
+node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실패 — 기존 brand.collections 로 빌드"
+
 echo "=== [1/5] 브랜드 페이지 빌드 ==="
 node scripts/build-brand-pages.mjs | tail -4
 

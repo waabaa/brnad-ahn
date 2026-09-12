@@ -22,6 +22,7 @@ import { ORIGIN, CSS_V, urlSlugOf, countryOf, foundedYear, displayName, koreanNa
 import { esc, page, collectionJsonLd, breadcrumbs, header, footer } from "./lib/page-shell.mjs";
 import { isListed, isDirectory, byScore, hasLogo, hasKoreanName, groupByIndex, chosungString, indexKey, GANADA_KEYS, ALPHA_KEYS, archiveTier } from "./lib/archive.mjs";
 import { tile, tiles, nameList, nameItem, oneLine, brandHref, assetHref, logoImg } from "./lib/markup.mjs";
+import { COLLECTIONS, collectionsOf, publishedCollections } from "./lib/collections.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -178,6 +179,54 @@ console.log(`country/: ${countryDrafts.length} pages (얇아서 생략 ${country
   const desc = `기원 국가가 확인된 브랜드를 국가별로 모았습니다. ${countryDrafts.slice(0, 6).map(d => `${d.c} ${d.arr.length}개`).join(", ")} 등 ${countryDrafts.length}개국.`;
   const body = `${hubHead("국가별 브랜드", "국가별 브랜드", esc(`기원 국가가 확인된 브랜드만 국가 허브에 넣습니다. 검수된 브랜드 설명, 또는 공식 웹사이트가 일치하는 위키데이터 개체에서 확인된 값만 근거로 씁니다. 현 소유주 국적은 기원 국가가 아니므로 쓰지 않습니다.`), crumbsHub("국가별"))}<div class="wrap section"><div class="cat-grid">${cards}</div>${restNote}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "countries.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "countries", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "국가별", url }] }) }));
+}
+
+// ─── 2-b) 컬렉션(테마) 허브 ────────────────────────────────────────────────
+// 편입은 scripts/assign-collections.mjs 가 Wikidata 분류·수동 확인 목록으로 정한다(brand.collections).
+const COLLECTION_HUBS = publishedCollections(BRANDS, isListed);
+const collectionDrafts = COLLECTIONS.filter(c => COLLECTION_HUBS.has(c.slug)).map(c => ({ c, arr: LISTED.filter(b => collectionsOf(b).includes(c.slug)) }));
+const collectionChips = (current) => `<nav class="chips" aria-label="다른 컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip${c.slug === current ? " active" : ""}" href="${P}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav>`;
+for (const { c, arr } of collectionDrafts) {
+  const url = `${ORIGIN}/collection/${c.slug}.html`;
+  const indTally = new Map();
+  for (const b of arr) indTally.set(b.industry, (indTally.get(b.industry) || 0) + 1);
+  const topInd = [...indTally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3);
+  const cTally = new Map();
+  for (const b of arr) { const k = countryOf(b); if (k) cTally.set(k, (cTally.get(k) || 0) + 1); }
+  const topC = [...cTally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
+  const facts = [];
+  if (topC.length) facts.push(`기원 국가가 확인된 브랜드는 ${arr.filter(b => countryOf(b)).length}개이며 ${topC.map(([k, n]) => `${k} ${n}개`).join(", ")} 순으로 많습니다.`);
+  if (topInd.length > 1) facts.push(`산업 분류로는 ${topInd.map(([i, n]) => `${i} ${n}개`).join(", ")}에 걸쳐 있습니다.`);
+  facts.push(...hubFacts(arr));
+  const lead = `${c.lead} 브랜드 아틀라스에 수록된 ${c.name} ${arr.length}개를 로고와 함께 정리했습니다. 편입 기준은 위키데이터의 분류와 업종 정보, 그리고 편집자가 브랜드 설명을 확인한 경우로 한정했습니다.`;
+  const title = `${c.name} ${arr.length}개 — 로고·역사·아이덴티티 | 브랜드 아틀라스`;
+  const desc = `${c.name}(${c.en}) ${arr.length}개를 로고와 함께 모은 컬렉션. ${[...arr].sort(byScore).slice(0, 4).map(b => koreanName(b) || latinName(b) || b.name).join("·")} 등 각 브랜드의 설립 배경과 아이덴티티, 로고 변천을 정리했습니다.`;
+  const body = `${hubHead("컬렉션", `${esc(c.name)} <span class="en count">${arr.length}</span>`, esc(lead), crumbsHub(c.name))}
+<div class="wrap section"><div class="section-head"><h2>다른 컬렉션 보기</h2><a class="more" href="${P}pages/collections.html">컬렉션 전체 →</a></div>${collectionChips(c.slug)}<p class="hub-note" style="margin-top:22px">${esc(facts.join(" "))}</p></div>
+<div class="wrap section" id="collection-${c.slug}"><div class="section-head"><h2>${esc(c.name)} 목록</h2><p>품질 점수 순 상위는 로고 타일로, 나머지는 가나다순 목록으로 보입니다.</p></div>${hubListing(arr)}</div>`;
+  if (prosePreview(body) < HUB_MIN_PROSE) console.warn(`  collection/${c.slug}: 본문 ${prosePreview(body)}자 < ${HUB_MIN_PROSE}`);
+  writeIfChanged(path.join(ROOT, "collection", `${c.slug}.html`), page({
+    title, desc, canonical: url, bodyHtml: body, active: "collections",
+    jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "컬렉션", url: `${ORIGIN}/pages/collections.html` }, { name: c.name, url }], items: [...arr].sort(byScore).slice(0, 100).map(b => ({ name: displayName(b), url: `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html` })) }),
+  }));
+}
+for (const f of fs.existsSync(path.join(ROOT, "collection")) ? fs.readdirSync(path.join(ROOT, "collection")) : []) {
+  if (f.endsWith(".html") && !collectionDrafts.some(d => `${d.c.slug}.html` === f)) fs.unlinkSync(path.join(ROOT, "collection", f));
+}
+console.log(`collection/: ${collectionDrafts.length} pages (${collectionDrafts.map(d => `${d.c.slug} ${d.arr.length}`).join(", ")})`);
+
+// pages/collections.html — 컬렉션 목록
+{
+  const url = `${ORIGIN}/pages/collections.html`;
+  const cards = collectionDrafts.map(({ c, arr }) => {
+    const top = [...arr].sort(byScore).slice(0, 5);
+    return `<a class="cat-card" href="${P}collection/${c.slug}.html"><span class="head"><b>${esc(c.name)}</b><span class="n">${arr.length}개 브랜드</span></span><p>${esc(top.map(b => koreanName(b) || latinName(b) || b.name).join(" · "))}</p><span class="logos">${top.map(b => `<span>${hasLogo(b) ? `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">` : ""}</span>`).join("")}</span></a>`;
+  }).join("");
+  const title = `브랜드 컬렉션 ${collectionDrafts.length}개 — AI·핀테크·항공사·박물관 등 테마별 | 브랜드 아틀라스`;
+  const desc = `산업 분류와 별도로 AI 브랜드, 핀테크·결제, 은행, 에너지, 항공사, 박물관·미술관, 패스트푸드, 카페 등 테마별로 브랜드를 모은 컬렉션 ${collectionDrafts.length}개입니다.`;
+  const lead = "산업 분류가 브랜드가 무엇을 파는지로 나눈다면, 컬렉션은 같은 관점에서 함께 볼 만한 브랜드를 묶습니다. 한 브랜드가 여러 컬렉션에 들어갈 수 있고, 편입 기준은 위키데이터 분류와 편집자 확인으로 한정했습니다.";
+  const body = `${hubHead("컬렉션", `테마별 브랜드 컬렉션 <span class="en count">${collectionDrafts.length}</span>`, esc(lead), crumbsHub("컬렉션"))}<div class="wrap section"><div class="cat-grid">${cards}</div></div>`;
+  writeIfChanged(path.join(ROOT, "pages", "collections.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "collections", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "컬렉션", url }] }) }));
 }
 
 // ─── 3) 가나다·ABC 색인 ───────────────────────────────────────────────────
@@ -339,6 +388,7 @@ const thinReport = (() => {
 // thin-pages.json의 slugs가 noindex 전건이다(렌더 thin + 본문 얇은 디렉토리 등급).
 // 등급으로 한 번 더 거르지 않는다 — 디렉토리 등급이어도 본문이 충실하면 색인 대상이다.
 const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
+const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(iso || "")); return m ? `${Number(m[1])}월 ${Number(m[2])}일` : ""; };
 
 {
   const H = "";
@@ -350,16 +400,19 @@ const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
   const featured = pool.length ? pool[seed % pool.length] : core[0];
   const popular = core.filter(b => b !== featured).slice(0, 48);
   const recent = Object.entries(pageDateLedger).map(([slug, d]) => ({ slug, m: d.modified })).sort((a, b) => b.m.localeCompare(a.m)).map(x => LISTED.find(b => urlSlugOf(b) === x.slug)).filter(Boolean).filter(b => !popular.includes(b) && b !== featured).slice(0, 12);
-  const stats = { brands: listedTotal, logos: LISTED.filter(hasLogo).length, bici: LISTED.filter(b => Array.isArray(b.logoHistory) && b.logoHistory.length > 1).length, industries: industryGroups.length, countries: countryDrafts.length };
+  const stats = { brands: listedTotal, logos: LISTED.filter(hasLogo).length, bici: LISTED.filter(b => Array.isArray(b.logoHistory) && b.logoHistory.length > 1).length, industries: industryGroups.length, countries: countryDrafts.length, collections: collectionDrafts.length };
+  // 숫자는 빌드 때 데이터를 센 실제 값을 HTML에 그대로 넣는다(JS 없이도, 크롤러에게도 같은 값).
+  // data-count 는 화면에 보일 때 0에서 이 값까지 올라가는 표시용이다.
+  const stat = (href, n, label) => `<a href="${H}${href}"><b data-count="${n}">${n.toLocaleString("ko-KR")}</b><span>${label}</span></a>`;
   const keywords = (DATA.keywords || []).slice(0, 8);
   const insightText = String(featured.sections?.insights?.body || featured.insight || featured.definition || "").replace(/\s+/g, " ");
   const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(insightText.slice(0, 230))}${insightText.length > 230 ? "…" : ""}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div><a class="card photo" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async"></a></div>`;
-  const body = `<section class="hero"><div class="wrap"><span class="kicker">브랜드 사전 · 로고 아카이브</span><h1>브랜드의 역사와 <span class="red">아이덴티티</span>를<br>한글로 기록합니다</h1><p class="lead">${stats.brands}개 브랜드의 시작과 성장, 브랜드 아이덴티티, 로고 변천사를 한 페이지에 정리했습니다. 한글 이름으로도, 원어 이름으로도, 초성만으로도 찾을 수 있습니다.</p><form class="hero-search" role="search" action="${H}pages/search.html" method="get"><label class="sr-only" for="home-q">브랜드 검색</label><input id="home-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ, gucci)" autocomplete="off"><button type="submit">검색</button></form><div class="chips"><span class="lbl">인기 검색어</span>${keywords.map(k => `<a class="chip" href="${H}pages/search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("")}</div><div class="stats"><a href="${H}pages/ganada.html"><b>${stats.brands.toLocaleString("ko-KR")}</b><span>수록 브랜드</span></a><a href="${H}pages/bici.html"><b>${stats.logos.toLocaleString("ko-KR")}</b><span>로고 이미지</span></a><a href="${H}pages/industry.html"><b>${stats.industries}</b><span>산업 분류</span></a><a href="${H}pages/countries.html"><b>${stats.countries}</b><span>국가 허브</span></a></div></div></section>
+  const body = `<section class="hero"><div class="wrap"><span class="kicker">브랜드 사전 · 로고 아카이브</span><h1>브랜드의 역사와 <span class="red">아이덴티티</span>를<br>한글로 기록합니다</h1><p class="lead">${stats.brands}개 브랜드의 시작과 성장, 브랜드 아이덴티티, 로고 변천사를 한 페이지에 정리했습니다. 한글 이름으로도, 원어 이름으로도, 초성만으로도 찾을 수 있습니다.</p><form class="hero-search" role="search" action="${H}pages/search.html" method="get"><label class="sr-only" for="home-q">브랜드 검색</label><input id="home-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ, gucci)" autocomplete="off"><button type="submit">검색</button></form><div class="chips"><span class="lbl">인기 검색어</span>${keywords.map(k => `<a class="chip" href="${H}pages/search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("")}</div><div class="stats">${stat("pages/ganada.html", stats.brands, "수록 브랜드")}${stat("pages/bici.html", stats.logos, "로고 이미지")}${stat("pages/industry.html", stats.industries, "산업 분류")}${stat("pages/collections.html", stats.collections, "테마 컬렉션")}${stat("pages/countries.html", stats.countries, "국가 허브")}</div><p class="stats-asof">${TODAY.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (m, y, mo, d) => `${y}년 ${Number(mo)}월 ${Number(d)}일`)} 기준</p></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><h2>오늘의 브랜드</h2><p>한 브랜드를 골라 깊이 읽어 봅니다</p></div>${feat}</div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div><div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>주요 브랜드</h2><p>한글 표기·로고·본문을 모두 갖춘 브랜드 가운데 자료가 풍부한 순</p></div>${tiles(popular, H, { sub: "origin", size: "lg", eagerFirst: true })}<p style="margin-top:18px"><a class="btn ghost" href="${H}pages/bici.html">로고 아카이브 전체 보기</a></p></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><h2>오늘의 브랜드</h2><p>매주 갱신</p></div>${feat}</div></section>
-<section class="section"><div class="wrap"><div class="section-head"><h2>최근 갱신된 브랜드</h2><a class="more" href="${H}rss.xml">RSS →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(pageDateLedger[urlSlugOf(b)]?.modified || "")}</small></span></a>`).join("")}</div></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><h2>가나다 · ABC 색인</h2><a class="more" href="${H}pages/ganada.html">색인 전체 →</a></div>${indexNav("", H)}<div class="section-head" style="margin-top:26px"><h2>국가별</h2><a class="more" href="${H}pages/countries.html">국가별 전체 →</a></div><nav class="chips" aria-label="국가별">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip" href="${H}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p><a class="more" href="${H}rss.xml">RSS 구독 →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><h2>가나다 · ABC 색인</h2><a class="more" href="${H}pages/ganada.html">색인 전체 →</a></div>${indexNav("", H)}<div class="section-head" style="margin-top:26px"><h2>컬렉션</h2><a class="more" href="${H}pages/collections.html">컬렉션 전체 →</a></div><nav class="chips" aria-label="컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip" href="${H}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav><div class="section-head" style="margin-top:26px"><h2>국가별</h2><a class="more" href="${H}pages/countries.html">국가별 전체 →</a></div><nav class="chips" aria-label="국가별">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip" href="${H}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav></div></section>
 <section class="section"><div class="wrap"><div class="about-strip"><div><b>없는 표기를 만들지 않습니다</b><p>한글 표기가 확인된 브랜드만 한글로 적고, 나머지는 원어를 그대로 씁니다.</p></div><div><b>검증된 사실만 표에 넣습니다</b><p>기원 국가·설립연도는 검수된 설명이나 공식 사이트가 일치하는 위키데이터에서만 가져옵니다.</p></div><div><b>로고 변천까지 기록합니다</b><p>${stats.bici}개 브랜드의 로고 변천사를 상세 페이지에 실었습니다.</p></div></div><p style="margin-top:16px"><a class="more" href="${H}pages/about.html">브랜드 아틀라스 소개와 편집 원칙 →</a></p></div></section>`;
   const title = "브랜드 아틀라스 — 브랜드 사전·로고 아카이브";
   const desc = `${stats.brands}개 브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 한글·원어·초성으로 검색하고 산업별·국가별·가나다순으로 찾아봅니다.`;
@@ -367,7 +420,10 @@ const indexable = BRANDS.filter(b => !thinReport.has(urlSlugOf(b)));
     { "@type": "WebSite", name: "브랜드 아틀라스", alternateName: "Brand Atlas", url: `${ORIGIN}/`, description: desc, inLanguage: "ko-KR", publisher: { "@type": "Organization", name: "브랜드성장연구소 아키타이포스", url: `${ORIGIN}/`, logo: { "@type": "ImageObject", url: `${ORIGIN}/assets/objects/archetypos_logo.png` } }, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${ORIGIN}/pages/search.html?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
     { "@type": "ItemList", name: "주요 브랜드", numberOfItems: popular.length, itemListElement: popular.slice(0, 48).map((b, i) => ({ "@type": "ListItem", position: i + 1, name: displayName(b), url: `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html` })) },
   ] });
-  const html = page({ title, desc, canonical: `${ORIGIN}/`, bodyHtml: body, active: "", prefix: "", jsonLd, ogImage: `${ORIGIN}/assets/objects/world_map_dots.png`, extraHead: '<meta name="naver-site-verification" content="a5a82f7a952f8b6756924f50e705050cca7aa574">' });
+  // 홈 전용 스타일 — styles.css를 바꾸면 CSS_V를 올려야 하고 전 페이지가 다시 쓰인다.
+  const homeStyle = `<style>.stats{grid-template-columns:repeat(5,1fr);max-width:900px}.stats-asof{margin-top:10px;font-size:12px;color:var(--muted)}@media(max-width:767px){.stats{grid-template-columns:repeat(2,1fr)}}</style>`;
+  const countUp = `<script>(()=>{const els=document.querySelectorAll('.stats b[data-count]');if(!els.length||!('IntersectionObserver'in window)||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const run=el=>{const n=+el.dataset.count,t0=performance.now(),d=900;const f=t=>{const p=Math.min(1,(t-t0)/d),v=Math.round(n*(1-Math.pow(1-p,3)));el.textContent=v.toLocaleString('ko-KR');if(p<1)requestAnimationFrame(f)};requestAnimationFrame(f)};const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){io.unobserve(e.target);run(e.target)}}),{threshold:.6});els.forEach(el=>io.observe(el))})();</script>`;
+  const html = page({ title, desc, canonical: `${ORIGIN}/`, bodyHtml: homeStyle + body + countUp, active: "", prefix: "", jsonLd, ogImage: `${ORIGIN}/assets/objects/world_map_dots.png`, extraHead: '<meta name="naver-site-verification" content="a5a82f7a952f8b6756924f50e705050cca7aa574">' });
   writeIfChanged(path.join(ROOT, "index.html"), html);
   console.log(`index.html: featured=${featured.name}, popular=${popular.length}, recent=${recent.length}`);
 }
@@ -433,9 +489,10 @@ function brandImages(b) {
   return [...out.values()].slice(0, 4);
 }
 const hubEntries = [
-  ["/", "index.html"], ["/pages/ganada.html", "pages/ganada.html"], ["/pages/brands.html", "pages/brands.html"], ["/pages/industry.html", "pages/industry.html"], ["/pages/countries.html", "pages/countries.html"], ["/pages/bici.html", "pages/bici.html"], ["/pages/timeline.html", "pages/timeline.html"], ["/pages/insights.html", "pages/insights.html"], ["/pages/search.html", "pages/search.html"], ["/pages/about.html", "pages/about.html"], ["/pages/privacy.html", "pages/privacy.html"], ["/pages/contact.html", "pages/contact.html"],
+  ["/", "index.html"], ["/pages/ganada.html", "pages/ganada.html"], ["/pages/brands.html", "pages/brands.html"], ["/pages/industry.html", "pages/industry.html"], ["/pages/countries.html", "pages/countries.html"], ["/pages/collections.html", "pages/collections.html"], ["/pages/bici.html", "pages/bici.html"], ["/pages/timeline.html", "pages/timeline.html"], ["/pages/insights.html", "pages/insights.html"], ["/pages/search.html", "pages/search.html"], ["/pages/about.html", "pages/about.html"], ["/pages/privacy.html", "pages/privacy.html"], ["/pages/contact.html", "pages/contact.html"],
   ...industryGroups.map(([slug]) => [`/category/${slug}.html`, `category/${slug}.html`]),
   ...countryDrafts.map(({ slug }) => [`/country/${slug}.html`, `country/${slug}.html`]),
+  ...collectionDrafts.map(({ c }) => [`/collection/${c.slug}.html`, `collection/${c.slug}.html`]),
 ].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)]);
 const brandEntries = indexable.map(b => {
   const slug = urlSlugOf(b);
@@ -495,6 +552,7 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     `- [가나다·ABC 색인](${ORIGIN}/pages/ganada.html): 전체 브랜드 색인`,
     `- [산업별](${ORIGIN}/pages/industry.html): ${industryGroups.length}개 산업`,
     `- [국가별](${ORIGIN}/pages/countries.html): ${countryDrafts.length}개국`,
+    `- [컬렉션](${ORIGIN}/pages/collections.html): ${collectionDrafts.length}개 테마(AI·핀테크·항공사 등)`,
     `- [로고 아카이브](${ORIGIN}/pages/bici.html): 로고·BI/CI 변천`,
     `- [타임라인](${ORIGIN}/pages/timeline.html): 설립연도별`,
     `- [인사이트](${ORIGIN}/pages/insights.html): 브랜드별 관점`,
@@ -502,6 +560,9 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     "",
     "## 산업 카테고리",
     ...industryGroups.map(([slug, g]) => `- [${g.label}](${ORIGIN}/category/${slug}.html): ${g.items.length}개 브랜드`),
+    "",
+    "## 컬렉션",
+    ...collectionDrafts.map(({ c, arr }) => `- [${c.name}](${ORIGIN}/collection/${c.slug}.html): ${arr.length}개 브랜드`),
     "",
     "## 기원 국가",
     ...countryDrafts.map(({ c, slug, arr }) => `- [${c}](${ORIGIN}/country/${slug}.html): ${arr.length}개 브랜드`),

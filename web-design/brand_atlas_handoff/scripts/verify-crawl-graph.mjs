@@ -104,7 +104,7 @@ for (const h of hubs) {
   while ((m = HREF.exec(html))) if (/(^|\/)brand\/[^/]+\.html$/.test(m[1])) set.add(decodePath(m[1]));
   hubLinks[h] = set.size;
 }
-for (const dir of ["category", "country"]) {
+for (const dir of ["category", "country", "collection"]) {
   const p = path.join(ROOT, dir);
   if (!fs.existsSync(p)) continue;
   let sum = 0, files = 0;

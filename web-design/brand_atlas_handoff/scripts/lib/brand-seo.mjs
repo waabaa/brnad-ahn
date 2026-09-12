@@ -354,7 +354,9 @@ export const urlSlugOf = (b) => b.urlSlug || b.slug;
 export const brandPath = (b) => `/brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 
 export function slugifyAscii(s) {
+  // NFD strips diacritics first ("L'Oréal" → "loreal", not "l-or-al"); NFC restores Hangul.
   return String(s || "")
+    .normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/['’]/g, "").normalize("NFC")
     .toLowerCase()
     .replace(/[^a-z0-9가-힣]+/g, "-")
     .replace(/^-+|-+$/g, "");

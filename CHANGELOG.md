@@ -1,5 +1,26 @@
 # 브랜드 아틀라스 — 변경 이력
 
+## 2026-09-12 — 테마 컬렉션 11종 · 신규 브랜드 174건 · 대표 이미지 검수 · 홈 개편
+
+검증 4종(crawl-graph·qa-seo·수용기준 전항목·redirects 757) 통과 후 배포.
+
+- **테마 컬렉션**(`scripts/lib/collections.mjs`, `scripts/assign-collections.mjs`) — 업종 분류와 별개의 가로축.
+  AI·핀테크·은행·에너지·부동산·항공사·미술관/박물관·패스트푸드·카페·디지털 서비스·올림픽/엑스포 11종.
+  편입 기준은 Wikidata `P452`(산업)·`P31/P279*`(개체 유형)이고, 멤버십마다 근거를 `reports/collections.json`에 남긴다.
+  5건 이상인 컬렉션만 허브(`collection/<slug>.html`)·목록(`pages/collections.html`)·sitemap·llms.txt에 올린다.
+  주간 리프레시 `[0/5]` 단계로 새 QID도 자동 편입된다.
+- **신규 브랜드 174건 수록**(1,767 → 1,941) — 컬렉션별 후보에서 고른 1차분과, 전혀 없던 유명 브랜드
+  (Microsoft·Nintendo·Ford·Boeing 등) 2차분. 수록 규칙(§2-c)은 그대로이고, 로고 153건은 전건 육안 검수했다 —
+  다른 개체 로고(xAI에 SpaceX 워드마크)·간판 사진(판다 익스프레스)·옛 로고(크라이슬러의 FCA) 3건 제거,
+  마이크로소프트는 1987년형 워드마크를 현행 로고로 교체(`reports/newbrand-logo-audit-2026-09-12.json`).
+- **slug 생성이 악센트를 떼지 않고 지우던 결함 수정**(`slugifyAscii`) — `L'Oréal`이 `l-or-al`,
+  `Électricité de France`가 `lectricit-de-france`가 됐다. NFD로 분음 부호를 떼고 아포스트로피는 붙여 쓴다.
+  배포 전 레코드 9건만 새 규칙으로 옮겼다(기존 slug는 저장값이라 영향 없음). `Disney+`는 `disney-plus`.
+- **대표 이미지(image) 전수 검수** — 인물 사진·게티 워터마크·다른 브랜드 광고 7건 제거
+  (`reports/image-audit-2026-09-12.json`). 플레이스홀더를 JSON-LD `image`로 선언하던 332개 페이지도 바로잡았다.
+- **홈** — '오늘의 브랜드'를 히어로 바로 아래로, 갱신 목록을 '새로 다듬은 브랜드 기록'으로. 상단 숫자는 빌드 시점
+  실제 집계(수록·로고·산업·컬렉션·국가)이고 기준일을 함께 표시한다. 검색 인덱스 URL에 내용 해시(`?v=`)를 붙였다.
+
 ## 2026-09-08 — GEO 점검 반영 · 네이버 리다이렉션 진단 대응
 
 검증 4종(crawl-graph·qa-seo·수용기준 20/20·redirects 757) 통과 후 배포.

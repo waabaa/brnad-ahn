@@ -4,10 +4,15 @@
 //            ② 조직·브랜드 개체다 ③ 우리 데이터에 이름·slug 어느 것으로도 없다
 // 결과: reports/brand-candidates.json  (import-wikidata-brands.mjs 가 읽는다)
 //
+// --collection <slug>: 컬렉션(scripts/lib/collections.mjs)의 Wikidata 기준(P31/P279*·P452)에 맞는 개체만,
+//   인지도(sitelinks) 순으로 --top 개까지 찾는다. 결과 후보에 collection 을 적어 둔다.
+//
 // Usage: node scripts/discover-wikidata-brands.mjs [--min-global 22] [--min-kr 3]
+//        node scripts/discover-wikidata-brands.mjs --collection ai [--top 40] [--min 8]
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { COLLECTION_BY_SLUG } from "./lib/collections.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -51,7 +56,18 @@ async function run(query) {
 }
 
 const rows = [];
-for (const cls of CLASSES) {
+const COLL = opt("--collection") ? COLLECTION_BY_SLUG.get(opt("--collection")) : null;
+if (opt("--collection") && !COLL) throw new Error(`컬렉션 없음: ${opt("--collection")}`);
+if (COLL) {
+  const min = Number(opt("--min", 8));
+  const parts = [
+    ...COLL.p31.map(q => `{ ?item wdt:P31/wdt:P279* wd:${q} . }`),
+    ...COLL.p452.map(q => `{ ?item wdt:P452 wd:${q} . }`),
+  ];
+  rows.push(...await run(sparql(`${parts.join(" UNION ")} FILTER(?sitelinks >= ${min})`, 400, 0)));
+  console.log(`${COLL.slug}: Wikidata 일치 ${rows.length}건`);
+}
+for (const cls of COLL ? [] : CLASSES) {
   for (let off = 0; off < 1200; off += 600) {
     const kr = await run(sparql(`?item wdt:P31/wdt:P279* ${cls} ; wdt:P17 wd:Q884 . FILTER(?sitelinks >= ${MIN_KR})`, 600, off));
     rows.push(...kr);
@@ -72,13 +88,18 @@ for (const r of rows) {
   const ko = r.ko.value;
   if (haveQid.has(qid)) continue;
   if (/^분류:|^틀:/.test(ko)) continue;
-  byQid.set(qid, byQid.get(qid) || { qid, ko, sitelinks: Number(r.sitelinks.value) });
+  byQid.set(qid, byQid.get(qid) || { qid, ko, sitelinks: Number(r.sitelinks.value), ...(COLL ? { collection: COLL.slug } : {}) });
 }
 const koBase = (s) => s.replace(/\s*\(.*?\)\s*$/, "").trim();
 const candidates = [...byQid.values()]
   .filter(c => !have.has(norm(koBase(c.ko))))
   .sort((a, b) => b.sitelinks - a.sitelinks);
 fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });
-fs.writeFileSync(path.join(ROOT, "reports/brand-candidates.json"), JSON.stringify(candidates, null, 1));
-console.log(`후보 ${candidates.length}건 (전체 ${byQid.size}, 이미 수록 제외) → reports/brand-candidates.json`);
-console.log(candidates.slice(0, 25).map(c => `${c.ko} ${c.sitelinks}`).join(", "));
+const TOP = Number(opt("--top", 0)) || Infinity;
+const out = candidates.slice(0, TOP);
+// 컬렉션 모드는 다른 컬렉션 후보와 합쳐 둔다(import 가 한 번에 읽는다).
+const outPath = path.join(ROOT, COLL ? "reports/collection-candidates.json" : "reports/brand-candidates.json");
+const merged = COLL && fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")).filter(c => c.collection !== COLL.slug) : [];
+fs.writeFileSync(outPath, JSON.stringify([...merged, ...out], null, 1));
+console.log(`후보 ${candidates.length}건 (전체 ${byQid.size}, 이미 수록 제외) → ${path.relative(ROOT, outPath)} (${out.length}건 기록)`);
+console.log(out.slice(0, 40).map(c => `${c.ko} ${c.sitelinks}`).join(", "));

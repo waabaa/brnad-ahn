@@ -187,7 +187,7 @@ const report = {
       .replace(/<footer[\s\S]*?<\/footer>/g, " ")
       .replace(TAG, " ").replace(/\s+/g, " ").trim().length;
     const lens = [];
-    for (const dir of ["category", "country"]) {
+    for (const dir of ["category", "country", "collection"]) {
       const d = path.join(ROOT, dir);
       if (!fs.existsSync(d)) continue;
       for (const f of fs.readdirSync(d).filter(x => x.endsWith(".html"))) {

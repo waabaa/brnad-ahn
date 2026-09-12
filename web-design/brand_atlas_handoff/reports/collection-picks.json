@@ -1,0 +1,968 @@
+[
+ {
+  "qid": "Q115564437",
+  "ko": "챗GPT",
+  "sitelinks": 137,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q123361035",
+  "ko": "Grok",
+  "sitelinks": 59,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q118876059",
+  "ko": "클로드 (언어 모델)",
+  "sitelinks": 59,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q116758847",
+  "ko": "앤트로픽",
+  "sitelinks": 57,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q15733006",
+  "ko": "구글 딥마인드",
+  "sitelinks": 56,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q116793893",
+  "ko": "마이크로소프트 코파일럿",
+  "sitelinks": 54,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q105078662",
+  "ko": "DALL-E",
+  "sitelinks": 42,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q120599684",
+  "ko": "XAI (기업)",
+  "sitelinks": 39,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q130234299",
+  "ko": "Qwen",
+  "sitelinks": 34,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q116894231",
+  "ko": "LLaMA",
+  "sitelinks": 27,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q115517493",
+  "ko": "Character.ai",
+  "sitelinks": 23,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q116894099",
+  "ko": "어니봇",
+  "sitelinks": 21,
+  "collection": "ai"
+ },
+ {
+  "qid": "Q719625",
+  "ko": "유니온페이",
+  "sitelinks": 30,
+  "collection": "fintech"
+ },
+ {
+  "qid": "Q7624104",
+  "ko": "스트라이프 (기업)",
+  "sitelinks": 28,
+  "collection": "fintech"
+ },
+ {
+  "qid": "Q4686934",
+  "ko": "아디옌",
+  "sitelinks": 18,
+  "collection": "fintech"
+ },
+ {
+  "qid": "Q252382",
+  "ko": "M-Pesa",
+  "sitelinks": 18,
+  "collection": "fintech"
+ },
+ {
+  "qid": "Q110778747",
+  "ko": "블록 (기업)",
+  "sitelinks": 17,
+  "collection": "fintech"
+ },
+ {
+  "qid": "Q66048",
+  "ko": "도이체 방크",
+  "sitelinks": 70,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q190464",
+  "ko": "HSBC",
+  "sitelinks": 62,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q487907",
+  "ko": "뱅크 오브 아메리카",
+  "sitelinks": 60,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q193326",
+  "ko": "골드만삭스",
+  "sitelinks": 59,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q192314",
+  "ko": "JP모건 체이스",
+  "sitelinks": 58,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q188567",
+  "ko": "그라민 은행",
+  "sitelinks": 57,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q193199",
+  "ko": "UBS",
+  "sitelinks": 56,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q26463",
+  "ko": "중국공상은행",
+  "sitelinks": 53,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q372657",
+  "ko": "크레디트 스위스",
+  "sitelinks": 51,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q212900",
+  "ko": "리먼 브라더스",
+  "sitelinks": 50,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q205012",
+  "ko": "스베르방크",
+  "sitelinks": 49,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q744149",
+  "ko": "웰스 파고",
+  "sitelinks": 48,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q334204",
+  "ko": "모건 스탠리",
+  "sitelinks": 48,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q499707",
+  "ko": "BNP 파리바",
+  "sitelinks": 46,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q645708",
+  "ko": "ING 그룹",
+  "sitelinks": 45,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q157617",
+  "ko": "코메르츠방크",
+  "sitelinks": 43,
+  "collection": "banking"
+ },
+ {
+  "qid": "Q156238",
+  "ko": "엑슨모빌",
+  "sitelinks": 71,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q152057",
+  "ko": "BP (기업)",
+  "sitelinks": 66,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q154037",
+  "ko": "토탈 (기업)",
+  "sitelinks": 66,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q679322",
+  "ko": "사우디 아람코",
+  "sitelinks": 64,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q319642",
+  "ko": "셰브론",
+  "sitelinks": 60,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q329347",
+  "ko": "루크오일",
+  "sitelinks": 52,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q210047",
+  "ko": "페트로브라스",
+  "sitelinks": 51,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q13416787",
+  "ko": "엔지 (기업)",
+  "sitelinks": 48,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q375791",
+  "ko": "스탠더드 오일",
+  "sitelinks": 46,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q1141123",
+  "ko": "로스네프트",
+  "sitelinks": 45,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q221692",
+  "ko": "페트로나스",
+  "sitelinks": 45,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q565594",
+  "ko": "에니 (기업)",
+  "sitelinks": 42,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q831445",
+  "ko": "중국석유화공",
+  "sitelinks": 41,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q503182",
+  "ko": "페트로차이나",
+  "sitelinks": 41,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q1776022",
+  "ko": "에퀴노르",
+  "sitelinks": 40,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q651222",
+  "ko": "에넬",
+  "sitelinks": 40,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q835692",
+  "ko": "유코스",
+  "sitelinks": 37,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q588786",
+  "ko": "중국 석유 천연가스 공사",
+  "sitelinks": 37,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q270223",
+  "ko": "E.ON",
+  "sitelinks": 37,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q775060",
+  "ko": "텍사코",
+  "sitelinks": 36,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q718194",
+  "ko": "PDVSA",
+  "sitelinks": 35,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q209078",
+  "ko": "국가전망공사",
+  "sitelinks": 34,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q214763",
+  "ko": "코노코필립스",
+  "sitelinks": 34,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q274591",
+  "ko": "프랑스 전력공사",
+  "sitelinks": 33,
+  "collection": "energy"
+ },
+ {
+  "qid": "Q72634",
+  "ko": "곤고구미",
+  "sitelinks": 37,
+  "collection": "property"
+ },
+ {
+  "qid": "Q895325",
+  "ko": "부이그",
+  "sitelinks": 37,
+  "collection": "property"
+ },
+ {
+  "qid": "Q5417145",
+  "ko": "헝다그룹",
+  "sitelinks": 33,
+  "collection": "property"
+ },
+ {
+  "qid": "Q1153463",
+  "ko": "에마르사",
+  "sitelinks": 27,
+  "collection": "property"
+ },
+ {
+  "qid": "Q813639",
+  "ko": "벡텔",
+  "sitelinks": 25,
+  "collection": "property"
+ },
+ {
+  "qid": "Q681316",
+  "ko": "스트라바그",
+  "sitelinks": 22,
+  "collection": "property"
+ },
+ {
+  "qid": "Q1073519",
+  "ko": "중국건축공정총공사",
+  "sitelinks": 21,
+  "collection": "property"
+ },
+ {
+  "qid": "Q19995004",
+  "ko": "WeWork",
+  "sitelinks": 21,
+  "collection": "property"
+ },
+ {
+  "qid": "Q339142",
+  "ko": "악시오나",
+  "sitelinks": 20,
+  "collection": "property"
+ },
+ {
+  "qid": "Q549127",
+  "ko": "FCC 그룹",
+  "sitelinks": 19,
+  "collection": "property"
+ },
+ {
+  "qid": "Q1550888",
+  "ko": "ACS (기업)",
+  "sitelinks": 19,
+  "collection": "property"
+ },
+ {
+  "qid": "Q2825507",
+  "ko": "AECOM",
+  "sitelinks": 18,
+  "collection": "property"
+ },
+ {
+  "qid": "Q7496874",
+  "ko": "시미즈 건설",
+  "sitelinks": 17,
+  "collection": "property"
+ },
+ {
+  "qid": "Q1081154",
+  "ko": "가지마 건설",
+  "sitelinks": 14,
+  "collection": "property"
+ },
+ {
+  "qid": "Q384730",
+  "ko": "오바야시구미",
+  "sitelinks": 13,
+  "collection": "property"
+ },
+ {
+  "qid": "Q5275969",
+  "ko": "디지털 리얼티",
+  "sitelinks": 13,
+  "collection": "property"
+ },
+ {
+  "qid": "Q4050344",
+  "ko": "미쓰이 스미토모 건설",
+  "sitelinks": 10,
+  "collection": "property"
+ },
+ {
+  "qid": "Q1479375",
+  "ko": "항철공사",
+  "sitelinks": 22,
+  "collection": "property"
+ },
+ {
+  "qid": "Q853878",
+  "ko": "비엣젯 항공",
+  "sitelinks": 82,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q32491",
+  "ko": "콴타스 항공",
+  "sitelinks": 70,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q185339",
+  "ko": "에어 캐나다",
+  "sitelinks": 69,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q308952",
+  "ko": "말레이시아 항공",
+  "sitelinks": 68,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q32245",
+  "ko": "싱가포르 항공",
+  "sitelinks": 66,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q208033",
+  "ko": "카타르 항공",
+  "sitelinks": 66,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q212304",
+  "ko": "에티하드 항공",
+  "sitelinks": 65,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q69906",
+  "ko": "에어 인디아",
+  "sitelinks": 65,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q187854",
+  "ko": "스칸디나비아 항공",
+  "sitelinks": 64,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q187972",
+  "ko": "이베리아 항공",
+  "sitelinks": 64,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q188710",
+  "ko": "타이항공",
+  "sitelinks": 62,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q191551",
+  "ko": "이지젯",
+  "sitelinks": 61,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q156776",
+  "ko": "스위스 국제항공",
+  "sitelinks": 61,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q174386",
+  "ko": "베트남 항공",
+  "sitelinks": 60,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q201821",
+  "ko": "핀에어",
+  "sitelinks": 59,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q51747",
+  "ko": "중국국제항공",
+  "sitelinks": 59,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q32141",
+  "ko": "캐세이퍼시픽 항공",
+  "sitelinks": 57,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q204284",
+  "ko": "전일본공수",
+  "sitelinks": 57,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q204268",
+  "ko": "LOT 폴란드 항공",
+  "sitelinks": 57,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q245233",
+  "ko": "에티오피아 항공",
+  "sitelinks": 54,
+  "collection": "airlines"
+ },
+ {
+  "qid": "Q19675",
+  "ko": "루브르 박물관",
+  "sitelinks": 169,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q23402",
+  "ko": "오르세 미술관",
+  "sitelinks": 122,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q6373",
+  "ko": "대영박물관",
+  "sitelinks": 109,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q46815",
+  "ko": "이스라엘 박물관",
+  "sitelinks": 90,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q132783",
+  "ko": "에르미타시 박물관",
+  "sitelinks": 86,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q160112",
+  "ko": "프라도 미술관",
+  "sitelinks": 80,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q51252",
+  "ko": "우피치 미술관",
+  "sitelinks": 73,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q180788",
+  "ko": "내셔널 갤러리",
+  "sitelinks": 71,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q131626",
+  "ko": "스미스소니언 협회",
+  "sitelinks": 70,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q190804",
+  "ko": "암스테르담 국립미술관",
+  "sitelinks": 70,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q186309",
+  "ko": "마담 투소",
+  "sitelinks": 69,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q179199",
+  "ko": "빌바오 구겐하임 미술관",
+  "sitelinks": 68,
+  "collection": "museums"
+ },
+ {
+  "qid": "Q1538507",
+  "ko": "잭 인 더 박스",
+  "sitelinks": 63,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1043486",
+  "ko": "칼스 주니어",
+  "sitelinks": 60,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q277641",
+  "ko": "A&W 레스토랑",
+  "sitelinks": 51,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q752941",
+  "ko": "타코벨",
+  "sitelinks": 49,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q550258",
+  "ko": "웬디스",
+  "sitelinks": 48,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q376627",
+  "ko": "왓어버거",
+  "sitelinks": 45,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1205312",
+  "ko": "인앤아웃 버거",
+  "sitelinks": 45,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q37614",
+  "ko": "졸리비",
+  "sitelinks": 44,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q491516",
+  "ko": "칙필레",
+  "sitelinks": 39,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1330910",
+  "ko": "파파이스",
+  "sitelinks": 36,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1141226",
+  "ko": "데어리 퀸",
+  "sitelinks": 32,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1131810",
+  "ko": "파이브 가이즈",
+  "sitelinks": 30,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1192805",
+  "ko": "크리스피 크림",
+  "sitelinks": 30,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q630866",
+  "ko": "아비스 (기업)",
+  "sitelinks": 28,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1276832",
+  "ko": "헤스버거",
+  "sitelinks": 27,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q107406476",
+  "ko": "미쉐",
+  "sitelinks": 25,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1358690",
+  "ko": "판다 익스프레스",
+  "sitelinks": 24,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1393809",
+  "ko": "리틀 시저스",
+  "sitelinks": 24,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1244034",
+  "ko": "화이트 캐슬 (음식점)",
+  "sitelinks": 24,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q776272",
+  "ko": "요시노야",
+  "sitelinks": 24,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q1204169",
+  "ko": "모스버거",
+  "sitelinks": 22,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q2589409",
+  "ko": "스바로",
+  "sitelinks": 19,
+  "collection": "fast-food"
+ },
+ {
+  "qid": "Q543750",
+  "ko": "루이지 라바짜",
+  "sitelinks": 29,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q608845",
+  "ko": "코스타 커피",
+  "sitelinks": 29,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q56811344",
+  "ko": "루이싱커피",
+  "sitelinks": 18,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q2666365",
+  "ko": "글로리아 진스 커피",
+  "sitelinks": 17,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q1094101",
+  "ko": "피츠 커피",
+  "sitelinks": 15,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q1141384",
+  "ko": "커피빈 & 티리프",
+  "sitelinks": 14,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q675808",
+  "ko": "카페 네로",
+  "sitelinks": 12,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q5302338",
+  "ko": "도토루 커피",
+  "sitelinks": 10,
+  "collection": "cafes"
+ },
+ {
+  "qid": "Q866",
+  "ko": "유튜브",
+  "sitelinks": 244,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q918",
+  "ko": "X (소셜 네트워크)",
+  "sitelinks": 206,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q209330",
+  "ko": "인스타그램",
+  "sitelinks": 166,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q48938223",
+  "ko": "틱톡",
+  "sitelinks": 137,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q1049511",
+  "ko": "WhatsApp",
+  "sitelinks": 133,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q37312",
+  "ko": "IMDb",
+  "sitelinks": 132,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q40984",
+  "ko": "스카이프",
+  "sitelinks": 112,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q2918660",
+  "ko": "듀오링고",
+  "sitelinks": 102,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q40629",
+  "ko": "마이스페이스",
+  "sitelinks": 89,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q213660",
+  "ko": "링크드인",
+  "sitelinks": 86,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q116933",
+  "ko": "VK (소셜 네트워크)",
+  "sitelinks": 85,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q333618",
+  "ko": "스냅챗",
+  "sitelinks": 80,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q364",
+  "ko": "깃허브",
+  "sitelinks": 80,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q22907849",
+  "ko": "디스코드",
+  "sitelinks": 77,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q255381",
+  "ko": "핀터레스트",
+  "sitelinks": 75,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q103204",
+  "ko": "플리커",
+  "sitelinks": 74,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q384060",
+  "ko": "텀블러 (마이크로블로그)",
+  "sitelinks": 71,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q332707",
+  "ko": "바이버",
+  "sitelinks": 67,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q568769",
+  "ko": "사운드클라우드",
+  "sitelinks": 66,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q283233",
+  "ko": "위챗",
+  "sitelinks": 65,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q120281745",
+  "ko": "스레드 (소셜 네트워크)",
+  "sitelinks": 65,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q54958752",
+  "ko": "디즈니+",
+  "sitelinks": 64,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q183718",
+  "ko": "Last.fm",
+  "sitelinks": 61,
+  "collection": "digital-services"
+ },
+ {
+  "qid": "Q116947",
+  "ko": "페이스북 메신저",
+  "sitelinks": 59,
+  "collection": "digital-services"
+ }
+]

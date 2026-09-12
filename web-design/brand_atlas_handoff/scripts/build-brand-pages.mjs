@@ -16,7 +16,8 @@ import {
 } from "./lib/brand-seo.mjs";
 import { page as shell, esc } from "./lib/page-shell.mjs";
 import { renderBrandPage } from "./lib/brand-render.mjs";
-import { isDirectory, isNoindex, byScore } from "./lib/archive.mjs";
+import { isDirectory, isNoindex, byScore, isListed } from "./lib/archive.mjs";
+import { publishedCollections } from "./lib/collections.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -42,6 +43,7 @@ vm.runInContext(appSrc, sandbox, { filename: "app.js" });
 sandbox.brandUrl = (b) => `../brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 
 // 국가 허브 존재 여부 — 머리 칩에서 국가 허브로 링크할지 결정한다(없는 파일로 링크 금지).
+const collectionHubs = publishedCollections(BRANDS, isListed);
 const countryHubs = new Set(fs.existsSync(path.join(ROOT, "country")) ? fs.readdirSync(path.join(ROOT, "country")).filter(f => f.endsWith(".html")).map(f => f.replace(/\.html$/, "")) : []);
 
 const PUBLISHER = {
@@ -51,6 +53,9 @@ const PUBLISHER = {
   logo: { "@type": "ImageObject", url: `${ORIGIN}/assets/objects/archetypos_logo.png`, width: 284, height: 66 },
 };
 
+// 사이트 자체 마크(플레이스홀더)는 브랜드 이미지가 아니다 — JSON-LD·og:image에 브랜드 이미지로 선언하지 않는다.
+// 2026-09-12 기준 332개 페이지가 Organization/Article image로 브랜드 아틀라스 로고를 내보내고 있었다.
+const brandImage = (brand) => (brand.image && !/brand_atlas_logo_mark/.test(String(brand.image)) ? absAsset(brand.image) : null);
 function absAsset(src) {
   const clean = String(src || "").replace(/^\.\.\//, "").replaceAll("\\", "/");
   if (!clean) return null;
@@ -96,7 +101,7 @@ function jsonLd(brand, faq, dates, url) {
     "@type": "Article",
     headline: short(buildTitle(brand), 110),
     description: buildDescription(brand),
-    image: logo || absAsset(brand.image) || undefined,
+    image: logo || brandImage(brand) || undefined,
     inLanguage: "ko-KR",
     datePublished: dates.published,
     dateModified: dates.modified,
@@ -208,7 +213,7 @@ function pageHtml(brand) {
   const title = buildTitle(brand);
   const desc = buildDescription(brand);
   const faq = buildFaq(brand);
-  let bodyHtml = renderBrandPage(brand, { sandbox, faq, countryHubs, related: relatedFor(brand) });
+  let bodyHtml = renderBrandPage(brand, { sandbox, faq, countryHubs, collectionHubs, related: relatedFor(brand) });
 
   const text = mainText(bodyHtml);
   const renderedChars = text.length;
@@ -225,7 +230,7 @@ function pageHtml(brand) {
   renderedLen.set(slug, dupCanonical ? 0 : renderedChars);
   tierOf.set(slug, directory ? "directory" : "listed");
   const canonical = dupCanonical || url;
-  const ogImage = brand.logo ? absAsset(brand.logo) : (absAsset(brand.image) || undefined);
+  const ogImage = brand.logo ? absAsset(brand.logo) : (brandImage(brand) || undefined);
 
   return shell({
     title, desc, canonical, ogImage, ogType: "article", robots, prefix: "../", active: "ganada",

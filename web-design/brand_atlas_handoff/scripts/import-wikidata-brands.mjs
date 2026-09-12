@@ -6,7 +6,7 @@
 //    다시 쓰는 일만 한다. 생성문에 근거에 없는 연도·숫자가 나오면 그 브랜드는 수록하지 않는다.
 //  - country/foundedYear 원본 필드는 쓰지 않는다. 위키데이터 P17/P571만 brand.wikidata에 넣는다.
 //
-// Usage: node scripts/import-wikidata-brands.mjs [--limit 50] [--dry] [--batch 3]
+// Usage: node scripts/import-wikidata-brands.mjs [--limit 50] [--dry] [--batch 3] [--only Q1,Q2] [--candidates file] [--no-fallback] [--concurrency 2]
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -19,6 +19,10 @@ const LIMIT = Number(opt("--limit", 0)) || Infinity;
 const BATCH = Number(opt("--batch", 2));
 const DRY = args.includes("--dry");
 const ONLY = opt("--only") ? new Set(opt("--only").split(",")) : null;
+// --no-fallback: gpt 분당 한도(공유 8회/분)에 걸렸을 때 gemini로 넘기지 않고 잠깐 기다린다.
+// fallback은 research 의 gemini 몫(일 20)을 금방 비우고, 그 뒤로는 1시간짜리 429가 돌아온다(2026-09-12).
+const FALLBACK = args.includes("--no-fallback") ? [] : ["gemini"];
+const CONCURRENCY = Math.max(1, Number(opt("--concurrency", 4)));
 const UA = "BrandAtlasBot/1.0 (https://brandatlas.co.kr; brand dictionary; contact via site form)";
 const GW = process.env.LLM_GATEWAY_URL || "http://127.0.0.1:15055/v1/generate";
 const GW_KEY = process.env.LLM_GATEWAY_KEY || "";
@@ -26,7 +30,8 @@ const TODAY = new Date().toISOString().slice(0, 10);
 
 const DATA_PATH = path.join(ROOT, "data/brand-atlas.json");
 const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
-const candidates = JSON.parse(fs.readFileSync(path.join(ROOT, "reports/brand-candidates.json"), "utf8"));
+// --candidates reports/collection-candidates.json: 컬렉션 발굴 결과를 읽는다(기본은 brand-candidates.json).
+const candidates = JSON.parse(fs.readFileSync(path.join(ROOT, opt("--candidates", "reports/brand-candidates.json")), "utf8"));
 const REPORT = path.join(ROOT, "reports/wikidata-brand-import.json");
 const prevReport = fs.existsSync(REPORT) ? JSON.parse(fs.readFileSync(REPORT, "utf8")) : { added: [], rejected: [] };
 const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.map(r => r.qid)]);
@@ -70,7 +75,7 @@ async function labelsOf(qids) {
 async function generate(prompt) {
   for (let i = 0; i < 6; i++) {
     try {
-      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "gpt", prompt, fallback: ["gemini"] }), signal: AbortSignal.timeout(180000) });
+      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "gpt", prompt, fallback: FALLBACK }), signal: AbortSignal.timeout(180000) });
       const j = await res.json().catch(() => null);
       if (j?.ok && j.content) return String(j.content);
       const err = j?.error;
@@ -206,7 +211,7 @@ for (const c of (CACHED ? [] : candidates)) {
   prepared.push({ qid: c.qid, ko: koBase, koTitle, en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
   if (scanned % 25 === 0) console.log(`  스캔 ${scanned}, 준비 ${prepared.length}, 기각 ${rejected.length}`);
 }
-if (!CACHED) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
+if (!CACHED && !DRY) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
 console.log(`준비 ${prepared.length}건 / 기각 ${rejected.length}건 (캐시 저장)`);
 
 if (CACHED) { prepared.push(...CACHED.filter(p => !doneQids.has(p.qid))); console.log(`캐시에서 ${prepared.length}건 복원`); }
@@ -298,7 +303,7 @@ async function processChunk(chunk, retry = false) {
 let doneChunks = 0;
 const retryQueue = [];
 const queue = [...chunks];
-await Promise.all(Array.from({ length: 4 }, async () => {
+await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
   while (queue.length) {
     const chunk = queue.shift();
     let failed = [];
@@ -317,7 +322,7 @@ console.log(`재시도 ${retryQueue.length}건`);
 const retryItems = retryQueue.map(([p]) => p);
 const retryReasons = new Map(retryQueue.map(([p, why]) => [p.qid, why]));
 const rq = [...retryItems];
-await Promise.all(Array.from({ length: 4 }, async () => {
+await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
   while (rq.length) {
     const p = rq.shift();
     let failed = [];
@@ -331,5 +336,6 @@ if (!DRY) {
   if (data.stats) data.stats.brands = data.allBrands.length;
   fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 1));
 }
-fs.writeFileSync(REPORT, JSON.stringify({ added: [...prevReport.added, ...added.map(a => ({ ...a, at: TODAY }))], rejected: [...prevReport.rejected, ...rejected.map(r => ({ ...r, at: TODAY }))] }, null, 1));
+// dry 결과를 원장에 쓰면 다음 실행이 그 QID를 "처리됨"으로 건너뛴다 — dry는 보고서를 따로 둔다.
+fs.writeFileSync(DRY ? REPORT.replace(/\.json$/, ".dry.json") : REPORT, JSON.stringify({ added: [...(DRY ? [] : prevReport.added), ...added.map(a => ({ ...a, at: TODAY }))], rejected: [...(DRY ? [] : prevReport.rejected), ...rejected.map(r => ({ ...r, at: TODAY }))] }, null, 1));
 console.log(`\n수록 ${added.length}건, 기각 ${rejected.length}건${DRY ? " (dry)" : ""}. allBrands ${data.allBrands.length}`);

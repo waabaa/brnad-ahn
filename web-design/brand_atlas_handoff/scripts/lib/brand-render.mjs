@@ -8,6 +8,7 @@ import { esc, breadcrumbs } from "./page-shell.mjs";
 import { koreanName, latinName, displayName, headingMarkup, factRows, topicParticle, urlSlugOf, countryOf } from "./brand-seo.mjs";
 import { tiles, logoImg, assetHref } from "./markup.mjs";
 import { isDirectory, isNoindex, hasLogo } from "./archive.mjs";
+import { collectionsOf, COLLECTION_BY_SLUG } from "./collections.mjs";
 
 const COUNTRY_SLUG_REF = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
 
@@ -15,7 +16,7 @@ const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", dat
 
 /**
  * @param brand
- * @param ctx { sandbox, faq, dates, countryHubs:Set<slug>, related:Brand[] }
+ * @param ctx { sandbox, faq, dates, countryHubs:Set<slug>, collectionHubs:Set<slug>, related:Brand[] }
  */
 // 같은 항목이 여러 벌 들어온 레코드가 있다(예: "창업자: X; CEO: Y; 창업자: X").
 // 중복은 본문과 JSON-LD에 그대로 반복돼 저품질 신호가 되므로 렌더 단계에서 걷어낸다.
@@ -40,7 +41,7 @@ function dedupeSegments(text) {
 }
 
 export function renderBrandPage(brand, ctx) {
-  const { sandbox, faq, countryHubs } = ctx;
+  const { sandbox, faq, countryHubs, collectionHubs } = ctx;
   const P = "../";
   const label = koreanName(brand) || latinName(brand) || String(brand.name || "");
   const t = topicParticle(label);
@@ -106,6 +107,7 @@ export function renderBrandPage(brand, ctx) {
   const chips = [];
   if (brand.industry) chips.push(`<a class="chip" href="${catHref}">${esc(brand.industry)}</a>`);
   if (country) chips.push(cslug && countryHubs && countryHubs.has(cslug) ? `<a class="chip" href="${P}country/${cslug}.html">${esc(country)} 브랜드</a>` : `<span class="chip">${esc(country)}</span>`);
+  for (const s of collectionsOf(brand)) if (collectionHubs && collectionHubs.has(s)) chips.push(`<a class="chip" href="${P}collection/${s}.html">${esc(COLLECTION_BY_SLUG.get(s).name)}</a>`);
   if (hasLogo(brand)) chips.push(`<a class="chip" href="#bici">로고</a>`);
   const lead = sandbox.short(brand.definition || brand.summary || "", 260);
   const head = `<div class="brand-head"><div class="wrap"><div class="grid"><div class="info">${crumbs}<h1>${headingMarkup(brand, esc)}</h1><p class="lead">${esc(lead)}</p><div class="meta">${chips.join("")}</div>__UPDATED__</div><div class="logo-panel${hasLogo(brand) ? "" : " is-wordmark"}">${logoImg(brand, P, { lazy: false, width: 480, height: 480 })}</div></div></div></div>`;
