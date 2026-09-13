@@ -22,7 +22,7 @@ const bySlug = new Map();
 for (const b of DATA.allBrands) { bySlug.set(urlSlugOf(b), b); if (b.slug && !bySlug.has(b.slug)) bySlug.set(b.slug, b); }
 const OUT = path.join(ROOT, "magazine");
 const P = "../";
-export const MAG_CSS_V = "20260913d";
+export const MAG_CSS_V = "20260913e";
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,600..900&family=Hahmlet:wght@300..700&display=swap">`;
 const extraHead = `${FONTS}<link rel="stylesheet" href="${P}magazine.css?v=${MAG_CSS_V}">`;
 
