@@ -23,6 +23,7 @@ import { esc, page, collectionJsonLd, breadcrumbs, header, footer } from "./lib/
 import { isListed, isDirectory, byScore, hasLogo, hasKoreanName, groupByIndex, chosungString, indexKey, GANADA_KEYS, ALPHA_KEYS, archiveTier } from "./lib/archive.mjs";
 import { tile, tiles, nameList, nameItem, oneLine, brandHref, assetHref, logoImg } from "./lib/markup.mjs";
 import { COLLECTIONS, collectionsOf, publishedCollections } from "./lib/collections.mjs";
+import { loadArticles, referencedSlugs } from "./lib/magazine.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -32,6 +33,9 @@ const LISTED = BRANDS.filter(isListed);
 const DIRECTORY = BRANDS.filter(isDirectory);
 const total = BRANDS.length;
 const listedTotal = LISTED.length;
+// 아틀라스 매거진 — 공개일이 지난 기사만(build-magazine과 같은 기준). 최신순.
+const ARTICLES = loadArticles(ROOT).sort((a, b) => b.date.localeCompare(a.date) || a.order - b.order);
+const BRAND_BY_SLUG = new Map(BRANDS.map(b => [urlSlugOf(b), b]));
 const byName = (a, b) => String(koreanName(a) || a.name).localeCompare(String(koreanName(b) || b.name), "ko");
 const kstDay = (ms) => new Date(ms + 9 * 3600e3).toISOString().slice(0, 10);
 const TODAY = kstDay(Date.now());
@@ -77,7 +81,7 @@ function hubListing(items, { tileCount = 48, directoryItems = [], prefix = P } =
   let html = tiles(top, prefix, { sub: "origin", size: "", desc: true });
   if (rest.length) html += `<h2 class="sr-only">전체 목록</h2><div style="margin-top:26px">${nameList(rest, prefix, { desc: true })}</div>`;
   if (directoryItems.length) {
-    html += `<details class="fold"><summary>디렉토리 등급 항목 ${directoryItems.length}개 (한글 표기·로고 미확인)</summary>${nameList([...directoryItems].sort(byName), prefix)}</details>`;
+    html += `<details class="fold"><summary>더 보기 — 원어 표기 브랜드 ${directoryItems.length}개</summary>${nameList([...directoryItems].sort(byName), prefix)}</details>`;
   }
   return html;
 }
@@ -107,7 +111,7 @@ for (const [slug, g] of industryGroups) {
   facts.push(...hubFacts(g.items));
   const title = `${g.label} 브랜드 ${g.items.length}개 — 로고·역사·설립 정보 | 브랜드 아틀라스`;
   const desc = `${g.label} 브랜드 ${g.items.length}개를 로고와 함께 정리한 목록. ${topCountries.length ? `${topCountries.map(([c]) => c).join("·")} 등 ` : ""}각 브랜드의 설립 배경과 아이덴티티, 로고 변천사를 확인할 수 있습니다.`;
-  const body = `${hubHead("산업별 브랜드", `${esc(g.label)} 브랜드 <span class="en count">${g.items.length}</span>`, esc(lead), crumbsHub(g.label))}
+  const body = `${hubHead("산업별 브랜드", `${esc(g.label)} 브랜드 <span class="en count">${Number(g.items.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(g.label))}
 <div class="wrap section"><div class="section-head"><h2>다른 산업 보기</h2></div>${categoryChips(slug)}<p class="hub-note" style="margin-top:22px">${esc(facts.join(" "))}</p></div>
 <div class="wrap section" id="cat-${slug}"><div class="section-head"><h2>${esc(g.label)} 브랜드 목록</h2><p>품질 점수 순 상위는 로고 타일로, 나머지는 가나다순 목록으로 보입니다.</p></div>${hubListing(g.items, { directoryItems: g.directory })}</div>`;
   writeIfChanged(path.join(ROOT, "category", `${slug}.html`), page({
@@ -140,7 +144,7 @@ for (const [c, arr] of countryGroups) {
   const facts = [];
   if (topInd.length) facts.push(`산업별로는 ${topInd.map(([i, n]) => `${i} ${n}개`).join(", ")} 순입니다.`);
   facts.push(...hubFacts(arr));
-  const head = hubHead("국가별 브랜드", `${esc(c)} 브랜드 <span class="en count">${arr.length}</span>`, esc(lead), crumbsHub(`${c} 브랜드`));
+  const head = hubHead("국가별 브랜드", `${esc(c)} 브랜드 <span class="en count">${Number(arr.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(`${c} 브랜드`));
   const rest = `<div class="wrap section"><p class="hub-note">${esc(facts.join(" "))}</p></div><div class="wrap section" id="country-${slug}"><div class="section-head"><h2>${esc(c)} 브랜드 목록</h2></div>${hubListing(arr)}</div>`;
   const prose = prosePreview(head + rest);
   if (prose < HUB_MIN_PROSE) {
@@ -203,7 +207,7 @@ for (const { c, arr } of collectionDrafts) {
   const lead = `${c.lead} 브랜드 아틀라스에 수록된 ${c.name} ${arr.length}개를 로고와 함께 정리했습니다. 편입 기준은 위키데이터의 분류와 업종 정보, 그리고 편집자가 브랜드 설명을 확인한 경우로 한정했습니다.`;
   const title = `${c.name} ${arr.length}개 — 로고·역사·아이덴티티 | 브랜드 아틀라스`;
   const desc = `${c.name}(${c.en}) ${arr.length}개를 로고와 함께 모은 컬렉션. ${[...arr].sort(byScore).slice(0, 4).map(b => koreanName(b) || latinName(b) || b.name).join("·")} 등 각 브랜드의 설립 배경과 아이덴티티, 로고 변천을 정리했습니다.`;
-  const body = `${hubHead("컬렉션", `${esc(c.name)} <span class="en count">${arr.length}</span>`, esc(lead), crumbsHub(c.name))}
+  const body = `${hubHead("컬렉션", `${esc(c.name)} <span class="en count">${Number(arr.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(c.name))}
 <div class="wrap section"><div class="section-head"><h2>다른 컬렉션 보기</h2><a class="more" href="${P}pages/collections.html">컬렉션 전체 →</a></div>${collectionChips(c.slug)}<p class="hub-note" style="margin-top:22px">${esc(facts.join(" "))}</p></div>
 <div class="wrap section" id="collection-${c.slug}"><div class="section-head"><h2>${esc(c.name)} 목록</h2><p>품질 점수 순 상위는 로고 타일로, 나머지는 가나다순 목록으로 보입니다.</p></div>${hubListing(arr)}</div>`;
   if (prosePreview(body) < HUB_MIN_PROSE) console.warn(`  collection/${c.slug}: 본문 ${prosePreview(body)}자 < ${HUB_MIN_PROSE}`);
@@ -227,7 +231,7 @@ console.log(`collection/: ${collectionDrafts.length} pages (${collectionDrafts.m
   const title = `브랜드 컬렉션 ${collectionDrafts.length}개 — AI·핀테크·항공사·박물관 등 테마별 | 브랜드 아틀라스`;
   const desc = `산업 분류와 별도로 AI 브랜드, 핀테크·결제, 은행, 에너지, 항공사, 박물관·미술관, 패스트푸드, 카페 등 테마별로 브랜드를 모은 컬렉션 ${collectionDrafts.length}개입니다.`;
   const lead = "산업 분류가 브랜드가 무엇을 파는지로 나눈다면, 컬렉션은 같은 관점에서 함께 볼 만한 브랜드를 묶습니다. 한 브랜드가 여러 컬렉션에 들어갈 수 있고, 편입 기준은 위키데이터 분류와 편집자 확인으로 한정했습니다.";
-  const body = `${hubHead("컬렉션", `테마별 브랜드 컬렉션 <span class="en count">${collectionDrafts.length}</span>`, esc(lead), crumbsHub("컬렉션"))}<div class="wrap section"><div class="cat-grid">${cards}</div></div>`;
+  const body = `${hubHead("컬렉션", `테마별 브랜드 컬렉션 <span class="en count">${Number(collectionDrafts.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub("컬렉션"))}<div class="wrap section"><div class="cat-grid">${cards}</div></div>`;
   writeIfChanged(path.join(ROOT, "pages", "collections.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "collections", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "컬렉션", url }] }) }));
 }
 
@@ -239,7 +243,7 @@ const indexNav = (current = "", prefix = P) => `<nav class="index-nav" aria-labe
   const groups = indexGroups.map(([k, arr]) => `<section class="group" id="idx-${esc(k)}"><h2>${esc(k)} <small>${arr.length}개</small></h2>${nameList(arr)}</section>`).join("");
   const title = `브랜드 사전 가나다·ABC 색인 — ${listedTotal}개 브랜드 | 브랜드 아틀라스`;
   const desc = `브랜드 아틀라스에 수록된 브랜드 ${listedTotal}개를 한글 가나다순과 알파벳순으로 찾아보는 색인. 한글 표기와 원어 표기를 함께 적어 어느 쪽으로도 찾을 수 있습니다.`;
-  const body = `${hubHead("브랜드 사전", `가나다 · ABC 색인 <span class="en count">${listedTotal}</span>`, esc("한글 표기는 첫 글자의 초성으로, 원어 표기는 첫 알파벳으로 묶었습니다. 두 표기가 모두 있는 브랜드는 양쪽 색인에 다 있어서, 오픈AI는 ㅇ에서도 O에서도 찾을 수 있습니다. 된소리(ㄲ·ㄸ·ㅃ·ㅆ·ㅉ)는 사전 관행대로 예사소리에 합쳤습니다."), crumbsHub("가나다 색인"))}<div class="wrap">${indexNav()}${groups}</div>`;
+  const body = `${hubHead("브랜드 사전", `가나다 · ABC 색인 <span class="en count">${Number(listedTotal).toLocaleString("en-US")}</span>`, esc("한글 표기는 첫 글자의 초성으로, 원어 표기는 첫 알파벳으로 묶었습니다. 두 표기가 모두 있는 브랜드는 양쪽 색인에 다 있어서, 오픈AI는 ㅇ에서도 O에서도 찾을 수 있습니다. 된소리(ㄲ·ㄸ·ㅃ·ㅆ·ㅉ)는 사전 관행대로 예사소리에 합쳤습니다."), crumbsHub("가나다 색인"))}<div class="wrap">${indexNav()}${groups}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "ganada.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "ganada", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "가나다 색인", url }] }) }));
   console.log(`pages/ganada.html: ${indexGroups.length} groups`);
 }
@@ -250,13 +254,13 @@ const indexNav = (current = "", prefix = P) => `<nav class="index-nav" aria-labe
   const sections = industryGroups.map(([slug, g]) => `<section class="group" id="ind-${slug}"><h2><a href="${P}category/${slug}.html">${esc(g.label)}</a> <small>${g.items.length}개</small></h2>${nameList([...g.items].sort(byName))}</section>`).join("");
   const title = `전체 브랜드 목록 ${listedTotal}개 — 산업별 브랜드 사전 | 브랜드 아틀라스`;
   const desc = `브랜드 아틀라스에 수록된 ${listedTotal}개 브랜드를 산업별로 정리한 전체 목록. 각 브랜드의 로고·설립 역사·아이덴티티·제품·현재 상태를 확인할 수 있습니다.`;
-  const body = `${hubHead("전체 목록", `전체 브랜드 목록 <span class="en count">${listedTotal}</span>`, esc(`산업 ${industryGroups.length}개 분류로 정리했습니다. 한글 표기와 로고가 모두 확인되지 않은 ${DIRECTORY.length}개 항목은 디렉토리 등급으로 분리해 별도 목록에 두었습니다.`), crumbsHub("전체 브랜드"))}<div class="wrap section" style="padding-bottom:0">${categoryChips("")}<p class="hub-note" style="margin-top:16px"><a class="more" href="${P}pages/ganada.html">가나다 · ABC 색인으로 보기 →</a> &nbsp; <a class="more" href="${P}pages/directory.html">디렉토리 등급 ${DIRECTORY.length}개 →</a></p></div><div class="wrap">${sections}</div>`;
+  const body = `${hubHead("전체 목록", `전체 브랜드 목록 <span class="en count">${Number(listedTotal).toLocaleString("en-US")}</span>`, esc(`산업 ${industryGroups.length}개 분류로 정리했습니다. 한글 표기와 로고가 모두 확인되지 않은 ${DIRECTORY.length}개 항목은 디렉토리 등급으로 분리해 별도 목록에 두었습니다.`), crumbsHub("전체 브랜드"))}<div class="wrap section" style="padding-bottom:0">${categoryChips("")}<p class="hub-note" style="margin-top:16px"><a class="more" href="${P}pages/ganada.html">가나다 · ABC 색인으로 보기 →</a> &nbsp; <a class="more" href="${P}pages/directory.html">디렉토리 등급 ${DIRECTORY.length}개 →</a></p></div><div class="wrap">${sections}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "brands.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "ganada", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "전체 브랜드", url }] }) }));
 
   const durl = `${ORIGIN}/pages/directory.html`;
   const dsections = industryGroups.filter(([, g]) => g.directory.length).map(([slug, g]) => `<section class="group"><h2><a href="${P}category/${slug}.html">${esc(g.label)}</a> <small>${g.directory.length}개</small></h2>${nameList([...g.directory].sort(byName))}</section>`).join("");
-  const dbody = `${hubHead("디렉토리", `디렉토리 등급 항목 <span class="en count">${DIRECTORY.length}</span>`, esc("한글 표기와 로고가 아직 확인되지 않은 항목입니다. 수록 자료를 그대로 옮긴 페이지이며 목록과 홈에는 올리지 않습니다. 본문이 얇은 항목은 검색 색인에서도 제외됩니다. 한글 표기나 로고가 확인되면 자동으로 본 목록으로 올라갑니다."), crumbsHub("디렉토리"))}<div class="wrap">${dsections}</div>`;
-  writeIfChanged(path.join(ROOT, "pages", "directory.html"), page({ title: `디렉토리 등급 항목 ${DIRECTORY.length}개 | 브랜드 아틀라스`, desc: "한글 표기·로고가 미확인인 수록 항목 목록.", canonical: durl, bodyHtml: dbody, active: "ganada", robots: "noindex,follow" }));
+  const dbody = `${hubHead("원어 표기 브랜드", `원어 표기 브랜드 <span class="en count">${Number(DIRECTORY.length).toLocaleString("en-US")}</span>`, esc("국내에서 통용되는 한글 표기가 확인되지 않아 원어로만 싣는 브랜드입니다. 산업별로 모았습니다."), crumbsHub("원어 표기 브랜드"))}<div class="wrap">${dsections}</div>`;
+  writeIfChanged(path.join(ROOT, "pages", "directory.html"), page({ title: `원어 표기 브랜드 ${DIRECTORY.length}개 | 브랜드 아틀라스`, desc: "한글 표기가 확인되지 않아 원어로만 싣는 브랜드를 산업별로 모았습니다.", canonical: durl, bodyHtml: dbody, active: "ganada", robots: "noindex,follow" }));
   console.log(`pages/brands.html: ${listedTotal} / pages/directory.html: ${DIRECTORY.length}`);
 }
 
@@ -296,7 +300,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
   }).join("");
   const title = `브랜드 로고 아카이브 — ${withLogo.length}개 로고·BI/CI 변천 | 브랜드 아틀라스`;
   const desc = `${withLogo.length}개 브랜드의 로고를 산업별로 모은 로고 아카이브. 이 가운데 ${withHist.length}개는 로고 변천사(BI/CI 아카이브)를 함께 수록했습니다.`;
-  const body = `${hubHead("로고 아카이브", `브랜드 로고 아카이브 <span class="en count">${withLogo.length}</span>`, esc(`로고가 확인된 브랜드 ${withLogo.length}개를 산업별로 모았습니다. ${withHist.length}개 브랜드는 상세 페이지에 로고 변천사를 함께 실었습니다. 로고·상표의 권리는 각 브랜드 소유자에게 있으며, 아카이브는 식별과 학습 목적의 자료입니다.`), crumbsHub("로고 아카이브"))}<div class="wrap section" style="padding-bottom:0"><nav class="chips" aria-label="산업 바로가기">${industryGroups.map(([slug, g]) => `<a class="chip" href="#logo-${slug}">${esc(g.label)} <small>${g.items.filter(hasLogo).length}</small></a>`).join("")}</nav></div><div class="wrap">${blocks}</div>`;
+  const body = `${hubHead("로고 아카이브", `브랜드 로고 아카이브 <span class="en count">${Number(withLogo.length).toLocaleString("en-US")}</span>`, esc(`로고가 확인된 브랜드 ${withLogo.length}개를 산업별로 모았습니다. ${withHist.length}개 브랜드는 상세 페이지에 로고 변천사를 함께 실었습니다. 로고·상표의 권리는 각 브랜드 소유자에게 있으며, 아카이브는 식별과 학습 목적의 자료입니다.`), crumbsHub("로고 아카이브"))}<div class="wrap section" style="padding-bottom:0"><nav class="chips" aria-label="산업 바로가기">${industryGroups.map(([slug, g]) => `<a class="chip" href="#logo-${slug}">${esc(g.label)} <small>${g.items.filter(hasLogo).length}</small></a>`).join("")}</nav></div><div class="wrap">${blocks}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "bici.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "bici", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "로고 아카이브", url }] }) }));
   console.log(`pages/bici.html: ${withLogo.length} logos`);
 }
@@ -312,7 +316,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
   const blocks = list.map(([d, rows]) => `<section class="group" id="y-${d}"><h2>${d}년대 <small>${rows.length}개</small></h2><div class="name-list">${rows.map(({ b, y }) => nameItem(b).replace("<span>", `<span><b class="count" style="margin-right:8px;color:var(--red)">${y}</b>`)).join("")}</div></section>`).join("");
   const title = `브랜드 타임라인 — 설립연도로 보는 ${dated.length}개 브랜드 | 브랜드 아틀라스`;
   const desc = `설립연도가 확인된 브랜드 ${dated.length}개를 연대별로 정리한 타임라인. ${list[0] ? `${list[0][0]}년대부터 ${list[list.length - 1][0]}년대까지` : ""} 브랜드의 시작을 시간축으로 읽습니다.`;
-  const body = `${hubHead("타임라인", `브랜드 타임라인 <span class="en count">${dated.length}</span>`, esc("설립연도는 검수된 브랜드 설명이나 공식 웹사이트가 일치하는 위키데이터 개체에서 확인된 값만 씁니다. 모기업 창업연도가 섞이지 않도록 원본의 연도 필드는 쓰지 않습니다."), crumbsHub("타임라인"))}<div class="wrap">${nav}${blocks}</div>`;
+  const body = `${hubHead("타임라인", `브랜드 타임라인 <span class="en count">${Number(dated.length).toLocaleString("en-US")}</span>`, esc("설립연도는 검수된 브랜드 설명이나 공식 웹사이트가 일치하는 위키데이터 개체에서 확인된 값만 씁니다. 모기업 창업연도가 섞이지 않도록 원본의 연도 필드는 쓰지 않습니다."), crumbsHub("타임라인"))}<div class="wrap">${nav}${blocks}</div>`;
   writeIfChanged(path.join(ROOT, "pages", "timeline.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "timeline", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "타임라인", url }] }) }));
   console.log(`pages/timeline.html: ${dated.length} dated brands`);
 }
@@ -324,7 +328,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
   const entries = withInsight.map(b => `<a class="recent" style="display:flex" href="${brandHref(b)}">${hasLogo(b) ? `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(String(b.insight).replace(/\s+/g, " ").slice(0, 140))}</small></span></a>`).join("");
   const title = `브랜드 인사이트 — ${withInsight.length}개 브랜드의 관점 | 브랜드 아틀라스`;
   const desc = `브랜드마다 한 줄로 정리한 관점(인사이트) ${withInsight.length}개. 각 브랜드가 시장에서 어떤 위치와 태도를 취하는지 요약합니다.`;
-  const body = `${hubHead("인사이트", `브랜드 인사이트 <span class="en count">${withInsight.length}</span>`, esc("각 브랜드 페이지의 '어떻게 봐야 할까' 절을 한 줄로 요약한 관점 모음입니다. 항목을 누르면 브랜드 상세로 이동합니다."), crumbsHub("인사이트"))}<div class="wrap section"><div class="recent" style="grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr))">${entries}</div></div>`;
+  const body = `${hubHead("인사이트", `브랜드 인사이트 <span class="en count">${Number(withInsight.length).toLocaleString("en-US")}</span>`, esc("각 브랜드 페이지의 '어떻게 봐야 할까' 절을 한 줄로 요약한 관점 모음입니다. 항목을 누르면 브랜드 상세로 이동합니다."), crumbsHub("인사이트"))}<div class="wrap section"><div class="recent" style="grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr))">${entries}</div></div>`;
   writeIfChanged(path.join(ROOT, "pages", "insights.html"), page({ title, desc, canonical: url, bodyHtml: body, active: "insights", jsonLd: collectionJsonLd({ name: title, description: desc, url, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "인사이트", url }] }) }));
   console.log(`pages/insights.html: ${withInsight.length} entries`);
 }
@@ -343,7 +347,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
 <ul><li><b>없는 표기를 만들지 않습니다.</b> 브랜드명은 한글과 원어를 함께 적되, 확인된 한글 표기가 없는 브랜드는 원어만 씁니다. 임의로 음차하지 않습니다.</li>
 <li><b>검증된 사실만 표에 넣습니다.</b> 기원 국가와 설립연도는 검수된 브랜드 설명에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 정확히 일치하는 위키데이터 개체의 값을 씁니다. 현재 소유주의 국적이나 모기업의 창업연도는 기원 정보로 쓰지 않습니다. 빈 칸은 채우지 않습니다.</li>
 <li><b>개체 연결은 URL 일치로만 합니다.</b> 위키데이터·위키백과 링크(sameAs)는 공식 웹사이트가 완전히 일치하는 ${stats.entity}개 브랜드에만 붙어 있습니다. 이름이 비슷하다는 이유로 연결하지 않습니다.</li>
-<li><b>등급을 나눕니다.</b> 한글 표기와 로고가 모두 확인되지 않은 항목은 디렉토리 등급으로 분류해 목록과 홈에서 분리합니다. 그 가운데 본문이 얇은 항목은 검색 색인에서도 제외합니다. 자료가 보강되면 자동으로 본 목록에 올라갑니다.</li>
+<li><b>확인되지 않은 표기는 원어로 둡니다.</b> 한글 표기와 로고가 모두 확인되지 않은 브랜드는 <a href="${P}pages/directory.html">원어 표기 브랜드</a> 목록에 따로 모읍니다. 표기나 로고가 확인되면 본 목록으로 옮깁니다.</li>
 <li><b>갱신일은 실제 변경이 있을 때만 바꿉니다.</b> 본문이 바뀐 페이지만 '최종 업데이트'가 갱신됩니다.</li></ul>
 <h2>로고와 상표에 대해</h2><p>로고·상표의 권리는 각 브랜드 소유자에게 있습니다. 브랜드 아틀라스는 브랜드를 식별하고 그 역사를 설명하기 위한 자료로 로고를 싣습니다. 권리자가 삭제나 수정을 원하면 <a href="${P}pages/contact.html">문의</a>로 알려 주시면 확인 후 처리합니다.</p>
 <h2>운영</h2><p>브랜드성장연구소 아키타이포스가 기획·편집·운영합니다. 데이터 보강과 페이지 생성은 자동화되어 있으며, 사실 검증 기준은 위 편집 원칙을 따릅니다. 사이트 이용 통계는 Google Analytics로 집계하며 자세한 내용은 <a href="${P}pages/privacy.html">개인정보 처리방침</a>에 있습니다.</p>
@@ -360,12 +364,15 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
 <h2>2. 이용자가 제출하는 정보</h2>
 <p>문의 페이지로 보내는 내용(문의 내용, 회신을 위해 적어 주신 연락처)은 문의 처리 목적으로만 사용하며, 처리 완료 후 1년 이내에 삭제합니다.</p>
 <h2>3. 제3자 제공과 위탁</h2>
-<p>수집한 정보는 법령에 따른 요청이 있는 경우를 제외하고 제3자에게 제공하지 않습니다. 이용 통계 처리는 Google LLC(Google Analytics)에 위탁되며, 웹 폰트는 jsDelivr CDN에서 제공됩니다. 이 과정에서 해당 서비스에 접속 정보가 전달될 수 있습니다.</p>
-<h2>4. 외부 링크</h2>
+<p>수집한 정보는 법령에 따른 요청이 있는 경우를 제외하고 제3자에게 제공하지 않습니다. 이용 통계 처리는 Google LLC(Google Analytics)에 위탁되며, 웹 폰트는 jsDelivr CDN과 Google Fonts에서 제공됩니다. 이 과정에서 해당 서비스에 접속 정보가 전달될 수 있습니다.</p>
+<h2>4. 광고와 쿠키</h2>
+<p>사이트에 Google 애드센스 광고를 게재하는 경우, Google을 포함한 제3자 광고 사업자는 쿠키를 사용해 이용자가 이 사이트와 다른 사이트를 방문한 기록을 바탕으로 광고를 게재합니다. Google은 광고 쿠키를 사용해 이 사이트와 인터넷의 다른 사이트 방문 기록에 기반한 맞춤 광고를 제공할 수 있습니다.</p>
+<p>맞춤 광고를 원하지 않으면 <a href="https://adssettings.google.com" rel="noopener" target="_blank">Google 광고 설정</a>에서 해제할 수 있습니다. 제3자 사업자의 맞춤 광고 쿠키는 <a href="https://www.aboutads.info/choices/" rel="noopener" target="_blank">aboutads.info</a>에서 해제할 수 있으며, 브라우저 설정으로 쿠키 저장을 거부할 수도 있습니다.</p>
+<h2>5. 외부 링크</h2>
 <p>사이트에는 각 브랜드의 공식 웹사이트, 위키데이터, 위키백과로 가는 외부 링크가 있습니다. 외부 사이트의 개인정보 처리에 대해서는 해당 사이트의 방침이 적용됩니다.</p>
-<h2>5. 문의</h2>
+<h2>6. 문의</h2>
 <p>개인정보 처리에 관한 문의는 <a href="${P}pages/contact.html">문의 페이지</a>로 보내 주세요. 운영 주체는 브랜드성장연구소 아키타이포스입니다.</p>
-<p class="muted">시행일: 2026년 9월 7일</p>
+<p class="muted">시행일: 2026년 9월 7일 · 개정일: 2026년 9월 13일(광고와 쿠키 조항 추가)</p>
 </article></div>`;
   writeIfChanged(path.join(ROOT, "pages", "privacy.html"), page({ title: "개인정보 처리방침 | 브랜드 아틀라스", desc: "브랜드 아틀라스의 개인정보 처리방침. 회원 가입 없이 이용하는 정보 사이트이며 접속 로그와 Google Analytics 이용 통계만 자동 수집됩니다.", canonical: `${ORIGIN}/pages/privacy.html`, bodyHtml: privacy, active: "" }));
 
@@ -427,9 +434,13 @@ const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(is
     const end = Math.max(cut.lastIndexOf("다. "), cut.lastIndexOf("다."));
     return end > 200 ? cut.slice(0, end + 2) : `${cut.trimEnd()}…`;
   })();
+  // 매거진 — 브랜드 여러 곳을 한 주제로 엮은 기획 기사(최신 3편).
+  const magLogos = (a) => referencedSlugs(a).map(sl => BRAND_BY_SLUG.get(sl)).filter(b => b && hasLogo(b)).slice(0, 5);
+  const magTeaser = ARTICLES.length ? `<section class="section mag-teaser"><div class="wrap"><div class="section-head"><h2>아틀라스 매거진</h2><p>브랜드 여러 곳을 나란히 놓고 읽는 기획 기사</p><a class="more" href="${H}magazine/">이번 호 전체 →</a></div><div class="mag-cards">${ARTICLES.slice(0, 3).map(a => `<a class="mag-card" href="${H}magazine/${a.slug}.html"><small>No.${String(a.issue).padStart(2, "0")} · ${esc(a.kicker)}</small><b>${esc(a.title)}</b><p>${esc(a.dek)}</p><span class="logos">${magLogos(a).map(b => `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">`).join("")}</span></a>`).join("")}</div></div></section>` : "";
   const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(featuredText)}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div><a class="card photo" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async"></a></div>`;
   const body = `<section class="hero"><div class="wrap"><span class="kicker">브랜드 사전 · 로고 아카이브</span><h1>브랜드의 역사와 <span class="red">아이덴티티</span>를<br>한글로 기록합니다</h1><p class="lead">${stats.brands}개 브랜드의 시작과 성장, 브랜드 아이덴티티, 로고 변천사를 한 페이지에 정리했습니다. 한글 이름으로도, 원어 이름으로도, 초성만으로도 찾을 수 있습니다.</p><form class="hero-search" role="search" action="${H}pages/search.html" method="get"><label class="sr-only" for="home-q">브랜드 검색</label><input id="home-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ, gucci)" autocomplete="off"><button type="submit">검색</button></form><div class="chips"><span class="lbl">인기 검색어</span>${keywords.map(k => `<a class="chip" href="${H}pages/search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("")}</div><div class="stats">${stat("pages/ganada.html", stats.brands, "수록 브랜드")}${stat("pages/bici.html", stats.logos, "로고 이미지")}${stat("pages/industry.html", stats.industries, "산업 분류")}${stat("pages/collections.html", stats.collections, "테마 컬렉션")}${stat("pages/countries.html", stats.countries, "국가 허브")}</div><p class="stats-asof">${TODAY.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (m, y, mo, d) => `${y}년 ${Number(mo)}월 ${Number(d)}일`)} 기준</p></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>오늘의 브랜드</h2><p>한 브랜드를 골라 깊이 읽어 봅니다</p></div>${feat}</div></section>
+${magTeaser}
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${PINNED_STYLE}<div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>주요 브랜드</h2><p>한글 표기·로고·본문을 모두 갖춘 브랜드 가운데 자료가 풍부한 순</p></div>${tiles(popular, H, { sub: "origin", size: "lg", eagerFirst: true })}<p style="margin-top:18px"><a class="btn ghost" href="${H}pages/bici.html">로고 아카이브 전체 보기</a></p></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p><a class="more" href="${H}rss.xml">RSS 구독 →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
@@ -514,7 +525,10 @@ const hubEntries = [
   ...industryGroups.map(([slug]) => [`/category/${slug}.html`, `category/${slug}.html`]),
   ...countryDrafts.map(({ slug }) => [`/country/${slug}.html`, `country/${slug}.html`]),
   ...collectionDrafts.map(({ c }) => [`/collection/${c.slug}.html`, `collection/${c.slug}.html`]),
-].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)]);
+  ...(ARTICLES.length ? [["/magazine/", "magazine/index.html"]] : []),
+].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)])
+  // 기사 lastmod는 원고의 공개일·수정일(파일 mtime은 재빌드마다 바뀐다).
+  .concat(ARTICLES.map(a => [`${ORIGIN}/magazine/${a.slug}.html`, a.modified || a.date]));
 const brandEntries = indexable.map(b => {
   const slug = urlSlugOf(b);
   const led = pageDateLedger[slug];
@@ -543,7 +557,8 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     const text = String(b.definition || b.summary || b.insight || "").slice(0, 280);
     return `    <item><title>${esc(displayName(b))}</title><link>${link}</link><guid isPermaLink="true">${link}</guid><category>${esc(b.industry || "")}</category><pubDate>${new Date(`${d}T00:00:00+09:00`).toUTCString()}</pubDate><description>${esc(text)}</description></item>`;
   }).join("\n");
-  writeIfChanged(path.join(ROOT, "rss.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n  <channel>\n    <title>브랜드 아틀라스 — 브랜드 사전·로고 아카이브</title>\n    <link>${ORIGIN}/</link>\n    <atom:link href="${ORIGIN}/rss.xml" rel="self" type="application/rss+xml"/>\n    <description>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 수록 ${listedTotal}개 브랜드 중 최근 갱신분.</description>\n    <language>ko</language>\n    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n${items}\n  </channel>\n</rss>\n`);
+  const magItems = ARTICLES.map(a => { const link = `${ORIGIN}/magazine/${a.slug}.html`; return `    <item><title>${esc(`[매거진] ${a.title}`)}</title><link>${link}</link><guid isPermaLink="true">${link}</guid><category>아틀라스 매거진</category><pubDate>${new Date(`${a.date}T06:00:00+09:00`).toUTCString()}</pubDate><description>${esc(a.dek)}</description></item>`; }).join("\n");
+  writeIfChanged(path.join(ROOT, "rss.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n  <channel>\n    <title>브랜드 아틀라스 — 브랜드 사전·로고 아카이브</title>\n    <link>${ORIGIN}/</link>\n    <atom:link href="${ORIGIN}/rss.xml" rel="self" type="application/rss+xml"/>\n    <description>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 수록 ${listedTotal}개 브랜드 중 최근 갱신분.</description>\n    <language>ko</language>\n    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n${magItems ? `${magItems}\n` : ""}${items}\n  </channel>\n</rss>\n`);
   console.log(`rss.xml: ${ranked.length} items`);
 }
 
@@ -588,6 +603,7 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     "## 기원 국가",
     ...countryDrafts.map(({ c, slug, arr }) => `- [${c}](${ORIGIN}/country/${slug}.html): ${arr.length}개 브랜드`),
     "",
+    ...(ARTICLES.length ? ["## 아틀라스 매거진", ...ARTICLES.map(a => `- [${a.title}](${ORIGIN}/magazine/${a.slug}.html): ${a.dek}`), ""] : []),
     "## 주요 브랜드",
     ...top.map(b => `- [${displayName(b)}](${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html): ${String(b.definition || b.summary || "").replace(/\s+/g, " ").slice(0, 120)}`),
     "",

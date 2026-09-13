@@ -1,17 +1,17 @@
 # 브랜드 아틀라스 (Brand Atlas)
 > 브랜드의 설립 배경, 브랜드 아이덴티티, 로고(BI/CI) 변천, 제품과 서비스, 현재 상태를 정리한 한국어 브랜드 사전입니다.
-> 수록 브랜드 2172개(목록 노출 1902개 + 디렉토리 등급 270개), 색인 대상 2148개, 로고 이미지 1655개. 운영 브랜드성장연구소 아키타이포스.
+> 수록 브랜드 2390개(목록 노출 2161개 + 디렉토리 등급 229개), 색인 대상 2342개, 로고 이미지 1825개. 운영 브랜드성장연구소 아키타이포스.
 
 ## 데이터 원칙
 - 브랜드명은 한글과 원어를 함께 표기합니다. 데이터에 없는 표기는 만들지 않습니다.
 - 기원 국가·설립연도는 검수된 정의문에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 완전히 일치하는 위키데이터 개체의 값을 씁니다.
-- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 1095개 브랜드에만 붙어 있습니다.
+- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 1313개 브랜드에만 붙어 있습니다.
 - 각 브랜드 페이지에는 검증된 값만 담은 '브랜드 정보' 표와 출처 절이 있습니다.
 
 ## 허브
 - [가나다·ABC 색인](https://brandatlas.co.kr/pages/ganada.html): 전체 브랜드 색인
 - [산업별](https://brandatlas.co.kr/pages/industry.html): 15개 산업
-- [국가별](https://brandatlas.co.kr/pages/countries.html): 18개국
+- [국가별](https://brandatlas.co.kr/pages/countries.html): 19개국
 - [컬렉션](https://brandatlas.co.kr/pages/collections.html): 10개 테마(AI·핀테크·항공사 등)
 - [로고 아카이브](https://brandatlas.co.kr/pages/bici.html): 로고·BI/CI 변천
 - [타임라인](https://brandatlas.co.kr/pages/timeline.html): 설립연도별
@@ -20,52 +20,58 @@
 
 ## 산업 카테고리
 - [AI·인공지능](https://brandatlas.co.kr/category/ai.html): 22개 브랜드
-- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 363개 브랜드
+- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 367개 브랜드
+- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 259개 브랜드
 - [브랜드·비즈니스](https://brandatlas.co.kr/category/brand-business.html): 254개 브랜드
-- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 230개 브랜드
-- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 184개 브랜드
-- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 138개 브랜드
-- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 116개 브랜드
-- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 106개 브랜드
-- [금융](https://brandatlas.co.kr/category/finance.html): 106개 브랜드
-- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 82개 브랜드
-- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 73개 브랜드
-- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 65개 브랜드
-- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 60개 브랜드
-- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 53개 브랜드
-- [스포츠·아웃도어](https://brandatlas.co.kr/category/sports-outdoor.html): 50개 브랜드
+- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 198개 브랜드
+- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 169개 브랜드
+- [금융](https://brandatlas.co.kr/category/finance.html): 160개 브랜드
+- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 149개 브랜드
+- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 123개 브랜드
+- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 107개 브랜드
+- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 95개 브랜드
+- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 79개 브랜드
+- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 66개 브랜드
+- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 62개 브랜드
+- [스포츠·아웃도어](https://brandatlas.co.kr/category/sports-outdoor.html): 51개 브랜드
 
 ## 컬렉션
-- [핀테크·결제](https://brandatlas.co.kr/collection/fintech.html): 28개 브랜드
-- [은행·금융](https://brandatlas.co.kr/collection/banking.html): 50개 브랜드
-- [에너지](https://brandatlas.co.kr/collection/energy.html): 33개 브랜드
-- [부동산·건설](https://brandatlas.co.kr/collection/property.html): 29개 브랜드
+- [핀테크·결제](https://brandatlas.co.kr/collection/fintech.html): 31개 브랜드
+- [은행·금융](https://brandatlas.co.kr/collection/banking.html): 55개 브랜드
+- [에너지](https://brandatlas.co.kr/collection/energy.html): 47개 브랜드
+- [부동산·건설](https://brandatlas.co.kr/collection/property.html): 36개 브랜드
 - [항공사](https://brandatlas.co.kr/collection/airlines.html): 61개 브랜드
 - [박물관·미술관](https://brandatlas.co.kr/collection/museums.html): 24개 브랜드
 - [패스트푸드](https://brandatlas.co.kr/collection/fast-food.html): 39개 브랜드
 - [카페·커피](https://brandatlas.co.kr/collection/cafes.html): 28개 브랜드
-- [디지털 서비스](https://brandatlas.co.kr/collection/digital-services.html): 77개 브랜드
+- [디지털 서비스](https://brandatlas.co.kr/collection/digital-services.html): 78개 브랜드
 - [올림픽·엑스포](https://brandatlas.co.kr/collection/olympics-expos.html): 15개 브랜드
 
 ## 기원 국가
-- [미국](https://brandatlas.co.kr/country/usa.html): 444개 브랜드
-- [한국](https://brandatlas.co.kr/country/korea.html): 367개 브랜드
-- [영국](https://brandatlas.co.kr/country/uk.html): 77개 브랜드
+- [미국](https://brandatlas.co.kr/country/usa.html): 680개 브랜드
+- [한국](https://brandatlas.co.kr/country/korea.html): 368개 브랜드
+- [영국](https://brandatlas.co.kr/country/uk.html): 82개 브랜드
 - [독일](https://brandatlas.co.kr/country/germany.html): 74개 브랜드
 - [일본](https://brandatlas.co.kr/country/japan.html): 50개 브랜드
 - [프랑스](https://brandatlas.co.kr/country/france.html): 38개 브랜드
 - [이탈리아](https://brandatlas.co.kr/country/italy.html): 30개 브랜드
-- [네덜란드](https://brandatlas.co.kr/country/netherlands.html): 29개 브랜드
+- [네덜란드](https://brandatlas.co.kr/country/netherlands.html): 30개 브랜드
 - [스위스](https://brandatlas.co.kr/country/switzerland.html): 18개 브랜드
 - [러시아](https://brandatlas.co.kr/country/russia.html): 18개 브랜드
-- [스웨덴](https://brandatlas.co.kr/country/sweden.html): 14개 브랜드
-- [캐나다](https://brandatlas.co.kr/country/canada.html): 14개 브랜드
+- [스웨덴](https://brandatlas.co.kr/country/sweden.html): 15개 브랜드
+- [캐나다](https://brandatlas.co.kr/country/canada.html): 15개 브랜드
+- [중국](https://brandatlas.co.kr/country/china.html): 11개 브랜드
 - [스페인](https://brandatlas.co.kr/country/spain.html): 10개 브랜드
-- [중국](https://brandatlas.co.kr/country/china.html): 10개 브랜드
+- [아일랜드](https://brandatlas.co.kr/country/ireland.html): 8개 브랜드
 - [벨기에](https://brandatlas.co.kr/country/belgium.html): 7개 브랜드
 - [오스트리아](https://brandatlas.co.kr/country/austria.html): 6개 브랜드
+- [뉴질랜드](https://brandatlas.co.kr/country/new-zealand.html): 6개 브랜드
 - [노르웨이](https://brandatlas.co.kr/country/norway.html): 5개 브랜드
-- [뉴질랜드](https://brandatlas.co.kr/country/new-zealand.html): 5개 브랜드
+
+## 아틀라스 매거진
+- [AI는 어떤 얼굴을 고르는가](https://brandatlas.co.kr/magazine/ai-brand-faces.html): 파랑과 보라의 그러데이션이 AI의 기본값처럼 굳어지는 동안, 몇몇 회사는 울새와 말, 세포와 별표를 골랐다. 새 옷을 입은 AI 브랜드 아홉 곳을 나란히 놓고 읽는다.
+- [로고 뒤에서 일한 사람들](https://brandatlas.co.kr/magazine/studios-behind-logos.html): 울프 올린스가 트럭 기사를 인터뷰하던 1967년부터 랜도가 타파웨어의 뚜껑을 그린 2024년까지. 다섯 스튜디오의 작업으로 리브랜딩이라는 일이 어떻게 달라져 왔는지 따라간다.
+- [간판을 바꾼 날](https://brandatlas.co.kr/magazine/renamed-companies.html): 시계 무브먼트의 이름이 회사 이름이 되고, 금성사가 LG가 되고, 페이스북이 메타가 됐다. 회사는 언제 자기 이름을 버리는가. 사명을 바꾼 열여섯 곳의 기록을 세 갈래로 나눠 읽는다.
 
 ## 주요 브랜드
 - [러쉬(LUSH)](https://brandatlas.co.kr/brand/lush.html): 러쉬(LUSH)는 신선한 천연 원료로 만든 핸드메이드 화장품을 판매하는 영국 코스메틱 브랜드이다.
@@ -78,12 +84,12 @@
 - [네슬레(Nestlé)](https://brandatlas.co.kr/brand/nestl.html): 네슬레(Nestlé)는 스위스 브베에 본사를 둔 세계 최대 규모의 식음료 다국적 기업이다.
 - [말보로(Marlboro)](https://brandatlas.co.kr/brand/marlboro.html): 말보로(Marlboro)는 필립 모리스가 1924년 도입한 미국의 담배 브랜드이다.
 - [페라리(FERRARI)](https://brandatlas.co.kr/brand/ferrari.html): 페라리(Ferrari)는 이탈리아 마라넬로에 본사를 둔 럭셔리 스포츠카 제조사이다.
-- [애플(Apple)](https://brandatlas.co.kr/brand/apple.html): 애플에게 혁신은 일회성 전략이 아니라 조직의 습관처럼 반복되는 브랜드 행동이다. 애플은 새로움을 캠페인으로만 말하지 않는다. 제품, 인터페이스, 매장, 발표 방식까지 같은 태도로 정렬해 변화 자체를 브랜드의 일상적 
 - [유니클로(Uniqlo)](https://brandatlas.co.kr/brand/uniqlo.html): 유니클로는 패션을 유행의 장식이 아니라 생활을 구성하는 공산품처럼 다룬다. 브랜드의 힘은 화려한 스타일보다 베이직, 품질, 가격, 운영 시스템을 일관되게 정렬하는 데서 나온다.
 - [까르띠에(Cartier)](https://brandatlas.co.kr/brand/cartier.html): 까르띠에(Cartier)는 1847년 파리에서 설립된 프랑스 럭셔리 주얼리·시계 메종이다.
 - [버버리(BURBERRY)](https://brandatlas.co.kr/brand/burberry.html): 버버리(Burberry)는 1856년 설립된 영국의 럭셔리 패션 하우스이다.
 - [어그(UGG)](https://brandatlas.co.kr/brand/ugg.html): UGG(어그)는 미국 데커스 브랜즈 산하의 양가죽 부츠로 유명한 신발 브랜드이다.
 - [뱅앤올룹슨(Bang & Olufsen)](https://brandatlas.co.kr/brand/bang-and-olufsen.html): 뱅앤올룹슨은 오디오를 가전제품이 아니라 공간 속 오브제로 다루는 브랜드다. 소리의 품질뿐 아니라 제품이 놓이는 방식, 재료, 형태, 조작 경험까지 디자인의 일부로 통합한다.
+- [애플(Apple)](https://brandatlas.co.kr/brand/apple.html): 애플에게 혁신은 일회성 전략이 아니라 조직의 습관처럼 반복되는 브랜드 행동이다. 애플은 새로움을 캠페인으로만 말하지 않는다. 제품, 인터페이스, 매장, 발표 방식까지 같은 태도로 정렬해 변화 자체를 브랜드의 일상적 
 - [롤렉스(ROLEX)](https://brandatlas.co.kr/brand/rolex.html): 롤렉스(Rolex)는 스위스 제네바에 본사를 둔 럭셔리 시계 제조사이다.
 - [뉴발란스(New Balance)](https://brandatlas.co.kr/brand/new-balance.html): 뉴발란스(New Balance)는 미국 보스턴에 기반을 둔 비상장 운동화·스포츠 의류 기업이다.
 - [페덱스(FedEx)](https://brandatlas.co.kr/brand/fedex.html): 페덱스(FedEx)는 미국 멤피스에 본사를 둔 글로벌 특송·물류 기업이다.
@@ -91,10 +97,10 @@
 - [맥도날드(McDonald's)](https://brandatlas.co.kr/brand/mcdonald-s.html): 맥도날드는 가장 평범한 소비재를 세계 어디서나 읽히는 대중문화의 기호로 바꾼 브랜드다. 햄버거와 감자튀김은 단순한 메뉴지만, 맥도날드는 속도, 표준화, 접근성, 익숙함을 결합해 글로벌 일상의 상징을 만들었다. Kan
 - [생 로랑(Yves Saint Laurent)](https://brandatlas.co.kr/brand/yves-saint-laurent.html): 생 로랑(Yves Saint Laurent)은 1961년 파리에서 설립된 프랑스 럭셔리 패션 하우스이다.
 - [하이네켄(Heineken)](https://brandatlas.co.kr/brand/heineken.html): 하이네켄(Heineken)은 1864년 네덜란드 암스테르담에서 창립된 하이네켄 N.V.의 플래그십 페일 라거 맥주 브랜드이다.
-- [코카-콜라(Coca-Cola)](https://brandatlas.co.kr/brand/coca-cola.html): 코카-콜라는 음료의 맛보다 함께 마시는 순간의 감정을 브랜드 자산으로 축적해 왔다. 병의 형태, 색, 광고 언어, 공유의 장면이 반복되면서 제품은 탄산음료를 넘어 친숙함과 즐거움의 상징이 된다.
 - [누디진(Nudie Jeans)](https://brandatlas.co.kr/brand/nudie-jeans.html): 누디진(Nudie Jeans)은 raw 데님과 무상 수선·재활용을 핵심으로 하는 스웨덴의 친환경 청바지 브랜드이다.
 - [도브(Dove)](https://brandatlas.co.kr/brand/dove.html): 도브(Dove)는 유니레버가 1957년 출시한 비누·바디케어 퍼스널케어 브랜드이다.
 - [오픈AI(OpenAI)](https://brandatlas.co.kr/brand/open-ai.html): OpenAI는 미국의 인공지능 연구·개발 기업으로, 대화형 AI 서비스 ChatGPT를 비롯한 생성형 AI 제품으로 널리 알려져 있다. 2015년 설립 이후 빠른 성장을 거듭하며 AI 분야를 대표하는 기업 중 하나로
+- [코카-콜라(Coca-Cola)](https://brandatlas.co.kr/brand/coca-cola.html): 코카-콜라는 음료의 맛보다 함께 마시는 순간의 감정을 브랜드 자산으로 축적해 왔다. 병의 형태, 색, 광고 언어, 공유의 장면이 반복되면서 제품은 탄산음료를 넘어 친숙함과 즐거움의 상징이 된다.
 - [버드와이저(Budweiser)](https://brandatlas.co.kr/brand/budweiser.html): 버드와이저(Budweiser)는 아돌푸스 부시가 1876년 출시한 미국의 아메리칸 라거 맥주 브랜드이다.
 - [볼보(Volvo)](https://brandatlas.co.kr/brand/volvo.html): 볼보(Volvo)는 1927년 스웨덴 예테보리에서 출발한 자동차 브랜드로, 승용차(볼보 자동차)와 상용차(볼보 그룹)로 분리돼 있다.
 - [알레시(ALESSI)](https://brandatlas.co.kr/brand/alessi.html): 알레시(Alessi)는 1921년 조반니 알레시가 이탈리아 오메냐에서 설립한 주방·생활용품 디자인 브랜드다. 금속 가공 공방에서 출발해 세계적 건축가·산업디자이너와 협업한 아이코닉 디자인 오브제로 유명하다.
@@ -106,7 +112,6 @@
 - [갭(GAP)](https://brandatlas.co.kr/brand/gap.html): 갭(Gap)은 1969년 도널드·도리스 피셔 부부가 설립한 미국 캐주얼 의류 리테일 브랜드이다.
 - [토리 버치(Tory Burch)](https://brandatlas.co.kr/brand/tory-burch.html): 토리 버치(Tory Burch)는 2004년 디자이너 토리 버치가 설립한 미국 패션 브랜드이다.
 - [비비안 웨스트우드(Vivienne Westwood)](https://brandatlas.co.kr/brand/vivienne-westwood.html): 비비안 웨스트우드(Vivienne Westwood)는 펑크를 주류 패션으로 끌어올린 영국의 독립 럭셔리 패션 브랜드이다.
-- [아디다스(ADIDAS)](https://brandatlas.co.kr/brand/adidas.html): 아디다스(adidas AG)는 1949년 아디 다슬러(Adolf Dassler)가 독일 헤르초게나우라흐에서 설립한 스포츠웨어 기업으로 운동화·의류·스포츠용품을 제조한다. 그 기원은 1924년 다슬러 형제가 세운 신발
 - [에르메네질도 제냐(Zegna)](https://brandatlas.co.kr/brand/zegna.html): 제냐(Zegna)는 1910년 이탈리아에서 모직 원단 공장으로 출발한 럭셔리 남성복 브랜드이다.
 - [나이키(Nike)](https://brandatlas.co.kr/brand/nike.html): 나이키는 스포츠용품보다 자기극복의 서사를 더 강하게 판매하는 브랜드다. 신발과 의류는 제품이지만, 소비자가 실제로 구매하는 것은 기록을 갱신하고 자신을 증명하고 싶은 감정이다. 나이키의 커뮤니티와 디지털 서비스는 이
 - [스타벅스(Starbucks)](https://brandatlas.co.kr/brand/starbucks.html): 스타벅스는 커피를 팔면서 동시에 사람들이 머무는 시간과 공간의 감각을 설계한다. 음료는 핵심 상품이지만, 브랜드의 차별성은 매장 안에서 보내는 시간, 주문 언어, 조명, 좌석, 컵과 로고가 결합된 체류 경험에서 완성
@@ -118,9 +123,11 @@
 - [지방시(Givenchy)](https://brandatlas.co.kr/brand/givenchy.html): 지방시(Givenchy)는 1952년 위베르 드 지방시가 설립한 프랑스 럭셔리 패션·향수 하우스이다.
 - [클럽메드(CLUB MED)](https://brandatlas.co.kr/brand/club-med.html): 클럽메드(Club Med)는 1950년 설립된 프랑스 기반의 올인클루시브 리조트·여행 브랜드이다.
 - [휴고 보스(HUGO BOSS)](https://brandatlas.co.kr/brand/hugo-boss.html): 휴고 보스(Hugo Boss)는 1924년 독일 메칭겐에서 후고 페르디난트 보스가 설립한 독일 패션 기업이다.
+- [아디다스(ADIDAS)](https://brandatlas.co.kr/brand/adidas.html): 아디다스(adidas AG)는 1949년 아디 다슬러(Adolf Dassler)가 독일 헤르초게나우라흐에서 설립한 스포츠웨어 기업으로 운동화·의류·스포츠용품을 제조한다. 그 기원은 1924년 다슬러 형제가 세운 신발
 - [푸마(Puma)](https://brandatlas.co.kr/brand/puma.html): 푸마(Puma)는 독일 헤르초겐아우라흐에 본사를 둔 스포츠 의류·신발 기업이다.
 - [헨켈(Henkel)](https://brandatlas.co.kr/brand/henkel.html): 헨켈(Henkel)은 1876년 독일에서 설립된 생활화학·접착기술 분야의 다국적 소비재 대기업이다.
 - [젠틀몬스터(Gentle Monster)](https://brandatlas.co.kr/brand/gentle-monster.html): 젠틀몬스터는 2011년 서울에서 김한국이 창립한 한국 럭셔리 아이웨어 브랜드입니다. 선글라스와 안경테를 중심으로 전개하며, 서울 기반의 아이아이컴바인드가 운영합니다. 안경을 단순한 기능 제품이 아니라 패션, 공간, 
+- [로열 더치 쉘(Shell)](https://brandatlas.co.kr/brand/shell.html): 셸은 영국·네덜란드에 뿌리를 둔 글로벌 에너지·석유 기업으로, 원유 탐사와 생산부터 정유, 가스, 화학, 주유소 소매 판매까지 에너지 가치사슬 전반을 아우른다. 빨강과 노랑의 펙텐(조개) 심벌로 세계에서 가장 널리 
 - [루이비통(Louis Vuitton)](https://brandatlas.co.kr/brand/louis-vuitton.html): 루이비통은 여행가방에서 출발했지만, 이동의 기능을 럭셔리한 삶의 상징으로 확장했다. 브랜드의 헤리티지는 물건을 담는 도구가 아니라 이동하는 사람의 취향과 지위를 표현하는 방식으로 발전했다.
 - [스와치(Swatch)](https://brandatlas.co.kr/brand/swatch.html): 스와치는 시계를 고가의 정밀기기에서 매일 바꿔 착용할 수 있는 패션 언어로 전환했다. 시간을 알려주는 기능보다 색, 그래픽, 컬렉션, 가벼운 가격대가 브랜드 경험의 중심이 된다.
 - [도미노피자(Domino's Pizza)](https://brandatlas.co.kr/brand/domino-s-pizza.html): 도미노피자(Domino's Pizza)는 1960년 미국에서 시작된 글로벌 피자 배달·테이크아웃 프랜차이즈이다.
@@ -131,7 +138,6 @@
 - [아스피린(Aspirin)](https://brandatlas.co.kr/brand/aspirin.html): 아스피린(Aspirin)은 1899년 독일 바이엘(Bayer)이 아세틸살리실산을 상표명으로 출시한 진통·해열·소염제다. 세계 최초의 대중 합성 의약품 가운데 하나로, OTC 진통제의 대명사가 되었다.
 - [캠퍼(Camper)](https://brandatlas.co.kr/brand/camper.html): 캠퍼(Camper)는 1975년 로렌소 플룩사가 스페인 마요르카에서 설립한 신발 브랜드다. 마요르카의 전통 제화 공예를 바탕으로 편안함과 개성 있는 디자인을 결합한 컨템포러리 풋웨어로 알려져 있다.
 - [크리스챤 디올(Dior)](https://brandatlas.co.kr/brand/dior.html): 크리스챤 디올(Christian Dior)은 1946년 파리에서 설립된 프랑스 럭셔리 패션 하우스이다.
-- [로열 더치 쉘(Shell)](https://brandatlas.co.kr/brand/shell.html): 셸은 영국·네덜란드에 뿌리를 둔 글로벌 에너지·석유 기업으로, 원유 탐사와 생산부터 정유, 가스, 화학, 주유소 소매 판매까지 에너지 가치사슬 전반을 아우른다. 빨강과 노랑의 펙텐(조개) 심벌로 세계에서 가장 널리 
 - [몽블랑(Montblanc)](https://brandatlas.co.kr/brand/montblanc.html): 몽블랑은 필기구를 기록의 도구에서 성취와 품격의 상징으로 끌어올린 브랜드다. 만년필은 기능 제품이지만, 브랜드가 축적한 이미지는 서명, 의사결정, 지적 권위 같은 장면과 결합된다.
 - [애널로그(Analog)](https://brandatlas.co.kr/brand/analog.html): 애널로그(Analog)는 엣지 AI(Edge-AI)를 기반으로 인간의 잠재력을 확장하는 데 초점을 맞춘 기술·전자 분야 기업으로, 스페인 바르셀로나 기반 디자인 스튜디오 Mucho가 브랜드 아이덴티티를 설계했다. 디
 - [코치(COACH)](https://brandatlas.co.kr/brand/coach.html): 코치는 실용적 가죽 제품을 일상적 럭셔리의 영역으로 끌어올린 브랜드다. 과시적 명품보다 접근 가능한 품질과 라이프스타일 이미지를 통해 오래 쓰는 가방의 감각을 브랜드화했다.
@@ -143,11 +149,11 @@
 - [스와로브스키(Swarovski)](https://brandatlas.co.kr/brand/swarovski.html): 스와로브스키(Swarovski)는 1895년 다니엘 스와로브스키가 오스트리아 바텐스에 설립한 크리스탈 제조·럭셔리 브랜드이다.
 - [이니스프리(Innisfree)](https://brandatlas.co.kr/brand/innisfree.html): 이니스프리(Innisfree)는 아모레퍼시픽이 2000년 론칭한 대한민국의 자연주의 뷰티 브랜드다. 제주 원료를 내세운 스킨케어·색조로 아모레퍼시픽 자연주의 1호 브랜드가 됐다.
 - [켈로그(KELLOGG’s)](https://brandatlas.co.kr/brand/kellogg-s.html): 켈로그(Kellogg's)는 윌 키스 켈로그가 1906년 설립한 미국의 아침식사 시리얼 브랜드이다.
-- [펩시(Pepsi)](https://brandatlas.co.kr/brand/pepsi.html): 펩시(Pepsi)는 1893년 미국 노스캐롤라이나주 뉴번의 약사 케일럽 브래덤이 만든 탄산음료에서 출발해 1898년 '펩시콜라'로 개명된 음료 브랜드다. 1965년 프리토레이와의 합병으로 모기업 펩시코가 출범했다.
-- [하인즈(Heinz)](https://brandatlas.co.kr/brand/heinz.html): 하인즈(Heinz)는 1869년 헨리 J. 하인즈가 미국 펜실베이니아주 샤프스버그에서 설립한 식품 회사로, 케첩을 비롯한 가공식품으로 유명하다. 2015년 크래프트 푸즈와의 합병으로 크래프트 하인즈가 출범했다.
 - [SK텔레콤(SK Telecom)](https://brandatlas.co.kr/brand/sk-telecom.html): SK텔레콤(SK Telecom)은 1984년 설립된 대한민국 최대의 이동통신 사업자로 SK그룹 계열사다.
 - [달러라마(Dollarama)](https://brandatlas.co.kr/brand/dollarama.html): 달러라마(Dollarama)는 캐나다 최대의 1~5달러 균일가 저가 소매 체인이다.
 - [빅토리아 시크릿(Victoria's Secret)](https://brandatlas.co.kr/brand/victoria-s-secret.html): 빅토리아 시크릿은 속옷을 기능적 제품이 아니라 무대화된 판타지와 자기표현의 이미지로 포장한 브랜드다. 브랜드는 제품보다 쇼, 모델, 시각적 연출을 통해 소비자가 상상하는 매력의 장면을 판매해 왔다.
+- [엔제리너스(Angel-in-us)](https://brandatlas.co.kr/brand/angelinus.html): 엔제리너스(Angel-in-us)는 롯데GRS가 운영하는 한국의 커피전문점 프랜차이즈다.
+- [할리데이비슨(Harley-Davidson)](https://brandatlas.co.kr/brand/harley-davidson.html): 할리데이비슨은 모터사이클보다 자유와 소속감의 의식을 더 강하게 판매한다. 제품은 이동수단이지만 브랜드의 핵심은 엔진음, 라이딩 문화, 커뮤니티, 반항적 이미지가 결합된 정체성 경험이다.
 
 ## 기타
 - [RSS](https://brandatlas.co.kr/rss.xml): 최근 갱신 100건

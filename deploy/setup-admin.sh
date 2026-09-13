@@ -66,7 +66,8 @@ SupplementaryGroups=adm
 WorkingDirectory=$REMOTE
 EnvironmentFile=$REMOTE/env
 ExecStart=$REMOTE/.venv/bin/python $REMOTE/admin_server.py
-Restart=on-failure
+# 정상 종료 신호(TERM)로 멈춰도 다시 띄운다 — 2026-09-10 외부 TERM으로 멈춘 뒤 on-failure라 3일간 문의 API가 502였다.
+Restart=always
 RestartSec=3
 NoNewPrivileges=yes
 PrivateTmp=yes

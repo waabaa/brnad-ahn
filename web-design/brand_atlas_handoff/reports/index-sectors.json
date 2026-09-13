@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12",
+ "updatedAt": "2026-09-13",
  "moves": [
   {
    "slug": "aneo",
@@ -942,6 +942,114 @@
    "from": "brand-business",
    "to": "finance",
    "why": "GICS Real Estate / Other Specialized REITs"
+  },
+  {
+   "slug": "paychex",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Human Resource & Employment Services"
+  },
+  {
+   "slug": "prologis",
+   "from": "industrial-energy",
+   "to": "finance",
+   "why": "GICS Real Estate / Industrial REITs"
+  },
+  {
+   "slug": "qnity",
+   "from": "industrial-energy",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Semiconductor Materials & Equipment"
+  },
+  {
+   "slug": "sba-communications",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Real Estate / Telecom Tower REITs"
+  },
+  {
+   "slug": "teledyne-technologies",
+   "from": "industrial-energy",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Electronic Equipment & Instruments"
+  },
+  {
+   "slug": "veeva-systems",
+   "from": "technology-electronics",
+   "to": "health-pharma",
+   "why": "GICS Health Care / Health Care Technology"
+  },
+  {
+   "slug": "verisk-analytics",
+   "from": "brand-business",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Research & Consulting Services"
+  },
+  {
+   "slug": "vici-properties",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Real Estate / Hotel & Resort REITs"
+  },
+  {
+   "slug": "waters-corporation",
+   "from": "technology-electronics",
+   "to": "health-pharma",
+   "why": "GICS Health Care / Life Sciences Tools & Services"
+  },
+  {
+   "slug": "ferrovial",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "ICB Industrials / Military, Government, Technical"
+  },
+  {
+   "slug": "agilent-technologies",
+   "from": "technology-electronics",
+   "to": "health-pharma",
+   "why": "GICS Health Care / Life Sciences Tools & Services"
+  },
+  {
+   "slug": "boeing",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "equifax",
+   "from": "finance",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Research & Consulting Services"
+  },
+  {
+   "slug": "equinix",
+   "from": "technology-electronics",
+   "to": "finance",
+   "why": "GICS Real Estate / Data Center REITs"
+  },
+  {
+   "slug": "ge-aerospace",
+   "from": "mobility",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "l3harris-technologies",
+   "from": "technology-electronics",
+   "to": "industrial-energy",
+   "why": "GICS Industrials / Aerospace & Defense"
+  },
+  {
+   "slug": "lam-research",
+   "from": "industrial-energy",
+   "to": "technology-electronics",
+   "why": "GICS Information Technology / Semiconductor Materials & Equipment"
+  },
+  {
+   "slug": "willis-towers-watson",
+   "from": "brand-business",
+   "to": "finance",
+   "why": "GICS Financials / Insurance Brokers"
   }
  ]
 }

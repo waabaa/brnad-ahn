@@ -42,7 +42,8 @@ const REPORT = path.join(ROOT, "reports/wikidata-brand-import.json");
 const prevReport = fs.existsSync(REPORT) ? JSON.parse(fs.readFileSync(REPORT, "utf8")) : { added: [], rejected: [] };
 // en 모드는 ko 근거 때문에 기각된 개체(문서 없음·요약 짧음·동음이의)를 다시 시도한다.
 const KO_ONLY_REJECT = /ko 문서 없음|요약 짧음|동음이의/;
-const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.filter(r => !(SOURCE_EN && KO_ONLY_REJECT.test(r.why))).map(r => r.qid)]);
+// --only로 지정한 개체는 과거 기각 기록이 있어도 다시 시도한다(명시적 재시도). 수록된 개체는 그대로 건너뛴다.
+const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.filter(r => !(SOURCE_EN && KO_ONLY_REJECT.test(r.why)) && !(ONLY && ONLY.has(r.qid))).map(r => r.qid)]);
 
 // 브랜드가 아닌 개체(사람·대학·리그·행정구역·작품)는 수록하지 않는다.
 const BLOCK_P31 = new Set(["Q484652", "Q79913", "Q163740", "Q1664720", "Q15911314", "Q31855", "Q3914", "Q2385804", "Q7075", "Q1785271", "Q4438121", "Q17127659", "Q5", "Q3918", "Q875538", "Q902104", "Q847017", "Q476028", "Q623109", "Q15991290", "Q15991303", "Q1478437", "Q515", "Q6256", "Q3624078", "Q11424", "Q482994", "Q134556", "Q7889", "Q571", "Q13406463", "Q4167410", "Q4167836", "Q7278", "Q245065", "Q327333", "Q43229x", "Q1250464", "Q10387575", "Q41176", "Q811979"]);
@@ -133,7 +134,11 @@ ${it.sourceLang === "en" ? "영문 위키백과 본문(근거)" : "한국어 위
 }
 
 // 생성문 검증: 근거에 없는 숫자(연도·수치)가 나오면 기각한다.
+const EN_MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 function verifyText(text, sourceText) {
+  // 영문 근거의 "December 2020"을 "2020년 12월"로 옮기면 12가 근거에 없는 숫자가 된다.
+  // 근거에 해당 월 이름이 있을 때만 "N월"을 숫자 검사에서 뺀다(연도·일은 그대로 검사한다).
+  text = String(text).replace(/(\d{1,2})월/g, (m, n) => (Number(n) >= 1 && Number(n) <= 12 && String(sourceText).includes(EN_MONTHS[Number(n) - 1])) ? "월" : m);
   const nums = String(text).match(/\d[\d,.]*/g) || [];
   const src = String(sourceText).replace(/,/g, "");
   for (const raw of nums) {
@@ -230,7 +235,7 @@ for (const c of (CACHED ? [] : candidates)) {
 if (!CACHED && !DRY) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
 console.log(`준비 ${prepared.length}건 / 기각 ${rejected.length}건 (캐시 저장)`);
 
-if (CACHED) { prepared.push(...CACHED.filter(p => !doneQids.has(p.qid))); console.log(`캐시에서 ${prepared.length}건 복원`); }
+if (CACHED) { prepared.push(...CACHED.filter(p => !doneQids.has(p.qid) && (!ONLY || ONLY.has(p.qid)))); console.log(`캐시에서 ${prepared.length}건 복원`); }
 
 // 라벨 일괄 조회
 const allQ = [...new Set(prepared.flatMap(p => [p.countryQ, p.hqQ, p.parentQ, ...p.founderQs].filter(Boolean)))];
@@ -324,6 +329,8 @@ await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
     const chunk = queue.shift();
     let failed = [];
     try { failed = await processChunk(chunk); } catch (e) { failed = chunk.map(p => [p, `오류: ${e.message}`]); }
+    // 보류 사유를 바로 남긴다 — 사유는 끝에서만 원장에 쓰이므로, 중단된 실행에서는 왜 실패했는지 알 수 없었다.
+    for (const [p, why] of failed) console.warn(`  보류 ${p.qid} ${p.en || p.ko}: ${String(why).slice(0, 120)}`);
     for (const f of failed) retryQueue.push(f);
     doneChunks++;
     if (doneChunks % 5 === 0) {

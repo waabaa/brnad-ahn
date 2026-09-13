@@ -1,6 +1,6 @@
 {
  "auditedAt": "2026-09-12",
- "method": "2026-09-12 신규 수록 브랜드 로고(Wikidata P154 → Commons) 전수 육안 검수 — 컨택트시트 · S&P 500·나스닥100 한국어 근거 수록분 110건 포함 · 영문 근거 수록분 81건 포함",
+ "method": "2026-09-12 신규 수록 브랜드 로고(Wikidata P154 → Commons) 전수 육안 검수 — 컨택트시트 · S&P 500·나스닥100 한국어 근거 수록분 110건 포함 · 영문 근거 수록분 81건 포함 · 2026-09-13 추가 검수: 배포 이후 신규 수록분 180장",
  "items": [
   {
    "slug": "spacexai",
@@ -97,6 +97,102 @@
    "verdict": "wrong-entity",
    "action": "remove",
    "note": "모회사 Honeywell의 옛 태그라인 로고 — 분사 개체의 마크로 확인 불가"
+  },
+  {
+   "slug": "smurfit-westrock-group",
+   "src": "images/logos/smurfit-westrock-group-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 Smurfit Kappa Group 로고(2024 WestRock 합병 후 Smurfit Westrock)"
+  },
+  {
+   "slug": "sempra",
+   "src": "images/logos/sempra-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 Sempra Energy 로고"
+  },
+  {
+   "slug": "vivmark-residential",
+   "src": "images/logos/vivmark-residential-wd.png",
+   "role": "logo",
+   "verdict": "wrong-entity",
+   "action": "remove",
+   "note": "Equity Residential 로고 — 현 개체명 Vivmark Residential과 불일치"
+  },
+  {
+   "slug": "zimmer-biomet-holdings",
+   "src": "images/logos/zimmer-biomet-holdings-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "합병 전 Zimmer 로고"
+  },
+  {
+   "slug": "waste-management-inc",
+   "src": "images/logos/waste-management-inc-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 WASTE MANAGEMENT 워드마크 로고(2021 WM 리브랜딩 전)"
+  },
+  {
+   "slug": "aptiv",
+   "src": "images/logos/aptiv-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 Delphi 로고"
+  },
+  {
+   "slug": "the-bank-of-new-york-mellon",
+   "src": "images/logos/the-bank-of-new-york-mellon-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 BNY MELLON 로고(2024 BNY로 리브랜딩)"
+  },
+  {
+   "slug": "cognizant-technology-solutions",
+   "src": "images/logos/cognizant-technology-solutions-wd.jpg",
+   "role": "logo",
+   "verdict": "not-logo",
+   "action": "remove",
+   "note": "사옥 간판 사진 — 로고 원본 아님"
+  },
+  {
+   "slug": "corpay",
+   "src": "images/logos/corpay-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 FLEETCOR 로고"
+  },
+  {
+   "slug": "block-inc",
+   "src": "images/logos/block-inc-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 사명 Square 로고(2021 Block으로 개명)"
+  },
+  {
+   "slug": "linde-group",
+   "src": "images/logos/linde-group-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 THE LINDE GROUP 로고(2018 Linde plc)"
+  },
+  {
+   "slug": "marsh-mclennan-companies",
+   "src": "images/logos/marsh-mclennan-companies-wd.png",
+   "role": "logo",
+   "verdict": "outdated",
+   "action": "remove",
+   "note": "옛 Marsh & McLennan Companies 로고(2019 Marsh McLennan)"
   }
  ]
 }

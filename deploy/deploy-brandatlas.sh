@@ -25,11 +25,14 @@ DRY=""; [ "${1:-}" = "--dry-run" ] && DRY="--dry-run"
 echo "Source : $SRC"
 echo "Target : $SSH_TARGET:$WEBROOT (via $STAGING)"
 
+# archive/(외부 매체 수집 자료)·300-brands/(초기 작업 원본)·*.md(내부 문서)는 어느 페이지도 쓰지 않는 내부 자료다.
+# 공개 웹루트에 두면 제3자 저작물 재배포가 되고 광고 심사에서도 걸린다(2026-09-13 점검).
 rsync -az --delete $DRY -e "$SSH" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scripts/' --exclude='scratchpad/' \
   --exclude='source-imports/' --exclude='reports/' --exclude='archive/brandarchive/' \
   --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' \
   --exclude='DATA_COMPLETION_WORK_ORDERS.md' --exclude='README.md' \
+  --exclude='archive/' --exclude='300-brands/' --exclude='content/' --exclude='*.md' \
   "$SRC" "$SSH_TARGET:$STAGING/"
 
 if [ -z "$DRY" ]; then

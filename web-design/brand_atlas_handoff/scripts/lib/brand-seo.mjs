@@ -363,7 +363,7 @@ export function slugifyAscii(s) {
 }
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
-export const CSS_V = "20260907a";
+export const CSS_V = "20260913a";
 
 // Google Analytics 4. 빈 문자열이면 태그를 넣지 않는다(로컬·테스트 빌드).
 // 어드민(/admin/)에는 넣지 않는다 — 운영자 방문이 지표를 오염시킨다.

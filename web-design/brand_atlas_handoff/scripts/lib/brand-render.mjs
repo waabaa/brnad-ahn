@@ -7,7 +7,7 @@
 import { esc, breadcrumbs } from "./page-shell.mjs";
 import { koreanName, latinName, displayName, headingMarkup, factRows, topicParticle, urlSlugOf, countryOf } from "./brand-seo.mjs";
 import { tiles, logoImg, assetHref } from "./markup.mjs";
-import { isDirectory, isNoindex, hasLogo } from "./archive.mjs";
+import { hasLogo } from "./archive.mjs";
 import { collectionsOf, COLLECTION_BY_SLUG } from "./collections.mjs";
 
 const COUNTRY_SLUG_REF = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
@@ -48,7 +48,6 @@ export function renderBrandPage(brand, ctx) {
   const sectionBody = (key) => sandbox.sectionBody(brand, key);
   const prose = (text) => sandbox.prose(text, brand);
   const metaList = (text) => sandbox.metaList(text);
-  const directory = isDirectory(brand);
 
   // ── 섹션 정의 (질문형 H2 — 데이터가 있을 때만) ──
   const defs = [
@@ -117,16 +116,9 @@ export function renderBrandPage(brand, ctx) {
   const factsHtml = rows.length ? `<div class="facts"><h2>브랜드 정보</h2><table><tbody>${rows.map(r => `<tr><th scope="row">${esc(r.label)}</th><td>${r.href ? `<a href="${r.external ? esc(r.href) : P + r.href}"${r.external ? ' rel="noopener" target="_blank"' : ""}>${esc(r.value)}</a>` : esc(r.value)}</td></tr>`).join("")}</tbody></table><p class="src">출처: ${[...new Set(rows.map(r => SOURCE_LABEL[r.source] || r.source))].join(" · ")}. 검증된 값만 표기하며 빈 칸은 채우지 않습니다.</p></div>` : "";
   const tocHtml = `<nav class="toc" aria-label="목차"><h2>목차</h2><ol>${[...sections, ...(related.length ? [{ id: "related", title: "함께 읽을 브랜드" }] : [])].map(s => `<li><a href="#${s.id}">${s.title.replace(/ — .*$/, "")}</a></li>`).join("")}</ol></nav>`;
 
-  // 안내 문구는 실제 robots 값과 어긋나면 안 된다. 디렉토리 등급이어도 본문이 충실하면
-  // 색인 대상이므로(archive.mjs isNoindex), 색인 제외라고 적을 수 있는 것은 그 안에서도
-  // 본문이 얇은 항목뿐이다.
-  const note = directory
-    ? (isNoindex(brand)
-      ? `<p class="directory-note">이 항목은 한글 표기와 로고가 아직 확인되지 않은 <b>디렉토리 등급</b> 자료입니다. 본문은 수록 자료를 그대로 옮긴 것이며 검색 색인에서는 제외됩니다.</p>`
-      : `<p class="directory-note">이 항목은 한글 표기와 로고가 아직 확인되지 않은 <b>디렉토리 등급</b> 자료입니다. 본문은 수록 자료를 그대로 옮긴 것이며 목록과 홈에는 올리지 않습니다. 표기나 로고가 확인되면 자동으로 본 목록에 올라갑니다.</p>`)
-    : "";
-
-  const body = `${head}<div class="wrap brand-body"><div class="brand-main" id="brandPage">${note}${sections.map(s => s.html).join("")}<!--related-->${relatedHtml}</div><aside class="aside">${factsHtml}${tocHtml}</aside></div>`;
+  // 등급(목록 노출 여부)은 운영 기준이라 페이지에 적지 않는다(2026-09-13). "디렉토리 등급 자료", "수록 자료를 그대로
+  // 옮긴 것" 같은 안내는 독자에게 정보가 아니고, 미완성·복제 자료라는 신호로 읽혔다.
+  const body = `${head}<div class="wrap brand-body"><div class="brand-main" id="brandPage">${sections.map(s => s.html).join("")}<!--related-->${relatedHtml}</div><aside class="aside">${factsHtml}${tocHtml}</aside></div>`;
   return body;
 }
 

@@ -177,8 +177,10 @@ const report = {
       try { return (fs.readFileSync(path.join(ROOT, "robots.txt"), "utf8").match(/^User-agent: (?!\*)/gm) || []).length; }
       catch { return 0; }
     })(),
+    // 옛 SPA 껍데기·디자인 시안 3쪽은 2026-09-13에 삭제하고 301로 돌렸다(광고 심사에서 시안 사이트로 읽힘).
+    // 파일이 없거나(삭제) 남아 있다면 noindex여야 통과한다.
     shellsNoindex: ["pages/brand-artemio.html", "pages/mobile.html", "pages/other-pages.html"]
-      .filter(f => { try { return /content="noindex/.test(fs.readFileSync(path.join(ROOT, f), "utf8")); } catch { return false; } }).length,
+      .filter(f => { try { return /content="noindex/.test(fs.readFileSync(path.join(ROOT, f), "utf8")); } catch { return true; } }).length,
   },
   // 허브가 얇으면 색인되지 않고, 색인되지 않으면 하위 브랜드로 링크 에퀴티가 가지 않는다.
   // 2026-09 감사에서 카테고리·국가 허브 28개가 네이버 색인 0건이었고 원인이 이것이었다.

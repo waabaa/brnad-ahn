@@ -71,8 +71,8 @@ URL이 이미 색인·301 그래프에 들어 있어서다. 로고나 한글 표
 2026-09-08). 등급은 목록·홈 노출을 정하는 기준이고, 그 안에서도 읽을 내용이 있는 페이지는 색인·sitemap에
 남긴다. 종전에는 등급만으로 `noindex`를 걸어, 이미 색인·301 그래프에 들어간 URL이 새 URL로 교체되지
 못했다 — 네이버 웹마스터 '리다이렉션된 페이지' 진단 108건 중 41건이 301 목적지가 `noindex`인 경우였다.
-226건 중 202건이 이 기준으로 색인에 복귀했다. **페이지 안내 문구는 실제 `robots` 값과 일치시킬 것**
-(`brand-render.mjs`가 `isNoindex`로 두 문구를 가른다).
+226건 중 202건이 이 기준으로 색인에 복귀했다. 등급 안내 문구는 2026-09-13에 페이지에서 없앴다(§2-e) —
+다시 넣는다면 실제 `robots` 값과 일치시킬 것.
 
 **외부 이미지는 핫링크하지 않는다.** `scripts/localize-external-assets.mjs`가 로고·대표 이미지·BI/CI를
 `images/logos|photos|bici/`로 내려받는다(namu.wiki는 봇 차단이라 불가 → 로고 없음 처리 후 공식 사이트에서
@@ -125,6 +125,29 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 **한글 표기 보강**은 `scripts/add-korean-labels.mjs` — QID가 확정된 레코드에 한해 Wikidata ko 레이블이나
 한국어 위키백과 문서 제목을 넣는다. 음차 생성은 금지(§1)이므로 근거가 없으면 비워 둔다.
 
+## 2-e. 아틀라스 매거진 (2026-09-13)
+
+브랜드 여러 곳을 한 주제로 엮는 기획 기사. 원고는 `content/magazine/*.md`(`---json` 메타 + 본문), 빌더는
+`scripts/build-magazine.mjs`, 지면 스타일은 `magazine.css`(사이트 CSS 위에 얹음). 애드센스 심사의 '가치 없는 콘텐츠'
+판정 대응으로 만들었다 — 위키 재서술과 달리 여러 항목을 가로질러 읽는 편집 콘텐츠다.
+
+- **발행 주기**: 월간 호(No.01 = 2026년 9월호) + 매주 한 편. 원고의 `date`가 공개일이고, 공개일 전 원고는 빌드에서 빠진다
+  (표지에 '공개 예정'만 표시). 주간 리프레시(월 05:10)가 그날 기사를 자동 공개한다. 미리 보기는 `--preview`(배포 금지).
+- **사실은 브랜드 데이터 밖으로 나가지 않는다.** `verifyArticle()`이 본문의 숫자가 참조 브랜드의 본문·팩트·아카이브 값에
+  없으면 빌드를 멈춘다. 시대 표기처럼 근거가 필요 없는 숫자만 메타 `allowNumbers`에 적는다. 연도·인명·색상값은 항목에 있는 것만 쓴다.
+- **문체**: im-not-ai(humanize-korean)의 규칙을 따른다 — 연결어미 뒤 쉼표, 번역투, 과장 어휘, 결말 공식을 쓰지 않는다.
+  원고마다 `prepare_monolith_input.py`로 위험도를 재고 low/light가 아니면 고친다.
+- 본문 문법: `## 소제목`, `::plate slug, … | 캡션`(로고 도판), `::palette slug | 캡션`(brandArchive 색상 띠),
+  `::quote 문장 | 출처`, `[글](brand:slug)`.
+- 연결: 홈 '아틀라스 매거진'(최신 3편), 브랜드 페이지 '매거진에서 읽기'(본문 해시 뒤에 붙여 신선도 원장에 영향 없음),
+  sitemap-hubs(lastmod = 원고 date/modified), RSS(`[매거진]` 항목), llms.txt.
+- 빌드 순서: `build-brand-pages` → `build-magazine` → `build-seo-extras`.
+
+**독자에게 운영 용어를 보이지 않는다(2026-09-13).** "디렉토리 등급", "수록 자료를 그대로 옮긴 것", "메타데이터 중심으로 관리"
+같은 문구는 미완성·복제 신호로 읽혀 광고 심사에서 걸린다. 등급 안내문은 없앴고(`brand-render.mjs`), 아카이브 수집분의 운영 문장은
+`scripts/clean-archive-boilerplate.mjs`(멱등)가 구조화 값으로 다시 쓴다. 디렉토리 목록의 공개 명칭은 '원어 표기 브랜드'.
+지수 구성 기업(S&P 500·나스닥100, `b.indexMember` — `apply-index-sectors.mjs`가 표시)은 한글 표기·로고가 없어도 목록에 올린다.
+
 ## 3. 빌드·배포
 
 ```bash
@@ -136,6 +159,7 @@ node scripts/prune-logo-history.mjs         # 파일 없는 BI/CI 항목 제거
 
 # 사이트 빌드(순서 고정)
 node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin/directory 판정 + 신선도 원장
+node scripts/build-magazine.mjs        # 아틀라스 매거진(공개일이 지난 원고만, 숫자 검증 실패 시 중단)
 node scripts/build-seo-extras.mjs      # 허브·홈·가나다·국가·로고월·sitemap·RSS·robots·llms.txt·검색 인덱스
 ```
 

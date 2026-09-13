@@ -331,3 +331,22 @@ details.fold .name-list{padding:4px 0 18px}
   .tiles.sm{grid-template-columns:repeat(3,1fr)}
 }
 @media print{.site-header,.site-footer,.aside .toc,.hero-search{display:none}.brand-body{grid-template-columns:1fr}}
+
+/* ── 아틀라스 매거진 연결부(홈 티저·브랜드 페이지 역링크) — 지면 스타일은 magazine.css ── */
+.mag-teaser .mag-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:2px solid var(--ink)}
+.mag-card{display:flex;flex-direction:column;gap:10px;padding:22px 24px 24px 0;border-bottom:1px solid var(--line)}
+.mag-card+.mag-card{padding-left:24px;border-left:1px solid var(--line)}
+.mag-card small{font-size:12px;font-weight:700;color:var(--red);letter-spacing:.02em}
+.mag-card b{font-size:22px;line-height:1.3;letter-spacing:-.02em;font-weight:800}
+.mag-card p{font-size:14.5px;line-height:1.7;color:var(--ink-2)}
+.mag-card .logos{display:flex;gap:2px;margin-top:auto;padding-top:8px}
+.mag-card .logos img{width:56px;height:40px;object-fit:contain;background:#eeede8;padding:6px;mix-blend-mode:multiply}
+.mag-card:hover b{color:var(--red)}
+.mag-mention{margin:34px 0 8px;border-top:2px solid var(--ink);padding-top:14px}
+.mag-mention h2{font-size:13px;font-weight:700;color:var(--red);letter-spacing:.02em;margin-bottom:6px}
+.mag-mention li a{display:block;padding:12px 0;border-bottom:1px solid var(--line)}
+.mag-mention small{display:block;font-size:12px;color:var(--muted)}
+.mag-mention b{display:block;font-size:19px;line-height:1.4;margin:3px 0 4px}
+.mag-mention span{display:block;font-size:14px;line-height:1.65;color:var(--ink-2)}
+.mag-mention a:hover b{color:var(--red)}
+@media (max-width:860px){.mag-teaser .mag-cards{grid-template-columns:1fr}.mag-card+.mag-card{padding-left:0;border-left:0}}

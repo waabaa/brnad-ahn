@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-12",
+ "generatedAt": "2026-09-13",
  "counts": {
   "ai": 25,
-  "fintech": 28,
-  "banking": 51,
-  "energy": 39,
-  "property": 33,
+  "fintech": 31,
+  "banking": 56,
+  "energy": 49,
+  "property": 38,
   "airlines": 61,
   "museums": 27,
   "fast-food": 44,
   "cafes": 31,
-  "digital-services": 81,
+  "digital-services": 82,
   "olympics-expos": 16
  },
  "members": {
@@ -2616,6 +2616,150 @@
    {
     "collection": "property",
     "why": "wikidata Q27988239 P31=Q697852"
+   }
+  ],
+  "ameren": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q462984 P452=Q2316331"
+   }
+  ],
+  "eqt": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q5323987 P452=Q862571"
+   }
+  ],
+  "realty-income-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q7301386 P31=Q1660104"
+   }
+  ],
+  "regions-financial-corporation": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q917131 P452=Q806718"
+   }
+  ],
+  "simon-property-group": [
+   {
+    "collection": "property",
+    "why": "wikidata Q2287759 P31=Q697852"
+   }
+  ],
+  "southern-company": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2304693 P31=Q1341478"
+   }
+  ],
+  "truist-financial": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q795486 P31=Q22687"
+   }
+  ],
+  "u-s-bancorp": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q739084 P452=Q806718"
+   }
+  ],
+  "udr": [
+   {
+    "collection": "property",
+    "why": "wikidata Q27988153 P31=Q697852"
+   }
+  ],
+  "vici-properties": [
+   {
+    "collection": "property",
+    "why": "wikidata Q54263910 P31=Q1660104"
+   }
+  ],
+  "vivmark-residential": [
+   {
+    "collection": "property",
+    "why": "wikidata Q187740 P31=Q697852"
+   }
+  ],
+  "williams-companies": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q930639 P31=Q1341478"
+   }
+  ],
+  "phillips-66": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1656230 P452=Q862571"
+   }
+  ],
+  "baker-hughes": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q804353 P452=Q862571"
+   }
+  ],
+  "block-inc": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q110778747 P452=Q97466005"
+   }
+  ],
+  "the-bank-of-new-york-mellon": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q589288 P452=Q806718"
+   }
+  ],
+  "chevron-corporation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q319642 P31=Q14941854"
+   }
+  ],
+  "conocophillips": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q214763 P452=Q862571"
+   }
+  ],
+  "godaddy": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q1416215 P31=Q12738586"
+   }
+  ],
+  "nasdaq-inc": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q1472929 P452=Q16319025"
+   }
+  ],
+  "pnc-financial-services": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q38928 P31=Q22687"
+   }
+  ],
+  "slb": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1425316 P31=Q94532151"
+   }
+  ],
+  "valero-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1283291 P452=Q862571"
+   }
+  ],
+  "pinduoduo": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q47015652 P31=Q620615"
    }
   ]
  }

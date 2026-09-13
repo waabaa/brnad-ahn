@@ -35,6 +35,9 @@ node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실�
 echo "=== [1/5] 브랜드 페이지 빌드 ==="
 node scripts/build-brand-pages.mjs | tail -4
 
+echo "=== [1-b/5] 아틀라스 매거진(공개일이 된 기사 자동 공개 — 원고 검증 실패 시 중단) ==="
+node scripts/build-magazine.mjs
+
 echo "=== [2/5] 허브·사이트맵·RSS 빌드 ==="
 node scripts/build-seo-extras.mjs | tail -10
 

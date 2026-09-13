@@ -18,6 +18,7 @@ import { page as shell, esc } from "./lib/page-shell.mjs";
 import { renderBrandPage } from "./lib/brand-render.mjs";
 import { isDirectory, isNoindex, byScore, isListed } from "./lib/archive.mjs";
 import { publishedCollections } from "./lib/collections.mjs";
+import { loadArticles, referencedSlugs } from "./lib/magazine.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -203,6 +204,15 @@ function mainText(bodyHtml) {
   return textOf(m ? m[1] : bodyHtml);
 }
 
+// 아틀라스 매거진 역링크 — 이 브랜드가 나온 기사(공개일이 지난 것만). 본문 해시 뒤에 붙이므로 신선도 원장에 영향이 없다.
+const MAG_BY_SLUG = new Map();
+for (const a of loadArticles(ROOT)) for (const s of referencedSlugs(a)) { if (!MAG_BY_SLUG.has(s)) MAG_BY_SLUG.set(s, []); MAG_BY_SLUG.get(s).push(a); }
+function magazineMentions(slug) {
+  const list = MAG_BY_SLUG.get(slug);
+  if (!list || !list.length) return "";
+  return `<section class="mag-mention" aria-label="매거진에서 읽기"><h2>매거진에서 읽기</h2><ul>${list.map(a => `<li><a href="../magazine/${a.slug}.html"><small>아틀라스 매거진 No.${String(a.issue).padStart(2, "0")} · ${esc(a.kicker)}</small><b>${esc(a.title)}</b><span>${esc(a.dek)}</span></a></li>`).join("")}</ul></section>`;
+}
+
 function relatedFor(brand) {
   return sandbox.relatedBrands(brand, 12).filter(b => !isDirectory(b)).sort(byScore).slice(0, 8);
 }
@@ -217,6 +227,7 @@ function pageHtml(brand) {
 
   const text = mainText(bodyHtml);
   const renderedChars = text.length;
+  bodyHtml = bodyHtml.replace("<!--related-->", `<!--related-->${magazineMentions(slug)}`);
   const dupCanonical = canonicalOverride.get(slug);
   const directory = isDirectory(brand);
   // 디렉토리 등급이라도 본문이 충실하면 색인한다(2026-09-08). 등급은 목록·홈 노출을 가르는

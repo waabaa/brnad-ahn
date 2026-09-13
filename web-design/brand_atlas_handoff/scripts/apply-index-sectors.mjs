@@ -46,6 +46,17 @@ const sectorByQ = new Map(cov.map(c => [c.qid, c.sectors || {}]));
 const qidOf = b => b.entityLinks?.wikidata || b.wikidata?.qid || null;
 const slugOf = b => b.urlSlug || b.slug;
 
+// 지수 편입 표시(b.indexMember). 지수 구성 기업은 한글 표기·로고가 없어도 목록에 올린다(archive.mjs archiveTier) —
+// "미국 기업은 최소 S&P 500·나스닥100 구성 기업을 수록"이라는 요구에서 수록은 찾을 수 있다는 뜻이다(2026-09-13).
+const idxByQ = new Map(cov.map(c => [c.qid, c.idx || []]));
+let marked = 0;
+for (const b of data.allBrands) {
+  const idx = idxByQ.get(qidOf(b));
+  if (idx && idx.length) { if (JSON.stringify(b.indexMember) !== JSON.stringify(idx)) { b.indexMember = idx; marked++; } }
+  else if (b.indexMember) { delete b.indexMember; marked++; }
+}
+console.log(`지수 편입 표시 갱신 ${marked}건`);
+
 const moves = [];
 const target = new Map();
 for (const b of data.allBrands) {
