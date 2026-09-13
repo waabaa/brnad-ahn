@@ -76,3 +76,16 @@ export function verifyArticle(a, bySlug) {
 
 /** 읽는 시간(분) — 한국어 분당 500자 기준. */
 export const readingMinutes = (a) => Math.max(3, Math.round(plain(a.body).replace(/\s+/g, "").length / 500));
+
+/**
+ * 예약 원고 현황 — 운영 방식 A(월 1회 몰아 쓰기, 2026-09-13 결정)의 경고용.
+ * 마지막 예약 공개일까지 14일 이하로 남으면 low=true — 주간 리프레시 로그와 어드민 대시보드가 알린다.
+ */
+export function queueStatus(root) {
+  const today = todayKst();
+  const all = loadArticles(root, { includeFuture: true });
+  const scheduled = all.filter(a => a.date > today).map(a => ({ date: a.date, title: a.title, issue: a.issue }));
+  const last = all.length ? all.map(a => a.date).sort().pop() : null;
+  const daysLeft = last ? Math.round((Date.parse(last) - Date.parse(today)) / 864e5) : 0;
+  return { today, published: all.length - scheduled.length, scheduled, lastScheduled: last, daysLeft, low: daysLeft <= 14 };
+}

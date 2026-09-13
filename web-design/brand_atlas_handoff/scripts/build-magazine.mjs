@@ -12,7 +12,7 @@ import { ORIGIN, displayName, koreanName, latinName, urlSlugOf } from "./lib/bra
 import { esc, page, breadcrumbs } from "./lib/page-shell.mjs";
 import { hasLogo } from "./lib/archive.mjs";
 import { assetHref, brandHref } from "./lib/markup.mjs";
-import { loadArticles, verifyArticle, referencedSlugs, readingMinutes } from "./lib/magazine.mjs";
+import { loadArticles, verifyArticle, referencedSlugs, readingMinutes, queueStatus } from "./lib/magazine.mjs";
 
 const PREVIEW = process.argv.includes("--preview"); // 공개일 전 원고까지 로컬에서 미리 본다(배포 금지)
 
@@ -157,3 +157,5 @@ ${band.length >= 6 ? `<div class="band tall" role="img" aria-label="이번 호�
 // 원고가 사라진 기사 파일 정리
 if (fs.existsSync(OUT)) for (const f of fs.readdirSync(OUT)) if (f.endsWith(".html") && f !== "index.html" && !articles.some(a => `${a.slug}.html` === f)) fs.rmSync(path.join(OUT, f));
 console.log(`magazine: 기사 ${articles.length}건, 갱신 ${written.length}건${written.length ? ` (${written.join(", ")})` : ""}`);
+const q = queueStatus(ROOT);
+if (q.low) console.warn(`⚠ 매거진 예약 원고 부족: 마지막 공개일 ${q.lastScheduled || "없음"}(${q.daysLeft}일 남음). 다음 달 원고를 몰아 써서 예약할 것(운영 방식 A).`);

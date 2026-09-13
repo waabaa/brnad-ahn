@@ -9,6 +9,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { urlSlugOf, countryOf, foundedYear, displayName } from "./lib/brand-seo.mjs";
+import { queueStatus } from "./lib/magazine.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -113,6 +114,7 @@ const snapshot = {
     ledgerPages: Object.keys(dates.pages || {}).length,
     modifiedByDate: Object.entries(modifiedTally).sort().slice(-30),
   },
+  magazine: queueStatus(ROOT),
   indexLog: {
     baseline: indexLog.baseline || null,
     entries: (indexLog.entries || []).slice(-60),

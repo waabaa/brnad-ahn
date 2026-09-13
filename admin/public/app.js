@@ -174,6 +174,9 @@ function renderDashboard(host) {
     { k: "위키데이터 연결", v: num(t.withEntity), s: `${pct(t.withEntity, t.brands)}` },
     { k: "허브 페이지", v: num((t.categoryHubs || 0) + (t.countryHubs || 0)), s: `산업 ${t.categoryHubs} · 국가 ${t.countryHubs}` },
     { k: "수용기준", v: ac ? `${ac.pass}/${ac.total}` : "—", s: ac && ac.fail ? `미달 ${ac.fail}건` : "전부 통과" },
+    ...(SNAP.magazine ? [{ k: "매거진 예약 원고", v: `${SNAP.magazine.scheduled.length}편`,
+      s: SNAP.magazine.low ? `⚠ ${SNAP.magazine.daysLeft}일 남음 — 다음 달 원고 필요` : `마지막 공개 ${SNAP.magazine.lastScheduled} · ${SNAP.magazine.daysLeft}일 남음`,
+      accent: SNAP.magazine.low }] : []),
   ]);
 
   const b = box(host, "네이버 색인 추이", "주간 자동 측정 기록입니다. 값이 없는 날은 API 키가 없던 기간입니다.");
