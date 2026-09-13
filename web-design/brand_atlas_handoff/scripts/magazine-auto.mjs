@@ -89,6 +89,7 @@ function promptFor(angle, pack, feedback) {
 - 사실(연도·숫자·인명·지명·제품명·국가·업종)은 근거에 적힌 것만 쓴다. 근거에 없으면 쓰지 않는다. 브랜드끼리 사실을 섞지 마라.
 - 근거에 없는 숫자는 한 개도 쓰지 마라. 금액 단위 환산(억·조 등)도 하지 마라. 개수는 가능하면 한글 수사(세 곳, 다섯 가지)로 쓴다.
 - 브랜드를 소개할 때 국가·업종 수식어는 그 브랜드 근거의 '기원 국가'·'산업'과 같아야 한다. 확실하지 않으면 수식어를 빼라.
+  같은 수식어("한국 식음료 브랜드" 등)를 브랜드마다 반복해 붙이지 마라 — 공통이면 도입부에서 한 번 말하고, 브랜드마다는 그 브랜드만의 특징으로 소개한다.
 - 문장은 평서형 '~다'로 쓴다. '~입니다/~습니다' 금지. 과장어(혁신적, 획기적, 압도적, 폭발적, 전례 없는), 결말 공식(~할 때다, ~시점이다),
   "결론적으로/요약하면/주목할 만하다/시사하는 바가 크다" 금지. 연결어미(-고, -며, -지만, -면서) 바로 뒤에 쉼표를 찍지 마라.
 - 불릿·번호 목록 금지. 문단은 3~6문장. 짧은 문장과 긴 문장을 섞는다.
@@ -135,6 +136,10 @@ function check(article, angle) {
     for (const c of COUNTRIES) if (sent.includes(c) && !ev.includes(c)) issues.push(`국가 '${c}'가 해당 브랜드 근거에 없음: …${sent.slice(0, 60)}…`);
   }
   const bad = BANNED.exec(article.body + article.title + article.dek); if (bad) issues.push(`금지 표현: ${bad[0]}`);
+  // 브랜드 링크 앞 수식어 반복("한국 식음료 브랜드 [A]…, 한국 식음료 브랜드 [B]…") — 기계적으로 쓴 글의 흔적.
+  const mods = {};
+  for (const m of article.body.matchAll(/([가-힣·]+ [가-힣·]+ (?:브랜드|기업|회사)) \[/g)) mods[m[1]] = (mods[m[1]] || 0) + 1;
+  for (const [k, n] of Object.entries(mods)) if (n >= 2) issues.push(`같은 수식어 "${k}"를 ${n}번 반복 — 도입부에서 한 번만 쓰고 브랜드마다 고유한 특징으로 소개할 것`);
   const len = article.body.replace(/\s+/g, "").length;
   if (len < 2200) issues.push(`분량 부족(${len}자)`);
   if ((article.body.match(/^::plate /gm) || []).length < 1) issues.push("도판(::plate) 없음");

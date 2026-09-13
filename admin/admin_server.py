@@ -244,8 +244,8 @@ def crawler_report(days: int = 7) -> dict:
 
 
 # ─── 매거진 자동 준비(2026-09-13) ─────────────────────────────────────────
-# 매거진 작업은 전부 이 서버에서 돈다(brandatlas-src/scripts/server/magazine-hourly.sh, 매시 30분).
-# 어드민은 설정(ON/OFF)과 승인·반려 결정만 쓴다 — 실제 예약·공개는 다음 매시 작업이 한다.
+# 매거진 작업은 전부 이 서버에서 돈다(brandatlas-src/scripts/server/magazine-job.sh — 매일 00:30 + 어드민 신호 즉시).
+# 어드민은 설정(ON/OFF)과 승인·반려 결정을 쓰고 trigger 파일로 작업을 깨운다.
 MAG_DIR = DATA_DIR / "magazine"
 MAG_SLUG = re.compile(r"^[a-z0-9-]{3,120}$")
 MAG_DEFAULT = {"autoDraft": False, "autoSchedule": False, "runRequested": False}
@@ -264,6 +264,13 @@ def _mag_write(name: str, payload) -> None:
     tmp = MAG_DIR / f".{name}.tmp"
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")
     tmp.replace(MAG_DIR / name)
+
+
+def _mag_trigger() -> None:
+    """서버 작업을 즉시 깨운다 — systemd brandatlas-magazine.path 가 이 파일의 변경을 감시한다.
+    어드민은 샌드박스(NoNewPrivileges·ProtectHome)라 빌드·공개를 직접 띄울 수 없어 신호만 남긴다."""
+    MAG_DIR.mkdir(parents=True, exist_ok=True)
+    (MAG_DIR / "trigger").write_text(datetime.now(KST).isoformat(timespec="seconds"), "utf-8")
 
 
 def magazine_state() -> dict:
@@ -579,6 +586,8 @@ class Handler(BaseHTTPRequestHandler):
                         cur[k] = bool(body[k])
                 cur["updatedAt"] = datetime.now(KST).isoformat(timespec="seconds")
                 _mag_write("settings.json", cur)
+                if body.get("runRequested"):
+                    _mag_trigger()
                 return self._json(200, {"ok": True, "settings": cur})
             slug, action = str(body.get("slug") or ""), str(body.get("action") or "")
             if not MAG_SLUG.match(slug) or action not in ("approve", "reject", "undo"):
@@ -589,6 +598,7 @@ class Handler(BaseHTTPRequestHandler):
             else:
                 dec[slug] = {"action": action, "at": datetime.now(KST).isoformat(timespec="seconds")}
             _mag_write("decisions.json", dec)
+            _mag_trigger()
             return self._json(200, {"ok": True, "decisions": dec})
         return self._json(404, {"error": "not found"})
 

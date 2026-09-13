@@ -149,7 +149,9 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 [배포 서버]
  /home/developer/brandatlas-src/            사이트 소스 미러(로컬 배포가 올림) — content/magazine/ 만은 서버 소유(로컬이 덮어쓰지 않음)
  /home/developer/brandatlas-admin/data/magazine/  settings·decisions·drafts(.json/.md)·queue.json·.published-fp
- cron 30 * * * *  brandatlas-src/scripts/server/magazine-hourly.sh  (로그 ~/brandatlas-logs/magazine.log)
+ systemd 사용자 유닛 brandatlas-magazine.{service,timer,path} → brandatlas-src/scripts/server/magazine-job.sh  (로그 ~/brandatlas-logs/magazine.log)
+   · timer 매일 00:30(공개일 기사 공개·예약 부족 시 초안) · path: 어드민 '지금 시작'·승인·반려 → data/magazine/trigger 변경 → 즉시 실행
+   · 게이트웨이 키: 매거진 전용 클라이언트 brandatlas-magazine(하루 20, research와 한도 분리, 2026-09-14) — ~/brandatlas-admin/llm-gateway-key
    ① 자동 준비 ON이고 (예약 ≤14일치 → 하루 1회 | '지금 시작') → magazine-auto.mjs: 각도 선정 → 게이트웨이(127.0.0.1:5055) 초안
       → 자동 검증(숫자·slug·국가 혼동·금지 표현·분량·humanize) → 실패 시 1회 재작성 → 대기열. 한도로 오래 기다려야 하면 exit 75(다음 시각 재시도)
    ② magazine-sync.mjs: 어드민 승인·반려 반영, 승인분을 그 달 빈 월요일에 배정해 content/magazine/으로(meta.auto=true)
@@ -158,7 +160,7 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
  deploy-brandatlas.sh: 서버 원고를 먼저 받아 옴(바뀌었으면 다시 빌드) → 소스 미러 올림(원고 폴더 제외) → 공개. 서버 원고가 비어 있으면 받아 오기 생략(안전장치)
  weekly-refresh.sh: 빌드 전에 서버 원고를 받아 옴
 ```
-- 설치·재설치: `deploy/setup-magazine-server.sh`(멱등 — 도구·키(600)·미러·지문·crontab). 공개 제외 목록은 `scripts/server/publish-excludes.txt` 하나를 로컬 배포와 서버 공개가 같이 쓴다.
+- 설치·재설치: `deploy/setup-magazine-server.sh`(멱등 — 도구·키(600)·미러·지문(처음만)·systemd 유닛). 공개 제외 목록은 `scripts/server/publish-excludes.txt` 하나를 로컬 배포와 서버 공개가 같이 쓴다.
 - **로컬에서 매거진 원고를 직접 고치면 서버에 반영되지 않는다**(원고 폴더는 서버 소유라 미러에서 제외). 사람이 쓴 원고는 서버 `brandatlas-src/content/magazine/`에 올린다.
 - 자동 공개는 없다 — 승인(또는 '검증 통과 시 자동 예약', 기본 OFF)된 초안만 예약된다. 서버 원고는 git에 자동으로 들어가지 않으므로
   세션에서 `rsync`로 받아 커밋해 이력을 남긴다.

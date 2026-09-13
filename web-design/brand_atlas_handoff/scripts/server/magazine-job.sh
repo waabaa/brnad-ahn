@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
-# 아틀라스 매거진 — 배포 서버에서 매시 30분 도는 작업(2026-09-13, "매거진 관련 모든 작업은 배포 서버 작업").
+# 아틀라스 매거진 — 배포 서버 작업(2026-09-13, "매거진 관련 모든 작업은 배포 서버 작업").
 #
 #   ① 자동 준비: 어드민 설정이 ON이고 (예약 원고 ≤14일치 → 하루 1회 | '지금 시작' → 즉시)면 다음 달 호 초안 작성·검증
 #   ② 승인 반영: 어드민 승인·반려를 반영, 승인분을 그 달 빈 월요일에 배정해 content/magazine/으로(원고의 원본은 서버)
 #   ③ 공개: 원고가 바뀌었거나 공개일이 된 기사가 있으면 서버에서 빌드해 웹루트에 올린다 — PC가 꺼져 있어도 매거진이 나간다.
 #
-# 소스는 /home/developer/brandatlas-src (로컬 배포가 미러로 올린다. content/magazine/ 만은 서버가 원본이라 로컬이 덮어쓰지 않는다).
-# 설치: deploy/setup-magazine-server.sh (로컬에서 한 번). crontab:
-#   30 * * * * /home/developer/brandatlas-src/scripts/server/magazine-hourly.sh >> /home/developer/brandatlas-logs/magazine.log 2>&1
+# 언제 도나(systemd 사용자 유닛, 2026-09-14 — 매시 cron에서 바꿈):
+#   brandatlas-magazine.timer  매일 00:30 — 공개일(월요일) 기사를 그날 0시대에 열고, 예약 부족이면 초안을 쓴다
+#   brandatlas-magazine.path   어드민에서 '지금 시작'·승인·반려를 누르면 data/magazine/trigger 가 바뀌어 즉시 실행
+# 대부분의 실행은 설정 확인과 지문 비교만 하고 몇 초 안에 끝난다. 설치: deploy/setup-magazine-server.sh
 set -uo pipefail
 SRC=/home/developer/brandatlas-src
 ADMIN=/home/developer/brandatlas-admin/data/magazine

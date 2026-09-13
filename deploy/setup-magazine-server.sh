@@ -4,9 +4,9 @@
 # 배포 서버에 매거진 작업 환경을 만든다:
 #   /home/developer/brandatlas-src/            사이트 소스 미러(첫 설치 때만 content/magazine/ 포함 — 이후 원고의 원본은 서버)
 #   /home/developer/brandatlas-tools/humanize/ im-not-ai(humanize-korean, MIT) 문체 지표 도구 — 로컬 플러그인 캐시에서 복사
-#   /home/developer/brandatlas-admin/llm-gateway-key  게이트웨이 키(600) — 로컬 ~/.config/brandatlas/env 의 LLM_GATEWAY_KEY
+#   /home/developer/brandatlas-admin/llm-gateway-key  게이트웨이 키(600) — 매거진 전용 클라이언트 키(없으면 로컬 env의 research 키)
 #   /home/developer/brandatlas-logs/magazine.log
-#   developer crontab: 30 * * * * …/scripts/server/magazine-hourly.sh
+#   systemd 사용자 유닛 brandatlas-magazine.{service,timer,path} — 매일 00:30 + 어드민 신호 즉시 실행
 # 키 값은 화면·로그에 찍지 않는다(표준입력으로만 넘긴다).
 set -euo pipefail
 REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -25,9 +25,13 @@ rsync -az -e "$SSH" "$HK/scripts/" "$SSH_TARGET:brandatlas-tools/humanize/script
 rsync -az -e "$SSH" "$HK/.claude/skills/humanize-korean/references" "$SSH_TARGET:brandatlas-tools/humanize/.claude/skills/humanize-korean/"
 rsync -az -e "$SSH" "$HK/LICENSE" "$SSH_TARGET:brandatlas-tools/humanize/LICENSE"
 
-echo "[2/5] 게이트웨이 키"
-( set -a; . "$ENV_FILE"; set +a; [ -n "${LLM_GATEWAY_KEY:-}" ] || { echo "LLM_GATEWAY_KEY 없음" >&2; exit 1; }; printf %s "$LLM_GATEWAY_KEY" ) \
-  | $SSH "$SSH_TARGET" 'umask 077; cat > ~/brandatlas-admin/llm-gateway-key && chmod 600 ~/brandatlas-admin/llm-gateway-key && echo "  저장(600)"'
+echo "[2/5] 게이트웨이 키 — 매거진 전용 클라이언트(brandatlas-magazine, 2026-09-14) 우선, 없으면 research 키"
+if $SSH "$SSH_TARGET" 'test -s ~/llm-oauth-gateway/secrets/brandatlas_magazine_api_key'; then
+  $SSH "$SSH_TARGET" 'install -m 600 ~/llm-oauth-gateway/secrets/brandatlas_magazine_api_key ~/brandatlas-admin/llm-gateway-key && echo "  매거진 전용 키(600)"'
+else
+  ( set -a; . "$ENV_FILE"; set +a; [ -n "${LLM_GATEWAY_KEY:-}" ] || { echo "LLM_GATEWAY_KEY 없음" >&2; exit 1; }; printf %s "$LLM_GATEWAY_KEY" ) \
+    | $SSH "$SSH_TARGET" 'umask 077; cat > ~/brandatlas-admin/llm-gateway-key && chmod 600 ~/brandatlas-admin/llm-gateway-key && echo "  research 키(600) — 매거진 전용 키가 아직 없음"'
+fi
 
 echo "[3/5] 소스 미러"
 REMOTE_N="$($SSH "$SSH_TARGET" 'ls ~/brandatlas-src/content/magazine/*.md 2>/dev/null | wc -l')"
@@ -38,16 +42,47 @@ rsync -az --delete -e "$SSH" \
   --exclude='archive/' --exclude='300-brands/' --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' --exclude='content/magazine/drafts/' \
   "${EXTRA[@]}" "$SITE/" "$SSH_TARGET:brandatlas-src/"
 
-echo "[4/5] 공개 지문 초기화(설치 직후 불필요한 서버 재빌드 방지 — 현재 원고 = 현재 공개본)"
-$SSH "$SSH_TARGET" 'cd ~/brandatlas-src && node -e "
+echo "[4/5] 공개 지문 초기화 — 처음 설치할 때만(다시 실행해도 공개 대기 원고를 묻지 않게)"
+$SSH "$SSH_TARGET" 'test -f ~/brandatlas-admin/data/magazine/.published-fp && { echo "  기존 지문 유지"; exit 0; }; cd ~/brandatlas-src && node -e "
 const fs=require(\"fs\"),c=require(\"crypto\"),d=\"content/magazine\";
 const t=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
 const files=fs.existsSync(d)?fs.readdirSync(d).filter(f=>f.endsWith(\".md\")).sort():[];
 const due=files.filter(f=>{const m=/\"date\":\s*\"([0-9-]+)\"/.exec(fs.readFileSync(d+\"/\"+f,\"utf8\"));return m&&m[1]<=t}).length;
 const h=c.createHash(\"sha256\");for(const f of files)h.update(f+fs.readFileSync(d+\"/\"+f));h.update(\"due:\"+due);process.stdout.write(h.digest(\"hex\").slice(0,16))" > ~/brandatlas-admin/data/magazine/.published-fp; echo "  $(cat ~/brandatlas-admin/data/magazine/.published-fp)"'
 
-echo "[5/5] crontab"
-$SSH "$SSH_TARGET" 'LINE="30 * * * * /home/developer/brandatlas-src/scripts/server/magazine-hourly.sh >> /home/developer/brandatlas-logs/magazine.log 2>&1";
-  crontab -l 2>/dev/null | grep -qF "magazine-hourly.sh" || { (crontab -l 2>/dev/null; echo "# brand-atlas 매거진(자동 준비·승인 반영·공개) — 어드민 매거진 탭에서 ON/OFF"; echo "$LINE") | crontab -; };
-  crontab -l | grep -n "magazine-hourly"'
+echo "[5/5] systemd 사용자 유닛(매일 00:30 + 어드민 신호 즉시 실행) — 예전 매시 crontab은 지운다"
+$SSH "$SSH_TARGET" 'set -e; D=~/.config/systemd/user; mkdir -p $D; touch ~/brandatlas-admin/data/magazine/trigger
+cat > $D/brandatlas-magazine.service <<U
+[Unit]
+Description=brand-atlas 매거진 서버 작업(자동 초안·승인 반영·공개)
+[Service]
+Type=oneshot
+ExecStart=/home/developer/brandatlas-src/scripts/server/magazine-job.sh
+StandardOutput=append:/home/developer/brandatlas-logs/magazine.log
+StandardError=append:/home/developer/brandatlas-logs/magazine.log
+TimeoutStartSec=3600
+U
+cat > $D/brandatlas-magazine.timer <<U
+[Unit]
+Description=brand-atlas 매거진 매일 00:30(공개일 기사 공개·예약 부족 시 초안)
+[Timer]
+OnCalendar=*-*-* 00:30:00
+Persistent=true
+[Install]
+WantedBy=timers.target
+U
+cat > $D/brandatlas-magazine.path <<U
+[Unit]
+Description=brand-atlas 매거진 — 어드민 신호(지금 시작·승인·반려) 즉시 실행
+[Path]
+PathModified=/home/developer/brandatlas-admin/data/magazine/trigger
+Unit=brandatlas-magazine.service
+[Install]
+WantedBy=default.target
+U
+systemctl --user daemon-reload
+systemctl --user enable --now brandatlas-magazine.timer brandatlas-magazine.path >/dev/null 2>&1
+crontab -l 2>/dev/null | grep -v "magazine-hourly.sh" | grep -v "brand-atlas 매거진(자동 준비" | crontab -
+systemctl --user list-timers brandatlas-magazine.timer --no-pager | sed -n 2p
+echo "path: $(systemctl --user is-active brandatlas-magazine.path) · crontab 잔여: $(crontab -l 2>/dev/null | grep -c magazine || true)"'
 echo "완료"

@@ -574,7 +574,7 @@ function renderGsc(host) {
 }
 
 // ─── 10. 매거진 자동 준비 ───────────────────────────────────────────────────
-// 초안 작성·승인 반영·공개는 배포 서버의 매시 30분 작업이 한다. 여기서는 ON/OFF와 승인·반려만 한다.
+// 초안 작성·승인 반영·공개는 배포 서버 작업이 한다(매일 00:30 + 여기서 버튼을 누르면 즉시).
 function renderMagazine(host) {
   const b = box(host, "매거진 자동 준비", "예약 원고가 14일치 이하로 남으면 AI가 다음 달 호 초안을 쓰고 자동 검증해 여기에 올립니다. 승인한 초안만 그 달의 월요일에 예약되고, 주간 배포가 공개일에 엽니다.");
   const out = el("div", {});
@@ -591,11 +591,11 @@ function renderMagazine(host) {
       cb.addEventListener("change", async () => { cb.disabled = true; try { await post("/api/magazine/settings", { [key]: cb.checked }); } finally { load(); } });
       return el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, cb, el("b", {}, label), el("span", { class: "muted" }, help));
     };
-    const runBtn = el("button", { class: "act" }, s.runRequested ? "시작 요청됨 — 다음 정각 30분에 실행" : "지금 시작");
+    const runBtn = el("button", { class: "act" }, s.runRequested ? "실행 중 — 초안 작성은 몇 분 걸립니다" : "지금 시작");
     runBtn.disabled = !!s.runRequested || !s.autoDraft;
     runBtn.addEventListener("click", async () => { runBtn.disabled = true; await post("/api/magazine/settings", { runRequested: true }); load(); });
     out.append(
-      toggle("autoDraft", "자동 준비", "켜면 예약 원고가 부족할 때 다음 달 호 초안을 AI가 씁니다(하루 한 번까지)."),
+      toggle("autoDraft", "자동 준비", "켜면 예약 원고가 부족할 때 다음 달 호 초안을 AI가 씁니다(매일 00:30 점검)."),
       toggle("autoSchedule", "검증 통과 시 자동 예약", "켜면 자동 검증을 통과한 초안은 승인 없이 예약됩니다. 기본은 꺼 두고 사람이 승인하는 것을 권합니다."),
       el("div", { class: "row", style: "margin:10px 0 18px" }, runBtn, el("span", { class: "muted" }, s.lastRunAt ? `마지막 실행 ${s.lastRunAt.slice(0, 16).replace("T", " ")}` : "")),
     );
@@ -608,7 +608,7 @@ function renderMagazine(host) {
     out.append(inner);
 
     const list = [...(d.drafts.drafts || [])].reverse();
-    const tb = el("div", { class: "box" }, el("h2", {}, "초안 대기열"), el("div", { class: "sub" }, "승인·반려는 다음 서버 작업(매시 30분) 때 반영되고, 공개일이 되면 서버가 직접 빌드해 공개합니다."));
+    const tb = el("div", { class: "box" }, el("h2", {}, "초안 대기열"), el("div", { class: "sub" }, "승인·반려는 누르는 즉시 서버 작업이 반영하고, 공개일이 되면 서버가 직접 빌드해 공개합니다."));
     const pv = el("div", { class: "box", style: "display:none" });
     if (!list.length) tb.append(el("div", { class: "empty" }, "아직 초안이 없습니다."));
     else tb.append(el("div", { class: "scroll" }, table(["호", "제목", "각도", "자동 검증", "상태", ""], list.map((x) => {
