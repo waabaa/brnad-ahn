@@ -46,6 +46,7 @@ const TABS = [
   { id: "audit", name: "SEO 검증", render: renderAudit },
   { id: "keywords", name: "키워드", render: renderKeywords },
   { id: "ga4", name: "GA4", render: renderGa4 },
+  { id: "gsc", name: "구글 서치콘솔", render: renderGsc },
   { id: "contact", name: "문의", render: renderContact },
   { id: "settings", name: "설정", render: renderSettings },
 ];
@@ -510,6 +511,59 @@ function renderGa4(host) {
           })))
       : el("div", { class: "empty" }, "아직 데이터가 없습니다. 태그를 심은 지 24~48시간이 지나야 채워집니다."));
     out.append(pb);
+  });
+  btn.addEventListener("click", load);
+  load();
+}
+
+// ─── 9. 구글 서치 콘솔 ──────────────────────────────────────────────────────
+function renderGsc(host) {
+  const b = box(host, "구글 서치 콘솔", "구글 검색 노출·클릭·순위와 색인 상태. 성과 데이터는 2~3일 늦게 들어오고, 결과는 6시간 캐시합니다.");
+  const sel = el("select", { class: "txt" }, ...[28, 90, 480].map((d) => el("option", { value: d, selected: d === 28 ? "" : null }, d === 480 ? "최대(16개월)" : `최근 ${d}일`)));
+  const btn = el("button", { class: "act" }, "조회");
+  const out = el("div", {});
+  b.append(el("div", { class: "row" }, sel, btn), out);
+  const pct = (v) => (v == null ? "—" : `${(v * 100).toFixed(1)}%`);
+  const pos = (v) => (v == null ? "—" : v.toFixed(1));
+  const load = () => withLoading(btn, async () => {
+    const d = await api(`/api/gsc?days=${sel.value}`);
+    out.innerHTML = "";
+    if (!d.enabled) { out.append(el("div", { class: "empty" }, d.reason || "비활성")); return; }
+    const s = d.summary || {};
+    const inner = el("div", {});
+    cards(inner, [
+      { k: "클릭", v: num(s.clicks || 0), s: `${d.range[0]} ~ ${d.range[1]}`, accent: true },
+      { k: "노출", v: num(s.impressions || 0) },
+      { k: "CTR", v: pct(s.ctr) },
+      { k: "평균 순위", v: pos(s.position) },
+    ]);
+    out.append(inner);
+    const ib = el("div", { class: "box" }, el("h2", {}, "색인 상태 — URL 검사"), el("div", { class: "sub" }, `대표 페이지 ${d.inspected.length}곳 · ${d.cachedAt} 기준`));
+    ib.append(table(["경로", "판정", "상태", "마지막 크롤링"], d.inspected.map((r) => [r.path, r.verdict === "PASS" ? "색인됨" : r.verdict, r.coverage || "—", r.lastCrawl ? r.lastCrawl.slice(0, 10) : "—"])));
+    out.append(ib);
+    const smb = el("div", { class: "box" }, el("h2", {}, "사이트맵"));
+    smb.append(table(["사이트맵", "제출", "구글이 가져감", "대기", { label: "오류", num: 1 }, { label: "URL 수", num: 1 }],
+      d.sitemaps.map((r) => [r.path.replace(d.site, "/"), (r.lastSubmitted || "").slice(0, 10), r.lastDownloaded ? r.lastDownloaded.slice(0, 10) : "아직", r.isPending ? "대기 중" : "—", r.errors, r.submitted || "—"])));
+    out.append(smb);
+    if (d.daily?.length) {
+      const db = el("div", { class: "box" }, el("h2", {}, "일별 추이"));
+      const c = el("canvas", { id: "chGsc" });
+      db.append(el("div", { class: "chartwrap" }, c));
+      out.append(db);
+      chart(c, { type: "line", data: { labels: d.daily.map((r) => r.date), datasets: [
+        { label: "노출", data: d.daily.map((r) => r.impressions), borderColor: "#141414", backgroundColor: "transparent", tension: .3, pointRadius: 2 },
+        { label: "클릭", data: d.daily.map((r) => r.clicks), borderColor: "#e2231a", backgroundColor: "rgba(226,35,26,.08)", fill: true, tension: .3, pointRadius: 2 },
+      ] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } } });
+    }
+    const g = el("div", { class: "grid2" });
+    out.append(g);
+    const cols = [{ label: "클릭", num: 1 }, { label: "노출", num: 1 }, { label: "순위", num: 1 }];
+    const qb = el("div", { class: "box" }, el("h2", {}, "검색어"));
+    qb.append(d.queries?.length ? el("div", { class: "scroll" }, table(["검색어", ...cols], d.queries.map((r) => [r.query, r.clicks, r.impressions, pos(r.position)]))) : el("div", { class: "empty" }, "아직 구글 검색 노출이 없습니다."));
+    g.append(qb);
+    const pb = el("div", { class: "box" }, el("h2", {}, "페이지"));
+    pb.append(d.pages?.length ? el("div", { class: "scroll" }, table(["페이지", ...cols], d.pages.map((r) => [r.page.replace(d.site, "/"), r.clicks, r.impressions, pos(r.position)]))) : el("div", { class: "empty" }, "아직 구글 검색 노출이 없습니다."));
+    g.append(pb);
   });
   btn.addEventListener("click", load);
   load();

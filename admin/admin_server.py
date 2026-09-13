@@ -243,6 +243,74 @@ def crawler_report(days: int = 7) -> dict:
     }
 
 
+# ─── Google Search Console ─────────────────────────────────────────────────
+# GA4와 같은 서비스 계정 키를 쓴다. 이 계정은 2026-09-13 사이트 소유권 확인(HTML 파일
+# googled16cb13cacb89c16.html — 지우면 소유권이 풀린다)으로 URL 접두어 속성의 소유자가 됐다.
+# URL 검사는 하루 2,000건 한도라 결과를 6시간 캐시한다.
+GSC_SITE_URL = os.environ.get("GSC_SITE_URL", "https://brandatlas.co.kr/")
+GSC_SCOPE = "https://www.googleapis.com/auth/webmasters.readonly"
+GSC_INSPECT_PATHS = ["/", "/magazine/", "/pages/ganada.html", "/pages/industry.html", "/category/fashion-luxury.html",
+                     "/brand/gucci.html", "/brand/nike.html", "/brand/gentle-monster.html", "/brand/samsung-electronics.html"]
+_gsc_token: dict = {"value": None, "expires": 0.0}
+_gsc_cache: dict = {}
+
+
+def gsc_access_token() -> str:
+    if _gsc_token["value"] and time.time() < _gsc_token["expires"] - 60:
+        return _gsc_token["value"]
+    from google.oauth2 import service_account
+    from google.auth.transport.requests import Request as GoogleRequest
+    creds = service_account.Credentials.from_service_account_file(str(GA4_SA_KEY_FILE), scopes=[GSC_SCOPE])
+    creds.refresh(GoogleRequest())
+    _gsc_token["value"] = creds.token
+    _gsc_token["expires"] = creds.expiry.replace(tzinfo=timezone.utc).timestamp() if creds.expiry else time.time() + 3000
+    return creds.token
+
+
+def gsc_call(url: str, body: dict | None = None) -> dict:
+    req = urllib.request.Request(url, data=json.dumps(body).encode("utf-8") if body is not None else None,
+                                 method="POST" if body is not None else "GET",
+                                 headers={"Authorization": f"Bearer {gsc_access_token()}", "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read().decode("utf-8") or "{}")
+
+
+def gsc_report(days: int = 28) -> dict:
+    key = ("report", days)
+    hit = _gsc_cache.get(key)
+    if hit and time.time() - hit[0] < 6 * 3600:
+        return hit[1]
+    site = urllib.parse.quote(GSC_SITE_URL, safe="")
+    base = f"https://www.googleapis.com/webmasters/v3/sites/{site}"
+    # 검색 성과 데이터는 2~3일 늦게 들어온다.
+    end = datetime.now(KST).date() - timedelta(days=2)
+    start = end - timedelta(days=days - 1)
+    def query(dims, n=25):
+        rows = gsc_call(f"{base}/searchAnalytics/query", {"startDate": str(start), "endDate": str(end), "dimensions": dims, "rowLimit": n}).get("rows", [])
+        return [{**({dims[i]: r["keys"][i] for i in range(len(dims))}), "clicks": r["clicks"], "impressions": r["impressions"], "ctr": r["ctr"], "position": r["position"]} for r in rows]
+    total = query([], 1)
+    sitemaps = [{"path": s.get("path"), "lastSubmitted": s.get("lastSubmitted"), "lastDownloaded": s.get("lastDownloaded"),
+                 "isPending": s.get("isPending"), "errors": int(s.get("errors") or 0), "warnings": int(s.get("warnings") or 0),
+                 "submitted": sum(int(c.get("submitted") or 0) for c in s.get("contents", []))} for s in gsc_call(f"{base}/sitemaps").get("sitemap", [])]
+    inspected = []
+    origin = GSC_SITE_URL.rstrip("/")
+    for p in GSC_INSPECT_PATHS:
+        try:
+            r = gsc_call("https://searchconsole.googleapis.com/v1/urlInspection/index:inspect",
+                         {"inspectionUrl": origin + p, "siteUrl": GSC_SITE_URL, "languageCode": "ko"})["inspectionResult"]["indexStatusResult"]
+            inspected.append({"path": p, "verdict": r.get("verdict"), "coverage": r.get("coverageState"), "lastCrawl": r.get("lastCrawlTime")})
+        except (urllib.error.URLError, KeyError, ValueError) as e:
+            inspected.append({"path": p, "verdict": "ERROR", "coverage": str(e)[:120], "lastCrawl": None})
+    out = {
+        "enabled": True, "days": days, "site": GSC_SITE_URL, "range": [str(start), str(end)],
+        "summary": total[0] if total else {"clicks": 0, "impressions": 0, "ctr": 0, "position": None},
+        "daily": query(["date"], 500), "queries": query(["query"]), "pages": query(["page"]),
+        "sitemaps": sitemaps, "inspected": inspected, "cachedAt": datetime.now(KST).isoformat(timespec="minutes"),
+    }
+    _gsc_cache[key] = (time.time(), out)
+    return out
+
+
 # ─── GA4 Data API ──────────────────────────────────────────────────────────
 # 측정 ID(G-…)는 데이터를 "보내는" 쪽이고, 여기서 데이터를 "읽으려면" 속성 ID와
 # 서비스 계정 권한이 따로 필요하다. 자격증명이 없으면 조용히 비활성으로 두고
@@ -568,6 +636,18 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json(200, crawler_report(days))
             except OSError as e:
                 return self._json(500, {"error": f"로그 읽기 실패: {e}"})
+        if route == "/api/gsc":
+            ok, why = ga4_ready()
+            if not ok and not GA4_SA_KEY_FILE.exists():
+                return self._json(200, {"enabled": False, "reason": why})
+            days = max(7, min(int((qs.get("days") or ["28"])[0] or 28), 480))
+            try:
+                return self._json(200, gsc_report(days))
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode("utf-8", "replace")[:400]
+                return self._json(502, {"error": f"서치 콘솔 조회 실패 HTTP {e.code}: {detail}"})
+            except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
+                return self._json(502, {"error": f"서치 콘솔 조회 실패: {e}"})
         if route == "/api/ga4":
             ok, why = ga4_ready()
             if not ok:

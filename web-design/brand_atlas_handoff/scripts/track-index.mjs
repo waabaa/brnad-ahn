@@ -18,6 +18,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execFileSync } from "node:child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO = path.resolve(__dirname, "../../..");
@@ -106,6 +107,23 @@ const idx = manualIndexed != null
   : auto;   // source는 naverIndexed()가 어느 경로로 쟀는지 그대로 담는다(apihub|developers)
 const live = await liveCheck();
 
+// 구글 서치 콘솔(2026-09-13 연동). 서비스 계정 키는 서버에만 있으므로 SSH로 어드민의 gsc_report()를 불러 요약만 받는다.
+// 실패해도 기록은 계속한다(google.error에 사유).
+function googleSnapshot() {
+  const key = process.env.SSH_KEY || path.join(process.env.HOME || "", ".ssh/resort_developer_temp");
+  const py = "import json,admin_server as a;r=a.gsc_report(28);print(json.dumps({'range':r['range'],'clicks':r['summary'].get('clicks',0),'impressions':r['summary'].get('impressions',0),'position':r['summary'].get('position'),'sitemapUrls':sum(s['submitted'] for s in r['sitemaps']),'sitemapsDownloaded':[s['lastDownloaded'] for s in r['sitemaps']],'inspected':{i['path']:i['coverage'] for i in r['inspected']}},ensure_ascii=False))";
+  try {
+    const out = execFileSync("ssh", ["-i", key, "-o", "IdentitiesOnly=yes", "-o", "BatchMode=yes", process.env.SSH_TARGET || "developer@test.resort.co.kr",
+      `cd /home/developer/brandatlas-admin && set -a && . ./env && set +a && .venv/bin/python -c "${py}"`], { encoding: "utf8", timeout: 180000 });
+    const g = JSON.parse(out.trim().split("\n").pop());
+    g.indexedSample = Object.values(g.inspected).filter(v => /색인이 생성되었습니다/.test(v)).length;
+    return g;
+  } catch (e) {
+    return { error: String(e.message || e).slice(0, 200) };
+  }
+}
+const google = googleSnapshot();
+
 const entry = {
   date: kstDate,
   naverIndexed: idx.value,
@@ -114,6 +132,7 @@ const entry = {
   impressions30d: manualImpr != null ? Number(manualImpr) : null,  // 서치어드바이저 수동 입력
   clicks30d: manualClicks != null ? Number(manualClicks) : null,
   live,
+  google,
   event: note || undefined,
 };
 

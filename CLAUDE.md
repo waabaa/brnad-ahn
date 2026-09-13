@@ -258,6 +258,11 @@ deploy/deploy-admin.sh    UI·스냅샷 갱신
 (640 www-data:adm)를 읽어야 하는데 `developer`의 user manager는 오래전 그룹으로 떠 있어
 `adm`이 빠져 있다. 세션을 재시작하면 같은 매니저에 물린 LLM 게이트웨이도 죽는다.
 
+**구글 서치 콘솔(2026-09-13)**: GA4와 같은 서비스 계정(`brandatlas-admin@brandatlas.iam.gserviceaccount.com`)이 HTML 파일
+소유권 확인으로 URL 접두어 속성 `https://brandatlas.co.kr/`의 소유자다. **웹루트의 `googled16cb13cacb89c16.html`을 지우지 말 것** —
+지우면 소유권이 풀려 어드민 '구글 서치콘솔' 탭과 주간 기록(`track-index.mjs`의 `google` 필드)이 멈춘다. 서치 콘솔 화면의 '사용자 추가'는
+서비스 계정 이메일을 "사용자를 찾을 수 없음"으로 거부해서 이 경로를 썼다(Site Verification API 사용).
+
 데이터는 `reports/admin-snapshot.json`(빌드 산출)과 실시간 조회(네이버 API·nginx 로그)를
 합쳐 쓴다. 스냅샷은 `scripts/build-admin-snapshot.mjs`가 만들고 주간 리프레시에 물려 있다.
 
