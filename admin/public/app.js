@@ -47,6 +47,7 @@ const TABS = [
   { id: "keywords", name: "키워드", render: renderKeywords },
   { id: "ga4", name: "GA4", render: renderGa4 },
   { id: "gsc", name: "구글 서치콘솔", render: renderGsc },
+  { id: "magazine", name: "매거진", render: renderMagazine },
   { id: "contact", name: "문의", render: renderContact },
   { id: "settings", name: "설정", render: renderSettings },
 ];
@@ -570,6 +571,74 @@ function renderGsc(host) {
   });
   btn.addEventListener("click", load);
   load();
+}
+
+// ─── 10. 매거진 자동 준비 ───────────────────────────────────────────────────
+// 초안은 로컬 작업(매시 30분)이 만들어 올리고, 여기서는 ON/OFF와 승인·반려만 한다. 결정은 다음 동기화 때 반영된다.
+function renderMagazine(host) {
+  const b = box(host, "매거진 자동 준비", "예약 원고가 14일치 이하로 남으면 AI가 다음 달 호 초안을 쓰고 자동 검증해 여기에 올립니다. 승인한 초안만 그 달의 월요일에 예약되고, 주간 배포가 공개일에 엽니다.");
+  const out = el("div", {});
+  b.append(out);
+  const post = (path, body) => api(path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  const statusKo = { pending: "대기", scheduled: "예약됨", rejected: "반려" };
+
+  const load = async () => {
+    const d = await api("/api/magazine");
+    out.innerHTML = "";
+    const s = d.settings, q = d.queue;
+    const toggle = (key, label, help) => {
+      const cb = el("input", { type: "checkbox", checked: s[key] ? "" : null });
+      cb.addEventListener("change", async () => { cb.disabled = true; try { await post("/api/magazine/settings", { [key]: cb.checked }); } finally { load(); } });
+      return el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, cb, el("b", {}, label), el("span", { class: "muted" }, help));
+    };
+    const runBtn = el("button", { class: "act" }, s.runRequested ? "시작 요청됨 — 다음 정각 30분에 실행" : "지금 시작");
+    runBtn.disabled = !!s.runRequested || !s.autoDraft;
+    runBtn.addEventListener("click", async () => { runBtn.disabled = true; await post("/api/magazine/settings", { runRequested: true }); load(); });
+    out.append(
+      toggle("autoDraft", "자동 준비", "켜면 예약 원고가 부족할 때 다음 달 호 초안을 AI가 씁니다(하루 한 번까지)."),
+      toggle("autoSchedule", "검증 통과 시 자동 예약", "켜면 자동 검증을 통과한 초안은 승인 없이 예약됩니다. 기본은 꺼 두고 사람이 승인하는 것을 권합니다."),
+      el("div", { class: "row", style: "margin:10px 0 18px" }, runBtn, el("span", { class: "muted" }, s.lastRunAt ? `마지막 실행 ${s.lastRunAt.slice(0, 16).replace("T", " ")}` : "")),
+    );
+    const inner = el("div", {});
+    cards(inner, [
+      { k: "예약 원고", v: q ? `${q.scheduled.length}편` : "—", s: q ? `마지막 공개 ${q.lastScheduled || "없음"}` : "스냅샷 없음", accent: !!q?.low },
+      { k: "남은 기간", v: q ? `${q.daysLeft}일` : "—", s: q?.low ? "⚠ 다음 달 원고 필요" : "여유 있음" },
+      { k: "대기 초안", v: `${(d.drafts.drafts || []).filter((x) => x.status === "pending").length}편`, s: d.drafts.syncedAt ? `동기화 ${d.drafts.syncedAt.slice(0, 16).replace("T", " ")}` : "아직 없음" },
+    ]);
+    out.append(inner);
+
+    const list = [...(d.drafts.drafts || [])].reverse();
+    const tb = el("div", { class: "box" }, el("h2", {}, "초안 대기열"), el("div", { class: "sub" }, "승인·반려는 다음 동기화(매시 30분) 때 반영됩니다."));
+    const pv = el("div", { class: "box", style: "display:none" });
+    if (!list.length) tb.append(el("div", { class: "empty" }, "아직 초안이 없습니다."));
+    else tb.append(el("div", { class: "scroll" }, table(["호", "제목", "각도", "자동 검증", "상태", ""], list.map((x) => {
+      const dec = d.decisions[x.slug]?.action;
+      const act = el("span", { class: "row", style: "gap:6px" });
+      if (x.status === "pending") {
+        const view = el("button", { class: "act" }, "미리보기");
+        view.addEventListener("click", async () => {
+          const r = await api(`/api/magazine/draft?slug=${encodeURIComponent(x.slug)}`);
+          const body = r.text.replace(/^---json[\s\S]*?\n---\n/, "");
+          pv.style.display = ""; pv.innerHTML = "";
+          pv.append(el("h2", {}, x.title), el("div", { class: "sub" }, x.dek));
+          for (const blk of body.split(/\n{2,}/)) {
+            const t = blk.trim(); if (!t) continue;
+            if (t.startsWith("## ")) pv.append(el("h3", { style: "margin:18px 0 6px" }, t.slice(3)));
+            else if (t.startsWith("::")) pv.append(el("div", { class: "muted", style: "border-left:3px solid #e2231a;padding:4px 10px;margin:8px 0" }, t));
+            else pv.append(el("p", { style: "line-height:1.8;margin:0 0 10px" }, t.replace(/\[([^\]]+)\]\(brand:[^)]+\)/g, "$1")));
+          }
+          pv.scrollIntoView({ behavior: "smooth" });
+        });
+        const mk = (label, action) => { const bt = el("button", { class: "act" }, label); bt.addEventListener("click", async () => { await post("/api/magazine/decision", { slug: x.slug, action }); load(); }); return bt; };
+        act.append(view, dec ? mk(`${dec === "approve" ? "승인" : "반려"} 취소`, "undo") : mk("승인", "approve"), dec ? "" : mk("반려", "reject"));
+      }
+      const chk = x.checks?.ok ? "통과" : `실패 ${(x.checks?.issues || []).length}건`;
+      return [`No.${String(x.issue).padStart(2, "0")}`, x.title, x.type || "", el("span", { title: (x.checks?.issues || []).join("\n") }, `${chk} · 문체 ${x.checks?.risk || "?"}`),
+        dec ? `${dec === "approve" ? "승인" : "반려"} 대기` : `${statusKo[x.status] || x.status}${x.date ? ` (${x.date})` : ""}`, act];
+    }))));
+    out.append(tb, pv);
+  };
+  load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
 }
 
 /** 아직 못 읽는 상태일 때의 안내 — 무엇이 빠졌는지 서버가 알려준 사유를 그대로 보여 준다. */

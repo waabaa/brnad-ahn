@@ -243,6 +243,42 @@ def crawler_report(days: int = 7) -> dict:
     }
 
 
+# ─── 매거진 자동 준비(2026-09-13) ─────────────────────────────────────────
+# 초안은 로컬 저장소의 scripts/magazine-auto.mjs가 만들고 magazine-sync.mjs가 여기로 올린다.
+# 어드민은 설정(ON/OFF)과 승인·반려 결정만 쓴다 — 실제 예약은 다음 동기화(매시 30분·주간 리프레시)가 한다.
+MAG_DIR = DATA_DIR / "magazine"
+MAG_SLUG = re.compile(r"^[a-z0-9-]{3,120}$")
+MAG_DEFAULT = {"autoDraft": False, "autoSchedule": False, "runRequested": False}
+
+
+def _mag_read(name: str, fallback):
+    p = MAG_DIR / name
+    try:
+        return json.loads(p.read_text("utf-8")) if p.exists() else fallback
+    except (OSError, ValueError):
+        return fallback
+
+
+def _mag_write(name: str, payload) -> None:
+    MAG_DIR.mkdir(parents=True, exist_ok=True)
+    tmp = MAG_DIR / f".{name}.tmp"
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")
+    tmp.replace(MAG_DIR / name)
+
+
+def magazine_state() -> dict:
+    try:
+        snap = json.loads((DATA_DIR / "admin-snapshot.json").read_text("utf-8"))
+    except (OSError, ValueError):
+        snap = {}
+    return {
+        "settings": {**MAG_DEFAULT, **_mag_read("settings.json", {})},
+        "queue": snap.get("magazine"),
+        "drafts": _mag_read("drafts.json", {"drafts": []}),
+        "decisions": _mag_read("decisions.json", {}),
+    }
+
+
 # ─── Google Search Console ─────────────────────────────────────────────────
 # GA4와 같은 서비스 계정 키를 쓴다. 이 계정은 2026-09-13 사이트 소유권 확인(HTML 파일
 # googled16cb13cacb89c16.html — 지우면 소유권이 풀린다)으로 URL 접두어 속성의 소유자가 됐다.
@@ -530,6 +566,29 @@ class Handler(BaseHTTPRequestHandler):
             return self._json(401, {"error": "인증 필요"})
         if route == "/api/trend":
             return self._trend()
+        if route in ("/api/magazine/settings", "/api/magazine/decision"):
+            # JSON 본문만 받는다(폼 전송 CSRF 차단 — 쿠키는 SameSite=Lax).
+            if "application/json" not in (self.headers.get("Content-Type") or ""):
+                return self._json(415, {"error": "application/json 필요"})
+            body = self._body()
+            if route == "/api/magazine/settings":
+                cur = {**MAG_DEFAULT, **_mag_read("settings.json", {})}
+                for k in ("autoDraft", "autoSchedule", "runRequested"):
+                    if k in body:
+                        cur[k] = bool(body[k])
+                cur["updatedAt"] = datetime.now(KST).isoformat(timespec="seconds")
+                _mag_write("settings.json", cur)
+                return self._json(200, {"ok": True, "settings": cur})
+            slug, action = str(body.get("slug") or ""), str(body.get("action") or "")
+            if not MAG_SLUG.match(slug) or action not in ("approve", "reject", "undo"):
+                return self._json(400, {"error": "slug·action 확인"})
+            dec = _mag_read("decisions.json", {})
+            if action == "undo":
+                dec.pop(slug, None)
+            else:
+                dec[slug] = {"action": action, "at": datetime.now(KST).isoformat(timespec="seconds")}
+            _mag_write("decisions.json", dec)
+            return self._json(200, {"ok": True, "decisions": dec})
         return self._json(404, {"error": "not found"})
 
     def _login(self):
@@ -636,6 +695,16 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json(200, crawler_report(days))
             except OSError as e:
                 return self._json(500, {"error": f"로그 읽기 실패: {e}"})
+        if route == "/api/magazine":
+            return self._json(200, magazine_state())
+        if route == "/api/magazine/draft":
+            slug = (qs.get("slug") or [""])[0]
+            if not MAG_SLUG.match(slug):
+                return self._json(400, {"error": "slug 확인"})
+            p = MAG_DIR / "drafts" / f"{slug}.md"
+            if not p.exists():
+                return self._json(404, {"error": "초안 없음(이미 예약·반려됐을 수 있음)"})
+            return self._json(200, {"slug": slug, "text": p.read_text("utf-8")})
         if route == "/api/gsc":
             ok, why = ga4_ready()
             if not ok and not GA4_SA_KEY_FILE.exists():
