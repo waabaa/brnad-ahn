@@ -38,7 +38,7 @@ if [ -z "$DRY" ]; then
   REMOTE_N="$($SSH "$SSH_TARGET" "ls $SRCMIRROR/content/magazine/*.md 2>/dev/null | wc -l" || echo 0)"
   LOCAL_N="$(ls "$SITE"/content/magazine/*.md 2>/dev/null | wc -l)"
   if [ "${REMOTE_N:-0}" -eq 0 ] && [ "$LOCAL_N" -gt 0 ]; then
-    echo "! 서버 매거진 원고가 비어 있음 — 받아 오기 생략(deploy/setup-magazine-server.sh로 서버를 먼저 준비할 것)"
+    echo "! 서버 매거진 원고가 비어 있음 — 받아 오기 생략(deploy/setup-server-jobs.sh로 서버를 먼저 준비할 것)"
   else
   CHANGED="$(rsync -a --delete --itemize-changes --exclude='drafts/' -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/magazine/" "$SITE/content/magazine/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
   if [ "${CHANGED:-0}" -gt 0 ]; then
@@ -48,8 +48,9 @@ if [ -z "$DRY" ]; then
   fi
 fi
 
-# ② 서버 소스 미러 — 서버의 매거진 작업(초안·승인·공개 빌드)이 쓰는 사이트 소스. 원고 폴더는 서버 소유라 올리지 않는다.
-rsync -az --delete $DRY -e "$SSH" \
+# ② 서버 소스 미러 — 서버 작업(매거진·주간 리프레시)이 빌드하는 사이트 소스. 원고 폴더는 서버 소유라 올리지 않는다.
+#    서버 빌드와 겹치지 않게 원격 rsync를 서버의 빌드 잠금 안에서 돌린다.
+rsync -az --delete $DRY -e "$SSH" --rsync-path="flock -w 1800 /home/developer/.brandatlas-build.lock rsync" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scratchpad/' --exclude='source-imports/' \
   --exclude='archive/' --exclude='300-brands/' --exclude='content/magazine/' \
   --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' \
@@ -57,7 +58,7 @@ rsync -az --delete $DRY -e "$SSH" \
 
 # ③ 공개 스테이징 — 제외 목록은 서버 매거진 공개와 같은 파일(scripts/server/publish-excludes.txt)을 쓴다.
 # --delete-excluded: 제외 목록에 새로 넣은 경로가 이전 배포분으로 서버에 남지 않게 한다(2026-09-13, archive/·300-brands/가 남아 있었다).
-rsync -az --delete --delete-excluded $DRY -e "$SSH" \
+rsync -az --delete --delete-excluded $DRY -e "$SSH" --rsync-path="flock -w 600 $LOCK rsync" \
   --exclude-from="$SITE/scripts/server/publish-excludes.txt" \
   "$SRC" "$SSH_TARGET:$STAGING/"
 

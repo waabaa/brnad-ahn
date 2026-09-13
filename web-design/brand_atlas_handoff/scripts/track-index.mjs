@@ -22,7 +22,8 @@ import { execFileSync } from "node:child_process";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO = path.resolve(__dirname, "../../..");
-const LOG = path.join(REPO, ".omc/state/seo-index-log.json");
+// 서버 주간 리프레시는 INDEX_LOG(어드민 데이터 폴더)에 쓴다. 로컬 기본은 저장소의 .omc/state.
+const LOG = process.env.INDEX_LOG || path.join(REPO, ".omc/state/seo-index-log.json");
 
 const arg = (name) => {
   const i = process.argv.indexOf(name);
@@ -113,8 +114,11 @@ function googleSnapshot() {
   const key = process.env.SSH_KEY || path.join(process.env.HOME || "", ".ssh/resort_developer_temp");
   const py = "import json,admin_server as a;r=a.gsc_report(28);print(json.dumps({'range':r['range'],'clicks':r['summary'].get('clicks',0),'impressions':r['summary'].get('impressions',0),'position':r['summary'].get('position'),'sitemapUrls':sum(s['submitted'] for s in r['sitemaps']),'sitemapsDownloaded':[s['lastDownloaded'] for s in r['sitemaps']],'inspected':{i['path']:i['coverage'] for i in r['inspected']}},ensure_ascii=False))";
   try {
-    const out = execFileSync("ssh", ["-i", key, "-o", "IdentitiesOnly=yes", "-o", "BatchMode=yes", process.env.SSH_TARGET || "developer@test.resort.co.kr",
-      `cd /home/developer/brandatlas-admin && set -a && . ./env && set +a && .venv/bin/python -c "${py}"`], { encoding: "utf8", timeout: 180000 });
+    // 서버에서 돌면(GSC_DIRECT=어드민 폴더) 바로 부르고, 로컬이면 SSH로 서버의 어드민을 부른다.
+    const out = process.env.GSC_DIRECT
+      ? execFileSync(path.join(process.env.GSC_DIRECT, ".venv/bin/python"), ["-c", py], { cwd: process.env.GSC_DIRECT, encoding: "utf8", timeout: 180000 })
+      : execFileSync("ssh", ["-i", key, "-o", "IdentitiesOnly=yes", "-o", "BatchMode=yes", process.env.SSH_TARGET || "developer@test.resort.co.kr",
+          `cd /home/developer/brandatlas-admin && set -a && . ./env && set +a && .venv/bin/python -c "${py}"`], { encoding: "utf8", timeout: 180000 });
     const g = JSON.parse(out.trim().split("\n").pop());
     g.indexedSample = Object.values(g.inspected).filter(v => /색인이 생성되었습니다/.test(v)).length;
     return g;

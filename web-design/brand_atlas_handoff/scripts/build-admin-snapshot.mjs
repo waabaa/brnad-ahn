@@ -25,7 +25,7 @@ const BRANDS = DATA.allBrands || [];
 const thin = readJson(path.join(ROOT, "reports/thin-pages.json"), { slugs: [], pages: [] });
 const entity = readJson(path.join(ROOT, "reports/wikidata-entity-links.json"), { entries: [], rejectedEntries: [] });
 const dates = readJson(path.join(ROOT, "reports/page-dates.json"), { pages: {} });
-const indexLog = readJson(path.join(REPO, ".omc/state/seo-index-log.json"), { entries: [], baseline: null });
+const indexLog = readJson(process.env.INDEX_LOG || path.join(REPO, ".omc/state/seo-index-log.json"), { entries: [], baseline: null });
 
 // 수용기준은 audit-seo가 단일 진실 원천이다 — 여기서 다시 계산하면 두 기준이 어긋난다.
 let audit = null;

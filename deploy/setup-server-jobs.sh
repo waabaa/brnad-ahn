@@ -1,12 +1,14 @@
 #!/usr/bin/env bash
-# 매거진 서버 작업 설치 — 로컬에서 한 번 실행(멱등, 2026-09-13).
+# 서버 작업 설치 — 로컬에서 실행(멱등, 2026-09-13 매거진 · 2026-09-14 주간 리프레시 추가).
 #
-# 배포 서버에 매거진 작업 환경을 만든다:
+# 배포 서버에 매거진 작업과 주간 리프레시 환경을 만든다(두 작업 모두 서버에서 돈다 — PC가 꺼져 있어도 된다):
 #   /home/developer/brandatlas-src/            사이트 소스 미러(첫 설치 때만 content/magazine/ 포함 — 이후 원고의 원본은 서버)
 #   /home/developer/brandatlas-tools/humanize/ im-not-ai(humanize-korean, MIT) 문체 지표 도구 — 로컬 플러그인 캐시에서 복사
 #   /home/developer/brandatlas-admin/llm-gateway-key  게이트웨이 키(600) — 매거진 전용 클라이언트 키(없으면 로컬 env의 research 키)
 #   /home/developer/brandatlas-logs/magazine.log
 #   systemd 사용자 유닛 brandatlas-magazine.{service,timer,path} — 매일 00:30 + 어드민 신호 즉시 실행
+#                        brandatlas-weekly.{service,timer}          — 월 05:10 주간 리프레시(scripts/server/weekly-refresh.sh)
+#   /home/developer/brandatlas-admin/data/seo-index-log.json  색인 추이 기록(처음엔 로컬 .omc/state 기록으로 시딩)
 # 키 값은 화면·로그에 찍지 않는다(표준입력으로만 넘긴다).
 set -euo pipefail
 REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
@@ -43,14 +45,12 @@ rsync -az --delete -e "$SSH" \
   "${EXTRA[@]}" "$SITE/" "$SSH_TARGET:brandatlas-src/"
 
 echo "[4/5] 공개 지문 초기화 — 처음 설치할 때만(다시 실행해도 공개 대기 원고를 묻지 않게)"
-$SSH "$SSH_TARGET" 'test -f ~/brandatlas-admin/data/magazine/.published-fp && { echo "  기존 지문 유지"; exit 0; }; cd ~/brandatlas-src && node -e "
-const fs=require(\"fs\"),c=require(\"crypto\"),d=\"content/magazine\";
-const t=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
-const files=fs.existsSync(d)?fs.readdirSync(d).filter(f=>f.endsWith(\".md\")).sort():[];
-const due=files.filter(f=>{const m=/\"date\":\s*\"([0-9-]+)\"/.exec(fs.readFileSync(d+\"/\"+f,\"utf8\"));return m&&m[1]<=t}).length;
-const h=c.createHash(\"sha256\");for(const f of files)h.update(f+fs.readFileSync(d+\"/\"+f));h.update(\"due:\"+due);process.stdout.write(h.digest(\"hex\").slice(0,16))" > ~/brandatlas-admin/data/magazine/.published-fp; echo "  $(cat ~/brandatlas-admin/data/magazine/.published-fp)"'
+$SSH "$SSH_TARGET" 'test -f ~/brandatlas-admin/data/magazine/.published-fp && { echo "  기존 지문 유지"; exit 0; }; cd ~/brandatlas-src && node scripts/server/magazine-fp.mjs > ~/brandatlas-admin/data/magazine/.published-fp && echo "  $(cat ~/brandatlas-admin/data/magazine/.published-fp)"'
+if [ -f "$REPO/.omc/state/seo-index-log.json" ]; then
+  $SSH "$SSH_TARGET" 'test -s ~/brandatlas-admin/data/seo-index-log.json' || { rsync -az -e "$SSH" "$REPO/.omc/state/seo-index-log.json" "$SSH_TARGET:brandatlas-admin/data/seo-index-log.json" && echo "  색인 기록 시딩"; }
+fi
 
-echo "[5/5] systemd 사용자 유닛(매일 00:30 + 어드민 신호 즉시 실행) — 예전 매시 crontab은 지운다"
+echo "[5/5] systemd 사용자 유닛(매거진: 매일 00:30 + 어드민 신호 · 주간 리프레시: 월 05:10) — 예전 매시 crontab은 지운다"
 $SSH "$SSH_TARGET" 'set -e; D=~/.config/systemd/user; mkdir -p $D; touch ~/brandatlas-admin/data/magazine/trigger
 cat > $D/brandatlas-magazine.service <<U
 [Unit]
@@ -80,9 +80,28 @@ Unit=brandatlas-magazine.service
 [Install]
 WantedBy=default.target
 U
+cat > $D/brandatlas-weekly.service <<U
+[Unit]
+Description=brand-atlas 주간 리프레시(재빌드·검증·공개·색인 측정)
+[Service]
+Type=oneshot
+ExecStart=/home/developer/brandatlas-src/scripts/server/weekly-refresh.sh
+StandardOutput=append:/home/developer/brandatlas-logs/weekly.log
+StandardError=append:/home/developer/brandatlas-logs/weekly.log
+TimeoutStartSec=5400
+U
+cat > $D/brandatlas-weekly.timer <<U
+[Unit]
+Description=brand-atlas 주간 리프레시 월 05:10
+[Timer]
+OnCalendar=Mon *-*-* 05:10:00
+Persistent=true
+[Install]
+WantedBy=timers.target
+U
 systemctl --user daemon-reload
-systemctl --user enable --now brandatlas-magazine.timer brandatlas-magazine.path >/dev/null 2>&1
+systemctl --user enable --now brandatlas-magazine.timer brandatlas-magazine.path brandatlas-weekly.timer >/dev/null 2>&1
 crontab -l 2>/dev/null | grep -v "magazine-hourly.sh" | grep -v "brand-atlas 매거진(자동 준비" | crontab -
-systemctl --user list-timers brandatlas-magazine.timer --no-pager | sed -n 2p
+systemctl --user list-timers brandatlas-magazine.timer brandatlas-weekly.timer --no-pager | sed -n 2,3p
 echo "path: $(systemctl --user is-active brandatlas-magazine.path) · crontab 잔여: $(crontab -l 2>/dev/null | grep -c magazine || true)"'
 echo "완료"

@@ -158,9 +158,9 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
    ③ 원고 지문(파일+공개일 도래 수)이 바뀌면 서버에서 전체 빌드(약 11분) → staging → 웹루트(flock 공유 잠금)
 [로컬]
  deploy-brandatlas.sh: 서버 원고를 먼저 받아 옴(바뀌었으면 다시 빌드) → 소스 미러 올림(원고 폴더 제외) → 공개. 서버 원고가 비어 있으면 받아 오기 생략(안전장치)
- weekly-refresh.sh: 빌드 전에 서버 원고를 받아 옴
+ 주간 리프레시도 서버에서 돈다(2026-09-14) — 로컬 deploy/weekly-refresh.sh 는 서버 유닛을 깨우는 래퍼일 뿐이다
 ```
-- 설치·재설치: `deploy/setup-magazine-server.sh`(멱등 — 도구·키(600)·미러·지문(처음만)·systemd 유닛). 공개 제외 목록은 `scripts/server/publish-excludes.txt` 하나를 로컬 배포와 서버 공개가 같이 쓴다.
+- 설치·재설치: `deploy/setup-server-jobs.sh`(멱등 — 도구·키(600)·미러·지문(처음만)·systemd 유닛). 공개 제외 목록은 `scripts/server/publish-excludes.txt` 하나를 로컬 배포와 서버 공개가 같이 쓴다.
 - **로컬에서 매거진 원고를 직접 고치면 서버에 반영되지 않는다**(원고 폴더는 서버 소유라 미러에서 제외). 사람이 쓴 원고는 서버 `brandatlas-src/content/magazine/`에 올린다.
 - 자동 공개는 없다 — 승인(또는 '검증 통과 시 자동 예약', 기본 OFF)된 초안만 예약된다. 서버 원고는 git에 자동으로 들어가지 않으므로
   세션에서 `rsync`로 받아 커밋해 이력을 남긴다.
@@ -226,7 +226,8 @@ node scripts/audit-seo.mjs               # 수용기준 20항목 (A~D + GEO G2~G
 node scripts/verify-redirects.mjs --all  # 301 전건
 ```
 
-주간 자동화는 `deploy/weekly-refresh.sh`(cron 월 05:10)가 위를 순서대로 돌리고,
+주간 자동화는 **배포 서버**의 `scripts/server/weekly-refresh.sh`(systemd 사용자 유닛 `brandatlas-weekly.timer`, 월 05:10,
+로그 `~/brandatlas-logs/weekly.log`, 2026-09-14 로컬 cron에서 옮김)가 섹터·컬렉션 → 빌드 → 어드민 스냅샷 → 검증 → 공개 → 색인 측정을 돌리고,
 수용기준 미달이면 배포하지 않는다.
 
 ---
