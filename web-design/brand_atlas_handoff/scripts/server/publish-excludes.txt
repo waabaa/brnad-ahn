@@ -1,0 +1,15 @@
+# 공개 웹루트에 올리지 않는 경로 — 로컬 배포(deploy-brandatlas.sh)와 서버 매거진 공개(magazine-hourly.sh)가 함께 쓴다.
+# archive/(외부 매체 수집 자료)·300-brands/(초기 작업 원본)·*.md(내부 문서)·content/(원고)는 어느 페이지도 쓰지 않는 내부 자료다.
+.playwright-mcp/
+.playwright-cli/
+scripts/
+scratchpad/
+source-imports/
+reports/
+archive/
+300-brands/
+content/
+*.md
+*.bak
+*.bak.*
+*.bak-*

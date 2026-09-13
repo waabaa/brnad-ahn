@@ -1,7 +1,7 @@
 // 매거진 자동 준비 — 다음 달 호의 초안을 AI가 쓰고 검증해 대기열에 둔다(2026-09-13, 운영 방식 A 자동화).
 //
 // 공개는 하지 않는다. 초안은 content/magazine/drafts/ 와 서버 어드민(매거진 탭)에 올라가고,
-// 어드민에서 승인한 것만 magazine-sync.mjs 가 그 달의 월요일에 배정해 예약한다.
+// 어드민에서 승인한 것만 magazine-sync.mjs(서버)가 그 달의 월요일에 배정해 예약한다.
 // '검증 통과 시 자동 예약'이 켜져 있으면 검증을 통과한 초안은 승인을 건너뛴다(기본 꺼짐).
 //
 // 사실 규칙은 사람이 쓴 원고와 같다 — LLM은 magazine-angles.mjs가 만든 근거 묶음만 본다. 자동 검증:
@@ -10,8 +10,8 @@
 //   ④ 금지 표현·경어체  ⑤ 분량  ⑥ humanize-korean 위험도(high면 기각)
 // 실패하면 문제 목록을 붙여 한 번 다시 쓰게 하고, 그래도 실패하면 초안으로 두되 '검증 실패'로 표시한다.
 //
-// Usage: node scripts/magazine-auto.mjs [--month 2026-10] [--count 4] [--dry]
-//   LLM_GATEWAY_URL / LLM_GATEWAY_KEY (deploy/magazine-daily.sh가 터널과 env를 준비한다)
+// Usage(서버): node scripts/magazine-auto.mjs [--month 2026-10] [--count 4] [--dry]
+//   scripts/server/magazine-hourly.sh 가 LLM_GATEWAY_URL(127.0.0.1:5055)·LLM_GATEWAY_KEY·MAG_ADMIN_DIR·HUMANIZE_DIR 을 준비한다.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -24,10 +24,12 @@ import { pickAngles, evidenceOf, nameForPrompt } from "./lib/magazine-angles.mjs
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const arg = (k, d) => { const i = process.argv.indexOf(k); return i > 0 ? process.argv[i + 1] : d; };
 const DRY = process.argv.includes("--dry");
-const GW = process.env.LLM_GATEWAY_URL || "http://127.0.0.1:15055/v1/generate";
+const GW = process.env.LLM_GATEWAY_URL || "http://127.0.0.1:5055/v1/generate";
 const GW_KEY = process.env.LLM_GATEWAY_KEY || "";
-const DRAFT_DIR = path.join(ROOT, MAG_DIR, "drafts");
-const STATE = path.join(ROOT, "reports/magazine-drafts.json");
+// 기본 실행 위치는 배포 서버다(2026-09-13 — "매거진 관련 모든 작업은 배포 서버 작업"). 초안과 대기열 상태는 어드민 데이터 폴더에 바로 쓴다.
+const ADMIN_DIR = process.env.MAG_ADMIN_DIR || "/home/developer/brandatlas-admin/data/magazine";
+const DRAFT_DIR = path.join(ADMIN_DIR, "drafts");
+const STATE = path.join(ADMIN_DIR, "drafts.json");
 
 // 대상 월: 기본은 다음 달. 호수는 2026-09 = No.01 기준.
 const now = new Date(Date.now() + 9 * 3600e3);
@@ -53,7 +55,7 @@ const exclude = new Set([...articles.flatMap(referencedSlugs), ...state.drafts.f
 const usedKeys = new Set(state.drafts.map(d => d.angle));
 const angles = pickAngles(data, { exclude, want: need + 3 }).filter(a => !usedKeys.has(a.key));
 
-let RATE_LIMITED = false;
+let RATE_LIMITED = false, WAITED = 0;
 // ── LLM ──────────────────────────────────────────────────────────────────
 async function generate(prompt) {
   for (let i = 0; i < 5; i++) {
@@ -65,7 +67,9 @@ async function generate(prompt) {
       if (err?.code === "rate_limit") {
         // cron 작업이 몇 시간씩 붙잡히지 않게 15분 넘게 기다려야 하면 이번 실행을 접는다(다음 실행에서 이어 쓴다).
         const w = (Number(err.retry_after_s) || 300) + 5;
-        if (w > 900) { console.warn(`  게이트웨이 한도(${err.limit_scope}) — ${Math.round(w / 60)}분 뒤에야 가능, 이번 실행 중단`); RATE_LIMITED = true; return ""; }
+        WAITED += w;
+        // 한 번에 15분 넘게, 또는 짧은 대기가 이어져 합계 15분을 넘으면 접는다(하루 한도가 찬 동안 게이트웨이는 짧은 재시도 시각을 반복해 준다).
+        if (w > 900 || WAITED > 900) { console.warn(`  게이트웨이 한도(${err.limit_scope}) — ${Math.round(w / 60)}분 뒤에야 가능, 이번 실행 중단`); RATE_LIMITED = true; return ""; }
         console.warn(`  한도 — ${w}초 대기`); await new Promise(r => setTimeout(r, w * 1000)); i--; continue;
       }
       if (err) console.warn(`  게이트웨이 오류: ${JSON.stringify(err).slice(0, 160)}`);
@@ -108,11 +112,12 @@ const COUNTRIES = ["한국", "미국", "일본", "영국", "프랑스", "독일"
 const BANNED = /입니다\.|습니다\.|혁신적|획기적|압도적|폭발적|전례 없는|결론적으로|요약하면|주목할 만하|시사하는 바|할 때다\.|시점이다\./;
 function humanizeRisk(text) {
   try {
-    const base = path.join(process.env.HOME || "", ".claude/plugins/cache/im-not-ai/humanize-korean");
-    const ver = fs.readdirSync(base).sort().pop();
+    // 서버: HUMANIZE_DIR(=setup-magazine-server.sh가 올린 im-not-ai 도구). 로컬: 플러그인 캐시의 최신 버전.
+    const plugin = path.join(process.env.HOME || "", ".claude/plugins/cache/im-not-ai/humanize-korean");
+    const toolDir = process.env.HUMANIZE_DIR || path.join(plugin, fs.readdirSync(plugin).sort().pop());
     const dir = fs.mkdtempSync(path.join(fs.realpathSync("/tmp"), "mag-hk-"));
     fs.writeFileSync(path.join(dir, "01_input.txt"), text);
-    execFileSync("python3", ["scripts/prepare_monolith_input.py", "--run-dir", dir, "--genre", "column"], { cwd: path.join(base, ver), stdio: "ignore", timeout: 60000 });
+    execFileSync("python3", ["scripts/prepare_monolith_input.py", "--run-dir", dir, "--genre", "column"], { cwd: toolDir, stdio: "ignore", timeout: 60000 });
     const m = JSON.parse(fs.readFileSync(path.join(dir, "00_metrics.json"), "utf8"));
     fs.rmSync(dir, { recursive: true, force: true });
     return m.risk_band || "unknown";
@@ -172,7 +177,7 @@ for (const angle of angles) {
   made++;
   console.log(`  → 초안 ${article.slug} (${issues.length ? `검증 실패 ${issues.length}건` : "검증 통과"}, 문체 ${risk})`);
 }
-if (!DRY) { fs.mkdirSync(path.dirname(STATE), { recursive: true }); fs.writeFileSync(STATE, JSON.stringify(state, null, 1)); }
+if (!DRY) { fs.mkdirSync(path.dirname(STATE), { recursive: true }); state.syncedAt = new Date().toISOString(); fs.writeFileSync(STATE, JSON.stringify(state, null, 1)); }
 console.log(`초안 ${made}편 생성${DRY ? "(dry)" : ""}. 승인은 어드민 '매거진' 탭에서.`);
 // 게이트웨이 한도로 중단했으면 75(EX_TEMPFAIL) — magazine-daily.sh가 하루 1회 제한에 세지 않고 다음 정각 30분에 다시 시도한다.
 if (RATE_LIMITED) process.exit(75);

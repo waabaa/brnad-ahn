@@ -244,8 +244,8 @@ def crawler_report(days: int = 7) -> dict:
 
 
 # ─── 매거진 자동 준비(2026-09-13) ─────────────────────────────────────────
-# 초안은 로컬 저장소의 scripts/magazine-auto.mjs가 만들고 magazine-sync.mjs가 여기로 올린다.
-# 어드민은 설정(ON/OFF)과 승인·반려 결정만 쓴다 — 실제 예약은 다음 동기화(매시 30분·주간 리프레시)가 한다.
+# 매거진 작업은 전부 이 서버에서 돈다(brandatlas-src/scripts/server/magazine-hourly.sh, 매시 30분).
+# 어드민은 설정(ON/OFF)과 승인·반려 결정만 쓴다 — 실제 예약·공개는 다음 매시 작업이 한다.
 MAG_DIR = DATA_DIR / "magazine"
 MAG_SLUG = re.compile(r"^[a-z0-9-]{3,120}$")
 MAG_DEFAULT = {"autoDraft": False, "autoSchedule": False, "runRequested": False}
@@ -273,7 +273,8 @@ def magazine_state() -> dict:
         snap = {}
     return {
         "settings": {**MAG_DEFAULT, **_mag_read("settings.json", {})},
-        "queue": snap.get("magazine"),
+        # 서버 매거진 작업이 매시 쓰는 queue.json이 최신이다. 없으면 빌드 스냅샷 값.
+        "queue": _mag_read("queue.json", None) or snap.get("magazine"),
         "drafts": _mag_read("drafts.json", {"drafts": []}),
         "decisions": _mag_read("decisions.json", {}),
     }

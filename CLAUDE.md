@@ -143,20 +143,25 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
   sitemap-hubs(lastmod = 원고 date/modified), RSS(`[매거진]` 항목), llms.txt.
 - 빌드 순서: `build-brand-pages` → `build-magazine` → `build-seo-extras`.
 
-**자동 준비(2026-09-13, 어드민 '매거진' 탭에서 ON/OFF).** 로컬 cron이 매시 30분 `deploy/magazine-daily.sh`를 부른다.
-'자동 준비'가 켜져 있고 예약 원고가 14일치 이하(또는 '지금 시작')면 다음 달 호 초안을 쓴다 — 예약 부족으로 인한 실행은 하루 한 번까지.
+**매거진 관련 작업은 전부 배포 서버에서 돈다(2026-09-13 사용자 지시 — "이거 중요해").** 원고의 원본도 서버다.
 
 ```
-magazine-angles.mjs  데이터 집계로 각도 선정(스튜디오·컬렉션·사명·기원×산업·연대, 기사에 나온 브랜드 제외) + 근거 묶음
-magazine-auto.mjs    게이트웨이(터널 15066) LLM이 근거 묶음만 보고 초안 → 자동 검증(숫자·slug·국가 혼동·금지 표현·분량·
-                     humanize 위험도) → 실패 시 문제 목록을 붙여 1회 재작성 → content/magazine/drafts/ + reports/magazine-drafts.json
-                     게이트웨이 한도로 15분 넘게 기다려야 하면 중단(exit 75) → 다음 시각에 재시도
-magazine-sync.mjs    서버 어드민(data/magazine/{settings,decisions,drafts}.json)과 동기화. 승인분을 그 달의 빈 월요일에 배정해
-                     content/magazine/으로 옮김(meta.auto=true). '검증 통과 시 자동 예약'이 켜져 있으면 통과분은 승인 생략(기본 끔)
-weekly-refresh.sh    빌드 전에 magazine-sync 실행 → 공개일이 된 기사 공개
+[배포 서버]
+ /home/developer/brandatlas-src/            사이트 소스 미러(로컬 배포가 올림) — content/magazine/ 만은 서버 소유(로컬이 덮어쓰지 않음)
+ /home/developer/brandatlas-admin/data/magazine/  settings·decisions·drafts(.json/.md)·queue.json·.published-fp
+ cron 30 * * * *  brandatlas-src/scripts/server/magazine-hourly.sh  (로그 ~/brandatlas-logs/magazine.log)
+   ① 자동 준비 ON이고 (예약 ≤14일치 → 하루 1회 | '지금 시작') → magazine-auto.mjs: 각도 선정 → 게이트웨이(127.0.0.1:5055) 초안
+      → 자동 검증(숫자·slug·국가 혼동·금지 표현·분량·humanize) → 실패 시 1회 재작성 → 대기열. 한도로 오래 기다려야 하면 exit 75(다음 시각 재시도)
+   ② magazine-sync.mjs: 어드민 승인·반려 반영, 승인분을 그 달 빈 월요일에 배정해 content/magazine/으로(meta.auto=true)
+   ③ 원고 지문(파일+공개일 도래 수)이 바뀌면 서버에서 전체 빌드(약 11분) → staging → 웹루트(flock 공유 잠금)
+[로컬]
+ deploy-brandatlas.sh: 서버 원고를 먼저 받아 옴(바뀌었으면 다시 빌드) → 소스 미러 올림(원고 폴더 제외) → 공개. 서버 원고가 비어 있으면 받아 오기 생략(안전장치)
+ weekly-refresh.sh: 빌드 전에 서버 원고를 받아 옴
 ```
-**자동 공개는 없다** — 승인(또는 자동 예약)된 초안만 예약된다. 자동 원고도 `content/magazine/`에 들어오면 커밋 대상이다
-(cron은 커밋하지 않으므로 세션에서 `git status`로 확인해 커밋할 것).
+- 설치·재설치: `deploy/setup-magazine-server.sh`(멱등 — 도구·키(600)·미러·지문·crontab). 공개 제외 목록은 `scripts/server/publish-excludes.txt` 하나를 로컬 배포와 서버 공개가 같이 쓴다.
+- **로컬에서 매거진 원고를 직접 고치면 서버에 반영되지 않는다**(원고 폴더는 서버 소유라 미러에서 제외). 사람이 쓴 원고는 서버 `brandatlas-src/content/magazine/`에 올린다.
+- 자동 공개는 없다 — 승인(또는 '검증 통과 시 자동 예약', 기본 OFF)된 초안만 예약된다. 서버 원고는 git에 자동으로 들어가지 않으므로
+  세션에서 `rsync`로 받아 커밋해 이력을 남긴다.
 
 **독자에게 운영 용어를 보이지 않는다(2026-09-13).** "디렉토리 등급", "수록 자료를 그대로 옮긴 것", "메타데이터 중심으로 관리"
 같은 문구는 미완성·복제 신호로 읽혀 광고 심사에서 걸린다. 등급 안내문은 없앴고(`brand-render.mjs`), 아카이브 수집분의 운영 문장은

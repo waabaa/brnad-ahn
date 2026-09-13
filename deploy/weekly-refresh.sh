@@ -35,8 +35,11 @@ node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실�
 echo "=== [1/5] 브랜드 페이지 빌드 ==="
 node scripts/build-brand-pages.mjs | tail -4
 
-echo "=== [1-a/5] 매거진 초안 대기열 동기화(어드민 승인분을 월요일에 배정, 서버에 못 닿으면 생략) ==="
-node scripts/magazine-sync.mjs || echo "  ! 매거진 동기화 실패 — 예약된 원고만으로 빌드"
+echo "=== [1-a/5] 매거진 원고 받아 오기(원고의 원본은 배포 서버 — 승인·예약은 서버가 한다) ==="
+if [ "$(ssh -i "${SSH_KEY:-$HOME/.ssh/resort_developer_temp}" -o IdentitiesOnly=yes -o BatchMode=yes developer@test.resort.co.kr 'ls /home/developer/brandatlas-src/content/magazine/*.md 2>/dev/null | wc -l' || echo 0)" -gt 0 ]; then
+  rsync -a --delete --exclude='drafts/' -e "ssh -i ${SSH_KEY:-$HOME/.ssh/resort_developer_temp} -o IdentitiesOnly=yes -o BatchMode=yes" \
+    developer@test.resort.co.kr:/home/developer/brandatlas-src/content/magazine/ content/magazine/ || echo "  ! 받아 오기 실패 — 로컬 원고로 빌드"
+else echo "  ! 서버 원고가 비어 있음 — 받아 오기 생략"; fi
 
 echo "=== [1-b/5] 아틀라스 매거진(공개일이 된 기사 자동 공개 — 원고 검증 실패 시 중단) ==="
 node scripts/build-magazine.mjs
