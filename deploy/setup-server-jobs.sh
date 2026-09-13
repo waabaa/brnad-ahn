@@ -6,8 +6,8 @@
 #   /home/developer/brandatlas-tools/humanize/ im-not-ai(humanize-korean, MIT) 문체 지표 도구 — 로컬 플러그인 캐시에서 복사
 #   /home/developer/brandatlas-admin/llm-gateway-key  게이트웨이 키(600) — 매거진 전용 클라이언트 키(없으면 로컬 env의 research 키)
 #   /home/developer/brandatlas-logs/magazine.log
-#   systemd 사용자 유닛 brandatlas-magazine.{service,timer,path} — 매일 00:30 + 어드민 신호 즉시 실행
-#                        brandatlas-weekly.{service,timer}          — 월 05:10 주간 리프레시(scripts/server/weekly-refresh.sh)
+#   systemd 사용자 유닛 brandatlas-weekly.{service,timer}   — 월 05:10 주간 리프레시(매거진 초안·배정 포함)
+#                        brandatlas-magazine.{service,path}  — 어드민 신호(지금 시작·승인·반려) 즉시 실행
 #   /home/developer/brandatlas-admin/data/seo-index-log.json  색인 추이 기록(처음엔 로컬 .omc/state 기록으로 시딩)
 # 키 값은 화면·로그에 찍지 않는다(표준입력으로만 넘긴다).
 set -euo pipefail
@@ -50,7 +50,7 @@ if [ -f "$REPO/.omc/state/seo-index-log.json" ]; then
   $SSH "$SSH_TARGET" 'test -s ~/brandatlas-admin/data/seo-index-log.json' || { rsync -az -e "$SSH" "$REPO/.omc/state/seo-index-log.json" "$SSH_TARGET:brandatlas-admin/data/seo-index-log.json" && echo "  색인 기록 시딩"; }
 fi
 
-echo "[5/5] systemd 사용자 유닛(매거진: 매일 00:30 + 어드민 신호 · 주간 리프레시: 월 05:10) — 예전 매시 crontab은 지운다"
+echo "[5/5] systemd 사용자 유닛(주간 리프레시 월 05:10 · 매거진 어드민 신호 즉시) — 예전 crontab·매일 타이머는 지운다"
 $SSH "$SSH_TARGET" 'set -e; D=~/.config/systemd/user; mkdir -p $D; touch ~/brandatlas-admin/data/magazine/trigger
 cat > $D/brandatlas-magazine.service <<U
 [Unit]
@@ -61,15 +61,6 @@ ExecStart=/home/developer/brandatlas-src/scripts/server/magazine-job.sh
 StandardOutput=append:/home/developer/brandatlas-logs/magazine.log
 StandardError=append:/home/developer/brandatlas-logs/magazine.log
 TimeoutStartSec=3600
-U
-cat > $D/brandatlas-magazine.timer <<U
-[Unit]
-Description=brand-atlas 매거진 매일 00:30(공개일 기사 공개·예약 부족 시 초안)
-[Timer]
-OnCalendar=*-*-* 00:30:00
-Persistent=true
-[Install]
-WantedBy=timers.target
 U
 cat > $D/brandatlas-magazine.path <<U
 [Unit]
@@ -100,8 +91,11 @@ Persistent=true
 WantedBy=timers.target
 U
 systemctl --user daemon-reload
-systemctl --user enable --now brandatlas-magazine.timer brandatlas-magazine.path brandatlas-weekly.timer >/dev/null 2>&1
+# 매거진은 주 1회(주간 리프레시 안에서) + 어드민 버튼 즉시 — 예전 매일 타이머는 끈다(2026-09-14).
+systemctl --user disable --now brandatlas-magazine.timer >/dev/null 2>&1 || true; rm -f $D/brandatlas-magazine.timer
+systemctl --user daemon-reload
+systemctl --user enable --now brandatlas-magazine.path brandatlas-weekly.timer >/dev/null 2>&1
 crontab -l 2>/dev/null | grep -v "magazine-hourly.sh" | grep -v "brand-atlas 매거진(자동 준비" | crontab -
-systemctl --user list-timers brandatlas-magazine.timer brandatlas-weekly.timer --no-pager | sed -n 2,3p
+systemctl --user list-timers --all --no-pager | grep brandatlas
 echo "path: $(systemctl --user is-active brandatlas-magazine.path) · crontab 잔여: $(crontab -l 2>/dev/null | grep -c magazine || true)"'
 echo "완료"

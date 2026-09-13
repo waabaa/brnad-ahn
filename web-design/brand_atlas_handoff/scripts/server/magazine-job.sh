@@ -5,11 +5,13 @@
 #   ② 승인 반영: 어드민 승인·반려를 반영, 승인분을 그 달 빈 월요일에 배정해 content/magazine/으로(원고의 원본은 서버)
 #   ③ 공개: 원고가 바뀌었거나 공개일이 된 기사가 있으면 서버에서 빌드해 웹루트에 올린다 — PC가 꺼져 있어도 매거진이 나간다.
 #
-# 언제 도나(systemd 사용자 유닛, 2026-09-14 — 매시 cron에서 바꿈):
-#   brandatlas-magazine.timer  매일 00:30 — 공개일(월요일) 기사를 그날 0시대에 열고, 예약 부족이면 초안을 쓴다
-#   brandatlas-magazine.path   어드민에서 '지금 시작'·승인·반려를 누르면 data/magazine/trigger 가 바뀌어 즉시 실행
+# 언제 도나(2026-09-14 — 주 1회로 정리):
+#   매주 월 05:10  weekly-refresh.sh 가 먼저 이 스크립트를 --no-publish 로 부른다(①② 만). 공개는 주간 리프레시의 전체 빌드가 한다.
+#   즉시           어드민에서 '지금 시작'·승인·반려를 누르면 data/magazine/trigger 가 바뀌어 brandatlas-magazine.path 가 이 스크립트를 실행
+#                  (이때는 ③까지 — 승인한 기사의 공개일이 이미 지났거나 오늘이면 바로 공개된다)
 # 대부분의 실행은 설정 확인과 지문 비교만 하고 몇 초 안에 끝난다. 설치: deploy/setup-server-jobs.sh
 set -uo pipefail
+NO_PUBLISH=false; [ "${1:-}" = "--no-publish" ] && NO_PUBLISH=true
 . /home/developer/brandatlas-src/scripts/server/common.sh
 ADMIN="$MAG_ADMIN"
 export MAG_ADMIN_DIR="$ADMIN" HUMANIZE_DIR=/home/developer/brandatlas-tools/humanize
@@ -47,7 +49,7 @@ node scripts/magazine-sync.mjs
 # ③ 공개 — 원고 지문(scripts/server/magazine-fp.mjs)이 지난 공개와 다르면 빌드·배포. 공개일이 된 기사는 날짜가 바뀌면 지문이 달라져 자동으로 열린다.
 FP="$(magazine_fp)"
 LAST="$(cat "$ADMIN/.published-fp" 2>/dev/null || true)"
-if [ "$FP" != "$LAST" ]; then
+if [ "$NO_PUBLISH" = "false" ] && [ "$FP" != "$LAST" ]; then
   echo "공개: 원고 변화 감지($LAST → $FP) — 서버 빌드"
   exec 7>"$BUILD_LOCK"; flock -w 3600 7 || { echo "  ! 빌드 잠금 대기 초과"; exit 1; }
   if build_site && publish_site; then echo "$FP" > "$ADMIN/.published-fp"

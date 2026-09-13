@@ -244,7 +244,7 @@ def crawler_report(days: int = 7) -> dict:
 
 
 # ─── 매거진 자동 준비(2026-09-13) ─────────────────────────────────────────
-# 매거진 작업은 전부 이 서버에서 돈다(brandatlas-src/scripts/server/magazine-job.sh — 매일 00:30 + 어드민 신호 즉시).
+# 매거진 작업은 전부 이 서버에서 돈다(brandatlas-src/scripts/server/magazine-job.sh — 매주 월 05:10 주간 리프레시 안 + 어드민 신호 즉시).
 # 어드민은 설정(ON/OFF)과 승인·반려 결정을 쓰고 trigger 파일로 작업을 깨운다.
 MAG_DIR = DATA_DIR / "magazine"
 MAG_SLUG = re.compile(r"^[a-z0-9-]{3,120}$")

@@ -574,7 +574,7 @@ function renderGsc(host) {
 }
 
 // ─── 10. 매거진 자동 준비 ───────────────────────────────────────────────────
-// 초안 작성·승인 반영·공개는 배포 서버 작업이 한다(매일 00:30 + 여기서 버튼을 누르면 즉시).
+// 초안 작성·승인 반영·공개는 배포 서버 작업이 한다(매주 월 05:10 주간 리프레시 + 여기서 버튼을 누르면 즉시).
 function renderMagazine(host) {
   const b = box(host, "매거진 자동 준비", "예약 원고가 14일치 이하로 남으면 AI가 다음 달 호 초안을 쓰고 자동 검증해 여기에 올립니다. 승인한 초안만 그 달의 월요일에 예약되고, 주간 배포가 공개일에 엽니다.");
   const out = el("div", {});
@@ -595,7 +595,7 @@ function renderMagazine(host) {
     runBtn.disabled = !!s.runRequested || !s.autoDraft;
     runBtn.addEventListener("click", async () => { runBtn.disabled = true; await post("/api/magazine/settings", { runRequested: true }); load(); });
     out.append(
-      toggle("autoDraft", "자동 준비", "켜면 예약 원고가 부족할 때 다음 달 호 초안을 AI가 씁니다(매일 00:30 점검)."),
+      toggle("autoDraft", "자동 준비", "켜면 예약 원고가 부족할 때 다음 달 호 초안을 AI가 씁니다(매주 월요일 점검)."),
       toggle("autoSchedule", "검증 통과 시 자동 예약", "켜면 자동 검증을 통과한 초안은 승인 없이 예약됩니다. 기본은 꺼 두고 사람이 승인하는 것을 권합니다."),
       el("div", { class: "row", style: "margin:10px 0 18px" }, runBtn, el("span", { class: "muted" }, s.lastRunAt ? `마지막 실행 ${s.lastRunAt.slice(0, 16).replace("T", " ")}` : "")),
     );

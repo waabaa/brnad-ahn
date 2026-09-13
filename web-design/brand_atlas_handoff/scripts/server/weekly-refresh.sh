@@ -5,6 +5,7 @@
 # 검증에 실패하면 공개하지 않는다 — 깨진 산출물을 올리는 것보다 한 주 거르는 편이 낫다.
 #
 # systemd 사용자 유닛 brandatlas-weekly.timer(월 05:10) → 이 스크립트, 로그 ~/brandatlas-logs/weekly.log.
+# 매거진도 여기서 함께 돈다(주 1회 — 초안·배정 후 전체 빌드에서 그날 공개일 기사를 연다).
 # 수동 실행: 로컬에서 ./deploy/weekly-refresh.sh (서버 유닛을 깨운다)
 set -uo pipefail
 . /home/developer/brandatlas-src/scripts/server/common.sh
@@ -14,6 +15,9 @@ set -a; eval "$(grep -E '^(NCP_APIGW_KEY_ID|NCP_APIGW_KEY|GA4_SA_KEY_FILE|GA4_PR
 export INDEX_LOG="$ADMIN_HOME/data/seo-index-log.json" GSC_DIRECT="$ADMIN_HOME"
 echo "=== $(date '+%F %T') 주간 리프레시(서버) ==="
 exec 7>"$BUILD_LOCK"; flock -w 3600 7 || { echo "빌드 잠금 대기 초과 — 중단"; exit 1; }
+
+echo "[0-a] 매거진: 예약 부족이면 초안 작성, 어드민 승인분을 월요일에 배정(공개는 아래 전체 빌드가 한다)"
+"$SRC/scripts/server/magazine-job.sh" --no-publish || echo "  ! 매거진 작업 실패 — 예약된 원고만으로 빌드"
 
 echo "[0] 지수 기업 섹터 분류·컬렉션 편입(멱등, 실패해도 기존 값으로 빌드)"
 node scripts/apply-index-sectors.mjs | head -1 || echo "  ! 섹터 분류 실패"

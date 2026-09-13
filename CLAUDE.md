@@ -150,7 +150,8 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
  /home/developer/brandatlas-src/            사이트 소스 미러(로컬 배포가 올림) — content/magazine/ 만은 서버 소유(로컬이 덮어쓰지 않음)
  /home/developer/brandatlas-admin/data/magazine/  settings·decisions·drafts(.json/.md)·queue.json·.published-fp
  systemd 사용자 유닛 brandatlas-magazine.{service,timer,path} → brandatlas-src/scripts/server/magazine-job.sh  (로그 ~/brandatlas-logs/magazine.log)
-   · timer 매일 00:30(공개일 기사 공개·예약 부족 시 초안) · path: 어드민 '지금 시작'·승인·반려 → data/magazine/trigger 변경 → 즉시 실행
+   · 주 1회: 월 05:10 주간 리프레시(brandatlas-weekly)가 먼저 `magazine-job.sh --no-publish`(초안·배정)를 부르고, 전체 빌드에서 그날 공개일 기사를 연다
+   · path: 어드민 '지금 시작'·승인·반려 → data/magazine/trigger 변경 → 즉시 실행(③ 공개까지)
    · 게이트웨이 키: 매거진 전용 클라이언트 brandatlas-magazine(하루 20, research와 한도 분리, 2026-09-14) — ~/brandatlas-admin/llm-gateway-key
    ① 자동 준비 ON이고 (예약 ≤14일치 → 하루 1회 | '지금 시작') → magazine-auto.mjs: 각도 선정 → 게이트웨이(127.0.0.1:5055) 초안
       → 자동 검증(숫자·slug·국가 혼동·금지 표현·분량·humanize) → 실패 시 1회 재작성 → 대기열. 한도로 오래 기다려야 하면 exit 75(다음 시각 재시도)
