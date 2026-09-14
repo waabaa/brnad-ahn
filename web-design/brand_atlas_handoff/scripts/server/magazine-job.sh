@@ -21,6 +21,7 @@ cd "$SRC" || exit 1
 mkdir -p "$ADMIN"
 # 겹쳐 돌지 않게(초안 작성은 수 분 걸릴 수 있다).
 exec 9>"$ADMIN/.hourly.lock"; flock -n 9 || { echo "$(date '+%F %T') 이전 실행이 아직 도는 중 — 건너뜀"; exit 0; }
+START="$(date +%s)"
 echo "=== $(date '+%F %T') 매거진 서버 작업 ==="
 
 SETTINGS="$(node scripts/magazine-sync.mjs --settings)"
@@ -56,3 +57,10 @@ if [ "$NO_PUBLISH" = "false" ] && [ "$FP" != "$LAST" ]; then
   else echo "  ! 빌드·공개 실패 — 다음 실행에서 다시(원고 검증 실패일 수 있다)"; fi
 fi
 echo "완료: $(date '+%F %T')"
+# 도는 동안(빌드 11분) 어드민에서 누른 승인·반려는 path 유닛이 다시 깨우지 못한다(서비스가 이미 active라 신호가 버려진다 —
+# 2026-09-14 로고 16건 중 15건이 이렇게 빠졌다). 끝난 뒤 신호 파일이 시작 이후에 바뀌었으면 한 번 더 돈다(최대 5회).
+ROUND="${MAG_ROUND:-1}"
+if [ "$NO_PUBLISH" = "false" ] && [ "$ROUND" -lt 5 ] && [ "$(stat -c %Y "$ADMIN/trigger" 2>/dev/null || echo 0)" -ge "$START" ]; then
+  echo "실행 중 들어온 신호 — 다시 처리(${ROUND}회차)"
+  MAG_ROUND=$((ROUND + 1)) exec "$0" "$@"
+fi

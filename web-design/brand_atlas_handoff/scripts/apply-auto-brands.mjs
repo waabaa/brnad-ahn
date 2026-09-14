@@ -1,12 +1,13 @@
 // 서버가 주간 수록한 브랜드(content/brands/*.json)를 데이터에 반영한다 — 서버 빌드와 로컬 배포가 같이 쓴다(멱등).
 //
 // 서버의 content/brands/ 가 이 레코드들의 원본이다(매거진 원고와 같은 구조 — 로컬 배포가 먼저 받아 간다).
-// 로고는 검수 전에는 싣지 않는다(CLAUDE.md §2-c "새 레코드의 로고는 수록 직후 육안 검수"). 어드민에서 승인한 로고만
-// images/logos/ 로 복사해 대표 로고로 올리고, 반려하면 내린다.
+// 승인된 로고만 images/logos/ 로 복사해 대표 로고로 올리고, 반려하면 내린다. 서버는 '로고 자동 게재'(기본 ON)면 결정이 없는
+// 로고도 승인으로 본다 — 틀린 로고는 어드민에서 '내리기'.
 //
 // --decisions <file>: 어드민 로고 검수 결과({slug: {action: approve|reject, at}})를 레코드 파일에 먼저 적는다(서버에서만).
 //                     로컬은 받아 온 레코드 파일의 logoReview 만 보고 반영하므로 서버와 결과가 같다.
-// Usage: node scripts/apply-auto-brands.mjs [--decisions <file>]
+// --auto-approve: 결정이 없는 로고도 게재한다(어드민 '로고 자동 게재' — 기본 ON, 2026-09-14 사용자 지시). 반려한 로고는 그대로 내린다.
+// Usage: node scripts/apply-auto-brands.mjs [--decisions <file>] [--auto-approve]
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -33,7 +34,7 @@ for (const f of files) {
   const rec = doc.record, slug = rec.urlSlug;
   // 어드민 결정 → 레코드 파일(서버). 'undo'로 지워진 결정은 검수 대기로 돌린다.
   if (doc.logoCandidate && opt("--decisions")) {
-    const want = decisions[slug]?.action === "approve" ? "approved" : decisions[slug]?.action === "reject" ? "rejected" : "pending";
+    const want = decisions[slug]?.action === "approve" ? "approved" : decisions[slug]?.action === "reject" ? "rejected" : args.includes("--auto-approve") ? "approved" : "pending";
     if (doc.logoReview !== want) { doc.logoReview = want; doc.reviewedAt = decisions[slug]?.at || null; fs.writeFileSync(p, JSON.stringify(doc, null, 1)); }
   }
   let b = bySlug.get(slug);

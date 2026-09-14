@@ -657,10 +657,13 @@ function renderCatalog(host) {
     const s = d.settings;
     const cb = el("input", { type: "checkbox", checked: s.autoImport ? "" : null });
     cb.addEventListener("change", async () => { cb.disabled = true; try { await post("/api/catalog/settings", { autoImport: cb.checked }); } finally { load(); } });
+    const la = el("input", { type: "checkbox", checked: s.logoAutoApprove ? "" : null });
+    la.addEventListener("change", async () => { la.disabled = true; try { await post("/api/catalog/settings", { logoAutoApprove: la.checked }); } finally { load(); } });
     const tg = el("input", { type: "number", min: "1", max: "40", value: String(s.weeklyTarget), style: "width:70px" });
     tg.addEventListener("change", async () => { await post("/api/catalog/settings", { weeklyTarget: Number(tg.value) }); load(); });
     out.append(
       el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, cb, el("b", {}, "자동 수록"), el("span", { class: "muted" }, "켜면 매주 월요일 주간 리프레시가 수록합니다.")),
+      el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, la, el("b", {}, "로고 자동 게재"), el("span", { class: "muted" }, "켜면 검수를 기다리지 않고 로고를 싣습니다. 잘못된 로고는 아래에서 '내리기'.")),
       el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0 16px" }, el("b", {}, "주간 목표"), tg, el("span", { class: "muted" }, "곳 — 근거 검증을 통과한 것만 셉니다(최대 40).")),
     );
     const recs = d.records || [];
@@ -674,7 +677,7 @@ function renderCatalog(host) {
     out.append(inner);
 
     // 로고 검수 — 위키데이터 로고에는 다른 개체·옛 로고·간판 사진이 섞여 있다.
-    const lg = el("div", { class: "box" }, el("h2", {}, "로고 검수"), el("div", { class: "sub" }, "위키데이터 로고에는 다른 회사·옛 로고·간판 사진이 섞여 있습니다. 이 브랜드의 현재 로고가 맞을 때만 승인하세요. 승인·반려는 누르는 즉시 서버가 다시 공개합니다."));
+    const lg = el("div", { class: "box" }, el("h2", {}, "로고 검수"), el("div", { class: "sub" }, "위키데이터 로고에는 다른 회사·옛 로고·간판 사진이 섞여 있습니다. 자동 게재가 켜져 있으면 바로 실리고, 틀린 로고만 '내리기'로 빼면 됩니다. 누르는 즉시 서버가 다시 공개합니다."));
     const withLogo = recs.filter((r) => r.hasLogo);
     if (!withLogo.length) lg.append(el("div", { class: "empty" }, "검수할 로고가 없습니다."));
     const grid = el("div", { style: "display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px" });

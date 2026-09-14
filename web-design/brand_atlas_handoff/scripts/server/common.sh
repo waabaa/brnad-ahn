@@ -15,8 +15,11 @@ magazine_fp() { CAT_ADMIN="$CAT_ADMIN" node "$SRC/scripts/server/magazine-fp.mjs
 
 # 사이트 빌드(순서 고정 — CLAUDE.md §3). 브랜드 페이지는 서버에서 약 11분 걸린다.
 # 서버 수록 브랜드(content/brands)를 먼저 데이터에 반영한다 — 로고 검수 결과도 여기서 적용된다.
+# 로고 자동 게재(어드민 '브랜드 수록' 설정, 기본 ON — 2026-09-14 사용자 "앞으로 물어보지 말고 그냥 진행")면 검수 대기 로고도 싣는다.
 build_site() {
-  node scripts/apply-auto-brands.mjs --decisions "$CAT_ADMIN/decisions.json" &&
+  local auto=""
+  node -e 'try{process.exit(JSON.parse(require("fs").readFileSync(process.argv[1],"utf8")).logoAutoApprove===false?1:0)}catch{process.exit(0)}' "$CAT_ADMIN/settings.json" && auto="--auto-approve"
+  node scripts/apply-auto-brands.mjs --decisions "$CAT_ADMIN/decisions.json" $auto &&
   node scripts/build-brand-pages.mjs | tail -1 &&
   node scripts/build-magazine.mjs &&
   node scripts/build-seo-extras.mjs | tail -1

@@ -121,11 +121,14 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
          국외 = 영문 위키백과 조회수(3개월) — 구글은 일반 검색량 API가 없어 공개된 대리 지표를 쓴다
          보조 = 서치 콘솔 검색어 중 페이지가 없던 브랜드(맨 앞)          → brand-demand.mjs, 국내·국외 번갈아 목표×1.6
 수록     import-wikidata-brands --target 20 --records-dir content/brands --ledger data/catalog/ledger.json (키: brandatlas-catalog, 하루 40)
-반영     apply-auto-brands.mjs — 서버 build_site 첫 단계 + 로컬 배포가 받아 온 뒤(멱등). 로고는 어드민 승인분만 images/logos/로 게재
+반영     apply-auto-brands.mjs — 서버 build_site 첫 단계 + 로컬 배포가 받아 온 뒤(멱등). 로고는 자동 게재(기본 ON), 어드민에서 '내리기'로 반려
 ```
 - 서버의 `content/brands/`가 수록 레코드의 원본이다(매거진 원고와 같은 구조 — 미러 올릴 때 제외, 로컬 배포가 먼저 받아 간다). 로컬 데이터에는
   배포 때 반영되므로 그 뒤 커밋해 이력을 남긴다.
+- **로고는 묻지 않고 싣는다(2026-09-14 사용자: "로고 다 승인했어. 앞으로 물어보지 말고 그냥 진행해줘").** 어드민 설정 `logoAutoApprove`(기본 ON).
+  틀린 로고는 사용자가 어드민에서 내린다 — 세션에서 로고 검수를 요청하지 말 것.
 - 로고 승인·반려는 매거진 trigger로 서버 작업을 깨우고, 공개 지문(`magazine-fp.mjs`)에 검수 결과가 들어 있어 즉시 다시 공개된다.
+  작업이 도는 동안(빌드 11분) 누른 신호는 path 유닛이 버리므로, magazine-job.sh가 끝날 때 신호 파일이 시작 이후 바뀌었으면 다시 돈다.
 - 게이트웨이·위키 API 장애로 난 기각은 원장에 남기지 않는다(다음 주에 다시 후보). 목표에 도달해 못 쓴 후보도 마찬가지.
 
 ## 2-d. 테마 컬렉션 (2026-09-12)

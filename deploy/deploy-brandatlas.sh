@@ -45,9 +45,11 @@ if [ -z "$DRY" ]; then
   fi
   # 수록 레코드는 서버가 지우지 않으므로 --delete 없이 받는다(로고 검수 결과가 레코드 파일에 적혀 온다).
   BRANDS="$(rsync -a --itemize-changes -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/brands/" "$SITE/content/brands/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
-  if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ]; then
-    echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 변경 → 반영 후 다시 빌드"
-    ( cd "$SITE" && node scripts/apply-auto-brands.mjs && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-seo-extras.mjs | tail -1 )
+  # 반영은 매번 한다 — 레코드를 따로 받아 둔 경우에도 로컬 데이터가 레코드와 어긋나 있으면 여기서 잡힌다.
+  APPLIED="$(cd "$SITE" && node scripts/apply-auto-brands.mjs)"; echo "$APPLIED"
+  if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ] || ! grep -q "변경 없음\|수록분 없음" <<<"$APPLIED"; then
+    echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 변경 → 다시 빌드"
+    ( cd "$SITE" && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-seo-extras.mjs | tail -1 )
   fi
 fi
 

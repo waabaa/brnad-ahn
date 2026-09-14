@@ -294,7 +294,7 @@ def magazine_state() -> dict:
 CAT_DIR = DATA_DIR / "catalog"
 SRC_BRANDS = Path(os.environ.get("BRANDATLAS_SRC", "/home/developer/brandatlas-src")) / "content" / "brands"
 BRAND_SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{0,119}$")
-CAT_DEFAULT = {"autoImport": True, "weeklyTarget": 20}
+CAT_DEFAULT = {"autoImport": True, "weeklyTarget": 20, "logoAutoApprove": True}
 LOGO_TYPES = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp", ".gif": "image/gif", ".svg": "image/svg+xml"}
 
 
@@ -639,8 +639,9 @@ class Handler(BaseHTTPRequestHandler):
             body = self._body()
             if route == "/api/catalog/settings":
                 cur = {**CAT_DEFAULT, **_cat_read("settings.json", {})}
-                if "autoImport" in body:
-                    cur["autoImport"] = bool(body["autoImport"])
+                for k in ("autoImport", "logoAutoApprove"):
+                    if k in body:
+                        cur[k] = bool(body[k])
                 if "weeklyTarget" in body:
                     try:
                         cur["weeklyTarget"] = max(1, min(40, int(body["weeklyTarget"])))
