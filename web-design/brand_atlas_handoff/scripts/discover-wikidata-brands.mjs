@@ -7,7 +7,9 @@
 // --collection <slug>: 컬렉션(scripts/lib/collections.mjs)의 Wikidata 기준(P31/P279*·P452)에 맞는 개체만,
 //   인지도(sitelinks) 순으로 --top 개까지 찾는다. 결과 후보에 collection 을 적어 둔다.
 //
-// Usage: node scripts/discover-wikidata-brands.mjs [--min-global 22] [--min-kr 3]
+// --out <file>: 결과를 다른 파일에 쓴다(서버 주간 수록의 후보 풀 — brand-demand.mjs 가 수요 순으로 고른다).
+//
+// Usage: node scripts/discover-wikidata-brands.mjs [--min-global 22] [--min-kr 3] [--out file]
 //        node scripts/discover-wikidata-brands.mjs --collection ai [--top 40] [--min 8]
 import fs from "node:fs";
 import path from "node:path";
@@ -98,7 +100,7 @@ fs.mkdirSync(path.join(ROOT, "reports"), { recursive: true });
 const TOP = Number(opt("--top", 0)) || Infinity;
 const out = candidates.slice(0, TOP);
 // 컬렉션 모드는 다른 컬렉션 후보와 합쳐 둔다(import 가 한 번에 읽는다).
-const outPath = path.join(ROOT, COLL ? "reports/collection-candidates.json" : "reports/brand-candidates.json");
+const outPath = opt("--out") ? path.resolve(opt("--out")) : path.join(ROOT, COLL ? "reports/collection-candidates.json" : "reports/brand-candidates.json");
 const merged = COLL && fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, "utf8")).filter(c => c.collection !== COLL.slug) : [];
 fs.writeFileSync(outPath, JSON.stringify([...merged, ...out], null, 1));
 console.log(`후보 ${candidates.length}건 (전체 ${byQid.size}, 이미 수록 제외) → ${path.relative(ROOT, outPath)} (${out.length}건 기록)`);

@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q3295867",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 569,
+  "enViews": 148963,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/the-coca-cola-company-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "the-coca-cola-company",
+  "urlSlug": "the-coca-cola-company",
+  "name": "코카콜라 컴퍼니",
+  "nameKo": "코카콜라 컴퍼니",
+  "nameEn": "The Coca-Cola Company",
+  "definition": "코카콜라 컴퍼니(The Coca-Cola Company)는 전 세계에서 무알콜성 음료와 시럽을 제조·유통하는 미국 식음료 기업이다. 본사는 조지아주 애틀랜타에 자리한다.",
+  "summary": "코카콜라 컴퍼니(The Coca-Cola Company)는 전 세계에서 무알콜성 음료와 시럽을 제조·유통하는 미국 식음료 기업이다. 본사는 조지아주 애틀랜타에 자리한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "음료 원액을 생산하는 회사와 완제품을 재가공·유통·판매하는 회사를 구분해 운영하는 사업 구조가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코카콜라를 기반으로 전 세계에 무알콜성 음료와 시럽을 제조하고 유통하는 식음료 대기업이다. 대한민국에서는 회사가 소유한 한국 코카-콜라가 음료 원액 생산을 담당한다. LG생활건강이 소유한 코카-콜라 음료는 해당 원액을 완제품으로 재가공하고 유통·판매하는 역할을 담당한다. 해외에서는 국제 올림픽 위원회, 국제 패럴림픽 위원회, 국제 축구 연맹의 스폰서로 참여한다. 대한민국에서는 KFA와 슈퍼스타 K 시리즈, 코카콜라 제로 리그 오브 레전드 챔피언스 코리아 서머 2016 등을 후원했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "약사 존 펨버턴은 1886년 조지아주 애틀랜타에서 코카콜라를 개발했다. Asa Griggs Candler는 1889년 코카콜라의 제조 방식과 상표를 인수했으며, 1892년 설립된 회사의 기반을 마련했다. 1997년 로베르토 고이주에타가 폐암으로 사망한 뒤 더글러스 아이베스터가 후임으로 취임했지만 2년 후 퇴임했다. 이후 후임자인 더글러스 대프트는 2004년 말 퇴임 계획을 발표했으며, 회사는 질레트 사장 제임스 킬츠를 CEO로 영입하는 방안을 추진했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업의 중심은 전 세계를 대상으로 하는 무알콜성 음료와 시럽의 제조 및 유통이다. 대표적으로 1886년 조지아주 애틀랜타에서 개발된 코카콜라를 취급한다. 대한민국에서는 한국 코카-콜라가 음료 원액을 생산하고, 코카-콜라 음료가 이 원액을 받아 완제품으로 재가공한다. 완제품의 유통과 판매 역시 LG생활건강 소유의 코카-콜라 음료가 담당한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "미국 조지아주 애틀랜타에 본사를 두고 전 세계에서 무알콜성 음료와 시럽을 제조·유통하는 사업을 전개한다. 대한민국 사업은 코카콜라 컴퍼니 소유의 원액 생산 법인과 LG생활건강 소유의 완제품 재가공·유통·판매 법인이 역할을 분담한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "음료 원액을 생산하는 회사와 완제품을 재가공·유통·판매하는 회사를 구분해 운영하는 사업 구조가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.coca-colacompany.com/",
+  "entityLinks": {
+   "wikidata": "Q3295867",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3295867",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/The_Coca-Cola_Company"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3295867",
+   "country": "미국",
+   "inception": "1892",
+   "headquarters": "애틀랜타",
+   "founders": [
+    "Asa Griggs Candler",
+    "존 펨버턴"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「코카콜라 컴퍼니」 요약과 위키데이터 Q3295867 팩트를 근거로 편집"
+ }
+}

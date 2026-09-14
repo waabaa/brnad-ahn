@@ -29,30 +29,33 @@ SRCMIRROR="/home/developer/brandatlas-src"
 LOCK="/home/developer/.brandatlas-publish.lock"
 SITE="${SRC%/}"
 
-# ① 매거진 원고는 배포 서버가 원본이다(2026-09-13, "매거진 관련 모든 작업은 배포 서버 작업"). 서버에서 승인·예약된 원고를
-#    먼저 받아 온다. 받아 온 것이 있으면 로컬 산출물에 반영되도록 다시 빌드한다 — 안 그러면 아래 --delete가 서버에서 공개된
-#    매거진 페이지를 지운다.
+# ① 매거진 원고와 주간 수록 브랜드는 배포 서버가 원본이다(2026-09-13 매거진, 2026-09-14 브랜드 수록 — 둘 다 서버 작업).
+#    서버에서 승인·예약된 원고와 수록 레코드를 먼저 받아 온다. 받아 온 것이 있으면 로컬 산출물에 반영되도록 다시 빌드한다 —
+#    안 그러면 아래 --delete가 서버에서 공개된 매거진 페이지·브랜드 페이지를 지운다.
 if [ -z "$DRY" ]; then
-  mkdir -p "$SITE/content/magazine"
+  mkdir -p "$SITE/content/magazine" "$SITE/content/brands"
+  CHANGED=0
   # 안전장치: 서버 원고 폴더가 비어 있거나 없는데 로컬에 원고가 있으면 받아 오지 않는다(--delete가 로컬 원고를 지우는 사고 방지).
   REMOTE_N="$($SSH "$SSH_TARGET" "ls $SRCMIRROR/content/magazine/*.md 2>/dev/null | wc -l" || echo 0)"
   LOCAL_N="$(ls "$SITE"/content/magazine/*.md 2>/dev/null | wc -l)"
   if [ "${REMOTE_N:-0}" -eq 0 ] && [ "$LOCAL_N" -gt 0 ]; then
     echo "! 서버 매거진 원고가 비어 있음 — 받아 오기 생략(deploy/setup-server-jobs.sh로 서버를 먼저 준비할 것)"
   else
-  CHANGED="$(rsync -a --delete --itemize-changes --exclude='drafts/' -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/magazine/" "$SITE/content/magazine/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
-  if [ "${CHANGED:-0}" -gt 0 ]; then
-    echo "서버 매거진 원고 ${CHANGED}건 변경 → 다시 빌드"
-    ( cd "$SITE" && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-seo-extras.mjs | tail -1 )
+    CHANGED="$(rsync -a --delete --itemize-changes --exclude='drafts/' -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/magazine/" "$SITE/content/magazine/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
   fi
+  # 수록 레코드는 서버가 지우지 않으므로 --delete 없이 받는다(로고 검수 결과가 레코드 파일에 적혀 온다).
+  BRANDS="$(rsync -a --itemize-changes -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/brands/" "$SITE/content/brands/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
+  if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ]; then
+    echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 변경 → 반영 후 다시 빌드"
+    ( cd "$SITE" && node scripts/apply-auto-brands.mjs && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-seo-extras.mjs | tail -1 )
   fi
 fi
 
-# ② 서버 소스 미러 — 서버 작업(매거진·주간 리프레시)이 빌드하는 사이트 소스. 원고 폴더는 서버 소유라 올리지 않는다.
+# ② 서버 소스 미러 — 서버 작업(매거진·수록·주간 리프레시)이 빌드하는 사이트 소스. 원고·수록 레코드 폴더는 서버 소유라 올리지 않는다.
 #    서버 빌드와 겹치지 않게 원격 rsync를 서버의 빌드 잠금 안에서 돌린다.
 rsync -az --delete $DRY -e "$SSH" --rsync-path="flock -w 1800 /home/developer/.brandatlas-build.lock rsync" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scratchpad/' --exclude='source-imports/' \
-  --exclude='archive/' --exclude='300-brands/' --exclude='content/magazine/' \
+  --exclude='archive/' --exclude='300-brands/' --exclude='content/magazine/' --exclude='content/brands/' \
   --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' \
   "$SRC" "$SSH_TARGET:$SRCMIRROR/"
 

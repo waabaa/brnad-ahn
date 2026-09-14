@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q97439162",
+ "demand": {
+  "why": "국외",
+  "naver": 0.025,
+  "koViews": 1310,
+  "enViews": 305138,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/stellantis-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "stellantis",
+  "urlSlug": "stellantis",
+  "name": "스텔란티스",
+  "nameKo": "스텔란티스",
+  "nameEn": "Stellantis",
+  "definition": "스텔란티스(Stellantis)는 그루프 PSA와 Fiat Chrysler Automobiles가 합병해 2021년 설립한 네덜란드의 다국적 자동차 회사이다. 암스테르담에 본사를 두고 여러 자동차 상표를 산하에 보유한다.",
+  "summary": "스텔란티스(Stellantis)는 그루프 PSA와 Fiat Chrysler Automobiles가 합병해 2021년 설립한 네덜란드의 다국적 자동차 회사이다. 암스테르담에 본사를 두고 여러 자동차 상표를 산하에 보유한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "서로 다른 두 자동차 그룹이 50 : 50으로 합병해 14개 자동차 상표를 한 회사 아래 둔 구조가 스텔란티스의 구별점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "그루프 PSA와 Fiat Chrysler Automobiles가 50 : 50 비율로 결합해 출범한 다국적 자동차 회사이다. 합병일 기준 산하에 14개 자동차 상표를 보유하고 밀라노·뉴욕·파리의 세 증권 시장에 상장했다. 2019년 기준 연 생산량은 870만대이고 매출액은 1700억 유로 규모이다. 합병 당시 판매량 기준 세계 4위였으며 세계 시장 점유율은 약 9%이다. 초대 대표이사는 PSA 회장 Carlos Tavares가 맡았으며 본사는 네덜란드 암스테르담이다. 대한민국에서는 1996년 크라이슬러 한국판매에서 시작한 직판 조직이 합병법인 출범에 따라 스텔란티스코리아로 출범했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2019년 10월 그루프 PSA와 Fiat Chrysler Automobiles가 합병 계획을 발표했으며, 두 회사는 합병 절차를 1년 3개월 동안 진행했다. 양사는 50 : 50 비율로 합병하고 2021년 1월 16일 스텔란티스를 설립했다. 합병 회사의 초대 대표이사는 PSA 회장 Carlos Tavares가 맡았다. 출범과 함께 14개 자동차 상표를 산하에 두고 밀라노·뉴욕·파리 증권 시장에 상장했으며, 대한민국 직판 조직도 스텔란티스코리아로 출범했다. 이 조직은 크라이슬러가 대한민국 직판 체계를 갖추기 위해 1996년 설립한 크라이슬러 한국판매에서 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 합병일 기준 산하 14개 자동차 상표를 보유한 자동차 부문으로 구성한다. 2019년 기준 연간 870만대를 생산했으며, 합병 당시 자동차 판매량을 기준으로 세계 4위에 해당했다. 대한민국에서는 스텔란티스코리아가 직판을 담당하며, 이 조직은 크라이슬러가 대한민국 직판 체계를 위해 1996년 설립한 크라이슬러 한국판매에서 시작했다. 회사는 자동차 사업을 운영하면서 밀라노·뉴욕·파리의 세 증권 시장에 상장된 구조를 유지한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 네덜란드 암스테르담이며, 그루프 PSA와 Fiat Chrysler Automobiles의 50 : 50 합병으로 형성된 회사이다. 합병일 기준 14개 자동차 상표를 보유하고 세 증권 시장에 상장했다. 2026년 LG에너지솔루션은 캐나다 합작법인에서 스텔란티스가 보유한 지분 49% 전량을 취득하기로 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "서로 다른 두 자동차 그룹이 50 : 50으로 합병해 14개 자동차 상표를 한 회사 아래 둔 구조가 스텔란티스의 구별점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.stellantis.com/",
+  "entityLinks": {
+   "wikidata": "Q97439162",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q97439162",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%94%EB%9E%80%ED%8B%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Stellantis"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q97439162",
+   "country": "네덜란드",
+   "inception": "2021",
+   "headquarters": "암스테르담",
+   "founders": [
+    "그루프 PSA",
+    "Fiat Chrysler Automobiles"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「스텔란티스」 요약과 위키데이터 Q97439162 팩트를 근거로 편집"
+ }
+}

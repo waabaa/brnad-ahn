@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q152517",
+ "demand": {
+  "why": "국내",
+  "naver": 2.886,
+  "koViews": 3272,
+  "enViews": 19478,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/hyundai-rotem-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "hyundai-rotem",
+  "urlSlug": "hyundai-rotem",
+  "name": "현대로템",
+  "nameKo": "현대로템",
+  "nameEn": "Hyundai Rotem",
+  "definition": "현대로템(Hyundai Rotem)은 의왕시에 본사를 두고 철도차량과 방위산업 제품을 제작하며 철도 관련 시스템 사업도 수행하는 대한민국 기업이다.",
+  "summary": "현대로템(Hyundai Rotem)은 의왕시에 본사를 두고 철도차량과 방위산업 제품을 제작하며 철도 관련 시스템 사업도 수행하는 대한민국 기업이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "철도차량 제작을 중심으로 신호·통신·시스템엔지니어링과 방위산업 제품을 함께 다루는 사업 구성이 구별점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "현대로템의 주력 사업은 철도차량 제작이며 방위산업 제품과 플랜트 사업도 운영한다. 철도 부문은 차량뿐 아니라 신호, 통신, 시스템엔지니어링 사업을 포괄한다. 철도차량은 아시아, 유럽, 아메리카, 오세아니아, 중동과 아프리카의 여러 국가에 수출됐다. 국내 철도차량 시장에서는 철차 3사 통합 이후 사실상 독점했으나 2015년 경쟁 컨소시엄의 수주로 독점체제가 깨졌다. 세계 철도차량 시장에서는 2.4%의 점유율을 차지하며 12위로 내려앉았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "현재 법인의 시초는 1999년 7월 1일 현대정공, 대우중공업, 한진중공업의 철도차량 사업부문을 통합해 설립한 한국철도차량주식회사이다. 이 통합은 외환위기 직후 정부의 중복투자사업 구조조정 계획에 따라 추진됐다. 회사는 2001년 현대자동차그룹에 편입된 뒤 같은 해 12월 28일 로템으로 재출범했다. 로템은 철도기술을 뜻하는 Railroading Technology와 복합 체계의 통일성을 뜻하는 System을 결합한 이름이며, 2007년 현대 브랜드를 활용하기 위해 현재 사명으로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "철도차량은 고속열차, 통근형 전동차, 기관차, 경전철용 전동차, 디젤동차, 차세대형 자기부상열차 등으로 구성한다. 철도 관련 신호와 통신, 열차종합제어장치, 열차자동제어시스템, 시스템엔지니어링도 사업 범위에 포함한다. 방위 부문에서는 전신인 현대정공 철도차량사업부 시절 한국형 K1전차와 한국형 88전차를 개발했다. 수소전기트램은 수소를 한 번 충전해 150㎞ 이상 주행하는 철도차량이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현대자동차가 최대주주로서 지분 43.36%를 보유하며 모기업 역할을 한다. 본사는 의왕시에 있으며 철도차량과 방위산업 제품 제작을 주요 사업으로 운영한다. 세계 철도차량 시장에서는 중국, 프랑스, 독일, 일본 등의 업체와 경쟁하며 2.4%의 시장점유율을 차지한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "철도차량 제작을 중심으로 신호·통신·시스템엔지니어링과 방위산업 제품을 함께 다루는 사업 구성이 구별점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hyundai-rotem.co.kr",
+  "entityLinks": {
+   "wikidata": "Q152517",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q152517",
+    "https://ko.wikipedia.org/wiki/%ED%98%84%EB%8C%80%EB%A1%9C%ED%85%9C",
+    "https://en.wikipedia.org/wiki/Hyundai_Rotem"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q152517",
+   "country": "대한민국",
+   "inception": "1999",
+   "headquarters": "의왕시",
+   "founders": [],
+   "parent": "현대자동차",
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「현대로템」 요약과 위키데이터 Q152517 팩트를 근거로 편집"
+ }
+}

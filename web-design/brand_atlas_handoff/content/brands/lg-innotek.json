@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q16219421",
+ "demand": {
+  "why": "국내",
+  "naver": 3.897,
+  "koViews": 2224,
+  "enViews": 4390,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/lg-innotek-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "lg-innotek",
+  "urlSlug": "lg-innotek",
+  "name": "LG이노텍",
+  "nameKo": "LG이노텍",
+  "nameEn": "LG Innotek",
+  "definition": "LG이노텍(LG Innotek)은 대한민국에서 카메라 모듈, 반도체·디스플레이 기판, 차량용 전장부품과 IoT 부품을 제조하는 LG그룹 계열 전자부품 회사이다.",
+  "summary": "LG이노텍(LG Innotek)은 대한민국에서 카메라 모듈, 반도체·디스플레이 기판, 차량용 전장부품과 IoT 부품을 제조하는 LG그룹 계열 전자부품 회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스마트폰용 카메라 모듈을 주력으로 하면서 반도체·디스플레이 기판과 차량 전장부품을 함께 제조하고, 수익성이 낮은 사업을 정리해 포트폴리오를 재편했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 서울특별시에 본사를 두고 광학솔루션과 기판소재, 차량 전장부품을 중심으로 사업을 전개한다. 2004년 시스템 사업부를 매각한 뒤 전자부품사업에 집중했다. 2009년 LG마이크론을 흡수 합병해 디스플레이·반도체 기판소재 분야로 사업을 확대했다. 2010년대 후반에는 스마트폰용 메인기판과 조명용 일반 LED 사업에서 철수하고 카메라 모듈 중심의 광학솔루션에 역량을 집중했다. 2023년에는 연 매출 20조 6,053억 원을 기록했으며 FC-BGA 투자를 통해 사업 구성을 확장한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "설립 연도는 1976년이며, 모태는 1970년 8월 세워진 금성알프스전자이다. 1995년 LG전자부품(주), 1998년 LG C&D(주)로 상호를 변경했으며 1999년 방산사업을 하던 LG정밀(주)과 합병했다. 2000년 LG이노텍(주)으로 사명을 변경하고 모바일·디스플레이·네트워크 부품으로 사업 영역을 확대했다. 중국과 미국, 인도네시아, 폴란드에 거점을 마련했으며 2008년 유가증권시장에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력인 광학솔루션 사업에서는 스마트폰용 카메라 모듈과 광학식 손떨림 보정 기능을 적용한 모듈을 생산한다. 기판소재 사업은 반도체·디스플레이 기판을 다루며, 2022년 고성능 반도체 패키지 기판인 FC-BGA 사업 진출을 공식화했다. 차량 전장부품으로는 차량용 제동모터와 토크앵글센서, 희토류를 사용하지 않는 듀얼 클러치 변속기용 모터 등을 개발했다. 이 밖에 IoT 부품과 무선충전 송수신 모듈을 생산하며 애플 아이폰과 SK하이닉스에 부품을 납품한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "LG그룹 계열사이며 본사는 서울특별시 강서구 마곡동에 위치한다. 2023년 창사 이래 처음으로 연 매출 20조 원을 넘겨 20조 6,053억 원을 기록했다. 특정 고객사와 모바일 기기에 집중된 수익 구조를 다변화하기 위해 FC-BGA 사업에 대규모 투자를 단행하며 포트폴리오를 확대한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스마트폰용 카메라 모듈을 주력으로 하면서 반도체·디스플레이 기판과 차량 전장부품을 함께 제조하고, 수익성이 낮은 사업을 정리해 포트폴리오를 재편했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lginnotek.com",
+  "entityLinks": {
+   "wikidata": "Q16219421",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16219421",
+    "https://ko.wikipedia.org/wiki/LG%EC%9D%B4%EB%85%B8%ED%85%8D",
+    "https://en.wikipedia.org/wiki/LG_Innotek"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16219421",
+   "country": "대한민국",
+   "inception": "1976",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「LG이노텍」 요약과 위키데이터 Q16219421 팩트를 근거로 편집"
+ }
+}

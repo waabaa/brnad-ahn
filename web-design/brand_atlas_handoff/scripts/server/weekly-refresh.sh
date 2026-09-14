@@ -6,6 +6,7 @@
 #
 # systemd 사용자 유닛 brandatlas-weekly.timer(월 05:10) → 이 스크립트, 로그 ~/brandatlas-logs/weekly.log.
 # 매거진도 여기서 함께 돈다(주 1회 — 초안·배정 후 전체 빌드에서 그날 공개일 기사를 연다).
+# 브랜드 수록도 주 1회 여기서 돈다(2026-09-14 — 검색 수요 상위 20곳, scripts/server/catalog-job.sh).
 # 수동 실행: 로컬에서 ./deploy/weekly-refresh.sh (서버 유닛을 깨운다)
 set -uo pipefail
 . /home/developer/brandatlas-src/scripts/server/common.sh
@@ -18,6 +19,9 @@ exec 7>"$BUILD_LOCK"; flock -w 3600 7 || { echo "빌드 잠금 대기 초과 —
 
 echo "[0-a] 매거진: 예약 부족이면 초안 작성, 어드민 승인분을 월요일에 배정(공개는 아래 전체 빌드가 한다)"
 "$SRC/scripts/server/magazine-job.sh" --no-publish || echo "  ! 매거진 작업 실패 — 예약된 원고만으로 빌드"
+
+echo "[0-b] 브랜드 수록: 검색 수요 상위 브랜드를 근거 검증 후 주간 목표만큼(어드민 '브랜드 수록'에서 ON/OFF)"
+"$SRC/scripts/server/catalog-job.sh" || echo "  ! 수록 작업 실패 — 기존 데이터로 빌드"
 
 echo "[0] 지수 기업 섹터 분류·컬렉션 편입(멱등, 실패해도 기존 값으로 빌드)"
 node scripts/apply-index-sectors.mjs | head -1 || echo "  ! 섹터 분류 실패"

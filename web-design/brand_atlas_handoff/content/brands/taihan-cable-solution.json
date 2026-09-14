@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q16178308",
+ "demand": {
+  "why": "국내",
+  "naver": 4,
+  "koViews": 2169,
+  "enViews": 791,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "taihan-cable-solution",
+  "urlSlug": "taihan-cable-solution",
+  "name": "대한전선",
+  "nameKo": "대한전선",
+  "nameEn": "Taihan Cable & Solution",
+  "definition": "대한전선(Taihan Cable & Solution)은 대한민국에서 전력·통신용 전선과 스테인리스강 제품을 제조하며 초고압케이블과 전력기기 사업을 전개하는 기업이다.",
+  "summary": "대한전선(Taihan Cable & Solution)은 대한민국에서 전력·통신용 전선과 스테인리스강 제품을 제조하며 초고압케이블과 전력기기 사업을 전개하는 기업이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "대한민국 최초의 전선 기업에서 출발해 500kV 초고압케이블과 여러 기술집약형 전력·통신 케이블을 개발한 이력이 정체성을 형성한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "대한전선은 전력용·통신용 전선과 스테인리스강 제품을 제조하고 기술집약형 케이블을 공급하는 대한민국 기업이다. 초고압케이블 분야에서 경쟁력을 갖추며 500kV 초고압케이블을 대한민국 최초로 개발하고 상용화했다. 당진의 전선공장과 전력기기 공장을 비롯해 남아프리카 공화국, 베트남, 사우디아라비아 등의 생산법인을 운영한다. 미국, 사우디아라비아, 카타르, 오스트레일리아, 영국 등을 포함한 해외 15개 지사를 통해 글로벌 사업망을 구축한다. 한국거래소에 티커 심볼 001440으로 상장한 호반그룹 계열사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "대한전선은 1941년 설립된 대한민국 최초의 전선 기업 조선전선에서 시작했다. 1955년 대한전선으로 사명을 변경하고 1964년 동남아시아 지역으로 대한민국 최초의 전선 수출을 시작했다. 1997년 5억불, 2005년 7억불, 2007년 10억불 수출의 탑을 수상했다. 가전·전자 사업도 운영했으나 매출과 판매가 부진해지면서 1983년 가전 부문을 대우전자로 넘겼다. 이후 당진공장과 해외 생산법인을 중심으로 전선 사업의 생산 기반과 글로벌 네트워크를 확대했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품군은 전력용 전선, 통신용 전선, 스테인리스강 제품과 전력기기로 구성한다. 초고압케이블 분야에서는 대한민국 최초로 개발하고 상용화한 500kV 초고압케이블을 비롯해 소선절연케이블과 ACCC증용량가공선을 공급한다. 2009년 대한민국 최초의 초고압용 폴리머애관을 개발하고 2012년 세계 최초의 400km/h급 고속전차선을 개발했다. 2013년에는 열차제어 신호전송용 케이블과 슬림형 UTP케이블 개발에 성공했으며 2018년에는 신기술을 적용한 Flexion 케이블을 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "대한전선은 2021년 5월 호반산업이 인수한 호반그룹 계열사이다. 인수 이후 영문 사명을 Taihan Electric Wire에서 현재 명칭으로 변경했다. 모기업과의 사업 시너지를 위해 주택건설업과 부동산개발업을 사업 목적에 추가했다. 현재 대표이사는 송종민이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대한민국 최초의 전선 기업에서 출발해 500kV 초고압케이블과 여러 기술집약형 전력·통신 케이블을 개발한 이력이 정체성을 형성한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.taihan.com/",
+  "entityLinks": {
+   "wikidata": "Q16178308",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16178308",
+    "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EC%A0%84%EC%84%A0",
+    "https://en.wikipedia.org/wiki/Taihan_Cable_%26_Solution"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16178308",
+   "country": "대한민국",
+   "inception": "1955",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「대한전선」 요약과 위키데이터 Q16178308 팩트를 근거로 편집"
+ }
+}

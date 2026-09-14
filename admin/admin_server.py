@@ -287,6 +287,65 @@ def magazine_state() -> dict:
     }
 
 
+# ─── 주간 브랜드 수록(2026-09-14) ───────────────────────────────────────────
+# 서버 작업 brandatlas-src/scripts/server/catalog-job.sh 가 매주 월 05:10 주간 리프레시 안에서 검색 수요 상위 브랜드를
+# 근거 검증 후 수록한다(레코드 = brandatlas-src/content/brands/*.json). 어드민은 ON/OFF·주간 목표와 로고 검수만 쓴다.
+# 로고는 검수 전에는 싣지 않는다 — 승인·반려는 매거진과 같은 trigger로 서버 작업을 깨워 즉시 다시 공개한다.
+CAT_DIR = DATA_DIR / "catalog"
+SRC_BRANDS = Path(os.environ.get("BRANDATLAS_SRC", "/home/developer/brandatlas-src")) / "content" / "brands"
+BRAND_SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{0,119}$")
+CAT_DEFAULT = {"autoImport": True, "weeklyTarget": 20}
+LOGO_TYPES = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp", ".gif": "image/gif", ".svg": "image/svg+xml"}
+
+
+def _cat_read(name: str, fallback):
+    try:
+        p = CAT_DIR / name
+        return json.loads(p.read_text("utf-8")) if p.exists() else fallback
+    except (OSError, ValueError):
+        return fallback
+
+
+def _cat_write(name: str, payload) -> None:
+    CAT_DIR.mkdir(parents=True, exist_ok=True)
+    tmp = CAT_DIR / f".{name}.tmp"
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")
+    tmp.replace(CAT_DIR / name)
+
+
+def _cat_record(slug: str) -> dict | None:
+    p = SRC_BRANDS / f"{slug}.json"
+    try:
+        return json.loads(p.read_text("utf-8")) if p.exists() else None
+    except (OSError, ValueError):
+        return None
+
+
+def catalog_state() -> dict:
+    decisions = _cat_read("decisions.json", {})
+    rows = []
+    for p in sorted(SRC_BRANDS.glob("*.json")) if SRC_BRANDS.exists() else []:
+        try:
+            doc = json.loads(p.read_text("utf-8"))
+        except (OSError, ValueError):
+            continue
+        r = doc.get("record") or {}
+        rows.append({
+            "slug": r.get("urlSlug"), "name": r.get("nameKo") or r.get("name"), "nameEn": r.get("nameEn"),
+            "industry": r.get("industry"), "definition": r.get("definition"), "importedAt": doc.get("importedAt"),
+            "demand": doc.get("demand"), "hasLogo": bool(doc.get("logoCandidate")), "logoReview": doc.get("logoReview"),
+            "decision": (decisions.get(r.get("urlSlug")) or {}).get("action"),
+        })
+    rows.sort(key=lambda x: (x["importedAt"] or "", x["slug"] or ""), reverse=True)
+    demand = _cat_read("demand.json", None)
+    return {
+        "settings": {**CAT_DEFAULT, **_cat_read("settings.json", {})},
+        "lastRun": _cat_read("last-run.json", None),
+        "demand": {k: demand.get(k) for k in ("at", "period", "anchor", "pool", "entities", "measured", "datalabCalls", "gscQueries", "errors", "selected")} if demand else None,
+        "records": rows,
+    }
+
+
 # ─── Google Search Console ─────────────────────────────────────────────────
 # GA4와 같은 서비스 계정 키를 쓴다. 이 계정은 2026-09-13 사이트 소유권 확인(HTML 파일
 # googled16cb13cacb89c16.html — 지우면 소유권이 풀린다)으로 URL 접두어 속성의 소유자가 됐다.
@@ -574,6 +633,33 @@ class Handler(BaseHTTPRequestHandler):
             return self._json(401, {"error": "인증 필요"})
         if route == "/api/trend":
             return self._trend()
+        if route in ("/api/catalog/settings", "/api/catalog/decision"):
+            if "application/json" not in (self.headers.get("Content-Type") or ""):
+                return self._json(415, {"error": "application/json 필요"})
+            body = self._body()
+            if route == "/api/catalog/settings":
+                cur = {**CAT_DEFAULT, **_cat_read("settings.json", {})}
+                if "autoImport" in body:
+                    cur["autoImport"] = bool(body["autoImport"])
+                if "weeklyTarget" in body:
+                    try:
+                        cur["weeklyTarget"] = max(1, min(40, int(body["weeklyTarget"])))
+                    except (TypeError, ValueError):
+                        return self._json(400, {"error": "weeklyTarget은 1~40"})
+                cur["updatedAt"] = datetime.now(KST).isoformat(timespec="seconds")
+                _cat_write("settings.json", cur)
+                return self._json(200, {"ok": True, "settings": cur})
+            slug, action = str(body.get("slug") or ""), str(body.get("action") or "")
+            if not BRAND_SLUG.match(slug) or action not in ("approve", "reject", "undo") or not _cat_record(slug):
+                return self._json(400, {"error": "slug·action 확인"})
+            dec = _cat_read("decisions.json", {})
+            if action == "undo":
+                dec.pop(slug, None)
+            else:
+                dec[slug] = {"action": action, "at": datetime.now(KST).isoformat(timespec="seconds")}
+            _cat_write("decisions.json", dec)
+            _mag_trigger()   # 서버 작업(magazine-job.sh)이 공개 지문 변화로 다시 빌드·공개한다
+            return self._json(200, {"ok": True})
         if route in ("/api/magazine/settings", "/api/magazine/decision"):
             # JSON 본문만 받는다(폼 전송 CSRF 차단 — 쿠키는 SameSite=Lax).
             if "application/json" not in (self.headers.get("Content-Type") or ""):
@@ -708,6 +794,27 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json(500, {"error": f"로그 읽기 실패: {e}"})
         if route == "/api/magazine":
             return self._json(200, magazine_state())
+        if route == "/api/catalog":
+            return self._json(200, catalog_state())
+        if route == "/api/catalog/logo":
+            slug = (qs.get("slug") or [""])[0]
+            doc = _cat_record(slug) if BRAND_SLUG.match(slug) else None
+            if not doc or not doc.get("logoCandidate"):
+                return self._json(404, {"error": "로고 없음"})
+            f = (SRC_BRANDS / doc["logoCandidate"]).resolve()
+            if SRC_BRANDS.resolve() / "logos" not in f.parents or f.suffix.lower() not in LOGO_TYPES or not f.exists():
+                return self._json(404, {"error": "로고 없음"})
+            data = f.read_bytes()
+            self.send_response(200)
+            self.send_header("Content-Type", LOGO_TYPES[f.suffix.lower()])
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Cache-Control", "private, max-age=3600")
+            self.send_header("X-Content-Type-Options", "nosniff")
+            # SVG를 주소창에서 직접 열어도 스크립트가 돌지 않게(어드민 쿠키와 같은 출처다).
+            self.send_header("Content-Security-Policy", "default-src 'none'; style-src 'unsafe-inline'; sandbox")
+            self.end_headers()
+            self.wfile.write(data)
+            return None
         if route == "/api/magazine/draft":
             slug = (qs.get("slug") or [""])[0]
             if not MAG_SLUG.match(slug):

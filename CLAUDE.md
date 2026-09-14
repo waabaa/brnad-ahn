@@ -111,6 +111,23 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 
 **새 레코드의 로고는 수록 직후 육안 검수한다.** Wikidata P154도 다른 개체 로고·옛 로고·간판 사진이 섞여 있다.
 
+**주간 수록(2026-09-14, 배포 서버).** 매주 월 05:10 주간 리프레시 `[0-b]`가 `scripts/server/catalog-job.sh`를 부른다 — 사람들이 찾는
+브랜드부터 주 20곳(어드민 '브랜드 수록' 탭에서 ON/OFF·목표 1~40).
+
+```
+후보 풀  discover-wikidata-brands --min-global 10 --min-kr 2 --out data/catalog/pool.json   (28일마다, 약 1,800곳)
+   ↓     BLOCK_P31 + 기업 근거 속성(BUSINESS_PROPS: P452·P159·P1454·P176·P414·P1128·P127 중 하나) — 영화 시리즈·로고 문서 차단
+수요     국내 = 네이버 데이터랩(기준어 '파타고니아' 대비 비율, 조회수 상위 120곳만 측정)
+         국외 = 영문 위키백과 조회수(3개월) — 구글은 일반 검색량 API가 없어 공개된 대리 지표를 쓴다
+         보조 = 서치 콘솔 검색어 중 페이지가 없던 브랜드(맨 앞)          → brand-demand.mjs, 국내·국외 번갈아 목표×1.6
+수록     import-wikidata-brands --target 20 --records-dir content/brands --ledger data/catalog/ledger.json (키: brandatlas-catalog, 하루 40)
+반영     apply-auto-brands.mjs — 서버 build_site 첫 단계 + 로컬 배포가 받아 온 뒤(멱등). 로고는 어드민 승인분만 images/logos/로 게재
+```
+- 서버의 `content/brands/`가 수록 레코드의 원본이다(매거진 원고와 같은 구조 — 미러 올릴 때 제외, 로컬 배포가 먼저 받아 간다). 로컬 데이터에는
+  배포 때 반영되므로 그 뒤 커밋해 이력을 남긴다.
+- 로고 승인·반려는 매거진 trigger로 서버 작업을 깨우고, 공개 지문(`magazine-fp.mjs`)에 검수 결과가 들어 있어 즉시 다시 공개된다.
+- 게이트웨이·위키 API 장애로 난 기각은 원장에 남기지 않는다(다음 주에 다시 후보). 목표에 도달해 못 쓴 후보도 마찬가지.
+
 ## 2-d. 테마 컬렉션 (2026-09-12)
 
 업종(`domainSlug`)과 별개의 가로축. 정의는 `scripts/lib/collections.mjs`(P452·P31 QID 목록 + include/exclude),
@@ -228,7 +245,7 @@ node scripts/verify-redirects.mjs --all  # 301 전건
 ```
 
 주간 자동화는 **배포 서버**의 `scripts/server/weekly-refresh.sh`(systemd 사용자 유닛 `brandatlas-weekly.timer`, 월 05:10,
-로그 `~/brandatlas-logs/weekly.log`, 2026-09-14 로컬 cron에서 옮김)가 섹터·컬렉션 → 빌드 → 어드민 스냅샷 → 검증 → 공개 → 색인 측정을 돌리고,
+로그 `~/brandatlas-logs/weekly.log`, 2026-09-14 로컬 cron에서 옮김)가 매거진 → 브랜드 주간 수록(§2-c) → 섹터·컬렉션 → 빌드 → 어드민 스냅샷 → 검증 → 공개 → 색인 측정을 돌리고,
 수용기준 미달이면 배포하지 않는다.
 
 ---

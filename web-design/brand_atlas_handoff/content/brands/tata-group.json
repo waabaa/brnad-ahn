@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q331715",
+ "demand": {
+  "why": "국외",
+  "naver": 0.001,
+  "koViews": 511,
+  "enViews": 267753,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/tata-group-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "tata-group",
+  "urlSlug": "tata-group",
+  "name": "타타 그룹",
+  "nameKo": "타타 그룹",
+  "nameEn": "Tata Group",
+  "definition": "타타 그룹(Tata Group)은 인도 뭄바이에 본사를 둔 다국적 복합 기업이다. 면 거래에서 출발해 강철 생산, 수력 발전, 자동차, 호텔과 여러 계열사로 사업을 확장했다.",
+  "summary": "타타 그룹(Tata Group)은 인도 뭄바이에 본사를 둔 다국적 복합 기업이다. 면 거래에서 출발해 강철 생산, 수력 발전, 자동차, 호텔과 여러 계열사로 사업을 확장했다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 4.333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1868년 면 거래 기업에서 출발해 강철과 수력 발전을 거쳐 자동차, 통신, 호텔 등으로 확장한 복합 사업 구조가 구분점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 기업은 1868년 면 거래 기업에서 출발해 제조와 수력 발전, 호텔 및 여러 계열사 설립으로 사업 영역을 확장했다. 초기에는 Empress Mills를 설치했고, 이후 강철 생산과 수력 발전을 추진했다. 계열 목록은 타타케미컬, 타타 자동차, 타타대우모빌리티, 타타티, Tata Consultancy Services, 타타커뮤니케이션즈를 포함한다. 재규어 자동차와 랜드로버, Taj Hotels Resorts and Palaces, 타타 스틸과 CORUS, 볼타스와 타이탄 인더스트리도 사업 구성을 이룬다. 뭄바이를 본사로 삼아 다양한 산업의 계열사를 거느리는 인도의 다국적 복합 기업이다. 월트 디즈니 컴퍼니는 계열 목록에 제시된 TATA SKY를 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 기업은 잠셋지 타타가 1868년 영국령 인도 제국 봄베이에서 면 거래 기업을 설립하면서 시작했다. 1877년 나그푸르에 Empress Mills를 설치했고, 1903년에는 봄베이의 타지마할 호텔을 개장했다. 잠셋지 타타가 죽은 뒤 1904년 맏아들 도랍지 타타가 회장이 되었고, 그의 재임 아래 1905년 강철 생산과 1910년 수력 발전을 추진했다. 1934년 도랍 타타가 죽은 뒤 Nowroji Saklatwala가 이어받았으며, 이후 타타케미컬, 타타자동차, 타타 인더스트리, 볼타스, Tata Consultancy Services, 타이탄 인더스트리 설립으로 사업을 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업 구성은 타타케미컬, 타타 자동차, 타타대우모빌리티, 타타 스틸과 CORUS를 포함한다. 서비스 및 통신 관련 계열 목록은 Tata Consultancy Services와 타타커뮤니케이션즈를 포함한다. 그 밖에 타타티, 재규어 자동차와 랜드로버, Taj Hotels Resorts and Palaces, 타이탄 인더스트리, 볼타스, 타타 인더스트리를 계열 목록에 포함한다. 방송 계열로 제시된 TATA SKY는 월트 디즈니 컴퍼니가 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 인도 뭄바이에 본사를 둔 다국적 복합 기업으로, 자동차·철강·통신·호텔 등을 아우르는 여러 계열사를 구성한다. 계열 목록은 타타케미컬, 타타 자동차, 타타 스틸과 CORUS, Tata Consultancy Services, 타타커뮤니케이션즈 등을 포함한다. 월트 디즈니 컴퍼니는 계열 목록에 제시된 TATA SKY를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1868년 면 거래 기업에서 출발해 강철과 수력 발전을 거쳐 자동차, 통신, 호텔 등으로 확장한 복합 사업 구조가 구분점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tata.com",
+  "entityLinks": {
+   "wikidata": "Q331715",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q331715",
+    "https://ko.wikipedia.org/wiki/%ED%83%80%ED%83%80_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Tata_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q331715",
+   "country": "인도",
+   "inception": "1868",
+   "headquarters": "뭄바이",
+   "founders": [
+    "잠셋지 타타"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「타타 그룹」 요약과 위키데이터 Q331715 팩트를 근거로 편집"
+ }
+}

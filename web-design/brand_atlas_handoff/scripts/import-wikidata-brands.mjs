@@ -11,11 +11,19 @@
 // 위키데이터 팩트를 근거로 수록한다. 근거 밖 숫자 기각 규칙은 같다. 한글 표기는 위키데이터 ko 레이블이 있을 때만
 // 쓰고 없으면 비워 둔다(음차 생성 금지, CLAUDE.md §1) — 원어만 있는 레코드가 된다.
 //
+// 주간 자동 수록(2026-09-14, 배포 서버 — scripts/server/catalog-job.sh):
+//   --target N        수록이 N건이 되면 멈춘다(후보는 수요 순으로 넉넉히 준다 — 일부는 검증에서 기각된다)
+//   --records-dir DIR 데이터 파일을 직접 고치지 않고 레코드를 DIR/<slug>.json 으로 쓴다. 로고는 DIR/logos/ 에 두고
+//                     검수 전까지 싣지 않는다(apply-auto-brands.mjs 가 어드민 승인분만 올린다)
+//   --ledger FILE     수록·기각 원장을 이 파일에 쓴다(기본 원장은 읽기만 한다 — 두 원장 모두 "처리됨"으로 본다)
+//
 // Usage: node scripts/import-wikidata-brands.mjs [--limit 50] [--dry] [--batch 3] [--only Q1,Q2] [--candidates file] [--no-fallback] [--concurrency 2] [--source en]
+//        node scripts/import-wikidata-brands.mjs --candidates <file> --limit 30 --target 20 --records-dir content/brands --ledger <file> --no-fallback
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { slugifyAscii, romanizeKorean } from "./lib/brand-seo.mjs";
+import { UA, BLOCK_P31, norm } from "./lib/wikidata-brand.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -29,25 +37,27 @@ const ONLY = opt("--only") ? new Set(opt("--only").split(",")) : null;
 const FALLBACK = args.includes("--no-fallback") ? [] : ["gemini"];
 const CONCURRENCY = Math.max(1, Number(opt("--concurrency", 4)));
 const SOURCE_EN = opt("--source", "ko") === "en";
-const UA = "BrandAtlasBot/1.0 (https://brandatlas.co.kr; brand dictionary; contact via site form)";
 const GW = process.env.LLM_GATEWAY_URL || "http://127.0.0.1:15055/v1/generate";
 const GW_KEY = process.env.LLM_GATEWAY_KEY || "";
 const TODAY = new Date().toISOString().slice(0, 10);
+const TARGET = Number(opt("--target", 0)) || Infinity;
+const RECORDS_DIR = opt("--records-dir") ? path.resolve(opt("--records-dir")) : null;
+const LEDGER = opt("--ledger") ? path.resolve(opt("--ledger")) : null;
 
 const DATA_PATH = path.join(ROOT, "data/brand-atlas.json");
 const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
 // --candidates reports/collection-candidates.json: 컬렉션 발굴 결과를 읽는다(기본은 brand-candidates.json).
-const candidates = JSON.parse(fs.readFileSync(path.join(ROOT, opt("--candidates", "reports/brand-candidates.json")), "utf8"));
+const candidates = JSON.parse(fs.readFileSync(path.resolve(ROOT, opt("--candidates", "reports/brand-candidates.json")), "utf8"));
 const REPORT = path.join(ROOT, "reports/wikidata-brand-import.json");
-const prevReport = fs.existsSync(REPORT) ? JSON.parse(fs.readFileSync(REPORT, "utf8")) : { added: [], rejected: [] };
+const readLedger = (f) => fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")) : { added: [], rejected: [] };
+const baseReport = readLedger(REPORT);
+const prevReport = LEDGER ? readLedger(LEDGER) : baseReport;
+const seenReport = LEDGER ? { added: [...baseReport.added, ...prevReport.added], rejected: [...baseReport.rejected, ...prevReport.rejected] } : prevReport;
 // en 모드는 ko 근거 때문에 기각된 개체(문서 없음·요약 짧음·동음이의)를 다시 시도한다.
 const KO_ONLY_REJECT = /ko 문서 없음|요약 짧음|동음이의/;
 // --only로 지정한 개체는 과거 기각 기록이 있어도 다시 시도한다(명시적 재시도). 수록된 개체는 그대로 건너뛴다.
-const doneQids = new Set([...prevReport.added.map(r => r.qid), ...prevReport.rejected.filter(r => !(SOURCE_EN && KO_ONLY_REJECT.test(r.why)) && !(ONLY && ONLY.has(r.qid))).map(r => r.qid)]);
+const doneQids = new Set([...seenReport.added.map(r => r.qid), ...seenReport.rejected.filter(r => !(SOURCE_EN && KO_ONLY_REJECT.test(r.why)) && !(ONLY && ONLY.has(r.qid))).map(r => r.qid)]);
 
-// 브랜드가 아닌 개체(사람·대학·리그·행정구역·작품)는 수록하지 않는다.
-const BLOCK_P31 = new Set(["Q484652", "Q79913", "Q163740", "Q1664720", "Q15911314", "Q31855", "Q3914", "Q2385804", "Q7075", "Q1785271", "Q4438121", "Q17127659", "Q5", "Q3918", "Q875538", "Q902104", "Q847017", "Q476028", "Q623109", "Q15991290", "Q15991303", "Q1478437", "Q515", "Q6256", "Q3624078", "Q11424", "Q482994", "Q134556", "Q7889", "Q571", "Q13406463", "Q4167410", "Q4167836", "Q7278", "Q245065", "Q327333", "Q43229x", "Q1250464", "Q10387575", "Q41176", "Q811979"]);
-const norm = (s) => String(s || "").normalize("NFC").toLowerCase().replace(/&/g, " and ").replace(/\s*\(.*?\)\s*/g, "").replace(/[^\p{Script=Hangul}\p{Letter}\p{Number}]+/gu, "").trim();
 const have = new Set();
 for (const b of data.allBrands) for (const k of [b.name, b.nameKo, b.nameEn, b.slug, b.urlSlug]) if (k) have.add(norm(k));
 const haveSlug = new Set(data.allBrands.map(b => b.urlSlug || b.slug));
@@ -174,21 +184,22 @@ function parseJsonArray(s) {
   try { return JSON.parse(t.slice(a, b + 1)); } catch { return null; }
 }
 
-async function downloadLogo(commonsFile, slug) {
+async function downloadLogo(commonsFile, slug, dir = ROOT, prefix = "images/logos") {
   const url = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(commonsFile)}?width=800`;
   const buf = await wikiFetch(url, false);
   if (!buf || buf.length < 400) return "";
   let ext = /\.svg$/i.test(commonsFile) ? "png" : (path.extname(commonsFile).slice(1).toLowerCase() || "png");
   if (buf[0] === 0x89 && buf[1] === 0x50) ext = "png"; else if (buf[0] === 0xff && buf[1] === 0xd8) ext = "jpg";
   else if (/<svg[\s>]/i.test(buf.toString("utf8", 0, 2000))) ext = "svg";
-  const rel = `images/logos/${slug}-wd.${ext}`;
-  fs.writeFileSync(path.join(ROOT, rel), buf);
+  const rel = `${prefix}/${slug}-wd.${ext}`;
+  fs.mkdirSync(path.join(dir, prefix), { recursive: true });
+  fs.writeFileSync(path.join(dir, rel), buf);
   return rel;
 }
 
 // ── 후보 준비 ────────────────────────────────────────────────────────
 // 스캔은 위키 API 두 번씩 1,500건이라 40분쯤 걸린다. 결과를 캐시해 재시작 비용을 없앤다.
-const PREP_CACHE = path.join(ROOT, SOURCE_EN ? "reports/wikidata-brand-prepared-en.json" : "reports/wikidata-brand-prepared.json");
+const PREP_CACHE = LEDGER ? path.join(path.dirname(LEDGER), "prepared.json") : path.join(ROOT, SOURCE_EN ? "reports/wikidata-brand-prepared-en.json" : "reports/wikidata-brand-prepared.json");
 const prepared = [];
 const rejected = [];
 let scanned = 0;
@@ -229,7 +240,7 @@ for (const c of (CACHED ? [] : candidates)) {
   // en 모드의 한글 표기: 위키데이터 ko 레이블(한글 포함)만. 없으면 빈 값 — 음차하지 않는다.
   const koName = SOURCE_EN ? (/[가-힣]/.test(e.labels?.ko?.value || "") ? e.labels.ko.value.trim() : "") : koBase;
   if (SOURCE_EN && koName && have.has(norm(koName))) { rejected.push({ qid: c.qid, ko: koName, why: "이미 수록" }); continue; }
-  prepared.push({ qid: c.qid, ko: koName, koTitle, enTitle: e.sitelinks?.enwiki?.title || "", sourceLang: SOURCE_EN ? "en" : "ko", en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
+  prepared.push({ qid: c.qid, demand: c.demand || null, ko: koName, koTitle, enTitle: e.sitelinks?.enwiki?.title || "", sourceLang: SOURCE_EN ? "en" : "ko", en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
   if (scanned % 25 === 0) console.log(`  스캔 ${scanned}, 준비 ${prepared.length}, 기각 ${rejected.length}`);
 }
 if (!CACHED && !DRY) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
@@ -312,10 +323,16 @@ async function processChunk(chunk, retry = false) {
     if (String(g.definition).length < 40 || String(g.overview).length < 200 || total < 600) { failed.push([p, `본문 짧음(${total}자)`]); continue; }
     const rec = buildRecord(p, g);
     if (!rec) { failed.push([p, "slug 생성 불가"]); continue; }
-    if (p.logoFile && !DRY) { rec.logo = await downloadLogo(p.logoFile, rec.urlSlug); if (rec.logo) rec.logoHistory = [{ src: rec.logo, label: "대표 로고", note: "현재 사용 중인 마크" }]; }
-    rec.id = nextId++;
-    if (!DRY) data.allBrands.push(rec);
-    added.push({ qid: p.qid, name: p.ko || p.en, source: p.sourceLang, slug: rec.urlSlug, industry: rec.industry, logo: !!rec.logo });
+    if (RECORDS_DIR) {
+      // 위키데이터 로고(P154)에는 다른 개체·옛 로고·간판 사진이 섞여 있다 — 내려받아 두기만 하고 어드민 검수 후 싣는다.
+      const logoCandidate = p.logoFile && !DRY ? await downloadLogo(p.logoFile, rec.urlSlug, RECORDS_DIR, "logos") : "";
+      if (!DRY) fs.writeFileSync(path.join(RECORDS_DIR, `${rec.urlSlug}.json`), JSON.stringify({ importedAt: TODAY, qid: p.qid, demand: p.demand || null, logoCandidate: logoCandidate || null, logoReview: logoCandidate ? "pending" : null, record: rec }, null, 1));
+    } else {
+      if (p.logoFile && !DRY) { rec.logo = await downloadLogo(p.logoFile, rec.urlSlug); if (rec.logo) rec.logoHistory = [{ src: rec.logo, label: "대표 로고", note: "현재 사용 중인 마크" }]; }
+      rec.id = nextId++;
+      if (!DRY) data.allBrands.push(rec);
+    }
+    added.push({ qid: p.qid, name: p.ko || p.en, source: p.sourceLang, slug: rec.urlSlug, industry: rec.industry, logo: !!rec.logo || !!RECORDS_DIR && !!p.logoFile });
     have.add(norm(p.ko));
   }
   return failed;
@@ -325,7 +342,7 @@ let doneChunks = 0;
 const retryQueue = [];
 const queue = [...chunks];
 await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
-  while (queue.length) {
+  while (queue.length && added.length < TARGET) {
     const chunk = queue.shift();
     let failed = [];
     try { failed = await processChunk(chunk); } catch (e) { failed = chunk.map(p => [p, `오류: ${e.message}`]); }
@@ -333,7 +350,7 @@ await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
     for (const [p, why] of failed) console.warn(`  보류 ${p.qid} ${p.en || p.ko}: ${String(why).slice(0, 120)}`);
     for (const f of failed) retryQueue.push(f);
     doneChunks++;
-    if (doneChunks % 5 === 0) {
+    if (doneChunks % 5 === 0 && !RECORDS_DIR) {
       console.log(`배치 ${doneChunks}/${chunks.length} — 수록 ${added.length}, 재시도 대기 ${retryQueue.length}`);
       if (!DRY) { for (const ind of data.industries) ind.count = data.allBrands.filter(b => b.domainSlug === ind.id).length; if (data.stats) data.stats.brands = data.allBrands.length; fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 1)); }
     }
@@ -348,17 +365,20 @@ const rq = [...retryItems];
 await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
   while (rq.length) {
     const p = rq.shift();
+    if (added.length >= TARGET) { rejected.push({ qid: p.qid, ko: p.ko, why: "보류(이번 주 목표 도달)", retryable: true }); continue; }
     let failed = [];
     try { failed = await processChunk([p], true); } catch (e) { failed = [[p, `오류: ${e.message}`]]; }
     for (const [q, why] of failed) rejected.push({ qid: q.qid, ko: q.ko, why: `${retryReasons.get(q.qid)} → 재시도: ${why}` });
   }
 }));
 
-if (!DRY) {
+if (!DRY && !RECORDS_DIR) {
   for (const ind of data.industries) ind.count = data.allBrands.filter(b => b.domainSlug === ind.id).length;
   if (data.stats) data.stats.brands = data.allBrands.length;
   fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 1));
 }
+// 자동 수록에서는 게이트웨이·위키 API 장애로 난 기각을 원장에 남기지 않는다 — 다음 주에 다시 후보가 된다.
+const TRANSIENT = /LLM 응답 파싱 실패|오류:|위키데이터 조회 실패/;
 // dry 결과를 원장에 쓰면 다음 실행이 그 QID를 "처리됨"으로 건너뛴다 — dry는 보고서를 따로 둔다.
-fs.writeFileSync(DRY ? REPORT.replace(/\.json$/, ".dry.json") : REPORT, JSON.stringify({ added: [...(DRY ? [] : prevReport.added), ...added.map(a => ({ ...a, at: TODAY }))], rejected: [...(DRY ? [] : prevReport.rejected), ...rejected.map(r => ({ ...r, at: TODAY }))] }, null, 1));
+fs.writeFileSync(DRY ? (LEDGER || REPORT).replace(/\.json$/, ".dry.json") : (LEDGER || REPORT), JSON.stringify({ added: [...(DRY ? [] : prevReport.added), ...added.map(a => ({ ...a, at: TODAY }))], rejected: [...(DRY ? [] : prevReport.rejected), ...rejected.filter(r => !r.retryable && !(RECORDS_DIR && TRANSIENT.test(r.why))).map(r => ({ ...r, at: TODAY }))] }, null, 1));
 console.log(`\n수록 ${added.length}건, 기각 ${rejected.length}건${DRY ? " (dry)" : ""}. allBrands ${data.allBrands.length}`);

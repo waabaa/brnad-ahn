@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q125054",
+ "demand": {
+  "why": "국외",
+  "naver": 0.003,
+  "koViews": 199,
+  "enViews": 193210,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/aldi-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "aldi",
+  "urlSlug": "aldi",
+  "name": "알디",
+  "nameKo": "알디",
+  "nameEn": "Aldi",
+  "definition": "알디(Aldi)는 소품종과 PB상품 중심의 구성을 통해 낮은 가격을 지향하는 독일 최대 할인마트 브랜드이다. 유럽과 미국, 오스트레일리아에서 점포를 운영한다.",
+  "summary": "알디(Aldi)는 소품종과 PB상품 중심의 구성을 통해 낮은 가격을 지향하는 독일 최대 할인마트 브랜드이다. 유럽과 미국, 오스트레일리아에서 점포를 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.433333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "상품과 서비스를 덜어내는 운영 원칙을 바탕으로 소품종·대량 구매·PB상품 중심의 할인 유통 구조를 구축한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "알디는 잘 팔리고 회전율이 높은 기본 식료품과 PB상품을 중심으로 취급하는 할인마트이다. 상품 종류와 매장 서비스를 줄이고 대량 구매와 간소한 운영을 통해 판매 가격을 낮추는 방식을 채택한다. 유럽을 비롯해 미국과 오스트레일리아에서 10,000개에 가까운 점포를 운영한다. 사업은 Aldi Nord와 Aldi Süd라는 별도 법인으로 나뉘며, 두 법인은 서로 경쟁하지 않도록 운영 지역을 분할한다. Aldi Nord는 독일 북동부와 프랑스·베네룩스·이베리아 등을, Aldi Süd는 독일 남부와 영국·아일랜드·오스트레일리아 등을 담당한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1945년 Karl Albrecht와 Theo Albrecht 형제가 부친 사후 어머니가 운영하던 가업을 이어받아 운영을 시작했다. 1948년 두 형제는 판매 상품 수를 줄이고 대량 구매로 가격을 낮추는 방식으로 가게를 개조했다. Albrecht KG는 1954년 에센의 다른 지역에 첫 지점을 열었고, 1955년 노르트라인베스트팔렌주에서 100개가 넘는 지점을 운영했다. 1961년 두 형제는 회사를 Aldi Nord와 Aldi Süd로 분할하고 각각 북부와 남부 지점을 인수했다. 이후 Albrecht와 Discount의 앞부분을 결합한 Aldi라는 이름으로 식료품 할인 방식을 전개했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "판매 상품의 종류를 줄이고 잘 팔리는 기본 식료품과 PB상품을 중심으로 매장을 구성한다. 대량 구매를 통해 조달 가격을 낮추며, 배송용 박스를 판매 진열에 활용하고 팔레트나 자체 제작 선반을 사용하는 운영 방식을 채택한다. 개별 상품 가격표, 고가 매장 인테리어, 광고, 매장 장식, 외상 판매, 할인 쿠폰 등 비용을 유발하는 요소를 생략한다. 신선 식품도 줄여 재고 관리와 제품 유지에 필요한 비용을 절감하고 낮은 판매 가격을 지향한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Aldi Nord와 Aldi Süd는 각각 독립적으로 운영하며 서로 경쟁하지 않도록 사업 지역을 나눈다. Aldi Nord는 에센에 본사를 두고 미국의 Trader Joe's 점포를 포함한 북부 권역을 운영한다. Aldi Süd는 뮐하임에 본사를 두고 독일 남부와 영국, 아일랜드, 스위스, 오스트리아, 오스트레일리아 및 미국 Aldi를 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "상품과 서비스를 덜어내는 운영 원칙을 바탕으로 소품종·대량 구매·PB상품 중심의 할인 유통 구조를 구축한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.aldi.com",
+  "entityLinks": {
+   "wikidata": "Q125054",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q125054",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%94%94",
+    "https://en.wikipedia.org/wiki/Aldi"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q125054",
+   "country": "미국",
+   "inception": "1946",
+   "headquarters": "에센",
+   "founders": [
+    "카를 알브레히트",
+    "테오 알브레히트"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「알디」 요약과 위키데이터 Q125054 팩트를 근거로 편집"
+ }
+}

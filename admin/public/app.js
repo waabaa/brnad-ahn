@@ -48,6 +48,7 @@ const TABS = [
   { id: "ga4", name: "GA4", render: renderGa4 },
   { id: "gsc", name: "구글 서치콘솔", render: renderGsc },
   { id: "magazine", name: "매거진", render: renderMagazine },
+  { id: "catalog", name: "브랜드 수록", render: renderCatalog },
   { id: "contact", name: "문의", render: renderContact },
   { id: "settings", name: "설정", render: renderSettings },
 ];
@@ -637,6 +638,81 @@ function renderMagazine(host) {
         dec ? `${dec === "approve" ? "승인" : "반려"} 대기` : `${statusKo[x.status] || x.status}${x.date ? ` (${x.date})` : ""}`, act];
     }))));
     out.append(tb, pv);
+  };
+  load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
+}
+
+// ─── 11. 주간 브랜드 수록 ───────────────────────────────────────────────────
+// 수요 선정·수록·공개는 배포 서버 작업이 한다(매주 월 05:10 주간 리프레시). 여기서는 ON/OFF·주간 목표·로고 검수만 한다.
+function renderCatalog(host) {
+  const b = box(host, "주간 브랜드 수록", "매주 월요일, 사람들이 실제로 찾는 브랜드부터 수록합니다. 국내는 네이버 데이터랩 검색량, 국외는 영문 위키백과 조회수, 우리 사이트에 노출됐는데 페이지가 없던 구글 검색어를 봅니다. 본문은 위키백과·위키데이터 근거 밖의 숫자가 있으면 기각됩니다. 로고는 여기서 승인한 것만 실립니다.");
+  const out = el("div", {});
+  b.append(out);
+  const post = (path, body) => api(path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  const reviewKo = { pending: "검수 대기", approved: "게재", rejected: "반려" };
+
+  const load = async () => {
+    const d = await api("/api/catalog");
+    out.innerHTML = "";
+    const s = d.settings;
+    const cb = el("input", { type: "checkbox", checked: s.autoImport ? "" : null });
+    cb.addEventListener("change", async () => { cb.disabled = true; try { await post("/api/catalog/settings", { autoImport: cb.checked }); } finally { load(); } });
+    const tg = el("input", { type: "number", min: "1", max: "40", value: String(s.weeklyTarget), style: "width:70px" });
+    tg.addEventListener("change", async () => { await post("/api/catalog/settings", { weeklyTarget: Number(tg.value) }); load(); });
+    out.append(
+      el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, cb, el("b", {}, "자동 수록"), el("span", { class: "muted" }, "켜면 매주 월요일 주간 리프레시가 수록합니다.")),
+      el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0 16px" }, el("b", {}, "주간 목표"), tg, el("span", { class: "muted" }, "곳 — 근거 검증을 통과한 것만 셉니다(최대 40).")),
+    );
+    const recs = d.records || [];
+    const pending = recs.filter((r) => r.hasLogo && r.logoReview === "pending" && !r.decision);
+    const inner = el("div", {});
+    cards(inner, [
+      { k: "지난 실행", v: d.lastRun ? `${d.lastRun.added}곳` : "—", s: d.lastRun ? `${d.lastRun.at.slice(0, 16).replace("T", " ")} · 목표 ${d.lastRun.target}` : "아직 없음" },
+      { k: "서버 수록 누적", v: `${recs.length}곳`, s: "주간 수록으로 들어온 브랜드" },
+      { k: "로고 검수 대기", v: `${pending.length}건`, s: pending.length ? "아래에서 승인하면 즉시 다시 공개됩니다" : "없음", accent: pending.length > 0 },
+    ]);
+    out.append(inner);
+
+    // 로고 검수 — 위키데이터 로고에는 다른 개체·옛 로고·간판 사진이 섞여 있다.
+    const lg = el("div", { class: "box" }, el("h2", {}, "로고 검수"), el("div", { class: "sub" }, "위키데이터 로고에는 다른 회사·옛 로고·간판 사진이 섞여 있습니다. 이 브랜드의 현재 로고가 맞을 때만 승인하세요. 승인·반려는 누르는 즉시 서버가 다시 공개합니다."));
+    const withLogo = recs.filter((r) => r.hasLogo);
+    if (!withLogo.length) lg.append(el("div", { class: "empty" }, "검수할 로고가 없습니다."));
+    const grid = el("div", { style: "display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px" });
+    for (const r of withLogo) {
+      const state = r.decision ? `${r.decision === "approve" ? "승인" : "반려"} 반영 중` : reviewKo[r.logoReview] || "";
+      const act = el("div", { class: "row", style: "gap:6px;margin-top:8px" });
+      const mk = (label, action) => { const bt = el("button", { class: "act" }, label); bt.addEventListener("click", async () => { bt.disabled = true; await post("/api/catalog/decision", { slug: r.slug, action }); load(); }); return bt; };
+      if (r.decision) act.append(mk("취소", "undo"));
+      else if (r.logoReview === "pending") act.append(mk("승인", "approve"), mk("반려", "reject"));
+      else act.append(mk(r.logoReview === "approved" ? "내리기" : "다시 승인", r.logoReview === "approved" ? "reject" : "approve"));
+      grid.append(el("div", { style: "border:1px solid #e5e5e5;border-radius:8px;padding:10px;background:#fff" },
+        el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:#fafafa;border-radius:6px" },
+          el("img", { src: `${API}/api/catalog/logo?slug=${encodeURIComponent(r.slug)}`, alt: `${r.name} 로고 후보`, loading: "lazy", style: "max-width:100%;max-height:88px;object-fit:contain" })),
+        el("div", { style: "margin-top:8px;font-weight:600" }, r.name || r.slug),
+        el("div", { class: "muted", style: "font-size:12px" }, `${r.nameEn || ""} · ${state}`),
+        act));
+    }
+    lg.append(grid);
+
+    // 이번 주 선정 근거
+    const dm = d.demand;
+    const sel = el("div", { class: "box" }, el("h2", {}, "이번 주 수요 순위"),
+      el("div", { class: "sub" }, dm ? `기간 ${dm.period.from}~${dm.period.to} · 후보 ${num(dm.entities)}곳 중 선정 · 데이터랩 기준어 '${dm.anchor}'=1 · 데이터랩 ${dm.datalabCalls}회${dm.errors?.length ? ` · 경고: ${dm.errors.join(" / ")}` : ""}` : "아직 실행 기록이 없습니다."));
+    if (dm?.selected?.length) {
+      const added = new Set(recs.map((r) => r.name));
+      sel.append(el("div", { class: "scroll" }, table(["순서", "브랜드", "근거", "네이버(기준어=1)", "위키백과 ko", "위키백과 en", "결과"], dm.selected.map((x, i) => [
+        String(i + 1), `${x.ko}${x.en ? ` (${x.en})` : ""}`, x.why, x.naver == null ? "—" : x.naver.toFixed(2), num(x.koViews), num(x.enViews), added.has(x.ko) ? "수록" : "—",
+      ]))));
+    }
+
+    // 수록 목록
+    const ls = el("div", { class: "box" }, el("h2", {}, "수록된 브랜드"), el("div", { class: "sub" }, "서버 주간 수록분입니다. 브랜드 페이지는 다음 공개부터 보입니다."));
+    if (!recs.length) ls.append(el("div", { class: "empty" }, "아직 없습니다."));
+    else ls.append(el("div", { class: "scroll" }, table(["수록일", "브랜드", "산업", "근거", "로고"], recs.map((r) => [
+      r.importedAt || "", el("a", { href: `/brand/${encodeURIComponent(r.slug)}.html`, target: "_blank", rel: "noopener" }, `${r.name}${r.nameEn && r.nameEn !== r.name ? ` (${r.nameEn})` : ""}`),
+      r.industry || "", r.demand?.why || "", r.hasLogo ? reviewKo[r.logoReview] || "" : "없음",
+    ]))));
+    out.append(lg, sel, ls);
   };
   load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
 }

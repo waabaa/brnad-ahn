@@ -22,7 +22,8 @@ SNAP="$REPO/web-design/brand_atlas_handoff/reports/admin-snapshot.json"
 ssh "${SSH_OPTS[@]}" "$SSH_TARGET" "mkdir -p $REMOTE/public $REMOTE/data"
 rsync -az -e "ssh -i $SSH_KEY -o IdentitiesOnly=yes -o BatchMode=yes" "$REPO/admin/public/" "$SSH_TARGET:$REMOTE/public/"
 rsync -az -e "ssh -i $SSH_KEY -o IdentitiesOnly=yes -o BatchMode=yes" "$REPO/admin/admin_server.py" "$SSH_TARGET:$REMOTE/"
-rsync -az -e "ssh -i $SSH_KEY -o IdentitiesOnly=yes -o BatchMode=yes" "$SNAP" "$SSH_TARGET:$REMOTE/data/"
+# --update: 스냅샷은 서버 주간 리프레시가 만든다(2026-09-14) — 서버 쪽이 더 새것이면 로컬 스냅샷으로 덮지 않는다.
+rsync -az --update -e "ssh -i $SSH_KEY -o IdentitiesOnly=yes -o BatchMode=yes" "$SNAP" "$SSH_TARGET:$REMOTE/data/"
 
 # UI는 staging → /var/www/brandatlas-admin 으로 옮긴다. nginx(www-data)가 developer의
 # 홈(700 디렉토리) 안을 읽을 수 없기 때문이다.

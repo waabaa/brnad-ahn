@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-13",
+ "generatedAt": "2026-09-14",
  "counts": {
   "ai": 25,
   "fintech": 31,
   "banking": 56,
   "energy": 49,
   "property": 38,
-  "airlines": 61,
+  "airlines": 64,
   "museums": 27,
   "fast-food": 44,
   "cafes": 31,
@@ -2760,6 +2760,24 @@
    {
     "collection": "digital-services",
     "why": "wikidata Q47015652 P31=Q620615"
+   }
+  ],
+  "aero-k": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q65272521 P31=Q46970"
+   }
+  ],
+  "air-busan": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q406932 P31=Q46970"
+   }
+  ],
+  "alaska-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q822614 P31=Q46970"
    }
   ]
  }

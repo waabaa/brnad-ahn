@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q12581442",
+ "demand": {
+  "why": "국내",
+  "naver": 3.726,
+  "koViews": 3477,
+  "enViews": 170,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/ls-electric-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "ls-electric",
+  "urlSlug": "ls-electric",
+  "name": "LS일렉트릭",
+  "nameKo": "LS일렉트릭",
+  "nameEn": "LS Electric",
+  "definition": "LS일렉트릭(LS Electric)은 대한민국에서 전력기기와 산업자동화 기술 및 제품을 공급하는 기업이다. 전력공급·계통보호 시스템과 스마트그리드 중심의 그린 비즈니스를 전개한다.",
+  "summary": "LS일렉트릭(LS Electric)은 대한민국에서 전력기기와 산업자동화 기술 및 제품을 공급하는 기업이다. 전력공급·계통보호 시스템과 스마트그리드 중심의 그린 비즈니스를 전개한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "전력계통 보호와 산업자동화를 함께 다루면서 스마트그리드·HVDC·ESS 등 스마트에너지 사업을 병행하는 구성이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "주력 사업은 전력과 자동화 부문이며 국가 기간산업 전력망과 산업자동화 구축에서 역할을 담당한다. 전력 부문에서는 발전소에서 생산된 전력을 수용가까지 공급하고 전력계통을 보호하는 기기와 시스템을 생산한다. 산업자동화 부문에서는 생산 현장의 모터 제어와 전기·신호체계 운영을 통해 에너지 효율을 높이는 기술과 제품을 공급한다. 스마트그리드, 태양광, HVDC, ESS도 미래 성장동력으로 육성한다. 국내 사업장과 해외 생산거점, 법인 및 지사를 기반으로 사업 영역을 확대한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1974년 7월 금성계전으로 출발했으며, 이후 전력기기와 산업자동화를 중심으로 사업 기반을 형성했다. 1987년 금성산전, 1995년 LG산전, 2005년 LS산전으로 각각 사명을 변경했으며 2020년에는 LS ELECTRIC으로 사명을 변경했다. 국내에는 안양과 용산의 본사 및 연구소와 청주·천안·부산의 사업장을 마련했으며, 중국과 베트남 등의 생산거점과 미국 시카고·일본 도쿄·네덜란드 암스테르담 등의 법인 및 지사로 해외 사업을 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전력사업은 중·저압기기, 고압기기, 계량기, 계전기, 초고압개폐기, 배전반, 진단시스템을 중심으로 구성한다. 발전소의 전력을 수용가까지 공급하고 전력계통을 보호하는 제품을 생산하며 초고압 전력시스템 사업도 영위한다. 산업자동화 사업은 산업용 PLC, 인버터, SERVO, HMI를 통해 생산 현장의 모터와 전기·신호체계를 제어한다. 그린 비즈니스는 스마트그리드, 태양광, HVDC, ESS를 핵심 사업으로 구성한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "경기도에 본사를 두고 국내에 본사와 연구소를 포함한 4개 사업장을 보유하며, 해외에는 3개 생산거점과 세계 각국 20여 개 법인 및 지사를 보유한다. 2025년 LG전자 및 한전과 직류 기반 스마트팩토리 사업을 본격화했다. 같은 해 데이터센터 사업 수주가 1조 원을 돌파했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "전력계통 보호와 산업자동화를 함께 다루면서 스마트그리드·HVDC·ESS 등 스마트에너지 사업을 병행하는 구성이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lselectric.co.kr",
+  "entityLinks": {
+   "wikidata": "Q12581442",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12581442",
+    "https://ko.wikipedia.org/wiki/LS%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD",
+    "https://en.wikipedia.org/wiki/LS_Electric"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12581442",
+   "country": "대한민국",
+   "inception": "1974",
+   "headquarters": "경기도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「LS일렉트릭」 요약과 위키데이터 Q12581442 팩트를 근거로 편집"
+ }
+}

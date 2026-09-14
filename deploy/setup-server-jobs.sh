@@ -5,6 +5,7 @@
 #   /home/developer/brandatlas-src/            사이트 소스 미러(첫 설치 때만 content/magazine/ 포함 — 이후 원고의 원본은 서버)
 #   /home/developer/brandatlas-tools/humanize/ im-not-ai(humanize-korean, MIT) 문체 지표 도구 — 로컬 플러그인 캐시에서 복사
 #   /home/developer/brandatlas-admin/llm-gateway-key  게이트웨이 키(600) — 매거진 전용 클라이언트 키(없으면 로컬 env의 research 키)
+#   /home/developer/brandatlas-admin/llm-catalog-key  주간 브랜드 수록 전용 키(600, brandatlas-catalog — 2026-09-14)
 #   /home/developer/brandatlas-logs/magazine.log
 #   systemd 사용자 유닛 brandatlas-weekly.{service,timer}   — 월 05:10 주간 리프레시(매거진 초안·배정 포함)
 #                        brandatlas-magazine.{service,path}  — 어드민 신호(지금 시작·승인·반려) 즉시 실행
@@ -20,7 +21,7 @@ ENV_FILE="${BRANDATLAS_ENV:-$HOME/.config/brandatlas/env}"
 HK_BASE="$HOME/.claude/plugins/cache/im-not-ai/humanize-korean"
 HK="$HK_BASE/$(ls "$HK_BASE" | sort | tail -1)"
 
-$SSH "$SSH_TARGET" 'mkdir -p ~/brandatlas-src ~/brandatlas-tools/humanize/scripts ~/brandatlas-tools/humanize/.claude/skills/humanize-korean ~/brandatlas-logs ~/brandatlas-admin/data/magazine/drafts'
+$SSH "$SSH_TARGET" 'mkdir -p ~/brandatlas-src ~/brandatlas-tools/humanize/scripts ~/brandatlas-tools/humanize/.claude/skills/humanize-korean ~/brandatlas-logs ~/brandatlas-admin/data/magazine/drafts ~/brandatlas-admin/data/catalog'
 
 echo "[1/5] 문체 지표 도구(im-not-ai, MIT)"
 rsync -az -e "$SSH" "$HK/scripts/" "$SSH_TARGET:brandatlas-tools/humanize/scripts/"
@@ -35,10 +36,17 @@ else
     | $SSH "$SSH_TARGET" 'umask 077; cat > ~/brandatlas-admin/llm-gateway-key && chmod 600 ~/brandatlas-admin/llm-gateway-key && echo "  research 키(600) — 매거진 전용 키가 아직 없음"'
 fi
 
+if $SSH "$SSH_TARGET" 'test -s ~/llm-oauth-gateway/secrets/brandatlas_catalog_api_key'; then
+  $SSH "$SSH_TARGET" 'install -m 600 ~/llm-oauth-gateway/secrets/brandatlas_catalog_api_key ~/brandatlas-admin/llm-catalog-key && echo "  수록 전용 키(600)"'
+else
+  echo "  ! 수록 전용 키 없음 — 게이트웨이에 brandatlas-catalog 클라이언트를 먼저 만들 것(주간 수록은 건너뛴다)"
+fi
+
 echo "[3/5] 소스 미러"
 REMOTE_N="$($SSH "$SSH_TARGET" 'ls ~/brandatlas-src/content/magazine/*.md 2>/dev/null | wc -l')"
 EXTRA=(--exclude='content/magazine/')
 if [ "$REMOTE_N" -eq 0 ]; then EXTRA=(); echo "  서버 원고 없음 — 로컬 원고로 첫 시딩"; fi
+EXTRA+=(--exclude='content/brands/')   # 주간 수록 레코드는 서버가 만든다(로컬은 받아 가기만)
 rsync -az --delete -e "$SSH" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scratchpad/' --exclude='source-imports/' \
   --exclude='archive/' --exclude='300-brands/' --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' --exclude='content/magazine/drafts/' \

@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-09-14",
+ "qid": "Q822614",
+ "demand": {
+  "why": "국외",
+  "naver": 0.02,
+  "koViews": 0,
+  "enViews": 121625,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/alaska-airlines-wd.png",
+ "logoReview": "pending",
+ "record": {
+  "id": 0,
+  "slug": "alaska-airlines",
+  "urlSlug": "alaska-airlines",
+  "name": "알래스카 항공",
+  "nameKo": "알래스카 항공",
+  "nameEn": "Alaska Airlines",
+  "definition": "알래스카 항공(Alaska Airlines)은 시애틀 터코마·포틀랜드·로스앤젤레스·테드 스티븐스 앵커리지 국제공항을 허브로 사용하는 미국 항공사이다.",
+  "summary": "알래스카 항공(Alaska Airlines)은 시애틀 터코마·포틀랜드·로스앤젤레스·테드 스티븐스 앵커리지 국제공항을 허브로 사용하는 미국 항공사이다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "시애틀 터코마·포틀랜드·로스앤젤레스·테드 스티븐스 앵커리지 국제공항을 함께 허브로 활용하는 운영 구조가 구분점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "알래스카 항공은 시애틀 터코마 국제공항을 비롯한 네 곳의 국제공항을 허브로 사용한다. 회사명과 달리 본사는 알래스카가 아니라 시애틀 교외 지역인 시택에 자리한다. 1932년 앵커리지와 브리스톨 베이 사이를 운항하는 지역 항공사로 출발한 뒤 반복적인 합병을 통해 알래스카 최대 항공사로 성장했다. 1960년대에는 냉전 시기의 소련에 정기 항공편을 운항했다. 1980년대에는 미국 항공 업계의 규제 완화를 배경으로 빠르게 성장했으며, 다른 항공사들과 코드셰어 협정을 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1932년 Linious McGee가 앵커리지와 브리스톨 베이 사이를 운항하는 지역 항공사 마쿠지 항공으로 설립했다. 이후 다른 항공사들과 합병을 반복하며 사업 기반을 넓혔고 알래스카 최대 항공사로 성장했다. 1960년대 냉전 시기에는 소련을 연결하는 정기 항공편도 운항했다. 1980년대에는 미국 항공 업계의 규제 완화를 배경으로 성장 속도를 높였다. 2016년 4월 4일 모기업인 Alaska Air Group이 Virgin America를 인수하겠다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시애틀 터코마·포틀랜드·로스앤젤레스·테드 스티븐스 앵커리지 국제공항을 허브로 항공 노선을 운항한다. 알래스카 지역에서 출발한 항공사로서 합병을 통해 운항 기반을 확대했으며, 1960년대에는 소련으로 향하는 정기 항공편도 운영했다. 다른 항공사들과 코드셰어 협정을 체결해 공동으로 노선을 제공한다. 2016년 7월 기준 취항 노선 현황을 운영했으며, 2025년 12월 기준 보유 기종의 평균 기령은 8.9년이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 Alaska Air Group이며 본사는 시애틀 교외 지역인 시택에 자리한다. Alaska Air Group은 2016년 Virgin America 인수 계획을 발표했다. 2025년 12월 기준 항공기를 보유해 운항하며 보유 기종의 평균 기령은 8.9년이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시애틀 터코마·포틀랜드·로스앤젤레스·테드 스티븐스 앵커리지 국제공항을 함께 허브로 활용하는 운영 구조가 구분점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.alaskaair.com",
+  "entityLinks": {
+   "wikidata": "Q822614",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q822614",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%9E%98%EC%8A%A4%EC%B9%B4_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Alaska_Airlines"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q822614",
+   "country": "미국",
+   "inception": "1932",
+   "headquarters": "시애틀",
+   "founders": [
+    "Linious  McGee"
+   ],
+   "parent": "Alaska Air Group",
+   "fetchedAt": "2026-09-14"
+  },
+  "sourceNote": "한국어 위키백과 「알래스카 항공」 요약과 위키데이터 Q822614 팩트를 근거로 편집"
+ }
+}
