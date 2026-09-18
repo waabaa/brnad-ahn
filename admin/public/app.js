@@ -502,6 +502,23 @@ function renderGa4(host) {
       : el("div", { class: "empty" }, "데이터 없음"));
     g.append(sb);
 
+    // 네이버·AI는 검색어/질문을 넘겨주지 않는다 — 들어온 페이지로 관심사를 본다.
+    const g2 = el("div", { class: "grid2" });
+    out.append(g2);
+    const decode = (p) => { try { return decodeURIComponent(p); } catch { return p; } };
+    const landingBox = (title, sub, rows) => {
+      const bx = el("div", { class: "box" }, el("h2", {}, title), el("div", { class: "sub" }, sub));
+      bx.append(rows?.length
+        ? el("div", { class: "scroll" }, table(["출처", "착지 페이지", { label: "세션", num: 1 }],
+            rows.map((r) => [r.sessionSource, decode(r.landingPage), r.sessions])))
+        : el("div", { class: "empty" }, "데이터 없음"));
+      return bx;
+    };
+    g2.append(
+      landingBox("네이버 유입 착지 페이지", "네이버는 검색어를 넘겨주지 않아(리퍼러에 도메인만 전달) 들어온 페이지로 봅니다. 검색어는 네이버 서치어드바이저에서 확인하세요.", d.naverLanding),
+      landingBox("AI 답변 유입 착지 페이지", "ChatGPT·Perplexity·Copilot 등은 질문을 전달하지 않습니다. AI 답변에 인용돼 클릭된 페이지입니다. 구글 검색어는 '구글 서치 콘솔' 탭에 있습니다.", d.aiLanding),
+    );
+
     const pb = el("div", { class: "box" }, el("h2", {}, "인기 페이지"), el("div", { class: "sub" }, "페이지뷰 상위 30"));
     pb.append(d.pages?.length
       ? el("div", { class: "scroll" }, table(["경로", { label: "페이지뷰", num: 1 }, { label: "사용자", num: 1 }, ""],

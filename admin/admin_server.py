@@ -478,6 +478,11 @@ def ga4_rows(payload: dict) -> list[dict]:
     return out
 
 
+# AI 답변 서비스 유입 출처 (GA4 sessionSource 값 기준)
+AI_SOURCE_REGEX = (r"(chatgpt\.com|chat\.openai\.com|perplexity(\.ai)?|copilot\.(com|microsoft\.com)"
+                   r"|gemini\.google\.com|claude\.ai|you\.com|wrtn\.ai)")
+
+
 def ga4_report(days: int = 28) -> dict:
     rng = [{"startDate": f"{days}daysAgo", "endDate": "today"}]
     summary = ga4_rows(ga4_call("runReport", {
@@ -513,6 +518,23 @@ def ga4_report(days: int = 28) -> dict:
         "orderBys": [{"metric": {"metricName": "sessions"}, "desc": True}],
         "limit": 15,
     }))
+    # 네이버·AI 답변은 리퍼러에 검색어/질문을 남기지 않는다(도메인만 전달) — 검색어 대신
+    # 어느 페이지로 들어왔는지로 관심사를 본다. 구글 검색어는 서치 콘솔 탭에 있다.
+    def landing(source_regex: str) -> list[dict]:
+        try:
+            return ga4_rows(ga4_call("runReport", {
+                "dateRanges": rng,
+                "dimensions": [{"name": "sessionSource"}, {"name": "landingPage"}],
+                "metrics": [{"name": "sessions"}],
+                "dimensionFilter": {"filter": {"fieldName": "sessionSource", "stringFilter": {
+                    "matchType": "FULL_REGEXP", "value": source_regex, "caseSensitive": False}}},
+                "orderBys": [{"metric": {"metricName": "sessions"}, "desc": True}],
+                "limit": 15,
+            }))
+        except (urllib.error.URLError, ValueError, KeyError):
+            return []
+    naver_landing = landing(".*naver.*")
+    ai_landing = landing(AI_SOURCE_REGEX)
     try:
         realtime = ga4_rows(ga4_call("runRealtimeReport", {"metrics": [{"name": "activeUsers"}]}))
     except (urllib.error.URLError, ValueError, KeyError):
@@ -528,6 +550,8 @@ def ga4_report(days: int = 28) -> dict:
         "pages": pages,
         "channels": channels,
         "sources": sources,
+        "naverLanding": naver_landing,
+        "aiLanding": ai_landing,
     }
 
 
