@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q1143333",
+ "demand": {
+  "why": "국외",
+  "naver": 0.294,
+  "koViews": 2120,
+  "enViews": 103080,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/haagen-dazs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "haagen-dazs",
+  "urlSlug": "haagen-dazs",
+  "name": "하겐다즈",
+  "nameKo": "하겐다즈",
+  "nameEn": "Häagen-Dazs",
+  "definition": "하겐다즈(Häagen-Dazs)는 미국에서 출발한 아이스크림 브랜드이다. 아이스크림 카르통과 바, 케이크, 소르베, 프로즌 요거트 등 여러 냉동 디저트를 판매한다.",
+  "summary": "하겐다즈(Häagen-Dazs)는 미국에서 출발한 아이스크림 브랜드이다. 아이스크림 카르통과 바, 케이크, 소르베, 프로즌 요거트 등 여러 냉동 디저트를 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "덴마크어처럼 들리도록 만든 독창적인 이름과 공기를 거의 섞지 않은 조밀한 아이스크림, 인공 유화제와 안정제를 배제한 제조 방식이 구별점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "하겐다즈는 바닐라, 초콜릿, 커피 세 가지 맛으로 시작한 아이스크림 브랜드이다. 1976년 11월 15일 뉴욕 브루클린에 첫 소매점을 열었으며, 식료품점과 전용 소매점을 통해 제품을 판매한다. 제품군은 아이스크림 카르통과 바, 케이크, 소르베, 프로즌 요거트, 프로즌 밀크셰이크, 젤라토, 아이스크림 샌드위치 등으로 구성된다. 아시아·태평양, 아메리카, 유럽을 포함한 전 세계 50여개국에서 판매된다. 제조 과정에서 공기를 거의 섞지 않는 조밀한 질감과 계란 노른자 외에 인공 유화제나 안정제를 사용하지 않는 구성을 특징으로 한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "설립 연도는 자료 간 차이가 있어 위키데이터에는 1961년, 한국어 위키백과 본문에는 1960년으로 기록되어 있으며 창업자는 Reuben Mattus와 Rose Mattus이다. Reuben Mattus의 가족은 1920년대 후반 아이스 팝을 만들기 시작했고, 1929년에는 사우스 브롱크스에서 초콜릿 코팅 아이스크림 바와 샌드위치를 생산했다. 1950년대 대량생산 업체의 가격 경쟁을 겪은 뒤 고급 아이스크림을 만들기로 결정했다. 1959년 덴마크어처럼 들리는 이름을 고안해 새 회사를 설립하기로 했다. 1976년 첫 소매점을 열었고 1983년 Pillsbury가 브랜드를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 아이스크림 카르통, 아이스크림 바, 아이스크림 케이크, 소르베, 프로즌 요거트, 프로즌 밀크셰이크, 젤라토와 아이스크림 샌드위치 등으로 구성된다. 전통적인 맛과 함께 바닐라 스위스 아몬드와 바나나 포스터 같은 맛도 제공한다. 제조 과정에서는 공기를 거의 섞지 않아 조밀한 질감을 만들며 천연 유지방 비율을 높게 유지한다. 계란 노른자 외에 인공 유화제나 안정제를 사용하지 않고 인공 색소도 넣지 않는다고 설명한다. 제품은 식료품점뿐 아니라 아이스크림 콘과 선디 등을 판매하는 전용 소매점에서도 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "위키데이터는 모기업을 General Mills로 기록하지만, 한국어 위키백과 본문은 Froneri가 브랜드를 소유한다고 설명한다. 전 세계 제품의 대부분은 1992년부터 프랑스 틸루아레모플렌 공장에서 생산되며, General Mills가 생산·판매·마케팅을 담당한다. 미국과 캐나다에서는 2019년 Nestlé가 Dreyer's와 브랜드 권리를 매각한 뒤 Froneri가 라이선스를 받아 제품을 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "덴마크어처럼 들리도록 만든 독창적인 이름과 공기를 거의 섞지 않은 조밀한 아이스크림, 인공 유화제와 안정제를 배제한 제조 방식이 구별점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.haagendazs.us/",
+  "entityLinks": {
+   "wikidata": "Q1143333",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1143333",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EA%B2%90%EB%8B%A4%EC%A6%88",
+    "https://en.wikipedia.org/wiki/H%C3%A4agen-Dazs"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1143333",
+   "country": "미국",
+   "inception": "1961",
+   "headquarters": "오클랜드",
+   "founders": [
+    "Reuben and Rose Mattus"
+   ],
+   "parent": "제너럴 밀스",
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「하겐다즈」 요약과 위키데이터 Q1143333 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

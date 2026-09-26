@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q175106",
+ "demand": {
+  "why": "국외",
+  "naver": 0.331,
+  "koViews": 1364,
+  "enViews": 101352,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/tim-hortons-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tim-hortons",
+  "urlSlug": "tim-hortons",
+  "name": "팀홀튼",
+  "nameKo": "팀홀튼",
+  "nameEn": "Tim Hortons",
+  "definition": "팀홀튼(Tim Hortons)은 커피와 도넛을 판매하는 캐나다의 커피 전문점이다. 캐나다 전역에 매장을 운영하는 대형 패스트푸드 음식점이기도 한다.",
+  "summary": "팀홀튼(Tim Hortons)은 커피와 도넛을 판매하는 캐나다의 커피 전문점이다. 캐나다 전역에 매장을 운영하는 대형 패스트푸드 음식점이기도 한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "커피와 도넛을 중심으로 한 전국적 매장망과 슈거메이플 나뭇잎 표식을 통해 캐나다와의 연관성을 드러내는 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "팀홀튼은 커피와 도넛을 중심으로 음료와 간식을 판매하는 캐나다의 커피 전문점이다. 캐나다에서 가장 큰 패스트푸드 음식점이며, 온타리오주에 매장이 상대적으로 많지만 다른 주에도 비교적 고르게 분포한다. 슈거메이플 나뭇잎 모양을 활용한 마크와 Tim's 표기를 사용하며 캐나다를 상징하는 기업 중 하나로 언급된다. Restaurant Brands International을 모기업으로 두며 본사는 토론토에 소재한다. 대한민국에서는 비케이알이 브랜드를 관리하며 2023년 신논현역점을 시작으로 영업을 개시했지만 가격 정책과 일부 매장 폐점으로 비판과 우려를 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아이스하키 선수 팀 호턴이 1964년 5월 17일 온타리오주 해밀턴에 자신의 이름을 붙인 도넛 매장을 열면서 시작했다. Ron Joyce는 1965년 Ottawa Street의 1호점을 관리했고, 1967년 2개의 새 매장을 개점한 뒤 팀 호턴의 사업 파트너가 되었다. 팀 호턴이 1974년 교통사고로 사망하자 Ron Joyce는 100만 달러에 회사 지분과 회사가 소유한 40개 매장의 소유권을 인수했다. 이후 사업을 빠르게 확장해 1991년 500호점을 열었다. 1995년 웬디스에 매각된 뒤 2006년 분리됐으며, 2014년 Restaurant Brands International이 110억 달러에 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 판매 품목은 커피와 도넛이며 다양한 음료와 간식 메뉴를 함께 구성한다. 대표 메뉴인 아이스 캡은 시그니처 커피 베이스와 크림을 슬러시처럼 갈아 만든 블렌드 음료이다. 더블더블도 대표적인 커피 메뉴이며, 대한민국에서는 공식적으로 대한민국식 믹스커피에 비유한다. 지역사회 어린이를 위한 스마일 쿠키도 판매하며, 1996년 온타리오주 해밀턴 어린이 병원에 판매 수익금을 기부한 뒤 캐나다 전역의 매장과 지역 병원 및 자선단체로 활동을 확대했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "팀홀튼은 Restaurant Brands International을 모기업으로 두며, 2018년 본사를 오크빌에서 토론토로 이전했다. 대한민국에서는 비케이알이 브랜드를 관리하고 버거킹 앱 계정을 팀홀튼 앱과 연동한다. 2023년 12월 신논현역점으로 대한민국 시장에 진출했으나 가격 정책으로 비판을 받았고, 인천 청라점은 개점 1년 1개월 만인 2025년 5월 31일 폐점했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "커피와 도넛을 중심으로 한 전국적 매장망과 슈거메이플 나뭇잎 표식을 통해 캐나다와의 연관성을 드러내는 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.timhortons.com",
+  "entityLinks": {
+   "wikidata": "Q175106",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q175106",
+    "https://ko.wikipedia.org/wiki/%ED%8C%80%ED%99%80%ED%8A%BC",
+    "https://en.wikipedia.org/wiki/Tim_Hortons"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q175106",
+   "country": "캐나다",
+   "inception": "1964",
+   "headquarters": "오크빌",
+   "founders": [
+    "팀 호턴",
+    "Ron Joyce"
+   ],
+   "parent": "Restaurant Brands International",
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「팀홀튼」 요약과 위키데이터 Q175106 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

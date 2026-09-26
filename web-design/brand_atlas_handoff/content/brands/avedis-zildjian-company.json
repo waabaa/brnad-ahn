@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q202988",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:26+09:00"
+ },
+ "logoCandidate": "logos/avedis-zildjian-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "avedis-zildjian-company",
+  "urlSlug": "avedis-zildjian-company",
+  "name": "아베디스 질전 컴퍼니",
+  "nameKo": "아베디스 질전 컴퍼니",
+  "nameEn": "Avedis Zildjian Company",
+  "definition": "아베디스 질전 컴퍼니(Avedis Zildjian Company)는 심벌즈와 드럼스틱 등 타악기를 전문으로 제조하는 악기 제조기업이다. 질전(Zildjian)이라는 이름으로도 불린다.",
+  "summary": "아베디스 질전 컴퍼니(Avedis Zildjian Company)는 심벌즈와 드럼스틱 등 타악기를 전문으로 제조하는 악기 제조기업이다. 질전(Zildjian)이라는 이름으로도 불린다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "질전은 17세기부터 이어져 온 심벌즈 제조 전통과 세계 최대 심벌·드럼스틱 메이커라는 지위로 다른 악기 브랜드와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아베디스 질전 컴퍼니(Avedis Zildjian Company)는 심벌즈와 드럼스틱 등 타악기를 전문으로 제조하는 기업이다. 질전(Zildjian)이라는 이름으로도 알려져 있다. 17세기 오스만 제국의 아르메니아인 질전가(家)에 의해 설립되었으며, 20세기에 미국으로 이전했다. 본사는 매사추세츠주 노웰에 위치한다. 오늘날 세계 최대의 심벌 및 드럼스틱 메이커로 꼽히며, 세계에서 가장 오래된 악기 제조사이자 가장 오랫동안 운영되어 온 기업들 가운데 하나이다. 수많은 저명한 드러머들이 질전의 제품을 사용해왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "질전은 1623년 아베디스 질전에 의해 콘스탄티노폴리스에서 설립되었다. 17세기 오스만 제국에서 아르메니아인 질전가(家)가 세운 이 기업은 이후 20세기에 미국으로 옮겨갔다. 오늘날 질전은 매사추세츠주 노웰에 위치해 있다. 질전은 세계에서 가장 오래된 악기 제조사이자 세계에서 가장 오랫동안 운영되어 온 기업들 가운데 하나로 꼽힌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "질전은 심벌즈와 드럼스틱을 비롯한 타악기를 전문으로 생산하는 기업이다. 오늘날 세계 최대의 심벌 및 드럼스틱 메이커로 꼽힌다. 세계에서 가장 오래된 악기 제조사로서 오랜 기간 축적된 제조 기술을 바탕으로 심벌즈와 타악기를 만들어온다. 진저 베이커, 아트 블래키, 데이브 그롤, 엘빈 존스, 토미 리, 버디 리치, 맥스 로치, 링고 스타, 라스 울리히, 찰리 와츠, 닐 피어트 등 다수의 저명한 드러머들이 질전의 제품을 연주에 사용해왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "질전은 17세기 오스만 제국에서 출발해 20세기에 미국으로 이전한 뒤, 현재는 매사추세츠주 노웰에 본사를 두고 있다. 오늘날 세계 최대의 심벌 및 드럼스틱 메이커로 자리잡고 있다. 또한 세계에서 가장 오래된 악기 제조사이자 가장 오랫동안 운영되어 온 기업들 가운데 하나로 꼽힌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "질전은 17세기부터 이어져 온 심벌즈 제조 전통과 세계 최대 심벌·드럼스틱 메이커라는 지위로 다른 악기 브랜드와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://zildjian.com/",
+  "entityLinks": {
+   "wikidata": "Q202988",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q202988",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B2%A0%EB%94%94%EC%8A%A4_%EC%A7%88%EC%A0%84_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Zildjian"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q202988",
+   "country": null,
+   "inception": "1623",
+   "headquarters": "Norwell",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「아베디스 질전 컴퍼니」 요약과 위키데이터 Q202988 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

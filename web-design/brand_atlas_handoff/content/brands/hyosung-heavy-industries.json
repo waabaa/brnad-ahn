@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q109454371",
+ "demand": {
+  "why": "국내",
+  "naver": 2.985,
+  "koViews": 1787,
+  "enViews": 1637,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hyosung-heavy-industries",
+  "urlSlug": "hyosung-heavy-industries",
+  "name": "효성중공업",
+  "nameKo": "효성중공업",
+  "nameEn": "Hyosung Heavy Industries",
+  "definition": "효성중공업(Hyosung Heavy Industries)은 대한민국의 중공업 기업으로, 전력 기자재 제조와 건설을 중심으로 에너지·디지털 솔루션 사업을 전개한다.",
+  "summary": "효성중공업(Hyosung Heavy Industries)은 대한민국의 중공업 기업으로, 전력 기자재 제조와 건설을 중심으로 에너지·디지털 솔루션 사업을 전개한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "초고압 전력설비의 개발·생산 역량과 전력망 안정화, 수소·신재생 에너지, 디지털 관리 기술을 함께 전개하는 중공업 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "효성중공업은 변압기, 컨버터, 제어기 등 전력 기자재를 제조하고 전력설비의 설계·제작·설치·시험·유지보수 서비스를 제공한다. 송배전 부문에서 국내 누적 시장점유율 1위를 기록하며, 국내 전동기 생산에서도 1위 기업으로 소개된다. 사업 영역은 전력·기전 솔루션뿐 아니라 친환경 전력설비, 전력망 안정화, 수소 에너지, 신재생 에너지와 디지털 솔루션을 포함한다. 발전 시스템과 산업기계, 기어 솔루션도 생산하며 해외 원자력발전소를 포함한 국외 시장에도 수출한다. 건설 부문에서는 진흥기업을 통해 건축·SOC·주택사업을 수행한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "한영공업주식회사는 1962년 설립됐으며, 1969년 국내 최초로 154kV 초고압변압기를 제작했다. 효성중공업은 1975년 한영공업을 인수했고, 한영공업은 1977년 효성중공업으로 상호를 변경했다. 이후 345kV급 초대형 변압기, 원자력발전소용 345kV 초고압 3상 변압기, 765kV 초고압 변압기와 UHV급 가스절연개폐장치 등을 국내 최초로 개발했다. 1988년 국내 최초로 일본에 GIS를 수출했으며, 2005년 중국에 750kV급 GIS를 처음 수출했다. 효성중공업은 2018년 분사했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전력설비 제품은 초고압변압기, 배전변압기, 분로리액터, 초고압차단기, 배전반과 모바일변전소로 구성한다. 전력시스템은 STATCOM, DC송배전시스템, ESS, 마이크로그리드와 태양광 솔루션을 포함하며, 전력설비 자산관리와 예방진단시스템도 제공한다. 기전 부문은 저압·고압 전동기, DC 전동기, 특수전동기, 상용발전기와 선박용·스팀터빈용·수차터빈용 발전 시스템을 생산한다. 산업기계와 기어 부문은 화학장치, 가스충전소, 기어박스와 기어드모터를 다룬다. 건설 부문은 '효성 해링턴 플레이스' 브랜드로 주거용 건물을 건설한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "효성중공업은 2024년 200MW급 초고압직류송전 변압기 개발과 세계 최초 100% 수소엔진발전기 상용화에 성공했다. 2025년에는 창원·인도 차단기 공장을 증설했으며, 2026년 초고압변압기 누적 생산 10조원을 돌파했다. 2026년 검찰은 한국전력공사가 발주한 6,700억원 규모 가스절연개폐장치 입찰 담합 혐의로 효성중공업 상무에 대한 사전구속영장을 청구했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "초고압 전력설비의 개발·생산 역량과 전력망 안정화, 수소·신재생 에너지, 디지털 관리 기술을 함께 전개하는 중공업 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q109454371",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q109454371",
+    "https://ko.wikipedia.org/wiki/%ED%9A%A8%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/Hyosung_Heavy_Industries"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q109454371",
+   "country": "대한민국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「효성중공업」 요약과 위키데이터 Q109454371 팩트를 근거로 편집"
+ }
+}

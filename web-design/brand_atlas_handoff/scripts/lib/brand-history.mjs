@@ -2,7 +2,8 @@
 //
 // 원본은 content/brand-history/brand-history.html(편집자가 만든 단일 HTML 연대기) 그대로다. 그 안의
 // LANES·ERAS·RAW 배열을 빌드 시점에 읽는다 — 원본을 새 판으로 바꿔 넣으면 다음 빌드에 그대로 반영된다.
-// 사전 연결은 content/brand-history/links.json("연도|제목" → 브랜드 slug)에서만 온다. 이름이 비슷하다고
+// 사전 연결은 content/brand-history/links.json("연도|제목" → 브랜드 slug 또는 "wd:QID")에서만 온다. "wd:QID"는 아직 수록되지 않은
+// 브랜드를 미리 적어 두는 형식이다 — 그 개체로 만든 레코드(entityLinks.wikidata)가 생기면 다음 빌드부터 연결되고, 없으면 연결하지 않는다. 이름이 비슷하다고
 // 자동으로 잇지 않는다(1887 야마하 ≠ 야마하 발동기 — CLAUDE.md §2의 정확도 우선 원칙).
 import fs from "node:fs";
 import path from "node:path";
@@ -22,6 +23,15 @@ export const entryKey = (e) => `${e.y}|${e.t}`;
 /** 연도 표기 — 원본 규칙과 같다(라벨이 있으면 라벨, 기원전은 "BC n"). */
 export const yearLabel = (e) => e.lab || (e.y < 0 ? `BC ${-e.y}` : String(e.y));
 
+// "wd:Q…" → 그 QID로 확정된 레코드의 slug. 데이터는 wd: 값이 있을 때만 읽는다.
+function qidResolver(root, links) {
+  if (!Object.values(links).some((v) => String(v).startsWith("wd:"))) return () => null;
+  const data = JSON.parse(fs.readFileSync(path.join(root, "data/brand-atlas.json"), "utf8"));
+  const byQid = new Map();
+  for (const b of data.allBrands) { const q = b.entityLinks && b.entityLinks.wikidata; if (q && b.slug && !byQid.has(q)) byQid.set(q, b.slug); }
+  return (qid) => byQid.get(qid) || null;
+}
+
 export function loadHistory(root) {
   const dir = path.join(root, HISTORY_DIR);
   const src = fs.readFileSync(path.join(dir, "brand-history.html"), "utf8");
@@ -30,10 +40,12 @@ export function loadHistory(root) {
   const raw = arrayLiteral(src, "RAW");
   const links = JSON.parse(fs.readFileSync(path.join(dir, "links.json"), "utf8"));
   const laneKeys = new Set(lanes.map((l) => l.key));
+  const resolveQid = qidResolver(root, links);
   const entries = raw.map((r, i) => {
     const e = { i, y: r[0], l: r[1], t: r[2], d: r[3] || "", c: r[4] || "", lab: r[5] || "" };
     if (!laneKeys.has(e.l)) throw new Error(`brand-history: 알 수 없는 분야 ${e.l} (${e.t})`);
-    e.slug = links[entryKey(e)] || null;
+    const v = links[entryKey(e)] || null;
+    e.slug = v && v.startsWith("wd:") ? resolveQid(v.slice(3)) : v;
     return e;
   });
   const keys = new Set(entries.map(entryKey));

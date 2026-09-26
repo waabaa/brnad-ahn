@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q489325",
+ "demand": {
+  "why": "국내",
+  "naver": 1.184,
+  "koViews": 2334,
+  "enViews": 619,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/korea-expressway-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "korea-expressway-corporation",
+  "urlSlug": "korea-expressway-corporation",
+  "name": "한국도로공사",
+  "nameKo": "한국도로공사",
+  "nameEn": "Korea Expressway Corporation",
+  "definition": "한국도로공사(Korea Expressway Corporation)는 대한민국의 고속도로를 설치·관리하고 관련 사업을 통해 도로 정비와 도로교통 발달을 담당하는 준시장형 공기업이다.",
+  "summary": "한국도로공사(Korea Expressway Corporation)는 대한민국의 고속도로를 설치·관리하고 관련 사업을 통해 도로 정비와 도로교통 발달을 담당하는 준시장형 공기업이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "고속도로의 건설과 유지 관리부터 통행료·교통정보·휴게시설 운영, 도로 연구개발까지 하나의 공공 조직에서 수행한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "한국도로공사는 대한민국의 고속도로 건설과 운영을 중심으로 도로교통 기반을 관리하는 준시장형 공기업이다. 고속도로의 신설·확장과 유지 관리, 통행료 징수 및 영업 시스템 운영을 담당한다. 2024년 12월 기준 35개 노선과 총연장 4,238km 구간을 관리한다. 휴게·편의 시설 설치와 운영, 고속도로 인접 지역 개발, 도로 관련 연구개발과 교통정보 관리도 수행한다. 본사는 경상북도 김천시에 있으며 모기업은 대한민국 국토교통부이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1969년 1월 한국도로공사법과 그 시행령이 공포된 뒤 같은 해 2월 15일 공사를 설립했다. 창립 당시 자본금은 500억원, 직원은 285명이었으며 대연각 임시사옥에서 업무를 개시하고 경인고속도로와 경부고속도로 일부 구간을 인수해 관리했다. 1994년 통행료 징수 기계화를 전면 시행하고 1999년 하이패스 시범 사업을 추진한 뒤 2000년 일부 영업소에서 운영을 개시했다. 2014년 11월 본사 사옥을 경상북도 김천시 김천혁신도시로 이전했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 고속도로 신설·확장과 기존 도로·구조물·시설의 유지 관리이며, 설계와 품질·환경 관리도 함께 추진한다. 고속도로 이용자를 위한 휴게·편의 시설을 설치하고 관리하며 통행료 정산과 영업 시스템, 교통센터와 국가ITS센터를 운영한다. 고속도로 인접 지역 개발과 해외사업, 도로교통 연구개발, 스마트하이웨이와 초장대교량 관련 사업도 수행한다. 하이패스는 1999년 시범 사업을 거쳐 2007년 전국 영업소에 구축됐으며, 2017년 한국도로공사 하이패스 카드 출시와 함께 카드 직영 운영을 재개했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 12월 현재 35개 고속도로 노선의 총연장 4,238km 구간을 관리한다. 같은 달 수도권제2순환선 파주-양주 구간 19.6km와 함양울산선 창녕-밀양 구간 28.5km를 개통했다. 대한민국 국토교통부 산하 공기업으로서 경상북도 김천시 본사와 지역본부, 도로교통연구원, 교통정보센터 및 여러 건설사업단을 운영하는 조직이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "고속도로의 건설과 유지 관리부터 통행료·교통정보·휴게시설 운영, 도로 연구개발까지 하나의 공공 조직에서 수행한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ex.co.kr/jsp/eng/index.jsp",
+  "entityLinks": {
+   "wikidata": "Q489325",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489325",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EB%8F%84%EB%A1%9C%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Korea_Expressway_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q489325",
+   "country": "대한민국",
+   "inception": "1969",
+   "headquarters": "경상북도",
+   "founders": [],
+   "parent": "대한민국 국토교통부",
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「한국도로공사」 요약과 위키데이터 Q489325 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

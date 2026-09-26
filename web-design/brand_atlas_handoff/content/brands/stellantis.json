@@ -9,7 +9,7 @@
   "gsc": 0
  },
  "logoCandidate": "logos/stellantis-wd.png",
- "logoReview": "pending",
+ "logoReview": "approved",
  "record": {
   "id": 0,
   "slug": "stellantis",
@@ -75,5 +75,6 @@
    "fetchedAt": "2026-09-14"
   },
   "sourceNote": "한국어 위키백과 「스텔란티스」 요약과 위키데이터 Q97439162 팩트를 근거로 편집"
- }
+ },
+ "reviewedAt": "2026-09-14T10:31:42+09:00"
 }

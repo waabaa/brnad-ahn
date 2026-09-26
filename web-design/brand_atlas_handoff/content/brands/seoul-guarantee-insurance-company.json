@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q1268497",
+ "demand": {
+  "why": "국내",
+  "naver": 1.572,
+  "koViews": 1858,
+  "enViews": 428,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "seoul-guarantee-insurance-company",
+  "urlSlug": "seoul-guarantee-insurance-company",
+  "name": "서울보증보험",
+  "nameKo": "서울보증보험",
+  "nameEn": "Seoul Guarantee Insurance Company",
+  "definition": "서울보증보험(Seoul Guarantee Insurance Company)은 대한민국에서 거래상 신용위험을 보험 형태로 인수하는 종합보증기관이다. 채무자의 신용을 보완하고 채권자에게 채권담보 기능을 제공한다.",
+  "summary": "서울보증보험(Seoul Guarantee Insurance Company)은 대한민국에서 거래상 신용위험을 보험 형태로 인수하는 종합보증기관이다. 채무자의 신용을 보완하고 채권자에게 채권담보 기능을 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "보험 방식으로 보증 기능을 인수해 개인과 기업의 신용을 보완하고, 전통적인 인적·물적 담보를 대신하도록 설계된 점이 핵심이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 계약상 채무불이행이나 법령상 의무불이행으로 발생한 손해를 약정에 따라 보상하는 보증보험을 운영한다. 채무자에게 신용을 제공해 각종 보증금, 연대보증인, 부동산 담보 등 인적·물적 담보를 대신할 수 있도록 한다. 2019년 말 기준 은행과 공제조합 등 70여 개 기관이 참여하는 국내 보증시장에서 340조원이 넘는 보증잔액을 유지했다. 같은 해 ICISA 발표에서는 보험료 기준 세계 보증보험 및 신용보험사 가운데 글로벌 Top 3위를 기록했다. 본사는 서울특별시에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키데이터에는 1969년 설립으로 기록되어 있으며, 전신인 대한보증보험은 1971년 3월, 한국보증보험은 1989년 11월 설립됐다. 두 회사는 1998년 11월 25일 합병해 현재의 회사로 출범했다. IMF사태 당시 회사채 보증에 따른 대규모 보험금 지급 등으로 공적자금이 투입됐다. 이후 2003년 수입보험료 8천억원, 2007년 1조원을 돌파했다. 베트남 하노이지점과 중국 베이징, UAE 중동, 미국 뉴욕의 해외대표사무소를 마련하며 해외 거점을 확대했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "보험업법 제4조를 근거로 신원보증, 채무이행보증, 신용보험, 모기지신용보험 등 총 82개의 보증보험 및 신용보험 상품을 판매한다. 이들 상품은 경제활동에서 발생하는 채권·채무 및 권리·의무 관계에서 채무자의 부족한 신용을 보완한다. 채권자에게는 채무불이행으로 인한 손해를 약정에 따라 보상하는 채권담보 기능을 제공한다. 자회사로 SGI신용정보를 두고 있으며, SK C&C와 개발한 보험통합전산시스템 ISIS를 2007년 12월부터 사용한다. 2010년 10월에는 자체 ERM시스템을 개발해 구축했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "예금보험공사가 93.85%의 지분을 보유한 대주주이며, 주주는 예금보험공사와 12개 손해보험사 및 생명보험사 등 총 13개 기관으로 구성된다. 2025년 코스피에 상장했다. 2025년 1월 현재 신용등급은 S&P A+, Fitch AA-, 한국기업평가 AAA이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "보험 방식으로 보증 기능을 인수해 개인과 기업의 신용을 보완하고, 전통적인 인적·물적 담보를 대신하도록 설계된 점이 핵심이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.sgic.co.kr/",
+  "entityLinks": {
+   "wikidata": "Q1268497",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1268497",
+    "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EB%B3%B4%EC%A6%9D%EB%B3%B4%ED%97%98",
+    "https://en.wikipedia.org/wiki/Seoul_Guarantee_Insurance"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1268497",
+   "country": "대한민국",
+   "inception": "1969",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「서울보증보험」 요약과 위키데이터 Q1268497 팩트를 근거로 편집"
+ }
+}

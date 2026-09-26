@@ -9,7 +9,7 @@
   "gsc": 0
  },
  "logoCandidate": "logos/lg-innotek-wd.png",
- "logoReview": "pending",
+ "logoReview": "approved",
  "record": {
   "id": 0,
   "slug": "lg-innotek",
@@ -72,5 +72,6 @@
    "fetchedAt": "2026-09-14"
   },
   "sourceNote": "한국어 위키백과 「LG이노텍」 요약과 위키데이터 Q16219421 팩트를 근거로 편집"
- }
+ },
+ "reviewedAt": "2026-09-14T10:31:45+09:00"
 }

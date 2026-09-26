@@ -9,7 +9,7 @@
   "gsc": 0
  },
  "logoCandidate": "logos/xbox-wd.png",
- "logoReview": "pending",
+ "logoReview": "approved",
  "record": {
   "id": 0,
   "slug": "xbox",
@@ -72,5 +72,6 @@
    "fetchedAt": "2026-09-14"
   },
   "sourceNote": "한국어 위키백과 「엑스박스」 요약과 위키데이터 Q15281614 팩트를 근거로 편집"
- }
+ },
+ "reviewedAt": "2026-09-14T10:31:38+09:00"
 }

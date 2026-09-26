@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q1054692",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:03+09:00"
+ },
+ "logoCandidate": "logos/twinings-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "twinings",
+  "urlSlug": "twinings",
+  "name": "트와이닝스",
+  "nameKo": "트와이닝스",
+  "nameEn": "Twinings",
+  "definition": "트와이닝스(Twinings)는 영국 햄프셔주 앤도버에 본사를 둔 차 판매 브랜드로, 커피와 핫초콜릿, 몰트음료 등도 함께 취급한다.",
+  "summary": "트와이닝스(Twinings)는 영국 햄프셔주 앤도버에 본사를 둔 차 판매 브랜드로, 커피와 핫초콜릿, 몰트음료 등도 함께 취급한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "세계에서 가장 오래도록 계속 사용되고 있는 회사 로고를 보유하고 있으며, 1706년 이래 같은 부지에서 영업을 이어온 런던에서 가장 오래된 임차 사업장이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "트와이닝스는 홍차, 녹차, 허브차와 과일 기반 냉침차를 포함한 다양한 차 종류를 생산하며 커피, 핫초콜릿, 몰트음료도 판매하는 영국의 음료 브랜드이다. 1706년 런던 스트랜드 216번지에 문을 연 이래 같은 부지에서 영업을 이어오고 있으며, 이는 런던에서 가장 오래 유지된 임차 사업장으로 꼽힌다. 1787년에 만들어진 회사 로고는 세계에서 가장 오래도록 계속 사용되고 있는 기업 로고로 알려져 있다. 트와이닝스는 얼그레이 차와 연관이 깊은 브랜드로 알려져 있으며, 왕실 인증장을 보유하고 있다. 현재 어소시에이티드 브리티시 푸즈 산하에서 운영되고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "트와이닝스는 잉글랜드 글로스터셔주 페인스윅 출신의 Thomas Twining이 창립했다. 그는 1706년 런던 스트랜드 216번지에 영국 최초로 알려진 티룸을 열었으며, 이 자리는 오늘날까지도 영업을 이어오고 있다. 1787년에는 지금까지 계속 사용되고 있는 회사 로고가 만들어졌다. 1964년 트와이닝스는 어소시에이티드 브리티시 푸즈에 인수되었으며, 1990년대에는 경쟁사인 Jacksons of Piccadilly를 인수하기도 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "트와이닝스는 홍차, 녹차, 허브차와 과일 기반 냉침차 등 다양한 차 제품을 판매한다. 오랫동안 얼그레이 차와 연관된 브랜드로 알려져 있으며, 경쟁사였다가 인수한 Jacksons of Piccadilly 역시 베르가못 블렌드와 관련이 있다. 1700년대부터 판매해 온 랍상소우총 블렌드는 윈스턴 처칠이 즐겨 마신 차로 알려졌으나, 원료 수급 어려움과 시장 가격 상승을 이유로 2023년 생산이 중단되고 '디스팅티블리 스모키'라는 제품으로 대체되었다. 이 밖에 커피, 핫초콜릿, 몰트음료도 함께 취급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "트와이닝스는 현재 어소시에이티드 브리티시 푸즈의 소유로 운영되고 있다. 2008년에는 벨파스트의 남바리 공장을 폐쇄한다고 발표했으며, 2011년 말에는 '효율화'를 이유로 생산 대부분을 중국과 폴란드로 이전하면서 앤도버 공장은 인력을 축소해 유지했다. 회사는 Sourced with Care라는 윤리적 차 프로그램을 운영하며 윤리적 차 파트너십의 창립 회원이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계에서 가장 오래도록 계속 사용되고 있는 회사 로고를 보유하고 있으며, 1706년 이래 같은 부지에서 영업을 이어온 런던에서 가장 오래된 임차 사업장이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.twinings.com",
+  "entityLinks": {
+   "wikidata": "Q1054692",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1054692",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EC%99%80%EC%9D%B4%EB%8B%9D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Twinings"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1054692",
+   "country": "영국",
+   "inception": "1706",
+   "headquarters": "앤도버 (햄프셔 주)",
+   "founders": [
+    "Thomas Twining"
+   ],
+   "parent": "어소시에이티드 브리티시 푸즈",
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "영문 위키백과 「Twinings」 본문과 위키데이터 Q1054692 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

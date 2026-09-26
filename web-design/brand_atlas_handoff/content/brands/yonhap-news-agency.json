@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q333206",
+ "demand": {
+  "why": "국내",
+  "naver": 1.548,
+  "koViews": 89759,
+  "enViews": 14796,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/yonhap-news-agency-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "yonhap-news-agency",
+  "urlSlug": "yonhap-news-agency",
+  "name": "연합뉴스",
+  "nameKo": "연합뉴스",
+  "nameEn": "Yonhap News Agency",
+  "definition": "연합뉴스(Yonhap News Agency)는 방송·신문·정부·포털 사이트와 예약 구독자에게 기사와 사진 등 정보를 공급하는 대한민국의 국가기간 뉴스통신사이다.",
+  "summary": "연합뉴스(Yonhap News Agency)는 방송·신문·정부·포털 사이트와 예약 구독자에게 기사와 사진 등 정보를 공급하는 대한민국의 국가기간 뉴스통신사이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "국내외 취재망으로 생산한 뉴스를 여러 매체와 기관에 공급하며, 법률에 따라 국가기간뉴스통신사로 지정된 점이 핵심 구분점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "대한민국 안팎의 취재망을 통해 정치, 경제, 사회, 문화, 연예, 스포츠, 과학, 지방과 외신 분야의 뉴스를 제작한다. 생산한 기사와 사진은 신문사, 방송사, 행정부, 주요 기관과 기업체, 인터넷 매체, 국외 계약 매체에 공급한다. 국내외 뉴스 제공량은 하루 3천여 건이다. 전 세계 30여 개 주요 지역에 특파원과 통신원 60여 명을 파견하고, 국내에는 전문 취재 기자 580여 명을 둔다. AP, 로이터, AFP, DPA, 신화통신, 교도통신 등 세계 80여 개 통신사와 뉴스 교류 협정을 체결한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1945년 합동통신이 발족했고 1952년 동양통신이 발족했다. 1980년 12월 19일 두 통신사가 통합하고 시사통신을 비롯한 군소 통신사를 흡수해 주식회사 연합통신으로 출범했다. 1981년 1월 4일 창간호를 발행하며 뉴스 공급을 시작했고, 1991년에는 방송 뉴스 서비스를 시작했다. 1998년 12월 19일 사명을 주식회사 연합뉴스로 변경했고 1999년 내외통신을 흡수 합병했다. 2003년 「뉴스통신 진흥에 관한 법률」에 따라 국가기간뉴스통신사로 지정됐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 서비스는 국내외 취재망에서 생산한 뉴스 기사와 사진, 기타 정보를 언론사와 기관, 기업 및 구독 매체에 공급하는 사업이다. 영어, 중국어, 프랑스어, 스페인어, 아랍어, 일본어, 베트남어 등 7개 외국어로 뉴스를 서비스한다. 조선중앙통신과 기사·사진 수신 계약을 맺고 조선민주주의인민공화국 소식을 공급하며, 관련 매체의 국내 독점 배포권자 역할도 담당한다. 연합뉴스TV는 보도 전문 채널을 운영하고, 연합인포맥스는 금융 뉴스와 실시간 금융 정보 및 분석 프로그램을 제공한다. 북한포털, 재난포털, 헬로아카이브, BIZ, 연합뉴스 게임즈 등의 서비스도 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사 소재지는 종로구이다. 주요 주주에는 뉴스통신진흥회 30.77%, KBS 27.77%, MBC 22.30%, 그 외 주주 19.16%가 해당한다. 자회사에는 보도 전문 채널을 운영하는 연합뉴스TV와 금융 정보를 제공하는 연합인포맥스가 해당한다. 2025년 2월 22일 헬로아카이브를 비롯한 계열 서비스에 통합회원제도를 시행했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국내외 취재망으로 생산한 뉴스를 여러 매체와 기관에 공급하며, 법률에 따라 국가기간뉴스통신사로 지정된 점이 핵심 구분점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.yonhapnews.co.kr/",
+  "entityLinks": {
+   "wikidata": "Q333206",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q333206",
+    "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Yonhap_News_Agency"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q333206",
+   "country": "대한민국",
+   "inception": "1980",
+   "headquarters": "종로구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「연합뉴스」 요약과 위키데이터 Q333206 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

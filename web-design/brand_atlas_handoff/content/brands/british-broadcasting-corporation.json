@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q9531",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:37:49+09:00"
+ },
+ "logoCandidate": "logos/british-broadcasting-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "british-broadcasting-corporation",
+  "urlSlug": "british-broadcasting-corporation",
+  "name": "BBC",
+  "nameKo": "BBC",
+  "nameEn": "British Broadcasting Corporation",
+  "definition": "BBC(British Broadcasting Corporation)는 영국 런던에 본사를 둔 공영 방송사이다. 텔레비전, 라디오, 인터넷을 통해 시사 프로그램을 전 세계에 방영한다.",
+  "summary": "BBC(British Broadcasting Corporation)는 영국 런던에 본사를 둔 공영 방송사이다. 텔레비전, 라디오, 인터넷을 통해 시사 프로그램을 전 세계에 방영한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 5,
+  "image": "",
+  "logo": "",
+  "insight": "BBC는 상업 광고 없이 수신료만으로 운영되는 공영방송이라는 점, 그리고 언론의 공정성과 중립성에서 높은 평가를 받는다는 점에서 다른 방송사와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "BBC는 영국의 공영 방송사로 BBC1, BBC2, BBC3, BBC4, CBBC, Ceebeebies, BBC News, BBC Parliament, BBC World 등 다수의 채널을 운영한다. 주력 방영 서비스인 BBC One과 BBC Two, BBC 라디오 1부터 5 라이브까지는 아날로그 주파수로 송신하며 나머지 채널은 디지털로 송신한다. BBC Parliament는 영국의 유일한 정치 전문 채널이다. 과학, 역사, 사회, 물리, 지구과학, 고생물학 등을 주제로 한 다큐멘터리로도 유명하며 정확한 정보와 다양한 장르로 많은 시청자의 인기를 누리고 있다. 영국에 2만 6천여 명의 직원을 고용하고 있으며 1년 예산은 약 40억 파운드가 넘는다. 언론의 공정성과 중립성 면에서 매우 높은 평가를 받고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "BBC는 1922년 영국 방송 유한 회사(British Broadcasting Company Ltd)로 출발했다. 창업자는 John Reith, 1st Baron Reith와 George Villiers, 6th Earl of Clarendon이다. 1922년 11월 런던(2LO)을 시작으로 버밍엄(5IT), 맨체스터(2ZY)에서 차례로 방송을 개시했다. 이후 왕실 면허(Royal Charter)를 받아 1927년 국영 기업이자 독립 회사인 영국 방송 공사(British Broadcasting Corporation)로 조직을 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "BBC는 BBC1, BBC2, BBC3, BBC4, CBBC, Ceebeebies, BBC News, BBC Parliament, BBC World 등의 채널로 텔레비전과 라디오, 인터넷 서비스를 제공한다. BBC 라디오 1, 2, 3, 4와 5 라이브를 운영하며 BBC Parliament를 통해 정치 전문 방송도 송출한다. 과학, 역사, 사회, 물리, 지구과학, 고생물학을 주제로 한 다큐멘터리 제작으로도 잘 알려져 있다. 국내 방송에는 상업 광고가 없으며 수신료와 프로그램 판매를 통해 수익을 얻는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "BBC의 모기업은 영국 문화 미디어 스포츠부이며, 왕실 면허에 근거해 공영 방송으로 운영되고 있다. 영국 국내 방송에는 상업 광고가 없고 수신료로 재원을 조달하며, 수신료는 텔레비전·라디오·온라인 스트리밍 등 서비스별로 다르게 부과된다. 2013년 3월에는 텔레비전 센터의 모든 기능을 브로드캐스팅 하우스로 이전하며 폐쇄했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "BBC는 상업 광고 없이 수신료만으로 운영되는 공영방송이라는 점, 그리고 언론의 공정성과 중립성에서 높은 평가를 받는다는 점에서 다른 방송사와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://bbc.com",
+  "entityLinks": {
+   "wikidata": "Q9531",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9531",
+    "https://ko.wikipedia.org/wiki/BBC",
+    "https://en.wikipedia.org/wiki/BBC"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q9531",
+   "country": "영국",
+   "inception": "1922",
+   "headquarters": "런던",
+   "founders": [
+    "John Reith, 1st Baron Reith",
+    "George Villiers, 6th Earl of Clarendon"
+   ],
+   "parent": "영국 문화 미디어 스포츠부",
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「BBC」 요약과 위키데이터 Q9531 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

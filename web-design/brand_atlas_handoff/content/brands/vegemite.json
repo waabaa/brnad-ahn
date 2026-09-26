@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q841470",
+ "demand": {
+  "why": "국외",
+  "naver": 0.01,
+  "koViews": 991,
+  "enViews": 118537,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/vegemite-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vegemite",
+  "urlSlug": "vegemite",
+  "name": "베지마이트",
+  "nameKo": "베지마이트",
+  "nameEn": "Vegemite",
+  "definition": "베지마이트(Vegemite)는 효모 추출물로 만드는 오스트레일리아의 진갈색 스프레드이다. 짭조름하고 약간 쌉싸름하며 빵이나 크래커에 얇게 발라 먹는다.",
+  "summary": "베지마이트(Vegemite)는 효모 추출물로 만드는 오스트레일리아의 진갈색 스프레드이다. 짭조름하고 약간 쌉싸름하며 빵이나 크래커에 얇게 발라 먹는다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "맥주 양조 부산물인 효모를 진한 페이스트로 가공한 독특한 풍미와 오스트레일리아 국민 음식으로 여겨지는 위상이 구분점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베지마이트는 맥주 양조 과정에서 나오는 효모를 가공해 만드는 끈적한 페이스트이며, 오스트레일리아의 국민 음식 가운데 하나이다. 소금과 셀러리, 양파 추출물을 혼합한 짙은 색과 강한 풍미가 특징이다. 출시 초기에는 판매가 부진했고 1928년부터 1935년까지 Parwill이라는 이름을 사용했으나 시장 점유율 확대에 실패했다. 1935년부터 Kraft Walker Cheese Co.의 가공 치즈와 연계한 판촉으로 판매를 촉진했다. 제2차 세계 대전에는 오스트레일리아 군의 전투식량으로 배급했으며, 1940년 후기에는 오스트레일리아 10가구 중 9가구가 이용했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Fred Walker & Co.는 제1차 세계 대전 이후 Marmite의 영국 수입이 중단되자 1919년 Callister에게 버려지는 맥주 효모로 스프레드를 만들도록 했다. Callister는 효모세포를 자가분해하고 Carlton & United 양조장의 맥주 찌꺼기에서 얻은 추출물을 농축했다. 브랜드의 설립 시점은 1922년이며, 이름은 Fred Walker의 딸 Sheilah가 선택했다. 제품은 1923년 오스트레일리아 시장에 처음 출시했으며 아동 건강에 좋은 제품으로 광고했으나 초기 판매 실적은 부진했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 효모 추출물을 농축해 소금과 셀러리, 양파 추출물을 혼합한 끈적한 검은 스프레드이다. Callister가 개발한 원 제조법을 변형하지 않고 생산하며, 짭조름하고 약간 쌉싸름한 맛을 낸다. 주로 빵이나 크래커 위에 적은 양을 얇게 펴 발라 먹는 방식으로 소비한다. 115G(4.1 oz) 병 제품은 1984년 4월 오스트레일리아에서 전자 스캔으로 결제된 첫 제품이다. Marmite를 비롯한 유사한 효모 추출물 스프레드와 경쟁하는 상품이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "멜버른 항에 있는 Bega Cheese의 제조 시설에서 해마다 2,200만 병을 생산하며, 이 시설은 이전에 Mondelez의 시설이었다. 2008년 10월에는 10억 번째 병을 제조했으며, 현재 Marmite와 다른 유사 스프레드보다 더 많이 판매한다. 뉴질랜드에서는 50년 이상 제조했으나 2006년 8월부터 생산을 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥주 양조 부산물인 효모를 진한 페이스트로 가공한 독특한 풍미와 오스트레일리아 국민 음식으로 여겨지는 위상이 구분점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.vegemite.com.au/",
+  "entityLinks": {
+   "wikidata": "Q841470",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q841470",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%A7%80%EB%A7%88%EC%9D%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Vegemite"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q841470",
+   "country": null,
+   "inception": "1922",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「베지마이트」 요약과 위키데이터 Q841470 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

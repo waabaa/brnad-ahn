@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q486923",
+ "demand": {
+  "why": "국내",
+  "naver": 1.748,
+  "koViews": 1844,
+  "enViews": 10095,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/hmm-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hmm",
+  "urlSlug": "hmm",
+  "name": "HMM",
+  "nameKo": "HMM",
+  "nameEn": "HMM",
+  "definition": "HMM(HMM)은 대한민국의 해운 업체이자 국내 유일의 컨테이너 선사이다. 컨테이너선과 벌크선을 운항하며 국제 화물 운송을 수행한다.",
+  "summary": "HMM(HMM)은 대한민국의 해운 업체이자 국내 유일의 컨테이너 선사이다. 컨테이너선과 벌크선을 운항하며 국제 화물 운송을 수행한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "국내 유일의 컨테이너 선사로서 컨테이너 정기 운송과 유조선·광탄전용선 등 벌크 화물 운송을 함께 운영하는 점이 구분점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "HMM은 컨테이너선과 유조선, 부정기선, 화물선 등을 운항하는 대한민국 해운 업체이다. 컨테이너 사업은 여러 국가의 항만과 도시를 연결하며, 벌크선 사업은 원유와 석탄, 철광석, 일반화물 등을 수송한다. 2005년에는 TNWA와 Grand Alliance의 제휴에 참여했으며, 2010년에는 국내 업계 최초로 AEO 인증 AA등급을 획득했다. 2021년에는 2050 탄소중립 전략을 발표했다. 2025년에는 프리미어 얼라이언스 출범과 함께 유럽 노선에서 MSC와 선복교환 협력을 개시했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1976년 3월 25일 아세아상선으로 설립했으며, 벌크선 인수와 함께 부정기영업을 개시했다. 1983년 상호를 현대상선으로 변경하고 컨테이너 수송을 시작했으며, 1988년 고려해운을 흡수 합병했다. 1995년 코스피에 상장했고, 1998년에는 금강산 관광선 운항을 시작했다. 2016년 유동성 위기와 대주주 감자 이후 한국산업은행이 최대 주주가 되면서 현대그룹에서 분리했다. 2020년 상호를 현대상선에서 HMM으로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "컨테이너선 부문은 국제 항만과 도시를 연결해 컨테이너 화물을 수송하는 사업이다. 벌크선 부문은 유조선, LNG선, 부정기선, 화물선 등으로 구성한다. 유조선 사업은 원유와 석유제품을 운송하며, LNG선 사업은 1994년 대한민국 최초의 LNG선 취항을 계기로 전개했다. 광탄전용선은 한국전력공사와 포스코의 장기계약을 통해 석탄과 철광석을 수송하며, 일반화물선은 장단기 용선을 활용해 합판과 펄프 등을 수송한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년부터 한국산업은행이 최대 주주이며 채권단 관리체제를 유지한다. 산업은행과 한국해양진흥공사는 2023년 하림그룹을 매각 우선협상대상자로 선정했지만, 2024년 협상이 결렬되면서 매각을 취소했다. 2025년에는 발행주식총수의 7.98%를 공개매수로 취득해 소각하겠다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국내 유일의 컨테이너 선사로서 컨테이너 정기 운송과 유조선·광탄전용선 등 벌크 화물 운송을 함께 운영하는 점이 구분점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.hmm21.com/",
+  "entityLinks": {
+   "wikidata": "Q486923",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q486923",
+    "https://ko.wikipedia.org/wiki/HMM_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/HMM_(company)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q486923",
+   "country": "대한민국",
+   "inception": "1976",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「HMM (기업)」 요약과 위키데이터 Q486923 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

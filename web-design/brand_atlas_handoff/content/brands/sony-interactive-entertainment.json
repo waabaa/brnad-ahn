@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q18594",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 259,
+  "enViews": 105235,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/sony-interactive-entertainment-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sony-interactive-entertainment",
+  "urlSlug": "sony-interactive-entertainment",
+  "name": "소니 인터랙티브 엔터테인먼트",
+  "nameKo": "소니 인터랙티브 엔터테인먼트",
+  "nameEn": "Sony Interactive Entertainment",
+  "definition": "소니 인터랙티브 엔터테인먼트(Sony Interactive Entertainment)는 가정용 게임기와 게임 소프트웨어를 개발하고 판매하는 소니그룹의 자회사이다. 플레이스테이션 사업을 전개하는 게임 개발사이다.",
+  "summary": "소니 인터랙티브 엔터테인먼트(Sony Interactive Entertainment)는 가정용 게임기와 게임 소프트웨어를 개발하고 판매하는 소니그룹의 자회사이다. 플레이스테이션 사업을 전개하는 게임 개발사이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.366666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "여러 세대에 걸친 플레이스테이션 가정용 게임기와 휴대용 게임기, 관련 소프트웨어를 함께 개발하고 판매한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "가정용 게임기와 휴대용 게임기, 관련 게임 소프트웨어를 개발하고 판매한다. 1994년 플레이스테이션을 발매한 뒤 게임 시장에서 선두 위치에 올랐으며, 플레이스테이션 2 시기에도 경쟁사 제품이 등장한 가운데 우위를 유지했다. 이후 닌텐도 DS와 Wii가 등장하면서 약 10년간 지켰던 정상의 자리를 닌텐도에 내줬다. 플레이스테이션 포터블과 플레이스테이션 3을 비롯해 여러 세대의 가정용 및 휴대용 기기를 출시했다. 2016년 조직 합병 이후 미국 사업에 집중하고 일본 시장과 일본 내 개발조직의 비중을 낮추는 방향으로 운영하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1993년 11월 16일 쿠타라기 켄을 창업자로 도쿄도 미나토구에서 Sony Computer Entertainment가 창립됐다. 창립에는 소니의 기술자와 소니 뮤직 엔터테인먼트의 직원이 참여했다. 1994년 가정용 게임기 플레이스테이션을 발매해 게임 시장에서 선두 위치에 올랐고, 2000년 출시한 플레이스테이션 2를 통해 우위를 이어갔다. 2004년 플레이스테이션 포터블, 2006년 플레이스테이션 3를 발매하며 휴대용과 가정용 기기 사업을 전개했다. 2016년 4월 Sony Computer Entertainment와 Sony Entertainment Network가 합병해 현재의 회사가 출범했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "가정용 게임기 제품군에는 플레이스테이션, 플레이스테이션 2, PSone, 플레이스테이션 3, 플레이스테이션 4, 플레이스테이션 4 프로, 플레이스테이션 5가 포함된다. 휴대용 게임기 제품군으로는 포켓스테이션, 플레이스테이션 포터블, PSP Go, 플레이스테이션 비타를 출시했다. 가정용과 휴대용 하드웨어뿐 아니라 게임 소프트웨어도 개발하고 판매한다. 플레이스테이션 3는 2006년 일본과 북미에 출시됐으며 대한민국에는 2007년 6월 16일 발매됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 소니그룹의 자회사로서 가정용 게임기와 게임 소프트웨어의 개발 및 판매 사업을 운영한다. 2016년 합병으로 출범한 뒤 미국 사업에 집중하는 방향을 보였으며 일본 시장의 중요도를 낮췄다. 이 과정에서 일본 내 개발조직인 재팬 스튜디오를 대폭 구조조정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여러 세대에 걸친 플레이스테이션 가정용 게임기와 휴대용 게임기, 관련 소프트웨어를 함께 개발하고 판매한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sie.com",
+  "entityLinks": {
+   "wikidata": "Q18594",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18594",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%8B%88_%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18594",
+   "country": "일본",
+   "inception": "1993",
+   "headquarters": "도쿄도",
+   "founders": [
+    "쿠타라기 켄"
+   ],
+   "parent": "소니그룹",
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「소니 인터랙티브 엔터테인먼트」 요약과 위키데이터 Q18594 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

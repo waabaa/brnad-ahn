@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q123592234",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:21+09:00"
+ },
+ "logoCandidate": "logos/stability-ai-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "stability-ai",
+  "urlSlug": "stability-ai",
+  "name": "스태빌리티 AI",
+  "nameKo": "스태빌리티 AI",
+  "nameEn": "Stability AI",
+  "definition": "스태빌리티 AI(Stability AI)는 영국 런던에 본사를 둔 인공지능 기업으로, 텍스트-이미지 생성 모델 스테이블 디퓨전으로 가장 잘 알려져 있다.",
+  "summary": "스태빌리티 AI(Stability AI)는 영국 런던에 본사를 둔 인공지능 기업으로, 텍스트-이미지 생성 모델 스테이블 디퓨전으로 가장 잘 알려져 있다.",
+  "industry": "AI·인공지능",
+  "domainSlug": "ai",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "소스 코드와 가중치를 공개하는 방식으로 스테이블 디퓨전을 출시해 생성형 AI 이미지 모델을 대중에게 개방한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스태빌리티 AI는 텍스트로부터 이미지를 생성하는 스테이블 디퓨전을 개발한 인공지능 기업이다. 스테이블 디퓨전 외에도 비디오, 오디오, 3D, 텍스트 모델을 개발하며, ARM 아키텍처와 협력해 텍스트-오디오 모델 Stable Audio Open을 모바일 장치에 최적화하기도 했다. 회사는 2024년 3월 에마드 모스타크가 CEO직에서 사임한 뒤 산 산 웡과 크리스티안 라포르테가 임시 공동 CEO를 맡았고, 같은 해 6월에는 웨타 디지털 전 CEO 프렘 아카라주가 새 CEO로 임명되었다. 그레이크로프트, 코투 매니지먼트, 라이트스피드 벤처 파트너스 등 여러 투자 그룹으로부터 투자를 유치했으며, 숀 파커가 이사회 상임 회장으로, 제임스 카메론이 이사회 구성원으로 합류했다. 한편 게티 이미지로부터 이미지 무단 사용을 이유로 소송을 제기받는 등 법적 문제도 겹쳐 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스태빌리티 AI는 2019년 에마드 모스타크와 사이러스 호즈가 설립했다. 2022년 8월 소스 코드와 가중치를 공개하는 텍스트-이미지 모델 스테이블 디퓨전을 출시하며 명성을 얻었다. 2024년 3월 23일 에마드 모스타크가 CEO직에서 사임했고, 이사회는 최고운영책임자 산 산 웡과 최고기술책임자 크리스티안 라포르테를 임시 공동 CEO로 임명했다. 2024년 6월 25일에는 시각효과 기업 웨타 디지털의 전 CEO였던 프렘 아카라주가 새 CEO로 임명되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스태빌리티 AI는 텍스트 설명으로부터 이미지를 생성하는 텍스트-이미지 모델 스테이블 디퓨전을 통해 생성형 AI 분야에 기여했다. 스테이블 디퓨전은 소스 코드와 가중치를 공개하는 방식으로 출시되었다. 스테이블 디퓨전 외에도 스태빌리티 AI는 비디오, 오디오, 3D, 텍스트 모델을 개발한다. 또한 ARM 아키텍처와 협력하여 텍스트-오디오 모델인 Stable Audio Open을 Arm CPU로 구동되는 모바일 장치에 최적화했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 6월 프렘 아카라주가 CEO로 임명되며 그레이크로프트, 코투 매니지먼트, 사운드 벤처스, 라이트스피드 벤처 파트너스, 오쇼너시 벤처스 등으로부터 투자 라운드를 완료했다고 발표했다. 같은 시기 숀 파커가 이사회 상임 회장으로 합류했고, 2024년 9월에는 제임스 카메론이 이사회에 합류했다. 한편 스태빌리티 AI는 공동 설립자 사이러스 호즈로부터 사기 등의 혐의로 소송을 제기받았으며, 게티 이미지로부터도 이미지 무단 사용을 이유로 소송을 제기받는 등 법적 문제에 직면해 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소스 코드와 가중치를 공개하는 방식으로 스테이블 디퓨전을 출시해 생성형 AI 이미지 모델을 대중에게 개방한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.stability.ai",
+  "entityLinks": {
+   "wikidata": "Q123592234",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q123592234",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9C%EB%B9%8C%EB%A6%AC%ED%8B%B0_AI",
+    "https://en.wikipedia.org/wiki/Stability_AI"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q123592234",
+   "country": "영국",
+   "inception": "2019",
+   "headquarters": "런던",
+   "founders": [
+    "Emad Mostaque",
+    "Cyrus Hodes"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「스태빌리티 AI」 요약과 위키데이터 Q123592234 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

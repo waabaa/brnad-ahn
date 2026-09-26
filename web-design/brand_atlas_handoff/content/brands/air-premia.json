@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q106504531",
+ "demand": {
+  "why": "국내",
+  "naver": 1.153,
+  "koViews": 4484,
+  "enViews": 25856,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/air-premia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "air-premia",
+  "urlSlug": "air-premia",
+  "name": "에어프레미아",
+  "nameKo": "에어프레미아",
+  "nameEn": "Air Premia",
+  "definition": "에어프레미아(Air Premia)는 인천국제공항을 허브로 삼아 중장거리 국제선을 운항하는 대한민국의 하이브리드 항공사이다. 국내 최초의 Hybrid Service Carrier로 알려져 있다.",
+  "summary": "에어프레미아(Air Premia)는 인천국제공항을 허브로 삼아 중장거리 국제선을 운항하는 대한민국의 하이브리드 항공사이다. 국내 최초의 Hybrid Service Carrier로 알려져 있다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Boeing 787-9 단일 기종으로 중장거리 국제선을 운항하며, 항공기 창문 모양을 본뜬 로고를 승무원 유니폼에도 적용한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "대한민국에 기반을 두고 서울에 본사를 두며, 인천국제공항을 허브로 국제선만 운항한다. 중장거리 운항에 초점을 맞추고 도쿄, 방콕, 다낭, 홍콩, 로스앤젤레스, 샌프란시스코, 뉴저지, 하와이 등에 취항했다. 운항 기종은 Boeing 787-9로 단일화했으며 현재 9대를 운용하고 항공기당 좌석은 309석이다. 2021년 12월 싱가포르 노선으로 국제선 운항을 시작했고, 2022년 7월 15일부터 같은 노선의 국제선 여객편을 운항했다. 코로나19 범유행 시기에는 국내선과 무기착 비행을 비정기적으로 실시했으나 현재는 국제선 사업에 집중한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2017년 7월 에이피에어로 설립됐으며 2018년 5월 현재의 사명으로 변경했다. 2018년 국제항공운송사업자 면허를 신청하고 LA 한인상공회의소와 마케팅 협력을 위한 MOU를 체결했다. 2019년 1월 Boeing 787-9 도입을 확정하고 같은 해 3월 5일 국제항공운송사업 면허를 취득했으며, 11월에는 항공기 5대를 구매했다. 2021년 4월 첫 항공기를 도입한 뒤 김포와 제주를 잇는 국내선을 운항했으나 같은 해 10월 국내선 운항을 종료했다. 이후 싱가포르 화물편과 여객편을 시작하며 국제선 중심으로 사업을 전개했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "여객 서비스는 Wide Premium 56석과 Economy 253석으로 구성해 총 309석을 배치한다. 두 클래스에는 한식과 양식 중심의 기내식을 재사용 가능한 오벌 타입 식기에 제공하며, 단거리 노선에서는 Wide Premium에만 기내식을 제공한다. 정규 기내식을 먹기 어려운 승객은 출발 48시간 전까지 유아식과 아동식, 야채식, 당뇨식, 해산물식, 과일식 등을 신청할 수 있다. 개인용 모니터의 터치스크린으로 영화, 영상물, 음악을 이용하는 주문형 엔터테인먼트 프로그램을 제공하며 기내 와이파이는 유료로 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Boeing 787-9 항공기 9대를 단일 기종으로 운용하며, 각 항공기는 총 309석 규모이다. 국내선 운항을 종료한 뒤 국제선만 운항하고 있으며 아시아와 미국의 여러 도시에 취항했다. 2023년에는 뉴어크, 방콕, 프랑크푸르트 여객편을 개설했으나 프랑크푸르트 노선은 같은 해 12월 운항을 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Boeing 787-9 단일 기종으로 중장거리 국제선을 운항하며, 항공기 창문 모양을 본뜬 로고를 승무원 유니폼에도 적용한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://airpremia.com/",
+  "entityLinks": {
+   "wikidata": "Q106504531",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q106504531",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%ED%94%84%EB%A0%88%EB%AF%B8%EC%95%84",
+    "https://en.wikipedia.org/wiki/Air_Premia"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q106504531",
+   "country": "대한민국",
+   "inception": "2017",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「에어프레미아」 요약과 위키데이터 Q106504531 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

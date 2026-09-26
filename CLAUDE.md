@@ -213,7 +213,7 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 
 ```
 content/brand-history/brand-history.html   원본(편집자 단일 HTML). 새 판은 이 파일만 바꿔 넣는다 — 빌더가 LANES·ERAS·RAW 배열을 읽는다
-content/brand-history/links.json           "연도|제목" → 브랜드 slug. 사전 연결은 여기 적힌 것만(이름 유사 자동 연결 금지)
+content/brand-history/links.json           "연도|제목" → 브랜드 slug 또는 "wd:QID"(미수록 브랜드 — 레코드가 생기면 자동 연결). 이름 유사 자동 연결 금지
 scripts/lib/brand-history.mjs              로더·홈 티저·브랜드 페이지 역링크용 맵
 scripts/build-brand-history.mjs            → brand-history/index.html (정적 시맨틱 목록 + JSON-LD) · reports/brand-history.json
 assets/brand-history.{js,css}              격자는 정적 목록(#bh-list li)을 읽어 그린다 — 본문과 화면이 한 원천

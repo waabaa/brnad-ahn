@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q12622086",
+ "demand": {
+  "why": "국내",
+  "naver": 0.725,
+  "koViews": 3254,
+  "enViews": 2084,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/poongsan-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "poongsan",
+  "urlSlug": "poongsan",
+  "name": "풍산",
+  "nameKo": "풍산",
+  "nameEn": "Poongsan",
+  "definition": "풍산(Poongsan)은 서울특별시에 본사를 둔 대한민국의 구리·구리 합금 소재 및 가공품 제조사이자 탄약 생산사이다. 신동사업과 방산사업을 두 축으로 운영한다.",
+  "summary": "풍산(Poongsan)은 서울특별시에 본사를 둔 대한민국의 구리·구리 합금 소재 및 가공품 제조사이자 탄약 생산사이다. 신동사업과 방산사업을 두 축으로 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "구리 소재와 가공품을 다루는 신동사업과 소구경부터 대구경까지 탄약을 생산하는 방산사업을 한 회사에서 함께 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "풍산은 구리 및 구리 합금 소재와 가공품을 제조·판매하는 신동사업과 각종 탄약류를 생산하는 방산사업을 함께 운영한다. 매출 구성은 신동부문 약 72%, 방산부문 약 28%이다. 신동부문은 전기동 가격 변화의 영향을 받으며, 가격 상승 시 실적이 좋아지고 하락 시 실적도 낮아지는 구조이다. 전기동 가격은 세계 경기와 수요 변화에 따라 움직여 글로벌 시장의 선행지표로도 활용한다. 2011년부터 2014년까지 매분기 약 7천억원의 매출과 100억대의 당기순이익 흑자를 기록했다. 2024년 시가총액은 1조7천억원대이며, 장기화된 전쟁에 따른 방산부문 매출 증가로 성장세를 기록했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "풍산의 뿌리는 1968년 부평공장 설립을 시초로 국내 신동공업을 시작한 풍산금속공업주식회사이다. 현재 회사는 구 풍산의 지주회사 체제 전환 과정에서 2008년 7월 인적분할로 신규 설립했다. 같은 달 유가증권시장에 분할 재상장했으며, 풍산홀딩스와 분리된 뒤 신동과 방산 사업을 이어갔다. 2010년 대전 풍산기술연구원을 기공하고 LIG POONGSAN PROTECH(주)를 합작 설립했으며, 2011년 본사 사옥을 충정로로 이전했다. 방산수출과 품질경영 분야에서 국방부장관 및 국무총리 표창을 수상했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "신동부문은 동 및 동합금 판·대, 리드프레임재, 주석도금재, 건축용 동관, 공업용 동관과 합금관을 생산한다. 동 및 동합금 봉·롯드·선, 주화용 소전, 동 지붕재도 신동부문의 주요 제품이다. 방산부문은 소구경부터 대구경까지 여러 규격의 군용 탄약을 생산한다. 이와 함께 스포츠용 탄약, 추진화약, 탄약 부분품과 정밀 단조품을 제조한다. 2025년에는 현대로템향 대구경 탄약을 수주했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "풍산은 2008년 지주회사 체제 전환에 따라 풍산홀딩스와 분할된 상장회사이다. 2024년 시가총액은 1조7천억원대이며, 장기화된 전쟁의 영향으로 방산부문 매출이 증가했다. BS투자증권은 방산부문을 기반으로 안정적인 성장을 이어가는 회사로 평가했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "구리 소재와 가공품을 다루는 신동사업과 소구경부터 대구경까지 탄약을 생산하는 방산사업을 한 회사에서 함께 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.poongsan.co.kr/main",
+  "entityLinks": {
+   "wikidata": "Q12622086",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12622086",
+    "https://ko.wikipedia.org/wiki/%ED%92%8D%EC%82%B0_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Poongsan_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12622086",
+   "country": "대한민국",
+   "inception": "1968",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「풍산 (기업)」 요약과 위키데이터 Q12622086 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

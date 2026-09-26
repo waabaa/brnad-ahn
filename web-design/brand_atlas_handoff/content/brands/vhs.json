@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q183976",
+ "demand": {
+  "why": "국외",
+  "naver": 0.007,
+  "koViews": 446,
+  "enViews": 96079,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/vhs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vhs",
+  "urlSlug": "vhs",
+  "name": "VHS",
+  "nameKo": "VHS",
+  "nameEn": "VHS",
+  "definition": "VHS(VHS)는 자기 테이프가 든 카세트를 이용해 동영상을 기록하고 재생하도록 만들어진 가정용 비디오 표준 규격이다.",
+  "summary": "VHS(VHS)는 자기 테이프가 든 카세트를 이용해 동영상을 기록하고 재생하도록 만들어진 가정용 비디오 표준 규격이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.583333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "카세트 안의 자기 테이프에 영상을 기록하고 재생하며, 긴 기록 시간과 단순한 테이프 구동 방식으로 가정용 비디오 시장의 표준이 된 규격이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "VHS는 1970년대 중반부터 2000년대 초반까지 홈비디오의 표준으로 널리 사용된 카세트 기반 영상 기록·재생 규격이다. 초기에는 Sony의 Betamax와 경쟁했으나 더 단순한 테이프 움직임과 긴 기록 시간을 바탕으로 가정용 비디오 시장에서 우위를 점했다. 비디오 대여업과 영화 카세트 시장의 성장 속에서 높은 대중성을 확보했으며, 미국의 주요 영화사들도 VHS 방식으로 영화를 발매했다. 이후 DVD와 디지털 영상매체, VOD 및 OTT 서비스가 확산하면서 영상매체로서의 위치를 잃었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "VHS는 1974년에 설립됐으며 JVC가 1976년 9월 발표했다. 발표 초기에는 Sony의 Betamax와 비디오 포맷 경쟁을 벌였고, VHS가 대중성 경쟁에서 우위를 확보했다. 1985년 Betamax가 공식적으로 패배를 선언한 뒤 VHS는 가정용 비디오의 지배적인 표준으로 자리 잡았다. 1980년대 후반 미국에서는 Betamax가 소수 규격으로 밀려났고 주요 영화사들이 VHS 방식으로만 비디오를 발매했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "VHS 카세트에는 넓이 12.7mm의 자기 테이프가 들어 있으며, 기록된 영상을 전용 장치로 재생한다. 표준 모드인 SP 외에 테이프 속도를 낮춰 더 많은 영상을 기록하는 LP와 EP 모드를 지원하지만, 속도가 느려질수록 화질이 낮아진다. 파생 규격에는 Super VHS, Digital VHS, VHS-C, Super VHS-C, W-VHS와 D9이 있다. NTSC와 PAL·SECAM용 카세트는 물리적으로 동일하지만 기록 신호와 재생 속도에는 차이가 있으며, 일부 규격은 개인용 컴퓨터의 백업 장치로도 사용됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "VHS는 2010년대에 들어 휴대전화와 디지털 영상 서비스가 대중화되면서 영상매체 시장에서 퇴출됐다. 대한민국에서는 VHS 방식 영화 카세트와 전용 장치의 생산이 중단됐으며, 세계 대부분의 나라에서도 정부의 디지털 방송 전환 정책에 따라 영화 카세트를 더 이상 출시하지 않는다. 일본의 마지막 제조사인 Funai Electric도 2016년 7월 생산을 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "카세트 안의 자기 테이프에 영상을 기록하고 재생하며, 긴 기록 시간과 단순한 테이프 구동 방식으로 가정용 비디오 시장의 표준이 된 규격이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q183976",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q183976",
+    "https://ko.wikipedia.org/wiki/VHS",
+    "https://en.wikipedia.org/wiki/VHS"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q183976",
+   "country": null,
+   "inception": "1974",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「VHS」 요약과 위키데이터 Q183976 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q498563",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:08+09:00"
+ },
+ "logoCandidate": "logos/fortnum-mason-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "fortnum-mason",
+  "urlSlug": "fortnum-mason",
+  "name": "포트넘 & 메이슨",
+  "nameKo": "포트넘 & 메이슨",
+  "nameEn": "Fortnum & Mason",
+  "definition": "포트넘 & 메이슨(Fortnum & Mason)은 1707년 런던 피카딜리에 설립된 영국의 백화점으로, 고급 식품 매장과 차 매장으로 유명하다.",
+  "summary": "포트넘 & 메이슨(Fortnum & Mason)은 1707년 런던 피카딜리에 설립된 영국의 백화점으로, 고급 식품 매장과 차 매장으로 유명하다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "매 시간마다 창업자 인형이 등장해 인사하는 4톤 규모의 대형 시계와, 고급 식품·차 매장 및 호화 피크닉 바구니로 다른 백화점과 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "포트넘 & 메이슨은 런던 피카딜리에 위치한 백화점으로 여러 층 가운데 식품 매장이 위치한 한 개 층 덕분에 유명해졌다. 특히 고급 식품 매장과 차 매장이 잘 알려져 있으며, 영국 왕실에 납품하며 성장해온 역사를 지니고 있다. 호화로운 피크닉 바구니로도 유명한데, 스틸턴 치즈와 샴페인, 훈제 연어 등 각종 진미가 들어가며 영국 상류 사회에서 크리스마스 즈음에 특히 인기가 있다. 2001년 캐나다의 억만장자 W. 가필드 웨스턴에게 인수된 이후 그의 손녀 제이너 웨스턴 카야트가 경영을 맡고 있다. 현재는 일본 미츠코시 백화점 점포에도 컨셉샵과 티샵을 전개하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "포트넘 & 메이슨은 1707년 윌리엄 포트넘과 휴 메이슨이 공동으로 설립했다. 1761년 윌리엄 포트넘의 손자인 찰스 대에 이르러 영국 왕실에 납품하게 되면서 성장했다. 나폴레옹 전쟁 당시에는 마른 과일과 향신료, 그 밖의 보존 식품을 영국 군대에 납품했으며, 빅토리아 시대에는 왕실 행사에 자주 음식을 납품했다. 크림 전쟁 기간에는 빅토리아 여왕이 나이팅게일의 병원에 보낼 쇠고기 수프를 포트넘 사를 통해 보내기도 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "포트넘 & 메이슨은 여러 층 가운데 한 개 층을 차지하는 고급 식품 매장으로 유명하며, 유명한 차 매장도 함께 자리하고 있다. 호화스런 피크닉 바구니로도 잘 알려져 있는데, 헨리 레가타나 애스컷 경마 등 빅토리아 시대 상류 사회 행사에서 제공되기 시작했다. 피크닉 바구니에는 스틸턴 치즈, 샴페인, 훈제 연어 등의 진미가 담긴다. 300주년을 맞은 2007년에는 홍차 캐디 디자인 변경과 홍차 블렌드명 변경, 300주년 기념 홍차와 기념 비스킷, 샴페인이 들어간 트러플, 렐리시 등을 발매했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2001년 캐나다의 억만장자 W. 가필드 웨스턴에게 인수되었으며, 그의 손녀인 제이너 웨스턴 카야트가 경영하고 있다. 300주년을 맞는 2007년을 대비해 매장은 대형 보수 공사를 진행했다. 현재는 일본 미츠코시 백화점 점포에도 컨셉샵과 티샵을 전개하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "매 시간마다 창업자 인형이 등장해 인사하는 4톤 규모의 대형 시계와, 고급 식품·차 매장 및 호화 피크닉 바구니로 다른 백화점과 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.fortnumandmason.com/",
+  "entityLinks": {
+   "wikidata": "Q498563",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q498563",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%8A%B8%EB%84%98_%26_%EB%A9%94%EC%9D%B4%EC%8A%A8",
+    "https://en.wikipedia.org/wiki/Fortnum_%26_Mason"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q498563",
+   "country": "영국",
+   "inception": "1707",
+   "headquarters": "런던",
+   "founders": [
+    "Charles Fortnum",
+    "Hugh Mason"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「포트넘 & 메이슨」 요약과 위키데이터 Q498563 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

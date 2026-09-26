@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q76039",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:09+09:00"
+ },
+ "logoCandidate": "logos/hudsons-bay-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hudsons-bay-company",
+  "urlSlug": "hudsons-bay-company",
+  "name": "허드슨 베이 회사",
+  "nameKo": "허드슨 베이 회사",
+  "nameEn": "Hudson's Bay Company",
+  "definition": "허드슨 베이 회사(Hudson's Bay Company)는 1670년 캐나다 지역의 모피 교역을 위해 설립된 잉글랜드의 특허 기업이며, 현재는 캐나다 최대의 소매업체이다.",
+  "summary": "허드슨 베이 회사(Hudson's Bay Company)는 1670년 캐나다 지역의 모피 교역을 위해 설립된 잉글랜드의 특허 기업이며, 현재는 캐나다 최대의 소매업체이다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "허드슨 베이 회사는 모피 교역을 위한 특허 기업에서 출발해 캐나다 최대의 소매업체로 전환한, 현존하는 북미 대륙 최고령 기업이라는 점에서 다른 브랜드와 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "허드슨 베이 회사(Hudson's Bay Company)는 1670년에 설립되어 북미, 특히 캐나다 지역의 모피 교역을 담당했던 잉글랜드의 특허 기업이자 국책 회사이다. 현재는 캐나다 최대의 소매업을 중심으로 하는 기업으로, 캐나다 유일의 백화점인 '더 베이(the Bay)'를 운영하고 있다. 현존하는 북미 대륙에서 가장 오래된 기업이며, 주식은 토론토 증권거래소에 상장되어 있다. 본사는 브램턴에 있다. 2010년 동계 올림픽의 로컬 스폰서로 활동했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "허드슨 베이 회사는 1670년 5월 피에르-에스프릿 래디슨과 메다드 데 스그로즈일리어스 등이 참여하여 설립되었으며, 잉글랜드 왕 찰스 2세의 칙허를 받은 잉글랜드의 특허 기업이자 국책 회사였다. 칙허장에 기록된 정식 명칭은 '허드슨만에 있는 무역에 종사하는 영국의 총독 및 잉글랜드 모험가'이며, 허드슨만으로 흘러들어가는 모든 하천 유역인 루퍼트 랜드에서 모피 독점거래권을 부여받았다. 초대 총독은 찰스 2세의 사촌인 컴벌랜드 공작 루퍼트가 맡았으며, 이후 요크 공작 제임스와 말버러 공작 존 처칠 등이 총독을 지냈다. 1821년에는 경쟁 업체인 북서 회사를 합병했고, 1869년에는 루퍼트 랜드를 캐나다 자치령 정부에 양도하면서 사업의 중심을 모피 무역에서 소매로 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "허드슨 베이 회사는 설립 초기에는 루퍼트 랜드 유역에서 모피 독점거래권을 바탕으로 모피 교역을 주된 사업으로 삼았다. 1869년 루퍼트 랜드를 캐나다 자치령 정부에 양도한 이후에는 사업의 중심을 소매업으로 옮겼다. 이후 캐나다 최대의 소매업체로 발전했으며, 현재는 캐나다 유일의 백화점인 '더 베이(the Bay)'를 운영하고 있다. 회사 주식은 토론토 증권거래소에 상장되어 거래되고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "허드슨 베이 회사는 현재 캐나다 최대의 소매업을 중심으로 하는 기업이며, 캐나다 유일의 백화점인 '더 베이(the Bay)'를 운영하고 있다. 본사는 브램턴에 있으며, 주식은 토론토 증권거래소에 상장되어 있다. 2010년 동계 올림픽에서는 로컬 스폰서로 활동했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "허드슨 베이 회사는 모피 교역을 위한 특허 기업에서 출발해 캐나다 최대의 소매업체로 전환한, 현존하는 북미 대륙 최고령 기업이라는 점에서 다른 브랜드와 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hbc.com",
+  "entityLinks": {
+   "wikidata": "Q76039",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q76039",
+    "https://ko.wikipedia.org/wiki/%ED%97%88%EB%93%9C%EC%8A%A8_%EB%B2%A0%EC%9D%B4_%ED%9A%8C%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Hudson%27s_Bay_Company"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q76039",
+   "country": "캐나다",
+   "inception": "1670",
+   "headquarters": "브램턴",
+   "founders": [
+    "피에르 - 에스프릿 래디슨",
+    "메다드 데 스그로즈일리어스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「허드슨 베이 회사」 요약과 위키데이터 Q76039 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

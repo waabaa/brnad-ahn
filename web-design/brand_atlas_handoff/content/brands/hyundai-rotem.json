@@ -9,7 +9,7 @@
   "gsc": 0
  },
  "logoCandidate": "logos/hyundai-rotem-wd.png",
- "logoReview": "pending",
+ "logoReview": "approved",
  "record": {
   "id": 0,
   "slug": "hyundai-rotem",
@@ -72,5 +72,6 @@
    "fetchedAt": "2026-09-14"
   },
   "sourceNote": "한국어 위키백과 「현대로템」 요약과 위키데이터 Q152517 팩트를 근거로 편집"
- }
+ },
+ "reviewedAt": "2026-09-14T10:31:47+09:00"
 }

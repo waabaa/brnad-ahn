@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q20075",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:38:15+09:00"
+ },
+ "logoCandidate": "logos/london-underground-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "london-underground",
+  "urlSlug": "london-underground",
+  "name": "런던 지하철",
+  "nameKo": "런던 지하철",
+  "nameEn": "London Underground",
+  "definition": "런던 지하철(London Underground)은 영국 그레이터 런던과 에식스주, 하트퍼드셔주, 버킹엄셔주 등 주변 지역에서 운영되는 지하철망으로, 세계에서 가장 오래된 도시철도이다. 역은 270개이며 선로 길이는 약 400km에 이른다.",
+  "summary": "런던 지하철(London Underground)은 영국 그레이터 런던과 에식스주, 하트퍼드셔주, 버킹엄셔주 등 주변 지역에서 운영되는 지하철망으로, 세계에서 가장 오래된 도시철도이다. 역은 270개이며 선로 길이는 약 400km에 이른다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "런던 지하철은 세계에서 가장 오래된 도시철도이자 노선 연장이 가장 긴 지하철망으로, '튜브'라는 별칭으로도 불린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "런던 지하철은 그레이터 런던과 그 주변 지역에서 운영되는 도시철도망이다. 이름과 달리 철도망의 55%는 지상 구간이며, 흔히 '지하철(the Underground)' 또는 굴착 터널의 모양에서 딴 '튜브(the Tube)'라는 별칭으로 불린다. 역은 270개, 선로 길이는 약 400km로 세계에서 노선 연장이 가장 길고, 역당 수송 승객 수도 가장 많다. 2007년에는 연간 탑승객 수가 10억 명을 넘어섰다. 여러 회사가 개별적으로 건설한 노선들은 1933년 런던 여객 운송 본부로 통합되었고, 이후 런던 지하철 회사(LUL)가 설립되어 운영을 맡았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "런던 지하철의 시초는 메트로폴리탄 철도로, 1854년 국회 제정법 통과 후 그레이트 웨스턴 철도의 보조로 건설이 추진되었으며, 런던 시 사무 변호사 찰스 피어슨의 로비로 1859년 런던 시 법인 회사의 투자를 이끌어냈다. 메트로폴리탄 철도는 1863년 1월 10일 개통되어 세계 최초의 도시 지하 여객철도가 되었으며, 개통 몇 달 만에 하루 26,000명의 승객을 수송했다. 이후 메트로폴리탄 디스트릭트 철도가 1868년 개통되었고, 두 회사의 경쟁 속에서도 내부 순환선이 1884년 완공되었다. 1890년에는 시티와 남런던 철도가 세계 최초로 고심도·전철화 노선으로 개통되었다. 이렇게 여러 회사가 개별적으로 건설한 노선들은 1933년 런던 여객 운송 본부(LPTB)로 통합되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "런던 지하철은 메트로폴리탄 철도에서 출발해 현재의 해머스미스 앤 시티 노선, 서클 선, 노던 선 등 여러 노선으로 구성된 지하철 네트워크를 운영한다. 초창기 노선은 개착식 공법으로 건설되어 지상 건물 붕괴를 일으키기도 했으며, 이후 노선은 실드 공법과 전기 견인, 고심도 터널 설계를 활용해 지상 영향을 줄이며 지어졌다. 이스트 런던 철도는 이셈바드 킹덤 브루넬이 설계한 템즈 터널을 개조하여 철도 터널로 사용했다. 전체 네트워크는 역 270개, 선로 길이 약 400km 규모다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "런던 지하철 회사(LUL)는 2003년까지 런던 교통공사(TfL)의 독점적인 보조 회사였다. TfL은 런던 시장이 임명한 위원회와 위원이 운영하는 법인 회사로, 런던 수도권 대부분의 대중교통망에 대한 책임을 진다. 2007년 기준 연간 탑승객 수는 10억 명을 넘어섰다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "런던 지하철은 세계에서 가장 오래된 도시철도이자 노선 연장이 가장 긴 지하철망으로, '튜브'라는 별칭으로도 불린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://tfl.gov.uk/modes/tube/",
+  "entityLinks": {
+   "wikidata": "Q20075",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20075",
+    "https://ko.wikipedia.org/wiki/%EB%9F%B0%EB%8D%98_%EC%A7%80%ED%95%98%EC%B2%A0",
+    "https://en.wikipedia.org/wiki/London_Underground"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q20075",
+   "country": "영국",
+   "inception": "1890",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": "런던지하전기철도",
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "한국어 위키백과 「런던 지하철」 요약과 위키데이터 Q20075 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

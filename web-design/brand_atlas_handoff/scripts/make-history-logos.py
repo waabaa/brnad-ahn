@@ -18,8 +18,13 @@ MAX_W, MAX_H = 200, 100
 def slugs_needed():
     # links.json 값 = DB slug. 로고 경로는 데이터에서 읽는다.
     links = json.loads((ROOT / "content/brand-history/links.json").read_text("utf8"))
-    wanted = {v for k, v in links.items() if not k.startswith("_")}
     data = json.loads((ROOT / "data/brand-atlas.json").read_text("utf8"))
+    by_qid = {}
+    for b in data["allBrands"]:  # "wd:QID" 값은 그 개체로 확정된 레코드로 푼다(lib/brand-history.mjs와 같은 규칙)
+        q = (b.get("entityLinks") or {}).get("wikidata")
+        if q and b.get("slug") and q not in by_qid:
+            by_qid[q] = b["slug"]
+    wanted = {by_qid.get(v[3:]) if v.startswith("wd:") else v for k, v in links.items() if not k.startswith("_")} - {None}
     return {b["slug"]: b.get("logo") for b in data["allBrands"] if b.get("slug") in wanted}
 
 def load(src: Path) -> Image.Image:

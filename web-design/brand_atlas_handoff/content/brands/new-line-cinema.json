@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-09-20",
+ "qid": "Q79202",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 197,
+  "enViews": 101180,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/new-line-cinema-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "new-line-cinema",
+  "urlSlug": "new-line-cinema",
+  "name": "뉴 라인 시네마",
+  "nameKo": "뉴 라인 시네마",
+  "nameEn": "New Line Cinema",
+  "definition": "뉴 라인 시네마(New Line Cinema)는 로스앤젤레스에 본사를 둔 미국의 영화 제작 스튜디오이자 배급사이다. 현재 제작 영화는 워너 브라더스를 통해 배급한다.",
+  "summary": "뉴 라인 시네마(New Line Cinema)는 로스앤젤레스에 본사를 둔 미국의 영화 제작 스튜디오이자 배급사이다. 현재 제작 영화는 워너 브라더스를 통해 배급한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.416666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "독립 영화 배급사로 출발해 제작 스튜디오로 확장했으며, 《반지의 제왕 시리즈》를 주요 제작 성과로 보유한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "뉴 라인 시네마는 영화 배급회사로 출발해 영화 제작과 배급을 함께 수행한 미국 스튜디오이다. 한동안 독립회사로 운영했으나 1994년 터너 브로드캐스팅 시스템에 인수됐다. 1996년 터너 방송사와 엔터테인먼트 그룹이 타임 워너에 통합되면서 엔터테인먼트 부문 계열사가 됐다. 2001년 전 세계 흥행 28억 달러를 기록한 《반지의 제왕 시리즈》를 제작했다. 2005년부터 제작 영화의 연이은 흥행 실패로 부채비율이 늘어나 재정난을 겪었다. 2008년 2월 28일 파산 후 워너 브라더스에 인수돼 자회사로 합류했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뉴 라인 시네마는 1967년 Robert Shaye와 Michael Lynne가 설립했으며, 당시 27세였던 Robert Shaye는 회사를 영화 배급사로 출범했다. 독립회사로 운영되다가 1994년 1월 28일 터너 브로드캐스팅 시스템에 인수됐다. 1996년 터너 브로드캐스팅 시스템이 타임 워너에 통합되면서 타임 워너 엔터테인먼트 부문의 계열사로 합류했다. 2001년 《반지의 제왕 시리즈》의 흥행으로 인지도를 높였지만, 2005년 이후 제작 영화의 흥행 실패와 부채 증가로 파산 위기에 직면했다. 결국 2008년 2월 28일 파산하고 워너 브라더스의 자회사로 합류했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "뉴 라인 시네마는 영화 배급회사로 시작한 뒤 영화 제작 스튜디오와 배급사의 기능을 함께 수행한다. 대표적인 제작 성과는 전 세계에서 28억 달러의 흥행을 기록한 《반지의 제왕 시리즈》이다. 시리즈 3편은 2003년 전 세계 흥행 11억 달러를 기록해 《타이타닉》의 18억 달러에 이어 당시 역대 흥행 2위를 기록했다. 해당 시리즈는 아카데미상 30개 부문 후보에 올라 17개 부문에서 수상했다. 현재 뉴 라인 시네마가 제작하는 모든 영화의 배급은 워너 브라더스가 담당한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "뉴 라인 시네마는 2008년 파산 후 워너 브라더스에 인수돼 자회사로 편입됐다. 워너 브라더스는 2010년 뉴 라인 시네마의 배급권을 획득했다. 이에 따라 현재 뉴 라인 시네마의 모든 제작 영화는 워너 브라더스를 통해 배급한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독립 영화 배급사로 출발해 제작 스튜디오로 확장했으며, 《반지의 제왕 시리즈》를 주요 제작 성과로 보유한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.newline.com/",
+  "entityLinks": {
+   "wikidata": "Q79202",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q79202",
+    "https://ko.wikipedia.org/wiki/%EB%89%B4_%EB%9D%BC%EC%9D%B8_%EC%8B%9C%EB%84%A4%EB%A7%88",
+    "https://en.wikipedia.org/wiki/New_Line_Cinema"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q79202",
+   "country": "미국",
+   "inception": "1967",
+   "headquarters": "로스앤젤레스",
+   "founders": [
+    "로버트 셰이",
+    "Michael Lynne"
+   ],
+   "parent": "터너 브로드캐스팅 시스템",
+   "fetchedAt": "2026-09-20"
+  },
+  "sourceNote": "한국어 위키백과 「뉴 라인 시네마」 요약과 위키데이터 Q79202 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-09-26",
+ "qid": "Q6677525",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-26T10:37:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cadbury",
+  "urlSlug": "cadbury",
+  "name": "캐드베리",
+  "nameKo": "캐드베리",
+  "nameEn": "Cadbury",
+  "definition": "캐드베리(Cadbury)는 Mondelez International이 소유한 영국의 다국적 제과 기업으로, Dairy Milk 초콜릿으로 잘 알려져 있으며 Mars에 이어 세계에서 두 번째로 큰 제과 브랜드이다.",
+  "summary": "캐드베리(Cadbury)는 Mondelez International이 소유한 영국의 다국적 제과 기업으로, Dairy Milk 초콜릿으로 잘 알려져 있으며 Mars에 이어 세계에서 두 번째로 큰 제과 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "캐드베리는 왕실 인증을 받은 역사와 Dairy Milk 초콜릿으로 대표되는 영국의 대표적 제과 브랜드라는 점에서 다른 제과 기업과 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "캐드베리는 영국의 다국적 제과 기업으로, 2010년부터 Kraft Foods에서 분사한 Mondelez International이 소유하고 있다. Mars에 이어 세계에서 두 번째로 큰 제과 브랜드이며, 50개 이상의 국가에서 사업을 운영한다. 국제 본사는 버킹엄셔에 있다. Dairy Milk 초콜릿, Creme Egg, Roses 선택 상자 등의 제품으로 알려져 있다. 영국에서 가장 잘 알려진 브랜드 중 하나로, 2013년 The Daily Telegraph는 캐드베리를 영국의 가장 성공적인 수출품 중 하나로 꼽았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "캐드베리는 1824년 잉글랜드 버밍엄에서 퀘이커교도인 John Cadbury가 차, 커피, 마시는 초콜릿을 판매하며 시작되었다. 이후 동생 Benjamin과 함께 사업을 키웠고, 뒤이어 아들 Richard와 George가 사업을 물려받았다. George는 회사 노동자들의 생활 환경을 개선하기 위해 설계된 모범 마을인 Bournville 단지를 조성했다. 1905년 George Jr가 선보인 Dairy Milk 초콜릿은 경쟁 제품보다 우유 함량을 높인 제품으로, 1914년에는 회사의 최대 판매 제품이 되었다. 캐드베리는 1854년 빅토리아 여왕으로부터 첫 왕실 인증을 받았고, 1955년부터 2022년까지 엘리자베스 2세의 왕실 인증을 보유했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캐드베리는 Dairy Milk 초콜릿, Creme Egg, Roses 선택 상자 등의 제과 제품으로 알려져 있다. 1875년에는 첫 부활절 달걀을 제조하며 매끄러운 모양으로 성형할 수 있는 순수 코코아 버터를 개발해 현대적인 초콜릿 부활절 달걀을 만들어냈고, 1893년까지 19종의 초콜릿 부활절 달걀을 판매했다. 1919년 J. S. Fry & Sons와 합병했고, 1969년에는 Schweppes와 합병해 2008년까지 Cadbury Schweppes로 불렸다. 2008년 미국 음료 사업 부문은 Dr Pepper Snapple Group으로 분리되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "캐드베리는 1984년 FTSE 100 지수 출범 당시부터 2010년 Kraft Foods에 인수될 때까지 이 지수의 구성 종목이었다. Kraft Foods에서 분사한 Mondelez International이 2010년부터 캐드베리를 소유하고 있다. 24년간 캐드베리 회장을 지낸 Adrian Cadbury 경은 1992년 전 세계 기업 지배구조 개혁의 기초가 된 모범 규준인 Cadbury Report를 작성했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐드베리는 왕실 인증을 받은 역사와 Dairy Milk 초콜릿으로 대표되는 영국의 대표적 제과 브랜드라는 점에서 다른 제과 기업과 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://cadbury.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q6677525",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6677525",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%93%9C%EB%B2%A0%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Cadbury"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6677525",
+   "country": "그레이트브리튼 아일랜드 연합왕국",
+   "inception": "1824",
+   "headquarters": "덴햄",
+   "founders": [
+    "John Cadbury"
+   ],
+   "parent": "크래프트 푸즈",
+   "fetchedAt": "2026-09-26"
+  },
+  "sourceNote": "영문 위키백과 「Cadbury」 본문과 위키데이터 Q6677525 팩트를 근거로 편집"
+ }
+}
