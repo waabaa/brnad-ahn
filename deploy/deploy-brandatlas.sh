@@ -33,7 +33,7 @@ SITE="${SRC%/}"
 #    서버에서 승인·예약된 원고와 수록 레코드를 먼저 받아 온다. 받아 온 것이 있으면 로컬 산출물에 반영되도록 다시 빌드한다 —
 #    안 그러면 아래 --delete가 서버에서 공개된 매거진 페이지·브랜드 페이지를 지운다.
 if [ -z "$DRY" ]; then
-  mkdir -p "$SITE/content/magazine" "$SITE/content/brands"
+  mkdir -p "$SITE/content/magazine" "$SITE/content/brands" "$SITE/content/logo-uploads"
   CHANGED=0
   # 안전장치: 서버 원고 폴더가 비어 있거나 없는데 로컬에 원고가 있으면 받아 오지 않는다(--delete가 로컬 원고를 지우는 사고 방지).
   REMOTE_N="$($SSH "$SSH_TARGET" "ls $SRCMIRROR/content/magazine/*.md 2>/dev/null | wc -l" || echo 0)"
@@ -45,11 +45,13 @@ if [ -z "$DRY" ]; then
   fi
   # 수록 레코드는 서버가 지우지 않으므로 --delete 없이 받는다(로고 검수 결과가 레코드 파일에 적혀 온다).
   BRANDS="$(rsync -a --itemize-changes -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/brands/" "$SITE/content/brands/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
+  # 어드민에서 올린 로고는 서버 빌드가 content/logo-uploads 로 옮겨 둔다 — 삭제도 따라오도록 --delete.
+  UPLOADS="$(rsync -a --delete --itemize-changes -e "$SSH" "$SSH_TARGET:$SRCMIRROR/content/logo-uploads/" "$SITE/content/logo-uploads/" 2>/dev/null | grep -c '^[<>ch*]' || true)"
   # 반영은 매번 한다 — 레코드를 따로 받아 둔 경우에도 로컬 데이터가 레코드와 어긋나 있으면 여기서 잡힌다.
-  APPLIED="$(cd "$SITE" && node scripts/apply-auto-brands.mjs)"; echo "$APPLIED"
-  if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ] || ! grep -q "변경 없음\|수록분 없음" <<<"$APPLIED"; then
-    echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 변경 → 다시 빌드"
-    ( cd "$SITE" && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-seo-extras.mjs | tail -1 )
+  APPLIED="$(cd "$SITE" && node scripts/apply-auto-brands.mjs && node scripts/apply-logo-uploads.mjs)"; echo "$APPLIED"
+  if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ] || [ "${UPLOADS:-0}" -gt 0 ] || grep -v "변경 없음\|수록분 없음" <<<"$APPLIED" | grep -q .; then
+    echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 · 올린 로고 ${UPLOADS:-0}건 변경 → 다시 빌드"
+    ( cd "$SITE" && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-brand-history.mjs && node scripts/build-seo-extras.mjs | tail -1 )
   fi
 fi
 
@@ -57,7 +59,7 @@ fi
 #    서버 빌드와 겹치지 않게 원격 rsync를 서버의 빌드 잠금 안에서 돌린다.
 rsync -az --delete $DRY -e "$SSH" --rsync-path="flock -w 1800 /home/developer/.brandatlas-build.lock rsync" \
   --exclude='.playwright-mcp/' --exclude='.playwright-cli/' --exclude='scratchpad/' --exclude='source-imports/' \
-  --exclude='archive/' --exclude='300-brands/' --exclude='content/magazine/' --exclude='content/brands/' \
+  --exclude='archive/' --exclude='300-brands/' --exclude='content/magazine/' --exclude='content/brands/' --exclude='content/logo-uploads/' \
   --exclude='*.bak' --exclude='*.bak.*' --exclude='*.bak-*' \
   "$SRC" "$SSH_TARGET:$SRCMIRROR/"
 

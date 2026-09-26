@@ -297,12 +297,45 @@ details.fold .name-list{padding:4px 0 18px}
 .site-footer .brand p{font-size:13.5px;color:var(--muted);line-height:1.7;margin-top:10px;max-width:38ch}
 .site-footer .legal{max-width:var(--max);margin:0 auto;padding:16px var(--gutter) 28px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;font-size:12.5px;color:var(--faint)}
 .site-footer .legal img{height:22px;width:auto}
+.site-footer .legal-org{display:inline-flex;align-items:center;gap:10px;color:var(--faint);transition:color var(--t)}
+.site-footer .legal-org:hover{color:var(--ink-2)}
+.site-footer .legal-org:hover span{text-decoration:underline}
+
+/* ── 아키타이포스 배너(운영사 디자인·컨설팅 의뢰) — 색·타이포는 archetypos.co.kr 원본을 그대로 ── */
+.ac-section{padding-top:0}
+.ac-banner{position:relative;display:flex;align-items:center;gap:40px;overflow:hidden;background:#141414;border-radius:var(--r-lg);padding:52px 56px;isolation:isolate}
+.ac-orbit{position:absolute;right:-6vw;top:50%;translate:0 -50%;width:26vw;height:26vw;min-width:320px;min-height:320px;max-width:480px;max-height:480px;border:1px solid rgba(35,73,216,.4);border-radius:50%;z-index:0}
+.ac-orbit i{position:absolute;display:block;border:1px solid rgba(201,255,61,.28);border-radius:50%;inset:14%;font-style:normal}
+.ac-orbit i:nth-child(2){inset:30%;border-color:rgba(35,73,216,.45)}
+.ac-orbit i:nth-child(3){inset:46%;background:#c9ff3d;border-color:transparent}
+.ac-copy{position:relative;z-index:1;flex:1;min-width:0}
+.ac-eyebrow{font-family:"DM Sans","Noto Sans KR",sans-serif;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:#c9ff3d}
+.ac-headline{font-family:"Noto Sans KR",sans-serif;font-weight:300;font-size:clamp(26px,3.2vw,40px);line-height:1.28;letter-spacing:-.02em;color:#fff;margin:16px 0 14px}
+.ac-headline em{font-style:normal;color:#7ea0ff}
+.ac-lead{font-family:"DM Sans","Noto Sans KR",sans-serif;font-size:15px;line-height:1.75;color:rgba(255,255,255,.66);max-width:52ch;margin:0}
+.ac-cta{position:relative;z-index:1;flex:none;display:inline-flex;align-items:center;gap:10px;background:#c9ff3d;color:#141414;font-family:"DM Sans",sans-serif;font-weight:600;font-size:14.5px;letter-spacing:-.01em;padding:14px 22px;border-radius:99px;white-space:nowrap;transition:transform var(--t),box-shadow var(--t)}
+.ac-banner:hover .ac-cta{transform:translateX(3px);box-shadow:0 8px 20px rgba(201,255,61,.25)}
+.ac-cta i{font-style:normal}
+
+.ac-card{display:block;background:#141414;border-radius:var(--r-lg);padding:22px 22px 20px;color:#fff;transition:transform var(--t)}
+.ac-card:hover{transform:translateY(-2px)}
+.ac-card-eyebrow{display:block;font-family:"DM Sans","Noto Sans KR",sans-serif;font-size:10.5px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:#c9ff3d}
+.ac-card-headline{display:block;font-family:"Noto Sans KR",sans-serif;font-weight:300;font-size:21px;line-height:1.34;letter-spacing:-.02em;margin:12px 0 10px}
+.ac-card-desc{display:block;font-family:"DM Sans","Noto Sans KR",sans-serif;font-size:13px;color:rgba(255,255,255,.6)}
+.ac-card-cta{display:inline-flex;align-items:center;gap:6px;margin-top:16px;font-family:"DM Sans",sans-serif;font-size:12.5px;font-weight:500;color:#7ea0ff;border-top:1px solid rgba(255,255,255,.18);padding-top:14px;width:100%}
+.ac-card-cta i{font-style:normal;transition:translate var(--t)}
+.ac-card:hover .ac-card-cta i{translate:3px 0}
+@media(max-width:767px){
+  .ac-banner{flex-direction:column;align-items:flex-start;padding:34px 24px;gap:24px}
+  .ac-orbit{display:none}
+  .ac-cta{align-self:flex-start}
+}
 
 /* ── 반응형 ──────────────────────────────────────────────────── */
 @media(max-width:1023px){
   .brand-head .grid{grid-template-columns:minmax(0,1fr) 220px;gap:22px}
   .brand-body{grid-template-columns:1fr;gap:28px}
-  .aside{position:static;display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .aside{position:static;display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
   .search-layout{grid-template-columns:1fr}
   .site-footer .inner{grid-template-columns:1fr 1fr}
 }
@@ -350,3 +383,6 @@ details.fold .name-list{padding:4px 0 18px}
 .mag-mention span{display:block;font-size:14px;line-height:1.65;color:var(--ink-2)}
 .mag-mention a:hover b{color:var(--red)}
 @media (max-width:860px){.mag-teaser .mag-cards{grid-template-columns:1fr}.mag-card+.mag-card{padding-left:0;border-left:0}}
+/* 헤더 — 1024~1279px에서 주 메뉴(9개)가 두 줄로 깨지지 않게 줄이고, 검색은 아이콘만 둔다(검색 페이지로 이동). */
+.nav a{white-space:nowrap}
+@media(min-width:1024px) and (max-width:1279px){.site-header .bar{gap:12px}.nav{gap:0;margin-left:0}.nav a{padding:8px 7px;font-size:13.5px}.hdr-search,.hdr-search:focus-within{width:44px;padding:0 6px}.hdr-search input{display:none}}

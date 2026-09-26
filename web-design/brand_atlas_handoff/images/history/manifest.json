@@ -1,0 +1,776 @@
+{
+ "absolut": {
+  "file": "images/history/absolut.webp",
+  "h": 85,
+  "src": "images/bici/absolut-1af6c1ba.jpg",
+  "w": 200
+ },
+ "adidas": {
+  "file": "images/history/adidas.webp",
+  "h": 100,
+  "src": "images/logos/adidas.png",
+  "w": 168
+ },
+ "airbnb": {
+  "file": "images/history/airbnb.webp",
+  "h": 63,
+  "src": "images/logos/airbnb-wd.png",
+  "w": 200
+ },
+ "alibaba-group": {
+  "file": "images/history/alibaba-group.webp",
+  "h": 32,
+  "src": "images/logos/alibaba-group-wd.png",
+  "w": 200
+ },
+ "amazon": {
+  "file": "images/history/amazon.webp",
+  "h": 60,
+  "src": "images/updates/0004_logo_b655b81d24caaa.png",
+  "w": 200
+ },
+ "amorepacific": {
+  "file": "images/history/amorepacific.webp",
+  "h": 20,
+  "src": "images/logos/amorepacific.png",
+  "w": 200
+ },
+ "anthropic": {
+  "file": "images/history/anthropic.webp",
+  "h": 23,
+  "src": "images/logos/anthropic-wd.png",
+  "w": 200
+ },
+ "apple": {
+  "file": "images/history/apple.webp",
+  "h": 100,
+  "src": "images/updates/0005_logo_7f105082912bf3.png",
+  "w": 81
+ },
+ "at-t": {
+  "file": "images/history/at-t.webp",
+  "h": 82,
+  "src": "images/logos/at-t-wd.png",
+  "w": 200
+ },
+ "bacard": {
+  "file": "images/history/bacard.webp",
+  "h": 100,
+  "src": "images/logos/bacard.png",
+  "w": 100
+ },
+ "baemin": {
+  "file": "images/history/baemin.webp",
+  "h": 100,
+  "src": "images/logos/baemin.png",
+  "w": 100
+ },
+ "barbie": {
+  "file": "images/history/barbie.webp",
+  "h": 99,
+  "src": "images/logos/barbie-wd.png",
+  "w": 200
+ },
+ "bavarian-motor-works-bayerische-motoren-werke": {
+  "file": "images/history/bavarian-motor-works-bayerische-motoren-werke.webp",
+  "h": 100,
+  "src": "images/updates/0011_logo_bcccdad2ad10fa.png",
+  "w": 100
+ },
+ "best-global-brands": {
+  "file": "images/history/best-global-brands.webp",
+  "h": 23,
+  "src": "images/logos/best-global-brands-cand-5.png",
+  "w": 200
+ },
+ "brandarchive-adobe-2025": {
+  "file": "images/history/brandarchive-adobe-2025.webp",
+  "h": 62,
+  "src": "images/logos/adobe.gif",
+  "w": 200
+ },
+ "brandarchive-american-airlines": {
+  "file": "images/history/brandarchive-american-airlines.webp",
+  "h": 19,
+  "src": "images/logos/american-airlines.png",
+  "w": 200
+ },
+ "brandarchive-ibm": {
+  "file": "images/history/brandarchive-ibm.webp",
+  "h": 75,
+  "src": "images/logos/ibm.png",
+  "w": 200
+ },
+ "brandarchive-mastercard": {
+  "file": "images/history/brandarchive-mastercard.webp",
+  "h": 100,
+  "src": "images/logos/mastercard.png",
+  "w": 169
+ },
+ "brandarchive-mobil": {
+  "file": "images/history/brandarchive-mobil.webp",
+  "h": 61,
+  "src": "images/logos/mobil.png",
+  "w": 200
+ },
+ "brandarchive-open-ai": {
+  "file": "images/history/brandarchive-open-ai.webp",
+  "h": 55,
+  "src": "images/logos/open-ai.svg",
+  "w": 200
+ },
+ "brandarchive-shell": {
+  "file": "images/history/brandarchive-shell.webp",
+  "h": 72,
+  "src": "images/logos/shell.png",
+  "w": 200
+ },
+ "brandarchive-spotify": {
+  "file": "images/history/brandarchive-spotify.webp",
+  "h": 60,
+  "src": "images/logos/spotify.png",
+  "w": 200
+ },
+ "brandarchive-stella-artois-2023": {
+  "file": "images/history/brandarchive-stella-artois-2023.webp",
+  "h": 100,
+  "src": "images/logos/stella-artois.png",
+  "w": 141
+ },
+ "brandarchive-toyota": {
+  "file": "images/history/brandarchive-toyota.webp",
+  "h": 33,
+  "src": "images/logos/toyota.png",
+  "w": 200
+ },
+ "brandarchive-yahoo-2026": {
+  "file": "images/history/brandarchive-yahoo-2026.webp",
+  "h": 56,
+  "src": "images/logos/yahoo-cand-3.png",
+  "w": 200
+ },
+ "burberry": {
+  "file": "images/history/burberry.webp",
+  "h": 100,
+  "src": "images/logos/burberry.png",
+  "w": 146
+ },
+ "burger-king": {
+  "file": "images/history/burger-king.webp",
+  "h": 100,
+  "src": "images/updates/0020_logo_63f5cb047465ba.png",
+  "w": 92
+ },
+ "canon-inc": {
+  "file": "images/history/canon-inc.webp",
+  "h": 42,
+  "src": "images/logos/canon-inc-wd.png",
+  "w": 200
+ },
+ "cartier": {
+  "file": "images/history/cartier.webp",
+  "h": 51,
+  "src": "images/logos/cartier.png",
+  "w": 200
+ },
+ "cbs": {
+  "file": "images/history/cbs.webp",
+  "h": 58,
+  "src": "images/logos/cbs-wd.png",
+  "w": 200
+ },
+ "chanel": {
+  "file": "images/history/chanel.webp",
+  "h": 31,
+  "src": "images/logos/chanel.svg",
+  "w": 200
+ },
+ "chatgpt": {
+  "file": "images/history/chatgpt.webp",
+  "h": 100,
+  "src": "images/logos/chatgpt-wd.png",
+  "w": 99
+ },
+ "cj-cheil-jedang": {
+  "file": "images/history/cj-cheil-jedang.webp",
+  "h": 60,
+  "src": "images/logos/cj-cheil-jedang-wd.png",
+  "w": 200
+ },
+ "coca-cola": {
+  "file": "images/history/coca-cola.webp",
+  "h": 63,
+  "src": "images/logos/coca-cola.png",
+  "w": 200
+ },
+ "colgate-palmolive-company": {
+  "file": "images/history/colgate-palmolive-company.webp",
+  "h": 27,
+  "src": "images/logos/colgate-palmolive-company-wd.png",
+  "w": 200
+ },
+ "coupang": {
+  "file": "images/history/coupang.webp",
+  "h": 45,
+  "src": "images/logos/coupang.png",
+  "w": 200
+ },
+ "danggeun-market": {
+  "file": "images/history/danggeun-market.webp",
+  "h": 100,
+  "src": "images/logos/danggeun-market.png",
+  "w": 200
+ },
+ "de-beers": {
+  "file": "images/history/de-beers.webp",
+  "h": 15,
+  "src": "images/logos/de-beers.png",
+  "w": 200
+ },
+ "deutsche-bank": {
+  "file": "images/history/deutsche-bank.webp",
+  "h": 100,
+  "src": "images/logos/deutsche-bank-wd.png",
+  "w": 100
+ },
+ "dong-a-pharmaceutical-hwal-myung-su": {
+  "file": "images/history/dong-a-pharmaceutical-hwal-myung-su.webp",
+  "h": 46,
+  "src": "images/logos/dong-a-pharmaceutical-hwal-myung-su-55880622.svg",
+  "w": 200
+ },
+ "doosan": {
+  "file": "images/history/doosan.webp",
+  "h": 96,
+  "src": "images/logos/doosan.png",
+  "w": 129
+ },
+ "dove": {
+  "file": "images/history/dove.webp",
+  "h": 100,
+  "src": "images/logos/dove-cand-2.png",
+  "w": 141
+ },
+ "dupont": {
+  "file": "images/history/dupont.webp",
+  "h": 60,
+  "src": "images/logos/dupont-wd.png",
+  "w": 200
+ },
+ "east-india-company": {
+  "file": "images/history/east-india-company.webp",
+  "h": 100,
+  "src": "images/logos/east-india-company-wd.png",
+  "w": 167
+ },
+ "ebay": {
+  "file": "images/history/ebay.webp",
+  "h": 80,
+  "src": "images/logos/ebay-wd.png",
+  "w": 200
+ },
+ "exxonmobil": {
+  "file": "images/history/exxonmobil.webp",
+  "h": 38,
+  "src": "images/logos/exxonmobil-wd.png",
+  "w": 200
+ },
+ "facebook": {
+  "file": "images/history/facebook.webp",
+  "h": 100,
+  "src": "images/logos/facebook-wd.png",
+  "w": 100
+ },
+ "ferrari": {
+  "file": "images/history/ferrari.webp",
+  "h": 44,
+  "src": "images/logos/ferrari.png",
+  "w": 200
+ },
+ "ford-motor-company": {
+  "file": "images/history/ford-motor-company.webp",
+  "h": 72,
+  "src": "images/logos/ford-motor-company-wd.png",
+  "w": 200
+ },
+ "gap": {
+  "file": "images/history/gap.webp",
+  "h": 100,
+  "src": "images/logos/gap.png",
+  "w": 133
+ },
+ "gillette": {
+  "file": "images/history/gillette.webp",
+  "h": 49,
+  "src": "images/logos/gillette.png",
+  "w": 200
+ },
+ "google": {
+  "file": "images/history/google.webp",
+  "h": 61,
+  "src": "images/logos/google-wd.png",
+  "w": 200
+ },
+ "gucci": {
+  "file": "images/history/gucci.webp",
+  "h": 100,
+  "src": "images/logos/gucci.png",
+  "w": 145
+ },
+ "hanwha-group": {
+  "file": "images/history/hanwha-group.webp",
+  "h": 100,
+  "src": "images/logos/hanwha-group-wd.png",
+  "w": 153
+ },
+ "harley-davidson": {
+  "file": "images/history/harley-davidson.webp",
+  "h": 100,
+  "src": "images/logos/harley-davidson.png",
+  "w": 123
+ },
+ "heineken": {
+  "file": "images/history/heineken.webp",
+  "h": 47,
+  "src": "images/logos/heineken.png",
+  "w": 200
+ },
+ "heinz": {
+  "file": "images/history/heinz.webp",
+  "h": 81,
+  "src": "images/logos/heinz.png",
+  "w": 200
+ },
+ "herm-s": {
+  "file": "images/history/herm-s.webp",
+  "h": 35,
+  "src": "images/updates/0056_logo_f7dd2f0c766854.png",
+  "w": 200
+ },
+ "hitejinro": {
+  "file": "images/history/hitejinro.webp",
+  "h": 49,
+  "src": "images/logos/hitejinro.png",
+  "w": 161
+ },
+ "honda": {
+  "file": "images/history/honda.webp",
+  "h": 25,
+  "src": "images/logos/honda-wd.png",
+  "w": 200
+ },
+ "huawei": {
+  "file": "images/history/huawei.webp",
+  "h": 32,
+  "src": "images/logos/huawei-wd.png",
+  "w": 200
+ },
+ "hyundai-enc": {
+  "file": "images/history/hyundai-enc.webp",
+  "h": 35,
+  "src": "images/logos/hyundai-enc.png",
+  "w": 200
+ },
+ "hyundai-motor": {
+  "file": "images/history/hyundai-motor.webp",
+  "h": 26,
+  "src": "images/logos/hyundai-motor.png",
+  "w": 200
+ },
+ "ikea": {
+  "file": "images/history/ikea.webp",
+  "h": 80,
+  "src": "images/logos/ikea-wd.png",
+  "w": 200
+ },
+ "instagram": {
+  "file": "images/history/instagram.webp",
+  "h": 100,
+  "src": "images/logos/instagram-wd.png",
+  "w": 100
+ },
+ "intel": {
+  "file": "images/history/intel.webp",
+  "h": 100,
+  "src": "images/updates/0059_logo_590d25937990a6.png",
+  "w": 197
+ },
+ "jaguar-cars": {
+  "file": "images/history/jaguar-cars.webp",
+  "h": 25,
+  "src": "images/logos/jaguar-cars-cand-2.png",
+  "w": 200
+ },
+ "johnson-johnson": {
+  "file": "images/history/johnson-johnson.webp",
+  "h": 19,
+  "src": "images/logos/johnson-johnson-wd.png",
+  "w": 200
+ },
+ "jpmorgan-chase": {
+  "file": "images/history/jpmorgan-chase.webp",
+  "h": 29,
+  "src": "images/logos/jpmorgan-chase-wd.png",
+  "w": 200
+ },
+ "kakao": {
+  "file": "images/history/kakao.webp",
+  "h": 62,
+  "src": "images/logos/kakao.svg",
+  "w": 200
+ },
+ "kellogg-s": {
+  "file": "images/history/kellogg-s.webp",
+  "h": 70,
+  "src": "images/logos/kellogg-s.png",
+  "w": 200
+ },
+ "kia": {
+  "file": "images/history/kia.webp",
+  "h": 47,
+  "src": "images/logos/kia.png",
+  "w": 200
+ },
+ "kodak": {
+  "file": "images/history/kodak.webp",
+  "h": 100,
+  "src": "images/logos/kodak-wd.png",
+  "w": 110
+ },
+ "kongo-gumi": {
+  "file": "images/history/kongo-gumi.webp",
+  "h": 49,
+  "src": "images/logos/kongo-gumi-wd.png",
+  "w": 200
+ },
+ "lamborghini": {
+  "file": "images/history/lamborghini.webp",
+  "h": 40,
+  "src": "images/logos/lamborghini-wd.png",
+  "w": 200
+ },
+ "lego": {
+  "file": "images/history/lego.webp",
+  "h": 100,
+  "src": "images/logos/lego-wd.png",
+  "w": 100
+ },
+ "levi-s": {
+  "file": "images/history/levi-s.webp",
+  "h": 82,
+  "src": "images/logos/levi-s.png",
+  "w": 200
+ },
+ "lg-electronics": {
+  "file": "images/history/lg-electronics.webp",
+  "h": 30,
+  "src": "images/logos/lg-electronics.png",
+  "w": 200
+ },
+ "lg-group": {
+  "file": "images/history/lg-group.webp",
+  "h": 87,
+  "src": "images/logos/lg-group-wd.png",
+  "w": 200
+ },
+ "louis-vuitton": {
+  "file": "images/history/louis-vuitton.webp",
+  "h": 21,
+  "src": "images/logos/louis-vuitton.png",
+  "w": 200
+ },
+ "lufthansa": {
+  "file": "images/history/lufthansa.webp",
+  "h": 35,
+  "src": "images/logos/lufthansa-wd.png",
+  "w": 200
+ },
+ "marlboro": {
+  "file": "images/history/marlboro.webp",
+  "h": 100,
+  "src": "images/logos/marlboro.svg",
+  "w": 166
+ },
+ "mcdonald-s": {
+  "file": "images/history/mcdonald-s.webp",
+  "h": 100,
+  "src": "images/updates/0076_logo_ad1b3bec57f90d.png",
+  "w": 72
+ },
+ "mercedes-benz": {
+  "file": "images/history/mercedes-benz.webp",
+  "h": 51,
+  "src": "images/logos/mercedes-benz.png",
+  "w": 200
+ },
+ "meta-platforms": {
+  "file": "images/history/meta-platforms.webp",
+  "h": 22,
+  "src": "images/logos/meta-platforms-wd.png",
+  "w": 200
+ },
+ "microsoft": {
+  "file": "images/history/microsoft.webp",
+  "h": 43,
+  "src": "images/logos/microsoft-2012.svg",
+  "w": 200
+ },
+ "microsoft-copilot": {
+  "file": "images/history/microsoft-copilot.webp",
+  "h": 55,
+  "src": "images/logos/microsoft-copilot-wd.png",
+  "w": 200
+ },
+ "moet-and-chandon": {
+  "file": "images/history/moet-and-chandon.webp",
+  "h": 68,
+  "src": "images/logos/moet-and-chandon.png",
+  "w": 200
+ },
+ "naver": {
+  "file": "images/history/naver.webp",
+  "h": 72,
+  "src": "images/logos/naver.png",
+  "w": 72
+ },
+ "nbc": {
+  "file": "images/history/nbc.webp",
+  "h": 100,
+  "src": "images/logos/nbc-wd.png",
+  "w": 106
+ },
+ "nestl": {
+  "file": "images/history/nestl.webp",
+  "h": 54,
+  "src": "images/updates/0084_logo_97d884856312c1.png",
+  "w": 200
+ },
+ "netflix": {
+  "file": "images/history/netflix.webp",
+  "h": 93,
+  "src": "images/logos/netflix-wd.png",
+  "w": 200
+ },
+ "nike": {
+  "file": "images/history/nike.webp",
+  "h": 71,
+  "src": "images/logos/nike.png",
+  "w": 200
+ },
+ "nikon": {
+  "file": "images/history/nikon.webp",
+  "h": 100,
+  "src": "images/logos/nikon-wd.png",
+  "w": 100
+ },
+ "nongshim": {
+  "file": "images/history/nongshim.webp",
+  "h": 65,
+  "src": "images/photos/nongshim-263a0978.svg",
+  "w": 200
+ },
+ "nvidia": {
+  "file": "images/history/nvidia.webp",
+  "h": 37,
+  "src": "images/logos/nvidia-wd.png",
+  "w": 200
+ },
+ "orion": {
+  "file": "images/history/orion.webp",
+  "h": 100,
+  "src": "images/logos/orion-f8de423a.jpg",
+  "w": 200
+ },
+ "panasonic-holdings-corporation": {
+  "file": "images/history/panasonic-holdings-corporation.webp",
+  "h": 31,
+  "src": "images/logos/panasonic-holdings-corporation-wd.png",
+  "w": 200
+ },
+ "pepsi": {
+  "file": "images/history/pepsi.webp",
+  "h": 46,
+  "src": "images/updates/0096_logo_be8d68b31f0011.png",
+  "w": 200
+ },
+ "philips": {
+  "file": "images/history/philips.webp",
+  "h": 100,
+  "src": "images/updates/0097_logo_005edd757513c8.png",
+  "w": 76
+ },
+ "prada": {
+  "file": "images/history/prada.webp",
+  "h": 31,
+  "src": "images/logos/prada.png",
+  "w": 200
+ },
+ "procter-gamble": {
+  "file": "images/history/procter-gamble.webp",
+  "h": 100,
+  "src": "images/logos/procter-gamble-wd.png",
+  "w": 100
+ },
+ "puma": {
+  "file": "images/history/puma.webp",
+  "h": 62,
+  "src": "images/logos/puma.png",
+  "w": 200
+ },
+ "red-bull": {
+  "file": "images/history/red-bull.webp",
+  "h": 48,
+  "src": "images/updates/0103_logo_9efed1b3030fb1.png",
+  "w": 200
+ },
+ "rolex": {
+  "file": "images/history/rolex.webp",
+  "h": 100,
+  "src": "images/logos/rolex.png",
+  "w": 180
+ },
+ "samsung-electronics": {
+  "file": "images/history/samsung-electronics.webp",
+  "h": 31,
+  "src": "images/logos/samsung-electronics.png",
+  "w": 200
+ },
+ "shiseido": {
+  "file": "images/history/shiseido.webp",
+  "h": 34,
+  "src": "images/logos/shiseido.png",
+  "w": 200
+ },
+ "sony-group": {
+  "file": "images/history/sony-group.webp",
+  "h": 36,
+  "src": "images/logos/sony-group-wd.png",
+  "w": 200
+ },
+ "starbucks": {
+  "file": "images/history/starbucks.webp",
+  "h": 100,
+  "src": "images/logos/starbucks.png",
+  "w": 100
+ },
+ "tesla": {
+  "file": "images/history/tesla.webp",
+  "h": 100,
+  "src": "images/logos/tesla-wd.png",
+  "w": 77
+ },
+ "the-hershey-company": {
+  "file": "images/history/the-hershey-company.webp",
+  "h": 72,
+  "src": "images/logos/the-hershey-company-wd.png",
+  "w": 200
+ },
+ "the-walt-disney-company": {
+  "file": "images/history/the-walt-disney-company.webp",
+  "h": 30,
+  "src": "images/logos/the-walt-disney-company-wd.png",
+  "w": 200
+ },
+ "tiffany-and-co": {
+  "file": "images/history/tiffany-and-co.webp",
+  "h": 22,
+  "src": "images/logos/tiffany-and-co.png",
+  "w": 200
+ },
+ "tiktok": {
+  "file": "images/history/tiktok.webp",
+  "h": 45,
+  "src": "images/logos/tiktok-wd.png",
+  "w": 200
+ },
+ "uber": {
+  "file": "images/history/uber.webp",
+  "h": 70,
+  "src": "images/logos/uber-wd.png",
+  "w": 200
+ },
+ "uniqlo": {
+  "file": "images/history/uniqlo.webp",
+  "h": 100,
+  "src": "images/logos/uniqlo.png",
+  "w": 100
+ },
+ "united-parcel-service": {
+  "file": "images/history/united-parcel-service.webp",
+  "h": 100,
+  "src": "images/logos/united-parcel-service-wd.png",
+  "w": 84
+ },
+ "volkswagen": {
+  "file": "images/history/volkswagen.webp",
+  "h": 100,
+  "src": "images/logos/volkswagen-wd.png",
+  "w": 100
+ },
+ "wechat": {
+  "file": "images/history/wechat.webp",
+  "h": 100,
+  "src": "images/logos/wechat-cand-5.png",
+  "w": 100
+ },
+ "wendys": {
+  "file": "images/history/wendys.webp",
+  "h": 83,
+  "src": "images/logos/wendys-wd.png",
+  "w": 200
+ },
+ "x": {
+  "file": "images/history/x.webp",
+  "h": 100,
+  "src": "images/logos/x-wd.png",
+  "w": 100
+ },
+ "xbox": {
+  "file": "images/history/xbox.webp",
+  "h": 100,
+  "src": "images/logos/xbox-auto-1.png",
+  "w": 125
+ },
+ "xiaomi": {
+  "file": "images/history/xiaomi.webp",
+  "h": 100,
+  "src": "images/logos/xiaomi-wd.png",
+  "w": 100
+ },
+ "youtube": {
+  "file": "images/history/youtube.webp",
+  "h": 80,
+  "src": "images/logos/youtube-wd.png",
+  "w": 200
+ },
+ "yuhan": {
+  "file": "images/history/yuhan.webp",
+  "h": 48,
+  "src": "images/logos/yuhan.png",
+  "w": 200
+ },
+ "라코스테": {
+  "file": "images/history/b97716335.webp",
+  "h": 100,
+  "src": "images/logos/lacoste.png",
+  "w": 129
+ },
+ "설화수": {
+  "file": "images/history/b7001650.webp",
+  "h": 27,
+  "src": "images/logos/sulwhasoo.png",
+  "w": 145
+ },
+ "올리브영": {
+  "file": "images/history/b2639053.webp",
+  "h": 33,
+  "src": "images/logos/olive-young.png",
+  "w": 200
+ },
+ "월마트": {
+  "file": "images/history/b21482210.webp",
+  "h": 38,
+  "src": "images/logos/walmart.png",
+  "w": 200
+ }
+}

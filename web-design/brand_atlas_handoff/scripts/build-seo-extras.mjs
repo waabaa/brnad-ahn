@@ -19,11 +19,12 @@ import path from "node:path";
 import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { ORIGIN, CSS_V, urlSlugOf, countryOf, foundedYear, displayName, koreanName, latinName, bodyTextLength } from "./lib/brand-seo.mjs";
-import { esc, page, collectionJsonLd, breadcrumbs, header, footer } from "./lib/page-shell.mjs";
+import { esc, page, collectionJsonLd, breadcrumbs, header, footer, archetyposBanner, archetyposFontLink, ARCHETYPOS_URL } from "./lib/page-shell.mjs";
 import { isListed, isDirectory, byScore, hasLogo, hasKoreanName, groupByIndex, chosungString, indexKey, GANADA_KEYS, ALPHA_KEYS, archiveTier } from "./lib/archive.mjs";
 import { tile, tiles, nameList, nameItem, oneLine, brandHref, assetHref, logoImg } from "./lib/markup.mjs";
 import { COLLECTIONS, collectionsOf, publishedCollections } from "./lib/collections.mjs";
 import { loadArticles, referencedSlugs } from "./lib/magazine.mjs";
+import { historyTeaser, HISTORY_PATH } from "./lib/brand-history.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -350,7 +351,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
 <li><b>확인되지 않은 표기는 원어로 둡니다.</b> 한글 표기와 로고가 모두 확인되지 않은 브랜드는 <a href="${P}pages/directory.html">원어 표기 브랜드</a> 목록에 따로 모읍니다. 표기나 로고가 확인되면 본 목록으로 옮깁니다.</li>
 <li><b>갱신일은 실제 변경이 있을 때만 바꿉니다.</b> 본문이 바뀐 페이지만 '최종 업데이트'가 갱신됩니다.</li></ul>
 <h2>로고와 상표에 대해</h2><p>로고·상표의 권리는 각 브랜드 소유자에게 있습니다. 브랜드 아틀라스는 브랜드를 식별하고 그 역사를 설명하기 위한 자료로 로고를 싣습니다. 권리자가 삭제나 수정을 원하면 <a href="${P}pages/contact.html">문의</a>로 알려 주시면 확인 후 처리합니다.</p>
-<h2>운영</h2><p>브랜드성장연구소 아키타이포스가 기획·편집·운영합니다. 데이터 보강과 페이지 생성은 자동화되어 있으며, 사실 검증 기준은 위 편집 원칙을 따릅니다. 사이트 이용 통계는 Google Analytics로 집계하며 자세한 내용은 <a href="${P}pages/privacy.html">개인정보 처리방침</a>에 있습니다.</p>
+<h2>운영</h2><p><a href="${ARCHETYPOS_URL}" rel="noopener" target="_blank">브랜드성장연구소 아키타이포스</a>가 기획·편집·운영합니다. 데이터 보강과 페이지 생성은 자동화되어 있으며, 사실 검증 기준은 위 편집 원칙을 따릅니다. 사이트 이용 통계는 Google Analytics로 집계하며 자세한 내용은 <a href="${P}pages/privacy.html">개인정보 처리방침</a>에 있습니다. 브랜드 디자인·전략 컨설팅 의뢰는 <a href="${ARCHETYPOS_URL}" rel="noopener" target="_blank">아키타이포스 홈페이지</a>에서 받습니다.</p>
 </article></div>`;
   writeIfChanged(path.join(ROOT, "pages", "about.html"), page({ title: "브랜드 아틀라스 소개 — 편집 원칙과 운영 | 브랜드 아틀라스", desc: `브랜드 ${stats.total}개의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 없는 표기를 만들지 않고 검증된 사실만 싣는 편집 원칙을 설명합니다.`, canonical: `${ORIGIN}/pages/about.html`, bodyHtml: about, active: "" }));
 
@@ -371,7 +372,7 @@ function oneLineIndustry(slug) { return (INDUSTRY_DESC[slug] || "").replace(/\s+
 <h2>5. 외부 링크</h2>
 <p>사이트에는 각 브랜드의 공식 웹사이트, 위키데이터, 위키백과로 가는 외부 링크가 있습니다. 외부 사이트의 개인정보 처리에 대해서는 해당 사이트의 방침이 적용됩니다.</p>
 <h2>6. 문의</h2>
-<p>개인정보 처리에 관한 문의는 <a href="${P}pages/contact.html">문의 페이지</a>로 보내 주세요. 운영 주체는 브랜드성장연구소 아키타이포스입니다.</p>
+<p>개인정보 처리에 관한 문의는 <a href="${P}pages/contact.html">문의 페이지</a>로 보내 주세요. 운영 주체는 <a href="${ARCHETYPOS_URL}" rel="noopener" target="_blank">브랜드성장연구소 아키타이포스</a>입니다.</p>
 <p class="muted">시행일: 2026년 9월 7일 · 개정일: 2026년 9월 13일(광고와 쿠키 조항 추가)</p>
 </article></div>`;
   writeIfChanged(path.join(ROOT, "pages", "privacy.html"), page({ title: "개인정보 처리방침 | 브랜드 아틀라스", desc: "브랜드 아틀라스의 개인정보 처리방침. 회원 가입 없이 이용하는 정보 사이트이며 접속 로그와 Google Analytics 이용 통계만 자동 수집됩니다.", canonical: `${ORIGIN}/pages/privacy.html`, bodyHtml: privacy, active: "" }));
@@ -410,11 +411,27 @@ const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(is
 {
   const H = "";
   const core = LISTED.filter(b => archiveTier(b) === "core").sort(byScore);
-  // 오늘의 브랜드 — 빌드 날짜로 결정(주간 리프레시마다 바뀐다). 사진·본문·로고가 다 있는 브랜드만.
-  const magazineIds = new Set((DATA.brands || []).map(b => String(b.id)));
-  const pool = core.filter(b => magazineIds.has(String(b.id)) && /^[AB]_/.test(String(b.tier || "")) && b.image && !/logos\/|brand_atlas_logo_mark/.test(String(b.image)) && String(b.sections?.insights?.body || "").length > 120);
-  const seed = [...TODAY].reduce((h, ch) => (Math.imul(h ^ ch.charCodeAt(0), 16777619) >>> 0), 2166136261);
-  const featured = pool.length ? pool[seed % pool.length] : core[0];
+  // 오늘의 브랜드 — 본문이 충분한 core 브랜드 전체가 후보(사진이 없으면 로고로 싣는다).
+  // 날짜별 해시 최솟값으로 고르되 직전 FEATURE_GAP일에 나온 브랜드는 뺀다. 기준일부터 매일을 다시 계산하므로
+  // 상태 파일 없이 서버·로컬 빌드가 같은 답을 낸다. 후보가 늘거나 줄어도 해시 순위가 바뀌지 않아 이력이 거의 흔들리지 않는다.
+  // (종전: 사진+매거진 풀+A/B 등급 조건으로 후보가 8곳뿐이라 며칠 만에 같은 브랜드가 다시 나왔다 — 2026-09-23)
+  const isPhoto = (b) => !!b.image && !/logos\/|_logo_|brand_atlas_logo_mark|\.svg$/i.test(String(b.image));
+  const featText0 = (b) => String(b.sections?.insights?.body || b.insight || b.definition || "").replace(/\s+/g, " ");
+  const pool = core.filter(b => hasLogo(b) && featText0(b).length >= 200);
+  const FEATURE_EPOCH = Date.parse("2026-09-01T00:00:00Z"), FEATURE_GAP = Math.min(365, Math.floor(pool.length / 2));
+  const rank = (day, b) => crypto.createHash("sha1").update(`${day}:${urlSlugOf(b)}`).digest("hex");
+  const featured = (() => {
+    if (!pool.length) return core[0];
+    const today = Math.floor(Date.parse(`${TODAY}T00:00:00Z`) / 864e5), recent = [];
+    let pick = pool[0];
+    for (let d = Math.floor(FEATURE_EPOCH / 864e5); d <= today; d++) {
+      const block = new Set(recent);
+      let best = null, bestKey = "";
+      for (const b of pool) { if (block.has(b)) continue; const k = rank(d, b); if (!best || k < bestKey) { best = b; bestKey = k; } }
+      pick = best; recent.push(best); if (recent.length > FEATURE_GAP) recent.shift();
+    }
+    return pick;
+  })();
   const popular = core.filter(b => b !== featured).slice(0, 48);
   const recent = Object.entries(pageDateLedger).map(([slug, d]) => ({ slug, m: d.modified })).sort((a, b) => b.m.localeCompare(a.m)).map(x => LISTED.find(b => urlSlugOf(b) === x.slug)).filter(Boolean).filter(b => !popular.includes(b) && b !== featured).slice(0, 12);
   const stats = { brands: listedTotal, logos: LISTED.filter(hasLogo).length, bici: LISTED.filter(b => Array.isArray(b.logoHistory) && b.logoHistory.length > 1).length, industries: industryGroups.length, countries: countryDrafts.length, collections: collectionDrafts.length };
@@ -437,25 +454,37 @@ const koMonthDay = (iso) => { const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(String(is
   // 매거진 — 브랜드 여러 곳을 한 주제로 엮은 기획 기사(최신 3편).
   const magLogos = (a) => referencedSlugs(a).map(sl => BRAND_BY_SLUG.get(sl)).filter(b => b && hasLogo(b)).slice(0, 5);
   const magTeaser = ARTICLES.length ? `<section class="section mag-teaser"><div class="wrap"><div class="section-head"><h2>아틀라스 매거진</h2><p>브랜드 여러 곳을 나란히 놓고 읽는 기획 기사</p><a class="more" href="${H}magazine/">이번 호 전체 →</a></div><div class="mag-cards">${ARTICLES.slice(0, 3).map(a => `<a class="mag-card" href="${H}magazine/${a.slug}.html"><small>No.${String(a.issue).padStart(2, "0")} · ${esc(a.kicker)}</small><b>${esc(a.title)}</b><p>${esc(a.dek)}</p><span class="logos">${magLogos(a).map(b => `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">`).join("")}</span></a>`).join("")}</div></div></section>` : "";
-  const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(featuredText)}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div><a class="card photo" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async"></a></div>`;
+  const featHref = `${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html`;
+  const credit = featured.imageCredit ? `<small class="credit">사진: ${esc(featured.imageCredit.artist)} · ${esc(featured.imageCredit.license)} · 위키미디어 커먼즈</small>` : "";
+  const featVisual = isPhoto(featured)
+    ? `<a class="card photo" href="${featHref}"><img src="${assetHref(featured.image, H)}" alt="${esc(displayName(featured))} 브랜드 이미지" decoding="async">${credit}</a>`
+    : `<a class="card photo logo-only" href="${featHref}"><img src="${assetHref(featured.logo, H)}" alt="${esc(displayName(featured))} 로고" decoding="async"></a>`;
+  const feat = `<div class="today"><div class="card dark"><span class="kicker" style="color:#ff8a8e">오늘의 브랜드 · ${TODAY}</span><h3>${esc(displayName(featured))}</h3><p>${esc(featuredText)}</p><div class="chips"><a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(featured))}.html">브랜드 읽기</a><a class="chip" href="${H}category/${featured.domainSlug}.html">${esc(featured.industry)}</a></div></div>${featVisual}</div>`;
+  // 브랜드 연대기(/brand-history/) — 홈 첫 화면 바로 아래. 로고는 연대기용 썸네일(images/history/)을 쓴다.
+  const HIST_THUMBS = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, "images/history/manifest.json"), "utf8")); } catch { return {}; } })();
+  const histBySlug = new Map(BRANDS.map(b => [b.slug, b]));
+  const bhTeaser = fs.existsSync(path.join(ROOT, HISTORY_PATH, "index.html")) ? historyTeaser(ROOT, { bySlug: histBySlug, esc, prefix: H,
+    logoSrc: (b) => { const t = HIST_THUMBS[b.slug]; return t && t.src === b.logo ? t.file : (hasLogo(b) ? b.logo : null); } }) : "";
   const body = `<section class="hero"><div class="wrap"><span class="kicker">브랜드 사전 · 로고 아카이브</span><h1>브랜드의 역사와 <span class="red">아이덴티티</span>를<br>한글로 기록합니다</h1><p class="lead">${stats.brands}개 브랜드의 시작과 성장, 브랜드 아이덴티티, 로고 변천사를 한 페이지에 정리했습니다. 한글 이름으로도, 원어 이름으로도, 초성만으로도 찾을 수 있습니다.</p><form class="hero-search" role="search" action="${H}pages/search.html" method="get"><label class="sr-only" for="home-q">브랜드 검색</label><input id="home-q" name="q" type="search" placeholder="브랜드명 또는 초성 (예: 구찌, ㄱㅉ, gucci)" autocomplete="off"><button type="submit">검색</button></form><div class="chips"><span class="lbl">인기 검색어</span>${keywords.map(k => `<a class="chip" href="${H}pages/search.html?q=${encodeURIComponent(k)}">${esc(k)}</a>`).join("")}</div><div class="stats">${stat("pages/ganada.html", stats.brands, "수록 브랜드")}${stat("pages/bici.html", stats.logos, "로고 이미지")}${stat("pages/industry.html", stats.industries, "산업 분류")}${stat("pages/collections.html", stats.collections, "테마 컬렉션")}${stat("pages/countries.html", stats.countries, "국가 허브")}</div><p class="stats-asof">${TODAY.replace(/^(\d{4})-(\d{2})-(\d{2})$/, (m, y, mo, d) => `${y}년 ${Number(mo)}월 ${Number(d)}일`)} 기준</p></div></section>
+${bhTeaser}
 <section class="section"><div class="wrap"><div class="section-head"><h2>오늘의 브랜드</h2><p>한 브랜드를 골라 깊이 읽어 봅니다</p></div>${feat}</div></section>
 ${magTeaser}
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${PINNED_STYLE}<div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>주요 브랜드</h2><p>한글 표기·로고·본문을 모두 갖춘 브랜드 가운데 자료가 풍부한 순</p></div>${tiles(popular, H, { sub: "origin", size: "lg", eagerFirst: true })}<p style="margin-top:18px"><a class="btn ghost" href="${H}pages/bici.html">로고 아카이브 전체 보기</a></p></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p><a class="more" href="${H}rss.xml">RSS 구독 →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>가나다 · ABC 색인</h2><a class="more" href="${H}pages/ganada.html">색인 전체 →</a></div>${indexNav("", H)}<div class="section-head" style="margin-top:26px"><h2>컬렉션</h2><a class="more" href="${H}pages/collections.html">컬렉션 전체 →</a></div><nav class="chips" aria-label="컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip" href="${H}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav><div class="section-head" style="margin-top:26px"><h2>국가별</h2><a class="more" href="${H}pages/countries.html">국가별 전체 →</a></div><nav class="chips" aria-label="국가별">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip" href="${H}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav></div></section>
-<section class="section"><div class="wrap"><div class="about-strip"><div><b>없는 표기를 만들지 않습니다</b><p>한글 표기가 확인된 브랜드만 한글로 적고, 나머지는 원어를 그대로 씁니다.</p></div><div><b>검증된 사실만 표에 넣습니다</b><p>기원 국가·설립연도는 검수된 설명이나 공식 사이트가 일치하는 위키데이터에서만 가져옵니다.</p></div><div><b>로고 변천까지 기록합니다</b><p>${stats.bici}개 브랜드의 로고 변천사를 상세 페이지에 실었습니다.</p></div></div><p style="margin-top:16px"><a class="more" href="${H}pages/about.html">브랜드 아틀라스 소개와 편집 원칙 →</a></p></div></section>`;
+<section class="section"><div class="wrap"><div class="about-strip"><div><b>없는 표기를 만들지 않습니다</b><p>한글 표기가 확인된 브랜드만 한글로 적고, 나머지는 원어를 그대로 씁니다.</p></div><div><b>검증된 사실만 표에 넣습니다</b><p>기원 국가·설립연도는 검수된 설명이나 공식 사이트가 일치하는 위키데이터에서만 가져옵니다.</p></div><div><b>로고 변천까지 기록합니다</b><p>${stats.bici}개 브랜드의 로고 변천사를 상세 페이지에 실었습니다.</p></div></div><p style="margin-top:16px"><a class="more" href="${H}pages/about.html">브랜드 아틀라스 소개와 편집 원칙 →</a></p></div></section>
+${archetyposBanner("home")}`;
   const title = "브랜드 아틀라스 — 브랜드 사전·로고 아카이브";
   const desc = `${stats.brands}개 브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 한글·원어·초성으로 검색하고 산업별·국가별·가나다순으로 찾아봅니다.`;
   const jsonLd = JSON.stringify({ "@context": "https://schema.org", "@graph": [
-    { "@type": "WebSite", name: "브랜드 아틀라스", alternateName: "Brand Atlas", url: `${ORIGIN}/`, description: desc, inLanguage: "ko-KR", publisher: { "@type": "Organization", name: "브랜드성장연구소 아키타이포스", url: `${ORIGIN}/`, logo: { "@type": "ImageObject", url: `${ORIGIN}/assets/objects/archetypos_logo.png` } }, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${ORIGIN}/pages/search.html?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
+    { "@type": "WebSite", name: "브랜드 아틀라스", alternateName: "Brand Atlas", url: `${ORIGIN}/`, description: desc, inLanguage: "ko-KR", publisher: { "@type": "Organization", name: "브랜드성장연구소 아키타이포스", url: ARCHETYPOS_URL, sameAs: [ARCHETYPOS_URL], logo: { "@type": "ImageObject", url: `${ORIGIN}/assets/objects/archetypos_logo.png` } }, potentialAction: { "@type": "SearchAction", target: { "@type": "EntryPoint", urlTemplate: `${ORIGIN}/pages/search.html?q={search_term_string}` }, "query-input": "required name=search_term_string" } },
     { "@type": "ItemList", name: "주요 브랜드", numberOfItems: popular.length, itemListElement: popular.slice(0, 48).map((b, i) => ({ "@type": "ListItem", position: i + 1, name: displayName(b), url: `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html` })) },
   ] });
   // 홈 전용 스타일 — styles.css를 바꾸면 CSS_V를 올려야 하고 전 페이지가 다시 쓰인다.
-  const homeStyle = `<style>.today .card.dark .chips{margin-top:auto}.stats{grid-template-columns:repeat(5,1fr);max-width:900px}.stats-asof{margin-top:10px;font-size:12px;color:var(--muted)}@media(max-width:767px){.stats{grid-template-columns:repeat(2,1fr)}}</style>`;
+  const homeStyle = `<style>.today .card.dark .chips{margin-top:auto}.today .photo{position:relative}.today .photo.logo-only{display:flex;align-items:center;justify-content:center;padding:40px;background:#fff}.today .photo.logo-only img{width:min(78%,440px);height:auto;max-height:240px;min-height:0;object-fit:contain;border-radius:0}.today .photo .credit{position:absolute;right:10px;bottom:10px;max-width:calc(100% - 20px);padding:3px 8px;border-radius:6px;background:rgba(0,0,0,.55);color:#fff;font-size:11px;line-height:1.4}.stats{grid-template-columns:repeat(5,1fr);max-width:900px}.stats-asof{margin-top:10px;font-size:12px;color:var(--muted)}@media(max-width:767px){.stats{grid-template-columns:repeat(2,1fr)}}</style>`;
   const countUp = `<script>(()=>{const els=document.querySelectorAll('.stats b[data-count]');if(!els.length||!('IntersectionObserver'in window)||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const run=el=>{const n=+el.dataset.count,t0=performance.now(),d=900;const f=t=>{const p=Math.min(1,(t-t0)/d),v=Math.round(n*(1-Math.pow(1-p,3)));el.textContent=v.toLocaleString('ko-KR');if(p<1)requestAnimationFrame(f)};requestAnimationFrame(f)};const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){io.unobserve(e.target);run(e.target)}}),{threshold:.6});els.forEach(el=>io.observe(el))})();</script>`;
-  const html = page({ title, desc, canonical: `${ORIGIN}/`, bodyHtml: homeStyle + body + countUp, active: "", prefix: "", jsonLd, ogImage: `${ORIGIN}/assets/objects/world_map_dots.png`, extraHead: '<meta name="naver-site-verification" content="a5a82f7a952f8b6756924f50e705050cca7aa574">' });
+  const html = page({ title, desc, canonical: `${ORIGIN}/`, bodyHtml: homeStyle + body + countUp, active: "", prefix: "", jsonLd, ogImage: `${ORIGIN}/assets/objects/world_map_dots.png`, extraHead: '<meta name="naver-site-verification" content="a5a82f7a952f8b6756924f50e705050cca7aa574">' + archetyposFontLink });
   writeIfChanged(path.join(ROOT, "index.html"), html);
   console.log(`index.html: featured=${featured.name}, popular=${popular.length}, recent=${recent.length}`);
 }
@@ -526,6 +555,7 @@ const hubEntries = [
   ...countryDrafts.map(({ slug }) => [`/country/${slug}.html`, `country/${slug}.html`]),
   ...collectionDrafts.map(({ c }) => [`/collection/${c.slug}.html`, `collection/${c.slug}.html`]),
   ...(ARTICLES.length ? [["/magazine/", "magazine/index.html"]] : []),
+  ...(fs.existsSync(path.join(ROOT, HISTORY_PATH, "index.html")) ? [[`/${HISTORY_PATH}`, `${HISTORY_PATH}index.html`]] : []),
 ].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)])
   // 기사 lastmod는 원고의 공개일·수정일(파일 mtime은 재빌드마다 바뀐다).
   .concat(ARTICLES.map(a => [`${ORIGIN}/magazine/${a.slug}.html`, a.modified || a.date]));
@@ -590,6 +620,7 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     `- [국가별](${ORIGIN}/pages/countries.html): ${countryDrafts.length}개국`,
     `- [컬렉션](${ORIGIN}/pages/collections.html): ${collectionDrafts.length}개 테마(AI·핀테크·항공사 등)`,
     `- [로고 아카이브](${ORIGIN}/pages/bici.html): 로고·BI/CI 변천`,
+    `- [브랜드 연대기](${ORIGIN}/${HISTORY_PATH}): 인장에서 AI까지 — 표식·상표법·브랜드 탄생·로고·컬러·광고·이론·디지털을 연도별로 나란히 놓은 연대기`,
     `- [타임라인](${ORIGIN}/pages/timeline.html): 설립연도별`,
     `- [인사이트](${ORIGIN}/pages/insights.html): 브랜드별 관점`,
     `- [소개·편집 원칙](${ORIGIN}/pages/about.html)`,

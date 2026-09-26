@@ -78,6 +78,12 @@ URL이 이미 색인·301 그래프에 들어 있어서다. 로고나 한글 표
 `images/logos|photos|bici/`로 내려받는다(namu.wiki는 봇 차단이라 불가 → 로고 없음 처리 후 공식 사이트에서
 재수집). 위키미디어는 호스트별 직렬화·식별 UA가 없으면 429를 돌려준다.
 
+**대표 사진(2026-09-23)**: `scripts/fetch-wikidata-photos.mjs`가 QID 확정 core 브랜드에서 P18을 `images/photos/<slug>-wd-*.jpg`로 받고
+저작자·라이선스를 `brand.imageCredit`에 남긴다(자유 라이선스·600px 이상·SVG/로고 파일 제외). 사진을 싣는 곳에는 저작자를 표기한다.
+인물 사진은 초상권 때문에 싣지 않는다 — 육안 검수 후 스크립트의 `EXCLUDE`에 넣는다.
+홈 '오늘의 브랜드'는 core + 로고 + 본문 200자 이상 전체가 후보이고(사진 없으면 로고 카드), 날짜 해시 최솟값으로 고르되
+직전 `pool/2`일(최대 365일)에 나온 브랜드는 뺀다 — 상태 파일 없이 2026-09-01부터 매일을 재계산한다(`build-seo-extras.mjs`).
+
 **Wikidata 팩트(`brand.wikidata`)**는 `scripts/enrich-wikidata-facts.mjs`가 entityLinks(QID 확정분)에서만
 P17·P571·P159·P112·P749·P154를 가져온다. `countryOf()`/`foundedYear()`는 definition 근거가 없을 때만 이
 값을 폴백으로 쓴다. 팩트 표(`factRows()`)는 값마다 출처를 남긴다.
@@ -130,6 +136,15 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 - 로고 승인·반려는 매거진 trigger로 서버 작업을 깨우고, 공개 지문(`magazine-fp.mjs`)에 검수 결과가 들어 있어 즉시 다시 공개된다.
   작업이 도는 동안(빌드 11분) 누른 신호는 path 유닛이 버리므로, magazine-job.sh가 끝날 때 신호 파일이 시작 이후 바뀌었으면 다시 돈다.
 - 게이트웨이·위키 API 장애로 난 기각은 원장에 남기지 않는다(다음 주에 다시 후보). 목표에 도달해 못 쓴 후보도 마찬가지.
+- **브랜드 요청(2026-09-22)**: 어드민 '브랜드 수록' 탭 맨 위 '브랜드 요청 추가'에서 이름으로 검색(위키데이터 레이블·별칭 + 한국어 위키백과) →
+  정확도 순(이름 일치 > 기업 근거 속성 > 한국어 문서 > 문서 언어 수) → '사전에 추가'가 `data/catalog/requests.json`에 넣고 trigger를 건다.
+  `magazine-job.sh` ②-b가 `scripts/server/catalog-requests.mjs`로 주간 수록과 같은 검증(`import-wikidata-brands.mjs --only`, 한국어 근거 → 짧으면 영문)을 돌리고,
+  수록되면 공개 지문이 바뀌어 같은 실행에서 빌드·공개된다. 판정(`_entity_view`)은 수록 스크립트의 BLOCK_P31·BUSINESS_PROPS를 읽어 쓴다.
+  위키백과 문서가 없는 브랜드는 근거가 없어 수록하지 않는다(§2). 같은 원장·키(brandatlas-catalog, 하루 40)를 쓴다.
+- **로고 직접 올리기(2026-09-22)**: 어드민 '로고 올리기' 탭. 브라우저가 800px로 줄여 PNG/JPEG로 보내고(SVG는 여기서 PNG가 된다 —
+  서버는 PNG·JPEG·WebP만 받는다. SVG는 사이트 출처에서 스크립트가 돌 수 있다), 어드민이 `~/brandatlas-admin/data/logo-uploads/`(manifest.json +
+  `<slug>-up-<hash8>.<ext>`)에 둔다. 서버 `build_site`가 `apply-logo-uploads.mjs --from`으로 `content/logo-uploads/`에 옮겨 반영하고(자동 수집 로고보다 우선,
+  지우면 `logoBeforeUpload`로 복귀), 공개 지문에 manifest가 들어 있어 올리는 즉시 다시 공개된다. 로컬 배포는 `content/logo-uploads/`를 받아 와 반영한다(미러 제외).
 
 ## 2-d. 테마 컬렉션 (2026-09-12)
 
@@ -161,7 +176,7 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
   `::quote 문장 | 출처`, `[글](brand:slug)`.
 - 연결: 홈 '아틀라스 매거진'(최신 3편), 브랜드 페이지 '매거진에서 읽기'(본문 해시 뒤에 붙여 신선도 원장에 영향 없음),
   sitemap-hubs(lastmod = 원고 date/modified), RSS(`[매거진]` 항목), llms.txt.
-- 빌드 순서: `build-brand-pages` → `build-magazine` → `build-seo-extras`.
+- 빌드 순서: `build-brand-pages` → `build-magazine` → `build-brand-history` → `build-seo-extras`.
 
 **매거진 관련 작업은 전부 배포 서버에서 돈다(2026-09-13 사용자 지시 — "이거 중요해").** 원고의 원본도 서버다.
 
@@ -173,6 +188,7 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
    · 주 1회: 월 05:10 주간 리프레시(brandatlas-weekly)가 먼저 `magazine-job.sh --no-publish`(초안·배정)를 부르고, 전체 빌드에서 그날 공개일 기사를 연다
    · path: 어드민 '지금 시작'·승인·반려 → data/magazine/trigger 변경 → 즉시 실행(③ 공개까지)
    · 게이트웨이 키: 매거진 전용 클라이언트 brandatlas-magazine(하루 20, research와 한도 분리, 2026-09-14) — ~/brandatlas-admin/llm-gateway-key
+   · 모델: provider "claude"(2026-09-23) — model은 보내지 않는다(게이트웨이가 claude-sonnet-5로 정한다). timeout_ms 480000(5분이면 잘린다)
    ① 자동 준비 ON이고 (예약 ≤14일치 → 하루 1회 | '지금 시작') → magazine-auto.mjs: 각도 선정 → 게이트웨이(127.0.0.1:5055) 초안
       → 자동 검증(숫자·slug·국가 혼동·금지 표현·분량·humanize) → 실패 시 1회 재작성 → 대기열. 한도로 오래 기다려야 하면 exit 75(다음 시각 재시도)
    ② magazine-sync.mjs: 어드민 승인·반려 반영, 승인분을 그 달 빈 월요일에 배정해 content/magazine/으로(meta.auto=true)
@@ -191,6 +207,23 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 `scripts/clean-archive-boilerplate.mjs`(멱등)가 구조화 값으로 다시 쓴다. 디렉토리 목록의 공개 명칭은 '원어 표기 브랜드'.
 지수 구성 기업(S&P 500·나스닥100, `b.indexMember` — `apply-index-sectors.mjs`가 표시)은 한글 표기·로고가 없어도 목록에 올린다.
 
+## 2-f. 브랜드 연대기 (2026-09-26)
+
+`/brand-history/` — 인장에서 AI까지 473개 사건을 10개 분야×8개 시대 격자로 놓은 연대기. 홈 첫 화면(히어로 바로 아래) 티저·주 메뉴 '연대기'·푸터에서 연결한다.
+
+```
+content/brand-history/brand-history.html   원본(편집자 단일 HTML). 새 판은 이 파일만 바꿔 넣는다 — 빌더가 LANES·ERAS·RAW 배열을 읽는다
+content/brand-history/links.json           "연도|제목" → 브랜드 slug. 사전 연결은 여기 적힌 것만(이름 유사 자동 연결 금지)
+scripts/lib/brand-history.mjs              로더·홈 티저·브랜드 페이지 역링크용 맵
+scripts/build-brand-history.mjs            → brand-history/index.html (정적 시맨틱 목록 + JSON-LD) · reports/brand-history.json
+assets/brand-history.{js,css}              격자는 정적 목록(#bh-list li)을 읽어 그린다 — 본문과 화면이 한 원천
+scripts/make-history-logos.py              images/history/<slug>.webp 썸네일(최대 200x100, 평균 4KB) + manifest. 연결 추가 후 실행
+```
+- 연결 기준: 항목이 그 브랜드 자체의 창업·로고·색·광고를 다룰 때만. 이름이 같아도 다른 회사면 잇지 않는다(1887 야마하 ≠ 야마하 발동기, 삼성상회 ≠ 삼성전자).
+- 연대기 연도는 원본의 값이다. 사전의 `foundedYear()`와 다른 창업 항목은 `reports/brand-history.json`의 `yearDiffs`에 남기고 고치지 않는다.
+- 썸네일은 manifest의 원본 경로가 현재 `b.logo`와 같을 때만 쓴다(어드민 로고 교체 시 원본으로 폴백).
+- 브랜드 페이지의 '브랜드 연대기에서 보기'는 매거진 역링크처럼 본문 해시 뒤에 붙는다(신선도 원장 영향 없음).
+
 ## 3. 빌드·배포
 
 ```bash
@@ -203,6 +236,7 @@ node scripts/prune-logo-history.mjs         # 파일 없는 BI/CI 항목 제거
 # 사이트 빌드(순서 고정)
 node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin/directory 판정 + 신선도 원장
 node scripts/build-magazine.mjs        # 아틀라스 매거진(공개일이 지난 원고만, 숫자 검증 실패 시 중단)
+node scripts/build-brand-history.mjs   # 브랜드 연대기(/brand-history/)
 node scripts/build-seo-extras.mjs      # 허브·홈·가나다·국가·로고월·sitemap·RSS·robots·llms.txt·검색 인덱스
 ```
 

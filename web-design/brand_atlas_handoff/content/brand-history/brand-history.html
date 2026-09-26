@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>브랜드의 역사, 인장에서 AI까지</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#D8DBE0;--paper:#ECEEF1;--paper2:#E4E7EB;--ink:#15171B;--muted:#586070;--line:rgba(21,23,27,.12);--panel:#F8F9FA;--shadow:rgba(20,24,32,.22);color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14161B;--paper:#1C1F25;--paper2:#191C21;--ink:#ECEEF2;--muted:#9AA2AF;--line:rgba(236,238,242,.1);--panel:#22262D;--shadow:rgba(0,0,0,.55);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#14161B;--paper:#1C1F25;--paper2:#191C21;--ink:#ECEEF2;--muted:#9AA2AF;--line:rgba(236,238,242,.1);--panel:#22262D;--shadow:rgba(0,0,0,.55);color-scheme:dark}
+html{height:100%;scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;height:100%;background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;align-items:flex-end;gap:12px 20px;padding:14px 18px 10px;flex-wrap:wrap}
+h1{margin:0;font-size:clamp(22px,3.2vw,36px);font-weight:700;letter-spacing:-.035em;line-height:1}
+.sub{color:var(--muted);font-size:13px;margin-top:7px}
+.tools{margin-left:auto;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+button,input{font:inherit;font-size:13px}
+button{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:7px 13px;border-radius:999px;cursor:pointer;white-space:nowrap}
+button:hover{border-color:var(--muted)}
+button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+button:focus-visible,input:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.search{position:relative}
+.search input{width:200px;max-width:56vw;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:7px 44px 7px 13px;border-radius:999px}
+.search small{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:11px;pointer-events:none}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:0 18px 10px}
+.chips::-webkit-scrollbar{display:none}
+.chips button{padding:5px 11px;font-size:12px;display:flex;align-items:center;gap:6px;flex:none}
+.chips button i{width:10px;height:10px;border-radius:2px;flex:none}
+.chips button[aria-pressed]{background:var(--panel);color:var(--ink);border-color:var(--muted)}
+.chips button[aria-pressed="false"]{opacity:.45;border-color:var(--line)}
+#wrap{position:relative;flex:1;min-height:0;display:flex}
+#sc{flex:1;overflow:auto;position:relative;overscroll-behavior:contain}
+#grid{--cols:10;min-width:calc(78px + var(--cols) * 116px);}
+.lh,.row{display:grid;grid-template-columns:78px repeat(var(--cols),minmax(116px,1fr))}
+.lh{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line)}
+.lh div{padding:8px 8px 7px;font-size:12px;font-weight:700;letter-spacing:-.01em;line-height:1.25;border-top:4px solid var(--lc);color:var(--ink)}
+.lh div:first-child{border-top-color:transparent;color:var(--muted);font-weight:500;position:sticky;left:0;background:var(--bg);z-index:2}
+.era{position:sticky;top:var(--lhh,44px);z-index:10;color:#fff;padding:10px 14px 9px;display:flex;align-items:baseline;gap:6px 14px;flex-wrap:wrap}
+.era b{font-size:clamp(20px,2.4vw,30px);letter-spacing:-.035em;line-height:1}
+.era span{font-size:13px;opacity:.9}
+.era em{font-style:normal;font-size:12px;opacity:.8;margin-left:auto;font-variant-numeric:tabular-nums}
+.row{transform-origin:50% 0;border-bottom:1px solid var(--line);background:var(--paper)}
+.row.alt{background:var(--paper2)}
+.yr{position:sticky;left:0;z-index:3;background:inherit;padding:8px 6px 8px 10px;font-size:13px;font-weight:700;letter-spacing:-.02em;line-height:1.2;font-variant-numeric:tabular-nums;border-right:1px solid var(--line)}
+.yr small{display:block;font-size:10.5px;font-weight:500;color:var(--muted);margin-top:2px}
+.cell{padding:3px;display:flex;flex-direction:column;gap:3px;border-right:1px solid var(--line);min-width:0}
+.cell.off,.lh .off{display:none}
+.card{padding:5px 7px 6px 8px;border-left:3px solid rgba(0,0,0,.28);cursor:pointer;line-height:1.22;transition:transform .22s,box-shadow .22s,opacity .3s;min-width:0}
+.card b{display:block;font-size:10.5px;font-weight:700;opacity:.8;font-variant-numeric:tabular-nums}
+.card .t{display:block;font-size:12.5px;font-weight:700;letter-spacing:-.015em;overflow-wrap:anywhere}
+.card .d{display:-webkit-box;font-size:10.5px;opacity:.85;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:1px}
+.card:hover{transform:translateZ(30px) scale(1.04);box-shadow:0 12px 24px var(--shadow);position:relative;z-index:5}
+.card:focus-visible{outline:3px solid var(--ink);outline-offset:1px}
+.card.on{box-shadow:0 0 0 3px var(--ink),0 12px 26px var(--shadow);position:relative;z-index:6}
+.card.dim{opacity:.1}
+.now{background:#E0115F;color:#fff;padding:14px 16px;font-weight:700;font-size:15px}
+.tail{height:55vh}
+#rail{width:26px;flex:none;position:relative;background:var(--paper);border-left:1px solid var(--line);cursor:pointer;touch-action:none}
+#rail .seg{position:absolute;left:5px;right:5px}
+#rail .vw{position:absolute;left:1px;right:1px;border:2px solid var(--ink);border-radius:4px;pointer-events:none}
+#detail{position:absolute;right:40px;top:14px;width:min(340px,calc(100% - 54px));max-height:calc(100% - 28px);overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:0 16px 40px var(--shadow);z-index:30}
+#detail[hidden]{display:none}
+#detail .sw{height:92px;padding:12px 16px;display:flex;align-items:flex-end;justify-content:space-between}
+#detail .py{font-size:30px;font-weight:700;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+#detail .hx{font-size:12px;font-weight:500;opacity:.9}
+#detail .x{position:absolute;top:10px;right:10px;width:32px;height:32px;padding:0;border-radius:50%;font-size:18px;line-height:1}
+#detail .bd{padding:14px 16px 16px}
+#detail h2{margin:0 0 4px;font-size:21px;letter-spacing:-.025em;line-height:1.25}
+#detail .pl{font-size:12px;color:var(--muted);margin-bottom:10px}
+#detail .pd{margin:0 0 14px;font-size:14.5px;line-height:1.6}
+#detail h3{font-size:12px;color:var(--muted);font-weight:500;margin:0 0 6px}
+#detail ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+#detail li button{width:100%;text-align:left;display:flex;gap:8px;align-items:center;border-radius:8px;padding:6px 8px;white-space:normal}
+#detail li i{flex:none;width:12px;height:12px;border-radius:3px}
+@media (max-width:640px){header{padding:10px 12px 8px}.sub{font-size:12px}.tools{margin-left:0}.chips{padding:0 12px 8px}#detail{right:34px}}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>브랜드의 역사, 인장에서 AI까지</h1>
+    <div class="sub" id="sub"></div>
+  </div>
+  <div class="tools">
+    <label class="search"><input id="q" type="search" placeholder="브랜드, 인물, 사건 찾기" aria-label="연대기 검색"><small id="qc"></small></label>
+    <button id="play" aria-pressed="false">처음부터 재생</button>
+    <button id="motion" aria-pressed="true">3D 모션</button>
+    <button id="top">맨 위로</button>
+  </div>
+</header>
+<div class="chips" id="eraChips" aria-label="시대로 이동"></div>
+<div class="chips" id="laneChips" aria-label="분야 보이기 숨기기"></div>
+<div id="wrap">
+  <div id="sc"><div id="grid"></div></div>
+  <div id="rail" aria-hidden="true"></div>
+  <aside id="detail" hidden aria-live="polite">
+    <div class="sw"><div class="py"></div><div class="hx"></div></div>
+    <button class="x" aria-label="닫기">×</button>
+    <div class="bd"><h2></h2><div class="pl"></div><p class="pd"></p><h3>같은 시기의 기록</h3><ul></ul></div>
+  </aside>
+</div>
+<script>
+const LANES=[
+ {k:'W',n:'세계사',p:['#5E6470','#737985','#4B515C']},
+ {k:'M',n:'표식, 인장, 문장',p:['#9C5B2E','#B4703A','#814A24']},
+ {k:'L',n:'상표와 법',p:['#274690','#3857A6','#1D3673']},
+ {k:'G',n:'브랜드의 탄생: 세계',p:['#C8102E','#A60D26','#D8344C']},
+ {k:'K',n:'브랜드의 탄생: 한국과 아시아',p:['#0047A0','#1B5FBF','#003A82']},
+ {k:'I',n:'로고와 아이덴티티',p:['#6A3FC2','#7F52D6','#5731A6']},
+ {k:'C',n:'브랜드 컬러',p:['#7C828C','#8E949E','#6A707A']},
+ {k:'A',n:'광고와 미디어',p:['#E9A100','#F2B630','#D18E00']},
+ {k:'T',n:'이론과 전략',p:['#12805C','#1E9A6E','#0D6649']},
+ {k:'D',n:'디지털과 AI',p:['#D6336C','#E4528A','#B82559']}
+];
+const ERAS=[
+ [-4000,500,'고대','인장, 낙인, 제작자의 이름','#8C6A3F'],
+ [500,1450,'중세','문장, 길드, 홀마크','#5B4B8A'],
+ [1450,1760,'인쇄와 상인','출판인 표장과 오래된 가게들','#2E6F73'],
+ [1760,1880,'산업혁명과 상표법','공장 제품에 이름이 붙다','#8A3B2E'],
+ [1880,1945,'대량소비의 탄생','포장, 광고, 전국 브랜드','#B5651D'],
+ [1945,1990,'기업 아이덴티티','심볼, 매뉴얼, 포지셔닝','#1F5FA8'],
+ [1990,2020,'디지털 브랜드','웹, 검색, 소셜, 앱 아이콘','#1A8F6B'],
+ [2020,2027,'AI 시대','생성형 AI와 에이전트','#C2185B']
+];
+const RAW=[
+// 세계사
+[-3200,'W','쐐기문자','수메르에서 문자가 탄생해 소유와 거래를 기록','','c.BC 3200'],
+[-2560,'W','기자 대피라미드','파라오의 권력을 드러낸 거대한 상징물','','c.BC 2560'],
+[-776,'W','첫 고대 올림픽','도시국가의 명예가 걸린 제전'],
+[-509,'W','로마 공화정','SPQR 표장 아래 국가 정체성 형성'],
+[-221,'W','진의 통일','문자, 도량형, 화폐를 하나로 표준화'],
+[-27,'W','로마 제정','황제 초상 주화가 제국 전역에 유통'],
+[105,'W','채륜의 제지술','종이가 기록과 인쇄의 바탕이 되다'],
+[476,'W','서로마 멸망','유럽 중세의 시작'],
+[618,'W','당 건국','실크로드 교역의 전성기'],
+[868,'W','금강경 목판본','연대가 확인된 현존 최고(最古) 인쇄본'],
+[1041,'W','필승의 교니활자','북송에서 활자 인쇄 시작','','c.1041'],
+[1096,'W','1차 십자군','문장과 휘장이 전장의 식별 수단으로'],
+[1206,'W','몽골 제국','유라시아를 잇는 교역망'],
+[1377,'W','직지','현존 최고 금속활자본'],
+[1446,'W','훈민정음 반포','백성을 위한 문자'],
+[1450,'W','구텐베르크 인쇄기','같은 표식이 대량 복제되기 시작','','c.1450'],
+[1492,'W','콜럼버스 항해','대서양 교역의 시작'],
+[1517,'W','종교개혁','인쇄물이 대중 설득의 도구가 되다'],
+[1600,'W','영국 동인도회사','왕실 칙허를 받은 무역 독점 기업'],
+[1760,'W','산업혁명','기계 생산이 상품을 표준화','','c.1760'],
+[1776,'W','미국 독립선언',''],
+[1789,'W','프랑스 혁명',''],
+[1839,'W','사진술 발표','다게레오타입, 이미지 복제의 시대'],
+[1851,'W','런던 만국박람회','수정궁에서 각국 상품이 경쟁'],
+[1876,'W','전화 발명','벨의 특허'],
+[1895,'W','영화의 탄생','뤼미에르 형제의 첫 유료 상영'],
+[1908,'W','포드 모델 T','대량생산 대중차'],
+[1914,'W','1차 세계대전',''],
+[1929,'W','대공황',''],
+[1939,'W','2차 세계대전',''],
+[1945,'W','종전과 광복',''],
+[1950,'W','한국전쟁',''],
+[1957,'W','스푸트니크','우주 경쟁 시작'],
+[1969,'W','아폴로 11호 달 착륙','전 세계가 TV로 지켜본 순간'],
+[1973,'W','1차 오일쇼크',''],
+[1989,'W','베를린 장벽 붕괴','세계화의 가속'],
+[1997,'W','아시아 외환위기','한국 IMF 구제금융'],
+[2001,'W','9·11 테러',''],
+[2008,'W','글로벌 금융위기','은행 브랜드 신뢰의 붕괴'],
+[2020,'W','코로나19 팬데믹','소비와 브랜드 경험이 온라인으로'],
+[2022,'W','우크라이나 전쟁','수백 개 글로벌 브랜드가 러시아 철수'],
+// 표식
+[-3500,'M','원통인장','우루크, 점토에 굴려 소유와 보증을 표시','','c.BC 3500'],
+[-3000,'M','이집트 제작자 표식','도자기, 벽돌, 석재에 공방 표시','','c.BC 3000'],
+[-2600,'M','인더스 인장','동물 문양 인장으로 교역품을 봉인','','c.BC 2600'],
+[-2000,'M','가축 낙인','이집트 벽화 속 소 낙인. brand의 어원은 고대 노르드어 brandr(불태우다)','','c.BC 2000'],
+[-1300,'M','상나라 족휘','청동기에 새긴 씨족 표장','','c.BC 1300'],
+[-600,'M','리디아 주화','사자 문양, 국가가 품질을 보증한 초기 주화','','c.BC 600'],
+[-540,'M','엑세키아스의 서명','도공과 화가의 이름이 곧 품질의 증거','','c.BC 540'],
+[-280,'M','로도스 암포라 인장','손잡이에 생산지와 관리 연도를 찍다','','BC 3세기'],
+[-239,'M','물륵공명','『여씨춘추』, 물건에 만든 이의 이름을 새겨 책임을 묻다'],
+[-104,'M','군단 독수리 아퀼라','마리우스 개혁, 군단의 상징이 된 독수리'],
+[-50,'M','로마 벽돌 인장','제작소와 소유자를 찍은 벽돌','','BC 1세기'],
+[60,'M','포르티스 등잔','FORTIS가 찍힌 등잔이 퍼지고 모조품까지 등장','','1~2세기'],
+[70,'M','움브리키우스 스카우루스','폼페이 가룸 상인, 항아리 라벨로 품질을 자랑','','c.70'],
+[79,'M','폼페이의 빵 도장','탄화된 빵에 남은 제빵소 인장'],
+[312,'M','콘스탄티누스 라바룸','키로 표장, 믿음의 상징이 군기가 되다'],
+[1100,'M','제남 유가 침포 동판','흰 토끼와 상호를 새긴 인쇄판, 최고(最古) 상표로 꼽힘','','c.1100'],
+[1135,'M','문장학의 성립','기사의 방패 문장이 가문 식별 체계로','','12세기'],
+[1155,'M','헨리 2세 직조공 칙허','왕실 인증의 기원, 로열 워런트의 뿌리'],
+[1200,'M','길드 마크','길드가 회원 제품에 품질 표식을 요구','','13세기'],
+[1230,'M','석공 표식','고딕 성당 돌마다 새긴 석공의 기호','','13세기'],
+[1266,'M','제빵사 표식 법','영국, 빵에 제빵사 표식을 찍도록 규정'],
+[1282,'M','파브리아노 워터마크','종이 속에 제지소 표식을 비추다'],
+[1300,'M','레오파드 헤드 홀마크','영국 은 순도 표준 각인'],
+[1363,'M','제작자 마크 의무화','영국 금은세공인의 개인 표식'],
+[1417,'M','조선 관사명 자기','공납 자기에 장흥고 등 관청 이름을 새기게 함'],
+[1462,'M','푸스트와 쇠퍼 표장','두 방패 인쇄인 표장, 출판 브랜드의 시작'],
+[1484,'M','영국 문장원','문장을 관리하는 기관 설립'],
+[1502,'M','알두스의 닻과 돌고래','베네치아 출판인 표장, 신뢰의 기호'],
+[1600,'M','노렌과 야고','에도 상점의 천 간판과 상호 문장','','17세기'],
+[1673,'M','에치고야의 우산','상호가 찍힌 우산을 빌려줘 거리 광고로','','c.1673'],
+[1725,'M','마이센 쌍검','도자기 가마 표식, 지금도 쓰이는 최고(最古)급 상표','','1720년대'],
+// 상표와 법
+[1623,'L','영국 독점법','독점을 제한하고 특허의 틀을 마련'],
+[1857,'L','프랑스 상표법','세계 첫 포괄적 상표 등록 제도'],
+[1862,'L','영국 상품표시법','허위 표시를 범죄로 규정'],
+[1870,'L','미국 첫 연방 상표법','에버릴 페인트의 독수리가 등록 1호'],
+[1875,'L','영국 상표등록법','등록 제도 시작'],
+[1876,'L','배스, 상표 1호','붉은 삼각형, 영국 등록 상표 1호','#D52B1E'],
+[1879,'L','미국 상표 사건','연방 상표법 위헌 판결, 1881년 새 법'],
+[1883,'L','파리 협약','산업재산권 보호 국제 조약'],
+[1891,'L','마드리드 협정','국제 상표 등록 체계'],
+[1908,'L','한국상표령','대한제국기 상표 법령'],
+[1946,'L','랜햄법','현대 미국 상표법의 근간'],
+[1949,'L','한국 상표법 제정','법률 제71호'],
+[1950,'L','NBC 차임','미국 첫 등록 소리 상표'],
+[1957,'L','니스 분류','상품과 서비스의 국제 분류'],
+[1967,'L','WIPO 설립','세계지식재산기구'],
+[1977,'L','특허청 개청','한국 지식재산 전담 기관'],
+[1985,'L','오웬스코닝 핑크','단열재 분홍색, 색채 상표 인정','#F5A3B8'],
+[1989,'L','마드리드 의정서','한 번의 출원으로 여러 나라에'],
+[1994,'L','TRIPS 협정','WTO 지식재산 규범'],
+[1995,'L','퀄리텍스 판결','미 대법원, 색 자체도 상표가 될 수 있다'],
+[1998,'L','티파니 블루 등록','색채 상표로 등록','#0ABAB5'],
+[2003,'L','한국, 마드리드 의정서 가입',''],
+[2012,'L','루부탱 빨간 밑창','미 항소법원, 대비되는 빨간 밑창 보호','#C8102E'],
+[2013,'L','캐드버리 퍼플 분쟁','영국 법원, 색 상표 등록 부정','#3D1152'],
+[2017,'L','EU 상표 개정','도형 표현 요건 폐지, 소리와 동작 상표로'],
+[2023,'L','AI 생성물 저작권 지침','미 저작권청, AI가 만든 부분은 보호 제한'],
+[2024,'L','EU AI법 발효','AI에 대한 첫 포괄적 법률'],
+// 세계 브랜드
+[1040,'G','바이엔슈테판','가장 오래된 양조장으로 알려짐','#1F3F7A'],
+[1366,'G','스텔라 아르투아','덴 호른 양조장, 라벨 속 1366','#B8292F'],
+[1383,'G','뢰벤브로이','뮌헨의 사자 맥주','#0057A8'],
+[1526,'G','베레타','현존 최고(最古)급 가족 기업','#4A4A4A'],
+[1623,'G','질지언','콘스탄티노플의 심벌 제작 가문','#B08D57'],
+[1670,'G','허드슨스베이','북미 모피 교역 회사','#1B7F4C'],
+[1706,'G','트와이닝스','런던의 차 상점','#2B2B2B'],
+[1707,'G','포트넘 앤 메이슨','오 드 닐 그린 포장','#8FD1C1'],
+[1743,'G','모엣 샹동','샴페인 하우스','#B5985A'],
+[1759,'G','기네스','9000년 임대 계약의 흑맥주','#231F20'],
+[1759,'G','웨지우드','왕실을 마케팅에 활용한 도자기','#7FA7C8'],
+[1761,'G','파버카스텔','연필','#00563F'],
+[1772,'G','뵈브 클리코','샴페인 하우스','#F7A600'],
+[1777,'G','배스','버턴의 에일 양조장','#D52B1E'],
+[1783,'G','슈웹스','탄산수','#F2C200'],
+[1802,'G','듀폰','화약에서 화학으로','#D31F26'],
+[1806,'G','콜게이트','뉴욕의 비누와 양초','#E4002B'],
+[1824,'G','캐드버리','버밍엄의 차와 코코아','#3D1152'],
+[1837,'G','티파니','뉴욕 문구·잡화점에서 출발','#0ABAB5'],
+[1837,'G','에르메스','파리의 마구(馬具) 공방','#F37021'],
+[1837,'G','P&G','양초와 비누','#003DA5'],
+[1847,'G','까르띠에','파리 보석상','#A6192E'],
+[1853,'G','리바이스','샌프란시스코 도매상','#C41230'],
+[1854,'G','루이비통','파리 트렁크 제작','#6B4226'],
+[1856,'G','버버리','개버딘 레인코트','#C19A6B'],
+[1862,'G','바카디','쿠바의 박쥐 럼','#1E1E1E'],
+[1864,'G','하이네켄','암스테르담 양조장','#00843D'],
+[1866,'G','네슬레','둥지 로고의 영유아식','#7B6A58'],
+[1866,'G','잭 다니엘','테네시 위스키','#1A1A1A'],
+[1869,'G','하인즈','피츠버그 식품','#D21F26'],
+[1869,'G','캠벨','수프 통조림','#CE1126'],
+[1886,'G','코카콜라','애틀랜타 약국의 음료','#F40009'],
+[1886,'G','존슨앤드존슨','의료용품','#D51900'],
+[1888,'G','코닥','발음이 강한 무의미어로 지은 이름','#FFB700'],
+[1889,'G','미쉐린','클레르몽페랑 타이어','#27509B'],
+[1891,'G','필립스','에인트호번 전구','#0B5ED7'],
+[1892,'G','GE','에디슨 계열 통합','#3B73B9'],
+[1893,'G','펩시','브래드의 음료로 시작, 1898년 개명','#004B93'],
+[1894,'G','허쉬','펜실베이니아 초콜릿','#5B3A29'],
+[1901,'G','질레트','일회용 면도날','#1B3F8B'],
+[1903,'G','포드','디트로이트','#003478'],
+[1903,'G','할리데이비슨','밀워키 모터사이클','#F26F21'],
+[1905,'G','롤렉스','런던에서 출발한 시계','#006039'],
+[1906,'G','켈로그','시리얼','#D2202F'],
+[1909,'G','셀프리지','런던 백화점, 셀프리지 옐로','#FFE500'],
+[1911,'G','CTR','1924년 IBM으로 개명','#1F70C1'],
+[1913,'G','프라다','밀라노 가죽','#2A2A2A'],
+[1916,'G','BMW','바이에른','#0066B1'],
+[1921,'G','구찌','피렌체 가죽','#1B5E20'],
+[1923,'G','디즈니','할리우드 애니메이션','#113CCF'],
+[1926,'G','메르세데스-벤츠','다임러와 벤츠의 합병','#8E9094'],
+[1932,'G','레고','덴마크어 leg godt, 잘 놀아라','#E3000B'],
+[1937,'G','폭스바겐','국민차','#001E50'],
+[1940,'G','맥도날드','샌버너디노 바비큐 식당','#FFC72C'],
+[1943,'G','이케아','스웨덴 우편 판매','#0058A3'],
+[1947,'G','페라리','마라넬로','#D40000'],
+[1947,'G','크리스찬 디올','뉴 룩','#2D2926'],
+[1948,'G','푸마','다슬러 형제의 분리','#1D1D1B'],
+[1949,'G','아디다스','아디 다슬러','#1D1D1B'],
+[1954,'G','버거킹','마이애미','#D62300'],
+[1959,'G','바비','마텔의 패션 인형','#E0218A'],
+[1962,'G','월마트','아칸소','#0071CE'],
+[1963,'G','람보르기니','산타가타','#DDB321'],
+[1968,'G','인텔','실리콘밸리','#0071C5'],
+[1971,'G','나이키','블루리본에서 개명, 승리의 여신','#F05A28'],
+[1971,'G','스타벅스','시애틀의 원두 상점','#00704A'],
+[1975,'G','마이크로소프트','앨버커키','#00A4EF'],
+[1976,'G','애플','차고에서 시작','#A2AAAD'],
+[1982,'G','어도비','포스트스크립트','#FA0F00'],
+[1987,'G','레드불','오스트리아 출시','#DB0A40'],
+[1994,'G','아마존','1995년 온라인 서점으로 오픈','#FF9900'],
+[1995,'G','이베이','경매 사이트','#E53238'],
+[1995,'G','야후','웹 디렉터리','#6001D2'],
+[1997,'G','넷플릭스','DVD 우편 대여','#E50914'],
+[1998,'G','구글','차고의 검색 엔진','#4285F4'],
+[2003,'G','테슬라','전기차','#CC0000'],
+[2004,'G','페이스북','하버드 기숙사','#1877F2'],
+[2005,'G','유튜브','Broadcast Yourself','#FF0000'],
+[2006,'G','트위터','140자','#1DA1F2'],
+[2006,'G','스포티파이','스톡홀름 스트리밍','#1DB954'],
+[2008,'G','에어비앤비','에어 매트리스 숙박','#FF5A5F'],
+[2009,'G','우버','샌프란시스코 차량 호출','#1F1F1F'],
+[2010,'G','인스타그램','정사각형 사진','#C13584'],
+[2015,'G','오픈AI','샌프란시스코 AI 연구소','#10A37F'],
+[2016,'G','피그마','브라우저 디자인 도구','#A259FF'],
+[2023,'G','엔비디아','AI 칩 수요로 시가총액 1조 달러','#76B900'],
+// 한국과 아시아
+[578,'K','곤고구미','오사카 사찰 건축, 최장수 기업으로 꼽힘','#7A4E2D'],
+[705,'K','니시야마 온센 게이운칸','야마나시 료칸, 최장수 호텔 기록','#6D8B74'],
+[1663,'K','장샤오촨','항저우 가위, 이름이 곧 품질 보증','#A12A2A'],
+[1669,'K','동인당','베이징 한약방','#9E1B1B'],
+[1872,'K','시세이도','긴자의 양약국','#C8102E'],
+[1881,'K','세이코','도쿄 시계점','#0A2240'],
+[1887,'K','야마하','오르간 수리에서 출발','#4B1E78'],
+[1889,'K','닌텐도','교토 화투 제조','#E60012'],
+[1896,'K','박승직상점','종로 포목점, 두산의 뿌리','#005EB8'],
+[1897,'K','동화약품 활명수','국내 최초 제약회사','#1F6F3A'],
+[1910,'K','부채표 상표 등록','국내 최초 등록 상표로 알려짐','#2E8B57'],
+[1916,'K','박가분','상품 화장품의 효시로 꼽힘','#E7A3B0'],
+[1917,'K','니콘','일본광학','#FFE100'],
+[1918,'K','마쓰시타','오사카 소켓, 파나소닉의 뿌리','#0041C0'],
+[1924,'K','진로','두꺼비 상표는 1954년','#0F4C9C'],
+[1926,'K','유한양행','버들표','#00A651'],
+[1937,'K','토요타','도요다에서 탁음을 뺀 이름','#EB0A1E'],
+[1937,'K','캐논','관음(觀音)에서 온 이름','#CC0000'],
+[1938,'K','삼성상회','대구의 청과·건어물 무역','#1428A0'],
+[1945,'K','태평양화학','아모레퍼시픽의 시작','#0D3A79'],
+[1946,'K','소니','도쿄통신공업, 1958년 소니로','#2A2A2A'],
+[1947,'K','락희화학','럭키크림, LG의 시작','#A50034'],
+[1947,'K','현대토건','현대의 시작','#002C5F'],
+[1948,'K','혼다','하마마쓰','#CC0000'],
+[1953,'K','제일제당','설탕, CJ의 시작','#F58220'],
+[1956,'K','동양제과','오리온의 시작','#D71921'],
+[1959,'K','금성 A-501','국산 1호 라디오','#A50034'],
+[1961,'K','박카스','동아제약 자양강장제','#F6A01A'],
+[1965,'K','롯데공업','1978년 농심으로 개명','#E60012'],
+[1969,'K','삼성전자','수원','#1428A0'],
+[1971,'K','새우깡','국내 첫 스낵','#D52B1E'],
+[1974,'K','초코파이 정','오리온','#D71921'],
+[1974,'K','바나나맛우유','항아리 용기','#F9D949'],
+[1976,'K','현대 포니','주지아로가 디자인한 첫 고유 모델','#002C5F'],
+[1980,'K','무인양품','다나카 잇코, 이름 없는 좋은 물건','#7F0019'],
+[1984,'K','유니클로','히로시마 1호점','#FF0000'],
+[1986,'K','신라면','농심','#E60012'],
+[1987,'K','화웨이','선전','#CF0A2C'],
+[1997,'K','설화수','아모레퍼시픽 한방 화장품','#B48A3C'],
+[1999,'K','네이버','검색 포털','#03C75A'],
+[1999,'K','싸이월드','미니홈피와 도토리','#F26522'],
+[1999,'K','알리바바','항저우','#FF6A00'],
+[2010,'K','카카오톡','모바일 메신저','#FEE500'],
+[2010,'K','배달의민족','우아한형제들','#2AC1BC'],
+[2010,'K','쿠팡','소셜커머스로 시작','#E52528'],
+[2010,'K','샤오미','베이징','#FF6900'],
+[2011,'K','위챗','텐센트','#07C160'],
+[2013,'K','방탄소년단','K-팝이 국가 브랜드가 되다','#6A1B9A'],
+[2016,'K','더우인','바이트댄스, 이듬해 해외판 틱톡','#FE2C55'],
+[2020,'K','BTS Dynamite','빌보드 핫100 1위','#7B2CBF'],
+[2021,'K','오징어 게임','넷플릭스 K-콘텐츠','#ED1B76'],
+// 로고와 아이덴티티
+[1602,'I','VOC 모노그램','네덜란드 동인도회사, 최초의 기업 로고로 불림','#E87722'],
+[1787,'I','트와이닝스 로고','계속 쓰이는 가장 오래된 로고 중 하나','#2B2B2B'],
+[1887,'I','코카콜라 필기체','프랭크 로빈슨의 스펜서체 로고','#F40009'],
+[1888,'I','다미에 캔버스','루이비통 체크무늬','#6B4226'],
+[1896,'I','LV 모노그램 캔버스','위조를 막으려 조르주 비통이 고안','#6B4226'],
+[1898,'I','비벤덤','타이어로 만든 미쉐린 캐릭터','#27509B'],
+[1904,'I','셸 가리비','조개 수입상에서 온 상징','#FBCE07'],
+[1905,'I','프리스터 성냥 포스터','루시안 베른하르트, 제품과 이름만 남긴 자흐플라카트'],
+[1907,'I','베렌스와 AEG','로고, 제품, 건축까지, 최초의 CI'],
+[1908,'I','런던 지하철 라운델','원과 막대의 역명판','#DC241F'],
+[1915,'I','코카콜라 컨투어 병','어둠 속 손끝으로도 알아보는 병','#F40009'],
+[1916,'I','존스턴 서체','런던 지하철 전용서체','#DC241F'],
+[1919,'I','바우하우스','디자인 교육의 전환점'],
+[1925,'I','샤넬 CC','맞물린 두 개의 C','#1A1A1A'],
+[1927,'I','푸투라','파울 레너의 기하학 산세리프'],
+[1928,'I','미키 마우스','캐릭터가 기업의 얼굴이 되다','#113CCF'],
+[1933,'I','해리 벡 노선도','지리 대신 다이어그램','#DC241F'],
+[1933,'I','라코스테 악어','옷 바깥에 드러난 첫 로고로 꼽힘','#00573F'],
+[1940,'I','로위의 럭키 스트라이크','녹색을 흰색으로 바꾼 패키지','#C8102E'],
+[1945,'I','에르메스 마차 로고','뒤크 마차 그림','#F37021'],
+[1951,'I','CBS의 눈','윌리엄 골든'],
+[1956,'I','폴 랜드의 IBM','슬랩 세리프 워드마크','#1F70C1'],
+[1957,'I','헬베티카','막스 미딩거, 기업 서체의 표준'],
+[1960,'I','체이스 팔각형','체르마예프와 가이스마, 추상 심볼','#117ACA'],
+[1961,'I','UPS 방패','폴 랜드','#644117'],
+[1962,'I','ABC','폴 랜드의 원 속 소문자'],
+[1964,'I','도쿄 올림픽','가메쿠라 유사쿠의 붉은 원','#BC002D'],
+[1964,'I','모빌','체르마예프와 가이스마, 빨간 O','#E1261C'],
+[1967,'I','루프트한자','오틀 아이허의 디자인 매뉴얼','#05164D'],
+[1967,'I','아메리칸 항공','마시모 비녤리','#0078D2'],
+[1969,'I','벨 시스템','솔 바스','#0071BC'],
+[1971,'I','나이키 스우시','캐럴린 데이비슨, 35달러','#F05A28'],
+[1971,'I','스타벅스 사이렌','테리 헤클러','#00704A'],
+[1971,'I','셸 로고 개정','레이먼드 로위','#FBCE07'],
+[1972,'I','IBM 8줄 로고','폴 랜드','#1F70C1'],
+[1972,'I','뮌헨 올림픽','오틀 아이허의 픽토그램'],
+[1972,'I','펜타그램 설립','런던 디자인 파트너십'],
+[1972,'I','엑손','레이먼드 로위의 이중 X','#ED1B2F'],
+[1972,'I','뉴욕 지하철 지도','마시모 비녤리'],
+[1974,'I','도이체방크','안톤 슈탄코프스키, 사각 안의 사선','#0018A8'],
+[1977,'I','애플 무지개 사과','롭 재노프','#61BB46'],
+[1977,'I','I ♥ NY','밀턴 글레이저','#E4002B'],
+[1981,'I','MTV 로고','고정된 형태 없이 변하는 로고','#F5E100'],
+[1983,'I','호돌이','김현, 88 서울올림픽 마스코트','#F07C2A'],
+[1984,'I','AT&T 지구','솔 바스','#00A8E0'],
+[1986,'I','NeXT','폴 랜드의 기울어진 큐브'],
+[1986,'I','NBC 피콕','체르마예프와 가이스마','#6460AA'],
+[1993,'I','삼성 CI','파란 타원','#1428A0'],
+[1995,'I','LG 미래의 얼굴','럭키금성에서 LG로','#A50034'],
+[1999,'I','구글 로고','루스 케다, 카툴 서체','#4285F4'],
+[2000,'I','BP 헬리오스','Beyond Petroleum','#009900'],
+[2002,'I','Be the Reds','붉은악마 응원 티셔츠','#E30613'],
+[2005,'I','SK 행복날개','','#EA002C'],
+[2007,'I','런던 2012 로고','울프 올린스, 거센 논쟁','#E6007E'],
+[2009,'I','트로피카나 리디자인','판매 급감, 두 달 만에 복귀','#F28C28'],
+[2010,'I','갭 로고 철회','일주일도 안 돼 원래대로','#002B5C'],
+[2012,'I','배민 한나체','서체가 브랜드 자산이 되다','#2AC1BC'],
+[2013,'I','iOS 7 플랫 디자인','스큐어모피즘의 퇴장'],
+[2014,'I','에어비앤비 벨로','소속감의 심볼','#FF5A5F'],
+[2014,'I','반응형 로고','화면이 작아지면 단순해지는 로고'],
+[2015,'I','구글 프로덕트 산스','세리프를 벗다','#4285F4'],
+[2015,'I','I·SEOUL·U','서울 도시 브랜드'],
+[2016,'I','인스타그램 그라디언트','새 앱 아이콘','#C13584'],
+[2016,'I','마스터카드 리디자인','펜타그램','#EB001B'],
+[2017,'I','BTS 새 아이덴티티','Beyond The Scene','#6A1B9A'],
+[2018,'I','버버리 산세리프','럭셔리 로고의 획일화 논쟁','#C19A6B'],
+[2019,'I','마스터카드 이름 삭제','두 원만으로 인식','#F79E1B'],
+[2021,'I','버거킹 레트로','1969년 감성으로 돌아가다','#D62300'],
+[2021,'I','메타','페이스북 모회사 개명','#0668E1'],
+[2021,'I','기아 새 로고','이어 쓴 KIA','#05141F'],
+[2023,'I','트위터에서 X로','파랑새의 퇴장','#000000'],
+[2023,'I','펩시 새 로고','검정과 전기 파랑','#004B93'],
+[2023,'I','Seoul, my soul','서울의 새 도시 브랜드','#E4007F'],
+[2023,'I','노키아 새 로고','통신 인프라 기업으로','#005AFF'],
+[2024,'I','재규어 리브랜딩','Copy Nothing, 격렬한 반응','#C9A98F'],
+[2025,'I','크래커 배럴 로고 철회','반발 속 일주일 만에 복귀','#8B5A2B'],
+// 컬러
+[-2500,'C','이집트 블루','최초의 합성 안료','#1034A6','c.BC 2500'],
+[-1500,'C','티리안 퍼플','페니키아 뿔고둥 염료, 권력의 색','#66023C','c.BC 1500'],
+[1704,'C','프러시안 블루','근대 최초의 합성 안료','#003153'],
+[1779,'C','HBC 포인트 블랭킷','녹, 적, 황, 남 네 줄무늬','#1B7F4C'],
+[1810,'C','괴테의 색채론','색의 심리적 효과'],
+[1845,'C','티파니 블루','블루북 카탈로그 표지','#0ABAB5'],
+[1856,'C','퍼킨의 모브','최초의 합성 염료, 보라의 유행','#915F6D'],
+[1877,'C','뵈브 클리코 옐로','라벨 색을 상표로','#F7A600'],
+[1905,'C','먼셀 색체계','색상, 명도, 채도'],
+[1907,'C','로소 코르사','국가별 레이싱 컬러, 이탈리아의 빨강','#D40000','1900년대'],
+[1914,'C','캐드버리 퍼플','빅토리아 여왕에 대한 헌정','#3D1152'],
+[1916,'C','UPS 브라운','풀먼 객차의 갈색','#644117'],
+[1931,'C','CIE 1931','색을 수치로 정의'],
+[1945,'C','에르메스 오렌지','전시 물자 부족으로 남은 주황 판지','#F37021','1940년대'],
+[1953,'C','NTSC 컬러TV 표준',''],
+[1959,'C','바비 핑크','','#E0218A'],
+[1960,'C','IKB','이브 클랭의 인터내셔널 클라인 블루','#002FA7'],
+[1963,'C','팬톤 매칭 시스템','브랜드 컬러를 번호로 약속','#9B1B30'],
+[1996,'C','sRGB','웹 표준 색공간'],
+[2000,'C','팬톤 올해의 색','첫 번째, 세룰리안','#9BB7D4'],
+[2004,'C','페이스북 블루','창업자가 가장 잘 보는 색','#1877F2'],
+[2016,'C','밀레니얼 핑크','로즈 쿼츠와 세레니티','#F7CAC9'],
+[2020,'C','클래식 블루','팬톤 올해의 색','#0F4C81'],
+[2023,'C','바비코어','영화 개봉과 핑크 열풍','#F23B9A'],
+[2024,'C','피치 퍼즈','팬톤 올해의 색','#FFBE98'],
+[2025,'C','모카 무스','팬톤 올해의 색','#A47864'],
+// 광고와 미디어
+[79,'A','폼페이 벽 광고','선거 구호와 상점 안내가 벽에'],
+[1477,'A','캑스턴 인쇄 광고','영어로 된 첫 인쇄 광고','','c.1477'],
+[1704,'A','보스턴 뉴스레터','미국 첫 신문 광고'],
+[1836,'A','라 프레스','광고 수익으로 값을 낮춘 신문'],
+[1841,'A','볼니 파머','최초의 광고대행사'],
+[1866,'A','쥘 셰레','컬러 석판 포스터','','1860년대'],
+[1869,'A','N.W. 에이어','공개 계약 광고대행사'],
+[1878,'A','J. 월터 톰슨','브랜드 캠페인을 이끈 광고대행사'],
+[1882,'A','아이보리 비누','99 44/100% 순수'],
+[1886,'A','한성주보 세창양행 광고','한국 최초의 신문 광고'],
+[1886,'A','피어스 비누 Bubbles','밀레이의 그림을 광고에'],
+[1891,'A','물랭루주 포스터','툴루즈 로트레크'],
+[1896,'A','무하의 JOB','아르누보 광고 포스터'],
+[1899,'A','유니다 비스킷','포장 브랜드의 전국 캠페인'],
+[1900,'A','미쉐린 가이드','여행을 늘려 타이어를 팔다','#C8102E'],
+[1914,'A','키치너 포스터','Your Country Needs You'],
+[1917,'A','엉클 샘','I Want You'],
+[1922,'A','첫 라디오 광고','뉴욕 WEAF'],
+[1929,'A','자유의 횃불','버네이스의 담배 PR'],
+[1931,'A','코카콜라 산타','해든 선드블롬','#F40009'],
+[1941,'A','첫 TV 광고','불로바 시계'],
+[1947,'A','A Diamond is Forever','드비어스'],
+[1954,'A','말보로맨','레오 버넷'],
+[1959,'A','Think Small','DDB의 폭스바겐'],
+[1971,'A','힐탑 광고','I’d like to buy the world a Coke','#F40009'],
+[1980,'A','앱솔루트 병','TBWA, 병 모양이 곧 광고'],
+[1980,'A','한국 컬러TV 방송','컬러 광고의 시대'],
+[1984,'A','애플 1984','슈퍼볼 광고'],
+[1984,'A','Where’s the beef?','웬디스'],
+[1988,'A','Just Do It','와이든+케네디','#F05A28'],
+[1991,'A','인텔 인사이드','부품이 브랜드가 되다','#0071C5'],
+[1994,'A','첫 배너 광고','핫와이어드, AT&T'],
+[1997,'A','Think Different','애플의 부활'],
+[2000,'A','구글 애드워즈','검색 광고'],
+[2004,'A','도브 리얼 뷰티','광고 속 평범한 몸'],
+[2007,'A','페이스북 광고',''],
+[2010,'A','올드 스파이스','The Man Your Man Could Smell Like'],
+[2011,'A','셰어 어 코크','호주, 병에 이름을','#F40009'],
+[2012,'A','레드불 스트라토스','브랜드가 미디어가 되다','#DB0A40'],
+[2014,'A','#LikeAGirl','올웨이즈'],
+[2018,'A','나이키 캐퍼닉','Believe in something','#F05A28'],
+[2023,'A','바비 마케팅','핑크로 도시를 덮다','#E0218A'],
+[2024,'A','코카콜라 AI 크리스마스 광고','생성형 AI 광고 논쟁','#F40009'],
+// 이론과 전략
+[1899,'T','베블런','과시적 소비'],
+[1923,'T','『과학적 광고』','클로드 홉킨스'],
+[1928,'T','『프로파간다』','에드워드 버네이스'],
+[1931,'T','맥엘로이 메모','P&G, 브랜드 매니지먼트의 탄생'],
+[1955,'T','제품과 브랜드','가드너와 레비, HBR'],
+[1955,'T','브랜드 이미지','데이비드 오길비'],
+[1957,'T','『숨은 설득자』','밴스 패커드'],
+[1960,'T','4P','제롬 매카시'],
+[1960,'T','마케팅 근시안','시어도어 레빗'],
+[1961,'T','USP','로서 리브스'],
+[1963,'T','『어느 광고인의 고백』','오길비'],
+[1964,'T','마케팅 믹스','닐 보든'],
+[1967,'T','『마케팅 관리론』','필립 코틀러'],
+[1972,'T','포지셔닝','리스와 트라우트'],
+[1983,'T','시장의 세계화','레빗'],
+[1988,'T','브랜드 자산 회계','RHM이 브랜드를 대차대조표에'],
+[1988,'T','크래프트 인수','필립모리스, 장부가의 수배를 지불'],
+[1989,'T','『Corporate Identity』','월리 올린스'],
+[1991,'T','『브랜드 자산의 전략적 관리』','데이비드 아커'],
+[1992,'T','아이덴티티 프리즘','장 노엘 카페러'],
+[1993,'T','CBBE','케빈 레인 켈러'],
+[1993,'T','말보로 프라이데이','가격 인하, 브랜드 종말론'],
+[1996,'T','『브랜드 구축』','데이비드 아커'],
+[1997,'T','브랜드 개성','제니퍼 아커의 5차원'],
+[1997,'T','The Brand Called You','톰 피터스, 퍼스널 브랜드'],
+[1998,'T','소비자와 브랜드의 관계','수전 포니에'],
+[1998,'T','경험 경제','파인과 길모어'],
+[1999,'T','경험 마케팅','번트 슈미트'],
+[2000,'T','『No Logo』','나오미 클라인'],
+[2001,'T','베스트 글로벌 브랜드','인터브랜드의 첫 순위'],
+[2001,'T','12 아키타입','마크와 피어슨, 『The Hero and the Outlaw』'],
+[2001,'T','브랜드 커뮤니티','무니즈와 오귄'],
+[2003,'T','『브랜드 갭』','마티 뉴마이어'],
+[2003,'T','『디자인의 디자인』','하라 켄야'],
+[2003,'T','보랏빛 소','세스 고딘'],
+[2004,'T','문화 브랜딩','더글러스 홀트, 『How Brands Become Icons』'],
+[2004,'T','러브마크','케빈 로버츠'],
+[2005,'T','블루오션','김위찬과 르네 마보안'],
+[2006,'T','BrandZ','브랜드 가치 순위'],
+[2009,'T','Start with Why','사이먼 사이넥'],
+[2010,'T','『브랜드는 어떻게 성장하는가』','바이런 샤프'],
+[2010,'T','마케팅 3.0','코틀러'],
+[2013,'T','롱 앤 쇼트','비넷과 필드'],
+[2016,'T','마케팅 4.0','코틀러'],
+[2021,'T','마케팅 5.0','코틀러, 기술과 인간'],
+// 디지털과 AI
+[1920,'D','KDKA','첫 상업 라디오 방송'],
+[1936,'D','BBC TV','정규 TV 방송'],
+[1969,'D','아파넷','인터넷의 원형'],
+[1974,'D','UPC 바코드','리글리 껌의 첫 스캔'],
+[1984,'D','매킨토시','디지털 타이포그래피'],
+[1985,'D','첫 .com','symbolics.com'],
+[1990,'D','월드와이드웹','팀 버너스리'],
+[1993,'D','모자이크','그래픽 웹 브라우저'],
+[1999,'D','파비콘','브라우저 탭 속 작은 로고'],
+[2004,'D','웹 2.0','참여와 공유'],
+[2007,'D','아이폰','손 안의 브랜드 접점'],
+[2008,'D','앱스토어','앱 아이콘이 첫인상'],
+[2016,'D','가변 폰트','OpenType 1.8'],
+[2017,'D','트랜스포머','Attention Is All You Need'],
+[2020,'D','GPT-3','대규모 언어모델'],
+[2021,'D','DALL·E','텍스트로 그리는 이미지'],
+[2021,'D','메타버스 브랜드','나이키의 RTFKT 인수, 구찌의 로블록스'],
+[2022,'D','미드저니','이미지 생성 공개 베타'],
+[2022,'D','스테이블 디퓨전','오픈소스 이미지 생성'],
+[2022,'D','챗GPT','11월 30일 공개'],
+[2023,'D','GPT-4','멀티모달 언어모델'],
+[2023,'D','어도비 파이어플라이','상업용 생성 AI'],
+[2023,'D','Create Real Magic','코카콜라의 AI 이미지 캠페인','#F40009'],
+[2023,'D','코카콜라 Y3000','AI와 함께 만든 맛','#F40009'],
+[2023,'D','GEO','생성형 엔진 최적화, AI 답변 속 브랜드'],
+[2024,'D','소라 공개','텍스트로 만드는 영상'],
+[2025,'D','AI 에이전트','사람 대신 검색하고 구매하는 에이전트'],
+// 2026
+[2026,'W','밀라노 코르티나 동계올림픽','2월, 이탈리아'],
+[2026,'W','북중미 월드컵','미국, 캐나다, 멕시코 공동 개최, 48개국'],
+[2026,'D','구글 UCP 공개','1월 NRF, AI 검색 안에서 결제까지 잇는 커머스 프로토콜'],
+[2026,'D','코파일럿 체크아웃','1월, 마이크로소프트의 대화형 결제'],
+[2026,'D','챗GPT 인스턴트 체크아웃 중단','3월, 대화형 결제의 첫 시행착오'],
+[2026,'D','에이전틱 커머스','AI 에이전트가 고르고 사는 시대, 브랜드는 AI의 추천 목록에 들어야'],
+[2026,'A','슈퍼볼 LX, AI 광고의 해','AI 서비스 광고가 10편 넘게 방영'],
+[2026,'A','스베드카 AI 광고','주로 AI로 만든 첫 전국 슈퍼볼 광고','#E4007C'],
+[2026,'A','앤트로픽 슈퍼볼 광고','광고 없는 AI 대화를 내세운 캠페인','#C15F3C'],
+[2026,'A','챗GPT 광고 시작','2월 미국, 8월 한국 등으로 확대, 대화 속 광고의 등장','#10A37F'],
+[2026,'I','윌리엄스 F1 리브랜딩','1월, 새 이름과 로고, 파랑을 팀의 색으로','#00A0DE'],
+[2026,'I','Xbox 브랜드 복귀','4월, Microsoft Gaming을 접고 초록 구체로','#107C10'],
+[2026,'I','구글 워크스페이스 아이콘','평면 색면에서 빛나는 그라디언트로','#4285F4'],
+[2026,'I','GF 스미스 리브랜딩','블랜딩 흐름에 맞선 대담한 아이덴티티'],
+[2026,'I','63빌딩 새 아이덴티티','한화, 여의도 랜드마크의 새 옷','#F37321'],
+[2026,'I','당근 SEED 리브랜딩','디자인 시스템 개편','#FF6F0F'],
+[2026,'I','맥라렌 새 워드마크','9월 22일, 1920년대 가족 정비소 간판에서 온 글자, 파파야는 유지','#FF8000'],
+[2026,'C','클라우드 댄서','팬톤 올해의 색, 처음으로 흰색','#F0EEE9'],
+[2026,'C','트랜스포머티브 틸','WGSN과 콜로로의 올해의 색','#0E7C7B'],
+[2026,'K','올리브영 세포라 입점','8월, 미국 세포라 매장에 K뷰티 코너','#9BC53D']
+];
+
+const $=s=>document.querySelector(s);
+const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+function lum(h){h=h.replace('#','');const c=[0,2,4].map(i=>{let v=parseInt(h.substr(i,2),16)/255;return v<=.03928?v/12.92:Math.pow((v+.055)/1.055,2.4)});return .2126*c[0]+.7152*c[1]+.0722*c[2]}
+const fy=y=>y<0?'BC '+(-y):String(y);
+const yl=d=>d.lab||fy(d.y);
+const LBY={};LANES.forEach((l,i)=>{l.i=i;LBY[l.k]=l;l.on=true});
+const DATA=RAW.map((r,i)=>({i,y:r[0],l:r[1],t:r[2],d:r[3]||'',c:r[4]||'',lab:r[5]||''}));
+const cnt={};DATA.forEach(d=>{const ln=LBY[d.l];cnt[d.l]=(cnt[d.l]||0)+1;d.bg=d.c||ln.p[cnt[d.l]%3];d.fg=lum(d.bg)>.42?'#15171B':'#FFFFFF'});
+
+// time buckets: coarse in antiquity, yearly in the AI era
+const B=[-4000,-3000,-2000,-1000,-500,0,500,1000,1200,1400,1450,1500,1600,1700,1760,1800,1825,1850];
+for(let y=1860;y<=1940;y+=10)B.push(y);
+B.push(1945);for(let y=1950;y<=1995;y+=5)B.push(y);
+for(let y=2000;y<=2018;y+=2)B.push(y);for(let y=2020;y<=2027;y++)B.push(y);
+function blabel(a,b){if(b-a===1)return[String(a),''];
+  if(a>=1850&&b-a===10&&a%10===0)return[a+'년대',''];
+  if(a<500)return[fy(a),'~ '+fy(b)];return[String(a),'~ '+(b-1)]}
+
+const grid=$('#grid');
+let h='<div class="lh"><div>연도</div>'+LANES.map(l=>`<div data-k="${l.k}" style="--lc:${l.p[0]}">${l.n}</div>`).join('')+'</div>';
+let ei=0,alt=0;
+for(let bi=0;bi<B.length-1;bi++){const a=B[bi],b=B[bi+1];
+  while(ei<ERAS.length&&ERAS[ei][0]<=a){const e=ERAS[ei];h+=`<div class="era" id="era${ei}" style="background:${e[4]}"><b>${e[2]}</b><span>${e[3]}</span><em>${fy(e[0])} ~ ${e[1]===2027?'지금':fy(e[1])}</em></div>`;ei++}
+  const inb=DATA.filter(d=>d.y>=a&&d.y<b);if(!inb.length)continue;
+  const [l1,l2]=blabel(a,b);
+  h+=`<div class="row${alt++%2?' alt':''}"><div class="yr">${l1}${l2?`<small>${l2}</small>`:''}</div>`;
+  LANES.forEach(l=>{h+=`<div class="cell" data-k="${l.k}">`;
+    inb.filter(d=>d.l===l.k).sort((x,y)=>x.y-y.y||x.i-y.i).forEach(d=>{
+      h+=`<div class="card" tabindex="0" data-i="${d.i}" style="background:${d.bg};color:${d.fg}"><b>${yl(d)}</b><span class="t">${d.t}</span>${d.d?`<span class="d">${d.d}</span>`:''}</div>`});
+    h+='</div>'});
+  h+='</div>'}
+h+='<div class="now">지금, 2026년 9월. 다음 칸은 아직 비어 있습니다.</div><div class="tail"></div>';
+grid.innerHTML=h;
+const cards=[];grid.querySelectorAll('.card').forEach(el=>cards[+el.dataset.i]=el);
+const rows=[...grid.querySelectorAll('.row')];
+$('#sub').textContent=`${DATA.length}개의 기록, 기원전 원통인장에서 2026년 에이전틱 커머스까지. 아래로 스크롤하세요.`;
+
+const sc=$('#sc');
+const lhEl=grid.querySelector('.lh');
+function setLhh(){grid.style.setProperty('--lhh',lhEl.offsetHeight+'px')}
+
+// 3D scroll motion: rows fold up from the bottom edge and tip back under the header
+let motion=!reduce;const mb=$('#motion');mb.setAttribute('aria-pressed',motion);
+let ticking=false;
+function paint(){ticking=false;const vh=sc.clientHeight,top=sc.getBoundingClientRect().top,lim=lhEl.offsetHeight+50,atEnd=sc.scrollTop+vh>=sc.scrollHeight-4;
+  for(const r of rows){const b=r.getBoundingClientRect(),t0=b.top-top,t1=b.bottom-top;
+    if(!motion||t1<-300||t0>vh+300){if(r._s){r.style.transform='';r.style.opacity='';r._s=0}continue}
+    const inP=atEnd&&t1<=vh?1:Math.min(1,Math.max(0,(vh-t0)/(vh*.42))),outP=Math.min(1,Math.max(0,(t1-lim)/(vh*.18)));
+    const ang=(1-inP)*55-(1-outP)*14,z=-(1-inP)*90;
+    r.style.transform=`perspective(1100px) translateZ(${z.toFixed(1)}px) rotateX(${ang.toFixed(2)}deg)`;r.style.opacity=(.2+.8*Math.min(inP,.4+.6*outP)).toFixed(3);r._s=1}
+  drawRail()}
+function req(){if(!ticking){ticking=true;requestAnimationFrame(paint)}}
+sc.addEventListener('scroll',req,{passive:true});
+mb.onclick=()=>{motion=!motion;mb.setAttribute('aria-pressed',motion);req()};
+
+// right rail: the whole history at a glance
+const rail=$('#rail');let vw;
+function buildRail(){rail.innerHTML='';const H=grid.scrollHeight;
+  grid.querySelectorAll('.era').forEach((e,i)=>{const nx=grid.querySelector('#era'+(i+1));const s=document.createElement('div');s.className='seg';
+    const a=e.offsetTop,b=nx?nx.offsetTop:H;s.style.top=(a/H*100)+'%';s.style.height=((b-a)/H*100)+'%';s.style.background=ERAS[i][4];rail.appendChild(s)});
+  vw=document.createElement('div');vw.className='vw';rail.appendChild(vw);drawRail()}
+function drawRail(){if(!vw)return;const H=grid.scrollHeight;vw.style.top=(sc.scrollTop/H*100)+'%';vw.style.height=Math.max(2,sc.clientHeight/H*100)+'%'}
+let rdown=false;
+function railGo(e){const r=rail.getBoundingClientRect();sc.scrollTop=(e.clientY-r.top)/r.height*grid.scrollHeight-sc.clientHeight/2;stop()}
+rail.addEventListener('pointerdown',e=>{rdown=true;rail.setPointerCapture(e.pointerId);railGo(e)});
+rail.addEventListener('pointermove',e=>{if(rdown)railGo(e)});
+rail.addEventListener('pointerup',()=>rdown=false);
+
+// autoplay
+let playing=false,last=0;const pb=$('#play');
+function stop(){if(playing){playing=false;pb.setAttribute('aria-pressed','false');pb.textContent='처음부터 재생'}}
+function tick(t){if(!playing)return;const dt=Math.min(.05,(t-(last||t))/1000);last=t;sc.scrollTop+=dt*Math.max(60,sc.clientHeight*.14);
+  if(sc.scrollTop+sc.clientHeight>=sc.scrollHeight-2){stop();return}requestAnimationFrame(tick)}
+pb.onclick=()=>{if(playing){stop();return}closeDetail();sc.scrollTop=0;playing=true;last=0;pb.setAttribute('aria-pressed','true');pb.textContent='멈춤';requestAnimationFrame(tick)};
+['wheel','touchstart','keydown'].forEach(ev=>sc.addEventListener(ev,stop,{passive:true}));
+$('#top').onclick=()=>{stop();sc.scrollTo({top:0,behavior:reduce?'auto':'smooth'})};
+
+// era chips
+const ec=$('#eraChips');
+ERAS.forEach((e,i)=>{const b=document.createElement('button');b.innerHTML=`<i style="background:${e[4]}"></i>${e[2]}`;
+  b.onclick=()=>{stop();const el=grid.querySelector('#era'+i);sc.scrollTo({top:el.offsetTop-lhEl.offsetHeight+1,behavior:reduce?'auto':'smooth'})};ec.appendChild(b)});
+// lane chips: hide or show whole columns
+const lc=$('#laneChips');
+function applyLanes(){const on=LANES.filter(l=>l.on);grid.style.setProperty('--cols',on.length);
+  LANES.forEach(l=>grid.querySelectorAll(`[data-k="${l.k}"]`).forEach(el=>el.classList.toggle('off',!l.on)));setLhh();buildRail();req()}
+LANES.forEach(ln=>{const b=document.createElement('button');b.setAttribute('aria-pressed','true');b.innerHTML=`<i style="background:${ln.p[0]}"></i>${ln.n}`;
+  b.onclick=()=>{if(ln.on&&LANES.filter(l=>l.on).length===1)return;ln.on=!ln.on;b.setAttribute('aria-pressed',ln.on);applyLanes()};lc.appendChild(b)});
+
+// detail
+const det=$('#detail');let sel=-1;
+function select(i,go){if(sel>=0)cards[sel].classList.remove('on');sel=i;const d=DATA[i];const el=cards[i];el.classList.add('on');
+  if(!LBY[d.l].on){LBY[d.l].on=true;lc.children[LBY[d.l].i].setAttribute('aria-pressed','true');applyLanes()}
+  det.hidden=false;const s=det.querySelector('.sw');s.style.background=d.bg;s.style.color=d.fg;
+  det.querySelector('.py').textContent=yl(d);det.querySelector('.hx').textContent=d.c?d.c.toUpperCase():'';
+  det.querySelector('h2').textContent=d.t;det.querySelector('.pl').textContent=LBY[d.l].n;det.querySelector('.pd').textContent=d.d;
+  const w=d.y<1500?120:d.y<1850?15:d.y<1990?2:0;
+  const near=DATA.filter(o=>o.i!==i&&Math.abs(o.y-d.y)<=w).sort((a,b)=>Math.abs(a.y-d.y)-Math.abs(b.y-d.y)||a.i-b.i).slice(0,12);
+  const ul=det.querySelector('ul');ul.innerHTML='';det.querySelector('h3').hidden=!near.length;
+  near.forEach(o=>{const li=document.createElement('li'),b=document.createElement('button');b.innerHTML=`<i style="background:${o.bg}"></i><span>${yl(o)} ${o.t}</span>`;b.onclick=()=>select(o.i,true);li.appendChild(b);ul.appendChild(li)});
+  if(go)el.scrollIntoView({block:'center',inline:'nearest',behavior:reduce?'auto':'smooth'})}
+function closeDetail(){det.hidden=true;if(sel>=0)cards[sel].classList.remove('on');sel=-1}
+det.querySelector('.x').onclick=closeDetail;
+grid.addEventListener('click',e=>{const c=e.target.closest('.card');if(c){stop();select(+c.dataset.i,false)}});
+grid.addEventListener('keydown',e=>{const c=e.target.closest('.card');if(c&&(e.key==='Enter'||e.key===' ')){e.preventDefault();select(+c.dataset.i,false)}});
+addEventListener('keydown',e=>{if(e.key==='Escape')closeDetail()});
+
+// search
+const q=$('#q'),qc=$('#qc');let hits=[],hp=-1;
+q.addEventListener('input',()=>{const s=q.value.trim().toLowerCase();hits=[];hp=-1;
+  DATA.forEach(d=>{const m=!s||(d.t+' '+d.d+' '+yl(d)+' '+LBY[d.l].n).toLowerCase().includes(s);cards[d.i].classList.toggle('dim',!m);if(s&&m)hits.push(d.i)});
+  hits.sort((a,b)=>DATA[a].y-DATA[b].y||a-b);qc.textContent=s?hits.length+'건':''});
+q.addEventListener('keydown',e=>{if(e.key==='Enter'&&hits.length){e.preventDefault();hp=(hp+1)%hits.length;stop();select(hits[hp],true);qc.textContent=`${hp+1}/${hits.length}`}});
+
+addEventListener('resize',()=>{setLhh();buildRail();req()});
+setLhh();buildRail();paint();
+if(document.fonts)document.fonts.ready.then(()=>{setLhh();buildRail();req()});
+</script>
+</body>
+</html>

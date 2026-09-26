@@ -14,11 +14,12 @@ import {
   buildTitle, buildDescription, buildFaq, koreanName, latinName, displayName,
   countryOf, foundedYear, bodyTextLength, urlSlugOf, THIN_THRESHOLD,
 } from "./lib/brand-seo.mjs";
-import { page as shell, esc } from "./lib/page-shell.mjs";
+import { page as shell, esc, archetyposFontLink } from "./lib/page-shell.mjs";
 import { renderBrandPage } from "./lib/brand-render.mjs";
 import { isDirectory, isNoindex, byScore, isListed } from "./lib/archive.mjs";
 import { publishedCollections } from "./lib/collections.mjs";
 import { loadArticles, referencedSlugs } from "./lib/magazine.mjs";
+import { historyBySlug, yearLabel, HISTORY_PATH } from "./lib/brand-history.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -213,6 +214,14 @@ function magazineMentions(slug) {
   return `<section class="mag-mention" aria-label="매거진에서 읽기"><h2>매거진에서 읽기</h2><ul>${list.map(a => `<li><a href="../magazine/${a.slug}.html"><small>아틀라스 매거진 No.${String(a.issue).padStart(2, "0")} · ${esc(a.kicker)}</small><b>${esc(a.title)}</b><span>${esc(a.dek)}</span></a></li>`).join("")}</ul></section>`;
 }
 
+// 브랜드 연대기 역링크 — 이 브랜드가 나오는 연대기 항목(content/brand-history/links.json). 매거진 역링크처럼 본문 해시 뒤에 붙인다.
+const HISTORY_BY_SLUG = historyBySlug(ROOT);
+function historyMentions(brand) {
+  const list = HISTORY_BY_SLUG.get(brand.slug);
+  if (!list || !list.length) return "";
+  return `<section class="mag-mention" aria-label="브랜드 연대기에서 보기"><h2>브랜드 연대기에서 보기</h2><ul>${list.map(e => `<li><a href="../${HISTORY_PATH}#h-${e.i}"><small>${esc(yearLabel(e))} · ${esc(e.lane)}</small><b>${esc(e.t)}</b>${e.d ? `<span>${esc(e.d)}</span>` : ""}</a></li>`).join("")}</ul></section>`;
+}
+
 function relatedFor(brand) {
   return sandbox.relatedBrands(brand, 12).filter(b => !isDirectory(b)).sort(byScore).slice(0, 8);
 }
@@ -227,7 +236,7 @@ function pageHtml(brand) {
 
   const text = mainText(bodyHtml);
   const renderedChars = text.length;
-  bodyHtml = bodyHtml.replace("<!--related-->", `<!--related-->${magazineMentions(slug)}`);
+  bodyHtml = bodyHtml.replace("<!--related-->", `<!--related-->${magazineMentions(slug)}${historyMentions(brand)}`);
   const dupCanonical = canonicalOverride.get(slug);
   const directory = isDirectory(brand);
   // 디렉토리 등급이라도 본문이 충실하면 색인한다(2026-09-08). 등급은 목록·홈 노출을 가르는
@@ -245,7 +254,7 @@ function pageHtml(brand) {
 
   return shell({
     title, desc, canonical, ogImage, ogType: "article", robots, prefix: "../", active: "ganada",
-    jsonLd: jsonLd(brand, faq, dates, url), bodyHtml, bodyClass: "brand-page",
+    jsonLd: jsonLd(brand, faq, dates, url), bodyHtml, bodyClass: "brand-page", extraHead: archetyposFontLink,
   });
 }
 

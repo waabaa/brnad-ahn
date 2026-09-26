@@ -10,6 +10,7 @@ export const esc = (s) => String(s == null ? "" : s)
 // [표시명, 경로, 활성 키]
 export const NAV = [
   ["매거진", "magazine/", "magazine"],
+  ["연대기", "brand-history/", "history"],
   ["브랜드 사전", "pages/ganada.html", "ganada"],
   ["산업별", "pages/industry.html", "industry"],
   ["국가별", "pages/countries.html", "countries"],
@@ -29,9 +30,27 @@ export function header(active = "", prefix = "../") {
   return `<header class="site-header"><input type="checkbox" id="menu-toggle" aria-hidden="true"><div class="bar"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><nav class="nav" aria-label="주 메뉴">${links}</nav>${search("hdr-q")}<label class="menu-btn" for="menu-toggle" aria-label="메뉴 열기"><span></span><span></span><span></span></label></div><div class="mobile-menu"><div class="inner"><form role="search" action="${prefix}pages/search.html" method="get"><label class="sr-only" for="m-q">브랜드 검색</label><input id="m-q" name="q" type="search" placeholder="브랜드명·초성으로 검색"><button type="submit">검색</button></form><nav aria-label="모바일 메뉴">${links}<a href="${prefix}pages/about.html">소개</a></nav></div></div></header>`;
 }
 
+export const ARCHETYPOS_URL = "https://www.archetypos.co.kr/";
+
 export function footer(prefix = "../") {
   const col = (title, items) => `<div><h4>${title}</h4><ul>${items.map(([n, h]) => `<li><a href="${prefix}${h}">${n}</a></li>`).join("")}</ul></div>`;
-  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["테마별 컬렉션", "pages/collections.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["아틀라스 매거진", "magazine/"], ["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"]])}</div><div class="legal"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
+  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["테마별 컬렉션", "pages/collections.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["아틀라스 매거진", "magazine/"], ["브랜드 연대기", "brand-history/"], ["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"]])}</div><div class="legal"><a class="legal-org" href="${ARCHETYPOS_URL}" rel="noopener" target="_blank"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span></a><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
+}
+
+// 아키타이포스(archetypos.co.kr) 배너용 웹폰트 — 그 사이트가 실제로 쓰는 DM Sans(영문) + Noto Sans KR(한글, 300)
+// 를 그대로 가져와 배너에서만 쓴다. 본문 폰트(Pretendard)는 건드리지 않는다.
+export const archetyposFontLink = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Noto+Sans+KR:wght@300;500&display=swap">';
+
+/**
+ * 아키타이포스(브랜드 아틀라스 운영사) 디자인·컨설팅 의뢰 배너.
+ * variant: "home"(전폭 배너) | "aside"(브랜드 상세 사이드바 카드).
+ * 색·타이포는 archetypos.co.kr 원본(잉크 #141414·라임 #c9ff3d·블루 #2349d8, DM Sans+Noto Sans KR)을 그대로 가져왔다.
+ */
+export function archetyposBanner(variant = "home") {
+  if (variant === "aside") {
+    return `<a class="ac-card" href="${ARCHETYPOS_URL}" rel="noopener" target="_blank"><span class="ac-card-eyebrow">STUDIO ARCHETYPOS</span><b class="ac-card-headline">브랜드, 다시 설계가<br>필요한 순간</b><span class="ac-card-desc">아이덴티티·리포지셔닝 컨설팅</span><span class="ac-card-cta">아키타이포스 의뢰하기 <i>→</i></span></a>`;
+  }
+  return `<section class="section ac-section"><div class="wrap"><a class="ac-banner" href="${ARCHETYPOS_URL}" rel="noopener" target="_blank"><span class="ac-orbit" aria-hidden="true"><i></i><i></i><i></i></span><div class="ac-copy"><span class="ac-eyebrow">STUDIO ARCHETYPOS · 브랜드 디자인 &amp; 전략 컨설팅</span><h2 class="ac-headline">브랜드가 <em>자기다워지는</em><br>결정적 순간을 설계합니다</h2><p class="ac-lead">브랜드 아틀라스를 만든 브랜드성장연구소 아키타이포스(Archetypos)가 아이덴티티·리포지셔닝·브랜드북 작업을 함께합니다.</p></div><span class="ac-cta">디자인 · 컨설팅 의뢰하기 <i>→</i></span></a></div></section>`;
 }
 
 /** <head> 공용부. */
