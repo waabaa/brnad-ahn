@@ -21,6 +21,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -343,7 +344,279 @@ def catalog_state() -> dict:
         "lastRun": _cat_read("last-run.json", None),
         "demand": {k: demand.get(k) for k in ("at", "period", "anchor", "pool", "entities", "measured", "datalabCalls", "gscQueries", "errors", "selected")} if demand else None,
         "records": rows,
+        "requests": sorted(_cat_read("requests.json", []), key=lambda x: x.get("at") or "", reverse=True),
     }
+
+
+# ─── 브랜드 요청 수록(2026-09-22) ──────────────────────────────────────────
+# 브랜드 요청이 들어오면 이름으로 위키데이터·위키백과를 찾아 정확도 순으로 보여 주고, 고른 개체만 요청 대기열(requests.json)에
+# 넣는다. 수록은 서버 작업(magazine-job.sh → scripts/server/catalog-requests.mjs)이 주간 수록과 같은 근거 검증으로 한다 —
+# 어드민은 샌드박스라 LLM·빌드를 직접 띄우지 않는다. 브랜드 판정 기준(BLOCK_P31·BUSINESS_PROPS)은 수록 스크립트의 것을 그대로 읽는다.
+SRC_ROOT = SRC_BRANDS.parent.parent
+WD_UA = "BrandAtlasBot/1.0 (https://brandatlas.co.kr; brand dictionary; contact via site form)"
+QID_RE = re.compile(r"^Q[1-9][0-9]{0,11}$")
+_have_cache: dict = {"mtime": None, "qids": {}, "names": {}}
+
+
+def _wd_rules() -> tuple[set, list]:
+    try:
+        js = (SRC_ROOT / "scripts" / "lib" / "wikidata-brand.mjs").read_text("utf-8")
+        block = re.search(r"BLOCK_P31\s*=\s*new Set\(\[(.*?)\]\)", js, re.S)
+        props = re.search(r"BUSINESS_PROPS\s*=\s*\[(.*?)\]", js, re.S)
+        return (set(re.findall(r'"(Q\d+)"', block.group(1))) if block else set(),
+                re.findall(r'"(P\d+)"', props.group(1)) if props else [])
+    except OSError:
+        return set(), []
+
+
+def _norm_name(s: str) -> str:
+    s = unicodedata.normalize("NFC", str(s or "")).lower().replace("&", " and ")
+    s = re.sub(r"\s*\(.*?\)\s*", "", s)
+    return re.sub(r"[\W_]+", "", s)
+
+
+def _have_index() -> tuple[dict, dict]:
+    """사전에 이미 있는 개체 — QID → slug, 정규화 이름 → (slug, QID). 데이터 파일(8MB)은 바뀔 때만 다시 읽는다."""
+    p = SRC_ROOT / "data" / "brand-atlas.json"
+    try:
+        mtime = p.stat().st_mtime
+    except OSError:
+        return {}, {}
+    if _have_cache["mtime"] != mtime:
+        qids, names = {}, {}
+        for b in json.loads(p.read_text("utf-8")).get("allBrands", []):
+            slug = b.get("urlSlug") or b.get("slug")
+            q = (b.get("entityLinks") or {}).get("wikidata")
+            if q:
+                qids[q] = slug
+            for k in (b.get("name"), b.get("nameKo"), b.get("nameEn")):
+                if k and _norm_name(k):
+                    names.setdefault(_norm_name(k), (slug, q))
+        _have_cache.update(mtime=mtime, qids=qids, names=names)
+    return _have_cache["qids"], _have_cache["names"]
+
+
+def _wd_get(url: str) -> dict:
+    req = urllib.request.Request(url, headers={"User-Agent": WD_UA, "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def _wiki_url(lang: str, title: str | None) -> str | None:
+    return f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(title.replace(' ', '_'))}" if title else None
+
+
+def _entity_view(qid: str, e: dict, block: set, biz: list, have_q: dict, have_n: dict, pending: set) -> dict:
+    """위키데이터 개체 하나를 사전 수록 관점에서 판정한다 — 검색 결과와 요청 접수가 같은 판정을 쓴다."""
+    lab = lambda lang: ((e.get("labels") or {}).get(lang) or {}).get("value", "")
+    desc = lambda lang: ((e.get("descriptions") or {}).get(lang) or {}).get("value", "")
+    claims = e.get("claims") or {}
+    p31 = [((c.get("mainsnak") or {}).get("datavalue") or {}).get("value", {}).get("id") for c in claims.get("P31", [])]
+    sl = e.get("sitelinks") or {}
+    kowiki, enwiki = sl.get("kowiki") or {}, sl.get("enwiki") or {}
+    ko = re.sub(r"\s*\(.*?\)\s*$", "", kowiki.get("title", "")).strip() or (lab("ko") if re.search(r"[가-힣]", lab("ko")) else "")
+    en = lab("en") or re.sub(r"\s*\(.*?\)\s*$", "", enwiki.get("title", "")).strip()
+    aliases = [a.get("value", "") for lang in ("ko", "en") for a in (e.get("aliases") or {}).get(lang, [])]
+    is_biz = any(p in claims for p in biz)
+    # 이름이 같은 레코드: QID가 없으면 같은 개체로 보고, 다른 QID면 동명의 다른 개체다(수록 스크립트가 이름 중복으로 기각한다).
+    named = next((have_n[n] for n in (_norm_name(ko), _norm_name(en)) if n and n in have_n), None)
+    existing = have_q.get(qid) or (named[0] if named and not named[1] else None)
+    if existing:
+        status, why = "exists", "이미 사전에 있음" if have_q.get(qid) else "같은 이름의 브랜드가 사전에 있음(개체 연결 전 — 같은 곳인지 페이지로 확인)"
+    elif named:
+        existing = named[0]
+        status, why = "same-name", "같은 이름의 다른 브랜드가 이미 있음 — 이름 중복이라 수록할 수 없음"
+    elif qid in pending:
+        status, why = "pending", "요청 처리 중"
+    elif any(x in block for x in p31) or ("P279" in claims and not is_biz):
+        # P279(하위 분류)가 있는 개체는 '사람'·'스마트워치' 같은 분류 개념이다.
+        status, why = "not-brand", "브랜드·기업 개체가 아님(사람·작품·지명·분류 개념 등)"
+    elif not kowiki and not enwiki:
+        status, why = "no-source", "근거 문서(한국어·영문 위키백과)가 없음"
+    elif not is_biz:
+        status, why = "weak", "기업 근거 속성(산업·본사·상장 등)이 없음 — 확인 후 추가"
+    else:
+        status, why = "ok", "한국어 위키백과 근거" if kowiki else "영문 위키백과 근거(한글 표기는 위키데이터에 있을 때만)"
+    return {
+        "qid": qid, "ko": ko, "en": en, "description": desc("ko") or desc("en"),
+        "forms": {_norm_name(x) for x in [ko, en, lab("ko"), kowiki.get("title", ""), *aliases] if x} - {""},
+        "koUrl": _wiki_url("ko", kowiki.get("title")), "enUrl": _wiki_url("en", enwiki.get("title")),
+        "hasKo": bool(kowiki), "hasEn": bool(enwiki), "isBiz": is_biz, "links": len(sl),
+        "existingSlug": existing, "status": status, "why": why, "selectable": status in ("ok", "weak"),
+    }
+
+
+def _entities(qids: list[str]) -> dict:
+    return _wd_get(f"https://www.wikidata.org/w/api.php?action=wbgetentities&ids={'|'.join(qids)}"
+                   f"&props=labels|aliases|descriptions|claims|sitelinks&languages=ko|en&format=json").get("entities", {})
+
+
+def _judge_context() -> tuple:
+    block, biz = _wd_rules()
+    have_q, have_n = _have_index()
+    pending = {r.get("qid") for r in _cat_read("requests.json", []) if r.get("status") in ("queued", "running")}
+    return block, biz, have_q, have_n, pending
+
+
+def brand_search(q: str) -> dict:
+    """이름 → 후보 개체(정확도 순). 이름 일치 > 기업·브랜드 근거 > 한국어 문서 > 인지도(위키 문서 언어 수)."""
+    enc = urllib.parse.quote(q)
+    qids: list[str] = []
+    for lang in ("ko", "en"):
+        for hit in _wd_get(f"https://www.wikidata.org/w/api.php?action=wbsearchentities&search={enc}&language={lang}"
+                           f"&uselang={lang}&type=item&limit=12&format=json").get("search", []):
+            if hit.get("id") not in qids:
+                qids.append(hit["id"])
+    # 위키데이터 레이블이 요청 표기와 다를 때를 대비해 한국어 위키백과 검색 상위 문서의 개체도 넣는다.
+    pages = _wd_get(f"https://ko.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch={enc}&gsrlimit=6"
+                    f"&prop=pageprops&ppprop=wikibase_item&format=json").get("query", {}).get("pages", {})
+    for pg in pages.values():
+        qi = (pg.get("pageprops") or {}).get("wikibase_item")
+        if qi and qi not in qids:
+            qids.append(qi)
+    qids = qids[:40]
+    if not qids:
+        return {"query": q, "results": []}
+    ents = _entities(qids)
+    ctx = _judge_context()
+    nq = _norm_name(q)
+    out = []
+    for qid in qids:
+        e = ents.get(qid) or {}
+        if not e or "missing" in e:
+            continue
+        v = _entity_view(qid, e, *ctx)
+        forms = v.pop("forms")
+        exact = nq in forms
+        prefix = not exact and any(f.startswith(nq) or nq.startswith(f) for f in forms)
+        # 한국어·영문 이름·별칭 어디에도 검색어가 없으면 다른 언어 별칭이나 본문에 스친 개체다 — 보이지 않는다.
+        if not (exact or prefix or any(nq in f for f in forms)):
+            continue
+        v["match"] = "exact" if exact else "prefix" if prefix else ""
+        v["score"] = (100 if exact else 40 if prefix else 0) + (30 if v["isBiz"] else 0) + (20 if v["hasKo"] else 0) + (10 if v["hasEn"] else 0)
+        out.append(v)
+    # 수록 대상이 될 수 없는 개체(근거 없음·비브랜드)는 이름이 같아도 뒤로 보낸다.
+    out.sort(key=lambda r: (r["status"] in ("no-source", "not-brand", "same-name"), -r["score"], -r["links"]))
+    return {"query": q, "results": out[:12]}
+
+
+def request_brand(qid: str, force: bool) -> tuple[int, dict]:
+    """선택한 개체를 수록 대기열에 넣고 서버 작업을 깨운다. 판정은 서버에서 다시 한다('확인 필요'는 force일 때만)."""
+    e = _entities([qid]).get(qid) or {}
+    if not e or "missing" in e:
+        return 404, {"error": "위키데이터 개체 없음"}
+    v = _entity_view(qid, e, *_judge_context())
+    if v["status"] == "exists":
+        return 409, {"error": f"이미 사전에 있음({v['existingSlug']})"}
+    if v["status"] == "pending":
+        return 409, {"error": "이미 요청됨"}
+    if not v["selectable"] or (v["status"] == "weak" and not force):
+        return 400, {"error": v["why"]}
+    reqs = _cat_read("requests.json", [])
+    if any(r.get("qid") == qid and r.get("status") == "added" for r in reqs):
+        return 409, {"error": "이미 수록됨(다음 공개부터 보임)"}
+    row = {"qid": qid, "ko": v["ko"], "en": v["en"], "hasKo": v["hasKo"], "hasEn": v["hasEn"], "sitelinks": v["links"],
+           "status": "queued", "attempts": 0, "at": datetime.now(KST).isoformat(timespec="seconds")}
+    _cat_write("requests.json", [r for r in reqs if r.get("qid") != qid] + [row])   # 기각된 요청은 다시 넣을 수 있다
+    _mag_trigger()
+    return 200, {"ok": True, "request": row}
+
+
+# ─── 로고 직접 올리기(2026-09-22) ──────────────────────────────────────────
+# 로고가 없는 브랜드에 사람이 찾은 로고를 올린다. 어드민은 소스 미러에 쓸 수 없으므로 data/logo-uploads/ 에 두고,
+# 서버 빌드(common.sh build_site → apply-logo-uploads.mjs --from)가 content/logo-uploads/ 로 옮겨 데이터에 반영한다.
+# 형식은 PNG·JPEG·WebP만 — SVG는 사이트 출처에서 스크립트가 돌 수 있어 받지 않는다. 브라우저가 800px로 줄여 보낸다.
+UPLOAD_DIR = DATA_DIR / "logo-uploads"
+UPLOAD_MAX = 900_000   # nginx 기본 client_max_body_size(1MB) 안
+UPLOAD_MAGIC = {"png": b"\x89PNG\r\n\x1a\n", "jpg": b"\xff\xd8\xff"}
+UPLOAD_TYPES = {"png": "image/png", "jpg": "image/jpeg", "webp": "image/webp"}
+
+
+def _upload_manifest() -> dict:
+    try:
+        return json.loads((UPLOAD_DIR / "manifest.json").read_text("utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def _upload_manifest_write(m: dict) -> None:
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    tmp = UPLOAD_DIR / ".manifest.json.tmp"
+    tmp.write_text(json.dumps(m, ensure_ascii=False, indent=1), "utf-8")
+    tmp.replace(UPLOAD_DIR / "manifest.json")
+
+
+def _image_ext(buf: bytes) -> str | None:
+    for ext, magic in UPLOAD_MAGIC.items():
+        if buf.startswith(magic):
+            return ext
+    return "webp" if buf[:4] == b"RIFF" and buf[8:12] == b"WEBP" else None
+
+
+def _brand_index() -> dict:
+    """slug → 브랜드(이름·로고). _have_index 와 같은 데이터 파일을 같은 캐시 주기로 읽는다."""
+    p = SRC_ROOT / "data" / "brand-atlas.json"
+    try:
+        mtime = p.stat().st_mtime
+    except OSError:
+        return {}
+    if _brand_cache.get("mtime") != mtime:
+        rows = {}
+        for b in json.loads(p.read_text("utf-8")).get("allBrands", []):
+            slug = b.get("urlSlug") or b.get("slug")
+            logo = str(b.get("logo") or "")
+            rows[slug] = {"slug": slug, "name": b.get("nameKo") or b.get("name") or "", "nameEn": b.get("nameEn") or "",
+                          "industry": b.get("industry") or "", "web": b.get("officialWebsite") or "",
+                          "hasLogo": bool(logo) and "brand_atlas_logo_mark" not in logo and not logo.startswith("data:")}
+        _brand_cache.update(mtime=mtime, rows=rows)
+    return _brand_cache["rows"]
+
+
+_brand_cache: dict = {}
+
+
+def logos_state(q: str) -> dict:
+    rows, man = _brand_index(), _upload_manifest()
+    nq = _norm_name(q)
+    missing = [r for r in rows.values() if not r["hasLogo"] and r["slug"] not in man]
+    if nq:
+        # 검색하면 로고가 이미 있는 브랜드도 보인다(틀린 로고를 바꿀 때).
+        missing = [r for r in rows.values() if nq in _norm_name(r["name"]) or nq in _norm_name(r["nameEn"]) or nq in r["slug"]]
+    missing.sort(key=lambda r: (not re.search(r"[가-힣]", r["name"]), r["name"]))
+    uploaded = [{**(rows.get(slug) or {"slug": slug, "name": slug}), **m} for slug, m in man.items()]
+    uploaded.sort(key=lambda r: r.get("at") or "", reverse=True)
+    return {"missingTotal": sum(1 for r in rows.values() if not r["hasLogo"] and r["slug"] not in man),
+            "missing": missing[:80], "uploaded": uploaded}
+
+
+def logo_upload(slug: str, buf: bytes) -> tuple[int, dict]:
+    if slug not in _brand_index():
+        return 404, {"error": "사전에 없는 slug"}
+    ext = _image_ext(buf)
+    if not ext:
+        return 415, {"error": "PNG·JPEG·WebP만 받습니다"}
+    fname = f"{slug}-up-{hashlib.sha256(buf).hexdigest()[:8]}.{ext}"
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    (UPLOAD_DIR / fname).write_bytes(buf)
+    man = _upload_manifest()
+    old = (man.get(slug) or {}).get("file")
+    man[slug] = {"file": fname, "bytes": len(buf), "at": datetime.now(KST).isoformat(timespec="seconds")}
+    _upload_manifest_write(man)
+    if old and old != fname:
+        (UPLOAD_DIR / old).unlink(missing_ok=True)
+    _mag_trigger()   # 공개 지문(magazine-fp.mjs)에 manifest가 들어 있어 서버가 다시 빌드·공개한다
+    return 200, {"ok": True, "file": fname}
+
+
+def logo_delete(slug: str) -> tuple[int, dict]:
+    man = _upload_manifest()
+    m = man.pop(slug, None)
+    if not m:
+        return 404, {"error": "올린 로고 없음"}
+    _upload_manifest_write(man)
+    (UPLOAD_DIR / m["file"]).unlink(missing_ok=True)
+    _mag_trigger()
+    return 200, {"ok": True}
 
 
 # ─── Google Search Console ─────────────────────────────────────────────────
@@ -657,6 +930,37 @@ class Handler(BaseHTTPRequestHandler):
             return self._json(401, {"error": "인증 필요"})
         if route == "/api/trend":
             return self._trend()
+        if route == "/api/logos/upload":
+            # 이미지 본문을 그대로 받는다. image/* 는 CORS 단순 요청이 아니라 다른 출처의 폼·fetch가 보낼 수 없다.
+            ctype = (self.headers.get("Content-Type") or "").split(";")[0].strip()
+            if ctype not in UPLOAD_TYPES.values():
+                return self._json(415, {"error": "이미지 본문 필요"})
+            slug = (urllib.parse.parse_qs(urllib.parse.urlsplit(self.path).query).get("slug") or [""])[0]
+            n = int(self.headers.get("Content-Length") or 0)
+            if not BRAND_SLUG.match(slug) or not 0 < n <= UPLOAD_MAX:
+                return self._json(400, {"error": f"slug 또는 크기 확인(최대 {UPLOAD_MAX // 1000}KB)"})
+            status, payload = logo_upload(slug, self.rfile.read(n))
+            return self._json(status, payload)
+        if route == "/api/logos/delete":
+            if "application/json" not in (self.headers.get("Content-Type") or ""):
+                return self._json(415, {"error": "application/json 필요"})
+            slug = str(self._body().get("slug") or "")
+            if not BRAND_SLUG.match(slug):
+                return self._json(400, {"error": "slug 확인"})
+            status, payload = logo_delete(slug)
+            return self._json(status, payload)
+        if route == "/api/catalog/request":
+            if "application/json" not in (self.headers.get("Content-Type") or ""):
+                return self._json(415, {"error": "application/json 필요"})
+            body = self._body()
+            qid = str(body.get("qid") or "")
+            if not QID_RE.match(qid):
+                return self._json(400, {"error": "qid 확인"})
+            try:
+                status, payload = request_brand(qid, bool(body.get("force")))
+            except (urllib.error.URLError, ValueError, TimeoutError) as e:
+                return self._json(502, {"error": f"위키데이터 조회 실패: {e}"})
+            return self._json(status, payload)
         if route in ("/api/catalog/settings", "/api/catalog/decision"):
             if "application/json" not in (self.headers.get("Content-Type") or ""):
                 return self._json(415, {"error": "application/json 필요"})
@@ -821,6 +1125,31 @@ class Handler(BaseHTTPRequestHandler):
             return self._json(200, magazine_state())
         if route == "/api/catalog":
             return self._json(200, catalog_state())
+        if route == "/api/logos":
+            return self._json(200, logos_state((qs.get("q") or [""])[0].strip()[:80]))
+        if route == "/api/logos/file":
+            slug = (qs.get("slug") or [""])[0]
+            m = _upload_manifest().get(slug) if BRAND_SLUG.match(slug) else None
+            f = UPLOAD_DIR / m["file"] if m and re.match(r"^[a-z0-9-]+-up-[0-9a-f]{8}\.(png|jpg|webp)$", m.get("file", "")) else None
+            if not f or not f.exists():
+                return self._json(404, {"error": "파일 없음"})
+            body = f.read_bytes()
+            self.send_response(200)
+            self.send_header("Content-Type", UPLOAD_TYPES[f.suffix[1:]])
+            self.send_header("Content-Length", str(len(body)))
+            self.send_header("Cache-Control", "private, max-age=86400")
+            self.send_header("X-Content-Type-Options", "nosniff")
+            self.end_headers()
+            self.wfile.write(body)
+            return
+        if route == "/api/catalog/search":
+            q = (qs.get("q") or [""])[0].strip()
+            if not q or len(q) > 80:
+                return self._json(400, {"error": "검색어는 1~80자"})
+            try:
+                return self._json(200, brand_search(q))
+            except (urllib.error.URLError, ValueError, TimeoutError) as e:
+                return self._json(502, {"error": f"위키데이터 조회 실패: {e}"})
         if route == "/api/catalog/logo":
             slug = (qs.get("slug") or [""])[0]
             doc = _cat_record(slug) if BRAND_SLUG.match(slug) else None

@@ -49,6 +49,7 @@ const TABS = [
   { id: "gsc", name: "구글 서치콘솔", render: renderGsc },
   { id: "magazine", name: "매거진", render: renderMagazine },
   { id: "catalog", name: "브랜드 수록", render: renderCatalog },
+  { id: "logos", name: "로고 올리기", render: renderLogos },
   { id: "contact", name: "문의", render: renderContact },
   { id: "settings", name: "설정", render: renderSettings },
 ];
@@ -353,7 +354,7 @@ function renderContent(host) {
   });
 
   const b3 = box(host, `로고 미보유 브랜드 ${num(SNAP.noLogo?.count)}건`,
-    "이미지 검색이 실제 유입원입니다. 네이버 이미지 API로 보강할 대상입니다. (상위 200건 표시)");
+    "이미지 검색이 실제 유입원입니다. 자체 수집기(scripts/collect-logo-candidates.mjs — 공식 사이트를 헤드리스 크로미움으로 렌더해 헤더 로고를 뽑고, 위키백과·위키데이터 로고를 함께 모음)로 보강하고, 후보는 컨택트시트로 확인해 맞는 것만 싣습니다. 이 목록은 그래도 확인되는 로고가 없던 브랜드입니다. (상위 200건 표시)");
   b3.append(el("div", { class: "scroll" }, table(["브랜드", "산업", "페이지"],
     (SNAP.noLogo?.sample || []).map((b) => [
       b.name, b.industry || "—", brandLink(b.slug),
@@ -668,8 +669,66 @@ function renderCatalog(host) {
   const post = (path, body) => api(path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
   const reviewKo = { pending: "검수 대기", approved: "게재", rejected: "반려" };
 
+  // 브랜드 요청 — 이름으로 찾아 고른 개체만 수록 대기열에 넣는다. 수록은 서버가 주간 수록과 같은 근거 검증으로 한다.
+  const rq = box(host, "브랜드 요청 추가", "요청받은 브랜드 이름(한글·원어 모두 가능)으로 위키데이터·위키백과를 찾아 정확도 순으로 보여 줍니다. 이름이 정확히 같고, 기업·브랜드 근거가 있고, 한국어 문서가 있는 개체가 위에 옵니다. '사전에 추가'를 누르면 서버가 바로 수록을 시도하고, 통과하면 빌드 후(약 11분) 공개됩니다. 위키백과 문서가 없는 브랜드는 근거가 없어 수록할 수 없습니다.");
+  host.insertBefore(rq, b);   // 요청 처리가 이 탭의 주된 일이라 맨 위에 둔다
+  const qIn = el("input", { type: "search", placeholder: "예: 이솝, Blue Bottle", maxlength: "80", style: "width:280px;padding:8px 10px;border:1px solid #ccc;border-radius:7px" });
+  const qBt = el("button", { class: "act" }, "검색");
+  const res = el("div", { style: "margin-top:12px" });
+  rq.append(el("form", { class: "row", style: "gap:8px;align-items:center" }, qIn, qBt), res);
+  const statusKo = { ok: "추가 가능", weak: "확인 필요", exists: "이미 있음", "same-name": "동명 브랜드", pending: "처리 중", "not-brand": "브랜드 아님", "no-source": "근거 없음" };
+  const search = async () => {
+    const q = qIn.value.trim();
+    if (!q) return;
+    qBt.disabled = true;
+    res.innerHTML = "";
+    res.append(el("div", { class: "muted" }, "찾는 중…"));
+    try {
+      const d = await api(`/api/catalog/search?q=${encodeURIComponent(q)}`);
+      res.innerHTML = "";
+      if (!d.results.length) { res.append(el("div", { class: "empty" }, `'${q}'에 해당하는 위키데이터 개체가 없습니다. 위키백과 문서가 생기기 전에는 근거 규칙상 수록할 수 없습니다.`)); return; }
+      res.append(el("div", { class: "scroll" }, table(["순위", "브랜드", "설명", "근거 문서", "판정", ""], d.results.map((r, i) => {
+        const name = `${r.ko || r.en}${r.ko && r.en && r.en !== r.ko ? ` (${r.en})` : ""}`;
+        const docs = el("span", {}, ...[r.koUrl && el("a", { href: r.koUrl, target: "_blank", rel: "noopener" }, "ko"), r.enUrl && el("a", { href: r.enUrl, target: "_blank", rel: "noopener", style: "margin-left:6px" }, "en"),
+          el("a", { href: `https://www.wikidata.org/wiki/${r.qid}`, target: "_blank", rel: "noopener", style: "margin-left:6px" }, r.qid)].filter(Boolean));
+        let act = "";
+        if (r.existingSlug) act = el("a", { href: `/brand/${encodeURIComponent(r.existingSlug)}.html`, target: "_blank", rel: "noopener" }, "페이지 보기");
+        else if (r.selectable) {
+          act = el("button", { class: "act" }, "사전에 추가");
+          act.addEventListener("click", async () => {
+            if (r.status === "weak" && !confirm(`${name}: ${r.why}\n그래도 추가할까요?`)) return;
+            act.disabled = true;
+            try { await post("/api/catalog/request", { qid: r.qid, force: r.status === "weak" }); act.replaceWith(el("span", { class: "muted" }, "요청됨")); load(); }
+            catch (e) { act.disabled = false; alert(`요청 실패: ${e.message}`); }
+          });
+        }
+        return [String(i + 1), el("span", {}, el("b", {}, name), r.match === "exact" ? el("span", { class: "muted" }, " · 이름 일치") : ""), r.description || "—", docs,
+          el("span", { title: r.why }, `${statusKo[r.status] || r.status} — ${r.why}`), act];
+      }))));
+    } catch (e) { res.innerHTML = ""; res.append(el("div", { class: "empty" }, `검색 실패: ${e.message}`)); }
+    finally { qBt.disabled = false; }
+  };
+  rq.querySelector("form").addEventListener("submit", (e) => { e.preventDefault(); search(); });
+  const reqList = el("div", { style: "margin-top:16px" });
+  rq.append(reqList);
+  const reqKo = { queued: "대기", running: "수록 중", added: "수록됨", rejected: "기각" };
+  let poll = null;
+  const renderRequests = (reqs) => {
+    reqList.innerHTML = "";
+    // 처리 중인 요청이 있으면 이 탭을 보고 있는 동안 30초마다 새로 읽는다.
+    clearTimeout(poll);
+    if (reqs.some((r) => r.status === "queued" || r.status === "running")) poll = setTimeout(() => { if (reqList.isConnected) load().catch(() => {}); }, 30000);
+    if (!reqs.length) return;
+    reqList.append(el("h3", { style: "margin:0 0 6px;font-size:14px" }, "요청 처리 현황"), el("div", { class: "scroll" }, table(["요청 시각", "브랜드", "상태", "비고"], reqs.slice(0, 50).map((r) => [
+      (r.at || "").slice(0, 16).replace("T", " "), `${r.ko || r.en || r.qid}${r.ko && r.en ? ` (${r.en})` : ""}`, reqKo[r.status] || r.status,
+      r.status === "added" ? el("a", { href: `/brand/${encodeURIComponent(r.slug)}.html`, target: "_blank", rel: "noopener" }, `/brand/${r.slug}.html — 빌드 후 공개`)
+        : r.status === "rejected" ? r.why || "" : r.status === "queued" && r.attempts ? `일시 오류로 다시 시도 대기(${r.attempts}회)` : "서버가 처리 중입니다",
+    ]))));
+  };
+
   const load = async () => {
     const d = await api("/api/catalog");
+    renderRequests(d.requests || []);
     out.innerHTML = "";
     const s = d.settings;
     const cb = el("input", { type: "checkbox", checked: s.autoImport ? "" : null });
@@ -734,6 +793,112 @@ function renderCatalog(host) {
     ]))));
     out.append(lg, sel, ls);
   };
+  load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
+}
+
+// ─── 12. 로고 직접 올리기 ───────────────────────────────────────────────────
+// 로고가 없는 브랜드에 찾은 로고를 올린다. 브라우저에서 800px로 줄여 PNG(원본이 JPEG면 JPEG)로 보낸다 — SVG도 여기서 PNG가 된다.
+// 올리면 서버가 다시 빌드해 공개한다(약 11분). 사람이 올린 로고는 자동 수집 로고보다 우선한다.
+async function shrinkImage(file) {
+  const url = URL.createObjectURL(file);
+  try {
+    const img = await new Promise((ok, no) => { const i = new Image(); i.onload = () => ok(i); i.onerror = () => no(new Error("이미지를 읽을 수 없습니다")); i.src = url; });
+    const w0 = img.naturalWidth || 800, h0 = img.naturalHeight || 800;
+    const type = file.type === "image/jpeg" ? "image/jpeg" : "image/png";
+    for (const max of [800, 600, 400]) {
+      const k = Math.min(1, max / Math.max(w0, h0));
+      const c = document.createElement("canvas");
+      c.width = Math.max(1, Math.round(w0 * k)); c.height = Math.max(1, Math.round(h0 * k));
+      c.getContext("2d").drawImage(img, 0, 0, c.width, c.height);
+      const blob = await new Promise((ok) => c.toBlob(ok, type, 0.92));
+      if (blob && blob.size <= 900000) return { blob, w: c.width, h: c.height };
+    }
+    throw new Error("줄여도 900KB를 넘습니다 — 더 단순한 이미지를 쓰세요");
+  } finally { URL.revokeObjectURL(url); }
+}
+
+function renderLogos(host) {
+  const b = box(host, "로고 직접 올리기", "로고가 없는 브랜드에 직접 찾은 로고를 올립니다. '이미지 검색'이나 '공식 사이트'에서 로고를 찾아 저장한 뒤 '올리기'로 선택하세요. PNG·JPEG·WebP·SVG를 받고, 브라우저에서 800px로 줄여 보냅니다. 투명 배경 PNG나 SVG가 가장 좋습니다. 올리면 서버가 다시 빌드해 약 11분 뒤 사이트에 실립니다. 브랜드명으로 검색하면 로고가 이미 있는 브랜드도 나오므로 틀린 로고를 바꿀 때도 쓸 수 있습니다.");
+  const qIn = el("input", { type: "search", placeholder: "브랜드 검색(비우면 로고 없는 브랜드)", maxlength: "80", style: "width:300px;padding:8px 10px;border:1px solid #ccc;border-radius:7px" });
+  const out = el("div", {});
+  b.append(el("form", { class: "row", style: "gap:8px;align-items:center;margin-bottom:12px" }, qIn, el("button", { class: "act" }, "검색")), out);
+
+  const upload = async (r, file, btn) => {
+    btn.disabled = true;
+    try {
+      const { blob, w, h } = await shrinkImage(file);
+      const prev = URL.createObjectURL(blob);
+      const ok = await new Promise((resolve) => {
+        const dlg = el("div", { style: "position:fixed;inset:0;background:rgba(0,0,0,.45);display:flex;align-items:center;justify-content:center;z-index:50" });
+        const yes = el("button", { class: "act" }, "이 로고로 올리기"), no = el("button", { class: "act", style: "background:#888" }, "취소");
+        yes.onclick = () => { dlg.remove(); resolve(true); }; no.onclick = () => { dlg.remove(); resolve(false); };
+        dlg.append(el("div", { style: "background:#fff;border-radius:10px;padding:18px;max-width:440px" },
+          el("b", {}, `${r.name}${r.nameEn && r.nameEn !== r.name ? ` (${r.nameEn})` : ""}`),
+          el("div", { style: "margin:12px 0;display:grid;grid-template-columns:1fr 1fr;gap:10px" },
+            el("div", { style: "height:120px;display:flex;align-items:center;justify-content:center;background:#fff;border:1px solid #eee;border-radius:6px" }, el("img", { src: prev, alt: "", style: "max-width:90%;max-height:100px" })),
+            el("div", { style: "height:120px;display:flex;align-items:center;justify-content:center;background:#222;border-radius:6px" }, el("img", { src: prev, alt: "", style: "max-width:90%;max-height:100px" }))),
+          el("div", { class: "muted", style: "font-size:12px;margin-bottom:12px" }, `${w}×${h} · ${Math.round(blob.size / 1000)}KB — 밝은·어두운 배경에서 모두 보이는지 확인하세요.`),
+          el("div", { class: "row", style: "gap:8px" }, yes, no)));
+        document.body.append(dlg);
+      });
+      URL.revokeObjectURL(prev);
+      if (!ok) return;
+      const res = await fetch(`${API}/api/logos/upload?slug=${encodeURIComponent(r.slug)}`, { method: "POST", credentials: "same-origin", headers: { "Content-Type": blob.type }, body: blob });
+      const j = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(j.error || `HTTP ${res.status}`);
+      load();
+    } catch (e) { alert(`올리기 실패: ${e.message}`); }
+    finally { btn.disabled = false; }
+  };
+  const pickBtn = (r, label) => {
+    const inp = el("input", { type: "file", accept: "image/png,image/jpeg,image/webp,image/svg+xml", style: "display:none" });
+    const btn = el("button", { class: "act" }, label);
+    btn.addEventListener("click", () => inp.click());
+    inp.addEventListener("change", () => { if (inp.files[0]) upload(r, inp.files[0], btn); inp.value = ""; });
+    return el("span", {}, btn, inp);
+  };
+  const finders = (r) => {
+    const q = `${r.name}${r.nameEn && r.nameEn !== r.name ? ` ${r.nameEn}` : ""} 로고`;
+    return el("span", {},
+      el("a", { href: `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(q)}`, target: "_blank", rel: "noopener" }, "이미지 검색"),
+      /^https?:\/\//.test(r.web || "") ? el("a", { href: r.web, target: "_blank", rel: "noopener noreferrer", style: "margin-left:8px" }, "공식 사이트") : "",
+      el("a", { href: `/brand/${encodeURIComponent(r.slug)}.html`, target: "_blank", rel: "noopener", style: "margin-left:8px" }, "페이지"));
+  };
+
+  const load = async () => {
+    const q = qIn.value.trim();
+    const d = await api(`/api/logos${q ? `?q=${encodeURIComponent(q)}` : ""}`);
+    out.innerHTML = "";
+    cards(out, [
+      { k: "로고 없는 브랜드", v: `${num(d.missingTotal)}곳`, s: "올린 로고 반영 전 기준" },
+      { k: "올린 로고", v: `${d.uploaded.length}건`, s: "사이트 반영은 서버 빌드 후(약 11분)" },
+    ]);
+    if (d.uploaded.length) {
+      const grid = el("div", { style: "display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px;margin:12px 0 20px" });
+      for (const r of d.uploaded) {
+        const del = el("button", { class: "act", style: "background:#888" }, "삭제");
+        del.addEventListener("click", async () => {
+          if (!confirm(`${r.name}: 올린 로고를 지울까요? (이전 로고가 있었으면 그것으로 돌아갑니다)`)) return;
+          del.disabled = true;
+          try { await api("/api/logos/delete", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ slug: r.slug }) }); load(); }
+          catch (e) { del.disabled = false; alert(e.message); }
+        });
+        grid.append(el("div", { style: "border:1px solid #e5e5e5;border-radius:8px;padding:10px;background:#fff" },
+          el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:#fafafa;border-radius:6px" },
+            el("img", { src: `${API}/api/logos/file?slug=${encodeURIComponent(r.slug)}&v=${encodeURIComponent(r.file)}`, alt: `${r.name} 로고`, loading: "lazy", style: "max-width:100%;max-height:88px;object-fit:contain" })),
+          el("div", { style: "margin-top:8px;font-weight:600" }, r.name || r.slug),
+          el("div", { class: "muted", style: "font-size:12px" }, `${(r.at || "").slice(0, 16).replace("T", " ")} · ${Math.round((r.bytes || 0) / 1000)}KB`),
+          el("div", { class: "row", style: "gap:6px;margin-top:8px" }, pickBtn(r, "교체"), del)));
+      }
+      out.append(el("h3", { style: "margin:12px 0 0;font-size:14px" }, "올린 로고"), grid);
+    }
+    out.append(el("h3", { style: "margin:12px 0 6px;font-size:14px" }, q ? `'${q}' 검색 결과` : "로고 없는 브랜드(한글 표기 있는 브랜드 먼저, 최대 80곳)"));
+    if (!d.missing.length) { out.append(el("div", { class: "empty" }, q ? "해당하는 브랜드가 없습니다." : "로고 없는 브랜드가 없습니다.")); return; }
+    out.append(el("div", { class: "scroll" }, table(["브랜드", "산업", "로고 찾기", "현재", ""], d.missing.map((r) => [
+      `${r.name}${r.nameEn && r.nameEn !== r.name ? ` (${r.nameEn})` : ""}`, r.industry || "—", finders(r), r.hasLogo ? "있음" : "없음", pickBtn(r, r.hasLogo ? "바꾸기" : "올리기"),
+    ]))));
+  };
+  b.querySelector("form").addEventListener("submit", (e) => { e.preventDefault(); load().catch((err) => alert(err.message)); });
   load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
 }
 

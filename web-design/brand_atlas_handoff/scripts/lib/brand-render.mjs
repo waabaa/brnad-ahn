@@ -4,7 +4,7 @@
 //  - H2는 질문형이지만 데이터가 있는 섹션만 만든다. 없는 사실을 만들지 않는다(FAQ와 같은 규율).
 //  - 팩트 표는 factRows()가 검증한 값만 싣고, 값마다 출처(정의문/위키데이터/공식)를 남긴다.
 //  - 본문 산문·연표·BI/CI·관련 브랜드는 app.js의 함수(VM 샌드박스)를 그대로 써서 SPA와 같다.
-import { esc, breadcrumbs } from "./page-shell.mjs";
+import { esc, breadcrumbs, archetyposBanner } from "./page-shell.mjs";
 import { koreanName, latinName, displayName, headingMarkup, factRows, topicParticle, urlSlugOf, countryOf } from "./brand-seo.mjs";
 import { tiles, logoImg, assetHref } from "./markup.mjs";
 import { hasLogo } from "./archive.mjs";
@@ -118,7 +118,7 @@ export function renderBrandPage(brand, ctx) {
 
   // 등급(목록 노출 여부)은 운영 기준이라 페이지에 적지 않는다(2026-09-13). "디렉토리 등급 자료", "수록 자료를 그대로
   // 옮긴 것" 같은 안내는 독자에게 정보가 아니고, 미완성·복제 자료라는 신호로 읽혔다.
-  const body = `${head}<div class="wrap brand-body"><div class="brand-main" id="brandPage">${sections.map(s => s.html).join("")}<!--related-->${relatedHtml}</div><aside class="aside">${factsHtml}${tocHtml}</aside></div>`;
+  const body = `${head}<div class="wrap brand-body"><div class="brand-main" id="brandPage">${sections.map(s => s.html).join("")}<!--related-->${relatedHtml}</div><aside class="aside">${factsHtml}${archetyposBanner("aside")}${tocHtml}</aside></div>`;
   return body;
 }
 

@@ -60,7 +60,10 @@ let RATE_LIMITED = false, WAITED = 0;
 async function generate(prompt) {
   for (let i = 0; i < 5; i++) {
     try {
-      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "gpt", prompt, fallback: false, timeout_ms: 170000 }), signal: AbortSignal.timeout(180000) });
+      // 2026-09-23: provider를 claude로 — gpt 우회(GATEWAY_GPT_TEXT_REDIRECT)가 풀려도 claude로 계속 가도록 명시.
+      // model은 보내지 않는다 — brandatlas 계열은 게이트웨이 정책이 claude-sonnet-5로 강제 치환한다.
+      // 2026-09-23 실측: 3,000~4,000자 기사 생성에 claude-sonnet-5(david 계정, o2o 7일 한도 도달로 failover)가 5분을 넘김 — 8분으로 상향.
+      const res = await fetch(GW, { method: "POST", headers: { Authorization: `Bearer ${GW_KEY}`, "Content-Type": "application/json" }, body: JSON.stringify({ provider: "claude", prompt, fallback: false, timeout_ms: 480000, max_tokens: 8000 }), signal: AbortSignal.timeout(490000) });
       const j = await res.json().catch(() => null);
       if (j?.ok && j.content) return String(j.content);
       const err = j?.error;

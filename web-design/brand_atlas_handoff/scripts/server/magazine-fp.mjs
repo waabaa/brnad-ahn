@@ -15,4 +15,7 @@ const b = "content/brands";
 if (fs.existsSync(b)) h.update(`brands:${fs.readdirSync(b).filter(f => f.endsWith(".json")).sort().join(",")}`);
 const dec = `${process.env.CAT_ADMIN || "/home/developer/brandatlas-admin/data/catalog"}/decisions.json`;
 if (fs.existsSync(dec)) h.update(`logo:${fs.readFileSync(dec)}`);
+// 2026-09-22: 어드민에서 올린 로고 목록(파일명에 내용 해시가 들어 있어 교체도 잡힌다).
+const up = `${process.env.CAT_ADMIN || "/home/developer/brandatlas-admin/data/catalog"}/../logo-uploads/manifest.json`;
+if (fs.existsSync(up)) h.update(`upload:${fs.readFileSync(up)}`);
 process.stdout.write(h.digest("hex").slice(0, 16));

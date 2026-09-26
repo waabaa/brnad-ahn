@@ -1,11 +1,11 @@
 # 브랜드 아틀라스 (Brand Atlas)
 > 브랜드의 설립 배경, 브랜드 아이덴티티, 로고(BI/CI) 변천, 제품과 서비스, 현재 상태를 정리한 한국어 브랜드 사전입니다.
-> 수록 브랜드 2411개(목록 노출 2182개 + 디렉토리 등급 229개), 색인 대상 2363개, 로고 이미지 1825개. 운영 브랜드성장연구소 아키타이포스.
+> 수록 브랜드 2466개(목록 노출 2258개 + 디렉토리 등급 208개), 색인 대상 2420개, 로고 이미지 2099개. 운영 브랜드성장연구소 아키타이포스.
 
 ## 데이터 원칙
 - 브랜드명은 한글과 원어를 함께 표기합니다. 데이터에 없는 표기는 만들지 않습니다.
 - 기원 국가·설립연도는 검수된 정의문에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 완전히 일치하는 위키데이터 개체의 값을 씁니다.
-- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 1334개 브랜드에만 붙어 있습니다.
+- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 1389개 브랜드에만 붙어 있습니다.
 - 각 브랜드 페이지에는 검증된 값만 담은 '브랜드 정보' 표와 출처 절이 있습니다.
 
 ## 허브
@@ -14,26 +14,27 @@
 - [국가별](https://brandatlas.co.kr/pages/countries.html): 19개국
 - [컬렉션](https://brandatlas.co.kr/pages/collections.html): 10개 테마(AI·핀테크·항공사 등)
 - [로고 아카이브](https://brandatlas.co.kr/pages/bici.html): 로고·BI/CI 변천
+- [브랜드 연대기](https://brandatlas.co.kr/brand-history/): 인장에서 AI까지 — 표식·상표법·브랜드 탄생·로고·컬러·광고·이론·디지털을 연도별로 나란히 놓은 연대기
 - [타임라인](https://brandatlas.co.kr/pages/timeline.html): 설립연도별
 - [인사이트](https://brandatlas.co.kr/pages/insights.html): 브랜드별 관점
 - [소개·편집 원칙](https://brandatlas.co.kr/pages/about.html)
 
 ## 산업 카테고리
-- [AI·인공지능](https://brandatlas.co.kr/category/ai.html): 22개 브랜드
-- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 370개 브랜드
-- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 261개 브랜드
-- [브랜드·비즈니스](https://brandatlas.co.kr/category/brand-business.html): 255개 브랜드
-- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 202개 브랜드
-- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 172개 브랜드
-- [금융](https://brandatlas.co.kr/category/finance.html): 161개 브랜드
-- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 151개 브랜드
-- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 124개 브랜드
-- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 107개 브랜드
-- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 96개 브랜드
-- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 79개 브랜드
-- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 69개 브랜드
-- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 62개 브랜드
-- [스포츠·아웃도어](https://brandatlas.co.kr/category/sports-outdoor.html): 51개 브랜드
+- [AI·인공지능](https://brandatlas.co.kr/category/ai.html): 26개 브랜드
+- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 386개 브랜드
+- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 271개 브랜드
+- [브랜드·비즈니스](https://brandatlas.co.kr/category/brand-business.html): 264개 브랜드
+- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 214개 브랜드
+- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 179개 브랜드
+- [금융](https://brandatlas.co.kr/category/finance.html): 162개 브랜드
+- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 153개 브랜드
+- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 128개 브랜드
+- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 108개 브랜드
+- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 99개 브랜드
+- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 82개 브랜드
+- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 70개 브랜드
+- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 63개 브랜드
+- [스포츠·아웃도어](https://brandatlas.co.kr/category/sports-outdoor.html): 53개 브랜드
 
 ## 컬렉션
 - [핀테크·결제](https://brandatlas.co.kr/collection/fintech.html): 31개 브랜드
@@ -42,24 +43,24 @@
 - [부동산·건설](https://brandatlas.co.kr/collection/property.html): 36개 브랜드
 - [항공사](https://brandatlas.co.kr/collection/airlines.html): 64개 브랜드
 - [박물관·미술관](https://brandatlas.co.kr/collection/museums.html): 24개 브랜드
-- [패스트푸드](https://brandatlas.co.kr/collection/fast-food.html): 39개 브랜드
+- [패스트푸드](https://brandatlas.co.kr/collection/fast-food.html): 40개 브랜드
 - [카페·커피](https://brandatlas.co.kr/collection/cafes.html): 28개 브랜드
 - [디지털 서비스](https://brandatlas.co.kr/collection/digital-services.html): 78개 브랜드
 - [올림픽·엑스포](https://brandatlas.co.kr/collection/olympics-expos.html): 15개 브랜드
 
 ## 기원 국가
-- [미국](https://brandatlas.co.kr/country/usa.html): 685개 브랜드
-- [한국](https://brandatlas.co.kr/country/korea.html): 377개 브랜드
-- [영국](https://brandatlas.co.kr/country/uk.html): 82개 브랜드
-- [독일](https://brandatlas.co.kr/country/germany.html): 75개 브랜드
-- [일본](https://brandatlas.co.kr/country/japan.html): 51개 브랜드
-- [프랑스](https://brandatlas.co.kr/country/france.html): 38개 브랜드
+- [미국](https://brandatlas.co.kr/country/usa.html): 697개 브랜드
+- [한국](https://brandatlas.co.kr/country/korea.html): 396개 브랜드
+- [영국](https://brandatlas.co.kr/country/uk.html): 95개 브랜드
+- [독일](https://brandatlas.co.kr/country/germany.html): 79개 브랜드
+- [일본](https://brandatlas.co.kr/country/japan.html): 57개 브랜드
+- [프랑스](https://brandatlas.co.kr/country/france.html): 39개 브랜드
 - [네덜란드](https://brandatlas.co.kr/country/netherlands.html): 31개 브랜드
 - [이탈리아](https://brandatlas.co.kr/country/italy.html): 30개 브랜드
-- [스위스](https://brandatlas.co.kr/country/switzerland.html): 18개 브랜드
+- [스위스](https://brandatlas.co.kr/country/switzerland.html): 19개 브랜드
 - [러시아](https://brandatlas.co.kr/country/russia.html): 18개 브랜드
+- [캐나다](https://brandatlas.co.kr/country/canada.html): 17개 브랜드
 - [스웨덴](https://brandatlas.co.kr/country/sweden.html): 15개 브랜드
-- [캐나다](https://brandatlas.co.kr/country/canada.html): 15개 브랜드
 - [중국](https://brandatlas.co.kr/country/china.html): 11개 브랜드
 - [스페인](https://brandatlas.co.kr/country/spain.html): 10개 브랜드
 - [아일랜드](https://brandatlas.co.kr/country/ireland.html): 8개 브랜드
@@ -69,6 +70,8 @@
 - [노르웨이](https://brandatlas.co.kr/country/norway.html): 5개 브랜드
 
 ## 아틀라스 매거진
+- [펜타그램이 다시 그린 심볼들](https://brandatlas.co.kr/magazine/2026-10-studio-pentagram.html): 여덟 브랜드가 같은 스튜디오를 거치며 남긴 흔적을 비교한다. 형태를 단순화하는 방식은 같지만 그 결과가 향하는 곳은 브랜드마다 다르다.
+- [처음에는 무엇을 팔았나](https://brandatlas.co.kr/magazine/first-products.html): 화약, 양초, 볼트, 전신기, 화물. 1800년대 전반에 문을 연 회사 열한 곳의 첫 상품을 지금 하는 일과 나란히 놓았다. 오래 살아남은 것은 제품이 아니었다.
 - [AI는 어떤 얼굴을 고르는가](https://brandatlas.co.kr/magazine/ai-brand-faces.html): 파랑과 보라의 그러데이션이 AI의 기본값처럼 굳어지는 동안, 몇몇 회사는 울새와 말, 세포와 별표를 골랐다. 새 옷을 입은 AI 브랜드 아홉 곳을 나란히 놓고 읽는다.
 - [로고 뒤에서 일한 사람들](https://brandatlas.co.kr/magazine/studios-behind-logos.html): 울프 올린스가 트럭 기사를 인터뷰하던 1967년부터 랜도가 타파웨어의 뚜껑을 그린 2024년까지. 다섯 스튜디오의 작업으로 리브랜딩이라는 일이 어떻게 달라져 왔는지 따라간다.
 - [간판을 바꾼 날](https://brandatlas.co.kr/magazine/renamed-companies.html): 시계 무브먼트의 이름이 회사 이름이 되고, 금성사가 LG가 되고, 페이스북이 메타가 됐다. 회사는 언제 자기 이름을 버리는가. 사명을 바꾼 열여섯 곳의 기록을 세 갈래로 나눠 읽는다.

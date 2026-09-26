@@ -47,6 +47,14 @@ fi
 # ② 승인 반영
 node scripts/magazine-sync.mjs
 
+# ②-b 브랜드 요청 수록 — 어드민에서 검색해 고른 브랜드(data/catalog/requests.json). 수록되면 공개 지문이 바뀌어 ③에서 공개된다.
+# --no-publish 는 주간 리프레시가 빌드 잠금을 잡은 채 부르는 경우라 수록 잠금만 잡는다(빌드 잠금을 또 잡으면 교착).
+if CAT_ADMIN="$CAT_ADMIN" node scripts/server/catalog-requests.mjs --has-pending; then
+  if [ "$NO_PUBLISH" = "true" ]; then CAT_ADMIN="$CAT_ADMIN" flock -w 3600 "$CAT_ADMIN/.lock" node scripts/server/catalog-requests.mjs
+  else CAT_ADMIN="$CAT_ADMIN" flock -w 3600 "$BUILD_LOCK" flock -w 3600 "$CAT_ADMIN/.lock" node scripts/server/catalog-requests.mjs; fi ||
+    echo "  ! 브랜드 요청 수록 실패 — 다음 실행에서 다시"
+fi
+
 # ③ 공개 — 원고 지문(scripts/server/magazine-fp.mjs)이 지난 공개와 다르면 빌드·배포. 공개일이 된 기사는 날짜가 바뀌면 지문이 달라져 자동으로 열린다.
 FP="$(magazine_fp)"
 LAST="$(cat "$ADMIN/.published-fp" 2>/dev/null || true)"
