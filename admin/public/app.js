@@ -1,6 +1,8 @@
 // brand-atlas 운영 어드민 — 프런트.
 // 백엔드는 /admin-api/ 아래에 있고 쿠키 인증을 쓴다. 빌드 스텝 없이 그대로 서빙한다.
 const API = "/admin-api";
+// theme.css 토큰과 같은 값 — Chart.js는 CSS 변수를 못 읽어서 여기에 둔다. 강조색은 하나(accent).
+const C = { ink: "#0f172a", accent: "#2563eb", accentSoft: "rgba(37,99,235,.10)", slate: "#64748b", ok: "#15803d", warn: "#b45309" };
 const $ = (s, r = document) => r.querySelector(s);
 const el = (t, a = {}, ...kids) => {
   const n = document.createElement(t);
@@ -56,6 +58,9 @@ const TABS = [
 
 let SNAP = null, CONF = null, CURRENT = null;
 const charts = {};
+Chart.defaults.font.family = '"Noto Sans KR", system-ui, sans-serif';
+Chart.defaults.color = C.slate;
+Chart.defaults.borderColor = "#e2e8f0";
 function chart(canvas, cfg) {
   if (charts[canvas.id]) charts[canvas.id].destroy();
   charts[canvas.id] = new Chart(canvas, cfg);
@@ -130,10 +135,32 @@ function cards(host, items) {
   for (const c of items) {
     w.append(el("div", { class: `card${c.accent ? " accent" : ""}` },
       el("div", { class: "k" }, c.k),
-      el("div", { class: "v", html: `${c.v}${c.unit ? `<small>${c.unit}</small>` : ""}` }),
+      el("div", { class: "v", html: `${c.v}${c.unit ? `<small>${c.unit}</small>` : ""}` },
+        c.delta != null ? el("span", { class: `d ${c.delta > 0 ? "up" : c.delta < 0 ? "down" : "flat"}`, "aria-label": `전기 대비 ${c.delta}` },
+          `${c.delta > 0 ? "▲" : c.delta < 0 ? "▼" : "–"} ${num(Math.abs(c.delta))}`) : ""),
       c.s ? el("div", { class: "s" }, c.s) : ""));
   }
   host.append(w);
+}
+/** 상태 배지 — kind: ok | warn | bad | info | mute. 색만으로 전달하지 않도록 text는 필수. */
+function pill(kind, text) {
+  return el("span", { class: `pill ${kind}` }, text);
+}
+/** 세그먼트 선택(기간 등). options: [[값, 라벨], …]. 반환 요소의 .value 로 현재 값을 읽고, 바뀌면 onChange(값)를 부른다. */
+function seg(options, initial, onChange) {
+  const w = el("div", { class: "seg", role: "group" });
+  w.value = initial;
+  const btns = options.map(([v, label]) => {
+    const b = el("button", { type: "button", "aria-pressed": String(v === initial) }, label);
+    b.addEventListener("click", () => {
+      w.value = v;
+      btns.forEach((x, i) => x.setAttribute("aria-pressed", String(options[i][0] === v)));
+      onChange?.(v);
+    });
+    return b;
+  });
+  w.append(...btns);
+  return w;
 }
 function box(host, title, sub) {
   const b = el("div", { class: "box" }, el("h2", {}, title), sub ? el("div", { class: "sub" }, sub) : "");
@@ -152,7 +179,7 @@ function table(headers, rows) {
 function brandLink(slug) {
   const href = internalPath(`/brand/${encodeURIComponent(String(slug ?? ""))}.html`);
   return href
-    ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:#e2231a" }, "열기")
+    ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:var(--accent-strong)" }, "열기")
     : el("span", { class: "muted" }, "—");
 }
 
@@ -192,7 +219,7 @@ function renderDashboard(host) {
     chart(c, {
       type: "line",
       data: { labels: pts.map((p) => p.date), datasets: [{ label: "색인 페이지", data: pts.map((p) => p.naverIndexed),
-        borderColor: "#e2231a", backgroundColor: "rgba(226,35,26,.08)", fill: true, tension: .3, pointRadius: 4 }] },
+        borderColor: C.accent, backgroundColor: C.accentSoft, fill: true, tension: .3, pointRadius: 4 }] },
       options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } },
         scales: { y: { beginAtZero: false } } },
     });
@@ -275,7 +302,7 @@ function renderSearch(host) {
     b2.append(el("div", { class: "chartwrap" }, c));
     chart(c, {
       type: "bar",
-      data: { labels: rows.map((r) => r[0]), datasets: [{ label: "갱신 페이지", data: rows.map((r) => r[1]), backgroundColor: "#141414" }] },
+      data: { labels: rows.map((r) => r[0]), datasets: [{ label: "갱신 페이지", data: rows.map((r) => r[1]), backgroundColor: C.ink }] },
       options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } },
     });
   }
@@ -299,7 +326,7 @@ function renderCrawlers(host) {
     out.append(el("div", { class: "chartwrap" }, c));
     chart(c, {
       type: "bar",
-      data: { labels: d.bots.map((x) => x.name), datasets: [{ label: "요청 수", data: d.bots.map((x) => x.hits), backgroundColor: "#e2231a" }] },
+      data: { labels: d.bots.map((x) => x.name), datasets: [{ label: "요청 수", data: d.bots.map((x) => x.hits), backgroundColor: C.accent }] },
       options: { responsive: true, maintainAspectRatio: false, indexAxis: "y", plugins: { legend: { display: false } } },
     });
     out.append(el("div", { style: "height:18px" }));
@@ -349,7 +376,7 @@ function renderContent(host) {
 
   chart(c1, {
     type: "bar",
-    data: { labels: Object.keys(SNAP.bodyBuckets || {}), datasets: [{ label: "페이지", data: Object.values(SNAP.bodyBuckets || {}), backgroundColor: "#141414" }] },
+    data: { labels: Object.keys(SNAP.bodyBuckets || {}), datasets: [{ label: "페이지", data: Object.values(SNAP.bodyBuckets || {}), backgroundColor: C.ink }] },
     options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } },
   });
 
@@ -402,7 +429,7 @@ function renderAudit(host) {
   b.append(table(["항목", "결과"], ac.checks.map(([n, ok]) => [n, el("span", { class: `pill ${ok ? "ok" : "bad"}` }, ok ? "PASS" : "FAIL")])));
 
   const b2 = box(host, "지표 원본", "audit-seo.mjs --json 출력");
-  b2.append(el("pre", { class: "scroll", style: "font-size:12px;background:#fafafa;padding:14px;border-radius:8px;overflow:auto" },
+  b2.append(el("pre", { class: "scroll", style: "font-size:12px;background:var(--bg);padding:14px;border-radius:8px;overflow:auto" },
     JSON.stringify(a, null, 1)));
 }
 
@@ -421,7 +448,7 @@ function renderKeywords(host) {
     out.innerHTML = "";
     const c = el("canvas", { id: "chTrend" });
     out.append(el("div", { class: "chartwrap", style: "height:340px" }, c));
-    const colors = ["#e2231a", "#141414", "#0369a1", "#15803d", "#b45309"];
+    const colors = [C.accent, C.ink, C.slate, C.ok, C.warn];
     chart(c, {
       type: "line",
       data: {
@@ -481,8 +508,8 @@ function renderGa4(host) {
         data: {
           labels: d.daily.map((r) => label(r.date)),
           datasets: [
-            { label: "사용자", data: d.daily.map((r) => r.activeUsers), borderColor: "#e2231a", backgroundColor: "rgba(226,35,26,.08)", fill: true, tension: .3, pointRadius: 2 },
-            { label: "페이지뷰", data: d.daily.map((r) => r.screenPageViews), borderColor: "#141414", backgroundColor: "transparent", tension: .3, pointRadius: 2 },
+            { label: "사용자", data: d.daily.map((r) => r.activeUsers), borderColor: C.accent, backgroundColor: C.accentSoft, fill: true, tension: .3, pointRadius: 2 },
+            { label: "페이지뷰", data: d.daily.map((r) => r.screenPageViews), borderColor: C.ink, backgroundColor: "transparent", tension: .3, pointRadius: 2 },
           ],
         },
         options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } },
@@ -528,7 +555,7 @@ function renderGa4(host) {
             return [
               r.pagePath, r.screenPageViews, r.activeUsers,
               href
-                ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:#e2231a" }, "열기")
+                ? el("a", { href, target: "_blank", rel: "noopener noreferrer", style: "color:var(--accent-strong)" }, "열기")
                 : el("span", { class: "muted" }, "경로 아님"),
             ];
           })))
@@ -542,7 +569,7 @@ function renderGa4(host) {
 // ─── 9. 구글 서치 콘솔 ──────────────────────────────────────────────────────
 function renderGsc(host) {
   const b = box(host, "구글 서치 콘솔", "구글 검색 노출·클릭·순위와 색인 상태. 성과 데이터는 2~3일 늦게 들어오고, 결과는 6시간 캐시합니다.");
-  const sel = el("select", { class: "txt" }, ...[28, 90, 480].map((d) => el("option", { value: d, selected: d === 28 ? "" : null }, d === 480 ? "최대(16개월)" : `최근 ${d}일`)));
+  const sel = seg([[28, "28일"], [90, "90일"], [480, "16개월"]], 28, () => load());
   const btn = el("button", { class: "act" }, "조회");
   const out = el("div", {});
   b.append(el("div", { class: "row" }, sel, btn), out);
@@ -561,6 +588,18 @@ function renderGsc(host) {
       { k: "평균 순위", v: pos(s.position) },
     ]);
     out.append(inner);
+    try {
+      const t = await api("/api/google-trend");
+      const tb = el("div", { class: "box" }, el("h2", {}, "구글 추이 — 주간 측정"), el("div", { class: "sub" }, "고정 표본의 색인 비율, 구글봇 방문(최근 7일), 서치 콘솔·GA4(28일). 조치 내용은 '메모'에 남습니다."));
+      const h = [...(t.history || [])].reverse();
+      tb.append(h.length ? table(["측정", { label: "색인(표본)", num: 1 }, { label: "구글봇 브랜드", num: 1 }, { label: "구글봇 전체", num: 1 }, { label: "GSC 노출", num: 1 }, { label: "GSC 클릭", num: 1 }, { label: "GA4 구글 세션", num: 1 }, "메모"], h.map((r) => {
+        const i = r.index, g = r.googlebot7d || {};
+        const gAll = Object.entries(g).filter(([k]) => k !== "since" && k !== "image" && k !== "asset").reduce((n, [, v]) => n + v, 0);
+        return [r.at.slice(0, 10), i ? `${i.indexed}/${i.total} (${((i.ratio || 0) * 100).toFixed(1)}%)` : "—", g.brand ?? "—", r.googlebot7d ? gAll : "—",
+          r.gsc28d ? r.gsc28d.impressions : "—", r.gsc28d ? r.gsc28d.clicks : "—", r.ga4Google28d ? r.ga4Google28d.organicSessions : "—", r.event || ""];
+      })) : el("div", { class: "empty" }, "아직 측정 기록이 없습니다. 다음 주간 리프레시(월 05:10)에 첫 줄이 쌓입니다."));
+      out.append(tb);
+    } catch (e) { /* 추이 카드가 없어도 나머지는 보인다 */ }
     const ib = el("div", { class: "box" }, el("h2", {}, "색인 상태 — URL 검사"), el("div", { class: "sub" }, `대표 페이지 ${d.inspected.length}곳 · ${d.cachedAt} 기준`));
     ib.append(table(["경로", "판정", "상태", "마지막 크롤링"], d.inspected.map((r) => [r.path, r.verdict === "PASS" ? "색인됨" : r.verdict, r.coverage || "—", r.lastCrawl ? r.lastCrawl.slice(0, 10) : "—"])));
     out.append(ib);
@@ -574,8 +613,8 @@ function renderGsc(host) {
       db.append(el("div", { class: "chartwrap" }, c));
       out.append(db);
       chart(c, { type: "line", data: { labels: d.daily.map((r) => r.date), datasets: [
-        { label: "노출", data: d.daily.map((r) => r.impressions), borderColor: "#141414", backgroundColor: "transparent", tension: .3, pointRadius: 2 },
-        { label: "클릭", data: d.daily.map((r) => r.clicks), borderColor: "#e2231a", backgroundColor: "rgba(226,35,26,.08)", fill: true, tension: .3, pointRadius: 2 },
+        { label: "노출", data: d.daily.map((r) => r.impressions), borderColor: C.ink, backgroundColor: "transparent", tension: .3, pointRadius: 2 },
+        { label: "클릭", data: d.daily.map((r) => r.clicks), borderColor: C.accent, backgroundColor: C.accentSoft, fill: true, tension: .3, pointRadius: 2 },
       ] }, options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } } });
     }
     const g = el("div", { class: "grid2" });
@@ -643,7 +682,7 @@ function renderMagazine(host) {
           for (const blk of body.split(/\n{2,}/)) {
             const t = blk.trim(); if (!t) continue;
             if (t.startsWith("## ")) pv.append(el("h3", { style: "margin:18px 0 6px" }, t.slice(3)));
-            else if (t.startsWith("::")) pv.append(el("div", { class: "muted", style: "border-left:3px solid #e2231a;padding:4px 10px;margin:8px 0" }, t));
+            else if (t.startsWith("::")) pv.append(el("div", { class: "muted", style: "border-left:3px solid var(--accent);padding:4px 10px;margin:8px 0" }, t));
             else pv.append(el("p", { style: "line-height:1.8;margin:0 0 10px" }, t.replace(/\[([^\]]+)\]\(brand:[^)]+\)/g, "$1")));
           }
           pv.scrollIntoView({ behavior: "smooth" });
@@ -764,8 +803,8 @@ function renderCatalog(host) {
       if (r.decision) act.append(mk("취소", "undo"));
       else if (r.logoReview === "pending") act.append(mk("승인", "approve"), mk("반려", "reject"));
       else act.append(mk(r.logoReview === "approved" ? "내리기" : "다시 승인", r.logoReview === "approved" ? "reject" : "approve"));
-      grid.append(el("div", { style: "border:1px solid #e5e5e5;border-radius:8px;padding:10px;background:#fff" },
-        el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:#fafafa;border-radius:6px" },
+      grid.append(el("div", { style: "border:1px solid var(--line);border-radius:8px;padding:10px;background:var(--card)" },
+        el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:var(--bg);border-radius:6px" },
           el("img", { src: `${API}/api/catalog/logo?slug=${encodeURIComponent(r.slug)}`, alt: `${r.name} 로고 후보`, loading: "lazy", style: "max-width:100%;max-height:88px;object-fit:contain" })),
         el("div", { style: "margin-top:8px;font-weight:600" }, r.name || r.slug),
         el("div", { class: "muted", style: "font-size:12px" }, `${r.nameEn || ""} · ${state}`),
@@ -883,8 +922,8 @@ function renderLogos(host) {
           try { await api("/api/logos/delete", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ slug: r.slug }) }); load(); }
           catch (e) { del.disabled = false; alert(e.message); }
         });
-        grid.append(el("div", { style: "border:1px solid #e5e5e5;border-radius:8px;padding:10px;background:#fff" },
-          el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:#fafafa;border-radius:6px" },
+        grid.append(el("div", { style: "border:1px solid var(--line);border-radius:8px;padding:10px;background:var(--card)" },
+          el("div", { style: "height:96px;display:flex;align-items:center;justify-content:center;background:var(--bg);border-radius:6px" },
             el("img", { src: `${API}/api/logos/file?slug=${encodeURIComponent(r.slug)}&v=${encodeURIComponent(r.file)}`, alt: `${r.name} 로고`, loading: "lazy", style: "max-width:100%;max-height:88px;object-fit:contain" })),
           el("div", { style: "margin-top:8px;font-weight:600" }, r.name || r.slug),
           el("div", { class: "muted", style: "font-size:12px" }, `${(r.at || "").slice(0, 16).replace("T", " ")} · ${Math.round((r.bytes || 0) / 1000)}KB`),
@@ -905,7 +944,7 @@ function renderLogos(host) {
 /** 아직 못 읽는 상태일 때의 안내 — 무엇이 빠졌는지 서버가 알려준 사유를 그대로 보여 준다. */
 function setupGuide(d) {
   const wrap = el("div", {});
-  wrap.append(el("div", { class: "box", style: "border-color:#f0dcb8;background:#fff8ec" },
+  wrap.append(el("div", { class: "box warn" },
     el("h2", {}, "아직 수치를 읽을 수 없습니다"),
     el("div", { class: "sub" }, d.reason || "설정이 필요합니다."),
     d.measurementId

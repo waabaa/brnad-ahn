@@ -20,6 +20,7 @@ import hmac
 import json
 import os
 import re
+import threading
 import time
 import unicodedata
 import urllib.error
@@ -242,6 +243,76 @@ def crawler_report(days: int = 7) -> dict:
             for b, n in by_bot.most_common()
         ],
     }
+
+
+# ─── 구글봇 일별 집계 + 구글 추이(2026-10-05) ─────────────────────────────
+# 로그는 adm 그룹만 읽는다. 주간 리프레시(사용자 유닛)는 adm이 없어 못 읽으므로, 시스템 유닛인 이 서버가
+# 6시간마다 진짜 Googlebot(66.249.* 대역)만 날짜·분류별로 세어 data/googlebot-daily.json에 쌓는다.
+# 로그는 2주 남짓만 보관되므로 이미 세어 둔 날짜는 지우지 않고 새로 읽은 날짜만 덮어쓴다.
+GBOT_FILE = DATA_DIR / "googlebot-daily.json"
+GBOT_UA = re.compile(r"Googlebot|Google-InspectionTool|GoogleOther", re.I)
+
+
+def gbot_kind(path: str, status: str, ua: str) -> str:
+    if "Googlebot-Image" in ua:
+        return "image"
+    if path.startswith(("/images/", "/assets/")) or path.endswith((".css", ".js", ".svg", ".png", ".webp")):
+        return "asset"
+    if path.startswith("/robots.txt"):
+        return "robots"
+    if path.endswith(".xml"):
+        return "sitemap"
+    if status.startswith("3"):
+        return "redirect"
+    if path.startswith("/brand/"):
+        return "brand"
+    if path.startswith("/magazine/"):
+        return "magazine"
+    return "hub"
+
+
+def googlebot_tally() -> dict:
+    fresh: dict = defaultdict(Counter)
+    for line in read_log_lines(30):
+        m = LOG_RE.match(line)
+        if not m or not GBOT_UA.search(m.group("ua")) or not m.group("ip").startswith("66.249."):
+            continue
+        try:
+            ts = datetime.strptime(m.group("ts"), "%d/%b/%Y:%H:%M:%S %z")
+        except ValueError:
+            continue
+        fresh[ts.astimezone(KST).strftime("%Y-%m-%d")][gbot_kind(m.group("path"), m.group("status"), m.group("ua"))] += 1
+    try:
+        old = json.loads(GBOT_FILE.read_text("utf-8")) if GBOT_FILE.exists() else {}
+    except (OSError, ValueError):
+        old = {}
+    # 로그 맨 앞 날짜는 회전 시점에 잘려 있을 수 있으니, 이미 더 큰 값이 있으면 그것을 지킨다.
+    for day, c in fresh.items():
+        if sum(old.get(day, {}).values()) <= sum(c.values()):
+            old[day] = dict(c)
+    GBOT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    tmp = GBOT_FILE.with_suffix(".tmp")
+    tmp.write_text(json.dumps(dict(sorted(old.items())), ensure_ascii=False), "utf-8")
+    tmp.replace(GBOT_FILE)
+    return old
+
+
+def _gbot_loop() -> None:
+    while True:
+        try:
+            googlebot_tally()
+        except Exception as e:  # 집계 실패가 어드민을 멈추면 안 된다
+            print(f"googlebot_tally 실패: {e}")
+        time.sleep(6 * 3600)
+
+
+def google_trend() -> dict:
+    def rd(name: str, fallback):
+        try:
+            return json.loads((DATA_DIR / name).read_text("utf-8"))
+        except (OSError, ValueError):
+            return fallback
+    return {"history": rd("google-trend.json", []), "googlebotDaily": rd("googlebot-daily.json", {})}
 
 
 # ─── 매거진 자동 준비(2026-09-13) ─────────────────────────────────────────
@@ -1189,6 +1260,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json(502, {"error": f"서치 콘솔 조회 실패 HTTP {e.code}: {detail}"})
             except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
                 return self._json(502, {"error": f"서치 콘솔 조회 실패: {e}"})
+        if route == "/api/google-trend":
+            return self._json(200, google_trend())
         if route == "/api/ga4":
             ok, why = ga4_ready()
             if not ok:
@@ -1208,6 +1281,7 @@ class Handler(BaseHTTPRequestHandler):
 def main() -> None:
     if not PASSWORD or not SECRET:
         print("경고: ADMIN_PASSWORD / ADMIN_SESSION_SECRET 이 없으면 로그인이 되지 않습니다.")
+    threading.Thread(target=_gbot_loop, daemon=True).start()
     srv = ThreadingHTTPServer((HOST, PORT), Handler)
     print(f"brand-atlas admin → http://{HOST}:{PORT}  (snapshot: {DATA_DIR})")
     srv.serve_forever()

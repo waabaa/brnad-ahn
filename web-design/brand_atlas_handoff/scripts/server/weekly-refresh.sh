@@ -47,4 +47,6 @@ magazine_fp > "$MAG_ADMIN/.published-fp"   # 매거진 작업이 같은 원고�
 
 echo "[5] 색인 측정(네이버·구글)"
 node scripts/track-index.mjs --note "주간 리프레시(서버)" | head -2
+echo "[5-b] 구글 추이(고정 표본 색인·구글봇·GSC·GA4) — 실패해도 공개에는 영향 없음"
+(cd "$ADMIN_HOME" && PYTHONPATH="$ADMIN_HOME" .venv/bin/python "$SRC/scripts/server/google-trend.py" --note "주간 리프레시(서버)") || echo "  ! 구글 추이 측정 실패"
 echo "완료: $(date '+%F %T')"

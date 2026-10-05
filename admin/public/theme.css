@@ -1,0 +1,152 @@
+/* brand-atlas 운영 어드민 — Slate 테마 (2026-10-05, ui-ux-pro-max: Minimalism & Swiss, density 8 / motion 2 / variance 2)
+ *
+ * 규칙
+ *  · 중성색은 Slate 한 계열, 강조색은 --accent 하나. 상태색(ok/warn/bad)은 의미 전달용으로만 쓴다.
+ *  · 간격은 4px 격자(--s1..--s8), 라운드 8px, 그림자 없음(경계선으로 구분), 장식용 그라디언트·애니메이션 없음.
+ *  · 본문 대비 4.5:1 이상. 포커스는 항상 보인다(:focus-visible). 모션은 150ms, reduced-motion이면 끈다.
+ *  · 색을 직접 쓰지 말고 토큰을 쓴다. 차트 색은 app.js의 C 객체가 같은 값을 가진다.
+ */
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  /* Slate 중성 */
+  --bg:#f8fafc; --card:#ffffff; --line:#e2e8f0; --line-strong:#cbd5e1;
+  --ink:#0f172a; --text:#1e293b; --muted:#64748b;
+  --side:#0f172a; --side-hover:#1e293b; --side-line:#1e293b; --side-text:#cbd5e1; --side-muted:#64748b;
+  /* 단일 강조색 */
+  --accent:#2563eb; --accent-strong:#1d4ed8; --accent-soft:#eff6ff; --ring:rgba(37,99,235,.35);
+  /* 상태(의미 전용) */
+  --ok:#15803d; --ok-bg:#dcfce7; --warn:#b45309; --warn-bg:#fef3c7; --warn-line:#fcd34d; --bad:#b91c1c; --bad-bg:#fee2e2;
+  /* 간격 4px 격자 */
+  --s1:4px; --s2:8px; --s3:12px; --s4:16px; --s5:20px; --s6:24px; --s7:32px; --s8:48px;
+  --radius:8px; --side-w:232px; --ease:150ms cubic-bezier(.2,0,0,1);
+}
+
+html{-webkit-text-size-adjust:100%}
+body{font-family:"Noto Sans KR",-apple-system,"Segoe UI",system-ui,sans-serif;background:var(--bg);color:var(--text);
+     line-height:1.55;-webkit-font-smoothing:antialiased;font-size:14px}
+a{color:var(--accent-strong)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+/* ── 로그인 ── */
+#login{position:fixed;inset:0;display:grid;place-items:center;background:var(--bg);z-index:50}
+#login .box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:var(--s7);width:min(380px,92vw);margin:0}
+#login h1{font-size:20px;font-weight:700;color:var(--ink);margin-bottom:var(--s1)}
+#login p{color:var(--muted);font-size:13px;margin-bottom:var(--s6)}
+#login input{width:100%;height:44px;border:1px solid var(--line-strong);border-radius:var(--radius);padding:0 var(--s3);font-size:15px;font-family:inherit;background:#fff;color:var(--ink)}
+#login input:focus{outline:2px solid var(--accent);outline-offset:0;border-color:var(--accent)}
+#login button{width:100%;height:44px;margin-top:var(--s3);background:var(--ink);color:#fff;border:0;border-radius:var(--radius);
+              font-size:15px;font-weight:600;cursor:pointer;font-family:inherit;transition:background var(--ease)}
+#login button:hover{background:var(--accent-strong)}
+#login .err{color:var(--bad);font-size:13px;margin-top:var(--s3);min-height:20px}
+
+/* ── 레이아웃 ── */
+#app{display:none;min-height:100vh}
+#app.on{display:block}
+.sidebar{position:fixed;left:0;top:0;bottom:0;width:var(--side-w);background:var(--side);color:var(--side-text);
+         display:flex;flex-direction:column;z-index:20}
+.sidebar .brand{padding:var(--s5) var(--s5) var(--s4);border-bottom:1px solid var(--side-line)}
+.sidebar .brand b{display:block;font-size:15px;color:#fff;font-weight:600}
+.sidebar .brand span{font-size:11px;color:var(--side-muted);letter-spacing:.14em}
+.sidebar nav{flex:1;overflow-y:auto;padding:var(--s2)}
+.sidebar a{display:flex;align-items:center;justify-content:space-between;gap:var(--s2);padding:var(--s2) var(--s3);margin-bottom:2px;
+           color:var(--side-text);text-decoration:none;font-size:13.5px;border-radius:6px;cursor:pointer;transition:background var(--ease),color var(--ease)}
+.sidebar a:hover{background:var(--side-hover);color:#fff}
+.sidebar a.active{background:var(--side-hover);color:#fff;font-weight:600;box-shadow:inset 2px 0 0 var(--accent)}
+.sidebar a small{font-size:11px;color:var(--side-muted);font-weight:400}
+.sidebar .foot{padding:var(--s3) var(--s5);border-top:1px solid var(--side-line);font-size:12px;color:var(--side-muted)}
+.sidebar .foot button{background:none;border:1px solid #334155;color:var(--side-text);border-radius:6px;padding:var(--s1) var(--s3);
+                      font-size:12px;cursor:pointer;font-family:inherit;margin-top:var(--s2);width:100%;min-height:32px;transition:border-color var(--ease),color var(--ease)}
+.sidebar .foot button:hover{border-color:var(--accent);color:#fff}
+
+main{margin-left:var(--side-w);min-height:100vh}
+.topbar{background:var(--card);border-bottom:1px solid var(--line);padding:var(--s4) var(--s7);display:flex;
+        align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10}
+.topbar h1{font-size:18px;font-weight:700;color:var(--ink);letter-spacing:-.01em}
+.topbar .meta{font-size:12px;color:var(--muted);text-align:right;line-height:1.5}
+.wrap{padding:var(--s6) var(--s7) var(--s8)}
+.panel{display:none}
+.panel.on{display:block}
+
+/* ── KPI 카드 ── .card.accent 는 강조값(단일 액센트), .d.up/.d.down/.d.flat 은 증감 */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(184px,1fr));gap:var(--s3);margin-bottom:var(--s6)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:var(--s4) var(--s5)}
+.card .k{font-size:12px;color:var(--muted);margin-bottom:var(--s2);font-weight:500}
+.card .v{font-size:26px;font-weight:700;line-height:1.15;letter-spacing:-.02em;color:var(--ink);font-variant-numeric:tabular-nums}
+.card .v small{font-size:13px;font-weight:500;color:var(--muted);margin-left:var(--s1)}
+.card .s{font-size:12px;color:var(--muted);margin-top:var(--s2)}
+.card.accent .v{color:var(--accent-strong)}
+.card .d{display:inline-flex;align-items:center;gap:2px;font-size:12px;font-weight:600;margin-left:var(--s2);font-variant-numeric:tabular-nums}
+.card .d.up{color:var(--ok)} .card .d.down{color:var(--bad)} .card .d.flat{color:var(--muted)}
+
+/* ── 패널 박스 ── */
+.box{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:var(--s5);margin-bottom:var(--s4)}
+.box h2{font-size:15px;font-weight:600;color:var(--ink);margin-bottom:var(--s1)}
+.box .sub{font-size:12.5px;color:var(--muted);margin-bottom:var(--s4)}
+.box.warn{background:var(--warn-bg);border-color:var(--warn-line)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:var(--s4)}
+@media(max-width:1100px){.grid2{grid-template-columns:1fr}}
+
+/* ── 표 ── 머리글은 스크롤 영역(.scroll) 안에서 고정 */
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:var(--s2) var(--s3);border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11.5px;color:var(--muted);font-weight:600;letter-spacing:.03em;background:var(--bg);position:sticky;top:0;z-index:1}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.num{font-weight:600;color:var(--ink)}
+tbody tr{transition:background var(--ease)}
+tbody tr:hover{background:var(--bg)}
+tbody tr:last-child td{border-bottom:0}
+
+/* ── 상태 배지 ── 색만으로 전달하지 않도록 항상 텍스트를 함께 둔다 */
+.pill{display:inline-block;padding:1px var(--s2);border-radius:99px;font-size:11.5px;font-weight:600;line-height:1.7}
+.pill.ok{background:var(--ok-bg);color:var(--ok)}
+.pill.warn{background:var(--warn-bg);color:var(--warn)}
+.pill.bad{background:var(--bad-bg);color:var(--bad)}
+.pill.mute{background:#f1f5f9;color:var(--muted)}
+.pill.info{background:var(--accent-soft);color:var(--accent-strong)}
+
+.bar{height:6px;background:#e2e8f0;border-radius:99px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--accent)}
+
+/* ── 버튼·입력 ── 데스크톱 36px, 터치 기기 44px */
+button.act{background:var(--ink);color:#fff;border:1px solid var(--ink);border-radius:6px;padding:0 var(--s4);min-height:36px;font-size:13px;
+           font-weight:600;cursor:pointer;font-family:inherit;transition:background var(--ease),border-color var(--ease)}
+button.act:hover{background:var(--accent-strong);border-color:var(--accent-strong)}
+button.act[disabled]{opacity:.5;cursor:default}
+button.ghost{background:var(--card);color:var(--text);border:1px solid var(--line-strong)}
+button.ghost:hover{border-color:var(--accent);color:var(--accent-strong);background:var(--card)}
+input.txt,select.txt,textarea.txt{height:36px;border:1px solid var(--line-strong);border-radius:6px;padding:0 var(--s3);font-size:13.5px;
+          font-family:inherit;background:#fff;color:var(--ink);transition:border-color var(--ease)}
+textarea.txt{height:auto;padding:var(--s2) var(--s3)}
+input.txt:focus,select.txt:focus,textarea.txt:focus{outline:2px solid var(--ring);outline-offset:0;border-color:var(--accent)}
+@media(pointer:coarse){button.act,input.txt,select.txt,.sidebar a{min-height:44px}}
+
+/* ── 툴바·세그먼트(기간 선택 등) ── */
+.row{display:flex;gap:var(--s2);align-items:center;flex-wrap:wrap;margin-bottom:var(--s4)}
+.seg{display:inline-flex;border:1px solid var(--line-strong);border-radius:6px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:none;padding:0 var(--s3);min-height:32px;font:inherit;font-size:13px;color:var(--muted);cursor:pointer;transition:background var(--ease),color var(--ease)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button:hover{color:var(--ink);background:var(--bg)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:#fff}
+
+.muted{color:var(--muted)}
+.chartwrap{position:relative;height:300px}
+.scroll{max-height:420px;overflow-y:auto}
+code{background:#f1f5f9;padding:1px 6px;border-radius:4px;font-size:12.5px;color:var(--text);
+     font-family:ui-monospace,Menlo,Consolas,monospace;word-break:break-all}
+
+/* ── 빈 상태 ── */
+.empty{color:var(--muted);font-size:13.5px;padding:var(--s7) 0;text-align:center}
+
+@media(max-width:860px){
+  .sidebar{position:static;width:auto}
+  .sidebar nav{display:flex;overflow-x:auto;padding:var(--s1) var(--s2)}
+  .sidebar a{white-space:nowrap;margin:0 2px}
+  .sidebar a.active{box-shadow:inset 0 -2px 0 var(--accent)}
+  .sidebar a small{display:none}
+  main{margin-left:0}
+  .wrap,.topbar{padding-left:var(--s4);padding-right:var(--s4)}
+}
+@media(prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+}
