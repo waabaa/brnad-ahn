@@ -41,7 +41,8 @@ async function firstCapture(host) {
       return { ts, original };
     } catch (e) {
       if (attempt === 4) return { error: String(e.message || e) };
-      await sleep(3000 * attempt);
+      // 연결 거부(fetch failed)는 아카이브 쪽 속도 제한이라 길게 쉰다.
+      await sleep((/fetch failed/.test(String(e.message)) ? 30000 : 3000) * attempt);
     }
   }
   return { error: "retries exhausted" };

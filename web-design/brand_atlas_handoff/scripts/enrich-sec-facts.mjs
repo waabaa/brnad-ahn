@@ -105,11 +105,15 @@ for (const [cik, list] of brandsByCik) {
   if (list.length > 1) { report.sharedCik.push({ cik, slugs: list.map(b => b.urlSlug || b.slug) }); for (const b of list) delete b.secFacts; continue; }
   report.withCik++;
   const b = list[0];
-  const sub = await getJson(`https://data.sec.gov/submissions/CIK${cik}.json`);
-  await sleep(150);
-  if (!sub) continue;
-  const facts = await getJson(`https://data.sec.gov/api/xbrl/companyfacts/CIK${cik}.json`);
-  await sleep(150);
+  // 한 회사 조회가 끝내 실패하면 그 회사만 건너뛴다(이전 값 유지) — 전체 실행이 멈추지 않게.
+  let sub, facts;
+  try {
+    sub = await getJson(`https://data.sec.gov/submissions/CIK${cik}.json`);
+    await sleep(150);
+    if (!sub) continue;
+    facts = await getJson(`https://data.sec.gov/api/xbrl/companyfacts/CIK${cik}.json`);
+    await sleep(150);
+  } catch (e) { report.failed = [...(report.failed || []), { cik, slug: b.urlSlug || b.slug, error: String(e.message || e) }]; continue; }
   const rec = { cik, name: sub.name, tickers: (sub.tickers || []).slice(0, 3), exchanges: [...new Set((sub.exchanges || []).filter(Boolean))].slice(0, 3), fetchedAt };
   const rev = latestRevenue(facts);
   if (rev) { rec.revenue = rev; report.withRevenue++; }

@@ -943,6 +943,209 @@ def list_contacts(limit: int = 200) -> list[dict]:
     return rows[:limit]
 
 
+# ─── SNS 자동 운영 ─────────────────────────────────────────────────────────
+# 생성·발행·성과 수집은 서버 작업(scripts/social/run.mjs — brandatlas-social.timer 15분마다 + trigger 파일)이 한다.
+# 여기서는 설정·토큰·검수(승인/반려/다시 만들기/지금 발행)·성과 조회만 한다. 토큰 값은 응답에 절대 싣지 않는다.
+SOC_DIR = DATA_DIR / "social"
+SOC_TOKENS = DATA_DIR.parent / "social-tokens.json"
+SOC_ID = re.compile(r"^\d{4}-\d{2}-\d{2}-[a-z]+(-\d{1,6})?$")
+SOC_MEDIA = re.compile(r"^(\d{2}|reel)$")
+SOC_DEFAULT = {"enabled": False, "autoPublish": False, "platforms": {"instagram": True, "threads": True, "facebook": True},
+               "publishTime": "12:30", "reelDays": [1, 3, 5], "aheadDays": 2, "seriesOff": []}
+SOC_SERIES = ["brand", "logo", "history", "magazine", "numbers", "new"]
+SOC_PLATFORMS = ("instagram", "threads", "facebook")
+SOC_TOKEN_RE = re.compile(r"^[A-Za-z0-9_\-.|]{20,1200}$")
+SOC_ACCOUNT_RE = re.compile(r"^[0-9]{3,40}$")
+_soc_ga4_cache: dict = {}
+
+
+def _soc_read(p: Path, default):
+    try:
+        return json.loads(p.read_text("utf-8"))
+    except (OSError, ValueError):
+        return default
+
+
+def _soc_write(p: Path, value, mode: int | None = None) -> None:
+    p.parent.mkdir(parents=True, exist_ok=True)
+    tmp = p.with_name(f".{p.name}.tmp")
+    tmp.write_text(json.dumps(value, ensure_ascii=False, indent=1), "utf-8")
+    if mode is not None:
+        os.chmod(tmp, mode)
+    tmp.replace(p)
+
+
+def _soc_trigger() -> None:
+    SOC_DIR.mkdir(parents=True, exist_ok=True)
+    (SOC_DIR / "trigger").write_text(datetime.now(KST).isoformat(timespec="seconds"), "utf-8")
+
+
+def _soc_settings() -> dict:
+    return {**SOC_DEFAULT, **_soc_read(SOC_DIR / "settings.json", {})}
+
+
+def _soc_post(pid: str) -> dict | None:
+    if not SOC_ID.match(pid):
+        return None
+    return _soc_read(SOC_DIR / "posts" / pid / "post.json", None)
+
+
+def soc_media_file(pid: str, name: str) -> Path | None:
+    """게시물 미디어 경로. 반려·폐기된 게시물은 내주지 않는다."""
+    post = _soc_post(pid)
+    if not post or not SOC_MEDIA.match(name) or post.get("status") in ("rejected", "discarded"):
+        return None
+    f = SOC_DIR / "posts" / pid / (f"{name}.mp4" if name == "reel" else f"{name}.jpg")
+    return f if f.exists() else None
+
+
+def _soc_ga4_by_campaign() -> dict:
+    """utm_campaign(=게시물 id)별 세션·참여 세션 — 1시간 캐시."""
+    ok, _ = ga4_ready()
+    if not ok:
+        return {}
+    if _soc_ga4_cache.get("at", 0) > time.time() - 3600:
+        return _soc_ga4_cache["rows"]
+    rows = ga4_rows(ga4_call("runReport", {
+        "dateRanges": [{"startDate": "60daysAgo", "endDate": "today"}],
+        "dimensions": [{"name": "sessionCampaignName"}, {"name": "sessionSource"}],
+        "metrics": [{"name": "sessions"}, {"name": "engagedSessions"}],
+        "dimensionFilter": {"filter": {"fieldName": "sessionMedium", "stringFilter": {"value": "social"}}},
+        "limit": 1000,
+    }))
+    out: dict = {}
+    for r in rows:
+        c = out.setdefault(r.get("sessionCampaignName", ""), {})
+        c[r.get("sessionSource", "")] = {"sessions": r.get("sessions", 0), "engaged": r.get("engagedSessions", 0)}
+    _soc_ga4_cache.update(at=time.time(), rows=out)
+    return out
+
+
+def social_state() -> dict:
+    tk = _soc_read(SOC_TOKENS, {})
+    accounts = {}
+    for pf in SOC_PLATFORMS:
+        t = tk.get(pf) or {}
+        accounts[pf] = {"connected": bool(t.get("token") and (pf != "facebook" or t.get("pageId"))),
+                        "account": t.get("pageId") if pf == "facebook" else t.get("userId"),
+                        "expiresAt": t.get("expiresAt"), "refreshedAt": t.get("refreshedAt"), "error": t.get("error"),
+                        "check": t.get("check")}
+    since = (datetime.now(KST) - timedelta(days=45)).strftime("%Y-%m-%d")
+    posts = []
+    pdir = SOC_DIR / "posts"
+    if pdir.exists():
+        for d in sorted(pdir.iterdir(), reverse=True):
+            if d.name[:10] < since or not SOC_ID.match(d.name):
+                continue
+            p = _soc_read(d / "post.json", None)
+            if p:
+                posts.append(p)
+    try:
+        ga = _soc_ga4_by_campaign()
+    except (urllib.error.URLError, OSError, ValueError, KeyError, RuntimeError):
+        ga = {}
+    for p in posts:
+        p["ga4"] = ga.get(p["id"], {})
+    return {
+        "settings": _soc_settings(), "accounts": accounts, "posts": posts,
+        "weights": _soc_read(SOC_DIR / "weights.json", {}), "analysis": _soc_read(SOC_DIR / "analysis.json", None),
+        "status": _soc_read(SOC_DIR / "status.json", None), "series": SOC_SERIES,
+    }
+
+
+def social_settings(body: dict) -> dict:
+    cur = _soc_settings()
+    for k in ("enabled", "autoPublish", "runRequested"):
+        if k in body:
+            cur[k] = bool(body[k])
+    if isinstance(body.get("platforms"), dict):
+        cur["platforms"] = {pf: bool(body["platforms"].get(pf, cur["platforms"].get(pf))) for pf in SOC_PLATFORMS}
+    if "publishTime" in body:
+        if not re.match(r"^([01]\d|2[0-3]):[0-5]\d$", str(body["publishTime"])):
+            raise ValueError("publishTime은 HH:MM")
+        cur["publishTime"] = body["publishTime"]
+    if "reelDays" in body:
+        cur["reelDays"] = sorted({int(x) for x in body["reelDays"] if str(x).isdigit() and 0 <= int(x) <= 6})
+    if "seriesOff" in body:
+        cur["seriesOff"] = [s for s in body["seriesOff"] if s in SOC_SERIES]
+    if "aheadDays" in body:
+        cur["aheadDays"] = max(0, min(7, int(body["aheadDays"])))
+    cur["updatedAt"] = datetime.now(KST).isoformat(timespec="seconds")
+    _soc_write(SOC_DIR / "settings.json", cur)
+    _soc_trigger()
+    return cur
+
+
+def social_tokens(body: dict) -> dict:
+    pf = str(body.get("platform") or "")
+    if pf not in SOC_PLATFORMS:
+        raise ValueError("platform 확인")
+    tk = _soc_read(SOC_TOKENS, {})
+    if body.get("clear"):
+        tk.pop(pf, None)
+    else:
+        token, acct = str(body.get("token") or "").strip(), str(body.get("account") or "").strip()
+        if not SOC_TOKEN_RE.match(token):
+            raise ValueError("토큰 형식 확인")
+        if (pf == "facebook" or acct) and not SOC_ACCOUNT_RE.match(acct):
+            raise ValueError("계정·페이지 ID는 숫자")
+        tk[pf] = {"token": token, ("pageId" if pf == "facebook" else "userId"): acct or "me",
+                  "savedAt": datetime.now(KST).isoformat(timespec="seconds")}
+        tk[pf]["check"] = soc_check(pf, tk[pf])
+    _soc_write(SOC_TOKENS, tk, 0o600)
+    return {"ok": True, "check": (tk.get(pf) or {}).get("check")}
+
+
+def soc_check(pf: str, t: dict) -> dict:
+    base = {"instagram": "https://graph.instagram.com/v21.0", "threads": "https://graph.threads.net/v1.0",
+            "facebook": "https://graph.facebook.com/v21.0"}[pf]
+    node = t.get("pageId") if pf == "facebook" else "me"
+    fields = {"instagram": "user_id,username", "threads": "id,username", "facebook": "name"}[pf]
+    url = f"{base}/{node}?" + urllib.parse.urlencode({"fields": fields, "access_token": t["token"]})
+    try:
+        with urllib.request.urlopen(url, timeout=20) as r:
+            j = json.loads(r.read().decode("utf-8"))
+        return {"ok": True, "name": j.get("username") or j.get("name"), "at": datetime.now(KST).isoformat(timespec="seconds")}
+    except urllib.error.HTTPError as e:
+        try:
+            msg = json.loads(e.read().decode("utf-8")).get("error", {}).get("message", "")
+        except ValueError:
+            msg = ""
+        return {"ok": False, "reason": f"HTTP {e.code} {msg}"[:200]}
+    except (urllib.error.URLError, OSError, ValueError) as e:
+        return {"ok": False, "reason": str(e)[:200]}
+
+
+def social_decision(body: dict) -> dict:
+    pid, action = str(body.get("id") or ""), str(body.get("action") or "")
+    post = _soc_post(pid)
+    if not post or action not in ("approve", "reject", "undo", "discard", "publishNow", "edit"):
+        raise ValueError("id·action 확인")
+    if post.get("status") == "published" and action != "edit":
+        raise ValueError("이미 발행됨")
+    if action == "approve":
+        post["status"] = "approved"
+    elif action == "reject":
+        post["status"] = "rejected"
+    elif action == "undo":
+        post["status"] = "pending"
+    elif action == "discard":      # 다시 만들기 — 이 날은 비게 되고 서버 작업이 다른 주제로 채운다
+        post["status"] = "discarded"
+    elif action == "publishNow":
+        post["status"], post["publishNow"] = "approved", True
+    elif action == "edit":
+        caps = body.get("captions") or {}
+        for pf in SOC_PLATFORMS:
+            if isinstance(caps.get(pf), str) and 10 <= len(caps[pf]) <= 2200:
+                post["captions"][pf] = caps[pf]
+        post["editedAt"] = datetime.now(KST).isoformat(timespec="seconds")
+    post["decidedAt"] = datetime.now(KST).isoformat(timespec="seconds")
+    _soc_write(SOC_DIR / "posts" / pid / "post.json", post)
+    if action in ("discard", "publishNow", "approve"):
+        _soc_trigger()
+    return {"ok": True, "status": post["status"]}
+
+
 class Handler(BaseHTTPRequestHandler):
     server_version = "brandatlas-admin"
     protocol_version = "HTTP/1.1"
@@ -1060,6 +1263,16 @@ class Handler(BaseHTTPRequestHandler):
             _cat_write("decisions.json", dec)
             _mag_trigger()   # 서버 작업(magazine-job.sh)이 공개 지문 변화로 다시 빌드·공개한다
             return self._json(200, {"ok": True})
+        if route in ("/api/social/settings", "/api/social/tokens", "/api/social/decision"):
+            if "application/json" not in (self.headers.get("Content-Type") or ""):
+                return self._json(415, {"error": "application/json 필요"})
+            fn = {"/api/social/settings": social_settings, "/api/social/tokens": social_tokens,
+                  "/api/social/decision": social_decision}[route]
+            try:
+                out = fn(self._body())
+            except (ValueError, TypeError) as e:
+                return self._json(400, {"error": str(e)})
+            return self._json(200, out if route != "/api/social/settings" else {"ok": True, "settings": out})
         if route in ("/api/magazine/settings", "/api/magazine/decision"):
             # JSON 본문만 받는다(폼 전송 CSRF 차단 — 쿠키는 SameSite=Lax).
             if "application/json" not in (self.headers.get("Content-Type") or ""):
@@ -1163,6 +1376,20 @@ class Handler(BaseHTTPRequestHandler):
             return self._json(200, {"ok": True, "time": datetime.now(KST).isoformat()})
         if route == "/api/session":
             return self._json(200, {"authed": self._authed()})
+        m = re.match(r"^/sns/([^/]+)/([^/]+)$", route)
+        if m:   # SNS 미디어 — Meta가 가져가는 공개 주소(어드민 미리보기도 같은 주소). 확장자 없는 이름만 받는다.
+            f = soc_media_file(m.group(1), m.group(2))
+            if not f:
+                return self._json(404, {"error": "not found"})
+            data = f.read_bytes()
+            self.send_response(200)
+            self.send_header("Content-Type", "video/mp4" if f.suffix == ".mp4" else "image/jpeg")
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Cache-Control", "public, max-age=3600")
+            self.send_header("X-Content-Type-Options", "nosniff")
+            self.end_headers()
+            self.wfile.write(data)
+            return None
         if not self._authed():
             return self._json(401, {"error": "인증 필요"})
 
@@ -1194,6 +1421,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._json(500, {"error": f"로그 읽기 실패: {e}"})
         if route == "/api/magazine":
             return self._json(200, magazine_state())
+        if route == "/api/social":
+            return self._json(200, social_state())
         if route == "/api/catalog":
             return self._json(200, catalog_state())
         if route == "/api/logos":

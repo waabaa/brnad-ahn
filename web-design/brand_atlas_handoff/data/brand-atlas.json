@@ -67650,13 +67650,7 @@
    ],
    "officialWebsite": "https://www.dior.com/",
    "country": "프랑스",
-   "countrySource": "text-heuristic",
-   "webArchive": {
-    "host": "dior.com",
-    "firstCapture": "1999-01-25",
-    "snapshot": "https://web.archive.org/web/19990125094804/http://www.dior.com:80/",
-    "fetchedAt": "2026-11-13"
-   }
+   "countrySource": "text-heuristic"
   },
   {
    "id": 43,
@@ -105511,7 +105505,13 @@
    "foundedLocation": "한국",
    "operatingStatus": "활성",
    "operatingStatusNote": null,
-   "enrichedFrom300": true
+   "enrichedFrom300": true,
+   "webArchive": {
+    "host": "beautyofjoseon.com",
+    "firstCapture": "2018-08-06",
+    "snapshot": "https://web.archive.org/web/20180806111133/http://beautyofjoseon.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 701,
@@ -153125,12 +153125,6 @@
     ],
     "parent": null,
     "fetchedAt": "2026-09-07"
-   },
-   "webArchive": {
-    "host": "samsung.com",
-    "firstCapture": "1996-11-14",
-    "snapshot": "https://web.archive.org/web/19961114103830/http://www.samsung.com:80/",
-    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -167986,6 +167980,12 @@
     "artist": "밥풀떼기",
     "license": "CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Hyundai_Marine_%26_Fire_Insurance_Building.jpg"
+   },
+   "webArchive": {
+    "host": "hi.co.kr",
+    "firstCapture": "2000-05-10",
+    "snapshot": "https://web.archive.org/web/20000510085519/http://www.hi.co.kr:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -168141,6 +168141,12 @@
     "founders": [],
     "parent": null,
     "fetchedAt": "2026-09-07"
+   },
+   "webArchive": {
+    "host": "meritzfire.com",
+    "firstCapture": "2005-10-13",
+    "snapshot": "https://web.archive.org/web/20051013061959/http://www.meritzfire.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -168221,6 +168227,12 @@
     "artist": "Lewis Clarke",
     "license": "CC BY-SA 2.0",
     "url": "https://commons.wikimedia.org/wiki/File:Walton_,_SsangYong_Rowcliffes_-_geograph.org.uk_-_7518473.jpg"
+   },
+   "webArchive": {
+    "host": "kg-mobility.com",
+    "firstCapture": "2023-03-24",
+    "snapshot": "https://web.archive.org/web/20230324110808/http://www.kg-mobility.com/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -168277,7 +168289,13 @@
    "displayPriority": "normal",
    "officialWebsite": "https://www.renault.co.kr/",
    "country": "한국",
-   "countrySource": "text-heuristic"
+   "countrySource": "text-heuristic",
+   "webArchive": {
+    "host": "renault.co.kr",
+    "firstCapture": "2003-10-05",
+    "snapshot": "https://web.archive.org/web/20031005080311/http://renault.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 1304,
@@ -175432,6 +175450,12 @@
     "founders": [],
     "parent": null,
     "fetchedAt": "2026-09-07"
+   },
+   "webArchive": {
+    "host": "kohyoung.com",
+    "firstCapture": "2002-12-10",
+    "snapshot": "https://web.archive.org/web/20021210091555/http://www.kohyoung.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -240340,13 +240364,7 @@
     "parent": null,
     "fetchedAt": "2026-09-12"
    },
-   "sourceNote": "한국어 위키백과 「레고」 요약과 위키데이터 Q170484 팩트를 근거로 편집",
-   "webArchive": {
-    "host": "lego.com",
-    "firstCapture": "1996-11-09",
-    "snapshot": "https://web.archive.org/web/19961109092233/http://www.lego.com:80/",
-    "fetchedAt": "2026-11-13"
-   }
+   "sourceNote": "한국어 위키백과 「레고」 요약과 위키데이터 Q170484 팩트를 근거로 편집"
   },
   {
    "id": 2075,
@@ -240507,7 +240525,13 @@
     "parent": "폭스 방송사",
     "fetchedAt": "2026-09-12"
    },
-   "sourceNote": "한국어 위키백과 「폭스 뉴스」 요약과 위키데이터 Q186068 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「폭스 뉴스」 요약과 위키데이터 Q186068 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "foxnews.com",
+    "firstCapture": "1996-10-22",
+    "snapshot": "https://web.archive.org/web/19961022175132/http://www.foxnews.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2077,
@@ -241836,7 +241860,13 @@
     "parent": null,
     "fetchedAt": "2026-09-12"
    },
-   "sourceNote": "한국어 위키백과 「유니레버」 요약과 위키데이터 Q157062 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「유니레버」 요약과 위키데이터 Q157062 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "unilever.com",
+    "firstCapture": "1996-12-19",
+    "snapshot": "https://web.archive.org/web/19961219201613/http://www.unilever.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2094,
@@ -260927,6 +260957,12 @@
      "accn": "0001539838-26-000010",
      "concept": "Revenues"
     }
+   },
+   "webArchive": {
+    "host": "diamondbackenergy.com",
+    "firstCapture": "2007-06-03",
+    "snapshot": "https://web.archive.org/web/20070603084712/http://www.diamondbackenergy.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -268019,7 +268055,13 @@
    "sourceNote": "영문 위키백과 「Kenvue」 본문과 위키데이터 Q118905792 팩트를 근거로 편집",
    "indexMember": [
     "S&P500"
-   ]
+   ],
+   "webArchive": {
+    "host": "kenvue.com",
+    "firstCapture": "2023-05-04",
+    "snapshot": "https://web.archive.org/web/20230504152715/https://www.kenvue.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2378,
@@ -268198,6 +268240,12 @@
      "accn": "0001437749-26-006113",
      "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "monolithicpower.com",
+    "firstCapture": "2000-08-29",
+    "snapshot": "https://web.archive.org/web/20000829082416/http://www.monolithicpower.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -268376,6 +268424,12 @@
      "accn": "0001013871-26-000004",
      "concept": "Revenues"
     }
+   },
+   "webArchive": {
+    "host": "nrg.com",
+    "firstCapture": "1998-12-05",
+    "snapshot": "https://web.archive.org/web/19981205190728/http://www.nrg.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -268469,6 +268523,12 @@
      "accn": "0000906163-26-000018",
      "concept": "Revenues"
     }
+   },
+   "webArchive": {
+    "host": "nvrinc.com",
+    "firstCapture": "1999-10-12",
+    "snapshot": "https://web.archive.org/web/19991012014243/http://nvrinc.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -281454,6 +281514,12 @@
      "accn": "0000045012-26-000015",
      "concept": "RevenueFromContractWithCustomerIncludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "halliburton.com",
+    "firstCapture": "1997-12-11",
+    "snapshot": "https://web.archive.org/web/19971211210927/http://www.halliburton.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -281919,6 +281985,12 @@
      "accn": "0000833444-26-000108",
      "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "johnsoncontrols.com",
+    "firstCapture": "1996-12-23",
+    "snapshot": "https://web.archive.org/web/19961223193459/http://www.johnsoncontrols.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -284113,6 +284185,12 @@
      "accn": "0001193125-26-021017",
      "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "slb.com",
+    "firstCapture": "1996-12-06",
+    "snapshot": "https://web.archive.org/web/19961206062038/http://www.slb.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -284403,6 +284481,12 @@
      "accn": "0000883241-25-000028",
      "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "synopsys.com",
+    "firstCapture": "1997-06-07",
+    "snapshot": "https://web.archive.org/web/19970607193709/http://www.synopsys.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -288385,6 +288469,12 @@
      "accn": "0001628280-26-010047",
      "concept": "Revenues"
     }
+   },
+   "webArchive": {
+    "host": "coca-colacompany.com",
+    "firstCapture": "1999-04-27",
+    "snapshot": "https://web.archive.org/web/19990427193855/http://www.coca-colacompany.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -289971,7 +290061,13 @@
     "parent": "소니그룹",
     "fetchedAt": "2026-09-20"
    },
-   "sourceNote": "한국어 위키백과 「소니 인터랙티브 엔터테인먼트」 요약과 위키데이터 Q18594 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「소니 인터랙티브 엔터테인먼트」 요약과 위키데이터 Q18594 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "sie.com",
+    "firstCapture": "1998-12-05",
+    "snapshot": "https://web.archive.org/web/19981205110259/http://www.sie.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2618,
@@ -291959,6 +292055,12 @@
      "accn": "0001370946-26-000067",
      "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
     }
+   },
+   "webArchive": {
+    "host": "owenscorning.com",
+    "firstCapture": "1996-12-28",
+    "snapshot": "https://web.archive.org/web/19961228071737/http://www.owenscorning.com:80/",
+    "fetchedAt": "2026-11-13"
    }
   },
   {
@@ -292028,7 +292130,13 @@
     "parent": "X-Rite",
     "fetchedAt": "2026-09-26"
    },
-   "sourceNote": "한국어 위키백과 「팬톤」 요약과 위키데이터 Q2050040 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「팬톤」 요약과 위키데이터 Q2050040 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "pantone.com",
+    "firstCapture": "1997-10-16",
+    "snapshot": "https://web.archive.org/web/19971016055727/http://www.pantone.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2645,
@@ -292101,7 +292209,13 @@
     "parent": null,
     "fetchedAt": "2026-09-26"
    },
-   "sourceNote": "한국어 위키백과 「펜타그램 (디자인 회사)」 요약과 위키데이터 Q7164989 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「펜타그램 (디자인 회사)」 요약과 위키데이터 Q7164989 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "pentagram.com",
+    "firstCapture": "1998-12-12",
+    "snapshot": "https://web.archive.org/web/19981212031817/http://www.pentagram.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2646,
@@ -292324,7 +292438,13 @@
     "parent": "Seiko Group",
     "fetchedAt": "2026-09-26"
    },
-   "sourceNote": "한국어 위키백과 「세이코홀딩스」 요약과 위키데이터 Q322601 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「세이코홀딩스」 요약과 위키데이터 Q322601 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "seiko.co.jp",
+    "firstCapture": "1997-02-18",
+    "snapshot": "https://web.archive.org/web/19970218233112/http://www.seiko.co.jp:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2649,
@@ -294980,7 +295100,13 @@
     "parent": "유니버설 뮤직 그룹",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「데프 잼 레코딩스」 요약과 위키데이터 Q654283 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「데프 잼 레코딩스」 요약과 위키데이터 Q654283 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "defjam.com",
+    "firstCapture": "1996-12-28",
+    "snapshot": "https://web.archive.org/web/19961228001539/http://www.defjam.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2684,
@@ -295114,7 +295240,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「동국제강」 요약과 위키데이터 Q496183 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「동국제강」 요약과 위키데이터 Q496183 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "dongkuk.co.kr",
+    "firstCapture": "1998-12-12",
+    "snapshot": "https://web.archive.org/web/19981212024442/http://www.dongkuk.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2686,
@@ -295181,7 +295313,13 @@
     "parent": "Permira",
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「닥터 마틴 (신발)」 요약과 위키데이터 Q1126126 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「닥터 마틴 (신발)」 요약과 위키데이터 Q1126126 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "drmartens.com",
+    "firstCapture": "1998-12-06",
+    "snapshot": "https://web.archive.org/web/19981206045153/http://www.drmartens.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2687,
@@ -295259,6 +295397,12 @@
     "name": "El Al Israel Airlines Ltd.",
     "tickers": [],
     "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   },
+   "webArchive": {
+    "host": "elal.co.il",
+    "firstCapture": "1996-11-03",
+    "snapshot": "https://web.archive.org/web/19961103220740/http://www.elal.co.il:80/",
     "fetchedAt": "2026-11-13"
    }
   },
@@ -295394,7 +295538,13 @@
     "parent": null,
     "fetchedAt": "2026-11-01"
    },
-   "sourceNote": "한국어 위키백과 「FNC 엔터테인먼트」 요약과 위키데이터 Q12581039 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「FNC 엔터테인먼트」 요약과 위키데이터 Q12581039 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "fncent.com",
+    "firstCapture": "2012-05-07",
+    "snapshot": "https://web.archive.org/web/20120507094215/http://fncent.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2690,
@@ -295463,7 +295613,13 @@
     "parent": "펩시코",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「게토레이」 요약과 위키데이터 Q304992 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「게토레이」 요약과 위키데이터 Q304992 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "gatorade.com",
+    "firstCapture": "1996-11-05",
+    "snapshot": "https://web.archive.org/web/19961105041943/http://www.gatorade.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2691,
@@ -295762,7 +295918,13 @@
     "fetchedAt": "2026-10-25"
    },
    "sourceNote": "한국어 위키백과 「그렉스」 요약과 위키데이터 Q3403981 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "greggs.co.uk",
+    "firstCapture": "2000-04-07",
+    "snapshot": "https://web.archive.org/web/20000407115058/http://www.greggs.co.uk:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2695,
@@ -295900,7 +296062,13 @@
     "fetchedAt": "2026-10-04"
    },
    "sourceNote": "한국어 위키백과 「HD건설기계」 요약과 위키데이터 Q131187811 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "hd-hyundaice.com",
+    "firstCapture": "2023-12-10",
+    "snapshot": "https://web.archive.org/web/20231210110757/https://www.hd-hyundaice.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2697,
@@ -295971,7 +296139,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「후터스」 요약과 위키데이터 Q1025921 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「후터스」 요약과 위키데이터 Q1025921 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "hooters.com",
+    "firstCapture": "1996-12-27",
+    "snapshot": "https://web.archive.org/web/19961227152707/http://hooters.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2698,
@@ -296052,6 +296226,12 @@
     "exchanges": [
      "NYSE"
     ],
+    "fetchedAt": "2026-11-13"
+   },
+   "webArchive": {
+    "host": "hyatt.com",
+    "firstCapture": "1996-11-06",
+    "snapshot": "https://web.archive.org/web/19961106045137/http://www.hyatt.com:80/",
     "fetchedAt": "2026-11-13"
    }
   },
@@ -296326,7 +296506,13 @@
     "fetchedAt": "2026-11-01"
    },
    "sourceNote": "한국어 위키백과 「인천교통공사」 요약과 위키데이터 Q483883 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "ictr.or.kr",
+    "firstCapture": "2006-01-18",
+    "snapshot": "https://web.archive.org/web/20060118041421/http://www.ictr.or.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2703,
@@ -296393,7 +296579,13 @@
     "parent": "인도 우주부",
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「인도우주연구기구」 요약과 위키데이터 Q229058 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「인도우주연구기구」 요약과 위키데이터 Q229058 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "isro.gov.in",
+    "firstCapture": "2005-03-07",
+    "snapshot": "https://web.archive.org/web/20050307012406/http://www.isro.gov.in:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2704,
@@ -296603,7 +296795,13 @@
     "parent": "유니버설 뮤직 그룹",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「인터스코프 레코드」 요약과 위키데이터 Q231694 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「인터스코프 레코드」 요약과 위키데이터 Q231694 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "interscope.com",
+    "firstCapture": "1996-12-21",
+    "snapshot": "https://web.archive.org/web/19961221165346/http://www.interscope.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2707,
@@ -296672,7 +296870,13 @@
     "parent": "드림어스컴퍼니",
     "fetchedAt": "2026-11-01"
    },
-   "sourceNote": "한국어 위키백과 「아이리버」 요약과 위키데이터 Q283856 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「아이리버」 요약과 위키데이터 Q283856 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "iriver.co.kr",
+    "firstCapture": "2000-12-06",
+    "snapshot": "https://web.archive.org/web/20001206202000/http://www.iriver.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2708,
@@ -296738,7 +296942,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "한국어 위키백과 「아이언브루」 요약과 위키데이터 Q938806 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "irn-bru.co.uk",
+    "firstCapture": "1996-12-22",
+    "snapshot": "https://web.archive.org/web/19961222215519/http://www.irn-bru.co.uk:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2709,
@@ -296807,7 +297017,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「이스즈 자동차」 요약과 위키데이터 Q29803 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「이스즈 자동차」 요약과 위키데이터 Q29803 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "isuzu.co.jp",
+    "firstCapture": "1997-03-28",
+    "snapshot": "https://web.archive.org/web/19970328073550/http://www.isuzu.co.jp:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2710,
@@ -296873,6 +297089,12 @@
     "name": "Old COPPER Company, Inc.",
     "tickers": [],
     "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   },
+   "webArchive": {
+    "host": "jcpenney.com",
+    "firstCapture": "1996-12-20",
+    "snapshot": "https://web.archive.org/web/19961220104505/http://www.jcpenney.com:80/",
     "fetchedAt": "2026-11-13"
    }
   },
@@ -296942,7 +297164,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "영문 위키백과 「J. Walter Thompson」 본문과 위키데이터 Q1676726 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「J. Walter Thompson」 본문과 위키데이터 Q1676726 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "jwt.com",
+    "firstCapture": "1998-12-12",
+    "snapshot": "https://web.archive.org/web/19981212030226/http://www.jwt.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2712,
@@ -297013,7 +297241,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「조니 워커」 요약과 위키데이터 Q502268 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「조니 워커」 요약과 위키데이터 Q502268 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "johnniewalker.com",
+    "firstCapture": "2001-04-17",
+    "snapshot": "https://web.archive.org/web/20010417003602/http://www.johnniewalker.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2713,
@@ -297082,7 +297316,13 @@
     "parent": null,
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「메종키츠네」 요약과 위키데이터 Q917561 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「메종키츠네」 요약과 위키데이터 Q917561 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "maisonkitsune.com",
+    "firstCapture": "2012-09-08",
+    "snapshot": "https://web.archive.org/web/20120908221132/http://maisonkitsune.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2714,
@@ -297151,7 +297391,13 @@
     "parent": "대한민국 기획재정부",
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「한국조폐공사」 요약과 위키데이터 Q60376 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「한국조폐공사」 요약과 위키데이터 Q60376 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "english.komsco.com",
+    "firstCapture": "2009-02-02",
+    "snapshot": "https://web.archive.org/web/20090202112313/http://english.komsco.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2715,
@@ -297221,7 +297467,13 @@
     "fetchedAt": "2026-10-18"
    },
    "sourceNote": "한국어 위키백과 「국가철도공단」 요약과 위키데이터 Q624022 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "kr.or.kr",
+    "firstCapture": "2008-03-10",
+    "snapshot": "https://web.archive.org/web/20080310111620/http://www.kr.or.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2716,
@@ -297284,7 +297536,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「한국체육대학교」 요약과 위키데이터 Q483744 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「한국체육대학교」 요약과 위키데이터 Q483744 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "knsu.ac.kr",
+    "firstCapture": "2003-04-02",
+    "snapshot": "https://web.archive.org/web/20030402132540/http://www.knsu.ac.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2717,
@@ -297353,7 +297611,13 @@
     "parent": null,
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「KNN」 요약과 위키데이터 Q483657 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「KNN」 요약과 위키데이터 Q483657 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "knn.co.kr",
+    "firstCapture": "2000-10-18",
+    "snapshot": "https://web.archive.org/web/20001018173550/http://www.knn.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2718,
@@ -297423,7 +297687,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "한국어 위키백과 「한국마사회」 요약과 위키데이터 Q11285016 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "kra.co.kr",
+    "firstCapture": "1998-12-07",
+    "snapshot": "https://web.archive.org/web/19981207052219/http://www.kra.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2719,
@@ -297561,7 +297831,13 @@
     "parent": "대한민국 금융위원회",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「한국거래소」 요약과 위키데이터 Q495372 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「한국거래소」 요약과 위키데이터 Q495372 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "krx.co.kr",
+    "firstCapture": "2003-11-08",
+    "snapshot": "https://web.archive.org/web/20031108030440/http://www.krx.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2721,
@@ -297695,7 +297971,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「KTM」 요약과 위키데이터 Q215657 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「KTM」 요약과 위키데이터 Q215657 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "ktm.com",
+    "firstCapture": "1998-12-06",
+    "snapshot": "https://web.archive.org/web/19981206184429/http://www.ktm.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2723,
@@ -297764,7 +298046,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「미국 의회도서관」 요약과 위키데이터 Q131454 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「미국 의회도서관」 요약과 위키데이터 Q131454 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "loc.gov",
+    "firstCapture": "1997-06-16",
+    "snapshot": "https://web.archive.org/web/19970616081953/http://www.loc.gov:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2724,
@@ -297837,7 +298125,13 @@
     "parent": null,
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「로지텍」 요약과 위키데이터 Q223127 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「로지텍」 요약과 위키데이터 Q223127 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "logitech.com",
+    "firstCapture": "1996-10-19",
+    "snapshot": "https://web.archive.org/web/19961019020059/http://www.logitech.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2725,
@@ -297907,7 +298201,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "한국어 위키백과 「롯데시네마」 요약과 위키데이터 Q6684911 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "lottecinema.co.kr",
+    "firstCapture": "2002-08-05",
+    "snapshot": "https://web.archive.org/web/20020805152436/http://www.lottecinema.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2726,
@@ -297977,7 +298277,13 @@
     "fetchedAt": "2026-10-11"
    },
    "sourceNote": "한국어 위키백과 「롯데면세점」 요약과 위키데이터 Q12594196 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "lottedfs.com",
+    "firstCapture": "2001-11-30",
+    "snapshot": "https://web.archive.org/web/20011130114325/http://www.lottedfs.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2727,
@@ -298049,7 +298355,13 @@
    "sourceNote": "영문 위키백과 「Löwenbräu Brewery」 본문과 위키데이터 Q256392 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "loewenbraeu.de",
+    "firstCapture": "2000-08-22",
+    "snapshot": "https://web.archive.org/web/20000822181248/http://www.loewenbraeu.de:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2728,
@@ -298114,7 +298426,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "영문 위키백과 「Lucky Strike」 본문과 위키데이터 Q753556 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Lucky Strike」 본문과 위키데이터 Q753556 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "luckystrikeny.com",
+    "firstCapture": "2001-12-03",
+    "snapshot": "https://web.archive.org/web/20011203144319/http://luckystrikeny.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2729,
@@ -298248,7 +298566,13 @@
     "parent": "Macy's, Inc.",
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「메이시스」 요약과 위키데이터 Q629269 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「메이시스」 요약과 위키데이터 Q629269 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "macys.com",
+    "firstCapture": "1996-12-21",
+    "snapshot": "https://web.archive.org/web/19961221015704/http://macys.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2731,
@@ -298381,7 +298705,13 @@
     "fetchedAt": "2026-11-01"
    },
    "sourceNote": "한국어 위키백과 「매치박스 (브랜드)」 요약과 위키데이터 Q1050690 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "matchbox.com",
+    "firstCapture": "1998-12-05",
+    "snapshot": "https://web.archive.org/web/19981205123125/http://www.matchbox.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2733,
@@ -298524,7 +298854,13 @@
     "parent": null,
     "fetchedAt": "2026-11-01"
    },
-   "sourceNote": "한국어 위키백과 「마이어 (기업)」 요약과 위키데이터 Q1917753 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「마이어 (기업)」 요약과 위키데이터 Q1917753 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "meijer.com",
+    "firstCapture": "1996-11-10",
+    "snapshot": "https://web.archive.org/web/19961110143131/http://www.meijer.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2735,
@@ -298586,7 +298922,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "영문 위키백과 「Meissen porcelain」 본문과 위키데이터 Q822407 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Meissen porcelain」 본문과 위키데이터 Q822407 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "meissen.com",
+    "firstCapture": "1999-10-03",
+    "snapshot": "https://web.archive.org/web/19991003121928/http://meissen.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2736,
@@ -298655,7 +298997,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "한국어 위키백과 「메르세데스-벤츠 그룹 AG」 요약과 위키데이터 Q27530 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「메르세데스-벤츠 그룹 AG」 요약과 위키데이터 Q27530 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "group.mercedes-benz.com",
+    "firstCapture": "2024-07-30",
+    "snapshot": "https://web.archive.org/web/20240730102208/https://group.mercedes-benz.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2737,
@@ -298868,7 +299216,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「미쓰비시 그룹」 요약과 위키데이터 Q183275 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「미쓰비시 그룹」 요약과 위키데이터 Q183275 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "mitsubishi.com",
+    "firstCapture": "1996-12-22",
+    "snapshot": "https://web.archive.org/web/19961222141948/http://www.mitsubishi.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2740,
@@ -299069,7 +299423,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「국립중앙도서관」 요약과 위키데이터 Q495005 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「국립중앙도서관」 요약과 위키데이터 Q495005 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "nl.go.kr",
+    "firstCapture": "1999-01-25",
+    "snapshot": "https://web.archive.org/web/19990125101638/http://www.nl.go.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2743,
@@ -299139,7 +299499,13 @@
     "fetchedAt": "2026-10-18"
    },
    "sourceNote": "한국어 위키백과 「국민연금공단」 요약과 위키데이터 Q6974864 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "nps.or.kr",
+    "firstCapture": "2002-10-11",
+    "snapshot": "https://web.archive.org/web/20021011082351/http://www.nps.or.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2744,
@@ -299270,7 +299636,13 @@
     "parent": "AOL",
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「넷스케이프」 요약과 위키데이터 Q210057 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「넷스케이프」 요약과 위키데이터 Q210057 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "netscape.com",
+    "firstCapture": "1996-10-20",
+    "snapshot": "https://web.archive.org/web/19961020015116/http://www3.netscape.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2746,
@@ -299417,7 +299789,13 @@
     "fetchedAt": "2026-10-11"
    },
    "sourceNote": "한국어 위키백과 「뉴시스」 요약과 위키데이터 Q12590695 팩트를 근거로 편집",
-   "logoBeforeUpload": "images/logos/newsis-news-agency-wd.gif"
+   "logoBeforeUpload": "images/logos/newsis-news-agency-wd.gif",
+   "webArchive": {
+    "host": "newsis.com",
+    "firstCapture": "2001-12-16",
+    "snapshot": "https://web.archive.org/web/20011216162748/http://www.newsis.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2748,
@@ -299487,7 +299865,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "영문 위키백과 「Nishiyama Onsen Keiunkan」 본문과 위키데이터 Q7040843 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "keiunkan.co.jp",
+    "firstCapture": "2001-04-01",
+    "snapshot": "https://web.archive.org/web/20010401104708/http://www.keiunkan.co.jp:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2749,
@@ -299713,7 +300097,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "영문 위키백과 「Old Spice」 본문과 위키데이터 Q2325626 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Old Spice」 본문과 위키데이터 Q2325626 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "oldspice.com",
+    "firstCapture": "1996-12-29",
+    "snapshot": "https://web.archive.org/web/19961229195641/http://www.oldspice.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2752,
@@ -299842,7 +300232,13 @@
     "fetchedAt": "2026-11-01"
    },
    "sourceNote": "한국어 위키백과 「오발틴」 요약과 위키데이터 Q685005 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "ovaltine.com.tw",
+    "firstCapture": "2007-10-30",
+    "snapshot": "https://web.archive.org/web/20071030161447/http://www.ovaltine.com.tw:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2754,
@@ -299913,7 +300309,13 @@
     "parent": null,
     "fetchedAt": "2026-11-01"
    },
-   "sourceNote": "한국어 위키백과 「피에프창」 요약과 위키데이터 Q5360181 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「피에프창」 요약과 위키데이터 Q5360181 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "pfchangs.com",
+    "firstCapture": "1999-04-27",
+    "snapshot": "https://web.archive.org/web/19990427191838/http://www.pfchangs.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2755,
@@ -299976,7 +300378,13 @@
     "parent": null,
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「팔도 비빔면」 요약과 위키데이터 Q16183291 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「팔도 비빔면」 요약과 위키데이터 Q16183291 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "paldofood.com",
+    "firstCapture": "2001-04-02",
+    "snapshot": "https://web.archive.org/web/20010402045134/http://www.paldofood.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2756,
@@ -300048,7 +300456,13 @@
     "parent": null,
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「파텍 필립」 요약과 위키데이터 Q659096 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「파텍 필립」 요약과 위키데이터 Q659096 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "patek.com",
+    "firstCapture": "1998-06-28",
+    "snapshot": "https://web.archive.org/web/19980628111403/http://www.patek.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2757,
@@ -300185,7 +300599,13 @@
     "parent": null,
     "fetchedAt": "2026-09-27"
    },
-   "sourceNote": "한국어 위키백과 「포카리 스웨트」 요약과 위키데이터 Q931226 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「포카리 스웨트」 요약과 위키데이터 Q931226 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "pocarisweat.jp",
+    "firstCapture": "2005-07-12",
+    "snapshot": "https://web.archive.org/web/20050712232407/http://www.pocarisweat.jp:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2759,
@@ -300323,7 +300743,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「RBW」 요약과 위키데이터 Q16174772 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「RBW」 요약과 위키데이터 Q16174772 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "rbbridge.com",
+    "firstCapture": "2011-02-02",
+    "snapshot": "https://web.archive.org/web/20110202092324/http://rbbridge.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2761,
@@ -300395,7 +300821,13 @@
     "parent": "유니버설 뮤직 그룹",
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「리퍼블릭 레코드」 요약과 위키데이터 Q4413456 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「리퍼블릭 레코드」 요약과 위키데이터 Q4413456 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "republicrecords.com",
+    "firstCapture": "1999-01-25",
+    "snapshot": "https://web.archive.org/web/19990125102725/http://www.republicrecords.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2762,
@@ -300465,7 +300897,13 @@
     "fetchedAt": "2026-10-25"
    },
    "sourceNote": "한국어 위키백과 「로드 FC」 요약과 위키데이터 Q11237413 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "roadfc.com",
+    "firstCapture": "2010-10-22",
+    "snapshot": "https://web.archive.org/web/20101022061343/http://www.roadfc.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2763,
@@ -300542,7 +300980,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "영문 위키백과 「Selfridges」 본문과 위키데이터 Q1475656 팩트를 근거로 편집",
-   "logoBeforeUpload": "images/logos/selfridges-wd.png"
+   "logoBeforeUpload": "images/logos/selfridges-wd.png",
+   "webArchive": {
+    "host": "selfridges.com",
+    "firstCapture": "1999-01-25",
+    "snapshot": "https://web.archive.org/web/19990125103127/http://www.selfridges.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2764,
@@ -300612,7 +301056,13 @@
     "fetchedAt": "2026-10-18"
    },
    "sourceNote": "한국어 위키백과 「호텔신라」 요약과 위키데이터 Q492569 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "shillahotels.com",
+    "firstCapture": "2015-08-01",
+    "snapshot": "https://web.archive.org/web/20150801225108/http://www.shillahotels.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2765,
@@ -300745,7 +301195,13 @@
     "fetchedAt": "2026-10-04"
    },
    "sourceNote": "한국어 위키백과 「SK에코플랜트」 요약과 위키데이터 Q16172765 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "skec.co.kr",
+    "firstCapture": "1996-12-29",
+    "snapshot": "https://web.archive.org/web/19961229202924/http://www.skec.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2767,
@@ -300814,7 +301270,13 @@
     "parent": null,
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「SK그룹」 요약과 위키데이터 Q494158 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「SK그룹」 요약과 위키데이터 Q494158 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "sk.com",
+    "firstCapture": "1996-12-18",
+    "snapshot": "https://web.archive.org/web/19961218224831/http://sk.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2768,
@@ -301016,7 +301478,13 @@
     "parent": "SM Studios",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「SM C&C」 요약과 위키데이터 Q12580769 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「SM C&C」 요약과 위키데이터 Q12580769 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "smcultureandcontents.com",
+    "firstCapture": "2014-02-01",
+    "snapshot": "https://web.archive.org/web/20140201210927/http://www.smcultureandcontents.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2771,
@@ -301212,7 +301680,13 @@
     "fetchedAt": "2026-10-18"
    },
    "sourceNote": "한국어 위키백과 「세인트폴 대성당」 요약과 위키데이터 Q173882 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "stpauls.co.uk",
+    "firstCapture": "2000-06-20",
+    "snapshot": "https://web.archive.org/web/20000620014202/http://www.stpauls.co.uk:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2774,
@@ -301283,7 +301757,13 @@
     "parent": "카카오엠",
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「스타쉽 엔터테인먼트」 요약과 위키데이터 Q255363 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「스타쉽 엔터테인먼트」 요약과 위키데이터 Q255363 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "starship-ent.com",
+    "firstCapture": "2011-02-07",
+    "snapshot": "https://web.archive.org/web/20110207162034/http://starship-ent.com/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2775,
@@ -301357,7 +301837,13 @@
    "sourceNote": "한국어 위키백과 「산토리」 요약과 위키데이터 Q1345267 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "suntory.com",
+    "firstCapture": "1996-12-23",
+    "snapshot": "https://web.archive.org/web/19961223170637/http://www.suntory.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2776,
@@ -301428,7 +301914,13 @@
     "parent": "칼라일 그룹",
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「수프림 (브랜드)」 요약과 위키데이터 Q1659229 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「수프림 (브랜드)」 요약과 위키데이터 Q1659229 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "supreme.com",
+    "firstCapture": "1996-12-19",
+    "snapshot": "https://web.archive.org/web/19961219055434/http://www.supreme.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2777,
@@ -301497,7 +301989,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "영문 위키백과 「Svedka」 본문과 위키데이터 Q7651819 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "svedka.com",
+    "firstCapture": "2000-11-16",
+    "snapshot": "https://web.archive.org/web/20001116210200/http://www.svedka.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2778,
@@ -301568,7 +302066,13 @@
     "parent": null,
     "fetchedAt": "2026-10-25"
    },
-   "sourceNote": "한국어 위키백과 「타바스코 소스」 요약과 위키데이터 Q335016 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「타바스코 소스」 요약과 위키데이터 Q335016 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "tabasco.com",
+    "firstCapture": "1996-12-23",
+    "snapshot": "https://web.archive.org/web/19961223090143/http://www.tabasco.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2779,
@@ -301639,7 +302143,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「대구텍」 요약과 위키데이터 Q7674738 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「대구텍」 요약과 위키데이터 Q7674738 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "taegutec.co.kr",
+    "firstCapture": "2000-03-03",
+    "snapshot": "https://web.archive.org/web/20000303232744/http://www.taegutec.co.kr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2780,
@@ -301708,7 +302218,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「TGV」 요약과 위키데이터 Q129337 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「TGV」 요약과 위키데이터 Q129337 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "tgv.com",
+    "firstCapture": "2001-12-02",
+    "snapshot": "https://web.archive.org/web/20011202114043/http://tgv.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2781,
@@ -301785,7 +302301,13 @@
     "fetchedAt": "2026-11-01"
    },
    "sourceNote": "한국어 위키백과 「더 치즈케이크 팩토리」 요약과 위키데이터 Q1045842 팩트를 근거로 편집",
-   "logoBeforeUpload": "images/logos/the-cheesecake-factory-wd.png"
+   "logoBeforeUpload": "images/logos/the-cheesecake-factory-wd.png",
+   "webArchive": {
+    "host": "thecheesecakefactory.com",
+    "firstCapture": "1998-01-16",
+    "snapshot": "https://web.archive.org/web/19980116074316/http://www.thecheesecakefactory.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2782,
@@ -301850,7 +302372,13 @@
     "parent": null,
     "fetchedAt": "2026-10-11"
    },
-   "sourceNote": "한국어 위키백과 「토블레로네」 요약과 위키데이터 Q215707 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「토블레로네」 요약과 위키데이터 Q215707 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "toblerone.co.uk",
+    "firstCapture": "2000-10-18",
+    "snapshot": "https://web.archive.org/web/20001018044737/http://www.toblerone.co.uk:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2783,
@@ -301920,7 +302448,13 @@
     "fetchedAt": "2026-11-01"
    },
    "sourceNote": "한국어 위키백과 「도쿄바나나」 요약과 위키데이터 Q575328 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "tokyobanana.jp",
+    "firstCapture": "2006-07-17",
+    "snapshot": "https://web.archive.org/web/20060717013604/http://www.tokyobanana.jp:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2784,
@@ -301990,7 +302524,13 @@
     "fetchedAt": "2026-09-27"
    },
    "sourceNote": "영문 위키백과 「Tong Ren Tang」 본문과 위키데이터 Q842099 팩트를 근거로 편집",
-   "logoBeforeUpload": ""
+   "logoBeforeUpload": "",
+   "webArchive": {
+    "host": "tongrentang.com",
+    "firstCapture": "1998-01-09",
+    "snapshot": "https://web.archive.org/web/19980109201711/http://tongrentang.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2785,
@@ -302057,7 +302597,13 @@
     "parent": "콜버그 크래비스 로버츠",
     "fetchedAt": "2026-10-04"
    },
-   "sourceNote": "한국어 위키백과 「토이저러스」 요약과 위키데이터 Q696334 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「토이저러스」 요약과 위키데이터 Q696334 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "toysrus.com",
+    "firstCapture": "1996-12-28",
+    "snapshot": "https://web.archive.org/web/19961228165316/http://www.toysrus.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2786,
@@ -302268,7 +302814,13 @@
     "parent": null,
     "fetchedAt": "2026-10-18"
    },
-   "sourceNote": "한국어 위키백과 「신 파리 대학교」 요약과 위키데이터 Q209842 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「신 파리 대학교」 요약과 위키데이터 Q209842 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "ac-paris.fr",
+    "firstCapture": "1998-12-06",
+    "snapshot": "https://web.archive.org/web/19981206193321/http://www.ac-paris.fr:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2789,
@@ -315823,7 +316375,14 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "영문 위키백과 「Allianz」 본문과 위키데이터 Q487292 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Allianz」 본문과 위키데이터 Q487292 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001127508",
+    "name": "ALLIANZ SE",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2977,
@@ -315963,7 +316522,18 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「알스톰」 요약과 위키데이터 Q309084 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「알스톰」 요약과 위키데이터 Q309084 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001062066",
+    "name": "ALSTOM",
+    "tickers": [
+     "AOMFF"
+    ],
+    "exchanges": [
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2979,
@@ -316438,7 +317008,20 @@
    "sourceNote": "한국어 위키백과 「앤하이저부시 인베브」 요약과 위키데이터 Q128738 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0001668717",
+    "name": "Anheuser-Busch InBev SA/NV",
+    "tickers": [
+     "BUD",
+     "BUDFF"
+    ],
+    "exchanges": [
+     "NYSE",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2986,
@@ -317105,7 +317688,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "영문 위키백과 「Assa Abloy」 본문과 위키데이터 Q738421 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Assa Abloy」 본문과 위키데이터 Q738421 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001511141",
+    "name": "ASSA ABLOY INC",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2996,
@@ -317316,7 +317906,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "영문 위키백과 「Axa」 본문과 위키데이터 Q160054 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Axa」 본문과 위키데이터 Q160054 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0000898427",
+    "name": "AXA S.A.",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 2999,
@@ -317385,7 +317982,14 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "한국어 위키백과 「BAE 시스템스」 요약과 위키데이터 Q739416 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「BAE 시스템스」 요약과 위키데이터 Q739416 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001422152",
+    "name": "BAE Systems, Inc.",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3000,
@@ -317600,7 +318204,20 @@
    "sourceNote": "한국어 위키백과 「빌바오 비스카야 아르헨타리아 은행」 요약과 위키데이터 Q806189 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0000842180",
+    "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+    "tickers": [
+     "BBVA",
+     "BBVXF"
+    ],
+    "exchanges": [
+     "NYSE",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3003,
@@ -317866,7 +318483,21 @@
    "sourceNote": "한국어 위키백과 「몬트리올 은행」 요약과 위키데이터 Q806693 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0000927971",
+    "name": "BANK OF MONTREAL /CAN/",
+    "tickers": [
+     "BMO",
+     "FNGD",
+     "BRZL"
+    ],
+    "exchanges": [
+     "NYSE",
+     "CBOE"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3007,
@@ -322778,7 +323409,14 @@
    "sourceNote": "영문 위키백과 「Canadian Imperial Bank of Commerce」 본문과 위키데이터 Q666694 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0000016847",
+    "name": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3081,
@@ -324574,7 +325212,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "영문 위키백과 「Continental AG」 본문과 위키데이터 Q163241 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Continental AG」 본문과 위키데이터 Q163241 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0000800578",
+    "name": "CONTINENTAL AG",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3108,
@@ -329537,7 +330182,14 @@
     "parent": "NXP 반도체",
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「프리스케일 세미컨덕터」 요약과 위키데이터 Q863675 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「프리스케일 세미컨덕터」 요약과 위키데이터 Q863675 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001272547",
+    "name": "FREESCALE SEMICONDUCTOR INC",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3182,
@@ -330266,7 +330918,25 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "영문 위키백과 「Goodyear Tire and Rubber Company」 본문과 위키데이터 Q620875 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Goodyear Tire and Rubber Company」 본문과 위키데이터 Q620875 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0000042582",
+    "name": "GOODYEAR TIRE & RUBBER CO /OH/",
+    "tickers": [
+     "GT"
+    ],
+    "exchanges": [
+     "Nasdaq"
+    ],
+    "fetchedAt": "2026-11-13",
+    "revenue": {
+     "usd": 18280000000,
+     "end": "2025-12-31",
+     "form": "10-K",
+     "accn": "0001628280-26-006708",
+     "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+   }
   },
   {
    "id": 3193,
@@ -330949,7 +331619,20 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "한국어 위키백과 「글락소스미스클라인」 요약과 위키데이터 Q212322 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「글락소스미스클라인」 요약과 위키데이터 Q212322 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001131399",
+    "name": "GSK plc",
+    "tickers": [
+     "GSK",
+     "GLAXF"
+    ],
+    "exchanges": [
+     "NYSE",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3203,
@@ -333384,7 +334067,20 @@
    "sourceNote": "영문 위키백과 「ING Group」 본문과 위키데이터 Q645708 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0001039765",
+    "name": "ING GROEP NV",
+    "tickers": [
+     "ING",
+     "INGVF"
+    ],
+    "exchanges": [
+     "NYSE",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3239,
@@ -341783,7 +342479,19 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "영문 위키백과 「Orange Group」 본문과 위키데이터 Q1431486 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Orange Group」 본문과 위키데이터 Q1431486 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001038143",
+    "name": "ORANGE",
+    "tickers": [
+     "FNCTF",
+     "ORANY"
+    ],
+    "exchanges": [
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3364,
@@ -344608,7 +345316,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「라쿠텐」 요약과 위키데이터 Q973054 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「라쿠텐」 요약과 위키데이터 Q973054 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001294591",
+    "name": "Rakuten Group, Inc.",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3406,
@@ -345700,7 +346415,20 @@
    "sourceNote": "영문 위키백과 「Royal Bank of Canada」 본문과 위키데이터 Q735261 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0001000275",
+    "name": "ROYAL BANK OF CANADA",
+    "tickers": [
+     "RY",
+     "RYLBF"
+    ],
+    "exchanges": [
+     "NYSE",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3422,
@@ -346779,7 +347507,20 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「사노피」 요약과 위키데이터 Q158205 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「사노피」 요약과 위키데이터 Q158205 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001121404",
+    "name": "Sanofi",
+    "tickers": [
+     "SNY",
+     "SNYNF"
+    ],
+    "exchanges": [
+     "Nasdaq",
+     "OTC"
+    ],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3438,
@@ -347182,7 +347923,14 @@
    "sourceNote": "한국어 위키백과 「스코샤 은행」 요약과 위키데이터 Q451476 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0000814020",
+    "name": "BANK OF NOVA SCOTIA                                     /FI",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3444,
@@ -347592,7 +348340,14 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "영문 위키백과 「SKF」 본문과 위키데이터 Q52846 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「SKF」 본문과 위키데이터 Q52846 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0000777504",
+    "name": "SKF INC",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3450,
@@ -349748,7 +350503,14 @@
    "sourceNote": "영문 위키백과 「Swedbank」 본문과 위키데이터 Q1145493 팩트를 근거로 편집",
    "collections": [
     "banking"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0001633050",
+    "name": "Swedbank",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3482,
@@ -350903,7 +351665,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「티센크루프」 요약과 위키데이터 Q137910 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「티센크루프」 요약과 위키데이터 Q137910 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001437198",
+    "name": "Thyssenkrupp AG",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3499,
@@ -353021,7 +353790,25 @@
    "sourceNote": "한국어 위키백과 「비자 (기업)」 요약과 위키데이터 Q328840 팩트를 근거로 편집",
    "collections": [
     "fintech"
-   ]
+   ],
+   "secFacts": {
+    "cik": "0001403161",
+    "name": "VISA INC.",
+    "tickers": [
+     "V"
+    ],
+    "exchanges": [
+     "NYSE"
+    ],
+    "fetchedAt": "2026-11-13",
+    "revenue": {
+     "usd": 45903000000,
+     "end": "2026-09-30",
+     "form": "10-K",
+     "accn": "0001403161-26-000134",
+     "concept": "RevenueFromContractWithCustomerExcludingAssessedTax"
+    }
+   }
   },
   {
    "id": 3530,
@@ -353092,7 +353879,14 @@
     "parent": null,
     "fetchedAt": "2026-11-12"
    },
-   "sourceNote": "한국어 위키백과 「비방디」 요약과 위키데이터 Q1127887 팩트를 근거로 편집"
+   "sourceNote": "한국어 위키백과 「비방디」 요약과 위키데이터 Q1127887 팩트를 근거로 편집",
+   "secFacts": {
+    "cik": "0001127055",
+    "name": "VIVENDI",
+    "tickers": [],
+    "exchanges": [],
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3531,
@@ -354122,7 +354916,13 @@
    "sourceNote": "영문 위키백과 「Westmalle Brewery」 본문과 위키데이터 Q1144830 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "trappistwestmalle.be",
+    "firstCapture": "2000-03-02",
+    "snapshot": "https://web.archive.org/web/20000302234053/http://www.trappistwestmalle.be:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3546,
@@ -354187,7 +354987,13 @@
    "sourceNote": "영문 위키백과 「Westvleteren Brewery」 본문과 위키데이터 Q1368052 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "trappistwestvleteren.be",
+    "firstCapture": "2016-01-12",
+    "snapshot": "https://web.archive.org/web/20160112141950/http://trappistwestvleteren.be/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3547,
@@ -354446,7 +355252,13 @@
    "sourceNote": "영문 위키백과 「Würzburger Hofbräu」 본문과 위키데이터 Q870325 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "wuerzburger-hofbraeu.de",
+    "firstCapture": "2000-08-24",
+    "snapshot": "https://web.archive.org/web/20000824010110/http://www.wuerzburger-hofbraeu.de:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3551,
@@ -354511,7 +355323,13 @@
    "sourceNote": "영문 위키백과 「XXXX (beer)」 본문과 위키데이터 Q924355 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "xxxx.com.au",
+    "firstCapture": "1998-06-30",
+    "snapshot": "https://web.archive.org/web/19980630050328/http://www.xxxx.com.au:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3552,
@@ -354636,7 +355454,13 @@
    "sourceNote": "한국어 위키백과 「D.G. 잉링 & 손」 요약과 위키데이터 Q844073 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "yuengling.com",
+    "firstCapture": "1997-02-15",
+    "snapshot": "https://web.archive.org/web/19970215002642/http://www.yuengling.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3554,
@@ -354701,7 +355525,13 @@
    "sourceNote": "영문 위키백과 「Zagorka」 본문과 위키데이터 Q2354423 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "zagorka.bg",
+    "firstCapture": "2008-03-31",
+    "snapshot": "https://web.archive.org/web/20080331131538/http://zagorka.bg:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3555,
@@ -354762,7 +355592,13 @@
    "sourceNote": "영문 위키백과 「Zaječarsko pivo」 본문과 위키데이터 Q16108998 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "zajecarskopivo.com",
+    "firstCapture": "2015-05-10",
+    "snapshot": "https://web.archive.org/web/20150510234719/http://zajecarskopivo.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3556,
@@ -354825,7 +355661,13 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "영문 위키백과 「Zenvo Automotive」 본문과 위키데이터 Q2557186 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「Zenvo Automotive」 본문과 위키데이터 Q2557186 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "zenvoautomotive.com",
+    "firstCapture": "2008-12-17",
+    "snapshot": "https://web.archive.org/web/20081217111739/http://www.zenvoautomotive.com:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3557,
@@ -354891,7 +355733,13 @@
    "sourceNote": "영문 위키백과 「Zlatý Bažant」 본문과 위키데이터 Q2986930 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "zlatybazant.sk",
+    "firstCapture": "2002-07-15",
+    "snapshot": "https://web.archive.org/web/20020715075821/http://www.zlatybazant.sk:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3558,
@@ -354956,7 +355804,13 @@
    "sourceNote": "영문 위키백과 「Zötler Brewery」 본문과 위키데이터 Q2809884 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "zoetler.de",
+    "firstCapture": "1998-12-05",
+    "snapshot": "https://web.archive.org/web/19981205091316/http://www.zoetler.de:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3559,
@@ -355025,7 +355879,13 @@
     "parent": null,
     "fetchedAt": "2026-11-11"
    },
-   "sourceNote": "영문 위키백과 「ZTE」 본문과 위키데이터 Q136484 팩트를 근거로 편집"
+   "sourceNote": "영문 위키백과 「ZTE」 본문과 위키데이터 Q136484 팩트를 근거로 편집",
+   "webArchive": {
+    "host": "zte.com.cn",
+    "firstCapture": "2000-03-04",
+    "snapshot": "https://web.archive.org/web/20000304162540/http://www.zte.com.cn:80/",
+    "fetchedAt": "2026-11-13"
+   }
   },
   {
    "id": 3560,
@@ -355157,7 +356017,13 @@
    "sourceNote": "영문 위키백과 「Żywiec Brewery」 본문과 위키데이터 Q75438 팩트를 근거로 편집",
    "collections": [
     "beer"
-   ]
+   ],
+   "webArchive": {
+    "host": "grupazywiec.pl",
+    "firstCapture": "2001-03-02",
+    "snapshot": "https://web.archive.org/web/20010302041716/http://www.grupazywiec.pl:80/",
+    "fetchedAt": "2026-11-13"
+   }
   }
  ],
  "koreanSources": [

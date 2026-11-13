@@ -224,6 +224,23 @@ scripts/make-history-logos.py              images/history/<slug>.webp 썸네일(
 - 썸네일은 manifest의 원본 경로가 현재 `b.logo`와 같을 때만 쓴다(어드민 로고 교체 시 원본으로 폴백).
 - 브랜드 페이지의 '브랜드 연대기에서 보기'는 매거진 역링크처럼 본문 해시 뒤에 붙는다(신선도 원장 영향 없음).
 
+## 2-g. SNS 자동 운영 (2026-11-13)
+
+어드민 'SNS' 탭. 매일 한 편을 브랜드 데이터에서 기획해 카드뉴스(1080x1350 JPEG)·릴스(1080x1920 MP4)로 만들고
+인스타그램·스레드·페이스북 페이지에 올린 뒤 성과를 모아 다음 기획에 반영한다. 전부 배포 서버에서 돈다.
+
+```
+brandatlas-social.timer(15분) / .path(어드민 신호) → scripts/server/social-tick.sh → scripts/social/run.mjs
+  ① 토큰 연장(IG·스레드 7일마다)  ② plan.mjs: 시리즈 선택(weights.json 가중치) → 데이터로 슬라이드 → AI 문구(verifyCopy, 실패 2회면 규칙 문구)
+     → render.mjs(헤드리스 Chrome → JPEG, 릴스 요일은 ffmpeg zoompan+xfade+BGM)  ③ publish.mjs  ④ insights.mjs(6시간마다 지표, 시리즈 가중치, 주간 AI 분석)
+데이터 ~/brandatlas-admin/data/social/{settings,weights,analysis,status}.json · posts/<id>/{post.json,01.jpg…,reel.mp4}
+토큰 ~/brandatlas-admin/social-tokens.json(600, 어드민에서만 입력·응답에 싣지 않음) · 로그 ~/brandatlas-logs/social.log
+미디어 공개 주소 https://brandatlas.co.kr/admin-api/sns/<id>/<01|reel> — 확장자 없음(nginx 확장자 정규식 location 회피), 반려·폐기분은 404
+```
+- 시리즈: 오늘의 브랜드·로고 변천·브랜드 연대기·아틀라스 매거진·숫자로 보는 브랜드(SEC 매출)·새로 수록한 브랜드(월요일). 사실은 데이터 밖으로 나가지 않는다(§2).
+- 기본값은 자동 생성 OFF·자동 발행 OFF(승인한 것만 발행). 설치·재설치: `deploy/setup-social-jobs.sh`(멱등).
+- 템플릿은 officetel-social, 발행 흐름은 officetel-social/bin/publish.mjs, 릴스 움직임·BGM은 short-gengen engine에서 가져왔다(`scripts/social/assets/NOTICE.md`).
+
 ## 3. 빌드·배포
 
 ```bash

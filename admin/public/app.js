@@ -50,6 +50,7 @@ const TABS = [
   { id: "ga4", name: "GA4", render: renderGa4 },
   { id: "gsc", name: "구글 서치콘솔", render: renderGsc },
   { id: "magazine", name: "매거진", render: renderMagazine },
+  { id: "social", name: "SNS", render: renderSocial },
   { id: "catalog", name: "브랜드 수록", render: renderCatalog },
   { id: "logos", name: "로고 올리기", render: renderLogos },
   { id: "contact", name: "문의", render: renderContact },
@@ -697,6 +698,159 @@ function renderMagazine(host) {
     out.append(tb, pv);
   };
   load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
+}
+
+// ─── SNS 자동 운영 ──────────────────────────────────────────────────────────
+// 생성·발행·성과 수집은 서버 작업(15분마다)이 한다. 여기서는 설정·계정 연결·검수·성과 확인만 한다.
+const SOC_PF = { instagram: "인스타그램", threads: "스레드", facebook: "페이스북" };
+const SOC_SERIES = { brand: "오늘의 브랜드", logo: "로고 변천", history: "브랜드 연대기", magazine: "아틀라스 매거진", numbers: "숫자로 보는 브랜드", new: "새로 수록한 브랜드" };
+const SOC_STATUS = { pending: ["warn", "검수 대기"], approved: ["info", "승인·예약"], published: ["ok", "발행됨"], rejected: ["mute", "반려"], discarded: ["mute", "다시 만드는 중"] };
+const DOW = ["일", "월", "화", "수", "목", "금", "토"];
+const socSum = (p, k) => Object.values(p.metrics || {}).reduce((a, m) => a + (Number(m?.[k]) || 0), 0);
+const socGa = (p) => Object.values(p.ga4 || {}).reduce((a, x) => a + (x.sessions || 0), 0);
+
+function renderSocial(host) {
+  const out = el("div", {});
+  host.append(out);
+  const post = (path, body) => api(path, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+
+  const load = async () => {
+    const d = await api("/api/social");
+    out.innerHTML = "";
+    const s = d.settings, posts = d.posts || [];
+    const pub = posts.filter((p) => p.status === "published");
+    const R = pub.reduce((a, p) => a + socSum(p, "reach"), 0), E = pub.reduce((a, p) => a + socSum(p, "engagement"), 0);
+
+    // 1) 운영 상태·설정
+    const b1 = box(out, "SNS 자동 운영", "매일 한 편을 브랜드 데이터에서 기획해 카드뉴스(4:5)와 릴스(9:16)로 만들고, 정한 시각에 인스타그램·스레드·페이스북에 올립니다. 사실은 수록 자료에서만 가져오고 AI는 문장만 다듬습니다(근거에 없는 숫자가 있으면 규칙 문구로 대체).");
+    cards(b1, [
+      { k: "대기·예약", v: `${posts.filter((p) => ["pending", "approved"].includes(p.status)).length}편`, s: `검수 대기 ${posts.filter((p) => p.status === "pending").length}편`, accent: posts.some((p) => p.status === "pending") && !s.autoPublish },
+      { k: "발행(45일)", v: `${pub.length}편`, s: pub[0] ? `최근 ${pub[0].date}` : "아직 없음" },
+      { k: "도달 합계", v: num(R), s: `참여 ${num(E)} · 참여율 ${pct(E, R)}` },
+      { k: "사이트 유입", v: num(pub.reduce((a, p) => a + socGa(p), 0)), s: "GA4 utm 세션(스레드·페이스북 링크)" },
+    ]);
+    const toggle = (key, label, help) => {
+      const cb = el("input", { type: "checkbox", checked: s[key] ? "" : null });
+      cb.addEventListener("change", async () => { cb.disabled = true; try { await post("/api/social/settings", { [key]: cb.checked }); } finally { load(); } });
+      return el("label", { class: "row", style: "gap:10px;align-items:center;margin:6px 0" }, cb, el("b", {}, label), el("span", { class: "muted" }, help));
+    };
+    const save = async (patch) => { await post("/api/social/settings", patch); load(); };
+    const pfBoxes = Object.entries(SOC_PF).map(([k, name]) => {
+      const cb = el("input", { type: "checkbox", checked: s.platforms[k] ? "" : null });
+      cb.addEventListener("change", () => save({ platforms: { ...s.platforms, [k]: cb.checked } }));
+      return el("label", { class: "row", style: "gap:6px;align-items:center" }, cb, name);
+    });
+    const time = el("input", { type: "time", value: s.publishTime, style: "padding:4px 8px" });
+    time.addEventListener("change", () => save({ publishTime: time.value }));
+    const reel = DOW.map((n, i) => {
+      const cb = el("input", { type: "checkbox", checked: s.reelDays.includes(i) ? "" : null });
+      cb.addEventListener("change", () => save({ reelDays: cb.checked ? [...s.reelDays, i] : s.reelDays.filter((x) => x !== i) }));
+      return el("label", { class: "row", style: "gap:4px;align-items:center" }, cb, n);
+    });
+    const series = Object.entries(SOC_SERIES).map(([k, n]) => {
+      const cb = el("input", { type: "checkbox", checked: s.seriesOff.includes(k) ? null : "" });
+      cb.addEventListener("change", () => save({ seriesOff: cb.checked ? s.seriesOff.filter((x) => x !== k) : [...s.seriesOff, k] }));
+      return el("label", { class: "row", style: "gap:4px;align-items:center" }, cb, n, el("small", { class: "muted" }, ` ×${d.weights?.series?.[k] ?? 1}`));
+    });
+    const runBtn = el("button", { class: "act" }, s.runRequested ? "만드는 중 — 1~3분" : "지금 하나 만들기");
+    runBtn.disabled = !!s.runRequested;
+    runBtn.addEventListener("click", () => save({ runRequested: true }));
+    const st = d.status;
+    b1.append(
+      toggle("enabled", "자동 생성", `켜면 ${s.aheadDays}일 앞까지 매일 한 편씩 미리 만들어 둡니다.`),
+      toggle("autoPublish", "검수 없이 자동 발행", "켜면 대기 게시물도 시각이 되면 올라갑니다. 끄면 승인한 것만 올라갑니다."),
+      el("div", { class: "row", style: "gap:14px;flex-wrap:wrap;margin:10px 0" }, el("b", {}, "채널"), ...pfBoxes, el("b", { style: "margin-left:12px" }, "발행 시각"), time),
+      el("div", { class: "row", style: "gap:10px;flex-wrap:wrap;margin:10px 0" }, el("b", {}, "릴스 요일"), ...reel),
+      el("div", { class: "row", style: "gap:12px;flex-wrap:wrap;margin:10px 0" }, el("b", {}, "시리즈"), ...series),
+      el("div", { class: "row", style: "gap:10px;margin:12px 0 0" }, runBtn,
+        el("span", { class: "muted" }, st ? `서버 작업 ${String(st.finishedAt || st.startedAt).slice(5, 16).replace("T", " ")} · ${Object.entries(st.steps || {}).filter(([, v]) => v !== "ok").map(([k, v]) => `${k} ${v}`).join(" ") || "정상"}` : "서버 작업 기록 없음")),
+    );
+
+    // 2) 계정 연결
+    const b2 = box(out, "계정 연결", "Meta 개발자 앱에서 받은 장기 토큰을 넣습니다. 토큰은 서버 파일(권한 600)에만 저장되고 화면에는 다시 표시되지 않습니다. 인스타그램·스레드 토큰은 서버가 7일마다 자동 연장합니다.");
+    for (const [pf, name] of Object.entries(SOC_PF)) {
+      const a = d.accounts[pf];
+      const tok = el("input", { type: "password", placeholder: "액세스 토큰", autocomplete: "off", style: "flex:1;min-width:220px;padding:6px 8px" });
+      const acct = el("input", { placeholder: pf === "facebook" ? "페이지 ID(숫자)" : "계정 ID(비우면 me)", style: "width:170px;padding:6px 8px" });
+      const btn = el("button", { class: "act" }, "저장·확인");
+      btn.addEventListener("click", () => withLoading(btn, async () => {
+        const r = await post("/api/social/tokens", { platform: pf, token: tok.value.trim(), account: acct.value.trim() });
+        alert(r.check?.ok ? `${name} 연결됨: ${r.check.name}` : `저장했지만 확인 실패: ${r.check?.reason || ""}`); load();
+      }));
+      const clr = el("button", { class: "act" }, "연결 해제");
+      clr.addEventListener("click", async () => { if (confirm(`${name} 토큰을 지울까요?`)) { await post("/api/social/tokens", { platform: pf, clear: true }); load(); } });
+      const state = a.connected ? (a.check?.ok === false ? pill("bad", "확인 실패") : pill("ok", `연결됨${a.check?.name ? ` · ${a.check.name}` : ""}`)) : pill("mute", "미연결");
+      b2.append(el("div", { class: "row", style: "gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0" },
+        el("b", { style: "width:84px" }, name), state,
+        a.expiresAt ? el("span", { class: "muted" }, `만료 ${a.expiresAt.slice(0, 10)}`) : "", a.error ? el("span", { class: "muted" }, a.error) : "",
+        tok, acct, btn, a.connected ? clr : ""));
+    }
+    b2.append(el("details", { style: "margin-top:8px" }, el("summary", {}, "토큰 받는 법"), el("div", { class: "muted", style: "line-height:1.7;margin-top:6px", html:
+      "1. developers.facebook.com 에서 비즈니스 앱을 만들고 Instagram(Instagram 로그인 방식)·Threads·Facebook 로그인 제품을 추가합니다.<br>" +
+      "2. 인스타그램: 비즈니스/크리에이터 계정으로 instagram_business_basic, instagram_business_content_publish, instagram_business_manage_insights 권한 토큰(장기)을 발급합니다.<br>" +
+      "3. 스레드: threads_basic, threads_content_publish, threads_manage_insights 권한 장기 토큰.<br>" +
+      "4. 페이스북: 페이지 관리자 계정으로 pages_manage_posts, pages_read_engagement, read_insights 권한의 장기 사용자 토큰을 받아 /me/accounts 에서 페이지 토큰과 페이지 ID를 복사합니다(만료 없음).<br>" +
+      "5. 앱을 '라이브' 모드로 바꿔야 다른 사람에게 게시물이 보입니다." })));
+
+    // 3) 게시물
+    const b3 = box(out, "게시물", "검수 대기는 승인해야 올라갑니다(자동 발행이 꺼져 있을 때). '다시 만들기'는 그날을 다른 주제로 새로 채웁니다.");
+    const pv = el("div", { class: "box", style: "display:none" });
+    if (!posts.length) b3.append(el("div", { class: "empty" }, "아직 게시물이 없습니다. 계정을 연결하고 '자동 생성'을 켜거나 '지금 하나 만들기'를 누르세요."));
+    else b3.append(el("div", { class: "scroll" }, table(["날짜", "시리즈", "주제", "형식", "문구", "상태", "도달", "참여", "유입", ""], posts.map((p) => {
+      const act = el("span", { class: "row", style: "gap:6px;flex-wrap:wrap" });
+      const mk = (label, action, ask) => { const bt = el("button", { class: "act" }, label); bt.addEventListener("click", async () => { if (ask && !confirm(ask)) return; bt.disabled = true; try { await post("/api/social/decision", { id: p.id, action }); } catch (e) { alert(e.message); } load(); }); return bt; };
+      const view = el("button", { class: "act" }, "보기");
+      view.addEventListener("click", () => socPreview(pv, p, post, load));
+      act.append(view);
+      if (p.status === "pending") act.append(mk("승인", "approve"), mk("반려", "reject"), mk("다시 만들기", "discard", "이 날을 다른 주제로 다시 만들까요?"));
+      if (p.status === "approved") act.append(mk("지금 발행", "publishNow", "지금 바로 발행할까요?"), mk("승인 취소", "undo"));
+      if (p.status === "rejected") act.append(mk("되돌리기", "undo"));
+      const [k, t] = SOC_STATUS[p.status] || ["mute", p.status];
+      const links = Object.entries(p.result || {}).map(([pf, r]) => r.permalink ? el("a", { href: r.permalink, target: "_blank", rel: "noopener noreferrer", style: "margin-left:4px" }, SOC_PF[pf].slice(0, 2))
+        : r.error ? el("span", { class: "muted", title: r.error, style: "margin-left:4px" }, `${SOC_PF[pf].slice(0, 2)} 실패`) : "");
+      return [p.date, SOC_SERIES[p.series] || p.series, p.title, p.format === "reel" ? "릴스" : `카드 ${p.media.length}장`, p.copySource === "ai" ? "AI" : el("span", { title: (p.checks?.issues || []).join("\n") }, "규칙"),
+        el("span", {}, pill(k, t), ...links), socSum(p, "reach"), socSum(p, "engagement"), socGa(p), act];
+    }))));
+    out.append(pv);
+
+    // 4) 성과
+    const b4 = box(out, "성과와 학습", "발행 후 30일 동안 6시간마다 지표를 모읍니다. 시리즈별 참여율로 다음 기획의 선택 확률(×값)을 조정하고, 매주 AI가 분석문을 씁니다(숫자는 표에 있는 값만).");
+    const chartPosts = [...pub].reverse().slice(-20);
+    if (chartPosts.length >= 2) {
+      const c = el("canvas", { id: "chSocial" });
+      b4.append(el("div", { class: "chartwrap" }, c));
+      chart(c, { type: "bar", data: { labels: chartPosts.map((p) => `${p.date.slice(5)} ${SOC_SERIES[p.series]?.slice(0, 4) || ""}`),
+        datasets: [{ label: "도달", data: chartPosts.map((p) => socSum(p, "reach")), backgroundColor: C.accentSoft, borderColor: C.accent, borderWidth: 1 },
+          { label: "참여", data: chartPosts.map((p) => socSum(p, "engagement")), backgroundColor: C.accent }] },
+        options: { responsive: true, maintainAspectRatio: false } });
+    } else b4.append(el("div", { class: "empty" }, "발행된 게시물이 2편 이상 쌓이면 그래프가 나옵니다."));
+    const an = d.analysis;
+    if (an) b4.append(el("div", { style: "margin-top:14px;line-height:1.75" }, el("b", {}, `주간 분석 (${String(an.at).slice(0, 10)} · ${an.source === "ai" ? "AI" : "규칙"})`),
+      el("p", {}, an.summary || ""), an.good?.length ? el("div", {}, el("b", {}, "잘 된 점"), el("ul", {}, an.good.map((x) => el("li", {}, x)))) : "",
+      an.next?.length ? el("div", {}, el("b", {}, "다음 주 제안"), el("ul", {}, an.next.map((x) => el("li", {}, x)))) : ""));
+  };
+  load().catch((e) => { out.innerHTML = ""; out.append(el("div", { class: "empty" }, `불러오기 실패: ${e.message}`)); });
+}
+
+function socPreview(pv, p, post, reload) {
+  pv.style.display = ""; pv.innerHTML = "";
+  pv.append(el("h2", {}, `${p.date} · ${SOC_SERIES[p.series] || p.series} — ${p.title}`),
+    el("div", { class: "sub" }, `${p.format === "reel" ? `릴스 ${p.video?.seconds || ""}초 + ` : ""}카드 ${p.media.length}장 · 발행 ${p.publishAt.slice(0, 16).replace("T", " ")} · 문구 ${p.copySource === "ai" ? "AI(검증 통과)" : `규칙(${(p.checks?.issues || []).join(", ") || "AI 미사용"})`}`));
+  const strip = el("div", { class: "row", style: "gap:8px;overflow-x:auto;padding:8px 0" });
+  if (p.video) strip.append(el("video", { src: `${API}/sns/${p.id}/reel`, controls: "", preload: "metadata", style: "height:360px;border:1px solid #e2e8f0;border-radius:8px" }));
+  for (const f of p.media) strip.append(el("img", { src: `${API}/sns/${p.id}/${f.replace(".jpg", "")}`, alt: "", loading: "lazy", style: "height:360px;border:1px solid #e2e8f0;border-radius:8px" }));
+  pv.append(strip);
+  const eds = {};
+  for (const [pf, name] of Object.entries(SOC_PF)) {
+    eds[pf] = el("textarea", { rows: pf === "threads" ? 5 : 9, style: "width:100%;font:inherit;padding:8px;border:1px solid #e2e8f0;border-radius:8px" });
+    eds[pf].value = p.captions[pf] || "";
+    pv.append(el("div", { style: "margin:10px 0" }, el("b", {}, name), eds[pf]));
+  }
+  const sv = el("button", { class: "act" }, "문구 저장");
+  sv.disabled = p.status === "published";
+  sv.addEventListener("click", () => withLoading(sv, async () => { await post("/api/social/decision", { id: p.id, action: "edit", captions: Object.fromEntries(Object.entries(eds).map(([k, e]) => [k, e.value])) }); reload(); }));
+  pv.append(sv);
+  pv.scrollIntoView({ behavior: "smooth" });
 }
 
 // ─── 11. 주간 브랜드 수록 ───────────────────────────────────────────────────
