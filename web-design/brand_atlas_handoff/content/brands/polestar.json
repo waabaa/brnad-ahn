@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q4047174",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/polestar-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "polestar",
+  "urlSlug": "polestar",
+  "name": "폴스타",
+  "nameKo": "폴스타",
+  "nameEn": "Polestar",
+  "definition": "폴스타(Polestar)는 스웨덴 예테보리 인근 토르슬란다에 본사를 둔 전기차 제조사이다. Volvo Cars와 Geely Holding 등이 주요 주주이며 자체 생산 공장 없이 차를 만든다.",
+  "summary": "폴스타(Polestar)는 스웨덴 예테보리 인근 토르슬란다에 본사를 둔 전기차 제조사이다. Volvo Cars와 Geely Holding 등이 주요 주주이며 자체 생산 공장 없이 차를 만든다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "자체 생산 시설 없이 Volvo와 Geely 계열 공장에서 전기차를 만드는 브랜드로, 모터스포츠 팀과 튜닝 부문에서 출발해 전기차 전문 브랜드가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "폴스타는 전기차를 만드는 스웨덴 자동차 제조사이다. 개발과 생산에서 자산 경량 방식을 택해 자체 생산 시설을 두지 않고, Volvo 또는 Geely가 관리하는 중국, 미국, 한국 등의 시설에서 차를 생산한다. 브랜드의 뿌리는 1996년 설립된 스웨덴 모터스포츠 팀 Flash Engineering이며, 2015년 7월 Volvo Cars에 인수된 뒤 2017년부터 전기차 제조사로 재정립되었다. 영국에 기반을 둔 지주회사 Polestar Automotive Holding UK PLC는 2021년 Volvo Cars와 Geely Holding Group이 공동으로 설립했다. 주식은 2022년 6월 24일부터 Nasdaq에서 PSNY라는 종목 기호로 거래를 시작했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1996년 스웨덴의 모터스포츠 팀 Flash Engineering이 설립되어 스웨덴 투어링카 챔피언십에 참가했다. 팀은 2005년 매각되어 Polestar Racing으로 이름을 바꾸었고, 2000년대 후반부터 Volvo 차량을 경주용으로 개조했다. 2009년에는 Volvo의 공식 파트너로서 기존 모델을 튜닝하는 Polestar Performance 브랜드를 운영했다. 2015년 7월 Volvo가 이 회사를 인수해 Polestar가 개선한 모델을 자사 판매점으로 직접 팔기 시작했다. 2017년 10월 Volvo Cars와 Geely Holding은 폴스타를 전기차 중심의 독립 브랜드로 만든다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2017년 10월 17일 공개된 Polestar 1은 Volvo의 Concept Coupé에서 영감을 받은 2+2 쿠페이다. 2019년부터 2021년까지 중국 청두의 Polestar Production Centre에서 생산되었고, 마지막 해에는 금색 한정판 25대가 만들어졌다. 2019년 2월 27일 온라인으로 공개된 Polestar 2는 중국 타이저우의 Volvo Cars 기존 공장에서 생산한다. 2024년형으로 부분 변경되어 싱글 모터 사양이 후륜구동으로 바뀌었고, Polestar 3와 같은 SmartZone 전면부를 적용했다. 2022년에는 로드스터 콘셉트 Polestar O2를 선보였고, 이를 바탕으로 한 Polestar 6를 2026년 생산 예정으로 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 폴스타는 예테보리 중심부에 80,000 m2 규모의 새 본사 건물을 짓는다고 발표했다. 2024년 2월 당시 Geely가 79.5%를 보유한 Volvo는 Polestar 지분을 48%에서 18%로 줄이겠다고 밝혔다. 주요 소유주는 Li Shufu의 PSD Investment, Geely Holding, Volvo Cars이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자체 생산 시설 없이 Volvo와 Geely 계열 공장에서 전기차를 만드는 브랜드로, 모터스포츠 팀과 튜닝 부문에서 출발해 전기차 전문 브랜드가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.polestar.com/",
+  "entityLinks": {
+   "wikidata": "Q4047174",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4047174",
+    "https://ko.wikipedia.org/wiki/%ED%8F%B4%EC%8A%A4%ED%83%80",
+    "https://en.wikipedia.org/wiki/Polestar"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4047174",
+   "country": "스웨덴",
+   "inception": "1996",
+   "headquarters": "예테보리",
+   "founders": [],
+   "parent": "볼보자동차",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Polestar」 본문과 위키데이터 Q4047174 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

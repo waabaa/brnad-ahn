@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2538109",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "victoria-bitter",
+  "urlSlug": "victoria-bitter",
+  "name": "빅토리아 비터",
+  "nameKo": "빅토리아 비터",
+  "nameEn": "Victoria Bitter",
+  "definition": "빅토리아 비터(Victoria Bitter)는 오스트레일리아 멜버른에서 Carlton & United Breweries가 생산하는 라거 맥주이다. 1854년 Thomas Aitken이 처음 양조했으며 오스트레일리아에서 가장 많이 팔리는 맥주 중 하나이다.",
+  "summary": "빅토리아 비터(Victoria Bitter)는 오스트레일리아 멜버른에서 Carlton & United Breweries가 생산하는 라거 맥주이다. 1854년 Thomas Aitken이 처음 양조했으며 오스트레일리아에서 가장 많이 팔리는 맥주 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "이름과 달리 비터가 아닌 라거이며, 'For A Hard Earned Thirst' 광고와 'The Staple'이라는 별명으로 오스트레일리아 일상의 기본 맥주로 자리 잡았다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "VB로 줄여 부르는 이 맥주는 이름과 달리 비터가 아니라 일반적인 상업용 라거이다. 양조 방식은 오스트레일리아 라거 대부분과 같은 wortstream 공정이며, 맥주의 바디를 가볍게 하려고 일부 사탕수수 설탕을 쓴다. 2004년에는 시장 점유율이 25퍼센트를 넘어 오스트레일리아에서 팔리는 맥주 네 병 중 한 병이 VB였다. 2013년 기준으로는 점유율 12.2퍼센트로 가장 인기 있는 맥주였다. 뒷마당 바비큐 같은 모임에서 기본으로 마시는 맥주라 'The Staple'이라 불리며, Vic Bitter, Veebs, Vitamin B 등 여러 별명도 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "VB의 기원은 Victoria Brewery의 창업자이자 수석 양조사인 Thomas Aitken이 1854년에 레시피를 개발한 데서 출발한다. 1960년대 중반부터 폭넓은 인기를 얻기 시작했다. 영화 The Magnificent Seven의 주제곡과 매우 비슷한 음악, 일하고 노는 노동자 계층 오스트레일리아인의 모습, 배우 John Meillon의 내레이션이 담긴 텔레비전 광고가 계기였다. 광고 슬로건은 \"For A Hard Earned Thirst\"였다. 이 캠페인은 최근까지 쓰였고 2018년 'New Knock Off Times' 캠페인으로 다시 만들어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "VB는 병 750, 375, 250mL와 캔 500, 375mL로 판매된다. 한동안 노던 준주에서는 'Killer can'이라 불린 1리터 캔으로도 한정 판매되었다. 2007년 Foster's가 알코올 도수 3.5퍼센트의 중알코올 버전 VB Midstrength Lager를 내놓았으며, 이는 Foster's가 처음 선보인 VB 브랜드의 주류 변형 제품이었다. 2009년 Carlton & United Breweries가 이름을 VB Gold로 바꾸었고 2017년 도수를 3퍼센트로 낮췄다. 오스트레일리아 밖에서는 뉴질랜드, 발리, 인도네시아, 영국 등에서도 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 Foster's는 세금 절감을 위해 도수를 4.9퍼센트에서 4.8퍼센트로 낮췄고, 2009년에는 4.6퍼센트로 더 낮췄다. 불만이 이어지고 점유율이 크게 줄자 Carlton & United Breweries는 2012년 9월 3일 원래의 4.9퍼센트 레시피와 포장으로 돌아가겠다고 발표했다. 2012년에는 최다 판매 맥주 자리를 XXXX Gold에 내주었다. 현재 Carlton & United Breweries는 Asahi의 자회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이름과 달리 비터가 아닌 라거이며, 'For A Hard Earned Thirst' 광고와 'The Staple'이라는 별명으로 오스트레일리아 일상의 기본 맥주로 자리 잡았다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.victoriabitter.com.au/",
+  "entityLinks": {
+   "wikidata": "Q2538109",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2538109",
+    "https://ko.wikipedia.org/wiki/%EB%B9%85%ED%86%A0%EB%A6%AC%EC%95%84_%EB%B9%84%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Victoria_Bitter"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2538109",
+   "country": "오스트레일리아",
+   "inception": "1854",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Victoria Bitter」 본문과 위키데이터 Q2538109 팩트를 근거로 편집"
+ }
+}

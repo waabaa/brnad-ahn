@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2028046",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ozujsko",
+  "urlSlug": "ozujsko",
+  "name": "Ožujsko",
+  "nameKo": "",
+  "nameEn": "Ožujsko",
+  "definition": "Ožujsko는 크로아티아의 라거 맥주 브랜드이다. 도수는 5%이며, 크로아티아에서 가장 큰 양조장인 Zagrebačka pivovara가 생산하는 대표 브랜드이다.",
+  "summary": "Ožujsko는 크로아티아의 라거 맥주 브랜드이다. 도수는 5%이며, 크로아티아에서 가장 큰 양조장인 Zagrebačka pivovara가 생산하는 대표 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "크로아티아에서 가장 오래되고 생산이 끊기지 않은 브랜드 중 하나이자 판매 선두 라거로, 3월을 뜻하는 이름을 지녔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ožujsko는 크로아티아에서 생산되는 5% 라거 맥주 브랜드이다. 보리, 효모, 홉, 물 등 천연 원료로 만들며 황금빛을 띠고, 단 옥수수와 맥아 향에 과일 향의 끝맛이 이어진다고 묘사된다. 이름은 크로아티아어로 3월을 뜻하는 ožujak에서 따왔으며, 전통적으로 3월에 가장 좋은 맥주를 만든 데서 유래했다. 제조 기술이 발달해 지금은 계절과 무관하게 연중 양조할 수 있다. 크로아티아에서 판매량 기준 선두 맥주 브랜드이며 시장 점유율은 약 40%이다. 생산사 Zagrebačka pivovara는 2013년부터 Molson Coors Brewing Company에 속해 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ožujsko의 레시피와 브랜드는 Nova Gradiška의 Lobe 양조장에서 유래했다. Lobe 양조장은 Dragutin Lobe가 1851년 Požega에서 Nova Gradiška로 이주한 뒤 세웠으며, 1873년 크로아티아 최초의 증기 동력 양조장이 되었다. Ožujsko 생산은 20세기 초 Lobe 양조장에서 시작되었으나 정확한 시작 연도는 알려져 있지 않으며, 현재 라벨의 1892년은 Zagrebačka pivovara의 설립 연도를 가리킨다. 이후 아들 Miroslav Lobe가 경영을 이어받았고, 양조장은 1943년 문을 닫았으며 생산 설비는 Zagrebačka pivovara로 옮겨졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Ožujsko는 판매량 기준으로 크로아티아 선두 맥주 브랜드이며 시장 점유율은 약 40%이다. 생산사 Zagrebačka pivovara는 크로아티아에서 가장 큰 양조장이며 2013년부터 Molson Coors Brewing Company에 속해 있다. Ožujsko는 1998년부터 크로아티아 축구 국가대표팀의 공식 스폰서를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "크로아티아에서 가장 오래되고 생산이 끊기지 않은 브랜드 중 하나이자 판매 선두 라거로, 3월을 뜻하는 이름을 지녔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ozujsko.com/",
+  "entityLinks": {
+   "wikidata": "Q2028046",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2028046",
+    "https://en.wikipedia.org/wiki/O%C5%BEujsko"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2028046",
+   "country": "크로아티아",
+   "inception": "1892",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Ožujsko」 본문과 위키데이터 Q2028046 팩트를 근거로 편집"
+ }
+}

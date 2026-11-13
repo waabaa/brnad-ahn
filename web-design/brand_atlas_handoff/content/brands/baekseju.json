@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q871311",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "baekseju",
+  "urlSlug": "baekseju",
+  "name": "백세주",
+  "nameKo": "백세주",
+  "nameEn": "baekseju",
+  "definition": "백세주(baekseju)는 찹쌀을 기반으로 발효시켜 인삼을 비롯한 여러 약재로 향을 낸 한국의 발효 주류이다. 이름은 약재의 효능으로 100세까지 살 수 있다는 전설에서 유래했다.",
+  "summary": "백세주(baekseju)는 찹쌀을 기반으로 발효시켜 인삼을 비롯한 여러 약재로 향을 낸 한국의 발효 주류이다. 이름은 약재의 효능으로 100세까지 살 수 있다는 전설에서 유래했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "인삼을 비롯한 약재를 넣은 찹쌀 발효주로, 100세까지 살 수 있다는 전설에서 이름을 얻은 한국의 전통 방식 술이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "백세주는 찹쌀을 원료로 발효시킨 한국의 술로, 인삼을 가장 대표적인 재료로 하여 여러 약재로 향을 낸 것이 특징이다. 이름은 몸에 이로운 약재 덕분에 사람이 100세까지 살 수 있다는 전설에서 유래했다. 전통 방식으로 빚으며 맛이 부드럽고, 인삼의 향이 약간 느껴지는 점이 특징이다. 구이나 매운 음식처럼 한국 음식의 중심이 되는 맛의 요리와 함께 마시는 경우가 많다. 그러나 오늘날에는 소주나 맥주에 비해 예스러운 술로 여겨지며, 대중적인 인기는 상대적으로 낮은 편이다. 한편 Kooksoondang은 더 넓은 시장을 겨냥해 전통 제조법을 일부 바꾸고 새 재료를 더한 제품을 1992년에 출시했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "백세주라는 이름은 몸에 이로운 약재의 효능 덕분에 사람이 100세까지 살 수 있다는 전설에서 비롯되었다. 이 술은 찹쌀을 바탕으로 한 발효주에 인삼과 열한 가지 다른 약재를 넣어 향을 내는 전통 방식의 술이다. Kooksoondang의 백세주는 더 넓은 시장에 판매하기 위해 전통 제조법을 일부 고치고 새 재료를 더한 형태로 만들어졌다. 이 제품은 1992년에 처음 출시되었으며, 출시 당시 Jibong'yuseol이라는 이름과 함께 선보였다. 변형된 제조법은 더 폭넓은 소비자를 대상으로 삼은 것이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "백세주는 인삼과 열한 가지 다른 약재를 넣어 만든다. 약재에는 감초, 오미자(Schisandra chinensis), 구기자(Chinese wolfberry), Astragalus propinquus 뿌리, 생강, 계피가 포함된다. 열거된 약재는 일부이며, 이 술은 이런 약재들로 향을 낸 것이 특징이다. 찹쌀을 기반으로 한 발효주이며, 전통 방식으로 빚어 맛이 부드럽다. 인삼의 향이 약간 느껴지는 술이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "오늘날 백세주는 소주나 맥주에 비해 예스러운 술로 여겨지며, 대중적인 인기는 상대적으로 낮은 편이다. 구이를 비롯해 한국 음식의 주된 맛을 이루는 매운 요리와 함께 마시는 경우가 많다. Kooksoondang은 더 넓은 시장을 겨냥해 전통 제조법을 일부 바꾼 제품을 내놓았으며, 이 제품은 1992년에 처음 출시되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인삼을 비롯한 약재를 넣은 찹쌀 발효주로, 100세까지 살 수 있다는 전설에서 이름을 얻은 한국의 전통 방식 술이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q871311",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q871311",
+    "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%84%B8%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Baekse-ju"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q871311",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Baekse-ju」 본문과 위키데이터 Q871311 팩트를 근거로 편집"
+ }
+}

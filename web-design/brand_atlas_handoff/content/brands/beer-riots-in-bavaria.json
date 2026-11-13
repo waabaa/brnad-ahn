@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1958948",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "beer-riots-in-bavaria",
+  "urlSlug": "beer-riots-in-bavaria",
+  "name": "Beer riots in Bavaria",
+  "nameKo": "",
+  "nameEn": "Beer riots in Bavaria",
+  "definition": "Beer riots in Bavaria는 1844년 5월 1일부터 5일까지 바이에른 왕국에서 맥주 값을 둘러싸고 일어난 민중 소요이다. 루트비히 1세의 조치에 도시 노동자들이 반발해 경찰과 충돌했다.",
+  "summary": "Beer riots in Bavaria는 1844년 5월 1일부터 5일까지 바이에른 왕국에서 맥주 값을 둘러싸고 일어난 민중 소요이다. 루트비히 1세의 조치에 도시 노동자들이 반발해 경찰과 충돌했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "맥주 가격 인상에 대한 반발이 왕의 양보로 이어졌고, 1848년 혁명으로 가는 흐름에 영향을 준 바이에른의 맥주 소요 사건이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 사건은 맥주 가격을 둘러싼 민중 소요이다. 19세기 중반 바이에른에서 맥주는 특히 노동자 계층이 값싸고 영양가 있는 음료로 마시던 일상의 필수품이었다. 곡물 가격 상승 등으로 양조업자들이 가격 인상을 요구했고, 루트비히 1세가 1844년 5월 이를 승인하자 뮌헨 시민들이 항의에 나섰다. 시위대는 맥주통을 부수고 선술집을 약탈했으며 경찰과 군대에 맞섰다. 바이에른 군대는 개입에 소극적이었다. 오늘날 이 사건은 경제적 불의에 맞선 민중 저항의 사례로 기억된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "당시 맥주 가격은 정부가 규제해 서민이 감당할 수 있는 수준으로 유지되고 있었다. 곡물 가격 상승 등 경제적 압박이 커지자 바이에른 양조업자들은 가격 인상 허가를 요청했다. 사치스러운 지출과 애첩 Lola Montez의 영향력 때문에 이미 인기가 낮던 루트비히 1세는 1844년 5월 인상을 승인했다. 새 가격은 마스(Mass, 약 1리터에 해당하는 바이에른의 전통 맥주 단위)당 6.5크로이처로, 기존 5크로이처에서 오른 것이었다. 1844년 5월 1일 노동자와 장인 중심의 뮌헨 군중이 모여 항의했고, 시위는 곧 폭동으로 번졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥주 가격 인상에 대한 반발이 왕의 양보로 이어졌고, 1848년 혁명으로 가는 흐름에 영향을 준 바이에른의 맥주 소요 사건이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1958948",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1958948",
+    "https://en.wikipedia.org/wiki/Beer_riots_in_Bavaria"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1958948",
+   "country": "바이에른 왕국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Beer riots in Bavaria」 본문과 위키데이터 Q1958948 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q4990",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ursus-breweries",
+  "urlSlug": "ursus-breweries",
+  "name": "Ursus Breweries",
+  "nameKo": "",
+  "nameEn": "Ursus Breweries",
+  "definition": "Ursus Breweries는 부쿠레슈티에 본사를 둔 루마니아의 맥주 제조 회사이다. Ursus, Timișoreana, Ciucaș 등의 브랜드를 보유한 Asahi Breweries Europe Ltd의 자회사이다.",
+  "summary": "Ursus Breweries는 부쿠레슈티에 본사를 둔 루마니아의 맥주 제조 회사이다. Ursus, Timișoreana, Ciucaș 등의 브랜드를 보유한 Asahi Breweries Europe Ltd의 자회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Ursus, Timișoreana 등과 Grolsch, Peroni Nastro Azzurro 등을 한 회사에서 함께 취급하는 루마니아의 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ursus Breweries는 루마니아에서 맥주를 생산하는 회사이며 부쿠레슈티에 기반을 두고 있다. Timișoara, Buzău, Brașov에 양조장 3곳을 소유하고, 클루지나포카에는 소규모 크래프트 양조장을 운영한다. 직원 수는 약 1,400명이다. Ursus, Timișoreana, Ciucaș, Redd's, Stejar, Azuga, Grolsch, Peroni Nastro Azzurro, Pilsner Urquell, St. Stefanus 등의 맥주 브랜드와 사이다 브랜드 Kingswood를 취급한다. 1996년부터 2017년 3월까지는 SABMiller가 소유했고, 2017년 3월부터는 Asahi Breweries Europe Ltd가 소유하고 있다. 위키데이터 기준 설립 연도는 1878년이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키데이터에 기록된 설립 연도는 1878년이다. 근거에 따르면 클루지의 양조는 1581년 Stephen Báthory가 클루지의 예수회에 수여한 Monastery Estate에서 시작되었으며, 정확한 시작 시점은 전해지지 않는다. 1800년대 초에는 이미 양조장이 있었고 임차인들이 운영했다. 1868년 Catholic Study Fund가 Monastery Brewery를 Elek Sigmond와 Domokos Biasini에게 임대했고, 1876년에는 Sigmond Brothers라는 회사가 등록되었다. 이후 Czell Frigyes and Sons가 양조장을 인수했고, 1899년 5월 23일 법원이 이 회사의 양조 부문을 등록하면서 클루지의 근대적 산업 맥주 생산이 시작되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "회사가 보유한 맥주 브랜드로는 Ursus, Timișoreana, Ciucaș, Redd's, Stejar, Azuga가 있다. 여기에 Grolsch, Peroni Nastro Azzurro, Pilsner Urquell, St. Stefanus도 브랜드 목록에 올라 있다. 사이다 브랜드로는 Kingswood가 있어 맥주 외 제품군도 갖추고 있다. 양조장 3곳은 각각 Timișoara, Buzău, Brașov에 있다. 클루지나포카에는 크래프트 맥주를 만드는 소형 양조장이 별도로 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 3월부터 Asahi Breweries Europe Ltd의 자회사이다. 그 이전에는 1996년부터 SABMiller가 소유했다. 부쿠레슈티에 본사를 두고 양조장 3곳과 크래프트 소형 양조장 1곳을 운영하며 직원은 약 1,400명이다. 맥주와 사이다 브랜드를 두루 보유한 루마니아의 맥주 생산 회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Ursus, Timișoreana 등과 Grolsch, Peroni Nastro Azzurro 등을 한 회사에서 함께 취급하는 루마니아의 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://ursus.ro/",
+  "entityLinks": {
+   "wikidata": "Q4990",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4990",
+    "https://en.wikipedia.org/wiki/Ursus_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4990",
+   "country": "루마니아",
+   "inception": "1878",
+   "headquarters": "클루지나포카",
+   "founders": [],
+   "parent": "SAB밀러",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Ursus Breweries」 본문과 위키데이터 Q4990 팩트를 근거로 편집"
+ }
+}

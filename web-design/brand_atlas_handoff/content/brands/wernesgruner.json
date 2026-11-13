@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q880640",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/wernesgruner-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "wernesgruner",
+  "urlSlug": "wernesgruner",
+  "name": "Wernesgrüner",
+  "nameKo": "",
+  "nameEn": "Wernesgrüner",
+  "definition": "Wernesgrüner는 독일 작센주 슈타인베르크-베르네스그륀에 있는 양조장이다. 1436년에 설립되었으며, 'Wernesgrüner Pils Legend'로 불리는 Pils 맥주로 알려져 있다.",
+  "summary": "Wernesgrüner는 독일 작센주 슈타인베르크-베르네스그륀에 있는 양조장이다. 1436년에 설립되었으며, 'Wernesgrüner Pils Legend'로 불리는 Pils 맥주로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1436년에 설립된 작센주의 양조장으로, 동독 시기에 쓴맛 특산품이어서 'Pils Legend'라 불린 Pils로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Wernesgrüner Brauerei GmbH는 독일 작센주 슈타인베르크-베르네스그륀에 있는 양조장이다. 양조장은 1436년에 설립되었으며, 긴 역사 동안 소유주가 여러 차례 바뀌었다. 이곳의 Pils는 동독(DDR) 공산주의 시기에 쓴맛이 나는 특산품이었기 때문에 'Pils Legend'라 불린다. 1910년에는 독일과 네덜란드 전역에 자리를 잡았고, 함부르크에서 미국으로 향하던 Hapag-Lloyd 선박에서도 제공되었다. 2002년에 Bitburger Braugruppe GmbH가 인수했고, 2021년에는 Carlsberg Group이 넘겨받았다. 미국, 영국, 호주에서는 Aldi (Süd)가 이 브랜드를 판매한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1436년 Schorer 형제가 맥주 양조권과 선술집을 열 권리를 얻으면서 시작되었다. 이들은 병입을 위한 부지를 마련한 뒤 곧 양조를 시작했고, 이 터는 훗날 'Wernesgrüner Pils Legend'의 토대가 되었다. 1762년에는 Günnel 가문이 Schorer 양조장을 사들였고, 1774년에는 Männel 가문이 병입 부지를 넘겨받았다. 19세기 말에 이 상표 아래에는 독립된 양조장이 다섯 곳 있었지만, 가문들은 여전히 서로 경쟁했다. 1910년에는 독일과 네덜란드 전역에 자리를 잡았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2002년에 Bitburger Braugruppe GmbH가 인수했고, 2021년에는 Carlsberg Group이 양조장을 넘겨받았다. 2018년 5월 기준 연간 생산량은 850,000 hl이었다. 미국, 영국, 호주에서는 Aldi (Süd)가 이 브랜드를 판매한다. 양조장의 소재지는 작센주 슈타인베르크-베르네스그륀이며 법인명은 Wernesgrüner Brauerei GmbH이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1436년에 설립된 작센주의 양조장으로, 동독 시기에 쓴맛 특산품이어서 'Pils Legend'라 불린 Pils로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.wernesgruener.de",
+  "entityLinks": {
+   "wikidata": "Q880640",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q880640",
+    "https://en.wikipedia.org/wiki/Wernesgr%C3%BCner"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q880640",
+   "country": "독일",
+   "inception": "1436",
+   "headquarters": "Wernesgrün",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Wernesgrüner」 본문과 위키데이터 Q880640 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

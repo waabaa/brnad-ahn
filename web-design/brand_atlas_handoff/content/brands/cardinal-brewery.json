@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q225900",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cardinal-brewery",
+  "urlSlug": "cardinal-brewery",
+  "name": "Cardinal Brewery",
+  "nameKo": "",
+  "nameEn": "Cardinal Brewery",
+  "definition": "Cardinal Brewery는 1788년 François Piller가 스위스 프리부르에 세운 양조장에서 비롯된 스위스 맥주 브랜드이다. 과거 양조장이었으며 현재는 브랜드로 이어진다.",
+  "summary": "Cardinal Brewery는 1788년 François Piller가 스위스 프리부르에 세운 양조장에서 비롯된 스위스 맥주 브랜드이다. 과거 양조장이었으며 현재는 브랜드로 이어진다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "프리부르에서 1788년에 시작해 Feldschlösschen과 Carlsberg Group을 거친 스위스 맥주 브랜드로, 대표 맥주는 Cardinal Blonde이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cardinal은 스위스의 맥주 브랜드이며, 과거에는 프리부르에 양조장을 두고 맥주를 만들던 곳이었다. 1991년 Feldschlösschen에 인수되었고, Feldschlösschen은 2000년 Carlsberg Group에 인수되었다. 프리부르 양조장은 2011년에 폐쇄되었으며, 지금은 아르가우주 라인펠덴의 Feldschlösschen 양조장에서 Cardinal 맥주를 생산한다. 대표 맥주는 옅은 색 라거인 Cardinal Blonde이며, 스위스 국내에서 집중적으로 홍보되고 있다. 1960년대부터는 Sinalco 레모네이드도 생산했다. 브랜드의 뿌리는 프리부르 하부 도시에서 여관 주인이 세운 양조장에 있으며, 그 역사는 1788년으로 거슬러 올라간다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cardinal의 기원은 1788년 여관 주인 François Piller가 세운 양조장이다. 프리부르 하부 도시에 있던 이 사업은 1877년 Paul-Alcide Blancpain이 인수했고, 그는 Gaspard Mermillod 주교가 추기경이 된 1890년에 Brasserie du Cardinal이라는 이름을 채택했다. 1904년 Pérolles 고원으로 옮겼고 1907년 주식회사가 되었다. 1970년에는 프리부르에 지주회사 Sibra가 만들어져 프리부르의 Cardinal과 Beauregard, Wädenswil의 Weber AG, La Chaux-de-Fonds의 La Comète, Rheinfelden의 Salmen 양조장을 묶었고, 1972년 Sibra는 산하 모든 양조장에 Cardinal 브랜드를 적용하는 마케팅 캠페인을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Cardinal은 현재 양조장이 아닌 맥주 브랜드로 남아 있으며, 2000년부터 Carlsberg Group이 소유한 Feldschlösschen의 라인펠덴 양조장에서 생산된다. 프리부르 양조장 인력은 1996년 220명에서 2010년 75명으로 줄었고, Carlsberg Group은 2010년 프리부르 공장 폐쇄와 2011년 생산 이전을 결정했다. 주정부와 프리부르시는 2012년 6월 1일 공장 부지를 인수해 기술·혁신 파크를 조성하기로 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프리부르에서 1788년에 시작해 Feldschlösschen과 Carlsberg Group을 거친 스위스 맥주 브랜드로, 대표 맥주는 Cardinal Blonde이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cardinal.ch/",
+  "entityLinks": {
+   "wikidata": "Q225900",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q225900",
+    "https://en.wikipedia.org/wiki/Cardinal_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q225900",
+   "country": "스위스",
+   "inception": "1788",
+   "headquarters": "프리부르",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Cardinal Brewery」 본문과 위키데이터 Q225900 팩트를 근거로 편집"
+ }
+}

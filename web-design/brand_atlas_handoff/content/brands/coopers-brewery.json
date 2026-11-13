@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2426375",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "coopers-brewery",
+  "urlSlug": "coopers-brewery",
+  "name": "Coopers Brewery",
+  "nameKo": "",
+  "nameEn": "Coopers Brewery",
+  "definition": "Coopers Brewery는 오스트레일리아 애들레이드 교외 Regency Park에 본사를 둔 양조 회사이다. 1862년 Thomas Cooper가 세웠고 Cooper 가문이 소유하고 있으며, 오스트레일리아 자본 소유 양조장 가운데 가장 크다.",
+  "summary": "Coopers Brewery는 오스트레일리아 애들레이드 교외 Regency Park에 본사를 둔 양조 회사이다. 1862년 Thomas Cooper가 세웠고 Cooper 가문이 소유하고 있으며, 오스트레일리아 자본 소유 양조장 가운데 가장 크다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Cooper 가문이 소유한 오스트레일리아 최대의 자국 자본 양조장이며, 홈브루잉용 캔 맥주 농축액 분야에서 세계 최대 생산자라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Coopers는 페일 에일과 스파클링 에일을 중심으로 다양한 맥주를 만드는 오스트레일리아의 양조 회사이다. 홈브루잉에 쓰이는 캔 맥주 농축액 분야에서는 세계 최대 생산자로 알려져 있다. 본사는 애들레이드 교외의 Regency Park에 있으며, 양조장은 2001년에 이곳으로 옮겨 왔다. 1862년 창업 이후 Cooper 가문이 계속 소유하고 있으며, 오스트레일리아 자본 소유 양조장 가운데 가장 큰 규모이다. 1962년에는 South Australian Brewing Company와 지분을 맞교환해 인수 위험을 줄였고, 1968년에는 첫 라거인 Gold Crown을 내놓았다. 1987년 창업 125주년에는 애들레이드 역사가 Alison Painter가 사사 『Jolly Good Ale and Old』를 집필했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Thomas Cooper가 1862년 애들레이드 교외 Norwood의 자택에서 양조장을 세웠고, 같은 해 5월 13일 첫 양조 기록을 남겼다. 1881년에는 더 큰 상업 시설이 있는 Leabrook으로 옮겼다. 1897년 Thomas가 사망하자 유언에 따라 아들 John, Christopher, Samuel, Stanley가 'Thomas Cooper & Sons'라는 이름으로 사업을 이어받았다. 동업자가 바뀔 때마다 계약서를 새로 써야 하는 불편이 커지자 1923년 유한책임 회사로 법인화했다. 1962년에는 South Australian Brewing Company와 지분을 교환하며 100년간 이어진 Cooper 가문 단독 소유가 끝났고, 2001년에는 Leabrook에서 Regency Park으로 이전했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Coopers는 다양한 맥주를 만드는 양조장이며, 대표 제품군은 페일 에일과 스파클링 에일이다. 홈브루잉에 쓰이는 캔 맥주 농축액도 생산하며, 이 분야에서는 세계 최대 생산자로 알려져 있다. 1960년대 초 에일 수요가 수년째 정체되자 라거 추가를 검토했으나 이사회 원로들의 반대가 컸다. 1967년 이사회가 새 설비 도입을 표결로 결정했고, 105년 동안 에일과 스타우트만 양조해 온 Coopers는 1968년 첫 라거 Gold Crown을 판매했다. 1960년대에도 제품군은 1880년대와 크게 다르지 않았으며, 소비자 수요와 양조 환경은 이미 변해 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Coopers는 현재도 Cooper 가문이 소유하고 있으며, 오스트레일리아 자본 소유 양조장 가운데 가장 크다. 본사는 애들레이드 교외 Regency Park에 있고, 2001년 Leabrook에서 이곳으로 이전했다. 홈브루잉용 캔 맥주 농축액 분야에서는 세계 최대 생산자로 꼽힌다. 1993년 SA Brewing은 Lion Nathan에 인수되었고, 이후 2년간의 협상이 이어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Cooper 가문이 소유한 오스트레일리아 최대의 자국 자본 양조장이며, 홈브루잉용 캔 맥주 농축액 분야에서 세계 최대 생산자라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.coopers.com.au/",
+  "entityLinks": {
+   "wikidata": "Q2426375",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2426375",
+    "https://en.wikipedia.org/wiki/Coopers_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2426375",
+   "country": "오스트레일리아",
+   "inception": "1862",
+   "headquarters": "Regency Park",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Coopers Brewery」 본문과 위키데이터 Q2426375 팩트를 근거로 편집"
+ }
+}

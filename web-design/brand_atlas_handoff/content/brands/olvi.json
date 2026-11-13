@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q4045735",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/olvi-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "olvi",
+  "urlSlug": "olvi",
+  "name": "Olvi",
+  "nameKo": "",
+  "nameEn": "Olvi",
+  "definition": "Olvi는 1878년 설립된 핀란드의 양조 및 청량음료 회사이다. 맥주, 사과주, 롱드링크, 하드셀처, 청량음료를 생산하며 본사는 이살미에 있고 Nasdaq Helsinki에 상장되어 있다.",
+  "summary": "Olvi는 1878년 설립된 핀란드의 양조 및 청량음료 회사이다. 맥주, 사과주, 롱드링크, 하드셀처, 청량음료를 생산하며 본사는 이살미에 있고 Nasdaq Helsinki에 상장되어 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드 자본이 소유한 업계 최대 음료 기업이자 에스토니아·리투아니아·라트비아 등 발트 지역에 자회사를 둔 북유럽 양조·음료 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "핀란드의 양조 및 청량음료 기업으로, 맥주·사과주·롱드링크·하드셀처·청량음료를 만들며 이살미에 본사를 둔다. 핀란드 음료 시장에서 18.7%의 점유율을 차지하며, 맥주·사과주·청량음료 생산자 가운데 세 번째로 크다. 이 분야에서 핀란드 자본이 소유한 기업 중에서는 가장 큰 규모의 사업체이다. 자회사 A. Le Coq는 에스토니아에서 두 번째로 큰 음료 회사이고, Volfas Engelman은 리투아니아에서 세 번째로 큰 음료 회사이다. 라트비아에는 Cēsu Alus를 두고 있다. 러시아의 우크라이나 침공 이후인 2022년 3월 5일 러시아 수출 중단과 벨라루스 철수를 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1878년 양조사 Williams Gideon Åberg와 그의 아내 Onni가 핀란드에서 회사를 세웠다. 이후 에스토니아, 리투아니아 등 핀란드 밖의 양조·음료 회사를 자회사로 두며 사업을 넓혔다. 에스토니아의 A. Le Coq, 리투아니아의 Volfas Engelman, 라트비아의 Cēsu Alus가 그 예이다. 2021년 5월에는 덴마크에서 네 번째로 큰 양조장 A/S Bryggeriet Vestfyen의 지배 지분을 인수했다. 2025년 12월에는 Brewery International Group의 과반 지분을 취득한다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주는 Olvi(Ykkönen, III, Export 등), Sandels, A. Le Coq, Cēsu alus, Volfas Engelman이 있고 Starobrno와 Warsteiner는 라이선스 제품이다. 사과주로는 Fizz와 Sherwood Premium Cider가 있다. 롱드링크는 Olvi-lonkerot와 GIN Long Drink이고, 하드셀처는 네 가지 맛이 있다. 청량음료로는 Kane's Soda Pop, Jaffa와 콜라 등 Olvi 청량음료, 에너지 드링크 TEHO, 광천수 Arctic Silence가 있다. Muteman Premium Ginger Ale과 Arctic Silence 등은 Nordic General Trading L.L.C를 통해 MENA 지역에서 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "핀란드 음료 시장 점유율은 18.7%이며 Nasdaq Helsinki(OLVAS)에 상장되어 있다. 2022년 3월 5일 러시아 수출 중단과 벨라루스 철수를 발표했다. 2025년 12월에는 Brewery International Group의 과반 지분을 인수한다고 발표해 스웨덴과 노르웨이에서의 입지를 강화하게 됐다. 이 거래로 두 나라의 식료품 소매, 외식업, 국영 주류 독점 시장에서 음료 수입·유통 사업이 추가된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드 자본이 소유한 업계 최대 음료 기업이자 에스토니아·리투아니아·라트비아 등 발트 지역에 자회사를 둔 북유럽 양조·음료 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.olvi.fi/",
+  "entityLinks": {
+   "wikidata": "Q4045735",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4045735",
+    "https://en.wikipedia.org/wiki/Olvi"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4045735",
+   "country": "핀란드",
+   "inception": "1878",
+   "headquarters": "이살미",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Olvi」 본문과 위키데이터 Q4045735 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

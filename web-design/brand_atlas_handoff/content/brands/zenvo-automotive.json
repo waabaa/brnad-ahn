@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q2557186",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "zenvo-automotive",
+  "urlSlug": "zenvo-automotive",
+  "name": "젠보 오토모티브",
+  "nameKo": "젠보 오토모티브",
+  "nameEn": "Zenvo Automotive",
+  "definition": "젠보 오토모티브(Zenvo Automotive)는 덴마크 Præstø에 본사를 둔 스포츠카 제조사이다. 2007년에 설립되었으며 ST1, TSR-S 등의 모델을 만들었다.",
+  "summary": "젠보 오토모티브(Zenvo Automotive)는 덴마크 Præstø에 본사를 둔 스포츠카 제조사이다. 2007년에 설립되었으며 ST1, TSR-S 등의 모델을 만들었다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "덴마크의 스포츠카 제조사로, ST1 15대와 TSR-GT 3대처럼 소량만 생산해 왔으며 V12 하이브리드 Aurora를 준비 중이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "젠보는 덴마크의 스포츠카 제조사이며 본사는 Præstø에 있다. 2007년 Jesper Jensen과 Troels Vollertsen이 공동 설립했고, 2009년까지 Nordic Sports Car A/S라는 이름으로 운영되었다. 2018년 6월 프라하에 기반을 둔 체코 투자자들에게 매각되었다. 모델로는 ST1, TS1, TSR, TSR-S, TSR-GT가 있으며, ST1은 15대만 제작·판매되었다. 2023년 8월 Aurora Agil과 Tur 모델이 공개되었고, Aurora는 2027년 출시가 예상되는 V12 하이브리드 스포츠카이다. 회사 이름 Zenvo는 Vollertsen의 성 일부를 조합한 것이며, 2026년에는 Jon Gunner가 CEO를 맡았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "젠보는 2007년 Jesper Jensen과 Troels Vollertsen이 공동 설립했다. 2009년까지는 Nordic Sports Car A/S라는 이름으로 운영되었으며, ST1 공개에 맞춰 Zenvo Automotive로 이름을 바꾸었다. Zenvo라는 이름은 Vollertsen의 성에서 마지막 세 글자와 처음 두 글자를 조합한 것이다. 첫 프로토타입은 2008년 12월에 완성되어 2009년에 생산이 시작되었고, ST1은 15대만 제작·판매되었다. 2018년 6월에는 프라하에 기반을 둔 체코 투자자들에게 매각되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 모델은 ST1(2009–2016), TS1(2016–2019), TS1 GT(2016–2019), TSR(2016–2025), TSR-S(2018–2025), TSR-GT(2022–2025)이다. TS1 GT는 일반 도로용 그랜드 투어러이고, TSR은 트랙 전용 스포츠카이며, TSR-S는 TSR의 도로 주행 가능 버전이다. TSR-GT는 TSR 시리즈의 마지막 모델로 3대가 제작되었다. 2027년 출시가 예상되는 Aurora는 V12 하이브리드 스포츠카이다. 2023년 8월에는 Aurora Agil과 Tur 모델이 Monterey Car Week 기간 The Quail에서 공개되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 6월 매각된 이후 체코 투자자들의 소유 아래 있다. 2019년 Jens Sverdrup이 어드바이저로 합류해 V12 Aurora 모델의 비전을 세웠고, 2021년에는 회장 겸 CCO를 맡았다. 2024년 7월 Jon Gunner가 CTO로 합류해 Aurora 양산을 위한 엔지니어링 팀을 이끌었으며, 2026년에는 CEO를 맡았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "덴마크의 스포츠카 제조사로, ST1 15대와 TSR-GT 3대처럼 소량만 생산해 왔으며 V12 하이브리드 Aurora를 준비 중이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://zenvoautomotive.com/",
+  "entityLinks": {
+   "wikidata": "Q2557186",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2557186",
+    "https://ko.wikipedia.org/wiki/%EC%A0%A0%EB%B3%B4_%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C",
+    "https://en.wikipedia.org/wiki/Zenvo_Automotive"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2557186",
+   "country": "덴마크",
+   "inception": "2007",
+   "headquarters": "Præstø",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Zenvo Automotive」 본문과 위키데이터 Q2557186 팩트를 근거로 편집"
+ }
+}

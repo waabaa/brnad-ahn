@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q21158111",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "china-resources-beer",
+  "urlSlug": "china-resources-beer",
+  "name": "China Resources Beer",
+  "nameKo": "",
+  "nameEn": "China Resources Beer",
+  "definition": "China Resources Beer는 중국 베이징에 본사를 둔 양조 회사이다. 공식 명칭은 China Resources Snow Breweries Ltd.이며 CR Snow로도 불린다.",
+  "summary": "China Resources Beer는 중국 베이징에 본사를 둔 양조 회사이다. 공식 명칭은 China Resources Snow Breweries Ltd.이며 CR Snow로도 불린다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "중국 최대 양조 회사이자 판매량 기준 세계 최대 판매 맥주 Snow를 보유한 브랜드이다. China Resources Enterprise가 전액 소유한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CR Snow는 중국 베이징에 본사를 둔 맥주 양조 회사이다. 원래 Shenyang Snow Beer Company라는 이름이었으며 China Resources Enterprise에 인수되었다. 한때 China Resources Enterprise와 영국 기반 다국적 기업 SABMiller의 합작 회사였으나 지금은 China Resources Enterprise가 전액 소유한다. 중국 최대 양조 회사로, 시장 점유율은 약 21퍼센트였고 2010년 중국에서 9.28 billion 리터의 맥주를 판매했다. 대표 브랜드 Snow는 판매량 기준 세계에서 가장 많이 팔리는 맥주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CR Snow는 1993년에 설립되었다. 처음에는 Shenyang Snow Beer Company라는 이름이었으며, 이후 China Resources Enterprise에 인수되었다. China Resources Enterprise와 영국 기반 다국적 기업 SABMiller의 합작 회사로 운영되었으나 지금은 China Resources Enterprise가 전액 소유한다. 2011년 7월에는 Heineken International로부터 Jiangsu Dafuhao Breweries의 지분 49퍼센트와 Shanghai Asia Pacific Brewery의 지분 100퍼센트를 870 million 위안(US$134.42 million)에 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CR Snow의 사업은 맥주 양조와 판매이며 주력 브랜드는 Snow이다. Snow는 2010년 약 16.5 billion 파인트가 판매되어 판매량 기준 세계에서 가장 많이 팔리는 맥주이다. 그 밖의 브랜드로 Blue Sword, Green Leaves, Huadan, Huadan Yate, Largo, Löwen, New Three Star, Shengquan, Shenyang, Singo, Sip, Tianjin, Yatai, Yingshi, Zero Clock이 있다. 이처럼 하나의 주력 브랜드와 다수의 보조 브랜드로 제품군을 구성한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 China Resources Enterprise가 CR Snow를 전액 소유하며, 본사는 중국 베이징에 있다. 2010년 기준 중국 최대 양조 회사로 시장 점유율은 약 21퍼센트였다. 같은 해 중국에서 9.28 billion 리터의 맥주를 판매했다. 지배구조 면에서는 SABMiller와의 합작 관계가 끝나고 China Resources Enterprise의 단독 소유가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국 최대 양조 회사이자 판매량 기준 세계 최대 판매 맥주 Snow를 보유한 브랜드이다. China Resources Enterprise가 전액 소유한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.crbeer.com.hk/home/investorrel/corporategove/",
+  "entityLinks": {
+   "wikidata": "Q21158111",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21158111",
+    "https://en.wikipedia.org/wiki/CR_Snow"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q21158111",
+   "country": null,
+   "inception": "1993",
+   "headquarters": "둥청구",
+   "founders": [],
+   "parent": "SAB밀러",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「CR Snow」 본문과 위키데이터 Q21158111 팩트를 근거로 편집"
+ }
+}

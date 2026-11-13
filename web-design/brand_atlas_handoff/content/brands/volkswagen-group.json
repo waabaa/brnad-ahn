@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q156578",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/volkswagen-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "volkswagen-group",
+  "urlSlug": "volkswagen-group",
+  "name": "폭스바겐 AG",
+  "nameKo": "폭스바겐 AG",
+  "nameEn": "Volkswagen Group",
+  "definition": "폭스바겐 AG(Volkswagen Group)는 독일 볼프스부르크에 본사를 둔 다국적 자동차 제조 복합기업이다. 승용차, 상용차, 오토바이 브랜드를 거느리며 금융 서비스도 제공한다.",
+  "summary": "폭스바겐 AG(Volkswagen Group)는 독일 볼프스부르크에 본사를 둔 다국적 자동차 제조 복합기업이다. 승용차, 상용차, 오토바이 브랜드를 거느리며 금융 서비스도 제공한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.65,
+  "image": "",
+  "logo": "",
+  "insight": "여러 승용차·트럭·오토바이 브랜드를 한 그룹으로 거느린 유럽 최대 점유율의 자동차 그룹이다. Porsche SE와 Porsche-Piëch 가문이 지배하고 니더작센주가 의결권 20%를 가진 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "폭스바겐 AG는 독일 니더작센주 볼프스부르크에 본사를 둔 자동차 제조 기업으로, Volkswagen Group이라는 이름으로 사업을 한다. 2000년대 후반 이후 Porsche SE가 소유한 상장 가족 기업이며, Porsche SE는 오스트리아·독일계 Porsche-Piëch 가문이 절반을 소유하고 완전히 통제한다. 자동차 외에 금융, 리스, 차량군 관리 서비스도 제공한다. 2024년 판매량 기준 세계 2위 자동차 제조사였고, 같은 해 매출 기준으로는 세계 최대 자동차 제조사이자 유럽연합 최대 기업이었다. 유럽에서 20년 넘게 가장 높은 시장 점유율을 유지해 왔으며, 2024년 포천 글로벌 500 순위에서 11위에 올랐다. 약 150개국에서 사업을 하며 27개국에 생산 시설 100곳을 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "폭스바겐은 1937년 5월 28일 독일노동전선이 베를린에서 Gesellschaft zur Vorbereitung des Deutschen Volkswagens mbH(Gezuvor)라는 이름으로 세웠고, 같은 날 법인으로 등록되었다. 이 회사는 훗날 비틀로 불리게 되는 자동차를 만들기 위한 것이었으며, 차량은 Ferdinand Porsche의 컨설팅 회사가 설계했다. 1938년 9월 16일 회사명은 Volkswagenwerk GmbH로 바뀌었다. 1950년대와 1960년대에 생산이 빠르게 늘었고, 1965년 Auto Union을 인수했다. 1970년대에는 Passat, Polo, Golf 등 전륜구동 차량을 내놓았고, 이 가운데 Golf가 최다 판매 모델이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "승용차 브랜드로 Audi, Bentley, Cupra, Jetta, Lamborghini, Porsche, Scout, SEAT, Škoda, Volkswagen을 두고 있다. 오토바이는 Ducati 브랜드로, 경상용차는 Volkswagen Commercial Vehicles 브랜드로 판매한다. 대형 상용차는 상장 자회사 Traton의 International, MAN, Scania, Volkswagen Truck & Bus 브랜드가 맡는다. 소프트웨어와 기술 스택 제품은 CARIAD 이름으로 판매한다. 사업은 자동차 부문과 금융 서비스 부문으로 나뉜다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "프랑크푸르트 증권거래소에 주 상장되어 있으며 Euro Stoxx 50 구성 종목이다. 룩셈부르크 증권거래소와 SIX Swiss Exchange에도 부차 상장되어 있다. 니더작센주 정부가 지분 12.7%를 보유하며 법에 따라 의결권 20%를 가진다. 중국은 2010년대에 가장 큰 시장으로 성장했으나 2020년대 들어 판매가 크게 감소했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여러 승용차·트럭·오토바이 브랜드를 한 그룹으로 거느린 유럽 최대 점유율의 자동차 그룹이다. Porsche SE와 Porsche-Piëch 가문이 지배하고 니더작센주가 의결권 20%를 가진 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.volkswagenag.com/",
+  "entityLinks": {
+   "wikidata": "Q156578",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q156578",
+    "https://ko.wikipedia.org/wiki/%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Volkswagen_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q156578",
+   "country": "독일",
+   "inception": "1937",
+   "headquarters": "볼프스부르크",
+   "founders": [
+    "독일노동전선"
+   ],
+   "parent": "Porsche Automobil Holding SE",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Volkswagen Group」 본문과 위키데이터 Q156578 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q773164",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "alken-maes",
+  "urlSlug": "alken-maes",
+  "name": "Alken-Maes",
+  "nameKo": "",
+  "nameEn": "Alken-Maes",
+  "definition": "Alken-Maes는 1988년 Maes와 Cristal-Alken, 두 소규모 양조장이 합병해 만들어진 벨기에의 맥주 양조회사이다. 필스너를 비롯해 수도원 맥주, 람빅 등 여러 종류의 맥주를 생산한다.",
+  "summary": "Alken-Maes는 1988년 Maes와 Cristal-Alken, 두 소규모 양조장이 합병해 만들어진 벨기에의 맥주 양조회사이다. 필스너를 비롯해 수도원 맥주, 람빅 등 여러 종류의 맥주를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "필스너 전문 양조장 둘의 합병에서 출발해 Grimbergen, Mort Subite 등 수도원 맥주와 람빅까지 인수로 포괄하게 된 벨기에 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조회사는 벨기에에서 필스너, 수도원 맥주, 밀맥주, 람빅 등 다양한 맥주를 생산한다. 1988년 Kontich-Waarloos의 Maes와 Alken의 Cristal-Alken이 합병하면서 만들어졌다. 두 양조장은 모두 필스너를 전문으로 했으며, 각각 Maes pils와 Alken Cristal pils를 생산했다. 합병 이후에도 다른 양조장을 인수해 취급하는 맥주의 폭을 넓혔다. Maes pils, Cristal, Affligem, Grimbergen, Mort Subite 같은 상표가 이 회사의 제품군에 속한다. 2000년 Scottish & Newcastle에 인수되었고, 현재는 벨기에 시장에서 2위에 올라 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1988년 Kontich-Waarloos의 Maes와 Alken의 Cristal-Alken이 합병하면서 만들어졌다. 두 양조장은 모두 필스너 전문이었으며, Maes는 1978년 Jumet의 Union 양조장을 사들여 Grimbergen 등의 맥주를 생산하게 되었다. 합병 후 1989년에는 De Keersmaeker 양조장 지분 50%를 인수했는데, 이곳은 Mort Subite 같은 자연발효 맥주를 전문으로 했다. 2000년에는 Ciney와 Brugs Witbier, 그리고 De Keersmaeker의 나머지 50%를 인수했고, 2002년에는 Kortemark의 Louwaege 양조장을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 필스너, 갈색 맥주, 블론드 맥주, 수도원 맥주, 밀맥주, 람빅 등으로 나뉜다. 필스너에는 Maes pils, Cristal, Kronenbourg 1664, Foster's가 있으며 Cara Pils는 과거에 포함되었다. 갈색 맥주로는 Zulte, Judas, Brown Ciney, Special Ciney가, 블론드 맥주로는 Blond Ciney와 Hapkin이 있다. 수도원 맥주로는 Affligem과 Grimbergen이 있고, 밀맥주로는 Brugs가 있다. 자연발효 람빅으로는 Mort Subite와 Louwaeges Kriek가 있으며, 저알코올 제품으로는 Maes Nature와 무알코올 Tourtel이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2000년 Scottish & Newcastle에 인수되었고, 이 모기업은 2007년 Carlsberg/Heineken 컨소시엄에 인수되었다. 현재 벨기에 시장에서 2위의 위치에 있다. 합병 이후 이어진 양조장 인수를 통해 필스너부터 람빅, 수도원 맥주까지 아우르는 제품군을 갖추었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "필스너 전문 양조장 둘의 합병에서 출발해 Grimbergen, Mort Subite 등 수도원 맥주와 람빅까지 인수로 포괄하게 된 벨기에 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.alken-maes.be",
+  "entityLinks": {
+   "wikidata": "Q773164",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q773164",
+    "https://en.wikipedia.org/wiki/Alken-Maes"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q773164",
+   "country": "벨기에",
+   "inception": "1921",
+   "headquarters": "메헬렌",
+   "founders": [],
+   "parent": "Affligem Brewery",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Alken-Maes」 본문과 위키데이터 Q773164 팩트를 근거로 편집"
+ }
+}

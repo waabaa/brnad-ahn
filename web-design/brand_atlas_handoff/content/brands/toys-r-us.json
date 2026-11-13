@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q696334",
+ "demand": {
+  "why": "국외",
+  "naver": 0.157,
+  "koViews": 413,
+  "enViews": 101633,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/toys-r-us-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "toys-r-us",
+  "urlSlug": "toys-r-us",
+  "name": "토이저러스",
+  "nameKo": "토이저러스",
+  "nameEn": "Toys \"R\" Us",
+  "definition": "토이저러스(Toys \"R\" Us)는 미국에서 1948년에 설립된 세계적인 장난감 체인점이다. 현재 Tru Kids 주식회사가 소유하며, 한국에서는 롯데쇼핑이 라이선스 계약으로 운영한다.",
+  "summary": "토이저러스(Toys \"R\" Us)는 미국에서 1948년에 설립된 세계적인 장난감 체인점이다. 현재 Tru Kids 주식회사가 소유하며, 한국에서는 롯데쇼핑이 라이선스 계약으로 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1948년 Charles Lazarus가 시작한, 거꾸로 쓴 'R' 표기가 특징인 장난감 체인점이며 한국에서는 롯데마트에서 라이선스로 운영된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "토이저러스는 장난감을 판매하는 세계적인 체인점으로, 미국의 Tru Kids 주식회사가 소유한다. 1948년 Charles Lazarus가 첫 번째 매장을 열면서 시작되었다. 이름은 장난감을 뜻하는 'Toy'와 창업자의 이름 'La Zarus'를 합해 지은 것이며, 아이들의 시선을 끌기 위해 'R'을 거꾸로 쓴 표기로 바꾸었다. 토이저러스는 2017년 9월 18일 파산 보호를 신청했다. 2018년 8월 기준 전 세계 매장 수는 807개였다. 대한민국에서는 2007년 12월 라이선스 계약을 통해 롯데쇼핑이 한국 토이저러스를 설립했고, 전국의 롯데마트에서 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1948년 Charles Lazarus에 의해 첫 번째 토이저러스 매장이 생겼다. Charles Lazarus는 10년 후 장난감을 뜻하는 'Toy'와 자신의 이름 'La Zarus'를 합해 두 번째 가게 'ToysRus'를 만들었다. 그는 가게의 주요 소비층인 아이들의 시선을 끌기 위해 가게 이름의 알파벳 'R'을 거꾸로 하여 표기를 바꾸었다. 2018년 8월 기준 전 세계 매장은 807개였다. 2007년 12월에는 롯데쇼핑이 라이선스 계약을 통해 한국 토이저러스를 설립했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 토이저러스는 미국의 Tru Kids 주식회사가 소유한 세계적인 장난감 체인점이다. 2017년 9월 18일 파산 보호를 신청했고, 2018년 8월 기준 전 세계 매장은 807개였다. 대한민국에서는 2007년 12월 라이선스 계약을 바탕으로 롯데쇼핑이 설립한 한국 토이저러스가 전국의 롯데마트에서 운영 중이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1948년 Charles Lazarus가 시작한, 거꾸로 쓴 'R' 표기가 특징인 장난감 체인점이며 한국에서는 롯데마트에서 라이선스로 운영된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.toysrus.com/",
+  "entityLinks": {
+   "wikidata": "Q696334",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q696334",
+    "https://ko.wikipedia.org/wiki/%ED%86%A0%EC%9D%B4%EC%A0%80%EB%9F%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Toys_%22R%22_Us"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q696334",
+   "country": "미국",
+   "inception": "1948",
+   "headquarters": "웨인",
+   "founders": [
+    "Charles Lazarus"
+   ],
+   "parent": "콜버그 크래비스 로버츠",
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「토이저러스」 요약과 위키데이터 Q696334 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

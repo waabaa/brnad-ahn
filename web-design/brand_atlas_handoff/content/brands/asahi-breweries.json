@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q720479",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/asahi-breweries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "asahi-breweries",
+  "urlSlug": "asahi-breweries",
+  "name": "아사히 맥주",
+  "nameKo": "아사히 맥주",
+  "nameEn": "Asahi Breweries",
+  "definition": "아사히 맥주(Asahi Breweries)는 도쿄 스미다에 본사를 둔 일본의 음료 지주회사 Asahi Group Holdings의 맥주 사업 뿌리가 되는 브랜드이다. 일본 4대 맥주 업체 가운데 점유율이 가장 높다.",
+  "summary": "아사히 맥주(Asahi Breweries)는 도쿄 스미다에 본사를 둔 일본의 음료 지주회사 Asahi Group Holdings의 맥주 사업 뿌리가 되는 브랜드이다. 일본 4대 맥주 업체 가운데 점유율이 가장 높다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "일본 맥주 시장 점유율 1위이자, 호주와 유럽 등 해외 인수를 통해 사업 영역을 넓힌 일본 음료 지주회사 계열의 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Asahi Group Holdings는 도쿄 스미다에 본사를 둔 일본의 음료 지주회사이다. 2024년 그룹 매출은 JPY 2.9 trillion이었다. 사업은 주류 40.5%, 해외 32%, 청량음료 17.2%, 식품 5.4%, 기타 4.9%로 나뉜다. 일본 맥주 시장에서 점유율 37%로 4대 맥주 업체 중 1위이며, Kirin Beer가 34%, Suntory가 16%로 뒤를 잇는다. 성숙한 일본 내수 시장에 대응해 서유럽과 중동부 유럽의 맥주 사업을 인수하며 지역과 사업 영역을 넓혔고, 그 결과 체코 44%, 폴란드 32%, 루마니아 36%, 이탈리아 18% 등 유럽 여러 나라에서 높은 맥주 시장 점유율을 확보했다. 호주 맥주 시장 점유율도 48.5%에 이른다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신인 朝日麦酒株式会社는 1889년 설립되었다. 1893년 大阪麦酒株式会社(Ōsaka Breweries)로 재편되었고, 1906년 Nippon Breweries, Sapporo Breweries와 합병해 大日本麦酒株式会社(Dai-Nippon Breweries)가 되었다. 제2차 세계대전 뒤 연합군 최고사령관이 시행한 과도경제력집중배제법에 따라 회사가 분할되어 朝日麦酒株式会社가 Nippon Breweries에서 분리되었으며, Nippon Breweries는 현재의 Sapporo Breweries이다. 1989년 가타카나 표기의 アサヒビール株式会社로 이름을 바꿨다. 2011년 Asahi Group Holdings라는 지주회사로 사명을 바꾸고 Asahi Breweries Ltd를 자회사로 설립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 주류, 해외, 청량음료, 식품, 기타로 구성되며 주류 사업이 40.5%로 가장 크다. 2009년 호주 음료 부문 Schweppes Australia를 인수했고, 이 회사는 현재 Asahi Beverages로 불린다. 2011년에는 뉴질랜드의 Independent Liquor를 인수했으며, 이 회사는 Vodka Cruiser 등 주류를 만든다. 2016년 인수한 유럽 사업에는 Grolsch Brewery, Peroni Brewery, Meantime Brewery와 함께 Pilsner Urquell, Velkopopovický Kozel, Topvar, Tyskie, Lech, Dreher, Ursus 같은 맥주 브랜드가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 5월 호주 외국인투자심의위원회는 Carlton & United Breweries에 대한 Asahi의 인수 입찰을 승인했고, 이로써 호주 맥주 시장 점유율은 약 48.5%가 된다. 2024년 1월에는 국제 부문 Asahi Europe & International이 위스콘신주 Waunakee의 위탁 음료 생산 시설 Octopi Brewing을 인수했다. 2025년 9월에는 랜섬웨어 공격으로 그룹에 시스템 장애가 발생했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 맥주 시장 점유율 1위이자, 호주와 유럽 등 해외 인수를 통해 사업 영역을 넓힌 일본 음료 지주회사 계열의 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.asahibeer.com/",
+  "entityLinks": {
+   "wikidata": "Q720479",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q720479",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%AC%ED%9E%88_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Asahi_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q720479",
+   "country": "일본",
+   "inception": "1889",
+   "headquarters": "River Pier Azumabashi",
+   "founders": [],
+   "parent": "Asahi Group Japan",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Asahi Breweries」 본문과 위키데이터 Q720479 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

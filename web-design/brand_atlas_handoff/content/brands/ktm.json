@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q215657",
+ "demand": {
+  "why": "국외",
+  "naver": 0.053,
+  "koViews": 126,
+  "enViews": 57241,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/ktm-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ktm",
+  "urlSlug": "ktm",
+  "name": "KTM",
+  "nameKo": "KTM",
+  "nameEn": "KTM",
+  "definition": "KTM(KTM-Sportmotorcycle AG)은 1934년 오스트리아 Mattighofen에서 창업한 스포츠 모터사이클 제조 업체이다. 오프로드 레이스에 강점을 둔 브랜드로, 슬로건은 'READY TO RACE'이다.",
+  "summary": "KTM(KTM-Sportmotorcycle AG)은 1934년 오스트리아 Mattighofen에서 창업한 스포츠 모터사이클 제조 업체이다. 오프로드 레이스에 강점을 둔 브랜드로, 슬로건은 'READY TO RACE'이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "엔듀로와 모터크로스 우승 기록, 'READY TO RACE' 슬로건, 오렌지색 열정을 앞세운 오스트리아의 오프로드 모터사이클 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "KTM은 Mattighofen에 본사를 둔 오스트리아의 스포츠 모터사이클 제조 업체이다. 모든 모델을 세계에서 가장 힘든 레이싱 스포츠를 위해 개발한다고 내세우며, 슬로건은 'READY TO RACE'이다. 브랜드 철학으로 Purity, Performance, Adventure, Extreme을 제시한다. 1990년 이후 엔듀로 레이스에서 가장 많은 우승을 차지한 제조사로 소개되며, 모터크로스와 엔듀로 부문에서 세계 챔피언십 우승 기록을 쌓아 왔다. 2011년 다카르 랠리에서는 Marc Comma가 우승했고 최종 엔트리 11대 중 9대가 KTM이었다. 온로드와 오프로드, 프로와 아마추어 라이더 모두가 최고의 퍼포먼스를 경험하도록 하는 것을 지향한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "KTM은 1934년 Hans Trunkenpolz가 Mattighofen에서 창업했다. 이름은 처음에 Kraftfahrzeug, Trunkenpolz, Mattighofen의 약자였다. 1953년 Trunkenpolz가 경영 전문가 Ernst Kronreif와 손을 잡으면서 K가 Kronreif를 뜻하게 되었고, Kronreif & Trunkenpolz Mattighofen으로 상표등록을 했다. 1980년대 말 회사가 위기에 놓이자 경영 혁신으로 주력 사업을 오프로드 모터사이클로 바꾸었다. 1991년과 1992년에 KTM Motorfahzeugbau AG가 파산하면서 라디에이터, 모터사이클, 자전거, 수리 장비 부문이 분리되었고, 모터사이클 부문은 KTM 스포츠 모터사이클 GmbH로 설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "KTM은 오프로드 모터사이클을 주력으로 하며 모터크로스와 엔듀로 모델을 만든다. 1970년에는 독자적으로 만든 엔진으로 250cc 모터크로스 모터사이클을 생산했다. 로드 모델로는 990 Super Duke, 950 Supermoto, 1198 RC8 슈퍼바이크가 있고, 투어링 엔듀로 950 Adventure와 990 Adventure Dakar도 선보였다. DUKE 시리즈의 엔트리 모델은 125 Duke이다. 1984년에는 라디에이터를 개발해 Suzuki를 포함한 다른 제조사에 납품했고, 1995년에는 서스펜션 제조사 White Power를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "엔듀로와 모터크로스 우승 기록, 'READY TO RACE' 슬로건, 오렌지색 열정을 앞세운 오스트리아의 오프로드 모터사이클 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ktm.com/",
+  "entityLinks": {
+   "wikidata": "Q215657",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q215657",
+    "https://ko.wikipedia.org/wiki/KTM",
+    "https://en.wikipedia.org/wiki/KTM"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q215657",
+   "country": "오스트리아",
+   "inception": "1934",
+   "headquarters": "Mattighofen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「KTM」 요약과 위키데이터 Q215657 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q18169",
+ "demand": {
+  "why": "국내",
+  "naver": 0.156,
+  "koViews": 4431,
+  "enViews": 7644,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/korea-railroad-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "korea-railroad-corporation",
+  "urlSlug": "korea-railroad-corporation",
+  "name": "한국철도공사",
+  "nameKo": "한국철도공사",
+  "nameEn": "Korea Railroad Corporation",
+  "definition": "한국철도공사(Korea Railroad Corporation)는 대한민국의 국유 철도 영업과 관련 사무를 담당하는 국토교통부 산하의 공기업이다. 한국철도공사법에 의거하여 설립되었으며 본사는 대전광역시에 있다.",
+  "summary": "한국철도공사(Korea Railroad Corporation)는 대한민국의 국유 철도 영업과 관련 사무를 담당하는 국토교통부 산하의 공기업이다. 한국철도공사법에 의거하여 설립되었으며 본사는 대전광역시에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "국유 철도 영업을 담당하는 대한민국의 공기업으로, KTX를 비롯한 여객열차와 광역철도, 물류, 관광열차를 함께 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "한국철도공사는 대한민국의 국유 철도 영업과 관련 사무를 담당하는 국토교통부 산하의 공기업이다. 약칭은 한국철도, 철도공사, 코레일(KORAIL)이다. 여객열차, 관광열차, 수도권 전철을 비롯한 광역철도, 물류, 자산 개발, 국내외 철도 시설 유지·보수를 사업 분야로 삼는다. 2024년 기준 역은 690개이며, 2022년 12월 31일 기준 영업거리는 4,131.2km(100개 노선)이다. 철도수송분담율은 여객 12.8%(인 Km 기준, 2020년), 화물 4.4%(톤 Km 기준, 2018년)이다. 코레일로지스, 코레일유통, 코레일관광개발, 코레일네트웍스, 코레일테크를 계열사로 둔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2003년 7월 29일 철도산업발전기본법이 제정되었고, 같은 해 12월 31일 한국철도공사법이 제정되었다. 이에 따라 2005년 1월 1일 한국철도공사가 설립되었다. 2005년 8월 1일 KTX특송서비스를 본격 시행했고, 2006년 7월 1일 기능통합형 17개 지사체제와 3개 철도차량관리단으로 조직을 개편했다. 2006년 12월 22일에는 5개 지역관제실을 통합한 철도교통관제센터를 개통했다. 2009년 3월 26일에는 간선형 전기동차(EMU, 150km/h)를 최초로 도입했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "여객열차로 KTX, ITX-마음, ITX-새마을, ITX-청춘, 새마을호, 무궁화호, 누리로를 운행한다. 고속열차로는 KTX-산천, KTX-이음, KTX-청룡도 보유한다. 관광열차로는 정선아리랑열차, 백두대간협곡열차, 남도해양열차, 동해산타열차, 서해금빛열차, 레일크루즈 해랑을 운행한다. 광역철도는 수도권 전철 1호선, 3호선, 4호선, 경의·중앙선, 경춘선, 수인·분당선, 경강선, 서해선과 부산의 동해선 광역전철, 대구의 대경선을 운행한다. 광명역과 인천국제공항을 잇는 셔틀버스 6770번도 직영으로 운행한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 3분기 기준 정원은 32,380명이며, 본사는 7본부 10실 7단 62처, 소속기관(현업)은 8지역본부 및 4지역관리단 20부속기관으로 구성된다. 2024년 5월 1일 KTX-청룡이 개통했고, 연혁에는 2026년 9월 1일 SRT 통합이 기재되어 있다. 대전 코레일 FC, 한국철도 유도단, 한국철도 사이클단의 스포츠단도 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국유 철도 영업을 담당하는 대한민국의 공기업으로, KTX를 비롯한 여객열차와 광역철도, 물류, 관광열차를 함께 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://info.korail.com/mbs/www/index.jsp",
+  "entityLinks": {
+   "wikidata": "Q18169",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18169",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%B2%A0%EB%8F%84%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Korail"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18169",
+   "country": "대한민국",
+   "inception": "1963",
+   "headquarters": "대전광역시",
+   "founders": [],
+   "parent": "대한민국 국토교통부",
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「한국철도공사」 요약과 위키데이터 Q18169 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

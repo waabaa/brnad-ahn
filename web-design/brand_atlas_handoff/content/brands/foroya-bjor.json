@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q257229",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "foroya-bjor",
+  "urlSlug": "foroya-bjor",
+  "name": "Föroya Bjór",
+  "nameKo": "",
+  "nameEn": "Föroya Bjór",
+  "definition": "Föroya Bjór는 페로 제도의 클락스비크에 본사를 둔 양조 회사이다. 1888년에 설립되었으며, 맥주 외에 청량음료도 생산하는 페로 제도의 오래된 기업 가운데 하나이다.",
+  "summary": "Föroya Bjór는 페로 제도의 클락스비크에 본사를 둔 양조 회사이다. 1888년에 설립되었으며, 맥주 외에 청량음료도 생산하는 페로 제도의 오래된 기업 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "페로 제도 클락스비크에서 1888년에 시작해 가족이 이어 온 양조 회사로, 이름이 '페로의 맥주'를 뜻하며 숫양을 상징으로 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Föroya Bjór는 페로 제도 클락스비크를 기반으로 하는 양조 회사이다. 맥주 외에 청량음료도 생산하며, 일부 청량음료와 맥주 상표는 Restorffs Bryggjarí에서 넘겨받은 것이다. 회사 이름은 '페로의 맥주'를 뜻하며, 설립 때부터 숫양을 상징으로 사용해 왔다. 1888년에 클락스비크에서 문을 열었으며, 페로 제도에서 가장 오래된 기업 가운데 하나로 꼽힌다. 2009년에는 아이슬란드의 Reykjanesbær에 사무소를 열고 제품 수출을 시작했다. 현재는 Einar Waag가 단독 소유주이며, 그의 딸 Annika Waag가 회사 매니저이자 브루마스터로 일하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1883년 Símun F. Hansen은 양조와 제빵을 배우러 덴마크로 갔고, 1888년 페로 제도로 돌아와 클락스비크에 자신의 양조장을 세웠다. 이 양조장은 페로 제도에서 두 번째로 세워진 양조장이며, 첫 번째는 Restorffs Bryggjarí였다. 설립자는 Símun í Vági(1863–1935)로도 기록되어 있으며, 제빵, 양조, 해운, 농업 사업을 함께 시작했다. 그의 아들 Einar Fróvin Waag(1894–1989)는 1950년대와 1960년대에 양조장을 확장했고 한동안 Lagting 의원을 지냈다. 이후 Einar Waag와 Heini Waag가 지분을 절반씩 소유하다가 2008년 12월 Heini Waag가 자신의 지분을 Einar Waag에게 팔았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주로는 4.6% 필스너인 Veðrur, 5.8% 과일 향의 Gold Export Lager, 2001년 선보인 흑맥아 라거 Black Sheep, 2008년 출시된 Green Islands Stout 등이 있다. 2008년에는 Sct. Brigid Ale, Abbey Ale, Boheme, Blond, IPA로 이루어진 Sct. Brigid 시리즈도 나왔다. Restorffs Bryggjarí에서 넘겨받은 Restorffs Gull은 그 양조장에서 가장 많이 팔린 맥주였다. 청량음료로는 Jolly Cola, Ginger Ale, Tonic Water, Sport Water 등이 있다. 2016년에는 Einar's Akvavit이 처음 시장에 나왔고, 같은 해 10월 위스키가 뒤를 이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Einar Waag가 Föroya Bjór의 단독 소유주이며, Annika Waag가 회사 매니저이자 브루마스터를 맡고 있다. 2009년 아이슬란드의 Reykjanesbær에 사무소를 열어 수출을 시작했고, 2020년 6월 18일에는 Velbastaður에 있는 Okkara Brewery를 인수했다. 가족 경영을 이어 가는 페로 제도의 오래된 기업으로 남아 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "페로 제도 클락스비크에서 1888년에 시작해 가족이 이어 온 양조 회사로, 이름이 '페로의 맥주'를 뜻하며 숫양을 상징으로 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.foroyabjor.dk/",
+  "entityLinks": {
+   "wikidata": "Q257229",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q257229",
+    "https://en.wikipedia.org/wiki/F%C3%B6roya_Bj%C3%B3r"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q257229",
+   "country": "페로 제도",
+   "inception": "1888",
+   "headquarters": "클락스비크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Föroya Bjór」 본문과 위키데이터 Q257229 팩트를 근거로 편집"
+ }
+}

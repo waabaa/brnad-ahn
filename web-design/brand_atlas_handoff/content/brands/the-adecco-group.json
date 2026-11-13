@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q353494",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/the-adecco-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "the-adecco-group",
+  "urlSlug": "the-adecco-group",
+  "name": "아데코 그룹",
+  "nameKo": "아데코 그룹",
+  "nameEn": "The Adecco Group",
+  "definition": "아데코 그룹(The Adecco Group)은 스위스 취리히에 본사를 둔 인력 서비스 기업이다. 임시 인력 파견, 정규직 알선, 전직 지원 등을 제공하는 세계 2위 규모의 인적자원 서비스 업체이다.",
+  "summary": "아데코 그룹(The Adecco Group)은 스위스 취리히에 본사를 둔 인력 서비스 기업이다. 임시 인력 파견, 정규직 알선, 전직 지원 등을 제공하는 세계 2위 규모의 인적자원 서비스 업체이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스위스 Adia Interim과 프랑스 Ecco의 합병으로 탄생한 세계 2위 인력 서비스 기업으로, Adecco, Akkodis, LHH 세 사업부 체제를 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스위스와 프랑스에 뿌리를 둔 기업으로 취리히에 본사가 있다. 세계에서 두 번째로 큰 인적자원 서비스 및 임시 인력 공급 업체이다. 포천 글로벌 500 기업이며 SIX 스위스 거래소에 상장되어 있다. 사무, 산업, 기술, 금융, 법률 분야에서 임시 인력 파견, 정규직 알선, 전직 지원, 인재 개발을 제공하고, 업무 프로세스 아웃소싱과 컨설팅도 한다. 글로벌 사업부는 Adecco, Akkodis, LHH 세 곳이다. 운영 브랜드에는 Adecco, DIS AG, General Assembly, Innovation Foundation, LHH, Akkodis, Adia, Pontoon이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1997년 1월 1일, 1964년 리옹에서 Interecco라는 이름으로 설립된 프랑스 기업 Ecco와 1957년 로잔에서 Adia라는 이름으로 설립된 스위스 기업 Adia Interim이 합병하며 출범했다. 같은 해 9월 미국 매사추세츠주 케임브리지의 임시 인력 업체 TAD Resources International을 인수했다. 1999년 말 Olsten Staffing을 인수해 미국 최대 채용 기업이 되었다. 2009년에는 영국의 Spring Group을, 2010년에는 플로리다주 잭슨빌의 MPS Group을 인수했다. 2018년에는 Vettery와 General Assembly를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제공 서비스는 임시 인력 파견, 정규직 알선, 전직 지원, 인재 개발이며 사무, 산업, 기술, 금융, 법률 분야를 다룬다. 업무 프로세스 아웃소싱과 컨설팅도 사업에 포함한다. 글로벌 사업부는 Adecco, Akkodis, LHH 세 곳이다. 운영 브랜드로는 Adecco, DIS AG, General Assembly, Innovation Foundation, LHH, Akkodis, Adia, Pontoon이 있다. 2018년에는 미국 교육 기술 업체 General Assembly를, 2021년 7월에는 프랑스 엔지니어링·기술 컨설팅 기업 Akka Technologies를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 컨설턴트를 제외한 사내 상근 환산 직원은 34,000명이다. SIX 스위스 거래소에 상장되어 있다. 2015년 Alain Dehaze가 CEO가 되었고, 2022년 Denis Machuel이 그 뒤를 이어 CEO를 맡았다. 2025년 1월에는 Bullhorn과의 파트너십을 확대해 디지털 운영에 인공지능을 도입한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스위스 Adia Interim과 프랑스 Ecco의 합병으로 탄생한 세계 2위 인력 서비스 기업으로, Adecco, Akkodis, LHH 세 사업부 체제를 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.adeccogroup.com",
+  "entityLinks": {
+   "wikidata": "Q353494",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q353494",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%8D%B0%EC%BD%94_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Adecco"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q353494",
+   "country": "스위스",
+   "inception": "1997",
+   "headquarters": "취리히",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Adecco」 본문과 위키데이터 Q353494 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

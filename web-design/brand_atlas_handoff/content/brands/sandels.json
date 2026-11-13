@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q11892346",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "sandels",
+  "urlSlug": "sandels",
+  "name": "Sandels",
+  "nameKo": "",
+  "nameEn": "Sandels",
+  "definition": "Sandels는 핀란드의 맥주 브랜드로, 1971년부터 Olvi 양조장에서 생산한다. 핀란드 전쟁의 영웅인 스웨덴 야전 원수 Johan 8월 Sandels의 이름에서 유래했다.",
+  "summary": "Sandels는 핀란드의 맥주 브랜드로, 1971년부터 Olvi 양조장에서 생산한다. 핀란드 전쟁의 영웅인 스웨덴 야전 원수 Johan 8월 Sandels의 이름에서 유래했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 야전 원수 Johan 8월 Sandels의 이름을 따고, 캔과 병에 그의 일화와 격언을 싣는 핀란드 Olvi 양조장의 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 핀란드의 맥주로, Olvi 양조장이 1971년부터 만들어 왔다. 기본 제품인 일반 Sandels는 페일 라거이며, 이 밖에도 여러 버전이 나왔고 그중 일부는 단종되어 더는 생산하지 않는다. 캔과 병에는 이름의 주인공인 Johan 8월 Sandels의 생애에서 가져온 일화와 격언이 실리며, 그중 상당수는 맥주와 관련된 내용이다. Johan 8월 Sandels(1764–1831)는 핀란드 전쟁에서 활약한 스웨덴의 야전 원수이다. 2015년에 이루어진 한 조사에서 이 맥주는 핀란드에서 최고 평가를 받은 맥주 브랜드로 꼽혔다. 위키데이터에는 국가가 핀란드, 설립이 1971년으로 기록되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Sandels는 1971년부터 핀란드의 Olvi 양조장에서 생산해 온 맥주로, 기본 제품은 페일 라거이다. 이름은 핀란드 전쟁의 영웅이었던 스웨덴 야전 원수 Johan 8월 Sandels(1764–1831)에서 따왔다. 캔과 병에 그의 생애에서 나온 일화와 격언을 싣는 방식을 취하며, 상당수는 맥주와 관련된 내용이다. 이후 여러 버전이 나왔으며 일부는 단종되었고, 2015년의 한 조사에서는 핀란드 최고 평가의 맥주 브랜드로 꼽혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기본형인 일반 Sandels는 페일 라거이다. 제품 목록에는 Sandels 4,7 %, Sandels 5,3 %, Sandels Feast beer Unfiltered 5,3 %, Sandels 7,5 %가 올라 있다. 이 밖에도 다른 버전의 맥주가 존재했으며, 그중 일부는 단종되었다. 제품의 캔과 병에는 Johan 8월 Sandels의 생애에서 가져온 일화와 격언이 담기며, 상당수는 맥주와 관련된 내용이다. Feast beer 제품은 이름에 Unfiltered가 붙어 여과하지 않은 맥주로 표시된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 브랜드는 Olvi 양조장이 생산하는 핀란드 맥주이다. 2015년의 한 조사에서 핀란드 최고 평가의 맥주 브랜드로 꼽혔다. 제품은 4,7 %부터 7,5 %까지 여러 종류가 표기되어 있고, 일부 버전은 단종되었다. 캔과 병에 Johan 8월 Sandels의 일화와 격언을 싣는 방식도 이어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 야전 원수 Johan 8월 Sandels의 이름을 따고, 캔과 병에 그의 일화와 격언을 싣는 핀란드 Olvi 양조장의 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q11892346",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11892346",
+    "https://en.wikipedia.org/wiki/Sandels_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q11892346",
+   "country": "핀란드",
+   "inception": "1971",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Sandels (beer)」 본문과 위키데이터 Q11892346 팩트를 근거로 편집"
+ }
+}

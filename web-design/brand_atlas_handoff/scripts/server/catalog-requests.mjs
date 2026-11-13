@@ -37,6 +37,20 @@ function update(patches) {
 
 const key = (() => { try { return fs.readFileSync(KEY_FILE, "utf8").trim(); } catch { return ""; } })();
 if (!key) { console.log("  ! 수록 키 없음 — deploy/setup-server-jobs.sh 확인"); process.exit(1); }
+// 2026-11-07: 게이트웨이 한도는 24시간 이동 창이다. 한도가 바닥인데 수록을 시작하면 import가 한도 대기(1시간)에 묶여
+// spawn 타임아웃으로 죽고, 요청마다 시도 횟수만 올라 3회째 '일시 오류'로 기각된다. 남은 몫이 없으면 시도하지 않는다.
+{
+  const gw = new URL(process.env.LLM_GATEWAY_URL || "http://127.0.0.1:5055/v1/generate");
+  const q = await fetch(new URL("/v1/quota", gw), { headers: { Authorization: `Bearer ${key}` }, signal: AbortSignal.timeout(10000) }).then(r => r.json()).catch(() => null);
+  // remaining_now 는 분당 창(8)까지 섞인 즉시 여유라 하루 몫을 재는 데 쓰지 않는다 — perDay 창들의 최솟값을 본다.
+  const days = (q?.providers?.gpt?.windows || []).filter(w => w.window === "perDay");
+  const left = days.length ? Math.min(...days.map(w => w.remaining)) : null;
+  const reset = days.length ? Math.max(...days.filter(w => w.remaining === left).map(w => w.reset_s || 0)) : 0;
+  if (left !== null && left < 3) { console.log(`  요청 수록 보류: 게이트웨이 한도 소진(${Math.round(reset / 60)}분 뒤 회복) — 대기 ${pending.length}건 유지`); process.exit(0); }
+  // 한 건에 1~2콜(기각 재작성 포함)이 드므로 남은 몫의 70%만큼만 이번에 처리하고 나머지는 대기로 둔다.
+  const cap = left !== null ? Math.max(1, Math.floor(left * 0.7)) : pending.length;
+  if (pending.length > cap) { console.log(`  요청 ${pending.length}건 중 ${cap}건만 이번 실행에서 처리(하루 남은 한도 ${left})`); pending.splice(cap); }
+}
 const now = () => new Date().toISOString();
 update(new Map(pending.map(r => [r.qid, { status: "running", startedAt: now() }])));
 console.log(`  요청 수록: ${pending.map(r => r.ko || r.en || r.qid).join(", ")}`);

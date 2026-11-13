@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q53097",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/acura-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "acura",
+  "urlSlug": "acura",
+  "name": "아큐라",
+  "nameKo": "아큐라",
+  "nameEn": "Acura",
+  "definition": "아큐라(Acura)는 일본 자동차 제조사 혼다의 고급·고성능 부문으로, 주로 북미에 기반을 둔 브랜드이다. 일본 자동차 업체가 설립한 최초의 고급 브랜드이며 1986년에 출범했다.",
+  "summary": "아큐라(Acura)는 일본 자동차 제조사 혼다의 고급·고성능 부문으로, 주로 북미에 기반을 둔 브랜드이다. 일본 자동차 업체가 설립한 최초의 고급 브랜드이며 1986년에 출범했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "일본 업체가 세운 최초의 고급 브랜드이자 주로 북미에서 운영되는 혼다의 고급·고성능 부문이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아큐라는 혼다의 고급·고성능 자동차 부문으로, 주로 북미에서 사업을 한다. 미국, 캐나다, 멕시코, 파나마에서 차량을 판매하며, 과거에는 중국 본토, 홍콩, 러시아, 우크라이나, 쿠웨이트에서도 판매했다. 2026년에 일본 시장에서 Integra Type S 판매를 시작할 계획이며, 이전의 일본 판매 계획은 2008년 금융위기로 실현되지 않았다. 출범 초기 몇 년간 미국에서 가장 많이 팔린 고급 브랜드 중 하나였고, BMW와 Mercedes-Benz보다 많이 판매했다. 1990년대 중후반 판매가 줄었으나 2000년대 초 대대적인 재설계와 신모델 도입으로 부활했다. 2020년대에는 Type-S 브랜드가 오랜 공백 끝에 돌아왔고 Integra와 ZDX 명칭이 되살아났다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아큐라는 1986년 3월 27일 출범했으며 일본 자동차 업체가 세운 최초의 고급 브랜드였다. 일본 정부가 미국 시장에 수출 자율 규제를 부과해, 일본 업체들에게는 더 비싼 차를 수출하는 편이 이익이었다. 혼다는 10년간의 연구 끝에 1986년까지 북미에 새 딜러점 60곳을 열어 이 부문을 뒷받침했다. 초기 라인업은 Legend와 Integra 두 모델이었고, 'Acura. Precision Crafted Automobiles.'라는 슬로건을 내세웠다. Legend의 성공은 Toyota의 Lexus와 Nissan의 Infiniti 같은 경쟁 고급 브랜드의 출범으로 이어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 제품은 Legend와 5도어·3도어 해치백으로 제공된 소형 Integra였다. 1990년 출시한 NSX는 미드십 엑조틱 스포츠카로, Honda의 VTEC 가변 밸브 타이밍 시스템을 북미 시장에 처음 소개했다. 2000년대 초에는 첫 완전 독자 SUV인 MDX와, Integra 쿠페와 세단을 각각 대체한 RSX, TSX를 내놓았다. 2005년형 RL은 토크 벡터링 사륜구동 시스템 SH-AWD를, 2007년형 RDX는 북미 최초의 터보차저 Honda 엔진을 적용했다. 2016년에는 2세대 NSX가, 2010년대 중반에는 TLX와 새 플래그십 RLX가 나왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "아큐라의 모기업은 American Honda Motor Company이며, 미국, 캐나다, 멕시코, 파나마에서 차량을 판매한다. 2020년대 들어 Type-S 브랜드가 오랜 공백 끝에 돌아왔고 Integra와 ZDX 명칭이 부활했으며, ZDX는 아큐라의 첫 전기차이다. 2026년에는 일본 시장에서 Integra Type S 판매를 시작할 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 업체가 세운 최초의 고급 브랜드이자 주로 북미에서 운영되는 혼다의 고급·고성능 부문이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.acura.com/",
+  "entityLinks": {
+   "wikidata": "Q53097",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q53097",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%81%90%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Acura"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q53097",
+   "country": "일본",
+   "inception": "1986",
+   "headquarters": "도쿄도",
+   "founders": [
+    "혼다 소이치로"
+   ],
+   "parent": "American Honda Motor Company",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Acura」 본문과 위키데이터 Q53097 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

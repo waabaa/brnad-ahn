@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1334431",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ringnes",
+  "urlSlug": "ringnes",
+  "name": "링그네스",
+  "nameKo": "링그네스",
+  "nameEn": "Ringnes",
+  "definition": "링그네스(Ringnes)는 노르웨이에서 가장 큰 맥주 양조 회사이다. 오슬로에 본사를 두고 맥주, 청량음료, 광천수를 생산하며 Carlsberg 그룹에 속해 있다.",
+  "summary": "링그네스(Ringnes)는 노르웨이에서 가장 큰 맥주 양조 회사이다. 오슬로에 본사를 두고 맥주, 청량음료, 광천수를 생산하며 Carlsberg 그룹에 속해 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "노르웨이 최대의 양조 회사이자, 창업자들이 Fridtjof Nansen과 Otto Sverdrup의 극지 탐험을 후원해 그 이름이 북극권 섬 이름에 남은 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "링그네스는 노르웨이에서 가장 큰 맥주 양조 회사이며 1876년에 설립되었다. 맥주와 청량음료, 광천수를 생산하며 Ringnes Pilsner, Ringnes Gold, Ringnes Platinum 같은 맥주 제품을 내놓는다. Frydenlund, Schous, Munkholm, Vørterøl 등 여러 브랜드도 함께 다룬다. 노르웨이에서 PepsiCo 음료의 유일한 병입·유통 업체이며, Corona Extra와 Schweppes도 병입·유통한다. 본사는 오슬로에 있고 Carlsberg Group에 속해 있다. 여섯 곳의 생산 공장을 운영하며, 2004년 Carlsberg가 지분을 모두 사들인 뒤로는 처음으로 외국 기업이 전부 소유하는 회사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사는 1876년에 설립되었고, 오슬로 Grünerløkka 지구의 양조장에서 1877년 첫 맥주를 생산했다. 형제인 Amund Ringnes와 Ellef Ringnes가 재무 책임자 Axel Heiberg와 함께 세웠으며, Amund는 양조를, Ellef는 관리와 판매를 맡았다. 회사는 1978년까지 가족 소유였다가 De sammensluttede Bryggerier A/S와 합병해 Nora Industrier를 이루었다. 이후 Arendals(1980), E. C. Dahls Brewery(1987), Tou(1990) 같은 가족 소유의 전통 브랜드도 인수했다. Nora는 1991년 Orkla Group과 합병했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "링그네스는 맥주, 청량음료, 광천수를 생산한다. 맥주 제품으로 Ringnes Pilsner, Ringnes Gold, Ringnes Platinum, Frydenlund, Schous 등이 있다. 청량음료와 광천수로는 Ringnes Julebrus, Dahls Ingefærøl, Imsdal mountain spring water, Farris mineral water 등이 있다. 노르웨이에서 PepsiCo 음료인 Pepsi, Pepsi Max, 7 Up, Mountain Dew의 유일한 병입·유통 업체이며, Corona Extra와 Schweppes도 병입·유통한다. 생산 공장은 Nittedal, Trondheim, Arendal, Bodø, Larvik, Imsdalen 여섯 곳에 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "링그네스는 Carlsberg Group에 속해 있다. 2000년 Orkla가 Carlsberg와 거래해 Pripps Ringnes가 Carlsberg의 일부가 되었고, Orkla는 Carlsberg 지분 40%를 보유하게 되었다. 2004년 Carlsberg가 Orkla의 지분을 사들이면서 링그네스는 처음으로 전부 외국 기업의 소유가 되었다. 창업자의 후손 Christian Ringnes는 이 매각을 국가적 재앙이라고 불렀다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "노르웨이 최대의 양조 회사이자, 창업자들이 Fridtjof Nansen과 Otto Sverdrup의 극지 탐험을 후원해 그 이름이 북극권 섬 이름에 남은 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://ringnes.no",
+  "entityLinks": {
+   "wikidata": "Q1334431",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1334431",
+    "https://ko.wikipedia.org/wiki/%EB%A7%81%EA%B7%B8%EB%84%A4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Ringnes"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1334431",
+   "country": "노르웨이",
+   "inception": "1876",
+   "headquarters": "오슬로",
+   "founders": [],
+   "parent": "칼스버그",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Ringnes」 본문과 위키데이터 Q1334431 팩트를 근거로 편집"
+ }
+}

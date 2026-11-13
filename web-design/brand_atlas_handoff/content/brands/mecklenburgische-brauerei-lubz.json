@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1915708",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "mecklenburgische-brauerei-lubz",
+  "urlSlug": "mecklenburgische-brauerei-lubz",
+  "name": "Mecklenburgische Brauerei Lübz",
+  "nameKo": "",
+  "nameEn": "Mecklenburgische Brauerei Lübz",
+  "definition": "Mecklenburgische Brauerei Lübz는 독일의 도시 Lübz에 있는 양조장이다. Lübzer 브랜드로 가장 잘 알려져 있으며, 현재는 Holsten Brewery가 과반 지분을 보유하고 있다.",
+  "summary": "Mecklenburgische Brauerei Lübz는 독일의 도시 Lübz에 있는 양조장이다. Lübzer 브랜드로 가장 잘 알려져 있으며, 현재는 Holsten Brewery가 과반 지분을 보유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Lübzer 브랜드로 알려진 양조장으로, 동독 시기에 동독 유일의 맥주 캔 충전 라인을 보유하고 서독으로 맥주를 수출했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 Lübz에 본사를 두고 있으며, Lübzer 브랜드로 가장 잘 알려진 맥주를 만든다. 직원이 160명이 넘어 Lübz 시에서 가장 큰 고용주이고, 해당 지역에서 규모가 큰 양조장 가운데 하나이다. 생산 능력은 1.1 million hectolitres이다. Darguner Brauerei, Hanseatische Brauerei Rostock과 함께 Mecklenburg-Vorpommern에서 가장 큰 양조장으로 꼽힌다. Holsten Brewery가 과반 지분을 보유하고 있으며, Holsten은 다시 Carlsberg Group의 소유이다. 축구팀 F.C. Hansa Rostock과 FC Energie Cottbus를 후원한 이력도 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1877년 8월 Krüger가 설립했다. 이후 수십 년 동안 Bürgerliches Brauhaus GmbH zu Lübz(1905), Vereinsbrauerei Mecklenburger Wirte GmbH zu Lübz(1907), Vereinsbrauerei Mecklenburger Wirte AG, Lübz(1921) 등 여러 이름으로 운영되었다. 제2차 세계대전 뒤 양조장은 해체되었으나 1947년 생산을 재개했다. 다수 지분(55%)을 미국 시민이 보유하고 있어 몰수되지 않았고, 운영은 신탁 방식으로 이어졌다. 1969년 새 양조장이 건설된 뒤 Getränkekombinat Schwerin에 편입되어 VEB Brauerei Lübz가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "독일 통일 이후 함부르크에 본사를 둔 Holsten Brewery가 이 양조장을 인수해 현대화에 많은 투자를 했다. 2004년에는 Holsten이 Carlsberg Group에 인수되었다. 현재 Holsten Brewery가 과반 지분을 보유하고 있으며, 직원은 160명이 넘어 Lübz 시에서 가장 큰 고용주이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Lübzer 브랜드로 알려진 양조장으로, 동독 시기에 동독 유일의 맥주 캔 충전 라인을 보유하고 서독으로 맥주를 수출했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.luebzer.de/",
+  "entityLinks": {
+   "wikidata": "Q1915708",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1915708",
+    "https://en.wikipedia.org/wiki/Mecklenburgische_Brauerei_L%C3%BCbz"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1915708",
+   "country": "동독",
+   "inception": "1877",
+   "headquarters": "Lübz",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Mecklenburgische Brauerei Lübz」 본문과 위키데이터 Q1915708 팩트를 근거로 편집"
+ }
+}

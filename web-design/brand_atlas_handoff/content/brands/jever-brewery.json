@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q601859",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "jever-brewery",
+  "urlSlug": "jever-brewery",
+  "name": "Jever Brewery",
+  "nameKo": "",
+  "nameEn": "Jever Brewery",
+  "definition": "Jever Brewery는 독일의 맥주 브랜드 Jever를 만드는 양조장이다. 브랜드 이름은 양조지인 Jever 마을에서 따왔으며, Friesisches Brauhaus zu Jever가 1848년부터 양조해 왔다.",
+  "summary": "Jever Brewery는 독일의 맥주 브랜드 Jever를 만드는 양조장이다. 브랜드 이름은 양조지인 Jever 마을에서 따왔으며, Friesisches Brauhaus zu Jever가 1848년부터 양조해 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "독일 Jever 마을의 이름을 딴 맥주로, 1848년부터 Friesisches Brauhaus zu Jever에서 양조되었고 1934년부터 Jever Pilsener라는 이름으로 판매된 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Jever는 독일의 맥주 브랜드로, 양조지인 Jever 마을의 이름을 그대로 따서 붙였다. 1848년부터 Friesisches Brauhaus zu Jever(Jever Frisian Brewery)가 이 맥주를 양조해 왔다. 1922년 양조장은 Hamburg 기반의 Bavaria – St. Pauli Brewery에 매각되었고, 이 양조장은 현재 덴마크 Carlsberg Group 소유이다. 그 무렵 Jever의 맥주는 생산 지역 밖에서도 알려져 있었으며, 1934년부터는 Jever Pilsener라는 이름으로 판매되었다. 1994년부터 양조장은 Dortmunder Brau und Brunnen Group에 속했고, 이 그룹은 2005년 초 Radeberger Group에 인수되었다. 2002년부터 2005년까지는 축구 클럽 Borussia Mönchengladbach를 후원했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1848년 Diedrich König가 Friesisches Brauhaus zu Jever를 세웠으며, 당시 이 지역에는 양조장이 여럿 있었으나 König는 처음부터 자신의 맥주가 특별하다고 확신했다. 1867년 König가 사망한 뒤 아들이 양조장을 팔았고, Theodor Fetköter가 이를 인수하여 작은 가업을 대규모 양조 사업으로 키웠다. Fetköter는 광고를 시작하고 특별한 병을 개발했다. 1차 세계대전 중에는 사업을 이어받은 Fetköter의 아들이 전선에서 전사했고, 양조장은 1922년 Hamburg의 Bavaria – St. Pauli Brewery에 다시 매각되었다. 그 무렵 Jever의 맥주는 생산 지역 밖에서도 알려져 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Jever 양조장은 1994년부터 Dortmunder Brau und Brunnen Group에 속했고, 이 그룹은 2005년 초 Radeberger Group에 인수되었다. 1922년 양조장을 인수한 Bavaria – St. Pauli Brewery는 현재 덴마크 Carlsberg Group 소유이다. Jever Pilsener라는 이름은 1934년부터 사용되고 있으며, 2002년부터 2005년까지는 Borussia Mönchengladbach를 후원했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 Jever 마을의 이름을 딴 맥주로, 1848년부터 Friesisches Brauhaus zu Jever에서 양조되었고 1934년부터 Jever Pilsener라는 이름으로 판매된 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.jever.de/",
+  "entityLinks": {
+   "wikidata": "Q601859",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q601859",
+    "https://en.wikipedia.org/wiki/Jever_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q601859",
+   "country": "독일",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Jever Brewery」 본문과 위키데이터 Q601859 팩트를 근거로 편집"
+ }
+}

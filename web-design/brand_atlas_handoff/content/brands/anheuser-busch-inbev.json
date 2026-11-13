@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q128738",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/anheuser-busch-inbev-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "anheuser-busch-inbev",
+  "urlSlug": "anheuser-busch-inbev",
+  "name": "앤하이저부시 인베브",
+  "nameKo": "앤하이저부시 인베브",
+  "nameEn": "Anheuser-Busch InBev",
+  "definition": "앤하이저부시 인베브(Anheuser-Busch InBev)는 벨기에 브뤼셀에 본사를 둔 맥주 제조 회사이다. 약어는 ABI이며 세계 각지에서 맥주를 생산하고 판매한다.",
+  "summary": "앤하이저부시 인베브(Anheuser-Busch InBev)는 벨기에 브뤼셀에 본사를 둔 맥주 제조 회사이다. 약어는 ABI이며 세계 각지에서 맥주를 생산하고 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세계 맥주시장 점유율 약 30%(2016년, 생산량 기준)를 차지하며 200개가 넘는 브랜드를 소유한 독보적 위치의 맥주 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ABI는 벨기에 브뤼셀에 본사를 둔 회사로, 적극적인 인수합병 정책을 바탕으로 성장한 세계적인 맥주 제조·판매 기업이다. 2017년 기준으로 20만명 가까운 직원이 50개국에서 활동하고 있다. 2016년 생산량 기준 세계 맥주시장 점유율은 약 30%로, 독보적인 위치를 차지하고 있다. 다른 경쟁사인 칼스버그와 하이네켄의 점유율이 한자리 수 또는 10퍼센트 정도를 오가는 것과 대비된다. 대한민국의 맥주 회사 오비맥주도 ABI의 소유이다. 2015년 기준 200개가 넘는 맥주 브랜드를 소유하며, 대표 브랜드로는 버드와이저, 코로나, 스텔라 아르투아, 호가든 등이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "설립 연도는 1977년으로 기록되어 있다. 2004년 벨기에 맥주회사 Interbrew와 브라질 맥주 회사 Ambev가 합병하여 InBev가 되었다. 2008년 앤하이저부시와 합병하며 앤하이저부시 인베브가 되었다. 미국 맥주 시장 점유율의 50% 정도를 차지하는 버드와이저의 회사와 합병하면서, 미국인의 애국심으로 판매량이 떨어질 것을 염려해 상호 앞에 AB를 붙였다. 2015년 10월 사브밀러와 합병하기로 결정하고 2016년 10월 합병 작업을 마쳤으며, 합병 후 회사명을 AB InBev로 정했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "ABI는 2015년 기준 전 세계에서 200개가 넘는 맥주 브랜드를 소유하고 있다. 가장 잘 알려진 브랜드로는 버드와이저, 코로나, 스텔라 아르투아, 호가든 등이 있다. ABI는 자신들이 가진 맥주 브랜드를 Global, international, local champion의 세 가지로 분류한다. global 브랜드는 전 세계 공통적으로 잘 팔리는 브랜드이고, international 브랜드는 각 대륙 또는 몇 개국에서 잘 팔리는 브랜드이다. local champion은 대한민국의 카스처럼 그 나라의 브랜드를 말하며, 카스와 오비 프리미어를 생산하는 오비맥주도 ABI의 소유이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "ABI는 벨기에 브뤼셀에 본사를 둔 맥주 제조 회사이다. 2017년 기준 20만명 가까운 직원이 50개국에서 활동하고 있다. 2016년 생산량 기준 세계 맥주시장 점유율은 약 30%로, 칼스버그와 하이네켄보다 크게 앞선 독보적인 위치에 있다. 2016년 10월 사브밀러와의 합병 작업을 종료했고, 이후 회사명을 AB InBev로 정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 맥주시장 점유율 약 30%(2016년, 생산량 기준)를 차지하며 200개가 넘는 브랜드를 소유한 독보적 위치의 맥주 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ab-inbev.com/",
+  "entityLinks": {
+   "wikidata": "Q128738",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q128738",
+    "https://ko.wikipedia.org/wiki/%EC%95%A4%ED%95%98%EC%9D%B4%EC%A0%80%EB%B6%80%EC%8B%9C_%EC%9D%B8%EB%B2%A0%EB%B8%8C",
+    "https://en.wikipedia.org/wiki/AB_InBev"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q128738",
+   "country": "벨기에",
+   "inception": "1977",
+   "headquarters": "브뤼셀",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「앤하이저부시 인베브」 요약과 위키데이터 Q128738 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

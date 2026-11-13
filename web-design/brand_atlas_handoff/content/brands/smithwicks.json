@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1073087",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "smithwicks",
+  "urlSlug": "smithwicks",
+  "name": "Smithwick's",
+  "nameKo": "",
+  "nameEn": "Smithwick's",
+  "definition": "Smithwick's는 1710년 킬케니에서 John Smithwick이 세운 양조장에서 출발한 아일랜드 레드 에일 스타일 맥주 브랜드이다. 1965년 Guinness에 인수되어 현재 Diageo에 속한다.",
+  "summary": "Smithwick's는 1710년 킬케니에서 John Smithwick이 세운 양조장에서 출발한 아일랜드 레드 에일 스타일 맥주 브랜드이다. 1965년 Guinness에 인수되어 현재 Diageo에 속한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "킬케니 수도원 터에서 1710년 시작된 아일랜드 레드 에일 브랜드로, 가문 경영을 거쳐 Guinness와 Diageo 산하에서 이어진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Smithwick's는 아일랜드에서 만들어지는 레드 에일 스타일 맥주 브랜드이다. 양조장은 1710년 킬케니에서 John Smithwick이 세웠고, 1965년까지 킬케니의 Smithwick 가문이 운영했다. 이후 1965년 Guinness가 인수했으며, Guinness는 현재 Diageo에 속해 있다. 킬케니 양조장은 2013년에 문을 닫았고, Smithwick's와 Kilkenny 브랜드 맥주의 생산은 더블린의 Diageo St. James's Gate Brewery로 옮겨졌다. 옛 양조장 일부는 이후 'Smithwick's Experience Kilkenny'라는 방문객 체험 시설로 바뀌었다. 폐쇄 당시 이 양조장은 아일랜드에서 가동 중인 가장 오래된 양조장이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1710년 John Smithwick이 킬케니에 세웠다. 부지는 14세기부터 수도사들이 에일을 빚던 프란치스코회 수도원 자리이며, 수도원 유적이 지금도 남아 있다. John Smithwick은 Richard Cole이 1705년 Ormond 공작에게서 임차한 땅에서 Cole과 함께 양조 사업을 시작했고, 5년 뒤 그 땅의 소유주가 되었다. 증손자 Edmond가 양조장 땅을 되사 수출 시장을 개척했고, 잉글랜드·스코틀랜드·웨일스에서 인기를 얻어 생산량이 다섯 배로 늘었다. 1965년 Walter Smithwick에게서 Guinness가 양조장을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1966년 Guinness와 함께 개발해 선보인 Smithwick's Draught Ale이다. 1979년에는 연간 50만 배럴이 팔렸고, 1980년에는 프랑스로 수출을 시작했다. 1993년 Smithwick's Draught는 캐나다에서 가장 많이 팔리는 수입 에일이 되었다. Kilkenny 브랜드 맥주도 함께 생산되며, 두 브랜드 모두 현재 더블린에서 만들어진다. 2010년 무렵 캔과 병 포장은 벨파스트의 IBC가 맡았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 12월 31일 킬케니 양조장의 생산이 끝났고, 현재 Smithwick's 브랜드는 더블린의 Diageo St. James's Gate Brewery에서 생산된다. 원래 킬케니 부지는 Kilkenny County Council에 팔렸고, 일부는 'Smithwick's Experience Kilkenny' 방문객 센터로 쓰인다. 2016년에는 Walter Smithwick의 아들 Paul이 아들 Daniel과 함께 킬케니에 근거를 둔 Sullivan's Ale을 선보였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "킬케니 수도원 터에서 1710년 시작된 아일랜드 레드 에일 브랜드로, 가문 경영을 거쳐 Guinness와 Diageo 산하에서 이어진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.smithwicks.ie",
+  "entityLinks": {
+   "wikidata": "Q1073087",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1073087",
+    "https://en.wikipedia.org/wiki/Smithwick%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1073087",
+   "country": null,
+   "inception": "1710",
+   "headquarters": "킬케니",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Smithwick's」 본문과 위키데이터 Q1073087 팩트를 근거로 편집"
+ }
+}

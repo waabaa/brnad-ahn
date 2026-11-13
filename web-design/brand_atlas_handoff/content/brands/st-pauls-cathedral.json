@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q173882",
+ "demand": {
+  "why": "국외",
+  "naver": 0.008,
+  "koViews": 946,
+  "enViews": 144396,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "st-pauls-cathedral",
+  "urlSlug": "st-pauls-cathedral",
+  "name": "세인트폴 대성당",
+  "nameKo": "세인트폴 대성당",
+  "nameEn": "St Paul's Cathedral",
+  "definition": "세인트폴 대성당(St Paul's Cathedral)은 영국 시티 오브 런던의 러드게이트 힐에 있는 높이 111m의 성공회 성당이다. 런던 주교좌가 자리 잡고 있으며 사도 바울로에게 봉헌되었다.",
+  "summary": "세인트폴 대성당(St Paul's Cathedral)은 영국 시티 오브 런던의 러드게이트 힐에 있는 높이 111m의 성공회 성당이다. 런던 주교좌가 자리 잡고 있으며 사도 바울로에게 봉헌되었다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.733333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "크리스토퍼 렌 경이 설계한 영국 바로크 양식의 성당으로, 지름 34m의 거대한 돔과 속삭이는 회랑이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "세인트폴 대성당은 시티 오브 런던의 러드게이트 힐에 있는 성공회 성당이다. 런던에서 가장 유명한 랜드마크 중 하나로 꼽히며, 멀리서도 잘 보이는 돔은 약 300여 년이 넘는 시간 동안 런던의 스카이라인 속에 자리하고 있었다. 높이 111m로 1710년부터 1967년까지 런던에서 가장 높은 건축물이었다. 리버풀 대성당 다음가는 크기로 영국에서 2번째로 큰 교회 건물이다. 허레이쇼 넬슨 경, 웰링턴 공작, 윈스턴 처칠, 마거릿 대처의 장례식과 찰스 왕세자와 다이애나 비의 결혼식 등 국가적인 행사가 열렸다. 지금도 종교적인 용도로 쓰이며 매일 집회와 미사가 열린다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기원후 604년에 이 자리에 지어져 있던 성당을 원형으로 하여 세워졌다. 원래의 세인트폴 대성당은 1666년 런던 대화재 때 불타 버렸다. 1675년에 크리스토퍼 렌 경의 감독 아래 영국 바로크 양식으로 다시 짓기 시작해 35년 만에 완공했다. 렌 경은 베네치아의 건축가 안드레아 팔라디오에게서 영감을 받아 영국의 중세 건축 양식을 더 근대적으로 해석했고, 17세기 로마의 바로크 양식에도 영향을 받았다. 불타기 전의 옛 대성당은 런던 시가지의 중심지에 자리하고 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "대성당은 여전히 종교적인 용도로 사용되고 있으며 매일 집회와 미사가 열린다. 관광객 입장료는 2019년 1월 기준으로 성인 20파운드이며, 순례객은 출입료를 받지 않는다. 돔은 지름 34m이고, 돔 아래의 회랑은 '속삭이는 회랑'이라고 불린다. 돔 위 랜턴 꼭대기의 황금 공과 십자가는 높이 7m, 무게 8톤이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "크리스토퍼 렌 경이 설계한 영국 바로크 양식의 성당으로, 지름 34m의 거대한 돔과 속삭이는 회랑이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.stpauls.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q173882",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173882",
+    "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%8F%B4_%EB%8C%80%EC%84%B1%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q173882",
+   "country": "영국",
+   "inception": "1675",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「세인트폴 대성당」 요약과 위키데이터 Q173882 팩트를 근거로 편집"
+ }
+}

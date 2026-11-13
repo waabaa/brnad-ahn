@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1435628",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/femsa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "femsa",
+  "urlSlug": "femsa",
+  "name": "FEMSA",
+  "nameKo": "",
+  "nameEn": "FEMSA",
+  "definition": "FEMSA는 멕시코 몬테레이에 본사를 둔 다국적 음료·리테일 기업이다. 세계 최대 규모의 독립 코카콜라 보틀링 그룹과 멕시코 최대 편의점 체인을 운영한다.",
+  "summary": "FEMSA는 멕시코 몬테레이에 본사를 둔 다국적 음료·리테일 기업이다. 세계 최대 규모의 독립 코카콜라 보틀링 그룹과 멕시코 최대 편의점 체인을 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대 규모의 독립 코카콜라 보틀링 그룹이자 멕시코 최대 편의점 체인 Oxxo를 운영하는 멕시코 기업이다. 양조 사업을 Heineken 지분으로 바꾼 뒤 음료와 리테일을 함께 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 라틴아메리카에서 보틀링 공장, 편의점, 드러그스토어, 주유소, 제3자 물류 서비스를 운영한다. 미국에서는 jan-san 유통 산업에 참여한다. 멕시코에서는 편의점 체인 Oxxo와 Liga MX 축구팀 C.F. Monterrey를 소유한 회사로 유명하다. 2019년 매출은 US$26.9 billion으로, 멕시코에서 다섯 번째로 큰 기업이었다. 멕시코 증권거래소에는 1978년에, 뉴욕증권거래소에는 1998년에 ADR로 상장했다. 멕시코 증권거래소의 주요 지수인 IPC와 S&P Latin America 40의 구성 종목이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사의 뿌리는 1890년 Isaac Garza Garza가 세운 Cervecería Cuauhtemoc 양조장이다. 1909년 Garza는 이 양조장에 병을 공급할 Vidriera Monterrey를 세웠다. 1936년 병뚜껑을 만드는 Fábricas Monterrey를 설립하면서 수직 통합이 시작됐고, 이 시기의 사업은 Grupo Monterrey로 불렸다. 1974년 Grupo Monterrey가 둘로 나뉘었고, 음료와 은행 사업은 FEMSA가 되어 Garza Lagüera 가문이 지배권을 가졌다. FEMSA는 1978년 9월 19일 멕시코 증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "음료 부문은 1993년 Coca-Cola가 지분 30%를 인수하면서 Coca-Cola FEMSA 부문이 생겼다. Coca-Cola FEMSA는 2007년 주스 생산업체 Jugos del Valle를, 2011년 Grupo Cimsa를, 2012년 낙농 보틀러 Lácteos Santa Clara를 인수했다. 리테일 부문은 FEMSA Comercio를 통해 2015년 칠레 산티아고에 기반을 둔 Socofar의 과반 지분을 인수하며 남미 드러그스토어 사업에 진출했다. 2017년에는 물류 부문이 Solistica로 이름을 바꿨다. 2019년에는 Corporacion GPF를 인수하고 Jetro Restaurant Depot의 소수 지분 인수 계약을 맺었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 FEMSA Cerveza를 Heineken에 넘기는 주식 교환으로 Heineken N.V. 지분 20%를 보유하게 됐다. 사업은 음료 보틀링, 편의점·드러그스토어·주유소 중심의 리테일, 물류로 구성되며 미국에서도 유통 사업에 참여한다. 2019년 매출은 US$26.9 billion이었다. 멕시코 증권거래소와 뉴욕증권거래소에 상장해 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대 규모의 독립 코카콜라 보틀링 그룹이자 멕시코 최대 편의점 체인 Oxxo를 운영하는 멕시코 기업이다. 양조 사업을 Heineken 지분으로 바꾼 뒤 음료와 리테일을 함께 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://femsa.com/",
+  "entityLinks": {
+   "wikidata": "Q1435628",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1435628",
+    "https://en.wikipedia.org/wiki/FEMSA"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1435628",
+   "country": "멕시코",
+   "inception": "1890",
+   "headquarters": "몬테레이",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「FEMSA」 본문과 위키데이터 Q1435628 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

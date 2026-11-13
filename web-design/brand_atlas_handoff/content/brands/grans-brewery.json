@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3356414",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "grans-brewery",
+  "urlSlug": "grans-brewery",
+  "name": "Grans Brewery",
+  "nameKo": "",
+  "nameEn": "Grans Brewery",
+  "definition": "Grans Brewery는 1899년 노르웨이 산네피오르에서 설립된 양조·음료 회사이다. 맥주와 청량음료, 미네랄워터를 생산하며 Grans Bryggeri AS라는 법인명을 쓴다.",
+  "summary": "Grans Brewery는 1899년 노르웨이 산네피오르에서 설립된 양조·음료 회사이다. 맥주와 청량음료, 미네랄워터를 생산하며 Grans Bryggeri AS라는 법인명을 쓴다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "양조장 협회에서 탈퇴해 독자 노선을 택했고, 제품 대부분을 REMA 1000 체인을 통해 유통하며 청량음료 비중이 80%인 노르웨이 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Grans Brewery는 노르웨이 산네피오르에 본사를 둔 양조 회사이며 법인명은 Grans Bryggeri AS이다. 생산량의 80%는 청량음료와 미네랄워터가 차지하고, 맥주와 기타 알코올 음료는 20%를 차지한다. 1996년 봄 REMA 1000과 유통 계약을 맺은 뒤 제품 대부분을 이 체인점을 통해 국내에 유통하며, 바와 레스토랑에는 제품을 공급하지 않는다. 2020년 기준으로 노르웨이에서 다섯 번째로 큰 양조장이며, 2019년 판매량은 2018년보다 4% 증가했다. 오슬로 피오르 지역을 중심으로 청량음료와 맥주 상품이 널리 유통된다. 1997년에 노르웨이 전역으로 제품 공급을 넓혔고, 2012년에는 맥주 세 개 브랜드를 덴마크로 수출하기 시작했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1899년 산네피오르의 Grønli에서 Sandefjords Bryggeri og Mineralvannfabrikk라는 이름으로 설립되었으며, 초대 이사회 의장은 Anton F. Klaveness, 초대 경영자는 Reidar Due였다. 1903년 Peder Bugge Bull이 주요 주주가 되었고, 1949년 그가 지분을 매각하자 Guttorm Gran이 전체 주식을 인수해 Sandefjords Bryggeri로 이름을 바꿨다. 1965년 노르웨이 양조장 협회에서 탈퇴해 독자 노선을 걸었고, 1966년 사명을 Grans Bryggeri로 바꾸었다. 1969년에는 가족 주식회사가 되었고, 1979년 Guttorm Gran이 사망한 뒤 아들 Guttorm Gran Jr.가 1989년 경영을 이어받았다. 2001년에는 Trygve Christophersen이 CEO로 임명되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 청량음료와 미네랄워터이며 맥주와 기타 알코올 음료도 생산한다. 생산량 기준으로 청량음료와 미네랄워터가 80%, 주류가 20%이다. 1966년에는 생산 능력이 네 배 높은 새 병입 설비를 들였다. 1982년에는 자체 식료품 체인을 세웠고, 1980년대에는 Grans Mini-kjøp 체인을 인수했다. 1996년 기준 36개 매장을 운영했으며, 이 회사의 맥주는 REMA 1000과 자체 매장 외에는 판매되지 않았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "소유주는 Guttorm Gran Jr.와 Reitangruppen이 각각 50%를 보유한 것으로 기록되어 있으며, 위키데이터상 모기업은 Reitan Retail이다. 2005년 직원은 57명이었다. 2020년 기준 노르웨이에서 다섯 번째로 큰 양조장이고, 제품 대부분을 REMA 1000 체인을 통해 유통한다. 2019년 판매량은 전년보다 4% 증가했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조장 협회에서 탈퇴해 독자 노선을 택했고, 제품 대부분을 REMA 1000 체인을 통해 유통하며 청량음료 비중이 80%인 노르웨이 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://grans.no/",
+  "entityLinks": {
+   "wikidata": "Q3356414",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3356414",
+    "https://en.wikipedia.org/wiki/Grans_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3356414",
+   "country": "노르웨이",
+   "inception": "1899",
+   "headquarters": "산네피오르",
+   "founders": [],
+   "parent": "Reitan Retail",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Grans Brewery」 본문과 위키데이터 Q3356414 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q377626",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "henninger-brewery",
+  "urlSlug": "henninger-brewery",
+  "name": "Henninger Brewery",
+  "nameKo": "",
+  "nameEn": "Henninger Brewery",
+  "definition": "Henninger Brewery는 독일 프랑크푸르트에 있던 맥주 양조장이다. 1881년 주식회사로 전환했으며 2001년 12월 20일 옛 양조장 부지에서 마지막 양조를 마쳤다.",
+  "summary": "Henninger Brewery는 독일 프랑크푸르트에 있던 맥주 양조장이다. 1881년 주식회사로 전환했으며 2001년 12월 20일 옛 양조장 부지에서 마지막 양조를 마쳤다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "제2차 세계대전 이후 독일 양조장 중 처음 캔맥주를 쓰고 전국 규모 Radler를 선보였으며, 프랑크푸르트의 Henninger Turm과 이름이 이어진 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Henninger Brewery는 독일 프랑크푸르트에서 맥주를 만들던 양조장이다. 뿌리는 1655년 Eberhard Stein의 양조장으로 거슬러 올라간다. 제2차 세계대전 이후 독일 양조장 가운데 처음으로 캔맥주를 사용했고, 빠르게 성장해 독일에서 가장 큰 양조장 중 하나가 되었다. 1966년에는 판매량 기준 독일 양조장 3위에 올랐으며 해외로 사업을 넓혔다. 1994년에는 맥주와 레모네이드를 섞은 Henninger Radler를 출시했다. 2001년 브랜드와 유통권이 매각되었고 그해 12월 20일 옛 양조장 부지에서 마지막 양조가 이루어졌으며, 부지에는 주거 단지 Stadtgärten Henninger Turm이 들어섰다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Henninger 양조장의 뿌리는 1655년 Eberhard Stein의 양조장이다. 1873년 바이에른의 에를랑겐 출신인 Heinrich Christian Henninger가 이 양조장에 들어왔다. 1881년 주식회사로 바뀌며 이름을 \"Frankfurter Bierbrauer-Gesellschaft - vormals Henninger und Söhne\"로 고쳤다. 여러 차례 확장과 인수를 거친 뒤 1935년 최종 명칭인 Henninger-Bräu AG로 바꾸었다. 1966년에는 대주주 Bruno H. Schubert 아래에서 판매량 기준 독일 3위에 올라 세계로 영역을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Henninger의 맥주 브랜드에는 Kaiser Pilsner (Privat), Export, Radler, Diät-Pils, Highlander가 있다. Kaiser Pilsner (Privat)는 필젠 유형의 맥주이고, Export는 스파이시한 프리미엄 맥주이다. Radler는 맥주와 레모네이드를 섞은 제품이며, Diät-Pils는 탄수화물을 줄인 맥주이다. Highlander는 위스키 맥아로 양조했다. 자전거 경주 \"Around the Henninger Tower\" 33주년을 기념해 1994년 5월 1일 출시한 Henninger Radler는 같은 종류의 음료로는 최초의 전국 규모 제품이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1996년 모회사가 파산했으나 양조장은 유지되어 1998년 독일의 억만장자 소프트웨어 기업가 Dietmar Hopp 등 민간 투자자에게 매각되었다. 2001년 Hopp 측은 Henninger 브랜드와 유통권을 지역 경쟁사 Binding Brauerei AG(현 Radeberger Group)에 넘겼다. 2001년 12월 20일 옛 양조장 부지에서 마지막 양조가 이루어졌고 건물은 철거되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "제2차 세계대전 이후 독일 양조장 중 처음 캔맥주를 쓰고 전국 규모 Radler를 선보였으며, 프랑크푸르트의 Henninger Turm과 이름이 이어진 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q377626",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q377626",
+    "https://en.wikipedia.org/wiki/Henninger_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q377626",
+   "country": "독일",
+   "inception": "1881",
+   "headquarters": "프랑크푸르트암마인",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Henninger Brewery」 본문과 위키데이터 Q377626 팩트를 근거로 편집"
+ }
+}

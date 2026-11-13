@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q688424",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/maggi-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "maggi",
+  "urlSlug": "maggi",
+  "name": "마지",
+  "nameKo": "마지",
+  "nameEn": "Maggi",
+  "definition": "마지(Maggi)는 19세기 후반 스위스에서 시작된 조미료, 즉석 수프, 국수 브랜드이다. 창업자는 Julius Maggi이며, 1947년 스위스 대기업 네슬레가 인수했다.",
+  "summary": "마지(Maggi)는 19세기 후반 스위스에서 시작된 조미료, 즉석 수프, 국수 브랜드이다. 창업자는 Julius Maggi이며, 1947년 스위스 대기업 네슬레가 인수했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "노동자 가정의 식생활 개선을 목표로 콩류 가루, Maggi seasoning, 부이용 큐브를 산업적으로 내놓은 스위스 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마지는 조미료, 즉석 수프, 국수를 만드는 스위스 브랜드이다. 19세기 후반 스위스에서 시작되었으며, Julius Maggi는 1869년 Kemptthal에서 아버지의 제분 사업을 이어받았다. 이 사업은 더 나은 영양 공급과 빠른 조리로 노동자 가정의 식생활을 개선하는 것을 목표로 삼아 산업적 식품 생산의 선구자 가운데 하나로 성장했다. 1884년부터 단백질이 풍부한 콩류로 만든 가루를 판매했고, 이런 콩류 식품을 시장에 처음 내놓은 곳이 마지이다. 1886년에는 산 가수분해 식물성 단백질 제품인 Maggi seasoning을 산업적으로 처음 생산했다. 1947년 스위스 대기업 네슬레가 이 브랜드를 인수했으며, 현재 모기업도 네슬레이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1869년 Julius Maggi(1846–1912)가 스위스 Kemptthal에서 아버지의 제분 사업을 이어받았다. 1882년 스위스 Gemeinnützige Gesellschaft 모임에서 의사이자 공장 감독관인 Fridolin Schuler가 공장 노동자의 열악한 영양 상태를 지적하며, 단백질이 많고 소화가 쉬운 콩류 식사를 저렴하고 간편하게 제공해야 한다고 주장했다. 이 협회의 요청을 받은 Julius Maggi는 2년간 콩류의 가공 방법과 배합을 실험했고, 1884년 11월 19일 그 결과를 협회 대표들에게 선보였다. 협회는 3년 동안 Maggi의 콩류를 독점적으로 추천하기로 계약했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1885년 Maggi는 산업적으로 생산한 아홉 종류의 콩류 가루를 시장에 내놓았다. 1886년에는 산 가수분해 식물성 단백질 제품인 Maggi seasoning을 처음 산업 생산했고, 이를 콩류 가루와 결합한 즉석 수프를 Justus von Liebig가 발명한 고기 추출물의 경쟁 제품으로 내놓았다. 1908년에는 부이용 큐브를 시장에 내놓아 부이용 농축액 캡슐을 대체했다. 프랑스에서는 Société laitière Maggi가 살균 우유를 판매했고, KUB라는 이름으로 부이용 큐브를 판매했다. 1933년에는 프랑스 Le Blanc-Mesnil에 소스 생산 공장을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "마지는 1947년 스위스 대기업 네슬레에 인수된 이후 네슬레를 모기업으로 두고 있다. 위키데이터에는 국가가 스위스, 본사가 함으로 기록되어 있으며 설립 연도는 1886년으로 기재되어 있다. 회사는 1889년 주식회사로 전환했고, 1912년 Julius Maggi가 사망한 직후 지주회사 Allgemeine MAGGI-Gesellschaft로 바뀐 이력이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "노동자 가정의 식생활 개선을 목표로 콩류 가루, Maggi seasoning, 부이용 큐브를 산업적으로 내놓은 스위스 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.maggi.de/",
+  "entityLinks": {
+   "wikidata": "Q688424",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q688424",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Maggi"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q688424",
+   "country": "스위스",
+   "inception": "1886",
+   "headquarters": "함",
+   "founders": [
+    "Julius Maggi"
+   ],
+   "parent": "네슬레",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Maggi」 본문과 위키데이터 Q688424 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

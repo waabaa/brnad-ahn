@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q495005",
+ "demand": {
+  "why": "국내",
+  "naver": 0.244,
+  "koViews": 1106,
+  "enViews": 1035,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/national-library-of-korea-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "national-library-of-korea",
+  "urlSlug": "national-library-of-korea",
+  "name": "국립중앙도서관",
+  "nameKo": "국립중앙도서관",
+  "nameEn": "National Library of Korea",
+  "definition": "국립중앙도서관(National Library of Korea)은 대한민국 문화체육관광부 소속기관으로, 국가대표도서관의 기능을 수행하는 도서관이다. 서울특별시 서초구 반포대로 201에 위치한다.",
+  "summary": "국립중앙도서관(National Library of Korea)은 대한민국 문화체육관광부 소속기관으로, 국가대표도서관의 기능을 수행하는 도서관이다. 서울특별시 서초구 반포대로 201에 위치한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "대한민국의 국가대표도서관으로, 납본제도를 통해 국내 발행 자료를 수집·보존하고 국가 서지와 문헌정보체계를 구축하는 국립 도서관이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "국립중앙도서관은 「도서관법」 제18조제1항을 설치 근거로 하는 대한민국 문화체육관광부의 소속기관이다. 국내외 도서관자료의 수집·제공·보존관리, 국가 서지 작성 및 표준화, 국가문헌정보체계 구축, 국내 도서관에 대한 지도·지원 및 협력 등의 업무를 맡는다. 본관은 서울특별시 서초구 반포대로 201에 있다. 2021년 10월 31일 기준 총 13,291,306책을 소장하고 있다. 2015년 5월에는 국내 최초, 세계 국립도서관 중 15번째로 장서 1,000만 권 시대를 열었다. 관장은 고위공무원단 가등급에 속하는 일반직공무원으로 보하되, 임기제공무원으로 보할 수 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1945년 해방과 함께 조선총독부도서관의 간판을 내리고 10월 15일 국립도서관으로 개관했다(서울 중구 소공동). 1963년 5월 국립도서관장에 취임한 최낙구는 도서관법 제정을 주요 과제로 삼아 입법을 적극적으로 추진했다. 같은 해 10월 28일 「도서관법」이 제정·공포되면서 국립도서관은 국립중앙도서관으로 명칭을 바꾸었다. 1965년 3월 26일 자료제출(납본)제도를 시행했고, 1974년 12월 2일 남산으로 본관을 옮겼다. 1988년 5월 28일에는 반포동에 본관을 신축해 이전했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "국립중앙도서관은 본관, 사서교육관, 자료보존관을 갖추고 있으며 서고, 주제별자료실, 열람실, 강의실 등을 운영한다. 2009년 5월에 개관한 디지털도서관은 1억 1600만 건의 디지털 콘텐츠와 25만 건의 동영상 자료를 보유한다. 2006년 국립어린이청소년도서관, 2012년 국립장애인도서관, 2013년 국립세종도서관을 차례로 개관했다. 소장 문화재로는 국보 제319호 동의보감과 국보 제148호 십칠사찬고금통요 등이 있다. 간행물로는 웹진 '오늘의 도서관'을 발행한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 10월 31일 기준 국내 도서 9,584,718책, 해외 도서 1,609,108책, 비도서자료 1,803,691점, 고서 293,789책을 소장하고 있다. 본관 5층에는 통일부가 별도로 운영하는 북한자료센터가 있다. 납본 주보는 2025년 4월 20일까지 제공되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대한민국의 국가대표도서관으로, 납본제도를 통해 국내 발행 자료를 수집·보존하고 국가 서지와 문헌정보체계를 구축하는 국립 도서관이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nl.go.kr/",
+  "entityLinks": {
+   "wikidata": "Q495005",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q495005",
+    "https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80",
+    "https://en.wikipedia.org/wiki/National_Library_of_Korea"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q495005",
+   "country": "대한민국",
+   "inception": "1945",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「국립중앙도서관」 요약과 위키데이터 Q495005 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

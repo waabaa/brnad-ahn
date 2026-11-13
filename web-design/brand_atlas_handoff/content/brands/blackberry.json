@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q502121",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/blackberry-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "blackberry",
+  "urlSlug": "blackberry",
+  "name": "리서치 인 모션",
+  "nameKo": "리서치 인 모션",
+  "nameEn": "BlackBerry",
+  "definition": "리서치 인 모션(BlackBerry)은 1984년 설립되어 온타리오 주 워털루에 본사를 둔 캐나다 소프트웨어 기업이다. 보안 통신과 사물인터넷(IoT)을 전문으로 하며, 1999년부터 2016년까지 BlackBerry 브랜드의 무선 모바일 기기를 개발했다.",
+  "summary": "리서치 인 모션(BlackBerry)은 1984년 설립되어 온타리오 주 워털루에 본사를 둔 캐나다 소프트웨어 기업이다. 보안 통신과 사물인터넷(IoT)을 전문으로 하며, 1999년부터 2016년까지 BlackBerry 브랜드의 무선 모바일 기기를 개발했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.233333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "BlackBerry 브랜드 기기로 스마트폰 시장을 선도했으나 현재는 보안 통신과 IoT 소프트웨어를 제공하는 캐나다 기업으로 전환한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "BlackBerry Limited는 이전 명칭이 Research In Motion(RIM)인 캐나다 소프트웨어 기업으로, 보안 통신과 사물인터넷(IoT)을 전문으로 한다. 1999년부터 2016년까지 BlackBerry 브랜드의 무선 모바일 기기를 개발했으며, 2000년대 후반 부상하던 스마트폰 시장을 초기에 이끌었다. 미국에서는 2010년 iPhone 4 발표 전까지, 인도네시아에서는 2010년대 초반 내내 스마트폰 시장의 선두였다. 그러나 Apple과 Google의 빠른 성장 앞에서 쇠퇴했고, BlackBerry 10 출시 이후 CEO John S. Chen 아래에서 사이버 보안 기업용 소프트웨어·서비스 회사로 전환했다. 2016년 모바일 부문은 BlackBerry Mobile로 분사했고, 현재는 소프트웨어와 서비스를 제공하며 핵심 소프트웨어 애플리케이션 특허를 보유한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Research In Motion Limited는 1984년 Mike Lazaridis가 설립했다. 1988년 북미 최초의 무선 데이터 기술 개발사가 되었고, 북유럽 국가 밖에서 Mobitex 무선 패킷 데이터 통신망용 연결 제품을 처음 개발한 회사가 되었다. 1996년 최초의 양방향 메시징 호출기인 Interactive Pager를 선보였고, 1998년 1월 토론토 증권거래소에 종목 기호 RIM으로 상장했다. 1999년에는 BlackBerry 850 호출기를 내놓았는데, 이 기기는 Microsoft Exchange Server의 푸시 이메일을 BlackBerry Enterprise Server(BES)로 받을 수 있었고 이후 기업용 사업의 기반이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1999년 BlackBerry 850 호출기는 BlackBerry OS를 처음 사용한 기기이며, 키보드가 블랙베리 열매의 알갱이를 닮아 이름이 붙었다. 초기에는 1990년 DigiSync Film KeyKode Reader, 1996년 Interactive Pager 같은 제품을 선보였다. 현재 소프트웨어 제품은 기업, 자동차 제조사, 정부 기관이 해킹과 랜섬웨어 공격을 막는 데 쓴다. 여기에는 BlackBerry Enterprise Server(BlackBerry Unified Endpoint Manager)와 통합 엔드포인트 관리(UEM) 플랫폼이 포함된다. 마지막 BlackBerry 스마트폰은 2018년 출시된 BlackBerry Key2 LE이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "BlackBerry Limited는 2016년 모바일 부문을 BlackBerry Mobile로 분사했고, 이 부문은 2020년 중단되었다. 2018년 마지막 스마트폰이 출시되었고, 2022년 BlackBerry 10 지원을 종료하면서 스마트폰 시장에서의 존재감은 끝났다. 현재는 소프트웨어와 서비스를 제공하며 핵심 소프트웨어 애플리케이션 특허를 보유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "BlackBerry 브랜드 기기로 스마트폰 시장을 선도했으나 현재는 보안 통신과 IoT 소프트웨어를 제공하는 캐나다 기업으로 전환한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://blackberry.com",
+  "entityLinks": {
+   "wikidata": "Q502121",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q502121",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%9E%99%EB%B2%A0%EB%A6%AC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/BlackBerry_Limited"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q502121",
+   "country": "캐나다",
+   "inception": "1984",
+   "headquarters": "워털루 (온타리오 주)",
+   "founders": [
+    "Mike Lazaridis"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「BlackBerry Limited」 본문과 위키데이터 Q502121 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

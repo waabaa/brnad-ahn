@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q911367",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brewdog",
+  "urlSlug": "brewdog",
+  "name": "브루독",
+  "nameKo": "브루독",
+  "nameEn": "BrewDog",
+  "definition": "브루독(BrewDog)은 스코틀랜드 엘런에 본사를 둔 다국적 양조장 및 펍 체인이다. 2007년 James Watt와 Martin Dickie가 설립했으며 영국에서 일곱 번째로 큰 맥주 브랜드이다.",
+  "summary": "브루독(BrewDog)은 스코틀랜드 엘런에 본사를 둔 다국적 양조장 및 펍 체인이다. 2007년 James Watt와 Martin Dickie가 설립했으며 영국에서 일곱 번째로 큰 맥주 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "크래프트 맥주 양조장과 펍 체인을 겸하며, 전통 광고 대신 도발적인 캠페인과 홍보 이벤트로 주목을 얻어 온 스코틀랜드 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "브루독은 스코틀랜드 엘런에 본사를 둔 다국적 양조장 및 펍 체인이다. 생산량이 1억 리터(2억 파인트)를 넘으며, 영국에서 일곱 번째로 큰 맥주 브랜드이다. 스스로를 '유럽 1위 크래프트 양조사(#1 Craft Brewer in Europe)'라고 주장한다. 2023년 기준 57개국에서 판매되었고, 129개가 넘는 바에서 맥주를 팔며 국제적으로 폭넓게 유통되었다. 설립 이후 빌보드나 신문 지면 같은 전통적인 광고에는 투자하지 않고, 의도적으로 도발적인 캠페인과 논란, 홍보 이벤트로 무료 언론 보도를 만들어내는 전략을 택했다. 2026년 3월에는 영국과 아일랜드 사업이 미국 회사 Tilray에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "브루독은 2007년 스코틀랜드 Fraserburgh에서 James Watt와 Martin Dickie가 설립했다. Dickie는 이전에 Thornbridge Brewery에서 일하며 대표 맥주 Jaipur 개발에 참여했다. 2009년 인근 애버딘에서 첫 바를 매입했다. 2011년에는 자본의 8%에 해당하는 £2 million 규모의 크라우드펀딩 주식을 £23.75에 판매했고, 구매자에게 바 할인과 온라인 맥주 구매 혜택을 제공했다. 주 양조는 2012년 엘런으로 옮겨졌고, 2013년 1월 엘런 외곽에 £7.8 million을 들인 새 양조장을 열었으며, 2014년 Fraserburgh 운영을 종료했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "브루독은 맥주 양조와 바·펍 운영을 함께 하는 사업 구성을 갖고 있다. 2018년 말 기준 회사와 프랜차이즈 가맹점이 전 세계에서 78개 바를 운영했다. 2016년에는 엘런 증류소를 £5 million을 들여 확장하며 새 양조 설비를 더했고, 맥주 레시피를 대중에게 공개했다. 2022년 12월에는 싱글 몰트와 싱글 그레인 위스키의 첫 50개 캐스크를 경매에 내놓았다. 2020년 런던 Shoreditch에 연 무알코올 바 BrewDog AF는 2022년 문을 닫았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 5월 James Watt가 17년간 맡은 CEO에서 물러나 비상임 직책 'Captain and Co-Founder'를 맡았고 지분은 유지했다. 2025년 3월 James Taylor가 CEO, Lauren Carrol이 COO로 임명되었다. 2025년 6월에는 2021년 이후 처음으로 흑자 전환을 보고했으며, 조정 세전이익은 £7.5 million이었다. 2026년 3월 영국과 아일랜드 사업은 Tilray에 인수되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "크래프트 맥주 양조장과 펍 체인을 겸하며, 전통 광고 대신 도발적인 캠페인과 홍보 이벤트로 주목을 얻어 온 스코틀랜드 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brewdog.com",
+  "entityLinks": {
+   "wikidata": "Q911367",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q911367",
+    "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A3%A8%EB%8F%85",
+    "https://en.wikipedia.org/wiki/BrewDog"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q911367",
+   "country": "영국",
+   "inception": "2007",
+   "headquarters": "엘런",
+   "founders": [
+    "James Watt"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「BrewDog」 본문과 위키데이터 Q911367 팩트를 근거로 편집"
+ }
+}

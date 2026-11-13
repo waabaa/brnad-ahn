@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3977895",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/innis-gunn-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "innis-gunn",
+  "urlSlug": "innis-gunn",
+  "name": "Innis & Gunn",
+  "nameKo": "",
+  "nameEn": "Innis & Gunn",
+  "definition": "Innis & Gunn은 영국 스코틀랜드 에든버러에 본사를 둔 양조회사이다. 브루어 Dougal Gunn Sharp가 설립했으며, 버번 캐스크로 숙성하는 에일 The Original을 대표 제품으로 한다.",
+  "summary": "Innis & Gunn은 영국 스코틀랜드 에든버러에 본사를 둔 양조회사이다. 브루어 Dougal Gunn Sharp가 설립했으며, 버번 캐스크로 숙성하는 에일 The Original을 대표 제품으로 한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "버번 캐스크 숙성 에일 The Original로 알려진 스코틀랜드 양조회사로, 양조장과 함께 탭룸을 운영했다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Innis & Gunn은 영국 스코틀랜드의 에든버러를 기반으로 하는 양조회사이다. 대표 제품은 버번 캐스크로 숙성하는 에일 The Original이며, 병과 캔, 생맥주 형태로 판매된다. 2014년부터 글래스고의 Tennent's Wellpark Brewery에서 위탁 양조를 해 왔고 35개 이상의 국가로 수출되었다. 2017년에는 35개 이상의 국가에서 2.5 million 케이스의 맥주를 판매했다. 에든버러, 던디, 글래스고에서 탭룸을 운영하며 크래프트 맥주와 계절 음식을 선보였다. 2026년 3월 관리 절차(administration)에 들어갔으며, 브랜드와 지식재산권은 Tennent's의 소유주인 C&C Group이 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Innis & Gunn은 브루어 Dougal Gunn Sharp가 설립했다. 설립자 Dougal Sharp는 1972년 6월 애버딘에서 태어나 Elgin, Moray에서 자랐고 14세에 에든버러로 이주했다. 회사 이름은 Sharp와 그의 형제의 중간 이름에서 유래했다. Sharp는 에든버러의 Caledonian Brewery에서 주류업 경력을 시작했으며, 그의 아버지는 1987년 이 회사의 경영진 인수를 이끌었다. 2015년 여름 에든버러에 첫 탭룸을 열었고, 이 탭룸은 2016년 UK Casual Dining Concept Award를 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 The Original로, 버번 캐스크와 버번을 입힌 심재(heartwood)를 특수 장치 Oakerators에서 사용해 숙성하며 알코올 도수는 6.6%이다. 처음에는 병맥주로만 판매되었으나 현재는 병, 캔, 생맥주로 판매된다. Blood Red Sky는 자메이카 럼 배럴로 숙성한 6.8% ABV의 레드 비어이다. Gunnpowder IPA는 5.6% ABV, Lager Beer는 4.6% ABV이다. Ossian Golden Ale은 Inveralmond Brewery에서 양조하며 Champion Beer of Scotland를 수상했고 4.1% ABV이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 말 크라우드펀딩으로 £2.4 million을 모금했으며, 72시간 안에 목표액인 £1 million을 넘어섰다. 이 자금으로 퍼스의 Inveralmond Brewery를 인수했다. 2026년 3월 관리 절차에 들어가 브랜드와 지식재산권은 Tennent's의 소유주 C&C Group이 인수했고, 퍼스 양조장과 모든 탭룸이 폐쇄되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "버번 캐스크 숙성 에일 The Original로 알려진 스코틀랜드 양조회사로, 양조장과 함께 탭룸을 운영했다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.innisandgunn.com/",
+  "entityLinks": {
+   "wikidata": "Q3977895",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3977895",
+    "https://en.wikipedia.org/wiki/Innis_%26_Gunn"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3977895",
+   "country": "영국",
+   "inception": "2002",
+   "headquarters": "에든버러",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Innis & Gunn」 본문과 위키데이터 Q3977895 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

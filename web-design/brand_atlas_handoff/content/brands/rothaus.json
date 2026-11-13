@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q448720",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/rothaus-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rothaus",
+  "urlSlug": "rothaus",
+  "name": "Rothaus",
+  "nameKo": "",
+  "nameEn": "Rothaus",
+  "definition": "Rothaus는 독일 바덴뷔르템베르크주가 소유한 양조장이다. 슈바르츠발트 남부의 Grafenhausen 마을 북쪽 끝에 있으며, 독일에서 성공적이고 수익성 높은 지역 양조장의 하나로 꼽힌다.",
+  "summary": "Rothaus는 독일 바덴뷔르템베르크주가 소유한 양조장이다. 슈바르츠발트 남부의 Grafenhausen 마을 북쪽 끝에 있으며, 독일에서 성공적이고 수익성 높은 지역 양조장의 하나로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "수도원에서 출발해 대공국 소유와 주 소유를 거쳐 이어져 온, 슈바르츠발트 남부의 주 소유 지역 양조장이라는 점이 이 브랜드를 구분 짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장의 정식 명칭은 Badische Staatsbrauerei Rothaus이며, 본사는 슈바르츠발트 남부의 Grafenhausen에 있다. 1791년에 맥주 양조를 시작했고 지금은 주(州)가 소유한 기업으로 운영된다. 1922년부터 법적 형태는 주식회사이며, 주식은 바덴뷔르템베르크주와 관련된 회사가 보유한다. 2006 회계연도에는 937,000헥토리터를 생산해 주 안에서 Eichbaum에 이어 두 번째로 큰 양조장이었다. 판매량의 약 90퍼센트는 바덴뷔르템베르크주에서 이루어진다. 2011년 기준으로 본사와 판매사무소 두 곳에서 232명이 일했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이름은 1300년경 Klettgau 지역에서 Grafenhausen으로 이주해 정착한 귀족 가문 Roth에서 유래했다. 이 가문은 1340년 'Rothe Haus'(붉은 집)라는 저택을 짓기 시작했고, 1660년 이 집은 Michael Kaiser에게 팔려 여관이 되었다. 약 100년 뒤 St. Blasien 베네딕트 수도원이 건물을 사들여 재건했다. 수도원장 Martin Gerbert 아래에서 수도사 회의는 1790년 말 1791년 1월부터 양조를 시도하기로 결정했다. 1806년 세속화로 수도원의 재산이 Baden 대공국으로 넘어가면서 양조장도 대공국 소유가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 맥주 양조이며, 양조용수는 지금도 사내 우물 7곳에서 얻는다. 연간 생산 능력은 1990년대에 100만 헥토리터까지 늘었다. 1992년에는 콘스탄츠의 Dominican Island와 그 위의 섬 리조트를 인수했고, 이 리조트는 Steigenberger Hotel Group에 임대되어 있다. 2007년 말에는 양조장 옆 호텔을 인수해 팬 숍을 열었다. 약 1헥타르 부지에는 2008년 개장한 Zäpfleweg가 있는 작은 어드벤처 파크와 놀이터가 조성되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사는 주식회사 형태이며 주식은 바덴뷔르템베르크주의 관련 회사가 보유한다. 2012년 9월 5일 전 주 재무장관 Gerhard Stratthaus가 경영을 맡았고, 2013년 7월 1일부터는 Christian Rasch가 경영을 맡았다. Rasch는 수십 년 만에 나온 비정치인 출신 경영자이며, 농업부 장관 Alexander Bonde가 이 자리의 첫 채용 공고를 냈다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수도원에서 출발해 대공국 소유와 주 소유를 거쳐 이어져 온, 슈바르츠발트 남부의 주 소유 지역 양조장이라는 점이 이 브랜드를 구분 짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rothaus.de/",
+  "entityLinks": {
+   "wikidata": "Q448720",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q448720",
+    "https://en.wikipedia.org/wiki/Rothaus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q448720",
+   "country": "독일",
+   "inception": "1791",
+   "headquarters": "Grafenhausen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Rothaus」 본문과 위키데이터 Q448720 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

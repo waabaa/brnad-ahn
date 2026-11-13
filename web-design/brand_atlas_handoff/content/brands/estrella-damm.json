@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1370611",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "estrella-damm",
+  "urlSlug": "estrella-damm",
+  "name": "에스트렐라 담",
+  "nameKo": "에스트렐라 담",
+  "nameEn": "Estrella Damm",
+  "definition": "에스트렐라 담(Estrella Damm)은 스페인 바르셀로나에서 1876년부터 이어진 라거 맥주이다. S.A. Damm의 대표 맥주이며 카탈루냐에서 가장 오래된 브랜드이다.",
+  "summary": "에스트렐라 담(Estrella Damm)은 스페인 바르셀로나에서 1876년부터 이어진 라거 맥주이다. S.A. Damm의 대표 맥주이며 카탈루냐에서 가장 오래된 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "지중해의 기후와 입맛에 맞춘 가벼운 라거로, 카탈루냐에서 가장 오래된 브랜드이다. 다섯 꼭짓점의 별 상징이 곧 이름이 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에스트렐라 담은 스페인 카탈루냐의 바르셀로나와 영국 베드퍼드에서 양조하는 라거 맥주이다. 1876년에 시작되었으며 바르셀로나의 대표 양조장 S.A. Damm의 주력 맥주이다. 이름의 에스트렐라는 카탈루냐어와 스페인어로 별을 뜻한다. 아일랜드, 헝가리, 호주, 브라질, 캐나다, 그리스, 노르웨이, 폴란드, 포르투갈, 핀란드, 스웨덴, 대한민국, 대만 등 여러 나라에서 판매된다. 2009년에는 El Bulli Restaurant의 셰프와 소믈리에가 에스트렐라 담을 위해 라거와 밀맥주 스타일을 섞은 고급 병맥주 Inedit를 만들었다. 2026년에는 Estrella Dorada가 Guild of Fine Food의 Great Taste Awards에서 영국 밖에서 양조된 맥주로는 유일하게 별 세 개를 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1876년 알자스 출신의 8월 Küntzmann Damm과 사촌 Joseph Damm이 바르셀로나에서 시작했다. 두 사람은 프랑스-프로이센 전쟁의 여파를 피해 이 도시에 왔으며, Damm Corporation을 세우고 양조장을 열었다. 이들은 중부 유럽보다 가볍고 지중해의 기후와 입맛에 맞춘 라거를 만들었고, 이는 지중해 라거 맥주로 알려졌다. 처음에는 Strasburger Bier라는 이름으로 판매되었으나, 다섯 꼭짓점의 붉은 별 상징 덕분에 사람들이 '별이 있는 것'이라 부를 만큼 알려졌다. 1905년 생산량이 늘자 바르셀로나 도심의 Carrer Rosselló에 새 공장을 열었고, 1907년에는 로마, 런던, 앤트워프, 파리, 제노바의 박람회에서 국제적 평가를 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 에스트렐라 담은 바르셀로나와 영국 베드퍼드에서 양조된다. 아일랜드, 호주, 브라질, 캐나다, 대한민국, 대만 등 여러 나라에서 판매되며, 영국에서는 4.6% 버전으로 나온다. 1991년 Estrella Dorada에서 지금의 이름 에스트렐라 담으로 바뀌었고, 별의 금색은 유지하면서 원래 별의 붉은색을 브랜드의 상징색으로 되찾았다. 2026년에는 Great Taste Awards에서 별 세 개를 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지중해의 기후와 입맛에 맞춘 가벼운 라거로, 카탈루냐에서 가장 오래된 브랜드이다. 다섯 꼭짓점의 별 상징이 곧 이름이 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.estrelladamm.com/",
+  "entityLinks": {
+   "wikidata": "Q1370611",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1370611",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A0%90%EB%9D%BC_%EB%8B%B4",
+    "https://en.wikipedia.org/wiki/Estrella_Damm"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1370611",
+   "country": "스페인",
+   "inception": "1876",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Estrella Damm」 본문과 위키데이터 Q1370611 팩트를 근거로 편집"
+ }
+}

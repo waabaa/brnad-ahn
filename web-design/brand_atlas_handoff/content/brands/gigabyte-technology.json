@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q697675",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/gigabyte-technology-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gigabyte-technology",
+  "urlSlug": "gigabyte-technology",
+  "name": "기가바이트 테크놀로지",
+  "nameKo": "기가바이트 테크놀로지",
+  "nameEn": "Gigabyte Technology",
+  "definition": "기가바이트 테크놀로지(Gigabyte Technology)는 대만의 컴퓨터 하드웨어 제조사이자 유통사이다. 메인보드를 주력 사업으로 하며 그래픽 카드와 노트북 컴퓨터도 제조한다.",
+  "summary": "기가바이트 테크놀로지(Gigabyte Technology)는 대만의 컴퓨터 하드웨어 제조사이자 유통사이다. 메인보드를 주력 사업으로 하며 그래픽 카드와 노트북 컴퓨터도 제조한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "메인보드를 중심으로 그래픽 카드와 노트북까지 제조하는 대만의 컴퓨터 하드웨어 업체이다. 게이밍 하위 브랜드 Aorus를 두고 있으며 모든 메인보드에 Dual BIOS 기술을 사용한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "기가바이트 테크놀로지는 대만의 컴퓨터 하드웨어 제조사이자 유통사이며, 간단히 기가바이트로도 불린다. 주 사업 분야는 메인보드이고, 맞춤형 그래픽 카드와 노트북 컴퓨터도 제조하며 노트북에는 하위 브랜드 에어로(Aero)의 얇고 가벼운 제품이 포함된다. 2015년 1분기에 480만 개의 메인보드를 출하하여 메인보드 공급업체 중 선두를 차지했다. 2010년에는 대만 무역 진흥회가 선정한 '대만의 상위 20대 글로벌 브랜드' 중 17위를 기록했다. 상장 회사이며 타이완 증권거래소에서 주식 ID 번호 2376으로 거래된다. Aorus는 싱가포르에 등록된 Aorus Pte. Ltd. 소속의 등록 상표로, 게이밍 관련 제품에 특화되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기가바이트 테크놀로지는 1986년 예페이청(葉培城)에 의해 설립되었다. 2006년 8월 8일 ASUS와의 합작 투자를 발표했고, 2007년 7월에는 세계 최초의 소프트웨어 제어 파워서플라이를 개발했다. 2010년 4월에는 컴퓨터에서 iPad와 iPhone을 충전하는 방법을 도입했다. 2011년 5월 31일에는 Intel SSD 및 Smart Response 기술을 위한 온보드 mSATA 연결을 갖춘 세계 최초의 Z68 메인보드를 출시했다. 2012년 4월 2일에는 International Rectifier의 60A IC를 탑재한 세계 최초의 메인보드를 출시했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기가바이트는 AMD와 Intel 플랫폼 모두를 위한 메인보드를 설계 및 제조하며, AMD 및 NVIDIA와 협력하여 그래픽 카드와 노트북을 생산한다. 여기에는 NVIDIA의 Turing 칩셋과 AMD의 Vega 및 Polaris 칩셋이 포함된다. 그 밖의 제품으로는 데스크톱 컴퓨터, 태블릿 컴퓨터, 울트라북, 휴대 전화, 개인정보 단말기, 서버 메인보드, 서버 랙, 네트워킹 장비, 광학 드라이브, 모니터, 마우스, 키보드, 냉각 부품, 파워서플라이, 케이스 등이 있다. 메인보드의 주요 광고 기능 중 하나는 '모든 솔리드 캐패시터'를 사용한 'Ultra Durable' 구조이다. 모든 메인보드에는 메인 BIOS와 백업 BIOS로 구성된 Dual BIOS 기술이 사용된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "기가바이트 테크놀로지는 타이완 증권거래소에 상장된 회사이다. 2023년 펌웨어 보안 회사 Eclypsium의 연구원들은 271개 모델의 기가바이트 메인보드가 백도어 취약점에 영향을 받는다고 밝혔다. 해당 메인보드가 장착된 컴퓨터는 다시 시작할 때마다 펌웨어 내의 코드가 업데이터 프로그램을 시작하여 다른 소프트웨어를 다운로드하고 실행한다. 기가바이트는 이 문제를 해결할 계획이라고 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "메인보드를 중심으로 그래픽 카드와 노트북까지 제조하는 대만의 컴퓨터 하드웨어 업체이다. 게이밍 하위 브랜드 Aorus를 두고 있으며 모든 메인보드에 Dual BIOS 기술을 사용한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.gigabyte.com/",
+  "entityLinks": {
+   "wikidata": "Q697675",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q697675",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B0%80%EB%B0%94%EC%9D%B4%ED%8A%B8_%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Gigabyte_Technology"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q697675",
+   "country": "중화민국",
+   "inception": "1986",
+   "headquarters": "신뎬구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「기가바이트 테크놀로지」 요약과 위키데이터 Q697675 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

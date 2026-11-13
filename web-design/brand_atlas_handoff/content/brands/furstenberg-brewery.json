@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1483584",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "furstenberg-brewery",
+  "urlSlug": "furstenberg-brewery",
+  "name": "Fürstenberg Brewery",
+  "nameKo": "",
+  "nameEn": "Fürstenberg Brewery",
+  "definition": "Fürstenberg Brewery는 독일 도나우에싱겐에 있는 양조장이다. 필스너, 엑스포트, 밀맥주 등을 생산하며 2005년부터 Brau Holding International의 자회사이다.",
+  "summary": "Fürstenberg Brewery는 독일 도나우에싱겐에 있는 양조장이다. 필스너, 엑스포트, 밀맥주 등을 생산하며 2005년부터 Brau Holding International의 자회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "독일 귀족 가문 House of Fürstenberg가 1283년에 양조 권리를 받은 데서 이어지는 도나우에싱겐의 양조장으로, 현재는 Heineken과 Schörghuber 합작사 산하에 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 도나우에싱겐에 본사를 둔 맥주 회사이다. 필스너, 엑스포트, 밀맥주 등을 생산하며 주로 독일 남부 지역에 공급한다. 2005년 이전에는 독일 귀족 가문인 House of Fürstenberg가 소유했고, 현재는 Brau Holding International의 자회사이다. Brau Holding International은 Heineken과 Schörghuber의 합작 회사이며, 이 양조장을 독립적인 완전 자회사로 운영하려는 의도를 가지고 있다. 19세기에 독일에 새로 놓인 철도를 이용해 수출하며 장거리 유통을 일찍 도입했다. 매년 늦겨울에는 슈바벤-알레만 지역의 Fastnacht를 위한 계절 맥주 Fasnet을 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "House of Fürstenberg의 백작(이후 제후)들은 1283년 처음 양조 권리를 받았다. 18세기에 Fürstenberg-Heiligenberg의 제후 Anton Egon이 오늘날의 도나우에싱겐 부지에 대규모 양조장 건설을 시작하면서 대형 양조장으로의 전환이 시작되었다. 19세기에는 독일에 새로 만들어진 철도를 통해 맥주를 수출하며 성장했고, 장거리 유통을 일찍 도입했다. 1895년에는 필스너 스타일의 맥주를 만들기 시작했다. Wilhelm II는 Fürstenberg Pilsner를 자신의 식탁용 음료로 지정하며 왕실 납품 허가를 내렸다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년부터 Heineken과 Schörghuber의 합작 회사인 Brau Holding International이 이 브랜드를 소유한다. 그 이전에는 독일 귀족 가문인 House of Fürstenberg가 소유했다. 독립적인 완전 자회사로 운영하는 것을 의도하고 있으며, 본사는 도나우에싱겐이다. 제품은 주로 독일 남부 시장에 공급한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 귀족 가문 House of Fürstenberg가 1283년에 양조 권리를 받은 데서 이어지는 도나우에싱겐의 양조장으로, 현재는 Heineken과 Schörghuber 합작사 산하에 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fuerstenberg.de",
+  "entityLinks": {
+   "wikidata": "Q1483584",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1483584",
+    "https://en.wikipedia.org/wiki/F%C3%BCrstenberg_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1483584",
+   "country": "독일",
+   "inception": "1283",
+   "headquarters": "도나우에싱겐",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Fürstenberg Brewery」 본문과 위키데이터 Q1483584 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q502935",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/micro-star-international-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "micro-star-international",
+  "urlSlug": "micro-star-international",
+  "name": "마이크로-스타 인터내셔널",
+  "nameKo": "마이크로-스타 인터내셔널",
+  "nameEn": "Micro-Star International",
+  "definition": "마이크로-스타 인터내셔널(Micro-Star International)은 대만 신베이시 중허구에 본사를 둔 다국적 정보 기술 기업이다. 노트북, 메인보드, 그래픽 카드 등 컴퓨터 하드웨어를 설계, 개발하여 제공한다.",
+  "summary": "마이크로-스타 인터내셔널(Micro-Star International)은 대만 신베이시 중허구에 본사를 둔 다국적 정보 기술 기업이다. 노트북, 메인보드, 그래픽 카드 등 컴퓨터 하드웨어를 설계, 개발하여 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "컴퓨터 메인보드와 그래픽 카드로 명성을 쌓은 대만 기업으로, GAMING 시리즈와 e스포츠 후원을 통해 게이밍 하드웨어 사업을 펼친다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마이크로-스타 인터내셔널은 MSI라는 약칭으로 알려진 대만의 정보 기술 기업으로, 컴퓨터 하드웨어와 관련 제품 및 서비스를 설계, 개발하여 제공한다. 노트북, 데스크톱, 메인보드, 그래픽 카드, 올인원 PC, 서버와 워크스테이션, 산업용 컴퓨터, PC 주변기기, 자동차 인포테인먼트 제품이 주요 영역이다. 회사는 대만 증권거래소에 상장되어 있으며 본사는 신베이시 중허구에 있다. 미주, 유럽, 아시아, 호주 및 남아프리카에 지사를 두고 있으며, 2015년 기준으로 120개국 이상에서 글로벌 입지를 확보하고 있다. 게이머와 콘텐츠 크리에이터를 위한 제품에 주력하며 e스포츠 팀 후원과 국제 게임 이벤트 개최도 한다. 토폴로지 리서치 인스티튜트(Topology Research Institute)에 따르면 MSI는 2016년 전 세계 최대 게이밍 노트북 공급업체였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "마이크로-스타 인터내셔널은 1986년 8월 4일 조셉 쉬, 진스 황, 프랭크 린, 케니 유, 헨리 루 다섯 명의 창립자에 의해 설립되었다. MSI는 대만 신베이시에서 처음 사업을 시작했고, 이후 중국으로 확장하여 2000년 선전에 바오안구 공장을, 2001년 쿤산시에 연구개발 시설을 설립했다. 처음에는 대만 공장에서 제조가 이루어졌으나 다른 곳으로 이전되었으며, 현재 많은 MSI 그래픽 카드는 중국 본토의 공장에서 제조된다. 2008년에는 자회사 펀토로를 설립해 차량용 인포테인먼트 시장에 나섰고, 같은 해 프나틱을 후원하며 PC 게임 시장에 진출했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "회사는 컴퓨터 메인보드와 그래픽 카드 개발 및 제조로 명성을 쌓았다. 게이머와 콘텐츠 크리에이터를 위한 노트북, 데스크톱, 모니터, 메인보드, 그래픽 카드, 전원 공급 장치, 컴퓨터 케이스, 수랭 쿨러를 제공한다. 이 밖에 올인원 PC, 모바일 워크스테이션, 서버, IPC, 멀티미디어 주변 기기, 차량용 인포테인먼트, 자율 이동 로봇도 제품군에 포함된다. 2000년 첫 셋톱 박스 제품(MS-5205), 2003년 첫 펜 태블릿 PC 제품(PenNote3100), 2004년 첫 노트북 제품(M510C)을 출시했고, 2009년에는 첫 울트라 슬림 노트북(X320)과 첫 올인원 PC(AP1900)를 내놓았다. GAMING 시리즈는 게이머와 파워 유저를 위해 설계된 제품군이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사는 대만 증권거래소에 상장되어 있으며, 진스 황이 2020년 7월 8일부터 CEO를 맡고 있다. 2025년 1월 10일에는 시르마 SGS와 첸나이에서 노트북을 제조하기 위한 협력을 발표했고, 기술 이전을 통해 인도 현지 생산을 지원할 예정이다. 2024 타이베이 오토쇼에서는 새로운 스마트 전기차(EV) 충전기 라인업을 공개했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "컴퓨터 메인보드와 그래픽 카드로 명성을 쌓은 대만 기업으로, GAMING 시리즈와 e스포츠 후원을 통해 게이밍 하드웨어 사업을 펼친다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.msi.com/",
+  "entityLinks": {
+   "wikidata": "Q502935",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q502935",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%8A%A4%ED%83%80_%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90",
+    "https://en.wikipedia.org/wiki/Micro-Star_International"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q502935",
+   "country": "중화민국",
+   "inception": "1986",
+   "headquarters": "중허구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「마이크로-스타 인터내셔널」 요약과 위키데이터 Q502935 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

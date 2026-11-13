@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q13861230",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/haandbryggeriet-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "haandbryggeriet",
+  "urlSlug": "haandbryggeriet",
+  "name": "Haandbryggeriet",
+  "nameKo": "",
+  "nameEn": "Haandbryggeriet",
+  "definition": "Haandbryggeriet은 2005년 노르웨이 드람멘에서 설립된 양조장이다. 여과·저온살균·인공 탄산 주입을 하지 않은 맥주를 만들어 리얼 에일에 해당한다.",
+  "summary": "Haandbryggeriet은 2005년 노르웨이 드람멘에서 설립된 양조장이다. 여과·저온살균·인공 탄산 주입을 하지 않은 맥주를 만들어 리얼 에일에 해당한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "여과·저온살균·인공 탄산 주입을 하지 않은 리얼 에일을 만드는 노르웨이 양조장으로, 해외 소규모 양조장의 특수 맥주도 수입한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 노르웨이 드람멘에 기반을 둔 맥주 제조업체이며, 2005년에 설립되었다. 만드는 맥주는 여과, 저온살균, 인공 탄산 주입을 거치지 않으며, 이 때문에 리얼 에일의 요건을 충족한다. 생산한 맥주 가운데 여러 종류는 노르웨이 국내에서 Vinmonopolet과 식료품점을 통해 구할 수 있다. 수출 비중도 커서 특히 미국으로 많은 맥주를 내보낸다. Brouwerij De Molen, De Dolle Brouwers, Jolly Pumpkin, Southern Tier 같이 해외에서 높이 평가받는 소규모 양조장의 특수 맥주를 수입하는 사업도 시작했다. 설립 이후 양조 설비를 여러 차례 키우며 생산 규모를 넓혀 온 점도 이 양조장의 특징이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2005년 Jens Maudal, Rune Eriksen, Arne Eide, Egil Hilde가 노르웨이에서 이 양조장을 설립했다. 처음에는 드람멘의 낡은 섬유 공장 부지에 자리 잡았고, 이후 철도 조차장을 거쳐 지금은 오래된 산업용 건물에 있다. 양조 설비는 영국에서 중고로 사들였으며 한 번에 약 900리터를 만들 수 있었고, 2006년 생산량은 40,000리터에 가까웠다. 2012년에는 800리터 설비로 약 350,000리터를 생산할 것으로 예상되었다. 2013년에는 5,000리터 양조 탱크로 설비를 다시 키웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "여러 종류의 맥주를 생산하며, 대부분은 노르웨이 국내에서 Vinmonopolet과 식료품점을 통해 판매된다. 맥주는 여과나 저온살균, 인공 탄산 주입을 하지 않은 상태로 만들어지며, 이 때문에 리얼 에일의 요건을 충족한다. 생산량 가운데 상당 부분을 수출하며, 특히 미국 시장으로 많이 내보낸다. 자체 양조 맥주 외에도 해외에서 높이 평가받는 소규모 양조장의 특수 맥주를 수입해 취급하기 시작했다. 수입 대상에는 Brouwerij De Molen, De Dolle Brouwers, Jolly Pumpkin, Southern Tier가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 양조장은 오래된 산업용 건물에 자리 잡고 있다. 2012년 생산량은 약 350,000리터로 예상되었고, 2013년에는 5,000리터 양조 탱크로 설비를 다시 확장했다. 노르웨이 국내 유통과 수출을 병행하며, Brouwerij De Molen 등 해외 소규모 양조장의 특수 맥주를 수입하는 사업도 시작했다. 이 양조장의 맥주는 리얼 에일로 분류된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여과·저온살균·인공 탄산 주입을 하지 않은 리얼 에일을 만드는 노르웨이 양조장으로, 해외 소규모 양조장의 특수 맥주도 수입한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://haandbryggeriet.no/",
+  "entityLinks": {
+   "wikidata": "Q13861230",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13861230",
+    "https://en.wikipedia.org/wiki/Haandbryggeriet"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q13861230",
+   "country": "노르웨이",
+   "inception": "2005",
+   "headquarters": "드람멘",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Haandbryggeriet」 본문과 위키데이터 Q13861230 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

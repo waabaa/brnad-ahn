@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3024535",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "desnoes-geddes",
+  "urlSlug": "desnoes-geddes",
+  "name": "Desnoes & Geddes",
+  "nameKo": "",
+  "nameEn": "Desnoes & Geddes",
+  "definition": "Desnoes & Geddes는 자메이카의 양조·음료 생산 기업으로, 라거 맥주 Red Stripe로 가장 잘 알려져 있다. 1918년 설립되었고 본사는 킹스턴에 있다.",
+  "summary": "Desnoes & Geddes는 자메이카의 양조·음료 생산 기업으로, 라거 맥주 Red Stripe로 가장 잘 알려져 있다. 1918년 설립되었고 본사는 킹스턴에 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "자메이카를 대표하는 수출 맥주 Red Stripe를 생산하며, 현지에서는 자사 상표 외에 Smirnoff Ice, Guinness, Heineken 상표 음료도 양조하는 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Desnoes & Geddes는 자메이카의 양조·음료 기업이다. 킹스턴에 본사를 두고 있다. 자메이카를 대표하는 수출품 가운데 하나인 Red Stripe 맥주를 생산하며 Old Jamaica Ginger Beer도 수출한다. 현지 시장용으로는 Red Stripe Light, Dragon Stout, Malta, Smirnoff Ice, Guinness, Heineken 등의 상표로 맥아 음료를 양조한다. Malta는 무알코올 제품이다. Dragon Stout와 Red Stripe는 책 1001 Beers You Must Try Before You Die에 실렸다. 과거에는 청량음료도 만들었으나 1999년에 해당 사업부를 PepsiCo에 매각했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1918년 Eugene Peter Desnoes와 Thomas Hargreaves Geddes가 각자 운영하던 두 가게를 하나의 사업으로 합쳐 회사를 세웠다. 초기에는 청량음료를 생산하고 수입 주류를 유통했다. 이후 킹스턴에 Surrey Brewery라는 양조장을 열었다. 스타우트 맥주인 Dragon Stout는 1920년에 처음 출시되었고 1961년에 재출시되었다. 1993년부터 2015년 가을까지는 Guinness와 Smirnoff의 소유주인 Diageo가 지배 지분을 보유했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 라거 맥주 Red Stripe이며 Old Jamaica Ginger Beer도 수출한다. 현지 시장에는 Red Stripe Light, Dragon Stout, 무알코올 Malta, Smirnoff Ice, Guinness, Heineken 상표의 맥아 음료를 공급한다. Dragon Stout는 유럽 맥아, 캐러멜 맥아, 볶은 맥아와 흑설탕으로 양조하며 알코올 도수는 7.5%이다. 과거에는 Ting 등 청량음료도 만들었으나 1999년에 해당 사업부를 PepsiCo에 매각했다. 같은 해 주류·와인 사업부는 J. Wray and Nephew Ltd에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "주식은 일부만 공개 거래된다. 1993년부터 2015년 가을까지 Guinness와 Smirnoff의 소유주인 Diageo가 지배 지분을 보유했다. 2015년 10월 네덜란드 양조업체 Heineken이 Diageo의 지분을 인수해 지분율이 73.3%가 되었다. Heineken은 보유하지 않은 나머지 주식에 대해 전체 인수 제안을 내겠다고 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자메이카를 대표하는 수출 맥주 Red Stripe를 생산하며, 현지에서는 자사 상표 외에 Smirnoff Ice, Guinness, Heineken 상표 음료도 양조하는 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.redstripebeer.com/",
+  "entityLinks": {
+   "wikidata": "Q3024535",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3024535",
+    "https://en.wikipedia.org/wiki/Desnoes_%26_Geddes"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3024535",
+   "country": "자메이카",
+   "inception": "1918",
+   "headquarters": "킹스턴",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Desnoes & Geddes」 본문과 위키데이터 Q3024535 팩트를 근거로 편집"
+ }
+}

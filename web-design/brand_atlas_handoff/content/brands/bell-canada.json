@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q815694",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/bell-canada-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bell-canada",
+  "urlSlug": "bell-canada",
+  "name": "벨 캐나다",
+  "nameKo": "벨 캐나다",
+  "nameEn": "Bell Canada",
+  "definition": "벨 캐나다(Bell Canada)는 퀘벡 몬트리올에 본사를 둔 캐나다의 통신 및 미디어 회사이다. 1880년에 설립되었으며 모기업은 BCE Inc.이고, Bell Aliant, Northwestel, Télébec, NorthernTel을 자회사로 둔다.",
+  "summary": "벨 캐나다(Bell Canada)는 퀘벡 몬트리올에 본사를 둔 캐나다의 통신 및 미디어 회사이다. 1880년에 설립되었으며 모기업은 BCE Inc.이고, Bell Aliant, Northwestel, Télébec, NorthernTel을 자회사로 둔다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "Bell System의 캐나다 자회사로 운영되었으면서도 다른 지역 벨 기업들과 달리 자체 연구 및 개발 연구소를 갖춘 캐나다의 통신 및 미디어 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벨 캐나다는 캐나다의 통신 및 미디어 회사로, 본사는 퀘벡 몬트리올에 있다. 표준 음성 서비스와 VoIP 기반의 디지털 음성, 위성 텔레비전 서비스인 Bell TV, DSL 방식의 고속 인터넷 서비스인 Bell Internet을 제공하며, 보이스메일 서비스도 선택 기능으로 제공한다. Bell Aliant, Northwestel, Télébec, NorthernTel을 자회사로 두고 있다. 역사적으로 캐나다에서 가장 중요하고 강력한 기업 가운데 하나로 꼽히며, 1975년에는 캐나다에서 다섯 번째로 큰 기업으로 등재되었다. 벨이 운영한 다른 지역 기업들과 달리 자체 연구 및 개발 연구소를 갖추고 있다. 모기업은 BCE Inc.이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "벨 캐나다는 1880년에 설립되었으며 창업자는 Charles Fleetford Sise이다. 회사 이름은 전화를 발명한 Alexander Graham Bell의 이름을 따서 지었으며, 그는 Bell Telephone Company를 공동 설립했다. 벨 캐나다는 1880년부터 1975년까지 Bell System의 캐나다 자회사로 운영되었다. 벨이 운영한 다른 지역 기업들과 달리 자체 연구 및 개발 연구소를 두었다. 역사적으로 캐나다의 가장 중요하고 강력한 기업 가운데 하나로 꼽히며, 1975년에는 캐나다에서 다섯 번째로 큰 기업으로 등재되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "벨 캐나다는 고객에게 표준 음성 서비스를 제공하고, 이와 별도로 \"디지털 음성\"이라는 이름으로 VoIP 서비스를 제공한다. Bell Home Phone과 Bell Mobility는 선택 기능으로 보이스메일 서비스를 제공한다. Bell TV는 이전 이름이 ExpressVu인 위성 텔레비전 서비스 제공자이다. Bell Internet은 전화 서비스를 이용할 수 있는 수많은 지역에 고속 DSL 인터넷 서비스를 제공한다. 이 서비스들은 음성, 보이스메일, 텔레비전, 인터넷 접속의 갈래로 구성된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "벨 캐나다의 모기업은 BCE Inc.이며, 본사는 퀘벡 몬트리올에 있다. Bell Aliant, Northwestel, Télébec, NorthernTel이 자회사로 속해 있다. 통신 및 미디어 회사로서 음성, 텔레비전, 인터넷 접속 서비스를 제공하며, 역사적으로 캐나다의 가장 중요한 기업 가운데 하나로 꼽혀 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Bell System의 캐나다 자회사로 운영되었으면서도 다른 지역 벨 기업들과 달리 자체 연구 및 개발 연구소를 갖춘 캐나다의 통신 및 미디어 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bell.ca/",
+  "entityLinks": {
+   "wikidata": "Q815694",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q815694",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A8_%EC%BA%90%EB%82%98%EB%8B%A4",
+    "https://en.wikipedia.org/wiki/Bell_Canada"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q815694",
+   "country": "캐나다",
+   "inception": "1880",
+   "headquarters": "일데쇠르섬",
+   "founders": [
+    "Charles Fleetford Sise"
+   ],
+   "parent": "BCE Inc.",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「벨 캐나다」 요약과 위키데이터 Q815694 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

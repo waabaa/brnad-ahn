@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q2527941",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/hisense-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hisense",
+  "urlSlug": "hisense",
+  "name": "하이센스",
+  "nameKo": "하이센스",
+  "nameEn": "Hisense",
+  "definition": "하이센스(Hisense)는 중화인민공화국 산둥성 칭다오에 본사를 둔 다국적 대형 가전·전자제품 제조업체이다. 텔레비전을 주력 제품으로 하며, 1969년 설립된 라디오 공장에서 출발했다.",
+  "summary": "하이센스(Hisense)는 중화인민공화국 산둥성 칭다오에 본사를 둔 다국적 대형 가전·전자제품 제조업체이다. 텔레비전을 주력 제품으로 하며, 1969년 설립된 라디오 공장에서 출발했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "보급형 TV를 중심으로 모든 가격대에 걸친 제품군을 갖추고, 2023년 기준 100인치 TV 출하량이 가장 많았던 중국의 가전·전자업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "하이센스는 대형 가전과 전자제품을 만드는 중국의 다국적 제조업체로, 본사는 산둥성 칭다오에 있다. 텔레비전이 주력 제품 가운데 하나이며, Counterpoint Research에 따르면 2026년 1분기 전 세계 텔레비전 출하량의 13%를 차지해 Samsung과 TCL의 뒤를 이었다. 핵심 사업은 보급형 TV이지만 모든 가격대의 제품을 내놓고 있으며, 2020년대 들어서는 대형 화면의 고급 모델도 공급한다. 2023년 기준 100인치 TV 출하량이 가장 많은 제조업체였다. 일부 제품은 하이센스가 아닌 다른 브랜드로 판매되는 OEM 방식으로도 생산한다. 그룹의 주요 자회사인 Hisense Visual Technology와 Hisense Home Appliances Group은 상장되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "하이센스의 전신인 Qingdao Number 2 Radio Factory는 1969년 9월 설립되었다. 이 공장은 Red Lantern 브랜드 등의 라디오를 만들다 흑백 텔레비전 시험 생산에 들어갔고, 1971년까지 82대의 텔레비전을 생산했다. 1979년 인근 공장 세 곳과 합병해 Qingdao General Television Factory가 되었으며, 1980년대에는 해외 제조업체의 기술과 장비를 들여와 텔레비전 생산을 확대했다. 1992년 Zhou Houjian이 텔레비전 공장의 책임자가 되었고 1994년 Hisense Group이 설립되었다. 1990년대에는 인수를 통해 1998년까지 부실 기업 열 곳을 넘겨받았고, 가전·컴퓨터·통신 분야로 사업을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "하이센스는 백색가전, 텔레비전, 셋톱박스, 디지털 TV 방송 장비, 휴대전화를 포함한 모바일 기기, 무선 모듈, 광학 부품, 데스크톱·노트북 PC, 프로젝터, 모니터, POS 솔루션을 제조한다. 2018년 첫 OLED 텔레비전을, 2021년 첫 8K 텔레비전을 출시했다. 2023년 기준 플래그십 TV 라인은 미니 LED 방식의 UX 시리즈이며 OLED 모델보다 상위에 놓인다. 모바일 분야에서는 Android 기반 스마트폰과 태블릿, e-ink 디스플레이를 단 스마트폰을 개발했고, Android를 맞춤화한 Vision도 만들었다. 판매 브랜드로는 Hisense, Toshiba, Gorenje, Sharp, Kelon, Hitachi, Asko 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Hisense Group의 주요 자회사 두 곳인 Hisense Visual Technology(SSE: 600060)와 Hisense Home Appliances Group(SEHK: 921, SZSE: 000921)이 상장되어 있다. 2026년 1분기 기준 전 세계 텔레비전 출하량의 13%를 차지해 Samsung과 TCL의 뒤를 이었다. 2017년 Toshiba Visual Solutions 지분 95% 인수에 합의했고, 2018년에는 슬로베니아 가전업체 Gorenje의 최대주주가 되어 지분을 약 95.4%까지 늘렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "보급형 TV를 중심으로 모든 가격대에 걸친 제품군을 갖추고, 2023년 기준 100인치 TV 출하량이 가장 많았던 중국의 가전·전자업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://global.hisense.com/",
+  "entityLinks": {
+   "wikidata": "Q2527941",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2527941",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%EC%84%BC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Hisense"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2527941",
+   "country": "중화인민공화국",
+   "inception": "1969",
+   "headquarters": "칭다오시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Hisense」 본문과 위키데이터 Q2527941 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

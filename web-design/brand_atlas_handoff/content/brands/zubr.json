@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q9397571",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "zubr",
+  "urlSlug": "zubr",
+  "name": "주브르",
+  "nameKo": "주브르",
+  "nameEn": "Żubr",
+  "definition": "주브르(Żubr)는 폴란드의 라거 맥주로, Kompania Piwowarska SA가 양조한다. 이전에는 양조장이 있는 지구 이름을 딴 Dojlidy라는 이름으로 불렸다.",
+  "summary": "주브르(Żubr)는 폴란드의 라거 맥주로, Kompania Piwowarska SA가 양조한다. 이전에는 양조장이 있는 지구 이름을 딴 Dojlidy라는 이름으로 불렸다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Białystok의 Dojlidy 양조장에서 1768년부터 이어진 폴란드 라거로, 녹색 포장과 유럽 들소 로고로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "주브르는 폴란드의 라거 맥주로, Kompania Piwowarska SA가 양조하며 이전에는 양조장 이름을 딴 Dojlidy라는 이름으로 불렸다. 이 맥주의 추출물 함량은 중량 기준 12.1%이고 알코올 함량은 6.0%이다. 폴란드 전역에서 판매되며, 폴란드인 수요에 힘입어 영국과 아일랜드의 여러 주류 판매점에서도 구할 수 있다. 2010년 기준 폴란드에서 두 번째로 인기 있는 맥주였고, 시장 점유율은 14%를 차지했다. 미국에서는 아직 드물지만 시카고 일대에서 판매되기 시작했다. 캔과 병에는 독특한 녹색 포장을 쓰며, 로고에는 유럽 들소를 뜻하는 주브르가 크게 들어간다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "주브르는 Białystok의 Dojlidy 지구에 있는 Dojlidy Brewery가 1768년 문을 연 이후 줄곧 양조되어 왔다. 맥주의 옛 이름 Dojlidy는 이 양조장이 있는 지구의 이름에서 왔다. 2003년 SABMiller의 자회사인 Kompania Piwowarska SA가 Białystok에 기반을 둔 이 양조장을 인수했다. 2016년 4월에는 Kompania Piwowarska가 또 다른 특별 맥주 Prażubr를 시장에 내놓았다. 이 맥주의 레시피는 Białystok의 Dojlidy 양조장에서 개발되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주브르는 캔과 병으로 판매되는 라거 맥주이며, 현재 Kompania Piwowarska의 Białystok, Poznań, Tychy 세 양조장에서 생산된다. 2016년 4월에 출시된 Prażubr는 저온살균하지 않은 라거로, 쓴맛이 중간 정도이고 알코올 함량은 5% vol이다. Prażubr는 반환 가능한 병과 500 ml 캔으로 판매된다. 이름은 홍적세에 살았고 오늘날의 유럽 들소와 관련된 포유류인 스텝 들소를 가리킨다. 광고에서도 두 종의 유사성을 강조한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "주브르는 Kompania Piwowarska SA가 Białystok, Poznań, Tychy의 세 양조장에서 양조한다. 이 회사는 2003년 Dojlidy 양조장을 인수할 당시 SABMiller의 자회사였다. 2010년 기준 폴란드 맥주 시장 점유율은 14%로 두 번째였으며, 2016년에는 Prażubr가 라인업에 더해졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Białystok의 Dojlidy 양조장에서 1768년부터 이어진 폴란드 라거로, 녹색 포장과 유럽 들소 로고로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q9397571",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9397571",
+    "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%B8%8C%EB%A5%B4_(%ED%8F%B4%EB%9E%80%EB%93%9C%EC%9D%98_%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/%C5%BBubr_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q9397571",
+   "country": "폴란드",
+   "inception": "1768",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Żubr (beer)」 본문과 위키데이터 Q9397571 팩트를 근거로 편집"
+ }
+}

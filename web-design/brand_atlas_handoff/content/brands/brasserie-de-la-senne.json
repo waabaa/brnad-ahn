@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2196984",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-de-la-senne",
+  "urlSlug": "brasserie-de-la-senne",
+  "name": "Brasserie de la Senne",
+  "nameKo": "",
+  "nameEn": "Brasserie de la Senne",
+  "definition": "Brasserie de la Senne은 벨기에 브뤼셀에 있는 양조장이다. 도시를 가로질러 흐르는 Senne강의 이름을 따서 지었으며, 여과와 살균을 하지 않는 전통 방식으로 맥주를 빚는다.",
+  "summary": "Brasserie de la Senne은 벨기에 브뤼셀에 있는 양조장이다. 도시를 가로질러 흐르는 Senne강의 이름을 따서 지었으며, 여과와 살균을 하지 않는 전통 방식으로 맥주를 빚는다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "여과·살균·첨가물 없이 두 양조자가 직접 만드는 브뤼셀의 양조장으로, 도수보다 개성을 앞세우고 Cantillon의 람빅을 섞은 블렌드로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 벨기에 브뤼셀에 있으며, 도시를 가로질러 흐르는 Senne강의 이름을 땄다. Bernard Leboucq와 Yvan De Baets가 함께 시작했으며, 두 사람이 모든 작업을 직접 하면서 전통 방식으로 맥주를 만든다. 맥주는 여과나 살균을 하지 않고, 첨가물도 전혀 넣지 않는다. 양조자들이 추구하는 철학은 도수가 반드시 높지는 않더라도 개성이 분명한 맥주를 빚는 것이다. 정교한 에일과, 인근 Cantillon Brewery의 람빅이 자주 들어가는 안타까울 정도로 드문 블렌드로 평판을 얻고 있다. 현재는 맥주에 대한 수요가 생산 능력을 넘어서고 있어 물량이 부족한 상태이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Bernard Leboucq는 2003년 Sint-Pieters-Leeuw의 옛 람빅 양조장 Moriau 자리에 St. Peter's Brewery를 세운 뒤 Zinnebir를 만들었다. Yvan De Baets는 Dottignies/Dottenijs의 Brouwerij De Ranke에서 일했다. 두 사람은 2006년 함께 양조장을 시작하기로 했고, Sint-Pieters-Leeuw의 건물을 더는 쓸 수 없게 되자 De Ranke와 Proef 양조장에서 임시로 맥주를 만들었다. 이후 Molenbeek-Saint-Jean에서 옛 산업용 제빵 공장을 찾아냈고, 2010년 말 새 건물에서 첫 시험 양조를 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주로 Leboucq가 만든 Zinnebir가 있으며, 이름은 Zinneke Parade에서 따왔다. 2013년에는 펜실베이니아의 Weyerbacher Brewing Company와 협업해 Manneken-Penn을 만들었다. 같은 해 워싱턴 D.C.의 Bluejacket 양조장과는 Gray Jacket을 만들었는데, 벨기에 에노 지방 광부들을 위해 만들던 스타일의 맥주이다. 이 양조장의 블렌드에는 인근 Cantillon Brewery의 람빅이 자주 들어간다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "맥주에 대한 수요가 현재 생산 능력을 넘어서고 있다. 양조장은 매주 20헥토리터 양조를 두 번 하며, 연간 생산량은 1,800헥토리터이다. 양조는 Leboucq와 De Baets가 모든 일을 직접 하는 방식으로 이어지고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여과·살균·첨가물 없이 두 양조자가 직접 만드는 브뤼셀의 양조장으로, 도수보다 개성을 앞세우고 Cantillon의 람빅을 섞은 블렌드로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.brasseriedelasenne.be/",
+  "entityLinks": {
+   "wikidata": "Q2196984",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2196984",
+    "https://en.wikipedia.org/wiki/Brasserie_de_la_Senne"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2196984",
+   "country": "벨기에",
+   "inception": "2003",
+   "headquarters": "Neerheylissem",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie de la Senne」 본문과 위키데이터 Q2196984 팩트를 근거로 편집"
+ }
+}

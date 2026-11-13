@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1135433",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "corsendonk",
+  "urlSlug": "corsendonk",
+  "name": "Corsendonk",
+  "nameKo": "",
+  "nameEn": "Corsendonk",
+  "definition": "Corsendonk는 벨기에의 맥주 브랜드이다. 브랜드명은 Oud-Turnhout에 있던 Priory of Corsendonk 수도원에서 따왔으며, 수도원 맥주 방식으로 마케팅한 맥주를 내놓는다.",
+  "summary": "Corsendonk는 벨기에의 맥주 브랜드이다. 브랜드명은 Oud-Turnhout에 있던 Priory of Corsendonk 수도원에서 따왔으며, 수도원 맥주 방식으로 마케팅한 맥주를 내놓는다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Oud-Turnhout의 수도원 이름을 빌려 수도원 맥주로 마케팅하며, 자체 양조장 없이 위탁 생산으로 만들어지는 벨기에 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벨기에의 맥주 브랜드이며, 수도원과의 연상을 활용한 수도원 맥주 마케팅 기법으로 만들어졌다. 브랜드명이 가리키는 Priory of Corsendonk는 Oud-Turnhout에 있었고 1398년부터 1784년까지 운영되었다. 이 수도원은 1968년 새 소유주 Corsendonk Hotels에 의해 호텔 단지로 재건되었다. 브랜드는 1982년 Oud-Turnhout 지방자치단체 설립 125주년을 계기로 지역 관광 사무소의 제안에서 시작되었다. 맥주는 다른 양조장에 위탁 생산되며, 현재는 Brasserie Du Bocq가 모든 브랜드를 양조한다. 라인업에는 Corsendonk Pater, Corsendonk Agnus, Corsendonk Blond, Corsendonk Bruin, Corsendonk Christmas Ale이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1982년 Oud-Turnhout 지방자치단체 설립 125주년을 맞아, 지역 관광 사무소가 Jef Keersmaekers에게 수도원과의 연관성 때문에 Corsendonk 이름을 쓰자고 제안했다. Jef Keersmaekers는 1906년 양조장을 세운 Antonius Keersmaekers의 손자이다. 그는 수도원 맥주 마케팅 기법의 일환으로 Pater Noster와 Agnus Dei를 내놓았다. 가족 양조장은 1953년에 문을 닫아, 맥주는 Brasserie Du Bocq를 포함한 다른 양조장에 위탁 생산되었다. Pater Noster와 Agnus Dei는 이후 각각 Corsendonk Pater와 Corsendonk Agnus로 이름이 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Corsendonk Pater와 Corsendonk Agnus이다. Corsendonk Pater는 원래 Pater Noster였으며 미국에서는 'Abbey Brown Ale'로 판매된다. Corsendonk Agnus는 원래 Agnus Dei였으며 미국에서는 'Abbey Pale Ale'로 판매된다. 그 밖에 Corsendonk Blond, Corsendonk Bruin, Corsendonk Christmas Ale이 있다. 이 제품들은 모두 Brasserie Du Bocq가 양조한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 맥주는 가족 양조장이 아닌 위탁 양조로 생산되며, Brasserie Du Bocq가 모든 브랜드를 양조한다. 수도원 건물은 1968년 Corsendonk Hotels에 의해 호텔 단지로 재건되었다. 라인업에는 Pater, Agnus, Blond, Bruin, Christmas Ale이 포함된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Oud-Turnhout의 수도원 이름을 빌려 수도원 맥주로 마케팅하며, 자체 양조장 없이 위탁 생산으로 만들어지는 벨기에 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1135433",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1135433",
+    "https://en.wikipedia.org/wiki/Corsendonk"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1135433",
+   "country": null,
+   "inception": "1982",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Corsendonk」 본문과 위키데이터 Q1135433 팩트를 근거로 편집"
+ }
+}

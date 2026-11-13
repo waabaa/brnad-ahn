@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q896511",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bornstedt-crown-estate",
+  "urlSlug": "bornstedt-crown-estate",
+  "name": "Bornstedt Crown Estate",
+  "nameKo": "",
+  "nameEn": "Bornstedt Crown Estate",
+  "definition": "Bornstedt Crown Estate는 독일 포츠담 보른슈테트 지구에 있는 옛 왕실 영지이다. 현재는 복원되어 일반에 공개된 관광 명소로 운영된다.",
+  "summary": "Bornstedt Crown Estate는 독일 포츠담 보른슈테트 지구에 있는 옛 왕실 영지이다. 현재는 복원되어 일반에 공개된 관광 명소로 운영된다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Bornstedt Crown Estate는 유네스코 세계유산인 상수시 공원에 속한 옛 왕실 영지로, 공방 체험과 다양한 축제·시장이 어우러진 관광지이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Bornstedt Crown Estate는 독일 포츠담의 보른슈테트 지구에 있는 옛 왕실 영지이자 오늘날의 관광 명소이다. 상수시 공원의 궁전과 정원 군에 속하며, 이 공원은 주변의 다른 공원·궁전과 함께 유네스코 세계유산이다. 영지는 보른슈테트 호숫가에 자리하고 상수시 궁전에서 400미터 떨어져 있다. 포츠담 시내에서도 멀지 않다. 연중 전통 축제와 시장, 대규모 행사가 열리며 일반 방문객이 즐길 수 있다. 완전히 복원되어 대중에 개방되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Bornstedt Crown Estate에서는 브란덴부르크 공방(Brandenburg Factory) 견학이 가능하며, 방문객은 도자기와 양초 만들기를 비롯한 21가지가 넘는 수공업을 배울 수 있다. 현장에는 금세공사도 있다. 이발소, 서점, 직조 공방, 꽃집이 더해져 다양한 업종이 갖춰져 있다. 역사적 크리스마스 시장, 예술 시장, 농산물 시장, 맥주 시장, 콘서트, 연극, 전시 등의 행사도 열린다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Bornstedt Crown Estate는 현재 완전히 복원되어 일반에 개방되어 있다. 연중 전통 축제, 시장, 대규모 행사가 열린다. 포츠담 자이언츠의 훈련·모병 시연, 프리드리히 2세의 근위 척탄병 제복을 입은 재연 행사, British Days, Crown Estate Spectacular, United Buddy Bears - The Minis 전시가 열리며 Palaces Marathon의 출발점과 결승점이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Bornstedt Crown Estate는 유네스코 세계유산인 상수시 공원에 속한 옛 왕실 영지로, 공방 체험과 다양한 축제·시장이 어우러진 관광지이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q896511",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q896511",
+    "https://en.wikipedia.org/wiki/Bornstedt_Crown_Estate"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q896511",
+   "country": "독일",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Bornstedt Crown Estate」 본문과 위키데이터 Q896511 팩트를 근거로 편집"
+ }
+}

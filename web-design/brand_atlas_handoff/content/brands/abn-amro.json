@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q287471",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/abn-amro-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "abn-amro",
+  "urlSlug": "abn-amro",
+  "name": "ABN AMRO",
+  "nameKo": "",
+  "nameEn": "ABN AMRO",
+  "definition": "ABN AMRO는 암스테르담에 본사를 둔 네덜란드의 은행이다. 1991년 Algemene Bank Nederland와 Amsterdamsche en Rotterdamsche Bank가 합병해 출범했으며 네덜란드에서 세 번째로 큰 은행이다.",
+  "summary": "ABN AMRO는 암스테르담에 본사를 둔 네덜란드의 은행이다. 1991년 Algemene Bank Nederland와 Amsterdamsche en Rotterdamsche Bank가 합병해 출범했으며 네덜란드에서 세 번째로 큰 은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "네덜란드 정부가 국유화해 재편한 뒤 2015년 재상장한 네덜란드 3위 은행으로, 1991년 ABN과 AMRO의 합병에서 이름이 유래했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 은행은 네덜란드 암스테르담에 본사를 둔 네덜란드 3위 은행이다. 1991년 Algemene Bank Nederland(ABN)와 Amsterdamsche en Rotterdamsche Bank(AMRO Bank)가 합병하면서 지금의 이름을 얻었다. 2007년부터 2008년 사이 Fortis를 포함한 유럽 은행 컨소시엄이 이 은행을 인수해 해체했다. 이후 Fortis Bank Nederland와 Fortis가 흡수하려던 옛 ABN AMRO 사업은 국유화와 구조조정을 거쳐 2010년 중반 ABN AMRO라는 이름으로 다시 출범했다. 2015년 11월 20일 네덜란드 정부가 IPO로 재상장하며 지분 20퍼센트를 공개 매각했다. 2014년 말 유럽 은행 감독 체제가 발효된 이후 Significant Institution으로 지정되어 유럽중앙은행의 직접 감독을 받는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1824년 King William I이 네덜란드령 동인도의 무역과 금융을 되살리기 위해 Nederlandsche Handel-Maatschappij(NHM)를 세웠고, 이것이 ABN AMRO의 주요 전신 중 하나가 되었다. 1964년 NHM이 Twentsche Bank와 합병해 Algemene Bank Nederland(ABN)가 되었다. 같은 해 1871년 설립된 Amsterdamsche Bank와 1873년 설립된 Rotterdamsche Bank가 합병해 Amsterdamsche en Rotterdamsche Bank, 곧 AMRO Bank가 되었다. 1991년 9월 22일 ABN과 AMRO가 합병해 ABN AMRO가 출범했고, 1993년에는 투자은행 자회사인 Bank Mees & Hope와 Pierson, Heldring & Pierson이 합쳐 MeesPierson이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "합병 전 ABN은 NHM에서 물려받은 아시아와 중동의 지점망을 보유했고, 여기에는 NHM Jeddah 지점이 소유한 Saudi Hollandi Bank가 포함되었다. Hollandsche Bank-Unie(HBU)는 남미와 중미에 폭넓은 지점망을 제공했다. 북미에서는 1979년 시카고 기반의 LaSalle National Bank를 인수했고, 1996년 Standard Federal Bank, 이후 Michigan National Bank를 인수했다. 1998년에는 브라질의 Banco Real, 2006년에는 이탈리아의 Antonveneta를 인수했다. 사모펀드 부문인 ABN AMRO Capital과 투자은행 자회사도 두었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 네덜란드에서 세 번째로 큰 은행이며 본사는 암스테르담에 있다. 2010년 중반 국유화와 구조조정을 거쳐 ABN AMRO라는 이름으로 개편되었고, 2015년 11월 20일 네덜란드 정부가 IPO로 재상장하며 지분 20퍼센트를 공개 매각했다. 2014년 말 유럽 은행 감독 체제가 발효된 이후 Significant Institution으로 지정되어 유럽중앙은행이 직접 감독한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네덜란드 정부가 국유화해 재편한 뒤 2015년 재상장한 네덜란드 3위 은행으로, 1991년 ABN과 AMRO의 합병에서 이름이 유래했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.abnamro.com/",
+  "entityLinks": {
+   "wikidata": "Q287471",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q287471",
+    "https://ko.wikipedia.org/wiki/ABN_AMRO",
+    "https://en.wikipedia.org/wiki/ABN_AMRO"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q287471",
+   "country": "네덜란드",
+   "inception": "1991",
+   "headquarters": "암스테르담",
+   "founders": [
+    "Dutch State"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「ABN AMRO」 본문과 위키데이터 Q287471 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

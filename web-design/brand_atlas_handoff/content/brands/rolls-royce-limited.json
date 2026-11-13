@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q679888",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/rolls-royce-limited-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rolls-royce-limited",
+  "urlSlug": "rolls-royce-limited",
+  "name": "롤스로이스 리미티드",
+  "nameKo": "롤스로이스 리미티드",
+  "nameEn": "Rolls-Royce Limited",
+  "definition": "롤스로이스 리미티드(Rolls-Royce Limited)는 1904년 맨체스터에서 Charles Rolls와 Henry Royce의 협력으로 설립된 영국의 고급 자동차 및 항공기 엔진 제조 기업이다.",
+  "summary": "롤스로이스 리미티드(Rolls-Royce Limited)는 1904년 맨체스터에서 Charles Rolls와 Henry Royce의 협력으로 설립된 영국의 고급 자동차 및 항공기 엔진 제조 기업이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Charles Rolls와 Henry Royce의 협력으로 고급 자동차에서 출발해 항공기 엔진으로 사업을 넓혔고, 1971년 청산과 1987년 민영화를 겪은 영국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "롤스로이스 리미티드는 영국의 고급 자동차 제조사로 출발해 이후 항공기 엔진 제조로 사업을 넓힌 기업이다. Henry Royce가 크레인으로 쌓은 명성을 바탕으로, 두 창업자는 고급 자동차 제조를 통해 뛰어난 엔지니어링이라는 평판을 빠르게 얻었다. 1906년 Rolls-Royce Limited라는 이름으로 법인화했고 1908년 더비에 새 공장을 열었다. 제1차 세계대전을 계기로 항공기 엔진을 만들기 시작했으며, 제트 엔진 공동 개발은 1940년에 시작되어 1944년 생산에 들어갔다. 1971년 소유주들이 사업을 청산해야 했고, 이후 정부 소유 회사가 핵심 사업을 이어받았다. 현재 주된 사업은 Rolls-Royce plc가 보유하고 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Henry Royce는 1884년 맨체스터에서 전기·기계 사업을 시작했다. 불황과 경쟁으로 회사가 어려워지자 자동차 제조로 사업을 넓힐지 가늠하기 위해 10 hp 실험 설계 자동차 세 대를 만들었다. 세 번째 차를 산 Henry Edmunds의 주선으로 Charles Rolls와 Royce가 1904년 5월 4일 맨체스터의 Midland Hotel에서 만났다. Rolls는 Royce 10에 깊은 인상을 받아 1904년 12월 23일 Royce가 만들 수 있는 모든 차를 가져가기로 합의했다. 모든 차는 Rolls-Royce 배지를 달고 Rolls가 독점 판매하기로 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 제품은 자동차였으며 10 hp 2기통, 15 hp 3기통, 20 hp 4기통, 30 hp 6기통의 네 가지 모델이 계획되었다. 이 차들은 엔진, 기어박스, 트랜스미션을 갖춘 프레임 섀시 형태로 판매되었고, 고객이 직접 차체 제작사를 정했으며 런던의 Barker & Co.가 추천되었다. 완성차는 1949년 Silver Dawn을 선보이기 전까지 만들지 않았다. 제1차 세계대전 이후 항공기 엔진이 사업에 더해졌고, 제트 엔진은 1944년 생산에 들어갔다. 1960년대 후반 첨단 RB211 제트 엔진 개발이 부실하게 관리되어 비용 초과를 겪었으나 결국 큰 성공을 거두었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "국유화 상태였던 사업은 1987년 회사명을 Rolls-Royce plc로 바꾼 뒤 영국 정부가 주식 공모로 대중에 매각했다. Rolls-Royce plc는 지금도 주된 사업을 보유하고 운영하지만, 2003년부터는 기술적으로 상장 지주회사 Rolls-Royce Holdings plc의 자회사이다. 자동차 부문은 Rolls-Royce Motors Holdings Limited로 이전되어 1980년 Vickers에 매각되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Charles Rolls와 Henry Royce의 협력으로 고급 자동차에서 출발해 항공기 엔진으로 사업을 넓혔고, 1971년 청산과 1987년 민영화를 겪은 영국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rolls-royce.com/",
+  "entityLinks": {
+   "wikidata": "Q679888",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q679888",
+    "https://ko.wikipedia.org/wiki/%EB%A1%A4%EC%8A%A4%EB%A1%9C%EC%9D%B4%EC%8A%A4_%EB%A6%AC%EB%AF%B8%ED%8B%B0%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Rolls-Royce_Limited"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q679888",
+   "country": "영국",
+   "inception": "1906",
+   "headquarters": "더비",
+   "founders": [
+    "Charles Rolls",
+    "Henry Royce"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Rolls-Royce Limited」 본문과 위키데이터 Q679888 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

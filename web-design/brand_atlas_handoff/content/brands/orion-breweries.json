@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q7102771",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/orion-breweries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "orion-breweries",
+  "urlSlug": "orion-breweries",
+  "name": "오리온 맥주",
+  "nameKo": "오리온 맥주",
+  "nameEn": "Orion Breweries",
+  "definition": "오리온 맥주(Orion Breweries)는 오키나와현 우라소에시에 본사를 둔 일본의 맥주 제조회사이다. 주요 상품인 오리온 드래프트 비어를 가리켜 오리온 맥주라고 부르기도 한다.",
+  "summary": "오리온 맥주(Orion Breweries)는 오키나와현 우라소에시에 본사를 둔 일본의 맥주 제조회사이다. 주요 상품인 오리온 드래프트 비어를 가리켜 오리온 맥주라고 부르기도 한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "일본 맥주 대기업 5개사 중 점유율은 가장 낮지만, 오키나와 지방에서는 가장 큰 점유율을 보이는 오키나와현 기반의 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 1957년에 설립된 일본의 맥주 제조회사로, 오키나와현 우라소에시에 본사를 두고 있다. 주요 맥주 상품인 오리온 드래프트 비어를 가리켜 오리온 맥주라고 칭하는 경우도 있다. 일본 맥주 대기업 5개사인 기린 맥주, 아사히 맥주, 삿포로 맥주, 산토리 맥주, 오리온 맥주 중 점유율은 0.9%로 최하위이며 일본 내 5위에 해당한다. 그러나 오키나와 지방에서는 가장 큰 점유율을 보이며, 현재에도 약 60%를 넘는 점유율을 보이고 있다. 맥주 외에 우롱차와 같은 다류 중심의 음료 생산도 함께 수행하고 있다. 대한민국 수출용 제품에는 오키나와 맥주(オキナワビール)라는 이름이 붙어 출고된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 회사의 주요 맥주 상품은 오리온 드래프트 비어(オリオンドラフトビール)이며, 이 상품을 오리온 맥주라고 부르는 경우도 있다. 맥주 외에 우롱차와 같은 다류 중심의 음료 생산도 함께 수행한다. 대한민국 수출용 제품에 한하여 오키나와 맥주라는 이름을 달고 출고된다. 이는 동일한 이름의 업체에 관한 상표권 문제 및 오해가 존재하기 때문인 것으로 알려져 있다. 다만 2019년 한일 무역 분쟁과 노노재팬 등의 여파로 한국 납품 물량은 크게 하락했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "일본 맥주 대기업 5개사 중 점유율은 0.9%로 최하위이며 일본 내 5위에 해당한다. 오키나와 지방에서는 가장 큰 점유율을 보이며, 현재에도 약 60%를 넘는다. 전성기 때는 현 내 시장에서 80% 이상, 많게는 90%의 점유율을 보였다. 2019년 한일 무역 분쟁과 노노재팬 등의 여파로 한국 납품 물량은 크게 하락했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 맥주 대기업 5개사 중 점유율은 가장 낮지만, 오키나와 지방에서는 가장 큰 점유율을 보이는 오키나와현 기반의 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.orionbeer.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q7102771",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7102771",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EC%98%A8_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Orion_Breweries"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7102771",
+   "country": "일본",
+   "inception": "1957",
+   "headquarters": "Toyosaki",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "한국어 위키백과 「오리온 맥주」 요약과 위키데이터 Q7102771 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

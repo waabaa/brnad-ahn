@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q494166",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "fischer-brewery",
+  "urlSlug": "fischer-brewery",
+  "name": "Fischer Brewery",
+  "nameKo": "",
+  "nameEn": "Fischer Brewery",
+  "definition": "Fischer Brewery는 프랑스 실티가임에 있었던 맥주 양조장이다. 1821년에 스트라스부르에서 설립되었으며 1996년 Heineken에 인수된 뒤 2009년에 문을 닫았다.",
+  "summary": "Fischer Brewery는 프랑스 실티가임에 있었던 맥주 양조장이다. 1821년에 스트라스부르에서 설립되었으며 1996년 Heineken에 인수된 뒤 2009년에 문을 닫았다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Fischer는 알자스에서 시작해 실티가임에서 맥주를 양조했고, 데킬라 향을 더한 Desperados를 생산한 양조장이다. 1996년 Heineken에 인수된 뒤 2009년에 문을 닫았다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Fischer는 프랑스 알자스 지방에서 시작해 실티가임에서 운영된 맥주 양조장이다. 1821년 스트라스부르에서 설립되었고 1854년 물의 품질 때문에 실티가임으로 옮겼다. 1922년에는 이웃한 Adelshoffen 양조장을 인수했고, 이후 Groupe Pêcheur라는 이름을 쓰게 되었다. 이 그룹은 1996년 Heineken에 인수되었다. 2008년 Heineken은 2009년 말까지 양조장을 폐쇄하고 생산을 실티가임의 l'Espérance 양조장으로 옮기겠다고 발표했다. 이 양조장은 데킬라 향을 더한 페일 라거 Desperados를 생산했으며 2009년에 폐쇄되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Fischer 양조장은 1821년 프랑스 알자스 지방의 스트라스부르에서 설립되었다. 1854년에는 물의 품질 때문에 양조장을 스트라스부르에서 실티가임으로 옮겼다. 1922년에 이웃한 Adelshoffen 양조장을 인수했고, 이때 독일어 Fischer를 프랑스어로 옮긴 이름인 Groupe Pêcheur가 되었다. 이 Groupe Pêcheur는 1996년 Heineken에 인수되어 Heineken의 소유가 되었다. 2008년 Heineken은 2009년 말까지 양조장을 폐쇄하겠다고 발표했고, 실제로 2009년에 양조장은 문을 닫았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Fischer는 맥주를 양조하는 회사였으며, 대표 제품은 데킬라 향을 더한 페일 라거 Desperados였다. 이 회사는 알코올 도수 3%에 역시 데킬라 향을 더한 Desperados Mas도 양조했다. 1922년에는 이웃한 Adelshoffen 양조장을 인수했고, 이후 Groupe Pêcheur라는 이름을 쓰게 되었다. 1996년 Heineken이 이 그룹을 인수했고, 2009년 말까지 양조장을 폐쇄하고 생산을 실티가임의 l'Espérance 양조장으로 이전할 계획이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Fischer 양조장은 1996년 Heineken이 소유권을 넘겨받은 뒤 2009년에 폐쇄되었다. 2008년 Heineken은 2009년 말까지 양조장을 폐쇄하고 생산을 실티가임의 l'Espérance 양조장으로 옮기겠다고 발표했다. 생산 이전 대상인 l'Espérance 양조장도 같은 실티가임에 있다. Fischer 양조장은 현재 운영되지 않는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Fischer는 알자스에서 시작해 실티가임에서 맥주를 양조했고, 데킬라 향을 더한 Desperados를 생산한 양조장이다. 1996년 Heineken에 인수된 뒤 2009년에 문을 닫았다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.heinekenfrance.fr/nos-produits/nos-marques/fischer-tradition-la-pils-emblematique-dalsace/",
+  "entityLinks": {
+   "wikidata": "Q494166",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494166",
+    "https://en.wikipedia.org/wiki/Fischer_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q494166",
+   "country": "프랑스",
+   "inception": "1821",
+   "headquarters": "실티가임",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Fischer Brewery」 본문과 위키데이터 Q494166 팩트를 근거로 편집"
+ }
+}

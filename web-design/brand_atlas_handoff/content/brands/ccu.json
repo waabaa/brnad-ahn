@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2990393",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/ccu-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ccu",
+  "urlSlug": "ccu",
+  "name": "CCU",
+  "nameKo": "",
+  "nameEn": "CCU",
+  "definition": "CCU는 1902년에 설립된 칠레의 음료 기업으로, 본사는 산티아고에 있다. 주류와 비알코올 음료를 생산하고 식품 분야에서도 사업을 하며, 남미 여러 나라에서 활동한다.",
+  "summary": "CCU는 1902년에 설립된 칠레의 음료 기업으로, 본사는 산티아고에 있다. 주류와 비알코올 음료를 생산하고 식품 분야에서도 사업을 하며, 남미 여러 나라에서 활동한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "맥주, 청량음료, 와인, 피스코 등을 폭넓게 다루며 남미 여러 나라에서 사업을 하는 칠레의 종합 음료 기업이다. 1957년 칠레에 첫 디지털 컴퓨터를 들여온 이력도 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CCU의 정식 명칭은 Compañía Cervecerías Unidas S.A.이다. 맥주, 청량음료, 와인, 생수, 과일 음료, 피스코 등 폭넓은 음료를 만들고 사탕 제조에도 참여한다. 칠레에서는 최대 맥주 제조사이자 두 번째로 큰 청량음료·와인 생산자이며, 생수와 과일 음료 병입에서도 최대 규모이다. 아르헨티나에서도 두 번째로 큰 맥주 제조사이며 사과주, 증류주, 와인 사업에도 참여한다. 볼리비아, 콜롬비아, 파라과이, 우루과이, 페루에서도 국가별로 맥주, 생수, 청량음료, 피스코 등 일부 부문에서 사업을 한다. 자체 브랜드와 함께 면허 및 수입 브랜드도 포트폴리오에 포함한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CCU는 1902년에 설립되었다. 현재는 칠레, 아르헨티나, 볼리비아, 콜롬비아, 파라과이, 우루과이, 페루에서 사업을 운영한다. 1957년에는 Univac을 구입해 발파라이소로 들여왔고, 이는 칠레에 도착한 최초의 디지털 컴퓨터였다. 이 기계는 남미 컴퓨터 과학사에서 기록으로 확인되는 초기 사례 가운데 하나이다. 2003년 12월에는 Canal 13의 Star Wars 영화 방영 중 광고 시간마다 맨 앞에 Cerveza Cristal 광고를 내보내, 직전 장면의 연속처럼 보이게 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 맥주, 청량음료, 와인, 생수, 과일 음료, 피스코, 사탕 제조로 구성된다. 아르헨티나에서는 사과주와 증류주도 다루고, 볼리비아에서는 맥아 음료도 다룬다. 제품군에는 자체 브랜드와 면허·수입 브랜드가 함께 들어 있다. Heineken International N.V., Anheuser-Busch Inc., PepsiCo Inc., Paulaner Brewery GmbH & Co. KG, Keurig Dr Pepper Inc., Guinness Brewery, Societe des Produits Nestlé S.A.와 면허 계약이나 합작 관계를 유지한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 산티아고에 있다. 칠레에서 가장 큰 맥주 제조사이며 아르헨티나에서는 두 번째로 큰 맥주 제조사이다. 또한 이 지역에서 가장 큰 피스코 생산자 중 하나이다. 우루과이와 파라과이에서는 맥주, 생수, 청량음료, 과일 음료 부문에, 콜롬비아에서는 맥주, 페루에서는 피스코 부문에 참여한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥주, 청량음료, 와인, 피스코 등을 폭넓게 다루며 남미 여러 나라에서 사업을 하는 칠레의 종합 음료 기업이다. 1957년 칠레에 첫 디지털 컴퓨터를 들여온 이력도 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ccu.cl",
+  "entityLinks": {
+   "wikidata": "Q2990393",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2990393",
+    "https://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_las_Cervecer%C3%ADas_Unidas"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2990393",
+   "country": "칠레",
+   "inception": "1902",
+   "headquarters": "산티아고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Compañía de las Cervecerías Unidas」 본문과 위키데이터 Q2990393 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

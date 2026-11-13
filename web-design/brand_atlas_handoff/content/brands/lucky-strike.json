@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q753556",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:48+09:00"
+ },
+ "logoCandidate": "logos/lucky-strike-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lucky-strike",
+  "urlSlug": "lucky-strike",
+  "name": "럭키 스트라이크",
+  "nameKo": "럭키 스트라이크",
+  "nameEn": "Lucky Strike",
+  "definition": "럭키 스트라이크(Lucky Strike)는 브리티시 아메리칸 토바코 그룹이 소유한 미국의 담배 브랜드이다. 개별 담배는 흔히 '럭키스'라는 애칭으로 불린다.",
+  "summary": "럭키 스트라이크(Lucky Strike)는 브리티시 아메리칸 토바코 그룹이 소유한 미국의 담배 브랜드이다. 개별 담배는 흔히 '럭키스'라는 애칭으로 불린다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "럭키 스트라이크는 담뱃잎을 토스팅하는 제조법을 내세운 'It's Toasted' 슬로건과 유명인 광고를 앞세운 마케팅으로 다른 담배 브랜드와 차별화됐다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "럭키 스트라이크는 미국 버지니아주 리치먼드에서 시작된 담배 브랜드로, 씹는담배에서 궐련으로 성장했다. 브랜드명은 당시 골드러시에서 영감을 받아 최고급 블렌드를 연상시키도록 지어졌다. 1917년에는 담뱃잎을 볕에 말리는 대신 토스팅하는 제조법을 내세운 'It's Toasted' 슬로건을 선보여 경쟁사와 차별화를 꾀했다. 1920년대부터 라디오 프로그램 후원과 유명인 광고를 통해 대중적 인지도를 쌓았고, 이후 할리우드 배우들을 광고 모델로 기용하며 마케팅을 이어갔다. 브랜드의 상징이었던 짙은 녹색 포장은 이후 흰색으로 바뀌었다. 현재는 브리티시 아메리칸 토바코 그룹 소속 브랜드로 이어지고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "럭키 스트라이크는 1871년 미국 버지니아주 리치먼드의 R. A. Patterson사가 당밀로 뭉친 씹는담배인 컷 플러그 담배 브랜드로 처음 선보였다. 이후 1900년대 초 궐련 형태로 발전했다. 브랜드명은 당시 골드러시 붐에서 착안해 최고급 블렌드라는 인상을 주기 위해 지어졌다. 1905년 아메리칸 토바코 컴퍼니(American Tobacco Company)가 이 브랜드를 인수하면서 사업이 확장됐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "럭키 스트라이크의 핵심 제품은 궐련 담배이며, 1917년부터는 담뱃잎을 볕에 말리는 대신 토스팅하는 제조 방식을 내세운 'It's Toasted' 슬로건으로 제품의 차별성을 알렸다. 브랜드는 라디오 프로그램 후원과 유명인 광고 등 마케팅 활동을 제품 홍보의 중요한 축으로 삼았다. 짙은 녹색이었던 패키지 디자인은 이후 흰색으로 변경됐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "럭키 스트라이크는 담뱃잎을 토스팅하는 제조법을 내세운 'It's Toasted' 슬로건과 유명인 광고를 앞세운 마케팅으로 다른 담배 브랜드와 차별화됐다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.luckystrikeny.com/",
+  "entityLinks": {
+   "wikidata": "Q753556",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q753556",
+    "https://ko.wikipedia.org/wiki/%EB%9F%AD%ED%82%A4_%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Lucky_Strike"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q753556",
+   "country": "미국",
+   "inception": "1871",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Lucky Strike」 본문과 위키데이터 Q753556 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

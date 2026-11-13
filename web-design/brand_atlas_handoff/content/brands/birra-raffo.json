@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2259081",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/birra-raffo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "birra-raffo",
+  "urlSlug": "birra-raffo",
+  "name": "Birra Raffo",
+  "nameKo": "",
+  "nameEn": "Birra Raffo",
+  "definition": "Birra Raffo는 1919년 타란토에서 시작된 이탈리아 라거 맥주 브랜드이다. 1961년 Peroni로 넘어갔으며 현재는 로마에 있는 Peroni 양조장에서 생산한다.",
+  "summary": "Birra Raffo는 1919년 타란토에서 시작된 이탈리아 라거 맥주 브랜드이다. 1961년 Peroni로 넘어갔으며 현재는 로마에 있는 Peroni 양조장에서 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "타란토에서 시작해 Peroni 산하로 들어간 뒤에도 지역의 대표 맥주로 남았고, 라벨에 도시의 상징 Taras를 담은 이탈리아 라거이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Birra Raffo는 이탈리아의 라거 맥주 브랜드이며, 1919년부터 1987년까지 타란토의 같은 이름의 양조장에서 생산되었다. 1919년 Vitantonio Raffo가 타란토에 양조장을 세우면서 시작되었고, 1961년까지 가족 소유로 운영되었다. 1961년 Peroni에 매각된 뒤에도 Peroni가 원래의 레시피, 양조장, 직원을 그대로 유지했다. 1987년 타란토 양조장이 문을 닫고 생산지가 바리로 옮겨졌지만 Raffo는 타란토에서 가장 인기 있는 맥주로 남았다. 현재는 로마의 Peroni 양조장에서 생산하며, 2024년부터는 이탈리아 전역에서 구입할 수 있다. 풀리아는 예전부터 지금까지 소비량이 가장 많은 지역으로 유지되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Raffo는 1919년 Vitantonio Raffo가 타란토에 양조장을 세우면서 시작되었다. 이 양조장은 1961년 Peroni에 매각될 때까지 가족 소유였고, Peroni는 원래의 레시피, 양조장, 직원을 그대로 유지했다. 1970년대에는 바실리카타, 라치오, 캄파니아로 판매가 퍼진 덕분에 48,000헥토리터가 생산되었다. 풀리아는 이 시기에도 이후에도 가장 높은 소비량을 유지한 지역이었다. 1987년 Peroni는 타란토 양조장을 닫고 생산을 바리로 옮겨 도시 산업사의 한 장을 마감했으나, Raffo는 타란토에서 가장 인기 있는 맥주로 남았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Raffo는 현재 로마의 Peroni 양조장에서 생산된다. Peroni는 한때 남아프리카의 SABMiller 소속이었고 2016년 일본 그룹 Asahi에 매각되었다. 2008년 라벨에 타란토의 상징인 Taras가 추가되었고, 맥주는 타란토의 Taranto Football Club 1927을 후원한다. 2024년부터는 이탈리아 전역에서 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "타란토에서 시작해 Peroni 산하로 들어간 뒤에도 지역의 대표 맥주로 남았고, 라벨에 도시의 상징 Taras를 담은 이탈리아 라거이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.birraraffo.it",
+  "entityLinks": {
+   "wikidata": "Q2259081",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2259081",
+    "https://en.wikipedia.org/wiki/Birra_Raffo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2259081",
+   "country": "이탈리아",
+   "inception": "1919",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Birra Raffo」 본문과 위키데이터 Q2259081 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1981682",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "burgundy-of-flanders-beer",
+  "urlSlug": "burgundy-of-flanders-beer",
+  "name": "Burgundy of Flanders (beer)",
+  "nameKo": "",
+  "nameEn": "Burgundy of Flanders (beer)",
+  "definition": "Bourgogne des Flandres는 벨기에 플람스브라반트의 Dilbeek 자치체 Itterbeek에서 Timmermans Brewery가 양조하는 벨기에 맥주이다. 1911년부터 존재해 온 브랜드이다.",
+  "summary": "Bourgogne des Flandres는 벨기에 플람스브라반트의 Dilbeek 자치체 Itterbeek에서 Timmermans Brewery가 양조하는 벨기에 맥주이다. 1911년부터 존재해 온 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "플랑드르 지역에서 Timmermans Brewery가 양조하는 맥주로, 람빅과 브라운 맥주를 섞어 오크 통에서 숙성한 Brune이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 벨기에에서 양조되는 맥주 브랜드로, 브라운 맥주인 Brune과 가벼운 에일인 Blonde 두 종류가 있다. Brune은 혼합 발효 방식으로 만든 특수한 브라운 맥주이다. Blonde는 상면 발효로 만든 가벼운 에일이다. 양조는 1990년대 초부터 John Martin Brewery 그룹에 속한 Timmermans Brewery가 맡고 있다. Brune은 2009년 International Taste & Quality Institute의 Superior Taste Award에서 별 3개를 받았다. 2012년에는 Brussels Beer Challenge의 Red Ale: Old Red (Flanders Red Ale) 부문에서 동메달을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 맥주는 1911년부터 존재해 왔다. 당시에는 Van Houtryve 가문이 양조했다. 1957년에는 이후 Duchesse de Bourgogne를 생산하게 되는 Verhaeghe Brewery가 생산했다. 1990년대 초부터는 John Martin Brewery 그룹의 일부인 Timmermans Brewery가 양조해 왔다. 양조 주체가 가문에서 Verhaeghe Brewery를 거쳐 Timmermans Brewery로 바뀌어 온 셈이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Bourgogne des Flandres Brune과 Bourgogne des Flandres Blonde이다. Brune은 혼합 람빅(자연 발효)과 상면 발효 브라운 맥주를 결합한 혼합 발효 방식의 특수한 브라운 맥주이며, 오크 통에서 숙성한다. Blonde는 상면 발효로 만든 가벼운 에일 맥주로 쓴맛이 강하고 알코올 도수는 6%이다. Brune은 2009년 Superior Taste Award에서 별 3개를 받았고, 2012년 Brussels Beer Challenge에서 동메달을 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 맥주는 John Martin Brewery 그룹에 속한 Timmermans Brewery가 양조한다. 1990년대 초부터 이어진 체제이며, 양조지는 Dilbeek 자치체의 Itterbeek이다. 제품은 Brune과 Blonde 두 종류로 구성된다. 근거에 나타나는 가장 최근의 기록은 2012년 Brune의 Brussels Beer Challenge 동메달 수상이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "플랑드르 지역에서 Timmermans Brewery가 양조하는 맥주로, 람빅과 브라운 맥주를 섞어 오크 통에서 숙성한 Brune이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1981682",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1981682",
+    "https://en.wikipedia.org/wiki/Bourgogne_des_Flandres"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1981682",
+   "country": null,
+   "inception": "1911",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Bourgogne des Flandres」 본문과 위키데이터 Q1981682 팩트를 근거로 편집"
+ }
+}

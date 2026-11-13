@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q695087",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mars-incorporated-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mars-incorporated",
+  "urlSlug": "mars-incorporated",
+  "name": "마즈",
+  "nameKo": "마즈",
+  "nameEn": "Mars, Incorporated",
+  "definition": "마즈(Mars, Incorporated)는 미국의 식품업체이다. 과자류 생산으로 유명한 세계 굴지 규모의 제과회사이며 음료와 애완동물 사료도 생산한다.",
+  "summary": "마즈(Mars, Incorporated)는 미국의 식품업체이다. 과자류 생산으로 유명한 세계 굴지 규모의 제과회사이며 음료와 애완동물 사료도 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "상장하지 않고 마즈 가문이 운영하는 가족 회사이면서, 제과와 음료, 애완동물 사료를 아우르는 세계적 제과업체라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마즈는 M&M's, 몰티져스, 스키틀즈, 트윅스, 스니커즈 등의 유명 제품을 가진 세계 굴지 규모의 미국 제과회사이며, 제과 외에 음료와 애완동물 사료도 생산한다. 현재도 마즈 가문이 운영하는 가족 회사이며 주식은 시장에 상장되어 있지 않다. 현재의 회장은 프랭크 마스의 손자인 존 마스이고 본사는 버지니아주 매클레인에 있다. 2008년 리글리를 인수해 세계 최대의 제과업체로 부상했다. 이후 캐드버리 인수전에 나섰으나 실패했고, 캐드버리를 인수한 크래프트 푸즈에 세계 최대 제과업체 자리를 내주었다. 대한민국에서는 1992년 설립된 한국마스타푸즈가 2008년 한국마즈로 이름을 바꾸어 각종 제품을 수입·판매하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1911년 워싱턴주 터코마에서 프랭크 C. 마스(Franklin Clarence Mars)가 사탕을 제조·판매한 것이 기원이다. 프랭크 마스는 1920년 고향 미네소타주에서 정식으로 회사를 설립했다. 1923년에는 초콜릿, 사탕, 캐러멜을 혼합한 길쭉한 바 형태의 제품을 내놓아 큰 인기를 모았다. 이 여세를 몰아 회사는 유럽에도 진출했고, 프랭크 마스의 아들 포레스트 마스가 회사 규모를 더욱 키워 마즈는 세계적인 제과업체로 성장했다. 마즈 가문이 운영하는 가족 회사라는 성격은 현재까지 이어지고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로는 M&M's, 몰티져스, 스키틀즈, 트윅스, 스니커즈 등의 유명 제품들이 있다. 사업은 과자류 생산이 중심이며, 제과 외에 음료수와 애완동물 사료도 생산한다. 프랭크 마스가 1923년에 초콜릿, 사탕, 캐러멜을 혼합하여 길쭉한 바 형태로 만든 제품을 내놓아 큰 인기를 모았다. 2008년에는 유명 껌 제조업체인 리글리를 인수하며 세계 최대의 제과업체로 부상했다. 대한민국에서는 한국마즈가 각종 제품을 수입·판매하고 있으며, 이 법인은 1992년 한국마스타푸즈라는 이름으로 설립되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "마즈는 현재도 마즈 가문이 운영하는 가족 회사이며 주식은 시장에 상장되지 않았다. 회장은 프랭크 마스의 손자인 존 마스이고, 본사는 버지니아주 매클레인에 있다. 2008년 리글리 인수로 세계 최대의 제과업체가 되었으나, 캐드버리 인수전에서 실패해 캐드버리를 인수한 크래프트 푸즈에 그 자리를 내주었다. 한국에서는 한국마즈가 각종 제품을 수입·판매하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "상장하지 않고 마즈 가문이 운영하는 가족 회사이면서, 제과와 음료, 애완동물 사료를 아우르는 세계적 제과업체라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mars.com/",
+  "entityLinks": {
+   "wikidata": "Q695087",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q695087",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%A6%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Mars_Inc."
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q695087",
+   "country": "미국",
+   "inception": "1911",
+   "headquarters": "매클레인",
+   "founders": [
+    "Franklin Clarence Mars"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「마즈 (기업)」 요약과 위키데이터 Q695087 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

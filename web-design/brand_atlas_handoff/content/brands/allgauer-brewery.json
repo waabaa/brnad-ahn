@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2649044",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "allgauer-brewery",
+  "urlSlug": "allgauer-brewery",
+  "name": "Allgäuer Brewery",
+  "nameKo": "",
+  "nameEn": "Allgäuer Brewery",
+  "definition": "Allgäuer Brewery는 독일 켐프텐(Allgäu)에 본사와 기원을 둔 맥주 양조장이다. Radeberger Group에 속하며 약 20종의 맥주를 양조한다.",
+  "summary": "Allgäuer Brewery는 독일 켐프텐(Allgäu)에 본사와 기원을 둔 맥주 양조장이다. Radeberger Group에 속하며 약 20종의 맥주를 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Allgäu와 슈바벤의 맥주 이해관계를 모으겠다는 뜻을 이름에 담았고, 1394년에 기원한 Stiftsbrauerei Kempten의 전통을 자사의 전통으로 삼은 켐프텐의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 켐프텐(Allgäu)에 본사를 두고 있으며, 기원 또한 같은 켐프텐에 있다. 현재 Radeberger Group에 속해 있는 맥주 회사이다. 약 20종에 이르는 서로 다른 맥주를 폭넓게 양조하는 곳이다. 양조장은 Marktoberdorf의 한 구역인 Leuterschach에 위치한다. 1911년 1월 28일 Weixler 가문이 설립했으며, 1921년에는 1394년에 기원을 둔 Stiftsbrauerei Kempten을 인수해 그 전통을 자사의 전통으로 삼았다. 회사 이름에는 Allgäu와 슈바벤 지역의 맥주 이해관계를 한데 모으는 거점이 되려는 창립자들의 뜻이 분명히 담겨 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1888년부터 켐프텐에서 진행된 통합 과정의 결과물이다. 그 과정에는 Kempten stock brewery, 1899년 8월와 Robert Weixler가 세운 Bürgerlicher Brauhaus, 8월 Schnitzer의 Grünbaumbrauerei가 참여했다. 1911년 1월 28일 Weixler 가문이 지금의 양조장을 설립했다. 1921년에는 1394년에 기원한 Stiftsbrauerei Kempten을 인수했고, 그 전통이 이 양조장 자체의 전통이 되었다. 창립자들은 회사를 Allgäu와 슈바벤 맥주 이해관계의 집합체로 보았고, 이를 회사 이름에 분명히 드러냈다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Radeberger Group 소속이며, 본사와 기원은 켐프텐(Allgäu)에 있다. 양조장은 Marktoberdorf의 한 구역인 Leuterschach에 자리하고 있다. 생산하는 맥주는 약 20종에 이르며 구성이 폭넓다. 1911년 설립 이후 1921년에 인수한 Stiftsbrauerei Kempten의 전통을 이어 온 양조장이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Allgäu와 슈바벤의 맥주 이해관계를 모으겠다는 뜻을 이름에 담았고, 1394년에 기원한 Stiftsbrauerei Kempten의 전통을 자사의 전통으로 삼은 켐프텐의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.allgaeuer-brauhaus.de/",
+  "entityLinks": {
+   "wikidata": "Q2649044",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2649044",
+    "https://en.wikipedia.org/wiki/Allg%C3%A4uer_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2649044",
+   "country": "독일",
+   "inception": "1911",
+   "headquarters": "켐프텐",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Allgäuer Brewery」 본문과 위키데이터 Q2649044 팩트를 근거로 편집"
+ }
+}

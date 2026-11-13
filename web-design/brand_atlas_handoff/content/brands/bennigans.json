@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q8246508",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/bennigans-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bennigans",
+  "urlSlug": "bennigans",
+  "name": "베니건스",
+  "nameKo": "베니건스",
+  "nameEn": "Bennigan's",
+  "definition": "베니건스(Bennigan's)는 미국 텍사스주 댈러스에 본사를 둔 아일랜드 펍 콘셉트의 캐주얼 다이닝 레스토랑 체인이다. 1976년 Norman E. Brinker가 조지아주 애틀랜타에서 창업했다.",
+  "summary": "베니건스(Bennigan's)는 미국 텍사스주 댈러스에 본사를 둔 아일랜드 펍 콘셉트의 캐주얼 다이닝 레스토랑 체인이다. 1976년 Norman E. Brinker가 조지아주 애틀랜타에서 창업했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "아일랜드 펍 콘셉트의 캐주얼 다이닝 체인으로, 몬테크리스토 샌드위치와 2008년 파산 이후 새 소유주 아래 재건을 이어 온 이력으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베니건스는 아일랜드 펍을 콘셉트로 한 캐주얼 다이닝 레스토랑 체인으로, 미국 최초의 캐주얼 다이닝 콘셉트 중 하나로 소개된다. 여러 종류의 고기에 반죽을 입혀 튀기고 슈거파우더를 입힌 몬테크리스토 샌드위치로 알려져 있다. 전성기에는 300개가 넘는 매장을 운영했으나 브랜드 갱신과 성장, 차별화에 실패하고 품질이 떨어졌으며 소비자 취향이 바뀌어 매출이 감소했다. 2008년 7월 Chapter 7 파산 보호를 신청했고 미국 내 직영 매장 150곳을 모두 닫았다. 이후 사모펀드 회사가 인수했으며, 2015년에는 CEO Paul Mangiamele이 인수해 현재에 이르고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "베니건스는 1976년 조지아주 애틀랜타에서 Pillsbury의 한 부문으로 설립되었다. 창업자는 회사 부사장이자 Steak and Ale의 창업자인 Norman E. Brinker이다. 첫 주요 매장은 이듬해 버지니아주 Tysons Corner에 문을 열었다. 1983년 Brinker는 고위 경영진과 함께 Steak and Ale와 Bennigan's 부문을 떠나 고급 햄버거 중심의 지역 레스토랑 Chili's를 인수했다. 1989년 Grand Metropolitan이 Pillsbury를 인수했는데, 주류 유통업체가 주류 판매업체를 소유하지 못하게 하는 법 때문에 Metromedia가 Bennigan's와 Steak and Ale를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 메뉴는 여러 종류의 고기에 반죽을 입혀 튀기고 슈거파우더를 입힌 몬테크리스토 샌드위치이다. 사업은 오프라인 매장과 배달 전용 콘셉트인 \"Bennigan's On The Fly\"로 구성된다. 2012년 5월 경영진은 새 로고와 매장 시제품, 프랜차이즈 모델, 메뉴를 마련하고 케이터링을 추가할 계획을 밝혔다. 새 매장은 규모가 작고 현대적인 디자인이면서도 베니건스 특유의 향수를 담았다. 2021년에는 \"On The Fly\" 브랜드를 호텔에 가상 레스토랑으로 라이선스했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 2월 CEO Paul Mangiamele과 그의 아내 Gwen이 Legendary Restaurant Brands, LLC를 통해 회사를 인수했으며 인수 금액은 공개되지 않았다. 현재 21개의 오프라인 매장과 21개의 배달 전용 \"Bennigan's On The Fly\" 콘셉트를 운영한다. 2018년과 2019년에는 암스테르담, 온두라스, 과테말라, 엘살바도르, 파키스탄 등 해외 지점을 포함해 100개가 넘는 매장을 개발할 계획을 발표했다. 한국에서는 30개가 넘는 매장이 정상 영업하다가 2016년 1월 문을 닫았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "아일랜드 펍 콘셉트의 캐주얼 다이닝 체인으로, 몬테크리스토 샌드위치와 2008년 파산 이후 새 소유주 아래 재건을 이어 온 이력으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://bennigans.com/",
+  "entityLinks": {
+   "wikidata": "Q8246508",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8246508",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%8B%88%EA%B1%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Bennigan%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q8246508",
+   "country": "미국",
+   "inception": "1976",
+   "headquarters": "댈러스",
+   "founders": [
+    "노먼 브링커"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Bennigan's」 본문과 위키데이터 Q8246508 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

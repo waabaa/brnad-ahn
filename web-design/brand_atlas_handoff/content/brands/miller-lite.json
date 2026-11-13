@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q6859181",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "miller-lite",
+  "urlSlug": "miller-lite",
+  "name": "Miller Lite",
+  "nameKo": "",
+  "nameEn": "Miller Lite",
+  "definition": "Miller Lite는 Molson Coors가 생산하는 알코올 도수 4.2%의 칼로리를 줄인 미국 라이트 라거 맥주이다. 1973년 Miller Brewing Company가 처음 출시했다.",
+  "summary": "Miller Lite는 Molson Coors가 생산하는 알코올 도수 4.2%의 칼로리를 줄인 미국 라이트 라거 맥주이다. 1973년 Miller Brewing Company가 처음 출시했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.533333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "미국에서 처음으로 성공한 주류 라이트 맥주로, 'Tastes Great!...Less Filling!' 광고와 함께 라이트 맥주 시장을 연 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Miller Lite는 Molson Coors가 생산하는 알코올 도수 4.2%의 저칼로리 미국 라이트 라거이다. 1973년 일부 시장에서 처음 출시되었고 1975년부터 전국에 유통되었으며, 미국에서 처음으로 성공한 주류 라이트 맥주가 되었다. 이 성공에 자극받아 다른 양조사들도 저칼로리 라이트 맥주를 내놓았다. 그 결과 미국의 라이트 맥주 판매는 1973년 이전에는 미미했으나 2002년에는 미국 맥주 시장의 44%에 이르렀다. 1982년 Anheuser-Busch가 Bud Light를 내놓았고, Bud Light는 1994년 판매량에서 Lite를 앞질렀다. 1998년 Miller는 'Lite' 브랜드의 표기를 'Miller Lite'로 바꾸었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Miller Lite의 기원은 1967년 5월 시카고의 양조사 Meister Brau, Inc.가 내놓은 저칼로리 맥주 Meister Brau Lite로 거슬러 올라간다. Meister Brau는 2년 동안 효소 amyloglucosidase로 잔류 탄수화물을 줄이는 공정을 개발했고 'Lite'라는 이름의 상표를 얻었다. 1972년 재정난에 빠진 Meister Brau는 6월에 Lite를 포함한 브랜드를 밀워키의 Miller Brewing Co.에 매각했다. Miller는 맥주다운 맛을 더하기 위해 1년 넘게 30가지 양조 배합을 시험했고, 1973년 시험 시장에서 새 배합을 출시한 뒤 1975년 전국에 선보였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 4.2%에 칼로리를 줄인 라이트 라거 Miller Lite이다. Miller는 amyloglucosidase 공정을 유지해 잔류 전분과 덱스트린을 발효 가능한 당으로 바꾸어 칼로리와 탄수화물 함량을 낮췄다. 2008년 Miller Brewing Company는 앰버, 블론드 에일, 밀 맥주 세 가지 새 배합을 Miller Lite Brewers Collection이라는 이름으로 시험 판매했다. 광고로는 McCann-Erickson Worldwide가 만든 'Tastes Great!...Less Filling!' 캠페인이 오래 이어졌고, Advertising Age는 이를 역대 여덟 번째로 위대한 광고 캠페인으로 꼽았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Miller Lite는 Molson Coors가 생산한다. 1973년 도입 당시 Miller Brewing Company는 Philip Morris, Inc.가 소유하고 있었다. 1998년 'Lite' 표기를 'Miller Lite'로 바꾼 뒤 지금의 이름을 쓰고 있다. 한편 Bud Light는 1994년 판매량에서 이 브랜드를 앞질렀다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국에서 처음으로 성공한 주류 라이트 맥주로, 'Tastes Great!...Less Filling!' 광고와 함께 라이트 맥주 시장을 연 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.millerlite.com",
+  "entityLinks": {
+   "wikidata": "Q6859181",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6859181",
+    "https://en.wikipedia.org/wiki/Miller_Lite"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6859181",
+   "country": null,
+   "inception": "1973",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Miller Lite」 본문과 위키데이터 Q6859181 팩트를 근거로 편집"
+ }
+}

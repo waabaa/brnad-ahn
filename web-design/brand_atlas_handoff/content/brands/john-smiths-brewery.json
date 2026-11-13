@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3372581",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "john-smiths-brewery",
+  "urlSlug": "john-smiths-brewery",
+  "name": "John Smith's Brewery",
+  "nameKo": "",
+  "nameEn": "John Smith's Brewery",
+  "definition": "John Smith's Brewery는 영국 노스요크셔 테드캐스터에 있는 양조장이다. 영국에서 1990년대 중반 이후 가장 많이 팔린 비터 맥주 John Smith's를 생산한다.",
+  "summary": "John Smith's Brewery는 영국 노스요크셔 테드캐스터에 있는 양조장이다. 영국에서 1990년대 중반 이후 가장 많이 팔린 비터 맥주 John Smith's를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "영국에서 1990년대 중반 이후 가장 많이 팔린 비터 John Smith's를 생산하며, 'No Nonsense' 광고 캠페인과 경마 후원으로 알려진 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 영국 노스요크셔 테드캐스터에서 John Smith's를 비롯한 맥주를 생산한다. John Smith's 판매의 대부분은 질소를 주입한 Extra Smooth 제품이며, 캐스크 컨디셔닝 방식의 제품도 전국에서 판매한다. 잉글랜드 북동부에서는 더 도수가 높은 Magnet도 판매하고, John Smith's Cask와 Magnet은 하틀풀의 Cameron's가 라이선스로 생산한다. 테드캐스터 양조장은 John Smith's Extra Smooth 외에 Amstel과 Foster's 등 하이네켄 제품도 만든다. 이곳은 38 million litre 규모의 생산 능력을 갖춰 영국 내 최대급 양조장 중 하나이다. 현재 모기업은 하이네켄이며, 하이네켄은 2008년에 이 사업을 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1758년 Stephen Hartley가 테드캐스터에서 양조를 시작했다. 1852년 Jane Hartley가 사망하자 John Smith가 사업을 인수했고, 형제 William이 이를 도왔다. 당시에는 페일 에일이 포터를 대체해 가는 중이었고, 테드캐스터의 경수가 새로운 스타일의 양조에 적합했다. 1861년에는 양조와 맥아 사업에 8명을 고용했고, 1880년대에는 인근에 사무소 16곳을 둔 대리점망을 만들어 1889년 연간 생산량이 150,000 barrels에 달했다. 1892년에는 동업 관계를 John Smith's Tadcaster Brewery Company Limited라는 유한회사로 전환했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 질소를 주입한 John Smith's Extra Smooth이며, 이 브랜드 판매의 대부분을 차지한다. 캐스크 컨디셔닝 방식의 John Smith's Cask도 전국에서 판매한다. 더 도수가 높은 Magnet은 잉글랜드 북동부에서 판매한다. John Smith's Cask와 Magnet은 하틀풀의 Cameron's가 라이선스로 생산한다. 테드캐스터 양조장은 John Smith's Extra Smooth와 함께 Amstel, Foster's 등 하이네켄 제품을 생산하며, 생산 능력은 38 million litre이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "하이네켄이 2008년에 이 사업을 인수했고, 현재 모기업은 하이네켄이다. 앞서 1970년에는 Courage가 이 회사를 인수해 유통을 잉글랜드 남부로 넓혔고, Courage는 1995년 Scottish & Newcastle에 인수되었다. 테드캐스터 양조장은 38 million litre 규모의 생산 능력을 갖춘 영국 최대급 양조장 중 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국에서 1990년대 중반 이후 가장 많이 팔린 비터 John Smith's를 생산하며, 'No Nonsense' 광고 캠페인과 경마 후원으로 알려진 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.johnsmiths.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q3372581",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3372581",
+    "https://en.wikipedia.org/wiki/John_Smith%27s_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3372581",
+   "country": "영국",
+   "inception": "1852",
+   "headquarters": "테드캐스터",
+   "founders": [
+    "John Smith"
+   ],
+   "parent": "하이네켄",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「John Smith's Brewery」 본문과 위키데이터 Q3372581 팩트를 근거로 편집"
+ }
+}

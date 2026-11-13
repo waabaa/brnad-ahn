@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q7561808",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/sonic-drive-in-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sonic-drive-in",
+  "urlSlug": "sonic-drive-in",
+  "name": "소닉 드라이브인",
+  "nameKo": "소닉 드라이브인",
+  "nameEn": "Sonic Drive-In",
+  "definition": "소닉 드라이브인(Sonic Drive-In)은 Inspire Brands가 소유한 미국의 드라이브인 방식 패스트푸드 체인이다. 일부 매장에서 롤러스케이트를 탄 카홉이 음식을 나르는 것으로 알려져 있다.",
+  "summary": "소닉 드라이브인(Sonic Drive-In)은 Inspire Brands가 소유한 미국의 드라이브인 방식 패스트푸드 체인이다. 일부 매장에서 롤러스케이트를 탄 카홉이 음식을 나르는 것으로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "루트비어 판매대에서 출발해 차에서 주문하는 드라이브인 방식과 롤러스케이트 카홉으로 알려진 미국 패스트푸드 체인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "소닉은 Sonic Corporation이라는 회사명으로도 불리는 미국의 드라이브인 패스트푸드 체인이며, 이름을 대문자로 표기한다. Arby's, Jimmy John's, Buffalo Wild Wings, Baskin-Robbins, Dunkin'의 모회사인 Inspire Brands가 소유하고 있다. 통나무집 스테이크 식당 밖의 워크업 루트비어 판매대에서 출발해 청량음료, 햄버거, 핫도그를 팔았다. 이후 미국 내 3,400개가 넘는 매장으로 확장했다. 일부 매장에서는 롤러스케이트를 탄 카홉이 음식을 나르며, 대부분의 매장에서 최고의 스케이팅 카홉을 가리는 연례 대회를 연다. 주요 제품으로는 Chili Cheese Coney, Sonic Cheeseburger Combo, Sonic Blasts, Master Shakes, Wacky Pack Kids Meals가 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업자 Troy N. Smith Sr.는 제2차 세계대전 이후 고향인 오클라호마의 세미놀로 돌아와 우유 배달부로 일했고, 이후 빵 배달로 옮겼다. 1953년 사업 파트너와 함께 통나무집과 Top Hat이라는 워크업 루트비어 판매대가 있는 땅을 사들였고, 판매대가 더 수익성이 높다고 보고 파트너의 지분을 인수했다. 고객이 차에서 스피커로 주문하고 카홉이 음식을 가져다주는 방식으로 바꾸자 매출이 곧바로 세 배가 되었다. 1956년 Charles Woodrow Pappe와 악수로 합의해 오클라호마 우드워드에 첫 프랜차이즈 매장을 냈고, 1959년 Top Hat이 이미 상표로 등록되어 있음을 알고 Sonic으로 이름을 바꾸었다. 드라이브인은 1967년 41개에서 1972년 165개, 1978년 1000개로 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소닉의 핵심 제품으로는 Chili Cheese Coney, Sonic Cheeseburger Combo, Sonic Blasts, Master Shakes, Wacky Pack Kids Meals가 있다. 초기에는 루트비어, 청량음료, 햄버거, 핫도그를 팔았다. 1968년에는 튀긴 피클 슬라이스인 Pickles-Os를 선보였다. 운영 면에서는 일부 매장에서 롤러스케이트를 탄 카홉이 음식을 나른다. 1960년대에 공급·유통 부문인 Sonic Supply를 만들었고, 1973년 이를 프랜차이즈 회사로 개편해 가맹점에 장비, 건축 도면, 기본 운영 지침을 제공했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "소닉은 Arby's, Jimmy John's, Buffalo Wild Wings, Baskin-Robbins, Dunkin'의 모회사인 Inspire Brands가 소유하고 있으며, 본사는 오클라호마시티에 있다. 미국 내 매장은 3,400개가 넘는다. 대부분의 매장은 가맹점주가 운영하며, 점주가 매장 관리자를 사업 파트너로 삼는 관계는 지금까지 이어지고 있다. 대부분의 매장에서는 최고의 스케이팅 카홉을 가리는 연례 대회를 연다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "루트비어 판매대에서 출발해 차에서 주문하는 드라이브인 방식과 롤러스케이트 카홉으로 알려진 미국 패스트푸드 체인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sonicdrivein.com/",
+  "entityLinks": {
+   "wikidata": "Q7561808",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7561808",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%8B%89_%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%9D%B8",
+    "https://en.wikipedia.org/wiki/Sonic_Drive-In"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7561808",
+   "country": null,
+   "inception": "1963",
+   "headquarters": "오클라호마시티",
+   "founders": [
+    "Troy Smith"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Sonic Drive-In」 본문과 위키데이터 Q7561808 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

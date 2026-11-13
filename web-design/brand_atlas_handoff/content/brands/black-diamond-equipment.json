@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q2905359",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/black-diamond-equipment-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "black-diamond-equipment",
+  "urlSlug": "black-diamond-equipment",
+  "name": "Black Diamond Equipment",
+  "nameKo": "블랙다이아몬드",
+  "nameEn": "Black Diamond Equipment",
+  "definition": "Black Diamond Equipment는 미국 유타에 본사를 둔 클라이밍, 스키, 산악 스포츠 장비 제조업체이다. 1989년에 설립되었으며 Clarus Corporation이 소유하고 있다.",
+  "summary": "Black Diamond Equipment는 미국 유타에 본사를 둔 클라이밍, 스키, 산악 스포츠 장비 제조업체이다. 1989년에 설립되었으며 Clarus Corporation이 소유하고 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "Chouinard Equipment Ltd.의 자산을 전직 직원들이 인수해 1989년에 세운 클라이밍 장비 업체로, Camalot과 Magnetron 카라비너로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Black Diamond Equipment는 클라이밍, 스키, 산악 스포츠용 장비를 설계하고 제조하는 미국 기업이다. 본사는 미국 유타에 있고, 오스트리아 인스브루크에 글로벌 사무소를 두고 있다. 1989년 12월 1일 Chouinard Equipment Ltd.의 자산을 전직 직원들이 인수하면서 설립되었다. 카라비너, 하네스, 헬멧, 크램폰 같은 클라이밍 장비와 스키 및 눈사태 안전 장비, 텐트, 트레킹 폴, 배낭을 만든다. 현재 Clarus Corporation이 소유하며, Clarus Corporation은 Pieps와 ClimbOn! Skincare도 소유하고 있다. 2024년에는 일부 제품군에 재활용 알루미늄을 사용했다는 UL Solutions의 제3자 인증을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1950년대 후반 등반가 Yvon Chouinard가 요세미티 밸리에서 피톤을 손으로 단조해 자동차 트렁크에서 판매하기 시작했다. 품질로 평판을 얻으면서 캘리포니아 벤투라에서 Chouinard Equipment Ltd.가 출범했다. 1989년 초 제품 책임 소송과 수익성 부진이 이어지자 Yvon Chouinard는 회사를 Chapter 11 파산보호에 넣었다. 1989년 12월 1일 Peter Metcalf가 이끄는 전직 직원들과 외부 투자자 일부가 자산을 인수해 Black Diamond를 세웠다. 1991년 9월에는 직원 45명과 함께 유타주 솔트레이크시티 인근으로 본사를 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "클라이밍 제품에는 카라비너, 퀵드로, 하네스, 확보 장비, 빌레이 장치, 헬멧, 아이스 툴, 크램폰, 아이스 스크루, 볼더링 패드, 빅월 장비가 있다. 스키 및 눈사태 안전 장비와 텐트, 조명, 트레킹 폴, 배낭도 만든다. 대표 제품으로 스프링 장착 캠 장치인 Camalot과 게이트에 자석을 쓰는 자동 잠금 카라비너 Magnetron이 있다. Bibler 텐트(1997), Ascension 클라이밍 스킨(1999), Franklin 클라이밍 제품(1998)을 인수해 제품군에 통합했다. 2010년 인수한 배낭 업체 Gregory Mountain Products는 2014년 Samsonite에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 5월 Clarus Corporation에 인수되었으며, Clarus Corporation은 NASDAQ에서 CLAR라는 이름으로 거래된다. 2015년에는 유타 제조 시설 확장을 발표했고, 2016년에는 유럽 본부를 Reinach에서 오스트리아 인스브루크로 옮긴다고 발표했다. 2020년 6월에는 Clarus 최고경영자 Warren Kanders와의 관계를 둘러싼 우려가 제기되어 보이콧 요구가 나왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Chouinard Equipment Ltd.의 자산을 전직 직원들이 인수해 1989년에 세운 클라이밍 장비 업체로, Camalot과 Magnetron 카라비너로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.blackdiamondequipment.com",
+  "entityLinks": {
+   "wikidata": "Q2905359",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2905359",
+    "https://en.wikipedia.org/wiki/Black_Diamond_Equipment"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2905359",
+   "country": "미국",
+   "inception": "1989",
+   "headquarters": "홀러데이",
+   "founders": [
+    "이본 시나드"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Black Diamond Equipment」 본문과 위키데이터 Q2905359 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

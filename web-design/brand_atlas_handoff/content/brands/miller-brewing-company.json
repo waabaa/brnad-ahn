@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q658637",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/miller-brewing-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "miller-brewing-company",
+  "urlSlug": "miller-brewing-company",
+  "name": "밀러",
+  "nameKo": "밀러",
+  "nameEn": "Miller Brewing Company",
+  "definition": "밀러(Miller Brewing Company)는 미국 위스콘신주 밀워키에 본사를 둔 맥주 양조회사이다. 1855년 Frederick Miller가 설립했으며 Miller Lite, Miller High Life 등의 맥주 브랜드를 만들어 왔다.",
+  "summary": "밀러(Miller Brewing Company)는 미국 위스콘신주 밀워키에 본사를 둔 맥주 양조회사이다. 1855년 Frederick Miller가 설립했으며 Miller Lite, Miller High Life 등의 맥주 브랜드를 만들어 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "밀러는 1855년 밀워키에서 시작해 최초로 널리 인기를 얻은 라이트 맥주 Miller Lite와 \"The Champagne of Beers\"의 Miller High Life를 낸 미국 양조회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "밀러는 미국 위스콘신주 밀워키에 기반을 둔 맥주 양조회사이다. 1855년 Frederick Miller가 설립했으며 가족 경영은 1966년까지 이어졌다. 이후 W. R. Grace and Company, Philip Morris, South African Breweries를 거쳐 SABMiller 체제에 속하게 되었다. 2016년 Molson Coors가 인수했고, Molson Coors는 밀워키의 옛 밀러 양조장 부지에서 Miller Brewery를 계속 운영한다. 대표 브랜드로는 Miller Lite, Miller High Life, Milwaukee's Best가 있다. Miller Lite는 1972년에 출시되어 널리 인기를 얻은 최초의 라이트 맥주로 소개된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Frederick Miller는 1854년 독일 Hohenzollern에서 이민해 독특한 양조 효모를 가져왔고, 1855년 밀워키에서 회사를 세웠다. 그는 작은 Plank Road Brewery를 $2,300에 사들였으며, 이 양조장은 인근 농장에서 나는 원료를 쉽게 구할 수 있는 위치에 있었다. 1855년 사명을 Miller Brewing Company, Inc.로 바꾸었고 가족 소유는 1966년까지 이어졌다. 1961년에는 밀워키 5대 양조사 중 가장 작은 A. Gettelman Brewing Company를 인수했다. 1966년에는 W. R. Grace and Company가 회사를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Miller High Life는 1903년에 출시된 미국식 라거로, 밀러의 가장 오래된 브랜드이며 도수는 4.6%이다. 풍부한 탄산 때문에 오랫동안 \"The Champagne of Beers\"라는 슬로건을 사용했다. Miller Lite는 1972년에 출시된 미국식 라이트 라거로, 도수는 4.2%이다. Miller Genuine Draft(MGD)는 1985년에 출시되었으며 High Life와 같은 레시피로 만들되 살균 대신 저온 여과 방식을 쓴다. Miller 64는 도수 2.8%의 \"ultra light\" 맥주이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 Anheuser-Busch InBev가 SABMiller 인수에 합의했고, 미국 법무부와의 합의에 따라 SABMiller는 MillerCoors 지분을 Molson Coors에 매각했다. 2016년 10월 11일 매각이 이루어졌으며 금액은 약 US $12 billion이었다. Molson Coors는 미국 외 지역의 Miller 브랜드 전체를 소유하고, 푸에르토리코를 포함한 미국 내 권리도 유지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "밀러는 1855년 밀워키에서 시작해 최초로 널리 인기를 얻은 라이트 맥주 Miller Lite와 \"The Champagne of Beers\"의 Miller High Life를 낸 미국 양조회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.millercoors.com",
+  "entityLinks": {
+   "wikidata": "Q658637",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q658637",
+    "https://ko.wikipedia.org/wiki/%EB%B0%80%EB%9F%AC_%EB%B8%8C%EB%A3%A8%EC%9E%89_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Miller_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q658637",
+   "country": "미국",
+   "inception": "1855",
+   "headquarters": "밀워키",
+   "founders": [
+    "Frederick Miller"
+   ],
+   "parent": "SAB밀러",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Miller Brewing Company」 본문과 위키데이터 Q658637 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

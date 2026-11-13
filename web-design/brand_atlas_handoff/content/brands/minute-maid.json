@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1206056",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/minute-maid-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "minute-maid",
+  "urlSlug": "minute-maid",
+  "name": "미닛메이드",
+  "nameKo": "미닛메이드",
+  "nameEn": "Minute Maid",
+  "definition": "미닛메이드(Minute Maid)는 레모네이드와 오렌지 주스로 알려진 미국의 음료 브랜드이다. 현재는 Hi-C를 포함한 여러 종류의 청량음료로 범위를 넓혔으며 코카콜라 컴퍼니가 소유한다.",
+  "summary": "미닛메이드(Minute Maid)는 레모네이드와 오렌지 주스로 알려진 미국의 음료 브랜드이다. 현재는 Hi-C를 포함한 여러 종류의 청량음료로 범위를 넓혔으며 코카콜라 컴퍼니가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "냉동 오렌지 주스 농축액을 처음 시장에 내놓아 오렌지 주스를 연중 미국 전역에서 마실 수 있게 한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미닛메이드는 미국의 음료 브랜드로, 주로 레모네이드나 오렌지 주스와 연결되지만 Hi-C를 포함한 다양한 청량음료까지 영역을 넓혔다. 냉동 오렌지 주스 농축액을 처음 시장에 내놓은 회사로, 이 제품 덕분에 주스가 미국 전역에 유통되어 연중 제공될 수 있었다. 미닛메이드 컴퍼니는 세계 최대의 과일 주스·음료 판매 기업으로 소개되는 코카콜라 컴퍼니가 소유한다. 중부 유럽에서는 Cappy, 라틴아메리카에서는 Del Valle, 러시아와 독립국가연합에서는 'Моя Семья'라는 이름으로 판매된다. 1997년 추정치 기준으로 직원은 1,900명을 넘고 매출은 2 billion 달러를 넘었다. 본사는 슈가랜드에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1944년 보스턴의 National Research Corporation(NRC)이 의약품 탈수 방법을 개발했고, 미 육군이 이를 영양 식품에 확대하려 하자 자회사 Vacuum Foods Corporation을 세웠다. John M. Fox가 이끈 이 회사는 분말 오렌지 주스 500,000 lb 공급 계약을 따냈으나 전쟁이 끝나 계약이 취소되었다. 이후 오렌지 주스의 물 80퍼센트를 제거한 냉동 농축액을 만들기로 했고, 광고회사 H. A. Loudon Advertising이 Minute Maid라는 이름을 지었다. 첫 출하는 1946년 4월 30일이었으며, Fox가 직접 집집마다 무료 샘플을 나눠 주었다. Bing Crosby의 라디오 쇼가 1950년 10월까지 방송되었고, 연중 신선한 맛의 주스를 살 수 있다는 점이 인기를 얻어 전국적 성공으로 이어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 오렌지 주스의 물 80퍼센트를 제거해 만든 냉동 오렌지 주스 농축액이다. 1973년에는 미국에서 첫 냉장 즉석 음용 오렌지 주스를 내놓으면서 Tropicana와 이른바 '오렌지 주스 전쟁'에 들어갔다. 브랜드는 레모네이드와 오렌지 주스를 중심으로 하며 Hi-C를 포함한 여러 종류의 청량음료로 확장되었다. 지역에 따라 Cappy, Del Valle, 'Моя Семья'라는 이름으로도 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "미닛메이드는 1960년 12월 코카콜라에 합병되어 사업부가 되었고, 현재는 코카콜라 컴퍼니가 소유한다. 1967년 텍사스 휴스턴으로 옮겨 Duncan Foods와 함께 Coca-Cola Foods 사업부를 이루었다. 1996년 회사명을 The Minute Maid Company로 바꾸었고, 1997년 코카콜라 컴퍼니는 플로리다의 미닛메이드 오렌지 농장을 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "냉동 오렌지 주스 농축액을 처음 시장에 내놓아 오렌지 주스를 연중 미국 전역에서 마실 수 있게 한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.minutemaid.com/",
+  "entityLinks": {
+   "wikidata": "Q1206056",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1206056",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%8B%9B%EB%A9%94%EC%9D%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Minute_Maid"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1206056",
+   "country": null,
+   "inception": "1945",
+   "headquarters": "슈가랜드",
+   "founders": [],
+   "parent": "코카콜라 컴퍼니",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Minute Maid」 본문과 위키데이터 Q1206056 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

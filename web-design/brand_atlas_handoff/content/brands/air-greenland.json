@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q407292",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/air-greenland-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "air-greenland",
+  "urlSlug": "air-greenland",
+  "name": "에어 그린란드",
+  "nameKo": "에어 그린란드",
+  "nameEn": "Air Greenland",
+  "definition": "에어 그린란드(Air Greenland)는 1960년에 설립된 그린란드의 항공사이다. 본사는 누크에 있으며, 그린란드 국내선과 덴마크 등을 잇는 국제선을 운항한다.",
+  "summary": "에어 그린란드(Air Greenland)는 1960년에 설립된 그린란드의 항공사이다. 본사는 누크에 있으며, 그린란드 국내선과 덴마크 등을 잇는 국제선을 운항한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "누크에 본사를 둔 그린란드의 항공사로, 국내 도시와 정착지를 잇는 국내선과 덴마크 등을 잇는 국제선을 함께 운항한다. 1962년부터 그린란드 정부와 덴마크 정부가 공동 소유주가 된 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에어 그린란드는 그린란드의 주요 도시와 정착지를 연결하는 국내선과, 그린란드와 덴마크 등을 연결하는 국제선을 운항하는 항공사이다. 본사는 그린란드의 도시 누크에 있다. 1960년 11월 스칸디나비아 항공과 크뤼올릿셀스카베트에 의해 그린란드 에어(Greenlandair)라는 이름으로 설립되었으며 2002년 현재의 사명으로 변경했다. 1962년에는 그린란드 정부와 덴마크 정부가 공동 소유주가 되었다. 1998년에는 보잉 757-200을 도입하면서 제트 여객기 운항을 시작했다. 2020년 12월 기준으로 여객 기종과 헬리콥터 기종을 보유하고 있으며 평균 기령은 23.6년이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "에어 그린란드는 1960년 11월 스칸디나비아 항공과 광산회사 크뤼올릿셀스카베트(Kryolitselskabet)에 의해 그린란드 에어(Greenlandair)라는 이름으로 설립되었다. 1962년에는 그린란드 정부와 덴마크 정부가 공동 소유주가 되었다. 1998년에는 보잉 757-200을 도입하면서 제트 여객기 운항을 시작했다. 2002년에는 사명을 그린란드 에어에서 현재의 에어 그린란드로 변경했다. 이후 그린란드 국내선과 덴마크 등을 잇는 국제선을 운항하는 항공사로 이어지고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에어 그린란드는 그린란드의 주요 도시와 정착지를 연결하는 국내선과, 그린란드와 덴마크 등을 연결하는 국제선을 운항한다. 1998년 보잉 757-200을 도입하면서 제트 여객기 운항을 시작했다. 기종은 여객 기종, 헬리콥터 기종, 퇴역 기종으로 구분되어 정리된다. 기종 목록에는 드 하빌랜드 캐나다 DHC-6 트윈오터, 더글러스 DC-3, 벨 212, 세스나 172, 파이퍼 PA-31, PBY 카탈리나, 아에로스파시알 알루에트 III 등이 포함된다. 2020년 12월 기준 평균 기령은 23.6년이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "에어 그린란드는 그린란드의 도시 누크에 본사를 두고 그린란드 국내선과 덴마크 등을 연결하는 국제선을 운항하고 있다. 2020년 12월 기준으로 여객 기종과 헬리콥터 기종을 보유하고 있으며 평균 기령은 23.6년이다. 사명은 2002년 변경된 에어 그린란드를 그대로 쓰고 있으며 원래의 사명은 그린란드 에어였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "누크에 본사를 둔 그린란드의 항공사로, 국내 도시와 정착지를 잇는 국내선과 덴마크 등을 잇는 국제선을 함께 운항한다. 1962년부터 그린란드 정부와 덴마크 정부가 공동 소유주가 된 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://airgreenland.com",
+  "entityLinks": {
+   "wikidata": "Q407292",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q407292",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EA%B7%B8%EB%A6%B0%EB%9E%80%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Air_Greenland"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q407292",
+   "country": "그린란드",
+   "inception": "1960",
+   "headquarters": "누크",
+   "founders": [
+    "스칸디나비아 항공",
+    "Kryolitselskabet Øresund"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「에어 그린란드」 요약과 위키데이터 Q407292 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

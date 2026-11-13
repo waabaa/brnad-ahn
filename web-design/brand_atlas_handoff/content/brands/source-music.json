@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q21709935",
+ "demand": {
+  "why": "국내",
+  "naver": 0.038,
+  "koViews": 1819,
+  "enViews": 10669,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/source-music-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "source-music",
+  "urlSlug": "source-music",
+  "name": "쏘스뮤직",
+  "nameKo": "쏘스뮤직",
+  "nameEn": "Source Music",
+  "definition": "쏘스뮤직(Source Music)은 서울특별시에 본사를 둔 대한민국의 연예 기획사로, 2009년 11월 소성진 대표가 설립했다. 2019년 하이브에 인수되어 하이브의 하위 레이블이 되었다.",
+  "summary": "쏘스뮤직(Source Music)은 서울특별시에 본사를 둔 대한민국의 연예 기획사로, 2009년 11월 소성진 대표가 설립했다. 2019년 하이브에 인수되어 하이브의 하위 레이블이 되었다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "하이브의 하위 레이블로, 소성진 대표가 설립했고 인수 후에도 기존 경영진을 유임해 레이블의 색깔과 독립성을 유지하기로 한 기획사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "쏘스뮤직은 대한민국의 엔터테인먼트 회사로, 소속 아티스트의 매니지먼트와 제작을 맡는다. 2009년 11월 소성진 대표가 설립했으며 본사는 서울특별시에 있다. 2012년에는 하이브와 함께 걸 그룹 글램을 데뷔시키는 등 각 회사 소속 아티스트들의 매니지먼트와 제작 분야에서 지속적으로 협업해 왔다. 2019년 7월 29일 하이브에 인수되면서 하이브의 하위 레이블이 되었다. 인수 계약 완료 당시 빅히트는 쏘스뮤직을 자회사로 편입하되 기존 경영진을 유임해 레이블의 색깔과 독립성을 유지해 운영할 계획이라고 밝혔다. 현재 모기업은 하이브이며, 2021년 5월 22일에는 소속 그룹 여자친구의 해체와 계약 종료를 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "쏘스뮤직은 2009년 11월 소성진 대표가 설립한 엔터테인먼트 회사이다. 2012년에는 하이브와 함께 걸 그룹 글램을 데뷔시켰고, 이후 각 회사 소속 아티스트의 매니지먼트와 제작 분야에서 지속적으로 협업했다. 여자친구는 본래 7인조 걸 그룹으로 기획되었으나 한 연습생이 계약을 위반하고 무단으로 이탈했고, 데뷔조에 속했던 이소율도 탈퇴했다. 이후 은하를 추가해 여자친구를 6인조로 데뷔시켰다. 2019년 7월에는 하이브에 인수되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 7월 29일 하이브에 인수되어 하이브의 하위 레이블이 되었다. 인수 당시 기존 경영진을 유임하고 레이블의 색깔과 독립성을 유지한다는 계획이 밝혀졌다. 소성진 대표는 이번 합류가 소속 아티스트와 연습생, 구성원 모두에게 도약의 기회라고 밝혔다. 2021년 5월 22일에는 여자친구의 해체와 계약 종료를 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하이브의 하위 레이블로, 소성진 대표가 설립했고 인수 후에도 기존 경영진을 유임해 레이블의 색깔과 독립성을 유지하기로 한 기획사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sourcemusic.com/",
+  "entityLinks": {
+   "wikidata": "Q21709935",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21709935",
+    "https://ko.wikipedia.org/wiki/%EC%8F%98%EC%8A%A4%EB%AE%A4%EC%A7%81",
+    "https://en.wikipedia.org/wiki/Source_Music"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q21709935",
+   "country": "대한민국",
+   "inception": "2009",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "하이브",
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「쏘스뮤직」 요약과 위키데이터 Q21709935 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

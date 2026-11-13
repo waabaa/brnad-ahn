@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1471021",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/perrier-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "perrier",
+  "urlSlug": "perrier",
+  "name": "페리에",
+  "nameKo": "페리에",
+  "nameEn": "Perrier",
+  "definition": "페리에(Perrier)는 프랑스 베르제즈 마을을 수원지로 삼는 자연 광천수 생수 브랜드이다. 자연 탄산수이며 탄산 함유량이 높고 초록색 병 디자인으로 널리 알려져 있다.",
+  "summary": "페리에(Perrier)는 프랑스 베르제즈 마을을 수원지로 삼는 자연 광천수 생수 브랜드이다. 자연 탄산수이며 탄산 함유량이 높고 초록색 병 디자인으로 널리 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "페리에는 자연 탄산수이면서 탄산 함유량이 높고, 눈물방울 모양의 뚜렷한 녹색 병으로 구분되는 프랑스 생수 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페리에는 프랑스 가르주 베르제즈 마을을 수원지로 삼는 자연 광천수 생수 브랜드이다. 자연 탄산수라는 점과 탄산 함유량이 높다는 점, 특유의 초록색 병 디자인으로 널리 알려져 있다. 병에 담긴 탄산의 농도는 베르제즈 마을 수원지의 탄산 농도와 같은 수준이다. 현재는 네슬레 워터 프랑스가 생산하며, 이 회사는 비텔, 산 펠레그리노, 콩트렉스 등의 브랜드도 생산한다. 유럽에서는 병과 캔으로 판매되고, 한국에서는 330ml 병이 주로 수입된다. 병은 특유의 '눈물방울' 모양에 뚜렷한 녹색을 띠고, 맛은 보통맛, 레몬맛, 라임맛 등으로 나뉘어 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "페리에는 1903년에 설립된 프랑스의 자연 광천수 생수 브랜드이다. 수원지는 프랑스 가르주 베르제즈(Vergèze) 마을이며, 물과 자연 탄산가스 모두 이곳에서 각각 따로 추출한다. 예전에는 프랑스의 페리에 비텔 그룹(Perrier Vittel Group SA)이 생산하였다. 1992년 네슬레 사가 인수한 뒤로는 네슬레 워터 프랑스 사가 생산하고 있다. 제조 과정에서는 추출한 물을 정수해 병에 채우면서 탄산가스를 다시 그대로 첨가하므로 병 속 탄산의 농도가 수원지와 같은 수준이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "페리에는 보통맛, 레몬맛, 라임맛 등으로 나뉘어 판매된다. 2007년 미국에서는 시트론 레몬라임과 팡플무스 로스(핑크 그레이프프루트)맛을 출시했다. 2015년에는 그린애플맛이 프랑스와 미국에 출시되었고, 2016년에는 프랑스에서 민트맛을 처음 선보였다. 유럽에서는 750ml, 330ml, 200ml 병과 330ml 캔으로 판매하며, 유럽 이외의 시장에서는 250ml 캔 제품도 찾아볼 수 있다. 한국에서는 330ml 병이 주로 수입된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "페리에는 1992년 네슬레 사가 인수한 뒤로 네슬레 워터 프랑스 사가 생산하고 있다. 네슬레 워터 프랑스는 비텔, 산 펠레그리노, 콩트렉스 등의 브랜드를 생산하는 것으로도 유명하다. 생산 주체는 예전의 페리에 비텔 그룹에서 네슬레 워터 프랑스로 바뀌었다. 제품은 유럽과 한국 등에서 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "페리에는 자연 탄산수이면서 탄산 함유량이 높고, 눈물방울 모양의 뚜렷한 녹색 병으로 구분되는 프랑스 생수 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.perrier.com/",
+  "entityLinks": {
+   "wikidata": "Q1471021",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1471021",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A6%AC%EC%97%90",
+    "https://en.wikipedia.org/wiki/Perrier"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1471021",
+   "country": null,
+   "inception": "1903",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「페리에」 요약과 위키데이터 Q1471021 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

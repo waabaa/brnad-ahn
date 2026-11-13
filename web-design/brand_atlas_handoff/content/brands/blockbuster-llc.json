@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q884711",
+ "demand": {
+  "why": "국외",
+  "naver": 0.006,
+  "koViews": 319,
+  "enViews": 83376,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/blockbuster-llc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "blockbuster-llc",
+  "urlSlug": "blockbuster-llc",
+  "name": "블록버스터",
+  "nameKo": "블록버스터",
+  "nameEn": "Blockbuster LLC",
+  "definition": "블록버스터(Blockbuster LLC)는 미국 텍사스 주 댈러스에 본사를 둔 DVD, VHS, 비디오 게임 대여 전문점이다. 1985년 데이비드 쿡이 댈러스에서 1호점을 열었다.",
+  "summary": "블록버스터(Blockbuster LLC)는 미국 텍사스 주 댈러스에 본사를 둔 DVD, VHS, 비디오 게임 대여 전문점이다. 1985년 데이비드 쿡이 댈러스에서 1호점을 열었다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "2006년경까지 미국 비디오 대여업의 대명사로 여겨졌으나 스마트폰과 OTT 시장의 발달에 대응하지 못해 쇠퇴한 대여 전문점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "블록버스터는 매장에서 DVD와 비디오를 빌려주는 대여 전문점으로, 2000년대 중반부터는 배송 대여 서비스도 운영했다. 1990년대부터 2000년대 중반까지 비디오와 DVD 열풍에 힘입어 미국 전역과 해외로 사업을 넓혔다. 2004년에는 미국에 9,094개의 매장과 84,300명의 영업직원을 두었고, 이 시기에 매출이 정점에 이르렀다. 같은 시기에 등장한 넷플릭스, 레드박스와 경쟁했으나 비디오와 DVD가 주류였던 2000년대에는 이들보다 성과가 훨씬 앞섰다. 그러나 불법 다운로드와 인터넷의 발달로 시장이 쇠퇴하면서 2010년 9월 파산을 신청했다. 2022년 기준으로 미국 오리건주 벤드에 매장 한 개만 남아 영업 중이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "설립자 데이비드 쿡은 1978년 Cook Data Services라는 석유, 가스 운반업체를 창업했으나 큰 성공을 거두지 못했다. 이후 아내 신디 쿡의 제안으로 비디오 대여 사업에 뛰어들어, 1985년 텍사스 주 댈러스의 동네 비디오가게를 인수하고 'Blockbuster'라는 상표를 붙여 영업을 시작했다. 1호점이 성공하자 텍사스 주에 분점을 열었고 1990년대 초반까지 미국 전역으로 점포를 확장했다. 1990년대 중반에는 영국에 첫 해외점포를 연 뒤 호주, 뉴질랜드, 아일랜드, 프랑스, 캐나다 등으로 나아갔다. 1997년 타코벨의 CEO였던 존 아티오코가 블록버스터의 CEO에 올랐고, 1990년대 후반부터 DVD 대여 서비스가 시작되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 매장에서 DVD, VHS, 비디오 게임을 대여하는 것이다. 1985년 1호점에서는 8000개의 VHS와 2000개의 베타 테이프를 대여해 주었다. DVD 대여는 2000년대 초반 VHS 대여량의 40% 수준까지 따라잡았고, 2003년에는 VHS의 대여, 판매량을 넘어섰다. 넷플릭스의 우편 대여와 레드박스의 자판기 대여에 맞서 2000년대 중반부터 우편 배달 서비스를 시작했고 자판기도 제작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 9월 23일 본사가 파산을 신청했고 2011년 디시 네트워크에 인수되었다. 인수 과정에서 5000여개 이상의 매장이 폐업했고 2011년에는 600여개의 매장만 영업했다. 2014년까지 300여개의 매장이 더 폐업했으며, 2022년 기준으로 미국 오리건주 벤드의 매장 한 개만 남아 관광명소로서 매출을 유지하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2006년경까지 미국 비디오 대여업의 대명사로 여겨졌으나 스마트폰과 OTT 시장의 발달에 대응하지 못해 쇠퇴한 대여 전문점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://blockbuster.com/",
+  "entityLinks": {
+   "wikidata": "Q884711",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q884711",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EB%B2%84%EC%8A%A4%ED%84%B0_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Blockbuster_(retailer)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q884711",
+   "country": "미국",
+   "inception": "1985",
+   "headquarters": "댈러스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「블록버스터 (기업)」 요약과 위키데이터 Q884711 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

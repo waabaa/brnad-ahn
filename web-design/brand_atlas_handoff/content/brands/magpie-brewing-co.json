@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q139407061",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "magpie-brewing-co",
+  "urlSlug": "magpie-brewing-co",
+  "name": "맥파이 브루잉 컴퍼니",
+  "nameKo": "맥파이 브루잉 컴퍼니",
+  "nameEn": "Magpie Brewing Co.",
+  "definition": "맥파이 브루잉 컴퍼니(Magpie Brewing Co.)는 대한민국의 수제맥주 양조 회사이다. 서울특별시와 제주특별자치도에 매장을 운영하며, 제주에 양조장을 두고 있다.",
+  "summary": "맥파이 브루잉 컴퍼니(Magpie Brewing Co.)는 대한민국의 수제맥주 양조 회사이다. 서울특별시와 제주특별자치도에 매장을 운영하며, 제주에 양조장을 두고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "한국에서 처음으로 상업적으로 사워비어를 양조한 회사로 알려져 있으며, 제주 감귤 껍질과 고수를 쓴 더 고스트를 대표 맥주로 내세운다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "맥파이는 대한민국의 수제맥주 양조 회사로, 서울특별시와 제주특별자치도에서 매장을 운영한다. 제주에 양조장을 두고 있으며, 한국에서 처음으로 상업적으로 사워비어를 양조한 회사로 알려져 있다. 대표 맥주는 제주 감귤 껍질과 고수(코리앤더)를 사용한 고제 스타일 사워 에일 더 고스트(The Ghost)이다. 2019년 태국 방콕에서 열린 SEA Brew Conference에서 더 고스트가 Barth-Haas Champion Beer of Asia를 수상했다. 미국, 홍콩, 태국에 수출하며 미국 유통은 B-United International이 담당한다. 미국 NPR은 2019년에 맥파이의 미국 시장 진출 계획을 보도했고, CNN 트래블, 바이스 먼치스, 론리 플래닛, 아파 등에서도 다룬 바 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "맥파이는 2011년 서울 이태원에서 홈브루잉 작업실로 시작되었다. 초기 운영에는 Eric Moynihan, Tiffany Lee Needham, Jason Sullivan, Hassan Haider 네 사람이 참여했다. 2012년 이태원 녹사평대로에 첫 매장(브루샵)이 문을 열었다. 2014년에는 아라리오 갤러리와의 협업으로 제주시 탑동에 두 번째 매장을 열었다. 2016년에는 제주시 동회천에 있던 옛 감귤 창고를 개조해 자체 양조장을 세웠고, 이후 이곳이 주 생산 시설이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주는 더 고스트(The Ghost)로, 제주 감귤 껍질과 고수(코리앤더)를 사용한 고제 스타일 사워 에일이다. 그 외 페일 에일, IPA, 쾰쉬, 포터 등을 정규 제품으로 양조한다. 별도 제품인 환상의 섬 제주(Fantasy Island Jeju)는 제주 감귤과 한라봉을 사용한 라이스 라거이며, 미국 Total Wine & More에서 판매되고 있다. 매장은 2012년에 문을 연 이태원 브루샵, 중구 을지로의 NM+, 제주시 탑동의 매장, 동회천의 양조장 겸 탭룸으로 네 곳이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 서울 이태원과 중구 을지로, 제주시 탑동과 동회천에서 네 개의 매장을 운영하며, 동회천의 양조장이 주 생산 시설이다. 미국, 홍콩, 태국에 수출하며 미국 유통은 B-United International이 담당한다. 2019년에는 미국 NPR이 맥파이의 미국 시장 진출 계획을 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "한국에서 처음으로 상업적으로 사워비어를 양조한 회사로 알려져 있으며, 제주 감귤 껍질과 고수를 쓴 더 고스트를 대표 맥주로 내세운다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.magpiebrewing.com",
+  "entityLinks": {
+   "wikidata": "Q139407061",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q139407061",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A5%ED%8C%8C%EC%9D%B4_%EB%B8%8C%EB%A3%A8%EC%9E%89",
+    "https://en.wikipedia.org/wiki/Magpie_Brewing"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q139407061",
+   "country": "대한민국",
+   "inception": "2011",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "한국어 위키백과 「맥파이 브루잉」 요약과 위키데이터 Q139407061 팩트를 근거로 편집"
+ }
+}

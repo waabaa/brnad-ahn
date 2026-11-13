@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q522016",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/f-secure-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "f-secure",
+  "urlSlug": "f-secure",
+  "name": "F-시큐어",
+  "nameKo": "F-시큐어",
+  "nameEn": "F-Secure",
+  "definition": "F-시큐어(F-Secure)는 핀란드 헬싱키에 본사를 둔 사이버 보안·프라이버시 기업이다. 백신, VPN, 비밀번호 관리 등 소비자용 보안 제품과 서비스를 개발해 판매한다.",
+  "summary": "F-시큐어(F-Secure)는 핀란드 헬싱키에 본사를 둔 사이버 보안·프라이버시 기업이다. 백신, VPN, 비밀번호 관리 등 소비자용 보안 제품과 서비스를 개발해 판매한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "F-시큐어(F-Secure)는 1988년 Data Fellows로 출발한 핀란드의 사이버 보안 기업으로, 2022년 분할 이후 소비자 보안에 집중한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "F-시큐어(F-Secure)는 컴퓨터, 모바일 기기, 스마트 TV, 사물인터넷 기기를 위한 소비자용 사이버 보안 제품과 서비스를 개발하고 판매하는 핀란드 기업이다. 백신, VPN, 비밀번호 관리 제품이 주요 사업이다. 자사 웹사이트에서 무료로 쓸 수 있는 도구도 여러 가지 제공한다. 본사는 핀란드 헬싱키에 있다. 2022년 기업용 사업과 소비자용 사업을 분할했고, 기업용 사업은 WithSecure로 이름을 바꿨다. 이후 F-Secure라는 이름은 소비자 보안 사업이 이어서 쓰고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1988년 5월 16일 Petri Allas와 Risto Siilasmaa가 Data Fellows라는 이름으로 설립했다. 초기에는 컴퓨터 사용자를 교육하고 맞춤형 데이터베이스를 구축했다. 3년 뒤 첫 대형 소프트웨어 프로젝트를 시작해 백신 제품용 최초의 휴리스틱 스캐너를 개발했다. 1994년에는 Windows PC용 첫 백신 제품을 출시했고, 1999년에 사명을 F-Secure로 바꿨다. 2005년에는 BlackLight라는 안티 루트킷 기술을 처음으로 개발했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "F-Secure는 백신, VPN, 비밀번호 관리 등 소비자용 사이버 보안 제품과 서비스를 판매한다. 대상 기기는 컴퓨터, 모바일 기기, 스마트 TV, 사물인터넷 기기이다. 2016년에는 F-Secure Client Security가 AV-TEST Best Protection 상을 다섯 번째로 받았다. 과거에는 기업 시장으로 확장해 보안 컨설팅과 위협 탐지 사업도 운영했다. 이 기업용 사업은 2022년 분할되어 WithSecure로 넘어갔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 2월 17일 F-Secure는 기업용 사업과 소비자용 사업의 분할을 발표했다. 분할과 함께 기존 회사는 WithSecure Corporation으로 이름을 바꿨다. 분할은 2022년 7월 1일 발효되었고, 소비자 보안 사업은 F-Secure Corporation이라는 이름을 이어받아 Nasdaq Helsinki에 상장되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "F-시큐어(F-Secure)는 1988년 Data Fellows로 출발한 핀란드의 사이버 보안 기업으로, 2022년 분할 이후 소비자 보안에 집중한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.f-secure.com/",
+  "entityLinks": {
+   "wikidata": "Q522016",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q522016",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%ED%94%84%EC%8B%9C%ED%81%90%EC%96%B4",
+    "https://en.wikipedia.org/wiki/F-Secure"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q522016",
+   "country": "핀란드",
+   "inception": "1988",
+   "headquarters": "헬싱키",
+   "founders": [
+    "Risto Siilasmaa"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「F-Secure」 본문과 위키데이터 Q522016 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q12045395",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "family-brewery-bernard",
+  "urlSlug": "family-brewery-bernard",
+  "name": "Family Brewery Bernard",
+  "nameKo": "",
+  "nameEn": "Family Brewery Bernard",
+  "definition": "Family Brewery Bernard는 체코 Humpolec에 있는 양조장이다. 1597년에 맥주 양조가 시작된 곳으로, Duvel Moortgat NV가 지분 50%를 가진 주식회사가 소유한다.",
+  "summary": "Family Brewery Bernard는 체코 Humpolec에 있는 양조장이다. 1597년에 맥주 양조가 시작된 곳으로, Duvel Moortgat NV가 지분 50%를 가진 주식회사가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "특허 레트로 병과 배럴 중심 판매, 플라스틱병·캔을 쓰지 않는 방침으로 구별되는 체코의 중간 규모 가족 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "체코 Humpolec에 있는 양조장으로, 1597년에 시작된 양조 전통 위에서 맥주를 생산하며 Duvel Moortgat이 투자한 주식회사 형태로 운영된다. 맥주는 20개국 넘게 수출되며 생산량의 약 20%가 수출용이다. 체코 맥주 시장에서 이 양조장의 생산량 비중은 약 2%인 중간 규모이다. 판매량의 63%가 배럴(통)로 나가며, 병 판매가 많은 체코 시장 전체와 비율이 반대이다. 플라스틱병과 캔으로는 맥주를 출하한 적이 없고, 보증금 병 사용을 옹호하는 Zálohujme.cz의 회원이다. 최고 생산량은 2019년의 400,000헥토리터이지만 최대 생산이 목표는 아니며, 최고의 맥주를 만드는 데 초점을 둔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1597년 Humpolec에서 Herálec 영지 소유주에게 속한 양조장으로 맥주 양조가 시작됐다. 제2차 세계대전 이후 국영기업 Horácké pivovary Jihlava에 통합됐고, 1960년에는 Jihočeské pivovary České Budějovice에 편입됐다. 1991년 10월 26일 Stanislav Bernard, Josef Vávra, Rudolf Šmejkal이 파산한 양조장을 경매에서 최초 호가의 다섯 배 가격에 사들였다. 초기에는 큰 부채 속에서 생존을 위해 싸웠고, 2000년 주식회사로 전환하며 벨기에 양조장 Duvel Moortgat의 투자를 유치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2002년부터 특허를 받은 레트로 병을 사용했으며, 이 병은 지금 양조장의 상징이 됐다. 2007년에는 무알코올 세미다크 맥주를 처음 내놓았고, 2009년에는 무알코올 음료 Švestka를 출시했다. 2014년에는 상면발효 Bernard Bohemian Ale 양조를 시작했다. 2020년부터 2022년 사이 코로나19 시기에는 맥아와 홉을 넣은 초콜릿, Bernard 맥주 브랜디, 브랜디를 넣은 프랄린을 선보였다. 브랜디는 Zámecké sady Chrámce 바이오증류소에서 Jiří Syrovátka가 만들며, Bernard whisky도 같은 곳에서 숙성된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Rodinný pivovar Bernard, a. s.가 소유하며 주주는 Duvel Moortgat NV(벨기에 Breendonk) 50%, Stanislav Bernard 25%, Josef Vávra 25%이다. 창립 30주년을 기념해 Bernard Visitor Centre를 준비했고, 방역 조치로 인해 2022년 6월 1일에 대중에게 문을 열었다. 방문자 센터는 양조장과 직접 연결되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "특허 레트로 병과 배럴 중심 판매, 플라스틱병·캔을 쓰지 않는 방침으로 구별되는 체코의 중간 규모 가족 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bernard.cz",
+  "entityLinks": {
+   "wikidata": "Q12045395",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12045395",
+    "https://en.wikipedia.org/wiki/Family_Brewery_Bernard"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12045395",
+   "country": "체코",
+   "inception": "2000",
+   "headquarters": "Humpolec",
+   "founders": [],
+   "parent": "Duvel Moortgat Brewery",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Family Brewery Bernard」 본문과 위키데이터 Q12045395 팩트를 근거로 편집"
+ }
+}

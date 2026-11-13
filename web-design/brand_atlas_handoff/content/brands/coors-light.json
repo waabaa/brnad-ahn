@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q5168060",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/coors-light-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "coors-light",
+  "urlSlug": "coors-light",
+  "name": "쿠어스 라이트",
+  "nameKo": "쿠어스 라이트",
+  "nameEn": "Coors Light",
+  "definition": "쿠어스 라이트(Coors Light)는 Coors가 생산하고 현재 Molson Coors가 판매하는 알코올 도수 4.2%의 미국 라이트 라거 맥주이다. 1978년에 Coors Brewing Company가 처음 생산했다.",
+  "summary": "쿠어스 라이트(Coors Light)는 Coors가 생산하고 현재 Molson Coors가 판매하는 알코올 도수 4.2%의 미국 라이트 라거 맥주이다. 1978년에 Coors Brewing Company가 처음 생산했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "'Cold Certified' 라벨로 온도에 따라 산이 파랗게 변하는 포장과 'Silver Bullet' 은색 캔으로 알려진 Molson Coors의 대표 라이트 라거이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "쿠어스 라이트는 알코올 도수 4.2%의 미국 라이트 라거 맥주로, 일리노이주 시카고의 Coors(현재 Molson Coors)가 판매한다. 콜로라도주 골든, 조지아주 올버니, 버지니아주 엘크턴, 텍사스주 포트워스, 캘리포니아주 어윈데일, 위스콘신주 밀워키 등 미국 여러 곳에서 양조한다. 캐나다 판매 제품은 도수가 4.0%이며 Molson Coors Canada Inc.가 뉴브런즈윅주 먼크턴, 온타리오주 토론토, 퀘벡주 롱괴유 등에서 양조한다. 호주, 영국, 아일랜드에서는 라벨에 'Coors'로 표기한다. 주요 경쟁 상대는 Miller Lite, Keystone Light, Bud Light이며, 앞의 둘은 같은 Molson Coors 소유이고 Bud Light는 AB InBev 소유이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1941년 Coors는 같은 이름의 알코올 도수가 낮은 맥주를 내놓았으나 시장에 나온 지 1년 만에 단종했다. 쿠어스 라이트는 1978년 Miller Lite에 맞서는 '다이어트 맥주'로 다시 출시했다. 같은 해 Coors Brewing Company가 이 제품을 처음 생산했다. 2008년 Molson Coors는 미국, 영국, 캐나다 외 시장으로 브랜드 포트폴리오를 넓히기 위해 Molson Coors International을 설립했다. 이 조직은 아시아, 유럽, 중남미, 카리브 지역에서 운영하며 쿠어스 라이트를 새 시장에 선보였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품 라벨에는 'Cold Certified' 표시가 있어 맥주 온도가 39 °F(4 °C)로 내려가면 라벨의 산이 흰색에서 파란색으로 바뀐다. 로고에는 산 모양 아이콘이 쓰이며, 2020년 기준으로는 봉우리가 둘인 양식화된 산 그림이다. 이때 'cold lined' 캔의 파란 라이너도 없앴다. 'Silver Bullet' 슬로건은 맥주를 담은 은색 캔을 상징한다. 2013년 5월에는 Ball Corporation의 Alumi-Tek 병을 쓴 알루미늄 파인트가 The Packaging Association에서 Gold Award를 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "쿠어스 라이트는 현재 Molson Coors가 판매하며, Molson Coors의 대표(signature) 브랜드로 새 시장에 소개되었다. 2013년 8월 광고 업계 자율규제 기구가 'the world's most refreshing can' 등 광고 주장을 FTC에 회부했다. Coors는 해당 주장을 과장 표현 또는 사실이라고 옹호했고, 관련 TV·라디오·디지털 캠페인을 2013년 9월 말까지 영구 중단하겠다고 NAD에 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "'Cold Certified' 라벨로 온도에 따라 산이 파랗게 변하는 포장과 'Silver Bullet' 은색 캔으로 알려진 Molson Coors의 대표 라이트 라거이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.coorslight.com/",
+  "entityLinks": {
+   "wikidata": "Q5168060",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5168060",
+    "https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%96%B4%EC%8A%A4_%EB%9D%BC%EC%9D%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Coors_Light"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5168060",
+   "country": null,
+   "inception": "1978",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Coors Light」 본문과 위키데이터 Q5168060 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

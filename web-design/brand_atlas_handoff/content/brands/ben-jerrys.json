@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q816412",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/ben-jerrys-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ben-jerrys",
+  "urlSlug": "ben-jerrys",
+  "name": "벤 & 제리스",
+  "nameKo": "벤 & 제리스",
+  "nameEn": "Ben & Jerry's",
+  "definition": "벤 & 제리스(Ben & Jerry's)는 1978년 미국 버몬트에서 시작된 아이스크림 제조 회사이다. 아이스크림, 프로즌 요거트, 소르베를 만들며 독자적인 맛으로 알려져 있다.",
+  "summary": "벤 & 제리스(Ben & Jerry's)는 1978년 미국 버몬트에서 시작된 아이스크림 제조 회사이다. 아이스크림, 프로즌 요거트, 소르베를 만들며 독자적인 맛으로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "독특한 맛과 덩어리가 섞인 아이스크림, 그리고 사회 정의 옹호로 알려진 브랜드이며, 모기업 아래에서도 독립 자회사로 운영된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벤 & 제리스는 아이스크림, 프로즌 요거트, 소르베를 만드는 미국 회사이다. 창업자는 Ben Cohen과 Jerry Greenfield이며, 단일 아이스크림 가게에서 출발해 수십 년에 걸쳐 다국적 브랜드로 성장했다. 음식과 디저트를 아이스크림에 섞은 독자적인 맛으로 알려져 있다. Jerry Garcia, Stephen Colbert, Jimmy Fallon, Colin Kaepernick, Phish 같은 인물과 밴드의 이름을 딴 맛도 있다. 회사와 두 창업자는 정치적 행동주의와 사회 정의 옹호로도 언급되어 왔다. 2000년 Unilever에 매각되었으며, 현재는 The Magnum Ice Cream Company 산하에서 독립 자회사로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ben Cohen과 Jerry Greenfield는 어린 시절부터 친구였으며, 1977년 베이글 가게를 열 계획으로 사업체를 설립했으나 필요한 장비가 너무 비싸다는 것을 알게 되었다. 대신 두 사람은 Pennsylvania State University 낙농장의 아이스크림 제조 통신 강좌를 마쳤다. 1978년 5월 5일 12,000달러를 투자해 버몬트 벌링턴 시내의 개조한 주유소에서 아이스크림 가게를 열었다. 1980년에는 벌링턴의 오래된 공장 건물에 공간을 빌려 아이스크림을 파인트 단위로 포장하기 시작했다. 1984년에는 버몬트 주민만 대상으로 한 공모로 주식을 팔아 750,000달러를 조달해 확장 자금으로 썼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 아이스크림이며 프로즌 요거트와 소르베도 만든다. 아이스크림에 덩어리를 섞는 것이 이 회사의 상표와도 같은 특징이다. 이는 후각을 거의 느끼지 못하는 Cohen이 입안의 느낌과 질감에 의존하는 데서 비롯되었다. 1987년에는 기타리스트 Jerry Garcia에게 헌정한 첫 록 전설 이름의 맛 Cherry Garcia를 선보였으며, 팬이 제안한 맛 가운데 가장 유명하다. 1988년에는 Greyston Bakery에 브라우니를 처음 주문했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 사우스벌링턴에 있고 공장은 워터버리에 있다. 2000년 Unilever에 매각되었으며 현재 모기업은 The Magnum Ice Cream Company이지만 독립 자회사로 운영된다. 워터버리 공장은 하루 350,000파인트 이상을 생산하며 일반에 공개된 유일한 시설이다. 무료 콘 데이는 2019년까지 열렸고 2023년에 재개되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독특한 맛과 덩어리가 섞인 아이스크림, 그리고 사회 정의 옹호로 알려진 브랜드이며, 모기업 아래에서도 독립 자회사로 운영된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.benjerry.com/",
+  "entityLinks": {
+   "wikidata": "Q816412",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q816412",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A4_%26_%EC%A0%9C%EB%A6%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Ben_%26_Jerry%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q816412",
+   "country": "미국",
+   "inception": "1978",
+   "headquarters": "사우스벌링턴",
+   "founders": [
+    "Ben Cohen",
+    "Jerry Greenfield"
+   ],
+   "parent": "더 매그넘 아이스크림 컴퍼니",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Ben & Jerry's」 본문과 위키데이터 Q816412 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

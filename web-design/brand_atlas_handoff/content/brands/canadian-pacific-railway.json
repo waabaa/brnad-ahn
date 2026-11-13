@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q46974",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/canadian-pacific-railway-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "canadian-pacific-railway",
+  "urlSlug": "canadian-pacific-railway",
+  "name": "캐나디안 퍼시픽 철도",
+  "nameKo": "캐나디안 퍼시픽 철도",
+  "nameEn": "Canadian Pacific Railway",
+  "definition": "캐나디안 퍼시픽 철도(Canadian Pacific Railway)는 캐나다의 1급 철도 회사이다. 선로망이 밴쿠버에서 몬트리올까지 이어지며 본사는 앨버타주 캘거리에 있다.",
+  "summary": "캐나디안 퍼시픽 철도(Canadian Pacific Railway)는 캐나다의 1급 철도 회사이다. 선로망이 밴쿠버에서 몬트리올까지 이어지며 본사는 앨버타주 캘거리에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "캐나다 최초의 대륙횡단철도로 1881년과 1885년 사이에 건설되었고, 서부 캐나다의 개척과 발전에 기여한 1급 철도이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CPR은 캐나다의 1급 철도이며, 프랑스어 명칭은 Chemin de fer Canadien Pacifique이다. 선로망은 밴쿠버에서 몬트리올까지 이어지고, 미니에폴리스, 시카고, 뉴욕 시 같은 미국 주요 도시에서도 운영된다. 본사는 앨버타주 캘거리에 있으며, 캐나디안 내셔널 철도와는 다른 회사이다. 현재는 주로 화물운송업을 하지만, 과거 한동안은 캐나다 여러 지역의 유일한 장거리 이송 수단이기도 했다. 그래서 서부 캐나다의 개척과 발전에 직접적·간접적으로 기여했다. 정기여객운송업은 1986년에 종료되었고, 회사의 로고로는 캐나다의 국가 상징 중 하나인 비버가 선택되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "대륙횡단 철도 건설은 캐나다 초대 수상인 존 맥도날드(John A. Macdonald) 내각이 처음 시작한 사업이었다. 브리티시 컬럼비아는 연방에 가입하는 조건으로 동부 지역과 이어지는 교통수단을 내걸었고, 정부는 1871년 7월 20일 이후 10년 안에 철도를 건설할 것을 제안했다. 정부는 이 경로로 건설하기 위해 서부 캐나다의 토지에 많은 혜택을 주었다. 태평양 스캔들로 보수당은 1873년에 물러났고, 1878년 10월 16일에 존 맥도날드가 재집권했다. 철로는 1881년과 1885년 사이에 동부 캐나다와 브리티시 컬럼비아 간에 건설되었으며, 캐나다 최초의 대륙횡단철도였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재는 Canadian Pacific Kansas City를 모기업으로 두고 있으며, 본사는 캘거리에 있다. 주로 화물운송업을 하며, 선로망은 밴쿠버에서 몬트리올까지 이어진다. 미니에폴리스, 시카고, 뉴욕 시 같은 미국 주요 도시에서도 운영된다. 정기여객운송업은 VIA 철도가 1978년에 이를 떠맡는 것을 계기로 1986년에 종료되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐나다 최초의 대륙횡단철도로 1881년과 1885년 사이에 건설되었고, 서부 캐나다의 개척과 발전에 기여한 1급 철도이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://cpr.ca/",
+  "entityLinks": {
+   "wikidata": "Q46974",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q46974",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%94%94%EC%95%88_%ED%8D%BC%EC%8B%9C%ED%94%BD_%EC%B2%A0%EB%8F%84",
+    "https://en.wikipedia.org/wiki/Canadian_Pacific_Railway"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q46974",
+   "country": "캐나다",
+   "inception": "1881",
+   "headquarters": "캘거리",
+   "founders": [],
+   "parent": "Canadian Pacific Kansas City",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「캐나디안 퍼시픽 철도」 요약과 위키데이터 Q46974 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

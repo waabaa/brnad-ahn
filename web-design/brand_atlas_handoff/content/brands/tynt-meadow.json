@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q55739163",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tynt-meadow",
+  "urlSlug": "tynt-meadow",
+  "name": "Tynt Meadow",
+  "nameKo": "",
+  "nameEn": "Tynt Meadow",
+  "definition": "Tynt Meadow는 영국 레스터셔의 Mount St Bernard Abbey에서 양조하는 영국산 트라피스트 맥주이다. 알코올 도수는 7.4%이며 2018년 시장에 출시되었다.",
+  "summary": "Tynt Meadow는 영국 레스터셔의 Mount St Bernard Abbey에서 양조하는 영국산 트라피스트 맥주이다. 알코올 도수는 7.4%이며 2018년 시장에 출시되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "Mount St Bernard Abbey 안에서 양조하는 영국산 트라피스트 맥주이며, 수도원 역사가 시작된 장소의 이름을 따서 지었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tynt Meadow는 영국에서 만드는 트라피스트 맥주이다. 알코올 도수는 7.4%이며 레스터셔에 있는 Mount St Bernard Abbey 안의 양조장에서 양조한다. 이 수도원은 2017년 국제 트라피스트 협회(International Trappist Association)에 가입했다. 2018년 출시된 이 맥주는 Authentic Trappist Products 라벨을 받아 열두 번째 공식 트라피스트 맥주가 되었다. 2019년 무렵에는 벨기에와 네덜란드에서 특히 인기가 있다고 전해졌고, 수도원은 늘어난 수요를 맞추는 데 어려움을 겪었다. 양조장은 수도원의 활동과 생활방식보다 중요도가 낮아야 하므로 수요를 충족하기는 어려울 것으로 보였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "수도원의 역사는 1835년 Tynt Meadow에서 시작되었고, 맥주 이름은 이 장소에서 따왔다. 콜빌 인근의 Mount St Bernard Abbey는 2017년 국제 트라피스트 협회에 가입한 뒤 수도원 안에 양조장을 지었다. 2018년 Tynt Meadow Trappist Ale이 시장에 출시되었고 Authentic Trappist Products 라벨을 받아 열두 번째 공식 트라피스트 맥주가 되었다. St Bernard라는 이름은 벨기에 St. Bernardus Brewery가 이미 권리를 가지고 있어 제품명으로 쓸 수 없었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Tynt Meadow Trappist Ale이다. 알코올 도수 7.4%의 영국 트라피스트 맥주이며 Mount St Bernard Abbey 안에 지은 양조장에서 만든다. 이 제품은 Authentic Trappist Products 라벨을 받았다. 2019년까지 수도원은 약 30,000병의 Tynt Meadow를 생산했다. 이 맥주는 벨기에와 네덜란드에서 특히 인기가 있다고 전해졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년까지 수도원은 약 30,000병의 Tynt Meadow를 생산했으나 수요를 맞추는 데 어려움을 겪고 있었다. 양조장은 수도원의 일과 생활방식에 비해 부차적인 위치에 있어야 하므로 수요가 충족될 가능성은 낮다고 보았다. 이 맥주는 열두 번째 공식 트라피스트 맥주라는 위치를 가진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Mount St Bernard Abbey 안에서 양조하는 영국산 트라피스트 맥주이며, 수도원 역사가 시작된 장소의 이름을 따서 지었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.msbtrappist.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q55739163",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55739163",
+    "https://en.wikipedia.org/wiki/Tynt_Meadow"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q55739163",
+   "country": "영국",
+   "inception": "2018",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Tynt Meadow」 본문과 위키데이터 Q55739163 팩트를 근거로 편집"
+ }
+}

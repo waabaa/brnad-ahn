@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q212646",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/hoffmann-la-roche-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hoffmann-la-roche",
+  "urlSlug": "hoffmann-la-roche",
+  "name": "호프만 라 로슈",
+  "nameKo": "호프만 라 로슈",
+  "nameEn": "Hoffmann-La Roche",
+  "definition": "호프만 라 로슈(Hoffmann-La Roche)는 스위스 바젤에 본사를 둔 다국적 헬스케어 기업이다. 흔히 Roche로 불리며 제약과 진단 두 부문으로 전 세계에서 사업을 운영한다.",
+  "summary": "호프만 라 로슈(Hoffmann-La Roche)는 스위스 바젤에 본사를 둔 다국적 헬스케어 기업이다. 흔히 Roche로 불리며 제약과 진단 두 부문으로 전 세계에서 사업을 운영한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.183333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "제약과 진단을 함께 운영하는 스위스 헬스케어 그룹으로, 암 치료제 분야의 선두 공급자이자 Genentech와 Chugai Pharmaceuticals를 거느린 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Roche는 제약(Pharmaceuticals)과 진단(Diagnostics) 두 부문으로 전 세계에서 사업을 하는 스위스의 다국적 헬스케어 지주회사이다. 지주회사 Roche Holding AG의 주식은 SIX Swiss Exchange에 상장되어 있으며, 본사는 바젤에 있다. 매출 기준으로 세계 5위의 제약회사이며, 암 치료제 분야에서 세계적인 선두 공급자이다. 2023년 Forbes Global 2000에서 76위를 기록했다. 미국 바이오기업 Genentech, 일본 바이오기업 Chugai Pharmaceuticals, 미국 기반 기업 Ventana와 Foundation Medicine을 소유한다. European Federation of Pharmaceutical Industries and Associations의 정회원이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1896년 Fritz Hoffmann-La Roche가 설립했으며, 초기에는 여러 비타민 제제와 그 유도체 생산으로 알려졌다. 1934년에는 합성 비타민 C를 처음으로 대량 생산했으며 제품명은 Redoxon이었다. 1957년에는 Valium과 Rohypnol로 대표되는 벤조디아제핀 계열 신경안정제를 내놓았다. 1992년 PCR 기술 특허를 사들였고, 1994년 Syntex를, 2002년 Chugai Pharmaceuticals를 인수했다. 1998년에는 Corange Ltd를 인수해 Boehringer Mannheim을 Roche Diagnostics로 이름을 바꾸었고, DePuy는 Johnson & Johnson에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 제약과 진단 두 부문으로 이루어지며, 여러 항암제를 제조·판매하는 이 분야의 선두 기업이다. 벤조디아제핀 계열의 Valium과 Rohypnol, 그리고 다양한 HIV 검사와 항레트로바이러스 약물도 생산해 왔다. 1995년 미국 FDA가 HIV 프로테아제 억제제 saquinavir를 승인하면서 HAART 시대가 시작되었다. 독감 치료에 쓰는 항바이러스제 Oseltamivir는 Gilead Sciences가 발견했으며, Roche는 1996년 이 약의 권리를 사들였다. 2005년 10월 20일에는 다른 회사들에도 Oseltamivir 제조를 허가하기로 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "지주회사 Roche Holding AG의 의결권 있는 무기명주 가운데 절반을 약간 넘는 지분을 창업 가문인 Hoffmann가와 Oeri가의 후손이 보유하며, 가문 주주 풀이 45%, Maja Oeri가 별도로 5%를 가진다. 스위스 제약사 Novartis는 2021년까지 지분의 약 3분의 1을 보유했다. Genentech는 완전 소유의 독립 자회사로 운영된다. 2020 회계연도 매출은 58.32 billion 스위스 프랑이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "제약과 진단을 함께 운영하는 스위스 헬스케어 그룹으로, 암 치료제 분야의 선두 공급자이자 Genentech와 Chugai Pharmaceuticals를 거느린 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.roche.com/",
+  "entityLinks": {
+   "wikidata": "Q212646",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q212646",
+    "https://ko.wikipedia.org/wiki/%ED%98%B8%ED%94%84%EB%A7%8C_%EB%9D%BC_%EB%A1%9C%EC%8A%88",
+    "https://en.wikipedia.org/wiki/Roche"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q212646",
+   "country": "스위스",
+   "inception": "1896",
+   "headquarters": "바젤",
+   "founders": [
+    "Fritz Hoffmann-La Roche"
+   ],
+   "parent": "Roche Holding",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Roche」 본문과 위키데이터 Q212646 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

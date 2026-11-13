@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q285480",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "baileys-irish-cream",
+  "urlSlug": "baileys-irish-cream",
+  "name": "베일리스",
+  "nameKo": "베일리스",
+  "nameEn": "Baileys Irish Cream",
+  "definition": "베일리스(Baileys Irish Cream)는 크림, 코코아, 아이리시 위스키를 식물성 유지로 유화해 만든 리큐르이다. 1974년에 처음 출시한 최초의 아이리시 크림이며, 표기 알코올 도수는 부피 기준 17%이다.",
+  "summary": "베일리스(Baileys Irish Cream)는 크림, 코코아, 아이리시 위스키를 식물성 유지로 유화해 만든 리큐르이다. 1974년에 처음 출시한 최초의 아이리시 크림이며, 표기 알코올 도수는 부피 기준 17%이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "크림과 아이리시 위스키를 결합해 아이리시 크림이라는 범주를 처음 시장에 내놓은 제품이다. 코코아 추출물이 만드는 초콜릿 풍미가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베일리스는 크림, 코코아, 아이리시 위스키를 식물성 유지가 든 유화제로 섞어 만든 크림 리큐르이다. 상표는 Diageo가 소유하며, 제품은 아일랜드 더블린의 Nangor Road와 북아일랜드의 Mallusk에서 Diageo가 생산한다. 1974년에 시장에 처음 나온 아이리시 크림이며, 표기 알코올 도수는 부피 기준 17%이다. 제조사는 알코올이 크림을 보존하므로 방부제가 필요 없고, 보관 조건을 지키면 제조일부터 2년간 맛을 보증한다고 밝힌다. 초콜릿 풍미는 자체 배합한 코코아 추출물에서 나오고, 허브, 설탕, 바닐라, 캐러멜도 들어가며, 크림은 아일랜드 유업체 Tirlán이 공급한다. 민트 초콜릿, 커피, 헤이즐넛 등 여러 맛의 제품으로 라인업을 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "베일리스는 1971년 Gilbeys of Ireland가 국제 시장에 내놓을 제품을 찾으면서 개발이 시작되었다. Gilbeys는 International Distillers & Vintners의 한 부문이었다. 광고 임원 Tom Jago가 이끈 팀이 런던에서 이 제품을 만들었고, 컨설턴트 David Gluckman, Hugh Seymour-Davies, Mac Macpherson이 아이리시 위스키와 크림을 섞은 술을 제안했다. 이름은 사무실 아래 Greek Street의 작은 식당 Bailey's Bistro에서 따왔으며, 1974년 최초의 아이리시 크림으로 출시되었다. 개발에는 적자를 내던 증류소의 알코올과 Express Dairies의 잉여 크림을 활용하려는 의도도 있었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기본 제품은 17% 도수의 Baileys Irish Cream이다. 2003년에는 알코팝 시장을 겨냥한 Baileys Glide를 출시했으나 2006년에 단종했다. 2005년에는 민트 초콜릿과 크렘 캐러멜 맛을 17% 도수로 내놓았고, 2006년에 영국, 미국, 호주, 캐나다의 일반 시장에 풀었다. 2008년에 커피 맛, 2010년에 헤이즐넛 맛이 이어졌으며, 2009년에는 유럽 일부 공항에서 Baileys Gold를 시험 판매했다. 2011년에는 Biscotti 맛을 출시했고, 벨기에 초콜릿을 결합한 하위 브랜드 Chocolat Luxe도 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 상표는 Diageo가 소유하며, 제품은 더블린의 Nangor Road와 북아일랜드의 Mallusk에서 생산한다. 병은 County Fermanagh Derrylin에 있는 Encirc Glass Plant에서만 제조한다. 크림은 아일랜드 유업체 Tirlán이 30년 넘게 주요 공급사로 납품해 왔다. 제조사는 제품의 유통기한을 24개월로 밝힌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "크림과 아이리시 위스키를 결합해 아이리시 크림이라는 범주를 처음 시장에 내놓은 제품이다. 코코아 추출물이 만드는 초콜릿 풍미가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.baileys.com",
+  "entityLinks": {
+   "wikidata": "Q285480",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q285480",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%BC%EB%A6%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Baileys_Irish_Cream"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q285480",
+   "country": null,
+   "inception": "1974",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Baileys Irish Cream」 본문과 위키데이터 Q285480 팩트를 근거로 편집"
+ }
+}

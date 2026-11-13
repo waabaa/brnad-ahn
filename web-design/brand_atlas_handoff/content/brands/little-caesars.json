@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1393809",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/little-caesars-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "little-caesars",
+  "urlSlug": "little-caesars",
+  "name": "리틀 시저스",
+  "nameKo": "리틀 시저스",
+  "nameEn": "Little Caesars",
+  "definition": "리틀 시저스(Little Caesars)는 1959년 설립된 미국의 다국적 피자 레스토랑 체인이다. 미국 내 총매출 기준으로 Domino's와 Pizza Hut에 이어 세 번째로 큰 피자 체인이다.",
+  "summary": "리틀 시저스(Little Caesars)는 1959년 설립된 미국의 다국적 피자 레스토랑 체인이다. 미국 내 총매출 기준으로 Domino's와 Pizza Hut에 이어 세 번째로 큰 피자 체인이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "두 판을 비슷한 가격에 제공한다는 'Pizza! Pizza!' 문구와 포장 판매 중심의 'Hot-N-Ready Pizza'로 알려진 미국 피자 체인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "리틀 시저스는 피자 레스토랑을 직접 운영하고 프랜차이즈로도 운영하는 미국의 다국적 체인이다. 미국을 비롯해 아시아, 유럽, 북미, 남미에서 매장을 운영하며, 미국 내 총매출 기준으로는 세 번째로 큰 피자 체인이다. 회사는 Ilitch Holdings가 소유하고 있으며 본사는 미시간주 디트로이트에 있다. 대표 광고 문구인 'Pizza! Pizza!'는 1979년에 도입되었고, 경쟁사의 피자 한 판과 비슷한 가격에 피자 두 판을 제공한다는 뜻을 담고 있다. 1997년에는 $5에 판매한 대형 페퍼로니 피자 'Hot-N-Ready Pizza'를 알리는 광고판을 도입했고, 이것이 상설 요소가 되면서 사업 모델은 포장 판매 중심으로 옮겨 갔다. 또한 새로운 방식의 고속 조리 컨베이어 오븐인 'Rotary Air Impingement Oven'을 가장 먼저 사용한 업체 가운데 하나이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리틀 시저스는 1959년 5월 8일 부부인 Mike Ilitch와 Marian Ilitch가 설립했다. 첫 매장은 디트로이트 교외인 미시간주 가든시티의 스트립 몰에 있었고 'Little Caesar's Pizza Treat'라는 이름을 썼다. 첫 프랜차이즈 매장은 1962년 미시간주 워런에서 문을 열었으며, 같은 해 로고가 3D 형태의 캐릭터가 되어 옥외 간판에 쓰였다. 1980년대 중반에는 디트로이트와 시카고 지역에 Little Caesars Family Fun Pizzeria라는 가족 오락 센터를 열었고, 이는 1990년대 중반 Caesarland로 바뀌어 2011년까지 운영되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 피자이다. 1979년 'Pizza! Pizza!'를 도입했을 당시에는 두 판을 하나의 긴 포장에 담아 제공했으며, 이 포장은 이후 일반 피자 상자로 바뀌었다. 1988년에는 정사각형 딥디시 피자 'Pan! Pan!'을 내놓았고, 고객은 이를 두 판 묶음 상품에 포함하거나 원형 오리지널 피자와 한 판씩 섞어 살 수 있었다. 1997년에는 대형 페퍼로니 피자를 $5에 판매한 'Hot-N-Ready Pizza'가 상설 메뉴가 되었다. 한때 메뉴에는 피자 외에 핫도그, 치킨, 서브 샌드위치, 새우, 생선도 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 12월 10일 리틀 시저스는 디트로이트 도심에 8층, 205,000제곱피트 규모의 Global Resource Center를 짓겠다고 발표했다. 2016년 1월 31일에는 이 건물이 9층으로 늘어났다고 발표되었고, 2018년 완공 예정이었으나 그해 10월 공사 지연으로 일정이 뒤로 밀렸다. 2017년에는 Little Caesars Arena 개장에 맞춰 로고를 소폭 갱신했다. 회사는 Ilitch Holdings가 소유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "두 판을 비슷한 가격에 제공한다는 'Pizza! Pizza!' 문구와 포장 판매 중심의 'Hot-N-Ready Pizza'로 알려진 미국 피자 체인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://littlecaesars.com/",
+  "entityLinks": {
+   "wikidata": "Q1393809",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1393809",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%ED%8B%80_%EC%8B%9C%EC%A0%80%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Little_Caesars"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1393809",
+   "country": "미국",
+   "inception": "1959",
+   "headquarters": "디트로이트",
+   "founders": [
+    "마이클 일리치",
+    "Marian Ilitch"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Little Caesars」 본문과 위키데이터 Q1393809 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

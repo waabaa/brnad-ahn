@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q26299",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "china-construction-bank",
+  "urlSlug": "china-construction-bank",
+  "name": "중국건설은행",
+  "nameKo": "중국건설은행",
+  "nameEn": "China Construction Bank",
+  "definition": "중국건설은행(China Construction Bank)은 중국 베이징에 본사를 둔 부분 국유 다국적 은행·금융 서비스 기업이다. 중국의 '4대 은행' 중 하나이며 총자산 기준 세계 3위 은행이다.",
+  "summary": "중국건설은행(China Construction Bank)은 중국 베이징에 본사를 둔 부분 국유 다국적 은행·금융 서비스 기업이다. 중국의 '4대 은행' 중 하나이며 총자산 기준 세계 3위 은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "투자 금융 중심의 People's Construction Bank of China에서 출발한 중국 '4대 은행' 중 하나로, Central Huijin Investment가 소유한 부분 국유 은행이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "중국건설은행은 중국 베이징에 본사를 둔 부분 국유 다국적 은행·금융 서비스 기업이며 약칭은 CCB이다. 본사는 베이징의 Xicheng District에 있다. 중국의 '4대 은행' 중 하나로, 총자산 기준으로 Agricultural Bank of China와 Industrial and Commercial Bank of China에 이어 세계에서 세 번째로 큰 은행이다. 중국 국내에 약 13,629개의 지점을 두고 있다. 해외에는 런던, 바르셀로나, 프랑크푸르트, 룩셈부르크, 취리히, 홍콩, 요하네스버그, 뉴욕, 서울, 싱가포르, 도쿄, 멜버른, 쿠알라룸푸르, 산티아고, 브리즈번, 시드니, 오클랜드에 지점이 있다. 2025년 총자산은 CN¥ 42.62 trillion에 이르렀고, Financial Stability Board는 이 은행을 systemically important bank로 본다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1954년 10월 1일 People's Construction Bank of China(中国人民建设银行)라는 이름으로 설립되었다. 당시 People's Bank of China가 상업은행 기능을 분리하기 시작하던 시기였으며, 투자 금융에 집중하도록 만들어진 은행이었다. 1996년 3월 26일 이름을 China Construction Bank로 바꾸었다. 2004년 9월 PRC Company Law에 따른 분리 절차를 거쳐 주식제 상업은행인 China Construction Bank Corporation이 되었다. China Banking Regulatory Committee의 승인이 2004년 9월 14일에 나왔고, 이튿날 별도 법인이 되어 정부 지주회사인 Central Huijin Investment Company가 소유하게 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 중국 정부 지주회사인 Central Huijin Investment이다. 2021년 Forbes Global 2000에서 세계 3위 은행에 올랐고, 2022년 목록에서는 5위였다. 2022년에는 부동산 프로젝트에 투자해 임대주택으로 전환하기 위한 30 billion yuan 규모의 펀드 조성을 발표했다. 2024년 7월 Reuters는 이 은행이 본사 직원의 급여를 10% 삭감할 것이라고 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "투자 금융 중심의 People's Construction Bank of China에서 출발한 중국 '4대 은행' 중 하나로, Central Huijin Investment가 소유한 부분 국유 은행이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://ccb.com",
+  "entityLinks": {
+   "wikidata": "Q26299",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26299",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EA%B1%B4%EC%84%A4%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/China_Construction_Bank"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q26299",
+   "country": "중화인민공화국",
+   "inception": "1954",
+   "headquarters": "베이징시",
+   "founders": [],
+   "parent": "Central Huijin Investment",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「China Construction Bank」 본문과 위키데이터 Q26299 팩트를 근거로 편집"
+ }
+}

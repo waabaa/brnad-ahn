@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1146592",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kone-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kone",
+  "urlSlug": "kone",
+  "name": "코네",
+  "nameKo": "코네",
+  "nameEn": "Kone",
+  "definition": "코네(Kone)는 1910년 설립되어 핀란드 에스포에 본사를 둔 기업으로, 엘리베이터와 에스컬레이터, 무빙 워크 등을 제조·판매하고 유지 보수 서비스를 제공한다.",
+  "summary": "코네(Kone)는 1910년 설립되어 핀란드 에스포에 본사를 둔 기업으로, 엘리베이터와 에스컬레이터, 무빙 워크 등을 제조·판매하고 유지 보수 서비스를 제공한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드 에스포에 본사를 둔 엘리베이터 제조·유지 보수 기업으로, 1924년부터 Herlin 가족이 관리해 왔고 이름은 핀란드어로 '기계'를 뜻한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코네는 엘리베이터, 에스컬레이터, 무빙 워크 등의 제조와 판매, 유지 보수 서비스를 사업으로 하는 핀란드 회사이다. 정식 명칭은 KONE Oyj이며, 본사는 핀란드 에스포에 있고 주식은 헬싱키 증권 거래소에 상장되어 있다. 직원 수는 약 2만 7천명이고, 세계 40여개국에서 800곳의 서비스 센터를 운영한다. 빌딩의 건설 업체와 건축가, 소유자 등을 고객으로 삼아 사업을 전개하며, 한국에서는 2010년 한국법인을 폐업시키며 철수했다. 1924년부터 핀란드에서 가장 부유한 가족 중 하나인 Herlin 가족이 회사를 관리해 왔고, 2019년 12월 현재 Antti Herlin이 의결권 62%와 주식 22%를 직간접적으로 관리한다. 핀란드어로 Kone은 '기계' 또는 '장치'를 의미한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "코네는 1910년 Strömberg Oy의 자회사로 설립되었으며, 당시 이름은 Osakeyhtiö Kone Aktiebolag였다. Strömberg의 Graham Brothers 엘리베이터 수입 라이선스가 새 회사로 이전되었으나, 코네는 1917년 라이선스 계약을 종료하기 전에 몇 대만 판매했다. 당시 직원이 50명뿐이던 코네는 1918년 자체 엘리베이터를 만들고 설치하기 시작했다. 1924년 기업가 Harald Herlin이 Strömberg에서 코네를 인수하고 이사회 회장이 되었으며, 1928년 아들 Heikki H. Herlin이 기술 이사로 임명되었다. 첫 해외 자회사인 스웨덴의 AB Kone Hissar는 1957년에 설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "코네의 사업은 엘리베이터, 에스컬레이터, 무빙 워크의 제조와 판매, 그리고 유지 보수 서비스로 이루어진다. 세계 40여개국 800곳의 서비스 센터를 운영하며 유지 보수 서비스를 제공한다. 1950년대에는 최초의 그룹 제어 장치, 자동문, 유압식 엘리베이터를 도입했다. 제2차 세계 대전 이후에는 핀란드 정부로부터 소련에 지급되는 전쟁 배상금에 엘리베이터, 전기 호이스트, 크레인을 기증하도록 요청받았고, 이 프로그램을 통해 용량을 확장하고 생산 프로세스를 합리화하는 방법을 배웠다. 고객은 빌딩의 건설 업체, 건축가, 소유자 등이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 12월 현재 이사회 의장 Antti Herlin은 의결권 62%와 헬싱키 증권 거래소에 상장된 회사 주식의 22%를 직간접적으로 관리한다. 직원 수는 약 2만 7천명이며, 세계 40여개국에서 800곳의 서비스 센터를 운영한다. 한국에서는 구 수림엘리베이터 법인을 인수해 진출했으나 실적 부진으로 2010년 한국법인을 폐업시키며 철수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드 에스포에 본사를 둔 엘리베이터 제조·유지 보수 기업으로, 1924년부터 Herlin 가족이 관리해 왔고 이름은 핀란드어로 '기계'를 뜻한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kone.com/",
+  "entityLinks": {
+   "wikidata": "Q1146592",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1146592",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%84%A4",
+    "https://en.wikipedia.org/wiki/Kone"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1146592",
+   "country": "핀란드",
+   "inception": "1910",
+   "headquarters": "에스포",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「코네」 요약과 위키데이터 Q1146592 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

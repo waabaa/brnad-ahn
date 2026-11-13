@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q620875",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "goodyear-tire-and-rubber-company",
+  "urlSlug": "goodyear-tire-and-rubber-company",
+  "name": "굳이어",
+  "nameKo": "굳이어",
+  "nameEn": "Goodyear Tire and Rubber Company",
+  "definition": "굳이어(Goodyear Tire and Rubber Company)는 미국 오하이오주 애크런에 본사를 둔 다국적 타이어 제조업체이다. 승용차, 오토바이, 트럭, 항공, 군용 등 다양한 용도의 타이어를 개발한다.",
+  "summary": "굳이어(Goodyear Tire and Rubber Company)는 미국 오하이오주 애크런에 본사를 둔 다국적 타이어 제조업체이다. 승용차, 오토바이, 트럭, 항공, 군용 등 다양한 용도의 타이어를 개발한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "가황 고무 발명가의 이름을 딴 애크런 기반 타이어 제조업체로, 자동차 경주용 타이어 공급과 광고 비행선으로 널리 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "굳이어는 승용차, 오토바이, 트럭, 레저용 차량, 대형 오프로드 장비, 항공, 군용 타이어를 개발하는 미국의 다국적 타이어 제조업체이다. 본사는 오하이오주 애크런에 있다. 자전거 타이어 제조업체에 굳이어 브랜드를 라이선스하기도 하며, 1976년부터 2015년까지 이어진 생산 중단 이후 이 분야로 돌아왔다. 1994년 중국 다롄의 공장에 투자해 중국에 진출한 최초의 외국 타이어 제조업체가 되었다. 2021년 이후에는 연간 매출 기준 세계 3위 타이어 제조업체이다. NASCAR, NHRA, 스포츠카 레이싱 등 자동차 경주의 주요 타이어 공급업체이며, 과거에는 포뮬러 원과 인디애나폴리스 500에도 참가했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1898년 Frank Seiberling이 창업했으며, 회사 이름은 가황 고무를 발명한 미국인 Charles Goodyear(1800–1860)에서 따왔다. 같은 해 오하이오주 애크런에 첫 공장을 열었고, 처음에는 자전거와 마차 타이어, 고무 말굽 패드, 포커 칩을 만들다가 자동차의 등장과 함께 성장했다. 1901년 Seiberling은 Henry Ford에게 경주용 타이어를 공급했고, 1903년 Paul Weeks Litchfield는 최초의 튜브리스 자동차 타이어 특허를 받았다. 1910년에는 캐나다 온타리오주 보우맨빌의 기존 고무 공장을 인수해 처음으로 미국 밖으로 생산을 넓혔다. 1927년 8월 5일 기업공개를 하고 뉴욕증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "굳이어는 승용차, 오토바이, 트럭, 레저용 차량, 대형 오프로드 장비, 항공, 군용 타이어를 개발한다. 초기 굳이어 타이어는 쉽게 분리할 수 있고 유지 관리가 거의 필요 없어 인기를 얻었다. 1930년까지 소형 항공기용 '툰드라 타이어'의 선구가 된 저압 'airwheel' 항공기 휠·타이어 세트를 내놓았다. 1900년대 초부터 비행선과 기구를 제조했고, 최초의 굳이어 광고 비행선은 1925년에 날았다. 제2차 세계대전 중에는 미군을 위해 F4U Corsair 전투기를 제조했고, 1967년 북아일랜드 러건 공장에서 호스, 팬 벨트, 컨베이어 벨트 등 고무 제품을 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "굳이어는 오하이오주 애크런에 본사를 두고 있으며, 2021년 이후 연간 매출 기준 세계 3위 타이어 제조업체이다. 1930년부터 1999년까지 다우존스 산업평균지수 구성 종목이었다. 2015년에는 자전거 타이어 분야로 돌아와 브랜드를 라이선스하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "가황 고무 발명가의 이름을 딴 애크런 기반 타이어 제조업체로, 자동차 경주용 타이어 공급과 광고 비행선으로 널리 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.goodyear.eu/",
+  "entityLinks": {
+   "wikidata": "Q620875",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q620875",
+    "https://ko.wikipedia.org/wiki/%EA%B5%B3%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Goodyear_Tire_and_Rubber_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q620875",
+   "country": "미국",
+   "inception": "1898",
+   "headquarters": "애크런",
+   "founders": [
+    "Frank Seiberling"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Goodyear Tire and Rubber Company」 본문과 위키데이터 Q620875 팩트를 근거로 편집"
+ }
+}

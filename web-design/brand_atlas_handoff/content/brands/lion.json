@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3241775",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "lion",
+  "urlSlug": "lion",
+  "name": "Lion",
+  "nameKo": "",
+  "nameEn": "Lion",
+  "definition": "Lion은 오스트레일리아와 뉴질랜드에서 주류 사업을 하는 기업이며, 일본 음료 복합기업 Kirin의 자회사이다. 오스트레일리아에서는 맥주와 사이더를, 뉴질랜드와 미국에서는 와인을 생산하고 판매한다.",
+  "summary": "Lion은 오스트레일리아와 뉴질랜드에서 주류 사업을 하는 기업이며, 일본 음료 복합기업 Kirin의 자회사이다. 오스트레일리아에서는 맥주와 사이더를, 뉴질랜드와 미국에서는 와인을 생산하고 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Kirin 산하에서 오스트레일리아와 뉴질랜드의 맥주, 사이더, 와인, 증류주 유통을 아우르는 주류 기업이며, 뉴질랜드에서는 최대 주류 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lion은 오스트레일리아와 뉴질랜드에서 주류 사업을 하는 기업으로, 일본 음료 복합기업 Kirin의 자회사이다. 오스트레일리아에서는 맥주와 사이더를 생산하고 판매하며, 뉴질랜드와 미국에서는 Distinguished Vineyards & Wine Partners를 통해 와인을 생산하고 판매한다. 뉴질랜드에서는 여러 증류주의 유통을 맡지만 증류소를 직접 소유하지는 않고, Victoria의 Four Pillars Gin 지분 50%를 보유한다. Lion New Zealand는 뉴질랜드 최대의 주류 기업이며 1000명을 고용한다. 이 회사는 오스트레일리아와 뉴질랜드에 여러 양조장과 위탁 병입 공장을 소유한다. 2020년 기준 오스트레일리아 법인은 시드니에 Lion-Beer Spirits & Wine Pty Ltd라는 이름으로 등록된 법인이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신은 Logan Campbell과 William Brown이 1840년 오클랜드에 Hobson Bridge Brewery를 세운 Brown Campbell & Co이다. 1923년 10개 양조장이 합병해 New Zealand Breweries를 만들었고, 그 북부 부문은 1977년 Lion Breweries라는 이름을 채택했다. 1988년 Lion Breweries가 LD Nathan & Co를 인수해 Lion Nathan을 세웠고, 1990년 Bond Corporation의 양조 자산 경영권을 확보해 오스트레일리아에 본격 진출했다. 2009년 10월 Kirin Holdings Company Limited가 Lion Nathan을 사들여 2007년부터 소유한 National Foods와 합병하면서 Lion Nathan National Foods라는 이름으로 출범했고, 2011년 Lion으로 이름을 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "오스트레일리아에서는 맥주와 사이더를 생산하며, 한 법인 아래 Lion Nathan Australia, South Australian Brewing Company, James Boag Brewing, Byron Bay Brewery, Hahn Brewing Company, James Squire Brewery, Castlemaine, Little Creatures Brewery 등의 사업명이 등록돼 있다. 뉴질랜드에서는 Speight's, Steinlager, Mac's, Emerson's, Stella Artois, Corona 같은 맥주를 판매한다. Smirnoff, Baileys, Bacardi, Johnnie Walker 같은 증류주와 여러 와인도 취급한다. 와인은 뉴질랜드와 미국에서 Distinguished Vineyards & Wine Partners를 통해 생산하고 판매한다. Victoria의 Four Pillars Gin 지분 50%도 보유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Lion은 Kirin의 자회사로 운영된다. 2011년 개명 때 멜버른에 기반한 자회사가 된 Lion Dairy & Drinks는 2020년 11월 Bega에 인수됐다. 2006년 Linfox와 50:50 합작으로 세운 물류 회사 BevChain은 2017년 Linfox가 전량 소유하게 됐다. Lion New Zealand는 뉴질랜드 최대의 주류 기업으로 1000명을 고용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Kirin 산하에서 오스트레일리아와 뉴질랜드의 맥주, 사이더, 와인, 증류주 유통을 아우르는 주류 기업이며, 뉴질랜드에서는 최대 주류 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lionco.com/",
+  "entityLinks": {
+   "wikidata": "Q3241775",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3241775",
+    "https://en.wikipedia.org/wiki/Lion_(Australasian_company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3241775",
+   "country": "오스트레일리아",
+   "inception": "1923",
+   "headquarters": "시드니",
+   "founders": [],
+   "parent": "기린 홀딩스",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Lion (Australasian company)」 본문과 위키데이터 Q3241775 팩트를 근거로 편집"
+ }
+}

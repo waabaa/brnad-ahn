@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q4653060",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/anta-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "anta",
+  "urlSlug": "anta",
+  "name": "안타스포츠",
+  "nameKo": "안타스포츠",
+  "nameEn": "Anta",
+  "definition": "안타스포츠(Anta)는 중국 진장시에 본사를 둔 다국적 스포츠 용품 기업이다. 자체 브랜드 아래 스포츠웨어, 신발, 의류, 액세서리를 설계·개발·제조하고 마케팅한다.",
+  "summary": "안타스포츠(Anta)는 중국 진장시에 본사를 둔 다국적 스포츠 용품 기업이다. 자체 브랜드 아래 스포츠웨어, 신발, 의류, 액세서리를 설계·개발·제조하고 마케팅한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "Nike, Adidas에 이어 매출 기준 세계 3위의 중국 스포츠웨어 기업으로, Amer Sports와 Puma 지분 등 다수의 해외 브랜드를 거느린 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "안타스포츠는 중국 진장시에 본사를 둔 스포츠 용품 다국적 기업이다. 매출 기준으로 세계 3위의 스포츠웨어 기업이며, Nike와 Adidas 뒤에 있고 Li-Ning보다 앞선다. 자체 브랜드를 달고 스포츠웨어, 신발, 의류, 액세서리를 설계, 개발, 제조, 마케팅하는 사업을 운영한다. 홍콩 증권거래소에 2020.HK로 상장되어 있으며 항셍지수에 포함되어 있다. 근래에 국제올림픽위원회의 공식 공급업체였고, 2022년 말까지 이 역할을 했다. 주요 자회사인 핀란드 스포츠 업체 Amer Sports는 Arc'teryx, Salomon, Wilson 등 25개 브랜드를 관리하며, 2026년에는 Puma 지분 29%를 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "안타스포츠는 Ding Shizhong이 설립했다. 2008년 베이징 올림픽은 안타스포츠가 신발 마케팅 사업을 확장할 기회가 되었다. 2007년 홍콩 증권거래소에 상장했으며 공모가는 주당 HK$5.28이었다. 2009년에는 Belle International로부터 중국 본토, 홍콩, 마카오의 Fila 상표를 인수해 이 세 지역에서 Fila 사업을 운영하게 되었다. 2018년 12월에는 안타스포츠, FountainVest Partners, Anamered Investments, Tencent로 구성된 투자 컨소시엄이 Amer Sports의 발행 주식 전부에 대한 자발적 권고 공개 현금 매수 제안을 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "안타스포츠는 자체 브랜드로 스포츠웨어, 신발, 의류, 액세서리를 만든다. 브랜드로는 Anta, Anta Kids, AntapluS, Jack Wolfskin이 있다. Amer Sports(지분 44.5%)를 통해 Arc'teryx, Salomon, Wilson, Atomic Skis 등을 보유하며, Puma 지분은 29.06%이다. Fila와 Descente 매장을 중국에서 운영한다. Kolon Sport(지분 50%), KingKow, Sprandi, Maia Active(지분 75.13%)도 브랜드에 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 10월 여성 애슬레저 브랜드 Maia Active의 지분 75.13%를 비공개 금액으로 인수했다. 2026년 1월에는 독일 스포츠 의류 브랜드 Puma의 지분 29%를 €1.5bn에 인수해 최대 주주가 되었다. Kyrie Irving과는 2024년에 첫 운동화를 함께 출시했고, 현재 후원 대상에는 Eileen Gu, Manny Pacquiao, Kenenisa Bekele 등이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Nike, Adidas에 이어 매출 기준 세계 3위의 중국 스포츠웨어 기업으로, Amer Sports와 Puma 지분 등 다수의 해외 브랜드를 거느린 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://anta.com",
+  "entityLinks": {
+   "wikidata": "Q4653060",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4653060",
+    "https://ko.wikipedia.org/wiki/%EC%95%88%ED%83%80%EC%8A%A4%ED%8F%AC%EC%B8%A0",
+    "https://en.wikipedia.org/wiki/Anta_Sports"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4653060",
+   "country": "중국",
+   "inception": "1994",
+   "headquarters": "진장시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Anta Sports」 본문과 위키데이터 Q4653060 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

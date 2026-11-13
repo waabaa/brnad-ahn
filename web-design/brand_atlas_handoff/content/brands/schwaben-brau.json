@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2252562",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "schwaben-brau",
+  "urlSlug": "schwaben-brau",
+  "name": "Schwaben Bräu",
+  "nameKo": "",
+  "nameEn": "Schwaben Bräu",
+  "definition": "Schwaben Bräu는 독일 슈투트가르트에 있는 양조장이자 맥주 브랜드이다. 1878년에 설립되었으며 Dinkelacker-Schwaben Bräu GmbH und Co. KG가 소유한다.",
+  "summary": "Schwaben Bräu는 독일 슈투트가르트에 있는 양조장이자 맥주 브랜드이다. 1878년에 설립되었으며 Dinkelacker-Schwaben Bräu GmbH und Co. KG가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "도자기 마개가 달린 플립톱 병과 여덟 종류의 맥주 라인업을 갖춘, 바덴뷔르템베르크주 최대 규모 양조장의 슈투트가르트 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Schwabenbräu로도 표기하는 이 브랜드는 독일 슈투트가르트에 자리한 양조장에서 만드는 맥주 브랜드이다. 이 양조장은 Dinkelacker-Schwaben Bräu GmbH und Co. KG가 소유하고 있다. 이 회사는 독일 바덴뷔르템베르크주에서 가장 큰 양조장을 보유하고 있다. 설립 연도는 1878년이며 본사는 슈투트가르트에 있다. 브랜드는 여덟 종류의 맥주로 구성되며 라거, 마르첸, 필스너, 둥켈, 헬레스, 밀맥주, 엑스포트 맥주 등 여러 스타일을 포함한다. 병에는 다시 닫을 수 있는 도자기 마개를 금속 걸쇠로 고정해 맥주를 압력 밀봉하는 플립톱 방식을 쓴다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 브랜드의 맥주는 모두 여덟 종류이다. Das Natürtrübe는 하면발효 방식의 여과하지 않은 라거이고, Meister-Pils는 하면발효 필스너로 Das Natürtrübe와 달리 여과한다. Original은 하면발효 맥주이고, Das Echte는 하면발효 마르첸이며, Das Schwarze는 하면발효 둥켈, Das Helle는 하면발효 헬레스이다. Das Weizen은 여과하지 않은 밀맥주이고, Das Urtyp Export는 하면발효 엑스포트 맥주이다. 병은 다시 밀봉할 수 있는 도자기 마개를 금속 걸쇠로 고정하는 플립톱 병을 쓴다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 양조장은 Dinkelacker-Schwaben Bräu GmbH und Co. KG가 소유하고 있다. 슈투트가르트에 위치하며, 이 회사는 독일 바덴뷔르템베르크주에서 가장 큰 양조장을 보유한다. 브랜드는 여덟 종류의 맥주로 구성되며, 본사는 슈투트가르트이고 설립은 1878년이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "도자기 마개가 달린 플립톱 병과 여덟 종류의 맥주 라인업을 갖춘, 바덴뷔르템베르크주 최대 규모 양조장의 슈투트가르트 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.schwabenbraeu.de",
+  "entityLinks": {
+   "wikidata": "Q2252562",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2252562",
+    "https://en.wikipedia.org/wiki/Schwaben_Br%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2252562",
+   "country": "독일",
+   "inception": "1878",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Schwaben Bräu」 본문과 위키데이터 Q2252562 팩트를 근거로 편집"
+ }
+}

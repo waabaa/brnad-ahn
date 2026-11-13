@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q2476154",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/renfe-operadora-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "renfe-operadora",
+  "urlSlug": "renfe-operadora",
+  "name": "렌페",
+  "nameKo": "렌페",
+  "nameEn": "Renfe Operadora",
+  "definition": "렌페(Renfe Operadora)는 스페인의 국영 철도 회사이다. 2005년 옛 스페인 국철이 분리되면서 철도 운영을 맡아 설립되었으며, 본사는 마드리드에 있다.",
+  "summary": "렌페(Renfe Operadora)는 스페인의 국영 철도 회사이다. 2005년 옛 스페인 국철이 분리되면서 철도 운영을 맡아 설립되었으며, 본사는 마드리드에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "스페인의 국영 철도 운영사로, 인프라를 맡은 ADIF와 분리되어 2005년 출범했으며 AVE 고속철도와 Cercanías 통근 서비스를 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "렌페는 스페인의 국영 철도 회사로, 여객과 화물 철도 서비스의 계획, 마케팅, 운영을 책임진다. 철도 차량을 소유하며 Grupo Renfe 또는 간단히 Renfe로도 불린다. 철도 인프라의 관리, 유지, 건설은 Administrador de Infraestructuras Ferroviarias(ADIF)가 맡는다. 회사는 약 12,000 km의 철도를 운영하며 그중 7,000 km가 전철화되어 있다. 대부분의 선로는 포르투갈과 같은 1,668 mm의 이베리아 궤간이고, 신형 고속철도 AVE 망은 유럽 철도망과의 연결을 위해 국제 표준궤간인 1,435 mm로 건설되었다. 2021년 Ouigo España, 2022년 Iryo가 출범하면서 렌페는 국내 여객 부문의 독점을 잃었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "렌페라는 이름은 Red Nacional de los Ferrocarriles Españoles의 약자로, 1941년 1월 24일 스페인 철도가 국유화되면서 만들어진 옛 스페인 국철에서 유래했다. 2003년 철도부문법은 철도 인프라의 관리, 유지, 건설을 열차 운영에서 분리했다. EU 지침 91/440에 따라 2005년 1월 1일 옛 렌페는 운영을 맡는 Renfe Operadora와 인프라를 맡는 ADIF로 나뉘었다. 같은 시기 1971년에 처음 도입된 로고 galleta는 Interbrand가 디자인한 짙은 보라색 소문자 워드마크로 교체되었다. 2012년에는 FEVE도 같은 과정을 거쳐 인프라와 서비스가 Adif와 Renfe로 통합되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2006년 1월 렌페는 주요 사업 부문을 네 개의 총국으로 재편했다. 근거리·중거리 공공 서비스 총국은 통근 서비스인 Cercanías, 중거리 고속철도 AVE, 지역 노선을 맡고, 장거리 서비스 총국은 장거리 도시 간 및 고속철도 서비스를 맡는다. 화물·물류 총국은 화물 서비스를, 제조·정비 총국은 Integria로도 알려진 철도 차량의 정비와 제작을 맡는다. 2013년 6월 이사회는 지주회사 아래 Renfe Viajeros(여객), Renfe Mercancías(화물), Renfe Fabricación y Mantenimiento(차량 정비), Renfe Alquiler de Material Ferroviario(열차 임대)의 네 회사로 재편하기로 의결했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "렌페는 국영 회사로서 스페인의 여객과 화물 철도 운영을 맡고 있다. 2021년 Ouigo España, 2022년 Iryo의 출범으로 국내 여객 부문의 독점은 사라졌다. 2026년 9월 말 새 승차권 판매 웹사이트 출시와 함께 렌페는 20년 만에 galleta 로고를 다시 도입했으며, 색상은 Interbrand가 디자인한 로고타입에 맞춰 바뀌었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인의 국영 철도 운영사로, 인프라를 맡은 ADIF와 분리되어 2005년 출범했으며 AVE 고속철도와 Cercanías 통근 서비스를 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.renfe.com",
+  "entityLinks": {
+   "wikidata": "Q2476154",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2476154",
+    "https://ko.wikipedia.org/wiki/%EB%A0%8C%ED%8E%98",
+    "https://en.wikipedia.org/wiki/Renfe"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2476154",
+   "country": "스페인",
+   "inception": "2005",
+   "headquarters": "마드리드",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Renfe」 본문과 위키데이터 Q2476154 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

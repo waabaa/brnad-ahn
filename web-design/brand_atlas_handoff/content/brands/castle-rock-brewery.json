@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q5050272",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "castle-rock-brewery",
+  "urlSlug": "castle-rock-brewery",
+  "name": "Castle Rock Brewery",
+  "nameKo": "",
+  "nameEn": "Castle Rock Brewery",
+  "definition": "Castle Rock Brewery는 영국 노팅엄에 본사를 둔 양조장이자 펍 그룹이다. 1996년에 설립되었으며 모기업은 Tynemill이고, 노팅엄셔에서 펍을 운영한다.",
+  "summary": "Castle Rock Brewery는 영국 노팅엄에 본사를 둔 양조장이자 펍 그룹이다. 1996년에 설립되었으며 모기업은 Tynemill이고, 노팅엄셔에서 펍을 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "양조장과 펍 그룹을 함께 운영하는 노팅엄 기반 회사이며, 다양한 한정 맥주 시리즈와 Pub Group of the Year 수상 이력으로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Castle Rock Brewery는 영국 노팅엄을 기반으로 맥주를 양조하고 펍을 운영하는 회사이다. 양조장에서는 Black Gold, Harvest Pale, Preservation, Sherwood Reserve 등 정규 맥주와 계절 한정 맥주를 만든다. 노팅엄셔 전역에 22개의 펍을 두고 있으며, Pub Group of the Year를 2002년, 2006년, 2008년에 수상했다. Harvest Pale은 Great British Beer Festival에서 Supreme Champion Beer of Britain을 차지한 맥주이다. 2001년부터 Tynemill의 완전 자회사로 운영되어 왔으며, 2026년 9월에는 Traffic Street 부지의 임대 만료로 2027년에 Basford 지역으로 이전할 계획을 밝혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 원래 Bramcote Brewery와의 합작 사업으로 설립되었다. 이후 Bramcote Brewery가 정리되고, Tynemill과 Bramcote Brewery의 이전 소유주가 각각 50%를 보유한 새 회사가 만들어졌다. 새 부지는 노팅엄 기차역 근처 Queensbridge road에 있는 Tynemill의 펍 The Vat and Fiddle 옆이었고, 이 펍은 'Brewery Tap'이 되었다. 느린 출발 뒤 꾸준히 성장하던 이 회사는 2001년 Tynemill이 다른 주주의 지분을 인수하면서 완전 자회사가 되었다. 생산량은 2003년 주당 35배럴에서 2010년 새로 확장한 양조장에서 주당 300배럴 이상으로 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2015년 기준 정규 맥주로 Black Gold(dark mild, 3.8%), Harvest Pale(pale ale, 3.8%), Preservation(bitter, 4.4%), Sherwood Reserve(stout, 4.5%)가 있다. Elsie Mo(pale ale, 4.7%), Screech Owl(India pale ale, 5.5%), Sheriff's Tipple(bitter, 3.4%)도 정규 맥주에 포함된다. Session IPA는 이 양조장의 첫 상설 케그 맥주이다. 이 밖에 Halloween 한정 맥주 Most Haunted, Wildlife Trusts와 함께 만드는 연 4종의 Wildlife Reserve 맥주, 분기별 Nottinghamian Celebration Ales, 실험적인 Traffic Street Specials 시리즈를 만든다. 펍 사업으로는 노팅엄셔에서 22개의 펍을 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2001년부터 Tynemill의 완전 자회사이며 본사는 노팅엄에 있다. 2026년 9월 회사는 Traffic Street 부지의 임대 만료로 2027년에 도심에서 Basford 교외 부지로 이전할 계획이라고 발표했다. 2010년에 확장한 양조장은 주당 300배럴 이상을 생산할 수 있는 능력을 갖추었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조장과 펍 그룹을 함께 운영하는 노팅엄 기반 회사이며, 다양한 한정 맥주 시리즈와 Pub Group of the Year 수상 이력으로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.castlerockbrewery.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q5050272",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5050272",
+    "https://en.wikipedia.org/wiki/Castle_Rock_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5050272",
+   "country": "영국",
+   "inception": "1996",
+   "headquarters": "노팅엄",
+   "founders": [],
+   "parent": "Tynemill",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Castle Rock Brewery」 본문과 위키데이터 Q5050272 팩트를 근거로 편집"
+ }
+}

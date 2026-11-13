@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1798652",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/tuborg-brewery-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tuborg-brewery",
+  "urlSlug": "tuborg-brewery",
+  "name": "Tuborg Brewery",
+  "nameKo": "",
+  "nameEn": "Tuborg Brewery",
+  "definition": "Tuborg Brewery는 1873년 코펜하겐 북쪽의 항구에서 설립된 덴마크의 양조 회사이다. 1970년부터 칼스버그 그룹의 일원이며 대표 제품은 Tuborg 필스너이다.",
+  "summary": "Tuborg Brewery는 1873년 코펜하겐 북쪽의 항구에서 설립된 덴마크의 양조 회사이다. 1970년부터 칼스버그 그룹의 일원이며 대표 제품은 Tuborg 필스너이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "1873년 코펜하겐 북쪽 항구에서 출발해 칼스버그 그룹에 속한 덴마크 맥주로, 크리스마스 맥주 'J-day'와 음악 페스티벌 후원이 특징인 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tuborg Brewery는 덴마크의 양조 회사로, 1873년 코펜하겐 북쪽의 항구에서 설립된 맥주 브랜드이다. 이름은 1690년대 코펜하겐의 여관 Thuesborg에서 유래했다. 1970년부터 칼스버그 그룹에 속한다. 대표 제품인 Tuborg 필스너는 1880년에 처음 양조했다. 1990년부터 매년 크리스마스 맥주를 출시하며 'J-day'라는 마케팅 용어를 사용했다. 2008년에는 Reading and Leeds 음악 페스티벌의 독점 공식 맥주 파트너가 되는 후원 계약을 발표했고, 네팔에서 열리는 연례 음악 시상식 Tuborg Image Awards도 후원한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1873년 Philip Heyman이 C. F. Tietgen, Gustav Brock, Rudolph Puggaard와 함께 양조장을 공동 설립했다. 이름은 1690년대 코펜하겐의 여관 Thuesborg('Thue의 성')에서 유래했으며, 이 여관은 양조장이 있던 지역에 자리했다. Heyman 사후인 1894년 양조장은 De Forenede Bryggerier와 합병했고, 이를 통해 1903년 칼스버그와 이익 분배 계약을 맺었다. Heyman의 사위 Benny Desau가 De Forenede Bryggerier의 이사를 맡았고, 1919년부터 그의 아들 Einar Dessau가 뒤를 이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1880년에 처음 양조한 Tuborg 필스너이다. 매년 크리스마스 맥주(julebryg)를 출시하며, 1990년 11월 둘째 수요일에 'J-day'라는 마케팅 용어와 함께 처음 선보였다. 부활절 맥주(påskebryg)에 대응하는 'P-day'도 있다. J-day는 1999년 11월 첫째 금요일로, 2009년 10월 마지막 금요일로 옮겼다가 2010년 다시 11월 첫째 금요일로 되돌렸다. 2022년에는 중국 래퍼들과 'Why Not!' 프로젝트를 협업했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1970년부터 칼스버그 그룹의 일원이며, 본사는 코펜하겐이다. 2008년 Reading and Leeds 페스티벌의 독점 공식 맥주 파트너가 되었고, 2009년에는 The Download 페스티벌의 공식 맥주로 계약해 브랜드 이름을 붙인 전용 무대를 마련했다. 2022년에는 중국 래퍼들과 협업했으며, 네팔의 연례 음악 시상식 Tuborg Image Awards도 후원한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1873년 코펜하겐 북쪽 항구에서 출발해 칼스버그 그룹에 속한 덴마크 맥주로, 크리스마스 맥주 'J-day'와 음악 페스티벌 후원이 특징인 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tuborg.com",
+  "entityLinks": {
+   "wikidata": "Q1798652",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1798652",
+    "https://en.wikipedia.org/wiki/Tuborg_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1798652",
+   "country": "덴마크",
+   "inception": "1873",
+   "headquarters": "코펜하겐",
+   "founders": [
+    "Carl Frederik Tietgen"
+   ],
+   "parent": "칼스버그",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Tuborg Brewery」 본문과 위키데이터 Q1798652 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

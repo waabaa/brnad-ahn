@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q837049",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/pernod-ricard-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pernod-ricard",
+  "urlSlug": "pernod-ricard",
+  "name": "페르노리카",
+  "nameKo": "페르노리카",
+  "nameEn": "Pernod Ricard",
+  "definition": "페르노리카(Pernod Ricard)는 프랑스의 와인·증류주 기업이다. 아니스 향 파스티스 아페리티프인 Pernod Anise와 Ricard Pastis로 잘 알려져 있으며, 세계 2위의 와인·증류주 판매업체로 꼽힌다.",
+  "summary": "페르노리카(Pernod Ricard)는 프랑스의 와인·증류주 기업이다. 아니스 향 파스티스 아페리티프인 Pernod Anise와 Ricard Pastis로 잘 알려져 있으며, 세계 2위의 와인·증류주 판매업체로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스 아니스 아페리티프 업체 Pernod Fils와 Ricard의 1975년 합병으로 출범해, 인수를 거듭하며 세계 2위 와인·증류주 업체로 성장한 프랑스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페르노리카는 1975년 설립된 프랑스 기업으로, 파리에 본사를 두고 와인과 증류주를 만든다. 프랑스의 양대 아니스 아페리티프 생산업체이자 치열한 경쟁자였던 Pernod Fils와 Ricard가 합병하며 Pernod Ricard 그룹이 출범했다. 창업자로는 1932년 Ricard를 설립한 폴 리카르가 꼽힌다. 이후 Jameson 아이리시 위스키 제조사 Irish Distillers, Ballantine's 제조사 Allied Domecq, Absolut Vodka를 만드는 V&S Group 등을 인수하며 사업을 넓혔다. 세계 2위의 와인·증류주 판매업체로 꼽히며 Pernod Anise와 Ricard Pastis로 잘 알려져 있다. 2024년에는 국제 전략 와인 브랜드 포트폴리오 전체를 매각해 프리미엄 증류주와 샴페인에 집중하는 방향을 택했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Pernod 계통은 1805년 프랑스 동부 Pontarlier에서 Henri-Louis Pernod가 Maison Pernod Fils를 세우고 아니스 향 증류주 압생트를 생산하면서 시작되었다. 1915년 프랑스에서 압생트의 생산과 소비가 금지되었고, 1926년 세 증류소가 합병해 Les Établissements Pernod가 되었다. Ricard는 1932년 마르세유에서 폴 리카르가 설립했으며 곧 프랑스에서 가장 사랑받는 롱드링크가 되었다. 1975년 Pernod Fils와 Ricard가 합병해 Pernod Ricard 그룹이 만들어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 아니스 향 파스티스 아페리티프인 Pernod Anise와 Ricard Pastis이다. 인수와 제휴를 통해 Jameson Irish whiskey, Jacob's Creek, Havana Club, Chivas Regal, Ballantine's, Absolut Vodka, Becherovka 등을 포트폴리오에 더했다. Chivas Regal을 만드는 Chivas Brothers는 스카치 몰트 증류소 13곳, 그레인 증류소 1곳, 진 증류소 2곳을 소유한 것으로 소개된다. 2022년에는 프랑스의 즉석 칵테일 브랜드 Cockorico를 인수했고, 2023년 12월에는 첫 중국 위스키인 The Chuan Pure Malt Whisky를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 7월 Jacob's Creek, Orlando, Brancott Estate, Campo Viejo 등 국제 전략 와인 브랜드 전체를 Australian Wine Holdco Ltd에 매각한다고 발표했으며, 거래는 2025년 4월 마무리되었다. 미국과 프랑스 와인 브랜드, 아르헨티나와 중국의 레이블은 유지한다. 2025년 2월에는 남아프리카 진 Inverroche를 인수했고, 같은 해 7월에는 Clontarf, Knappogue Castle, Imperial Blue 등을 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스 아니스 아페리티프 업체 Pernod Fils와 Ricard의 1975년 합병으로 출범해, 인수를 거듭하며 세계 2위 와인·증류주 업체로 성장한 프랑스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://pernod-ricard.com/",
+  "entityLinks": {
+   "wikidata": "Q837049",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q837049",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A5%B4%EB%85%B8%EB%A6%AC%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Pernod_Ricard"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q837049",
+   "country": "프랑스",
+   "inception": "1975",
+   "headquarters": "파리",
+   "founders": [
+    "폴 리카르"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Pernod Ricard」 본문과 위키데이터 Q837049 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

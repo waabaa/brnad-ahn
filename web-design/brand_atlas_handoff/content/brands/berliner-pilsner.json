@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q821688",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/berliner-pilsner-wd.gif",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "berliner-pilsner",
+  "urlSlug": "berliner-pilsner",
+  "name": "Berliner Pilsner",
+  "nameKo": "",
+  "nameEn": "Berliner Pilsner",
+  "definition": "Berliner Pilsner는 독일 베를린에서 Berliner-Kindl-Schultheiss-Brauerei가 생산하는 맥주이다. 이 양조장은 Radeberger Group에 속한 부문이다.",
+  "summary": "Berliner Pilsner는 독일 베를린에서 Berliner-Kindl-Schultheiss-Brauerei가 생산하는 맥주이다. 이 양조장은 Radeberger Group에 속한 부문이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "동독 시기 동베를린의 대표 맥주 브랜드였으며, 베를린의 상징인 곰과 Reichstag 돔을 병 디자인에 담은 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베를린에서 생산되는 맥주 브랜드이다. 현재는 Radeberger Group 산하의 Berliner-Kindl-Schultheiss-Brauerei가 만든다. 동독 공산 정권 시기에는 오랫동안 동베를린의 대표 맥주 브랜드였고, 불가리아, 미국, 영국으로도 수출된 이력이 있다. 1990년 독일 통일 이후 양조장은 매각되어 독립적으로 운영되었으며, 2003년 Radeberger Group에 인수되었다. 1992년 제품 재출시 때는 병 디자인을 바꾸고 양조 공정에 새 기술을 투자하여 새로운 이미지를 만들고 시장 점유율을 되찾으려 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1902년 Gabriel과 Richter가 인접한 비어가든을 갖춘 작은 양조장으로 이 브랜드를 시작했다. 1969년 국유화되어 동독의 국유 기업 형태인 VEB Berliner Getränkekombinat에 편입되었다. 공산 정권 시기 동안 오랫동안 동베를린의 대표 맥주 브랜드였으며 불가리아, 미국, 영국으로 수출되었다. 1990년 독일 통일 이후 양조장은 매각되어 독립적으로 운영되었다. 2003년 Radeberger Group에 인수되어 베를린 일대의 다른 양조 자산과 합쳐지며 Berliner-Kindl-Schultheiss-Brauerei가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 필스너 맥주이다. 1992년 재출시 때 기존의 낮고 오래된 Euro-bottle 대신 더 세련된 NRW-bottle을 채택하고 디자인도 새로 바꾸었다. 이후에도 디자인 변경이 이어져 Longneck-bottle이 도입되었다. 디자인에는 베를린의 상징이자 문장에도 쓰이는 곰이 Reichstag 돔 앞에 놓인 모습이 들어갔다. 양조 공정을 현대화하기 위해 새로운 기술에도 투자했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Berliner-Kindl-Schultheiss-Brauerei가 베를린에서 생산하며, 이 양조장은 Radeberger Group의 한 부문이다. 2003년 Radeberger Group이 인수한 뒤 베를린 일대의 여러 양조 자산과 합쳐져 지금의 양조장이 만들어졌다. 한때 독립적으로 운영되던 브랜드가 그룹 산하에 속하게 된 상태이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "동독 시기 동베를린의 대표 맥주 브랜드였으며, 베를린의 상징인 곰과 Reichstag 돔을 병 디자인에 담은 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.berliner-pilsner.de",
+  "entityLinks": {
+   "wikidata": "Q821688",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q821688",
+    "https://en.wikipedia.org/wiki/Berliner_Pilsner"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q821688",
+   "country": "동독",
+   "inception": "1902",
+   "headquarters": "베를린",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Berliner Pilsner」 본문과 위키데이터 Q821688 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

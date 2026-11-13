@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q644625",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/brasil-kirin-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "brasil-kirin",
+  "urlSlug": "brasil-kirin",
+  "name": "Brasil Kirin",
+  "nameKo": "",
+  "nameEn": "Brasil Kirin",
+  "definition": "Brasil Kirin은 브라질의 맥주·음료 회사로, 1939년 Schincariol로 설립되어 2011년 Kirin Company에 인수되었다. 2017년 Heineken N.V.에 매각되어 현재 Heineken의 브라질 사업에 통합되었다.",
+  "summary": "Brasil Kirin은 브라질의 맥주·음료 회사로, 1939년 Schincariol로 설립되어 2011년 Kirin Company에 인수되었다. 2017년 Heineken N.V.에 매각되어 현재 Heineken의 브라질 사업에 통합되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Schincariol에서 출발해 Kirin의 소유를 거쳐 Heineken의 브라질 사업으로 통합된, 맥주와 청량음료를 함께 만든 브라질 업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brasil Kirin은 브라질의 맥주·음료 회사였으며, 국내에서 AmBev에 이어 두 번째로 큰 규모의 업체였다. 상표로는 Schin, Glacial, Nobel, Devassa, Baden-Baden, Foster's 등을 사용했고, 주력 제품은 맥주 Nova Schin Pilsen이었다. 본사는 상파울루주 이투(Itu)에 있었고, 브라질 전역에 13개의 공장·양조장과 10개의 유통센터를 두었다. 연간 약 3.0 billion 리터의 맥주를 생산했으며 Mercosul, 유럽, 미국, 아시아, 오세아니아로 수출했다. 2011년 기준 브라질 맥주 시장 점유율은 10.4%였다. 2011년 Kirin Company에 인수되었다가 2017년 Heineken N.V.에 매각되었으며, 현재는 Heineken의 브라질 사업에 완전히 통합되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1939년 Schincariol이라는 이름으로 설립되었다. 2007년에는 Nobel과 Devassa 상표를 사들였다. 2011년 10월 법원이 Kirin Brewery Company의 Schincariol 과반 지분 인수를 허용했고, Kirin은 그해 50.45%의 지분을 매입했다. 같은 해 11월에는 나머지 49.54%의 지분도 사들여 발행 주식 전체의 지배권을 확보했다. 이는 신흥시장에서 성장을 모색하던 Kirin에게 가장 큰 규모의 인수였다. 2012년 11월 Kirin은 Schincariol의 이름을 Brasil Kirin으로 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주 부문의 주력은 Nova Schin Pilsen으로, 브라질 맥주 시장의 14%를 차지했다. Nobel은 독일 Hallertau산 홉으로 만든 프리미엄 맥주이고, Glacial은 더 가볍고 저렴한 맥주이다. Baden-Baden은 Campos do Jordão에서 인수한 상표이고, Devassa는 Rio de Janeiro에서 시작된 라거 소규모 양조 상표이다. 청량음료로는 1954년부터 전국에 생산·유통된 Itubaína와 Guaraná Schin을 비롯해 콜라, 오렌지, 레몬, 사과, 토닉워터 등을 만들었으며, 생수와 에너지 회복 음료 Skinka도 생산했다. 2007년에는 과일 주스 라인 Fruthos의 출시를 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 2월 13일 Heineken International이 Brasil Kirin의 인수를 발표했고, 인수 금액은 664 million 유로였다. Kirin은 이 회사를 네덜란드의 Heineken N.V.에 매각했다. 현재 Brasil Kirin은 Heineken의 브라질 사업에 완전히 통합되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Schincariol에서 출발해 Kirin의 소유를 거쳐 Heineken의 브라질 사업으로 통합된, 맥주와 청량음료를 함께 만든 브라질 업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.schincariol.com.br/",
+  "entityLinks": {
+   "wikidata": "Q644625",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q644625",
+    "https://en.wikipedia.org/wiki/Brasil_Kirin"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q644625",
+   "country": "브라질",
+   "inception": "1954",
+   "headquarters": "이투",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Brasil Kirin」 본문과 위키데이터 Q644625 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

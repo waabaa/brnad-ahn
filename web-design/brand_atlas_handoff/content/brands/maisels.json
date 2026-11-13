@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q900204",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "maisels",
+  "urlSlug": "maisels",
+  "name": "Maisel's",
+  "nameKo": "",
+  "nameEn": "Maisel's",
+  "definition": "Maisel's는 1887년 설립되어 독일 바이로이트에 본사를 둔 가족 소유 양조장 Brauerei Gebr. Maisel KG의 브랜드로, 밀맥주로 가장 잘 알려져 있다.",
+  "summary": "Maisel's는 1887년 설립되어 독일 바이로이트에 본사를 둔 가족 소유 양조장 Brauerei Gebr. Maisel KG의 브랜드로, 밀맥주로 가장 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "가족 소유 양조장이 1887년부터 이어 온 브랜드로, 1955년 선보인 Maisel's Weisse 밀맥주 제품군으로 가장 잘 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Maisel's는 독일 바이로이트에 있는 가족 소유 양조장 Brauerei Gebr. Maisel KG(영문명 Maisel Bros. Brewery)가 운영하는 브랜드이다. 이 양조장은 밀맥주로 가장 잘 알려져 있으며, 독일에서 밀맥주를 네 번째로 많이 생산하는 업체이다. 연간 생산량은 약 410,000 hectolitres(350,000 US bbl)이며 직원 수는 160명이다. 1955년에 밀맥주 제품군인 Maisel's Weisse를 선보였고, 이 제품군으로 가장 잘 알려져 있다. 2001년 지분 일부를 Veltins에 넘겼다가 2005년 12월 되사들였고, 두 양조장은 지금도 유통에서 협력한다. 양조장의 설립 연도는 1887년이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1887년 형제인 Eberhardt Maisel과 Hans Maisel이 Upper Franconia 지역의 도시 바이로이트에서 세웠다. 회사명 Brauerei Gebr. Maisel KG는 영문으로 Maisel Bros. Brewery라고 옮겨진다. 1955년에는 밀맥주 제품군 Maisel's Weisse를 선보였고, 이 제품군은 양조장을 대표하는 제품이 되었다. 2001년에는 Maisel 가문이 지분 35%를 Veltins에 매각했으며, 이 지분은 2005년 12월 다시 사들였다. 이후 독일에서 네 번째로 큰 밀맥주 생산업체로 자리 잡았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Brauerei Gebr. Maisel KG는 바이로이트에 본사를 둔 가족 소유 양조장이다. 연간 생산량은 약 410,000 hectolitres(350,000 US bbl)이며 160명을 고용하고 있다. 독일에서 네 번째로 큰 밀맥주 생산업체이다. Veltins와는 2005년 지분을 되사들인 뒤에도 유통 분야에서 협력하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "가족 소유 양조장이 1887년부터 이어 온 브랜드로, 1955년 선보인 Maisel's Weisse 밀맥주 제품군으로 가장 잘 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.maisel.com",
+  "entityLinks": {
+   "wikidata": "Q900204",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900204",
+    "https://en.wikipedia.org/wiki/Brauerei_Gebr._Maisel"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900204",
+   "country": "독일",
+   "inception": "1887",
+   "headquarters": "바이로이트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Brauerei Gebr. Maisel」 본문과 위키데이터 Q900204 팩트를 근거로 편집"
+ }
+}

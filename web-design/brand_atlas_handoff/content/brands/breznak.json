@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3490068",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "breznak",
+  "urlSlug": "breznak",
+  "name": "Březňák",
+  "nameKo": "",
+  "nameEn": "Březňák",
+  "definition": "Březňák은 체코의 Ústí nad Labem 인근 Velké Březno에서 생산되는 필스너 계열 맥주 브랜드이다. 1753년에 설립된 양조장에서 빚는다.",
+  "summary": "Březňák은 체코의 Ústí nad Labem 인근 Velké Březno에서 생산되는 필스너 계열 맥주 브랜드이다. 1753년에 설립된 양조장에서 빚는다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "Březňák은 1753년 설립된 Velké Březno 양조장에서 빚으며 현재 Heineken N.V. 그룹이 소유한 체코 필스너 계열 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Březňák은 체코 Ústí nad Labem 인근 Velké Březno에서 생산되는 필스너 계열 맥주 브랜드이다. 이 맥주를 빚는 양조장은 1753년에 Ferdinand Bonaventura Count Harrach가 새 저택과 양조장을 지으면서 자리를 잡았다. 제품군은 10°, 11°, 12°, 14° 등급으로 나뉘며, 연한 색 생맥주용 맥주와 라거, 특별 맥주가 포함된다. 알코올 도수는 ABV 기준 4.1%에서 6.5%까지이다. 양조장은 1606년에 처음 언급되었고, 1896년에 주식회사로 전환되었다. 2008년부터 Velké Březno 양조장은 Heineken N.V. 그룹이 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Velké Březno 양조장은 1606년에 처음 언급되었다. 1753년에는 Ferdinand Bonaventura Count Harrach가 새 저택과 양조장을 지었으며, 이 해가 현재 양조장의 설립 연도로 제시된다. 1841년에는 체코 총독 Karel Count Chotek이 양조장을 사들였다. 1896년에 양조장은 주식회사로 전환되었고 Karel Chotek이 이를 이끌었다. 2008년부터는 Heineken N.V. 그룹이 이 양조장을 소유하고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Březňák 제품군은 등급 표기와 알코올 도수(ABV)가 서로 다른 네 종류의 맥주로 구성된다. Březňák Světlé výčepní는 10° 연한 색 생맥주용 맥주이며 알코올 도수(ABV)는 4.1%이다. Březňák 11은 11° 연한 색 라거이며 알코올 도수(ABV)는 4.6%이다. Březňák Ležák은 12° 연한 색 라거이며 알코올 도수(ABV)는 4.9%이다. Březňák 14는 14° 특별 맥주이며 알코올 도수(ABV)는 6.5%이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년부터 Velké Březno 양조장은 Heineken N.V. 그룹이 소유하고 있다. 이 양조장은 체코 Ústí nad Labem 인근에서 Březňák 브랜드의 필스너 계열 맥주를 생산한다. 현재 제품군은 10°, 11°, 12°, 14° 등급의 네 종류이며 도수는 4.1%에서 6.5%까지이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Březňák은 1753년 설립된 Velké Březno 양조장에서 빚으며 현재 Heineken N.V. 그룹이 소유한 체코 필스너 계열 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.breznak.cz",
+  "entityLinks": {
+   "wikidata": "Q3490068",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3490068",
+    "https://en.wikipedia.org/wiki/B%C5%99ez%C5%88%C3%A1k"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3490068",
+   "country": "체코",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Březňák」 본문과 위키데이터 Q3490068 팩트를 근거로 편집"
+ }
+}

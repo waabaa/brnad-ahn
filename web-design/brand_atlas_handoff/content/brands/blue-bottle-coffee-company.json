@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q4928917",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/blue-bottle-coffee-company-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "blue-bottle-coffee-company",
+  "urlSlug": "blue-bottle-coffee-company",
+  "name": "블루보틀 커피",
+  "nameKo": "블루보틀 커피",
+  "nameEn": "Blue Bottle Coffee Company",
+  "definition": "블루보틀 커피(Blue Bottle Coffee Company)는 미국 캘리포니아주 오클랜드에 본사를 둔 커피 로스터 및 소매 업체이다. 단일 원산 콩에 중점을 두며 제3의 파도 커피의 주요 업체로 간주된다.",
+  "summary": "블루보틀 커피(Blue Bottle Coffee Company)는 미국 캘리포니아주 오클랜드에 본사를 둔 커피 로스터 및 소매 업체이다. 단일 원산 콩에 중점을 두며 제3의 파도 커피의 주요 업체로 간주된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "제3의 파도 커피의 주요 업체로 꼽히며, 단일 원산 콩에 중점을 두고 소량의 로트로 볶은 커피를 내세운 오클랜드 출신 로스터이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "블루보틀 커피는 미국 캘리포니아주 오클랜드에 본사를 둔 커피 로스터 및 소매 업체이다. 이 회사는 단일 원산 콩에 중점을 두며, 제3의 파도 커피의 주요 선수로 간주된다. 샌프란시스코 주변의 여러 카페로 확장한 뒤 다른 지역으로도 넓혀 갔다. 2016년에 29개의 매장을 운영했고, 2017년 말까지 캘리포니아, 뉴욕, 워싱턴, 마이애미 및 도쿄에서 50개가 넘는 카페를 열었다. 2017년에는 대주주 네슬레에 인수되었으며, 그해 판매가 70%까지 증가할 것으로 예상했다. 해외 진출 국가로는 일본이 먼저이고 대한민국이 두 번째이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "제임스 프리먼이 설립했으며, 2002년 미국 캘리포니아주 오클랜드에서 처음 문을 열었다. 이름은 유럽 최초의 카페인 블루보틀 커피 하우스에서 빌렸고, 처음 의도는 구운 후 24시간 이내에 판매할 수 있도록 소량의 로트로 커피를 볶아 가정으로 배달하는 것이었다. 블루보틀은 곧 배달을 중단하고 전통적인 카페로 문을 열었다. 샌프란시스코 베이 에어리어의 다른 지역에 개장한 뒤 2010년에 뉴욕에 첫 번째 위치를 열었다. 2012년에는 2,000만 달러의 벤처 캐피털 투자를 받았고, 2015년에는 피델리티가 이끄는 투자자가 7,000만 달러를 모았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 커피를 직접 볶는 로스팅과 카페 소매로 구성된다. 단일 원산 콩에 중점을 두며, 소량의 로트로 구운 커피를 구운 후 24시간 이내에 판매한다는 구상에서 출발했다. 회사 소유의 상점에는 '지브롤터'와 같은 메뉴 외 항목이 있다. 카페는 페리 빌딩과 샌프란시스코 현대미술관의 옥상 정원을 비롯한 샌프란시스코 주변 여러 곳에 열렸다. 일본에서는 2015년 2월 6일 도쿄 도 고토구 히라노에 해외 첫 점포를 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 9월 네슬레가 블루보틀의 지분을 인수했으며, 거래의 재무 세부사항은 공개되지 않았다. 위키데이터에는 모기업이 Centurium Capital로 기재되어 있다. 창립 이래 투자자로부터 1억 2천만 달러를 모금했으며, 2017년 말까지 50개가 넘는 카페를 열었다. 대한민국에서는 2019년 5월 3일 서울특별시 성동구 성수동1가에 1호점을 열었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "제3의 파도 커피의 주요 업체로 꼽히며, 단일 원산 콩에 중점을 두고 소량의 로트로 볶은 커피를 내세운 오클랜드 출신 로스터이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://bluebottlecoffee.com/",
+  "entityLinks": {
+   "wikidata": "Q4928917",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4928917",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80_%EC%BB%A4%ED%94%BC",
+    "https://en.wikipedia.org/wiki/Blue_Bottle_Coffee"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4928917",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "오클랜드",
+   "founders": [],
+   "parent": "Centurium Capital",
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "한국어 위키백과 「블루보틀 커피」 요약과 위키데이터 Q4928917 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

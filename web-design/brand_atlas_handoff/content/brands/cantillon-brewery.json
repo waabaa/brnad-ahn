@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2345368",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cantillon-brewery",
+  "urlSlug": "cantillon-brewery",
+  "name": "Cantillon Brewery",
+  "nameKo": "",
+  "nameEn": "Cantillon Brewery",
+  "definition": "Cantillon Brewery는 벨기에 브뤼셀의 안데를레흐트에 있는 작은 전통 가족 양조장이다. 1900년에 설립되었으며 람빅 맥주만 전문으로 양조한다.",
+  "summary": "Cantillon Brewery는 벨기에 브뤼셀의 안데를레흐트에 있는 작은 전통 가족 양조장이다. 1900년에 설립되었으며 람빅 맥주만 전문으로 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "Cantillon Brewery는 람빅만 양조하는 브뤼셀의 4대째 가족 양조장이다. 자연 발효와 전통 방식을 지키며 박물관도 함께 운영한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cantillon Brewery는 브뤼셀 안데를레흐트에 본사를 둔 벨기에의 소규모 전통 가족 양조장이다. 정식 명칭은 Brasserie-Brouwerij Cantillon이며 람빅 맥주만 양조한다. 설립 당시 브뤼셀에는 100곳이 넘는 양조장이 운영되었으나, 2000년대까지 가동을 이어 간 곳은 이 양조장뿐이었다. 연간 약 400,000병의 맥주를 생산한다. 양조장 안에는 Gueuze Museum도 있으며, Patricia Schultz가 이곳과 박물관을 1,000 Places to See Before You Die에 소개했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cantillon Brewery는 1900년 Paul Cantillon과 그의 아내 Marie Troch가 설립했다. Paul Cantillon의 아버지도 양조업자였다. 2011년 기준 소유주는 4대째 양조업자인 Jean-Pierre van Roy이다. 설립 이후 가장 큰 변화는 1999년 유기농 원료로의 전환이었다. 2014년 van Roy는 숙성 공간을 더 확보해 2016~17년까지 생산량을 사실상 두 배로 늘리겠다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전통 람빅 방식에 따라 맥아 보리 3분의 2와 무맥아 밀 3분의 1로 맥아즙을 만들고, 지붕 아래 개방형 통인 쿨십에서 자연 발효시킨다. 이를 오크나 밤나무 통에서 숙성하고 여러 배치를 블렌딩한 뒤 병입하여 1년간 병 속에서 숙성한다. 생산량의 절반은 gueuze이며 kriek은 1년에 한 번 만든다. 과일 맥주는 빈 통에 과일을 넣어 3개월간 우려내고 어린 람빅을 더해 발효시킨다. 제품으로는 Fou' Foune(살구), Mamouche(엘더플라워), Nath(대황), Saint Lamvinus(Merlot와 Cabernet Franc 포도), Vigneronne(Muscat 포도), Lou Pepe 시리즈 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 기준 소유주는 4대째 양조업자인 Jean-Pierre van Roy이다. 연간 생산량은 400,000병이다. 2014년 발표한 숙성 공간 확장에 따라 2016~17년까지 생산량이 두 배로 늘어날 것으로 계획되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Cantillon Brewery는 람빅만 양조하는 브뤼셀의 4대째 가족 양조장이다. 자연 발효와 전통 방식을 지키며 박물관도 함께 운영한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cantillon.be/",
+  "entityLinks": {
+   "wikidata": "Q2345368",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2345368",
+    "https://en.wikipedia.org/wiki/Cantillon_(brewery)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2345368",
+   "country": "벨기에",
+   "inception": "1900",
+   "headquarters": "안데를레흐트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Cantillon (brewery)」 본문과 위키데이터 Q2345368 팩트를 근거로 편집"
+ }
+}

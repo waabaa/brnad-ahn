@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q458609",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/dortmunder-actien-brauerei-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dortmunder-actien-brauerei",
+  "urlSlug": "dortmunder-actien-brauerei",
+  "name": "Dortmunder Actien Brauerei",
+  "nameKo": "",
+  "nameEn": "Dortmunder Actien Brauerei",
+  "definition": "Dortmunder Actien Brauerei는 독일 도르트문트에 있는 양조장이다. 1868년에 설립되었으며, 현재 Radeberger Group이 대표적인 주주로 자리하고 있다.",
+  "summary": "Dortmunder Actien Brauerei는 독일 도르트문트에 있는 양조장이다. 1868년에 설립되었으며, 현재 Radeberger Group이 대표적인 주주로 자리하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1868년에 세워져 도르트문트에 남은 마지막 양조장으로, 머리글자를 딴 라거 DAB와 인수한 Hansa 브랜드를 함께 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 도르트문트에 본사를 두고 있으며, 머리글자를 딴 DAB라는 라거 맥주를 생산한다. 1868년 상인 Laurenz Fischer, Heinrich Mauritz, Friedrich Mauritz와 양조 장인 Heinrich Herberz가 세웠다. 1872년 주식회사로 전환했고, 1879년부터 맥주를 해외로 수출했으며, 1971년에는 지역 경쟁사 Hansa Brewery를 인수했다. 그러나 Hansa 인수 비용이 오랫동안 부담이 되었고, 1990년대 경영진의 의문스러운 결정이 겹쳐 브랜드가 무너지면서 일반 브랜드 생산이 늘었다. 도르트문트에 남은 마지막 양조장이지만 하락세는 지금까지 완전히 멈추지 않았다. 현재 Radeberger Group이 대표적인 주주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1868년 상인 Laurenz Fischer, Heinrich Mauritz, Friedrich Mauritz가 양조 장인 Heinrich Herberz와 함께 설립했다. 처음 이름은 Herberz & Co Brewery(Bierbrauerei Herberz & Co.)였다. 사업이 꾸준히 나아지면서 확장해 1872년 주식회사로 전환했고, 이름을 Dortmunder Actien Brauerei로 바꿨다. 1879년 맥주 수출을 시작했으며, 1881년에는 Carl von Linde가 직접 냉각 기계를 설치해 하면발효 맥주가 크게 성장하는 계기가 되었다. 1893년에는 화학·세균학 실험실을 세웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 머리글자를 딴 이름의 라거 맥주 DAB이며, 동독 지도자였던 Erich Honecker가 가장 좋아한 맥주였다. 1971년 인수한 Hansa Brewery의 Dortmunder Hansa는 여러 맥주를 가리키며, Pilsener, Altbier, Malzbier, Kölsch, 밀맥주를 만든다. 낮은 가격 덕분에 인기가 있으며, Hansa Pils는 Radler에 자주 쓰이고 독일 펑크 하위문화에서도 인기를 얻었다. 도르트문트 북중부에 있는 옛 Hansa 양조장 시설에는 Dortmunder Brewery Museum이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "도르트문트에 남은 마지막 양조장이다. 1983년 완공한 신식 양조장은 당시 루르 지역에서 가장 큰 규모였으나, Hansa 인수 비용이 오랫동안 부담이 되었고 1990년대 경영 판단이 상황을 악화시켰다. 지역 경쟁사 Kronen Brewery의 브랜드명을 인수했지만 하락세는 완전히 멈추지 않았다. 대표적인 주주는 Radeberger Group이며, 이 그룹은 8월 Oetker가 세운 회사에 속한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1868년에 세워져 도르트문트에 남은 마지막 양조장으로, 머리글자를 딴 라거 DAB와 인수한 Hansa 브랜드를 함께 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dab.de",
+  "entityLinks": {
+   "wikidata": "Q458609",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q458609",
+    "https://en.wikipedia.org/wiki/Dortmunder_Actien_Brauerei"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q458609",
+   "country": "독일",
+   "inception": "1868",
+   "headquarters": "도르트문트",
+   "founders": [],
+   "parent": "Radeberger Brewery",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Dortmunder Actien Brauerei」 본문과 위키데이터 Q458609 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q652047",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/umbro-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "umbro",
+  "urlSlug": "umbro",
+  "name": "엄브로",
+  "nameKo": "엄브로",
+  "nameEn": "Umbro",
+  "definition": "엄브로(Umbro)는 영국의 축구 용품 제조 회사이다. 잉글랜드 그레이터맨체스터주 치들에 기반을 두고 있으며, 현재 아이코닉스브랜드 그룹의 자회사로 전 세계 90개 국가에서 판매된다.",
+  "summary": "엄브로(Umbro)는 영국의 축구 용품 제조 회사이다. 잉글랜드 그레이터맨체스터주 치들에 기반을 두고 있으며, 현재 아이코닉스브랜드 그룹의 자회사로 전 세계 90개 국가에서 판매된다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "국가대표팀과 여러 클럽을 후원해 온 영국 출신의 축구 용품 브랜드이다. 나이키의 자회사를 거쳐 현재는 아이코닉스브랜드 그룹 산하에 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "엄브로는 1920년 설립된 영국의 축구 용품 제조 브랜드이다. 잉글랜드 그레이터맨체스터주 치들에 기반을 두고 있으며, 전 세계 90개 국가에서 판매되고 있다. 후원 대상은 나미비아, 베냉, 보츠와나, 에티오피아, 짐바브웨, 과테말라, 아루바, 엘살바도르, 자메이카 등의 국가대표팀과 AFC 본머스, 루턴 타운 FC, 허더즈필드 타운 AFC 등의 클럽이다. 2007년 10월 나이키의 자회사가 되었으나, 2012년 10월 아이코닉스브랜드 그룹에 매각되었다. 현재는 아이코닉스브랜드 그룹의 자회사이다. 대한민국에서는 2015년부터 데상트코리아가 브랜드 전개권을 소유하고 있으며, 한국 프로축구 클럽을 후원한 이력도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "엄브로는 2007년 10월 나이키의 자회사가 되었으나 2012년 10월 아이코닉스브랜드 그룹에 매각되어 현재는 아이코닉스브랜드 그룹의 자회사이다. 전 세계 90개 국가에서 판매되고 있다. 대한민국에서는 2015년부터 데상트코리아가 브랜드 전개권을 소유하고 있다. 잉글랜드 그레이터맨체스터주 치들에 기반을 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국가대표팀과 여러 클럽을 후원해 온 영국 출신의 축구 용품 브랜드이다. 나이키의 자회사를 거쳐 현재는 아이코닉스브랜드 그룹 산하에 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.umbro.com/",
+  "entityLinks": {
+   "wikidata": "Q652047",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q652047",
+    "https://ko.wikipedia.org/wiki/%EC%97%84%EB%B8%8C%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/Umbro"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q652047",
+   "country": "영국",
+   "inception": "1920",
+   "headquarters": "맨체스터",
+   "founders": [],
+   "parent": "Iconix Brand Group",
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "한국어 위키백과 「엄브로」 요약과 위키데이터 Q652047 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

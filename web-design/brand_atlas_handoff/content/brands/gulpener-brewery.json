@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2754546",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/gulpener-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gulpener-brewery",
+  "urlSlug": "gulpener-brewery",
+  "name": "Gulpener Brewery",
+  "nameKo": "",
+  "nameEn": "Gulpener Brewery",
+  "definition": "Gulpener Brewery는 네덜란드 Gulpen에 본사를 둔 독립 양조장이다. 1825년 Laurens Smeets가 설립했으며 네덜란드에서 판매되는 라거 맥주를 만든다.",
+  "summary": "Gulpener Brewery는 네덜란드 Gulpen에 본사를 둔 독립 양조장이다. 1825년 Laurens Smeets가 설립했으며 네덜란드에서 판매되는 라거 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "지역 농가에서 생태 친화적으로 재배한 원료를 조달하는 네덜란드 독립 양조장이며, 유기농 인증 맥주 제품군을 갖추고 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Gulpener Brewery는 네덜란드 Gulpen-Wittem에 본사를 둔 독립 양조장이다. 1825년 Laurens Smeets가 설립했으며 네덜란드에서 판매하는 라거를 만든다. 보리와 홉 같은 원료는 지역 농가에서 조달하며, 이 농가들은 생태 친화적인 방식으로 작물을 생산한다. 회사가 만드는 맥주는 Gulpener Pilsner, Korenwolf, Dort, Oud Bruin, Gladiator, Rosé 등으로 다양하다. Gerardus Wittems Kloosterbier Dubbel과 Blond, Rowwen Hèze Bier 같은 제품도 있다. Ur-Pilsner, Ur-Weizen, Ur-Hop, Zwarte Ruiter zuur bier는 유기농 인증을 받은 맥주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1825년 Laurens Smeets가 설립했다. 양조장은 네덜란드의 Gulpen에 있으며, 위키데이터에는 본사가 Gulpen-Wittem으로 기재되어 있다. 법인명은 Gulpener Bierbrouwerij BV이다. 이후에도 독립 양조장으로서 지역 농가에서 보리와 홉을 조달하는 방식으로 맥주를 만든다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Gulpener Pilsner, Korenwolf, Dort, Oud Bruin, Lentebock, Herfstbock, Gladiator, Rosé 등 Gulpener 이름을 붙인 맥주이다. Sjoes, Château Neubourg, Limburgs Land Eko Pilsner, Mestreechs Aajt, Gulpener Wintervrund, Rowwen Hèze Bier도 생산한다. Gerardus Wittems Kloosterbier는 Dubbel과 Blond 두 종류가 있다. 유기농 인증 제품으로는 Ur-Pilsner(Pilsner), Ur-Weizen(Weizen), Ur-Hop(India pale lager), Zwarte Ruiter zuur bier가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Gulpener Bierbrouwerij BV는 현재 네덜란드 Gulpen에 기반을 둔 독립 양조장이다. 네덜란드에서 판매하는 라거를 만들고, 보리와 홉 같은 원료는 생태 친화적인 방식으로 작물을 생산하는 지역 농가에서 조달한다. 유기농 인증 맥주 제품군도 함께 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지역 농가에서 생태 친화적으로 재배한 원료를 조달하는 네덜란드 독립 양조장이며, 유기농 인증 맥주 제품군을 갖추고 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.gulpener.nl",
+  "entityLinks": {
+   "wikidata": "Q2754546",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2754546",
+    "https://en.wikipedia.org/wiki/Gulpener"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2754546",
+   "country": "네덜란드",
+   "inception": "1825",
+   "headquarters": "Gulpen-Wittem",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Gulpener」 본문과 위키데이터 Q2754546 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

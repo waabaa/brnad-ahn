@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q2373435",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/volvo-buses-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "volvo-buses",
+  "urlSlug": "volvo-buses",
+  "name": "볼보버스",
+  "nameKo": "볼보버스",
+  "nameEn": "Volvo Buses",
+  "definition": "볼보버스(Volvo Buses)는 스웨덴의 상용차 제조사이다. 주로 버스를 제작하며 차체까지 제작하고, 볼보의 버스 사업 부문이 분리되면서 1968년에 설립되었다.",
+  "summary": "볼보버스(Volvo Buses)는 스웨덴의 상용차 제조사이다. 주로 버스를 제작하며 차체까지 제작하고, 볼보의 버스 사업 부문이 분리되면서 1968년에 설립되었다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "볼보의 버스 사업 부문이 1968년에 분리되어 출범한 스웨덴 상용차 제조사로, 섀시와 차체를 함께 제작하며 여러 나라의 버스 업체를 인수해 확장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "볼보버스는 스웨덴 예테보리에 본사를 둔 버스 제조사이며 모기업은 볼보이다. 주로 버스를 제작하는 업체로, 버스뿐만 아니라 차체까지 제작한다. 생산 차종은 도시형 저상버스, 시외버스, 코치, 굴절버스, 하이브리드·전기 버스 등으로 나뉜다. 일부 모델은 브라질, 멕시코, 인도, 중화인민공화국에서 생산한다. 과거에는 여러 나라의 버스 업체를 인수해 사업을 넓혔으며, 스코틀랜드 공장은 2000년에 폐쇄했다. 현재도 B5LH, B8R, B11R, B13R 등 다양한 섀시 계열과 7900, 8900, 9700, 9900 같은 번호 모델을 생산 차종으로 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "본래 볼보에서 버스를 생산했으나 1968년에 버스 사업 부문이 분리되면서 동시에 설립되었다. 1981년부터 2004년까지 새플레 자동차 AB가 자회사로 존재했다. 1988년 레이랜드 그룹에서 레이랜드 버스를 인수했고 1993년에 전 모델을 단종했다. 1990년에는 슈타이어 버스 GmbH 지분 75%를 인수했고, 1994년에는 오벤로 자동차 A/S와 드로그 뮐러 자동차 GmbH & Co. KG를 인수했다. 1996년 마르카빔, 1998년 카루스 오리를 차례로 인수하며 사업을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산 차종은 B7R, B12M, B9TL, B13R, B8R 등 B 계열 섀시와 완제품 모델로 구성된다. 도시형 저상버스로 7700, 7900이 있고 B5LH 클래스의 하이브리드 저상버스도 있다. 시외버스로 8500, 8700, 8900이 있으며 코치로 9700, 9900이 있다. 7900A 하이브리드 굴절버스와 7800 BRT 굴절버스도 생산한다. 과거에는 B10M, B10R, B12B 등의 섀시를 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 볼보이며 본사는 예테보리에 있다. 스코틀랜드 공장은 2000년에 폐쇄되었고, 새플레 시설도 2013년에 폐업했다. 현재 생산 차종에는 하이브리드 및 전기 버스인 B5LH, B5RH/B215RH가 포함되며, B215LH는 브라질에서 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "볼보의 버스 사업 부문이 1968년에 분리되어 출범한 스웨덴 상용차 제조사로, 섀시와 차체를 함께 제작하며 여러 나라의 버스 업체를 인수해 확장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.volvobuses.com/",
+  "entityLinks": {
+   "wikidata": "Q2373435",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2373435",
+    "https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%B3%B4%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Volvo_Buses"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2373435",
+   "country": "스웨덴",
+   "inception": "1968",
+   "headquarters": "예테보리",
+   "founders": [],
+   "parent": "볼보",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「볼보버스」 요약과 위키데이터 Q2373435 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

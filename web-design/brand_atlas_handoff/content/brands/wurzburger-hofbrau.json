@@ -1,0 +1,71 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q870325",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/wurzburger-hofbrau-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "wurzburger-hofbrau",
+  "urlSlug": "wurzburger-hofbrau",
+  "name": "Würzburger Hofbräu",
+  "nameKo": "",
+  "nameEn": "Würzburger Hofbräu",
+  "definition": "Würzburger Hofbräu는 독일 뷔르츠부르크에 있는 양조장이다. 1643년 프랑켄의 영주 주교 Johann Philipp von Schönborn이 세웠으며 뷔르츠부르크의 유일한 양조장이다.",
+  "summary": "Würzburger Hofbräu는 독일 뷔르츠부르크에 있는 양조장이다. 1643년 프랑켄의 영주 주교 Johann Philipp von Schönborn이 세웠으며 뷔르츠부르크의 유일한 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1643년 영주 주교가 세운 뷔르츠부르크의 유일한 양조장으로, 로고에 설립자를 기리는 주교의 왕관을 사용한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Würzburger Hofbräu는 독일 뷔르츠부르크에 본사를 둔 양조장으로, 1643년에 설립되었다. 뷔르츠부르크에서 유일한 양조장이며 운터프랑켄 지역에 깊이 뿌리를 두고 있다. 1887년에 독일 양조장 가운데 일찍 미국으로 수출했고, 2011년 기준으로 미국, 이탈리아, 중국의 구매자에게 수출한다. 1993년 이후 설비를 현대화하고 인수를 통해 규모를 넓혔지만, 기본적으로는 운터프랑켄에 기반을 둔 지역 양조장이다. 2005년부터 Kulmbacher Brewery가 소유하고 있으며, 이 회사는 Brau Holding International의 자회사이다. 양조장 로고에는 설립자를 기리는 뜻으로 영주 주교의 왕관이 장식되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1643년 프랑켄의 영주 주교 Johann Philipp von Schönborn이 양조장을 세웠다. 당시 뷔르츠부르크에는 스웨덴 군인이 많이 머물렀고, 이들이 도시의 포도주 저장고 대부분을 비워 놓은 상태였다. 양조장은 좋은 수입원이어서 후임 주교들도 이를 지원했다. 19세기에는 국제적으로 활동하는 회사가 되었고, 1887년 독일 양조장 가운데 일찍 미국에 수출했다. 로고의 영주 주교 왕관은 설립자를 기리는 것이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1993년 이후 양조장은 기술적으로 현대화되었고, 이후 전략적 인수를 통해 확장되었다. 1999년에는 왕립 양조장 Wächstersbach를 인수했다. 2005년부터 Kulmbacher Brewery가 소유하며, 이 회사는 Brau Holding International의 자회사이다. 2011년 기준 미국, 이탈리아, 중국의 구매자에게 수출하지만 주로 운터프랑켄의 지역 양조장이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1643년 영주 주교가 세운 뷔르츠부르크의 유일한 양조장으로, 로고에 설립자를 기리는 주교의 왕관을 사용한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.wuerzburger-hofbraeu.de/",
+  "entityLinks": {
+   "wikidata": "Q870325",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q870325",
+    "https://en.wikipedia.org/wiki/W%C3%BCrzburger_Hofbr%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q870325",
+   "country": "독일",
+   "inception": "1643",
+   "headquarters": "뷔르츠부르크",
+   "founders": [
+    "Johann Philipp von Schönborn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Würzburger Hofbräu」 본문과 위키데이터 Q870325 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

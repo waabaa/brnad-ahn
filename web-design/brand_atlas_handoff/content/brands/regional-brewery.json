@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q29054164",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/regional-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "regional-brewery",
+  "urlSlug": "regional-brewery",
+  "name": "Regional Brewery",
+  "nameKo": "",
+  "nameEn": "Regional Brewery",
+  "definition": "Regional Brewery는 베네수엘라 마라카이보에 본사를 둔 맥주·맥아 음료 제조사이다. 1929년 설립되었으며 베네수엘라에서 가장 오래되고 전통 있는 양조장으로 평가된다.",
+  "summary": "Regional Brewery는 베네수엘라 마라카이보에 본사를 둔 맥주·맥아 음료 제조사이다. 1929년 설립되었으며 베네수엘라에서 가장 오래되고 전통 있는 양조장으로 평가된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "마라카이보에서 1929년 출발한 베네수엘라에서 가장 오래된 전통 양조장이자, 1937년 국제박람회 금메달을 받은 유일한 베네수엘라 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Regional Brewery(정식 명칭 Cervecería Regional C.A.)는 베네수엘라의 맥주와 맥아 기반 음료를 생산하는 양조장이다. 본사는 술리아주 마라카이보에 있다. 1929년 5월 14일 설립되었으며 베네수엘라에서 가장 오래되고 전통 있는 양조장으로 여겨진다. 1937년 국제박람회에서 금메달을 받았고, 이는 베네수엘라 양조장 중 유일한 기록이다. 모기업은 Grupo Cisneros이며, 제품은 퀴라소, 스페인, 포르투갈, 도미니카공화국, 칠레, 페루로 수출된다. 2010년 AmBev와 베네수엘라 사업 통합을 발표했고, 2012년에는 Cerveza Zulia의 생산·유통권을 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1929년 5월 14일 마라카이보에서 젊은 기업가 집단이 Compania Anonima Cerveceria Regional을 설립했다. 이들은 1927년부터 사업을 준비했으며, 초기 주주는 개인과 상사를 합쳐 41곳이었다. 정관은 주주가 술리아주에서 맥주를 파는 업소를 소유하도록 해 초기부터 유통을 확보했다. 초대 사장은 Felipe Amado, 부사장은 Amilcar Morales였고, 공장은 마라카이보 호숫가에 독일산 설비로 지었다. 독일에서 데려온 초대 양조장인은 Franz Budell로, Don Pancho라는 별칭으로 불렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Cerveza Zulia는 알코올 4.5%의 필젠 유형 맥주로 녹색 병에 담기며, 2012년 Regional이 인수했다. Regional Light는 알코올 3.5%로 라인업에서 가장 가벼운 맥주이며 투명 병을 쓴다. Regional Pilsen은 알코올 5%로 호박색 병에 담기고 더 진하고 강한 맛이다. 이 밖에 무알코올 맥아 음료 Malta Regional, 비엔나 라거 유형의 Cerveza Morena, 헬레스 유형의 Cerveza Cardenal과 더 가벼운 Cerveza Cardenal Ultra가 있다. Cardenal은 2025년 9월 AmBev Venezuela로부터 권리를 인수해 재출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Grupo Cisneros가 1992년 회사를 인수한 이후 모기업이 되었다. 2010년 AmBev와의 통합 발표에서 Regional이 새 회사 지분 85%, AmBev가 15%를 갖기로 했다. 2015년부터 2017년까지는 베네수엘라 경제 위기로 보리 공급 문제를 겪었다. 2016년에는 Andres Cisneros가 회사를 이끌었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "마라카이보에서 1929년 출발한 베네수엘라에서 가장 오래된 전통 양조장이자, 1937년 국제박람회 금메달을 받은 유일한 베네수엘라 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cerveceriaregional.com/",
+  "entityLinks": {
+   "wikidata": "Q29054164",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29054164",
+    "https://en.wikipedia.org/wiki/Regional_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q29054164",
+   "country": "베네수엘라",
+   "inception": "1929",
+   "headquarters": "마라카이보",
+   "founders": [],
+   "parent": "Grupo Cisneros",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Regional Brewery」 본문과 위키데이터 Q29054164 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

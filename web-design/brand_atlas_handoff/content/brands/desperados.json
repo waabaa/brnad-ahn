@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2646636",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "desperados",
+  "urlSlug": "desperados",
+  "name": "데스페라도스",
+  "nameKo": "데스페라도스",
+  "nameEn": "Desperados",
+  "definition": "데스페라도스(Desperados)는 1995년에 처음 만들어진, 용설란 증류주로 향을 낸 페일 라거 맥주이다. 알코올 도수는 5.9%이며 프랑스의 피셔 양조장에서 시작되었다.",
+  "summary": "데스페라도스(Desperados)는 1995년에 처음 만들어진, 용설란 증류주로 향을 낸 페일 라거 맥주이다. 알코올 도수는 5.9%이며 프랑스의 피셔 양조장에서 시작되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "용설란 증류주로 향을 낸 알코올 도수 5.9%의 페일 라거로, 프랑스 피셔 양조장에서 시작해 지금은 하이네켄 계열 양조장이 생산하는 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 용설란 증류주로 향을 낸 페일 라거 계열의 맥주로, 알코올 도수는 5.9%이다. 1995년에 처음 만들어졌고 처음에는 프랑스의 피셔 양조장(Fischer Brewery)이 생산했다. 피셔 양조장은 지금은 존재하지 않는 프랑스의 옛 맥주 양조 회사이다. 현재는 하이네켄 N.V.의 자회사인 슬로바키아의 Zlatý Bažant 양조장이 Hurbanovo에 있는 시설에서 생산을 맡고 있다. 이 맥주는 현재 쉰 개가 넘는 국가에서 판매되는 상품이다. 원래 테킬라를 쓰던 레시피에서 벗어나 값을 낮추는 방향으로 재구성되었고, 그 과정에서 알코올 도수가 5.6%에서 5.9%로 올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 맥주는 1995년에 용설란 증류주로 향을 낸 페일 라거로 처음 만들어졌다. 원래는 프랑스의 피셔 양조장(Fischer Brewery)이 생산했으며, 위키데이터 기준 국가는 프랑스이다. 처음 레시피에는 테킬라가 사용되었으며, 이 점이 이후 바뀐 레시피와 구별되는 부분이다. 이후 생산은 슬로바키아의 Zlatý Bažant 양조장으로 넘어갔고, 이 양조장은 Hurbanovo에 있는 하이네켄 N.V.의 자회사이다. 그 과정에서 레시피는 원래 방식에서 벗어나 값이 낮아지는 방향으로 바뀌었고 알코올 도수는 5.6%에서 5.9%로 올랐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "근거에서 확인되는 제품은 용설란 증류주로 향을 낸 페일 라거 맥주 한 종류이며, 알코올 도수는 5.9%이다. 공개된 원료 목록에는 물, 보리 맥아, 포도당 시럽, 옥수수, 설탕, 향 성분(용설란 증류주), 구연산, 홉 추출물이 포함된다. 이전 레시피는 테킬라를 사용했고 알코올 도수가 5.6%였으나, 새 레시피에서는 원료가 바뀌며 도수가 5.9%로 올랐다. 판매 범위는 쉰 개가 넘는 국가에 이른다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 맥주의 생산은 슬로바키아 Hurbanovo에 있는 Zlatý Bažant 양조장이 맡고 있다. 이 양조장은 하이네켄 N.V.의 자회사이다. 처음 생산을 맡았던 피셔 양조장은 지금은 존재하지 않는 프랑스 맥주 회사이다. 이 맥주는 쉰 개가 넘는 국가에서 판매되며, 레시피는 원래 방식에서 바뀌었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "용설란 증류주로 향을 낸 알코올 도수 5.9%의 페일 라거로, 프랑스 피셔 양조장에서 시작해 지금은 하이네켄 계열 양조장이 생산하는 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.desperadosbeer.com/",
+  "entityLinks": {
+   "wikidata": "Q2646636",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2646636",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%8A%A4%ED%8E%98%EB%9D%BC%EB%8F%84%EC%8A%A4_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Desperados_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2646636",
+   "country": "프랑스",
+   "inception": "1995",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Desperados (beer)」 본문과 위키데이터 Q2646636 팩트를 근거로 편집"
+ }
+}

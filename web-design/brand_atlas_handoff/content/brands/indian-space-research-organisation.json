@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q229058",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 116,
+  "enViews": 79539,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/indian-space-research-organisation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "indian-space-research-organisation",
+  "urlSlug": "indian-space-research-organisation",
+  "name": "인도우주연구기구",
+  "nameKo": "인도우주연구기구",
+  "nameEn": "Indian Space Research Organisation",
+  "definition": "인도우주연구기구(Indian Space Research Organisation)는 인도의 우주개발을 담당하는 기구이다. 우주와 관련된 기술과 그 응용을 목적으로 하며 인도 우주부 산하기관이다.",
+  "summary": "인도우주연구기구(Indian Space Research Organisation)는 인도의 우주개발을 담당하는 기구이다. 우주와 관련된 기술과 그 응용을 목적으로 하며 인도 우주부 산하기관이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.733333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "인도의 우주개발을 담당하는 정부 기구로, 인도 우주부 산하에서 우주 기술과 그 응용을 다룬다. 벵갈루루에 본부를 둔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인도우주연구기구는 인도의 우주개발을 담당하는 기구이며, 영어 약칭은 ISRO이다. 우주와 관련된 기술과 그 응용을 목적으로 하며, 인도 우주부의 산하기관이다. 본부는 벵갈루루에 있고, 미화 약 13억 달러를 예산으로 약 2만 명의 직원이 소속되어 있다. 인도는 1972년 세계 최초로 정부 부서인 인도 우주부(Department of Space)를 만들었다. 인도 남부 안드라프라데시주의 스리하리코타에는 비크람 사라바이 우주센터가 있으며, 사라바이의 이름은 비카스 로켓 엔진에도 쓰인다. 2010년에는 한국의 카리(KARI)와 우주 원격탐사, 우주통신, 우주과학, 인력양성 분야의 협력을 강화하는 양해각서를 체결했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "인도의 첫 총리 자와할랄 네루와 그의 측근인 과학자 비크람 사라바이는 1962년 인도우주연구위원회(INCOSPAR)를 설립했다. 이 조직은 1969년 ISRO로 이름이 변경되었다. 인도는 1972년 세계 최초로 정부 부서인 인도 우주부를 만들었고, ISRO는 그 산하기관이다. 비크람 사라바이는 인도 우주 연구 역사에서 매우 유명하며, 우주센터와 비카스(로켓 엔진)의 이름으로 사용되고 있다. 2010년 1월 28일 ISRO는 2016년 유인우주선을 발사할 계획이라고 밝혔고, 벵갈루루에 우주인 훈련 센터를 건설하며 4년간 유인우주선을 개발할 계획이라고 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "ISRO는 벵갈루루에 본부를 두고 있으며, 미화 약 13억 달러를 예산으로 약 2만 명의 직원이 소속되어 있다. 인도 우주부의 산하기관으로서 우주와 관련된 기술과 그 응용을 목적으로 한다. 2010년 1월 25일에는 한국의 카리(KARI)와 우주의 평화적 이용을 위한 협력 양해각서를 체결했다. 같은 해 6월 18일에는 한국이 향후 위성 발사 때 인도산 위성발사체를 사용하기로 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인도의 우주개발을 담당하는 정부 기구로, 인도 우주부 산하에서 우주 기술과 그 응용을 다룬다. 벵갈루루에 본부를 둔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.isro.gov.in/",
+  "entityLinks": {
+   "wikidata": "Q229058",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q229058",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%8F%84%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EA%B8%B0%EA%B5%AC",
+    "https://en.wikipedia.org/wiki/ISRO"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q229058",
+   "country": "인도",
+   "inception": "1969",
+   "headquarters": "벵갈루루",
+   "founders": [
+    "비크람 사라바이"
+   ],
+   "parent": "인도 우주부",
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「인도우주연구기구」 요약과 위키데이터 Q229058 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

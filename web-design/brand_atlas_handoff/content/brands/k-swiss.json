@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1422386",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/k-swiss-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "k-swiss",
+  "urlSlug": "k-swiss",
+  "name": "케이스위스",
+  "nameKo": "케이스위스",
+  "nameEn": "K-Swiss",
+  "definition": "케이스위스(K-Swiss)는 1966년 미국에서 창업한 운동화 브랜드이다. 스위스 출신 형제가 테니스화를 수입하며 시작했고, 현재 본사는 캘리포니아주 글렌데일에 있다.",
+  "summary": "케이스위스(K-Swiss)는 1966년 미국에서 창업한 운동화 브랜드이다. 스위스 출신 형제가 테니스화를 수입하며 시작했고, 현재 본사는 캘리포니아주 글렌데일에 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "미국 테니스 브랜드라는 뿌리를 디자인과 마케팅의 중심에 두며, 스위스 출신 형제가 흰색 테니스화로 시작한 운동화 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "케이스위스는 미국의 운동화 브랜드로, 1966년 로스앤젤레스에서 스위스 출신 형제 Art Brunner와 Ernie Brunner가 설립했다. 스위스 제조사 Kuenzli의 가죽 테니스화를 수입하며 사업을 시작했고, 초기 20년 동안은 흰색 테니스화만 만들었다. 1987년 투자자 그룹이 차입매수 방식으로 회사를 인수했으며, 2013년에는 한국 기업 E-Land World Limited에 매각되었다. 2019년에는 모회사 E-Land Footwear USA Holdings Inc.가 중국 스포츠용품 제조사 Xtep International Holdings Limited에 인수되었다. 2024년에는 KP Global 아래에서 비상장 회사가 되었고 본사를 캘리포니아주 글렌데일로 옮겼다. 브랜드는 미국 테니스 브랜드라는 뿌리를 마케팅의 중심에 둔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "케이스위스는 1966년 로스앤젤레스에서 스위스 출신 형제 Art Brunner와 Ernie Brunner가 설립했다. 두 사람은 미국으로 이주한 뒤 테니스에 관심을 갖게 되었고, 스위스 제조사 Kuenzli의 가죽 테니스화를 수입했다. 브랜드명은 Kuenzli의 'K'와 'Swiss'를 합친 것이다. 이후 20년 동안 회사는 흰색 테니스화만 만들었다. 1987년에는 투자자 그룹이 차입매수 방식으로 회사를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "케이스위스의 중심 제품은 흰색 가죽 테니스화로 출발한 운동화이며, 2014년 9월 공개한 새 마크는 1966년 서체와 테니스 코트 색상 팔레트를 사용했다. 2001년에는 호주 브랜드 Royal Elastics의 지분 과반을 인수했으나 2009년 경영진 주도의 투자 그룹에 매각했다. 2015년 6월 1일에는 Supra Footwear를 인수했다. 2019년에는 TV 시리즈 Breaking Bad와 협업한 신발을 선보였다. 2016년 사장 Barney Waters가 '기업가를 위한 스니커즈 제작'을 사명으로 내세운 뒤, 2017년 Gary Vaynerchuk를 시작으로 Karen Civil, Ben Baller, Natalie Ellis 등 기업가와 캠페인을 진행했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 케이스위스는 KP Global 아래에서 매각되어 비상장 회사가 되었고, 본사를 캘리포니아주 글렌데일로 옮겼다. 2021년에는 Venus Williams가 브랜드 앰배서더로 선정되었다. 2026년에는 ATP와 2027년부터 시작하는 3년간의 신발 파트너십을 발표했다. 이 계약에 따라 현재 신발 후원사가 없는 상위 250명 선수에게 신발을 제공하는 ATP Baseline 프로그램을 도입한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 테니스 브랜드라는 뿌리를 디자인과 마케팅의 중심에 두며, 스위스 출신 형제가 흰색 테니스화로 시작한 운동화 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.kswiss.com/",
+  "entityLinks": {
+   "wikidata": "Q1422386",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1422386",
+    "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%9C%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/K-Swiss"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1422386",
+   "country": "미국",
+   "inception": "1966",
+   "headquarters": "웨스트레이크빌리지",
+   "founders": [],
+   "parent": "이랜드그룹",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「K-Swiss」 본문과 위키데이터 Q1422386 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

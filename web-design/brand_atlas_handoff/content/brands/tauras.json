@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2646603",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tauras",
+  "urlSlug": "tauras",
+  "name": "Tauras",
+  "nameKo": "",
+  "nameEn": "Tauras",
+  "definition": "Tauras는 1860년 리투아니아 빌뉴스에서 설립된 양조장이다. 이전 이름은 Vilniaus Tauras이며 현재는 Kalnapilio-Tauro grupė에 속한다.",
+  "summary": "Tauras는 1860년 리투아니아 빌뉴스에서 설립된 양조장이다. 이전 이름은 Vilniaus Tauras이며 현재는 Kalnapilio-Tauro grupė에 속한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "러시아 제국 시기 Vilna에서 출발해 리투아니아의 Kalnapilis와 합쳐진 빌뉴스의 옛 양조장으로, 20세기 초 지역 시장을 거의 독점한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tauras는 리투아니아 빌뉴스에서 1860년 설립된 양조장으로, 이전에는 Vilniaus Tauras로 불렸다. 설립 당시 빌뉴스는 러시아 제국에 속한 Vilna였고, 양조장은 도시 경계 바로 바깥의 Lukiškės에 있었다. 20세기 초 설비를 현대화해 지역 맥주 시장을 거의 독점했고, 제1차 세계대전 이전에는 지역에서 팔리는 맥주의 약 절반에 이 양조장의 로고가 붙었다. 1940년 소련에 점령되며 국유화되었고, 1945년 현재의 이름인 Tauras Brewery로 바뀌었다. 2001년 덴마크 Royal Unibrew 소유의 AB Kalnapilio – Tauro grupė로 Kalnapilis와 합쳐졌다. 2006년에는 빌뉴스 생산을 중단하고 Panevėžys의 Kalnapilis Brewery로 옮기기로 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1860년 러시아 제국 치하의 Vilna에서 설립되었다. 창업자는 지역의 유대인 사업가 Abel Sołowiejczyk와 Iser Berg Wolf였다. 1866년경 양조장은 창업자들의 동료 Wilhelm Szopen의 이름을 쓰게 되었고, Szopen은 이후 소유주가 되었으나 창업자들이 일상 경영을 계속 맡았다. 1890년대 초 이미 노동자가 50명 넘었고 생산량은 최대 300,000 버킷에 이르렀다. 1897년 부유한 사업가 Morduch Owsiej Epstein이 양조장을 인수해 Popławy에 있던 자신의 다른 양조장과 합치고 주식회사 Towarzystwo Akcyjne Browaru Szopen으로 바꾸었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Tauras는 덴마크 기업 Royal Unibrew 소유의 Kalnapilio-Tauro grupė에 속한다. 2001년 Kalnapilis와 합쳐졌고, 2006년 빌뉴스 생산이 중단되어 Panevėžys의 Kalnapilis Brewery로 옮겨졌다. 영문 위키백과는 Tauras를 과거에 존재한 양조장으로 서술한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아 제국 시기 Vilna에서 출발해 리투아니아의 Kalnapilis와 합쳐진 빌뉴스의 옛 양조장으로, 20세기 초 지역 시장을 거의 독점한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tauroalus.lt",
+  "entityLinks": {
+   "wikidata": "Q2646603",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2646603",
+    "https://en.wikipedia.org/wiki/Tauras"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2646603",
+   "country": "리투아니아",
+   "inception": "1860",
+   "headquarters": "빌뉴스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Tauras」 본문과 위키데이터 Q2646603 팩트를 근거로 편집"
+ }
+}

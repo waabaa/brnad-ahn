@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q27377",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/borgward-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "borgward",
+  "urlSlug": "borgward",
+  "name": "보그바르트",
+  "nameKo": "보그바르트",
+  "nameEn": "Borgward",
+  "definition": "보그바르트(Borgward)는 독일 브레멘에 본사를 두고 Carl F. W. Borgward가 설립한 자동차 제조 회사이다. Borgward, Hansa, Goliath, Lloyd 네 개 브랜드의 자동차를 생산했다.",
+  "summary": "보그바르트(Borgward)는 독일 브레멘에 본사를 두고 Carl F. W. Borgward가 설립한 자동차 제조 회사이다. Borgward, Hansa, Goliath, Lloyd 네 개 브랜드의 자동차를 생산했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.233333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "한 그룹 안에 네 개 브랜드를 두고 Isabella로 1950년대 독일 프리미엄 시장에서 인기를 얻었으나, 현금 흐름 문제로 1961년 무너진 뒤 21세기에 부활한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "보그바르트는 독일 브레멘에 기반을 둔 자동차 제조 회사로, 창업자는 Carl F. W. Borgward(1890–1963)이다. 이 회사는 Borgward, Hansa, Goliath, Lloyd 네 개 브랜드의 자동차를 생산해 다양한 국제 고객층에 판매했다. 1950년대에 Borgward의 Isabella는 독일의 대표적인 프리미엄 인기 모델 가운데 하나였고, Lloyd의 Alexander와 Lloyd 600은 노동자 계층 운전자에게 저렴한 이동 수단을 제공했다. Carl Borgward는 현금 흐름 관리에 무모했고, 그룹은 1961년 논란이 된 파산 절차 끝에 영업을 중단했다. 브랜드는 21세기에 부활해 슈투트가르트에 본사를 둔 Borgward Group AG가 중국에서 제조한 자동차를 설계하고 판매했으나, 2022년 파산을 신청했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사의 뿌리는 1905년으로 거슬러 올라간다. 이 해에 브레멘 근처 Varel에서 Hansa Automobilgesellschaft가, 브레멘에서 Lloyd 자동차를 만든 NAMAG가 각각 설립되었고, 두 회사는 1914년 합병해 Hansa-Lloyd-Werke A.G.가 되었다. Carl Borgward가 처음 설계한 차량은 1924년의 삼륜 소형 밴 Blitzkarren이며, Reichspost가 우편 업무용으로 다수 주문했다. 1920년대 말 Hansa-Lloyd가 파산 위기에 놓이자 Borgward는 1929년 자신의 Goliath-Werke Borgward & Co.를 Hansa-Lloyd와 합병해 Hansa-Lloyd AG의 이사가 되었다. 1946년에는 기존 브랜드명을 활용해 Borgward, Goliath, Lloyd 세 개의 별도 회사를 세웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Borgward는 Hansa Konsul 개발을 이끌었고, 1937년 2월 Hansa Borgward 2000이 나왔으며 1939년 이름이 Borgward 2000으로 줄었다. 이후 Borgward 2300이 1942년까지 생산되었고, 1949년에는 Borgward Hansa 1500을 선보였다. 1954년 생산을 시작한 Isabella는 가장 인기 있는 모델이 되어 회사가 존속하는 동안 계속 생산되었으며, 1959년에는 공기식 서스펜션을 갖춘 P100이 도입되었다. 1950년대의 Borgward 1500 RS 경주차는 16밸브 DOHC 연료분사 엔진을 얹었고, 이 엔진은 Cooper 차대에 쓰여 Stirling Moss가 Formula Two에서 우승하는 데 기여했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "원조 보그바르트 그룹은 1961년 논란이 된 파산 절차를 거쳐 영업을 중단했고, 공장은 경쟁사들이 인수했다. 창업자 Carl Borgward는 그 직후 세상을 떠났다. 브랜드는 21세기에 부활해 슈투트가르트에 본사를 둔 Borgward Group AG가 중국에서 제조한 자동차를 설계하고 판매했다. 그러나 이 그룹은 2022년 파산을 신청했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "한 그룹 안에 네 개 브랜드를 두고 Isabella로 1950년대 독일 프리미엄 시장에서 인기를 얻었으나, 현금 흐름 문제로 1961년 무너진 뒤 21세기에 부활한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.borgward.com/",
+  "entityLinks": {
+   "wikidata": "Q27377",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27377",
+    "https://ko.wikipedia.org/wiki/%EB%B3%B4%EB%A5%B4%ED%81%AC%EB%B0%94%EB%A5%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Borgward"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27377",
+   "country": "독일",
+   "inception": "1933",
+   "headquarters": "브레멘",
+   "founders": [
+    "Carl F. W. Borgward"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Borgward」 본문과 위키데이터 Q27377 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

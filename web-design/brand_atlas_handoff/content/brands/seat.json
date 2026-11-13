@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q188217",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/seat-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "seat",
+  "urlSlug": "seat",
+  "name": "세아트",
+  "nameKo": "세아트",
+  "nameEn": "SEAT",
+  "definition": "세아트(SEAT)는 스페인의 자동차 제조사이다. SEAT와 Cupra 브랜드로 차량을 판매하며, 본사는 바르셀로나 인근 Martorell에 있고 Volkswagen Group이 전액 소유한 자회사이다.",
+  "summary": "세아트(SEAT)는 스페인의 자동차 제조사이다. SEAT와 Cupra 브랜드로 차량을 판매하며, 본사는 바르셀로나 인근 Martorell에 있고 Volkswagen Group이 전액 소유한 자회사이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.466666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인 정부 주도로 설립되어 Fiat와의 제휴로 출발한 스페인 자동차 제조사로, 지금은 SEAT와 Cupra 두 브랜드를 Volkswagen Group 아래에서 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "세아트는 스페인어 Sociedad Española de Automóviles de Turismo의 약자로, '스페인 승용차 회사'를 뜻한다. SEAT와 Cupra 두 브랜드로 차량을 판매하는 스페인 자동차 제조사이다. 1950년 5월 9일 설립되었으며, 스페인 정부 소유의 Instituto Nacional de Industria가 다수 지분을 가졌고 스페인 민간 은행과 Fiat도 참여한 합작 사업으로 출발했다. 1986년 스페인 정부가 Volkswagen Group에 매각한 뒤 지금까지 그룹의 완전 자회사로 남아 있다. 본사는 바르셀로나 인근 Martorell의 공장 단지에 있다. 2020년에는 468,000대 넘게 생산했고, 427,000대 넘는 차량을 75개국 이상으로 수출했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기원은 1940년 6월 22일 Banco Urquijo가 여러 산업 기업의 지원을 받아 Sociedad Ibérica de Automóviles de Turismo(S.I.A.T.)를 세운 데로 거슬러 올라간다. 이후 1942년 1월 3일 Franco 정부의 결정에 따라 국영 지주회사 Instituto Nacional de Industria가 참여했으며, 외국 설계와 부품을 조립하는 데 그치지 않고 설계부터 조립까지 스페인 안에서 하는 것이 목표였다. 기술 경험이 부족해 외국 파트너를 찾았고, 1948년 10월 26일 스페인 정부와 여섯 은행이 Fiat와 제휴 계약을 맺었다. 1950년 5월 9일 Instituto Nacional de Industria가 600 million 페세타의 자본금, 600,000주로 현재 이름의 회사를 설립했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1986년 스페인 정부가 세아트를 Volkswagen Group에 매각했으며, 그 전까지 36년간 독립 자동차 제조사로 분류되었다. 현재도 Volkswagen Group의 완전 자회사이다. 본사는 Martorell에 있으며, 2020년 468,000대 넘게 생산하고 427,000대 넘는 차량을 75개국 이상에 수출했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인 정부 주도로 설립되어 Fiat와의 제휴로 출발한 스페인 자동차 제조사로, 지금은 SEAT와 Cupra 두 브랜드를 Volkswagen Group 아래에서 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.seat.com/",
+  "entityLinks": {
+   "wikidata": "Q188217",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q188217",
+    "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%95%84%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/SEAT"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q188217",
+   "country": "스페인",
+   "inception": "1950",
+   "headquarters": null,
+   "founders": [
+    "Instituto Nacional de Industria"
+   ],
+   "parent": "폭스바겐 AG",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「SEAT」 본문과 위키데이터 Q188217 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

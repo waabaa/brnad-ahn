@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q1185675",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T19:22:32+09:00"
+ },
+ "logoCandidate": "logos/ihop-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ihop",
+  "urlSlug": "ihop",
+  "name": "아이홉",
+  "nameKo": "아이홉",
+  "nameEn": "IHOP",
+  "definition": "아이홉(IHOP)은 미국의 다국적 팬케이크 하우스 레스토랑 체인으로, 미국식 아침 식사 메뉴를 전문으로 한다. Dine Brands가 소유하며 점심과 저녁 메뉴도 함께 제공한다.",
+  "summary": "아이홉(IHOP)은 미국의 다국적 팬케이크 하우스 레스토랑 체인으로, 미국식 아침 식사 메뉴를 전문으로 한다. Dine Brands가 소유하며 점심과 저녁 메뉴도 함께 제공한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Dine Brands 산하에서 아침 식사 메뉴, 특히 팬케이크를 앞세우며 24시간 영업 매장이 많은 다국적 팬케이크 하우스 체인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아이홉은 팬케이크, 와플, 프렌치토스트, 오믈렛 등 아침 식사 메뉴에 집중하는 레스토랑 체인이다. 샌드위치, 버거, 샐러드 같은 점심과 저녁 메뉴도 함께 판매한다. 정식 회사명은 International House of Pancakes, LLC이며, Dine Brands가 소유한다. 매장의 99%는 독립 프랜차이즈 사업자가 운영한다. 1,841개 매장이 미국, 캐나다, 멕시코, 파나마, 페루, 에콰도르, 과테말라 등 아메리카와 중동, 남아시아, 동남아시아에 있다. 많은 매장이 하루 24시간, 주 7일 영업하며, 최소 영업시간은 오전 7시부터 오후 10시까지이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1958년 형제인 Jerry Lapin과 Al Lapin, 상업 미술가 Albert Kallis가 캘리포니아 로스앤젤레스 지역에서 International House of Pancakes를 공동 창업했으며, Sherwood Rosenberg와 William Kaye가 도왔다. 첫 매장은 1958년 7월 7일 캘리포니아 버뱅크에서 문을 열었다. 1973년 마케팅을 위해 이름을 IHOP으로 줄였고, 이후 정식 명칭과 약칭은 공식적으로 혼용된다. 1976년 IHOP Corporation이 IHOP, Love's Wood Pit Barbecue 등을 아우르는 지주회사로 설립되었고, 1979년 Wienerwald Holding에 인수되었다. 1983년 Wienerwald가 IHOP Corp을 SVIDO에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 팬케이크, 와플, 프렌치토스트, 오믈렛 같은 아침 식사 메뉴이다. 샌드위치, 버거, 샐러드 등 점심과 저녁 메뉴도 갖추고 있다. 일부 매장에는 에스프레소 음료를 주문할 수 있는 커피 바가 있다. 초기 매장 건물은 가파른 지붕과 독특한 파란 지붕을 가진 A자형 건물이었으며, 마지막 A자형 건물은 1979년에 완공되었다. 2019년 12월에는 Flip'd라는 패스트 캐주얼 아침 식사 레스토랑 체인을 시작할 계획을 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Dine Brands가 소유하며, 매장의 99%는 독립 프랜차이즈 사업자가 운영한다. 전체 1,841개 매장 가운데 161개는 지역 라이선스 보유자 소유이고 1,680개는 프랜차이즈 매장이다. 2007년 11월 29일 Applebee's 인수를 마무리했고, 모회사는 2008년 6월 2일 DineEquity로 사명을 바꿨다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Dine Brands 산하에서 아침 식사 메뉴, 특히 팬케이크를 앞세우며 24시간 영업 매장이 많은 다국적 팬케이크 하우스 체인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ihop.com",
+  "entityLinks": {
+   "wikidata": "Q1185675",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1185675",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%ED%99%89",
+    "https://en.wikipedia.org/wiki/IHOP"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1185675",
+   "country": "미국",
+   "inception": "1958",
+   "headquarters": "글렌데일",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "영문 위키백과 「IHOP」 본문과 위키데이터 Q1185675 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

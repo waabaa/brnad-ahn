@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q9396",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/deutsche-telekom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "deutsche-telekom",
+  "urlSlug": "deutsche-telekom",
+  "name": "도이체 텔레콤",
+  "nameKo": "도이체 텔레콤",
+  "nameEn": "Deutsche Telekom",
+  "definition": "도이체 텔레콤(Deutsche Telekom)은 독일 본에 본사를 둔 부분 국영 통신 기업이다. 이동통신 브랜드 T-Mobile을 비롯해 여러 해외 자회사를 운영한다.",
+  "summary": "도이체 텔레콤(Deutsche Telekom)은 독일 본에 본사를 둔 부분 국영 통신 기업이다. 이동통신 브랜드 T-Mobile을 비롯해 여러 해외 자회사를 운영한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "독일 연방 우편 조직에서 분리·민영화되어 T-Mobile 등 해외 자회사를 거느린, 정부 지분이 남은 통신 기업이다. 매출 기준 유럽 최대이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "도이체 텔레콤은 독일 본에 본사를 둔 통신 기업으로, 독일 정부가 직접 또는 국책은행 KfW를 통해 지분을 보유한 부분 국영 기업이다. 전 세계에 여러 자회사를 운영하며 이동통신 브랜드 T-Mobile이 그중 하나이다. DAX와 EURO STOXX 50 지수의 구성 종목이며, 2023년 기준 Fortune Global 500 순위 79위, Forbes Global 2000 순위 41위에 올랐다. 매출 기준으로 세계 3위의 통신 기업이자 유럽에서 가장 큰 통신 기업이다. 독일에서는 민영화 이후에도 인터넷 접속 서비스 분야의 지배적 사업자였다. 2024년 6월 4일 독일 정부는 보유 지분 합계를 27.8%로 낮췄다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "도이체 텔레콤의 뿌리는 1947년 Reichspost의 후속으로 만들어진 독일 연방 우편 행정기관 Deutsche Bundespost이다. 이 기관은 서독의 주요 전화 사업자이기도 했다. 1989년 7월 1일 우편 개혁의 일환으로 Deutsche Bundespost가 세 개 조직으로 나뉘었고 그중 하나가 도이체 텔레콤이 되었다. 1995년 1월 1일 또 다른 개혁으로 Deutsche Bundespost Telekom이 Deutsche Telekom AG가 되었고 1996년에 민영화되었다. 이로써 Deutsche Post(DHL), Deutsche Postbank와 같은 뿌리를 공유한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "도이체 텔레콤은 회선 기반 통신과 이동통신, 인터넷 접속 서비스를 제공하며 이동통신 브랜드로 T-Mobile을 운영한다. 2010년 4월 T-Mobile과 T-Home이 합쳐져 Telekom Deutschland GmbH가 만들어졌으며, 이 조직이 개인 고객 대상의 모든 제품과 서비스를 담당한다. 2015년 9월에는 Android 5 기반 태블릿인 Puls tablet을 출시했다. 2016년 2월 바르셀로나 Mobile World Congress에서 Intel, Nokia, Facebook, Equinix, SK Telecom 등과 함께 Telecom Infra Project(TIP)를 공동 출범시켰으며, 이 프로젝트는 통신 산업의 혁신을 가속하기 위해 Open Compute Project 모델을 토대로 한다. 2012년 10월에는 Orange와 조달 업무를 통합하는 50 대 50 합작회사 BuyIn을 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 4월 기준 독일 정부는 지분 14.5%를 직접 보유했고 국책은행 KfW를 통해 17.4%를 추가로 보유했다. 2024년 6월 4일 독일 정부는 보유 지분 합계를 27.8%로 줄였다. 2016년 1월 29일에는 영국 경쟁시장청의 승인을 거쳐 BT Group의 EE 인수가 완료되었다. 2019년에는 Huawei 배제 논쟁의 결론을 기다리며 5G 장비 구매 계약을 일시 보류했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 연방 우편 조직에서 분리·민영화되어 T-Mobile 등 해외 자회사를 거느린, 정부 지분이 남은 통신 기업이다. 매출 기준 유럽 최대이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://telekom.com/",
+  "entityLinks": {
+   "wikidata": "Q9396",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9396",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%9D%B4%EC%B2%B4_%ED%85%94%EB%A0%88%EC%BD%A4",
+    "https://en.wikipedia.org/wiki/Deutsche_Telekom"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q9396",
+   "country": "독일",
+   "inception": "1995",
+   "headquarters": "본",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Deutsche Telekom」 본문과 위키데이터 Q9396 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

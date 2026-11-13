@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q733482",
+ "demand": {
+  "why": "국외",
+  "naver": 0.003,
+  "koViews": 211,
+  "enViews": 45753,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/gopro-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gopro",
+  "urlSlug": "gopro",
+  "name": "GoPro",
+  "nameKo": "GoPro",
+  "nameEn": "GoPro",
+  "definition": "GoPro는 2002년 Nick Woodman이 설립한 미국의 테크놀로지 기업이다. 어드벤처 스포츠, 여행 기록, 야외 활동에 널리 쓰이는 바디 카메라를 제조하며 자체 모바일 앱과 영상 편집 소프트웨어를 개발한다.",
+  "summary": "GoPro는 2002년 Nick Woodman이 설립한 미국의 테크놀로지 기업이다. 어드벤처 스포츠, 여행 기록, 야외 활동에 널리 쓰이는 바디 카메라를 제조하며 자체 모바일 앱과 영상 편집 소프트웨어를 개발한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "액션 촬영용 바디 카메라 HERO 라인업을 중심으로 하며, 고객이 촬영한 영상을 마케팅의 핵심으로 삼는 점이 특징인 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "GoPro는 미국 캘리포니아주 샌머테이오에 본사를 두고 바디 카메라를 제조하며, 자체적인 모바일 앱과 영상 편집 소프트웨어를 개발하는 기업이다. 카메라는 어드벤처 스포츠, 여행 기록, 야외 활동에 널리 사용되는 제품이다. 카메라 라인업에는 '히어로(Hero)'라는 브랜드가 붙어 있다. 회사는 선수들과 자주 협업하며 2016년 기준 160명의 선수를 후원했다. 마케팅은 사용자 제작 콘텐츠에 크게 의존하여, 고객이 촬영한 영상을 소셜 미디어에 공유하도록 장려한다. 2014년 기업공개를 했으나 2024년 6월 26일 기준 주가는 1.33달러였고, 2026년 6월에는 재정적 어려움을 겪고 있다는 보도가 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "GoPro는 Woodman Labs, Inc로 2002년 Nick Woodman이 설립했다. Nick Woodman은 2002년 호주 서핑 여행 중 고품질의 액션 사진을 찍고 싶었으나, 아마추어 사진가가 충분히 가까이 접근할 수 없고 적절한 품질의 장비를 합리적인 가격에 구입할 수 없다는 점에 동기를 얻었다. 이름은 그와 서핑 친구들이 모두 프로 서퍼를 열망해 'going pro'가 궁극적인 목표였던 데서 생겼다. 그는 부모로부터 사업 투자금으로 23만 달러 이상을 받았고, VW 밴에서 비즈 및 조개 벨트를 팔아 초기 자본 일부를 마련했다. 2004년 9월 샌디에이고의 액션 스포츠 소매업체 무역 박람회에서 35mm HERO 방수 필름 카메라를 선보였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 HERO 카메라 라인업이다. 2006년 10초 동영상 촬영 기능이 있는 최초의 디지털 HERO를 출시했고, 2014년 HERO3+와 HERO4, 2017년 9월 HERO6 Black을 내놓았다. HERO3+는 4K UHD 동영상과 1,200만 화소의 스틸 사진을 지원했다. 2016년 10월에는 쿼드콥터 드론 Karma를 출시했으나 2년 만에 단종되었다. 소프트웨어 분야에서는 2015년 Kolor, 2016년 Stupeflix와 Vemory, 2020년 ReelSteady를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 6월 26일 기준 주가는 1.33달러였다. 2026년 4월에는 아르테미스 2호 임무에서 NASA의 달 주위 임무 장비로 채택되었다. 2026년 6월에는 AI 데이터 위기로 인한 메모리 비용 상승과 매출 감소로 재정적 어려움을 겪고 있다는 보도가 있었고, Reuters는 회사가 매각이나 합병을 포함한 다양한 옵션을 검토할 의사가 있다고 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "액션 촬영용 바디 카메라 HERO 라인업을 중심으로 하며, 고객이 촬영한 영상을 마케팅의 핵심으로 삼는 점이 특징인 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.gopro.com/",
+  "entityLinks": {
+   "wikidata": "Q733482",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q733482",
+    "https://ko.wikipedia.org/wiki/GoPro",
+    "https://en.wikipedia.org/wiki/GoPro"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q733482",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "샌머테이오",
+   "founders": [
+    "Nick Woodman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「GoPro」 요약과 위키데이터 Q733482 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

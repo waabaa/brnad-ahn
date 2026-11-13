@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q3065045",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "snow-beer",
+  "urlSlug": "snow-beer",
+  "name": "설화 맥주",
+  "nameKo": "설화 맥주",
+  "nameEn": "Snow beer",
+  "definition": "설화 맥주(Snow beer)는 중국 선양시에서 유래한 라거 맥주 브랜드이다. 중국어 이름은 雪花啤酒이며 '눈송이 맥주'를 뜻한다. 주로 중국에서 판매되지만 판매량 기준 세계 최대 맥주 브랜드로 알려져 있다.",
+  "summary": "설화 맥주(Snow beer)는 중국 선양시에서 유래한 라거 맥주 브랜드이다. 중국어 이름은 雪花啤酒이며 '눈송이 맥주'를 뜻한다. 주로 중국에서 판매되지만 판매량 기준 세계 최대 맥주 브랜드로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "판매량 기준 세계 최대 맥주 브랜드로 꼽히면서도 판매가 대부분 중국에 한정된 라거 브랜드이다. 선양의 1936년 완공 공장에서 이어진 계보를 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "설화 맥주는 중국 선양시에서 유래한 라거 맥주 브랜드로, 흔히 'Snowflake'라는 이름으로도 불린다. CR Snow가 양조하며, 2016년 10월까지는 SABMiller와 China Resources Enterprises의 합작 회사였다. 2014년 기준 CRSB는 중국 최대의 양조 기업이었으며, 전국에 90개가 넘는 양조장을 두고 매년 막대한 양의 설화 맥주를 양조했다. 주로 중국에서만 팔리는데도 세계에서 가장 많이 팔리는 맥주 브랜드로 꼽힌다. 다만 Budweiser, Bud Light 등 Budweiser 계열을 하나의 브랜드로 합산하면 그쪽이 판매 순위 최상위에 오른다. 설화 맥주는 하나의 제품이 아니라 다양한 종류의 맥주를 아우르는 브랜드이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "선양 설화 맥주의 뿌리는 1934년 Dai Nippon Beer와 Kirin Beer가 공동으로 세운 Manchuria Beer이다. 이 회사는 1936년 선양 톄시구 젠서동로의 현재 주소에 두 번째 공장을 완공했다. 이 공장은 1945년 Liaoning Province Brewing Company, 1949년 Shenyang Beer Company가 되었고 1957년부터 '雪花啤酒'로 불렸다. 설화 맥주가 1993년 처음 출시되었을 때는 세 곳의 양조장에서 생산했다. 1997년 China Resources Enterprise가 이 공장을 Huarun Snow Beer Company (China)의 일부로 인수했으며, 이후 Shenyang Huarun Snow Beer(沈阳华润雪花啤酒)로 알려져 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년까지 SABMiller가 설화 맥주 지분 49퍼센트를 보유했다. Anheuser-Busch InBev는 SABMiller를 인수하기 전에 규제 당국의 요건을 충족하기 위해 설화 맥주 지분을 China Resources Enterprise에 매각하기로 합의했다. 2018년에는 Heineken이 China Resources Enterprises와 회사 지분 40%를 매입하는 계약을 체결했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "판매량 기준 세계 최대 맥주 브랜드로 꼽히면서도 판매가 대부분 중국에 한정된 라거 브랜드이다. 선양의 1936년 완공 공장에서 이어진 계보를 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.snowbeer.com.cn/",
+  "entityLinks": {
+   "wikidata": "Q3065045",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3065045",
+    "https://ko.wikipedia.org/wiki/%EC%84%A4%ED%99%94_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Snow_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3065045",
+   "country": "중화인민공화국",
+   "inception": "1936",
+   "headquarters": "선양시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Snow (beer)」 본문과 위키데이터 Q3065045 팩트를 근거로 편집"
+ }
+}

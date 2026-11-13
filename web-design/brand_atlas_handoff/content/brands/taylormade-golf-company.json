@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1380797",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/taylormade-golf-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "taylormade-golf-company",
+  "urlSlug": "taylormade-golf-company",
+  "name": "테일러메이드",
+  "nameKo": "테일러메이드",
+  "nameEn": "TaylorMade Golf Company",
+  "definition": "테일러메이드(TaylorMade Golf Company)는 미국 칼즈배드에 본사를 둔 스포츠 장비 제조 회사이다. 골프 장비 시장에 중점을 두고 골프채, 골프공, 옷을 생산한다.",
+  "summary": "테일러메이드(TaylorMade Golf Company)는 미국 칼즈배드에 본사를 둔 스포츠 장비 제조 회사이다. 골프 장비 시장에 중점을 두고 골프채, 골프공, 옷을 생산한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "메탈 드라이버의 혁신으로 성장해 골프 드라이버 부문 1위에 오른 미국의 골프 장비 제조 회사이며, 현재 센트로이드 인베스트먼트 파트너스의 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "테일러메이드는 미국 칼즈배드에 본사를 두고 골프 장비 시장에 중점을 둔 스포츠 장비 제조 회사이다. 초기 성공은 1979년에 처음 선보인 메탈 드라이버의 혁신에서 비롯되었으며, 이후 골프 시장을 장악하게 되었다. 회사는 2005년 말에 공식적으로 골프 드라이버 부문 1위가 되었다. 2006년에는 처음으로 10억 달러의 매출을 달성했으며, 이는 골프 브랜드 역사상 두 번째 사례이다. 2012년 9월 아웃사이드 매거진은 테일러메이드를 미국 \"일하기 좋은 직장\" 중 하나로 선정했다. 현재는 센트로이드 인베스트먼트 파트너스의 자회사로, 타이거 우즈, 로리 매킬로이 등 주요 투어의 많은 프로 골퍼와 후원 계약을 맺고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "테일러메이드는 1979년 게리 애덤스가 자신의 집을 담보로 24,000달러를 빌려 일리노이주 맥헨리에 6,000평방피트 건물을 임대하며 법인화되었다. 처음에는 세 명의 직원을 두고 새로 발명된 12도 로프트의 메탈우드 한 가지 품목만 판매했다. 강철 구조의 이 메탈우드는 감나무를 대체하며 \"피츠버그 퍼시몬\"이라는 별명을 얻었다. 1979년 47,000달러의 매출로 시작한 회사는 1984년 살로몬 S.A.에 인수되었고, 이 소유권은 1997년 아디다스가 살로몬을 인수할 때까지 유지되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "골프 장비 시장에 중점을 두고 골프채, 골프공, 옷을 생산하며, 시작은 1979년 선보인 12도 로프트의 메탈우드 한 가지 품목이었다. 2008년 골프 의류 회사인 애쉬워스를, 2012년 애덤스 골프를 인수했다. 2024년 2월 12일에는 타이거 우즈와 협력하여 골프 선수의 의류 라인인 선 데이 레드를 출시했다. 선 데이 레드의 호랑이 로고는 2025년 1월 7일 기준 티그레어와 푸마의 이의 제기를 받고 있다. 대부분의 계약 선수들은 콜린 모리카와, 토미 플릿우드, 넬리 코다 등을 포함하며 회사로부터 거의 모든 경기 장비를 공급받는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 5월 KPS 캐피탈 파트너스의 인수가 발표되었고, 거래는 같은 해 11월에 완료되었다. 2022년 5월 11일에는 대한민국의 사모펀드인 센트로이드PE가 KPS로부터 테일러메이드를 인수하기 위한 최종 계약에 서명했다. 현재 센트로이드 인베스트먼트 파트너스의 자회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "메탈 드라이버의 혁신으로 성장해 골프 드라이버 부문 1위에 오른 미국의 골프 장비 제조 회사이며, 현재 센트로이드 인베스트먼트 파트너스의 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.taylormadegolf.com/",
+  "entityLinks": {
+   "wikidata": "Q1380797",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1380797",
+    "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%9D%BC%EB%9F%AC%EB%A9%94%EC%9D%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/TaylorMade"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1380797",
+   "country": "미국",
+   "inception": "1979",
+   "headquarters": "칼즈배드",
+   "founders": [
+    "Gary Adams"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「테일러메이드」 요약과 위키데이터 Q1380797 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

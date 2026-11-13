@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2924044",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-de-saint-omer",
+  "urlSlug": "brasserie-de-saint-omer",
+  "name": "Brasserie de Saint-Omer",
+  "nameKo": "",
+  "nameEn": "Brasserie de Saint-Omer",
+  "definition": "Brasserie de Saint-Omer는 1866년에 설립된 프랑스 생토메르의 맥주 양조장이다. Pas-de-Calais 도에 있으며 Nord-Pas-de-Calais 지역에 남은 대형 양조장 두 곳 중 하나이다.",
+  "summary": "Brasserie de Saint-Omer는 1866년에 설립된 프랑스 생토메르의 맥주 양조장이다. Pas-de-Calais 도에 있으며 Nord-Pas-de-Calais 지역에 남은 대형 양조장 두 곳 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스에서 첫 번째 독립 양조장으로 소개되며, 1996년 Heineken International에 매각되었다가 2008년 Pecqueur 가문으로 돌아온 이력을 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 프랑스 Pas-de-Calais 도의 생토메르에 있는 맥주 제조업체이며, Nord-Pas-de-Calais 지역에 남아 있는 두 대형 양조장 중 하나이다. 연간 약 2 million hectolitres의 맥주를 생산하고 있어 프랑스에서 첫 번째 독립 양조장으로 소개된다. 해마다 약 700 million 병, 90 million 캔, 25,000 통 분량을 만들어 낸다. 약 서른 종의 맥주를 약 200개 품목으로 양조하며 160명을 고용하고 있다. 생산량의 40%는 수출하고, 2008년 이후에는 다시 독립 양조장으로서 Pecqueur 가문의 품에 있다. 오랫동안 지역 시장에 주력했던 양조장이 지금은 수출 비중이 40%에 이르는 대형 독립 업체의 위치에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1866년에 설립되었다. 1950년에는 여러 차례의 인수와 합병을 거쳐 Brasserie Artésienne라는 이름을 얻었고, 당시 생산량은 연간 45,000 hectolitres였다. 1985년까지는 주로 지역 시장에 집중했으며, 그해 Saint-Arnould 그룹에 인수되어 Brasserie de Saint-Omer라는 이름을 쓰기 시작했다. 1995년에는 Pont-de-Briques와 릴의 Semeuse에 있던 Facon 양조장들이 합병되었고, 그 결과 생긴 회사의 이름은 GSA Brasseries였다. 1996년 Pecqueur 가문은 양조장을 Heineken International에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장은 약 서른 종의 맥주를 양조하며, 품목 수로는 약 200개에 이르는 제품군을 갖추고 있다. 제품은 병, 캔, 통(casks)이라는 세 가지 용기 형태로 나뉘어 만들어지며, 수량으로는 병이 가장 많다. 해마다 약 700 million 병, 약 90 million 캔, 약 25,000 통을 생산한다. 이를 모두 합친 연간 맥주 생산량은 약 2 million hectolitres에 달하며, 이 규모는 프랑스 독립 양조장 가운데 첫째로 소개된다. 생산량의 40%가 수출로 이어지는 점도 사업 구성의 한 축이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년 Heineken이 이 양조장을 매각하려 하자, 양조장의 전 CEO였던 André Pecqueur가 이를 인수했다. 이로써 양조장은 다시 독립 양조장이 되어 Pecqueur 가문의 품으로 돌아왔다. 현재 연간 약 2 million hectolitres를 생산하고 160명을 고용하며, 생산량의 40%를 수출한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스에서 첫 번째 독립 양조장으로 소개되며, 1996년 Heineken International에 매각되었다가 2008년 Pecqueur 가문으로 돌아온 이력을 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brasserie-saint-omer.com/",
+  "entityLinks": {
+   "wikidata": "Q2924044",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2924044",
+    "https://en.wikipedia.org/wiki/Brasserie_de_Saint-Omer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2924044",
+   "country": "프랑스",
+   "inception": "1866",
+   "headquarters": "생토메르",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie de Saint-Omer」 본문과 위키데이터 Q2924044 팩트를 근거로 편집"
+ }
+}

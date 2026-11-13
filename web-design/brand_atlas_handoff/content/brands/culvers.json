@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1143589",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/culvers-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "culvers",
+  "urlSlug": "culvers",
+  "name": "컬버스",
+  "nameKo": "컬버스",
+  "nameEn": "Culver's",
+  "definition": "컬버스(Culver's)는 미국 중서부를 중심으로 영업하는 지역 패스트 캐주얼 레스토랑 체인이다. 1984년 위스콘신주에서 문을 열었고 본사는 위스콘신주 Prairie du Sac에 있다.",
+  "summary": "컬버스(Culver's)는 미국 중서부를 중심으로 영업하는 지역 패스트 캐주얼 레스토랑 체인이다. 1984년 위스콘신주에서 문을 열었고 본사는 위스콘신주 Prairie du Sac에 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "창업 가족이 위스콘신 소도시에서 시작해 중서부를 기반으로 성장한 패스트 캐주얼 체인으로, Frozen Custard와 ButterBurgers를 이름에 내건 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "컬버스는 Culver Franchising System, LLC가 Culver's라는 상호로 운영하는 미국의 지역 패스트 캐주얼 레스토랑 체인이다. 1984년 7월 18일 위스콘신주 Sauk City에서 Culver's Frozen Custard and ButterBurgers라는 이름으로 첫 매장을 열었다. 비상장 기업이며 본사는 위스콘신주 Prairie du Sac에 있다. 체인은 주로 미국 중서부에서 영업하며 2025년 4월 기준 26개 주에서 총 1,000개 매장을 운영한다. 2013년 Franchise Business Review 조사에서 가맹점주 만족도 최고로 평가받았다. 2024년에는 창립 40주년을 맞았고 위스콘신 주지사 Tony Evers가 7월 18일을 Culver's Day로 공식 선포했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "George와 Ruth Culver 부부는 1961년 Sauk City에서 A&W 매장을 운영하며 패스트푸드 사업을 시작했고, 1968년에는 Devil's Lake의 The Farm Kitchen을 인수했다. 1984년 7월 18일 이들 부부와 아들 Craig, 그의 아내 Lea가 Sauk City에서 첫 매장을 열었다. 가맹 사업은 1988년에 시작했으나 첫 가맹점주가 1년 뒤 떠나면서 실패했고, 이 경험을 바탕으로 표준 가맹 절차를 마련했다. 3년 뒤 Baraboo에서 다시 시도해 사업이 빠르게 두 배로 커졌고, 1993년에는 위스콘신 남부 14개 매장 규모였다. 1995년 미네소타와 일리노이, 1997년 아이오와에 진출했고 1998년 2월 텍사스에 첫 가맹점을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "컬버스는 첫 매장 이름에 Frozen Custard와 ButterBurgers를 담아 출발했다. 2000년에는 Prairie du Sac에 수프·샌드위치·샐러드를 파는 스핀오프 식당 Blue Spoon Creamery Cafe를 열었다. 이름은 컬버스 매장에서 쓰는 스푼의 색에서 따왔다. 두 번째 매장은 Middleton에서 2년간 운영하다 2010년 8월 문을 닫았고, Prairie du Sac 매장도 2020년 5월 코로나19 봉쇄 중 닫았다. 매장은 확장기 대부분 120석 규모였으나, 2006년 Fort Dodge에 처음 지은 Metro-98 프로토타입은 좌석을 줄여 필요한 부지를 약 20% 줄였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "컬버스는 비상장 기업으로, 2017년 10월 창업 가족이 Roark Capital Group에 소수 지분을 매각했으나 과반 지분은 유지했다. 2025년 4월 기준 26개 주에서 1,000개 매장을 운영하며, 2022년 1월 아칸소로 확장했다. 2026년 2월에는 버지니아 시장 진출 계획을 발표하고 리치먼드 지역에 첫 매장을 내기로 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "창업 가족이 위스콘신 소도시에서 시작해 중서부를 기반으로 성장한 패스트 캐주얼 체인으로, Frozen Custard와 ButterBurgers를 이름에 내건 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.culvers.com/",
+  "entityLinks": {
+   "wikidata": "Q1143589",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1143589",
+    "https://ko.wikipedia.org/wiki/%EC%BB%AC%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Culver%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1143589",
+   "country": null,
+   "inception": "1984",
+   "headquarters": "Prairie du Sac",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Culver's」 본문과 위키데이터 Q1143589 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

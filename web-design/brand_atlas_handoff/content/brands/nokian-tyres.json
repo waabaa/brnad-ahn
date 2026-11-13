@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1481634",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/nokian-tyres-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nokian-tyres",
+  "urlSlug": "nokian-tyres",
+  "name": "노키안 타이어",
+  "nameKo": "노키안 타이어",
+  "nameEn": "Nokian Tyres",
+  "definition": "노키안 타이어(Nokian Tyres)는 핀란드의 도시 노키아에 본사를 둔 타이어 제조사이다. 승용차, 트럭, 버스, 중장비용 타이어를 생산하며 특히 겨울용 타이어로 알려져 있다.",
+  "summary": "노키안 타이어(Nokian Tyres)는 핀란드의 도시 노키아에 본사를 둔 타이어 제조사이다. 승용차, 트럭, 버스, 중장비용 타이어를 생산하며 특히 겨울용 타이어로 알려져 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세계에서 유일하게 상설 겨울 타이어 시험 시설을 직접 보유한 제조사이며, 핀란드의 Hakkapeliitta 겨울 타이어 브랜드로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "노키안 타이어는 핀란드 노키아에 본사를 둔 타이어 제조사로, 승용차와 기타 차량용 교체 타이어 시장과 프리미엄 스노 타이어 시장에 집중한다. 승용차, 트럭, 버스, 중장비용 타이어를 생산하며 재생 타이어용 소재와 타이어 공기압 모니터도 만든다. 겨울 타이어로 잘 알려져 있고, 세계에서 유일하게 상설 겨울 타이어 시험 시설을 직접 보유한 타이어 제조사이다. Hakkapeliitta 브랜드명은 핀란드에서 상표로 인정받으며, 일부 노키안 타이어 제품에 지금도 쓰인다. 자동차 정비 서비스를 겸하는 타이어 소매 체인 Vianor도 소유하고 있다. 회사명 노키안은 Nokia의 속격형이며 Nokian renkaat은 '노키아의 타이어'를 뜻한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뿌리는 1865년 광산 기술자 Fredrik Idestam이 핀란드 탐페레에 세운 쇄목 펄프 공장으로 거슬러 올라간다. 승용차 타이어 생산은 1932년 Suomen Gummitehdas Oy가 시작했고, 1936년에 Hakkapeliitta라는 타이어 이름을 도입했다. 1967년 세 회사가 합병해 Nokia Corporation을 만들었고, 이후 타이어 부문을 1988년 일본 Sumitomo Rubber Industries의 영국 자회사와의 합작회사 Nokia Tyres Limited로 분리했다. 1995년 헬싱키 증권거래소에 상장하면서 Nokian으로 이름을 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 승용차와 기타 차량용 교체 타이어, 그리고 프리미엄 스노 타이어이다. 트럭, 버스, 중장비용 타이어도 생산하며, 재생 타이어용 소재와 타이어 공기압 모니터도 만든다. 자전거 타이어는 1925년 Suomen Gummitehdas Oy가 생산을 시작했으나 2004년 Suomen Rengastehdas Oy에 사업을 매각했고, 노키안 이름의 자전거 타이어 사용권은 다른 핀란드 회사에 허용했다. 소매 부문에서는 타이어 판매와 자동차 정비를 함께 하는 Vianor 체인을 소유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2003년 Nokia가 보유 지분을 Bridgestone Europe NV/SA에 매각해 소유에서 물러났고, Bridgestone은 18.9% 지분의 최대 주주가 됐다. Bridgestone은 노키안 타이어를 독립적으로 운영하겠다고 밝혔다. 2019년 12월 12일 기준 Bridgestone의 직접 보유 지분은 3%로 줄었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계에서 유일하게 상설 겨울 타이어 시험 시설을 직접 보유한 제조사이며, 핀란드의 Hakkapeliitta 겨울 타이어 브랜드로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nokiantyres.com/",
+  "entityLinks": {
+   "wikidata": "Q1481634",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1481634",
+    "https://ko.wikipedia.org/wiki/%EB%85%B8%ED%82%A4%EC%95%88_%ED%83%80%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Nokian_Tyres"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1481634",
+   "country": "핀란드",
+   "inception": "1987",
+   "headquarters": "노키아",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Nokian Tyres」 본문과 위키데이터 Q1481634 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

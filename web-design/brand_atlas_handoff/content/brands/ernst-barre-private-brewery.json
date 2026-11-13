@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2111045",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ernst-barre-private-brewery",
+  "urlSlug": "ernst-barre-private-brewery",
+  "name": "Ernst Barre Private Brewery",
+  "nameKo": "",
+  "nameEn": "Ernst Barre Private Brewery",
+  "definition": "Ernst Barre Private Brewery(독일어: Privatbrauerei Ernst Barre GmbH)는 독일 동베스트팔렌의 도시 뤼베케에 있는 양조장이다. 1842년에 설립되어 대대로 같은 가문이 이어 왔다.",
+  "summary": "Ernst Barre Private Brewery(독일어: Privatbrauerei Ernst Barre GmbH)는 독일 동베스트팔렌의 도시 뤼베케에 있는 양조장이다. 1842년에 설립되어 대대로 같은 가문이 이어 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "대대로 같은 가문이 이어 온 동베스트팔렌의 독립 양조장으로, 순수령에 따른 양조와 무료 맥주 축제, 자체 양조 박물관을 갖췄다. 북독일에서 가장 오래된 필젠 양조장이라는 문구를 내세운다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 북서부 민덴-뤼베케 군의 도시 뤼베케에서 맥주를 만들며, 맥주 외에 샌디(맥주 혼합음료)와 청량음료도 생산한다. 생산량 기준으로 경쟁사인 Herforder Brauerei와 함께 동베스트팔렌에서 가장 큰 양조장으로 꼽히며, 지역에서 중요한 위치를 차지한다. 2015년 기준 연간 생산량은 약 130,000 hectolitres, 매출은 약 €20 million, 직원은 110명이었다. 제품은 독일 북부 평원과 Herford 군에서도 인기가 있으며 타이완과 중국에도 수출된다. 1516년의 순수령(Reinheitsgebot)에 따라 양조하며, 품질에 대한 평판이 좋고 틈새시장에서 성공적으로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1842년 Ernst Johann Barre가 설립했다. 설립 이후 대대로 같은 가문이 소유해 왔다. 양조장이 세워질 때 가장 먼저 지어진 건물 가운데 사암과 벽돌로 된 건물이 있었으며, 이 건물은 1980년대 중반까지 양조 및 저장 지하실로 쓰였다. 1954년부터는 뤼베케에서 자체 축제인 Bierbrunnenfest(맥주 분수 축제)를 열어 왔으며, 이 축제에서는 시민에게 맥주 수천 리터를 무료로 제공한다. 2001년에는 자체 박물관을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 맥주와 샌디로 나뉜다. 맥주로는 Barre Pilsener, Barre Dunkel, Barre Alt, Barre Weizen, Barre Maibock, Barre Festbier가 있고, 무알코올 제품으로 Barre Frey Bier와 Barre Fass Brause가 있다. Barre Alt Schuss는 알트 맥주와 맥아 맥주를 섞은 제품이다. 맥주 샌디로는 Barre Alster, Barre Lemon, Barre Weizen Grape가 있다. Barre Maibock은 봄에만 판매하고 나머지는 연중 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 기준 연간 생산량은 약 130,000 hectolitres, 매출은 약 €20 million, 직원 수는 110명이었다. 자체 발표에 따르면 2010년 생산량은 150,000 hectolitres로, 독일 최대 양조장 연간 생산량의 2%를 약간 넘는 수준이다. 독일과 오스트리아의 중견 민영 양조장 협의체인 Die Freien Brauer의 창립 회원이며, 자체 박물관 Barre's Brauwelt를 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대대로 같은 가문이 이어 온 동베스트팔렌의 독립 양조장으로, 순수령에 따른 양조와 무료 맥주 축제, 자체 양조 박물관을 갖췄다. 북독일에서 가장 오래된 필젠 양조장이라는 문구를 내세운다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.barre.de",
+  "entityLinks": {
+   "wikidata": "Q2111045",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2111045",
+    "https://en.wikipedia.org/wiki/Ernst_Barre_Private_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2111045",
+   "country": "독일",
+   "inception": "1842",
+   "headquarters": "뤼베케",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Ernst Barre Private Brewery」 본문과 위키데이터 Q2111045 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1140807",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/jet2-com-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jet2-com",
+  "urlSlug": "jet2-com",
+  "name": "제트투컴",
+  "nameKo": "제트투컴",
+  "nameEn": "Jet2.com",
+  "definition": "제트투컴(Jet2.com)은 영국 리즈 인근 리즈 브래드퍼드 공항에 본사를 둔 영국의 저비용 항공사이다. 영국에서 유럽 목적지로 가는 정기편과 전세기 항공편을 운항한다.",
+  "summary": "제트투컴(Jet2.com)은 영국 리즈 인근 리즈 브래드퍼드 공항에 본사를 둔 영국의 저비용 항공사이다. 영국에서 유럽 목적지로 가는 정기편과 전세기 항공편을 운항한다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "화물 운송사 Channel Express에서 출발해 리즈 브래드퍼드 공항을 본거지로 삼았고, 영국 최대의 투어 오퍼레이터가 된 저비용 항공사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "제트투컴은 영국의 저비용 항공사로, 요크셔 리즈 인근 리즈 브래드퍼드 공항에 본사를 둔다. 모회사 Jet2 plc가 소유하며, 영국에서 유럽 목적지로 가는 정기편과 전세기 항공편을 운항한다. 영국 민간항공국의 Type A 운항 면허를 보유하며, 좌석 20석 이상의 항공기로 여객·화물·우편을 운송할 수 있다. 2022년 기준으로 easyJet과 British Airways에 이어 영국에 등록된 정기편 항공사 가운데 세 번째로 크다. 2023년부터는 영국 최대의 투어 오퍼레이터이기도 하다. 벨파스트 인터내셔널, 버밍엄, 본머스, 브리스톨, 이스트미들랜즈, 에든버러, 글래스고, 리버풀, 런던 개트윅·루턴·스탠스테드, 맨체스터, 뉴캐슬 공항에도 기지를 둔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "제트투컴의 뿌리는 1983년 Channel Express라는 이름으로 상업 운항을 시작한 항공사이다. 당시 Dart Group의 현 executive chairman인 Philip Meeson이 이 항공사를 인수했으며, 처음에는 화물 운송사였다. 2001년부터는 보잉 항공기로 국제선 여객 전세 서비스도 운영했다. 2003년 Channel Express가 리즈 브래드퍼드 공항에서 Jet2.com 브랜드를 출시했고, 2003년 2월 12일 리즈 브래드퍼드에서 암스테르담으로 가는 첫 항공편을 운항했다. 이후 2004년 맨체스터 공항에, 2005년 뉴캐슬에 기지를 열며 노선망을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제트투컴은 영국에서 유럽 목적지로 가는 정기편과 전세기 항공편을 운항한다. 전세기 서비스는 Jet2charters 브랜드로도 제공한다. 2011년 1월에는 중고 Boeing 737-800을 도입했는데, 기존 737-300보다 크고 757-200보다 작은 기종이다. 2016년 9월 17일에는 2015년에 주문한 30대 가운데 첫 신조 Boeing 737-800을 인도받았고, 같은 해 11월 맨체스터 공항에 새 정비 격납고를 열었다. 크리스마스 시즌 뉴욕 노선도 운항해 2019년까지 이어 왔으나, 코로나19의 영향으로 취소했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Jet2.com Limited는 항공 서비스 그룹 Jet2 plc의 자회사이다. 2022년 기준 영국에 등록된 정기편 항공사 중 세 번째로 크고, 2023년부터 영국 최대의 투어 오퍼레이터이다. 2017년 3월 버밍엄과 런던 스탠스테드에 기지를 열었으며, 스탠스테드는 잉글랜드 남동부의 첫 기지였다. 이 두 기지는 이후 맨체스터 다음으로 큰 영국 기지로 성장했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "화물 운송사 Channel Express에서 출발해 리즈 브래드퍼드 공항을 본거지로 삼았고, 영국 최대의 투어 오퍼레이터가 된 저비용 항공사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.jet2.com/",
+  "entityLinks": {
+   "wikidata": "Q1140807",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1140807",
+    "https://ko.wikipedia.org/wiki/Jet2.com",
+    "https://en.wikipedia.org/wiki/Jet2.com"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1140807",
+   "country": "영국",
+   "inception": "2002",
+   "headquarters": "리즈",
+   "founders": [],
+   "parent": "Dart Group",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Jet2.com」 본문과 위키데이터 Q1140807 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

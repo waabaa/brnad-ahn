@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q163241",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/continental-ag-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "continental-ag",
+  "urlSlug": "continental-ag",
+  "name": "콘티넨탈 AG",
+  "nameKo": "콘티넨탈 AG",
+  "nameEn": "Continental AG",
+  "definition": "콘티넨탈 AG(Continental AG)는 1871년에 설립되어 독일 하노버에 본사를 둔 다국적 기업으로, 타이어와 산업용 고무·열가소성 제품을 만드는 제조사이다.",
+  "summary": "콘티넨탈 AG(Continental AG)는 1871년에 설립되어 독일 하노버에 본사를 둔 다국적 기업으로, 타이어와 산업용 고무·열가소성 제품을 만드는 제조사이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.2,
+  "image": "",
+  "logo": "",
+  "insight": "타이어와 ContiTech의 산업용 고무 제품을 함께 다루며, 1871년 고무 제조사로 출발해 파워트레인과 자동차 부문을 분리해 온 독일 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "콘티넨탈은 승용차, 상용차, 오토바이, 자전거, 산업용 차량에 쓰는 타이어와 산업용 고무·열가소성 제품을 만드는 독일의 다국적 제조사이며, 흔히 Continental 또는 Conti로 불린다. 타이어는 Continental, Barum, General Tire, Matador, Semperit 브랜드와 Uniroyal 이름으로 판매한다. ContiTech 부문은 호스, 컨베이어 벨트, 구동 벨트, 공기 스프링 등 산업용 제품을 생산한다. 본사는 니더작센주 하노버에 있으며 2025년 타이어 매출 기준으로 세계 4위였다. 파워트레인 부문은 2021년 Vitesco Technologies로, 자동차 부문은 2025년 Aumovio로 분리되었다. 2012년에는 자동차 OEM 부품 매출 기준 세계 3위로 평가되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "콘티넨탈은 1871년 고무 제조사 Continental-Caoutchouc und Gutta-Percha Compagnie로 출발했으며, 창업자는 Jakob Frank이다. 1892년 공기식 자전거 타이어의 개발과 생산을 시작해 큰 성공을 거두었고, 1904년에는 세계 최초로 홈이 있는 차량용 타이어를 제조했다. 1905년에는 여행용 차량을 위한 분리형 휠 타이어를 발명했다. 1920년대 말 다른 주요 고무 기업들과 합병해 독일 최대 고무 회사인 Continental Gummi-Werke AG가 되었다. 1979년 Uniroyal의 유럽 타이어 사업을 인수해 유럽 기반을 넓혔고, General Tire, Inc. 인수로 글로벌 기업이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "타이어 사업은 승용차, 상용차, 오토바이, 자전거, 산업용 차량용 타이어로 구성된다. 타이어 브랜드는 Continental, Barum, General Tire, Matador, Semperit이며 Uniroyal 이름으로도 판매한다. ContiTech 부문은 호스, 컨베이어 벨트, 구동 벨트, 공기 스프링과 기타 산업용 제품을 생산한다. 1967년에는 Contidrom 타이어 시험 시설을 열었다. 2001년 DaimlerChrysler의 자동차 전장 사업 Temic의 지배지분, 2006년 Motorola의 자동차 전자 사업부, 2007년 Siemens의 Siemens VDO를 차례로 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "IHO Group(Schaeffler 가문의 투자 지주회사)이 최대주주로 지분 46%를 보유하고 있다. 파워트레인 부문은 2021년 Vitesco Technologies로, 자동차 부문은 2025년 Aumovio로 분리되었다. 2026년 7월에는 규제 당국 승인을 조건으로 ContiTech를 Lone Star Funds 계열사에 매각하기로 합의했다. 2025년 타이어 매출 기준으로는 세계 4위이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "타이어와 ContiTech의 산업용 고무 제품을 함께 다루며, 1871년 고무 제조사로 출발해 파워트레인과 자동차 부문을 분리해 온 독일 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://continental.com/",
+  "entityLinks": {
+   "wikidata": "Q163241",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q163241",
+    "https://ko.wikipedia.org/wiki/%EC%BD%98%ED%8B%B0%EB%84%A8%ED%83%88_AG",
+    "https://en.wikipedia.org/wiki/Continental_AG"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q163241",
+   "country": "독일",
+   "inception": "1871",
+   "headquarters": "하노버",
+   "founders": [
+    "Jakob Frank"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Continental AG」 본문과 위키데이터 Q163241 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

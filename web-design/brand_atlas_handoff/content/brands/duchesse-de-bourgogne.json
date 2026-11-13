@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2298563",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "duchesse-de-bourgogne",
+  "urlSlug": "duchesse-de-bourgogne",
+  "name": "Duchesse de Bourgogne",
+  "nameKo": "",
+  "nameEn": "Duchesse de Bourgogne",
+  "definition": "Duchesse de Bourgogne은 벨기에 Vichte의 Brouwerij Verhaeghe가 생산하는 플랜더스 레드 에일 스타일 맥주이다. 이름은 프랑스어로 '부르고뉴의 공작부인'을 뜻한다.",
+  "summary": "Duchesse de Bourgogne은 벨기에 Vichte의 Brouwerij Verhaeghe가 생산하는 플랜더스 레드 에일 스타일 맥주이다. 이름은 프랑스어로 '부르고뉴의 공작부인'을 뜻한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "오크 배럴에서 18개월 숙성한 맥주와 8개월 된 맥주를 섞어 만드는 6.2% 플랜더스 레드 에일이며, Mary of Burgundy를 기리는 이름을 가진 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 벨기에 Vichte에 있는 Brouwerij Verhaeghe가 생산하는 플랜더스 레드 에일 스타일 맥주이다. 1차 발효와 2차 발효를 거친 뒤 오크 배럴에서 18개월 동안 숙성하는 방식으로 만든다. 최종 제품은 8개월 된 어린 맥주와 18개월 숙성된 맥주를 섞은 블렌드이며 알코올 도수는 6.2%이다. 맛은 모든 플랑드르 레드 에일과 마찬가지로 신맛이 나고 과일 향이 나며, 람빅 맥주와 비슷한 특징을 보인다. 이름은 프랑스어로 '부르고뉴의 공작부인'을 뜻하며, Charles the Bold의 외동딸인 공작부인 Mary of Burgundy를 기리려는 뜻에서 붙였다. 플랑드르 레드 에일 계열에 속하는 맥주이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 플랜더스 레드 에일 스타일 맥주로, 벨기에 Vichte에 있는 Brouwerij Verhaeghe가 생산한다. 이 맥주는 1차 발효와 2차 발효를 거친 뒤 오크 배럴에서 18개월 동안 숙성된다. 최종 제품은 8개월 된 어린 맥주와 18개월 숙성된 맥주를 섞은 블렌드이며 알코올 도수는 6.2%이다. 맛은 모든 플랑드르 레드 에일처럼 신맛과 과일 향이 특징이며 람빅 맥주와 비슷하다. 이름은 프랑스어로 '부르고뉴의 공작부인'을 뜻하며 Charles the Bold의 외동딸 Mary of Burgundy를 기리는 것이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오크 배럴에서 18개월 숙성한 맥주와 8개월 된 맥주를 섞어 만드는 6.2% 플랜더스 레드 에일이며, Mary of Burgundy를 기리는 이름을 가진 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2298563",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2298563",
+    "https://en.wikipedia.org/wiki/Duchesse_de_Bourgogne"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2298563",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Duchesse de Bourgogne」 본문과 위키데이터 Q2298563 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q1422481",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "fjallraven",
+  "urlSlug": "fjallraven",
+  "name": "Fjällräven",
+  "nameKo": "피엘라벤",
+  "nameEn": "Fjällräven",
+  "definition": "Fjällräven은 스웨덴의 아웃도어 브랜드로, 의류와 가방을 중심으로 한 야외 활동 장비를 만든다. 브랜드명은 스웨덴어로 '북극여우'를 뜻하며, 1960년에 설립되어 현재 Fenix Outdoor International AG 소속이다.",
+  "summary": "Fjällräven은 스웨덴의 아웃도어 브랜드로, 의류와 가방을 중심으로 한 야외 활동 장비를 만든다. 브랜드명은 스웨덴어로 '북극여우'를 뜻하며, 1960년에 설립되어 현재 Fenix Outdoor International AG 소속이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "배낭과 Termo 텐트에서 출발해 의류로 영역을 넓혔고, 북극여우 로고와 작은 스웨덴 국기로 구별되는 스웨덴 아웃도어 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 의류와 가방을 중심으로 아웃도어 장비를 만드는 스웨덴 회사이다. 1960년 스웨덴 북부 외른셸스비크 출신의 Åke Nordin이 설립했다. Nordin은 군 복무 중 튼튼하고 가벼운 배낭의 수요를 알아보았다. 1983년 스톡홀름에서 장외 시장에 상장했고, 2014년부터는 스위스에 본사를 둔 Fenix Outdoor International AG의 자회사이다. 그룹에는 Tierra, Primus, Hanwag, Brunton, Royal Robbins도 속해 있다. 북유럽 국가에서 시장 입지가 크며 유럽의 다른 나라에서도 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Åke Nordin은 스웨덴군에서 복무하던 중 튼튼하고 가벼운 배낭의 수요를 파악했다. 전역 후 1960년에 회사를 세우고 처음에는 가족의 지하실에서 사업을 운영했다. 1983년 스톡홀름 증권거래소의 장외 목록에 상장했다. 2001년 의류 제조사 Tierra AB와 소매 체인 Friluftsbolaget AB, Naturkompaniet AB를 인수했고, 2002년 그룹명을 Fenix Outdoor로 바꾸면서도 이 브랜드는 별도의 정체성을 유지했다. 2012년 뉴욕에 매장을 열었으며, 창업자는 2013년 77세로 사망했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 제품은 알루미늄 프레임을 쓴 외부 프레임 배낭으로, 최초의 상업 생산 외부 프레임 배낭이었다. 1964년에는 방수 폴리에스터 외부 플라이시트와 통기성 나일론 이너 텐트를 결합한 Termo 텐트를 내놓았고, 무게는 1.4kg이었다. 1968년에는 폴리에스터와 면 혼방 소재의 Greenland 재킷을, 1973년에는 High Alpine Polar(HAP) 침낭을, 1981년에는 내부 프레임 배낭 Gyrosoft를 출시했다. 현재 널리 알려진 제품은 Greenland 재킷, Vidda Trousers, Expedition Down Jackets, 여러 버전의 Kånken 배낭이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년부터 스위스에 본사를 두고 스톡홀름 증권거래소에 상장된 Fenix Outdoor International AG의 자회사이다. 이 그룹에는 Tierra, Primus, Hanwag, Brunton, Royal Robbins도 포함된다. 2018년 3월 기준 Fenix의 CEO는 창업자의 장남인 Martin Nordin이었다. 2017년 기준 제품은 40개국 넘게 판매되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "배낭과 Termo 텐트에서 출발해 의류로 영역을 넓혔고, 북극여우 로고와 작은 스웨덴 국기로 구별되는 스웨덴 아웃도어 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fjallraven.com/",
+  "entityLinks": {
+   "wikidata": "Q1422481",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1422481",
+    "https://en.wikipedia.org/wiki/Fj%C3%A4llr%C3%A4ven"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1422481",
+   "country": "스웨덴",
+   "inception": "1960",
+   "headquarters": "외른셸스비크",
+   "founders": [
+    "Åke Nordin"
+   ],
+   "parent": "Fenix Outdoor",
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Fjällräven」 본문과 위키데이터 Q1422481 팩트를 근거로 편집"
+ }
+}

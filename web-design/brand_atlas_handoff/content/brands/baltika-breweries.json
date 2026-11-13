@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q805734",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/baltika-breweries-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "baltika-breweries",
+  "urlSlug": "baltika-breweries",
+  "name": "발티카",
+  "nameKo": "발티카",
+  "nameEn": "Baltika Breweries",
+  "definition": "발티카(Baltika Breweries)는 1990년 러시아 상트페테르부르크에서 생산을 시작한 맥주 제조 회사이다. 유럽에서 두 번째로 큰 양조 회사이며 러시아 맥주 시장의 선두 업체이다.",
+  "summary": "발티카(Baltika Breweries)는 1990년 러시아 상트페테르부르크에서 생산을 시작한 맥주 제조 회사이다. 유럽에서 두 번째로 큰 양조 회사이며 러시아 맥주 시장의 선두 업체이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "러시아 맥주 시장의 선두 업체로, 모회사 Carlsberg Group의 매각 시도와 러시아 정부의 압류를 거쳐 경영진 인수로 소유 구조가 바뀐 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "발티카는 러시아 상트페테르부르크에 본사를 둔 맥주 제조 회사이다. 유럽에서 두 번째로 큰 양조 회사로 꼽히며, 러시아 맥주 시장에서 38%가 넘는 점유율로 선두를 차지하고 있다. 30개가 넘는 맥주 브랜드와 9개의 비맥주 브랜드를 보유하고 있으며, 러시아 소매점의 98%에서 제품이 판매된다. 2012년 11월 Carlsberg이 다른 주주의 지분을 모두 사들이면서 Carlsberg Group의 계열사가 되었다. 그러나 2023년 7월 러시아 정부가 자산을 압류했고, 2024년 12월 Carlsberg Group이 보유 지분을 매각했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "발티카는 1990년 상트페테르부르크에서 생산을 시작했다. 아프가니스탄 출신의 Naif Achakzai와 Nikita Kefirov가 공동 창업했다. 1992년 민영화 이후 개방형 주식회사로 재편되었고, 1993년 Baltic Beverages Holding Brewing Concern이 최대 주주가 되었다. 1998년 회사 이름을 Open Joint Stock Company Baltika Breweries로 바꾸었고, 2001년 9월 Rts 증권거래소에 상장했다. 2006년 말 Vena, Pikra, Yarpivo 세 양조장과 합병해 2007년 하나의 법인이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "발티카는 30개가 넘는 맥주 브랜드와 9개의 비맥주 브랜드를 보유한다. 제품은 러시아 소매점의 98%에서 판매되며, 2012년 자체 자료 기준으로 서유럽, 북미, 아시아·태평양 지역 등 75개가 넘는 나라에 공급되었다. 2000년에는 프랑스의 Groupe Soufflet과 함께 상트페테르부르크에 러시아 최대 규모의 Soufflet 맥아 공장을 열었으며, Groupe Soufflet이 70%, 발티카가 30%의 지분을 가졌다. 2018년 5월에는 온두라스로 맥주를 선적하기 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 7월 16일 러시아 대통령령으로 외부 경영이 도입되어 지분이 Federal Agency for State Property Management의 임시 관리로 넘어갔고, Taimuraz Bolloev가 사장에 임명되었다. 2024년 12월 Carlsberg Group은 오랜 직원 두 명이 균등하게 소유한 회사에 의한 경영진 인수를 발표했다. 2024년 12월 2일부로 러시아 정부가 세운 경영진은 물러난다고 회사도 확인했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아 맥주 시장의 선두 업체로, 모회사 Carlsberg Group의 매각 시도와 러시아 정부의 압류를 거쳐 경영진 인수로 소유 구조가 바뀐 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.baltika.ru",
+  "entityLinks": {
+   "wikidata": "Q805734",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q805734",
+    "https://ko.wikipedia.org/wiki/%EB%B0%9C%ED%8B%B0%EC%B9%B4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Baltika_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q805734",
+   "country": "러시아",
+   "inception": "1990",
+   "headquarters": "상트페테르부르크",
+   "founders": [],
+   "parent": "Federal Agency for State Property Management",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Baltika Breweries」 본문과 위키데이터 Q805734 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

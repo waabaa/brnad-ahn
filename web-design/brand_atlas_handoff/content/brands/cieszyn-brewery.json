@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q5119742",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cieszyn-brewery",
+  "urlSlug": "cieszyn-brewery",
+  "name": "Cieszyn Brewery",
+  "nameKo": "",
+  "nameEn": "Cieszyn Brewery",
+  "definition": "Cieszyn Brewery는 폴란드 치에신의 성 언덕에 있는 역사적인 양조장이다. 1846년 건설이 완료되었으며 폴란드에서 가장 오래 중단 없이 운영된 양조장이다.",
+  "summary": "Cieszyn Brewery는 폴란드 치에신의 성 언덕에 있는 역사적인 양조장이다. 1846년 건설이 완료되었으며 폴란드에서 가장 오래 중단 없이 운영된 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "폴란드에서 가장 오래 중단 없이 운영된 양조장으로, 치에신 성 언덕에서 1846년 완공된 시설을 기반으로 맥주를 만들어 온 곳이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 폴란드 국경 도시 치에신의 성 언덕에 있는 고전주의 양식 궁전 부지에 자리한다. 폴란드에서 가장 오래 중단 없이 운영된 양조장이다. 1846년 필젠 유형 맥주를 산업 규모로 생산하기 위해 지은 현대식 시설이 완공되어 곧바로 가동을 시작했다. 이곳의 맥주는 치에신 공국뿐 아니라 합스부르크 군주국 전역에서 인기를 끌었다. 1920년 국유화되었고 1945년 이후 Żywiec의 양조 공장 체계에 편입되었으며, 1990년대 초 민영화되어 Żywiec 양조장과 함께 네덜란드 기업 Heineken에 인수되었다. 현재는 Felix Investments에 속해 있으며 Grupa Żywiec를 위한 특별 맥주도 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조의 전사는 1653년으로 거슬러 올라간다. 그해 치에신 성에서 섭정관 Kasar Tłuk이 양조장을 열었으나, 도시 치에신의 1마일 특권을 침해해 주민들의 강한 항의를 받고 생산을 일시 중단했다. 1838년 대공 Karol Ludwik Habsburg가 치에신의 거처를 재건하면서 빈 건축가 Joseph Kornhäusl을 불렀고, 1840년경 성 아래 언덕 비탈에서 필젠 유형 맥주를 산업 규모로 생산할 양조장 공사가 시작되어 1846년 완공되었다. 그의 아들 대공 Albrecht Frederick Habsburg는 1856년 Żywiec 인근 Pawlus 마을에 또 다른 양조장을 세웠고, 그 첫 양조사들은 치에신 출신이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1945년 이후에도 같은 건물에서 여러 종류의 맥주를 생산했으며, 대표 제품은 필젠 유형 라이트 맥주였다. 1990년대 초에는 생산이 한 종류로 제한되어 Żywiec Brackie라는 상품명이 붙었고, 이후 지역 생산자로 성격을 바꾸면서 Brackie라는 이름이 도입되었다. 2003년에는 전국 브랜드 Żywiec Porter 생산이 시작되었으며, 폴란드 시장에서는 Żywiec 양조장 로고로 유통된다. 2009년부터 Bracki Browar Zamkowy는 Grupa Żywiec를 위한 일회성 특별 맥주를 생산했고, 그해 Bracki Koźlak Dubeltowy를 양조했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 Felix Investments에 속해 있다. Heineken 인수 이후 지역 생산자로 성격을 바꾸어 실롱스크 주 지역 시장에 초점을 두고 맥주를 유통했다. 2009년부터는 Grupa Żywiec를 위한 특별 맥주도 생산한다. 위치는 치에신 성 언덕의 고전주의 양식 궁전이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "폴란드에서 가장 오래 중단 없이 운영된 양조장으로, 치에신 성 언덕에서 1846년 완공된 시설을 기반으로 맥주를 만들어 온 곳이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://en.grupazywiec.pl/marki/brackie/",
+  "entityLinks": {
+   "wikidata": "Q5119742",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5119742",
+    "https://en.wikipedia.org/wiki/Cieszyn_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5119742",
+   "country": "폴란드",
+   "inception": "1846",
+   "headquarters": "치에신",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Cieszyn Brewery」 본문과 위키데이터 Q5119742 팩트를 근거로 편집"
+ }
+}

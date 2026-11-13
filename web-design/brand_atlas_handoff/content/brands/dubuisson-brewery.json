@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1164954",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "dubuisson-brewery",
+  "urlSlug": "dubuisson-brewery",
+  "name": "Dubuisson Brewery",
+  "nameKo": "",
+  "nameEn": "Dubuisson Brewery",
+  "definition": "Dubuisson Brewery는 1769년 벨기에 Pipaix에서 설립된 가족 경영 양조장이다. 벨기에에서 가장 도수가 높은 맥주 가운데 하나인 Bush Ambrée를 만든다.",
+  "summary": "Dubuisson Brewery는 1769년 벨기에 Pipaix에서 설립된 가족 경영 양조장이다. 벨기에에서 가장 도수가 높은 맥주 가운데 하나인 Bush Ambrée를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "가문의 성 du Buisson을 옮긴 Bush라는 이름을 모든 맥주에 붙이고, 도수 12%의 Bush Ambrée로 알려진 벨기에의 가족 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 벨기에의 가족 경영 양조장이며 Brasserie Dubuisson Frères라는 이름으로도 불린다. 본사는 Hainaut 주 Pipaix에 있으며, 행정구역상 Leuze-en-Hainaut에 속한다. 생산하는 맥주에는 모두 Bush라는 브랜드명이 붙는데, 이는 가문의 성 du Buisson을 옮긴 것이다. 상면발효 여과 맥주 4종을 만들며, 이 가운데 Bush Ambrée는 알코올 도수 12%로 벨기에에서 가장 강한 맥주 중 하나이다. 맥주는 영국 맥주의 인기가 커지던 당시 흐름을 반영해 영국식과 벨기에식을 섞은 것으로 구상되었다. 현재의 양조장은 창업 때와 같은 자리에 있으며 지금도 Dubuisson 가문이 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Hainaut 주 Pipaix에서 농부 Joseph Leroy가 1769년에 양조장을 세웠다. 초기에는 농장에서 일하는 일꾼과 Pipaix 주민에게만 맥주를 판매했다. 1931년 Joseph Leroy의 후손인 형제 Alfred Dubuisson과 Amédée Dubuisson이 농장을 접고 맥주 생산에 집중하기로 했다. 이들은 영국 맥주의 인기가 커지던 시기에 영국식과 벨기에식을 섞은 맥주를 목표로 삼았고, 그래서 맥주 이름은 영어로 짓고 제조 방식에도 영국과 벨기에의 기법을 함께 사용했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "상면발효 여과 맥주 4종은 모두 Bush라는 브랜드명을 쓴다. Bush 7%(7.5% ABV)는 1994년 양조장 설립 225주년을 기념해 처음 만들었고 체코산 향이 강한 홉, 고수, 캐러멜 맥아로 만들며 수출용 이름은 Scaldis 또는 Clovis이다. Bush blonde(10.5% ABV)는 1998년에, Bush de Noël(12% ABV)은 1991년에 처음 나왔으며, Bush de Noël은 houblonnage à cru(드라이 호핑) 기법과 다량의 캐러멜 맥아를 사용해 붉은 호박색을 띤다. Bush Ambrée(12% ABV)는 1933년 Alfred Dubuisson이 처음 만들었고 예전에는 Bush 12%로 불렸다. 이 밖에 말린 오렌지 껍질을 넣은 블론드 맥주 Cuvée des Trolls(7% ABV)도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재의 양조장은 창업 때와 같은 자리에 있으며 Dubuisson 가문이 계속 소유하고 있다. 현재의 수석 양조사 Hughes Dubuisson은 Alfred Dubuisson의 손자이다. 2000년 이후에는 Louvain la Neuve, Mons, Tournai, Charleroi에 소형 양조장을 한 곳씩 열었다. 맥주는 25cl 병으로 판매하고 수출용은 33cl 병을 쓴다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "가문의 성 du Buisson을 옮긴 Bush라는 이름을 모든 맥주에 붙이고, 도수 12%의 Bush Ambrée로 알려진 벨기에의 가족 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://dubuisson.com/befr",
+  "entityLinks": {
+   "wikidata": "Q1164954",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1164954",
+    "https://en.wikipedia.org/wiki/Dubuisson_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1164954",
+   "country": "벨기에",
+   "inception": "1769",
+   "headquarters": "Pipaix",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Dubuisson Brewery」 본문과 위키데이터 Q1164954 팩트를 근거로 편집"
+ }
+}

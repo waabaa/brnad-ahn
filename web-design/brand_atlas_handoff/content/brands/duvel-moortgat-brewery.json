@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q387897",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "duvel-moortgat-brewery",
+  "urlSlug": "duvel-moortgat-brewery",
+  "name": "Duvel Moortgat Brewery",
+  "nameKo": "",
+  "nameEn": "Duvel Moortgat Brewery",
+  "definition": "Duvel Moortgat Brewery는 벨기에 안트베르펜주에서 1871년 설립된 양조장으로, 플랑드르 가족이 지배한다. 강한 황금빛 페일 에일 Duvel을 대표 맥주로 둔다.",
+  "summary": "Duvel Moortgat Brewery는 벨기에 안트베르펜주에서 1871년 설립된 양조장으로, 플랑드르 가족이 지배한다. 강한 황금빛 페일 에일 Duvel을 대표 맥주로 둔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "Duvel이라는 강한 황금빛 에일로 알려진 벨기에 가족 양조장이면서, 유럽과 미국의 크래프트 양조장을 인수하며 포트폴리오를 넓힌 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Duvel Moortgat Brewery는 벨기에 안트베르펜주에서 출발해 지금도 플랑드르 가족이 지배하는 양조장이다. 본사는 Breendonk에 있으며, 설립 연도는 1871년이다. 강한 황금빛 페일 에일인 Duvel은 마흔 개가 넘는 나라에 수출되는 대표 맥주이다. Maredsous와 Vedett도 이 양조장의 대표적인 맥주로 꼽히며, Maredsous는 수도원 맥주 계열이다. Duvel은 브라반트어, 헨트와 안트베르펜 방언으로 악마를 뜻하는 말이며, 표준 네덜란드어로는 duivel이다. 1999년 6월 Euronext Brussels에 상장했고, 이후 벨기에뿐 아니라 체코, 미국, 이탈리아, 네덜란드의 양조장 지분을 인수하거나 확보하며 사업 범위를 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1871년 Jan-Leonard Moortgat이 양조장을 세웠다. 그는 벨기에 Steenhuffel에 살던 양조가 집안의 후손이었다. 1950년대에는 Moortgat 가문의 3대가 경영을 이어받았다. 1970년대 초 재정난을 겪던 시기에는 덴마크 맥주 Tuborg를 병입해 유통했고, 1980년대 초 계약이 끝났지만 이 일이 양조장을 살렸다. 그 사이 주력 맥주 Duvel의 대규모 유통망도 갖추었다. 제1차 세계대전 종전을 기념해 Victory Ale라 불리던 주력 맥주는 1920년대에 한 애호가가 'nen echten duvel'이라 부른 뒤 Duvel로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주 Duvel은 필스너 몰트와 덱스트로스로 빚고 Saaz와 Styrian Goldings 홉을 쓰며, 알코올 도수는 8.5% ABV이다. 효모는 Albert Moortgat이 제1차 세계대전 직후 영국 출장에서 사들인 스코틀랜드 효모 배양균에서 이어진다. 2007년에는 Amarillo 홉을 더하고 도수를 9.5% ABV로 높인 한정판 Duvel Tripel Hop이 나왔다. 2016년 6월에는 2012년 Citra 판이 가장 인기를 얻어 정규 라인업에 들어갔다. 1963년부터 Maredsous 수도원의 허가를 받아 Maredsous Blonde, Brune, Triple을 만들고 있으며, 1930년에는 Bel Pils, 1945년에는 Vedett를 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1999년 6월 Euronext Brussels에 상장한 Duvel Moortgat NV는 플랑드르 가족이 지배하는 양조장으로 소개된다. 2010년 안트베르펜의 De Koninck 지분 100%를 인수했고, 2014년에는 미국 캔자스시티의 Boulevard Brewing Company를 인수했다. 2015년에는 Firestone Walker Brewing Company 인수가 발표되었으며, 2016년 Birrificio del Ducato 지분 35%를 샀다가 2018년 70%로 늘렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Duvel이라는 강한 황금빛 에일로 알려진 벨기에 가족 양조장이면서, 유럽과 미국의 크래프트 양조장을 인수하며 포트폴리오를 넓힌 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.duvelmoortgat.be",
+  "entityLinks": {
+   "wikidata": "Q387897",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q387897",
+    "https://en.wikipedia.org/wiki/Duvel_Moortgat_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q387897",
+   "country": "벨기에",
+   "inception": "1871",
+   "headquarters": "Breendonk",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Duvel Moortgat Brewery」 본문과 위키데이터 Q387897 팩트를 근거로 편집"
+ }
+}

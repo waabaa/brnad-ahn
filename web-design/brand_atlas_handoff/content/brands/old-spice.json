@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q2325626",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:55+09:00"
+ },
+ "logoCandidate": "logos/old-spice-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "old-spice",
+  "urlSlug": "old-spice",
+  "name": "Old Spice",
+  "nameKo": "",
+  "nameEn": "Old Spice",
+  "definition": "Old Spice는 애프터셰이브, 데오도란트 및 땀 억제제, 샴푸, 바디워시, 면도크림, 비누 등 남성용 그루밍 제품을 판매하는 미국 브랜드이다. Procter & Gamble이 제조한다.",
+  "summary": "Old Spice는 애프터셰이브, 데오도란트 및 땀 억제제, 샴푸, 바디워시, 면도크림, 비누 등 남성용 그루밍 제품을 판매하는 미국 브랜드이다. Procter & Gamble이 제조한다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "Old Spice는 범선 그림과 부표 모양 병 등 항해를 테마로 한 패키지 디자인으로 다른 남성용 그루밍 브랜드와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Old Spice는 1937년 William Lightfoot Schultz의 비누 및 화장품 회사 Shulton Inc.가 여성용 향수 Early American Old Spice를 확장해 내놓은 남성용 브랜드이다. 이후 애프터셰이브, 데오도란트, 땀 억제제, 샴푸, 바디워시, 면도크림, 비누 등으로 제품군을 넓혔다. 1970년 Shulton은 American Cyanamid의 자회사가 되었고, 1990년 Procter & Gamble이 American Cyanamid로부터 Old Spice 브랜드를 인수했다. 향은 오렌지 등 시트러스 톱노트와 계피·정향의 미들노트, 바닐라·머스크의 베이스노트를 가진 앰버 계열로 분류된다. 병과 패키지 디자인은 식민지 시대 미국 약국 병과 범선 그림에서 영감을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Old Spice는 William Lightfoot Schultz가 1937년 설립한 비누 및 화장품 회사 Shulton Inc.에서 시작되었다. Schultz는 로스앤젤레스 Bullock's의 한 바이어로부터 식민지 시대 미국풍 가구의 인기를 전해 듣고, 화장품 라인에도 이러한 콘셉트를 적용하기로 했다. 향수는 어머니의 포푸리에서 영감을 받아 만들었으며, 1937년 여성용 향수 Early American Old Spice로 먼저 출시된 뒤 1938년 남성용 Old Spice가 뒤이어 나왔다. 1970년 Shulton은 American Cyanamid의 자회사가 되었고, 1990년 6월 Procter & Gamble이 American Cyanamid로부터 Old Spice 브랜드를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Old Spice의 대표 향은 오렌지·알스파이스·레몬 등의 톱노트, 계피·정향의 미들노트, 바닐라·머스크의 베이스노트로 구성된 앰버 계열 향이며, 2016년에는 규정 준수를 이유로 오리지널 애프터셰이브 향이 변경되었다. 제품군은 애프터셰이브, 데오도란트 및 땀 억제제, 샴푸, 바디워시, 면도크림, 비누 등으로 구성된다. 초기 병은 A.E. Hull Pottery Company가 만든 백색 도자기 재질이었고 범선 그림이 그려졌으며, 1940년대 중반 Wheaton Glass Company의 유리 용기로 바뀌었다. 1990년대 Procter & Gamble 인수 이후 범선 그림은 요트 로고로 바뀌고 병 색상도 회색에서 흰색으로, 이후 2008년에는 플라스틱과 붉은색 마개로 변경되었다. 부표 모양 병에 담긴 오리지널 향과 Pure Sport 향의 콜론·애프터셰이브도 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Old Spice는 현재 Procter & Gamble이 소유·제조하는 브랜드이다. 2019년 한 고객 리뷰에 대한 답변으로 오리지널 애프터셰이브 향이 2016년 규정 준수를 위해 변경되었다고 밝힌 바 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Old Spice는 범선 그림과 부표 모양 병 등 항해를 테마로 한 패키지 디자인으로 다른 남성용 그루밍 브랜드와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://oldspice.com/",
+  "entityLinks": {
+   "wikidata": "Q2325626",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2325626",
+    "https://en.wikipedia.org/wiki/Old_Spice"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2325626",
+   "country": "미국",
+   "inception": "1937",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Old Spice」 본문과 위키데이터 Q2325626 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

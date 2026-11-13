@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2146615",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "grisette",
+  "urlSlug": "grisette",
+  "name": "Grisette",
+  "nameKo": "",
+  "nameEn": "Grisette",
+  "definition": "Grisette는 프랑스와 벨기에 국경을 따라 이어진 광산 지역에서 유래한 맥주이다. 광부들이 주로 마신 저도수 맥주로, 가벼운 바디와 뚜렷한 신맛이 특징이다.",
+  "summary": "Grisette는 프랑스와 벨기에 국경을 따라 이어진 광산 지역에서 유래한 맥주이다. 광부들이 주로 마신 저도수 맥주로, 가벼운 바디와 뚜렷한 신맛이 특징이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스와 벨기에 국경 광산 지역에서 광부들이 마신 저도수 신맛 맥주라는 점에서, 농업 노동자들이 마신 saison, bière de garde와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Grisette는 프랑스와 벨기에 국경을 따라 이어진 광산 지역에서 유래한 맥주 양식이다. 이 지역의 다른 팜하우스 에일인 saison, bière de garde와 가까운 관계에 있다. 그러나 이들 맥주가 농업 노동자들 사이에서 널리 마셔진 것과 달리, 이 맥주는 주로 광부들이 마셨다. 알코올 도수가 낮고 바디가 가벼우며, 다른 팜하우스 에일과 닮은 뚜렷한 신맛이 있다. 이 신맛은 독일의 gose 맥주와도 어느 면에서 비슷하다. 2016년 기준으로 전통 방식으로 이 양식을 만드는 벨기에 양조장은 한 곳뿐이었고, 미국 크래프트 맥주 업계가 여러 변형을 만들기 시작했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Grisette는 프랑스와 벨기에 국경을 따라 이어진 광산 지역에서 유래했다. 이 지역의 팜하우스 에일인 saison, bière de garde와 가까운 관계에 있지만, 그 맥주들이 농업 노동자들 사이에서 널리 마셔진 것과 달리 이 맥주는 주로 광부들이 소비했다. 이름은 '작고 회색인 것'을 뜻한다. 이 이름은 현지의 회색 돌 이름에서 왔을 수도 있고, 현지 술집에서 맥주를 내던 여성들이 입은 회색 작업복에서 왔을 수도 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Grisette는 특정 회사의 제품이 아니라 하나의 맥주 양식이다. 알코올 도수가 낮고 바디가 가벼운 맥주이며, 다른 팜하우스 에일과 비슷한 뚜렷한 신맛을 지닌다. 이 신맛은 독일의 gose 맥주와도 어느 면에서 비슷하다. 미국 크래프트 맥주 업계에서는 역사적으로 연구한 레시피를 바탕으로 여러 종류의 변형을 만들고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 기준으로 전통 방식으로 grisette를 계속 만드는 벨기에 양조장은 한 곳뿐이었다. 반면 미국 크래프트 맥주 업계는 이 양식의 맥주를 여러 종류 생산하기 시작했다. 이들 양조장은 흔히 역사적으로 연구한 레시피를 바탕으로 작업한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스와 벨기에 국경 광산 지역에서 광부들이 마신 저도수 신맛 맥주라는 점에서, 농업 노동자들이 마신 saison, bière de garde와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2146615",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2146615",
+    "https://en.wikipedia.org/wiki/Grisette_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2146615",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Grisette (beer)」 본문과 위키데이터 Q2146615 팩트를 근거로 편집"
+ }
+}

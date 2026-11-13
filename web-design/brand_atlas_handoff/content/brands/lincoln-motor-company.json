@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q216796",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lincoln-motor-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lincoln-motor-company",
+  "urlSlug": "lincoln-motor-company",
+  "name": "링컨",
+  "nameKo": "링컨",
+  "nameEn": "Lincoln Motor Company",
+  "definition": "링컨(Lincoln Motor Company)은 미국 자동차 제조사 Ford Motor Company의 고급차 부문이다. 1917년 설립되었고 본사는 디어본에 있으며, 현재 고급 SUV와 크로스오버를 판매한다.",
+  "summary": "링컨(Lincoln Motor Company)은 미국 자동차 제조사 Ford Motor Company의 고급차 부문이다. 1917년 설립되었고 본사는 디어본에 있으며, 현재 고급 SUV와 크로스오버를 판매한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.283333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Ford Motor Company의 유일한 고급 브랜드로, 1917년 Henry M. Leland가 Abraham Lincoln의 이름을 따 세웠고 현재 SUV와 크로스오버만 판매하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "링컨은 미국에서 최고급 차량 브랜드 가운데 하나로 판매되며, General Motors의 Cadillac과 가깝게 경쟁하는 위치에 있다. 1940년 Lincoln Continental로 개인용 고급차 부문을 정착시키는 데 기여했다. 2021년형부터는 SUV와 크로스오버만 제공한다. 과거에는 리무진과 대여용 고급 차량도 만들었고, 일부는 미국 대통령의 공식 국빈용 리무진으로 쓰였다. 이 역할은 현재 크로스오버와 SUV 라인업이 맡고 있다. 2017년에는 전 세계에서 188,383대를 판매했다. 북미 밖에서는 중동(이란과 시리아 제외), 중국(홍콩과 마카오 제외), 대한민국에서 공식 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "링컨은 1917년 8월 Henry Leland와 아들 Wilfred가 설립했다. Leland는 Cadillac의 공동 창립자 중 한 명으로, 1909년 Cadillac을 General Motors에 매각한 뒤 임원으로 남았다가 전쟁 생산 문제로 GM 사장 William Durant와 갈등을 빚어 1917년 회사를 떠났다. 회사 이름은 처음으로 투표한 대통령(1864년)이 Abraham Lincoln이었다는 Leland의 말에 따라 그의 이름에서 땄다. 1920년 1월 26일 자동차 제조사로 재편되어 같은 해 9월 16일 첫 자동차 Lincoln Model L을 생산했으나, 1922년 파산 직전에 이르러 관리 절차에 들어갔고 같은 해 2월 4일 Henry Ford가 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 제품군은 고급 크로스오버와 스포츠유틸리티차량(SUV)으로 구성된다. 1940년의 Lincoln Continental은 개인용 고급차 부문을 정착시킨 모델로 꼽힌다. Continental은 처음에는 링컨 위에 놓인 별도 부문이었으나 1959년 링컨에 통합되었다. Continental 브랜드의 Mark 시리즈는 1969년부터 링컨을 통해 판매되었고 1986년 링컨 이름을 채택했다. 네 꼭짓점 별 엠블럼은 1956년 Continental Mark II 배지에서 유래했으며 현재 형태는 1980년에 도입되었다. 과거에는 승용차 기반의 리무진과 대여용 차량도 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "링컨은 1922년 2월 Ford에 인수되었으며 지금까지 Ford가 모회사이다. 2차 대전 이후 Ford는 Mercury와 묶어 Lincoln-Mercury 부문을 만들었고, 이는 2010년 Mercury가 폐지될 때까지 이어졌다. 2012년 말 원래 이름인 Lincoln Motor Company로 되돌아갔으며, Premier Automotive Group 매각과 Mercury 폐지 이후 Ford의 유일한 고급 브랜드로 남아 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Ford Motor Company의 유일한 고급 브랜드로, 1917년 Henry M. Leland가 Abraham Lincoln의 이름을 따 세웠고 현재 SUV와 크로스오버만 판매하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lincoln.com/",
+  "entityLinks": {
+   "wikidata": "Q216796",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q216796",
+    "https://ko.wikipedia.org/wiki/%EB%A7%81%EC%BB%A8_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Lincoln_Motor_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q216796",
+   "country": "미국",
+   "inception": "1917",
+   "headquarters": "디어본",
+   "founders": [
+    "Henry M. Leland"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Lincoln Motor Company」 본문과 위키데이터 Q216796 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

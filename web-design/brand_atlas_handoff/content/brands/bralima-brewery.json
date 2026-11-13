@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2923625",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bralima-brewery",
+  "urlSlug": "bralima-brewery",
+  "name": "Bralima Brewery",
+  "nameKo": "",
+  "nameEn": "Bralima Brewery",
+  "definition": "Bralima Brewery는 콩고 민주 공화국 킨샤사에 본사를 둔 맥주·청량음료 제조회사이다. 1923년 Brasserie de Léopoldville로 설립되어 중앙아프리카의 오래된 대표 산업 기업 중 하나로 꼽힌다.",
+  "summary": "Bralima Brewery는 콩고 민주 공화국 킨샤사에 본사를 둔 맥주·청량음료 제조회사이다. 1923년 Brasserie de Léopoldville로 설립되어 중앙아프리카의 오래된 대표 산업 기업 중 하나로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1923년 설립되어 Primus 라거를 앞세운 중앙아프리카의 대표 양조·음료 기업이며, 오랫동안 Heineken 계열이었다가 ELNA Holdings Ltd로 운영이 넘어갔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Bralima Brewery의 정식 명칭은 Brasseries, Limonaderies et Malteries이며 줄여서 Bralima라 부른다. 콩고 민주 공화국 킨샤사 바루무비의 Avenue du Drapeau에 본사를 둔 주식회사 형태의 양조 및 청량음료 기업이다. 맥주, 청량음료, 병입 생수, 얼음 블록 등 다양한 음료의 생산과 판매를 주된 사업으로 한다. 킨샤사, 부카부, 키산가니, 보마, 음반다카, 루붐바시에 여섯 개의 양조장을 운영하며 대표 제품은 라거 Primus이다. 콩고 민주 공화국에서 공식 부문의 대형 고용주로 꼽히며, 주요 경쟁사는 Bracongo이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1923년 10월 23일 레오폴드빌(현 킨샤사)에서 Brasserie de Léopoldville이라는 이름으로 설립되었다. 벨기에령 콩고의 벨기에 식민 지배자들이 경제 발전과 투자를 촉진하려는 목적으로 현지 양조업을 세웠고, Société Congolaise de Banque의 재정 지원을 받았다. 설립 직후 Brasserie, Limonaderie et Malterie로 이름을 바꾸었고, 1926년 12월 26일 첫 맥주 Primus를 내놓았다. 제2차 세계대전 이후 분권형 구조를 도입해 1950년 부카부를 시작으로 여러 지점을 세웠으며, 1973년에는 현대화 사업을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1926년에 처음 출시된 라거 Primus이다. 사업은 맥주, 청량음료, 병입 생수, 얼음 블록의 생산과 판매로 구성된다. 생산 거점은 킨샤사, 부카부, 키산가니, 보마, 음반다카, 루붐바시의 여섯 개 양조장이다. 1973년에는 Steinecker 스테인리스강 양조설비를 설치했고, 1986년 확장으로 발효 탱크 열두 기와 여과 시스템, 멸균수 처리 설비, 시간당 24,000병을 처리하는 라벨링 설비를 갖추었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1986년부터 Heineken N.V.가 최대 주주이자 전략적 모기업이었으나, 2026년 4월 10일 모리셔스 기반의 ELNA Holdings Ltd에 지분을 매각했고 ELNA Holdings Ltd가 운영을 넘겨받았다. 이에 앞선 2025년 11월 19일에는 Heineken N.V.가 부카부 양조장을 €1에 모리셔스 기반의 Synergy Ventures Holdings Ltd에 매각했다. 콩고 민주 공화국에서 공식 부문의 대형 고용주 중 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1923년 설립되어 Primus 라거를 앞세운 중앙아프리카의 대표 양조·음료 기업이며, 오랫동안 Heineken 계열이었다가 ELNA Holdings Ltd로 운영이 넘어갔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bralima.net/",
+  "entityLinks": {
+   "wikidata": "Q2923625",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2923625",
+    "https://en.wikipedia.org/wiki/Bralima"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2923625",
+   "country": "콩고 민주 공화국",
+   "inception": "1923",
+   "headquarters": "킨샤사",
+   "founders": [],
+   "parent": "하이네켄",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Bralima」 본문과 위키데이터 Q2923625 팩트를 근거로 편집"
+ }
+}

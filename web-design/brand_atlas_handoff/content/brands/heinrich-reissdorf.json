@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q151205",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "heinrich-reissdorf",
+  "urlSlug": "heinrich-reissdorf",
+  "name": "Heinrich Reissdorf",
+  "nameKo": "",
+  "nameEn": "Heinrich Reissdorf",
+  "definition": "Heinrich Reissdorf는 1894년 독일 쾰른에서 설립된 민간 양조장이다. 상면발효 맥주인 Reissdorf Kölsch를 생산하며, 쾰른의 네온 광고 간판으로도 잘 알려져 있다.",
+  "summary": "Heinrich Reissdorf는 1894년 독일 쾰른에서 설립된 민간 양조장이다. 상면발효 맥주인 Reissdorf Kölsch를 생산하며, 쾰른의 네온 광고 간판으로도 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "상면발효 맥주 Reissdorf Kölsch를 생산하는 쾰른의 민간 양조장으로, Aachener Straße의 움직이는 네온 간판으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 쾰른에 본사를 둔 민간 기업으로, 법인 형태는 GmbH & Co. KG이다. 상면발효 방식으로 만든 맥주인 Reissdorf Kölsch를 생산한다. 쾰른의 Aachener Straße에서는 1968년부터 움직이는 네온 간판으로 광고를 해 왔다. 이 간판에서는 남성이 Kölsch 잔을 90도 각도로 입에 가져가고, 잔이 비워지면 몸에 Kölsch가 차오르는 모습이 아래에서 위로 켜지는 네온 불빛으로 표현된다. 광고에는 남성과 여성의 모습이 번갈아 등장한다. 이 간판은 쾰른의 랜드마크이며 현재 보호 대상 건축물로 지정되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1894년 Heinrich Reissdorf가 쾰른에서 민간 양조장으로 설립했다. 회사의 정식 명칭은 Heinrich Reissdorf GmbH & Co. KG이다. 쾰른에서 상면발효 맥주인 Reissdorf Kölsch를 생산하는 양조장으로 운영되고 있다. 1968년부터는 쾰른 Aachener Straße에서 움직이는 네온 간판으로 광고를 이어 왔다. 간판은 남성이 잔을 입으로 가져가면 네온 불빛이 아래에서 위로 켜지는 방식으로 움직이며, 남성과 여성이 번갈아 나타난다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재도 민간 양조장으로 운영되며 상면발효 맥주인 Reissdorf Kölsch를 생산한다. 회사의 정식 명칭은 Heinrich Reissdorf GmbH & Co. KG이다. 쾰른 Aachener Straße의 네온 간판은 1968년부터 이어진 광고로, 지금은 쾰른의 랜드마크이자 보호 대상 건축물이다. 이 간판은 남성과 여성의 모습을 번갈아 보여 준다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "상면발효 맥주 Reissdorf Kölsch를 생산하는 쾰른의 민간 양조장으로, Aachener Straße의 움직이는 네온 간판으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.reissdorf.de/",
+  "entityLinks": {
+   "wikidata": "Q151205",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q151205",
+    "https://en.wikipedia.org/wiki/Heinrich_Reissdorf"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q151205",
+   "country": "독일",
+   "inception": "1894",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Heinrich Reissdorf」 본문과 위키데이터 Q151205 팩트를 근거로 편집"
+ }
+}

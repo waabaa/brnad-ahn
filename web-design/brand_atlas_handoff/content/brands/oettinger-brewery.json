@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q562552",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "oettinger-brewery",
+  "urlSlug": "oettinger-brewery",
+  "name": "외팅어",
+  "nameKo": "외팅어",
+  "nameEn": "Oettinger Brewery",
+  "definition": "외팅어(Oettinger Brewery)는 독일의 양조 그룹이다. 저렴한 가격으로 2004년부터 2013년까지 독일에서 가장 많이 팔린 맥주 브랜드였다.",
+  "summary": "외팅어(Oettinger Brewery)는 독일의 양조 그룹이다. 저렴한 가격으로 2004년부터 2013년까지 독일에서 가장 많이 팔린 맥주 브랜드였다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "광고와 중간 유통업자를 두지 않고 자동화된 양조로 가격을 낮춘 점이 특징이며, 펍보다 슈퍼마켓에서 병으로 주로 팔리는 독일 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "외팅어는 독일의 양조 그룹이다. 본사는 Oettingen in Bayern에 있고 Mönchengladbach와 Braunschweig에도 양조장이 있다. 2004년부터 2013년까지 독일에서 가장 많이 팔린 맥주 브랜드였다. 가격을 낮추기 위해 광고를 하지 않고, 중간 유통업자 없이 양조장 소유 트럭으로 매장에 직접 배송하며, 고도로 자동화된 양조 공정으로 적은 인원이 많은 양의 맥주를 만든다. 펍이나 바에서 생맥주로 보기는 드물고 대부분 병 제품으로 슈퍼마켓에서 판매된다. 호주에서는 Endeavour Group 주류 매장이 Oettinger Pils를 직접 수입해 판매한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키데이터에 따르면 외팅어의 설립 연도는 1333년이다. 'Fürstliche Brauhaus zu Oettingen'(Prince's brewhouse at Oettingen)은 1956년 Kollmar 가문이 사들여 'Oettinger Brauerei GmbH'로 이름을 바꿨다. Oettinger는 Braunschweig에서 '5,0 Original' 맥주를 생산하던, 같은 시장 구간의 경쟁 양조장을 인수했다. Oettinger Group은 자사 맥주가 Reinheitsgebot에 따라 양조된다고 주장한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "외팅어의 제품으로 근거에서 확인되는 것은 Oettinger Pils이다. 호주에서는 Endeavour Group 주류 매장이 이 제품을 직접 수입해 330 mL 병과 500 mL 캔으로 판매한다. 더 강한 버전으로 알코올 도수 8.9%의 'Oettinger super forte'도 나와 있다. Braunschweig에서 인수한 양조장은 '5,0 Original' 맥주를 생산하던 곳이다. 판매는 펍이나 바의 생맥주보다 슈퍼마켓의 병 제품이 중심이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 외팅어의 본사는 Oettingen in Bayern에 있으며, Mönchengladbach와 Braunschweig에도 양조장을 운영한다. Gotha 양조장은 2022년 말 폐쇄했다. 2006년부터 2018년까지는 Gotha에 기반을 둔 프로 농구 클럽 Rockets의 공식 스폰서였고, 이 팀은 독일 1부 리그인 Basketball Bundesliga에서 'Oettinger Rockets'라는 이름으로 뛰었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광고와 중간 유통업자를 두지 않고 자동화된 양조로 가격을 낮춘 점이 특징이며, 펍보다 슈퍼마켓에서 병으로 주로 팔리는 독일 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://oettinger1731.de/",
+  "entityLinks": {
+   "wikidata": "Q562552",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q562552",
+    "https://ko.wikipedia.org/wiki/%EC%99%B8%ED%8C%85%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Oettinger_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q562552",
+   "country": "독일",
+   "inception": "1333",
+   "headquarters": "Oettingen in Bayern",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Oettinger Brewery」 본문과 위키데이터 Q562552 팩트를 근거로 편집"
+ }
+}

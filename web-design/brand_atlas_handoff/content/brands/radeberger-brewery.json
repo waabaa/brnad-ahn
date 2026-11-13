@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q568797",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/radeberger-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "radeberger-brewery",
+  "urlSlug": "radeberger-brewery",
+  "name": "Radeberger Brewery",
+  "nameKo": "",
+  "nameEn": "Radeberger Brewery",
+  "definition": "Radeberger Brewery는 독일 Radeberg에 본사를 둔 맥주 양조장이다. 1872년 Zum Bergkeller라는 이름으로 설립되었고 Pilsner 스타일 맥주를 전문으로 양조한다.",
+  "summary": "Radeberger Brewery는 독일 Radeberg에 본사를 둔 맥주 양조장이다. 1872년 Zum Bergkeller라는 이름으로 설립되었고 Pilsner 스타일 맥주를 전문으로 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "독일 Radeberg에서 1872년 시작해 Pilsner 스타일만 양조하는 양조장으로, Bismarck가 'Kanzler-Bräu'로 격상한 맥주를 내놓는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 Radeberg에 본사를 둔 맥주 회사이며, Radeberg는 Dresden 인근의 도시이다. 1872년 Aktienbrauerei zum Bergkeller라는 이름의 주식회사 형태 양조장으로 출발했다. 대표 맥주는 Radeberger Pilsner이며, 독일에서 가장 많이 팔리는 맥주 가운데 9위로 소개된다. 1905년 미국과 캐나다로 수출을 시작했고 1954년에는 전 세계 수출을 시작했다. 1990년 Binding Brauerei가 인수했고, 2004년에는 Oetker Gruppe가 인수해 증시에서 제외하며 비상장 회사로 만들었다. TV 시리즈 Two and a Half Men의 등장인물 Charlie Harper가 즐겨 마시는 맥주로 나온 것은 양조장과의 협업에 따른 것이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1872년 Gustav Adolf Eduard Philipp가 8월 Max Rumpelt, Julius Schöne, Carl Hermann Rasche, Heinrich Eduard Minckwitz와 함께 Aktienbrauerei zum Bergkeller를 설립했다. 이 맥주는 한동안 작센 왕을 위해서도 양조되었다. 1885년 국경을 넘어 출하하기 시작하면서 Radeberger Exportbierbrauerei로 이름을 바꿨고, 1880년대 후반에는 연간 300,000 cases 규모에 이르렀다. 1887년 Otto von Bismarck가 Radeberger Pilsner를 'Kanzler-Bräu'로 격상했다. 1946년에는 동독 공산 정부가 양조장을 장악했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Pilsner 스타일 맥주인 Radeberger Pilsner이다. 이 양조장은 독일에서 처음으로 Pilsner 스타일만 양조했고 지금까지 남아 있는 양조장으로 소개된다. Radeberger Pilsner는 1887년 Otto von Bismarck에 의해 'Kanzler-Bräu'로 격상되었고, 1905년에는 작센 왕 Frederick Augustus III가 가장 좋아하는 술이 되었다. 호주 시장에서는 Wesfarmers를 위해 'Uberbrau'도 양조한다. 수출은 1905년 미국과 캐나다에서 시작해 1954년 전 세계로 확대되었고, 1994년 생산량은 1 million Hectoliter에 이르렀다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1990년 Binding Brauerei에 인수된 뒤 시설을 전면 개선했고, 2004년 Oetker Gruppe가 인수해 증시에서 제외하면서 비상장 회사가 되었다. 위키데이터상 모기업은 Binding-Brauerei이다. 독일에서 가장 많이 팔리는 맥주 가운데 9위에 올라 있다. 호주 시장에서는 Wesfarmers를 위해 'Uberbrau'를 양조한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 Radeberg에서 1872년 시작해 Pilsner 스타일만 양조하는 양조장으로, Bismarck가 'Kanzler-Bräu'로 격상한 맥주를 내놓는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.radeberger.de/",
+  "entityLinks": {
+   "wikidata": "Q568797",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q568797",
+    "https://en.wikipedia.org/wiki/Radeberger_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q568797",
+   "country": "독일",
+   "inception": "1872",
+   "headquarters": "Radeberg",
+   "founders": [],
+   "parent": "Binding-Brauerei",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Radeberger Brewery」 본문과 위키데이터 Q568797 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

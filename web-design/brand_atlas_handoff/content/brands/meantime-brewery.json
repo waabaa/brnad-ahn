@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q6804103",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/meantime-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "meantime-brewery",
+  "urlSlug": "meantime-brewery",
+  "name": "Meantime Brewery",
+  "nameKo": "",
+  "nameEn": "Meantime Brewery",
+  "definition": "Meantime Brewery는 영국 런던 그리니치에 본사를 두었던 맥주 양조 회사이다. 1999년 Alastair Hook이 설립했으며 Asahi Breweries가 소유한 브랜드이다.",
+  "summary": "Meantime Brewery는 영국 런던 그리니치에 본사를 두었던 맥주 양조 회사이다. 1999년 Alastair Hook이 설립했으며 Asahi Breweries가 소유한 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "그리니치에서 출발해 영국·유럽 전통 맥주 스타일에 집중한 런던의 양조장으로, 이후 Asahi Breweries 산하에서 운영되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 영국 런던 그리니치에 기반을 둔 맥주 양조 회사이며 Asahi Breweries가 소유했다. 라거, 페일 에일, 포터, 인디아 페일 에일 등 영국과 유럽의 전통 스타일에 초점을 맞춘 맥주를 만들었다. 정기적으로 구할 수 있는 맥주는 열두 종이었고, 해마다 달라지는 한정판 시즌 에일도 별도로 생산했다. 2015년에는 설립자 Alastair Hook이 All-Party Parliamentary Beer Group이 수여하는 Brewer of the Year에 선정되었다. 2024년 3월 Asahi가 그리니치 양조장 폐쇄를 발표했고, 생산은 Chiswick에 있는 Fuller's Brewery 부지로 옮겨졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1999년 Alastair Hook이 설립했다. Hook은 Heriot-Watt University와 Weihenstephan의 Technical University of Munich 양조 학교에서 교육을 받았다. 처음에는 Charlton Athletic 경기장 맞은편 산업단지의 작은 창고에서 양조를 시작했고, 이후 Greenwich Brewery로 옮겼다가 2010년 인근 Blackwall Lane의 부지로 이전했다. 2013년에는 50,000헥토리터를 생산했으며, 해마다 60%씩 성장해 2016년이면 생산 능력인 120,000헥토리터에 이를 것으로 예상했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "정기 생산 맥주는 열두 종이었고, 라거, 페일 에일, 포터, 인디아 페일 에일 같은 영국·유럽 전통 스타일이 중심이었다. 해마다 달라지는 한정판 시즌 에일도 함께 내놓았다. 2015년에는 Thomas Hardy's Ale 생산이 시작되었고, London Lager는 수요를 맞추기 위해 네덜란드의 Grolsch에서 일부 위탁 생산된 적이 있다. 2001년부터 그리니치의 Greenwich Union 펍을 운영했고, 2010년에는 Old Brewery Greenwich 브루펍을 열었다. 2015년 초에는 양조장 부지에 탭룸, 매장, 방문자 센터를 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 10월 Asahi Breweries에 매각되어 Asahi 산하에 있다. 2022년 12월 Asahi가 Sussex의 Dark Star 양조장을 닫은 뒤에는 Meantime이 Dark Star 맥주의 생산을 맡았다. 2024년 3월 Asahi가 그리니치 양조장 폐쇄를 발표했고, Meantime과 Dark Star 맥주 생산은 Chiswick의 Fuller's Brewery 부지로 이전되었다. 탭룸과 매장은 2024년 4월까지 문을 닫았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "그리니치에서 출발해 영국·유럽 전통 맥주 스타일에 집중한 런던의 양조장으로, 이후 Asahi Breweries 산하에서 운영되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.meantimebrewing.com/",
+  "entityLinks": {
+   "wikidata": "Q6804103",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6804103",
+    "https://en.wikipedia.org/wiki/Meantime_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6804103",
+   "country": "영국",
+   "inception": "2000",
+   "headquarters": "그리니치",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Meantime Brewery」 본문과 위키데이터 Q6804103 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q646458",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "gubernija",
+  "urlSlug": "gubernija",
+  "name": "Gubernija",
+  "nameKo": "",
+  "nameEn": "Gubernija",
+  "definition": "Gubernija는 리투아니아의 맥주 양조장이다. 1665년에 설립되어 리투아니아에서 가장 오래된 기업으로 꼽히며, 세계에서도 가장 오래된 기업 가운데 하나이다.",
+  "summary": "Gubernija는 리투아니아의 맥주 양조장이다. 1665년에 설립되어 리투아니아에서 가장 오래된 기업으로 꼽히며, 세계에서도 가장 오래된 기업 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "1665년에 설립된 리투아니아에서 가장 오래된 기업으로, 다른 리투아니아 양조장과 달리 자체 펍을 운영하는 맥주 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Gubernija는 리투아니아의 맥주 양조 기업이며 본사는 샤울랴이에 있다. 1665년에 설립되어 리투아니아에서 가장 오래된 기업이고, 세계에서 가장 오래된 기업 가운데 하나로 알려져 있다. 다른 리투아니아 양조장과 달리 Gubernija는 자체 펍을 운영한다. 1989년부터 2006년까지 의장은 Romualdas Dunauskas였고, 1999년 민영화를 거쳐 2006년 Vitas Tomkus가 인수했다. 2018년까지 NASDAQ OMX Vilnius 증권거래소의 보조 목록에 상장되어 있었으며, 그해 지주회사 MV Group이 인수했다. 제품으로는 페일 라거, 몰트 리커, 저알코올 맥주, 둥켈 보크, 라거 등 여러 종류의 맥주를 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리투아니아 샤울랴이에 본사를 둔 Gubernija는 1665년에 설립되었다. 리투아니아에서 가장 오래된 기업이며 세계에서 가장 오래된 기업 가운데 하나로 알려져 있다. 1989년부터 2006년까지 Romualdas Dunauskas가 의장을 맡았고, 1999년에 민영화되었다. 2006년에는 Vitas Tomkus가 회사를 인수했으며, 이후 2018년까지 NASDAQ OMX Vilnius 보조 목록에 상장되어 있다가 지주회사 MV Group에 매각되었다. 다른 리투아니아 양조장과 달리 자체 펍을 운영하는 점도 특징이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Gubernija의 주력 사업은 리투아니아에서 맥주를 양조하는 것이다. 제품 목록에는 페일 라거인 Ekstra, 몰트 리커인 Grand, 저알코올 맥주인 Ledukas가 포함되어 있다. Kunigaikščių는 둥켈 보크 계열 맥주이고, Žigulinis는 라거 계열 맥주이다. 이 밖에 Ledas와 Dvaro Mišas라는 이름의 제품도 목록에 올라 있으며, 양조 사업과 함께 자체 펍도 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년에 지주회사 MV Group이 Gubernija를 인수했고, 그때까지 NASDAQ OMX Vilnius 증권거래소의 보조 목록에 상장되어 있었다. 이에 앞서 2006년에는 Vitas Tomkus가 회사를 인수했다. 본사는 리투아니아 샤울랴이에 있으며, 1665년 설립 이후 리투아니아에서 가장 오래된 기업으로 소개된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1665년에 설립된 리투아니아에서 가장 오래된 기업으로, 다른 리투아니아 양조장과 달리 자체 펍을 운영하는 맥주 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://gubernija.lt/",
+  "entityLinks": {
+   "wikidata": "Q646458",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q646458",
+    "https://en.wikipedia.org/wiki/Gubernija"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q646458",
+   "country": "리투아니아",
+   "inception": "1665",
+   "headquarters": "샤울랴이",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Gubernija」 본문과 위키데이터 Q646458 팩트를 근거로 편집"
+ }
+}

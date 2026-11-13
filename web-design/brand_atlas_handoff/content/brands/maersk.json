@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q18224",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/maersk-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "maersk",
+  "urlSlug": "maersk",
+  "name": "A.P. 몰러-머스크 그룹",
+  "nameKo": "A.P. 몰러-머스크 그룹",
+  "nameEn": "Maersk",
+  "definition": "A.P. 몰러-머스크 그룹(Maersk)은 덴마크 코펜하겐에 본사를 둔 해운·물류 기업이다. 1904년 Arnold Peter Møller와 그의 아버지 Peter Mærsk Møller가 설립했다.",
+  "summary": "A.P. 몰러-머스크 그룹(Maersk)은 덴마크 코펜하겐에 본사를 둔 해운·물류 기업이다. 1904년 Arnold Peter Møller와 그의 아버지 Peter Mærsk Møller가 설립했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "하얀 일곱 꼭짓점 별과 'Maersk blue'로 알려진 옅은 파란 배경의 로고를 쓰는, Møller 가문이 지배하는 덴마크 해운·물류 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 해상 운송, 항만 운영, 공급망 관리, 창고 보관, 항공 화물을 사업 영역으로 하는 덴마크의 해운·물류 기업이다. 본사는 코펜하겐에 있으며, 2025년 기준 약 130개국에 자회사와 사무소를 두고 전 세계에서 100,000명이 넘는 직원이 일한다. 상장 기업이지만 Møller 가문이 지주회사를 통해 지배하는 가족 기업의 성격을 가진다. 2025년 연간 매출은 US$53.988 billion이었다. 2016년에는 석유·가스 관련 사업을 분리하고 컨테이너 물류에 집중하겠다는 전략을 발표했다. 가장 큰 사업 단위는 매출과 직원 수 기준으로 Maersk Line이며, 2021년 1월 기준 최대 컨테이너 선단으로 전 세계 TEU의 17%를 보유했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1904년 4월 Svendborg에서 선장 Peter Mærsk Møller와 그의 아들 Arnold Peter Møller가 Dampskibsselskabet Svendborg를 설립했다. 이는 덴마크어로 'Svendborg 증기선 회사'를 뜻한다. Arnold Peter Møller의 둘째 자녀 Mærsk Mc-Kinney Møller는 1939년 동업자가 되었고 아버지가 사망한 뒤 회사의 수장이 되었다. 1993년 Jess Søderberg가 CEO를 이어받았으며, Mærsk Mc-Kinney Møller는 2003년 12월까지 이사회 의장을 맡았고 이후 Michael Pram Rasmussen이 뒤를 이었다. 1912년에는 또 다른 회사인 The Steamship Company of 1912가 설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "가장 큰 사업 단위인 Maersk Line은 컨테이너 해운을 담당한다. 2013년 회사는 스스로를 세계 최대의 해외 화물 운송사로 설명했으며, 600척이 넘는 선박과 3.8 million TEU의 컨테이너 용량을 운영했다. 사업 활동에는 해상 운송, 항만 운영, 공급망 관리, 창고 보관, 항공 화물이 포함된다. 2023년 9월에는 메탄올을 연료로 쓰는 2,100 TEU급 피더선 Laura Mærsk를 공개했으며, 이 선박은 발트해에서 운항한다. 같은 해 6월에는 9,000 TEU급 중형 컨테이너선 6척의 추가 발주도 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Møller 가문이 지주회사를 통해 지배하는 상장 가족 기업이며, 모기업은 A.P. Møller Holding이다. 2016년 석유·가스 관련 사업 분리를 발표한 뒤 2017년 Maersk Tankers 다수 지분을 A.P. Moller Holding에 매각했고, 2018년 Maersk Oil을 TOTAL S.A.에 매각했으며, 2019년 4월 Maersk Drilling이 별도 상장사가 되었다. 2023년 11월에는 Goldwind와 연간 500KT의 바이오메탄올·e-메탄올 확보를 위한 협약을 맺었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하얀 일곱 꼭짓점 별과 'Maersk blue'로 알려진 옅은 파란 배경의 로고를 쓰는, Møller 가문이 지배하는 덴마크 해운·물류 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.maersk.com/",
+  "entityLinks": {
+   "wikidata": "Q18224",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18224",
+    "https://ko.wikipedia.org/wiki/A.P._%EB%AA%B0%EB%9F%AC-%EB%A8%B8%EC%8A%A4%ED%81%AC_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Maersk"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18224",
+   "country": "덴마크",
+   "inception": "1904",
+   "headquarters": "코펜하겐",
+   "founders": [
+    "Arnold Peter Møller"
+   ],
+   "parent": "A.P. Møller Holding",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Maersk」 본문과 위키데이터 Q18224 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

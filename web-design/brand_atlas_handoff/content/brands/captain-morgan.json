@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1035122",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "captain-morgan",
+  "urlSlug": "captain-morgan",
+  "name": "캡틴 모건",
+  "nameKo": "캡틴 모건",
+  "nameEn": "Captain Morgan",
+  "definition": "캡틴 모건(Captain Morgan)은 Diageo에서 생산하는 향미 럼주 브랜드이다. 17세기 캐리비안의 웨일스 사병 Henry Morgan 경의 이름을 따서 명명되었다.",
+  "summary": "캡틴 모건(Captain Morgan)은 Diageo에서 생산하는 향미 럼주 브랜드이다. 17세기 캐리비안의 웨일스 사병 Henry Morgan 경의 이름을 따서 명명되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Diageo가 생산하는 향미 럼주 브랜드로, 17세기 캐리비안의 웨일스 사병 Henry Morgan 경의 이름을 딴 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "캡틴 모건(Captain Morgan)은 영국 굴지의 주류 업체 Diageo에서 생산하는 향미 럼주 브랜드이다. 유럽에서는 일부 제품이 럼 향미의 '프리미엄 스피릿 드링크'로 이 브랜드에 포함된다. 브랜드 이름은 17세기 캐리비안의 웨일스 사병 Henry Morgan 경의 이름에서 따왔다. 부피 기준으로 미국에서 두 번째로 큰 증류주 브랜드였고, 2007년에는 전 세계에서 7번째로 큰 브랜드였다. 2007년에는 9리터 케이스 기준으로 760만 개가 판매되었다. 대부분의 럼은 아시아와 태평양, 유럽, 아메리카 등 전 세계 50여 개국에서 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 브랜드의 설립 연도는 1944년으로 기록되어 있으며, 이름은 17세기 캐리비안의 웨일스 사병 Henry Morgan 경에서 따왔다. 1984년 Captain Morgan Original Spiced Rum이 미국에 소개되었다. 2005년 4월 15일에는 Captain Morgan Tattoo Black Spiced Rum과 신비한 '달콤함' 피니시가 Captain Morgan Family에 새로 추가되었다. 부피 기준으로 미국에서 두 번째로 큰 증류주 브랜드로 성장했고, 2007년에는 전 세계에서 7번째로 큰 브랜드가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1984년 미국에 소개된 Captain Morgan Original Spiced Rum이 대표적인 스파이스드 럼 제품이다. 2005년에는 Captain Morgan Tattoo Black Spiced Rum이 Captain Morgan Family에 추가되었다. 2020년에는 Captain Morgan Tiki라는 신제품을 출시했는데, 파인애플 망고 맛 럼으로 영국, 호주, 체코, 독일에서 판매된다. 제품군은 향미 럼주이며, 유럽에서는 일부 럼 향미 '프리미엄 스피릿 드링크'도 포함되고 대부분의 럼은 전 세계 50여 개국에서 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 브랜드는 Diageo가 생산하며, 대부분의 럼이 전 세계 50여 개국에서 판매된다. 2010년에는 푸에르토리코와 미국령 버진 아일랜드가 세금 혜택을 둘러싸고 작전 이전 계획에 대해 논쟁을 벌였다. 2014년 Diageo Canada는 Heaven Hill Distilleries Inc를 상대로 트레이드 드레스 침해 소송을 제기해 2017년 승소했다. 2020년에는 Captain Morgan Tiki를 출시했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Diageo가 생산하는 향미 럼주 브랜드로, 17세기 캐리비안의 웨일스 사병 Henry Morgan 경의 이름을 딴 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.captainmorgan.com/",
+  "entityLinks": {
+   "wikidata": "Q1035122",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1035122",
+    "https://ko.wikipedia.org/wiki/%EC%BA%A1%ED%8B%B4_%EB%AA%A8%EA%B1%B4",
+    "https://en.wikipedia.org/wiki/Captain_Morgan"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1035122",
+   "country": null,
+   "inception": "1944",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「캡틴 모건」 요약과 위키데이터 Q1035122 팩트를 근거로 편집"
+ }
+}

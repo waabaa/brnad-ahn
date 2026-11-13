@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1368052",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "westvleteren-brewery",
+  "urlSlug": "westvleteren-brewery",
+  "name": "Westvleteren Brewery",
+  "nameKo": "",
+  "nameEn": "Westvleteren Brewery",
+  "definition": "Westvleteren Brewery는 벨기에 Vleteren의 성 식스투스 트라피스트 수도원에서 1838년에 설립된 양조장이다. 수도원의 운영과 자선 활동을 위해 세 가지 전통 트라피스트 맥주를 소량 양조한다.",
+  "summary": "Westvleteren Brewery는 벨기에 Vleteren의 성 식스투스 트라피스트 수도원에서 1838년에 설립된 양조장이다. 수도원의 운영과 자선 활동을 위해 세 가지 전통 트라피스트 맥주를 소량 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "수도사들이 '수도사로 살기 위해 맥주를 양조한다'고 밝히며, 생산량을 1946년 수준으로 유지하고 광고 없이 소량만 판매하는 트라피스트 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Westvleteren Brewery는 벨기에 Vleteren에 있는 성 식스투스 수도원의 트라피스트 양조장이다. 수도사들이 직접 맥주를 양조하며, 수익은 수도원의 운영과 자선 활동을 지원하는 데 쓰인다. 양조장은 정의상 사업이지만 순수한 이윤 동기로 존재하지 않으며 광고를 하지 않는다. 수도사들은 수도원을 운영할 만큼의 맥주만 양조하며 시장 수요에 맞춰 생산량을 늘리지 않겠다고 거듭 밝혀 왔다. 제2차 세계대전 중에 도매업자 공급을 중단했고, 이후 양조장과 방문자 센터 카페에서 개인 구매자에게만 판매한다. 현재 생산량은 연간 4750헥토리터(60,000 케이스)이며 1946년 이후 같은 수준이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "성 식스투스 수도원은 1831년 프랑스 Mont des Cats 수도원의 트라피스트 수도사들이 설립했다. 1838년에 수도원에서 소량의 맥주가 양조된 기록이 있으며, 1839년에는 국왕 Leopold I로부터 양조 면허를 받았다. 1850년에는 일부 수도사가 수도원을 떠나 Scourmont Abbey를 세웠고, 이곳은 Chimay라는 브랜드로 트라피스트 맥주를 양조한다. 1931년까지 맥주는 수도원 손님에게만 제공했고, 이후 일반 대중에게 판매했다. 1946년부터 1992년까지는 Watou의 St. Bernardus Brewery가 St. Sixtus 이름으로 맥주를 양조할 면허를 가졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "양조장은 세 가지 맥주를 만든다. Westvleteren Blonde(녹색 뚜껑)는 5.8% ABV의 페일 에일로 1999년 6월 10일에 출시했다. Westvleteren 8(파란 뚜껑)은 8% ABV의 두벨이고, Westvleteren 12(노란 뚜껑)는 10.2% ABV의 쿼드루펠로 1940년에 출시했다. 1999년까지는 6.2% ABV의 다크 맥주와 수도사의 식탁용 맥주인 4°도 생산했으나 Blonde로 대체했다. 8과 12는 병 속에서 숙성되며 보관 수명이 긴 것으로 여겨지고, 재료는 효모, 홉, 맥아, 캔디 슈거, 물이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "수도원에는 수도사 26명이 거주하며, 이 중 5명이 양조를 맡고 병입 때 5명이 추가로 돕는다. 양조 작업은 수도사들이 하고 소수의 일반 노동자가 수작업을 거든다. 맥주는 수도원 웹사이트에서 온라인으로 예약해야 하며, 2019년에 온라인 시스템이 'beerphone'을 대체했다. 판매는 번호판과 전화번호당 30일에 한 번으로 제한하며, 2022년 8월에 라벨을 도입했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수도사들이 '수도사로 살기 위해 맥주를 양조한다'고 밝히며, 생산량을 1946년 수준으로 유지하고 광고 없이 소량만 판매하는 트라피스트 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.trappistwestvleteren.be/en",
+  "entityLinks": {
+   "wikidata": "Q1368052",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1368052",
+    "https://en.wikipedia.org/wiki/Westvleteren_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1368052",
+   "country": "벨기에",
+   "inception": "1838",
+   "headquarters": "Vleteren",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Westvleteren Brewery」 본문과 위키데이터 Q1368052 팩트를 근거로 편집"
+ }
+}

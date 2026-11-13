@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5900483",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/brouwerij-de-prael-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "brouwerij-de-prael",
+  "urlSlug": "brouwerij-de-prael",
+  "name": "Brouwerij de Prael",
+  "nameKo": "",
+  "nameEn": "Brouwerij de Prael",
+  "definition": "Brouwerij de Prael은 네덜란드 암스테르담에 자리한 양조장이다. 다른 곳에서 일자리를 찾기 어려운 장애인을 고용하며, 맥주 이름에 네덜란드 민요 가수의 이름을 쓴다.",
+  "summary": "Brouwerij de Prael은 네덜란드 암스테르담에 자리한 양조장이다. 다른 곳에서 일자리를 찾기 어려운 장애인을 고용하며, 맥주 이름에 네덜란드 민요 가수의 이름을 쓴다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "장애인을 고용하는 방식을 네덜란드 양조장 가운데 처음 택했고, 맥주 이름을 네덜란드 민요 가수에서 따온 점이 이 양조장을 구분 짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 암스테르담 도심에 위치하며 CRAFT의 회원이다. 네덜란드식과 벨기에식 맥주뿐 아니라 쾰시 같은 독일식 맥주도 만들고, 계절 맥주도 내놓는다. 다른 업체를 대신해 맥주를 양조하기도 하며, 이런 업체를 집시 양조자(gypsy brewer)라 부른다. 양조장과 시음장에서는 다른 곳에서 일자리를 구하기 어려운 장애인을 고용해 사회적 기능을 수행한다. 2002년 네덜란드 양조장 중 처음으로 이 방식을 택했고, Zaanstad의 Brouwerij Breugem 같은 곳이 뒤따랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2002년 Arno Kooy와 Fer Kok이 암스테르담 도심 밖의 Schinkel 사업단지에 양조장을 세웠다. 처음 이름은 De Parel('진주')이었으나, Budelse Brouwerij가 이미 Parel이라는 맥주를 만들고 있어 이름을 바꿔야 했다. 그래서 철자 순서를 바꾼 말인 De Prael('화려함')을 골랐다. 2008년에는 Oudezijds Armsteeg로 옮겨 늘어난 수요에 맞춰 더 큰 양조 설비를 들였다. 2011년에는 현장에서 빚은 맥주를 맛볼 수 있는 시음장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주 종류가 비교적 많고 맛, 색, 알코올 도수가 다양하다. 네덜란드식과 벨기에식뿐 아니라 쾰시 같은 독일식 맥주도 만들며, 계절 맥주도 있다. 맥주 이름은 Johnny, Tante Leen, Willeke처럼 유명한 네덜란드 민요 가수에서 따왔다. 암스테르담 도심의 양조장 옆에 시음장이 있고 헤이그에도 지점이 있다. 시음장에서는 네덜란드어 음악도 많이 들을 수 있다. 다른 업체를 위한 위탁 양조도 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "양조장은 암스테르담 도심에 있고 바로 옆에 시음장이 있으며, 헤이그에도 지점이 있다. CRAFT의 회원이다. 양조장과 시음장은 다른 곳에서 일자리를 구하기 어려운 장애인을 고용한다. 맥주는 맛, 색, 알코올 도수가 다양하고 계절 맥주도 낸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "장애인을 고용하는 방식을 네덜란드 양조장 가운데 처음 택했고, 맥주 이름을 네덜란드 민요 가수에서 따온 점이 이 양조장을 구분 짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q5900483",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5900483",
+    "https://en.wikipedia.org/wiki/Brouwerij_de_Prael"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5900483",
+   "country": "네덜란드",
+   "inception": null,
+   "headquarters": "암스테르담",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brouwerij de Prael」 본문과 위키데이터 Q5900483 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

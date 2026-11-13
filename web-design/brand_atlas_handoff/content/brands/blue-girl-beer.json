@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q7211620",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "blue-girl-beer",
+  "urlSlug": "blue-girl-beer",
+  "name": "블루걸 맥주",
+  "nameKo": "블루걸 맥주",
+  "nameEn": "Blue Girl Beer",
+  "definition": "블루걸 맥주(Blue Girl Beer)는 19세기에 시작된 맥주 브랜드이다. 중국어 이름은 藍妹啤酒이며, 홍콩에서 인기 있는 맥주 중 하나이고 현재는 한국에서 양조된다.",
+  "summary": "블루걸 맥주(Blue Girl Beer)는 19세기에 시작된 맥주 브랜드이다. 중국어 이름은 藍妹啤酒이며, 홍콩에서 인기 있는 맥주 중 하나이고 현재는 한국에서 양조된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "브레멘에서 처음 양조되어 1906년 홍콩에 들어온 뒤 홍콩 맥주 시장에서 20%의 점유율을 보이며, 현재는 한국에서 양조되는 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "블루걸 맥주는 19세기에 시작된 맥주 브랜드이며 중국어 이름은 藍妹啤酒이다. 이 맥주는 19세기에 브레멘에서 처음 양조되었다. 1906년에는 Jebsen & Co.가 이 브랜드를 인수해 홍콩에 들여왔다. 홍콩에서는 인기 있는 맥주 중 하나로 꼽히며 홍콩 맥주 시장에서 20%의 점유율을 보이고, 2012년 9월에는 홍콩 전체 맥주 시장의 약 22.4%를 생산했다. 이 맥주의 주요 원료는 물, 맥아, 홉, 효모, 부원료이다. 현재 이 맥주는 처음 양조된 브레멘이 아닌 한국에서 양조되고 있으며, 이 맥주가 홍콩에 도입된 해는 1906년이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "블루걸 맥주는 19세기에 브레멘에서 처음 양조되었으며 중국어 이름은 藍妹啤酒이다. 1906년 Jebsen & Co.가 이 브랜드를 인수하면서 맥주가 홍콩에 소개되었다. 이후 홍콩에서 인기를 얻어 홍콩 맥주 시장에서 20%의 점유율을 차지하는 브랜드가 되었다. 2012년 9월에는 홍콩 전체 맥주 시장의 약 22.4%를 생산했다. 19세기 브레멘에서 시작된 이 브랜드가 홍콩과 인연을 맺은 것은 1906년 Jebsen & Co.가 브랜드를 인수한 일에서 비롯되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "블루걸 맥주는 현재 한국에서 양조되고 있다. 홍콩에서는 인기 있는 맥주 중 하나로 꼽히며 홍콩 맥주 시장에서 20%의 점유율을 보인다. 2012년 9월에는 홍콩 전체 맥주 시장의 약 22.4%를 생산했다. 이 맥주의 주원료는 물, 맥아, 홉, 효모, 부원료이다. 중국어 이름은 藍妹啤酒이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "브레멘에서 처음 양조되어 1906년 홍콩에 들어온 뒤 홍콩 맥주 시장에서 20%의 점유율을 보이며, 현재는 한국에서 양조되는 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q7211620",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7211620",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A3%A8%EA%B1%B8_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Blue_Girl_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7211620",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Blue Girl Beer」 본문과 위키데이터 Q7211620 팩트를 근거로 편집"
+ }
+}

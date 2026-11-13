@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1143305",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/sumol-compal-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sumol-compal",
+  "urlSlug": "sumol-compal",
+  "name": "Sumol Compal",
+  "nameKo": "",
+  "nameEn": "Sumol Compal",
+  "definition": "Sumol Compal은 청량음료 생산과 병입을 전문으로 하는 포르투갈의 식음료 기업이다. 음료 제조·마케팅·유통을 주된 사업으로 하며 Sumol과 Compal 브랜드를 보유한다.",
+  "summary": "Sumol Compal은 청량음료 생산과 병입을 전문으로 하는 포르투갈의 식음료 기업이다. 음료 제조·마케팅·유통을 주된 사업으로 하며 Sumol과 Compal 브랜드를 보유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "청량음료 Sumol과 주스 Compal이라는 포르투갈의 두 음료 기업이 합쳐져 탄생했고, 자체 브랜드와 PepsiCo 등 유통 브랜드를 함께 다루는 음료 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "포르투갈의 식음료 기업으로, 청량음료 생산과 병입을 전문으로 한다. 주요 활동은 청량음료, 주스, 과즙 음료, 생수, 맥주와 관련 제품의 제조, 마케팅, 병입, 판매, 수출, 유통이다. 플라스틱 병과 유리병 제조 분야에서도 사업을 운영한다. 보유 브랜드로는 Sumol, Compal, Sucol, Tagus, Frize, Um Bongo, Água Serra da Estrela가 있다. 사업은 5개 대륙에 걸쳐 이루어지며, 본사는 오에이라스의 Carnaxide에 있다. 공장은 Almeirim, Gouveia, Pombal, Vila Flor와 모잠비크의 Boane에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Sumol은 1945년 Refrigor라는 이름으로 설립되었고, Compal은 1952년에 설립되었다. 두 회사는 포르투갈에서 오랜 역사와 전국적으로 인지도 높은 브랜드를 가진 대표적인 기업이었다. 이 두 기업의 합병으로 지금의 회사가 출범했다. 2012년 3월 포르투갈 검찰은 주주 중 하나인 Caixa Geral de Depósitos의 임원들도 연루된 세금 사기 사건의 일환으로 이 합병을 조사했다. 회사의 전직 CEO 중에는 포르투갈 국회의원을 지낸 António Pires de Lima와 João Cotrim Figueiredo가 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "청량음료로는 Sumol Orange, Sumol Pineapple, Sumol Passion Fruit, Sumol Mango, Sumol Zero, B!, Blendz가 있다. 주스와 과즙 음료로는 Compal Clássico, Compal Light, Compal Fresh, Compal Vital, Essential Compal, Um Bongo, Compal 100%가 있다. 물 부문에는 생수 Água Serra da Estrela와 탄산 미네랄워터 Frize가 있다. 통조림 채소와 토마토 제품으로는 Compal da Horta가 있다. 유통 브랜드로는 Lipton Ice Tea, 포르투갈 독점 라이선스로 취급하는 PepsiCo 청량음료 제품, 스페인 맥주 Estrella Damm이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 11월 프랑스 Castel Group 소속이며 앙골라 Cuca 맥주의 주주인 Copagef가 Sumol+Compal Marcas 지분 49.9%를 인수했다고 언론에 보도되었다. 본사는 오에이라스의 Carnaxide에 있으며 5개 대륙에서 사업을 운영한다. 사업 범위에는 음료 제조·유통과 함께 플라스틱·유리병 제조가 포함된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "청량음료 Sumol과 주스 Compal이라는 포르투갈의 두 음료 기업이 합쳐져 탄생했고, 자체 브랜드와 PepsiCo 등 유통 브랜드를 함께 다루는 음료 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://sumolcompal.pt/",
+  "entityLinks": {
+   "wikidata": "Q1143305",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1143305",
+    "https://en.wikipedia.org/wiki/Sumol_%2B_Compal"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1143305",
+   "country": "포르투갈",
+   "inception": "2009",
+   "headquarters": "오에이라스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Sumol + Compal」 본문과 위키데이터 Q1143305 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

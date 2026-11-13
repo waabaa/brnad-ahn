@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2509884",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "van-steenberghe-brewery",
+  "urlSlug": "van-steenberghe-brewery",
+  "name": "Van Steenberghe brewery",
+  "nameKo": "",
+  "nameEn": "Van Steenberghe brewery",
+  "definition": "Van Steenberghe brewery는 벨기에 동플랑드르의 Ertvelde에 있는 양조장이다. Augustijn, Gulden Draak, Piraat 등 여러 맥주 브랜드를 보유하고 있다.",
+  "summary": "Van Steenberghe brewery는 벨기에 동플랑드르의 Ertvelde에 있는 양조장이다. Augustijn, Gulden Draak, Piraat 등 여러 맥주 브랜드를 보유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "여섯 세대의 양조업자가 1784년부터 운영해 왔다고 전해지며, Gulden Draak과 Piraat처럼 도수 10.5% 이상의 제품을 포함한 라인업을 갖춘 벨기에 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 벨기에 동플랑드르의 Ertvelde에 본사를 둔다. 여섯 세대에 걸친 양조업자들이 1784년부터 운영해 왔다. 맥주는 Augustijn, Baptist, Bornem, Gulden Draak, Monk's, Piraat 등 여러 계열로 나뉜다. 알코올 도수는 4.8%의 Export 1784부터 11.0%의 Gulden Draak Imperial Blond까지 폭이 넓다. Baptist 계열에는 Blonde, IPA, Red, Saison, White가 있다. Celis White, Fourchette, Leute Bokbier 등도 생산 목록에 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 벨기에 Ertvelde에 본사를 두고 있으며, 위키데이터에는 설립 연도가 1789년으로 기록되어 있다. 영문 위키백과는 여섯 세대에 걸친 양조업자들이 1784년부터 이 양조장을 운영해 왔다고 설명하며, 두 자료가 제시하는 연도에는 차이가 있다. 소재지인 Ertvelde는 벨기에 동플랑드르에 속한다. 이후 이 양조장은 Augustijn, Gulden Draak, Piraat 등 여러 맥주 계열을 갖추게 되었다. 창업자와 성장 과정에 관한 구체적인 사항은 제공된 근거에서 확인되지 않는다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주 계열로 Augustijn, Baptist, Bornem, Gulden Draak, Monk's, Piraat 등이 있다. Augustijn은 Blonde(7.0%), Dark(8.0%), Grand Cru(9.0%)로 나뉜다. Gulden Draak은 네덜란드어로 Gilded Dragon을 뜻하며 Classic(10.5%), Blonde(8.0%), Red(8.0%), Imperial Blond(11.0%) 등이 있다. Piraat은 Piraat(10.5%), Piraat 7(7.0%), Piraat Red(10.5%), Piraat Triple Hop(10.5%)로 구성된다. 이 밖에 Celis White, Export 1784(4.8%), Fourchette, Gentse Tripel(8.0%), Leute Bokbier, Principale Bruin이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여섯 세대의 양조업자가 1784년부터 운영해 왔다고 전해지며, Gulden Draak과 Piraat처럼 도수 10.5% 이상의 제품을 포함한 라인업을 갖춘 벨기에 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vansteenberge.com/",
+  "entityLinks": {
+   "wikidata": "Q2509884",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2509884",
+    "https://en.wikipedia.org/wiki/Brouwerij_Van_Steenberge"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2509884",
+   "country": "벨기에",
+   "inception": "1789",
+   "headquarters": "Ertvelde",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Brouwerij Van Steenberge」 본문과 위키데이터 Q2509884 팩트를 근거로 편집"
+ }
+}

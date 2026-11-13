@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q173150",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/pratt-whitney-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pratt-whitney",
+  "urlSlug": "pratt-whitney",
+  "name": "프랫 & 휘트니",
+  "nameKo": "프랫 & 휘트니",
+  "nameEn": "Pratt & Whitney",
+  "definition": "프랫 & 휘트니(Pratt & Whitney)는 미국의 항공기 엔진 제작회사이다. 항공기 엔진 외에 산업·발전용 가스 터빈, 선박용 터빈, 로켓 엔진도 제작하며 본사는 이스트하트퍼드에 있다.",
+  "summary": "프랫 & 휘트니(Pratt & Whitney)는 미국의 항공기 엔진 제작회사이다. 항공기 엔진 외에 산업·발전용 가스 터빈, 선박용 터빈, 로켓 엔진도 제작하며 본사는 이스트하트퍼드에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "항공기 엔진뿐 아니라 가스 터빈, 선박용 터빈, 로켓 엔진까지 제작하며, GE·롤스로이스 plc에 이어 세계 3위에 해당하는 엔진 제작사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "프랫 & 휘트니는 항공기 엔진을 중심으로 사업을 하는 미국 회사이다. 항공기 엔진 제작 업체로는 GE, 롤스로이스 plc에 이어 세계 3위에 해당한다. 항공기 엔진뿐만 아니라 산업·발전용 가스 터빈, 선박용 터빈, 로켓 엔진 등을 제작한다. 민간 항공기용과 군용 항공기용 엔진을 모두 갖추고 있으며, 캐나다에서 제작하는 엔진 계열은 따로 구분된다. 민간용 엔진은 JT9D의 개량형인 PW4000 계열 이후 신형 광동체용 엔진이 나오지 않아 대체로 협동체용으로 제작되어 있다. 본사는 이스트하트퍼드에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "프랫 & 휘트니는 1925년 미국에서 설립되었다. 창업자는 Frederick Rentschler이다. 본사는 이스트하트퍼드에 두었다. 모기업은 United Aircraft and Transport Corporation이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "민간 항공기 엔진으로 JT3D/TF33, JT4A, JT8D, JT9D, JT12/J60, PW1000, PW2000/F117, PW4000, PW6000, V2500 등을 제작했다. GP7200은 엔진 얼라이언스 제품으로 분류된다. 군용 항공기 엔진에는 J42, J48, J52, J57, J58, J75, TF30, F100, F119, F135, PW1120이 있다. 프랫 & 휘트니 캐나다 제작 엔진으로는 JT15D, PT6A/B/C, PT6T, PW100, PW200, PW300, PW500, PW600, PW800, PW900이 있다. 이 밖에 산업·발전용 가스 터빈, 선박용 터빈, 로켓 엔진도 제작한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "항공기 엔진 제작 업체로는 GE, 롤스로이스 plc에 이어 세계 3위에 해당한다. 신형 광동체용 엔진은 PW4000 계열 이후 나오지 않아 대체로 협동체용 엔진으로 제작되어 있다. A350 개량형 기체에 이 회사 엔진이 들어가면 대한항공, 에바 항공, 아메리칸 항공, 전일본공수 등 일부 항공사가 새로운 오더로 합류할 가능성이 높을 것으로 예상된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "항공기 엔진뿐 아니라 가스 터빈, 선박용 터빈, 로켓 엔진까지 제작하며, GE·롤스로이스 plc에 이어 세계 3위에 해당하는 엔진 제작사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.prattwhitney.com",
+  "entityLinks": {
+   "wikidata": "Q173150",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173150",
+    "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%AB_%26_%ED%9C%98%ED%8A%B8%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Pratt_%26_Whitney"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q173150",
+   "country": "미국",
+   "inception": "1925",
+   "headquarters": "이스트하트퍼드",
+   "founders": [
+    "Frederick Rentschler"
+   ],
+   "parent": "United Aircraft and Transport Corporation",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「프랫 & 휘트니」 요약과 위키데이터 Q173150 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

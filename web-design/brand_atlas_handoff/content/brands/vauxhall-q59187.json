@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q59187",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vauxhall-q59187-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vauxhall-q59187",
+  "urlSlug": "vauxhall-q59187",
+  "name": "복스홀 자동차",
+  "nameKo": "복스홀 자동차",
+  "nameEn": "Vauxhall",
+  "definition": "복스홀 자동차(Vauxhall)는 1857년 설립된 영국의 자동차 회사이다. Vauxhall 브랜드로 승용차와 전기차, 소형 상용차를 영국 전역에서 판매하며, 현재 Stellantis 계열에 속해 있다.",
+  "summary": "복스홀 자동차(Vauxhall)는 1857년 설립된 영국의 자동차 회사이다. Vauxhall 브랜드로 승용차와 전기차, 소형 상용차를 영국 전역에서 판매하며, 현재 Stellantis 계열에 속해 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "General Motors에 인수되기 전에는 고급 자동차 브랜드였으나 이후 중간 시장을 거쳐 대공황 이후 점차 대중 시장 브랜드가 되었다. 현재는 영국에서만 판매되는 마크이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "복스홀은 영국에서 승용차와 전기차, 경상용차를 Vauxhall 마크로 판매하는 자동차 회사이다. 과거에는 Bedford 브랜드로 밴, 버스, 트럭도 판매했다. 1980년 이후 복스홀 차량은 대체로 Opel 차량과 동일해졌으며, 대부분의 모델은 독일 Rüsselsheim am Main에서 주로 설계된다. 1980년대 초에는 영국을 제외한 모든 지역에서 Vauxhall 마크의 판매가 중단되었다. 현재 Ellesmere Port에는 가동 중인 상용차 생산 시설이 하나 있으며, Stellantis의 유럽 다른 공장에서도 Vauxhall 차량이 생산된다. Luton의 IBC Vehicles 공장도 운영했으나 2025년 4월 문을 닫았다. 2021년 1월 Stellantis가 출범한 이후 그 소유 아래에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스코틀랜드 출신 해양 엔지니어 Alexander Wilson이 1857년 런던 Wandsworth Road 90–92에서 Alex Wilson and Company로 설립했으며, 펌프와 선박 엔진을 만들었다. 1863년 Andrew Betts Brown이 회사를 인수해 이동식 크레인을 생산하기 시작했고, 이름을 \"Vauxhall Iron Works\"로 바꾸었다. 1903년 첫 자동차를 만들었는데, 5마력 단기통 모델이었다. 1905년 생산 대부분을 Luton으로 옮겼고, 1907년 'Vauxhall Motors'라는 현재의 이름을 채택했다. 1925년 General Motors에 인수되었으며, 1930년 상용차 제조를 위해 Bedford Vehicles가 자회사로 설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "복스홀은 현재 승용차와 전기차, 경상용차를 Vauxhall 마크로 판매한다. 과거에는 Bedford 브랜드로 밴, 버스, 트럭을 판매했다. 1908년 Laurence Pomeroy가 설계한 Y-Type이 RAC and Scottish 2000 Mile Reliability Trials에서 성과를 내자 A09로 양산이 결정되었고, 이것이 Vauxhall A-Type이 되었다. A-Type은 최대 100 mph까지 낼 수 있는 3리터급 차로 당대에 높은 평가를 받았다. 상용차는 Ellesmere Port 공장에서 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "복스홀은 2017년 PSA Group의 일부가 되었고, 2021년 1월 Stellantis가 출범한 이후 Stellantis 소유이다. 그 이전에는 1925년부터 General Motors가 독일 Opel의 직접 자회사 형태로 소유했다. 2012년 Ellesmere Port 공장의 직원은 약 1,880명이었다. Luton의 IBC Vehicles 공장은 2025년 4월 문을 닫았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "General Motors에 인수되기 전에는 고급 자동차 브랜드였으나 이후 중간 시장을 거쳐 대공황 이후 점차 대중 시장 브랜드가 되었다. 현재는 영국에서만 판매되는 마크이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vauxhall.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q59187",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q59187",
+    "https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%8A%A4%ED%99%80_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Vauxhall_Motors"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q59187",
+   "country": "영국",
+   "inception": "1857",
+   "headquarters": "루턴",
+   "founders": [],
+   "parent": "그루프 PSA",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Vauxhall Motors」 본문과 위키데이터 Q59187 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

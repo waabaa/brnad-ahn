@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1143917",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/meizu-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "meizu",
+  "urlSlug": "meizu",
+  "name": "메이주",
+  "nameKo": "메이주",
+  "nameEn": "Meizu",
+  "definition": "메이주(Meizu)는 2003년 잭 웡이 설립한 중화인민공화국의 전자제품 제조·판매 회사이다. 본사는 주하이시에 있으며 MP3 플레이어 제조업체에서 출발해 휴대전화를 출시했다.",
+  "summary": "메이주(Meizu)는 2003년 잭 웡이 설립한 중화인민공화국의 전자제품 제조·판매 회사이다. 본사는 주하이시에 있으며 MP3 플레이어 제조업체에서 출발해 휴대전화를 출시했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "MP3 플레이어 제조업체로 출발해, 안드로이드를 커스텀한 Flyme OS를 갖춘 스마트폰 MX를 내놓은 중국의 전자제품 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메이주(Meizu)는 중화인민공화국의 전자제품 제조 및 판매 회사로, MP3 플레이어 제조에서 출발해 휴대전화로 제품군을 넓혔다. 정식 명칭은 메이주 테크놀로지 주식회사(중국어 魅族科技有限公司)이며 본사는 주하이시에 있다. 2003년 잭 웡이 회사를 설립했으며, 2006년에는 자사의 첫 MP4 플레이어를 출시했다. 2007년 3월 M6 미니플레이어와 M3 뮤직 카드를 내놓았고, 휴대전화로는 M8 미니원, M9, MX, MX2, MX3 등을 출시했다. 2012년 1월 1일 출시된 MX는 안드로이드를 상당히 커스텀한 Flyme OS를 갖춘 메이주 최초의 스마트폰이다. 이 모델은 중국 밖에서 공식 출시된 최초의 메이주 전화이기도 하며 홍콩에도 동시에 출시되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "메이주는 2003년 잭 웡(황장)이 중화인민공화국에서 설립한 전자제품 회사이며, 본사는 주하이시에 있다. 설립 초기의 메이주는 MP3 플레이어를 만드는 제조업체였다. 2006년에는 자사의 첫 MP4 플레이어를 출시했고, 당시 최신 MP4 플레이어였던 M6 미니 플레이어는 중국 외 지역에서 Dane-Elec가 마케팅했다. 2007년 3월에는 M6 미니플레이어와 M3 뮤직 카드를 시장에 내놓았다. 이후 M8 미니원, M9, MX, MX2, MX3 등의 휴대전화를 차례로 출시하며 MP3·MP4 플레이어 중심이던 제품 영역을 휴대전화로 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "메이주의 제품은 MP3·MP4 플레이어와 휴대전화로 구성된다. 플레이어 제품으로는 2007년 3월 내놓은 M6 미니플레이어와 M3 뮤직 카드가 있으며, M6 미니 플레이어는 중국 외 지역에서 Dane-Elec가 마케팅했다. 휴대전화로는 M8 미니원, M9, MX, MX2, MX3 등의 모델을 출시했다. MX는 M9이 출시된 지 정확히 1년 뒤인 2012년 1월 1일 출시되었으며, 안드로이드를 상당히 커스텀한 버전인 Flyme OS를 처음으로 갖춘 스마트폰이다. MX는 중국 밖에서 공식 출시된 최초의 메이주 전화로 홍콩에도 동시에 출시되었으며, 쿼드 코어 버전은 2012년 6월에 출시되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "MP3 플레이어 제조업체로 출발해, 안드로이드를 커스텀한 Flyme OS를 갖춘 스마트폰 MX를 내놓은 중국의 전자제품 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.meizu.com/",
+  "entityLinks": {
+   "wikidata": "Q1143917",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1143917",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Meizu"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1143917",
+   "country": "중화인민공화국",
+   "inception": "2003",
+   "headquarters": "주하이시",
+   "founders": [
+    "Jack Wong"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「메이주」 요약과 위키데이터 Q1143917 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q880118",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "neuzeller-kloster-brewery",
+  "urlSlug": "neuzeller-kloster-brewery",
+  "name": "Neuzeller Kloster Brewery",
+  "nameKo": "",
+  "nameEn": "Neuzeller Kloster Brewery",
+  "definition": "Neuzeller Kloster Brewery는 독일 노이젤래에 있는 양조장이다. Neuzelle Abbey 부지에 자리하며 \"Anti-Aging-Bier\"로 가장 잘 알려져 있다.",
+  "summary": "Neuzeller Kloster Brewery는 독일 노이젤래에 있는 양조장이다. Neuzelle Abbey 부지에 자리하며 \"Anti-Aging-Bier\"로 가장 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "Neuzelle Abbey 부지에서 400년이 넘게 맥주를 만들어 온 양조장으로, 스피룰리나와 플라보노이드를 넣은 항노화 맥주와 맥주 순수령을 둘러싼 법적 분쟁으로 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 노이젤래에 있으며 Neuzeller Klosterbräu라는 이름으로도 불린다. 12세기 가톨릭 수도원인 Neuzelle Abbey의 부지에 자리하고 있으며, 400년이 넘는 기간 상업적으로 맥주를 생산해 왔다. Schwarzbier, Pilsner, Bock, 체리 맥주, 에너지 맥주, 목욕용으로 개발한 맥주 등 다양한 제품을 만든다. 스피룰리나와 플라보노이드를 더한 \"Anti-Aging-Bier\"로 가장 잘 알려져 있다. 독일 맥주 양조업자 협회(German Beer Brewers' Association)는 맥주 순수령의 원래 원료와 내용물이 다르다는 이유로 이 음료들을 맥주로 부르는 데 전적으로 동의하지 않는다. 2023년에는 분말 맥주 출시를 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Helmut Fritsche는 1992년 Neuzeller 양조장을 인수했다. 이 양조장은 12세기에 세워진 가톨릭 수도원 Neuzelle Abbey 부지에 있으며 400년이 넘는 기간 상업적으로 맥주를 생산해 왔다. 동독 시절에도 설탕 시럽을 넣은 흑맥주를 만들었으며, 이는 동독의 관대한 양조 법규에서 허용되던 방식이었다. \"Anti-Aging-Bier\"는 2004년 2월에 처음 시장에 내놓았다. 2004년에는 맥주 순수령 위반을 이유로 Schwarzer Abt의 생산 중단 명령을 받았으나, 2005년 독일 법원이 양조장의 이의를 받아들여 10년에 걸친 법적 분쟁이 끝났다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 \"Anti-Aging-Bier\"이다. 맥주의 기본 원료 네 가지에 스피룰리나와 플라보노이드를 더해 건강과 장수를 높인다고 여겨지며, 다른 맥주의 두 배에 달하는 항산화 효과를 내세운다. 이 밖에 지역에서 성공을 거둔 Schwarzbier를 비롯해 Pilsner, Bock, 체리 맥주, 에너지 맥주, 목욕용으로 개발한 맥주를 생산한다. 설탕 시럽을 넣은 흑맥주 Schwarzer Abt도 만들며, Potsdamer를 만드는 데 쓰는 베리 맛 소다도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 1992년 Helmut Fritsche가 인수한 이후 노이젤래의 Neuzelle Abbey 부지에서 맥주를 생산한다. 2023년에는 기존 맥주 제품군에 더해 분말 맥주를 출시하겠다고 발표했다. 2005년 법원 판결에 따라 Schwarzer Abt에 설탕 시럽을 넣고 맥주로 표기하는 것이 허용된 상태이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Neuzelle Abbey 부지에서 400년이 넘게 맥주를 만들어 온 양조장으로, 스피룰리나와 플라보노이드를 넣은 항노화 맥주와 맥주 순수령을 둘러싼 법적 분쟁으로 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.klosterbrauerei.com/page.php",
+  "entityLinks": {
+   "wikidata": "Q880118",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q880118",
+    "https://en.wikipedia.org/wiki/Neuzeller_Kloster_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q880118",
+   "country": "동독",
+   "inception": null,
+   "headquarters": "노이젤래",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Neuzeller Kloster Brewery」 본문과 위키데이터 Q880118 팩트를 근거로 편집"
+ }
+}

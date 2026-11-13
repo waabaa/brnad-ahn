@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q3500302",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "always",
+  "urlSlug": "always",
+  "name": "Always",
+  "nameKo": "",
+  "nameEn": "Always",
+  "definition": "Always는 생리대, 팬티라이너, 야간용 일회용 속옷, 질 세정 티슈 등을 판매하는 미국의 여성 위생용품 브랜드이다. Procter & Gamble의 자매 브랜드이다.",
+  "summary": "Always는 생리대, 팬티라이너, 야간용 일회용 속옷, 질 세정 티슈 등을 판매하는 미국의 여성 위생용품 브랜드이다. Procter & Gamble의 자매 브랜드이다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "Always는 지역마다 다른 브랜드명으로 판매되면서도 하나의 제품군을 유지하는, Procter & Gamble의 '최초의 진정한 글로벌 브랜드'로 꼽히는 여성 위생용품 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Always는 생리대와 팬티라이너, 탐폰 등 여성 위생용품을 여러 나라에 공급하는 브랜드이다. 미국, 아프리카의 케냐와 나이지리아, 파키스탄, 일부 유럽 국가에서는 Always라는 이름을 그대로 사용하지만, 일본·싱가포르·인도·중국·한국 등 아시아 지역에서는 Whisper, 이탈리아에서는 Lines, 튀르키예에서는 Orkid, 스페인과 포르투갈에서는 Evax와 Ausonia라는 이름으로 판매된다. 제품은 캐나다 온타리오주 벨빌에 있는 약 70만 평방피트 규모의 공장에서 생산되며, 이 공장은 Procter & Gamble의 북미 최대 생산시설 중 하나이다. 일부 국가에서는 현지 공장을 두고 있지만 다른 지역으로 수출되는 경우도 있다. 도서 Rising Tide: Lessons from 165 Years of Brand Building at Procter & Gamble에 따르면 Always는 Procter & Gamble의 '최초의 진정한 글로벌 브랜드'로 평가된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Always는 1983년 Procter & Gamble의 중간 관리자였던 Tom Osborn이 미국에서 처음 개발해 선보인 브랜드이며, 1984년 5월 미국 전역으로 출시가 확대되었다. 1984년 말까지 영국, 캐나다, 프랑스, 독일, 아랍권, 파키스탄, 아프리카 등지로 국제적으로 소개되었다. Always 생리대는 해외에서도 큰 성공을 거두었지만, 정작 개발 초기이던 1980년대 초에는 Procter & Gamble이 Tom Osborn을 두 차례나 해고할 뻔했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Always는 생리대, 탐폰, 팬티라이너 등 여성 위생용품을 여러 시장에서 판매하며, 지역에 따라 Whisper, Lines, Orkid, Evax, Ausonia 등의 브랜드명으로도 유통된다. 캄보디아와 케냐 등 일부 국가에서는 생리대와 팬티라이너만 판매한다. 2001년 파키스탄에서는 Dreamzzz(Extra Long Night), Ultra Herbal 3in1, Ultra 3in1(Long & Extra Long) 등의 현지 제품군이 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Always는 Procter & Gamble 산하 FemCare 사업부에서 생산을 담당하는 자매 브랜드로 운영되고 있다. 2020년에는 코로나19 팬데믹 상황에서 여성들의 회복력을 조명하는 'The New Brave' 캠페인을 진행했고, 2018년에는 제품 판매마다 생리대 한 개를 기부하는 'End Period Poverty' 캠페인을 시작했다. 케냐 등 아프리카 지역에서는 'Always Keeping Girls in School' 프로그램을 통해 생리 위생 교육과 생리대 지원 활동을 지속하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Always는 지역마다 다른 브랜드명으로 판매되면서도 하나의 제품군을 유지하는, Procter & Gamble의 '최초의 진정한 글로벌 브랜드'로 꼽히는 여성 위생용품 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.always.com/",
+  "entityLinks": {
+   "wikidata": "Q3500302",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3500302",
+    "https://en.wikipedia.org/wiki/Always_(Whisper)_(brand)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3500302",
+   "country": "이탈리아",
+   "inception": "1983",
+   "headquarters": "로마",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Always (Whisper) (brand)」 본문과 위키데이터 Q3500302 팩트를 근거로 편집"
+ }
+}

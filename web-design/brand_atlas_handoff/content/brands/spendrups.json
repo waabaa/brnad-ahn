@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q3335289",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/spendrups-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "spendrups",
+  "urlSlug": "spendrups",
+  "name": "Spendrups",
+  "nameKo": "",
+  "nameEn": "Spendrups",
+  "definition": "Spendrups는 스웨덴의 양조회사로, 스웨덴에서 가장 큰 양조장이다. 본사는 스톡홀름에 있으며, 1982년 이전에는 Grängesbergs Bryggeri AB라는 사명을 썼다.",
+  "summary": "Spendrups는 스웨덴의 양조회사로, 스웨덴에서 가장 큰 양조장이다. 본사는 스톡홀름에 있으며, 1982년 이전에는 Grängesbergs Bryggeri AB라는 사명을 썼다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴에서 가장 큰 양조장으로, Norrlands Guld와 Mariestads 같은 자체 브랜드와 Heineken 등 라이선스 브랜드를 함께 다룬다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Spendrups는 스웨덴의 양조회사로, 본사는 스톡홀름에 있다. 자회사로 Spring Wine & Spirits, Gotlands Bryggeri, Hellefors Bryggeri를 두고 있다. Grängesberg, Hällefors, 비스뷔(소규모 양조장 Gotlands Bryggeri AB), 스톡홀름(소규모 양조장 OMAKA)에서 양조장 네 곳을 운영한다. 직원은 약 900명이며, 2015년에는 Systembolaget에 맥주를 공급한 업체 가운데 두 번째로 큰 공급업체였다. 자체 브랜드로 Spendrups, Norrlands Guld, Mariestads, Loka, Nygårda를 보유하며, Heineken, Schweppes, El Coto, Cono Sur는 라이선스로 생산한다. 스웨덴에서 가장 큰 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1897년 설립된 회사로, 1923년 덴마크 출신 양조업자 Louis Spendrup이 달라르나의 Grängesbergs Bryggeri를 인수했다. 1950년 아들 Jens Fredrik Spendrup이 회사를 이어받았고, 1967년 Mariestad의 대형 양조장 Mariestads Bryggeri를 인수했다. 1976년 Jens Fredrik Spendrup의 아들 Jens와 Ulf Spendrup이 Grängesbergs Bryggeri의 최고경영자가 되었다. 1979년 스톡홀름의 Operakällaren에서 \"Spendrups\"라는 맥주를 선보였고, 1982년 사명을 Spendrups Bryggeri AB로 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자체 브랜드로 Spendrups, Norrlands Guld, Mariestads, Loka, Nygårda를 갖고 있다. 1989년 Kooperativa Förbundet의 양조 사업을 인수하면서 Norrlands Guld 브랜드를 확보했다. 1995년 스웨덴의 EU 가입으로 국영 와인·주류 독점이 폐지되자 와인을 수입·유통할 수 있게 되었고, 2001년 주류 유통과 Heineken 라이선스 생산을 시작했다. 2009년에는 Schweppes를 제품군에 추가했다. 라이선스 생산 브랜드에는 Heineken, Schweppes, El Coto, Cono Sur가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1983년 증권거래소에 상장했다가 2001년 증시에서 철수했다. 2024년 9월부터 Henrik Åström이 최고경영자를 맡고 있으며, Fredrik Spendrup의 뒤를 이었다. 직원은 약 900명이며 Grängesberg, Hällefors, 비스뷔, 스톡홀름에서 양조장 네 곳을 운영한다. 2015년 Systembolaget 맥주 공급량 중 점유율은 21.6%였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴에서 가장 큰 양조장으로, Norrlands Guld와 Mariestads 같은 자체 브랜드와 Heineken 등 라이선스 브랜드를 함께 다룬다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.spendrups.se/",
+  "entityLinks": {
+   "wikidata": "Q3335289",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3335289",
+    "https://en.wikipedia.org/wiki/Spendrups"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3335289",
+   "country": "스웨덴",
+   "inception": "1897",
+   "headquarters": "스웨덴",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Spendrups」 본문과 위키데이터 Q3335289 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

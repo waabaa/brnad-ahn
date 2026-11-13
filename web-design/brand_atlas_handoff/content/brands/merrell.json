@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q1921997",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/merrell-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "merrell",
+  "urlSlug": "merrell",
+  "name": "머렐",
+  "nameKo": "머렐",
+  "nameEn": "Merrell",
+  "definition": "머렐(Merrell)은 1981년 미국에서 설립된 신발 제조 브랜드이다. 고성능 등산화 제조업체로 출발했으며 1997년부터 울버린 월드 와이드(Wolverine World Wide)의 완전 자회사이다.",
+  "summary": "머렐(Merrell)은 1981년 미국에서 설립된 신발 제조 브랜드이다. 고성능 등산화 제조업체로 출발했으며 1997년부터 울버린 월드 와이드(Wolverine World Wide)의 완전 자회사이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "고성능 등산화 제조업체로 출발해 Jungle Moc을 대표 신발로 삼았고, Wolverine World Wide 포트폴리오에서 가장 많은 매출을 내는 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "머렐은 미국의 신발 제조 브랜드이며 본사는 록퍼드에 있다. 1981년 고성능 등산화 제조업체로 시작했으며, 1997년부터 울버린 월드 와이드의 완전 자회사이다. 현재 판매 제품은 등산화, 운동화, 샌들을 비롯해 재킷, 니트 모자, 장갑, 티셔츠, 후드티, 반바지, 양말 등 의류와 배낭, 압축 수납 주머니, 가방 같은 액세서리까지 포함한다. 2010년에는 151개국에서 판매되었고, 울버린 월드 와이드 포트폴리오에서 가장 많은 매출을 내는 브랜드이다. 2022년 11월 30일 Footwear News Achievement Awards에서 올해의 브랜드로 선정되었다. 2023년에는 Wired가 입문자용 맨발 러닝화 1위로 평가했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1981년 Rossignol 스키 회사의 임원이던 Clark Matis와 John Schweizer가 등산화 제조업체를 세웠고, 맞춤 부츠 제작자 Randal Ivan Merrell이 합류했다. Matis는 더 저렴한 고성능 부츠를 설계해 1982년에 개발을 마쳤으며, 생산은 이탈리아 공장에서 하기로 했다. 1983년 동부 해안의 등산용품 소매점 두 곳에 첫 제품을 출하했다. 1986년 Randy Merrell이 지분을 팔고 맞춤 부츠 제작으로 돌아갔다. 1987년 Karhu가 회사를 인수해 생산을 아시아로 옮기고 소매가를 낮췄으며, 1997년 Karhu가 Wolverine World Wide에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "머렐의 주력 제품은 등산화, 운동화, 샌들이다. 재킷, 니트 모자, 장갑, 티셔츠, 후드티, 반바지, 양말도 판매하며, 의류와 액세서리는 2007년 제품군에 추가되었다. 대표 신발은 \"Jungle Moc\"으로, 공격적인 트레일 러닝용 아웃솔에 돼지가죽 스웨이드 슬립온 갑피를 결합했고 Clark Matis가 이끈 설계 팀이 만들었다. Merrell Moab 3은 The Strategist에서 방수이고 튼튼하며 비교적 저렴한 제품으로 소개되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "머렐은 Wolverine World Wide의 완전 자회사이며 포트폴리오에서 가장 많은 매출을 낸다. 2022년 10월 1일에 끝난 3분기 총매출은 $198.6 million으로, 2020년 코로나19 이후 33.6% 증가했다. 2022년 11월 30일 Footwear News Achievement Awards에서 올해의 브랜드로 선정되었다. 2015년에는 Tough Mudder와 제휴를 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "고성능 등산화 제조업체로 출발해 Jungle Moc을 대표 신발로 삼았고, Wolverine World Wide 포트폴리오에서 가장 많은 매출을 내는 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.merrell.com/US/en/home",
+  "entityLinks": {
+   "wikidata": "Q1921997",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1921997",
+    "https://ko.wikipedia.org/wiki/%EB%A8%B8%EB%A0%90",
+    "https://en.wikipedia.org/wiki/Merrell_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1921997",
+   "country": "미국",
+   "inception": "1981",
+   "headquarters": "록퍼드",
+   "founders": [],
+   "parent": "울버린 월드 와이드",
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Merrell (company)」 본문과 위키데이터 Q1921997 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

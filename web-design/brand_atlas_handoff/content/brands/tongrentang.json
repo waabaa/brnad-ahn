@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q842099",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:52+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tongrentang",
+  "urlSlug": "tongrentang",
+  "name": "동인당",
+  "nameKo": "동인당",
+  "nameEn": "Tongrentang",
+  "definition": "동인당(Tongrentang)은 1669년에 설립된 중국의 제약회사이다. 현재 세계 최대 규모의 중국 전통의학(TCM) 생산업체이다.",
+  "summary": "동인당(Tongrentang)은 1669년에 설립된 중국의 제약회사이다. 현재 세계 최대 규모의 중국 전통의학(TCM) 생산업체이다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "청나라 황실의 유일한 약재 공급업체였던 역사를 지닌, 현존하는 중국 전통의학 4대 브랜드 중 하나이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "동인당은 베이징에 본사를 두고 제조와 소매 판매를 함께 하는 중국 제약회사이며, 주로 중국어권 지역에서 약국을 운영한다. 현재까지 존속하는 중국 전통의학 4대 브랜드 중 하나로 꼽히며, 중국 상무부로부터 China Time-Honored Brands로 공식 인정받았다. 세계 최대 규모의 중국 전통의학 기업 중 하나로 제품이 여러 국가에서 판매된다. 오랜 역사를 가진 여느 중국 기업처럼 시장 변화에 적응하는 데 어려움을 겪었으나, 최근 시설을 현대화하고 상표명을 Tongrentang으로 바꾸었다. 중국인과 전 세계 아시아인들 사이에서 널리 알려진 브랜드명을 유지하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "동인당은 1669년 청 왕조 강희제 재위 8년에 궁정 어의였던 Yue Xianyang이 베이징에서 설립했다. 1702년에는 이후 지금까지 영업해온 지금의 위치로 이전했다. 1723년 옹정제에 의해 황실에 약재를 공급하는 유일한 공급업체로 지정되었고, 이 지위는 1911년 청 왕조가 멸망할 때까지 유지되었다. 1924년에는 Tiger Bone Wine이 라이프치히 무역박람회에서 상을 받으며 유통에서 가장 인기 있는 제품이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "동인당은 베이징 본사에서 제조와 소매 판매를 함께 수행하며 중국어권 지역을 중심으로 약국을 운영한다. 2007년에는 미국 기업 Greater China Corporation과 함께 Tong Ren Tang Wellness Corporation이라는 합작법인을 설립해, 동인당의 한약재를 바탕으로 침술, 마사지, 지압, 추나, 태극권, 기공, 반사요법 등을 제공하는 스파형 웰니스 센터 사업을 추진했다. 2020년에는 커피 체인 사업으로 확장해 일부 약국을 커피숍으로 전환하고, 허브를 넣은 커피와 밀크티를 판매하는 'ZhiMa Health' 서비스를 시작했다. 이 서비스는 현재 베이징에서만 제공되며, 젊은 소비자를 중국 전통의학 시장으로 다시 끌어들이는 것을 목표로 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2000년 Hutchison Whampoa Ltd.가 Tong Ren Tang Technologies의 주식 600만 주를 인수하며 투자했으며, 이전에도 동인당과 두 차례 합작법인을 운영한 바 있다. 동인당은 중국 안팎에서 제품이 자주 위조되는 문제를 겪고 있으며, 중국 상무부는 동인당 등의 명칭과 브랜드가 중국 및 해외 제조업체에 의해 불법으로 등록되어 수출과 다국적 거래에서 어려움과 경제적 손실을 초래하고 있다고 지적했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "청나라 황실의 유일한 약재 공급업체였던 역사를 지닌, 현존하는 중국 전통의학 4대 브랜드 중 하나이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tongrentang.com",
+  "entityLinks": {
+   "wikidata": "Q842099",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q842099",
+    "https://ko.wikipedia.org/wiki/%EB%8F%99%EC%9D%B8%EB%8B%B9",
+    "https://en.wikipedia.org/wiki/Tong_Ren_Tang"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q842099",
+   "country": "중화인민공화국",
+   "inception": "1669",
+   "headquarters": "베이징시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Tong Ren Tang」 본문과 위키데이터 Q842099 팩트를 근거로 편집"
+ }
+}

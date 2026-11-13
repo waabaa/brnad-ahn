@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q494389",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/polaroid-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "polaroid-corporation",
+  "urlSlug": "polaroid-corporation",
+  "name": "폴라로이드",
+  "nameKo": "폴라로이드",
+  "nameEn": "Polaroid Corporation",
+  "definition": "폴라로이드(Polaroid Corporation)는 1937년 에드윈 H. 랜드가 설립한 미국의 사진 관련 기업이다. 즉석식 필름 사진기를 제조해 1948년 시장에 내놓았다.",
+  "summary": "폴라로이드(Polaroid Corporation)는 1937년 에드윈 H. 랜드가 설립한 미국의 사진 관련 기업이다. 즉석식 필름 사진기를 제조해 1948년 시장에 내놓았다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "1948년 즉석식 필름 사진기를 시장에 내놓은 미국 기업으로, 2008년 2월 생산 중단 결정에 이르기까지 즉석식 필름이 대표 제품이었던 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "폴라로이드는 에드윈 H. 랜드가 1937년에 설립한 미국의 사진 관련 기업이며, 본사는 콩코드이다. 즉석식 필름 사진기를 제조해 1948년 시장에 내놓았고, 디지털 사진 제품의 선호에 따라 모든 생산을 중단한다고 결정한 2008년 2월까지 즉석식 필름은 기업의 대표 제품이었다. 폴라로이드는 코닥과의 특허 분쟁에서 승소했으며, 1986년 1월 9일 코닥은 즉석식 사진기 사업에서 철수했다. 2002년 7월 31일에는 폴라로이드 코퍼레이션이 OEP Imaging Operating Corporation에 완전히 매각되었다. 이후 폴라로이드 상표는 다른 제품에 쓰일 수 있도록 라이선스되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1926년 에드윈 H. 랜드는 17살 때 하버드 대학교를 중퇴하고 폴라라이제이션 쪽의 연구와 개발을 이어갔다. 1928년 최초로 합성 박막 폴라라이저(Synthetic Sheet Polarizer)를 개발했고, 1929년 이에 관한 특허를 출원했다. 회사의 최초 제품은 사진 필터, 반사-감소 비행기용 유리, 폴라라이즈된 선글래스였으며, 이를 1937년 시장에 내놓았다. 1932년에는 하버드 대 물리학과의 George Wheelwright III와 함께 랜드-휠라이트 래버라토리즈를 세워 폴라라이제이션 분야의 연구를 지속했다. 1948년에는 즉석식 필름 사진기를 시장에 내놓았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 제품은 사진 필터, 반사-감소 비행기용 유리, 폴라라이즈된 선글래스였다. 이후 대표 제품은 1948년 시장에 나온 즉석식 필름 사진기와 즉석식 필름이었다. 파산 이후 폴라로이드 상표는 다른 제품에 쓰일 수 있도록 라이선스되었다. 2002년 9월 The Character Group plc의 자회사 World Wide Licenses는 3년 동안 이 상표를 붙여 전 세계 시장에 디지털 카메라를 판매할 수 있는 권리를 획득했다. 폴라로이드 브랜드는 LCD 텔레비전, 플라즈마 텔레비전, 휴대용 DVD 플레이어 등에도 라이선스되어 시장에 나왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2002년 7월 31일 폴라로이드 코퍼레이션은 OEP Imaging Operating Corporation (OEPI)에 완전히 매각되었다. OEP Imaging Operating Corporation은 회사 이름을 곧바로 폴라로이드 코퍼레이션으로 바꾸었고, 기존의 폴라로이드 코퍼레이션은 이름을 Primary PDC, Inc.로 바꾸었다. 2008년 2월에는 디지털 사진 제품의 선호에 따라 모든 생산을 중단한다고 결정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1948년 즉석식 필름 사진기를 시장에 내놓은 미국 기업으로, 2008년 2월 생산 중단 결정에 이르기까지 즉석식 필름이 대표 제품이었던 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.polaroid.com",
+  "entityLinks": {
+   "wikidata": "Q494389",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q494389",
+    "https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%9D%BC%EB%A1%9C%EC%9D%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Polaroid_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q494389",
+   "country": "미국",
+   "inception": "1937",
+   "headquarters": "콩코드",
+   "founders": [
+    "에드윈 H. 랜드"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「폴라로이드」 요약과 위키데이터 Q494389 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

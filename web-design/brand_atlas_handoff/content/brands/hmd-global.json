@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q24090301",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/hmd-global-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hmd-global",
+  "urlSlug": "hmd-global",
+  "name": "HMD 글로벌",
+  "nameKo": "HMD 글로벌",
+  "nameEn": "HMD Global",
+  "definition": "HMD 글로벌(HMD Global)은 노키아 전 직원들이 설립한 핀란드의 이동통신 제품 개발·판매 기업이다. 노키아 휴대전화 브랜드를 흡수해 스마트폰과 피처폰을 선보인다.",
+  "summary": "HMD 글로벌(HMD Global)은 노키아 전 직원들이 설립한 핀란드의 이동통신 제품 개발·판매 기업이다. 노키아 휴대전화 브랜드를 흡수해 스마트폰과 피처폰을 선보인다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "전 노키아 인력 중심으로 노키아 휴대전화 브랜드를 흡수해 운영하며, 기본 안드로이드와 빠른 업데이트를 내세우는 핀란드 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "HMD 글로벌은 핀란드 에스포에 본사를 두고 이동통신 제품의 개발과 판매를 맡는 기업이다. 노키아 휴대전화 브랜드를 흡수해 노키아 브랜드의 스마트폰과 피처폰을 선보인다. 스마트폰은 구글과 파트너십을 맺고 안드로이드 원 프로그램에 따라 안드로이드 운영 체제를 사용한다. 회사는 노키아 휴대폰을 \"순수하고 안전하며 최신\"으로 홍보하며, 브랜드 신뢰도와 향수를 불러일으키는 마케팅 전략을 사용한다. 제조는 폭스콘 자회사 FIH Mobile에 아웃소싱하며, 경영은 대부분 전 노키아 임원들이 맡고 있다. 노키아는 HMD에 투자했으며 필수 요구 사항을 설정하고 특허와 기술을 제공하는 파트너로 남아 있고, 그 대가로 로열티를 받는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "HMD 글로벌은 2016년 5월 18일 노키아 전 직원들이 설립한 핀란드 기업이다. 2016년 12월 마이크로소프트가 모바일 사업부를 HMD 글로벌과 폭스콘에 분할 매각했다. HMD 글로벌은 노키아 휴대전화의 위탁생산을 폭스콘의 신설 자회사 FIH Mobile에 맡기는 조건으로 노키아 휴대전화 브랜드를 흡수했다. 첫 번째 CEO는 17년간 노키아 베테랑이었던 Arto Nummela였고, 2017년 7월 Florian Seiche가 CEO로 취임했다. 2017년 5월 모바일 월드 콩그레스에서 새로운 3310 휴대폰이 소개되며 노키아 브랜드의 기존 장치 부활이 시작되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스마트폰은 구글의 안드로이드 운영 체제를 사용하며, 최소한의 사용자 정의 기능만 더한 기본 안드로이드에 가깝다. 피처폰은 노키아 3310 3G에 시리즈 30+, 노키아 8110 4G에 KaiOS를 사용했고 중국 시장에서는 AliOS를 사용했다. 2017년 5월 새로운 3310이 소개된 뒤에는 4G 업데이트와 뛰어난 배터리 수명을 내세운 노키아 8110을 다시 선보였다. 노키아 5, 6, 8은 6000 시리즈 알루미늄 단일 블록으로, 노키아 7은 7000 시리즈 알루미늄으로, 노키아 8 Sirocco는 단일 스테인리스 스틸 블록으로 제작되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 Smart Connect GL이며 본사는 핀란드 에스포에 있다. 제조는 폭스콘 자회사 FIH Mobile에 아웃소싱된다. 2019년 8월 Counterpoint 조사에서 노키아는 타사 안드로이드 OEM 중 소프트웨어 및 보안 업데이트 분야 순위를 주도했으나, 제품 포트폴리오가 늘면서 업데이트 지연이 길어지고 배포 빈도도 낮아졌다. 휴대폰은 일반적으로 2~3년 동안 업데이트를 받는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "전 노키아 인력 중심으로 노키아 휴대전화 브랜드를 흡수해 운영하며, 기본 안드로이드와 빠른 업데이트를 내세우는 핀란드 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hmd.com",
+  "entityLinks": {
+   "wikidata": "Q24090301",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24090301",
+    "https://ko.wikipedia.org/wiki/HMD_%EA%B8%80%EB%A1%9C%EB%B2%8C",
+    "https://en.wikipedia.org/wiki/HMD_Global"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q24090301",
+   "country": "핀란드",
+   "inception": "2015",
+   "headquarters": "에스포",
+   "founders": [],
+   "parent": "Smart Connect GL",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「HMD 글로벌」 요약과 위키데이터 Q24090301 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

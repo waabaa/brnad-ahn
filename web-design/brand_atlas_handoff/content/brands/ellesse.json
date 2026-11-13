@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q2263500",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/ellesse-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ellesse",
+  "urlSlug": "ellesse",
+  "name": "엘레쎄",
+  "nameKo": "엘레쎄",
+  "nameEn": "Ellesse",
+  "definition": "엘레쎄(Ellesse)는 1959년 이탈리아 페루자에서 설립된 스포츠 의류 브랜드이다. 스키웨어로 인기를 얻었고 테니스와도 일찍부터 깊이 연관되었으며, 현재 영국 Pentland Group이 소유한다.",
+  "summary": "엘레쎄(Ellesse)는 1959년 이탈리아 페루자에서 설립된 스포츠 의류 브랜드이다. 스키웨어로 인기를 얻었고 테니스와도 일찍부터 깊이 연관되었으며, 현재 영국 Pentland Group이 소유한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "스키웨어에서 출발해 테니스로 이어진 이탈리아 스포츠웨어 브랜드로, 기능성과 거리 패션 감각을 결합하고 로고를 의류 바깥에 크게 내세운 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "엘레쎄는 이탈리아의 스포츠 의류 브랜드로, 1970년대 스키웨어 생산자로 인기를 얻었고 테니스와도 초기부터 긴밀하게 연관되어 왔다. 1970~1980년대에 스포츠웨어의 기능성과 거리 패션의 스타일을 결합한다는 평판을 얻었다. 로고를 의류 바깥쪽에 눈에 띄게 넣은 최초의 스포츠웨어 브랜드 중 하나였다. 1980년대 중반에는 프랑스 디자이너 Jean-Charles de Castelbajac과 협업했으며, 이는 스포츠웨어 회사와 패션 디자이너의 초기 협업 사례였다. 영국의 UK casuals는 1980년대에 프리미엄 스포츠웨어 열풍 속에서 이 브랜드를 받아들였다. 현재는 영국 브랜드 관리 회사 Pentland Group이 소유하며, 세계 각국의 파트너에게 브랜드를 라이선스한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "엘레쎄는 1959년 6월 19일 이탈리아 움브리아의 페루자에서 Leonardo \"Mantis\" Servadio가 설립했다. 브랜드명은 Servadio의 이니셜 \"L.S.\"를 이탈리아어로 읽은 \"엘레\"와 \"에세\"에서 유래했다. 1970년대에 퀼팅 재킷과 스키 바지 같은 스키웨어 생산자로 성장했으며, 1979년에는 스키 부츠에 맞춘 Jet Pant가 파리 퐁피두 센터의 이탈리아 디자인 기념 행사에 포함되었다. 1994년 영국의 Pentland Group이 지분 90%를 £20 million에 인수했고, Servadio는 지분 10%를 유지했다. Pentland는 1981년부터 엘레쎄의 영국 유통을 맡아 왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "엘레쎄의 출발점은 퀼팅 재킷과 스키 바지 같은 스키웨어이다. 1979년의 Jet Pant는 무릎에 패딩을 넣고 아랫단을 넓혀 스키 부츠 위로 맞도록 만든 스키 바지이다. 테니스도 초기부터 이어진 핵심 종목이며, 로고는 스키 끝부분의 모양으로 테니스공의 형태를 나타낸다. 1980년대에는 New York Cosmos의 유니폼을 제작하며 축구 후원에도 나섰고, 테니스 선수 Chris Evert와 Boris Becker 등이 브랜드를 후원했다. 2021년 10월에는 YouTube 그룹 The Sidemen이 운영하는 의류 브랜드 SDMN과 협업했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "엘레쎄는 영국 브랜드 관리 회사 Pentland Group 산하에 있다. Pentland Group은 Berghaus와 Speedo 같은 스포츠웨어 브랜드도 소유한다. 현재 엘레쎄 브랜드를 세계 각국의 파트너에게 라이선스하며, 파트너는 각자의 지역에서 제품을 제조하고 유통한다. 2009년 7월에는 로마에서 50주년 기념 파티를 열었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스키웨어에서 출발해 테니스로 이어진 이탈리아 스포츠웨어 브랜드로, 기능성과 거리 패션 감각을 결합하고 로고를 의류 바깥에 크게 내세운 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ellesse.com",
+  "entityLinks": {
+   "wikidata": "Q2263500",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2263500",
+    "https://ko.wikipedia.org/wiki/%EC%97%98%EB%A0%88%EC%8E%84",
+    "https://en.wikipedia.org/wiki/Ellesse"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2263500",
+   "country": "이탈리아",
+   "inception": "1959",
+   "headquarters": "페루자",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Ellesse」 본문과 위키데이터 Q2263500 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

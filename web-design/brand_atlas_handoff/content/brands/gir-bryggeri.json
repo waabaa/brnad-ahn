@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q12011732",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "gir-bryggeri",
+  "urlSlug": "gir-bryggeri",
+  "name": "Ægir Bryggeri",
+  "nameKo": "",
+  "nameEn": "Ægir Bryggeri",
+  "definition": "Ægir Bryggeri는 노르웨이 Flåm에 있는 소규모 양조장이다. 2007년에 설립되었으며, 북유럽 신화의 신 Ægir에서 이름을 따왔다. 캔 제품과 자체 양조장 펍에 공급할 크래프트 맥주를 만든다.",
+  "summary": "Ægir Bryggeri는 노르웨이 Flåm에 있는 소규모 양조장이다. 2007년에 설립되었으며, 북유럽 신화의 신 Ægir에서 이름을 따왔다. 캔 제품과 자체 양조장 펍에 공급할 크래프트 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "북유럽 신화의 신 Ægir에서 이름을 딴 Flåm의 소규모 양조장으로, 캔 크래프트 맥주와 Heidrun Vikingmjød 같은 제품을 만든다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ægir Bryggeri는 노르웨이 Flåm에 자리한 소규모 양조장으로, 현지에서 크래프트 맥주를 만드는 곳이다. 양조장 이름은 북유럽 신화의 신 Ægir에서 따왔으며, Ægir는 Odin의 말에 따르면 최고의 맥주를 빚는 신이다. 생산한 맥주는 캔 제품으로 만들어지고 Flåm에 있는 자체 양조장 펍에도 공급된다. 생산량 가운데 수출이 차지하는 몫이 점차 늘고 있으며, 노르웨이 전역에도 맥주를 납품한다. 맥주 종류는 다양하며, 미국을 비롯한 세계 여러 크래프트 양조장에서 영감을 받은 유형의 맥주로 이루어져 있다. 연간 생산 능력은 약 1,400헥토리터 규모이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ægir Bryggeri는 2007년에 Aud Melås와 Evan Lewis가 함께 설립했다. 양조장의 소재지는 노르웨이 Aurland Municipality에 속한 Flåm이다. 2012년 6월에는 새로 지은 양조 시설이 가동에 들어갔다. 이후 캔 맥주를 생산하고 Flåm의 자체 양조장 펍에 공급하는 한편, 노르웨이 전역에 맥주를 납품하는 양조장으로 자리를 잡았다. 생산량 중 수출 비중도 점차 커지고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로는 Bøyla Blonde Ale(알코올 4.7%), India Pale Ale(6.5%), Rallar Amber Ale(4.7%), Sumbel Porter(4.7%)가 있다. 도수가 더 높은 제품으로는 Ægir Ratatosk Double IPA(9%)와 Heidrun Vikingmjød(13.2%)가 있다. 이 제품들은 연중 생산하며, 이와 별도로 여러 종류의 계절 한정 맥주도 만든다. 제품은 캔으로 판매되고 자체 양조장 펍에서도 제공된다. 맥주 유형은 미국을 포함한 세계 여러 크래프트 양조장에서 영감을 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Ægir Bryggeri는 현재 Flåm에서 소규모 양조장으로 운영되고 있으며, 연간 생산 능력은 약 1,400헥토리터이다. 2012년 6월에 새 양조 시설이 가동되어 생산의 기반이 마련되었다. 생산량 중 수출이 차지하는 비중은 점차 늘고 있으며, 노르웨이 전역에 맥주를 공급한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "북유럽 신화의 신 Ægir에서 이름을 딴 Flåm의 소규모 양조장으로, 캔 크래프트 맥주와 Heidrun Vikingmjød 같은 제품을 만든다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://aegirbryggeri.no/",
+  "entityLinks": {
+   "wikidata": "Q12011732",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12011732",
+    "https://en.wikipedia.org/wiki/%C3%86gir_Bryggeri"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12011732",
+   "country": "노르웨이",
+   "inception": "2007",
+   "headquarters": "Aurland Municipality",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Ægir Bryggeri」 본문과 위키데이터 Q12011732 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q118947741",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "volvik",
+  "urlSlug": "volvik",
+  "name": "볼빅",
+  "nameKo": "볼빅",
+  "nameEn": "Volvik",
+  "definition": "볼빅(Volvik)은 1980년 설립된 대한민국의 골프 장비 및 스포츠웨어 제조 기업이다. 색깔이 있는 컬러 골프공으로 널리 알려져 있으며, 골프 의류와 위생용품도 판매한다.",
+  "summary": "볼빅(Volvik)은 1980년 설립된 대한민국의 골프 장비 및 스포츠웨어 제조 기업이다. 색깔이 있는 컬러 골프공으로 널리 알려져 있으며, 골프 의류와 위생용품도 판매한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "컬러 골프공으로 알려진 대한민국의 골프 장비·스포츠웨어 제조사로, Marvel, Mickey Mouse 등과 협업한 골프공을 선보였다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "볼빅은 1980년에 설립된 대한민국의 골프 장비 및 스포츠웨어 제조 기업이다. 컬러 골프공으로 잘 알려져 있다. World Long Drive Championship, Australian Ladies Masters, IOA Championship, KPGA Gunsan CC Open 대회를 후원한다. Marvel, Mickey Mouse 같은 프랜차이즈와 협업했고 휴일을 주제로 한 골프공도 만든다. 자회사 Volvik Golf Apparel을 통해 골프 의류를 판매하며 위생용품도 판매한다. 2023년 4월에는 감사 보고서를 이유로 주식 거래가 정지되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 컬러 골프공이다. Marvel, Mickey Mouse 같은 프랜차이즈와 협업한 골프공을 내놓았고, 휴일을 주제로 한 골프공도 제작한다. 자회사 Volvik Golf Apparel을 통해 골프 의류를 판매한다. 이와 함께 위생용품도 판매한다. World Long Drive Championship, Australian Ladies Masters, IOA Championship, KPGA Gunsan CC Open 등 여러 대회의 후원도 맡고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 4월 감사 보고서를 이유로 볼빅의 주식 거래가 정지되었다. 이의 신청이 진행되는 동안 주식은 거래할 수 없다. 볼빅은 골프 장비와 스포츠웨어를 제조하며 컬러 골프공으로 알려져 있다. World Long Drive Championship을 비롯한 여러 골프 대회의 후원사이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "컬러 골프공으로 알려진 대한민국의 골프 장비·스포츠웨어 제조사로, Marvel, Mickey Mouse 등과 협업한 골프공을 선보였다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.volvik.co.kr/",
+  "entityLinks": {
+   "wikidata": "Q118947741",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q118947741",
+    "https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%B9%85_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Volvik"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q118947741",
+   "country": null,
+   "inception": "1980",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Volvik」 본문과 위키데이터 Q118947741 팩트를 근거로 편집"
+ }
+}

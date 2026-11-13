@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q309084",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/alstom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "alstom",
+  "urlSlug": "alstom",
+  "name": "알스톰",
+  "nameKo": "알스톰",
+  "nameEn": "Alstom",
+  "definition": "알스톰(Alstom)은 1928년 1월에 설립된 프랑스의 다국적 운송 및 발전 설비 제조 업체이다. 발전소와 TGV 등 고속철도 차량, 노면 전차 같은 철도 차량으로 알려져 있다.",
+  "summary": "알스톰(Alstom)은 1928년 1월에 설립된 프랑스의 다국적 운송 및 발전 설비 제조 업체이다. 발전소와 TGV 등 고속철도 차량, 노면 전차 같은 철도 차량으로 알려져 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "발전 설비와 철도 차량 두 축을 함께 다루는 프랑스 제조 업체로, TGV 등 고속철도 차량과 전 분야 발전 설비 납품으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "알스톰은 프랑스의 다국적 운송 및 발전 설비 제조 업체이다. 각종 발전소와 TGV 등 고속철도 차량, LRV 등의 철도 차량으로 잘 알려져 있다. 발전 사업은 가스, 석탄, 원자력, 수력, 풍력 등 모든 발전 분야에 진출해 있고, 철도 사업은 신규 노선 건설과 장비, 기술 지원까지 포함한다. 1990년대에 영국 GEC와 이탈리아 피아트의 철도 차량 제조 부문을 합병해 사업 확장을 시도했으나 경영 위기에 빠져 프랑스 정부의 공적자금으로 구제받았으며, 이후 공적자금은 완제하고 1997년에 민영화되었다. 2007~2008년 기준으로 매출 16.9억 유로, 70여개국에서 76,000명의 근로자를 고용했다. 2021년 1월 29일에는 캐나다 철도회사 봄바디어 트랜스포테이숀 인수를 완료했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1928년 1월 톰슨-휴스턴과 소시에테 알사시엔 드 콩스트룩시옹 메카니크(Société Alsacienne de Constructions Mécaniques, SACM)가 합병하여 알스톰이 만들어졌고, 벨포르에 첫 공장을 열었다. 1932년 전기 기관차와 액압 장비를 생산하던 Constructions Electriques de France를 인수하며 운수 사업을 시작했다. 1989년 GEC와 운송 사업 부문을 합병해 GEC-알스톰을 설립했고, 1994년 LHB 잘츠기터, 1998년 Cegelec을 인수했다. 1998년 6월 파리 증권 거래소에 상장하면서 GEC-알스톰에서 알스톰으로 이름을 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "발전 사업은 설계, 제조, 서비스, 제품 공급을 포함하며 가스, 석탄, 원자력, 수력, 풍력 등 모든 발전 분야에 진출해 있다. 보일러, 터빈, 발전기 등 발전 설비의 구성 요소와 발전소 건설 같은 턴키 사업을 판매하고, 기존 발전 설비의 유지 보수도 한다. 2007-2008년 회계연도 발전 사업 매출은 114억 유로였다. 철도 사업은 (준)고속차량, 통근용 차량, 노면 전차, 기관차를 포함하는 철도차량과 철도 노선 건설, 턴키 시스템, 기술 지원을 제공한다. 수력 발전소로는 중국 싼샤 댐과 브라질/파라과이 이타이푸 댐 등에 진출했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 2월 17일 캐나다 철도회사 봄바디어 트랜스포테이숀 인수를 추진했고, 같은 해 7월 31일 유럽연합위원회가 인수를 승인했다. 인수는 2021년 1월 29일 완료되었다. 2007년 공식 사명을 변경했으며 대문자로 써야 하는 경우에는 계속 대문자를 사용한다. 주식은 1998년 6월 22일 파리, 2003년 11월 17일 런던, 2004년 8월 뉴욕에 각각 상장했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "발전 설비와 철도 차량 두 축을 함께 다루는 프랑스 제조 업체로, TGV 등 고속철도 차량과 전 분야 발전 설비 납품으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.alstom.com/",
+  "entityLinks": {
+   "wikidata": "Q309084",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q309084",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EC%8A%A4%ED%86%B0",
+    "https://en.wikipedia.org/wiki/Alstom"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q309084",
+   "country": "프랑스",
+   "inception": "1928",
+   "headquarters": "생투앙쉬르센",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「알스톰」 요약과 위키데이터 Q309084 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

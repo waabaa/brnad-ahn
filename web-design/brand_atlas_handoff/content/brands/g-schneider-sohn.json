@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2111113",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "g-schneider-sohn",
+  "urlSlug": "g-schneider-sohn",
+  "name": "G. Schneider & Sohn",
+  "nameKo": "",
+  "nameEn": "G. Schneider & Sohn",
+  "definition": "G. Schneider & Sohn은 독일 바이에른에 있는 바이스비어(밀맥주) 양조회사이다. 1872년 뮌헨에서 설립되었으며 Georg Schneider I의 후손이 계속 소유하고 있다.",
+  "summary": "G. Schneider & Sohn은 독일 바이에른에 있는 바이스비어(밀맥주) 양조회사이다. 1872년 뮌헨에서 설립되었으며 Georg Schneider I의 후손이 계속 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "1872년 이래 창업자 가문이 소유하며 전 제품을 상면발효 밀맥주로 구성하고, 1907년 바이에른 최초의 weizenbock인 Aventinus를 내놓은 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 독일 바이에른에서 바이스비어를 양조하며, 뮌헨에서 가장 오래된 밀맥주 양조장이던 Weisses Brauhaus를 인수하면서 출발했다. 제품군 전체가 상면발효 밀맥주이고, 맥아용 보리는 Kelheim과 Riedenburg 일대에서 재배한 것을 쓰며 홉은 Hallertau산을 사용한다. 직원은 약 100명이고 독일과 다른 27개국에 제품을 유통하며, 연간 생산량은 약 300,000헥토리터로 그 가운데 약 25%가 독일 밖으로 보내진다. 1872년 설립 이후 줄곧 Schneider 가문이 소유해 왔으며 소유주는 지금도 Georg Schneider I의 후손이다. 대표 제품은 TAP 7 Mein Original이다. 양조장 외에 여관 세 곳도 회사에 속해 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1872년 Georg Schneider I와 아들 Georg Schneider II가 뮌헨에서 도시에서 가장 오래된 밀맥주 양조장인 Weisses Brauhaus를 인수하면서 양조장이 시작되었다. 1927년 Georg Schneider IV가 이끌던 소유주들은 양조 사업을 Kelheim과 Straubing으로 넓혔다. 1944년 뮌헨의 양조장이 연합군의 공습으로 파괴되자 생산 전체를 Kelheim으로 옮겼다. 제2차 세계대전 종전 몇 주 뒤 미국 제3군은 밀맥주 생산과 뮌헨 공급을 허가했으나, 알코올 도수가 낮은 맥주만 만들고 군인에게만 판매하도록 조건을 달았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군은 모두 상면발효 밀맥주이며 Aventinus와 Original은 병 속 숙성을 거친다. 핵심 제품은 1872년의 원래 레시피대로 만드는 TAP 7 Mein Original(예전 이름 Schneider Weisse Original)이다. Georg Schneider VI는 2009년 TAP 1부터 TAP 6까지도 생산한다는 점을 알리려고 제품군 이름을 바꿨다. TAP 6 Mein Aventinus는 1907년 Mathilde Schneider가 내놓은 강한 흑색 밀맥주 도펠복으로, 바이에른 역사가 Johannes Aventinus의 이름을 땄다. Aventinus Eisbock은 2002년 처음 양조했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "소유주는 지금도 Georg Schneider I의 후손이며 양조장은 1872년 이후 Schneider 가문의 소유로 이어지고 있다. 직원은 약 100명이고 제품은 독일과 다른 27개국에 유통된다. 회사에 속한 여관 세 곳은 뮌헨의 옛 본사(Tal), 뮌헨 Berg am Laim 지구, Kelheim 양조장 부지에 있으며 2016년 초 Weisses Bräuhaus에서 Schneider Bräuhaus로 이름을 바꿨다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1872년 이래 창업자 가문이 소유하며 전 제품을 상면발효 밀맥주로 구성하고, 1907년 바이에른 최초의 weizenbock인 Aventinus를 내놓은 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.schneider-weisse.de/",
+  "entityLinks": {
+   "wikidata": "Q2111113",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2111113",
+    "https://en.wikipedia.org/wiki/G._Schneider_%26_Sohn"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2111113",
+   "country": "독일",
+   "inception": "1872",
+   "headquarters": "뮌헨",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「G. Schneider & Sohn」 본문과 위키데이터 Q2111113 팩트를 근거로 편집"
+ }
+}

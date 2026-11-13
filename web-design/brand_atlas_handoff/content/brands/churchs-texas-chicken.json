@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1089932",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "churchs-texas-chicken",
+  "urlSlug": "churchs-texas-chicken",
+  "name": "처치스 치킨",
+  "nameKo": "처치스 치킨",
+  "nameEn": "Church's Texas Chicken",
+  "definition": "처치스 치킨(Church's Texas Chicken)은 남부식 프라이드치킨을 전문으로 하는 미국의 패스트푸드 레스토랑 체인이다. 여러 나라에서 Texas Chicken 또는 Church's Chicken이라는 이름으로 영업한다.",
+  "summary": "처치스 치킨(Church's Texas Chicken)은 남부식 프라이드치킨을 전문으로 하는 미국의 패스트푸드 레스토랑 체인이다. 여러 나라에서 Texas Chicken 또는 Church's Chicken이라는 이름으로 영업한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "텍사스에서 시작한 남부식 치킨 체인으로, 기독교 신자가 다수가 아닌 나라에서는 Texas Chicken이라는 상호를 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "남부식 프라이드치킨을 전문으로 하는 미국 패스트푸드 체인이다. 1952년 텍사스주 샌안토니오에서 George W. Church Sr.가 Church's Fried Chicken To-Go라는 이름으로 시작했다. 1968년 창업자 가족이 회사를 매각했고, 같은 해 말 일곱 개 주에 100개가 넘는 매장을 두어 텍사스에서 전국 체인이 된 첫 사례가 되었다. 1970년대부터 캐나다, 멕시코, 일본, 푸에르토리코로 해외 진출을 시작했다. 일부 국가에서는 Texas Chicken이라는 상호를 쓴다. 2017년 기준 26개국에 1,700곳이 넘는 가맹점·직영점이 있었고, 2022년에는 전 세계 1,500곳이 넘는 매장을 운영했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1952년 4월 은퇴한 병아리 부화기 판매원 George W. Church Sr.가 텍사스주 샌안토니오의 알라모 맞은편에서 첫 매장을 열었다. 초기에는 포장 판매 창구 하나로 프라이드치킨만 팔았고, 치킨 두 조각과 롤 하나가 49센트였다. 1955년 감자튀김과 할라피뇨를 메뉴에 더했다. 1956년 창업자가 사망할 당시 매장은 네 곳이었으며 이후 가족이 운영을 이어받았다. 1965년 Bill Church Jr.와 Richard 형제가 어느 매장에서나 만들 수 있는 양념을 개발해 프랜차이즈 확장을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 상품은 남부식 프라이드치킨이다. 1952년 첫 메뉴는 치킨 두 조각과 롤이었고, 1955년 감자튀김과 할라피뇨가 추가되었다. 1965년에는 어느 매장에서나 준비할 수 있는 고유의 양념을 개발해 프랜차이즈 확장의 바탕으로 삼았다. 1970년대 후반에는 텍사스에서 G.W. Jrs라는 햄버거 프랜차이즈를 잠시 운영했으며, 약 60개 매장은 1985년 문을 닫았다. 사업은 가맹점과 직영점으로 구성된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 기준 26개국에 1,700곳이 넘는 가맹점·직영점이 있었다. 2022년에는 전 세계 1,500곳이 넘는 매장을 운영했으며, 해외 매장은 인도네시아, 말레이시아, 멕시코, 사우디아라비아, 베트남 등에 있다. 2017년에는 Goalz Restaurant Group, LLC와 플로리다, 켄터키 등 여섯 개 주에 매년 20개 매장을 열기로 하는 다년 개발 계약을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "텍사스에서 시작한 남부식 치킨 체인으로, 기독교 신자가 다수가 아닌 나라에서는 Texas Chicken이라는 상호를 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://juicipattiesusa.com/",
+  "entityLinks": {
+   "wikidata": "Q1089932",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1089932",
+    "https://ko.wikipedia.org/wiki/%EC%B2%98%EC%B9%98%EC%8A%A4_%EC%B9%98%ED%82%A8",
+    "https://en.wikipedia.org/wiki/Church%27s_Texas_Chicken"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1089932",
+   "country": "미국",
+   "inception": "1952",
+   "headquarters": "샌디스프링스",
+   "founders": [
+    "George W. Church, Sr."
+   ],
+   "parent": "Arcapita",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Church's Texas Chicken」 본문과 위키데이터 Q1089932 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q204880",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/licher-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "licher-brewery",
+  "urlSlug": "licher-brewery",
+  "name": "Licher Brewery",
+  "nameKo": "",
+  "nameEn": "Licher Brewery",
+  "definition": "Licher Brewery는 독일 리히에 본사를 둔 맥주 양조장이다. 1854년 Johann Heinrich Ihring이 세운 J.H. Ihring Brewery에서 출발했으며 리히에서 가장 큰 양조장이다.",
+  "summary": "Licher Brewery는 독일 리히에 본사를 둔 맥주 양조장이다. 1854년 Johann Heinrich Ihring이 세운 J.H. Ihring Brewery에서 출발했으며 리히에서 가장 큰 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "리히에서 가장 큰 양조장으로, 1922년 두 지역 양조장의 합병으로 출발해 1988년부터 헤센 시장 선두를 지켜 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Licher Brewery는 독일 리히에 있는 맥주 양조장이다. 1854년 J.H. Ihring Brewery로 문을 열었고, 1922년 인근 양조장과 합쳐 Brauerei Ihring-Melchior가 되었다. 'Licher Beer'는 1988년부터 헤센에서 시장 선두를 지켜 왔다. 독일 맥주 시장에서 상위 20위 안에 드는 맥주 가운데 하나로 알려져 있다. 직원은 250명으로 리히에서 가장 큰 양조장이며, 생산은 DIN/ISO 9001 요건에 따라 이루어진다. 1999년에는 Holstein-Brauerei AG의 일부를 사들였고, 2004년부터는 König Brewery와 협력하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1854년 양조업자 Johann Heinrich Ihring이 Lich am Hardtberg에서 J.H. Ihring Brewery를 시작했다. 이곳에는 천연 샘과 맥주를 식히는 발효 저장고가 있었고, 1873년부터 증기 양조 공정을 6마력 모터로 가동했다. Gambrinus-Brewery의 뿌리는 1858년 Christoph Jakob Melchior가 부츠바흐에서 여관 'Zum goldenen Stern'을 운영하며 직접 빚은 맥주를 손님에게 낸 데 있다. 두 양조장은 15km 떨어져 있었고, 1922년 2월 17일 합의로 Brauerei Ihring-Melchior가 설립되었으며 같은 해 10월 1일 소재지가 리히로 정해졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Licher Beer이다. 1948년 수출이 허용되자 Doppel-Export(Double-Export)를 생산했고, 이 제품은 14%의 시장 점유율을 차지했다. 1938년에는 병을 세척하고 채우는 새로운 방식을 도입했다. 2006년부터 Licher 계약 아래 운영되는 두 병입 시설은 시간당 115,000병을 생산할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 직원은 250명이며 리히에서 가장 큰 양조장이다. 2004년부터 Bitburger 소유의 König Brewery와 파트너로 협력하고 있다. 회사는 DIN/ISO 9001 요건에 따라 운영되고 International Food Standard(IFS)의 모든 요건을 충족한다. 헤센 주 환경부는 이 회사의 생산 과정이 매우 깨끗하다고 평가했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "리히에서 가장 큰 양조장으로, 1922년 두 지역 양조장의 합병으로 출발해 1988년부터 헤센 시장 선두를 지켜 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.licher.de",
+  "entityLinks": {
+   "wikidata": "Q204880",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q204880",
+    "https://en.wikipedia.org/wiki/Licher_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q204880",
+   "country": "독일",
+   "inception": "1854",
+   "headquarters": "리히",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Licher Brewery」 본문과 위키데이터 Q204880 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

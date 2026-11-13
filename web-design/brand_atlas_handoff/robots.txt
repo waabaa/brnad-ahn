@@ -1,13 +1,16 @@
 User-agent: *
 Allow: /
 Disallow: /pages/directory.html
+Disallow: /*?dailySeed=
 
-# 네이버 Yeti·구글봇은 전체 허용
+# 네이버 Yeti·구글봇은 전체 허용(홈 미리보기 파라미터 URL만 제외)
 User-agent: Yeti
 Allow: /
+Disallow: /*?dailySeed=
 
 User-agent: Googlebot
 Allow: /
+Disallow: /*?dailySeed=
 
 # AI 검색 크롤러 — 인용 노출을 위해 명시적으로 허용한다
 User-agent: GPTBot
@@ -45,3 +48,5 @@ Sitemap: https://brandatlas.co.kr/sitemap-hubs.xml
 Sitemap: https://brandatlas.co.kr/sitemap-brands-1.xml
 Sitemap: https://brandatlas.co.kr/sitemap-brands-2.xml
 Sitemap: https://brandatlas.co.kr/sitemap-brands-3.xml
+Sitemap: https://brandatlas.co.kr/sitemap-brands-4.xml
+Sitemap: https://brandatlas.co.kr/sitemap-priority.xml

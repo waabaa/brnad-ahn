@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q270363",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/societe-generale-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "societe-generale",
+  "urlSlug": "societe-generale",
+  "name": "소시에테 제네랄",
+  "nameKo": "소시에테 제네랄",
+  "nameEn": "Société Générale",
+  "definition": "소시에테 제네랄(Société Générale)은 프랑스 파리 근교 라 데팡스에 본부를 둔 금융그룹이다. 소매금융, 기업금융, 투자운용업을 주력사업으로 한다.",
+  "summary": "소시에테 제네랄(Société Générale)은 프랑스 파리 근교 라 데팡스에 본부를 둔 금융그룹이다. 소매금융, 기업금융, 투자운용업을 주력사업으로 한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.366666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1864년 제2제정 시절에 설립된 프랑스의 오래된 은행 중 하나로, 2008년 선물딜러 개인이 일으킨 대형 금융사고를 겪은 금융그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "소시에테 제네랄은 프랑스의 금융그룹으로, 소매금융과 기업금융, 투자운용업을 주력사업으로 한다. 그룹본부는 프랑스 파리 근교 오-드-센의 뇌이(Neuilly-sur-Seine)시에 속한 라 데팡스(La Défense)에 있다. 프랑스에서 가장 오래된 은행 중 하나이며 1864년 제2제정 시절에 설립되었다. 1945년 국유화되어 국가가 단일 주주가 되었고 1987년 민영화되었다. 2008년에는 선물딜러 제롬 케르비엘의 선물거래로 49억 유로(71억 달러)의 손실이 발생하는 금융사고를 겪었다. 이 사고는 개인이 일으킨 금융사고로는 세계에서 가장 큰 규모의 사고였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "소시에테 제네랄은 1864년 제2제정 시절에 설립되었으며, 프랑스에서 가장 오래된 은행 중 하나이다. 1945년에 국유화되어 국가가 단일 주주가 되었고, 1987년에 민영화되었다. 2008년에는 선물딜러 제롬 케르비엘이 은행 안에 비밀 사업체를 세우고 선물상품에 투자하다가 회사에 큰 피해를 주는 사고가 발생했다. 은행은 제롬이 다른 거래인의 명의를 도용해 단독으로 선물상품에 투자했다가 손실을 냈다고 사고경위를 설명했다. 최고 경영자 다니엘 부통도 회사를 그만두려고 했으나 이사회에서 반려되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1864년 제2제정 시절에 설립된 프랑스의 오래된 은행 중 하나로, 2008년 선물딜러 개인이 일으킨 대형 금융사고를 겪은 금융그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.societegenerale.com/",
+  "entityLinks": {
+   "wikidata": "Q270363",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q270363",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EC%8B%9C%EC%97%90%ED%85%8C_%EC%A0%9C%EB%84%A4%EB%9E%84",
+    "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q270363",
+   "country": "프랑스",
+   "inception": "1864",
+   "headquarters": "파리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「소시에테 제네랄」 요약과 위키데이터 Q270363 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

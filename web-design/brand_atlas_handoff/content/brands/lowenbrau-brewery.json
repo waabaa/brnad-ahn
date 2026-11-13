@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q256392",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:51+09:00"
+ },
+ "logoCandidate": "logos/lowenbrau-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lowenbrau-brewery",
+  "urlSlug": "lowenbrau-brewery",
+  "name": "뢰벤브로이",
+  "nameKo": "뢰벤브로이",
+  "nameEn": "Löwenbräu Brewery",
+  "definition": "뢰벤브로이(Löwenbräu Brewery)는 독일 뮌헨에 있는 맥주 양조장이다. 대부분의 맥주를 바이에른 맥주순수령(라인하이츠게보트)에 따라 양조한다고 알려져 있다.",
+  "summary": "뢰벤브로이(Löwenbräu Brewery)는 독일 뮌헨에 있는 맥주 양조장이다. 대부분의 맥주를 바이에른 맥주순수령(라인하이츠게보트)에 따라 양조한다고 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "17세기 프레스코화에서 유래한 사자 문장과 1810년부터 끊이지 않은 옥토버페스트 참가 이력을 내세우는 뮌헨의 대표 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "뢰벤브로이(Löwenbräu Brewery)는 독일 뮌헨에 위치한 맥주 양조장이다. 사자 문장은 양조장 건물에 있던 17세기 프레스코화에서 유래했으며, 다니엘과 사자굴 이야기를 묘사한 것이다. 1863년에는 뮌헨 내 최대 양조장이 되어 도시 맥주 생산량의 4분의 1을 차지했고, 세기 전환기에는 독일 전체에서 가장 큰 양조장으로 성장했다. 1997년에는 슈파텐-프란치스카너-브로이와 합병해 슈파텐-뢰벤브로이 그룹을 이루었다. 뢰벤브로이는 1810년 이후 매년 뮌헨 옥토버페스트에서 맥주를 제공해 온 여섯 개 양조장 중 하나이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뢰벤브로이는 1383년경 설립되었다고 알려져 있으며, 1524년에는 뢰벤그루베 17번지 소유지와 관련해 양조업자 외르크 슈나이터의 이름이 기록에 등장한다. 양조장은 1746년 뮌헨의 세금 기록에 처음 언급되었다. 1818년 농민 출신 양조업자 게오르크 브라이가 양조장을 인수한 뒤 성장하기 시작했으며, 1826년부터 님펜부르거 슈트라세의 새 부지로 이전을 시작해 1851년에 완료했다. 1872년에는 악티엔브라우어라이 춤 뢰벤브로이라는 이름으로 정식 법인화되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "뢰벤브로이는 맥주순수령에 따라 양조한 다양한 맥주를 생산한다. 대표 제품으로는 수출용 뢰벤브로이 오리지널, 뮌헨식 헬레스 맥주인 뮌히너 헬, 도수 5.5%의 다크 라거인 뮌히너 둔켈, 도수 7.5%의 도펠보크인 트리움파토어, 무알코올 맥주인 알코올프라이가 있다. 매년 옥토버페스트를 위해서는 비젠비어라고도 불리는 옥토버페스트비어라는 메르첸 맥주를 별도로 양조한다. 옥토버페스트 현장에서는 뢰벤브로이-페스트할레와 슈첸페스트첼트라는 두 개의 대형 텐트를 후원한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "뢰벤브로이는 1997년 슈파텐-프란치스카너-브로이와 합병해 슈파텐-뢰벤브로이 그룹의 일원이 되었다. 뮌헨에서 가장 오래된 비어가르텐 중 하나를 운영하고 있으며, 1810년부터 이어진 옥토버페스트에 참가하는 6대 뮌헨 양조장 중 하나로 남아 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "17세기 프레스코화에서 유래한 사자 문장과 1810년부터 끊이지 않은 옥토버페스트 참가 이력을 내세우는 뮌헨의 대표 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.loewenbraeu.de",
+  "entityLinks": {
+   "wikidata": "Q256392",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q256392",
+    "https://ko.wikipedia.org/wiki/%EB%A2%B0%EB%B2%A4%EB%B8%8C%EB%A1%9C%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/L%C3%B6wenbr%C3%A4u_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q256392",
+   "country": "독일",
+   "inception": "1516",
+   "headquarters": "뮌헨",
+   "founders": [],
+   "parent": "Spaten-Löwenbräu-Gruppe",
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Löwenbräu Brewery」 본문과 위키데이터 Q256392 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

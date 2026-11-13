@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q208489",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 276,
+  "enViews": 67444,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/el-al-israel-airlines-ltd-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "el-al-israel-airlines-ltd",
+  "urlSlug": "el-al-israel-airlines-ltd",
+  "name": "엘알 이스라엘 항공",
+  "nameKo": "엘알 이스라엘 항공",
+  "nameEn": "EL AL Israel Airlines Ltd.",
+  "definition": "엘알 이스라엘 항공(EL AL Israel Airlines Ltd.)은 이스라엘의 국책 항공사이다. 텔아비브 벤구리온 공항을 허브 공항으로 이용한다.",
+  "summary": "엘알 이스라엘 항공(EL AL Israel Airlines Ltd.)은 이스라엘의 국책 항공사이다. 텔아비브 벤구리온 공항을 허브 공항으로 이용한다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "이스라엘의 국책 항공사로, 국적기로서 해외 분쟁 시 유대인들을 구출하는 역할을 맡아 온 점이 다른 항공사와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "엘알 이스라엘 항공은 이스라엘의 국책 항공사로, 텔아비브 벤구리온 공항을 허브 공항으로 이용한다. 1948년에 세워진 항공사로, 현재 유럽, 북아메리카, 남아메리카, 아시아 지역의 36개 도시에 취항하고 있다. 국적기로서 해외에서 각종 분쟁이 발생했을 때 유대인들을 구출하는 역할도 담당하는 점이 특징이다. 2005년 이스라엘 정부에 의해 민영화되면서 개인 회사가 되었다. 2025년 5월 기준으로 보유 기종은 Boeing 한 제작사의 항공기로만 구성되어 있으며, 평균 기령은 12.7년이다. 항공 동맹에는 소속되어 있지 않으며, 대한민국에는 2027년 3월에 복항할 예정이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1948년 9월 이스라엘 초대 대통령 Chaim Weizmann이 제네바 회의에 참가했다가 돌아오면서 이스라엘 공군 비행기를 이용했다. 이스라엘 정부는 보안 문제를 고려해 군용 항공기에 El Al Israel National Aviation Company라는 임시 로고를 그려 넣고 운항했고, 이를 계기로 같은 해 11월 세워진 항공사의 이름도 엘알 항공으로 붙여졌다. 1949년 Douglas DC-4 항공기를 도입하고 파리에 취항했으며, 1949년부터 1950년까지 예멘에서 유대인 주민을 이스라엘로 옮기는 Operation Magic Carpet에 주력으로 참가했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1971년 최초로 Boeing 747 기종을 도입했고, 1973년에 추가로 도입해 텔아비브에서 뉴욕으로 직항 노선에 취항했다. 1977년에는 전세 항공사 El Al Charter Services를 설립했으며, 이 회사는 후에 선도르 국제항공으로 사명을 변경했다. 1988년에는 로스앤젤레스에 직항 노선을 개설했고, 1996년에는 요르단에 직항 노선을 취항했다. 1994년 Boeing 747-400, 2000년 Boeing 777 기종을 도입했으며, 1997년에는 별도 회사로 화물 부문을 설립했다. 여러 항공사와 코드셰어 협정을 맺고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 이스라엘 정부에 의해 민영화되어 개인 회사가 되었다. 2025년 5월 기준으로 Boeing 기종만으로 항공기를 운용하며 평균 기령은 12.7년이고, 항공 동맹에는 소속되어 있지 않다. 대한민국에는 1995년 서울-텔아비브 직항을 취항했다가 외환 위기의 여파로 1997년에 단항했고, 2027년 3월에 복항할 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이스라엘의 국책 항공사로, 국적기로서 해외 분쟁 시 유대인들을 구출하는 역할을 맡아 온 점이 다른 항공사와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.elal.co.il",
+  "entityLinks": {
+   "wikidata": "Q208489",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q208489",
+    "https://ko.wikipedia.org/wiki/%EC%97%98%EC%95%8C_%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/El_Al"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q208489",
+   "country": "이스라엘",
+   "inception": "1948",
+   "headquarters": "벤구리온 국제공항",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「엘알 이스라엘 항공」 요약과 위키데이터 Q208489 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

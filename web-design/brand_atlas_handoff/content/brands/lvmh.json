@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q504998",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lvmh-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lvmh",
+  "urlSlug": "lvmh",
+  "name": "LVMH",
+  "nameKo": "",
+  "nameEn": "LVMH",
+  "definition": "LVMH는 명품을 전문으로 하는 프랑스의 다국적 지주회사이자 복합기업이다. 본사는 파리에 있으며 1987년 루이 비통과 모에 헤네시의 합병으로 만들어졌다.",
+  "summary": "LVMH는 명품을 전문으로 하는 프랑스의 다국적 지주회사이자 복합기업이다. 본사는 파리에 있으며 1987년 루이 비통과 모에 헤네시의 합병으로 만들어졌다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.416666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "여러 명품 하우스를 자회사로 두고 독립적으로 운영하게 하는 지주회사이며, 1987년 합병으로 출범한 뒤 Bernard Arnault가 지배권을 확보했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "LVMH는 약 60개 자회사를 통해 75개 명품 브랜드를 운영하는 프랑스의 지주회사이다. 포트폴리오에는 Christian Dior SE, Givenchy, Fendi, Celine, Tiffany & Co., Bulgari, TAG Heuer, Sephora, Loro Piana 등이 포함된다. 자회사는 대체로 독립적으로 운영되며 Fashion Group, Wines and Spirits, Perfumes and Cosmetics, Watches and Jewelry, Selective Distribution, Other Activities의 여섯 부문으로 묶인다. 주요 시장은 프랑스, 일본, 미국이다. Bernard Arnault가 회장 겸 CEO이자 최대 주주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "LVMH는 1987년 패션 하우스 Louis Vuitton(1854년 설립)과 Moët Hennessy가 합병하며 출범했다. Moët Hennessy는 샴페인 생산자 Moët & Chandon(1743년 설립)과 코냑 생산자 Hennessy(1765년 설립)가 1971년 합병해 만들어졌다. 합병 후 전신 기업의 수장인 Alain Chevalier와 Henry Racamier는 미래 비전을 두고 갈등했고, Racamier가 Bernard Arnault에게 투자를 권했다. Arnault는 빠르게 LVMH의 지배권을 확보했으며, 흔히 알려진 것과 달리 LVMH를 설립한 인물은 아니다. Alain Chevalier는 2018년 11월 1일 87세로 사망했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "LVMH의 사업은 Fashion Group, Wines and Spirits, Perfumes and Cosmetics, Watches and Jewelry, Selective Distribution, Other Activities의 여섯 부문으로 구성된다. 대표 브랜드로 Louis Vuitton, Moët Hennessy, Christian Dior SE, Givenchy, Fendi, Celine, Tiffany & Co., Bulgari, TAG Heuer, Sephora, Loro Piana가 있다. 미디어 자회사로 Les Echos-Le Parisien Group을 소유하며, 와인 에스테이트인 Château d'Yquem도 LVMH 소유이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Bernard Arnault는 LVMH의 회장 겸 CEO이자 최대 주주이며, 2026년 기준 세계에서 가장 부유한 사람 중 한 명이다. 2023년 4월 LVMH는 유럽 기업 최초로 기업가치 500 billion 달러를 넘어섰고, 같은 해 Forbes Global 2000에서 47위를 기록했다. Euro Stoxx 50 지수의 구성 종목이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여러 명품 하우스를 자회사로 두고 독립적으로 운영하게 하는 지주회사이며, 1987년 합병으로 출범한 뒤 Bernard Arnault가 지배권을 확보했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lvmh.com/",
+  "entityLinks": {
+   "wikidata": "Q504998",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q504998",
+    "https://ko.wikipedia.org/wiki/LVMH",
+    "https://en.wikipedia.org/wiki/LVMH"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q504998",
+   "country": "프랑스",
+   "inception": "1987",
+   "headquarters": "파리",
+   "founders": [
+    "Alain Chevalier",
+    "앙리 라카미에"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「LVMH」 본문과 위키데이터 Q504998 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

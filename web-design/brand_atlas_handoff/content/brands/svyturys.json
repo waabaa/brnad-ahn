@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q12680342",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "svyturys",
+  "urlSlug": "svyturys",
+  "name": "Švyturys",
+  "nameKo": "",
+  "nameEn": "Švyturys",
+  "definition": "Švyturys는 리투아니아 클라이페다에 본사를 둔 맥주 양조장이다. 1784년에 상인 가문 Reincke가 설립했으며 리투아니아에서 두 번째로 오래된 맥주 양조장이다.",
+  "summary": "Švyturys는 리투아니아 클라이페다에 본사를 둔 맥주 양조장이다. 1784년에 상인 가문 Reincke가 설립했으며 리투아니아에서 두 번째로 오래된 맥주 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "리투아니아에서 두 번째로 오래된 양조장으로, 독일식 수직·수평 양조 용기를 쓰는 유일한 대형 리투아니아 양조장이다. 상징에는 바다독수리가 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Švyturys는 리투아니아 클라이페다에 있는 맥주 양조장으로, 이름은 영어로 Lighthouse를 뜻한다. 이 양조장은 Švyturys-Utenos alus에 속하며, 이 회사는 Baltic Beverages Holding을 통해 Carlsberg Group이 지배한다. 옛 독일식 양조 기술을 지금도 사용해 수직·수평 용기에서 맥주를 빚는다. 리투아니아 대형 양조장 가운데 이런 용기를 쓰는 곳은 Švyturys뿐이다. 맥주는 호주, 캐나다, 덴마크, 에스토니아, 폴란드, 미국 등 20개국 넘게 수출된다. 2012년에는 약 34 million 리터를 생산할 계획이었으며 대부분이 Extra lager였고, 이 맥주는 2012년 World Beer Cup 금상을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1784년 상인 J. W. Reincke가 클라이페다에 양조장을 세웠다. 당시 클라이페다의 독일식 이름은 Memel이었으며, 양조장 상징에는 Reincke 가문 문장에도 있는 바다독수리가 들어갔다. 1871년 Theodor Preuss의 양조장과 Reincke 후손의 양조장이 합병되어 주식회사 형태의 Memel 양조장이 되었다. 전쟁 중에는 Ostquell로 불렸고 1944년 거의 완전히 파괴되었다가 재건되어 1946년 Švyturys라는 이름으로 맥주 생산을 시작했다. 1960년대에 개발된 전통 Baltijos 맥주 레시피는 지금도 쓰인다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Extra lager로, 리투아니아에서 가장 많은 상을 받은 맥주이다. 전통 Baltijos는 Märzen 스타일 맥주이며 Švyturys 맥주 가운데 시장 선두가 되었다. 이 밖에 Švyturio Baltas(Hefeweizen), Švyturio Gintarinis(Pilsner), Švyturio Stipriausias(German-Style Bock), Švyturio 20 statinių(Stout), Švyturio Nealkoholinis(Lager) 등이 있다. Old Port Ale(Scottish Ale)과 Keltų(English Pale Ale) 같은 에일도 양조한다. 1973년에는 살균 맥주 생산을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Carlsberg Group이 소유하며 Baltic Beverages Holding을 통해 Švyturys-Utenos alus를 지배한다. 1999년 덴마크 기반 Carlsberg A/S가 지분 대부분을 인수해 생산 시설 개선에 투자했고, 2001년 Švyturys와 Utenos Alus가 Švyturys-Utenos Alus AB로 합병되었다. 2003년 2월 이 회사는 비공개 유한회사 Švyturys-Utenos Alus UAB로 개편되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "리투아니아에서 두 번째로 오래된 양조장으로, 독일식 수직·수평 양조 용기를 쓰는 유일한 대형 리투아니아 양조장이다. 상징에는 바다독수리가 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q12680342",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12680342",
+    "https://en.wikipedia.org/wiki/%C5%A0vyturys"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12680342",
+   "country": "리투아니아",
+   "inception": "1784",
+   "headquarters": "클라이페다",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Švyturys」 본문과 위키데이터 Q12680342 팩트를 근거로 편집"
+ }
+}

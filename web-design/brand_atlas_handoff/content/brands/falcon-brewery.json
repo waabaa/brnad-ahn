@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5431739",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "falcon-brewery",
+  "urlSlug": "falcon-brewery",
+  "name": "Falcon Brewery",
+  "nameKo": "",
+  "nameEn": "Falcon Brewery",
+  "definition": "Falcon Brewery는 스웨덴 팔켄베리에 있던 양조 회사이다. 정식 사명은 Bryggeri AB Falken이며, Carlsberg에 인수된 뒤 현재는 그 생산 시설 중 하나이다.",
+  "summary": "Falcon Brewery는 스웨덴 팔켄베리에 있던 양조 회사이다. 정식 사명은 Bryggeri AB Falken이며, Carlsberg에 인수된 뒤 현재는 그 생산 시설 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 팔켄베리에서 1896년 설립되어 Falcon이라는 이름으로 맥주를 판매했고, 현재는 Carlsberg의 생산 시설 중 하나가 된 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 스웨덴 팔켄베리에서 맥주를 만든 양조 회사로, 정식 사명은 Bryggeri AB Falken이었다. 1896년 John L Skantze가 설립했고, 1955년부터 Falcon이라는 이름으로 맥주를 판매하기 시작했다. Class IIB 맥주 금지 조치 이후 어려움을 겪다가 1977년 Pripps에 인수되어 Borås의 Sandwalls와 결합되었다. 1985년에는 생산을 맡는 Falken과 마케팅·유통·판매를 맡는 Falcon으로 나뉘었고, 1994년 Falcon으로 합병되었다. 1989년에는 Östersund의 Till 양조장들과 결합되기도 했다. 1996년 Carlsberg에 매각되었으며, 현재는 Carlsberg의 생산 시설 중 하나로 남아 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1896년 John L Skantze가 회사를 설립했다. 그는 금융 지원을 받을 수 있다는 이유로 팔켄베리를 입지로 골랐다. 1955년부터 Falcon이라는 이름으로 맥주를 판매하기 시작했고, 회사는 계속 성장했다. 그러나 Class IIB 맥주 금지 이후 어려움을 겪었고, 1977년 Pripps에 인수되어 Borås의 Sandwalls와 결합되었으며 Sandwalls는 1981년에 문을 닫았다. 1985년 회사는 생산을 맡는 Falken과 마케팅·유통·판매를 맡는 Falcon으로 나뉘었고, 1989년에는 Östersund의 Till 양조장들과 결합되었으며 1994년 Falcon으로 합병되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1996년 이 회사는 Carlsberg에 매각되었다. 현재 팔켄베리의 시설은 Carlsberg의 생산 시설 중 하나이다. 이에 앞서 1977년에는 Pripps에 인수되었고 1994년에는 Falcon으로 합병되어 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 팔켄베리에서 1896년 설립되어 Falcon이라는 이름으로 맥주를 판매했고, 현재는 Carlsberg의 생산 시설 중 하나가 된 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q5431739",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5431739",
+    "https://en.wikipedia.org/wiki/Falcon_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5431739",
+   "country": "스웨덴",
+   "inception": "1896",
+   "headquarters": "팔켄베리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Falcon Brewery」 본문과 위키데이터 Q5431739 팩트를 근거로 편집"
+ }
+}

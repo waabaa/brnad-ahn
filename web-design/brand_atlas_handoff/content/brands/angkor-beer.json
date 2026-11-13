@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4763317",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "angkor-beer",
+  "urlSlug": "angkor-beer",
+  "name": "Angkor Beer",
+  "nameKo": "",
+  "nameEn": "Angkor Beer",
+  "definition": "Angkor Beer는 캄보디아의 라거 맥주이다. 시엠레아프 근처에 있는 상징적인 앙코르 사원에서 이름을 따왔으며, 캄보디아에서 가장 널리 소비되는 맥주이다.",
+  "summary": "Angkor Beer는 캄보디아의 라거 맥주이다. 시엠레아프 근처에 있는 상징적인 앙코르 사원에서 이름을 따왔으며, 캄보디아에서 가장 널리 소비되는 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "앙코르 사원에서 이름을 딴 캄보디아 라거로, 캄보디아에서 가장 많이 소비되며 \"My Country, My Beer\"를 공식 모토로 내세운다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "캄보디아의 상징인 앙코르 사원에서 이름을 따온 라거 맥주로, 캄보디아에서 가장 많이 소비되는 맥주이다. Klang Beer, Bayon Beer, Angkor Extra Stout, Black Panther Premium Stout와 함께 시아누크빌의 Cambrew Brewery에서 양조된다. 공식 모토는 \"My Country, My Beer\"이다. 캄보디아 안에서만 인기가 있는 것이 아니라 유럽 연합, 일본, 호주, 미국을 포함한 여러 나라로 수출된다. 1963년 시아누크빌의 Angkor Beer Factory에서 처음 생산되었고, 1992년 같은 자리에서 생산이 재개되었다. 로고는 1993년 국기 변경 이후 이에 맞추어 갱신되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1963년 캄보디아 시아누크빌의 Angkor Beer Factory에서 Angkor Beer가 처음 생산되었다. 이 공장은 1960년대 초 캄보디아 정부가 프랑스의 건설 및 기술 지원을 받아 세웠으며, 양조장 설립 계획은 프랑스 식민지 시기인 1920년대 초부터 추진되어 왔다. 공장은 Angkor Beer와 Bayon Beer 두 브랜드를 생산했다. 1970년대 Lon Nol 시기에 손실이 계속되다 결국 폐쇄되었고 Khmer Rouge 정권에 의해 파괴되어, 1970년대 후반과 1980년대에는 가동이 중단되었다. 1991년 한 호주 회사가 재건에 관심을 보였으나 불리한 여건 때문에 철수했고, 같은 해 말레이시아 회사가 인수해 이름을 Cambrew로 바꾸었다. 1992년 원래 자리에서 Angkor Beer 생산이 재개되었으며 Bayon Beer는 1995년에 다시 생산되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 앙코르 사원에서 이름을 딴 라거 맥주 Angkor Beer이다. Cambrew Brewery에서는 Angkor Beer 외에 Klang Beer, Bayon Beer, Angkor Extra Stout, Black Panther Premium Stout도 함께 양조한다. Bayon Beer는 Angkor Beer와 함께 초기 공장에서 생산되던 브랜드이며 1995년에 생산이 재개되었다. Angkor Beer 제품은 유럽 연합, 일본, 호주, 미국을 비롯한 세계 여러 나라로 수출된다. 공식 모토는 \"My Country, My Beer\"이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Angkor Beer는 캄보디아에서 가장 많이 소비되는 맥주이며 시아누크빌의 Cambrew Brewery에서 양조된다. 제품은 캄보디아 안팎에서 인기가 있어 유럽 연합, 일본, 호주, 미국 등 여러 나라로 수출된다. 1993년 캄보디아에 민주주의가 회복되면서 국기가 앙코르 사원 세 개만 담도록 바뀌었고, 로고도 이에 맞춰 갱신되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "앙코르 사원에서 이름을 딴 캄보디아 라거로, 캄보디아에서 가장 많이 소비되며 \"My Country, My Beer\"를 공식 모토로 내세운다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.angkorbeer.com.kh",
+  "entityLinks": {
+   "wikidata": "Q4763317",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4763317",
+    "https://en.wikipedia.org/wiki/Angkor_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4763317",
+   "country": "캄보디아",
+   "inception": "1963",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Angkor Beer」 본문과 위키데이터 Q4763317 팩트를 근거로 편집"
+ }
+}

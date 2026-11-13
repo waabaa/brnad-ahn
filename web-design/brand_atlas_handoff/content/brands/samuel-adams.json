@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q21286736",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/samuel-adams-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "samuel-adams",
+  "urlSlug": "samuel-adams",
+  "name": "사뮤엘 아담스",
+  "nameKo": "사뮤엘 아담스",
+  "nameEn": "Samuel Adams",
+  "definition": "사뮤엘 아담스(Samuel Adams)는 미국 Boston Beer Company의 대표 맥주 브랜드이다. 미국 건국의 아버지 Samuel Adams의 이름을 따서 지었으며 1984년에 설립되었다.",
+  "summary": "사뮤엘 아담스(Samuel Adams)는 미국 Boston Beer Company의 대표 맥주 브랜드이다. 미국 건국의 아버지 Samuel Adams의 이름을 따서 지었으며 1984년에 설립되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "미국 건국의 아버지의 이름을 딴 Boston Beer Company의 대표 브랜드로, 28% 도수까지 오른 한정판 Utopias와 Red Sox 공식 맥주로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "사뮤엘 아담스는 1984년 미국에서 시작된 Boston Beer Company의 대표 브랜드이며 흔히 Sam Adams로 줄여 부른다. 이름은 미국 건국의 아버지 Samuel Adams에게서 따왔다. 그는 보스턴 King Street에 있던 아버지의 양조장을 물려받아 양조업자 또는 맥아 제조업자로 일했다. 맥주는 Jim Koch가 세운 Boston Beer Company가 양조하며, 지금 Samuel Adams Boston Lager로 알려진 레시피에서 출발했다. 2018 시즌부터 Boston Red Sox의 공식 맥주 자리를 맡고 있고, 2020년에는 보스턴 Faneuil Hall Plaza에 탭룸을 열었다. 2002년에는 알코올 도수 24%의 Utopias를 출시해 세계에서 가장 강한 상업 맥주로 홍보했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Boston Beer Company는 Jim Koch가 매사추세츠주 케임브리지에서 설립했다. Koch는 자신의 집에서 소규모 양조장을 시작했다. 그의 집안은 신시내티 양조업자의 오랜 계보를 이었고, 이 맥주는 지금 Samuel Adams Boston Lager로 알려진 레시피로 출발했다. Boston Brewery는 1987년에 문을 열었으며 Boston Lager를 제외한 모든 맥주가 이곳에서 처음 만들어졌다. 이 양조장은 Jamaica Plain의 Haffenreffer–JPNDC Brewery Small Business Complex에 있으며 공개 투어와 시음을 운영한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 연중 판매 맥주와 계절 한정 맥주로 나뉘며, 대표 레시피는 Samuel Adams Boston Lager이다. 2002년에 출시한 Utopias는 24% abv로 세계에서 가장 강한 상업 맥주로 홍보되었고, 이후 해마다 새 빈티지를 내며 도수를 2007년 27%, 2019년 28%까지 높였다. Utopias는 한정된 병만 출시되어 2007년에는 12,000병, 2009년에는 9,000병이 생산되었다. 구리빛 양조 솥을 닮은 도자기 병에 담겨 팔리며, 한 병 가격은 2002년 $100에서 2019년 $210이 되었다. 계절 맥주 Fezziwig는 매사추세츠주의 최고 크리스마스·겨울 맥주로 꼽힌 적이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018 시즌부터 Boston Red Sox의 공식 맥주가 되어 Budweiser를 대체했다. 8년 계약은 2025 시즌까지였으나 2025년에 10년 연장되어 2035년까지 이어진다. 2020년 기준 공식 맥주는 5.5% ABV의 session IPA인 Wicked Fenway IPA이다. 양조장은 보스턴 외에 오하이오주 신시내티와 펜실베이니아주 Lehigh Valley에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 건국의 아버지의 이름을 딴 Boston Beer Company의 대표 브랜드로, 28% 도수까지 오른 한정판 Utopias와 Red Sox 공식 맥주로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.samueladams.com",
+  "entityLinks": {
+   "wikidata": "Q21286736",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21286736",
+    "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%AE%A4%EC%97%98_%EC%95%84%EB%8B%B4%EC%8A%A4_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Samuel_Adams_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q21286736",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Samuel Adams (beer)」 본문과 위키데이터 Q21286736 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

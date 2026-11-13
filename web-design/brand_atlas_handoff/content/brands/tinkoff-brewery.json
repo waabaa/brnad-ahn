@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3529196",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tinkoff-brewery",
+  "urlSlug": "tinkoff-brewery",
+  "name": "Tinkoff brewery",
+  "nameKo": "",
+  "nameEn": "Tinkoff brewery",
+  "definition": "Tinkoff brewery는 1998년 러시아 상트페테르부르크에서 사업가 Oleg Tinkov가 브루펍으로 시작한 러시아의 맥주 회사이다. 2005년 InBev에 매각되었다.",
+  "summary": "Tinkoff brewery는 1998년 러시아 상트페테르부르크에서 사업가 Oleg Tinkov가 브루펍으로 시작한 러시아의 맥주 회사이다. 2005년 InBev에 매각되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "러시아 사업가 Oleg Tinkov가 브루펍으로 시작해 몇 년 만에 대형 맥주 회사로 성장한 뒤 2005년 InBev에 넘어간 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tinkoff brewery는 1998년 상트페테르부르크에서 사업가 Oleg Tinkov가 브루펍으로 시작한 러시아의 맥주 회사이다. 아메리칸 스타일 양조 레스토랑으로 문을 연 뒤 러시아에서 네 번째로 큰 독립 맥주 회사로 성장했고, 러시아 곳곳에 브루펍을 여러 곳 더 열었다. 주력 브랜드는 Corona와 비슷한 라이트 맥주 Tinkoff Zolotoe였다. 2005년 7월 InBev가 Pushkin 양조장과 Tinkoff 브랜드명을 €167 million에 인수했다. InBev는 2008년 12월 Tinkoff를 생산하던 시설을 폐쇄했고 다른 시설로 생산을 옮기지 않기로 했다. 그 결과 병입 Tinkoff는 더 이상 판매되지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Tinkoff brewery는 1998년 상트페테르부르크에서 현지 사업가 Oleg Tinkov가 브루펍으로 세웠다. 아메리칸 스타일의 양조 레스토랑으로 문을 연 뒤 몇 년 만에 러시아 최대 규모의 맥주 회사 가운데 하나가 되었고, 러시아에서 네 번째로 큰 독립 맥주 회사로 커졌다. 2002년에는 상트페테르부르크 인근 Pushkin에 2 million hectoliter 규모의 최신식 양조장을 열었다. 이후 상트페테르부르크, 모스크바, 카잔 등 러시아 여러 도시에 브루펍을 더 열었다. 2005년 7월 InBev가 Pushkin 양조장과 Tinkoff 브랜드명을 €167 million에 사들였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Tinkoff Zolotoe(Tinkoff Golden)라는 맥주였다. Corona와 비슷한 라이트 맥주로 설명된다. 사업은 2002년 Pushkin에 문을 연 2 million hectoliter 규모의 양조장에서 만든 맥주와 브루펍 레스토랑 체인으로 나뉘었다. 레스토랑 체인은 상트페테르부르크, 모스크바, 사마라, 노보시비르스크, 니즈니노브고로드, 우파, 예카테린부르크, 소치, 알마티, 카잔에 있었다. Oleg Tinkov는 InBev에 양조장을 판 뒤에도 이 체인을 보유하다가 2009년 Mint Capital에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 InBev로 기록되어 있다. InBev는 2008년 12월 Tinkoff를 생산하던 시설을 폐쇄했고 다른 시설로 생산을 옮기지 않기로 했다. 병입 Tinkoff는 더 이상 판매되지 않는다. Mint Capital은 2010년 5월 매각을 모색한다고 밝혔고, 2010년 말 Tinkoff Brewery 지분을 매각했다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아 사업가 Oleg Tinkov가 브루펍으로 시작해 몇 년 만에 대형 맥주 회사로 성장한 뒤 2005년 InBev에 넘어간 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tinkoff.ru/",
+  "entityLinks": {
+   "wikidata": "Q3529196",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3529196",
+    "https://en.wikipedia.org/wiki/Tinkoff_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3529196",
+   "country": "러시아",
+   "inception": "1998",
+   "headquarters": "상트페테르부르크",
+   "founders": [],
+   "parent": "인베브",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Tinkoff Brewery」 본문과 위키데이터 Q3529196 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q748148",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kawasaki-heavy-industries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kawasaki-heavy-industries",
+  "urlSlug": "kawasaki-heavy-industries",
+  "name": "가와사키 중공업",
+  "nameKo": "가와사키 중공업",
+  "nameEn": "Kawasaki Heavy Industries",
+  "definition": "가와사키 중공업(Kawasaki Heavy Industries)은 일본의 중공업 회사이다. 선박, 철도 차량, 항공기, 이륜차 등의 수송 기기와 그 외 기계 장치를 생산한다.",
+  "summary": "가와사키 중공업(Kawasaki Heavy Industries)은 일본의 중공업 회사이다. 선박, 철도 차량, 항공기, 이륜차 등의 수송 기기와 그 외 기계 장치를 생산한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "조선소로 출발해 선박, 철도 차량, 항공기, 이륜차까지 폭넓게 생산하는 일본의 중공업 기업이며, 미쓰비시 중공업, IHI와 나란히 꼽힌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "가와사키 중공업은 일본 굴지의 중공업 회사로, 선박, 철도 차량, 항공기, 이륜차 등의 수송 기기와 기계 장치를 생산한다. 메이지 시대의 조선소로 시작해 제1차 세계대전에 따른 조선 활황, 세계 대공황, 제2차 세계대전, 전후의 고도 성장기를 거치며 일본의 근대사, 산업사와 함께 존속해 왔다. 현재는 미쓰비시 중공업, IHI와 함께 일본의 주요 중공업 기업 중 하나이다. 본사는 고베시 주오구의 고베 크리스탈 타워에 있으며, 도쿄도 미나토구 하마마쓰초에도 도쿄 본사를 운영한다. 이전에는 가와사키 재벌(마츠카타 콘체른)의 주요 기업인 JFE 스틸(구 가와사키 제철), 가와사키 기선 등이 모두 관련된 회사였다. 다양한 제품을 생산하며 각 분야마다 별도의 컴퍼니를 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1878년 카와사키 쇼조가 창업했으며, 메이지 시대의 조선소로 시작했다. 타이쇼 시대에는 제1차 세계대전에 따른 조선 활황을 맞았고, 이어 세계 대공황과 쇼와 시대의 제2차 세계대전, 전후의 고도 성장기를 지나왔다. 이 과정에서 일본의 근대사, 산업사와 함께 존속해 온 유서 깊은 역사를 쌓았다. 이전에는 가와사키 재벌(마츠카타 콘체른)의 주요 기업인 JFE 스틸(구 가와사키 제철), 가와사키 기선 등이 모두 관련된 회사였다. 이 중 조선업은 2002년 가와사키 조선으로 분사했다가 2010년 다시 합병되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "선박, 철도 차량, 항공기, 이륜차 등의 수송 기기와 그 외 기계 장치를 생산하며, 각 분야마다 별도의 컴퍼니를 운영한다. 2014년을 기준으로 가스터빈 컴퍼니, 차량 컴퍼니, 항공 우주 컴퍼니, 모터사이클앤엔진 컴퍼니 등이 있다. 그룹 연결 매출은 범용기(이륜차 등) 제조업이 27.7%, 항공우주 사업 16.5%, 차량 제조 사업 12.7%, 플랜트, 환경, 철구제조업 12.4%, 가스 터빈, 기계 제조업 12.2%, 조선업 8.2%, 그 외 사업이 10%를 차지한다. 이 가운데 이륜차 등이 속한 범용기 제조업의 비중이 가장 크다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "일본 굴지의 중공업 회사로, 본사는 고베시 주오구의 고베 크리스탈 타워에 있으며 도쿄도 미나토구 하마마쓰초에도 도쿄 본사를 운영한다. 근래에는 전통적인 사업인 조선업의 비율이 저하되고 있으며, 매출 구성에서 조선업의 비중은 8.2%이다. 현재는 미쓰비시 중공업, IHI(구 이시카와지마 하리마 중공업)와 함께 일본의 주요 중공업 기업 중 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "조선소로 출발해 선박, 철도 차량, 항공기, 이륜차까지 폭넓게 생산하는 일본의 중공업 기업이며, 미쓰비시 중공업, IHI와 나란히 꼽힌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://global.kawasaki.com/",
+  "entityLinks": {
+   "wikidata": "Q748148",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q748148",
+    "https://ko.wikipedia.org/wiki/%EA%B0%80%EC%99%80%EC%82%AC%ED%82%A4_%EC%A4%91%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/Kawasaki_Heavy_Industries"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q748148",
+   "country": "일본",
+   "inception": "1878",
+   "headquarters": "고베 크리스탈 타워",
+   "founders": [
+    "카와사키 쇼조"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「가와사키 중공업」 요약과 위키데이터 Q748148 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

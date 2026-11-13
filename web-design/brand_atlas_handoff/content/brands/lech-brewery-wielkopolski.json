@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q6511530",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "lech-brewery-wielkopolski",
+  "urlSlug": "lech-brewery-wielkopolski",
+  "name": "Lech Brewery Wielkopolski",
+  "nameKo": "",
+  "nameEn": "Lech Brewery Wielkopolski",
+  "definition": "Lech Brewery Wielkopolski는 폴란드 포즈난에 있는 대형 산업형 맥주 양조장이다. 생산 능력은 7.5 million hl이며, Asahi Breweries 자회사인 Kompania Piwowarska SA가 소유한다.",
+  "summary": "Lech Brewery Wielkopolski는 폴란드 포즈난에 있는 대형 산업형 맥주 양조장이다. 생산 능력은 7.5 million hl이며, Asahi Breweries 자회사인 Kompania Piwowarska SA가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1996년 South African Breweries에 인수된 뒤 Tyskie Brewery와 합쳐져 Kompania Piwowarska를 이룬 포즈난의 대형 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lech Brewery Wielkopolski는 폴란드 포즈난에 자리한 대형 산업형 맥주 양조장이며, 생산 능력은 7.5 million hl이다. 양조장은 Asahi Breweries 자회사인 Kompania Piwowarska SA가 소유한다. 현대식 양조 시설은 1975년부터 1980년 사이에 건설되었고, 1984년에는 맥아 제조 시설이 추가되었다. 1996년에는 South African Breweries가 이 양조장을 인수했고, 3년 뒤 Tyskie Brewery와 합쳐져 Kompania Piwowarska가 만들어졌다. 2007년 3월 11일에는 새로 문을 연 구역에 세계에서 가장 큰 맥주잔이 세워졌고, Lech Pils 맥주 4250리터를 채워 한 잔으로 가장 많은 사람이 마시는 기네스 세계 기록을 세웠다. 2017년에는 Kompania Piwowarska가 Asahi에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "포즈난의 현대식 양조 시설은 1975년부터 1980년 사이에 건설되었고, 1984년에 맥아 제조 시설이 추가되었다. 1992년까지 이 양조장은 다른 양조장들과 함께 Wielkopolskie Zakłady Piwowarsko-Słodownicze SA에 속해 있었으나, 1992년 이후에는 회사의 주요 생산 시설인 Lech Browary SA가 되었다. 1993년 정부 부처는 양조장 소유권을 민영화하기로 결정했고, 입찰 결과 기업가 Jan Kulczyk 소유의 Euro Agro Centrum Poznań이 다수 지분을 확보했다. 1996년 South African Breweries가 양조장을 인수했고, 같은 해 Jan Kulczyk와 함께 Tyskie Brewery를 매입했다. 3년 뒤 두 양조장은 합쳐져 Kompania Piwowarska가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Lech Brewery Wielkopolski는 Asahi Breweries 자회사인 Kompania Piwowarska SA가 소유하고 있다. Kompania Piwowarska는 2017년 Asahi에 인수되었다. 양조장은 포즈난에 있는 대형 산업형 시설이며 생산 능력은 7.5 million hl이다. 2007년에는 새로 문을 연 구역에서 세계에서 가장 큰 맥주잔 행사가 열렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1996년 South African Breweries에 인수된 뒤 Tyskie Brewery와 합쳐져 Kompania Piwowarska를 이룬 포즈난의 대형 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kp.pl/",
+  "entityLinks": {
+   "wikidata": "Q6511530",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6511530",
+    "https://en.wikipedia.org/wiki/Lech_Browary_Wielkopolski"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6511530",
+   "country": "폴란드",
+   "inception": "1975",
+   "headquarters": "포즈난",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Lech Browary Wielkopolski」 본문과 위키데이터 Q6511530 팩트를 근거로 편집"
+ }
+}

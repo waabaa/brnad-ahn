@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q682660",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/flensburger-brauerei-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "flensburger-brauerei",
+  "urlSlug": "flensburger-brauerei",
+  "name": "Flensburger Brauerei",
+  "nameKo": "",
+  "nameEn": "Flensburger Brauerei",
+  "definition": "Flensburger Brauerei는 독일 Schleswig-Holstein주의 플렌스부르크에 있는 양조장이다. 1888년에 설립되었으며, 더 큰 양조 그룹에 속하지 않은 채 전국에서 운영되는 마지막 양조장 중 하나이다.",
+  "summary": "Flensburger Brauerei는 독일 Schleswig-Holstein주의 플렌스부르크에 있는 양조장이다. 1888년에 설립되었으며, 더 큰 양조 그룹에 속하지 않은 채 전국에서 운영되는 마지막 양조장 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "병을 열 때 나는 'plopp' 소리가 기업 정체성의 일부이며, 북독일 기질을 앞세운 마케팅으로 지역의 자기 정체성을 상징하게 된 독립 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 Schleswig-Holstein주의 플렌스부르크에 있으며 맥주와 비알코올 음료, 광천수 등을 생산한다. 1888년 9월 6일 플렌스부르크 시민 다섯 명이 설립했으며, 지금도 창립자 가문인 Petersen과 Dethleffsen이 주로 지분을 보유하고 있다. 대형 양조 그룹에 속하지 않은 채 전국에서 운영되는 마지막 양조장 중 하나이다. 모든 제품을 전통적인 플립탑(스윙탑) 마개가 달린 유리병에 담아 판매한다. 1980년대 Rötger Feldmann의 'Werner' 만화로 독일 전역에 알려졌고, 북독일 기질을 내세운 마케팅 이후 이 지역의 자기 정체성을 나타내는 상징이 되었다. 현지에서는 이 회사의 맥주를 주문할 때 흔히 'Flens'라고 부른다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1888년 9월 6일 플렌스부르크 시민 다섯 명이 세웠다. 냉장 기술이 없던 시절에는 겨울에 얼어붙은 호수에서 얼음 덩어리를 잘라 양조장으로 가져와 여름 동안 지하 저장 시설을 차갑게 유지했다. 지금도 자체 우물을 운영하며, 물은 스칸디나비아에서 온 매우 오래된 빙하기 융해수의 지하 수맥에서 공급된다. 원래 Schleswig-Holstein 중심으로 유통되던 지역 맥주였으나, 1980년대 Rötger Feldmann의 'Werner' 만화를 통해 독일 전역에서 인기를 얻었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Flensburger Pilsener, Gold, Dunkel, Weizen, Kellerbier 등의 맥주이며, Weizen은 알코올 도수 5.1%이고 나머지는 4.8%이다. 계절 제품으로 Winterbock(7.0%)과 Frühlingsbock(6.9%)이 있고, 125주년 기념 양조로 내놓은 Edles Helles도 있다. 비알코올 제품으로는 Flensburger Frei와 Flensburger Malz가 있다. 도수 2.4%의 Radler와 Biermix 'Lemongrass', 'Blutorange-Grapefruit'도 판매한다. 광천수 Flensburger Wasser와 청량음료 Flensburger Fassbrause도 제품군에 들어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재도 창립자 가문인 Petersen과 Dethleffsen이 회사 지분의 대부분을 보유하며, 더 큰 양조 그룹에 속하지 않은 독립 양조장으로 남아 있다. 2008년 기준 직원은 약 120명이며, 기술적으로 앞선 고도 자동화 생산 공정을 운영하는 것으로 알려져 있다. 양조장이 캠퍼스 옆에 있어 매년 플렌스부르크 공정공학 전공 학생들이 방문하는 것이 전통 행사가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "병을 열 때 나는 'plopp' 소리가 기업 정체성의 일부이며, 북독일 기질을 앞세운 마케팅으로 지역의 자기 정체성을 상징하게 된 독립 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.flens.de",
+  "entityLinks": {
+   "wikidata": "Q682660",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q682660",
+    "https://en.wikipedia.org/wiki/Flensburger_Brauerei"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q682660",
+   "country": "독일",
+   "inception": "1888",
+   "headquarters": "플렌스부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Flensburger Brauerei」 본문과 위키데이터 Q682660 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

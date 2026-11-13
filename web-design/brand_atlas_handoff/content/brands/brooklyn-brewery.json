@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1764694",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/brooklyn-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "brooklyn-brewery",
+  "urlSlug": "brooklyn-brewery",
+  "name": "브루클린 브루어리",
+  "nameKo": "브루클린 브루어리",
+  "nameEn": "Brooklyn Brewery",
+  "definition": "브루클린 브루어리(Brooklyn Brewery)는 미국 뉴욕 브루클린에 기반을 둔 양조장이다. 1988년 Steve Hindy와 Tom Potter가 설립했으며, Brooklyn Lager 등의 맥주를 만든다.",
+  "summary": "브루클린 브루어리(Brooklyn Brewery)는 미국 뉴욕 브루클린에 기반을 둔 양조장이다. 1988년 Steve Hindy와 Tom Potter가 설립했으며, Brooklyn Lager 등의 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "I Love New York 로고를 만든 Milton Glaser가 정체성을 디자인했고, 광고보다 입소문과 지역 후원으로 알려진 뉴욕 브루클린의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "브루클린 브루어리는 미국 뉴욕 브루클린의 양조장이다. 1988년 Steve Hindy와 Tom Potter가 시작했으며 Brooklyn Lager 등의 맥주를 생산한다. 회사 로고와 정체성은 I Love New York 캠페인 로고를 만든 그래픽 디자이너 Milton Glaser가 만들었다. 광고보다 입소문과 술집에서의 브랜드 노출, 비영리 단체 후원을 중시하는 비전통적인 마케팅을 해 왔으며, Eat Drink Local Week와 Brooklyn Museum 등을 후원했다. 1994년부터 Garrett Oliver가 양조책임자를 맡고 있다. 2016년 10월 일본 기업 Kirin이 지분 24.5%를 인수했고, 같은 해 12월 30일부터 Carlsberg Group이 유럽, 영국, 홍콩에서 맥주를 유통하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Steve Hindy는 사우디아라비아, 쿠웨이트 등 중동 여러 나라에서 6년간 머물며 맥주 양조를 배웠다. 1984년 브루클린으로 돌아온 그는 Park Slope의 아래층 이웃이던 Tom Potter와 함께 직장을 그만두고 양조장을 세웠다. 두 사람은 Milton Glaser에게 로고와 정체성을 맡기고 그 대가로 회사 지분을 주었다. 초기에는 맥주를 Matt Brewing Company에 위탁해 만들었고, 직접 유통회사를 차려 뉴욕시의 술집과 소매점에 맥주를 나르고 팔았다. 1996년에는 Williamsburg의 옛 matzo 공장을 인수해 양조장으로 개조했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "브루클린 브루어리의 대표 제품은 Brooklyn Lager이다. Brooklyn Lager 전량과 병입 제품은 한동안 뉴욕주 북부 Utica에서 위탁 생산되었는데, Williamsburg 양조장의 수요 대응 한계와 병입 설비 부재, 위탁 양조의 비용 이점 때문이었다. Esquire는 2012년 2월 기사에서 Brooklyn Lager 16 ounce 캔을 \"Best Canned Beers to Drink Now\" 가운데 하나로 꼽았다. 2005년에는 Hindy와 Potter가 창업 과정을 담은 책 Beer School: Bottling Success At The Brooklyn Brewery를 John Wiley & Sons에서 펴냈다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 10월 일본 기업 Kirin이 브루클린 브루어리 지분 24.5%를 인수했다. Carlsberg Group은 2016년 12월 30일부터 유럽, 영국, 홍콩의 유통을 맡고 있으며, 리투아니아에 크래프트 양조장을 열어 Brooklyn Lager를 라이선스로 생산한다. 브루클린 브루어리는 Carlsberg와의 합작 투자로 London Fields Brewery도 인수했다. 2016년에는 Williamsburg 시설 이전을 추진하며 Utica의 주 양조장을 Staten Island의 $70 million, 200,000-square-foot 시설로 옮길 계획도 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "I Love New York 로고를 만든 Milton Glaser가 정체성을 디자인했고, 광고보다 입소문과 지역 후원으로 알려진 뉴욕 브루클린의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://brooklynbrewery.com/",
+  "entityLinks": {
+   "wikidata": "Q1764694",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1764694",
+    "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A3%A8%ED%81%B4%EB%A6%B0_%EB%B8%8C%EB%A3%A8%EC%96%B4%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Brooklyn_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1764694",
+   "country": "미국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Brooklyn Brewery」 본문과 위키데이터 Q1764694 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

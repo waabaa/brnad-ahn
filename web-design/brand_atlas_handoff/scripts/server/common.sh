@@ -22,6 +22,7 @@ build_site() {
   node -e 'try{process.exit(JSON.parse(require("fs").readFileSync(process.argv[1],"utf8")).logoAutoApprove===false?1:0)}catch{process.exit(0)}' "$CAT_ADMIN/settings.json" && auto="--auto-approve"
   node scripts/apply-auto-brands.mjs --decisions "$CAT_ADMIN/decisions.json" $auto &&
   node scripts/apply-logo-uploads.mjs --from "$ADMIN_HOME/data/logo-uploads" &&
+  { node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실패"; } &&
   node scripts/build-brand-pages.mjs | tail -1 &&
   node scripts/build-magazine.mjs &&
   node scripts/build-brand-history.mjs &&

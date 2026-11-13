@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q16040593",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ds-automobiles-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ds-automobiles",
+  "urlSlug": "ds-automobiles",
+  "name": "디에스 오토모빌",
+  "nameKo": "디에스 오토모빌",
+  "nameEn": "DS Automobiles",
+  "definition": "디에스 오토모빌(DS Automobiles)은 프랑스에서 2009년에 출범해 현재 스텔란티스에 소속된 프리미엄 자동차 브랜드이다. 원래 시트로엥의 서브 브랜드였으며 2015년부터 독립 브랜드로 운영된다.",
+  "summary": "디에스 오토모빌(DS Automobiles)은 프랑스에서 2009년에 출범해 현재 스텔란티스에 소속된 프리미엄 자동차 브랜드이다. 원래 시트로엥의 서브 브랜드였으며 2015년부터 독립 브랜드로 운영된다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "시트로엥의 서브 브랜드에서 2015년 독립 브랜드로 출발한 스텔란티스 소속 프랑스 프리미엄 자동차 브랜드이며, 모든 차량의 전기차화를 계획한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "디에스 오토모빌은 프랑스에서 2009년에 설립된 스텔란티스 소속의 프리미엄 자동차 브랜드이며, DS 오토모빌이라고도 쓴다. 원래 시트로엥의 서브 브랜드 형식이었으나 2015년부터 독립 브랜드로 런칭했다. 본사는 PSA Poissy Plant이며 PSA 그룹이 창업했다. PSA와 FCA가 합병해 스텔란티스가 출범한 뒤에는 스텔란티스의 계열로 있다. 대한민국에서는 2023년을 마지막으로 수입이 중단됐다. 이름의 디에스(DS)는 남다른 정신(Different Spirit) 혹은 독창적 시리즈(Distinctive Series)의 약어이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "디에스 오토모빌은 2009년 프랑스에서 PSA 그룹이 설립한 브랜드이며 본사는 PSA Poissy Plant이다. 처음에는 시트로엥의 서브 브랜드 형식이었고 PSA 그룹 계열에 속했다. 2015년부터 독립 브랜드로 런칭하며 시트로엥의 서브 브랜드 형식에서 벗어났다. 이후 PSA와 FCA가 합병해 스텔란티스가 출범하면서 스텔란티스의 계열에 속하게 되었다. 이름의 디에스(DS)는 남다른 정신(Different Spirit) 혹은 독창적 시리즈(Distinctive Series)의 약어이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 모델로 DS 3(이전 DS 3 크로스백), DS N°4(이전 DS 4 크로스오버), DS 7(이전 DS 7 크로스백), DS N°8, DS 9가 있다. 단종된 모델로는 DS 3 해치백, DS 4 해치백, DS 4S, DS 5, DS 5LS, DS 6이 있다. 대한민국에서는 시트로엥 산하 브랜드로 수입·판매되다가 2022년부터 스텔란티스코리아가 시트로엥을 담당한 뒤 DS 차량만 판매했으나, 2023년을 마지막으로 수입이 중단됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "디에스 오토모빌은 2015년부터 독립 브랜드로 운영되는 스텔란티스 소속의 프리미엄 브랜드이다. PSA와 FCA가 합병해 스텔란티스가 출범한 뒤 스텔란티스의 계열로 있다. 2025년까지 DS 브랜드의 모든 차량을 전기자동차로 만들 계획을 가지고 있다. 대한민국에서는 2023년을 마지막으로 수입이 중단됐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시트로엥의 서브 브랜드에서 2015년 독립 브랜드로 출발한 스텔란티스 소속 프랑스 프리미엄 자동차 브랜드이며, 모든 차량의 전기차화를 계획한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.dsautomobiles.com/",
+  "entityLinks": {
+   "wikidata": "Q16040593",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16040593",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%97%90%EC%8A%A4_%EC%98%A4%ED%86%A0%EB%AA%A8%EB%B9%8C",
+    "https://en.wikipedia.org/wiki/DS_Automobiles"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16040593",
+   "country": "프랑스",
+   "inception": "2009",
+   "headquarters": "PSA Poissy Plant",
+   "founders": [
+    "그루프 PSA"
+   ],
+   "parent": "시트로엥",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「디에스 오토모빌」 요약과 위키데이터 Q16040593 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

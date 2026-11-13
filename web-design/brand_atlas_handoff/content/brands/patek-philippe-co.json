@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q659096",
+ "demand": {
+  "why": "국내",
+  "naver": 0.178,
+  "koViews": 731,
+  "enViews": 61226,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/patek-philippe-co-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "patek-philippe-co",
+  "urlSlug": "patek-philippe-co",
+  "name": "파텍 필립",
+  "nameKo": "파텍 필립",
+  "nameEn": "Patek Philippe & Co.",
+  "definition": "파텍 필립(Patek Philippe & Co.)은 스위스 제네바에 본사를 둔 시계 제조 회사이다. 적은 수량만 생산하며 세계에서 가장 비싼 시계를 만드는 업체로 알려져 있다.",
+  "summary": "파텍 필립(Patek Philippe & Co.)은 스위스 제네바에 본사를 둔 시계 제조 회사이다. 적은 수량만 생산하며 세계에서 가장 비싼 시계를 만드는 업체로 알려져 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "배터리가 없는 수동식 시계를 적은 수량만 제조하며, 칼라트라바 십자가를 로고로 쓰는 스위스 제네바의 명품 시계 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파텍 필립은 스위스의 시계 제조 회사로, 본사는 제네바에 있다. 적은 수량의 시계만 제조하며 최저가 제품이 수천만원대이고 대부분의 제품은 배터리가 없는 수동식이다. 한국어 위키백과는 파텍 필립을 세계 1위의 명품 시계 브랜드로 소개하며, 바쉐론 콘스탄틴과 함께 스위스의 양대 명품 시계로 꼽는다. 세계 3대 명품 시계로는 파텍 필립, 바쉐론 콘스탄틴, 오데마 피게를 들고, 브레게와 아 랑에 운트 죄네를 더해 5대 명품으로 묶는다. 빅토리아 여왕, 교황 비오 9세, 러시아 마지막 황제 니콜라이 2세 등 유럽 왕가가 애용했다. 한국에서도 최규하 대통령, 장택상 국무총리 등이 애용했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업 시기는 위키데이터에서 1839년, 한국어 위키백과에서 1851년으로 서로 다르게 적혀 있어 하나로 확정하기 어렵다. 창업자는 Antoine Patek과 Adrien Philippe이며, 본사는 제네바에 있다. 한국어 위키백과는 앙뜨와르드 파텍을 폴란드의 망명귀족으로, 장 아드리앙 필립을 프랑스의 시계장인으로 설명한다. 175주년을 맞아 한정 수량의 그랜드마스터 차임을 제작했다. 노틸러스는 20세기에 처음 만들어졌고, 2010년 이전에는 수량이 부족하지 않았으나 2010년대부터 5711과 5712를 중심으로 큰 인기를 끌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 모델은 칼라트라바, 노틸러스, 아쿠아넛이다. 칼라트라바는 심플한 디자인의 시계로 가격이 3000만원을 넘으며, 칼라트라바 십자가는 파텍 필립의 로고이기도 하다. 아쿠아넛은 외형이 노틸러스와 비슷하지만 케이스 테두리가 더 얇고 러버밴드로 되어 있다. 그랜드마스터 차임은 175주년 기념 한정 수량으로 제작되었으며 30가지 이상의 컴플리케이션 기능을 갖추었고, 이 시계로 등록한 특허가 2개 이상이다. 리테일가는 32억원에서 50억원대이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 제네바에 있으며 적은 수량의 시계만 제조한다. 대부분의 제품은 배터리가 없는 수동식이고 최저가 제품은 수천만원대이다. 2010년대부터 노틸러스가 5711과 5712를 중심으로 엄청난 인기를 끌었다. 2020년에는 그랜드마스터 차임이 온리워치 경매에서 약180억에 거래되어 역사상 최고가로 거래된 시계가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "배터리가 없는 수동식 시계를 적은 수량만 제조하며, 칼라트라바 십자가를 로고로 쓰는 스위스 제네바의 명품 시계 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.patek.com/",
+  "entityLinks": {
+   "wikidata": "Q659096",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q659096",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%85%8D_%ED%95%84%EB%A6%BD",
+    "https://en.wikipedia.org/wiki/Patek_Philippe"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q659096",
+   "country": "스위스",
+   "inception": "1839",
+   "headquarters": "제네바",
+   "founders": [
+    "Antoine Patek",
+    "Adrien Philippe"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「파텍 필립」 요약과 위키데이터 Q659096 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

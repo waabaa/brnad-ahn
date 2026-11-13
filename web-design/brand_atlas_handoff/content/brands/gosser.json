@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q696650",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/gosser-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gosser",
+  "urlSlug": "gosser",
+  "name": "괴서",
+  "nameKo": "괴서",
+  "nameEn": "Gösser",
+  "definition": "괴서(Gösser)는 오스트리아 레오벤의 괴서 양조장이 만드는 대표 맥주 브랜드이다. 이 양조장은 오스트리아에서 규모가 가장 크고 잘 알려진 곳 가운데 하나이다.",
+  "summary": "괴서(Gösser)는 오스트리아 레오벤의 괴서 양조장이 만드는 대표 맥주 브랜드이다. 이 양조장은 오스트리아에서 규모가 가장 크고 잘 알려진 곳 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "1960년대부터 슬로건 'Gut. Besser. Gösser.'(좋다. 더 좋다. 괴서.)를 바꾸지 않았고, 중세 수도원 양조 전통을 잇는 오스트리아 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "괴서는 오스트리아 레오벤에 있는 괴서 양조장의 주력 맥주 브랜드이다. 이 양조장은 오스트리아에서 규모가 가장 크고 잘 알려진 양조장 가운데 하나이다. 양조장은 오스트리아 최대 맥주 제조사인 Brau Union에 속해 있으며, Brau Union의 최대주주는 네덜란드 양조 회사 Heineken이다. 괴서의 양조 전통은 중세 슈타이어마르크의 괴서 수도원까지 거슬러 올라가며, 현재의 양조장은 1860년에 다시 세워진 것이다. 1920년대에 저온살균한 맥주를 병에 담아 판매하면서 오스트리아 밖으로 시장을 넓혔고, 1973년에는 연간 850,000배럴을 넘게 생산했다. 1960년대 이후 슬로건 'Gut. Besser. Gösser.'를 그대로 유지해 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "중세 슈타이어마르크의 괴서 수도원에서는 맥주 양조가 흔했으며, 1459년 문서에 첫 양조 책임자가 기록되어 있다. 수도원이 요제프주의 개혁 과정에서 해체된 뒤, 1860년 당시 28세의 Max Kober가 부지를 사들여 양조장을 다시 세우며 전통을 이었다. Kober는 갈리치아(현재의 폴란드)의 Żywiec 양조장에서 양조 책임자로 일한 인물이다. 괴서는 빠르게 상부 슈타이어마르크 최대 양조장이 되었고, 1892년에는 연간 약 60,000배럴을 생산했다. 1930년에는 연간 약 340,000배럴을 생산했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "괴서 양조장의 제품 목록에는 Märzen, Gold, Spezial, Stiftsbräu, Bock 등 여러 종류의 맥주가 올라 있다. 여기에 Zwickl과 Dunkles Zwickl이 더해져 제품군을 이룬다. Naturradler와 Kräuterradler도 같은 제품 목록에 포함된다. 알코올이 들어 있지 않은 제품으로는 Naturgold와 Gösser Kracherl이 있다. 회사는 Spezial이 1955년 오스트리아 국가조약 서명 때 열린 기념 만찬에서 제공되었다는 점을 내세운다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "괴서 양조장은 오스트리아 최대 맥주 제조사인 Brau Union에 속해 있으며, Brau Union의 최대주주는 네덜란드 양조 회사 Heineken이다. 괴서는 1977년 Steirerbrau 그룹에 합류했고, 이 그룹은 1991년 경쟁사 Brau-Beteiligungs-AG(BBAG)에 합병되었다. 1993년부터 두 회사는 Brau Union Austria 아래에서 운영되었으며, 2003년 괴서는 Brau Union과 함께 Heineken International Zoeterwoude에 인수되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1960년대부터 슬로건 'Gut. Besser. Gösser.'(좋다. 더 좋다. 괴서.)를 바꾸지 않았고, 중세 수도원 양조 전통을 잇는 오스트리아 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.goesser.at/",
+  "entityLinks": {
+   "wikidata": "Q696650",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q696650",
+    "https://ko.wikipedia.org/wiki/%EA%B4%B4%EC%84%9C",
+    "https://en.wikipedia.org/wiki/G%C3%B6sser"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q696650",
+   "country": "오스트리아",
+   "inception": "1860",
+   "headquarters": "레오벤",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Gösser」 본문과 위키데이터 Q696650 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

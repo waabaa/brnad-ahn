@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q35896",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lancia-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lancia",
+  "urlSlug": "lancia",
+  "name": "란치아",
+  "nameKo": "란치아",
+  "nameEn": "Lancia",
+  "definition": "란치아(Lancia)는 1906년 토리노에서 Vincenzo Lancia 등이 설립한 이탈리아의 자동차 제조사이다. 현재 Stellantis Europe 산하의 자회사로 운영된다.",
+  "summary": "란치아(Lancia)는 1906년 토리노에서 Vincenzo Lancia 등이 설립한 이탈리아의 자동차 제조사이다. 현재 Stellantis Europe 산하의 자회사로 운영된다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.516666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "랠리 전통과 Lambda의 일체형 차체, Ardea의 5단 변속기 등 기술 혁신으로 알려진 이탈리아 브랜드이다. 현재는 Ypsilon 한 모델만 남아 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "란치아는 이탈리아의 자동차 제조사이며 Stellantis의 유럽 자회사인 Stellantis Europe에 속한다. 강한 랠리 전통과 기술 혁신으로 알려져 있으며, 1922년 Lambda의 일체형 차체와 1948년 Ardea의 5단 변속기가 대표적 사례이다. 1992년 이후 월드 랠리 챔피언십에 출전하지 않았지만 다른 어떤 브랜드보다 많은 제조사 챔피언십을 보유하고 있다. 판매량은 1990년 연 300,000대 이상에서 2010년 100,000대 미만으로 감소했다. 2015년 이후 유일한 제품은 Ypsilon이며 이탈리아 외 지역 판매는 2017년에 끝났다. Ypsilon은 2019년 이탈리아에서 두 번째로 많이 팔린 차였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "란치아의 뿌리는 1906년 11월 27일 토리노에서 설립된 Lancia & C. Fabbrica Automobili이다. Fiat 레이싱 드라이버였던 Vincenzo Lancia와 그의 친구 Claudio Fogolin이 회사를 세웠다. 첫 차는 1907년부터 1908년까지 생산된 Tipo 51(12 HP)이다. 1937년 Vincenzo가 사망한 뒤 아내 Adele Miglietti Lancia와 아들 Gianni Lancia가 경영을 이어받았다. 1969년 Fiat에 편입되었고, 현재의 법인은 2007년 1월 구성되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1913년의 Theta는 전기 시스템을 표준 장비로 갖춘 최초의 유럽 양산차였다. 1922년부터 1931년까지 생산된 Lambda는 란치아 최초의 모노코크 섀시 차량으로, 스프링과 유압 댐퍼를 하나로 합친 슬라이딩 필러 독립 전륜 서스펜션을 갖췄다. 1950년 Aurelia는 최초의 양산 V6 엔진을 탑재했으며, 란치아는 V4 엔진도 최초로 생산한 제조사이다. 1915년에는 첫 트럭 Jota를 만들었다. 현재의 유일한 제품은 Ypsilon이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "란치아는 Stellantis Europe의 자회사이다. 2015년 이후 Ypsilon이 유일한 제품이며 이탈리아 외 지역 판매는 2017년에 끝났다. Stellantis는 프랑스·이탈리아·미국계로 합병된 회사이다. Stellantis는 란치아를 부활시키겠다고 밝혔으며, 여러 모델을 내놓고 수년 만에 이탈리아 밖에서도 판매할 가능성을 시사했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "랠리 전통과 Lambda의 일체형 차체, Ardea의 5단 변속기 등 기술 혁신으로 알려진 이탈리아 브랜드이다. 현재는 Ypsilon 한 모델만 남아 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lancia.com/",
+  "entityLinks": {
+   "wikidata": "Q35896",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35896",
+    "https://ko.wikipedia.org/wiki/%EB%9E%80%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Lancia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q35896",
+   "country": "이탈리아",
+   "inception": "1906",
+   "headquarters": "토리노",
+   "founders": [
+    "Vincenzo Lancia"
+   ],
+   "parent": "Fiat Chrysler Automobiles",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Lancia」 본문과 위키데이터 Q35896 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

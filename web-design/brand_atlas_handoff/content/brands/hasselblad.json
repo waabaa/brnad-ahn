@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q64545",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/hasselblad-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hasselblad",
+  "urlSlug": "hasselblad",
+  "name": "핫셀블라드",
+  "nameKo": "핫셀블라드",
+  "nameEn": "Hasselblad",
+  "definition": "핫셀블라드(Hasselblad)는 스웨덴 예테보리에 본사를 둔 카메라 및 사진 장비 제조 업체이다. 제2차 세계대전 이후 생산한 중형 필름 카메라로 알려졌으며, 아폴로 프로그램의 임무에도 사용되었다.",
+  "summary": "핫셀블라드(Hasselblad)는 스웨덴 예테보리에 본사를 둔 카메라 및 사진 장비 제조 업체이다. 제2차 세계대전 이후 생산한 중형 필름 카메라로 알려졌으며, 아폴로 프로그램의 임무에도 사용되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1841년 무역 회사로 출발해 사진 사업으로 성장한 스웨덴의 카메라 제조 업체이며, 아폴로 프로그램의 임무에도 사용된 중형 카메라로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스웨덴 예테보리에 본사를 둔 카메라 및 사진 장비 제조 업체이다. 제2차 세계대전 이후 생산한 6×6 중형 필름 카메라로 알려지게 되었으며, 사람이 달에 처음 착륙한 아폴로 프로그램의 임무에도 사용되었다. 현재는 새로운 중형 디지털 SLR인 H 시스템을 도입해 Leaf, Phase One과 경쟁하고 있다. 2012년에는 Sony와 협업해 Lunar 등을 출시하며 렌즈 교환식 미러리스 카메라 시장에도 진입했다. 1941년에는 스웨덴 정부측의 요청을 받아 독일 항공 카메라를 연구한 끝에 항공용 HK7형 7×9cm 판 렌즈 셔터 카메라를 제조했다. 위키데이터 기준 모기업은 Shriro이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "FW Hasselblad & Co는 1841년 스웨덴 예테보리에서 창업했으며, 초창기에는 무역 회사였다. 창업자의 아들인 Arvid Viktor Hasselblad는 아마추어 사진 작가였으며, 회사를 물려받은 뒤 사진 부문을 설립했다. 아비드는 1888년 Kodak 제품의 스웨덴 수입 총대리점이 되었고, 사진 부문은 1908년 Hasselblad's Fotografiska AB로 독립했다. 아비드의 손자 Fritz Victor Hasselblad는 1937년 자신의 회사 Victor Foto를 시작했으며, 이후 Hasselblad's Fotografiska AB의 사장이 되었다. 제2차 세계대전이 시작되자 스웨덴 군용 카메라 생산에 집중했고, 1941년에 항공용 HK7을 제조했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 카메라로 1948년 출시된 6×6 포컬 플레인 SLR 1600F와 그 후속 기종 1000F가 있다. V-System은 1957년의 500C를 시작으로 500 시리즈와 2000, 200 시리즈로 이어졌으며, 1964년에는 모터를 탑재한 EL 시리즈를 공개했다. XPan은 35mm 필름 파노라마 카메라로, 후지필름의 TX-1과 TX-2의 브랜드 변경 제품이다. H-System은 2002년 포토키나에서 처음 공개된 중형 카메라 시스템이다. 2012년 9월에는 미러리스 카메라 Lunar를 공개했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "위키데이터 기준 모기업은 Shriro이며, 정식 명칭은 Victor Hasselblad AB이다. 마지막 V-System인 503CW는 2013년 4월 29일 공식적으로 단종되었다. 현재는 2002년 공개된 H-System으로 Leaf, Phase One과 경쟁하고 있으며, 2012년에는 Sony와의 협업으로 렌즈 교환식 미러리스 카메라 시장에도 진입했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1841년 무역 회사로 출발해 사진 사업으로 성장한 스웨덴의 카메라 제조 업체이며, 아폴로 프로그램의 임무에도 사용된 중형 카메라로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hasselblad.com/",
+  "entityLinks": {
+   "wikidata": "Q64545",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q64545",
+    "https://ko.wikipedia.org/wiki/%ED%95%AB%EC%85%80%EB%B8%94%EB%9D%BC%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Hasselblad"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q64545",
+   "country": "스웨덴",
+   "inception": "1841",
+   "headquarters": "예테보리",
+   "founders": [
+    "빅토르 하셀블라드"
+   ],
+   "parent": "Shriro",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「핫셀블라드」 요약과 위키데이터 Q64545 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

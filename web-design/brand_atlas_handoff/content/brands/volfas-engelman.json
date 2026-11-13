@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q12678128",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "volfas-engelman",
+  "urlSlug": "volfas-engelman",
+  "name": "볼파스 엥겔만",
+  "nameKo": "볼파스 엥겔만",
+  "nameEn": "Volfas Engelman",
+  "definition": "볼파스 엥겔만(Volfas Engelman)은 리투아니아 카우나스에 본사를 둔 주류 제조사이다. 맥주, 사이더, 알코올 혼합 음료, 크바스, 에너지 드링크를 생산하는 양조 기업이다.",
+  "summary": "볼파스 엥겔만(Volfas Engelman)은 리투아니아 카우나스에 본사를 둔 주류 제조사이다. 맥주, 사이더, 알코올 혼합 음료, 크바스, 에너지 드링크를 생산하는 양조 기업이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "두 창업자의 이름을 사명으로 쓰는 카우나스의 양조장으로, 한때 Ragutis로 불리다 2011년 역사적 이름을 되찾았다. 맥주뿐 아니라 크바스와 에너지 드링크까지 만든다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "볼파스 엥겔만은 리투아니아 카우나스에 본사를 둔 주류 제조 기업으로, 1853년에 시작한 양조장이다. 현재는 맥주 외에 사이더, 알코올 혼합 음료, 크바스, 에너지 드링크도 생산한다. 회사 이름은 창업자인 Ferdinand Engelman과 Rafailas Volfas 두 사람의 이름에서 따왔다. 직원은 230명이 넘으며, 리투아니아에서 두 번째로 큰 양조장이라는 위치를 차지하고 있다. 2012년부터 Marius Horbačauskas가 최고경영자를 맡고 있다. 2023년 기준 지분의 99.57퍼센트는 핀란드 Olvi 그룹에 속해 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "볼파스 엥겔만은 1853년 Ferdinand Engelman과 Rafailas Volfas가 세운 양조장에서 출발했다. 회사 이름은 이 두 창업자에서 유래했다. 1994년 양조장 Ragutis는 민영화와 재편을 거쳐 주식회사가 되었다. 1997년 Pilsner Urquell Group가 Ragutis 지분의 51퍼센트를 인수했고, 같은 해 지배 지분을 에스토니아 기업 A. Le Coq에 넘겼다. A. Le Coq은 Olvi가 운영하는 회사이다. 2011년 4월 12일 양조장은 역사적 이름인 Volfas Engelman으로 되돌아갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 맥주, 사이더, 알코올 혼합 음료, 크바스, 에너지 드링크, 청량음료로 구성된다. 맥주 브랜드로는 Volfas Engelman, 1410, Horn, Fortas가 있다. 사이더는 Fizz와 Sherwood, 알코올 혼합 음료는 LE COQ와 G:N 브랜드로 선보인다. 크바스는 SMETONIŠKA GIRA와 VOLFAS ENGELMAN IMPERIAL GIRA, 에너지 드링크는 DYNAMI:T와 BCAA VITAMINERAL PERFORMANCE가 있다. 청량음료 브랜드로는 VOLFAS ENGELMAN FASSBRAUSE, KANE'S, AURA, SAKMĖ가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 기준 지분의 99.57퍼센트를 핀란드 Olvi 그룹이 보유하고 있어 지배 구조는 Olvi 그룹 중심이다. 2012년부터 Marius Horbačauskas가 최고경영자를 맡고 있으며, 직원은 230명이 넘는다. 리투아니아에서 두 번째로 큰 양조장이다. 2011년 4월 12일에는 사명을 역사적 이름인 Volfas Engelman으로 되돌렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "두 창업자의 이름을 사명으로 쓰는 카우나스의 양조장으로, 한때 Ragutis로 불리다 2011년 역사적 이름을 되찾았다. 맥주뿐 아니라 크바스와 에너지 드링크까지 만든다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.volfasengelman.lt/",
+  "entityLinks": {
+   "wikidata": "Q12678128",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12678128",
+    "https://ko.wikipedia.org/wiki/%EB%B3%BC%ED%8C%8C%EC%8A%A4_%EC%97%94%EC%A0%A4%EB%A7%A8",
+    "https://en.wikipedia.org/wiki/Volfas_Engelman"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12678128",
+   "country": "리투아니아",
+   "inception": "1853",
+   "headquarters": "카우나스",
+   "founders": [
+    "Ferdinand Engelman",
+    "Rafailas Volfas"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Volfas Engelman」 본문과 위키데이터 Q12678128 팩트를 근거로 편집"
+ }
+}

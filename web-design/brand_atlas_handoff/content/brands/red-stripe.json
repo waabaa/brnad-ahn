@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2417742",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "red-stripe",
+  "urlSlug": "red-stripe",
+  "name": "Red Stripe",
+  "nameKo": "",
+  "nameEn": "Red Stripe",
+  "definition": "Red Stripe는 Desnoes & Geddes가 자메이카와 네덜란드에서 양조하는 알코올 도수 4.7%의 페일 라거 맥주이다. 1928년에 Paul H. Geddes와 Bill Martindale가 개발한 레시피로 처음 소개되었다.",
+  "summary": "Red Stripe는 Desnoes & Geddes가 자메이카와 네덜란드에서 양조하는 알코올 도수 4.7%의 페일 라거 맥주이다. 1928년에 Paul H. Geddes와 Bill Martindale가 개발한 레시피로 처음 소개되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "reggae, ska 등 음악 행사와 자메이카 봅슬레이 대표팀을 간헐적으로 후원해 온 페일 라거 브랜드이다. 대표적인 행사로 Montego Bay의 Reggae Sumfest가 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 알코올 도수 4.7%의 페일 라거를 만든다. 양조는 Desnoes & Geddes가 맡으며, 생산지는 자메이카와 네덜란드이다. 2015년부터는 Heineken이 Desnoes & Geddes의 라이선스에 따라 영국에서도 이 맥주를 양조한다. 1993년 Guinness Brewing Worldwide, 현재의 Diageo가 Desnoes & Geddes의 지배 지분을 인수하면서 여러 시장의 국제 유통을 넘겨받았다. 2015년에는 Heineken이 Diageo의 지분을 인수했다. 미국에는 2023년에도 자메이카에서 병 제품이, 네덜란드에서 케그와 캔 제품이 수입되고 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 맥주는 1928년 Paul H. Geddes와 Bill Martindale가 개발한 레시피로 처음 소개되었다. 1993년 Guinness Brewing Worldwide, 현재의 Diageo가 Desnoes & Geddes Limited의 지분 51%를 사들였다. 이 인수로 Red Stripe와 Dragon Stout의 국제 유통이 크게 늘었다. 영국에서는 Charles Wells가 1976년부터 2014년까지 Desnoes & Geddes의 라이선스로 양조했으며, 2014년에 Diageo가 다른 공급 방식을 마련했다. 2015년 Heineken이 Diageo의 지분을 인수하면서 영국 생산이 다시 시작되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 알코올 도수 4.7%의 페일 라거 Red Stripe이다. 자메이카에서 양조하고 병입하는 Red Stripe Light도 있으며, 미국에서는 New York주 White Plains의 Guinness USA가 수입한다. 국제 유통이 늘어난 제품에는 Dragon Stout도 있다. Charles Wells가 영국에서 양조하던 시기에는 알코올 도수 9%의 Crucial Brew가 있었으며, 붉은색과 검은색 디자인을 썼다. 캔 제품은 2009년 Diageo가 미국 시장에 선보였고 New Brunswick의 Moosehead가 위탁 양조했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 Heineken이 Diageo의 지분을 인수했고, 보유하지 않은 주식에 대해 공개매수를 하겠다고 밝혔다. 영국에서는 같은 해부터 Heineken이 라이선스로 양조한다. 2016년 9월 7일에는 자메이카산 제품을 미국으로 보내는 첫 컨테이너가 4년 만에 선적되었다. 미국에는 2023년에도 자메이카산 병 제품과 네덜란드산 케그·캔 제품이 수입되고 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "reggae, ska 등 음악 행사와 자메이카 봅슬레이 대표팀을 간헐적으로 후원해 온 페일 라거 브랜드이다. 대표적인 행사로 Montego Bay의 Reggae Sumfest가 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2417742",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2417742",
+    "https://en.wikipedia.org/wiki/Red_Stripe"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2417742",
+   "country": null,
+   "inception": "1928",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Red Stripe」 본문과 위키데이터 Q2417742 팩트를 근거로 편집"
+ }
+}

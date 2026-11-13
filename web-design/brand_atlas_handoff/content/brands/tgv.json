@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q129337",
+ "demand": {
+  "why": "국외",
+  "naver": 0.007,
+  "koViews": 451,
+  "enViews": 52008,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/tgv-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tgv",
+  "urlSlug": "tgv",
+  "name": "TGV",
+  "nameKo": "TGV",
+  "nameEn": "TGV",
+  "definition": "TGV(Train à Grande Vitesse)는 프랑스의 고속철도이다. 프랑스어 이름은 '웅장한 속도의 열차'를 뜻하며, 1981년 파리와 리옹을 잇는 고속신선이 개업하면서 TGV 시대가 열렸다.",
+  "summary": "TGV(Train à Grande Vitesse)는 프랑스의 고속철도이다. 프랑스어 이름은 '웅장한 속도의 열차'를 뜻하며, 1981년 파리와 리옹을 잇는 고속신선이 개업하면서 TGV 시대가 열렸다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.633333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "유럽 최초의 고속열차 전용선 LGV를 기반으로 출발한 프랑스의 고속철도로, 철차륜 열차 기준 세계 최고 속도 기록을 수립한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TGV는 프랑스의 고속철도로, 한국어로는 테제베라고도 부른다. 프랑스 국유 철도는 1981년 유럽 최초의 고속열차 전용선 LGV를 파리와 리옹 사이에 개업했다. 이후 파리를 중심으로 남쪽의 발랑스, 북쪽의 릴을 거쳐 벨기에의 브뤼셀과 채널 터널 입구인 칼레까지, 서쪽의 르망과 뚜르까지 고속철도를 건설하고 있다. 재래선에 바로 진입하도록 국내와 스위스, 벨기에의 주요 도시까지 고속열차 네트워크를 넓히고 있다. 재래선과 동일한 궤간 1,435mm를 채용하고 교류 25,000 볼트, 50 Hz로 전철화했으며, 최고운전속도는 시속 270~320km이다. 철차륜 열차 기준 최고 속도 기록은 2007년 4월 3일 TGV POS가 세운 574.8 km/h이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "제2차 세계대전 후 교류전철화기술의 개발을 시작으로 철도의 근대화를 추진했으며, 일본국철이 만든 신칸센에 자극받은 SNCF는 1970년대부터 TGV 개발을 시작했다. 처음에는 고속에서의 집전을 피하기 위해 가스터빈을 동력으로 할 계획이었다. 1972년 가스터빈을 채용한 시제차량 TGV001을 개발했고, 1972년 12월 8일 시험운행에서 최고속도 318Km/h를 기록했다. 그러나 시험 기간 중 1970년대 에너지 위기가 발생해 동력을 전기로 변경했다. 1981년 파리와 프랑스 제2도시 리옹을 연결하는 410km의 고속신선이 개업하면서 TGV 시대가 열렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "TGV는 고속열차 전용선 LGV와 재래선을 함께 이용하는 고속열차 네트워크를 운영하는 철도 서비스이다. 1981년 개업한 파리-리옹 구간은 410km의 고속신선이며 당시 최고속도는 260 km/h였고, 1983년에는 270 km/h로 증속 운행했다. 1989년에는 영업속도를 300 km/h로 높였다. 대서양선 51편성은 시험운행에서 380.4 km/h, 1990년 5월 동남선 329편성은 515.3 km/h, 2007년 4월 3일 TGV POS는 574.8 km/h를 기록했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "TGV는 파리를 중심으로 고속철도를 건설하고 고속열차 네트워크를 넓히고 있다. 리니어신칸센이 주행시험에서 2003년 581km/h, 2015년 4월 21일 603Km/h를 기록해 TGV의 기록이 깨졌으나, 이는 자기부상열차이므로 철차륜 열차 기준으로는 TGV가 앞서고 있다. 2015년 11월 14일 파리-스트라스부르 노선용 열차가 시험운행 중 약 350km/h에서 탈선해 최소 10명 이상이 사망했고, 1981년 도입 이래 처음 발생한 대형 인명사고였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "유럽 최초의 고속열차 전용선 LGV를 기반으로 출발한 프랑스의 고속철도로, 철차륜 열차 기준 세계 최고 속도 기록을 수립한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tgv.com",
+  "entityLinks": {
+   "wikidata": "Q129337",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q129337",
+    "https://ko.wikipedia.org/wiki/TGV",
+    "https://en.wikipedia.org/wiki/TGV"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q129337",
+   "country": "프랑스",
+   "inception": "1981",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「TGV」 요약과 위키데이터 Q129337 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

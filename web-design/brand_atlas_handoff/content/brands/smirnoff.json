@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q777721",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "smirnoff",
+  "urlSlug": "smirnoff",
+  "name": "스미노프",
+  "nameKo": "스미노프",
+  "nameEn": "Smirnoff",
+  "definition": "스미노프(Smirnoff)는 영국 회사 디아지오가 소유하고 생산하는 보드카 브랜드이다. 러시아 모스크바의 증류소에서 출발했으며 현재는 130개국에 유통된다.",
+  "summary": "스미노프(Smirnoff)는 영국 회사 디아지오가 소유하고 생산하는 보드카 브랜드이다. 러시아 모스크바의 증류소에서 출발했으며 현재는 130개국에 유통된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "모스크바의 증류소에서 출발해 미국의 Heublein을 거쳐 디아지오 아래에서 130개국에 유통되는 보드카 브랜드이며, 현재 러시아에서는 생산되지 않는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스미노프는 보드카, 향을 입힌 보드카, 맥아 음료를 만드는 주류 브랜드이다. 브랜드의 뿌리는 모스크바에서 Pyotr Arsenievich Smirnov가 세운 보드카 증류소에 있으며, 현대의 모습은 1930년대 미국의 주류·외국 식품 수출입 전문 회사 Heublein에서 이어졌다. 130개국에 유통되고 시장에 따라 생산하는 나라가 다르지만, 현재 러시아나 동유럽에서는 생산되지 않는다. 숙성하지 않은 보드카이며 P. A. Smirnov가 개발한 전통적인 여과 방식으로 만든다. 2014년에는 세계에서 가장 많이 팔린 보드카였다. 러시아에서 시작된 브랜드이지만 지금은 영국 회사 디아지오 산하에서 여러 나라에 걸쳐 만들어진다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Pyotr Arsenievich Smirnov(1831~1898)는 모스크바에 보드카 증류소를 세웠고, 1870년대에 숯 여과를 개척했다. 1886년에는 신문 광고를 처음 활용해 모스크바 시장의 3분의 2를 차지했다. 그가 죽은 뒤 셋째 아들 Vladimir가 사업을 이었으나, 1904년 차르가 러시아 보드카 산업을 국유화하면서 공장과 브랜드를 팔아야 했다. 1917년 10월 혁명 때 가족은 러시아를 떠났고, Vladimir는 1920년 콘스탄티노폴리스(오늘날 이스탄불)에 공장을 세운 뒤 보드카 이름을 Smirnoff로 바꿨다. 1933년 Rudolph Kunett에게 북미 생산·판매권을 넘겼고, 1939년 Heublein의 John Martin이 그 권리를 사들였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 보드카, 향을 입힌 보드카, 맥아 음료로 구성된다. 보드카는 숙성하지 않으며 P. A. Smirnov가 개발한 전통적인 여과 방식으로 만든다. Recipe No. 21은 Smirnov의 아들 Vladimir가 10월 혁명 때 러시아를 탈출한 뒤 만들었다. 1990년대 후반에는 영국을 시작으로 유럽과 북미 시장에 새 제품군을 내놓았고, 클럽 문화를 중심으로 젊은 층에게 인기를 얻었다. Smirnoff Ice라는 이름으로 두 가지 제품이 팔리며, 프랑스와 미국에서 파는 제품은 도수 5.0%의 감귤 향 맥아 음료이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 디아지오가 소유하고 생산하며 130개국에 유통된다. 1990년대에 Pyotr Smirnov의 후손 중 한 명이 러시아에서 Smirnov 보드카를 만들기 시작했고, 여러 차례 소송 끝에 Smirnoff가 상표권을 되찾았다. 2006년에는 디아지오가 Smirnov 회사와 합작 계약을 맺었다. 2014년에는 세계에서 가장 많이 팔린 보드카였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "모스크바의 증류소에서 출발해 미국의 Heublein을 거쳐 디아지오 아래에서 130개국에 유통되는 보드카 브랜드이며, 현재 러시아에서는 생산되지 않는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.smirnoff.com",
+  "entityLinks": {
+   "wikidata": "Q777721",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q777721",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%AF%B8%EB%85%B8%ED%94%84",
+    "https://en.wikipedia.org/wiki/Smirnoff"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q777721",
+   "country": "러시아",
+   "inception": "1860",
+   "headquarters": "모스크바",
+   "founders": [
+    "Pyotr Arsenievich Smirnov"
+   ],
+   "parent": "디아지오",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Smirnoff」 본문과 위키데이터 Q777721 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1572281",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kingfisher",
+  "urlSlug": "kingfisher",
+  "name": "킹피셔",
+  "nameKo": "킹피셔",
+  "nameEn": "Kingfisher",
+  "definition": "킹피셔(Kingfisher)는 인도 방갈로르의 United Breweries Group이 양조하는 인도 맥주 브랜드이다. 1857년 처음 선보였고 1978년 Vijay Mallya가 다시 출시했다.",
+  "summary": "킹피셔(Kingfisher)는 인도 방갈로르의 United Breweries Group이 양조하는 인도 맥주 브랜드이다. 1857년 처음 선보였고 1978년 Vijay Mallya가 다시 출시했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "영국과 유럽에서 'The Real Taste of India'를 표어로 내세워 인도 본래의 유산을 강조하며, 인도 시장 점유율 36% 이상을 차지하는 인도 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "킹피셔는 United Breweries Group이 인도 방갈로르에서 양조하는 인도 맥주 브랜드이다. 1857년에 처음 도입되었고 1978년 Vijay Mallya가 재출시했다. 인도 시장 점유율은 36%를 넘으며 2013년 기준 인도를 제외한 52개국에서도 판매된다. 영국에서는 Heineken이 인도와 같은 레시피로 라이선스 생산한다. 유럽 사업은 영국 메이드스톤에 본사를 둔 Kingfisher Beer Europe Ltd.가 맡는다. Trust Research Advisory가 진행한 Brand Trust Report에서 2012년 인도에서 가장 신뢰받는 브랜드 74위였으나 2013년 102위, 2014년 198위로 순위가 내려갔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "United Breweries Group이 1857년 선보인 브랜드가 단종된 뒤, 1978년 Vijay Mallya가 이에 착안해 Kingfisher Premium 맥주를 출시했다. Advertising Standards Council of India가 인도에서 주류 광고를 금지하자 UB Group는 Kingfisher 미네랄워터의 대체 광고로 브랜드를 알렸다. 2005년 그룹이 Kingfisher Airlines를 운영하기 시작한 뒤에는 광고가 항공기 객실에도 등장했다. 미국에서는 브랜드의 민족색을 지우는 방식으로 판촉했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Kingfisher Premium이다. 유럽 법인 KBE는 Premium을 330 mL, 650 mL, 파인트 또는 하프 파인트 생맥주, 30 L 또는 50 L 케그의 네 가지 형태로 판매한다. 2016년 11월에는 아시아 풍미와 어울리도록 만든 사과 사이더 Peacock Cider를 출시했다. 2017년에는 Bintang Beer와 Pearl River Beer를 포트폴리오에 추가했다. 2023년에는 Kingfisher Premium의 0% 버전인 Kingfisher Zero를 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "인도 시장 점유율은 36%를 넘고 2013년 기준 인도 외 52개국에서 판매된다. 영국에서는 Heineken이 인도와 같은 레시피로 라이선스 생산한다. Kingfisher Beer Europe Ltd.는 Kingfisher World와 별개로 독립 운영되며 자체 웹사이트와 소셜미디어를 갖추고 있다. 2023년에는 0% 버전인 Kingfisher Zero가 추가되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국과 유럽에서 'The Real Taste of India'를 표어로 내세워 인도 본래의 유산을 강조하며, 인도 시장 점유율 36% 이상을 차지하는 인도 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://kingfisherdrinks.com/brands/kingfisher/",
+  "entityLinks": {
+   "wikidata": "Q1572281",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1572281",
+    "https://ko.wikipedia.org/wiki/%ED%82%B9%ED%94%BC%EC%85%94_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Kingfisher_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1572281",
+   "country": "인도",
+   "inception": "1978",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Kingfisher (beer)」 본문과 위키데이터 Q1572281 팩트를 근거로 편집"
+ }
+}

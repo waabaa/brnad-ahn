@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q11983781",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "lervig-bryggeri",
+  "urlSlug": "lervig-bryggeri",
+  "name": "Lervig Bryggeri",
+  "nameKo": "",
+  "nameEn": "Lervig Bryggeri",
+  "definition": "Lervig Bryggeri는 노르웨이 스타방에르에 본사를 둔 양조장이다. 2003년에 설립되었으며, 임페리얼 스타우트와 뉴잉글랜드 IPA 같은 크래프트 맥주로 알려져 있다.",
+  "summary": "Lervig Bryggeri는 노르웨이 스타방에르에 본사를 둔 양조장이다. 2003년에 설립되었으며, 임페리얼 스타우트와 뉴잉글랜드 IPA 같은 크래프트 맥주로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "필스너 대체 맥주를 만들던 스타방에르의 양조장에서 임페리얼 스타우트와 뉴잉글랜드 IPA 중심의 크래프트 양조장으로 전환했고, 수출 비중이 큰 노르웨이 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lervig는 노르웨이의 양조장으로, 스타방에르를 기반으로 필스너부터 크래프트 맥주까지 생산하는 맥주 제조사이다. 초기에는 주로 필스너를 만들었으나, 2010년 미국인 헤드 브루어를 영입한 뒤 크래프트 맥주 쪽으로 방향을 틀었다. 묵직한 임페리얼 스타우트와 홉 향이 강한 뉴잉글랜드 IPA가 가장 인기 있는 맥주이다. To Øl, Põhjala, Mikkeller, Evil Twin, Beavertown 등 여러 크래프트 양조장과 협업해 왔다. 생산한 맥주의 3분의 1을 해외 시장으로 수출하며, 2017년 8월 노르웨이에서 수출된 전체 맥주 가운데 16.8%가 Lervig의 것이었다. 2014년에는 RateBeer가 선정한 세계 100대 양조장 목록에 올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Lervig는 2003년 스타방에르에서 Tou 맥주의 생산이 오슬로로 옮겨지면서 설립되었다. 2003년부터 2005년까지는 트롬쇠의 Macks Ølbryggeri가 이 맥주를 생산했고, 2005년에 생산지가 스타방에르의 Hillevåg로 옮겨졌다. 초기 몇 년간은 Tou 필스너를 대체하는 필스너를 주로 생산했다. Lervig는 펀드 매니저 Kristoffer Stensrud가 시작한 회사이다. 2010년에는 미국인 Mike Murphy를 헤드 브루어로 고용하며 크래프트 맥주 쪽으로 방향을 돌렸고, 이후 임페리얼 스타우트와 뉴잉글랜드 IPA가 가장 인기 있는 맥주가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 묵직한 임페리얼 스타우트와 홉 향이 강한 뉴잉글랜드 IPA이며, 이 둘이 가장 인기 있는 맥주이다. 초창기에는 Tou 필스너를 대신하는 필스너를 주로 생산했다. Lervig는 To Øl, Põhjala, Mikkeller, Evil Twin, Beavertown 등 여러 크래프트 양조장과 협업 제품을 내놓았다. 뉴잉글랜드 IPA를 생산하기 시작한 뒤에는 국영 주류 독점 판매점 Vinmonopolet로의 유통에 불만을 제기했으며, 2017년 1월에 생산한 IPA는 3월에야 판매되었다. 2017년 6월 1일부터는 유제품 회사 TINE가 냉장 트럭으로 이 맥주를 배송하기 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 미국 투자 펀드 Orkila Capital이 회사 지분 50%를 매입했다. Orkila Capital은 지분 매입 외에 신주 발행에도 추가로 자금을 투입했다. 이 펀드는 덴마크 양조장 Mikkeller의 지분도 이미 보유하고 있었다. Lervig는 맥주의 3분의 1을 해외로 수출한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "필스너 대체 맥주를 만들던 스타방에르의 양조장에서 임페리얼 스타우트와 뉴잉글랜드 IPA 중심의 크래프트 양조장으로 전환했고, 수출 비중이 큰 노르웨이 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://lervig.no",
+  "entityLinks": {
+   "wikidata": "Q11983781",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q11983781",
+    "https://en.wikipedia.org/wiki/Lervig_Aktiebryggeri"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q11983781",
+   "country": "노르웨이",
+   "inception": "2003",
+   "headquarters": "스타방에르",
+   "founders": [
+    "Kristoffer Stensrud"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Lervig Aktiebryggeri」 본문과 위키데이터 Q11983781 팩트를 근거로 편집"
+ }
+}

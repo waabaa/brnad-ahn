@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3012930",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/s-a-damm-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "s-a-damm",
+  "urlSlug": "s-a-damm",
+  "name": "S.A. Damm",
+  "nameKo": "",
+  "nameEn": "S.A. Damm",
+  "definition": "S.A. Damm은 1876년 스페인 바르셀로나에서 설립된 맥주 양조 회사이다. 바르셀로나의 주요 양조장이며 Estrella Damm, Voll-Damm 등의 맥주를 생산한다.",
+  "summary": "S.A. Damm은 1876년 스페인 바르셀로나에서 설립된 맥주 양조 회사이다. 바르셀로나의 주요 양조장이며 Estrella Damm, Voll-Damm 등의 맥주를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Damm은 바르셀로나를 대표하는 양조장으로, Estrella Damm과 Voll-Damm, Xibeca 같은 제품군을 갖춘 스페인 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Damm은 스페인의 맥주 양조 회사로, 바르셀로나를 기반으로 한다. 알자스 출신의 8월 Kuentzmann Damm과 Joseph Damm이 1876년에 창업했으며, 바르셀로나에서 가장 중요한 양조장으로 꼽힌다. 대표 제품은 바르셀로나 지역에서 가장 인기 있는 맥주 중 하나인 Estrella Damm을 비롯해 Voll-Damm, Xibeca, Estrella Levante Clásica 네 가지이다. 그 밖에 Inedit, Bock Damm, Free-Damm, A.K. Damm 등을 생산하며, Daura 상표로 글루텐 저감 맥주도 내놓는다. 2018년 기준 주주 구성에는 Disa Corporación Petrolífera와 Dr. Oetker 등이 포함되어 있었다. 2022년에는 영국 Bedford의 Eagle Brewery를 인수한다는 발표가 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Damm은 1876년 바르셀로나에서 알자스 출신의 8월 Kuentzmann Damm과 Joseph Damm이 설립했다. 같은 해부터 양조된 Estrella Damm의 옛 이름은 Estrella Dorada였다. 1950~60년대 스페인 야구의 전성기에는 지역 야구팀 Picadero Damm을 후원했다. 1960년대에는 어린이를 포함한 가족 구성원 모두를 대상으로 맥주를 홍보했다. 1960년대 말 식탁용 포도주 가격이 오르자 저렴한 대용품으로 Xibeca를 내놓았고, 이 제품은 1970년대 카탈루냐의 중하류층에서 인기가 높았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Estrella Damm은 옅은 색의 맥주로 1876년부터 양조되었고, 바르셀로나 지역에서 가장 인기 있는 맥주 중 하나이다. 병과 뚜껑에는 흰 바탕에 금색 별이 있었으나, 지금 캔의 별은 붉은 바탕 위에 있다. Voll-Damm은 독일식 Märzen 맥주를 본뜬 제품으로 Estrella보다 바디감이 있고 알코올 도수가 높다. Xibeca는 1리터 대용량 병에 담긴 저알코올 테이블 맥주이다. Estrella Levante Clásica는 Murcia의 Espinardo에서 생산되는 pilsner 라거로 1963년부터 양조되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 주주 구성은 Carceller 가문이 소유한 카나리아 제도의 석유 회사 Disa Corporación Petrolífera(33%), 독일 식품 그룹 Dr. Oetker(25%), 역시 Carceller 가문이 통제하는 Seegrund(13.95%) 등이었다. Demetrio Carceller Arce 본인은 0.083%를 보유했고, 나머지는 La Moràvia d'Inversions(6%), Boag Valores(5%) 등 역사적 가문과 창업자 후손이 가졌다. 2022년 Carlsberg Marstons Brewing Company는 영국 Bedford의 Eagle Brewery를 Damm에 매각하겠다고 발표했다. 이 양조장은 2010년부터 Estrella Damm을 포장해 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Damm은 바르셀로나를 대표하는 양조장으로, Estrella Damm과 Voll-Damm, Xibeca 같은 제품군을 갖춘 스페인 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.damm.com/ca/",
+  "entityLinks": {
+   "wikidata": "Q3012930",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3012930",
+    "https://en.wikipedia.org/wiki/S.A._Damm"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3012930",
+   "country": "스페인",
+   "inception": "1876",
+   "headquarters": "Fàbrica Damm",
+   "founders": [
+    "August Kuentzmann Damm",
+    "Joseph Damm"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「S.A. Damm」 본문과 위키데이터 Q3012930 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

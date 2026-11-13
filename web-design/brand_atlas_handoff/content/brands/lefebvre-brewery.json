@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1967378",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "lefebvre-brewery",
+  "urlSlug": "lefebvre-brewery",
+  "name": "Lefebvre brewery",
+  "nameKo": "",
+  "nameEn": "Lefebvre brewery",
+  "definition": "Lefebvre brewery는 벨기에 왈로니아의 Quenast에 있는 양조장이다. 1876년 Jules Lefebvre가 설립했으며 Barbar와 Floreffe 수도원 맥주 등을 생산한다.",
+  "summary": "Lefebvre brewery는 벨기에 왈로니아의 Quenast에 있는 양조장이다. 1876년 Jules Lefebvre가 설립했으며 Barbar와 Floreffe 수도원 맥주 등을 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "1876년 설립된 벨기에 양조장으로, 꿀이 들어간 8% 강한 페일 에일 Barbar와 Floreffe 수도원 맥주 브랜드를 생산한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lefebvre brewery는 벨기에 왈로니아 지방의 Quenast에 본사를 둔 양조장이다. 이 양조장은 다양한 맥주를 생산하며 대표 브랜드로는 Hopus, Barbar, Floreffe가 있다. Barbar는 꿀이 들어간 알코올 도수 8%의 강한 페일 에일이다. Hopus는 알코올 도수 8.3%의 강한 페일 에일이다. Floreffe는 수도원 맥주 브랜드이며 Blonde, Double, Floreffe Triple, Prima Melior 제품군이 있다. 1876년 Jules Lefebvre가 설립한 이 양조장은 1983년 Floreffe 맥주의 생산을 넘겨받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1876년 Jules Lefebvre가 벨기에 왈로니아 지방의 Quenast에 설립했다. Floreffe 수도원은 1121년에 세워졌고, 1250년경에는 수도원 안에 물방앗간 양조장이 지어졌다. 1794년 프랑스 혁명이 시작되자 수도사들이 수도원을 버렸다. 1960년에 이 양조장이 복원되었고, Mechelen에 있는 Het Anker brewery가 운영했다. 1983년에는 Lefebvre brewery가 Floreffe 맥주의 생산을 넘겨받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Barbar, Hopus, Floreffe이다. Barbar는 꿀이 들어간 알코올 도수 8%의 강한 페일 에일이고, Hopus는 알코올 도수 8.3%의 강한 페일 에일이다. Floreffe는 수도원 맥주 브랜드이며 Blonde, Double, Floreffe Triple, Prima Melior의 네 가지 제품으로 구성된다. Floreffe 맥주는 1983년부터 이 양조장이 생산을 맡았다. 이 양조장은 이 밖에도 여러 브랜드를 포함한 폭넓은 맥주 제품군을 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1876년 설립된 벨기에 양조장으로, 꿀이 들어간 8% 강한 페일 에일 Barbar와 Floreffe 수도원 맥주 브랜드를 생산한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brasserielefebvre.be",
+  "entityLinks": {
+   "wikidata": "Q1967378",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1967378",
+    "https://en.wikipedia.org/wiki/Lefebvre_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1967378",
+   "country": "벨기에",
+   "inception": "1876",
+   "headquarters": "Quenast",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Lefebvre Brewery」 본문과 위키데이터 Q1967378 팩트를 근거로 편집"
+ }
+}

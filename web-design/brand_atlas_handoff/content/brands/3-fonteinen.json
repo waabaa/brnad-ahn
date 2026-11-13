@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3033355",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "3-fonteinen",
+  "urlSlug": "3-fonteinen",
+  "name": "3 Fonteinen",
+  "nameKo": "",
+  "nameEn": "3 Fonteinen",
+  "definition": "3 Fonteinen은 벨기에의 양조장으로, geuze와 kriek을 전문으로 한다. 브뤼셀 인근 Beersel에 자리하며 두 맥주의 고전적인 버전을 모두 생산하는 곳이다.",
+  "summary": "3 Fonteinen은 벨기에의 양조장으로, geuze와 kriek을 전문으로 한다. 브뤼셀 인근 Beersel에 자리하며 두 맥주의 고전적인 버전을 모두 생산하는 곳이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "geuze와 kriek에 집중하는 Beersel의 양조장으로, 오래된 lambic과 새 lambic을 섞는 geuzestekerij 방식을 이어 가는 몇 안 되는 곳이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "3 Fonteinen은 벨기에 Beersel에 본사를 둔 양조장으로, geuze와 kriek을 전문으로 한다. 브뤼셀 가까이에 있으며 두 맥주의 고전적인 버전을 만든다. geuze는 오래된 lambic과 새 lambic을 섞어 만드는 맥주이며, 3 Fonteinen은 이를 만드는 geuzestekerij 가운데 아직 남아 있는 소수 중 하나이다. geuze를 만들 때 자체 lambic 외에 Boon, Girardin, Lindemans가 만든 lambic도 사용한다. 2009년 5월 온도조절기 결함으로 병이 터지는 사고를 겪었고, 2013년 3월 새 양조 설비를 열어 자체 lambic 양조를 다시 시작했다. 문학 모임인 Mijol Club도 이 카페에서 열리곤 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "3 Fonteinen은 1887년 카페이자 geuzestekerij로 문을 열었다. geuzestekerij는 다른 양조장에서 들여온 오래된 lambic과 새 lambic을 섞어 geuze를 만드는 곳이다. 1953년 Gaston De Belder가 이 사업체를 인수해 레스토랑을 더했고, 1982년 아들 Armand와 Guido에게 물려주었다. 1998년에는 양조 설비를 사들였고, 이후 자체 lambic과 함께 Boon, Girardin, Lindemans의 lambic을 geuze에 사용해 왔다. Herman Teirlinck이 만든 문학 모임 Mijol Club도 이 카페에서 모이곤 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 geuze와 kriek이며, 두 맥주 모두 고전적인 버전을 생산한다. geuze는 오래된 lambic과 새 lambic을 섞어 만들고, 자체 lambic과 함께 Boon, Girardin, Lindemans의 lambic이 쓰인다. 2009년 5월 병 3000개가 터진 뒤 남은 과열된 geuze는 “Armand's Spirit”라는 eau de vie로 만들었다. 이 eau de vie의 판매 수익 덕분에 양조장은 운영을 이어 갈 수 있었다. 사업에는 카페와 레스토랑도 포함되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 3월, 4년간의 중단 끝에 새 양조 설비를 열고 자체 lambic 양조를 다시 시작했다. 설비가 없던 4년 동안에는 인근 lambic 양조장인 Boon, Girardin에서 사들인 lambic을 블렌딩해 버텼다. 2009년 5월에는 온도조절기 결함으로 병 3000개가 터진 일이 있었다. 3 Fonteinen은 지금도 남아 있는 소수의 geuzestekerij 가운데 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "geuze와 kriek에 집중하는 Beersel의 양조장으로, 오래된 lambic과 새 lambic을 섞는 geuzestekerij 방식을 이어 가는 몇 안 되는 곳이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.3fonteinen.be",
+  "entityLinks": {
+   "wikidata": "Q3033355",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3033355",
+    "https://en.wikipedia.org/wiki/3_Fonteinen"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3033355",
+   "country": "벨기에",
+   "inception": null,
+   "headquarters": "Beersel",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「3 Fonteinen」 본문과 위키데이터 Q3033355 팩트를 근거로 편집"
+ }
+}

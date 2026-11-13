@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q26966",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mercedes-amg-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mercedes-amg",
+  "urlSlug": "mercedes-amg",
+  "name": "메르세데스-AMG",
+  "nameKo": "메르세데스-AMG",
+  "nameEn": "Mercedes-AMG",
+  "definition": "메르세데스-AMG(Mercedes-AMG)는 독일 아팔터바흐에 본사를 둔 자동차 및 엔진 제조 회사이다. 메르세데스-벤츠 그룹 AG를 모회사로 두며, 대표 모델로 메르세데스-AMG GT가 있다.",
+  "summary": "메르세데스-AMG(Mercedes-AMG)는 독일 아팔터바흐에 본사를 둔 자동차 및 엔진 제조 회사이다. 메르세데스-벤츠 그룹 AG를 모회사로 두며, 대표 모델로 메르세데스-AMG GT가 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "'한 사람이 하나의 엔진을 담당한다'는 철학 아래 엔지니어 한 명이 엔진 하나를 처음부터 끝까지 제작하는 품질 보증 시스템을 가진, 레이싱 엔진 제조사 출신 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메르세데스-AMG는 자동차와 엔진을 제조하는 회사로, 독일 아팔터바흐에 본사를 두고 있다. 모회사는 메르세데스-벤츠 그룹 AG이다. 대표 모델은 메르세데스-AMG GT이며, GT 계열 외에도 A 35, GLB 35, C 63, E 63, S 63, SL 63, GLE 63, G 63 등 다양한 차종을 생산한다. 하나의 엔진을 한 명의 엔지니어가 처음부터 끝까지 혼자 제작하는 'One Man, One Engine' 철학을 바탕으로 한 품질 보증 시스템을 갖추고 있다. 1967년 레이싱 엔진 제조 회사로 출발해 현재는 생산 차종과 단종 차종을 아우르는 폭넓은 라인업을 보유하고 있다. 사명 AMG는 설립자 이름의 머릿글자와 지명에서 따왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1967년 다임러 벤츠의 엔지니어였던 한스-베르너 아우프레흐트와 에어하트 멜허가 슈투트가르트 근처 렘즈-무어르-크라이스의 부르크슈테텐에서 시작했다. 당시 사명은 AMG Motorenbau und Entwicklungsgesellschaft mbH였으며, 레이싱 엔진을 제조하는 회사였다. AMG라는 이름은 아우프레흐트(Aufrecht), 멜허(Melcher), 아우프레흐트의 고향 그로사스파흐(Großaspach)의 머릿글자를 따서 지었다. 1976년 AMG의 대부분이 아팔터바흐로 이동했고, 레이싱 엔진 개발 분야만 기존 지역에 남았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 모델은 메르세데스-AMG GT이며, GT S, GT C, GT R, GT R Pro, GT Black Series, GT 4도어 쿠페 등으로 구성된다. GT 4도어 쿠페 계열에는 AMG GT 43, 53, 63, 63 S, 63 S E 퍼포먼스 4매틱+ 모델이 있다. 이 밖에 A 35, GLB 35, A 45 S 4매틱, CLA 45 4매틱, C 63, E 63 4매틱+, S 63 4매틱+, SL 63, GLC 63, GLE 63, GLS 63, G 63 등을 생산한다. 단종 차종으로는 SLS AMG, CLK-GTR AMG, 190E AMG 3.2 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 독일 아팔터바흐에 본사를 두고 있으며, 모회사는 메르세데스-벤츠 그룹 AG이다. 생산 차종에는 메르세데스-AMG GT와 GT 4도어 쿠페를 비롯해 A 35부터 G 63까지의 모델이 포함된다. 한편 SLS AMG, SLC 43 4매틱, G 65 AMG, CLS 63 등 여러 차종은 단종 차종으로 분류된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "'한 사람이 하나의 엔진을 담당한다'는 철학 아래 엔지니어 한 명이 엔진 하나를 처음부터 끝까지 제작하는 품질 보증 시스템을 가진, 레이싱 엔진 제조사 출신 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mercedes-amg.com/",
+  "entityLinks": {
+   "wikidata": "Q26966",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26966",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-AMG",
+    "https://en.wikipedia.org/wiki/Mercedes-AMG"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q26966",
+   "country": "독일",
+   "inception": "1812",
+   "headquarters": "Affalterbach",
+   "founders": [
+    "Hans-Werner Aufrecht",
+    "Erhard Melcher"
+   ],
+   "parent": "메르세데스-벤츠 그룹",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「메르세데스-AMG」 요약과 위키데이터 Q26966 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

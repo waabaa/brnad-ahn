@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q335016",
+ "demand": {
+  "why": "국외",
+  "naver": 0.005,
+  "koViews": 531,
+  "enViews": 44662,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/tabasco-sauce-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tabasco-sauce",
+  "urlSlug": "tabasco-sauce",
+  "name": "타바스코 소스",
+  "nameKo": "타바스코 소스",
+  "nameEn": "Tabasco sauce",
+  "definition": "타바스코 소스(Tabasco sauce)는 미국 루이지애나주 에이버리아일랜드의 매킬러니사가 만드는 핫소스 상품의 등록상표이다. 타바스코 고추를 소금과 섞어 숙성한 뒤 식초와 섞어 만든다.",
+  "summary": "타바스코 소스(Tabasco sauce)는 미국 루이지애나주 에이버리아일랜드의 매킬러니사가 만드는 핫소스 상품의 등록상표이다. 타바스코 고추를 소금과 섞어 숙성한 뒤 식초와 섞어 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.283333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "타바스코 소스는 설립자 후손이 가업으로 운영하는 매킬러니사의 핫소스로, 참나무 통에서 3년간 숙성한 고추로 만든다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "타바스코 소스는 미국 루이지애나주의 매킬러니사가 생산하는 핫소스 브랜드이다. 이름은 멕시코의 타바스코주에서 유래했다. 소문자로 시작하는 tabasco는 고추의 학명을 가리키고 대문자 Tabasco는 상품명을 뜻한다. 서양식 매운 소스류 중에서 가장 유명한 상표이며, 매우 맵고 시큼한 향을 낸다. 2019년 현재 195개국에 수출되고 있으며 대한민국에서는 오뚜기가 수입해 판매한다. 매킬러니사는 설립자의 후손이 5대째 가업으로 운영하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사의 공식 역사에 따르면 타바스코는 1868년 메릴랜드주 출신의 전 은행가 에드먼드 매킬러니(Edmund McIlhenny)가 처음 생산했다. 그는 1840년경 루이지애나주로 이사했고 정원사이자 미식가이기도 했다. 매킬러니는 소스에 멕시코 지명 '타바스코'를 이름 붙이고 1870년 특허를 받았다. 처음에는 뉴올리언스 유리 공급업체의 오드콜로뉴 병을 구입해 소스를 담았고, 1870년대 후반 미국 전체로 유통망을 넓혀 영국에 수출하기 시작했다. 다만 매체에 따라 세부 연도가 다르고, 마운셀 화이트(Maunsel White)가 20년 앞서 타바스코 고추 소스를 생산했다는 주장도 있어 공식 역사 일부는 논란이 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 타바스코 고추, 소금, 식초로 만든 타바스코 소스이다. 고추는 수확 당일 갈아 에이버리섬에서 자체 생산한 소금과 섞은 뒤 위스키에 쓰였던 흰참나무 통에 넣어 3년간 숙성한다. 숙성한 혼합물은 걸러서 증류 식초와 섞고 한 달 동안 저어준 뒤 용기에 담는다. 최대 8년 동안 숙성된 고추와 와인 식초를 섞은 타바스코 리저브도 있다. 색소나 방부제는 쓰지 않는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "매킬러니사는 설립자의 후손이 5대째 가업을 이어 운영하며, 주주도 설립자의 후손과 그 인척이다. 2019년 6월 해럴드 오스본이 사장 겸 CEO로 선택되었다. 하루 평균 2 온스들이 병 72만 개를 생산하고, 고추는 현재 대부분 중부 아메리카와 남미에서 경작한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "타바스코 소스는 설립자 후손이 가업으로 운영하는 매킬러니사의 핫소스로, 참나무 통에서 3년간 숙성한 고추로 만든다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tabasco.com/",
+  "entityLinks": {
+   "wikidata": "Q335016",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q335016",
+    "https://ko.wikipedia.org/wiki/%ED%83%80%EB%B0%94%EC%8A%A4%EC%BD%94_%EC%86%8C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Tabasco_sauce"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q335016",
+   "country": null,
+   "inception": "1868",
+   "headquarters": "루이지애나주",
+   "founders": [
+    "Edmund McIlhenny"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「타바스코 소스」 요약과 위키데이터 Q335016 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

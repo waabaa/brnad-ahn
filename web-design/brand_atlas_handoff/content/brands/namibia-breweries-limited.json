@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1964257",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "namibia-breweries-limited",
+  "urlSlug": "namibia-breweries-limited",
+  "name": "Namibia Breweries Limited",
+  "nameKo": "",
+  "nameEn": "Namibia Breweries Limited",
+  "definition": "Namibia Breweries Limited는 1920년에 설립되어 나미비아 빈트후크에 본사를 둔 양조회사이다. 맥주와 청량음료를 생산하며 다른 브랜드 맥주도 유통한다.",
+  "summary": "Namibia Breweries Limited는 1920년에 설립되어 나미비아 빈트후크에 본사를 둔 양조회사이다. 맥주와 청량음료를 생산하며 다른 브랜드 맥주도 유통한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "독일 순수령에 따라 모든 맥주를 양조하며, 자체 브랜드와 Heineken 등 라이선스·유통 브랜드를 함께 다루는 나미비아의 양조회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Namibia Breweries Limited는 나미비아 빈트후크에 본사를 둔 양조회사이며 약칭은 NBL이다. 자체 맥주 외에 Amstel, Heineken 등을 라이선스로 양조하고, Guinness와 Erdinger 같은 다른 브랜드 맥주도 유통한다. 모든 맥주는 1516년의 독일 순수령(Reinheitsgebot)에 따라 양조한다. 생산량의 20.5%를 남아프리카공화국과 다른 22개국에 수출한다. 2023년 Heineken이 인수를 완료하면서 NBL의 사업은 Heineken Beverages에 통합되었다. 맥주 외에 McKane, Vigo, AquaSplash 같은 청량음료도 자체 제품으로 만든다. 저알코올 제품인 Windhoek Light는 South African Heart Foundation의 추천을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1920년 Carl List와 Hermann Ohlthaver가 재정난을 겪던 소규모 양조장 네 곳을 인수해 합병하면서 South West Breweries Limited(SWB)라는 이름으로 출발했다. 1990년 3월 나미비아가 남아프리카의 아파르트헤이트 체제에서 독립하자 SWB는 이름을 Namibia Breweries Limited로 바꿨다. Ohlthaver & List Group of Companies는 지금도 다수 지분을 가진 주주이다. 2003년부터 Heineken South Africa와 협력해 왔고, 2010년 이후 Heineken SA 지분을 사들여 25%까지 보유했다. 2014년에는 아프리카 양조사 가운데 처음으로 대규모 태양광 에너지로 전환했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자체 제품으로 Tafel Lager, Windhoek Lager, Windhoek Draught, Windhoek Light, Hansa Draught, Camelthorn, King Lager 등 맥주를 생산한다. Club Shandy와 Tafel Radler도 자체 제품에 포함된다. 겨울용 bock 맥주인 Urbock 같은 특선 맥주도 만든다. 청량음료로는 McKane의 소다수, 토닉워터, 레모네이드 등과 맥아 청량음료 Vigo, AquaSplash가 있다. Amstel, Heineken, Strongbow는 라이선스로 양조하고 Guinness, Erdinger, Foundry Cider는 유통한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 4월 26일 Heineken은 Namibia Breweries 인수를 완료했다고 발표했다. 인수 후 사업은 Heineken의 남아프리카 법인, NBL, 네덜란드 기업이 인수한 또 다른 아프리카 양조사 Distell을 합쳐 만든 Heineken Beverages에 통합되었다. 2021년 11월 Heineken은 NBL과 Distell 두 곳의 인수를 발표했었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 순수령에 따라 모든 맥주를 양조하며, 자체 브랜드와 Heineken 등 라이선스·유통 브랜드를 함께 다루는 나미비아의 양조회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.namibiabreweries.com/",
+  "entityLinks": {
+   "wikidata": "Q1964257",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1964257",
+    "https://en.wikipedia.org/wiki/Namibia_Breweries_Limited"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1964257",
+   "country": "나미비아",
+   "inception": "1920",
+   "headquarters": "빈트후크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Namibia Breweries Limited」 본문과 위키데이터 Q1964257 팩트를 근거로 편집"
+ }
+}

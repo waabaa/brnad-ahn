@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q313542",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tsingtao-brewery",
+  "urlSlug": "tsingtao-brewery",
+  "name": "칭다오 맥주",
+  "nameKo": "칭다오 맥주",
+  "nameEn": "Tsingtao Brewery",
+  "definition": "칭다오 맥주(Tsingtao Brewery)는 중화인민공화국 칭다오시에 본사를 둔 맥주 양조 회사이다. 1903년에 설립되었으며 중국 내 두 번째로 큰 양조장이다.",
+  "summary": "칭다오 맥주(Tsingtao Brewery)는 중화인민공화국 칭다오시에 본사를 둔 맥주 양조 회사이다. 1903년에 설립되었으며 중국 내 두 번째로 큰 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "독일 조차지 칭다오에서 1903년 영국·독일 합작으로 출발해 중국 맥주 수출의 절반을 차지하는 중국 대표 양조 회사이며, 로고에 회란각을 담고 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "칭다오 맥주는 칭다오에 본사를 둔 중국의 두 번째로 큰 양조 회사로, 중국 내수 시장 점유율은 약 15%이고 중국 맥주 수출의 절반을 차지한다. 2016년에는 세계에서 두 번째로 많이 소비된 맥주였으며 세계 맥주 시장 점유율은 2.8%에 이르렀다. 2009년 이후 이 점유율은 매년 최소 0.1%포인트씩 꾸준히 늘었다. 2020년에는 World Brand Lab이 발표한 중국에서 가장 가치 있는 맥주 브랜드 목록에서 1위를 차지했다. 현재 세계에서 여섯 번째로 큰 양조 회사이다. 대표 제품은 알코올 도수 4.7%의 페일 라거인 Tsingtao Beer이며 생산량의 대부분을 차지한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "칭다오 맥주는 1903년 8월 15일 Germania-Brauerei Tsingtao Co., Ltd(Germania Brewery)라는 이름으로 설립되었다. 홍콩에 본사를 둔 영국·독일 합자 주식회사 Anglo-German Brewery Co. Ltd.가 세웠으며, 자본금은 멕시코 은화 400,000달러였고 독일 양조 장인들이 감독했다. 첫 맥주는 1904년 12월 22일에 제공되었다. 1916년 양조장은 Dai-Nippon Brewery에 매각되었고, 1949년 중화인민공화국이 지분을 몰수하면서 국영 기업이 되었다. 1993년 칭다오의 양조장 세 곳과 합병해 Tsingtao Brewery Company Limited로 개칭했고, 같은 해 6월 중국 기업 최초로 홍콩 증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Tsingtao Beer로, 홉을 충분히 사용한 알코올 도수 4.7%의 표준 페일 라거이다. 이 제품은 양조장 생산량의 대부분을 차지한다. 비살균 버전은 Tsingtao Draft Beer라는 이름으로 판매된다. 과거에는 중국 내 다른 양조장 여러 곳을 소유했고, 그중 일부도 Tsingtao Beer를 생산했다. 로고에는 칭다오 남쪽 해안 잔교 끝에 선 회란각의 모습이 담겨 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2009년 Anheuser-Busch InBev는 지분 19.9%를 Asahi Breweries에 매각했고, 남은 7%는 중국 사업가 Chen Fashu에게 넘겼다. 2017년 1월 Asahi Breweries는 2009년부터 보유한 지분 20%를 매각하겠다고 발표했다. 현재 세계에서 여섯 번째로 큰 양조 회사이며, 2020년에는 World Brand Lab의 중국에서 가장 가치 있는 맥주 브랜드 목록 1위였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 조차지 칭다오에서 1903년 영국·독일 합작으로 출발해 중국 맥주 수출의 절반을 차지하는 중국 대표 양조 회사이며, 로고에 회란각을 담고 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tsingtao.com.cn/",
+  "entityLinks": {
+   "wikidata": "Q313542",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q313542",
+    "https://ko.wikipedia.org/wiki/%EC%B9%AD%EB%8B%A4%EC%98%A4_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Tsingtao_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q313542",
+   "country": "중화인민공화국",
+   "inception": "1903",
+   "headquarters": "칭다오시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Tsingtao Brewery」 본문과 위키데이터 Q313542 팩트를 근거로 편집"
+ }
+}

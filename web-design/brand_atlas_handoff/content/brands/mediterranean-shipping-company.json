@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q869570",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mediterranean-shipping-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mediterranean-shipping-company",
+  "urlSlug": "mediterranean-shipping-company",
+  "name": "1970년 설립된 스위스 해운 회사",
+  "nameKo": "1970년 설립된 스위스 해운 회사",
+  "nameEn": "Mediterranean Shipping Company",
+  "definition": "Mediterranean Shipping Company(MSC)는 스위스 제네바에 본사를 둔 국제 해운 회사로, 선대 규모와 화물 적재 용량 기준 세계 최대 컨테이너 해운사이다.",
+  "summary": "Mediterranean Shipping Company(MSC)는 스위스 제네바에 본사를 둔 국제 해운 회사로, 선대 규모와 화물 적재 용량 기준 세계 최대 컨테이너 해운사이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대 컨테이너 해운사이면서 한 가문이 전액 소유한 독립 기업이라는 점이 특징이며, 해운 외에 크루즈와 철도 화물, 화물 항공으로 사업을 넓혔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mediterranean Shipping Company는 MSC Group에 속한 국제 해운 회사이며, 이탈리아 출신 기업가 Gianluigi Aponte와 그의 아내 Rafaela Aponte-Diamant가 1970년 이탈리아에서 설립했다. 1978년부터 스위스 제네바의 Champel 지역에 본사를 두고 있으며 Aponte-Diamant 가문이 소유한 독립 기업이다. 2025년 11월 기준 전 세계 컨테이너 적재 용량의 21.2%를 차지해 선대 규모와 화물 적재 용량 모두에서 세계 최대 컨테이너 해운사이다. 2025년 9월 기준 약 900척의 화물선을 운영하며 적재 용량은 7,000,000 TEU이다. 자회사들은 포르투갈과 스페인의 철도 화물 운송, 크루즈 선박, 화물 항공기도 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1970년 나폴리에서 선장 Gianluigi Aponte와 Rafaela Aponte-Diamant가 민간 회사로 설립했다. 첫 선박 Patricia에 이어 Rafaela를 사들여 지중해와 소말리아를 잇는 노선을 시작했고, 중고 화물선을 추가로 구입하며 확장했다. 1977년에는 북유럽, 아프리카, 인도양 노선을 운영했고, 1978년 제네바에 본사를 세웠으며 1980년대 말에는 북미와 호주까지 선박을 운항했다. 1988년 Monterey를 인수해 크루즈 사업에 진출했고 1989년 Lauro Lines를 인수했다. 1994년 처음으로 신조 컨테이너선을 주문해 Fincantieri가 건조한 MSC Alexa를 1996년부터 인도받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 컨테이너 해운으로, 2025년 9월 기준 약 900척의 화물선을 운영한다. 자회사들은 포르투갈과 스페인의 철도 화물 운송, 크루즈 선박, 화물 항공기를 운영한다. 크루즈 사업은 StarLauro Cruises로 출발해 1995년 MSC Cruises로 이름을 바꾸었다. 2015년 1월 당시 세계 최대 컨테이너선 MSC Oscar(19,224 TEU)를, 2019년 7월 당시 세계 최대인 MSC Gülsün(23,756 TEU)을 선보였다. 2017년 2월에는 지중해 역내 근거리 해운과 유럽발 동·서아프리카 노선에 특화된, 1929년 제노바 설립 이탈리아 해운사 Messina Line의 지분 49%를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Aponte-Diamant 가문이 전액 소유한 독립 기업이며, Diego Aponte의 리더십 아래 운영된다. Diego는 2014년 10월 창업자인 아버지 Gianluigi에 의해 사장 겸 CEO로 임명되었다. 2020년 12월에는 Søren Toft가 가문 밖에서 처음으로 CEO에 올랐고, Terminal Investment Ltd 이사회 구성원도 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대 컨테이너 해운사이면서 한 가문이 전액 소유한 독립 기업이라는 점이 특징이며, 해운 외에 크루즈와 철도 화물, 화물 항공으로 사업을 넓혔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.msc.com/",
+  "entityLinks": {
+   "wikidata": "Q869570",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q869570",
+    "https://ko.wikipedia.org/wiki/MSC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q869570",
+   "country": "스위스",
+   "inception": "1970",
+   "headquarters": "제네바",
+   "founders": [
+    "Gianluigi Aponte"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Mediterranean Shipping Company」 본문과 위키데이터 Q869570 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

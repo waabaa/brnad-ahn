@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q489187",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "anchor-brewing-company",
+  "urlSlug": "anchor-brewing-company",
+  "name": "Anchor Brewing Company",
+  "nameKo": "",
+  "nameEn": "Anchor Brewing Company",
+  "definition": "Anchor Brewing Company는 1896년 설립된 미국 샌프란시스코의 양조장이다. 포트레로 힐에 자리했으며 회사가 상표로 등록한 스팀 비어(steam beer)의 몇 안 남은 생산자 가운데 하나였다.",
+  "summary": "Anchor Brewing Company는 1896년 설립된 미국 샌프란시스코의 양조장이다. 포트레로 힐에 자리했으며 회사가 상표로 등록한 스팀 비어(steam beer)의 몇 안 남은 생산자 가운데 하나였다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "스팀 비어를 상표로 보유한 샌프란시스코의 양조장으로, 1965년 Maytag의 인수로 폐업 위기를 넘긴 뒤에도 여러 차례 소유주가 바뀐 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Anchor는 미국 캘리포니아주 샌프란시스코의 Potrero Hill에 있던 양조장이다. 1896년에 설립되었고 역사를 거치며 위치와 소유주가 여러 차례 바뀌었다. 대형 양조장과의 경쟁으로 판매가 줄던 1965년 Frederick Louis \"Fritz\" Maytag III가 인수해 폐업을 막았다. 회사는 스팀 비어를 상표로 등록했고, 이 맥주의 몇 안 남은 생산자 가운데 하나로 꼽혔다. 2017년 Sapporo Breweries에 인수된 뒤 매출이 크게 줄었고 2023년 운영을 중단했다. 2024년 5월 31일 Chobani CEO Hamdi Ulukaya가 회사와 관련 자산을 인수한다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장의 뿌리는 캘리포니아 골드러시 시기로, Gottlieb Brekle이 독일에서 건너와 샌프란시스코에서 스팀 비어를 양조하기 시작한 데서 비롯된다. 1896년 Ernst F. Baruth와 사위 Otto Schinkel Jr.가 이 오래된 양조장을 사들이며 Anchor Brewing이 만들어졌다. 최초의 터는 1906년 지진 뒤 샌프란시스코를 덮친 화재로 완전히 파괴되어 1907년 다른 곳에 다시 지어졌다. 금주법으로 문을 닫았다가 1933년 캘리포니아의 금주법이 끝나자 새 장소에서 영업을 재개했다. 1965년 Maytag가 인수해 폐업 위기에서 구했고, 1979년에는 Potrero Hill의 옛 커피 로스터리 건물로 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 회사가 상표로 등록한 스팀 비어이다. Maytag 체제에서 1971년 무렵 스팀 비어를 병으로 내놓기 시작했고, 그 밖의 맥주로는 크리스마스 에일이 가장 눈에 띄었다. 병맥주를 내기 전에는 오래전부터 이 브랜드를 취급한 지역 업소 서른 곳에 생맥주만 공급했다. 병 제품은 주류 맥주의 식스팩 가격에 가깝도록 처음에는 4병들이 묶음으로 팔았다. 연간 생산량은 1969년 800배럴, 1970년 1,200배럴, 1971년 2,100배럴이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 알코올 브랜드를 다루는 투자·컨설팅 회사 The Griffin Group이 인수해 Anchor Brewers & Distillers, LLC의 일부가 되었다. 2017년 Sapporo Breweries가 US$85 million에 인수했으나 매출이 크게 줄었고, 2023년 7월 문을 닫았다. 직원들이 노동자 소유 협동조합으로 인수하려 했으나, 2024년 5월 31일 Chobani CEO Hamdi Ulukaya가 인수를 발표하며 사업을 재개하고 운영을 샌프란시스코에 두겠다는 계획을 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스팀 비어를 상표로 보유한 샌프란시스코의 양조장으로, 1965년 Maytag의 인수로 폐업 위기를 넘긴 뒤에도 여러 차례 소유주가 바뀐 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.anchorbrewing.com",
+  "entityLinks": {
+   "wikidata": "Q489187",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q489187",
+    "https://en.wikipedia.org/wiki/Anchor_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q489187",
+   "country": "미국",
+   "inception": "1896",
+   "headquarters": "샌프란시스코",
+   "founders": [],
+   "parent": "삿포로 맥주",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Anchor Brewing Company」 본문과 위키데이터 Q489187 팩트를 근거로 편집"
+ }
+}

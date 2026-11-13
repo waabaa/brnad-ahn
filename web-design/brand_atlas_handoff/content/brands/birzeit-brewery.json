@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q108485764",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "birzeit-brewery",
+  "urlSlug": "birzeit-brewery",
+  "name": "Birzeit Brewery",
+  "nameKo": "",
+  "nameEn": "Birzeit Brewery",
+  "definition": "Birzeit Brewery는 2013년 팔레스타인의 Birzeit에서 Sayej 형제가 설립한 소규모 양조장이다. 대표 제품인 Shepherds Beer를 만들며, 팔레스타인 자치정부 지역에서 Taybeh Brewery에 이어 두 번째로 세워진 수제 양조장이다.",
+  "summary": "Birzeit Brewery는 2013년 팔레스타인의 Birzeit에서 Sayej 형제가 설립한 소규모 양조장이다. 대표 제품인 Shepherds Beer를 만들며, 팔레스타인 자치정부 지역에서 Taybeh Brewery에 이어 두 번째로 세워진 수제 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "점령 하 서안지구에서 물 재활용과 자체 홉 재배를 시도하며 Shepherds Beer를 만드는, 팔레스타인 기독교계 형제의 수제 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Birzeit Brewery는 팔레스타인 Birzeit에서 Shepherds Beer를 만드는 소규모 양조장이다. 현지 팔레스타인 기독교 공동체 구성원인 Sayej 형제가 2013년에 세웠다. 이스라엘 점령 하의 서안지구에서 운영하는 탓에 건설, 수출입, 물 같은 필수 자원 접근에 제약을 받는다. Sayej는 세척 등에 쓸 물을 재활용하는 자체 수처리 시스템을 설계했고, 양조장은 빗물도 모아 쓴다. 2017년 기준 Shepherds Beer는 팔레스타인 지역과 이스라엘에서 판매되었고 이탈리아, 칠레, 미국으로 수출되었다. 팔레스타인 자치정부 지역에서는 Taybeh Brewery 다음으로 설립된 두 번째 수제 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 2013년 Birzeit에서 Sayej 형제가 설립했다. 그러나 점령 하 서안지구에서 장비와 물자를 이스라엘을 거쳐 들여와야 하고 허가 취득이 예측할 수 없이 지연되어, 2015년 7월에야 Shepherds Beer의 상업 판매를 시작했다. 목동 그림이 담긴 병 라벨은 예수를 묘사해 신성모독이라는 이유로 팔레스타인 자치정부가 처음에 거부했고, Sayej가 당국을 설득하는 데 석 달이 걸렸다. 2016년에는 지역 무슬림 설교자가 음주를 조장한다고 비판하자 Birzeit 문화유산 축제의 부스를 철수했고, 이후 자체 행사인 첫 Shepherds Beer Festival을 열었다. 2017년 8월 베들레헴 인근 기독교 마을 Beit Sahour에서 열린 두 번째 축제에는 이틀간 7,000~8,000명이 찾았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Shepherds Beer 라인에는 체코식 블론드 필스너, 영국식 앰버 에일, 아일랜드식 스타우트가 있다. 계절 맥주도 만들며, 한 예로 Birzeit 주변 농장에서 수확한 네 종류의 베리로 소량 빚은 베리 밀맥주가 있다. Sayej는 단일 산지 팔레스타인 IPA를 만들 목적으로 수경재배 홉을 시험 재배했다. 이렇게 얻은 소량의 홉은 특별 행사용 소량 맥주에 쓰였다. 양조장은 무알코올 맥주 라인 계획을 밝혔고 다른 주류 생산도 검토하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 기준 현지 허가 문제는 해소되었고 Shepherds Beer는 팔레스타인 지역과 이스라엘에서 판매되며 이탈리아, 칠레, 미국으로 수출되었다. Shepherds Beer Festival은 이후 매년 8월에 열리고 있다. 양조장은 무알코올 맥주 라인과 다른 주류 생산 가능성을 계획 중이라고 밝혔다. 건설, 수출입, 물 접근에 대한 제약은 운영상의 과제로 꼽힌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "점령 하 서안지구에서 물 재활용과 자체 홉 재배를 시도하며 Shepherds Beer를 만드는, 팔레스타인 기독교계 형제의 수제 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q108485764",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q108485764",
+    "https://en.wikipedia.org/wiki/Birzeit_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q108485764",
+   "country": null,
+   "inception": null,
+   "headquarters": "Birzeit",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Birzeit Brewery」 본문과 위키데이터 Q108485764 팩트를 근거로 편집"
+ }
+}

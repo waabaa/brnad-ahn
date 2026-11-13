@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q430230",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "coleman-company",
+  "urlSlug": "coleman-company",
+  "name": "콜맨",
+  "nameKo": "콜맨",
+  "nameEn": "Coleman Company",
+  "definition": "콜맨(Coleman Company)은 랜턴, 휴대용 스토브, 침낭, 의자, 쿨러 등 캠핑 용품으로 가장 잘 알려진 미국의 아웃도어 레크리에이션 제품 제조사이다.",
+  "summary": "콜맨(Coleman Company)은 랜턴, 휴대용 스토브, 침낭, 의자, 쿨러 등 캠핑 용품으로 가장 잘 알려진 미국의 아웃도어 레크리에이션 제품 제조사이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "캠핑용 랜턴과 스토브로 대표되는 아웃도어 제조사로, 휘발유 압력 램프에서 출발해 캠핑 장비 전반으로 제품군을 넓힌 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "콜맨은 미국의 아웃도어 레크리에이션 제품 제조사로, 캠핑 장비를 중심으로 사업을 해 왔다. 랜턴과 휴대용 스토브, 침낭, 의자, 쿨러가 대표 제품군으로 꼽힌다. 창업자는 William Coffin Coleman이며 휘발유 압력 램프를 팔면서 사업을 시작했다. 20세기 중반에는 가정용품과 실용 제품으로 영역을 넓혔으나, 1990년대에 들어 핵심인 아웃도어 레크리에이션 제품으로 다시 초점을 맞췄다. 현재 시카고에 본사를 두고 있으며 직원은 약 4,000명이다. 지금은 Newell Brands의 자회사이며 캔자스주 위치토에 시설을 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "William Coffin Coleman은 1902년 위치토에서 휘발유 압력 램프를 팔기 시작했다. 1905년에는 Cooper와 Fairmount의 풋볼 경기 시연에 램프를 제공했다. 콜맨 가스등은 미시시피강 서쪽에서 처음 열린 야간 풋볼 경기에도 쓰였다. 1910년대에는 미국 정부가 제1차 세계대전 중 농업 생산을 지원하려고 콜맨 랜턴을 보급했다. 제2차 세계대전 중에는 군용으로 설계한 소형 다연료 버너 Model 520을 개발했고, 1996년에는 프랑스 회사 Campingaz를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Coleman Lantern은 원래 휘발유로 타도록 만든 압력 램프 시리즈이다. 현재 모델은 Coleman fuel(화이트 가스)이나 프로판을 쓰며 가스 맨틀 한두 개로 강한 흰빛을 낸다. 캠핑 스토브(원조 \"G.I. Pocket Stove\" 생산), 침낭, 쿨러, 핫텁, 발전기, 시계, 샌들, 텐트, 개 장난감, 백팩을 만든다. 카누, 폰툰 보트, 존보트 등 소형 보트와 Coleman Powersports 브랜드의 ATV·미니바이크도 만든다. 캐나다 Canadian Tire에서 판매하는 뒷마당 바비큐 그릴도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2004년 9월 Jarden이 Coleman과 Sunbeam Products 등의 비상장 모회사 American Household를 인수했다. 2015년 12월에는 Newell Brands가 Jarden을 인수하면서 콜맨 브랜드를 얻었다. 현재 콜맨은 Newell Brands의 자회사이며 시카고에 본사를 두고 약 4,000명을 고용한다. 텍사스주 New Braunfels 시설은 2022년에 폐쇄했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캠핑용 랜턴과 스토브로 대표되는 아웃도어 제조사로, 휘발유 압력 램프에서 출발해 캠핑 장비 전반으로 제품군을 넓힌 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.coleman.com/",
+  "entityLinks": {
+   "wikidata": "Q430230",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q430230",
+    "https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%A7%A8_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Coleman_(brand)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q430230",
+   "country": "미국",
+   "inception": "1900",
+   "headquarters": "위치토",
+   "founders": [
+    "William Coffin Coleman"
+   ],
+   "parent": "Newell Brands",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Coleman (brand)」 본문과 위키데이터 Q430230 팩트를 근거로 편집"
+ }
+}

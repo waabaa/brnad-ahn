@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q7412675",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "samuel-smith-old-brewery",
+  "urlSlug": "samuel-smith-old-brewery",
+  "name": "Samuel Smith Old Brewery",
+  "nameKo": "",
+  "nameEn": "Samuel Smith Old Brewery",
+  "definition": "Samuel Smith Old Brewery는 1758년에 설립된 잉글랜드의 가족 소유 독립 양조장이자 펍·호텔 운영사이다. 노스요크셔 Tadcaster에 본사를 두고 있으며 요크셔에서 가장 오래된 양조장을 자처한다.",
+  "summary": "Samuel Smith Old Brewery는 1758년에 설립된 잉글랜드의 가족 소유 독립 양조장이자 펍·호텔 운영사이다. 노스요크셔 Tadcaster에 본사를 두고 있으며 요크셔에서 가장 오래된 양조장을 자처한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "음악과 텔레비전, 휴대 기기를 금지하고 짐마차용 말을 쓰는 등 독특한 방침으로 알려진 요크셔의 전통 양조장이다. 캐스크 맥주는 Old Brewery Bitter 한 종류만 만든다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 양조장과 함께 펍과 호텔을 운영하며, 흔히 Samuel Smith's 또는 Sam Smith's로 불린다. 전통적인 방식으로 운영되며 보수적인 가치를 지키는 것으로 알려져 있다. 일부 맥주 배달에 지금도 짐마차용 말을 쓰고, 매장에서 음악과 텔레비전, 휴대 기기를 금지한다. 1982년에 무한책임회사로 전환해 재무제표를 공개할 의무가 없어졌고 그 뒤로 공개하지 않았다. 200곳이 넘는 펍을 운영하며, 그중 20곳은 런던 중심부에 있고 전통적인 모습으로 유지된다. 병맥주, 캐스크 맥주, 케그 맥주, 사과주 등 다양한 제품을 만든다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Tadcaster는 석고가 풍부한 우물 덕분에 14세기부터 양조의 중심지였다. 이 양조장은 1758년 Backhouse & Hartley Brewery라는 이름으로 설립되었다. 1847년 John Smith가 아버지의 지원을 받아 이를 사들이고 인근에 John Smith's Brewery를 세웠다. John의 형제 William은 1879년 John이 사망한 뒤 사업을 이끌다가 1886년 Old Brewery를 조카 Samuel에게 물려주었다. Samuel은 설비가 모두 옮겨진 빈 건물과 우물을 물려받았으나 다시 설비를 갖추고 양조장을 열었다. 1982년 무렵 Humphrey Smith가 소유주가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캐스크 맥주는 Old Brewery Bitter(OBB) 한 종류만 만든다. 이는 실제 에일을 여러 종 만들거나 아예 만들지 않는 영국 양조업계에서 드문 경우이다. 컨디셔닝 맥주를 여러 종 생산하며, Old Brewery Bitter와 Yorkshire Stingo를 제외하면 모두 비건이다. 병입 과일 맥주는 체리, 라즈베리, 딸기, 살구 향이 있고, Organic Cider는 병으로 판매된다. 케그 비터로 Best Bitter와 Sovereign이 있으며, 2013년 말에 Double Four 라거를 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "가족 소유의 독립 기업으로 남아 있으며 1982년 이후 재무제표를 공개하지 않았다. Humphrey Smith는 2026년 사망할 때까지 소유주이자 경영자였고, 아들 Samuel Smith가 양조장을 이끌 것으로 예상된다. Old Brewery는 Tadcaster에 현재 있는 세 양조장 중 가장 작다. 미국에서는 병맥주를 Merchant du Vin이, 노르웨이에서는 Strag AS가 수입한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "음악과 텔레비전, 휴대 기기를 금지하고 짐마차용 말을 쓰는 등 독특한 방침으로 알려진 요크셔의 전통 양조장이다. 캐스크 맥주는 Old Brewery Bitter 한 종류만 만든다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.samuelsmithsbrewery.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q7412675",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7412675",
+    "https://en.wikipedia.org/wiki/Samuel_Smith_Old_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7412675",
+   "country": "영국",
+   "inception": "1758",
+   "headquarters": "테드캐스터",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Samuel Smith Old Brewery」 본문과 위키데이터 Q7412675 팩트를 근거로 편집"
+ }
+}

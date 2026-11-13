@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q324782",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:50+09:00"
+ },
+ "logoCandidate": "logos/beretta-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "beretta",
+  "urlSlug": "beretta",
+  "name": "베레타",
+  "nameKo": "베레타",
+  "nameEn": "Beretta",
+  "definition": "베레타(Beretta)는 이탈리아 브레시아에 본사를 둔 총기 제조 기업으로, 1526년 이전에 설립되어 세계에서 가장 오래된 현존 총기 제조사로 꼽힌다.",
+  "summary": "베레타(Beretta)는 이탈리아 브레시아에 본사를 둔 총기 제조 기업으로, 1526년 이전에 설립되어 세계에서 가장 오래된 현존 총기 제조사로 꼽힌다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "약 500년간 같은 가문이 소유해 온, 세계에서 가장 오래된 현존 총기 제조사라는 점이 다른 총기 브랜드와 구분되는 지점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베레타는 민간, 법 집행기관, 군용으로 사용되는 총기를 세계 각지에 공급하는 이탈리아 총기 제조업체이다. 매출의 4분의 3은 스포츠용 총기에서 나오며, 사격용 의류와 액세서리도 함께 판매한다. 여러 국가에서 사업을 운영하는 비상장 가족 소유 기업으로, 1650년 이후 유럽의 주요 전쟁마다 무기를 공급해 왔다. 1980년대에는 베레타 92 권총이 미군 제식 권총 M9로 채택되면서 북미 시장에서 다시 인기를 얻었다. 1980년대 말에는 Benelli, Franchi 등 이탈리아 내 경쟁사와 핀란드의 기업들을 인수하며 사업을 확장했고, 이를 통해 이탈리아를 대표하는 총기 제조업체로 자리잡았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "베레타의 기원은 이탈리아 브레시아주 발트롬피아 계곡의 가르도네 마을에 있는 대장간으로, 1500년경부터 가동된 것으로 알려졌다. 최초로 문서화된 거래는 1526년 10월 3일 자 계약으로, 베네치아 공화국이 총열 제작 장인 Bartolomeo Beretta에게 총열 185정을 주문한 내용이다. 이 총기 제작 기술은 Bartolomeo의 아들 Jacopo, 손자 Giovannino, 증손자 Giovan Antonio에게 대를 이어 전수되었으며, 길드 제도가 폐지된 1797년 나폴레옹의 베네치아 공화국 정복 이후까지 이어졌다. 같은 가문이 약 500년 동안 베레타를 소유해 왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "베레타는 매출의 4분의 3을 차지하는 스포츠용 총기를 비롯해 사격용 의류와 액세서리를 판매한다. 1918년에는 세계 최초의 기관단총 중 하나인 베레타 모델 1918을 이탈리아 군에 공급했다. 제2차 세계대전 이후에는 미국이 이탈리아에 지급한 M1 개런드 소총을 개조해 베레타 BM-59 소총을 만들었다. 1970년대에는 브라질 상파울루에 생산 공장을 세우고 브라질 정부와 계약을 맺어 1980년까지 베레타 92를 생산했다. 1980년대에는 베레타 92 권총이 미군의 제식 권총 M9로 채택되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "베레타는 여러 국가에서 사업을 운영하는 비상장 개인 소유 기업으로, 모기업은 베레타 홀딩이다. 같은 가문이 거의 500년 동안 소유해 온 가족 기업이며, 세계에서 가장 오래도록 지속적으로 운영되고 있는 기업 중 하나로 꼽힌다. 또한 2백 년 이상 가족이 경영해 온 기업들의 모임인 Les Henokiens의 창립 회원이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "약 500년간 같은 가문이 소유해 온, 세계에서 가장 오래된 현존 총기 제조사라는 점이 다른 총기 브랜드와 구분되는 지점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.beretta.com/en/",
+  "entityLinks": {
+   "wikidata": "Q324782",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q324782",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A0%88%ED%83%80",
+    "https://en.wikipedia.org/wiki/Beretta"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q324782",
+   "country": "이탈리아",
+   "inception": "1526",
+   "headquarters": "브레시아",
+   "founders": [
+    "Beretta"
+   ],
+   "parent": "베레타 홀딩",
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Beretta」 본문과 위키데이터 Q324782 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

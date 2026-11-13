@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2334658",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brewery-of-bellevaux",
+  "urlSlug": "brewery-of-bellevaux",
+  "name": "brewery of Bellevaux",
+  "nameKo": "",
+  "nameEn": "brewery of Bellevaux",
+  "definition": "brewery of Bellevaux는 벨기에 리에주 주 말메디 자치체의 옛 코뮌 Bellevaux에 자리한 수제 맥주 양조장이다. 다섯 가지 특별 맥주를 생산하며, 2006년에 설립되었다.",
+  "summary": "brewery of Bellevaux는 벨기에 리에주 주 말메디 자치체의 옛 코뮌 Bellevaux에 자리한 수제 맥주 양조장이다. 다섯 가지 특별 맥주를 생산하며, 2006년에 설립되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "네덜란드 양조 가문이 벨기에 아르덴의 샘물과 오래된 구리 통으로 특별 맥주 다섯 종을 빚는 말메디의 수제 맥주 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "brewery of Bellevaux는 벨기에의 수제 맥주 양조장으로, 리에주 주 말메디 자치체에 속한 옛 코뮌인 Bellevaux에 자리 잡고 있다. 위키데이터 기준으로 국가는 벨기에, 본사 소재지는 Bellevaux-Ligneuville이며 2006년에 설립되었다. 이 양조장은 특별 맥주 다섯 종을 생산하며 그중 네 종의 이름에 Bellevaux가 붙는다. 맥주는 오래된 구리 통에서 양조하고, 필요한 물은 아르덴의 맑은 샘에서 끌어온다. 여과와 저온살균을 하지 않고 고온 발효로 만든 33 cl 맥주 다섯 종도 직접 제조해 판매한다. 로고에는 세 개의 마스클 위에 세 마리의 메를레트가 그려져 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 2006년에 네덜란드 양조 가문인 Schuwer-Berhuis 가족이 세웠다. 설립지는 리에주 주 말메디 자치체에 속한 옛 코뮌 Bellevaux이며, 본사 소재지는 Bellevaux-Ligneuville로 기록되어 있다. 양조에는 오래된 구리 통을 쓰며, 물은 아르덴에 있는 맑은 샘에서 끌어와 맥주 제조에 사용한다. 생산하는 맥주는 Bellevaux라는 이름이 붙은 라이트 에일, 비터, 화이트, 블랙과 Triple Malmedy의 다섯 종이다. 로고는 세 개의 마스클 위에 세 마리의 메를레트를 얹은 문양으로, 양조장의 상징으로 쓰인다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장의 대표 제품은 다섯 종의 특별 맥주이며, 그중 네 종은 Bellevaux라는 이름을 달고 있다. 알코올 도수(ABV)는 Bellevaux light ale이 7%, Bellevaux bitter가 6.8%, Bellevaux white가 4.8%, Bellevaux black이 3.1%이다. 다섯 번째 맥주인 Triple Malmedy는 알코올 도수가 9%이다. 이 맥주들은 33 cl 용량으로, 여과와 저온살균을 하지 않은 고온 발효 맥주이다. 양조는 오래된 구리 통에서 이루어지며, 맥주에 쓰는 물은 아르덴의 맑은 샘에서 끌어온다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 벨기에 리에주 주 말메디 자치체의 옛 코뮌 Bellevaux에 위치한 수제 맥주 양조장으로, 본사는 Bellevaux-Ligneuville로 기록되어 있다. 특별 맥주 다섯 종을 생산하며, 이 중 네 종에 Bellevaux라는 이름이 붙어 있다. 여과나 저온살균을 거치지 않은 33 cl 맥주도 제조·판매한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네덜란드 양조 가문이 벨기에 아르덴의 샘물과 오래된 구리 통으로 특별 맥주 다섯 종을 빚는 말메디의 수제 맥주 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brasseriedebellevaux.be",
+  "entityLinks": {
+   "wikidata": "Q2334658",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2334658",
+    "https://en.wikipedia.org/wiki/Brasserie_de_Bellevaux"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2334658",
+   "country": "벨기에",
+   "inception": "2006",
+   "headquarters": "Bellevaux-Ligneuville",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie de Bellevaux」 본문과 위키데이터 Q2334658 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1127887",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vivendi-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vivendi",
+  "urlSlug": "vivendi",
+  "name": "비방디",
+  "nameKo": "비방디",
+  "nameEn": "Vivendi",
+  "definition": "비방디(Vivendi)는 프랑스 파리에 본사를 둔 다국적 미디어 그룹이다. Canal+ Group, 유니버설 뮤직 그룹, Flavorus, 게임로프트, 데일리모션 등의 계열사를 두고 있다.",
+  "summary": "비방디(Vivendi)는 프랑스 파리에 본사를 둔 다국적 미디어 그룹이다. Canal+ Group, 유니버설 뮤직 그룹, Flavorus, 게임로프트, 데일리모션 등의 계열사를 두고 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "수자원 회사로 출발해 미디어 그룹으로 탈바꿈한 프랑스 기업으로, 유료 방송 Canal+와 유니버설 뮤직 그룹, 광고 대행사 Havas 등을 거느린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "비방디는 프랑스의 다국적 미디어 그룹으로, 영화와 방송, 통신과 광고, 잡지, 게임의 네 가지 사업을 주력으로 삼는다. 계열사로는 Canal+ Group, 유니버설 뮤직 그룹, Flavorus, 게임로프트, 데일리모션 등이 있다. 뿌리는 1853년 설립된 수자원 회사 Compagnie Générale des Eaux이며, 1998년 현재의 이름으로 바뀌었다. 2021년 유니버설 뮤직그룹이 분사되어 유로넥스트 암스테르담에 상장된 뒤에도 비방디는 지분 40%를 유지해 최대 주주로 남았다. 2022년 현재 프랑스 사업가 빈센트 볼로레가 지분 29.5%를 보유한 최대 주주이다. 뉴스 전문 방송 C News는 보수적인 보도로 \"프랑스의 폭스 뉴스\"로 불린다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1853년 12월 14일 나폴레옹 3세의 칙령에 의해 수자원 회사 Compagnie Générale des Eaux(CGE)가 설립되었다. 1854년 리옹시 상수도 사업 허가를 받은 것을 시작으로 1861년 파리, 1880년 낭트와 베네치아, 1882년 이스탄불, 1883년 포르투로 진출했다. 1976년부터 여러 차례의 인수를 통해 쓰레기 처리, 에너지, 교통, 건설, 부동산 개발로 사업 영역을 넓혔고, 1983년 프랑스 최초의 유료방송사 카날+에 출자했다. 1996년 CEO로 취임한 장 마리 메시에 밑에서 미디어와 통신 사업을 본격적으로 확장했으며, 1998년 이름을 비방디로 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 사업은 영화와 방송, 통신과 광고, 잡지, 게임으로 나뉜다. Canal+ Group은 프랑스에서 가장 큰 유료 방송 채널 Canal+와 지상파 채널 3곳을 보유하며, 전 세계 고객이 2550만 명이고 그중 1600만 명이 프랑스 밖에 있다. 스튀디오카날은 유럽에서 가장 큰 제작사이자 배급사로, 7500개 이상의 영화와 텔레비전 프로그램 판권을 보유한다. OTT 서비스로는 마이 카날(my Canal)이 있다. 광고 대행사 Havas는 전 세계 100개 이상의 국가에서 22,000명 이상을 고용하며, 1835년 세계 최초의 뉴스 통신사로 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 빈센트 볼로레가 지분 1.7%를 인수한 것을 시작으로 2022년 현재 29.5%를 보유해 최대 주주가 되었다. 볼로레는 비방디 소유의 매체들이 자신의 보수적, 종교적 가치를 반영하게 했다. 2021년에는 유니버설 뮤직그룹이 분사되어 유로넥스트 암스테르담에 상장되었고, 비방디는 지분 40%를 유지해 최대 주주로 남았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수자원 회사로 출발해 미디어 그룹으로 탈바꿈한 프랑스 기업으로, 유료 방송 Canal+와 유니버설 뮤직 그룹, 광고 대행사 Havas 등을 거느린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vivendi.com/",
+  "entityLinks": {
+   "wikidata": "Q1127887",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1127887",
+    "https://ko.wikipedia.org/wiki/%EB%B9%84%EB%B0%A9%EB%94%94",
+    "https://en.wikipedia.org/wiki/Vivendi"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1127887",
+   "country": "프랑스",
+   "inception": "1987",
+   "headquarters": "파리",
+   "founders": [
+    "나폴레옹 3세"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「비방디」 요약과 위키데이터 Q1127887 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

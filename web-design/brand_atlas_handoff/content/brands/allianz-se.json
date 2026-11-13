@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q487292",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/allianz-se-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "allianz-se",
+  "urlSlug": "allianz-se",
+  "name": "알리안츠",
+  "nameKo": "알리안츠",
+  "nameEn": "Allianz SE",
+  "definition": "알리안츠(Allianz SE)는 독일 뮌헨에 본사를 둔 다국적 금융 서비스 기업이다. 핵심 사업은 보험과 자산운용이며, 세계 최대 보험사이자 유럽 최대 금융 서비스 기업으로 소개된다.",
+  "summary": "알리안츠(Allianz SE)는 독일 뮌헨에 본사를 둔 다국적 금융 서비스 기업이다. 핵심 사업은 보험과 자산운용이며, 세계 최대 보험사이자 유럽 최대 금융 서비스 기업으로 소개된다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "보험과 자산운용을 중심으로 한 뮌헨 기반 금융 그룹으로, 세계 최대 보험사이자 유럽 최대 금융 서비스 기업으로 꼽힌다. 1890년 활동을 시작했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "알리안츠는 독일 뮌헨에 본사를 둔 다국적 금융 서비스 기업으로, 핵심 사업은 보험과 자산운용이다. 영문 위키백과는 알리안츠를 세계 최대 보험사이자 유럽 최대 금융 서비스 기업으로 설명한다. 2023년 포브스 글로벌 2000에서 37위에 올랐으며, 유로 스톡스 50 주가지수의 구성 종목이기도 하다. 자산운용 부문은 PIMCO와 Allianz Global Investors로 구성되며, 2021년 1분기 기준 운용자산은 €2,432 billion이고 이 중 제3자 자산은 €1,775 billion이다. 2008년 11월에는 Dresdner Bank를 Commerzbank에 매각했다. 1890년 베를린에서 활동을 시작한 이후 해상보험과 상해보험에서 출발해 보험 영역을 넓혔고, 독일 밖으로도 사업을 확장해 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Allianz AG는 1889년 뮌헨에서 설립되었고, 1890년 2월 5일 베를린에서 활동을 시작했다. 당시 Munich Reinsurance Company의 이사였던 Carl von Thieme와 Merck Finck & Co. Bank의 공동 소유주였던 Wilhelm von Finck가 회사를 세웠다. 회사는 Allianz Versicherungs-Aktiengesellschaft라는 이름으로 베를린 상업등기부에 등록되었고, 창업 자본은 4 million 마르크였다. 첫 상품은 해상보험과 상해보험으로 처음에는 독일에서만 판매했으나, 1893년 런던에 첫 해외 지점을 열었다. 1900년에는 기업 보험 판매 면허를 처음 취득한 보험사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 상품은 해상보험과 상해보험이었다. 1905년 화재보험, 1911년 기계 고장 보험을 판매하기 시작했고, 1918년에는 Kraft Versicherungs-AG라는 합작회사를 통해 자동차보험도 제공했다. 기계 고장 보험은 1924년까지 세계에서 알리안츠만 판매했다. 1922년부터는 생명보험을 판매해 1920년대 말 유럽 최대 생명보험 제공자가 되었다. 현재 핵심 사업은 보험과 자산운용이며, 자산운용 부문은 PIMCO와 Allianz Global Investors로 구성된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "알리안츠는 현재 뮌헨에 본사를 두고 있으며, 세계 최대 보험사로 평가된다. 2023년 포브스 글로벌 2000에서 37위였고 유로 스톡스 50 지수의 구성 종목이다. 2021년 1분기 기준 자산운용 부문의 운용자산은 €2,432 billion이며, 이 중 제3자 자산이 €1,775 billion이다. 2008년 11월에는 Dresdner Bank를 Commerzbank에 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "보험과 자산운용을 중심으로 한 뮌헨 기반 금융 그룹으로, 세계 최대 보험사이자 유럽 최대 금융 서비스 기업으로 꼽힌다. 1890년 활동을 시작했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.allianz.com/",
+  "entityLinks": {
+   "wikidata": "Q487292",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q487292",
+    "https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A6%AC%EC%95%88%EC%B8%A0",
+    "https://en.wikipedia.org/wiki/Allianz"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q487292",
+   "country": "독일",
+   "inception": "1890",
+   "headquarters": "뮌헨",
+   "founders": [
+    "Carl von Thieme",
+    "Wilhelm von Finck"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Allianz」 본문과 위키데이터 Q487292 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

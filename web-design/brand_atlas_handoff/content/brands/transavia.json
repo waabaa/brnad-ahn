@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q246952",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/transavia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "transavia",
+  "urlSlug": "transavia",
+  "name": "트랜스아비아",
+  "nameKo": "트랜스아비아",
+  "nameEn": "Transavia",
+  "definition": "트랜스아비아(Transavia)는 네덜란드의 저비용 항공사이다. 1965년에 설립되었으며 본사는 노르트홀란트주 하를레메르메이르에 있고 모기업은 에어 프랑스-KLM이다.",
+  "summary": "트랜스아비아(Transavia)는 네덜란드의 저비용 항공사이다. 1965년에 설립되었으며 본사는 노르트홀란트주 하를레메르메이르에 있고 모기업은 에어 프랑스-KLM이다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "네덜란드의 스히폴 국제공항, 에인트호번 공항, 로테르담 헤이그 공항 세 곳을 허브로 쓰는 에어 프랑스-KLM 계열의 저비용 항공사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "트랜스아비아는 네덜란드를 기반으로 하는 저비용 항공사이다. 본사는 노르트홀란트주 하를레메르메이르에 있으며, 스히폴 국제공항, 에인트호번 공항, 로테르담 헤이그 공항을 허브 공항으로 사용한다. 1965년 John Nicolaas Block이 설립했으며, 1966년 11월 17일부터 운항을 시작했다. 이전에는 전세기를 주로 운항하는 업무 형태였으나 2005년 1월 1일 Basiq Air와 합병하면서 저비용 항공사로 운영하게 되었다. 에어프랑스와 KLM의 합병에 따라 2007년에는 파리 오를리 공항 노선의 운항을 시작했다. 현재는 정기 항공편 19개 노선과 전세편 항공을 함께 운항하며, 모기업은 에어 프랑스-KLM이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "트랜스아비아는 1965년 John Nicolaas Block이 설립했으며 1966년 11월 17일부터 운항을 시작했다. 1986년 회사명을 트랜스아비아 에어로로 바꾸었고, 같은 해 10월 26일 스히폴 국제공항발 런던 개트윅 공항 정기 국제선 운항을 시작했다. 이후 전세기를 주로 운항하는 업무 형태를 취했으나 2005년 1월 1일 Basiq Air와 합병하면서 저비용 항공사로 운영하게 되었다. 에어프랑스와 주요 주주였던 KLM의 합병에 따라 2007년 파리 오를리 공항 노선의 운항을 시작했다. 현재는 정기 항공편 19개 노선과 전세편 항공을 운항한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "트랜스아비아의 사업은 정기 항공편과 전세편 항공으로 나뉘며, 과거에는 전세기를 주로 운항하는 업무 형태를 취했다. 현재 정기 항공편은 19개 노선이 운항하고 있으며 이 외에도 전세편 항공을 운항한다. 1986년 10월 26일에는 스히폴 국제공항발 런던 개트윅 공항 정기 국제선 운항을 시작했다. 2007년에는 에어프랑스와 KLM의 합병에 따라 파리 오를리 공항 노선의 운항을 시작했다. 스히폴 국제공항, 에인트호번 공항, 로테르담 헤이그 공항을 허브 공항으로 사용하며, 2005년 1월 1일 Basiq Air와 합병한 이후 저비용 항공사로 운영하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "트랜스아비아는 에어 프랑스-KLM을 모기업으로 두고 있으며 본사는 노르트홀란트주 하를레메르메이르에 있다. 스히폴 국제공항, 에인트호번 공항, 로테르담 헤이그 공항을 허브 공항으로 사용한다. 현재 정기 항공편 19개 노선과 전세편 항공을 운항한다. 2026년 9월 기준으로 보유 기종의 평균 기령은 8.5년이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네덜란드의 스히폴 국제공항, 에인트호번 공항, 로테르담 헤이그 공항 세 곳을 허브로 쓰는 에어 프랑스-KLM 계열의 저비용 항공사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.transavia.com",
+  "entityLinks": {
+   "wikidata": "Q246952",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q246952",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9E%9C%EC%8A%A4%EC%95%84%EB%B9%84%EC%95%84",
+    "https://en.wikipedia.org/wiki/Transavia"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q246952",
+   "country": "네덜란드",
+   "inception": "1965",
+   "headquarters": "스히폴 국제공항",
+   "founders": [
+    "John Nicolaas Block"
+   ],
+   "parent": "에어 프랑스-KLM",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「트랜스아비아」 요약과 위키데이터 Q246952 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

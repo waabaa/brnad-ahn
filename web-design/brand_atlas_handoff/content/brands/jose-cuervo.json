@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1399467",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/jose-cuervo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jose-cuervo",
+  "urlSlug": "jose-cuervo",
+  "name": "호세 쿠엘보",
+  "nameKo": "호세 쿠엘보",
+  "nameEn": "Jose Cuervo",
+  "definition": "호세 쿠엘보(Jose Cuervo)는 멕시코의 테킬라 브랜드이다. 설립자 José Antonio de Cuervo의 가문이 생산하며, 오랫동안 세계에서 가장 많이 팔린 테킬라 브랜드였다.",
+  "summary": "호세 쿠엘보(Jose Cuervo)는 멕시코의 테킬라 브랜드이다. 설립자 José Antonio de Cuervo의 가문이 생산하며, 오랫동안 세계에서 가장 많이 팔린 테킬라 브랜드였다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "1795년 첫 상업 생산 허가를 받은 가문 기업으로, 오랫동안 세계 판매 1위 테킬라 자리를 지켜 온 Beckmann 가문 소유 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "호세 쿠엘보는 멕시코 테킬라 브랜드로, 설립자 José Antonio de Cuervo의 가문이 생산한다. 유통은 Beckmann 가문 소유의 Proximo Spirits가 맡는다. 2024년 기준 미국에서 테킬라 8.9 million 케이스를 판매하며, 테킬라 범주 5케이스 중 1케이스를 차지한다. 가족 소유 기업으로 Don José Antonio de Cuervo의 후손인 Beckmann 가문이 운영하며, Juan-Domingo Beckmann이 6대 경영자이다. 제품에는 Jose Cuervo Tradicional, Jose Cuervo Especial, Jose Cuervo 250 Aniversario 등이 있다. 생산지는 멕시코 할리스코주의 La Rojeña 증류소이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1758년 Don José Antonio de Cuervo가 스페인 국왕 Ferdinand VI로부터 할리스코주 테킬라 마을의 토지를 하사받았고, 가문은 그곳에서 Taberna de Cuervo를 세워 블루 아가베를 재배했다. 1795년 아들 José María Guadalupe de Cuervo가 스페인 국왕 Carlos IV로부터 상업 생산 허가를 받아 첫 Vino Mezcal de Tequila de Jose Cuervo를 만들었다. 1852년에는 제품이 처음으로 미국 국경을 넘었다. 1880년에는 개별 병입을 시작해, 다른 증류업자가 여전히 통을 쓰던 때에 처음으로 테킬라를 병에 담았다. 1940년대부터 테킬라 업계에서 우위를 차지하기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군은 Jose Cuervo Tradicional, Jose Cuervo Especial, Jose Cuervo 250 Aniversario로 구성된다. 이 밖에 Jose Cuervo Margaritas와 Jose Cuervo Sparkling Margaritas 같은 칵테일 완제품도 있다. 제품은 멕시코 할리스코주의 La Rojeña 증류소에서 생산한다. 원료는 물을 저장하는 식물인 블루 아가베로, 발효와 증류를 거쳐 테킬라가 된다. 미국 테킬라 시장에서 가장 빠르게 성장한 부문은 슈퍼 프리미엄 블루 아가베 증류주이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Beckmann 가문이 가족 소유 기업으로 운영하며, 2013년 7월부터 Beckmann 가문 소유의 Proximo Spirits가 유통을 맡고 있다. 그 이전에는 Diageo가 멕시코 밖의 주요 유통사였으나, Diageo의 인수 시도는 무산되었고 2012년 12월 Diageo가 미국 유통 계약을 종료하겠다고 발표했다. 2024년 기준 미국에서 8.9 million 케이스를 판매한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1795년 첫 상업 생산 허가를 받은 가문 기업으로, 오랫동안 세계 판매 1위 테킬라 자리를 지켜 온 Beckmann 가문 소유 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.cuervo.com/",
+  "entityLinks": {
+   "wikidata": "Q1399467",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1399467",
+    "https://ko.wikipedia.org/wiki/%ED%98%B8%EC%84%B8_%EC%BF%A0%EC%97%98%EB%B3%B4",
+    "https://en.wikipedia.org/wiki/Jose_Cuervo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1399467",
+   "country": null,
+   "inception": "1795",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Jose Cuervo」 본문과 위키데이터 Q1399467 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1128836",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/spyker-cars-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "spyker-cars",
+  "urlSlug": "spyker-cars",
+  "name": "스파이커 자동차",
+  "nameKo": "스파이커 자동차",
+  "nameEn": "Spyker Cars",
+  "definition": "스파이커 자동차(Spyker Cars)는 1999년에 설립된 네덜란드의 스포츠카 브랜드이다. 지주회사 Spyker N.V.가 보유했으며, 브랜드명에 대한 법적 권리는 현대의 Spyker Cars 회사가 가졌다.",
+  "summary": "스파이커 자동차(Spyker Cars)는 1999년에 설립된 네덜란드의 스포츠카 브랜드이다. 지주회사 Spyker N.V.가 보유했으며, 브랜드명에 대한 법적 권리는 현대의 Spyker Cars 회사가 가졌다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "항공기 프로펠러와 바퀴를 결합한 로고로 과거 자동차·항공기 제조의 역사를 잇는 네덜란드 스포츠카 브랜드이다. 여러 차례 파산을 겪고도 재기를 시도해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 네덜란드의 스포츠카를 만든다. 지주회사 Spyker N.V.(옛 Spyker Cars N.V., Swedish Automobile N.V.)가 브랜드를 보유했으나 이 회사는 2021년 1월 파산했다. 2010년에는 General Motors로부터 스웨덴 자동차 제조사 Saab Automobile을 인수했다. 2022년 1월에는 러시아 투자자의 지원을 받아 자동차 제작으로 복귀한다고 발표했고, 2026년 8월에는 C8의 개정판인 Preliator XXV를 공개했다. 사훈은 라틴어 \"Nulla tenaci invia est via\"로, 끈기 있는 자에게는 통하지 않는 길이 없다는 뜻이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1999년 Victor Muller와 Maarten de Bruijn이 자동차와 항공기를 제작했던 역사적인 Spyker 회사를 되살리는 형태로 창업했다. 2000년부터 C8 Spyder와 C8 Laviolette 같은 스포츠카를 만들었다. de Bruijn이 처음 만든 차는 프로토타입 Spyker Silvestris였으며, 이 차가 C8 모델의 바탕이 되었다. 2004년 5월 27일에는 Euronext Amsterdam 증권거래소에 상장했다. 2005년 de Bruijn이 회사를 떠나 Silvestris Aquamotive를 세웠고, Simon Koop이 수석 디자이너를 이어받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "C8 Laviolette와 C8 Spyder는 4172 cc Audi V8 엔진으로 400 bhp를 냈고, 0에서 97 km/h까지 4.5초, 최고 속도 300 km/h를 기록했다. 2002년부터 2006년까지 C8 Double 12 S를 제작했으며, Stage I(400 h.p.)부터 Stage V(620 h.p.)까지 다섯 단계의 성능으로 제공했다. 2003년부터 2007년까지는 영국 Cosworth와 함께 개발한 트윈터보 시스템을 얹은 C8 Spyder T를 제작했고, 이 차는 525 h.p.에 0–60 mph 4.0초의 성능을 냈다. 2006년에는 500마력 W12 엔진을 얹은 C12 La Turbie를 제작했다. 로고는 살이 달린 바퀴 위에 항공기 프로펠러를 겹친 모양이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 12월 18일 파산을 확인했으나 2015년 초 파산 선언이 철회되었고, 스포츠카 생산을 이어가겠다고 밝혔다. 2021년 1월 다시 파산했다. 2022년 1월 러시아 투자자의 지원으로 자동차 제작 복귀를 발표했고, 2026년 8월 C8 개정판인 Preliator XXV를 선보였다. 2011년 9월에는 North Street Capital에 €32 million에 매각한다고 발표했으나 이 거래는 성사되지 않았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "항공기 프로펠러와 바퀴를 결합한 로고로 과거 자동차·항공기 제조의 역사를 잇는 네덜란드 스포츠카 브랜드이다. 여러 차례 파산을 겪고도 재기를 시도해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.spykercars.com",
+  "entityLinks": {
+   "wikidata": "Q1128836",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1128836",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%BB%A4_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Spyker_Cars"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1128836",
+   "country": "네덜란드",
+   "inception": "1999",
+   "headquarters": "제이볼더",
+   "founders": [
+    "Maarten de Bruijn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Spyker Cars」 본문과 위키데이터 Q1128836 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

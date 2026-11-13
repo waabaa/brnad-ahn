@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q797517",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "koff",
+  "urlSlug": "koff",
+  "name": "Koff",
+  "nameKo": "",
+  "nameEn": "Koff",
+  "definition": "Koff는 Sinebrychoff가 라거 계열 맥주를 판매하는 데 쓰는 브랜드명이다. Karhu와 함께 Sinebrychoff와 핀란드에서 가장 많이 팔리는 맥주 브랜드로 꼽힌다.",
+  "summary": "Koff는 Sinebrychoff가 라거 계열 맥주를 판매하는 데 쓰는 브랜드명이다. Karhu와 함께 Sinebrychoff와 핀란드에서 가장 많이 팔리는 맥주 브랜드로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "Sinebrychoff의 라거 맥주 브랜드로, 핀란드 아이스하키 구단 셔츠 후원과 헬싱키의 펍 트램 Spårakoff로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Koff는 Sinebrychoff가 라거 계열 맥주를 판매하는 데 쓰는 브랜드명이다. Karhu와 함께 Sinebrychoff와 핀란드에서 가장 많이 팔리는 맥주 브랜드 가운데 하나이다. Sinebrychoff 맥주의 가장 큰 시장 경쟁 상대는 양조장 Hartwall의 Lapin Kulta와 Karjala, 그리고 Olvi 양조장의 Olvi이다. Koff 브랜드명은 마케팅 후원 계약의 일환으로 핀란드 SM-liiga 아이스하키 구단 Ilves, HIFK, TPS, Espoo Blues의 셔츠에 쓰인다. 1995년에는 양조장 설립 175주년인 1994년 직후에 헬싱키에서 펍 트램 Spårakoff가 운행을 시작했다. 제품군은 도수가 서로 다른 여러 라거로 구성되며, 단종된 제품도 다수 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품으로 Koff I(2.5%), Koff III(4.5%), Koff IVA(5.2%), Koff IVB(7.5%)가 있다. 여기에 Koff Extra Brew III(4.5%), Koff Extra Brew IV(5.2%), Koff Lite III(4.4%)가 더해진다. 단종된 제품으로는 아마릴로 계열 홉을 쓴 Koff Amber, 붉은 50cl 캔으로 팔린 Koff Draught, 캐러멜 맥아로 만든 구리빛 라거 Koff Red Lager Beer가 있다. 밀맥주 Koff Weizze, 어두운 라거 Koff Velvet, 수출용 Koff Vienti AIII, 옥수수 시럽을 쓴 Koff Wild Indian(4.4%)도 단종되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Sinebrychoff의 라거 맥주 브랜드로, 핀란드 아이스하키 구단 셔츠 후원과 헬싱키의 펍 트램 Spårakoff로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q797517",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q797517",
+    "https://en.wikipedia.org/wiki/Koff_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q797517",
+   "country": null,
+   "inception": "1821",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Koff (beer)」 본문과 위키데이터 Q797517 팩트를 근거로 편집"
+ }
+}

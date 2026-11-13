@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1193262",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "qualcomm-snapdragon",
+  "urlSlug": "qualcomm-snapdragon",
+  "name": "퀄컴 스냅드래곤",
+  "nameKo": "퀄컴 스냅드래곤",
+  "nameEn": "Qualcomm Snapdragon",
+  "definition": "퀄컴 스냅드래곤(Qualcomm Snapdragon)은 퀄컴의 집적 회로 제품 브랜드이다. 시스템 온 칩, 독립형 이동통신 모뎀, 무선 네트워크 인터페이스 컨트롤러를 포함한다.",
+  "summary": "퀄컴 스냅드래곤(Qualcomm Snapdragon)은 퀄컴의 집적 회로 제품 브랜드이다. 시스템 온 칩, 독립형 이동통신 모뎀, 무선 네트워크 인터페이스 컨트롤러를 포함한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "ARM 기반 CPU와 퀄컴이 자체 개발한 아드레노 GPU, 이동통신 모뎀을 하나의 패키지에 통합해 내놓는 칩 브랜드라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스냅드래곤은 스마트폰, 랩톱, 차량과 같은 임베디드 시스템에 전력을 공급하도록 설계된 시스템 온 칩 브랜드를 중심으로 한다. 일반적으로 중앙 처리 장치, 그래픽 처리 장치, 다양한 디지털 신호 처리 장치, 선택적으로 이동통신 모뎀이 소형화를 위해 단일 패키지에 통합되어 있다. 이들은 안드로이드나 윈도우 같은 운영체제를 구동할 수 있으며, 음성과 이미지, 와이파이 및 블루투스 연결을 통한 전파 등 다양한 신호를 처리한다. 통합된 CPU는 ARM 아키텍처를 기반으로 하며, ARM 홀딩스가 개발한 라이선스된 코어이거나 퀄컴이 자체 개발한 코어이다. 아드레노 GPU와 이동통신 모뎀은 퀄컴이 자체적으로 개발한다. 2011년에는 79억 달러 규모의 스마트폰 프로세서 시장에서 50%의 점유율을 차지했고, 2014년 7월 기준 스마트폰의 41%에 탑재되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스냅드래곤 시스템 온 칩은 2006년 11월에 발표되었으며 스콜피온 프로세서와 퀄컴 최초의 맞춤형 헥사곤 디지털 신호 처리 장치를 포함했다. 명칭은 퀄컴 대변인에 따르면 Snap과 Dragon이 빠르고 사납게 들렸기 때문에 붙여졌다. 최초의 스냅드래곤은 2007년 11월에 출시되었고, 1 GHz CPU 클럭 속도가 제품의 명성으로 언급되었다. 2008년 11월까지 15개의 기기 제조사가 자사 가전 제품에 스냅드래곤 칩을 탑재했고, 2010년 6월에는 개발 중인 120개의 제품 디자인에 포함되었다. 2013년 CES에서 스냅드래곤 800이 발표되면서 이전 모델들은 200, 400, 600 시리즈로 명명되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스냅드래곤 브랜드의 이동통신 모뎀은 모델 이름이 X50처럼 X로 시작하며, 네트워크 인터페이스 컨트롤러는 패스트커넥트로 시작한다. SoC 라인업은 200, 400, 600, 800 시리즈로 나뉘었고, 7 시리즈는 2018년 초에 도입되어 6 시리즈와 8 시리즈 사이의 가격 및 성능을 타겟으로 한다. 2016년 초에는 자체 설계한 크라이오 코어를 사용하는 스냅드래곤 820이 출시되었고, 2020년 12월에 발표된 스냅드래곤 888은 ARM의 코어텍스-X 시리즈 CPU 아키텍처를 특징으로 하는 최초의 퀄컴 SoC이다. 스냅드래곤 칩은 안드로이드 기반 스마트워치와 마세라티 콰트로포르테, 캐딜락 XTS 같은 차량에도 사용되며, 2021년 화성에 착륙한 NASA의 인제뉴어티 헬리콥터에는 스냅드래곤 801 프로세서가 통합되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 기준 에이수스, HP, 레노버는 Always Connected PC라는 이름으로 윈도우 10을 구동하는 스냅드래곤 기반 CPU 랩톱을 판매하기 시작했다. 스냅드래곤 8 2세대는 와이파이 7에 대한 지원을 추가했고, 스냅드래곤 8 엘리트 5세대는 SVE 및 SME에 대한 지원을 추가했다. 2015년 2월에는 독립형 모뎀 제품들이 스냅드래곤 이름으로 리브랜딩되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "ARM 기반 CPU와 퀄컴이 자체 개발한 아드레노 GPU, 이동통신 모뎀을 하나의 패키지에 통합해 내놓는 칩 브랜드라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.qualcomm.com/snapdragon",
+  "entityLinks": {
+   "wikidata": "Q1193262",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1193262",
+    "https://ko.wikipedia.org/wiki/%ED%80%84%EC%BB%B4_%EC%8A%A4%EB%83%85%EB%93%9C%EB%9E%98%EA%B3%A4",
+    "https://en.wikipedia.org/wiki/Qualcomm_Snapdragon"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1193262",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「퀄컴 스냅드래곤」 요약과 위키데이터 Q1193262 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q942393",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "three-horses-beer",
+  "urlSlug": "three-horses-beer",
+  "name": "Three Horses Beer",
+  "nameKo": "",
+  "nameEn": "Three Horses Beer",
+  "definition": "Three Horses Beer는 마다가스카르의 Star Breweries가 1958년부터 양조해 온 페일 라거 맥주이다. 현지에서는 THB라는 약칭으로 더 잘 알려져 있으며 마다가스카르에서 가장 많이 팔리는 맥주이다.",
+  "summary": "Three Horses Beer는 마다가스카르의 Star Breweries가 1958년부터 양조해 온 페일 라거 맥주이다. 현지에서는 THB라는 약칭으로 더 잘 알려져 있으며 마다가스카르에서 가장 많이 팔리는 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "마다가스카르 시장에서 가장 많이 팔리는 현지 맥주로, 나라를 대표하는 상징이자 Soa Ny Fiarahantsika라는 상표 문구와 함께 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "THB는 Star Breweries가 1958년부터 양조해 온 페일 라거이다. 마다가스카르에서 가장 많이 팔리는 맥주이며 나라의 상징으로 묘사된다. 한 마다가스카르 언론인은 이 맥주를 형제애와 우정을 강조하는 문화적 가치인 Fihavanana Malagasy의 상징으로 설명했다. 전국에서 판매되고, 2005년부터 프랑스, 레위니옹 섬, 코모로, 마요트 등으로 수출되고 있다. 1980년 빈에서 열린 International Beverage Competitions에서 금메달을 받아 첫 국제 수상을 기록했다. 이후 Monde Sélection de Bruxelles에서도 여러 차례 메달을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1953년 프랑스 회사 Rochefortaise가 안타나나리보에 Société Tananarivienne d'Articles Réfrigérés(STAR)와 공장을 세워 마다가스카르에서 Coca-Cola를 독점 생산·유통하게 했다. 1957년 현지 맥주를 개발할 양조사가 영입되었고, 그는 17가지 레시피를 개발한 뒤 섬 전역을 다니며 주로 현지 재료로 각각을 시험했다. 이 가운데 가장 좋은 평가를 받은 필스너가 안치라베에 세울 Star 양조장의 레시피로 선택되었다. 회사는 1958년 THB 생산을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "가장 오래되고 대중적인 제품은 THB Pilsener이다. 도수 5.4%의 옅은 색 페일 라거로, 몸통감은 중간이고 거품은 얇으며 쓴맛은 은은하고 균형 잡혀 있다. 주로 현지산 보리, 옥수수, 홉으로 만든다. 병은 33cl와 65cl 회수형 갈색 병이 있고, 33cl와 50cl 알루미늄 캔으로도 팔리며 2006년부터 생맥주로도 공급된다. Star Breweries는 알코올 1% 미만의 샌디 THB Fresh, 6.2%의 THB Special, 1%의 THB Lite도 만든다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "THB는 중부의 안치라베와 북부 도시 안치라나나의 두 양조장에서 생산된다. 2011년 Groupe Fraise가 Star Breweries를 프랑스 양조회사 Castel에 매각했다. 2011년 이후 Star Brewery 인프라에 대한 투자로 생산량이 20% 늘었다. 2014년 라벨을 크게 바꾸었고 2015년에는 새 슬로건 \"THB eo foana e!\"를 내세웠다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "마다가스카르 시장에서 가장 많이 팔리는 현지 맥주로, 나라를 대표하는 상징이자 Soa Ny Fiarahantsika라는 상표 문구와 함께 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.star-thb.com/",
+  "entityLinks": {
+   "wikidata": "Q942393",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q942393",
+    "https://en.wikipedia.org/wiki/Three_Horses_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q942393",
+   "country": null,
+   "inception": "1956",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Three Horses Beer」 본문과 위키데이터 Q942393 팩트를 근거로 편집"
+ }
+}

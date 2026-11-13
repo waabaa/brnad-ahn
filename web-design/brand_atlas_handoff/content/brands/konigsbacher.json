@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1777966",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "konigsbacher",
+  "urlSlug": "konigsbacher",
+  "name": "Königsbacher",
+  "nameKo": "",
+  "nameEn": "Königsbacher",
+  "definition": "Königsbacher는 독일 코블렌츠에서 1689년 창립한 양조장의 맥주 브랜드이다. 2012년 양조장이 재편되면서 브랜드가 폐지되고 Koblenzer라는 새 브랜드로 맥주를 판매했다.",
+  "summary": "Königsbacher는 독일 코블렌츠에서 1689년 창립한 양조장의 맥주 브랜드이다. 2012년 양조장이 재편되면서 브랜드가 폐지되고 Koblenzer라는 새 브랜드로 맥주를 판매했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Königsbacher는 코블렌츠 인근 하천 Königsbach에서 이름을 따온 1689년 창립 양조장의 맥주 브랜드로, 2012년 Koblenzer로 대체되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Königsbacher는 독일 라인란트팔츠주 코블렌츠에 있던 양조장 Koblenzer Brauerei의 이전 이름이자 맥주 브랜드이다. 양조장은 1689년 창립 이후 코블렌츠 역사 중심지의 옛 양조장(Altes Brauhaus)에서 맥주를 만드는 전통을 이어 왔다. 이름은 코블렌츠 인근의 작은 하천 Königsbach(왕의 시내)에서 유래했으며, 이 하천의 맑은 물이 맥주 양조에 적합했다. Karlsberg Group이 1992년 양조장을 인수했고, 브랜드는 2010년 초 Bitburger 양조장에 매각되었다. 2012년 양조장이 매각되어 재설립되면서 Königsbacher 브랜드는 폐지되었고 맥주는 새 브랜드 Koblenzer로 판매했다. 양조장은 2023년 11월 다시 파산 절차에 들어갔고 2024년 1월 31일 폐쇄되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1689년 코블렌츠에서 시작되었고, 역사 중심지의 옛 양조장(Altes Brauhaus)에서 맥주를 만들어 왔다. Königsbacher라는 이름은 코블렌츠 인근 하천 Königsbach에서 유래했으며, 이 하천의 맑은 물이 맥주 양조에 적합했다. 당시 회사명은 Königsbacher Brauerei GmbH & Co KG였다. 1992년 Karlsberg Group이 이 양조장을 인수했다. 2010년 초에는 양조장 건물을 제외한 브랜드만 Bitburger 양조장에 매각되었고, 2012년 양조장이 매각되어 재설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로 Königsbacher Pilsener(필스너 맥주), Königsbacher Export, Königsbacher 1689가 있었다. 라인강 지류 Nette의 이름을 딴 Nette Edel Pils와 Zischke Kellerbier도 제품에 포함되었다. 그 밖에 Königsbacher Radler, Königsbacher Mai-Bock, Königsbacher Fest-Bock 제품이 있었다. 후원 대상에는 코블렌츠의 축구 클럽 TuS Koblenz 등 여러 스포츠클럽이 포함되었다. 양조장은 이들 클럽의 큰 후원자였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "양조장은 2023년 11월 다시 파산 절차에 들어갔으나 새 투자자를 찾지 못해 2024년 1월 31일 최종 폐쇄되었다. 2012년 재설립 이후 맥주는 Koblenzer 브랜드로 판매되었고 회사 이름도 Koblenzer Brauerei로 바뀌었다. Königsbacher 브랜드는 2012년에 폐지되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Königsbacher는 코블렌츠 인근 하천 Königsbach에서 이름을 따온 1689년 창립 양조장의 맥주 브랜드로, 2012년 Koblenzer로 대체되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.koblenzer-brauerei.de",
+  "entityLinks": {
+   "wikidata": "Q1777966",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1777966",
+    "https://en.wikipedia.org/wiki/Koblenzer_Brauerei"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1777966",
+   "country": "독일",
+   "inception": "2012",
+   "headquarters": "코블렌츠",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Koblenzer Brauerei」 본문과 위키데이터 Q1777966 팩트를 근거로 편집"
+ }
+}

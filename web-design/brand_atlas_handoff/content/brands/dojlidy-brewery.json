@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q5288708",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "dojlidy-brewery",
+  "urlSlug": "dojlidy-brewery",
+  "name": "Dojlidy Brewery",
+  "nameKo": "",
+  "nameEn": "Dojlidy Brewery",
+  "definition": "Dojlidy Brewery는 폴란드 비아위스토크에 있는 양조장이다. Asahi Breweries의 폴란드 자회사 Kompania Piwowarska SA가 소유하며, 주력 제품은 Żubr이다.",
+  "summary": "Dojlidy Brewery는 폴란드 비아위스토크에 있는 양조장이다. Asahi Breweries의 폴란드 자회사 Kompania Piwowarska SA가 소유하며, 주력 제품은 Żubr이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1768년에 첫 맥주 공장이 세워진 비아위스토크의 양조장이며, Kompania Piwowarska SA 산하에서 Żubr을 주력으로 생산한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Dojlidy Brewery는 폴란드 비아위스토크에 위치한 양조장으로, 1768년에 처음 맥주 공장이 세워진 곳이다. Asahi Breweries의 폴란드 자회사인 Kompania Piwowarska SA가 이 양조장을 소유하고 있다. Kompania Piwowarska SA에 인수되기 전에는 여러 상표의 맥주를 생산했으나, 인수 이후 주력 제품은 Żubr이다. Żubr은 폴란드에서 가장 인기 있는 맥주 가운데 하나이며 유럽 전역에서도 판매되고 있다. 양조장은 1997년부터 1999년까지 현대화되었고, 2003년에 Kompania Piwowarska SA가 인수했다. Żubr은 폴란드 맥주로서는 이례적으로 현재 도수가 6.0%이며, 양조장은 현재 Dojlidy 외의 맥주는 생산하지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "첫 맥주 공장은 1768년 Dojlido 가문이 Dojlidy에 세웠으나, 1771년 Białostock의 양조장 전체를 Izabella Poniatowska가 상속하면서 생산이 멈췄다. 1891년에는 Rüdigerów 백작 가문이 소유한 부지에 신고전주의 양식 저택과 증기 양조장이 들어섰다. 1920년 Lubomirski 가문이 인수해 대대적으로 현대화했고, 1944년 독일군이 비아위스토크에서 철수하는 동안 양조장은 파괴되었다. 양조장은 1948년부터 1954년까지 Białostockie Zakłady Piwowarsko-Słodownicze로 재건되었고, 1969년 Łomża와 Suwałki의 양조장과 함께 Zakłady Piwowarskie로 전환되었다. 1996년 12월 독일 Binding Brauerei가 다수 지분을 가졌고, 1997년 3월 회사명이 Dojlidy Sp. z o. o.로 바뀌었으며, 2003년 2월 4일 Kompania Piwowarska SA가 다수 지분을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인수 이후 이 양조장의 주력 제품은 Żubr이다. Żubr은 폴란드에서 가장 인기 있는 맥주 가운데 하나이며 유럽 전역에서 판매된다. Żubr의 도수는 폴란드 맥주로서는 이례적으로 현재 6.0%이다. Kompania Piwowarska SA에 인수되기 전에는 여러 상표의 맥주를 생산했다. 양조장의 상표로는 Dojlidy Classic, Dojlidy Herbowe, Dojlidy Jakt, Dojlidy Karmel, Dojlidy Magnat, Dojlidy Mocne, Dojlidy Porter, Dojlidy Złote, Dojlidy Pils, Dojlidy Żubr가 기록되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Kompania Piwowarska SA가 이 양조장을 소유하며, 이 회사는 Asahi Breweries의 폴란드 자회사이다. 양조장은 비아위스토크에 있고 주력 제품은 Żubr이다. 양조장은 1997년부터 1999년까지 현대화되었고 2003년에 Kompania Piwowarska SA에 인수되었다. 현재 이 양조장은 Dojlidy 외의 맥주는 생산하지 않는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1768년에 첫 맥주 공장이 세워진 비아위스토크의 양조장이며, Kompania Piwowarska SA 산하에서 Żubr을 주력으로 생산한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kp.pl/",
+  "entityLinks": {
+   "wikidata": "Q5288708",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5288708",
+    "https://en.wikipedia.org/wiki/Dojlidy_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5288708",
+   "country": "폴란드",
+   "inception": "1768",
+   "headquarters": "비아위스토크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Dojlidy Brewery」 본문과 위키데이터 Q5288708 팩트를 근거로 편집"
+ }
+}

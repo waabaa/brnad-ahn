@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2791168",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bosteels-brewery",
+  "urlSlug": "bosteels-brewery",
+  "name": "Bosteels brewery",
+  "nameKo": "",
+  "nameEn": "Bosteels brewery",
+  "definition": "Bosteels brewery는 벨기에 Buggenhout에 있는 양조장이다. 1791년에 설립되었으며 같은 가문이 소유하고 운영했다. Tripel Karmeliet, DeuS, Pauwel Kwak 등을 양조한다.",
+  "summary": "Bosteels brewery는 벨기에 Buggenhout에 있는 양조장이다. 1791년에 설립되었으며 같은 가문이 소유하고 운영했다. Tripel Karmeliet, DeuS, Pauwel Kwak 등을 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "세 가지 곡물로 빚는 Tripel Karmeliet, 샴페인 방식으로 재발효하는 DeuS, 전용 잔을 쓰는 Pauwel Kwak으로 구분되는 1791년 설립의 벨기에 가족 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Bosteels brewery는 벨기에 Buggenhout에 본사를 둔 양조장이다. 1791년에 설립되었으며 같은 가문이 소유하고 운영했다. 이 양조장은 Tripel Karmeliet, DeuS, Pauwel Kwak 세 가지 맥주를 양조하며, 이들이 대표 제품이다. 2019년에는 17년 만에 처음으로 새 맥주 Monte Cristo가 추가되어 제품 구성이 넓어졌다. Tripel Karmeliet은 도수 8.4%의 황금빛 벨기에 맥주이며 World Beer Cup에서 수상한 이력이 있다. Pauwel Kwak은 고유한 형태의 전용 잔을 나무 받침대에 세워 내는 것으로 알려져 있으며, DeuS는 샴페인 지방에서 재발효를 거치는 맥주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Bosteels brewery는 1791년에 설립되었다. 설립 이후 같은 가문이 소유하고 운영한 양조장이다. 대표 맥주 Tripel Karmeliet은 1996년에 처음 양조되었으며, Dendermonde의 옛 Carmelite 수도원에서 유래한 1679년 레시피를 따른다. Pauwel Kwak은 1980년대부터 양조되었고, 18세기 여관 주인이자 양조업자였던 Pauwel Kwak의 이름을 딴 것으로 전해진다. 2008년 World Beer Awards에서 Best Pale Ale을 수상한 뒤 수요가 늘어 2009년에는 양조 용기를 추가해 생산량을 30% 늘렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Tripel Karmeliet은 밀, 귀리, 보리 세 가지 곡물을 사용하는 도수 8.4%의 황금빛 맥주로, 효모에서 바나나와 바닐라 향이 나며 병 속에서 숙성되는 무여과 방식으로 병입한다. DeuS는 Brut des Flandres로도 불리는 도수 11.5%의 Bière de Champagne이며 75cl 병으로 판매된다. 한 달간 두 가지 효모로 발효한 뒤 프랑스 Épernay 근처에서 재발효하고 지하 저장고에서 9개월 보관하는데, 이 방식은 Méthode Champenoise 또는 Méthode Traditionnelle로도 불린다. Pauwel Kwak은 도수 8.4%의 벨기에 에일로, 병과 케그로 포장하기 전에 여과한다. 2019년에는 Monte Cristo가 새로 추가되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 Tripel Karmeliet, DeuS, Pauwel Kwak 세 가지 맥주에 2019년에 추가한 Monte Cristo를 더해 맥주를 선보이고 있다. 새 맥주 추가는 17년 만에 처음이었다. Tripel Karmeliet은 2008년 수상 이후 판매가 예상보다 크게 늘어, 2009년 양조 용기를 추가하고 생산량을 30% 늘렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세 가지 곡물로 빚는 Tripel Karmeliet, 샴페인 방식으로 재발효하는 DeuS, 전용 잔을 쓰는 Pauwel Kwak으로 구분되는 1791년 설립의 벨기에 가족 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bestbelgianspecialbeers.be",
+  "entityLinks": {
+   "wikidata": "Q2791168",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2791168",
+    "https://en.wikipedia.org/wiki/Bosteels_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2791168",
+   "country": "벨기에",
+   "inception": "1791",
+   "headquarters": "Buggenhout",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Bosteels Brewery」 본문과 위키데이터 Q2791168 팩트를 근거로 편집"
+ }
+}

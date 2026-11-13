@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q269792",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ferrero-spa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ferrero-spa",
+  "urlSlug": "ferrero-spa",
+  "name": "페레로",
+  "nameKo": "페레로",
+  "nameEn": "Ferrero SpA",
+  "definition": "페레로(Ferrero SpA)는 이탈리아 피에몬테의 알바에 본사를 둔 다국적 기업이다. 브랜드 초콜릿과 제과 제품을 제조하며 페레로 가문이 소유한 비상장 기업이다.",
+  "summary": "페레로(Ferrero SpA)는 이탈리아 피에몬테의 알바에 본사를 둔 다국적 기업이다. 브랜드 초콜릿과 제과 제품을 제조하며 페레로 가문이 소유한 비상장 기업이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.233333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "가문이 소유한 비상장 기업으로 강한 비밀주의를 유지하며, Nutella를 앞세워 세계 2위 규모의 초콜릿 기업이 된 이탈리아 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페레로는 브랜드 초콜릿과 제과 제품을 제조하는 이탈리아 다국적 기업이다. 본사는 피에몬테의 알바에 있으며 페레로 가문이 소유한 비상장 기업이다. 2024년 4월 Fortune은 페레로가 미국 기업 Mars Inc.에 이어 세계 2위 초콜릿 기업이라고 보도했다. 이 회사는 세계에서 가장 비밀스러운 기업 중 하나로 묘사되었으며, 산업 스파이를 막기 위해 한 번도 기자회견을 연 적이 없고 언론의 공장 방문도 허용하지 않는다고 알려져 있다. 제품은 사내 엔지니어링 부서가 설계한 기계로 만든다. 2014년에는 전 세계 헤이즐넛 생산량의 25%를 사들여 세계 최대 헤이즐넛 소비자였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "페레로는 1946년 알바에서 제과업자이자 소규모 페이스트리 제조업자였던 Pietro Ferrero가 설립했다. 그는 투린의 전통 제품인 잔두야에서 파생된 스프레드로, 비싼 코코아 사용량을 줄이기 위해 견과를 쓴 헤이즐넛과 코코아 크림을 만들어 Pasta Gianduja라고 불렀다. 이 제품은 알루미늄 포일에 싼 고체 덩어리였으나 이후 바르는 형태의 Supercrema로 대체되었다. 그는 형제 Giovanni Ferrero Sr.의 도움을 받아 회사를 세웠고, 아들 Michele Ferrero가 최고경영자를 이어받았다. Michele Ferrero와 아내 Maria Franca는 이 레시피를 Nutella로 다시 선보여 1964년 처음 판매했고, 해외에 생산 거점과 사무소를 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 헤이즐넛과 코코아로 만든 스프레드 Nutella이며, 1964년 처음 판매되었다. Nutella는 결국 세계 선두의 초콜릿 견과 스프레드 브랜드가 되었다. 초기 제품으로는 Pasta Gianduja와 Supercrema가 있었다. 2026년 3월 발표된 개편안에 따르면 Ferrero Core라는 새 사업 단위가 Confectionery, Biscuits and Bakery, Better-For-You 사업을 포함한다. 이와 별도로 Ferrero Ice Cream과 WK Kellogg Co가 사업 구성에 언급된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "페레로는 2015년부터 Giovanni Ferrero가 회장 겸 최대 주주를 맡고 있다. 2017년 9월 Lapo Civiletti가 가문 밖에서 나온 최초의 CEO가 되었고, Giovanni Ferrero는 장기 전략에 집중하는 회장이 되었다. 2026년 3월 회사는 달콤한 포장식품 사업을 지원하기 위한 구조 개편을 발표했으며 2026년 9월 1일 시행으로 알렸다. 2026년 4월에는 유럽위원회가 시장 분할 혐의와 관련해 예고 없는 반독점 현장 조사를 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "가문이 소유한 비상장 기업으로 강한 비밀주의를 유지하며, Nutella를 앞세워 세계 2위 규모의 초콜릿 기업이 된 이탈리아 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ferrero.com/",
+  "entityLinks": {
+   "wikidata": "Q269792",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q269792",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A0%88%EB%A1%9C_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Ferrero_SpA"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q269792",
+   "country": "이탈리아",
+   "inception": "1946",
+   "headquarters": "알바",
+   "founders": [
+    "Pietro Ferrero"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Ferrero SpA」 본문과 위키데이터 Q269792 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

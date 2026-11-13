@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q5360181",
+ "demand": {
+  "why": "국내",
+  "naver": 0.035,
+  "koViews": 753,
+  "enViews": 22338,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/p-f-changs-china-bistro-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "p-f-changs-china-bistro",
+  "urlSlug": "p-f-changs-china-bistro",
+  "name": "피에프창",
+  "nameKo": "피에프창",
+  "nameEn": "P. F. Chang's China Bistro",
+  "definition": "피에프창(P. F. Chang's China Bistro)은 미국 애리조나주 스코츠데일에 본사를 둔 중국 요리 연쇄점이다. 1993년 Paul Fleming과 Philip Chiang이 설립했다.",
+  "summary": "피에프창(P. F. Chang's China Bistro)은 미국 애리조나주 스코츠데일에 본사를 둔 중국 요리 연쇄점이다. 1993년 Paul Fleming과 Philip Chiang이 설립했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "Paul Fleming과 Philip Chiang이 1993년 스코츠데일에서 시작한 미국의 중국 요리 체인으로, 아시아 음식점 Pei Wei Asian Diner의 모회사라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "피에프창은 미국의 중국 요리 연쇄점으로 애리조나주 스코츠데일에 본사를 두고 있다. 상호는 Paul Fleming의 머리글자 P.F.와 Philip Chiang의 성을 따서 붙여졌다. 아시아 음식점인 Pei Wei Asian Diner의 모회사이다. 200개가 넘는 매장이 있으며 캐나다, 푸에르토리코, 멕시코, 브라질, 튀르키예, 필리핀, 사우디아라비아, 아랍에미리트 등에 지점이 설치되어 있다. 대한민국에는 2014년 롯데월드몰에 처음 진출해 문을 열었다. 2019년 1월에는 TriArtisan Capital Partners 및 Paulson & Co.에 매각하기 위한 협상 중이라고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1993년 Paul Fleming과 레스토랑 경영자 Cecilia Chiang의 아들인 Philip Chiang이 체인을 설립했다. 첫 번째 레스토랑은 애리조나주 스코츠데일의 Scottsdale Fashion Square에 문을 열었다. 1993년 P.F. Chang's China Bistro, Inc.는 원래 4개의 비스트로 레스토랑을 인수하며 설립되었다. 2010년에는 Unilever의 라이선스 하에 판매된 냉동 전채 요리 및 식사 그룹을 대표하는 '피에프창 홈메뉴'가 슈퍼마켓에 출시되었다. 2012년에는 민간 투자 회사 Centerbridge Partners의 11억 달러 가치 거래 제안을 수락했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 중국 요리를 제공하는 레스토랑 체인 운영이다. 200개가 넘는 매장은 캐나다, 멕시코, 브라질, 튀르키예, 필리핀 등 여러 나라에 지점으로 설치되어 있다. 2010년에는 '피에프창 홈메뉴'가 슈퍼마켓에 출시되었고, 이 브랜드는 Unilever의 라이선스 하에 판매된 냉동 전채 요리 및 식사 그룹을 대표했다. 2012년 8월에는 Unilever에서 피에프창의 홈 메뉴 라이선스가 취득되었다. 아시아 음식점인 Pei Wei Asian Diner는 피에프창이 모회사로 있는 계열 음식점이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 피에프창은 캐나다 사업부에 대해 파산을 신청했다. 2017년 12월에는 2018년 상반기에 상하이에서 중국 첫 매장을 열겠다고 발표했다. 2019년 1월에는 TriArtisan Capital Partners와 Paulson & Co.에 약 7억 달러에 매각하기 위한 협상 중이라고 발표했으며, 이전 소유주는 Centerbridge Partners이다. 급여 보호 프로그램(코로나바이러스 구제)의 일환으로 중소기업 대출 500만 달러 이상을 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Paul Fleming과 Philip Chiang이 1993년 스코츠데일에서 시작한 미국의 중국 요리 체인으로, 아시아 음식점 Pei Wei Asian Diner의 모회사라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pfchangs.com/",
+  "entityLinks": {
+   "wikidata": "Q5360181",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5360181",
+    "https://ko.wikipedia.org/wiki/%ED%94%BC%EC%97%90%ED%94%84%EC%B0%BD",
+    "https://en.wikipedia.org/wiki/P._F._Chang%27s"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5360181",
+   "country": "미국",
+   "inception": "1993",
+   "headquarters": null,
+   "founders": [
+    "Paul Fleming"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「피에프창」 요약과 위키데이터 Q5360181 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5677759",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "harveys-brewery",
+  "urlSlug": "harveys-brewery",
+  "name": "Harvey's Brewery",
+  "nameKo": "",
+  "nameEn": "Harvey's Brewery",
+  "definition": "Harvey's Brewery는 잉글랜드 이스트 서식스의 루이스에 있는 양조장이다. 주력 제품인 Sussex Best Bitter를 만들며 독립 가족 회사 형태로 운영된다.",
+  "summary": "Harvey's Brewery는 잉글랜드 이스트 서식스의 루이스에 있는 양조장이다. 주력 제품인 Sussex Best Bitter를 만들며 독립 가족 회사 형태로 운영된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Sussex Best Bitter를 주력으로 하며 일곱 세대째 가족이 이사진에 참여하는 독립 양조장으로, 루이스 우즈강변의 빅토리아 시대 양조 건물에 자리한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Harvey's Brewery는 잉글랜드 이스트 서식스 루이스에 본사를 둔 양조장이다. 캐스크 컨디셔닝, 케그, 캔, 병 형태의 에일을 생산한다. 주력 제품 Sussex Best Bitter는 잉글랜드 남동부의 다른 펍, 주류 판매점, 사교 클럽에 판매·유통된다. 소유한 계약 펍(tied house)은 45곳이며 대부분 서식스에 있고 세 곳은 런던에 있다. 회사는 Harvey & Son (Lewes) Ltd.라는 독립 가족 회사이며, 일곱 번째 세대의 후손이 이사진에 포함되어 있다. 2016년 8월에는 회사 전체에 새 브랜딩을 도입했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Harvey's Brewery는 1790년에 설립되었다. John Harvey가 우즈강변 Cliffe Bridge가 내려다보이는 현재 부지에 Bridge Wharf Brewery를 세웠다. 1880년에는 조지아 양식 양조장의 일부가 재건되어 타워와 양조동이 빅토리아 시대 네오고딕 양식의 파사드를 갖추었으며, 이 건물은 Grade II* 등재 건축물이다. 1957년에는 지금의 효모 균주를 Tadcaster Brewery에서 들여왔다. 1984년에는 두 번째 양조 라인이 완공되어 연간 생산 능력이 25,000배럴에서 50,000배럴로 두 배가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에일을 캐스크 컨디셔닝, 케그, 캔, 병 형태로 생산한다. 캐스크와 병 에일은 연중 항상 구할 수 있는 라인업과 계절 한정 에일로 나뉜다. 대표 제품은 Sussex Best Bitter이다. 케그 맥주는 오랜 기간 라인업에서 빠져 있다가 2016년에 한정 라인업으로 다시 도입되었다. 같은 해 Sussex Best Bitter를 포함한 캔 맥주 라인업으로 처음 캔 맥주 시장에 진입했다. 2005년과 2006년에 Sussex Best Bitter는 CAMRA Great British Beer Festival의 Best Bitter 부문에서 수상했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 회사는 독립 가족 회사 Harvey & Son (Lewes) Ltd.가 운영하며, John Harvey의 7세대 후손이 이사진에 포함되어 있다. 2016년 8월 CAMRA Great British Beer Festival에서 회사 전체의 새 브랜딩을 공개하며 모든 표기에 아포스트로피를 넣도록 했다. 이때 ‘We wunt be druv’라는 슬로건도 도입했는데, ‘우리는 떠밀리지 않는다’는 뜻이다. 소유 펍은 45곳이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Sussex Best Bitter를 주력으로 하며 일곱 세대째 가족이 이사진에 참여하는 독립 양조장으로, 루이스 우즈강변의 빅토리아 시대 양조 건물에 자리한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.harveys.org.uk/",
+  "entityLinks": {
+   "wikidata": "Q5677759",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5677759",
+    "https://en.wikipedia.org/wiki/Harvey%27s_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5677759",
+   "country": "영국",
+   "inception": "1790",
+   "headquarters": "루이스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Harvey's Brewery」 본문과 위키데이터 Q5677759 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q5315461",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/dunlop-sport-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dunlop-sport",
+  "urlSlug": "dunlop-sport",
+  "name": "던롭 스포츠",
+  "nameKo": "던롭 스포츠",
+  "nameEn": "Dunlop Sport",
+  "definition": "던롭 스포츠(Dunlop Sport)는 테니스, 스쿼시, 골프, 배드민턴, 의류, 여행, 자전거 용품 등을 생산하는 영국의 스포츠 용품 전문 브랜드이다.",
+  "summary": "던롭 스포츠(Dunlop Sport)는 테니스, 스쿼시, 골프, 배드민턴, 의류, 여행, 자전거 용품 등을 생산하는 영국의 스포츠 용품 전문 브랜드이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "영국에서 출발해 Slazenger와의 합병과 여러 차례의 소유주 변경을 거쳐 현재 일본 Sumitomo Rubber Industries 산하에 있는 스포츠 용품 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "던롭 스포츠는 테니스, 스쿼시, 골프, 배드민턴, 의류, 여행, 자전거 용품 등을 생산하는 스포츠 용품 전문 브랜드이다. 영국에서 1957년 설립되었고 본사는 셔브룩에 있다. 1959년 던롭은 Slazenger를 인수하여 사명을 Dunlop Slazenger로 변경했고, 1985년 BTR plc사가 Dunlop Holdings를 인수하면서 던롭 스포츠는 Slazenger와 합병되었다. BTR은 1996년 해당 부문을 매각했고, 2004년 Sports Direct International이 Dunlop Slazenger를 Cinven사로부터 인수했다. 2017년에는 던롭 관련 브랜드를 인수한 일본 기업 Sumitomo Rubber Industries가 던롭 스포츠를 인수했다. 현재는 그 자회사인 SRI 스포츠가 직접 경영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "던롭 스포츠는 1957년 영국에서 설립된 스포츠 용품 브랜드이다. 1959년 던롭은 Slazenger를 인수하여 Dunlop Slazenger로 사명을 변경한 바 있다. 1985년 BTR plc사가 Dunlop Holdings를 인수하면서 던롭 스포츠는 Slazenger와 합병되었고, BTR은 1996년 해당 부문을 매각했다. 이후 2004년 영국계 회사인 Sports Direct International이 Dunlop Slazenger를 Cinven사로부터 4천만 파운드에 인수하여 대주주가 되었다. 던롭은 예전에 골프 장비를 직접 제조한 바 있었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "던롭 스포츠의 생산 품목은 테니스, 스쿼시, 골프, 배드민턴, 의류, 여행, 자전거 용품 등이다. 이 가운데 골프 장비는 던롭이 예전에 직접 제조한 바 있다. 1985년 합병된 Slazenger와 함께 스포츠 용품 사업을 이루었으며, 2017년 이후에는 SRI 스포츠가 이를 직접 경영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 던롭 관련 브랜드를 인수한 일본 기업 Sumitomo Rubber Industries가 1,370만 달러로 던롭 스포츠를 인수했다. 현재 모기업은 Sumitomo Rubber Industries이며, 그 자회사인 SRI 스포츠가 던롭 스포츠를 직접 경영한다. 이에 앞서 대주주였던 Sports Direct International은 2004년 Dunlop Slazenger를 인수한 영국계 회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국에서 출발해 Slazenger와의 합병과 여러 차례의 소유주 변경을 거쳐 현재 일본 Sumitomo Rubber Industries 산하에 있는 스포츠 용품 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://dunlopsports.com/",
+  "entityLinks": {
+   "wikidata": "Q5315461",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5315461",
+    "https://ko.wikipedia.org/wiki/%EB%8D%98%EB%A1%AD_%EC%8A%A4%ED%8F%AC%EC%B8%A0",
+    "https://en.wikipedia.org/wiki/Dunlop_Sport"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5315461",
+   "country": "영국",
+   "inception": "1957",
+   "headquarters": "셔브룩",
+   "founders": [],
+   "parent": "Sumitomo Rubber Industries",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「던롭 스포츠」 요약과 위키데이터 Q5315461 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

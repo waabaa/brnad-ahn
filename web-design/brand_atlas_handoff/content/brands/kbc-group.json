@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q29560723",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kbc-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kbc-group",
+  "urlSlug": "kbc-group",
+  "name": "KBC 그룹",
+  "nameKo": "KBC 그룹",
+  "nameEn": "KBC Group",
+  "definition": "KBC 그룹(KBC Group)은 벨기에 브뤼셀에 본사를 둔 은행·보험 통합 금융그룹이다. 벨기에와 불가리아, 체코, 헝가리, 슬로바키아에서 개인 고객과 중소기업을 주요 대상으로 영업한다.",
+  "summary": "KBC 그룹(KBC Group)은 벨기에 브뤼셀에 본사를 둔 은행·보험 통합 금융그룹이다. 벨기에와 불가리아, 체코, 헝가리, 슬로바키아에서 개인 고객과 중소기업을 주요 대상으로 영업한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "방카슈랑스 모델을 바탕으로 벨기에와 중·동부 유럽의 개인 고객과 중소기업에 집중하며, 농민 협동조합 금융에서 이어진 뿌리를 가진 금융그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "KBC 그룹은 은행과 보험을 함께 제공하는 벨기에의 다채널 종합 금융회사이다. 개인 고객과 중소기업을 중심으로 벨기에, 불가리아, 체코, 헝가리, 슬로바키아에서 사업을 하며, 본사는 브뤼셀에 있다. 벨기에의 주요 기업 중 하나이며, 벨기에 안에서 두 번째로 큰 방카슈랑스 그룹으로 평가된다. 2020년 말 기준으로 시가총액 기준 유럽에서 15번째로 큰 은행이었고, 중·동부 유럽의 주요 금융 사업자이기도 하다. 같은 시기 직원은 약 41,000명이며 절반 이상이 중·동부 유럽에서 일하고, 전 세계 고객은 12 million명이다. Forbes Global 2000 기업 명단에 이름을 올린 기업이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "KBC 그룹은 1998년 Kredietbank(KB), 협동조합 은행 CERA Bank, ABB Insurance, Fidelitas Insurance가 합병하면서 만들어졌다. 뿌리는 1889년 7월 17일 가톨릭계 인사들이 루뱅 일대의 사업 자금을 대기 위해 세운 협동조합 은행 Volksbank van Leuven에 닿아 있다. 1890년대 초에는 Boerenbond 농민 운동이 농촌 협동 금융망을 키웠고, 1895년 이를 돕는 중앙 기구로 Middenkredietkas를 설립했다. 1921년 안트베르펜에서 설립된 Algemeene Bankvereeniging는 1928년 Volksbank van Leuven과 합병했고, 1931년에는 지주회사 Almanij가 만들어졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "KBC 그룹은 핵심 주주 집단의 통제를 받으며 유통 주식 비율은 약 60%이다. 핵심 주주로는 CERA가 통제하는 상장사 KBC Ancora가 19%, 농민 단체 Boerenbond의 수단인 MRBB가 12%, 산업가 가문 집단이 8%, CERA가 직접 3%를 보유한다. 주식은 브뤼셀의 Euronext 거래소에서 거래된다. 2014년 말 유럽 은행 감독 체제가 시행된 이후 Significant Institution으로 지정되어 유럽중앙은행의 직접 감독을 받는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "방카슈랑스 모델을 바탕으로 벨기에와 중·동부 유럽의 개인 고객과 중소기업에 집중하며, 농민 협동조합 금융에서 이어진 뿌리를 가진 금융그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kbc.com/",
+  "entityLinks": {
+   "wikidata": "Q29560723",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29560723",
+    "https://ko.wikipedia.org/wiki/KBC_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/KBC_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q29560723",
+   "country": "벨기에",
+   "inception": "1998",
+   "headquarters": "브뤼셀",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「KBC Group」 본문과 위키데이터 Q29560723 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -12,7 +12,7 @@ import { collectionsOf, COLLECTION_BY_SLUG } from "./collections.mjs";
 
 const COUNTRY_SLUG_REF = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
 
-const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", data: "수록 자료" };
+const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", data: "수록 자료", archive: "인터넷 아카이브", sec: "SEC EDGAR 공시" };
 
 /**
  * @param brand
@@ -135,6 +135,8 @@ function sourcesSection(brand, label) {
   const basis = [];
   basis.push("브랜드명은 한글과 원어를 함께 표기하되 데이터에 없는 표기는 만들지 않습니다.");
   basis.push("기원 국가·설립연도는 검수된 정의문에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 일치하는 위키데이터 개체의 값을 씁니다.");
+  if (brand.webArchive) basis.push(`웹 첫 보관은 인터넷 아카이브가 공식 사이트 첫 화면을 처음 보관한 날로, 사이트 개설일과 다를 수 있습니다.`);
+  if (brand.secFacts?.revenue) basis.push(`연 매출은 미국 증권거래위원회(SEC)에 제출된 연차 보고서(${esc(brand.secFacts.revenue.form)})의 XBRL 값이며 달러 금액을 반올림했습니다.`);
   if (brand.wikidata) basis.push(`위키데이터 값은 ${esc(brand.wikidata.fetchedAt || "")} 기준입니다.`);
   return `<section id="sources"><h2>출처와 검증</h2><p class="sources">${items.length ? `${esc(label)} 관련 참고: ${items.join(" · ")}. ` : ""}${basis.join(" ")}</p></section>`;
 }

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q62341",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vacheron-constantin-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vacheron-constantin",
+  "urlSlug": "vacheron-constantin",
+  "name": "바쉐론 콘스탄틴",
+  "nameKo": "바쉐론 콘스탄틴",
+  "nameEn": "Vacheron Constantin",
+  "definition": "바쉐론 콘스탄틴(Vacheron Constantin)은 1755년 스위스에서 설립된 고급 시계 제조사이다. 리슈몽 그룹 소속이며, 설립 이후 한 번도 끊김 없이 이어져 온 시계 브랜드로 알려져 있다.",
+  "summary": "바쉐론 콘스탄틴(Vacheron Constantin)은 1755년 스위스에서 설립된 고급 시계 제조사이다. 리슈몽 그룹 소속이며, 설립 이후 한 번도 끊김 없이 이어져 온 시계 브랜드로 알려져 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1755년 설립 이후 끊김 없이 이어져 왔다고 알려진 스위스 시계 브랜드이다. 모든 제작 과정을 장인의 수작업으로 진행해 소량 생산하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "바쉐론 콘스탄틴은 1755년 시계공 Jean-Marc Vacheron이 설립한 스위스의 고급 시계 제조사이다. 부품까지 수공으로 처리하는 독창적인 공정으로 알려져 있다. 모든 제작 과정을 숙련된 장인의 수작업으로 진행하기 때문에 1년에 약 2만 개 정도만 소량 생산한다. 1839년 팬토그라프 도입과 1880년 몰타 십자가 로고 채택은 브랜드 역사의 주요 대목이다. 20세기에는 왕가와 귀족, 시계 수집가의 주문으로 특별 제작한 시계를 선보이며 고객을 확보했다. 현재는 스위스 고급 워치메이커를 소유한 리슈몽 그룹에 속해 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1755년 시계공 Jean-Marc Vacheron이 스위스 제네바 중심에 작업장을 세우고, 같은 해 시계 제조 노하우를 전수하기 위한 공식 견습생을 고용한 것이 시작이다. 1819년 설립자의 손자 Jacques-Barthélémy Vacheron이 사업가 François Constantin을 영입했다. François Constantin은 수십 년간 유럽 전역을 여행하며 새로운 시장을 개척했고, 이 긴 여정 끝에 브랜드는 바쉐론 콘스탄틴이라는 이름으로 정착했다. 1890년대에는 스위스 박람회와 밀라노 박람회 등 국제 박람회에서 연달아 대상을 수상하고 많은 특허를 획득했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "정밀한 그랜드 컴플리케이션 워치 제작 기술로 알려져 있으며, 1920년대에는 왕가와 귀족, 시계 수집가의 주문으로 특별하게 제작한 시계를 선보였다. 매뉴팩처의 제품 제작은 조정, 케이싱 작업, 컴플리케이션, 크로노그래프-투르비용, 그랜드 컴플리케이션, 메티에 다르, 캐비노티에, 검사 및 인증을 담당하는 각각의 공방에서 이루어진다. 매뉴팩처에는 관리, 디자인, 연구개발, 헤리티지, 고객 서비스, 복원 및 교육 부서도 있다. 1880년 로고로 도입한 몰타 십자가는 배럴에 부착된 시계 부품에서 이름을 따 왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "바쉐론 콘스탄틴은 스위스 고급 워치메이커를 전문으로 소유한 리슈몽 그룹 소속이다. 2004년 제네바 근처로 매뉴팩처를 이전했으며, 이 건물은 프랑스계 스위스인 건축가 Bernard Tschumi가 설계했다. 모든 제작 과정을 장인의 수작업으로 진행하며 1년에 약 2만 개 정도를 소량 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1755년 설립 이후 끊김 없이 이어져 왔다고 알려진 스위스 시계 브랜드이다. 모든 제작 과정을 장인의 수작업으로 진행해 소량 생산하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vacheron-constantin.com/",
+  "entityLinks": {
+   "wikidata": "Q62341",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q62341",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%89%90%EB%A1%A0_%EC%BD%98%EC%8A%A4%ED%83%84%ED%8B%B4",
+    "https://en.wikipedia.org/wiki/Vacheron_Constantin"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q62341",
+   "country": "스위스",
+   "inception": "1755",
+   "headquarters": "플랑레우아트",
+   "founders": [
+    "Jean-Marc Vacheron"
+   ],
+   "parent": "리슈몽",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「바쉐론 콘스탄틴」 요약과 위키데이터 Q62341 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

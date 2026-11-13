@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1813698",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "imperial",
+  "urlSlug": "imperial",
+  "name": "임페리얼",
+  "nameKo": "임페리얼",
+  "nameEn": "Imperial",
+  "definition": "임페리얼(Imperial)은 코스타리카에서 생산되는 라거 맥주 브랜드이다. 플로리다 아이스 앤 팜 컴퍼니(FIFCO)가 제조하며 1924년 처음 생산된 맥주이다.",
+  "summary": "임페리얼(Imperial)은 코스타리카에서 생산되는 라거 맥주 브랜드이다. 플로리다 아이스 앤 팜 컴퍼니(FIFCO)가 제조하며 1924년 처음 생산된 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1924년 오르테가 양조장에서 처음 생산된 코스타리카산 라거 맥주로, 로고의 독수리 문양 때문에 '아길라(독수리)'라는 별칭으로도 불린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "임페리얼은 코스타리카에서 생산되는 라거 맥주 브랜드로, 플로리다 아이스 앤 팜 컴퍼니(FIFCO)가 제조한다. 1924년 오르테가 양조장에서 처음 생산되었다. 파생 제품으로 임페리얼 라이트, 임페리얼 실버, 임페리얼 울트라가 있다. 코스타리카 사람들은 브랜드 로고인 유럽 문장식 독수리 문양에서 유래한 '아길라(Aguila, 독수리)' 또는 '아길리타(Aguilita, 작은 독수리)'라는 이름으로도 이 맥주를 부른다. 2007년에는 벨기에 몽드셀렉션에서 금메달을 수상한 기록이 있다. FIFCO는 임페리얼 외에도 필센(Pilsen), 바바리아(Bavaria), 록 아이스(Rock Ice) 등 다른 브랜드 맥주 제품도 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "임페리얼은 1924년 오르테가 양조장에서 처음 생산되었다. 처음 생산한 사람은 중미 최초의 치과교정 전문의이자 사업가였던 칼 발터 슈타인포트(Carl Walter Steinvorth)이다. 현재 제조는 플로리다 아이스 앤 팜 컴퍼니(FIFCO)가 맡고 있다. 로고는 당시 광고 대행사 카사 그라피카(Casa Gráfica)의 소유주였던 엔리케 항겐(Enrique Hangen)과 볼프강 항겐(Wolfgang Hangen) 형제가 디자인했다. 두 형제는 독일에서 쓰이는 상징에서 영감을 받아 필센과 바바리아 등 다른 코스타리카 맥주 로고도 제작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "임페리얼은 코스타리카산 라거 맥주이며, 스페인어 표기는 Cerveza Imperial이다. 파생 제품으로 임페리얼 라이트(Imperial Light), 임페리얼 실버(Imperial Silver), 임페리얼 울트라(Imperial Ultra)가 있다. 제조사 FIFCO는 필센(Pilsen), 바바리아(Bavaria), 록 아이스(Rock Ice) 등 다른 브랜드 맥주 제품도 생산한다. 코스타리카 사람들은 로고의 독수리 문양에서 유래해 임페리얼을 '아길라(Aguila, 독수리)' 또는 '아길리타(Aguilita, 작은 독수리)'라고도 부른다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 임페리얼은 플로리다 아이스 앤 팜 컴퍼니(FIFCO)에서 제조하는 코스타리카산 라거 맥주이다. 기본 제품 외에 라이트, 실버, 울트라 파생 제품이 있다. 임페리얼의 로고에는 유럽 문장식 독수리 문양이 쓰인다. 2007년 벨기에 몽드셀렉션에서 금메달을 받았으며, FIFCO는 필센, 바바리아, 록 아이스 등 다른 브랜드 맥주도 함께 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1924년 오르테가 양조장에서 처음 생산된 코스타리카산 라거 맥주로, 로고의 독수리 문양 때문에 '아길라(독수리)'라는 별칭으로도 불린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1813698",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1813698",
+    "https://ko.wikipedia.org/wiki/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Imperial_(beer)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1813698",
+   "country": null,
+   "inception": "1924",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "한국어 위키백과 「임페리얼 (맥주)」 요약과 위키데이터 Q1813698 팩트를 근거로 편집"
+ }
+}

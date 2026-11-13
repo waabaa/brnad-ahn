@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1145493",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/swedbank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "swedbank",
+  "urlSlug": "swedbank",
+  "name": "스웨드뱅크",
+  "nameKo": "스웨드뱅크",
+  "nameEn": "Swedbank",
+  "definition": "스웨드뱅크(Swedbank)는 스웨덴에 기반을 둔 다국적 은행 그룹이다. 스웨덴과 에스토니아, 라트비아, 리투아니아를 중심으로 소매금융과 자산운용 등 금융 서비스를 제공한다.",
+  "summary": "스웨드뱅크(Swedbank)는 스웨덴에 기반을 둔 다국적 은행 그룹이다. 스웨덴과 에스토니아, 라트비아, 리투아니아를 중심으로 소매금융과 자산운용 등 금융 서비스를 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴과 발트 지역 소매금융에 뿌리를 둔 은행으로, 에스토니아와 라트비아 최대 은행이면서 2019년 자금세탁 스캔들로 조사를 받은 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스웨드뱅크는 북유럽과 발트 지역에서 주로 영업하는 스웨덴 은행 그룹이다. 소매금융, 자산운용 등 금융 서비스를 제공하며 스웨덴, 에스토니아, 라트비아, 리투아니아에 대규모 소매 영업망을 두고 있다. 2023년 기준 이들 네 나라에서 소매 고객 7.2 million명과 기업 고객 555,000곳을 보유했다. 스웨덴에서는 Nordea, Handelsbanken, SEB와 함께 주요 은행으로 꼽히며, 에스토니아와 라트비아에서는 최대 은행이고 리투아니아에서는 두 번째로 큰 은행이다. 코펜하겐, 헬싱키, 뉴욕, 오슬로, 상하이, 요하네스버그에도 거점을 두고 있다. 다만 고객 만족도는 2010년대와 2020년대에 걸쳐 스웨덴 은행 가운데 하위권에 머물렀다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스웨덴 최초의 저축은행은 1820년 예테보리에서 설립되었다. 1992년 여러 지역 저축은행이 합병해 Sparbanken Sverige를 만들었고, 1995년 스톡홀름 증권거래소에 상장했다. 1997년 Föreningsbanken과 합병하며 FöreningsSparbanken(FSB)이라는 이름을 쓰게 되었다. 2006년 9월 8일 Föreningssparbanken AB가 Swedbank AB로 사명을 바꾸었다. 2008년 금융위기 때는 인접 발트 경제권에 내준 대출 손실로 정부 지원을 받았고, 2013년에는 러시아 사업을 접고 우크라이나 자회사를 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소매금융과 자산운용 등 금융 서비스를 제공한다. 자회사로는 주택담보 부문의 Swedbank Hypotek AB와 농업 신용 부문의 Swedbank Jordbrukskredit AB가 있다. 스웨덴과 발트 국가에 226개 지점을 운영한다. 약 60개의 독립 저축은행과 긴밀히 협력하며, 이들 은행은 FSB 로고를 쓰고 고객은 독립 은행과 FSB 지점을 동일하게 이용할 수 있다. 규모가 큰 독립 저축은행 두 곳은 협력하지 않고 합병 전 Sparbanken의 로고를 계속 사용한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "CEO는 Jens Henriksson이고, 이사회 의장은 전 스웨덴 총리 Göran Persson이다. 2023년 기준 소매 고객 7.2 million명과 기업 고객 555,000곳을 두었고 임직원은 16,000명이 넘는다. 본사 건물은 2014년 Sundbyberg에 문을 열었으며 3XN이 설계했다. 2019년 자금세탁 스캔들로 CEO Birgitte Bonnesen이 해임되었고, 2024년 9월 스웨덴 항소법원은 그에게 중대 사기 유죄를 인정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴과 발트 지역 소매금융에 뿌리를 둔 은행으로, 에스토니아와 라트비아 최대 은행이면서 2019년 자금세탁 스캔들로 조사를 받은 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.swedbank.com/",
+  "entityLinks": {
+   "wikidata": "Q1145493",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1145493",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9B%A8%EB%93%9C%EB%B1%85%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Swedbank"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1145493",
+   "country": "스웨덴",
+   "inception": "1997",
+   "headquarters": "Sundbyberg railway station",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Swedbank」 본문과 위키데이터 Q1145493 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

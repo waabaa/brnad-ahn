@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5596912",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/granville-island-brewing-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "granville-island-brewing",
+  "urlSlug": "granville-island-brewing",
+  "name": "Granville Island Brewing",
+  "nameKo": "",
+  "nameEn": "Granville Island Brewing",
+  "definition": "Granville Island Brewing은 캐나다 브리티시컬럼비아주 밴쿠버의 Granville Island에서 출발한 양조장이다. 1984년에 설립되었으며 스스로를 '캐나다 최초의 마이크로브루어리'라고 부른다.",
+  "summary": "Granville Island Brewing은 캐나다 브리티시컬럼비아주 밴쿠버의 Granville Island에서 출발한 양조장이다. 1984년에 설립되었으며 스스로를 '캐나다 최초의 마이크로브루어리'라고 부른다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "맥주에 브리티시컬럼비아의 지역 이름을 붙이고 Granville Bridge 아래 원래 양조장에서 시음 투어를 운영하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 캐나다 브리티시컬럼비아의 지역과 동네 이름을 붙인 맥주를 만드는 브랜드이다. 원래 양조장은 밴쿠버 다운타운으로 이어지는 False Creek을 가로지르는 Granville Bridge 바로 아래에 있으며, 매일 소규모 양조장 투어를 진행한다. 생산 기반의 큰 부분은 Okanagan Valley의 Kelowna로 옮겨졌지만 원래 양조장도 일부 제품을 계속 만든다. 시음장에서는 12종의 맥주를 생맥주로 제공하며, 그중 4종은 대체로 양조장에서만 맛볼 수 있는 한정 제품이다. 2009년 Molson Coors Canada가 자회사 Creemore Springs Brewing을 통해 인수했다. BC Liquor Distribution Branch에 대한 판매를 기준으로 브리티시컬럼비아에 거점을 둔 양조사 중 7번째로 크다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1984년 Mitch Taylor가 설립했으며, 초대 양조책임자는 독일 출신으로 1988년 복권에 당첨된 뒤 양조장을 떠났다. 1990년에는 첫 비라거 맥주인 페일 에일이 제품에 추가되었고, 1984년부터 2005년 사이에 새 맥주 5종이 출시되었다. 2005년 8월 Andrew Peller Wines가 Taylor에게서 양조장을 사들였고, 2006년 Granville Bridge 아래의 원래 시설을 개조하는 한편 Kelowna의 더 큰 시설로 확장했다. 2009년에는 Molson Coors Canada가 Creemore Springs Brewing을 통해 Andrew Peller Wines에서 양조장을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주 이름은 브리티시컬럼비아의 지역과 동네에서 따온다. 핵심 제품은 Island Lager, English Bay Ale, Brockton West Coast IPA, Kitsilano Juicy IPA이다. 생맥주 전용 제품으로 False Creek Peach Sour와 Cypress Honey Lager가 있고, 계절 제품으로 4월부터 10월까지 False Creek Raspberry Ale, 10월부터 4월까지 Lions Winter Ale이 나온다. Taproom Series에는 Black Lodge Cascadian Dark Ale, Flamingo Mango Hibiscus Sour, Triple Eh American Amber Ale, Juicebox Hazy IPA, Island Side Westcoast IPA, Polar Hop Cold IPA, Groovy Guava Hazy Pale Ale이 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2009년 Molson Coors의 자회사 Creemore Springs가 인수한 뒤 그 계열에 속해 있다. Molson Coors는 2016년 세계 3위 맥주 기업이 되었다. 생산 기반은 대부분 Kelowna로 옮겨졌으나 원래 양조장은 일부 제품 생산과 시음 투어를 계속한다. 판매 기준으로 BC Liquor Distribution Branch 거래 양조사 중 7번째로 크다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥주에 브리티시컬럼비아의 지역 이름을 붙이고 Granville Bridge 아래 원래 양조장에서 시음 투어를 운영하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.gib.ca/",
+  "entityLinks": {
+   "wikidata": "Q5596912",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5596912",
+    "https://en.wikipedia.org/wiki/Granville_Island_Brewing"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5596912",
+   "country": "캐나다",
+   "inception": "1984",
+   "headquarters": "Granville Island",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Granville Island Brewing」 본문과 위키데이터 Q5596912 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

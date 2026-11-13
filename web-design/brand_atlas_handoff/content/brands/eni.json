@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q565594",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/eni-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "eni",
+  "urlSlug": "eni",
+  "name": "에니",
+  "nameKo": "에니",
+  "nameEn": "Eni",
+  "definition": "에니(Eni)는 이탈리아 로마에 본사를 둔 다국적 에너지 기업이다. 1953년에 설립되었으며, 세계 석유 슈퍼메이저 가운데 하나로 꼽힌다. 이탈리아 정부가 골든 셰어를 보유하고 있다.",
+  "summary": "에니(Eni)는 이탈리아 로마에 본사를 둔 다국적 에너지 기업이다. 1953년에 설립되었으며, 세계 석유 슈퍼메이저 가운데 하나로 꼽힌다. 이탈리아 정부가 골든 셰어를 보유하고 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.2,
+  "image": "",
+  "logo": "",
+  "insight": "자동차 네 바퀴와 운전자 두 다리를 합친 여섯 다리 개 로고와 창업 회장 Enrico Mattei로 알려진 이탈리아의 에너지 슈퍼메이저이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에니는 이탈리아의 다국적 에너지 기업으로, 세계 석유 슈퍼메이저 가운데 하나로 꼽힌다. 이름은 이탈리아어 Ente nazionale idrocarburi(국가 탄화수소청)의 옛 약칭에서 왔다. 설립 이후 건설, 원자력, 에너지, 광업, 화학·플라스틱, 정제·채굴·유통 장비, 호텔업, 섬유, 뉴스 등 여러 분야에서 사업을 했다. 2022년에는 약 €92.2 billion의 매출로 Fortune Global 500과 Forbes Global 2000에서 모두 111위를 기록했다. 2025년 12월 31일 기준 시가총액은 €48 billion이다. 이탈리아 정부가 33.084%의 골든 셰어를 보유하며, Euro Stoxx 50 지수의 구성 종목이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "에니는 1953년 기존 회사인 Agip이 설립했다. Agip은 1926년 유전을 탐사하고 석유와 그 파생물을 인수해 판매할 목적으로 만들어진 회사이다. 1953년 3월 Enrico Mattei가 에니의 회장으로 지명되었다. 1954년부터 북아프리카에서 광범위한 탐사권을 확보했으며, 이집트 정부와 합의하면서 산유국이 합작회사를 통해 동등하고 적극적인 역할을 맡도록 했다. 1957년에는 이란의 National Iranian Oil Company와 'Mattei formula'로 불리는 비슷한 합의를 추진했고, 1962년 10월 27일 Mattei가 탄 비행기가 Bascapè 인근에서 폭발했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에니는 원유와 천연가스를 다루는 에너지 기업이다. 설립 이후 건설, 원자력, 에너지, 광업, 화학·플라스틱, 정제·채굴·유통 장비, 호텔업, 섬유, 뉴스 분야에서도 활동했다. 1973년 10월 석유 위기가 닥친 뒤에는 알제리 국영 석유기업 Sonatrach와 천연가스 공급 계약을 맺었다. 1970년대 중반에는 유럽과 지중해 전역에 수천 마일 규모의 가스관망을 건설하는 계획을 세웠고, Trans-Mediterranean Pipeline이 개통된 뒤 리비아와 Boùri 유전 개발 계약을 맺었다. 1963년에는 Italgas의 지분 과반을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "에니는 2025년 12월 31일 기준 시가총액이 €48 billion이다. 이탈리아 정부가 33.084%의 골든 셰어를 보유하고 있으며, 이 가운데 2.166%는 재무부가, 30.918%는 Cassa Depositi e Prestiti가 가지고 있다. 2024년에는 Forbes Global 2000에서 151위, Fortune Global 500에서 98위를 기록했다. Euro Stoxx 50 지수의 구성 종목이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자동차 네 바퀴와 운전자 두 다리를 합친 여섯 다리 개 로고와 창업 회장 Enrico Mattei로 알려진 이탈리아의 에너지 슈퍼메이저이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.eni.com/",
+  "entityLinks": {
+   "wikidata": "Q565594",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q565594",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%8B%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Eni"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q565594",
+   "country": "이탈리아",
+   "inception": "1953",
+   "headquarters": "로마",
+   "founders": [
+    "Enrico Mattei"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Eni」 본문과 위키데이터 Q565594 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

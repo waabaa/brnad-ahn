@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q25302580",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "san-miguel-brewery",
+  "urlSlug": "san-miguel-brewery",
+  "name": "San Miguel Brewery",
+  "nameKo": "",
+  "nameEn": "San Miguel Brewery",
+  "definition": "San Miguel Brewery는 필리핀의 맥주 제조 회사이다. San Miguel Food and Beverage, Inc.의 자회사이며 Kirin Holdings Co. Ltd.와 공동 소유하고, San Miguel Beer를 생산한다.",
+  "summary": "San Miguel Brewery는 필리핀의 맥주 제조 회사이다. San Miguel Food and Beverage, Inc.의 자회사이며 Kirin Holdings Co. Ltd.와 공동 소유하고, San Miguel Beer를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "필리핀 맥주 시장에서 2008년 기준 95% 이상을 점유한 최대 양조 회사로, San Miguel 계열이면서 Kirin Holdings Co. Ltd.와 공동 소유되는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 필리핀 최대의 양조 회사이며, 2008년 기준 시장 점유율이 95%를 넘었던 것으로 기록되어 있다. San Miguel Corporation(SMC)의 국내 맥주 사업이 2007년 10월 1일 분사되어 현재의 법인이 운영을 이어받았다. 2009년 일본의 Kirin Holdings Co. Ltd.가 SMC로부터 지분 48.3%를 인수했다. 2010년에는 San Miguel Brewing International Ltd의 지분 100%를 확보해 국내외 맥주 사업을 완전히 통합했다. 이 해외 법인은 홍콩, 중국, 인도네시아, 태국, 베트남의 사업을 총괄한다. 2017년 SMC가 음료 사업을 San Miguel Pure Foods Company, Inc.로 통합한다고 발표했으며, 이 회사가 지분 51%를 보유하게 된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시작은 1890년 Enrique María Barreto가 필리핀에서의 맥주 양조를 공식 허용한 스페인 왕실 칙허에 따라 La Fábrica de Cerveza San Miguel을 세운 것이다. 이후 Pedro Pablo Roxas가 경영 파트너로 합류했고, 독일인 양조 책임자 Ludwig Kiene를 기술 책임자로 데려왔다. 사업은 1913년 법인으로 전환되었다. 1963년 회사명이 San Miguel Corporation으로 바뀌었고, 주류·비주류 음료, 식품, 포장을 핵심으로 하는 필리핀 최대 기업 집단 중 하나로 성장했다. 2007년까지 양조장들은 San Miguel Corporation의 맥주 사업부로 운영되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 San Miguel Pale Pilsen(San Miguel Beer)이다. 이 밖에 San Miguel Premium All-Malt Beer, San Miguel Super Dry, San Miguel Flavored Beer, San Mig Light, San Mig Extra Light, San Mig Zero, San Mig Hard Seltzer를 주류 제품으로 두고 있다. San Miguel Cerveza Negra, San Miguel Cerveza Blanca, Kirin Ichiban, Gold Eagle Beer, Red Horse Beer, Red Horse Super도 포함된다. 무알코올 음료로는 Magnolia Healthtea, Magnolia Cali Sparkling Softdrink, San Mig Free 0.0이 있으며, San Mig Free 0.0은 이전에 San Miguel NAB로 불렸다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 11월 6일 발표된 통합에 따라 San Miguel Pure Foods Company, Inc.가 지분 51%를 보유하게 되었고, 이 회사는 San Miguel Food and Beverage, Inc.로 사명이 바뀌게 되었다. 2018년 1월 18일 특별 주주총회가 정관 개정과 주식 교환을 승인했고, 같은 해 3월 23일 SEC가 사명 변경과 정관 개정을 승인했다. 이 회사는 2008년 5월 12일 필리핀 증권거래소에 상장했으나 2013년 5월 15일 자발적 상장폐지가 발효되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "필리핀 맥주 시장에서 2008년 기준 95% 이상을 점유한 최대 양조 회사로, San Miguel 계열이면서 Kirin Holdings Co. Ltd.와 공동 소유되는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.sanmiguelbrewery.com.ph/",
+  "entityLinks": {
+   "wikidata": "Q25302580",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q25302580",
+    "https://en.wikipedia.org/wiki/San_Miguel_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q25302580",
+   "country": "필리핀",
+   "inception": "2007",
+   "headquarters": null,
+   "founders": [],
+   "parent": "산 미겔 코퍼레이션",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「San Miguel Brewery」 본문과 위키데이터 Q25302580 팩트를 근거로 편집"
+ }
+}

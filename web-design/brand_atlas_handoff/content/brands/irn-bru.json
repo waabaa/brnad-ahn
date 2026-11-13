@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q938806",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 93,
+  "enViews": 91762,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "irn-bru",
+  "urlSlug": "irn-bru",
+  "name": "아이언브루",
+  "nameKo": "아이언브루",
+  "nameEn": "Irn-Bru",
+  "definition": "아이언브루(Irn-Bru)는 스코틀랜드에서 생산되는 탄산 청량음료로, '스코틀랜드의 다른 국민 음료'로 불린다.",
+  "summary": "아이언브루(Irn-Bru)는 스코틀랜드에서 생산되는 탄산 청량음료로, '스코틀랜드의 다른 국민 음료'로 불린다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "철분이 들어있지 않고 양조도 하지 않는데도 이름에 '철(Irn)'을 담아, 코카콜라 같은 글로벌 브랜드에 맞서 스코틀랜드 국민 음료로 자리 잡은 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아이언브루(Irn-Bru)는 스코틀랜드의 탄산 청량 음료로, 스카치 위스키에 빗대어 '스코틀랜드의 다른 국민 음료'로 설명된다. 1901년에 소개되었으며 글래스고의 A.G. Barr가 노스래너크셔의 컴버널드 웨스트필드에서 생산한다. 코카콜라, 펩시, 환타 같은 글로벌 브랜드와 경쟁하면서도 100년 넘게 스코틀랜드에서 가장 많이 팔린 청량음료 자리를 지켜왔다. 영국 전역은 물론 네덜란드, 스페인, 벨기에, 몰타, 아프리카 대륙의 여러 국가, 중동, 북미 등 스코틀랜드 사람들이 많이 거주하는 지역을 중심으로 세계 각지에서 판매된다. 브랜드는 자체 타르탄 무늬도 보유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아이언브루는 1901년에 처음 소개된 음료이다. 원래는 다른 이름으로 판매되었으나, 제품 마케팅이 '문자 그대로 진실'이어야 한다는 법률이 바뀌면서 1946년 이름을 현재의 '아이언브루(Irn-Bru)'로 바꾸었다. 이는 이 음료가 철분을 많이 포함하지도 않고 양조 과정을 거치지도 않았기 때문이다. 이후 코카콜라, 펩시, 환타 등 경쟁 브랜드를 꾸준히 제치며 스코틀랜드에서 초당 20캔이 팔리는 것으로 알려질 만큼 인기를 얻었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "아이언브루는 글래스고의 A.G. Barr가 노스래너크셔 컴버널드 웨스트필드에서 생산하고 있다. 영국 전역과 네덜란드, 스페인, 벨기에, 몰타, 아프리카 대륙의 특정 국가, 중동, 북미 등 다양한 국제 시장에서 판매되고 있으며, 코카콜라 등 글로벌 브랜드와 경쟁하는 위치를 유지하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "철분이 들어있지 않고 양조도 하지 않는데도 이름에 '철(Irn)'을 담아, 코카콜라 같은 글로벌 브랜드에 맞서 스코틀랜드 국민 음료로 자리 잡은 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://irn-bru.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q938806",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q938806",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EC%96%B8%EB%B8%8C%EB%A3%A8",
+    "https://en.wikipedia.org/wiki/Irn-Bru"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q938806",
+   "country": null,
+   "inception": "1901",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "한국어 위키백과 「아이언브루」 요약과 위키데이터 Q938806 팩트를 근거로 편집"
+ }
+}

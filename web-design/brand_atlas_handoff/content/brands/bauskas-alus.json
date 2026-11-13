@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4034923",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bauskas-alus",
+  "urlSlug": "bauskas-alus",
+  "name": "Bauskas alus",
+  "nameKo": "",
+  "nameEn": "Bauskas alus",
+  "definition": "Bauskas alus는 라트비아 Bauska에 있는 양조장이다. 1981년에 설립되었고 본사는 Īslīce Parish에 있다. 맥주와 맥주 칵테일, 티 머시룸 음료 등을 생산했다.",
+  "summary": "Bauskas alus는 라트비아 Bauska에 있는 양조장이다. 1981년에 설립되었고 본사는 Īslīce Parish에 있다. 맥주와 맥주 칵테일, 티 머시룸 음료 등을 생산했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "콜호즈 통조림 공장의 일부로 출발한 라트비아 양조장으로, 맥주와 함께 Dr.Kombucha 티 머시룸 음료도 선보였다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 라트비아의 Bauska에 있으며, 설립 당시에는 지역 콜호즈 통조림 공장의 일부였다. 처음에는 Marta alus(Märzen), Rīgas alus(Beer of Riga), Senču alus(Ancestors' Beer) 같은 전통 맥주를 생산했다. 1982년부터는 주력 제품으로 Bauskas gaišais와 Bauskas tumšais를 만들었다. 2017년에는 맥주 Savējais와 맥주 칵테일 Festiņš를 내놓았고, 2018년에는 홍차 맛 티 머시룸 음료 Dr.Kombucha Karkade를 출시했다. 2019년에는 Cido Grupa에 매각되어 Cido Grupa의 Lāčplēša alus Ltd가 소유주가 되었다. 맥주와 Dr.Kombucha 음료를 함께 다루는 라트비아의 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1981년에 당시 지역 콜호즈 통조림 공장의 일부로 설립되었다. 초기에는 Marta alus(Märzen), Rīgas alus(Beer of Riga), Senču alus(Ancestors' Beer) 같은 전통 맥주를 만들었다. 1982년에는 주력 제품인 Bauskas gaišais(Bauska Light)와 Bauskas tumšais(Bauska Dark)를 생산하기 시작했다. 2017년에는 매출이 전년보다 4.2% 늘고 이익이 29.2% 늘었으며, 2018년에는 신제품 Dr.Kombucha Karkade를 출시했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Bauskas gaišais(Bauska Light)와 Bauskas tumšais(Bauska Dark)이다. 전통 맥주로는 Marta alus(Märzen), Rīgas alus(Beer of Riga), Senču alus(Ancestors' Beer)를 만들었다. 2017년에는 맥주 Savējais와, 라이트 맥주와 티 머시룸 음료 Dr.Kombucha로 구성된 맥주 칵테일 Festiņš를 출시했다. 2018년에는 홍차 맛 티 머시룸 음료 Dr.Kombucha Karkade를 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 Īslīce Parish에 있다. 2019년 6월 이 양조장을 Cido Grupa에 매각한다는 발표가 있었다. 경쟁위원회(Competition Council)의 승인 후 11월 4일 거래가 완료되어 Cido Grupa의 Lāčplēša alus Ltd가 소유주가 되었다. 2018년 매출은 EUR 7.4m, 이익은 EUR 1.3m에 이르렀다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "콜호즈 통조림 공장의 일부로 출발한 라트비아 양조장으로, 맥주와 함께 Dr.Kombucha 티 머시룸 음료도 선보였다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bauskasalus.lv",
+  "entityLinks": {
+   "wikidata": "Q4034923",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4034923",
+    "https://en.wikipedia.org/wiki/Bauskas_alus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4034923",
+   "country": "라트비아",
+   "inception": "1981",
+   "headquarters": "Īslīce Parish",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Bauskas alus」 본문과 위키데이터 Q4034923 팩트를 근거로 편집"
+ }
+}

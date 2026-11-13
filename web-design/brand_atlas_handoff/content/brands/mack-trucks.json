@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q950650",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "mack-trucks",
+  "urlSlug": "mack-trucks",
+  "name": "맥 트럭스",
+  "nameKo": "맥 트럭스",
+  "nameEn": "Mack Trucks",
+  "definition": "맥 트럭스(Mack Trucks)는 미국의 자동차 메이커이다. 1900년에 설립된 맥브라더 컴파니에서 출발했으며, 본사는 그린즈버러에 있고 현재 볼보트럭을 모기업으로 둔다.",
+  "summary": "맥 트럭스(Mack Trucks)는 미국의 자동차 메이커이다. 1900년에 설립된 맥브라더 컴파니에서 출발했으며, 본사는 그린즈버러에 있고 현재 볼보트럭을 모기업으로 둔다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "맥 트럭스는 1900년 맥브라더 컴파니에서 출발한 미국의 트럭 메이커로, 르노 자동차를 거쳐 현재 볼보 트럭 계열에 속한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "맥 트럭스는 미국의 자동차 메이커로, 트럭을 비롯해 소방차와 군용 모델, 디젤 엔진 모델을 생산해 왔다. 1900년에 설립된 맥브라더 컴파니에서 출발했고 1922년에 현재의 사명으로 바꿨으며, 본사는 그린즈버러에 있다. 1990년에 르노 자동차에 인수되었고, 2001년에는 볼보 트럭이 르노 트럭과 함께 인수해 자회사로 편입시켰다. 현재 모기업은 볼보트럭이며, 스웨덴의 볼보 트럭과 프랑스의 르노 트럭이 계열사로 함께 언급된다. 과거에는 AC, CH, EH, B, F, R, N 시리즈 등 여러 트럭 시리즈를 생산했다. 현재는 북아메리카 모델과 오세아니아 모델로 나누어 생산 차종을 운영하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "맥 트럭스의 시초는 1900년에 설립된 맥브라더 컴파니(Mack Brothers Company)이다. 이 회사는 1922년에 사명을 현재의 이름으로 변경했다. 1990년에는 르노 자동차에 인수되어 그 아래에 들어갔다. 이후 2001년에 르노 트럭과 함께 볼보 트럭이 인수하면서 볼보 트럭의 자회사로 편입되었다. 생산 이력에는 트럭, 소방차, 군용 모델, 디젤 엔진 모델이 포함된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 북아메리카 시장에서는 그래니트, 타이탄, 테라프로, 피나클을 생산한다. 오세아니아 시장에서는 그래니트, 매그넘, 메트로라이너, 슈퍼라이너, 타이탄, 테라프로, 트라이던트를 생산한다. 과거 트럭 모델로는 AC 시리즈, CH 시리즈, EH 시리즈, B 시리즈, F 시리즈, R 시리즈, N 시리즈, 밸류라이너 등이 있었다. 소방차 모델로 CF-611 시리즈와 CF-700 시리즈가 있었고, 군용 모델로 M39, M123 & M125 시리즈 등이 있었다. 디젤 엔진 모델로는 MP 엔진 시리즈가 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "맥 트럭스는 현재 볼보트럭을 모기업으로 두고 있으며, 본사는 그린즈버러에 있다. 2001년에 르노 트럭과 함께 볼보 트럭이 인수해 자회사로 편입시킨 이후 볼보 트럭 계열의 일원으로 운영된다. 북아메리카와 오세아니아 시장을 구분해 각각의 현재 생산 차종을 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥 트럭스는 1900년 맥브라더 컴파니에서 출발한 미국의 트럭 메이커로, 르노 자동차를 거쳐 현재 볼보 트럭 계열에 속한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.macktrucks.com",
+  "entityLinks": {
+   "wikidata": "Q950650",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q950650",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A5_%ED%8A%B8%EB%9F%AD%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Mack_Trucks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q950650",
+   "country": "미국",
+   "inception": "1900",
+   "headquarters": "그린즈버러",
+   "founders": [],
+   "parent": "볼보트럭",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「맥 트럭스」 요약과 위키데이터 Q950650 팩트를 근거로 편집"
+ }
+}

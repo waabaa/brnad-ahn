@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q304091",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "moosehead-brewery",
+  "urlSlug": "moosehead-brewery",
+  "name": "Moosehead Brewery",
+  "nameKo": "",
+  "nameEn": "Moosehead Brewery",
+  "definition": "Moosehead Brewery는 캐나다 뉴브런즈윅주 세인트존에 있는 양조장이다. 1867년에 설립되었으며 캐나다에서 가장 오래된 독립 양조장으로, 현재도 Oland 가문이 소유하고 운영한다.",
+  "summary": "Moosehead Brewery는 캐나다 뉴브런즈윅주 세인트존에 있는 양조장이다. 1867년에 설립되었으며 캐나다에서 가장 오래된 독립 양조장으로, 현재도 Oland 가문이 소유하고 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "캐나다에서 가장 오래된 독립 양조장이며, Oland 가문이 6대째 소유하는 가운데 캐나다 자본만으로 소유된 양조사 중 가장 큰 곳이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Moosehead Brewery는 캐나다 뉴브런즈윅주 세인트존에 본사를 둔 맥주 양조 회사이다. 1867년에 설립되어 캐나다에서 가장 오래된 독립 양조장으로 꼽히며, 비상장 기업이어서 재무 정보를 공개할 의무가 없다. Oland 가문이 소유와 운영을 이어 오고 있으며 현재 6대째 가족 소유 체제이다. 주요 경쟁사가 모두 다국적 기업 소유이기 때문에, 현재 캐나다 자본만으로 소유된 양조사 가운데 가장 규모가 크다. 2018년 캐나다 내수 시장에서 약 4퍼센트의 점유율을 차지한 것으로 추정되었다. 맥주는 캐나다 전역과 미국의 여러 지역, 전 세계 15개국에서 판매되며 Canadian Brewing Awards 등에서 여러 차례 수상했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1865년 Susannah Oland가 영국에서 캐나다 노바스코샤로 이주했고, 남편 John 및 직원 아홉 명과 함께 1867년 The Army and Navy Brewery를 열었다. 상호는 가장 고마워한 고객들을 따라 지어졌다. 1870년 John Oland가 일찍 세상을 떠난 뒤 S. Oland, Sons and Co.로 이름을 바꾸었고, 1886년 Susannah Oland가 사망하자 회사는 두 아들 Conrad와 George에게 넘어갔다. 1917년 핼리팩스 폭발로 Conrad Oland가 사망하고 양조장이 파괴되었으며, 이듬해 George Oland와 아들들이 핼리팩스로 옮겨 다른 양조장을 인수했다. 1928년 George는 세인트존에 더 큰 양조장을 사들였고, 이곳이 현재 시설 부지이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1931년 George Oland가 Moosehead Pale Ale을 출시하면서 무스(moose) 상징이 생겼다. 이 맥주가 성공한 뒤 회사는 1947년 이름을 Moosehead Breweries Ltd.로 바꾸었다. 1978년 사장 Philip Oland가 Moosehead Lager를 미국에 출시했고, 1982년 사장 Derek Oland가 사업을 전 세계로 넓혔다. 2015년에는 Pale ale이, 2016년에는 Alpine Lager와 Cracked Canoe가 Canadian Brewing Awards에서 수상했다. 온타리오주의 Niagara Falls Brewing Company를 전액 소유하며, Sproutly와 협력해 대마 함유 음료를 판매하는 Joint Venture도 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년부터 Derek Oland의 아들 Andrew, Patrick, Matthew가 경영을 맡고 있으며, 2019년 기준 Andrew가 사장, Patrick이 CFO, Matthew가 Joint Venture의 CEO이다. 2008년에는 McAuslan Brewing 지분을 Les Brasseurs RJ에 매각했으며, McAuslan은 퀘벡주에서 Moosehead 맥주를 계속 양조하고 유통한다. Moosehead USA는 최근 Gambrinus를 대신해 직접 수입을 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐나다에서 가장 오래된 독립 양조장이며, Oland 가문이 6대째 소유하는 가운데 캐나다 자본만으로 소유된 양조사 중 가장 큰 곳이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.moosehead.ca/",
+  "entityLinks": {
+   "wikidata": "Q304091",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q304091",
+    "https://en.wikipedia.org/wiki/Moosehead_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q304091",
+   "country": "캐나다",
+   "inception": "1867",
+   "headquarters": "세인트존",
+   "founders": [
+    "Susannah Oland"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Moosehead Breweries」 본문과 위키데이터 Q304091 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q610086",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/achel-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "achel-brewery",
+  "urlSlug": "achel-brewery",
+  "name": "Achel Brewery",
+  "nameKo": "",
+  "nameEn": "Achel Brewery",
+  "definition": "Achel Brewery는 벨기에 Hamont-Achel의 성 베네딕토 수도원 안에 있는 양조장이다. 2021년 1월까지 벨기에 트라피스트 양조장 중 가장 규모가 작았으며, 지금도 맥주를 생산하지만 트라피스트 표기는 쓰지 못한다.",
+  "summary": "Achel Brewery는 벨기에 Hamont-Achel의 성 베네딕토 수도원 안에 있는 양조장이다. 2021년 1월까지 벨기에 트라피스트 양조장 중 가장 규모가 작았으며, 지금도 맥주를 생산하지만 트라피스트 표기는 쓰지 못한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에 트라피스트 양조장 중 가장 작은 규모였고, 수도사들의 은퇴로 2021년 1월 트라피스트 지위를 잃은 수도원 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장의 정식 명칭은 Brouwerij der Sint-Benedictusabdij de Achelse Kluis이며, 벨기에 Hamont-Achel 자치단체의 성 베네딕토 수도원 안에 있다. 2021년 1월까지 벨기에 트라피스트 양조장 가운데 가장 작은 곳이었다. 맥주를 만들던 수도사들이 은퇴하면서 트라피스트 지위의 근거가 사라졌고, 지금은 양조를 계속하지만 트라피스트 맥주로 판매할 수 없다. 다른 트라피스트 양조장과 마찬가지로 맥주 판매 수익은 수도원과 자선 활동을 지원하는 데 쓰였다. 2021년 수도원이 문을 닫은 뒤 수도원 건물과 양조장은 벨기에 기업가 Jan Torman이 인수했다. 맥주는 알코올 도수와 색으로 이름을 붙이는 방식을 따른다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장의 역사는 1648년 네덜란드 수도사들이 Achel에 예배당을 지은 데서 시작한다. 예배당은 1686년 수도원이 되었으나 프랑스 혁명기에 파괴되었고, 1844년 Westmalle의 수도사들이 폐허를 재건했다. 이곳에서 처음 양조된 맥주는 1852년의 Patersvaatje이며, 1871년 트라피스트 수도원이 되면서 양조가 정기적인 활동이 되었다. 1914년 제1차 세계대전 중 독일군 점령으로 수도사들이 떠났고, 독일군은 1917년 구리 약 700 kg을 회수하려고 양조장을 해체했다. 1998년 수도사들이 다시 양조하기로 결정했고, Westmalle과 Rochefort 수도원의 수도사들이 새 양조장 건설을 도왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 맥주이며, 이름은 알코올 도수와 색으로 붙이고 Bruin과 Blond는 네덜란드어로 각각 갈색과 금발색을 뜻한다. 2001년 양조장은 Achel 8° 맥주들을 출시했다. Achel Blond 8°와 Achel Bruin 8°는 모두 알코올 도수(ABV) 8%인 제품이다. Achel Extra는 Blond와 Bruin 두 종류가 있으며, 알코올 도수(ABV) 9.5%에 75cl 용량으로만 나온다. 2017년 이전에는 도수 5°인 Achel Blond 5°와 Achel Bruin 5°도 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 1월부터 트라피스트 양조장이 아니며, 맥주를 만들던 수도사들이 은퇴해 트라피스트 지위의 근거가 사라졌다. 수도원은 2021년 문을 닫았고, 마지막 남은 수도사 두 명은 Westmalle 수도원으로 옮겼다. 수도원 건물과 양조장은 벨기에 기업가 Jan Torman이 인수했다. 맥주는 계속 생산되지만 트라피스트 맥주로 판매할 수 없다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에 트라피스트 양조장 중 가장 작은 규모였고, 수도사들의 은퇴로 2021년 1월 트라피스트 지위를 잃은 수도원 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.achelsekluis.org",
+  "entityLinks": {
+   "wikidata": "Q610086",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q610086",
+    "https://en.wikipedia.org/wiki/Achel_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q610086",
+   "country": "벨기에",
+   "inception": "1998",
+   "headquarters": "Achel",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Achel Brewery」 본문과 위키데이터 Q610086 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

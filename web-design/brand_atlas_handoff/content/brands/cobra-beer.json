@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1104762",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cobra-beer",
+  "urlSlug": "cobra-beer",
+  "name": "Cobra Beer",
+  "nameKo": "",
+  "nameEn": "Cobra Beer",
+  "definition": "Cobra Beer는 영국에서 생산되는 맥주 브랜드이다. 1989년 Karan Bilimoria와 Arjun Reddy가 설립했으며, 주력 제품은 알코올 도수 4.5%의 프리미엄 맥주이다.",
+  "summary": "Cobra Beer는 영국에서 생산되는 맥주 브랜드이다. 1989년 Karan Bilimoria와 Arjun Reddy가 설립했으며, 주력 제품은 알코올 도수 4.5%의 프리미엄 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "영국 라거의 강한 탄산과 거친 맛을 피해 라거의 청량함과 에일의 부드러움을 결합하려 한 맥주 브랜드이며, 영국 내 인도 음식점 시장에서 높은 점유율을 보인다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 영국에서 생산되는 맥주 브랜드이다. 주력 제품은 알코올 도수 4.5%의 프리미엄 맥주이며, 처음에는 도수가 4.8%였다. 창업자 Karan Bilimoria는 영국 라거가 너무 탄산이 강하고 거칠다고 보고, 라거의 청량함과 에일의 부드러움을 함께 갖춘 맥주를 만들겠다는 생각으로 이 브랜드를 시작했다. 물, 보리 맥아, 효모, 쌀, 옥수수 밀과 세 종류의 홉을 섞어 원하는 특성을 낸다. 2014년 기준 주요 생산지는 Burton upon Trent, 벨기에의 Rodenbach, 인도 비하르주의 Patna이다. 2014년 11월 기준 영국 내 면허를 가진 인도 음식점 전체의 45% 이상에서 시장 점유율을 차지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1989년 Karan Bilimoria가 Arjun Reddy와 함께 이 브랜드를 설립했다. 당시 Bilimoria는 27세였고 £20,000의 빚을 지고 있었다. 이름은 원래 'Panther'로 하려 했으나 포커스 그룹이 'Cobra'를 더 매력적으로 여겨 바꾸었다. 첫 물량은 1990년 방갈로르의 Mysore Brewery에서 영국으로 수입했으며, 소비자 수요가 크고 수입 비용이 늘자 1990년대 중반 생산을 영국으로 옮겼다. 1996년부터는 Charles Wells Ltd가 위탁 양조했고, 이후 10년간 판매가 꾸준히 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Cobra Premium(4.5%)으로, 330ml와 620ml 병으로 판매되며 생맥주 버전(4.3%)도 있다. 영국 시장에서는 Cobra World Beer라는 이름으로 판매된다. Cobra Zero(0.0%)는 Cobra Premium의 무알코올 버전으로 2005년부터 판매되었다. King Cobra(5.2%)는 이중 발효한 필스너 스타일 라거이며, 2005년 출시되어 벨기에의 Rodenbach Brewery에서 양조한다. Cobra Beers는 국제 Monde Selection 시상식에서 금메달 101개를 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2009년 5월 29일 이 회사는 법정관리에 들어갔고, 같은 날 Molson Coors와 Karan Bilimoria의 합작 법인 Cobra Beer Partnership Limited가 설립되어 사업을 이어받았다. Molson Coors가 지분 50.1%를 보유하고 Bilimoria가 회장을 맡았다. 2011년 6월 Molson Coors는 Cobra India 지분 51%도 사들였다. 2013년 매출은 £59.1 million, 세전 이익은 £7.7 million이었으며, 합작 법인 설립 이후 성장률은 해마다 7%에서 10% 사이였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국 라거의 강한 탄산과 거친 맛을 피해 라거의 청량함과 에일의 부드러움을 결합하려 한 맥주 브랜드이며, 영국 내 인도 음식점 시장에서 높은 점유율을 보인다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cobrabeer.com/",
+  "entityLinks": {
+   "wikidata": "Q1104762",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1104762",
+    "https://en.wikipedia.org/wiki/Cobra_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1104762",
+   "country": null,
+   "inception": "1989",
+   "headquarters": "런던",
+   "founders": [
+    "Karan Bilimoria, Baron Bilimoria"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Cobra Beer」 본문과 위키데이터 Q1104762 팩트를 근거로 편집"
+ }
+}

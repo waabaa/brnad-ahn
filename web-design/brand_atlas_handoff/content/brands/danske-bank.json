@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1636974",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/danske-bank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "danske-bank",
+  "urlSlug": "danske-bank",
+  "name": "단스케 은행",
+  "nameKo": "단스케 은행",
+  "nameEn": "Danske Bank",
+  "definition": "단스케 은행(Danske Bank)은 코펜하겐에 본사를 둔 덴마크의 다국적 은행·금융 서비스 기업이다. 덴마크에서 가장 큰 은행이며 북유럽 지역의 주요 소매은행이다.",
+  "summary": "단스케 은행(Danske Bank)은 코펜하겐에 본사를 둔 덴마크의 다국적 은행·금융 서비스 기업이다. 덴마크에서 가장 큰 은행이며 북유럽 지역의 주요 소매은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "덴마크 최대 은행이자 북유럽 전역과 북아일랜드에 지역 은행을 둔 금융그룹으로, 2017~2018년 드러난 에스토니아 지점 자금세탁 스캔들의 중심에 있던 은행이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 은행은 덴마크에서 가장 큰 은행이며 북유럽 지역에서 다수의 소매 고객을 둔 주요 소매은행이다. 덴마크 외에도 노르웨이, 스웨덴, 핀란드와 북아일랜드에서 지역 은행들을 운영하는 그룹 구조이다. 2025년 기준 최대 주주는 자본금의 21%를 보유한 머스크 가문의 투자 지주회사 A.P. Moller Holding이다. 2017~2018년에 에스토니아에 기반을 둔 지점을 통해 2007년부터 2015년까지 €800 billion 규모의 의심 거래가 오간 사실이 드러났고, 이 사건은 역사상 최대 규모일 수 있는 자금세탁 스캔들로 거론된다. 여러 나라 당국의 조사를 받았으며, 2022년 미국 법무부 사건에서 유죄를 인정하고 $2 billion의 벌금에 합의했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1871년 10월 5일 Den Danske Landmandsbank, Hypothek- og Vexelbank i Kjøbenhavn이라는 이름으로 설립되었으며, 이후 한 세기 넘게 Landmandsbanken으로 불렸다. 1976년 Den Danske Bank로 이름을 바꾸었고 2000년에 현재의 짧은 이름을 채택했다. 덴마크 내에서는 1990년 Kjøbenhavns Handelsbank, Provinsbanken과 합병하며 크게 확장했다. 해외 사업은 1997년 스웨덴의 Östgöta Enskilda Bank, 1999년 노르웨이의 Fokus Bank, 2004년 북아일랜드의 Northern Bank, 2007년 핀란드·발트 국가·러시아의 Sampo Bank 인수 등 일련의 인수로 구축되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 코펜하겐에 있으며 덴마크에서 가장 큰 은행이다. 2025년 기준 최대 주주는 지분 21%를 가진 A.P. Moller Holding이다. 2019년 2월 에스토니아 지점의 자금세탁 스캔들 이후 발트 국가와 러시아에서의 모든 은행 활동을 중단하겠다고 발표했다. 그룹은 덴마크, 노르웨이, 스웨덴, 핀란드와 북아일랜드에서 지역 은행을 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "덴마크 최대 은행이자 북유럽 전역과 북아일랜드에 지역 은행을 둔 금융그룹으로, 2017~2018년 드러난 에스토니아 지점 자금세탁 스캔들의 중심에 있던 은행이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://danskebank.com/",
+  "entityLinks": {
+   "wikidata": "Q1636974",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1636974",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A8%EC%8A%A4%EC%BC%80_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Danske_Bank"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1636974",
+   "country": "덴마크",
+   "inception": "1871",
+   "headquarters": "코펜하겐",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Danske Bank」 본문과 위키데이터 Q1636974 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

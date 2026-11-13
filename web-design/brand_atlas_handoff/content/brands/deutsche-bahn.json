@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q9322",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/deutsche-bahn-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "deutsche-bahn",
+  "urlSlug": "deutsche-bahn",
+  "name": "독일철도",
+  "nameKo": "독일철도",
+  "nameEn": "Deutsche Bahn",
+  "definition": "독일철도(Deutsche Bahn)는 베를린에 본부를 두고 독일과 유럽의 여러 국가에서 철도 및 관련 사업을 운영하는 독일의 공기업이다. 약칭은 DB이며 모든 주식을 정부가 소유하고 있다.",
+  "summary": "독일철도(Deutsche Bahn)는 베를린에 본부를 두고 독일과 유럽의 여러 국가에서 철도 및 관련 사업을 운영하는 독일의 공기업이다. 약칭은 DB이며 모든 주식을 정부가 소유하고 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.5,
+  "image": "",
+  "logo": "",
+  "insight": "철도 인프라와 운송을 아우르며 독일과 유럽에서 철도사업 최대 규모를 가진 정부 소유의 지주회사이다. 로고는 서독 시절 독일 연방 철도(Deutsche Bundesbahn)의 상호를 현대화한 것이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "독일철도는 베를린에 본부를 두고 독일과 유럽의 여러 국가에서 철도 및 관련 사업을 운영하는 독일의 공기업이다. 2012년 기준 약 392억 유로의 수익을 올렸으며, 영업이익은 약 27억 유로였다. 5700여 개의 기차역을 운영하고 있으며 약 29만 명의 임직원이 근무한다. 규모 면에서 승객·물류 운송사로 세계 2위이고, 유럽 내 철도사업으로는 가장 큰 규모를 가지고 있다. 1999년 DB AG가 지주회사로 출범하면서 사업부문이 독립된 자회사로 설립되었고, 현재까지 이러한 자회사 형태로 운영되고 있다. 연방정부가 민영화를 추진하였지만 막대한 자금을 부담할 투자자가 없어 모든 주식을 정부가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "독일철도는 1835년 남부 바이에른의 뉘른베르크-휘어튼 간에서 처음 개통했다. 1945년 제2차 세계대전 종식 후 서독과 동독의 철도가 분리되었다가 1990년 독일 통일을 계기로 다시 합병되었고, 비효율적인 운영과 경직된 관료조직이 문제가 되어 정부가 철도구조개혁을 단행했다. 1994년 1월 1일 철도구조개혁의 일환으로 DB AG가 주식회사로 출발했으며, 막대한 적자를 떠안을 기업이 없어 연방정부가 100% 지분을 가진 형태로 시작했다. 1993년 말 누적적자 670억 마르크가 청산되었고, 개혁 후 2년 만에 9000만 마르크의 이윤을 냈다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "5개 부문(여객, 화물, 역사운영, 선로관리, 부동산)의 철도사업을 DB AG 산하에 두었으며, 1999년 이후 각 부문은 독립된 자회사로 운영되고 있다. 자회사 간 내부출자는 허용되지 않으며 지주회사와 독립된 회계체계를 운영한다. 화물수송 분야에서는 DB Cargo의 활동이 두드러지는데, 1998년 네덜란드 국영철도의 화물부서를 합병했고 2000년에는 덴마크의 화물부서와 합병하여 레일리온을 설립했다. 약 500개의 크고 작은 자매회사를 두고 활동한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 독일철도의 모든 주식은 독일 연방정부가 소유하고 있다. 2008년의 세계 경제위기 등으로 주식 매각계획은 무기한 연장된 상태이다. 2003년에는 정부 보조금 없이 자립한다는 구조개혁의 목표가 실질적으로 달성되기 어려운 것으로 판명되었다. 2012년 기준 약 29만 명의 임직원이 근무하며 5700여 개의 기차역을 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "철도 인프라와 운송을 아우르며 독일과 유럽에서 철도사업 최대 규모를 가진 정부 소유의 지주회사이다. 로고는 서독 시절 독일 연방 철도(Deutsche Bundesbahn)의 상호를 현대화한 것이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.deutschebahn.com/",
+  "entityLinks": {
+   "wikidata": "Q9322",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q9322",
+    "https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EC%B2%A0%EB%8F%84",
+    "https://en.wikipedia.org/wiki/Deutsche_Bahn"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q9322",
+   "country": "독일",
+   "inception": "1988",
+   "headquarters": "BahnTower",
+   "founders": [],
+   "parent": "독일",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「독일철도」 요약과 위키데이터 Q9322 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

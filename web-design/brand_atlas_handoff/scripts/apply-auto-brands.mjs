@@ -44,6 +44,8 @@ for (const f of files) {
     b = { ...rec, id: nextId++ };
     data.allBrands.push(b); bySlug.set(slug, b); n.added++;
   }
+  // 이미 반영된 레코드라도 레코드 파일에 한글 표기가 새로 생겼으면(검수·보강) 비어 있는 nameKo만 채운다.
+  if (!b.nameKo && rec.nameKo) b.nameKo = rec.nameKo;
   if (!doc.logoCandidate) continue;
   const rel = `images/logos/${path.basename(doc.logoCandidate)}`;
   if (doc.logoReview === "approved") {

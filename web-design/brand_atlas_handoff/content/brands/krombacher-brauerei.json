@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q694218",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "krombacher-brauerei",
+  "urlSlug": "krombacher-brauerei",
+  "name": "크롬바커 바이젠",
+  "nameKo": "크롬바커 바이젠",
+  "nameEn": "Krombacher Brauerei",
+  "definition": "크롬바커 바이젠(Krombacher Brauerei)은 독일 Kreuztal에 본사를 둔 양조회사이다. 독일에서 가장 큰 민간 소유 양조장 가운데 하나이며 판매량 기준 독일 2위 맥주로 꼽힌다.",
+  "summary": "크롬바커 바이젠(Krombacher Brauerei)은 독일 Kreuztal에 본사를 둔 양조회사이다. 독일에서 가장 큰 민간 소유 양조장 가운데 하나이며 판매량 기준 독일 2위 맥주로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Krombacher Rock Spring의 연질 저미네랄 물로 양조하는 가족 소유 양조장으로, 독일 2위 Pilsener 브랜드를 보유한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "크롬바커 양조장은 독일에서 가장 큰 민간 소유 양조장 가운데 하나이며, 독일 베스트셀러 맥주 순위 2위에 오른다. 본사는 노르트라인베스트팔렌주 Siegerland 지역의 Kreuztal 인근 Krombach에 있고, 이 도시에서 가장 큰 고용주 가운데 하나이다. 대표 제품 Krombacher Pils는 독일에서 두 번째로 많이 소비되는 Pilsener이다. 무알코올 제품, 라들러, 밀맥주 Krombacher Weizen 등으로 라인업을 넓혔고 독일에서 Schweppes 제품도 라이선스로 생산한다. 양조에 쓰는 물은 1722년 광산 감독관 Fresenius가 발견한 Krombacher Rock Spring에서 공급받으며, 이 연질의 저미네랄 물이 맥주의 바탕이 된다. 경영은 오늘날까지 가족 기업 형태로 이어지고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업자는 Johannes Haas이며, 그의 아버지 Johann Eberhard Haas는 Krombach에서 선술집을 운영했다. 1618년 규정상 맥주는 자체 양조장과 맥아 가마를 가진 음식점만 팔 수 있었기에, Johannes Haas는 가업 안에 양조장을 세웠다. 1896년 Hermann Haas가 양조장을 Otto Eberhardt에게 팔았고, Eberhardt는 이를 1905년 주식회사로 전환했다. 20세기 초 Krombacher Pilsener를 내놓으며 빠르게 회복했고, 1922년 10월 Bernhard Schadeberg가 경영을 맡아 가족 경영이 이어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Krombacher Pils이며 무알코올 제품도 생산한다. Krombacher Radler는 Krombacher Pils 50%와 레모네이드 50%를 섞은 제품이다. 밀맥주 Krombacher Weizen은 시장조사에 따라 2007년부터 양조하고 있고, 어두운 맥주 Rhenania Alt도 만든다. 젊은 층을 겨냥한 맥주 기반 믹스 음료 Cab은 Cab Cola and Beer, Cab Banana and Beer, Cab Cherry and Beer 세 종류이며 모두 용과 향이 들어간다. 또 Schweppes Germany의 라이선스로 독일에서 Schweppes 제품을 생산·유통한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 소유주는 Friedrich Schadeberg, 그의 여동생 Barbara Lambrecht-Schadeberg, 그의 아들 Bernhard Schadeberg, 딸 Petra Schadeberg-Hermann이다. 2002년 시작한 열대우림 캠페인은 부분적으로 경쟁 제한적이라는 독일 법원 판단을 받았으며 2008년 다시 시작되었다. 러시아 모스크바 Sheraton Palace Hotel에는 Krombacher Beer Kitchen 레스토랑이 있으며 2020년 디자인상 후보에 올랐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Krombacher Rock Spring의 연질 저미네랄 물로 양조하는 가족 소유 양조장으로, 독일 2위 Pilsener 브랜드를 보유한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.krombacher.com",
+  "entityLinks": {
+   "wikidata": "Q694218",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q694218",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%AC%EB%B0%94%EC%BB%A4",
+    "https://en.wikipedia.org/wiki/Krombacher"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q694218",
+   "country": "독일",
+   "inception": "1803",
+   "headquarters": "Kreuztal",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Krombacher」 본문과 위키데이터 Q694218 팩트를 근거로 편집"
+ }
+}

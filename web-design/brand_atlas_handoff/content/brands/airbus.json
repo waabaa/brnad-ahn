@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q2311",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/airbus-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "airbus",
+  "urlSlug": "airbus",
+  "name": "에어버스",
+  "nameKo": "에어버스",
+  "nameEn": "Airbus",
+  "definition": "에어버스(Airbus)는 프랑스, 독일, 영국, 스페인, 네덜란드의 다국적 항공기업이다. 민항기 개발 및 제조가 주요 사업이며 국방항공부서와 헬리콥터 부서도 두고 있다.",
+  "summary": "에어버스(Airbus)는 프랑스, 독일, 영국, 스페인, 네덜란드의 다국적 항공기업이다. 민항기 개발 및 제조가 주요 사업이며 국방항공부서와 헬리콥터 부서도 두고 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1970년 컨소시엄에서 출발해 유럽 항공 우주 산업을 통합한 다국적 항공기업이며, 세계 최초 광폭동체 비행기 A300을 처음 선보인 민항기 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에어버스는 프랑스, 독일, 영국, 스페인, 네덜란드의 다국적 항공기업이다. 핵심 부서는 3개이며, 주요 사업은 민항기 개발 및 제조이지만 국방항공부서와 헬리콥터 부서도 있다. 2019년부터 에어버스는 세계에서 가장 큰 항공기 제조사이자 헬리콥터 제조사이다. 조립공장과 사무실은 프랑스, 독일, 스페인, 영국에 있고 최근에는 미국, 캐나다, 중화인민공화국에도 시설을 추가했다. 본부는 네덜란드 레이던으로 등록했으나 실질적인 일일업무는 프랑스 툴루즈 인근의 블라냐크에서 수행한다. 유로 스톡스 50 주가 지수의 구성원이며 주식은 유로넥스트 파리, 프랑크푸르트 증권거래소, 마드리드 증권거래소에서 거래한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "현재 에어버스 SE는 1970년 에어버스 인더스트리 GIE 컨소시엄을 결성한 이후 유럽 항공 우주 산업을 통합한 산물이다. 2000년 프랑스의 아에로스파시알, 독일의 DASA, 스페인의 CASA를 합병해 유럽 항공 방위 우주 회사(EADS)를 설립했다. 2001년 에어버스 인더스트리 GIE는 주식회사 에어버스 SAS로 개편되었고, 2006년 EADS는 BAE 시스템즈의 에어버스 주식 나머지 20%를 인수했다. EADS NV는 2014년과 2015년에 각각 Airbus Group NV와 SE로 이름을 변경했고, 지주회사는 2017년 4월에 현재 이름인 에어버스 SE로 명칭을 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 사업은 민항기 개발 및 제조이며, 국방항공부서와 헬리콥터 부서도 두고 있다. 민항기 시리즈는 1972년 10월 28일에 초도 비행을 한 A300으로 시작하며, A300은 에어버스의 첫 민항기이자 세계 최초 광폭동체 비행기였다. 군용기종으로는 에어버스 A400M, A330 MRTT, A310 MRTT가 있다. 수송기종으로는 에어버스 벨루가(2026년 퇴역)와 에어버스 벨루가 XL이 있다. 개발 및 시험 예정 기종으로는 수소형 항공기인 ZEROe가 있으며 2035년 도입 예정이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년부터 세계에서 가장 큰 항공기 제조사이자 헬리콥터 제조사이다. 본부는 네덜란드 레이던으로 등록되어 있으며, 유로 스톡스 50 주가 지수의 구성원이다. 2017년 1월 에어버스 그룹 SE 내 에어버스 SAS 부문의 지배구조 문제로 모기업과 자회사의 집행위원회를 해산했고, 해당 기업은 별도 법적 주체로 유지했다. 'SE'는 Societas Europaea의 약자이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1970년 컨소시엄에서 출발해 유럽 항공 우주 산업을 통합한 다국적 항공기업이며, 세계 최초 광폭동체 비행기 A300을 처음 선보인 민항기 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://airbus.com",
+  "entityLinks": {
+   "wikidata": "Q2311",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2311",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Airbus"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2311",
+   "country": "네덜란드",
+   "inception": "1998",
+   "headquarters": "레이던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「에어버스」 요약과 위키데이터 Q2311 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

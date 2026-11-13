@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q788231",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/massimo-dutti-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "massimo-dutti",
+  "urlSlug": "massimo-dutti",
+  "name": "마시모두띠",
+  "nameKo": "마시모두띠",
+  "nameEn": "Massimo Dutti",
+  "definition": "마시모두띠(Massimo Dutti)는 캐시미어와 울 제품을 전문으로 하는 스페인의 프리미엄 의류 소매 브랜드이다. 1985년에 설립되었으며 스페인 다국적 기업 인디텍스가 소유한다.",
+  "summary": "마시모두띠(Massimo Dutti)는 캐시미어와 울 제품을 전문으로 하는 스페인의 프리미엄 의류 소매 브랜드이다. 1985년에 설립되었으며 스페인 다국적 기업 인디텍스가 소유한다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "캐시미어와 울에 특화한 인디텍스의 프리미엄 브랜드로, 이탈리아식 이름과 달리 스페인에서 출발했으며 매스티지 시장과 가까운 위치에 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마시모두띠는 캐시미어와 울 제품을 전문으로 하는 스페인의 프리미엄 의류 소매업체이며, Zara, Pull&Bear 등을 거느린 스페인 다국적 기업 인디텍스의 브랜드이다. 이탈리아식 이름을 쓰지만 마시모두띠는 패션 디자이너의 이름이 아니다. 1985년 창립 당시에는 남성복만 취급했으나 이후 여성복과 아동복, 향수로 상품 범위를 넓혔다. 인디텍스 안에서 상대적으로 고급 브랜드에 속하며, 매스티지 시장과 더 관련이 깊은 브랜드이다. 전 세계 75개국에서 800개 매장을 운영하며, 국제적으로 10,000명 이상을 고용한다. 사무실은 인디텍스 본사가 있는 아르테이쇼가 아니라 바르셀로나의 토르데라에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "마시모두띠는 1985년에 설립된 스페인 브랜드로, 창립 당시의 상품 범위는 남성복에 한정되어 있었다. 1991년 인디텍스가 이 회사 지분의 65%를 인수했고, 1995년에는 나머지 지분까지 인수해 회사를 완전히 소유하게 되었다. 남성복에 이어 여성복 라인이 1995년에 추가되어 상품 구성이 넓어졌다. 2003년에는 Massimo Dutti Boys and Girls라는 상표명으로 아동복 라인을 출시해 고객층을 넓혔다. 이후 공급 품목을 다변화해 여성복과 아동복은 물론 향수까지 선보이는 브랜드로 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "마시모두띠의 핵심 상품은 캐시미어와 울 소재의 의류이다. 상품군은 남성복, 여성복, 아동복으로 구성되며, 아동복은 Massimo Dutti Boys and Girls라는 상표명으로 판매한다. 향수는 Puig가 판매를 맡는다. 2018년 10월 말에 남성용 세 종과 여성용 세 종, 모두 여섯 종의 새 향수가 출시되었다. 기존 향수가 Douglas, El Corte Ingles, Amazon.com 같은 다상표 유통망에서 판매된 것과 달리, 새 컬렉션은 마시모두띠 매장 400곳과 32개 시장의 온라인에서만 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 마시모두띠는 인디텍스가 소유하며, 75개국에서 800개 매장을 운영한다. 국제적으로 10,000명 이상을 고용하고 있다. 2001년부터 정신건강 및 장애 관련 자선단체와 협력해, 중증 정신장애나 신체장애가 있는 사람들의 사회 재활과 직업 배치 프로그램을 이어 왔다. 인디텍스 브랜드 가운데 처음으로 for&from 프로그램에 참여했으며, 스페인의 Allariz(Ourense), Llagostera(Barcelona), Igualada(Barcelona)에서 장애인이 운영하고 장기 고용되는 매장 세 곳을 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐시미어와 울에 특화한 인디텍스의 프리미엄 브랜드로, 이탈리아식 이름과 달리 스페인에서 출발했으며 매스티지 시장과 가까운 위치에 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.massimodutti.com/",
+  "entityLinks": {
+   "wikidata": "Q788231",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q788231",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%8B%9C%EB%AA%A8_%EB%91%90%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/Massimo_Dutti"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q788231",
+   "country": "스페인",
+   "inception": "1985",
+   "headquarters": "아르테이쇼",
+   "founders": [],
+   "parent": "인디텍스",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Massimo Dutti」 본문과 위키데이터 Q788231 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

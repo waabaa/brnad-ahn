@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q7157843",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/peak-sport-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "peak-sport",
+  "urlSlug": "peak-sport",
+  "name": "Peak Sport",
+  "nameKo": "",
+  "nameEn": "Peak Sport",
+  "definition": "Peak Sport는 중국 취안저우시에 본사를 둔 스포츠웨어·신발 제조 기업이다. 1989년에 설립되었고 농구 제품을 가장 강한 사업으로 삼아 Peak 브랜드로 제품을 판매한다.",
+  "summary": "Peak Sport는 중국 취안저우시에 본사를 둔 스포츠웨어·신발 제조 기업이다. 1989년에 설립되었고 농구 제품을 가장 강한 사업으로 삼아 Peak 브랜드로 제품을 판매한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "설립 초기부터 농구를 가장 강한 사업으로 삼아 온 중국 취안저우시의 스포츠웨어·신발 제조 기업이며, 독자 기술 TAICHI를 보유한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Peak Sport는 중국 취안저우시에 본사를 둔 스포츠웨어·신발 제조 기업이다. Peak 브랜드로 스포츠웨어 제품을 설계, 개발, 제조, 유통, 판매한다. 농구는 설립 초기부터 가장 강한 사업이었으며, 지금은 축구, 배구, 러닝, 테니스 등 여러 종목을 다루며 사업을 넓혔다. 중국 안에서는 유통업자에게 도매로 제품을 판매하고, 해외 고객과 소비자·소매업체·스포츠 팀과 클럽에 제품을 파는 해외 유통업자에게도 도매로 판매한다. 미국, 유럽, 아시아, 호주에서 사업을 전개하며 전용 매장은 5000개가 넘는다. 브랜드는 110개 국가와 지역으로 활동 범위를 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Peak Sport는 1989년에 설립된 중국 기업이며 본사는 취안저우시에 있다. 농구는 설립 초기부터 지금까지 이 회사의 가장 강한 사업이다. 이후 축구, 배구, 러닝, 테니스 등 다른 종목으로 사업 범위를 넓혔다. 2009년 중반에는 중국 내 공식 Peak 매장이 5,667개였고, 이 매장은 유통업자 또는 이들의 제3자 매장 운영업체가 운영했다. 국제 농구 시장에서 브랜드의 존재감이 꾸준히 커졌고, 활동 지역은 110개 국가와 지역으로 늘어났다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Peak Sport는 Peak 브랜드로 스포츠웨어와 신발을 설계, 개발, 제조, 유통, 판매한다. 중국에서는 모든 제품을 유통업자에게 도매로 판매하며, 유통업자는 직접 또는 제3자 매장 운영업체를 통해 공식 Peak 매장을 운영한다. 해외에서는 해외 고객과 해외 유통업자에게 도매로 판매하고, 이들이 소비자, 소매업체, 스포츠 팀과 클럽에 제품을 공급한다. 독자 기술 TAICHI를 적용한 신발은 2022년 말까지 40 million 켤레 넘게 팔렸다. 농구 외에 축구, 배구, 러닝, 테니스 등도 다룬다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "전용 매장은 5000개가 넘고, 아시아에 여러 공장을 보유해 직원 600명과 6,000명이 넘는 공장 근로자가 일한다. 브랜드는 110개 국가와 지역에서 사업을 하고 있다. PEAK Group의 CEO Xu Zhihua는 농구 관련 제품을 앞세워 가능한 한 빨리 글로벌 전문 스포츠 브랜드로 자리 잡겠다는 비전을 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "설립 초기부터 농구를 가장 강한 사업으로 삼아 온 중국 취안저우시의 스포츠웨어·신발 제조 기업이며, 독자 기술 TAICHI를 보유한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.peaksport.net/",
+  "entityLinks": {
+   "wikidata": "Q7157843",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7157843",
+    "https://en.wikipedia.org/wiki/Peak_Sport_Products"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7157843",
+   "country": "중화인민공화국",
+   "inception": "1989",
+   "headquarters": "취안저우시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Peak Sport Products」 본문과 위키데이터 Q7157843 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

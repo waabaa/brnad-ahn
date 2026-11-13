@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q618044",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "apatinska-brewery",
+  "urlSlug": "apatinska-brewery",
+  "name": "Apatinska Brewery",
+  "nameKo": "",
+  "nameEn": "Apatinska Brewery",
+  "definition": "Apatinska Brewery는 세르비아 Apatin에 본사를 둔 양조회사이다. 1756년 Imperial Brewery로 설립되었고, 세르비아에서 가장 오래된 양조장 가운데 하나이다.",
+  "summary": "Apatinska Brewery는 세르비아 Apatin에 본사를 둔 양조회사이다. 1756년 Imperial Brewery로 설립되었고, 세르비아에서 가장 오래된 양조장 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1756년 설립된 세르비아의 오래된 양조장으로, Jelen을 앞세워 시장 선두에 있으며 Staropramen, Beck's, Stella Artois도 함께 생산한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 세르비아 Apatin에 본사를 둔 Molson Coors Europe 소속 양조회사이다. 미국 회사 Molson Coors가 과반 지분을 소유한다. 제품은 전 세계로 수출되며, 세르비아 밖에서는 보스니아헤르체고비나, 크로아티아, 마케도니아, 몬테네그로, 오스트리아, 스웨덴, 슬로베니아, 스위스에서 판매된다. 2006년 기준으로 세르비아 시장의 선두 양조장이며, 세르비아에서 가장 오래된 양조장 가운데 하나이다. 대표 브랜드 Jelen은 세르비아 시장의 선두 맥주 브랜드이다. 브랜드별 슬로건으로 알려져 있으며, 2009년 TNS Medium Gallup 조사에서는 광고와 전반적인 사업 성과 부문 3위였고 Guča Trumpet Festival을 후원한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1756년 Imperial Chamber 소유의 Imperial Brewery로 설립되었다. 18세기에 12,000 hectoliters의 생산 기록이 있으며, 19세기 말 처음 민간 소유로 넘어간 뒤 양조 공정 현대화와 생산 능력 확대를 위한 투자가 이어졌다. 1930년대의 어려움으로 1935년 생산이 중단되었고, 9년 뒤 제2차 세계대전 중 베오그라드 해방 이후 낡은 설비를 복구하면서 새 국면이 시작되어 1950년에는 40,000 hectoliters 이상을 생산했다. 1958년부터 1966년까지 생산시설 재건과 현대화가 이루어져 대기업으로 성장하는 기반이 되었다. 1970년대에 자동화 생산 라인을 도입해 1977년 630,000 hectoliters 이상을 생산했고, 오렌지·레몬·블루베리·알프스 허브 맛의 무알코올 음료도 내놓았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "생산 브랜드는 Jelen, Apatinsko, Jelen Cool, Jelen Fresh, Staropramen, Beck's, Stella Artois, Nikšićko pivo, Nikšićko tamno이다. Jelen은 세르비아 시장의 선두 맥주 브랜드이며 보스니아헤르체고비나, 몬테네그로, 마케도니아에서도 점유율을 가진다. 슬로건은 Jelen Pivo가 \"Men know why\", Jelen Cool이 \"Anytime, anywhere\", Nikšićko Pivo가 \"Always among friends\", Beck's가 \"Deliberately different\"이다. 1970년대에는 오렌지, 레몬, 블루베리, 알프스 허브 맛의 무알코올 음료도 도입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1991년 민영화가 시작되었고, 2003년 국제 InterBrew 네트워크의 일원이 되었으며 이 네트워크는 2005년 InBev로 합쳐졌다. 2008년 Anheuser-Busch InBev의 일부가 되었고, 2009년 12월 CVC Capital Partners가 설립한 프라하 소재 지역 양조그룹 StarBev에 편입되었다. 2012년 4월 3일 Molson Coors가 StarBev 인수를 완료하면서 현재 Molson Coors Europe 소속이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1756년 설립된 세르비아의 오래된 양조장으로, Jelen을 앞세워 시장 선두에 있으며 Staropramen, Beck's, Stella Artois도 함께 생산한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://apatinskapivara.rs/",
+  "entityLinks": {
+   "wikidata": "Q618044",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q618044",
+    "https://en.wikipedia.org/wiki/Apatin_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q618044",
+   "country": "세르비아",
+   "inception": "1756",
+   "headquarters": "Apatin",
+   "founders": [],
+   "parent": "몰슨 쿠어스",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Apatin Brewery」 본문과 위키데이터 Q618044 팩트를 근거로 편집"
+ }
+}

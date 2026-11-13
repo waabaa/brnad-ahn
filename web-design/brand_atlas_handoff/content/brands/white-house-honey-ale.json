@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q867652",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "white-house-honey-ale",
+  "urlSlug": "white-house-honey-ale",
+  "name": "White House Honey Ale",
+  "nameKo": "",
+  "nameEn": "White House Honey Ale",
+  "definition": "White House Honey Ale은 백악관에서 처음 양조된 것으로 알려진 맥주이다. 2011년 1월 버락 오바마 대통령의 요청으로 양조가 시작되었고, 대통령이 개인 자금으로 양조 키트를 구입했다.",
+  "summary": "White House Honey Ale은 백악관에서 처음 양조된 것으로 알려진 맥주이다. 2011년 1월 버락 오바마 대통령의 요청으로 양조가 시작되었고, 대통령이 개인 자금으로 양조 키트를 구입했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "백악관에서 처음 양조된 것으로 알려진 맥주로, 레시피가 공개되었고 BJCP의 특정 스타일에 맞지 않아 스페셜티 맥주로 분류되는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 백악관에서 양조된 것으로 알려진 최초의 맥주이다. 2011년 1월 버락 오바마 대통령의 요청으로 양조가 시작되었으며, 대통령은 개인 자금으로 홈브루잉 키트를 구입했다. 백악관 요리사들이 전통적인 방식으로 양조하며, 병에 담아 맞춤 로고를 붙인다. 사우스 론의 벌통에서 채취한 꿀 1파운드가 들어간다. 2012년 기준으로 허니 에일 외에 White House Honey Blonde Ale, White House Honey Porter, White House Honey Brown 세 가지 스타일이 양조되었다. 2012년 9월 1일 레시피가 whitehouse.gov에 공개되었으며, 미국 연방정부의 저작물로서 퍼블릭 도메인에 속한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조는 2011년 1월 버락 오바마 대통령의 요청으로 시작되었다. 대통령은 홈브루잉 키트를 개인 자금으로 구입했다. 이 맥주는 슈퍼볼 파티를 비롯한 백악관 행사에서 제공되었고, 성 패트릭의 날을 위해서도 일부 병이 양조되었다. 슈퍼볼 파티에는 지인 유명인과 미국 의회 의원 등 200명에 가까운 손님이 참석했고, 약 90~100병이 마련되었다. 2011년 9월 15일 명예 훈장을 받은 전 미국 해병대 하사 Dakota Meyer는 대통령과 맥주를 함께 마시기를 청했고, 두 사람은 집무실 밖 파티오에서 이 에일을 한 병씩 마셨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "허니 에일 외에 2012년 기준으로 White House Honey Blonde Ale, White House Honey Porter, White House Honey Brown 세 가지 스타일이 양조되었다. 맥주에는 사우스 론의 벌통에서 채취한 꿀 1파운드가 들어간다. 병에는 맞춤 로고가 붙으며, 로고는 적갈색 바탕에 백악관을 선으로 그린 그림을 노란 원이 둘러싼 모양이다. Beer Judge Certification Program 스타일 가이드라인에 따르면 비중, 알코올 도수, 쓴맛, 색은 벨기에 두벨 범위에 들지만 영국산 홉과 효모를 쓰므로 BJCP 23번 스페셜티 맥주 범주에 속한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 8월 21일 캘리포니아 변호사 Scott Talkov와 텍사스 변호사 Brodie Burks가 정보공개법에 따라 레시피 공개를 요청했으며, 두 사람 모두 홈브루어이다. 8월 29일 Reddit 질의응답에서 오바마 대통령이 레시피를 공개하겠다고 밝혔다. 레시피는 2012년 9월 1일 whitehouse.gov에 공개되었고, 미국 연방정부의 저작물로서 퍼블릭 도메인이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "백악관에서 처음 양조된 것으로 알려진 맥주로, 레시피가 공개되었고 BJCP의 특정 스타일에 맞지 않아 스페셜티 맥주로 분류되는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q867652",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q867652",
+    "https://en.wikipedia.org/wiki/White_House_Honey_Ale"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q867652",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「White House Honey Ale」 본문과 위키데이터 Q867652 팩트를 근거로 편집"
+ }
+}

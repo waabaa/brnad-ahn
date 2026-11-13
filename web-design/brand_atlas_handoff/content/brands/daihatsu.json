@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q27511",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/daihatsu-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "daihatsu",
+  "urlSlug": "daihatsu",
+  "name": "다이하쓰",
+  "nameKo": "다이하쓰",
+  "nameEn": "Daihatsu",
+  "definition": "다이하쓰(Daihatsu)는 일본 오사카부 이케다에 본사를 둔 자동차 제조사이다. 경차(kei car) 중심의 소형차를 만들며 Toyota Motor Corporation의 완전 자회사이다.",
+  "summary": "다이하쓰(Daihatsu)는 일본 오사카부 이케다에 본사를 둔 자동차 제조사이다. 경차(kei car) 중심의 소형차를 만들며 Toyota Motor Corporation의 완전 자회사이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.283333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "경차 중심의 제품군과 Toyota 브랜드로 공급되는 보급형 소형차 생산을 특징으로 하는 일본 제조사이다. 일본 내 운전자의 70퍼센트가 여성이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "다이하쓰는 일본의 자동차 제조사로, 현재 일본에서 경차 모델과 경트럭, 경밴, 그리고 그보다 큰 소형차를 판매한다. 경차에 집중한 결과 일본 내 다이하쓰 운전자의 70퍼센트가 여성이다. 일본과 동남아시아에서 보급형 소형차를 생산하며, 이 차량은 Toyota 브랜드로 신흥 시장에 공급되는 경우가 많다. 2023년 기준 다이하쓰 브랜드로는 일본과 인도네시아에, Perodua 브랜드로는 말레이시아에 사업이 한정되어 있다. 이들 지역에서 상당한 연구개발 자원과 제조 시설, 판매 조직을 보유하고 있다. 일본에서 오래 존속한 내연기관 제조사 가운데 하나로 꼽힌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "다이하쓰의 전신은 1907년 설립된 Hatsudoki Seizo Co. Ltd이며, 오사카대학 공학부 교수진의 영향 아래 소형 정치형 동력 설비용 가솔린 엔진을 개발하기 위해 출범했다. 초기에는 일본 국유철도용 증기기관과 객차를 주로 만들었고, 이후 철도용 디젤 엔진으로 옮겨 Niigata Engineering, Shinko Engineering Co., Ltd.와 협업했다. 1930년에는 삼륜 트럭 시제품이 검토되고 제안되었다. 1951년 3월 1일 대대적인 구조조정의 일환으로 다이하쓰가 공식 출범했다. 회사명은 오사카의 첫 글자(大)와 발동기 제조(発動機製造)의 첫 글자를 합친 것이며, 이때 大의 읽는 법이 ō에서 dai로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "다이하쓰는 과거 삼륜차와 오프로드 차량을 만들었고, 현재는 경차 모델을 중심으로 제품군을 구성한다. 경트럭, 경밴, 경차보다 큰 소형차도 일본에서 판매한다. 일본과 동남아시아에서는 보급형 소형차를 생산하며, 이 차량은 Toyota 브랜드로 신흥 시장에 공급되기도 한다. 2011년 8월 인도네시아에 투자해 Low Cost Green Car 제도에 따른 저가 차량 공장을 지었고, 이 공장은 2012년 말 가동을 시작해 연간 최대 100,000대를 생산한다. 유럽에는 1960년대부터 수출했으나 2007년 58,000대였던 판매가 2011년 12,000대로 줄었고, 2013년까지 유럽 시장에서 철수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "다이하쓰는 2016년 8월부터 Toyota Motor Corporation의 완전 자회사이다. Toyota는 1967년 주요 주주가 되었고, 1995년 지분을 16.8%에서 33.4%로, 1998년 51.2%로 늘렸다. 2021년 기준 다이하쓰는 Toyota 그룹 전체 차량 판매의 4퍼센트를 차지한다. 2023년 기준 다이하쓰 브랜드 사업은 일본과 인도네시아로 한정된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "경차 중심의 제품군과 Toyota 브랜드로 공급되는 보급형 소형차 생산을 특징으로 하는 일본 제조사이다. 일본 내 운전자의 70퍼센트가 여성이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.daihatsu.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q27511",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27511",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9D%B4%ED%95%98%EC%93%B0",
+    "https://en.wikipedia.org/wiki/Daihatsu"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27511",
+   "country": "일본",
+   "inception": "1907",
+   "headquarters": "오사카시",
+   "founders": [],
+   "parent": "토요타 자동차",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Daihatsu」 본문과 위키데이터 Q27511 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

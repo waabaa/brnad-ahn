@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q392363",
+ "demand": {
+  "why": "국외",
+  "naver": 0.074,
+  "koViews": 142,
+  "enViews": 51195,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/motorola-razr-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "motorola-razr",
+  "urlSlug": "motorola-razr",
+  "name": "레이저",
+  "nameKo": "레이저",
+  "nameEn": "Motorola Razr",
+  "definition": "레이저(Motorola Razr)는 모토로라 모빌리티가 출시하는 스마트폰 시리즈이다. 당시 두꺼웠던 폴더폰을 매우 얇게 만들어 1억대 이상 판매된 모델에서 시작했다.",
+  "summary": "레이저(Motorola Razr)는 모토로라 모빌리티가 출시하는 스마트폰 시리즈이다. 당시 두꺼웠던 폴더폰을 매우 얇게 만들어 1억대 이상 판매된 모델에서 시작했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "극도로 얇은 폴더폰으로 1억대 이상 판매된 뒤, 모토로라 모빌리티가 구글에 인수되며 부활의 의미로 이름을 되살린 시리즈이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "레이저는 모토로라 모빌리티가 출시하는 스마트폰 시리즈이다. 시리즈의 시초는 제품코드 MS500인 모토로라 레이저 폴더폰이며, 모토로라에서 최고라는 마크를 단 제품은 스타텍과 레이저 두 가지로 꼽힌다. 당시 폴더폰이 두꺼웠던 점을 겨냥해 굉장히 얇게 만들었고, 1억대 이상 판매되는 성공을 거두었다. 레이저라는 이름은 면도칼의 레이저와 비슷하게 극도의 얇음을 뜻한다. 모토로라는 재정난으로 전문산업 쪽(모토로라 솔루션스, 무전기 등)과 휴대전화 사업부(모토로라 모빌리티, 스마트폰, 태블릿 등)로 분리되었다. 이후 모빌리티가 구글에게 인수되면서 부활의 의미로 레이저라는 명칭을 사용하기로 결정했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "레이저 시리즈는 폴더폰과 안드로이드 스마트폰으로 나뉘며, 폴더 부문의 모델은 시리즈의 시초인 모토로라 레이저(제품코드 MS500)이다. 안드로이드 시기에는 모토로라 모빌리티가 레이저, 레이저 맥스, 레이저 V, 레이저 HD, 레이저 맥스 HD, 레이저 M, 레이저 i를 출시했다. 이 가운데 레이저는 모토로라 모빌리티가 내놓은 첫 4G LTE 스마트폰이다. 레이저 i는 모토로라 모빌리티의 첫 인텔코어 스마트폰이다. 이처럼 모토로라 시기의 폴더폰과 모토로라 모빌리티 시기의 안드로이드 스마트폰이 하나의 시리즈로 구성되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "극도로 얇은 폴더폰으로 1억대 이상 판매된 뒤, 모토로라 모빌리티가 구글에 인수되며 부활의 의미로 이름을 되살린 시리즈이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q392363",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q392363",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%9D%B4%EC%A0%80_(%EC%8B%9C%EB%A6%AC%EC%A6%88)",
+    "https://en.wikipedia.org/wiki/Motorola_Razr"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q392363",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「레이저 (시리즈)」 요약과 위키데이터 Q392363 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

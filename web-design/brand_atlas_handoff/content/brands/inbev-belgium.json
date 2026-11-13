@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1416717",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/inbev-belgium-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "inbev-belgium",
+  "urlSlug": "inbev-belgium",
+  "name": "인베브",
+  "nameKo": "인베브",
+  "nameEn": "InBev Belgium",
+  "definition": "인베브(InBev Belgium)는 벨기에의 맥주 회사로, 2004년 인터브루(Interbrew)와 암베브(AmBev)의 합병으로 탄생한 양조 회사이다. 현재는 앤하이저부시 인베브의 자회사이다.",
+  "summary": "인베브(InBev Belgium)는 벨기에의 맥주 회사로, 2004년 인터브루(Interbrew)와 암베브(AmBev)의 합병으로 탄생한 양조 회사이다. 현재는 앤하이저부시 인베브의 자회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "2004년 인터브루와 암베브의 합병으로 탄생해 2008년까지 독립적으로 존재했고, 지금은 앤하이저부시 인베브의 자회사로 남은 벨기에 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인베브는 벨기에 안데를레흐트에 본사를 둔 맥주 양조 회사로, 국제적으로 사업을 벌이는 브랜드이다. 2004년 벨기에에 본사를 둔 인터브루(Interbrew)와 브라질 양조업체 암베브(AmBev)가 합병하면서 탄생했다. 인베브는 30개국 이상에서 운영되었고 130개국 이상에서 판매되었다. 2006년 기준 시가총액은 306억 유로, 순이익은 32억 유로, 매출은 133억 유로였다. 2008년 앤호이저 부시(Anheuser-Busch)를 인수해 앤하이저부시 인베브(약칭 AB InBev)가 설립되기 전까지 독립적으로 존재했다. 현재는 앤하이저부시 인베브의 자회사로 남아 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "인베브는 2004년 벨기에에 본사를 둔 인터브루와 브라질 양조업체 암베브의 합병으로 탄생했다. 이후 2008년 7월 13일 앤호이저 부시를 인수해 앤하이저부시 인베브라는 새 회사를 설립했다. 미국에서 반독점 승인을 얻기 위해 라바트(Labatt) 맥주를 미국으로 수입한 회사를 매각하는 데 동의했고, 이 거래는 2009년 3월 13일에 완료되었다. 2016년 10월 10일에는 앤호이저 부시 인베브가 SAB밀러를 690억 파운드(미화 1,070억 달러)에 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인베브의 사업은 맥주 양조이며, 인베브 브랜드 중에는 라바트 맥주가 있다. 앤호이저 부시 인수로 버드와이저와 미켈롭의 제조사와 스텔라 아르투아, 베이스, 브라마의 제조사가 통합되어 세계 최대의 양조업체가 탄생했다. 두 회사의 연간 매출은 364억 달러 이상으로, 이전 최대 양조업체인 런던에 본사를 둔 SABMiller를 능가하는 규모였다. 이후 SAB의 MillerCoors 맥주 회사를 Molson Coors에 매각하고 수많은 유럽 브랜드를 아사히맥주(Asahi Breweries)에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "인베브는 현재 앤하이저부시 인베브의 자회사이다. 2008년 앤호이저 부시 인수 이후에는 독립적으로 존재하지 않게 되었다. 2016년 SAB밀러 인수 후 앤하이저부시 인베브 SA/NV가 된 새 회사는 MillerCoors를 Molson Coors에 매각하고 수많은 유럽 브랜드를 아사히맥주에 매각했다. SABMiller는 인수 후 글로벌 주식 시장에서 거래를 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2004년 인터브루와 암베브의 합병으로 탄생해 2008년까지 독립적으로 존재했고, 지금은 앤하이저부시 인베브의 자회사로 남은 벨기에 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.inbev.com/",
+  "entityLinks": {
+   "wikidata": "Q1416717",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1416717",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%B2%A0%EB%B8%8C",
+    "https://en.wikipedia.org/wiki/InBev"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1416717",
+   "country": "벨기에",
+   "inception": "1988",
+   "headquarters": "안데를레흐트",
+   "founders": [],
+   "parent": "앤하이저부시 인베브",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "한국어 위키백과 「인베브」 요약과 위키데이터 Q1416717 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

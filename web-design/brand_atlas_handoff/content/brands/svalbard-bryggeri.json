@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q37347386",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "svalbard-bryggeri",
+  "urlSlug": "svalbard-bryggeri",
+  "name": "Svalbard Bryggeri",
+  "nameKo": "",
+  "nameEn": "Svalbard Bryggeri",
+  "definition": "Svalbard Bryggeri는 노르웨이 스발바르 제도 스피츠베르겐 섬의 롱이어비엔에 있는 소규모 양조장이다. 북위 78도에 위치하며 세계에서 가장 북쪽에 있는 상업 양조장으로 알려져 있다.",
+  "summary": "Svalbard Bryggeri는 노르웨이 스발바르 제도 스피츠베르겐 섬의 롱이어비엔에 있는 소규모 양조장이다. 북위 78도에 위치하며 세계에서 가장 북쪽에 있는 상업 양조장으로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "북위 78도의 스발바르 제도에서 빙하 녹은 물을 일부 사용해 맥주를 만드는, 세계 최북단의 상업 양조장이라는 점이 다른 양조장과 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 노르웨이 스발바르 제도 스피츠베르겐 섬의 롱이어비엔에서 맥주를 만드는 소규모 양조장이다. 북위 78도에 자리해 세계에서 가장 북쪽에 있는 상업 양조장으로 알려져 있으며, 위키데이터 기준 본사도 스발바르 제도에 있다. 양조에 쓰는 물의 16%는 2,000년 된 Bogerbreen 빙하에서 나온 얼음을 녹인 물이라는 점이 이 양조장 맥주의 특징이다. Spitsbergen이라는 이름으로 IPA, 페일 에일, 필스너, 스타우트, 바이스비어, 라거, 블론드 등을 내놓는다. 캔 맥주는 노르웨이 본토 전역에 유통되며, 수출이 차지하는 비중도 점차 늘고 있다. 롱이어비엔을 찾는 방문객에게는 맥주 시음도 제공한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키데이터에 따르면 이 양조장은 2011년에 설립되었고, 본사는 스발바르 제도에 있다. 스발바르 제도에서는 노르웨이 법이 주류의 상업적 생산을 금지하고 있어, 양조장을 세우려면 법 개정이 필요했다. 노르웨이 의회(Storting)가 법을 개정한 뒤에야 현지 생산이 가능해졌다. 이탈리아의 장비 공급업체가 양조 설비를 납품하고 설치했으며, 이를 바탕으로 생산은 2015년에야 시작되었다. 이후 캔 맥주가 노르웨이 본토 전역으로 유통되기 시작했고, 수출 비중도 점차 늘고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Spitsbergen이라는 이름을 붙인 일곱 가지 맥주 계열이다. 라인업에는 Spitsbergen IPA, Spitsbergen Pale ale, Spitsbergen Pilsner, Spitsbergen Stout가 포함된다. 여기에 Spitsbergen Weißbier, Spitsbergen Rav Lager, Spitsbergen Blonde도 있다. 제품은 캔 맥주 형태로 노르웨이 본토 전역에 유통되며 일부는 수출되고, 양조 용수의 16%는 2,000년 된 Bogerbreen 빙하의 녹은 얼음이다. 롱이어비엔을 방문하는 사람들을 대상으로 한 맥주 시음도 이 양조장이 제공하는 서비스 가운데 하나이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 양조장은 노르웨이 스발바르 제도의 스피츠베르겐 섬 롱이어비엔에서 운영되는 소규모 양조장이며, 세계 최북단의 상업 양조장으로 꼽힌다. 이곳에서 만든 캔 맥주는 노르웨이 본토 전역에 유통되고 있으며, 수출이 차지하는 비중은 점차 늘어나는 추세이다. 롱이어비엔을 찾는 방문객에게는 맥주 시음 프로그램도 제공한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "북위 78도의 스발바르 제도에서 빙하 녹은 물을 일부 사용해 맥주를 만드는, 세계 최북단의 상업 양조장이라는 점이 다른 양조장과 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.svalbardbryggeri.no/",
+  "entityLinks": {
+   "wikidata": "Q37347386",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q37347386",
+    "https://en.wikipedia.org/wiki/Svalbard_Bryggeri"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q37347386",
+   "country": "노르웨이",
+   "inception": "2011",
+   "headquarters": "스발바르 제도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Svalbard Bryggeri」 본문과 위키데이터 Q37347386 팩트를 근거로 편집"
+ }
+}

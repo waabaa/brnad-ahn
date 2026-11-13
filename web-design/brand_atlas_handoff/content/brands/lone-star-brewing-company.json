@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q6671394",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "lone-star-brewing-company",
+  "urlSlug": "lone-star-brewing-company",
+  "name": "Lone Star Brewing Company",
+  "nameKo": "",
+  "nameEn": "Lone Star Brewing Company",
+  "definition": "Lone Star Brewing Company는 1884년 미국 텍사스 샌안토니오에서 설립되어 Alamo Beer를 양조한 맥주 회사이다. 1940년 같은 이름의 별개 회사가 세워져 Lone Star Beer를 만들었고, 현재 이름은 Pabst Brewing Company 소유이다.",
+  "summary": "Lone Star Brewing Company는 1884년 미국 텍사스 샌안토니오에서 설립되어 Alamo Beer를 양조한 맥주 회사이다. 1940년 같은 이름의 별개 회사가 세워져 Lone Star Beer를 만들었고, 현재 이름은 Pabst Brewing Company 소유이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1884년 Alamo Beer 회사와 1940년 세워진 무관한 동명 회사가 공존하는 이름이며, 옛 양조장 건물이 1925년부터 미술 소장품을 보관해 온 점이 독특하다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lone Star Brewing Company는 미국 텍사스 샌안토니오에서 시작된 맥주 양조 브랜드의 이름이다. 1884년에 설립된 첫 회사는 Alamo Beer를 양조했으며 1919년에 운영을 중단했다. 1940년 같은 샌안토니오에서 이름만 같고 관련 없는 새 회사가 세워져 Lone Star Beer를 양조했다. 1999년 기준으로 이 회사는 Pabst Brewing Company가 소유하며, 2025년 기준으로 맥주는 텍사스에서 Anheuser-Busch가 생산한다. 샌안토니오의 성처럼 생긴 Old Lone Star Brewery 건물은 1895년부터 1904년 사이에 지어졌다. 이 건물은 1925년부터 지금의 San Antonio Museum of Art가 된 미술 소장품을 보관해 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1884년 텍사스 샌안토니오에서 설립된 첫 회사는 Alamo Beer를 양조했으며, 위키데이터는 창업자를 Adolphus Busch I로 기록한다. 이 회사는 1919년 운영을 중단했다. 금주법이 끝난 1933년 이후 새 양조장이 Sabinas Brewing Company라는 이름으로 세워져 1939년까지 운영되었고, 이후 Champion Brewing Company라는 이름을 거쳐 1940년 미주리주 캔자스시티의 Muchlebach Brewing Company에 인수되었다. 이 회사가 Lone Star Brewing Company로 이름을 바꾸고 그해 Lone Star Beer를 본격 생산했다. 1949년 Harry Jersig의 지휘 아래 상장했고, 1965년 연간 판매량은 1 million barrels를 넘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1940년 뮌헨 출신 양조자 Peter Kreil이 배합을 만든 Lone Star Beer이다. 1884년에 설립된 첫 회사의 제품은 Alamo Beer였다. 이후 Lone Star Light, 저칼로리 Lime Lager(1970), Brut Super Premium(1969)을 생산했다. 1990년대에는 Lone Star Ice와 Lone Star Dry를 짧은 기간 선보였다. 1956년에는 Buckhorn Saloon and Museum 소장품을 구입해 양조장 부지에 보관용 건물을 세웠다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1976년 Olympia Brewing Co.가 인수했고, 1983년 G. Heileman이 Olympia를 사면서 소유주가 다시 바뀌었다. Stroh Brewery Co.가 Heileman을 인수한 뒤 1996년 샌안토니오 양조장을 닫고 텍사스 Longview로 생산을 옮겼다. 1999년 Pabst가 Stroh 브랜드 대부분과 함께 Lone Star를 샀다. 현재 생산은 Pabst 소유가 아닌 양조장에 위탁되며, 2025년 초부터 휴스턴의 Anheuser-Busch가 맡는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1884년 Alamo Beer 회사와 1940년 세워진 무관한 동명 회사가 공존하는 이름이며, 옛 양조장 건물이 1925년부터 미술 소장품을 보관해 온 점이 독특하다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://lonestarbeer.com/",
+  "entityLinks": {
+   "wikidata": "Q6671394",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6671394",
+    "https://en.wikipedia.org/wiki/Lone_Star_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6671394",
+   "country": "미국",
+   "inception": "1884",
+   "headquarters": "샌안토니오",
+   "founders": [
+    "Adolphus Busch I"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Lone Star Brewing Company」 본문과 위키데이터 Q6671394 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q29043471",
+ "demand": {
+  "why": "국외",
+  "naver": 0.016,
+  "koViews": 1326,
+  "enViews": 77253,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/neuralink-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "neuralink",
+  "urlSlug": "neuralink",
+  "name": "뉴럴링크",
+  "nameKo": "뉴럴링크",
+  "nameEn": "Neuralink",
+  "definition": "뉴럴링크(Neuralink)는 이식 가능한 뇌-컴퓨터 인터페이스(BCI)를 개발하는 미국의 신경기술 기업이다. 2016년에 설립되었으며 Elon Musk가 창업자로 참여했다.",
+  "summary": "뉴럴링크(Neuralink)는 이식 가능한 뇌-컴퓨터 인터페이스(BCI)를 개발하는 미국의 신경기술 기업이다. 2016년에 설립되었으며 Elon Musk가 창업자로 참여했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.483333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "뇌에 초박형 탐침을 삽입하는 시스템과 이를 수행하는 신경외과 로봇을 직접 개발하는 신경기술 기업이다. Elon Musk가 참여해 설립했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "뉴럴링크는 이식 가능한 뇌-컴퓨터 인터페이스(BCI)를 개발하는 미국의 신경기술 기업이다. 2016년에 설립되어 2017년 3월에 처음으로 대중에 공개되었다. 2017년 4월에는 단기적으로 심각한 뇌 질환 치료용 장치를 만드는 것을 목표로 하며, 궁극적인 목표는 트랜스휴머니즘이라고도 불리는 인체개조라고 발표했다. 2024년 1월 29일 머스크는 뉴럴링크 장치를 인간에게 성공적으로 이식했으며 환자가 회복 중이라고 발표했다. 2024년 9월에는 시각 겉질이 손상되지 않은 맹인이 어느 정도 시력을 되찾도록 하는 블라인드사이트 개발을 발표했다. 다만 의료 시험 후 안락사된 영장류의 수가 많다는 비판도 제기되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뉴럴링크는 2016년 Elon Musk와 8명의 과학자 및 엔지니어 창립 팀이 설립했다. 초기 채용에는 신경과학, 생화학, 로봇 공학 전문가가 포함되었다. 2017년 3월에 처음으로 대중에 공개되었고, 2018년에는 Jared Birchall이 CEO, CFO, 사장으로 등재되었다. 2018년 9월 기준 머스크는 최대 주주였지만 경영직은 맡지 않았다. 2019년까지 1억 5천 8백만 달러의 자금(1억 달러는 머스크가 지원)을 유치했고 직원은 90명이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "탐침은 폴리이미드와 얇은 금 또는 백금 도체로 만들어지며, 수술 로봇이 자동화된 과정으로 뇌에 삽입한다. 각 탐침은 48개 또는 96개의 와이어를 포함하고, 각 와이어는 32개의 독립적인 전극을 포함한다. 수술 로봇은 직경 25μm의 텅스텐-레늄 바늘을 갖춘 삽입 헤드로 분당 최대 6개의 와이어(192개 전극)를 삽입할 수 있다. 전자 장치로는 1,536채널 녹음 시스템을 만들기 위한 애플리케이션별 집적회로를 개발했다. 블라인드사이트는 시각 겉질이 손상되지 않은 맹인이 어느 정도 시력을 되찾도록 하는 개발 노력이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 기준 본사는 캘리포니아주 프리몬트에 있으며, 텍사스주 델 발레의 오스틴 근처에 3층 건물을 지을 계획이다. 2024년 2월 8일에는 법인 등록지를 델라웨어에서 네바다로 변경했다. 2024년 9월 발표한 블라인드사이트는 미국 연방 정부로부터 '획기적인' 지위를 얻었다. 2025년 4월에는 미국 중소기업청(SBA)에 제출한 연방 서류에서 자신을 '소외된 소기업'으로 허위 표기했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "뇌에 초박형 탐침을 삽입하는 시스템과 이를 수행하는 신경외과 로봇을 직접 개발하는 신경기술 기업이다. Elon Musk가 참여해 설립했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://neuralink.com/",
+  "entityLinks": {
+   "wikidata": "Q29043471",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29043471",
+    "https://ko.wikipedia.org/wiki/%EB%89%B4%EB%9F%B4%EB%A7%81%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Neuralink"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q29043471",
+   "country": "미국",
+   "inception": "2016",
+   "headquarters": "Pioneer Building",
+   "founders": [
+    "일론 머스크",
+    "Jared Birchall"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「뉴럴링크」 요약과 위키데이터 Q29043471 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

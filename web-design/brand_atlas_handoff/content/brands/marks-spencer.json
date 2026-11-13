@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q714491",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/marks-spencer-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "marks-spencer",
+  "urlSlug": "marks-spencer",
+  "name": "마크스 & 스펜서",
+  "nameKo": "마크스 & 스펜서",
+  "nameEn": "Marks & Spencer",
+  "definition": "마크스 & 스펜서(Marks & Spencer)는 의류, 뷰티 제품, 홈 제품, 식품을 판매하는 영국의 다국적 소매업체이다. M&S로 줄여 부르며 런던 증권거래소에 상장되어 있다.",
+  "summary": "마크스 & 스펜서(Marks & Spencer)는 의류, 뷰티 제품, 홈 제품, 식품을 판매하는 영국의 다국적 소매업체이다. M&S로 줄여 부르며 런던 증권거래소에 상장되어 있다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "의류와 식품을 함께 파는 영국의 대표적 소매업체로, 1884년 리즈의 penny bazaar에서 출발해 자체 브랜드 중심으로 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "M&S로 줄여 부르고 구어로 Marks & Sparks 또는 Marks라고도 불리는 영국의 대형 다국적 소매업체이다. 런던에 기반을 두고 의류, 뷰티 제품, 홈 제품, 식품을 전문으로 판매한다. 런던 증권거래소에 상장되어 있으며 FTSE 100 지수 구성 종목이다. 텔레비전 광고를 통해 식품과 음료의 고급스러운 이미지를 내세운다. 1980년에는 영국 슈퍼마켓 체인 가운데 처음으로 포장 샌드위치를 판매했다. 1998년에는 영국 소매업체 가운데 처음으로 세전 이익 £1 billion을 넘겼으나 이후 갑작스러운 부진을 겪었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1884년 Michael Marks와 Thomas Spencer가 리즈에서 창업했다. Marks는 지금의 벨라루스에 있는 Slonim에서 태어난 폴란드계 유대인으로 1880년대 초 리즈로 이주했고, Spencer는 North Yorkshire의 Skipton 출신 회계원이었다. Marks는 Isaac Jowitt Dewhirst에게서 £5를 빌려 Kirkgate Market에 penny bazaar를 열었다. 1894년 Marks가 리즈 상설 시장에 고정 점포를 얻자 Spencer를 동업자로 초대했다. Spencer는 1905년, Marks는 1907년에 사망했고, 1916년 Marks의 아들 Simon이 회장이 되어 다른 penny bazaar 체인을 인수하며 사업을 키웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "의류, 뷰티 제품, 홈 제품, 식품을 판매한다. 직물류는 1926년, 식품은 1931년부터 팔기 시작했다. 1928년 도입한 \"St Michael\" 브랜드는 1941년 식품으로 확대되어 1956년까지 다른 브랜드를 모두 대체했다. 1990년대까지 영국산 제품 99%를 판매하는 정책으로 명성을 쌓았고, 영수증이 있으면 구매 시기와 관계없이 전액 환불해 주었다. 온라인 식품 배달은 Ocado와의 합작 사업으로 제공하며, 2008년 11월부터 Kellogg's corn flakes 같은 타사 브랜드 제품도 판매했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 5월 M&S는 2022년까지 매장 100곳 이상을 닫는 계획을 발표했고, 2020년에는 COVID-19 팬데믹으로 7,000개 일자리를 줄였다. 2021년 5월에는 이후 10년간 매장 30곳을 추가로 닫겠다고 밝혔다. 2024년 실적 발표에서는 영국 내 매장을 풀라인 180곳과 식품 매장 420곳으로 줄이겠다는 목표를 제시했고, 기존 매장은 운영 비용이 더 많이 든다고 설명했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "의류와 식품을 함께 파는 영국의 대표적 소매업체로, 1884년 리즈의 penny bazaar에서 출발해 자체 브랜드 중심으로 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://marksandspencer.ie",
+  "entityLinks": {
+   "wikidata": "Q714491",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q714491",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EC%8A%A4_%26_%EC%8A%A4%ED%8E%9C%EC%84%9C",
+    "https://en.wikipedia.org/wiki/Marks_%26_Spencer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q714491",
+   "country": "영국",
+   "inception": "1884",
+   "headquarters": "리즈",
+   "founders": [
+    "Michael Marks",
+    "Thomas Spencer"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Marks & Spencer」 본문과 위키데이터 Q714491 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

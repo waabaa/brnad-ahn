@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q520174",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "karlsberg",
+  "urlSlug": "karlsberg",
+  "name": "Karlsberg",
+  "nameKo": "",
+  "nameEn": "Karlsberg",
+  "definition": "Karlsberg는 1878년 Homburg에서 설립된 독일의 양조회사이다. 독일 최대 규모 양조장 중 하나로, Karlsberg Group을 통해 여러 맥주 브랜드를 함께 소유한다.",
+  "summary": "Karlsberg는 1878년 Homburg에서 설립된 독일의 양조회사이다. 독일 최대 규모 양조장 중 하나로, Karlsberg Group을 통해 여러 맥주 브랜드를 함께 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "1878년 독일 자를란트의 Homburg에서 설립되어 창업 가문이 소유권을 이어 온 양조 그룹으로, 무알코올 음료가 매출의 절반 넘게 차지한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Karlsberg는 독일에서 가장 큰 규모에 속하는 양조장 중 하나이다. Karlsberg Group은 자사 브랜드 외에도 여러 다른 맥주 브랜드를 직접 소유하고 유통하는 기업 집단이다. 독일 밖에서는 덴마크의 양조회사 Carlsberg와 구별하기 위해 Karlsbräu라는 이름으로 불린다. 양조장은 1878년 당시 바이에른에 속했던 자를란트의 Homburg에서 설립되었다. 소유권은 여러 세대에 걸쳐 설립자의 가문 안에서 이어져 왔다. 맥주 외에도 주스 생산 회사와 광천수 브랜드를 거느리고 있으며, 2004/05 회계연도 기준으로 무알코올 음료가 회사 매출의 50% 이상을 차지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Karlsberg는 1878년 당시 바이에른에 속했던 자를란트의 Homburg에서 설립되었다. 양조장의 이름은 인근에 있던 Karlsberg Castle에서 따왔다. 소유권은 여러 세대에 걸쳐 설립자의 가문 안에서 대대로 이어져 내려왔다. 현재 소유주인 Richard Weber는 설립자의 증손자이다. 2001년에는 Nestlé로부터 Mineralbrunnen Überkingen-Teinach의 경영권 지분을 인수하며 맥주 외 음료 사업으로 영역을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주 브랜드로는 Karlsberg, Beckers, Ottweiler, Kasteel이 있다. Kasteel 계열의 Kasteel Cru는 샴페인 효모를 사용해 Saverne에서 양조하는 라거이다. Karlsberg Group은 Koblenz의 독일 양조장 Königsbacher와 프랑스 양조장 Brasserie de Saverne도 소유하고 유통한다. 주스 생산업체 Merziger, Klindworth, Niehoffs Vaihinger도 그룹에 속한다. Mineralbrunnen Überkingen-Teinach를 통해 Afri-Cola와 광천수 브랜드 Staatlich Fachingen, 슈바르츠발트의 Hirschquelle도 보유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Karlsberg는 현재 설립자의 증손자인 Richard Weber가 소유하고 있다. 2004/05 회계연도 매출은 691 million euros였으며, 이 가운데 무알코올 음료가 50% 이상을 차지했다. 맥주와 주스, 광천수, Afri-Cola를 아우르는 그룹으로 운영되며, 독일 밖에서는 Karlsbräu라는 이름으로 불린다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1878년 독일 자를란트의 Homburg에서 설립되어 창업 가문이 소유권을 이어 온 양조 그룹으로, 무알코올 음료가 매출의 절반 넘게 차지한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://karlsberg.de/",
+  "entityLinks": {
+   "wikidata": "Q520174",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q520174",
+    "https://en.wikipedia.org/wiki/Karlsberg_(brewery)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q520174",
+   "country": "독일",
+   "inception": "1878",
+   "headquarters": "Homburg",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Karlsberg (brewery)」 본문과 위키데이터 Q520174 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q309865",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/tele2-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tele2",
+  "urlSlug": "tele2",
+  "name": "텔레2",
+  "nameKo": "텔레2",
+  "nameEn": "Tele2",
+  "definition": "텔레2(Tele2)는 스웨덴 스톡홀름에 본사를 둔 통신 기업이다. 소비자와 기업에 모바일·유선 연결, 전화, 데이터 네트워크, TV, 스트리밍, 사물인터넷 서비스를 제공한다.",
+  "summary": "텔레2(Tele2)는 스웨덴 스톡홀름에 본사를 둔 통신 기업이다. 소비자와 기업에 모바일·유선 연결, 전화, 데이터 네트워크, TV, 스트리밍, 사물인터넷 서비스를 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 Kinnevik 계열에서 출발해 여러 유럽 국가로 확장했다가, 현재는 스웨덴과 발트 3국에 집중하는 통신 사업자라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "텔레2는 소비자와 기업에 모바일·유선 연결, 전화, 데이터 네트워크 서비스, TV, 스트리밍, 글로벌 사물인터넷 서비스를 제공하는 통신 사업자이다. 본사는 스웨덴 스톡홀름의 Kista Science City에 있다. 스웨덴, 에스토니아, 라트비아, 리투아니아에서 주요 이동통신망 사업자로 자리하고 있다. 한때 오스트리아, 벨기에, 프랑스, 러시아 등 여러 나라에서 사업을 했으나 이후 철수하거나 매각했고, 현재는 스웨덴과 발트 3국에서 운영한다. 2018년 11월에는 TV, 광대역, 전화 서비스를 제공하던 통신 사업자 Com Hem과 합병했다. 2024년에는 프랑스 통신 그룹 Iliad 계열의 Freya Investissement를 통해 Iliad SA에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "텔레2의 뿌리는 1981년 국영 기업 Televerket(현 Telia Company)의 대안 이동전화 사업자로 출발한 Comvik이다. Comvik은 1988년 GSM 면허를 얻으며 Comviq로 이름을 바꾸었고 1992년 영업을 시작했다. 1991년 Investment AB Kinnevik이 스웨덴 최초의 상업 ISP인 Swipnet을 시작했으며, 이것이 이후 Tele2로 이름이 바뀌었다. 1993년 스웨덴 통신 자유화와 함께 국제전화를 제공하기 시작했고, 1997년 Comviq, Kabelvision, Tele2가 유선은 Tele2, 이동통신은 Comviq 브랜드로 통합되었다. 이후 에스토니아, 리투아니아, 라트비아, 러시아, 프랑스 인수를 통해 해외로 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "텔레2는 소비자와 기업에 모바일 및 유선 연결, 전화, 데이터 네트워크 서비스, TV, 스트리밍, 글로벌 사물인터넷 서비스를 제공한다. 스웨덴에서 이동통신은 1997년부터 Comviq 브랜드로, 유선 서비스는 Tele2 브랜드로 제공되었다. 2016년 6월에는 덴마크 TDC Group으로부터 B2B 서비스 사업자 TDC Sweden AB를 인수했다. Com Hem과의 합병 후 2020년 초 Com Hem 고객이 아니어도 이용할 수 있는 스트리밍 서비스 Comhem Play+를 출시했고, 이 서비스는 2022년 1월 Tele2 Play로 이름을 바꾸었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 Kinnevik이 지분을 매각하면서 Iliad 계열사 Freya Investissement를 통해 Iliad SA가 Tele2 AB를 인수했다. 현재 스웨덴과 발트 3국인 에스토니아, 라트비아, 리투아니아에서 사업을 운영한다. 2022년에는 Science Based Targets initiative로부터 북유럽과 발트 지역 기업 중 처음으로 과학 기반 넷제로 목표를 승인받았고, 2024년에는 Time 평가에서 스웨덴에서 가장 지속가능한 기업으로 인정받으며 세계 37위에 올랐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 Kinnevik 계열에서 출발해 여러 유럽 국가로 확장했다가, 현재는 스웨덴과 발트 3국에 집중하는 통신 사업자라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tele2.com/",
+  "entityLinks": {
+   "wikidata": "Q309865",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q309865",
+    "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%882",
+    "https://en.wikipedia.org/wiki/Tele2"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q309865",
+   "country": "스웨덴",
+   "inception": "1993",
+   "headquarters": "스톡홀름",
+   "founders": [
+    "얀 스텐베크"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Tele2」 본문과 위키데이터 Q309865 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

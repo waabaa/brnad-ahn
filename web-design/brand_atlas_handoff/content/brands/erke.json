@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q1230766",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "erke",
+  "urlSlug": "erke",
+  "name": "ERKE",
+  "nameKo": "",
+  "nameEn": "ERKE",
+  "definition": "ERKE는 중국 기업 HongXing Erke Group이 소유한 스포츠웨어 브랜드이다. 신발과 스포츠웨어를 전문으로 하며 2000년에 설립되었고 본사는 취안저우시에 있다.",
+  "summary": "ERKE는 중국 기업 HongXing Erke Group이 소유한 스포츠웨어 브랜드이다. 신발과 스포츠웨어를 전문으로 하며 2000년에 설립되었고 본사는 취안저우시에 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "중국 HongXing Erke Group 소유의 신발·스포츠웨어 브랜드로, 올림픽위원회와 축구, 테니스, 탁구 등 여러 종목을 후원해 온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ERKE는 신발과 스포츠웨어를 전문으로 하는 스포츠웨어 브랜드이다. 중국 기업 HongXing Erke Group이 소유하고 있으며, 2000년에 설립되어 본사는 취안저우시에 있다. 중국 올림픽 대표팀 안에서 주요 스포츠 스타들을 후원해 왔다. Korea DPR 축구 대표팀의 공식 유니폼 후원사였고, 2012 WTA Tour Championships와 Shanghai ATP 1000 테니스 대회의 공식 의류 후원사이기도 했다. Qatar Open 탁구 대회에서도 공식 의류 후원사 역할을 했다. 후원 대상은 크로아티아 올림픽위원회, Gombak United FC, 독일 Fed Cup 팀 등 여러 종목과 국가에 걸쳐 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 브랜드는 중국 기업 HongXing Erke Group이 소유하고 있으며 본사는 취안저우시에 있다. 2020년 HongXing Erke의 매출은 2.8 billion, 순이익은 220 million 손실이 될 것으로 보도됐다. 후원 활동으로는 크로아티아 올림픽위원회, 축구 클럽 Gombak United FC, 독일 Fed Cup 팀 등이 알려져 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국 HongXing Erke Group 소유의 신발·스포츠웨어 브랜드로, 올림픽위원회와 축구, 테니스, 탁구 등 여러 종목을 후원해 온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://erke.com/",
+  "entityLinks": {
+   "wikidata": "Q1230766",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1230766",
+    "https://en.wikipedia.org/wiki/Erke_(brand)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1230766",
+   "country": null,
+   "inception": "2000",
+   "headquarters": "취안저우시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Erke (brand)」 본문과 위키데이터 Q1230766 팩트를 근거로 편집"
+ }
+}

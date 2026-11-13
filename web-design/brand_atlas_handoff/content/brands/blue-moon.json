@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q8248915",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "blue-moon",
+  "urlSlug": "blue-moon",
+  "name": "블루문",
+  "nameKo": "블루문",
+  "nameEn": "Blue Moon",
+  "definition": "블루문(Blue Moon)은 Molson Coors가 Blue Moon Brewing Co.라는 이름으로 양조하는 벨기에식 윗비어(witbier) 맥주이다. 1995년에 출시했고 처음에는 미국 콜로라도주 골든에서 양조했다.",
+  "summary": "블루문(Blue Moon)은 Molson Coors가 Blue Moon Brewing Co.라는 이름으로 양조하는 벨기에식 윗비어(witbier) 맥주이다. 1995년에 출시했고 처음에는 미국 콜로라도주 골든에서 양조했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "오렌지 조각을 곁들여 마시는 벨기에식 윗비어이다. Molson Coors 소속이면서 크래프트 맥주 표기 논란과 \"Belgian White\" 명칭 소송을 겪은 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "블루문은 Molson Coors가 Blue Moon Brewing Co.라는 이름으로 양조하는 벨기에식 윗비어 브랜드이다. 대표 제품은 Blue Moon Belgian White이며 1995년에 출시했다. 맥아 보리, 흰 밀, 오렌지 껍질, 고수, 귀리가 원료에 들어가고, 양조 책임자들은 오렌지 조각을 곁들이면 맛이 두드러진다고 주장한다. 캔, 병, 케그로 판매하며 알코올 도수는 부피 기준 5.4%이다. Blue Moon Brewing Co.는 Molson Coors의 크래프트·수입 맥주 부문인 Tenth and Blake Beer Company에 속한 조직이다. 2012년에는 병에 MillerCoors가 만든다는 표기가 없다는 이유로 Brewers Association의 비판을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 맥주는 처음에 Bellyslide Belgian White라는 이름이었다. Molson Coors Brewing Company 소유인 덴버 Coors Field의 Sandlot Brewery에서 일하던 양조사 Keith Villa가 만들었다. 1995년에 출시했고 처음에는 미국 콜로라도주 골든에서 양조했다. 1999년 Confédération des Brasseries de Belgique가 당시 Coors Brewing Company를 상대로 \"Belgian White\" 표현 사용을 문제 삼아 소송을 제기했다. Coors는 법정 밖에서 합의하고 표기를 \"Belgian-style Wheat Ale\"로 바꾸기로 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "원조 Belgian White 외에 계절 제품을 선보였다. 여름 제품 Summer Ale은 2006년 Honey Moon으로 이름을 바꿨고 2011년 Summer Honey Wheat가 되었다. 가을 제품 Pumpkin Ale은 2007년 Harvest Moon으로 바꿨다가 이후 Harvest Pumpkin Ale이라는 이름으로 판매한다. 겨울 제품 Winter Abbey Ale은 2007년 Full Moon이 되었고 2012년 Mountain Abbey Ale로 바꿨다. 봄 제품은 Rising Moon으로 알려졌다가 2013년 Valencia Grove Amber가 되었고, 2008년에는 페일 에일 Pale Moon을 출시했으며 지금은 Rounder라는 이름으로 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "블루문은 현재 Molson Coors의 크래프트·수입 맥주 부문인 Tenth and Blake Beer Company에 속해 있다. 2024년 기준으로 Sandlot Brewery에서 여전히 양조하며, 캐나다 몬트리올의 Molson Brewery에서도 양조한다. 몬트리올 생산분은 지역과 다른 시설의 공급 상황에 따라 미국에서 판매할 수 있고 유럽으로 수출할 수도 있다. 캐나다에서는 2015년 \"Belgian Moon\"이라는 이름으로 도입했고 2022년 Blue Moon으로 바꿨다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오렌지 조각을 곁들여 마시는 벨기에식 윗비어이다. Molson Coors 소속이면서 크래프트 맥주 표기 논란과 \"Belgian White\" 명칭 소송을 겪은 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bluemoonbrewingcompany.com/currently-available/blue-moon-belgian-white",
+  "entityLinks": {
+   "wikidata": "Q8248915",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8248915",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A3%A8%EB%AC%B8_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Blue_Moon_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q8248915",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Blue Moon (beer)」 본문과 위키데이터 Q8248915 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q332980",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/air-europa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "air-europa",
+  "urlSlug": "air-europa",
+  "name": "에어 유로파",
+  "nameKo": "에어 유로파",
+  "nameEn": "Air Europa",
+  "definition": "에어 유로파(Air Europa)는 스페인의 항공사이다. 스카이팀 회원이며, 마드리드 바라하스 국제공항을 허브 공항으로 삼아 국내선과 유럽, 아메리카 노선을 운항한다.",
+  "summary": "에어 유로파(Air Europa)는 스페인의 항공사이다. 스카이팀 회원이며, 마드리드 바라하스 국제공항을 허브 공항으로 삼아 국내선과 유럽, 아메리카 노선을 운항한다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "스페인의 항공사로 마드리드 바라하스 국제공항을 허브로 하며, 2010년에 스카이팀 정회원이 되어 유럽과 아메리카 노선을 함께 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에어 유로파(Air Europa)는 1986년에 설립된 스페인의 항공사이며 스카이팀의 회원이다. 유럽 쪽으로는 북유럽과 서유럽, 카나리아 제도와 발레아레스 제도를 오가는 항공편을 운영한다. 국내선과 함께 남아메리카, 북아메리카, 서인도 제도를 오가는 장거리 항공편도 운영하고 있다. 허브 공항은 마드리드 바라하스 국제공항이며 이곳이 운항의 거점이다. 본사는 Llucmajor에 있으며, 모기업은 Globalia Corporación Empresarial이다. 2007년에 스카이팀에 가입했고 2010년에 정회원이 되었으며, 2020년 7월 기준 보유 기종의 평균 기령은 6.9년이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1986년 British ILG, Air Europe Group, 스페인 은행의 출자로 에어 유로파가 설립되었다. 에어 유로파는 보잉 737을 도입해 스페인과 지중해를 연결하는 항공편을 처음 개설했다. 1991년에 모회사 ILG가 소멸했고, 보잉 737로 운항을 시작했다. 1998년에 이베리아반도의 권한을 획득하면서 1990년대 후반에 보잉 737의 서비스를 한층 더 강화했다. 2007년에 스카이팀에 가입했고 2010년에 정회원이 되었으며, 2012년 4월 13일 보잉 767-300ER 기종을 퇴역했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에어 유로파는 유럽 쪽으로는 북유럽과 서유럽, 카나리아 제도와 발레아레스 제도를 오가는 항공편을 운영한다. 국내선 외에 남아메리카, 북아메리카, 서인도 제도를 오가는 장거리 항공편도 운항한다. 스카이팀 회원사로서 다른 항공사와 코드쉐어 협정을 맺고 있으며, 코드쉐어는 주로 스카이팀 회원 항공사와 한다. 2020년 7월 기준으로 에어 유로파가 보유한 기종의 평균 기령은 6.9년이다. 초기에는 보잉 737을 도입해 스페인과 지중해를 연결하는 항공편을 처음 개설했고, 2012년 4월 13일에는 보잉 767-300ER 기종을 퇴역했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "에어 유로파의 본사는 Llucmajor에 있고 모기업은 Globalia Corporación Empresarial이다. 스카이팀 정회원이며 허브 공항은 마드리드 바라하스 국제공항이다. 2020년 7월 기준으로 보유한 기종의 평균 기령은 6.9년이다. 국내선과 함께 남아메리카, 북아메리카, 서인도 제도를 오가는 장거리 항공편도 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인의 항공사로 마드리드 바라하스 국제공항을 허브로 하며, 2010년에 스카이팀 정회원이 되어 유럽과 아메리카 노선을 함께 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.aireuropa.com/es/es/home",
+  "entityLinks": {
+   "wikidata": "Q332980",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q332980",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EC%9C%A0%EB%A1%9C%ED%8C%8C",
+    "https://en.wikipedia.org/wiki/Air_Europa"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q332980",
+   "country": "스페인",
+   "inception": "1986",
+   "headquarters": "Llucmajor",
+   "founders": [],
+   "parent": "Globalia Corporación Empresarial",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「에어 유로파」 요약과 위키데이터 Q332980 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

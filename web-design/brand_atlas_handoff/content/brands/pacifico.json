@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4570769",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pacifico",
+  "urlSlug": "pacifico",
+  "name": "Pacífico",
+  "nameKo": "",
+  "nameEn": "Pacífico",
+  "definition": "Pacífico는 시날로아주 태평양 항구도시 마사틀란에서 양조하는 멕시코 필스너 스타일 맥주이다. 정식 명칭은 Cerveza Pacífico Clara이다.",
+  "summary": "Pacífico는 시날로아주 태평양 항구도시 마사틀란에서 양조하는 멕시코 필스너 스타일 맥주이다. 정식 명칭은 Cerveza Pacífico Clara이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "태평양 항구도시 마사틀란에서 1900년 독일인 세 명이 시작한 멕시코 필스너 맥주로, 라벨의 구명 튜브와 닻, 등대 언덕 그림이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Pacífico는 멕시코 시날로아주의 태평양 연안 항구도시 마사틀란에서 양조하는 멕시코 필스너 스타일 맥주이다. 이름에 붙은 Clara는 맑고 옅은 색을 뜻하며, 짙은 색을 뜻하는 oscura와 대비된다. 알코올 도수는 4.4퍼센트이다. 라벨에는 마사틀란 항구의 등대 언덕 위에 닻을 두른 구명 튜브가 겹쳐진 그림이 들어 있고, 이 언덕은 현지에서 Cerro del Crestón으로 불린다. 마사틀란에서는 180 ml, 350 ml, 950 ml의 세 가지 크기 병으로 판매한다. Grupo Modelo를 거쳐 현재는 Anheuser-Busch InBev 계열에 속하며, 미국 내 유통권은 Constellation Brands가 가진다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1900년 독일인 Jorge Claussen, Germán Evers, Emilio Radostits 세 사람이 마사틀란에 Cerveceria del Pacífico 양조장을 열면서 이 맥주가 처음 만들어졌다. 양조장은 1954년 멕시코의 대형 양조업체 Grupo Modelo에 인수되었다. 이후 Grupo Modelo는 2013년 벨기에-브라질계 기업 Anheuser-Busch InBev에 인수되었다. 미국 법무부의 반독점 우려를 해소하기 위해 Anheuser-Busch InBev는 Pacífico와 Grupo Modelo의 다른 브랜드에 대한 미국 내 유통권 전부를 Constellation Brands에 넘겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Cerveza Pacífico Clara이다. 멕시코 필스너 스타일 맥주이며 알코올 도수는 4.4퍼센트이다. Clara는 맑고 옅은 색을 뜻하며 짙은 색의 oscura와 구분된다. 마사틀란에서는 cuartitos(180 ml), medias(350 ml), ballenas(950 ml)라 부르는 세 가지 크기의 병으로 판매한다. 라벨에는 구명 튜브가 닻을 감싼 그림이 등대 언덕 위에 겹쳐 그려져 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Pacífico는 Grupo Modelo의 브랜드이며, Grupo Modelo는 2013년 Anheuser-Busch InBev에 인수되었다. 미국 내 유통권은 반독점 우려를 해소하는 과정에서 Constellation Brands로 이전되었다. 멕시코 시날로아주 마사틀란에서 양조하는 맥주로 소개되며, 마사틀란에서는 세 가지 크기의 병으로 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "태평양 항구도시 마사틀란에서 1900년 독일인 세 명이 시작한 멕시코 필스너 맥주로, 라벨의 구명 튜브와 닻, 등대 언덕 그림이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q4570769",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4570769",
+    "https://en.wikipedia.org/wiki/Pac%C3%ADfico_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4570769",
+   "country": null,
+   "inception": "1900",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Pacífico (beer)」 본문과 위키데이터 Q4570769 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3625571",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "herkenrode-tripel",
+  "urlSlug": "herkenrode-tripel",
+  "name": "Herkenrode Tripel",
+  "nameKo": "",
+  "nameEn": "Herkenrode Tripel",
+  "definition": "Herkenrode Tripel은 벨기에의 Cornelissen Brewery가 Limburg의 Opitter에서 양조하는 Herkenrode 수도원 맥주 계열의 트리펠 맥주이다.",
+  "summary": "Herkenrode Tripel은 벨기에의 Cornelissen Brewery가 Limburg의 Opitter에서 양조하는 Herkenrode 수도원 맥주 계열의 트리펠 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Herkenrode Abbey의 이름을 따 2009년에 출시되어 Erkend Belgisch Abdijbier 명칭을 인정받은 Limburg의 수도원 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Herkenrode는 벨기에 Limburg의 Bree에 속한 Opitter에 있는 Cornelissen Brewery에서 양조하는 벨기에 수도원 맥주이다. 이 양조장은 이전에 Brouwerij Sint-Jozef라는 이름이었다. 브랜드명은 Hasselt에 있던 옛 Herkenrode Abbey에서 따왔으며, 이 수도원에서는 1790년대까지 맥주가 양조되었다. 맥주는 2009년에 출시되었고, 같은 해 6월 벨기에 양조자 연맹이 Erkend Belgisch Abdijbier 명칭과 로고 사용을 인정했다. 2017년부터는 Cister Blond, Vesper Tripel, Noctis Bruin 세 종류가 있다. 이 가운데 Noctis Bruin은 Monde Selection에서 금메달을 두 번 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Herkenrode 맥주는 2009년에 출시되었다. 이름이 된 Herkenrode Abbey는 1192년에 세워진 시토회 수녀원으로, Hasselt의 일부인 Kuringen에 있었고 1790년대 프랑스 혁명의 여파로 폐쇄될 때까지 맥주를 양조했다. 수도원 터를 운영하는 회사 Herkenrode vzw의 회장 Wim Van Lishout은 Loon 백작의 힘, Herkenrode 수녀원장들의 우아함, Herkenrode 약초 정원의 향을 지닌 맥주를 만들어 달라고 의뢰했다. 벨기에 양조자 연맹은 2009년 6월 Herkenrode에 Erkend Belgisch Abdijbier 명칭과 로고를 인정했고, 이는 23번째이자 Limburg에서는 두 번째였다. 처음에는 Tripel과 Bruin 두 가지가 있었으며 2009년 12월에 시장에 나왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "처음에는 Herkenrode Tripel과 Herkenrode Bruin 두 가지 맥주가 있었고, 둘 다 알코올 도수는 7%였다. 두 제품은 2009년 12월에 시장에 나왔다. 2017년부터는 세 종류로 구성되며, Herkenrode Cister Blond는 6.5% vol., Herkenrode Vesper Tripel은 9% vol.이다. 나머지 하나는 Herkenrode Noctis Bruin이다. 이들은 모두 Herkenrode라는 이름으로 나오는 수도원 맥주 계열이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년부터 Herkenrode는 Cister Blond, Vesper Tripel, Noctis Bruin 세 종류로 나온다. Herkenrode Noctis Bruin은 Monde Selection에서 금메달을 두 번 받았고, 2016년 World Beer Awards에서 벨기에 최고의 흑맥주로 선정되었으며, 2017년 Australian International Beer Awards에서 동메달을 받았다. 양조는 Cornelissen Brewery가 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Herkenrode Abbey의 이름을 따 2009년에 출시되어 Erkend Belgisch Abdijbier 명칭을 인정받은 Limburg의 수도원 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q3625571",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3625571",
+    "https://en.wikipedia.org/wiki/Herkenrode_beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3625571",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Herkenrode beer」 본문과 위키데이터 Q3625571 팩트를 근거로 편집"
+ }
+}

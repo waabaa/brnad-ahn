@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1001644",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/budweiser-budvar-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "budweiser-budvar",
+  "urlSlug": "budweiser-budvar",
+  "name": "부데요비츠키 부드바르",
+  "nameKo": "부데요비츠키 부드바르",
+  "nameEn": "Budweiser Budvar",
+  "definition": "부데요비츠키 부드바르(Budweiser Budvar)는 체코 체스케부데요비체에 있는 국영 양조장이다. 아르테시안 물, 모라비아 보리, Saaz 홉으로 빚은 페일 라거 Budweiser로 가장 잘 알려져 있다.",
+  "summary": "부데요비츠키 부드바르(Budweiser Budvar)는 체코 체스케부데요비체에 있는 국영 양조장이다. 아르테시안 물, 모라비아 보리, Saaz 홉으로 빚은 페일 라거 Budweiser로 가장 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "Anheuser-Busch와 Budweiser 상표를 두고 다투는 체코 국영 양조장으로, 아르테시안 물과 최소 90일 숙성으로 만든 페일 라거를 내세운다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 체코에서 네 번째로 큰 맥주 생산업체이며, 해외로 두 번째로 많은 맥주를 수출하는 업체이다. 법인명은 Budějovický Budvar, národní podnik로, “Budweiser Budvar, national enterprise”를 뜻하는 국영 기업이다. 대표 제품인 Budweiser 페일 라거는 20세기 초부터 Anheuser-Busch와 상표 분쟁을 벌여 왔고, 그 결과 일부 국가에는 Czechvar라는 이름으로 수입된다. 2004년 유럽연합은 이 맥주에 Protected Geographical Indication 지위를 부여했다. 2025년 양조량은 1.946 million 헥토리터로 역대 최대였고, 2024년보다 1% 늘었다. 독일에서 가장 많이 팔리는 외국 맥주이며, 영국에서는 가장 많이 팔리는 체코 맥주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "체스케부데요비체(독일어 Budweis)의 양조 역사는 1265년 보헤미아 왕 Ottokar II가 도시에 양조권을 부여한 데서 시작한다. 이 도시의 맥주는 독일어로 “Budweis의 맥주”를 뜻하는 Budweiser Bier로 불렸다. Budweiser Budvar 양조장은 1895년 당시 오스트리아-헝가리 영토였던 체스케부데요비체의 체코계 양조장들이 합병해 Czech Joint Stock Brewery라는 이름으로 설립했다. Budvar라는 이름은 Budějovice Pivovar, 곧 “Budweis Brewery”의 합성어이다. 제2차 세계대전 중 독일 점령과 냉전기 공산 정권 아래에서 생산이 부진했고, 1948년까지 체코의 모든 양조장이 공산 정부에 의해 국유화되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품인 Budweiser는 양조장의 “signature product”이자 “국가적 자부심의 상징”으로 소개된다. 이 맥주는 양조장 아래 우물에서 끌어올린 아르테시안 물, 모라비아 보리, Žatec 지역의 귀족 홉 품종으로 알려진 Saaz 홉으로 만든다. 일반 대중 맥주의 숙성(lagering)이 72시간인 데 비해 이 맥주는 최소 90일 동안 숙성한다. 2004년 유럽연합은 Budweiser Budvar에 Protected Geographical Indication 지위를 부여했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재도 국영 기업으로 운영된다. 연간 양조량은 1990년 450,000 헥토리터에 18개국 수출에서, 2013년 1.42 million 헥토리터에 66개국, 2015년 1.6 million 헥토리터에 76개국으로 늘었다. 양조장은 2015년 1991년 이후 226% 성장했고 최근 10년간 총 판매량이 39% 늘었다고 밝혔다. 2025년에는 1.946 million 헥토리터를 양조해 역대 최대 기록을 세웠다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Anheuser-Busch와 Budweiser 상표를 두고 다투는 체코 국영 양조장으로, 아르테시안 물과 최소 90일 숙성으로 만든 페일 라거를 내세운다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.budejovickybudvar.cz/",
+  "entityLinks": {
+   "wikidata": "Q1001644",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1001644",
+    "https://ko.wikipedia.org/wiki/%EB%B6%80%EB%8D%B0%EC%9A%94%EB%B9%84%EC%B8%A0%ED%82%A4_%EB%B6%80%EB%93%9C%EB%B0%94%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Budweiser_Budvar_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1001644",
+   "country": "체코",
+   "inception": "1895",
+   "headquarters": "체스케부데요비체",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Budweiser Budvar Brewery」 본문과 위키데이터 Q1001644 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

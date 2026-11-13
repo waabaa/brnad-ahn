@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q40990",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/pontiac-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pontiac",
+  "urlSlug": "pontiac",
+  "name": "폰티액",
+  "nameKo": "폰티액",
+  "nameEn": "Pontiac",
+  "definition": "폰티액(Pontiac)은 General Motors가 소유하고 제조하며 판매한 미국의 자동차 브랜드이다. 정식 명칭은 Pontiac Motor Division of General Motors이며 1926년에 도입했다.",
+  "summary": "폰티액(Pontiac)은 General Motors가 소유하고 제조하며 판매한 미국의 자동차 브랜드이다. 정식 명칭은 Pontiac Motor Division of General Motors이며 1926년에 도입했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "성능을 앞세운 General Motors의 \"performance division\"을 자처하며 \"Wide Track\" 설계와 \"we build excitement\" 문구로 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "폰티액은 General Motors가 소유하고 제조하며 판매한 미국의 자동차 브랜드이다. 미국, 캐나다, 멕시코에서 팔렸고 합리적인 가격의 실용적인 이동 수단과 성능을 강조하는 브랜드로 자리 잡았다. General Motors의 다섯 개 사업부 가운데 Chevrolet보다 위, Oldsmobile·Buick·Cadillac보다 아래에 있었다. 1959년형부터는 차 자체보다 소유가 약속하는 생활 방식을 파는 데 마케팅을 집중했다. \"Wide Track\" 설계를 앞세워 스스로를 General Motors의 \"performance division\"으로 내세웠고 \"we build excitement\"라는 문구를 썼다. 2000년대 후반 재정 문제로 General Motors가 브랜드 중단에 합의했고 2010년에 단종했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "폰티액은 1926년 General Motors의 더 비싼 Oakland 라인에 딸린 보조 브랜드로 도입했다. Oakland Motor Car Company는 1907년 Michigan의 Pontiac에서 마차 제조업자 Edward Murphy가 세웠고, 이듬해 William C. Durant가 Michigan의 Flint에서 General Motors를 설립했다. Oakland는 1909년 General Motors의 일부가 되었다. 6기통 엔진을 갖춘 Pontiac Series 6-27은 출시 몇 달 만에 Oakland보다 많이 팔렸다. 1929년 Wall Street Crash 이후 판매가 급감하자 더 비싼 Oakland 대신 폰티액을 남기기로 했고, Oakland는 1931년 단종되어 폰티액이 독립 사업부가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 대표 모델은 6기통 엔진을 얹은 1926년의 Pontiac Series 6-27이다. 이 모델은 1926년 New York Auto Salon에 등장한 지 여섯 달 만에 39,000대, 12개월 만에 76,742대가 팔렸다. 1928년에는 미국에서 가장 많이 팔린 6기통 자동차에 올랐고 전체 판매 순위는 7위를 기록했다. 1932년에는 Series 302 V8을 처음 선보였고, 1933년에는 직렬 8기통으로 바꿔 1954년까지 사용했다. 1933년에는 Chevrolet Master의 부품을 다수 써서 직렬 8기통 엔진을 단 차 중 가장 저렴한 차를 만들었고, 보닛 위 크롬 띠를 \"Silver Streak\"라 불렀다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "폰티액은 현재 판매되지 않는 단종 브랜드이다. 재정 문제를 겪던 General Motors는 $53 billion 규모 정부 구제금융의 전제 조건인 구조조정의 일환으로 브랜드 중단에 합의했다. 마지막 차량인 흰색 G6는 2010년 1월 4일에 조립했고, 딜러 프랜차이즈 계약은 2010년 10월 31일에 만료했다. 이에 따라 General Motors는 북미의 나머지 네 브랜드인 Chevrolet, Buick, Cadillac, GMC에 집중했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "성능을 앞세운 General Motors의 \"performance division\"을 자처하며 \"Wide Track\" 설계와 \"we build excitement\" 문구로 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q40990",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q40990",
+    "https://ko.wikipedia.org/wiki/%ED%8F%B0%ED%8B%B0%EC%95%A1",
+    "https://en.wikipedia.org/wiki/Pontiac_(automobile)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q40990",
+   "country": null,
+   "inception": "1926",
+   "headquarters": "디트로이트",
+   "founders": [
+    "윌리엄 크라포 듀란트"
+   ],
+   "parent": "제너럴 모터스",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Pontiac (automobile)」 본문과 위키데이터 Q40990 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

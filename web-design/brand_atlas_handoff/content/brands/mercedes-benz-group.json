@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q27530",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 1095,
+  "enViews": 87173,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/mercedes-benz-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mercedes-benz-group",
+  "urlSlug": "mercedes-benz-group",
+  "name": "메르세데스-벤츠 그룹 AG",
+  "nameKo": "메르세데스-벤츠 그룹 AG",
+  "nameEn": "Mercedes-Benz Group",
+  "definition": "메르세데스-벤츠 그룹 AG(Mercedes-Benz Group)는 독일 슈투트가르트에 본사를 둔 자동차 제조 그룹이다. 2022년 다임러 AG에서 사명을 변경했다.",
+  "summary": "메르세데스-벤츠 그룹 AG(Mercedes-Benz Group)는 독일 슈투트가르트에 본사를 둔 자동차 제조 그룹이다. 2022년 다임러 AG에서 사명을 변경했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "메르세데스-벤츠 그룹은 승용차부터 상용차, 금융 서비스까지 아우르는 다브랜드 포트폴리오와 중국 자본이 최대주주로 참여한 지분 구조가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메르세데스-벤츠 그룹은 메르세데스-벤츠, 메르세데스-AMG, 메르세데스-마이바흐 등 승용차 브랜드와 상용차 부문을 함께 운영하는 독일의 자동차 제조 그룹이다. 다임러 트럭 북아메리카 산하에 프라이트라이너 트럭, 디트로이트 디젤, 토마스 빌트 버스, 웨스턴 스타 트럭, 미쓰비시후소트럭 버스 등을 두고 있으며, 다임러 모빌리티 아래 메르세데스-벤츠 뱅크와 메르세데스-벤츠 파이낸셜 서비스, 다임러 트럭 파이낸셜 서비스 등 금융 계열사도 갖추고 있다. 지분 구조상 중국 국유기업인 베이징자동차그룹(BAIC)이 9.98%를 보유한 최대주주이고, 지리 자동차가 지분을 매입해 9.69%를 보유한 개인 최대 주주이며, 70% 이상은 기관이 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "메르세데스-벤츠 그룹의 역사는 1926년 다임러와 벤츠가 합병해 다임러-벤츠를 설립하면서 시작됐다. 1998년에는 다임러-벤츠와 미국의 크라이슬러가 합병해 다임러크라이슬러가 설립됐다. 2007년 다임러 측이 크라이슬러의 매각 작업에 착수하면서 다임러-벤츠와 크라이슬러로 분리됐고, 회사명은 다임러 AG로 변경됐다. 2008년에는 크라이슬러 지분 80.1%를 서버러스 캐피털 매니지먼트에 매각하며 완전히 분리됐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "메르세데스-벤츠 그룹은 승용차 브랜드인 메르세데스-벤츠, 메르세데스-AMG, 메르세데스-마이바흐, 스마트를 보유하고 있다. 상용차 부문에서는 메르세데스-벤츠 상용차 부문과 세트라, 다임러 트럭 북아메리카 산하의 프라이트라이너 트럭, 디트로이트 디젤, 토마스 빌트 버스, 웨스턴 스타 트럭, 미쓰비시후소트럭 버스를 운영한다. 금융 부문에서는 다임러 모빌리티 아래 메르세데스-벤츠 뱅크, 메르세데스-벤츠 파이낸셜 서비스, 다임러 트럭 파이낸셜 서비스를 두고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "메르세데스-벤츠 그룹은 2022년 다임러 AG에서 현재의 사명으로 변경됐다. 중국 국유기업인 베이징자동차그룹(BAIC)이 지분 9.98%를 보유한 최대주주이며, 지리 자동차가 지분을 매입해 9.69%를 보유한 개인 최대 주주이고, 70% 이상은 기관이 소유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "메르세데스-벤츠 그룹은 승용차부터 상용차, 금융 서비스까지 아우르는 다브랜드 포트폴리오와 중국 자본이 최대주주로 참여한 지분 구조가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://group.mercedes-benz.com/",
+  "entityLinks": {
+   "wikidata": "Q27530",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27530",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%A5%B4%EC%84%B8%EB%8D%B0%EC%8A%A4-%EB%B2%A4%EC%B8%A0_%EA%B7%B8%EB%A3%B9_AG",
+    "https://en.wikipedia.org/wiki/Mercedes-Benz_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27530",
+   "country": "독일",
+   "inception": "1998",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "한국어 위키백과 「메르세데스-벤츠 그룹 AG」 요약과 위키데이터 Q27530 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q7786476",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "thisted-bryghus",
+  "urlSlug": "thisted-bryghus",
+  "name": "Thisted Bryghus",
+  "nameKo": "",
+  "nameEn": "Thisted Bryghus",
+  "definition": "Thisted Bryghus는 덴마크 북부 Thisted에 있는 지역 양조장이다. 1902년에 설립되었으며 지역 시장에 필스너 맥주를 공급하고, 국제적으로도 인정받는 맥주를 만든다.",
+  "summary": "Thisted Bryghus는 덴마크 북부 Thisted에 있는 지역 양조장이다. 1902년에 설립되었으며 지역 시장에 필스너 맥주를 공급하고, 국제적으로도 인정받는 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "덴마크 최초로 유기농 맥주를 도입한 Thisted의 지역 양조장으로, bog myrtle을 쓴 Porse Guld와 Baltic porter인 Limfjords Porter로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 덴마크 북부의 Thisted에 기반을 둔 지역 양조장으로, 1902년에 설립되었다. 지역 시장에 필스너 맥주를 공급한다. 국제적으로는 Porse Guld와 Limfjords Porter 같은 맥주로 인정받았다. Porse Guld는 bog myrtle을 넣어 향을 낸 맥주이고, Limfjords Porter는 Baltic porter 스타일이다. 1995년에는 덴마크 양조장 가운데 처음으로 유기농 맥주를 선보였다. 2015년에는 덴마크 맥주 애호가 협회 Danske Ølentusiaster의 회원 9,000명이 이 양조장을 올해의 양조장으로 선정했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1902년 덴마크 북부의 Thisted에서 설립되었다. 지역 시장에 필스너 맥주를 공급하는 한편, Porse Guld와 Limfjords Porter 같은 맥주로 국제적으로도 인정을 얻었다. 1995년에는 덴마크 양조장 중 처음으로 유기농 맥주를 도입했다. 2016년에는 국제 크래프트 양조업자 Mikkeller와 협업해 Limfjords Porter의 'beer geek' 버전을 만들었다. 2019년에는 Thisted의 새 양조장에 30 million kroner를 투자했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기본 제품은 지역 시장에 공급하는 필스너 맥주이며, Porse Guld는 bog myrtle을 넣어 향을 낸 맥주이다. Limfjords Porter는 Baltic porter이며, 20세기 맥주 저술가 Michael Jackson은 이 맥주를 성격이 뚜렷하고 풀바디이며 약간 기름진 질감에 알코올 함량 7.9라고 썼다. 그는 짙은 갈색 거품과 슬레이트빛 검은 액체, 길고 따뜻한 여운을 묘사했다. 또한 훈연 맥아와 감초가 쓰였다는 말을 듣고도 놀랍지 않았다고 했다. 2016년에는 Mikkeller와 협업해 이 맥주의 'beer geek' 버전을 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년에 이 양조장은 Thisted의 새 양조장에 30 million kroner를 투자했다. 2015년에는 덴마크 맥주 애호가 협회 Danske Ølentusiaster의 회원 9,000명이 올해의 양조장으로 선정했다. 2016년에는 Mikkeller와 협업한 Limfjords Porter의 'beer geek' 버전을 생산했고, 지역 시장에 필스너 맥주를 공급하는 지역 양조장으로 남아 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "덴마크 최초로 유기농 맥주를 도입한 Thisted의 지역 양조장으로, bog myrtle을 쓴 Porse Guld와 Baltic porter인 Limfjords Porter로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://thisted-bryghus.dk/",
+  "entityLinks": {
+   "wikidata": "Q7786476",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7786476",
+    "https://en.wikipedia.org/wiki/Thisted_Bryghus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7786476",
+   "country": "덴마크",
+   "inception": "1902",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Thisted Bryghus」 본문과 위키데이터 Q7786476 팩트를 근거로 편집"
+ }
+}

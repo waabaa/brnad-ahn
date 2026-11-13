@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2661513",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "belle-vue-brewery",
+  "urlSlug": "belle-vue-brewery",
+  "name": "Belle-Vue Brewery",
+  "nameKo": "",
+  "nameEn": "Belle-Vue Brewery",
+  "definition": "Belle-Vue Brewery는 1913년 벨기에 브뤼셀의 Molenbeek에서 설립된 양조장이다. 람빅 계열의 자연발효 맥주와 과일 맥주를 생산하며, 벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이다.",
+  "summary": "Belle-Vue Brewery는 1913년 벨기에 브뤼셀의 Molenbeek에서 설립된 양조장이다. 람빅 계열의 자연발효 맥주와 과일 맥주를 생산하며, 벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이면서, 단맛이 전통 람빅의 신맛과 거리가 먼 점이 특징이다. Anderlecht의 첫 셔츠 스폰서이기도 했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Belle-Vue는 벨기에의 양조장으로, 람빅 맥주로 알려진 지역과 가까운 브뤼셀 일대에서 출발해 람빅 계열의 자연발효 맥주와 과일 맥주를 만든다. 제품은 Gueuze, Kriek, Kriek Extra, Raspberry 네 종류이며 알코올 도수는 5.5%이다. 벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이지만, 단맛이 강해 전통적인 신맛의 람빅을 대표한다고 보기는 어렵다. 유일한 전통 제품인 Selection Lambic은 생산량이 매우 적었고 1999년 이후에는 생산되지 않았다. 2025년에는 소유주 AB InBev가 Gueuze 생산을 중단하기로 결정했으나 kriek 양조는 이어졌다. 본사는 Zuun에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Belle-Vue Brewery는 1913년 브뤼셀의 Molenbeek에서 설립되었다. 창업자는 람빅 맥주로 알려진 지역에 속한 인근 Itterbeek 출신의 Philémon Vandenstock이다. 그의 아들 Constant vanden Stock은 전직 프로 축구선수이자 벨기에 국가대표팀 감독으로, 1969년 축구 클럽 Anderlecht의 단장이 되었다. 이후 Belle-Vue는 이 클럽의 첫 셔츠 스폰서가 되어 10년 동안 주요 스폰서를 맡았다. 그 기간 클럽은 벨기에 리그 우승과 유럽 대회 우승을 여러 차례 기록했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Belle-Vue는 자연발효 맥주 네 종류를 생산한다. Gueuze, Kriek, Kriek Extra, Raspberry이며 알코올 도수는 모두 5.5%이다. 벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이지만, 단맛은 전통적인 신맛의 람빅과는 거리가 멀다. 유일한 전통 제품인 Selection Lambic은 생산량이 매우 적었으며 1999년 이후 생산되지 않았다. 람빅과 과일 맥주는 Sint-Pieters-Leeuw에서 만든다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 소유주 AB InBev는 Belle-Vue Gueuze의 생산을 중단하기로 결정했다. 다만 Belle-Vue kriek의 양조는 계속되었다. 전통 제품인 Selection Lambic은 1999년 이후 생산되지 않고 있다. 본사는 Zuun에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에 과일 맥주 가운데 가장 잘 알려진 브랜드이면서, 단맛이 전통 람빅의 신맛과 거리가 먼 점이 특징이다. Anderlecht의 첫 셔츠 스폰서이기도 했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2661513",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2661513",
+    "https://en.wikipedia.org/wiki/Belle-Vue_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2661513",
+   "country": "벨기에",
+   "inception": "1913",
+   "headquarters": "Zuun",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Belle-Vue Brewery」 본문과 위키데이터 Q2661513 팩트를 근거로 편집"
+ }
+}

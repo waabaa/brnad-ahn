@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1297476",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pivovar-eggenberg",
+  "urlSlug": "pivovar-eggenberg",
+  "name": "Pivovar Eggenberg",
+  "nameKo": "",
+  "nameEn": "Pivovar Eggenberg",
+  "definition": "Pivovar Eggenberg는 체코 체스키크룸로프에 있던 양조장이다. 설립 연도는 1560년이며, 2014년 폐쇄된 뒤 Eggenberg 상표의 맥주는 Pardubice Brewery에서 양조되고 있다.",
+  "summary": "Pivovar Eggenberg는 체코 체스키크룸로프에 있던 양조장이다. 설립 연도는 1560년이며, 2014년 폐쇄된 뒤 Eggenberg 상표의 맥주는 Pardubice Brewery에서 양조되고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "House of Eggenberg 등 귀족 가문의 영지와 함께 소유되었으며, 양조 역사가 1336년까지 거슬러 오르는 체스키크룸로프의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 체코 체스키크룸로프에 자리한 곳이다. 체스키크룸로프의 양조는 1336년으로 거슬러 올라가며, 현재 위치의 양조장은 1625년부터 1630년 사이에 옮겨 세워졌다. House of Rosenberg, House of Eggenberg, House of Schwarzenberg가 차례로 영지와 양조장을 소유했다. 20세기에는 나치 독일과 체코슬로바키아 정부에 의한 몰수를 겪었고, 1991년 경매로 민간에 매각되었다. 2014년 폐쇄되어 Eggenberg 상표의 맥주는 Pardubice Brewery에서 생산되고 있다. 옛 부지에는 2016년 Historický pivovar Krumlov가 설립되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "체스키크룸로프의 양조는 1336년으로 거슬러 올라간다. House of Rosenberg가 1522년 이 도시의 양조장을 인수해 1625년부터 1630년 사이 현재 위치로 옮겼다. 1622년 영지가 House of Eggenberg에 넘어갔고, 1628년 Hans Ulrich von Eggenberg가 Ferdinand II에 의해 Duke of Krumau에 임명되어 체스키크룸로프 성과 양조장을 함께 소유했다. 1717년 마지막 남성 상속자가 13세로 사망한 뒤 영지는 House of Schwarzenberg로 넘어갔고, 1719년 양조장 현대화와 바로크 양식 장식이 시작되었다. 19세기 말 생산량은 크게 늘었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년 5월 16일 법원이 회사 Pivovar Eggenberg의 파산을 선언했고, 2014년 양조장이 폐쇄되었다. 이후 Eggenberg 상표 맥주는 Pardubice Brewery에서 양조되고 있다. 2016년 옛 양조장 부지에 새 크래프트 양조장 Historický pivovar Krumlov가 설립되었으며, 나머지 양조장 단지는 양조 박물관과 호텔로 재건축되고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "House of Eggenberg 등 귀족 가문의 영지와 함께 소유되었으며, 양조 역사가 1336년까지 거슬러 오르는 체스키크룸로프의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.eggenberg.cz/",
+  "entityLinks": {
+   "wikidata": "Q1297476",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1297476",
+    "https://en.wikipedia.org/wiki/Pivovar_Eggenberg"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1297476",
+   "country": "체코",
+   "inception": "1560",
+   "headquarters": "체스키크룸로프",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Pivovar Eggenberg」 본문과 위키데이터 Q1297476 팩트를 근거로 편집"
+ }
+}

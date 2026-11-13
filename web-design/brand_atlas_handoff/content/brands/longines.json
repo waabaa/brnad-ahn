@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q603698",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/longines-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "longines",
+  "urlSlug": "longines",
+  "name": "론진",
+  "nameKo": "론진",
+  "nameEn": "Longines",
+  "definition": "론진(Longines)은 스위스 Saint-Imier에 본사를 둔 시계 제조사이다. 1832년 Auguste Agassiz가 설립했으며, 1983년부터 스와치 그룹과 그 전신의 자회사로 속해 있다.",
+  "summary": "론진(Longines)은 스위스 Saint-Imier에 본사를 둔 시계 제조사이다. 1832년 Auguste Agassiz가 설립했으며, 1983년부터 스와치 그룹과 그 전신의 자회사로 속해 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "론진은 날개 달린 모래시계 로고와 정밀 계시 장비로 알려진 스위스 시계 브랜드로, 스포츠 계시와 항공 시계 분야에서 이력을 쌓았다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "론진은 스위스의 명품 시계 제조사로, 본사는 Saint-Imier에 있다. 1832년 Auguste Agassiz가 설립했으며, 1983년부터 스와치 그룹과 그 전신의 자회사이다. 날개 달린 모래시계 로고는 1889년에 등록되었으며, WIPO에 등록된 현역 상표 중 변경 없이 쓰이는 가장 오래된 상표이다. 1867년에는 첫 자체 무브먼트 20A를 만들었고, 1878년에는 첫 크로노그래프 무브먼트 20H를 개발했다. 20H를 바탕으로 정밀한 계시용 스톱워치를 만들 수 있게 되었고, 이를 계기로 승마 같은 마술 경기 분야에서 명성을 쌓기 시작했다. 1886년에는 뉴욕 스포츠 관계자 대다수에게 계시 장비를 공급하는 주요 업체가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "론진은 1832년 Saint-Imier에서 스위스 시계 제작자 Auguste Agassiz가 설립했으며, 그는 생물학자 Louis Agassiz의 형제이다. 초기 사명은 Raiguel Jeune & Cie였고, 변호사 Henri Raiguel과 Florian Morel이 동업자였다. 1846년에는 두 사람이 시계 업계를 떠나 Agassiz가 단독 대표가 되었다. 이후 경제학을 전문으로 훈련받은 조카 Ernest Francillon이 합류했고, 건강이 나빠진 Agassiz가 경영을 그에게 넘겼다. Francillon은 1867년 첫 공장을 세워 대량 생산으로 나아갔으며, 공장이 있던 지역 Les Longines에서 론진이라는 이름이 나왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기에 Ernest Francillon은 당시 흔했던 키 와인딩 방식 대신 용두로 태엽을 감는 회중시계만 생산했다. 1867년 자체 제작한 첫 무브먼트 20A는 앵커 탈진기를 쓰고 용두로 태엽을 감고 시간을 맞추는 구조였으며, 같은 해 파리 만국박람회에서 상을 받았다. 1878년의 20H는 시작·정지·리셋을 용두 하나로 조작하는 모노푸셔 크로노그래프 무브먼트이며, 대표적인 칼리버로 20H, 18.72, 19.73 회중 크로노그래프가 꼽힌다. 1925년에는 Royal Canadian Navy를 위해 두 시간대를 표시하는 Zulu Time을 만들었고, 1931년에는 Charles Lindbergh와 협업해 Hour Angle 항공 시계를 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "론진은 현재 Saint-Imier에 본사를 두고 있으며, 1983년부터 스와치 그룹과 그 전신의 자회사로 운영되고 있다. 회사의 공식 명칭은 Compagnie des Montres Longines, Francillon S.A.이다. Longines라는 이름은 1880년에, 날개 달린 모래시계 로고는 1889년에 상표로 등록되었다. 이 로고는 WIPO에 등록된 상표 가운데 변경 없이 유지된 가장 오래된 현역 상표이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "론진은 날개 달린 모래시계 로고와 정밀 계시 장비로 알려진 스위스 시계 브랜드로, 스포츠 계시와 항공 시계 분야에서 이력을 쌓았다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.longines.com",
+  "entityLinks": {
+   "wikidata": "Q603698",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q603698",
+    "https://ko.wikipedia.org/wiki/%EB%A1%A0%EC%A7%84",
+    "https://en.wikipedia.org/wiki/Longines"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q603698",
+   "country": "스위스",
+   "inception": "1832",
+   "headquarters": "Saint-Imier",
+   "founders": [
+    "Auguste Agassiz"
+   ],
+   "parent": "스와치 그룹",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Longines」 본문과 위키데이터 Q603698 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

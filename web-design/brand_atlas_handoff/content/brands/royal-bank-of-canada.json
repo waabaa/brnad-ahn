@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q735261",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/royal-bank-of-canada-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "royal-bank-of-canada",
+  "urlSlug": "royal-bank-of-canada",
+  "name": "RBC 은행",
+  "nameKo": "RBC 은행",
+  "nameEn": "Royal Bank of Canada",
+  "definition": "RBC 은행(Royal Bank of Canada)은 캐나다의 다국적 금융 서비스 기업이다. 시가총액 기준 캐나다 최대 은행이며, 1864년 노바스코샤주 핼리팩스에서 출발한 금융기관이다.",
+  "summary": "RBC 은행(Royal Bank of Canada)은 캐나다의 다국적 금융 서비스 기업이다. 시가총액 기준 캐나다 최대 은행이며, 1864년 노바스코샤주 핼리팩스에서 출발한 금융기관이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "시가총액 기준 캐나다 최대 은행으로, 캐나다·미국·카리브해에 걸친 사업망과 글로벌 시스템적 중요 은행 지정이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "RBC는 캐나다에 기반을 둔 다국적 금융 서비스 기업이며 시가총액 기준 캐나다 최대 은행이다. 개인·기업 금융, 투자은행, 증권 중개, 보험 등을 제공하며 19 million 이상의 고객과 101,000명 이상의 직원을 두고 있다. 본사는 토론토에, 본점은 몬트리올에 있고 기관 번호는 003이다. 2017년 11월 Financial Stability Board의 글로벌 시스템적 중요 은행 목록에 추가되었다. 2023년에는 Forbes Global 2000에서 38위에 올랐다. 2024년에는 HSBC의 캐나다 사업을 인수하며 사업을 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1864년 노바스코샤주 핼리팩스에서 Merchants Bank of Halifax로 설립되었으며, 어업과 목재업, 유럽 및 카리브해 수출입 사업에 자금을 대는 상업은행이었다. 1869년 정식 법인이 되어 연방 인가를 받았고, 1870~1880년대에 다른 Maritime Provinces로 영업망을 넓혔다. 1901년 Royal Bank of Canada로 이름을 바꿨고 1907년 본점을 핼리팩스에서 몬트리올로 옮겼다. 이후 1910년 Union Bank of Halifax, 1912년 Traders Bank of Canada, 1917년 Quebec Bank, 1918년 Northern Crown Bank, 1925년 Union Bank of Canada와 합병하며 성장했다. 1961년에는 캐나다 은행권 최초로 컴퓨터 IBM 1401을 설치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캐나다 내 개인·기업 금융은 영어로 RBC Royal Bank, 프랑스어로 RBC Banque Royale라는 이름을 쓰며, 1,263개 지점을 통해 약 11 million 고객을 상대한다. 미국 자회사 RBC Bank는 과거 남동부 6개 주에서 439개 지점을 운영했으나 지금은 캐나다 여행자와 해외 거주자를 위한 국경 간 금융 서비스만 제공한다. 로스앤젤레스에 기반을 둔 City National Bank는 미국 11개 주에서 79개 지점을 운영한다. 카리브해 17개국에는 127개 지점이 있다. RBC Capital Markets는 투자은행·기업금융 자회사이고, 증권 중개는 RBC Dominion Securities가 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 운용자산은 CA$1.574 trillion이며, 캐나다와 다른 28개국에서 사업을 운영한다. 2024년에는 HSBC의 캐나다 사업을 인수해 사업을 확장했다. 2011년에는 매출과 시가총액 기준으로 캐나다 최대 기업이었고, 2023년 Forbes Global 2000에서 38위를 기록했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시가총액 기준 캐나다 최대 은행으로, 캐나다·미국·카리브해에 걸친 사업망과 글로벌 시스템적 중요 은행 지정이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://rbc.com",
+  "entityLinks": {
+   "wikidata": "Q735261",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q735261",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4_%EC%99%95%EB%A6%BD%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Royal_Bank_of_Canada"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q735261",
+   "country": "캐나다",
+   "inception": "1864",
+   "headquarters": "Royal Bank Plaza",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Royal Bank of Canada」 본문과 위키데이터 Q735261 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

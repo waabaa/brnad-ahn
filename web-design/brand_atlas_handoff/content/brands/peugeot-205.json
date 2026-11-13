@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q215218",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "peugeot-205",
+  "urlSlug": "peugeot-205",
+  "name": "푸조 205",
+  "nameKo": "푸조 205",
+  "nameEn": "Peugeot 205",
+  "definition": "푸조 205(Peugeot 205)는 Peugeot가 1983년부터 1999년까지 단일 세대로 제조·판매한 슈퍼미니(B세그먼트) 자동차이다. Projet M24에서 개발되어 Peugeot 104와 Talbot Samba를 대체했다.",
+  "summary": "푸조 205(Peugeot 205)는 Peugeot가 1983년부터 1999년까지 단일 세대로 제조·판매한 슈퍼미니(B세그먼트) 자동차이다. Projet M24에서 개발되어 Peugeot 104와 Talbot Samba를 대체했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.183333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "Peugeot를 보수적인 대형 세단 제조사라는 인식에서 벗어나게 한 1980년대의 소형차이다. 디젤 모델은 가솔린차 같은 성능과 디젤의 연비를 겸해 구매자를 끌었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "205는 1983년 2월 25일 공개되어 Peugeot 104와 Talbot Samba의 뒤를 이은 소형차이다. 1984년 What Car?의 Car of the Year를 받았고, 1990년에는 CAR Magazine이 'car of the decade'로 선정했다. Peugeot는 205 이전까지 504, 505 같은 대형 세단을 만들던 프랑스에서 가장 보수적인 제조사로 여겨졌다. 205는 그 회사의 입지를 되돌린 차로 평가받으며, 이후 나온 Peugeot 모델의 스타일링에도 영향을 주었다. 1999년 PF1 플랫폼 기반의 206이 나오면서 Peugeot는 205 판매를 중단했다. 1991년 도입된 106이 Peugeot의 작은 전륜구동 모델 자리를 사실상 이어받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Peugeot는 1978년 Chrysler의 유럽 부문인 Simca와 구 Rootes Group을 인수했다. 두 회사는 프랑스의 Simca 1100과 영국의 Hillman Imp 등 소형차를 만든 경험이 있었다. 이 무렵 Peugeot는 1980년대를 위한 새 슈퍼미니 개발에 착수했다. 205는 Projet M24에서 출발해 1983년 2월에 출시되었고, 영국 시장용 우핸들 모델은 같은 해 9월에 뒤따랐다. 출시 직후 European Car of the Year에서는 Fiat Uno에 밀렸으나, 심사 주최 측에 따르면 205가 더 오랫동안 높은 수요를 누렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 205는 Peugeot 104의 X 가솔린 엔진을 썼고, 1987~1988년에 PSA가 설계한 XU·TU 계열 엔진으로 교체했다. 엔진 배기량은 954 cc에서 1905 cc까지였고 카뷰레터와 연료분사 방식이 모두 있었다. 디젤 모델은 Citroën BX에서 가져온 PSA XUD 엔진을 사용했으며 용량은 1769 cc(XUD7)와 1905 cc(XUD9)였다. 서스펜션은 앞에 MacPherson struts, 뒤에 torsion bar를 단 trailing arms를 쓴 완전 독립식이다. 상용 버전으로는 2인승 XA 시리즈가 있었고, Gruau와 Durisotti 같은 독립 코치빌더가 만든 키 큰 '205 Multi'도 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Peugeot를 보수적인 대형 세단 제조사라는 인식에서 벗어나게 한 1980년대의 소형차이다. 디젤 모델은 가솔린차 같은 성능과 디젤의 연비를 겸해 구매자를 끌었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q215218",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q215218",
+    "https://ko.wikipedia.org/wiki/%ED%91%B8%EC%A1%B0_205",
+    "https://en.wikipedia.org/wiki/Peugeot_205"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q215218",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Peugeot 205」 본문과 위키데이터 Q215218 팩트를 근거로 편집"
+ }
+}

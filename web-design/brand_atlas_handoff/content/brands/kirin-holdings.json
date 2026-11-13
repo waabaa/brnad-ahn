@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q13403399",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/kirin-holdings-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kirin-holdings",
+  "urlSlug": "kirin-holdings",
+  "name": "기린 맥주",
+  "nameKo": "기린 맥주",
+  "nameEn": "Kirin Holdings",
+  "definition": "기린 맥주(Kirin Holdings)는 일본을 대표하는 주류 회사이다. 맥주와 발포주를 제조하는 사업 자회사로, 지주 회사인 기린 홀딩스 주식회사 아래에 있으며 미쓰비시 그룹에 속한다.",
+  "summary": "기린 맥주(Kirin Holdings)는 일본을 대표하는 주류 회사이다. 맥주와 발포주를 제조하는 사업 자회사로, 지주 회사인 기린 홀딩스 주식회사 아래에 있으며 미쓰비시 그룹에 속한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "일본에서 처음으로 대중을 위한 맥주를 양조·판매한 기업을 기원으로 하며, 중국 전설 속 동물 기린에서 이름을 따온 미쓰비시 그룹 소속 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "기린 맥주는 일본 굴지의 주류 회사로, 맥주와 발포주를 제조하는 사업 자회사이다. 현재 법인은 지주 회사인 기린 홀딩스 주식회사의 자회사이며, 기업 그룹은 미쓰비시 그룹에 속한다. 회사명의 기린은 중국의 전설 속 동물인 기린에서 유래했다. 1954년에는 연간 출하량에서 선두를 차지해 일본 내 맥주 기업의 지위를 확고히 했고, 아사히 맥주의 아사히 슈퍼 드라이가 대두하기까지 선두를 지켰다. 2009년에는 맥주류 출하량 시장 점유율 37.7%로 아사히 맥주의 37.5%를 앞서 9년 만에 선두를 탈환했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기원은 1870년 노르웨이계 미국인 William Copeland가 일본에서 처음으로 대중을 위한 맥주를 양조·판매한 스프링 밸리 양조장(코플랜드 맥주)이다. 이후 여러 변천을 거쳐 1907년 미쓰비시 그룹 산하의 일본 국적 회사 기린 맥주로 새롭게 출범했고, 제2차 세계 대전 후에는 생산량을 점차 늘렸다. 2007년 7월 1일에는 기존의 사업 지주 회사 기린 맥주(구)가 기린으로 사명을 변경하고 순수 지주 회사가 되었다. 기린이라는 이름의 유래에는 여러 설이 있으며, 당시 기록에 따르면 간부 마사다 헤이고로의 제안이라고 알려져 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주로 기린 이치방 시보리 생맥주, 기린 라거, 기린 클래식 라거, 이치방 스타우트, 그랜드 기린(GRAND KIRIN)이 있다. 발포주로는 기린 담려 <생>, 담려 W(더블), 기린 제로 <생> 등을 낸다. 무알콜 맥주 맛 음료로는 기린 프리와 기린 쉬는 날의 Alc.0.00 %가 있다. 츄하이·칵테일 분야에서는 기린 츄하이 빙결, 스트롱 시리즈, 기린 무알콜 츄하이 제로 하이 등을 선보인다. 외국 맥주로는 Budweiser, Heineken, Guinness를 수입 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 기린 맥주는 지주 회사인 기린 홀딩스 주식회사의 자회사로, 맥주나 발포주를 제조하는 사업 자회사의 위치에 있다. 기업 그룹은 미쓰비시 그룹에 속한다. 2009년에는 맥주류 판매 수량에서 아사히 맥주가 선두였으나, 발포주와 제3 맥주에서는 기린이 선두를 차지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본에서 처음으로 대중을 위한 맥주를 양조·판매한 기업을 기원으로 하며, 중국 전설 속 동물 기린에서 이름을 따온 미쓰비시 그룹 소속 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kirinholdings.com/",
+  "entityLinks": {
+   "wikidata": "Q13403399",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13403399",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%A6%B0_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Kirin_Company"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q13403399",
+   "country": "일본",
+   "inception": "1885",
+   "headquarters": "Nakano Shikinomachi",
+   "founders": [
+    "William Copeland"
+   ],
+   "parent": "미쓰비시 그룹",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「기린 맥주」 요약과 위키데이터 Q13403399 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

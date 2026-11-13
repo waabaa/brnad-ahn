@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q215707",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 157,
+  "enViews": 61061,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/toblerone-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "toblerone",
+  "urlSlug": "toblerone",
+  "name": "토블레로네",
+  "nameKo": "토블레로네",
+  "nameEn": "Toblerone",
+  "definition": "토블레로네(Toblerone)는 스위스에서 생산되는 초콜릿 바이다. 삼각기둥 모양이 특징이며, 이 모양은 알프스의 스위스 쪽 봉우리인 마터호른을 상징한다.",
+  "summary": "토블레로네(Toblerone)는 스위스에서 생산되는 초콜릿 바이다. 삼각기둥 모양이 특징이며, 이 모양은 알프스의 스위스 쪽 봉우리인 마터호른을 상징한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "삼각기둥 모양으로 알프스의 스위스 쪽 봉우리인 마터호른을 상징하는 스위스 초콜릿 바이다. 누가와 아몬드, 벌꿀을 조합한 밀크 초콜릿이라는 점도 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "토블레로네는 스위스에서 생산되는 초콜릿 바로, 삼각기둥 모양으로 널리 알려진 제품이다. 1908년 스위스 베른에서 Theodor Tobler와 Emil Baumann이 누가와 아몬드, 벌꿀을 조합해 삼각기둥 모양의 밀크 초콜릿으로 만들었다. 삼각기둥 모양은 알프스의 스위스 쪽 봉우리인 마터호른을 상징하며, 로고에도 마터호른이 들어가 있다. 1909년 이후 베른의 공장에서 생산되어 국제적으로 널리 판매되며 큰 인기를 끌었고, 상표와 독특한 제품 형태는 특허를 받았다. 1970년 Suchard와 합병하고 1990년 Kraft Foods에 인수되어, 현재는 Kraft Foods의 산하 브랜드로 들어가 있다. 대한민국에서는 Kraft와 제휴한 동서식품에서 수입·판매한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1908년 스위스 베른에서 Theodor Tobler와 Emil Baumann이 이 초콜릿 바를 만들었다. 두 사람은 누가와 아몬드, 벌꿀을 조합하여 삼각기둥 모양의 밀크 초콜릿을 만들었다. 명칭은 Theodor Tobler의 이름과 이탈리아에서 생산되는 누가의 일종인 torrone의 합성어이다. 1909년 이후 베른의 공장에서 생산되어 국제적으로 널리 판매되며 큰 인기를 끌었고, 상표와 독특한 제품 형태는 특허를 받았다. 1970년 토블레로네 사는 스위스의 다른 초콜릿 회사인 Suchard와 합병하여 Milka가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1970년 스위스의 Suchard와 합병한 뒤 1990년 미국의 식품회사 Kraft Foods에 인수되어, 현재 토블레로네는 Kraft Foods의 산하 브랜드로 들어가 있다. 대한민국에서는 Kraft와 제휴한 동서식품에서 수입·판매한다. 삼각기둥 모양은 알프스의 스위스 쪽 봉우리인 마터호른을 상징하며, 로고에도 마터호른이 들어가 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "삼각기둥 모양으로 알프스의 스위스 쪽 봉우리인 마터호른을 상징하는 스위스 초콜릿 바이다. 누가와 아몬드, 벌꿀을 조합한 밀크 초콜릿이라는 점도 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.toblerone.co.uk/en",
+  "entityLinks": {
+   "wikidata": "Q215707",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q215707",
+    "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%B8%94%EB%A0%88%EB%A1%9C%EB%84%A4",
+    "https://en.wikipedia.org/wiki/Toblerone"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q215707",
+   "country": null,
+   "inception": "1908",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「토블레로네」 요약과 위키데이터 Q215707 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

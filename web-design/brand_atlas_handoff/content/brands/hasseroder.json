@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q20871058",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hasseroder",
+  "urlSlug": "hasseroder",
+  "name": "Hasseröder",
+  "nameKo": "",
+  "nameEn": "Hasseröder",
+  "definition": "Hasseröder는 독일 작센안할트주 베르니게로데에 있는 양조장이자 맥주 브랜드이다. 1872년에 설립되었으며 Gilde Brewery를 모기업으로 둔다.",
+  "summary": "Hasseröder는 독일 작센안할트주 베르니게로데에 있는 양조장이자 맥주 브랜드이다. 1872년에 설립되었으며 Gilde Brewery를 모기업으로 둔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "동독 시기 마그데부르크 지구 중심의 브랜드로 이어져 통일 이후 독일 신연방주에서 가장 많이 소비되는 맥주가 된 베르니게로데의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Hasseröder는 독일 작센안할트주 베르니게로데에 자리한 양조장이자 맥주 브랜드이다. 1872년에 시작된 이 양조장은 1896년에 주식회사가 되었고, 1920년에 Hasseröder Brauerei라는 이름을 얻었다. 제2차 세계대전 이후 베르니게로데가 동독에 속하게 된 뒤에도 브랜드는 존속했으며, 주로 마그데부르크 지구에서 판매되었다. 독일 통일 이후에는 신연방주에서 가장 많이 소비되는 맥주가 되었다. 독일에서 가장 많이 팔리는 양조장 가운데 6위에 올라 있다. 라인업은 Premium Pilsener와 Premium Export 같은 맥주와 Premium Radler, Premium Diesel 같은 혼합 음료로 이루어져 있고, 모기업은 Gilde Brewery이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1872년 Robert Hoppe가 베르니게로데의 Hasserode 지구에서 zum Auerhahn이라는 이름으로 양조장을 시작했다. 1882년에는 Ernst Schreyer가 양조장의 경영을 맡았다. 1896년에 주식회사(Aktiengesellschaft, AG)가 되었고, 같은 해 맥주 25,000헥토리터를 생산했다. 1920년에 Hasseröder Brauerei로 이름을 바꾸었다. 제2차 세계대전 이후 베르니게로데가 동독에 속하게 된 뒤에도 브랜드는 이어졌고, 마그데부르크 지구를 중심으로 판매되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Hasseröder의 제품군에는 필스너 스타일의 Premium Pilsener가 있으며 알코올 도수는 4.9% abv이다. Premium Export는 진한 Export 스타일 맥주이며 알코올 도수는 5.5% abv이다. Premium Radler는 Export 맥주와 레모네이드를 섞은 혼합 음료이며 알코올 도수는 2.7% abv이다. Premium Diesel은 Export 맥주와 콜라를 섞은 혼합 음료이며 알코올 도수는 2.7% abv이다. 이 가운데 Premium Radler와 Premium Diesel은 맥주에 다른 음료를 섞은 혼합 음료로 분류된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Hasseröder의 모기업은 Gilde Brewery이며, 본사는 베르니게로데에 있다. 독일 통일 이후 신연방주에서 가장 많이 소비되는 맥주가 되었고, 독일에서 가장 많이 팔리는 양조장 가운데 6위에 올라 있다. 제품군은 Premium Pilsener, Premium Export, Premium Radler, Premium Diesel로 구성된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "동독 시기 마그데부르크 지구 중심의 브랜드로 이어져 통일 이후 독일 신연방주에서 가장 많이 소비되는 맥주가 된 베르니게로데의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.hasseroeder.de",
+  "entityLinks": {
+   "wikidata": "Q20871058",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20871058",
+    "https://en.wikipedia.org/wiki/Hasser%C3%B6der"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q20871058",
+   "country": "독일",
+   "inception": "1872",
+   "headquarters": "베르니게로데",
+   "founders": [],
+   "parent": "Gilde Brewery",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Hasseröder」 본문과 위키데이터 Q20871058 팩트를 근거로 편집"
+ }
+}

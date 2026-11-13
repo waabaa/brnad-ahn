@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3402663",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "prestige",
+  "urlSlug": "prestige",
+  "name": "Prestige",
+  "nameKo": "",
+  "nameEn": "Prestige",
+  "definition": "Prestige는 아이티 포르토프랭스의 Brasserie Nationale d'Haïti(BRANA)가 양조하는 라거 맥주이다. 아이티에서 가장 많이 팔리는 맥주로 시장 점유율이 98%이다.",
+  "summary": "Prestige는 아이티 포르토프랭스의 Brasserie Nationale d'Haïti(BRANA)가 양조하는 라거 맥주이다. 아이티에서 가장 많이 팔리는 맥주로 시장 점유율이 98%이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "아이티에서 점유율 98%로 가장 많이 팔리는 라거 맥주이며, 2018년 라벨에 아이티 국기의 색인 파랑과 빨강을 담았다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Prestige(Prestige)는 아이티 포르토프랭스에 있는 Brasserie Nationale d'Haïti(BRANA)에서 양조하는 라거 맥주이다. 아이티에서 널리 소비되며 시장 점유율 98%로 가장 많이 팔리는 맥주이다. 미국 일부 지역과 다른 나라에서도 구입할 수 있다. 2011년 Heineken은 BRANA의 지분을 22.5%에서 95%로 늘려 지배 지분을 확보했다고 공개적으로 발표했다. 2000년에는 월드 비어 컵(World Beer Cup) 아메리칸 스타일 라거 부문에서, 2012년에는 아메리칸 스타일 크림 에일 또는 라거 부문에서 금메달을 받았다. 브랜드는 이후 네덜란드 양조 기업이 인수했고 수출용 맥주는 네덜란드에서 양조된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Prestige는 1976년 Michael Madsen이 설립했으며, BRANA 설립 후 2년이 채 지나지 않아 출시되었다. 그는 아이티에서 가장 부유한 산업 가문 중 하나의 일원이며, 그의 선조는 19세기 후반 덴마크에서 건너왔다. 2005년 Prestige는 캐나다와 미국의 일부 도시로 수출되기 시작했다. 2011년 Heineken은 BRANA의 지분을 22.5%에서 95%로 늘려 지배 지분을 확보했다고 공개적으로 발표했다. 이후 브랜드는 네덜란드 양조 기업이 인수했으며 수출용 맥주는 현재 네덜란드에서 양조된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Prestige는 BRANA가 양조하는 라거 맥주이며, 12 fl. oz.와 16 fl. oz. 두 가지 용량의 병으로 판매된다. 2018년 BRANA는 새로운 국제 표준 병입 라인과 새 라벨을 도입했다. 새 라벨은 아이티 국기의 색인 파란색과 빨간색을 사용한다. 수상 내역으로는 2000년 월드 비어 컵(World Beer Cup) 아메리칸 스타일 라거(American-Style Lager) 부문 금메달과, 2012년 같은 대회 아메리칸 스타일 크림 에일 또는 라거(American-Style Cream Ale or Lager) 부문 금메달이 있다. 수출용 맥주는 네덜란드에서 양조된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "아이티에서 가장 많이 팔리는 맥주로 시장 점유율은 98%이다. 2011년 Heineken은 BRANA의 지분을 22.5%에서 95%로 늘려 지배 지분을 확보했다고 공개적으로 발표했다. 2018년 BRANA는 새 병입 라인과 라벨을 도입했다. 미국 일부 지역과 다른 나라에서도 구입할 수 있으며, 수출용 맥주는 네덜란드에서 양조된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "아이티에서 점유율 98%로 가장 많이 팔리는 라거 맥주이며, 2018년 라벨에 아이티 국기의 색인 파랑과 빨강을 담았다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.prestigebeer.com",
+  "entityLinks": {
+   "wikidata": "Q3402663",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3402663",
+    "https://en.wikipedia.org/wiki/Prestige_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3402663",
+   "country": null,
+   "inception": "1976",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Prestige (beer)」 본문과 위키데이터 Q3402663 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q67030918",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 62,
+  "enViews": 41267,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/warner-records-inc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "warner-records-inc",
+  "urlSlug": "warner-records-inc",
+  "name": "워너 레코드",
+  "nameKo": "워너 레코드",
+  "nameEn": "Warner Records Inc.",
+  "definition": "워너 레코드(Warner Records Inc.)는 미국의 음반 레이블이다. 워너 뮤직의 대표 음반 레이블이며 워너 뮤직 그룹의 계열사로, 본사는 버뱅크에 있다.",
+  "summary": "워너 레코드(Warner Records Inc.)는 미국의 음반 레이블이다. 워너 뮤직의 대표 음반 레이블이며 워너 뮤직 그룹의 계열사로, 본사는 버뱅크에 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "워너 뮤직의 대표 레이블로, 2019년 5월 28일 워너 브라더스 레코드에서 사명을 바꾼 음반 레이블이다. 린킨 파크, 그린 데이, 뮤즈 등이 소속되어 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "워너 레코드는 워너 뮤직의 대표 음반 레이블이며 워너 뮤직 그룹의 계열사이다. 미국을 기반으로 하며 본사는 버뱅크에 있다. 2019년 5월 28일 워너 브라더스 레코드에서 워너 레코드로 사명을 변경했다. 현재 소속 아티스트로는 린킨 파크, 그린 데이, 뮤즈, 메탈리카, 고릴라즈, 마이 케미컬 로맨스, 레드 핫 칠리 페퍼스, 패러모어, 에릭 클랩튼, 카일리 미노그, 듀란 듀란, aespa 등이 있다. 이전 소속 아티스트로는 마돈나, 프린스, 지미 헨드릭스, 프랭크 시나트라, 보니 M, 밴 헤일런 등이 기재되어 있다. 한국어 위키백과는 세계 최대의 음반 회사이며 미국에서 영향력이 큰 회사로 소개한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "워너 레코드는 음반 레이블로서 다수의 아티스트를 소속으로 두고 있다. 한국어 위키백과의 현재 소속 목록에는 린킨 파크, 마이 케미컬 로맨스, 그린 데이, 뮤즈, 어벤지드 세븐폴드, 레드 핫 칠리 페퍼스, 디스터브드 등이 있다. 그 밖에 R.E.M., 에릭 클랩튼, 오아시스, 더 블랙 키스, 패러모어, 섹스 피스톨즈, 블랙 사바스, 플리트우드 맥, 딥 퍼플, 디페쉬 모드, 제임스 블런트, 메탈리카, 고릴라즈, ONE OK ROCK, aespa도 현재 소속으로 기재되어 있다. 이전 소속으로는 마돈나, 지미 헨드릭스, 프랭크 시나트라, 프린스, 스매싱 펌킨스, JYJ 등이 기재되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 워너 뮤직 그룹의 계열사로 운영되며 본사는 버뱅크에 있다. 2019년 5월 28일 워너 브라더스 레코드에서 워너 레코드로 사명을 변경했다. 한국어 위키백과는 세계 최대의 음반 회사이며 미국에서 영향력이 큰 회사로 소개한다. aespa, ONE OK ROCK 등이 현재 소속 아티스트로 기재되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "워너 뮤직의 대표 레이블로, 2019년 5월 28일 워너 브라더스 레코드에서 사명을 바꾼 음반 레이블이다. 린킨 파크, 그린 데이, 뮤즈 등이 소속되어 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.warnerrecords.com/",
+  "entityLinks": {
+   "wikidata": "Q67030918",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q67030918",
+    "https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%84%88_%EB%A0%88%EC%BD%94%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Warner_Records"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q67030918",
+   "country": "미국",
+   "inception": "2019",
+   "headquarters": "버뱅크",
+   "founders": [
+    "잭 워너"
+   ],
+   "parent": "워너 뮤직 그룹",
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「워너 레코드」 요약과 위키데이터 Q67030918 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

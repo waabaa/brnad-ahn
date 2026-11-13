@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q137910",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/thyssenkrupp-ag-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "thyssenkrupp-ag",
+  "urlSlug": "thyssenkrupp-ag",
+  "name": "티센크루프",
+  "nameKo": "티센크루프",
+  "nameEn": "thyssenkrupp AG",
+  "definition": "티센크루프(thyssenkrupp AG)는 1999년 티센과 크루프가 합병해 생겨난 독일의 철강 기업이다. 유럽 최대의 철강 회사이며 본사는 독일 에센에 있다.",
+  "summary": "티센크루프(thyssenkrupp AG)는 1999년 티센과 크루프가 합병해 생겨난 독일의 철강 기업이다. 유럽 최대의 철강 회사이며 본사는 독일 에센에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.233333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1999년 크루프와 티센의 합병으로 탄생한 유럽 최대의 철강 회사로, 철강·자본재·서비스 세 부문을 아우르는 독일 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "티센크루프는 철강, 자본재, 서비스의 세 부문을 주력 사업으로 하는 독일의 산업 기업이다. 철강 부문에서는 주로 탄소강과 스테인리스강을 생산하고, 자본재 부문에서는 자동차 부품과 같은 기계류를 생산한다. 서비스 부문은 주문생산 원자재, 환경 서비스, 엔지니어링 등으로 구성된다. 1999년 티센과 크루프가 합병하며 출범했고 유럽 최대의 철강 회사이다. 2005년 독일 키엘의 선박제조업체 HDW를, 2008년 아폴로 철강과 항공 철강을 인수해 항공기와 방위산업 분야로 사업을 확장했다. 2020년 이후에는 행동주의 사모펀드의 위협을 받아 엘리베이터 사업부를 분사해 매각했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "티센크루프는 1999년 티센과 크루프가 합병하며 생겨났다. 크루프는 400여 년간 군수품 제조로 유명했던 크루프 가문이 19세기에 세운 기업으로, 철강 및 중공업 분야에서 크게 성공한 세계 최대의 공업 기업이었다. 티센은 1891년 아우구스트 티센이 창설한 회사로, 제1차 세계 대전 때 연합철강을 구성해 독일 철강의 50% 이상을 점유했다. 티센은 2차 세계 대전 이후 전범으로 재산을 몰수당했으나 이후 재통합이 이루어졌다. 합병 이후 2005년 HDW, 2008년 아폴로 철강과 항공 철강을 인수하며 항공기와 방위산업 분야로 사업을 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "티센크루프의 사업은 철강, 자본재, 서비스의 세 부문으로 구분되며, 이 세 부문이 주력 사업이다. 철강 부문에서는 주로 탄소강과 스테인리스강을 생산하고, 자본재 부문에서는 자동차 부품과 같은 기계류를 생산한다. 서비스 부문은 주문생산 원자재, 환경 서비스, 엔지니어링 등으로 구성된다. 2005년에는 독일 키엘에 소재한 선박제조업체 HDW(Howaldtswerke-Deutsche Werft)를 인수했다. 2008년에는 아폴로 철강(Apollo Metals)과 항공 철강(Aviation Metals)을 인수해 항공기와 방위산업 분야로 사업 분야를 확장했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 이후 티센크루프는 행동주의 사모펀드에 위협을 받는 상황에 놓였다. 그 결과 엘리베이터 사업부는 티케이엘리베이터로 분사된 뒤 매각되었다. 본사는 독일 에센에 있으며, 주력 사업은 철강, 자본재, 서비스의 세 부문으로 구분된다. 앞서 2005년과 2008년의 인수를 통해 항공기와 방위산업 분야로 사업을 넓힌 바 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1999년 크루프와 티센의 합병으로 탄생한 유럽 최대의 철강 회사로, 철강·자본재·서비스 세 부문을 아우르는 독일 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.thyssenkrupp.com/",
+  "entityLinks": {
+   "wikidata": "Q137910",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q137910",
+    "https://ko.wikipedia.org/wiki/%ED%8B%B0%EC%84%BC%ED%81%AC%EB%A3%A8%ED%94%84",
+    "https://en.wikipedia.org/wiki/ThyssenKrupp"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q137910",
+   "country": "독일",
+   "inception": "1999",
+   "headquarters": "에센",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「티센크루프」 요약과 위키데이터 Q137910 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

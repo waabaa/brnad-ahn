@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q484544",
+ "demand": {
+  "why": "국외",
+  "naver": 0.032,
+  "koViews": 713,
+  "enViews": 49607,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/cheetos-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cheetos",
+  "urlSlug": "cheetos",
+  "name": "치토스",
+  "nameKo": "치토스",
+  "nameEn": "Cheetos",
+  "definition": "치토스(Cheetos)는 미국의 프리토레이가 생산하는 스낵 브랜드이다. 1948년 처음 출시되었고 대한민국에는 1988년 오리온과의 제휴로 들어왔으며, 마스코트는 Chester Cheetah이다.",
+  "summary": "치토스(Cheetos)는 미국의 프리토레이가 생산하는 스낵 브랜드이다. 1948년 처음 출시되었고 대한민국에는 1988년 오리온과의 제휴로 들어왔으며, 마스코트는 Chester Cheetah이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "미국 프리토레이의 스낵 브랜드로, 대한민국에서는 오리온에서 롯데제과로 판매 주체가 바뀐 이력과 마스코트 Chester Cheetah가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "치토스는 미국의 프리토레이가 생산하는 스낵 브랜드로, 1948년에 처음 출시되었다. 대한민국 시장에는 1988년 오리온과 프리토레이의 제휴를 통해 처음 출시되었다. 오리온과 프리토레이의 제휴 관계가 2004년 종료되면서 치토스의 국내 판매는 중단되었다. 이후 롯데제과가 2006년 프리토레이와 스낵 제품의 기술제휴 및 생산·판매에 관한 라이선스 계약을 체결하면서 국내에 다시 출시되었다. 과자에 그려진 캐릭터이자 마스코트의 이름은 Chester Cheetah이다. 2006년 재출시 당시에는 매콤한 맛과 바비큐 맛 두 종류가 판매되었고, 대한민국 판매 제품에는 핫소스 맛, 불고기 맛, 스위트칠리 맛 등도 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "치토스는 미국의 프리토레이가 생산하는 스낵 브랜드로, 1948년에 처음 출시되었다. 대한민국에서는 1988년 오리온과 프리토레이의 제휴를 통해 현지 시장에 처음 출시되었다. 오리온과 프리토레이의 제휴가 2004년 종료되며 국내 판매가 중단되었으나, 롯데제과가 2006년 프리토레이와 스낵 제품의 기술제휴 및 생산·판매에 관한 라이선스 계약을 체결하면서 다시 출시되었다. 2006년 재출시 당시에는 매콤한 맛과 바비큐 맛 두 종류가 판매되었다. 오리온 치토스 당시 판매 제품으로는 화이트치토스와 체스터쿵이 있었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대한민국 판매 제품 기준으로 치토스 매콤한 맛, 치토스 바베큐 맛, 미니 치토스 핫소스 맛, 미니 치토스 불고기 맛이 있다. 치토스 회오리(스위트칠리 맛), 치토스 볼(구운양파 맛), 케이팝 치토스 치즈 맛도 판매되었다. 별난 시리즈로는 치토스 별난 콜라 맛, 별난 초코 맛, 별난 닭강정 맛이 있고, 치토스 볶음 짜장 맛, 치토스 쉬림프 치즈 맛, 치토스 허니 치즈 맛도 있다. 부속 완구로는 레이싱 체스터, 핑거보드 체스터, 따조(미니조립 체스터), 딱지가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "대한민국에서는 2006년 롯데제과가 프리토레이와 체결한 라이선스 계약을 통해 재출시된 이후 여러 맛의 제품이 판매되어 왔다. 판매 제품 기준 목록에는 케이팝 치토스 치즈 맛, 치토스 별난 시리즈, 치토스 볶음 짜장 맛, 쉬림프 치즈 맛, 허니 치즈 맛 등이 포함된다. 마스코트 Chester Cheetah의 대한민국판 성우는 한상덕이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 프리토레이의 스낵 브랜드로, 대한민국에서는 오리온에서 롯데제과로 판매 주체가 바뀐 이력과 마스코트 Chester Cheetah가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.cheetos.com/",
+  "entityLinks": {
+   "wikidata": "Q484544",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q484544",
+    "https://ko.wikipedia.org/wiki/%EC%B9%98%ED%86%A0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Cheetos"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q484544",
+   "country": "미국",
+   "inception": "1948",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「치토스」 요약과 위키데이터 Q484544 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

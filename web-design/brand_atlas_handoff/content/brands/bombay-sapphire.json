@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q891834",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bombay-sapphire",
+  "urlSlug": "bombay-sapphire",
+  "name": "봄베이 사파이어",
+  "nameKo": "봄베이 사파이어",
+  "nameEn": "Bombay Sapphire",
+  "definition": "봄베이 사파이어(Bombay Sapphire)는 Bacardi의 자회사 Bombay Spirits Company가 영국 햄프셔주 라버스톡의 Laverstoke Mill에서 증류하는, 식물 재료로 향을 입힌 런던 드라이 진 브랜드이다.",
+  "summary": "봄베이 사파이어(Bombay Sapphire)는 Bacardi의 자회사 Bombay Spirits Company가 영국 햄프셔주 라버스톡의 Laverstoke Mill에서 증류하는, 식물 재료로 향을 입힌 런던 드라이 진 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "카터헤드 증류기의 증기 침출 방식과 열 가지 식물 재료, 사파이어색 병과 빅토리아 여왕 라벨로 알려진 런던 드라이 진이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "봄베이 사파이어는 열 가지 식물 재료로 향을 내는 런던 드라이 진이다. 아몬드, 레몬 껍질, 감초, 주니퍼 베리, 오리스 뿌리, 안젤리카, 고수, 카시아, 쿠베브, 그레인 오브 파라다이스가 향의 원료이다. 다른 공급업체에서 들여온 알코올을 카터헤드 증류기로 세 번 증발시키고, 그 증기를 식물 재료가 담긴 망에 통과시켜 맛과 향을 얻는다. 이 방식은 구리 단식 증류기로 만든 진보다 가볍고 꽃향이 강한 맛을 낸다고 여겨진다. 여기에 웨일스 포이스의 저수지 Lake Vyrnwy의 물을 더해 영국 등지에서 판매하는 제품의 도수를 40.0%로 맞춘다. 병은 옆면이 평평한 사파이어색이며 라벨에 빅토리아 여왕의 그림이 있고, 현재 Bacardi가 소유한 브랜드이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 브랜드는 1986년 영국의 와인 상인 International Distillers & Vintners가 처음 출시했다. 1997년 Diageo가 브랜드를 Bacardi에 매각했다. 이름은 영국령 인도 시기에 Royal Indian Armed Forces가 대중화한 진토닉에서 유래한다. \"Bombay\"는 인도의 도시 뭄바이의 옛 이름을, \"Sapphire\"는 영국령 실론(스리랑카)에서 채굴된 보랏빛 푸른 보석 Star of Bombay를 가리킨다. 이 보석은 현재 Smithsonian Institution에 전시되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Bacardi는 식물 재료를 여덟 가지 쓰는 Bombay Original London Dry Gin도 판매한다. 2011년 9월에는 레몬그라스와 검은 후추를 더한 Bombay Sapphire East를 뉴욕과 라스베이거스 시험 시장에서 내놓았으며, 42%로 병입했다. 2015년에는 영국 시장용 특별판 Star of Bombay를 47.5%로 만들었고, 베르가못과 암브레트 씨앗을 넣었다. Bombay Bramble은 블랙베리와 라즈베리를 우려 37.5% ABV로 병입한 제품이다. 2019년 여름에는 페니로열 민트, 로즈힙, 헤이즐넛을 더한 한정판 Bombay Sapphire English Estate를 41%로 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년까지 Bacardi는 생산과 병입을 영국 체셔 워링턴의 G&J Greenall에 위탁했다. 2011년 제조 과정을 햄프셔 라버스톡의 새 시설로 옮기는 계획이 발표되었고, 2012년 2월 건축 허가를 받아 2014년 가을 방문자 센터가 문을 열었다. 이 센터에는 Thomas Heatherwick의 구조물인 온실 두 동이 있다. 이전 뒤에도 병입은 G&J Greenall이 맡았으나 이후 스코틀랜드 글래스고로 옮겨졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "카터헤드 증류기의 증기 침출 방식과 열 가지 식물 재료, 사파이어색 병과 빅토리아 여왕 라벨로 알려진 런던 드라이 진이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bombaysapphire.com/",
+  "entityLinks": {
+   "wikidata": "Q891834",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q891834",
+    "https://ko.wikipedia.org/wiki/%EB%B4%84%EB%B2%A0%EC%9D%B4_%EC%82%AC%ED%8C%8C%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Bombay_Sapphire"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q891834",
+   "country": null,
+   "inception": "1987",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Bombay Sapphire」 본문과 위키데이터 Q891834 팩트를 근거로 편집"
+ }
+}

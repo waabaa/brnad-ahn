@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q7587890",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/st-erhard-wd.gif",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "st-erhard",
+  "urlSlug": "st-erhard",
+  "name": "St. Erhard",
+  "nameKo": "",
+  "nameEn": "St. Erhard",
+  "definition": "St. Erhard는 독일 바이에른주 밤베르크 지역의 크래프트 양조장에서 만드는 맥주 브랜드이다. 스스로를 럭셔리 브랜드로 내세우며, 제품은 주로 아시아로 수출한다.",
+  "summary": "St. Erhard는 독일 바이에른주 밤베르크 지역의 크래프트 양조장에서 만드는 맥주 브랜드이다. 스스로를 럭셔리 브랜드로 내세우며, 제품은 주로 아시아로 수출한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "투명 유리병에 라벨을 직접 인쇄하고 자외선 차단 바니시를 입히며, 럭셔리 브랜드를 표방하는 밤베르크 지역의 크래프트 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "St. Erhard는 독일 바이에른 지역의 밤베르크를 기반으로 하는 크래프트 양조장 브랜드이며, 공식 표기는 대문자로 조판한 St. ERHARD이다. 이 맥주는 스스로를 럭셔리 브랜드로 규정하고 주로 아시아로 수출한다. 1516년의 독일 순수령(Reinheitsgebot)에 따라 양조하며, 원맥즙 농도는 12.5 플라토, 알코올 도수는 부피 기준 5%이다. 제품은 주로 인도 시장에서 찾아볼 수 있는 맥주이다. 프리미엄 제품을 표방하는 이 브랜드는 다른 대부분의 맥주 브랜드와 달리 투명 유리병에 담기며, 병에는 유리에 직접 인쇄한 라벨과 자외선 차단용 바니시가 적용된다. 'St. ERHARD'라는 이름은 맥주와 관련 제품 및 서비스에 대해 국제적으로 등록된 상표이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "St. Erhard 맥주는 1516년의 독일 순수령(Reinheitsgebot)에 따라 양조한다. 맥주의 원맥즙 농도는 12.5 플라토이고 알코올 도수는 부피 기준 5%이다. 대부분의 맥주 브랜드와 달리 투명 유리병을 사용하며, 라벨을 유리에 직접 인쇄하고 그 위에 자외선 차단용 바니시를 입힌다. 프리미엄 제품으로 내세우는 이 포장 방식은 브랜드를 구분 짓는 요소이다. 맥주는 주로 인도 시장에서 찾아볼 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 St. Erhard는 독일 밤베르크 지역의 크래프트 맥주 브랜드로서 주로 아시아 시장을 대상으로 수출한다. 제품은 특히 인도 시장에서 찾아볼 수 있으며, 브랜드는 스스로를 럭셔리 브랜드로 자리매김한다. 브랜드명 'St. ERHARD'는 맥주와 관련 제품 및 서비스에 대한 국제 등록 상표이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "투명 유리병에 라벨을 직접 인쇄하고 자외선 차단 바니시를 입히며, 럭셔리 브랜드를 표방하는 밤베르크 지역의 크래프트 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.st-erhard.com/",
+  "entityLinks": {
+   "wikidata": "Q7587890",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7587890",
+    "https://en.wikipedia.org/wiki/St._Erhard_(brewery)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7587890",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "밤베르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「St. Erhard (brewery)」 본문과 위키데이터 Q7587890 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

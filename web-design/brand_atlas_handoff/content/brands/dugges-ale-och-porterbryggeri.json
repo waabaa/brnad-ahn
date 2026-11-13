@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5312526",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "dugges-ale-och-porterbryggeri",
+  "urlSlug": "dugges-ale-och-porterbryggeri",
+  "name": "Dugges Ale och Porterbryggeri",
+  "nameKo": "",
+  "nameEn": "Dugges Ale och Porterbryggeri",
+  "definition": "Dugges Ale och Porterbryggeri는 스웨덴 예테보리 외곽의 Landvetter에 있는 양조장이다. 2005년 Mikael Dugge Engström이 시작했으며 상면발효 맥주를 중심으로 양조한다.",
+  "summary": "Dugges Ale och Porterbryggeri는 스웨덴 예테보리 외곽의 Landvetter에 있는 양조장이다. 2005년 Mikael Dugge Engström이 시작했으며 상면발효 맥주를 중심으로 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "미국 마이크로 브루어리의 영향을 받은 상면발효 맥주를 중심으로, 홉을 많이 쓴 강한 향과 잦은 시험 양조분 판매로 구분되는 스웨덴 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 스웨덴 예테보리 외곽의 Landvetter에 자리하고 있으며, 2005년 Mikael Dugge Engström이 시작했다. 미국 마이크로 브루어리의 영향을 받아 상면발효 맥주를 중심으로 양조하는 곳이다. 에일은 Chinook를 비롯한 여러 홉을 많이 넣어 만들며, 그 결과 강하고 기분 좋은 향이 나는 것이 특징이다. 새로운 종류의 맥주를 개발하는 일에 매우 적극적이어서 시험 양조분을 여러 종류 판매하는 경우가 많다. 여러 대회에서 메달을 받았으며, 그중에는 Stockholm Beer & Whiskey Festival의 금메달이 있다. 맥주는 스웨덴의 여러 바와 레스토랑뿐 아니라 Systembolaget에서도 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Mikael Dugge Engström이 2005년 예테보리 외곽의 Landvetter에서 이 양조장을 시작했으며, 미국 마이크로 브루어리의 영향을 받아 상면발효 맥주에 집중했다. 병입 기계를 들이기 전에는 맥주를 통에 담아 판매하는 방식이었다. 2007년에는 병입 기계를 구입해 기존의 통 판매에 더해 병 제품도 판매할 수 있게 되었다. 2012년에는 새 양조 설비를 구입하고 더 크고 새로운 건물로 이전하면서 양조장의 규모를 넓혔다. 양조장은 새로운 종류의 맥주를 개발하는 데 적극적이며, 시험 양조분을 여러 종류 판매한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장의 제품은 미국 마이크로 브루어리의 영향을 받은 상면발효 방식의 에일 계열 맥주가 중심이다. 에일에는 Chinook를 비롯한 여러 홉을 많이 사용하며, 이 때문에 향이 강하고 기분 좋다. 이 양조장은 새로운 맥주 종류를 만드는 데 적극적이어서 시험 양조분을 여러 종류 판매하는 경우가 많다. 제품은 통과 병 형태로 판매되며, 스웨덴의 여러 바와 레스토랑 및 Systembolaget에서 구할 수 있다. 2007년에 병입 기계를 구입하면서 기존의 통 판매에 더해 병 제품을 판매할 수 있게 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 예테보리 외곽의 Landvetter에서 운영되고 있으며, 새로운 맥주를 개발하는 데 매우 적극적이다. 2012년 새 양조 설비를 구입하고 더 크고 새로운 건물로 옮겨 규모를 넓혔다. 맥주는 스웨덴의 여러 바와 레스토랑, 그리고 Systembolaget에서 판매되고 있다. 여러 대회에서 메달을 받았고, Stockholm Beer & Whiskey Festival에서는 금메달을 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 마이크로 브루어리의 영향을 받은 상면발효 맥주를 중심으로, 홉을 많이 쓴 강한 향과 잦은 시험 양조분 판매로 구분되는 스웨덴 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dugges.se/",
+  "entityLinks": {
+   "wikidata": "Q5312526",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5312526",
+    "https://en.wikipedia.org/wiki/Dugges_Ale_och_Porterbryggeri"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5312526",
+   "country": "스웨덴",
+   "inception": "2005",
+   "headquarters": "묄른달",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Dugges Ale och Porterbryggeri」 본문과 위키데이터 Q5312526 팩트를 근거로 편집"
+ }
+}

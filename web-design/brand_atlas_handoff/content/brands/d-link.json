@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q303580",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/d-link-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "d-link",
+  "urlSlug": "d-link",
+  "name": "디링크",
+  "nameKo": "디링크",
+  "nameEn": "D-Link",
+  "definition": "디링크(D-Link)는 1986년 타이베이에서 Datex Systems라는 이름으로 설립된 중화민국의 전자제품 제조업체이다. 랜카드 제조업체로 시작해 소비자 시장과 비즈니스 시장을 위한 통신 솔루션을 설계·개발·제조한다.",
+  "summary": "디링크(D-Link)는 1986년 타이베이에서 Datex Systems라는 이름으로 설립된 중화민국의 전자제품 제조업체이다. 랜카드 제조업체로 시작해 소비자 시장과 비즈니스 시장을 위한 통신 솔루션을 설계·개발·제조한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1986년 Datex Systems로 출발해 랜카드에서 소비자·비즈니스용 통신 솔루션까지 사업을 넓히고, 2008년 3월 와이파이 제품 출하량 선두에 오른 중화민국의 네트워킹 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "디링크는 중화민국의 전자제품 제조업체로, 랜카드 제조업체로 시작하여 소비자 시장과 비즈니스 시장을 아우르는 통신 솔루션의 설계사, 개발사, 제조사가 되었다. 1994년에 상장되어 대만 증권 거래소의 최초 네트워킹 회사가 되었다. 2007년에는 전 세계 중소기업(SMB) 부문에서 21.9%의 시장 점유율로 선도적인 네트워킹 회사였다. 2008년 3월에는 전 세계 와이파이 제품 출하량에서 전체 시장의 33%를 점유하며 시장 선두주자가 되었다. 2007년에는 세계 최고의 IT 기업을 선정하는 'Info Tech 100' 목록에 올랐고, 비즈니스위크의 주주 수익률 부문에서 세계 9위의 IT 기업으로 선정되었다. 2020년 6월에는 Taiwan Steel Group에 합류했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "디링크는 1986년 대만 타이베이에서 Datex Systems라는 이름으로 설립되었으며, 창업자는 Ken Kao이다. 1988년에는 업계 최초의 P2P LANSmart 네트워크 운영 체제를 출시했다. 이 운영 체제는 Novell의 NetWare 및 TCP/IP와 같은 초기 네트워킹 시스템과 동시에 실행할 수 있었으나, 당시 대부분의 소규모 네트워크 운영 체제에서는 실행할 수 없었다. 1992년 회사 이름을 디링크로 변경했고, 1994년에 상장되어 대만 증권 거래소의 최초 네트워킹 회사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "디링크는 랜카드에서 출발해 와이파이 라우터 등 통신 솔루션을 내놓았다. 2007년에는 Wi-Fi 인증을 받은 최초의 802.11n 초안 2.0 라우터 중 하나인 DIR-655를 출시했으며, 이 제품은 이후 가장 성공적인 초안 802.11n 라우터 중 하나가 되었다. 2013년 5월에는 당시 가장 빠른 무선 처리량을 달성한 주력 제품인 802.11ac AC1750 듀얼 밴드 라우터(DIR-868L)를 출시했다. 2021년에는 홈 와이파이 경험을 변화시키는 새로운 EAGLE PRO AI 시리즈를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 6월 모기업인 Taiwan Steel Group에 합류했다. 2021년에는 국제 정보 보안 브랜드인 사이버비트의 대만 대리점이 되었다고 발표했다. 2022년에는 TRUSTe Privacy 인증, ISO/IEC 27001:2013 및 BS 10012 인증, ISO 14064-1 2018의 GHG 파트 1 인증을 획득했다. 또한 국립 대만 과학 기술 대학교와 함께 외국인 학생의 대만 유학을 장려하는 그룹 장학금을 설립했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1986년 Datex Systems로 출발해 랜카드에서 소비자·비즈니스용 통신 솔루션까지 사업을 넓히고, 2008년 3월 와이파이 제품 출하량 선두에 오른 중화민국의 네트워킹 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.dlink.com/",
+  "entityLinks": {
+   "wikidata": "Q303580",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q303580",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EB%A7%81%ED%81%AC",
+    "https://en.wikipedia.org/wiki/D-Link"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q303580",
+   "country": "중화민국",
+   "inception": "1986",
+   "headquarters": "타이베이시",
+   "founders": [
+    "Ken Kao"
+   ],
+   "parent": "Taiwan Steel Group",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「디링크」 요약과 위키데이터 Q303580 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

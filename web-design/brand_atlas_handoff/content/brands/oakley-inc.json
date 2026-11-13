@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q161906",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/oakley-inc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "oakley-inc",
+  "urlSlug": "oakley-inc",
+  "name": "오클리",
+  "nameKo": "오클리",
+  "nameEn": "Oakley, Inc.",
+  "definition": "오클리(Oakley, Inc.)는 미국 캘리포니아주 Foothill Ranch에 본사를 둔 스포츠 퍼포먼스 장비·라이프스타일 용품 기업이며, 이탈리아 안경 그룹 Luxottica의 자율적 자회사이다.",
+  "summary": "오클리(Oakley, Inc.)는 미국 캘리포니아주 Foothill Ranch에 본사를 둔 스포츠 퍼포먼스 장비·라이프스타일 용품 기업이며, 이탈리아 안경 그룹 Luxottica의 자율적 자회사이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "모토크로스 그립에서 출발해 고글과 선글라스 등 스포츠 퍼포먼스 장비로 확장했으며, 600개 이상의 특허를 보유한 Luxottica 산하 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오클리는 스포츠 퍼포먼스 장비와 라이프스타일 제품을 설계·개발·제조하는 회사이다. 선글라스, 보안경, 안경, 스포츠 바이저, 스키·스노보드 고글, 시계, 의류, 백팩, 신발, 안경테와 기타 액세서리를 다룬다. 대부분의 제품은 본사에서 자체 설계하며, 일부 국가는 해당 시장과 관련된 독점 디자인을 보유한다. 안경, 소재, 퍼포먼스 장비 분야에서 600개 이상의 특허를 보유하고 있다. 1975년 Jim Jannard가 설립했으며, 현재는 미국 캘리포니아주 Foothill Ranch에 본사를 둔 채 이탈리아 안경 그룹 Luxottica의 자율적 자회사로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "오클리는 1975년 Jim Jannard가 차고에서 초기 투자금 300달러로 시작했다. 이름은 Jannard의 잉글리시 세터 'Oakley Anne'에서 따왔다. 모토크로스 행사에서 차 뒤편에 물건을 싣고 'The Oakley Grip'이라는 오토바이 그립을 팔며 출발했고, 이후 BMX와 모토크로스 커뮤니티를 위해 번호판, 장갑, 그립, 팔꿈치 보호대, 턱 보호대, 고글을 생산했다. 1980년 O-Frame 고글을 출시했고 1983년 스키 고글 판매를 시작했다. 1995년 기업공개로 230 million 달러를 조달했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 선글라스, 보안경, 안경, 스포츠 바이저, 스키·스노보드 고글이며 시계, 의류, 백팩, 신발도 판매한다. 첫 선글라스로 1984년 스포츠 지향의 Factory Pilot Eyeshades를, 1985년 일본에서 만든 캐주얼 스타일의 Oakley Frogskin을 내놓았다. 2006년에는 Oliver Peoples group과 전술용 눈 보호 장비 제조사 Eye Safety Systems, Inc.(ESS)를 인수했다. 2010년 칠레 광산 구조 때는 특수 틴트를 적용한 Radar 스포츠 글라스 35개를 기증했다. Meta Platforms와 협업한 Oakley Meta HSTN 라인도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 11월 15일 Luxottica의 현금 인수가 완료되어 오클리는 Ray-Ban, Persol, Vogue 등을 포함한 포트폴리오의 일부가 되었다. 인수 이후 제조 일부가 미국 밖으로 옮겨져 선글라스 프레임과 렌즈 일부를 중국과 이탈리아에서 생산하게 되었다. 2021년 3월에는 Aston Martin F1 Team이 오클리와의 파트너십을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "모토크로스 그립에서 출발해 고글과 선글라스 등 스포츠 퍼포먼스 장비로 확장했으며, 600개 이상의 특허를 보유한 Luxottica 산하 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.oakley.com/",
+  "entityLinks": {
+   "wikidata": "Q161906",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q161906",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%81%B4%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Oakley,_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q161906",
+   "country": "미국",
+   "inception": "1975",
+   "headquarters": "Foothill Ranch",
+   "founders": [
+    "James Jannard"
+   ],
+   "parent": "룩소티카",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Oakley, Inc.」 본문과 위키데이터 Q161906 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q7555824",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/solarcity-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "solarcity",
+  "urlSlug": "solarcity",
+  "name": "솔라시티",
+  "nameKo": "솔라시티",
+  "nameEn": "SolarCity",
+  "definition": "솔라시티(SolarCity)는 미국에서 주거·상업·산업 고객에게 태양광 발전 시스템과 관련 제품·서비스를 판매하고 설치한 기업이다. 2016년 테슬라에 인수되어 Tesla Energy로 재편되었다.",
+  "summary": "솔라시티(SolarCity)는 미국에서 주거·상업·산업 고객에게 태양광 발전 시스템과 관련 제품·서비스를 판매하고 설치한 기업이다. 2016년 테슬라에 인수되어 Tesla Energy로 재편되었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Elon Musk의 사촌들이 창업해 임대형 태양광 시스템을 방문 판매로 보급했고, 미국 최대의 주거용 태양광 설치업체가 된 뒤 테슬라에 인수된 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "솔라시티는 미국에서 태양광 발전 시스템과 관련 제품·서비스를 주거, 상업, 산업 고객에게 판매하고 설치한 상장 기업이다. 고객이 초기 비용 없이 설비를 임대하고 20년 동안 생산된 전력을 회사로부터 구매하는 방식의 방문 판매에 집중했다. 이 모델은 미국에서 가장 대중적인 방식이 되었고, 회사는 미국 최대의 주거용 태양광 설치업체가 되었다. 다만 이 방식 때문에 2016년 인수 시점에는 1.5 billion 달러가 넘는 부채를 안고 있었다. 2016년 테슬라가 인수하면서 독립 기업으로서의 역사는 끝났고, 태양광 사업은 Tesla Energy로 재편되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "솔라시티는 2006년 7월 4일 남아프리카 출신의 형제 Peter Rive와 Lyndon Rive가 설립했다. 두 사람의 사촌인 Elon Musk가 태양광 회사 구상을 제안했고, 회장으로서 창업을 도왔다. 2009년까지 설치한 패널의 발전 용량은 440 메가와트(MW)에 이르렀다. 2011년에는 Clean Currents와 groSolar의 태양광 부문을 인수하며 동부 해안으로 확장했고, 코네티컷, 펜실베이니아, 사우스캐롤라이나, 플로리다, 버몬트, 뉴햄프셔에서 사업을 시작했다. 2013년에는 미국 주거용 태양광 설치 부문의 선두가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 주거용, 상업용, 산업용 고객을 대상으로 한 태양광 발전 시스템의 판매와 설치였다. 영업은 방문 판매를 중심으로 했고, 설비를 임대하는 형태가 핵심이었다. 고객은 초기 비용을 내지 않는 대신 설비가 생산한 전력을 20년 동안 회사로부터 구매하기로 약정했다. 테슬라와는 협력 마케팅 관계였으며, Tesla Roadster 소유자에게 충전소에서 무료 충전을 제공했고 가정용 에너지 저장 배터리 Tesla Powerwall의 초기 설치업체 가운데 하나가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 8월 1일 테슬라가 전액 주식 거래로 솔라시티를 인수하겠다고 발표했고, 인수는 2016년에 이루어졌다. 테슬라는 솔라시티의 태양광 사업을 Tesla Energy로 재편했다. 회사는 인수 직전인 2016년에 현금을 아끼기 위해 전체 인력의 20%를 감축했고, 그해 말 직원은 12,243명이 되었다. 이는 회사 역사상 처음 있었던 인력 감축이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Elon Musk의 사촌들이 창업해 임대형 태양광 시스템을 방문 판매로 보급했고, 미국 최대의 주거용 태양광 설치업체가 된 뒤 테슬라에 인수된 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.solarcity.com/",
+  "entityLinks": {
+   "wikidata": "Q7555824",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7555824",
+    "https://ko.wikipedia.org/wiki/%EC%86%94%EB%9D%BC%EC%8B%9C%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/SolarCity"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7555824",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "샌머테이오",
+   "founders": [
+    "Lyndon Rive"
+   ],
+   "parent": "테슬라",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「SolarCity」 본문과 위키데이터 Q7555824 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

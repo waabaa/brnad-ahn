@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q5507291",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "fuglsang",
+  "urlSlug": "fuglsang",
+  "name": "Fuglsang",
+  "nameKo": "",
+  "nameEn": "Fuglsang",
+  "definition": "Fuglsang은 덴마크 남유틀란트의 도시 하데르슬레우에 있던 덴마크의 양조장 브랜드이다. 1865년 Sören Christian Fuglsang이 설립했으며 2021년 Royal Unibrew에 인수되었다.",
+  "summary": "Fuglsang은 덴마크 남유틀란트의 도시 하데르슬레우에 있던 덴마크의 양조장 브랜드이다. 1865년 Sören Christian Fuglsang이 설립했으며 2021년 Royal Unibrew에 인수되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "하데르슬레우에서 1865년에 시작된 덴마크 양조장으로, Black Bird, Golden Bird처럼 새 이름을 붙인 제품을 포함한 맥주 라인업을 갖춘 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Fuglsang은 덴마크의 양조장 브랜드로, 남유틀란트의 도시 하데르슬레우에 자리한 양조장에서 출발했다. 1865년 Sören Christian Fuglsang이 설립했으며, 본사는 하데르슬레우에 두었다. 2021년 Royal Unibrew가 이 회사를 인수했다. 2022년에는 하데르슬레우 공장의 생산이 중단되었고, 양조는 Faxe와 오덴세로 옮겨졌다. 2022년 라인업에는 Fuglsang Pilsner, Black Bird, Hvid Bock, Golden Bird, Early Bird, Fuglsang Sea Bird, Fuglsang Nighting Ale이 포함되었다. 이 라인업은 필스너, 보크, 인디아 페일 에일, 브라운 에일 등 여러 맥주 스타일에 걸쳐 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Fuglsang은 1865년 덴마크의 하데르슬레우에서 Sören Christian Fuglsang이 설립한 양조장 브랜드이다. 남유틀란트에 속한 도시 하데르슬레우에 본사를 두었으며, 양조장 역시 이곳에 자리했다. 이 양조장은 하데르슬레우 공장에서 맥주를 생산했으며, 해당 공장의 생산은 2022년에 중단되었다. 2021년에는 Royal Unibrew가 회사를 인수했다. 인수 이듬해인 2022년 생산이 중단되면서 양조는 Faxe와 오덴세로 옮겨졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2022년 라인업에는 Fuglsang Pilsner가 포함되었으며, 이 제품은 황금빛 필스너 유형의 맥주이다. Black Bird는 어두운 뮌헨 맥아에서 나오는 깔끔한 맛을 내세운 제품이고, Hvid Bock은 헬러 보크 스타일이다. Golden Bird는 전통적인 덴마크 엑스포트 강도의 맥주(덴마크어 Guld-øl)이다. Early Bird는 시트러스 향이 나는 미국식 홉 맥주이고, Fuglsang Sea Bird는 쓴맛과 단맛, 신선함을 지닌 인디아 페일 에일이다. Fuglsang Nighting Ale은 벨벳처럼 부드럽고 짙은 호박색을 띠는 브라운 에일이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 Royal Unibrew가 Fuglsang을 인수했다. 2022년에는 하데르슬레우 공장의 생산이 중단되었고, 양조는 Faxe와 오덴세로 옮겨졌다. 이로써 생산지는 설립지인 하데르슬레우를 떠나게 되었으며, 회사의 소유권은 2021년부터 Royal Unibrew로 넘어간 상태이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하데르슬레우에서 1865년에 시작된 덴마크 양조장으로, Black Bird, Golden Bird처럼 새 이름을 붙인 제품을 포함한 맥주 라인업을 갖춘 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.fuglsang.dk",
+  "entityLinks": {
+   "wikidata": "Q5507291",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5507291",
+    "https://en.wikipedia.org/wiki/Fuglsang_(brewery)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5507291",
+   "country": "덴마크",
+   "inception": "1865",
+   "headquarters": "하데르슬레우",
+   "founders": [
+    "Sören Christian Fuglsang"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Fuglsang (brewery)」 본문과 위키데이터 Q5507291 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q699848",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mediatek-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mediatek",
+  "urlSlug": "mediatek",
+  "name": "미디어텍",
+  "nameKo": "미디어텍",
+  "nameEn": "MediaTek",
+  "definition": "미디어텍(MediaTek)은 1997년 설립된 대만의 팹리스 반도체 기업이다. 무선 통신기기, 광학 저장기기, HDTV, DVD 등에 쓰이는 칩셋을 설계하고 판매한다.",
+  "summary": "미디어텍(MediaTek)은 1997년 설립된 대만의 팹리스 반도체 기업이다. 무선 통신기기, 광학 저장기기, HDTV, DVD 등에 쓰이는 칩셋을 설계하고 판매한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "시스템 엔지니어링 지원을 제공해 소규모 회사와 신규 진입자의 휴대폰 시장 진입을 가능하게 한 대만의 팹리스 반도체 기업이다. 모바일 칩셋 분야에서 퀄컴과 경쟁해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미디어텍은 대만의 팹리스 반도체 기업으로, 무선 통신기기, 광학 저장기기, HDTV, DVD 등의 칩셋을 설계하고 판매한다. 광학 드라이브용 칩셋 설계로 시작해 DVD 플레이어, 디지털 TV, 휴대폰, 스마트폰, 태블릿용 칩으로 사업을 넓혔다. 모바일 칩 시장은 빠르게 회사의 주요 성장 동력이 되었다. 2009년에는 팹리스 반도체 기업으로 세계 4위, RFWS 모바일 칩셋 분야에서는 퀄컴 다음인 2위에 올랐다. 2020년 3분기에는 주로 인도와 라틴 아메리카 시장의 성장에 힘입어 세계 최대 스마트폰 칩셋 공급업체인 퀄컴을 제쳤다. 중화인민공화국, 싱가폴, 인도, 대한민국, 미국, 일본, 아일랜드, 덴마크, 영국에 지사와 연구소를 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "미디어텍은 원래 홈 엔터테인먼트 제품용 칩셋을 설계하는 대만 회사 유나이티드 마이크로일렉트로닉스 코퍼레이션(UMC)의 계열사였다. 1997년 5월 28일 회사가 분사되어 통합되었다. 2001년 7월 23일에는 대만 증권 거래소(TSEC)에 \"2454\" 코드로 상장했다. 2004년 모바일 장치용 제품을 설계하는 부서를 출범시켰고, 7년 후에는 피처폰과 스마트 장치용 제품을 포함해 연간 5억 개 이상의 모바일 시스템온칩 장치 주문을 받았다. 광범위한 시스템 엔지니어링 지원을 제공해, 수직 통합 대기업이 지배했던 휴대폰 시장에 많은 소규모 회사와 신규 진입자가 진입할 수 있도록 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "미디어텍은 CD-ROM 칩셋을 시작으로 DVD-ROM, DVD 플레이어 칩셋을 판매했다. 이후 디지털 TV, 휴대폰, 스마트폰, 태블릿용 칩으로 제품군을 확장했다. 2007년에는 디지털 이미지 처리 칩셋을 만들던 미국의 NuCore 테크놀로지와 HDTV 칩셋을 만들던 한국의 K-WILL 코퍼레이션을 인수했다. 2008년에는 아날로그 디바이스(Analog Device)의 오델로(Othello) 라디오 수신기와 소프트폰(SoftFone) 베이스밴드 칩셋 라인을 인수해 휴대폰과 무선 통신 분야로 사업을 확장했다. 제품 목록에는 단일 칩 시스템, 모뎀, GNSS 모듈, IEEE 802.11 관련 제품이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 9월 미디어텍은 VVDN Technologies와 협력해 새로운 시대의 AIoT 솔루션을 설계, 제조했다. 2019년 11월에는 인텔과 2021년 PC에 5G를 도입하기 위한 파트너십을 발표했다. 2023년 5월에는 디멘시티(Dimensity)를 사용해 자동차 제조업체를 위한 고급 차량 인포테인먼트 시스템을 구동하는 엔비디아와의 새로운 협력을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시스템 엔지니어링 지원을 제공해 소규모 회사와 신규 진입자의 휴대폰 시장 진입을 가능하게 한 대만의 팹리스 반도체 기업이다. 모바일 칩셋 분야에서 퀄컴과 경쟁해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mediatek.com/",
+  "entityLinks": {
+   "wikidata": "Q699848",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q699848",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%94%94%EC%96%B4%ED%85%8D",
+    "https://en.wikipedia.org/wiki/MediaTek"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q699848",
+   "country": "중화민국",
+   "inception": "1997",
+   "headquarters": "신주시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「미디어텍」 요약과 위키데이터 Q699848 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

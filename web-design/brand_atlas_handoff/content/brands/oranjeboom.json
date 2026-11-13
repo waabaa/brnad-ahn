@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q479003",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "oranjeboom",
+  "urlSlug": "oranjeboom",
+  "name": "Oranjeboom",
+  "nameKo": "",
+  "nameEn": "Oranjeboom",
+  "definition": "Oranjeboom은 1671년 네덜란드 로테르담에서 설립된 맥주 양조장이자 맥주 브랜드이다. 이름은 네덜란드어로 '오렌지 나무'를 뜻하며, 주력 제품은 Oranjeboom Premium Pilsner라는 라거이다.",
+  "summary": "Oranjeboom은 1671년 네덜란드 로테르담에서 설립된 맥주 양조장이자 맥주 브랜드이다. 이름은 네덜란드어로 '오렌지 나무'를 뜻하며, 주력 제품은 Oranjeboom Premium Pilsner라는 라거이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1671년에 시작된 네덜란드 라거 브랜드로, 양조장이 사라진 뒤에도 상표가 이어져 여러 나라에서 라이선스 생산과 수출용 변형 제품으로 판매되어 왔다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Oranjeboom은 1671년 로테르담에서 시작된 네덜란드의 맥주 브랜드이다. 이름은 네덜란드어로 '오렌지 나무'를 뜻한다. 양조장은 주로 Oranjeboom pils와 기타 라거, 그리고 Trio Stout를 생산했다. 로테르담 양조장은 1990년에 문을 닫았고 생산은 브레다로 옮겨졌으며, 브레다 양조장도 2004년에 폐쇄되어 브랜드 생산은 Dommelsch 양조장으로 이전되었다. 2013년 10월에는 '독특한(quirky)' 새로운 유럽식 라거로 다시 출시되었다. 영국, 독일, 뉴질랜드, 프랑스 등에서도 라이선스 생산이나 수출용 변형 제품이 만들어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1671년 로테르담의 두 양조장 De Dissel과 van den Oranjeboom이 합병하면서 시작되었으며, 처음에는 도심의 Coolvest에 있었다. 1872년에는 Willem Baartz가 소유했고, 1882년까지 개신교 계열 양조회사 De Gekroonde Valk에 넘어갔다. 1885년 Feijenoord 지구의 Oranjeboomstraat에 새 양조장이 문을 열었으며, 도시는 양조장 이름을 따 거리 이름을 지었다. 세기 전환기 무렵 이곳은 200개가 넘는 일자리를 제공하는 중요한 고용주였고 국내 최대급 양조장 중 하나였다. 제2차 세계대전 이후에는 수요에 대응하고 경쟁력을 유지하기 위해 De Wereld, Wertha, Phoenix 등 여러 양조장을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Oranjeboom 양조장은 주로 Oranjeboom pils와 기타 라거, 그리고 Trio Stout를 생산했다. 인기 있던 Dutch Gold 맥주도 이 양조장에서 만들었으며, 이 맥주는 아일랜드 공화국 소매 시장에서 가장 많이 팔리는 라거 중 하나이다. 브랜드의 주력 제품은 도수 5%의 라거 Oranjeboom Premium Pilsner이다. 도수 8.5%의 Extra Strong, 12.0%의 Super Strong, 저도수 및 무알코올 제품, 그리고 bokbier도 같은 브랜드로 판매된다. 수출용으로는 프랑스에서 만든 16% 도수의 'Premium Strong Beer' 변형도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "베네룩스 지역을 제외한 Oranjeboom 상표는 United Dutch Breweries가 소유하며, 이전에는 영국의 Allied Breweries가 소유했다. 2001년의 부진한 실적은 2004년 브레다 양조장 폐쇄로 이어졌고 335개의 일자리가 사라졌다. 이후 생산은 Dommelsch 양조장으로 옮겨졌고, 2013년 10월 브랜드가 새로운 유럽식 라거로 다시 출시되었다. 뉴질랜드에서는 2005년부터 Lion Nathan이 라이선스로 양조해 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1671년에 시작된 네덜란드 라거 브랜드로, 양조장이 사라진 뒤에도 상표가 이어져 여러 나라에서 라이선스 생산과 수출용 변형 제품으로 판매되어 왔다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q479003",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q479003",
+    "https://en.wikipedia.org/wiki/Oranjeboom_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q479003",
+   "country": "네덜란드",
+   "inception": "1671",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Oranjeboom Brewery」 본문과 위키데이터 Q479003 팩트를 근거로 편집"
+ }
+}

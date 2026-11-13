@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q62299",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/jolla-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jolla",
+  "urlSlug": "jolla",
+  "name": "욜라",
+  "nameKo": "욜라",
+  "nameEn": "Jolla",
+  "definition": "욜라(Jolla)는 핀란드의 기술 기업으로, 모바일 운영체제 Sailfish OS를 개발하고 공급한다. Nokia의 MeeGo 프로젝트 팀 출신 인력이 2011년에 설립했다.",
+  "summary": "욜라(Jolla)는 핀란드의 기술 기업으로, 모바일 운영체제 Sailfish OS를 개발하고 공급한다. Nokia의 MeeGo 프로젝트 팀 출신 인력이 2011년에 설립했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "MeeGo 팀 출신이 세운 Sailfish OS의 개발사로, Android 앱 실행 기술을 AppSupport로 발전시켜 차량·임베디드 시스템에 제공하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "욜라는 운영체제 Sailfish OS를 개발하고 공급하는 핀란드 기술 기업이다. 연구개발 사무소를 헬싱키, 탐페레, 홍콩의 Cyberport에 두고 있다. 회사 이름은 핀란드어로 작고 민첩한 보트인 딩기를 뜻하며, Samsung과 Apple 같은 거대 기업을 큰 유람선에 빗대어 그들에 맞서겠다는 의미를 담았다. Sailfish OS는 MeeGo의 직접적인 후속 운영체제이며 Mer의 미들웨어 코어 스택을 사용한다. Android 앱을 리눅스에서 실행하는 기능은 AppSupport 제품으로 발전했다. 2024년에는 러시아 투자자에서 벗어나기 위해 기존 회사가 파산을 신청하고 JollyBoys라는 이름으로 활동을 이어갔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Nokia는 2010년 Intel과 함께 Maemo와 Moblin을 합쳐 MeeGo를 출범시켰으나, 2011년 당시 CEO Stephen Elop이 비용 절감을 이유로 MeeGo 프로젝트를 취소했다. 그 뒤 2011년 10월 MeeGo 팀 일부가 Nokia를 떠나 욜라 프로젝트를 만들었고, 이때 Nokia의 Bridge 프로그램 자금을 활용했다. 2012년 7월 6일에는 제스처 기반 스와이프 인터페이스를 쓰는 새 스마트폰을 개발하겠다는 계획을 공개하고 운영체제를 Sailfish OS로 명명했다. 2013년 9월 17일에는 내장된 Alien Dalvik 덕분에 휴대전화에서 Android 앱을 실행할 수 있다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 운영체제 Sailfish OS로, Qt, QML, HTML5로 개발한 제스처 기반 사용자 인터페이스를 갖추고 있다. 욜라의 스마트폰은 Nokia N9의 후속으로 소개되며, MeeGo의 오픈소스 구성 요소만 사용했기 때문에 사용자 인터페이스 디자인은 처음부터 새로 개발해야 했다. Android 앱 실행 기능은 AppSupport 제품으로 발전해 차량용 인포테인먼트 시스템과 기타 임베디드 시스템에 제공된다. 태블릿 Jolla Tablet은 2015년 12월 프로젝트가 취소되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "욜라는 2015년 7월 하드웨어 사업을 신설 회사로 분리하고 Sailfish OS의 개발과 라이선스 사업에 집중하기로 했다. 같은 해 11월에는 투자자의 자금 지원이 지연되면서 직원의 절반을 해고했다. 2024년에는 러시아 투자자에서 벗어나기 위해 기존 회사가 파산을 신청하고 JollyBoys라는 이름으로 활동을 이어갔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "MeeGo 팀 출신이 세운 Sailfish OS의 개발사로, Android 앱 실행 기술을 AppSupport로 발전시켜 차량·임베디드 시스템에 제공하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://jolla.com/",
+  "entityLinks": {
+   "wikidata": "Q62299",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q62299",
+    "https://ko.wikipedia.org/wiki/%EC%9A%9C%EB%9D%BC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Jolla"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q62299",
+   "country": "핀란드",
+   "inception": "2011",
+   "headquarters": "헬싱키",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Jolla」 본문과 위키데이터 Q62299 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

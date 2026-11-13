@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q114258161",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/temu-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "temu",
+  "urlSlug": "temu",
+  "name": "Temu",
+  "nameKo": "Temu",
+  "nameEn": "Temu",
+  "definition": "Temu(상호: Whaleco Inc.)는 중국 전자상거래 회사 핀둬둬가 운영하는 온라인 시장이다. 주로 중국에서 직접 소비자에게 배송되는 소비재를 대폭 할인된 가격으로 제공한다.",
+  "summary": "Temu(상호: Whaleco Inc.)는 중국 전자상거래 회사 핀둬둬가 운영하는 온라인 시장이다. 주로 중국에서 직접 소비자에게 배송되는 소비재를 대폭 할인된 가격으로 제공한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "중국 공급업체가 소비자에게 직접 배송하는 방식으로 대폭 할인된 가격을 내세우며, 대규모 온라인 광고와 슈퍼볼 광고로 알려진 PDD Holdings 계열 플랫폼이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Temu는 중국 기반 공급업체가 대상 국가의 중간 유통업체를 거치지 않고 고객에게 직접 판매하고 배송하도록 하는 온라인 시장이다. 구매는 인터넷 브라우저나 전용 모바일 앱을 통해 이루어진다. 회사는 페이스북과 인스타그램에서 대규모 온라인 광고 캠페인을 벌이고, 슈퍼볼 LVIII에서 TV 광고를 게재해 인기를 얻었다. Sensor Tower의 연구에 따르면 2023년 4분기에 Temu 사용자는 일주일에 평균 23분을 앱에서 보냈으며, 이는 아마존의 18분, 이베이의 22분과 비교된다. 호주, 뉴질랜드, 유럽 여러 나라, 라틴 아메리카, 남아프리카공화국 등으로 진출했으며, 경쟁사 쉬인과 여러 차례 소송을 주고받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Temu는 2022년에 설립되었으며 모기업은 PDD Holdings이다. PDD Holdings는 중국의 인기 온라인 상거래 플랫폼인 핀둬둬를 소유한 회사로, 처음에 케이맨 제도에 등록된 후 2023년에 법인 설립 장소를 더블린으로 이전했다. Temu는 2022년 9월 출시되었고, 2023년 3월 호주와 뉴질랜드에서 출시되었다. 다음 달에는 프랑스, 독일, 이탈리아, 네덜란드, 스페인 및 영국에서 출시되었다. 이후 라틴 아메리카 시장으로 확장되었고, 2024년 1월 17일 49번째 진출 국가인 남아프리카공화국에 공식 출시되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Temu는 판매자가 입점해 상품을 올리는 온라인 시장 형태로 운영되며, 주로 소비재를 판매한다. 중국 기반 공급업체는 중간 유통업체 없이 고객에게 직접 판매하고 배송한다. 구매는 인터넷 브라우저나 전용 모바일 앱에서 가능하다. Temu는 제휴 코드, 소셜 미디어, 게임화를 통해 신규 사용자를 성공적으로 추천한 일부 사용자에게 무료 상품을 제공한다. 판매자에게는 알리익스프레스보다 낮은 가격을 요구하며, 같은 제품이면 가격이 가장 낮은 판매자만 승인하고 최소 판매 요구 사항(30개, 14일 기준 $90)을 충족하지 못한 항목은 제거한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 12월 Temu는 플랫폼과 사용자 계정의 보안을 강화하기 위해 2단계 인증(2FA)을 구현했다. 2024년 2월에는 여러 개의 슈퍼볼 광고를 게재하며 미화 1,500만 달러의 경품을 제공했고, 그 결과 회사 이름과 트래픽에 대한 검색이 급증했다. 쉬인과는 2022년 12월부터 소송을 주고받았으며, 2024년 8월에도 쉬인이 저작권 침해를 이유로 Temu를 고소했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국 공급업체가 소비자에게 직접 배송하는 방식으로 대폭 할인된 가격을 내세우며, 대규모 온라인 광고와 슈퍼볼 광고로 알려진 PDD Holdings 계열 플랫폼이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.temu.com/",
+  "entityLinks": {
+   "wikidata": "Q114258161",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q114258161",
+    "https://ko.wikipedia.org/wiki/Temu",
+    "https://en.wikipedia.org/wiki/Temu"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q114258161",
+   "country": null,
+   "inception": "2022",
+   "headquarters": null,
+   "founders": [],
+   "parent": "PDD Holdings",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「Temu」 요약과 위키데이터 Q114258161 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

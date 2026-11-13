@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1402670",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "maes-pils",
+  "urlSlug": "maes-pils",
+  "name": "Maes pils",
+  "nameKo": "",
+  "nameEn": "Maes pils",
+  "definition": "Maes pils는 Alken-Maes가 양조하는 벨기에의 필스 맥주이다. Jupiler와 Stella Artois에 이어 벨기에에서 세 번째로 많이 팔리는 필스너이다.",
+  "summary": "Maes pils는 Alken-Maes가 양조하는 벨기에의 필스 맥주이다. Jupiler와 Stella Artois에 이어 벨기에에서 세 번째로 많이 팔리는 필스너이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "1930년 안트베르펜 만국박람회를 위해 Prima Maezenbier라는 이름으로 처음 만들어진 벨기에 필스로, Jupiler와 Stella Artois 다음으로 많이 팔린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Maes pils는 Alken-Maes가 양조하는 벨기에의 필스 맥주이다. 1930년 안트베르펜 만국박람회를 위해 처음 만들어졌으며 당시 이름은 Prima Maezenbier였다. Jupiler와 Stella Artois에 이어 벨기에에서 세 번째로 많이 팔리는 필스너이다. 2008년 Alken-Maes는 네덜란드의 Heineken Brewery에 인수되었다. 2009년에는 레시피를 바꾸어 알코올 도수를 4.9%에서 5.2%로 올리고 새 로고, 양각 병, 'Extra Mout/Extra Malt' 슬로건을 도입했다. 25cl, 33cl, 75cl 병과 25cl, 33cl, 50cl 캔, 5리터 케그로도 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 맥주는 1930년 안트베르펜 만국박람회를 위해 처음 생산되었으며, 당시 이름은 Prima Maezenbier였다. 이후 Jupiler, Stella Artois에 이어 벨기에에서 세 번째로 많이 팔리는 필스너가 되었다. 2008년 양조사 Alken-Maes가 네덜란드의 Heineken Brewery에 인수되었다. 2009년에는 Alken-Maes가 레시피를 변경해 맛이 약간 달라졌고, 알코올 도수가 4.9%에서 5.2%로 높아졌다. 이 변화를 알리기 위해 새 로고와 양각 병, 설명형 슬로건 'Extra Mout/Extra Malt'를 내놓고 브랜드를 새롭게 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 브랜드의 주력 제품은 Alken-Maes가 양조하는 필스 맥주로, 2009년 레시피 변경 이후 알코올 도수는 5.2%이다. 병 제품은 25cl, 33cl, 75cl의 세 가지 용량으로 나온다. 캔 제품은 25cl, 33cl, 50cl의 세 가지 용량으로 판매된다. 이 밖에 5리터 케그 형태로도 유통되어 병과 캔 이외의 용량도 갖추고 있다. 2009년 리브랜딩으로 양각 처리된 새 병과 새 로고가 적용되었으며, 슬로건은 'Extra Mout/Extra Malt'이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "양조사 Alken-Maes는 2008년 네덜란드의 Heineken Brewery에 인수되어 그 산하에 있다. 벨기에에서 Jupiler, Stella Artois에 이어 판매량 3위의 필스너이다. 2009년 개편으로 알코올 도수는 5.2%이며 새 로고와 양각 병, 'Extra Mout/Extra Malt' 슬로건을 사용한다. 병은 25cl, 33cl, 75cl, 캔은 25cl, 33cl, 50cl 용량이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1930년 안트베르펜 만국박람회를 위해 Prima Maezenbier라는 이름으로 처음 만들어진 벨기에 필스로, Jupiler와 Stella Artois 다음으로 많이 팔린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.alken-maes.be/",
+  "entityLinks": {
+   "wikidata": "Q1402670",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1402670",
+    "https://en.wikipedia.org/wiki/Maes_pils"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1402670",
+   "country": "벨기에",
+   "inception": "1946",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Maes pils」 본문과 위키데이터 Q1402670 팩트를 근거로 편집"
+ }
+}

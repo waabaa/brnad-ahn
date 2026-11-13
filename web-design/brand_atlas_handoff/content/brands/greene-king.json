@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q5564162",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/greene-king-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "greene-king",
+  "urlSlug": "greene-king",
+  "name": "Greene King",
+  "nameKo": "",
+  "nameEn": "Greene King",
+  "definition": "Greene King은 1799년에 설립된 영국의 펍·양조 기업이다. 서퍽의 베리세인트에드먼즈에 본사를 두고 펍, 레스토랑, 호텔을 직접 운영하며 자체 맥주도 생산한다.",
+  "summary": "Greene King은 1799년에 설립된 영국의 펍·양조 기업이다. 서퍽의 베리세인트에드먼즈에 본사를 두고 펍, 레스토랑, 호텔을 직접 운영하며 자체 맥주도 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "양조와 펍 운영을 함께 하는 영국의 펍 회사로, 2015년 Spirit 인수를 통해 영국 최대의 관리형 펍 회사가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Greene King은 영국의 펍·양조 기업으로, 서퍽의 베리세인트에드먼즈에 본사를 두고 있다. 펍, 레스토랑, 호텔을 운영하며 Hungry Horse와 Farmhouse Inns 같은 브랜드를 보유하고 있다. 대표 맥주는 Greene King IPA와 Abbot Ale로, 각각 영국 캐스크 에일 판매량 3위와 5위에 해당한다. 그룹은 약 3,100곳의 펍, 레스토랑, 호텔을 운영한다. 한때 런던증권거래소에 상장되어 있었으나 2019년 10월 CK Asset Holdings에 인수되었다. 2026년 3월에는 핵심 포트폴리오에 집중하기 위해 150개 펍을 매각할 계획을 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Benjamin Greene이 베리세인트에드먼즈에서 양조장을 세우며 사업이 시작되었다. 1836년 Edward Greene이 사업을 이어받았고, 1887년 Frederick William King의 양조 사업과 합병하면서 Greene King이라는 이름이 만들어졌다. 이후 Rayments Brewery(1961), Hungry Horse(1996), Morland Brewery(1999), Belhaven Brewery(2005), Loch Fyne 레스토랑 체인(2007), Spirit Pub Company(2015) 등을 인수하며 성장했다. 2015년 Spirit 인수로 영국 최대의 관리형 펍 회사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "양조 부문에서는 베리세인트에드먼즈 양조장에서 Greene King IPA와 Abbot Ale을 만든다. 이 양조장은 지금은 문을 닫은 양조장의 이름을 단 맥주도 생산하며, Morland의 Old Speckled Hen, Ruddles, Tolly Cobbold 등이 여기에 해당한다. 스코틀랜드 던바의 Belhaven Brewery도 계속 가동되고 있다. 소매 부문은 Hungry Horse, Loch Fyne, Taylor Walker, Metropolitan Pub Company 등의 브랜드를 가진 목적지형 펍·레스토랑과 지역 펍으로 나뉜다. 임대, 테넌트, 프랜차이즈 방식의 펍을 운영하는 Pub Partners 부문도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 10월 High Court의 승인을 거쳐 홍콩 기반의 CK Asset Holdings에 인수되었으며, 이 회사가 모기업이다. 2018년 11월에는 14년간 CEO를 맡은 Rooney Anand의 퇴임이 발표되었다. 2026년 3월에는 핵심 포트폴리오에 집중하기 위해 150개 펍을 매각할 계획을 밝혔다. 소매 부문은 매장을 늘리고 Pub Partners 부문은 줄이는 전략을 취한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조와 펍 운영을 함께 하는 영국의 펍 회사로, 2015년 Spirit 인수를 통해 영국 최대의 관리형 펍 회사가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.greeneking.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q5564162",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5564162",
+    "https://en.wikipedia.org/wiki/Greene_King"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5564162",
+   "country": "영국",
+   "inception": "1799",
+   "headquarters": "베리세인트에드먼즈",
+   "founders": [
+    "Benjamin Greene"
+   ],
+   "parent": "CK Asset Holdings",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Greene King」 본문과 위키데이터 Q5564162 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

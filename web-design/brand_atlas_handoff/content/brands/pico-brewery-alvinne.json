@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2689313",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/pico-brewery-alvinne-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pico-brewery-alvinne",
+  "urlSlug": "pico-brewery-alvinne",
+  "name": "Pico brewery Alvinne",
+  "nameKo": "",
+  "nameEn": "Pico brewery Alvinne",
+  "definition": "Pico brewery Alvinne은 벨기에 도시 Zwevegem 근처의 마을 Moen에 있는 소규모 양조장이다. 벨기에 전통 스타일 맥주와 독창적인 맥주를 함께 만든다.",
+  "summary": "Pico brewery Alvinne은 벨기에 도시 Zwevegem 근처의 마을 Moen에 있는 소규모 양조장이다. 벨기에 전통 스타일 맥주와 독창적인 맥주를 함께 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "소규모 양조장이면서 여러 스타일의 맥주를 만들고, 스타일마다 서로 다른 시판 효모 균주를 쓴다는 점이 다른 양조장과 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 2002년에 설립된 벨기에의 소규모 양조장이다. 강한 골든 에일, 수도원 스타일 맥주, 세종처럼 벨기에 전통 스타일을 따른 맥주를 만든다. 스타일의 경계를 넘나드는 독창적인 맥주와 임페리얼 스타우트처럼 다른 나라의 스타일에서 영감을 받은 맥주도 만든다. 소규모 양조장으로서는 드물게 많은 종류의 맥주를 생산하며, 맥주마다 시중에서 구할 수 있는 서로 다른 효모 균주를 쓴다. 모든 맥주는 여과하지 않고 저온살균도 하지 않으며, 라벨에 대부분의 재료를 표기한다. 레시피에는 영국과 체코의 홉 품종이 가장 흔하게 쓰인다. 이 양조장은 국제적인 관심을 얻었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 2002년에 시작되어 처음에는 동플랑드르의 Brakel에 있는 De Graal 양조장 시설에서 맥주를 만들었다. 2003년에는 Ingelmunster 시내의 자체 시설로 옮겼고, 2006년에는 다시 현재의 시설인 Heule로 이전했다. 양조장 이름은 지역 민담에 나오는 여성 정령 Witte Wieven에서 유래했다. 이전 이름에는 Picobrouwerij라는 말이 들어 있었는데, 생산량이 일반적인 마이크로 양조장보다 몇 자릿수 작다는 점을 아주 작은 대상을 가리키는 과학 용어에 빗댄 것이다. Pico-라는 접두어에 네덜란드어와 플랑드르어로 양조장을 뜻하는 brouwerij를 붙인 이름이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주로 Alvinne Blond(6.0% ABV), Alvinne Bruin(6.5% ABV), Alvinne Blond Extra(7.1% ABV), Alvinne Tripel(8.7% ABV)이 있다. Alvinne Tripel은 2005년 3월 Zythos Beer Festival에서 선보였다. 성경의 동방박사 세 사람 이름을 딴 크리스마스 맥주로 Balthazar(9.0% ABV), Melchior(11.0% ABV), Gaspar(8.0% ABV)를 만든다. 영국의 맥주 애호가 Chris 'Podge' Pollard의 요청으로 만든 Podge Belgian Imperial Stout(10.5% ABV)도 있다. 제품은 대체로 33cl 병과 생맥주로만 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "작은 규모의 양조장으로, 600리터 용량의 양조 솥과 1000리터 강철 발효 탱크 네 개를 사용한다. 연간 물량을 맞추기 위해 일주일에 세 번 정도 양조하며, 도수가 높은 맥주는 당화·여과조의 크기 제한 때문에 한 번에 300리터까지만 만든다. 맥주는 모두 여과하지 않고 저온살균하지 않으며, 이 양조장은 국제적인 관심을 얻었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소규모 양조장이면서 여러 스타일의 맥주를 만들고, 스타일마다 서로 다른 시판 효모 균주를 쓴다는 점이 다른 양조장과 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.alvinne.com/",
+  "entityLinks": {
+   "wikidata": "Q2689313",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2689313",
+    "https://en.wikipedia.org/wiki/Alvinne"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2689313",
+   "country": "벨기에",
+   "inception": "2003",
+   "headquarters": "Moen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Alvinne」 본문과 위키데이터 Q2689313 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

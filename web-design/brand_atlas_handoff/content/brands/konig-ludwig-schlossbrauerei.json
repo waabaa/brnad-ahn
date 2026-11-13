@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q878149",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "konig-ludwig-schlossbrauerei",
+  "urlSlug": "konig-ludwig-schlossbrauerei",
+  "name": "König Ludwig Schlossbrauerei",
+  "nameKo": "",
+  "nameEn": "König Ludwig Schlossbrauerei",
+  "definition": "König Ludwig Schlossbrauerei는 독일 어퍼바이에른의 퓌르슈텐펠트브루크에 있는 양조장이다. 바이에른 왕가였던 Wittelsbach 가문의 양조 전통을 잇는 곳으로, König Ludwig와 Kaltenberg 브랜드의 맥주를 만든다.",
+  "summary": "König Ludwig Schlossbrauerei는 독일 어퍼바이에른의 퓌르슈텐펠트브루크에 있는 양조장이다. 바이에른 왕가였던 Wittelsbach 가문의 양조 전통을 잇는 곳으로, König Ludwig와 Kaltenberg 브랜드의 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "Wittelsbach 가문의 후손이 소유하며, 바이에른 왕국 시대로 거슬러 올라가는 유산과 Schloss Kaltenberg 안의 양조 시설을 갖춘 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장의 정식 명칭은 König Ludwig GmbH & Co. KG Schlossbrauerei Kaltenberg이며, 독일 어퍼바이에른의 퓌르슈텐펠트브루크에 있다. 슬로건 'Bier von königlicher Hoheit'는 '왕족의 맥주'라는 뜻이며, 바이에른 왕국으로 거슬러 올라가는 양조장의 유래를 가리킨다. 현재 소유주는 Wittelsbach 가문의 Prince Luitpold이다. 그는 바이에른의 마지막 왕 Ludwig III의 증손자이다. 맥주는 König Ludwig와 Kaltenberg 두 브랜드로 나뉘며, 해외에서는 영국, 스웨덴, 인도, 인도네시아, 크로아티아에서 Kaltenberg 브랜드로 라이선스 생산이 이루어진다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Wittelsbach 가문은 1260년까지 양조장을 소유한 것으로 알려져 있다. 그로부터 32년 뒤 바이에른 공작 Rudolf I이 Schloss Kaltenberg를 지었고, 이 성은 지금도 양조장 시설의 일부로 쓰인다. 현재 형태의 양조장은 1870년에 문을 열었다. 1980년에는 퓌르슈텐펠트브루크의 Marthabräu 양조장을 사들였으며, 이곳에 회사 본부가 있고 생산의 상당 부분이 이루어진다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "König Ludwig 브랜드에는 König Ludwig Weissbier Hell, Dunkel, Kristall, Leicht, Alkoholfrei와 König Ludwig Dunkel, König Ludwig Hell이 있다. Kaltenberg 브랜드에는 Kaltenberg Spezial, Kaltenberg Schloss-Keller Naturtrüb, Kaltenberg 3,8, Kaltenberg Leicht, Kaltenberg Ritterbock이 있다. 크로아티아용 Kaltenberg Pils와 인도용 Kaltenberg Royal Lager도 있다. 이 밖에 Königliches Festtagsbier와 Prinzregent Luitpold Weizenbock이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2001년 Prince Luitpold는 Warsteiner와 50대 50 합작 관계를 맺었다. 2007년에는 홀츠키르헨의 소규모 양조장을 회사에 편입하고, Thannhausen의 Postbrauerei와 합작회사를 세웠다. 2004년 기준 연간 생산량은 340,000헥토리터이며, 이 가운데 100,000헥토리터가 Schloss Kaltenberg 시설에서 생산된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Wittelsbach 가문의 후손이 소유하며, 바이에른 왕국 시대로 거슬러 올라가는 유산과 Schloss Kaltenberg 안의 양조 시설을 갖춘 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.koenig-ludwig-brauerei.com",
+  "entityLinks": {
+   "wikidata": "Q878149",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q878149",
+    "https://en.wikipedia.org/wiki/K%C3%B6nig_Ludwig_Schlossbrauerei"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q878149",
+   "country": "독일",
+   "inception": "1871",
+   "headquarters": "퓌르슈텐펠트브루크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「König Ludwig Schlossbrauerei」 본문과 위키데이터 Q878149 팩트를 근거로 편집"
+ }
+}

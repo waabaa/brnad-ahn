@@ -1,0 +1,71 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q790068",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bank-of-china",
+  "urlSlug": "bank-of-china",
+  "name": "중국은행",
+  "nameKo": "중국은행",
+  "nameEn": "Bank of China",
+  "definition": "중국은행(Bank of China)은 중화인민공화국 베이징에 본점을 두고 있는 국영상업은행이며 중국 최초의 은행이다. 정식 명칭은 중국은행고분유한공사이고 약칭은 BOC이다.",
+  "summary": "중국은행(Bank of China)은 중화인민공화국 베이징에 본점을 두고 있는 국영상업은행이며 중국 최초의 은행이다. 정식 명칭은 중국은행고분유한공사이고 약칭은 BOC이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.183333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "1905년 대청호부은행으로 출발한 중국 최초의 은행으로, 외환전문은행을 거쳐 4대 국영상업은행의 하나가 된 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "중국은행은 중화인민공화국의 국영상업은행으로 중국 최초의 은행이며, 중국어 표기는 中国银行, 병음은 Zhōngguó Yínháng이다. 본점은 베이징에 있고 약칭은 중은이며, 주식 코드는 상하이 601988, 홍콩 3988이다. 1994년 국유상업은행으로 지정되어 중국공상은행, 중국농업은행, 중국건설은행과 함께 중화인민공화국의 4대 국영상업은행이 되었다. 2003년에는 은행 총 자산이 세계에서 15번째로 큰 은행으로 평가되었다. 중화인민공화국 성립 이후에는 중국인민은행의 관리하에 유일한 외환전문은행이 되었다. 홍콩지점은 중국은행과 개별적으로 홍콩과 마카오에서 발권은행 업무를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "중국은행은 1905년 청나라 정부에 의해 대청호부은행이라는 이름으로 설립되었다. 1908년에는 대청은행으로 명칭이 바뀌었다. 신해혁명으로 청나라가 멸망한 뒤인 1912년 2월 쑨원에 의해 중화민국의 중앙은행으로 지정되었으나 1928년에 상업은행이 되었다. 1935년에는 중화민국 중앙은행, 중국농민은행, 교통은행과 함께 화폐를 발행하는 발권은행이 되었다. 1949년 중화인민공화국이 성립되면서 국영은행이 되었고, 1979년에는 경제개혁의 영향으로 국무원 직속 기관으로 지정되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "중국은행의 정식 명칭은 중국은행고분유한공사(中国银行股份有限公司)이다. 2004년 중국에서 처음으로 주식회사가 되었다. 국영상업은행으로서 베이징에 본점을 두고 있으며, 상하이와 홍콩에서 각각 601988, 3988의 코드를 사용한다. 홍콩지점은 홍콩과 마카오에서 발권은행 업무를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1905년 대청호부은행으로 출발한 중국 최초의 은행으로, 외환전문은행을 거쳐 4대 국영상업은행의 하나가 된 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.boc.cn",
+  "entityLinks": {
+   "wikidata": "Q790068",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q790068",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Bank_of_China"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q790068",
+   "country": "중화인민공화국",
+   "inception": "1912",
+   "headquarters": "시청구",
+   "founders": [
+    "Chen Jintao"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「중국은행」 요약과 위키데이터 Q790068 팩트를 근거로 편집"
+ }
+}

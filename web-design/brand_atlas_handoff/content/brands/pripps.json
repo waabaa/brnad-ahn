@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q17190954",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pripps",
+  "urlSlug": "pripps",
+  "name": "Pripps",
+  "nameKo": "",
+  "nameEn": "Pripps",
+  "definition": "Pripps는 스웨덴의 옛 양조회사로, 지금은 Carlsberg의 브랜드로만 이어지고 있다. 주력 제품은 1959년에 처음 나온 라이트 라거 Pripps Blå이다.",
+  "summary": "Pripps는 스웨덴의 옛 양조회사로, 지금은 Carlsberg의 브랜드로만 이어지고 있다. 주력 제품은 1959년에 처음 나온 라이트 라거 Pripps Blå이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 정부가 한때 과반 지분을 소유했던 양조회사로, 법정 최소 보리 함량인 51%로 만드는 저렴한 라거 Pripps Blå로 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Pripps는 스웨덴의 옛 양조회사에서 비롯된 브랜드로, 지금은 Carlsberg의 브랜드로만 남아 있다. 회사는 스톡홀름을 기반으로 했으며 주력 제품은 Pripps Blå였고, Ramlösa도 소유했다. 스웨덴 정부는 1974년에 Pripps의 과반 지분을 소유하게 되었다. 1989년에는 당시 Procordia의 자회사였던 Pripps가 바누아투 정부와 합작으로 National Brewery Ltd를 세웠고, 이듬해 Tusker 맥주를 내놓았다. 대표 제품 Pripps Blå는 1959년에 처음 나온 라이트 라거로, 스웨덴에서 가장 인기 있는 맥주 중 하나로 알려져 있다. 현재 Pripps 맥주는 Carlsberg Sverige에서 양조된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Pripps는 1828년 예테보리에서 Johan Albrecht Pripp이 세웠다. 대표 맥주 Pripps Blå는 1959년에 처음 선보였다. 1974년에는 스웨덴 정부가 Pripps의 과반 지분을 소유하게 되었다. 1989년에는 당시 Procordia의 자회사였던 Pripps가 바누아투 정부와 합작으로 National Brewery Ltd를 설립했고, 이듬해 Tusker 맥주를 출시했다. 1972년부터 1981년까지 Pripps bryggerier AB의 CEO는 Kurt Rydé였고, 이후 Nils Holgerson, Bill Fransson, Hans Källenius, Andreas Ericson이 차례로 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 1959년에 처음 나온 라이트 라거 Pripps Blå로, 스웨덴에서 가장 인기 있는 맥주 중 하나로 알려져 있다. Pripps Blå는 저렴한 맥주로, 보리를 정확히 51%만 넣어 양조하며 이는 스웨덴 법이 맥주에 요구하는 최소 보리 함량이다. 저칼로리 버전인 Pripps Blå Light도 함께 만든다. 다른 버전으로는 알코올 도수 7.2%의 풀 몰트 초강 맥주 Pripps Blå Extra Stark가 있고, 탄수화물 함량이 낮은 Pripps Blå Pure는 Pripps Blå Light를 대체할 예정이다. Pripps는 Ramlösa도 소유했으며, 1990년에는 합작회사를 통해 Tusker 맥주를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Pripps는 현재 독립된 양조회사로서는 존재하지 않고 Carlsberg의 브랜드로만 이어지고 있다. 회사는 한때 스톡홀름을 기반으로 했지만 지금은 브랜드만 남았다. 맥주는 Carlsberg Sverige에서 양조된다. 탄수화물 함량이 낮은 Pripps Blå Pure는 Pripps Blå Light를 대체할 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 정부가 한때 과반 지분을 소유했던 양조회사로, 법정 최소 보리 함량인 51%로 만드는 저렴한 라거 Pripps Blå로 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q17190954",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17190954",
+    "https://en.wikipedia.org/wiki/Pripps"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17190954",
+   "country": "스웨덴",
+   "inception": "1964",
+   "headquarters": "예테보리",
+   "founders": [
+    "Johan Albrecht Pripp"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Pripps」 본문과 위키데이터 Q17190954 팩트를 근거로 편집"
+ }
+}

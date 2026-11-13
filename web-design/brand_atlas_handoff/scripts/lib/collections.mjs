@@ -72,6 +72,13 @@ export const COLLECTIONS = [
     lead: "커피 전문점 체인과 로스터리 브랜드를 모았습니다. 컵과 슬리브, 매장 인테리어가 곧 브랜드의 얼굴이 되는 업종이라, 로고가 들고 다니는 물건 위에서 어떻게 보이는지가 중요한 분야입니다.",
   },
   {
+    // 2026-11-07: Q15075508 beer brand(하이네켄·버드와이저·코로나 P31), Q131734 brewery, Q11644505 brewing industry(몰슨 쿠어스 P452).
+    slug: "beer", name: "맥주 브랜드", en: "Beer Brands", byCountry: true,
+    p452: ["Q11644505"], p31: ["Q15075508", "Q131734"],
+    include: ["stella-artois", "asahi", "kirin", "hite", "hitejinro", "ceria", "forgotten-boardwalk-brewing", "cass"],
+    lead: "세계 각국의 맥주 브랜드와 양조 기업을 모았습니다. 병과 캔, 잔, 탭 핸들처럼 손에 쥐는 물건마다 로고가 붙고 술집 간판에서 멀리서도 알아봐야 해서, 양조장의 문장(紋章)이나 창업 연도를 내세운 전통형 표장과 굵은 글자 로고가 함께 쓰이는 업종입니다.",
+  },
+  {
     slug: "digital-services", name: "디지털 서비스", en: "Digital Products & Services",
     p452: [], p31: ["Q620615", "Q59152282", "Q3220391", "Q2462003"],
     include: ["twitch", "vevo", "yahoo", "roblox", "lyft", "reddit", "tripadvisor", "deezer", "mailchimp", "kit", "mux", "mode", "uniqode", "big-cartel", "cazoo", "go-compare", "peerspace", "reveri", "otta", "ding", "peckish", "perfomance-golf", "google-play", "quora", "musinsa", "kakao", "baemin", "danggeun-market", "yanolja", "ohou", "zigbang", "bunjang", "coupang-eats", "kakaopage", "melon", "kakao-t", "dabang", "stayfolio", "kream", "myrealtrip", "ridi", "banksalad", "ably", "wanted", "gangnam-unni", "doctornow", "yogiyo", "watcha", "yeogi-eottae", "jobkorea", "saramin", "finda"],

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q181084",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pirinsko-pivo",
+  "urlSlug": "pirinsko-pivo",
+  "name": "Pirinsko Pivo",
+  "nameKo": "",
+  "nameEn": "Pirinsko Pivo",
+  "definition": "Pirinsko Pivo는 불가리아 남서부 도시 블라고에브그라드에 있는 양조장이다. 여과와 탄산 처리를 거친 라거 맥주를 생산하며, 주력 브랜드는 Pirinsko이고 모기업은 Carlsberg이다.",
+  "summary": "Pirinsko Pivo는 불가리아 남서부 도시 블라고에브그라드에 있는 양조장이다. 여과와 탄산 처리를 거친 라거 맥주를 생산하며, 주력 브랜드는 Pirinsko이고 모기업은 Carlsberg이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "불가리아 남서부 피린산맥 인근의 블라고에브그라드에서 라거를 만드는 양조장으로, Carlsberg 계열이며 주력 브랜드는 Pirinsko이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Pirinsko Pivo는 불가리아 남서부 도시 블라고에브그라드에 자리한 맥주 양조장이며, 여과와 탄산 처리를 거친 라거를 생산한다. 대표 브랜드인 Pirinsko는 표준 라거로, 불가리아 전체 맥주 시장에서 8퍼센트의 점유율을 차지한다. 양조장 전체의 시장 점유율은 현재 12퍼센트이며, 최근 몇 년 사이 생산 규모를 크게 확대했다. 양조장 이름은 인근에 있는 피린산맥에서 따온 것으로, 지역의 산 이름을 그대로 담고 있다. 블라고에브그라드는 수도 소피아에서 남쪽으로 90km 떨어진 도시이다. 제품은 불가리아에서 구입할 수 있으며, 모기업은 Carlsberg이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "불가리아 남서부의 블라고에브그라드에서 설립된 양조장이다. 설립 연도는 자료에 따라 1967년과 1969년으로 달리 기록되어 있다. 양조장 이름은 인근에 있는 피린산맥에서 따왔다. 블라고에브그라드는 수도 소피아에서 남쪽으로 90km 떨어진 도시이다. 양조장은 최근 몇 년 사이 규모를 크게 확대하면서 현재의 시장 점유율에 이르렀다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "생산하는 맥주는 여과와 탄산 처리를 거친 라거이다. 주력 브랜드는 Pirinsko로, 표준 라거에 해당하며 불가리아 전체 맥주 시장에서 8퍼센트의 점유율을 차지한다. 제품은 불가리아에서 구입할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 모기업은 Carlsberg이며, 본사는 블라고에브그라드에 있다. 양조장 전체의 시장 점유율은 12퍼센트이다. 최근 몇 년 사이 양조장 규모를 크게 확대했으며, 제품은 불가리아에서 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "불가리아 남서부 피린산맥 인근의 블라고에브그라드에서 라거를 만드는 양조장으로, Carlsberg 계열이며 주력 브랜드는 Pirinsko이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.pirinskopivo.bg",
+  "entityLinks": {
+   "wikidata": "Q181084",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q181084",
+    "https://en.wikipedia.org/wiki/Pirinsko_Pivo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q181084",
+   "country": "불가리아",
+   "inception": "1967",
+   "headquarters": "블라고에브그라드",
+   "founders": [],
+   "parent": "칼스버그",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Pirinsko Pivo」 본문과 위키데이터 Q181084 팩트를 근거로 편집"
+ }
+}

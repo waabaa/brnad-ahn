@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q924355",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "xxxx",
+  "urlSlug": "xxxx",
+  "name": "XXXX",
+  "nameKo": "",
+  "nameEn": "XXXX",
+  "definition": "XXXX는 오스트레일리아 퀸즐랜드주 브리즈번의 밀턴에서 양조되는 오스트레일리아 맥주 브랜드이다. 양조사 Castlemaine Perkins가 만들며 퀸즐랜드의 펍과 바에서 생맥주로 흔히 볼 수 있다.",
+  "summary": "XXXX는 오스트레일리아 퀸즐랜드주 브리즈번의 밀턴에서 양조되는 오스트레일리아 맥주 브랜드이다. 양조사 Castlemaine Perkins가 만들며 퀸즐랜드의 펍과 바에서 생맥주로 흔히 볼 수 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "에일의 도수를 X의 개수로 표시하던 전통을 이름에 담은 퀸즐랜드 대표 맥주이며, 마스코트는 Mr Fourex이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "XXXX는 오스트레일리아 맥주 브랜드로, 브리즈번 밀턴에서 퀸즐랜드의 양조사 Castlemaine Perkins가 양조한다. 이 회사는 현재 일본 기업 Kirin의 사업부이다. 퀸즐랜드주에서 인기가 높아 펍과 바에서 생맥주로 흔히 볼 수 있다. 브랜드명은 에일의 도수를 X의 개수로 표시하던 오랜 전통에서 유래했다. 대표 제품은 XXXX Bitter이며, 퀸즐랜드에서 주문할 때는 XXXX Heavy라고 불리기도 한다. 1924년 XXXX Bitter와 함께 만화 캐릭터 Mr Fourex가 등장했고, 이 캐릭터는 지금도 브랜드의 마스코트이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1878년 Nicholas와 Edward Fitzgerald 형제가 빅토리아주의 Castlemaine에서 브리즈번으로 옮겨 와 오래된 증류소를 사들이고 Castlemaine Brewing이라 불렀다. 이들은 처음에 XXX Sparkling Ale을 만들었다. 1924년에는 XXXX Bitter를 만화 캐릭터 Mr Fourex와 함께 내놓았다. 1928년 Castlemaine Brewing은 Perkins brewing company를 인수해 Castlemaine Perkins가 되었다. 1950년대부터 더 다양한 맥주를 생산했고, 한 손으로 쥐기 쉬운 작은 병을 쓰기 시작했는데 이것이 오늘날 stubby로 불린다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 판매 제품으로는 4.4% ABV의 오스트레일리아 라거 XXXX Bitter와 3.5% ABV의 중간 도수 라거 XXXX Gold가 있다. XXXX Gold는 탄수화물이 적은 맥주이기도 하다. XXXX Summer Bright Lager는 4.0% ABV의 저탄수화물 맥주이며 라임이나 망고를 더한 제품도 있다. XXXX Ultra는 3.8% ABV의 무탄수화물 라거이고, XXXX Ginger는 3.5% ABV의 알코올 진저 비어이다. 양조장 부지의 XXXX Alehouse and Restaurant에서는 Thirsty Dog, Carbine Stout 같은 과거 제품이 소량 한정 출시되기도 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1980년 Castlemaine Perkins는 Tooheys와 합병해 Castlemaine Tooheys가 되었고, 1985년 Alan Bond's Bond Corp에 인수되었다. 1992년 Lion Nathan이 Castlemaine Perkins를 완전히 인수했으며, 2009년 Lion Nathan은 일본 음료 기업 Kirin에 인수되었다. 2016년 3월 XXXX Bitter의 도수는 4.6%에서 4.4% ABV로 낮아졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "에일의 도수를 X의 개수로 표시하던 전통을 이름에 담은 퀸즐랜드 대표 맥주이며, 마스코트는 Mr Fourex이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.xxxx.com.au",
+  "entityLinks": {
+   "wikidata": "Q924355",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q924355",
+    "https://en.wikipedia.org/wiki/XXXX_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q924355",
+   "country": "오스트레일리아",
+   "inception": "1924",
+   "headquarters": "Milton, Australia",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「XXXX (beer)」 본문과 위키데이터 Q924355 팩트를 근거로 편집"
+ }
+}

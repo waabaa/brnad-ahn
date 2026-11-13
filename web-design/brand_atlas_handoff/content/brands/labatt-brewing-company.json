@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1422061",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "labatt-brewing-company",
+  "urlSlug": "labatt-brewing-company",
+  "name": "Labatt Brewing Company",
+  "nameKo": "",
+  "nameEn": "Labatt Brewing Company",
+  "definition": "Labatt Brewing Company는 1847년에 설립된 캐나다의 맥주 양조 회사이다. 캐나다에서 가장 큰 맥주 양조사이며, 현재는 Anheuser-Busch InBev SA/NV에 속해 있다.",
+  "summary": "Labatt Brewing Company는 1847년에 설립된 캐나다의 맥주 양조 회사이다. 캐나다에서 가장 큰 맥주 양조사이며, 현재는 Anheuser-Busch InBev SA/NV에 속해 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "1847년에 시작해 캐나다 최대 양조사가 되었으며, Labatt Blue와 Labatt 50으로 캐나다 맥주 시장에서 1위에 오른 적이 있는 양조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Labatt Brewing Company는 캐나다에 기반을 둔 맥주 양조 회사이다. 1847년에 설립되었으며, 캐나다에서 가장 큰 맥주 양조사이다. 1995년 벨기에 양조사 Interbrew에 인수된 뒤 여러 차례 합병을 거치며 현재는 Anheuser-Busch InBev SA/NV에 속해 있다. 미국에서는 Labatt 브랜드 맥주가 Labatt USA를 통해 라이선스로 판매되며, Labatt USA는 2009년부터 캐나다 회사로부터 완전히 독립해 있다. 캐나다에서는 1980년대부터 Budweiser 등 Anheuser-Busch 제품도 라이선스로 양조해 왔다. 캐나다 맥주 시장에서는 Labatt Blue가 1979년에 1위에 올랐고, 2004년에는 Budweiser가 1위를 차지해 Blue가 3위로 밀렸다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Labatt는 John Kinder Labatt가 1847년 당시 Canada West였던 현재의 온타리오 London에서 시작했다. 그는 1830년대에 아일랜드에서 캐나다로 이주해 처음에는 London 근처에서 농부로 지냈다. 1847년 동업자 Samuel Eccles와 양조장에 투자해 'Labatt and Eccles'를 열었고, 1854년 Eccles가 물러나자 지분을 인수해 'London Brewery'로 이름을 바꿨다. 1866년 그가 사망한 뒤 아들 John이 회사를 맡아 캐나다 최대 양조장으로 키웠다. 1926년 온타리오에서 금주법이 폐지되었을 때 양조장은 15곳만 남았고, 그중 원래 경영진을 유지한 곳은 Labatt뿐이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로 Labatt Blue가 있다. 1951년 출시된 Pilsener Lager가 매니토바에서 라벨 색과 Winnipeg Blue Bombers 후원에서 유래해 'Blue'라는 별칭을 얻었고, 이 이름이 굳어졌다. 1950년에는 캐나다 최초의 라이트 에일인 Labatt 50을 출시했으며, 이 맥주는 1979년까지 캐나다에서 가장 많이 팔린 맥주였다. 금주법 시기에는 알코올 2퍼센트 미만의 'temperance ales'를 온타리오에서 판매했다. 또한 1980년대부터 캐나다에서 Budweiser 등 Anheuser-Busch 제품을 라이선스로 양조해 왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Labatt는 2008년 InBev와 Anheuser-Busch의 합병으로 Anheuser-Busch InBev에 속하게 되었고, 2016년 10월 10일 Anheuser-Busch InBev와 SABMiller의 합병이 마무리되면서 새 회사 Anheuser-Busch InBev SA/NV의 일부가 되었다. 이 회사는 뉴욕증권거래소에서 BUD로, 브뤼셀에서 ABI:BB로 거래된다. 미국에서는 뉴욕주 Rochester의 비공개 회사 FIFCO USA의 자회사인 Labatt USA가 라이선스로 판매한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1847년에 시작해 캐나다 최대 양조사가 되었으며, Labatt Blue와 Labatt 50으로 캐나다 맥주 시장에서 1위에 오른 적이 있는 양조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.labatt.ca/",
+  "entityLinks": {
+   "wikidata": "Q1422061",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1422061",
+    "https://en.wikipedia.org/wiki/Labatt_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1422061",
+   "country": "캐나다",
+   "inception": "1847",
+   "headquarters": "런던",
+   "founders": [
+    "John Kinder Labatt"
+   ],
+   "parent": "앤하이저부시 인베브",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Labatt Brewing Company」 본문과 위키데이터 Q1422061 팩트를 근거로 편집"
+ }
+}

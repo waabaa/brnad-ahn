@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2607444",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "svyturys-utenos-alus-uab",
+  "urlSlug": "svyturys-utenos-alus-uab",
+  "name": "Švyturys-Utenos alus, UAB",
+  "nameKo": "",
+  "nameEn": "Švyturys-Utenos alus, UAB",
+  "definition": "Švyturys-Utenos alus, UAB는 리투아니아의 음료 회사이다. 리투아니아의 양대 양조장인 클라이페다의 Švyturys와 우테나의 Utenos Alus를 아우르며, 맥주와 청량음료 등을 생산한다.",
+  "summary": "Švyturys-Utenos alus, UAB는 리투아니아의 음료 회사이다. 리투아니아의 양대 양조장인 클라이페다의 Švyturys와 우테나의 Utenos Alus를 아우르며, 맥주와 청량음료 등을 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "리투아니아에서 판매 1, 2위를 차지한 Švyturys와 Utenos 맥주 브랜드를 함께 보유한 Carlsberg Group 계열 음료 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 맥주, 맥주 칵테일, 사이다, 알코올 칵테일, 청량음료, 식수, 크바스를 생산하는 리투아니아의 음료 기업이다. 리투아니아에서 가장 큰 두 양조장인 클라이페다의 Švyturys와 우테나의 Utenos Alus, 그리고 전국의 전문 시설로 이루어진다. 2001년 두 양조장이 합병되어 현재의 회사가 되었고, 2008년 Carlsberg Group의 일부가 되었다. 2004년 AC Nielsen 조사에서 Švyturys와 Utenos Alus는 리투아니아 맥주 업계에서 가장 강한 두 브랜드로 꼽혔다. 2013년 이 회사는 리투아니아 맥주 시장에서 40,6%의 점유율을 차지했으며, 식수와 사이다 시장에서도 점유율을 넓혔다. 본사는 빌뉴스에 있으며, 음료를 거의 30개국에 수출한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1784년 클라이페다에 Švyturys 양조장이 설립되었고, 1977년 우테나에서 Utenos Alus 양조장이 가동을 시작했다. 1997년 당시 Hartwall(핀란드)과 Orkla(노르웨이)가 지배하던 Baltic Beverages Holding(BBH)이 Utenos Alus의 최대 주주가 되었다. 1999년 Carlsberg A/S가 Švyturys AB 지분 95%를 인수했고, 2000년 Carlsberg A/S가 Orkla와 합병하면서 Švyturys, Kalnapilis, Utenos Alus 세 양조장의 지배권을 얻었다. 2001년 BBH가 Švyturys와 Utenos Alus를 합쳐 Švyturys-Utenos Alus AB를 만들었고, 2003년 이 회사는 유한회사인 UAB로 재편되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 회사는 맥주, 맥주 칵테일, 사이다, 알코올 칵테일, 식수, 청량음료, 크바스를 생산한다. 맥주 상표로는 Švyturys, Utenos, Carlsberg, Blindos가 있다. 맥주 칵테일은 D-light, 사이다는 Kiss와 Somersby, 알코올 칵테일은 Zip 상표로 내놓는다. 식수와 청량음료에는 Vichy Classique, Vichy Fresh, Vichy Juicy, Vichy Classique Vivasport 상표가 쓰인다. 이 가운데 Švyturys와 Utenos 브랜드는 리투아니아 맥주 시장에서 판매 기준 1, 2위를 차지했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년 Carlsberg Group이 영국 회사 Scottish & Newcastle이 보유하던 BBH 지분을 사들여 이 회사의 지배 지분을 확보했다. 2014년 음료 생산·판매량은 185,06 million 리터로 2013년보다 6,8% 늘었다. 같은 해 수출은 39% 증가한 49,45 million 리터였고, 수출 대상은 거의 30개국이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "리투아니아에서 판매 1, 2위를 차지한 Švyturys와 Utenos 맥주 브랜드를 함께 보유한 Carlsberg Group 계열 음료 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2607444",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2607444",
+    "https://en.wikipedia.org/wiki/%C5%A0vyturys-Utenos_alus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2607444",
+   "country": "리투아니아",
+   "inception": "1784",
+   "headquarters": "빌뉴스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Švyturys-Utenos alus」 본문과 위키데이터 Q2607444 팩트를 근거로 편집"
+ }
+}

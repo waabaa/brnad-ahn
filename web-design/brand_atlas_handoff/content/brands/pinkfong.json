@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q55735607",
+ "demand": {
+  "why": "국내",
+  "naver": 0.066,
+  "koViews": 497,
+  "enViews": 22159,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/pinkfong-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pinkfong",
+  "urlSlug": "pinkfong",
+  "name": "핑크퐁",
+  "nameKo": "핑크퐁",
+  "nameEn": "Pinkfong",
+  "definition": "핑크퐁(Pinkfong)은 더핑크퐁컴퍼니의 대표 브랜드로, 동요와 동화 콘텐츠와 모바일 앱을 만든다. 대표 콘텐츠로 ‘핑크퐁 아기상어 체조’ 영상이 있다.",
+  "summary": "핑크퐁(Pinkfong)은 더핑크퐁컴퍼니의 대표 브랜드로, 동요와 동화 콘텐츠와 모바일 앱을 만든다. 대표 콘텐츠로 ‘핑크퐁 아기상어 체조’ 영상이 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "동요·동화 콘텐츠와 모바일 앱, 라이선스 협업을 함께 운영하는 더핑크퐁컴퍼니의 대표 브랜드이다. ‘핑크퐁 아기상어 체조’ 영상으로 유튜브 조회수 100억뷰를 기록했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "핑크퐁(Pinkfong)은 더핑크퐁컴퍼니의 대표 브랜드이다. 동요와 동화 콘텐츠를 제작하며, 2023년 3월 기준 25개 언어, 6,000여편의 콘텐츠를 보유하고 있다. 유튜브에서는 누적 조회수 약 700억, 누적 구독자 1억 2,000만명을 기록했다. 164개국 앱스토어에 모바일 앱 시리즈 170여종을 출시해 누적 4억 다운로드를 돌파했고, 112개국 교육 카테고리 매출 1위를 기록했다. 더핑크퐁컴퍼니는 국내외 500여 개사와 협업해 총 1,000여 건 이상의 라이선스 계약을 체결했다. 대표 영상인 ‘핑크퐁 아기상어 체조’는 전 세계 유튜브 조회수 1위에 올랐고, 세계 최초로 누적 조회수 100억뷰를 달성했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 콘텐츠는 동요·동화 영상이며, 〈상어가족〉은 핑크퐁 동요 콘텐츠의 일환으로 제작되어 유명해졌다. 원곡 외에도 국악, 크리스마스, 트로트, EDM, 셀럽 콜라보레이션 등 여러 버전이 있다. 모바일 앱으로는 아기상어 키즈 월드 앱이 대표적이며, 30+종 앱을 핑크퐁플러스 구독권으로 모두 사용할 수 있다. 서울특별시, 부산광역시, LG전자, 버거킹, 기아자동차, 우리은행, 인천국제공항, 야놀자, 엔씨소프트 등과 콜라보레이션을 진행했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020 올해의 토이 어워드(Toy of the Year 2020, TOTY)에서 국내 최초로 2관왕을 달성했다. 2020 아시안 라이선싱 어워드(The Asian Licensing Awards 2020, ALA)에서는 최고상인 ‘베스트 아시안 프로퍼티(Best Asian Property)’를 수상했다. 서울시 홍보대사로 활동하고 인천국제공항과 콜라보 마케팅을 실시했으며, 국립국악원과 국악 동요를 제작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "동요·동화 콘텐츠와 모바일 앱, 라이선스 협업을 함께 운영하는 더핑크퐁컴퍼니의 대표 브랜드이다. ‘핑크퐁 아기상어 체조’ 영상으로 유튜브 조회수 100억뷰를 기록했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pinkfong.com/en/",
+  "entityLinks": {
+   "wikidata": "Q55735607",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q55735607",
+    "https://ko.wikipedia.org/wiki/%ED%95%91%ED%81%AC%ED%90%81",
+    "https://en.wikipedia.org/wiki/Pinkfong"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q55735607",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "한국어 위키백과 「핑크퐁」 요약과 위키데이터 Q55735607 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

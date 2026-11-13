@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q913248",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vr-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vr-group",
+  "urlSlug": "vr-group",
+  "name": "VR 그룹",
+  "nameKo": "VR 그룹",
+  "nameEn": "VR Group",
+  "definition": "VR 그룹(VR Group)은 핀란드 정부가 소유한 철도 회사이다. 핀란드 여객 철도 운행을 가장 중요한 기능으로 하며, 장거리 열차와 통근 열차를 매일 운행하는 핀란드 대중교통 시장의 주요 사업자이다.",
+  "summary": "VR 그룹(VR Group)은 핀란드 정부가 소유한 철도 회사이다. 핀란드 여객 철도 운행을 가장 중요한 기능으로 하며, 장거리 열차와 통근 열차를 매일 운행하는 핀란드 대중교통 시장의 주요 사업자이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드 정부가 소유한 철도 회사로 여객 철도를 운영하며, 북유럽에서 유일하게 열차를 이용한 자동차 운송을 제공하는 나라의 철도 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "VR은 핀란드 정부가 소유한 철도 회사로, 핀란드 여객 철도 운행을 가장 중요한 기능으로 한다. 매일 장거리 열차 250편과 통근 열차 800편을 운행하며, 직원은 7,500명이고 2017년 순매출은 €1,251 million이었다. 핀란드 대중교통 시장에서 가장 중요한 사업자 가운데 하나이며, 본사는 헬싱키 북중부에서 국영 방송사 Yle가 쓰던 Iso Paja 건물에 있다. 핀란드는 인구 밀도가 낮아 철도에 최적인 환경은 아니며, 통근 열차는 헬싱키 지역 밖에서는 드물고 대부분의 여객 노선은 수도 헬싱키로 이어진다. 2010년대에는 소규모 역의 정차를 줄이고 새 기관차와 개조한 고속열차로 속도를 높여 연결을 빠르게 했다. 자회사로는 열차 내 케이터링을 맡는 Avecra와 버스 운송을 맡는 Pohjolan Liikenne가 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "핀란드의 철도 운송은 1862년 헬싱키와 Hämeenlinna 사이에서 시작되었다. 이후 수십 년간 여러 간선과 소규모 민간 철도가 건설되었고, VR은 주로 수요가 많은 간선에서 운영했다. 이 조직은 1862년부터 1922년까지 핀란드 국유철도(Suomen Valtion Rautatiet), 1922년부터 1995년까지 Valtionrautatiet('국유철도')로 불렸다. 20세기에 대부분의 민간 철도 회사가 문을 닫으면서 VR이 철도 운송의 독점을 맡게 되었다. 1995년 법인화 절차를 거쳐 VR 그룹이 되었고, 이때 모회사 Valtionrautatiet가 VR과 철도 관리 기관 Ratahallintokeskus로 나뉘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "여객 철도가 핵심 사업으로, 급행열차가 대부분의 도시를 잇고 헬싱키 지역 통근 교통은 HSL을 대신해 운영하며 핀란드 남부에서는 자체 통근 열차도 운행한다. 자동차 열차 서비스는 남부와 북부, 라플란드에 걸친 일곱 개 역에서 차량을 싣고 내릴 수 있으며, 핀란드는 북유럽에서 이 서비스를 제공하는 유일한 나라이다. 2021년 8월에는 Tampere 경전철 운행을 시작했다. Russian Railways와 공동 운영하던 Allegro(헬싱키–상트페테르부르크)는 2022년 3월 중단되었고, 해당 열차는 2023년 말 VR이 넘겨받아 2025년 11월 Pendolino Plus로 재투입했다. 자회사 Avecra는 열차 내 케이터링을, Pohjolan Liikenne는 버스 운송을 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "VR은 핀란드 정부가 소유한 기업이다. 2018년 노르웨이 기업 NRC Group이 VR Track(현 NRC Group Finland)을 €225 million에 인수했고, 2023년에는 도로 화물 운송 부문을 독일 투자회사 Mutares에 매각했다. Pendolino Plus는 출장객과 통근객을 겨냥해 헬싱키–Turku(2025년 11월 3일), 헬싱키–Oulu(2025년 12월 15일) 구간에서 운행을 시작했다. 핀란드 Tornio와 스웨덴 Haparanda 구간은 2025년까지 전철화되었고, 2026년 6월 기준 2026년 8월 운행 개시가 계획되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드 정부가 소유한 철도 회사로 여객 철도를 운영하며, 북유럽에서 유일하게 열차를 이용한 자동차 운송을 제공하는 나라의 철도 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vrgroup.fi/",
+  "entityLinks": {
+   "wikidata": "Q913248",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q913248",
+    "https://ko.wikipedia.org/wiki/VR_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/VR_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q913248",
+   "country": "핀란드",
+   "inception": "1995",
+   "headquarters": "Kluuvi",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「VR Group」 본문과 위키데이터 Q913248 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

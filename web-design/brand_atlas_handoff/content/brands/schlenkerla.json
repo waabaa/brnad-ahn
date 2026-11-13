@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q566990",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "schlenkerla",
+  "urlSlug": "schlenkerla",
+  "name": "Schlenkerla",
+  "nameKo": "",
+  "nameEn": "Schlenkerla",
+  "definition": "Schlenkerla는 독일 바이에른 북부 프랑켄 지방의 도시 밤베르크에 있는 역사적인 브루펍이다. 훈연 맥주인 Aecht Schlenkerla Rauchbier로 널리 알려져 있다.",
+  "summary": "Schlenkerla는 독일 바이에른 북부 프랑켄 지방의 도시 밤베르크에 있는 역사적인 브루펍이다. 훈연 맥주인 Aecht Schlenkerla Rauchbier로 널리 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "독일 밤베르크에서 1405년부터 이어진 펍으로, 전통 방식의 Rauchbier(훈연 맥주)로 알려진 양조장이다. Trum 가문이 6대에 걸쳐 운영해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브루펍은 독일 바이에른 북부 프랑켄 지방의 밤베르크 구시가지에 있으며, 이 구시가지는 UNESCO 세계유산으로 지정되어 있다. 전통 방식으로 만든 Rauchbier, 곧 훈연 맥주를 양조하며 펍과 식당에서 판매한다. 라인업에는 urbock, märzen, weizen, Helles 등이 포함된다. 식당은 All About Beer 잡지가 꼽은 세계 최고의 맥주 장소 가운데 하나로 평가되었다. 법적 상호는 HellerBräu Trum KG이며 Trum 가문이 6대에 걸쳐 소유하고 운영해 왔다. 매년 7월 23일에는 훈연 맥주 보존의 날 행사를 연다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1405년부터 운영되어 왔으며, 당시에는 Zum Blauen Löwen, 곧 '파란 사자에서'라는 이름의 펍이었다. Schlenkerla는 대략 '매달려 흔들린다'는 뜻이다. Schlenkern은 흔들다 또는 매달려 흔들리다를 뜻하는 독일어 동사이며, -la 접미사는 동프랑켄 방언에서 흔한 형태이다. 이름은 절뚝거리며 걷던 양조인에게서 왔다고 전해지며, 그의 모습은 Aecht Schlenkerla Rauchbier 병에서 볼 수 있다. 법적 상호는 HellerBräu Trum KG이며, 이 양조장은 Trum 가문이 6대에 걸쳐 소유하고 운영해 왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 전통 방식의 Rauchbier(훈연 맥주)로, urbock, märzen, weizen, oak doppelbock, lentbeer(Fastenbier)가 있다. 여기에 Helles Marzen 블렌드인 Krausen, 여과 및 비여과 Helles, 알코올 도수가 낮은 Hansla도 만든다. Doppelbock과 Urbock은 바위 저장고에서 숙성한 빈티지도 출시한다. 맥주 외에 Rauchbier로 만든 슈납스도 펍과 식당에서 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Trum 가문이 6대째 소유하고 운영하며, 법적 상호는 HellerBräu Trum KG이다. 밤베르크 구시가지에서 펍과 식당을 운영하고, 식당은 All About Beer 잡지가 세계에서 맥주를 마시기 좋은 곳 가운데 하나로 꼽았다. 매년 7월 23일에는 '훈연 맥주 보존의 날'을 기념한다. 1635년 같은 날 연기 없는 맥아 건조기가 특허를 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 밤베르크에서 1405년부터 이어진 펍으로, 전통 방식의 Rauchbier(훈연 맥주)로 알려진 양조장이다. Trum 가문이 6대에 걸쳐 운영해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.schlenkerla.de/",
+  "entityLinks": {
+   "wikidata": "Q566990",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q566990",
+    "https://en.wikipedia.org/wiki/Schlenkerla"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q566990",
+   "country": "독일",
+   "inception": "1405",
+   "headquarters": "Schlenkerla",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Schlenkerla」 본문과 위키데이터 Q566990 팩트를 근거로 편집"
+ }
+}

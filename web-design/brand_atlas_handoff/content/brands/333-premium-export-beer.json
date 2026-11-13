@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q24648499",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "333-premium-export-beer",
+  "urlSlug": "333-premium-export-beer",
+  "name": "333 Premium Export Beer",
+  "nameKo": "",
+  "nameEn": "333 Premium Export Beer",
+  "definition": "333 Premium Export Beer는 베트남에서 양조되는 맥주로, 간단히 333으로도 불린다. 예전 이름은 33 Beer이며, 현재는 Sabeco Brewery가 생산한다.",
+  "summary": "333 Premium Export Beer는 베트남에서 양조되는 맥주로, 간단히 333으로도 불린다. 예전 이름은 33 Beer이며, 현재는 Sabeco Brewery가 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "33 Beer라는 이름에서 출발해 1975년 이후 333으로 바뀐 베트남 맥주로, 베트남 전쟁 당시 미국 병사들에게 알려졌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "333은 베트남에서 양조되는 맥주로, 이전 이름은 33 Beer이며 현재는 Sabeco Brewery가 생산하고 있다. 1975년 남베트남이 함락된 뒤 이름이 지금의 형태로 바뀌었다. 원래 이름은 베트남어로 'Ba mươi ba'라고 읽으며 '서른셋'을 뜻한다. 1960년대와 1970년대 베트남 전쟁 당시 미국 병사들 사이에서 잘 알려져 있었다. 생산지가 사이공으로 옮겨진 뒤에는 베트남의 선두 맥주 가운데 하나가 되었다. 1994년 두 나라의 관계가 정상화된 뒤에는 미국 시장에서도 판매되었고, 캐나다, 홍콩, 일본, 싱가포르, 호주에서도 구할 수 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "33 Beer는 프랑스에서 독일식 제조법과 재료를 사용해 처음 만들어졌다. 이름은 1900년대 초 33센티리터 병에서 유래했으며, 세기가 바뀔 무렵 독일식 상표 33을 얻었다. 이후 생산지가 사이공(현재의 호찌민)으로 옮겨졌고, 베트남의 선두 맥주 가운데 하나가 되었다. 1975년 남베트남이 북베트남에 함락되자 공산 정부는 식민지 기원에서 거리를 두려고 이름을 333 Premium Export Beer로 바꾸었고, 이때 쌀 맥주로 만들어졌다. 1994년 두 나라가 관계를 정상화한 뒤에는 미국 시장에서도 판매되기 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 맥주는 간단히 333으로 불리며 Sabeco Brewery가 생산한다. 원래 이름인 33 Beer와 구별되는 정식 명칭은 333 Premium Export Beer이다. 미국 시장에는 1994년 두 나라가 관계를 정상화한 뒤 들어왔다. 미국 외에도 캐나다, 홍콩, 일본, 싱가포르, 호주에서 구할 수 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "33 Beer라는 이름에서 출발해 1975년 이후 333으로 바뀐 베트남 맥주로, 베트남 전쟁 당시 미국 병사들에게 알려졌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sabeco.com.vn/beer-333-premium-export",
+  "entityLinks": {
+   "wikidata": "Q24648499",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24648499",
+    "https://en.wikipedia.org/wiki/333_Premium_Export_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q24648499",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「333 Premium Export Beer」 본문과 위키데이터 Q24648499 팩트를 근거로 편집"
+ }
+}

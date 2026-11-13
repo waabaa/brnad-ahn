@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2117061",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "de-dolle-brouwers",
+  "urlSlug": "de-dolle-brouwers",
+  "name": "De Dolle Brouwers",
+  "nameKo": "",
+  "nameEn": "De Dolle Brouwers",
+  "definition": "De Dolle Brouwers는 벨기에 서플랑드르 주의 Esen에 본사를 둔 맥주 양조장이다. 이름은 영어로 'The Mad Brewers'를 뜻하며, 모든 제품을 병 속 발효 방식으로 만든다.",
+  "summary": "De Dolle Brouwers는 벨기에 서플랑드르 주의 Esen에 본사를 둔 맥주 양조장이다. 이름은 영어로 'The Mad Brewers'를 뜻하며, 모든 제품을 병 속 발효 방식으로 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "'The Mad Brewers'라는 이름을 쓰는 Esen의 양조장으로, 폐업 상태였던 옛 양조장 건물을 1980년에 복원해 다시 가동했고 모든 제품이 병 속 발효 방식이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "De Dolle Brouwers는 벨기에 서플랑드르 주의 Esen에 본사를 둔 양조장이다. 이름은 영어로 'The Mad Brewers'를 뜻한다. 양조장 건물은 1835년경에 지어진 것으로 여겨지며 지역 의사가 시작한 이래 오랜 양조 역사를 지녔고, 폐업 상태였다가 1980년에 양조장으로 복원되어 다시 가동되었다. 모든 제품은 병 속 발효 방식으로 만들며, 계절 한정 맥주와 특별 양조 맥주도 함께 생산한다. 부지와 시음장은 주 1회 방문객 견학용으로 개방된다. 이용자 평가 사이트 RateBeer의 Best Beers of Belgium에서 2008년에 금상 4개, 2009년에 2개를 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "건물은 1835년경에 지어진 것으로 여겨지며, 지역 의사 Louis Nevejan이 시작한 이래 오랜 양조 역사를 지니고 있다. 1882년경 Costenoble 양조장이 되었고, 이후 세 세대에 걸쳐 그 가문이 소유했다. 문을 닫은 상태였던 건물을 De Dolle이 매입해 1980년에 양조장으로 다시 가동시켰다. 양조자이자 소유주인 Kris Herteleer는 양조장 복원과 지역 양조 역사 연구의 공로로 2000년 브뤼허의 양조·문화 단체 't Hamerken이 수여하는 격년제 'Golden Hammer' 상을 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로 Oerbier, Arabier, Boskeun, Dulle Teve, Stille Nacht 등이 있다. Oerbier(9% ABV)는 양조장의 첫 제품이며 '원래의 맥주'를 뜻한다. Arabier(8% ABV)는 Poperinge산 Nugget 홉으로 드라이 호핑한 홉 향이 강한 맥주이다. Boskeun(7% ABV)은 Goldings 홉을 쓴 독한 블론드 부활절 맥주이고, Stille Nacht(12%)는 독한 크리스마스 맥주이다. 모든 제품은 병 속 발효 방식이며 계절 맥주와 특별 양조 맥주도 만든다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "부지와 시음장은 주 1회 견학용으로 방문객에게 열려 있으며, 단체는 예약하면 방문할 수 있다. 이용자 평가 사이트 RateBeer의 Best Beers of Belgium에서 2008년에 금상 4개, 2009년에 2개를 받았다. 모든 제품이 병 속 발효 방식이며, 계절 한정 맥주와 특별 양조 맥주도 추가로 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "'The Mad Brewers'라는 이름을 쓰는 Esen의 양조장으로, 폐업 상태였던 옛 양조장 건물을 1980년에 복원해 다시 가동했고 모든 제품이 병 속 발효 방식이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.oerbier.be/",
+  "entityLinks": {
+   "wikidata": "Q2117061",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2117061",
+    "https://en.wikipedia.org/wiki/De_Dolle_Brouwers"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2117061",
+   "country": "벨기에",
+   "inception": null,
+   "headquarters": "Esen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「De Dolle Brouwers」 본문과 위키데이터 Q2117061 팩트를 근거로 편집"
+ }
+}

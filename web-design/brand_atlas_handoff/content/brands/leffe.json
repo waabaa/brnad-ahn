@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1341618",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "leffe",
+  "urlSlug": "leffe",
+  "name": "레프",
+  "nameKo": "레프",
+  "nameEn": "Leffe",
+  "definition": "레프(Leffe)는 벨기에 나뮤르주 뫼즈강변의 레프 수도원에서 유래한 맥주 브랜드이다. 현재 InBev Belgium이 소유하며, 수도원 맥주로 판매되는 여러 맥주로 구성된다.",
+  "summary": "레프(Leffe)는 벨기에 나뮤르주 뫼즈강변의 레프 수도원에서 유래한 맥주 브랜드이다. 현재 InBev Belgium이 소유하며, 수도원 맥주로 판매되는 여러 맥주로 구성된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "레프는 1152년 설립된 수도원에서 유래한 수도원 맥주 브랜드로, 수도원에 로열티를 지급하며 대형 양조 기업이 대량으로 양조한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "레프는 글로벌 양조 기업 Anheuser–Busch InBev의 유럽 사업 부문인 InBev Belgium이 소유한 맥주 브랜드이다. 브랜드 아래에는 여러 종류의 맥주가 있으며, 이들은 수도원 맥주(abbey beer)로 마케팅된다. 이 맥주들은 대량으로 양조되며 널리 유통된다. 브랜드의 뿌리는 벨기에 남부 나뮤르주의 뫼즈강변에 1152년 세워진 Notre-Dame de Leffe 수도원에 있다. 2012년 기준으로 레프 브랜드로 만들어진 상면발효 맥주는 다섯 종이었으며, 수도원에는 로열티가 지급된다. 디낭 마을에는 방문객에게 개방된 레프 박물관 Maison Leffe가 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "레프 수도원은 1152년 벨기에 남부 나뮤르주의 뫼즈강변에 세워졌다. Notre-Dame de Leffe 수도원의 Premonstratensian(Norbertine) 참사회원들은 1240년부터 에일을 양조했다. 1460년 뫼즈강이 범람해 양조장이 침수되었고 6년 뒤에는 화재가 수도원에 피해를 주었으나, 17세기에는 번성했다. 양조장은 1796년 국가에 몰수되었고 1809년 소량 생산 끝에 폐쇄되었으며, 낡은 솥은 제1차 세계대전 중 무기 산업을 위해 녹여졌다. 1952년 Father Abbot Nys가 양조사 Albert Lootvoet의 도움으로 브라운 에일을 시장에 내놓으며 생산이 재개되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "레프는 수도원 맥주로 마케팅되는 여러 종류의 맥주로 구성되며, 대량으로 양조되어 널리 유통된다. 2012년 기준으로 레프 브랜드 아래 상면발효 맥주 다섯 종이 만들어졌다. 1952년 수도원이 생산을 재개하며 시장에 내놓은 맥주는 브라운 에일이었다. 현재 레프 맥주는 뢰번에 있는 Stella Artois 양조장에서 양조되며, 영국에서는 라이선스에 따라 낮춘 도수로도 만들어진다. Maison Leffe 박물관은 디낭에서 방문객에게 열려 있으며, 수도원에는 로열티가 지급된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "레프는 InBev Belgium이 소유하며, InBev Belgium은 Anheuser–Busch InBev의 유럽 사업 부문이다. 양조장은 이후 국제 맥주 기업 Interbrew(현 AB InBev)에 인수되었다. Interbrew가 Mont-Saint-Guibert 양조장을 폐쇄하기 전까지 레프는 그곳에서 양조되었고, 지금은 뢰번의 Stella Artois 양조장에서 양조된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "레프는 1152년 설립된 수도원에서 유래한 수도원 맥주 브랜드로, 수도원에 로열티를 지급하며 대형 양조 기업이 대량으로 양조한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.leffe.com/",
+  "entityLinks": {
+   "wikidata": "Q1341618",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1341618",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%ED%94%84_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Leffe"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1341618",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Leffe」 본문과 위키데이터 Q1341618 팩트를 근거로 편집"
+ }
+}

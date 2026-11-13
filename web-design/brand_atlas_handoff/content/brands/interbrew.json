@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q6272191",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "interbrew",
+  "urlSlug": "interbrew",
+  "name": "Interbrew",
+  "nameKo": "",
+  "nameEn": "Interbrew",
+  "definition": "Interbrew는 벨기에 뢰번에 본사를 두고 네덜란드 브레다에 사무소를 운영한 양조 회사였다. 2004년 AmBev와 합병해 InBev가 되었고, 이후 Anheuser-Busch InBev의 한 부문이 되었다.",
+  "summary": "Interbrew는 벨기에 뢰번에 본사를 두고 네덜란드 브레다에 사무소를 운영한 양조 회사였다. 2004년 AmBev와 합병해 InBev가 되었고, 이후 Anheuser-Busch InBev의 한 부문이 되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에 Artois와 Piedboeuf의 합병으로 출발해 Labatt와 Bass 인수로 확장한 뒤, AmBev와 합쳐 InBev의 모태가 된 벨기에 양조 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 Budweiser, Stella Artois, Boddingtons, Beck's, Staropramen, Bass, Leffe 등의 브랜드를 거느린 적이 있으며, 이 가운데 많은 브랜드는 분사해 별도 회사가 되었다. 1987년 Brouwerij Artois와 Piedboeuf가 합병해 만들어졌다. 캐나다 브랜드 Labatt를 인수하며 국제적으로 확장했고, 2000년에는 영국의 Bass와 Whitbread를 인수했다. 같은 해 12월에는 IPO를 실시했다. 2004년 브라질 양조사 AmBev와 합병해 InBev가 되었다. 2016년 10월 Anheuser-Busch InBev SA/NV가 SABMiller를 인수한 뒤에는 그 회사의 한 부문이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Interbrew는 벨기에 뢰번에 뿌리를 두고 있으며, 1987년 Stella Artois를 만든 플랑드르 양조사 Brouwerij Artois가 왈로니아 기반 양조사 Piedboeuf와 합병하면서 결성되었다. 국제 확장은 캐나다 브랜드 Labatt 인수로 시작되었다. 이 거래에는 Toronto Blue Jays 야구단과 Toronto Argonauts 풋볼단 등 Labatt의 자산이 포함되었고, The Sports Network는 캐나다 미디어 소유 규정 때문에 곧바로 NetStar Communications에 재매각되었다. 2000년에는 영국의 Bass와 Whitbread를 인수했고, 같은 해 12월 IPO를 실시했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 맥주 브랜드이다. 역사적으로 Budweiser, Stella Artois, Boddingtons, Beck's, Staropramen, Bass, Leffe 등이 이 회사의 브랜드에 포함되었다. 이 가운데 많은 브랜드가 별도 회사로 분사했으며, Bass는 현재 Molson Coors가 소유하고 있다. Labatt 인수 때는 Toronto Blue Jays와 Toronto Argonauts 같은 스포츠 구단 자산도 함께 넘어왔다. 2001년에는 Diebels를 인수해 독일에 진출하고 Brauerei Beck & Co.도 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2004년 AmBev와 합병해 InBev가 되면서 부피 기준 세계 최대 양조사가 되었고, 점유율은 약 14%였다. 합병 전 Interbrew는 세계 3위, AmBev는 5위였다. 2008년 InBev는 미국 양조사 Anheuser-Busch와 합병해 Anheuser-Busch InBev(AB InBev)가 되었다. 2016년 10월 Anheuser-Busch InBev SA/NV가 SABMiller를 인수한 뒤 Interbrew는 그 회사의 한 부문이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에 Artois와 Piedboeuf의 합병으로 출발해 Labatt와 Bass 인수로 확장한 뒤, AmBev와 합쳐 InBev의 모태가 된 벨기에 양조 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q6272191",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6272191",
+    "https://en.wikipedia.org/wiki/Interbrew"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6272191",
+   "country": "벨기에",
+   "inception": "1988",
+   "headquarters": "뢰번",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Interbrew」 본문과 위키데이터 Q6272191 팩트를 근거로 편집"
+ }
+}

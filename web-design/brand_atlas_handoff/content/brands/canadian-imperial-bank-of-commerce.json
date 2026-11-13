@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q666694",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "canadian-imperial-bank-of-commerce",
+  "urlSlug": "canadian-imperial-bank-of-commerce",
+  "name": "캐나다 임페리얼 상업은행",
+  "nameKo": "캐나다 임페리얼 상업은행",
+  "nameEn": "Canadian Imperial Bank of Commerce",
+  "definition": "캐나다 임페리얼 상업은행(Canadian Imperial Bank of Commerce)은 토론토 금융지구의 CIBC Square에 본사를 둔 캐나다의 다국적 은행·금융 서비스 기업이다. 흔히 CIBC로 줄여 부른다.",
+  "summary": "캐나다 임페리얼 상업은행(Canadian Imperial Bank of Commerce)은 토론토 금융지구의 CIBC Square에 본사를 둔 캐나다의 다국적 은행·금융 서비스 기업이다. 흔히 CIBC로 줄여 부른다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1961년 Canadian Bank of Commerce와 Imperial Bank of Canada의 합병으로 출범했으며, 토론토에서 설립된 캐나다 5대 은행 두 곳 중 하나이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CIBC는 캐나다의 다국적 은행·금융 서비스 기업으로, 토론토 금융지구의 CIBC Square에 본사를 둔다. 프랑스어 명칭은 Banque canadienne impériale de commerce이며, 기관 번호는 010, SWIFT 코드는 CIBCCATT이다. 캐나다 개인·기업 금융, 캐나다 상업금융·자산관리, 미국 상업금융·자산관리, 자본시장의 네 가지 전략 사업부를 운영한다. 미국, 카리브해, 아시아, 영국에 해외 사업장을 두고 있으며 직원은 50,000명이다. 2013년 Forbes Global 2000 목록에서 172위를 기록했다. 토론토에서 설립된 캐나다 5대 은행(Big Five) 두 곳 중 하나이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CIBC는 1961년 Canadian Bank of Commerce와 Imperial Bank of Canada가 합병해 출범했으며, 이는 캐나다 특허은행 사이의 합병 중 역대 최대 규모였다. Canadian Bank of Commerce는 William McMaster가 세웠고 1867년 5월 15일 토론토에서 문을 열어 Bank of Montreal의 경쟁자로 출발했다. Imperial Bank of Canada는 1873년 Henry Stark Howland가 토론토에서 설립했다. 합병의 발단은 Barclays였는데, Barclays는 1956년 Imperial에 캐나다 사업을 매각한 뒤 1960년 Imperial 주식을 시장에서 추가로 사들였다. Imperial 회장 L. Stuart Mackersy는 같은 해 10월 Commerce의 Neil J. McKinnon에게 합병을 제안했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CIBC는 캐나다 개인·기업 금융, 캐나다 상업금융·자산관리, 미국 상업금융·자산관리, 자본시장의 네 전략 사업부로 구성된다. 투자은행 부문의 전신인 Wood, Gundy & Company는 1905년 2월 1일 문을 열었다. Commerce는 1936년 캐나다 은행 중 처음으로 개인 대출 부서를 설치했고, 1920년대 인수를 거쳐 700개가 넘는 지점망을 갖추었다. Imperial은 Niagara District Bank(1875년), Weyburn Security Bank(1931년), Barclays의 캐나다 사업(1956년)을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "CIBC는 토론토 금융지구의 CIBC Square에 본사를 두고 있다. 미국, 카리브해, 아시아, 영국에 해외 사업장을 운영하며 전 세계 고객은 15 million명, 직원은 50,000명이다. 2013년 Forbes Global 2000 목록에서 172위였다. Toronto-Dominion Bank와 함께 토론토에서 설립된 Big Five 은행 두 곳 중 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1961년 Canadian Bank of Commerce와 Imperial Bank of Canada의 합병으로 출범했으며, 토론토에서 설립된 캐나다 5대 은행 두 곳 중 하나이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://cibc.ca/",
+  "entityLinks": {
+   "wikidata": "Q666694",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q666694",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%8B%A4_%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC_%EC%83%81%EC%97%85%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Canadian_Imperial_Bank_of_Commerce"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q666694",
+   "country": "캐나다",
+   "inception": "1961",
+   "headquarters": "Commerce Court",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Canadian Imperial Bank of Commerce」 본문과 위키데이터 Q666694 팩트를 근거로 편집"
+ }
+}

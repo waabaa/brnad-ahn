@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1397604",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/kronenbourg-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kronenbourg-brewery",
+  "urlSlug": "kronenbourg-brewery",
+  "name": "크로넨버그",
+  "nameKo": "크로넨버그",
+  "nameEn": "Kronenbourg Brewery",
+  "definition": "크로넨버그(Kronenbourg Brewery)는 1664년 신성 로마 제국의 자유제국도시 스트라스부르에서 Geronimus Hatt가 세운 프랑스의 맥주 양조장이다. 현재 덴마크 다국적 기업 Carlsberg가 소유하고 있다.",
+  "summary": "크로넨버그(Kronenbourg Brewery)는 1664년 신성 로마 제국의 자유제국도시 스트라스부르에서 Geronimus Hatt가 세운 프랑스의 맥주 양조장이다. 현재 덴마크 다국적 기업 Carlsberg가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "1664년 스트라스부르에서 시작해 현재 Carlsberg 산하에 있는 프랑스 양조장이며, 프랑스 밖에서 가장 많이 팔리는 Kronenbourg 1664로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "크로넨버그는 프랑스 알자스의 스트라스부르에서 출발한 양조장으로, 본사는 오베르네에 있다. 프랑스어 명칭은 Brasseries Kronenbourg이며, 이름은 1850년 양조장이 옮겨 간 지역에서 유래했다. 대표 브랜드는 Kronenbourg 1664로, 프리미엄 브랜드이자 프랑스 밖에서 가장 많이 팔리는 브랜드이다. Kronenbourg 1664는 알코올 도수 5.5%의 페일 라거이다. 2008년 4월 Scottish & Newcastle의 사업이 Heineken과 Carlsberg에 매각되면서 Carlsberg가 크로넨버그를 인수했다. 2015년에는 프랑스 양조장으로서의 정체성과 350년의 역사를 강조하는 새 기업 아이덴티티를 선보였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Geronimus Hatt는 1649년 양조 장인 자격을 얻었고, 스트라스부르의 Place du Corbeau에서 Canon Brewery를 열었다. 아들 Claude가 1683년 가업을 이었다. Ill 강이 자주 범람하자 1850년 지대가 높은 스트라스부르의 Cronenbourg 지역으로 양조장을 옮겼다. 1922년 Hatt Brewery는 인수한 Tiger Brewery의 가장 유명한 브랜드인 Tigre Bock으로 사명을 바꾸고 알자스의 선두 양조업체가 되었다. 제2차 세계대전 이후 Kronenbourg가 회사 이름이 되었고, 회사는 해외 확장을 시작했다. 1953년에는 영국에서 처음으로 판매되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1952년에 처음 양조된 Kronenbourg 1664로, 알코올 도수 5.5%(영국에서는 4.6%)의 페일 라거이다. 알자스산 아로마 홉인 Strisselspalt를 소량 사용한다. 주요 양조장인 오베르네에서는 1664 외에 300개에 가까운 다른 맥주 브랜드도 생산한다. 1664는 영국에서 Heineken의 Manchester 양조장, 호주에서 Coopers, 우크라이나에서 Carlsberg가 양조한다. 그 밖에 Kanterbräu(4.2% 페일 라거), 1664 Brune, Kronenbourg Blanc, Kronenbourg Premier Cru, Kronenbourg Red 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1970년 BSN(현 Groupe Danone)에 인수되었고, 2000년에는 영국 회사 Scottish & Newcastle로 넘어갔다. 2008년 4월 Carlsberg가 인수한 뒤 현재까지 Carlsberg가 소유하고 있다. 주요 양조장은 오베르네와 Champigneulles에 있으나, Champigneulles 부지는 현재 매물로 나와 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1664년 스트라스부르에서 시작해 현재 Carlsberg 산하에 있는 프랑스 양조장이며, 프랑스 밖에서 가장 많이 팔리는 Kronenbourg 1664로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.brasseries-kronenbourg.com/",
+  "entityLinks": {
+   "wikidata": "Q1397604",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1397604",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A1%9C%EB%84%A8%EB%B2%84%EA%B7%B8_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Kronenbourg_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1397604",
+   "country": "프랑스",
+   "inception": "1664",
+   "headquarters": "오베르네",
+   "founders": [
+    "Jérôme Hatt"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Kronenbourg Brewery」 본문과 위키데이터 Q1397604 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

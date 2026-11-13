@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q900289",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/kopparbergs-brewery-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kopparbergs-brewery",
+  "urlSlug": "kopparbergs-brewery",
+  "name": "Kopparbergs Brewery",
+  "nameKo": "",
+  "nameEn": "Kopparbergs Brewery",
+  "definition": "Kopparbergs Brewery는 스웨덴 Bergslagen에 기반을 둔 양조 및 사이더 회사이다. 스웨덴어 이름은 Kopparbergs Bryggeri이며 '구리 산의 양조장'을 뜻한다.",
+  "summary": "Kopparbergs Brewery는 스웨덴 Bergslagen에 기반을 둔 양조 및 사이더 회사이다. 스웨덴어 이름은 Kopparbergs Bryggeri이며 '구리 산의 양조장'을 뜻한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 소도시 Kopparberg에 뿌리를 둔 가족 소유 사이더 양조장으로, 스웨덴 2위 사이더 회사이자 다양한 맛의 과일 사이더로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Kopparbergs Brewery는 스웨덴의 양조장이자 사이더 회사로, Bergslagen에 기반을 두고 있다. 중부 스웨덴 Örebro County의 Kopparberg 지역에서 Kopparberg Cider를 생산하며, 이곳이 회사의 본거지이다. 1882년에 설립되었으며 지금도 가족이 소유한 회사이다. 인구가 4,000명뿐인 작은 도시 Kopparberg에서 가장 큰 고용주 역할을 하는 기업이다. 운영사인 Kopparberg Breweries AB는 스웨덴에서 두 번째로 큰 사이더 양조 회사이다. 영국에는 2003년 B O Times1 Limited를 통해 소개되었고, 사과와 배 사이더로 시작해 여러 맛으로 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1882년에 설립되었으며, 위치는 스웨덴 중부 Örebro County의 Kopparberg 지역이다. 현재 가족 소유이며, 인구 4,000명가량의 이 작은 도시에서 주요 고용주 역할을 한다. Kopparberg Cider가 이곳에서 만들어지고, 운영 회사인 Kopparberg Breweries AB는 스웨덴 2위 규모의 사이더 양조 회사이다. 2003년에는 B O Times1 Limited를 통해 영국에 소개되었다. 2007년 말에는 영국에서 알코올이 없는 배 및 혼합 과일 사이더가 추가되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Kopparberg Cider이다. 영국에서는 처음에 사과와 배 사이더로 출시되었고, 이후 딸기, 혼합 과일, 딸기와 라임, sambucus, 대황, 라즈베리, 체리, 패션프루트, 로제, 향신료 사과, 레몬과 라임 등 여러 맛으로 확대되었다. 알코올이 없는 배와 혼합 과일 제품도 있다. 2023년에는 알코올이 들어간 오렌지 진저 비어를 출시했다. 2021년에는 전 제품군이 비건이 되었고, 알코올 없는 제품은 이미 몇 년 전부터, 스피릿 제품은 출시 때부터 비건이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "인구 4,000명가량의 작은 도시 Kopparberg에서 주요 고용주 역할을 하는 가족 소유 회사이다. 운영사 Kopparberg Breweries AB는 스웨덴에서 두 번째로 큰 사이더 양조 회사이다. 2021년에 전체 제품군이 비건이 되었고, 2023년에는 알코올이 든 오렌지 진저 비어를 출시했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 소도시 Kopparberg에 뿌리를 둔 가족 소유 사이더 양조장으로, 스웨덴 2위 사이더 회사이자 다양한 맛의 과일 사이더로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.kopparbergs.se/",
+  "entityLinks": {
+   "wikidata": "Q900289",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900289",
+    "https://en.wikipedia.org/wiki/Kopparbergs_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900289",
+   "country": "스웨덴",
+   "inception": "1882",
+   "headquarters": "Kopparberg",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Kopparbergs Brewery」 본문과 위키데이터 Q900289 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

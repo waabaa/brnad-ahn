@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2682652",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brewery-brunehaut",
+  "urlSlug": "brewery-brunehaut",
+  "name": "Brewery Brunehaut",
+  "nameKo": "",
+  "nameEn": "Brewery Brunehaut",
+  "definition": "Brewery Brunehaut는 벨기에 왈로니아의 Rongy-Brunehaut에 있는 양조장이다. 1890년 Abbaye de Saint-Martin의 양조를 재개했으며 글루텐프리 유기농 맥주를 만든다.",
+  "summary": "Brewery Brunehaut는 벨기에 왈로니아의 Rongy-Brunehaut에 있는 양조장이다. 1890년 Abbaye de Saint-Martin의 양조를 재개했으며 글루텐프리 유기농 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "수도원에서 유래한 옛 레시피와 글루텐프리 유기농 양조를 결합하고, 유럽연합 최초의 B Corp 인증 양조장이 된 벨기에 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 Brasserie de Brunehaut라는 상호로도 불리며, 프랑스 국경 가까이 있는 벨기에 왈로니아의 Rongy-Brunehaut에 자리한다. 브뤼셀에서 남서쪽으로 80km 떨어진 곳이다. 수공업 방식의 양조장으로, 1096년부터 기록된 옛 벨기에 양조 레시피를 사용한다. 병 속 상면발효와 현대적 생산 방식을 결합하며, 양조책임자는 Damien Delneste이다. 2021년 2월에는 유럽연합 최초의 B Corp 인증 양조장이 되었다. 11종의 라벨을 4개 대륙 20개국 넘게 수출한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장의 역사는 1096년 Tournai로 거슬러 올라간다. 당시 중세의 심한 기근 속에서 베네딕토회 주교 Radbod가 Abbaye de Saint-Martin 재건 헌장에 양조 허가를 포함시켰다. 수도원 양조는 1793년 프랑스 혁명 때 양조장을 포함한 대부분의 건물이 파괴될 때까지 이어졌다. 숨겨 보존된 비밀 양조 레시피 덕분에 1890년 Brasserie de Bruenhaut가 Abbaye de Saint-Martin 양조를 재개했다. 1990년에는 1890년 부지에서 2km 떨어진 곳에 발효 시설을 새로 지어 생산 능력을 두 배로 늘렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "유기농 글루텐프리 라인으로 Brunehaut Gluten-free Bio Amber, Blonde, Blanche, Saison, Triple이 있다. 이 맥주들은 글루텐 5ppm 미만으로 인증되었고 코셔와 비건 친화로 확인되었다. 수도원 스타일 라인에는 Abbaye de Saint-Martin Blonde, Brune, Tripel, Winter ale이 있다. Dubbel과 Tripel은 병 숙성 에일이며 Certified Belgian Abbaye Beer이다. 지역 스타일로는 Abbaye de Saint Amand와 Ne Kopstoot이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2006년 소유권이 바뀌면서 시장 초점이 좁혀지고 수출 시장이 확대되었다. 이때 7개 제품이 단종되고 새 포장 라벨이 제작되었다. 2021년 2월 유럽연합 최초의 B Corp 인증 양조장이 되었다. 자체 보리와 밀을 Domaine de Graux에서 재배하고 옥상 태양광 설비로 생산 전력을 공급한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수도원에서 유래한 옛 레시피와 글루텐프리 유기농 양조를 결합하고, 유럽연합 최초의 B Corp 인증 양조장이 된 벨기에 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://brunehaut.com/",
+  "entityLinks": {
+   "wikidata": "Q2682652",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2682652",
+    "https://en.wikipedia.org/wiki/Brasserie_Brunehaut"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2682652",
+   "country": "벨기에",
+   "inception": "1890",
+   "headquarters": "Rongy",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie Brunehaut」 본문과 위키데이터 Q2682652 팩트를 근거로 편집"
+ }
+}

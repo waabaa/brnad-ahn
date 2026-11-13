@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q13573965",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/dommelsch-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dommelsch-brewery",
+  "urlSlug": "dommelsch-brewery",
+  "name": "Dommelsch Brewery",
+  "nameKo": "",
+  "nameEn": "Dommelsch Brewery",
+  "definition": "Dommelsch Brewery는 1744년 네덜란드의 마을 Dommelen에서 설립된 양조장이다. 현재 앤하이저부시 인베브 그룹에 속하며 네덜란드 시장용 Dommelsch Pilsener를 양조한다.",
+  "summary": "Dommelsch Brewery는 1744년 네덜란드의 마을 Dommelen에서 설립된 양조장이다. 현재 앤하이저부시 인베브 그룹에 속하며 네덜란드 시장용 Dommelsch Pilsener를 양조한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "1744년 Dommelen에서 설립되어 현재 앤하이저부시 인베브 그룹에 속하며, 네덜란드 시장용 Dommelsch Pilsener를 양조하는 양조장이다. 또한 Brahma 맥주를 유럽 시장용으로 양조한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Dommelsch Brewery는 네덜란드의 마을 Dommelen에서 1744년에 설립된 양조장이다. 양조장 건물도 네덜란드 Dommelen에 있으며 설립 연도와 같은 1744년에 지어졌다. 자체 브랜드인 Dommelsch Pilsener는 알코올 도수 5%의 페일 라거로, 네덜란드 시장용으로 양조된다. 이 양조장은 Dommelsch 외에도 Hertog Jan, Jupiler, Leffe, Brahma를 함께 만든다. 이 가운데 글로벌 브랜드인 Brahma 맥주는 유럽 시장용으로 양조한다. 현재는 앤하이저부시 인베브 그룹에 속해 있는 네덜란드의 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Dommelsch는 1744년 네덜란드의 마을 Dommelen에서 설립된 양조장이다. 1968년에 Brouwerij Artois가 Dommelsch 양조장을 인수했다. Brouwerij Artois는 나중에 Interbrew가 되었다. 이 회사는 2008년에 앤하이저부시 인베브 그룹의 일부가 되었다. 양조장 건물은 Dommelen에 있으며 1744년에 지어졌고, 현재는 Dommelsch 외에 Hertog Jan, Jupiler, Leffe, Brahma도 만든다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 자체 브랜드인 Dommelsch Pilsener이다. Dommelsch Pilsener는 알코올 도수 5%의 페일 라거 맥주이며 네덜란드 시장용으로 양조된다. 글로벌 브랜드인 Brahma 맥주는 유럽 시장용으로 이 양조장에서 양조한다. 이 외에 Hertog Jan, Jupiler, Leffe도 이 양조장에서 만든다. 정리하면 이 양조장이 만드는 브랜드는 Dommelsch, Hertog Jan, Jupiler, Leffe, Brahma 다섯 가지이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 네덜란드 Dommelen에 있으며 현재 앤하이저부시 인베브 그룹에 속해 있다. 이 그룹에는 2008년에 편입되었다. 네덜란드 시장용 Dommelsch Pilsener와 유럽 시장용 Brahma 맥주를 양조한다. Hertog Jan, Jupiler, Leffe도 함께 만든다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1744년 Dommelen에서 설립되어 현재 앤하이저부시 인베브 그룹에 속하며, 네덜란드 시장용 Dommelsch Pilsener를 양조하는 양조장이다. 또한 Brahma 맥주를 유럽 시장용으로 양조한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dommelsch.nl",
+  "entityLinks": {
+   "wikidata": "Q13573965",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13573965",
+    "https://en.wikipedia.org/wiki/Dommelsch_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q13573965",
+   "country": "네덜란드",
+   "inception": "1744",
+   "headquarters": "Dommelen",
+   "founders": [],
+   "parent": "앤하이저부시 인베브",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Dommelsch Brewery」 본문과 위키데이터 Q13573965 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

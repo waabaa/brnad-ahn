@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q917561",
+ "demand": {
+  "why": "국내",
+  "naver": 0.296,
+  "koViews": 643,
+  "enViews": 6762,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/kitsune-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kitsune",
+  "urlSlug": "kitsune",
+  "name": "메종키츠네",
+  "nameKo": "메종키츠네",
+  "nameEn": "Kitsuné",
+  "definition": "메종키츠네(Kitsuné)는 2002년 프랑스 파리에서 설립된 전자 음악 레이블이자 패션 브랜드이다. 이름은 일본어로 여우를 뜻하는 단어 키츠네에서 따왔다.",
+  "summary": "메종키츠네(Kitsuné)는 2002년 프랑스 파리에서 설립된 전자 음악 레이블이자 패션 브랜드이다. 이름은 일본어로 여우를 뜻하는 단어 키츠네에서 따왔다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "음악 레이블과 패션 브랜드, 카페를 함께 운영하며, 일본어로 여우를 뜻하는 이름에 다양한 얼굴과 방향을 담은 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메종키츠네는 전자 음악 레이블과 패션 브랜드를 함께 운영하며 카페 사업도 전개하는 브랜드이다. 패션과 음악을 좋아했던 Gildas Loaëc와 Masaya Kuroki가 일본 여행 중 두 분야와 관련된 회사를 세우겠다는 생각을 한 것이 시작이다. 2002년 파리에서 두 사람과 런던에 거점을 둔 디자인 회사 Åbäke가 설립했으며 본사는 파리에 있다. 공동 설립 이전 Gildas Loaëc는 Daft Punk와 Thomas Bangalter의 음반 레이블 Roulé와 함께 작업했다. 2019년 파리에 첫 레스토랑을 연 뒤 카페를 일본, 한국, 뉴욕, 상하이, 방콕, 자카르타 등으로 확장했다. 이름은 일본어로 여우를 뜻하며, 다양한 얼굴과 겉모습이 브랜드의 서로 다른 부분과 방향을 상징한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "키츠네는 2002년 파리에서 Gildas Loaëc, Masaya Kuroki와 런던에 거점을 둔 디자인 회사 Åbäke가 설립했다. Åbäke는 Patrick Lacey, Benjamin Reichen, Kajsa Ståhl, Maki Suzuki로 구성된 회사이다. 패션과 음악을 좋아했던 Gildas Loaëc와 Masaya Kuroki는 일본 여행 중 두 분야와 모두 관련된 회사를 세운다는 생각을 하게 되었다. 공동 설립 이전 Gildas Loaëc는 Daft Punk와 Thomas Bangalter의 음반 레이블인 Roulé와 함께 작업했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "음악 부문에서는 레이블을 통해 앨범을 발매했다. 스튜디오 앨범으로는 Hot Chip의 Coming on Strong(2004), Digitalism의 Idealism(2007), Two Door Cinema Club의 Tourist History(2010)와 Beacon(2012), Crystal Fighters의 Star of Love(2010) 등이 있다. 이 밖에 autoKratz의 Animal(2009), Is Tropical의 Native To(2011), Housse de Racket의 Alesia(2011)도 포함된다. 패션 브랜드와 함께 2019년 Café Kitsuné라는 이름으로 첫 레스토랑을 파리에 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 첫 레스토랑을 연 이후 카페는 파리 2곳, 일본 4곳, 한국, 뉴욕, 상하이, 방콕, 자카르타 2곳으로 확장되었다. 전자 음악 레이블, 패션 브랜드, 카페를 아우르는 사업 구성을 갖추고 있다. 위키데이터 기준 본사는 프랑스 파리이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "음악 레이블과 패션 브랜드, 카페를 함께 운영하며, 일본어로 여우를 뜻하는 이름에 다양한 얼굴과 방향을 담은 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.maisonkitsune.com",
+  "entityLinks": {
+   "wikidata": "Q917561",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q917561",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%A2%85%ED%82%A4%EC%B8%A0%EB%84%A4",
+    "https://en.wikipedia.org/wiki/Maison_Kitsun%C3%A9"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q917561",
+   "country": "프랑스",
+   "inception": "2002",
+   "headquarters": "파리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「메종키츠네」 요약과 위키데이터 Q917561 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

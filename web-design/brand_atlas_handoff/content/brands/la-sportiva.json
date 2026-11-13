@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q3821214",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/la-sportiva-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "la-sportiva",
+  "urlSlug": "la-sportiva",
+  "name": "La Sportiva",
+  "nameKo": "라 스포르티바",
+  "nameEn": "La Sportiva",
+  "definition": "La Sportiva는 1928년 이탈리아에서 Narciso Delladio가 설립한 신발 브랜드이자 기업이다. 등산, 클라이밍, 스키용 신발을 만드는 브랜드이다.",
+  "summary": "La Sportiva는 1928년 이탈리아에서 Narciso Delladio가 설립한 신발 브랜드이자 기업이다. 등산, 클라이밍, 스키용 신발을 만드는 브랜드이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "신발 제조로 출발해 등산, 클라이밍, 스키용 신발 브랜드로 이어진 이탈리아 브랜드이며, TC Pro 클라이밍 슈즈로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "La Sportiva는 등산, 클라이밍, 스키용 신발을 만드는 이탈리아의 신발 브랜드이다. 본사는 이탈리아의 Ziano di Fiemme에 있으며 설립 연도는 1928년이다. 제품은 유럽과 북미 지역에서 유통되고 있다. 클라이밍, 러닝, 하이킹, 스키 같은 아웃도어 스포츠용 신발로 알려져 있으며, 제품군에는 기술적인 암벽을 포함한 다양한 지형을 위한 전문 장비가 있다. 산악 러닝, 암벽 등반, 빙벽 등반, 알파인 등반, 스키 등 여러 종목에 걸쳐 선수를 후원한다. 2024년 1월에는 미국 콜로라도주 볼더에 미국 내 첫 매장을 열었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1928년 Narciso Delladio가 이탈리아에서 신발 제조 사업을 시작했다. 그는 농부와 벌목꾼을 위한 부츠와 나막신을 만들며 출발했다. 제2차 세계대전 중에는 이탈리아 군인들에게 맞춤 등산화를 공급하는 데 도움을 주었다. 1950년대에는 스키 부츠를 만들기 시작했고, 이때 La Sportiva라는 브랜드명을 처음 도입했다. 2024년 1월에는 미국 콜로라도주 볼더에 미국 내 첫 매장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품군은 등산, 클라이밍, 스키용 신발이다. 클라이밍, 러닝, 하이킹, 스키 등 아웃도어 스포츠용 신발로 알려져 있다. 제품 라인에는 기술적인 암벽을 비롯한 다양한 지형을 위한 전문 장비가 포함된다. TC Pro 클라이밍 슈즈는 Tommy Caldwell과 협업해 개발한 제품이다. Caldwell은 이 신발을 신고 Dawn Wall을 등반했고, Alex Honnold는 El Capitan의 Free Solo에 이 신발을 사용했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 이탈리아 Ziano di Fiemme에 있다. 제품은 유럽과 북미 지역에서 유통되고 있다. 2024년 1월에는 미국 콜로라도주 볼더에 미국 내 첫 매장을 열었다. 산악 러닝, 암벽 등반, 빙벽 등반, 알파인 등반, 스키 등 여러 종목에 걸쳐 선수를 후원하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "신발 제조로 출발해 등산, 클라이밍, 스키용 신발 브랜드로 이어진 이탈리아 브랜드이며, TC Pro 클라이밍 슈즈로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lasportiva.com",
+  "entityLinks": {
+   "wikidata": "Q3821214",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3821214",
+    "https://en.wikipedia.org/wiki/La_Sportiva"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3821214",
+   "country": "이탈리아",
+   "inception": "1928",
+   "headquarters": "Ziano di Fiemme",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「La Sportiva」 본문과 위키데이터 Q3821214 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

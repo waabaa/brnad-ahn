@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q610492",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/spar-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "spar",
+  "urlSlug": "spar",
+  "name": "스파",
+  "nameKo": "스파",
+  "nameEn": "Spar",
+  "definition": "스파(Spar)는 1932년 네덜란드에서 Adriaan van Well이 설립한 다국적 기업으로, 독립 운영되는 식료품 소매점에 브랜드와 공급, 지원 서비스를 제공한다.",
+  "summary": "스파(Spar)는 1932년 네덜란드에서 Adriaan van Well이 설립한 다국적 기업으로, 독립 운영되는 식료품 소매점에 브랜드와 공급, 지원 서비스를 제공한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "독립 소매점에 브랜드와 공급, 지원을 제공하는 방식으로 48개국에 걸쳐 확장한 네덜란드 기원의 식료품 소매 네트워크이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스파는 독립적으로 소유하고 운영하는 식료품 소매점에 브랜딩, 공급, 지원 서비스를 제공하는 네덜란드 다국적 기업이며, 본사는 암스테르담에 있다. 파트너십 프로그램을 운영하며 대부분의 유럽 국가는 물론 아시아, 아프리카, 오세아니아에도 진출해 있다. 매장이 가장 많은 나라는 영국이고, 2024년 기준 그룹은 48개국에서 13,900개 매장을 보유했다. 매장은 국가별로 적용되는 모델에 따라 독립 소유, 프랜차이즈, 체인 형태로 운영되며, 모회사의 소유자도 국가마다 달라 매장 소유주 자신이 포함되기도 한다. 현재 로고와 이름은 1968년 Raymond Loewy가 마지막으로 개정한 뒤 바뀌지 않았다. 1996년부터는 유럽육상협회와 그 대회의 주요 후원사로 활동하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스파는 1932년 네덜란드 Zegwaart에서 Adriaan van Well이 설립했다. 이름은 원래 DESPAR였으며, 네덜란드어 문구 Door Eendrachtig Samenwerken Profiteren Allen Regelmatig, 곧 '화합하여 협력함으로써 모두가 정기적으로 이익을 얻는다'는 뜻의 약어였다. 이 약어는 네덜란드어로 '저축하다'를 뜻하는 sparen과 어울리도록 골랐고, Spar는 네덜란드어로 가문비나무를 뜻해 로고도 이를 따랐다. 유럽으로 확장하면서 앞의 DE를 떼어 SPAR가 되었다. 1953년에는 국제 확장을 관리할 International Spar 사무소가 암스테르담에 문을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스파의 사업은 독립 소유·운영 식료품 소매점에 브랜드, 공급, 지원 서비스를 제공하는 것이다. 매장은 슈퍼마켓 규모일 수도, 소형 편의점일 수도 있다. 아일랜드, 북아일랜드, 러시아, 스위스에서는 SPAR와 EUROSPAR 이름을 함께 쓰며, EUROSPAR는 주로 larger 슈퍼마켓 규모 매장에, SPAR는 더 작은 편의점에 쓴다. 슬로베니아에서는 SPAR와 INTERSPAR를 함께 쓰며 INTERSPAR가 더 큰 슈퍼마켓 규모 매장이다. 영국에서는 1997년 Naafi를 통해 대부분의 군 기지에 도입되어 다양한 민간 및 군용 상품을 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 기준 스파 그룹은 48개국에서 13,900개 매장을 보유했다. 2021년부터 그룹은 아일랜드와 영국 남부에 매장을 둔 BWG Foods의 지분 100%를 보유하고 있다. 네덜란드의 스파 매장은 서로 무관한 여러 슈퍼마켓 브랜드가 참여하는 재고 구매 조직 Superunie의 회원이다. 남아프리카공화국 스파는 1988년 Tiger Brands의 완전 자회사가 되었다가 2004년 분리되어 별도 상장사가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독립 소매점에 브랜드와 공급, 지원을 제공하는 방식으로 48개국에 걸쳐 확장한 네덜란드 기원의 식료품 소매 네트워크이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.spar-international.com/",
+  "entityLinks": {
+   "wikidata": "Q610492",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q610492",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%8C_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Spar_(retailer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q610492",
+   "country": "네덜란드",
+   "inception": "1932",
+   "headquarters": "암스테르담",
+   "founders": [
+    "Adriaan van Well"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Spar (retailer)」 본문과 위키데이터 Q610492 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q703557",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/giant-bicycles-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "giant-bicycles",
+  "urlSlug": "giant-bicycles",
+  "name": "자이언트",
+  "nameKo": "자이언트",
+  "nameEn": "Giant Bicycles",
+  "definition": "자이언트(Giant Bicycles)는 1972년 대만에서 설립된 자전거 설계·제조 기업이다. 세계에서 가장 큰 자전거 설계·제조업체로 알려져 있다.",
+  "summary": "자이언트(Giant Bicycles)는 1972년 대만에서 설립된 자전거 설계·제조 기업이다. 세계에서 가장 큰 자전거 설계·제조업체로 알려져 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대 자전거 설계·제조업체로 소개되며, 다른 브랜드용 OEM 생산에서 출발해 자체 브랜드와 여성 전용 Liv를 키운 대만 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "자이언트는 자전거를 설계하고 제조하는 대만 기업으로, 정식 회사명은 Giant Manufacturing Co. Ltd.이며 흔히 Giant로 불린다. 대만, 네덜란드, 중국, 헝가리에 제조 시설을 두고 있고, 베트남을 다섯 번째 생산 거점으로 삼을 계획이 있다. 2018년 기준으로 50개국 이상, 12,000개가 넘는 소매점에서 제품을 판매했다. 제품은 주로 유럽연합, 미국, 일본, 대만으로 향한다. 코로나19 대유행기에는 자전거 수요가 크게 늘어 2021년 1분기 매출이 55% 증가했고, 전기자전거가 판매의 30%를 차지했다. 한편 대만 공장의 이주노동자 근로 환경이 문제로 제기되어 2024년 보도 이후 채용 관행을 바꾸겠다고 약속하기도 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "자이언트는 1972년 대만 타이중 카운티의 Dajia에서 King Liu와 동업자들이 설립했다. 1977년 최고경영자 Tony Lo가 Schwinn과 계약을 맺고 다른 브랜드명으로 판매되는 자전거를 만드는 OEM 생산을 시작한 것이 큰 전환점이었다. 1980년 시카고 Schwinn 공장 파업 이후 핵심 공급업체가 되어, 1980년대 중반에는 Schwinn 자전거의 3분의 2 이상을 만들었고 이는 자이언트 매출의 75%에 해당했다. Schwinn이 1987년 China Bicycle Company와 선전 생산 계약을 맺자, 새 사장 Bill Austin 아래에서 자체 브랜드 자전거를 만들었다. 1984년에는 Koga-Miyata의 Andries Gaastra와 Giant Europe 합작법인을 세웠고, 1992년 Gaastra가 지분을 되팔아 자이언트가 단독 주주가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자이언트의 핵심 사업은 자전거 설계와 제조이며, 전기자전거가 판매의 30%를 차지하는 것으로 보고되었다. 1996년에는 Redline Bicycles 창업자 Linn Kastan, 선수 Jason Richardson의 도움으로 BMX 자전거와 부품을 만들고 프로 BMX 레이싱 팀을 운영하는 Mosh BMX 부문을 세웠다. Mosh는 2008년 해체되었다. 같은 해 자이언트는 여성 자전거 시장만을 겨냥한 Liv/Giant 서브 브랜드를 내놓았고, 2014년 이를 Liv로 개편했다. Liv는 ‘여성이 여성을 위해 설계한’ 개념을 내세워 프레임 지오메트리와 카본 레이업부터 별도로 설계하며, 전용 매장과 매장 내 Liv 구역을 두었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "코로나19 이후 수요가 늘자 유럽연합에 대형 공장을 새로 짓는 계획을 세웠고, 중국 공장을 대만으로 옮기고 있다. 2024년 이주노동자 채용 관행에 대한 폭로 이후, 2025년부터 채용 수수료를 받지 않는 정책을 도입하고 임금 보류 관행을 끝내겠다고 약속했다. 다만 그 이전에 고용된 노동자의 채용 부채는 탕감되지 않았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대 자전거 설계·제조업체로 소개되며, 다른 브랜드용 OEM 생산에서 출발해 자체 브랜드와 여성 전용 Liv를 키운 대만 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.giant-bicycles.com/",
+  "entityLinks": {
+   "wikidata": "Q703557",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q703557",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Giant_Bicycles"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q703557",
+   "country": "중화민국",
+   "inception": "1972",
+   "headquarters": "다자구",
+   "founders": [
+    "류진뱌오"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Giant Bicycles」 본문과 위키데이터 Q703557 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

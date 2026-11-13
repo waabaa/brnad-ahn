@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q4739126",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "amager-bryghus",
+  "urlSlug": "amager-bryghus",
+  "name": "Amager Bryghus",
+  "nameKo": "",
+  "nameEn": "Amager Bryghus",
+  "definition": "Amager Bryghus는 덴마크 Amager 섬에 있는 소규모 양조장이다. 2007년 Morten Valentin Lundsbak과 Jacob Storm이 창업했으며 임페리얼 스타우트로 Ratebeer 상위권에 올랐다.",
+  "summary": "Amager Bryghus는 덴마크 Amager 섬에 있는 소규모 양조장이다. 2007년 Morten Valentin Lundsbak과 Jacob Storm이 창업했으며 임페리얼 스타우트로 Ratebeer 상위권에 올랐다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "옛 Church of Scientology 소유 창고에서 출발한 Amager 섬의 덴마크 마이크로 양조장으로, 임페리얼 스타우트 Hr. Frederiksen으로 Ratebeer Top 50에 이름을 올렸다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "덴마크의 마이크로 양조장으로, Amager 섬에서 옛 창고를 사용해 문을 열었으며 이 창고는 예전에 Church of Scientology가 소유했던 곳이다. 임페리얼 스타우트인 Hr. Frederiksen이 처음으로 Ratebeer Top 50에 들어간 맥주이다. 이 맥주의 성공 덕분에 Shelton Brothers와 협력해 미국으로 수출하기 시작했다. 2009년부터는 Ratebeer 상위 100대 양조장 목록에 이름을 올려 왔다. 2013년에는 맥주 Lust의 라벨이 스웨덴 Systembolaget에 의해 검열되어 스웨덴 언론에서 논란이 되었다. 2017년에는 코펜하겐 공항 옆 Kastrup의 Kirstinehøj 38B에 있는 더 넓은 건물로 옮겼다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2007년 Morten Valentin Lundsbak과 Jacob Storm이 Amager 섬의 옛 창고에서 양조장을 시작했다. 이 창고는 이전에 Church of Scientology가 소유한 건물이었다. 처음 Ratebeer Top 50에 든 맥주 Hr. Frederiksen은 양조장 설립을 1년 내내 도운 소유주들의 친구 Peter Frederiksen을 기리려고 만든 임페리얼 스타우트이다. 이 맥주가 성공을 거두자 Shelton Brothers와 협력해 미국 수출을 시작했다. 2009년부터는 Ratebeer 상위 100대 양조장 목록에 올랐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 임페리얼 스타우트인 Hr. Frederiksen이다. 이 맥주는 Ratebeer Top 50에 처음 들어간 이 양조장의 맥주이며, 양조장 설립을 도운 Peter Frederiksen을 기리기 위해 만들었다. 또 다른 맥주 Lust는 2013년 라벨에 상반신을 드러낸 여성이 그려졌다는 이유로 스웨덴 Systembolaget의 검열을 받았다. Systembolaget은 성적인 성공을 맥주를 마시는 일과 연관 지을 수 없다고 보았다. 미국 수출은 Shelton Brothers와의 협력으로 시작되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "덴마크 마이크로 양조장으로서 2017년에 코펜하겐 공항 옆 Kastrup의 Kirstinehøj 38B에 있는 더 큰 시설로 이전했다. 2009년부터 Ratebeer 상위 100대 양조장 목록에 올라 있다. 2013년에는 맥주 Lust의 라벨이 스웨덴 Systembolaget에 의해 검열되어 스웨덴 언론에서 논란이 일었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "옛 Church of Scientology 소유 창고에서 출발한 Amager 섬의 덴마크 마이크로 양조장으로, 임페리얼 스타우트 Hr. Frederiksen으로 Ratebeer Top 50에 이름을 올렸다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.amagerbryghus.dk/",
+  "entityLinks": {
+   "wikidata": "Q4739126",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4739126",
+    "https://en.wikipedia.org/wiki/Amager_Bryghus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4739126",
+   "country": "덴마크",
+   "inception": "2006",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Amager Bryghus」 본문과 위키데이터 Q4739126 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q1809448",
+ "demand": {
+  "why": "국외",
+  "naver": 0.003,
+  "koViews": 360,
+  "enViews": 51662,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/whole-foods-market-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "whole-foods-market",
+  "urlSlug": "whole-foods-market",
+  "name": "홀 푸드 마켓",
+  "nameKo": "홀 푸드 마켓",
+  "nameEn": "Whole Foods Market",
+  "definition": "홀 푸드 마켓(Whole Foods Market)은 인공 첨가제가 포함되지 않은 유기농 식품을 전문적으로 판매하는 미국의 슈퍼마켓 체인이다. 아마존닷컴이 모기업이다.",
+  "summary": "홀 푸드 마켓(Whole Foods Market)은 인공 첨가제가 포함되지 않은 유기농 식품을 전문적으로 판매하는 미국의 슈퍼마켓 체인이다. 아마존닷컴이 모기업이다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "인공 첨가제가 포함되지 않은 유기농 식품에 집중하는 슈퍼마켓 체인으로, GMO 투명성에 대한 노력을 부서 전반에 적용한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "홀 푸드 마켓은 인공 첨가제가 포함되지 않은 유기농 식품을 전문으로 판매하는 미국의 슈퍼마켓 체인이다. 본사는 오스틴에 있으며 1980년에 설립되었고 창업자는 존 맥키이다. 북아메리카와 영국에 479개의 점포가 있다. 2017년 8월 23일 연방거래위원회가 아마존닷컴과의 합병을 승인했고, 이 거래는 2017년 8월 28일 종료될 것이라고 발표되었다. 현재 모기업은 아마존닷컴이다. 식료품부, 생산부, 해산물부 등 부서 전반에 GMO 투명성에 대한 노력을 적용하고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "홀 푸드 마켓의 중심 상품은 인공 첨가제가 포함되지 않은 유기농 식품이다. 매장은 식료품부(Grocery), 생산부(Produce), 해산물부(Seafood) 등의 부서로 나뉜다. 수년 간 비GMO 프로젝트로 확인된 물건들이 식료품부에서 판매되어 왔다. 생산부에서는 이러한 노력이 지속되면서 유기농 식품의 구매를 권고하고 있다. 해산물부에서는 양식 어류에 대해 비GMO 프로젝트 확인 프로세스의 계획이 진행되고 있으며, 현재 양식 어류에 대한 USDA 유기농 규제는 없는 상황이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 북아메리카와 영국에 479개의 점포가 있다. 모기업은 아마존닷컴이며, 2017년 8월 23일 연방거래위원회가 합병을 승인했고 그 다음 날 거래가 2017년 8월 28일 종료될 것이라고 발표되었다. 또한 GMO 제품 레이블을 2018년 고객에게 제공할 계획이라고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인공 첨가제가 포함되지 않은 유기농 식품에 집중하는 슈퍼마켓 체인으로, GMO 투명성에 대한 노력을 부서 전반에 적용한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.wholefoodsmarket.com/",
+  "entityLinks": {
+   "wikidata": "Q1809448",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1809448",
+    "https://ko.wikipedia.org/wiki/%ED%99%80_%ED%91%B8%EB%93%9C_%EB%A7%88%EC%BC%93",
+    "https://en.wikipedia.org/wiki/Whole_Foods_Market"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1809448",
+   "country": "미국",
+   "inception": "1980",
+   "headquarters": "오스틴",
+   "founders": [
+    "존 맥키"
+   ],
+   "parent": "아마존닷컴",
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「홀 푸드 마켓」 요약과 위키데이터 Q1809448 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

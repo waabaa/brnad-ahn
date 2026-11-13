@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q505922",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/electrolux-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "electrolux",
+  "urlSlug": "electrolux",
+  "name": "일렉트로룩스",
+  "nameKo": "일렉트로룩스",
+  "nameEn": "Electrolux",
+  "definition": "일렉트로룩스(Electrolux)는 스웨덴 스톡홀름에 본사를 둔 다국적 가전제품 제조 기업이다. 주로 가정용 대형 가전과 청소기를 만들며, 판매 수량 기준 세계 2위 가전 제조사로 꼽힌다.",
+  "summary": "일렉트로룩스(Electrolux)는 스웨덴 스톡홀름에 본사를 둔 다국적 가전제품 제조 기업이다. 주로 가정용 대형 가전과 청소기를 만들며, 판매 수량 기준 세계 2위 가전 제조사로 꼽힌다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "청소기용 모터를 만드는 스웨덴의 작은 회사에서 출발해 가정용 대형 가전과 청소기를 함께 다루는 세계 2위 가전 제조사로 성장한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "일렉트로룩스는 1910년에 설립된 스웨덴의 다국적 가전제품 제조 기업이다. 제품은 자사 브랜드를 포함한 여러 브랜드명으로 판매되며, 가정용 소비자를 겨냥한 대형 가전과 청소기가 중심이다. 판매 수량 기준으로 Whirlpool에 이어 세계 2위 가전 제조사로 꾸준히 꼽힌다. 본사는 스톡홀름에 있고, 주 상장 시장은 스톡홀름 증권거래소이다. 1960년대에는 인수합병의 새로운 물결이 시작되었고, 사장을 거쳐 이사회 의장을 지낸 Hans Werthén이 분권화된 회사의 전략적 중심을 이끌며 빠른 성장에 기여했다. 비용 절감과 관리 중앙집중화 시도는 1960~70년대에도 있었으나, 전사적 구조조정은 1990년대 말에야 시작되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Elektromekaniska는 1910년 1월 19일 스톡홀름에서 엔지니어 Sven Carlstedt가 설립했으며, 그가 Eberhardt Seger와 함께 설계한 청소기용 범용 모터를 만드는 회사였다. 1912년 판매원 Axel Wenner-Gren을 만난 Carlstedt는 Lux와 협력하게 되었고, Lux는 필라델피아의 미국 Keller Manufacturing Company로부터 라이선스를 받아 청소기를 생산하며 Elektromekaniska의 모터를 장착했다. Wenner-Gren은 1915년 Svenska Elektron을 세웠고, 1916년 이 회사가 Elektromekaniska의 지분 과반을 취득하면서 그가 경영을 맡았다. 1919년 8월 29일 사명이 Elektrolux로 바뀌었는데, 이는 기존 이름과 Lux를 합친 것이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 가정용 대형 가전과 청소기이다. 1923년 Arctic을 인수한 뒤 흡수식 냉장고를 제품군에 더했고, 세탁기는 1951년, 식기세척기는 1959년, 업소용 식품 서비스 장비는 1962년에 추가했다. 1960년부터 1969년까지는 ElektroHelios, 노르웨이의 Elektra, 덴마크의 Atlas, 핀란드의 Slev, Flymo 등을 인수했다. 북미에서는 Eureka 브랜드로 청소기를 2004년까지 판매했다. 1990년대에는 한동안 Husqvarna를 포함해 수많은 기업을 사들였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 판매 수량 기준 세계 2위 가전 제조사로 꼽히며 본사는 스톡홀름에 있다. 스톡홀름 증권거래소에 주 상장되어 있고, 1928년 상장했던 런던 증권거래소에서는 2010년에 상장이 폐지되었다. 2010년 기준 주식은 NASDAQ OMX Nordic Market과 장외에서 거래되며 OMX Nordic 40 구성 종목이다. 북미에서는 Aerus가 2000년 상표권을 그룹에 돌려주었고 2004년 Electrolux 이름 사용을 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "청소기용 모터를 만드는 스웨덴의 작은 회사에서 출발해 가정용 대형 가전과 청소기를 함께 다루는 세계 2위 가전 제조사로 성장한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.electroluxgroup.com/",
+  "entityLinks": {
+   "wikidata": "Q505922",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q505922",
+    "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%A3%A9%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Electrolux"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q505922",
+   "country": "스웨덴",
+   "inception": "1910",
+   "headquarters": "스톡홀름",
+   "founders": [
+    "악셀 벤네르그렌"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Electrolux」 본문과 위키데이터 Q505922 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

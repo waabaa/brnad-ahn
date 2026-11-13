@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q746413",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/elsevier-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "elsevier",
+  "urlSlug": "elsevier",
+  "name": "엘제비어",
+  "nameKo": "엘제비어",
+  "nameEn": "Elsevier",
+  "definition": "엘제비어(Elsevier)는 과학·기술·의학 분야의 콘텐츠를 전문으로 하는 네덜란드의 학술 출판사이다. 2015년까지 리드 엘제비어로 불린 RELX 그룹에 속해 있다.",
+  "summary": "엘제비어(Elsevier)는 과학·기술·의학 분야의 콘텐츠를 전문으로 하는 네덜란드의 학술 출판사이다. 2015년까지 리드 엘제비어로 불린 RELX 그룹에 속해 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "학술지 출판에서 출발해 전자 학술 데이터베이스와 연구 분석 도구까지 넓힌 RELX 그룹 소속의 네덜란드 학술 출판사이다. 높은 이익률로 비판도 받는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "엘제비어는 과학, 기술, 의학 분야의 학술 콘텐츠를 출판하는 네덜란드 회사이다. 본사는 암스테르담에 있으며, 데이터 관리, 교육, 연구 분석, 평가를 위한 디지털 도구도 제공한다. RELX 보고에 따르면 2022년에 2,800종이 넘는 학술지에서 해마다 600,000건이 넘는 논문을 발행했다. 2019년부터 회사 소개 페이지는 스스로를 출판사가 아닌 '글로벌 정보 분석 기업'으로 설명하며, 출판은 뿌리일 뿐이라고 밝힌다. 엘제비어가 출판하는 연구의 상당수는 공적 자금으로 수행된 것이다. 높은 이익률과 저작권 관행에 대한 비판을 받아 왔고, 높은 비용은 불매 운동과 프리프린트 서버 같은 대안 경로의 등장으로 이어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "엘제비어는 1880년에 설립되었으며, 이름과 로고는 네덜란드 출판사 Elzevir에서 가져왔다. Elzevir는 영감의 원천이었을 뿐 현재의 엘제비어와 관계가 없다. 1945년 이후 과학 분야로의 확장은 같은 해 10월 27일 창간된 주간지 Elsevier의 수익으로 충당했다. 1947년에는 첫 영어 학술지 Biochimica et Biophysica Acta를 펴냈다. 1970년 경쟁사 North Holland Publishing Co.를, 1971년 Excerpta Medica를 인수했고, 1978년에는 네덜란드 신문 출판사 NDU와 합병했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 학술지로 The Lancet, Cell, Trends, Current Opinion 시리즈가 있다. 전자 학술지 모음인 ScienceDirect는 1997년 전자 도서와 논문의 첫 온라인 저장소로 출시되었다. 2004년에는 Scopus를 출시했으며, 이 밖에 연구 성과 측정 도구 SciVal, 임상의용 검색 엔진 ClinicalKey, 근거 기반 암 진료 서비스 ClinicalPath를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "엘제비어는 상장 기업인 RELX 그룹의 일원이다. RELX 보고에 따르면 2022년 기준으로 2,800종이 넘는 학술지에서 연간 600,000건이 넘는 논문을 발행했다. 2023년에는 세전 이익 £2.295 billion, 조정 영업이익률 33.1%를 보고했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "학술지 출판에서 출발해 전자 학술 데이터베이스와 연구 분석 도구까지 넓힌 RELX 그룹 소속의 네덜란드 학술 출판사이다. 높은 이익률로 비판도 받는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.elsevier.com/",
+  "entityLinks": {
+   "wikidata": "Q746413",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q746413",
+    "https://ko.wikipedia.org/wiki/%EC%97%98%EC%8A%A4%EB%B9%84%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Elsevier"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q746413",
+   "country": "네덜란드",
+   "inception": "1880",
+   "headquarters": "암스테르담",
+   "founders": [],
+   "parent": "리드 엘제비어",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Elsevier」 본문과 위키데이터 Q746413 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

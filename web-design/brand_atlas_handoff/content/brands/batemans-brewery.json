@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q4868773",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "batemans-brewery",
+  "urlSlug": "batemans-brewery",
+  "name": "Batemans Brewery",
+  "nameKo": "",
+  "nameEn": "Batemans Brewery",
+  "definition": "Batemans Brewery는 영국 Lincolnshire의 Wainfleet, Salem Bridge Brewery에 본사를 둔 양조장이다. 1874년에 설립되었으며 캐스크 컨디셔닝 에일을 주력으로 한다.",
+  "summary": "Batemans Brewery는 영국 Lincolnshire의 Wainfleet, Salem Bridge Brewery에 본사를 둔 양조장이다. 1874년에 설립되었으며 캐스크 컨디셔닝 에일을 주력으로 한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1874년 Wainfleet에서 설립되어 캐스크 컨디셔닝 에일을 만들고 69개의 펍을 소유한 양조장이다. 슬로건은 \"Good Honest Ales\"이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "영국의 양조장으로, 정식 명칭은 George Bateman & Son Ltd이며 Lincolnshire의 Wainfleet에 있는 Salem Bridge Brewery를 근거지로 한다. 캐스크 컨디셔닝 에일에 중점을 두며, 상시 생산하는 캐스크 맥주는 Gold, XB, XXXB 세 가지이고 이 중 XB와 XXXB가 가장 잘 알려져 있다. 현재 69개의 펍을 소유하며, 그중 23개가 Lincolnshire의 Boston 한 곳에 있다. 슬로건은 \"Good Honest Ales\"이다. 이 양조장의 맥주는 영국 전역의 펍에서 판매되며, 특히 Lincolnshire와 인접한 카운티에서 많이 볼 수 있다. 펍 사업도 병행해 1948년에는 소유 펍이 68곳으로 늘어 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1874년 지역 농부였던 George Bateman이 인근 Friskney의 농장을 팔고, 철도 옆에 있는 Wainfleet의 양조장을 임차하며 사업을 시작했다. 그는 Edwin Crowe에게서 양조 장비를 £505 10s에 샀고 1년 뒤 £800에 임차권을 샀으며, Crowe는 George와 아내 Suzanna에게 양조 기술을 전수했다. 1880년에는 Georgian 양식 건물 Salem House를 사들여 그 마차 보관소에 새 양조장을 지었다. 1910년에는 이미 자사 펍에 공급할 Guinness와 Bass를 병입하고 있었다. 아들 Harry Bateman은 1919년 아버지에게서 사업을 사들였고, 1920년대부터 펍을 사들여 체인을 넓혀 갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "상시 생산하는 캐스크 컨디셔닝 맥주는 Gold, XB, XXXB 세 가지이다. XXXB는 1978년 2월 1일 Ken Dixon이 처음 양조했다. 병입 제품으로는 Combined Harvest, Dark Lord, Triple XB (XXXB), Victory Ale, Mocha가 있다. Mocha는 2012년 Sainsbury's Great British Beer Hunt에서 우승했으며, 아라비카 커피와 벨기에 초콜릿, 현지에서 재배한 로스팅 맥아로 만든다. Triple XB, Victory, Dark Lord의 라벨에는 Vegan Society의 승인을 받았다고 표시되어 있으며, 영국 슈퍼마켓 Aldi용 그린 진저 와인도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 69개의 펍을 소유하며, 그중 23개가 Boston에 있다. 본사는 Wainfleet의 Salem Bridge Brewery이고, 캐스크 컨디셔닝 에일에 중점을 둔다. 1980년대에는 가족의 절반이 매각을 원했으나, 회장 George Bateman과 아내 Pat, 자녀 Stuart와 Jaclyn이 매각을 원하는 가족 구성원의 지분을 사들여 회사를 이어 갔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1874년 Wainfleet에서 설립되어 캐스크 컨디셔닝 에일을 만들고 69개의 펍을 소유한 양조장이다. 슬로건은 \"Good Honest Ales\"이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.batemansbrewery.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q4868773",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4868773",
+    "https://en.wikipedia.org/wiki/Batemans_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4868773",
+   "country": "영국",
+   "inception": "1874",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Batemans Brewery」 본문과 위키데이터 Q4868773 팩트를 근거로 편집"
+ }
+}

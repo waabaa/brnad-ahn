@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q608350",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "veltins-brewery",
+  "urlSlug": "veltins-brewery",
+  "name": "Veltins Brewery",
+  "nameKo": "",
+  "nameEn": "Veltins Brewery",
+  "definition": "Veltins Brewery는 독일 서부 도시 Meschede-Grevenstein에 있는 양조장으로, 1824년에 문을 열었다. 정식 명칭은 Brauerei C & A Veltins이며 Veltins Pilsener 맥주를 생산한다.",
+  "summary": "Veltins Brewery는 독일 서부 도시 Meschede-Grevenstein에 있는 양조장으로, 1824년에 문을 열었다. 정식 명칭은 Brauerei C & A Veltins이며 Veltins Pilsener 맥주를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "독일 Meschede-Grevenstein의 양조장으로, Veltins Pilsener를 만들고 Veltins-Arena의 명명권을 보유해 맥주와 축구 경기장으로 이어지는 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Veltins는 독일 서부 도시 Meschede-Grevenstein에 본사를 둔 양조장으로, 1824년 작은 여관 양조장으로 문을 열었다. 정식 명칭은 Brauerei C & A Veltins이며, 대표 제품은 널리 알려진 Veltins Pilsener 맥주이다. 2015년에는 독일에서 가장 많이 팔린 맥주 가운데 4위를 차지했다. 1994년부터 Susanne Veltins가 회사를 이끌고 있다. 독일 분데스리가 구단 FC Schalke 04가 겔젠키르헨에서 쓰는 경기장 Veltins-Arena의 명명권을 보유하고 있다. Winterberg의 봅슬레이·루지·스켈레톤 트랙에 있는 Kriesel 커브도 이 양조장의 이름을 딴 것이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1824년 Franz Kramer가 운영하던 작은 여관 양조장이 소박한 나무 대문을 열면서 역사가 시작되었다. 1852년에는 Clemens Veltins가 이 양조장을 인수했다. 1893년에는 쌍둥이 형제 Carl과 Anton Veltins가 아버지로부터 회사를 넘겨받았으며, 두 사람의 이름에서 비롯된 Brauerei C & A Veltins라는 새 이름이 이때 생겼다. 이 양조장은 널리 알려진 Veltins Pilsener 맥주를 생산한다. 이후 1994년부터 Susanne Veltins가 회사를 이끌고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 널리 알려진 Veltins Pilsener 맥주이며, 스포츠 시설의 명명권도 보유한다. 독일 분데스리가 구단 FC Schalke 04가 겔젠키르헨에서 쓰는 경기장 Veltins-Arena의 명명권이 대표적이다. 2004년 UEFA Champions League 결승전이 열린 이 경기장은 유럽에서 가장 현대적인 경기장 가운데 하나로 꼽힌다. 2006 FIFA World Cup 5경기와 UEFA EURO 2024 4경기도 이곳에서 열렸다. Winterberg의 봅슬레이·루지·스켈레톤 트랙에 있는 Kriesel 커브도 이 양조장의 이름을 딴 것이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Brauerei C & A Veltins는 독일 서부 도시 Meschede-Grevenstein에 있는 양조장으로, 1994년부터 Susanne Veltins가 회사를 이끌고 있다. 2015년에는 독일에서 가장 많이 팔린 맥주 가운데 4위에 올랐다. FC Schalke 04의 경기장 Veltins-Arena의 명명권도 보유하고 있다. 이 경기장에서는 UEFA EURO 2024 경기 4경기가 열렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 Meschede-Grevenstein의 양조장으로, Veltins Pilsener를 만들고 Veltins-Arena의 명명권을 보유해 맥주와 축구 경기장으로 이어지는 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.veltins.de/",
+  "entityLinks": {
+   "wikidata": "Q608350",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q608350",
+    "https://en.wikipedia.org/wiki/Veltins_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q608350",
+   "country": "독일",
+   "inception": "1824",
+   "headquarters": "Meschede",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Veltins Brewery」 본문과 위키데이터 Q608350 팩트를 근거로 편집"
+ }
+}

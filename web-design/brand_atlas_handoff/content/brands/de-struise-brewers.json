@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1987425",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "de-struise-brewers",
+  "urlSlug": "de-struise-brewers",
+  "name": "De Struise brewers",
+  "nameKo": "",
+  "nameEn": "De Struise brewers",
+  "definition": "De Struise brewers는 벨기에 Oostvleteren에 있는 소규모 양조장(마이크로브루어리)이다. 2001년에 시작된 프로젝트에서 출발해 독립적인 상업 사업체로 성장했다.",
+  "summary": "De Struise brewers는 벨기에 Oostvleteren에 있는 소규모 양조장(마이크로브루어리)이다. 2001년에 시작된 프로젝트에서 출발해 독립적인 상업 사업체로 성장했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "타조를 상징으로 삼고 영어로 'The Sturdy Brewers'라 옮기는 이름을 쓰며, 강한 맥주와 배럴 숙성 맥주, 다른 양조장과의 협업으로 알려진 벨기에 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "De Struise brewers는 벨기에 Oostvleteren에 본사를 둔 마이크로브루어리이다. 지역 특색을 살린 맥주를 만드는 데서 출발했으며, 최근에는 더 강하고 풍미가 진한 맥주와 배럴 숙성 맥주로 영역을 넓혔다. 덴마크의 Mikkeller, 에스토니아의 Põhjala, 벨기에의 Picobrouwerij Alvinne, 네덜란드의 Brouwerij De Molen, 미국 양조업자들과 협업한 바 있다. 2008년 RateBeer 회원 투표에서 세계 최고의 양조장으로 선정되었으나, 설립 시기가 짧고 당시 양조 시설을 소유하지 않았다는 이유로 비판도 받았다. 2009년 RateBeer의 벨기에 최고 맥주 100선에는 9종이 포함되었다. 회사명은 타조를 뜻하는 옛 플랑드르어 단어에서 왔으며, 라벨에도 타조가 자주 등장한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Lo-Reninge에서 휴양객을 위한 숙박 시설을 갖춘 타조 농장을 운영하던 Urbain Coutteau와 Philippe Driessens가 손님에게 내놓을 지역 특색 맥주에 관심을 가졌다. 두 사람은 2001년 지역 와인 양조업자 Carlo Grootaert의 도움으로 맥주 제조를 시작했고, 이 프로젝트는 독립적인 상업 사업체로 발전했다. 2003년 출범 당시에는 Hainaut 북부의 Caulier 양조장에서 맥주를 생산했다. 2006년부터 2014년까지는 West Flanders Woesten-Vleteren의 Deca 양조 시설에서 만들었고, 그 뒤에는 자체 양조장에서 생산했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Pannepot으로, 알코올 도수 10.0%의 강한 흑색 에일이며 Struise에서 가장 많이 팔리고 인기 있는 제품으로 여겨진다. Pannepot을 배럴 숙성한 Pannepot Grand Reserva는 매년 출시되며 빈티지가 표기된다. Aardmonnik은 플랑드르 Oud bruin 전통을 따른 배럴 숙성 강한 사워 에일이다. Black Albert는 벨기에산 재료만으로 만든 13.0% 스타우트로, 벨기에 국왕 Albert II의 이름을 땄다. 그 밖에 Struise Witte, Struise Rosse, Struiselensis, Tsjeeses 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "자체 마이크로브루어리와 시음장이 Oostvleteren의 Het Oud Schooltje에서 운영 중이라고 회사가 밝혔다. Het Oud Schooltje는 개조한 학교 건물이다. 최근에는 미국 크래프트 양조업자들이 대중화한 흐름을 따라 더 강하고 풍미가 진한 맥주와 배럴 숙성 맥주 생산에 나섰다. Pannepot과 Tsjeeses 등은 배럴 숙성 버전으로도 만들어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "타조를 상징으로 삼고 영어로 'The Sturdy Brewers'라 옮기는 이름을 쓰며, 강한 맥주와 배럴 숙성 맥주, 다른 양조장과의 협업으로 알려진 벨기에 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://struise.com/",
+  "entityLinks": {
+   "wikidata": "Q1987425",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1987425",
+    "https://en.wikipedia.org/wiki/De_Struise_Brouwers"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1987425",
+   "country": "벨기에",
+   "inception": "2001",
+   "headquarters": "Oostvleteren",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「De Struise Brouwers」 본문과 위키데이터 Q1987425 팩트를 근거로 편집"
+ }
+}

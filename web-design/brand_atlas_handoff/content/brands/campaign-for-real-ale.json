@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q925258",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "campaign-for-real-ale",
+  "urlSlug": "campaign-for-real-ale",
+  "name": "Campaign for Real Ale",
+  "nameKo": "",
+  "nameEn": "Campaign for Real Ale",
+  "definition": "Campaign for Real Ale은 리얼 에일, 사이더, 페리와 전통적인 영국 펍·클럽을 홍보하는 독립적인 자발적 소비자 조직이다. 약칭은 CAMRA이다.",
+  "summary": "Campaign for Real Ale은 리얼 에일, 사이더, 페리와 전통적인 영국 펍·클럽을 홍보하는 독립적인 자발적 소비자 조직이다. 약칭은 CAMRA이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "양조 회사가 아니라 리얼 에일과 전통 펍을 홍보하는 회원 기반의 독립 소비자 단체이며, 무보수 이사진이 운영을 맡는다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 단체는 영국에서 리얼 에일, 사이더, 페리와 전통적인 펍·클럽을 홍보하는 소비자 조직이다. 소규모 양조장과 펍 사업 지원, 주류 면허법 개정, 맥주 세금 인하, 지역 양조장의 통합 저지 등의 캠페인을 벌인다. 스타우트, 포터, 마일드 같은 덜 알려진 맥주와 전통 사이더·페리를 알리는 데에도 힘쓴다. 1991년에는 영국 안팎의 회원이 3만 명에 이르렀다. 200개가 넘는 지역 지부가 중앙 조직에 참여하는 연방식 구조이며, 회원이 선출한 무보수 이사 12명의 National Executive가 운영을 맡는다. 2025년 연례 총회에서는 재정 압박을 받고 있다고 보고했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1971년 3월 16일 아일랜드 케리 주 던퀸의 Kruger's Bar에서 Michael Hardman, Graham Lees, Jim Makin, Bill Mellor가 설립했다. 이들은 맥주의 대량 생산과 영국 양조 산업의 획일화에 반대했다. 처음 이름은 Campaign for the Revitalisation of Ale이었다. 첫 연례 총회는 1972년 Nuneaton의 Rose Inn에서 열렸다. 초기 회원은 창립자 네 명과 지인들이었으나 관심이 빠르게 퍼져 1973년에는 회원이 5,000명에 이르렀다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 출판물은 해마다 편찬하는 Good Beer Guide로, 최고의 리얼 에일 판매처 4,500곳과 리얼 에일 양조장 목록을 수록한다. 회원에게는 계간 컬러 잡지 Beer가 제공되며, 월간 신문 What's Brewing은 2021년 4월호까지 발행되었다. 영국의 역사적인 펍을 더 널리 알리고 보호하기 위해 National Inventory of Historic Pub Interiors도 운영한다. Good Cider Guide는 1996년부터 2005년까지 발간되어 사이더·페리 판매처와 생산자를 소개했다. 또한 전국의 맥주·사이더 축제를 지원하고 홍보한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 12월 자원봉사자에게 'pub crawl' 같은 표현을 피하라는 지침을 내 포용적인 음주 문화를 내세웠고, 이를 둘러싸고 공개적인 논쟁이 일었다. 2023년에는 golliwog 인형을 전시한 Essex Grays의 White Hart Inn을 어워드 후보와 Good Beer Guide에서 제외했다. 2025년 연례 총회에서 회원 수가 6년 만의 최저이고 코로나19 이전 수준을 회복하지 못했다고 보고했으며, 같은 해 Beer 겨울호 인쇄판은 온라인으로만 발행되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조 회사가 아니라 리얼 에일과 전통 펍을 홍보하는 회원 기반의 독립 소비자 단체이며, 무보수 이사진이 운영을 맡는다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.camra.org.uk/",
+  "entityLinks": {
+   "wikidata": "Q925258",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q925258",
+    "https://en.wikipedia.org/wiki/Campaign_for_Real_Ale"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q925258",
+   "country": "영국",
+   "inception": "1971",
+   "headquarters": "세인트올번스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Campaign for Real Ale」 본문과 위키데이터 Q925258 팩트를 근거로 편집"
+ }
+}

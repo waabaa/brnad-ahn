@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q818846",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "novo",
+  "urlSlug": "novo",
+  "name": "노보 노디스크",
+  "nameKo": "노보 노디스크",
+  "nameEn": "Novo",
+  "definition": "노보 노디스크(Novo)는 덴마크의 다국적 제약회사이다. 비만과 당뇨병 치료제 및 관련 기기를 주로 제조·판매하며, 1989년 덴마크 제약회사 두 곳이 합병해 만들어졌다.",
+  "summary": "노보 노디스크(Novo)는 덴마크의 다국적 제약회사이다. 비만과 당뇨병 치료제 및 관련 기기를 주로 제조·판매하며, 1989년 덴마크 제약회사 두 곳이 합병해 만들어졌다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "비만과 당뇨병 치료제에 집중하는 덴마크 최대 제약회사이며, Novo Nordisk Foundation이 Novo Holdings를 통해 지배하는 구조가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "덴마크에 본사를 둔 다국적 제약회사로, 의약품과 관련 서비스를 제조·판매하며 주력 분야는 비만과 당뇨병 치료제 및 기기이다. 본사는 Bagsværd에 있으며, 약 69,500명을 80개국에서 고용하고 약 170개국에서 제품을 판매한다. 최대주주는 Novo Holdings로, 지분의 28%와 의결권 주식의 77%를 보유하고 있다. Novo Holdings는 Novo Nordisk Foundation이 전액 소유한 회사이다. European Federation of Pharmaceutical Industries and Associations(EFPIA)의 정회원이며, 덴마크에서 가장 큰 제약회사이다. 2023년에는 시가총액이 덴마크의 GDP를 넘어서며 유럽에서 가장 가치가 높은 기업이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1923년 8월 Krogh와 아내 Marie는 미국 강연 여행 중 인슐린 소식을 듣고 인슐린 발견자들을 만났다. 8월 Krogh는 덴마크에서 인슐린을 생산할 허가를 받았고, Hans Christian Hagedorn과 함께 8월 Kongsted의 지원을 받아 어류와 토끼의 췌장에서 인슐린을 추출·정제하는 실험을 했다. 1924년 7월 연구·생산 부문이 Nordisk Insulin Laboratorium으로 분사되었다. 1925년 Nordisk의 전직 직원이던 Harald와 Thorvald Pedersen 형제가 Novo Terapeutisk Laboratorium을 세웠고, 두 회사는 경쟁하다 1989년 합병해 Novo Nordisk가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품은 비만과 당뇨병 치료 의약품 및 기기이며, 약 170개국에서 판매된다. 1982년 Novo Industri는 Squibb Corporation과의 합작사업으로 미국에 진출했고 1984년에는 캐나다에 진출했으며, 1985년에는 최초의 인슐린 펜 기기인 Novopen을 선보였다. 1991년에는 사내 엔지니어링 컨설팅 조직이 Novo Nordisk Engineering(현 NNE)으로 분리되었다. 1993년에는 덴마크에서의 페니실린 생산을 모두 중단했다. 1994년에는 정보기술 부문이 생명과학 중심 IT 회사 NNIT로 분사되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Novo는 약 69,500명을 80개국에서 고용하고, 약 170개국에서 제품을 판매한다. 최대주주 Novo Holdings는 Novo Nordisk Foundation이 전액 소유하며 지분 28%와 의결권 주식 77%를 가진다. 2023년에는 시가총액이 덴마크의 GDP를 넘어 유럽에서 가장 가치가 높은 기업이 되었다. 2012년 1월에는 Corporate Knights가 세계에서 가장 지속가능한 기업으로 선정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "비만과 당뇨병 치료제에 집중하는 덴마크 최대 제약회사이며, Novo Nordisk Foundation이 Novo Holdings를 통해 지배하는 구조가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.novonordisk.com",
+  "entityLinks": {
+   "wikidata": "Q818846",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q818846",
+    "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%B3%B4_%EB%85%B8%EB%94%94%EC%8A%A4%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Novo_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q818846",
+   "country": "덴마크",
+   "inception": "1923",
+   "headquarters": "Bagsværd",
+   "founders": [
+    "Hans Christian Hagedorn",
+    "아우구스트 크로그",
+    "마리 크로그"
+   ],
+   "parent": "Novo Holdings",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Novo (company)」 본문과 위키데이터 Q818846 팩트를 근거로 편집"
+ }
+}

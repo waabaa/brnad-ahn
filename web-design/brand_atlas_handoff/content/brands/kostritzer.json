@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q314054",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/kostritzer-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kostritzer",
+  "urlSlug": "kostritzer",
+  "name": "Köstritzer",
+  "nameKo": "",
+  "nameEn": "Köstritzer",
+  "definition": "Köstritzer는 독일 튀링겐의 Bad Köstritz에 있는 양조장이자 맥주 브랜드이다. Gera 인근에 위치하며 독일에서 가장 오래된 슈바르츠비어(흑맥주) 생산자 가운데 하나이다.",
+  "summary": "Köstritzer는 독일 튀링겐의 Bad Köstritz에 있는 양조장이자 맥주 브랜드이다. Gera 인근에 위치하며 독일에서 가장 오래된 슈바르츠비어(흑맥주) 생산자 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "1543년 기록에서 출발한 독일 최고(最古) 수준의 양조장으로, 슈바르츠비어를 대표 제품으로 삼는 점이 다른 브랜드와 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 독일 튀링겐의 Bad Köstritz에 본사를 둔 양조장이며, Gera와 가까운 곳에 있다. 1543년 상속세 문서에 'Köstritzer Inheritance'라는 이름으로 처음 언급되어 독일에서 가장 오래된 양조장 가운데 하나로 꼽힌다. 대표 제품은 슈바르츠비어(흑맥주)로, 독일의 하면발효 흑맥주 시장에서 30퍼센트의 점유율을 가진다. 동독 시기에는 수출용 맥주를 생산한 몇 안 되는 기업이었고, 1948년 국유화되어 VEB Köstritzer Schwarzbierbrauerei라는 이름으로 운영되었다. 1991년 4월 Bitburger Holding이 사업 전체를 인수했고, 이후 2005년까지 총생산량이 6배 넘게 늘었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1543년 상속세 문서에 'Köstritzer Inheritance'로 처음 기록되었다. 1696년 House Reuss의 백작들이 양조장을 사들여 'Knightly Estate Brewery'로 이름을 바꾸었다. 1806년부터는 House Reuss의 기사들이 제후로 승격되면서 'Princely Brewery'라는 칭호를 쓸 수 있게 되었다. 1829년 화재로 양조장이 Köstritz의 다른 15개 건물과 함께 불탔고, 이후 궁전 서쪽 동에 다시 지어졌다. 1872년 Rudolf Zersch가 House of Reuss로부터 Köstritz 등의 영지를 임차했고, 1875년에는 Princely Brewery Köstritz도 임차했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 4.8퍼센트의 Köstritzer Schwarzbier이다. 마이스터 양조사 Carl Holomoucky의 지휘 아래 초기에 Köstritzer Schwarzbier와 라거 Blume des Elsterthales가 생산되었다. 현재는 Kranich-Bräu, Edel-Pils, Diät-Pils, Bibop(콜라와 맥주를 섞은 제품), Witbier, Pale Ale, Kellerbier도 생산한다. 1993년에는 Köstritzer Schwarzbier를 독일 시장의 중요한 브랜드로 자리 잡게 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1991년 4월 Bitburger Holding이 사업의 100퍼센트를 인수했고, 1991년부터 1993년까지 양조장이 대대적으로 현대화되었다. 총생산량은 1991년 145,000 hl에서 2005년 879,000 hl로 6배 넘게 늘었다. 지금도 독일의 하면발효 흑맥주 시장에서 30퍼센트의 점유율을 차지한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1543년 기록에서 출발한 독일 최고(最古) 수준의 양조장으로, 슈바르츠비어를 대표 제품으로 삼는 점이 다른 브랜드와 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.koestritzer.de",
+  "entityLinks": {
+   "wikidata": "Q314054",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q314054",
+    "https://en.wikipedia.org/wiki/K%C3%B6stritzer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q314054",
+   "country": "동독",
+   "inception": "1543",
+   "headquarters": "Bad Köstritz",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Köstritzer」 본문과 위키데이터 Q314054 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

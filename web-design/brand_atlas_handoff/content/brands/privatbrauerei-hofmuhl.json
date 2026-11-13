@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q17053398",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "privatbrauerei-hofmuhl",
+  "urlSlug": "privatbrauerei-hofmuhl",
+  "name": "Privatbrauerei Hofmühl",
+  "nameKo": "",
+  "nameEn": "Privatbrauerei Hofmühl",
+  "definition": "Privatbrauerei Hofmühl은 독일 Eichstätt에 있는 맥주 양조장이다. 1492년 Wilhelm von Reichenau가 설립했으며 Eichstätt에서 유일한 양조장이다.",
+  "summary": "Privatbrauerei Hofmühl은 독일 Eichstätt에 있는 맥주 양조장이다. 1492년 Wilhelm von Reichenau가 설립했으며 Eichstätt에서 유일한 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Eichstätt의 유일한 양조장이며, 태양에너지와 'Merlin' 맥주 기술로 에너지를 절감하는 친환경 양조장이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 Eichstätt에 있는 유일한 양조장이다. 1492년 Wilhelm von Reichenau가 설립했다. 친환경 양조장으로 평가받으며, 'Merlin' 맥주 기술과 태양에너지를 통해 연간 에너지 소비의 약 60%를 절감한다. 이 양조장의 맥주는 매년 수여되는 Golden DLG Prize를 받았고, 태양광 기술 부문에서 Bayerischer Energiepreis 2008을 받았다. 수상 내역에는 에너지와 관련된 상도 포함되어 있다. 특히 Hefeweizen과 Helles로 잘 알려져 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Eichstätt에 있는 유일한 양조장이다. 'Merlin' 맥주 기술과 태양에너지로 연간 에너지 소비의 약 60%를 절감하는 친환경 양조장으로 인정받는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Eichstätt의 유일한 양조장이며, 태양에너지와 'Merlin' 맥주 기술로 에너지를 절감하는 친환경 양조장이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.hofmuehl.de",
+  "entityLinks": {
+   "wikidata": "Q17053398",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17053398",
+    "https://en.wikipedia.org/wiki/Privatbrauerei_Hofm%C3%BChl"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17053398",
+   "country": "독일",
+   "inception": "1492",
+   "headquarters": "Eichstätt",
+   "founders": [
+    "Wilhelm von Reichenau"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Privatbrauerei Hofmühl」 본문과 위키데이터 Q17053398 팩트를 근거로 편집"
+ }
+}

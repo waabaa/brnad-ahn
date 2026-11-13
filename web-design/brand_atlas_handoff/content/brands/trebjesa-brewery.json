@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2450916",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "trebjesa-brewery",
+  "urlSlug": "trebjesa-brewery",
+  "name": "Trebjesa brewery",
+  "nameKo": "",
+  "nameEn": "Trebjesa brewery",
+  "definition": "Trebjesa brewery는 몬테네그로 닉시치에 본사를 둔 몬테네그로 최대의 양조장이다. 'Nik' 브랜드로 페일 라거를 생산하며 현재 Molson Coors가 소유하고 있다.",
+  "summary": "Trebjesa brewery는 몬테네그로 닉시치에 본사를 둔 몬테네그로 최대의 양조장이다. 'Nik' 브랜드로 페일 라거를 생산하며 현재 Molson Coors가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "몬테네그로 최대의 양조장으로, 닉시치에서 'Nik' 브랜드의 라거를 만들어 자국 시장 대부분을 차지하고 해외 맥주도 현지에서 병입해 판매하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Trebjesa brewery는 몬테네그로 최대의 양조장으로, 본사는 닉시치에 있으며 Molson Coors가 소유하고 있다. 'Nik' 브랜드 아래 소수의 페일 라거를 생산한다. 세르비아와 몬테네그로의 국가연합 시기에는 생산량 기준으로 두 번째였고, Apatin Brewery 바로 다음이었다. 이 양조장의 맥주는 몬테네그로에서 가장 인기 있고 가장 많이 소비되는 맥주이다. 몬테네그로와 세르비아 외에 크로아티아, 슬로베니아, 알바니아, 보스니아 헤르체고비나에서도 상당한 인기가 있으며, 일부 물량은 프랑스, 독일, 스위스, 캐나다, 영국으로 수출된다. 몬테네그로 맥주 시장의 90% 이상을 차지하며 지역 시장에서도 점차 성과를 내고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "몬테네그로의 양조업은 1896년 Vuko Krivokapić가 닉시치에 Onogošt 양조장을 세우면서 시작되었다. 새로 수립된 몬테네그로 공국의 Prince Nicholas가 건설을 승인하고 지원했다. 1908년 닉시치의 여러 사업가가 Trebjesa라는 또 다른 양조장을 짓기로 했고, 첫 맥주는 1911년에 나왔다. 공장은 제1차 세계대전 중 불탔고 점령군 오스트리아-헝가리가 감옥으로 바꾸었으며, 전쟁 후 재건이 더뎌 1931년에야 가동을 재개했다. 제2차 세계대전으로 다시 파괴되었으나, 해방 후 국유화되어 1946년부터 1956년까지 재건·확장되었고 곧 가장 잘 알려진 몬테네그로 브랜드 중 하나가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 회사는 'Nik' 브랜드로 Nikšićko pivo, Nik Gold, Nik Cool, Nikšićko tamno의 라거 네 종을 생산한다. Beck's, Jelen, Staropramen도 이 양조장에서 병입되어 몬테네그로에서 자국산 맥주로 판매된다. 민간 소유 기간 동안 회사는 여러 해외 브랜드의 수입과 병입으로 사업을 넓혔다. 몬테네그로에서는 라이트 맥주가 시장을 지배하며, 흑맥주는 소비가 훨씬 적어 흔하지 않다. 가정용 맥주는 주로 500 ml, 330 ml, 250 ml 유리병과 330 ml 또는 500 ml 캔으로 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1997년 Interbrew가 이 양조장의 지분 과반을 인수했다. 2009년 10월 중순 사모펀드 CVC Capital Partners가 Anheuser–Busch InBev의 중부 유럽 보유 사업을 사들여 StarBev로 이름을 바�ticket했고, 2012년 StarBev는 Molson Coors에 인수되었다. 현재 몬테네그로 맥주 시장의 90% 이상을 차지하며 지역 시장에서도 성과를 늘리고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "몬테네그로 최대의 양조장으로, 닉시치에서 'Nik' 브랜드의 라거를 만들어 자국 시장 대부분을 차지하고 해외 맥주도 현지에서 병입해 판매하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pivaratrebjesa.com/",
+  "entityLinks": {
+   "wikidata": "Q2450916",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2450916",
+    "https://en.wikipedia.org/wiki/Trebjesa_brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2450916",
+   "country": "몬테네그로",
+   "inception": "1896",
+   "headquarters": "닉시치",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Trebjesa brewery」 본문과 위키데이터 Q2450916 팩트를 근거로 편집"
+ }
+}

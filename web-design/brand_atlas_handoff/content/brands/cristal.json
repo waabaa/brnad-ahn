@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q8344306",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cristal",
+  "urlSlug": "cristal",
+  "name": "Cristal",
+  "nameKo": "",
+  "nameEn": "Cristal",
+  "definition": "Cristal은 칠레의 필스너 맥주 브랜드이다. 1977년에 출시되어 Compañía de Cervecerías Unidas(CCU)가 판매하며, 정식 명칭 Cerveza Cristal은 직역하면 'Crystal Beer'를 뜻한다.",
+  "summary": "Cristal은 칠레의 필스너 맥주 브랜드이다. 1977년에 출시되어 Compañía de Cervecerías Unidas(CCU)가 판매하며, 정식 명칭 Cerveza Cristal은 직역하면 'Crystal Beer'를 뜻한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "'Única, Grande y Nuestra'라는 문구를 내세우고, 스타워즈 영화 방영 중 장면을 이어 붙인 광고로 국제 행사에서 상을 받은 칠레의 필스너 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cristal은 칠레에서 판매되는 필스너 맥주 브랜드이다. 1977년 8월 'Pilsener Cristal'이라는 이름으로 등록되었고 1978년에 상업 출시되었으며, 판매사는 Compañía de Cervecerías Unidas(CCU)이다. 1993년에는 'Cerveza Cristal'로 다시 출시되었고, 같은 해 'Única, Grande y Nuestra'(유일하고 위대하며 우리의 것)라는 문구를 채택했다. 2008년 무알코올 버전 Cristal Cero를 내놓은 데 이어 2016년에는 레몬 주스가 들어간 Cristal Cero Radler를 추가했다. 2003년 12월 스타워즈 영화 방영에 맞춘 광고는 여러 국제 행사에서 상을 받았다. 이 광고는 2024년 인터넷 밈으로 다시 확산되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cristal은 1977년 8월 'Pilsener Cristal'이라는 이름으로 등록되었고, 상업적 출시는 1978년에 이루어졌다. 판매는 Compañía de Cervecerías Unidas(CCU)가 맡는다. 1993년 'Cerveza Cristal'로 다시 출시되면서 'Única, Grande y Nuestra'(유일하고 위대하며 우리의 것)라는 문구를 채택했다. 2003년 12월 CCU는 Canal 13에서 방영된 스타워즈 시리즈 영화의 광고 시간마다 이어지는 광고를 의뢰했다. 이 광고는 직전 장면의 연속처럼 보이도록 제작되었고, 'The Force is with Cristal Beer'라는 제목의 캠페인으로 여러 국제 행사에서 상을 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1977년 출시된 필스너 맥주 Cerveza Cristal이며, 판매는 CCU가 맡는다. 2008년에는 무알코올 버전인 Cristal Cero가 시장에 출시되었다. 2016년에는 레몬 주스를 넣은 Cristal Cero Radler가 라인에 추가되었다. 2023년에는 칠레의 북부·중부·남부 세 자연 지역에 대한 헌정으로 한정판 Cristal Orígenes('Cristal Origins')가 소개되었다. 북부에는 limón de Pica를, 중부에는 꿀을, 남부에는 베리류를 가미해 각 지역을 표현했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년에는 한정판 Cristal Orígenes가 소개되며 제품군이 이어졌다. 2003년 스타워즈 영화 방영 중 선보인 광고 캠페인은 2024년 인터넷 밈으로 다시 등장해, 다른 영화와 미디어에서 긴장되거나 극적인 장면을 가볍게 만드는 데 쓰였다. 판매사는 Compañía de Cervecerías Unidas(CCU)이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "'Única, Grande y Nuestra'라는 문구를 내세우고, 스타워즈 영화 방영 중 장면을 이어 붙인 광고로 국제 행사에서 상을 받은 칠레의 필스너 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cristal.cl",
+  "entityLinks": {
+   "wikidata": "Q8344306",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8344306",
+    "https://en.wikipedia.org/wiki/Cerveza_Cristal"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q8344306",
+   "country": null,
+   "inception": "1850",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Cerveza Cristal」 본문과 위키데이터 Q8344306 팩트를 근거로 편집"
+ }
+}

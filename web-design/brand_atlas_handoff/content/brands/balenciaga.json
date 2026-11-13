@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1530892",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/balenciaga-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "balenciaga",
+  "urlSlug": "balenciaga",
+  "name": "발렌시아가",
+  "nameKo": "발렌시아가",
+  "nameEn": "Balenciaga",
+  "definition": "발렌시아가(Balenciaga)는 스페인 출신 쿠튀리에 Cristóbal Balenciaga가 세운 프랑스 패션 하우스이다. 본사는 파리에 있으며 기성복, 신발, 핸드백, 액세서리를 디자인하고 제조하며 판매한다.",
+  "summary": "발렌시아가(Balenciaga)는 스페인 출신 쿠튀리에 Cristóbal Balenciaga가 세운 프랑스 패션 하우스이다. 본사는 파리에 있으며 기성복, 신발, 핸드백, 액세서리를 디자인하고 제조하며 판매한다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.366666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인 출신 쿠튀리에가 세운 파리 기반 패션 하우스이다. 1950년대에 어깨를 넓히고 허리선을 없애는 등 새로운 실루엣을 제시한 오트 쿠튀르의 유산을 지닌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "발렌시아가는 기성복, 신발, 핸드백, 액세서리를 디자인하고 제조하며 판매하는 패션 하우스이다. 스페인 출신 쿠튀리에 Cristóbal Balenciaga가 세웠으며 프랑스 기업으로서 본사는 파리에 있다. 이름과 브랜드 표기는 유럽 화장품 기업 L'Oréal에 라이선스되어 같은 이름의 향수에 쓰인다. 창업자의 작품은 1950년대와 1960년대 오트 쿠튀르의 걸작으로 평가받았으며, 스페인 왕실과 귀족도 그의 디자인을 입었다. 현재는 2001년 인수 이후 Pinault 가문이 지배하는 프랑스 명품 지주회사 Kering가 소유한다. 2024년 11월부터 Gianfranco Gianangeli가 CEO를 맡고 있으며, 2026년 11월에는 Martine Rose가 이탈리아 디자이너 Pierpaolo Piccioli의 후임 크리에이티브 디렉터로 임명되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cristóbal Balenciaga는 1917년 스페인 산세바스티안에 첫 부티크를 열었고 마드리드와 바르셀로나로 지점을 넓혔다. 스페인 내전으로 매장을 닫아야 하자 파리로 옮겼고, 1937년 8월 Avenue George V에 쿠튀르 하우스를 열었다. 첫 패션쇼는 스페인 르네상스의 영향이 짙었고, 2년 안에 언론이 그를 혁신가로 칭송했으며 Harper's Bazaar 편집장 Carmel Snow가 초기 지지자였다. 창업자는 1968년 하우스를 닫았고 3년 뒤 세상을 떠났다. 이후 1986년 프랑스 향수 그룹 Jacques Bogart가 인수해 브랜드를 되살렸고, 2001년 Kering가 다시 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "발렌시아가는 기성복, 신발, 핸드백, 액세서리를 디자인하고 제조하며 판매한다. 향수는 이름과 브랜드 표기를 L'Oréal에 라이선스해 같은 이름의 제품으로 나온다. 창업자 시기에도 Le Dix와 Quadrille 같은 향수를 선보였다. 전후에는 balloon jacket(1953), tunic dress(1955), baby doll dress(1957), cocoon coat(1957), balloon skirt(1957), sack dress(1957), chemise dress(1958) 등을 내놓았고, 1959년에는 Empire line으로 작업을 집약했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "발렌시아가는 2001년 인수 이후 Pinault 가문이 지배하는 프랑스 명품 지주회사 Kering가 소유하고 있다. Gianfranco Gianangeli가 2024년 11월부터 CEO를 맡고 있다. 2026년 11월에는 영국 디자이너 Martine Rose가 크리에이티브 디렉터로 임명되었으며, 이는 Pierpaolo Piccioli의 퇴임에 따른 것이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인 출신 쿠튀리에가 세운 파리 기반 패션 하우스이다. 1950년대에 어깨를 넓히고 허리선을 없애는 등 새로운 실루엣을 제시한 오트 쿠튀르의 유산을 지닌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.balenciaga.com/",
+  "entityLinks": {
+   "wikidata": "Q1530892",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1530892",
+    "https://ko.wikipedia.org/wiki/%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80",
+    "https://en.wikipedia.org/wiki/Balenciaga"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1530892",
+   "country": "스페인",
+   "inception": "1917",
+   "headquarters": "파리",
+   "founders": [
+    "크리스토발 발렌시아가"
+   ],
+   "parent": "케링",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Balenciaga」 본문과 위키데이터 Q1530892 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

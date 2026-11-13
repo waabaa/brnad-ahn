@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1068102",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "yoplait",
+  "urlSlug": "yoplait",
+  "name": "요플레",
+  "nameKo": "요플레",
+  "nameEn": "Yoplait",
+  "definition": "요플레(Yoplait)는 프랑스의 디저트 기업이자 세계 최대 규모의 요구르트 프랜차이즈 브랜드이다. 프랑스 낙농 협동조합 Sodiaal이 2021년부터 전액 소유하고 있다.",
+  "summary": "요플레(Yoplait)는 프랑스의 디저트 기업이자 세계 최대 규모의 요구르트 프랜차이즈 브랜드이다. 프랑스 낙농 협동조합 Sodiaal이 2021년부터 전액 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "여섯 개 지역 협동조합이 합쳐 1965년에 출시한 프랑스 요구르트 브랜드로, 각국 현지 업체가 관리하는 프랜차이즈 구조가 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "요플레는 프랑스에서 출발한 요구르트 브랜드로, 영문 자료는 이 브랜드를 세계 최대의 요구르트 프랜차이즈 브랜드로 설명한다. 본사는 불로뉴비양쿠르에 있으며 설립 연도는 1965년이고 모기업은 프랑스 낙농 협동조합 Sodiaal이다. 프랑스에서는 Yoplait France가 브랜드를 관리하고, 멕시코에서는 Sigma Alimentos가, 칠레에서는 Quillayes가 관리한다. 호주에서는 Bega Dairy & Drinks가 제조하고, 뉴질랜드에서는 Goodman Fielder가 제조해 프랜차이즈로 운영한다. 이스라엘에서는 Tnuva가 브랜드를 관리하며 제품은 코셔이다. 2021년부터 Sodiaal이 브랜드를 전액 소유하며, 2025년에는 캐나다 법인도 Sodiaal이 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1964년 프랑스 농민 10만 명이 여섯 개 지역 낙농 협동조합을 합치기로 합의했다. 전국 단위로 제품을 더 효율적으로 판매하기 위해서였다. 1965년 9월 25일 새 전국 브랜드로 요플레가 출시되었으며, 이름은 회원 협동조합 두 곳의 브랜드인 Yola와 Coplait를 합친 말이다. 로고는 Philippe Morlighem이 디자인한 여섯 장 꽃잎의 꽃으로, 꽃잎은 각각 여섯 주요 협동조합의 설립자를 뜻한다. 2000년대 후반부터 점차 적용된 새 로고는 꽃잎이 다섯 장이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캐나다에서는 General Mills가 미리 저어 놓은 형태의 Yoplait 요구르트와 Minigo, Tubes, Source, Creamy, Delicieux, Yop, Yoplait Basket, Yoptimal, Asana를 판매했다. 이스라엘에서는 100그램 샷 형태 병에 담은 마시는 요구르트가 있으며, Tnuva는 2009년에 재밀봉 용기에 담은 500그램 가족용 제품 Yoplait YYY를 내놓았다. 이스라엘에서 Yoplait 브랜드의 가향 요구르트는 시장의 42~52%를 차지한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 11월 30일 General Mills가 지분을 Sodiaal에 되팔아 Sodiaal이 전액 소유하게 되었다. General Mills는 2011년에 주 운영 회사 Yoplait S.A.S.의 지분 51%를 인수했었다. 2025년 1월 General Mills가 캐나다 요구르트 사업을 Sodiaal에 매각했고, 미국 법인 Yoplait USA는 같은 해 6월 30일 프랑스 Lactalis가 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여섯 개 지역 협동조합이 합쳐 1965년에 출시한 프랑스 요구르트 브랜드로, 각국 현지 업체가 관리하는 프랜차이즈 구조가 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.yoplait.com/",
+  "entityLinks": {
+   "wikidata": "Q1068102",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1068102",
+    "https://ko.wikipedia.org/wiki/%EC%9A%94%ED%94%8C%EB%A0%88",
+    "https://en.wikipedia.org/wiki/Yoplait"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1068102",
+   "country": null,
+   "inception": "1965",
+   "headquarters": "불로뉴비양쿠르",
+   "founders": [],
+   "parent": "Sodiaal",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Yoplait」 본문과 위키데이터 Q1068102 팩트를 근거로 편집"
+ }
+}

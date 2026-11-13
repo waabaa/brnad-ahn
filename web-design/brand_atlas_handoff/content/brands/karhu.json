@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q798067",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "karhu",
+  "urlSlug": "karhu",
+  "name": "Karhu",
+  "nameKo": "",
+  "nameEn": "Karhu",
+  "definition": "Karhu는 핀란드의 맥주 브랜드이다. Carlsberg Group 소속 Sinebrychoff 양조장이 소유하며, 핀란드어로 곰을 뜻하는 이름을 가진 맛이 강한 페일 라거이다.",
+  "summary": "Karhu는 핀란드의 맥주 브랜드이다. Carlsberg Group 소속 Sinebrychoff 양조장이 소유하며, 핀란드어로 곰을 뜻하는 이름을 가진 맛이 강한 페일 라거이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드어로 곰을 뜻하는 이름을 쓰는 Sinebrychoff 소유의 핀란드 페일 라거 브랜드이다. 'Seuraa itseäsi'라는 광고 문구와 맛이 강한 라거로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Karhu는 핀란드의 맥주 브랜드이며, 이름은 핀란드어로 곰을 뜻한다. 대표 유형은 맛이 강한 페일 라거이고, 원료는 물, 보리, 맥아, 보리 전분, 홉이다. 소유주는 Carlsberg Group의 일부인 Sinebrychoff 양조장이다. 제품군은 도수 2.8%의 Karhu Dark I부터 8.0%의 Karhu Real Strong까지 여러 종류로 이루어진다. 1929년에 Karhu의 양조가 시작되었고, 2006년부터는 Kerava에 있는 새 양조장에서 생산해 왔다. 광고 문구로는 'Seuraa itseäsi'(스스로를 따르라)와 'Karhu - täyttä olutta'(Karhu는 풍부한 맛의 맥주이다)를 사용했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Karhu는 핀란드에서 1920년에 설립된 브랜드이며, 이 이름으로 맥주 양조가 시작된 것은 1929년이다. 원래의 양조장은 Pori Brewery였고, Sinebrychoff는 1972년에 이 Pori Brewery를 인수했다. 2006년부터 맥주는 Kerava에 있는 새 양조장에서 만들어지기 시작했다. 이후 2009년에 Pori 양조장은 문을 닫았다. 현재 브랜드는 Carlsberg Group의 일부인 Sinebrychoff 양조장이 보유하고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Karhu의 기본 제품은 맛이 강한 페일 라거이며, 제품은 알코올 도수에 따라 구분된다. Karhu III은 4.6% 또는 5.4%이고, Karhu A는 5.3%이다. Karhu Real Strong은 8.0%로 도수가 가장 높고, Karhu Dark I은 2.8%이다. 그 밖에 Karhu Rye, Karhu Double Hops, Karhu Frosted가 있으며 모두 4.6%이다. 여기서 도수는 부피 기준 알코올 비율(ABV)을 뜻하며, 원료는 물, 보리, 맥아, 보리 전분, 홉이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Karhu는 Carlsberg Group에 속한 Sinebrychoff 양조장이 소유하고 있다. 생산은 2006년부터 Kerava의 새 양조장에서 이루어지고 있으며, Pori 양조장은 2009년에 폐쇄되었다. 제품은 Karhu III, Karhu A 등 도수가 서로 다른 여러 종류로 구성된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드어로 곰을 뜻하는 이름을 쓰는 Sinebrychoff 소유의 핀란드 페일 라거 브랜드이다. 'Seuraa itseäsi'라는 광고 문구와 맛이 강한 라거로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.karhu.fi/",
+  "entityLinks": {
+   "wikidata": "Q798067",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q798067",
+    "https://en.wikipedia.org/wiki/Karhu_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q798067",
+   "country": "핀란드",
+   "inception": "1920",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Karhu (beer)」 본문과 위키데이터 Q798067 팩트를 근거로 편집"
+ }
+}

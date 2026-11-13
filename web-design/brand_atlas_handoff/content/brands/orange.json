@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1431486",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/orange-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "orange",
+  "urlSlug": "orange",
+  "name": "오렌지",
+  "nameKo": "오렌지",
+  "nameEn": "Orange",
+  "definition": "오렌지(Orange)는 파리 근교 이시레몰리노에 본사를 둔 프랑스의 다국적 통신 기업이다. 옛 이름은 France Télécom S.A.이며 2013년 7월 1일 사명을 바꿨다.",
+  "summary": "오렌지(Orange)는 파리 근교 이시레몰리노에 본사를 둔 프랑스의 다국적 통신 기업이다. 옛 이름은 France Télécom S.A.이며 2013년 7월 1일 사명을 바꿨다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스 공공 통신 독점 사업자였던 France Télécom이 Orange 브랜드로 통합된 기업이며, 프랑스 정부가 지분을 보유하고 CEO 선임에 관여한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 기업은 이동통신, 유선전화, 인터넷, IPTV 서비스를 제공하며 2006년부터 이 브랜드를 해당 서비스의 주력 브랜드로 써 왔다. 1988년에 설립했고 본사는 파리 근교 이시레몰리노에 있다. 과거 프랑스 공공 통신 독점 사업자였던 이 그룹은 2000년 인수를 계기로 국제화했고 이후 확장 정책을 계속 추구해 왔다. 현재 유럽, 아프리카, 프랑스령 서인도 제도의 여러 나라에서 사업을 운영한다. 2019년 전 세계 직원은 148,000명에 가까웠고 이 중 88,000명이 프랑스에서 일했다. 콘텐츠 판매, 전자상거래, 온라인 광고, M2M, 홈 오토메이션, 원격 지원 솔루션으로 사업을 넓혔고 2023년 전체 사업 매출은 43 billion 유로를 넘었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1988년까지 France Télécom은 우편통신부 산하의 direction générale des Télécommunications였고, 1990년에 자율성을 얻었다. 1990년 7월 2일 법으로 공법상 사업자가 되었으며 Marcel Roulet이 초대 회장을 맡았다. 1995년 9월에는 Michel Bon이 그룹 경영을 맡았고, 1998년 1월 1일부터 민영화가 시작되었다. 국제화의 출발점은 1994년 Hutchison Whampoa가 영국 Microtel Communications의 지배 지분을 인수한 일이다. Microtel은 1999년 Mannesmann의 자회사가 되었다가 2000년 France Télécom에 인수되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 서비스는 이동통신, 유선전화, 인터넷, IPTV이다. 2012년 2월 유선전화 사업을 Orange 브랜드로 옮기기로 하면서 France Télécom이 판매하는 모든 상품이 Orange 브랜드를 달았다. 사업은 음악, 영화, 다운로드 등 콘텐츠 판매로 넓어졌고 전자상거래, 온라인 광고, M2M, 홈 오토메이션, 원격 지원 솔루션도 포함한다. 기술적 배경으로는 프랑스 제조사의 도움을 받아 CNET 연구자와 엔지니어가 디지털 교환, Minitel, GSM 표준을 만들었고, 1982년에는 고객에게 Minitel 온라인 주문을 도입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "프랑스 정부는 직접 보유분과 지주회사 ERAP를 통해 27%에 가까운 지분을 계속 보유하며 CEO 선임에도 역할을 한다. 2013년 7월 1일 France Télécom은 사명을 Orange S.A.로 바꿨다. 2019년 직원은 148,000명에 가까웠고 이 중 88,000명이 프랑스에 있었다. 2023년 매출은 43 billion 유로를 넘었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스 공공 통신 독점 사업자였던 France Télécom이 Orange 브랜드로 통합된 기업이며, 프랑스 정부가 지분을 보유하고 CEO 선임에 관여한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.orange.com/",
+  "entityLinks": {
+   "wikidata": "Q1431486",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1431486",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9E%91%EC%A3%BC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Orange_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1431486",
+   "country": "프랑스",
+   "inception": "1988",
+   "headquarters": "이시레몰리노",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Orange Group」 본문과 위키데이터 Q1431486 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

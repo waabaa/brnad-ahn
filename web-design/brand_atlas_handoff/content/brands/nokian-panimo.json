@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q7048063",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "nokian-panimo",
+  "urlSlug": "nokian-panimo",
+  "name": "Nokian Panimo",
+  "nameKo": "",
+  "nameEn": "Nokian Panimo",
+  "definition": "Nokian Panimo는 1991년 핀란드 노키아에서 설립된 양조장이다. 맥주, 사이더, 미네랄워터, 청량음료를 생산하며 대표 브랜드는 Keisari 맥주 라인이다.",
+  "summary": "Nokian Panimo는 1991년 핀란드 노키아에서 설립된 양조장이다. 맥주, 사이더, 미네랄워터, 청량음료를 생산하며 대표 브랜드는 Keisari 맥주 라인이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Keisari 맥주 라인으로 가장 잘 알려진 핀란드 노키아의 양조장이다. 핀란드에서 두 번째로 큰 크래프트 양조장이며 2025년 증권거래소에 상장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Nokian Panimo Oy는 핀란드 노키아에 있는 양조장으로, 1991년에 설립되었으며 2004년까지는 Pirkanmaan Uusi Panimo 또는 PUP Oy라는 이름으로 알려져 있었다. 맥주, 사이더, 미네랄워터, 청량음료를 생산하며, 가장 잘 알려진 브랜드는 Keisari 맥주 라인이다. 요청에 따라 이름 붙은 맥주를 소량 생산하기도 한다. 2023년 매출 기준으로 핀란드에서 두 번째로 큰 크래프트 양조장이자 전체 양조장 중 다섯 번째로 큰 곳으로 성장했다. 2024년 총 판매량은 8.3 million 리터를 넘었고 순매출은 EUR 11.9 million이었다. 2025년 4월에는 First North Helsinki 증권거래소에 티커 \"BEER\"로 상장했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1991년 핀란드의 노키아에서 설립되었다. 2004년까지는 Pirkanmaan Uusi Panimo, 줄여서 PUP Oy라는 이름으로 알려져 있었다. 맥주, 사이더, 미네랄워터, 청량음료를 만드는 양조장으로 운영되며, 대표 브랜드는 Keisari 맥주 라인이다. 2023년 매출 기준으로 핀란드에서 두 번째로 큰 크래프트 양조장이자 전체 양조장 중 다섯 번째로 큰 곳으로 성장했다. 2025년 4월에는 First North Helsinki 증권거래소에 티커 \"BEER\"로 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "생산 품목은 맥주, 사이더, 미네랄워터, 청량음료이다. 가장 잘 알려진 브랜드는 Keisari 맥주 라인이다. 이 밖에 요청에 따라 이름 붙은 맥주를 소량 생산한다. 2024년 총 판매량은 8.3 million 리터를 넘었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 4월 First North Helsinki 증권거래소에 티커 \"BEER\"로 상장했다. 2024년 총 판매량은 8.3 million 리터를 넘었고 순매출은 EUR 11.9 million이었다. 2023년 매출 기준으로 핀란드에서 두 번째로 큰 크래프트 양조장이자 전체 양조장 중 다섯 번째로 큰 곳이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Keisari 맥주 라인으로 가장 잘 알려진 핀란드 노키아의 양조장이다. 핀란드에서 두 번째로 큰 크래프트 양조장이며 2025년 증권거래소에 상장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://nokianpanimo.fi/",
+  "entityLinks": {
+   "wikidata": "Q7048063",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7048063",
+    "https://en.wikipedia.org/wiki/Nokian_Panimo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7048063",
+   "country": "핀란드",
+   "inception": "1991",
+   "headquarters": "노키아",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Nokian Panimo」 본문과 위키데이터 Q7048063 팩트를 근거로 편집"
+ }
+}

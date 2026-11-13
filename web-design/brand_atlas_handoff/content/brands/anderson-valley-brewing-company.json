@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q4754219",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "anderson-valley-brewing-company",
+  "urlSlug": "anderson-valley-brewing-company",
+  "name": "Anderson Valley Brewing Company",
+  "nameKo": "",
+  "nameEn": "Anderson Valley Brewing Company",
+  "definition": "Anderson Valley Brewing Company는 1987년 미국 캘리포니아 Boonville에서 설립된 양조장이다. 이름은 Mendocino County에 있는 Anderson Valley 지역에서 따왔다.",
+  "summary": "Anderson Valley Brewing Company는 1987년 미국 캘리포니아 Boonville에서 설립된 양조장이다. 이름은 Mendocino County에 있는 Anderson Valley 지역에서 따왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "지역 은어 Boontling을 라벨과 맥주 이름에 쓰고, 곰과 사슴을 합친 마스코트 Barkley를 내세우는 Boonville의 크래프트 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에일, 포터, 스타우트를 중심으로 맥주를 만드는 크래프트 양조장이며, 설립 초기부터 뛰어난 맥주를 만드는 것을 목표로 했다. 주력 라인업은 Boont Amber Ale, Poleeko Pale Ale, Barney Flats Oatmeal Stout이고, 1990년대 중반에 Hop Ottin' IPA가 추가되었다. 라벨과 포장, 일부 맥주 이름에는 지역 은어인 Boontling의 단어와 표현을 자주 쓴다. 마스코트 Barkley는 곰과 사슴을 합친 모습의 가상 인물로, 포장에 등장하며 'Legendary Boonville Beer'로 소개된다. 2016년에는 약 55,000 barrels의 맥주를 생산했다. 2025년 3월에는 지역 사업가 Jason McConnell에게 매각되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1987년 David Norfleet와 Kim and Ken Allen이 설립했으며, 당시 미국에는 크래프트 양조장이 20곳뿐이었다. 처음에는 downtown Boonville의 brewpub인 The Buckhorn Saloon 아래층에서 10-barrel brewhouse로 시작했고, 첫해 생산량은 약 600 barrels였다. 1996년 수요가 설비 용량을 넘자 Boonville 중심가에서 1마일 떨어진 곳에 30-barrel 시설을 설치했고, 1998년 연간 생산량은 15,000 barrels에 이르렀다. 이후 1995년 유럽 방문 때 독일의 폐업한 양조장 두 곳에서 구해 온 100-barrel과 85-barrel 구리 brewhouse를 갖춘 3층 규모의 바이에른풍 양조장이 2000년 8월 가동을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 맥주는 Boont Amber Ale, Poleeko Pale Ale, Barney Flats Oatmeal Stout이며 Hop Ottin' IPA도 있다. 소량으로 Brother David's Belgian style Double과 Triple, Heelch O'Hops Imperial IPA, Summer와 Winter Solstice 맥주, 여러 barrel-aged sour beer도 만든다. 2012년에는 Wild Turkey bourbon과 협업해 Anderson Valley Bourbon Barrel Stout을 출시했고, 이후 Boont Barl, Huge Arker Imperial Stout 등 'Barl' 시리즈가 이어졌다. 2014년에는 gose 스타일로 확장해 The Kimmie, The Yink, The Holy Gose, Blood Orange Gose, Briney Melon Gose를 내놓았다. 2012년 2월 Esquire magazine은 Boont Amber Ale을 'Best Canned Beers to Drink Now' 중 하나로 선정했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 4월 업계 베테랑 Trey White와 두 명의 silent partner에게 매각되었고, 2019년 12월에는 McGee Family에 매각되어 Kevin McGee가 President and CEO를 맡았다. 2025년 3월에는 지역 사업가 Jason McConnell에게 다시 매각되었다. 2004년 개장한 tasting room pub인 Beer Park에서는 20종의 draft 맥주를 제공하며, 1997년부터 매년 봄 Boonville Beer Festival을 열고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지역 은어 Boontling을 라벨과 맥주 이름에 쓰고, 곰과 사슴을 합친 마스코트 Barkley를 내세우는 Boonville의 크래프트 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://avbc.com/",
+  "entityLinks": {
+   "wikidata": "Q4754219",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4754219",
+    "https://en.wikipedia.org/wiki/Anderson_Valley_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4754219",
+   "country": "미국",
+   "inception": "1987",
+   "headquarters": "Boonville",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Anderson Valley Brewing Company」 본문과 위키데이터 Q4754219 팩트를 근거로 편집"
+ }
+}

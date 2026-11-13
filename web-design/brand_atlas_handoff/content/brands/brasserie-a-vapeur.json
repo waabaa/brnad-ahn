@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2259011",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-a-vapeur",
+  "urlSlug": "brasserie-a-vapeur",
+  "name": "Brasserie à vapeur",
+  "nameKo": "",
+  "nameEn": "Brasserie à vapeur",
+  "definition": "Brasserie à vapeur는 벨기에 Pipaix에 있는 양조장이다. 1785년에 처음 문을 열었으며, 오래된 증기기관 하나로 양조장의 모든 설비를 구동하는 곳이다.",
+  "summary": "Brasserie à vapeur는 벨기에 Pipaix에 있는 양조장이다. 1785년에 처음 문을 열었으며, 오래된 증기기관 하나로 양조장의 모든 설비를 구동하는 곳이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "증기기관 하나가 벨트로 모든 설비를 돌리는 1785년 개업의 벨기에 양조장이며, 1992년부터 만화가가 병 라벨을 그려 왔다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brasserie à vapeur는 벨기에 Pipaix에 위치한 양조장이다. 이름의 Vapeur는 프랑스어로 증기를 뜻하며, 오래된 증기기관이 자동차의 범용 벨트와 같은 벨트 하나를 돌려 양조장의 모든 장비를 구동한다. 양조장은 1785년에 처음 문을 열었고 1984년에 Jean-Louis Dits와 그의 아내가 다시 열었다. Saison de Pipaix, Vapeur en folie, Vapeur cochonne, Vapeur vanille 등의 맥주를 만들며, Vapeur cochonne이 대표 맥주이다. 벨기에 만화가 Louis-Michel Carpentier가 1992년부터 병 라벨을 디자인해 왔다. 양조장 견학은 매월 마지막 토요일에 가능하며, Jean-Louis Dits가 현재 소유주이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1785년에 처음 문을 열었다. 18세기 말이나 19세기 초 어느 시점에 Cornil Cuvelier가 양조장을 물려받았으나 젊은 나이에 사망했고, 아들 Joseph Dominica I이 뒤를 이어 운영했다. 1903년에는 Joseph Ferdinant의 미망인이 양조장을 인수했고, 1914년 독일 점령군이 증기기관을 가져가려 했으나 구리 통 하나만 가져갔다. 1926년 재건과 새 장비 구입 뒤 생산을 재개했으며, 1930년 Joseph Ferdinant의 딸과 결혼한 Gaston Biset가 Cuver-Ale과 Biss 같은 새 맥주를 만들어 1983년까지 운영했다. 1984년에는 Jean-Louis Dits와 그의 아내가 양조장을 사들여 다시 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 맥주 라인업은 Saison de Pipaix, Vapeur en folie, Vapeur cochonne, Vapeur vanille 네 종으로 구성되며, 양조장 견학은 매월 마지막 토요일에 가능하다. Saison de Pipaix는 프랑스-벨기에 스타일을 따른 세종(saison) 맥주이다. Vapeur cochonne은 이 양조장의 대표 맥주로 꼽힌다. Vapeur vanille은 허브와 향신료를 사용한 맥주로 소개된다. 과거에는 1930년 Gaston Biset가 Cuver-Ale과 Biss 같은 새로운 맥주를 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Jean-Louis Dits가 1984년 양조장을 사들인 이후 현재까지 소유주이다. 오래된 증기기관은 지금도 양조장의 모든 설비를 구동한다. 1992년부터 벨기에 만화가 Louis-Michel Carpentier가 병 라벨을 디자인하고 있으며, 양조장 견학은 매월 마지막 토요일에 가능하다. Pipaix에 자리한 양조장은 1785년 개업한 역사를 이어 가고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "증기기관 하나가 벨트로 모든 설비를 돌리는 1785년 개업의 벨기에 양조장이며, 1992년부터 만화가가 병 라벨을 그려 왔다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.vapeur.com/",
+  "entityLinks": {
+   "wikidata": "Q2259011",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2259011",
+    "https://en.wikipedia.org/wiki/Brasserie_%C3%A0_vapeur"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2259011",
+   "country": "벨기에",
+   "inception": "1785",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie à vapeur」 본문과 위키데이터 Q2259011 팩트를 근거로 편집"
+ }
+}

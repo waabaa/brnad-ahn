@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3246988",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "albani-brewery",
+  "urlSlug": "albani-brewery",
+  "name": "Albani Brewery",
+  "nameKo": "",
+  "nameEn": "Albani Brewery",
+  "definition": "Albani Brewery는 덴마크 오덴세에 있는 양조장으로, 고객 대부분이 퓐섬에 거주한다. 1859년 설립되었고 Odense Pilsner와 Odense Classic 필스너로 가장 잘 알려져 있다.",
+  "summary": "Albani Brewery는 덴마크 오덴세에 있는 양조장으로, 고객 대부분이 퓐섬에 거주한다. 1859년 설립되었고 Odense Pilsner와 Odense Classic 필스너로 가장 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "Odense Pilsner, 기린을 위한 Giraf Beer, 해마다 다른 종이 오리기 라벨을 붙이는 HC Andersen 등 오덴세와 퓐섬 지역에 뿌리를 둔 맥주로 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Albani는 덴마크 오덴세에 본사를 둔 양조장이며, 정식 회사명은 'Albani Breweries'를 뜻하는 Albani Bryggerierne A/S이다. 고객 대부분은 퓐섬에 거주한다. 대표 제품은 Odense Pilsner와 Odense Classic이며, 두 제품 모두 알코올 도수 4.6%의 필스너이다. 이 밖에 Giraf Beer, HC Andersen, 크리스마스 맥주, 부활절 맥주, 라이트 맥주를 생산한다. 20세기 전환기 덴마크 양조업이 통합되던 시기에 오덴세와 퓐섬 일대의 소규모 양조장을 인수했고, 퓐섬의 맥주 유통을 거의 독점한 뒤에는 다른 지역 양조장도 인수했다. 2000년에는 Royal Unibrew 그룹과 합병했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Albani는 1859년 약학 석사(MPharm) 학위를 가진 Theodor Schiøtz가 설립했다. 위키데이터에는 창업자로 Theodor Schiøtz와 Edvard Ferdinand Esmann이 기재되어 있다. 20세기 전환기에 덴마크 양조업에서는 대도시 양조장이 지방의 소규모 양조장을 사들이는 대규모 통합이 일어났고, Albani도 이 흐름에 참여해 오덴세와 퓐섬 일대의 작은 양조장을 인수했다. 퓐섬에서 맥주 유통을 거의 독점하게 되자 Sønderborg Bryghus, Bryggeriet Slotsmøllen, Baldur, Maribo Bryghus 등 다른 지역의 양조장도 인수했다. 1972년에는 Carlsminde를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Odense Pilsner는 4.6% 필스너로 1934년부터 양조되었고, 독일 Hallertau산 홉 두 종을 쓴다. Odense Classic은 같은 도수에 색이 더 진한 필스너로 1999년 창립 140주년에 출시되었다. Giraf Beer는 1962년 처음 양조된 강한 필스너로 레드(7.3%)와 블랙(10%)이 있으며, 수익은 오덴세 동물원의 새 기린 구입에 쓰였다. HC Andersen은 도수 9%의 에일 계열 맥주로, 해마다 소량을 만들어 Hans Christian Andersen의 생일인 4월 2일에 내놓는다. 크리스마스 맥주 Blålys는 1960년에 나왔고 덴마크 크리스마스 맥주 전통을 사실상 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2000년 Albani는 덴마크 지역 양조장들의 그룹인 Bryggerigruppen과 합병했으며, 이 그룹은 현재 Royal Unibrew로 불린다. 본사는 오덴세에 있고 고객 대부분은 여전히 퓐섬에 거주한다. Odense Pilsner와 Odense Classic이 가장 잘 알려진 제품이며, HC Andersen은 해마다 소량 생산되어 수집품이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Odense Pilsner, 기린을 위한 Giraf Beer, 해마다 다른 종이 오리기 라벨을 붙이는 HC Andersen 등 오덴세와 퓐섬 지역에 뿌리를 둔 맥주로 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://albani.dk/",
+  "entityLinks": {
+   "wikidata": "Q3246988",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3246988",
+    "https://en.wikipedia.org/wiki/Albani_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3246988",
+   "country": "덴마크",
+   "inception": "1859",
+   "headquarters": "오덴세",
+   "founders": [
+    "Theodor Schiøtz",
+    "Edvard Ferdinand Esmann"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Albani Brewery」 본문과 위키데이터 Q3246988 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q1538507",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T19:22:32+09:00"
+ },
+ "logoCandidate": "logos/jack-in-the-box-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jack-in-the-box",
+  "urlSlug": "jack-in-the-box",
+  "name": "잭 인 더 박스",
+  "nameKo": "잭 인 더 박스",
+  "nameEn": "Jack in the Box",
+  "definition": "잭 인 더 박스(Jack in the Box)는 1951년 미국 캘리포니아주 샌디에이고에서 Robert O. Peterson이 창업한 패스트푸드 레스토랑 체인이다. 본사는 샌디에이고에 둔다.",
+  "summary": "잭 인 더 박스(Jack in the Box)는 1951년 미국 캘리포니아주 샌디에이고에서 Robert O. Peterson이 창업한 패스트푸드 레스토랑 체인이다. 본사는 샌디에이고에 둔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "양방향 인터콤을 도입해 드라이브스루 서비스에 초점을 맞춘 최초의 주요 체인이며, 광대 캐릭터를 상징으로 삼은 패스트푸드 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "잭 인 더 박스는 미국 서부 해안을 중심으로 매장을 운영하는 패스트푸드 레스토랑 체인이다. 매장은 2,712개가 넘으며, 서부 해안 밖의 대도시 지역과 괌에도 일부 매장이 자리한다. 치킨 텐더와 감자튀김, 햄버거와 치즈버거를 팔고, 타코와 에그롤 같은 해외 테마 음식도 함께 판매한다. 1951년 드라이브스루 서비스에 초점을 맞춘 햄버거 가게로 출발했으며, 인터콤을 쓴 최초의 주요 체인이자 드라이브스루에 집중한 최초의 체인이었다. 한때 Qdoba Mexican Grill 체인도 운영했으나 2017년 12월 Apollo Global Management가 인수했다. 본사는 캘리포니아주 샌디에이고에 둔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Robert O. Peterson은 1941년 샌디에이고 El Cajon Boulevard 6270번지에 Topsy's Drive-In을 열기 전에 이미 여러 성공적인 식당을 소유했다. 1951년 그는 이 매장을 드라이브스루 서비스에 초점을 맞춘 햄버거 가게로 바꾸고 잭 인 더 박스라 이름 붙였다. 양방향 인터콤 덕분에 한 고객이 창구에서 응대받는 동안 두 번째, 세 번째 고객의 주문도 받아 준비할 수 있어 서비스가 빨랐고, 곧 Peterson의 다른 매장도 모두 같은 방식으로 바뀌었다. 1960년 Peterson은 지주회사 Foodmaker, Inc.를 세웠고, 당시 180개가 넘는 매장은 모두 직영이었다. 1968년 Foodmaker를 Ralston Purina Company에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 메뉴는 치킨 텐더와 감자튀김, 햄버거와 치즈버거 샌드위치이다. 타코와 에그롤처럼 해외를 주제로 한 음식도 메뉴에 포함한다. 초기 매장은 지붕 위로 거대한 광대 조형물이 솟았고, 인터콤 위에는 더 작은 광대 머리가 놓였다. 1970년대에 가맹 사업을 시작했으며, 1980년경에는 더 고급스러운 메뉴로 성인 고객층을 겨냥했다. 한때 Qdoba Mexican Grill 체인도 운영했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 매장은 2,712개가 넘으며 주로 미국 서부 해안에 위치한다. 서부 해안 밖에서는 대도시 지역에 매장이 있고 괌에도 두 곳이 자리한다. 본사는 캘리포니아주 샌디에이고에 둔다. 2017년 12월 Qdoba Mexican Grill 체인은 Apollo Global Management가 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양방향 인터콤을 도입해 드라이브스루 서비스에 초점을 맞춘 최초의 주요 체인이며, 광대 캐릭터를 상징으로 삼은 패스트푸드 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.jackinthebox.com",
+  "entityLinks": {
+   "wikidata": "Q1538507",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1538507",
+    "https://ko.wikipedia.org/wiki/%EC%9E%AD_%EC%9D%B8_%EB%8D%94_%EB%B0%95%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Jack_in_the_Box"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1538507",
+   "country": "미국",
+   "inception": "1951",
+   "headquarters": "샌디에고",
+   "founders": [
+    "Robert Oscar Peterson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "영문 위키백과 「Jack in the Box」 본문과 위키데이터 Q1538507 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

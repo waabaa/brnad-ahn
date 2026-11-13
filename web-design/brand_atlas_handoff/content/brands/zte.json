@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q136484",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/zte-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "zte",
+  "urlSlug": "zte",
+  "name": "ZTE",
+  "nameKo": "",
+  "nameEn": "ZTE",
+  "definition": "ZTE는 중화인민공화국 선전시에 본사를 둔 통신 기술 기업이다. 무선, 교환, 광전송, 데이터 통신 장비와 통신 소프트웨어, 휴대전화를 핵심 사업으로 하는 부분 국영 회사이다.",
+  "summary": "ZTE는 중화인민공화국 선전시에 본사를 둔 통신 기술 기업이다. 무선, 교환, 광전송, 데이터 통신 장비와 통신 소프트웨어, 휴대전화를 핵심 사업으로 하는 부분 국영 회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "선전시에 본사를 둔 부분 국영 통신 장비 기업으로, 자사 브랜드 판매와 OEM을 병행하며 미국의 수출 금지 조치와 각국의 보안 비판을 겪은 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ZTE는 통신을 전문으로 하는 중국의 부분 국영 기술 기업이며, 본사는 광둥성 선전시에 있다. 1985년에 설립되었고 홍콩 증권거래소와 선전 증권거래소에 모두 상장되어 있다. 핵심 사업은 무선, 교환, 광전송, 데이터 통신 장비와 통신 소프트웨어, 그리고 휴대전화이다. 제품은 주로 자사 이름으로 판매하지만 다른 회사를 위한 OEM 공급도 한다. 미국, 인도, 스웨덴에서는 중국 정부 및 중국공산당과의 연계가 대규모 감시를 가능하게 할 수 있다는 비판을 받았다. 2023년 세계지식재산기구(WIPO)의 연례 PCT 보고서에서 이 회사는 PCT 체계로 공개된 특허 출원 1,738건을 기록해 세계 11위로 집계되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "ZTE는 1985년 광둥성 선전시에서 Zhongxing Semiconductor Co., Ltd라는 이름으로 설립되었으며, 중국 항공우주산업부와 관련된 투자자 집단이 설립에 참여했다. 1993년 3월 Zhongxing New Telecommunications Equipment Co., Ltd로 이름을 바꾸고, 자본금 RMB 3 million으로 '국유 및 민간 운영' 경제 주체라는 새로운 사업 모델을 만들었다. 1997년 선전 증권거래소에 상장했고 2004년 12월 홍콩 증권거래소에서도 기업공개(IPO)를 했다. 2004년 홍콩 IPO 자금으로 연구개발, 선진국 대상 해외 판매, 해외 생산을 확대하겠다고 밝혔다. 2006년에는 CDMA 네트워크 신규 글로벌 주문의 40%를 차지해 출하량 기준 세계 CDMA 장비 시장 1위에 올랐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 무선, 교환, 광전송, 데이터 통신 장비와 통신 소프트웨어, 휴대전화이며, 제품은 주로 자사 이름으로 판매하되 OEM으로도 공급한다. 2006년에는 캐나다의 Telus를 고객으로 확보했다. 2009년에는 세계 3위의 GSM 통신 장비 공급업체가 되었고, 그해 전 세계에서 판매된 GSM 장비의 약 20%가 ZTE 브랜드였다. 2011년 기준 LTE 특허의 약 7%를 보유하고 있다. 2025년 4월 U Mobile은 말레이시아의 두 번째 5G 네트워크 구축을 위해 ZTE와 협력한다고 발표했으며, 동말레이시아의 5G 네트워크는 ZTE가 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "ZTE는 부분 국영 기업이며 홍콩 증권거래소와 선전 증권거래소에 상장되어 있다. 2022년 미국 법원은 2017년 유죄 인정에서 비롯된 5년간의 보호관찰을 끝내도록 결정했다. 2020년 6월 미국 연방통신위원회(FCC)는 ZTE를 국가안보 위협으로 지정했고, 2023년 유럽연합 집행위원회는 ZTE의 통신 서비스 제공을 금지했다. 2025년 4월에는 U Mobile이 말레이시아 두 번째 5G 네트워크 구축에서 ZTE와 협력한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "선전시에 본사를 둔 부분 국영 통신 장비 기업으로, 자사 브랜드 판매와 OEM을 병행하며 미국의 수출 금지 조치와 각국의 보안 비판을 겪은 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.zte.com.cn/",
+  "entityLinks": {
+   "wikidata": "Q136484",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q136484",
+    "https://ko.wikipedia.org/wiki/ZTE",
+    "https://en.wikipedia.org/wiki/ZTE"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q136484",
+   "country": "중화인민공화국",
+   "inception": "1985",
+   "headquarters": "선전시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「ZTE」 본문과 위키데이터 Q136484 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

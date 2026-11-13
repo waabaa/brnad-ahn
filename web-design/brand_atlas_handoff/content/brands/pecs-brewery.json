@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q282879",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pecs-brewery",
+  "urlSlug": "pecs-brewery",
+  "name": "Pécs Brewery",
+  "nameKo": "",
+  "nameEn": "Pécs Brewery",
+  "definition": "Pécs Brewery는 헝가리 남서부 도시 페치에 본사를 둔 맥주 양조회사이다. 헝가리의 4대 양조장 가운데 하나이며 Southern Transdanubia 지역에서 가장 큰 양조장이다.",
+  "summary": "Pécs Brewery는 헝가리 남서부 도시 페치에 본사를 둔 맥주 양조회사이다. 헝가리의 4대 양조장 가운데 하나이며 Southern Transdanubia 지역에서 가장 큰 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1848년부터 이어진 페치의 양조장으로, 1907년 상표 등록된 Szalon Sör를 대표 제품으로 한다. 오스트리아 소유 시기에도 헝가리 양조장으로서의 독립성을 유지했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 헝가리의 4대 양조장 가운데 하나이며 Southern Transdanubia 지역에서 가장 큰 곳이다. 헝가리어 명칭은 Pécsi Sörfőzde이다. 대표 맥주는 1907년 상표로 등록된 Szalon Sör이며, 지금도 같은 이름으로 생산된다. 2005년 10월 기준으로 8종의 맥주를 생산했고, 이 가운데 6종은 헝가리 전통 브랜드이며 나머지 2종은 라이선스 생산이다. 제품은 Dél-Dunántúl(Southern Transdanubia) 지역에서 가장 잘 알려져 있으나 전국에서도 찾을 수 있다. 2017년 Ottakringer가 MAVA Befektetesi와 BanKonzult Commerce에 양조장을 매각하면서 다시 헝가리 소유로 돌아왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1848년 Hirschfeld Lipót(Leopold Hirschfeld)가 설립했다. Leopold Hirschfeld가 사망한 뒤 아들 Sámuel이 양조장을 이어받아 시설을 확장하고, 양질의 물을 공급하기 위해 샘을 뚫었다. 1911년 Sámuel은 훗날 Pécsi Sörfőzde Rt.로 알려지는 회사를 세웠으며, 처음 이름은 Hirschfeld S. Sörgyár Részvénytársaság(S. Hirschfeld Brewery Incorporated)였다. 회사는 불황과 두 차례의 세계대전을 거치며 운영을 이어 갔다. 제2차 세계대전 이후 공산 정권 아래에서 국유화되었으나, 1970~80년대에 성장해 현재 규모의 생산 능력을 갖추었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2005년 10월 기준으로 8종의 맥주를 생산했다. Szalon Sör(알코올 4.6%, 페일 에일)는 사실상 대표 제품이며 1907년 상표 등록 이후 이어져 왔다. Szalon Félbarna(5.5%)와 Szalon Barna(5.8%, 독일식 흑맥주)도 있으며, Szalon Barna는 1994년에 Szalon Sör 옆에 도입되었다. 계절 맥주로는 크리스마스와 새해 전야 무렵 한정 생산하는 Három Királyok(6.6%)과 봄에 생산하는 Tavaszi Sör(4.8%)가 있다. 그 밖에 레모네이드와 맥주를 섞은 Radler(1.4%)와, Ottakringer 소유로 라이선스 생산하는 Gold Fassl Pils, Gold Fassl Spezial이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1992년 회사가 다시 민간 법인으로 돌아왔고, 1993년 민영화 과정에서 오스트리아 Ottakringer Group이 지분 상당수를 사들였다. 2000년에는 Ottakringer가 78%, Brau Union AG가 6%를 보유했다. Ottakringer 소유 아래에서도 독립적으로 운영되었으며, 2017년 Ottakringer가 MAVA Befektetesi와 BanKonzult Commerce에 매각하면서 다시 헝가리 소유가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1848년부터 이어진 페치의 양조장으로, 1907년 상표 등록된 Szalon Sör를 대표 제품으로 한다. 오스트리아 소유 시기에도 헝가리 양조장으로서의 독립성을 유지했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://pecsisor.hu/",
+  "entityLinks": {
+   "wikidata": "Q282879",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q282879",
+    "https://en.wikipedia.org/wiki/P%C3%A9cs_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q282879",
+   "country": "헝가리",
+   "inception": "1848",
+   "headquarters": "페치",
+   "founders": [
+    "Leopold Hirschfeld"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Pécs Brewery」 본문과 위키데이터 Q282879 팩트를 근거로 편집"
+ }
+}

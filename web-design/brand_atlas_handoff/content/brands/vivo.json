@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q18301787",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vivo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vivo",
+  "urlSlug": "vivo",
+  "name": "vivo",
+  "nameKo": "",
+  "nameEn": "vivo",
+  "definition": "vivo는 중화인민공화국 광둥성 둥관시에 본사를 둔 다국적 기술 기업이다. 스마트폰과 스마트폰 액세서리, 소프트웨어, 온라인 서비스를 설계하고 개발한다.",
+  "summary": "vivo는 중화인민공화국 광둥성 둥관시에 본사를 둔 다국적 기술 기업이다. 스마트폰과 스마트폰 액세서리, 소프트웨어, 온라인 서비스를 설계하고 개발한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "Zeiss와 모바일 이미징 기술을 공동 개발하고 IPL, FIFA 월드컵 등 대형 스포츠 행사를 후원하는 중국 스마트폰 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "vivo는 스마트폰과 관련 액세서리, 소프트웨어, 온라인 서비스를 설계하고 개발하는 중국 기업이다. 정식 명칭은 Vivo Mobile Communication Co., Ltd.이다. 자사 휴대전화용 소프트웨어를 직접 개발하며 V-Appstore를 통해 배포한다. iManager가 포함된 안드로이드 기반 자체 운영체제는 중국 본토에서 Origin OS이고, 그 외 지역에서 쓰던 Funtouch OS는 현재 중단되었다. 직원은 40,000명이며 선전, 둥관, 난징, 베이징, 항저우, 상하이, 시안, 타이베이, 도쿄, 샌디에이고에 연구개발 센터 10곳을 두고 있다. 2023년에는 상위 5위권 스마트폰 제조사에 들었고 세계 시장 점유율은 10%였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "vivo는 2009년 Shen Wei와 Duan Yongping이 창업했다. 설립 이후 해외 시장을 넓혀 60개 이상의 국가와 지역에서 제품과 서비스를 제공하고 있다. 2017년에는 타이완, 홍콩, 마카오, 러시아, 브루나이, 캄보디아, 라오스, 스리랑카, 방글라데시, 네팔, 베트남 스마트폰 시장에 진출했고, 같은 해 6월 파키스탄 시장에도 들어갔다. 2020년 10월에는 유럽에서도 제품을 판매하겠다고 발표했다. 2015년 10월 인도 프리미어 리그(IPL)의 타이틀 스폰서가 되었고, 2017년 6월에는 FIFA의 2018년과 2022년 월드컵 공식 스마트폰 브랜드 계약을 맺었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "vivo의 사업은 스마트폰과 액세서리, 소프트웨어, 온라인 서비스로 구성된다. 소프트웨어는 V-Appstore로 배포하며, 자체 운영체제에는 iManager가 포함된다. 2020년 12월 Zeiss와 장기 전략 제휴를 발표했고, 첫 Vivo Zeiss 공동 설계 이미징 시스템은 Vivo X60 시리즈에 적용되었다. 이 협약에 따라 플래그십 스마트폰용 모바일 이미징 기술을 개발하는 Vivo Zeiss Imaging Lab을 설립했다. 2023년 11월에는 사물인터넷 스마트 기기와 웨어러블용 오픈소스 분산 운영체제 BlueOS를 발표했고, 이를 Vivo Watch 3에 적용했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "직원 수는 40,000명이고 10곳의 연구개발 센터를 운영한다. 2024년 12월 Dixon Technologies가 vivo와 합작회사(JV)를 설립할 계획을 발표했다. 2025년 4월에는 브라질에 진출했으나 Telefónica가 소유한 통신사 Vivo와 이름이 같아 Jovi라는 이름을 쓴다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Zeiss와 모바일 이미징 기술을 공동 개발하고 IPL, FIFA 월드컵 등 대형 스포츠 행사를 후원하는 중국 스마트폰 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vivo.com/",
+  "entityLinks": {
+   "wikidata": "Q18301787",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18301787",
+    "https://ko.wikipedia.org/wiki/%EB%B9%84%EB%B3%B4_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+    "https://en.wikipedia.org/wiki/Vivo_(technology_company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18301787",
+   "country": "중화인민공화국",
+   "inception": "2009",
+   "headquarters": "둥관시",
+   "founders": [
+    "Shen Wei",
+    "Duan Yongping"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Vivo (technology company)」 본문과 위키데이터 Q18301787 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

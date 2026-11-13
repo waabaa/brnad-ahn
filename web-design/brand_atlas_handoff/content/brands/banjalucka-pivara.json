@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2882546",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "banjalucka-pivara",
+  "urlSlug": "banjalucka-pivara",
+  "name": "Banjalučka Pivara",
+  "nameKo": "",
+  "nameEn": "Banjalučka Pivara",
+  "definition": "Banjalučka Pivara는 보스니아 헤르체고비나 바냐루카에 본사를 둔 양조회사이다. 1873년 설립되었으며 Nektar, Banjalučko pivo 등의 상표로 맥주와 샌디를 생산한다.",
+  "summary": "Banjalučka Pivara는 보스니아 헤르체고비나 바냐루카에 본사를 둔 양조회사이다. 1873년 설립되었으며 Nektar, Banjalučko pivo 등의 상표로 맥주와 샌디를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "트라피스트 수도사 Franz Pfanner가 세운 양조장에서 출발해 보스니아 헤르체고비나 바냐루카를 기반으로 하며, 현재는 핀란드 Olvi가 인수한 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Banjalučka Pivara는 보스니아 헤르체고비나에서 두 번째로 큰 도시인 바냐루카에 기반을 둔 양조회사이다. 영문명은 Banja Luka Brewery이고 세르비아 키릴 문자로는 Бањалучка пивара라고 쓴다. 트라피스트 수도회의 활동의 일환으로 시작되어 제2차 세계대전 이후 국유화되었고, 1975년에는 새로 설립된 회사 Bosanska Krajina에 편입되었다. Nektar, Banjalučko pivo, Crni Đorđe, Kastel 등의 상표로 라거 맥주, 흑맥주, 레몬과 자몽 맛 샌디를 생산한다. 2025년 핀란드의 맥주·비알코올 음료 생산업체 Olvi가 인수 의사를 밝혔고, 2026년 1월 2일 인수를 완료했다고 발표되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1873년 바냐루카 인근 Delibaša 마을에서 트라피스트 수도회 활동의 일환으로 설립되었다. 창립자는 바냐루카 트라피스트 수도회의 책임자였던 Franz Pfanner이며, Marija Zvijezda 수도원의 수도사들과 함께 양조장을 세웠다. 이 수도사들은 양조장 외에 유명한 Trappista 치즈를 만드는 치즈 공장과 유럽에서 가장 먼저 세워진 발전소 중 하나도 세웠고, 이는 '기도하고 일하라(Ora et labora)'는 검소한 생활 신조에 따른 것이었다. 양조장은 제2차 세계대전 이후 국유화되었고 1975년 새로 설립된 회사 Bosanska Krajina에 포함되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군은 라거 맥주, 흑맥주, 샌디로 나뉜다. Nektar Pivo, Banjalučko pivo, Kastel pivo는 라거 맥주이다. 'royal Bavaria beer'로 소개되는 Kaltenberg pivo가 있고, Crni Đorđe pivo는 Karađorđe의 이름을 딴 흑맥주이다. Nektar Limun은 레몬 맛, Nektar Grejp는 자몽 맛, Nektar Crveni Grejp는 붉은 자몽 맛 샌디이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 핀란드의 맥주·비알코올 음료 생산업체 Olvi가 당시 유럽 그룹이 지배하던 이 양조장의 인수 의사를 밝혔다. 이 거래는 Olvi가 새로운 지역으로 사업을 넓히게 하고, 발칸과 지중해 지역에서 성장과 수출 기회를 열 수 있다고 전해졌다. 2026년 1월 2일 Olvi가 인수를 완료했다고 발표되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "트라피스트 수도사 Franz Pfanner가 세운 양조장에서 출발해 보스니아 헤르체고비나 바냐루카를 기반으로 하며, 현재는 핀란드 Olvi가 인수한 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.banjaluckapivara.com/",
+  "entityLinks": {
+   "wikidata": "Q2882546",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2882546",
+    "https://en.wikipedia.org/wiki/Banjalu%C4%8Dka_Pivara"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2882546",
+   "country": "보스니아 헤르체고비나",
+   "inception": "1873",
+   "headquarters": "바냐루카",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Banjalučka Pivara」 본문과 위키데이터 Q2882546 팩트를 근거로 편집"
+ }
+}

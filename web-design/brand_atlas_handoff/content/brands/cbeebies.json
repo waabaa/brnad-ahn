@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q936111",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 125,
+  "enViews": 59753,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/cbeebies-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cbeebies",
+  "urlSlug": "cbeebies",
+  "name": "CBeebies",
+  "nameKo": "CBeebies",
+  "nameEn": "CBeebies",
+  "definition": "CBeebies는 영국의 방송사 BBC가 운영하는 미취학 아동 대상 텔레비전 채널이다. 2002년 2월 11일 CBBC와 별도의 채널로 분리되면서 개국했으며 본사는 MediaCityUK에 있다.",
+  "summary": "CBeebies는 영국의 방송사 BBC가 운영하는 미취학 아동 대상 텔레비전 채널이다. 2002년 2월 11일 CBBC와 별도의 채널로 분리되면서 개국했으며 본사는 MediaCityUK에 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "BBC가 운영하는 영국의 미취학 아동 전용 채널로, 2002년 CBBC에서 분리되어 개국했으며 한국어방송과 영어방송으로도 편성되어 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CBeebies는 영국의 방송사 BBC가 운영하는 미취학 아동 대상 텔레비전 채널이다. 영국에 기반을 두고 있으며 본사는 MediaCityUK에 있다. 2002년 2월 11일 CBBC와 별도의 채널로 분리되면서 개국했으며, 이때부터 BBC Four와 채널을 공유하며 오전 6시부터 오후 7시까지 방송했다. 2007년부터 해외에서도 방송을 시작했고, 현재 한국 내에서도 지니TV, U+ TV, LG헬로비전 등 여러 플랫폼을 통해 송출되고 있다. 2015년에는 KBS 키즈에서 콘텐츠를 공급하여 한국어방송과 영어방송을 편성해 방송하고 있다. 방영 프로그램에는 사라와 오리, 텔레토비, 다이노포스, 헤이!더기, 찰리와 롤라, 옥토넛 등이 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CBeebies는 영국의 방송사 BBC가 2002년 2월 11일 개국한 미취학 아동 대상 텔레비전 채널로, 영국에서 설립되었다. 이 채널은 기존에 함께 있던 CBBC와 별도의 채널로 분리되면서 출범했으며, 이후 미취학 아동 시청층을 전담하는 채널로 운영되었다. 개국 초기에는 BBC Four와 채널을 공유하는 방식으로, 오전 6시부터 오후 7시까지 방송했다. 2007년부터는 해외에서도 방송을 시작하면서 영국 밖으로 시청 지역을 넓혀 갔다. 2015년에는 한국에서 KBS 키즈가 콘텐츠를 공급하는 방식으로 한국어방송과 영어방송이 편성되어 방송되고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CBeebies의 대표 서비스는 미취학 아동을 위한 텔레비전 채널 방송이다. 방영 프로그램에는 사라와 오리, 텔레토비, 다이노포스, 헤이!더기, 찰리와 롤라, 미스터 메이커, 쇼미 쇼미, 인 더 나잇 가든, 아이 캔 쿡이 있다. 바다 탐험대 옥토넛, 앤디의 공룡 대탐험, 넘텀스, 마이 펫 앤드 미, 잭 할아버지의 무지개 배, 트월리우스도 방영 목록에 포함된다. 채널은 영국의 프리뷰, 프리샛, 스카이 UK, 버진미디어와 홍콩의 Now TV, 한국의 지니TV, U+ TV, LG헬로비전, KCTV제주방송 등에서 송출된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 CBeebies는 영국의 BBC가 운영하는 채널로, 본사는 MediaCityUK에 있다. 영국에서는 프리뷰, 프리샛, 스카이 UK, 버진미디어를 통해 SD와 HD 채널로 제공된다. 영국 외에도 홍콩과 한국 등에서 송출되고 있으며, 한국에서는 2015년부터 KBS 키즈가 콘텐츠를 공급하며 한국어방송과 영어방송이 편성되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "BBC가 운영하는 영국의 미취학 아동 전용 채널로, 2002년 CBBC에서 분리되어 개국했으며 한국어방송과 영어방송으로도 편성되어 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bbc.co.uk/cbeebies/",
+  "entityLinks": {
+   "wikidata": "Q936111",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q936111",
+    "https://ko.wikipedia.org/wiki/CBeebies",
+    "https://en.wikipedia.org/wiki/CBeebies"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q936111",
+   "country": "영국",
+   "inception": "2002",
+   "headquarters": "MediaCityUK",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「CBeebies」 요약과 위키데이터 Q936111 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q7618876",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "stone-brewing-company",
+  "urlSlug": "stone-brewing-company",
+  "name": "Stone Brewing Company",
+  "nameKo": "",
+  "nameEn": "Stone Brewing Company",
+  "definition": "Stone Brewing Company는 1996년 미국 캘리포니아주 샌마커스에서 문을 연 크래프트 맥주 양조장이다. 에스콘디도에 본사를 두었으며 홉 함량이 높은 서부 해안 스타일 맥주로 알려졌다.",
+  "summary": "Stone Brewing Company는 1996년 미국 캘리포니아주 샌마커스에서 문을 연 크래프트 맥주 양조장이다. 에스콘디도에 본사를 두었으며 홉 함량이 높은 서부 해안 스타일 맥주로 알려졌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "홉 향이 강한 서부 해안 스타일 맥주와 Arrogant Bastard Ale로 샌디에이고를 크래프트 맥주 지도에 올린 남부 캘리포니아 최대 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Stone Brewing Company는 미국 캘리포니아주를 기반으로 한 크래프트 맥주 양조장이다. 1996년 샌마커스에서 설립되어 남부 캘리포니아에서 가장 큰 양조장으로 성장했다. 2020년 판매량 기준으로 미국에서 아홉 번째로 큰 크래프트 양조장이었다. 가장 잘 알려진 브랜드는 Arrogant Bastard Ale이며, 대부분의 맥주는 홉 함량이 높고 평균 알코올 도수가 6%에서 10% 사이인 서부 해안 스타일이다. RateBeer와 BeerAdvocate 두 맥주 애호가 사이트에서 \"world class brewery\"로 평가받았고, BeerAdvocate 독자 투표에서는 \"All Time Top Brewery on Planet Earth\" 1위로 뽑혔다. 현재는 Duvel Moortgat USA가 소유하며 Firestone Walker Brewing Company와 함께 관리한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1996년 샌마커스에서 문을 열었으며, 이곳은 현재 Port Brewing Company와 The Lost Abbey가 쓰는 자리이다. 지역 디자이너이자 일러스트레이터인 Thomas K. Matthews가 1996년 최초의 가고일을 만들었고, Arrogant Bastard Ale, Stone Ruination IPA, Stone Levitation Ale의 가고일도 그렸다. 첫 맥주는 Stone Pale Ale로, 2015년 단종되기 전까지 주력 에일로 여겨졌다. 2006년 에스콘디도에 새로 설계한 시설로 옮겼고, 2013년에는 병과 케그 라인을 갖춘 패키징 홀을 열었다. 2016년 6월 베를린 Mariendorf의 양조장이 가동되었으나 2019년 4월 BrewDog에 매각되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 맥주 Stone Pale Ale 이후 대표 브랜드가 된 Arrogant Bastard Ale은 \"watershed beer\"로 불리며 샌디에이고를 크래프트 맥주 지도에 올려놓았다는 평을 받았다. Stone Ruination IPA와 Stone Levitation Ale도 대표 맥주에 속한다. 1999년부터는 자체 유통 계열사 Stone Distributing Company를 운영하며 남부 캘리포니아에서 40개가 넘는 크래프트 맥주, 사이다, 콤부차 브랜드를 취급한다. 에스콘디도에는 레스토랑 Stone Brewing World Bistro & Gardens - Escondido와 Stone Company Store가 있고, 2013년 5월에는 샌디에이고 Liberty Station에도 Bistro and Gardens가 문을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 8월 Sapporo Breweries가 165 million 달러에 Stone을 인수했고, 양조장은 북미 유통용 Sapporo 맥주를 캘리포니아에서 생산하게 되었다. 현재는 Duvel Moortgat USA가 소유하며 Firestone Walker Brewing Company와 함께 관리한다. 일본 양조 대기업 Sapporo USA로부터 넘겨받은 2026년의 공동 전환을 거치며, 운영과 서부 해안 거점은 캘리포니아주 Paso Robles의 Firestone Walker로 옮겨졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "홉 향이 강한 서부 해안 스타일 맥주와 Arrogant Bastard Ale로 샌디에이고를 크래프트 맥주 지도에 올린 남부 캘리포니아 최대 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.stonebrewing.com/",
+  "entityLinks": {
+   "wikidata": "Q7618876",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7618876",
+    "https://en.wikipedia.org/wiki/Stone_Brewing_Co."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7618876",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "에스콘디도",
+   "founders": [],
+   "parent": "Firestone Walker Brewing Company",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Stone Brewing Co.」 본문과 위키데이터 Q7618876 팩트를 근거로 편집"
+ }
+}

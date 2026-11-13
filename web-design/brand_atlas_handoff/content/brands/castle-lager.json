@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q23461394",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "castle-lager",
+  "urlSlug": "castle-lager",
+  "name": "Castle Lager",
+  "nameKo": "",
+  "nameEn": "Castle Lager",
+  "definition": "Castle Lager는 남아프리카공화국의 페일 라거 맥주이다. South African Breweries의 대표 제품이며, 폭넓은 인기와 국내 생산 덕분에 남아프리카공화국의 '국민 맥주'로 널리 여겨진다.",
+  "summary": "Castle Lager는 남아프리카공화국의 페일 라거 맥주이다. South African Breweries의 대표 제품이며, 폭넓은 인기와 국내 생산 덕분에 남아프리카공화국의 '국민 맥주'로 널리 여겨진다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "남아프리카공화국의 '국민 맥주'로 불리며, 1960년대 Cold Castle National Jazz Festival 후원으로 현지 재즈 문화와도 연결된 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Castle Lager(원어 표기: Castle Lager)는 남아프리카공화국에서 만드는 페일 라거로, South African Breweries의 대표 제품이다. 남아프리카공화국 안에서 폭넓게 소비되고 생산되어 '국민 맥주'로 여겨진다. 현재 아홉 개 나라에서 양조하며 40개국이 넘는 나라에서 판매한다. 2000년에는 Brewing Industry International Awards의 'World's Best Bottled Lager' 부문에서 상을 받았다. Castle Lite, Castle Milk Stout, Castle Free 같은 파생 제품군도 갖추고 있다. 현재는 남아프리카공화국에서 열리는 The Rugby Championship의 헤드 스폰서를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Castle Lager의 기원은 1886년 요하네스버그 골드러시로 거슬러 올라간다. Castle Brewery의 설립자 Charles Glass는 시장의 공백을 발견하고 광부들에게 맥주를 팔기 시작했다. 이 맥주는 금광 탐사자들 사이에서 빠르게 인기를 얻었고, 1889년 요하네스버그 초기 신문 The Digger's News는 이를 'a phenomenal success'라고 평했다. 1895년 Castle Lager의 성공을 바탕으로 South African Breweries(SAB)를 설립했고, 본사는 Castle Brewery에 두었다. 2년 뒤 SAB는 Johannesburg Stock Exchange에 상장한 최초의 산업 기업이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Castle Lager의 파생 제품으로 먼저 1994년에 도입한 Castle Lite가 있다. 알코올과 칼로리를 낮춘 변형이며 녹색 병에 담기고 알코올 도수는 4%이다. 2014년에는 라임 맛 변형인 Castle Lite Lime을 내놓았다. 6% 도수의 Castle Milk Stout는 'South Africa's Premier Stout'를 내세우며 초콜릿을 넣은 변형도 있다. 2017년 도입한 Castle Free는 남아프리카공화국에서 처음 생산된 무알코올 맥주이고, 2021년에는 4.8% 도수의 Castle Double Malt를 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Castle Lager는 현재 아홉 개 나라에서 양조되고 40개국이 넘는 나라에서 판매된다. 2002년 South African Breweries가 Miller를 인수해 SABMiller를 만들었고, 2016년에는 Anheuser-Busch InBev가 SABMiller를 인수했다. 현재 남아프리카공화국에서 열리는 The Rugby Championship의 헤드 스폰서를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "남아프리카공화국의 '국민 맥주'로 불리며, 1960년대 Cold Castle National Jazz Festival 후원으로 현지 재즈 문화와도 연결된 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.castlelager.co.za/",
+  "entityLinks": {
+   "wikidata": "Q23461394",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q23461394",
+    "https://en.wikipedia.org/wiki/Castle_Lager"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q23461394",
+   "country": null,
+   "inception": "1895",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Castle Lager」 본문과 위키데이터 Q23461394 팩트를 근거로 편집"
+ }
+}

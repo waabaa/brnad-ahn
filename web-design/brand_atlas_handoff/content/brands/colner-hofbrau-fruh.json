@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q153852",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/colner-hofbrau-fruh-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "colner-hofbrau-fruh",
+  "urlSlug": "colner-hofbrau-fruh",
+  "name": "Cölner Hofbräu Früh",
+  "nameKo": "",
+  "nameEn": "Cölner Hofbräu Früh",
+  "definition": "Cölner Hofbräu Früh는 1904년 독일 쾰른에서 설립된 민영 양조장이다. 상면발효 맥주인 쾰슈(Kölsch)를 양조하며, 흔히 Früh라고도 부른다.",
+  "summary": "Cölner Hofbräu Früh는 1904년 독일 쾰른에서 설립된 민영 양조장이다. 상면발효 맥주인 쾰슈(Kölsch)를 양조하며, 흔히 Früh라고도 부른다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "쾰슈를 만드는 쾰른의 민영 양조장으로, 1987년부터 Feldkassel 시설에서 양조하며 옛 양조장 부지는 객실과 Hofbräustuben으로 단장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Früh는 쾰른에서 상면발효 맥주인 쾰슈(Kölsch)를 양조하는 민영 양조장이다. 1904년 쾰른에서 Peter Joseph Früh가 설립했다. 1987년부터는 양조장 건물 안이 아니라 쾰른 Feldkassel의 양조 시설에서 맥주를 만든다. 옛 양조장 부지와 Früh 가문의 옛 주거 공간은 새로 단장해 복원했고, 중세 시대의 발효·저장 지하 저장고에는 새 객실이 들어섰다. 2019년 3월에는 Radeberger Group의 자회사인 Haus Kölscher Brautradition GmbH와 협력하겠다고 발표했다. 이 협력에 따라 병 맥주 전량이 2020년부터 Früh의 Feldkassel 양조장에서 생산되도록 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Früh는 1904년 쾰른에서 Peter Joseph Früh가 세운 양조장이다. 1987년부터는 맥주를 양조장 건물 안에서 직접 만들지 않고, 쾰른의 Feldkassel 지구에 있는 양조 시설에서 만든다. 옛 양조장 부지와 Früh 가문의 주거 공간은 새로 단장해 복원했다. 중세 시대의 발효·저장 지하 저장고에는 새 객실을 만들었고, 2층에는 더 세련된 취향을 위한 Hofbräustuben을 두었다. 2019년 3월에는 Radeberger Group의 자회사인 Haus Kölscher Brautradition GmbH와의 협력을 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Früh는 상면발효 맥주인 쾰슈를 만드는 양조장이다. 옛 양조장 부지의 중세 시대 발효·저장 지하 저장고에는 새 객실이 만들어졌다. 2층에는 더 세련된 취향을 위한 Hofbräustuben이 들어섰다. 2019년 협력 발표에 따르면 Haus Kölscher Brautradition GmbH의 병 맥주 전량은 2020년부터 Früh의 Feldkassel 양조장에서 생산된다. Sion, Gilden, Peters, Dom, Sester, Küppers Kölsch 브랜드의 생맥주 전량도 2021년부터 생산 대상에 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Früh는 민영 양조장이며, 맥주는 쾰른 Feldkassel의 양조 시설에서 만든다. 2019년 3월 Radeberger Group의 자회사인 Haus Kölscher Brautradition GmbH와의 협력을 발표했다. 이에 따라 2020년부터 병 맥주 전량이, 2021년부터 Sion, Gilden, Peters, Dom, Sester, Küppers Kölsch 브랜드의 생맥주 전량이 Früh의 Feldkassel 양조장에서 생산되는 것으로 발표되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "쾰슈를 만드는 쾰른의 민영 양조장으로, 1987년부터 Feldkassel 시설에서 양조하며 옛 양조장 부지는 객실과 Hofbräustuben으로 단장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.frueh.de/",
+  "entityLinks": {
+   "wikidata": "Q153852",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q153852",
+    "https://en.wikipedia.org/wiki/C%C3%B6lner_Hofbr%C3%A4u_Fr%C3%BCh"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q153852",
+   "country": "독일",
+   "inception": "1904",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Cölner Hofbräu Früh」 본문과 위키데이터 Q153852 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

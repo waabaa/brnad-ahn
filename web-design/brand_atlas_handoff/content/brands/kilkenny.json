@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1741320",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kilkenny",
+  "urlSlug": "kilkenny",
+  "name": "킬케니",
+  "nameKo": "킬케니",
+  "nameEn": "Kilkenny",
+  "definition": "킬케니(Kilkenny)는 아일랜드의 킬케니에서 유래한 기네스의 질소 주입 아이리시 크림 에일이다. 기네스 소유주인 Diageo가 생산하고 관리하며 드래프트, 병, 캔으로 판매된다.",
+  "summary": "킬케니(Kilkenny)는 아일랜드의 킬케니에서 유래한 기네스의 질소 주입 아이리시 크림 에일이다. 기네스 소유주인 Diageo가 생산하고 관리하며 드래프트, 병, 캔으로 판매된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "기네스처럼 질소 크림 거품을 가졌지만 홉의 끝맛이 덜한 아이리시 크림 에일이며, 원래 Smithwick's 수출용 이름이었으나 지금은 별개의 맥주를 가리킨다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "킬케니는 기네스에서 나온 질소 주입 아이리시 크림 에일로, 아일랜드의 킬케니에서 유래했다. 생산과 관리는 기네스 소유주인 Diageo가 맡고 있으며, 현재 더블린의 Guinness 양조장에서 양조해 기네스와 비슷한 방식으로 제공한다. Smithwick's Draught와 비슷하지만 홉의 끝맛이 덜하고, 기네스처럼 질소가 만드는 크림 거품을 가진 맥주이다. 원료는 물, 맥아 보리, 볶은 맥아 보리, 홉, 효모이며 드래프트, 병, 캔으로 판매된다. 아일랜드가 주된 시장이며, 호주와 캐나다가 아일랜드 밖에서 가장 큰 수입국이다. 호주와 뉴질랜드의 여러 바와 펍에서는 생맥주로 제공되며, 캐나다의 몬트리올 아이리시 펍 등에서도 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "킬케니라는 이름은 1980년대와 1990년대에 유럽과 캐나다 시장에서 더 독한 Smithwick's를 판매할 때 처음 쓰였으며, Smithwick's라는 단어의 발음이 어렵다는 이유에서였다. 지금은 비슷하지만 별개의 맥주를 가리킨다. 킬케니는 아일랜드의 킬케니에 있는 St. Francis Abbey Brewery에서 양조되었고, 이곳은 2013년 문을 닫기 전까지 아일랜드에서 가장 오래 운영된 양조장이었다. 현재는 더블린의 Guinness 양조장에서 양조한다. 캐나다에서는 2013년 7월 이후 LCBO의 판매가 늘었고, Mike Myers와 Drake 등 캐나다 인물들이 킬케니를 손에 든 모습이 찍히며 인기가 높아졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "킬케니는 드래프트, 병, 캔으로 판매된다. 호주와 뉴질랜드의 바와 펍에서는 현지 양조 드래프트 기네스처럼 질소 70%와 이산화탄소 30%의 혼합 가스를 특수 탭으로 보내 크림 거품을 만든다. 호주의 일부 병 판매점에서 파는 470 ml 캔 제품은 Lion이 라이선스로 호주에서 양조하며, 아일랜드 버전과 다른 배합을 쓰고 흔히 Kilkenny Red로 표기된다. 아일랜드 버전은 440 ml 캔으로 수입되어 판매되기도 한다. 더블린에서 양조한 제품은 기네스처럼 약 19~25밀리미터의 거품을 충분히 올려 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "킬케니는 기네스 소유주인 Diageo가 생산하고 관리한다. 2013년 St. Francis Abbey Brewery가 문을 닫은 뒤로는 더블린의 Guinness 양조장에서 양조한다. 아일랜드가 주된 시장이며, 호주와 캐나다가 가장 큰 두 수입국이다. 호주에서는 Lion이 라이선스로 별도 배합의 제품을 양조한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "기네스처럼 질소 크림 거품을 가졌지만 홉의 끝맛이 덜한 아이리시 크림 에일이며, 원래 Smithwick's 수출용 이름이었으나 지금은 별개의 맥주를 가리킨다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.diageobrands.com/indexx.html",
+  "entityLinks": {
+   "wikidata": "Q1741320",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1741320",
+    "https://ko.wikipedia.org/wiki/%ED%82%AC%EC%BC%80%EB%8B%88_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Kilkenny_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1741320",
+   "country": "아일랜드",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Kilkenny (beer)」 본문과 위키데이터 Q1741320 팩트를 근거로 편집"
+ }
+}

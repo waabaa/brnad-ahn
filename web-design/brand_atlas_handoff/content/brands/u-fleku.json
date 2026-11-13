@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1581385",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "u-fleku",
+  "urlSlug": "u-fleku",
+  "name": "U Fleků",
+  "nameKo": "",
+  "nameEn": "U Fleků",
+  "definition": "U Fleků는 체코 프라하에 있는 펍 겸 소규모 양조장이다. 프라하 신시가지의 Křemencova 11에 자리하며, 매장에서 직접 양조한 흑맥주와 담색 라거를 판매한다.",
+  "summary": "U Fleků는 체코 프라하에 있는 펍 겸 소규모 양조장이다. 프라하 신시가지의 Křemencova 11에 자리하며, 매장에서 직접 양조한 흑맥주와 담색 라거를 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "프라하 도심에서 1499년에 설립되어 자체 양조한 두 가지 라거만 판매하며, 체코 펍의 표준인 50cl보다 작은 40cl 잔으로 맥주를 내는 곳이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "프라하 신시가지(Praha 1)에 있는 펍 겸 소규모 양조장이다. 국립극장에서 멀지 않은 Křemencova 11에서 중앙 안뜰을 둘러싼 건물들을 사용하며, 정면 출입문 위에는 장식이 화려한 오래된 시계가 걸려 있다. 1499년에 설립되었으며 프라하에서 가장 오래된 양조장으로 불리기도 한다. 손님은 야외 맥주 정원이나 실내 식당에서 이곳에서 직접 양조한 맥주와 전통 체코 음식을 즐길 수 있다. 옛 맥아 저장 건물에는 양조 과정을 설명하는 박물관과 견학 프로그램이 마련되어 있다. 벽에는 크로아티아 축구 클럽 HNK Hajduk Split의 창립을 기념하는 현판이 걸려 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 펍은 가족 사업으로 시작되어 1499년에 설립되었고, 1999년에 500주년을 기념했다. 1762년 Jakub Flekovský가 양조장을 인수했으며, 이때 현재의 이름이 생겼다. U Fleků는 체코어로 영어의 'At the Fleks''에 해당하는 뜻이다. 제2차 세계대전 이후 회사는 국유화되어 국가가 임명한 경영위원회가 통제권을 넘겨받았다. 벨벳 혁명 이후에는 민영화되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 흑맥주 Flekovský Tmavý Ležák 13°와 담색 Flekovský Světlý Ležák 13°의 두 가지 라거이다. 두 맥주 모두 알코올 도수 5퍼센트, 13° 플라토로 양조하며 매장에서 직접 만들어 다른 곳에서는 구할 수 없다. 흑맥주는 Flekovská třináctka라는 별칭으로도 불린다. 전통 체코 음식을 함께 내고, 맥주는 40cl 단위로 제공한다. 이 밖에 유료 카바레 공연, 박물관 견학, 시음과 기념품이 포함된 양조장 투어, 맥주잔 등을 파는 기념품 가게를 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 8개의 홀을 갖추고 있으며, 가장 유명한 홀은 원래 디자인이 남아 있는 'Akademie'이다. 대부분의 홀은 단체 손님 전용이며 총 좌석은 1200석이다. 손님은 긴 나무 탁자를 함께 쓰고, 아코디언이나 튜바 연주자가 돌아다니며 연주한다. 가격은 인근 다른 체코 펍보다 상당히 높은 편이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프라하 도심에서 1499년에 설립되어 자체 양조한 두 가지 라거만 판매하며, 체코 펍의 표준인 50cl보다 작은 40cl 잔으로 맥주를 내는 곳이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ufleku.cz/",
+  "entityLinks": {
+   "wikidata": "Q1581385",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1581385",
+    "https://en.wikipedia.org/wiki/U_Flek%C5%AF"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1581385",
+   "country": "체코",
+   "inception": "2000",
+   "headquarters": "프라하",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「U Fleků」 본문과 위키데이터 Q1581385 팩트를 근거로 편집"
+ }
+}

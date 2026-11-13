@@ -106,7 +106,8 @@ if (fs.existsSync(smIndex)) {
   const s = fs.readFileSync(smIndex, "utf8");
   const children = [...s.matchAll(/<loc>[^<]*\/(sitemap-[^<]+\.xml)<\/loc>/g)].map(m => m[1]);
   sitemapFiles = children.length;
-  for (const c of children) {
+  // sitemap-priority.xml 은 브랜드 사이트맵의 부분집합이라 URL 수 대조에서 뺀다.
+  for (const c of children.filter(f => f !== "sitemap-priority.xml")) {
     const p3 = path.join(ROOT, c);
     if (!fs.existsSync(p3)) continue;
     const x = fs.readFileSync(p3, "utf8");

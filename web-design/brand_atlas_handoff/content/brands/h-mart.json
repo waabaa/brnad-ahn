@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q5636306",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T19:22:32+09:00"
+ },
+ "logoCandidate": "logos/h-mart-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "h-mart",
+  "urlSlug": "h-mart",
+  "name": "H 마트",
+  "nameKo": "H 마트",
+  "nameEn": "H Mart",
+  "definition": "H 마트(H Mart)는 한아름 그룹이 운영하는 미국의 슈퍼마켓 체인이다. 미국 내 여러 곳에서 아시아 음식을 전문으로 제공하며, 본사는 뉴저지주 린드허스트에 있다.",
+  "summary": "H 마트(H Mart)는 한아름 그룹이 운영하는 미국의 슈퍼마켓 체인이다. 미국 내 여러 곳에서 아시아 음식을 전문으로 제공하며, 본사는 뉴저지주 린드허스트에 있다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "미국에서 아시아 음식을 전문으로 하는 슈퍼마켓 체인으로, 상호의 H가 '한아름'을 뜻하는 한아름 그룹 운영 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "H 마트는 한아름 그룹이 운영하는 미국의 슈퍼마켓 체인으로, 아시아 음식을 전문으로 제공한다. 본사는 뉴저지주 린드허스트에 있으며 슈퍼 H 마트 스토어를 운영한다. 상호의 H는 '두 팔을 벌여 감싸안을 만함'을 가리키는 '한아름'을 의미한다. 1982년 뉴욕 시 퀸스의 작은 식품점으로 시작했고, 2005년 기준 17개였던 슈퍼마켓이 2006년 3월에는 22개로 늘어났으며 같은 해 4월에는 서해안 최초로 워싱턴주 페더럴웨이 개장이 계획되었다. 2011년에는 런던 뉴몰든에서 유럽 첫 상점을 열었다. 2013년에는 소유주를 둘러싼 의혹이 제기되었고, 같은 해 8월 권일연 대표는 입장문과 인터뷰를 통해 사실이 아니라고 밝혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "H 마트는 1982년 뉴욕 시 퀸스에서 자그마한 식품점으로 시작했다. 1988년 10월 19일에는 현재 본사가 린드허스트에서 문을 열었다. 2001년 개장 이후 북버지니아의 H 마트 지역은 수많은 스페인계 미국인 직원들을 창출했다. 2005년 기준 미국 내 슈퍼마켓은 17개였고, 2006년 3월에는 22개로 늘어나 콜로라도주 덴버 한 곳과 캐나다 브리티시컬럼비아주 밴쿠버 한 곳을 제외하면 미국 동해안의 전 지역에 위치했다. 2006년 4월에는 미국 서해안 최초로 워싱턴주 페더럴웨이 개장이 계획되었고, 2011년에는 런던 뉴몰든에서 유럽 첫 상점을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "H 마트는 한아름 그룹이 운영하며 본사는 뉴저지주 린드허스트에 있다. 전두환 전 대통령 일가가 실소유주라는 의혹이 제기되어 2013년 TV조선 보도로 이슈가 확산되었고, 같은 해 8월 권일연 대표는 자금 유입 및 소유주와 관련된 내용이 사실이 아니라고 밝혔다. 검찰은 H 마트가 수사 대상이 아니라고 밝혔고, 최초 보도한 TV조선은 정정 내용을 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국에서 아시아 음식을 전문으로 하는 슈퍼마켓 체인으로, 상호의 H가 '한아름'을 뜻하는 한아름 그룹 운영 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hmart.com/",
+  "entityLinks": {
+   "wikidata": "Q5636306",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5636306",
+    "https://ko.wikipedia.org/wiki/H_%EB%A7%88%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/H_Mart"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5636306",
+   "country": "미국",
+   "inception": "1982",
+   "headquarters": "Lyndhurst",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "한국어 위키백과 「H 마트」 요약과 위키데이터 Q5636306 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

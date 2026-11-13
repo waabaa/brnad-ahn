@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q532310",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/hummel-international-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hummel-international",
+  "urlSlug": "hummel-international",
+  "name": "험멜",
+  "nameKo": "험멜",
+  "nameEn": "Hummel International",
+  "definition": "험멜(Hummel International)은 덴마크 오르후스에 본사를 둔 스포츠웨어 제조 기업이다. 1923년 독일에서 설립되었고 현재 Thornico가 소유하고 있으며, 로고는 호박벌을 형상화했다.",
+  "summary": "험멜(Hummel International)은 덴마크 오르후스에 본사를 둔 스포츠웨어 제조 기업이다. 1923년 독일에서 설립되었고 현재 Thornico가 소유하고 있으며, 로고는 호박벌을 형상화했다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "1923년 독일에서 출발해 덴마크 기업이 된 스포츠웨어 브랜드로, 축구와 핸드볼에 뿌리를 두고 호박벌 모양 로고를 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "험멜은 축구, 럭비리그, 핸드볼 등 여러 종목의 팀을 위한 의류를 만드는 스포츠웨어 브랜드이다. 정식 사명은 Hummel International Sport & Leisure A/S이며 덴마크 오르후스에 본사를 둔다. 독일에서 시작되었으나 1956년 Bernhard Weckenbrock에게 인수되면서 덴마크 기업이 되었다. 1999년부터는 Christian과 Thor Stadil이 세운 덴마크의 Thornico Group에 속해 있다. 브랜드명은 독일어로 호박벌을 뜻하며 로고도 양식화한 호박벌이다. 업계에서 가장 오래된 스포츠웨어 브랜드 가운데 하나이며 축구와 핸드볼에 뿌리를 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "험멜은 1923년 독일 함부르크에서 Max Albrecht Ludwig Messmer와 그의 아버지 Michael Messmer가 'Messmer & Co'라는 이름으로 설립했다. 1956년 Bernhard Weckenbrock이 회사를 인수하면서 덴마크 기업이 되었고, 본거지는 노르트라인베스트팔렌주의 Kevelaer로 옮겨졌다. 1999년부터는 Christian과 Thor Stadil이 설립한 덴마크 Thornico Group의 일부이다. 현재는 오르후스에 본사를 두고 Thornico가 소유한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 축구, 럭비리그, 풋살, 핸드볼, 농구, 신티, 배구, e스포츠 팀을 위한 의류를 만든다. 성인과 어린이를 위한 의류와 신발도 제공하며, 패션 서브브랜드로 Hummel HIVE를 운영한다. 과거 Real Madrid, Red Star Belgrade, Sunderland, Southampton, Aston Villa, Benfica, Coventry City와 덴마크 국가대표팀이 험멜 제품을 착용했다. 2016년에는 아프가니스탄 여자 국가대표팀을 위해 히잡을 고려한 유니폼을 만들어 국제 여성의 날에 처음 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "험멜은 현재 덴마크 오르후스에 본사를 두고 있으며 Thornico가 소유한다. 2025년에는 Canadian Premier League와 리그 전체를 대상으로 하는 다년 파트너십을 체결했다. 팀 스포츠 의류뿐 아니라 성인과 어린이용 의류·신발, 패션 서브브랜드 Hummel HIVE까지 사업 범위에 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1923년 독일에서 출발해 덴마크 기업이 된 스포츠웨어 브랜드로, 축구와 핸드볼에 뿌리를 두고 호박벌 모양 로고를 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hummel.net/",
+  "entityLinks": {
+   "wikidata": "Q532310",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q532310",
+    "https://ko.wikipedia.org/wiki/%ED%97%98%EB%A9%9C",
+    "https://en.wikipedia.org/wiki/Hummel_International"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q532310",
+   "country": "덴마크",
+   "inception": "1923",
+   "headquarters": "오르후스",
+   "founders": [],
+   "parent": "Thornico",
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Hummel International」 본문과 위키데이터 Q532310 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

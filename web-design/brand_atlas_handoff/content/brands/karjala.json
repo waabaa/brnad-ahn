@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q760961",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "karjala",
+  "urlSlug": "karjala",
+  "name": "Karjala",
+  "nameKo": "",
+  "nameEn": "Karjala",
+  "definition": "Karjala는 핀란드의 라거 계열 맥주로, Hartwall 양조장이 생산한다. 1932년 Sortavalan panimo Oy 양조장에서 만들어진 맥주에서 이어져 온 브랜드이다.",
+  "summary": "Karjala는 핀란드의 라거 계열 맥주로, Hartwall 양조장이 생산한다. 1932년 Sortavalan panimo Oy 양조장에서 만들어진 맥주에서 이어져 온 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "소련 대사의 공개 발언과 카렐리아 문장이 들어간 라벨로 다시 주목받은 핀란드의 Hartwall 라거 맥주이며, '카렐리아를 되찾자'는 속담으로 이어졌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Karjala는 핀란드의 라거 계열 맥주로, Hartwall 양조장이 생산한다. 1932년부터 1944년까지 협동조합 상점 Osuusliike Itä-Karjala가 소유한 Sortavalan panimo Oy 양조장에서 만들어졌고, 생산은 1948년에 재개되었다. 1960년대에는 인기가 시들해지던 브랜드였으나, 1968년 핀란드 주재 소련 대사 Andrei E. Kovalev가 라벨이 전쟁 시기에 대한 잘못된 인식을 불러일으킨다고 공개적으로 말한 뒤 다시 주목받았다. 언론이 이 일을 신문 14면에 걸쳐 다루면서 브랜드는 새로운 동력을 얻었다. 1995년 아이스하키 세계선수권 우승 뒤에는 우승 선수들의 사진을 라벨에 넣은 이른바 '사자 맥주'를 내놓았다. 현재 Karjala III, Karjala IVA 등 여러 제품이 라인업을 이룬다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Karjala 맥주는 협동조합 상점 Osuusliike Itä-Karjala가 소유한 Sortavalan panimo Oy 양조장에서 1932년부터 1944년까지 생산되었다. 생산은 1948년에 재개되었다. 1960년대에 이 브랜드는 쇠퇴하는 중이었으나, 1968년 소련 대사 Andrei E. Kovalev가 라벨이 전쟁 시기의 잘못된 인식을 불러일으킨다고 공개적으로 말했다. 라벨에는 곧은 서양식(스웨덴) 검이 다른 팔이 든 러시아 사브르를 찌르는 카렐리아 문장이 들어 있다. 언론이 14면에 걸친 기사로 이를 다루면서 브랜드는 다시 힘을 얻었고, 이후 '카렐리아를 되찾자, 병 하나씩이라도'라는 속담이 생겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 제품으로는 Karjala III(4.6%), Karjala IVA(5.2%), Karjala IVB(8.0%), Karjala Terva(4.6%), Karjala Rehti(4.3%)가 있으며 괄호 안은 도수이다. 단종된 제품으로는 Karjala I과 Karjala Maltti가 목록에 올라 있다. 1995년 아이스하키 세계선수권에서 핀란드가 우승한 뒤 Hartwall은 우승팀 선수 전원의 사진을 병 라벨에 넣은 '사자 맥주'를 출시했다. 이 라벨은 수집가들이 찾는 대상이 되었다. 2017년 말에는 사자 맥주가 한정판으로 다시 출시되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Karjala는 현재 Hartwall 양조장이 생산하는 핀란드 라거 맥주이다. Karjala III, Karjala IVA, Karjala IVB, Karjala Terva, Karjala Rehti가 제품 목록에 올라 있다. Karjala I과 Karjala Maltti는 단종되었다. 2017년 말에는 사자 맥주가 한정판으로 다시 출시되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소련 대사의 공개 발언과 카렐리아 문장이 들어간 라벨로 다시 주목받은 핀란드의 Hartwall 라거 맥주이며, '카렐리아를 되찾자'는 속담으로 이어졌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q760961",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q760961",
+    "https://en.wikipedia.org/wiki/Karjala_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q760961",
+   "country": "핀란드",
+   "inception": "1932",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Karjala (beer)」 본문과 위키데이터 Q760961 팩트를 근거로 편집"
+ }
+}

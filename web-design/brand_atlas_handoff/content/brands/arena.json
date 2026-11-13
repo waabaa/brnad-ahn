@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q641306",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/arena-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "arena",
+  "urlSlug": "arena",
+  "name": "아레나",
+  "nameKo": "아레나",
+  "nameEn": "Arena",
+  "definition": "아레나(Arena)는 1973년 Horst Dassler가 Adidas 창업자의 아들로서 만든 이탈리아의 경기용 수영복 제조 회사이다. 본사는 이탈리아 Tolentino에 있다.",
+  "summary": "아레나(Arena)는 1973년 Horst Dassler가 Adidas 창업자의 아들로서 만든 이탈리아의 경기용 수영복 제조 회사이다. 본사는 이탈리아 Tolentino에 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Adidas 창업자 가문의 Horst Dassler가 만든 경기용 수영복 전문 브랜드로, 올림픽 선수 후원을 성장의 축으로 삼아 왔다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아레나는 경기용 수영복을 만드는 이탈리아 회사 Arena S.p.A.의 브랜드이다. 1973년 Adidas 창업자 Adolf Dassler의 아들 Horst Dassler가 경기용 수영복을 제조하기 위해 만들었다. 본사는 이탈리아 Tolentino에 있다. 1990년 Adidas가 일본 기업 Descente Ltd.에 아레나를 매각했으며, Descente Ltd.는 지금도 제품을 판매한다. 프랑스, 독일, 미국에 자회사를 두고 글로벌 유통업체·라이선스 업체 네트워크로도 운영하며 100개 넘는 나라에 진출해 있다. 선수 후원이 브랜드 성공의 열쇠라고 보고 올림픽 선수들과 후원 계약을 이어 왔다. 1980~90년대에도 Alexander Popov, Franziska van Almsick 같은 선수를 영입했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1973년 Horst Dassler는 Adidas 창업자 Adolf Dassler의 아들로서 경기용 수영복을 만들기 위해 아레나를 만들었다. 1972년 뮌헨 하계 올림픽에서 수영 선수 Mark Spitz가 금메달 7개를 딴 활약을 보고 스포츠웨어 생산 아이디어를 떠올렸다. 1973년 첫 수영복 라인 Skinfit를 내놓았고, 이듬해 뮌헨에서 메달 5개를 딴 호주 선수 Shane Gould와 첫 후원 계약을 맺어 그의 이름을 붙인 수영복 컬렉션을 출시했다. 후원이 성공의 열쇠임을 깨달은 아레나는 1976년 몬트리올 하계 올림픽을 앞두고 Mark Spitz, David Wilkie, Gary Hall 등 여러 선수와 계약했다. 1990년에는 Adidas가 일본 기업 Descente Ltd.에 아레나를 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업의 중심은 경기용 수영복 제조이다. 1973년 첫 수영복 라인 Skinfit는 무게 18그램의 초경량 소재로 만들었다. 1980년대에는 어깨끈을 가늘게 해 어깨 부분 트임을 넓힌 Flyback 수영복을 선보였다. 이후 AquaRacer(1990)와 X-Flat(1997) 수영복을 출시했다. 선수 이름을 붙인 컬렉션으로는 Shane Gould 컬렉션이 있으며, 2019년에는 이탈리아 수영복 브랜드 Diana의 글로벌 브랜드 권리를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 이탈리아 Tolentino에 있으며, 1990년 이후 일본 기업 Descente Ltd.가 제품을 판매하고 있다. 프랑스, 독일, 미국에 자회사를 두고 있고 글로벌 유통업체·라이선스 업체 네트워크를 통해 100개 넘는 나라에서 활동한다. 2019년에는 이탈리아 수영복 브랜드 Diana의 글로벌 브랜드 권리를 사들였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Adidas 창업자 가문의 Horst Dassler가 만든 경기용 수영복 전문 브랜드로, 올림픽 선수 후원을 성장의 축으로 삼아 왔다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.arenasport.com/",
+  "entityLinks": {
+   "wikidata": "Q641306",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q641306",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A0%88%EB%82%98_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Arena_(swimwear)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q641306",
+   "country": "이탈리아",
+   "inception": "1973",
+   "headquarters": "Tolentino",
+   "founders": [
+    "호르스트 다슬러"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Arena (swimwear)」 본문과 위키데이터 Q641306 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

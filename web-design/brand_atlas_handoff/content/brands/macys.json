@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q629269",
+ "demand": {
+  "why": "국외",
+  "naver": 0.017,
+  "koViews": 361,
+  "enViews": 62257,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/macys-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "macys",
+  "urlSlug": "macys",
+  "name": "메이시스",
+  "nameKo": "메이시스",
+  "nameEn": "Macy's",
+  "definition": "메이시스(Macy's)는 미국 뉴욕에 본사를 둔 중상위급 백화점 체인이다. 뉴욕 헤럴드 광장의 플래그십 점포로 알려져 있으며 매년 추수감사절 퍼레이드를 개최한다.",
+  "summary": "메이시스(Macy's)는 미국 뉴욕에 본사를 둔 중상위급 백화점 체인이다. 뉴욕 헤럴드 광장의 플래그십 점포로 알려져 있으며 매년 추수감사절 퍼레이드를 개최한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "뉴욕 헤럴드 광장의 플래그십 점포와 1924년부터 이어진 추수감사절 퍼레이드로 알려진 미국의 중상위급 백화점 체인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메이시스(Macy's)는 미국의 백화점으로, 본사는 뉴욕 맨해튼에 있다. 뉴욕의 중상위급 백화점 체인이며 주요 도시별로 플래그십 점포가 지정되어 있다. 대표 점포는 뉴욕 헤럴드 광장에 있으며 1924년 이후 세계에서 가장 큰 상점으로 불렸으나, 2009년 대한민국 부산의 신세계 센텀시티에 그 기록을 넘겨주었다. 2010년 1월 30일 기준 미국 내 800개 점포를 운영했다. 1924년부터 뉴욕에서 매년 추수감사절 퍼레이드를 개최해 왔고 1976년부터는 뉴욕시의 독립기념일 불꽃놀이를 후원하고 있다. 주요 경쟁사로는 Belk, The Bon-Ton Stores, Dillard's, Nordstrom, Neiman Marcus, Saks Fifth Avenue 등이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Rowland Hussey Macy가 1858년 10월 28일 뉴욕 맨해튼에서 R. H. 메이시 사를 설립하고 백화점을 열었다. 그는 1843년부터 1855년까지 포목점 네 곳을 열었으나 모두 실패했고, 1851년 매사추세츠주 Haverhill에 연 점포가 최초의 메이시스 점포였다. 로고에 들어간 별 하나는 메이시가 10대 시절 Nantucket 포경선에서 일하며 새긴 문신에서 유래했다. 1877년 메이시가 사망한 뒤 경영권은 1895년까지 메이시의 가족에게 있다가 Isidor Straus와 Nathan Straus에게 넘어갔고, 1902년 플래그십 점포는 34번가와 브로드웨이의 Herald Square로 이전했다. 이후 뉴욕 밖의 백화점을 인수하며 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 백화점 점포 운영이 중심이다. 2010년 1월 30일 기준 미국 내 800개 점포를 운영했으며, 300개 이상의 점포에서 전자제품을 취급하는 eSpot ZoomShops 키오스크를 운영했다. 뉴욕의 플래그십 점포 외에도 주요 도시별로 플래그십 점포가 지정되어 있다. 초기에는 1950년대까지 현금만 받으면서도 환불 보장 서비스를 제공했고, 현지 공장에서 생산하는 맞춤복 서비스를 남녀 모두에게 제공했다. 산타 클로스 이벤트, 테마 전시회, 윈도 디스플레이 같은 수단으로 고객의 시선을 끌었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1992년 R. H. 메이시 사는 파산해 오하이오주 신시내티의 페더레이티드에 인수되었다. 이후 페더레이티드와 블루밍데일의 공동투자로 메이시스 사(Macy's, Inc.)가 설립되어 메이시스 백화점을 운영하며 명맥을 이어가고 있다. 모기업은 Macy's, Inc.이며 본사는 뉴욕 맨해튼에 있다. 2008년 9월 기준 미국에서 810개 상점을 운영했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "뉴욕 헤럴드 광장의 플래그십 점포와 1924년부터 이어진 추수감사절 퍼레이드로 알려진 미국의 중상위급 백화점 체인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.macys.com/",
+  "entityLinks": {
+   "wikidata": "Q629269",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q629269",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%EC%8B%9C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Macy%27s"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q629269",
+   "country": "미국",
+   "inception": "1858",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Rowland Hussey Macy"
+   ],
+   "parent": "Macy's, Inc.",
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「메이시스」 요약과 위키데이터 Q629269 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

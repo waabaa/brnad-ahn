@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q623133",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/el-corte-ingles-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "el-corte-ingles",
+  "urlSlug": "el-corte-ingles",
+  "name": "엘 코르테 잉글레스",
+  "nameKo": "엘 코르테 잉글레스",
+  "nameEn": "El Corte Inglés",
+  "definition": "엘 코르테 잉글레스(El Corte Inglés)는 1940년 Ramón Areces와 César Rodríguez González가 세운 스페인의 백화점 체인이다. 유럽 최대 백화점 그룹으로 소개된다.",
+  "summary": "엘 코르테 잉글레스(El Corte Inglés)는 1940년 Ramón Areces와 César Rodríguez González가 세운 스페인의 백화점 체인이다. 유럽 최대 백화점 그룹으로 소개된다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인과 포르투갈에 남은 마지막 백화점 체인으로, 백화점에서 출발해 여행·IT 등으로 사업을 넓힌 유럽 최대 규모의 백화점 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "엘 코르테 잉글레스는 스페인의 백화점 체인으로, 스페인과 포르투갈에 남아 있는 마지막 백화점 체인이다. 1998년부터 국제백화점협회(International Association of Department Stores) 회원으로 활동하고 있다. 유럽 최대 백화점 그룹이자 세계에서 세 번째로 큰 백화점 그룹으로 소개된다. 마드리드의 양복점에서 출발해 백화점으로 성장했으며, 백화점 외에 Hipercor 같은 다른 점포 형식으로도 확장했다. 여행사, 통신·컴퓨터 장비 도매, IT 서비스 등 소매 밖의 분야로도 사업을 넓혔다. 1950년대와 60년대에는 Galerias Preciados와의 경쟁으로 스페인 소매 유통에 큰 변화를 일으켰다. 본사 소재지는 Calle de Hermosilla이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1934년 Ramón Areces Rodriguez와 Cesar Rodriguez Gonzalez는 마드리드 calle Preciados 인근에 있던 양복점을 인수해 유한회사로 만들었다. Areces는 1920년경 15세에 쿠바 아바나로 건너가 소매 체인 Almacenes El Encanto에서 백화점 사업의 기초를 배웠다. 1940년 Areces는 양복점을 sociedad limitada로 전환하며 자본금 1 million 페세타로 등록했고, 지분은 Cesar Rodriguez와 Areces가 절반씩 나눠 가졌다. 1945년과 1946년에 새 건물을 확보해 5개 층, 2,000제곱미터 규모의 매장으로 넓혔고, 1952년에는 sociedad anónima로 법적 형태를 바꿨다. 1966년 Cesar Rodriguez가 사망한 뒤 Areces가 회장이자 최대 주주가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 백화점이며, 1962년 바르셀로나에 두 번째 백화점을 열면서 점포 확장이 본격화되었다. 점포 형식도 다양해져 1980년 세비야에 Hipercor를 처음 선보였다. 1969년에는 여행사 Viajes El Corte Inglés를 열어 소매 밖으로 사업을 넓혔다. 1980년에는 통신·컴퓨터 장비 도매업체 Investronica를, 1986년에는 IT 서비스·소프트웨어 개발 회사 Informática El Corte Inglés(IECISA)를 시작했다. Galerias Preciados와의 경쟁 과정에서 계절 할인, 광고 캠페인, 에어컨 설치 매장, 쇼윈도 활용, 고객 충성 카드, 판매시점 데이터 수집 등이 등장했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 유럽 최대 백화점 그룹이자 세계 3위 규모의 백화점 그룹으로 소개되며, 스페인과 포르투갈에 남은 마지막 백화점 체인이다. 1989년 Areces가 사망한 뒤 조카 Isidoro Álvarez가 후계자가 되어 자체 조달 방식의 자금 조달을 강조하며 확장을 이어갔다. 본사는 Calle de Hermosilla에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인과 포르투갈에 남은 마지막 백화점 체인으로, 백화점에서 출발해 여행·IT 등으로 사업을 넓힌 유럽 최대 규모의 백화점 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.elcorteingles.es/",
+  "entityLinks": {
+   "wikidata": "Q623133",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q623133",
+    "https://ko.wikipedia.org/wiki/%EC%97%98_%EC%BD%94%EB%A5%B4%ED%85%8C_%EC%9E%89%EA%B8%80%EB%A0%88%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/El_Corte_Ingl%C3%A9s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q623133",
+   "country": "스페인",
+   "inception": "1940",
+   "headquarters": "Calle de Hermosilla",
+   "founders": [
+    "Ramón Areces",
+    "César Rodríguez González"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「El Corte Inglés」 본문과 위키데이터 Q623133 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

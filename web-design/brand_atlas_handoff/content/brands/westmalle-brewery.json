@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1144830",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "westmalle-brewery",
+  "urlSlug": "westmalle-brewery",
+  "name": "베스트말레 브루어리",
+  "nameKo": "베스트말레 브루어리",
+  "nameEn": "Westmalle Brewery",
+  "definition": "베스트말레 브루어리(Westmalle Brewery)는 벨기에 Westmalle Abbey 안에 있는 트라피스트 양조장이다. International Trappist Association이 트라피스트 맥주로 지정한 맥주 세 종을 생산한다.",
+  "summary": "베스트말레 브루어리(Westmalle Brewery)는 벨기에 Westmalle Abbey 안에 있는 트라피스트 양조장이다. International Trappist Association이 트라피스트 맥주로 지정한 맥주 세 종을 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1934년 Tripel이라는 이름을 처음 쓴 것으로 평가받는 Westmalle Abbey의 트라피스트 양조장이다. 수도원 안에서 우유와 치즈도 함께 생산한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "정식 명칭이 Brouwerij der Trappisten van Westmalle인 이 양조장은 벨기에 Westmalle Abbey에서 트라피스트 맥주를 만든다. 수도원은 1794년 6월 6일에 세워졌고 1836년 4월 22일 트라피스트 수도원의 지위에 올랐으며, 같은 해 8월 1일 첫 맥주를 양조했다. 정기적으로 세 종의 맥주를 생산하고, 때때로 한정판 맥주를 추가로 내놓는다. Westmalle Tripel은 Tripel이라는 용어를 쓴 최초의 골든 스트롱 페일 에일로 평가받는다. 연간 생산량은 2004년 기준 120,000 hl였다. 양조장 일손의 다수는 더 이상 수도사가 아니라 외부에서 온 일반 직원이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "수도원은 1794년 6월 6일에 세워졌고, 1836년 4월 22일 트라피스트 수도원의 지위로 올랐다. 초대 수도원장 Martinus Dom이 수도원에서 직접 맥주를 양조하기로 결정했고, 첫 맥주는 1836년 8월 1일 양조되어 12월 10일 처음 마셨다. 초기 양조자는 Father Bonaventura Hermans와 Albericus Kemps였으며, 첫 맥주는 알코올이 낮고 다소 달았다고 전한다. 1856년에는 진한 갈색 맥주가 추가되었고, 이 맥주는 오늘날 최초의 dubbel로 여겨진다. 양조장은 1865년에 확장·재건되었고 1933년에 새 양조장이 지어졌으며, 1934년에는 9.5% abv의 스트롱 페일 에일에 Tripel이라는 이름을 붙였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "정기 생산 맥주 중 Westmalle Dubbel은 보라색 라벨이 붙은 7% abv의 Dubbel이다. Westmalle Tripel은 노란색 라벨의 9.5% abv tripel로 1934년에 처음 양조되었고, 레시피는 1956년 이후 바뀌지 않았다. 옅은 색의 pilsener 맥아와 pale candy sugar로 만들며, Styrian Goldings와 독일산 홉, 클래식 Saaz 홉을 사용한다. Westmalle Extra는 파란색 라벨의 5% abv patersbier로, 수도사들이 일하는 낮 시간에 마시는 맥주이다. 수도원은 맥주 외에 우유와 치즈도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "양조장에는 수도사 22명과 외부 직원 40명이 있다. 1991년 개조 이후 병입 능력은 시간당 45,000병이다. 2025년 3월부터 Tripel 60%와 Extra 40%를 섞은 Duo를 약 5,000 barrels 규모의 한정판으로 양조했다. Duo의 알코올 도수는 7.2%이며 일부 선별된 카페에만 유통된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1934년 Tripel이라는 이름을 처음 쓴 것으로 평가받는 Westmalle Abbey의 트라피스트 양조장이다. 수도원 안에서 우유와 치즈도 함께 생산한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.trappistwestmalle.be/",
+  "entityLinks": {
+   "wikidata": "Q1144830",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1144830",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A7%90%EB%A0%88_%EB%B8%8C%EB%A3%A8%EC%96%B4%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Westmalle_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1144830",
+   "country": "벨기에",
+   "inception": "1836",
+   "headquarters": "Malle",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Westmalle Brewery」 본문과 위키데이터 Q1144830 팩트를 근거로 편집"
+ }
+}

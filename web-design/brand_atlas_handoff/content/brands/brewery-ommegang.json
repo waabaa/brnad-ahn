@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2425707",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brewery-ommegang",
+  "urlSlug": "brewery-ommegang",
+  "name": "Brewery Ommegang",
+  "nameKo": "",
+  "nameEn": "Brewery Ommegang",
+  "definition": "Brewery Ommegang은 미국 뉴욕주 쿠퍼스타운 인근에 있는 양조장이다. 벨기에 스타일 에일을 전문으로 하며 1997년부터 맥주를 양조했고, 모기업은 Duvel Moortgat Brewery이다.",
+  "summary": "Brewery Ommegang은 미국 뉴욕주 쿠퍼스타운 인근에 있는 양조장이다. 벨기에 스타일 에일을 전문으로 하며 1997년부터 맥주를 양조했고, 모기업은 Duvel Moortgat Brewery이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에 스타일 에일에 집중하며 전통 벨기에 농가를 본뜬 건물에서 양조하는 뉴욕주의 양조장으로, 벨기에 양조사 Duvel Moortgat Brewery가 모기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 1997년에 양조를 시작했으며, 미국 뉴욕주 쿠퍼스타운 인근에서 벨기에 스타일 에일을 전문으로 만든다. 상시 생산하는 에일은 여섯 종이며 Ommegang Abbey Ale, Hennepin Farmhouse Saison, Rare Vos Amber Ale, Ommegang Witte Ale, Three Philosophers, Neon Rainbows가 있다. 맥주는 알래스카와 하와이를 포함한 46개 주와 워싱턴 D.C.에 유통된다. 캐나다, 미국령 버진아일랜드, 멕시코로도 수출하며 2018년 9월 기준으로 프랑스 수출도 시작했다. 매년 여름 Belgium Comes to Cooperstown이라는 대규모 맥주 시음 행사를 연다. 모기업은 벨기에 양조사 Duvel Moortgat Brewery이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1997년 Don Feinberg와 Wendy Littlefield가 세웠으며, 이들은 맥주 수입회사 Vanberg & DeWulf와 Duvel Moortgat를 포함한 벨기에 양조장 세 곳의 소유주였다. 양조장은 전통 벨기에 농가를 본뜬 전용 건물로, 쿠퍼스타운 남쪽 밀퍼드 마을의 옛 홉 농장 부지에 들어섰다. 개장 이후 빠르게 성장해 2005년 초에는 수요를 맞추지 못해 이듬해까지 생산 능력을 40퍼센트 늘리겠다고 밝혔다. 2003년 Feinberg와 Littlefield는 지분을 Duvel Moortgat Brewery에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "상시 생산하는 에일은 여섯 종이다. Ommegang Abbey Ale은 벨기에식 애비 더블이고, Hennepin Farmhouse Saison은 미국 최초의 세종으로 소개된다. Rare Vos Amber Ale은 카페 스타일 앰버 에일, Ommegang Witte Ale은 벨기에식 밀 에일이다. Three Philosophers는 벨기에산 크릭을 섞은 벨기에식 쿼드루펠이고, Neon Rainbows는 뉴잉글랜드 스타일 인디아 페일 에일이다. 이 밖에 해마다 한정판 맥주를 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2003년 지분을 사들인 Duvel Moortgat Brewery가 모기업이다. Duvel Moortgat는 2006년 수요를 맞추기 위해 한정된 양의 맥주를 Ommegang용으로 양조했으나 그 뒤로는 양조하지 않았다. 2018년 9월 기준으로 프랑스 수출을 시작했다. 매년 7월이나 8월의 토요일에 Belgium Comes to Cooperstown 행사를 연다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에 스타일 에일에 집중하며 전통 벨기에 농가를 본뜬 건물에서 양조하는 뉴욕주의 양조장으로, 벨기에 양조사 Duvel Moortgat Brewery가 모기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ommegang.com/",
+  "entityLinks": {
+   "wikidata": "Q2425707",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2425707",
+    "https://en.wikipedia.org/wiki/Brewery_Ommegang"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2425707",
+   "country": "미국",
+   "inception": "1997",
+   "headquarters": "Cooperstown",
+   "founders": [],
+   "parent": "Duvel Moortgat Brewery",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brewery Ommegang」 본문과 위키데이터 Q2425707 팩트를 근거로 편집"
+ }
+}

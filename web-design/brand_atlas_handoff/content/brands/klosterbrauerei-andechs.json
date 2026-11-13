@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1776382",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/klosterbrauerei-andechs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "klosterbrauerei-andechs",
+  "urlSlug": "klosterbrauerei-andechs",
+  "name": "Klosterbrauerei Andechs",
+  "nameKo": "",
+  "nameEn": "Klosterbrauerei Andechs",
+  "definition": "Klosterbrauerei Andechs는 독일 오버바이에른의 Andechs에 있는 수도원 양조장이다. Andechser 맥주로 잘 알려져 있으며, Andechs 수도원의 수도사들이 운영한다.",
+  "summary": "Klosterbrauerei Andechs는 독일 오버바이에른의 Andechs에 있는 수도원 양조장이다. Andechser 맥주로 잘 알려져 있으며, Andechs 수도원의 수도사들이 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "수도사들이 직접 운영하며 독일에서 보크 맥주를 연중 양조해 전국에 유통하는 유일한 수도원 양조장이다. 수익으로 수도사들의 활동을 충당한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 Andechser 맥주로 잘 알려진 수도원 양조장이다. Andechs 수도원의 수도사들이 운영하며, 이 수도원은 뮌헨에서 40km 떨어진 베네딕토회 St. Boniface's Abbey의 소수도원이다. 독일에서 보크 맥주를 연중 양조해 전국에 유통하는 유일한 수도원 양조장이다. 해마다 100,000헥토리터 이상의 맥주를 생산한다. 일부는 수도원의 식당 겸 비어가르텐인 Klostergasthof Andechs에서 제공하고, 나머지는 독일 전역과 해외로 수출한다. 뮌헨 노숙인 지원 같은 수도사들의 활동은 양조장 수익으로 충당하며 교회세 자금은 쓰지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Andechs 수도원에서 맥주를 양조했다는 가장 오래된 문헌상 기록은 1455년으로 거슬러 올라간다. 이후 베네딕토회 수도사들이 양조 전통을 이어 왔다. 1906년 현지에 7층 규모의 맥아 제조 건물을 지었고, 1950년 첫 병입 시설을 추가했다. 1972년 수도원은 산기슭에 별도의 양조 시설을 만들기로 결정했고 1974년 이를 완공했으며, 1983년 새 양조 건물이 이어졌다. 2006년 발효·저장 시설을 확장하고 2007년 양조 설비를 개수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Andechser 맥주는 Andechs에서만 전통적인 다단계 매싱 방식으로 양조하며, 쓴맛 홉은 쓰지 않고 향 홉만 사용한다. 가장 잘 알려진 맥주는 Doppelbock Dunkel로, 원맥즙 농도 18.5%(18.5° Plato, 원비중 1.076)에 알코올 도수 7% 이상이다. 이 밖에 Helles, Spezial Hell, Bergbock Hell, Export Dunkel, Hefeweizen, Dunkelweizen을 생산한다. 보크 맥주는 연중 양조해 독일 전역에 유통한다. 수도원 안의 Klostergasthof Andechs에서는 식당과 비어가르텐을 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 양조장은 Andechs 수도원의 수도사들이 운영한다. 해마다 100,000헥토리터 이상의 맥주를 생산하며, 일부는 현지에서 제공하고 나머지는 독일 전역과 해외로 수출한다. 독일에서 보크 맥주를 연중 양조해 전국에 유통하는 유일한 수도원 양조장이라는 위치를 갖고 있다. 수도사들의 활동은 양조장 수익으로 재원을 마련한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수도사들이 직접 운영하며 독일에서 보크 맥주를 연중 양조해 전국에 유통하는 유일한 수도원 양조장이다. 수익으로 수도사들의 활동을 충당한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.andechs.de/brauerei",
+  "entityLinks": {
+   "wikidata": "Q1776382",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1776382",
+    "https://en.wikipedia.org/wiki/Klosterbrauerei_Andechs"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1776382",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "Andechs",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Klosterbrauerei Andechs」 본문과 위키데이터 Q1776382 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

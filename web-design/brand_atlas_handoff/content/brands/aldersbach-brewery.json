@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q900099",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "aldersbach-brewery",
+  "urlSlug": "aldersbach-brewery",
+  "name": "Aldersbach brewery",
+  "nameKo": "",
+  "nameEn": "Aldersbach brewery",
+  "definition": "Aldersbach brewery는 독일 바이에른 니더바이에른의 Aldersbach에 있는 중규모 전통 양조장이다. 1268년 문서에 기록되어 세계에서 가장 오래된 양조장 중 하나로 꼽힌다.",
+  "summary": "Aldersbach brewery는 독일 바이에른 니더바이에른의 Aldersbach에 있는 중규모 전통 양조장이다. 1268년 문서에 기록되어 세계에서 가장 오래된 양조장 중 하나로 꼽힌다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1146년 설립된 수도원에서 비롯되어 1268년 문서에 기록된 양조장으로, 지금도 von Aretin 가문이 소유하고 있다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Aldersbach brewery는 독일 니더바이에른의 Aldersbach에 있는 전통 중규모 양조장이다. Dunkel, Helles, Pilsner 같은 맥주와 계절 한정 Bock, Pale lager를 생산한다. 양조장의 기원은 1146년 Ebrach 수도사들이 세운 Aldersbach Abbey로 거슬러 올라가며, 1268년 Count Albert von Hals의 중재 문서에 양조장이 기록되었다. 이로 인해 세계에서 가장 오래된 양조장 중 하나로 평가된다. 현재는 von Aretin 가문이 소유하며 오늘날 바이에른에서 가장 성공한 양조장 중 하나이다. 2016년에는 Bavarian Brewers Association과 Bavarian State Beer Exhibition에서 상을 받았고, 2018년에는 창립 750주년을 기념했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1146년 Ebrach의 수도사들이 Passau 인근 Klosterwinkel 지역에 Aldersbach Abbey를 세웠고, 이곳은 짧은 시간에 경제·문화·영적 중심지로 성장했다. 수도원 설립 직후 수도사들이 맥주를 양조하기 시작했으며, 1268년 Count Albert von Hals의 중재 문서에 양조장이 기록되었다. 1734년에는 맥주 소비 증가로 새 양조장 건물을 지었고, 1780년에는 새 맥주 저장고를 만들었다. 1803년 수도원이 해산되면서 양조장은 Passau의 양조업자에게 팔렸고, 1811년 Johann Adam von Aretin이 인수했다. 19세기에 인근의 작은 양조장들을 사들였고, 제1차 세계대전 이후와 1950~60년대에도 Gossersdorf, Konzell, Lam의 양조장 등을 추가로 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Dunkel, Helles, Pilsner 등의 맥주이며, 계절 한정으로 Bock과 Pale lager도 생산한다. 2020년 기준 제품 구성은 맥주와 청량음료이다. 2008년 여름 Passau의 Peschl Brewery 상당 부분을 인수한 뒤 Peschl-Bräu의 기존 고객에게 음료를 공급하고 있다. 양조장 부설 Aldersbacher Bräustüberl은 간식을 직접 가져올 수 있는 곳으로 특히 잘 알려져 있다. 1734년에 새로 지은 양조장 건물에는 현재 양조장 박물관이 들어서 있으며, 2016년 바이에른 주 전시 \"Beer in Bavaria\"에서는 역사적 구역과 현대적 양조 구역을 모두 관람할 수 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 1월 1일부터 GmbH & Co KG 형태로 운영되며, 여전히 von Aretin 가문이 소유하고 있다. 오늘날 바이에른에서 가장 성공한 양조장 중 하나로 꼽힌다. 2016년에는 Bavarian Brewers Association과 Bavarian Hotel and Restaurant Association으로부터 Golden Beer Idea 상을, Bavarian State Beer Exhibition으로부터 House of Bavarian History 상을 받았다. 2018년에는 창립 750주년을 맞았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1146년 설립된 수도원에서 비롯되어 1268년 문서에 기록된 양조장으로, 지금도 von Aretin 가문이 소유하고 있다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.aldersbacher.de",
+  "entityLinks": {
+   "wikidata": "Q900099",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900099",
+    "https://en.wikipedia.org/wiki/Aldersbach_brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900099",
+   "country": "독일",
+   "inception": "1268",
+   "headquarters": "Aldersbach",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Aldersbach brewery」 본문과 위키데이터 Q900099 팩트를 근거로 편집"
+ }
+}

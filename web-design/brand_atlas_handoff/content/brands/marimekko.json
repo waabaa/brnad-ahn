@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q534903",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/marimekko-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "marimekko",
+  "urlSlug": "marimekko",
+  "name": "마리메꼬",
+  "nameKo": "마리메꼬",
+  "nameEn": "Marimekko",
+  "definition": "마리메꼬(Marimekko)는 1951년 헬싱키에서 설립된 핀란드의 텍스타일·의류·홈 퍼니싱 기업이다. 선명한 색상의 프린트 직물과 단순한 스타일로 알려져 있다.",
+  "summary": "마리메꼬(Marimekko)는 1951년 헬싱키에서 설립된 핀란드의 텍스타일·의류·홈 퍼니싱 기업이다. 선명한 색상의 프린트 직물과 단순한 스타일로 알려져 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "밝은 색상의 대담한 프린트와 단순한 스타일을 직물에서 의류, 홈 퍼니싱까지 적용한 핀란드 브랜드이다. 양귀비 프린트 Unikko로 대표된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마리메꼬는 핀란드의 텍스타일, 의류, 홈 퍼니싱 기업이다. 밝은 색상의 프린트 직물과 단순한 스타일로 알려져 있으며, 이는 여성복과 홈 퍼니싱 모두에 쓰인다. 1960년대 패션 분야에 중요한 기여를 했다. 디자이너 Vuokko Nurmesniemi와 Maija Isola가 수백 가지의 독특한 패턴을 만들었고, 이를 통해 마리메꼬는 전 세계에 널리 알려진 이름이 되었다. 대표적인 패턴으로는 Isola가 디자인한 양귀비 프린트 Unikko가 있으며, 초기 디자인 상당수는 2010년대에도 계속 생산되고 있다. 제품은 중국, 인도, 태국, 포르투갈, 리투아니아 등에서 만들어지고, 직물은 헬싱키의 자체 텍스타일 공장에서 인쇄된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1951년 Viljo Ratia와 Armi Ratia 부부가 헬싱키에서 마리메꼬를 설립했다. Viljo의 유포 공장 계획이 실패해 의류 공장으로 전환된 것이 계기였다. Armi는 예술가 친구들에게 직물에 그래픽 디자인을 적용해 달라고 요청했고, 회사는 그 직물로 만든 단순한 드레스를 판매했다. 1960년대에 미국으로 확산되었으며, 건축가 Benjamin C. Thompson이 자신의 Design Research 매장에서 소개했다. 1965년에는 직원이 400명을 넘었고, 직물에서 장난감, 식기에 이르기까지 폭넓은 디자인을 다뤘다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "마리메꼬의 사업은 직물, 여성복, 홈 퍼니싱으로 구성된다. 1956년 Vuokko Nurmesniemi가 디자인한 빨강·흰색 줄무늬의 Jokapoika 셔츠가 초기 대표작이다. 1964년 Maija Isola가 디자인한 Unikko는 양귀비 프린트 패턴으로, 마리메꼬를 상징하는 디자인이다. 1960년대 중반에는 장난감과 식기까지 영역을 넓혔고, 작은 집 전체를 가구와 비품으로 채우기도 했다. 2021년에는 창립 70주년을 맞아 책 Marimekko: The Art of Printmaking을 출간했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1985년 Amer-yhtymä에 매각되었고, 1990년대 초 재정 상태가 나빠 파산 직전에 이르렀다. 이후 Kirsti Paakkanen이 Amer로부터 인수해 새로운 경영 방식을 도입하며 인기를 되살렸다. 2005년 매출은 인수 이후 4배, 순이익은 200배로 늘었다. 2007년 Paakkanen은 소유권을 Mika Ihamuotila에게 점진적으로 넘기겠다고 밝혔고, 2011년에는 전 세계에 84개 매장이 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "밝은 색상의 대담한 프린트와 단순한 스타일을 직물에서 의류, 홈 퍼니싱까지 적용한 핀란드 브랜드이다. 양귀비 프린트 Unikko로 대표된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.marimekko.com/",
+  "entityLinks": {
+   "wikidata": "Q534903",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q534903",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A6%AC%EB%A9%94%EA%BC%AC",
+    "https://en.wikipedia.org/wiki/Marimekko"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q534903",
+   "country": "핀란드",
+   "inception": "1951",
+   "headquarters": "헬싱키",
+   "founders": [
+    "Armi Ratia",
+    "Riitta Immonen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Marimekko」 본문과 위키데이터 Q534903 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

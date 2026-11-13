@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1942919",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "mohren-brewery",
+  "urlSlug": "mohren-brewery",
+  "name": "Mohren-Brewery",
+  "nameKo": "",
+  "nameEn": "Mohren-Brewery",
+  "definition": "Mohren-Brewery는 오스트리아 포어아를베르크주의 도른비른에 있는 양조장이다. 포어아를베르크주에서 가장 오래된 양조장으로, 1834년부터 Huber 가문이 소유해 왔다.",
+  "summary": "Mohren-Brewery는 오스트리아 포어아를베르크주의 도른비른에 있는 양조장이다. 포어아를베르크주에서 가장 오래된 양조장으로, 1834년부터 Huber 가문이 소유해 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "포어아를베르크주에서 가장 오래된 양조장으로, 1834년부터 이어진 Huber 가문의 소유와 무어인 머리 로고를 둘러싼 논쟁이 이 브랜드를 특징짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mohren-Brewery는 오스트리아 포어아를베르크주 도른비른에 본사를 둔 양조장으로, 법인명은 Mohrenbrauerei Vertriebs KG이다. 포어아를베르크주에서 가장 오래된 양조장이며, 1834년 Huber 가문이 여관과 양조장을 인수한 뒤 줄곧 가족 소유로 이어지고 있다. 2013년 외식업과 소매 부문을 합친 시장점유율은 47.2퍼센트로, 포어아를베르크주의 양조장 네 곳 가운데 시장 선두였다. 본사에는 양조 역사를 소개하는 박물관 Mohren Biererlebniswelt가 있다. 한편 로고에 쓰인 무어인 머리 문양은 인종차별적 고정관념을 재현한다는 비판을 받아 왔다. 양조장 측은 거의 200년 동안 이 로고를 써 왔고 문양이 성 마우리티우스의 초기 묘사에 바탕을 둔다고 설명한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "현재 양조장의 기원은 여관 겸 양조장 'Zum Mohren'이며, 영업 허가는 주인 Josef Mohr에게 있었다. 'Mohrenwirt'라는 새 이름에 관한 가장 오래된 기록은 1784년으로 거슬러 올라간다. 1834년 Dornbirn-Markt의 상인이자 자물쇠 장인이던 Franz Anton Huber가 Hohenems의 농부에게서 여관과 부지, 딸린 양조장을 사들였고, 이후 양조장은 가족 소유로 이어졌다. 세기 전환기에는 동슐레지엔 출신 양조 장인 Anton Decker 아래에서 연간 30,000 hl의 맥주를 생산했다. 제2차 세계대전이 끝난 뒤 수요가 줄어 생산을 멈췄고, 양조장은 한때 병영으로 쓰였으며 1951년경에야 회복했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Mohren-Brewery는 맥주를 비롯한 음료를 생산하며, 2012년 음료 생산량은 연 222,911 hl였다. 생산한 제품은 외식업과 소매 부문에 공급되며, 이 두 부문을 합친 2013년 시장점유율은 47.2퍼센트였다. 양조장 본사에는 맥주 양조의 역사와 양조 기술 전반을 다루는 박물관 Mohren Biererlebniswelt가 있으며, 2016년 10월 22일 문을 열었다. 전시품은 약 10,000점으로, 맥주 받침 같은 작은 물건부터 옛 여관 'Zum Mohren' 정면의 복제물, 19세기의 양조장까지 다양하다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재도 Huber 가문이 공동 소유주로 남아 있으며, 양조장은 1834년 이래 가족 소유이다. 연간 음료 생산량은 2012년 222,911 hl에서 2019년 180,000으로 줄었다. 2020년 인종차별에 대한 인식이 높아지면서 상호와 로고를 둘러싼 논쟁이 다시 불붙었고, 로고 유지를 요구하는 청원에 6,000명이 넘게 서명했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "포어아를베르크주에서 가장 오래된 양조장으로, 1834년부터 이어진 Huber 가문의 소유와 무어인 머리 로고를 둘러싼 논쟁이 이 브랜드를 특징짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mohrenbrauerei.at",
+  "entityLinks": {
+   "wikidata": "Q1942919",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1942919",
+    "https://en.wikipedia.org/wiki/Mohrenbrauerei"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1942919",
+   "country": "오스트리아",
+   "inception": "1834",
+   "headquarters": "도른비른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Mohrenbrauerei」 본문과 위키데이터 Q1942919 팩트를 근거로 편집"
+ }
+}

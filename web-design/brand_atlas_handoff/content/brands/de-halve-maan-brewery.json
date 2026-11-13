@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1179933",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "de-halve-maan-brewery",
+  "urlSlug": "de-halve-maan-brewery",
+  "name": "De Halve Maan brewery",
+  "nameKo": "",
+  "nameEn": "De Halve Maan brewery",
+  "definition": "De Halve Maan은 벨기에 브뤼허에 있는 맥주 양조장이다. Brugse Zot, Straffe Hendrik, Blanche de Bruges 등의 맥주를 만들며, 현재의 양조장은 1856년부터 운영되어 왔다.",
+  "summary": "De Halve Maan은 벨기에 브뤼허에 있는 맥주 양조장이다. Brugse Zot, Straffe Hendrik, Blanche de Bruges 등의 맥주를 만들며, 현재의 양조장은 1856년부터 운영되어 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "5대에 걸쳐 같은 가문이 이어 온 브뤼허의 양조장으로, 병입 시설까지 이어지는 맥주 파이프라인을 둔 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "De Halve Maan brewery는 벨기에 브뤼허에 있는 맥주 양조장으로, 이름은 영어로 The Half Moon에 해당한다. Brugse Zot('브뤼허의 바보')와 Straffe Hendrik('강한 앙리'), Blanche de Bruges 또는 Brugs Tarwebier 등의 맥주를 양조한다. 이 양조장 자리에서는 약 500년 동안 맥주가 만들어졌고, 현재의 양조장은 1856년부터 운영되어 왔다. 양조장은 5대에 걸쳐 같은 가문이 이어 왔다. Straffe Hendrik과 Blanche de Bruges 브랜드는 다른 양조장에 넘어갔다가 최근 되사들였으며, 생산을 브뤼허로 되돌리고 있다. 2016년에는 양조장에서 병입 시설까지 이어지는 맥주 파이프라인을 완공했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "벨기에 브뤼허에 있는 De Halve Maan의 양조장 자리에서는 약 500년 동안 맥주가 양조되어 왔다. 현재의 양조장은 1856년부터 운영되어 왔으며, 같은 가문이 5대에 걸쳐 이어 온 곳이다. 이 양조장은 1990년대 말까지 Henri Maes라는 이름으로 불렸으며, 그 뒤 현재의 이름이 되었다. 제2차 세계대전 이후 Henri Maes 양조장은 고객에게 말을 이용한 가정 배달을 제공했고, 이후에는 트럭으로 배달했다. 이후 양조장은 De Halve Maan이라는 이름으로 Brugse Zot 등의 맥주를 만들고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 맥주는 Brugse Zot('브뤼허의 바보')와 Straffe Hendrik('강한 앙리')이다. Blanche de Bruges, 다른 이름으로 Brugs Tarwebier도 이 양조장의 맥주이며, 이 밖에도 여러 맥주를 만든다. Straffe Hendrik과 Blanche de Bruges 브랜드는 한때 다른 양조장에 판매되었다. De Halve Maan은 이 브랜드들을 최근 다시 사들였고 생산을 브뤼허로 되돌리고 있다. 브랜드 구성은 Brugse Zot, Straffe Hendrik, Blanche de Bruges를 중심으로 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 De Halve Maan은 양조장에서 병입 시설까지 이어지는 길이 3,276미터의 맥주 파이프라인을 완공했다. 브뤼허의 좁은 자갈길로 트럭을 보내지 않기 위해서였다. 파이프라인은 가장 깊은 곳에서 지표 아래 34미터를 지나며, 일부는 크라우드소싱으로 마련되어 참여자는 양조장에서 무료 맥주를 받았다. 또한 다른 양조장에 넘어갔던 두 브랜드를 되사들였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "5대에 걸쳐 같은 가문이 이어 온 브뤼허의 양조장으로, 병입 시설까지 이어지는 맥주 파이프라인을 둔 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.halvemaan.be/",
+  "entityLinks": {
+   "wikidata": "Q1179933",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1179933",
+    "https://en.wikipedia.org/wiki/De_Halve_Maan"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1179933",
+   "country": "벨기에",
+   "inception": "1856",
+   "headquarters": "브뤼허",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「De Halve Maan」 본문과 위키데이터 Q1179933 팩트를 근거로 편집"
+ }
+}

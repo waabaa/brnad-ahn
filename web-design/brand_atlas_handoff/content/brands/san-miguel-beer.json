@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q861566",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/san-miguel-beer-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "san-miguel-beer",
+  "urlSlug": "san-miguel-beer",
+  "name": "산 미구엘 맥주",
+  "nameKo": "산 미구엘 맥주",
+  "nameEn": "San Miguel beer",
+  "definition": "산 미구엘 맥주(San Miguel beer)는 필리핀의 페일 라거 맥주인 San Miguel Pale Pilsen을 가리키며, San Miguel Brewery의 대표 맥주이다. 필리핀과 홍콩에서 가장 많이 팔리는 맥주이다.",
+  "summary": "산 미구엘 맥주(San Miguel beer)는 필리핀의 페일 라거 맥주인 San Miguel Pale Pilsen을 가리키며, San Miguel Brewery의 대표 맥주이다. 필리핀과 홍콩에서 가장 많이 팔리는 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "필리핀을 대표하는 페일 필젠 맥주로, 마닐라의 옛 문장에서 따온 escudo를 상표로 쓰며 필리핀과 홍콩에서 가장 많이 팔린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "산 미구엘 맥주는 필리핀의 페일 라거인 San Miguel Pale Pilsen을 뜻하며, San Miguel Brewery의 대표 맥주이다. 필리핀과 홍콩에서 가장 많이 팔리며, 중화권에서는 生力啤酒(Shēng lì píjiǔ)로 알려져 있다. 제품은 \"San Miguel\" 상표와 \"San Mig\" 상표로 나뉘며, 도수 5%의 기본 제품 외에 라이트 제품과 무알코올 제품 등이 있다. 상표에 쓰이는 문장인 escudo는 마닐라의 스페인 시대 원래 문장을 바탕으로 한다. 스페인에서는 1946년 San Miguel Brewery가 이 맥주를 소개했다. San Miguel Brewery는 2007년 분사되어 San Miguel Food and Beverage의 자회사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "원래의 San Miguel Brewery, Inc.는 1890년 Enrique María Barreto가 마닐라의 산 미구엘에서 La Fábrica de Cerveza San Miguel이라는 이름으로 세웠다. 이는 필리핀에서의 맥주 양조를 공식적으로 허가한 스페인 왕실 특허에 따른 것이었다. 이후 Pedro Pablo Roxas가 경영 파트너로 합류했고, 독일인 양조 책임자 Ludwig Kiene을 기술 책임자로 데려왔다. 1964년 San Miguel Corporation으로 이름이 바뀌었고, 양조 부문은 2007년 분사되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "San Miguel 상표로는 San Miguel Pale Pilsen(5%), San Miguel Premium All-Malt Beer(5%), San Miguel Super Dry(5%), San Miguel Flavored Beer(3%), Cerveza Negra(5%), Red Horse Beer(6.9%)가 있다. 괄호 안 수치는 알코올 도수(ABV)이다. \"San Mig\" 상표로는 San Mig Light, San Mig Strong Ice(6.3%), San Mig Zero(3%), San Mig Free 0.0(0.04%)이 있다. San Mig Zero의 Zero는 알코올이 아니라 당분이 없다는 뜻이며, 무알코올 맥주는 San Mig Free 0.0이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "San Miguel Brewery는 San Miguel Food and Beverage의 자회사이다. 스페인 판권은 1953년 분리되어 독립 법인이 되었고, 현재는 Mahou-San Miguel Group으로 불린다. 2014년 2월 San Miguel Corporation과 Mahou-San Miguel은 San Miguel Beer를 함께 알리고 세계 시장을 넓히기 위한 협력 계약을 맺었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "필리핀을 대표하는 페일 필젠 맥주로, 마닐라의 옛 문장에서 따온 escudo를 상표로 쓰며 필리핀과 홍콩에서 가장 많이 팔린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sanmiguel.com.ph/",
+  "entityLinks": {
+   "wikidata": "Q861566",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q861566",
+    "https://ko.wikipedia.org/wiki/%EC%82%B0%EB%AF%B8%EA%B2%94_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/San_Miguel_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q861566",
+   "country": "필리핀",
+   "inception": "1957",
+   "headquarters": "만달루용",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「San Miguel Beer」 본문과 위키데이터 Q861566 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

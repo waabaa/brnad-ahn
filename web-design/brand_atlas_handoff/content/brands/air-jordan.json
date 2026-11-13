@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q420953",
+ "demand": {
+  "why": "국외",
+  "naver": 0.008,
+  "koViews": 131,
+  "enViews": 77828,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/air-jordan-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "air-jordan",
+  "urlSlug": "air-jordan",
+  "name": "에어 조던",
+  "nameKo": "에어 조던",
+  "nameEn": "Air Jordan",
+  "definition": "에어 조던(Air Jordan)은 스포츠 용품업체 나이키에서 발매하는 농구 운동화 브랜드이다. 에어 쿠션 기술을 이용한 운동화 시리즈이며, NBA 선수 마이클 조던과의 협업을 뜻한다.",
+  "summary": "에어 조던(Air Jordan)은 스포츠 용품업체 나이키에서 발매하는 농구 운동화 브랜드이다. 에어 쿠션 기술을 이용한 운동화 시리즈이며, NBA 선수 마이클 조던과의 협업을 뜻한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "마이클 조던과의 협업으로 시작한 나이키의 농구 운동화 브랜드로, 현재는 나이키 산하의 독립 브랜드인 조던 브랜드를 통해 발매된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에어 조던은 나이키가 발매하는 농구 운동화 브랜드로, 에어는 에어 쿠션 기술을, 조던은 NBA 선수 마이클 조던과의 협업을 의미한다. 원래 농구 운동화로 발매되었으나 NBA와 농구의 인기, 마이클 조던 본인의 인기, 거리 농구와 스트리트 패션의 유행에 따라 농구 선수와 관계없이 히트 상품이 되었다. 마이클 조던을 위한, 그리고 마이클 조던이 보증하는 신발 및 의류 브랜드이다. 과거에는 나이키의 브랜드였으나, 현재는 조던 브랜드가 나이키 산하의 독립 브랜드로 분화되어 조던 브랜드를 통해 발매되고 있다. 시리즈는 매년 새로운 디자인으로 발매되며, 조던이 NBA에서 은퇴한 후에도 계속 발매되고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "에어 조던 시리즈는 1984년 나이키에서 처음 발매되었다. 시리즈 목록에 따르면 첫 모델인 에어 조던 I은 1984-85 시즌 제품으로 1985년 3월에 65달러에 발매되었다. 에어 조던 II는 1986년 11월에 100달러로 나왔고, 에어 조던 III는 1988년 2월, 에어 조던 IV는 1989년 2월에 각각 100달러로 발매되었다. 이후 매년 새로운 디자인이 발매되어 목록에는 XXXI까지 올라 있으며, 이 모델은 2016년 8월에 185달러로 발매되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에어 조던의 중심 제품은 에어 조던 넘버링 시리즈와 팀 조던 시그니처 모델이다. 농구화를 필두로 야구화, 트레이닝화, 런닝화 등 다양한 신발과 의류, 용품도 출시되고 있다. 이들 제품은 기존 조던 넘버링 모델에서 일부 요소나 컨셉을 따오는 경우가 많다. 넘버링 시리즈는 에어 조던 I부터 에어 조던 XXXI까지 목록에 올라 있으며, 다양한 콜라보 모델도 많다. 발매가는 에어 조던 I의 65달러에서 에어 조던 XXXI의 185달러까지 모델마다 다르다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재는 조던 브랜드가 나이키 산하의 독립 브랜드로 분화되어 조던 브랜드를 통해 제품이 발매되고 있다. 넘버링 시리즈는 매년 새로운 디자인으로 발매되고 있다. 조던 브랜드는 팀 조던으로 운동 선수들을 후원하며 선수들의 시그니처 상품도 발매하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "마이클 조던과의 협업으로 시작한 나이키의 농구 운동화 브랜드로, 현재는 나이키 산하의 독립 브랜드인 조던 브랜드를 통해 발매된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.nike.com/jordan",
+  "entityLinks": {
+   "wikidata": "Q420953",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q420953",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EC%A1%B0%EB%8D%98",
+    "https://en.wikipedia.org/wiki/Air_Jordan"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q420953",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「에어 조던」 요약과 위키데이터 Q420953 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

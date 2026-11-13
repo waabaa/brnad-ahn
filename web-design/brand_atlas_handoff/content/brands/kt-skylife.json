@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q624648",
+ "demand": {
+  "why": "국내",
+  "naver": 0.07,
+  "koViews": 1302,
+  "enViews": 759,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/kt-skylife-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kt-skylife",
+  "urlSlug": "kt-skylife",
+  "name": "KT스카이라이프",
+  "nameKo": "KT스카이라이프",
+  "nameEn": "KT Skylife",
+  "definition": "KT스카이라이프(KT Skylife)는 KT의 자회사로 서울특별시 마포구 상암동에 본사를 둔 디지털 위성방송 사업자이다. 무궁화 위성을 통해 한반도 전역에 디지털 방송 신호를 송출한다.",
+  "summary": "KT스카이라이프(KT Skylife)는 KT의 자회사로 서울특별시 마포구 상암동에 본사를 둔 디지털 위성방송 사업자이다. 무궁화 위성을 통해 한반도 전역에 디지털 방송 신호를 송출한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "위성 신호로 전국에 디지털 방송을 송출하는 KT 자회사로, 위성방송에 IPTV 서비스를 결합한 ipit TV까지 선보인 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "방송법에 근거한 디지털 위성방송 사업자이며, 모기업은 KT이다. 서울특별시 마포구 상암동에 본사를 두고 2002년 3월 1일 정식 출범했다. 무궁화 위성으로 한반도 전역에 100% 디지털 방송 신호를 송출하여, 케이블TV 서비스가 어려운 산간 벽지와 도서 지역의 난시청 해소에 도움을 준다. 수신 제한 시스템을 바탕으로 시청 등급과 채널 단위로 비밀번호를 설정하는 키즈 케어 및 안심 채널 서비스를 구현하고 있다. 2013년 12월부터 충청남도 금산의 주송신국과 경기도 용인의 부송신국을 이중화하여 운용하며 위성 가용률을 99.99%까지 끌어올렸다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2000년 12월 19일 위성방송 사업자로 KDB 컨소시엄이 선정되었다. 2001년 1월 12일 한국디지털위성방송 주식회사로 법인 설립등기를 했고 3월 30일 회사를 창립했다. 2002년 3월 1일 본방송을 개시했으며, 2003년 9월 29일에는 HD 텔레비전 본방송을 개시했다. 2005년 2월 22일 지상파 방송 권역별 재송신 본방송을 시작했다. 2010년 4월 1일 KT그룹으로 편입되었고, 2011년 3월 30일 사명을 KT의 자회사인 주식회사 KT스카이라이프로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 서비스로 대한민국 최초의 생방송 자동녹화 서비스 SKY PVR, 4K Ultra HD 방송 서비스 스카이라이프UHD, 구글의 안드로이드 OS 기반의 스카이라이프 안드로이드 UHD가 있다. 위성방송과 KT LTE 기술을 결합한 이동형 방송 서비스 스카이오토도 제공한다. 2010년 1월에는 세계 최초 24시간 3D 전문 채널 Sky3D를 개국해 약 4년간 운영했고, 2014년 6월에는 24시간 UHD 전용 채널 SkyUHD를 개국했다. 2025년 7월 15일에는 새로운 IPTV 서비스인 ipit TV와 ipit TV_H를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 10월 1일 케이블방송사업자인 현대HCN을 인수해 사명을 HCN으로 변경했고, 2025년 3월 1일 HCN과 스카이TV 사명을 KT HCN과 KT ENA로 변경했다. 2024년 3월 29일 최영범이 제8대 대표이사로 취임했다. 2025년 하반기에는 기술중립성 방송 서비스인 ipit TV를 출시했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "위성 신호로 전국에 디지털 방송을 송출하는 KT 자회사로, 위성방송에 IPTV 서비스를 결합한 ipit TV까지 선보인 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.skylife.co.kr/",
+  "entityLinks": {
+   "wikidata": "Q624648",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q624648",
+    "https://ko.wikipedia.org/wiki/KT%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%94%84",
+    "https://en.wikipedia.org/wiki/KT_SkyLife"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q624648",
+   "country": "대한민국",
+   "inception": "2001",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "KT",
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「KT스카이라이프」 요약과 위키데이터 Q624648 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

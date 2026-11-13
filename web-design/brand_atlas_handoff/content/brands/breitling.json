@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q665740",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/breitling-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "breitling",
+  "urlSlug": "breitling",
+  "name": "브라이틀링",
+  "nameKo": "브라이틀링",
+  "nameEn": "Breitling",
+  "definition": "브라이틀링(Breitling)은 1884년 스위스 Saint-Imier에서 Léon Breitling이 창립한 스위스 고급 시계 제조사이다. 본사는 그렌헨에 있고 생산은 La Chaux-de-Fonds에서 이루어진다.",
+  "summary": "브라이틀링(Breitling)은 1884년 스위스 Saint-Imier에서 Léon Breitling이 창립한 스위스 고급 시계 제조사이다. 본사는 그렌헨에 있고 생산은 La Chaux-de-Fonds에서 이루어진다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1884년 창립해 항공용 Navitimer와 다이빙용 SuperOcean을 앞세우며, 2009년 자체 B01 칼리버를 개발한 스위스 시계 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "브라이틀링은 다이빙용 SuperOcean과 항공용 Navitimer를 중심으로 기계식 및 쿼츠 시계를 판매하는 스위스 고급 시계 브랜드이다. 본사는 그렌헨에, 생산 거점은 La Chaux-de-Fonds에 있다. 무브먼트는 COSC 크로노미터 인증을 받은 것이 일반적이며, 항공 모델의 항공 기능은 대체로 장식적인 복잡 기능으로 제공된다. 광택 케이스와 브레이슬릿, 가독성을 높인 큰 문자판이 디자인의 특징이다. 오랫동안 Valjoux, ETA, Venus 등에서 무브먼트를 공급받았으나 2009년 자체 개발한 B01을 선보였다. 2022년부터 Partners Group이 소유하고 있으며, 2023년에는 첫 대형 인수로 Universal Genève를, 2025년에는 Gallet를 사들였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "브라이틀링은 1884년 Léon Breitling이 Saint-Imier에서 설립했다. 1914년 그가 사망하자 사업은 아들 Gaston에게, 1935년에는 손자 Willy에게 넘어갔다. Willy의 자녀들이 가업을 잇는 데 관심이 없어 La Chaux de Fonds의 공장은 1978년 12월 문을 닫았고, Willy는 1979년 5월 사망했다. 같은 1979년 Sicura의 소유주였던 Ernest Schneider가 창업 가문에서 브라이틀링 이름을 사들였다. 생산은 그렌헨의 Sicura 공장으로 옮겨졌고, 이 회사는 Montres Breitling AG를 거쳐 1994년 Breitling AG로 이름을 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 라인은 다이빙용 SuperOcean과 항공용 Navitimer이다. Navitimer는 1954년 출시되었으며, 이름은 Navigation과 Timer 두 단어에서 따왔고 베젤의 원형 계산자가 특징이다. 1961년 Mercury 계획의 우주비행사 Scott Carpenter의 요청으로 24시간 다이얼 모델을 만들었고, 그는 1962년 우주비행에서 이를 착용했다. Chronomat는 1942년 출시되어 가장 많이 팔리는 모델 중 하나이며, 2009년 출시된 현행 모델은 자체 B01 칼리버를 탑재한 첫 전량 자체 제작 시계이다. Emergency 시계는 민간 항공용 무선 송신기를 내장한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 12월 23일 스위스 투자·사모펀드 회사 Partners Group이 CVC로부터 브라이틀링 지분 대부분을 넘겨받았다. Partners Group의 공동 창업자 Alfred Gantner가 이사회 의장을 맡았다. 이에 앞서 2017년 4월 Theodore Schneider가 지분 80%를 CVC Capital Partners에 매각했고, 나머지 20%는 2018년 11월 매각했다. 2023년에는 Universal Genève를, 2025년에는 Gallet를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1884년 창립해 항공용 Navitimer와 다이빙용 SuperOcean을 앞세우며, 2009년 자체 B01 칼리버를 개발한 스위스 시계 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.breitling.com/",
+  "entityLinks": {
+   "wikidata": "Q665740",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q665740",
+    "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8B%80%EB%A7%81_SA",
+    "https://en.wikipedia.org/wiki/Breitling_SA"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q665740",
+   "country": "스위스",
+   "inception": "1884",
+   "headquarters": "그렌헨",
+   "founders": [
+    "Léon Breitling"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Breitling SA」 본문과 위키데이터 Q665740 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

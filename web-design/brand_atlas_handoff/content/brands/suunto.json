@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q740115",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/suunto-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "suunto",
+  "urlSlug": "suunto",
+  "name": "순토",
+  "nameKo": "순토",
+  "nameEn": "Suunto",
+  "definition": "순토(Suunto)는 1936년 설립된 핀란드의 기업으로, 스포츠 워치, 다이브 컴퓨터, 나침반, 정밀 기기를 제조하고 판매한다. 본사는 핀란드 반타에 있으며 제품은 100개국 이상에서 판매된다.",
+  "summary": "순토(Suunto)는 1936년 설립된 핀란드의 기업으로, 스포츠 워치, 다이브 컴퓨터, 나침반, 정밀 기기를 제조하고 판매한다. 본사는 핀란드 반타에 있으며 제품은 100개국 이상에서 판매된다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "나침반 제작에서 출발해 스포츠 워치와 다이브 컴퓨터까지 만드는 핀란드 브랜드이다. 이름은 핀란드어로 방향을 뜻하며, 본사를 수작업 공장 옆에 두고 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "순토는 스포츠 워치, 다이브 컴퓨터, 나침반, 정밀 기기를 제조하고 판매하는 핀란드 기업으로, 나침반 제작에서 출발했다. 본사는 핀란드 반타에 있으며 전 세계에서 300명이 넘는 인원이 일하고, 제품은 100개국 이상에서 판매된다. 세계적으로 활동하지만 본사는 대부분의 작업 공정이 지금도 수작업으로 이루어지는 공장 바로 옆에 있다. 회사 이름은 '방향'이나 '길'을, 항해에서는 '방위'를 뜻하는 핀란드어 suunta에서 왔다. 순토는 오랫동안 Amer Sports의 자회사였고, Amer Sports는 2019년부터 중국 Anta Sports가 소유했다. 2022년 5월 중국 기술 기업 Liesheng이 Amer Sports로부터 순토를 인수하면서 소유 구조가 바뀌었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업자 Tuomas Vohlonen은 측량사로, 1932년 셀룰로이드 하우징에 액체를 채워 밀봉하는 가벼운 나침반 제작 방식의 특허를 신청했다. 특허는 1935년에 받았고 이듬해 손목에 차는 Suunto M-311로 양산에 들어갔으며, 회사는 1936년 2월 4일 상업 등기부에 올랐다. M-311은 이후 일부 변경을 거쳐 핀란드군에 M-34로 채택되었다. Vohlonen이 1939년 사망한 뒤 아내 Elli Vohlonen이 1952년까지 회사를 운영했다. 제2차 세계대전 중에는 포병 장교용 소형 액체 조준 나침반 M/40을 내놓았고, 전쟁 후에는 민간과 군 시장에 나침반과 항법 기기를 공급하며 빠르게 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "순토는 일반 항법용 A 및 M 시리즈, 경쟁 오리엔티어링용 Arrow 시리즈, 전문가용 핸드 베어링 나침반인 KB, MB, MC 라인 등 다양한 자기 나침반을 만든다. KB는 KäsiBussoli의 약자로, 1967년부터 M-40의 후속 제품으로 제공되어 왔으며 측량용 핸드 베어링 나침반과 경사계로 이루어진다. 전통적으로 알루미늄 덩어리를 깎아 만들었고, 더 새로운 KB-20은 고충격 플라스틱 하우징을 써서 물에 떨어뜨려도 뜬다. Recta 계열로는 DT 베이스플레이트 시리즈, DS 미러 조준 나침반, Recta Clipper 마이크로 나침반, 1941년 Recta가 발명한 군용 DP 'matchbox' 시리즈가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "순토 본사는 2001년부터 핀란드 반타의 현재 위치에 있다. 1996년 스위스 나침반 제조사 Recta SA를 인수했고, 2009년에는 스위스제 Recta DO 시리즈를 단종하면서 남은 Recta 나침반 생산을 스위스 Biel에서 반타 생산 시설로 옮겼다. 1999년 Amer Sports가 순토를 인수했으며, 2022년 5월에는 중국 기술 기업 Liesheng이 Amer Sports로부터 순토를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "나침반 제작에서 출발해 스포츠 워치와 다이브 컴퓨터까지 만드는 핀란드 브랜드이다. 이름은 핀란드어로 방향을 뜻하며, 본사를 수작업 공장 옆에 두고 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.suunto.com/",
+  "entityLinks": {
+   "wikidata": "Q740115",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q740115",
+    "https://ko.wikipedia.org/wiki/%EC%88%9C%ED%86%A0",
+    "https://en.wikipedia.org/wiki/Suunto"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q740115",
+   "country": "핀란드",
+   "inception": "1936",
+   "headquarters": "반타",
+   "founders": [
+    "Tuomas Vohlonen"
+   ],
+   "parent": "에이머 스포츠",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Suunto」 본문과 위키데이터 Q740115 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

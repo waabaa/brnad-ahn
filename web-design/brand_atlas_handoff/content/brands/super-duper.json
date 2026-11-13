@@ -1,0 +1,65 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q7642306",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "super-duper",
+  "urlSlug": "super-duper",
+  "name": "슈퍼두퍼",
+  "nameKo": "슈퍼두퍼",
+  "nameEn": "Super Duper",
+  "definition": "슈퍼두퍼(Super Duper)는 미국 펜실베이니아 북동부, 뉴욕, 버몬트, 오하이오에 널리 퍼져 있던 슈퍼마켓 체인이다. 1997년 소유주의 사후 쇠퇴했고 지금은 이름을 쓰는 점포가 일부 남아 있다.",
+  "summary": "슈퍼두퍼(Super Duper)는 미국 펜실베이니아 북동부, 뉴욕, 버몬트, 오하이오에 널리 퍼져 있던 슈퍼마켓 체인이다. 1997년 소유주의 사후 쇠퇴했고 지금은 이름을 쓰는 점포가 일부 남아 있다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "한때 미국 여러 주에 퍼졌던 슈퍼마켓 체인으로, 소유주 Burt Prentice Flickinger Jr.의 사후 쇠퇴해 이름만 일부 점포에 남아 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "슈퍼두퍼는 한때 미국 펜실베이니아 북동부, 뉴욕, 버몬트, 오하이오 일대에 널리 퍼져 있던 슈퍼마켓 체인이다. 이 체인의 소유주였던 Burt Prentice Flickinger Jr.는 \"S.M. Flickinger Co.\"의 성공과 성장에 중요한 역할을 한 인물이다. 1997년 그가 세상을 떠난 뒤 회사는 서서히 쇠퇴의 길을 걷기 시작했다. 마지막 점포는 2010년 3월에 사라졌을 가능성이 있으나 확실하지는 않다. Flickinger의 아들 Burt III는 현재 식료품 업계에서 컨설턴트로 일한다. 다만 2025년 6월 기준으로 슈퍼두퍼라는 이름을 계속 쓰는 점포가 오하이오와 펜실베이니아에 각각 하나씩 남아 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 6월 기준으로 슈퍼두퍼라는 이름을 쓰는 대표적인 점포는 두 곳이다. 하나는 1970년대에 문을 연 오하이오 New Garden의 Hull's Super Duper이다. 다른 하나는 1985년에 문을 연 펜실베이니아 Honesdale의 Dave's Super Duper이다. 체인으로서의 슈퍼두퍼는 2010년 3월께 마지막 점포가 사라졌을 수 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "한때 미국 여러 주에 퍼졌던 슈퍼마켓 체인으로, 소유주 Burt Prentice Flickinger Jr.의 사후 쇠퇴해 이름만 일부 점포에 남아 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q7642306",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7642306",
+    "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8D%BC%EB%91%90%ED%8D%BC",
+    "https://en.wikipedia.org/wiki/Super_Duper"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7642306",
+   "country": "미국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Super Duper」 본문과 위키데이터 Q7642306 팩트를 근거로 편집"
+ }
+}

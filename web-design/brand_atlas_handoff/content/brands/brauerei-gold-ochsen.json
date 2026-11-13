@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q900213",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brauerei-gold-ochsen",
+  "urlSlug": "brauerei-gold-ochsen",
+  "name": "Brauerei Gold Ochsen",
+  "nameKo": "",
+  "nameEn": "Brauerei Gold Ochsen",
+  "definition": "Brauerei Gold Ochsen은 독일 울름에 본사를 둔 양조장이다. 1597년 울름 중심지에 세워진 양조장 겸 여관에서 출발해 청량음료 병입과 음료 유통도 하는 회사이다.",
+  "summary": "Brauerei Gold Ochsen은 독일 울름에 본사를 둔 양조장이다. 1597년 울름 중심지에 세워진 양조장 겸 여관에서 출발해 청량음료 병입과 음료 유통도 하는 회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1867년부터 Leibinger 가문이 소유해 온 울름의 양조장으로, 1966년부터 청량음료 병입과 유통까지 병행해 온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "독일 울름에 위치한 양조장이며 법인 형태는 GmbH이다. 울름에서 Gold Ochsen이라는 이름은 1499년에 처음 언급되었다. 1966년부터 PepsiCo의 병입 계약을 받아 청량음료도 취급해 왔고, 이를 위해 별도의 유통 회사 Ulmer Getränke Vertrieb GmbH(UGV)를 세웠다. Gold Ochsen과 자회사 UGV는 Donau-Iller 지역에서 가장 큰 음료 유통 회사로 남아 있다. 2012년부터 각각 시간당 40,000병 넘게 채울 수 있는 병입 라인 두 개를 운영하고 있다. 2013년 PepsiCo가 Radeberger Group과 새 생산 협력을 발표하면서 Gold Ochsen과의 오랜 거래 관계는 2016년 말을 기준으로 끝나게 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1597년 여관 주인 Gabriel Mayer가 울름 역사 중심지에 양조장 겸 여관 Zum Goldenen Ochsen을 세웠다. 이후 몇 해 동안 소유주가 여러 차례 바뀌었다. 1812년 양조업자이자 길드 지도자인 Jakob Wieland가 양조장을 인수했고, 1867년 그의 아들이 Leibinger 가문에 팔았다. Leibinger 가문은 지금까지 소유권을 유지하고 있으며, 양조장은 도시 북쪽 가장자리의 새 건물로 옮겼다. 제2차 세계대전 때 울름 폭격으로 도심의 81%가 파괴되었으나 양조장은 가벼운 피해만 입었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1966년 PepsiCo 제품 병입 계약을 받은 이래 청량음료를 제공해 왔다. 청량음료 유통을 위해 별도의 유통 회사 Ulmer Getränke Vertrieb GmbH(UGV)가 설립되었다. Gold Ochsen과 자회사 UGV는 Donau-Iller 지역에서 가장 큰 음료 유통 회사로 꼽힌다. 2012년부터 병입 라인 두 개를 운영하며, 각 라인은 시간당 40,000병 넘게 채울 수 있다. PepsiCo와의 관계가 끝나면서 줄어드는 물량을 대체하기 위해 Afri-Cola, Bluna와 생산 및 유통 관계를 맺었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Leibinger 가문이 지금까지 소유권을 유지하고 있다. 1991년 Ulrike Freund가 아버지이자 이전 전무이사였던 8월 Leibinger의 뒤를 이어 가문 5대째로 양조장을 운영하게 되었다. PepsiCo와의 계약은 2016년 말 종료 예정이었고, 그 물량을 대체하려고 Afri-Cola, Bluna와 협력 관계에 들어갔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1867년부터 Leibinger 가문이 소유해 온 울름의 양조장으로, 1966년부터 청량음료 병입과 유통까지 병행해 온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.goldochsen.de",
+  "entityLinks": {
+   "wikidata": "Q900213",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900213",
+    "https://en.wikipedia.org/wiki/Brauerei_Gold_Ochsen"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900213",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "울름",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brauerei Gold Ochsen」 본문과 위키데이터 Q900213 팩트를 근거로 편집"
+ }
+}

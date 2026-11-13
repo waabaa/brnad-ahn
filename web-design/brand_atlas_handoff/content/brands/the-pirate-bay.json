@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q22663",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/the-pirate-bay-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "the-pirate-bay",
+  "urlSlug": "the-pirate-bay",
+  "name": "파이러트베이",
+  "nameKo": "파이러트베이",
+  "nameEn": "The Pirate Bay",
+  "definition": "파이러트베이(The Pirate Bay)는 스웨덴에 있는 비트토렌트 파일 공유 웹사이트이다. 스웨덴의 안티 카피라이트 단체에 의해 설립되었으며 광고를 주 수입원으로 한다.",
+  "summary": "파이러트베이(The Pirate Bay)는 스웨덴에 있는 비트토렌트 파일 공유 웹사이트이다. 스웨덴의 안티 카피라이트 단체에 의해 설립되었으며 광고를 주 수입원으로 한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.566666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴의 안티 카피라이트 단체가 만든 비트토렌트 파일 공유 사이트로, 압수수색과 재판이 해적당 성장의 계기가 된 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파이러트베이는 비트토렌트 파일을 공유하는 웹사이트로, 스웨덴에 본사를 두고 있다. 스웨덴의 안티 카피라이트 단체에 의해 설립되었고 광고를 주 수입원으로 한다. 오디오, 비디오, 응용 프로그램, 게임, 전자책과 만화 등 다양한 종류의 파일이 공유 대상이다. 2008년 11월 기준으로 360만 사용자를 회원으로 확보했으며, 알렉사 인터넷의 집계에 의하면 웹사이트 트래픽 등급은 110번째였다. 로스앤젤레스 타임스의 기자는 이 사이트를 세계에서 가장 큰 불법 다운로드 사이트라고 소개했다. 덴마크, 이탈리아, 네덜란드, 아일랜드 등 여러 나라에서 접속이 차단되었고, 저작권 침해에 대한 비판도 받는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "파이러트베이는 2003년에 스웨덴에서 설립되었으며, 창업자로는 Gottfrid Svartholm이 기록되어 있다. 스웨덴의 안티 카피라이트 단체가 설립한 사이트로, 2004년 10월부터 운영되어 왔다. 2006년 5월 31일 스톡홀름에 있던 서버가 미국 정부의 요청에 따라 스웨덴 경찰에 붙잡혀 3일 동안 오프라인 상태였다. 스웨덴 경찰의 압수수색과 이어진 재판은 해적당이 성장하는 큰 계기가 되기도 했다. 2008년 11월 기준으로 360만 사용자를 회원으로 확보했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "파이러트베이는 비트토렌트 파일을 공유하는 웹사이트로, 공유되는 파일을 오디오, 비디오, 응용 프로그램, 게임, 기타의 다섯 갈래로 나눈다. 오디오에는 음악, 오디오 북, 사운드 클립, FLAC 등이 있다. 비디오에는 영화, 영화 DVDR, 뮤직 비디오, 영화 클립, TV 쇼, 휴대용, 고화질 영화, 고화질 TV 프로그램 등이 있다. 응용 프로그램은 윈도, 맥, 유닉스, 휴대용, 기타 운영 체제로 나뉘고, 게임은 PC, 맥, PS2, XBOX360, Wii, 휴대용 등으로 나뉜다. 그 밖에 전자책, 만화, 사진, 표지 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "파이러트베이는 덴마크의 주요 ISP, 이탈리아, 네덜란드, 아일랜드에서 차단되었고, 영국의 모바일 ISP도 이를 차단하고 있다. 유료 콘텐츠를 무료로 구할 수 있어 이곳에서 파일을 다운로드하는 행위는 저작권법에 위배되며 형사처벌을 받을 수 있다는 비판이 있다. 알렉사 인터넷의 집계에 따른 웹사이트 트래픽 등급은 110번째였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴의 안티 카피라이트 단체가 만든 비트토렌트 파일 공유 사이트로, 압수수색과 재판이 해적당 성장의 계기가 된 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://thepiratebay.org",
+  "entityLinks": {
+   "wikidata": "Q22663",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q22663",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EB%9F%AC%ED%8A%B8%EB%B2%A0%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/The_Pirate_Bay"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q22663",
+   "country": "스웨덴",
+   "inception": "2003",
+   "headquarters": "스웨덴",
+   "founders": [
+    "Gottfrid Svartholm"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「파이러트베이」 요약과 위키데이터 Q22663 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

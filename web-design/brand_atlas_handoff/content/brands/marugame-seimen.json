@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q10877253",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/marugame-seimen-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "marugame-seimen",
+  "urlSlug": "marugame-seimen",
+  "name": "마루가메 제면",
+  "nameKo": "마루가메 제면",
+  "nameEn": "Marugame Seimen",
+  "definition": "마루가메 제면(Marugame Seimen)은 우동을 전문으로 하는 일본의 패스트캐주얼 레스토랑 체인이다. 일본 밖에서는 Marugame Udon이라는 이름으로도 알려져 있으며 Toridoll Holdings Corporation이 운영한다.",
+  "summary": "마루가메 제면(Marugame Seimen)은 우동을 전문으로 하는 일본의 패스트캐주얼 레스토랑 체인이다. 일본 밖에서는 Marugame Udon이라는 이름으로도 알려져 있으며 Toridoll Holdings Corporation이 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "상호와 달리 마루가메시가 있는 가가와현에는 매장이 하나뿐이어서 현지에서 브랜드명을 비판받은 우동 체인이다. 각 매장에서 면을 만드는 산누키 우동을 중심으로 한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마루가메 제면은 산누키 우동을 중심으로 메뉴를 구성하는 일본의 우동 체인이다. 운영사 Toridoll Holdings Corporation은 고베에 본사를 두고 있으며, 이 체인은 2000년대부터 Toridoll이 소유한 가장 큰 사업 형태 중 하나이다. 2011년에는 일본 47개 도도부현 전체에 매장을 낸 최초의 우동 체인이 되었다. 2024년 6월 기준으로 일본 내 786개 매장을 운영하고, 일본 밖에서도 271개 매장을 운영한다. 해외 진출 지역에는 미국, 영국, 필리핀, 캄보디아, 캐나다, 베트남, 대만, 인도네시아, 중국, 홍콩이 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "마루가메 제면의 첫 매장은 2000년 일본 효고현 가코가와에서 문을 열었다. 이후 이 우동 체인은 2000년대부터 Toridoll Holdings Corporation이 소유한 가장 큰 사업 형태 중 하나로 자리 잡았다. 2011년에는 일본 47개 도도부현 전체에 매장을 둔 최초의 우동 체인이 되었다. 해외에서는 2018년 싱가포르 Ion Orchard에 매장 하나를 열었고, 2024년 2월 24일에는 밴쿠버에 캐나다 첫 매장을 열었다. 2025년 5월 27일에는 브루나이 Gadong의 The Mall에 첫 매장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "마루가메 제면의 메뉴는 대부분 산누키 우동으로 이루어져 있으며, 면은 각 매장에서 직접 만든다. 우동에는 채소 튀김, 고기, 그 밖의 여러 토핑이 곁들여진다. 주먹밥 같은 사이드 메뉴도 함께 제공한다. 일부 해외 매장에서는 'Bukkake udon'이라는 메뉴명을 'BK udon'으로 바꾸어 쓰는데, 영어에서 'Bukkake'가 성행위를 가리키는 말이기 때문이다. 또한 일부 해외 매장은 'game'을 단음절 단어로 잘못 읽는 것을 막으려고 상호를 'Marukame'로 바꾸어 쓴다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 6월 기준으로 일본 내 786개 매장과 일본 밖 271개 매장을 운영한다. 한국 매장은 코로나19 확산을 이유로 2021년에 모두 닫았고, 태국 매장 3곳은 2022년 3월 31일에 모두 닫았다. 싱가포르 매장은 2023년에 문을 닫았으며, 러시아 매장은 러시아의 우크라이나 침공 이후 닫았다. 다만 러시아 매장은 한동안 현지 경영 아래 'Maru'라는 이름으로 영업하다가 'Udon Noodle Bar'로 완전히 상호를 바꾸었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "상호와 달리 마루가메시가 있는 가가와현에는 매장이 하나뿐이어서 현지에서 브랜드명을 비판받은 우동 체인이다. 각 매장에서 면을 만드는 산누키 우동을 중심으로 한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.marugame-seimen.com/",
+  "entityLinks": {
+   "wikidata": "Q10877253",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q10877253",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A3%A8%EA%B0%80%EB%A9%94_%EC%A0%9C%EB%A9%B4",
+    "https://en.wikipedia.org/wiki/Marugame_Seimen"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q10877253",
+   "country": "일본",
+   "inception": "2000",
+   "headquarters": null,
+   "founders": [],
+   "parent": "TORIDOLL",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Marugame Seimen」 본문과 위키데이터 Q10877253 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

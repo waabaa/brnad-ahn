@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1129508",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/fix-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "fix",
+  "urlSlug": "fix",
+  "name": "Fix",
+  "nameKo": "",
+  "nameEn": "Fix",
+  "definition": "Fix는 1864년 아테네에서 Johann Karl Fix가 설립한 그리스 최초의 대형 양조장이자 맥주 브랜드이다. 1983년 파산했으나 2009년부터 다시 자체 양조장에서 생산되고 있다.",
+  "summary": "Fix는 1864년 아테네에서 Johann Karl Fix가 설립한 그리스 최초의 대형 양조장이자 맥주 브랜드이다. 1983년 파산했으나 2009년부터 다시 자체 양조장에서 생산되고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "그리스 왕실의 공식 납품업체로서 약 100년간 시장 독점을 누렸고, 파산 이후 2009년 자체 양조장에서 되살아난 그리스 최초의 대형 양조장 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Fix는 그리스에서 맥주를 만드는 브랜드이며, 본사는 키피시아에 있다. 1864년 설립된 그리스 최초의 대형 양조장으로, 그리스 왕실의 공식 납품업체로서 약 100년 동안 그리스 시장에서 독점적 지위를 유지했다. Fischer, Bachauer, Melcher 양조장과 달리 Fix 맥주는 일정한 품질을 특징으로 했고, 적어도 20세기 전반부터 시장에서 자리를 잡았다. 1937년 아테네 여행 안내서에는 가볍고 좋은 Fix 맥주를 모든 식당에서 맛볼 수 있으며 한 잔에 5드라크마, 병은 18드라크마라고 적혀 있다. 1983년 회사가 파산한 뒤 여러 차례 부활 시도가 실패했으나, 2009년부터 자체 양조장에서 다시 생산되고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Fix 양조장은 1864년 Johann Karl Fix가 아테네에 세웠다. 약 30년 전 그의 아버지가 그리스에서 맥주 양조를 시작했다고 전해진다. 설립 시기는 덴마크 출신의 새 그리스 왕 George I의 즉위와 맞물렸고, 새 왕실이 그의 노력을 장려하여 회사는 곧 왕실의 공식 납품업체가 되었다. 양조장은 아테네의 Kolonaki 지역, Lycabettus 기슭에 있었으며 20세기 중반까지 그리스의 유일한 대형 양조장이었다. 1925년에는 Sulzer AG의 냉각기를 들여 저장고 전체를 냉각했는데, 1950년대까지 가장 강력한 압축기 가운데 하나였다고 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Fix는 1983년 파산한 뒤 여러 차례 부활 시도가 실패하는 시기를 겪었다. 2009년부터는 Fix 맥주가 다시 자체 양조장에서 양조되고 있다. 본사는 그리스 키피시아에 있다. 1864년에 설립된 그리스 최초의 대형 양조장의 이름을 이어 가는 브랜드이며, 생산 중단기를 거쳐 현재는 자체 양조장에서 다시 맥주를 내놓고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "그리스 왕실의 공식 납품업체로서 약 100년간 시장 독점을 누렸고, 파산 이후 2009년 자체 양조장에서 되살아난 그리스 최초의 대형 양조장 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fix-beer.gr",
+  "entityLinks": {
+   "wikidata": "Q1129508",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1129508",
+    "https://en.wikipedia.org/wiki/Fix_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1129508",
+   "country": "그리스",
+   "inception": "1864",
+   "headquarters": "키피시아",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Fix (beer)」 본문과 위키데이터 Q1129508 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q17355735",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/proton-mail-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "proton-mail",
+  "urlSlug": "proton-mail",
+  "name": "ProtonMail",
+  "nameKo": "ProtonMail",
+  "nameEn": "Proton Mail",
+  "definition": "ProtonMail(Proton Mail)은 2013년 스위스 제네바에서 설립된 종단간 암호화 이메일 서비스이다. 서버로 전송하기 전에 클라이언트 측에서 이메일 콘텐츠와 사용자 데이터를 암호화한다.",
+  "summary": "ProtonMail(Proton Mail)은 2013년 스위스 제네바에서 설립된 종단간 암호화 이메일 서비스이다. 서버로 전송하기 전에 클라이언트 측에서 이메일 콘텐츠와 사용자 데이터를 암호화한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "서버 전송 전 클라이언트 측 암호화와 스위스에 위치한 자체 데이터 센터를 결합해, 개발자도 사용자 이메일을 검색할 수 없는 구조를 갖춘 이메일 서비스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Proton Mail은 이메일 내용과 사용자 데이터를 보호하기 위해 서버로 전송하기 전에 클라이언트 측에서 암호화하는 이메일 서비스이다. 2013년 스위스 제네바에서 설립되었으며 제네바에 위치한 Proton Technologies가 운영한다. Gmail과 같은 일반적인 메일 서비스와 달리 복호 키를 암호화된 형태로만 저장하므로 개발자가 사용자 이메일을 검색하거나 사서함 암호를 재설정할 수 없는 구조이다. 서버는 미국과 유럽 연합의 영향권 안에 들지 않는 스위스에 위치한다. 웹메일 클라이언트, Tor 네트워크, 안드로이드 앱, iOS 앱으로 접속할 수 있는 방식을 제공한다. 적은 기능의 무료 버전을 제공하며 더 많은 기능이 필요한 경우 요금제를 업그레이드할 수 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Proton Mail은 웹메일 클라이언트, 안드로이드 앱, iOS 앱으로 이용하는 이메일 서비스이며 Tor 네트워크로도 접속할 수 있다. 사용자가 계정을 만들면 브라우저에서 공개 키와 개인 RSA 키 쌍을 자동으로 생성한다. Proton Mail 계정 사이에서 보낸 이메일은 수신자의 공개 키로 자동 암호화한다. 로그인 암호와 사서함 암호 두 가지 암호 모드로 로그인하는 옵션을 제공하며 TOTP 방식의 2단계 인증도 지원한다. HTTPS와 TLS로 사용자와 서버 사이의 인터넷 트래픽을 암호화한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Proton Mail은 제네바에 위치한 Proton Technologies가 운영한다. 제3자 사용을 피하기 위해 자체 서버 하드웨어와 네트워크를 소유하고 유지하며, 데이터 센터는 로잔과 아팅하우젠의 두 곳에 있다. 아팅하우젠 데이터 센터는 이전 K7 군용 벙커 아래 화강암 암석에 위치한다. 스위스 법에 따라 외국의 모든 감시 요청은 스위스 법원을 거쳐야 한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "서버 전송 전 클라이언트 측 암호화와 스위스에 위치한 자체 데이터 센터를 결합해, 개발자도 사용자 이메일을 검색할 수 없는 구조를 갖춘 이메일 서비스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://protonmail.com",
+  "entityLinks": {
+   "wikidata": "Q17355735",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17355735",
+    "https://ko.wikipedia.org/wiki/ProtonMail",
+    "https://en.wikipedia.org/wiki/Proton_Mail"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17355735",
+   "country": null,
+   "inception": "2013",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「ProtonMail」 요약과 위키데이터 Q17355735 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

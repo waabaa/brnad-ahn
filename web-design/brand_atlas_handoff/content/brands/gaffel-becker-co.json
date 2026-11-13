@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q151607",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/gaffel-becker-co-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gaffel-becker-co",
+  "urlSlug": "gaffel-becker-co",
+  "name": "Gaffel Becker & Co",
+  "nameKo": "",
+  "nameEn": "Gaffel Becker & Co",
+  "definition": "Gaffel Becker & Co는 1908년 독일 쾰른에서 Becker 형제가 세운 양조장이다. 쾰른의 전통 지역 스타일인 상면발효 맥주 Gaffel Kölsch를 생산한다.",
+  "summary": "Gaffel Becker & Co는 1908년 독일 쾰른에서 Becker 형제가 세운 양조장이다. 쾰른의 전통 지역 스타일인 상면발효 맥주 Gaffel Kölsch를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "쾰른의 길드·상인 조직 Gaffeln에서 이름을 딴 Gaffel Kölsch를 만드는, 1908년 Becker 형제의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Gaffel은 독일 쾰른에 기반을 둔 양조장으로, 쾰른의 전통 지역 스타일인 상면발효 맥주 Gaffel Kölsch를 만든다. 양조장은 1908년 Becker 형제가 세웠다. 이름은 1396년 쾰른에서 길드와 상인의 정치 조직이었던 Gaffeln에서 유래했다. Gaffeln이 저녁 모임을 열던 Gaffel House는 Alter Markt에서 가장 오래된 건물로, 1213년에 처음 기록되었고 1580년부터 현재의 모습으로 서 있다. 양조장 자리의 역사는 1302년 처음 언급된 Zum Leysten 양조장 겸 여관으로 거슬러 올라간다. Gaffel 양조장은 2020년까지 쾰른 Eigelstein 41–43의 그 터에 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1908년 5월 24일 Becker 형제가 이 양조장을 인수해 여관을 개조하고, 이름을 Kölner Gaffeln에서 따 \"In der Gaffel\"로 바꾸었다. 그 이전 이곳은 1822년 Gottfried Joseph Schumacher가 \"Zum Brüsseler Hof\"라는 이름으로 양조장을 다시 열었던 자리로, Schumacher는 1857년까지 운영했다. 그가 죽은 뒤 형제자매가 운영하다 1859년 Reinhard Joseph Appel에게 팔았고, Appel의 미망인이 1874년까지 Brüsseler Hof를 이어 갔다. 1888년까지는 여관으로만 쓰였고 양조업자 Adam Lenzen이 한때 가내 양조장을 운영했으며, 이후 Glückauf Brauerei AG라는 이름의 여관 겸 맥주 거래 회사로 운영되었다. 건물은 1918년 다시 개조되어 내부가 쾰른의 역사적 모티프로 꾸며졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Gaffel Kölsch이다. Gaffel Kölsch는 쾰른의 전통 지역 스타일인 상면발효 맥주이다. 제품명의 Gaffel은 쾰른 옛 방언에서 두 갈래 포크를 뜻하는 말로, 쾰른 상인들이 11세기에 베네치아에서 가져온 것이다. 이 이름은 1396년 9월 14일 쾰른 최초의 민주적 헌법인 헌장으로 시의회를 넘겨받은 22개의 Gaffeln에서 유래했다. 당시 Gaffeln은 시장, 시참사회원, 판사를 임명했고, 정기 저녁 모임에서는 음식과 술을 곁들였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "쾰른의 길드·상인 조직 Gaffeln에서 이름을 딴 Gaffel Kölsch를 만드는, 1908년 Becker 형제의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.gaffel.de/",
+  "entityLinks": {
+   "wikidata": "Q151607",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q151607",
+    "https://en.wikipedia.org/wiki/Gaffel_Becker_%26_Co"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q151607",
+   "country": "독일",
+   "inception": "1908",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Gaffel Becker & Co」 본문과 위키데이터 Q151607 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

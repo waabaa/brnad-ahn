@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q407694",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/air-nostrum-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "air-nostrum",
+  "urlSlug": "air-nostrum",
+  "name": "에어 노스트룸",
+  "nameKo": "에어 노스트룸",
+  "nameEn": "Air Nostrum",
+  "definition": "에어 노스트룸(Air Nostrum)은 스페인 발렌시아에 본사를 둔 지역 항공사이다. Iberia Regional이라는 상호로 영업하며 원월드 제휴 회원사로서 국내선·국제선 정기편과 전세기를 운항한다.",
+  "summary": "에어 노스트룸(Air Nostrum)은 스페인 발렌시아에 본사를 둔 지역 항공사이다. Iberia Regional이라는 상호로 영업하며 원월드 제휴 회원사로서 국내선·국제선 정기편과 전세기를 운항한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인 발렌시아를 기반으로 Iberia Regional 상호로 운항하는 지역 항공사로, CityJet과 합병해 SARA를 이루고 고속철도 Iryo에도 지분을 가진 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에어 노스트룸은 스페인 발렌시아를 기반으로 하는 지역 항공사로, Iberia Regional이라는 상호로도 영업한다. 원월드 항공 동맹의 제휴 회원사이며 91개의 국내선·국제선 노선으로 51개 목적지를 연결하고 전세기도 운항한다. 주 기지는 발렌시아 공항이고 바르셀로나–엘프라트, 마드리드–바라하스, 팔마데마요르카 공항을 허브로 쓴다. 2018년 말부터는 Brussels Airlines를 위한 제한적인 운항도 맡고 있으며, 이는 관련 웨트리스 전문 항공사 CityJet을 대체하는 것이다. 2022년 11월 운행을 시작한 스페인 고속철도 서비스 Iryo의 지분 일부도 보유한다. 2023년에는 CityJet과 합병해 이 지역 최대의 항공 지주회사인 Strategic Alliance of Regional Airlines(SARA)를 이루었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "에어 노스트룸은 1994년 5월 23일에 설립되어 같은 해 12월 15일에 운항을 시작했다. 초기에는 모든 정기편에서 정식 식사 서비스를 제공했다. 2008년 초에는 '리저널 비즈니스 클래스' 객실을 없애고 다른 대형 항공사처럼 비즈니스와 이코노미 구역으로 나누었다. 2012년 2월 7일에는 연료비 상승과 수입 감소를 이유로 직원 1,800명에게 2년간 영향을 주는 ERE(인력 감축 절차)를 제출했다. 2014년 3월 31일에는 당시 CEO Carlos Bertomeu와 IVI 소유주 Antonio Pellicer, José Remohí를 포함한 발렌시아 사업가 집단이 자본에 참여한다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "에어 노스트룸은 91개의 국내선·국제선 노선으로 51개 목적지를 운항하며 전세기도 운영한다. 2018년 말부터 Brussels Airlines를 대신해 제한적인 운항을 수행한다. 스페인 고속철도 서비스 Iryo의 지분 일부를 보유하고 있다. 2017년 9월에는 마드리드 아토차에서 프랑스 남부 몽펠리에 생로슈 역까지 고속철도 운행을 신청했으나, 렌페에서 임차하려던 Class 100 열차 계약이 막혀 운행은 시작되지 않았다. 2022년 6월에는 Hybrid Air Vehicles의 Airlander 10 비행선 10기를 예약했고, 2023년 8월 예약을 20기로 늘렸다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 10월 CityJet과의 합병을 완료했고, 에어 노스트룸 주주들이 합병으로 만들어진 SARA의 지분 80%를 확보해 지배권을 갖는다. 2018년 7월 17일 두 회사는 합병을 발표하면서 별도 브랜드로 남는다고 밝혔다. 합병 법인은 이 지역 최대의 항공 지주회사로 소개된다. 위키데이터상 모기업은 이베리아 항공으로 기록되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인 발렌시아를 기반으로 Iberia Regional 상호로 운항하는 지역 항공사로, CityJet과 합병해 SARA를 이루고 고속철도 Iryo에도 지분을 가진 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.airnostrum.com/",
+  "entityLinks": {
+   "wikidata": "Q407694",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q407694",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EC%96%B4_%EB%85%B8%EC%8A%A4%ED%8A%B8%EB%A3%B8",
+    "https://en.wikipedia.org/wiki/Air_Nostrum"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q407694",
+   "country": "스페인",
+   "inception": "1994",
+   "headquarters": "발렌시아",
+   "founders": [],
+   "parent": "이베리아 항공",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Air Nostrum」 본문과 위키데이터 Q407694 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

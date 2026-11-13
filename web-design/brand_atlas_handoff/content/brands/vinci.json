@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1475312",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/vinci-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vinci",
+  "urlSlug": "vinci",
+  "name": "빈치",
+  "nameKo": "빈치",
+  "nameEn": "Vinci",
+  "definition": "빈치(Vinci)는 1899년 Société Générale d'Entreprises라는 이름으로 설립된 프랑스의 건설·콘세션 기업이다. 본사는 파리 서쪽 근교의 낭테르에 있다.",
+  "summary": "빈치(Vinci)는 1899년 Société Générale d'Entreprises라는 이름으로 설립된 프랑스의 건설·콘세션 기업이다. 본사는 파리 서쪽 근교의 낭테르에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "건설 회사로 출발해 공항과 고속도로 등 콘세션 운영으로 영역을 넓힌 프랑스 기업이며, 1899년 SGE에서 2000년 Vinci로 이름을 바꾸었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "빈치는 건설과 콘세션 사업을 하는 프랑스 기업이다. 본사는 낭테르에 있으며 Euronext 파리 증권거래소에 상장되어 있고 Euro Stoxx 50 지수에도 포함되어 있다. 1899년 Société Générale d'Entreprises로 출발해 2000년에 현재의 이름으로 바꾸었다. 이후 여러 건설·엔지니어링 기업과 공항, 고속도로 운영 사업을 인수하며 영역을 넓혔다. 영국에서는 Crossrail과 High Speed 2 사업의 공사 계약을 수주했다. 2019년 5월에는 Gatwick Airport 지분 50.01%를 인수했고, 2015년에는 Orix와 함께 Itami Airport와 Kansai International Airport의 45년 운영 계약을 따냈다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1899년 Alexandre Giros와 Louis Loucheur가 Société Générale d'Entreprises(SGE)라는 이름으로 회사를 세웠다. SGE는 1966년부터 1981년까지 Compagnie générale d'électricité 소유였고, 1981년 Saint-Gobain이 과반 지분을 인수했다. 그 사이 1986년 Sogea, 1988년 Campenon Bernard, 1991년 Norwest Holst를 인수했다. 1988년에는 Compagnie générale des eaux에 인수되었으며, 이 회사는 이후 Vivendi로 이름이 바뀌었다. 2000년 회사명을 Vinci로 바꾸었고, 2001년에는 Dumez와 GTM으로 이루어진 Groupe GTM을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "빈치는 건설과 콘세션을 주력으로 하며, 인수한 사업을 통해 구성이 넓어졌다. 2006년 Autoroutes du Sud de la France를, 2007년 2월 지반 공사 전문 시공사 Bachy-Soletanche를, 2009년 프랑스 엔지니어링 기업 Cegelec을 인수했다. 2010년에는 Anglo American으로부터 Tarmac의 유럽 골재 사업을 사들였다. 2020년에는 ACS Group의 ACS Industrial 부문 인수를 제안했고, 이 거래는 이듬해 완료되었다. 공항 분야에서는 ANA Aeroportos de Portugal 인수 계약(2012년)과 브라질 공항 운영권(2021년) 등을 확보했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Euronext 파리 증권거래소에 상장되어 있고 Euro Stoxx 50 지수에 포함되어 있다. 2019년 Gatwick Airport 지분 50.01%를 인수하며 승객 시설 개선에 2023년까지 £1.1 billion을 투자하겠다고 밝혔다. 2021년 4월 7일에는 브라질 공항 여러 곳의 30년 운영권을 따냈다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "건설 회사로 출발해 공항과 고속도로 등 콘세션 운영으로 영역을 넓힌 프랑스 기업이며, 1899년 SGE에서 2000년 Vinci로 이름을 바꾸었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vinci.com/",
+  "entityLinks": {
+   "wikidata": "Q1475312",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1475312",
+    "https://ko.wikipedia.org/wiki/%EB%B9%88%EC%B9%98_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Vinci_SA"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1475312",
+   "country": "프랑스",
+   "inception": "1899",
+   "headquarters": "낭테르",
+   "founders": [
+    "Louis Loucheur"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Vinci SA」 본문과 위키데이터 Q1475312 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

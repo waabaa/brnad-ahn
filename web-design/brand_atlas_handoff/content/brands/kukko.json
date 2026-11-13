@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q4353537",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kukko",
+  "urlSlug": "kukko",
+  "name": "Kukko",
+  "nameKo": "",
+  "nameEn": "Kukko",
+  "definition": "Kukko는 핀란드의 맥주 브랜드이다. 2001년부터 Laitilan Wirvoitusjuomatehdas Oy가 생산하고 소유해 왔으며, 모든 제품을 풍력 에너지로 생산하는 점이 특징이다.",
+  "summary": "Kukko는 핀란드의 맥주 브랜드이다. 2001년부터 Laitilan Wirvoitusjuomatehdas Oy가 생산하고 소유해 왔으며, 모든 제품을 풍력 에너지로 생산하는 점이 특징이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "모든 제품을 풍력 에너지로 생산하고 대부분 글루텐 프리로 만들어 셀리악병 환자도 마실 수 있는 핀란드 맥주 브랜드이며, 수탉을 공장의 상징으로 삼는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Kukko는 핀란드의 맥주 브랜드로, Laitilan Wirvoitusjuomatehdas Oy가 2001년부터 생산하고 소유하고 있다. 대부분의 맥주는 캔과 병으로 모두 판매되며, 경쟁 제품과 구별되는 점은 모든 제품을 풍력 에너지로 생산한다는 환경적 측면이다. 대부분의 Kukko 맥주는 글루텐 프리 제품이어서 셀리악병 환자도 마시기에 적합하다. 제품군은 필스너, 라거, 다크, 블론드, 포터, 도펠보크 등 다양한 스타일로 구성되어 있다. Kukko는 핀란드어로 수탉을 뜻하며, 수탉은 공장의 상징이기도 하다. 2003년 탐페레에서 Kukko Pils가 최고의 국산 맥주이자 최고의 하면발효 맥주로 선정되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Kukko의 맥주는 대부분 캔과 병으로 모두 판매되며, 대부분 글루텐 프리 제품이다. 필스너 계열로는 Kukko Pils III(4,5%)와 Kukko Vahva Pils(5,5%)가 있다. 다크 맥주인 Kukko Tumma III(4,5%), 라거인 Kukko Lager III(4,7%), 블론드 맥주인 Kukko Vaalea III Olut(4.7%)도 있다. 포터인 Kukko Portteri(6,5%)와 도펠보크인 Kukko Tuima(8,5%)도 라인업에 포함된다. 라인업은 알코올 도수 4,5%에서 8,5%까지 이른다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "모든 제품을 풍력 에너지로 생산하고 대부분 글루텐 프리로 만들어 셀리악병 환자도 마실 수 있는 핀란드 맥주 브랜드이며, 수탉을 공장의 상징으로 삼는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q4353537",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4353537",
+    "https://en.wikipedia.org/wiki/Kukko"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4353537",
+   "country": "핀란드",
+   "inception": "2001",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Kukko」 본문과 위키데이터 Q4353537 팩트를 근거로 편집"
+ }
+}

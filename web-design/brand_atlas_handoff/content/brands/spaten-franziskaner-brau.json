@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q787066",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "spaten-franziskaner-brau",
+  "urlSlug": "spaten-franziskaner-brau",
+  "name": "Spaten-Franziskaner-Bräu",
+  "nameKo": "",
+  "nameEn": "Spaten-Franziskaner-Bräu",
+  "definition": "Spaten-Franziskaner-Bräu는 독일 바이에른의 뮌헨에 본사를 둔 양조회사이다. Spaten과 Franziskaner 맥주를 생산하며, 현재 AB InBev가 모기업이다.",
+  "summary": "Spaten-Franziskaner-Bräu는 독일 바이에른의 뮌헨에 본사를 둔 양조회사이다. Spaten과 Franziskaner 맥주를 생산하며, 현재 AB InBev가 모기업이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "맥아 삽을 상징으로 쓰는 Spaten과 프란치스코회 수사 라벨의 Franziskaner 밀맥주를 함께 만들며 옥토버페스트 맥주를 양조하는 뮌헨의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 독일 뮌헨의 양조장에서 Spaten과 Franziskaner 맥주를 생산하는 곳이다. 뮌헨에서 옥토버페스트에 낼 맥주를 양조하는 여섯 양조장 가운데 하나로, 1998년에는 독일 상위 10위 안에 들었다. 2010년에는 직원 500명을 두었고 바이에른에서 규모가 가장 큰 양조장 중 하나였다. Spaten은 독일어로 삽을 뜻하며 상표는 맥아 삽이고, Franziskaner는 프란치스코회를 뜻하며 라벨에는 프란치스코회 수사가 그려져 있다. 1997년 Löwenbräu AG와 합쳐 Spaten-Löwenbräu-Gruppe를 이루었고, 이 그룹은 2003년 Interbrew에 매각되었다. 이후 AB InBev 산하에 있으며, 2021년 AB InBev는 두 브랜드의 매각을 검토하기 시작했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1397년 뮌헨에서 Welser Prew가 처음 언급되었고, 소유주가 자주 바뀌다가 1854년 지금의 위치로 양조장이 옮겨졌다. 1867년에는 도시에서 가장 큰 양조장이 되었다. 1922년 Spaten-Brauerei와 Franziskaner-Leist-Bräu가 합쳐 주식회사를 이루었으며, 두 양조장은 모두 Sedlmayr 가문이 소유했다. 1924년 광고 문구 'Lass Dir raten, trinke Spaten'이 만들어져 지금도 쓰인다. 1997년에는 Löwenbräu AG와 합쳐 Spaten-Löwenbräu-Gruppe를 이루었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1841년 Märzenbier를 내놓았고, 1894년 처음으로 Münchner Hell을 생산했다. Münchner Hell의 알코올 도수는 5.2%이다. Oktoberfestbier는 봄에 만들어 가을 옥토버페스트에 판매하며 알코올 도수는 5.9%이다. 이 밖에 Pils, Diät-Pils, 무알코올 맥주, Doppelbock Optimator를 만든다. Franziskaner Weissbier는 알코올 도수 5.0%이며, 양조장은 1516년 독일 맥주순수령의 전통에 따라 빚는다고 밝힌다. 1935년 만들어진 Franziskaner 라벨은 Ludwig Hohlwein이 디자인했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2003년 Interbrew에 매각되었고 현재 모기업은 AB InBev이다. 2006년 뮌헨 Marsstraße의 양조장은 작업량 부족으로 문을 닫았고 지금은 회사의 박물관이다. 2011년 Franziskaner Royal을 내놓았고, 2017년 AB InBev가 영국에서 무알코올 Franziskaner 유통을 시작했다. 2021년에는 독일 맥주 자산을 정리하려는 움직임으로 Franziskaner와 Spaten 브랜드의 매각을 검토하기 시작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥아 삽을 상징으로 쓰는 Spaten과 프란치스코회 수사 라벨의 Franziskaner 밀맥주를 함께 만들며 옥토버페스트 맥주를 양조하는 뮌헨의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.spatenbraeu.de/",
+  "entityLinks": {
+   "wikidata": "Q787066",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q787066",
+    "https://en.wikipedia.org/wiki/Spaten-Franziskaner-Br%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q787066",
+   "country": "독일",
+   "inception": "1997",
+   "headquarters": "뮌헨",
+   "founders": [],
+   "parent": "인베브",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Spaten-Franziskaner-Bräu」 본문과 위키데이터 Q787066 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q334879",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/erlang-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "erlang",
+  "urlSlug": "erlang",
+  "name": "얼랭",
+  "nameKo": "얼랭",
+  "nameEn": "Erlang",
+  "definition": "얼랭(Erlang)은 범용 병렬 프로그래밍 언어이다. 에릭슨(Ericsson)에서 스위칭 소프트웨어용으로 개발했으며, 함수형 언어가 산업 현장 등에서 효율적으로 사용되는 유명한 사례이다.",
+  "summary": "얼랭(Erlang)은 범용 병렬 프로그래밍 언어이다. 에릭슨(Ericsson)에서 스위칭 소프트웨어용으로 개발했으며, 함수형 언어가 산업 현장 등에서 효율적으로 사용되는 유명한 사례이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.183333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "에릭슨에서 스위칭 소프트웨어용으로 개발해 1998년 오픈 소스로 공개한 병렬 프로그래밍 언어이며, 이름은 덴마크 수학자 Agner Krarup Erlang에서 유래했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "얼랭은 범용 병렬 프로그래밍 언어이다. 함수형 언어가 산업 현장 등에서 효율적으로 사용되는 유명한 사례로 알려져 있다. 원래는 에릭슨(Ericsson)에서 스위칭 소프트웨어에 사용하기 위해 개발했다. 1998년에 오픈 소스로 공개되었다. 이름은 흔히 Ericsson Language에서 따온 것으로 생각하지만, 통신이론을 연구한 덴마크의 수학자 Agner Krarup Erlang의 이름에서 따온 것이다. 책 Programming Erlang(Joe Armstrong)에 실린 퀵소트 예제는 재귀 호출로 정렬을 구현하며, 효율이 아니라 우아함 때문에 수록되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키데이터에는 얼랭의 설립 연도가 1986년으로 기재되어 있다. 얼랭은 원래 에릭슨(Ericsson)에서 스위칭 소프트웨어에 사용하기 위해 개발한 언어이다. 1998년에 오픈 소스로 공개되었다. 이름은 Ericsson Language에서 따온 것으로 흔히 생각되지만, 실제로는 통신이론을 연구한 덴마크의 수학자 Agner Krarup Erlang의 이름에서 따온 것이다. 함수형 언어가 산업 현장 등에서 효율적으로 사용되는 유명한 사례로 알려져 있으며 범용 병렬 프로그래밍 언어로 소개된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "에릭슨에서 스위칭 소프트웨어용으로 개발해 1998년 오픈 소스로 공개한 병렬 프로그래밍 언어이며, 이름은 덴마크 수학자 Agner Krarup Erlang에서 유래했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.erlang.org/",
+  "entityLinks": {
+   "wikidata": "Q334879",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q334879",
+    "https://ko.wikipedia.org/wiki/%EC%96%BC%EB%9E%AD",
+    "https://en.wikipedia.org/wiki/Erlang_(programming_language)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q334879",
+   "country": null,
+   "inception": "1986",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「얼랭」 요약과 위키데이터 Q334879 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q194297",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:36+09:00"
+ },
+ "logoCandidate": "logos/guinness-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "guinness",
+  "urlSlug": "guinness",
+  "name": "기네스",
+  "nameKo": "기네스",
+  "nameEn": "Guinness",
+  "definition": "기네스(Guinness)는 18세기 아일랜드 더블린의 세인트 제임스 게이트 양조장에서 아서 기니스가 시작한 스타우트 맥주 브랜드이다. 현재는 영국의 다국적 주류 기업 Diageo가 소유한다.",
+  "summary": "기네스(Guinness)는 18세기 아일랜드 더블린의 세인트 제임스 게이트 양조장에서 아서 기니스가 시작한 스타우트 맥주 브랜드이다. 현재는 영국의 다국적 주류 기업 Diageo가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.516666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "아서 기니스가 1759년 더블린에서 시작한 아일랜드 스타우트로, 질소를 섞은 두껍고 부드러운 거품과 하프 상표로 구분되는 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "기네스는 맥아 보리와 볶은 비맥아 보리에서 맛이 나오는 스타우트 맥주이다. 세계에서 가장 성공한 주류 브랜드 가운데 하나로, 거의 50개국에서 양조되고 120개국이 넘는 곳에서 판매되며, 2011년 판매량은 850,000,000리터였다. 아일랜드와 영국 두 나라 모두에서 가장 많이 팔리는 맥주이다. 생맥주의 두껍고 부드러운 거품은 맥주에 질소와 이산화탄소를 섞어 만든다. 맛의 특징인 'tang'은 지금도 남아 있지만, 회사는 숙성한 맥주를 섞는 방식이 아직 쓰이는지 확인하지 않았다. 더블린 세인트 제임스 게이트 양조장 안의 기네스 스토어하우스는 2000년에 문을 연 관광 명소이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아서 기니스는 1759년 더블린 세인트 제임스 게이트 양조장에서 에일 양조를 시작했다. 같은 해 12월 31일에는 사용하지 않던 이 양조장을 연 £45에 9,000년간 임차하는 계약을 맺었다. 1778년에 포터 판매를 시작했고, 1840년대에 Single Stout와 Double Stout가 '스타우트'라는 용어를 쓴 첫 기네스 맥주가 되었다. 1886년 10월 기네스는 주식회사가 되었고 주식은 20배 초과 청약되었다. 1932년 영국·아일랜드 무역 전쟁이 시작되자 본사를 런던으로 옮겼으며, 1997년 Guinness plc가 Grand Metropolitan과 합병해 Diageo plc가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "역사의 대부분 동안 기네스는 한 가지 맥주 유형의 세 가지 변형만 생산했다. 포터 또는 스타우트(싱글, 더블, 엑스트라)와 수출용 foreign stout이다. 'Stout'는 원래 맥주의 도수를 가리켰으나 점차 바디감과 색을 뜻하는 말로 바뀌었다. 생맥주는 질소와 이산화탄소를 섞어 두껍고 부드러운 거품을 낸다. 트리니티 칼리지 하프를 본뜬 오른쪽 방향의 하프 문양은 1876년 기네스의 상표로 등록되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "기네스는 런던에 본사를 둔 다국적 주류 기업 Diageo가 소유한다. 거의 50개국에서 양조되고 120개국이 넘는 곳에서 판매되며, 아일랜드와 영국에서 가장 많이 팔리는 맥주이다. 더블린 세인트 제임스 게이트 양조장의 스토어하우스는 2000년 개장 이후 관광 명소로 방문객을 맞고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "아서 기니스가 1759년 더블린에서 시작한 아일랜드 스타우트로, 질소를 섞은 두껍고 부드러운 거품과 하프 상표로 구분되는 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.guinness.com/",
+  "entityLinks": {
+   "wikidata": "Q194297",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q194297",
+    "https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%84%A4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Guinness"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q194297",
+   "country": "아일랜드",
+   "inception": "1759",
+   "headquarters": "Guinness Brewery",
+   "founders": [
+    "아서 기니스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Guinness」 본문과 위키데이터 Q194297 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

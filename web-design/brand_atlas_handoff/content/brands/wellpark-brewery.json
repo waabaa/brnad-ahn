@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4018906",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "wellpark-brewery",
+  "urlSlug": "wellpark-brewery",
+  "name": "Wellpark Brewery",
+  "nameKo": "",
+  "nameEn": "Wellpark Brewery",
+  "definition": "Wellpark Brewery는 영국 스코틀랜드 글래스고에 본사를 둔 양조 회사 Tennent Caledonian의 양조장이다. 스코틀랜드 페일 라거 시장 점유율 1위 브랜드인 Tennent's Lager를 생산한다.",
+  "summary": "Wellpark Brewery는 영국 스코틀랜드 글래스고에 본사를 둔 양조 회사 Tennent Caledonian의 양조장이다. 스코틀랜드 페일 라거 시장 점유율 1위 브랜드인 Tennent's Lager를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "1556년부터 같은 터에서 양조가 이어졌다는 글래스고의 양조장으로, 스코틀랜드 최다 판매 페일 라거인 Tennent's Lager의 산지이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tennent Caledonian은 스코틀랜드 글래스고에 본사를 둔 양조 회사이며, 글래스고의 Wellpark Brewery에서 맥주를 양조한다. 대표 제품인 Tennent's Lager는 스코틀랜드에서 가장 많이 팔리는 페일 라거 브랜드로, 스코틀랜드 라거 시장의 약 60%를 차지한다. 이 라거는 1885년 Hugh Tennent가 처음 양조했고, 1893년 시카고 세계박람회에서 최고상을 받았으며, Vegetarian Society로부터 채식주의자에게 적합하다는 인증도 받았다. 회사의 양조 사업은 1740년 Hugh Tennent와 Robert Tennent가 글래스고에서 시작했다. 글래스고에서 가장 오래 이어진 상업 사업체로 기록된다. 현재는 2009년 인수를 통해 C&C Group plc가 소유한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1740년 Hugh Tennent와 Robert Tennent가 글래스고 대성당 근처 Drygate Bridge에서 H. & R. Tennent를 세웠고, 이 양조장은 처음에 Drygate Brewery로 불렸다. 같은 Molendinar Burn 강변에서는 조상 Robert Tennent가 1556년부터 양조를 해 왔다. Hugh Tennent의 아들 John과 Robert가 사업을 이어 1769년부터 J. & R. Tennent라는 이름으로 영업했고, 1790년대에 이웃한 William McLehose의 양조장을 사들여 부지를 Wellpark Brewery로 이름 붙였다. 처음에는 스타우트와 독한 수출용 에일을 양조했으며, 19세기 중반 J. & R. Tennent는 세계 최대의 병맥주 수출업체였다. 1884년 Hugh Tennent가 경영을 맡아 1885년 Tennent's lager를 처음 양조했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Tennent's Lager(4% ABV)이다. 그 밖에 Tennent's Special(3.5% ABV), Tennent's Ember(4.2% ABV), Tennent's Light Ale(3.1% ABV), Sweetheart Stout(2.0% ABV)를 생산한다. Caledonia Best는 2011년 11월에 출시했으며 100% 스코틀랜드산 보리를 사용한다. 이 라거의 캔에는 여성 모델 사진을 인쇄한 'The Lager Lovelies' 디자인이 1989년 마지막 캠페인까지 쓰였고, 지금은 큰 붉은색 'T'가 들어간 노란색 캔을 쓴다. 도수 9%의 Tennent's Super는 Wellpark가 아니라 InBev가 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "C&C Group of Ireland은 2009년 8월 27일 AB-InBev로부터 이 양조장과 Tennent's 브랜드를 인수하겠다고 발표했다. 이 제안에는 Beck's와 Stella Artois의 스코틀랜드·아일랜드 유통권 인수가 포함되었고 규모는 £180 million이었다. 2014년 5월에는 C&C Group과 Williams Bros Brewing Co.가 부지 안에 크래프트 양조장 합작사 Drygate Brewing Co.를 열었다. 2025년 기준으로 C&C Group은 Hawkstone Brewery의 라이선스로 Hawkstone's Session Lager와 Premium Lager를 이곳에서 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1556년부터 같은 터에서 양조가 이어졌다는 글래스고의 양조장으로, 스코틀랜드 최다 판매 페일 라거인 Tennent's Lager의 산지이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tennents.com/",
+  "entityLinks": {
+   "wikidata": "Q4018906",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4018906",
+    "https://en.wikipedia.org/wiki/Tennent_Caledonian"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4018906",
+   "country": "영국",
+   "inception": "1740",
+   "headquarters": "글래스고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Tennent Caledonian」 본문과 위키데이터 Q4018906 팩트를 근거로 편집"
+ }
+}

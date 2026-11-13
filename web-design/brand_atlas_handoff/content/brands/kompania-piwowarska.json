@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q12322536",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kompania-piwowarska",
+  "urlSlug": "kompania-piwowarska",
+  "name": "Kompania Piwowarska",
+  "nameKo": "",
+  "nameEn": "Kompania Piwowarska",
+  "definition": "Kompania Piwowarska는 폴란드 포즈난에 본사를 둔 맥주 양조 그룹이다. 1999년에 설립되었으며 Lech, Tyskie, Żubr 등의 맥주 브랜드를 보유한다.",
+  "summary": "Kompania Piwowarska는 폴란드 포즈난에 본사를 둔 맥주 양조 그룹이다. 1999년에 설립되었으며 Lech, Tyskie, Żubr 등의 맥주 브랜드를 보유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "폴란드 맥주 시장의 45%를 점유하는 양조 그룹으로, 1629년에 세워진 Tyskie Browary Książęce 양조장을 포함해 Lech, Tyskie, Żubr 브랜드를 보유한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 폴란드의 맥주 양조 그룹으로, 현재 세 곳의 양조장을 운영한다. 양조장은 Poznań의 Lech Browary Wielkopolski, Tychy의 Tyskie Browary Książęce, Białystok의 Browar Dojlidy이다. 세 양조장의 총 생산 능력은 15.1 million 헥토리터이다. 폴란드 맥주 시장의 45%를 점유하며, 그중 Tyskie가 약 18%, Lech가 8%를 차지한다. 2017년부터 일본의 Asahi Breweries가 소유하고 있으며, 2009년부터 2017년까지는 SABMiller가 소유했다. Tyskie는 폴란드에서 가장 많이 팔리는 맥주 브랜드 중 하나이며 세계적으로도 유통된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1999년에 설립되었고 본사는 포즈난에 있다. 그룹의 Tyskie Browary Książęce(Princely Brewery Tychy)는 1629년에 세워진 양조장으로, 유럽에서 가장 오래된 양조장 중 하나이다. 2009년부터 2017년까지는 SABMiller가 회사를 소유했다. 2016년 Anheuser-Busch InBev의 SABMiller 인수가 허용되기 전 규제 당국과 맺은 합의에 따라, 같은 해 12월 13일 이 회사를 일본의 Asahi Breweries에 매각한다고 발표했다. 이후 2017년부터 Asahi Breweries가 소유하고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 그룹이 보유한 주요 브랜드는 Lech, Tyskie, 그리고 Dojlidy 양조장의 Żubr이다. Lech의 주요 제품은 알코올 도수 5.0%의 페일 라거인 Lech Premium과 알코올 도수 5.5%의 페일 라거인 Lech Pils이며, Poznań 양조장은 도수 7%의 Dębowe Mocne(Oak Strong)도 양조한다. Tyskie의 주요 제품은 알코올 도수 5.0%의 페일 라거 Tyskie Gronie이다. Dojlidy 양조장의 주요 브랜드는 알코올 도수 6%의 페일 라거 Żubr(European bison)이다. Lech는 폴란드 맥주 시장의 8%를, Tyskie는 약 18%를 차지한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 일본의 Asahi Breweries가 2017년부터 이 회사를 소유하고 있으며, 본사는 포즈난에 있다. Lech Browary Wielkopolski, Tyskie Browary Książęce, Browar Dojlidy의 세 양조장을 운영하고, 총 생산 능력은 15.1 million 헥토리터이다. 폴란드 맥주 시장의 45%를 점유하고 있다. 이전에는 2009년부터 2017년까지 SABMiller가 소유했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "폴란드 맥주 시장의 45%를 점유하는 양조 그룹으로, 1629년에 세워진 Tyskie Browary Książęce 양조장을 포함해 Lech, Tyskie, Żubr 브랜드를 보유한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kp.pl/",
+  "entityLinks": {
+   "wikidata": "Q12322536",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12322536",
+    "https://en.wikipedia.org/wiki/Kompania_Piwowarska"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12322536",
+   "country": "폴란드",
+   "inception": "1999",
+   "headquarters": "포즈난",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Kompania Piwowarska」 본문과 위키데이터 Q12322536 팩트를 근거로 편집"
+ }
+}

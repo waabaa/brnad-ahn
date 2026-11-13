@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q45568",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/unicredit-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "unicredit",
+  "urlSlug": "unicredit",
+  "name": "우니크레디트",
+  "nameKo": "우니크레디트",
+  "nameEn": "UniCredit",
+  "definition": "우니크레디트(UniCredit)는 이탈리아 밀라노에 본사를 둔 다국적 은행 그룹이다. Intesa Sanpaolo와 함께 이탈리아의 대형 은행 그룹 가운데 하나이며, 1998년 합병으로 출범했다.",
+  "summary": "우니크레디트(UniCredit)는 이탈리아 밀라노에 본사를 둔 다국적 은행 그룹이다. Intesa Sanpaolo와 함께 이탈리아의 대형 은행 그룹 가운데 하나이며, 1998년 합병으로 출범했다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "합병을 거듭해 이탈리아, 독일 HypoVereinsbank, 오스트리아 Bank Austria를 아우르는 유럽 다국적 은행 그룹이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이탈리아 밀라노에 본사를 둔 다국적 은행 그룹으로, Intesa Sanpaolo와 함께 이탈리아의 대형 은행 그룹 가운데 하나이다. 2025년 기준 총자산 기준 세계 44위 은행이었다. 영업 지역은 이탈리아, HypoVereinsbank를 통한 독일, Bank Austria를 통한 오스트리아, 중부·동남부 유럽 여러 나라, 러시아이다. Borsa Italiana와 Frankfurt Stock Exchange에 상장되어 있으며 Euro Stoxx 50 구성 종목이다. 뿌리는 1870년 설립된 Banca di Genova로 거슬러 올라간다. 과거 이름은 UniCredito Italiano S.p.A.였으며, 현재 법인명은 UniCredit S.p.A.이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 그룹은 1998년 Credito Italiano와 Unicredito의 합병으로 출범했다. Unicredito에는 토리노, 베로나, 트레비소의 은행들이 속해 있었고, Credito Italiano는 Rolo Banca와 Banca Popolare di Rieti 등으로 구성되어 있었다. 이 때문에 당시 이름이 UniCredito Italiano가 되었다. 뿌리는 1870년 설립된 Banca di Genova로 거슬러 올라간다. 1999년 폴란드 Bank Pekao를 인수하며 동유럽 확장을 시작했고, 2002년 6월 30일에는 S3 프로젝트로 여러 은행망을 Credito Italiano로 합쳐 UniCredit Banca로 개명했다. 2005년에는 독일 HypoVereinsbank와 합병했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 총자산 기준 세계 44위 은행이다. Borsa Italiana와 Frankfurt Stock Exchange에 상장되어 있으며 Euro Stoxx 50 구성 종목이다. 2007년 Capitalia Group와 결합했고, 2010년에는 UniCredit Banca, Banca di Roma, Banco di Sicilia 등 이탈리아 은행 자회사를 흡수했다. 2014년 3월 14일에는 약 8,500개 일자리 감축 전망과 함께 $15 billion 손실을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "합병을 거듭해 이탈리아, 독일 HypoVereinsbank, 오스트리아 Bank Austria를 아우르는 유럽 다국적 은행 그룹이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.unicreditgroup.eu",
+  "entityLinks": {
+   "wikidata": "Q45568",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q45568",
+    "https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%8B%88%ED%81%AC%EB%A0%88%EB%94%94%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/UniCredit"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q45568",
+   "country": "이탈리아",
+   "inception": "1998",
+   "headquarters": "UniCredit Tower",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「UniCredit」 본문과 위키데이터 Q45568 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

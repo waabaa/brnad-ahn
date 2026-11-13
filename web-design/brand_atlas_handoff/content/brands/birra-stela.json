@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q83850",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "birra-stela",
+  "urlSlug": "birra-stela",
+  "name": "Birra Stela",
+  "nameKo": "",
+  "nameEn": "Birra Stela",
+  "definition": "Birra Stela는 티라나에 본사를 둔 Iliria Brewery가 생산하는 알바니아의 맥주 브랜드이다. 1994년에 처음 출시되었으며 알바니아에서 잘 알려진 국산 맥주 브랜드 중 하나이다.",
+  "summary": "Birra Stela는 티라나에 본사를 둔 Iliria Brewery가 생산하는 알바니아의 맥주 브랜드이다. 1994년에 처음 출시되었으며 알바니아에서 잘 알려진 국산 맥주 브랜드 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1994년 Stela & Dorina 양조장에서 출발해 Iliria Brewery의 대표 브랜드로 이어진 알바니아 국산 맥주이다. 주력 라거에서 무알코올 Stela 0.0%까지 제품군을 넓혔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Birra Stela는 알바니아의 맥주 브랜드로, 수도 티라나에 본사를 둔 Iliria Brewery가 생산한다. 이 양조장은 과거 Stefani & Co.라는 이름으로 운영되었다. 브랜드는 1994년에 처음 출시되었으며 알바니아에서 가장 잘 알려진 국산 맥주 브랜드 중 하나로 꼽힌다. 양조장의 연간 생산 능력은 최대 250,000 헥토리터이며, 이는 알바니아 국내 맥주 시장의 추정 4%에 해당한다. 주력 제품인 Stela 라거 외에도 Birra Iliria, Cek Pilsner 등으로 제품군을 넓혀 왔다. 2026년 5월 사명이 Iliria Brewery로 바뀌면서 Stela와 Iliria 맥주 브랜드의 생산자이자 소유자가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Birra Stela는 1994년 Stefan Pinguli가 이끄는 알바니아 기업인 그룹이 Stela & Dorina 양조장을 세우면서 출시되었다. 초기 생산량은 하루 약 500리터였고, 현대적인 양조 기술을 도입해 유럽 양조 기준에 맞는 맥주를 만드는 것을 목표로 했다. 2000년 회사는 Stefani & Co.로 재편되어 생산 시설을 티라나–두러스 고속도로변으로 옮겼다. 이후 몇 해 동안 새 장비에 투자해 생산 능력을 늘렸고, HACCP와 ISO 22000 인증 등 국제적으로 인정받는 식품안전관리 체계를 도입했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Birra Stela의 대표 제품은 1994년 출시된 브랜드의 주력 맥주인 Stela 라거이다. 양조장은 시간이 지나면서 이 주력 라거에 그치지 않고 제품 구성을 점차 다양화해 왔다. 2013년에 Birra Iliria를 출시했고, 이어 Cek Pilsner와 추가 크래프트 맥주, 흑맥주 종류를 선보였다. 2023년에는 주력 맥주의 무알코올 버전인 Stela 0.0%를 내놓았다. 현재 양조장은 Stela와 Iliria 맥주 브랜드를 생산하며, 연간 생산 능력은 최대 250,000 헥토리터이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 Stefani & Co.는 Eurolab Internacional Grup에 인수되었고, 이 그룹은 양조장의 현대화 프로그램을 시작했다. 2026년 5월 회사명은 Iliria Brewery로 바뀌었으며, Stela와 Iliria 맥주 브랜드의 생산자이자 소유자가 되었다. 양조장은 연간 최대 250,000 헥토리터를 생산할 수 있으며, 이는 알바니아 국내 맥주 시장의 추정 4%에 해당한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1994년 Stela & Dorina 양조장에서 출발해 Iliria Brewery의 대표 브랜드로 이어진 알바니아 국산 맥주이다. 주력 라거에서 무알코올 Stela 0.0%까지 제품군을 넓혔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.stefani-co.al/",
+  "entityLinks": {
+   "wikidata": "Q83850",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q83850",
+    "https://en.wikipedia.org/wiki/Birra_Stela"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q83850",
+   "country": "알바니아",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Birra Stela」 본문과 위키데이터 Q83850 팩트를 근거로 편집"
+ }
+}

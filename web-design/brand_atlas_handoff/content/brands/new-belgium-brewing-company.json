@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q14685020",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "new-belgium-brewing-company",
+  "urlSlug": "new-belgium-brewing-company",
+  "name": "New Belgium Brewing Company",
+  "nameKo": "",
+  "nameEn": "New Belgium Brewing Company",
+  "definition": "New Belgium Brewing Company는 미국 콜로라도주 포트콜린스에 본사를 둔 맥주 양조 회사이다. Fat Tire Ale, Voodoo Ranger IPA 등을 생산하며 미국 전역에 유통되는 브랜드이다.",
+  "summary": "New Belgium Brewing Company는 미국 콜로라도주 포트콜린스에 본사를 둔 맥주 양조 회사이다. Fat Tire Ale, Voodoo Ranger IPA 등을 생산하며 미국 전역에 유통되는 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Fat Tire Ale로 알려진 미국의 크래프트 양조사로, 1999년 미국 최초의 풍력 발전 양조장이 되었고 자전거를 로고의 상징으로 삼는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 미국 전역에 유통되는 맥주 양조 회사이며, 2016년에는 Voodoo Ranger와 Day Blazer 라인을 선보였다. Fat Tire Ale, Voodoo Ranger IPA, Mural Agua Fresca Cerveza, La Folie Sour Brown Ale 등 상시 및 시즌 맥주를 생산한다. 주력 양조장은 콜로라도주 포트콜린스에 있고, 노스캐롤라이나주 Asheville에도 양조장을 두고 있다. 2015년에는 미국에서 네 번째로 큰 크래프트 양조사, 전체 양조사 중 여덟 번째로 큰 양조사가 되었다. 2017년 8월 기준 50개 주 전체에서 판매되었고, 2018년 2월 기준 캐나다, 호주, 일본, 한국, 스웨덴, 노르웨이에도 유통되었다. 2019년에는 일본 기린 그룹의 호주 자회사인 Lion에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사는 1991년 Kim Jordan과 Jeff Lebesch가 콜로라도주 포트콜린스에서 설립했다. Fat Tire 레시피는 공동 창업자가 벨기에의 양조장들을 자전거로 돌아본 여행에서 비롯되었다. 1999년에는 미국 최초의 풍력 발전 양조장이 되었다. 2002년 이전에는 16개 주에서만 유통되었으나, 2015년에는 미국에서 네 번째로 큰 크래프트 양조사로 성장했다. Lebesch는 2009년 회사를 떠났다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Fat Tire Ale, Voodoo Ranger IPA, Mural Agua Fresca Cerveza, La Folie Sour Brown Ale이다. 2016년에 Voodoo Ranger와 Day Blazer 라인이 새로 나왔다. 2010년에는 라벨 디자인이 다른 네 가지 맥주로 구성된 Explore Series를 공개했다. 2023년 1월에는 주력 제품 Fat Tire의 레시피를 앰버 에일에서 색이 더 밝고 깔끔한 에일로 바꾸었다. 2024년 3월에는 냉동 피자 회사 Tombstone과 협업해 I(Pizza)A를 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 일본 기린 그룹의 호주 자회사 Lion에 인수되었다. 2023년 6월 13일 CEO Steve Fechheimer가 6년 만에 물러나, CFO Danielle McLarnon이 임시 CEO를 맡았다. 2023년 초에는 Constellation Brands로부터 버지니아주 Daleville의 양조장을 인수했다. 2024년 7월 Kirin은 2025년부터 생산을 Anheuser-Busch에서 New Belgium으로 옮긴다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Fat Tire Ale로 알려진 미국의 크래프트 양조사로, 1999년 미국 최초의 풍력 발전 양조장이 되었고 자전거를 로고의 상징으로 삼는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.newbelgium.com/",
+  "entityLinks": {
+   "wikidata": "Q14685020",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q14685020",
+    "https://en.wikipedia.org/wiki/New_Belgium_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q14685020",
+   "country": "미국",
+   "inception": "1991",
+   "headquarters": "포트콜린스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「New Belgium Brewing Company」 본문과 위키데이터 Q14685020 팩트를 근거로 편집"
+ }
+}

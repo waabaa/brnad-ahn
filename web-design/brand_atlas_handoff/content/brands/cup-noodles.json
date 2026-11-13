@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q1143401",
+ "demand": {
+  "why": "국내",
+  "naver": 0.075,
+  "koViews": 1440,
+  "enViews": 12688,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/cup-noodles-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cup-noodles",
+  "urlSlug": "cup-noodles",
+  "name": "컵누들",
+  "nameKo": "컵누들",
+  "nameEn": "Cup Noodles",
+  "definition": "컵누들(Cup Noodles)은 닛신 식품이 1971년 9월 18일부터 판매하고 있는 컵라면 상품이다. 모회사인 닛신 식품 홀딩스의 등록 상표이며, '세계 최초 컵라면 개발'이라는 타이틀로 유명한 상품이다.",
+  "summary": "컵누들(Cup Noodles)은 닛신 식품이 1971년 9월 18일부터 판매하고 있는 컵라면 상품이다. 모회사인 닛신 식품 홀딩스의 등록 상표이며, '세계 최초 컵라면 개발'이라는 타이틀로 유명한 상품이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "'세계 최초 컵라면 개발'이라는 타이틀로 유명한 닛신 식품의 컵라면 상품이며, 대한민국에서는 마이컵이라는 이름으로 라이센스 생산했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "컵누들은 일본의 닛신 식품이 1971년 9월 18일부터 판매하고 있는 컵라면 브랜드이다. 닛신 식품 홀딩스의 등록 상표이며, '세계 최초로 인스턴트 라면 개발', '세계 최초 컵라면 개발'이라는 타이틀로 유명한 상품이다. 닛신식품의 창업자인 대만 태생의 안도 모모후쿠가 1958년에 컵라면을 발명했다. 1970년에 닛신은 미국에서 컵라면을 판매하기 위해 자회사 닛신푸즈를 설립했다. 대한민국에서는 1985년 빙그레와의 기술 제휴로 라면 사업에 진출할 당시 마이컵이라는 이름으로 라이센스 생산했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "컵라면은 1958년 닛신식품의 창업자인 대만 태생의 안도 모모후쿠가 발명했다. 닛신 식품은 1971년 9월 18일부터 컵누들을 판매했고, 같은 해 거품컵에 포장된 컵라면을 선보였다. 1970년 닛신은 미국에서 컵라면을 판매하기 위해 자회사 닛신푸즈(Nissin Foods (USA) Co. Inc.)를 설립했고, 1973년 펜실베이니아주 랭커스터에 공장을 열었다. 아시아에서 컵라면 포장에 쓰는 그릇이 미국에서는 흔하지 않아 종이컵은 론 R. 매티슨이 디자인했다. 미국에서는 1993년까지 컵오누들(Cup O' Noodles)이라는 이름을 사용했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "미국의 세 가지 오리지널 컵오누들 맛은 쇠고기, 닭고기, 새우였고, 돼지고기 맛은 1976년에 추가했다. 모든 맛에는 원래 건조된 계란 조각이 들어 있었으나 1980년대 초에 제거했다. 1978년에 닛신푸즈는 더 많은 종류의 톱 라멘(Top Ramen)과 컵오누들(Cup O' Noodles)을 출시했다. 1998년에는 쇠고기, 닭고기, 돼지고기, 새우 품종의 컵누들 핫소스를 출시했다. 대한민국에서는 1985년 빙그레와의 기술 제휴로 마이컵이라는 이름으로 라이센스 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "컵누들은 1971년 9월 18일부터 판매해 온 상품으로, 모회사인 닛신 식품 홀딩스의 등록 상표이다. 일본항공은 1992년부터 독점적인 de Sky 맛이 첨가된 컵라면을 기내에서 제공했다. 2021년부터는 해당 제품을 항공사의 온라인 상점에서도 판매한다. '세계 최초 컵라면 개발'이라는 타이틀로 유명한 상품이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "'세계 최초 컵라면 개발'이라는 타이틀로 유명한 닛신 식품의 컵라면 상품이며, 대한민국에서는 마이컵이라는 이름으로 라이센스 생산했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cupnoodle.jp/",
+  "entityLinks": {
+   "wikidata": "Q1143401",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1143401",
+    "https://ko.wikipedia.org/wiki/%EC%BB%B5%EB%88%84%EB%93%A4_(%EB%8B%9B%EC%8B%A0)",
+    "https://en.wikipedia.org/wiki/Cup_Noodles"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1143401",
+   "country": null,
+   "inception": "1971",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「컵누들 (닛신)」 요약과 위키데이터 Q1143401 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

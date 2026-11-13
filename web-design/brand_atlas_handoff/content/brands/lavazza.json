@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q543750",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/lavazza-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lavazza",
+  "urlSlug": "lavazza",
+  "name": "루이지 라바짜",
+  "nameKo": "루이지 라바짜",
+  "nameEn": "Lavazza",
+  "definition": "루이지 라바짜(Lavazza)는 1895년 이탈리아 토리노에서 Luigi Lavazza가 창업한 이탈리아의 커피 제품 제조업체이다. 창업 가문이 4대째 소유하고 있다.",
+  "summary": "루이지 라바짜(Lavazza)는 1895년 이탈리아 토리노에서 Luigi Lavazza가 창업한 이탈리아의 커피 제품 제조업체이다. 창업 가문이 4대째 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "4대째 창업 가문이 소유한 이탈리아 커피 로스터로, 블렌딩 개념을 만들었다고 자처하며 이를 모든 제품의 특징으로 내세운다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 브라질, 콜롬비아, 과테말라, 우간다, 인도네시아 등 여러 나라에서 커피를 수입해 제품을 만든다. 세계 7위 커피 로스터로 꼽히며, 이탈리아에서 매출 기준 시장 점유율이 36%를 넘는다. 90개국 이상에서 관계사와 유통사를 통해 사업을 운영하고, 생산량의 46%를 수출하며, 생산시설은 이탈리아 3곳과 해외 3곳이다. 2024년 그룹 매출은 2023년보다 9.1% 증가했다. 초창기에 서로 다른 지역의 커피를 섞는 블렌딩 개념을 만들었다고 자처하며, 이를 모든 제품의 특징으로 내세운다. 'Italy's Favourite Coffee'를 표방하며, 1991년부터 'Lavazza Calendar'를 제작해 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1895년 Luigi Lavazza가 토리노의 Via San Tommaso 10에 있던 작은 식료품점에서 사업을 시작했다. 회사는 이후 4대에 걸쳐 가문이 소유해 왔으며, 현재 3세대와 4세대가 경영한다. 2016년 2월 Jacobs Douwe Egberts에서 Carte Noire와 Merrild 브랜드를 인수했고, 2017년 5월에는 캐나다에 기반을 둔 Kicking Horse Coffee 지분 80%를 사들였다. 2018년에는 Mars UK의 음료 사업부를 인수했고, 2019년에는 PepsiCo와 함께 유럽에서 캔 형태의 즉석 카푸치노를 출시했다. 2022년 11월에는 프랑스 커피 로스터이자 유통·서비스 업체인 MaxiCoffee를 인수했다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품군으로 Qualità Oro, Qualità Rossa, Club, Espresso Italiano, Espresso Barista Perfetto, Caffè Crema, Gran Aroma 등이 있다. 디카페인 제품 Dek와 캡슐 제품 A Modo Mio, Espresso Point, Lavazza Blue도 판매하며, Nespresso Compatible Capsules도 생산한다. 소매 부문에서는 Il Caffè di Roma와 Espression이라는 커피숍을 운영하며, 전통 커피 음료와 가정용 원두·분쇄 커피를 판매한다. Gattinara 공장에서는 A Modo Mio, Lavazza Espresso Point, Lavazza Blue 캡슐을, Pozzilli 공장에서는 전 세계에 유통되는 디카페인 커피를 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "토리노 Via Bologna에는 Cino Zucchi Architetti가 설계한 새 본사 'Nuvola'가 문을 열었다. 그룹은 21개 회사와 해외 사무소로 구성되며, 20곳이 넘는 사무소와 생산시설을 두고 있다. 2018년부터 Liverpool F.C.를 후원하고, 2020년 9월 합의에 따라 Juventus FC의 공식 커피 브랜드가 되었다. 2019년 기준 직원은 3,800명이며, 소유는 여전히 창업 가문이 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "4대째 창업 가문이 소유한 이탈리아 커피 로스터로, 블렌딩 개념을 만들었다고 자처하며 이를 모든 제품의 특징으로 내세운다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lavazza.com",
+  "entityLinks": {
+   "wikidata": "Q543750",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q543750",
+    "https://ko.wikipedia.org/wiki/%EB%A3%A8%EC%9D%B4%EC%A7%80_%EB%9D%BC%EB%B0%94%EC%A7%9C",
+    "https://en.wikipedia.org/wiki/Lavazza"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q543750",
+   "country": "이탈리아",
+   "inception": "1895",
+   "headquarters": "토리노",
+   "founders": [
+    "Luigi Lavazza"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Lavazza」 본문과 위키데이터 Q543750 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

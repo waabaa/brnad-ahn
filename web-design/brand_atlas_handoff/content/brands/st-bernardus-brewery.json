@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2497996",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "st-bernardus-brewery",
+  "urlSlug": "st-bernardus-brewery",
+  "name": "St. Bernardus Brewery",
+  "nameKo": "",
+  "nameEn": "St. Bernardus Brewery",
+  "definition": "St. Bernardus Brewery는 벨기에의 Watou에 있는 양조장이다. 1946년에 설립되었으며 1992년부터 양조한 맥주를 St. Bernardus 브랜드로 판매한다.",
+  "summary": "St. Bernardus Brewery는 벨기에의 Watou에 있는 양조장이다. 1946년에 설립되었으며 1992년부터 양조한 맥주를 St. Bernardus 브랜드로 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "Trappist 면허 양조에서 출발해 1992년부터 독자 상표로 맥주를 판매하며, St. Sixtus 맥주와 레시피와 스타일이 가깝다고 평가되는 Watou의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "St. Bernardus는 벨기에 Watou에 본사를 둔 양조장이다. 1946년에 설립되었으며, 수도원 활동 자금을 마련하려고 치즈를 만들던 Refuge Notre Dame de St. Bernard에서 출발했다. 1945년 Trappist 수도원 St. Sixtus가 맥주 판매를 중단하면서 맺은 합의에 따라 이 치즈 공장이 면허를 받아 맥주를 양조하기 시작했다. 이 합의는 1992년에 끝났고, 이후 Watou에서 양조한 맥주는 St. Bernardus라는 브랜드명으로 판매된다. 이 브랜드의 맥주는 지역 밖에서는 구하기 어려운 St. Sixtus 맥주와 레시피와 스타일이 매우 가깝다고 평가된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "19세기 후반 프랑스의 반교권주의로 Catsberg 수도원 공동체는 벨기에 West Flanders의 Watou 마을로 옮겨야 했다. 이곳에 Refuge Notre Dame de St. Bernard가 세워져 수도원 활동 자금을 마련하기 위해 치즈를 생산했다. 1934년 벨기에 분원을 닫고 수도 활동을 프랑스로 되돌리기로 결정했고, Evarist Deconinck가 치즈 공장을 넘겨받았다. 1945년 St. Sixtus 수도원이 맥주 판매를 중단하자 수도사들이 자신들이 마실 맥주만 양조하기로 하는 합의가 이루어졌고, 치즈 공장은 면허를 받아 Brewery St. Bernard로 설립되었다. Westvleteren의 양조 책임자 Mathieu Szafranski가 동업자로 참여해 레시피와 노하우, St. Sixtus 효모 균주를 가져왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "St. Bernardus 상표로 Tripel(8% ABV), Extra 4(4.8%), Pater 6(6.7%), Prior 8(8%), Abt 12(10.0%)를 판매한다. Witbier(5.5%)는 맥주 양조자 Pierre Celis와 협업해 만들었다. 이 밖에 Watou Tripel(7.5%), Tokyo(6%), 겨울에만 판매하는 Christmas Ale(10%)가 있다. 과거 이 상표로 팔던 Grottenbier는 동굴에서 두 달간 숙성해 '동굴 맥주'라는 뜻의 이름이 붙었고, 2001년부터 2014년까지 판매되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1992년 Trappist 수도원들이 Trappist 맥주는 수도원 안에서만 양조할 수 있다고 결정하면서 면허 계약이 끝났다. 이후 Watou에서 양조한 맥주는 St. Bernardus라는 브랜드명으로 판매된다. 현재 St. Bernardus 상표로 Tripel, Pater 6, Prior 8, Abt 12 등 여러 맥주가 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Trappist 면허 양조에서 출발해 1992년부터 독자 상표로 맥주를 판매하며, St. Sixtus 맥주와 레시피와 스타일이 가깝다고 평가되는 Watou의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sintbernardus.be/",
+  "entityLinks": {
+   "wikidata": "Q2497996",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2497996",
+    "https://en.wikipedia.org/wiki/St._Bernardus_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2497996",
+   "country": "벨기에",
+   "inception": "1946",
+   "headquarters": "Watou",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「St. Bernardus Brewery」 본문과 위키데이터 Q2497996 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q4569896",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "rolling-rock",
+  "urlSlug": "rolling-rock",
+  "name": "Rolling Rock",
+  "nameKo": "",
+  "nameEn": "Rolling Rock",
+  "definition": "Rolling Rock은 1939년 미국 펜실베이니아의 Latrobe Brewing Company가 Latrobe에서 출시한 알코올 도수 4.4%의 미국식 라거 맥주이다. 지역 브랜드로 출발해 전국 제품이 되었다.",
+  "summary": "Rolling Rock은 1939년 미국 펜실베이니아의 Latrobe Brewing Company가 Latrobe에서 출시한 알코올 도수 4.4%의 미국식 라거 맥주이다. 지역 브랜드로 출발해 전국 제품이 되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "펜실베이니아 Latrobe의 지역 맥주로 시작해 작은 포니 병으로 알려졌고, 매각 후 양조지가 바뀐 뒤에도 라벨에 Latrobe 이름을 남긴 라거이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Rolling Rock은 펜실베이니아 서부의 지역 브랜드로 출발한 알코올 도수 4.4%의 미국식 라거 맥주이다. 공격적으로 마케팅한 끝에 결국 전국 제품이 되었다. 2006년 중반 세인트루이스의 Anheuser-Busch가 브랜드를 인수했고, 양조는 뉴저지로 옮겨졌다. 새 맥주의 라벨에는 계속해서 Latrobe라는 이름이 눈에 띄게 표시되었다. 2008년 7월 InBev가 Anheuser-Busch를 인수해 Anheuser–Busch InBev가 만들어졌고, 2009년에는 이 회사가 Rolling Rock 브랜드 매각을 검토한다고 발표했다. 인터넷 유명인 James Rolfe의 시리즈 Angry Video Game Nerd에서는 주인공이 화를 가라앉히려고 마시는 음료로 등장한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Rolling Rock은 1939년 펜실베이니아 Latrobe의 Latrobe Brewing Company가 출시했다. Latrobe는 피츠버그에서 34 miles 남동쪽에 있는 작은 도시이다. 병에 적힌 설명에 따르면 이 맥주는 지역 특유의 부드러운 물과, 도입 당시 최신 설비였던 대형 유리 내장 탱크로 양조되었다. 1939년부터 2006년 7월까지 Latrobe에서 양조되었으며, 지역 브랜드로 출발했으나 공격적인 마케팅을 거쳐 전국 제품으로 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 4.4%의 라거 Rolling Rock이며, 2006년 Anheuser-Busch가 사들인 브랜드에는 Rolling Rock Green Light도 포함되었다. Rolling Rock은 7 U.S. fl oz(207 ml) 용량의 포니 병으로 유명했다. 이 병은 1952년 펜실베이니아에서 가장 많이 팔린 프리미엄 맥주 포니였다. 포니라는 이름은 크기가 작아 붙은 19세기 미국의 작은 포니 잔에서 유래했다. 제품은 병과 캔으로 판매되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2006년 이후 Rolling Rock은 Anheuser-Busch의 뉴어크 시설에서 양조되었다. 2008년 7월 InBev가 Anheuser-Busch를 인수해 Anheuser–Busch InBev가 되었고, 2009년 이 회사는 Rolling Rock 브랜드 매각을 검토한다고 발표했다. 2015년에는 병 제품의 유리 내장 탱크 양조가 중단되어, 전통 방식으로 양조되는 제품은 캔 맥주뿐이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "펜실베이니아 Latrobe의 지역 맥주로 시작해 작은 포니 병으로 알려졌고, 매각 후 양조지가 바뀐 뒤에도 라벨에 Latrobe 이름을 남긴 라거이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.rollingrock.com",
+  "entityLinks": {
+   "wikidata": "Q4569896",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4569896",
+    "https://en.wikipedia.org/wiki/Rolling_Rock"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4569896",
+   "country": null,
+   "inception": "1939",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Rolling Rock」 본문과 위키데이터 Q4569896 팩트를 근거로 편집"
+ }
+}

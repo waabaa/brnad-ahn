@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2239073",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hertog-jan",
+  "urlSlug": "hertog-jan",
+  "name": "Hertog Jan",
+  "nameKo": "",
+  "nameEn": "Hertog Jan",
+  "definition": "Hertog Jan은 네덜란드의 양조장이자 맥주 브랜드이다. 1915년에 설립되었으며 본사는 Arcen에 있고, Anheuser–Busch InBev 그룹에 속한다.",
+  "summary": "Hertog Jan은 네덜란드의 양조장이자 맥주 브랜드이다. 1915년에 설립되었으며 본사는 Arcen에 있고, Anheuser–Busch InBev 그룹에 속한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "브라반트 공작 John I의 그림을 로고에 일관되게 사용하며, 통 숙성 맥주 Grand Prestige 시리즈를 내놓는 네덜란드 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Hertog Jan은 네덜란드에 기반을 둔 양조장이자 맥주 브랜드이다. 필스너, 계절별 맥주, 통에서 숙성한 Hertog Jan Grand Prestige 등 여러 스타일의 맥주를 같은 이름으로 생산한다. 1980년대 초 네덜란드에서 맥주 문화가 되살아나는 과정에서 중요한 역할을 했다. 1995년 국제적인 Interbrew 그룹에 편입되었고, 1998년 Hertog Jan Brouwerij로 이름을 바꾸었다. 양조장의 이름은 브라반트 공작 John I에서 따왔으며, 로고에는 처음부터 이 공작의 그림이 들어 있다. 2017년부터는 매년 한정판 맥주 Hertog Jan Grand Prestige Vatgerijpt를 출시하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "원래 Hertog Jan은 Deest의 유통업체 De Kikvorsch가 소유한 브랜드였다. 이 브랜드로 여러 종류의 맥주가 출시되었고, 그중 상면발효 맥주는 모두 Arcen의 Arcense Stoombierbrouwerij에서 만들었다. 1980년대 초 이 양조장은 네덜란드 맥주 문화의 부활에서 중요한 역할을 했다. 1995년 Interbrew 그룹의 일원이 되었고, 이 그룹은 이후 InBev를 거쳐 현재의 Anheuser–Busch InBev로 이어졌다. 1998년에는 Hertog Jan Brouwerij로 이름을 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 브랜드 이름으로 필스너, 계절별 맥주 등 여러 스타일의 맥주를 생산한다. 통에서 숙성한 맥주 Hertog Jan Grand Prestige가 대표적인 제품 가운데 하나이다. 2017년부터는 매년 한정판 Hertog Jan Grand Prestige Vatgerijpt를 출시하고 있다. 각 에디션은 서로 다른 주제를 가지며, 그 주제는 맥주를 숙성하는 통에 맞춰져 있다. 과거에는 이 브랜드로 나온 상면발효 맥주를 모두 Arcen의 Arcense Stoombierbrouwerij에서 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Hertog Jan Brouwerij는 Anheuser–Busch InBev 그룹에 속해 있으며 본사는 Arcen에 있다. 1995년 Interbrew에 편입된 이후 이 그룹 체제가 이어지고 있다. 2017년부터 매년 한정판 맥주를 내놓고 있다. 로고의 최신 버전은 영국 브랜딩 에이전시 Osborne Pike가 디자인했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "브라반트 공작 John I의 그림을 로고에 일관되게 사용하며, 통 숙성 맥주 Grand Prestige 시리즈를 내놓는 네덜란드 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hertogjan.nl/",
+  "entityLinks": {
+   "wikidata": "Q2239073",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2239073",
+    "https://en.wikipedia.org/wiki/Hertog_Jan"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2239073",
+   "country": "네덜란드",
+   "inception": "1915",
+   "headquarters": "Arcen",
+   "founders": [],
+   "parent": "앤하이저부시 인베브",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Hertog Jan」 본문과 위키데이터 Q2239073 팩트를 근거로 편집"
+ }
+}

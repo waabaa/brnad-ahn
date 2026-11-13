@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1083003",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "christianssands-bryggeri",
+  "urlSlug": "christianssands-bryggeri",
+  "name": "Christianssands Bryggeri",
+  "nameKo": "",
+  "nameEn": "Christianssands Bryggeri",
+  "definition": "Christianssands Bryggeri는 노르웨이 크리스티안산에 본사를 둔 양조장이다. 1859년 생산을 시작했으며 Hansa Borg Bryggerier에 속해 있다가 2022년에 문을 닫았다.",
+  "summary": "Christianssands Bryggeri는 노르웨이 크리스티안산에 본사를 둔 양조장이다. 1859년 생산을 시작했으며 Hansa Borg Bryggerier에 속해 있다가 2022년에 문을 닫았다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "크리스티안산에서 Christian IV의 수원 물로 맥주와 크리스마스 탄산음료 julebrus를 만들었고, 평생회원 10,000명이 넘는 팬클럽을 둔 지역 양조장이었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CB는 Kristiansand's Brewery로도 불린, 노르웨이 크리스티안산을 중심으로 맥주를 만들어 온 양조장이다. 베르겐의 Hansa Bryggeri, Sarpsborg의 Borg Bryggerier와 함께 Hansa Borg Bryggerier AS를 구성했다. 이 그룹은 Carlsberg 소유의 Ringnes에 이어 노르웨이에서 두 번째로 큰 양조장 그룹이다. CB는 2022년에 문을 닫았고, 그 뒤 생산을 Sarpsborg로 이전했다. 맥주 외에 크리스마스 탄산음료 julebrus로도 알려져 있으며, 평생회원이 10,000명을 넘는 팬클럽 CB-ølets venner를 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CB는 1856년 영사 Ole Jacob Mørch가 세웠다. 1859년 그는 크림 전쟁 이후의 어려운 경기 탓에 다른 사업체와 함께 양조장을 팔아야 했다. 영사 Jørgen Christiansen이 양조장을 인수해 건설을 마치고 1859년 가을에 생산을 시작했다. 당시 크리스티안산의 인구는 약 11,000명이었고 양조장은 성공을 거두었다. Christiansen 가문이 1964년까지 5대에 걸쳐 경영했고, 이후 여러 소유주를 거쳐 1999년부터 Hansa Borg Bryggerier AS에 속했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CB의 모든 제품은 Christian IV의 수원에서 얻은 아르테시안 지하수로 양조했다. 이 수원은 1932년 매우 건조했던 여름에 회사의 배관공이 점지팡이로 찾았다고 한다. 그는 32미터 깊이에서 맑고 순수한 물을 발견했고, 이 물은 여름과 겨울 모두 섭씨 9~10도를 유지한다. 맥주 팬클럽 CB-ølets venner의 평생회원은 10,000명이 넘고, julebrus는 황금빛 갈색이며 샴페인을 연상시키는 맛이 난다. CB 맥주는 크리스티안산에서 생산했으나 2022년 이후 생산지를 Sarpsborg로 옮겼다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "CB는 2022년에 문을 닫았고 생산은 Sarpsborg로 이전했다. 1964년 이후 주식은 스타방에르의 Tou Brewery에 팔렸고, 이후 투자자 그룹 Sørlandvekst와 스웨덴 양조장 Spendrups를 거쳐 1999년부터 Hansa Borg Bryggerier AS가 소유했다. 이 그룹은 노르웨이에서 두 번째로 큰 양조장 그룹이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "크리스티안산에서 Christian IV의 수원 물로 맥주와 크리스마스 탄산음료 julebrus를 만들었고, 평생회원 10,000명이 넘는 팬클럽을 둔 지역 양조장이었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1083003",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1083003",
+    "https://en.wikipedia.org/wiki/Christianssands_Bryggeri"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1083003",
+   "country": "노르웨이",
+   "inception": "1859",
+   "headquarters": "크리스티안산",
+   "founders": [],
+   "parent": "Hansa Borg Bryggerier",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Christianssands Bryggeri」 본문과 위키데이터 Q1083003 팩트를 근거로 편집"
+ }
+}

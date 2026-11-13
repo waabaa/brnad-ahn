@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q4956054",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brakspear-brewery",
+  "urlSlug": "brakspear-brewery",
+  "name": "Brakspear Brewery",
+  "nameKo": "",
+  "nameEn": "Brakspear Brewery",
+  "definition": "Brakspear Brewery는 영국 옥스퍼드셔 헨리온템스에 있던 양조장이다. 1711년 W. H. Brakspear가 양조장을 인수하며 시작되었고, 2002년 양조장이 문을 닫은 뒤에는 다른 양조장이 맥주를 생산한다.",
+  "summary": "Brakspear Brewery는 영국 옥스퍼드셔 헨리온템스에 있던 양조장이다. 1711년 W. H. Brakspear가 양조장을 인수하며 시작되었고, 2002년 양조장이 문을 닫은 뒤에는 다른 양조장이 맥주를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "헨리온템스에서 시작해 더블 드롭 발효 방식과 Michael Jackson이 1993년 영국 최고로 평가한 'ordinary' 비터로 구분되는 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brakspear는 영국 옥스퍼드셔 헨리온템스에서 W. H. Brakspear & Sons Ltd.가 운영하던 양조장이다. 2002년 양조장이 문을 닫은 뒤 맥주는 West Oxfordshire의 Wychwood Brewery에서 만들어졌다. 1993년 맥주 저술가 Michael Jackson은 이 회사의 'ordinary' 비터를 영국 최고의 비터로 평가했다. 맥주는 전통적인 더블 드롭 발효 방식으로 양조하며, 사용하는 효모는 런던 Mile End의 Mann, Crossman & Paulin에 먼 기원을 둔다. 이후 생산지는 여러 양조장으로 옮겨 다녔고, 2026년 9월 기준으로는 Surrey의 Hogs Back Brewery가 양조를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1711년 W. H. Brakspear가 헨리온템스 Bell Street에 있던 양조장을 사들였다. Brakspear 가문은 1154년 교황 Adrian IV가 된 Nicholas Breakspear와 먼 친척 관계였으며, 그는 교황이 된 유일한 영국인이다. 1812년 양조장은 New Street의 템스강변으로 옮겼다. 2002년 W. H. Brakspear & Sons는 Wychwood Brewery의 소유주인 Refresh UK에 맥주 양조를 허가하고 자체 생산을 중단했다. 양조장 부지는 매각되어 일부가 Hotel du Vin 부티크 호텔로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 비터 계열 맥주이며, 그중 'ordinary' 비터가 널리 평가받았다. 맥주는 위층 용기에서 발효를 시작한 뒤 아래 용기로 옮기는 더블 드롭 방식으로 양조한다. Refresh UK는 이 방식과 수명이 긴 다균주 효모 덕분에 디아세틸에서 비롯된 버터스카치 풍미가 난다고 주장한다. 1993년 Michael Jackson이 방문했을 때 보리는 Maris Otter였고 물은 자체 우물에서 얻었으며, 홉은 Kent의 Goldings, Hereford의 Fuggles, 'Styrians'였다. 한편 Brakspear Pub Company는 펍 사업을 운영하며 2013년 봄 Henley의 Bull 펍에 Bell Street Brewery를 열어 제한적으로 양조를 재개했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2006년 Brakspear Pub Company와 104개 펍은 펍 체인 J. T. Davies에 인수되었고, Davies의 51개 펍은 Brakspear 이름으로 전환했다. 2023년 Wychwood Brewery가 문을 닫자 생산은 Wolverhampton의 Banks's Brewery로 잠시 옮겼고, 2025년 8월 말 그곳이 폐쇄되면서 Burton-upon-Trent의 Carlsberg 양조장으로 이전했다. 2026년 9월 기준 Surrey의 Hogs Back Brewery가 양조하며 원래의 Double Drop 발효 방식으로 돌아왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "헨리온템스에서 시작해 더블 드롭 발효 방식과 Michael Jackson이 1993년 영국 최고로 평가한 'ordinary' 비터로 구분되는 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brakspear-beers.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q4956054",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4956054",
+    "https://en.wikipedia.org/wiki/Brakspear_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4956054",
+   "country": "영국",
+   "inception": "1711",
+   "headquarters": "헨리온템스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brakspear Brewery」 본문과 위키데이터 Q4956054 팩트를 근거로 편집"
+ }
+}

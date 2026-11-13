@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1970693",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/mikkeller-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mikkeller",
+  "urlSlug": "mikkeller",
+  "name": "Mikkeller",
+  "nameKo": "",
+  "nameEn": "Mikkeller",
+  "definition": "Mikkeller는 2006년 덴마크 코펜하겐에서 설립된 크래프트 양조회사이다. 자체 양조장을 두지 않고 다른 양조장에서 맥주를 생산하는 방식으로 출발했다.",
+  "summary": "Mikkeller는 2006년 덴마크 코펜하겐에서 설립된 크래프트 양조회사이다. 자체 양조장을 두지 않고 다른 양조장에서 맥주를 생산하는 방식으로 출발했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "자체 양조장 없이 다른 양조장을 빌려 약 2000종에 이르는 실험적 맥주를 내놓는, '뻐꾸기' 또는 '유령' 양조 방식의 크래프트 브루어리이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mikkeller는 덴마크 코펜하겐에 본사를 둔 크래프트 양조회사로, Mikkel Borg Bjergsø가 창업했다. 실험적이고 새로운 맛을 내는 맥주로 평가받으며 전 세계 맥주 애호가들 사이에서 인기를 얻고 있다. 지금까지 오크통이나 여러 증류주를 담았던 통에서 숙성한 변형 제품을 포함해 다양한 스타일의 맥주를 약 2000종 출시했다. 맥주는 전 세계 50개국에서 판매되며, 여러 곳의 양조장을 빌려 생산하는 방식을 지금도 유지하고 있다. 대부분의 제품은 한정된 기간에, 소량으로, 또는 특정 장소에서만 구할 수 있다. 인기에 비해 생산 여력이 부족해 수요를 충족하는 데 어려움을 겪고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2006년 코펜하겐에서 고등학교 교사였던 Mikkel Bjergsø와 저널리스트 Kristian Klarup Keller가 회사를 설립했다. 두 사람은 독학한 홈브루어로, 기존 맥주를 복제해 보다가 블라인드 테이스팅에서 성과를 낸 뒤 자신들의 레시피를 만들고 덴마크의 여러 홈브루잉 대회에서 다수 우승했다. 2005년 Bjergsø의 형제가 맥주 가게를 열어 이들의 맥주를 여러 나라에 유통하기 시작했고, 회사 이름은 두 사람의 홈브루잉 활동에서 따왔다. 2006년 말 실험적인 맥주 Beer Geek Breakfast가 국제 맥주 투표 행사의 스타우트 부문에서 우승하며 이름을 알렸고, 코펜하겐 맥주 축제에 처음 공식 참가해 8종을 선보였다. Keller는 2007년 회사를 떠나 저널리스트의 길을 택했고, Bjergsø가 회사를 이끌게 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 다양한 스타일의 크래프트 맥주이다. Beer Geek Breakfast는 2006년 말 국제 투표 행사의 스타우트 부문에서 우승하며 회사를 알린 맥주이다. 일부 맥주는 상시 생산되지만 대부분은 한정 기간, 소량, 특정 장소 등의 조건으로 출시된다. 맥주 외에 코펜하겐의 Warpigs와 Mikkeller Brewpub London 같은 브루펍을 여러 곳 운영한다. 또 Rick Astley와 협업해 런던의 Islington과 Shoreditch에 두 곳의 펍을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "지금도 주로 벨기에의 de Proefbrouwerij를 비롯해 덴마크, 노르웨이, 영국, 미국의 여러 양조장에서 맥주를 생산한다. 연간 생산량은 17,000헥토리터이다. 2016년 4월에는 AleSmith가 쓰던 시설에 캘리포니아 샌디에이고의 첫 미국 양조장을 열었고, 2017년 발표한 뉴욕 Citi Field의 두 번째 미국 양조장은 2020년 영구 폐쇄되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자체 양조장 없이 다른 양조장을 빌려 약 2000종에 이르는 실험적 맥주를 내놓는, '뻐꾸기' 또는 '유령' 양조 방식의 크래프트 브루어리이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mikkeller.dk",
+  "entityLinks": {
+   "wikidata": "Q1970693",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1970693",
+    "https://en.wikipedia.org/wiki/Mikkeller"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1970693",
+   "country": "덴마크",
+   "inception": "2006",
+   "headquarters": "코펜하겐",
+   "founders": [
+    "Mikkel Borg Bjergsø"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Mikkeller」 본문과 위키데이터 Q1970693 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

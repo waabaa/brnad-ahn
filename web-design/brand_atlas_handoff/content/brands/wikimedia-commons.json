@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-10-18",
+ "qid": "Q565",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 6247,
+  "enViews": 52576,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/wikimedia-commons-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "wikimedia-commons",
+  "urlSlug": "wikimedia-commons",
+  "name": "위키미디어 공용",
+  "nameKo": "위키미디어 공용",
+  "nameEn": "Wikimedia Commons",
+  "definition": "위키미디어 공용(Wikimedia Commons)은 그림, 소리 등 자유 콘텐츠 멀티미디어 파일의 저장소이며, 위키미디어 재단의 프로젝트 중 하나이다. 올라온 파일은 다른 모든 위키미디어 프로젝트에서 함께 이용할 수 있다.",
+  "summary": "위키미디어 공용(Wikimedia Commons)은 그림, 소리 등 자유 콘텐츠 멀티미디어 파일의 저장소이며, 위키미디어 재단의 프로젝트 중 하나이다. 올라온 파일은 다른 모든 위키미디어 프로젝트에서 함께 이용할 수 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 5,
+  "image": "",
+  "logo": "",
+  "insight": "위키미디어 재단이 운영하는 공용 미디어 저장소로, 한 번 올린 자유 저작물을 모든 위키미디어 프로젝트가 함께 쓰게 한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "위키미디어 공용은 자유 콘텐츠인 그림, 소리 등의 멀티미디어 파일을 저장하는 위키미디어 재단의 프로젝트이다. 이곳에 올라온 파일은 위키백과, 위키책, 위키뉴스, 위키데이터, 위키낱말사전 등 다른 모든 위키미디어 프로젝트에서 같이 이용할 수 있다. 상업적 이용이 금지된 파일처럼 자유로운 이용이 제한된 파일은 올릴 수 없다. 위키미디어 재단이 위치한 미국과 저작물의 출처 국가에서 모두 자유 저작물인 경우에만 업로드할 수 있다. 미국 국립문서기록관리청, 미국 디지털 공립도서관, 세계보건기구 등 여러 기관이 파일을 올려 왔으며, 한편으로 업로드되는 콘텐츠를 둘러싼 논란도 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "위키미디어 공용에 대한 최초의 아이디어는 2004년 3월 에릭 묄러로부터 나왔다. 같은 파일이 각 언어별 위키미디어 프로젝트마다 중복으로 올려져 용량이 낭비되는 일을 막자는 것이 가장 주요한 제안 이유였다. 프로젝트는 2004년 9월에 시작되었다. 2013년 7월에는 편집 횟수가 1억 회에 도달했다. 2018년에는 STL 형식으로 입체 모델을 업로드할 수 있게 되었으며, 첫 입체 모델 중 하나는 2015년 이라크 레반트 이슬람국에 의해 파괴된 팔미라의 알라트 사자상을 복원한 것이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자유 콘텐츠인 그림, 소리 등의 멀티미디어 파일을 저장하고 다른 위키미디어 프로젝트에 제공하는 저장소 서비스이다. 허용하는 라이선스는 GNU 자유 문서 사용 허가서, 일부 크리에이티브 커먼즈 라이선스, 공공누리 제1유형 라이선스, 사용 제약이 없는 퍼블릭 도메인 등이다. 개별 프로젝트에 파일을 올리는 것도 여전히 허용되며, 공정 이용처럼 공용에서는 금지하지만 각 프로젝트의 정책에 따라 허용되는 파일에 쓰인다. 2018년부터는 STL 형식의 입체 모델도 올릴 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 미국 국립문서기록관리청은 약 10만 개의 디지털 이미지를 올렸고, 2022년 미국 디지털 공립도서관은 200만 개 이상의 파일을 업로드했다. 유럽의 문화유산 웹사이트 유로피아나는 공용을 통해 디지털 이미지를 공유하며, 세계보건기구는 코로나19 범유행 기간에 협업해 인포그래픽을 올렸다. 아마추어 포르노그래피 업로드를 둘러싼 비판도 이어져 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "위키미디어 재단이 운영하는 공용 미디어 저장소로, 한 번 올린 자유 저작물을 모든 위키미디어 프로젝트가 함께 쓰게 한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://commons.wikimedia.org/",
+  "entityLinks": {
+   "wikidata": "Q565",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q565",
+    "https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%AF%B8%EB%94%94%EC%96%B4_%EA%B3%B5%EC%9A%A9",
+    "https://en.wikipedia.org/wiki/Wikimedia_Commons"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q565",
+   "country": "국제",
+   "inception": "2004",
+   "headquarters": null,
+   "founders": [
+    "에릭 묄러",
+    "지미 웨일스",
+    "위키미디어 재단"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-18"
+  },
+  "sourceNote": "한국어 위키백과 「위키미디어 공용」 요약과 위키데이터 Q565 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

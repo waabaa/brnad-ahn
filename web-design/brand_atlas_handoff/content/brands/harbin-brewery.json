@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1584923",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "harbin-brewery",
+  "urlSlug": "harbin-brewery",
+  "name": "하얼빈 맥주",
+  "nameKo": "하얼빈 맥주",
+  "nameEn": "Harbin Brewery",
+  "definition": "하얼빈 맥주(Harbin Brewery)는 1900년 중국 하얼빈에서 설립된 중국의 맥주 양조 회사이다. 중국에서 가장 오래된 양조장이며 규모로는 네 번째로 큰 맥주 회사이다.",
+  "summary": "하얼빈 맥주(Harbin Brewery)는 1900년 중국 하얼빈에서 설립된 중국의 맥주 양조 회사이다. 중국에서 가장 오래된 양조장이며 규모로는 네 번째로 큰 맥주 회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "1900년 폴란드인이 세운 양조장에서 출발해 현재 중국에서 가장 오래된 양조 회사이자 동북 지역의 선도 브랜드라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "하얼빈 맥주는 중국 하얼빈에서 1900년에 설립된 양조 회사로, 중국에서 가장 오래된 양조장이다. 중국에서 네 번째로 큰 양조 회사이며 중국 동북 지역에서 선도적인 위치를 차지하고, Hapi 맥주 브랜드를 보유하고 있다. 연간 맥주 생산 능력을 크게 늘렸고, 개혁에 성공한 뒤 홍콩 증시에 상장하면서 중국 맥주 업계의 대기업이 되었다. 다만 Tsingtao Beer나 Zhujiang Beer와 비교하면 유럽과 미국 시장에서의 점유율은 작다. 북미 시장에서는 처음에 중국계 슈퍼마켓에서 판매되기 시작했고, 지금도 이곳이 주된 판매처이며 점차 다른 아시아계 슈퍼마켓으로 판매망을 넓혀 갔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1900년 러시아령 폴란드의 Tarczyn 출신 폴란드인 Jan Wróblewski가 당시 만주로 불리던 중국 동북부에 양조장을 세우고 자신의 이름을 붙였다. 초기 목적은 1898년에 시작된 Trans-Manchurian Railway 공사에 참여한 러시아인들에게 맥주를 공급하는 것이었다. 1908년 Gloria로 이름을 바꿨고, 1932년에는 중국인과 체코인이 공동으로 관리하면서 Harbin Brewery Factory가 되었다. 1946년 소련군이 만주를 점령한 뒤에는 소련인이 운영하며 Quilin Stock Company Limited로 불렀고, 1950년 소유권이 중국 정부에 반환되어 Harbin Brewery라는 이름의 국영 기업으로 운영되었다. 1959년에는 기근 속에서 쌀 대신 옥수수로 맥주를 만든 첫 회사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Harbin Beer(哈尔滨啤酒)로, 알코올 도수 4.8%의 페일 라거 맥주이다. 원료로는 유럽산과 중국산 'Qindao Dahua' 홉, two-row 맥아, 독일 효모를 쓴다. 회사가 보유한 Hapi 브랜드를 비롯해 맥주 제품으로 Hapi, Golden Hapi, Harbin Heart, Harbin Premium Lager가 있으며, 회사가 생산하는 맥주 가운데 하나는 밀맥주이다. 북미 시장에서 Harbin 맥주는 처음에 중국계 슈퍼마켓에서 판매되었고, 지금도 이곳이 주된 판매처이며 점차 다른 아시아계 슈퍼마켓으로 판매망을 넓혀 갔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2003년 6월 SABMiller가 지분 29.6%를 인수했고, 2004년에는 치열한 인수 경쟁 끝에 Anheuser-Busch가 회사를 인수했다. 회사는 홍콩 증시에 상장했으며, 연간 맥주 생산 능력을 늘려 중국 맥주 업계의 대기업이 되었다. 현재 중국에서 네 번째로 큰 양조 회사이며 중국 동북 지역에서 선도적인 위치를 유지하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1900년 폴란드인이 세운 양조장에서 출발해 현재 중국에서 가장 오래된 양조 회사이자 동북 지역의 선도 브랜드라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.harbin-beer.cn/",
+  "entityLinks": {
+   "wikidata": "Q1584923",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1584923",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EC%96%BC%EB%B9%88_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Harbin_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1584923",
+   "country": "중화인민공화국",
+   "inception": "1900",
+   "headquarters": "하얼빈시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Harbin Brewery」 본문과 위키데이터 Q1584923 팩트를 근거로 편집"
+ }
+}

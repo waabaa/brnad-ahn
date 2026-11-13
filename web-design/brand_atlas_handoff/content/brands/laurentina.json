@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q27972948",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/laurentina-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "laurentina",
+  "urlSlug": "laurentina",
+  "name": "Laurentina",
+  "nameKo": "",
+  "nameEn": "Laurentina",
+  "definition": "Laurentina는 1932년에 설립된 모잠비크 최초의 맥주 브랜드이자 과거 양조장이다. 2002년부터 모잠비크 양조 그룹 Cervejas de Moçambique의 브랜드이며, 이 회사는 Anheuser-Busch InBev의 자회사이다.",
+  "summary": "Laurentina는 1932년에 설립된 모잠비크 최초의 맥주 브랜드이자 과거 양조장이다. 2002년부터 모잠비크 양조 그룹 Cervejas de Moçambique의 브랜드이며, 이 회사는 Anheuser-Busch InBev의 자회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "모잠비크에서 처음 만들어진 맥주 브랜드로, 식민지 시기에 시작해 현재 AB InBev 계열 CDM의 여러 브랜드 중 하나로 남아 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "모잠비크에서 처음 만들어진 맥주 브랜드로, 1932년에 생산이 시작되었다. 한때 별도의 양조장이기도 했으나 지금은 Cervejas de Moçambique(CDM)가 운영하는 맥주 브랜드이다. CDM은 Anheuser-Busch InBev의 자회사이며, Laurentina는 모잠비크 맥주 시장에서 약 20%의 점유율을 차지한다. 시장 선두는 1962년에 등장한 2M이며, CDM은 Manica와 Impala 등 다른 모잠비크 맥주 브랜드도 보유한다. 2006년부터 CDM이 다시 수출에 나서 남아프리카공화국과 영국이 주요 대상 국가이지만, 수출은 전체 판매의 작은 부분에 그친다. 흑맥주 Laurentina Preta는 2008년 Monde Selection에서 금메달을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "당시 포르투갈 식민지였던 모잠비크에서 그리스 이민자 Cretikos가 1916년 Victoria Ice and Water Factory를 세웠다. 이 공장은 모잠비크 최초의 얼음 및 미네랄워터 공장이었으며, 이후 청량음료로 생산을 넓히고 모잠비크 최초의 맥주 생산도 목표로 삼았다. Cretikos는 독일에 가서 양조 장인을 고용했고, 그의 레시피에 따라 1932년 새 맥주 생산이 시작되었다. 이름 Laurentina는 도시 Lourenço Marques(현 Maputo) 주민을 부르던 통칭 'laurentinos'에서 따왔다. 양조장은 이후 Fábrica de Cerveja Reunidas가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Laurentina의 제품군에는 Laurentina Clara(라거), Laurentina Preta(흑맥주), Laurentina Premivelo가 있다. 같은 소유사 CDM은 시장 선두인 2M, 전통 맥주 Manica, 2012년에 출시된 Impala도 보유한다. Impala는 카사바로 만든, 세계 최초의 산업 생산 맥주로 소개된다. Laurentina 브랜드는 그동안 총 5개의 메달을 받았다. 2008년 Laurentina Preta가 Monde Selection 금메달을, 2009년 Laurentina Premium이 같은 대회 Grand Gold 메달을 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Laurentina는 2002년부터 CDM의 브랜드이며, CDM은 SABMiller Group(현 AB InBev)이 49.1%를 소유하고 경영을 맡는다. 모잠비크 맥주 시장 점유율은 약 20%이다. 2006년부터 CDM이 다시 표적 수출을 시작했으며 영국과 남아프리카공화국이 주요 대상이지만 수출 비중은 작다. 2011년 Laurentina Preta 광고가 논란이 되어 CDM이 광고를 철회했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "모잠비크에서 처음 만들어진 맥주 브랜드로, 식민지 시기에 시작해 현재 AB InBev 계열 CDM의 여러 브랜드 중 하나로 남아 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://cdm.co.mz/",
+  "entityLinks": {
+   "wikidata": "Q27972948",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27972948",
+    "https://en.wikipedia.org/wiki/Laurentina"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27972948",
+   "country": "모잠비크",
+   "inception": "1932",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Laurentina」 본문과 위키데이터 Q27972948 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

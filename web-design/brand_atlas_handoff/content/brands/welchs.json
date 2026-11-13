@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q7980538",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/welchs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "welchs",
+  "urlSlug": "welchs",
+  "name": "웰치스",
+  "nameKo": "웰치스",
+  "nameEn": "Welch's",
+  "definition": "웰치스(Welch's)는 미국의 식품 기업으로, 콩코드 포도로 만든 포도 주스와 잼, 젤리로 알려져 있다. 포도 재배 농가의 협동조합인 National Grape Cooperative Association이 1956년부터 소유하고 있다.",
+  "summary": "웰치스(Welch's)는 미국의 식품 기업으로, 콩코드 포도로 만든 포도 주스와 잼, 젤리로 알려져 있다. 포도 재배 농가의 협동조합인 National Grape Cooperative Association이 1956년부터 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "포도 재배 농가의 협동조합이 소유한 미국 기업으로, 금주 운동 속에서 발효되지 않은 포도 주스를 내놓은 데서 출발한 콩코드 포도 주스·잼 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "웰치스는 어두운 색의 콩코드 포도로 만든 포도 주스, 잼, 젤리와 흰색 나이아가라 포도 주스로 특히 잘 알려진 미국 기업이다. 정식 회사명은 Welch Foods Inc.이며, 포도 재배 농가의 협동조합이 소유하고 있다. 주스 외에도 냉장 주스, 냉동 및 상온 보관 농축액, 유기농 포도 주스, 과일 스낵, 건과일 등 다양한 제품을 만들어 판매한다. 1974년부터는 포도 향 탄산음료에도 웰치스라는 이름을 라이선스해 왔다. 현재 포도 및 딸기 탄산음료는 Global Beverage Corporation에 라이선스되어 있다. 또한 The Promotion In Motion Companies, Inc.가 만드는 과일 스낵도 웰치스 이름을 사용하는 대표적인 제품이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "웰치스는 1869년 미국 뉴저지주 바인랜드에서 금주를 신념으로 한 치과의사 Thomas Bramwell Welch와 그의 아들 Charles Welch가 설립했다. 같은 해 Thomas Bramwell Welch가 포도 주스를 저온 살균해 발효를 멈추는 방법을 만든 것으로 알려져 있다. 그는 Wesleyan Methodist Connexion 신자로, 성찬식에서 포도주 대신 발효되지 않은 포도 주스를 쓰자는 교파의 입장을 따랐다. 처음에는 \"Dr. Welch's Unfermented Wine\"으로 판매하다가, 1893년 Charles E. Welch와 함께 뉴욕주 웨스트필드에서 Welch's Grape Juice Company로 법인화하면서 \"Welch's Grape Juice\"가 되었다. 금주 운동이 커지면서 포도 주스의 인기도 높아졌고, 제1차 세계대전 중에는 군에 포도 잼의 일종인 \"grapelade\"를 공급했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "웰치스는 주스, 젤리와 잼, 과일 스낵을 생산한다. 100% 주스로는 Concord Grape, Red Grape, White Grape, Apple, Orange 등이 있다. 주스 음료로는 Fruit Punch, Mango Twist, Cranberry Juice Cocktail, Passion Fruit 등이 있다. 이 밖에 냉장 주스, 냉동 및 상온 보관 농축액, 유기농 포도 주스, 건과일을 만든다. 포도·딸기 탄산음료는 Global Beverage Corporation에 라이선스되어 있고, 웰치스 이름을 쓴 과일 스낵는 The Promotion In Motion Companies, Inc.가 만든다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1956년부터 포도 재배 농가의 협동조합인 National Grape Cooperative Association이 회사를 소유하고 있다. 이 협동조합은 미시간, 뉴욕, 오하이오, 펜실베이니아, 메릴랜드, 워싱턴과 캐나다 온타리오의 1,300개 포도 재배 농가로 구성된다. 가장 큰 제조 공장은 펜실베이니아주 노스이스트에 있다. 가장 오래된 관련 건물인 Welch Factory Building No. 1은 뉴욕주 웨스트필드에 있으며 1983년 National Register of Historic Places에 등재되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "포도 재배 농가의 협동조합이 소유한 미국 기업으로, 금주 운동 속에서 발효되지 않은 포도 주스를 내놓은 데서 출발한 콩코드 포도 주스·잼 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.welchs.com/",
+  "entityLinks": {
+   "wikidata": "Q7980538",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7980538",
+    "https://ko.wikipedia.org/wiki/%EC%9B%B0%EC%B9%98_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Welch%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7980538",
+   "country": "미국",
+   "inception": "1869",
+   "headquarters": "콩코드",
+   "founders": [
+    "Thomas Bramwell Welch",
+    "Charles Edgar Welch"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Welch's」 본문과 위키데이터 Q7980538 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

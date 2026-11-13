@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q478119",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/amstel-brewery-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "amstel-brewery",
+  "urlSlug": "amstel-brewery",
+  "name": "암스텔",
+  "nameKo": "암스텔",
+  "nameEn": "Amstel Brewery",
+  "definition": "암스텔(Amstel Brewery)은 1870년 암스테르담에서 설립된 네덜란드의 맥주 양조회사이자 맥주 브랜드이다. 1968년 하이네켄에 인수되었으며 현재 하이네켄이 이 브랜드로 여러 맥주를 판매한다.",
+  "summary": "암스텔(Amstel Brewery)은 1870년 암스테르담에서 설립된 네덜란드의 맥주 양조회사이자 맥주 브랜드이다. 1968년 하이네켄에 인수되었으며 현재 하이네켄이 이 브랜드로 여러 맥주를 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "암스테르담의 양조장에서 출발해 하이네켄 산하의 국제 맥주 브랜드가 되었으며, 라거부터 무알코올 맥주와 라들러까지 갖춘 라인업을 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "암스텔은 네덜란드의 맥주 브랜드로, 1870년 암스테르담의 Mauritskade에 세워진 양조장에서 출발했다. 이름은 노르트홀란트를 흐르는 암스텔강에서 따왔다. 초기에는 주로 암스테르담에서 소비되었으나 철도망이 확장되면서 판매 지역이 넓어졌고, 1883년부터는 영국과 네덜란드령 동인도로도 수출되었다. 1926년에는 네덜란드 맥주 수출의 3분의 1을 차지했다. 1968년 Heineken N.V.에 인수되었고, 생산은 자위트홀란트의 Zoeterwoude에 있는 하이네켄 주력 공장으로 옮겨졌다. 현재 하이네켄이 암스텔 브랜드로 여러 맥주를 내놓으며, Amstel Lager는 75개국에서 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "암스텔 양조장은 Charles Antoine de Pesters, Johannes Hendrikus van Marwijk Kooy, Willem Eduard Uhlenbroek 세 사람이 세웠다. 첫 기초석은 1870년 6월 11일에 놓였고, 양조장은 1872년 1월 15일 공식 개장했다. 당시 연간 양조 능력은 10,000헥토리터였으며, 맥주 저장을 위해 운하의 겨울 얼음을 이중벽 지하 저장고에 보관했다. 1884년에는 네덜란드령 동인도 등 해외 시장용 맥주를 살균해 금속 통에 담는 수출 전용 병입 시설을 지었다. 1891년 1월 1일 주식회사로 전환했고, 1915년에는 생산량이 스무 배로 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "하이네켄은 암스텔 브랜드로 여러 맥주를 판매한다. Amstel Lager는 주로 밝은 필스너 맥아를 쓰고 일부 어두운 맥아도 사용하며, 75개국에서 판매된다. Amstel Light는 미국과 네덜란드에서 알코올 도수 3.5%의 페일 라거로 판매되고, 뉴질랜드에서는 2.5% 변형이 판매된다. Amstel 1870은 도수 5%의 약간 짙은 라거이다. 무알코올 맥주 Amstel Zero는 네덜란드, 그리스, 이집트 등에서 살 수 있으며, 라거와 레모네이드를 섞은 도수 2%의 Amstel Radler도 여러 나라에서 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 암스텔은 Heineken N.V.가 소유한 브랜드이며, 본사는 Zoeterwoude에 있다. 암스테르담의 옛 양조장 건물은 철거되었고 행정 건물만 남아 Amsterdam University of Applied Sciences의 일부가 되었다. 영국에서 Amstel Bier의 도수는 2025년 4.1%에서 3.4%로 낮아졌다. 20세기 말 스페인에서는 하이네켄이 현지 100년 전통 브랜드 El Águila를 암스텔로 대체했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "암스테르담의 양조장에서 출발해 하이네켄 산하의 국제 맥주 브랜드가 되었으며, 라거부터 무알코올 맥주와 라들러까지 갖춘 라인업을 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.amstel.com",
+  "entityLinks": {
+   "wikidata": "Q478119",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q478119",
+    "https://ko.wikipedia.org/wiki/%EC%95%94%EC%8A%A4%ED%85%94_(%EB%A7%A5%EC%A3%BC)",
+    "https://en.wikipedia.org/wiki/Amstel_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q478119",
+   "country": "네덜란드",
+   "inception": "1870",
+   "headquarters": "Zoeterwoude",
+   "founders": [],
+   "parent": "하이네켄",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Amstel Brewery」 본문과 위키데이터 Q478119 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

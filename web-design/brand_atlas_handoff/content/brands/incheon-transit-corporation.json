@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q483883",
+ "demand": {
+  "why": "국내",
+  "naver": 0.036,
+  "koViews": 555,
+  "enViews": 0,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "incheon-transit-corporation",
+  "urlSlug": "incheon-transit-corporation",
+  "name": "인천교통공사",
+  "nameKo": "인천교통공사",
+  "nameEn": "Incheon Transit Corporation",
+  "definition": "인천교통공사(Incheon Transit Corporation)는 인천 도시철도와 인천종합버스터미널 등 대중교통 운영을 담당하는 인천광역시 산하 지방 공기업이다. 본사는 인천광역시 남동구 간석동에 있다.",
+  "summary": "인천교통공사(Incheon Transit Corporation)는 인천 도시철도와 인천종합버스터미널 등 대중교통 운영을 담당하는 인천광역시 산하 지방 공기업이다. 본사는 인천광역시 남동구 간석동에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "인천 도시철도와 버스터미널, BRT, 장애인콜택시까지 인천 지역 대중교통을 폭넓게 맡는 인천광역시 산하 지방 공기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인천교통공사는 인천 도시철도를 비롯한 인천종합버스터미널 등 대중교통 운영을 담당하는 인천광역시 산하 지방 공기업이다. 인천 도시철도 1호선과 2호선, 인천공항 자기부상철도의 운영을 맡고 있다. 서울 지하철 7호선 중 인천 및 부천 구간인 까치울역부터 석남역까지도 운영한다. 인천종합버스터미널과 장애인콜택시, 인천시 버스정보관리시스템, 청라~화곡 BRT 운영도 맡고 있다. 인천교통연수원 운영과 월미은하레일 구축 사업도 주요 업무에 포함되어 있다. 2011년 인천메트로가 (구)인천교통공사를 인수 합병하면서 현재의 인천교통공사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "인천 도시철도 1호선 운영을 담당할 목적으로 1992년 6월 30일 설립된 인천광역시 지하철 건설본부가 시초이다. 1993년 7월 5일 지하철 건설공사에 착공했고, 1998년 4월 15일 인천광역시 지하철공사로 창립되었다. 1999년 10월 16일 인천 도시철도 1호선 박촌~동막 구간을 개통했으며, 2009년 10월 6일 인천메트로로 사명을 바꾸었다. 한편 (구)인천교통공사는 1992년 12월 30일 지방공사 인천터미널로 설립되어 2005년 8월 26일 사명을 변경했다. 2011년 인천메트로가 (구)인천교통공사를 인수 합병하며 인천교통공사로 사명이 변경되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인천 도시철도 1호선은 검단호수공원역부터 송도달빛축제공원역까지 총연장 37.1 km, 역 30개 구간이다. 인천 도시철도 2호선은 검단오류역부터 운연역까지 총연장 29.2 km, 역 27개 구간이다. 이 밖에 인천공항 자기부상철도와 서울 지하철 7호선 까치울역~석남역 구간(총연장 11.9 km, 역 11개)을 운영한다. 버스 부문에서는 간선버스 63번, 순환버스 41번·42번·43번·47번, BRT 701번·702번·7700번을 운행한다. 인천종합버스터미널과 장애인콜택시도 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 12월 12일 인천 도시철도 1호선 국제업무지구~송도달빛축제공원 구간을 개통했다. 2021년 5월 서울 지하철 7호선 석남 구간 개통과 함께 산곡역·석남역 운영권을 이관받았고, 2022년 1월 1일 까치울~부평구청 구간 운영권도 서울교통공사로부터 이관받았다. 2025년 6월 28일에는 인천 도시철도 1호선 계양~검단호수공원 구간이 개통되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인천 도시철도와 버스터미널, BRT, 장애인콜택시까지 인천 지역 대중교통을 폭넓게 맡는 인천광역시 산하 지방 공기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ictr.or.kr",
+  "entityLinks": {
+   "wikidata": "Q483883",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483883",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%B2%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Incheon_Transit_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q483883",
+   "country": "대한민국",
+   "inception": "1998",
+   "headquarters": "인천광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「인천교통공사」 요약과 위키데이터 Q483883 팩트를 근거로 편집"
+ }
+}

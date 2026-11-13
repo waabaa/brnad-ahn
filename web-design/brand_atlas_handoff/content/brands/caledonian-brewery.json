@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q5019422",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "caledonian-brewery",
+  "urlSlug": "caledonian-brewery",
+  "name": "Caledonian Brewery",
+  "nameKo": "",
+  "nameEn": "Caledonian Brewery",
+  "definition": "Caledonian Brewery는 1869년 스코틀랜드 에든버러의 Shandon 지역에서 설립된 양조장이다. 현지에서는 'the Cally'로 불렸으며 2022년 생산을 중단했다.",
+  "summary": "Caledonian Brewery는 1869년 스코틀랜드 에든버러의 Shandon 지역에서 설립된 양조장이다. 현지에서는 'the Cally'로 불렸으며 2022년 생산을 중단했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "에든버러에서 153년간 맥주를 생산한 양조장으로, Deuchars IPA와 80/-를 내놓았고 현지에서는 'the Cally'로 불렸다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Caledonian Brewery는 스코틀랜드 에든버러의 Shandon 지역에서 1869년 설립된 양조장이다. 창업 당시에는 설립자 George Lorimer와 Robert Clark의 이름을 따 Lorimer and Clark Caledonian Brewery로 불렀다. 1939년 George Lorimer가 사망한 뒤 Vaux Breweries로 넘어갔고, 이후 Scottish & Newcastle과 Heineken이 소유했다. 2022년 5월 Heineken이 폐쇄 계획을 발표했고, 같은 해 양조장은 153년에 걸친 생산을 마감했다. 회사는 2024년 해산했고, 부지는 주택으로 개발될 예정이다. 대표 맥주로는 Deuchars IPA와 80/-가 꼽혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1869년 George Lorimer와 Robert Clark가 Slateford Road 부지에 Lorimer and Clark's Caledonian Brewery를 열었다. George Lorimer는 1865년 아버지가 에든버러 Theatre Royal 화재로 사망한 뒤 1868년 유산을 물려받아 양조장 설립을 결심했고, 당시 Alexander Melvin Brewery의 수석 양조사였던 Robert Clark의 도움을 받았다. 1892년 건축가 Robert Hamilton Paterson의 설계로 건물이 재건되고 새 양조장과 맥아 제조 건물이 들어섰다. 이 양조장은 스코틀랜드 전역에 맥주와 스타우트를 팔았으며, 주로 잉글랜드 북동부에서 팔린 Lorimer's Best Scotch가 가장 인기를 끌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Deuchars IPA와 80/-가 가장 잘 알려진 맥주로 꼽혔다. 80/-는 이후 Edinburgh Castle로 이름을 바꿨다. Flying Scotsman과 계절 맥주 네 종, 매달 바뀌는 게스트 에일도 양조했다. 유기농 맥주 Harvest Pale과 Golden Promise도 생산했다. 2022년 5월 발표된 폐쇄 계획에 따라 Deuchars, Coast to Coast, Maltsmiths 등의 생산은 Greene King 소유의 Dunbar Belhaven Brewery로 옮기기로 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Caledonian Brewery는 2022년 폐쇄되어 더 이상 맥주를 생산하지 않으며, 회사는 2024년 해산했다. 2022년 10월 JLL이 부지 매각을 맡았고, Artisan Real Estate가 B-listed 빅토리아 시대 건물이 있는 부지를 재개발을 위해 사들였다. 2025년 5월 168가구 주택 계획이 승인되었으며, 그중 약 5분의 1은 기존 건물 안에 들어선다. 새 건물은 약 30년 전 화재로 사라진 맥아 제조 건물의 스카이라인을 본뜰 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "에든버러에서 153년간 맥주를 생산한 양조장으로, Deuchars IPA와 80/-를 내놓았고 현지에서는 'the Cally'로 불렸다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.caledonianbeer.com/",
+  "entityLinks": {
+   "wikidata": "Q5019422",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5019422",
+    "https://en.wikipedia.org/wiki/Caledonian_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5019422",
+   "country": "영국",
+   "inception": "1869",
+   "headquarters": "에든버러",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Caledonian Brewery」 본문과 위키데이터 Q5019422 팩트를 근거로 편집"
+ }
+}

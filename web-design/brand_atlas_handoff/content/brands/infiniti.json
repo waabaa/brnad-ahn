@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q29714",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/infiniti-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "infiniti",
+  "urlSlug": "infiniti",
+  "name": "인피니티",
+  "nameKo": "인피니티",
+  "nameEn": "Infiniti",
+  "definition": "인피니티(Infiniti)는 일본 자동차 제조사 닛산 자동차가 1989년 북미에서 처음 선보인 고급차 브랜드이다. 닛산의 주력 라인업과는 별도로 프리미엄 차급을 겨냥해 만들어졌다.",
+  "summary": "인피니티(Infiniti)는 일본 자동차 제조사 닛산 자동차가 1989년 북미에서 처음 선보인 고급차 브랜드이다. 닛산의 주력 라인업과는 별도로 프리미엄 차급을 겨냥해 만들어졌다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.233333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "닛산이 북미 고급차 시장을 겨냥해 만든 고급차 부문 브랜드로, 후지산과 지평선으로 뻗은 도로를 형상화한 로고를 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인피니티는 일본 자동차 제조사 닛산 자동차의 고급차 부문이다. 1989년 11월 8일 북미에서 출범했으며, 2010년대에는 50개국 이상에 판매점을 두었다. 2020년 기준으로 신차 판매점이 있는 시장은 25곳이고, 주로 북미, 중국, 대만, 중동이다. 닛산에 따르면 로고는 지평선으로 뻗은 도로와 후지산을 양식화한 것으로, 일본 기원을 반영한다. 출범 배경에는 1985년 플라자 합의의 영향과 일본 정부의 수출 자율 규제가 있었으며, 적은 수의 고가 차량을 미국에 수출하는 편이 더 효과적이 되었다. 미국 시장에서 닛산의 주력 라인업에 맞지 않는 프리미엄 차급을 겨냥해 만들어졌으며, 같은 시기 Toyota와 Honda도 Lexus와 Acura를 만들었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "인피니티는 1989년 11월 8일 북미에서 시작되었다. 미국의 프리미엄 차급을 겨냥해 도입되었으며, 같은 시기 경쟁 제조사 Toyota와 Honda가 각각 Lexus와 Acura를 만들었다. 첫 모델은 Q45와 M30으로, 두 차종은 이전에 일본의 Nissan Store 판매망에서 팔리던 차였다. 1990년 9월에는 Nissan Primera에서 파생된 세 번째 모델 G20을 내놓았다. 초기 광고는 차를 보여주지 않고 자연과 고요함에 초점을 둔 Zen 분위기의 영상이었으나 판매는 더뎠고, 1990년대 중반에는 판매에서 Lexus와 Acura에 뒤처졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "출범 당시 라인업은 Q45와 M30이었다. Q45는 일본 시장용 2세대 Nissan President를 기반으로 했으며 278마력 V8 엔진, 4륜 조향, 능동 서스펜션을 갖췄다. 2도어 M30은 Nissan Leopard의 배지 엔지니어링 모델로 3년간 생산되었고 Lexus SC의 대안으로 나왔다. 이후 G20과 1993년형 4도어 쿠페 J30이 추가되었다. 1996년에는 I 시리즈가 J30의 뒤를 이었고, 2002년에는 G35가 이어받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "닛산 자동차가 모기업이며 일본 기원의 브랜드이다. 2010년대에는 50개국 이상에 판매점 네트워크를 두었다. 2020년 기준 신차 판매점이 있는 시장은 25곳으로, 주로 북미, 중국, 대만, 중동이다. 출범지인 북미 외에 중국과 대만, 중동까지 판매 시장에 포함된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "닛산이 북미 고급차 시장을 겨냥해 만든 고급차 부문 브랜드로, 후지산과 지평선으로 뻗은 도로를 형상화한 로고를 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.infiniti.com/",
+  "entityLinks": {
+   "wikidata": "Q29714",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q29714",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/Infiniti"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q29714",
+   "country": "일본",
+   "inception": "1989",
+   "headquarters": "니시구",
+   "founders": [],
+   "parent": "닛산 자동차",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Infiniti」 본문과 위키데이터 Q29714 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

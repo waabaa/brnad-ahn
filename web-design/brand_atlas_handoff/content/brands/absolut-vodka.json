@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q332378",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/absolut-vodka-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "absolut-vodka",
+  "urlSlug": "absolut-vodka",
+  "name": "앱솔루트 보드카",
+  "nameKo": "앱솔루트 보드카",
+  "nameEn": "Absolut Vodka",
+  "definition": "앱솔루트 보드카(Absolut Vodka)는 1977년 Vin & Sprit이 개발해 출시한 스웨덴의 보드카 브랜드이다. 2008년부터 프랑스 그룹 Pernod Ricard에 속해 있다.",
+  "summary": "앱솔루트 보드카(Absolut Vodka)는 1977년 Vin & Sprit이 개발해 출시한 스웨덴의 보드카 브랜드이다. 2008년부터 프랑스 그룹 Pernod Ricard에 속해 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 Åhus에서만 겨울밀로 생산하며, 종이 라벨 없이 글자를 유리에 직접 인쇄한 투명한 병과 Andy Warhol 등 예술가와의 협업 광고로 알려진 보드카이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "앱솔루트는 겨울밀로 만들고 생산을 Åhus 지역에서만 하는 스웨덴의 보드카 브랜드이다. 1977년 국영 기업 Vin & Sprit이 최고경영자 Lars Lindmark 체제에서 수출용 제품 개발을 시작했다. 병은 오래된 약병에서 착안한 투명한 형태로, 종이 라벨 대신 글자를 유리에 직접 인쇄했다. 1979년 봄 뉴올리언스의 주류 박람회에서 처음 소개되었고, 1985년에는 미국에서 가장 많이 팔리는 수입 보드카가 되었다. 2025년 기준 연간 12.3 million 케이스(9리터 기준)를 판매하며 세계에서 두 번째로 큰 보드카 브랜드이다. 2008년 스웨덴 정부가 Vin & Sprit을 Pernod Ricard에 매각하면서 프랑스 그룹 소속이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1860년대 Lars Olsson Smith가 스톡홀름 외곽 Reimersholme에서 증류 사업을 시작해 Absolut rent brännvin('완전히 순수한 브란빈')이라는 이름으로 제품을 판매했다. 1977년 국영 Vin & Sprit이 수출용 제품 개발에 나섰고, 광고 전문가 Gunnar Broman과 Hans Brindfors가 이 이름을 바탕으로 스웨덴 보드카 콘셉트를 만들어 미국에서 시험했다. 영어에서 absolute가 흔한 형용사여서 미국 상표로 등록할 수 없었기 때문에 스웨덴어 표기인 Absolut가 최종 이름이 되었다. 1978년 Carillon Importers와 계약을 맺었고, 1979년 4월 20일 보스턴에서 들어온 첫 미국 주문은 700케이스, 6,300리터였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 겨울밀로 만드는 보드카이다. 원래 배합은 Vin & Sprit의 연구소장 Börje Karlsson이 개발했고, 그는 이후 브랜드의 맛을 입힌 제품군 작업도 맡았다. 당시 스웨덴 브란빈이 감자를 원료로 하던 시기에 앱솔루트는 곡물로 만들 수 있도록 예외를 받았다. 병은 오래된 약병에서 착안한 투명한 형태로, 파란색 'Absolut Vodka' 글자와 설명 문구를 유리에 직접 인쇄했다. 1981년 TBWA가 'Absolut Perfection'처럼 두 단어 제목을 쓴 병 광고 캠페인을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년 스웨덴 정부가 Vin & Sprit을 Pernod Ricard에 매각했고, 거래는 7월 23일 완료되었다. 현재 앱솔루트는 Pernod Ricard 소속이며 2025년 기준 연간 12.3 million 케이스(9리터 기준)를 판매하는 세계 2위 보드카 브랜드이다. 2021년에는 병의 전체 형태를 유지한 채 글자와 장식 세부를 새로 디자인했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 Åhus에서만 겨울밀로 생산하며, 종이 라벨 없이 글자를 유리에 직접 인쇄한 투명한 병과 Andy Warhol 등 예술가와의 협업 광고로 알려진 보드카이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.absolut.com",
+  "entityLinks": {
+   "wikidata": "Q332378",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q332378",
+    "https://ko.wikipedia.org/wiki/%EC%95%B1%EC%86%94%EB%A3%A8%ED%8A%B8_%EB%B3%B4%EB%93%9C%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Absolut_Vodka"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q332378",
+   "country": "스웨덴",
+   "inception": "1879",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Absolut Vodka」 본문과 위키데이터 Q332378 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

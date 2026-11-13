@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q10608200",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "old-speckled-hen",
+  "urlSlug": "old-speckled-hen",
+  "name": "Old Speckled Hen",
+  "nameKo": "",
+  "nameEn": "Old Speckled Hen",
+  "definition": "Old Speckled Hen(Old Speckled Hen)은 원래 Morland Brewery가 만들었고 현재는 Greene King Brewery가 양조하는 비터 맥주이다. 1979년 영국 Oxfordshire의 Abingdon-on-Thames에서 처음 양조했다.",
+  "summary": "Old Speckled Hen(Old Speckled Hen)은 원래 Morland Brewery가 만들었고 현재는 Greene King Brewery가 양조하는 비터 맥주이다. 1979년 영국 Oxfordshire의 Abingdon-on-Thames에서 처음 양조했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "MG 자동차 공장 50주년을 기념해 1979년에 만든 맥주이며, 1927년 실험 차량의 별명에서 이름을 따온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 병, 캔, 캐스크, 케그 형태로 20개국 넘게 유통하는 에일이다. 병과 캔 제품의 알코올 도수는 4.8%이며, 상대적으로 도수가 높은 프리미엄 에일에 속한다. 캐스크 제품은 2006년에 5.2%에서 4.5%로 낮추어 가볍게 마실 수 있는 맥주로 만들었고, 그 결과 유통량이 60% 늘었다. Greene King은 Morland를 인수한 직후부터 개별 병과 캔보다 멀티팩 판매에 무게를 두었다. 브랜드는 Old Crafty Hen, Hens Tooth, Old Golden Hen, Old Hoppy Hen으로 확장했다. 2008년과 2009년에는 더 젊은 소비자를 겨냥해 브랜드를 새로 정비했고, 현재는 Greene King의 Bury St Edmunds 양조장에서 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1979년 11월 30일 영국 Abingdon-on-Thames의 MG 자동차 공장 50주년을 기념해 Morland & Co가 처음 만들었다. 이름은 1927년 실험 차량 MG Featherlight Saloon에서 왔다. 이 차는 금빛 반점이 있는 검은 천으로 덮은 나무 골조 차체였고, 공장에서 \"owd speck'ld un\"이라는 별명으로 불렸다. 수석 양조사 Jim Dymore-Brown이 Daniel O'Leary가 개발한 레시피로 비중 1050의 맥주를 양조했고, 이는 50주년을 나타냈다. 일회성 기념 맥주였으나 인기가 높아 두 번째 배치를 양조해야 했다. 1980년 MG 공장이 문을 닫은 뒤 생산이 줄었지만, Morland가 1990년에 생맥주 버전을 내놓으며 되살렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "원래 제품은 호박색 페일 에일로 출발했다. 현재는 병, 캔, 캐스크, 케그로 판매하며, 병과 캔 제품의 도수는 4.8%이고 캐스크 제품의 도수는 4.5%이다. 파생 제품으로 도수 6.5%의 에일인 Old Crafty Hen과 Hens Tooth가 있다. 금빛 맥주인 Old Golden Hen은 도수 4.1%이고, 페일 에일인 Old Hoppy Hen은 도수 4.2%이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재는 Greene King이 양조하며, 2000년에 Morland를 인수하고 Abingdon 양조장을 닫은 뒤 Bury St Edmunds 양조장에서 생산한다. 2023년에는 생산비 상승에 대응해 병과 캔 제품의 도수를 5%에서 4.8%로 낮췄다. 웹사이트에 따르면 소비세 부담을 줄여 소비자 가격을 유지하려는 조치이며 맛은 같다고 설명한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "MG 자동차 공장 50주년을 기념해 1979년에 만든 맥주이며, 1927년 실험 차량의 별명에서 이름을 따온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.oldspeckledhen.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q10608200",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q10608200",
+    "https://en.wikipedia.org/wiki/Old_Speckled_Hen"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q10608200",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Old Speckled Hen」 본문과 위키데이터 Q10608200 팩트를 근거로 편집"
+ }
+}

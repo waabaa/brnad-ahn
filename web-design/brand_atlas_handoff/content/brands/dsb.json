@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q83824",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/dsb-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dsb",
+  "urlSlug": "dsb",
+  "name": "DSB",
+  "nameKo": "",
+  "nameEn": "DSB",
+  "definition": "DSB는 덴마크 국유철도 Danske Statsbaner의 약칭으로, 덴마크에서 가장 큰 열차 운영 회사이다. 스칸디나비아 전체에서도 가장 큰 열차 운영 회사이며, 본사는 코펜하겐에 있다.",
+  "summary": "DSB는 덴마크 국유철도 Danske Statsbaner의 약칭으로, 덴마크에서 가장 큰 열차 운영 회사이다. 스칸디나비아 전체에서도 가장 큰 열차 운영 회사이며, 본사는 코펜하겐에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "DSB는 덴마크 국유 철도 회사들의 합병으로 1885년에 출발한 덴마크 최대의 여객 열차 운영사로, 코펜하겐의 S-train 통근 철도를 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "DSB는 덴마크 국가철도를 뜻하는 Danske Statsbaner의 약칭이며, 덴마크 대부분의 철도에서 여객 열차 운행을 책임지는 철도 운영 회사이다. 화물 운송과 철도 유지보수는 DSB가 맡는 범위에 속하지 않으며, 여객 운송이 중심이다. 덴마크 수도 코펜하겐 일대에서는 S-train이라 불리는 통근 철도 체계를 운영하며, 이 체계는 대도시권의 여러 지역과 교외를 서로 연결한다. 2010년부터 2017년까지는 덴마크 밖인 스웨덴에서도 열차를 운행했다. 덴마크뿐 아니라 스칸디나비아 전체에서 가장 큰 열차 운영 회사라는 위치에 있다. 본사는 코펜하겐에 있으며, 1885년에 국가 소유의 철도 회사들이 합쳐지면서 설립된 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "덴마크의 첫 철도는 민간 회사들이 건설하고 운영했다. 퓐과 유틀란트의 철도는 Peto and Betts가 건설했고 기관차도 이들이 공급했다. Peto and Betts가 파산하자 덴마크 국가가 1867년 9월 1일 Det danske Jernbane-Driftsselskab을 인수했고, 1880년 1월 1일에는 Det sjællandske Jernbaneselskab도 인수해 De sjællandske Statsbaner를 만들었다. 1885년 10월 1일 유틀란트·퓐 회사와 셸란 회사가 하나의 국영 철도 회사 De danske Statsbaner로 합병했고, 합병은 1893년 4월 1일에 마무리했다. 합병 후에는 새 노선이 건설되었고, 수석 기계 기술자 Otto Busse가 새로운 세대의 차량과 기관차를 도입했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "DSB의 핵심 사업은 덴마크 철도의 여객 열차 운행이다. 코펜하겐 일대에서는 S-train이라는 통근 철도를 운영하며, 이 교외선은 1930년대에 1,500볼트 직류 방식으로 전철화했다. 1935년 Little Belt 다리 개통에 맞춰 lyntog('번개 열차')라는 급행 열차 개념을 도입했다. lyntog는 양 끝에 동력차를 둔 디젤 동력의 3~4량 편성이며 최고 속도가 시속 120km였고, 1930년대 DSB의 가장 상업적으로 성공한 시도였다. 디젤 전기 동차인 MO 계열도 이 시기에 개발했다. 화물 운송과 철도 유지보수는 사업 범위에 포함하지 않는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "DSB는 덴마크 대부분의 철도에서 여객 열차 운행을 맡고 있으며, 덴마크와 스칸디나비아에서 가장 큰 열차 운영 회사이다. 화물 운송과 철도 유지보수는 담당하지 않는다. 2010년부터 2017년까지 스웨덴에서 열차를 운행했으며, 코펜하겐 일대의 S-train 통근 철도도 계속 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "DSB는 덴마크 국유 철도 회사들의 합병으로 1885년에 출발한 덴마크 최대의 여객 열차 운영사로, 코펜하겐의 S-train 통근 철도를 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dsb.dk",
+  "entityLinks": {
+   "wikidata": "Q83824",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q83824",
+    "https://ko.wikipedia.org/wiki/DSB_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/DSB_(railway_company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q83824",
+   "country": "덴마크",
+   "inception": "1885",
+   "headquarters": "코펜하겐",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「DSB (railway company)」 본문과 위키데이터 Q83824 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

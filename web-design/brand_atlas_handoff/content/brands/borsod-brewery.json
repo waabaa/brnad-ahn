@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q1502941",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "borsod-brewery",
+  "urlSlug": "borsod-brewery",
+  "name": "Borsod Brewery",
+  "nameKo": "",
+  "nameEn": "Borsod Brewery",
+  "definition": "Borsod Brewery는 헝가리 북동부 Miskolc 인근의 Bőcs 마을에 있는 양조장이다. Borsod-Abaúj-Zemplén 카운티에서 맥주를 생산하며 헝가리 맥주 시장의 선두 업체이다.",
+  "summary": "Borsod Brewery는 헝가리 북동부 Miskolc 인근의 Bőcs 마을에 있는 양조장이다. Borsod-Abaúj-Zemplén 카운티에서 맥주를 생산하며 헝가리 맥주 시장의 선두 업체이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "사회주의 시기 헝가리 동부를 담당하던 양조장에서 출발해, 외국 자본 아래에서도 헝가리 맥주 라인을 이어 가는 시장 선두 업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 헝가리 북동부 Borsod-Abaúj-Zemplén 카운티의 중심지 Miskolc 인근 Bőcs 마을에 자리한다. 대표 브랜드는 Borsodi Sör이며 헝가리에서 가장 많이 팔리는 맥주 브랜드로 소개된다. 헝가리 맥주 라인을 생산하는 한편 일부 외국 맥주는 라이선스로 양조한다. 사회주의 시기에는 헝가리 동부 지역을 담당했고, 1990년대 초 민영화 이후에는 다른 양조장과 경쟁하며 다양한 브랜드로 입지를 강화했다. 스포츠와 음악 행사를 조직하거나 후원하고, Miskolc 대학교 및 Budapest의 Kertészeti Egyetem과 협력한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Bőcs 마을에서 22,000 m2 규모의 양조장 건설이 1969년에 시작되었다. 1973년 맥주 생산을 시작했으며 초기 생산량은 874,000 hl였다. 1991년 공산주의 붕괴 이후 민영화되었고, 1993년 벨기에의 Interbrew(현 InBev)가 인수했다. 인수 이후 품질, 기술, 제품 개발 등 여러 면이 개선되었으며, 외국 소유가 된 뒤에도 헝가리 맥주 라인을 계속 생산한다. 2005년 3월에는 연간 생산능력 370 million 리터의 새 양조 설비가 가동되었고, 기존 설비보다 맥주를 약 33% 더 생산하며 에너지는 10% 적게 쓴다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Borsodi Sör는 알코올 4.6%의 페일 라거로, 양조장의 대표작이자 헝가리에서 가장 많이 팔리는 맥주 브랜드이다. Borsodi Bivaly는 2004년에 출시된 알코올 6.5%의 라거이고, Borsodi Barna는 알코올 6.7%의 독일식 흑맥주이다. Borsodi Póló는 1996년에 나온 알코올 0.5%의 무알코올 맥주이며, Borostyán은 2003년에 출시된 알코올 5.2%의 앰버 맥주이다. Borsodi Super Dry는 알코올 4%의 맥주이다. Beck's와 Stella Artois를 라이선스로 생산하고, Belle-vue Kriek, Hoegaarden, Leffe, Staropramen을 헝가리에서 판매하고 유통한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2009년 10월 사모펀드 CVC Capital Partners가 Anheuser–Busch InBev의 중부 유럽 지분 전체(Borsod 포함)를 €2.23 billion에 인수하고 운영 법인을 StarBev로 개칭했다. 2012년 StarBev Group은 미국-캐나다계 양조회사 Molson Coors Brewing Company에 인수되었다. Molson Coors는 세계 5위 규모의 양조회사로 소개된다. 이 양조장은 헝가리 시장의 선두 업체이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사회주의 시기 헝가리 동부를 담당하던 양조장에서 출발해, 외국 자본 아래에서도 헝가리 맥주 라인을 이어 가는 시장 선두 업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.borsodisorgyar.hu/hu-hu",
+  "entityLinks": {
+   "wikidata": "Q1502941",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1502941",
+    "https://en.wikipedia.org/wiki/Borsod_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1502941",
+   "country": "헝가리",
+   "inception": "1973",
+   "headquarters": "Bőcs",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Borsod Brewery」 본문과 위키데이터 Q1502941 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q118875870",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "madri-excepcional",
+  "urlSlug": "madri-excepcional",
+  "name": "Madrí Excepcional",
+  "nameKo": "",
+  "nameEn": "Madrí Excepcional",
+  "definition": "Madrí Excepcional은 Coors가 Burton on Trent에서 개발한 4.6% 도수의 유럽식 라거 맥주이다. 잉글랜드 Tadcaster에서 생산하며 2020년 펍에 처음 도입되었다.",
+  "summary": "Madrí Excepcional은 Coors가 Burton on Trent에서 개발한 4.6% 도수의 유럽식 라거 맥주이다. 잉글랜드 Tadcaster에서 생산하며 2020년 펍에 처음 도입되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인풍 이미지와 \"El Alma de Madrid\" 슬로건을 내세우지만 실제로는 잉글랜드 Tadcaster에서 생산되는 영국산 프리미엄 라거이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "영국과 아일랜드 시장을 대상으로 개발된 유럽식 라거로, 알코올 도수는 4.6%이다. Carling의 모회사인 Coors가 Burton on Trent에서 개발했으며, Toledo의 스페인 양조장 자회사 La Sagra가 일부 의견을 보탰다. 생산은 잉글랜드 Tadcaster에서 이루어지고, 캐나다에서는 Molson Coors가 캐나다 시장용으로 양조한다. 집중적인 마케팅에 힘입어 2022년까지 영국에서 가장 많이 팔리는 라거 10위권에 들었고, 2024년에는 영국 판매량 4위 라거였다. 영국과 아일랜드 라거 시장의 프리미엄 영역을 겨냥한 제품이다. 스페인풍 이미지를 전면에 내세운 브랜딩 때문에 진정성이 없다는 비판을 받아 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "설립 시점은 2020년이며, 이 맥주는 같은 해 펍에 처음 도입되었다. Carling의 모회사 Coors가 Burton on Trent에서 개발했고, Toledo의 스페인 양조장 자회사 La Sagra가 일부 의견을 보탰다. 처음에는 영국과 아일랜드 시장을 위해 개발되어 양조되었으며, 이후 캐나다에서도 Molson Coors가 캐나다 시장용으로 양조하게 되었다. 집중적인 마케팅으로 2022년에는 영국에서 가장 많이 팔리는 라거 10위권에 올랐고, 같은 해 오프트레이드 판매가 시작되었다. 그 결과 2024년에는 영국에서 네 번째로 많이 팔린 라거가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 4.6%의 유럽식 라거인 Madrí Excepcional이다. 포장은 붉은색 디자인이며, 모자를 쓰고 houndstooth 조끼를 입은 chulapo 남성이 그려져 있어 Moretti 브랜딩과 비슷한 인상을 준다. \"El Alma de Madrid\"(마드리드의 영혼)라는 슬로건을 사용하며 스페인 이미지를 강하게 내세운다. 영국과 아일랜드 라거 시장의 프리미엄 영역을 겨냥하며, 2020년 펍에 먼저 도입되고 2022년부터 오프트레이드 판매가 시작되었다. 캐나다에서는 Molson Coors가 캐나다 시장을 위해 이 맥주를 양조한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 기준 영국에서 네 번째로 많이 팔린 라거이다. 마케팅에서는 스페인풍을 강조하지만 생산지는 오랫동안 영국 양조의 중심지였던 Tadcaster이다. The Sunday Times는 이 브랜드를 \"the biggest illusion in British brewing history\"라고 평했다. 2025년 12월에는 EUIPO에 Madrí Excepcional 도형 EU 상표(EUTM No. 018292728)의 무효 선언 신청이 제기되었으며, 신청은 브랜드 시각 정체성에 쓰인 타이포그래피 요소에 관한 것이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인풍 이미지와 \"El Alma de Madrid\" 슬로건을 내세우지만 실제로는 잉글랜드 Tadcaster에서 생산되는 영국산 프리미엄 라거이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q118875870",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q118875870",
+    "https://en.wikipedia.org/wiki/Madr%C3%AD_Excepcional"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q118875870",
+   "country": null,
+   "inception": "2020",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Madrí Excepcional」 본문과 위키데이터 Q118875870 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q28452620",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 239,
+  "enViews": 45497,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/anker-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "anker",
+  "urlSlug": "anker",
+  "name": "앤커 이노베이션즈",
+  "nameKo": "앤커 이노베이션즈",
+  "nameEn": "Anker",
+  "definition": "앤커 이노베이션즈(Anker)는 중화인민공화국 후난성 창사시에 본사를 둔 중국의 전자제품 제조업체이다. 휴대폰 충전기, 보조 배터리, 이어버드 등을 만든다.",
+  "summary": "앤커 이노베이션즈(Anker)는 중화인민공화국 후난성 창사시에 본사를 둔 중국의 전자제품 제조업체이다. 휴대폰 충전기, 보조 배터리, 이어버드 등을 만든다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "충전기와 보조 배터리를 중심으로 Soundcore, Eufy, Nebula 등 여러 서브 브랜드를 거느린 중국 창사시 기반 전자제품 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "앤커는 휴대폰 충전기, 차량용 충전기, 보조 배터리, 이어버드, 헤드폰, 스피커, 데이터 허브, 3D 프린터, 충전 케이블, 손전등, 화면 보호기, 휴대용 전원 스테이션, 가정용 태양광 배터리, 스마트 홈 기기 등을 만든다. 중국 국내 시장 외에 일본, 싱가포르, 미국, 영국에 자회사를 두고 있다. 2016년 이전에는 제품이 거의 독점적으로 Amazon 마켓플레이스와 Newegg에서 판매되었다. 현재는 Best Buy, Target, Kohl's 같은 대형 매장과 Shopee, Amazon, eBay 등 여러 전자상거래 웹사이트에서도 판매된다. Eufy의 개인정보 보호를 둘러싼 논란도 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "앤커는 2011년 스티븐 양이 광둥성 선전시에서 설립했으나 곧 본사를 후난성 창사시로 이전했다. 2011년에는 교체용 노트북 배터리에서 스마트폰 충전기, 벽면 충전기, 휴대용 전원 및 회의 장비로 초점을 확장했다. 2014년 초에는 당시 구글 중국 영업 책임자였던 자오 둥핑을 고용했고, 그는 2020년에 사장이 되었다. 2016년 이전에는 Amazon 마켓플레이스와 Newegg에서 거의 독점적으로 판매되었으나 이후 판매처가 대형 매장으로 넓어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "앤커 브랜드로 보조 배터리, 충전 케이블, 벽면 어댑터, 멀티탭, USB 허브를 만들고 서브 브랜드 Bolder로 손전등을 만든다. Soundcore는 블루투스 이어버드, 헤드폰, 스피커를, Eufy는 스마트 홈 가전 및 보안 기기를, Nebula는 휴대용 영상 프로젝터를, Roav는 자동차 액세서리를 만든다. 충전 케이블 라인은 PowerLine이라는 상표명으로 출시되며 최신 버전은 PowerLine III이고 Apple의 MFi(Made for iPhone) 인증을 받았다. 3D 프린터는 AnkerMake라는 이름으로 만들었으나 2025년에 프린터 라인을 중단하고 UV 프린터를 판매하기 위해 eufyMake로 리브랜딩했다. AnkerMake는 3D 프린팅 필라멘트와 부품을 계속 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Eufy는 녹화 데이터가 로컬에만 저장된다고 주장했으나 보안 연구원 폴 무어는 이미지와 비디오가 AWS를 통해 임대된 Eufy 서버에 업로드되는 것을 발견했다. 이로 인해 Linus Tech Tips 같은 후원 단체가 앤커를 후원사 목록에서 제외했다. 2022년 12월 The Verge는 Eufy가 '개인정보 보호 약속' 페이지를 크게 변경했다고 보도했다. 2024년 12월 13일자 새 개인정보 처리방침을 수락하지 않으면 Eufy 보안 장치에 접근하거나 제어할 수 없다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "충전기와 보조 배터리를 중심으로 Soundcore, Eufy, Nebula 등 여러 서브 브랜드를 거느린 중국 창사시 기반 전자제품 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.anker.com/",
+  "entityLinks": {
+   "wikidata": "Q28452620",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q28452620",
+    "https://ko.wikipedia.org/wiki/%EC%95%A4%EC%BB%A4_%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Anker"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q28452620",
+   "country": "중화인민공화국",
+   "inception": "2011",
+   "headquarters": "창사시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「앤커 이노베이션즈」 요약과 위키데이터 Q28452620 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

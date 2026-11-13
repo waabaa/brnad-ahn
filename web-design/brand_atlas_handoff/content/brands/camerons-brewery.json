@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5026431",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "camerons-brewery",
+  "urlSlug": "camerons-brewery",
+  "name": "Camerons Brewery",
+  "nameKo": "",
+  "nameEn": "Camerons Brewery",
+  "definition": "Camerons Brewery는 1865년 영국 하틀풀의 스트랜턴에서 John William Cameron이 설립한 양조장이다. 잉글랜드 북동부에서 가장 큰 독립 양조업체이다.",
+  "summary": "Camerons Brewery는 1865년 영국 하틀풀의 스트랜턴에서 John William Cameron이 설립한 양조장이다. 잉글랜드 북동부에서 가장 큰 독립 양조업체이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "잉글랜드 북동부 최대 독립 양조업체로, 루비색 비터 Strongarm과 Heineken 등을 위한 위탁 양조 비중이 큰 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Camerons Brewery는 잉글랜드 하틀풀에 본사를 둔 양조업체이다. 1865년 John William Cameron이 카운티 더럼의 스트랜턴에서 세웠으며, 하틀풀에서 가장 오래된 산업체 중 하나이자 역사적으로 가장 큰 고용주 가운데 하나였다. 잉글랜드 북동부에서 가장 큰 독립 양조업체이며 영국에서 아홉 번째로 큰 양조장이다. 양조 설비 용량은 1.5 million hectolitres이고 2012년 생산량은 900,000 hl이었으며, 소유 점포망은 75곳의 펍이다. 사업의 약 80퍼센트는 Heineken 등 다른 회사를 위한 위탁 양조이다. 영국 전역에서는 1955년에 출시된 루비색 비터 Strongarm으로 알려져 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조 부지에서는 적어도 1572년부터 깊이 250-foot의 아르테시안 우물을 양조에 써 왔다. William Waldon이 스트랜턴 마을에 Lion Brewery를 세웠고, 1854년 그가 죽은 뒤 양조장은 미망인 Jane에게 넘어갔다. John William Cameron은 1865년부터 양조장 관리를 맡았고, 1872년 펍 16곳과 함께 21년 임대 계약으로 양조장을 넘겨받았다. 1893년 임대가 끝나자 Waldon 가문으로부터 £34,442에 양조장을 완전히 사들였고, 1894년 회사를 상장했다. 이후 1895년 하틀풀의 경쟁 양조장 Nixey, Coleclough & Baxter를 인수하는 등 인수를 거듭하며 성장해, 1960년대에는 북동부와 North Yorkshire에 750곳의 면허 점포를 보유했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1955년에 출시된 Strongarm이다. 루비색의 독특한 비터이며 누적 생산량이 2000년에 one billion pints를 넘어섰다. 사업의 약 80퍼센트는 Heineken 같은 다른 회사를 위한 위탁 양조가 차지한다. 자체 소유 펍은 75곳이며, 2012년 생산량은 900,000 hl이었다. 1897년에는 Lion Brewery가 70 quarter 규모로 확장되어 연간 130,000 barrels를 생산할 수 있게 되었고, 1899년에는 광천수 병입을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1992년 Wolverhampton & Dudley(현재 Marston's Brewery)가 인수해 양조장에 많은 투자를 했고, 2002년 Castle Eden에 매각했다. Castle Eden은 자체 양조장을 닫고 모든 생산을 Camerons로 옮겼다. 현재 소유 점포망은 비교적 작지만 영국에서 아홉 번째로 큰 양조장이며, 사업의 약 80퍼센트가 위탁 양조이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "잉글랜드 북동부 최대 독립 양조업체로, 루비색 비터 Strongarm과 Heineken 등을 위한 위탁 양조 비중이 큰 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cameronsbrewery.com",
+  "entityLinks": {
+   "wikidata": "Q5026431",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5026431",
+    "https://en.wikipedia.org/wiki/Camerons_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5026431",
+   "country": "영국",
+   "inception": "1865",
+   "headquarters": "하틀풀",
+   "founders": [
+    "John William Cameron"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Camerons Brewery」 본문과 위키데이터 Q5026431 팩트를 근거로 편집"
+ }
+}

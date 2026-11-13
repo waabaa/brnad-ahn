@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2360702",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/stortebeker-braumanufaktur-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "stortebeker-braumanufaktur",
+  "urlSlug": "stortebeker-braumanufaktur",
+  "name": "Störtebeker Braumanufaktur",
+  "nameKo": "",
+  "nameEn": "Störtebeker Braumanufaktur",
+  "definition": "Störtebeker Braumanufaktur는 독일 슈트랄준트에 본사를 둔 양조장이다. Störtebeker와 Stralsunder 브랜드로 맥주를 생산하고 광천수와 기타 무알코올 음료도 만든다.",
+  "summary": "Störtebeker Braumanufaktur는 독일 슈트랄준트에 본사를 둔 양조장이다. Störtebeker와 Stralsunder 브랜드로 맥주를 생산하고 광천수와 기타 무알코올 음료도 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1827년 Stralsunder Vereinsbrauerei로 출발해 2011년 해적 Klaus Störtebeker에게 경의를 표하는 이름을 채택한 슈트랄준트의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 슈트랄준트에 있으며 1827년에 설립되었다. 맥주는 Störtebeker와 Stralsunder 브랜드로 생산하며 광천수와 기타 무알코올 음료도 만든다. 현재 사명은 2011년에 채택했으며 그 이전에는 Stralsunder Brauerei GmbH로 불렸다. 사명은 독일의 해적 Klaus Störtebeker에게 경의를 표하는 이름이다. 생산량은 2005년 연 88,000헥토리터였고 2013년 110,000헥토리터, 2014년 123,000헥토리터로 늘었다. 가장 성공적인 해였던 2016년에는 180,000헥토리터를 생산·판매했고 2020년에는 300,000헥토리터에 이르렀다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1827년 Stralsunder Vereinsbrauerei라는 이름으로 설립되어 주변 지역과 발트해 연안의 여러 휴양지에 맥주를 공급했다. 수요가 늘자 Greifswalder Chaussee에 최신 기술을 갖춘 새 건물을 지었고, 여기에는 초기 기계식 냉각 장치 중 하나가 포함되었다. 제2차 세계대전 후에도 가동을 이어갔으며 국유 기업인 Volkseigener Betrieb(VEB)로 재편되었다. 낡은 기술과 양질의 원료 확보의 어려움으로 품질과 수익성이 떨어졌다. 독일 통일 후인 1991년 Nordmann Unternehmensgruppe가 인수해 현대화와 새 Braugasthaus Alter Fritz 조성에 투자했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Störtebeker와 Stralsunder 두 브랜드로 생산하는 맥주이며, 이와 함께 광천수와 기타 무알코올 음료도 생산한다. 2010년 5월에는 Bernstein-Weizen 생산을 위해 120,000리터 용량의 탱크 두 개를 구입했다. 1991년 인수 후에는 현대화 투자와 함께 새 Braugasthaus Alter Fritz가 만들어졌다. 2005년에는 연 88,000헥토리터를 생산하며 새 생산 설비에 투자했다. 2016년에는 가장 성공적인 해로서 180,000헥토리터를 생산하고 판매했으며, 2020년에는 300,000헥토리터로 늘었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 슈트랄준트에 있으며 법인 형태는 GmbH이다. 2011년 현재의 사명을 채택했고, 1991년부터 Nordmann Unternehmensgruppe의 인수 아래 현대화가 진행되었다. 연간 생산량은 2020년 300,000헥토리터로, 2013년의 110,000헥토리터에서 크게 늘었다. 2014년 123,000헥토리터, 2016년 180,000헥토리터를 거치며 생산량이 증가해 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1827년 Stralsunder Vereinsbrauerei로 출발해 2011년 해적 Klaus Störtebeker에게 경의를 표하는 이름을 채택한 슈트랄준트의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.stoertebeker.com/",
+  "entityLinks": {
+   "wikidata": "Q2360702",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2360702",
+    "https://en.wikipedia.org/wiki/St%C3%B6rtebeker_Braumanufaktur"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2360702",
+   "country": "독일",
+   "inception": "1827",
+   "headquarters": "슈트랄준트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Störtebeker Braumanufaktur」 본문과 위키데이터 Q2360702 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

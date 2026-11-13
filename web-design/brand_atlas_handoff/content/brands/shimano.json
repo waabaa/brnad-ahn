@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q949610",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/shimano-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "shimano",
+  "urlSlug": "shimano",
+  "name": "시마노",
+  "nameKo": "시마노",
+  "nameEn": "Shimano",
+  "definition": "시마노(Shimano)는 일본의 아웃도어 용품 회사로, 세계 최대의 자전거 부품 회사이다. 본사는 사카이시에 있으며, 1921년 설립되어 로드사이클과 MTB용 구동계를 제조한다.",
+  "summary": "시마노(Shimano)는 일본의 아웃도어 용품 회사로, 세계 최대의 자전거 부품 회사이다. 본사는 사카이시에 있으며, 1921년 설립되어 로드사이클과 MTB용 구동계를 제조한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "1973년 DURA-ACE 7300으로 구동계의 구성 요소를 하나의 컴포넌트 세트로 묶어 호환성 면의 우위를 만든 세계 최대의 자전거 부품 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시마노는 일본의 아웃도어 용품 회사로, 세계 최대의 자전거 부품 회사이다. 1921년 Shozaburo Shimano가 창업했으며 본사는 사카이시에 있다. 시작은 한 대의 자전거에서 싱글기어를 깎아 만든 것이었다. 현재는 MTB 구동계와 로드사이클 구동계로 나누어 제조하는 대규모 라인업을 갖추고 있다. 1973년에는 크랭크, 기어, 브레이크 등을 함께 묶은 최초의 컴포넌트 세트 DURA-ACE 7300을 발표했다. 당시 로드바이크 부품 제조업체로는 이탈리아의 캄파놀로만 남아 있었으며, 시마노는 구성 요소 통합에 따른 호환성의 우위로 경쟁사가 독점하던 구동계 사업에서 신예로 떠올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시마노의 시작은 1921년 한 대의 자전거에서 싱글기어를 깎아 만든 것이었으며, 창업자는 Shozaburo Shimano이다. 이후 자전거 부품 시장에서 오랜 시간을 거쳐 현재의 자리에 올랐다. 로드바이크 구동계의 기원은 1973년으로 거슬러 올라가며, 그 전까지 남아 있던 로드바이크 부품 제조업체는 이탈리아의 캄파놀로뿐이었다. 1973년 시마노는 DURA-ACE 7300 세트를 발표하며 첫걸음을 내디뎠다. 1976년에는 듀라에이스10을 발표하고 경륜 자전거 전용 기어도 출시했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시마노는 현재의 대규모 라인업인 MTB 구동계와 로드사이클 구동계로 나누어 제품을 제조한다. 로드바이크 구동계를 대표하는 제품은 시마노 로드바이크 기술의 집합체인 DURA-ACE(듀라에이스)로, 1973년 발표한 DURA-ACE 7300 세트가 시작이다. 이 세트는 크랭크, 기어, 브레이크 등이 함께 포함된 최초의 컴포넌트(구성 요소) 세트였다. 1976년에는 듀라에이스10을 발표했으며, 경륜 자전거 전용의 기어도 출시했다. 구성 요소를 통합한 덕분에 시마노는 호환성 면에서 압도적인 우위를 점할 수 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "일본의 아웃도어 용품 회사인 시마노는 오랜 시간을 거쳐 세계 최대의 자전거 부품 회사이자 자전거 부품 시장의 최강자 자리에 올랐다. 본사는 사카이시에 있으며 MTB 구동계와 로드사이클 구동계로 나누어 대규모 라인업을 제조하고 있다. 1973년 첫 발걸음을 뗀 DURA-ACE 계열은 현재까지 이어지고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1973년 DURA-ACE 7300으로 구동계의 구성 요소를 하나의 컴포넌트 세트로 묶어 호환성 면의 우위를 만든 세계 최대의 자전거 부품 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.shimano.com/en/",
+  "entityLinks": {
+   "wikidata": "Q949610",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q949610",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%88%EB%85%B8",
+    "https://en.wikipedia.org/wiki/Shimano"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q949610",
+   "country": "일본",
+   "inception": "1921",
+   "headquarters": "사카이시",
+   "founders": [
+    "Shozaburo Shimano"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「시마노」 요약과 위키데이터 Q949610 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

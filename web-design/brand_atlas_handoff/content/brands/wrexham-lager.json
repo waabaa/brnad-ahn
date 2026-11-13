@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q8038120",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "wrexham-lager",
+  "urlSlug": "wrexham-lager",
+  "name": "Wrexham Lager",
+  "nameKo": "",
+  "nameEn": "Wrexham Lager",
+  "definition": "Wrexham Lager는 영국 웨일스 북동부 렉섬에서 양조되는 라거 맥주 브랜드이다. 1881년에 뿌리를 두며, 원래 양조장이 2000년 폐쇄된 뒤 2011년 Roberts 가문이 옛 레시피로 되살렸다.",
+  "summary": "Wrexham Lager는 영국 웨일스 북동부 렉섬에서 양조되는 라거 맥주 브랜드이다. 1881년에 뿌리를 두며, 원래 양조장이 2000년 폐쇄된 뒤 2011년 Roberts 가문이 옛 레시피로 되살렸다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "독일 이민자가 세운 렉섬 최초의 라거 양조장에서 유래해, 폐쇄 뒤 옛 레시피로 2011년에 부활한 웨일스의 라거 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Wrexham Lager는 영국 웨일스 북동부 렉섬에서 양조되는 라거 맥주이다. 1881년 렉섬 중심부에 독일 이민자들이 세운 양조장에서 출발했으며, 렉섬 최초의 라거 양조장이었다. 19세기에는 원래의 맥주가 해외로 수출되었으나 제2차 세계대전 중 수출이 줄었고, 이후 Ind Coope에 인수되었다. 그 뒤 Carlsberg-Tetley를 거쳐 Carlsberg가 원래 양조장을 폐쇄했다. 2011년 Roberts 가문이 Bangor-on-Dee에서 옛 레시피와 같은 재료로 브랜드를 부활시켰다. 2024년 10월에는 Wrexham A.F.C. 구단주인 Rob McElhenney, Ryan Reynolds, 뉴욕의 Allyn 가문이 함께 세운 Red Dragon Ventures가 양조장 지분 과반을 매입했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1881년 독일 이민자인 Ivan Levinstein과 Otto Isler가 고향의 라거를 재현하려고 The Wrexham Lager Beer Company Limited를 세웠다. 렉섬은 수질이 좋았고, 언덕에 자리해 저장고를 파서 외부 열을 막을 수 있었으며 인근 River Gwenfro에서 물을 끌어 쓸 수 있어 부지로 선택되었다. 첫 라거 양조는 1882년에 시작되었다. 그러나 온도를 낮게 유지하기 어려워 맥주 품질에 영향을 받았고, 회사는 1886년 7월 31일 자발적 청산을 결의했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 라거 맥주이며, 2011년 부활한 제품은 원래 라거의 옛 레시피와 같은 재료로 만든다. 2020년에는 브이로거 Bootlegger와 함께 Bootlegger 1974 Pilsner를 선보였다. 2024년 Bootlegger는 양조사가 자신에게 돈을 빚졌다고 주장했고, Wrexham Lager는 그 주장 전에 대금을 모두 지급했다는 입장을 밝혔다. 1884년 5월 설립 회사는 양조와 제빙을 시작했으며 맥주와 얼음 모두 견적을 낼 수 있다고 공지했다. 1888년의 양조장 묘사에는 맥아실, 맥아 저장 사일로, 양조실, 냉각기가 등장한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 10월 Wrexham A.F.C. 구단주인 Rob McElhenney, Ryan Reynolds, 뉴욕의 Allyn 가문의 합작회사 Red Dragon Ventures가 양조장 지분 과반을 매입했다. 원래 양조장은 Carlsberg가 폐쇄한 뒤 철거되어 양조장 건물만 남았다. 브랜드는 2011년 Bangor-on-Dee에서 되살아났다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 이민자가 세운 렉섬 최초의 라거 양조장에서 유래해, 폐쇄 뒤 옛 레시피로 2011년에 부활한 웨일스의 라거 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q8038120",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q8038120",
+    "https://en.wikipedia.org/wiki/Wrexham_Lager"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q8038120",
+   "country": "영국",
+   "inception": "1881",
+   "headquarters": "렉섬",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Wrexham Lager」 본문과 위키데이터 Q8038120 팩트를 근거로 편집"
+ }
+}

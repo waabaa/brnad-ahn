@@ -1,0 +1,71 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1748810",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/macks-lbryggeri-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "macks-lbryggeri",
+  "urlSlug": "macks-lbryggeri",
+  "name": "Macks Ølbryggeri",
+  "nameKo": "",
+  "nameEn": "Macks Ølbryggeri",
+  "definition": "Macks Ølbryggeri는 노르웨이 Troms 주 Balsfjord 자치체에 있는 양조장이다. 1877년 트롬쇠에서 설립되었으며, 세계 최북단 양조장을 자처했다.",
+  "summary": "Macks Ølbryggeri는 노르웨이 Troms 주 Balsfjord 자치체에 있는 양조장이다. 1877년 트롬쇠에서 설립되었으며, 세계 최북단 양조장을 자처했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1877년 트롬쇠에서 시작해 한때 세계 최북단 양조장을 자처했으나, 2012년 생산지 이전과 함께 그 타이틀을 다른 양조장들에 넘겨준 노르웨이 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 노르웨이 Troms 주의 Balsfjord 자치체에 자리하고 있다. 1877년 트롬쇠에서 문을 열었고, 세계 최북단 양조장이라고 주장해 왔다. 130년 넘게 트롬쇠에서 운영한 뒤 2012년 3월 생산 시설을 Balsfjord 자치체의 Nordkjosbotn으로 옮겼다. 이전 결과 그린란드 Ilulissat의 Icefiord Hotel 안에 있던 양조장에 50미터 차이로 최북단 타이틀을 내주었다. Icefiord Hotel이 2013년 양조장을 닫은 뒤 그 설비는 Ilulissat의 Brewery Immiaq가 넘겨받았다. 2015년에는 Svalbard Bryggeri가 북위 78도에 있는 양조장으로서 세계 최북단을 주장했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1877년 트롬쇠에서 Ludwig Markus Mack(1842–1915)이 세웠다. 영어로는 Mack Brewery 또는 Mack Bryggeri라 부르며, 노르웨이어 공식 명칭에는 회사 형태를 나타내는 AS가 붙는다. 설립 이후 세계 최북단 양조장이라고 주장하며 트롬쇠에서 130년 넘게 운영을 이어 갔다. 2012년 3월에는 생산을 트롬쇠에서 Balsfjord 자치체의 Nordkjosbotn으로 옮겼다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이 양조장은 Troms 주 Balsfjord 자치체의 Nordkjosbotn에 생산 시설을 두고 있다. 2012년 3월 트롬쇠에서 이전하면서 최북단 양조장 타이틀은 Ilulissat의 Icefiord Hotel 양조장에 50미터 차이로 넘어갔다. 그 뒤 2015년에는 Svalbard Bryggeri가 북위 78도에서 같은 타이틀을 주장했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1877년 트롬쇠에서 시작해 한때 세계 최북단 양조장을 자처했으나, 2012년 생산지 이전과 함께 그 타이틀을 다른 양조장들에 넘겨준 노르웨이 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mack.no",
+  "entityLinks": {
+   "wikidata": "Q1748810",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1748810",
+    "https://en.wikipedia.org/wiki/Mack_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1748810",
+   "country": "노르웨이",
+   "inception": "1877",
+   "headquarters": "트롬쇠",
+   "founders": [
+    "Ludwig Markus Mack"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Mack Brewery」 본문과 위키데이터 Q1748810 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

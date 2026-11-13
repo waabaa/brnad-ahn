@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q1421630",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/handelsbanken-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "handelsbanken",
+  "urlSlug": "handelsbanken",
+  "name": "한델스방켄",
+  "nameKo": "한델스방켄",
+  "nameEn": "Handelsbanken",
+  "definition": "한델스방켄(Handelsbanken)은 1871년 설립되어 스웨덴 스톡홀름에 본사를 둔 북유럽 은행이다. 기업금융, 투자은행, 트레이딩, 개인금융 등 종합 금융 서비스를 제공한다.",
+  "summary": "한델스방켄(Handelsbanken)은 1871년 설립되어 스웨덴 스톡홀름에 본사를 둔 북유럽 은행이다. 기업금융, 투자은행, 트레이딩, 개인금융 등 종합 금융 서비스를 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "지점 중심의 분권화된 의사결정과 고객과의 장기 관계를 강조하는 스웨덴 은행이다. 1871년 Stockholms Handelsbank로 출발해 전국 지점망으로 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Svenska Handelsbanken AB는 스웨덴에 본사를 둔 북유럽 은행으로, 해외에서도 사업을 한다. 기업금융, 투자은행, 트레이딩과 함께 대출, 저축, 보험 같은 개인금융 서비스를 제공한다. 스웨덴 전역에 지점망을 갖추고 있으며 노르웨이, 네덜란드, 영국에서도 상당한 입지를 유지한다. 의사결정을 분권화하고 고객과 장기 관계를 맺는 데 중점을 둔다. 1990년대 중반부터 다른 북유럽 국가와 영국, 네덜란드로 종합 은행 사업을 넓혀 왔고, 이 가운데 영국이 가장 크며 지점이 150개가 넘는다. 2021년 10월에는 영국, 스웨덴, 노르웨이를 주력 시장으로 삼고 핀란드와 덴마크 사업을 매각하겠다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1871년 초 대기업 여러 곳과 스톡홀름의 유력 인사들이 Stockholms Handelsbank를 세웠다. 초기 소유주 일부는 1856년 문을 연 스톡홀름 최초의 민간 은행 Stockholms enskilda bank에서 활동하다 1871년 4월 갈등 끝에 그곳을 떠났다. 은행은 1871년 7월 1일 구시가지의 상업·금융 지구에서 영업을 시작했고, 1873년 주식을 스톡홀름 증권거래소에 상장했다. 1914년부터 1917년까지 여러 지방 은행을 인수해 지점이 38개에서 143개로 늘었고, 1919년 11월 15일 Svenska Handelsbanken으로 이름을 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기업금융, 투자은행, 트레이딩 등 기업과 기관을 대상으로 하는 서비스를 제공한다. 개인 고객에게는 대출, 저축, 보험을 포함한 개인금융 서비스를 제공한다. 역사적으로는 1896년 공증 부서, 1899년 유가증권 거래 부서를 두었고, 1906년 Julius Geber & Co 은행을 합병하면서 스웨덴 외환 시장에서 입지를 높였다. 1943년과 1944년 사이 겨울에는 은행이 보유한 기업 지분을 정리하려는 계획의 일환으로 지주회사 Industrivärden을 만들었으며, 그 대상 기업에 L. M. Ericsson이 포함되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 스톡홀름에 있으며 스웨덴 전역에 지점망을 두고 노르웨이, 네덜란드, 영국에서도 영업한다. 영국 지점은 150개가 넘어 해외 사업 가운데 가장 크다. 2021년 10월 영국, 스웨덴, 노르웨이를 주력 시장으로 삼고 핀란드와 덴마크 사업을 매각한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지점 중심의 분권화된 의사결정과 고객과의 장기 관계를 강조하는 스웨덴 은행이다. 1871년 Stockholms Handelsbank로 출발해 전국 지점망으로 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.handelsbanken.se",
+  "entityLinks": {
+   "wikidata": "Q1421630",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1421630",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EB%8D%B8%EC%8A%A4%EB%B0%A9%EC%BC%84",
+    "https://en.wikipedia.org/wiki/Handelsbanken"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1421630",
+   "country": "스웨덴",
+   "inception": "1871",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Handelsbanken」 본문과 위키데이터 Q1421630 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

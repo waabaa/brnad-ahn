@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q66861871",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kalik",
+  "urlSlug": "kalik",
+  "name": "Kalik",
+  "nameKo": "",
+  "nameEn": "Kalik",
+  "definition": "Kalik은 바하마의 맥주 브랜드이다. 나소에 있는 Commonwealth Brewery에서 생산하며, 기본 제품은 1988년 Heineken International이 설계한 알코올 도수 5%의 라거이다.",
+  "summary": "Kalik은 바하마의 맥주 브랜드이다. 나소에 있는 Commonwealth Brewery에서 생산하며, 기본 제품은 1988년 Heineken International이 설계한 알코올 도수 5%의 라거이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "바하마 시장 연구를 바탕으로 Heineken International이 1988년 설계해 Beck's를 제치고 현지 시장 선두에 오른 바하마 맥주이다. 이름은 Junkanoo 축제의 카우벨 소리에서 유래했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Kalik은 바하마의 맥주 브랜드이다. 나소의 Commonwealth Brewery가 생산하며, 이 양조장은 Heineken, Guinness, Vitamalt도 만든다. 기본 제품인 라거는 알코올 도수 5%이며, 바하마 시장 연구를 바탕으로 Heineken International이 설계했다. 이 제품은 이전까지 현지 시장을 지배하던 Beck's에게서 시장 선두 자리를 빼앗았다. 병 라벨에 따르면 이름은 바하마의 연례 축제 Junkanoo에서 들리는 카우벨 소리에서 유래했다. 기본 라거 외에 Gold, Light, Lime, Radler, Light Platinum 등 다섯 가지 변형 제품이 있으며, 알코올 도수는 2%에서 7%까지 다양하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Kalik은 1988년 Heineken International이 바하마 시장 연구를 바탕으로 설계한 라거에서 출발했다. 당시 현지 시장은 Beck's가 지배하고 있었으나, Kalik이 그 자리를 빼앗아 시장 선두에 올랐다. 1992년에는 Columbus의 신대륙 상륙 500주년을 기념하는 한정판으로 Kalik Gold를 처음 선보였고, 이는 이후 상설 제품이 되었다. 1997년에는 바하마산 라이트 맥주를 원하는 소비자들의 요청에 따라 Kalik Light를 내놓았다. 이후 2010년에 감귤류 향을 더한 Kalik Lime이, 2014년 5월에 Kalik Radler가 출시되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Commonwealth Brewery가 생산하는 Kalik의 기본 제품은 알코올 도수 5%의 라거이다. Kalik Gold는 알코올 도수 7%의 맥주이고, Kalik Light는 알코올 도수 4.5%의 라이트 맥주이다. Kalik Lime은 감귤류 향을 더한 알코올 도수 4%의 맥주이며, Kalik Radler는 Kalik 맥주와 레몬 주스를 섞은 알코올 도수 2%의 제품이다. Kalik Light Platinum은 알코올 도수 6%의 몰트 리커이다. Kalik Light 브랜드는 바하마의 레가타와 기타 수상 스포츠 행사를 후원한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Kalik은 현재 나소의 Commonwealth Brewery에서 생산된다. 이 양조장은 Heineken, Guinness, Vitamalt도 함께 생산한다. 기본 라거에 더해 Gold, Light, Lime, Radler, Light Platinum 등 알코올 도수 2%에서 7%까지의 다섯 가지 변형 제품이 있다. Kalik Gold는 한정판으로 시작해 상설 제품이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "바하마 시장 연구를 바탕으로 Heineken International이 1988년 설계해 Beck's를 제치고 현지 시장 선두에 오른 바하마 맥주이다. 이름은 Junkanoo 축제의 카우벨 소리에서 유래했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q66861871",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q66861871",
+    "https://en.wikipedia.org/wiki/Kalik"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q66861871",
+   "country": null,
+   "inception": "1988",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Kalik」 본문과 위키데이터 Q66861871 팩트를 근거로 편집"
+ }
+}

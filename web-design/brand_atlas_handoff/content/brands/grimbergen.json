@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1546845",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "grimbergen",
+  "urlSlug": "grimbergen",
+  "name": "Grimbergen",
+  "nameKo": "",
+  "nameEn": "Grimbergen",
+  "definition": "Grimbergen은 벨기에 수도원 맥주를 대표하는 브랜드명이다. 원래 그림베르헌의 노르베르트회 수도사들이 만들었고, 지금은 여러 양조장에서 생산한다.",
+  "summary": "Grimbergen은 벨기에 수도원 맥주를 대표하는 브랜드명이다. 원래 그림베르헌의 노르베르트회 수도사들이 만들었고, 지금은 여러 양조장에서 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "Grimbergen은 1128년 설립된 노르베르트회 수도원에서 비롯되었고, 라벨의 불사조와 \"Ardet nec consumitur\" 문구를 상징으로 삼는 수도원 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Grimbergen(원어 표기만 사용)은 벨기에 수도원 맥주의 한 종류에 붙는 브랜드명이다. 원래 벨기에 Grimbergen 마을의 노르베르트회 수도사들이 만들었으며, 지금은 벨기에, 프랑스, 폴란드, 이탈리아의 양조장에서 생산한다. 이름은 1128년 Saint Norbert of Xanten이 Grimbergen에 세운 노르베르트회 수도원에서 유래했다. 벨기에에서는 Alken-Maes가 양조하고, 벨기에 밖의 마케팅은 Carlsberg Group이 맡는다. 2019년에는 수도원이 다시 자체 맥주를 만들겠다고 발표해 생산자가 셋으로 늘었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Grimbergen이라는 이름은 1128년 Saint Norbert of Xanten이 Grimbergen에 세운 노르베르트회 수도원에서 나왔다. 수도사들은 이 수도원에서 처음 맥주를 양조했고, 방문객에게 베푼 환대와 직접 빚은 맥주로 유명해졌다. 18세기 말 프랑스 침략군이 수도원을 폐쇄하면서 양조도 중단되었다. 수도원이 다시 세워진 뒤에도 양조는 재개되지 않았고, 수도사들은 지역 양조장에서 맥주를 주문해 썼다. 1958년 Brouwerij Maes가 수도원에 접촉해 자사가 개발한 흑맥주를 \"Grimbergen\" 브랜드로 상품화하자고 제안했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "벨기에에서는 Blond, Dubbel(갈색), Tripel(블론드), Optimo Bruno(갈색), 가장 최근에 나온 Grimbergen Gold(블론드)가 판매된다. 프랑스에는 La Blonde 6.7%, La Rouge 6%, La Ambrée 6.5%, La Blanche 6%, La Réserve 8.5%의 라인업이 있으며, 이는 원산지인 벨기에에는 알려지지 않은 종류이다. 연말에는 한정판 크리스마스 맥주인 Brassin de Noël을 가끔 생산한다. 75cl 병의 녹색 Belgian Pale Ale은 Carlsberg Italia의 Induno Olona에서 양조한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Grimbergen 브랜드명은 Carlsberg Group이 보유하고 있으며, Heineken은 벨기에에서 쓸 수 있는 장기 사용권을 받았다. Alken-Maes가 벨기에 시장용 맥주를 양조하고, Carlsberg는 프랑스의 Kronenbourg Brewery에서 만든 맥주를 벨기에 밖에서 마케팅한다. 네덜란드에서는 Grolsch Brewery가 Alken-Maes가 양조한 제품의 마케팅을 맡는다. 330 ml 병은 Carlsberg의 폴란드 양조장에서 만든다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Grimbergen은 1128년 설립된 노르베르트회 수도원에서 비롯되었고, 라벨의 불사조와 \"Ardet nec consumitur\" 문구를 상징으로 삼는 수도원 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.grimbergenbeer.com/",
+  "entityLinks": {
+   "wikidata": "Q1546845",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1546845",
+    "https://en.wikipedia.org/wiki/Grimbergen_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1546845",
+   "country": null,
+   "inception": "1128",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Grimbergen (beer)」 본문과 위키데이터 Q1546845 팩트를 근거로 편집"
+ }
+}

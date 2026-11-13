@@ -1,0 +1,71 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1229287",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hennessy",
+  "urlSlug": "hennessy",
+  "name": "헤네시",
+  "nameKo": "헤네시",
+  "nameEn": "Hennessy",
+  "definition": "헤네시(Hennessy)는 프랑스 코냐크에 본사를 둔 코냑 하우스이다. 정식 명칭은 Jas Hennessy & Co.이며 1765년 Richard Hennessy가 창업했다.",
+  "summary": "헤네시(Hennessy)는 프랑스 코냐크에 본사를 둔 코냑 하우스이다. 정식 명칭은 Jas Hennessy & Co.이며 1765년 Richard Hennessy가 창업했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대의 코냑 생산 기업으로 간주되며, 전 세계 코냑 판매의 40% 이상을 차지하는 1765년 설립의 코냑 하우스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "헤네시는 프랑스 코냐크에 본사를 둔 코냑 하우스이며, 정식 명칭은 Jas Hennessy & Co.이다. 1765년 프랑스에서 Richard Hennessy가 설립했으며, 모기업은 LVMH이다. 전 세계적으로 한 해에 대략 50,000,000병을 판매하는 것으로 알려져 있다. 이는 전 세계 코냑 중 40% 이상을 차지하는 규모로, 세계 최대의 코냑 생산 기업으로 간주된다. Moët Hennessy의 소유이며, 이는 LVMH(66%)와 디아지오(34%)가 소유하는 구조를 뜻한다. 제품은 Hennessy V.S, Privilége V.S.O.P, Hennessy X.O를 비롯해 수량을 한정해 생산한 제품까지 폭넓게 구성되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군에는 Hennessy V.S, Privilége V.S.O.P, Hennessy X.O가 있다. Hennessy Black, Hennessy White, Pure White, Fine de Cognac도 제품 목록에 포함된다. 이 밖에 Private Reserve, Hennessy Paradis, Richard Hennessy 등의 제품이 있다. 한정 생산 제품으로는 Timeless와 Ellipse가 각각 2000개, Beauté du Siècle이 100개 생산되었다. Hennessy Prive는 트래블 리테일 전용 제품이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Moët Hennessy의 소유이며, LVMH가 66%, 디아지오가 34%를 보유하는 구조이다. 연간 판매량은 대략 50,000,000병이며 전 세계 코냑의 40% 이상을 차지해 세계 최대의 코냑 생산 기업으로 간주된다. 본사는 프랑스 코냐크에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대의 코냑 생산 기업으로 간주되며, 전 세계 코냑 판매의 40% 이상을 차지하는 1765년 설립의 코냑 하우스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hennessy.com",
+  "entityLinks": {
+   "wikidata": "Q1229287",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1229287",
+    "https://ko.wikipedia.org/wiki/%ED%97%A4%EB%84%A4%EC%8B%9C",
+    "https://en.wikipedia.org/wiki/Hennessy"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1229287",
+   "country": "프랑스",
+   "inception": "1765",
+   "headquarters": "코냐크",
+   "founders": [
+    "Richard Hennessy"
+   ],
+   "parent": "LVMH",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「헤네시」 요약과 위키데이터 Q1229287 팩트를 근거로 편집"
+ }
+}

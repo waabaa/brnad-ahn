@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q14627942",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "mutzig",
+  "urlSlug": "mutzig",
+  "name": "Mützig",
+  "nameKo": "",
+  "nameEn": "Mützig",
+  "definition": "Mützig는 1810년 프랑스 알자스의 Brasserie Mutzig에서 처음 양조된 맥주 브랜드이다. 현재 Heineken과 그 자회사가 소유하며 아프리카의 대표 브랜드로 여겨진다.",
+  "summary": "Mützig는 1810년 프랑스 알자스의 Brasserie Mutzig에서 처음 양조된 맥주 브랜드이다. 현재 Heineken과 그 자회사가 소유하며 아프리카의 대표 브랜드로 여겨진다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "알자스에서 출발해 아프리카에서는 수수 맥주의 전통 발효 방식을 바탕으로 개발된 점이 특징이며, 아프리카의 대표 프리미엄 맥주로 꼽힌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mützig는 Heineken과 그 자회사가 소유한 맥주 브랜드이다. 1810년 프랑스 알자스의 Brasserie Mutzig에서 처음 양조되었다. 현재는 알코올 도수 5.5%의 라거로, 65cl와 33cl 병으로 판매되며 풍부한 맛과 독특한 포장을 특징으로 한다. 중앙아프리카에서 현지 양조되는 프리미엄 맥주 가운데 가장 성공한 브랜드로 소개되며 아프리카의 대표 브랜드로 여겨진다. 아프리카에서는 1987년에 출시되었고 르완다, 부룬디, 카메룬, 콩고공화국, 시에라리온, 콩고민주공화국의 현지 양조사가 생산한다. 영어 슬로건은 \"Mützig, the Taste of Success\"이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Brasserie Mutzig는 1810년 Antoine Wagner가 알자스에 세웠다. 상표명은 Bruche 계곡 입구에 있는 프랑스의 코뮌 Mutzig에서 유래했다. 1969년 Mutzig는 de l'Espérance, de la Perle, de Colmar, Haag à Ingwiller 양조장과 합병해 l'Alsacienne de Brasserie(Albra)를 이루었고, 1972년 Heineken에 인수되었다. 이 양조장은 1989년 문을 닫았으며 1992년 Mutzig 시가 건물을 사들였다. 아프리카에서는 마케팅을 위해 움라우트를 붙여 독일식으로 표기를 바꾼 뒤 1987년 출시했으며, 수수 맥주의 전통 발효 방식을 바탕으로 개발되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 알코올 도수 5.5%의 라거로 65cl와 33cl 병으로 판매된다. 르완다에서는 350밀리리터와 650밀리리터 병으로 판매되며 \"The Taste of Success\"라는 이름으로 내세운다. 현지 양조사는 르완다의 Bralirwa, 부룬디의 Brarudi, 카메룬의 Brasseries du Cameroun, 콩고공화국의 Brasseries du Congo, 시에라리온의 Sierra Leone Brewery Limited, 콩고민주공화국의 Bralima이다. 르완다에서는 같은 계열의 Primus보다 약 30% 비싸고 수입 맥주보다는 저렴하다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Mützig는 Heineken과 그 자회사가 소유하며, 카메룬에서는 프랑스 기업 Castel이 소유한 Brasseries du Cameroun이 생산한다. 르완다에서는 Primus 다음으로 인기 있는 맥주이며, 한 조사에서는 72% 대 69%로 Mützig가 앞섰다. 2013년 말부터 Heineken International의 아프리카 브랜드 Mützig와 Gulder의 광고는 M. & C. Saatchi Abel이 맡았다. 카메룬에서는 Mützig Star 전국 노래 대회를 후원하고, 2015년에는 르완다 키갈리의 국제 패션위크를 후원했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "알자스에서 출발해 아프리카에서는 수수 맥주의 전통 발효 방식을 바탕으로 개발된 점이 특징이며, 아프리카의 대표 프리미엄 맥주로 꼽힌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q14627942",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q14627942",
+    "https://en.wikipedia.org/wiki/M%C3%BCtzig"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q14627942",
+   "country": "프랑스",
+   "inception": "1810",
+   "headquarters": "Mutzig",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Mützig」 본문과 위키데이터 Q14627942 팩트를 근거로 편집"
+ }
+}

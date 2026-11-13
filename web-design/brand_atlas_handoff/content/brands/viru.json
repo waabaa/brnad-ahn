@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q7935260",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "viru",
+  "urlSlug": "viru",
+  "name": "Viru",
+  "nameKo": "",
+  "nameEn": "Viru",
+  "definition": "Viru는 2004년 Baltic Beer Company가 개발한 에스토니아 최초의 '집시' 맥주 브랜드이다. 개발사 Baltic Beer Company는 영국 런던에 기반을 둔 회사이다.",
+  "summary": "Viru는 2004년 Baltic Beer Company가 개발한 에스토니아 최초의 '집시' 맥주 브랜드이다. 개발사 Baltic Beer Company는 영국 런던에 기반을 둔 회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "에스토니아 최초의 '집시' 맥주 브랜드로, 에스토니아 북부 지명에서 따온 이름과 중세 병 및 1920년대 아르데코 양식을 반영한 병 디자인을 가진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Viru는 에스토니아의 맥주 브랜드로, 2004년 Baltic Beer Company가 개발했다. 브랜드명은 에스토니아 북부에서 거리, 건물, 기업의 이름으로 널리 쓰이는 단어 Viru에서 왔으며, 이 단어는 East Viru(Ida-Viru maakond)와 West Viru(Lääne-Viru maakond) 두 주의 이름에도 쓰인다. 병은 이 지역에서 쓰였던 중세 병의 모양을 반영하고, 1920년대 에스토니아 첫 독립기의 아르데코 양식을 되살리도록 Baltic Beer Company가 만들었다. 첫 제품인 Viru Premium은 도수 5.0%의 필스너 스타일 맥주이다. 영국 시장에는 2006년에 소개되었고, 이후 여러 나라로 판매 지역을 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 브랜드는 2004년 Baltic Beer Company가 개발한 에스토니아 최초의 '집시' 맥주 브랜드이다. Baltic Beer Company Ltd는 과거 Brand Independence Ltd라는 이름이었고 영국 런던에 기반을 둔 회사이다. Viru는 2006년 영국 시장에 소개되어 런던과 다른 도시의 고급 바와 레스토랑에 먼저 공급되었다. 2007년 이탈리아, 2008년 스위스와 스웨덴에 출시되었고, 2009년 일본에 첫 물량이 도착했으며, 2010년에는 미국과 캐나다로 이어졌다. 2010년 2월 Baltic Beer Company는 Team Suzuki Alstare 후원 계약을 발표했고, Viru는 2010–2011 시즌 팀의 공동 후원사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Viru의 첫 맥주인 Viru Premium은 도수 5.0%의 필스너 스타일 맥주이다. 처음에는 A. Le Coq 양조장이 위탁 생산했고, 현재는 독립 크래프트 양조장에서 소량씩 생산한다. Viru Premium은 국제 맥주 대회에서 금메달 5개를 포함해 여러 메달을 받았다. Baltic Beer Company는 독립 양조업자들과 협력해 고전적인 맥주 스타일에 에스토니아적 요소를 더한 레시피를 만들며, Baltic Blonde, Estonian Rye beer, White IPA 같은 크래프트 맥주를 개발했다. 이 맥주들은 주로 바, 독립 병맥주 상점, 크래프트 맥주 펍, 온라인 상점에서 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Baltic Beer Company는 독립 양조업자들과 협력해 Baltic Blonde, Estonian Rye beer, White IPA 등 여러 크래프트 맥주를 개발했다. Viru Premium은 A. Le Coq 양조장의 위탁 생산에서 바뀌어 현재 독립 크래프트 양조장에서 소량 생산한다. 판매처는 주로 바, 독립 병맥주 상점, 크래프트 맥주 펍, 온라인 상점이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "에스토니아 최초의 '집시' 맥주 브랜드로, 에스토니아 북부 지명에서 따온 이름과 중세 병 및 1920년대 아르데코 양식을 반영한 병 디자인을 가진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.virubeer.com",
+  "entityLinks": {
+   "wikidata": "Q7935260",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7935260",
+    "https://en.wikipedia.org/wiki/Viru_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7935260",
+   "country": "에스토니아",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Viru (beer)」 본문과 위키데이터 Q7935260 팩트를 근거로 편집"
+ }
+}

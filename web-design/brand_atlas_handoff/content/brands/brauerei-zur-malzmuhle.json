@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q900427",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brauerei-zur-malzmuhle",
+  "urlSlug": "brauerei-zur-malzmuhle",
+  "name": "Brauerei zur Malzmühle",
+  "nameKo": "",
+  "nameEn": "Brauerei zur Malzmühle",
+  "definition": "Brauerei zur Malzmühle은 독일 쾰른에 있는 Kölsch 양조장이다. 1858년에 설립되었으며 대표 제품은 쾰른 고유의 전통 상면발효 맥주인 Mühlen Kölsch이다.",
+  "summary": "Brauerei zur Malzmühle은 독일 쾰른에 있는 Kölsch 양조장이다. 1858년에 설립되었으며 대표 제품은 쾰른 고유의 전통 상면발효 맥주인 Mühlen Kölsch이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "쾰른 지역 맥주 양식인 Kölsch를 만드는 양조장으로, 1858년 맥주·맥아 추출물 증기 양조장으로 출발해 1912년 지금의 이름을 얻었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 쾰른에 위치한 Kölsch 양조장으로, 상호는 영어로 'Brewery at the Malt Mill'에 해당하는 뜻이다. 1858년 Hubert Koch가 쾰른의 Heumarkt에 'Bier und Malzextrakt Dampfbrauerei Koch, Cöln'이라는 이름으로 세웠다. 이 이름은 '맥주와 맥아 추출물 증기 양조장, 쾰른'이라는 뜻이다. 1912년에는 양조업자 Gottfried Joseph Schwartz가 양조장을 인수했고, 그가 현재의 상호를 붙였다. 주력 제품은 Mühlen Kölsch이며, 쾰른 지역 고유의 전통적인 상면발효 맥주이다. 쾰른이라는 도시와 그 지역 맥주 양식을 기반으로 하는 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1858년 Hubert Koch가 설립했다. 설립 당시의 이름은 'Bier und Malzextrakt Dampfbrauerei Koch, Cöln'이었으며, 쾰른의 Heumarkt에 자리 잡고 있었다. 이 이름은 맥주와 맥아 추출물을 다루는 증기 양조장이라는 뜻이다. 1912년에는 양조업자 Gottfried Joseph Schwartz가 양조장을 인수했다. 그는 양조장에 현재의 이름인 Brauerei zur Malzmühle을 붙였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "쾰른 지역 맥주 양식인 Kölsch를 만드는 양조장으로, 1858년 맥주·맥아 추출물 증기 양조장으로 출발해 1912년 지금의 이름을 얻었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q900427",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900427",
+    "https://en.wikipedia.org/wiki/Brauerei_zur_Malzm%C3%BChle"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900427",
+   "country": "독일",
+   "inception": "1858",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brauerei zur Malzmühle」 본문과 위키데이터 Q900427 팩트를 근거로 편집"
+ }
+}

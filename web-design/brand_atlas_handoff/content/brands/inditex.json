@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q44504",
+ "demand": {
+  "why": "국외",
+  "naver": 0.002,
+  "koViews": 396,
+  "enViews": 47276,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/inditex-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "inditex",
+  "urlSlug": "inditex",
+  "name": "인디텍스",
+  "nameKo": "인디텍스",
+  "nameEn": "Inditex",
+  "definition": "인디텍스(Inditex)는 스페인 갈리시아 지방 라코루냐 주 아르테익소에 본사를 둔 의류 기업이다. 1985년 아만시오 오르테가가 설립했으며 자라를 비롯한 7개 브랜드를 전개한다.",
+  "summary": "인디텍스(Inditex)는 스페인 갈리시아 지방 라코루냐 주 아르테익소에 본사를 둔 의류 기업이다. 1985년 아만시오 오르테가가 설립했으며 자라를 비롯한 7개 브랜드를 전개한다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.216666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "디자인부터 소매까지 패션 생산의 핵심 요소를 한 회사에서 다루며, 유연성·디지털 통합·지속 가능성을 내세우는 스페인 의류 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인디텍스는 스페인 갈리시아 지방의 아르테익소에 본사를 둔 의류 기업이다. 마드리드 증권거래소에 상장되어 있으며 자라, 자라홈, 풀앤베어, 버쉬카, 마시모두티, 스트라디바리우스, 오이쇼 등 7개 브랜드를 보유한다. 디자인, 제조, 유통, 소매 등 패션 생산의 핵심 요소에 초점을 맞춘 단일 회사이다. 유연성, 디지털 통합, 지속 가능성을 바탕으로 고객이 원하는 제품을 합리적인 가격에 제공하고 있다. 2023년 매출은 359억 유로, 순이익은 54억 유로였다. 2024년 3월 기준 213개국에 5,692개의 매장을 두고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인디텍스는 자라, 자라홈, 풀앤베어, 버쉬카, 마시모두티, 스트라디바리우스, 오이쇼 등 총 7개 브랜드를 전개하는 패션 그룹이다. 이 가운데 자라, 자라홈, 마시모두티 세 브랜드가 한국에 진출해 있으며 국내에서 전개되고 있다. 사업은 디자인, 제조, 유통, 소매를 아우르는 패션 생산의 핵심 요소에 초점을 맞추고 있다. 판매하는 모든 품목과 생산에 사용되는 재료의 수명 주기를 최대화하는 것을 추구한다. 모든 이가 윤리적으로 생산된 고품질 패션 제품을 입을 권리를 추구한다고 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 매출은 전년 대비 10.4% 증가한 359억 유로, 순이익은 30.3% 증가한 54억 유로였다. 2024년 3월 기준 213개국에서 5,692개의 매장을 운영하며 총 임직원 수는 16만 명이다. 마드리드 증권거래소에 상장되어 있으며 창업자 아만시오 오르테가가 회장을 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "디자인부터 소매까지 패션 생산의 핵심 요소를 한 회사에서 다루며, 유연성·디지털 통합·지속 가능성을 내세우는 스페인 의류 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.inditex.com/",
+  "entityLinks": {
+   "wikidata": "Q44504",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q44504",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%94%94%ED%85%8D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Inditex"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q44504",
+   "country": "스페인",
+   "inception": "1985",
+   "headquarters": "아르테이쇼",
+   "founders": [
+    "아만시오 오르테가"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「인디텍스」 요약과 위키데이터 Q44504 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

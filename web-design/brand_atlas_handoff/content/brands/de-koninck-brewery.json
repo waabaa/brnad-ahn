@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2684279",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "de-koninck-brewery",
+  "urlSlug": "de-koninck-brewery",
+  "name": "De Koninck Brewery",
+  "nameKo": "",
+  "nameEn": "De Koninck Brewery",
+  "definition": "De Koninck Brewery는 1833년에 설립되어 안트베르펜에 본사를 둔 벨기에의 양조장이다. 대표 맥주 De Koninck으로 알려져 있으며, 이 맥주를 담는 잔을 bolleke라고 부른다.",
+  "summary": "De Koninck Brewery는 1833년에 설립되어 안트베르펜에 본사를 둔 벨기에의 양조장이다. 대표 맥주 De Koninck으로 알려져 있으며, 이 맥주를 담는 잔을 bolleke라고 부른다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "안트베르펜의 옛 여관에서 출발해 통행세를 뜻하는 손 모양을 상징으로 삼았으며, 맥주 자체를 가리키는 말로도 쓰이는 bolleke 잔이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 1833년에 설립되어 안트베르펜을 기반으로 맥주를 만드는 벨기에의 양조장이다. 대표 맥주 De Koninck은 벨기에산 맥아와 홉, 효모를 섞어 빚는 페일 에일로 소개된다. 양조 방식은 개방 발효와 오크 통 숙성을 포함한 전통적인 벨기에식 방법이다. 현재 De Koninck(5% ABV), De Koninck Triple d'Anvers(8% ABV), De Koninck Wild Jo(6% ABV)의 세 가지 맥주를 생산하며, 특별 맥주 세 가지도 함께 생산한다. 양조장은 관광지로도 인기가 있으며 견학과 맥주 시음을 제공한다. 2010년 Duvel Moortgat Brewery에 매각되었으며 그룹 안에서 독립적인 브랜드로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "안트베르펜 가장자리의 여관 De Plaisante Hof가 이 양조장의 출발점이다. 1827년 Joseph Henricus De Koninck이 이 여관을 샀으나 곧 사망했고, 미망인이 재혼한 Johannes Vervliet이 1833년 재산을 되사들여 여관을 양조장으로 바꾸고 De Hand라는 이름을 붙였다. 이 이름은 여관 앞 경계석에 새겨진, 통행세를 내라는 표시인 손 모양에서 따온 것이다. 1845년 Vervliet가 사망할 무렵 맥주는 이미 잘 알려져 있었고, 의붓아들 Carolus De Koninck이 사업을 이어받으면서 De Koninck이라는 이름이 처음 등장했다. 1883년 Carolus가 사망한 뒤 아들 François Joseph, 이후 딸 Josephina Joanna가 가업을 이끌었고, 1912년 양조장은 Brewery Charles De Koninck이라는 유한회사로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산하는 맥주는 De Koninck(5% ABV), De Koninck Triple d'Anvers(8% ABV), De Koninck Wild Jo(6% ABV)의 세 가지이다. 특별 맥주로는 Toasting to Wintertime(6.8% ABV), Let the Sun Shine(6.5 ABV), Bolleke Hop(5.6 ABV)을 만든다. 과거에는 1993년 안트베르펜이 유럽 문화 수도였을 때 내놓은 Cuvee Antwerpen '93과 이를 상업화한 Cuvee De Koninck을 생산했으나 지금은 단종되었다. 1999년 Anthony van Dyck의 해를 맞아 낸 Antoon도 단종된 맥주이다. 2007년 네덜란드 시장 전용으로 낸 딸기 계절 맥주 Zomerkoninck도 단종 목록에 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1919년 Florent Van Bauwel이 Willebroek의 Van den Bogaert 가문과 동업한 이후 두 가문의 후손이 양조장을 이끌었고, Modeste Van den Bogaert의 사후에는 아들 Dominique와 Bernard Van den Bogaert가 맡았다. 2010년 Duvel Moortgat Brewery에 매각되었으며 그룹 안에서 독립적인 브랜드로 운영된다. 양조장은 견학과 시음을 제공하는 관광지로도 알려져 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "안트베르펜의 옛 여관에서 출발해 통행세를 뜻하는 손 모양을 상징으로 삼았으며, 맥주 자체를 가리키는 말로도 쓰이는 bolleke 잔이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dekoninck.be/",
+  "entityLinks": {
+   "wikidata": "Q2684279",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2684279",
+    "https://en.wikipedia.org/wiki/De_Koninck_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2684279",
+   "country": "벨기에",
+   "inception": "1833",
+   "headquarters": "안트베르펜",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「De Koninck Brewery」 본문과 위키데이터 Q2684279 팩트를 근거로 편집"
+ }
+}

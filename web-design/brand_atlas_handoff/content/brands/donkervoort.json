@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q27571",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/donkervoort-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "donkervoort",
+  "urlSlug": "donkervoort",
+  "name": "돈커부트",
+  "nameKo": "돈커부트",
+  "nameEn": "Donkervoort",
+  "definition": "돈커부트(Donkervoort)는 네덜란드 렐리스타트에 본사를 둔, 수작업으로 제작하는 초경량 스포츠카 제조업체이다. 1978년 Joop Donkervoort가 설립했다.",
+  "summary": "돈커부트(Donkervoort)는 네덜란드 렐리스타트에 본사를 둔, 수작업으로 제작하는 초경량 스포츠카 제조업체이다. 1978년 Joop Donkervoort가 설립했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 5,
+  "image": "",
+  "logo": "",
+  "insight": "ABS, ESP, 파워 스티어링 같은 전자 보조장치를 배제하는 \"No Compromise\" 모토 아래, 수작업으로 초경량 스포츠카를 만드는 네덜란드 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "돈커부트는 수작업으로 제작하는 초경량 스포츠카를 만드는 네덜란드의 자동차 제조업체이다. 본사와 공장은 렐리스타트에 있으며, 2000년에 현재 위치로 옮겼다. 브랜드의 모토는 \"No Compromise\"이며, ABS, ESP, 파워 스티어링 같은 전자 보조장치 없이 운전하는 것을 뜻한다. 비공개 기업으로 창업자 Joop Donkervoort가 2019년 은퇴할 때까지 회사를 지배했고, 2021년에 아들 Denis가 Managing Director를 이어받았다. 아내 Marianne Donkervoort와 딸 Amber도 사업과 브랜드 구축에서 주요한 역할을 했다. 2026년 1월에는 F22의 후속 모델인 P24 RS를 공개했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1978년 Joop Donkervoort가 키트카 수입업체로 회사를 시작했다. 조립한 키트카를 도로 주행이 가능하도록 하려면 상당한 개조가 필요하다는 것을 알게 되어, Lotus Seven에서 파생한 디자인으로 Tienhoven의 헛간에서 첫 S7을 만들기 시작했다. 1983년에는 Loosdrecht의 더 큰 생산시설로 옮겼고, 2000년에는 현재의 본사 겸 공장이 있는 렐리스타트로 다시 옮겼다. 외부 공급업체가 맡던 섀시 생산은 2003년 렐리스타트로 들여와 자체 생산하기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 모델 S7은 1978년에 소개된 초경량 스포츠카로, 1978년부터 1982년까지 Tienhoven에서 제조했다. Ford Crossflow 1.6리터 엔진(90 PS) 또는 Ford 2.0리터 OHC 엔진(110 hp)을 얹었고 최고 속도는 170 km/h였다. 1983년 말에 후속 S8이 나왔고, 1985년에는 더 넓은 프런트 트랙과 독립식 리어 서스펜션을 갖춘 S8A도 출시했다. 1986년에는 터보 버전인 S8AT를 내놓았으며 출력은 170 hp로 올랐다. 현행 모델은 2026년에 공개한 P24 RS이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "비공개 기업이며, 창업자 Joop Donkervoort가 2019년 은퇴할 때까지 회사를 지배했다. 2021년에는 아들 Denis가 Managing Director를 이어받았다. 2026년 1월 24일 F22의 후속인 P24 RS를 공개했으며, 3.5리터 트윈터보 Ford EcoBoost V6 엔진과 5단 수동변속기를 쓰고 생산은 150대로 제한된다. 웹사이트에서 전 세계 거점과 서비스를 확대한다고 밝혔고, 최근에는 미국에서도 자동차 브랜드로 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "ABS, ESP, 파워 스티어링 같은 전자 보조장치를 배제하는 \"No Compromise\" 모토 아래, 수작업으로 초경량 스포츠카를 만드는 네덜란드 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.donkervoort.com/",
+  "entityLinks": {
+   "wikidata": "Q27571",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27571",
+    "https://ko.wikipedia.org/wiki/%EB%8F%88%EC%BB%A4%EB%B6%80%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Donkervoort"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27571",
+   "country": "네덜란드",
+   "inception": "1978",
+   "headquarters": "렐리스타트",
+   "founders": [
+    "Joop Donkervoort"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Donkervoort」 본문과 위키데이터 Q27571 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

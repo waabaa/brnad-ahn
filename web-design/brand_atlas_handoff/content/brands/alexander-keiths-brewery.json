@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1422369",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/alexander-keiths-brewery-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "alexander-keiths-brewery",
+  "urlSlug": "alexander-keiths-brewery",
+  "name": "Alexander Keith's Brewery",
+  "nameKo": "",
+  "nameEn": "Alexander Keith's Brewery",
+  "definition": "Alexander Keith's Brewery는 캐나다 노바스코샤주 핼리팩스에 있는 양조장이다. Anheuser-Busch InBev가 소유하고 있으며 Alexander Keith's IPA로 알려져 있다.",
+  "summary": "Alexander Keith's Brewery는 캐나다 노바스코샤주 핼리팩스에 있는 양조장이다. Anheuser-Busch InBev가 소유하고 있으며 Alexander Keith's IPA로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "1820년 핼리팩스에서 Alexander Keith가 세운 양조장으로, 노바스코샤에서 가장 인기 있던 Alexander Keith's IPA로 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Alexander Keith's Brewery는 캐나다 노바스코샤주 핼리팩스에 기반을 둔 양조장이자 맥주 브랜드이다. 현재 Anheuser-Busch InBev가 소유한다. 1928년 이후 모회사들이 브랜드를 이어 왔고, 1990년대에는 Alexander Keith's India Pale Ale(IPA)가 노바스코샤에서 가장 인기 있는 맥주가 되었다. 다른 스타일의 맥주도 판매한다. 처음에는 핼리팩스 양조장에서만 생산해 Maritimes 지역에서 팔았으나, 지금은 캐나다와 미국에 있는 Anheuser-Busch InBev 공장에서 생산한다. 현대의 Alexander Keith's IPA는 알코올 도수 5%의 가볍게 홉을 넣은 맥주로, 인도 페일 에일의 통상 기준에는 맞지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1820년 Alexander Keith가 세웠으며, 그는 3년 전 스코틀랜드에서 이민해 온 인물이다. 1928년 사업은 Oland Brewery에 매각되었고, Oland Brewery는 다시 Labatt Brewing Company에 팔렸다. 이후 여러 차례의 합병과 인수를 거쳐 Labatt는 현재 Anheuser-Busch InBev의 일부가 되었다. 1928년 이후에도 모회사들이 브랜드를 유지했고, 1990년대에는 Alexander Keith's India Pale Ale(IPA)가 노바스코샤에서 가장 인기 있는 맥주가 되었다. Alexander Keith 제품은 처음에는 핼리팩스 양조장에서만 생산되어 Maritimes 지역 판매용으로 만들어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Alexander Keith's India Pale Ale(IPA)이다. 이 제품은 알코올 도수 5%에 가볍게 홉을 넣었으며, 인도 페일 에일의 통상 기준에는 맞지 않는다. 그 밖에 여러 스타일의 맥주도 판매한다. 20세기 초 양조장의 보관 레시피는 홉 사용량이 많고 옥수수를 쓰지 않은 대량의 순수 맥아 원료를 보여 주어, 현대 제품과 대비된다. 2016년 Canadian Brewing Awards에서 Alexander Keith's IPA는 IPA 부문이 아닌 \"North American Style Blonde or Golden Ale\" 부문에서 3위를 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Alexander Keith's는 Anheuser-Busch InBev가 소유하고 있으며, 본사는 핼리팩스에 있다. 원래 Maritimes 지역 판매용으로 핼리팩스 양조장에서만 만들던 제품이 지금은 캐나다와 미국에 있는 Anheuser-Busch InBev 공장에서 생산된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1820년 핼리팩스에서 Alexander Keith가 세운 양조장으로, 노바스코샤에서 가장 인기 있던 Alexander Keith's IPA로 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.keiths.ca/",
+  "entityLinks": {
+   "wikidata": "Q1422369",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1422369",
+    "https://en.wikipedia.org/wiki/Alexander_Keith%27s_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1422369",
+   "country": "캐나다",
+   "inception": "1820",
+   "headquarters": "핼리팩스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Alexander Keith's Brewery」 본문과 위키데이터 Q1422369 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

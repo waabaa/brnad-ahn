@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2156377",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "la-binchoise",
+  "urlSlug": "la-binchoise",
+  "name": "La Binchoise",
+  "nameKo": "",
+  "nameEn": "La Binchoise",
+  "definition": "La Binchoise는 벨기에 뱅슈(Binche)에 있는 맥주 양조장이다. 1986년에 설립되었고, 양조한 맥주를 병 안에서 다시 발효시키는 방식을 쓴다.",
+  "summary": "La Binchoise는 벨기에 뱅슈(Binche)에 있는 맥주 양조장이다. 1986년에 설립되었고, 양조한 맥주를 병 안에서 다시 발효시키는 방식을 쓴다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "병 안에서 재발효하는 맥주를 만드는 벨기에 뱅슈의 양조장이며, 한때 Belgian National Guard가 소유했던 가마솥을 사용한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벨기에 뱅슈(Binche)에 본사를 둔 맥주 양조장이다. 1986년에 당시 실직 상태였던 Graux-Jauson 부부가 설립했다. 이들은 처음에 집에서 사업을 꾸렸으나 곧 오래된 맥아 제조장 건물로 옮겼다. 이후 빠르게 상업적 성공을 거두었고, 시카고에서 매년 열리는 맥주 축제에서 금메달을 받았다. 한동안은 Belgian National Guard가 소유했던 가마솥으로 맥주를 빚었다. 이곳의 맥주는 병 안에서 재발효하며, Blonde tradition, Brune tradition, Reserve speciale, Rose des Remparts가 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1986년에 당시 실업 상태였던 Graux-Jauson 부부가 벨기에 뱅슈에서 양조장을 세워 사업을 시작했다. 이들은 처음에 집에서 사업을 시작했으나 얼마 지나지 않아 오래된 맥아 제조장 건물로 옮겼다. 이후 빠르게 상업적 성공을 거두었고, 시카고에서 매년 열리는 맥주 축제에서 금메달을 받았다. 한동안은 Belgian National Guard가 소유했던 가마솥으로 맥주를 빚었다. 이처럼 이 양조장은 집에서 출발해 오래된 맥아 제조장 건물로 옮기며 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "벨기에 뱅슈의 이 양조장이 만드는 제품은 맥주이다. 소개된 맥주는 Blonde tradition, Brune tradition, Reserve speciale, Rose des Remparts의 네 종류이다. 이 가운데 Blonde tradition과 Brune tradition은 이름에 tradition이 붙은 두 종류이다. 이 양조장의 맥주는 병 안에서 재발효하는 방식으로 만든다. 한동안은 Belgian National Guard가 소유했던 가마솥에서 맥주를 만들었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "병 안에서 재발효하는 맥주를 만드는 벨기에 뱅슈의 양조장이며, 한때 Belgian National Guard가 소유했던 가마솥을 사용한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.brasserielabinchoise.be",
+  "entityLinks": {
+   "wikidata": "Q2156377",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2156377",
+    "https://en.wikipedia.org/wiki/La_Binchoise"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2156377",
+   "country": "벨기에",
+   "inception": "1986",
+   "headquarters": "뱅슈",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「La Binchoise」 본문과 위키데이터 Q2156377 팩트를 근거로 편집"
+ }
+}

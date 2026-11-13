@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q595750",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/cerveza-quilmes-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cerveza-quilmes",
+  "urlSlug": "cerveza-quilmes",
+  "name": "Cerveza Quilmes",
+  "nameKo": "",
+  "nameEn": "Cerveza Quilmes",
+  "definition": "Cerveza Quilmes는 1890년 아르헨티나 Quilmes 시에서 설립된 음료 회사 Cervecería y Maltería Quilmes의 맥주 브랜드이다. 아르헨티나 최대 맥주 제조사이며 현재 Ambev가 소유한다.",
+  "summary": "Cerveza Quilmes는 1890년 아르헨티나 Quilmes 시에서 설립된 음료 회사 Cervecería y Maltería Quilmes의 맥주 브랜드이다. 아르헨티나 최대 맥주 제조사이며 현재 Ambev가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "아르헨티나 맥주 시장 점유율 75%를 차지하는 국민적 상징으로, 라벨에 아르헨티나의 하늘색과 흰색을 사용하고 축구 국가대표팀을 후원했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cerveza Quilmes는 아르헨티나의 음료 회사 Cervecería y Maltería Quilmes가 만드는 맥주 브랜드이다. 이 회사는 맥주 외에도 생수, 청량음료, 스포츠음료, 에너지음료, 와인을 병입해 판매한다. 1920년대에는 부에노스아이레스에서 가장 인기 있는 맥주 브랜드가 되었고, 이후 일종의 국민적 상징으로 자리 잡았다. 아르헨티나 맥주 시장 점유율은 75%이며, 아르헨티나 축구 국가대표팀을 후원했고 라벨 색상은 아르헨티나의 하늘색과 흰색이다. 2002년부터 세계 최대 맥주 제조사인 Ambev가 소유하고 있으며, 아르헨티나에서 가장 큰 맥주 제조사이다. 2005년 기준으로 브라질, 페루, 미국, 스페인 등 여러 나라로도 수출되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "독일 이민자 Otto Bemberg는 1852년 아르헨티나에 도착했고, 1890년 Quilmes 시에 양조장을 세워 맥주 제조 사업을 시작했다. 제품은 도시의 옛 원주민 명칭인 Quilmes라는 이름으로 판매되었다. 회사는 1918년 Quilmes 병원을 짓는 데 기부금을 냈다. 회사는 빠르게 성장해 1920년대에는 부에노스아이레스에서 가장 인기 있는 맥주 브랜드가 되었다. 1993년에는 아르헨티나 최초의 무알코올 맥주 Liberty를 출시했고, 4년 뒤 저알코올 버전인 Quilmes Light를 내놓았으며, 1998년에는 미국과 유럽으로 수출했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주 외에 생수, 청량음료, 스포츠음료, 에너지음료, 와인을 병입해 판매한다. 일부 브랜드는 모회사 Ambev의 자산이고, 다른 브랜드는 PepsiCo와 Nestlé 등의 라이선스로 취급한다. 맥주는 저알코올, 보크, 스타우트, 라거, 레드 라거, 필스너 등 여러 종류를 생산해 왔다. 1993년 출시한 Liberty는 아르헨티나 최초의 무알코올 맥주이고, 이후 나온 Quilmes Light는 저알코올 버전이다. 2020년 2월에는 멘도사 주 Luján de Cuyo의 와이너리 Dante Robino를 인수해 와인 시장에 진입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2002년 브라질 회사 Ambev가 Quilmes S.A. 지분 37.5%를 인수해 아르헨티나 내 Quilmes 브랜드의 지배권을 확보했다. 2006년 Ambev는 지분을 91% 이상으로 늘려 사실상 회사 전체를 지배하게 되었다. 2005년 기준으로 Quilmes, Zárate, Tres Arroyos, Corrientes, Tucumán, Mendoza에 공장을 두고 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "아르헨티나 맥주 시장 점유율 75%를 차지하는 국민적 상징으로, 라벨에 아르헨티나의 하늘색과 흰색을 사용하고 축구 국가대표팀을 후원했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.quilmes.com.ar/",
+  "entityLinks": {
+   "wikidata": "Q595750",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q595750",
+    "https://en.wikipedia.org/wiki/Cerveza_Quilmes"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q595750",
+   "country": "아르헨티나",
+   "inception": "1890",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Cerveza Quilmes」 본문과 위키데이터 Q595750 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

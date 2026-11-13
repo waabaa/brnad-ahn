@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q3107294",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brains-brewery",
+  "urlSlug": "brains-brewery",
+  "name": "Brains Brewery",
+  "nameKo": "",
+  "nameEn": "Brains Brewery",
+  "definition": "Brains Brewery는 1882년 Samuel Arthur Brain이 설립한 웨일스 카디프 기반의 지역 양조장이다. S. A. Brain & Company Ltd.가 운영하며 Brains, Buckley's, Hancock's 이름으로 맥주를 생산한다.",
+  "summary": "Brains Brewery는 1882년 Samuel Arthur Brain이 설립한 웨일스 카디프 기반의 지역 양조장이다. S. A. Brain & Company Ltd.가 운영하며 Brains, Buckley's, Hancock's 이름으로 맥주를 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "Brain 가문이 소유한 카디프 기반 지역 양조장으로, 웨일스 국가대표 럭비 팀의 셔츠 스폰서를 맡는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brains Brewery는 영국 웨일스 카디프에 본사를 둔 지역 양조장으로 정식 회사명은 S. A. Brain & Company Ltd.이다. 한때 사우스 웨일스, 미드 웨일스, 웨스트 컨트리에서 250개가 넘는 펍을 관리했으나 2022년 대부분의 펍을 매각했다. Brains, Buckley's, Hancock's 이름으로 맥주를 생산하며, 2011년에는 커피숍 체인 Coffee#1을 인수해 사업을 다각화했다. 마케팅 전략의 하나로 웨일스 럭비 유니언 국가대표팀과 Crusaders Rugby League 팀의 셔츠 스폰서를 맡는다. 소유권은 창업자 가문인 Brain 가문이 유지하며, 2023년 12월 펍 매각으로 팬데믹 이후의 부채에서 회복했다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "원래의 양조장은 카디프에서 가장 오래된 것으로 여겨지며 18세기에 Thomas 형제가 세웠다. 1882년 잉글랜드 브리스톨 출신 양조업자 Samuel Arthur Brain과 삼촌 Joseph Benjamin Brain이 이를 인수했다. 건물 일부는 1713년으로 거슬러 올라가며 최소 1822년부터 양조장이었다. 1882년에는 주당 맥주 100배럴을 생산하고 펍 11곳을 운영했으나, 1900년에는 주당 1,000배럴로 늘어 80곳의 펍에 공급했다. 1897년 4월 유한회사 S.A. Brain & Co Ltd가 되었고, 1914년 St Mary Street에 새 양조장을 지어 Old Brewery를 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "회사는 Brains, Buckley's, Hancock's 세 이름으로 맥주를 생산한다. 주력 브랜드 Brains SA는 맥아 풍미가 나는 밝은 색의 베스트 비터로, 흔히 'Skull Attack'이라 불린다. Brains Dark는 구운 맥아를 강조한 다크 마일드 에일이고, Brains Bitter는 카디프에서 가장 흔히 접할 수 있는 표준 비터이다. Brains IPA는 맥아 향이 강한 인디아 페일 에일이며, SA Gold는 2006년 6월 공식 출시한 골든 에일이다. 2011년 9월에는 카디프 기반 커피숍 체인 Coffee#1을 인수해 커피 사업으로 다각화했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "소유권은 여전히 Brain 가문에 있으며, 2009년부터 창업자 Samuel Arthur Brain의 고손자인 John Rhys가 회사를 이끈다. 2020년 12월 156개 펍의 운영을 25년 임대 후 재임차 방식으로 Marston's에 넘겼고, 2022년 5월 펍 95곳의 소유권을 Song Capital에 매각해 기존 부채를 갚는 데 썼다. 2022년 2월에는 Coffee#1의 잔여 지분도 Caffe Nero에 매각했다. 2023년 12월 펍 매각으로 팬데믹 이후의 부채에서 회복했다고 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Brain 가문이 소유한 카디프 기반 지역 양조장으로, 웨일스 국가대표 럭비 팀의 셔츠 스폰서를 맡는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.sabrain.com/",
+  "entityLinks": {
+   "wikidata": "Q3107294",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3107294",
+    "https://en.wikipedia.org/wiki/Brains_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3107294",
+   "country": "영국",
+   "inception": "1882",
+   "headquarters": "카디프",
+   "founders": [
+    "Samuel Brain"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Brains Brewery」 본문과 위키데이터 Q3107294 팩트를 근거로 편집"
+ }
+}

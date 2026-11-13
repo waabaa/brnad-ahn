@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q6428700",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "kona-brewing-company",
+  "urlSlug": "kona-brewing-company",
+  "name": "코나 브루잉 컴퍼니",
+  "nameKo": "코나 브루잉 컴퍼니",
+  "nameEn": "Kona Brewing Company",
+  "definition": "코나 브루잉 컴퍼니(Kona Brewing Company)는 미국 하와이의 Kailua-Kona에 본사를 둔 양조장 겸 펍이다. 1994년에 설립되었으며 하와이에서 가장 오래 운영된 크래프트 양조장이다.",
+  "summary": "코나 브루잉 컴퍼니(Kona Brewing Company)는 미국 하와이의 Kailua-Kona에 본사를 둔 양조장 겸 펍이다. 1994년에 설립되었으며 하와이에서 가장 오래 운영된 크래프트 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "하와이에서 가장 오래 운영된 크래프트 양조장이며, 하와이에서 판매되는 맥주 대부분을 현지 Kailua-Kona 양조장에서 생산한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 Kailua-Kona에 본사를 둔 양조장 겸 펍으로, Hawaii Kai에 두 번째 지점을 두고 있다. 1994년에 설립되었으며 하와이에서 가장 오래 운영된 크래프트 양조장이다. 주력 양조장은 하와이 Big Island의 Kailua-Kona에 있고, 하와이에서 판매되는 맥주는 거의 모두 이 양조장에서 생산한다. 하와이 한정 맥주로는 Longboard Lager, Big Wave, Koko Brown 등이 있다. 2020년 PV Brewing Partners가 하와이 사업을 인수했다. 미국 본토 사업은 Anheuser-Busch 소유로 남아 2023년 Kona Big Wave로 이름을 바꾸었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년 Cameron Healy 부자가 설립했다. 초기에는 현지 시장에만 판매했으나, 비용 문제로 본토 배송이 현실적이지 않아 본토에서 맥주를 양조하는 방식을 마련했다. Kona 펍은 1998년 11월, Hawaii Kai 펍은 2003년 12월에 문을 열었다. 2010년 10월 Craft Brew Alliance와 합병했고, 이를 통해 Anheuser-Busch 유통망을 이용할 수 있게 되었다. 2009년에는 Brewers Association 기준 미국 크래프트 양조사 판매량 14위에 올랐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "상시 판매 맥주로 Longboard Island Lager, Big Wave Golden Ale, Fire Rock Pale Ale, Kona Light Blonde Ale, Gold Cliff IPA, Hanalei Island IPA가 있다. 하와이 한정 맥주로는 Longboard Lager, Big Wave, Koko Brown 등이 있다. Pipeline Porter는 Big Island의 이웃 Cornwell Estate에서 나온 Kona 커피 100%로 만들고, Big Island Ginger의 생강은 Kona에서 재배한다. Lemongrass Luau의 레몬그라스는 양조장 현장과 직원 집에서 키우며, 특수 맥주용 카카오닙스는 Original Hawaiian Chocolate Factory에서 들여온다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 Kona Brewing Hawaii가 본토 Anheuser-Busch 사업과 분리된 독립 양조장으로 설립되었다. 30,000 square foot 규모 시설에 연간 65,000배럴 생산능력과 캔 라인을 갖췄고, 태양에너지 활용과 발효 공정 물 재사용 같은 지속가능성 방안도 도입했다. 하와이에서 레스토랑 2곳을 운영하며 직원 250명이 일하고, Makana Giving 프로그램으로 지역 비영리단체를 지원한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하와이에서 가장 오래 운영된 크래프트 양조장이며, 하와이에서 판매되는 맥주 대부분을 현지 Kailua-Kona 양조장에서 생산한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://konabrewingco.com/",
+  "entityLinks": {
+   "wikidata": "Q6428700",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6428700",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%82%98_%EB%B8%8C%EB%A3%A8%EC%9E%89_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Kona_Brewing_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6428700",
+   "country": "미국",
+   "inception": "1994",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Kona Brewing Company」 본문과 위키데이터 Q6428700 팩트를 근거로 편집"
+ }
+}

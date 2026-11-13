@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q644324",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/swisscom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "swisscom",
+  "urlSlug": "swisscom",
+  "name": "스위스컴",
+  "nameKo": "스위스컴",
+  "nameEn": "Swisscom",
+  "definition": "스위스컴(Swisscom)은 스위스의 주요 통신사업자이다. 스위스 포스트와 함께 국유 회사였던 PTT의 후신이며, 본사는 이티겐에 있고 1997년 상장 유한회사가 되었다.",
+  "summary": "스위스컴(Swisscom)은 스위스의 주요 통신사업자이다. 스위스 포스트와 함께 국유 회사였던 PTT의 후신이며, 본사는 이티겐에 있고 1997년 상장 유한회사가 되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "국유 회사 PTT의 후신으로 스위스 연방 정부가 주식의 51%를 소유하는 스위스의 주요 통신사업자이며, 유럽 최초로 디지털 통신망을 구축했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스위스컴은 스위스의 주요 통신사업자로, 2만 명 이상의 인력에 연매출 100억 달러를 갖춘 통신 분야의 선두 주자이다. 스위스 포스트와 함께 국유 회사였던 PTT의 후신이며 본사는 이티겐에 있다. 세계에서 가장 고음질의 통화 서비스를 제공하는 동시에 세계 최대의 1인당 국제 통화량을 보유한 통신회사이다. 유럽 최초로 디지털 통신망을 구축한 선두 주자로서 경쟁사보다 한발 앞서 다양한 첨단 디지털 음성 및 데이터 통신 솔루션을 고객에게 제공했다. 스위스 연방 정부는 현재도 주식의 51%를 소유하고 있으며, 외부의 지분 참여는 법으로 49.9%까지 제한된다. 2007년 12월 14일에는 스위스와 통신산업을 위한 혁신을 표현하는 새로운 비주얼 아이덴티티를 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스위스컴의 전신은 1852년에 설립된 국유 회사 PTT(Post, Telegraph, Telephone)이며, PTT는 1988년부터 단계적으로 민영화되었다. 스위스컴은 1997년 10월 특별한 법적 지위를 가지는 상장 유한회사가 되었으며, 스위스 포스트와 함께 PTT의 후신으로 꼽힌다. 이 회사는 유럽 최초로 디지털 통신망을 구축한 뒤 경쟁사보다 한발 앞서 다양한 첨단 디지털 음성 및 데이터 통신 솔루션을 고객에게 제공했다. 스위스의 통신회사법은 외부의 지분 참여를 49.9%로 제한하고 있고, 스위스 연방 정부는 현재도 주식의 51%를 소유하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스위스 연방 정부는 현재도 스위스컴 주식의 51%를 소유하고 있다. 스위스의 통신회사법은 외부의 지분 참여를 49.9%로 제한한다. 2만 명 이상의 인력에 연매출 100억 달러 규모의 통신 분야 선두 주자로 소개된다. 2007년 12월 14일 새로운 비주얼 아이덴티티를 발표했고, 스위스컴 픽스넷·모바일·솔루션의 서브 브랜드를 2008년 1월 1일 중단했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국유 회사 PTT의 후신으로 스위스 연방 정부가 주식의 51%를 소유하는 스위스의 주요 통신사업자이며, 유럽 최초로 디지털 통신망을 구축했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.swisscom.ch/",
+  "entityLinks": {
+   "wikidata": "Q644324",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q644324",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9C%84%EC%8A%A4%EC%BB%B4",
+    "https://en.wikipedia.org/wiki/Swisscom"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q644324",
+   "country": "스위스",
+   "inception": "1997",
+   "headquarters": "이티겐",
+   "founders": [
+    "Postal Telegraph and Telephone"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「스위스컴」 요약과 위키데이터 Q644324 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q874166",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "spatenbrau",
+  "urlSlug": "spatenbrau",
+  "name": "Spatenbräu",
+  "nameKo": "",
+  "nameEn": "Spatenbräu",
+  "definition": "Spatenbräu는 독일 뮌헨에 본사를 둔 양조장이다. 1397년으로 거슬러 올라가는 역사를 지니며, 현재 Anheuser-Busch-InBev 맥주 그룹이 소유한다.",
+  "summary": "Spatenbräu는 독일 뮌헨에 본사를 둔 양조장이다. 1397년으로 거슬러 올라가는 역사를 지니며, 현재 Anheuser-Busch-InBev 맥주 그룹이 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "19세기의 혁신으로 라거 맥주 역사에서 가장 중요한 양조장으로 평가받은 뮌헨의 양조장이며, 1924년의 광고 문구 Lass Dir raten, trinke Spaten이 지금도 쓰인다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "독일 뮌헨의 양조장으로, 1397년 Hans Welser가 운영한 Welser Prew라는 양조장이 기록에 처음 나타난다. 1922년부터 Spaten-Franziskaner-Bräu GmbH에 속했고, 이 회사는 1997년부터 Spaten-Franziskaner-Bräu 그룹의 일부이다. 맥주 평론가 Michael Jackson은 19세기의 혁신 때문에 Spaten 양조장을 라거 맥주 역사에서 가장 중요한 양조장으로 평가했다. 1861년에 뮌헨에서 가장 큰 양조장이 되어 1890년대까지 그 지위를 유지했으며, 파리 만국박람회에서 맥주로 금메달을 받은 유일한 독일 양조장이었다. 현재는 Anheuser-Busch-InBev 맥주 그룹이 소유한다. 양조장 부지는 방문자 박물관으로 쓰이며 그곳에서는 더 이상 맥주를 양조하지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Steuerbuch der Stadt München은 1397년 Hans Welser가 Neuhausergasse 4에서 Welser Prew라는 양조장을 운영했다고 처음 기록했다. 이 양조장은 1522년부터 1622년까지 Starnberger 가문이, 1622년부터 1704년까지 Spatt 가문이 소유했으며 Spatt 가문 시기에 현재의 이름을 얻었다. 1807년 왕실 양조사 Gabriel Sedlmayr가 당시 뮌헨에서 가장 작은 양조장이던 Spaten을 인수하면서 Sedlmayr 가문의 시대가 시작되었다. 1851년에는 Marsstraße 46-48의 Silberbauer-Keller 부지를 사들여 조금씩 확장했고, 3년 만에 새 부지로 완전히 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1896년 뮌헨에서 처음으로 Münchner Hell 맥주를 양조했고, 이 맥주는 북독일로 수출할 목적이었다. 이듬해 이 맥주를 뮌헨 시장에 내놓았고 곧 큰 인기를 얻었다. Spatenbräu Hellbier는 1941년부터 Vollmalz로 불렸다. 1964년에는 Oktoberfest에서 첫 밀맥주인 Champagner-Weiße를 선보였다. 1924년에 나온 광고 문구 Lass Dir raten, trinke Spaten은 지금도 쓰인다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1997년 이웃한 Löwenbräu와 합쳐 Spaten-Franziskaner-Bräu 양조장이 되었고, 2003년 벨기에 양조 기업 Interbrew에 인수되었다. 이후 양조 설비가 하나씩 가동을 멈추었고, 합병 뒤 모든 맥주 생산은 옛 Löwenbräu AG 양조장에서 이루어진다. Spatenbräu 부지에는 충전 설비와 저장 탱크만 남았고 방문자 박물관으로 쓰인다. 현재 Anheuser-Busch-InBev 그룹이 소유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "19세기의 혁신으로 라거 맥주 역사에서 가장 중요한 양조장으로 평가받은 뮌헨의 양조장이며, 1924년의 광고 문구 Lass Dir raten, trinke Spaten이 지금도 쓰인다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://spatenbraeu.de",
+  "entityLinks": {
+   "wikidata": "Q874166",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q874166",
+    "https://en.wikipedia.org/wiki/Spatenbr%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q874166",
+   "country": "독일",
+   "inception": "1397",
+   "headquarters": "뮌헨",
+   "founders": [],
+   "parent": "Spaten-Franziskaner-Bräu",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Spatenbräu」 본문과 위키데이터 Q874166 팩트를 근거로 편집"
+ }
+}

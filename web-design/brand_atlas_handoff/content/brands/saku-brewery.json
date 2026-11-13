@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1851509",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "saku-brewery",
+  "urlSlug": "saku-brewery",
+  "name": "Saku Brewery",
+  "nameKo": "",
+  "nameEn": "Saku Brewery",
+  "definition": "Saku Brewery는 에스토니아의 맥주 및 기타 음료 생산 기업으로, 사업명은 Saku Õlletehase AS이다. 1820년 Karl Friedrich von Rehbinder가 설립했다.",
+  "summary": "Saku Brewery는 에스토니아의 맥주 및 기타 음료 생산 기업으로, 사업명은 Saku Õlletehase AS이다. 1820년 Karl Friedrich von Rehbinder가 설립했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "Carlsberg Group이 100% 소유한 양조 기업으로, 1820년 영지 양조장에서 출발해 에스토니아에서 자체 맥주 제품군과 Carlsberg Group 브랜드 유통을 함께 맡는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Saku Brewery는 에스토니아의 맥주 및 기타 음료 생산 기업이며, 사업명은 Saku Õlletehase AS이고 본사는 Saku에 있다. 자체 맥주로 Saku Originaal, Karl Friedrich, Saku Rock, Saku On Ice를 생산한다. 에스토니아에서 Carlsberg Group 계열 덴마크, 프랑스, 벨기에, 핀란드 자회사 제품의 유통도 맡는다. 사이다, 혼합 주류, 크바스, 생수, 에너지 드링크도 취급한다. 2008년부터 Carlsberg Group이 단독 소유주이다. 2023년 매출은 72.2 million euros, 순이익은 5.5 million euros였고 평균 직원 수는 292명이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1820년 지역 발트 독일계 지주 Karl Friedrich von Rehbinder가 Saku 영지에 양조장을 세웠다. Baggo 가문이 1849년 영지를 인수한 뒤 양조 활동이 본격화했고, 이 시기부터 주요 혁신을 도입하기 시작했다. 1876년 Valerian Baggo가 기존 영지 방식 대신 증기 동력 공장을 세웠고, 1899년 주식회사 Saku Õlletehase Aktsiaselts로 전환하며 Tallinn과 공장을 잇는 협궤 철도를 놓았다. 1991년 에스토니아가 독립을 회복한 뒤 정부는 스웨덴 Baltic Beverages Holding과의 합작 맥주 생산 사업 설립을 승인했다. 1998년에는 Tallinn 증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자체 맥주 제품군은 Saku Originaal, Karl Friedrich, Saku Rock, Saku On Ice로 구성된다. 에스토니아에서 Carlsberg Group의 덴마크, 프랑스, 벨기에, 핀란드 자회사 제품 유통을 맡으며, 유통 브랜드에는 Carlsberg, Tuborg, Kronenbourg 1664 Blanc, Grimbergen 등이 있다. 취급 품목에는 사이다, 혼합 주류, 크바스, 생수, 에너지 드링크도 포함된다. 2021년부터 맥주 캔 멀티팩을 100% 재활용 소재 필름으로 포장한다. 에스토니아에서 가장 큰 산업 건물의 지붕 태양광 발전 시설이 이 양조장에 있고, 이산화탄소 포집·회수 시스템도 사용한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년 9월 19일 Tallinn 증권거래소에서 마지막으로 상장된 뒤, Carlsberg A/S가 지분 100%를 소유하고 있다. 2016년 말부터 발트 지역 경영진이 운영을 이끈다. 2023년 매출은 72.2 million euros로 2022년과 비슷했고, 순이익은 5.5 million euros였으며 평균 직원 수는 292명이었다. 2021년에는 4세대 하이브리드 차량으로 운영 차량을 전환했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Carlsberg Group이 100% 소유한 양조 기업으로, 1820년 영지 양조장에서 출발해 에스토니아에서 자체 맥주 제품군과 Carlsberg Group 브랜드 유통을 함께 맡는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.saku.ee",
+  "entityLinks": {
+   "wikidata": "Q1851509",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1851509",
+    "https://en.wikipedia.org/wiki/Saku_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1851509",
+   "country": "에스토니아",
+   "inception": "1820",
+   "headquarters": "Saku",
+   "founders": [
+    "Karl Friedrich von Rehbinder"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Saku Brewery」 본문과 위키데이터 Q1851509 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q7856799",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tusker",
+  "urlSlug": "tusker",
+  "name": "Tusker",
+  "nameKo": "",
+  "nameEn": "Tusker",
+  "definition": "Tusker는 East African Breweries가 소유한 케냐의 맥주 브랜드로, 알코올 도수 4.2%의 페일 라거가 기본 제품이다. Diageo 그룹 안에서 가장 큰 아프리카 맥주 브랜드이다.",
+  "summary": "Tusker는 East African Breweries가 소유한 케냐의 맥주 브랜드로, 알코올 도수 4.2%의 페일 라거가 기본 제품이다. Diageo 그룹 안에서 가장 큰 아프리카 맥주 브랜드이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6,
+  "image": "",
+  "logo": "",
+  "insight": "1922년 케냐에서 첫 맥주로 출발해 큰 수컷 코끼리를 뜻하는 이름을 달았고, Diageo 그룹에서 가장 큰 아프리카 맥주 브랜드가 된 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tusker는 East African Breweries가 소유한 맥주 브랜드로, 케냐에서 연간 700,000헥토리터가 넘게 팔린다. 기본 제품은 알코올 도수 4.2%의 페일 라거이며 생맥주 통, 위젯 캔, 병으로 판매된다. Diageo 그룹 안에서 가장 큰 아프리카 맥주 브랜드라는 위치에 있다. 슬로건 'Bia yangu, Nchi yangu'는 스와힐리어로 '내 맥주, 내 나라'를 뜻한다. 케냐에서 양조를 시작해 탄자니아와 아프리카 대호수 지역의 다른 나라로 확대되었고, 결국 수출도 이루어졌다. Tusker 계열 세 가지 제품은 Monde Selection이 해마다 여는 World Quality Selections에서 금상을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1922년 Kenya Breweries(현재의 East African Breweries)가 민간 유한회사로 정식 설립되었고, 첫 맥주는 1922년 12월 15일에 양조되었다. 첫 배치는 Stanley Hotel에 납품되어 엇갈린 반응을 얻었다. 회사 설립자 George Hurst는 코끼리 사냥 사고로 사망했고, 동생 Charles가 그를 기리며 큰 수컷 코끼리를 가리키는 현지 말인 'Tusker'를 첫 맥주의 이름으로 정했다. 첫 정기 주주총회는 1923년에 열렸다. 1929년 이사회는 수입 맥아 추출물 대신 보리 맥아를 쓰기로 했고, 이로써 맛과 색이 크게 좋아졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기본 제품인 Tusker는 생맥주 통, 위젯 캔, 병으로 판매되는 알코올 도수 4.2%의 페일 라거이다. Tusker 5.0%는 알코올 도수 5.0%의 프리미엄 라거이고, Tusker Lite는 알코올 도수 4.0%의 라이트 라거이다. Tusker Cider는 알코올 도수 4.5%의 애플 사이더이며, Tusker Malt는 알코올 도수 5.0%의 필스너 라거이다. 이 가운데 세 가지 제품은 Monde Selection이 해마다 주최하는 World Quality Selections에서 금상을 받았다. 맛과 품질은 권위 있는 Monde Selection의 International Awards에서도 인정받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Tusker는 East African Breweries가 소유하며 케냐에서 연간 700,000헥토리터가 넘게 팔린다. Diageo 그룹에서 가장 큰 아프리카 맥주 브랜드이다. 2008년 초 영국 슈퍼마켓 체인 Tesco가 Tusker 판매를 시작했고, 곧이어 Sainsbury's도 판매했다. 1970년에는 나무 맥주 상자가 플라스틱 상자로 바뀌었고, 1987년에는 Central Glass Industries가 Tusker 병을 처음 생산하기 시작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1922년 케냐에서 첫 맥주로 출발해 큰 수컷 코끼리를 뜻하는 이름을 달았고, Diageo 그룹에서 가장 큰 아프리카 맥주 브랜드가 된 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q7856799",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7856799",
+    "https://en.wikipedia.org/wiki/Tusker_(African_beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7856799",
+   "country": null,
+   "inception": "1922",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Tusker (African beer)」 본문과 위키데이터 Q7856799 팩트를 근거로 편집"
+ }
+}

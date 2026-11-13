@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q2354423",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "zagorka",
+  "urlSlug": "zagorka",
+  "name": "Zagorka",
+  "nameKo": "",
+  "nameEn": "Zagorka",
+  "definition": "Zagorka는 불가리아의 도시 스타라자고라에서 유래한 불가리아 맥주 브랜드이다. Zagorka Brewery에서 양조하며, 1902년에 설립된 회사에서 출발했다.",
+  "summary": "Zagorka는 불가리아의 도시 스타라자고라에서 유래한 불가리아 맥주 브랜드이다. Zagorka Brewery에서 양조하며, 1902년에 설립된 회사에서 출발했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스타라자고라에서 1902년 체코 전통에 따라 시작된 불가리아 맥주 브랜드로, 1994년부터 Heineken이 소유한 회사에서 만들어진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Zagorka는 불가리아 스타라자고라에 본사를 둔 불가리아 맥주 브랜드이며, Zagorka Brewery에서 양조한다. 회사는 1902년 체코 전통을 따라 프라하에서 돌아온 의사가 세웠다. 현재의 양조장은 1958년에 문을 열었고, 1994년부터 Heineken이 소유하고 있다. 회사는 Zagorka, Ariana, Stolichno 세 가지 불가리아 브랜드와 Heineken, Birra Moretti, Amstel, Desperados 네 가지 라이선스 브랜드를 생산한다. Zagorka 브랜드에는 라거인 Zagorka Special과 수제 맥주 두 종류가 있다. 라벨은 처음에는 키릴 문자로 쓰였으나 현재는 주로 라틴 문자로 쓰인다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사는 1902년에 체코 전통을 따라 설립되었으며, 설립자는 프라하에서 돌아온 의사였다. 현재의 양조장은 1958년에 문을 열었고 본사는 스타라자고라에 있다. 1994년부터는 Heineken이 이 회사를 소유하고 있다. 과거에는 Zagorka Light(Загорка Светло)와 Zagorka Gold 등 여러 변형이 있었으며, 이 둘은 2000년대 초반까지 존재했다. 라벨은 처음에는 키릴 문자로 쓰였고, 1990년대 후반에는 Light는 키릴 문자, Special은 라틴 문자 라벨을 쓰는 겹치는 시기가 있었으며 현재는 주로 라틴 문자로 쓰인다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 회사는 불가리아 브랜드 Zagorka, Ariana, Stolichno 세 가지와 라이선스 브랜드 Heineken, Birra Moretti, Amstel, Desperados 네 가지를 생산한다. Zagorka 브랜드에는 Zagorka Special(라거, 알코올 도수 5%)과 수제 맥주 두 종류가 있다. 수제 맥주 중 Zagorka Reserve는 베리류로 향을 낸 흑맥주이며 알코올 도수 6%로 2011년부터 나왔다. Zagorka Fusion은 포도로 향을 낸 라이트 맥주이며 알코올 도수 2%로 2012년부터 나왔다. 과거에는 Zagorka Light와 Zagorka Gold도 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재의 양조장은 1958년에 문을 열었으며, 1994년부터 Heineken이 이 회사를 소유하고 있다. 회사는 불가리아 브랜드 세 가지와 라이선스 브랜드 네 가지를 생산한다. Zagorka 브랜드는 Special, Reserve, Fusion 세 가지 변형으로 구성되며, Reserve는 2011년, Fusion은 2012년부터 나왔다. 라벨은 현재 주로 라틴 문자로 쓰인다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스타라자고라에서 1902년 체코 전통에 따라 시작된 불가리아 맥주 브랜드로, 1994년부터 Heineken이 소유한 회사에서 만들어진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.zagorka.bg/",
+  "entityLinks": {
+   "wikidata": "Q2354423",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2354423",
+    "https://en.wikipedia.org/wiki/Zagorka"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2354423",
+   "country": null,
+   "inception": "1902",
+   "headquarters": "스타라자고라",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Zagorka」 본문과 위키데이터 Q2354423 팩트를 근거로 편집"
+ }
+}

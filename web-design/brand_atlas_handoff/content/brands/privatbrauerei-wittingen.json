@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1414562",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/privatbrauerei-wittingen-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "privatbrauerei-wittingen",
+  "urlSlug": "privatbrauerei-wittingen",
+  "name": "Privatbrauerei Wittingen",
+  "nameKo": "",
+  "nameEn": "Privatbrauerei Wittingen",
+  "definition": "Privatbrauerei Wittingen은 독일 니더작센주의 Wittingen에 본사를 둔 양조회사이다. 회사 측 설명에 따르면 1429년부터 가족 기업으로 운영되어 온 독일의 오래된 민영 양조장 가운데 하나이다.",
+  "summary": "Privatbrauerei Wittingen은 독일 니더작센주의 Wittingen에 본사를 둔 양조회사이다. 회사 측 설명에 따르면 1429년부터 가족 기업으로 운영되어 온 독일의 오래된 민영 양조장 가운데 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1429년부터 가족 기업이라고 밝히는 독일의 민영 양조장으로, 자체 브랜드 외에 다른 회사 브랜드의 맥주 생산도 맡는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 니더작센주 Wittingen에 자리한 유한회사(GmbH) 형태의 독일 맥주 양조업체이다. 회사 측 설명에 따르면 1429년부터 가족 기업으로 이어져 왔으며, 독일에서 가장 오래된 민영 양조장 가운데 하나이다. 북독일 고객에게는 150km 반경 안에서 맥주를 공급하고, 별도 부문이 독일 전역으로 맥주를 발송한다. 회사 측은 직원 약 100명이 연간 약 365,000 hl의 맥주를 생산한다고 밝힌다. 2013년 기록에서는 직원 104명이 432,550 hl의 맥주를 생산한 것으로 나타난다. 대표 제품으로는 Wittinger 계열 맥주와 Stackmann's 계열 맥주 등이 있으며, 2010년 10월 20일 채권자 집회에서 Herrenhäuser Brewery를 인수할 수 있다는 데 합의가 이루어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사 측 설명에 따르면 이 양조장은 1429년부터 가족 기업으로 이어져 왔으며, 이에 따라 독일에서 가장 오래된 민영 양조장 가운데 하나이다. 2010년 10월 20일 열린 다른 양조장 Herrenhäuser Brewery의 채권자 집회에서는 이 회사가 해당 양조장을 인수할 수 있다는 데 합의가 이루어졌다. 2013년에는 직원 104명이 432,550 hl의 맥주를 생산했다. 회사 측은 현재 직원이 약 100명이고 연간 약 365,000 hl를 생산한다고 밝힌다. 2026년 10월에는 Getränke Ahlers를 대신해 Hemelinger와 Weserländer 브랜드의 맥주 생산을 넘겨받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 판매하는 맥주 종류는 Wittinger Premium, Wittinger Pilsner, Wittinger Doppelbock, Wittinger Weizen, Wittinger Landbier이다. Stackmann's Dunkel과 Stackmann's Alster, 1429 - Das Original도 제품 목록에 포함된다. 2026년 10월에는 Getränke Ahlers를 대신해 Hemelinger와 Weserländer 맥주 브랜드의 생산을 맡았다. 두 브랜드는 이전에 브라운슈바이크의 Hofbrauhaus Wolters 양조장에서 생산되었으나, 이 양조장은 파산한 상태였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사 측은 현재 직원이 약 100명이며 연간 약 365,000 hl의 맥주를 생산한다고 밝힌다. 북독일 고객에게는 150km 반경 안에서 공급하고, 별도 부문이 독일 전역으로 맥주를 발송한다. 2026년 10월에는 Getränke Ahlers를 위해 Hemelinger와 Weserländer 브랜드의 위탁 생산도 맡게 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1429년부터 가족 기업이라고 밝히는 독일의 민영 양조장으로, 자체 브랜드 외에 다른 회사 브랜드의 맥주 생산도 맡는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://wittinger.de/",
+  "entityLinks": {
+   "wikidata": "Q1414562",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1414562",
+    "https://en.wikipedia.org/wiki/Privatbrauerei_Wittingen"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1414562",
+   "country": "독일",
+   "inception": "1429",
+   "headquarters": "Wittingen",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Privatbrauerei Wittingen」 본문과 위키데이터 Q1414562 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

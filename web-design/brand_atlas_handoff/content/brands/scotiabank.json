@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q451476",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/scotiabank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "scotiabank",
+  "urlSlug": "scotiabank",
+  "name": "스코샤 은행",
+  "nameKo": "스코샤 은행",
+  "nameEn": "Scotiabank",
+  "definition": "스코샤 은행(Scotiabank)은 캐나다의 금융회사로, 정식 명칭은 노바 스코샤 은행(The Bank of Nova Scotia)이다. 1832년 캐나다 노바스코샤주 핼리팩스에서 설립되었다.",
+  "summary": "스코샤 은행(Scotiabank)은 캐나다의 금융회사로, 정식 명칭은 노바 스코샤 은행(The Bank of Nova Scotia)이다. 1832년 캐나다 노바스코샤주 핼리팩스에서 설립되었다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "캐나다 은행 중 해외 지점이 가장 많고, 매출액 기준으로 캐나다에서 세 번째로 큰 은행이라는 점이 이 브랜드의 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스코샤 은행은 은행업을 주로 하는 캐나다의 금융회사이다. 정식 명칭은 노바 스코샤 은행이며, 주로 상표명 스코샤 은행(프랑스어: Banque Scotia)으로 불린다. 캐나다에서 가장 큰 5개의 은행 중 하나이며, 매출액 기준으로 RBC 은행, 토론토 도미니온 은행에 이어 캐나다에서 세 번째로 큰 은행이다. 캐나다 은행 중 해외 지점이 가장 많고, 2008년 2000개의 기업을 대상으로 선정한 포브스 글로벌 기업 순위에서 92위를 차지했다. 2005년에는 라틴 파이낸스(Latin Finance) 잡지가 멕시코, 캐리비안 제도, 자메이카 부문에서 올해의 은행으로 선정했다. 본사는 스코샤 플라자에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스코샤 은행은 1832년 2월 1일 캐나다 노바스코샤주 핼리팩스에서 설립되었다. 설립 후 노바스코샤주 윈저시에 첫 지점을 개설했다. 지점 확대는 1882년까지 캐나다의 연해주(Maritime Province) 지방까지 이르렀다. 나중에 문을 닫은 캐나다 중남부 매니토바주 지점에서의 경영 경험은 미국 중서부 미니애폴리스와 시카고 지역까지 지점을 확장하는 데 큰 도움이 되었다. 현재 본사는 스코샤 플라자에 있으며, 캐나다 은행 중 해외 지점이 가장 많다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐나다 은행 중 해외 지점이 가장 많고, 매출액 기준으로 캐나다에서 세 번째로 큰 은행이라는 점이 이 브랜드의 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.scotiabank.com/",
+  "entityLinks": {
+   "wikidata": "Q451476",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q451476",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%94%EC%83%A4_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Scotiabank"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q451476",
+   "country": "캐나다",
+   "inception": "1832",
+   "headquarters": "스코샤 플라자",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「스코샤 은행」 요약과 위키데이터 Q451476 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

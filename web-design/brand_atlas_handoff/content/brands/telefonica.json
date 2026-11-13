@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q160229",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/telefonica-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "telefonica",
+  "urlSlug": "telefonica",
+  "name": "텔레포니카",
+  "nameKo": "텔레포니카",
+  "nameEn": "Telefónica",
+  "definition": "텔레포니카(Telefónica)는 1924년 스페인에서 설립된 통신 회사이다. 세계에서 가장 큰 유선통신과 무선통신망을 보유한 회사 중 하나이며, 스페인 통신 시장에서 지배적인 지위를 차지하고 있다.",
+  "summary": "텔레포니카(Telefónica)는 1924년 스페인에서 설립된 통신 회사이다. 세계에서 가장 큰 유선통신과 무선통신망을 보유한 회사 중 하나이며, 스페인 통신 시장에서 지배적인 지위를 차지하고 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.266666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1924년 스페인에서 설립되어 1997년까지 유일한 전화 사업자였고, Movistar와 O2 브랜드로 여러 국가에서 통신 사업을 하는 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "텔레포니카는 스페인의 통신 회사이며, 사실상의 독점기업으로 소개된다. 세계적인 운용망을 갖추어 세계에서 가장 큰 유선통신과 무선통신망을 보유한 회사 중 하나이다. O2, Movistar, Manx Telecom을 합병함으로써 고객 수로는 China Mobile, Vodafone에 이어 세계 3위이고, 시장 가치로는 상위 5위권에 꼽힌다. 스페인에서는 Grupo Santander 다음으로 두 번째로 큰 기업이다. 1997년 통신 시장이 자유화될 때까지 스페인에서 유일한 전화 사업자였으며, 같은 해 스페인 정부가 이 회사를 민영화하였다. 2004년 기준 스페인 시장에서 75% 이상을 차지하는 지배적 지위를 가졌으나, 다양한 부정경쟁행위로 고객과의 분쟁으로 유명하였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "텔레포니카는 1924년 스페인에서 Compañía Telefónica Nacional de España(CTNE)라는 이름으로 설립되었다. 창업자는 Gumersindo Rico González로 기록되어 있다. 1997년 통신 시장이 자유화될 때까지 스페인에서 유일한 전화 사업자였으며, 자유화 이후에도 지배적인 지위를 유지하였다. 1997년에 스페인 정부가 이 회사를 민영화하였다. 해외에서는 2005년에 체코의 Český Telecom을 매입하였고, 2006년 1월 26일에는 영국에 기반을 둔 이동 전화 사업자 O2의 인수를 완료하였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스페인에서는 유선전화와 ADSL을 공급하는 Telefónica de España와 스페인에서 가장 큰 이동통신 회사인 Telefónica Móviles를 보유하고 있다. Telefónica Móviles의 브랜드명은 Movistar이며, 인터넷 자회사로 Terra Networks, S.A.를 두고 있다. 체코에서는 유선과 무선 사업이 2006년 7월 1일 Telefónica O2 Czech Republic이라는 하나의 회사로 합병되었다. 슬로바키아에서는 2007년 2월 2일 O2 Jednotka라는 브랜드로 이동통신 서비스를 개시하였다. 영국, 아일랜드, 독일, 맨섬에서는 O2를 통해 이동 전화 서비스를 제공하며, Telefónica Deutschland와 Telefónica O2 U.K.는 인터넷 서비스를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스페인에서 Grupo Santander 다음으로 두 번째로 큰 기업이며, 2004년 기준 스페인 시장에서 75% 이상을 차지하는 지배적 지위를 가졌다. 고객 수로는 세계 3위, 시장 가치로는 상위 5위권에 꼽히며, 이는 O2, Movistar, Manx Telecom을 합병한 결과이다. 이사회는 17명의 이사로 구성되며, 2010년 기준 의장은 César Alierta Izuel이고 여성 이사 1명이 포함되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1924년 스페인에서 설립되어 1997년까지 유일한 전화 사업자였고, Movistar와 O2 브랜드로 여러 국가에서 통신 사업을 하는 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.telefonica.com/",
+  "entityLinks": {
+   "wikidata": "Q160229",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160229",
+    "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%ED%8F%AC%EB%8B%88%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Telef%C3%B3nica"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q160229",
+   "country": "스페인",
+   "inception": "1924",
+   "headquarters": "Telefónica Building",
+   "founders": [
+    "Gumersindo Rico González"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「텔레포니카」 요약과 위키데이터 Q160229 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

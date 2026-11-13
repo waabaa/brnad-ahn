@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5321771",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "e-c-dahls-brewery",
+  "urlSlug": "e-c-dahls-brewery",
+  "name": "E. C. Dahls Brewery",
+  "nameKo": "",
+  "nameEn": "E. C. Dahls Brewery",
+  "definition": "E. C. Dahls Brewery는 노르웨이 트론헤임에 본사를 둔 양조장이자 청량음료 공장이다. 1856년 Erich Christian Dahl이 설립했으며 현재는 Ringnes가 소유하고 있다.",
+  "summary": "E. C. Dahls Brewery는 노르웨이 트론헤임에 본사를 둔 양조장이자 청량음료 공장이다. 1856년 Erich Christian Dahl이 설립했으며 현재는 Ringnes가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "1856년 트론헤임에서 Erich Christian Dahl이 세운 노르웨이 양조장으로, 뮌헨 스타일 Bayerøl에서 출발해 Dahls Pils로 대표 맥주가 바뀐 곳이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 노르웨이 트론헤임에 기반을 둔 맥주 양조장이자 청량음료 공장으로, 노르웨이어 이름은 E.C. Dahls Bryggeri이다. 1856년 트론헤임 출신의 지역 사업가이자 총영사였던 Erich Christian Dahl이 양조장을 세웠다. 첫 Bayerøl 병은 1857년에 판매되었으며, 뮌헨 스타일 둥켈인 Bayerøl은 20세기 초까지 가장 중요한 맥주였다. 이후 필스너인 Dahls Pils가 가장 인기 있는 맥주 자리를 이어받았다. 1910년에는 양조장에서 청량음료 생산도 시작했고, 1966년에는 Trondhjems Aktiebryggeri 및 Trondhjems Bryggeri와 합병했다. 현재는 Group Carlsberg AS 소속인 Ringnes가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1856년 트론헤임의 지역 사업가이자 총영사인 Erich Christian Dahl(1814~1882)이 설립했다. 그는 수입·수출 사업과 해운업을 하던 Erich Dahl과 Christine Lyche의 아들이었다. 1851년 Erich Christian Dahl은 1754년부터 제당소가 있던 트론헤임 Kalvskinnet 지역의 Sukkerhuset를 사들였고, 이 건물을 양조용으로 개조했다. 양조장은 1984년까지 이 건물에 있었다. 1966년에는 1899년에 설립된 Trondhjems Aktiebryggeri, 1919년으로 거슬러 올라가는 Trondhjems Bryggeri와 합병했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "트론헤임에 본사를 둔 이 업체의 사업은 맥주 양조와 청량음료 생산의 두 부문으로 구성된다. 대표 맥주 가운데 하나인 Bayerøl은 뮌헨 스타일 둥켈이며, 첫 병은 1857년에 판매되었다. Bayerøl은 20세기 초까지 이 양조장에서 가장 중요한 맥주 종류였다. 20세기 초 이후에는 필스너인 Dahls Pils가 가장 인기 있는 맥주 자리를 넘겨받았다. 청량음료는 1910년에 양조장에서 생산이 시작되어 맥주와 함께 사업의 한 축을 이루었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 E.C. Dahls Bryggeri는 Group Carlsberg AS에 속한 Ringnes가 소유하고 있다. 본사는 트론헤임에 있으며, 양조장은 1984년까지 있던 Sukkerhuset 건물을 떠난 상태이다. 창업자의 유산으로 1908년 문을 연 E.C. Dahl's Foundation은 현재 다양한 장애와 관련한 지원을 제공한다. 재단의 Kalvskinnet 지역 아르누보 건물은 현재 Trøndelag Art Center가 사용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1856년 트론헤임에서 Erich Christian Dahl이 세운 노르웨이 양조장으로, 뮌헨 스타일 Bayerøl에서 출발해 Dahls Pils로 대표 맥주가 바뀐 곳이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ringnes.no",
+  "entityLinks": {
+   "wikidata": "Q5321771",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5321771",
+    "https://en.wikipedia.org/wiki/E._C._Dahls_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5321771",
+   "country": "노르웨이",
+   "inception": "1856",
+   "headquarters": "트론헤임",
+   "founders": [
+    "Erich Christian Dahl"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「E. C. Dahls Brewery」 본문과 위키데이터 Q5321771 팩트를 근거로 편집"
+ }
+}

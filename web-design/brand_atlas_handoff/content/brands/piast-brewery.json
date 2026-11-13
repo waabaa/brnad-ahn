@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q7190347",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "piast-brewery",
+  "urlSlug": "piast-brewery",
+  "name": "Piast Brewery",
+  "nameKo": "",
+  "nameEn": "Piast Brewery",
+  "definition": "Piast Brewery는 폴란드 브로츠와프에 있던 양조장이다. 1872년에 설립되어 독일 제국 시기부터 운영되었으며, 2004년에 맥주 생산을 중단한 폐업 양조장이다.",
+  "summary": "Piast Brewery는 폴란드 브로츠와프에 있던 양조장이다. 1872년에 설립되어 독일 제국 시기부터 운영되었으며, 2004년에 맥주 생산을 중단한 폐업 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "독일 제국 시기에 세워졌다가 1945년 폴란드 편입 후 Piast 왕조의 이름을 얻은, 브로츠와프의 폐업 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 폴란드 브로츠와프에 있던 맥주 양조장으로, 설립 당시 도시의 이름은 Breslau였고 독일 제국에 속해 있었다. 1945년 도시가 폴란드로 편입되면서 건국기부터 1370년까지 폴란드를 다스린 첫 역사적 왕실 왕조인 Piast를 기리는 이름을 얻었고, 이 이름은 2005년까지 바뀌지 않았다. 1951년에는 연간 맥주 350 000헥토리터와 맥아 9 000톤을 생산해 맥주와 맥아를 함께 만드는 시설이었다. 2004년에 맥주 양조가 끝났고 2008년에는 오래된 건물 여러 채가 철거되어, 지금은 운영하지 않는 폐업 양조장이다. 주요 건물 세 채는 2004년에 문화재 등록부에 올랐으며, 내부를 로프트 아파트로 바꾸는 계획이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1872년 Carl Scholtz가 설립했으며, 당시 브로츠와프는 Breslau로 불리며 독일 제국에 속해 있었다. 1910년까지 이름은 Brauerei Pfeifferhof Carl Scholtz였고, 1945년까지 세 차례 바뀌어 Schultheiss`Brauerei AG, Abt. V(1910~1920년), Schultheiss- Patzenhofer- Brauerei AG, Abt. V(1920~1938년), Schultheiss- Brauerei AG Berlin, Abt. Breslau(1938~1945년)로 불렸다. 1945년 폴란드 편입 후 Piast Brewery라는 이름을 얻었다. 제2차 세계대전 직후에는 Lwów의 양조장에서 온 폴란드인 양조 책임자들이 생산을 맡았는데, 이들은 고향 도시를 떠나 회복 영토(Recovered Territories)로 이주하라는 명령을 받은 사람들이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장은 맥주와 맥아를 생산한 곳이다. 근거로 확인되는 생산 규모는 1951년 수치로, 그해 연간 맥주 350 000헥토리터와 맥아 9 000톤을 생산했다. 2004년에 맥주 양조가 끝나 더 이상 맥주를 생산하지 않는다. 건물 일부는 Browary Wrocławskie라는 이름의 로프트 아파트로 바뀔 예정이며, 이는 양조 사업이 아니라 부지 활용 계획이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1991년 이 양조장은 브로츠와프의 회사인 Zakłady Piwowarskie S.A.에 속하게 되었고, 1996년 1월 23일 Ryszard Varisella가 인수했다. 2001년 11월에는 Carlsberg Polska가 사들였으며 2004년에 맥주 양조가 중단되었다. 2008년에 오래된 건물 여러 채가 철거되었고, 2004년 문화재 등록부에 오른 주요 건물 세 채는 복원되어 내부가 로프트 아파트로 바뀔 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 제국 시기에 세워졌다가 1945년 폴란드 편입 후 Piast 왕조의 이름을 얻은, 브로츠와프의 폐업 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://piwopiast.pl/",
+  "entityLinks": {
+   "wikidata": "Q7190347",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7190347",
+    "https://en.wikipedia.org/wiki/Piast_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7190347",
+   "country": "폴란드",
+   "inception": "1894",
+   "headquarters": "Nadodrze",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Piast Brewery」 본문과 위키데이터 Q7190347 팩트를 근거로 편집"
+ }
+}

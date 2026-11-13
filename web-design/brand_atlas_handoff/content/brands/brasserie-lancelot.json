@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2924020",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-lancelot",
+  "urlSlug": "brasserie-lancelot",
+  "name": "Brasserie Lancelot",
+  "nameKo": "",
+  "nameEn": "Brasserie Lancelot",
+  "definition": "Brasserie Lancelot은 프랑스 브르타뉴 모르비앙의 Roc-Saint-André에 있는 양조장이다. 브르타뉴의 역사와 문학 속 인물에서 이름을 딴 상면발효 맥주를 만든다.",
+  "summary": "Brasserie Lancelot은 프랑스 브르타뉴 모르비앙의 Roc-Saint-André에 있는 양조장이다. 브르타뉴의 역사와 문학 속 인물에서 이름을 딴 상면발효 맥주를 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "브르타뉴의 역사와 문학 속 인물을 맥주 이름으로 삼고, 메밀 맥주를 앞서 선보인 지역 양조장이다. 비여과·비살균 방식의 상면발효 맥주를 만든다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 모르비앙의 Roc-Saint-André에 있는 옛 금광 부지에 자리 잡고 있다. 맥주는 모두 상면발효 방식이며 여과와 살균을 하지 않고 자연 방식으로 만들고, 종류는 일곱 가지이다. 맥주 이름은 브르타뉴의 역사와 문학에 등장하는 인물에서 따왔으며, Anne of Brittany나 bonnets rouges의 반란에서 이름을 붙인 제품도 있다. 연간 생산량은 30 000 헥토리터로 프랑스 서부의 주요 양조장 가운데 하나이다. 브르타뉴 지역 맥주 가운데 현장 소비(on-trade) 시장에서는 1위, 소매(off-trade) 시장에서는 2위를 차지한다. 맥주 외에 Breizh Cola와 chouchen Lancelot도 판매하며, 2006년에는 유기농 맥주 Morgane 생산을 시작했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Bernard Lancelot이 프랑스 브르타뉴 모르비앙의 Roc-Saint-André, 옛 금광 부지에 세운 양조장이다. 설립 연도는 영문 위키백과 본문에 1990년, 위키데이터에 1999년으로 서로 다르게 적혀 있으며, 본사는 위키데이터에 Val d'Oust로 기재되어 있다. 보리와 메밀로 빚은 Telenn Du는 메밀 맥주의 선구자로 소개되며, 이름은 브르타뉴어로 '검은 하프'를 뜻한다. 이 맥주는 처음에 검은 하프 그림을 달았으나 Guinness의 항의 이후 흰색 triskelion으로 바뀌었다. 2006년에는 유기농 맥주 Morgane 생산을 시작해 '100% Breton and 100% organic'으로 내세웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주는 La Blanche Hermine, La Duchesse Anne, Cervoise Lancelot, Les Bonnets Rouges, Telenn Du, XI.I, Pays de Cocagne가 있다. La Duchesse Anne은 Anne of Brittany에서, Les Bonnets Rouges는 bonnets rouges의 반란에서 이름을 따왔다. Telenn Du는 보리와 메밀로 빚은 맥주이다. XI.I는 Samhain에서 이름을 딴 짙은 색 barley wine으로, 알코올 도수가 11.1 ABV로 높고 맛이 매우 강하다. 그 밖에 Breizh Cola와 chouchen Lancelot을 판매하며, 유기농 맥주 Morgane도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "연간 생산량은 30 000 헥토리터이며, 프랑스 서부의 주요 양조장 가운데 하나로 꼽힌다. 브르타뉴 지역 맥주 가운데 현장 소비(on-trade) 시장에서 1위, 소매(off-trade) 시장에서 2위이다. 위키데이터 기준 본사는 Val d'Oust이며, 유기농 맥주 Morgane은 '100% Breton and 100% organic'으로 판매한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "브르타뉴의 역사와 문학 속 인물을 맥주 이름으로 삼고, 메밀 맥주를 앞서 선보인 지역 양조장이다. 비여과·비살균 방식의 상면발효 맥주를 만든다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://brasserie-lancelot.bzh/",
+  "entityLinks": {
+   "wikidata": "Q2924020",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2924020",
+    "https://en.wikipedia.org/wiki/Brasserie_Lancelot"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2924020",
+   "country": "프랑스",
+   "inception": "1999",
+   "headquarters": "Val d'Oust",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie Lancelot」 본문과 위키데이터 Q2924020 팩트를 근거로 편집"
+ }
+}

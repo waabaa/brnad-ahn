@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q3536948",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "okocim-brewery",
+  "urlSlug": "okocim-brewery",
+  "name": "오코침 양조장",
+  "nameKo": "오코침 양조장",
+  "nameEn": "Okocim Brewery",
+  "definition": "오코침 양조장(Okocim Brewery)은 폴란드 남동부 Brzesko에 있는 맥주 양조장이다. 1845년에 설립되었으며, 1996년부터 Carlsberg Polska의 일부이다.",
+  "summary": "오코침 양조장(Okocim Brewery)은 폴란드 남동부 Brzesko에 있는 맥주 양조장이다. 1845년에 설립되었으며, 1996년부터 Carlsberg Polska의 일부이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "19세기 중반 독일계 양조업자가 폴란드 귀족과 함께 세워 폴란드 가문의 사업으로 자리 잡은 Brzesko의 양조장으로, 현재 Carlsberg Polska에 속한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오코침 양조장은 폴란드 Brzesko에 위치한 맥주 양조장으로, 1845년에 세워졌다. 20세기 전환기에는 옛 폴란드-리투아니아 연방 영토에서 가장 큰 양조장이었고, 합스부르크 제국 영토의 약 1600개 양조장 가운데 여섯 번째로 컸다. 1911년에는 다섯 번째로 큰 양조장이 되었다. 공산주의 시기에는 Żywiec Brewery와 함께 자기 지역 밖과 해외에서 제품을 판매할 수 있었던 단 두 곳의 맥주 제조사 중 하나였다. 1990년 공산주의 붕괴 이후 국영 기업으로 전환되었다가 경매와 재민영화를 거쳐 바르샤바 증권거래소에 상장되었다. 1996년부터는 Carlsberg Polska, Carlsberg Breweries A/S의 일부이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1845년 Wirtemberg 출신의 독일인 맥주 제조업자 Johann Evangelist Götz, 오스트리아-헝가리 출신의 Joseph Neumann, 현지 폴란드 귀족 Julian Kodrębski가 양조장을 세웠다. 첫 맥주는 1846년 2월 23일에 양조되었다. Neumann가 사망한 뒤 Götz가 단독 소유주가 되어 시설을 현대화하고 확장했으며, 1875년에는 맥아 제조장을 더했다. 1884년에는 Carlsberg 설립자 J. C. Jacobsen이 양조장을 방문했다. 1893년 Götz가 사망하자 아들 Jan Albin Goetz가 사업을 이어받아 더욱 확장했고, 이름을 Goetz-Okocimski로 바꾸었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1996년부터 Carlsberg Polska, Carlsberg Breweries A/S의 일부이다. 현재 최소 세 개의 brewhouse가 사용되고 있다. 양조장은 보존 상태가 좋은 편이며, 최근의 증축과 함께 일부 현대 장비가 도입되었다. Goetz-Okocimski 가문의 궁전은 2008년 개인 부부에게 재매각되었고, 이들은 이를 5성급 호텔과 스파로 바꿀 계획이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "19세기 중반 독일계 양조업자가 폴란드 귀족과 함께 세워 폴란드 가문의 사업으로 자리 잡은 Brzesko의 양조장으로, 현재 Carlsberg Polska에 속한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://carlsbergpolska.pl",
+  "entityLinks": {
+   "wikidata": "Q3536948",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3536948",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%BD%94%EC%B9%A8_%EC%96%91%EC%A1%B0%EC%9E%A5",
+    "https://en.wikipedia.org/wiki/Okocim_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3536948",
+   "country": "폴란드",
+   "inception": "1845",
+   "headquarters": "Brzesko",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Okocim Brewery」 본문과 위키데이터 Q3536948 팩트를 근거로 편집"
+ }
+}

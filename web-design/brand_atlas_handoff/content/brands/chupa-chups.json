@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q938535",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/chupa-chups-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "chupa-chups",
+  "urlSlug": "chupa-chups",
+  "name": "츄파춥스",
+  "nameKo": "츄파춥스",
+  "nameEn": "Chupa Chups",
+  "definition": "츄파춥스(Chupa Chups)는 1958년 스페인에서 설립된 막대 사탕 및 제과류 제조 브랜드이다. 전 세계 150여 개국에서 판매되며, 주요 제품은 막대사탕이다.",
+  "summary": "츄파춥스(Chupa Chups)는 1958년 스페인에서 설립된 막대 사탕 및 제과류 제조 브랜드이다. 전 세계 150여 개국에서 판매되며, 주요 제품은 막대사탕이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스페인에서 시작된 막대사탕 중심의 제과 브랜드로, 1969년 예술가 Salvador Dalí가 로고를 만들었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "츄파춥스는 스페인의 막대 사탕 및 제과류를 만드는 브랜드로, 본사는 바르셀로나에 있다. 전 세계 150여 개국에서 판매되는 제과류 브랜드이며, 사탕 외에 풍선 껌과 장난감, 증정품 등 여러 형태의 제품도 선보인다. 브랜드 이름은 '빨다'라는 뜻을 가진 스페인어 동사 '추파르'(chupar)에서 유래한다. 2003년 당시에는 40억 개의 츄파춥스가 150여 개국에서 판매되고 있었다. 현재는 이탈리아의 다국적 기업 퍼페티 반 멜레(Perfetti Van Melle)가 소유하고 있다. 대한민국에서는 해태제과에서 판매되었으나 현재는 농심에서 판매하고 있으며, 2017년에는 남양유업에서 탄산음료와 유제품 형태의 제품을 선보이기도 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1950년대 초 Enric Bernat은 '그랑 아스투리아스'라는 사과 잼 공장에서 일했는데, 막대 사탕 사업을 시작하려 하자 투자자들이 떠났다. 이에 그는 1958년 이 회사를 인수하고 츄파춥스로 이름을 바꿨으며, 막대 사탕을 1 페세타당 한 개씩 판매했다. 그는 어린이의 손이 잘 닿도록 가게 주인들에게 계산대 근처에 사탕을 배치하게 했다고 한다. 5년 이내에 이 사탕은 30만 매장에서 팔렸다. Francisco Franco의 독재(1939년-1975년)가 끝난 뒤 전 세계로 나아가, 1970년대에는 일본과 오스트레일리아 등으로, 1980년대에는 한국을 포함한 대부분의 아시아 국가와 유럽, 북미로 시장을 확대했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 막대사탕이며 클래식, 후르츠, 밀키, 혀 페인터, 엑조틱 트로픽(열대 과일 맛), 미니, 무설탕, XXL, 크레이지 딥, 멜로디 팝 등으로 구성된다. 풍선 껌 형태의 제품과 스피닝 페이스, 토템 마커 같은 장난감도 있다. 계절 선물로는 크리스마스 볼, 산타 클로스 가방, 부활절 계란 등이 있으며, 라이센스 제품으로 스펀지 밥 관련 상품이 있다. 맛은 라즈베리, 수박, 콜라, 오렌지, 레몬, 딸기, 망고, 말차 라떼, 유자, 초콜릿, 바닐라, 포도, 블루베리 요거트 등 다양하다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 이탈리아의 다국적 기업 퍼페티 반 멜레(Perfetti Van Melle)가 소유하고 있으며, 2006년 7월 츄파춥스를 인수했다. 창업자는 1991년 자신의 아들에게 회사를 넘겨주었다. 직원은 2000명이고 매출은 5억 유로이며, 이 가운데 90%가 해외 매출이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스페인에서 시작된 막대사탕 중심의 제과 브랜드로, 1969년 예술가 Salvador Dalí가 로고를 만들었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.chupachups.com",
+  "entityLinks": {
+   "wikidata": "Q938535",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q938535",
+    "https://ko.wikipedia.org/wiki/%EC%B8%84%ED%8C%8C%EC%B6%A5%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Chupa_Chups"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q938535",
+   "country": "스페인",
+   "inception": "1958",
+   "headquarters": "바르셀로나",
+   "founders": [
+    "Enric Bernat"
+   ],
+   "parent": "츄파 츕스",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「츄파춥스」 요약과 위키데이터 Q938535 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

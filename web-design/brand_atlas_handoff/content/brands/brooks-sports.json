@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q670764",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/brooks-sports-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "brooks-sports",
+  "urlSlug": "brooks-sports",
+  "name": "Brooks Sports",
+  "nameKo": "브룩스",
+  "nameEn": "Brooks Sports",
+  "definition": "Brooks Sports는 미국 시애틀에 본사를 둔 스포츠 용품 기업이다. 남성용과 여성용 고성능 운동화, 의류, 액세서리를 설계하고 판매하며 버크셔 해서웨이의 자회사이다.",
+  "summary": "Brooks Sports는 미국 시애틀에 본사를 둔 스포츠 용품 기업이다. 남성용과 여성용 고성능 운동화, 의류, 액세서리를 설계하고 판매하며 버크셔 해서웨이의 자회사이다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "러닝에 집중하고 성능 기술을 앞세운 미국 브랜드이다. 2011년 전문 러닝화 시장 판매 1위에 올랐고 버크셔 해서웨이의 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brooks Sports는 Brooks Running이라는 이름으로도 알려진 미국의 스포츠 용품 기업이다. 1914년에 설립되어 처음에는 폭넓은 종목의 신발을 만들었다. 남성용과 여성용 고성능 운동화, 의류, 액세서리를 설계하고 판매하며, 본사는 워싱턴주 시애틀에 있다. 제품은 전 세계 60개국에서 판매된다. 2001년에는 제품군을 50% 넘게 줄이고 러닝에만 집중하는 방향으로 전환하면서 성능 기술에 대한 비중도 높였다. 2011년 전문 러닝화 시장에서 판매 1위 브랜드가 되었고 2017년까지 25%의 점유율로 1위를 유지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Brooks Sports는 1914년 John Brooks Goldenberg가 욕실용 신발과 발레 슈즈를 만들던 Quaker Shoe Company를 인수하면서 설립되었다. 필라델피아에 기반을 두었고 그의 형제 Michael, Frank와 함께 동업 형태로 운영되었다. 1920년까지 회사명은 Brooks Shoe Manufacturing Co., Inc.로 바뀌었고 신발은 Bruxshu라는 상표로 판매되었다. 1967년에는 푸에르토리코 Aguadilla에 첫 해외 공장을 열었다. 1975년 Jerome A. Turner가 CEO이던 시기에 전직 올림픽 선수 Marty Liquori 등 엘리트 러너와 협업해 첫 고성능 러닝화 Villanova를 내놓았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1975년의 Villanova는 훗날 다른 운동화 브랜드도 채택한 에어 주입 폼 소재 EVA를 러닝화에 처음 사용했다. 1977년에는 오버프로네이션을 보정하는 쐐기 구조를 넣은 Vantage를 선보였다. 1982년의 Chariot은 미드솔에 단단한 밀도의 폼을 비스듬한 쐐기 형태로 넣은 메디얼 포스트 신발이다. 1987년에는 해부학적으로 조정한 여성용 라인을 출시했다. 1992년 Beast는 대각선 롤바 기술을 적용한 모션 컨트롤 신발이며, 1994년 출시된 Adrenaline GTS는 역대 가장 많이 팔린 러닝화 중 하나가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Brooks Sports는 버크셔 해서웨이의 자회사이며 본사는 시애틀에 있다. 제품은 전 세계 60개국에서 판매된다. 2001년에 러닝 전용 브랜드로 방향을 정했고, 2011년부터 2017년까지 전문 러닝화 시장에서 판매 1위를 지켰다. 1981년에는 파산 보호를 신청한 뒤 Wolverine World Wide가 경매에서 인수한 이력이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러닝에 집중하고 성능 기술을 앞세운 미국 브랜드이다. 2011년 전문 러닝화 시장 판매 1위에 올랐고 버크셔 해서웨이의 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brooksrunning.com/",
+  "entityLinks": {
+   "wikidata": "Q670764",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q670764",
+    "https://en.wikipedia.org/wiki/Brooks_Sports"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q670764",
+   "country": "미국",
+   "inception": "1914",
+   "headquarters": "시애틀",
+   "founders": [],
+   "parent": "버크셔 해서웨이",
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Brooks Sports」 본문과 위키데이터 Q670764 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

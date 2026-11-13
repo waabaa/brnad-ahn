@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q706698",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/bitburger-brewery-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bitburger-brewery",
+  "urlSlug": "bitburger-brewery",
+  "name": "비트부르거",
+  "nameKo": "비트부르거",
+  "nameEn": "Bitburger brewery",
+  "definition": "비트부르거(Bitburger brewery)는 독일 라인란트팔츠주 Bitburg에 있는 대형 양조장이다. 정식 명칭은 Bitburger Brauerei Th. Simon GmbH이며, 필스너 맥주로 알려져 있다.",
+  "summary": "비트부르거(Bitburger brewery)는 독일 라인란트팔츠주 Bitburg에 있는 대형 양조장이다. 정식 명칭은 Bitburger Brauerei Th. Simon GmbH이며, 필스너 맥주로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "독일 Bitburg에서 1817년부터 이어진 필스너 양조장으로, 독일 생맥주 판매 1위와 \"Bitte ein Bit\" 슬로건으로 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "비트부르거는 독일 라인란트팔츠주의 Bitburg에 본사를 둔 대형 양조장으로, 정식 명칭은 Bitburger Brauerei Th. Simon GmbH이다. 1817년 Johann Wallenborn이 설립했으며, 대표 제품인 Bitburger 필스너는 독일에서 세 번째로 많이 팔리는 필스너이자 생맥주 부문 판매 1위이다. 독일 서부 전역에서 인기가 높고, 노르트라인베스트팔렌의 여러 지역에서는 뒤셀도르프의 Alt 맥주나 쾰른의 Kölsch보다 더 선호되기도 한다. 제품은 전 세계로 수출되며, 미국에서는 캔, 병, 미니 케그, 일부 매장의 생맥주 형태로 구할 수 있다. 회사 슬로건은 \"Bitte ein Bit\"로, \"Bit 하나 주세요\"라는 뜻이다. 1992년부터 2018년까지 독일축구협회를 후원했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Johann Peter Wallenborn(1784–1839)은 33세였던 1817년 라인란트팔츠주 Bitburg에 양조장을 세웠다. 그의 아버지는 Kyllburg에서 양조장을 소유하고 있었다. Wallenborn이 1839년에 사망한 지 3년 뒤, Ludwig Bertrand Simon(1813–1869)이 Wallenborn의 딸 Elisabeth(1819–1891)와 결혼하여 양조장의 소유주가 되었고, 양조장 이름을 Simonbräu로 붙였다. 두 사람의 아들인 Theobald Simon(1847–1924)은 1876년, 29세의 나이에 양조장을 넘겨받았다. 이렇게 양조장은 창업자의 사위, 다시 그의 아들로 이어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 4.8%의 필스너 Bitburger이다. 독일에는 원래 맥주를 변형한 제품도 있는데, 대부분 맥주 혼합 음료이다. Bit Sun(라이트 맥주), Cola Libre(맥주에 콜라와 럼-레몬 맛을 더한 제품), Bit Copa(맥주에 라임과 cachaça를 더한 제품), Bit Passion(맥주에 석류를 더한 제품)이 있다. 맥아 맥주(malzbier)인 Kandimalz와 무알코올 버전인 Bitburger Alkoholfrei도 있으며, 영어권 국가에서는 Bitburger 'Drive'라는 이름으로 판매된다. 미국에서는 500 mL 캔, 330 mL 병, 5 L 미니 케그로 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Bitburger 필스너는 독일에서 세 번째로 많이 팔리는 필스너이며, 독일 생맥주 판매 1위로 소개된다. 연간 판매량은 1.2 million 헥토리터이다. 전 세계로 수출되며 호주 등 일부 국가에서는 미니 케그로도 구할 수 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 Bitburg에서 1817년부터 이어진 필스너 양조장으로, 독일 생맥주 판매 1위와 \"Bitte ein Bit\" 슬로건으로 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bitburger.de/brauerei-tradition/",
+  "entityLinks": {
+   "wikidata": "Q706698",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q706698",
+    "https://ko.wikipedia.org/wiki/%EB%B9%84%ED%8A%B8%EB%B6%80%EB%A5%B4%EA%B1%B0",
+    "https://en.wikipedia.org/wiki/Bitburger_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q706698",
+   "country": "독일",
+   "inception": "1817",
+   "headquarters": "비트부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Bitburger Brewery」 본문과 위키데이터 Q706698 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

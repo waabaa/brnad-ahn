@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4041653",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "israel-beer-breweries",
+  "urlSlug": "israel-beer-breweries",
+  "name": "Israel Beer Breweries",
+  "nameKo": "",
+  "nameEn": "Israel Beer Breweries",
+  "definition": "Israel Beer Breweries는 1992년 이스라엘 아슈켈론에서 설립한 맥주 양조 회사이다. International Beer Breweries Ltd(IBBL)로도 불리며 Carlsberg Israel로도 알려져 있다.",
+  "summary": "Israel Beer Breweries는 1992년 이스라엘 아슈켈론에서 설립한 맥주 양조 회사이다. International Beer Breweries Ltd(IBBL)로도 불리며 Carlsberg Israel로도 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "Central Bottling Company의 자회사로 Carlsberg Beer와 Tuborg Beer를 생산하는 이스라엘 맥주 회사이며, 맥주 외에 Malty와 Prigat 음료도 만든다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 Central Bottling Company의 자회사로, 이스라엘에서 맥주를 생산한다. Carlsberg Beer와 Tuborg Beer를 만들고, 맥주 외에 비알코올 음료 Malty와 Prigat 브랜드의 주스 기반 음료 및 넥타도 생산한다. 양조장은 지하 대수층 위에 있으며 그 물을 생산 공정에 사용한다. 직원은 약 320명이다. 2012년에는 Tempo Beer Industries와 Central Bottling Company가 사실상 복점 체제를 이루었고, Tempo가 시장의 거의 절반, Central Bottling이 약 40%를 차지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1992년 당시 이스라엘의 지배적인 청량음료 회사였던 Central Bottling Company가 설립했다. 설립 목적은 Tempo Beer Industries가 가진 거의 독점에 가까운 지위에 도전하는 것이었다. 처음에는 Carlsberg Beer를 수입하는 것으로 시작했다. 2004년에는 이스라엘 맥주·사이더 시장에서 Tempo Beer에 이어 두 번째로 큰 회사였다. 2008년 7월 Carlsberg는 보유 지분을 CBC Group에 매각했다고 발표했으며, 거래 규모는 $80 million이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Carlsberg Beer와 Tuborg Beer이다. 맥주 외에 비알코올 음료인 Malty를 생산한다. 또한 Prigat 브랜드의 주스 기반 음료와 넥타도 만든다. 양조장은 IBBL 방문자 센터의 일부로, 방문객이 양조장과 Carlsberg 공장을 견학할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Central Bottling Company의 자회사이며, Central Bottling Company는 1968년부터 이스라엘에서 Coca-Cola 제품의 프랜차이즈를 보유해 왔다. 직원은 약 320명이다. 양조장은 지하 대수층 위에 있으며 그 물을 생산에 사용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Central Bottling Company의 자회사로 Carlsberg Beer와 Tuborg Beer를 생산하는 이스라엘 맥주 회사이며, 맥주 외에 Malty와 Prigat 음료도 만든다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.carlsberg.co.il",
+  "entityLinks": {
+   "wikidata": "Q4041653",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4041653",
+    "https://en.wikipedia.org/wiki/Israel_Beer_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4041653",
+   "country": "이스라엘",
+   "inception": "1992",
+   "headquarters": "아슈켈론",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Israel Beer Breweries」 본문과 위키데이터 Q4041653 팩트를 근거로 편집"
+ }
+}

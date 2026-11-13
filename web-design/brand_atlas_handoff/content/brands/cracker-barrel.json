@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-09-27",
+ "qid": "Q4492609",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-09-27T12:00:55+09:00"
+ },
+ "logoCandidate": "logos/cracker-barrel-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cracker-barrel",
+  "urlSlug": "cracker-barrel",
+  "name": "Cracker Barrel",
+  "nameKo": "",
+  "nameEn": "Cracker Barrel",
+  "definition": "Cracker Barrel은 남부 컨트리 테마를 내세운 미국의 레스토랑 겸 기념품점 체인이다. 본사는 테네시주 레버넌에 있다.",
+  "summary": "Cracker Barrel은 남부 컨트리 테마를 내세운 미국의 레스토랑 겸 기념품점 체인이다. 본사는 테네시주 레버넌에 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "Cracker Barrel은 레스토랑과 기념품점을 한 매장에 결합하고, 흔들의자가 놓인 포치와 벽난로 등 옛날식 잡화점 분위기로 남부 컨트리 정서를 구현한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cracker Barrel은 남부 지역 전통 요리를 기반으로 한 메뉴를 제공하며, 매장은 옛날식 잡화점을 연상시키는 외관과 인테리어로 꾸며져 있다. 각 매장 앞에는 나무 흔들의자가 늘어선 포치가 있고, 돌로 된 벽난로와 지역 특색을 담은 장식품이 놓여 있다. 초기 매장은 미국 남동부와 중서부의 주간고속도로 나들목 인근에 자리 잡았으나, 1990년대와 2000년대에 걸쳐 전국으로 확장되었다. 2023년 8월 10일 기준으로 44개 주에서 660개 매장을 운영하고 있다. 컨트리 음악 공연자들과 협력하며, 허리케인 카트리나 피해자와 부상당한 참전군인을 돕는 등 자선 활동도 벌인다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cracker Barrel은 1969년 셸 오일 대리점 직원이던 Dan Evins가 Tommy Lowe와 함께 설립했다. Evins는 주유소 매출을 늘리기 위한 방안으로 어린 시절 기억하던 전통적인 컨트리 스토어를 본뜬 레스토랑 겸 잡화점 콘셉트를 구상했다. 첫 매장은 1969년 9월 19일 테네시주 레버넌 인근 인터스테이트 40번 도로 옆 갤러틴 하이웨이 109번 출구에 문을 열었으며, 비스킷과 그리츠, 컨트리 햄, 순무잎 등 남부 요리를 선보였다. Evins는 1970년 2월 회사를 법인화하고 매장을 늘려갔으며, 1970년대 초에는 주간고속도로 인근 주유소 부지를 임대해 레스토랑을 지었다. 1981년 기업공개를 통해 확장 자금을 마련한 이후 연 20퍼센트 안팎의 성장을 이어갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Cracker Barrel의 메뉴는 남부 전통 요리를 기반으로 하며, 매장은 옛날식 잡화점처럼 꾸며진 레스토랑과 기념품점을 함께 운영한다. 1994년에는 포장 판매 전용 매장인 Cracker Barrel Old Country Store Corner Market을 교외 주거지역에 시험 운영했으나, 1997년 이 사업을 접고 본래의 레스토랑 및 잡화점 매장에 집중했다. 신규 지역으로 진출하면서 텍사스에서는 달걀과 살사, 뉴욕에서는 루벤 샌드위치처럼 지역색을 반영한 메뉴를 추가하되 본래 메뉴는 그대로 유지했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 8월 10일 기준 Cracker Barrel은 미국 44개 주에서 660개 매장을 운영하고 있다. 1981년 기업공개 이후 주식회사 형태로 운영되고 있으며, 운영 법인명은 CBOCS Properties, Inc.이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Cracker Barrel은 레스토랑과 기념품점을 한 매장에 결합하고, 흔들의자가 놓인 포치와 벽난로 등 옛날식 잡화점 분위기로 남부 컨트리 정서를 구현한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.crackerbarrel.com",
+  "entityLinks": {
+   "wikidata": "Q4492609",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4492609",
+    "https://en.wikipedia.org/wiki/Cracker_Barrel"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4492609",
+   "country": "미국",
+   "inception": "1969",
+   "headquarters": "레버넌",
+   "founders": [
+    "Dan Evins"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-09-27"
+  },
+  "sourceNote": "영문 위키백과 「Cracker Barrel」 본문과 위키데이터 Q4492609 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

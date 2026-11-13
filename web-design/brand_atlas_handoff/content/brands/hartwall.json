@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1587723",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/hartwall-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hartwall",
+  "urlSlug": "hartwall",
+  "name": "Hartwall",
+  "nameKo": "",
+  "nameEn": "Hartwall",
+  "definition": "Hartwall은 핀란드 헬싱키에 본사를 둔 음료 회사이다. 청량음료와 맥주, 사이더, 믹스 주류 등을 만들어 판매하며 현재 덴마크 Royal Unibrew의 소유이다.",
+  "summary": "Hartwall은 핀란드 헬싱키에 본사를 둔 음료 회사이다. 청량음료와 맥주, 사이더, 믹스 주류 등을 만들어 판매하며 현재 덴마크 Royal Unibrew의 소유이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드에서 Pepsi 계열 음료 라이선스와 Lapin Kulta, Karjala 같은 맥주, Gin Long Drink를 함께 다루는 헬싱키 기반 음료 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "핀란드 헬싱키에 본사를 둔 음료 기업으로, 현지어 사명은 Oy Hartwall Ab이다. 음료 라인업에는 Jaffa, Pommac, Novelle 워터가 있다. 핀란드에서 PepsiCo의 Pepsi, 7 Up, Mountain Dew를 제조하고 판매하는 라이선스도 보유하고 있다. 주류로는 Upcider 사이더, Lapin Kulta 라거 맥주, Karjala 맥주를 만들며 Foster's 라거의 현지 생산자이기도 하다. 2013년 덴마크의 Royal Unibrew가 인수해 현재 그 산하에 있다. 1952년 하계 올림픽을 위해 내놓은 Gin Long Drink는 오늘날 핀란드에서 가장 많이 소비되는 믹스 음료 제품이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업자는 Victor Hartwall이며 회사는 핀란드 헬싱키를 기반으로 성장했다. 1940년대에 인기 음료 브랜드 Jaffa가 출시되었다. 1952년 헬싱키 하계 올림픽에 맞춰 자몽 기반의 알코올 음료 Gin Long Drink를 선보였다. 이 제품은 외국인 방문객의 입맛에 맞추려 개발되었고, 믹서가 흔하지 않던 시기에 미리 섞어 만든 음료여서 바에서 팔기 쉬웠다. 2002년 영국의 Scottish & Newcastle이 인수했고, 2008년 그 회사가 매각되면서 브랜드는 Heineken 소유가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "음료 범위에는 Jaffa, Pommac, Novelle 워터가 있다. 핀란드에서 PepsiCo의 Pepsi, 7 Up, Mountain Dew를 제조하고 판매하는 라이선스를 보유한다. 주류로는 Upcider 사이더, Lapin Kulta 라거 맥주, Karjala 맥주가 있으며 Foster's 라거의 현지 생산자이다. 2017년 Lahti 양조장과 연계한 특수 맥주 양조장이 완공되었고, 지역 맥주 영향력자의 이름을 따 Mattsson으로 명명되었다. 2019년 5월에는 Lahti 공장 안에 Brewery Shop을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 덴마크의 Royal Unibrew가 인수한 뒤 현재 모기업은 Royal Unibrew이며 본사는 헬싱키에 있다. 2017년 Lahti 양조장과 연계한 Mattsson 양조장이 완공되었고, 2019년 5월에는 Lahti 공장에 Brewery Shop을 열었다. Gin Long Drink는 오늘날 핀란드에서 가장 많이 소비되는 믹스 음료 제품이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드에서 Pepsi 계열 음료 라이선스와 Lapin Kulta, Karjala 같은 맥주, Gin Long Drink를 함께 다루는 헬싱키 기반 음료 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hartwall.fi/",
+  "entityLinks": {
+   "wikidata": "Q1587723",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1587723",
+    "https://en.wikipedia.org/wiki/Hartwall"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1587723",
+   "country": "핀란드",
+   "inception": "1838",
+   "headquarters": "헬싱키",
+   "founders": [
+    "Victor Hartwall"
+   ],
+   "parent": "Royal Unibrew",
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Hartwall」 본문과 위키데이터 Q1587723 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

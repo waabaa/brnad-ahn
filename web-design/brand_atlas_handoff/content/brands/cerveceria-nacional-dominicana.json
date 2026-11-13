@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5065318",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cerveceria-nacional-dominicana",
+  "urlSlug": "cerveceria-nacional-dominicana",
+  "name": "Cervecería Nacional Dominicana",
+  "nameKo": "",
+  "nameEn": "Cervecería Nacional Dominicana",
+  "definition": "Cervecería Nacional Dominicana는 도미니카 공화국의 주요 맥주 생산 기업이다. 1929년 설립되었으며 본사는 산토도밍고에 있고, AmBev와 Grupo León Jimenes가 소유하고 있다.",
+  "summary": "Cervecería Nacional Dominicana는 도미니카 공화국의 주요 맥주 생산 기업이다. 1929년 설립되었으며 본사는 산토도밍고에 있고, AmBev와 Grupo León Jimenes가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "도미니카 공화국 최초의 양조장으로, Presidente를 주력 브랜드로 삼아 맥주와 몰타, 청량음료, 럼까지 다루는 음료 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CND는 도미니카 공화국의 주요 맥주 생산 기업이다. 맥주 외에도 몰타, 청량음료, 생수, 럼, 에너지 드링크 제품군을 함께 취급한다. 대표 브랜드 Presidente는 1935년에 처음 출시되었고, 이후 Bohemia Especial, Presidente Light, Ambar 등으로 브랜드를 넓혔다. 도미니카 공화국 최초의 맥주 양조장이며, 3.8 million hectoliters의 판매량으로 앤틸리스 제도와 중앙아메리카에서 가장 큰 양조장으로 소개된다. 시설은 ISO 9001/2000과 14001/2004 인증을 받았고 직원은 2,500명이다. 현재 AmBev와 Grupo León Jimenes가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1929년 미국인 사업가 Charles H. Wanzer가 설립했다. 도미니카 공화국에서 가장 먼저 세워진 맥주 양조장이었으며, 앤틸리스 제도와 중앙아메리카에서 가장 큰 규모로 성장했다. 1935년 주력 브랜드 Presidente를 처음 출시했고, 이후 Bohemia Especial과 Presidente Light, Ambar로 브랜드를 확대했다. Bohemia Especial은 1983년, Presidente Light는 2005년에 만들어졌으며, 두 제품은 라거 계열의 필스너 맥주이다. Ambar는 이 회사가 처음 선보인 흑맥주이다. 현재의 양조장 단지는 1951년에 문을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥주 제품으로 Presidente(필스너, 5% abv), Presidente Light(4.1% abv), Bohemia(5.0% abv), Bohemia Light(4.3% abv), Bohemia Especial(7.2% abv), Presidente Black(6.0% abv) 등이 있다. 몰타 제품으로 Malta Morena, Lowenbrau, Vita Malt Plus, Malta Bohemia가 있다. 청량음료는 Red Rock 시리즈와 Enriquillo, Montpellier를 생산하며, 라이선스로 Guaraná Antarctica, Coco Rico, 7UP, Pepsi를 취급한다. 생수는 Enriquillo와 Montpellier이고, 1930년에 생산을 시작한 수상 경력의 럼 Barceló가 있다. 에너지 드링크는 911이며 Red Bull은 라이선스로 취급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 6월 Anheuser-Busch InBev의 브라질 법인 AmBev가 CND 지배 지분 인수에 합의했다. Grupo León Jimenes의 41% 지분에 대해 $1.2 billion 이상, Heineken의 10% 지분에 대해 추가로 $200 million을 지불하는 거래였고, AmBev는 51%의 과반 지분을 확보했다. 이 거래로 카리브해 최대 음료 회사가 만들어졌다. 직원은 2,500명이며 최대 500 million 리터의 맥주를 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "도미니카 공화국 최초의 양조장으로, Presidente를 주력 브랜드로 삼아 맥주와 몰타, 청량음료, 럼까지 다루는 음료 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cnd.com.do/",
+  "entityLinks": {
+   "wikidata": "Q5065318",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5065318",
+    "https://en.wikipedia.org/wiki/Cervecer%C3%ADa_Nacional_Dominicana"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5065318",
+   "country": "도미니카 공화국",
+   "inception": "1929",
+   "headquarters": "산토도밍고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Cervecería Nacional Dominicana」 본문과 위키데이터 Q5065318 팩트를 근거로 편집"
+ }
+}

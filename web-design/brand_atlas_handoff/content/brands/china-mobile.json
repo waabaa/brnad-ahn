@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q741618",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/china-mobile-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "china-mobile",
+  "urlSlug": "china-mobile",
+  "name": "중국이동통신",
+  "nameKo": "중국이동통신",
+  "nameEn": "China Mobile",
+  "definition": "중국이동통신(China Mobile)은 중화인민공화국의 이동통신사로, 중국과 홍콩 내 휴대 전화망을 통하여 음성 및 멀티미디어 서비스를 제공하는 기업이다.",
+  "summary": "중국이동통신(China Mobile)은 중화인민공화국의 이동통신사로, 중국과 홍콩 내 휴대 전화망을 통하여 음성 및 멀티미디어 서비스를 제공하는 기업이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "중국과 홍콩에서 이동통신 사업을 벌이며 중국 내 1위이자 전 세계 1위 사업자로 소개되는, 중화인민공화국 정부의 지원을 받는 공기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "중국이동통신은 중화인민공화국의 이동통신사로, 중국과 홍콩 내 휴대 전화망을 통하여 음성 및 멀티미디어 서비스를 제공한다. 1997년에 설립되었고 본사는 시청구에 있으며, 상장 코드는 홍콩 0941, 뉴욕 CHL이다. 중국과 홍콩에서 이동통신 사업을 벌이고 있으며, 중국 내 1위 사업자이고 중국에 국한하지 않아도 전 세계 1위 사업자이다. 2010년 기준으로 570,000,000명의 고객을 보유해 세계 최대 규모의 휴대 전화 가입자 기반 가운데 하나였다. 공기업이지만 중화인민공화국 정부의 절대적인 지원을 받고 있으며, 모기업은 국무원국유자산감독관리위원회이다. 파키스탄에서는 자회사 Zong을 통해 서비스를 제공한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2세대 이동통신으로는 GSM, 3세대 이동통신으로는 TD-SCDMA를 서비스한다. 4세대 이동통신으로는 TD-LTE를 1900(band 39), 2300(band 40), 2500(band 41)MHz 대역에서 서비스하고 있다. 2015년 말에 VoLTE를 상용화할 예정이었으며, 일부 지역에서는 시범 서비스를 하고 있었다. 중국과 홍콩에서 이동통신 사업을 벌이며, 휴대 전화망을 통하여 음성 및 멀티미디어 서비스를 제공한다. 해외에서는 파키스탄에서 자회사 Zong을 만들어 서비스를 제공하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "시궈화 전 회장이 2015년 회장직에서 정년퇴임하면서 샹빙이 신임 회장에 취임했다. 공기업이지만 중화인민공화국 정부의 절대적인 지원을 받고 있으며, 모기업은 국무원국유자산감독관리위원회이다. 2010년 기준으로 570,000,000명의 고객을 보유했고, 중국 내 1위이자 전 세계 1위 이동통신 사업자이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국과 홍콩에서 이동통신 사업을 벌이며 중국 내 1위이자 전 세계 1위 사업자로 소개되는, 중화인민공화국 정부의 지원을 받는 공기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.10086.cn/",
+  "entityLinks": {
+   "wikidata": "Q741618",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q741618",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%9D%B4%EB%8F%99%ED%86%B5%EC%8B%A0",
+    "https://en.wikipedia.org/wiki/China_Mobile"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q741618",
+   "country": "중화인민공화국",
+   "inception": "1997",
+   "headquarters": "시청구",
+   "founders": [],
+   "parent": "국무원국유자산감독관리위원회",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「중국이동통신」 요약과 위키데이터 Q741618 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

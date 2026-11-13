@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2944134",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "celtia",
+  "urlSlug": "celtia",
+  "name": "Celtia",
+  "nameKo": "",
+  "nameEn": "Celtia",
+  "definition": "Celtia는 1951년 튀니지에서 출시된 맥주 브랜드이다. 알코올 도수 5°의 필스너 유형 저온 발효 금빛 맥주로, 튀니지 음료제조회사 SFBT가 만들었다.",
+  "summary": "Celtia는 1951년 튀니지에서 출시된 맥주 브랜드이다. 알코올 도수 5°의 필스너 유형 저온 발효 금빛 맥주로, 튀니지 음료제조회사 SFBT가 만들었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "튀니지 시장을 지배하는 현지 맥주로, 고급 맥주를 표방하면서 동시에 애국심과 더 나은 내일에 대한 꿈의 상징이 된 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Celtia는 튀니지의 맥주 브랜드이다. 필스너 유형의 저온 발효 금빛 맥주이며, 알코올 함량은 5°이고 원통원추형 탱크에서 숙성한다. 튀니지 음료제조회사 SFBT가 1951년에 고급 맥주 시장을 공략하기 위해 출시했으며, 이름은 당시 SFBT 이사의 아내에서 따왔다. 2009년부터 튀니지에서 Heineken이 판매되고 있지만 Celtia는 여전히 국내 시장을 지배하고 있으며, 2011년 생산량은 1,402,818헥토리터에 이르렀다. 유리병과 알루미늄 캔, 호텔·바·식당에 공급하는 생맥주용 금속 통으로 판매되며, 튀니지의 여러 행사를 후원한다. 현지 제품을 소비하는 흐름을 활용해 애국심과 더 나은 내일에 대한 꿈의 상징이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Celtia는 1951년 튀니지 음료제조회사 SFBT가 고급 맥주 시장을 공략하기 위해 출시했으며, 이름은 당시 SFBT 이사의 아내에서 따왔다. 출시 때부터 튀니스의 Bab Saadoun 지구에 있는 SFBT 맥아 공장에서 생산되었다. 보리와 맥아는 1980년대 중반까지 튀니지에서 재배했으나 지금은 프랑스나 독일에서 수입한다. 캔은 1986년, 케그는 1992년에 등장했고, 2011년과 2012년에는 판매량이 각각 약 15%, 13% 증가해 가장 강한 성장세를 보였다. 2012년 12월 20일 제헌의회가 가결한 2013년 재정법에 따른 주세 인상이 이 흐름을 일시적으로 둔화시켰다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Celtia는 필스너 유형의 저온 발효 맥주이다. 유리병은 25cl 또는 30cl, 알루미늄 캔은 24cl, 33cl, 50cl 용량으로 포장된다. 병 24개들이 상자와 캔 24개들이 트레이로 유통되며, 호텔·바·식당에는 생맥주용 대형 금속 통으로도 공급된다. 포장은 빨강과 흰색을 조합하고 캔에는 검은색 글씨로 브랜드 약칭을 넣었으며, 이름은 고딕체로 쓰고 고급 맥주(Bière de luxe) 문구를 함께 표기한다. 2017년 생산량 중 캔이 62%, 유리병이 35%, 통이 3%를 차지했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Celtia는 2009년부터 튀니지에서 판매되는 Heineken과 경쟁하지만 여전히 국내 시장을 지배한다. 2012년 12월 16일에는 프랑스 회사 We can diffusion SAS가 Allo Celtia 프로젝트를 시작해 벨기에, 룩셈부르크, 독일, 이탈리아, 영국에서 온라인 판매가 가능해졌으며 프랑스 유통도 계획되었다. 2017년 기준 캔이 생산의 62%를 차지한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "튀니지 시장을 지배하는 현지 맥주로, 고급 맥주를 표방하면서 동시에 애국심과 더 나은 내일에 대한 꿈의 상징이 된 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2944134",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2944134",
+    "https://en.wikipedia.org/wiki/Celtia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2944134",
+   "country": "튀니지",
+   "inception": "1951",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Celtia」 본문과 위키데이터 Q2944134 팩트를 근거로 편집"
+ }
+}

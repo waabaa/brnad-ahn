@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q493271",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/east-african-breweries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "east-african-breweries",
+  "urlSlug": "east-african-breweries",
+  "name": "East African Breweries",
+  "nameKo": "",
+  "nameEn": "East African Breweries",
+  "definition": "East African Breweries는 케냐 나이로비에 본사를 둔 지주회사로, 브랜드 맥주와 증류주, 무알코올 음료를 제조하는 기업이다. 1922년 Kenya Breweries Limited라는 이름으로 설립되었다.",
+  "summary": "East African Breweries는 케냐 나이로비에 본사를 둔 지주회사로, 브랜드 맥주와 증류주, 무알코올 음료를 제조하는 기업이다. 1922년 Kenya Breweries Limited라는 이름으로 설립되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "케냐에서 1922년 설립되어 동아프리카 여러 나라에 자회사를 둔 양조·음료 지주회사이며, Diageo의 과반 지배를 받는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "East African Breweries는 케냐에 기반을 둔 지주회사로, 브랜드 맥주와 증류주, 무알코올 음료를 제조한다. 본사는 케냐 나이로비에 있으며, 케냐, 우간다, 탄자니아, 남수단 네 나라에 자회사를 두고 있다. 부룬디, 콩고민주공화국, 르완다에서는 유통 파트너와 협력한다. 1954년 나이로비 증권거래소에 상장했으며, 이는 해당 지역에서 가장 오래된 증권거래소의 초기 상장 사례 가운데 하나였다. 2000년 Diageo가 East African Breweries의 과반 지배권을 인수했고, 이듬해 우간다 증권거래소에도 주식을 교차 상장했다. 현재 NSE 20 Share Index의 구성 종목이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "East African Breweries는 1922년 Kenya Breweries Limited(KBL)라는 이름으로 웨일스 출신 George Hurst와 Charles Hurst가 설립했다. 회사는 케냐의 Dodd 가문이 소유했다. KBL은 1935년 탄가니카에 기반을 둔 Tanganyika Breweries를 인수했고, 1936년 두 회사가 합병되어 East African Breweries Limited가 만들어졌다. 이후 Mombasa brewery 등 양조장을 더 열며 국내에서 확장했다. 1959년에는 Uganda Breweries를 인수해 우간다로 진출했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 맥주, 증류주, 무알코올 음료로 구성된다. Kenya Breweries Limited는 나이로비에 있으며 맥주 양조와 무알코올 맥아 음료 병입이 핵심 사업이다. Uganda Breweries Limited는 Port Bell에 있으며 1946년부터 우간다에서 맥주를 양조해 왔다. United Distillers Vintners (Kenya) Limited는 1962년 설립되었고, 지분은 EABL이 46.32%, Diageo PLC가 53.68%이며 EABL이 Diageo를 대신해 경영한다. 1987년에는 유리 용기와 병을 만드는 Central Glass Industries Limited를 열어 자체 조달 체계를 갖췄다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2000년 Diageo가 과반 지배권을 인수했다. 탄자니아에서는 Serengeti Breweries Limited 지분 51%를 인수하고 2011년 Tanzania Breweries의 주주 구조에서 나왔다. 2013년에는 남수단 Juba에 East African Beverages South Sudan Limited를 depot로 세워 제3자 유통업체에 대한 의존을 줄이려 했다. 2025년 12월 Diageo는 이 회사를 Asahi에 매각하겠다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "케냐에서 1922년 설립되어 동아프리카 여러 나라에 자회사를 둔 양조·음료 지주회사이며, Diageo의 과반 지배를 받는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.eabl.com/",
+  "entityLinks": {
+   "wikidata": "Q493271",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q493271",
+    "https://en.wikipedia.org/wiki/East_African_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q493271",
+   "country": "케냐",
+   "inception": "1922",
+   "headquarters": "나이로비",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「East African Breweries」 본문과 위키데이터 Q493271 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

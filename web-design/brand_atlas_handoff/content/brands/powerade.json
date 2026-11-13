@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q934273",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/powerade-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "powerade",
+  "urlSlug": "powerade",
+  "name": "파워에이드",
+  "nameKo": "파워에이드",
+  "nameEn": "Powerade",
+  "definition": "파워에이드(Powerade)는 1988년부터 The Coca-Cola Company가 만들어 유통해 온 스포츠 음료이다. 주요 경쟁 상대는 PepsiCo가 소유한 Gatorade이다.",
+  "summary": "파워에이드(Powerade)는 1988년부터 The Coca-Cola Company가 만들어 유통해 온 스포츠 음료이다. 주요 경쟁 상대는 PepsiCo가 소유한 Gatorade이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Coca-Cola가 만든 스포츠 음료로 Gatorade와 경쟁하며, 올림픽과 FIFA 등 폭넓은 후원 계약을 갖춘 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파워에이드는 The Coca-Cola Company가 1988년 처음 출시한 스포츠 음료이다. 당시 인기를 얻던 스포츠 음료의 대안으로 개발되었으며, 처음에는 격한 운동 중 수분을 보충할 음료가 필요한 운동선수를 대상으로 판매되었다. 2000년에는 올림픽의 공식 스포츠 음료가 되었다. 경쟁 브랜드인 Gatorade는 1965년 University of Florida에서 이름이 붙여졌으며 미국에서 처음 상업적으로 판매된 스포츠 음료이다. 2011년 기준 미국 시장 점유율은 Gatorade가 70%, 파워에이드가 28.5%였다. 파워에이드는 Australian Football League, PGA Tour, NASCAR, NCAA, FIFA 등 여러 대회와 팀의 공식 스포츠 음료로서 후원 계약을 맺고 있으며, 이는 Coca-Cola의 전체 계약에 힘입은 바가 크다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "파워에이드는 1988년 The Coca-Cola Company가 개발해 처음 출시했다. 회사는 점차 인기를 얻던 스포츠 음료의 대안으로 이 음료를 만들었고, 격한 운동 중 수분을 유지할 음료가 필요한 운동선수를 겨냥해 판매했다. 2000년에는 Coca-Cola 소유의 또 다른 스포츠 음료 Aquarius와 함께 올림픽의 공식 스포츠 음료가 되었다. 2001년 7월에는 에너지 대사에 관여하는 비타민 B3, B6, B12를 넣은 새 배합을 내놓았다. 2009년 6월 Coca-Cola는 Glacéau를 인수했고, 이후 Glacéau 경영진에게 파워에이드 브랜드의 운영 권한도 맡겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2002년 Coca-Cola는 Gatorade의 Propel에 대응해 미국에 Powerade Option을 선보였다. Option은 색이 없는 저칼로리 스포츠 음료로, 고과당 옥수수 시럽, 수크랄로스, 아세설팜칼륨으로 단맛을 냈다. Fitness Water 부문에서 Option은 36%를 차지해 Propel의 42%에 이어 2위였다. 2007년에는 전해질을 함유하면서 설탕, 칼로리, 탄수화물이 없는 Powerade Zero가 출시되었다. 2002년부터는 기존 병을 새로운 스포츠 그립 병으로 바꾸기 시작했고, 이 디자인은 2005년 북미에 적용되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "파워에이드의 운영은 Coca-Cola가 Glacéau를 인수한 이후 Glacéau 경영진이 맡고 있다. 2011년 기준 미국 시장 점유율은 28.5%로, 70%를 차지한 Gatorade에 크게 뒤졌다. 파워에이드는 Melbourne Storm의 공식 수분 보충 파트너이며, 뉴욕 브롱크스의 Hoops in the Sun 여름 농구 리그를 독점 음료로 후원한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Coca-Cola가 만든 스포츠 음료로 Gatorade와 경쟁하며, 올림픽과 FIFA 등 폭넓은 후원 계약을 갖춘 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.us.powerade.com/",
+  "entityLinks": {
+   "wikidata": "Q934273",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q934273",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9B%8C%EC%97%90%EC%9D%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Powerade"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q934273",
+   "country": null,
+   "inception": "1988",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Powerade」 본문과 위키데이터 Q934273 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

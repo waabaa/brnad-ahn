@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q202708",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/american-motors-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "american-motors-corporation",
+  "urlSlug": "american-motors-corporation",
+  "name": "아메리칸 모터스",
+  "nameKo": "아메리칸 모터스",
+  "nameEn": "American Motors Corporation",
+  "definition": "아메리칸 모터스(American Motors Corporation)는 1954년부터 1987년까지 존재했던 미국의 자동차 제조업체이다. 약칭은 AMC이며 본사는 커노샤에 있었다.",
+  "summary": "아메리칸 모터스(American Motors Corporation)는 1954년부터 1987년까지 존재했던 미국의 자동차 제조업체이다. 약칭은 AMC이며 본사는 커노샤에 있었다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Nash-Kelvinator Corporation과 Hudson Motor Car Company의 합병으로 탄생해 소형차에 주목했던 미국 자동차 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아메리칸 모터스는 1954년부터 1987년까지 존재했던 미국의 자동차 제조업체이며, 약칭은 AMC이다. 본사는 커노샤에 있었고, 창업자로는 George W. Mason이 기록되어 있다. 1954년 5월 1일 Nash-Kelvinator Corporation과 Hudson Motor Car Company의 합병으로 설립되었다. Ford, General Motors, Chrysler와의 경쟁 속에서 특히 소형차에 주목했으며, 수석 스타일리스트였던 Dick Teague의 작업으로 유명하다. 1970년대에 재정 문제를 겪으며 Renault와 긴밀한 관계를 맺었다. 1987년 3월 9일 Chrysler가 Renault의 AMC 지분을 사들이면서 AMC는 Chrysler에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "AMC는 1954년 5월 1일 Nash-Kelvinator Corporation과 Hudson Motor Car Company가 합병하면서 설립되었다. 이 합병은 당시 미국 역사상 가장 큰 기업 합병이었다. 위키데이터에는 창업자가 George W. Mason으로, 본사가 커노샤로 기록되어 있다. 설립 후에는 Ford, General Motors, Chrysler와 경쟁하며 소형차에 주목했고, 몇 번의 상업적 성공을 거두었다. 특히 수석 스타일리스트였던 Dick Teague의 작업들로 유명해졌으며, 1970년대에는 재정 문제를 겪었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "AMC는 자동차를 생산했으며, 과거 생산 모델로 AMC Pacer, AMC Eagle, AMC Gremlin, AMC AMX가 있다. 이 밖에 AMC Javelin, AMC Hornet, AMC Matador, AMC Rebel, AMC Spirit, AMC Ambassador, AMC Concord도 생산했다. 콘셉트카로는 AMC Amitron이 있다. Ford, General Motors, Chrysler와의 경쟁에서 AMC는 특히 소형차에 주목했다. 이들 모델은 모두 1954년부터 1987년까지 존재했던 AMC가 생산한 과거의 차종이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "AMC는 1987년 3월 9일 Chrysler가 Renault의 AMC 지분을 사들이면서 Chrysler에 인수되었고, 이로써 AMC는 1987년에 막을 내렸다. Renault는 1983년 AMC 지분의 49%를 소유하고 있었다. 1970년대에 재정 문제를 겪으면서 Renault와 긴밀한 관계를 맺은 것이 이 과정의 배경이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Nash-Kelvinator Corporation과 Hudson Motor Car Company의 합병으로 탄생해 소형차에 주목했던 미국 자동차 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q202708",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q202708",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8_%EB%AA%A8%ED%84%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/American_Motors_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q202708",
+   "country": "미국",
+   "inception": "1954",
+   "headquarters": "커노샤",
+   "founders": [
+    "George W. Mason"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「아메리칸 모터스」 요약과 위키데이터 Q202708 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

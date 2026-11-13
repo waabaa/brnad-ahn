@@ -13,6 +13,8 @@ for (const f of files) h.update(f + fs.readFileSync(`${d}/${f}`));
 h.update(`due:${due}`);
 const b = "content/brands";
 if (fs.existsSync(b)) h.update(`brands:${fs.readdirSync(b).filter(f => f.endsWith(".json")).sort().join(",")}`);
+// 수록 레코드의 한글 표기(nameKo)를 고치면 파일 목록은 그대로여도 다시 공개되도록 값만 지문에 넣는다.
+if (fs.existsSync(b)) for (const f of fs.readdirSync(b).filter(f => f.endsWith(".json")).sort()) { try { h.update(`ko:${f}:${JSON.parse(fs.readFileSync(`${b}/${f}`, "utf8")).record?.nameKo || ""}`); } catch {} }
 const dec = `${process.env.CAT_ADMIN || "/home/developer/brandatlas-admin/data/catalog"}/decisions.json`;
 if (fs.existsSync(dec)) h.update(`logo:${fs.readFileSync(dec)}`);
 // 2026-09-22: 어드민에서 올린 로고 목록(파일명에 내용 해시가 들어 있어 교체도 잡힌다).

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q35594",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/koenigsegg-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "koenigsegg",
+  "urlSlug": "koenigsegg",
+  "name": "코닉세그",
+  "nameKo": "코닉세그",
+  "nameEn": "Koenigsegg",
+  "definition": "코닉세그(Koenigsegg)는 스웨덴 엥엘홀름에 본사를 둔 스포츠카 제조사이다. 1994년 Christian von Koenigsegg가 설립했으며 Bugatti, Pagani와 함께 3대 스포츠카 메이커로 꼽힌다.",
+  "summary": "코닉세그(Koenigsegg)는 스웨덴 엥엘홀름에 본사를 둔 스포츠카 제조사이다. 1994년 Christian von Koenigsegg가 설립했으며 Bugatti, Pagani와 함께 3대 스포츠카 메이커로 꼽힌다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.283333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "스웨덴 엥엘홀름에 기반을 둔 스포츠카 메이커로, Bugatti, Pagani와 함께 세계 스포츠카 메이커 3대 업종으로 꼽힌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코닉세그는 스웨덴의 스포츠카 메이커이며 본사는 스웨덴 스코네주 엥엘홀름에 있다. Bugatti, Pagani와 함께 세계 스포츠카 메이커 3대 업종으로 불린다. 1994년 설립 이후 1996년 컨셉 차량인 CC 모델을 출시했고, 2000년 파리 모터쇼에서 발표한 CC8S 모델을 2002년에 최초로 출시했다. 2009년 3월 포브스 선정 세계에서 가장 아름다운 차량으로 CCXR 모델이 선정되었다. 2010년 12월에는 BBC 선정 최고의 하이퍼카로 아제라 모델이 선정되었다. 현재 cc850, 제메라, 제스코를 생산하며 과거에는 CCR, CCX, 아제라, 레제라 등을 생산했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년에 Christian von Koenigsegg가 설립한 회사이다. 1996년에 컨셉 차량인 CC 모델이 출시되었고, 2000년 파리 모터쇼에서 CC8S 모델이 발표되어 2002년에 최초로 출시되었다. 2003년에는 제네바 모터쇼에 전시되었다. 2004년에는 CCR, 2006년에는 특별 제작된 엔진을 장착한 CCX, 2007년에는 CCGT와 CCXR, 2008년에는 CCX 에디션과 CCXR 에디션이 출시되었다. 2009년에는 CCXR 스페셜 에디션과 트레비타가 출시되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산 차종은 cc850, 제메라, 제스코 세 가지이다. 과거 생산 차종에는 1996년 컨셉 차량으로 출시된 CC를 비롯해 CCR, CC8S, CCX, CCGT, CCXR가 있다. CCX 에디션, CCXR 에디션, CCXR 스페셜 에디션, 트레비타도 과거 생산 차종에 포함된다. 그 밖에 아제라, 아제라 R, 아제라 S, 원:1, 아제라 RS, 아제라 파이널 에디션, 레제라도 과거 생산 차종이다. 이 중 아제라 모델은 2010년 12월 BBC 선정 최고의 하이퍼카로 선정되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "코닉세그는 현재 스웨덴 스코네주 엥엘홀름에 본사를 두고 있다. 현재 생산 차종은 cc850, 제메라, 제스코 세 가지이다. 과거 생산 차종에는 아제라 파이널 에디션과 레제라가 포함되어 있다. 2009년 3월 CCXR 모델이 포브스 선정 세계에서 가장 아름다운 차량으로, 2010년 12월 아제라 모델이 BBC 선정 최고의 하이퍼카로 선정된 바 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스웨덴 엥엘홀름에 기반을 둔 스포츠카 메이커로, Bugatti, Pagani와 함께 세계 스포츠카 메이커 3대 업종으로 꼽힌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://koenigsegg.com",
+  "entityLinks": {
+   "wikidata": "Q35594",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q35594",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%8B%89%EC%84%B8%EA%B7%B8",
+    "https://en.wikipedia.org/wiki/Koenigsegg"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q35594",
+   "country": "스웨덴",
+   "inception": "1994",
+   "headquarters": "엥엘홀름",
+   "founders": [
+    "크리스티앙 폰 코닉세그"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「코닉세그」 요약과 위키데이터 Q35594 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

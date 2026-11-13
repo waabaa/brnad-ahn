@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q27489",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/daf-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "daf",
+  "urlSlug": "daf",
+  "name": "DAF 트럭",
+  "nameKo": "DAF 트럭",
+  "nameEn": "DAF",
+  "definition": "DAF 트럭(DAF)은 1928년 네덜란드에서 설립된 자동차 제조사로, 본사는 에인트호번에 있으며 현재 파카 그룹을 모기업으로 두고 있다. 1949년부터 트럭을 생산했다.",
+  "summary": "DAF 트럭(DAF)은 1928년 네덜란드에서 설립된 자동차 제조사로, 본사는 에인트호번에 있으며 현재 파카 그룹을 모기업으로 두고 있다. 1949년부터 트럭을 생산했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.216666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1928년 네덜란드에서 출발해 1949년 트럭 생산을 시작했고, 도산을 거쳐 파카 그룹 산하에서 영국 레이랜드 트럭까지 이어받은 네덜란드 트럭 메이커이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "DAF 트럭은 네덜란드의 자동차 메이커로, 약칭 DAF로 불린다. 사명은 주식합자회사 판 도르너 자동차공작소(Van Doorne's Automobielfabriek N.V.)이며, 예전에는 주식합자회사 판 도르너 부수차공작소(Van Doorne's Aanhangwagenfabriek N.V.)라는 이름을 썼다. 1928년에 설립되어 1949년에 최초로 트럭을 생산했고, 1958년에는 승용차 생산도 시작했다. 이후 버스 사업부 분할, 영국 레이랜드 트럭 인수, 도산 등을 거쳤다. 현재는 파카 그룹 산하에서 대형 트럭 DAF CF와 DAF XF, 중형·소형 트럭 DAF LF 등을 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "DAF는 1928년에 CVHDM 자동차(Commanditaire Vennootschap Hub van Doorne 's Machinefabriek)로 설립되었으며, 창업자는 Hub van Doorne이다. 1949년에 최초로 트럭을 생산하기 시작했고 이후 현재의 사명으로 변경했다. 1958년에 승용차 생산을 시작했으나 1975년에 볼보에 인수 후 합병되었다. 1980년에는 버스 사업부를 분할하여 유나이티드 버스로 설립했다. 1987년에는 영국의 레이랜드 트럭을 인수했고 같은 해 네덜란드 주식 시장에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "DAF 트럭의 현재 생산 차종은 대형 트럭부터 소형 트럭까지 이어지는 트럭 라인업으로 구성된다. 대형 트럭 차종으로는 DAF CF가 있으며, 대형·준대형 트럭 차종으로는 DAF XF가 있다. 중형·준중형·소형 트럭 차종으로는 DAF LF가 있다. 과거에는 1958년에 승용차 생산을 시작했고, 버스 사업부는 1980년에 분할되어 유나이티드 버스로 설립되었다. 또한 1993년 도산 과정에서 영국의 트럭 사업부는 레이랜드 트럭으로, 밴 사업부는 LDV 자동차로 분할되어 사업 구성이 바뀌었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 네덜란드 에인트호번에 있으며, 모기업은 파카 그룹이다. 1993년에 경영난으로 도산하면서 영국의 트럭 사업부는 레이랜드 트럭으로, 밴 사업부는 LDV 자동차로 분할되었다. 1996년에 미국의 파카 그룹에 인수되었고, 이후 영국 트럭 사업부인 레이랜드 트럭도 1998년에 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1928년 네덜란드에서 출발해 1949년 트럭 생산을 시작했고, 도산을 거쳐 파카 그룹 산하에서 영국 레이랜드 트럭까지 이어받은 네덜란드 트럭 메이커이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://daf.com",
+  "entityLinks": {
+   "wikidata": "Q27489",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27489",
+    "https://ko.wikipedia.org/wiki/DAF_%ED%8A%B8%EB%9F%AD",
+    "https://en.wikipedia.org/wiki/DAF_Trucks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27489",
+   "country": "네덜란드",
+   "inception": "1928",
+   "headquarters": "에인트호번",
+   "founders": [
+    "Hub van Doorne"
+   ],
+   "parent": "파카 그룹",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「DAF 트럭」 요약과 위키데이터 Q27489 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

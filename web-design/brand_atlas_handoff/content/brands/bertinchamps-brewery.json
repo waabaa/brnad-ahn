@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q22343067",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bertinchamps-brewery",
+  "urlSlug": "bertinchamps-brewery",
+  "name": "Bertinchamps brewery",
+  "nameKo": "",
+  "nameEn": "Bertinchamps brewery",
+  "definition": "Bertinchamps brewery는 벨기에 나뮈르주 장블루에 있는 가족 운영 소규모 양조장이다. Bertinchamps라는 이름의 맥주 세 종을 만들며 2013년에 양조를 시작했다.",
+  "summary": "Bertinchamps brewery는 벨기에 나뮈르주 장블루에 있는 가족 운영 소규모 양조장이다. Bertinchamps라는 이름의 맥주 세 종을 만들며 2013년에 양조를 시작했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "라벨에 큰 B 자 하나만 새긴 것이 특징이다. 옛 농장을 개조해 맥아와 홉만으로 만든 세 종의 농장 맥주를 50 cl 병에 내놓는 벨기에 가족 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Bertinchamps brewery는 brasserie de la Ferme de Bertinchamps라고도 불리는, 벨기에 나뮈르주 장블루에 있는 가족 운영 소규모 양조장이다. Bertinchamps라는 이름의 맥주 세 종을 50 cl 병으로 판매하며, 이 맥주들은 벨기에 맥주 문화의 인정받는 일부이다. 맥주는 Belgian Beer of Wallonia 라벨의 보호를 받으며, 위탁 양조도 함께 한다. 주요 수출 시장은 러시아, 중국, 일본, 아일랜드, 프랑스이다. 2017년 4월에는 3D 프린팅으로 만든 초콜릿 맥주병을 선보여 벨기에 전국 뉴스에 소개되었다. 농장을 개조해 연간 최대 6,000 hl의 맥주를 생산할 수 있는 설비를 갖추었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Bertinchamps 양조장은 2013년에 맥주 양조를 시작한 가족 양조장이다. 그보다 2년 앞서 Humblet 가족이 Bertinchamps 농장을 매입했는데, 이곳은 1343년에 장블루에 병합된 나뮈르 지역 Hesbaye의 매우 오래된 안뜰형 농장이다. 가족은 농장을 개조하고 연간 최대 6,000 hl 생산에 필요한 설비를 들이려 했다. 양조장에는 용량 60 hl에서 120 hl 사이의 발효 탱크가 네 개 있다. Val-Dieu 양조장에서 일한 경력이 있는 Benoît Humblet이 양조책임자를 맡고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Bertinchamps는 세 가지 맥주를 용량 50 cl의 병에 담아 판매한다. 모두 향신료나 첨가물 없이 맥아와 홉만 쓴 옛 방식의 농장 맥주이다. Bertinchamps Blonde는 알코올 도수 6.2%의 블론드 맥주이다. Bertinchamps Triple은 8%의 트리플 맥주이고, Bertinchamps Brune은 7%의 브라운 맥주이다. 이 맥주들은 왈로니아의 농업 품질 진흥 기관 APAQ-W가 부여하는 Belgian Beer of Wallonia 라벨의 보호를 받으며, 양조장은 위탁 양조도 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Humblet 가족이 운영하는 가족 양조장으로, 벨기에 나뮈르주 장블루에 자리하고 있다. 세 종의 맥주를 병으로 판매하며 위탁 양조도 병행하고, 연간 최대 생산 규모는 6,000 hl이다. 러시아, 중국, 일본, 아일랜드, 프랑스를 주요 수출 시장으로 삼는다. 2017년 4월에는 3D 프린팅으로 만든 초콜릿 맥주병으로 벨기에 전국 뉴스에 소개되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "라벨에 큰 B 자 하나만 새긴 것이 특징이다. 옛 농장을 개조해 맥아와 홉만으로 만든 세 종의 농장 맥주를 50 cl 병에 내놓는 벨기에 가족 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bertinchamps.be",
+  "entityLinks": {
+   "wikidata": "Q22343067",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q22343067",
+    "https://en.wikipedia.org/wiki/Bertinchamps_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q22343067",
+   "country": "벨기에",
+   "inception": "2013",
+   "headquarters": "장블루",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Bertinchamps Brewery」 본문과 위키데이터 Q22343067 팩트를 근거로 편집"
+ }
+}

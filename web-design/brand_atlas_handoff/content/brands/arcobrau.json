@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q637645",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "arcobrau",
+  "urlSlug": "arcobrau",
+  "name": "Arcobräu",
+  "nameKo": "",
+  "nameEn": "Arcobräu",
+  "definition": "Arcobräu는 독일 니더바이에른(Lower Bavaria)의 Moos 지방자치체에 있는 양조장이다. Arco-Zinneberg 가문이 450년 동안 소유해 왔으며, 대표 맥주는 Mooser Liesl이다.",
+  "summary": "Arcobräu는 독일 니더바이에른(Lower Bavaria)의 Moos 지방자치체에 있는 양조장이다. Arco-Zinneberg 가문이 450년 동안 소유해 왔으며, 대표 맥주는 Mooser Liesl이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Arco-Zinneberg 가문이 450년간 소유해 온 니더바이에른의 대형 양조장으로, 헬레스 맥주 Mooser Liesl을 대표 제품으로 둔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Arcobräu는 독일 니더바이에른(Lower Bavaria) 지방의 Moos 지방자치체에 자리한 양조장이다. Arco-Zinneberg 가문이 450년 동안 소유해 온 곳으로, 연간 생산량은 약 160,000헥토리터이며 니더바이에른에서 규모가 큰 양조장에 속한다. 대표 맥주는 헬레스 종류의 Mooser Liesl이며, 이름은 Moos의 Liesl이라는 뜻이다. Schlossbrauerei Moos(Moos 성 양조장)라는 이름으로 처음 문헌에 언급된 해는 1567년이다. 현재와 같은 형태로 존재한 것은 1960년 여러 가족 소유 양조장이 합병한 뒤부터이다. 1990년대 초에는 동바이에른의 소규모 양조장 여러 곳을 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Moos의 Schlossbrauerei Moos(Moos 성 양조장)가 처음 문헌에 언급된 해는 1567년이다. Arco-Zinneberg 가문은 이 양조장을 450년 동안 소유해 왔다. 회사는 여러 가족 소유 양조장이 합병한 1960년부터 현재의 형태로 존재하며 Moos에 본사를 두고 있다. 1990년대 초에는 Arcobräu가 동바이에른의 소규모 양조장 여러 곳을 인수했다. 2010년 말에는 Deggendorf 시와 Deggendorfer Volksfest의 추가 맥주 천막을 둘러싼 분쟁이 불거졌고, 이는 지역 선출직 공직자에 대한 부패 의혹으로 이어졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Arcobräu는 Arco-Zinneberg 가문이 450년 동안 소유해 온 양조장이다. 연간 생산량은 약 160,000헥토리터로, 니더바이에른에서 규모가 큰 양조장 가운데 하나이다. 2010년 말에 시작된 Deggendorf와의 분쟁은 지역 언론에서 Bierkrieg(맥주 전쟁)로 불렸으며 2011년 상반기까지 이어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Arco-Zinneberg 가문이 450년간 소유해 온 니더바이에른의 대형 양조장으로, 헬레스 맥주 Mooser Liesl을 대표 제품으로 둔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.arcobraeu.de/",
+  "entityLinks": {
+   "wikidata": "Q637645",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q637645",
+    "https://en.wikipedia.org/wiki/Arcobr%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q637645",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "Moos",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Arcobräu」 본문과 위키데이터 Q637645 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q1632494",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "huyghe-brewery",
+  "urlSlug": "huyghe-brewery",
+  "name": "Huyghe Brewery",
+  "nameKo": "",
+  "nameEn": "Huyghe Brewery",
+  "definition": "Huyghe Brewery는 1906년 Leon Huyghe가 벨기에 동플랑드르의 Melle에 세운 양조장이다. 대표 맥주는 황금빛 에일인 Delirium Tremens이다.",
+  "summary": "Huyghe Brewery는 1906년 Leon Huyghe가 벨기에 동플랑드르의 Melle에 세운 양조장이다. 대표 맥주는 황금빛 에일인 Delirium Tremens이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "분홍 코끼리 라벨의 Delirium 시리즈로 알려진 벨기에 양조장이다. Delirium Tremens는 미국 수출 초기에 한동안 판매가 금지된 적이 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Huyghe Brewery는 벨기에 동플랑드르의 Melle에 본사를 둔 양조장으로, 네덜란드어 이름은 Brouwerij Huyghe이다. Delirium이라는 이름을 붙인 맥주 시리즈를 만들며, 라벨에 분홍 코끼리가 등장하는 것이 특징이다. 가장 잘 알려진 제품은 벨기에 블론드 에일인 Delirium Tremens이다. 이 맥주는 2008년 시카고에서 열린 World Beer Championships에서 Best Beer in the World로 선정됐다. Stuart Kallen은 저서 The 50 Greatest Beers in the World에서 이 맥주를 1위에 올렸다. 크리스마스 맥주와 도수가 낮은 과일 맥주도 만들며, 여러 소규모 벨기에 양조장을 인수해 사업을 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1906년 Leon Huyghe가 Melle에 있던 기존 양조장을 사들이며 사업을 시작했다. 이 터에서는 1654년부터 맥주를 만들어 왔다. 양조장은 1938년에 현재의 이름을 채택했다. 처음에는 일반 필스너를 만들었으나 곧 오늘날 흔히 '벨기에식'으로 불리는 종류의 맥주를 만들기 시작했다. 이후 소규모 벨기에 양조장을 차례로 인수했으며, 인수한 곳으로는 1987년 Arteveld Grand Cru, 1993년 Brouwerij Biertoren, 1994년 Brouwerij Dam, 1999년 Brouwerij Villers가 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품군은 라벨에 분홍 코끼리가 그려진 Delirium 시리즈이다. Delirium Tremens는 알코올 8.5%의 벨기에 블론드 에일이고, Delirium Nocturnum은 알코올 8.5%의 벨기에 브라운 에일이다. Delirium Noël은 겨울 시즌 제품으로 알코올 도수는 10.0% ABV이다. 크리스마스 맥주와, 여성 양조가들이 낸 65개 출품작 중에서 선정되어 만들어진 Deliria도 생산한다. 알코올 도수가 낮은 과일 맥주도 여러 종류 만든다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "분홍 코끼리 라벨의 Delirium 시리즈로 알려진 벨기에 양조장이다. Delirium Tremens는 미국 수출 초기에 한동안 판매가 금지된 적이 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brouwerijhuyghe.be/nl",
+  "entityLinks": {
+   "wikidata": "Q1632494",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1632494",
+    "https://en.wikipedia.org/wiki/Huyghe_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1632494",
+   "country": "벨기에",
+   "inception": "1906",
+   "headquarters": "Melle",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Huyghe Brewery」 본문과 위키데이터 Q1632494 팩트를 근거로 편집"
+ }
+}

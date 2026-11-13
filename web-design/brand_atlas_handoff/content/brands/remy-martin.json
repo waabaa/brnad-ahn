@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q697958",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/remy-martin-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "remy-martin",
+  "urlSlug": "remy-martin",
+  "name": "레미 마르탱",
+  "nameKo": "레미 마르탱",
+  "nameEn": "Rémy Martin",
+  "definition": "레미 마르탱(Rémy Martin)은 1724년에 설립되어 프랑스 코냐크에 본사를 둔 코냑 생산·판매 기업이다. 현존하는 가장 오래된 코냑 생산자 가운데 하나이며 코냑 핀 샹파뉴를 전문으로 한다.",
+  "summary": "레미 마르탱(Rémy Martin)은 1724년에 설립되어 프랑스 코냐크에 본사를 둔 코냑 생산·판매 기업이다. 현존하는 가장 오래된 코냑 생산자 가운데 하나이며 코냑 핀 샹파뉴를 전문으로 한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Grande Champagne이 최소 50% 들어간 Fine Champagne 블렌드만 사용하고 켄타우로스 로고를 쓰는 코냑 하우스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "레미 마르탱은 1724년에 설립된 프랑스 기업으로, 코냑을 주로 생산·판매하며 코냐크 코뮌에 본사를 두고 있다. 현존하는 가장 오래된 코냑 생산자 가운데 하나이다. Hennessy, Courvoisier, Martell과 함께 세계 코냑 대부분을 생산하는 '빅4' 코냑 하우스로 꼽히며, 코냑 핀 샹파뉴(Cognac Fine Champagne) 제조를 전문으로 한다. 증류주 그룹 Rémy Cointreau가 소유하고 있고, 이 그룹 영업이익의 약 90%를 차지하며 연간 약 2.2 million 9리터 케이스의 코냑을 판매한다. 2010년대에는 중국의 긴축 조치가 고가 선물을 겨냥하면서 판매가 크게 감소했다. 사치의 개념을 알린다는 취지의 협회 Comité Colbert의 회원이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "브랜드명은 1695년 프랑스 남서부 Rouillac 부근에서 태어난 창업자 Rémy Martin에서 유래한다. 포도 재배자였던 그는 1724년 코냑 거래 회사를 세웠다. 1773년 그가 사망하자 사업은 손자 Rémy에게 넘어갔다. 1841년 Paul-Emile Rémy Martin이 경영을 맡아 크게 성장시켰고, 자신의 별자리인 궁수자리에서 따온 켄타우로스 로고를 병과 상자에 넣었다. 양차 대전 사이에는 변호사이자 상인이던 André Renaud가 이끌며 1927년 VSOP Fine Champagne를 대중화했고, 제2차 세계대전 이후에는 그의 사위 André Hériard-Dubreuil 아래에서 성장을 이어 갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품인 Rémy Martin VSOP는 1927년에 만들어졌으며 전 세계에서 가장 많이 팔리는 VSOP 코냑이다. 프로스트 처리된 병은 1972년에 도입되었다. VSOP Mature Cask Finish는 2011년 유럽 시장 전용으로 만들어졌으며, 최종 블렌딩 뒤 20년 된 오크통에서 1년을 더 숙성한다. Rémy Martin 1738 Accord Royal은 1997년 출시되었고, 1738년 King Louis XV가 장인정신을 기리며 Rémy Martin에 Accord Royal을 내린 왕명에서 이름을 따왔다. Rémy Martin CLUB은 1986년에 만들어진 중국 전용 제품으로 팔각형 병을 사용한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "레미 마르탱은 Rémy Cointreau가 소유하고 있으며, 이 그룹을 1990년에 공동 설립했고 그룹 영업이익의 약 90%를 차지한다. Petite Champagne과 Grande Champagne의 포도 재배자를 묶은 협동조합 l'Alliance Fine Champagne이 하우스 오드비의 거의 90%를 공급한다. 레미 마르탱은 Fine Champagne 코냑의 80% 이상을 생산한다. 2014년부터 Baptiste Loiseau가 셀러 마스터를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Grande Champagne이 최소 50% 들어간 Fine Champagne 블렌드만 사용하고 켄타우로스 로고를 쓰는 코냑 하우스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.remy.com",
+  "entityLinks": {
+   "wikidata": "Q697958",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q697958",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%AF%B8_%EB%A7%88%EB%A5%B4%ED%83%B1",
+    "https://en.wikipedia.org/wiki/R%C3%A9my_Martin"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q697958",
+   "country": "프랑스",
+   "inception": "1724",
+   "headquarters": "코냐크",
+   "founders": [
+    "Paul-Emile Rémy Martin"
+   ],
+   "parent": "Rémy Cointreau",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Rémy Martin」 본문과 위키데이터 Q697958 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

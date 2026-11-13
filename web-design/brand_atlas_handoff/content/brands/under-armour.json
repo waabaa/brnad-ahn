@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-03",
+ "qid": "Q2031485",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-03T17:25:20+09:00"
+ },
+ "logoCandidate": "logos/under-armour-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "under-armour",
+  "urlSlug": "under-armour",
+  "name": "언더아머",
+  "nameKo": "언더아머",
+  "nameEn": "Under Armour",
+  "definition": "언더아머(Under Armour)는 미국 메릴랜드주 볼티모어에 본사를 둔 스포츠웨어 기업이다. 신발과 의류를 제조하며 1996년 Kevin Plank가 설립했다.",
+  "summary": "언더아머(Under Armour)는 미국 메릴랜드주 볼티모어에 본사를 둔 스포츠웨어 기업이다. 신발과 의류를 제조하며 1996년 Kevin Plank가 설립했다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.6666666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "수분을 밖으로 내보내는 합성 소재 티셔츠에서 출발해 성장한 볼티모어 기반 스포츠웨어 브랜드이며, 사명에 영국식 철자 'armour'를 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "언더아머는 신발과 의류를 제조하는 미국의 스포츠웨어 기업으로, 본사는 메릴랜드주 볼티모어에 있다. 1996년 9월 25일 당시 24세였던 Kevin Plank가 설립했으며, University of Maryland 미식축구팀 출신인 그는 수분을 밖으로 내보내는 합성 소재 티셔츠로 사업을 시작했다. 이후 Nike, Adidas, Reebok 등 경쟁 브랜드도 수분 배출 의류를 내놓았다. Georgia Tech, NC State, Arizona State 등 대학 미식축구팀과의 계약, 영화 협찬, 텔레비전 광고로 인지도를 넓혔다. 2005년 11월 NASDAQ에 상장했고, 2007년 말 첫 정규 가격 직영 매장을 열었다. Kevin Durant 영입을 두고 Nike와 경쟁했으나 Nike가 재계약했고, 캐나다·중국·미국 39개 주에 전문 매장과 아웃렛을 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "언더아머는 1996년 9월 25일 당시 24세로 University of Maryland 미식축구팀 특별팀 주장이었던 Kevin Plank가 설립했다. Plank는 훈련 때 입는 컴프레션 반바지는 마르는데 유니폼 속 땀에 젖은 티셔츠는 갈아입어야 하는 데서 착안해 수분 배출 합성 소재 티셔츠를 만들었다. 사업은 워싱턴 D.C.에 있던 할머니 집 지하실에서 시작했고 이후 볼티모어로 옮겼다. 1996년 말 첫 팀 판매로 17,000달러를 올렸고, 1997년에는 100,000달러 규모의 주문을 받아 오하이오의 공장에서 셔츠를 만들었다. 회사명에 영국식 철자 'armour'를 쓴 것은 해당 철자의 수신자 부담 전화번호를 쓸 수 있었기 때문이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "언더아머는 신발과 의류를 제조한다. 초기 제품은 수분 배출 소재 티셔츠이며, 1996년 말까지 HeatGear 셔츠 500장을 팔았다. ColdGear, TurfGear, AllseasonGear, StreetGear 등의 의류 라인도 출시했다. 2014년 동계 올림픽에서는 미국 스피드스케이팅 선수들이 입은 Mach 39 경기복을 공급했는데, 설계 결함은 드러나지 않았으나 이 소식으로 주가가 2.38% 하락했다. 판매는 전문 매장과 아웃렛으로도 이루어지며, 2013년 볼티모어에 첫 Brand House를, 이후 버지니아 Tysons에 두 번째 Brand House를 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "언더아머는 2005년 11월 NASDAQ에 상장한 기업이다. 캐나다, 중국, 미국 39개 주에서 전문 매장과 아웃렛을 운영한다. 2014년 1월 21일에는 University of Notre Dame에 유니폼과 운동 장비를 공급하는 10년 계약에 합의했다고 발표했다. 본사는 메릴랜드주 볼티모어에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수분을 밖으로 내보내는 합성 소재 티셔츠에서 출발해 성장한 볼티모어 기반 스포츠웨어 브랜드이며, 사명에 영국식 철자 'armour'를 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.underarmour.com/en-us/",
+  "entityLinks": {
+   "wikidata": "Q2031485",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2031485",
+    "https://ko.wikipedia.org/wiki/%EC%96%B8%EB%8D%94%EC%95%84%EB%A8%B8",
+    "https://en.wikipedia.org/wiki/Under_Armour"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2031485",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "볼티모어",
+   "founders": [
+    "Kevin Plank"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-03"
+  },
+  "sourceNote": "영문 위키백과 「Under Armour」 본문과 위키데이터 Q2031485 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

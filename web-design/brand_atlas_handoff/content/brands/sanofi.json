@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q158205",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/sanofi-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sanofi",
+  "urlSlug": "sanofi",
+  "name": "사노피",
+  "nameKo": "사노피",
+  "nameEn": "Sanofi",
+  "definition": "사노피(Sanofi)는 프랑스 파리에 본사를 둔 글로벌 제약 기업이다. 2004년 Sanofi Synthélabo와 Aventis의 합병으로 출범한 Sanofi-Aventis를 전신으로 한다.",
+  "summary": "사노피(Sanofi)는 프랑스 파리에 본사를 둔 글로벌 제약 기업이다. 2004년 Sanofi Synthélabo와 Aventis의 합병으로 출범한 Sanofi-Aventis를 전신으로 한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.35,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스의 Sanofi Synthélabo가 Aventis를 인수합병하며 출범한 제약 그룹으로, 프랑스 정부가 자국 제약사 육성을 위해 합병 성사에 힘을 쏟았다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "사노피는 프랑스 파리에 본사를 둔 글로벌 제약 기업이다. 2004년 Sanofi Synthélabo가 Aventis를 인수합병하기로 하면서 Sanofi-Aventis가 만들어졌고, 2011년 5월 사명을 사노피로 변경했다. 합병사는 미국의 Pfizer와 영국의 GlaxoSmithKline에 이어 세계 3대 제약사 자리를 차지했다. 이 인수합병이 성사되기까지 프랑스 정부는 국제 경쟁력을 갖춘 자국 제약사를 육성하기 위해 양사 최고경영자의 만남을 주선하는 등 노력을 기울였다. 여러 대형 제약 회사의 합병이 거듭되어 형성된 그룹으로, 2016년 매출액 기준 세계 제8위의 제약 회사이다. 2017년에는 독일 제약 회사 Boehringer Ingelheim과 컨슈머헬스케어 사업 양도가 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1999년 Total이 가지고 있던 Sanofi와 L'Oréal이 가지고 있던 Synthélabo가 합병해 Sanofi Synthélabo가 형성되었다. Aventis는 독일의 Hoechst와 프랑스의 Rhône-Poulenc의 합병으로 형성되었다. 2004년 1월 당시 프랑스 2위이자 세계 제약업계 14위였던 Sanofi Synthélabo가 프랑스 1위이자 세계 7위였던 Aventis에 인수합병 의사를 밝혔다. 3개월 뒤인 4월 25일 Aventis 이사회가 제안을 승인해 Sanofi-Aventis가 만들어졌다. 인수 가격은 550억 유로(650억 달러) 규모였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 5월 사명을 사노피로 변경했다. 여러 대형 제약 회사의 합병이 거듭된 결과로 형성된 그룹이며, 본사는 프랑스 파리에 있다. 2016년 매출액 기준으로 세계 제8위의 제약 회사이다. 2017년에는 독일의 Boehringer Ingelheim과의 사이에서 컨슈머헬스케어 사업을 양도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스의 Sanofi Synthélabo가 Aventis를 인수합병하며 출범한 제약 그룹으로, 프랑스 정부가 자국 제약사 육성을 위해 합병 성사에 힘을 쏟았다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sanofi.com/",
+  "entityLinks": {
+   "wikidata": "Q158205",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q158205",
+    "https://ko.wikipedia.org/wiki/%EC%82%AC%EB%85%B8%ED%94%BC",
+    "https://en.wikipedia.org/wiki/Sanofi"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q158205",
+   "country": "프랑스",
+   "inception": "2004",
+   "headquarters": "파리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「사노피」 요약과 위키데이터 Q158205 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

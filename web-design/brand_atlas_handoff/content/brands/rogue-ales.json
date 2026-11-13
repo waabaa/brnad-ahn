@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q7359507",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "rogue-ales",
+  "urlSlug": "rogue-ales",
+  "name": "Rogue Ales",
+  "nameKo": "",
+  "nameEn": "Rogue Ales",
+  "definition": "Rogue Ales는 1988년 미국 오리건주 Ashland에서 창업한 양조장이다. 오리건 일대에서 펍을 운영했으며 2025년 11월 영업을 중단하고 파산 절차에 들어갔다.",
+  "summary": "Rogue Ales는 1988년 미국 오리건주 Ashland에서 창업한 양조장이다. 오리건 일대에서 펍을 운영했으며 2025년 11월 영업을 중단하고 파산 절차에 들어갔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Nike 임원 세 명이 창업한 오리건의 양조장으로, 독자 효모 Pacman을 쓰고 다양한 협업 맥주를 냈으나 2025년 11월 운영을 멈췄다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Rogue는 1988년 Ashland에서 문을 연 양조장이자 브루펍 운영 업체이다. 모회사 Oregon Brewing Company 아래에서 오리건 곳곳에 소수의 펍을 운영했다. 2018년에는 오리건, 워싱턴, 캘리포니아에 걸쳐 11개 지점을 두었다. 독자 효모 Pacman을 사용했고 60종이 넘는 에일을 만들었으며, Brewers Association가 연 Great American Beer Festival과 World Beer Cup에 출전해 여러 메달을 받았다. 양조책임자 John C. Maier는 모든 맥주가 음식과 어울리도록 만들었다고 밝혔고, 회사는 셰프·양조 전문가·레스토랑 운영자와 협업했다. 2025년 11월 모든 운영을 중단하고 같은 달 파산을 신청했으며, 양조 자산은 2026년 3월 경매에 부쳐졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Rogue는 1988년 Ashland에서 Nike, Inc. 임원 세 명인 Jack Joyce, Rob Strasser, Bob Woodell이 창업했다. 1987년 Woodell의 회계사이자 열성적인 홈브루어인 Jeff Schultz가 브루펍 아이디어를 제안한 것이 계기였다. 1988년 6월 Lithia Creek 인근에서 공사가 시작되었고, 지하에 10 bbl 양조 설비를, 위층에 60석 규모 펍을 두어 같은 해 10월 문을 열었다. 1989년 2월에는 Newport에서 Bay Front Brew Pub 공사가 시작되어 5월에 문을 열었고, 같은 해 Alaskan Brewing 출신 John Maier가 합류했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Rogue는 에일을 중심으로 60종이 넘는 맥주를 만들었다. 초기 맥주는 American Amber Ale, Oregon Golden Ale, Shakespeare Stout였다. Rogue Creamery, Portland State, Voodoo Doughnut, Dark Horse Comics 등과 협업 맥주를 만들었고, 2013년에는 같은 이름의 소스를 넣은 Hot Sriracha Stout를 내놓았다. 양조책임자 Maier의 수염에서 발견한 효모 균주로 만든 Beard Beer도 있었다. 사업은 양조와 오리건 일대의 펍 운영으로 이루어졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 11월 14일 Newport에서 모든 운영이 설명 없이 중단되었고, 11월 25일 Chapter 7 파산을 신청했다. 미지급 부채는 $16.7 million 이상이며 자회사 Rogue River Brewing Co.와 Yaquina Bay Beverage Co.도 파산에 포함된다. 양조장 자산은 2026년 3월 경매에 부쳐졌다. 이에 앞서 2023년 8월 Steven Garrett가 Dharma Tamm의 뒤를 이어 사장이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Nike 임원 세 명이 창업한 오리건의 양조장으로, 독자 효모 Pacman을 쓰고 다양한 협업 맥주를 냈으나 2025년 11월 운영을 멈췄다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rogue.com/",
+  "entityLinks": {
+   "wikidata": "Q7359507",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7359507",
+    "https://en.wikipedia.org/wiki/Rogue_Ales"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7359507",
+   "country": "미국",
+   "inception": "1988",
+   "headquarters": "뉴포트",
+   "founders": [
+    "Jack Joyce"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Rogue Ales」 본문과 위키데이터 Q7359507 팩트를 근거로 편집"
+ }
+}

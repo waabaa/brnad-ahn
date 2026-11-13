@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q491674",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/maxthon-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "maxthon",
+  "urlSlug": "maxthon",
+  "name": "맥스톤",
+  "nameKo": "맥스톤",
+  "nameEn": "Maxthon",
+  "definition": "맥스톤(Maxthon)은 인터넷 익스플로러의 트라이던트 엔진을 사용하는 프리웨어 웹 브라우저이다. 옛 이름은 MyIE2이며, 중국에서 시작되어 2004년에 현재 이름으로 바뀌었다.",
+  "summary": "맥스톤(Maxthon)은 인터넷 익스플로러의 트라이던트 엔진을 사용하는 프리웨어 웹 브라우저이다. 옛 이름은 MyIE2이며, 중국에서 시작되어 2004년에 현재 이름으로 바뀌었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "인터넷 익스플로러 기반 MyIE에서 출발해 트라이던트와 웹키트를 함께 쓰는 듀얼 엔진 브라우저로 발전한 중국 출신 프리웨어 브라우저이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "맥스톤은 인터넷 익스플로러의 트라이던트 엔진을 사용하는 프리웨어 웹 브라우저이다. 옛 이름은 MyIE2이며 중국인 프로그래머가 만든 MyIE에 기반했다. 맥스톤 3부터는 듀얼 디스플레이 렌더링 엔진을 지원하여 트라이던트 엔진과 함께 구글 크롬과 사파리가 기반하고 있는 웹키트를 기본 엔진으로 채용했다. 탭 브라우징, 마우스 제스처, 광고 차단기, RSS 리더 같은 기능을 갖추고 플러그인으로 기능을 확장할 수 있다. 안드로이드 사용자를 위한 모바일 버전도 출시했다. 마이크로소프트가 마이크로소프트 윈도우를 사용하는 유럽 경제 지역 사용자에게 BrowserChoice.eu 웹사이트를 통해 제공하는 12개의 웹 브라우저 중 하나이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "맥스톤은 중국인 프로그래머 창유가 인터넷 익스플로러를 자신에게 맞게 변형시키기를 원해서 만든 웹 브라우저 MyIE에 기반했다. 창유는 2000년에 개발을 그만두면서 자신의 코드를 공개 게시판에 공개했고, 제프 첸이 개발을 계속해 MyIE2를 발표했다. MyIE2는 전 세계 사용자들이 플러그인, 스킨, 디버그 분야에서 기여하면서 빠르게 성장했다. 2004년에 맥스톤으로 이름이 변경됐다. 2005년 최초의 Skype 투자자 Morten Lund와 WI 하퍼그룹으로부터, 2006년에는 미국 기반 벤처 캐피털 회사 찰스리버벤처로부터 투자를 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 기능으로 탭 브라우징, 마우스 제스처, 메모리 반환 기능, 여러 페이지 그룹화 기능, 메모 기능이 있다. 자동 업데이트 기능 MaxUpdate와 광고 차단기 AD Hunter를 제공한다. 부가적인 유틸리티 도구 모음, 스킨, RSS 리더를 갖추었고 플러그인을 통해 기능을 확장할 수 있다. 검색엔진 8개가 기본으로 들어 있으며 사용자가 추가할 수 있다. 안드로이드용 맥스톤 모바일은 RSS 피드 리더, 이어받기를 지원하는 다운로드 매니저, 슈퍼 제스처, 비밀검색 모드, 나이트 모드를 특징으로 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "맥스톤 3부터 듀얼 디스플레이 렌더링 엔진을 지원하여, 트라이던트 엔진과 함께 웹키트를 기본 엔진으로 채용해 더 빠른 웹 탐색을 가능하게 한다. 마이크로소프트가 유럽 경제 지역의 윈도우 사용자에게 BrowserChoice.eu 웹사이트로 제공하는 12개의 웹 브라우저에 포함된다. 개발사는 안드로이드 사용자를 위한 모바일 버전도 출시했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인터넷 익스플로러 기반 MyIE에서 출발해 트라이던트와 웹키트를 함께 쓰는 듀얼 엔진 브라우저로 발전한 중국 출신 프리웨어 브라우저이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.maxthon.com",
+  "entityLinks": {
+   "wikidata": "Q491674",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q491674",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A5%EC%8A%A4%ED%86%A4",
+    "https://en.wikipedia.org/wiki/Maxthon"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q491674",
+   "country": "중화인민공화국",
+   "inception": "2004",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「맥스톤」 요약과 위키데이터 Q491674 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

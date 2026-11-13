@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1907605",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-nationale",
+  "urlSlug": "brasserie-nationale",
+  "name": "Brasserie Nationale",
+  "nameKo": "",
+  "nameEn": "Brasserie Nationale",
+  "definition": "Brasserie Nationale은 룩셈부르크 최대 양조장으로 Bascharage에 본사를 둔다. 1975년 Brasserie Bofferding과 Brasserie Funck-Bricher가 합병해 설립했다.",
+  "summary": "Brasserie Nationale은 룩셈부르크 최대 양조장으로 Bascharage에 본사를 둔다. 1975년 Brasserie Bofferding과 Brasserie Funck-Bricher가 합병해 설립했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "룩셈부르크 최대 양조장으로, 1764년과 1842년에 뿌리를 둔 두 양조장의 합병에서 출발해 Bofferding과 Battin 브랜드를 운영한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brasserie Nationale은 룩셈부르크 Bascharage에 본사를 둔 룩셈부르크 최대 양조장이다. Bofferding과 Battin 두 브랜드로 맥주를 판매한다. 2013년 기준 룩셈부르크 현지 맥주 판매에서 56퍼센트의 점유율(Bofferding 44퍼센트, Battin 12퍼센트)을 차지해 뚜렷한 시장 선두였다. 생산량의 약 20퍼센트는 프랑스, 벨기에, 중국(2007년부터), 미국(2014년부터)으로 수출한다. 이 양조장은 1975년 두 양조장의 합병으로 출범했다. 생산은 합병 이후 Bascharage의 양조장에서 이루어진다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1975년 Bascharage의 Brasserie Bofferding과 룩셈부르크 시티 Grund 지구의 Brasserie Funck-Bricher가 합병하며 출범했다. Brasserie Bofferding은 1842년 Jean-Baptiste Bofferding이 Bascharage에 세웠고 룩셈부르크 남부에서 계속 확장했다. Brasserie Funck-Bricher는 1764년 설립되었고 1916년 fournisseur de la cour로 지정되었으며 1964년 Brasserie de Dudelange를 인수했다. 합병 후 Grund의 옛 양조장을 닫고 생산을 Bascharage로 옮겼으며, 이후 모든 맥주를 Bofferding 이름으로 판매하기로 해 Funck-Bricher 브랜드는 사라졌다. 2004년에는 Esch-Alzette의 Brasserie Battin(1937년 설립)을 인수해 Battin 맥주 생산도 Bascharage로 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 Bofferding과 Battin 두 브랜드로 맥주를 판매한다. Bofferding 이름으로는 Bofferding Pils, Bofferding Christmas, Bofferding Fréijoersbéier가 판매된다. Bofferding Christmas는 겨울에만 제공되는 더 어두운 맥주이다. Bofferding Fréijoersbéier는 봄에만 양조하는 비여과 라거이다. Battin 맥주도 Bascharage 양조장에서 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 기준 Bofferding 44퍼센트와 Battin 12퍼센트를 합쳐 룩셈부르크 현지 맥주 판매의 56퍼센트를 차지하며 시장 선두에 올랐다. 생산은 Bascharage 양조장에서 이루어지며, 생산량의 약 20퍼센트는 해외로 수출된다. 중국에는 2007년부터, 미국에는 2014년부터 수출해 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "룩셈부르크 최대 양조장으로, 1764년과 1842년에 뿌리를 둔 두 양조장의 합병에서 출발해 Bofferding과 Battin 브랜드를 운영한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.brasserie.bofferding.lu",
+  "entityLinks": {
+   "wikidata": "Q1907605",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1907605",
+    "https://en.wikipedia.org/wiki/Brasserie_Nationale"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1907605",
+   "country": "룩셈부르크",
+   "inception": "1975",
+   "headquarters": "Bascharage",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie Nationale」 본문과 위키데이터 Q1907605 팩트를 근거로 편집"
+ }
+}

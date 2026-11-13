@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q2482",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "jameson",
+  "urlSlug": "jameson",
+  "name": "제임슨",
+  "nameKo": "제임슨",
+  "nameEn": "Jameson",
+  "definition": "제임슨(Jameson)은 Pernod Ricard의 자회사 Irish Distillers가 생산하는 블렌디드 아이리시 위스키 브랜드이다. 1780년 아일랜드 더블린에서 증류소를 세우며 시작되었다.",
+  "summary": "제임슨(Jameson)은 Pernod Ricard의 자회사 Irish Distillers가 생산하는 블렌디드 아이리시 위스키 브랜드이다. 1780년 아일랜드 더블린에서 증류소를 세우며 시작되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "세계에서 가장 많이 팔리는 아이리시 위스키로, 1780년 더블린에서 시작해 Pernod Ricard 산하 Irish Distillers가 만드는 블렌디드 위스키이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "제임슨은 Pernod Ricard의 자회사 Irish Distillers가 생산하는 블렌디드 아이리시 위스키이다. 원래는 Bow Street의 Jameson Distillery에서 증류되던 더블린의 주요 위스키 여섯 가지 중 하나였으며, 지금은 코크주의 New Midleton Distillery에서 증류한다. 세계에서 가장 많이 팔리는 아이리시 위스키이며, 2019년 연간 판매량은 8 million 케이스를 넘었다. 19세기 초부터 해외에서 판매되었고 현재 130개국 이상에서 구입할 수 있다. 아일랜드 독립전쟁 이후의 교역 분쟁과 미국의 금주법으로 한동안 주요 수출 시장에서 배제되기도 했다. 오늘날 제임슨은 단일 증류소 위스키로는 세계 세 번째 규모이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "John Jameson(1740–1823)은 원래 스코틀랜드 Alloa 출신의 변호사였으며, 1780년 더블린에 증류소를 세웠다. 1768년 스코틀랜드의 위스키 증류업자 John Haig의 장녀 Margaret Haig와 결혼했다. 1805년 아들 John Jameson II가 합류해 사업을 이어받았고, 41년 동안 사업을 키운 뒤 1851년 아들 John Jameson the 3rd에게 넘겼다. 1901년 회사는 John Jameson and Son Ltd.로 정식 법인화되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1966년 John Jameson은 Cork Distillers, John Power와 합병해 Irish Distillers Group을 만들었다. 1976년 코크 인근에 New Midleton Distillery가 문을 열면서 Bow Street와 John's Lane의 더블린 증류소는 문을 닫았다. 현재 Midleton Distillery는 Jameson, Midleton, Powers, Redbreast 등의 이름으로 아일랜드에서 판매되는 아이리시 위스키의 상당량을 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계에서 가장 많이 팔리는 아이리시 위스키로, 1780년 더블린에서 시작해 Pernod Ricard 산하 Irish Distillers가 만드는 블렌디드 위스키이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://jamesonwhiskey.com",
+  "entityLinks": {
+   "wikidata": "Q2482",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2482",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%9E%84%EC%8A%A8",
+    "https://en.wikipedia.org/wiki/Jameson_Irish_Whiskey"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2482",
+   "country": "아일랜드",
+   "inception": "1780",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Jameson Irish Whiskey」 본문과 위키데이터 Q2482 팩트를 근거로 편집"
+ }
+}

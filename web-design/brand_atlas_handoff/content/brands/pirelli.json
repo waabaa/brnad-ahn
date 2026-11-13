@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q207770",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/pirelli-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pirelli",
+  "urlSlug": "pirelli",
+  "name": "피렐리",
+  "nameKo": "피렐리",
+  "nameEn": "Pirelli",
+  "definition": "피렐리(Pirelli)는 이탈리아 밀라노에 본사를 둔 다국적 타이어 제조업체이다. 1872년에 설립되었으며 승용차, 오토바이, 자전거용 소비자 타이어 생산에 주력하는 세계 5위 규모의 업체이다.",
+  "summary": "피렐리(Pirelli)는 이탈리아 밀라노에 본사를 둔 다국적 타이어 제조업체이다. 1872년에 설립되었으며 승용차, 오토바이, 자전거용 소비자 타이어 생산에 주력하는 세계 5위 규모의 업체이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.383333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "포뮬러 원(2011년부터)과 월드 슈퍼바이크(2004년부터)의 독점 타이어 공급업체이자 1964년부터 달력을 발행해 온 이탈리아 타이어 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "피렐리는 이탈리아 밀라노에 본사를 둔 타이어 제조업체로, 승용차·오토바이·자전거용 소비자 타이어를 주력으로 생산한다. 1922년부터 보르사 이탈리아나에 상장되어 있으며 세계 5위 규모의 타이어 제조업체이다. 유럽, 아시아·태평양, 중남미, 북미, 구소련권에 진출해 있고 160개가 넘는 나라에서 영업한다. 12개국에 18개 생산 거점을 두고 있으며 약 14,600곳의 유통업체와 소매업체 네트워크를 갖추고 있다. 1907년부터 스포츠 대회를 후원해 왔고 2011년부터 FIA 포뮬러 원 월드 챔피언십의 독점 타이어 파트너이자 공급업체이다. 본사는 밀라노 비코카 지구에 있으며, 지금은 타이어 제조만 하는 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "피렐리는 1872년 밀라노에서 Giovanni Battista Pirelli가 설립했다. 초기에는 고무와 그 파생 공정을 전문으로 했고, 제2차 세계대전 중 이탈리아 잠수 특공대가 쓴 잠수용 재호흡기와 드라이슈트도 만들었다. 이후 사업은 타이어와 케이블(에너지·통신용) 생산을 중심으로 이루어졌다. 1974년에는 Lancia 랠리팀의 요청을 계기로 와이드 래디얼 타이어를 개발했다. 1988년에는 미국 코네티컷주 뉴헤이븐에 본사를 둔 Armstrong Rubber Company를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 피렐리의 사업은 승용차, 오토바이, 자전거용 타이어와 관련 서비스로 구성된다. 2017년 10월 4일 소비자용 제품과 관련 서비스에 사업을 집중하고 산업용 타이어 사업을 분리한 뒤 밀라노 증권거래소에 복귀했다. 1964년부터 자사 이름을 딴 달력을 발행해 왔으며 Helmut Newton, Steve McCurry, Peter Lindbergh, Richard Avedon, Bruce Weber, Herb Rits, Annie Leibovitz 등 여러 유명 사진작가가 참여했다. 2002년에는 피렐리 브랜드의 의류, 시계, 안경류 제품군을 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 China National Chemical Corp. Ltd.(ChemChina)가 피렐리의 지배 지분을 확보했고, 이 중국 국영기업은 2023년까지 소유 구조를 유지하기로 했다. 2025년 4월 이사회는 ChemChina의 피렐리 지배가 끝났다고 판단했다. 피렐리는 현재 타이어 제조만 하는 회사이며, 12개국 18개 생산 거점과 약 14,600곳의 유통·소매 네트워크를 갖고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "포뮬러 원(2011년부터)과 월드 슈퍼바이크(2004년부터)의 독점 타이어 공급업체이자 1964년부터 달력을 발행해 온 이탈리아 타이어 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pirelli.com/",
+  "entityLinks": {
+   "wikidata": "Q207770",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q207770",
+    "https://ko.wikipedia.org/wiki/%ED%94%BC%EB%A0%90%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Pirelli"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q207770",
+   "country": "이탈리아",
+   "inception": "1872",
+   "headquarters": "밀라노",
+   "founders": [
+    "조반니 바티스타 피렐리"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Pirelli」 본문과 위키데이터 Q207770 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2809884",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "zotler-brewery",
+  "urlSlug": "zotler-brewery",
+  "name": "Zötler Brewery",
+  "nameKo": "",
+  "nameEn": "Zötler Brewery",
+  "definition": "Zötler Brewery는 독일 알고이 지방의 Rettenberg에 있는 전통 양조장이다. 1447년에 세워진 양조장에서 역사가 시작되며, 연간 생산량은 약 45,000헥토리터이다.",
+  "summary": "Zötler Brewery는 독일 알고이 지방의 Rettenberg에 있는 전통 양조장이다. 1447년에 세워진 양조장에서 역사가 시작되며, 연간 생산량은 약 45,000헥토리터이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "Grünten 산기슭에서 1447년에 세워진 양조장의 역사를 잇는 알고이의 독립 민영 양조장으로, 맥주와 함께 Libella 청량음료도 생산한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 알고이 지방 Rettenberg에 본사를 둔 전통 양조장이다. Privat-Brauerei Zötler라는 이름으로도 불리며 연간 생산량은 약 45,000헥토리터이다. 역사는 Grünten 산기슭에서 1447년에 세워진 양조장까지 거슬러 올라간다. 1447 Naturtrüb, Zötler Gold, Privat-Pils, Hefeweizen, Festbier, Maibock, St. Stephansbock, Korbinian Dunkel 등 다양한 스타일의 맥주를 만들고, 청량음료 브랜드 Libella의 제품도 생산한다. 2009년에는 Postbrauerei Karl Meyer Nesselwang의 브랜드 권리와 고객을 인수했다. 2006년에 설립된 유럽 독립 민영 양조장 연합 Die Freien Brauer에도 속한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 독일 알고이 지방 Rettenberg에 있으며, 역사는 Grünten 산기슭에서 1447년에 세워진 양조장까지 거슬러 올라간다. 전통 양조장이며 Privat-Brauerei Zötler라는 이름으로도 불린다. 2006년에는 유럽 독립 민영 양조장 연합인 Die Freien Brauer가 설립되었고, 이 양조장은 그 일원이다. 2009년 8월 10일 Postbrauerei Karl Meyer Nesselwang의 브랜드 권리와 고객을 인수했으며, 매매 계약의 기준일은 2009년 12월 1일이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 맥주이며, 대표 제품으로는 1447 Naturtrüb, Zötler Gold, Privat-Pils 등이 있다. 밀맥주 계열에는 Hefeweizen의 밝은 색(Light)과 어두운 색(Dark) 제품, 그리고 Hefeweizen leicht가 있다. 그 밖에 St. Stephansbock, Korbinian Dunkel, Festbier, Maibock, Vollmond-Bier 등 다양한 스타일의 맥주도 생산한다. 맥주 외에 청량음료도 만들며, 청량음료 제품은 Libella 브랜드로 생산한다. 이 양조장의 연간 생산량은 약 45,000헥토리터이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "독일 Rettenberg에 본사를 둔 전통 양조장으로 연간 생산량은 약 45,000헥토리터이다. 2009년에 Postbrauerei Karl Meyer Nesselwang의 브랜드 권리와 고객을 인수했다. 2006년에 설립된 유럽 독립 민영 양조장 연합 Die Freien Brauer에 속한다. 맥주와 함께 청량음료 브랜드 Libella의 제품도 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Grünten 산기슭에서 1447년에 세워진 양조장의 역사를 잇는 알고이의 독립 민영 양조장으로, 맥주와 함께 Libella 청량음료도 생산한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.zoetler.de",
+  "entityLinks": {
+   "wikidata": "Q2809884",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2809884",
+    "https://en.wikipedia.org/wiki/Z%C3%B6tler_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2809884",
+   "country": "독일",
+   "inception": "1447",
+   "headquarters": "Rettenberg",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Zötler Brewery」 본문과 위키데이터 Q2809884 팩트를 근거로 편집"
+ }
+}

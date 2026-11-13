@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q338633",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kpn-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kpn",
+  "urlSlug": "kpn",
+  "name": "KPN",
+  "nameKo": "",
+  "nameEn": "KPN",
+  "definition": "KPN은 네덜란드의 통신 기업이다. 정부가 운영하던 우편·전신·전화 사업에서 출발해 1989년 민간 기업 형태로 개편되었으며, 정식 명칭은 Koninklijke KPN N.V.이다.",
+  "summary": "KPN은 네덜란드의 통신 기업이다. 정부가 운영하던 우편·전신·전화 사업에서 출발해 1989년 민간 기업 형태로 개편되었으며, 정식 명칭은 Koninklijke KPN N.V.이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "정부 우편·전신·전화 조직에서 출발해 민영화를 거친 네덜란드 통신 기업이며, 여러 차례 대형 인수 제안의 대상이 되었다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "KPN은 네덜란드의 통신 기업이며, 정부가 운영하던 우편·전신·전화 서비스에서 비롯되었다. 1893년 우편과 전신·전화 서비스가 하나로 합쳐져 PTT가 되었고, 1989년 1월 1일 Koninklijke PTT Nederland라는 민간 기업으로 개편되어 KPN이라 불리게 되었다. 네덜란드 정부는 1994년부터 단계적으로 민영화를 진행했다. 2005년 정부 지분은 6.4%로 줄었고, 2006년 golden share 거부권을 내려놓으며 절차가 끝났다. 2007년에는 Getronics N.V.를 인수해 규모를 거의 두 배로 키웠다. 2013년 América Móvil이 인수를 제안했으나 성사되지 않았고, 2020년에는 EQT AB가 인수를 제안했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "현재의 KPN은 1752년 Statenpost라는 우편 서비스로 공식 출범한 조직에 뿌리를 둔다. 1799년 네덜란드 우편이 단일 국가 체계로 개편되었고, 1807년 재무부 관할에 놓였다. 1893년 우편과 전신·전화가 합쳐져 Staatsbedrijf der Posterijen, Telegrafie en Telefonie가 되었고, 줄여서 PTT라 불렀다. 1989년 1월 1일 PTT는 Koninklijke PTT Nederland로 개편되어 KPN 또는 PTT Nederland로 불렸으며, 정부가 전액 소유하되 경영하지는 않았다. 우편은 PTT Post, 통신은 PTT Telecom이 맡아 서로 독립적으로 운영되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "KPN은 이동통신, IPTV, ICT 서비스 등으로 사업을 넓혔다. KPN Mobile은 2002년부터 2007년까지 자사 이동전화망에서 i-mode 서비스를 제공했고, KPN의 E-Plus는 2002년 3월 독일에서 i-mode를 선보였다. 2005년에는 IPTV 서비스 Mine을 내놓았다. 2007년 인수한 Getronics N.V.는 직원 22,000명 이상을 둔 세계적 ICT 서비스 회사였다. 2008년에는 Getronics의 네덜란드 부문인 Business Application Services를 CapGemini에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "네덜란드 정부는 2006년 golden share 거부권을 포기하며 민영화를 마쳤다. 2013년 8월 América Móvil이 나머지 지분 70%에 대한 인수를 제안했으나, Stichting Preferente Aandelen B KPN이 콜옵션을 행사해 약 50% 지분을 확보하면서 적대적 인수에 대한 임시 방어벽이 되었고 계획은 끝났다. 2020년 11월 EQT AB가 인수를 제안했고, 2021년 4월 EQT AB와 Stonepeak Infrastructure Partners가 공동으로 인수 입찰 작업을 시작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "정부 우편·전신·전화 조직에서 출발해 민영화를 거친 네덜란드 통신 기업이며, 여러 차례 대형 인수 제안의 대상이 되었다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kpn.com/",
+  "entityLinks": {
+   "wikidata": "Q338633",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q338633",
+    "https://ko.wikipedia.org/wiki/KPN",
+    "https://en.wikipedia.org/wiki/KPN"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q338633",
+   "country": "네덜란드",
+   "inception": "1989",
+   "headquarters": "헤이그",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「KPN」 본문과 위키데이터 Q338633 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q4035313",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/booking-com-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "booking-com",
+  "urlSlug": "booking-com",
+  "name": "북킹닷컴",
+  "nameKo": "북킹닷컴",
+  "nameEn": "booking.com",
+  "definition": "북킹닷컴(Booking.com)은 네덜란드 암스테르담에 본사를 둔 온라인 여행사이다. 부킹 홀딩스의 자회사이며 숙박 예약 서비스를 제공하는 대형 온라인 여행사 가운데 하나이다.",
+  "summary": "북킹닷컴(Booking.com)은 네덜란드 암스테르담에 본사를 둔 온라인 여행사이다. 부킹 홀딩스의 자회사이며 숙박 예약 서비스를 제공하는 대형 온라인 여행사 가운데 하나이다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "숙박 예약에 특화한 네덜란드 기반 온라인 여행사로, 220개가 넘는 국가와 40개가 넘는 언어로 서비스하며 '.com' 상표 판결의 당사자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 숙박 시설 예약 서비스를 제공하는 온라인 여행사이다. 호텔, 모텔, 리조트부터 아파트까지 다양한 숙박 시설을 다루며, 220개가 넘는 국가에서 40개가 넘는 언어로 서비스한다. 가장 큰 온라인 여행사 가운데 하나로 꼽힌다. 본사는 네덜란드 암스테르담에 있고 모기업은 부킹 홀딩스이다. 2020년에는 미국 연방대법원이 특허상표청 대 Booking.com B. V. 사건에서 '.com'이라는 접미사 덕분에 이 명칭이 일반 동사와 구별되는 정체성을 가지므로 상표로 인정될 수 있다고 판단했다. 2023년에는 ChatGPT 기반의 인공지능 여행 플래너 시험을 시작한다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1996년 University of Twente 학생이던 Geert-Jan Bruinsma가 Bookings.nl을 세웠다. 2000년 Bookings.nl이 Bookings Online과 합병해 Booking.com이 만들어졌고, 이름과 URL이 Booking.com으로 바뀌면서 Stef Noorden이 CEO로 임명되었다. 2005년 7월 Priceline Group(현 Booking Holdings)이 이 회사를 $133 million에 인수했다. 이후 1998년 사촌 사이인 Andy Phillipps와 Adrian Critchlow가 세운 유럽 호텔 예약업체 ActiveHotels.com과 합쳐졌고, 2006년 Active Hotels Limited가 Booking.com Limited로 사명을 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 서비스는 호텔, 모텔, 리조트, 아파트 등 숙박 시설의 예약이다. 2010년부터 2012년 사이에 iPad, Android, iPhone, iPod Touch, Windows 8, Kindle Fire용 모바일 앱을 출시했다. 2023년 여름에는 ChatGPT를 기반으로 방향 선택, 경로 계획, 질문 응답을 돕는 인공지능 여행 플래너를 시험하기 시작했으며, 이 서비스는 일부 미국 이용자에게 한정해 제공되었다. 같은 해 11월에는 World Travel Holdings와 제휴해 미국에서 크루즈 예약 기능을 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 회사는 부킹 홀딩스의 자회사로 운영되며, 2019년 Gillian Tans가 사임한 뒤 Glenn Fogel이 경영을 이어받았다. 유럽 경쟁 당국의 규제와 소송이 이어져 왔으며, 2026년 7월에는 유럽 호텔 10,000곳 이상이 가격 설정의 자유 제한 등 경쟁 제한 행위를 이유로 집단 소송에 참여했다고 보도되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "숙박 예약에 특화한 네덜란드 기반 온라인 여행사로, 220개가 넘는 국가와 40개가 넘는 언어로 서비스하며 '.com' 상표 판결의 당사자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.booking.com",
+  "entityLinks": {
+   "wikidata": "Q4035313",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4035313",
+    "https://ko.wikipedia.org/wiki/Booking.com",
+    "https://en.wikipedia.org/wiki/Booking.com"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4035313",
+   "country": "영국",
+   "inception": "1996",
+   "headquarters": "암스테르담",
+   "founders": [],
+   "parent": "부킹 홀딩스",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Booking.com」 본문과 위키데이터 Q4035313 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q156959",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/merck-kgaa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "merck-kgaa",
+  "urlSlug": "merck-kgaa",
+  "name": "머크 그룹",
+  "nameKo": "머크 그룹",
+  "nameEn": "Merck KGaA",
+  "definition": "머크 그룹(Merck KGaA)은 독일의 과학기술기업이다. 의약, 생명과학, 전자 소재 분야의 제품을 생산하며, 1668년 다름슈타트에서 시작해 본사를 여전히 그곳에 두고 있다.",
+  "summary": "머크 그룹(Merck KGaA)은 독일의 과학기술기업이다. 의약, 생명과학, 전자 소재 분야의 제품을 생산하며, 1668년 다름슈타트에서 시작해 본사를 여전히 그곳에 두고 있다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "현존하는 가장 오래된 과학기술기업으로, 1668년 약국에서 출발해 의약·생명과학·전자 소재를 아우르는 독일 기업이다. 미국·캐나다에서는 EMD 명칭을 쓴다는 점도 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "머크 그룹(Merck KGaA)은 독일의 과학기술기업이다. 화학 분야에서는 반도체용 소재, 딜리버리 시스템 앤 서비스, 액정 및 OLED 디스플레이용 소재, 기능성 특수안료, 생명과학 산업용 장비와 시약을 생산한다. 의약 분야에서는 항암, 난임치료, 성장호르몬, 다발성 경화증 등 전문 신약 개발로 알려져 있다. 17세기 이래 사업을 계속하고 있어 현존하는 가장 오래된 과학기술기업이다. 의약, 생명과학, 전자 소재를 생산하는 글로벌 기업이며, 디스플레이 소재와 반도체 소재를 통해 전자산업 분야에서 중요한 위치를 차지한다. 프랑크푸르트 시장 표기는 MRK이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1668년 독일 다름슈타트에서 Friedrich Jacob Merck가 천사약국을 인수하며 시작되었다. 이후 머크 가문의 후손들은 다름슈타트에서 대대로 약국을 운영했다. 19세기에 집안 사람 중 하나인 Emanuel Merck가 화학 사업까지 확대하며 회사를 성장시켰다. 액정은 1888년에 세계 최초로 개발했다. 미국의 MSD는 본래 머크 가문의 자회사로 출발했으나, 세계대전으로 미국 정부에 의해 머크앤드컴퍼니로 새롭게 출발한 회사이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "화학 분야에서는 반도체용 소재, 딜리버리 시스템 앤 서비스, 액정 및 OLED 디스플레이용 소재, 기능성 특수안료를 생산한다. 생명과학 산업을 위한 장비와 시약도 공급한다. 의약 분야에서는 항암, 난임치료, 성장호르몬, 다발성 경화증 등을 다루는 전문 신약을 개발한다. 제품군은 전자 소재, 생명과학용 장비와 시약, 전문 의약품에 걸쳐 있다. 액정은 1888년에 세계 최초로 개발했으며, 디스플레이 소재와 반도체 소재는 전자산업에서 중요한 위치를 차지한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 여전히 다름슈타트에 있으며, 미국과 캐나다를 제외한 190여개 국가에서 머크라는 브랜드를 사용한다. 미국과 캐나다에서는 머크앤드컴퍼니와의 협약에 따라 Emanuel Merck, Darmstadt의 약자인 EMD라는 명칭을 사용한다. 의약, 생명과학, 전자 소재를 생산하는 글로벌 기업이며 프랑크푸르트 시장 표기는 MRK이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "현존하는 가장 오래된 과학기술기업으로, 1668년 약국에서 출발해 의약·생명과학·전자 소재를 아우르는 독일 기업이다. 미국·캐나다에서는 EMD 명칭을 쓴다는 점도 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.merckgroup.com",
+  "entityLinks": {
+   "wikidata": "Q156959",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q156959",
+    "https://ko.wikipedia.org/wiki/%EB%A8%B8%ED%81%AC_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Merck_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q156959",
+   "country": "독일",
+   "inception": "1668",
+   "headquarters": "다름슈타트",
+   "founders": [
+    "Friedrich Jacob Merck",
+    "Heinrich Emanuel Merck",
+    "Carl Merck"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「머크 그룹」 요약과 위키데이터 Q156959 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

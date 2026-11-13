@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2359534",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "stuttgarter-hofbrau",
+  "urlSlug": "stuttgarter-hofbrau",
+  "name": "Stuttgarter Hofbräu",
+  "nameKo": "",
+  "nameEn": "Stuttgarter Hofbräu",
+  "definition": "Stuttgarter Hofbräu는 독일 바덴뷔르템베르크주 슈투트가르트에 있는 맥주 양조장이다. 1872년에 설립되었으며 슈투트가르트의 전통 맥주로, Cannstatter Volksfest에서 제공되는 세 맥주 브랜드 중 하나이다.",
+  "summary": "Stuttgarter Hofbräu는 독일 바덴뷔르템베르크주 슈투트가르트에 있는 맥주 양조장이다. 1872년에 설립되었으며 슈투트가르트의 전통 맥주로, Cannstatter Volksfest에서 제공되는 세 맥주 브랜드 중 하나이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "슈투트가르트의 전통 맥주로 불리며 Cannstatter Volksfest에서 제공되는 세 맥주 브랜드 중 하나라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "독일 바덴뷔르템베르크주 슈투트가르트에 본사를 둔 맥주 양조장이다. 1872년에 설립되어 오랜 역사를 지니고 있다. 슈투트가르트시의 전통 맥주로 불리며, Cannstatter Volksfest에서 제공되는 세 가지 맥주 브랜드 중 하나이다. 제품은 모두 유리병에 담겨 판매되며 병의 모양, 크기, 색상, 마개는 제품에 따라 다를 수 있다. 라인업에는 Pilsner, Herren Pils, Export, 무알코올 맥주, 샨디 같은 필스너 계열 제품과 Volksfest Beer, Christmas Beer 같은 계절 제품이 있다. 이 밖에 Bügel Premium, Kellerbier, 밀맥주, Käpsele 계열 제품도 선보이고 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 모두 유리병에 담겨 있으며 병의 모양, 크기, 색상, 마개가 서로 다를 수 있다. Pilsner 분류에는 Pilsner, Herren Pils, Export, 무알코올 맥주, 샨디가 있다. 계절 제품으로는 Volksfest Beer, Frülingsfest Beer, Christmas Beer가 있다. Flip-top 분류에는 Bügel Premium이 있고, Kellerbier, 밀맥주, Käpsele, Käpsele Helles도 제품 목록에 포함된다. 제품 목록은 필스너, 계절 제품, 플립톱 병 제품, 밀맥주로 나뉜다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "슈투트가르트의 전통 맥주로 불리며 Cannstatter Volksfest에서 제공되는 세 맥주 브랜드 중 하나라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.stuttgarter-hofbraeu.de/",
+  "entityLinks": {
+   "wikidata": "Q2359534",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2359534",
+    "https://en.wikipedia.org/wiki/Stuttgarter_Hofbr%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2359534",
+   "country": "독일",
+   "inception": "1872",
+   "headquarters": "슈투트가르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Stuttgarter Hofbräu」 본문과 위키데이터 Q2359534 팩트를 근거로 편집"
+ }
+}

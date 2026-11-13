@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q840045",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/renault-trucks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "renault-trucks",
+  "urlSlug": "renault-trucks",
+  "name": "르노트럭",
+  "nameKo": "르노트럭",
+  "nameEn": "Renault Trucks",
+  "definition": "르노트럭(Renault Trucks)은 프랑스의 자동차 제조사로, 트럭을 중심으로 버스와 군용 차량 등을 생산해 왔으며 현재 볼보를 모기업으로 두고 있다.",
+  "summary": "르노트럭(Renault Trucks)은 프랑스의 자동차 제조사로, 트럭을 중심으로 버스와 군용 차량 등을 생산해 왔으며 현재 볼보를 모기업으로 두고 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "사비엠과 베를리에의 합병으로 출범한 프랑스의 트럭 제조사이며, 현재는 볼보 산하에서 맥 트럭, UD트럭 등과 같은 계열을 이룬다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "르노트럭은 프랑스 리옹에 본사를 둔 자동차 제조사이다. 트럭을 중심으로 버스, 코치, 트롤리버스, 군용 차량까지 폭넓은 차종을 생산해 온 이력이 있다. 1978년 사비엠과 베를리에라는 별개의 두 자동차 제조사가 합병하면서 설립되었다. 1990년 미국의 맥 트럭을 인수했으나 2001년 맥 트럭과 함께 볼보트럭에 인수되어 자회사로 편입되었다. 현재는 볼보를 모기업으로 두며, 볼보 산하에는 일본의 UD트럭, 스웨덴의 볼보트럭, 미국의 맥 트럭이 같은 계열사로 거론된다. 현재 생산 차종에는 트럭 라인업인 르노 트럭 D, C, K, T와 함께 르노 마스터, 르노 맥시티, 군용 차량 르노 셰르파 2가 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "르노트럭은 1978년 사비엠과 베를리에라는 두 자동차 제조사가 합병하면서 설립되었다. 두 회사는 그전까지 각각 별도의 자동차 메이커로 존재했다. 창업자로는 Marius Berliet와 Louis Renault가 기록되어 있다. 합병 이후 1990년에는 미국의 트럭 제조업체인 맥 트럭을 인수하며 사업 범위를 미국으로 넓혔다. 2001년에는 맥 트럭과 함께 볼보트럭에 인수되어 자회사로 편입되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산 차종은 트럭과 군용 차량으로 나뉜다. 트럭에는 르노 마스터, 르노 맥시티, 르노 트럭 D, 르노 트럭 C, 르노 트럭 K, 르노 트럭 T가 있고, 군용 차량으로는 르노 셰르파 2가 있다. 과거에는 르노 매그넘, 르노 프리미엄, 르노 케락스 같은 트럭과 닷지 100 \"코만도\" 등 닷지 계열 트럭도 생산했다. 버스로는 르노 PR180, 르노 PR100, 르노 트레이서 등이, 코치로는 르노 PR14와 르노 FR1 등이, 트롤리버스로는 르노 치비스와 르노 ER100 등이 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "르노트럭은 2001년 볼보트럭에 인수된 이후 볼보를 모기업으로 두고 있다. 본사는 프랑스 리옹에 있으며, 볼보 산하의 일본 UD트럭, 스웨덴 볼보트럭, 미국 맥 트럭과 같은 계열 관계에 놓여 있다. 현재는 르노 트럭 D, C, K, T와 르노 마스터, 르노 맥시티, 르노 셰르파 2를 생산 차종으로 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사비엠과 베를리에의 합병으로 출범한 프랑스의 트럭 제조사이며, 현재는 볼보 산하에서 맥 트럭, UD트럭 등과 같은 계열을 이룬다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.renault-trucks.com",
+  "entityLinks": {
+   "wikidata": "Q840045",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q840045",
+    "https://ko.wikipedia.org/wiki/%EB%A5%B4%EB%85%B8%ED%8A%B8%EB%9F%AD",
+    "https://en.wikipedia.org/wiki/Renault_Trucks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q840045",
+   "country": "프랑스",
+   "inception": "2000",
+   "headquarters": "리옹",
+   "founders": [
+    "Marius Berliet",
+    "루이 르노"
+   ],
+   "parent": "볼보",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「르노트럭」 요약과 위키데이터 Q840045 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

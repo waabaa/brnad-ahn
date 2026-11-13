@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q622062",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/aprilia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "aprilia",
+  "urlSlug": "aprilia",
+  "name": "아프릴리아",
+  "nameKo": "아프릴리아",
+  "nameEn": "Aprilia",
+  "definition": "아프릴리아(Aprilia)는 이탈리아 노알레에 본사를 둔 오토바이·스쿠터 제조 브랜드이다. 자전거 공장으로 출발해 모터사이클 레이싱에서 많은 승리를 거두었으며 현재 피아지오 산하에 있다.",
+  "summary": "아프릴리아(Aprilia)는 이탈리아 노알레에 본사를 둔 오토바이·스쿠터 제조 브랜드이다. 자전거 공장으로 출발해 모터사이클 레이싱에서 많은 승리를 거두었으며 현재 피아지오 산하에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "레이싱 성과가 두드러지는 이탈리아 브랜드로, 125·250cc 클래스 그랑프리 124승과 로드 레이싱 세계 챔피언십 15회 우승을 기록했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아프릴리아는 이탈리아 노알레에 본사를 둔 오토바이와 스쿠터 제조업체이다. 1945년 설립되었으며 베네치아 주 노알레에서 자전거를 만드는 공장으로 시작했다. 1968년 Ivano Beggio가 회사를 이끌며 50cc 오토바이를 만들었고, 이후 도로 경주와 오프로드 대회에서 성과를 쌓았다. 1999년에는 RSV Mille로 월드 슈퍼바이크 챔피언십에 출전했고, 2000년에는 모토 구찌와 라베르다를 인수했다. 2010년 8월 15일 276번째 승리를 거두어 모터사이클 레이싱 역사상 가장 성공한 브랜드가 되었다. 2004년 피아지오 & C. SpA에 인수되어 현재 피아지오 산하의 브랜드이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아프릴리아는 2차 세계대전 이후 Cavaliere Alberto Beggio가 이탈리아 베네치아 주 노알레의 자전거 생산 공장으로 설립했다. 이름은 전쟁 이전의 Lancia Aprilia에서 따왔다. 1968년 아들 Ivano Beggio가 회사를 이어받아 50cc 오토바이를 제작했다. 첫 양산 모페드는 Colibrì, Daniela, Packi였다. 1970년에는 모토크로스 바이크 Scarabeo를 생산했으며 1970년대 말까지 이어졌다. 1980년대에는 50~600cc 엔듀로, 트라이얼, 도로용 모델을 추가했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품으로 1998년 출시한 1000cc V-Twin 슈퍼바이크 RSV Mille이 있다. 같은 해 스포츠 투어러 Falco도 선보였으며 두 모델 모두 Rotax 1000cc 엔진의 변형을 사용했다. 1990년에는 오프로드 기계 구조에서 파생한 도로용 Pegaso 600을, 1995년에는 2행정 스포츠 바이크 RS 125와 RS 250을 출시했다. 2000년에는 스쿠터용 50cc 2행정 DiTech 엔진과 어드벤처 투어링 모델 ETV 1000 Caponord를 내놓았다. 2003년 출시한 RSV Mille Tuono는 모토크로스식 높은 핸들바를 단 모델로, 주요 오토바이 잡지 다수가 올해의 바이크로 꼽았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2004년 피아지오 & C. SpA에 인수되었고, 인수 후 피아지오 & C. 회장 Roberto Colaninno가 아프릴리아 회장을, Rocco Sabelli가 상무이사를 맡았다. 창업자의 아들 Ivano Beggio는 명예회장이었으며 2018년 3월 13일 사망했다. 이 인수로 피아지오는 세계 4위 규모의 모터사이클 그룹을 이루었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "레이싱 성과가 두드러지는 이탈리아 브랜드로, 125·250cc 클래스 그랑프리 124승과 로드 레이싱 세계 챔피언십 15회 우승을 기록했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.aprilia.com/",
+  "entityLinks": {
+   "wikidata": "Q622062",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q622062",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%94%84%EB%A6%B4%EB%A6%AC%EC%95%84_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Aprilia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q622062",
+   "country": "이탈리아",
+   "inception": "1945",
+   "headquarters": "노알레",
+   "founders": [],
+   "parent": "피아지오",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Aprilia」 본문과 위키데이터 Q622062 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

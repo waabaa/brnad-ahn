@@ -189,7 +189,22 @@ export function factRows(brand) {
     let host = site; try { host = new URL(site).hostname.replace(/^www\./, ""); } catch {}
     rows.push({ label: "공식 사이트", value: host, href: site, external: true, source: "data" });
   }
+  const wa = brand.webArchive;
+  if (wa && /^\d{4}-\d{2}/.test(wa.firstCapture || "")) rows.push({ label: "웹 첫 보관", value: `${wa.firstCapture.slice(0, 4)}년 ${Number(wa.firstCapture.slice(5, 7))}월`, href: wa.snapshot, external: true, source: "archive" });
+  const sec = brand.secFacts;
+  if (sec && sec.tickers?.length) {
+    const cik = Number(sec.cik);
+    rows.push({ label: "상장", value: `${sec.exchanges?.[0] ? `${sec.exchanges[0]} · ` : ""}${sec.tickers.join(", ")}`, href: `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${cik}&type=10-K`, external: true, source: "sec" });
+    const r = sec.revenue;
+    if (r && r.usd > 0 && r.accn) rows.push({ label: "연 매출", value: `${formatUsd(r.usd)} (${r.end.slice(0, 4)}.${r.end.slice(5, 7)} 결산)`, href: `https://www.sec.gov/Archives/edgar/data/${cik}/${r.accn.replace(/-/g, "")}/`, external: true, source: "sec" });
+  }
   return rows;
+}
+
+/** 달러 금액을 "3,910억 달러" / "850만 달러"로. 반올림만 하고 환율 환산은 하지 않는다. */
+function formatUsd(usd) {
+  if (usd >= 1e8) return `${Math.round(usd / 1e8).toLocaleString("ko-KR")}억 달러`;
+  return `${Math.round(usd / 1e4).toLocaleString("ko-KR")}만 달러`;
 }
 
 /** 주격/보조사 — "구찌는" / "삼성은". 원어 표기는 "는"으로 통일한다. */

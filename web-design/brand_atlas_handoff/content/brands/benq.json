@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q714335",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/benq-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "benq",
+  "urlSlug": "benq",
+  "name": "벤큐",
+  "nameKo": "벤큐",
+  "nameEn": "BenQ",
+  "definition": "벤큐(BenQ)는 타이완 타이베이에 본사를 둔 기술·가전 기업으로, 모니터, 프로젝터, 인터랙티브 디스플레이, 조명, e스포츠 장비 등을 판매하는 브랜드이다.",
+  "summary": "벤큐(BenQ)는 타이완 타이베이에 본사를 둔 기술·가전 기업으로, 모니터, 프로젝터, 인터랙티브 디스플레이, 조명, e스포츠 장비 등을 판매하는 브랜드이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Acer Group의 서브 브랜드에서 독립한 타이완 기업으로, 모니터와 프로젝터를 중심으로 하며 e스포츠 브랜드 ZOWIE를 함께 운영한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벤큐는 기술 제품, 가전, 컴퓨팅 및 통신 기기를 BenQ 브랜드로 판매하고 마케팅하는 타이완의 다국적 기업이다. 주요 제품 분야는 모니터, 프로젝터, 인터랙티브 디스플레이, 조명, e스포츠 장비, 원격 근무·학습, 무선 프레젠테이션과 기타 주변기기이다. 본사는 타이베이에 있으며 아시아·태평양, 유럽, 중국, 중남미, 북미 등에 지사를 두고 있다. 전 세계 직원은 1700명 이상이며, 브랜드는 세계 소매 채널에서 흔히 볼 수 있다. 합리적인 가격에 성능이 좋은 제품으로 평판을 쌓아 왔고 고급 제품에 점차 더 무게를 두고 있으며, 이들 제품은 여러 상을 받았다. 현재는 상장사 Qisda Corporation의 자회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "벤큐는 1984년 타이완 Acer Group 내의 서브 브랜드로 출발했다. 2001년 Acer에서 분사해 독립 조직이 되었고, 2006년에는 두 회사가 법적으로 사실상 분리되었다. 브랜드명은 'Bringing Enjoyment 'N' Quality to life'라는 슬로건을 나타낸다. 2005년에는 독일 Siemens와 협력해 BenQ-Siemens로 휴대전화 시장에 진입했고, 이후 BenQ Mobile로 독자 사업을 했으나 2015년까지 이 시장에서 철수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "벤큐의 가장 잘 알려진 제품은 모니터와 프로젝터 같은 디스플레이 기기와 주변기기이다. 디지털 사이니지, 인터랙티브 디스플레이, 조명 등 관련 기기도 만든다. 모니터는 iF Product Design Awards 등에서 여러 상을 받았으며, 게이밍 모니터 MOBIUZ 시리즈는 매우 높은 주사율 등의 특징으로 언급된다. 액세서리로는 Ergo Monitor Arm, USB·HDMI 도킹 장치, IdeaCam 시리즈 카메라가 있다. e스포츠 브랜드 ZOWIE는 모니터, 마우스 등 게이밍 액세서리를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "벤큐는 상장사 Qisda Corporation의 자회사이며, 이 관계는 2007년에 성립했다. 최근에는 프로 게이밍 주변기기 같은 고급·고품질 기기에 더 비중을 두고 있으며, 프로 e스포츠 분야의 후원과 연구에도 관심을 보인다. Futuresource Consulting에 따르면 2022년 1분기에 유럽에서 판매량 기준 선두 공급업체가 되어 4K 프로젝터 점유율 23.42%, Full HD 프로젝터 점유율 24.5%를 기록했다. 2025년에는 The New York Times가 TK710 레이저 프로젝터를 'The best budget 4K projector'로 선정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Acer Group의 서브 브랜드에서 독립한 타이완 기업으로, 모니터와 프로젝터를 중심으로 하며 e스포츠 브랜드 ZOWIE를 함께 운영한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://benq.com/",
+  "entityLinks": {
+   "wikidata": "Q714335",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q714335",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A4%ED%81%90",
+    "https://en.wikipedia.org/wiki/BenQ"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q714335",
+   "country": "중화민국",
+   "inception": "1984",
+   "headquarters": "타이베이시",
+   "founders": [],
+   "parent": "Qisda",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「BenQ」 본문과 위키데이터 Q714335 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

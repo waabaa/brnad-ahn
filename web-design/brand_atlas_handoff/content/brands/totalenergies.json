@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q154037",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/totalenergies-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "totalenergies",
+  "urlSlug": "totalenergies",
+  "name": "TotalEnergies",
+  "nameKo": "",
+  "nameEn": "TotalEnergies",
+  "definition": "TotalEnergies는 1924년에 설립된 프랑스의 다국적 종합 에너지·석유 기업이다. 원유와 천연가스 탐사·생산부터 발전, 운송, 정제, 석유제품 판매까지 석유·가스 전 과정을 다룬다.",
+  "summary": "TotalEnergies는 1924년에 설립된 프랑스의 다국적 종합 에너지·석유 기업이다. 원유와 천연가스 탐사·생산부터 발전, 운송, 정제, 석유제품 판매까지 석유·가스 전 과정을 다룬다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.616666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1924년 프랑스가 자국 석유회사로 세운 CFP에서 출발해, 석유·가스 전 과정과 화학까지 아우르는 프랑스 기반의 슈퍼메이저이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TotalEnergies SE는 프랑스의 다국적 종합 에너지·석유 기업으로, 7대 슈퍼메이저 석유회사 중 하나이다. 사업은 원유와 천연가스의 탐사·생산에서 발전, 운송, 정제, 석유제품 판매, 국제 원유·제품 거래에 이르기까지 석유·가스 전 과정에 걸쳐 있으며, 대규모 화학제품 제조사이기도 하다. 본사는 파리 서쪽 쿠르브부아의 라데팡스 지구에 있는 Tour Total에 있다. 유로 스톡스 50 지수의 구성 종목이며, 2023년 Forbes Global 2000에서 세계 21위 기업으로 평가되었다. 1924년 Compagnie Française des Pétroles(CFP)라는 이름으로 설립되었고, 1985년 Total CFP, 1991년 Total, 2000년 TotalFinaElf를 거쳐 2003년 다시 Total이라는 이름을 쓰게 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1차 세계대전 이후 새로운 전쟁에 대비해 석유가 중요하게 여겨지던 시기에 회사가 세워졌다. 당시 프랑스 대통령 Raymond Poincaré는 Royal Dutch Shell과의 제휴 대신 순수 프랑스 석유회사의 설립을 택했고, 그의 요청에 따라 1924년 Ernest Mercier 대령이 90개 은행·기업의 지원을 받아 Compagnie Française des Pétroles(CFP)를 설립했다. 1920년 산레모 회의 합의에 따라 프랑스는 Deutsche Bank이 보유하던 Turkish Petroleum Company 지분 25%를 받았고 이는 CFP로 이전되었으며, 회사는 1929년 파리 증권거래소에 상장되었다. 1930년대에는 주로 중동에서 탐사·생산을 했고, 첫 정유소가 1933년 노르망디에서 가동되었다. 1954년에는 아프리카와 유럽에서 하류 부문 제품에 Total 브랜드를 붙였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 원유·천연가스 탐사 및 생산, 발전, 운송, 정제, 석유제품 판매, 국제 원유·제품 거래로 구성된다. 대규모 화학제품 제조 사업도 운영한다. 하류 부문 제품은 1954년부터 아프리카와 유럽에서 Total 브랜드로 판매되었다. 1996년에는 Girassol 유전이 발견되어 운영되었다. 1971년 미국에 진출해 북미에서 주유소와 편의점을 운영했으나, 이후 북미 정제·소매 사업을 Ultramar Diamond Shamrock에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 본사는 쿠르브부아 라데팡스 지구의 Tour Total에 있으며 유로 스톡스 50 지수의 구성 종목이다. 2023년 Forbes Global 2000에서 세계 21위 기업으로 평가되었다. 프랑스 정부는 1991년 30% 이상이던 지분을 1996년까지 1% 미만으로 줄였다. 7대 슈퍼메이저 석유회사 중 하나로 분류된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1924년 프랑스가 자국 석유회사로 세운 CFP에서 출발해, 석유·가스 전 과정과 화학까지 아우르는 프랑스 기반의 슈퍼메이저이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.total.com/",
+  "entityLinks": {
+   "wikidata": "Q154037",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q154037",
+    "https://ko.wikipedia.org/wiki/%ED%86%A0%ED%83%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/TotalEnergies"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q154037",
+   "country": "프랑스",
+   "inception": "1924",
+   "headquarters": "쿠르브부아",
+   "founders": [
+    "Ernest Mercier"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「TotalEnergies」 본문과 위키데이터 Q154037 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q806693",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/bank-of-montreal-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bank-of-montreal",
+  "urlSlug": "bank-of-montreal",
+  "name": "몬트리올 은행",
+  "nameKo": "몬트리올 은행",
+  "nameEn": "Bank of Montreal",
+  "definition": "몬트리올 은행(Bank of Montreal)은 1817년에 설립된 캐나다의 은행이다. 캐나다에서 세 번째로 큰 은행이며, 캐나다에서 가장 오래된 은행이다.",
+  "summary": "몬트리올 은행(Bank of Montreal)은 1817년에 설립된 캐나다의 은행이다. 캐나다에서 세 번째로 큰 은행이며, 캐나다에서 가장 오래된 은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "1817년 설립된 캐나다에서 제일 오래된 은행으로, 본사를 토론토로 옮긴 뒤에도 법적 본사는 몬트리올에 두고 BMO 금융그룹에 속해 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "몬트리올 은행은 캐나다에 기반을 둔 은행으로, 규모 면에서 캐나다에서 세 번째로 큰 은행이다. 이 은행은 BMO 금융그룹(Bank Of Montreal Financial Group)의 계열사이며, 프랑스어 표기는 Banque de Montréal이다. 1817년에 설립되어 캐나다에서 제일 오래된 은행이며, 1977년에 본사를 토론토로 이전했지만 법적 본사는 몬트리올에 있다. 포브스 선정 글로벌 2000대 기업 중 84위를 차지했다. 캐나다를 비롯해 전 세계에 1,100개가 넘는 지점을 갖춘 세계적인 은행으로 성장했다. 2025년 8월 손흥민이 새로 이적한 LAFC의 유니폼 중앙에 적힌 스폰서이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "몬트리올 은행은 1817년 11월 3일 캐나다 퀘벡주 몬트리올에서 창립했다. 창업자로는 John Richardson, Robert Armour, Austin Cuvillier가 알려져 있다. 1868년 Commercial Bank of Canada를 인수한 것을 시작으로 1925년 Molson Bank까지 여러 은행을 인수했다. 그 사이 Exchange Bank of Yarmouth(1903년), People's Bank of Halifax(1905년), People's Bank of New Brunswick(1907년), Bank of British North America(1918년), Merchants Bank of Canada(1922년)를 차례로 인수했다. 1977년에는 본사를 몬트리올에서 캐나다 금융의 중심지인 토론토로 이전했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 캐나다에서 세 번째로 큰 은행이며, BMO 금융그룹의 계열사이다. 포브스 선정 글로벌 2000대 기업 중 84위를 차지했다. 캐나다를 비롯해 전 세계에 1,100개가 넘는 지점을 두고 있으며, 2025년 8월에는 손흥민이 새로 이적한 LAFC의 유니폼 중앙에 스폰서로 이름을 올렸다. 실질적인 본사는 토론토로 옮겼으나 법적 본사는 몬트리올에 적을 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1817년 설립된 캐나다에서 제일 오래된 은행으로, 본사를 토론토로 옮긴 뒤에도 법적 본사는 몬트리올에 두고 BMO 금융그룹에 속해 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bmo.com/",
+  "entityLinks": {
+   "wikidata": "Q806693",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q806693",
+    "https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%8A%B8%EB%A6%AC%EC%98%AC_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Bank_of_Montreal"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q806693",
+   "country": "캐나다",
+   "inception": "1817",
+   "headquarters": "Bank of Montreal Head Office, Montreal",
+   "founders": [
+    "John Richardson",
+    "Robert Armour",
+    "Austin Cuvillier"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「몬트리올 은행」 요약과 위키데이터 Q806693 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

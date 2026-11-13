@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q865859",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/peroni-brewery-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "peroni-brewery",
+  "urlSlug": "peroni-brewery",
+  "name": "페로니",
+  "nameKo": "페로니",
+  "nameEn": "Peroni Brewery",
+  "definition": "페로니(Peroni Brewery)는 1846년 Francesco Peroni가 이탈리아 Vigevano에서 세운 이탈리아의 맥주 양조 회사이다. 주요 브랜드는 Peroni와 Nastro Azzurro이다.",
+  "summary": "페로니(Peroni Brewery)는 1846년 Francesco Peroni가 이탈리아 Vigevano에서 세운 이탈리아의 맥주 양조 회사이다. 주요 브랜드는 Peroni와 Nastro Azzurro이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "이탈리아에서 가장 많이 팔리는 맥주 Peroni와 프리미엄 라거 Nastro Azzurro를 내세우며, 바다와 항해를 주제로 한 광고와 모터스포츠 후원으로 알려진 양조 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페로니는 이탈리아의 맥주 양조 회사로, 원래 브랜드인 Peroni와 프리미엄 라거 Nastro Azzurro를 주력으로 한다. Assobirra에 따르면 Peroni는 이탈리아에서 가장 많이 팔리는 맥주이다. 1990년대에는 브랜드와 제품군이 전 세계에 유통되어 알려졌고, 2019년에는 세계에서 가장 인기 있는 이탈리아 맥주 다섯 가운데 하나였다. 2003년 SABMiller가 회사를 인수했고, 2016년 Asahi Breweries가 Peroni, Grolsch, Meantime 브랜드를 SABMiller로부터 인수했다. 현재 Peroni는 Asahi 산하 브랜드이며, 미국에서는 Molson Coors가 Albany, Georgia 양조장에서 생산한다. Aston Martin F1 Team, Scuderia Ferrari HP와도 파트너십을 맺었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "페로니는 1846년 Francesco Peroni가 이탈리아 Vigevano에서 가족 성을 따서 설립했다. 사업이 번창해 두 번째 양조장이 로마에 세워졌고, Giovanni Peroni가 1864년 회사를 로마로 옮겼다. 이는 로마가 이탈리아의 수도가 된 1870년보다 6년 앞선 일이다. 19세기 후반과 20세기 초에 걸쳐 회사는 갓 통일된 이탈리아에서 가장 두드러진 양조 회사 가운데 하나가 되었다. 1960년대 확장기에 Nastro Azzurro는 바다와 항해를 주제로 한 광고 캠페인을 여러 차례 선보였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Peroni는 회사의 원래 브랜드로, 알코올 도수 4.7%이며 보리 맥아, 옥수수, 홉 펠릿, 홉 추출물로 만든다. 레몬 맛 제품 chill lemon도 있다. Nastro Azzurro는 1963년 출시된 도수 5.0%의 페일 라거로, 회사의 프리미엄 라거 브랜드이다. 이름은 이탈리아어로 'Blue Ribbon'을 뜻하며, 1933년 이탈리아 여객선 SS Rex가 차지한 Blue Riband를 기리는 것이다. 그 밖에 Peroni Gran Riserva, Peroni Leggera, Peroni Capri 등이 있고, 1829년 Brescia에서 출시된 Wührer 브랜드도 생산한다. 무알코올 맥주 Peroni Libera 0.0%도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "페로니는 2016년 2월 Asahi가 SABMiller로부터 인수한 이후 Asahi 산하에 있다. 이 분할은 AB InBev의 SABMiller 인수를 위한 조건이었다. 2024년 여름 Molson Coors가 Albany, Georgia에서 Nastro Azzurro의 미국 현지 생산을 시작했고, 2025년 Asahi는 일본 시장용 캔 제품을 출시했다. 2024년에는 Scuderia Ferrari HP가 다년 파트너십을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이탈리아에서 가장 많이 팔리는 맥주 Peroni와 프리미엄 라거 Nastro Azzurro를 내세우며, 바다와 항해를 주제로 한 광고와 모터스포츠 후원으로 알려진 양조 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.birraperoni.it/",
+  "entityLinks": {
+   "wikidata": "Q865859",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q865859",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A1%9C%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Peroni"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q865859",
+   "country": "이탈리아",
+   "inception": "1846",
+   "headquarters": "로마",
+   "founders": [
+    "Francesco Peroni"
+   ],
+   "parent": "SAB밀러",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Peroni」 본문과 위키데이터 Q865859 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

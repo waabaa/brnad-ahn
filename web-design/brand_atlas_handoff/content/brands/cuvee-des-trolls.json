@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1146659",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cuvee-des-trolls",
+  "urlSlug": "cuvee-des-trolls",
+  "name": "Cuvée des Trolls",
+  "nameKo": "",
+  "nameEn": "Cuvée des Trolls",
+  "definition": "Cuvée des Trolls는 벨기에 Pipaix의 Dubuisson Brewery와 Brasse-Temps 소규모 양조장에서 만드는 맥주이다. 알코올 도수는 7%이다.",
+  "summary": "Cuvée des Trolls는 벨기에 Pipaix의 Dubuisson Brewery와 Brasse-Temps 소규모 양조장에서 만드는 맥주이다. 알코올 도수는 7%이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "홉 열매 모양의 초록색 모자를 쓴 작은 트롤 로고와, 말린 오렌지 껍질을 넣어 만든 7% 라거라는 점이 특징이다. 학생 도시 Louvain-la-Neuve의 소규모 양조장에서 출발했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 맥주는 벨기에의 Dubuisson Brewery가 Pipaix에서 양조하는 제품이며, Louvain-la-Neuve와 Mons의 Brasse-Temps 소규모 양조장에서도 만든다. 로고는 뾰족한 코를 가진 작은 트롤이며, 홉 열매 모양의 초록색 모자를 쓰고 있다. 알코올 도수 7%이며 여과한 것과 여과하지 않은 것이 모두 있는 라거 맥주이다. 상쾌하고 향이 있으며 맛은 더 묵직하고 균형이 잡혀 있다. 병 또는 케그로 구할 수 있으며, 3 °C로 차게 마실 때 맛이 더 좋다. 2000년 9월 Brasse-Temps에서 처음 양조되었고, 2005년에는 생산량이 5000헥토리터에 이르렀다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2000년 9월부터 Louvain-la-Neuve의 소규모 양조장 Brasse-Temps에서 양조되기 시작했다. 이 양조장은 Dubuisson Brewery가 Louvain-la-Neuve에 만든 곳이다. 학생 도시인 이곳에서 즉각 성공을 거두자 Dubuisson Brewery는 왈로니아에 먼저 이 맥주를 내놓았고, 이어 브뤼셀, 마지막으로 플랑드르 지역과 해외로 확대했다. 2003년에는 Mons에 또 다른 Brasse-Temps가 세워졌고, 2005년에는 생산량이 5000헥토리터에 이르렀다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "벨기에에서 양조되는 이 맥주는 알코올 도수 7%의 라거가 중심 제품이며, 여과한 것과 여과하지 않은 것이 있다. 단맛이 나는 맥아즙에 홉과 말린 오렌지 껍질을 넣어 만들며, 상쾌하고 향이 있고 맛은 더 묵직하고 균형이 잡혀 있다. 발효 온도는 23 °C이며 일주일 동안 발효시킨다. Brasse-Temps에서 양조한 맥주는 여과하지 않고 가라앉히기만 하므로 효모가 그대로 남아 있다. 병 또는 케그로 구할 수 있으며, 3 °C로 차게 마실 때 맛이 더 좋다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Dubuisson Brewery의 Pipaix 양조장과 Louvain-la-Neuve, Mons의 Brasse-Temps 소규모 양조장에서 양조된다. Brasse-Temps는 2000년 Louvain-la-Neuve에서 시작해 2003년 Mons에 또 다른 양조장이 생겼다. 2005년 생산량은 5000헥토리터였다. 판매 지역은 왈로니아, 브뤼셀, 플랑드르 지역과 해외에 걸쳐 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "홉 열매 모양의 초록색 모자를 쓴 작은 트롤 로고와, 말린 오렌지 껍질을 넣어 만든 7% 라거라는 점이 특징이다. 학생 도시 Louvain-la-Neuve의 소규모 양조장에서 출발했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cuveedestrolls.com/",
+  "entityLinks": {
+   "wikidata": "Q1146659",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1146659",
+    "https://en.wikipedia.org/wiki/Cuv%C3%A9e_des_Trolls"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1146659",
+   "country": "벨기에",
+   "inception": "2000",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Cuvée des Trolls」 본문과 위키데이터 Q1146659 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q696787",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "warsteiner",
+  "urlSlug": "warsteiner",
+  "name": "바르슈타이너",
+  "nameKo": "바르슈타이너",
+  "nameEn": "Warsteiner",
+  "definition": "바르슈타이너(Warsteiner)는 독일 노르트라인베스트팔렌주 바르슈타인에서 양조되는 독일 맥주 브랜드이다. 1753년부터 크라머 가문이 소유해 왔다.",
+  "summary": "바르슈타이너(Warsteiner)는 독일 노르트라인베스트팔렌주 바르슈타인에서 양조되는 독일 맥주 브랜드이다. 1753년부터 크라머 가문이 소유해 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "바르슈타이너는 1753년부터 같은 가문이 소유해 온 독일 최대의 민간 소유 양조장이다. 모든 맥주를 1516년 바이에른 순수령에 따라 양조한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "바르슈타이너(Warsteiner)는 독일의 맥주 브랜드이다. 맥주는 노르트라인베스트팔렌주 바르슈타인 외곽의 Arnsberg Forest Nature Park에서 양조한다. 크라머 가문이 1753년부터 소유해 왔으며, 독일에서 가장 큰 민간 소유 양조장이다. 독일 맥주 판매 순위에서는 5위에 오른다. 가장 많이 팔리는 맥주는 Warsteiner Premium Verum이다. 모든 맥주는 1516년 바이에른 순수령에 따라 양조한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기록상 가장 이른 언급은 1753년의 세금 기록이다. 당시 바르슈타인의 농부 Antonius Cramer가 직접 양조해 판매한 맥주에 대해 세금을 냈다. 아들 Johannes Vitus는 아버지의 뒤를 이어 수제 맥주 판매를 바르슈타인 중심부의 자기 집으로 옮겼다. 1802년 큰 화재로 바르슈타인이 폐허가 되면서 크라머 가문의 사업도 피해를 입었다. 이후 집을 숙박 시설로 다시 지었고, 양조장 본사인 Domschänke는 바르슈타인의 역사적 중심지에 지금도 남아 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 필스너 스타일의 Warsteiner Premium Verum이며, 60여 개국에 수출한다. 알코올 도수는 4.8%이다. 두 번째로 인기 있는 Warsteiner Premium Dunkel은 전통 방식의 흑맥주로 도수가 4.8%이다. Warsteiner Premium Fresh는 유일한 무알코올 맥주로, Premium Verum과 같은 방식으로 양조한 뒤 알코올을 제거한다. König Ludwig Weissbier는 천연 효모로 만든 황금빛 헤페바이젠이며 도수는 5.5%이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "바르슈타이너는 1980년대부터 맥주를 해외로 수출해 왔다. 아르헨티나의 Isenbeck 양조장과 아프리카의 양조장 등 해외 양조장을 설립하거나 지분을 인수하기도 했다. 북미에서 판매하는 제품은 모두 독일 바르슈타인 양조장에서 만든다. 일부 해외 시장에서는 Mahou-San Miguel Group이 Warsteiner와 Koenig Ludwig 맥주를 라이선스로 양조하며, 영국에서는 James Clay & Sons가 수입한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "바르슈타이너는 1753년부터 같은 가문이 소유해 온 독일 최대의 민간 소유 양조장이다. 모든 맥주를 1516년 바이에른 순수령에 따라 양조한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://warsteiner-gruppe.de/",
+  "entityLinks": {
+   "wikidata": "Q696787",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q696787",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%A5%B4%EC%8A%88%ED%83%80%EC%9D%B4%EB%84%88",
+    "https://en.wikipedia.org/wiki/Warsteiner"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q696787",
+   "country": "독일",
+   "inception": "1753",
+   "headquarters": "Warstein",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Warsteiner」 본문과 위키데이터 Q696787 팩트를 근거로 편집"
+ }
+}

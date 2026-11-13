@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q278905",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "a-le-coq",
+  "urlSlug": "a-le-coq",
+  "name": "A. Le Coq",
+  "nameKo": "",
+  "nameEn": "A. Le Coq",
+  "definition": "A. Le Coq는 에스토니아 타르투에 본사를 두고 맥주, 롱드링크, 사이더, 청량음료 등을 생산하는 양조회사이다. 에스토니아에서 가장 오래된 양조장이자 가장 큰 음료 생산업체이다.",
+  "summary": "A. Le Coq는 에스토니아 타르투에 본사를 두고 맥주, 롱드링크, 사이더, 청량음료 등을 생산하는 양조회사이다. 에스토니아에서 가장 오래된 양조장이자 가장 큰 음료 생산업체이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "에스토니아에서 가장 오래된 양조장이자 가장 큰 음료 생산업체이며, 200년 동안 소유주가 여러 번 바뀌어도 상표가 이어져 온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "A. Le Coq는 에스토니아 타르투에 본사를 둔 양조회사로, 맥주를 비롯해 롱드링크, 사이더, 청량음료 등 다양한 음료를 생산한다. 가장 잘 알려진 맥주는 A. Le Coq Premium이며, 2008년 10월 AC Nielsen 결과에 따르면 에스토니아에서 가장 인기 있는 맥주이다. 탈린의 A. Le Coq Arena는 이 맥주의 이름을 따서 명명되었다. 회사의 구호는 Asi on maitses이며, '핵심은 맛이다'라는 뜻이다. 같은 제목의 곡은 록밴드 Smilers가 광고용으로 따로 만들었다. 현재 에스토니아에서 가장 오래된 양조장이자 국내 최대 음료 생산업체이며, 핀란드 기업 Olvi가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "A. Le Coq & Co.는 1807년 프로이센에서 같은 성을 쓰는 가문이 세운 음료 무역 회사이다. 이 가문은 17세기에 프랑스를 떠난 위그노의 후손이다. 1820년대에 Albert J. L. Le Coq가 런던에 정착해 가문의 와인 농장 제품을 거래했고, 곧 Russian Imperial stout를 자신의 이름으로 병입해 수출했다. 러시아의 높은 관세와 잦아진 상표 위조 때문에 회사는 본사와 병입 공장을 런던에서 상트페테르부르크로 옮겼다. 이후 러시아에서 임페리얼 스타우트를 만들 양조장으로 타르투의 Tivoli Ltd.가 선택되었고, 회사는 지금도 그곳에서 운영된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군은 물, 시럽, 주스, 주스 음료, 청량음료, 에너지 음료, 스포츠 음료와 맥주, 사이더, 진 롱드링크를 합쳐 열 개 범주로 구성된다. 가장 큰 제품군은 맥주이며 주로 A. Le Coq 상표로 생산한다. Aura 상표는 주스, 물, 건강 주스 음료 등 무알코올 음료를 대표하며 Aura Active로 판매된다. Fizz는 천연 과일·베리 맛 사이더 시리즈로, 회사의 대표적인 국제 상표 가운데 하나이다. 가장 인기 있는 청량음료는 수십 년 동안 판매된 Limonaad와 Kelluke이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 핀란드 기업 Olvi가 소유하고 있다. 1997년 Olvi가 민영화하면서 소련 시기의 이름 Tartu Õlletehas에서 다시 A. Le Coq가 되었다. 2025년에는 에스토니아 광천수 생산업체 Värska Originaal를 인수하는 계약을 체결했다. 2026년 기준 프리믹스 칵테일은 80개국 이상에서 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "에스토니아에서 가장 오래된 양조장이자 가장 큰 음료 생산업체이며, 200년 동안 소유주가 여러 번 바뀌어도 상표가 이어져 온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.alecoq.ee/",
+  "entityLinks": {
+   "wikidata": "Q278905",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q278905",
+    "https://en.wikipedia.org/wiki/A._Le_Coq"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q278905",
+   "country": "에스토니아",
+   "inception": "1807",
+   "headquarters": "타르투",
+   "founders": [
+    "Albert von Le Coq"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「A. Le Coq」 본문과 위키데이터 Q278905 팩트를 근거로 편집"
+ }
+}

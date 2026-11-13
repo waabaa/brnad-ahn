@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q18191476",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "goldstar-beer",
+  "urlSlug": "goldstar-beer",
+  "name": "Goldstar beer",
+  "nameKo": "",
+  "nameEn": "Goldstar beer",
+  "definition": "Goldstar beer는 이스라엘 Tempo가 네타냐에서 양조하는 알코올 도수 4.9%의 라거 맥주 브랜드이다. 다크 라거로 판매되지만 겉보기에는 호박색이다.",
+  "summary": "Goldstar beer는 이스라엘 Tempo가 네타냐에서 양조하는 알코올 도수 4.9%의 라거 맥주 브랜드이다. 다크 라거로 판매되지만 겉보기에는 호박색이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.683333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "이스라엘에서 가장 많이 팔리는 라거로, 중세 양조업자 길드의 여섯 모서리 별 문양에서 이름과 상징을 따온 Tempo의 주력 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Goldstar beer는 이스라엘에서 Tempo가 생산하는 맥주 브랜드로, 히브리어로는 גולדסטאר라고 쓴다. 알코올 도수는 4.9%이며 네타냐에서 양조하고, 다크 라거로 판매되지만 겉보기에는 호박색이다. Goldstar는 Tempo의 주력 브랜드로 여겨지며 코셔 인증을 받았다. 현재 이스라엘에서 가장 많이 팔리는 맥주이며, 광고에는 Paul Newman부터 Claudia Schiffer까지 여러 유명인의 이미지가 쓰였다. Goldstar Zappa Sound System 음악 축제의 타이틀 스폰서이기도 하다. The Forward는 Goldstar를 비롯한 이스라엘의 맥주를 가볍고 마시기 쉬운 맥주라고 평했고, Haaretz는 이스라엘인 중 자랑스러워하는 사람이 드문 맥주라고 언급했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Tempo Beer Industries에 따르면 Goldstar는 1950년 양조 책임자 Menachem Berliner가 개발했으며 이스라엘 최초의 생맥주였다. 처음에는 Tempo의 대표 맥주인 Nesher Beer의 하위 브랜드로 판매되어 'Goldstar Eagle'이라 불렸다. Nesher Beer의 독수리가 라벨에 그대로 쓰였고 여기에 Goldstar라는 이름이 더해졌다. 이름과 육각별 문양은 중세 양조업자 길드의 상징에서 유래했다. 1965년 'Israeli Beer Industry Ltd'가 'Leumit Brewery'와 합병했고, Goldstar는 1985년 Tempo가 인수한 제품 중 하나였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Goldstar의 핵심 제품은 알코올 도수 4.9%의 라거 맥주이며, 이스라엘 네타냐에서 양조된다. 다크 라거로 판매되지만 겉보기에는 호박색이고, 초기에는 Nesher Beer의 하위 브랜드로 'Goldstar Eagle'이라 불렸다. 코셔 인증을 받았으며 Tempo의 주력 브랜드로 여겨지고, 현재 이스라엘에서 가장 많이 팔리는 맥주이다. 광고에는 Paul Newman부터 Claudia Schiffer까지 여러 유명인의 이미지가 쓰였으며, 2015년에는 Tempo가 성차별적이라는 광고로 언론의 비판을 받았다. 또한 Goldstar Zappa Sound System 음악 축제의 타이틀 스폰서를 맡고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Goldstar는 Tempo의 주력 브랜드로 여겨지며 이스라엘에서 가장 많이 팔리는 맥주이다. 코셔 인증을 받았고 네타냐에서 양조된다. The Forward는 가볍고 마시기 쉬운 맥주라고 평했고, Haaretz는 이스라엘인 중 자랑스러워하는 사람이 드문 맥주라고 언급했다. Goldstar Zappa Sound System 음악 축제의 타이틀 스폰서이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이스라엘에서 가장 많이 팔리는 라거로, 중세 양조업자 길드의 여섯 모서리 별 문양에서 이름과 상징을 따온 Tempo의 주력 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tempo.co.il/beers/goldstar/",
+  "entityLinks": {
+   "wikidata": "Q18191476",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18191476",
+    "https://en.wikipedia.org/wiki/Goldstar_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18191476",
+   "country": null,
+   "inception": "1950",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Goldstar (beer)」 본문과 위키데이터 Q18191476 팩트를 근거로 편집"
+ }
+}

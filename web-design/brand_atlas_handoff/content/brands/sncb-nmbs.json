@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q524255",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/sncb-nmbs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sncb-nmbs",
+  "urlSlug": "sncb-nmbs",
+  "name": "벨기에 국철",
+  "nameKo": "벨기에 국철",
+  "nameEn": "SNCB/NMBS",
+  "definition": "벨기에 국철(SNCB/NMBS)은 벨기에의 국영 철도 운행 회사이다. 1926년에 설립된 국유 기업으로, 본사는 생질에 있으며 2005년 1월 상하 분리를 거쳤다.",
+  "summary": "벨기에 국철(SNCB/NMBS)은 벨기에의 국영 철도 운행 회사이다. 1926년에 설립된 국유 기업으로, 본사는 생질에 있으며 2005년 1월 상하 분리를 거쳤다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에의 국영 철도 운행 회사로, 네덜란드어 약칭 NMBS와 프랑스어 약칭 SNCB를 함께 쓰며 국내 열차와 국제 열차를 운행한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "벨기에 국철은 벨기에의 국영 철도 운행 회사이다. 네덜란드어 명칭은 Nationale Maatschappij der Belgische Spoorwegen(NMBS)이고, 프랑스어 명칭은 Société nationale des chemins de fer belges(SNCB)이다. 1926년에 설립된 국유 기업이며, 1992년에 정부 소유로 전환되었다. 2005년 1월에는 상하 분리가 이루어져 SNCB 지주회사(SNCB-Holding)가 되었다. 이러한 상하 분리는 유럽 연합의 정책으로, 벨기에뿐만 아니라 EU 회원국의 철도에서 널리 행해지고 있다. 국내 열차와 국제 열차를 함께 운행한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "벨기에 국철은 1926년에 설립된 국유 기업으로, 본사는 생질에 있다. 벨기에 국철의 네덜란드어 약칭은 NMBS이고 프랑스어 약칭은 SNCB이다. 설립 후 1992년에 이르러 정부 소유로 전환되었다. 이어 2005년 1월에는 상하 분리가 이루어져 SNCB 지주회사(SNCB-Holding)가 되었다. 이러한 상하 분리는 유럽 연합의 정책으로 벨기에뿐만 아니라 EU 회원국의 철도에서 널리 행해지고 있으며, 미래의 철도 운송과 화물 운송의 자유화를 겨냥한 것이기도 하다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "IC(인터시티)는 특급 열차이며 고속 신선을 최고 속도 200km/h로 주행하는 시스템도 있다. IR(인터지역)은 급행 열차, L(로컬)은 보통 열차이다. P(피크트레인)는 혼잡 시간대에 운전하는 보통 열차이다. 국제 열차로는 탈리스, 유로스타, TGV, ICE, 유로시티, 베네룩스 트레인이 있으며 각각 프랑스, 영국, 독일, 스위스, 네덜란드 등으로 직행하거나 직통한다. 그 외에도 프랑스, 룩셈부르크, 네덜란드로 직통하는 완행 열차가 운행되고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 1월에 상하 분리가 이루어져 벨기에 국철은 SNCB 지주회사(SNCB-Holding)가 되었다. 1992년에 정부 소유로 전환된 뒤 이루어진 변화이다. 이 상하 분리는 유럽 연합의 정책에 따라 EU 회원국의 철도에서 널리 행해지고 있는 조치이다. 이는 미래의 철도 운송과 화물 운송의 자유화를 겨냥한 것이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에의 국영 철도 운행 회사로, 네덜란드어 약칭 NMBS와 프랑스어 약칭 SNCB를 함께 쓰며 국내 열차와 국제 열차를 운행한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.belgiantrain.be/",
+  "entityLinks": {
+   "wikidata": "Q524255",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q524255",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A8%EA%B8%B0%EC%97%90_%EA%B5%AD%EC%B2%A0",
+    "https://en.wikipedia.org/wiki/National_Railway_Company_of_Belgium"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q524255",
+   "country": "벨기에",
+   "inception": "1926",
+   "headquarters": "생질",
+   "founders": [
+    "벨기에"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "한국어 위키백과 「벨기에 국철」 요약과 위키데이터 Q524255 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

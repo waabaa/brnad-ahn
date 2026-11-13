@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q894558",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/boston-beer-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "boston-beer-company",
+  "urlSlug": "boston-beer-company",
+  "name": "Boston Beer Company",
+  "nameKo": "",
+  "nameEn": "Boston Beer Company",
+  "definition": "Boston Beer Company는 1984년 James \"Jim\" Koch와 Rhonda Kallman이 설립한 미국의 양조회사이다. 첫 브랜드인 Samuel Adams로 시작해 미국에서 네 번째로 큰 양조회사로 성장했다.",
+  "summary": "Boston Beer Company는 1984년 James \"Jim\" Koch와 Rhonda Kallman이 설립한 미국의 양조회사이다. 첫 브랜드인 Samuel Adams로 시작해 미국에서 네 번째로 큰 양조회사로 성장했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Boston Beer Company는 Samuel Adams 브랜드를 앞세운 미국 크래프트 양조회사로, 창업자 Koch가 의결권 주식을 모두 쥐고 지배한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Boston Beer Company는 미국의 양조회사로, 첫 맥주 브랜드를 미국 독립혁명의 애국자 Samuel Adams의 이름을 따 Samuel Adams라고 지었다. 설립 이후 Hardcore Cider, Twisted Tea, Angry Orchard 등 여러 브랜드를 선보였다. 2019년에는 Dogfish Head Brewery와의 합병을 마무리했다. 현재 미국에서 네 번째로 큰 양조회사이며, 제품은 미국 전역과 해외에서 판매된다. 본사는 보스턴에 있고, 보스턴 외곽 Jamaica Plain에는 공개 투어와 시음을 제공하는 소규모 R&D 양조장이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Boston Beer Company는 1984년 James \"Jim\" Koch와 Rhonda Kallman이 설립했다. Koch는 6대째 양조 가문의 장남으로, Boston Consulting Group에서 제조 컨설턴트로 일하던 중 지역 기반 맥주회사 사업 계획을 세웠다. 그는 자기 돈 $100,000을 투자하고 투자자, 가족, 친구에게서 추가 자금을 모았다. 1985년 3월 Patriot's Day 주말에 Samuel Adams Boston Lager를 선보였고, 6주 뒤 Great American Beer Festival에서 \"Best Beer in America\"로 뽑혔다. 초기에는 Pittsburgh Brewing Company 등 여유 설비를 가진 양조장에 위탁해 맥주를 생산했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 제품인 Samuel Adams Boston Lager는 알코올 도수 4.8%의 앰버 또는 비엔나 라거이다. 1997년에는 Hardcore Cider를, 2000년에는 Twisted Tea 브랜드를 출시했다. 2012년에는 Cincinnati, Ohio에 기반을 둔 하드 사이더 회사 Angry Orchard를 선보였다. 2019년에는 Dogfish Head Brewery와 합병했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Boston Beer Company는 New York Stock Exchange에 티커 \"SAM\"으로 Class A Common Stock을 상장했다. 이 주식에는 의결권이 없으며, 회사는 Class B Common Stock을 통해 지배되고 Koch가 그 지분 100%를 보유한다. 미국에서 네 번째로 큰 양조회사이며, 2019년 Dogfish Head Brewery와의 합병을 마무리했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Boston Beer Company는 Samuel Adams 브랜드를 앞세운 미국 크래프트 양조회사로, 창업자 Koch가 의결권 주식을 모두 쥐고 지배한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bostonbeer.com/",
+  "entityLinks": {
+   "wikidata": "Q894558",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q894558",
+    "https://en.wikipedia.org/wiki/Boston_Beer_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q894558",
+   "country": "미국",
+   "inception": "1985",
+   "headquarters": "보스턴",
+   "founders": [
+    "Jim Koch"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Boston Beer Company」 본문과 위키데이터 Q894558 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

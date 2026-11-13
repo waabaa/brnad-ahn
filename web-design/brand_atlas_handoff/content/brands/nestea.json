@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1993628",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "nestea",
+  "urlSlug": "nestea",
+  "name": "네스티",
+  "nameKo": "네스티",
+  "nameEn": "Nestea",
+  "definition": "네스티(Nestea)는 Nestlé가 소유한 스위스의 아이스티 및 기타 음료 브랜드이다. 액상·분말 차 농축액, 냉장 차, 자판기나 판매점에서 제공되는 즉석 음용 병 제품 등 다양한 차 제품을 제공한다.",
+  "summary": "네스티(Nestea)는 Nestlé가 소유한 스위스의 아이스티 및 기타 음료 브랜드이다. 액상·분말 차 농축액, 냉장 차, 자판기나 판매점에서 제공되는 즉석 음용 병 제품 등 다양한 차 제품을 제공한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "Nestlé가 소유한 아이스티 브랜드로, 1948년 가용성 차로 시작해 한때 Nestlé와 The Coca-Cola Company의 합작으로 운영되다 현재는 Nestlé 중심으로 유통되는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "네스티는 Nestlé가 소유한 스위스의 아이스티 및 기타 음료 브랜드이다. 액상 및 분말 차 농축액, 냉장 보관 차, 판매점이나 자판기로 공급되는 즉석 음용 병 제품 등 다양한 차 제품을 제공한다. 음료는 국가에 따라 여러 맛으로 나온다. Lipton의 Lipton Iced Tea, The Coca-Cola Company의 Fuze Beverage와 경쟁한다. 2017년 초부터 Nestlé와 The Coca-Cola Company는 아이스티 네스티 합작 사업을 종료하기로 합의했고, Nestlé가 대부분의 국가에서 유통을 맡고 있다. 2019년에는 Nestlé가 네스티를 천연 제품으로 리브랜딩했으며, 새 레시피는 인공 색소와 향료를 더 이상 포함하지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "네스티는 1948년 Nestlé가 미국에 가용성 차로 선보였으며, Nescafé와 같은 방식으로 만들어졌다. 1991년 이후에는 Nestlé와 The Coca-Cola Company의 합작 법인 Beverage Partners Worldwide(BPW)가 전 세계에서 제조했고, 미국에서는 The Coca-Cola Company가 제조했다. 2017년 초부터 두 회사는 16년간의 협력 끝에 아이스티 네스티 합작 사업을 끝내기로 합의했다. 이유 중 하나는 빠르게 변하는 시장에서 서로 다른 전략을 추구하려 했기 때문이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 액상 및 분말 차 농축액, 냉장 보관 차, 판매점이나 자판기로 공급되는 즉석 음용 병 제품으로 구성된다. 맛은 국가에 따라 다르다. 합작 사업 종료 후 Nestlé가 내놓은 새 레시피는 인공 색소와 향료, 옥수수 시럽, GMO 원료를 포함하지 않는다. 즉석 음용 아이스티는 스테비아 추출물로 만들며 레몬, 라즈베리, 복숭아 등의 맛이 있다. 찻잎은 Nilgiri, 스리랑카, 케냐, 인도네시아에서 조달한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년에는 S.Trek Logistics Ltd.가 몰타 유통을 넘겨받았고, 2020년 초에는 Maspex가 헝가리, 루마니아, 폴란드를 포함한 중·동부 유럽의 유통을 맡았다. The Coca-Cola Company의 남은 지역 권리는 2024년 말 만료되었다. 캐나다는 Keurig Dr. Pepper, 스페인·안도라·지브롤터는 S.A. Damm과 Ahembo가 생산·유통 라이선스를 받았고, 포르투갈은 Nestlé가 직접 유통한다. The Coca-Cola Company는 캐나다의 네스티 제품을 Fuze Tea로 리브랜딩하고 같은 배합을 유지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Nestlé가 소유한 아이스티 브랜드로, 1948년 가용성 차로 시작해 한때 Nestlé와 The Coca-Cola Company의 합작으로 운영되다 현재는 Nestlé 중심으로 유통되는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nestea.com",
+  "entityLinks": {
+   "wikidata": "Q1993628",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1993628",
+    "https://ko.wikipedia.org/wiki/%EB%84%A4%EC%8A%A4%ED%8B%B0",
+    "https://en.wikipedia.org/wiki/Nestea"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1993628",
+   "country": null,
+   "inception": "1948",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Nestea」 본문과 위키데이터 Q1993628 팩트를 근거로 편집"
+ }
+}

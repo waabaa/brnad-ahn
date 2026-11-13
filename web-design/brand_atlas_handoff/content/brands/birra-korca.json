@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q865835",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "birra-korca",
+  "urlSlug": "birra-korca",
+  "name": "Birra Korça",
+  "nameKo": "",
+  "nameEn": "Birra Korça",
+  "definition": "Birra Korça는 1928년 알바니아 코르처(Korçë)에서 설립된 양조 회사이다. 2004년부터 IHB group의 자회사이며, 알바니아에서 세 번째로 큰 맥주 생산업체이다.",
+  "summary": "Birra Korça는 1928년 알바니아 코르처(Korçë)에서 설립된 양조 회사이다. 2004년부터 IHB group의 자회사이며, 알바니아에서 세 번째로 큰 맥주 생산업체이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "알바니아 최초의 양조장으로 1928년 코르처에서 출발해, 현재 IHB group 자회사로 운영되는 알바니아 3위 맥주 생산업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Birra Korça는 알바니아 코르처에 본사를 둔 맥주 양조 회사로, 1928년에 설립된 알바니아 최초의 양조장이다. 2004년부터 IHB group의 자회사이며 알바니아에서 세 번째로 큰 맥주 생산업체이다. 체코와 이탈리아의 최신 기술을 활용해 현재 연간 120,000헥토리터의 맥주를 생산하며, 이는 설립 당시 시설 생산량의 열 배이다. 물은 Morava Mountain의 천연 샘에서 가져오고, 전통적인 디자인을 보존하면서 같은 양식의 새 요소를 더했다. 매년 8월에 지역 최대 규모의 맥주 축제를 연다. 식품 사슬 조직에 적용되는 국제 표준인 ISO 22000 인증도 보유하며, 이 인증은 전통적인 품질 보증과 예방적 식품 안전 절차를 모두 포괄한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1928년 알바니아 코르처에서 이탈리아 투자자 Umberto Umberti와 현지 투자자 Selim Mboria가 설립했다. 초기 자본금은 950,000 프랑이었고 연간 생산능력은 20,000헥토리터였다. 초기에는 블론드 에일, 다크 에일, 'Kristal'이라는 병물, 얼음을 내놓았다. 1946년 1월 11일 알바니아에 공산 정권이 들어서면서 양조장은 국유가 되었고, 1955년, 1957년, 1965년에 재건과 개보수를 거치며 생산량이 점차 늘었다. 1994년 4월 경제 침체 속에서 양조장은 경매에 부쳐져 사업가 집단이 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Korça 브랜드 맥주는 블론드 에일과 다크 에일 두 가지로 구성된다. 블론드 에일은 알코올 도수 4.8~5%의 유럽식 필스너이고, 다크 에일은 도수 5~5.2%의 유럽 둥켈(dunkel) 계열 다크 라거이다. 제품은 0.5리터와 0.33리터 병, 30리터와 50리터 케그로 판매된다. 설립 초기에는 'Kristal'이라는 병물과 얼음도 생산했다. 매년 8월에는 지역 최대 규모의 맥주 축제를 연다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2004년부터 IHB group의 자회사이며, 알바니아에서 세 번째로 큰 맥주 생산업체이다. 같은 해 Birra Korça LLC 회장인 사업가 Irfan Hysenbelliu가 양조장을 인수해 €15 million을 들여 개보수했다. 현재 체코와 이탈리아의 최신 기술로 연간 120,000헥토리터를 생산하며, ISO 22000 인증을 보유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "알바니아 최초의 양조장으로 1928년 코르처에서 출발해, 현재 IHB group 자회사로 운영되는 알바니아 3위 맥주 생산업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.birrakorca.com.al",
+  "entityLinks": {
+   "wikidata": "Q865835",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q865835",
+    "https://en.wikipedia.org/wiki/Birra_Kor%C3%A7a"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q865835",
+   "country": "알바니아",
+   "inception": "1928",
+   "headquarters": "코르처",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Birra Korça」 본문과 위키데이터 Q865835 팩트를 근거로 편집"
+ }
+}

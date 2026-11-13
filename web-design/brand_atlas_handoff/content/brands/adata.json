@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q352669",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/adata-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "adata",
+  "urlSlug": "adata",
+  "name": "ADATA",
+  "nameKo": "",
+  "nameEn": "ADATA",
+  "definition": "ADATA는 2001년 5월 Simon Chen이 설립한 대만의 팹리스 하드웨어 제조업체이다. DRAM 모듈, USB 플래시 드라이브, 솔리드 스테이트 드라이브, 메모리 카드 등을 주력으로 한다.",
+  "summary": "ADATA는 2001년 5월 Simon Chen이 설립한 대만의 팹리스 하드웨어 제조업체이다. DRAM 모듈, USB 플래시 드라이브, 솔리드 스테이트 드라이브, 메모리 카드 등을 주력으로 한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "DRAM 모듈과 저장장치를 중심으로 하면서 XPG 게이밍 브랜드, LED 조명, 전기 파워트레인까지 사업을 넓힌 대만의 팹리스 하드웨어 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ADATA는 DRAM 모듈, USB 플래시 드라이브, 하드 디스크 드라이브, 솔리드 스테이트 드라이브, 메모리 카드, 모바일 액세서리를 주력 제품군으로 하는 대만의 팹리스 하드웨어 제조업체이다. 정식 회사명은 ADATA Technology Co., Ltd.이며 본사는 신베이시에 있다. 로보틱스와 전기 파워트레인 시스템 등 새로운 분야로도 사업을 넓히고 있다. 2008년부터는 XPG(\"Xtreme Performance Gear\") 브랜드로 PC 게이밍 하드웨어와 액세서리도 판매한다. 2017년에는 매출 기준 세계 두 번째로 큰 DRAM 모듈 제조업체였다. 2019년에는 세계 10대 SSD 모듈 브랜드 가운데 2위에 올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "ADATA는 2001년 5월 Simon Chen이 설립했다. 2004년 10월 주식이 Taipei Exchange에서 종목 코드 3260으로 거래되기 시작했다. 2008년에는 고성능 게이밍 브랜드 XPG를 만들었고, 2010년에는 ADATA Lighting을 세워 LED 조명 사업에 공식 진출했다. 2012년 12월에는 Executive Yuan 산하 Sports Administration이 발표한 2차 스포츠복권 발행 입찰에서 낙찰되었으며, 발행 기간은 2014년 1월 1일부터 2023년 12월 31일까지였다. 2013년 8월에는 ADATA Lighting이 가정과 소규모 상업 사무실용 LED 전구를 중심으로 LED 사업에 나섰다고 보도되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소비자용으로는 데스크톱·노트북 PC용 DRAM 모듈, 솔리드 스테이트 드라이브, 외장 스토리지, USB 플래시 드라이브, 메모리 카드와 리더, 보조배터리, 충전기, 케이블, 미디어 어댑터를 판매한다. XPG 브랜드에서는 컴퓨터 메모리, SSD, 파워 서플라이, PC 케이스, 쿨링, 모니터, 노트북, 키보드·마우스·헤드셋 등 게이밍 주변기기를 다룬다. 산업용으로는 SSD와 플래시 스토리지, DRAM 모듈을 공급한다. 조명 사업은 가정용, 산업·상업용, 스마트 조명, 야외 활동용 조명으로 구성된다. 파워트레인 부문은 이륜, 삼륜, 산업용으로 나뉜다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 ADATA는 매출 기준 세계 두 번째로 큰 DRAM 모듈 제조업체였고 시가총액은 US$680 million이었다. 2017년 6월 연결 매출은 NT$2.754 billion으로 약 41개월 만의 최고 수준이었고, 상반기 연결 매출 합계는 NT$15.837 billion이었다. 2019년 연간 세전 순이익은 NT$650,875 thousand, 세후 순이익은 NT$441,769 thousand, 주당순이익은 NT$2.04였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "DRAM 모듈과 저장장치를 중심으로 하면서 XPG 게이밍 브랜드, LED 조명, 전기 파워트레인까지 사업을 넓힌 대만의 팹리스 하드웨어 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.adata.com/",
+  "entityLinks": {
+   "wikidata": "Q352669",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q352669",
+    "https://ko.wikipedia.org/wiki/ADATA",
+    "https://en.wikipedia.org/wiki/ADATA"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q352669",
+   "country": null,
+   "inception": "2001",
+   "headquarters": "신베이시",
+   "founders": [
+    "Simon Chen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「ADATA」 본문과 위키데이터 Q352669 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q749239",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/pagani-automobili-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pagani-automobili",
+  "urlSlug": "pagani-automobili",
+  "name": "파가니",
+  "nameKo": "파가니",
+  "nameEn": "Pagani Automobili",
+  "definition": "파가니(Pagani Automobili)는 고성능 하이퍼카와 첨단 탄소섬유 부품을 전문으로 제조하는 이탈리아의 자동차 회사이다. 아르헨티나계 이탈리아인 Horacio Pagani가 세웠다.",
+  "summary": "파가니(Pagani Automobili)는 고성능 하이퍼카와 첨단 탄소섬유 부품을 전문으로 제조하는 이탈리아의 자동차 회사이다. 아르헨티나계 이탈리아인 Horacio Pagani가 세웠다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "복합소재와 탄소섬유 기술을 바탕으로 하이퍼카를 만들며, Mercedes-AMG V12 엔진을 얹은 Zonda, Huayra, Utopia의 계보로 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파가니는 고성능 하이퍼카와 첨단 탄소섬유 부품을 전문으로 하는 이탈리아 제조사이다. 본사는 모데나 인근의 San Cesario sul Panaro에 있다. 첫 모델 Pagani Zonda로 세계적 인지도를 얻었고, 이후 호평받은 Huayra와 최신 모델 Utopia로 이어졌다. 파가니의 차량에는 Mercedes-AMG와 협력해 개발한 V12 엔진이 자주 탑재된다. 설립자 Horacio Pagani는 Lamborghini에서 복합소재 부서를 만들어 운영했던 엔지니어이자 기업가이다. Zonda의 디자인은 제트 전투기와 Sauber-Mercedes Silver Arrow Group C 레이스카에서 영감을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Horacio Pagani는 Lamborghini에서 복합소재 부서를 만들고 운영했던 인물이다. 그는 1988년 Pagani Composite Research를 세워 Lamborghini Countach 25th Anniversary Edition의 리스타일링, Lamborghini LM002, P140 디자인 콘셉트, Diablo 등 여러 프로젝트에 참여했다. 1980년대 말부터 \"C8 Project\"로 불린 자신의 차를 설계했고, 친구인 아르헨티나의 Formula One 5회 챔피언 Juan Manuel Fangio를 기리려 \"Fangio F1\"으로 이름을 바꿀 계획이었다. 1991년 Modena Design을 설립했고, 1992년 Fangio F1 프로토타입 제작을 시작했으며, 1994년 Mercedes-Benz가 V12 엔진 공급에 합의했다. 완성된 차는 Zonda C12로 명명되어 1999년 제네바 모터쇼에서 처음 공개되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 모델 Zonda는 Mercedes-Benz의 AMG 부문이 제조한 미드십 DOHC V12 엔진을 얹고, 원형 4구 배기 시스템 같은 독특한 디자인 요소를 갖췄다. Zonda 계열에는 C12, C12-S, Zonda S, Zonda Roadster, Zonda F 등 여러 변형이 있다. Zonda Cinque는 트랙 전용 Zonda R을 기반으로 하며, 강하고 가벼운 신소재 \"carbon-titanium fibre\"를 외장에 적용했고 5대만 생산했다. Zonda Tricolore는 Frecce Tricolori 창설 50주년을 기념한 모델로 3대가 생산되었다. Zonda의 생산은 Zonda HP Barchetta로 마무리되었고, 이후 Huayra와 Utopia가 이어졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "법인명은 Pagani Automobili S.p.A.이며, 최신 모델은 Utopia이다. 2005년에는 3년 안에 생산량을 세 배로 늘리고 2007년에 미국 시장에 진출할 계획이라고 발표했다. 2010년 6월 30일에는 Zonda R로 Nürburgring를 6:47에 완주해 양산차 기반 신기록을 세웠다고 주장했으며, 이는 Ferrari 599XX를 앞선 기록이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "복합소재와 탄소섬유 기술을 바탕으로 하이퍼카를 만들며, Mercedes-AMG V12 엔진을 얹은 Zonda, Huayra, Utopia의 계보로 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.pagani.com/",
+  "entityLinks": {
+   "wikidata": "Q749239",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q749239",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EA%B0%80%EB%8B%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q749239",
+   "country": "이탈리아",
+   "inception": "1998",
+   "headquarters": "San Cesario sul Panaro",
+   "founders": [
+    "호라치오 파가니"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Pagani Automobili」 본문과 위키데이터 Q749239 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

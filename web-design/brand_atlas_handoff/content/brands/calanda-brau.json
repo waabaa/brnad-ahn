@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1026242",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/calanda-brau-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "calanda-brau",
+  "urlSlug": "calanda-brau",
+  "name": "Calanda Bräu",
+  "nameKo": "",
+  "nameEn": "Calanda Bräu",
+  "definition": "Calanda Bräu는 독일어로 'Calanda 양조'를 뜻하는 이름의 양조장으로, 스위스 그라우뷘덴주 쿠어에 있으며 Heineken N.V.가 소유한다. 알프스 샘물로 빚은 라거를 스위스 전역에서 판매한다.",
+  "summary": "Calanda Bräu는 독일어로 'Calanda 양조'를 뜻하는 이름의 양조장으로, 스위스 그라우뷘덴주 쿠어에 있으며 Heineken N.V.가 소유한다. 알프스 샘물로 빚은 라거를 스위스 전역에서 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "알프스 샘물로 빚은 라거를 만드는 그라우뷘덴주 쿠어의 양조장으로, Heineken 산하에서 Calanda와 Haldengut 두 상표를 함께 생산한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Calanda Bräu는 스위스 그라우뷘덴주의 쿠어에 본사를 둔 양조장으로, 알프스 샘물을 사용해 라거 맥주를 만든다. 생산한 맥주는 스위스 전역에서 구매할 수 있다. 현재 소유주는 Heineken N.V.이다. 이 양조장은 Calanda와 Haldengut 두 상표를 함께 생산한다. 두 상표는 2008년 기준 스위스 맥주 시장에서 각각 2.7%의 전국 점유율을 차지해, 전국 규모에서는 크지 않은 위치였다. 2013년부터는 루체른에 있는 Heineken 소유의 Brauerei Eichhof 맥주도 쿠어에서 병입한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Calanda Bräu라는 이름은 1971년에 Rhätische Aktienbräuerei의 새 이름으로 쓰이기 시작했다. Rhätische Aktienbräuerei는 1902년으로 거슬러 올라가며, 당시 그라우뷘덴주의 독립 양조장을 모두 관리하던 회사였다. 1989년에는 빈터투어의 지역 양조장 Brauerei Haldengut가 합류해 Calanda Haldengut가 되었다. 1993년에는 Heineken이 Calanda Haldengut를 인수했다. 위키데이터에는 설립 연도가 1780년으로 기재되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 알프스 샘물로 빚은 라거이며, Calanda와 Haldengut 두 상표가 스위스 전역에서 판매된다. 1993년 인수 이후 Heineken은 Haldengut 맥주의 양조를 쿠어로 옮기고 빈터투어 양조장은 폐쇄했다. 2013년부터는 루체른의 Brauerei Eichhof 맥주도 쿠어에서 병입한다. Eichhof는 Heineken이 소유한 양조장이며, 이 맥주는 기차로 쿠어까지 운송한다. 이처럼 쿠어 양조장은 자체 상표 생산과 그룹 계열 상표의 병입을 함께 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Calanda Bräu는 Heineken N.V.가 소유한다. 쿠어 양조장에서 Calanda와 Haldengut 맥주를 생산하며, 두 상표 모두 스위스 전역에서 판매한다. 2008년 기준 각 상표의 전국 시장 점유율은 2.7%였다. 2013년부터는 Heineken 계열의 Brauerei Eichhof 맥주 병입도 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "알프스 샘물로 빚은 라거를 만드는 그라우뷘덴주 쿠어의 양조장으로, Heineken 산하에서 Calanda와 Haldengut 두 상표를 함께 생산한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.calanda.com/",
+  "entityLinks": {
+   "wikidata": "Q1026242",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1026242",
+    "https://en.wikipedia.org/wiki/Calanda_Br%C3%A4u"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1026242",
+   "country": "스위스",
+   "inception": "1780",
+   "headquarters": "쿠어",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Calanda Bräu」 본문과 위키데이터 Q1026242 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

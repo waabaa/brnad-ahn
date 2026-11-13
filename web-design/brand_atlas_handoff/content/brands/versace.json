@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q696376",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/versace-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "versace",
+  "urlSlug": "versace",
+  "name": "베르사체",
+  "nameKo": "베르사체",
+  "nameEn": "Versace",
+  "definition": "베르사체(Versace)는 1978년 Gianni Versace가 설립한 이탈리아의 럭셔리 패션 기업이다. 이탈리아에서 만든 기성복과 액세서리를 생산하며 Atelier Versace 브랜드로 오트쿠튀르도 선보인다.",
+  "summary": "베르사체(Versace)는 1978년 Gianni Versace가 설립한 이탈리아의 럭셔리 패션 기업이다. 이탈리아에서 만든 기성복과 액세서리를 생산하며 Atelier Versace 브랜드로 오트쿠튀르도 선보인다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.5,
+  "image": "",
+  "logo": "",
+  "insight": "메두사에서 착안한 로고와 이탈리아에서 만든 기성복·오트쿠튀르를 갖춘 럭셔리 하우스이며, 창업자 가문이 이끌다 Prada 산하에 들어갔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베르사체는 이탈리아에서 만든 기성복과 액세서리를 생산하는 럭셔리 패션 기업이다. Atelier Versace 브랜드로 오트쿠튀르도 선보이며, 안경 분야에서는 Luxottica에 이름과 브랜드 사용권을 허가한다. 본사는 밀라노에 있고, 로고는 그리스 신화의 인물 메두사에서 영감을 얻었다. 이는 Gianni Versace가 고대 마그나 그라이키아에 속한 칼라브리아 출신이라는 점과 관련된다. 2025년 12월 2일 Prada 그룹이 이 회사의 인수를 완료해 현재 Prada가 모기업이다. 2026년 2월에는 Alaïa의 전 크리에이티브 디렉터 Pieter Mulier가 Versace의 chief creative officer로 발표되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Gianni Versace는 어린 시절부터 어머니와 함께 가족 양복점에서 일했고, 1972년 2월 5일 레조칼라브리아를 떠나 밀라노로 갔다. 1976년 형 Santo Versace가 합류했고, 두 사람은 Claudio Luti와 함께 Gianni의 이름을 딴 회사를 열기로 했다. 1978년 3월 밀라노의 La Permanente에서 첫 컬렉션을 선보여 호평을 받았으며, 같은 해 'Gianni Versace Donna'라는 이름으로 출범해 밀라노 Via della Spiga에 첫 부티크를 열었다. 1997년 Gianni Versace가 사망한 뒤에는 동생 Donatella Versace가 크리에이티브 디렉터를, Santo Versace가 CEO를 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "베르사체는 이탈리아에서 만든 기성복과 액세서리를 주력으로 한다. 오트쿠튀르는 Atelier Versace 브랜드로 선보이고, 안경은 Luxottica에 브랜드 사용권을 허가해 생산한다. 1981년 첫 향수 Gianni Versace for Women을 냈고, 1982년에는 액세서리, 주얼리, 홈 퍼니싱, 도자기로 제품군을 넓혔다. 1993년에는 Donatella Versace가 Young Versace와 Versus 라인을 추가했다. 1994년 Elizabeth Hurley가 입은 검은색 Versace 드레스는 국제적 주목을 받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 12월 2일 Prada 그룹이 이 이탈리아 회사의 인수를 완료했다. 이에 앞서 2019년 1월에는 Capri Holdings 그룹의 일부가 되었고, Capri Holdings는 Michael Kors, Jimmy Choo와 함께 새로운 럭셔리 그룹을 이루었다. 2026년 2월에는 Alaïa의 전 크리에이티브 디렉터 Pieter Mulier가 chief creative officer로 발표되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "메두사에서 착안한 로고와 이탈리아에서 만든 기성복·오트쿠튀르를 갖춘 럭셔리 하우스이며, 창업자 가문이 이끌다 Prada 산하에 들어갔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.versace.com/",
+  "entityLinks": {
+   "wikidata": "Q696376",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q696376",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%B4%EC%82%AC%EC%B2%B4",
+    "https://en.wikipedia.org/wiki/Versace"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q696376",
+   "country": "이탈리아",
+   "inception": "1978",
+   "headquarters": "밀라노",
+   "founders": [
+    "잔니 베르사체"
+   ],
+   "parent": "프라다",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Versace」 본문과 위키데이터 Q696376 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

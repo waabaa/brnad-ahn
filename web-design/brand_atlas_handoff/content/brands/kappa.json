@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q735873",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/kappa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kappa",
+  "urlSlug": "kappa",
+  "name": "카파",
+  "nameKo": "카파",
+  "nameEn": "Kappa",
+  "definition": "카파(Kappa)는 1978년 토리노에서 Marco Boglione가 설립한 이탈리아의 스포츠웨어 브랜드이다. 기존에 있던 Robe di Kappa의 스포츠웨어 부문으로 출발했다.",
+  "summary": "카파(Kappa)는 1978년 토리노에서 Marco Boglione가 설립한 이탈리아의 스포츠웨어 브랜드이다. 기존에 있던 Robe di Kappa의 스포츠웨어 부문으로 출발했다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "축구팀 셔츠 스폰서 이력이 많은 토리노 기반의 이탈리아 스포츠웨어 브랜드이며, 이름은 1967년 공식 명명된 K 라인에서 유래했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "카파는 이탈리아 토리노에서 1978년 Marco Boglione가 설립한 스포츠웨어 브랜드이다. 이미 존재하던 Robe di Kappa의 스포츠웨어 부문으로 출발했으며, 모기업은 BasicNet이다. 브랜드의 뿌리는 1916년 토리노에서 설립된 양말·속옷 회사 Maglificio Calzificio Torinese(MCT)로 이어진다. 카파라는 이름은 알파벳 K에 해당하는 그리스 문자에서 따온 것이다. 카파는 Juventus, AEK Athens FC, AC Milan, Barcelona FC 등 여러 축구팀의 셔츠 스폰서를 맡아 왔다. 현재도 OGC Nice, Genoa FC, Kaizer Chiefs F.C. 등의 팀을 후원한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Maglificio Calzificio Torinese(MCT)는 1916년 토리노에서 설립된 양말·속옷 회사이다. 1956년 이 회사는 Aquila 브랜드 제품의 생산 문제를 겪었다. 문제가 해결된 뒤 새 제품에는 독일어 Kontrolle을 뜻하는 K를 찍었고, 이후 판매가 급증했다. 1967년 이 K 라인은 그리스 문자 K를 뜻하는 Kappa라는 이름으로 공식 명명됐다. 이후 1978년 Marco Boglione가 토리노에서 기존 Robe di Kappa의 스포츠웨어 부문으로 카파를 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "카파의 모기업은 BasicNet이며 본사는 토리노에 있다. 현재 OGC Nice, Genoa FC, Kaizer Chiefs F.C. 등의 팀을 후원한다. 과거에는 Juventus, AEK Athens FC, AC Milan, Barcelona FC의 셔츠 스폰서를 맡았다. 이탈리아 스포츠웨어 브랜드로서 축구팀 후원 활동을 이어 가고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "축구팀 셔츠 스폰서 이력이 많은 토리노 기반의 이탈리아 스포츠웨어 브랜드이며, 이름은 1967년 공식 명명된 K 라인에서 유래했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kappa.com/",
+  "entityLinks": {
+   "wikidata": "Q735873",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q735873",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%ED%8C%8C_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Kappa_(brand)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q735873",
+   "country": "이탈리아",
+   "inception": "1916",
+   "headquarters": "토리노",
+   "founders": [],
+   "parent": "BasicNet",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Kappa (brand)」 본문과 위키데이터 Q735873 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

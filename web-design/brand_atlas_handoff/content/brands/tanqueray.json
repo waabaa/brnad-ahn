@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q187155",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/tanqueray-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tanqueray",
+  "urlSlug": "tanqueray",
+  "name": "탱커레이",
+  "nameKo": "탱커레이",
+  "nameEn": "Tanqueray",
+  "definition": "탱커레이(Tanqueray)는 디아지오(Diageo plc)에서 생산하는 런던 드라이 진 브랜드이다. 1830년 런던에서 처음 증류되었으며 가장 큰 시장은 미국이다.",
+  "summary": "탱커레이(Tanqueray)는 디아지오(Diageo plc)에서 생산하는 런던 드라이 진 브랜드이다. 1830년 런던에서 처음 증류되었으며 가장 큰 시장은 미국이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "곡물을 이중 증류하고 두 번째 증류에서 식물 성분을 더하는 런던 드라이 진이다. 제조법을 영업 비밀로 보호하며 2016년 세계에서 가장 많이 팔린 진이었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "탱커레이는 디아지오가 생산하는 진 브랜드로, 런던에서 시작되어 런던 드라이 진으로 분류된다. 이 이름은 증류 과정과 런던 블룸즈버리라는 원산지를 반영한다. 곡물을 이중 증류하여 만들며, 두 번째 증류 과정에서 엄선된 식물 성분이 첨가된다. 제조법은 철저하게 보호되는 영업 비밀이지만 주니퍼, 고수풀, 안젤리카 뿌리 및 감초 등 4가지 식물 성분이 포함된 것으로 알려져 있으며, 모두 진 생산에 쓰이는 일반적인 식물 성분이다. 자국 시장에서는 상당한 시장 점유율을 차지하지는 않지만 가장 큰 시장은 미국이다. Diageo의 16개 \"전략적 브랜드\" 중 하나로, 전 세계 판촉과 유통에서 우선순위를 두는 대상이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "탱커레이 진은 1830년 런던의 블룸즈버리 지역에서 Charles Tanqueray에 의해 처음 증류되었다. Edward & Charles Tanqueray & Co 소매점은 1838년 런던의 Vine Street에 설립되었다. 1868년 Charles Tanqueray의 아들 Charles Waugh Tanqueray가 증류소를 물려받았고, 증류소는 제2차 세계대전 중 심하게 손상될 때까지 계속 운영되었다. 추축국 폭격에서 살아남은 유일한 건물은 현재 \"Old Tom\"으로 알려져 있으며, 이후 스코틀랜드의 Cameron Bridge로 이전되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "탱커레이는 Diageo plc가 생산하며, Diageo의 16개 \"전략적 브랜드\" 중 하나로 전 세계 판촉과 유통에서 우선순위를 두고 있다. The Spirits Business의 보고서에 따르면 2016년 세계에서 가장 많이 팔린 진으로, 거의 300만 9리터 케이스가 판매되었다. 자국 시장에서는 상당한 시장 점유율을 차지하지는 않으며, 가장 큰 시장은 미국이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "곡물을 이중 증류하고 두 번째 증류에서 식물 성분을 더하는 런던 드라이 진이다. 제조법을 영업 비밀로 보호하며 2016년 세계에서 가장 많이 팔린 진이었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q187155",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q187155",
+    "https://ko.wikipedia.org/wiki/%ED%83%B1%EC%BB%A4%EB%A0%88%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Tanqueray"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q187155",
+   "country": null,
+   "inception": "1830",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「탱커레이」 요약과 위키데이터 Q187155 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

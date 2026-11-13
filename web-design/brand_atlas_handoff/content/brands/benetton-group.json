@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q817139",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/benetton-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "benetton-group",
+  "urlSlug": "benetton-group",
+  "name": "베네통",
+  "nameKo": "베네통",
+  "nameEn": "Benetton Group",
+  "definition": "베네통(Benetton Group)은 1965년에 설립된 이탈리아의 글로벌 패션 브랜드이다. United Colors of Benetton이라는 이름으로 영업하며 전 세계에 약 5,000개 매장 네트워크를 갖추고 있다.",
+  "summary": "베네통(Benetton Group)은 1965년에 설립된 이탈리아의 글로벌 패션 브랜드이다. United Colors of Benetton이라는 이름으로 영업하며 전 세계에 약 5,000개 매장 네트워크를 갖추고 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "사회 이슈를 다룬 논쟁적 광고와 'United Colors of Benetton' 슬로건으로 알려진 이탈리아 패션 브랜드이다. 가문 지주회사가 전액 소유한 구조도 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "베네통은 의류 브랜드 United Colors of Benetton과 Sisley를 핵심 사업으로 하는 이탈리아 패션 그룹이다. 전 세계에 약 5,000개의 매장 네트워크를 운영한다. 1980년대와 1990년대에는 상징적인 브랜드였으나 이후 그 위상을 되찾는 데 어려움을 겪었다. 2000년에는 Interbrand의 글로벌 브랜드 순위 75위에 올랐으나 2002년에는 순위에서 빠졌다. 논쟁을 일으키는 광고 캠페인으로 널리 알려져 있으며 2000년에는 기네스 세계 기록에 '가장 논란이 된 캠페인'으로 포함되었다. 현재는 베네통 가문의 지주회사 Edizione가 전액 소유한 자회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1965년 베네통 가문은 이탈리아 북부 베네토 지역의 벨루노에 첫 매장을 열었다. 3년 뒤에는 파리에도 매장을 개점했다. 1982년 Oliviero Toscani를 크리에이티브 디렉터로 영입하면서 기존의 패션 홍보 방식에서 세계적 사회 문제에 대한 인식을 높이는 방식으로 전환했다. 1984년 Toscani가 브랜드 최초의 다인종 광고를 촬영했고, 1989년에는 'United Colors of Benetton' 슬로건 아래 광고 전략을 재편했다. 포뮬러 원에는 1983년 Tyrrell의 후원사로, 1984년 Alfa Romeo의 후원사로 참여했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 의류 브랜드 United Colors of Benetton과 Sisley이다. 두 브랜드는 전 세계 약 5,000개 매장 네트워크를 통해 운영한다. 2011년 11월에는 UNHATE Foundation을 만들어 '증오의 문화'에 맞서자는 세계적 커뮤니케이션 캠페인을 시작했다. 2017년 11월에는 인도 Uttarakhand 지역의 농촌 여성들이 소유한 회사 Devbhumi와 협업 캠페인을 진행했다. 이 사업이 인도 농촌 여성 장인 6,000명 이상에게 힘을 실어 주었다고 주장했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 증시에서 상장 폐지되어 베네통 가문의 지주회사 Edizione가 전액 소유한 자회사가 되었다. 2017년 €180 million의 손실을 기록하자 Luciano Benetton이 임원 회장으로 복귀했다. 2024년에는 Claudio Sforza가 CEO로, Christian Coco가 회장으로 임명되었다. 2025년에는 418개가 넘는 매장을 닫을 계획이 발표되었으며 그중 180개는 2024년부터 이미 폐점했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사회 이슈를 다룬 논쟁적 광고와 'United Colors of Benetton' 슬로건으로 알려진 이탈리아 패션 브랜드이다. 가문 지주회사가 전액 소유한 구조도 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.benettongroup.com",
+  "entityLinks": {
+   "wikidata": "Q817139",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q817139",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%84%A4%ED%86%B5",
+    "https://en.wikipedia.org/wiki/Benetton_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q817139",
+   "country": "이탈리아",
+   "inception": "1965",
+   "headquarters": "트레비소",
+   "founders": [
+    "Benetton family"
+   ],
+   "parent": "Edizione",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Benetton Group」 본문과 위키데이터 Q817139 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

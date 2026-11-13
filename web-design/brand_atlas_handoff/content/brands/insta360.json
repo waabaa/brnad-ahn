@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q48147014",
+ "demand": {
+  "why": "국내",
+  "naver": 0.216,
+  "koViews": 509,
+  "enViews": 19732,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/insta360-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "insta360",
+  "urlSlug": "insta360",
+  "name": "인스타360",
+  "nameKo": "인스타360",
+  "nameEn": "Insta360",
+  "definition": "인스타360(Insta360)은 중국 선전시에 본사를 둔 카메라 및 영상 기술 기업이다. 360도 카메라와 바디 카메라, 영상 편집 소프트웨어를 생산하며 법인명은 Arashi Vision Inc.이다.",
+  "summary": "인스타360(Insta360)은 중국 선전시에 본사를 둔 카메라 및 영상 기술 기업이다. 360도 카메라와 바디 카메라, 영상 편집 소프트웨어를 생산하며 법인명은 Arashi Vision Inc.이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "360도 영상 기술을 바탕으로 360도 카메라와 새로운 유형의 바디 카메라를 함께 만들고, 라이카와 협업해 온 중국 카메라 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인스타360(Insta360)은 중국의 카메라 및 영상 기술 기업으로, 법인명은 Arashi Vision Inc.이다. 본사는 중국 선전시에 있으며 로스앤젤레스, 도쿄도, 베를린에 사무소를 두고 있다. 바디 카메라, 360도 카메라, 입체 180도 카메라와 모바일 및 데스크톱 플랫폼용 영상 편집 소프트웨어를 생산한다. 제품은 익스트림 스포츠, 여행 기록 및 기타 야외 영상 애플리케이션에 사용된다. 영상 기술 분야에서 라이카와 협업해 왔으며, 슈퍼모토크로스 월드 챔피언십과 모토아메리카의 공식 바디 카메라 스폰서로 활동한다. 2025년 6월 상하이 증권거래소 커촹반에 상장되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CEO인 J. K. 리우(JK Liu)는 난징 대학에서 컴퓨터 과학을 공부하던 중 공동 창업자들을 만났다. 리우는 음악 콘서트에서 360도 영상의 잠재력을 인식했고, 첫 제품으로 라이브 스트리밍용 스마트폰 앱을 만들었다. 이후 스마트폰을 360도 카메라로 전환하는 액세서리를 개발해 제품 포트폴리오를 넓혔다. 졸업 후 팀은 선전시로 이동해 2015년에 인스타360을 설립했고, 360도 카메라의 개발 및 제조를 시작했다. 이후 360도 영상을 활용해 평면 프레임 콘텐츠를 제작하는 새로운 유형의 바디 카메라를 개척했으며, 그 첫 제품이 ONE 시리즈의 Insta360 ONE이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "360도 카메라로는 2025년 4월 22일 출시된 Insta360 X5가 있으며, X4의 후속작으로 1/1.28인치 센서를 탑재하고 사용자가 교체 가능한 렌즈를 도입했다. 2024년 4월 출시된 X4는 8K 해상도 30fps 촬영이 가능하며 '보이지 않는 셀카봉' 효과가 특징이다. 바디 카메라로는 2023년 11월 출시된 Insta360 Ace와 Ace Pro가 있고, Ace Pro는 라이카와 공동 설계되었다. 초소형 방수 바디 카메라인 GO 시리즈에는 GO 3, GO 3S, GO 2가 있다. 촬영 영상은 모바일 앱이나 데스크톱 소프트웨어 Insta360 Studio로 편집할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 6월 기업공개를 단행해 상하이 증권거래소 커촹반에 상장되었다. 전 세계적으로 500명 이상의 직원을 두고 있으며, 로스앤젤레스, 도쿄도, 베를린에 사무소를 운영한다. 2020년에는 라이카와 전략적 파트너십을 맺었다. 최근의 성과로는 Apple이 100개국 이상의 매장에서 Insta360 카메라를 판매하게 된 점이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "360도 영상 기술을 바탕으로 360도 카메라와 새로운 유형의 바디 카메라를 함께 만들고, 라이카와 협업해 온 중국 카메라 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.insta360.com/",
+  "entityLinks": {
+   "wikidata": "Q48147014",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q48147014",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%EC%8A%A4%ED%83%80360",
+    "https://en.wikipedia.org/wiki/Insta360"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q48147014",
+   "country": "중화인민공화국",
+   "inception": "2015",
+   "headquarters": "선전시",
+   "founders": [
+    "JK Liu"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「인스타360」 요약과 위키데이터 Q48147014 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

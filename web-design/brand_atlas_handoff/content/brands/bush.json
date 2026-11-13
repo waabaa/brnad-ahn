@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q1017471",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "bush",
+  "urlSlug": "bush",
+  "name": "Bush",
+  "nameKo": "",
+  "nameEn": "Bush",
+  "definition": "Bush는 벨기에의 맥주 브랜드이다. 가장 잘 알려진 제품은 맥아 맛이 강한 고발효 앰버 맥주이며, Pipaix에 있는 Dubuisson Brewery의 대표 제품이다. 라벨에는 '가장 강한 벨기에 맥주'라고 적혀 있다.",
+  "summary": "Bush는 벨기에의 맥주 브랜드이다. 가장 잘 알려진 제품은 맥아 맛이 강한 고발효 앰버 맥주이며, Pipaix에 있는 Dubuisson Brewery의 대표 제품이다. 라벨에는 '가장 강한 벨기에 맥주'라고 적혀 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "도수가 최대 16%에 이르러 라벨에 '가장 강한 벨기에 맥주'라고 내세우는, Dubuisson Brewery의 대표 호박색 고발효 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Bush는 벨기에 맥주이며 여러 종류가 있지만, 가장 유명한 것은 맥아 맛이 강한 고발효 앰버 맥주이다. 이 맥주는 Bush 16으로도 불리며, 1998년에 이름이 Bush beer에서 이 맥주 고유의 색을 뜻하는 Amber Bush로 바뀌어 현재 공식 이름이 되었다. Leuze-en-Hainaut 지방자치단체의 Pipaix에 있는 Dubuisson Brewery의 대표 제품이다. 알코올 도수가 16%에 이르러 가장 독한 맥주 가운데 하나이며, 라벨에는 '가장 강한 벨기에 맥주'라고 적혀 있다. 양조장은 자체 실험실에서 효모를 배양하고 지하에서 끌어올린 물을 사용한다. 미국에서는 Scheldt강의 라틴어 이름인 Scaldis라는 이름으로 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1933년, Alfred와 Amédée 형제는 부모의 양조장을 물려받은 지 1년 뒤 독한 맥주 시장에서 좋은 위치를 차지하던 영국 맥주와 경쟁하기로 했다. 당시 영국 맥주의 알코올 도수는 6~7%에서 8% 정도였고, 형제는 도수 12%의 Bush 맥주를 만들었다. 영국과 경쟁하기 위해 영어 이름을 붙였으며, Dubuisson bière를 영어로 옮긴 것이 Bush beer이다. 1998년에는 이름이 Amber Bush로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Amber Bush는 1933년 Bush Beer라는 이름으로 만들어졌고 벨기에에서 가장 오래된 특별 맥주 가운데 하나이며, Bush 맥주 중 가장 인기가 높다. 33 cl 병으로 판매되고 75cl 병은 Tripel Amber Bush라 부른다. Bush Blonde는 도수 10.5%이며 75cl 병은 Bush Blonde Triple이라 부른다. Christmas Bush는 12도 맥주이고, Night Bush는 Nuits-Saint-Georges 부르고뉴 와인을 담았던 나무통에서 6~9개월 숙성한 Christmas Bush이다. Cuvée des Trolls는 도수 7%이며 Dubuisson 양조장 제품 중 Bush라는 이름이 붙지 않은 유일한 맥주이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Dubuisson 양조장은 완전히 독립적이며 Hugues Dubuisson이 단독으로 결정을 내린다. 홉과 보리는 체코에서 들여오고, 물은 37~45미터 깊이의 자체 우물에서 끌어온다. 1996년에는 프랑스, 스위스, 스페인, 네덜란드, 이탈리아, 영국, 캐나다, 일본, 미국으로 수출했으며 현재는 대만, 헝가리, 브라질, 남아프리카공화국으로도 수출한다. Bush 7의 생산은 최근 중단되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "도수가 최대 16%에 이르러 라벨에 '가장 강한 벨기에 맥주'라고 내세우는, Dubuisson Brewery의 대표 호박색 고발효 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.br-dubuisson.com/",
+  "entityLinks": {
+   "wikidata": "Q1017471",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1017471",
+    "https://en.wikipedia.org/wiki/Bush_(beer)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1017471",
+   "country": "벨기에",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Bush (beer)」 본문과 위키데이터 Q1017471 팩트를 근거로 편집"
+ }
+}

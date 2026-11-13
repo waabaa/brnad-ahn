@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q3394030",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/estrella-galicia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "estrella-galicia",
+  "urlSlug": "estrella-galicia",
+  "name": "Estrella Galicia",
+  "nameKo": "",
+  "nameEn": "Estrella Galicia",
+  "definition": "Estrella Galicia는 스페인 갈리시아의 라코루냐에 있는 Hijos de Rivera Brewery가 만드는 페일 라거 맥주 브랜드이다. 1906년에 설립되었으며 가족이 전액 소유한 회사에서 생산한다.",
+  "summary": "Estrella Galicia는 스페인 갈리시아의 라코루냐에 있는 Hijos de Rivera Brewery가 만드는 페일 라거 맥주 브랜드이다. 1906년에 설립되었으며 가족이 전액 소유한 회사에서 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "갈리시아에서 1906년에 시작해 100퍼센트 가족 소유를 유지하며, 포뮬러 1과 MotoGP 등 모터스포츠 후원으로 알려진 스페인 맥주 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Estrella Galicia는 스페인 갈리시아의 라코루냐에 위치한 Hijos de Rivera Brewery가 생산하는 페일 라거 맥주 브랜드이다. 영국, 독일, 스위스, 호주, 파라과이, 포르투갈, 브라질, 멕시코, 아일랜드, 미국 등으로 수출된다. 제품군에는 Estrella Galicia Especial과 비살균 방식의 Cerveza de Bodega 같은 일반 맥주 외에 무알코올 제품과 글루텐프리 제품이 포함된다. 포뮬러 1 팀, MotoGP, 스페인 축구 구단 후원 등 스포츠 후원에도 적극적이며 Netflix 시리즈 La Casa de Papel도 후원했다. 1906년 설립 이후 현재까지 100퍼센트 가족 소유 기업으로 남아 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Hijos de Rivera Brewery가 운영하는 Estrella Galicia 양조장은 1906년 José María Rivera Corral이 설립했다. 그는 쿠바와 멕시코를 여행한 뒤 갈리시아로 돌아와 양조장을 세웠다. 회사는 지금도 100퍼센트 가족 소유로 유지되고 있다. 설립자의 증손자이자 이름이 같은 José María Rivera와 그의 파트너 Stuart Krenz가 회사 회장으로 소개된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Estrella Galicia의 제품은 Estrella Galicia Especial, La Estrella de Galicia, 비살균 방식의 Estrella Galicia Cerveza de Bodega로 이루어진다. 무알코올 제품으로는 Estrella Galicia 0,0, 0,0 Negra, 0,0 Tostada, 0,0 6 Maltas가 있다. 글루텐프리 제품으로는 Estrella Galicia Sin Gluten과 무알코올 글루텐프리인 0,0 Tostada Sin Gluten이 있다. 1906 라인에는 La Milnueve, Red Vintage, Black Coupage, La Pelirroja, 비살균 방식의 de Bodega가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사는 100퍼센트 가족 소유를 유지하고 있다. Carlos Sainz Jr.를 2015년부터 후원했으며 소속 팀인 Toro Rosso(2015~2017년), Renault(2018년)와 함께했고, 2021~2023년에는 Scuderia Ferrari의 공식 파트너였다. 2019년 McLaren 후원을 시작해 2024년 McLaren으로 돌아왔으며, 2026년에는 Williams의 공식 맥주 파트너가 되었다. 2025년부터 Estrella Galicia 0,0이 Ducati Lenovo Team의 공식 무알코올 맥주 후원사를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "갈리시아에서 1906년에 시작해 100퍼센트 가족 소유를 유지하며, 포뮬러 1과 MotoGP 등 모터스포츠 후원으로 알려진 스페인 맥주 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.estrellagalicia.es/",
+  "entityLinks": {
+   "wikidata": "Q3394030",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3394030",
+    "https://en.wikipedia.org/wiki/Estrella_Galicia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3394030",
+   "country": "스페인",
+   "inception": "1906",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Estrella Galicia」 본문과 위키데이터 Q3394030 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

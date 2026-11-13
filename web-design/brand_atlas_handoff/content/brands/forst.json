@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q861973",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "forst",
+  "urlSlug": "forst",
+  "name": "Forst",
+  "nameKo": "",
+  "nameEn": "Forst",
+  "definition": "Forst는 이탈리아 남티롤 Algund의 프라치오네(행정 구역 하위 단위)인 Forst에 본사를 둔 이탈리아의 맥주 양조 회사이다. 1857년에 설립되었으며 생수와 기타 무알코올 음료도 생산한다.",
+  "summary": "Forst는 이탈리아 남티롤 Algund의 프라치오네(행정 구역 하위 단위)인 Forst에 본사를 둔 이탈리아의 맥주 양조 회사이다. 1857년에 설립되었으며 생수와 기타 무알코올 음료도 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "이탈리아 남티롤에서 1857년에 시작해 맥주 양조와 함께 Menabrea 양조장 인수, 생수 사업까지 이어온 이탈리아 양조 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Forst는 1857년에 설립된 이탈리아의 맥주 양조 회사로, 남티롤 Algund에 속한 Forst 지역을 기반으로 한다. 연간 생산량은 700,000 hl이며, 판매는 주로 이탈리아 국내 시장을 대상으로 한다. 1991년에는 피에몬테 Biella에 있던 Menabrea 양조장을 인수해 자사 사업에 포함시켰다. 시칠리아 팔레르모에는 병입 공장도 별도로 운영하고 있다. 자회사 Kaiserwasser를 통해 맥주 외에 생수와 기타 무알코올 음료도 생산한다. 2004년에는 독일 Forst에도 소규모 마이크로 양조장을 열었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Forst 양조장은 남티롤 Algund의 프라치오네인 Forst를 기반으로 하며, 1857년에 Meran 출신의 두 기업가 Johann Wallnöfer와 Franz Tappeiner가 설립했다. 1863년에는 회사가 기업가 Josef Fuchs에게 넘어갔고, Fuchs는 Forst에 있는 양조 시설을 확장했다. 1991년에는 피에몬테 Biella에 있는 Menabrea 양조장을 인수했다. 2004년에는 독일 Forst에 소규모 마이크로 양조장을 열었다. 이처럼 설립 이후 소유주가 바뀌고 양조 시설이 확장되었으며, 생산 거점도 이탈리아 다른 지역과 독일로 넓어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Forst의 중심 사업은 맥주 양조이며, 연간 생산량은 700,000 hl 규모로 주로 이탈리아 국내 시장을 대상으로 한다. 양조 거점으로는 남티롤 Algund의 Forst에 있는 본사 양조장 외에 피에몬테 Biella의 Menabrea 양조장이 있으며, 이 양조장은 1991년에 인수한 것이다. 시칠리아 팔레르모에는 병입 공장도 별도로 운영한다. 2004년에는 독일 Forst에 소규모 마이크로 양조장을 열어 생산 거점을 추가했다. 맥주 외 사업으로는 자회사 Kaiserwasser를 통해 생수와 기타 무알코올 음료를 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Forst의 연간 생산량은 700,000 hl이며, 주로 이탈리아 국내 시장에 판매한다. 본사는 남티롤 Algund의 Forst에 있다. 1991년에 인수한 Menabrea 양조장과 팔레르모 병입 공장, 2004년에 문을 연 독일 Forst의 마이크로 양조장, 자회사 Kaiserwasser를 함께 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이탈리아 남티롤에서 1857년에 시작해 맥주 양조와 함께 Menabrea 양조장 인수, 생수 사업까지 이어온 이탈리아 양조 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.forst.it/",
+  "entityLinks": {
+   "wikidata": "Q861973",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q861973",
+    "https://en.wikipedia.org/wiki/Forst_(brewery)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q861973",
+   "country": "이탈리아",
+   "inception": "1857",
+   "headquarters": "Algund",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Forst (brewery)」 본문과 위키데이터 Q861973 팩트를 근거로 편집"
+ }
+}

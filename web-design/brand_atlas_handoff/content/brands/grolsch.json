@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q153075",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/grolsch-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "grolsch",
+  "urlSlug": "grolsch",
+  "name": "그롤쉬",
+  "nameKo": "그롤쉬",
+  "nameEn": "Grolsch",
+  "definition": "그롤쉬(Grolsch)는 1615년 Willem Neerfeldt가 Groenlo에서 설립한 네덜란드의 맥주 양조회사이다. Grolsch Premium Pilsner로 가장 잘 알려져 있으며 현재 Asahi Breweries 계열이다.",
+  "summary": "그롤쉬(Grolsch)는 1615년 Willem Neerfeldt가 Groenlo에서 설립한 네덜란드의 맥주 양조회사이다. Grolsch Premium Pilsner로 가장 잘 알려져 있으며 현재 Asahi Breweries 계열이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Groenlo의 옛 이름 Grolle에서 이름을 딴 1615년 창업의 네덜란드 맥주 브랜드로, 5% 페일 라거 Grolsch Premium Pilsner가 중심 제품이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "그롤쉬는 네덜란드의 맥주 양조회사로, 정식 명칭은 Koninklijke Grolsch N.V.이며 '왕립 그롤쉬'를 뜻한다. 5% 도수의 페일 라거 Grolsch Premium Pilsner가 가장 잘 알려진 제품이다. 2006년 2월 기준 네덜란드에서 Heineken에 이어 두 번째로 큰 양조회사였으며 연간 생산량은 320 million 리터였고 국내 시장이 전체 생산의 51%를 차지했다. 맥주 공급업체로는 세계 21위이며 70개국에서 판매된다. 영국, 미국, 캐나다, 호주, 뉴질랜드가 주요 해외 시장으로 국제 판매량(부피 기준)의 78%를 차지한다. 2016년 Asahi Breweries에 매각되어 현재 Asahi 계열이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1615년 Willem Neerfeldt가 Groenlo에서 양조장을 세웠다. 당시 Groenlo는 Grolle로 불렸고 Grolsch는 'Grolle의'라는 뜻이다. Neerfeldt의 사위 Peter Sanford Kuyper가 뒤를 이어 운영했다. 1895년 de Groen 가문이 양조장을 인수했는데, 이 가문은 19세기 초 Enschede에서 자체 양조장을 시작했으며 2007년까지 상당한 지분을 보유했다. Enschede 양조장은 보조 시설로 지어졌으나 이후 주된 생산지가 되었고, 1995년에는 Koninklijk(왕실) 칭호를 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 도수 5%의 페일 라거 Grolsch Premium Pilsner이며 해외 판매에서 단연 가장 중요한 맥주이다. 미국 시장에는 Grolsch Lager, Grolsch Amber, Grolsch Blonde, Grolsch Light 등이 나와 있다. 미국에서 Grolsch Premium Pilsner는 스윙탑 병, 미니 케그, 하프 배럴 등 다양한 용량으로 판매되고, 나머지 제품은 12-US-fluid-ounce(355 ml) 병 6팩으로만 확인된다. Amsterdam 브랜드는 2006년에 40% 성장했으며 주로 러시아와 프랑스에서 늘었다. 영국에서는 2020년 10월 말 도수 4% 레시피로 재도입되었고 2024년에 3.4%로 낮아졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 11월 이사회가 SABMiller의 816 million 유로 인수 제안을 수락했고, 2008년 3월 20일 상장 폐지로 인수가 완료되었다. 이후 Anheuser-Busch InBev의 SABMiller 인수를 허용하기 위한 규제 당국과의 합의에 따라 2016년 Asahi Breweries에 매각되었다. 현재 주 양조장은 Enschede에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Groenlo의 옛 이름 Grolle에서 이름을 딴 1615년 창업의 네덜란드 맥주 브랜드로, 5% 페일 라거 Grolsch Premium Pilsner가 중심 제품이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.grolsch.com/",
+  "entityLinks": {
+   "wikidata": "Q153075",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q153075",
+    "https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A1%A4%EC%89%AC",
+    "https://en.wikipedia.org/wiki/Grolsch_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q153075",
+   "country": "네덜란드",
+   "inception": "1615",
+   "headquarters": "엔스헤더",
+   "founders": [],
+   "parent": "아사히 맥주",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Grolsch Brewery」 본문과 위키데이터 Q153075 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

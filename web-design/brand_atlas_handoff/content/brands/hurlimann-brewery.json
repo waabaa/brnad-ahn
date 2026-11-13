@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q683303",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hurlimann-brewery",
+  "urlSlug": "hurlimann-brewery",
+  "name": "Hürlimann Brewery",
+  "nameKo": "",
+  "nameEn": "Hürlimann Brewery",
+  "definition": "Hürlimann Brewery는 1836년에 설립되어 스위스 취리히에 있던 양조장이다. 스위스의 주요 양조회사 가운데 하나로 성장했으나 1996년에 운영을 중단했다.",
+  "summary": "Hürlimann Brewery는 1836년에 설립되어 스위스 취리히에 있던 양조장이다. 스위스의 주요 양조회사 가운데 하나로 성장했으나 1996년에 운영을 중단했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "효모 연구의 선도자였던 창업자 아래 효모 개발의 오랜 역사를 쌓았고, 알코올 도수 14%의 Samichlaus로 유명했던 스위스 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 스위스 취리히에 본사를 두었으며, 독일어로는 Brauerei Hürlimann AG 또는 Hürlimann Bier로 불렸다. 가장 크고 성공한 양조장 가운데 하나였고, 스위스의 주요 양조회사로는 Calanda Bräu, Feldschlösschen, Cardinal Brewery와 함께 꼽혔다. 창업자는 효모의 과학적 연구 분야에서 세계적인 선도자였으며, 양조장에는 효모 개발의 오랜 역사가 있었다. 알코올 도수 14%의 매우 독한 맥주 Samichlaus로 유명했으며, 이 맥주는 매년 12월 6일에 만들어 이듬해에 판매했다. 1996년 Feldschlösschen에 흡수되어 운영을 마쳤고, Hürlimann의 Sternbrau는 현재 Shepherd Neame가 원래 조리법대로 양조한다. 합병 대상인 Feldschlösschen은 최종적으로 Carlsberg가 소유한 회사였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1836년 Hans Heinrich Hürlimann, Dr. Staub, Maximilian Schenkenberg가 양조 지식이 많지 않은 상태에서 Hombrechtikon 근처 Feldbach에 양조장을 세웠다. Hürlimann은 원래 Bühler 가문의 것이던 방앗간을 소유하고 있었고, Staub는 지역 의사였으며, Schenkenberg는 자본이 있는 것처럼 보인 풍류를 즐기던 인물이었다. 경영을 맡기로 했던 Schenkenberg는 불법적인 환전으로 자본을 마련한 사기꾼으로 드러났고, Hürlimann은 이후 단독 소유주가 되었다. 회사의 성공은 독일에서 양조를 배운 아들 Albert \"Heinrich\" Hürlimann(1857–1934)과 함께 이루어졌으며, 그가 사업을 크게 키웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 알코올 도수 14%의 Samichlaus('산타클로스')로, Heller-Bock 또는 Dunkel-Bock이며 매년 12월 6일에 만들어 이듬해에 판매했다. 1996년부터 2000년까지는 Feldschlösschen이 관심이 없어 생산되지 않았고, 2000년 Carlsberg가 권리와 조리법을 오스트리아의 Schloss Eggenberger에 팔아 현재 750ml 병으로 생산된다. 단종된 브랜드로는 Birell, Hürlimann Caesarus Imperator Heller Bock, Hürlimann Spezial Export Bier, Hürlimann Festbier, Hürlimann Five Star, Hürlimann Gold Premium, Hürlimann Hammer, Hürlimann Hexenbrau, Hürlimann Panaché, Hürlimann Sternbräu가 있다. Hürlimann Sternbrau Lager는 Shepherd Neame가 영국에서 만들어 유럽으로 수출한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1996년 Feldschlösschen에 흡수되면서 양조장은 운영을 마쳤다. Feldschlösschen-Hürlimann-Gruppe은 2000년 11월 Carlsberg에 매각되었다. 현재 Hürlimann의 Sternbrau는 Shepherd Neame가 원래 조리법대로 양조하며, Samichlaus는 Schloss Eggenberger가 만든다. Birell의 원래 제법은 호주의 Coopers가 Carlsberg의 라이선스로 사용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "효모 연구의 선도자였던 창업자 아래 효모 개발의 오랜 역사를 쌓았고, 알코올 도수 14%의 Samichlaus로 유명했던 스위스 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.huerlimann.ch",
+  "entityLinks": {
+   "wikidata": "Q683303",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q683303",
+    "https://en.wikipedia.org/wiki/H%C3%BCrlimann_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q683303",
+   "country": "스위스",
+   "inception": "1836",
+   "headquarters": "취리히",
+   "founders": [
+    "Hans Heinrich Hürlimann"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Hürlimann Brewery」 본문과 위키데이터 Q683303 팩트를 근거로 편집"
+ }
+}

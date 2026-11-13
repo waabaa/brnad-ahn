@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2086194",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brouwerij-malheur",
+  "urlSlug": "brouwerij-malheur",
+  "name": "Brouwerij Malheur",
+  "nameKo": "",
+  "nameEn": "Brouwerij Malheur",
+  "definition": "Brouwerij Malheur는 벨기에 Buggenhout에 있는 맥주 양조장이다. 이전 이름은 De Landtsheer였으며, Malheur 맥주로 알려져 있다.",
+  "summary": "Brouwerij Malheur는 벨기에 Buggenhout에 있는 맥주 양조장이다. 이전 이름은 De Landtsheer였으며, Malheur 맥주로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "샴페인 효모와 비슷한 효모로 샴페인에 가까운 느낌을 내고, 샴페인 잔에 따라 마시는 경우가 많은 Malheur 페일 에일의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 벨기에 Buggenhout에 본사를 둔 맥주 양조장이며, 이전에는 De Landtsheer라는 이름을 사용했다. 양조장 이름과 같은 Malheur 맥주로 알려진 곳이다. Malheur는 맥주가 낼 수 있는 한 샴페인에 가깝다고 평가되는 독특한 페일 에일이다. 이 맥주는 샴페인 효모와 비슷한 효모를 사용하며, 이 효모가 샴페인 같은 입안의 질감과 탄산감, 색을 만든다고 한다. 향은 레몬, 레몬 제스트, 오렌지 껍질, 살구, 허브, 꽃, 풀, 흙, 후추, 꿀, 매콤한 효모 에스터로 이루어지고, 맛은 곡물, 포도즙, 향신료에 알코올의 자극이 더해진 구성이다. 맥주잔보다 샴페인 잔에 따라 실온으로 내는 경우가 많다고 한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장의 제품으로 확인되는 것은 Malheur 맥주이다. Malheur는 샴페인에 최대한 가까운 맥주로 평가되는 독특한 페일 에일이며, 샴페인 효모와 비슷한 효모가 입안의 질감과 탄산감, 색을 만든다고 한다. 향에서는 강한 레몬과 레몬 제스트, 오렌지 껍질, 살구, 허브, 꽃, 풀, 흙, 후추, 꿀, 매콤한 효모 에스터가 나타나는 것이 특징이다. 맛에서는 곡물, 포도즙, 향신료가 느껴지고 알코올의 자극이 뒤따르며, 알코올 도수는 Freixenet보다 낮다고 한다. 맥주잔보다 샴페인 잔에 따라 실온으로 내는 경우가 많다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "샴페인 효모와 비슷한 효모로 샴페인에 가까운 느낌을 내고, 샴페인 잔에 따라 마시는 경우가 많은 Malheur 페일 에일의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.malheur.be/fr",
+  "entityLinks": {
+   "wikidata": "Q2086194",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2086194",
+    "https://en.wikipedia.org/wiki/Malheur_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2086194",
+   "country": "벨기에",
+   "inception": null,
+   "headquarters": "Buggenhout",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Malheur Brewery」 본문과 위키데이터 Q2086194 팩트를 근거로 편집"
+ }
+}

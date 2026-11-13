@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q3472954",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T19:22:32+09:00"
+ },
+ "logoCandidate": "logos/nandos-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nandos",
+  "urlSlug": "nandos",
+  "name": "난도스",
+  "nameKo": "난도스",
+  "nameEn": "Nando's",
+  "definition": "난도스(Nando's)는 남아프리카 공화국 요하네스버그에서 시작한, 포르투갈식 직화 구이 페리페리 치킨을 전문으로 하는 다국적 패스트 캐주얼 레스토랑 체인이다.",
+  "summary": "난도스(Nando's)는 남아프리카 공화국 요하네스버그에서 시작한, 포르투갈식 직화 구이 페리페리 치킨을 전문으로 하는 다국적 패스트 캐주얼 레스토랑 체인이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "포르투갈식 직화 페리페리 치킨을 내세우고 바르셀루스의 수탉을 로고로 쓰는 남아프리카 공화국 출신 레스토랑 체인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "난도스는 포르투갈식 직화 구이 페리페리 치킨을 전문으로 하는 패스트 캐주얼 레스토랑 체인이다. 1987년 남아프리카 공화국 요하네스버그에서 문을 열었으며 현재 30개국에서 1,200개가 넘는 매장을 운영한다. 로고에는 포르투갈의 대표적인 상징 가운데 하나인 바르셀루스의 수탉이 그려져 있다. 2010년 Advertising Age는 난도스를 세계에서 가장 뜨거운 마케팅 브랜드 30곳 가운데 하나로 꼽았고, The Guardian은 난도스가 영국 패스트푸드의 모습을 바꾼 현대적인 레스토랑 브랜드라고 평했다. 2012년에는 전 세계 1,000번째 매장이 문을 열었다. 미국 채용 사이트 Indeed는 2018년 난도스를 영국 민간 부문 고용주 중 여섯 번째로 좋은 곳으로 꼽았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "난도스는 1987년 요하네스버그 로제트빌에서 포르투갈 출신 Fernando Duarte와 남아프리카 출신 Robert Brozin이 시작했다. 두 사람은 포르투갈계 모잠비크인이 운영하던 테이크아웃 가게 Chickenland를 방문해 페리페리 치킨을 맛본 뒤 약 80,000 랜드에 가게를 인수했다. 이후 가게 이름을 Fernando의 첫째 아들 이름을 따 Nando's로 바꿨다. 1989년에는 요하네스버그에 매장 세 곳, 포르투갈에 한 곳을 두어 모두 네 곳의 매장을 운영했다. 1992년 Capricorn Ventures International이 체인을 인수했고, 같은 해 Ealing Common에 첫 지점이 문을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "난도스는 Dick Enthoven이 2022년 사망할 때까지 그가 전액 소유했으며 현재는 그의 가족이 소유한다. 2014년 7월 기준으로는 룩셈부르크에 본사를 둔 Yellowwoods를 통해 Enthoven과 가족이 소유했다. Dick Enthoven의 아들 Robby Enthoven은 1993년부터 매장 운영을 맡아 영국 사업 확장을 이끌었다. 2018년까지 본국 남아프리카 공화국에는 340개 매장이 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "포르투갈식 직화 페리페리 치킨을 내세우고 바르셀루스의 수탉을 로고로 쓰는 남아프리카 공화국 출신 레스토랑 체인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.nandos.com",
+  "entityLinks": {
+   "wikidata": "Q3472954",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3472954",
+    "https://ko.wikipedia.org/wiki/%EB%82%9C%EB%8F%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Nando%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3472954",
+   "country": "남아프리카 공화국",
+   "inception": "1987",
+   "headquarters": "요하네스버그",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "영문 위키백과 「Nando's」 본문과 위키데이터 Q3472954 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

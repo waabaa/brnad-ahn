@@ -1,0 +1,71 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q699142",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "din-tai-fung",
+  "urlSlug": "din-tai-fung",
+  "name": "딘타이펑",
+  "nameKo": "딘타이펑",
+  "nameEn": "Din Tai Fung",
+  "definition": "딘타이펑(Din Tai Fung)은 대만 타이베이에 본사를 둔 중국 요리 전문 레스토랑 체인이다. 얇은 피로 감싼 샤오롱바오로 국제적으로 알려져 있으며 여러 국가에 지점을 둔다.",
+  "summary": "딘타이펑(Din Tai Fung)은 대만 타이베이에 본사를 둔 중국 요리 전문 레스토랑 체인이다. 얇은 피로 감싼 샤오롱바오로 국제적으로 알려져 있으며 여러 국가에 지점을 둔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "샤오롱바오를 중심으로 대만에서 출발해 세계 각지로 확장한 체인으로, 18개 주름의 얇은 피와 홍콩 지점의 미쉐린 별로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "딘타이펑은 대만 타이베이에 본사를 둔 중국 요리 전문 레스토랑 체인이다. 특히 샤오롱바오로 유명하다. 홍콩, 인도네시아, 일본, 마카오, 중국, 말레이시아, 필리핀, 싱가포르, 한국, 태국, 아랍에미리트, 영국, 미국, 캐나다에 지점이 있다. 2024년 기준 170곳이 넘는 매장을 운영하며, 같은 해 뉴욕에 첫 매장을 열었다. 18개의 주름을 잡은 종잇장처럼 얇은 피의 샤오롱바오로 국제적으로 알려져 있다. 2009년 11월 홍콩 침사추이의 첫 지점이 미쉐린 가이드에서 별을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업자 Yang Bing-yi는 Shanxi 출신 이민자로, 대만의 식용유 소매업체 Heng Tai Fung에서 10년간 일했다. 이후 독립하여 1958년 아내 Lai Penmei와 함께 식용유 소매업을 시작했고, 이전 고용주 Heng Tai Fung과 새 공급업체 DinMei Oils의 이름을 합쳐 상호를 지었다. 1970년경 캔 식용유가 보급되면서 사업이 크게 줄자, 상하이 요리 식당 주인 Tang Yongchang의 제안으로 가게 절반을 샤오롱바오 제조·판매로 바꾸었다. 샤오롱바오가 인기를 얻자 식용유 판매를 중단했고 1972년 정식 레스토랑이 되었다. 1996년 도쿄에 첫 해외 지점을 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 기준 170곳이 넘는 매장이 있으며, 북미 사업은 창업자들의 손자들이 공동 CEO로 맡고 있다. 2024년 뉴욕에 연 첫 매장은 25,000 square feet 규모에 450석이며 이전 Mars 2112 자리에 들어섰다. 2024년 4월 호주 노동자 임금 미지급으로 4 million AUD의 벌금을 받고 호주를 떠났다. 2025년 5월 밴쿠버에 캐나다 첫 매장을 열었고, Scottsdale과 Brooklyn에도 새 매장이 계획되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "샤오롱바오를 중심으로 대만에서 출발해 세계 각지로 확장한 체인으로, 18개 주름의 얇은 피와 홍콩 지점의 미쉐린 별로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dintaifung.com.tw",
+  "entityLinks": {
+   "wikidata": "Q699142",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q699142",
+    "https://ko.wikipedia.org/wiki/%EB%94%98%ED%83%80%EC%9D%B4%ED%8E%91",
+    "https://en.wikipedia.org/wiki/Din_Tai_Fung"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q699142",
+   "country": "일본",
+   "inception": "1991",
+   "headquarters": "타이베이시",
+   "founders": [
+    "Yang Bing-yi"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Din Tai Fung」 본문과 위키데이터 Q699142 팩트를 근거로 편집"
+ }
+}

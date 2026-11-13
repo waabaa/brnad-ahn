@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1066156",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/le-coq-sportif-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "le-coq-sportif",
+  "urlSlug": "le-coq-sportif",
+  "name": "르꼬끄 스포르티브",
+  "nameKo": "르꼬끄 스포르티브",
+  "nameEn": "Le Coq sportif",
+  "definition": "르꼬끄 스포르티브(Le Coq sportif)는 1882년에 설립된 프랑스의 스포츠 용품 및 의류 제조업체이다. 브랜드명은 프랑스어로 '활발한 수탉'을 뜻한다.",
+  "summary": "르꼬끄 스포르티브(Le Coq sportif)는 1882년에 설립된 프랑스의 스포츠 용품 및 의류 제조업체이다. 브랜드명은 프랑스어로 '활발한 수탉'을 뜻한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "1882년에 설립된 프랑스의 스포츠 브랜드로, '활발한 수탉'이라는 이름과 빨간 삼각형 안의 닭 로고로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "르꼬끄 스포르티브는 1882년에 프랑스에서 설립되어 스포츠 용품과 의류를 제조해 온 브랜드이다. 회사 이름이자 브랜드명인 Le Coq Sportif는 프랑스어로 '활발한 수탉'을 뜻하며, 한글 표기에서는 Le Coq을 띄어쓰기 없이 '르꼬끄'로 적는다. 로고는 빨간 삼각형 안에 닭이 그려진 그림이다. 창업자는 Émile Camuset이며, 본사는 프랑스 Romilly-sur-Seine에 있다. 대한민국에서는 데상트코리아가 브랜드 전개권을 소유하고 있다. 배구 V리그의 IBK 기업은행 알토스, 축구의 FC 서울과 남아프리카 공화국·카메룬 국가대표팀 등이 킷스폰서 대상으로 기록되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "르꼬끄 스포르티브는 프랑스에서 1882년에 설립되었다. 창업자는 Émile Camuset이다. 본사는 프랑스 Romilly-sur-Seine에 있다. 브랜드는 1970년부터 1986년까지 파리 생제르맹 FC의 킷스폰서를 했고, 1986년부터 1988년까지는 FC 인테르나치오날레 밀라노의 킷스폰서를 했다. 이후 울산 HD FC(2010~2011년), 인천 유나이티드 FC(2012~2014년), FC 서울(2012~2021년)의 킷스폰서를 맡은 것으로 기록되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "대한민국에서는 데상트코리아가 브랜드 전개권을 소유하고 있다. 킷스폰서 대상으로는 배구 V리그의 IBK 기업은행 알토스와 나고야 그램퍼스, 남아프리카 공화국과 카메룬 국가대표팀이 기록되어 있다. 한국어 위키백과에는 FC 서울과의 스폰서 관계가 2012년부터 2021년까지로 기재되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1882년에 설립된 프랑스의 스포츠 브랜드로, '활발한 수탉'이라는 이름과 빨간 삼각형 안의 닭 로고로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lecoqsportif.com/en/",
+  "entityLinks": {
+   "wikidata": "Q1066156",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1066156",
+    "https://ko.wikipedia.org/wiki/%EB%A5%B4%EA%BC%AC%EB%81%84_%EC%8A%A4%ED%8F%AC%EB%A5%B4%ED%8B%B0%EB%B8%8C",
+    "https://en.wikipedia.org/wiki/Le_Coq_Sportif"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1066156",
+   "country": "프랑스",
+   "inception": "1882",
+   "headquarters": "Romilly-sur-Seine",
+   "founders": [
+    "Émile Camuset"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「르꼬끄 스포르티브」 요약과 위키데이터 Q1066156 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

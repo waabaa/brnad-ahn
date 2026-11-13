@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-06",
+ "qid": "Q5491421",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/smoothie-king-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "smoothie-king",
+  "urlSlug": "smoothie-king",
+  "name": "스무디킹",
+  "nameKo": "스무디킹",
+  "nameEn": "Smoothie King",
+  "definition": "스무디킹(Smoothie King)은 스무디 판매를 전문으로 하는 소매점 체인을 운영하는 미국의 비공개 회사이다. 1973년 루이지애나주 케너에서 Steve와 Cindy Kunau가 설립했다.",
+  "summary": "스무디킹(Smoothie King)은 스무디 판매를 전문으로 하는 소매점 체인을 운영하는 미국의 비공개 회사이다. 1973년 루이지애나주 케너에서 Steve와 Cindy Kunau가 설립했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "스무디 판매 사업 분야를 개척하고 \"스무디\"라는 이름을 붙인 미국의 스무디 전문 체인으로, 한국 프랜차이즈 사업자가 인수한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스무디킹은 스무디 판매를 전문으로 하는 소매점 체인을 운영하는 미국의 비공개 회사이다. 1973년에 설립되어 스무디 판매 사업 분야를 개척했으며, 이 제품에 \"스무디\"라는 이름을 붙였다. 주로 미국에 매장이 있지만 대한민국, 케이맨 제도, 트리니다드 토바고에도 매장을 두고 있다. 2018년에는 1001번째 매장을 열었고, 2020년에는 매장 수가 1100개를 넘어섰다. 2023년에는 약 US$644 million의 매출을 올렸으며, 2018 회계 연도에는 $415.7 million을 기록했다. 2012년에는 한국 프랜차이즈 사업자에게 인수되었고, 2015년 10월에는 신세계그룹과 한국·베트남 사업권에 대한 지분 인수 계약을 체결했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스무디킹은 1973년 루이지애나주 케너에서 Steve와 Cindy Kunau가 설립했다. 초기에 Steve Kunau는 1,000칼로리 \"헐크\" 스무디를 매장 제품 라인에 추가했는데, 화학요법 중 체중 회복을 돕고 싶어 하는 이웃을 위해 만든 것이었다. 한국에서는 김성완이 2002년 또는 2003년에 첫 번째 해외 프랜차이즈를 열었고, 6년 이내에 119개의 매장을 더 열었다. 2012년 김성완은 Kunau로부터 회사를 인수했으며, Standard Chartered Private Equity와 국민연금에서 US$58 million을 조달했다. 그는 800개의 새로운 프랜차이즈 매장과 200개의 직영점을 개설할 계획을 세웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 제품인 1,000칼로리 \"헐크\" 스무디는 적어도 2020년까지 다른 암 환자들에게도 인기가 많았다. 2013년 1월 1일 Center for Science in the Public Interest는 Peanut Power Plus Grape 스무디에 \"건강에 해롭다\"는 이유로 Xtreme Eating \"불명예\"를 수여했다. 2019년 3월 회사는 \"클린 블렌즈 이니셔티브\"에 집중했는데, 매장 메뉴에 통과일과 채소를 더 많이 포함하고 착색제, 인공 향료, 방부제, 첨가당이 없는 스무디를 제공하는 것이었다. 2023년에는 건강에 관심이 많은 젊은 고객들을 유치하기 위해 모든 제품에서 시럽을 제거하고 100% 유기농 채소를 추가했다. 그해에는 스무디 볼도 도입했으며, 수익성이 좋은 것으로 입증되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스무디킹은 비공개 회사이며, 2012년부터 한국 프랜차이즈 사업자 출신의 김성완이 최고경영자를 맡고 있다. 2020년에는 매장 수가 1100개를 넘어섰고, 2023년에는 약 US$644 million의 매출을 올렸다. 2023년에는 모든 제품에서 시럽을 제거하고 스무디 볼을 도입했다. New Orleans Pelicans와의 명명권 계약은 2014년부터 2024년까지였으며, 2034년까지 연장할 수 있는 옵션이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스무디 판매 사업 분야를 개척하고 \"스무디\"라는 이름을 붙인 미국의 스무디 전문 체인으로, 한국 프랜차이즈 사업자가 인수한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.smoothieking.com/",
+  "entityLinks": {
+   "wikidata": "Q5491421",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5491421",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%AC%B4%EB%94%94%ED%82%B9",
+    "https://en.wikipedia.org/wiki/Smoothie_King"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5491421",
+   "country": null,
+   "inception": "1973",
+   "headquarters": "뉴올리언스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-06"
+  },
+  "sourceNote": "한국어 위키백과 「스무디킹」 요약과 위키데이터 Q5491421 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

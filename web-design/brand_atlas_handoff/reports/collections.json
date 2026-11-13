@@ -1,16 +1,17 @@
 {
- "generatedAt": "2026-09-14",
+ "generatedAt": "2026-11-13",
  "counts": {
-  "ai": 25,
-  "fintech": 31,
-  "banking": 56,
-  "energy": 49,
+  "ai": 26,
+  "fintech": 32,
+  "banking": 76,
+  "energy": 52,
   "property": 38,
-  "airlines": 64,
+  "airlines": 82,
   "museums": 27,
-  "fast-food": 44,
-  "cafes": 31,
-  "digital-services": 82,
+  "fast-food": 58,
+  "cafes": 34,
+  "beer": 383,
+  "digital-services": 86,
   "olympics-expos": 16
  },
  "members": {
@@ -38,6 +39,12 @@
     "why": "include(수동 확인)"
    }
   ],
+  "budweiser": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q610672 P31=Q15075508"
+   }
+  ],
   "pizza-hut": [
    {
     "collection": "fast-food",
@@ -62,10 +69,22 @@
     "why": "wikidata Q244457 P31=Q18509232"
    }
   ],
+  "corona-extra": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q864987 P31=Q15075508"
+   }
+  ],
   "paul-bassett": [
    {
     "collection": "cafes",
     "why": "include(수동 확인)"
+   }
+  ],
+  "heineken": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q854383 P31=Q15075508"
    }
   ],
   "simon-l-velt": [
@@ -287,6 +306,12 @@
   "shy-bird": [
    {
     "collection": "cafes",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "forgotten-boardwalk-brewing": [
+   {
+    "collection": "beer",
     "why": "include(수동 확인)"
    }
   ],
@@ -564,6 +589,12 @@
     "why": "include(수동 확인)"
    }
   ],
+  "stella-artois": [
+   {
+    "collection": "beer",
+    "why": "include(수동 확인)"
+   }
+  ],
   "dunkin": [
    {
     "collection": "fast-food",
@@ -583,6 +614,12 @@
   "yahoo": [
    {
     "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "ceria": [
+   {
+    "collection": "beer",
     "why": "include(수동 확인)"
    }
   ],
@@ -661,6 +698,18 @@
   "mastercard": [
    {
     "collection": "fintech",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "asahi": [
+   {
+    "collection": "beer",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "kirin": [
+   {
+    "collection": "beer",
     "why": "include(수동 확인)"
    }
   ],
@@ -883,6 +932,12 @@
   "danggeun-market": [
    {
     "collection": "digital-services",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hitejinro": [
+   {
+    "collection": "beer",
     "why": "include(수동 확인)"
    }
   ],
@@ -1745,6 +1800,12 @@
   "hana-bank": [
    {
     "collection": "banking",
+    "why": "include(수동 확인)"
+   }
+  ],
+  "hite": [
+   {
+    "collection": "beer",
     "why": "include(수동 확인)"
    }
   ],
@@ -2732,6 +2793,12 @@
     "why": "wikidata Q1416215 P31=Q12738586"
    }
   ],
+  "molson-coors-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3319685 P452=Q11644505"
+   }
+  ],
   "nasdaq-inc": [
    {
     "collection": "fintech",
@@ -2778,6 +2845,2622 @@
    {
     "collection": "airlines",
     "why": "wikidata Q822614 P31=Q46970"
+   }
+  ],
+  "air-premia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q106504531 P31=Q46970"
+   }
+  ],
+  "haagen-dazs": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1143333 P31=Q76220181"
+   }
+  ],
+  "bp": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q152057 P31=Q14941854"
+   }
+  ],
+  "cyworld": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q29760 P31=Q3220391"
+   }
+  ],
+  "stability-ai": [
+   {
+    "collection": "ai",
+    "why": "wikidata Q123592234 P452=Q11660"
+   }
+  ],
+  "alipay": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q493556 P31=Q108273448"
+   }
+  ],
+  "bank-of-korea": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q485531 P31=Q66344"
+   }
+  ],
+  "bavarian-state-brewery-weihenstephan": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q812294 P31=Q131734"
+   }
+  ],
+  "china-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q51756 P31=Q46970"
+   }
+  ],
+  "china-southern-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q291090 P31=Q46970"
+   }
+  ],
+  "el-al-israel-airlines-ltd": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q208489 P31=Q46970"
+   }
+  ],
+  "im-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q61090620 P31=Q848507"
+   }
+  ],
+  "lowenbrau-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q256392 P31=Q131734"
+   }
+  ],
+  "nonghyup-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q15283673 P31=Q22687"
+   }
+  ],
+  "suntory": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1345267 P31=Q131734"
+   }
+  ],
+  "wavve": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q65233413 P31=Q829548"
+   }
+  ],
+  "wingstop": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q8025339 P31=Q18509232"
+   }
+  ],
+  "arabica": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q107639197 P31=Q76212517"
+   }
+  ],
+  "blue-bottle-coffee-company": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q4928917 P452=Q10302044"
+   }
+  ],
+  "jack-in-the-box": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1538507 P31=Q18509232"
+   }
+  ],
+  "no-brand-burger": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q96395962 P31=Q18509232"
+   }
+  ],
+  "sukiya": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q6137375 P31=Q18509232"
+   }
+  ],
+  "a-w-restaurants": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q277641 P31=Q18509232"
+   }
+  ],
+  "ben-jerrys": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q816412 P31=Q76220181"
+   }
+  ],
+  "carlsberg-group": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q113215 P31=Q131734"
+   }
+  ],
+  "cass": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q27952203 P31=Q15075508"
+   }
+  ],
+  "churchs-texas-chicken": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1089932 P31=Q18509232"
+   }
+  ],
+  "coors-light": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5168060 P31=Q15075508"
+   }
+  ],
+  "dairy-queen": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1141226 P31=Q18509232"
+   }
+  ],
+  "eggslut": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q17239262 P31=Q18509232"
+   }
+  ],
+  "industrial-and-commercial-bank-of-china": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q26463 P31=Q848507"
+   }
+  ],
+  "krombacher-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q694218 P31=Q131734"
+   }
+  ],
+  "lavazza": [
+   {
+    "collection": "cafes",
+    "why": "wikidata Q543750 P452=Q10302044"
+   }
+  ],
+  "little-caesars": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q1393809 P31=Q18509232"
+   }
+  ],
+  "marugame-seimen": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q10877253 P31=Q18509232"
+   }
+  ],
+  "miller-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q658637 P31=Q131734"
+   }
+  ],
+  "oriental-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q205601 P31=Q131734"
+   }
+  ],
+  "sapporo-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q288727 P31=Q131734"
+   }
+  ],
+  "sonic-drive-in": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q7561808 P31=Q18509232"
+   }
+  ],
+  "tsingtao-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q313542 P31=Q131734"
+   }
+  ],
+  "whataburger": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q376627 P31=Q18509232"
+   }
+  ],
+  "3-fonteinen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3033355 P31=Q114839461"
+   }
+  ],
+  "333-premium-export-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q24648499 P31=Q15075508"
+   }
+  ],
+  "a-le-coq": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q278905 P31=Q131734"
+   }
+  ],
+  "aass-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q303690 P31=Q131734"
+   }
+  ],
+  "abn-amro": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q287471 P31=Q22687"
+   }
+  ],
+  "achel-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q610086 P31=Q15075508"
+   }
+  ],
+  "air-europa": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q332980 P31=Q46970"
+   }
+  ],
+  "air-greenland": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q407292 P31=Q46970"
+   }
+  ],
+  "air-nostrum": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q407694 P31=Q46970"
+   }
+  ],
+  "air-transat": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q407869 P31=Q46970"
+   }
+  ],
+  "aktienbrauerei-kaufbeuren": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q422034 P31=Q131734"
+   }
+  ],
+  "albani-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3246988 P31=Q15075508"
+   }
+  ],
+  "aldersbach-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900099 P31=Q131734"
+   }
+  ],
+  "alexander-keiths-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1422369 P31=Q131734"
+   }
+  ],
+  "alfa-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2538673 P31=Q131734"
+   }
+  ],
+  "alken-maes": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q773164 P31=Q131734"
+   }
+  ],
+  "allgauer-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2649044 P31=Q5487333"
+   }
+  ],
+  "amager-bryghus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4739126 P31=Q5487333"
+   }
+  ],
+  "amstel-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q478119 P31=Q131734"
+   }
+  ],
+  "anchor-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q489187 P31=Q131734"
+   }
+  ],
+  "anderson-valley-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4754219 P31=Q131734"
+   }
+  ],
+  "angkor-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4763317 P31=Q15075508"
+   }
+  ],
+  "anheuser-busch-inbev": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q128738 P31=Q131734"
+   }
+  ],
+  "apatinska-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q618044 P31=Q131734"
+   }
+  ],
+  "arcobrau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q637645 P31=Q131734"
+   }
+  ],
+  "ariana-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900342 P31=Q15075508"
+   }
+  ],
+  "arkells-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4791958 P31=Q131734"
+   }
+  ],
+  "asahi-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q720479 P31=Q131734"
+   }
+  ],
+  "asia-pacific-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q15304359 P31=Q131734"
+   }
+  ],
+  "augustiner-brau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q153546 P31=Q131734"
+   }
+  ],
+  "baltika-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q805734 P31=Q131734"
+   }
+  ],
+  "banco-bilbao-vizcaya-argentaria": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q806189 P31=Q22687"
+   }
+  ],
+  "banco-santander": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q6496310 P31=Q1548033"
+   }
+  ],
+  "banjalucka-pivara": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2882546 P31=Q131734"
+   }
+  ],
+  "bank-of-montreal": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q806693 P31=Q22687"
+   }
+  ],
+  "batemans-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4868773 P31=Q131734"
+   }
+  ],
+  "bauskas-alus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4034923 P31=Q131734"
+   }
+  ],
+  "becks": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q106854 P31=Q131734"
+   }
+  ],
+  "belle-vue-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2661513 P31=Q114839461"
+   }
+  ],
+  "berliner-pilsner": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q821688 P31=Q131734"
+   }
+  ],
+  "bertinchamps-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q22343067 P31=Q131734"
+   }
+  ],
+  "binding-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q863650 P31=Q131734"
+   }
+  ],
+  "birra-ichnusa": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2099630 P31=Q131734"
+   }
+  ],
+  "birra-korca": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q865835 P452=Q11644505"
+   }
+  ],
+  "birra-raffo": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2259081 P31=Q131734"
+   }
+  ],
+  "birra-stela": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q83850 P31=Q131734"
+   }
+  ],
+  "birzeit-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q108485764 P31=Q5487333"
+   }
+  ],
+  "bitburger-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q706698 P31=Q131734"
+   }
+  ],
+  "black-sheep-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q880551 P31=Q131734"
+   }
+  ],
+  "blue-girl-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7211620 P31=Q15075508"
+   }
+  ],
+  "blue-moon": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q8248915 P31=Q15075508"
+   }
+  ],
+  "bolten-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q891620 P31=Q131734"
+   }
+  ],
+  "bornstedt-crown-estate": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q896511 P31=Q131734"
+   }
+  ],
+  "borsod-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1502941 P31=Q131734"
+   }
+  ],
+  "bosteels-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2791168 P31=Q131734"
+   }
+  ],
+  "boston-beer-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q894558 P31=Q131734"
+   }
+  ],
+  "brahma": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q897293 P31=Q15075508"
+   }
+  ],
+  "brains-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3107294 P31=Q131734"
+   }
+  ],
+  "brakspear-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4956054 P452=Q11644505"
+   }
+  ],
+  "bralima-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2923625 P31=Q131734"
+   }
+  ],
+  "brasil-kirin": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q644625 P31=Q131734"
+   }
+  ],
+  "brasserie-a-vapeur": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2259011 P31=Q131734"
+   }
+  ],
+  "brasserie-caracole": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2104945 P31=Q131734"
+   }
+  ],
+  "brasserie-dachouffe": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q899484 P31=Q131734"
+   }
+  ],
+  "brasserie-de-la-senne": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2196984 P31=Q5487333"
+   }
+  ],
+  "brasserie-de-saint-omer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2924044 P31=Q131734"
+   }
+  ],
+  "brasserie-de-saint-sylvestre": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2924047 P31=Q131734"
+   }
+  ],
+  "brasserie-de-silly": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2424921 P31=Q131734"
+   }
+  ],
+  "brasserie-de-tahiti": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2924049 P31=Q131734"
+   }
+  ],
+  "brasserie-lancelot": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2924020 P31=Q5487333"
+   }
+  ],
+  "brasserie-nationale": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1907605 P31=Q131734"
+   }
+  ],
+  "brauerei-gold-ochsen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900213 P31=Q131734"
+   }
+  ],
+  "brauerei-zur-malzmuhle": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900427 P31=Q131734"
+   }
+  ],
+  "braugold": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900469 P31=Q131734"
+   }
+  ],
+  "brewdog": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q911367 P31=Q131734"
+   }
+  ],
+  "brewery-angerik": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2780761 P31=Q131734"
+   }
+  ],
+  "brewery-brunehaut": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2682652 P31=Q131734"
+   }
+  ],
+  "brewery-of-bellevaux": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2334658 P31=Q131734"
+   }
+  ],
+  "brewery-ommegang": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2425707 P31=Q131734"
+   }
+  ],
+  "brewery-verhaeghe": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2291152 P31=Q131734"
+   }
+  ],
+  "breznak": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3490068 P31=Q15075508"
+   }
+  ],
+  "brooklyn-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1764694 P31=Q131734"
+   }
+  ],
+  "brouwerij-boon": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q603384 P31=Q114839461"
+   }
+  ],
+  "brouwerij-de-prael": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5900483 P31=Q131734"
+   }
+  ],
+  "brouwerij-malheur": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2086194 P31=Q131734"
+   }
+  ],
+  "browar-warka": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q11688910 P31=Q131734"
+   }
+  ],
+  "brussels-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q153571 P31=Q46970"
+   }
+  ],
+  "budelse-brouwerij": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1984997 P31=Q5487333"
+   }
+  ],
+  "budweiser-budvar": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1001644 P31=Q131734"
+   }
+  ],
+  "burgundy-of-flanders-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1981682 P31=Q15075508"
+   }
+  ],
+  "bush": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1017471 P31=Q15075508"
+   }
+  ],
+  "calanda-brau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1026242 P31=Q15075508"
+   }
+  ],
+  "caledonian-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5019422 P452=Q11644505"
+   }
+  ],
+  "camerons-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5026431 P31=Q131734"
+   }
+  ],
+  "campaign-for-real-ale": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q925258 P452=Q11644505"
+   }
+  ],
+  "canadian-imperial-bank-of-commerce": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q666694 P31=Q22687"
+   }
+  ],
+  "cantillon-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2345368 P31=Q114839461"
+   }
+  ],
+  "cardinal-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q225900 P31=Q131734"
+   }
+  ],
+  "carib-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5039331 P31=Q131734"
+   }
+  ],
+  "carling": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1041750 P31=Q131734"
+   }
+  ],
+  "carlsberg-polska": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5042893 P452=Q11644505"
+   }
+  ],
+  "carlton-united-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5042950 P31=Q131734"
+   }
+  ],
+  "castle-rock-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5050272 P31=Q131734"
+   }
+  ],
+  "ccu": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2990393 P452=Q11644505"
+   }
+  ],
+  "celtia": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2944134 P31=Q15075508"
+   }
+  ],
+  "central-de-cervejas": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1299917 P31=Q131734"
+   }
+  ],
+  "cerveceria-nacional-dominicana": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5065318 P31=Q131734"
+   }
+  ],
+  "cerveza-quilmes": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q595750 P31=Q15075508"
+   }
+  ],
+  "cervezas-alhambra": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q949447 P452=Q11644505"
+   }
+  ],
+  "cesu-alus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4036833 P31=Q131734"
+   }
+  ],
+  "china-construction-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q26299 P31=Q22687"
+   }
+  ],
+  "christianssands-bryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1083003 P31=Q131734"
+   }
+  ],
+  "cieszyn-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5119742 P31=Q5487333"
+   }
+  ],
+  "cobra-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1104762 P31=Q15075508"
+   }
+  ],
+  "colner-hofbrau-fruh": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q153852 P31=Q131734"
+   }
+  ],
+  "commerzbank-ag": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q157617 P31=Q22687"
+   }
+  ],
+  "coopers-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2426375 P31=Q131734"
+   }
+  ],
+  "coors-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1407305 P31=Q131734"
+   }
+  ],
+  "corsendonk": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1135433 P31=Q15075508"
+   }
+  ],
+  "cristal": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q8344306 P31=Q15075508"
+   }
+  ],
+  "cuvee-des-trolls": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1146659 P31=Q15075508"
+   }
+  ],
+  "dairy-in-the-new-garden": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q883074 P31=Q131734"
+   }
+  ],
+  "danske-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1636974 P31=Q22687"
+   }
+  ],
+  "de-dolle-brouwers": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2117061 P31=Q131734"
+   }
+  ],
+  "de-halve-maan-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1179933 P31=Q131734"
+   }
+  ],
+  "de-koninck-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2684279 P31=Q131734"
+   }
+  ],
+  "de-proefbrouwerij": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5244695 P31=Q131734"
+   }
+  ],
+  "de-struise-brewers": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1987425 P31=Q131734"
+   }
+  ],
+  "desnoes-geddes": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3024535 P31=Q131734"
+   }
+  ],
+  "desperados": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2646636 P31=Q15075508"
+   }
+  ],
+  "devassa-by-playboy": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q16249481 P31=Q15075508"
+   }
+  ],
+  "diebels": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1220049 P31=Q131734"
+   }
+  ],
+  "distelhauser-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1229442 P31=Q131734"
+   }
+  ],
+  "dogfish-head-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3033748 P31=Q131734"
+   }
+  ],
+  "dojlidy-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5288708 P31=Q131734"
+   }
+  ],
+  "dommelsch-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q13573965 P31=Q131734"
+   }
+  ],
+  "dortmund-u-tower": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q762922 P31=Q131734"
+   }
+  ],
+  "dortmunder-actien-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q458609 P31=Q131734"
+   }
+  ],
+  "dubuisson-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1164954 P31=Q131734"
+   }
+  ],
+  "dugges-ale-och-porterbryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5312526 P31=Q5487333"
+   }
+  ],
+  "dupont-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2421215 P31=Q131734"
+   }
+  ],
+  "duvel-moortgat-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q387897 P31=Q131734"
+   }
+  ],
+  "e-c-dahls-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5321771 P31=Q131734"
+   }
+  ],
+  "east-african-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q493271 P31=Q131734"
+   }
+  ],
+  "eisenbahn": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1311398 P31=Q5487333"
+   }
+  ],
+  "eni": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q565594 P31=Q1341478"
+   }
+  ],
+  "erdinger": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q698957 P31=Q131734"
+   }
+  ],
+  "ernst-barre-private-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2111045 P31=Q131734"
+   }
+  ],
+  "estrella-damm": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1370611 P31=Q15075508"
+   }
+  ],
+  "estrella-galicia": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3394030 P31=Q15075508"
+   }
+  ],
+  "eurowings": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q168836 P31=Q46970"
+   }
+  ],
+  "eva-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q715113 P31=Q46970"
+   }
+  ],
+  "falcon-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5431739 P31=Q131734"
+   }
+  ],
+  "family-brewery-bernard": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12045395 P31=Q131734"
+   }
+  ],
+  "faxe-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2128955 P31=Q131734"
+   }
+  ],
+  "feldschlosschen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q686666 P31=Q131734"
+   }
+  ],
+  "femsa": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1435628 P31=Q131734"
+   }
+  ],
+  "fischer-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q494166 P31=Q131734"
+   }
+  ],
+  "fix": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1129508 P31=Q131734"
+   }
+  ],
+  "flensburger-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q682660 P31=Q131734"
+   }
+  ],
+  "foroya-bjor": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q257229 P31=Q131734"
+   }
+  ],
+  "forst": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q861973 P31=Q131734"
+   }
+  ],
+  "fosters-group-limited": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1313123 P31=Q131734"
+   }
+  ],
+  "fosters": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1423785 P31=Q15075508"
+   }
+  ],
+  "free-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1378288 P31=Q15075508"
+   }
+  ],
+  "freiberger-brauhaus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1453827 P31=Q131734"
+   }
+  ],
+  "fuglsang": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5507291 P31=Q131734"
+   }
+  ],
+  "furstenberg-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1483584 P31=Q131734"
+   }
+  ],
+  "g-schneider-sohn": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2111113 P31=Q131734"
+   }
+  ],
+  "gaffel-becker-co": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q151607 P31=Q131734"
+   }
+  ],
+  "gir-bryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12011732 P31=Q5487333"
+   }
+  ],
+  "goose-island-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5584074 P31=Q131734"
+   }
+  ],
+  "gosser": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q696650 P31=Q1548071"
+   }
+  ],
+  "grans-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3356414 P31=Q131734"
+   }
+  ],
+  "granville-island-brewing": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5596912 P31=Q131734"
+   }
+  ],
+  "greene-king": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5564162 P31=Q131734"
+   }
+  ],
+  "grimbergen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1546845 P31=Q15075508"
+   }
+  ],
+  "grisette": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2146615 P31=Q15075508"
+   }
+  ],
+  "grolsch": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q153075 P31=Q131734"
+   }
+  ],
+  "group-mahou-san-miguel": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q862750 P31=Q131734"
+   }
+  ],
+  "gubernija": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q646458 P31=Q131734"
+   }
+  ],
+  "guinness": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q194297 P31=Q15075508"
+   }
+  ],
+  "gulden-draak": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1959068 P31=Q15075508"
+   }
+  ],
+  "gulpener-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2754546 P31=Q131734"
+   }
+  ],
+  "haandbryggeriet": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q13861230 P31=Q131734"
+   }
+  ],
+  "haberbusch-i-schiele": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5636713 P31=Q131734"
+   }
+  ],
+  "hacker-pschorr-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q568684 P31=Q131734"
+   }
+  ],
+  "handelsbanken": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1421630 P31=Q22687"
+   }
+  ],
+  "harbin-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1584923 P452=Q11644505"
+   }
+  ],
+  "hartwall": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1587723 P31=Q131734"
+   }
+  ],
+  "harveys-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5677759 P31=Q131734"
+   }
+  ],
+  "hasseroder": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q20871058 P31=Q131734"
+   }
+  ],
+  "heineken-mexico": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1056430 P31=Q131734"
+   }
+  ],
+  "heinrich-reissdorf": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q151205 P31=Q131734"
+   }
+  ],
+  "henninger-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q377626 P31=Q131734"
+   }
+  ],
+  "hertog-jan": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2239073 P31=Q131734"
+   }
+  ],
+  "herzoglich-bayerisches-brauhaus-tegernsee": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1615321 P31=Q131734"
+   }
+  ],
+  "het-anker-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2473159 P31=Q131734"
+   }
+  ],
+  "holba-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q5878569 P31=Q131734"
+   }
+  ],
+  "holsten-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q460206 P31=Q131734"
+   }
+  ],
+  "hurlimann-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q683303 P31=Q131734"
+   }
+  ],
+  "huyghe-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1632494 P31=Q131734"
+   }
+  ],
+  "imperial": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1813698 P31=Q15075508"
+   }
+  ],
+  "inbev-belgium": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1416717 P452=Q11644505"
+   }
+  ],
+  "ing-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q645708 P31=Q22687"
+   }
+  ],
+  "innis-gunn": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3977895 P31=Q131734"
+   }
+  ],
+  "interbrew": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6272191 P31=Q131734"
+   }
+  ],
+  "israel-beer-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4041653 P31=Q131734"
+   }
+  ],
+  "jazz-aviation": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q1458703 P31=Q2440569"
+   }
+  ],
+  "jet2-com": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q1140807 P31=Q46970"
+   }
+  ],
+  "jever-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q601859 P31=Q131734"
+   }
+  ],
+  "john-martin": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3182007 P31=Q131734"
+   }
+  ],
+  "john-smiths-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3372581 P31=Q131734"
+   }
+  ],
+  "jopen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q392195 P31=Q15075508"
+   }
+  ],
+  "joseph-holts-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q10540942 P452=Q11644505"
+   }
+  ],
+  "jupiler": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q153960 P31=Q15075508"
+   }
+  ],
+  "kalik": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q66861871 P31=Q15075508"
+   }
+  ],
+  "kalnapilis": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4992054 P31=Q131734"
+   }
+  ],
+  "kamenitza": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12282497 P31=Q131734"
+   }
+  ],
+  "karhu": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q798067 P31=Q15075508"
+   }
+  ],
+  "karjala": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q760961 P31=Q15075508"
+   }
+  ],
+  "karlovacko": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1536205 P31=Q15075508"
+   }
+  ],
+  "karlsberg": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q520174 P31=Q131734"
+   }
+  ],
+  "kilkenny": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1741320 P31=Q15075508"
+   }
+  ],
+  "kingfisher": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1572281 P31=Q15075508"
+   }
+  ],
+  "kiuchi-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3197640 P31=Q131734"
+   }
+  ],
+  "klosterbrauerei-andechs": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1776382 P31=Q131734"
+   }
+  ],
+  "koff": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q797517 P31=Q15075508"
+   }
+  ],
+  "kompania-piwowarska": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12322536 P452=Q11644505"
+   }
+  ],
+  "kona-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6428700 P31=Q131734"
+   }
+  ],
+  "konig-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1795931 P31=Q131734"
+   }
+  ],
+  "konig-ludwig-schlossbrauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q878149 P31=Q131734"
+   }
+  ],
+  "konigsbacher": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1777966 P31=Q131734"
+   }
+  ],
+  "kopparbergs-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900289 P31=Q131734"
+   }
+  ],
+  "kostritzer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q314054 P31=Q131734"
+   }
+  ],
+  "kukko": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4353537 P31=Q15075508"
+   }
+  ],
+  "la-binchoise": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2156377 P31=Q5487333"
+   }
+  ],
+  "labatt-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1422061 P31=Q131734"
+   }
+  ],
+  "lagunitas-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6473070 P31=Q131734"
+   }
+  ],
+  "laitilan-wirvoitusjuomatehdas": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6474193 P31=Q131734"
+   }
+  ],
+  "lapin-kulta": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1269232 P31=Q15075508"
+   }
+  ],
+  "lasko-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2448461 P31=Q131734"
+   }
+  ],
+  "laurentina": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q27972948 P31=Q15075508"
+   }
+  ],
+  "lav-pivo": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1871906 P31=Q15075508"
+   }
+  ],
+  "lech-brewery-wielkopolski": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6511530 P31=Q131734"
+   }
+  ],
+  "lefebvre-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1967378 P31=Q131734"
+   }
+  ],
+  "leffe": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1341618 P31=Q15075508"
+   }
+  ],
+  "lervig-bryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q11983781 P31=Q131734"
+   }
+  ],
+  "licher-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q204880 P31=Q131734"
+   }
+  ],
+  "lion": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3241775 P452=Q11644505"
+   }
+  ],
+  "lone-star-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6671394 P31=Q131734"
+   }
+  ],
+  "lucky-buddha-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q21233556 P31=Q131734"
+   }
+  ],
+  "macks-lbryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1748810 P31=Q131734"
+   }
+  ],
+  "madeira-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q10272528 P452=Q11644505"
+   }
+  ],
+  "madri-excepcional": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q118875870 P31=Q15075508"
+   }
+  ],
+  "magpie-brewing-co": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q139407061 P31=Q131734"
+   }
+  ],
+  "maisels": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900204 P31=Q131734"
+   }
+  ],
+  "mandarin-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q1150302 P31=Q46970"
+   }
+  ],
+  "meantime-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6804103 P31=Q131734"
+   }
+  ],
+  "mecklenburgische-brauerei-lubz": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1915708 P31=Q131734"
+   }
+  ],
+  "mikkeller": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1970693 P31=Q131734"
+   }
+  ],
+  "miller-lite": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6859181 P31=Q15075508"
+   }
+  ],
+  "mohren-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1942919 P31=Q131734"
+   }
+  ],
+  "molson": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1148414 P31=Q131734"
+   }
+  ],
+  "moosehead-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q304091 P31=Q131734"
+   }
+  ],
+  "moritz-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1629001 P452=Q11644505"
+   }
+  ],
+  "murphys-irish-stout": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1546373 P31=Q15075508"
+   }
+  ],
+  "mutzig": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q14627942 P31=Q131734"
+   }
+  ],
+  "mythos": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1637028 P31=Q131734"
+   }
+  ],
+  "n-gne": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q340194 P31=Q131734"
+   }
+  ],
+  "namibia-breweries-limited": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1964257 P31=Q131734"
+   }
+  ],
+  "neuzeller-kloster-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q880118 P31=Q131734"
+   }
+  ],
+  "new-belgium-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q14685020 P31=Q131734"
+   }
+  ],
+  "nokian-panimo": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7048063 P31=Q5487333"
+   }
+  ],
+  "norrlands-guld": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2080900 P31=Q15075508"
+   }
+  ],
+  "oettinger-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q562552 P31=Q131734"
+   }
+  ],
+  "okells-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3350034 P31=Q15075508"
+   }
+  ],
+  "okocim-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3536948 P31=Q131734"
+   }
+  ],
+  "olvi": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4045735 P31=Q131734"
+   }
+  ],
+  "oranjeboom": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q479003 P31=Q131734"
+   }
+  ],
+  "orion-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7102771 P31=Q131734"
+   }
+  ],
+  "pabst-blue-ribbon": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2045297 P31=Q15075508"
+   }
+  ],
+  "pabst-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3360013 P31=Q131734"
+   }
+  ],
+  "pacifico": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4570769 P31=Q15075508"
+   }
+  ],
+  "paderborner-brauerei": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q18589448 P31=Q131734"
+   }
+  ],
+  "pecs-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q282879 P31=Q131734"
+   }
+  ],
+  "peroni-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q865859 P31=Q131734"
+   }
+  ],
+  "piast-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7190347 P31=Q131734"
+   }
+  ],
+  "pico-brewery-alvinne": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2689313 P31=Q131734"
+   }
+  ],
+  "piedboeuf-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2206530 P31=Q131734"
+   }
+  ],
+  "pilsner-urquell": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q331630 P31=Q15075508"
+   }
+  ],
+  "pinkus-muller": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q880090 P31=Q131734"
+   }
+  ],
+  "pirinsko-pivo": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q181084 P31=Q131734"
+   }
+  ],
+  "pivovar-broumov": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12045380 P31=Q131734"
+   }
+  ],
+  "pivovar-eggenberg": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1297476 P452=Q11644505"
+   }
+  ],
+  "pivovar-ostravar": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q15880777 P31=Q131734"
+   }
+  ],
+  "pivovar-policka": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12045425 P31=Q131734"
+   }
+  ],
+  "plzensky-prazdroj": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q948831 P31=Q131734"
+   }
+  ],
+  "prestige": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3402663 P31=Q15075508"
+   }
+  ],
+  "pripps": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q17190954 P31=Q131734"
+   }
+  ],
+  "privatbrauerei-hofmuhl": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q17053398 P31=Q131734"
+   }
+  ],
+  "privatbrauerei-wittingen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1414562 P31=Q131734"
+   }
+  ],
+  "radeberger-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q568797 P31=Q131734"
+   }
+  ],
+  "radeberger-group": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2125485 P31=Q131734"
+   }
+  ],
+  "red-stripe": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2417742 P31=Q15075508"
+   }
+  ],
+  "regional-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q29054164 P31=Q131734"
+   }
+  ],
+  "riegele": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q900506 P31=Q131734"
+   }
+  ],
+  "ringnes": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1334431 P31=Q131734"
+   }
+  ],
+  "rochefort": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q855563 P31=Q131734"
+   }
+  ],
+  "rogue-ales": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7359507 P31=Q131734"
+   }
+  ],
+  "rolling-rock": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4569896 P31=Q15075508"
+   }
+  ],
+  "rothaus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q448720 P31=Q131734"
+   }
+  ],
+  "royal-bank-of-canada": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q735261 P31=Q22687"
+   }
+  ],
+  "royal-brewery-of-krusovice": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1796123 P31=Q131734"
+   }
+  ],
+  "s-a-damm": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3012930 P452=Q11644505"
+   }
+  ],
+  "sabeco": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q129645 P31=Q131734"
+   }
+  ],
+  "saint-feuillien-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q14622653 P31=Q131734"
+   }
+  ],
+  "saint-vincent-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q110442676 P31=Q15075508"
+   }
+  ],
+  "saku-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1851509 P31=Q131734"
+   }
+  ],
+  "samuel-adams": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q21286736 P31=Q15075508"
+   }
+  ],
+  "samuel-smith-old-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7412675 P31=Q131734"
+   }
+  ],
+  "san-miguel-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q25302580 P31=Q131734"
+   }
+  ],
+  "sandels": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q11892346 P31=Q15075508"
+   }
+  ],
+  "sarajevska-pivara": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q6471508 P31=Q131734"
+   }
+  ],
+  "schlenkerla": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q566990 P31=Q131734"
+   }
+  ],
+  "schwaben-brau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2252562 P31=Q131734"
+   }
+  ],
+  "scotiabank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q451476 P31=Q22687"
+   }
+  ],
+  "sierra-nevada-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2289193 P31=Q131734"
+   }
+  ],
+  "singha": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2140520 P31=Q15075508"
+   }
+  ],
+  "skol": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q152532 P31=Q15075508"
+   }
+  ],
+  "smithwicks": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1073087 P31=Q15075508"
+   }
+  ],
+  "spaten-franziskaner-brau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q787066 P31=Q131734"
+   }
+  ],
+  "spatenbrau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q874166 P31=Q131734"
+   }
+  ],
+  "speights": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2308687 P31=Q131734"
+   }
+  ],
+  "spendrups": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3335289 P31=Q131734"
+   }
+  ],
+  "spoetzl-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7578805 P31=Q5487333"
+   }
+  ],
+  "st-bernardus-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2497996 P31=Q131734"
+   }
+  ],
+  "st-erhard": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7587890 P31=Q131734"
+   }
+  ],
+  "staatliches-hofbrauhaus-in-munchen": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q697534 P31=Q52058803"
+   }
+  ],
+  "standard-chartered": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q548278 P31=Q22687"
+   }
+  ],
+  "starobrno-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12221 P31=Q131734"
+   }
+  ],
+  "stiegl-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q877556 P31=Q131734"
+   }
+  ],
+  "stone-brewing-company": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7618876 P31=Q131734"
+   }
+  ],
+  "stortebeker-braumanufaktur": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2360702 P31=Q131734"
+   }
+  ],
+  "stuttgarter-hofbrau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2359534 P31=Q131734"
+   }
+  ],
+  "sumol-compal": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1143305 P31=Q131734"
+   }
+  ],
+  "svalbard-bryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q37347386 P31=Q131734"
+   }
+  ],
+  "svijany-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3508302 P31=Q131734"
+   }
+  ],
+  "svyturys-utenos-alus-uab": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2607444 P452=Q11644505"
+   }
+  ],
+  "svyturys": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12680342 P31=Q131734"
+   }
+  ],
+  "swedbank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1145493 P31=Q22687"
+   }
+  ],
+  "taedonggang": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q595892 P31=Q15075508"
+   }
+  ],
+  "tauras": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2646603 P31=Q131734"
+   }
+  ],
+  "tempo-beverages-ltd": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1856260 P31=Q131734"
+   }
+  ],
+  "the-old-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7754811 P31=Q131734"
+   }
+  ],
+  "thisted-bryghus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7786476 P31=Q131734"
+   }
+  ],
+  "tinkoff-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3529196 P31=Q131734"
+   }
+  ],
+  "totalenergies": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q154037 P31=Q14941854"
+   }
+  ],
+  "transavia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q246952 P31=Q46970"
+   }
+  ],
+  "trebjesa-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2450916 P31=Q131734"
+   }
+  ],
+  "tuborg-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1798652 P452=Q11644505"
+   }
+  ],
+  "tusker": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7856799 P31=Q15075508"
+   }
+  ],
+  "tvedes-bryggeri": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12007958 P31=Q131734"
+   }
+  ],
+  "u-fleku": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1581385 P31=Q131734"
+   }
+  ],
+  "unicredit": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q45568 P31=Q22687"
+   }
+  ],
+  "ursus-breweries": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4990 P452=Q11644505"
+   }
+  ],
+  "utenos-alus": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12675746 P31=Q131734"
+   }
+  ],
+  "van-pur": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q3663199 P31=Q131734"
+   }
+  ],
+  "van-steenberghe-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2509884 P31=Q131734"
+   }
+  ],
+  "velkopopovicky-kozel": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1071385 P31=Q15075508"
+   }
+  ],
+  "veltins-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q608350 P31=Q131734"
+   }
+  ],
+  "virgin-australia": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q727074 P31=Q46970"
+   }
+  ],
+  "virgin-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q494917 P452=Q806718"
+   }
+  ],
+  "viru": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q7935260 P31=Q15075508"
+   }
+  ],
+  "visa-inc": [
+   {
+    "collection": "fintech",
+    "why": "wikidata Q328840 P31=Q5038204"
+   }
+  ],
+  "volfas-engelman": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q12678128 P31=Q131734"
+   }
+  ],
+  "vueling": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q646741 P31=Q46970"
+   }
+  ],
+  "warsteiner": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q696787 P31=Q131734"
+   }
+  ],
+  "weibo": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q92526 P31=Q3220391"
+   }
+  ],
+  "wellpark-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q4018906 P452=Q11644505"
+   }
+  ],
+  "wernesgruner": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q880640 P31=Q131734"
+   }
+  ],
+  "westjet": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q1059770 P31=Q46970"
+   }
+  ],
+  "westmalle-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1144830 P31=Q27825807"
+   }
+  ],
+  "westvleteren-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q1368052 P31=Q5487333"
+   }
+  ],
+  "wrexham-lager": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q8038120 P31=Q131734"
+   }
+  ],
+  "wurzburger-hofbrau": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q870325 P31=Q131734"
+   }
+  ],
+  "xxxx": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q924355 P31=Q15075508"
+   }
+  ],
+  "yebisu-beer": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2027249 P31=Q15075508"
+   }
+  ],
+  "yuengling": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q844073 P31=Q131734"
+   }
+  ],
+  "zagorka": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2354423 P31=Q15075508"
+   }
+  ],
+  "zajecarsko-pivo": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q16108998 P31=Q15075508"
+   }
+  ],
+  "zlaty-bazant": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2986930 P31=Q15075508"
+   }
+  ],
+  "zotler-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q2809884 P31=Q131734"
+   }
+  ],
+  "zubr": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q9397571 P31=Q15075508"
+   }
+  ],
+  "zywiec-brewery": [
+   {
+    "collection": "beer",
+    "why": "wikidata Q75438 P31=Q131734"
    }
   ]
  }

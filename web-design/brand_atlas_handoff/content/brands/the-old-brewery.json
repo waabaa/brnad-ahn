@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q7754811",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "the-old-brewery",
+  "urlSlug": "the-old-brewery",
+  "name": "The Old Brewery",
+  "nameKo": "",
+  "nameEn": "The Old Brewery",
+  "definition": "The Old Brewery는 1792년 현재의 뉴욕시 맨해튼 남부에 세워진 양조장 건물이다. 훗날 공동주택으로 바뀌어 Five Points 빈민가에서 악명 높은 건물이 되었다.",
+  "summary": "The Old Brewery는 1792년 현재의 뉴욕시 맨해튼 남부에 세워진 양조장 건물이다. 훗날 공동주택으로 바뀌어 Five Points 빈민가에서 악명 높은 건물이 되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "양조장으로 출발해 Five Points 빈민가의 과밀한 공동주택으로 바뀐 건물이며, 가장 붐비던 시기에 1,000명이 넘는 사람이 살았다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 건물은 Coulthard's Brewery로도 불렸으며, 1792년 현재의 뉴욕시에 해당하는 맨해튼 남부 중심부에 세워진 양조장이다. 처음에는 도시 외곽에 있었으나 이후 Five Points 지구가 되었고, 1837년 공황 뒤의 경제 불황을 거치며 공동주택 밀집지로 변했다. 공황 뒤 양조장은 주거용으로 바뀌어 지금의 이름으로 알려졌고, 무법과 과밀, 불결, 질병으로 얼룩진 건물이 되었다. 지하실은 20개의 방으로 나뉘었고, 가장 붐비던 시기에는 1,000명이 넘는 남성, 여성, 아이가 살았다. 역사가 Herbert Asbury에 따르면 철거 작업자들이 지하실과 벽 안에서 사람 뼈를 발견했다. 1852년 철거되어 그 자리에 기독교 선교관 건물이 들어섰다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "양조장은 1792년 Isaac Coulthard가 Collect Pond라는 담수호의 남동쪽에 세웠다. 호수는 약 한 세기 동안 주변 산업으로 오염되다가 1811~1812년경 매립되었고, 매립지에 기존 도로가 연장되고 새 도로가 만들어졌다. 양조장은 Cross Street 바로 앞, Paradise Park 맞은편에 자리했으며, 인근 교차로가 악명 높은 Five Points가 되었다. Isaac Coulthard는 1812년, 아들 William은 1822년에 사망했고, 이후 1827년 Joseph Barnes 등이 양조장을 운영했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 건물은 1852년 Methodist Ladies of the Mission이 매입했고 같은 해 12월 철거되었다. 그 자리에는 New Mission House at the Five Points라는 새 건물이 세워졌으며, 40여 년 뒤 이 선교관 역시 더 큰 건물로 교체되었다. 대중문화에서는 Martin Scorsese의 2002년 영화 Gangs of New York에 Five Points Christian Mission, 공동주택, 빈민 놀이관으로 묘사되었고, 2012년 비디오 게임 Assassin's Creed III의 한 대회 장소는 이 건물을 본뜬 옛 양조장이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조장으로 출발해 Five Points 빈민가의 과밀한 공동주택으로 바뀐 건물이며, 가장 붐비던 시기에 1,000명이 넘는 사람이 살았다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q7754811",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7754811",
+    "https://en.wikipedia.org/wiki/The_Old_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7754811",
+   "country": "미국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「The Old Brewery」 본문과 위키데이터 Q7754811 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q880090",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pinkus-muller",
+  "urlSlug": "pinkus-muller",
+  "name": "Pinkus Müller",
+  "nameKo": "",
+  "nameEn": "Pinkus Müller",
+  "definition": "Pinkus Müller는 독일 북부 도시 뮌스터에 본사를 둔 양조장이다. 뮌스터에 원래 있던 150개 양조장 가운데 지금까지 남아 있는 유일한 양조장이다.",
+  "summary": "Pinkus Müller는 독일 북부 도시 뮌스터에 본사를 둔 양조장이다. 뮌스터에 원래 있던 150개 양조장 가운데 지금까지 남아 있는 유일한 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "뮌스터에 원래 있던 150개 양조장 가운데 유일하게 남은 양조장이라는 점이 이 브랜드를 구분 짓는다. 1816년 Johannes Müller의 도착에서 시작한 역사를 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Pinkus Müller는 독일 북부 도시 뮌스터에 기반을 둔 양조장이다. 1816년 Johannes Müller(1792–1870)가 고향 Hildebrandshausen을 떠나 뮌스터에 온 것이 이 양조장의 기원이다. 1866년 이후 백 년 동안 양조장과 펍이 확장되었다. 1993년에는 인근 도시 Laer에 병입 공장이 문을 열었다. Pinkus Alt, Pinkus Special, Hefeweizen, Pinkus Pils, Pinkus Alkoholfrei, Demeter Lagerbier 등을 제품으로 내놓는다. 뮌스터에 원래 있던 150개 양조장 중 유일하게 남은 곳이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장의 기원은 1816년 Johannes Müller(1792–1870)가 고향 Hildebrandshausen을 떠나 뮌스터에 도착한 일로 거슬러 올라간다. 그는 Friederika Cramer와 결혼한 뒤 부부가 함께 빵집과 양조장을 열었다. 1866년에는 빵집 문을 닫고 대신 맥아 제조장을 열었다. 이후 백 년 동안 양조장과 펍은 계속 확장되었다. 1993년에는 뮌스터 인근 도시 Laer에 병입 공장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Pinkus Müller의 사업은 뮌스터에 있는 양조장과 펍, 그리고 1993년 Laer에 연 병입 공장을 축으로 한다. 맥주 제품으로는 Pinkus Alt, Pinkus Special, Hefeweizen, Pinkus Pils, Pinkus Leicht, Pinkus Jubilate가 있다. 그 밖에 Müllers Malz와 Pinkus Honig Malz가 제품 목록에 함께 올라 있다. Pinkus Alkoholfrei와 Demeter Lagerbier도 같은 제품 목록에 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Pinkus Müller는 현재 독일 북부 도시 뮌스터에 본사를 두고 있다. 뮌스터에 원래 있던 150개 양조장 가운데 유일하게 남은 양조장이다. 1993년 인근 도시 Laer에 병입 공장을 연 이후에도 Pinkus Alt, Hefeweizen, Pinkus Pils, Demeter Lagerbier 등 여러 제품을 내놓고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "뮌스터에 원래 있던 150개 양조장 가운데 유일하게 남은 양조장이라는 점이 이 브랜드를 구분 짓는다. 1816년 Johannes Müller의 도착에서 시작한 역사를 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pinkus.de/",
+  "entityLinks": {
+   "wikidata": "Q880090",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q880090",
+    "https://en.wikipedia.org/wiki/Pinkus_M%C3%BCller"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q880090",
+   "country": "독일",
+   "inception": null,
+   "headquarters": "뮌스터",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Pinkus Müller」 본문과 위키데이터 Q880090 팩트를 근거로 편집"
+ }
+}

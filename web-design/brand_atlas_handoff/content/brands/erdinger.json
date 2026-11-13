@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q698957",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "erdinger",
+  "urlSlug": "erdinger",
+  "name": "에르딩거",
+  "nameKo": "에르딩거",
+  "nameEn": "Erdinger",
+  "definition": "에르딩거(Erdinger)는 독일 에르딩에 본사를 둔 양조장이자 그 맥주 브랜드이다. 바이스비어라 불리는 밀맥주로 가장 잘 알려져 있으며, 세계 최대의 밀맥주 양조장으로 소개된다.",
+  "summary": "에르딩거(Erdinger)는 독일 에르딩에 본사를 둔 양조장이자 그 맥주 브랜드이다. 바이스비어라 불리는 밀맥주로 가장 잘 알려져 있으며, 세계 최대의 밀맥주 양조장으로 소개된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대 규모의 밀맥주 양조장이라는 점과, 알코올프리 맥주를 운동 후 마시는 스포츠 음료로 내세우는 점이 이 브랜드의 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에르딩거는 독일 에르딩에 본사를 둔 양조장으로, 정식 회사명은 Privatbrauerei Erdinger Weißbräu Werner Brombach GmbH이며 Erdinger Weißbräu라는 이름으로도 불린다. 대표 제품은 브랜드 이름을 딴 바이스비어, 즉 밀맥주이다. 세계 최대의 밀맥주 양조장으로 알려져 있으며 독일과 유럽연합 전역에서 널리 판매되고 인기가 있다. 에르딩거 맥주는 에르딩이라는 도시를 대표하는 식음료 상품으로 꼽힌다. 바이스비어 외에도 어두운 둔켈, 라거인 헬레스 등을 포함해 현재 14종의 제품을 내놓고 있다. 2015년부터는 알코올프리 맥주를 운동 후 마시는 스포츠 음료로 마케팅하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "에르딩거는 독일 에르딩에서 1886년 Johann Kienle이 설립한 양조장이다. 양조장이 현재의 이름을 얻은 것은 1949년이며, 당시 소유주였던 Franz Brombach가 이름을 붙였다. Franz Brombach는 그보다 14년 앞서 이 양조장을 인수한 인물이다. 그의 아들 Werner Brombach가 1975년에 경영을 넘겨받아 이후 회사를 이끌었다. 에르딩거 맥주는 에르딩을 대표하는 식음료 상품으로 꼽히며, 세계 최대의 밀맥주 양조장으로 알려져 있고 독일과 유럽연합 전역에서 널리 유통된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 14종의 맥주를 판매한다. 핵심 제품은 황금빛 탁한 Weißbier(알코올 도수 5.3%)이며, 어두운 갈색의 Dunkel(5.6%)과 여과한 Kristallweizen(5.3%)이 있다. 짙은 색 바이첸보크인 Pikantus(7.3%), 가벼운 Leicht(2.9%), 전통 밀맥주 Urweisse(4.9%), 라거인 Helles(5.1%)도 있다. 계절 제품으로는 11월부터 2월까지 양조하는 Schneeweiße(5.6%)와 에르딩의 Herbstfest용 Festweiße(5.7%)가 있다. 레모네이드를 섞은 Naturradler(2.0%)와 알코올프리 계열인 Alkoholfrei, Helles Alkoholfrei, Alkoholfrei Zitrone, Alkoholfrei Grapefruit(모두 0.5% 미만)도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 회사의 정식 명칭은 Privatbrauerei Erdinger Weißbräu Werner Brombach GmbH이며 본사는 에르딩에 있다. 세계 최대의 밀맥주 양조장으로 독일과 유럽연합 전역에서 널리 판매된다. 2015년부터 Alkoholfrei 맥주를 운동 후 마시는 스포츠 음료로 마케팅하고 있으며, 현재 14종의 제품을 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대 규모의 밀맥주 양조장이라는 점과, 알코올프리 맥주를 운동 후 마시는 스포츠 음료로 내세우는 점이 이 브랜드의 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.erdinger.de",
+  "entityLinks": {
+   "wikidata": "Q698957",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q698957",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%EB%94%A9%EA%B1%B0",
+    "https://en.wikipedia.org/wiki/Erdinger"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q698957",
+   "country": "독일",
+   "inception": "1886",
+   "headquarters": "에르딩",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Erdinger」 본문과 위키데이터 Q698957 팩트를 근거로 편집"
+ }
+}

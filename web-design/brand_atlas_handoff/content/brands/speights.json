@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q2308687",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "speights",
+  "urlSlug": "speights",
+  "name": "스페이츠",
+  "nameKo": "스페이츠",
+  "nameEn": "Speight's",
+  "definition": "스페이츠(Speight's)는 뉴질랜드 더니딘에 있는 맥주 브랜드이자 양조장이다. 1876년에 설립되었으며 뉴질랜드에서 가장 많이 팔리는 맥주 중 하나인 Gold Medal Ale로 알려져 있다.",
+  "summary": "스페이츠(Speight's)는 뉴질랜드 더니딘에 있는 맥주 브랜드이자 양조장이다. 1876년에 설립되었으며 뉴질랜드에서 가장 많이 팔리는 맥주 중 하나인 Gold Medal Ale로 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5833333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "더니딘에서 1876년부터 이어진 맥주 브랜드로, Gold Medal Ale과 'Pride of the South' 슬로건으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스페이츠는 뉴질랜드 더니딘에 기반을 둔 맥주 브랜드이자 양조장이며, 전국에 'Speight's Ale House'라는 가스트로펍 체인도 운영한다. 대표 제품은 뉴질랜드에서 가장 많이 팔리는 맥주 중 하나인 Gold Medal Ale이다. 에일로 판매되지만 실제로는 라거 효모와 라거링 기법으로 양조하는 New Zealand Draught 스타일 라거이다. 브랜드는 일본 자본이 지배하는 지주회사 Lion이 소유하며, Lion은 Kirin의 자회사이다. 오랫동안 'Pride of the South'라는 슬로건과 Southern man 광고 캠페인을 사용해 왔다. 뉴질랜드에서 가장 오래 이어져 온 상업 맥주 브랜드 가운데 하나이며, 더니딘 중심부의 눈에 띄는 랜드마크인 양조장 건물을 거점으로 한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1876년 James Speight, Charles Greenslade, William Dawson이 더니딘의 Rattray Street에 양조장을 세웠다. 세 사람은 Wellpark Brewery에서 일하던 자리를 떠나 독립했다. 1880년 멜버른 국제박람회에서 금메달을 받아 Gold Medal Ale 브랜드가 생겼고, 1887년에는 뉴질랜드에서 가장 큰 양조장이 되어 호주와 태평양 섬들로 맥주를 수출했다. 1923년 다른 아홉 개 양조장과 합병해 New Zealand Breweries를 이루었고, 같은 해 창업자 William Dawson이 사망했다. 1960년 New Zealand Breweries는 Lucky Beer로 이름을 바꿨으나 두 달 만에 같은 해 10월 Speight's 브랜드명을 되살렸고, 1977년 Lion이 New Zealand Breweries를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스페이츠의 맥주 가운데 가장 잘 알려진 제품은 Speight's Gold Medal Ale이며, 2001년부터는 오클랜드 뉴마켓의 Lion 양조장에서도 생산이 이루어진다. 이 밖에 Speight's Summit 라인과 Speight's Craft 라인을 생산하며, Craft 라인에는 Speight's Old Dark, Speight's Distinction Ale, Speight's Triple Hop Pilsner가 있다. Craft 라인에 속한 제품은 모두 색이 서로 다른 라거이다. 또한 사과 사이다도 생산하며, 맥주 제품군은 글루텐 프리가 아니다. 더니딘 양조장 건물에서는 일반인을 대상으로 가이드 투어를 정기적으로 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스페이츠는 일본 자본이 지배하는 지주회사 Lion이 소유하며, Lion은 Kirin의 자회사이다. 2026년에는 창립 150주년을 맞아 Summit Ultra와 Gold Medal Ale 제품군에 금색 캔 150개를 배포하는 경품 행사를 열었다. 금색 캔을 찾은 참가자는 캔의 고유 코드를 행사 웹사이트에 입력해 추첨에 응모할 수 있었다. 더니딘 양조장 건물은 2012~14년에 내진 보강 공사를 거쳤다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "더니딘에서 1876년부터 이어진 맥주 브랜드로, Gold Medal Ale과 'Pride of the South' 슬로건으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.speights.co.nz/",
+  "entityLinks": {
+   "wikidata": "Q2308687",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2308687",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%B8%A0",
+    "https://en.wikipedia.org/wiki/Speight%27s"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2308687",
+   "country": "뉴질랜드",
+   "inception": "1876",
+   "headquarters": "더니딘",
+   "founders": [
+    "William Dawson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Speight's」 본문과 위키데이터 Q2308687 팩트를 근거로 편집"
+ }
+}

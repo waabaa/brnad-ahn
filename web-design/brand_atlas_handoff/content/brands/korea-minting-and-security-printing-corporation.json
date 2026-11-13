@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-25",
+ "qid": "Q60376",
+ "demand": {
+  "why": "국내",
+  "naver": 0.157,
+  "koViews": 691,
+  "enViews": 1313,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/korea-minting-and-security-printing-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "korea-minting-and-security-printing-corporation",
+  "urlSlug": "korea-minting-and-security-printing-corporation",
+  "name": "한국조폐공사",
+  "nameKo": "한국조폐공사",
+  "nameEn": "Korea Minting and Security Printing Corporation",
+  "definition": "한국조폐공사(Korea Minting and Security Printing Corporation)는 은행권·주화·국채·공채·각종 유가증권과 정부·지방자치단체 등이 쓰는 특수 제품을 제조하는 대한민국의 공기업이다.",
+  "summary": "한국조폐공사(Korea Minting and Security Printing Corporation)는 은행권·주화·국채·공채·각종 유가증권과 정부·지방자치단체 등이 쓰는 특수 제품을 제조하는 대한민국의 공기업이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.65,
+  "image": "",
+  "logo": "",
+  "insight": "은행권·주화부터 주민등록증·여권까지 보안이 필요한 제품을 제조하는 대한민국의 공기업으로, 공기업 중 가장 역사가 길다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "한국조폐공사는 실물 경제활동에서 보안이 필요한 제품과 서비스를 제공하는 대한민국의 공기업이다. 은행권, 주화, 수표, 우표, 상품권을 제조하고, 신분 인증을 위한 주민등록증과 여권을 제조·발급한다. 약칭은 KOMSCO이며 본사는 대전광역시에 있고, 1951년 10월 정부의 전액 출자로 설립되어 공기업 중 가장 역사가 길다. 사업 영역은 인쇄, 주화 및 특수압인, ID로 나뉘며 기술연구원에서 화폐와 유가증권의 진위 여부 및 보안 기술을 개발한다. 2013년부터는 골드바 판매도 하고 있다. 경상북도 경산시의 화폐본부가 은행권과 주화를 담당하고, 충청남도 부여군의 제지 본부가 특수 보안 용지를 생산한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "한국조폐공사는 1951년 10월 1일 「한국조폐공사법」에 따라 6·25전쟁 중 임시 수도 부산에서 설립되었으며, 정부가 150만원을 출자했다. 종전과 함께 본사를 부산에서 서울로 이전했고, 1973년 수도권 인구분산 정책에 따라 대전으로 이전했다. 1952년 10월 은행권 1,000원권과 500원권을 자체 제작하며 인쇄 사업을 시작했고, 1966년 1원, 5원, 10원 주화 3종의 제조를 시작했다. 1967년 11월 기술연구원을 발족했고, 1988년에는 본사 건물에 화폐박물관을 건립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인쇄 부문은 은행권, 수표, 우표, 증지, 채권, 상품권을 한국은행, 기획재정부, 우정사업본부 등에 납품한다. 주화 및 특수압인 부문은 주화, 기념주화, 훈장, 메달, 귀금속 제품을 만들며, 무궁화 대훈장을 비롯한 12종의 훈장을 정부에 공급한다. 메달 분야에서는 올림픽 메달과 같은 정부의 각종 기념 메달을 만들어 왔다. ID 부문은 주민등록증, 여권, 운전면허증, 외국인등록증, 복지카드 등 공공 신분증과 관련 시스템을 행정안전부 등에 납품한다. 2019년 기준으로 연간 약 2,300여 종의 특수 인쇄물을 제조·공급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "한국조폐공사는 대한민국 기획재정부를 모기업으로 하는 공기업이며 본사는 대전광역시 유성구에 있다. 2007년 여권과 주민등록증의 중앙 집중 제조·발급을 위해 ID본부를 발족했고, 2010년에는 우즈베키스탄 자회사 GKD(Global KOMSCO DAEWOO)를 설립했다. 2018년에는 대전 본사 내 비정규직을 정규직으로 전환하고 자회사 콤스코시큐리티와 콤스코투게더를 설립했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "은행권·주화부터 주민등록증·여권까지 보안이 필요한 제품을 제조하는 대한민국의 공기업으로, 공기업 중 가장 역사가 길다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://english.komsco.com",
+  "entityLinks": {
+   "wikidata": "Q60376",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q60376",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%A1%B0%ED%8F%90%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Korea_Minting_and_Security_Printing_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q60376",
+   "country": "대한민국",
+   "inception": "1951",
+   "headquarters": "대전광역시",
+   "founders": [],
+   "parent": "대한민국 기획재정부",
+   "fetchedAt": "2026-10-25"
+  },
+  "sourceNote": "한국어 위키백과 「한국조폐공사」 요약과 위키데이터 Q60376 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

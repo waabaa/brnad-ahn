@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q827258",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/bershka-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bershka",
+  "urlSlug": "bershka",
+  "name": "버쉬카",
+  "nameKo": "버쉬카",
+  "nameEn": "Bershka",
+  "definition": "버쉬카(Bershka)는 1998년 스페인에서 설립된 의류 소매 브랜드이다. 스페인 인디텍스(Inditex) 그룹에 속하며, 젊은 층을 겨냥한 패스트패션 콘셉트로 출발했다.",
+  "summary": "버쉬카(Bershka)는 1998년 스페인에서 설립된 의류 소매 브랜드이다. 스페인 인디텍스(Inditex) 그룹에 속하며, 젊은 층을 겨냥한 패스트패션 콘셉트로 출발했다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "젊은 층을 겨냥한 패스트패션 콘셉트로 1998년 인디텍스 그룹에서 만들어진 스페인 의류 브랜드이며, 그룹 매출의 10%를 차지한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "버쉬카는 스페인의 의류 소매업체로, 젊은 소비자를 목표 시장으로 삼는 패스트패션 콘셉트의 브랜드이다. 스페인 인디텍스 그룹 소속이며, 같은 그룹에는 Zara, Massimo Dutti, Pull&Bear, Oysho, Uterqüe, Stradivarius, Zara Home 등의 브랜드가 있다. 2022년 1월 기준으로 74개국에 걸쳐 852개 이상의 매장을 운영했다. 버쉬카의 매출은 인디텍스 전체 매출의 10%를 차지한다. 매장은 아프리카, 북미·중미·남미, 아시아, 유럽 등 여러 대륙에 분포한다. 2022년 8월에는 같은 그룹의 Pull&Bear, Stradivarius와 함께 중국에서 TMall 매장과 오프라인 매장을 닫았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "버쉬카는 1998년 4월 스페인에서 젊은 층을 겨냥한 새로운 매장이자 패스트패션 콘셉트로 만들어졌다. 창업자는 Amancio Ortega이며 본사는 Tordera에 있다. 이후 인디텍스 그룹 소속 브랜드로서 아프리카, 북미·중미·남미, 아시아, 유럽에 매장을 두었다. 2022년 1월 기준 매장은 74개국 852개 이상이었고, 매출은 인디텍스 전체의 10%를 차지했다. 2022년 8월에는 Pull&Bear, Stradivarius와 함께 중국의 TMall 매장과 오프라인 매장을 닫았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "버쉬카는 인디텍스 그룹에 속한 스페인 의류 소매업체로, 본사는 Tordera에 있다. 2022년 1월 기준 74개국에 852개 이상의 매장이 있었고, 매출은 인디텍스의 10%를 차지했다. 2022년 8월에는 Pull&Bear, Stradivarius와 함께 중국의 TMall 매장과 오프라인 매장을 닫았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "젊은 층을 겨냥한 패스트패션 콘셉트로 1998년 인디텍스 그룹에서 만들어진 스페인 의류 브랜드이며, 그룹 매출의 10%를 차지한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bershka.com",
+  "entityLinks": {
+   "wikidata": "Q827258",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q827258",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EC%89%AC%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Bershka"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q827258",
+   "country": "스페인",
+   "inception": "1998",
+   "headquarters": "Tordera",
+   "founders": [
+    "아만시오 오르테가"
+   ],
+   "parent": "인디텍스",
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Bershka」 본문과 위키데이터 Q827258 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

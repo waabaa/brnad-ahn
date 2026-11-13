@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q4036833",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cesu-alus",
+  "urlSlug": "cesu-alus",
+  "name": "Cēsu Alus",
+  "nameKo": "",
+  "nameEn": "Cēsu Alus",
+  "definition": "Cēsu Alus는 라트비아 체시스에 있는 맥주 및 주류 음료 생산 기업이다. 뿌리가 1590년으로 거슬러 올라가며, 라트비아에서 맥주를 가장 많이 생산하는 양조장이다.",
+  "summary": "Cēsu Alus는 라트비아 체시스에 있는 맥주 및 주류 음료 생산 기업이다. 뿌리가 1590년으로 거슬러 올라가며, 라트비아에서 맥주를 가장 많이 생산하는 양조장이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1590년에 뿌리를 둔 발트 및 북유럽 국가 최고(最古) 양조장으로 여겨지며, 라트비아 최대 맥주 생산자라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "라트비아 체시스에 본사를 둔 맥주 및 주류 음료 생산 기업이며, 모기업은 Olvi이다. 양조장의 뿌리는 1590년으로 거슬러 올라가며, 발트 및 북유럽 국가에서 가장 오래된 양조장으로 여겨진다. 2014년부터 라트비아에서 맥주를 가장 많이 생산하는 양조장이 되었으며, 2018년에는 라트비아에서 생산된 전체 맥주의 64%를 생산했다. Olvi는 핀란드의 맥주 및 무알코올 음료 생산자로, 1999년에 이 회사를 인수했다. 2010년 라트비아에서 지속가능성 지수가 도입된 이후 계속 평가에 참여해 왔으며, 2017년부터는 최고 등급인 플래티넘 등급 인증을 받았다. 역사적인 양조장 건물은 1878년에 지어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1590년 체시스 성의 감사 기록에 맥주 양조가 처음 언급되었으며, 최초의 양조장은 성 안에 있었다. 17세기 전반에 양조장이 이전되었고, 1878년에 역사적인 양조장 건물이 지어지면서 Emanuel von Sievers 백작의 소유로 양조장이 자리 잡았다. 1922년 체시스의 여러 기업가가 Sievers에게서 양조장을 다시 사들여 주식회사 Augļu dārzs를 세웠고, 1940년 이 회사는 국유화되었다. 1976년 산업용 맥주 생산자 Cēsu Alus가 설립되어 Naukšēni와 Gulbene의 양조장도 통합했으며, 1995년 민영화되어 다시 주식회사가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Olvi가 모기업이며, 본사는 체시스에 있다. 1999년 Olvi에 인수된 뒤 2001년 7월 체시스에 새 양조 공장을 열었다. 2003년 라트비아 두 번째 규모의 맥주 생산자가 되었고 2014년에는 최대 생산자가 되었다. 2018년에는 라트비아 전체 맥주 생산량의 64%를 차지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1590년에 뿌리를 둔 발트 및 북유럽 국가 최고(最古) 양조장으로 여겨지며, 라트비아 최대 맥주 생산자라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cesualus.lv",
+  "entityLinks": {
+   "wikidata": "Q4036833",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4036833",
+    "https://en.wikipedia.org/wiki/C%C4%93su_Alus"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4036833",
+   "country": "라트비아",
+   "inception": "1991",
+   "headquarters": "체시스",
+   "founders": [],
+   "parent": "Olvi",
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Cēsu Alus」 본문과 위키데이터 Q4036833 팩트를 근거로 편집"
+ }
+}

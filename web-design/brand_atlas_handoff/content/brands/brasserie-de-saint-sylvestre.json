@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q2924047",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brasserie-de-saint-sylvestre",
+  "urlSlug": "brasserie-de-saint-sylvestre",
+  "name": "Brasserie de Saint-Sylvestre",
+  "nameKo": "",
+  "nameEn": "Brasserie de Saint-Sylvestre",
+  "definition": "Brasserie de Saint-Sylvestre는 프랑스 북동부 Nord-Pas de Calais 지역에 있는 양조장이다. Saint-Sylvestre-Cappel 마을에 자리하며 3 Monts 맥주로 가장 잘 알려져 있다.",
+  "summary": "Brasserie de Saint-Sylvestre는 프랑스 북동부 Nord-Pas de Calais 지역에 있는 양조장이다. Saint-Sylvestre-Cappel 마을에 자리하며 3 Monts 맥주로 가장 잘 알려져 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "양조 역사가 적어도 1600년까지 거슬러 올라가는 플랑드르의 양조장으로, 세 언덕에서 이름을 딴 3 Monts로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 프랑스 북동부에 위치한 Nord-Pas de Calais 지역에서 맥주를 만드는 곳이다. 양조장이 있는 Saint-Sylvestre-Cappel 마을의 양조 역사는 적어도 1600년까지 거슬러 올라간다. 다만 플랑드르의 순탄치 않았던 역사 때문에 이 마을의 양조 활동은 여러 차례 중단되었다. 이곳에서는 여러 종류의 맥주를 양조하며, 그중 가장 잘 알려진 것은 3 Monts이다. 3 Monts는 알코올 도수 8.5%의 Bière de Garde로, 프랑스의 플랑드르 지역에서 빚는 맥주이다. Bière de Garde는 숙성용 에일의 한 형태를 가리키는 용어이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 양조장은 여러 종류의 맥주를 빚으며, 가장 잘 알려진 제품은 3 Monts이다. 3 Monts는 알코올 도수 8.5%의 Bière de Garde이다. 프랑스의 플랑드르 지역에서는 숙성용 에일의 한 형태인 이런 맥주를 전통적으로 Bière de Garde라 부른다. 맥주 이름 3 Monts는 플랑드르에 있는 세 개의 언덕, 곧 Mont Cassel, Mont des Cats, Mont des Recollets를 가리킨다. 이 맥주는 프랑스 플랑드르 지역에서 만들어지는 전통적인 양식의 맥주이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "양조 역사가 적어도 1600년까지 거슬러 올라가는 플랑드르의 양조장으로, 세 언덕에서 이름을 딴 3 Monts로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q2924047",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2924047",
+    "https://en.wikipedia.org/wiki/Brasserie_de_Saint-Sylvestre"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2924047",
+   "country": "프랑스",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Brasserie de Saint-Sylvestre」 본문과 위키데이터 Q2924047 팩트를 근거로 편집"
+ }
+}

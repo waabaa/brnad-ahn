@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q3033748",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "dogfish-head-brewery",
+  "urlSlug": "dogfish-head-brewery",
+  "name": "Dogfish Head Brewery",
+  "nameKo": "",
+  "nameEn": "Dogfish Head Brewery",
+  "definition": "Dogfish Head Brewery는 미국 델라웨어주 Milton에 본사를 둔 양조회사이다. Sam Calagione과 Mariah Calagione이 1995년에 설립했으며, 2019년 기준으로 Boston Beer Company가 소유하고 있다.",
+  "summary": "Dogfish Head Brewery는 미국 델라웨어주 Milton에 본사를 둔 양조회사이다. Sam Calagione과 Mariah Calagione이 1995년에 설립했으며, 2019년 기준으로 Boston Beer Company가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "비표준 재료를 쓰는 실험적 'extreme' 맥주와 델라웨어 해안 지역의 식당·숙박 사업을 함께 운영한다는 점이 이 양조장을 구별 짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미국 델라웨어주 Milton에 본사를 둔 Dogfish Head는 실험적이거나 이른바 'extreme' 맥주를 주로 만드는 양조장이다. 연간 262,000배럴의 맥주를 생산하며, 일부 맥주는 미국 31개 주와 워싱턴 D.C.에서 구할 수 있다. 델라웨어주 Rehoboth Beach에서 Dogfish Head Brewings & Eats와 Chesapeake & Maine 식당을 운영하고, Lewes에는 Dogfish Head Inn이 있다. 다큐멘터리 Beer Wars에 비중 있게 소개되었고, Discovery Channel 시리즈 Brew Masters의 소재가 되었다. 상호는 창업자 Calagione가 어린 시절 여름을 보낸 Maine의 Dogfish Head에서 따왔다. 2019년 기준으로 Boston Beer Company가 소유한 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Sam Calagione은 뉴욕시의 부엌에서 맥주를 빚기 시작했고, 룸메이트 Ken Marino, Joe Lo Truglio와 함께 과숙한 체리로 첫 맥주를 만들었다. 1995년 Calagione은 델라웨어주 Rehoboth Beach에 Dogfish Head Brewings & Eats를 열었다. 초기에는 프로판 버너로 가열하는 세 개의 케그에서 주 5일 맥주를 양조했다. 이후 Espresso Bock, Arctic Cloudberry Imperial Wheat, Punkin Ale 같은 맥주로 재료 실험을 이어갔다. 처음에는 델라웨어주에서만 맥주를 팔았으나 미국에서 가장 수익성 높은 소규모 양조장 중 하나로 성장했고, 2017년 기준 38개 주에 유통했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "가장 많이 팔리는 제품은 India Pale Ale 계열로, 60 Minute IPA, 90 Minute IPA, 120 Minute IPA 등 여덟 종류로 판매된다. 첫 성공작은 꿀, 흰 Muscat 포도, 사프란으로 양조한 Midas Touch이다. Raison D'Être는 청포도 건포도를 쓴 에일이고, 2003년 처음 나온 Pangaea는 모든 대륙의 재료를 써서 만든 벨기에식 스트롱 페일 에일이다. WorldWide Stout, 120 Minute IPA, 라즈베리 맛 스트롱 에일 Fort는 알코올 도수가 18~20%에 이르며, 일반 맥주는 대개 3~7%이다. 2020년에는 COVID-19 대유행에 대응해 손 소독제를 생산하기 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 5월 9일 Boston Beer Company가 $300 million에 인수를 발표했다. Samuel Adams 양조사 Boston Beer Company의 공동 창업자 Jim Koch와 Calagione가 Boston의 Extreme Beer Fest에서 비공식 대화를 나눈 지 몇 달 만이었다. 합병에 따라 Calagione 부부는 Dogfish Head 지분을 Boston Beer Co. 주식으로 바꿨고, 합병 회사의 비기관 소유주 중 두 번째로 큰 소유주가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "비표준 재료를 쓰는 실험적 'extreme' 맥주와 델라웨어 해안 지역의 식당·숙박 사업을 함께 운영한다는 점이 이 양조장을 구별 짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.dogfish.com/",
+  "entityLinks": {
+   "wikidata": "Q3033748",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3033748",
+    "https://en.wikipedia.org/wiki/Dogfish_Head_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3033748",
+   "country": "미국",
+   "inception": "1995",
+   "headquarters": "Milton",
+   "founders": [
+    "Sam Calagione"
+   ],
+   "parent": "Boston Beer Company",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Dogfish Head Brewery」 본문과 위키데이터 Q3033748 팩트를 근거로 편집"
+ }
+}

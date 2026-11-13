@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q605565",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/swiss-re-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "swiss-re",
+  "urlSlug": "swiss-re",
+  "name": "스위스리",
+  "nameKo": "스위스리",
+  "nameEn": "Swiss Re",
+  "definition": "스위스리(Swiss Re)는 1863년 스위스 취리히에서 설립된 재보험 회사이다. 총수입보험료 기준으로 세계 최대 재보험사 가운데 하나이며, 취리히에 본사를 두고 SIX Swiss Exchange에 상장되어 있다.",
+  "summary": "스위스리(Swiss Re)는 1863년 스위스 취리히에서 설립된 재보험 회사이다. 총수입보험료 기준으로 세계 최대 재보험사 가운데 하나이며, 취리히에 본사를 두고 SIX Swiss Exchange에 상장되어 있다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "1861년 글라루스 대화재를 계기로 1863년 취리히에서 스위스 최초의 재보험사로 설립된, 재보험을 전문으로 하는 스위스 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스위스리는 1863년에 설립된 스위스의 재보험 회사이며 취리히에 본사를 두고 있다. 총수입보험료 기준으로 세계 최대 재보험사 가운데 하나이며, SIX Swiss Exchange에 상장되어 있다. 29개국의 약 80개 사무소에서 14,000명 이상을 고용하고 있다. 2023년에는 Forbes Global 2000 목록 519위, Fortune Global 500 316위에 올랐다. 사업은 Property & Casualty Reinsurance, Life & Health Reinsurance, Corporate Solutions의 세 사업 부문으로 운영한다. 2006년 GE Insurance Solutions의 property/casualty 사업을 인수해 세계 최대 재보험사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1861년 5월 10~11일 스위스 글라루스에서 500채가 넘는 집이 불타 마을의 3분의 2가 무너지고 약 3,000명이 집을 잃었다. 피해는 칸톤 화재보험의 준비금을 넘어섰고, 손실은 기부금과 칸톤 정부의 채권 발행으로 메워졌다. 1842년 함부르크 화재가 독일 최초의 전문 재보험사 설립으로 이어진 것처럼, 글라루스 화재를 겪은 스위스 보험사들은 대형 재난 손실에 대비한 재보험 보장을 더 요구했다. 그 결과 스위스리는 1863년 취리히에서 스위스 최초의 재보험사로 설립되었다. 이후 2006년 GE Insurance Solutions의 property/casualty 사업을 인수하며 세계 최대 재보험사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스위스리 그룹은 Property & Casualty Reinsurance, Life & Health Reinsurance, Corporate Solutions의 세 사업 부문으로 운영된다. 자회사 Admin Re는 2004년 영국 Life Assurance Holding Corporation 인수를 시작했고, 2008년 Barclays Life Assurance Company Ltd 인수를 마쳤으며, 2014년 HSBC Life (UK) Limited의 영국 연금 사업을 인수했다. 이 Admin Re 사업은 ReAssure로 이름이 바뀌었다가 2020년 7월 Phoenix Group Holdings에 매각되었다. 2023년 12월에는 홍수 위험 분석 기업 Fathom을 인수했으며, Fathom은 자체 브랜드를 유지하면서 Reinsurance Solutions 부문과 협력해 홍수 지도와 모델을 개발하고 보급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 4월 스위스리는 Andreas Berger를 그룹 CEO로 임명했으며, Andreas Berger는 2024년 7월 1일자로 2016년부터 CEO를 맡아온 Christian Mumenthaler의 후임이 되었다. 2022년 2월에는 Champlain Reinsurance Company를 인수했고, 같은 달 순이익 US$1.6 billion을 발표해 2020년의 손실에서 회복했다. 다만 미국의 COVID-19 관련 부담과 자연재해 피해 증가로 이익은 예상치인 US$1.8 billion을 크게 밑돌았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1861년 글라루스 대화재를 계기로 1863년 취리히에서 스위스 최초의 재보험사로 설립된, 재보험을 전문으로 하는 스위스 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.swissre.com/",
+  "entityLinks": {
+   "wikidata": "Q605565",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q605565",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%9C%84%EC%8A%A4%EB%A6%AC",
+    "https://en.wikipedia.org/wiki/Swiss_Re"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q605565",
+   "country": "스위스",
+   "inception": "1863",
+   "headquarters": "취리히",
+   "founders": [
+    "크레디 스위스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Swiss Re」 본문과 위키데이터 Q605565 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

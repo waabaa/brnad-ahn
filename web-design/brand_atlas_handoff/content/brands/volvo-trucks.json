@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q2033642",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/volvo-trucks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "volvo-trucks",
+  "urlSlug": "volvo-trucks",
+  "name": "볼보트럭",
+  "nameKo": "볼보트럭",
+  "nameEn": "Volvo Trucks",
+  "definition": "볼보트럭(Volvo Trucks)은 스웨덴 예테보리에 본사를 둔 상용차 제조사이다. 1928년에 설립되었으며 모기업은 볼보이다. 대한민국을 비롯해 140개 국가에 차량을 수출한다.",
+  "summary": "볼보트럭(Volvo Trucks)은 스웨덴 예테보리에 본사를 둔 상용차 제조사이다. 1928년에 설립되었으며 모기업은 볼보이다. 대한민국을 비롯해 140개 국가에 차량을 수출한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "볼보에서 1928년에 분리되어 설립된 스웨덴 트럭 제조사로, UD트럭, 르노트럭, 맥 트럭을 계열사로 거느린 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "볼보트럭은 스웨덴의 상용차 제조사로, 트럭을 생산해 세계 각국에 판매하는 회사이다. 본사는 스웨덴 예테보리에 있으며 모기업은 볼보이다. 일본의 UD트럭, 프랑스의 르노트럭, 미국의 맥 트럭을 계열사로 두고 있다. 2015년 6월 기준으로 유럽, 북아메리카, 남아메리카, 아프리카, 오세아니아, 아시아에 걸쳐 생산 공장을 보유했으며, 대한민국을 비롯해 140개 국가에 차량을 지속적으로 수출하고 있다. 일본 이스즈 자동차 다음으로 세계 최대의 트럭 제조사로 알려져 있다. 대한민국에서는 1990년에 구 대우중공업과 계약을 맺고 판매를 시작했으며, 1996년에 진출과 동시에 지사를 별도로 설립했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "볼보트럭은 본래 볼보에서 트럭을 생산하던 사업 부문이었으며, 1928년에 이 부문이 분리되면서 설립되었다. 같은 해 최초의 트럭인 시리즈 1(Series 1)을 제작했고, 출시 2년이 되지 않은 1930년에 639대를 판매한 것을 계기로 유럽 각국에 수출했다. 이후 LV 71, LV 73 시리즈를 출시하며 대중적인 인기를 얻었다. 1954년에는 세계 최초로 터보 차저 엔진을 장착했으며, 1980년대에 북아메리카에 진출했다. 사업 확장을 위해 2001년에 르노트럭, 2002년에 맥 트럭, 2007년에 닛산디젤 UD를 차례로 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2015년 6월 기준 생산 차종은 FL, FE, FM, FH, FH16, FMX, VHD, VN, VNX, VM이다. 이 가운데 FM, FH, FH16, FMX는 유럽, 아프리카, 아시아, 남아메리카, 오세아니아 시장에서 판매된다. FL은 유럽과 아시아, FE는 유럽, 아시아, 오세아니아를 시장으로 한다. 북아메리카 시장에는 VHD, VN, VNX가, 남아메리카 시장에는 VM이 공급된다. 과거에는 Roundnose, Titan, F10/F12 시리즈 등을 출시했으며, 대한민국에서는 트랙터와 덤프 트럭을 판매했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "볼보트럭은 볼보를 모기업으로 두고 있으며, 본사는 예테보리에 있다. 2015년 6월 기준으로 유럽, 북아메리카, 남아메리카, 아프리카, 오세아니아, 아시아의 여러 국가에 공장을 보유했다. 2007년에 인수한 닛산디젤 UD는 2010년 2월에 UD트럭으로 사명이 변경되었다. 현재 대한민국을 비롯해 140개 국가에 차량을 수출하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "볼보에서 1928년에 분리되어 설립된 스웨덴 트럭 제조사로, UD트럭, 르노트럭, 맥 트럭을 계열사로 거느린 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.volvotrucks.com/",
+  "entityLinks": {
+   "wikidata": "Q2033642",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2033642",
+    "https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%B3%B4%ED%8A%B8%EB%9F%AD",
+    "https://en.wikipedia.org/wiki/Volvo_Trucks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2033642",
+   "country": "스웨덴",
+   "inception": "1928",
+   "headquarters": "예테보리",
+   "founders": [],
+   "parent": "볼보",
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "한국어 위키백과 「볼보트럭」 요약과 위키데이터 Q2033642 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

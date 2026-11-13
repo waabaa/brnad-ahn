@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-11-01",
+ "qid": "Q20539261",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 25,
+  "enViews": 51435,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/ahold-delhaize-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ahold-delhaize",
+  "urlSlug": "ahold-delhaize",
+  "name": "아홀드 델레이즈",
+  "nameKo": "아홀드 델레이즈",
+  "nameEn": "Ahold Delhaize",
+  "definition": "아홀드 델레이즈(Ahold Delhaize)는 네덜란드와 벨기에를 기반으로 하는 다국적 소매 및 도매 지주회사이다. 네덜란드의 Ahold와 벨기에의 Delhaize Group이 합병하며 형성되었다.",
+  "summary": "아홀드 델레이즈(Ahold Delhaize)는 네덜란드와 벨기에를 기반으로 하는 다국적 소매 및 도매 지주회사이다. 네덜란드의 Ahold와 벨기에의 Delhaize Group이 합병하며 형성되었다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "네덜란드 Ahold와 벨기에 Delhaize Group의 합병으로 탄생해 유럽과 미국에서 슈퍼마켓 등을 운영하는 소매 지주회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아홀드 델레이즈는 슈퍼마켓, 편의점, 하이퍼마켓, 온라인 식료품점, 온라인 비식품점, 약국, 주류 판매점 등 다양한 형식의 사업을 운영한다. 21개 현지 브랜드가 주로 네덜란드와 벨기에를 비롯한 10개국의 7,659개 매장에서 414,000명의 직원을 고용하고 있다. 네덜란드, 벨기에, 체코, 그리스, 룩셈부르크, 루마니아, 세르비아 및 미국에서 활동하며 인도네시아와 포르투갈 합작투자에도 참여한다. 미국에서는 23개 주에서 2,000개 이상의 매장을 운영하며 지역 자회사를 통해 최대 규모의 식품 및 소모품 소매업체 중 하나로 꼽힌다. 국제 본부는 네덜란드 잔담에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아홀드 델레이즈는 2016년 네덜란드의 Ahold와 벨기에의 Delhaize Le Lion이 합친 회사로 설립되었다. 사명은 합병한 두 회사의 이름에서 유래했다. 국제 본부는 합병 파트너사인 Ahold의 본사가 있는 네덜란드 잔담에 있다. Ahold의 CEO였던 Dick Boer는 2018년 은퇴할 때까지 아홀드 델레이즈의 CEO를 맡았다. Delhaize Group의 전 CEO인 Frans Muller는 Dick Boer의 뒤를 이어 부CEO가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업 형식에는 슈퍼마켓, 편의점, 하이퍼마켓, 온라인 식료품점, 온라인 비식품점, 약국, 주류 판매점이 포함된다. 소매와 도매를 아우르는 지주회사로서 21개 현지 브랜드를 두고 있다. 이 브랜드들은 주로 네덜란드와 벨기에를 비롯한 10개국의 7,659개 매장에서 영업한다. 미국에서는 지역 자회사를 통해 23개 주에서 2,000개 이상의 매장을 운영한다. 인도네시아와 포르투갈에서는 합작투자 형태로 참여한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "주식은 유로넥스트 암스테르담과 유로넥스트 브뤼셀에 상장되어 있으며 티커는 AD이다. 현재 21개 현지 브랜드가 10개국의 7,659개 매장에서 414,000명의 직원을 고용하고 있다. 미국에서는 23개 주에서 2,000개 이상의 매장을 운영하는 최대 규모의 식품 및 소모품 소매업체 중 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네덜란드 Ahold와 벨기에 Delhaize Group의 합병으로 탄생해 유럽과 미국에서 슈퍼마켓 등을 운영하는 소매 지주회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.aholddelhaize.com/",
+  "entityLinks": {
+   "wikidata": "Q20539261",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q20539261",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%99%80%EB%93%9C_%EB%8D%B8%EB%A0%88%EC%9D%B4%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Ahold_Delhaize"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q20539261",
+   "country": "네덜란드",
+   "inception": "2016",
+   "headquarters": "잔담",
+   "founders": [
+    "Ahold",
+    "Delhaize Le Lion"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-01"
+  },
+  "sourceNote": "한국어 위키백과 「아홀드 델레이즈」 요약과 위키데이터 Q20539261 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

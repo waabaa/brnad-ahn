@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5244695",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "de-proefbrouwerij",
+  "urlSlug": "de-proefbrouwerij",
+  "name": "De Proefbrouwerij",
+  "nameKo": "",
+  "nameEn": "De Proefbrouwerij",
+  "definition": "De Proefbrouwerij는 1996년 설립된 벨기에 플랑드르 지역의 양조장이다. 다른 양조업자의 맥주를 위탁 생산하는 임대 양조장 방식으로 운영하며 자체 맥주도 만든다.",
+  "summary": "De Proefbrouwerij는 1996년 설립된 벨기에 플랑드르 지역의 양조장이다. 다른 양조업자의 맥주를 위탁 생산하는 임대 양조장 방식으로 운영하며 자체 맥주도 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "자체 맥주 브랜드 Reinaert를 두면서도 여러 나라의 집시 양조업자에게 설비를 빌려주는 임대 양조 중심의 벨기에 양조장이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 1996년 문을 연 벨기에 플랑드르 지역의 양조장으로, 헨트 인근 로크리스티 마을에 자리한다. 주로 임대 양조장으로 운영하며 제3자 양조업자를 위해 맥주를 만들어 준다. 자체 맥주도 생산하고, 양조 과학에 초점을 맞춘 연구개발 부서도 둔다. 자체 설비가 없거나 실험적인 소량 맥주를 만들려는 집시 양조업자에게 양조 시설을 제공하는 것이 핵심적인 역할이며, 위탁 고객의 범위도 넓다. 미국, 덴마크, 네덜란드, 스웨덴, 노르웨이, 영국, 한국 등 여러 나라의 양조장이 이곳의 설비를 이용한다. 지금은 자체 브랜드 생산과 위탁 양조, 양조 연구개발을 함께 수행하는 양조장이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1996년 Dirk Naudts와 그의 아내 Saskia Waerniers가 설립했다. 위키데이터에는 본사가 Hijfte로 기재되어 있고, 영문 위키백과는 헨트 인근 로크리스티 마을에 있다고 설명한다. 설립 이후 자체 맥주를 만드는 한편, 제3자 양조업자의 맥주를 대신 만드는 임대 양조장 방식으로 사업을 이어 왔다. 자체 설비가 없는 집시 양조업자에게 시설을 제공하는 것이 주된 사업 형태이며, 양조 과학을 다루는 연구개발 부서도 함께 운영한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "자체 맥주는 Reinaert라는 이름으로 출시한다. 라인업은 플랑드르 레드 에일(9%), 앰버 맥주(7%), 트리펠(9%), 그랑 크뤼(9.5%)이다. 이와 별도로 다른 양조장의 맥주를 위탁 생산하는 임대 양조 사업이 중심이며, 집시 양조업자는 이곳에서 실험적인 소량 맥주를 만들기도 한다. 위탁 고객에는 미국의 Bell's와 Surly, 덴마크의 Mikkeller와 To Øl, 스웨덴의 Omnipollo가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재도 임대 양조장 방식으로 다른 양조업자의 맥주를 만들며 자체 맥주도 생산한다. 고객은 벨기에, 미국, 덴마크, 네덜란드, 한국, 스웨덴, 노르웨이, 영국 등 여러 나라에 걸쳐 있다. 한국에서는 Amazing Brewing Co., The Booth Brewing Co., Magpie Brewing Co.가 이곳을 이용한 양조장으로 꼽힌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자체 맥주 브랜드 Reinaert를 두면서도 여러 나라의 집시 양조업자에게 설비를 빌려주는 임대 양조 중심의 벨기에 양조장이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.proefbrouwerij.com/",
+  "entityLinks": {
+   "wikidata": "Q5244695",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5244695",
+    "https://en.wikipedia.org/wiki/De_Proefbrouwerij"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5244695",
+   "country": "벨기에",
+   "inception": "1996",
+   "headquarters": "Hijfte",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「De Proefbrouwerij」 본문과 위키데이터 Q5244695 팩트를 근거로 편집"
+ }
+}

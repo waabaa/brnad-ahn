@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q153960",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/jupiler-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jupiler",
+  "urlSlug": "jupiler",
+  "name": "주필러",
+  "nameKo": "주필러",
+  "nameEn": "Jupiler",
+  "definition": "주필러(Jupiler)는 1966년 출시된 벨기에 맥주이다. 현재 Anheuser–Busch InBev가 리에주의 Piedboeuf Brewery에서 양조하며, 벨기에에서 가장 많이 팔리는 맥주이다.",
+  "summary": "주필러(Jupiler)는 1966년 출시된 벨기에 맥주이다. 현재 Anheuser–Busch InBev가 리에주의 Piedboeuf Brewery에서 양조하며, 벨기에에서 가장 많이 팔리는 맥주이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "벨기에에서 판매량 1위인 라거 맥주이며, 벨기에 프로리그와 국가대표 축구팀 후원으로 알려진 브랜드이다. 슬로건은 'Men know why'이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "주필러는 벨기에의 페일 라거 맥주 브랜드이며, 이름은 발상지인 Jupille에서 따왔다. 벨기에에서 판매량이 가장 많은 맥주로, 부피 기준 점유율은 약 40퍼센트이다. 기본 제품은 맥아, 옥수수, 물, 홉, 효모로 만든 알코올 5.2%의 페일 라거로 가장 널리 유통된다. 알코올 3.3%의 저도수 페일 라거와 알코올이 없는 Jupiler 0.0%도 내놓았다. 벨기에 프로리그, 네덜란드 2부 리그 Eerste Divisie, 벨기에 국가대표 축구팀을 후원하며, 슬로건은 'Men know why'이다. 현재는 Anheuser–Busch InBev가 리에주의 Piedboeuf Brewery에서 양조하며, 2018년에는 월드컵 응원을 위해 5개월간 브랜드명을 'Belgium'으로 바꾸겠다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "주필러의 기원은 1853년 벨기에 Jupille에 Piedbœuf 양조장이 세워진 것에 있다. 첫 Jupiler는 1950년 'Jupiler Urtyp'라는 이름으로 출시되었다. 1966년에는 알코올 5%의 청량한 페일 라거 'Jupiler 5'가 출시되었고, 이후 이름에서 '5'가 빠졌다. 기본 제품 Jupiler는 알코올 5.2%의 페일 라거로 1966년에 만들어졌으며, 이름은 발상지인 Jupille에서 따왔다. 이 브랜드는 현재 벨기에에서 가장 많이 팔리며, 부피 기준 점유율은 약 40퍼센트이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기본 제품 Jupiler는 알코올 5.2%의 페일 라거이다. 2006년에는 알코올 3.3%의 Jupiler Blue를 출시했고, 2016년 6월에는 알코올 3.3%의 Jupiler Blue Lemon and Lime을 내놓았다. 2016년 말에는 Jupiler N.A.의 후속으로 알코올이 없는 Jupiler 0.0%를 출시했다. 2018년에는 활동적인 생활을 하는 사람을 겨냥한 알코올 3.3%의 Jupiler Pure Blonde를 선보였다. 단종된 제품으로는 Jupiler N.A., Jupiler Force, Jupiler Tauro, Jupiler New Tauro가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Anheuser–Busch InBev가 리에주의 Jupille-sur-Meuse 지역에 있는 Piedboeuf Brewery에서 주필러를 양조한다. 벨기에 맥주 시장에서 부피 기준 약 40퍼센트를 차지하며 판매량 1위를 유지하고 있다. 2016년 말 무알코올 Jupiler 0.0%를, 2018년 Jupiler Pure Blonde를 내놓아 저도수·무알코올 제품군을 넓혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벨기에에서 판매량 1위인 라거 맥주이며, 벨기에 프로리그와 국가대표 축구팀 후원으로 알려진 브랜드이다. 슬로건은 'Men know why'이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://jupiler.be",
+  "entityLinks": {
+   "wikidata": "Q153960",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q153960",
+    "https://ko.wikipedia.org/wiki/%EC%A3%BC%ED%95%84%EB%9F%AC",
+    "https://en.wikipedia.org/wiki/Jupiler"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q153960",
+   "country": "벨기에",
+   "inception": "1966",
+   "headquarters": "리에주",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Jupiler」 본문과 위키데이터 Q153960 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q183275",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 882,
+  "enViews": 67376,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/mitsubishi-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mitsubishi",
+  "urlSlug": "mitsubishi",
+  "name": "미쓰비시 그룹",
+  "nameKo": "미쓰비시 그룹",
+  "nameEn": "Mitsubishi",
+  "definition": "미쓰비시 그룹(Mitsubishi)은 1870년에 창립된 일본의 복합기업이다. 제2차 세계 대전 종전 후 해체된 미쓰비시 재벌의 계보에 있는 기업들을 중심으로 활동한다.",
+  "summary": "미쓰비시 그룹(Mitsubishi)은 1870년에 창립된 일본의 복합기업이다. 제2차 세계 대전 종전 후 해체된 미쓰비시 재벌의 계보에 있는 기업들을 중심으로 활동한다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 4.666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "미쓰비시 그룹은 미쓰이 그룹, 스미토모 그룹과 함께 일본 3대 재벌 그룹으로 꼽히며, 재벌 계보 기업 연합 중 결속력이 가장 강해 '조직의 미쓰비시'로 불린다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미쓰비시 그룹은 1870년에 창립된 복합기업으로, 제2차 세계 대전 종전 후 해체된 미쓰비시 재벌의 계보에 있는 기업들을 중심으로 활동한다. 미쓰비시UFJ은행(MUFG Bank), 미쓰비시상사(Mitsubishi Corporation), 미쓰비시 중공업(Mitsubishi Heavy Industries)의 3사가 그룹의 핵심 기업이다. 재벌의 연장선상에 있는 기업 연합 중 결속력이 가장 강하다는 의미에서 '조직의 미쓰비시'라고도 불린다. 미쓰이 그룹, 스미토모 그룹과 함께 일본의 3대 재벌 그룹이다. 계열사로는 Kirin Company, Mitsubishi Electric, Nikon, Lawson 등이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "미쓰비시 그룹은 1870년에 이와사키 야타로가 일본에서 창립한 복합기업이다. 제2차 세계 대전 때 군수기업으로 성장했으며, 종전 후 '미쓰비시 재벌'은 해체되었다. 이후 해체된 재벌의 계보에 있는 기업들을 중심으로 그룹 활동이 이어지고 있으며, 미쓰비시UFJ은행, 미쓰비시상사, 미쓰비시 중공업의 3사가 핵심 기업이다. 재벌의 연장선상에 있는 기업 연합 중 결속력이 가장 강하다는 의미에서 '조직의 미쓰비시'라고도 불린다. 미쓰이 그룹, 스미토모 그룹과 함께 일본의 3대 재벌 그룹으로 꼽힌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 계열사로는 MUFG Bank, Mitsubishi Corporation, Mitsubishi Heavy Industries가 있다. 이 밖에 AGC Inc., Kirin Company, Meiji Yasuda Life, Mitsubishi Chemical Holdings, Mitsubishi Electric, Mitsubishi Estate, Mitsubishi Materials 등이 핵심 계열사에 포함된다. 기타 계열사로는 ENEOS Holdings, Mitsubishi Motors, Mitsubishi Logistics, Nikon, Lawson 등이 있다. Mitsubishi 연필은 미쓰비시 재벌과 무관하다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 미쓰비시UFJ은행, 미쓰비시상사, 미쓰비시 중공업의 3사가 그룹의 핵심 기업이다. 한국에서 강제동원 피해자들이 제기한 손해배상소송은 일부 승소했으며, 대법원은 해당 위자료 청구권이 청구권협정의 적용 대상에 포함되지 않는다고 판단했다. 일본에서 제기된 소송은 패소로 확정되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미쓰비시 그룹은 미쓰이 그룹, 스미토모 그룹과 함께 일본 3대 재벌 그룹으로 꼽히며, 재벌 계보 기업 연합 중 결속력이 가장 강해 '조직의 미쓰비시'로 불린다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mitsubishi.com/en/",
+  "entityLinks": {
+   "wikidata": "Q183275",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q183275",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Mitsubishi"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q183275",
+   "country": "일본",
+   "inception": "1870",
+   "headquarters": "도쿄도",
+   "founders": [
+    "이와사키 야타로"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「미쓰비시 그룹」 요약과 위키데이터 Q183275 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

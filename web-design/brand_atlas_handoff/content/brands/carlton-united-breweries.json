@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q5042950",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "carlton-united-breweries",
+  "urlSlug": "carlton-united-breweries",
+  "name": "Carlton & United Breweries",
+  "nameKo": "",
+  "nameEn": "Carlton & United Breweries",
+  "definition": "Carlton & United Breweries는 멜버른에 본사를 둔 오스트레일리아의 양조 회사이다. Victoria Bitter, Carlton Draught, Foster's Lager 등의 브랜드를 보유하며 일본 복합기업 Asahi Breweries가 소유하고 있다.",
+  "summary": "Carlton & United Breweries는 멜버른에 본사를 둔 오스트레일리아의 양조 회사이다. Victoria Bitter, Carlton Draught, Foster's Lager 등의 브랜드를 보유하며 일본 복합기업 Asahi Breweries가 소유하고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "여섯 개 양조장의 합병으로 출발해 Victoria Bitter, Carlton Draught 등을 보유한 멜버른 기반 오스트레일리아 양조 회사이며, 현재 일본 Asahi Breweries 소유이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CUB는 멜버른에 본사를 둔 오스트레일리아의 양조 회사이다. 대표 브랜드로 Victoria Bitter, Carlton Draught, Foster's Lager, Great Northern, Resch's, Pure Blonde, Melbourne Bitter가 있다. 1904년 여섯 개 양조장의 합병으로 설립되었으며, 이후 수십 년에 걸쳐 여러 양조 회사를 인수하며 성장했다. 소유 구조는 Elders IXL, Foster's Group, SABMiller, Anheuser-Busch InBev를 거쳐 변화했다. 2004년 7월에는 사명을 Carlton & United Beverages로 바꾸었고, 2009년 2월에는 맥주·사이더·주류 부문의 이름을 다시 Carlton & United Breweries로 바꾸었다. 현재는 일본 복합기업 Asahi Breweries가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CUB는 1904년 기존 여섯 개 양조장이 합병하면서 설립되었으며, Carl Pinschof가 회장을 맡았다. 합병에 참여한 양조장은 Carlton Brewery, Castlemaine Brewery Company, Foster Brewing Company, McCracken's City Brewery, Shamrock Brewing and Malting Company, Victoria Brewery이다. 이들은 1903년 Society of Melbourne Brewers라는 카르텔을 이미 결성한 상태였고, Emil Resch가 통합에 중요한 역할을 했으며 이후 CUB의 초대 총지배인이 되었다. 1913년 100,000주를 발행해 공개 기업이 되었고, 1931년 Northern Australian Breweries와 Cairns Brewery를 인수하며 빅토리아 밖으로 처음 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CUB의 대표 브랜드는 Victoria Bitter, Carlton Draught, Foster's Lager, Great Northern, Resch's, Pure Blonde, Melbourne Bitter이다. 2004년 7월 사명을 Carlton & United Beverages로 바꿀 당시 회사는 프리믹스 음료, 주스, 사이더, 무알코올 음료로 사업을 다각화했다고 밝혔다. 2009년 2월에는 Foster's가 오스트레일리아 와인 부문을 맥주·사이더·주류(BCS) 부문과 분리하기로 결정했고, BCS 부문의 이름이 Carlton & United Breweries로 바뀌었다. Foster's Group이라는 그룹명은 가장 국제적으로 알려진 제품의 이름을 반영해 붙인 것이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 12월 미국 다국적 기업 SABMiller가 Foster's Group을 인수하면서 CUB를 소유하게 되었다. 2016년 10월 Anheuser-Busch InBev의 SABMiller 인수에 CUB도 포함되어 Anheuser-Busch InBev 소유가 되었다. 2019년 7월 Asahi Breweries가 CUB 인수에 합의했고, 2020년 5월 Australian Competition & Consumer Commission과 Foreign Investment Review Board가 이를 승인했다. 현재 CUB는 일본 복합기업 Asahi Breweries 소유이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여섯 개 양조장의 합병으로 출발해 Victoria Bitter, Carlton Draught 등을 보유한 멜버른 기반 오스트레일리아 양조 회사이며, 현재 일본 Asahi Breweries 소유이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://cub.com.au/",
+  "entityLinks": {
+   "wikidata": "Q5042950",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5042950",
+    "https://en.wikipedia.org/wiki/Carlton_%26_United_Breweries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5042950",
+   "country": "오스트레일리아",
+   "inception": "1903",
+   "headquarters": "멜버른",
+   "founders": [],
+   "parent": "SAB밀러",
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Carlton & United Breweries」 본문과 위키데이터 Q5042950 팩트를 근거로 편집"
+ }
+}

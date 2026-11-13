@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q738421",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/assa-abloy-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "assa-abloy",
+  "urlSlug": "assa-abloy",
+  "name": "아사아블로이",
+  "nameKo": "아사아블로이",
+  "nameEn": "Assa Abloy",
+  "definition": "아사아블로이(Assa Abloy)는 스톡홀름에 본사를 둔 스웨덴 기업으로, 잠금장치·문·게이트와 출입 자동화, 출입 통제 및 신원 확인 제품과 서비스를 판매한다.",
+  "summary": "아사아블로이(Assa Abloy)는 스톡홀름에 본사를 둔 스웨덴 기업으로, 잠금장치·문·게이트와 출입 자동화, 출입 통제 및 신원 확인 제품과 서비스를 판매한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "열쇠와 문 같은 물리적 잠금장치에서 카드·모바일·생체 인증까지 출입과 신원 확인을 아우르며, 300건이 넘는 인수로 성장한 스웨덴 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "잠금장치, 문, 게이트, 출입 자동화와 관련된 제품과 서비스를 판매하는 스톡홀름 본사의 스웨덴 기업이다. 열쇠, 카드, 태그, 모바일, 생체 인증 방식의 신원 확인 시스템으로 출입을 통제하고 신원을 확인하는 사업도 한다. 1994년 직원 4,700명의 지역 기업이던 이 회사는 2023년 직원 61,000명의 글로벌 그룹이 되었고, 현재 70개국 이상에서 사업을 운영한다. 1994년 이후 매출은 연평균 9% 넘게 성장했고, 300건이 넘는 인수로 사업 영역을 넓혀 왔다. 2022년 매출은 SEK 120,793 M, 2023년 매출은 140,716 M이었다. 2023년 매출은 전년보다 16% 늘었으며, 증가분의 3분의 1은 환율 효과 때문이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년 스웨덴 보안 기업 Securitas AB에서 Assa AB가 분리되어 출범했다. 얼마 지나지 않아 Assa AB는 핀란드 요엔수에 기반을 둔 고보안 잠금장치 제조사 Abloy Oy와 합병했으며, Abloy Oy는 당시 핀란드 기업 Wärtsilä의 자회사였다. 회사는 같은 해 후반 스톡홀름 증권거래소에 상장했다. 1999년 5월 독일의 Effeff Fritz Fuss를 인수해 전기기계식 잠금장치 시장에 진입했고, 2000년에는 Yale Intruder Security를 인수하며 규모가 두 배가 되었다. 같은 해 HID를 인수해 전자 신원 확인 기능을 제품군에 추가했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 잠금장치, 문, 게이트, 출입 자동화이며, 열쇠·카드·태그·모바일·생체 인증 기반의 출입 통제와 신원 확인 시스템도 포함한다. 인수를 통해 제품군이 넓어졌다. Besam은 자동 보행자문, Fargo Electronics는 신용·은행·직불·신분증 카드의 안전한 발급 시스템, Traka는 열쇠·자산 관리, Albany Door Systems는 고속 산업용 문을 다룬다. Luxer One은 미국의 택배 보관함 사업이며, Biosite는 영국의 생체 출입 및 인력 관리 기술 기업이다. 2021년 인수한 Spectrum Brands의 HHI 부문에는 Kwikset, Baldwin, Weiser, Pfister, National Hardware 브랜드와 SmartKey 기술, 전자·스마트·생체 잠금장치가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "최대 주주는 Investment AB Latour와 Melker Schörling AB이다. 2023년 기준 직원은 61,000명이며 70개국 이상에서 사업을 운영한다. 2021년 9월에는 Spectrum Brands의 HHI 부문을 인수했고, HHI는 미국 캘리포니아의 Lake Forest에 본사를 두고 전 세계에 약 7,500명의 직원이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "열쇠와 문 같은 물리적 잠금장치에서 카드·모바일·생체 인증까지 출입과 신원 확인을 아우르며, 300건이 넘는 인수로 성장한 스웨덴 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.assaabloy.com/",
+  "entityLinks": {
+   "wikidata": "Q738421",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q738421",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%AC%EC%95%84%EB%B8%94%EB%A1%9C%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Assa_Abloy"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q738421",
+   "country": "스웨덴",
+   "inception": "1994",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Assa Abloy」 본문과 위키데이터 Q738421 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

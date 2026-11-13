@@ -125,6 +125,11 @@ console.log(`category/: ${industryGroups.length} pages, ${LISTED.length} listed 
 // ─── 2) 국가 허브 ──────────────────────────────────────────────────────────
 const COUNTRY_SLUG = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
 const MIN_COUNTRY_BRANDS = 5;
+const FAME = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, "data/brand-fame.json"), "utf8")); } catch { return {}; } })();
+// 기관(inst, 또는 이름이 대학·박물관 등)은 대표 순서에서 뒤로 보낸다 — P31 목록이 하위 분류를 다 덮지 못한다.
+const INST_NAME = /대학교|대학$|박물관|미술관|도서관|학회|중앙은행|University|Museum|Library|Society$/;
+const fameOf = (b) => { const f = FAME[urlSlugOf(b)]; return typeof f === "number" && !INST_NAME.test(`${b.nameKo || ""} ${b.name || ""}`) ? f : 0; };
+const byFame = (a, b) => fameOf(b) - fameOf(a) || byScore(a, b);
 const HUB_MIN_PROSE = 700;
 const byCountry = new Map();
 for (const b of LISTED) {
@@ -141,12 +146,19 @@ for (const [c, arr] of countryGroups) {
   const indTally = new Map();
   for (const b of arr) indTally.set(b.industry, (indTally.get(b.industry) || 0) + 1);
   const topInd = [...indTally.entries()].sort((a, b) => b[1] - a[1]).slice(0, 4);
-  const lead = `${c}에서 시작한 브랜드 ${arr.length}개를 로고와 함께 모았습니다. 수록 기준은 검수된 브랜드 설명이나 공식 웹사이트가 일치하는 위키데이터 개체에서 기원 국가가 확인된 경우로 한정했습니다.`;
+  // 2026-11-07: '미국 브랜드'·'영국 패션 브랜드' 같은 질의에 답하도록 대표 브랜드 문장과 산업별 묶음을 둔다(모두 수록 데이터에서 계산).
+  // 대표 순서는 인지도(위키백과 언어판 수, data/brand-fame.json) 우선, 같으면 자료 품질 순.
+  const reps = [...arr].sort(byFame).slice(0, 6);
+  const lead = `${c}에서 시작한 브랜드 ${arr.length}개를 로고와 함께 모았습니다. 대표적인 ${c} 브랜드로는 ${reps.map(b => displayName(b)).join(", ")} 등이 있습니다. 수록 기준은 검수된 브랜드 설명이나 공식 웹사이트가 일치하는 위키데이터 개체에서 기원 국가가 확인된 경우로 한정했습니다.`;
   const facts = [];
   if (topInd.length) facts.push(`산업별로는 ${topInd.map(([i, n]) => `${i} ${n}개`).join(", ")} 순입니다.`);
   facts.push(...hubFacts(arr));
   const head = hubHead("국가별 브랜드", `${esc(c)} 브랜드 <span class="en count">${Number(arr.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(`${c} 브랜드`));
-  const rest = `<div class="wrap section"><p class="hub-note">${esc(facts.join(" "))}</p></div><div class="wrap section" id="country-${slug}"><div class="section-head"><h2>${esc(c)} 브랜드 목록</h2></div>${hubListing(arr)}</div>`;
+  const indGroups = new Map();
+  for (const b of arr) { const k = b.domainSlug || "etc"; if (!indGroups.has(k)) indGroups.set(k, { label: b.industry || "기타", items: [] }); indGroups.get(k).items.push(b); }
+  const indHtml = [...indGroups.entries()].filter(([k, g]) => k !== "etc" && g.items.length >= 3).sort((a, b) => b[1].items.length - a[1].items.length).slice(0, 10)
+    .map(([k, g]) => `<div class="section-head" style="margin-top:18px"><h3><a href="${P}category/${k}.html">${esc(c)} ${esc(g.label)} 브랜드</a> <small>${g.items.length}</small></h3></div><nav class="chips" aria-label="${esc(c)} ${esc(g.label)} 브랜드">${[...g.items].sort(byFame).slice(0, 12).map(b => `<a class="chip" href="${P}brand/${encodeURIComponent(urlSlugOf(b))}.html">${esc(displayName(b))}</a>`).join("")}</nav>`).join("");
+  const rest = `<div class="wrap section"><p class="hub-note">${esc(facts.join(" "))}</p></div>${indHtml ? `<div class="wrap section"><div class="section-head"><h2>산업별 ${esc(c)} 브랜드</h2></div>${indHtml}</div>` : ""}<div class="wrap section" id="country-${slug}"><div class="section-head"><h2>${esc(c)} 브랜드 목록</h2></div>${hubListing(arr)}</div>`;
   const prose = prosePreview(head + rest);
   if (prose < HUB_MIN_PROSE) {
     console.log(`  country/${slug}: 본문 ${prose}자 < ${HUB_MIN_PROSE} — 발행 생략`);
@@ -159,8 +171,8 @@ for (const [c, arr] of countryGroups) {
 const countryChips = (current) => `<nav class="chips" aria-label="다른 국가">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip${slug === current ? " active" : ""}" href="${P}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav>`;
 for (const { c, slug, arr, topInd, head, rest } of countryDrafts) {
   const url = `${ORIGIN}/country/${slug}.html`;
-  const title = `${c} 브랜드 ${arr.length}개 — 로고·설립 역사 | 브랜드 아틀라스`;
-  const desc = `${c}에서 시작한 브랜드 ${arr.length}개 목록. ${topInd.map(([i]) => i).join("·")} 등 각 브랜드의 로고와 설립 배경, 아이덴티티, 로고 변천사를 정리했습니다.`;
+  const title = `${c} 브랜드 목록 ${arr.length}개 — 대표 ${c} 브랜드·로고·역사 | 브랜드 아틀라스`;
+  const desc = `${c} 브랜드 ${arr.length}개 목록. ${[...arr].sort(byFame).slice(0, 4).map(b => displayName(b)).join(", ")} 등 대표 ${c} 브랜드를 ${topInd.map(([i]) => i).slice(0, 3).join("·")} 등 산업별로 정리하고 로고와 설립 배경, 로고 변천사를 담았습니다.`;
   const body = `${head}<div class="wrap section"><div class="section-head"><h2>다른 국가 보기</h2><a class="more" href="${P}pages/countries.html">국가별 전체 →</a></div>${countryChips(slug)}</div>${rest}`;
   writeIfChanged(path.join(ROOT, "country", `${slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "countries",
@@ -192,6 +204,23 @@ console.log(`country/: ${countryDrafts.length} pages (얇아서 생략 ${country
 // 편입은 scripts/assign-collections.mjs 가 Wikidata 분류·수동 확인 목록으로 정한다(brand.collections).
 const COLLECTION_HUBS = publishedCollections(BRANDS, isListed);
 const collectionDrafts = COLLECTIONS.filter(c => COLLECTION_HUBS.has(c.slug)).map(c => ({ c, arr: LISTED.filter(b => collectionsOf(b).includes(c.slug)) }));
+// byCountry 컬렉션은 기원 국가별 하위 허브(collection/<slug>-<country>.html)를 둔다 — "일본 맥주" 같은 검색어용(2026-11-07).
+const MIN_COLLECTION_COUNTRY = 3;
+const collectionCountryPages = [];
+const collectionCountryGroups = (c, arr) => {
+  if (!c.byCountry) return [];
+  const m = new Map();
+  for (const b of arr) { const k = countryOf(b); if (k) m.set(k, [...(m.get(k) || []), b]); }
+  return [...m].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "ko"))
+    .map(([k, items]) => ({ k, items, slug: items.length >= MIN_COLLECTION_COUNTRY && COUNTRY_SLUG[k] ? `${c.slug}-${COUNTRY_SLUG[k]}` : null }));
+};
+// 하위 허브는 브랜드가 서너 곳뿐이면 본문이 얇다 — 각 브랜드 정의문의 첫 문장을 옮겨 싣는다(새 문장은 만들지 않는다).
+const firstSentence = (t) => { const s = String(t || "").replace(/\s+/g, " ").trim(); const m = /^.{20,180}?다\./.exec(s); return m ? m[0] : ""; };
+const introOf = (items, heading) => {
+  const li = items.map(b => [b, firstSentence(b.definition || b.summary)]).filter(([, t]) => t)
+    .map(([b, t]) => `<li><a href="${P}brand/${encodeURIComponent(urlSlugOf(b))}.html">${esc(displayName(b))}</a> — ${esc(t)}</li>`);
+  return li.length ? `<div class="wrap section"><div class="section-head"><h2>${esc(heading)}</h2></div><ul class="hub-intro" style="display:grid;gap:8px;line-height:1.6">${li.join("")}</ul></div>` : "";
+};
 const collectionChips = (current) => `<nav class="chips" aria-label="다른 컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip${c.slug === current ? " active" : ""}" href="${P}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav>`;
 for (const { c, arr } of collectionDrafts) {
   const url = `${ORIGIN}/collection/${c.slug}.html`;
@@ -208,9 +237,31 @@ for (const { c, arr } of collectionDrafts) {
   const lead = `${c.lead} 브랜드 아틀라스에 수록된 ${c.name} ${arr.length}개를 로고와 함께 정리했습니다. 편입 기준은 위키데이터의 분류와 업종 정보, 그리고 편집자가 브랜드 설명을 확인한 경우로 한정했습니다.`;
   const title = `${c.name} ${arr.length}개 — 로고·역사·아이덴티티 | 브랜드 아틀라스`;
   const desc = `${c.name}(${c.en}) ${arr.length}개를 로고와 함께 모은 컬렉션. ${[...arr].sort(byScore).slice(0, 4).map(b => koreanName(b) || latinName(b) || b.name).join("·")} 등 각 브랜드의 설립 배경과 아이덴티티, 로고 변천을 정리했습니다.`;
-  const body = `${hubHead("컬렉션", `${esc(c.name)} <span class="en count">${Number(arr.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(c.name))}
+  let body = `${hubHead("컬렉션", `${esc(c.name)} <span class="en count">${Number(arr.length).toLocaleString("en-US")}</span>`, esc(lead), crumbsHub(c.name))}
 <div class="wrap section"><div class="section-head"><h2>다른 컬렉션 보기</h2><a class="more" href="${P}pages/collections.html">컬렉션 전체 →</a></div>${collectionChips(c.slug)}<p class="hub-note" style="margin-top:22px">${esc(facts.join(" "))}</p></div>
 <div class="wrap section" id="collection-${c.slug}"><div class="section-head"><h2>${esc(c.name)} 목록</h2><p>품질 점수 순 상위는 로고 타일로, 나머지는 가나다순 목록으로 보입니다.</p></div>${hubListing(arr)}</div>`;
+  const cg = collectionCountryGroups(c, arr);
+  const chipsOf = (items, n) => `<nav class="chips">${[...items].sort(byFame).slice(0, n).map(b => `<a class="chip" href="${P}brand/${encodeURIComponent(urlSlugOf(b))}.html">${esc(displayName(b))}</a>`).join("")}</nav>`;
+  const countrySection = cg.length ? `<div class="wrap section" id="${c.slug}-by-country"><div class="section-head"><h2>국가별 ${esc(c.name)}</h2><p>기원 국가가 확인된 브랜드만 나눴습니다.</p></div>${cg.map(g => `<div class="section-head" style="margin-top:18px"><h3>${g.slug ? `<a href="${P}collection/${g.slug}.html">${esc(g.k)} ${esc(c.name)}</a>` : `${esc(g.k)} ${esc(c.name)}`} <small>${g.items.length}</small></h3></div>${chipsOf(g.items, 12)}`).join("")}</div>` : "";
+  body = body.replace(`<div class="wrap section" id="collection-${c.slug}">`, `${countrySection}<div class="wrap section" id="collection-${c.slug}">`);
+  for (const g of cg.filter(g => g.slug)) {
+    const subUrl = `${ORIGIN}/collection/${g.slug}.html`;
+    const reps = [...g.items].sort(byFame);
+    const repNames = reps.slice(0, 6).map(b => displayName(b));
+    const subLead = `${g.k}에서 시작된 ${c.name} ${g.items.length}개를 로고와 함께 정리했습니다. 대표적인 ${g.k} ${c.name}로는 ${repNames.join(", ")} 등이 있습니다. 기원 국가는 검수된 브랜드 설명이나 위키데이터 개체에서 확인된 값만 씁니다.`;
+    const others = cg.filter(o => o.slug && o.slug !== g.slug);
+    const subBody = `${hubHead("컬렉션", `${esc(g.k)} ${esc(c.name)} <span class="en count">${g.items.length}</span>`, esc(subLead), crumbsHub(`${g.k} ${c.name}`))}
+<div class="wrap section"><div class="section-head"><h2>다른 나라 ${esc(c.name)}</h2><a class="more" href="${P}collection/${c.slug}.html">${esc(c.name)} 전체 →</a></div><nav class="chips">${others.map(o => `<a class="chip" href="${P}collection/${o.slug}.html">${esc(o.k)} <small>${o.items.length}</small></a>`).join("")}${COUNTRY_SLUG[g.k] && countryDrafts.some(d => d.slug === COUNTRY_SLUG[g.k]) ? `<a class="chip" href="${P}country/${COUNTRY_SLUG[g.k]}.html">${esc(g.k)} 브랜드 전체</a>` : ""}</nav><p class="hub-note" style="margin-top:22px">${esc(hubFacts(g.items).join(" "))}</p></div>
+${introOf(reps.slice(0, 12), `${g.k} ${c.name} 한눈에 보기`)}
+<div class="wrap section"><div class="section-head"><h2>${esc(g.k)} ${esc(c.name)} 목록</h2></div>${hubListing(g.items)}</div>`;
+    const subTitle = `${g.k} ${c.name} ${g.items.length}개 — ${reps.slice(0, 3).map(b => koreanName(b) || latinName(b) || b.name).join("·")} 등 | 브랜드 아틀라스`;
+    const subDesc = `${g.k} ${c.name}(${c.en}) ${g.items.length}개. ${repNames.slice(0, 4).join(", ")} 등 ${g.k}에서 시작된 브랜드의 로고와 역사를 정리했습니다.`;
+    writeIfChanged(path.join(ROOT, "collection", `${g.slug}.html`), page({
+      title: subTitle, desc: subDesc, canonical: subUrl, bodyHtml: subBody, active: "collections",
+      jsonLd: collectionJsonLd({ name: subTitle, description: subDesc, url: subUrl, crumbs: [{ name: "브랜드 사전", url: `${ORIGIN}/` }, { name: "컬렉션", url: `${ORIGIN}/pages/collections.html` }, { name: c.name, url }, { name: `${g.k} ${c.name}`, url: subUrl }], items: reps.slice(0, 100).map(b => ({ name: displayName(b), url: `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html` })) }),
+    }));
+    collectionCountryPages.push(g.slug);
+  }
   if (prosePreview(body) < HUB_MIN_PROSE) console.warn(`  collection/${c.slug}: 본문 ${prosePreview(body)}자 < ${HUB_MIN_PROSE}`);
   writeIfChanged(path.join(ROOT, "collection", `${c.slug}.html`), page({
     title, desc, canonical: url, bodyHtml: body, active: "collections",
@@ -218,7 +269,7 @@ for (const { c, arr } of collectionDrafts) {
   }));
 }
 for (const f of fs.existsSync(path.join(ROOT, "collection")) ? fs.readdirSync(path.join(ROOT, "collection")) : []) {
-  if (f.endsWith(".html") && !collectionDrafts.some(d => `${d.c.slug}.html` === f)) fs.unlinkSync(path.join(ROOT, "collection", f));
+  if (f.endsWith(".html") && !collectionDrafts.some(d => `${d.c.slug}.html` === f) && !collectionCountryPages.some(s => `${s}.html` === f)) fs.unlinkSync(path.join(ROOT, "collection", f));
 }
 console.log(`collection/: ${collectionDrafts.length} pages (${collectionDrafts.map(d => `${d.c.slug} ${d.arr.length}`).join(", ")})`);
 
@@ -472,6 +523,7 @@ ${magTeaser}
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${PINNED_STYLE}<div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>주요 브랜드</h2><p>한글 표기·로고·본문을 모두 갖춘 브랜드 가운데 자료가 풍부한 순</p></div>${tiles(popular, H, { sub: "origin", size: "lg", eagerFirst: true })}<p style="margin-top:18px"><a class="btn ghost" href="${H}pages/bici.html">로고 아카이브 전체 보기</a></p></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p><a class="more" href="${H}rss.xml">RSS 구독 →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><h2>산업별 대표 브랜드</h2><p>산업마다 자료가 풍부한 브랜드부터</p><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${industryGroups.map(([slug, g]) => { const top = g.items.filter(b => archiveTier(b) === "core").sort(byScore).slice(0, 8); return top.length ? `<div class="section-head" style="margin-top:18px"><h3><a href="${H}category/${slug}.html">${esc(g.label)}</a></h3></div><nav class="chips" aria-label="${esc(g.label)} 대표 브랜드">${top.map(b => `<a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${esc(displayName(b))}</a>`).join("")}</nav>` : ""; }).join("")}</div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>가나다 · ABC 색인</h2><a class="more" href="${H}pages/ganada.html">색인 전체 →</a></div>${indexNav("", H)}<div class="section-head" style="margin-top:26px"><h2>컬렉션</h2><a class="more" href="${H}pages/collections.html">컬렉션 전체 →</a></div><nav class="chips" aria-label="컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip" href="${H}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav><div class="section-head" style="margin-top:26px"><h2>국가별</h2><a class="more" href="${H}pages/countries.html">국가별 전체 →</a></div><nav class="chips" aria-label="국가별">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip" href="${H}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav></div></section>
 <section class="section"><div class="wrap"><div class="about-strip"><div><b>없는 표기를 만들지 않습니다</b><p>한글 표기가 확인된 브랜드만 한글로 적고, 나머지는 원어를 그대로 씁니다.</p></div><div><b>검증된 사실만 표에 넣습니다</b><p>기원 국가·설립연도는 검수된 설명이나 공식 사이트가 일치하는 위키데이터에서만 가져옵니다.</p></div><div><b>로고 변천까지 기록합니다</b><p>${stats.bici}개 브랜드의 로고 변천사를 상세 페이지에 실었습니다.</p></div></div><p style="margin-top:16px"><a class="more" href="${H}pages/about.html">브랜드 아틀라스 소개와 편집 원칙 →</a></p></div></section>
 ${archetyposBanner("home")}`;
@@ -554,6 +606,7 @@ const hubEntries = [
   ...industryGroups.map(([slug]) => [`/category/${slug}.html`, `category/${slug}.html`]),
   ...countryDrafts.map(({ slug }) => [`/country/${slug}.html`, `country/${slug}.html`]),
   ...collectionDrafts.map(({ c }) => [`/collection/${c.slug}.html`, `collection/${c.slug}.html`]),
+  ...collectionCountryPages.map(s => [`/collection/${s}.html`, `collection/${s}.html`]),
   ...(ARTICLES.length ? [["/magazine/", "magazine/index.html"]] : []),
   ...(fs.existsSync(path.join(ROOT, HISTORY_PATH, "index.html")) ? [[`/${HISTORY_PATH}`, `${HISTORY_PATH}index.html`]] : []),
 ].map(([loc, rel]) => [`${ORIGIN}${loc}`, mtime(rel)])
@@ -572,6 +625,14 @@ for (let i = 0; i < brandEntries.length; i += CHUNK) {
   const name = `sitemap-brands-${Math.floor(i / CHUNK) + 1}.xml`;
   writeIfChanged(path.join(ROOT, name), urlset(brandEntries.slice(i, i + CHUNK)));
   files.push(name);
+}
+// 핵심 브랜드 우선 사이트맵 — core 등급 상위 250곳(byScore). 발견됨-미색인 대기열에서 먼저 읽히도록 별도 파일로 둔다.
+{
+  const PRIORITY_N = 250;
+  const top = new Set(indexable.filter(b => archiveTier(b) === "core").sort(byScore).slice(0, PRIORITY_N).map(b => urlSlugOf(b)));
+  const entries = brandEntries.filter(([loc]) => top.has(decodeURIComponent(loc.slice(`${ORIGIN}/brand/`.length, -".html".length))));
+  writeIfChanged(path.join(ROOT, "sitemap-priority.xml"), urlset(entries));
+  files.push("sitemap-priority.xml");
 }
 for (const stale of fs.readdirSync(ROOT).filter(f => /^sitemap-brands-\d+\.xml$/.test(f))) if (!files.includes(stale)) fs.unlinkSync(path.join(ROOT, stale));
 writeIfChanged(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.map(f => `  <sitemap><loc>${ORIGIN}/${f}</loc><lastmod>${TODAY}</lastmod></sitemap>`).join("\n")}\n</sitemapindex>\n`);
@@ -596,7 +657,7 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
 {
   const AI_AGENTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "anthropic-ai", "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "meta-externalagent"];
   const sitemaps = [`${ORIGIN}/sitemap.xml`, ...files.map(f => `${ORIGIN}/${f}`)];
-  const robots = ["User-agent: *", "Allow: /", "Disallow: /pages/directory.html", "", "# 네이버 Yeti·구글봇은 전체 허용", "User-agent: Yeti", "Allow: /", "", "User-agent: Googlebot", "Allow: /", "", "# AI 검색 크롤러 — 인용 노출을 위해 명시적으로 허용한다", ...AI_AGENTS.flatMap(a => [`User-agent: ${a}`, "Allow: /", ""]), ...sitemaps.map(u => `Sitemap: ${u}`), ""].join("\n");
+  const robots = ["User-agent: *", "Allow: /", "Disallow: /pages/directory.html", "Disallow: /*?dailySeed=", "", "# 네이버 Yeti·구글봇은 전체 허용(홈 미리보기 파라미터 URL만 제외)", "User-agent: Yeti", "Allow: /", "Disallow: /*?dailySeed=", "", "User-agent: Googlebot", "Allow: /", "Disallow: /*?dailySeed=", "", "# AI 검색 크롤러 — 인용 노출을 위해 명시적으로 허용한다", ...AI_AGENTS.flatMap(a => [`User-agent: ${a}`, "Allow: /", ""]), ...sitemaps.map(u => `Sitemap: ${u}`), ""].join("\n");
   writeIfChanged(path.join(ROOT, "robots.txt"), robots);
 }
 

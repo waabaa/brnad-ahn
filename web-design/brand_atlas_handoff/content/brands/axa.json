@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-12",
+ "qid": "Q160054",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/axa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "axa",
+  "urlSlug": "axa",
+  "name": "AXA",
+  "nameKo": "",
+  "nameEn": "AXA",
+  "definition": "AXA는 파리에 등록 사무소를 둔 프랑스의 다국적 보험 회사로, 매출 기준 세계 최대 규모의 보험사 중 하나이다. 자회사를 통해 어시스턴스와 관련 서비스도 판매한다.",
+  "summary": "AXA는 파리에 등록 사무소를 둔 프랑스의 다국적 보험 회사로, 매출 기준 세계 최대 규모의 보험사 중 하나이다. 자회사를 통해 어시스턴스와 관련 서비스도 판매한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "무엇의 약자도 아닌 이름을 쓰는 프랑스 보험 그룹으로, 노르망디의 지역 상호보험에서 출발해 인수합병으로 세계적 보험사가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 프랑스 파리 8구에 등록 사무소를 두고 있으며, 보험을 중심으로 자회사를 통해 어시스턴스와 관련 서비스를 판매한다. 2025년 기준 그룹의 총수입보험료와 기타 수익은 €115.5 billion, 고객은 92 million명 이상, 진출 국가는 52개국, 인력은 약 156,000명이었다. Euronext Paris에 상장되어 있으며 CAC 40과 Euro Stoxx 50 지수의 구성 종목이다. 2024년 기준 프랑스 금융 서비스 기업 가운데 매출 4위, 프랑스 전체 기업 가운데 8위이다. 2023년에는 Forbes Global 2000에서 48위에 올랐고, Interbrand의 2025년 순위에서는 전체 43위, 보험사 중에서는 Allianz에 이어 2위였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뿌리는 1817년 노르망디의 루앙에서 건축가 Jacques-Théodore Le Carpentier와 재산 소유자 17명이 화재 보험을 위해 세운 소규모 상호보험 조합이다. 이후 오랫동안 지역 상호보험 그룹으로 남아 Ancienne Mutuelle로 불렸고, 1978년에 Mutuelles Unies라는 이름을 택했다. 1982년부터 1989년까지 Claude Bébéar가 Drouot, Présence, Compagnie du Midi 인수전에서 승리하며 프랑스 최대 민간 보험 그룹으로 키웠다. 확대된 그룹은 1985년 7월 AXA라는 이름을 쓰기 시작했고, 1992년 The Equitable, 1995년 National Mutual, 1996~97년 UAP 합병, 1999년 Guardian Royal Exchange, 2006년 Winterthur로 해외 확장을 이어갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 손해보험, 기업 대상 상업 보험, 건강보험을 중심으로 한다. 2018년 버뮤다 보험사 XL Group을 $15.3 billion에 인수하면서 손해보험 상업 부문에서 세계 선두 플랫폼을 확보했다. 인수 대금의 일부는 미국 생명보험 사업인 Axa Equitable Holdings를 상장한 뒤 처분해 마련했다. 자산운용사 Axa Investment Managers는 2025년 BNP Paribas에 매각했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "AXA S.A.는 Euronext Paris에 상장되어 있으며, 2016년부터 Thomas Buberl이 최고경영자를 맡고 있다. 최대 주주는 Mutuelles AXA로 불리는 프랑스 상호보험사 두 곳이며, 2025년 말 자본의 15.64%와 의결권의 25.78%를 보유했다. 최근에는 자본 부담이 큰 저축 사업에서 벗어나 손해보험, 상업 보험, 건강보험으로 중심을 옮겼다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "무엇의 약자도 아닌 이름을 쓰는 프랑스 보험 그룹으로, 노르망디의 지역 상호보험에서 출발해 인수합병으로 세계적 보험사가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.axa.com/",
+  "entityLinks": {
+   "wikidata": "Q160054",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160054",
+    "https://ko.wikipedia.org/wiki/AXA",
+    "https://en.wikipedia.org/wiki/Axa"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q160054",
+   "country": "프랑스",
+   "inception": "1816",
+   "headquarters": "파리",
+   "founders": [
+    "클로드 베베아르"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-12"
+  },
+  "sourceNote": "영문 위키백과 「Axa」 본문과 위키데이터 Q160054 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

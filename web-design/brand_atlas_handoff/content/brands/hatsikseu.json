@@ -1,0 +1,64 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q16174177",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "hatsikseu",
+  "urlSlug": "hatsikseu",
+  "name": "핫식스",
+  "nameKo": "핫식스",
+  "nameEn": "",
+  "definition": "핫식스는 롯데칠성음료에서 제조하고 판매하는 고카페인 에너지 음료이다. 2010년 3월 4일 대한민국에서 처음 출시되었고, 젊은층과 수험생을 중심으로 인기를 얻고 있다.",
+  "summary": "핫식스는 롯데칠성음료에서 제조하고 판매하는 고카페인 에너지 음료이다. 2010년 3월 4일 대한민국에서 처음 출시되었고, 젊은층과 수험생을 중심으로 인기를 얻고 있다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "롯데칠성음료가 만드는 고카페인 에너지 음료로, 스타크래프트 II 리그와 리그 오브 레전드 대회를 후원한 이력이 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "핫식스는 롯데칠성음료에서 제조하고 판매하는 고카페인 에너지 음료이다. 2010년 3월 4일 대한민국에서 처음 출시되었다. 2011년 5월 리뉴얼을 거친 뒤 현재 젊은층과 수험생을 중심으로 인기를 얻고 있다. 2012년부터 2017년까지 핫식스 글로벌 스타크래프트 II 리그가 시즌별로 열렸으며, 핫식스가 이 대회의 스폰서였다. 2013년 시즌 1은 자유의 날개 기반 마지막 정규 리그였고, 2015년 시즌 3은 군단의 심장 기반 마지막 정규 리그였다. 2013년에는 핫식스 리그오브레전드 더 챔피언스 서머 2013으로 LOL 스폰서를 처음 맡았고, 2014년에도 챔피언스 스프링과 서머를 후원했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "핫식스는 롯데칠성음료가 제조하고 판매하는 고카페인 에너지 음료로, 2010년 3월 4일 대한민국에서 처음 출시되었다. 출시 이듬해인 2011년 5월에 리뉴얼이 이루어졌고, 이후 젊은층과 수험생을 중심으로 인기를 얻었다. 2012년에는 핫식스 글로벌 스타크래프트 II 리그 시즌 1, 시즌 2, 시즌 4, 시즌 5가 열렸다. 2013년에는 핫식스 리그오브레전드 더 챔피언스 서머 2013을 통해 LOL의 스폰서를 처음으로 맡았다. 이후 2014년에는 리그 오브 레전드 챔피언스 스프링과 서머 대회에도 핫식스의 이름이 붙었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "롯데칠성음료가 만드는 고카페인 에너지 음료로, 스타크래프트 II 리그와 리그 오브 레전드 대회를 후원한 이력이 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q16174177",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16174177",
+    "https://ko.wikipedia.org/wiki/%ED%95%AB%EC%8B%9D%EC%8A%A4"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16174177",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「핫식스」 요약과 위키데이터 Q16174177 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-10-11",
+ "qid": "Q131187782",
+ "demand": {
+  "why": "국내",
+  "naver": 0.098,
+  "koViews": 1431,
+  "enViews": 3066,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "sk-on",
+  "urlSlug": "sk-on",
+  "name": "SK온",
+  "nameKo": "SK온",
+  "nameEn": "SK On",
+  "definition": "SK온(SK On)은 2021년 SK이노베이션의 축전지 부문을 물적분할하여 설립된 대한민국의 배터리 회사이다. 본사는 서울특별시 종로구 종로 26(서린동)에 있으며, 2025년 11월 SK엔무브를 합병했다.",
+  "summary": "SK온(SK On)은 2021년 SK이노베이션의 축전지 부문을 물적분할하여 설립된 대한민국의 배터리 회사이다. 본사는 서울특별시 종로구 종로 26(서린동)에 있으며, 2025년 11월 SK엔무브를 합병했다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "SK이노베이션의 축전지 부문에서 분할되어 출범했고, 배터리 사업과 ZIC 브랜드의 기유·윤활제품 사업을 함께 다루는 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "SK온은 SK이노베이션에서 분사한 배터리 회사이며, 본사 외에 대전광역시 유성구에 연구원, 충남 서산시에 서산공장을 두고 있다. 해외 사업장은 아메리카, 유럽, 아시아에 걸쳐 있다. 2022년 12월 현대자동차와 함께 테네시주 카터스빌에 새 공장을 건설한다고 발표했고, 2023년 8월에는 퀘벡주 베캉쿠아에서 에코프로비엠(EcoPro BM) 및 포드와 양극재 공장 합작 투자를 시작했다. 2025년 3월 닛산과 공급 계약을 체결했으며, 4월에는 Slate Auto가 SK온을 배터리 공급업체로 선정했다. 같은 해 9월에는 대전광역시에 전고체 전지 파일럿 공장을 완공했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2021년 7월 SK이노베이션은 배터리 사업 분사를 발표했고, 해당 법인은 같은 해 10월 SK온으로 출범했다. 2023년 2월에는 튀르키예에서 포드 및 코치 홀딩과 추진하던 합작투자 사업에서 철수했다. 2024년 11월 원유 및 석유제품 계열사인 SK트레이딩인터내셔널이 SK온에 합병되었고, 2025년 2월에는 SK트레이딩인터내셔널 산하의 상업용 탱크 터미널 운영사 SK엔텀도 합병되었다. 2025년 7월에는 SK이노베이션 산하의 윤활유 제조사 SK엔무브를 인수한다고 발표했다. 퀘벡주 베캉쿠아 양극재 공장 합작 투자의 공사 건설은 여러 차례 중단되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "SK온의 사업영역에는 Group3, Group3+ 기유 생산, EVF(전기차 윤활유) 제조, 엔진오일 제조가 포함된다. 기어오일 및 트랜스미션 플루이드, 유압유 및 산업유도 제조한다. 1995년 유공 시절 ZIC라는 브랜드명을 만든 뒤 B2B 기유와 B2C 윤활제품을 판매 중이다. 배터리 부문에서는 조지아주 커머스 공장이 폭스바겐과 현대자동차에 배터리를 공급해 왔고, 닛산과 공급 계약을 체결했다. 또한 2025년 9월 대전광역시에 전고체 전지 파일럿 공장을 완공했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 11월 SK엔무브를 합병했다. 같은 달 중국 내 Eve Power와의 두 합작법인 지분을 맞교환해 장쑤성 사업장의 지분 전체를 확보했다. 12월에는 포드와 합작법인 BlueOval SK의 해산을 발표했으며, SK온이 테네시주 배터리 시설을 맡게 되었다. 2026년 3월에는 조지아주 커머스 공장 인력의 3분의 1 이상을 해고했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "SK이노베이션의 축전지 부문에서 분할되어 출범했고, 배터리 사업과 ZIC 브랜드의 기유·윤활제품 사업을 함께 다루는 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q131187782",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q131187782",
+    "https://ko.wikipedia.org/wiki/SK%EC%98%A8",
+    "https://en.wikipedia.org/wiki/SK_On"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q131187782",
+   "country": "대한민국",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-10-11"
+  },
+  "sourceNote": "한국어 위키백과 「SK온」 요약과 위키데이터 Q131187782 팩트를 근거로 편집"
+ }
+}

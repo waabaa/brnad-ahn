@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-09",
+ "qid": "Q15304359",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/asia-pacific-breweries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "asia-pacific-breweries",
+  "urlSlug": "asia-pacific-breweries",
+  "name": "Asia Pacific Breweries",
+  "nameKo": "",
+  "nameEn": "Asia Pacific Breweries",
+  "definition": "Asia Pacific Breweries는 1931년 싱가포르에서 설립된 맥주 양조 회사이다. 2013년 Heineken Asia Pacific으로 이름을 바꿨고, Heineken International이 전액 소유한다.",
+  "summary": "Asia Pacific Breweries는 1931년 싱가포르에서 설립된 맥주 양조 회사이다. 2013년 Heineken Asia Pacific으로 이름을 바꿨고, Heineken International이 전액 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Tiger Beer와 Anchor 등 아시아·태평양 지역 맥주 브랜드를 보유한, Heineken의 지역 거점 역할을 하는 싱가포르 양조 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Asia Pacific Breweries는 싱가포르에 본사를 둔 양조 회사이다. 1931년 Fraser and Neave와 Heineken International의 합작으로 출발했다. 1989년 Asia Pacific Breweries(APB)로 이름을 바꿨고, 2013년 Heineken Asia Pacific과 합병하며 현재의 이름이 됐다. 아시아·태평양 지역 19개국에서 45개 양조장을 운영하며 50개가 넘는 맥주 브랜드와 변종을 판매한다. 지금은 Heineken의 지역 거점 역할을 하는 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1931년 싱가포르의 Fraser & Neave(F&N)가 네덜란드의 Heineken과 합작해 싱가포르에서 양조 사업을 시작했다. 초기 이름은 Malayan Breweries Limited였고, Tiger Beer를 생산했다. 이후 Anchor Beer를 만들던 Archipelago Brewery를 인수했다. 2004년 DB Breweries 지분 90%를 인수했고, 2010년에는 Heineken International BV로부터 PT Multi Bintang Indonesia를 인수했다. 2012년 F&N이 APB 지분을 Heineken에 넘기는 제안을 수락했고, 주주들은 같은 해 9월 28일 임시 주주총회에서 거래를 승인했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 브랜드는 Tiger Beer, Anchor, Baron's Strong Brew, Bintang Beer, DB Bitters, Tui, ABC Extra Stout, Archipelago Brewery Company의 맥주이다. 모회사의 라이선스를 받아 Heineken도 생산한다. Tiger Beer는 1932년에 처음 만든 알코올 도수 5%의 페일 라거로, 투아스에서 생산한다. Bintang Beer는 PT Multi Bintang Indonesia가 인도네시아에서 양조하는 4.7%의 필스너이다. Tui는 DB Breweries가 뉴질랜드에서 양조하는 4%의 페일 라거이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Heineken Asia Pacific은 싱가포르에 본사를 두고 있다. 아시아·태평양 지역 19개국에서 45개 양조장을 관리한다. 50개가 넘는 맥주 브랜드와 변종을 판매한다. 모회사인 Heineken International이 전액 소유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Tiger Beer와 Anchor 등 아시아·태평양 지역 맥주 브랜드를 보유한, Heineken의 지역 거점 역할을 하는 싱가포르 양조 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.apb.com.sg",
+  "entityLinks": {
+   "wikidata": "Q15304359",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15304359",
+    "https://en.wikipedia.org/wiki/Heineken_Asia_Pacific"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q15304359",
+   "country": "싱가포르",
+   "inception": "1931",
+   "headquarters": "싱가포르",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-09"
+  },
+  "sourceNote": "영문 위키백과 「Heineken Asia Pacific」 본문과 위키데이터 Q15304359 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

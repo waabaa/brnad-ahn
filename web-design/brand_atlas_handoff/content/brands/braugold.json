@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q900469",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "braugold",
+  "urlSlug": "braugold",
+  "name": "Braugold",
+  "nameKo": "",
+  "nameEn": "Braugold",
+  "definition": "Braugold는 독일 중부 도시 에르푸르트에 있던 양조장이다. 튀링겐주에서 규모가 큰 양조장 중 하나였으며, 한때 튀링겐 시장 점유율 1위를 차지했다.",
+  "summary": "Braugold는 독일 중부 도시 에르푸르트에 있던 양조장이다. 튀링겐주에서 규모가 큰 양조장 중 하나였으며, 한때 튀링겐 시장 점유율 1위를 차지했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "동독 시기 공영 음료 콤비나트의 중심이었고 튀링겐 시장 1위까지 올랐으나, 건물 노후로 에르푸르트 생산을 접고 다른 도시에서 양조하게 된 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 중부 도시 에르푸르트에 있었으며, 법인명은 Braugold Vertriebs GmbH & Co. KG였다. 튀링겐은 양조 전통이 풍부한 연방주로 알려져 있고, 이 양조장은 그 안에서 규모가 큰 곳에 속했으며 한때 시장 점유율 1위를 차지했다. 1967년에 생산을 시작한 Pilsner special gold가 가장 많이 팔린 맥주였다. 동독 시기에는 공영 소유로 전환되어 지역 음료 콤비나트의 모회사 역할을 했다. 1990년 이후에는 Lich 사설 양조장, Riebeck 그룹, Forest Hoff 음료 그룹으로 소유주가 이어졌다. 2010년 가을 에르푸르트의 생산이 중단되었고, 현재 양조와 병입은 브라운슈바이크의 양조장에서 이루어진다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장의 역사는 19세기에 세워진 두 양조장으로 거슬러 올라간다. 1822년과 1827년에 Volkmar Döppleb이 에르푸르트 시내 Große Arche 거리의 농가 양조장 두 곳을 사들였고, 이후 Baumann 가문이 이를 이어받아 1848년 Schedel 양조장도 인수했다. 다른 한 계통은 1823년 Christian Buchner가 Lauenburg 양조장을 사들이며 시작되었고, 1888년 에르푸르트 시립공원 가까운 Löbervorstadt의 새 부지로 옮겼다. 1920년 양조장이 Baumann Buchner AG를 인수했으며, 같은 시기에 Carl Adolf Riebeck가 세운 라이프치히의 Riebeck Brauerei AG와 합병했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1967년 Pilsner special gold의 생산이 시작되었고, 이 맥주는 이후 가장 많이 팔린 제품이 되었다. 1956년에는 Braugold 상표를 등록하면서 양조장이 현재의 이름을 얻었다. 1969년 에르푸르트 지구의 아홉 양조장이 합병해 음료 콤비나트(VEB Kombinat) 에르푸르트가 만들어졌고, 이 양조장은 그 모회사이자 본사 소재지였다. 2010년 가을 에르푸르트의 생산이 중단될 당시 이 양조장은 일곱 종류의 맥주를 생산하고 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1990년 체제 전환으로 음료 콤비나트가 끝난 뒤 양조장은 먼저 Lich 사설 양조장에 인수되었다. 1996년에는 이전 소유주의 후계자인 Riebeck 그룹이 인수했으며, 당시 이 그룹에는 아이제나흐 양조장과 Wernesgrüner 양조장이 속해 있었다. 2011년 1월 1일 음료 그룹 Forest Hoff가 인수했고, 현재 양조와 병입은 브라운슈바이크의 양조장에서 이루어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "동독 시기 공영 음료 콤비나트의 중심이었고 튀링겐 시장 1위까지 올랐으나, 건물 노후로 에르푸르트 생산을 접고 다른 도시에서 양조하게 된 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q900469",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900469",
+    "https://en.wikipedia.org/wiki/Braugold"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900469",
+   "country": "동독",
+   "inception": null,
+   "headquarters": "에르푸르트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Braugold」 본문과 위키데이터 Q900469 팩트를 근거로 편집"
+ }
+}

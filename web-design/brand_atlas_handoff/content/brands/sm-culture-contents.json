@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-10-04",
+ "qid": "Q12580769",
+ "demand": {
+  "why": "국내",
+  "naver": 0.208,
+  "koViews": 1527,
+  "enViews": 1951,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/sm-culture-contents-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sm-culture-contents",
+  "urlSlug": "sm-culture-contents",
+  "name": "SM C&C",
+  "nameKo": "SM C&C",
+  "nameEn": "SM Culture & Contents",
+  "definition": "SM C&C(SM Culture & Contents)는 SM 엔터테인먼트 계열의 종합광고대행사이자 연예기획사이다. 본사는 서울특별시 성동구에 있다.",
+  "summary": "SM C&C(SM Culture & Contents)는 SM 엔터테인먼트 계열의 종합광고대행사이자 연예기획사이다. 본사는 서울특별시 성동구에 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "광고대행과 연예 기획, 여행사업을 함께 하는 SM 엔터테인먼트 계열사로, 수익의 약 80%가 광고사업에서 나오는 종합광고대행사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "SM C&C는 광고 대행과 연예 기획을 함께 하는 회사이다. 1987년 인터컨티넨탈여행사로 설립되었고, 1996년 7월 HRG와 글로벌 네트워크 파트너쉽을 체결했으며, 2006년 볼빅과의 합병으로 코스닥에 상장했다. 현재 수익 구조에서 광고사업 부문이 약 80%를 차지하며, 매출액 순위로 국내 탑5 종합광고대행사이다. 2012년 AM 엔터테인먼트를 인수해 배우 라인업을 강화했고, 2017년 10월 27일 SK플래닛 M&C부분을 인수했다. 여행사업은 SMTOWN TRAVEL 브랜드로 운영하며, 본사는 서울특별시 성동구 왕십리로 83-21 아크로포레스트 디타워에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1987년 7월 인터컨티넨탈여행사로 설립되었다. 1996년 7월 HRG와 글로벌 네트워크 파트너쉽을 체결했고, 2006년 4월 볼빅과 합병하며 코스닥에 상장했다. 2007년 10월 투어익스프레스를 인수 합병했으며 2009년 7월에는 호텔트리스와 투자계약을 체결했다. 2012년 11월 AM 엔터테인먼트 흡수 합병을 완료했고, 2013년에는 훈미디어와 울림엔터테인먼트의 흡수 합병을 발표했다. 울림엔터테인먼트는 2013년 10월 합병이 완료되었다가 2016년 3월 자사로부터 분할되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 광고, 연예 기획, 여행으로 구성된다. 광고사업 부문이 수익의 약 80%를 차지하는 주력이다. 연예 부문에서는 소속 연예인을 두고 드라마, 예능, 연극·뮤지컬 작품을 제작했다. 여행사업 부문은 2016년 7월 SMTOWN TRAVEL로 브랜드명을 바꾸었다. 자회사 투어익스프레스는 할인 항공권, 자유여행, 국내여행, 허니문 등의 여행 서비스를 제공하는 인터넷 여행사이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 10월 27일 SK플래닛 M&C부분을 인수했다. 현재 광고사업 부문이 수익의 약 80%를 차지하며 매출액 순위로 국내 탑5 종합광고대행사이다. SM 엔터테인먼트 계열이며 모기업은 SM Studios이다. 본사는 서울특별시 성동구에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광고대행과 연예 기획, 여행사업을 함께 하는 SM 엔터테인먼트 계열사로, 수익의 약 80%가 광고사업에서 나오는 종합광고대행사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.smcultureandcontents.com/",
+  "entityLinks": {
+   "wikidata": "Q12580769",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q12580769",
+    "https://ko.wikipedia.org/wiki/SM_C%26C",
+    "https://en.wikipedia.org/wiki/SM_Culture_%26_Contents"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q12580769",
+   "country": "대한민국",
+   "inception": "1980",
+   "headquarters": "서울특별시",
+   "founders": [],
+   "parent": "SM Studios",
+   "fetchedAt": "2026-10-04"
+  },
+  "sourceNote": "한국어 위키백과 「SM C&C」 요약과 위키데이터 Q12580769 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

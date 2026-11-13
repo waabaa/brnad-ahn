@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-08",
+ "qid": "Q603384",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "brouwerij-boon",
+  "urlSlug": "brouwerij-boon",
+  "name": "Brouwerij Boon",
+  "nameKo": "",
+  "nameEn": "Brouwerij Boon",
+  "definition": "Brouwerij Boon은 벨기에 브뤼셀 인근 렘베이크에 있는 양조장이다. 전통적인 람빅 계열의 게우즈와 크릭 맥주를 현대적인 양조 기술과 설비로 주로 생산한다.",
+  "summary": "Brouwerij Boon은 벨기에 브뤼셀 인근 렘베이크에 있는 양조장이다. 전통적인 람빅 계열의 게우즈와 크릭 맥주를 현대적인 양조 기술과 설비로 주로 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.6166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "람빅 전통 방식의 게우즈와 크릭을 현대적인 설비로 만들고, 할레의 전통 맥주 Duivelsbier도 생산하는 렘베이크의 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 벨기에 브뤼셀 인근의 렘베이크에 자리한다. 주로 상당히 전통적인 람빅 유형의 게우즈와 크릭 맥주를 생산하며, 양조에는 현대적인 기술과 설비를 쓴다. 파로 맥주와 할레의 전통 맥주인 Duivelsbier도 만들며, 2011년 생산량은 14 000hl에 이르렀다. 대표는 Frank Boon이고 Boon 가문이 지분 50%를 보유한다. 나머지 50%는 Palm 쪽에 팔렸다가 2014년 Palm의 모회사 Diepensteyn NV로 넘어갔다. 2016년 Palm과의 유통 계약은 끝났고, Palm이 Bavaria에 매각될 때 Boon은 관여하지 않았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 양조장은 1978년에 세워졌다. Frank Boon이 De Vits 양조장과 카페, geuzestekerij를 인수했는데, Rene De Vits와 그의 누이 Jeanne이 은퇴하기로 결정한 때였다. 이후 양조장은 Hondzocht에서 Lembecq 자체로 옮겼고, 첫 맥주는 1990년 가을 그곳에서 생산되었다. 이 일은 Palm Belgian Craft Brewers와의 협력으로 이루어졌으며, Palm이 지분 50%를 가졌다. 생산량은 1990년 450hl, 2000년 5 000hl, 2009년 11 300hl, 2011년 14 000hl로 꾸준히 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품은 게우즈와 크릭 맥주이다. 두 맥주는 상당히 전통적인 람빅 유형이며, 현대적인 양조 기술과 설비로 만든다. 그 밖에 파로 맥주와 Duivelsbier도 생산한다. Duivelsbier는 할레의 전통 맥주이다. 생산은 렘베이크의 양조장에서 이루어지며, 2011년 생산량은 14 000hl였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "대표는 Frank Boon이고 Boon 가문이 지분 50%를 소유한다. 나머지 50%는 Palm Breweries에 팔렸으나 2014년 Palm의 모회사 Diepensteyn NV로 이전되었다. Boon은 2016년 Palm이 Bavaria에 매각되는 과정에 관여하지 않았고, 같은 해 Palm과의 유통 계약도 끝났다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "람빅 전통 방식의 게우즈와 크릭을 현대적인 설비로 만들고, 할레의 전통 맥주 Duivelsbier도 생산하는 렘베이크의 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.boon.be",
+  "entityLinks": {
+   "wikidata": "Q603384",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q603384",
+    "https://en.wikipedia.org/wiki/Boon_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q603384",
+   "country": "벨기에",
+   "inception": "1680",
+   "headquarters": "할레",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-08"
+  },
+  "sourceNote": "영문 위키백과 「Boon Brewery」 본문과 위키데이터 Q603384 팩트를 근거로 편집"
+ }
+}

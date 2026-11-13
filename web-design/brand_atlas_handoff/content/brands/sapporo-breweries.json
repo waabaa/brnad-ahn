@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q288727",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-06T20:30:45+09:00"
+ },
+ "logoCandidate": "logos/sapporo-breweries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sapporo-breweries",
+  "urlSlug": "sapporo-breweries",
+  "name": "삿포로 맥주",
+  "nameKo": "삿포로 맥주",
+  "nameEn": "Sapporo Breweries",
+  "definition": "삿포로 맥주(Sapporo Breweries)는 일본 굴지의 맥주 회사이다. 본사는 도쿄도 에비스에 있으며, 삿포로 홀딩스 산하에서 맥주와 관련된 사업을 운영한다.",
+  "summary": "삿포로 맥주(Sapporo Breweries)는 일본 굴지의 맥주 회사이다. 본사는 도쿄도 에비스에 있으며, 삿포로 홀딩스 산하에서 맥주와 관련된 사업을 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.5,
+  "image": "",
+  "logo": "",
+  "insight": "홋카이도 삿포로 시에서 출발해 상표 금지와 회사 분할을 거치고도 삿포로 맥주 상표를 되찾아 회사명으로 삼은 일본 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "삿포로 맥주는 일본 굴지의 맥주 회사로, 본사는 도쿄도 에비스에 있다. 삿포로 생맥주 흑 라벨을 주력 상품으로 삼고 에비스 맥주, 삿포로 라거 등을 생산한다. 2003년 7월 1일 회사명을 삿포로 홀딩스로 바꾸고 순수한 지배 회사로 전환했으며, 맥주와 관련된 모든 부분은 새로 설립한 삿포로 맥주 사가 운영하게 했다. 삿포로 홀딩스는 삿포로 맥주, 삿포로 음료, 레스토랑 회사 삿포로 라이온, 부동산 회사 에비스 가든 플레이스를 지배한다. 2006년에는 캐나다 3위의 맥주 회사인 Sleeman을 인수했다. 홋카이도에서만 파는 한정 제품과 동계 한정 맥주도 판매한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "삿포로 맥주는 홋카이도 개발 위원회가 메이지 시대인 1876년에 일본 홋카이도 삿포로 시에 설립한 기업이다. 독일에서 공부한 맥주 장인 나카가와 세이베가 첫 삿포로 맥주(라거)를 카이타쿠시 맥주 양조장에서 생산했다. 1886년 민영화되었고, 1906년 일본맥주양조, 오사카맥주와 합병해 다이니폰 맥주 주식회사를 결성했다. 1943년 상표가 금지되어 브랜드가 소멸했으며, 1949년 과도경제력집중배제법에 따라 다이니폰 맥주는 니폰 맥주와 아사히 맥주로 분할되었다. 1957년 삿포로 맥주 상표가 부활했고, 1964년 니폰 맥주가 회사명을 삿포로 맥주로 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 상품은 삿포로 생맥주 흑 라벨이며, 삿포로 블랙 라벨 맥주는 1977년 출시되었다. 에비스 맥주는 1971년 독일식 보리 맥주를 표방하며 다시 출시되었고, 삿포로 라거와 에비스 스타우트 크리미 톱 등도 제품 목록에 있다. 삿포로 겨울 이야기는 일본 최초의 동계 한정 맥주로 1988년에 처음 발매되었다. 삿포로 CLASSIC은 홋카이도에서만 판매하는 한정 제품이며, 홋카이도 지방 대부분의 식당에서 생맥주로 이 상품을 판매한다. 삿포로 홋카이도 나마 시보리는 발포주이고, 신제품으로 삿포로 드래프트 원과 삿포로 아이스 라거 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "삿포로 맥주 사는 2003년 삿포로 홀딩스가 순수한 지배 회사로 전환하면서 설립되어 맥주와 관련된 모든 부분을 운영한다. 삿포로 홀딩스는 삿포로 맥주와 삿포로 음료, 레스토랑 회사 삿포로 라이온, 부동산 회사 에비스 가든 플레이스를 지배한다. 2006년에는 캐나다 3위 맥주 회사 Sleeman을 400만 달러에 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "홋카이도 삿포로 시에서 출발해 상표 금지와 회사 분할을 거치고도 삿포로 맥주 상표를 되찾아 회사명으로 삼은 일본 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sapporobeer.jp/",
+  "entityLinks": {
+   "wikidata": "Q288727",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q288727",
+    "https://ko.wikipedia.org/wiki/%EC%82%BF%ED%8F%AC%EB%A1%9C_%EB%A7%A5%EC%A3%BC",
+    "https://en.wikipedia.org/wiki/Sapporo_Breweries"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q288727",
+   "country": "일본",
+   "inception": "1876",
+   "headquarters": "에비스 가든 플레이스",
+   "founders": [],
+   "parent": "Sapporo Holdings",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "한국어 위키백과 「삿포로 맥주」 요약과 위키데이터 Q288727 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

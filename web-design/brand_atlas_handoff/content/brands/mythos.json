@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q1637028",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "mythos",
+  "urlSlug": "mythos",
+  "name": "Mythos",
+  "nameKo": "",
+  "nameEn": "Mythos",
+  "definition": "Mythos는 1997년에 만들어진 그리스 맥주이다. 연한 밀짚색 라거로, 2015년부터 칼스버그 그룹의 자회사인 Olympic Brewery가 생산한다.",
+  "summary": "Mythos는 1997년에 만들어진 그리스 맥주이다. 연한 밀짚색 라거로, 2015년부터 칼스버그 그룹의 자회사인 Olympic Brewery가 생산한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "칼스버그 그룹이 소유한 연한 밀짚색 그리스 라거 맥주로, 1997년 그리스 토종 맥주 회사를 만들려는 전략에서 나온 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mythos는 그리스에서 만들어진 라거 맥주 브랜드이며, 이름은 '신화'를 뜻한다. 연한 밀짚색 라거로 1997년에 출시되었으며 알코올 도수는 5%이다. 330ml와 500ml 병과 캔으로 판매하며, 레몬을 넣은 Mythos Radler와 -1°C로 여과·냉각한 Mythos Ice 같은 변형 제품도 출시한다. 그리스 전역에 널리 유통되며 유럽 여러 나라와 미국, 캐나다, 파나마, 대만, 이스라엘, 호주로 수출된다. Mythos가 회사의 주력 제품이 되면서 2001년 회사 이름도 Mythos Brewery S.A.로 바뀌었다. 2015년부터는 칼스버그 그룹의 자회사인 Olympic Brewery가 생산하며, 이 회사는 Mythos와 합병된 뒤 재편된 것이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1968년에 설립된 Henninger Hellas S.A.는 독일 Henninger 맥주의 그리스 현지 유통사였다. 1992년 Boutari Group이 이 회사를 인수했고, 1994년 Northern Greece Brewery S.A.로 이름을 바꿔 그리스 토종 맥주 회사로 키우는 전략을 추진했다. 이 전략의 결과로 1997년 Mythos 맥주가 나왔고, Mythos가 주력 제품이 되자 2001년 회사 이름을 Mythos Brewery S.A.로 바꿨다. 2004년에는 Scottish & Newcastle이 과반 주주가 되었고, 2008년부터는 칼스버그 그룹의 자회사이다. 2015년 칼스버그 그룹은 Mythos와 이미 소유하던 Olympic Brewery를 합병해 Olympic Brewery를 다시 꾸렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Mythos(Μύθος)는 연한 밀짚색 라거 맥주로, 1997년에 출시되었고 알코올 도수는 5%이다. 330ml와 500ml 병과 캔으로 판매한다. Mythos Ice는 여과하면서 동시에 -1°C로 냉각한 제품으로 330ml 병으로 나오고, Mythos Radler는 레몬을 넣은 제품으로 330ml 병과 캔으로 나온다. 2007년에 330ml와 500ml 병으로 출시된 Mythos Red는 이후 단종되었다. Olympic Brewery는 이 밖에 독일 브랜드 Henninger lager와 Kaiser pilsner, 그리스 브랜드 Golden을 생산해 일부 매장에서 판매하고, 덴마크 Carlsberg Beer를 수입·유통한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Mythos는 2008년부터 칼스버그 그룹의 자회사였고, 2015년 이미 소유하던 Olympic Brewery와 합병해 Olympic Brewery로 재편되었다. 현재 옛 Mythos Brewery의 제품은 Olympic Brewery가 그리스에서 생산하고 유통한다. 그리스 전역에 널리 유통되며 유럽 여러 나라와 미국, 캐나다, 파나마, 대만, 이스라엘, 호주로 수출된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "칼스버그 그룹이 소유한 연한 밀짚색 그리스 라거 맥주로, 1997년 그리스 토종 맥주 회사를 만들려는 전략에서 나온 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://mythosbeer.gr",
+  "entityLinks": {
+   "wikidata": "Q1637028",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1637028",
+    "https://en.wikipedia.org/wiki/Mythos_Beer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1637028",
+   "country": "그리스",
+   "inception": "1968",
+   "headquarters": "Sindos",
+   "founders": [
+    "Henninger Brewery"
+   ],
+   "parent": "칼스버그",
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Mythos Beer」 본문과 위키데이터 Q1637028 팩트를 근거로 편집"
+ }
+}

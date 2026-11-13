@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-11",
+ "qid": "Q4791958",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "arkells-brewery",
+  "urlSlug": "arkells-brewery",
+  "name": "Arkell's Brewery",
+  "nameKo": "",
+  "nameEn": "Arkell's Brewery",
+  "definition": "Arkell's Brewery는 영국 스윈던에 본사를 둔 양조장이다. 1843년 John Arkell이 세웠으며 설립 이후 Arkell 가문이 소유해 왔다.",
+  "summary": "Arkell's Brewery는 영국 스윈던에 본사를 둔 양조장이다. 1843년 John Arkell이 세웠으며 설립 이후 Arkell 가문이 소유해 왔다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "스윈던에서 가장 오래된 회사이자, 1843년 설립 이후 한 가문이 소유해 온 타워 양조장이다. 원료를 맨 위에 넣어 맨 아래에서 캐스크 맥주를 얻는 방식으로 운영된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "영국 스윈던에 본사를 둔 양조장이다. 타워 양조장 방식으로 운영되며, 원료를 건물 맨 위에 넣으면 맨 아래에서 맥주가 캐스크에 담겨 나오는 원리로 작동한다. 처음에는 증기 양조장이었으나 지금은 엔진이 전기로 구동된다. 스윈던 지역과 인근에 92개의 펍을 소유하고 있으며, 템스 밸리와 런던의 프리 하우스에도 제품을 판매한다. 스윈던에서 가장 오래된 회사이며, 양조장 건물은 Grade II 지정 건축물이고 부지는 Swindon Borough Council이 Urban Conservation Area로 지정했다. 2005년 First Great Western과 계약해 열차 뷔페 칸에 맥주를 공급했고, 1979년부터 Newbury Racecourse 행사를 후원해 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1843년 John Arkell이 영국 스윈던에서 양조장을 세웠다. 이 회사는 빅토리아 시대 스윈던이 크게 팽창하던 시기에 철도가 들어오면서 그 확장을 바탕으로 사업을 키웠다. Isambard Kingdom Brunel이 1841년 Great Western Railway Works를 스윈던에 두기로 결정한 것이 그 배경이다. 설립 이후 지금까지 Arkell 가문 구성원들이 소유해 왔다. 스윈던에서 가장 오래된 회사로, Duke of Kent와 Michael Howard, William Hague 등 정치인이 양조장을 방문한 바 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "House beers로 3B, Wiltshire Gold, Kingsdown Ale, Moonlight를 내놓는다. 그 밖에 2B, Honey Pale Ale, Mustang Black, Hoperation IPA, 1843 Craft Lager가 있다. 92개의 펍은 스윈던 일대와 Oxford, Newbury, Reading, Cheltenham, Gloucester, Ascot 등에 있다. 양조장이 소유한 펍 외에 템스 밸리와 런던의 프리 하우스에도 제품을 판매한다. 2005년부터는 First Great Western 열차의 뷔페 칸에도 맥주가 비치됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스윈던에서 가장 오래된 회사이며 지금도 Arkell 가문 구성원들이 소유하고 있다. 스윈던 지역과 인근에 92개의 펍을 소유하며, 양조장 건물은 Grade II 지정 건축물이다. 부지는 Swindon Borough Council이 Urban Conservation Area로 지정했고, 1979년부터 Newbury Racecourse 행사를 후원하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스윈던에서 가장 오래된 회사이자, 1843년 설립 이후 한 가문이 소유해 온 타워 양조장이다. 원료를 맨 위에 넣어 맨 아래에서 캐스크 맥주를 얻는 방식으로 운영된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.arkells.com/",
+  "entityLinks": {
+   "wikidata": "Q4791958",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4791958",
+    "https://en.wikipedia.org/wiki/Arkell%27s_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4791958",
+   "country": "영국",
+   "inception": "1843",
+   "headquarters": "스윈던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-11"
+  },
+  "sourceNote": "영문 위키백과 「Arkell's Brewery」 본문과 위키데이터 Q4791958 팩트를 근거로 편집"
+ }
+}

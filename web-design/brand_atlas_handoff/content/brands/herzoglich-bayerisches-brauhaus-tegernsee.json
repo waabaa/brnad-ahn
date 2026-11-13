@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q1615321",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": "logos/herzoglich-bayerisches-brauhaus-tegernsee-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "herzoglich-bayerisches-brauhaus-tegernsee",
+  "urlSlug": "herzoglich-bayerisches-brauhaus-tegernsee",
+  "name": "Herzoglich Bayerisches Brauhaus Tegernsee",
+  "nameKo": "",
+  "nameEn": "Herzoglich Bayerisches Brauhaus Tegernsee",
+  "definition": "Herzoglich Bayerisches Brauhaus Tegernsee는 독일 바이에른의 Tegernsee에 있는 양조장이다. 옛 Tegernsee Abbey의 북쪽 동 안에 자리하며 Maria Anna, Duchess in Bavaria가 소유한다.",
+  "summary": "Herzoglich Bayerisches Brauhaus Tegernsee는 독일 바이에른의 Tegernsee에 있는 양조장이다. 옛 Tegernsee Abbey의 북쪽 동 안에 자리하며 Maria Anna, Duchess in Bavaria가 소유한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.55,
+  "image": "",
+  "logo": "",
+  "insight": "수도원 양조장에서 출발해 1817년 이후 House of Wittelsbach 소유로 이어져 온, 옛 Tegernsee Abbey 안의 공작가 양조장이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 양조장은 독일 바이에른의 Tegernsee에 있으며 옛 Tegernsee Abbey의 북쪽 동 안에 자리한다. 운영 회사는 Herzoglich Bayerisches Brauhaus Tegernsee KG이며 지금도 Tegernsee에 본사를 둔다. 소유주는 Maria Anna, Duchess in Bavaria로, Max, Duke in Bavaria의 막내딸이다. 전승에 따르면 1050년에 창립되었다고 하나 문서로 확인되는 역사는 1675년부터이다. 같은 건물 안에는 Herzogliches Bräustüberl Tegernsee라는 식당이 있다. 이 양조장의 맥주는 오랫동안 주로 Miesbach 지역에서 알려졌으나 최근에는 독일 전역을 대상으로 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전승에 따르면 이 양조장의 뿌리는 1050년 Tegernsee 호숫가에 세워진 양조장에 있으며, 그곳에는 746년에 Benedictine Tegernsee Abbey가 설립되어 있었다. 문서로 확인되는 역사는 1675년 abbot Bernd Wenzel이 수도원 양조장을 Holzkirchen에서 Tegernsee로 옮긴 때부터이다. 19세기 초 세속화 이후 1817년에 Maximilian I Joseph of Bavaria가 Karl Joseph von Drechsel로부터 이를 사들여 Königlich braunes Brauhaus Tegernsee라는 이름으로 편입했다. 이후 House of Wittelsbach의 소유로 이어졌고, Duke Max Emanuel in Bayern은 20세기 마지막 4분기에 사업을 크게 확장시켰다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 Tegernseer Beer로 불리는 맥주이다. 양조장은 과거 Tegernseer Klosterbrauerei를 포함해 여러 이름으로 운영되었다. 양조장 본관과 같은 건물 안에는 식당 Herzogliches Bräustüberl Tegernsee가 있다. 이 Bräustüberl은 주로 Tegernseer Beer를 내놓지만 Peter Hubert이 이끄는 독립된 회사이다. 2011년에는 약 5킬로미터 떨어진 Gmund에 충전 라인이 추가로 세워졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "운영 회사 Herzoglich Bayerisches Brauhaus Tegernsee KG는 지금도 Tegernsee에 본사를 두고 있다. 양조장은 House of Wittelsbach의 소유를 이어 오고 있으며 현재 소유주는 Maria Anna, Duchess in Bavaria이다. 2011년에 Gmund에 충전 라인이 추가되었다. 맥주는 오랫동안 Miesbach 지역에서 주로 소비되었으나 최근에는 독일 전역에서 판매된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수도원 양조장에서 출발해 1817년 이후 House of Wittelsbach 소유로 이어져 온, 옛 Tegernsee Abbey 안의 공작가 양조장이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1615321",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1615321",
+    "https://en.wikipedia.org/wiki/Ducal_Bavarian_Brewery_of_Tegernsee"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1615321",
+   "country": "독일",
+   "inception": "1050",
+   "headquarters": "타게른제",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Ducal Bavarian Brewery of Tegernsee」 본문과 위키데이터 Q1615321 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

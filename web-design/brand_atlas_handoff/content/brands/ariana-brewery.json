@@ -1,0 +1,68 @@
+{
+ "importedAt": "2026-11-10",
+ "qid": "Q900342",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T15:21:10+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ariana-brewery",
+  "urlSlug": "ariana-brewery",
+  "name": "Ariana Brewery",
+  "nameKo": "",
+  "nameEn": "Ariana Brewery",
+  "definition": "Ariana Brewery는 1884년 불가리아 소피아에서 Sofia Brewery라는 이름으로 설립된 양조회사이다. 2004년 폐쇄되어 지금은 존재하지 않는 회사이다.",
+  "summary": "Ariana Brewery는 1884년 불가리아 소피아에서 Sofia Brewery라는 이름으로 설립된 양조회사이다. 2004년 폐쇄되어 지금은 존재하지 않는 회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.566666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "체코 형제가 세운 소피아의 양조장으로, 국유화와 개명을 거쳐 Heineken에 인수된 뒤 폐쇄된 불가리아 맥주 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 불가리아 소피아에서 맥주를 생산한 양조업체였으며, 현재는 존재하지 않는 폐업한 회사이다. 1884년 Sofia Brewery라는 이름으로 설립되었고 1996년 Ariana Brewery로 이름을 바꾸었다. 주력 브랜드는 Ariana와 Stolichno였으며, 회사 이름은 인근의 Lake Ariana와 같은 이름이다. 1997년 Heineken International이 이 양조장을 인수했으며 2004년에 폐쇄되었다. 폐쇄 후 Ariana와 Stolichno 두 주력 브랜드의 생산은 Zagorka Brewery로 옮겨졌다. Ariana 브랜드는 Zagorka AD 전체 매출의 50%를 차지하는 것으로 기술되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "체코 출신 Proshek 형제가 1884년 소피아에서 설립했으며, 체코식 양조 방식으로 Proshekovo Pivo를 만들기 시작했다. 형제는 소피아 중심부에 자리 잡기 전에 인근 Knyazhevo 마을의 더 작은 양조장을 임차했었다. 이 맥주는 1891년 Antwerp에서 금메달을 받았다. 1947년 공산 정권이 양조장을 국유화하고 Vitosha로 이름을 바꾸었으며, 맥주 이름도 결국 Sofiisko Pivo로 바뀌었다. 이후 인근 Gorublyane 마을에 두 번째 공장이 세워졌고, 1978년 소피아 중심부의 양조장은 문을 닫았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1996년 Ariana Brewery로 이름을 바꾼 회사는 1997년 Heineken에 인수되었다. 2004년 양조장이 폐쇄되면서 주력 브랜드인 Ariana와 Stolichno의 생산은 Zagorka Brewery로 이관되었다. 회사는 현재 존재하지 않으며, Ariana는 Zagorka AD 전체 매출의 50%를 차지하는 것으로 기술된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "체코 형제가 세운 소피아의 양조장으로, 국유화와 개명을 거쳐 Heineken에 인수된 뒤 폐쇄된 불가리아 맥주 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q900342",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q900342",
+    "https://en.wikipedia.org/wiki/Ariana_Brewery"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q900342",
+   "country": "불가리아",
+   "inception": "1884",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-10"
+  },
+  "sourceNote": "영문 위키백과 「Ariana Brewery」 본문과 위키데이터 Q900342 팩트를 근거로 편집"
+ }
+}

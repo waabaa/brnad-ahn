@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-07",
+ "qid": "Q331630",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T14:15:39+09:00"
+ },
+ "logoCandidate": "logos/pilsner-urquell-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pilsner-urquell",
+  "urlSlug": "pilsner-urquell",
+  "name": "필스너 우르켈",
+  "nameKo": "필스너 우르켈",
+  "nameEn": "Pilsner Urquell",
+  "definition": "필스너 우르켈(Pilsner Urquell)은 체코 플젠에서 양조하는 라거 맥주이다. 세계 최초의 페일 라거이며, 체코어 이름은 Plzeňský prazdroj이다.",
+  "summary": "필스너 우르켈(Pilsner Urquell)은 체코 플젠에서 양조하는 라거 맥주이다. 세계 최초의 페일 라거이며, 체코어 이름은 Plzeňský prazdroj이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최초의 페일 라거로, 이후 pils, pilsner, pilsener로 불리게 된 수많은 맥주의 원형이 된 맥주이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "필스너 우르켈은 체코 플젠(독일어명 필젠)에서 양조하는 라거 맥주로, 양조는 Asahi Breweries 소속 Pilsner Urquell Brewery가 맡는다. 세계 최초의 페일 라거로, 인기 덕분에 수많은 모방작이 나왔고 그 맥주들은 pils, pilsner, pilsener로 불리게 되었다. 맛의 핵심 요소는 노블 홉 품종인 Saaz 홉이며, 연수를 쓰는 것도 맛을 좌우하는 요소이다. 황금빛 색과 투명함이 특징이며, 세계에서 생산·소비되는 맥주 열 가지 중 아홉 가지는 필스너 우르켈을 바탕으로 한 페일 라거이다. 이 양조장은 2017년 일본의 Asahi Breweries에 매각되어 현재 그 소속이다. 판매량의 대부분은 체코, 슬로바키아, 독일, 한국에서 나온다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1839년 무렵 보헤미아의 맥주는 대부분 짙은 색의 상면발효 맥주였지만, 하면발효 라거의 인기가 높아지고 있었다. 플젠 시민들은 값싼 수입 하면발효 맥주를 선호했고, 새 양조장 Měšťanský pivovar(시민 양조장)에 투자해 바이에른 출신 양조가 Josef Groll을 고용했다. Groll은 1842년 10월 5일 새 맥아즙을 준비했고, 같은 해 11월 11일 성 마르틴 장터 축제에서 이 맥주가 처음 제공되었다. 양조장은 1859년 Pilsner Bier B. B.라는 이름을 등록했고, 1898년에는 현재 쓰이는 Pilsner Urquell과 Plzeňský Prazdroj를 포함한 여러 이름을 등록했다. 독일어 이름은 '원천'을 뜻하며 1898년 상표로 채택되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "필스너 우르켈의 생맥주 제품은 거의 대부분 여과된 상태로 판매되며, 비여과 제품은 한정된 양만 구할 수 있다. 최근에는 비살균 '탱크' 버전도 점점 구하기 쉬워졌다. 캔 제품은 330 ml, 355 ml, 500 ml 알루미늄 캔으로 나오고, 병 제품은 녹색 또는 갈색 병으로 나온다. 이 맥주는 Saaz 홉을 넣고 연수를 사용해 만든 황금빛의 투명한 페일 라거이다. 체코, 슬로바키아, 독일, 한국에서 가장 많이 팔리고, 중국, 일본, 영국, 캐나다, 미국, 스웨덴, 헝가리, 루마니아, 오스트리아, 크로아티아에서도 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 양조장은 1999년부터 2017년까지 SABMiller 그룹에 속했다. Anheuser-Busch InBev가 2016년 SABMiller를 인수하도록 허용되기 전 규제 당국과 맺은 합의에 따라, 2017년 일본의 Asahi Breweries에 매각되었다. 현재는 플젠 양조장에서만 양조하며, 과거에는 2002년부터 2011년까지 폴란드 Tychy에서, 2004년부터 2017년까지 러시아 Kaluga에서도 양조했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최초의 페일 라거로, 이후 pils, pilsner, pilsener로 불리게 된 수많은 맥주의 원형이 된 맥주이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.pilsnerurquell.com/",
+  "entityLinks": {
+   "wikidata": "Q331630",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q331630",
+    "https://ko.wikipedia.org/wiki/%ED%95%84%EC%8A%A4%EB%84%88_%EC%9A%B0%EB%A5%B4%EC%BC%88",
+    "https://en.wikipedia.org/wiki/Pilsner_Urquell"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q331630",
+   "country": "체코",
+   "inception": "1842",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-07"
+  },
+  "sourceNote": "영문 위키백과 「Pilsner Urquell」 본문과 위키데이터 Q331630 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}
