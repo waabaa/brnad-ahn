@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2140077",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/tribune-media-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tribune-media",
+  "urlSlug": "tribune-media",
+  "name": "트리뷴",
+  "nameKo": "트리뷴",
+  "nameEn": "Tribune Media",
+  "definition": "트리뷴(Tribune Media)은 미국 일리노이주 시카고에 본사를 둔 멀티미디어 복합기업이다. 1847년 Chicago Daily Tribune 창간에서 출발해 신문, 방송, 라디오 사업을 운영했다.",
+  "summary": "트리뷴(Tribune Media)은 미국 일리노이주 시카고에 본사를 둔 멀티미디어 복합기업이다. 1847년 Chicago Daily Tribune 창간에서 출발해 신문, 방송, 라디오 사업을 운영했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1847년 시카고 일간지로 출발해 신문·방송·라디오를 아우르다 방송 중심으로 재편된 미국 미디어 기업이다. Food Network 지분 투자로도 알려졌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "트리뷴은 신문 발행에서 출발해 방송 중심의 미디어 기업으로 바뀐 회사이다. 이전 사명은 Tribune Company였다. 자회사 Tribune Broadcasting을 통해 미국 전역에서 39개 텔레비전 방송국을 소유했고, 지역 마케팅 계약으로 3개 방송국을 추가 운영했다. Food Network에는 31% 지분을 투자했다. 2014년 8월 출판 부문을 Tribune Publishing으로 분사하기 전에는 Gannett Company에 이은 미국 2위 신문 발행사였다. 2019년 Nexstar Media Group과의 합병이 미국 역사상 최대 규모의 방송 합병으로 승인되어 Nexstar에 편입되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "트리뷴은 1847년 6월 10일 시카고 도심 LaSalle Street와 Lake Street에 있던 단칸 인쇄소에서 Chicago Daily Tribune 창간호를 내며 시작되었다. 초판은 수동 인쇄기로 400부를 찍었다. 1871년 시카고 대화재로 건물이 파괴되었으나 이틀 뒤 인쇄를 재개했다. Joseph Medill이 1855년 지분을 얻어 1874년 경영권을 확보했고, 1911년부터는 손자인 Robert R. McCormick과 Joseph Medill Patterson이 경영을 맡았다. 1924년 WDAP를 임대해 방송에 진출했고, 호출부호를 WGN으로 바꾼 뒤 1926년 인수했으며 1925년에는 새 본사 Tribune Tower를 완공했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "방송 부문 Tribune Broadcasting은 미국 전역에서 39개 텔레비전 방송국을 소유했다. 지역 마케팅 계약으로 방송국 3곳을 추가로 운영했다. 전국 케이블 채널 겸 슈퍼스테이션 WGN America, 지역 케이블 뉴스 채널 Chicagoland Television(CLTV), 시카고 라디오 방송국 WGN도 보유했다. 투자 지분으로는 Food Network 31%가 있었다. 2014년 분사 전 출판 부문에는 Chicago Tribune, Los Angeles Times, Orlando Sentinel, Sun-Sentinel, The Baltimore Sun 등 일간지 10종과 통근자용 타블로이드가 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 투자자들이 막대한 부채를 안고 회사를 인수했고, 2008년 파산했다. 이는 미국 미디어 산업 역사상 최대 규모의 파산이었으며, 회사는 2012년 12월 파산에서 벗어났다. 2017년 5월 8일 Sinclair Broadcast Group에 매각을 발표했으나 2018년 8월 9일 계약을 취소하고 소송을 냈다. 2018년 12월 3일 Nexstar Media Group이 $4.1 billion에 합병하겠다고 발표했고 2019년 승인되었다. Tribune Media는 Nexstar 산하에서 Nexstar가 직접 보유한 옛 Tribune 방송국의 면허 보유자로 남아 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1847년 시카고 일간지로 출발해 신문·방송·라디오를 아우르다 방송 중심으로 재편된 미국 미디어 기업이다. Food Network 지분 투자로도 알려졌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tribunemedia.com/",
+  "entityLinks": {
+   "wikidata": "Q2140077",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2140077",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC%EB%B7%B4_%EB%AF%B8%EB%94%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Tribune_Media"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2140077",
+   "country": "미국",
+   "inception": "1847",
+   "headquarters": "시카고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Tribune Media」 본문과 위키데이터 Q2140077 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

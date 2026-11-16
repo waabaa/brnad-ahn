@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q899010",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/mylan-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mylan",
+  "urlSlug": "mylan",
+  "name": "마일란",
+  "nameKo": "마일란",
+  "nameEn": "Mylan",
+  "definition": "마일란(Mylan)은 1961년에 설립된 글로벌 제네릭 및 특수 의약품 회사이다. 2020년 11월 Pfizer의 Upjohn과 합병하여 Viatris를 설립했다.",
+  "summary": "마일란(Mylan)은 1961년에 설립된 글로벌 제네릭 및 특수 의약품 회사이다. 2020년 11월 Pfizer의 Upjohn과 합병하여 Viatris를 설립했다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "Milan Puskar와 Don Panoz가 1961년에 세운 회사로, 2020년 Pfizer의 Upjohn과 합병하여 Viatris가 된 제네릭 및 특수 의약품 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마일란은 제네릭 및 특수 의약품을 개발하고 생산한 글로벌 제약 회사이다. 네덜란드에 본사를 두었고 영국 하트퍼드셔주 햇필드에 주요 본사를, 미국 펜실베이니아주 캐논스버그에 글로벌 센터를 두었다. 1961년에 설립되었으며 1973년 2월 OTC 시장에 상장되었다. 이후 NASDAQ에 상장되었고 주식은 NASDAQ 바이오테크놀로지 지수와 S&P 500 지수의 구성 요소였다. 광범위한 의료 분야의 의약품을 다루었다. 2020년 11월 Pfizer의 특허 만료 의약품 부문인 Upjohn과 합병하여 Viatris를 설립했으며, 현재는 Viatris의 일부이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "마일란은 1961년에 Milan Puskar와 Don Panoz가 설립했다. 1973년 2월 OTC 시장에 상장되었고, 이후 NASDAQ에 상장되었다. 2007년에는 제네릭 의약품용 활성 의약품 성분(API)의 최고 생산업체인 인도 소재 Matrix Laboratories Limited와 독일 소재 Merck 그룹의 제네릭 사업부의 지배 지분을 인수했다. 이러한 인수를 통해 미국에서 세 번째로 큰 제네릭 및 제약 회사에서 세계에서 두 번째로 큰 제네릭 및 특수 제약 회사로 성장했다. 2020년 11월에는 Pfizer의 Upjohn과 합병하여 Viatris를 설립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "마일란은 종양학, 아나필락시스, 항레트로바이러스제, 심혈관, 호흡기, 피부과, 면역학 분야의 의약품을 개발하고 생산했다. 마취 및 통증 관리, 전염병, 위장병학, 당뇨병/내분비학, 여성 보건 의료 분야도 다루었다. 사업은 제네릭 의약품과 특수 의약품으로 구성되었다. 2007년에는 제네릭 의약품용 활성 의약품 성분(API)의 최고 생산업체인 인도 소재 Matrix Laboratories Limited와 독일 소재 Merck 그룹 제네릭 사업부의 지배 지분을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "마일란은 2020년 11월 Pfizer의 특허 만료 의약품 부문인 Upjohn과 합병하여 Viatris를 설립했으며, 모기업은 Viatris이다. 회사는 Mylan N.V.로서 글로벌 제네릭 및 특수 의약품 회사였다. 이전에는 네덜란드에 본사를 두고 영국 햇필드에 주요 본사를, 미국 캐논스버그에 글로벌 센터를 두었다. NASDAQ에 상장된 주식은 NASDAQ 바이오테크놀로지 지수와 S&P 500 지수의 구성 요소였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Milan Puskar와 Don Panoz가 1961년에 세운 회사로, 2020년 Pfizer의 Upjohn과 합병하여 Viatris가 된 제네릭 및 특수 의약품 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mylan.com/",
+  "entityLinks": {
+   "wikidata": "Q899010",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q899010",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%BC%EB%9E%80",
+    "https://en.wikipedia.org/wiki/Mylan"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q899010",
+   "country": "네덜란드",
+   "inception": "1961",
+   "headquarters": "Canonsburg",
+   "founders": [
+    "Milan Puskar",
+    "Don Panoz"
+   ],
+   "parent": "비아트리스",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「마일란」 요약과 위키데이터 Q899010 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q787324",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bea-systems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bea-systems",
+  "urlSlug": "bea-systems",
+  "name": "BEA 시스템즈",
+  "nameKo": "BEA 시스템즈",
+  "nameEn": "BEA Systems",
+  "definition": "BEA 시스템즈(BEA Systems)는 산호세에 본사를 두었던 미국의 기업용 인프라 소프트웨어 전문 회사이다. 2008년 4월 29일 Oracle에 전부 인수되었다.",
+  "summary": "BEA 시스템즈(BEA Systems)는 산호세에 본사를 두었던 미국의 기업용 인프라 소프트웨어 전문 회사이다. 2008년 4월 29일 Oracle에 전부 인수되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "Tuxedo에서 출발해 Java 애플리케이션 서버 WebLogic으로 이름을 알린 기업용 미들웨어 회사로, 2008년 Oracle에 인수되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "BEA 시스템즈는 기업용 인프라 소프트웨어 제품을 전문으로 한 미국의 회사이다. 1995년에 설립되어 산호세에 본사를 두었고, Oracle에 인수될 당시 전 세계에 78개 사무소를 두고 있었다. 회사 이름은 세 창업자인 Bill Coleman, Ed Scott, Alfred Chuang의 이름 첫 글자를 딴 약어이다. 컴퓨터 업계에서는 WebLogic 제품군으로 가장 잘 알려져 있었다. 제품 라인은 트랜잭션 중심 미들웨어 플랫폼 Tuxedo, Java EE 기업 인프라 플랫폼 WebLogic, 서비스 지향 아키텍처(SOA) 플랫폼 AquaLogic의 세 가지였다. 2008년 4월 29일 Oracle이 BEA 전체를 인수하는 절차를 완료했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "BEA는 1995년 캘리포니아 산호세에서 시작한 소프트웨어 회사이다. 창업자 Bill Coleman, Ed Scott, Alfred Chuang은 모두 Sun Microsystems 출신이며, Information Management와 Independence Technologies를 인수하면서 사업을 시작했다. 두 회사는 Novell이 판매하던 분산 트랜잭션 관리 시스템 Tuxedo의 최대 재판매업체였다. BEA는 곧 Tuxedo 제품 자체를 인수했고 다른 미들웨어 회사와 제품도 계속 인수했다. 1998년에는 최초의 표준 기반 Java 애플리케이션 서버를 만든 샌프란시스코 스타트업 WebLogic을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "BEA는 세 가지 주요 제품 라인을 두었다. Tuxedo는 트랜잭션 중심 미들웨어 플랫폼이고, BEA WebLogic은 Java EE 기업 인프라 플랫폼이며, AquaLogic은 서비스 지향 아키텍처(SOA) 플랫폼이다. WebLogic 제품군은 WebLogic Server, WebLogic Workshop, WebLogic Portal, WebLogic Integration, JRockit으로 구성되었다. 2005년에 AquaLogic을 출시했고, Incomit 인수로 얻은 기술을 바탕으로 WebLogic SIP Server와 WebLogic Network Gatekeeper를 포함한 WebLogic Communications Platform으로 통신 분야에도 진출했다. RFID 시장용으로는 BEA WebLogic RFID 제품군도 제공했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 10월 12일 Oracle이 BEA 인수 의사를 발표했으나, BEA는 같은 날 회사 가치가 훨씬 더 높다며 제안을 거절했다. 2008년 1월 16일 Oracle은 $8.5 billion에 BEA를 인수하는 확정 계약을 체결했다. 2008년 4월 29일 인수가 완료되었고, Tuxedo, WebLogic, AquaLogic은 각각 Oracle Tuxedo, Oracle WebLogic Server, Oracle Service Bus로 이어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Tuxedo에서 출발해 Java 애플리케이션 서버 WebLogic으로 이름을 알린 기업용 미들웨어 회사로, 2008년 Oracle에 인수되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bea.com/",
+  "entityLinks": {
+   "wikidata": "Q787324",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q787324",
+    "https://ko.wikipedia.org/wiki/BEA_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/BEA_Systems"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q787324",
+   "country": "미국",
+   "inception": "1995",
+   "headquarters": "산호세",
+   "founders": [
+    "William T. Coleman III",
+    "Edward W. Scott",
+    "Alfred Chuang"
+   ],
+   "parent": "오라클",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「BEA Systems」 본문과 위키데이터 Q787324 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

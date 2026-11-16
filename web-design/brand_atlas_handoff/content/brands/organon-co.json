@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q903372",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/organon-co-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "organon-co",
+  "urlSlug": "organon-co",
+  "name": "Organon & Co.",
+  "nameKo": "",
+  "nameEn": "Organon & Co.",
+  "definition": "Organon & Co.는 네덜란드 오스에서 출발해 현재 미국 뉴저지주 저지시티에 본사를 둔 미국의 제약회사이다. 생식의학, 피임, 정신의학, 호르몬 대체요법, 마취 분야를 전문으로 한다.",
+  "summary": "Organon & Co.는 네덜란드 오스에서 출발해 현재 미국 뉴저지주 저지시티에 본사를 둔 미국의 제약회사이다. 생식의학, 피임, 정신의학, 호르몬 대체요법, 마취 분야를 전문으로 한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "네덜란드 오스에서 1923년 출발해 Akzo Nobel, Schering-Plough, Merck & Co.를 거친 뒤 2021년 독립한, 여성 건강 중심의 제약회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 생식의학, 피임, 정신의학, 호르몬 대체요법(HRT), 마취를 핵심 치료 분야로 삼는 미국 제약회사이다. 모든 제품을 미국 밖에서 생산하지만 매출의 3분의 1을 미국에서 얻는 구조이다. 1923년 네덜란드 오스에서 설립되었으며 현재 본사는 미국 뉴저지주 저지시티에 있다. 2021년 6월 3일 Merck & Co.에서 분사해 상장 기업이 되었고, 한때 Akzo Nobel의 인체 의약 사업부이기도 했다. 2022년 매출 기준으로 기존 브랜드가 64%, 여성 건강이 27%, 바이오시밀러가 8%를 차지했다. 2026년 4월에는 인도 기반의 Sun Pharma가 이 회사를 인수해 새로운 소유 구조를 맞게 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1923년 암스테르담 대학교의 생리학자이자 내분비학자인 Ernst Laqueur 교수와, 오스에서 도축장 Zwanenbergs Slachterije en Fabrieken을 운영하던 Saal van Zwanenberg의 동업으로 설립되었다. 첫 제품은 1923년의 인슐린이었고, 1930년대에는 에스트로겐, 특히 Menformon이라는 상표의 에스트론을 생산했다. 1948년 영국 스코틀랜드의 Newhouse 연구 시설을 인수했고 1953년 코르티손 생산을 시작했다. 1962년 Nederlandsche Cocaïnefabriek의 주식을 사들이며 사명을 Koninklijke Zwanenberg-Organon(KZO)으로 바꿨고, 1969년 섬유 제조업체 AKU와 합병해 AKZO가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 여성 건강, 바이오시밀러, 기존 브랜드의 세 범주로 나뉜다. 여성 건강 제품은 주로 피임약이며, 5년간 지속되는 가역적 피임 임플란트 Nexplanon과 난포자극호르몬 계열 불임 치료제 Puregon이 있다. 바이오시밀러는 종양학과 면역학 치료를 FDA 승인을 받은 다른 치료보다 낮은 비용으로 제공할 수 있으며, Humira에 견주는 Hadlima를 만든다. 기존 브랜드는 제네릭 경쟁이 있는 약품의 미국 외 판매에 크게 의존하고, Vytorin 같은 심혈관 제품은 합쳐서 매출의 24%를 차지한다. 매출 비중은 2022년 기준으로 여성 건강 27%, 바이오시밀러 8%, 기존 브랜드 64%이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 6월 3일 Merck & Co.에서 분사해 상장 기업이 되었다. 같은 해 11월에는 Forendo Pharma와 그 주력 화합물인 경구용 17β-hydroxysteroid dehydrogenase type 1 억제제를 인수하겠다고 발표했다. 2026년 4월 인도 기반의 Sun Pharma가 이 회사를 인수했다. 2007년 제기된 Remeron 관련 메디케이드 사기 소송은 2014년 10월 합의로 마무리되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네덜란드 오스에서 1923년 출발해 Akzo Nobel, Schering-Plough, Merck & Co.를 거친 뒤 2021년 독립한, 여성 건강 중심의 제약회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.organon.com/",
+  "entityLinks": {
+   "wikidata": "Q903372",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q903372",
+    "https://en.wikipedia.org/wiki/Organon_%26_Co."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q903372",
+   "country": "미국",
+   "inception": "1923",
+   "headquarters": "오스",
+   "founders": [],
+   "parent": "Schering-Plough",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Organon & Co.」 본문과 위키데이터 Q903372 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1577587",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/marathon-oil-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "marathon-oil",
+  "urlSlug": "marathon-oil",
+  "name": "Marathon Oil",
+  "nameKo": "",
+  "nameEn": "Marathon Oil",
+  "definition": "Marathon Oil은 1887년 미국 오하이오주 리마에서 Ohio Oil Company로 출발한 미국의 탄화수소 탐사 기업이다. 2024년 11월 ConocoPhillips에 인수되었다.",
+  "summary": "Marathon Oil은 1887년 미국 오하이오주 리마에서 Ohio Oil Company로 출발한 미국의 탄화수소 탐사 기업이다. 2024년 11월 ConocoPhillips에 인수되었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Ohio Oil Company에서 출발해 Marathon 브랜드를 이어받았으며, 매장량이 미국과 적도기니에 있던 탄화수소 탐사 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Marathon Oil은 미국의 탄화수소 탐사 기업이다. 1887년 Ohio Oil Company로 설립되어 1962년 Marathon Oil Company로 사명을 바꾸었고 본사는 휴스턴에 두었다. 2020년 12월 31일 기준 추정 확인 매장량은 석유환산배럴 972 million이었으며 이 가운데 86%는 미국에, 14%는 적도기니에 있었다. 2020년 일일 판매량은 석유환산 383 thousand 배럴이었고 Eagle Ford Group이 26%, Bakken formation이 27%를 차지했다. 역사적 온실가스 배출량 기준으로는 화석연료 생산 기업 가운데 58위였고, 배출량은 3,804 MtCO₂e로 전 세계 배출량의 0.19%였다. 2024년 11월 ConocoPhillips에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1887년 오하이오주 리마에서 Ohio Oil Company라는 이름으로 설립되었다. 1899년 Standard Oil Company (New Jersey)에 인수되었다가, 1911년 Jersey Standard에 대한 반독점 소송과 이어진 보유 자산 분할 이후 다시 독립 기업이 되었다. 1930년 소매 연료 주유소 브랜드 Marathon을 운영하던 Transcontinental Oil Company를 인수했고 이 브랜드를 계속 사용했다. 1962년 사명을 Marathon Oil Company로 바꾸었다. 1982년 1월 U.S. Steel에 인수되었고, 2001년 USX가 Marathon을 Marathon Oil Corporation이라는 이름으로 분리했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Marathon Oil은 탄화수소 탐사와 생산을 중심으로 한 기업이다. 2020년 12월 31일 기준 확인 매장량의 52%는 석유, 30%는 천연가스, 18%는 천연가스액(natural gas liquids)이었다. 2020년 일일 판매량은 Eagle Ford Group이 26%, Bakken formation이 27%, Oklahoma가 17%, Northern Delaware Basin이 7%, 기타 미국 지역이 2%, 적도기니가 20%였다. 1959년에는 Speedway 79 주유소를 운영하던 Aurora Oil Company를 인수했고, 1962년 Speedway 79와 Marathon 주유소는 Marathon 이름으로 통합되었다. 1998년 Marathon과 Ashland Global은 정유 사업을 Marathon Ashland Petroleum LLC(MAP)에 출자했으며, 이것이 현재의 Marathon Petroleum이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 Marathon Oil은 다운스트림 사업을 Marathon Petroleum으로 분사했다. 2024년 11월 ConocoPhillips에 인수되었다. 2020년 말 기준 추정 확인 매장량은 석유환산배럴 972 million이었으며 86%는 미국에, 14%는 적도기니에 있었다. 역사적 온실가스 배출량 기준 58위 화석연료 생산 기업으로, 3,804 MtCO₂e를 배출해 전 세계 배출량의 0.19%를 차지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Ohio Oil Company에서 출발해 Marathon 브랜드를 이어받았으며, 매장량이 미국과 적도기니에 있던 탄화수소 탐사 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.marathonoil.com/",
+  "entityLinks": {
+   "wikidata": "Q1577587",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1577587",
+    "https://en.wikipedia.org/wiki/Marathon_Oil"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1577587",
+   "country": "미국",
+   "inception": "1887",
+   "headquarters": "휴스턴",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Marathon Oil」 본문과 위키데이터 Q1577587 팩트를 근거로 편집",
+  "founded": {
+   "date": "1887-08-01",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

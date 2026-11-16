@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q3571013",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/ingenico-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ingenico-group",
+  "urlSlug": "ingenico-group",
+  "name": "Ingenico Group",
+  "nameKo": "",
+  "nameEn": "Ingenico Group",
+  "definition": "Ingenico Group은 프랑스의 가맹점 서비스 기술 기업이다. 안전한 전자 거래를 지원하며 POS 결제 단말기 제조에서 출발해 가맹점용 결제 SaaS와 관련 서비스까지 사업을 넓혔다.",
+  "summary": "Ingenico Group은 프랑스의 가맹점 서비스 기술 기업이다. 안전한 전자 거래를 지원하며 POS 결제 단말기 제조에서 출발해 가맹점용 결제 SaaS와 관련 서비스까지 사업을 넓혔다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "POS 결제 단말기 제조에서 출발해 결제 SaaS까지 확장한 프랑스의 결제 기술 기업으로, 1980년 설립 이후 인수를 통해 성장해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ingenico Group은 프랑스의 가맹점 서비스 기술 기업이다. 안전한 전자 거래를 가능하게 하는 것이 사업의 중심이다. POS 결제 단말기 제조업체로 성장한 뒤 가맹점용 결제 SaaS와 관련 서비스까지 영역을 넓혔다. 본사는 프랑스 Suresnes에 있다. 2020년 2월 금융 서비스 기업 Worldline이 Ingenico 인수를 발표했고, 2022년 10월 3일에는 Worldline의 단말기·솔루션·서비스 사업부문(Ingenico 포함)을 Apollo Global Management에 넘기는 거래가 마무리되었다. 2026년 4월에는 Bloomberg News가 Ingenico가 이자 지급에 어려움을 겪어 채권자들과 부채 협의를 시작했다고 보도했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ingenico는 1980년 프랑스에서 Jean-Jacques Poutrel과 Michel Malhouitre가 설립했다. 2008년에는 중국 EFTPOS 업체 Fujian Landi의 지분 55%를 인수했다. 2009년에는 최대 경쟁사인 Hypercom, VeriFone과 함께 결제 산업의 보안 인식을 높이기 위한 비영리 단체 Secure POS Vendor Alliance를 설립했고, 같은 해 독일 결제 처리 업체 Easycash를 인수했다. 2013년에는 벨기에 온라인 결제 업체 Ogone 인수에 합의했으며, 2017년에는 스웨덴 결제 그룹 Bambora를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Ingenico는 소매 및 기타 상업 환경에서 쓰이는 결제 단말기와 POS 시스템을 개발한다. 2014년 Ogone가 Ingenico Payment Services로 바뀌어 디지털 결제 서비스 부문의 대표 브랜드가 되었다. 모든 활동은 Ingenico Smart Terminals, Ingenico Mobile Solutions, Ingenico Payment Services의 세 브랜드를 중심으로 구성될 예정이었다. Ogone는 카드 비제시 거래의 온라인 결제 관리와 보안, 사기 방지 서비스를 제공했다. 2023년 3월에는 소프트웨어 전용 POS 솔루션 업체 Phos 인수를 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 10월 3일 Apollo Global Management와의 거래가 마무리되며 Worldline의 단말기·솔루션·서비스 사업부문에 속했던 Ingenico가 매각되었다. 2023년 3월에는 Phos 인수를 발표했다. 2026년 4월 Bloomberg News는 Ingenico가 이자 지급에 어려움을 겪어 채권자들과 부채 논의를 시작했다고 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "POS 결제 단말기 제조에서 출발해 결제 SaaS까지 확장한 프랑스의 결제 기술 기업으로, 1980년 설립 이후 인수를 통해 성장해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ingenico.com/",
+  "entityLinks": {
+   "wikidata": "Q3571013",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3571013",
+    "https://en.wikipedia.org/wiki/Ingenico"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3571013",
+   "country": "프랑스",
+   "inception": "1980",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Ingenico」 본문과 위키데이터 Q3571013 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3419343",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/genius-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "genius",
+  "urlSlug": "genius",
+  "name": "Genius",
+  "nameKo": "",
+  "nameEn": "Genius",
+  "definition": "Genius는 2009년 설립된 미국의 디지털 미디어 기업이다. 노래 가사, 뉴스 기사, 시, 문서 등을 모아 두고 이용자가 주석과 해석을 달 수 있는 웹사이트를 운영한다.",
+  "summary": "Genius는 2009년 설립된 미국의 디지털 미디어 기업이다. 노래 가사, 뉴스 기사, 시, 문서 등을 모아 두고 이용자가 주석과 해석을 달 수 있는 웹사이트를 운영한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "가사에 이용자와 아티스트가 직접 주석을 다는 크라우드소싱 방식으로 출발했고, Verified Artists 제도로 아티스트 본인의 해설을 담은 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Genius는 노래 가사, 뉴스 기사, 출처, 시, 문서를 담은 데이터베이스 성격의 웹사이트를 운영하며, 이용자가 각 텍스트에 주석과 해석을 달 수 있게 한다. 이용자 참여로 가사와 해설이 쌓이는 크라우드소싱 방식이 서비스의 바탕이다. 처음에는 힙합에 초점을 맞춘 Rap Genius로 출발했고, 유명인과 벤처 투자자가 관심과 지원을 보냈다. 2014년에는 팝, 문학, R&B 등 다른 분야로 영역을 넓히고 주석이 내장된 플랫폼을 추가했으며, 같은 해 7월 Genius로 이름을 바꿔 다시 출시했다. 2016년과 2017년에는 음악 중심의 오리지널 영상 콘텐츠를 제작하고 라이브 행사와 콘서트를 열기 시작했다. 본사는 미국 브루클린에 있으며, 창업자는 Tom Lehman, Ilan Zechory, Mahbod Moghadam이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "서비스는 2009년 8월 Tom Lehman, Ilan Zechory, Mahbod Moghadam이 만들었으며, 세 사람은 Yale University 학부 시절에 만난 사이이다. Lehman이 Moghadam에게 Cam'ron의 가사 의미를 물은 것이 계기가 되어 2009년 여름 사이트 아이디어가 나왔다. Lehman이 초기 버전을 만든 뒤 세 사람은 D.E. Shaw와 Google의 일자리를 떠나 사업에 전념했다. 처음 이름은 Rap Exegesis였으나 철자가 어려워 2009년 12월 Rap Genius로 바꿨다. 2011년 Y Combinator에 지원해 $1.8 million의 시드 투자를 받았고, 2012년에는 Andreessen Horowitz로부터 $15 million을 투자받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 서비스는 가사, 뉴스 기사, 출처, 시, 문서에 이용자가 주석과 해석을 다는 웹사이트이다. Verified Artists 지정을 두어 검증된 아티스트가 자신의 가사에 직접 주석을 달고 편집할 수 있으며, 이런 주석은 일반 회색 대신 노란색으로 강조된다. Nas가 첫 검증 아티스트였고 Wu-Tang Clan 멤버들도 검증 계정을 얻었다. 2013년에는 Rock Genius와 Poetry Genius 등 새 채널을 열고 외부 발행처가 플랫폼을 자기 웹사이트에 넣어 주석 기사를 만들 수 있게 했다. 2014년에 iPhone 앱을, 2015년 8월에 Android 버전을 내놓았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "가사에 이용자와 아티스트가 직접 주석을 다는 크라우드소싱 방식으로 출발했고, Verified Artists 제도로 아티스트 본인의 해설을 담은 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://genius.com",
+  "entityLinks": {
+   "wikidata": "Q3419343",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3419343",
+    "https://en.wikipedia.org/wiki/Genius_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3419343",
+   "country": "미국",
+   "inception": "2009",
+   "headquarters": "브루클린",
+   "founders": [
+    "Mahbod Moghadam",
+    "Tom Lehman",
+    "Ilan Zechory"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Genius (company)」 본문과 위키데이터 Q3419343 팩트를 근거로 편집",
+  "founded": {
+   "date": "2009-10-20",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

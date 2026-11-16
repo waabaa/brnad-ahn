@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q582418",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/itt-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "itt-corporation",
+  "urlSlug": "itt-corporation",
+  "name": "ITT 코퍼레이션",
+  "nameKo": "ITT 코퍼레이션",
+  "nameEn": "ITT Corporation",
+  "definition": "ITT 코퍼레이션(ITT Corporation)은 미국 코네티컷주 스탬퍼드에 본사를 둔 제조 기업이다. 항공우주, 운송, 에너지, 산업 시장에 쓰이는 특수 부품을 생산한다.",
+  "summary": "ITT 코퍼레이션(ITT Corporation)은 미국 코네티컷주 스탬퍼드에 본사를 둔 제조 기업이다. 항공우주, 운송, 에너지, 산업 시장에 쓰이는 특수 부품을 생산한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "International Telephone & Telegraph로 출발해 통신·호텔·방위·물 기술 사업을 정리하고 특수 부품 제조사로 남은 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ITT는 항공우주, 운송, 에너지, 산업 시장을 대상으로 특수 부품을 생산하는 미국 제조 기업이다. 사업부는 Industrial Process, Motion Technologies, Connect and Control Technologies 세 개로 구성된다. 직원은 35개국 이상에서 10,000명 넘게 일하며, 고객은 100개국 이상에 있다. 오랜 기간 이어 온 브랜드로 Goulds Pumps, Cannon connectors, KONI shock absorbers, Enidine 에너지 흡수 부품이 있다. 1920년 International Telephone & Telegraph Corporation으로 출발했으며, 현재의 회사는 1996년 ITT Industries로 분사해 만들어졌다. 이후 2006년 ITT Corporation, 2016년 ITT Inc.로 사명을 바꿨다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "ITT는 1920년 6월 16일 메릴랜드에서 International Telephone & Telegraph Corporation(I.T. & T.)으로 설립됐다. 군 복무를 마친 설탕 중개인 출신의 형제 Hernand Behn과 Sosthenes Behn이 세웠다. 형제는 이에 앞선 1914년 부채 정산 명목으로 파산한 Puerto Rico Telephone Company를 인수했다. Hernand는 초대 사장으로 1933년 사망할 때까지 회사를 이끌었고, Sosthenes는 제2부사장을 맡았다가 이후 회장이 됐다. 1920년대에 유럽과 미국의 전화 회사를 잇달아 인수하며 성장했고, 1923년에는 스페인 통신 사업자들을 통합했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 ITT는 항공우주, 운송, 에너지, 산업 시장에 쓰이는 특수 부품을 생산하는 제조 사업을 한다. 사업은 Industrial Process, Motion Technologies, Connect and Control Technologies 세 사업부로 나뉜다. 대표 브랜드로는 Goulds Pumps, Cannon connectors, KONI shock absorbers, Enidine 에너지 흡수 부품이 있다. 과거에는 통신 자산과 Sheraton Hotels and Resorts를 포함한 호텔 사업도 보유했으나 각각 1986년과 1995년에 처분했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 코네티컷주 스탬퍼드에 있으며 직원은 35개국 이상에서 10,000명 넘게 일한다. 고객은 100개국 이상에 있다. 2011년에는 방위 사업을 Exelis로, 물 기술 사업을 Xylem Inc.로 분사했다. Exelis는 현재 L3Harris Technologies의 일부이며, ITT는 2016년 사명을 ITT Corporation에서 ITT Inc.로 바꿨다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "International Telephone & Telegraph로 출발해 통신·호텔·방위·물 기술 사업을 정리하고 특수 부품 제조사로 남은 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://itt.com",
+  "entityLinks": {
+   "wikidata": "Q582418",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q582418",
+    "https://ko.wikipedia.org/wiki/ITT_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/ITT_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q582418",
+   "country": "미국",
+   "inception": "1920",
+   "headquarters": "스탬퍼드",
+   "founders": [
+    "Sosthenes Behn",
+    "Hernan Behn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「ITT Inc.」 본문과 위키데이터 Q582418 팩트를 근거로 편집",
+  "founded": {
+   "date": "1920-06-16",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

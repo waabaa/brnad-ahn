@@ -1,0 +1,88 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1032400",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 80,
+  "enViews": 34691,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/canadian-tire-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "canadian-tire",
+  "urlSlug": "canadian-tire",
+  "name": "캐나디안 타이어",
+  "nameKo": "캐나디안 타이어",
+  "nameEn": "Canadian Tire",
+  "definition": "캐나디안 타이어(Canadian Tire)는 1922년 캐나다 토론토에서 설립된 기업이다. 유통업, 금융업, 석유제품 유통을 하며 캐나다 최대의 주유소 네트워크를 운영한다.",
+  "summary": "캐나디안 타이어(Canadian Tire)는 1922년 캐나다 토론토에서 설립된 기업이다. 유통업, 금융업, 석유제품 유통을 하며 캐나다 최대의 주유소 네트워크를 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "캐나디안 타이어는 가정용품, 스포츠·캠핑 용품, 금융, 주유소까지 아우르는 캐나다의 유통 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "캐나디안 타이어는 1922년 캐나다 온타리오주 토론토에서 J. William Billes와 Alfred J. Billes가 시작한 기업이다. 가정용품, 공구, 자동차 용품, 스포츠 용품, 캠핑 장비, 정원 관리 제품 등을 판매한다. 유통업 외에 금융업과 석유제품 유통도 하고 있다. 캐나다 최대의 주유소 네트워크를 운영하며, 토론토 주식 시장에 상장되어 있다. 1937년에는 첫 우편 주문 사업을 시작했고, 이는 나중에 캐나다에서 가장 유명한 우편 주문 사업 모델이 되었다. 미국 시장 진출은 1980년대와 1991년 두 차례 시도했으나 한 번은 사업을 접었고 다른 한 번은 다른 기업에 팔렸다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "캐나디안 타이어는 1922년 9월 15일 캐나다 온타리오주 토론토에서 J. William Billes와 Alfred J. Billes가 세운 기업이다. 두 창업자는 해밀턴 타이어(Hamilton Tire)와 개러지 사(Garage Ltd)를 인수한 뒤 1800 달러를 모아 토론토 영 스트리트와 이사벨라 길 코너에 첫 매장을 열었다. 1937년에는 첫 우편 주문 사업을 시작했다. 이후 매장을 늘려 현재까지 465개의 매장을 열었다. 1980년대에는 화이트 오토 스토어(White Auto Store)라는 체인으로 텍사스주 지역에 2억 달러를 투자했으나 사업을 접었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캐나디안 타이어는 가정용품, 공구, 자동차 용품, 스포츠 용품, 캠핑 장비, 정원 관리 제품 등을 판매한다. 사업은 상품 유통업과 금융업, 석유제품 유통으로 이루어진다. 캐나다 최대의 주유소 네트워크도 운영하며 석유제품을 유통한다. 매장 판매와 함께 1937년에 시작한 우편 주문 사업도 해 왔으며, 이는 캐나다에서 가장 유명한 우편 주문 사업 모델이 되었다. 첫 매장을 연 이후 현재까지 465개의 매장을 열었고, 토론토 주식 시장에 상장되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "캐나디안 타이어는 토론토 주식 시장에 상장되어 있으며 티커는 CTC로 표기된다. 현재까지 465개의 매장을 열었고, 캐나다 최대의 주유소 네트워크를 운영하고 있다. 유통업과 금융업, 석유제품 유통을 함께 하는 기업이다. 1991년에는 오토 소스(Auto Source)라는 체인으로 미국 중서부 지역에 120개 정도의 아웃렛 형태 매장을 여는 계획을 추진했으나, 이 체인은 다른 기업에 8억 6백만 달러에 팔렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "캐나디안 타이어는 가정용품, 스포츠·캠핑 용품, 금융, 주유소까지 아우르는 캐나다의 유통 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.canadiantire.ca/",
+  "entityLinks": {
+   "wikidata": "Q1032400",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1032400",
+    "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%82%98%EB%94%94%EC%95%88_%ED%83%80%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Canadian_Tire"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1032400",
+   "country": "캐나다",
+   "inception": "1922",
+   "headquarters": "토론토",
+   "founders": [
+    "Alfred Jackson Billes",
+    "J. William Billes"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「캐나디안 타이어」 요약과 위키데이터 Q1032400 팩트를 근거로 편집",
+  "founded": {
+   "date": "1922-09-15",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

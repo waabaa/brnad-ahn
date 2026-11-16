@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q7838011",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/trello-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "trello",
+  "urlSlug": "trello",
+  "name": "트렐로",
+  "nameKo": "트렐로",
+  "nameEn": "Trello",
+  "definition": "트렐로(Trello)는 보드 안의 리스트와 카드로 작업을 관리하는 웹 기반 프로젝트 관리 소프트웨어이다. 2011년 Fog Creek Software가 개발했고 2017년 1월 Atlassian에 인수되었다.",
+  "summary": "트렐로(Trello)는 보드 안의 리스트와 카드로 작업을 관리하는 웹 기반 프로젝트 관리 소프트웨어이다. 2011년 Fog Creek Software가 개발했고 2017년 1월 Atlassian에 인수되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "보드, 리스트, 카드 구조로 할일을 관리하며, Basecamp 등에 비해 단순한 디자인을 가졌다는 평가를 받는 프로젝트 관리 소프트웨어이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "트렐로는 웹 기반 프로젝트 관리 소프트웨어로, 아이폰, 안드로이드, 웹브라우저에서 이용할 수 있다. 보드 안에 리스트가 들어가고 리스트 안에 카드가 들어가는 구조이며, 카드가 할일의 기본적인 단위가 된다. 2011년 Fog Creek Software에서 개발되었고 2014년 별개 회사로 분리되었으며 2017년 1월 Atlassian에 인수되었다. 2014년 기준 5백만명이 넘는 사람이 사용했고, 2016년 5월에는 총 가입자 수가 14,000,000명이라고 주장했다. Basecamp 등 다른 프로젝트 관리 소프트웨어에 비해 단순한 디자인을 가졌다는 평가를 받는다. Lifehacker는 프로젝트 협업을 단순하고 즐길 만한 수준으로 만들어 준다고 언급했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "트렐로는 2011년 Fog Creek Software에 의해 개발된 프로젝트 관리 소프트웨어이다. Fog Creek의 설립자 Joel Spolsky가 TechCrunch의 한 행사에서 이를 공개했다. Wired는 2011년 9월 이 애플리케이션을 '아직 당신이 한 번도 들어보지 못한 7개의 가장 쿨한 스타트업' 가운데 하나로 선정했다. 2014년에는 Index Ventures와 Spark Capital로부터 10,300,000 달러의 자금을 조달받았고, 같은 해 별개 회사로 분리되었다. 2014년 기준 5백만명이 넘는 사람이 트렐로를 사용하고 있었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "트렐로의 서비스는 보드, 리스트, 카드로 이루어진 웹 기반 프로젝트 관리 도구로, 단순한 디자인을 가졌다는 평가를 받는다. 보드 안에 리스트가 들어가고 리스트 안에 카드가 들어가며, 카드가 할일의 기본적인 단위가 된다. 카드 안에 체크리스트를 만들 수 있고, 다른 사용자를 카드에 참여시켜 함께 작업할 수 있다. 트렐로는 아이폰, 안드로이드, 웹브라우저에서 이용할 수 있어 여러 기기에서 쓸 수 있다. 2018년 12월 트렐로는 트렐로 보드 내 작업 자동화를 위한 Power-Up을 개발하던 기업인 Butler의 인수를 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "트렐로는 2017년 1월 Atlassian에 인수되었다. Atlassian은 2017년 1월 9일 트렐로를 425,000,000 달러에 인수할 의향이 있다고 발표했다. 2016년 5월 트렐로는 일일 활동 방문자가 1,100,000명 이상이라고 주장했다. 2018년 12월에는 Butler의 인수를 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "보드, 리스트, 카드 구조로 할일을 관리하며, Basecamp 등에 비해 단순한 디자인을 가졌다는 평가를 받는 프로젝트 관리 소프트웨어이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://trello.com/",
+  "entityLinks": {
+   "wikidata": "Q7838011",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7838011",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A0%90%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/Trello"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7838011",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「트렐로」 요약과 위키데이터 Q7838011 팩트를 근거로 편집",
+  "founded": {
+   "date": "2011-09-13",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

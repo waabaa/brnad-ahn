@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2300228",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/yit-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "yit",
+  "urlSlug": "yit",
+  "name": "YIT",
+  "nameKo": "",
+  "nameEn": "YIT",
+  "definition": "YIT는 핀란드 헬싱키에 본사를 둔 건설 기업이다. 아파트와 업무용 시설, 지역 단위 개발, 인프라 건설과 도로 포장을 수행하며 핀란드 최대이자 북유럽의 주요 건설사이다.",
+  "summary": "YIT는 핀란드 헬싱키에 본사를 둔 건설 기업이다. 아파트와 업무용 시설, 지역 단위 개발, 인프라 건설과 도로 포장을 수행하며 핀란드 최대이자 북유럽의 주요 건설사이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "핀란드 최대 건설사로, 1912년 스웨덴 회사의 핀란드 자회사로 출발해 건설과 건축 설비 서비스를 함께 운영하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "YIT는 아파트, 업무용 시설, 지역 전체를 개발하고 짓는 건설 기업이다. 까다로운 인프라 건설과 도로 포장에도 전문성을 갖추고 있다. 본사는 헬싱키에 있으며 주식은 Nasdaq Helsinki Oy에 상장되어 있다. 핀란드, 스웨덴, 발트 국가, 체코, 슬로바키아, 폴란드 등에서 사업을 운영한다. 2007년까지 10년간 매출과 인력이 세 배 넘게 늘어 핀란드 최대 건설사이자 북유럽 최대의 건축 설비 서비스 공급사가 되었다. 증기 보일러, 배관, 난방, 전력망, 수처리 시설 등의 장기 유지보수 계약이 연 매출의 4분의 1 이상을 차지한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "YIT의 기원은 1912년 스웨덴의 Allmänna Ingeniörsbyrån이 핀란드에 자회사를 세워 상수도 분야에서 사업을 시작한 데서 비롯한다. YIT라는 이름은 이 그룹명의 핀란드어 번역인 Yleinen Insinööritoimisto에서 왔으며, 첫 사업은 Porvoo의 급수탑 건설이었다. 1970년대에 토목 분야를 넘어 주거용 건물을 포함한 건축과 산업 공사로 영역을 넓혔다. 1987년 9월 경쟁사 Perusyhtymä Oy와 합병해 YIT-Yhtymä(YIT Corporation)가 되었다. 이후 1995년 Oy Huber Ab, 2001년 Calor AB, 2002년 Primatel을 인수했고 이듬해에는 ABB의 건축 설비 사업을 인수하며 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2006년 말 기준 가장 큰 매출원은 주택, 수처리·폐기물 처리 시설, 철도역에서 골프장에 이르는 인프라를 짓는 Construction Services 부문이다. 증기 보일러, 배관, 난방, 위생 설비, 전력망, 수처리 시설 등의 장기 서비스·유지보수 계약은 연 매출의 4분의 1 이상을 차지한다. 주요 프로젝트로는 2004년 문을 연 핀란드 국회 건물 Pikkuparlamentti가 있다. 2007년 완공된 동부 헬싱키 Vuosaari의 Cirrus 아파트도 시공했으며, 이 건물은 핀란드에서 두 번째로 높은 고층 건물이다. Helsinki Fair Centre와 Finnish National Opera의 본거지인 Töölö 오페라하우스도 건설했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 6월 경쟁사 Lemminkäinen 인수 계획을 발표했고, 2018년 2월 1일 YIT Corporation과 Lemminkäinen Corporation이 합병해 새로운 YIT가 출범했다. 2022년 3월에는 러시아의 우크라이나 침공을 이유로 투자와 건설을 포함한 러시아에서의 모든 활동을 중단했다. 2012년 1월 말 기준 최대 주주는 지분 12.1%를 보유한 Ehrnrooth 일가였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "핀란드 최대 건설사로, 1912년 스웨덴 회사의 핀란드 자회사로 출발해 건설과 건축 설비 서비스를 함께 운영하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.yitgroup.com/",
+  "entityLinks": {
+   "wikidata": "Q2300228",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2300228",
+    "https://en.wikipedia.org/wiki/YIT"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2300228",
+   "country": "핀란드",
+   "inception": "1940",
+   "headquarters": "헬싱키",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「YIT」 본문과 위키데이터 Q2300228 팩트를 근거로 편집",
+  "founded": {
+   "date": "1940-08-31",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

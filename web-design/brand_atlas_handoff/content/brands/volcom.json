@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2021416",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/volcom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "volcom",
+  "urlSlug": "volcom",
+  "name": "볼컴",
+  "nameKo": "볼컴",
+  "nameEn": "Volcom",
+  "definition": "볼컴(Volcom)은 보드스포츠 중심의 제품을 디자인·마케팅·유통해 온 미국의 라이프스타일 브랜드이다. 캘리포니아주 코스타메사에 본사를 두고 있으며, 스톤 로고와 'True to This' 슬로건으로 알려져 있다.",
+  "summary": "볼컴(Volcom)은 보드스포츠 중심의 제품을 디자인·마케팅·유통해 온 미국의 라이프스타일 브랜드이다. 캘리포니아주 코스타메사에 본사를 두고 있으며, 스톤 로고와 'True to This' 슬로건으로 알려져 있다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "스톤 로고와 'True to This' 슬로건으로 알려진 보드스포츠 기반 라이프스타일 브랜드로, 서핑·스케이트보드·스노보드 팀을 함께 운영해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "볼컴은 보드스포츠 지향 제품을 디자인하고 마케팅하며 유통해 온 미국의 라이프스타일 브랜드이다. 본사는 캘리포니아주 코스타메사에 있으며, 미국을 비롯해 여러 나라에 소매 매장을 열었다. 스톤 로고와 'True to This' 슬로건, 'Let the Kids Ride Free' 캠페인으로 알려졌다. 1991년 Richard 'Wooly' Woolcott와 Tucker 'T-Dawg' Hall이 설립했다. 2019년 Authentic Brands Group가 Kering으로부터 볼컴을 인수했고, 현재 Todd Hymel이 CEO이다. 서핑, 스케이트보드, 스노보드 분야에서 후원 선수 팀을 운영해 왔으며, 앰배서더가 자신의 삶을 블로그에 쓰는 온라인 공간 Volcomunity도 두었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "볼컴은 1991년 Richard 'Wooly' Woolcott와 Tucker 'T-Dawg' Hall이 설립했다. 두 사람은 자신들의 보드스포츠 경험을 바탕으로 회사의 정신을 세웠다. 1991년 3월 두 친구가 미국 Tahoe로 스노보드 여행을 다녀온 뒤 의류 회사를 시작하기로 했다. Chet Thomas가 브랜드의 후원을 받은 첫 프로 스케이트보더였고, 1995년에는 액션 스포츠 회사로는 처음으로 음반사 Volcom Entertainment를 만들었다. 2005년 4월 현재의 사명 'Volcom, Inc.'를 채택했고, 같은 해 6월 29일 NASDAQ에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "볼컴은 보드스포츠 지향 제품을 디자인하고 유통하며, 출발점은 의류 회사였다. 2013년 7월 Kering의 지원으로 첫 앞이 막힌 신발 라인을 출시했다. 2012년에는 앰배서더 POSSO와 두 번째로 협업해 드레스와 비키니 의상을 포함한 컬렉션을 냈다. 사업은 제품 외에도 1995년 설립한 음반사 Volcom Entertainment와 앰배서더용 온라인 공간 Volcomunity로 이어졌다. 2008년 초에는 첫 인수로 Electric Visual Evolution LLC를 US$25.3 million에 사들였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 4월 3일 Authentic Brands Group가 Kering으로부터 볼컴을 인수했다고 발표했으며, 현재 모기업은 Authentic Brands Group이다. 2025년 2월 2일에는 미국 내 볼컴 소매 매장을 소유한 Liberated Brands가 Chapter 11 파산보호를 신청했고, 미국 내 남은 모든 볼컴 매장을 닫겠다고 밝혔다. 현재 CEO는 Todd Hymel이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스톤 로고와 'True to This' 슬로건으로 알려진 보드스포츠 기반 라이프스타일 브랜드로, 서핑·스케이트보드·스노보드 팀을 함께 운영해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.volcom.com/index.asp",
+  "entityLinks": {
+   "wikidata": "Q2021416",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2021416",
+    "https://en.wikipedia.org/wiki/Volcom"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2021416",
+   "country": "미국",
+   "inception": "1991",
+   "headquarters": "코스타메사",
+   "founders": [],
+   "parent": "Authentic Brands Group",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Volcom」 본문과 위키데이터 Q2021416 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q899183",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/fmc-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "fmc-corporation",
+  "urlSlug": "fmc-corporation",
+  "name": "FMC Corporation",
+  "nameKo": "",
+  "nameEn": "FMC Corporation",
+  "definition": "FMC Corporation은 미국 펜실베이니아주 필라델피아에 본사를 둔 화학 제조 기업이다. 1883년 살충제 분무 펌프 제조사로 출발해 여러 산업으로 사업을 넓혔다.",
+  "summary": "FMC Corporation은 미국 펜실베이니아주 필라델피아에 본사를 둔 화학 제조 기업이다. 1883년 살충제 분무 펌프 제조사로 출발해 여러 산업으로 사업을 넓혔다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "FMC Corporation은 살충제용 분무 펌프 제조사에서 출발해 식품 기계, 군용 차량을 거쳐 화학 기업으로 이어진 이력을 지닌 미국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "FMC Corporation은 미국의 화학 제조 기업으로, 펜실베이니아주 필라델피아에 본사를 두고 있다. 1883년 살충제를 만드는 회사로 출발했으며 이후 다른 산업 분야로 사업을 다각화했다. 1941년에는 미국 전쟁부(United States Department of War)로부터 수륙양용 궤도 상륙 차량의 설계·제작 계약을 받았다. 그 뒤에도 제품 다변화를 이어 갔다. 전 세계 직원은 7,000명이며, 2018년 총매출은 US$4.7 billion이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "FMC Corporation은 1883년 캘리포니아주 로스가토스에서 화학자 John Bean이 Bean Spray Pump Company라는 이름으로 설립했다. 첫 제품은 피스톤 펌프였으며, Bean은 지역의 과수원에 살충제를 뿌리기 위해 이 펌프를 발명했다. 1928년 Anderson-Barngrover Co.와 Sprague-Sells Co.를 인수하면서 회사명을 Food Machinery Corporation으로 바꾸고 FMC라는 약칭을 쓰기 시작했다. 1948년에는 Food Machinery & Chemical Corporation으로, 1961년에는 FMC로 이름을 바꿨다. 1967년에는 Link-Belt를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 사업은 분무 펌프였고, 1928년 인수한 두 회사는 밀폐형 회전식 압력 살균기와 통조림 기계를 만들었다. 군수 분야에서는 M113 Armored Personnel Carrier, Bradley Fighting Vehicle, XR311을 제작했고, 미 해병대용 수륙양용 수중익선 시제품 두 대도 만들었다. 1960년대부터 1980년대까지 소방 장비를 제조했으며, 소방차 펌프와 펌퍼 차체도 생산했다. 화학 제품으로는 쇠고기와 가금류 가공업체가 E. coli와 salmonella 같은 병원균을 줄이는 데 쓰는 제품을 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "FMC Corporation은 미국 펜실베이니아주 필라델피아에 본사를 둔 화학 제조 기업이다. 전 세계에서 7,000명을 고용하고 있으며, 2018년 총매출은 US$4.7 billion이었다. 소방 장비 부문인 FMC Fire Apparatus 사업부는 1990년에 폐쇄되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "FMC Corporation은 살충제용 분무 펌프 제조사에서 출발해 식품 기계, 군용 차량을 거쳐 화학 기업으로 이어진 이력을 지닌 미국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fmc.com/",
+  "entityLinks": {
+   "wikidata": "Q899183",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q899183",
+    "https://en.wikipedia.org/wiki/FMC_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q899183",
+   "country": "미국",
+   "inception": "1883",
+   "headquarters": "BNY Mellon Center",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「FMC Corporation」 본문과 위키데이터 Q899183 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

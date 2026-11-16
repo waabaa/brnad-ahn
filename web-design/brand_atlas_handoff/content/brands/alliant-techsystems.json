@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q238765",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/alliant-techsystems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "alliant-techsystems",
+  "urlSlug": "alliant-techsystems",
+  "name": "Alliant Techsystems",
+  "nameKo": "",
+  "nameEn": "Alliant Techsystems",
+  "definition": "Alliant Techsystems는 미국 버지니아주 알링턴군에 본사를 둔 항공우주·무기 제조업체이다. 1990년 Honeywell의 방위 사업이 분사되면서 독립 회사로 출범했다.",
+  "summary": "Alliant Techsystems는 미국 버지니아주 알링턴군에 본사를 둔 항공우주·무기 제조업체이다. 1990년 Honeywell의 방위 사업이 분사되면서 독립 회사로 출범했다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "방위 사업, 항공우주, 스포츠·법 집행용 탄약을 함께 다룬 미국 제조업체로, 2015년 분할과 합병을 거쳐 Orbital ATK와 Vista Outdoor로 나뉘었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Alliant Techsystems(ATK)는 미국의 항공우주·무기 제조업체였다. 본사는 버지니아주 알링턴군에 있었고, 22개 주와 푸에르토리코, 해외에서 사업을 운영했다. 미국 정부와 동맹국, 그 계약업체에 항공우주 및 방위 제품을 공급했으며, Hercules 화약 제품군의 제조·판매를 이어가고 스포츠·법 집행용 탄약 시장에도 진출했다. 2014 회계연도 매출은 약 US$4.8 billion이었다. 2015년 2월 9일 스포츠 부문을 분사해 Vista Outdoor를 만들고, 항공우주·방위 부문을 Orbital Sciences Corporation과 합병해 Orbital ATK를 출범시켰다. Orbital ATK는 2018년 Northrop Grumman에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "ATK는 1990년 Honeywell이 방위 사업을 주주들에게 분사하면서 독립 회사로 출범했다. 옛 Honeywell 사업은 50년간 미국과 동맹국에 방위 제품과 시스템을 공급해 왔으며, 제2차 세계대전 중 B-17 폭격 임무용 최초의 전자식 자동조종장치도 여기에 포함된다. 1995년 Hercules Inc.의 사업부인 Hercules Aerospace Co.를 인수하며 항공우주 시장에 진입했다. 2001년에는 Thiokol을 인수했고, Blount International의 탄약 사업도 인수해 미국 최대 탄약 제조업체가 되었다. 2009년 Eagle Industries, 2010년 Blackhawk Industries Products Group Unlimited, LLC를 인수해 보안·법 집행 시장으로 사업을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "항공우주 부문은 우주, 방위, 상업 항공우주 제품과 역량을 다루며 우주 탐사용 추진 장치, 상업 발사체, 전략·미사일 방어용 추진 장치를 공급했다. 이 부문의 본부는 미국 유타주 Magna에 있었다. 군용·민수용 항공기의 복합재 구조물, Rolls-Royce Trent XWB-97 엔진, Lockheed Martin F-35 Lightning II, 통합 위성 시스템, 위성 부품·하위 시스템도 전문 분야였다. Thiokol은 NASA 우주왕복선 발사에 쓰인 재사용 고체 로켓 모터의 유일한 제조업체였고, 이 모터는 NASA의 Space Launch System용으로 개조되고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 Orbital의 Antares 로켓이 폭발하자 ATK는 합병을 재검토했고, 11월 17일 이 거래가 여전히 주주에게 최선이라고 밝혔다. 양사의 주주 투표는 2015년 1월 27일로 연기되었다. 2015년 2월 20일 Vista Outdoor와 Orbital ATK가 별개의 회사로 영업을 시작했고, Orbital ATK는 2018년 6월 Northrop Grumman에 인수되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "방위 사업, 항공우주, 스포츠·법 집행용 탄약을 함께 다룬 미국 제조업체로, 2015년 분할과 합병을 거쳐 Orbital ATK와 Vista Outdoor로 나뉘었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.atk.com/",
+  "entityLinks": {
+   "wikidata": "Q238765",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q238765",
+    "https://en.wikipedia.org/wiki/Alliant_Techsystems"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q238765",
+   "country": "미국",
+   "inception": "1990",
+   "headquarters": "알링턴군",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Alliant Techsystems」 본문과 위키데이터 Q238765 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

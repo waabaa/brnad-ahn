@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q165858",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/telus-communications-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "telus-communications",
+  "urlSlug": "telus-communications",
+  "name": "텔러스",
+  "nameKo": "텔러스",
+  "nameEn": "Telus Communications",
+  "definition": "텔러스(Telus Communications)는 캐나다 통신 기업 Telus Corporation의 전액 출자 주력 자회사이다. 인터넷 접속, 음성, 엔터테인먼트, 헬스케어, 영상, 스마트홈 자동화, IPTV 등을 제공한다.",
+  "summary": "텔러스(Telus Communications)는 캐나다 통신 기업 Telus Corporation의 전액 출자 주력 자회사이다. 인터넷 접속, 음성, 엔터테인먼트, 헬스케어, 영상, 스마트홈 자동화, IPTV 등을 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "앨버타 정부 소유 전화회사의 민영화와 BC Tel 합병을 거쳐 형성된, 브리티시컬럼비아와 앨버타의 기존 지역 유선 통신 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "텔러스는 캐나다의 전국 통신 기업 Telus Corporation의 전액 출자 주력 자회사이다. 인터넷 접속, 음성, 엔터테인먼트, 헬스케어, 영상, 스마트홈 자동화, IPTV 텔레비전 등 폭넓은 통신 제품과 서비스를 제공한다. 본사는 브리티시컬럼비아주 밴쿠버 지역에 있으며, 1999년 BC Tel과 합병하기 전에는 앨버타주 에드먼턴에 기반을 두었다. 브리티시컬럼비아주와 앨버타주에서 기존 지역 유선 통신 사업자(incumbent local exchange carrier) 역할을 한다. 주요 경쟁사는 Rogers Communications와 Bell Canada이다. British Columbia Technology Industry Association의 회원이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Telus Corporation은 1990년 앨버타 주정부가 공기업 Alberta Government Telephones(AGT)의 민영화를 돕기 위한 지주회사로 세웠다. 1995년에는 에드먼턴 시로부터 에드먼턴의 주요 전화 사업자 Edmonton Telephones Corporation(EdTel)을 인수해 앨버타의 유일한 전화 서비스 사업자가 되었다. 1996년에는 AGT와 EdTel을 대체하는 소비자 브랜드로 Telus가 대중에게 소개되었다. 1998년 BC Tel과의 합병을 발표했고 1999년에 합병이 완료되었으며, 2000년에 사명을 Telus Corporation으로 되돌리고 BC Tel 브랜드는 폐지했다. 이 합병으로 시장점유율 22%의 캐나다 2위 통신사가 탄생했으며, Bell Canada의 점유율은 42%였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "무선 부문인 Telus Mobility는 UMTS 및 LTE 기반의 이동전화망을 제공한다. 사업은 인터넷 접속, 음성, 엔터테인먼트, 헬스케어, 영상, 스마트홈 자동화, IPTV 텔레비전 등 폭넓은 통신 제품과 서비스로 구성된다. 2019년 10월 Telus Corp는 홈 시큐리티 업체 ADT Inc.의 캐나다 사업을 CA$700 million에 인수하겠다고 발표했다. 이처럼 통신망을 바탕으로 가정용 보안과 헬스케어 등으로 서비스 범위를 넓혀 왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Telus Corporation은 복합 기업이며, 2010년 Telus 연차보고서에 따르면 Telus Communications Inc.가 그 전액 출자 주력 자회사이다. 2022년 6월 Altima Telecom을 인수했고, 2023년 1월에는 London에 기반을 둔 인터넷 서비스 제공업체 Start.ca를 인수했다. 2000년 8월 GTE로부터 Québec Téléphone의 지분을 사들여 2001년 4월 2일 Telus Québec으로 이름을 바꾼 바 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "앨버타 정부 소유 전화회사의 민영화와 BC Tel 합병을 거쳐 형성된, 브리티시컬럼비아와 앨버타의 기존 지역 유선 통신 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.telus.com/en/",
+  "entityLinks": {
+   "wikidata": "Q165858",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q165858",
+    "https://ko.wikipedia.org/wiki/%ED%85%94%EB%9F%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Telus_Communications"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q165858",
+   "country": "캐나다",
+   "inception": "1990",
+   "headquarters": "밴쿠버",
+   "founders": [],
+   "parent": "Telus Corporation",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Telus Communications」 본문과 위키데이터 Q165858 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q913525",
+ "demand": {
+  "why": "국내",
+  "naver": 0.023,
+  "koViews": 1961,
+  "enViews": 14049,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/mevius-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mevius",
+  "urlSlug": "mevius",
+  "name": "메비우스",
+  "nameKo": "메비우스",
+  "nameEn": "Mevius",
+  "definition": "메비우스(Mevius)는 1977년부터 일본담배산업(Japan Tobacco)에서 생산하는 담배 상표이다. 세계에서 3번째로 많이 팔리는 담배 제품으로, 전 세계 40여 개국에서 판매된다.",
+  "summary": "메비우스(Mevius)는 1977년부터 일본담배산업(Japan Tobacco)에서 생산하는 담배 상표이다. 세계에서 3번째로 많이 팔리는 담배 제품으로, 전 세계 40여 개국에서 판매된다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "마일드 세븐에서 2013년 이름을 바꾼 일본담배산업의 담배 상표로, 세계에서 3번째로 많이 팔리며 전 세계 40여 개국에서 판매된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메비우스는 일본담배산업(Japan Tobacco)이 1977년부터 생산해 온 담배 상표이다. 세계에서 3번째로 많이 팔리는 담배 제품이며, 일본을 비롯한 아시아와 태평양, 유럽, 아메리카 등 전 세계 40여 개국에서 판매된다. 2010년과 2011년에 전 세계 판매 1위를 기록했고, 2012년에는 유로모니터 기준 판매량 월드베스트 1위에 올랐다. 현재 많은 파생형이 만들어져 공급되고 있다. 일본 내 판매용 메비우스 아쿠아 스플레쉬에는 흡연의 위험성을 경고하는 후생노동성의 홈페이지 주소가 표시되어 있다. 대한민국에서 판매되는 제품은 KT&G가 주문자 상표 부착 생산 방식으로 생산해 공급한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "메비우스는 1977년 일본담배산업(Japan Tobacco)이 발매한 담배 상표이다. 발매 당시의 상표명은 마일드 세븐(Mild Seven)이었다. 세계 보건 기구 담배 규제 기본 협약에 따라 '마일드', '라이트', '저타르' 등의 상표명이 금지되었고, 전 세계 175개국 중 85개 국가가 이 협약을 시행했다. 이에 따라 2013년 상표명을 메비우스로 변경했다. 일본담배산업은 르노 F1팀의 스폰서로 2006년까지 차량 외부에 메비우스 광고를 부착하게 했으나, 유럽 연합의 담배 광고 규제로 현재는 스폰서를 하지 않는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 상표명을 마일드 세븐에서 메비우스로 변경해 현재에 이르고 있다. 2012년 유로모니터 기준 판매량 월드베스트 1위에 올랐으며, 현재 많은 파생형이 만들어져 공급되고 있다. 대한민국에서는 KT&G가 주문자 상표 부착 생산 방식으로 생산해 공급한다. 르노 F1팀 스폰서 활동은 유럽 연합의 담배 광고 규제로 현재 하지 않는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "마일드 세븐에서 2013년 이름을 바꾼 일본담배산업의 담배 상표로, 세계에서 3번째로 많이 팔리며 전 세계 40여 개국에서 판매된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q913525",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q913525",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EB%B9%84%EC%9A%B0%EC%8A%A4_(%EB%8B%B4%EB%B0%B0)",
+    "https://en.wikipedia.org/wiki/Mevius"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q913525",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「메비우스 (담배)」 요약과 위키데이터 Q913525 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

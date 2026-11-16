@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q509255",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "buffalo-wild-wings",
+  "urlSlug": "buffalo-wild-wings",
+  "name": "Buffalo Wild Wings",
+  "nameKo": "",
+  "nameEn": "Buffalo Wild Wings",
+  "definition": "Buffalo Wild Wings는 치킨 윙을 전문으로 하는 미국의 캐주얼 다이닝 레스토랑이자 스포츠 바 프랜차이즈이다. BW3, BDubs, BWW라는 별칭으로도 불린다.",
+  "summary": "Buffalo Wild Wings는 치킨 윙을 전문으로 하는 미국의 캐주얼 다이닝 레스토랑이자 스포츠 바 프랜차이즈이다. BW3, BDubs, BWW라는 별칭으로도 불린다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "치킨 윙을 전문으로 하는 스포츠 바 겸 캐주얼 다이닝 프랜차이즈로, Buffalo식 윙을 찾던 두 창업자가 1982년 오하이오주 콜럼버스에서 시작했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 브랜드는 치킨 윙을 전문으로 하는 미국의 캐주얼 다이닝 레스토랑이자 스포츠 바 프랜차이즈이다. 처음 이름은 Buffalo Wild Wings & Weck였으며, BW3, BDubs, BWW라는 별칭으로도 불린다. 1982년에 James Disbrow와 Scott Lowery가 오하이오주 콜럼버스의 Ohio State University 인근에서 첫 매장을 열었다. 2025년 3월 기준으로 미국 50개 주 전역에 1,300개가 넘는 매장이 있다. 운영 본사는 애틀랜타 인근 교외 도시인 조지아주 Sandy Springs에 있으며, 모회사는 Inspire Brands이다. 1995년 무렵에는 대학가 스포츠 바 중심의 전략에서 캐주얼 다이닝 중심으로 방향을 바꾸었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1982년 James Disbrow와 Scott Lowery가 Buffalo Wild Wings & Weck(BW3)을 세웠다. 두 사람은 오하이오주 켄트에서 Buffalo식 치킨 윙을 파는 식당을 찾지 못해 직접 식당을 열기로 했다. 이름의 Weck는 처음 매장에서 내던 샌드위치 beef on weck을 가리킨다. 개업 6개월 안에 Mark Lutz가 동업자로 합류했고, 이후 10년 동안 오하이오, 인디애나, 콜로라도주 Steamboat Springs에 매장 여섯 곳을 더했다. 1992년부터 프랜차이즈를 시작했고, 1998년 이름을 Buffalo Wild Wings로 통일했으며 1999년 10월 미네소타주 Apple Valley에서 100번째 매장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시그니처 메뉴는 Buffalo식 치킨 윙이며, 초기에는 beef on weck 샌드위치도 매장에서 냈다. 병에 담은 윙 소스도 판매했으며, 초기 병 소스는 애틀랜타의 Wilsey, Inc.가 제조했다. 1998년에는 소스의 가정용 판매를 늘리기 위해 포장을 개선했다. 2000년에는 새 소스 여러 종류를 시험했지만 메뉴에는 두 가지만 추가했고, 첫 디저트도 함께 내놓았다. 2001년에는 테이크아웃 판매를 밀기 시작했고, 같은 해 말 Frito-Lay와 함께 소매 시장에 내놓을 브랜드 감자칩 계획을 추진했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 3월 기준으로 미국 50개 주 전역에 1,300개가 넘는 매장이 있다. 회사는 애틀랜타 인근 교외 도시인 조지아주 Sandy Springs에서 운영되며, 모회사 Inspire Brands도 이곳에 있다. 참고로 2000년 말에는 19개 주에 140개 매장이 있었고, 그중 한 곳이 뉴욕주 Buffalo에 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "치킨 윙을 전문으로 하는 스포츠 바 겸 캐주얼 다이닝 프랜차이즈로, Buffalo식 윙을 찾던 두 창업자가 1982년 오하이오주 콜럼버스에서 시작했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.buffalowildwings.com/",
+  "entityLinks": {
+   "wikidata": "Q509255",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q509255",
+    "https://en.wikipedia.org/wiki/Buffalo_Wild_Wings"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q509255",
+   "country": "미국",
+   "inception": "1982",
+   "headquarters": "미니애폴리스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Buffalo Wild Wings」 본문과 위키데이터 Q509255 팩트를 근거로 편집"
+ }
+}

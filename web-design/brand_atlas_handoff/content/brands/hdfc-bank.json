@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q631047",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/hdfc-bank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hdfc-bank",
+  "urlSlug": "hdfc-bank",
+  "name": "HDFC Bank‬",
+  "nameKo": "",
+  "nameEn": "HDFC Bank‬",
+  "definition": "HDFC Bank는 인도 뭄바이에 본사를 둔 은행·금융서비스 기업이다. 1994년 8월 설립되어 1995년 1월 영업을 시작했으며, 자산과 시가총액 기준으로 인도에서 가장 큰 민간 부문 은행이다.",
+  "summary": "HDFC Bank는 인도 뭄바이에 본사를 둔 은행·금융서비스 기업이다. 1994년 8월 설립되어 1995년 1월 영업을 시작했으며, 자산과 시가총액 기준으로 인도에서 가장 큰 민간 부문 은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "자산과 시가총액 기준 인도 최대 민간 부문 은행이며, 모회사 HDFC Ltd와의 합병으로 인도 역사상 최대 규모의 M&A를 완성한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인도 뭄바이에 본사를 둔 은행·금융서비스 기업이다. 1994년 8월 설립되었고 인도 중앙은행(Reserve Bank of India)으로부터 은행 면허를 받아 1995년 1월 영업을 시작했다. 자산과 시가총액 기준으로 인도 최대 민간 부문 은행이다. 인도 중앙은행은 이 은행을 State Bank of India, ICICI Bank와 함께 국내 시스템적으로 중요한 은행(D-SIB)으로 지정했으며, 이들은 흔히 '대마불사'로 불린다. 2023년 7월 1일 모회사 Housing Development Finance Corporation과의 합병을 완료했고, 합병 후 자산 기준으로 State Bank of India에 이어 인도 2위 은행이 되었다. 2025년에는 시가총액 기준 세계 10위 은행이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년 HDFC Ltd의 자회사로 설립되었으며, HDFC Ltd 창업자 H.T Parekh의 조카인 Deepak Parekh의 지도 아래 출범했다. HDFC Ltd는 인도 은행업 자유화의 일환으로 민간 부문 은행 설립에 대한 인도 중앙은행의 '원칙적' 승인을 받았다. Aditya Puri가 초대 상무이사로 임명되었고, 은행은 1995년 1월 뭄바이에 등록 사무소를 두고 영업을 시작했다. 첫 본사 사무실이자 종합 지점인 Worli의 Sandoz House는 당시 연방 재무장관 Manmohan Singh이 개점했다. 2001년 7월 IPO를 거쳐 ADS가 New York Stock Exchange에 상장되었고, 2008년에는 Centurion Bank of Punjab을 주식 교환 방식으로 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "은행·금융서비스를 제공하며, 2026년 6월 30일 기준 유통망은 4,175개 도시와 마을에 걸쳐 지점 9,694개와 ATM 20,958대(현금 입출금 순환기 포함)로 구성되었다. 2023년 합병으로 HDFC Ltd의 주택담보대출 포트폴리오가 은행으로 이전되었다. Lakshadweep 연방직할지에서는 Kavaratti 섬에 지점을 열어 유일하게 영업하는 민간 은행이다. 해외 영업은 지점 다섯 곳으로 이루어지며 바레인, 두바이, 홍콩 등에 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 7월 1일 HDFC Ltd와의 합병이 완료되어 HDFC Ltd 주식은 상장 폐지되었고, 주주는 HDFC Ltd 25주당 HDFC Bank 주식 42주를 받았다. 합병으로 지점 수는 8,300개로 늘었다. 2026년 8월 Managing Director 겸 Chief Executive Officer인 Sashidhar Jagdishan은 세 번째 임기 재선임을 구하지 않기로 하고 2026년 10월 26일 퇴임한다고 발표했다. 그는 2020년부터 은행을 이끌며 2023년 합병을 이끈 인물이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자산과 시가총액 기준 인도 최대 민간 부문 은행이며, 모회사 HDFC Ltd와의 합병으로 인도 역사상 최대 규모의 M&A를 완성한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://hdfc.bank.in/",
+  "entityLinks": {
+   "wikidata": "Q631047",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q631047",
+    "https://en.wikipedia.org/wiki/HDFC_Bank"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q631047",
+   "country": "인도",
+   "inception": "1994",
+   "headquarters": "뭄바이",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「HDFC Bank」 본문과 위키데이터 Q631047 팩트를 근거로 편집",
+  "founded": {
+   "date": "1994-08",
+   "precision": "month",
+   "sources": [
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

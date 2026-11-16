@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1654103",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/imax-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "imax-corporation",
+  "urlSlug": "imax-corporation",
+  "name": "아이맥스",
+  "nameKo": "아이맥스",
+  "nameEn": "IMAX Corporation",
+  "definition": "아이맥스(IMAX Corporation)는 IMAX 카메라와 영사 시스템을 설계·제조하고, 필름 현상과 제작, 후반작업, 배급까지 수행하는 캐나다의 극장 기술·제작 기업이다.",
+  "summary": "아이맥스(IMAX Corporation)는 IMAX 카메라와 영사 시스템을 설계·제조하고, 필름 현상과 제작, 후반작업, 배급까지 수행하는 캐나다의 극장 기술·제작 기업이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "대형 스크린과 서라운드 사운드, 가파른 객석을 갖춘 극장 경험을 위해 자체 카메라와 영사 기술을 개발해 온 캐나다 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "IMAX는 대형 스크린용 카메라와 영사 시스템을 설계하고 제조하는 캐나다 기업이다. 필름 현상, 제작, 후반작업, 배급도 수행하며 전 세계의 IMAX 계열 극장에 콘텐츠를 공급한다. 본사는 토론토 광역권의 미시소거에 있고, 뉴욕과 로스앤젤레스에도 사업장을 두고 있다. 2025년 11월 기준 90개국에 1,759개의 IMAX 극장이 있었으며, 이 중 1,693개는 상업용 복합상영관에 있었다. 극장 방식에는 IMAX 3D, IMAX Dome, Digital IMAX 등의 변형이 있으며, 2019년 12월에는 81개 국가와 지역에 1,624개 극장이 있었다. 1994년 인수 이후 할리우드 제작사 유치에 주력해 왔으며, 현재 최고경영자는 Richard Gelfond이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1967년 Graeme Ferguson, Roman Kroitor, Robert Kerr 세 영화인이 몬트리올에서 IMAX Corporation을 설립했다. 이 아이디어와 기술은 Expo 67에서 상영된 다중 화면 작품들에서 나왔다. 세 사람은 더 크고 복잡한 프로젝트에 새로운 기술이 필요하다고 판단해 1968년 엔지니어 William Shaw를 찾았다. Shaw는 일반 35mm 화면보다 열 배 큰 영상을 구현하는 영사기를 만들었고, 이 기술로 처음 제작한 영화는 일본 오사카 Expo '70에서 선보인 Tiger Child이다. 1994년에는 투자은행가 Gelfond와 Bradley Wechsler가 차입매수로 회사를 인수해 NASDAQ에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 IMAX 카메라와 영사 시스템의 설계·제조, 그리고 IMAX 계열 극장용 필름의 현상·제작·후반작업·배급이다. 할리우드 영화를 위해 개발한 IMAX DMR(Digital Re-Mastering)은 다양한 장소에 빠르게 적용할 수 있는 기술이다. 이후 IMAX Experience와 IMAX MPX 극장 시스템이 나왔고, 기존 2D 영상을 IMAX 3D로 변환하는 작업도 이뤄졌다. 2016년 11월에는 Marvel Television과 실사 TV 시리즈 Marvel's Inhumans를 발표했고, IMAX는 처음으로 재정 파트너를 맡았다. 2022년 9월에는 스트리밍 기술 회사 Ssimwave를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 11월 기준 90개국에 1,759개의 극장을 두고 있다. 2009년 4월 Gelfond가 단독 CEO가 되었고 Wechsler는 이사회 의장을 맡았다. 2015년 10월 8일에는 자회사 IMAX China가 홍콩 증권거래소에 상장되었다. 2011년 3월 중국의 Wanda Cinema Line이 75개 극장 계약을 발표했고, 2012년에는 중국 톈진에 첫 극장을 열었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대형 스크린과 서라운드 사운드, 가파른 객석을 갖춘 극장 경험을 위해 자체 카메라와 영사 기술을 개발해 온 캐나다 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.imax.com/",
+  "entityLinks": {
+   "wikidata": "Q1654103",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1654103",
+    "https://ko.wikipedia.org/wiki/IMAX_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/IMAX_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1654103",
+   "country": "캐나다",
+   "inception": "1968",
+   "headquarters": "미시소거",
+   "founders": [
+    "Roman Kroitor",
+    "Graeme Ferguson",
+    "Robert Kerr"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「IMAX Corporation」 본문과 위키데이터 Q1654103 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

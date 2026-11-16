@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q906055",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/orix-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "orix",
+  "urlSlug": "orix",
+  "name": "오릭스",
+  "nameKo": "오릭스",
+  "nameEn": "Orix",
+  "definition": "오릭스(Orix)는 일본 도쿄와 오사카에 본사를 둔 종합 금융 서비스 그룹이다. 리스, 대출, 렌탈, 생명보험, 부동산 금융과 개발, 벤처캐피털 등 다양한 금융 사업을 운영한다.",
+  "summary": "오릭스(Orix)는 일본 도쿄와 오사카에 본사를 둔 종합 금융 서비스 그룹이다. 리스, 대출, 렌탈, 생명보험, 부동산 금융과 개발, 벤처캐피털 등 다양한 금융 사업을 운영한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "리스에서 출발해 금융·투자·자산운용으로 사업을 넓힌 일본의 종합 금융 그룹이며, 프로야구 구단 오릭스 버팔로스의 최대주주이기도 하다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오릭스는 1964년에 설립되어 리스 사업을 바탕으로 성장한 일본의 종합 금융 서비스 그룹이다. 리스, 대출, 렌탈, 생명보험, 부동산 금융과 개발, 벤처캐피털, 투자 및 소매 은행업, 상품 펀드, 증권 중개 등 폭넓은 금융 서비스를 제공한다. 사업 지역은 일본을 넘어 북미, 아시아, 중동과 북아프리카로 넓어졌다. 2007년 기준으로 일본 최대의 리스 회사이자 선도적인 종합 금융 서비스 복합기업이었으며, 24개국에 자회사와 관계사를 두고 있었다. 2015년에는 Vinci SA와 함께 오사카의 이타미 공항과 간사이 국제공항 운영 계약을 따냈다. 일본 프로야구 구단 오릭스 버팔로스의 최대주주라는 점에서 금융 외 영역에서도 알려져 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "오릭스는 1964년 4월 17일 Orient Leasing Co., Ltd.라는 이름으로 설립되었다. 원래 종합상사 Nichimen(현 Sojitz)의 자회사였으며, 1989년 회사명을 ORIX Corporation으로 바꾸었다. Nichimen에서 옮겨 온 Yoshihiko Miyauchi가 회장 겸 CEO를 지내며 리스 사업을 세계적 규모로 키우는 핵심 역할을 했고, 2014년에 은퇴했다. 2009년 초에는 경기 침체로 손실을 입어 전 세계 직원의 10%를 감축했으며, 약 600명의 고용계약이 종료되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "오릭스는 리스, 대출, 렌탈, 생명보험, 부동산 금융과 개발, 벤처캐피털, 투자 및 소매 은행업, 상품 펀드, 증권 중개를 제공한다. 일본의 ORIX Auto Leasing Corporation은 ORIX Auto Leasing (Thailand) Co., Ltd. 같은 자회사를 통해 다른 나라에서도 사업을 한다. 2006년 Orix USA는 중견기업 대상 투자은행 서비스 수요에 대응하기 위해 투자은행 Houlihan Lokey의 과반 지분을 인수했고, Houlihan Lokey는 2007년 홍콩과 도쿄에 사무소를 열었다. 2013년 7월 1일에는 네덜란드 자산운용사 Robeco의 지분 약 90.01%를 Rabobank로부터 인수했으며, Robeco는 글로벌 자산운용 분야의 성장을 뒷받침하게 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "오릭스는 도쿄 미나토구와 오사카에 본사를 둔 일본의 종합 금융 서비스 그룹이다. 2015년 Vinci SA와 함께 오사카부의 이타미 공항과 간사이 국제공항을 운영하는 45년 계약을 따냈다. 2025년에는 ORIX USA가 금융 서비스 지주회사 Hilco Global의 과반 지분을 인수했다. 일본 프로야구 오릭스 버팔로스의 최대주주이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "리스에서 출발해 금융·투자·자산운용으로 사업을 넓힌 일본의 종합 금융 그룹이며, 프로야구 구단 오릭스 버팔로스의 최대주주이기도 하다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.orix.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q906055",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q906055",
+    "https://en.wikipedia.org/wiki/Orix"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q906055",
+   "country": "일본",
+   "inception": "1964",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Orix」 본문과 위키데이터 Q906055 팩트를 근거로 편집",
+  "founded": {
+   "date": "1964-04-17",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

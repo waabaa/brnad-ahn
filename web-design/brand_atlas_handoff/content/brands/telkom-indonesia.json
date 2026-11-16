@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2305438",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "telkom-indonesia",
+  "urlSlug": "telkom-indonesia",
+  "name": "Telkom Indonesia",
+  "nameKo": "",
+  "nameEn": "Telkom Indonesia",
+  "definition": "Telkom Indonesia는 인도네시아의 다국적 통신 복합기업이다. 본사는 반둥에 있으며 인도네시아 증권거래소에 상장되어 있고, 인도네시아 정부가 발행 주식의 과반을 보유한다.",
+  "summary": "Telkom Indonesia는 인도네시아의 다국적 통신 복합기업이다. 본사는 반둥에 있으며 인도네시아 증권거래소에 상장되어 있고, 인도네시아 정부가 발행 주식의 과반을 보유한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "역사가 식민지 시기의 전신 서비스까지 거슬러 올라가는 세계에서 가장 오래된 통신 회사 중 하나이자, 뉴욕 증권거래소에 상장된 유일한 인도네시아 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Telkom Indonesia는 정식 명칭이 PT Telekomunikasi Indonesia (Persero) Tbk이며 흔히 Telkom으로 불린다. 본사는 반둥에 있고 운영 본사는 자카르타의 Telkom Landmark Complex에 있다. 유선 전화, 인터넷, 데이터 통신을 주요 사업으로 하며, Telkom Group의 모회사로서 통신, 멀티미디어, 부동산, 금융 서비스 등 폭넓은 사업을 한다. 인도네시아 증권거래소에 상장되어 있고 뉴욕 증권거래소에도 2차 상장되어 있다. 현재 뉴욕 증권거래소에 상장된 인도네시아 기업은 Telkom뿐이다. 2011년 12월 말 기준으로 가입자 수 면에서 인도네시아 최대 통신 서비스 제공업체였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Telkom의 역사는 식민지 시기로 거슬러 올라가며, 1856년 10월 23일 식민 정부가 바타비아(자카르타)와 Buitenzorg(보고르)를 잇는 전자기 전신 서비스를 세운 데서 시작했다. 1884년에는 식민 정부가 반둥에 우편과 국내 전신 서비스를 제공하는 민간 회사를 설립했다. 1945년 8월 인도네시아가 독립을 선언한 뒤 민족주의자들이 반둥의 PTT 본부를 접수했고, 소유권 이전은 1949년 12월에 공식화되었다. 1991년 Perumtel이 국영 유한책임회사로 전환되어 PT Telekomunikasi Indonesia, 곧 Telkom으로 개칭했다. 1995년에는 민영화가 이루어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Telkom의 주요 사업은 유선 전화, 인터넷, 데이터 통신이다. 모회사인 Telkom Group은 통신, 멀티미디어, 부동산, 금융 서비스를 아우르는 폭넓은 사업을 영위한다. 2008년부터 Telkom은 경쟁 심화에 대응하기 위해 인프라, 시스템, 조직, 인적 자원, 기업 문화를 중심으로 사업을 바꾸기 시작했다. 1995년에는 지역별로 모든 사업을 맡던 12개의 Wilayah Telekomunikasi(Witel)를 7개 지역 사업부와 1개 네트워크 사업부로 재편했다. 가입자 수 기준으로 인도네시아 최대 통신 서비스 제공업체이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "인도네시아 정부가 발행 주식의 과반을 보유하며, 모기업은 Daya Anagata Nusantara Investment Management Agency이다. 인도네시아 증권거래소에 상장되어 있고 뉴욕 증권거래소에 2차 상장되어 있다. 현재 뉴욕 증권거래소에 상장된 인도네시아 기업은 Telkom이 유일하며, 먼저 상장했던 Indosat은 2013년에 상장 폐지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "역사가 식민지 시기의 전신 서비스까지 거슬러 올라가는 세계에서 가장 오래된 통신 회사 중 하나이자, 뉴욕 증권거래소에 상장된 유일한 인도네시아 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.telkom.co.id/sites",
+  "entityLinks": {
+   "wikidata": "Q2305438",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2305438",
+    "https://en.wikipedia.org/wiki/Telkom_Indonesia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2305438",
+   "country": "인도네시아",
+   "inception": "1884",
+   "headquarters": "반둥",
+   "founders": [],
+   "parent": "Daya Anagata Nusantara Investment Management Agency",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Telkom Indonesia」 본문과 위키데이터 Q2305438 팩트를 근거로 편집"
+ }
+}

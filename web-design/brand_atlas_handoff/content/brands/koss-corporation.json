@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1672602",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/koss-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "koss-corporation",
+  "urlSlug": "koss-corporation",
+  "name": "Koss Corporation",
+  "nameKo": "",
+  "nameEn": "Koss Corporation",
+  "definition": "Koss Corporation은 미국 위스콘신주 밀워키에 본사를 둔 헤드폰 제조 기업이다. 1953년에 설립되었고, 1958년에 최초의 하이파이 스테레오 헤드폰을 만들었다.",
+  "summary": "Koss Corporation은 미국 위스콘신주 밀워키에 본사를 둔 헤드폰 제조 기업이다. 1953년에 설립되었고, 1958년에 최초의 하이파이 스테레오 헤드폰을 만들었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "1958년 최초의 하이파이 스테레오 헤드폰을 만든 밀워키의 헤드폰 제조사로, 창업자 일가가 지분의 75% 넘게 보유한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Koss Corporation은 미국 위스콘신주 밀워키에 본사를 둔 헤드폰 제조 기업이다. 1953년 John C. Koss가 병원용 텔레비전 대여 회사로 시작했고, Martin Lange와 함께 스테레오 헤드폰을 개발하면서 사업의 방향이 바뀌었다. 1958년 밀워키의 하이파이 박람회에서 이 설계를 선보였고, 그전까지 헤드폰은 통신 용도로만 쓰였다. 1970년대 초에는 정전형 ES 시리즈로 고급 헤드폰 시장을 개척했고, 한때 시장을 주도하며 Telex와 경쟁했다. 1980년대에는 사업 다각화에 실패해 1984년 파산 보호를 신청했고 1985년에 절차를 마쳤다. 지금도 밀워키 북쪽에 자리하며 창업자 일가가 지분의 75% 넘게 보유한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "John C. Koss는 1953년 J.C. Koss Hospital Television Rental Company를 세웠다. 이후 새로운 아이디어를 찾던 중 엔지니어 Martin Lange와 손잡고 휴대용 축음기를 판매하려는 과정에서 스테레오 헤드폰 아이디어를 얻었다. 헤드폰은 휴대용 축음기의 하이파이 스테레오 음질을 보여 주려는 목적으로 시작되었다. 1958년 밀워키 하이파이 박람회에서 호응을 얻은 뒤 John C. Koss는 지하 아파트에서 스테레오 헤드폰을 제조하고 판매했다. 1970년대 후반에는 빠른 성장에 대응해 현재의 밀워키 북쪽 부지로 옮겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Koss SP/3 Stereophones는 프라이버시 스위치 기능이 특징이었다. 1970년대 초에는 광대역 주파수 응답의 기준을 세운 정전형 ES 시리즈를 내놓았다. 귀 안에 끼우는 수동 소음 차단 이어폰으로 Koss Plug와 Koss Spark Plug가 있으며, Etymotics 이어팁을 달면 Koss Hybrid가 된다. 이 밖에 Koss Porta Pro와 저가형 KSC 시리즈가 있다. 1989년부터 북미에서 제조한 모든 헤드폰에는 최초 구매자를 대상으로 하는 제한적 평생 보증이 붙는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "창업자의 아들 Michael J. Koss가 1991년 사장 겸 CEO가 되었고, Koss 일가가 지분의 75% 넘게 보유한다. 2009년 12월 전 재무 담당 부사장 Sujata Sachdeva가 US$34 million을 횡령한 사실이 드러나 5년치 재무제표를 정정했다. 2020년에는 Apple, Bose, JLAB Audio, Plantronics Inc., Skullcandy를 상대로 특허 침해 소송을 냈고, 2022년 7월 Apple과 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1958년 최초의 하이파이 스테레오 헤드폰을 만든 밀워키의 헤드폰 제조사로, 창업자 일가가 지분의 75% 넘게 보유한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.koss.com/",
+  "entityLinks": {
+   "wikidata": "Q1672602",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1672602",
+    "https://en.wikipedia.org/wiki/Koss_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1672602",
+   "country": "미국",
+   "inception": "1953",
+   "headquarters": "밀워키",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Koss Corporation」 본문과 위키데이터 Q1672602 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

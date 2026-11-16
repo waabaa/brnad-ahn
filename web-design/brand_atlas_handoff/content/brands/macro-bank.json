@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2335199",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/macro-bank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "macro-bank",
+  "urlSlug": "macro-bank",
+  "name": "Macro Bank",
+  "nameKo": "",
+  "nameEn": "Macro Bank",
+  "definition": "Macro Bank는 아르헨티나 부에노스아이레스에 본사를 둔 민간 은행이다. 국내 자본 민간 은행 가운데 두 번째로 큰 규모이며, 전국에 지점과 ATM 망을 갖추고 있다.",
+  "summary": "Macro Bank는 아르헨티나 부에노스아이레스에 본사를 둔 민간 은행이다. 국내 자본 민간 은행 가운데 두 번째로 큰 규모이며, 전국에 지점과 ATM 망을 갖추고 있다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "지방은행 인수와 합병으로 내륙 지역까지 지점망을 넓힌 아르헨티나의 국내 자본 민간 은행이며, 2006년 해외 증시에 상장한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Macro Bank는 부에노스아이레스에 본사를 둔 아르헨티나의 은행이다. 국내 자본 민간 은행 가운데 두 번째로 크고, 예금과 대출 규모로는 아르헨티나에서 여섯 번째로 큰 은행이다. 1988년 은행으로 영업을 시작했으며, 전국에 걸친 폭넓은 지점과 ATM 망으로 다양한 고객층에 은행 서비스를 제공한다. Grupo Macro는 직원 7,925명, ATM 1,772대, 셀프서비스 단말기 957대를 갖췄고 500곳이 넘는 서비스 거점 구조를 운영한다. 여러 지방은행을 인수하고 부실 은행의 구조조정에 참여하며 아르헨티나 북부와 중부 등 내륙 지역으로 입지를 넓혀 왔다. 2006년에는 뉴욕증권거래소(NYSE)에 상장해 1997년 이후 처음으로 해외에 상장한 아르헨티나 기업이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Macro Bank의 출발은 차익거래를 전문으로 하는 중개회사 Financiera Macro이다. Mario Brodersohn, José Dagnino Pastore, Alieto Guadagni가 1976년에 세웠다. 1985년에는 경쟁 차익거래업자였던 Jorge Brito가 이 회사를 인수했다. 1988년 아르헨티나 중앙은행으로부터 상업은행 영업 허가를 받았고, 1995년까지 도매은행으로 운영되며 아르헨티나 회사채 시장의 선구자가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "도매은행 시기의 사업은 단기금융시장 투자, 국채와 회사채 거래, 중견기업과 대기업을 위한 금융 서비스를 중심으로 구성되었다. 1996년부터는 Banco Misiones, Banco Salta, Banco Jujuy 등 민영화된 지방은행의 지분을 사들이며 사업 범위를 넓혔다. 이후 여러 은행을 인수하고 지점을 편입해 전국 단위의 지점망을 갖추었다. 현재는 이 지점과 ATM 망을 통해 폭넓은 고객에게 은행 서비스를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2006년 Nuevo Banco Bisel S.A.를 인수하면서 Macro Bank는 직원 약 7,900명, 지점 440곳을 가진 아르헨티나 최대의 국내 자본 민간 은행이 되었다. 2007년에는 Nuevo Banco Suquía S.A.와의 합병을 마쳐 250곳이 넘는 지점을 더했다. 2009년 초 기준으로 28분기 연속 순이익을 낸 유일한 아르헨티나 은행이었고, 2008년 세전 순이익은 US$288 million이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지방은행 인수와 합병으로 내륙 지역까지 지점망을 넓힌 아르헨티나의 국내 자본 민간 은행이며, 2006년 해외 증시에 상장한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.macro.com.ar/home-page",
+  "entityLinks": {
+   "wikidata": "Q2335199",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2335199",
+    "https://en.wikipedia.org/wiki/Banco_Macro"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2335199",
+   "country": "아르헨티나",
+   "inception": "1978",
+   "headquarters": "부에노스아이레스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Banco Macro」 본문과 위키데이터 Q2335199 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

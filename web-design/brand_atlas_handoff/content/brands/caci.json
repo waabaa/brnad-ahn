@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1022711",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/caci-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "caci",
+  "urlSlug": "caci",
+  "name": "CACI",
+  "nameKo": "",
+  "nameEn": "CACI",
+  "definition": "CACI는 미국 노던버지니아에 본사를 둔 다국적 항공우주·방위 기업이다. 국방, 국토안보, 정보 분야를 비롯해 미국 연방정부의 여러 기관에 서비스를 제공한다.",
+  "summary": "CACI는 미국 노던버지니아에 본사를 둔 다국적 항공우주·방위 기업이다. 국방, 국토안보, 정보 분야를 비롯해 미국 연방정부의 여러 기관에 서비스를 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "Herb Karr와 Harry Markowitz가 SIMSCRIPT 상업화를 위해 세운 회사로, 인수를 통해 성장한 미국 방위·정보 서비스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CACI는 미국 노던버지니아에 본사를 둔 다국적 항공우주·방위 기업이다. 국방, 국토안보, 정보 분야를 비롯해 미국 연방정부의 여러 기관에 서비스를 제공한다. CACI의 전 세계 직원 수는 약 27,000명이다. Fortune 500 목록, Russell 1000 지수, S&P MidCap 400 지수에 포함되어 있다. CACI의 성장은 주로 다른 IT 기업을 인수하는 방식으로 이루어졌다. 경쟁사는 초점이 미국인지 국제인지에 따라 달라지며, Accenture, Booz Allen Hamilton, Capgemini, Infosys, Leidos, Science Applications International Corporation 등이 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1962년 Herb Karr와 Harry Markowitz가 RAND Corporation을 떠나 SIMSCRIPT 시뮬레이션 프로그래밍 언어를 상업화하기 위해 회사를 세웠다. 회사는 1968년에 상장했다. CACI는 원래 California Analysis Center, Incorporated의 약자였으나 1967년 Consolidated Analysis Center, Incorporated를 뜻하는 것으로 바뀌었다. 1973년에는 고객에게 익숙해진 이름을 반영해 약자만을 공식 사명으로 채택했다. 1975년에는 영국 자회사 CACI Limited를 설립했고, 1984년부터는 전직 미 해군 엔지니어 Jack London이 CEO를 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CACI는 국방, 국토안보, 정보 분야를 비롯해 미국 연방정부의 여러 기관에 서비스를 제공하는 것을 사업의 중심으로 한다. 창업 당시 상업화한 SIMSCRIPT 소프트웨어 제품군은 객체지향 기능을 추가했고, 정부 계약 분야로 우주(Space)를 새로 더했다. 2022년 4월에는 다크웹 데이터를 분석하는 정보 플랫폼 DarkBlue로 Gold Edison Award를 받았다고 발표했다. 영국에는 1975년에 설립한 자회사 CACI Limited가 있다. 사업 확장은 다른 IT 기업의 인수가 중심이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 전 세계 직원 수는 약 27,000명이며, Fortune 500 목록, Russell 1000 지수, S&P MidCap 400 지수에 이름을 올리고 있다. 2020년 2월에는 전직 백악관 직원 Daniel Walsh를 기업 전략 고문 겸 senior vice president로 영입한다고 발표했다. 2004년 6월 이라크인 256명이 Abu Ghraib 포로 학대와 관련해 CACI International을 미국 연방법원에 제소했고, 2024년 11월 배심은 원고들에게 총 US$42 million을 지급하도록 평결했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Herb Karr와 Harry Markowitz가 SIMSCRIPT 상업화를 위해 세운 회사로, 인수를 통해 성장한 미국 방위·정보 서비스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.caci.com/",
+  "entityLinks": {
+   "wikidata": "Q1022711",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1022711",
+    "https://en.wikipedia.org/wiki/CACI"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1022711",
+   "country": "미국",
+   "inception": "1962",
+   "headquarters": "알링턴군",
+   "founders": [
+    "해리 마코위츠",
+    "Herbert W. Karr"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「CACI」 본문과 위키데이터 Q1022711 팩트를 근거로 편집",
+  "founded": {
+   "date": "1962-07-17",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

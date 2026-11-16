@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q7858039",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/twilio-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "twilio",
+  "urlSlug": "twilio",
+  "name": "Twilio",
+  "nameKo": "",
+  "nameEn": "Twilio",
+  "definition": "Twilio는 미국 샌프란시스코에 본사를 둔 클라우드 통신 기업이다. 웹 서비스 API로 전화 걸기와 받기, 문자 메시지 송수신 같은 통신 기능을 프로그래밍할 수 있는 도구를 제공한다.",
+  "summary": "Twilio는 미국 샌프란시스코에 본사를 둔 클라우드 통신 기업이다. 웹 서비스 API로 전화 걸기와 받기, 문자 메시지 송수신 같은 통신 기능을 프로그래밍할 수 있는 도구를 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "Twilio는 통신 기능을 API로 제공해 개발자가 전화와 문자를 직접 프로그래밍하게 한 클라우드 통신 기업이다. 개발자 중심의 플랫폼 에반젤리즘으로 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Twilio는 클라우드 기반 통신 도구를 API 형태로 제공하는 미국 기업이다. 개발자는 웹 서비스 API를 통해 전화 통화, 문자 메시지 송수신 등의 통신 기능을 자신의 서비스에 넣을 수 있다. 2008년에 설립되어 2016년 뉴욕증권거래소에서 기업공개를 했다. 2015년부터 여러 기업을 인수하며 이중 인증 서비스 Authy, 이메일 마케팅 플랫폼 SendGrid 등을 사업에 더했다. 플랫폼 에반젤리즘으로 고객을 확보하는 회사로 알려져 있으며, 해커톤 참가 스타트업과 시드 투자 펀드 등을 통해 개발자 기반을 넓혔다. 2022년과 2024년에는 세 차례 데이터 유출을 겪었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Twilio는 2008년 University of Michigan 졸업생인 Jeff Lawson, Evan Cooke, John Wolthuis가 설립했으며 초기에는 시애틀과 샌프란시스코에 기반을 두었다. 2008년 11월 20일 클라우드에서 전화를 걸고 받는 API인 Twilio Voice를 출시했고, 문자 메시지 API는 2010년 2월에 공개했다. 2009년 3월 Mitch Kapor와 Founders Fund가 주도한 시드 투자를 시작으로 Union Square Ventures, Bessemer Venture Partners, Redpoint Ventures, Fidelity, T Rowe Price 등이 주도한 투자 라운드를 거쳤다. 2016년 6월 23일 뉴욕증권거래소에 상장했고 첫날 주가가 92% 올랐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Twilio의 핵심은 전화 통화와 문자 메시지를 다루는 프로그래밍 가능한 통신 API이다. 2008년 Twilio Voice로 시작해 2010년 문자 메시지 API를 내놓았고, 2011년 7월에는 SMS 쇼트코드를 공개 베타로 선보였다. 인수를 통해 이중 인증 서비스 Authy, 거래 및 마케팅 이메일 플랫폼 SendGrid, 고객 데이터 수집·정제·활용 플랫폼 Segment 등을 더했다. 2023년 구조조정의 일환으로 Twilio Data & Applications와 Twilio Communications 두 사업부를 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 1월 창업자 Jeff Lawson이 CEO와 이사회 구성원에서 물러났고, 오랫동안 Twilio에서 일한 임원 Khozema Shipchandler가 후임이 되었다. 2022년 9월 인력의 11%를, 2023년 2월에는 17%를 추가로 감원했다. 같은 시기 Twilio Data & Applications와 Twilio Communications 두 사업부를 신설했다. 2022년과 2024년에는 데이터 유출이 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Twilio는 통신 기능을 API로 제공해 개발자가 전화와 문자를 직접 프로그래밍하게 한 클라우드 통신 기업이다. 개발자 중심의 플랫폼 에반젤리즘으로 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.twilio.com/",
+  "entityLinks": {
+   "wikidata": "Q7858039",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7858039",
+    "https://en.wikipedia.org/wiki/Twilio"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7858039",
+   "country": "미국",
+   "inception": "2008",
+   "headquarters": "샌프란시스코",
+   "founders": [
+    "Jeff Lawson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Twilio」 본문과 위키데이터 Q7858039 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

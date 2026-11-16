@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3495447",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/stack-exchange-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "stack-exchange",
+  "urlSlug": "stack-exchange",
+  "name": "스택 익스체인지",
+  "nameKo": "스택 익스체인지",
+  "nameEn": "Stack Exchange",
+  "definition": "스택 익스체인지(Stack Exchange)는 다양한 분야의 주제를 다루는 질문 및 답변(Q&A) 웹 사이트 네트워크이다. 각 사이트는 특정 주제를 다루며 평판 시스템으로 자체 조정된다.",
+  "summary": "스택 익스체인지(Stack Exchange)는 다양한 분야의 주제를 다루는 질문 및 답변(Q&A) 웹 사이트 네트워크이다. 각 사이트는 특정 주제를 다루며 평판 시스템으로 자체 조정된다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "사용자 평판 시스템으로 자체 조정되는 주제별 Q&A 사이트 네트워크이며, 모든 사이트가 Stack Overflow를 모델로 한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스택 익스체인지는 다양한 분야의 주제에 대한 질문과 답변을 다루는 Q&A 웹 사이트 네트워크이다. 네트워크에 속한 각 사이트는 특정 주제를 다루며, 질문과 답변, 사용자는 평판 수상 프로세스의 대상이 된다. 이 평판 시스템 덕분에 사이트가 자체 조정될 수 있다. 2023년 3월 기준으로 네트워크에서 가장 활발하게 조회되는 사이트에는 컴퓨터 프로그래밍에 중점을 둔 Stack Overflow와 Unix & Linux가 포함된다. 네트워크의 모든 사이트는 초기 사이트인 Stack Overflow를 모델로 한다. 사용자 기여에는 Creative Commons Attribution-ShareAlike 라이선스가 적용된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스택 익스체인지는 2010년 Jeff Atwood와 Joel Spolsky가 설립한 것으로 기록된다. 네트워크의 모델이 된 Stack Overflow는 2008년 두 사람이 만든 초기 사이트이다. 이후 네트워크에 추가되는 Q&A 사이트는 Area 51이라는 특수 사이트를 통해 만들어졌다. 관련성이 있다고 판단되면 등록된 사용자가 사이트를 생성하게 되며, 사이트의 설정과 정의 역시 이 과정에서 이루어진다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스택 익스체인지의 사업 구성은 주제별 Q&A 사이트 네트워크이다. 각 사이트는 하나의 특정 주제를 다루며 사용자가 질문하고 답하는 방식으로 운영된다. 2023년 3월 기준 가장 활발하게 조회되는 3개 사이트는 컴퓨터 프로그래밍에 중점을 둔 Stack Overflow, Unix & Linux, 그리고 매스매틱스이다. 새 사이트는 Area 51을 통해 등록된 사용자가 만든다. 질문, 답변, 사용자에게는 평판이 부여되며 이를 통해 사이트가 자체 조정된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 6월 Prosus가 Stack Overflow를 18억 달러에 인수했다. 2018년 5월 2일 이후의 사용자 기여에는 Creative Commons Attribution-ShareAlike 4.0 International 라이선스가 부여된다. 그 이전에 Creative Commons Attribution-ShareAlike 3.0 Unported 또는 2.5 Unported 라이선스 아래 기여된 콘텐츠는 기여 당시 유효한 라이선스를 유지한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사용자 평판 시스템으로 자체 조정되는 주제별 Q&A 사이트 네트워크이며, 모든 사이트가 Stack Overflow를 모델로 한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://stackexchange.com/",
+  "entityLinks": {
+   "wikidata": "Q3495447",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3495447",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D_%EC%9D%B5%EC%8A%A4%EC%B2%B4%EC%9D%B8%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Stack_Exchange"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3495447",
+   "country": null,
+   "inception": "2010",
+   "headquarters": null,
+   "founders": [
+    "제프 앳우드",
+    "조엘 스포스키"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「스택 익스체인지」 요약과 위키데이터 Q3495447 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

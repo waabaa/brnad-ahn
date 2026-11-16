@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q540891",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/nielsen-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nielsen-company",
+  "urlSlug": "nielsen-company",
+  "name": "닐슨",
+  "nameKo": "닐슨",
+  "nameEn": "Nielsen Company",
+  "definition": "닐슨(Nielsen Company)은 미국의 미디어 시청자 측정 기업이다. 100개 이상의 국가에서 사업을 하며, 소비자가 무엇을 시청하는지에 관한 데이터를 고객에게 제공한다.",
+  "summary": "닐슨(Nielsen Company)은 미국의 미디어 시청자 측정 기업이다. 100개 이상의 국가에서 사업을 하며, 소비자가 무엇을 시청하는지에 관한 데이터를 고객에게 제공한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "TV 시청률로 널리 알려진 미디어 시청자 측정 기업으로, 소비자 데이터 사업인 NielsenIQ를 분리한 뒤 미디어 측정과 분석에 집중한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "닐슨은 미디어 사업을 위한 글로벌 독립 측정·데이터 기업이다. 100개 이상의 국가에서 사업을 하며, 서비스는 전 세계 GDP와 인구의 90% 이상을 포괄한다. 고객에게 소비자가 시청하는 프로그램과 광고에 관한 데이터를 글로벌 및 지역 단위로 제공하고, 그 선택들이 서로 어떻게 맞물리는지도 보여준다. 닐슨 브랜드는 TV 시청률과 가장 흔히 연결되지만, TV 시청률 서비스는 회사 사업과 매출의 약 4분의 1을 차지한다. 2021년 NielsenIQ를 매각한 뒤 순수한 미디어 시청자 측정·분석 기업이 되었다. 전 세계에서 약 15,000명을 고용한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "닐슨은 1923년 Arthur C. Nielsen, Sr.가 설립했다. 그는 경쟁 판매 실적을 측정하는 방식을 고안해 '시장 점유율'을 실용적인 경영 도구로 만들었다. 오랫동안 회사는 TV 시청률을 맡은 Nielsen Media Research와 소비자 쇼핑 동향 및 박스오피스 데이터를 맡은 AC Nielsen이라는 두 자회사로 알려졌다. 지주회사는 네덜란드에 설립되었고 2006년 5월 24일 사모펀드 컨소시엄이 인수했다. 2011년 1월 기업공개를 하고 뉴욕증권거래소에서 'NLSN'이라는 종목 기호로 거래를 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Nielsen Media Research는 이후 Global Media 부문으로, AC Nielsen은 Global Connect 부문으로 발전했다. Global Media는 TV 시청률을 비롯한 미디어 시청자 측정과 분석을 맡는다. Global Connect는 NielsenIQ로 불렸으며 소비자 쇼핑 동향 분야를 다뤘다. 회사는 Global Media 부문을 유지하고 Global Connect 부문을 매각하기로 했다. 현재 닐슨은 소비자가 시청하는 프로그램과 광고에 관한 데이터를 글로벌 및 지역 단위로 고객에게 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 Nielsen N.V.가 Nielsen Holdings plc와 합병하면서 상장 지주회사의 설립지가 네덜란드에서 영국으로 바뀌었다. 2021년 3월 Global Connect(NielsenIQ)를 Advent International에 매각했다. 2022년 3월 Evergreen Coast Capital Corp.와 Brookfield Business Partners가 이끄는 투자자 그룹의 인수 제안을 수락했고, 거래는 2022년 10월 완료되었다. 2023년 9월 Karthik Rao가 CEO가 되었고 David Kenny는 Executive Chairman이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "TV 시청률로 널리 알려진 미디어 시청자 측정 기업으로, 소비자 데이터 사업인 NielsenIQ를 분리한 뒤 미디어 측정과 분석에 집중한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nielsen.com/",
+  "entityLinks": {
+   "wikidata": "Q540891",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q540891",
+    "https://ko.wikipedia.org/wiki/%EB%8B%90%EC%8A%A8_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Nielsen_Holdings"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q540891",
+   "country": "미국",
+   "inception": "1994",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Arthur Nielsen"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Nielsen Holdings」 본문과 위키데이터 Q540891 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

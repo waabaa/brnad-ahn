@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2068984",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/illumina-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "illumina",
+  "urlSlug": "illumina",
+  "name": "Illumina",
+  "nameKo": "",
+  "nameEn": "Illumina",
+  "definition": "Illumina는 미국 캘리포니아주 샌디에이고에 본사를 둔 생명공학 기업이다. 유전적 변이와 생물학적 기능을 분석하는 통합 시스템을 개발, 제조, 판매하며 서열분석 시장 등에 제품을 공급한다.",
+  "summary": "Illumina는 미국 캘리포니아주 샌디에이고에 본사를 둔 생명공학 기업이다. 유전적 변이와 생물학적 기능을 분석하는 통합 시스템을 개발, 제조, 판매하며 서열분석 시장 등에 제품을 공급한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "유전체 서열분석 장비 시장에서 2014년 1월 기준 70%를 차지했고, 마이크로어레이와 서열분석 기술을 통합 시스템으로 제공하는 생명공학 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Illumina는 유전적 변이와 생물학적 기능을 분석하는 통합 시스템을 개발, 제조, 판매하는 미국 생명공학 기업이다. 1998년에 설립되었고 본사는 캘리포니아주 샌디에이고에 있다. 서열분석, 유전자형 분석, 유전자 발현, 단백체학 시장에 제품과 서비스를 제공하며 155개국 이상에 공급한다. 고객은 유전체 연구 센터, 제약회사, 학술 기관, 임상 연구 기관, 생명공학 기업 등이다. 2014년 1월 기준 유전체 서열분석 장비 시장의 70%를 차지했고, 생산된 DNA 데이터의 90% 이상이 Illumina 장비에서 나왔다. 2010년까지는 연구용으로 표기한 장비만 팔았으나, 2010년 초 BeadXpress 시스템이 FDA 승인을 받아 임상 검사에 쓰일 수 있게 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Illumina는 1998년 4월 David Walt, Larry Bock, John Stuelpnagel, Anthony Czarnik, Mark Chee가 설립했다. 벤처캐피털 CW Group에서 일하던 Bock과 Stuelpnagel이 Tufts University에서 BeadArray 기술을 발굴해 독점 라이선스를 협상했다. 1999년에는 고속 올리고뉴클레오타이드 합성 기술을 얻기 위해 Spyder Instruments를 인수했고, 2000년 7월 기업공개를 마쳤다. 2001년 SNP 유전자형 분석 서비스를 시작했으며 2002년 첫 시스템인 Illumina BeadLab을 출시했다. 2007년 1월 26일에는 영국 기업 Solexa, Inc.의 인수를 마쳤다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Illumina는 서열분석, 유전자형 분석, 유전자 발현, 단백체학 시장에 제품과 서비스를 제공한다. 마이크로어레이 기반 제품과 서비스로 SNP 유전자형 분석, 유전자 발현, 단백질 분석을 지원한다. DNA colony sequencing 기술은 전장 유전체 재서열분석, 유전자 발현 분석, 소형 RNA(sRNA) 분석에 쓰인다. 2009년 6월 30X 깊이의 개인 전장 유전체 서열분석 서비스를 내놓았고, 2014년에는 HiSeq X Ten을 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 7월 5일 1999년부터 CEO였던 Jay Flatley가 이사회 상임 의장을 맡았고, 2013년부터 사장이던 Francis deSouza가 CEO를 겸했다. 2015년 말에는 혈류 속 암 종양을 겨냥한 혈액 검사를 다루는 Grail을 분사했으며, 2017년 기준 Illumina는 Grail 지분 20%를 유지했다. 2020년에는 Illumina 데이터를 겨냥한 DNA 데이터 압축 알고리즘을 개발한 Enancio를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "유전체 서열분석 장비 시장에서 2014년 1월 기준 70%를 차지했고, 마이크로어레이와 서열분석 기술을 통합 시스템으로 제공하는 생명공학 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.illumina.com/",
+  "entityLinks": {
+   "wikidata": "Q2068984",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2068984",
+    "https://en.wikipedia.org/wiki/Illumina,_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2068984",
+   "country": "미국",
+   "inception": "1998",
+   "headquarters": "샌디에고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Illumina, Inc.」 본문과 위키데이터 Q2068984 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

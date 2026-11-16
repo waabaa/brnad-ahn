@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q907435",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/onex-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "onex-corporation",
+  "urlSlug": "onex-corporation",
+  "name": "Onex Corporation",
+  "nameKo": "",
+  "nameEn": "Onex Corporation",
+  "definition": "Onex Corporation은 캐나다 토론토에 본사를 둔 투자 운용사이다. 창업자 Gerry Schwartz가 설립해 1987년에 상장했으며, 여러 기업 인수를 통해 사업을 확대해 왔다.",
+  "summary": "Onex Corporation은 캐나다 토론토에 본사를 둔 투자 운용사이다. 창업자 Gerry Schwartz가 설립해 1987년에 상장했으며, 여러 기업 인수를 통해 사업을 확대해 왔다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Gerry Schwartz가 세운 캐나다의 투자 운용사로, Allison Transmission, Tomkins, WestJet 등 여러 업종의 기업 인수에 참여해 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Onex는 캐나다의 투자 운용사로, 본사는 토론토에 있으며 기업 인수와 투자를 통해 자산을 운용한다. 창업자 Gerry Schwartz가 설립했으며 1987년에 회사를 상장했다. 2022년 11월 기준 운용 자산 규모는 CAD 47 billion이었다. 이 회사는 Allison Transmission, Tomkins, SMG, Gluskin Sheff, WestJet 등 여러 기업을 인수하며 사업 영역을 넓혀 왔다. 2020년 5월에는 1분기 순손실 1.1 billion 미국 달러가 발생했으며, 회사는 이를 코로나19 팬데믹 탓이라고 밝혔다. 2022년 5월에는 Schwartz가 CEO에서 물러나고 Bobby Le Blanc이 후임이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Gerry Schwartz가 Onex를 설립했고, 1987년에 회사를 상장했다. 2007년 6월 General Motors는 Allison Transmission을 금융 투자자인 Carlyle Group과 Onex에 매각했다. 2010년에는 Onex와 Canada Pension Plan이 영국 엔지니어링 회사 Tomkins를 인수했으며, Onex의 지분은 14%였다. 2017년 말 Onex는 SMG를 인수했고, SMG는 2019년에 매각되어 AEG Facilities와 합병해 ASM Global이 되었다. 2019년에는 토론토 기반 자산 관리 회사 Gluskin Sheff를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Onex는 투자 운용사로서 여러 업종의 기업에 투자해 왔다. 투자 대상으로는 Allison Transmission, 영국 엔지니어링 회사 Tomkins, SMG가 있다. 2019년에는 토론토 기반 자산 관리 회사 Gluskin Sheff를 인수했다. 같은 해 12월에는 캐나다 2위 항공사 WestJet을 CA$5.0 billion에 매입했다. Allison Transmission은 Carlyle Group과 함께, Tomkins는 Canada Pension Plan과 함께 인수한 사례이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 11월 기준 운용 자산은 CAD 47 billion이었다. 같은 해 5월에는 창업자 Gerry Schwartz가 CEO에서 물러났고 Bobby Le Blanc이 후임이 되었다. 앞서 2020년 5월에는 코로나19 팬데믹의 영향으로 1분기 순손실 1.1 billion 미국 달러가 발생했다고 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Gerry Schwartz가 세운 캐나다의 투자 운용사로, Allison Transmission, Tomkins, WestJet 등 여러 업종의 기업 인수에 참여해 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.onex.com/",
+  "entityLinks": {
+   "wikidata": "Q907435",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q907435",
+    "https://en.wikipedia.org/wiki/Onex_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q907435",
+   "country": "캐나다",
+   "inception": "1983",
+   "headquarters": "토론토",
+   "founders": [
+    "Gerry Schwartz"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Onex Corporation」 본문과 위키데이터 Q907435 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

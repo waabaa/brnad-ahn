@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1374297",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "eurasian-natural-resources-corporation",
+  "urlSlug": "eurasian-natural-resources-corporation",
+  "name": "Eurasian Natural Resources Corporation",
+  "nameKo": "",
+  "nameEn": "Eurasian Natural Resources Corporation",
+  "definition": "Eurasian Natural Resources Corporation은 런던에 본사를 둔 카자흐스탄·중앙아프리카 중심의 다각화 천연자원 기업이었다. 현재는 Eurasian Resources Group의 완전 자회사이다.",
+  "summary": "Eurasian Natural Resources Corporation은 런던에 본사를 둔 카자흐스탄·중앙아프리카 중심의 다각화 천연자원 기업이었다. 현재는 Eurasian Resources Group의 완전 자회사이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "카자흐스탄의 세 창업자가 민영화로 취득한 자산에서 출발해 런던 증시에 상장했다가 2013년 창업자들의 제안으로 상장 폐지된 천연자원 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Eurasian Natural Resources Corporation PLC(ENRC)는 런던에 본사를 둔 다각화 천연자원 기업이었다. 카자흐스탄과 중앙아프리카를 중심으로 통합 채굴, 가공, 에너지, 물류, 마케팅 분야에서 활동했다. 1994년에 설립되었고 London Stock Exchange에 상장했으나 2013년 11월 상장 폐지되었다. 카자흐스탄 증권거래소에도 2차 상장했다가 이후 상장 폐지되었다. 현재는 룩셈부르크에 본사를 둔 민간 천연자원 기업 Eurasian Resources Group(ERG)의 완전 자회사이다. 이 민간 기업은 한때 FTSE-100에 속했던 ENRC PLC의 자산을 포함한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년 카자흐스탄의 올리가르히 집단인 \"Trio\"가 회사를 세웠다. Trio는 Alijan Ibragimov, Alexander Mashkevitch, Patokh Chodiev로 구성되었으며, 이들은 카자흐스탄의 광업, 석유·가스, 은행 분야에서 활동했다. 회사의 자산은 카자흐스탄 민영화 과정에서 취득한 것이다. 현재와 같은 형태는 2006년 여러 사업을 하나의 그룹으로 통합하는 재편을 통해 만들어졌다. 2007년 12월에는 지분 약 18%를 London Stock Exchange에 공모했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 통합 채굴, 가공, 에너지, 물류, 마케팅으로 구성되었다. 2009년 12월 Central African Mining Exploration Company(CAMEC) 인수를 완료했으며, CAMEC은 콩고민주공화국의 구리·코발트 자산, 모잠비크의 석탄, 말리의 보크사이트, 짐바브웨의 백금, 남아프리카공화국의 형석 개발 프로젝트와 아프리카 전역의 트럭 운송·물류 사업을 갖고 있었다. 2010년 2월에는 잠비아의 제련 시설 Chambishi Metals PLC 지분 90%를 인수했다. 같은 해 8월에는 콩고민주공화국의 구리·코발트 채굴 허가를 보유한 Camrose Resources Limited 지분 50.5%를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 3월 Rusal과의 불리한 알루미늄 공급 계약 등으로 US$1.5bn 손실을 상각했다. 같은 해 4월 영국 Serious Fraud Office가 사업 관행에 대한 형사 수사를 시작했다. 2013년 11월 창업자들의 제안이 주주 96.7%의 수락을 얻어 London Stock Exchange에서 상장 폐지되었다. 현재는 룩셈부르크에 본사를 둔 Eurasian Resources Group(ERG)의 완전 자회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "카자흐스탄의 세 창업자가 민영화로 취득한 자산에서 출발해 런던 증시에 상장했다가 2013년 창업자들의 제안으로 상장 폐지된 천연자원 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.enrc.com/",
+  "entityLinks": {
+   "wikidata": "Q1374297",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1374297",
+    "https://en.wikipedia.org/wiki/Eurasian_Natural_Resources_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1374297",
+   "country": "카자흐스탄",
+   "inception": "1994",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": "Finance Ministry of Kazakhstan",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Eurasian Natural Resources Corporation」 본문과 위키데이터 Q1374297 팩트를 근거로 편집"
+ }
+}

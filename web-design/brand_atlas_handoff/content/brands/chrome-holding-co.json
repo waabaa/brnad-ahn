@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q216272",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "chrome-holding-co",
+  "urlSlug": "chrome-holding-co",
+  "name": "23andMe",
+  "nameKo": "23andMe",
+  "nameEn": "Chrome Holding Co.",
+  "definition": "23andMe(Chrome Holding Co.)는 캘리포니아주 사우스샌프란시스코에 본사를 둔 미국의 개인 유전체학 및 생명공학기술 기업이다. 타액 샘플로 조상과 건강 관련 유전 정보를 알려 주는 소비자 직접 유전자 검사로 알려져 있다.",
+  "summary": "23andMe(Chrome Holding Co.)는 캘리포니아주 사우스샌프란시스코에 본사를 둔 미국의 개인 유전체학 및 생명공학기술 기업이다. 타액 샘플로 조상과 건강 관련 유전 정보를 알려 주는 소비자 직접 유전자 검사로 알려져 있다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "회사 이름이 인간 세포의 23쌍 염색체에서 유래한 23andMe는 타액 기반 소비자 직접 유전자 검사로 2008년 타임지 '올해의 발명품'에 선정된 개인 유전체학 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "23andMe는 고객이 제공한 타액 샘플을 실험실에서 분석하고, 고객의 조상과 건강 관련 주제에 대한 유전적 소인을 보고서로 생성하는 소비자 직접 유전자 테스트 서비스로 가장 잘 알려져 있다. 분석에는 단일 염기 다형성 유전형 분석을 사용하며, 회사는 미국 식품의약국(FDA)과의 관계에서 어려움을 겪은 적이 있다. 회사 이름은 이배체 인간 세포에 있는 23쌍의 염색체에서 유래되었다. 미국 외에 캐나다와 영국에서도 조상과 건강 관련 성분을 모두 갖춘 제품을 판매해 왔다. 2021년에 상장 회사가 되었으며 곧 시가총액이 60억 달러에 달했다. 2024년까지 그 가치는 최고치의 2%로 떨어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "23andMe는 2006년에 설립되었으며, 창업자는 앤 워치츠키, Linda Avey, Paul Cusenza이다. 설립 후 곧 현재 다른 모든 주요 회사에서 사용하고 있는 조상에 대한 상염색체 DNA 검사를 제공하기 시작한 최초의 회사가 되었다. 타액 기반 소비자 직접 유전자 검사 사업은 2008년 타임지에서 '올해의 발명품'으로 선정되었다. 이 회사는 이전에 유전자 건강 검사로 인해 FDA와 어려운 관계를 유지해 왔다. 2015년 10월 현재 미국에서 주문된 DNA 테스트에는 FDA 승인에 따라 개정된 건강 구성 요소가 포함된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 서비스는 고객이 제공한 타액 샘플을 실험실에서 분석하는 소비자 직접 유전자 테스트이며, 단일 염기 다형성 유전형 분석을 사용한다. 이 검사로 고객의 조상과 건강 관련 주제에 대한 유전적 소인과 관련된 보고서를 생성한다. 조상 검사는 상염색체 DNA를 대상으로 한다. 캐나다에서는 2014년 10월부터, 영국에서는 2014년 12월부터 조상과 건강 관련 성분을 모두 갖춘 제품을 판매해 왔다. 미국에서 주문된 DNA 테스트에는 2015년 10월 현재 FDA 승인에 따라 개정된 건강 구성 요소가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "23andMe는 2021년에 상장 회사가 되었으며 곧 시가총액이 60억 달러에 달했다. 2024년까지 그 가치는 최고치의 2%로 떨어졌다. 본사는 캘리포니아주 사우스샌프란시스코에 있다. 개인 유전체학 및 생명공학기술 기업으로서 고객의 조상과 건강 관련 유전 정보를 다루는 소비자 직접 유전자 테스트 서비스를 제공해 왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "회사 이름이 인간 세포의 23쌍 염색체에서 유래한 23andMe는 타액 기반 소비자 직접 유전자 검사로 2008년 타임지 '올해의 발명품'에 선정된 개인 유전체학 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q216272",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q216272",
+    "https://ko.wikipedia.org/wiki/23andMe",
+    "https://en.wikipedia.org/wiki/23andMe"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q216272",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "사우스샌프란시스코",
+   "founders": [
+    "앤 워치츠키",
+    "Linda Avey",
+    "Paul Cusenza"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「23andMe」 요약과 위키데이터 Q216272 팩트를 근거로 편집",
+  "founded": {
+   "date": "2006-04",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1122329",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/computer-sciences-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "computer-sciences-corporation",
+  "urlSlug": "computer-sciences-corporation",
+  "name": "Computer Sciences Corporation",
+  "nameKo": "",
+  "nameEn": "Computer Sciences Corporation",
+  "definition": "Computer Sciences Corporation은 정보기술(IT) 서비스와 전문 서비스를 제공한 미국의 다국적 기업이다. 1959년 로스앤젤레스에서 설립되어 소프트웨어 계약 업무를 바탕으로 성장했다.",
+  "summary": "Computer Sciences Corporation은 정보기술(IT) 서비스와 전문 서비스를 제공한 미국의 다국적 기업이다. 1959년 로스앤젤레스에서 설립되어 소프트웨어 계약 업무를 바탕으로 성장했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "1959년 로스앤젤레스에서 출발해 소프트웨어 계약 업무로 성장했고, 이후 CSRA와 DXC Technology로 이어진 미국 IT 서비스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CSC는 정보기술(IT) 서비스와 전문 서비스를 제공한 미국의 다국적 기업이다. 컴퓨터 제조업체, 전자 제조업체, 미국 국방 및 정부 부문을 상대로 시스템 소프트웨어 계약 업무를 수행했고, 1950년대에 생긴 컴퓨터 서비스 신생 기업 가운데 가장 성공한 회사였다. 설립 4년 만에 미국 최대 소프트웨어 회사로 성장했고, 아메리칸 증권거래소에 상장한 첫 소프트웨어 회사였다. 1970년대에는 해당 분야의 업계 거인이었고, 2009년에는 제조업이 아닌 IT 서비스 제공자 가운데 세계 최대 업체였다. 2015년 말 무렵 정부 서비스 사업이 분리되었고, 2017년 4월 3일 남은 사업이 합병되어 DXC Technology의 일부가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CSC는 1959년 4월 캘리포니아주 로스앤젤레스에서 Roy Nutt와 Fletcher Jones가 설립했다. Nutt는 United Aircraft Corporation의 숙련된 프로그래머였고, Jones는 North American Aviation의 중간 관리자였다. 직원 세 명으로 시작했으며, 세 번째 직원은 초기 소프트웨어 계약 업체 C-E-I-R 출신이었다. Minneapolis-Honeywell과 맺은 영어 지향 컴퓨터 언어 FACT용 컴파일러 개발 계약이 사업의 출발점이었다. 1960년 8월에는 직원이 25명이었고, 1963년에 미국 최대 소프트웨어 회사로 성장했으며 1968년 말에는 뉴욕 증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기에는 어셈블러와 컴파일러 소프트웨어 같은 프로그래밍 도구를 제공했다. 이후 Sperry Rand Corporation의 UNIVAC, Burroughs Corporation, IBM 같은 대형 컴퓨터 제조업체에 소프트웨어 프로그래밍 서비스를 제공했다. Douglas Aircraft Company와 전자 제조업체 Philco, RCA Corporation, 유럽의 Philips N.V.도 초기 고객이었다. 공공 부문에서는 NASA 등과 첫 계약을 맺었고, 1960년대 중반 NASA의 유한요소해석 프로그램 NASTRAN의 주계약자였다. 1967년에는 Computicket Corp.를 세워 전자 티켓 시장에 진출해 Ticketron과 경쟁했으나, 손실을 내고 1970년에 서비스를 중단했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 말 무렵 CSC의 정부 서비스 사업이 분리되어 SRA International과 합병했고, 새 회사 CSRA가 만들어졌다. 2017년 4월 3일에는 남은 상업·국제 사업이 HP Enterprise(이전 Electronic Data Systems)의 Enterprise Services 사업부문과 합병해 DXC Technology를 출범시켰다. CSC는 한때 제조업이 아닌 분야에서 세계 최대 IT 서비스 제공자였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1959년 로스앤젤레스에서 출발해 소프트웨어 계약 업무로 성장했고, 이후 CSRA와 DXC Technology로 이어진 미국 IT 서비스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.csc.com/",
+  "entityLinks": {
+   "wikidata": "Q1122329",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1122329",
+    "https://en.wikipedia.org/wiki/Computer_Sciences_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1122329",
+   "country": "미국",
+   "inception": "1959",
+   "headquarters": "폴스처치",
+   "founders": [
+    "Fletcher R. Jones"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Computer Sciences Corporation」 본문과 위키데이터 Q1122329 팩트를 근거로 편집",
+  "founded": {
+   "date": "1959-04",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

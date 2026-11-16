@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q2037080",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/tesoro-corporation-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tesoro-corporation",
+  "urlSlug": "tesoro-corporation",
+  "name": "Tesoro Corporation",
+  "nameKo": "",
+  "nameEn": "Tesoro Corporation",
+  "definition": "Tesoro Corporation은 미국 텍사스주 샌안토니오에 본사를 둔 독립 정유·석유제품 판매 기업이다. 1968년 설립되었고 2017년 Andeavor로 사명을 바꾼 뒤 2018년 Marathon Petroleum에 인수되었다.",
+  "summary": "Tesoro Corporation은 미국 텍사스주 샌안토니오에 본사를 둔 독립 정유·석유제품 판매 기업이다. 1968년 설립되었고 2017년 Andeavor로 사명을 바꾼 뒤 2018년 Marathon Petroleum에 인수되었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Tesoro는 샌안토니오에 본사를 둔 최초의 Fortune 500 기업이자 미국 서부 중심의 독립 정유사였다. Andeavor로 개명한 뒤 Marathon Petroleum에 인수되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tesoro는 미국 텍사스주 샌안토니오에 본사를 둔 독립 정유·석유제품 판매 기업이었다. 미국 서부에서 10개의 정유소를 운영했고, 합산 원유 처리 능력은 하루 약 1,200,000배럴이었다. 소매 부문에는 약 3,000개의 브랜드 주유소가 있었으며, 이 가운데 595개 넘는 곳을 Tesoro 브랜드로 직접 운영했다. 소매 체계에는 Tesoro 브랜드 외에 Shell, ExxonMobil, ARCO, USA Gasoline 브랜드도 포함되었다. 2017년 매출 기준으로 2018년 Fortune 500 목록에서 90위에 올랐다. 2018년 10월 1일 Marathon Petroleum에 인수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Tesoro는 1968년 Robert Van Osdell West Jr. 박사가 설립했으며, 초기에는 주로 석유 탐사와 생산에 종사했다. 1969년 알래스카 케나이 인근에서 첫 정유소를 가동하기 시작했다. 샌안토니오에 본사를 둔 최초의 Fortune 500 기업이 되었다. 1990년대 후반부터 일련의 인수와 사업 추진을 거쳐 정유, 마케팅, 해상 운송, 유통을 중심으로 한 기업으로 성장했다. 이 과정에서 정유 능력은 하루 72,000배럴에서 약 664,000배럴로 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "정유 부문은 캘리포니아, 알래스카, 워싱턴, 하와이, 노스다코타, 유타에 있는 여섯 곳의 정유소 운영에서 출발했다. 마케팅·유통 부문은 정제 가솔린과 연료 제품을 대량 및 도매 시장에 판매했다. 주요 인수로는 1998년 하와이 Kapolei 정유소와 워싱턴주 Anacortes 정유소, 2001년 Mandan과 Salt Lake City 정유소, 2002년 캘리포니아 Martinez의 Golden Eagle Refinery가 있다. 2007년에는 USA Gasoline을 인수했고, 2011년에는 Tesoro Logistics LP를 master limited partnership으로 설립했다. 2013년에는 BP로부터 Carson 정유소와 ARCO 브랜드를 매입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Western Refining을 인수한 뒤 2017년 사명을 Andeavor로 바꾸었고, 같은 해 8월 1일 티커를 TSO에서 ANDV로 변경했다. 2017년 연간 매출은 $35 billion, 직원은 전 세계에 14,000명이 넘었다. 2018년 10월 1일 Marathon Petroleum에 인수되었다. 두 회사의 합병으로 생산 능력 기준 미국 최대, 세계 5위 정유사가 만들어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Tesoro는 샌안토니오에 본사를 둔 최초의 Fortune 500 기업이자 미국 서부 중심의 독립 정유사였다. Andeavor로 개명한 뒤 Marathon Petroleum에 인수되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.andeavor.com",
+  "entityLinks": {
+   "wikidata": "Q2037080",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2037080",
+    "https://en.wikipedia.org/wiki/Tesoro_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2037080",
+   "country": "미국",
+   "inception": "1968",
+   "headquarters": "샌안토니오",
+   "founders": [
+    "Robert V. West Jr."
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Tesoro Corporation」 본문과 위키데이터 Q2037080 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

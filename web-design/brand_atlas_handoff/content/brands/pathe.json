@@ -1,0 +1,88 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1544011",
+ "demand": {
+  "why": "국외",
+  "naver": 0.005,
+  "koViews": 70,
+  "enViews": 32709,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/pathe-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pathe",
+  "urlSlug": "pathe",
+  "name": "파테",
+  "nameKo": "파테",
+  "nameEn": "Pathé",
+  "definition": "파테(Pathé)는 1896년 샤를 파테가 '파테 프레르'라는 이름으로 창립한 프랑스의 영화 제작사이다. 파리에 본사를 두며 세계에서 가장 오래된 영화 제작사 중 하나이다.",
+  "summary": "파테(Pathé)는 1896년 샤를 파테가 '파테 프레르'라는 이름으로 창립한 프랑스의 영화 제작사이다. 파리에 본사를 두며 세계에서 가장 오래된 영화 제작사 중 하나이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1896년 샤를 파테가 창립한 프랑스 영화 제작사로, 세계에서 가장 오래된 영화 제작사 중 하나라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파테는 프랑스의 영화 제작사로, 본사는 파리에 있다. 1896년 샤를 파테(Charles Pathé)가 '파테 프레르'라는 이름으로 창립했으며, 세계에서 가장 오래된 영화 제작사 중 하나이다. 오늘날에도 프랑스 영화시장에서 대표적인 제작사로 자리잡고 있다. 작품 목록은 1980년대부터 2020년대까지 이어진다. 1990년대에는 원초적 본능, 블레어 위치, 제5원소, 2000년대에는 피아니스트, 슬럼독 밀리어네어, 쏘우 같은 작품이 목록에 올라 있다. 2010년대에는 127 시간, 페인 앤 글로리, 셀마, 러시: 더 라이벌이 포함되고, 2020년대에는 코다, 피노키오가 이름을 올린다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "파테는 1896년 샤를 파테가 '파테 프레르'라는 이름으로 창립한 회사이다. 창립 시점을 기준으로 세계에서 가장 오래된 영화 제작사 중 하나에 속한다. 창업자는 Charles Pathé이며 본사는 파리에 있다. 이후 오늘날까지 프랑스 영화시장에서 대표적인 제작사로 자리잡았다. 1980년대의 할로윈 4, 최후의 하이랜더부터 2020년대의 코다, 피노키오까지 작품 목록이 이어진다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "파테의 대표 사업은 영화 제작이다. 1980년대 작품으로는 할로윈 4, 람보 3, 섹스 거짓말 그리고 비디오테이프가 있다. 1990년대에는 원초적 본능, 덤 앤 더머, 터미네이터 2: 심판의 날, 토탈 리콜, 제5원소가 있다. 2000년대에는 쏘우, 피아니스트, 슬럼독 밀리어네어, 한니발, 메멘토, 툼 레이더가 있다. 2010년대에는 127 시간, 페인 앤 글로리, 셀마, 레지던트 이블 시리즈의 후속작이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "파테는 프랑스 영화시장에서 대표적인 제작사로 자리잡고 있다. 2020년대 작품으로는 베네데타, 코다, 피노키오, 미스비헤이비어가 목록에 올라 있다. 2010년대에도 주디, 줄리에타, 만델라: 자유를 향한 머나먼 여정 같은 작품이 이어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1896년 샤를 파테가 창립한 프랑스 영화 제작사로, 세계에서 가장 오래된 영화 제작사 중 하나라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pathe.com",
+  "entityLinks": {
+   "wikidata": "Q1544011",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1544011",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%ED%85%8C_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Path%C3%A9"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1544011",
+   "country": "프랑스",
+   "inception": "1896",
+   "headquarters": "파리",
+   "founders": [
+    "Charles Pathé"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「파테 (기업)」 요약과 위키데이터 Q1544011 팩트를 근거로 편집",
+  "founded": {
+   "date": "1896-09-28",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

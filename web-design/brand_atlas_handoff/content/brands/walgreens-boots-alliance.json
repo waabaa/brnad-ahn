@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q18712620",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/walgreens-boots-alliance-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "walgreens-boots-alliance",
+  "urlSlug": "walgreens-boots-alliance",
+  "name": "월그린스 부츠 얼라이언스",
+  "nameKo": "월그린스 부츠 얼라이언스",
+  "nameEn": "Walgreens Boots Alliance",
+  "definition": "월그린스 부츠 얼라이언스(Walgreens Boots Alliance)는 일리노이주 디어필드에 본사를 둔 미국의 다국적 지주회사이다. 미국의 월그린과 영국의 부츠 등 소매 약국 체인과 여러 제약 제조·유통 회사를 소유한다.",
+  "summary": "월그린스 부츠 얼라이언스(Walgreens Boots Alliance)는 일리노이주 디어필드에 본사를 둔 미국의 다국적 지주회사이다. 미국의 월그린과 영국의 부츠 등 소매 약국 체인과 여러 제약 제조·유통 회사를 소유한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "미국의 월그린과 영국의 부츠를 함께 거느린 다국적 약국 지주회사로, 2014년 12월 31일 얼라이언스 부츠 지분 매입을 거쳐 설립되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "월그린스 부츠 얼라이언스는 미국의 월그린과 영국의 부츠 같은 소매 약국 체인, 그리고 여러 제약 제조 및 유통 회사를 소유한 지주회사이다. 본사는 미국 일리노이주 디어필드에 있으며 2014년 12월 31일에 설립되었다. 2022년 회계연도에 회사는 1,327억 달러의 매출을 기록했고 순이익은 43억 달러로 증가했다. 2022년 기준 총 수익을 기준으로 한 미국 최대 기업의 포춘 500대 기업 순위에서 18위를 차지했다. 2022년 8월 31일 현재 합병된 사업체는 9개국에서 사업을 운영하고 있다. 주식은 WBA라는 기호로 나스닥에서 거래되며 다우존스 산업 지수, 나스닥 100, S&P 500 지수의 구성 요소이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "월그린스는 2012년 8월에 얼라이언스 부츠 지분 45%를 40억 달러에 매입했으며, 나머지 주식을 3년 이내에 매입할 수 있는 옵션도 포함했다. 이후 아직 소유하지 않은 얼라이언스 부츠 지분 55%를 매입했고, 월그린스 부츠 얼라이언스는 2014년 12월 31일에 설립되었다. 총 인수 가격은 현금 49억 달러, 보통주 1억 4430만 주이며 공정 가치는 107억 달러이다. 월그린스는 거래가 완료된 후 새로 설립된 회사의 자회사가 되었다. 월그린스는 이전에 미국과 미국 영토 내에서만 사업을 운영한 반면 얼라이언스 부츠는 보다 다국적 사업을 운영했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 회계연도 매출은 1,327억 달러로 2021년 회계연도보다 0.1% 증가했고, 순이익은 43억 달러로 증가했다. 합병된 사업체는 2022년 8월 31일 현재 9개국에서 사업을 운영하고 있다. 2014년 12월 31일부터 WBA라는 기호로 나스닥에서 거래를 시작했으며, 2018년 6월 26일 다우존스 산업 지수에서 제너럴 일렉트릭을 대체했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국의 월그린과 영국의 부츠를 함께 거느린 다국적 약국 지주회사로, 2014년 12월 31일 얼라이언스 부츠 지분 매입을 거쳐 설립되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.walgreensbootsalliance.com/",
+  "entityLinks": {
+   "wikidata": "Q18712620",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18712620",
+    "https://ko.wikipedia.org/wiki/%EC%9B%94%EA%B7%B8%EB%A6%B0%EC%8A%A4_%EB%B6%80%EC%B8%A0_%EC%96%BC%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18712620",
+   "country": "미국",
+   "inception": "2015",
+   "headquarters": "Deerfield",
+   "founders": [
+    "찰스 루돌프 월그린"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「월그린스 부츠 얼라이언스」 요약과 위키데이터 Q18712620 팩트를 근거로 편집",
+  "founded": {
+   "date": "2015-01-01",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

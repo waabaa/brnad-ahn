@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q17068357",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/mapbox-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mapbox",
+  "urlSlug": "mapbox",
+  "name": "Mapbox",
+  "nameKo": "",
+  "nameEn": "Mapbox",
+  "definition": "Mapbox는 Foursquare, Lonely Planet, the Financial Times, The Weather Channel, Instacart, Strava 같은 웹사이트와 애플리케이션에 맞춤형 온라인 지도를 제공하는 미국 기업이다.",
+  "summary": "Mapbox는 Foursquare, Lonely Planet, the Financial Times, The Weather Channel, Instacart, Strava 같은 웹사이트와 애플리케이션에 맞춤형 온라인 지도를 제공하는 미국 기업이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "OpenStreetMap 등 공개 데이터를 바탕으로 맞춤형 지도를 제공하며, 오픈소스에서 독점 라이선스로 전환해 MapLibre 포크를 낳은 지도 플랫폼이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mapbox는 웹사이트와 애플리케이션에 맞춤형 온라인 지도를 제공하는 미국 기업으로, 본사는 워싱턴 D.C.에 있다. 2010년 이후 Google Maps 같은 지도 제공업체가 내놓는 선택지가 제한적이라는 점에 대응해 맞춤형 지도라는 틈새시장을 빠르게 넓혀 왔다. 데이터는 OpenStreetMap, NASA 같은 공개 데이터와 DigitalGlobe 같은 구매한 독자 데이터에서 가져온다. 기술은 Node.js, Mapnik, GDAL, Leaflet을 기반으로 한다. 2020년까지 오픈소스로 유지하던 소프트웨어 대부분을 독점 소프트웨어 라이선스로 전환했다. 2023년 9월에는 SoftBank가 주도한 $280 million 규모의 시리즈 E 투자를 유치했고, 이때 기업가치는 $1.3 billion이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2010년 Eric Gundersen과 Bonnie Bogle이 창업했으며, Development Seed의 일부로 비영리 고객에게 지도 맞춤화를 제공하면서 시작했다. 2013년 Foundry Group이 주도한 $10 million 시리즈 A 투자 전까지는 외부 투자 없이 자체 자금으로 운영했다. 2015년 6월에는 DFJ Growth가 주도한 시리즈 B에서 $52.55 million을 조달했다고 발표했다. iD 편집기를 포함한 OpenStreetMap 도구의 초기 작업은 Knight Foundation의 $575,000 보조금으로 지원받았다. 2017년 10월에는 SoftBank가 주도한 $164 million 투자를 받았고, 기존 투자자인 Foundry Group, DFJ Growth, DBL Partners, Thrive Capital이 참여했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "웹사이트와 애플리케이션용 맞춤형 온라인 지도를 제공한다. 고객으로는 Foursquare, Lonely Planet, the Financial Times, The Weather Channel, Instacart, Strava가 있다. 온라인 지도 표시용 JavaScript 라이브러리 Mapbox GL JS를 제공하며, 2020년 12월 두 번째 버전을 공개했다. 이 버전은 BSD 라이선스의 오픈소스에서 독점 라이선스로 바뀌었고, 그 결과 오픈소스 코드의 포크인 MapLibre GL이 나오면서 MapLibre 프로젝트가 출범했다. CES 2026에서 Mapbox와 Toyota Motor North America는 Mapbox 내비게이션을 쓰는 새 Toyota Audio Multimedia 시스템을 2026 RAV4에 먼저 탑재한다고 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 3월 AWS 출신 Peter Sirota가 새 최고경영자가 되었고, Eric Gundersen은 chief strategy officer 겸 이사회 의장이 되었다. 같은 해 8월 노조 결성 투표는 반대 123표, 찬성 81표로 부결됐다. 2025년에는 유럽에서 입지를 넓혀 베를린과 런던에 새 사무소를 열었다. 2026년 CES에서는 Toyota와 협업한 내비게이션 적용 계획을 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "OpenStreetMap 등 공개 데이터를 바탕으로 맞춤형 지도를 제공하며, 오픈소스에서 독점 라이선스로 전환해 MapLibre 포크를 낳은 지도 플랫폼이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mapbox.com/",
+  "entityLinks": {
+   "wikidata": "Q17068357",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17068357",
+    "https://en.wikipedia.org/wiki/Mapbox"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17068357",
+   "country": "미국",
+   "inception": "2010",
+   "headquarters": "워싱턴 D.C.",
+   "founders": [
+    "Eric Gundersen",
+    "Bonnie Bogle"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Mapbox」 본문과 위키데이터 Q17068357 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

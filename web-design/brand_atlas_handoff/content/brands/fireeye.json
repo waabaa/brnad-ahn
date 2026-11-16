@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q5451274",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/fireeye-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "fireeye",
+  "urlSlug": "fireeye",
+  "name": "트렐릭스",
+  "nameKo": "트렐릭스",
+  "nameEn": "FireEye",
+  "definition": "트렐릭스(FireEye)는 사이버 보안 공격의 탐지와 예방을 위한 하드웨어, 소프트웨어, 서비스를 제공하는 미국의 비상장 사이버 보안 회사이다. 확장된 탐지 및 대응(XDR) 회사로 출시되었다.",
+  "summary": "트렐릭스(FireEye)는 사이버 보안 공격의 탐지와 예방을 위한 하드웨어, 소프트웨어, 서비스를 제공하는 미국의 비상장 사이버 보안 회사이다. 확장된 탐지 및 대응(XDR) 회사로 출시되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "FireEye와 McAfee Enterprise의 기업 비즈니스를 합쳐 만든 XDR 사이버 보안 회사로, Symphony Technology Group이 모기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "트렐릭스는 미국 밀피타스에 본사를 둔 비상장 사이버 보안 회사로, 2022년에 설립되었다. 모기업은 Symphony Technology Group(STG)이다. 이전 이름은 FireEye 및 McAfee Enterprise이다. 주요 사이버 보안 공격의 탐지 및 예방에 참여해 왔다. 사이버 보안 공격을 조사하고 악성 소프트웨어로부터 보호하며 IT 보안 위험을 분석하기 위한 하드웨어, 소프트웨어 및 서비스를 제공한다. STG가 FireEye와 McAfee Enterprise의 기업 비즈니스 인수를 결합해 확장된 탐지 및 대응(XDR) 회사로 출시한 브랜드이며, McAfee Enterprise의 보안 서비스 에지(SSE) 사업은 Skyhigh Security라는 별도 회사로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "FireEye는 2004년에 Ashar Aziz가 설립했으며 본사는 미국 밀피타스에 있다. 2021년 3월 Symphony Technology Group(STG)은 미화 40억 달러에 전액 현금 거래로 McAfee Enterprise를 인수한다고 발표했고, 같은 해 7월 브랜드 변경 계획과 함께 McAfee의 엔터프라이즈 사업 인수를 완료했다. 2021년 6월에는 FireEye가 자사의 이름과 제품 사업을 STG에 12억 달러에 매각했다. STG는 FireEye와 McAfee Enterprise의 기업 비즈니스 인수를 결합해 트렐릭스를 출시했으며, 트렐릭스는 2022년에 설립된 회사로 소개된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "트렐릭스는 사이버 보안 공격을 조사하고 악성 소프트웨어로부터 보호하며 IT 보안 위험을 분석하기 위한 하드웨어, 소프트웨어 및 서비스를 제공한다. 이 사업은 FireEye와 McAfee Enterprise의 기업 비즈니스를 결합해 출시한 확장된 탐지 및 대응(XDR) 사업을 바탕으로 한다. 주요 사이버 보안 공격의 탐지 및 예방에도 참여해 왔다. McAfee Enterprise의 보안 서비스 에지(SSE) 사업은 트렐릭스에 포함되지 않고 Skyhigh Security로 알려진 별도 회사로 운영된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "트렐릭스는 비상장 회사이며 모기업은 Symphony Technology Group이다. 본사는 미국 밀피타스에 있다. 2021년 STG가 McAfee Enterprise와 FireEye의 이름 및 제품 사업을 인수한 뒤 이를 결합해 2022년에 설립된 회사로 운영된다. McAfee Enterprise의 SSE 사업은 Skyhigh Security로 알려진 별도 회사로 운영된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "FireEye와 McAfee Enterprise의 기업 비즈니스를 합쳐 만든 XDR 사이버 보안 회사로, Symphony Technology Group이 모기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.fireeye.com/",
+  "entityLinks": {
+   "wikidata": "Q5451274",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5451274",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A0%90%EB%A6%AD%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/FireEye"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5451274",
+   "country": "미국",
+   "inception": "2004",
+   "headquarters": "밀피타스",
+   "founders": [
+    "Ashar Aziz"
+   ],
+   "parent": "Symphony Technology Group",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「트렐릭스」 요약과 위키데이터 Q5451274 팩트를 근거로 편집",
+  "founded": {
+   "date": "2004-02",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

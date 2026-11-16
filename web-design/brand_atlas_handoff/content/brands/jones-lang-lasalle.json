@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1703389",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/jones-lang-lasalle-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jones-lang-lasalle",
+  "urlSlug": "jones-lang-lasalle",
+  "name": "Jones Lang LaSalle",
+  "nameKo": "",
+  "nameEn": "Jones Lang LaSalle",
+  "definition": "Jones Lang LaSalle은 시카고에 본사를 둔 글로벌 부동산 서비스 기업이다. 80개국에 사무소를 두고 기관·개인 투자자 대상 투자 관리 서비스와 부동산 기술 제품을 제공한다.",
+  "summary": "Jones Lang LaSalle은 시카고에 본사를 둔 글로벌 부동산 서비스 기업이다. 80개국에 사무소를 두고 기관·개인 투자자 대상 투자 관리 서비스와 부동산 기술 제품을 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "부동산 서비스와 투자 관리에 자체 부동산 기술(proptech) 사업을 결합하고, AI 도구와 벤처 투자까지 확장한 글로벌 부동산 서비스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "JLL은 시카고에 본사를 둔 글로벌 부동산 서비스 기업으로, 80개국에 사무소를 두고 있다. 기관 투자자와 개인 투자자, 고액 자산가를 대상으로 전 세계에서 투자 관리 서비스를 제공한다. JLL Technologies를 통해 기술 제품을 내놓고, PropTech 펀드인 JLL Spark를 통해 벤처 캐피털 투자도 한다. 2017년 JLL Spark 부문을 출범하며 상업용 부동산 서비스에서 부동산 기술(proptech) 영역으로 사업을 넓혔다. 2023년에는 직원용 대규모 언어 모델 도구인 JLL GPT를 출시했으며, 대형 부동산 서비스 기업이 내놓은 최초의 이런 모델이라고 한다. 포천 500대 기업 순위에서는 175위에 올라 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1966년 William Sanders가 텍사스주 엘패소에서 International Development Corp를 세웠고, 1968년 LaSalle Partners로 이름을 바꾸며 일리노이주 시카고로 옮겼다. 초기에는 투자은행, 투자 관리, 토지 서비스를 제공했다. LaSalle Partners는 1997년 첫 CEO인 Stuart Scott의 주도로 기업공개(IPO)를 했고, 1999년 Jones Lang Wootton과 합병해 Jones Lang LaSalle이 되었다. Jones Lang Wootton은 1700년대에 기원한 런던의 경매업체로, 1976년까지 뉴욕을 통해 미국 부동산 시장에 진출해 있었다. 합병 무렵 두 회사를 합친 조직은 33개국에서 직원 4,000명을 두고 있었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "투자 관리 서비스는 기관·개인 투자자와 고액 자산가를 대상으로 제공하며, 자회사 LaSalle Investment Management가 기관·개인 고객의 부동산 투자를 운용한다. JLL Technologies는 기술 제품을 제공하고, JLL Spark는 부동산 스타트업에 투자하는 벤처 펀드를 운영한다. 2023년 6월에는 기업이 건물의 탄소 배출량을 파악하고 줄일 방법을 찾도록 돕는 소프트웨어 도구 Carbon Pathfinder를 출시했다. 2023년 8월에는 상업용 부동산 질문에 답하도록 개발된 JLL GPT를 직원용으로 내놓았다. 2021년에 Skyline AI와 Building Engines를, 2022년 2월에 Hank를 인수해 기술 역량을 보강했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 IBM과의 협력을 발표하고, IBM의 기술로 고객사 상업용 부동산의 지속가능성 데이터를 추적하는 플랫폼을 개발하기로 했다. 회사에 따르면 이 플랫폼은 탈탄소화를 포함한 고객의 환경 목표에 대한 데이터를 수집하고 보고를 제공하기 위한 것이다. 같은 해 서비스 확대를 위해 기술 기업 두 곳도 인수했다. 현재 80개국에 사무소를 두고 있으며 포천 500대 기업 순위 175위이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "부동산 서비스와 투자 관리에 자체 부동산 기술(proptech) 사업을 결합하고, AI 도구와 벤처 투자까지 확장한 글로벌 부동산 서비스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.jll.de",
+  "entityLinks": {
+   "wikidata": "Q1703389",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1703389",
+    "https://en.wikipedia.org/wiki/JLL_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1703389",
+   "country": "미국",
+   "inception": "1783",
+   "headquarters": "Aon 센터",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「JLL (company)」 본문과 위키데이터 Q1703389 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

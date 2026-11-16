@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q902769",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/umicore-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "umicore",
+  "urlSlug": "umicore",
+  "name": "Umicore",
+  "nameKo": "",
+  "nameEn": "Umicore",
+  "definition": "Umicore는 벨기에 브뤼셀에 본사를 둔 다국적 소재 기술 기업이다. 귀금속의 정제와 재활용, 그리고 귀금속·코발트·게르마늄·아연 등을 이용한 특수 제품 제조를 한다.",
+  "summary": "Umicore는 벨기에 브뤼셀에 본사를 둔 다국적 소재 기술 기업이다. 귀금속의 정제와 재활용, 그리고 귀금속·코발트·게르마늄·아연 등을 이용한 특수 제품 제조를 한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "광업·제련 기업 Union Minière에서 출발해 재활용과 청정 기술 소재 중심의 소재 기업으로 전환한 벨기에 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Umicore는 2001년 이전에는 Union Minière로 불린 벨기에의 다국적 소재 기술 기업이다. 본사는 벨기에 브뤼셀에 있다. 과거 광업과 제련 중심이던 사업을 기술 중심으로 재편해 귀금속의 정제와 재활용, 귀금속·코발트·게르마늄·아연 등 금속을 이용한 특수 제품 제조를 맡고 있다. 매출의 대부분은 재활용, 배기가스 저감 촉매, 충전식 배터리용 소재, 태양광 같은 청정 기술에서 나온다. The Global 100의 '세계에서 가장 지속가능한 기업'에 꼽혔으며 2013년에는 1위, 2014년에는 9위였다. 1991년 출범 때부터 벨기에 대표 주가지수 BEL20의 구성 종목이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Umicore의 중심 계보는 1906년 콩고 자유국의 천연자원 개발을 위해 설립된 Union Minière du Haut-Katanga(UMHK)이다. UMHK는 구리 채굴에서 시작해 코발트, 주석, 우라늄 등으로 사업을 넓혔고 제련 시설도 건설했다. 1967년 1월 Mobutu Sese Seko 정권에 의해 국유화되었고, 이후 전액 소유권은 Société Générale de Belgique로 넘어가 Union Minière라는 새 이름을 쓰게 되었다. 1989년 Société Générale de Belgique는 Vieille Montagne, Metallurgie Hoboken-Overpelt, Mechim과 합병하는 계획을 발표했다. 1995년에는 CEO Karel Vinck 아래에서 구조조정을 시행해 인력 약 25%를 줄이고 비핵심 자산을 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Umicore는 사업을 Energy Materials, Recycling, Catalysis, Performance Materials의 네 개 부문으로 나눈다. Energy Materials 부문은 산업용 특수 금속 및 준금속 제품을 제조한다. 회사는 재활용, 배기가스 저감 촉매, 충전식 배터리용 소재, 태양광 분야에서 매출의 대부분을 올린다. 2011년에는 리튬이온 배터리 재활용 혁신 기술과 환경 보호 활동으로 Fray International Sustainability Award를 받았다. 구리 추출·정제 사업은 2005년, 아연 정제 사업은 2007년에 매각되어 각각 Aurubis와 Nyrstar의 일부가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "채굴은 더 이상 사업에 직접 포함되지 않는다. 마지막 광업 지분이던 태국 아연 생산업체 Padaeng Industry의 소수 지분은 2008년 4월 매각되었다. 회사는 청정 기술 중심으로 매출을 올리며 BEL20 지수 구성 종목으로 남아 있다. 이름도 2001년 이전의 Union Minière에서 현재의 Umicore로 바뀌었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광업·제련 기업 Union Minière에서 출발해 재활용과 청정 기술 소재 중심의 소재 기업으로 전환한 벨기에 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.umicore.com/",
+  "entityLinks": {
+   "wikidata": "Q902769",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q902769",
+    "https://en.wikipedia.org/wiki/Umicore"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q902769",
+   "country": "벨기에",
+   "inception": "1904",
+   "headquarters": "브뤼셀",
+   "founders": [
+    "Katanga Company",
+    "Katanga Special Committee",
+    "Tanganyika Concessions Limited"
+   ],
+   "parent": "Société Générale de Belgique",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Umicore」 본문과 위키데이터 Q902769 팩트를 근거로 편집",
+  "founded": {
+   "date": "1904-07-07",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

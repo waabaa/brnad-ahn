@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q908961",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/dr-reddys-laboratories-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dr-reddys-laboratories",
+  "urlSlug": "dr-reddys-laboratories",
+  "name": "Dr. Reddy's Laboratories",
+  "nameKo": "",
+  "nameEn": "Dr. Reddy's Laboratories",
+  "definition": "Dr. Reddy's Laboratories는 인도 하이데라바드에 본사를 둔 다국적 제약회사이다. 1984년 Kallam Anji Reddy가 설립했으며 의약품과 의약품 원료를 제조·판매한다.",
+  "summary": "Dr. Reddy's Laboratories는 인도 하이데라바드에 본사를 둔 다국적 제약회사이다. 1984년 Kallam Anji Reddy가 설립했으며 의약품과 의약품 원료를 제조·판매한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "규제가 덜한 시장 수출로 출발해 미국·유럽 같은 규제 시장으로 진출했고, 해외에서도 상당한 연구개발을 진행하는 인도 제약회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 인도 하이데라바드에 본사를 두고, 미국 본사는 뉴저지주 이스트브런즈윅에 있는 인도의 다국적 제약회사이다. 인도와 해외에서 다양한 의약품을 제조하고 판매한다. 190가지가 넘는 의약품과 60가지 원료의약품(API), 진단 키트, 중환자 치료 제품, 바이오기술 분야 제품을 생산한다. 처음에는 인도 제약사에 원료를 공급하는 업체로 출발했으나 규제가 덜한 시장으로 수출을 넓혔다. 1990년대 초에는 확대된 규모와 수익성을 바탕으로 미국과 유럽 같은 규제 시장의 승인을 받는 데 집중했다. 2007년에는 FDA 승인 공장 일곱 곳에서 원료의약품을 생산했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1984년 Kallam Anji Reddy가 원료의약품을 생산하며 회사를 시작했다. Reddy는 이전에 Indian Drugs and Pharmaceuticals Limited에서 일했다. 1986년 브랜드 제제 사업을 시작했고, 1년 안에 인도에서 첫 인지 브랜드인 Norilet을 출시했다. 이어 오메프라졸 브랜드 Omez를 당시 인도 시장의 다른 브랜드 절반 가격에 내놓아 성공을 거두었다. 1987년부터는 다른 제조사에 원료를 공급하는 업체에서 의약품 완제품 제조사로 전환하기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "190가지가 넘는 의약품과 60가지 원료의약품(API)을 생산하며, 진단 키트, 중환자 치료, 바이오기술 분야도 포함한다. 인도에서 처음으로 알려진 브랜드는 Norilet이다. 위장관 궤양과 역류성 식도염 치료제인 오메프라졸 브랜드 Omez도 대표 제품이다. 신약 개발의 기반으로 서구 시장을 겨냥한 특수 제네릭 제품을 개발했다. 1992년 설립된 Dr. Reddy's Research Foundation은 신약 발굴 연구를 맡았으며, 2000년 애틀랜타에 Reddy US Therapeutics Inc (RUSTI) 연구소를 세웠다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 기준 인도에서 원료의약품을 생산하는 FDA 공장 일곱 곳과, FDA 점검을 받고 ISO 9001과 ISO 14001 인증을 갖춘 완제의약품 공장 일곱 곳(인도 다섯 곳, 영국 두 곳)을 운영했다. 인도와 해외에서 의약품을 제조하고 판매하며 미국 본사는 뉴저지주에 있다. 해외에서도 상당한 연구개발을 수행하는 유일한 인도 기업으로 기술된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "규제가 덜한 시장 수출로 출발해 미국·유럽 같은 규제 시장으로 진출했고, 해외에서도 상당한 연구개발을 진행하는 인도 제약회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.drreddys.com/",
+  "entityLinks": {
+   "wikidata": "Q908961",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q908961",
+    "https://en.wikipedia.org/wiki/Dr._Reddy%27s_Laboratories"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q908961",
+   "country": "인도",
+   "inception": "1984",
+   "headquarters": "하이데라바드",
+   "founders": [
+    "Kallam Anji Reddy"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Dr. Reddy's Laboratories」 본문과 위키데이터 Q908961 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

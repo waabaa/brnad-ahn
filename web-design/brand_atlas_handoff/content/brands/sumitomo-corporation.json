@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q716979",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sumitomo-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sumitomo-corporation",
+  "urlSlug": "sumitomo-corporation",
+  "name": "스미토모 상사",
+  "nameKo": "스미토모 상사",
+  "nameEn": "Sumitomo Corporation",
+  "definition": "스미토모 상사(Sumitomo Corporation)는 세계적인 종합상사(sōgō shōsha) 가운데 하나로 사업을 다각화한 일본 기업이다. 1919년에 설립되었으며 스미토모 그룹의 계열사이다.",
+  "summary": "스미토모 상사(Sumitomo Corporation)는 세계적인 종합상사(sōgō shōsha) 가운데 하나로 사업을 다각화한 일본 기업이다. 1919년에 설립되었으며 스미토모 그룹의 계열사이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "오사카 북항 개발 회사로 출발해 종합상사로 전환했으며, 스미토모 그룹의 핵심 일원으로 Sumitomo Bank와 함께 keiretsu를 이루었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스미토모 상사는 세계에서 가장 큰 종합상사(sōgō shōsha) 가운데 하나이며 사업을 다각화한 기업이다. 1919년에 설립되었고 스미토모 그룹의 계열사이며, 본사는 Harumi Island Triton Square에 있다. 도쿄, 나고야, 후쿠오카 세 곳의 일본 증권거래소에 상장되어 있고 TOPIX와 Nikkei 225 지수의 구성 종목이다. 현재 세계 3대 종합상사 가운데 하나로 설명되며, 일본 내에서는 Itochu에 3위 자리를 내준 적이 있다. 1960년대에 스미토모는 Mitsubishi, Mitsui와 함께 3대 종합상사가 되는 것을 공식 목표로 삼았다. 2015년에는 자동차와 인프라 산업 등 비자원 사업을 중심으로 사업을 다시 정비하겠다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스미토모 그룹은 17세기에 Masatomo Sumitomo가 교토에 세운 서적·약재 상점에서 시작되었다. 스미토모 상사는 1919년 12월 The Osaka North Harbour Co., Ltd.로 설립되어 오사카 북항 지역의 부동산 관리, 매립, 항만 보수 공사 등을 맡았다. 1944년 Sumitomo Building Co., Ltd.와 합병해 Sumitomo Building and Real Estate Co., Ltd.가 되었고, 전후에는 종합상사로 전환하면서 Nippon Engineering Co., Ltd.로 이름을 바꾸어 영업 인력 32명으로 새출발했다. 1949년 오사카, 도쿄, 나고야 증권거래소에 상장했으며 1950년 뭄바이, 1952년 뉴욕에서 사업을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "스미토모 상사는 2014년까지 천연자원 중심 전략을 이어갔으나 그해 타이트오일(셰일오일) 등 에너지 관련 투자에서 큰 손실을 기록했다. 당시 사장 Kuniharu Nakamura는 불리한 시장 요인과 해당 분야에 대한 경험 부족을 원인으로 들었다. 이 여파로 Itochu에 일본 3위 종합상사 자리를 내주었고, 2015년 자동차·인프라 등 비자원 사업으로 방향을 돌리겠다고 발표했다. Berkshire Hathaway는 이 회사 지분 5% 이상을 취득했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오사카 북항 개발 회사로 출발해 종합상사로 전환했으며, 스미토모 그룹의 핵심 일원으로 Sumitomo Bank와 함께 keiretsu를 이루었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sumitomocorp.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q716979",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q716979",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%AF%B8%ED%86%A0%EB%AA%A8_%EC%83%81%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Sumitomo_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q716979",
+   "country": "일본",
+   "inception": "1919",
+   "headquarters": "Harumi Island Triton Square",
+   "founders": [
+    "Shun'ya Tōji"
+   ],
+   "parent": "스미토모 그룹",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Sumitomo Corporation」 본문과 위키데이터 Q716979 팩트를 근거로 편집",
+  "founded": {
+   "date": "1919-12-24",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

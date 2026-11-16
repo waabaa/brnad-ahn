@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q629733",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/rbc-information-systems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rbc-information-systems",
+  "urlSlug": "rbc-information-systems",
+  "name": "RBC Information Systems",
+  "nameKo": "",
+  "nameEn": "RBC Information Systems",
+  "definition": "RBC Information Systems는 1993년에 설립되어 모스크바에 본사를 둔 러시아의 미디어 그룹이다. RosBusinessConsulting이라고도 불리며 뉴스 포털과 경제 매체를 운영한다.",
+  "summary": "RBC Information Systems는 1993년에 설립되어 모스크바에 본사를 둔 러시아의 미디어 그룹이다. RosBusinessConsulting이라고도 불리며 뉴스 포털과 경제 매체를 운영한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "탐사 보도로 알려진 러시아의 경제 전문 미디어 그룹으로, 뉴스 포털·신문·잡지·TV를 함께 운영한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "RBC Information Systems는 RBC Group 또는 RosBusinessConsulting으로 불리는 러시아의 미디어 그룹이다. 본사는 러시아 모스크바에 있으며 설립 시기는 1993년이다. 그룹은 RosBusinessConsulting 정보 통신사를 보유하고 있고, 뉴스 웹 포털과 경제지 RBK Daily, 월간 경제 잡지 RBC, RBC TV를 운영한다. RBC는 부패와 권력 남용을 다룬 탐사 보도로 러시아에서 알려졌다. 2016년 5월에는 보도를 둘러싸고 편집장 Yelizaveta Osetinskaya를 포함한 편집 지도부가 교체되었다. 2019년 영국 신문 The Guardian은 RBK를 Kommersant, Vedomosti와 함께 러시아에서 가장 존중받는 신문 가운데 하나로 언급했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 그룹은 1993년에 설립되었다. Mikhail Prokhorov는 2009년 RBK Group 지분 51%를 매입해 다수 지분을 보유하게 되었다. 2014년에는 러시아 매체 온라인 데이터베이스 Public.ru를 인수했다. 2015년 RBK Holding은 자산을 5개 부문으로 나누는 새 사업 구조를 도입했으며, 이 구조는 2020년 말 무렵까지 유지되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "미디어 부문에는 rbc.ru와 pro.rbc.ru 사이트, RBK 신문(이전 명칭 RBK Daily), RBK 잡지, RBK TV 채널이 있다. 주제별 프로젝트로 부동산 매체 RBK Real Estate, 스포츠 매체 RBK Sport, 자동차 매체 Autonews, 라이프스타일 매체 RBK Style, 금융 매체 RBK Investments, 트렌드 매체 RBK Trends를 운영한다. 기업 고객 대상 유료 서비스로는 RBK Market Research, RBK Conferences, 정보 분석 플랫폼 RBK Pro가 있다. 2019년 RBK Quote는 VTB Bank와 제휴해 금융 매체이자 증권 투자 플랫폼으로 재출시되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 사업은 미디어·정보 서비스, 디지털 인프라, 부차 자산의 세 부문으로 구성된다. 2021년 9월 RBK Group은 도메인 등록 업체 Ru-Center Group의 지분 100%를 Ru-Web.Investments LLC가 이끄는 민간 투자자 컨소시엄에 매각했고, 대가로 Ru-Web.Investments LLC의 지분 25%를 확보했다. MOEX 시가총액은 2018년 3월 10일 기준 44.13 million 달러였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "탐사 보도로 알려진 러시아의 경제 전문 미디어 그룹으로, 뉴스 포털·신문·잡지·TV를 함께 운영한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.rbcinfosystems.com/",
+  "entityLinks": {
+   "wikidata": "Q629733",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q629733",
+    "https://en.wikipedia.org/wiki/RBK_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q629733",
+   "country": "러시아",
+   "inception": "1993",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「RBK Group」 본문과 위키데이터 Q629733 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

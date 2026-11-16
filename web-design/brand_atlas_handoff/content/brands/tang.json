@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q2744433",
+ "demand": {
+  "why": "국외",
+  "naver": 0.002,
+  "koViews": 71,
+  "enViews": 32360,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "tang",
+  "urlSlug": "tang",
+  "name": "탱",
+  "nameKo": "탱",
+  "nameEn": "Tang",
+  "definition": "탱(Tang)은 1957년에 공식화되어 1959년 분말 형태로 처음 판매된 미국 음료 믹스 브랜드이다. 제너럴 푸드의 식품 과학자와 화학자가 개발했다.",
+  "summary": "탱(Tang)은 1957년에 공식화되어 1959년 분말 형태로 처음 판매된 미국 음료 믹스 브랜드이다. 제너럴 푸드의 식품 과학자와 화학자가 개발했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "NASA 우주 비행 임무에 사용된 이력 탓에 우주 프로그램용으로 발명되었다는 오해를 받아 온 미국 분말 음료 믹스 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "탱은 미국에서 시작된 음료 믹스 브랜드로, 1959년 분말 형태로 처음 판매되었다. 현재 대다수 국가에서는 2012년 Kraft Foods에서 분사된 Mondelez International이 소유하고 있다. Kraft Heinz는 북미 지역에서 탱 판권을 소유하고 있다. 판매는 NASA가 1962년 John Glenn의 머큐리 계획 비행에 사용하기 전까지 부진했다. 이후 NASA의 인간 우주 비행 프로그램과 연관되면서, 탱이 우주 프로그램을 위해 발명되었다는 오해와 음모론이 생겼다. 도입된 지 50년이 지난 뒤에도 NASA 임무에 계속 사용되고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "탱은 제너럴 푸드의 식품 과학자 William A. Mitchell과 화학자 William Bruce James가 1957년에 공식화했다. 1959년 분말 형태로 처음 판매되었다. 판매는 NASA가 1962년 John Glenn의 머큐리 계획 비행과 이후 제미니 계획 임무에 사용하기 전까지 부진했다. 이후 NASA의 인간 우주 비행 프로그램과 연관되면서 탱이 우주 프로그램을 위해 발명되었다는 오해와 음모론이 생겼다. 탱은 이러한 이미지를 불식시키려 Bugs Bunny 콜라보 광고 등을 내놓았으나 불식시키지 못했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 대다수 국가에서는 2012년 Kraft Foods에서 분사된 Mondelez International이 탱을 소유하고 있으며, 북미 지역의 판권은 Kraft Heinz가 갖고 있다. 탱은 도입된 지 50년이 지난 지금도 NASA 임무에 계속 사용되고 있다. 한국에서는 1970년대 말부터 고급 분말 주스라는 이미지로 KoolAid와 함께 동서식품을 통해 정식 발매되었으나, 1980년대 초 금지 물질인 BHA 함유로 국내에서 단종되었다. KoolAid는 이후 지금까지도 수입되고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "NASA 우주 비행 임무에 사용된 이력 탓에 우주 프로그램용으로 발명되었다는 오해를 받아 온 미국 분말 음료 믹스 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://tang-drink.com/",
+  "entityLinks": {
+   "wikidata": "Q2744433",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2744433",
+    "https://ko.wikipedia.org/wiki/%ED%83%B1_(%EC%9D%8C%EB%A3%8C)",
+    "https://en.wikipedia.org/wiki/Tang_(drink_mix)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2744433",
+   "country": "아르헨티나",
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": "크래프트 푸즈",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「탱 (음료)」 요약과 위키데이터 Q2744433 팩트를 근거로 편집"
+ }
+}

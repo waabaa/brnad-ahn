@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q324616",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/ingram-micro-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ingram-micro",
+  "urlSlug": "ingram-micro",
+  "name": "Ingram Micro",
+  "nameKo": "",
+  "nameEn": "Ingram Micro",
+  "definition": "Ingram Micro는 미국 캘리포니아주 어바인에 본사를 둔 정보기술 제품·서비스 유통 기업이다. 제조사의 하드웨어, 소프트웨어, 클라우드 서비스를 리셀러 등 채널 파트너에 공급한다.",
+  "summary": "Ingram Micro는 미국 캘리포니아주 어바인에 본사를 둔 정보기술 제품·서비스 유통 기업이다. 제조사의 하드웨어, 소프트웨어, 클라우드 서비스를 리셀러 등 채널 파트너에 공급한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "제조사와 채널 파트너 사이에서 재고를 직접 보유하는 대형 기술 유통 기업으로, AI 기반 B2B 플랫폼 Xvantage를 중심으로 사업을 재편하고 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 제조사로부터 하드웨어, 소프트웨어, 클라우드 서비스를 구매해 리셀러, 관리형 서비스 제공업체, 기타 채널 파트너에게 재판매한다. 재고를 대차대조표에 보유하는 도매 유통 모델이어서 재고와 자본 부담이 큰 구조다. 본사는 미국 캘리포니아주 어바인에 있고 전 세계에서 사업을 운영한다. 2025 회계연도 순매출은 $52.6 billion으로 전년 대비 9.5% 증가했으며, 직원 약 23,500명이 전 세계 161,000개 넘는 고객을 지원했다. 전통적 유통업체에서 B2B 디지털 경험 플랫폼 중심의 플랫폼 기반 사업으로 위치를 바꿔 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ingram Micro의 기원은 1979년 7월 Geza Czige와 Lorraine Mecca 부부가 세운 유통업체 Micro D, Inc.이다. 두 사람은 모두 교사였고, 회사는 남부 캘리포니아에서 시작해 첫해 약 $3.5 million의 매출을 올렸다. 1982년 뉴욕주 버펄로에서 Software Distribution Services가 설립되었고, Ingram Industries 산하 Ingram Distribution Group이 1985년 봄 이를 인수해 Ingram Software로 바꾸었다. 1989년 Micro D의 잔여 공개 주식을 인수한 Ingram Industries가 두 회사를 합쳐 Ingram Micro D로 개편했다. 1996년 뉴욕증권거래소에 상장했으며 당시 매출은 $12 billion을 넘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전통적으로 제조사 제품을 리셀러에게 마케팅·판매·배송하는 유통업체로, 하드웨어, 소프트웨어, 클라우드 서비스를 취급한다. 핵심 플랫폼은 AI 기반 B2B 디지털 경험 플랫폼인 Xvantage로, 2022년 9월 미국과 독일에서 출시했다. 하드웨어·클라우드·소프트웨어 거래, 가격, 주문 추적, 청구를 하나의 시스템으로 통합하는 \"디지털 트윈\"을 표방한다. 회사는 이 플랫폼이 300개 넘는 AI·머신러닝 모델과 20개의 자체 디지털 엔진을 갖췄다고 밝혔다. 2025년 6월에는 채널 파트너가 AI 솔루션을 판매·구축하도록 돕는 교육 프로그램 Enable AI를 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 Platinum Equity이며, CEO는 Paul Bay이다. 2025 회계연도 말 기준으로 순매출의 대부분이 Xvantage를 통해 처리되었다고 회사는 밝혔다. 2025년 중반에는 운영 중인 57개국 중 20개국에서 이 플랫폼이 가동 중이었다. 직원은 약 23,500명이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "제조사와 채널 파트너 사이에서 재고를 직접 보유하는 대형 기술 유통 기업으로, AI 기반 B2B 플랫폼 Xvantage를 중심으로 사업을 재편하고 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ingrammicro.com/",
+  "entityLinks": {
+   "wikidata": "Q324616",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q324616",
+    "https://en.wikipedia.org/wiki/Ingram_Micro"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q324616",
+   "country": "미국",
+   "inception": "1979",
+   "headquarters": "어바인",
+   "founders": [],
+   "parent": "Platinum Equity",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Ingram Micro」 본문과 위키데이터 Q324616 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

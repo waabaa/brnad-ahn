@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q697311",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/magna-international-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "magna-international",
+  "urlSlug": "magna-international",
+  "name": "마그나 인터내셔널",
+  "nameKo": "마그나 인터내셔널",
+  "nameEn": "Magna International",
+  "definition": "마그나 인터내셔널(Magna International)은 캐나다 온타리오주 오로라에 본사를 둔 자동차 부품 제조업체이다. 자동차 시스템, 어셈블리, 모듈 및 부품을 만들어 여러 완성차 업체에 공급한다.",
+  "summary": "마그나 인터내셔널(Magna International)은 캐나다 온타리오주 오로라에 본사를 둔 자동차 부품 제조업체이다. 자동차 시스템, 어셈블리, 모듈 및 부품을 만들어 여러 완성차 업체에 공급한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "이익을 직원과 주주에게 분배하도록 하는 기업 헌장에 따라 운영되는, 북미 최대 규모의 자동차 부품 공급업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마그나는 자동차 시스템, 어셈블리, 모듈 및 부품을 생산해 General Motors, Ford, Stellantis는 물론 BMW, Mercedes, Volkswagen, Toyota, Tesla, Tata Motors 등에 공급하는 회사이다. 순정 부품 판매 기준으로 북아메리카에서 자동차 부품을 가장 많이 생산하는 제조업체이며, 북미 최대이자 전 세계 세 번째로 큰 자동차 부품 공급업체이다. 캐나다 최대 기업 중 하나로 2020년 포브스 글로벌 2000에 올랐고, 2001년 이후 20년 연속 포춘 글로벌 500 목록에 이름을 올렸다. 27개국에 342개의 제조 시설과 91개의 제품 개발, 엔지니어링 및 판매 센터를 두고 있으며, 2019년 기준 158,000명의 직원을 고용했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1957년 Frank Stronach가 토론토의 임대 차고에서 공구 및 금형 회사 Multimatic Investments Ltd를 설립했다. 1959년 General Motors와 금속 선바이저 브래킷에 대한 첫 자동차 산업 계약을 체결했고, 1960년대 후반까지 8개의 공장을 운영했다. 1969년 항공우주, 방위 및 산업 부품 회사인 Magna Electronics Corporation과 합병해 공개 회사로 전환했으며, 1973년에 마그나 인터내셔널로 알려지게 되었다. 1974년 직원 지분 참여 및 이익 공유 프로그램을 개발했고, 1981년까지 자동차 산업에 집중하기 위해 항공우주 및 방위 사업을 매각했다. 1990년대에는 아시아로 확장하면서 주요 시스템을 독립적인 상장 회사로 분산시키기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2024년 기준 7개 그룹으로 구성되며 코스마, 마그나 일렉트로닉스, 마그나 파워트레인, 마그나 익스테리어스, 마그나 시팅, 마그나 슈타이어, 메카트로닉스·미러·조명이 포함된다. 역사적으로 접이식 미니밴 시트, 반응 주입 성형(RIM) 범퍼를 포함한 외부 시스템, 첨단 운전자 지원 시스템(ADAS), 사각지대 감지와 차선 이탈 경고 시스템 등을 발전시켰다. 2005년 허머용 후방 카메라를 설계하기 시작했고, 2018년에는 Icon 레이더 시스템과 자동 비상 제동 시스템을 도입했다. BMW와 전기화에 협력해 계약 방식으로 전기차를 생산하며, 차량 경량화를 위한 새로운 재료도 사용한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "최고 경영자는 스와미 코타기리이며, 도널드 J. 워커의 후임으로 2021년 1월 취임했다. 본사는 오로라(온타리오주)에 있고 미국 사업은 트로이(미시간주), 유럽 본사는 빈에 있다. 기업 헌장에 따라 운영되며 변경에는 경영진, 주주 및 직원의 합의가 필요하고, 세전 이익의 10%를 직원들과 공유한다. 2022년 12월에는 비오니어 액티브 세이프티 사업 인수가 발표되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이익을 직원과 주주에게 분배하도록 하는 기업 헌장에 따라 운영되는, 북미 최대 규모의 자동차 부품 공급업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.magna.com/",
+  "entityLinks": {
+   "wikidata": "Q697311",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q697311",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EA%B7%B8%EB%82%98_%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90",
+    "https://en.wikipedia.org/wiki/Magna_International"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q697311",
+   "country": "캐나다",
+   "inception": "1957",
+   "headquarters": "오로라",
+   "founders": [
+    "Frank Stronach"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「마그나 인터내셔널」 요약과 위키데이터 Q697311 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

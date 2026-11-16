@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q937783",
+ "demand": {
+  "why": "국외",
+  "naver": 0,
+  "koViews": 1048,
+  "enViews": 35583,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/coca-cola-zero-sugar-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "coca-cola-zero-sugar",
+  "urlSlug": "coca-cola-zero-sugar",
+  "name": "코카콜라 제로슈거",
+  "nameKo": "코카콜라 제로슈거",
+  "nameEn": "Coca-Cola Zero Sugar",
+  "definition": "코카콜라 제로슈거(Coca-Cola Zero Sugar)는 코카-콜라 컴퍼니가 만드는 음료로, 설탕이 들어가지 않은 제품이다. 일부 국가에서는 칼로리 제로로, 다른 국가에서는 무설탕으로 광고한다.",
+  "summary": "코카콜라 제로슈거(Coca-Cola Zero Sugar)는 코카-콜라 컴퍼니가 만드는 음료로, 설탕이 들어가지 않은 제품이다. 일부 국가에서는 칼로리 제로로, 다른 국가에서는 무설탕으로 광고한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "칼로리가 제로인 점을 내세우는 코카콜라 계열 제품으로, 국가마다 성분이 다르게 제조되며 한국에는 2006년 4월 아시아권 최초로 출시되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코카콜라 제로슈거는 코카-콜라 컴퍼니가 만드는 설탕이 들어가지 않은 코카콜라 계열 음료이다. 미국과 캐나다를 비롯한 일부 국가에서는 칼로리가 제로라는 점을 내세워 광고하고, 일부 국가에서는 무설탕으로 광고한다. 원래의 코카콜라와 달리 칼로리가 제로인 점을 특징으로 내세운다. 성분은 판매 국가마다 다르게 제조된다. 대한민국에서는 2006년 4월부터 시판되었으며, 당시 세계에서 미국, 호주에 이어 세 번째이고 아시아권에서는 최초의 출시였다. 판매 국가 목록에는 유럽, 아메리카, 아시아의 여러 나라가 올라 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "근거에 제시된 설립 연도는 2005년이다. 판매 국가 목록에서 가장 이른 시작은 2005년 7월의 스페인이다. 2006년에는 오스트레일리아(1월 8일), 영국(6월), 독일(7월), 벨기에(8월), 핀란드(11월) 등에서 판매가 시작되었다. 대한민국에서는 2006년 7월 광주에서 음료수 독극물 사건이 발생해 코카콜라 제로를 포함한 제품이 교환 대상이 되었고, 그달 24일 유통이 재개되며 새로 생산된 제품의 병뚜껑 색깔은 노란색으로 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 설탕이 들어가지 않은 코카콜라 제로이다. 12 플루이드 온스(약 355 ml)당 카페인 34.5 mg(100 ml당 9.7 mg)이 들어 있어, 12 플루이드 온스당 34 mg인 오리지널 코카콜라와 카페인 함량이 거의 같다. 성분은 판매 국가마다 달라서 아르헨티나, 오스트레일리아, 캐나다, 미국 등 여러 나라의 성분 라벨에는 아스파탐을 이루는 분자인 페닐알라닌이 표기된다. 대한민국의 교환 대상 제품에는 390mL, 500mL, 600mL 페트 제품이 포함되어 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "칼로리가 제로인 점을 내세우는 코카콜라 계열 제품으로, 국가마다 성분이 다르게 제조되며 한국에는 2006년 4월 아시아권 최초로 출시되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.coca-cola.com/us/en/brands/coca-cola/products/zero",
+  "entityLinks": {
+   "wikidata": "Q937783",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q937783",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC_%EC%A0%9C%EB%A1%9C%EC%8A%88%EA%B1%B0",
+    "https://en.wikipedia.org/wiki/Coca-Cola_Zero_Sugar"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q937783",
+   "country": null,
+   "inception": "2005",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「코카콜라 제로슈거」 요약과 위키데이터 Q937783 팩트를 근거로 편집",
+  "founded": {
+   "date": "2005-06",
+   "precision": "month",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

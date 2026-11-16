@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q677634",
+ "demand": {
+  "why": "국외",
+  "naver": 0.001,
+  "koViews": 117,
+  "enViews": 33013,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "planet-hollywood",
+  "urlSlug": "planet-hollywood",
+  "name": "플래닛 할리우드",
+  "nameKo": "플래닛 할리우드",
+  "nameEn": "Planet Hollywood",
+  "definition": "플래닛 할리우드(Planet Hollywood)는 할리우드 영화를 테마로 한 미국의 레스토랑이다. 1991년 뉴욕에서 실베스터 스탤론, 브루스 윌리스, 데미 무어, 아널드 슈워제네거가 설립했다.",
+  "summary": "플래닛 할리우드(Planet Hollywood)는 할리우드 영화를 테마로 한 미국의 레스토랑이다. 1991년 뉴욕에서 실베스터 스탤론, 브루스 윌리스, 데미 무어, 아널드 슈워제네거가 설립했다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1991년 뉴욕에서 시작한 할리우드 영화 테마의 미국 레스토랑으로, 라스베이거스에서는 같은 이름의 리조트로도 개업한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "플래닛 할리우드는 할리우드 영화를 테마로 한 미국의 레스토랑 브랜드이다. 1991년 뉴욕에서 실베스터 스탤론, 브루스 윌리스, 데미 무어, 아널드 슈워제네거가 설립했고, 본사는 플로리다주 올랜도에 있다. 2007년에는 라스베이거스의 알라딘 호텔 & 카지노를 리모델링해 플래닛 할리우드 리조트로 개업했으며, 스타우드 호텔 & 리조트가 운영하고 있다. 현재 미국에는 머틀비치, 뉴욕, 라스베이거스, 다운타운디즈니에 가게가 있다. 대한민국에는 1995년 서울특별시 강남구 논현동에 개점했으나 영업 부진 등으로 그해 말 철수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1991년 뉴욕에서 실베스터 스탤론, 브루스 윌리스, 데미 무어, 아널드 슈워제네거가 설립했다. 할리우드 영화를 테마로 한 레스토랑으로 출발했다. 2007년에는 라스베이거스에 있던 알라딘 호텔 & 카지노를 리모델링해 플래닛 할리우드 리조트로 개업했다. 1995년에는 서울특별시 강남구 논현동에 홍능갈비(대표 고자홍)와 삼호필름(대표 박효성)이 합자해 미국 측과 공동으로 개점했다. 이 가게는 영업 부진 등의 문제로 그해 말 철수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 사업은 할리우드 영화를 테마로 한 레스토랑 운영이며, 브랜드의 중심을 이룬다. 미국 내 가게는 머틀비치, 뉴욕, 라스베이거스, 다운타운디즈니에 있다. 호텔 사업으로는 라스베이거스에 위치한 알라딘 호텔 & 카지노를 2007년에 리모델링해 개업한 플래닛 할리우드 리조트가 있다. 이 리조트는 스타우드 호텔 & 리조트가 운영하고 있다. 대한민국 매장은 1995년 서울 논현동에 문을 열었으나 그해 말 철수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 미국에는 머틀비치, 뉴욕, 라스베이거스, 다운타운디즈니에 가게가 있고, 본사는 플로리다주 올랜도에 있다. 라스베이거스의 플래닛 할리우드 리조트는 스타우드 호텔 & 리조트가 운영하고 있다. 대한민국 매장은 1995년에 철수했으며, 서울 논현동의 기존 건물은 (주)아난티가 2016년 530억원에 매수해 현재 아난티 앳 강남(호텔)이 운영 중이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1991년 뉴욕에서 시작한 할리우드 영화 테마의 미국 레스토랑으로, 라스베이거스에서는 같은 이름의 리조트로도 개업한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.planethollywood.com/",
+  "entityLinks": {
+   "wikidata": "Q677634",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q677634",
+    "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9E%98%EB%8B%9B_%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Planet_Hollywood"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q677634",
+   "country": "미국",
+   "inception": "1991",
+   "headquarters": "올랜도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「플래닛 할리우드」 요약과 위키데이터 Q677634 팩트를 근거로 편집",
+  "founded": {
+   "date": "1991-10-22",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ }
+}

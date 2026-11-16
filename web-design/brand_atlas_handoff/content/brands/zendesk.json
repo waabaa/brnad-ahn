@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q15401349",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/zendesk-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "zendesk",
+  "urlSlug": "zendesk",
+  "name": "젠데스크",
+  "nameKo": "젠데스크",
+  "nameEn": "Zendesk",
+  "definition": "젠데스크(Zendesk)는 고객 지원, 영업, 그 밖의 고객 커뮤니케이션과 관련된 제품을 서비스형 소프트웨어(SaaS) 방식으로 제공하는 미국 기업이다. 본사는 캘리포니아주 샌프란시스코에 있다.",
+  "summary": "젠데스크(Zendesk)는 고객 지원, 영업, 그 밖의 고객 커뮤니케이션과 관련된 제품을 서비스형 소프트웨어(SaaS) 방식으로 제공하는 미국 기업이다. 본사는 캘리포니아주 샌프란시스코에 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "덴마크 코펜하겐에서 창업해 미국으로 옮겨 온 뒤, 고객 지원에서 영업과 메시징까지 고객 소통 전반으로 영역을 넓힌 SaaS 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 고객 지원 소프트웨어를 중심으로 영업과 그 밖의 고객 커뮤니케이션 제품을 제공하는 서비스형 소프트웨어 기업이다. 2007년에 설립되었고 본사는 캘리포니아주 샌프란시스코에 있으며 여러 나라에 사무실을 두고 있다. 한때 뉴욕 증권거래소에 상장되어 거래되었으나 Hellman & Friedman과 Permira에 의해 비공개 기업으로 전환되었다. 초기에는 스타트업 사이에서 입소문을 타고 확산되었고, 이후 고객 서비스에서 영업과 메시징 영역으로 사업을 넓혔다. 2018년에는 소셜 미디어, 라이브 챗, 이메일 등으로 들어오는 문의를 하나의 티켓 시스템으로 묶은 Zendesk Suite를 선보였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2007년 덴마크 코펜하겐에서 Morten Primdahl, Alexander Aghassipour, Mikkel Svane 세 친구가 창업했다. 이들은 Svane의 다락방에서 소프트웨어 개발을 시작했고, 가족을 부양하기 위해 컨설팅 일을 병행하며 자금을 직접 댔다. 제품은 2007년 가을에 출시되었고 몇 달 만에 약 10,000명의 체험 고객을 확보했다. 2008년 Twitter가 고객 불만 응대에 이 소프트웨어를 쓰기 시작하면서 도입이 빨라졌다. 투자자들이 미국 이전을 조건으로 내걸어 2009년 매사추세츠주 보스턴으로 옮겼고, 6개월 뒤 샌프란시스코로 다시 이전했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 제품은 고객 지원용 서비스형 소프트웨어이며, 2018년 소셜 미디어, 라이브 챗, 이메일 등의 문의를 하나의 티켓 시스템으로 묶은 Zendesk Suite를 내놓았다. 대기업용 엔터프라이즈 버전도 출시했다. 영업 분야에서는 영업 자동화 소프트웨어 개발사 Base를 인수했고, Base는 이후 Sell로 이름이 바뀌어 서드파티 앱용 Sell Marketplace가 만들어졌다. 2012년에는 서드파티 소프트웨어를 위한 첫 앱 마켓플레이스를 열었고, 2017년에는 고객을 답변으로 안내하는 AI 봇을 추가했다. 인수를 통해 라이브 챗 앱 Zopim, 분석 기업 BIME, 소셜 미디어 고객 소통 소프트웨어 Outbound.io도 확보했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 본사는 샌프란시스코에 있으며 여러 나라에 사무실을 두고 있다. 뉴욕 증권거래소에서 거래되던 회사는 Hellman & Friedman과 Permira에 의해 비공개 기업이 되었다. 2011년 무렵 고객의 절반이 미국 밖에 있었고, 아일랜드, 덴마크, 영국, 호주, 싱가포르 등에 사무실을 열며 해외로 확장했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "덴마크 코펜하겐에서 창업해 미국으로 옮겨 온 뒤, 고객 지원에서 영업과 메시징까지 고객 소통 전반으로 영역을 넓힌 SaaS 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.zendesk.com/",
+  "entityLinks": {
+   "wikidata": "Q15401349",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15401349",
+    "https://ko.wikipedia.org/wiki/%EC%A0%A0%EB%8D%B0%EC%8A%A4%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Zendesk"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q15401349",
+   "country": "미국",
+   "inception": "2007",
+   "headquarters": "샌프란시스코",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Zendesk」 본문과 위키데이터 Q15401349 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

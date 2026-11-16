@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q2874395",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/avis-budget-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "avis-budget-group",
+  "urlSlug": "avis-budget-group",
+  "name": "Avis Budget Group",
+  "nameKo": "",
+  "nameEn": "Avis Budget Group",
+  "definition": "Avis Budget Group은 미국 뉴저지주 Parsippany에 본사를 둔 자동차 렌털 지주회사이다. Avis Car Rental, Budget Rent a Car, Zipcar 등 여러 브랜드를 거느리고 있다.",
+  "summary": "Avis Budget Group은 미국 뉴저지주 Parsippany에 본사를 둔 자동차 렌털 지주회사이다. Avis Car Rental, Budget Rent a Car, Zipcar 등 여러 브랜드를 거느리고 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "Avis, Budget, Zipcar 등 렌터카와 카셰어링 브랜드를 한 지붕 아래 둔 미국의 지주회사이며, Cendant 분할 과정에서 차량 렌털 부문이 독립해 출범했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 미국 뉴저지주 Parsippany에 본사를 둔 자동차 렌털 지주회사이다. 미국의 3대 렌터카 지주회사 가운데 하나로 꼽힌다. 2021년 시장 점유율은 26%였으며, Hertz Global Holdings와 Enterprise Holdings 다음 순위였다. Avis Car Rental, Budget Rent a Car, Budget Truck Rental, Payless Car Rental, Zipcar를 자회사 브랜드로 두고 있다. 이와 함께 ACL Hire, Apex Car Rentals, AmicoBlu, France Cars, Maggiore Group, MoriniRent, TurisCar, TurisPrime 등 소규모 지역 브랜드도 운영한다. 2018년 기준 보유 차량은 600,000대가 넘었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cendant라는 회사명을 없애고 네 개의 회사로 분리하기로 결정한 뒤, Cendant의 차량 렌털 부문이 2006년 Avis Budget Group이 되었다. 2011년에는 독립 소유의 라이선스 회사였던 Avis Europe을 인수해 Avis와 Budget 브랜드를 전 세계적으로 다시 통합했다. 2012년 9월 5일에는 뉴질랜드의 Apex Car Rentals를 인수했다. 2013년 3월 14일에는 카셰어링 회사 Zipcar를 현금 약 US$500 million에 사들였다. 2015년 4월 9일에는 이탈리아 4위 차량 렌털 회사 Maggiore Group의 인수를 마쳤다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 브랜드는 Avis Car Rental, Budget Rent a Car, Budget Truck Rental, Payless Car Rental, Zipcar이다. 이 가운데 Zipcar는 카셰어링 회사로 2013년에 인수했다. 지역 브랜드로는 ACL Hire, Apex Car Rentals, AmicoBlu, France Cars, Maggiore Group, MoriniRent, TurisCar, TurisPrime을 운영한다. Apex Car Rentals는 뉴질랜드에서, Maggiore Group은 이탈리아에서 인수한 업체이다. 2011년 Avis Europe 인수로 Avis와 Budget 브랜드가 다시 하나로 합쳐졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "COVID-19 팬데믹 기간에 렌터카 수요가 늘면서 주가가 크게 올랐고, 2021년 11월에는 밈 주식이 되어 하루 만에 주가가 두 배가 된 적도 있다. 2021년 시장 점유율은 26%로 Hertz Global Holdings와 Enterprise Holdings에 이어 3위권이었다. 매출이 늘었음에도 연방 금리 상승과 중고차 가치 하락으로 2024년부터 주가는 하락하기 시작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Avis, Budget, Zipcar 등 렌터카와 카셰어링 브랜드를 한 지붕 아래 둔 미국의 지주회사이며, Cendant 분할 과정에서 차량 렌털 부문이 독립해 출범했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://avisbudgetgroup.com/",
+  "entityLinks": {
+   "wikidata": "Q2874395",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2874395",
+    "https://en.wikipedia.org/wiki/Avis_Budget_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2874395",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "Parsippany-Troy Hills",
+   "founders": [
+    "Henry Silverman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Avis Budget Group」 본문과 위키데이터 Q2874395 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

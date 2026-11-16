@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q667599",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/newell-brands-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "newell-brands",
+  "urlSlug": "newell-brands",
+  "name": "Newell Brands",
+  "nameKo": "",
+  "nameEn": "Newell Brands",
+  "definition": "Newell Brands는 미국의 소비재 및 상업용 제품 복합기업이다. 본사는 애틀랜타에 있으며 Rubbermaid, Coleman, Sharpie, Yankee Candle 등 여러 브랜드를 보유한다.",
+  "summary": "Newell Brands는 미국의 소비재 및 상업용 제품 복합기업이다. 본사는 애틀랜타에 있으며 Rubbermaid, Coleman, Sharpie, Yankee Candle 등 여러 브랜드를 보유한다.",
+  "industry": "홈·라이프스타일",
+  "domainSlug": "home-lifestyle",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "인수를 통해 필기구, 주방용품, 아웃도어, 유아용품, 향 제품 등 서로 다른 범주의 브랜드를 한데 모은 소비재 복합기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Newell Brands는 소비자용과 상업용 제품을 다루는 미국의 복합기업이다. 보관·폐기물 용기와 정리 용품, 물병, 아웃도어 용품, 필기구, 접착제, 유아용품, 조리기구와 소형 가전, 향 제품 등 폭넓은 범주에서 브랜드를 운영한다. Rubbermaid, Contigo, Coleman, Sharpie, Elmer's, Graco, Calphalon, Crock-Pot, Yankee Candle 등이 대표 브랜드이다. 회사는 1903년 Newell Manufacturing Company라는 이름으로 설립되어 인수를 거듭하며 사업 범위를 넓혔다. 1999년에는 Rubbermaid와 Graco 브랜드를 인수하고 사명을 Newell Rubbermaid로 바꿨다. 현재 전 세계 본사는 미국 애틀랜타에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Newell Manufacturing Company는 1903년 뉴욕주 Ogdensburg에서 Edgar Newell이 금속 커튼 봉 제조업체로 설립했다. 1916년 F. W. Woolworth 소매 체인이 도금 커튼 봉의 첫 고객이 되면서 제품이 전국적으로 유통되기 시작했고, 이는 대량 유통 전략의 출발점이 되었다. 1921년에는 일리노이주 Freeport의 Barnwell Mfg. Co.를 인수해 Western Newell Manufacturing Company로 이름을 바꿨다. 1965년 Daniel C. Ferguson이 사장에 올라 인수를 통한 성장 전략을 세웠고, 1972년 NASDAQ에 상장한 뒤 1979년 뉴욕증권거래소에 NWL 티커로 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품군은 Rubbermaid 보관·폐기물 용기와 정리·재사용 용기류, Contigo·Bubba 물병, Coleman 아웃도어 용품으로 구성된다. 필기구에는 Paper Mate, Parker, Sharpie, Expo, Prismacolor, Waterman 등이 있고 접착제로는 Elmer's와 Krazy Glue가 있다. 유아용품은 Graco, Baby Jogger, NUK, Aprica 등이고, 조리기구와 소형 가전은 Calphalon, Sunbeam, Rival, Crock-Pot, FoodSaver, Oster, Mr. Coffee 등이다. 향 제품 부문에는 Yankee Candle, Chesapeake Bay Candle, Millefiori Milano, WoodWick이 속한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 전 세계 본사는 애틀랜타에 있으며, 2016년 뉴저지주 Hoboken으로 옮겼다가 3년 뒤 다시 돌아왔다. 2018년에는 Pure Fishing을 뉴욕에 기반을 둔 사모펀드 Sycamore Partners에 약 US$1.3 billion에 매각했다. 영국에서는 Parker Pen 등의 공장을 폐쇄하고 이전한 일로, 뉴질랜드 오클랜드의 Sistema 공장에서는 코로나19 봉쇄 기간의 작업 환경 문제로 비판을 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인수를 통해 필기구, 주방용품, 아웃도어, 유아용품, 향 제품 등 서로 다른 범주의 브랜드를 한데 모은 소비재 복합기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.newellbrands.com/",
+  "entityLinks": {
+   "wikidata": "Q667599",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q667599",
+    "https://en.wikipedia.org/wiki/Newell_Brands"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q667599",
+   "country": "미국",
+   "inception": "1903",
+   "headquarters": "애틀랜타",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Newell Brands」 본문과 위키데이터 Q667599 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

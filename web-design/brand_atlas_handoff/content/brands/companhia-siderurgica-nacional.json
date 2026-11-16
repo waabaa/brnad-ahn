@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q400384",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/companhia-siderurgica-nacional-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "companhia-siderurgica-nacional",
+  "urlSlug": "companhia-siderurgica-nacional",
+  "name": "Companhia Siderúrgica Nacional",
+  "nameKo": "",
+  "nameEn": "Companhia Siderúrgica Nacional",
+  "definition": "Companhia Siderúrgica Nacional은 브라질 리우데자네이루에 본사를 둔 철강 기업이다. 브라질에서 가장 큰 완전 일관제철 업체이며 라틴아메리카에서도 조강 생산량 기준 최대 규모 업체에 속한다.",
+  "summary": "Companhia Siderúrgica Nacional은 브라질 리우데자네이루에 본사를 둔 철강 기업이다. 브라질에서 가장 큰 완전 일관제철 업체이며 라틴아메리카에서도 조강 생산량 기준 최대 규모 업체에 속한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "국영으로 출발해 1993년 민영화된 브라질의 일관제철 업체로, 아연도금·주석도금 제품 시장에서 높은 비중을 차지한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "브라질 최대의 완전 일관제철 업체로, 라틴아메리카에서도 조강 생산량 기준 최대 규모 업체에 속한다. 주력 공장은 리우데자네이루주 볼타레돈다 시에 있다. 슬래브, 열연·냉연 제품, 아연도금 및 주석도금 제품 등 폭넓은 철강 제품을 생산하며, 제품은 유통, 포장, 자동차, 가전, 건설 산업에서 쓰인다. 연간 조강 생산능력은 5.6 million tons, 압연 제품 생산능력은 5.1 million tons이다. 브라질에서 판매된 아연도금 강재의 약 49%를 차지했고, 2004년에는 브라질 주석도금 제품 판매의 약 98%를 차지했다. 세계적인 주석도금 제품 생산업체이며 자체 철광석 공급원도 보유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1941년 4월 9일 Getúlio Vargas 대통령 시기에 국영 기업으로 설립되었다. 미국과 브라질 정부의 합의(Washington Accords)에 따라, 제2차 세계대전 중 연합국에 철강을 공급하고 이후 브라질의 발전에 도움이 될 시설을 짓기 위한 것이었다. Presidente Vargas Steelworks는 1946년 Eurico Gaspar Dutra 대통령 시기에 가동을 시작했고, 처음에는 코크스, 선철 주물, 장척 제품을 생산했다. 1970년대에 두 차례 대규모 증설이 이뤄져 1974년에는 연간 조강 생산능력이 1.6 million tons로, 1977년에는 2.4 million tons로 늘었다. 1989년에는 다시 4.5 million tons로 확대했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "슬래브, 열연 및 냉연 제품, 아연도금 제품, 주석도금 제품 등 폭넓은 철강 제품을 생산한다. 제품은 유통, 포장, 자동차, 가전, 건설 산업에서 사용된다. 1996년 2월 이후 모든 생산은 잉곳 주조 대신 연속주조 공정으로 이루어지며, 이 방식은 에너지 사용과 금속 손실을 줄인다. 2004년 1월에는 이사회가 Casa de Pedra 철광석 광산의 생산 확대를 포함한 투자 계획을 승인했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1993년과 1994년 초에 열린 일련의 경매를 통해 민영화되었고, 브라질 정부는 보유하던 91%의 지분을 매각했다. 2001년 Blast Furnace #3와 Hot Strip Mill #2를 개조해 연간 생산능력을 조강 5.6 million tons, 압연 제품 5.1 million tons로 높였으며 현재도 같은 수준이다. 현재 최고경영자는 Benjamin Steinbruch이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국영으로 출발해 1993년 민영화된 브라질의 일관제철 업체로, 아연도금·주석도금 제품 시장에서 높은 비중을 차지한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.csn.com.br/",
+  "entityLinks": {
+   "wikidata": "Q400384",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q400384",
+    "https://en.wikipedia.org/wiki/Companhia_Sider%C3%BArgica_Nacional"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q400384",
+   "country": "브라질",
+   "inception": "1941",
+   "headquarters": "리우데자네이루",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Companhia Siderúrgica Nacional」 본문과 위키데이터 Q400384 팩트를 근거로 편집",
+  "founded": {
+   "date": "1941-04-09",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

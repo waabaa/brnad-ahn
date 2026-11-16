@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1142797",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/schroders-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "schroders",
+  "urlSlug": "schroders",
+  "name": "슈로더",
+  "nameKo": "슈로더",
+  "nameEn": "Schroders",
+  "definition": "슈로더(Schroders)는 영국 런던에 본사를 둔 자산 운용 회사이다. 1804년에 설립되었으며 런던 증권거래소에 상장되어 있고 FTSE 100 인덱스에 속해 있다.",
+  "summary": "슈로더(Schroders)는 영국 런던에 본사를 둔 자산 운용 회사이다. 1804년에 설립되었으며 런던 증권거래소에 상장되어 있고 FTSE 100 인덱스에 속해 있다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "독일 함부르크 출신 슈로더 가문이 2017년 기준 보통주의 47.93%를 보유한 영국 상장 자산 운용사이며, 투자은행에서 자산 운용 중심으로 사업을 옮겨 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "슈로더는 1804년에 설립된 영국 런던 본사의 자산 운용 회사이다. 런던 증권거래소에 상장되어 있으며 FTSE 100 인덱스에도 속해 있다. 2021년 3월 기준 관리 자산은 $ 9,240억으로 세계 30위권이며, 전 세계 32개의 사무실에서 5,000여 명의 직원을 고용하고 있다. 슈로더라는 이름은 독일 함부르크 출신으로 한자동맹 시절부터 이름을 떨친 슈로더 가문에서 유래했으며, 2017년 기준 슈로더 가문이 보통주의 47.93%를 보유하고 있다. 주식은 의결권이 있는 SDR.L과 의결권이 없는 SDRt.L 두 등급으로 나뉜다. 한국에는 1994년 서울 사무소를 개설했고 2001년 이를 법인화해 슈로더투자신탁운용을 설립했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "슈로더의 역사는 1804년으로 거슬러 올라간다. 독일 함부르크 출신 가문의 일원으로 런던에 정착한 J. Henry Schroder가 19세기 초 현재의 슈로더를 설립했다. 요한 하인리히 슈로더(Johann Heinrich Schröder)는 형제와 함께 런던의 한 회사의 파트너가 되었고, 이를 기반으로 1818년 J. Henry Schroder & Co.라는 투자은행을 설립했다. 1923년에는 뉴욕에서 J Henry Schroder Banking Corporation('Schrobanko')이라는 이름으로 상업은행 분야에 진출했다. 1959년 런던 증권거래소에 상장했고, 1962년에는 업계 최대 증권발행회사였던 Helbert, Wagg & Co를 인수합병했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "슈로더의 사업은 상업은행·투자은행에서 자산 운용 중심으로 변해 왔다. 1986년 미국 상업은행 부문인 Schrobanko를 매각하고 뉴욕의 중견 투자은행 Wertheim & Co의 지분 50%를 인수해, 뉴욕사무소가 런던사무소와 유사하게 투자은행업에 집중하게 되었다. 1980년대에는 영국 정부의 민영화 작업에서 핵심적 역할을 하며 크게 성장했다. 2000년에는 기업의 투자은행 부문을 £13억에 Citigroup에 매각했다. 현재는 자산 운용 회사로 분류된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 3월 기준 관리 자산은 $ 9,240억으로 세계 30위권이며, 32개의 사무실에 5,000여 명의 직원을 두고 있다. 2013년에는 경쟁 자산운용사였던 Cazenove를 £4.24억에 합병했고, 2020년에는 약 £30억의 자산을 관리하던 Sandaire Investment Office를 인수했다. 2017년 기준 슈로더 가문이 보통주의 47.93%를 보유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 함부르크 출신 슈로더 가문이 2017년 기준 보통주의 47.93%를 보유한 영국 상장 자산 운용사이며, 투자은행에서 자산 운용 중심으로 사업을 옮겨 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.schroders.com",
+  "entityLinks": {
+   "wikidata": "Q1142797",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1142797",
+    "https://ko.wikipedia.org/wiki/%EC%8A%88%EB%A1%9C%EB%8D%94",
+    "https://en.wikipedia.org/wiki/Schroders"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1142797",
+   "country": "영국",
+   "inception": "1804",
+   "headquarters": "런던",
+   "founders": [
+    "J. Henry Schroder"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「슈로더」 요약과 위키데이터 Q1142797 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

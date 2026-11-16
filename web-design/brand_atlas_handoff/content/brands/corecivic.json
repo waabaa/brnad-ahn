@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1135278",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/corecivic-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "corecivic",
+  "urlSlug": "corecivic",
+  "name": "CoreCivic",
+  "nameKo": "",
+  "nameEn": "CoreCivic",
+  "definition": "CoreCivic은 미국의 민간 교정시설 운영 기업이다. 교도소, 구치소, 구금 시설을 위탁받아 운영하는 미국 최대 규모의 영리 계약업체 가운데 하나이다.",
+  "summary": "CoreCivic은 미국의 민간 교정시설 운영 기업이다. 교도소, 구치소, 구금 시설을 위탁받아 운영하는 미국 최대 규모의 영리 계약업체 가운데 하나이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "Corrections Corporation of America에서 2016년 사명을 바꾼 미국 대형 민영 교정·구금 기업으로, 교도소 산업을 둘러싼 논란 속에서 새 이름을 택했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CoreCivic은 미국의 민간 교정시설 운영 기업으로, 영리 목적의 교도소·구치소·구금 시설 계약업체 가운데 미국 최대 규모에 속한다. 2024년 기준 미국에서 두 번째로 큰 민간 교정 기업이며, 파트너십 방식의 교정·구금·출소자 사회복귀 시설을 가장 많이 소유한 업체이다. 본사는 테네시주 브렌트우드에 있고, 주 및 연방 교정·구금 시설 82곳을 소유하거나 운영한다. 투자 회수 운동, FBI 수사, 소송의 대상이 되어 왔으며, 일부 시설에서 폭행, 성폭행, 살인, 강제 노동 등 민권 침해 의혹이 제기되었다. 2025년에는 트럼프 행정부의 이민자 100,000명 수용 계획에 따라 ICE와의 신규 계약을 기대했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "CoreCivic의 전신인 Corrections Corporation of America(CCA)는 1983년 1월 28일 테네시주 내슈빌에서 Thomas W. Beasley, Robert Crants, T. Don Hutto가 설립했다. 1980년대 테네시 교도소 위기 속에서 출범했는데, 당시 연방 판사는 주 교도소가 사람이 살기에 부적합하다고 판결했다. 초기 투자는 Hospital Corporation of America 공동 창업자 Jack C. Massey에게서 나왔고, 상장 전에는 Vanderbilt University Law School과 Tennessee Valley Authority도 초기 투자자로 참여했다. 1990년에는 루이지애나주 Winn Parish에 첫 중간경비 민영 교도소인 Winn Correctional Center를 열었다. 2016년에 사명을 CoreCivic으로 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "CoreCivic은 주 및 연방 교정·구금 시설 82곳을 소유하거나 운영한다. 사업 영역은 교도소, 구치소, 구금 시설과 파트너십 방식의 출소자 사회복귀 시설을 아우른다. 초기에는 이민귀화국(INS)과의 계약에 따른 구금 시설과 Tall Trees 소년 시설 운영을 맡았다. 1992년에는 U.S. Marshals Service를 위해 운영하는 Leavenworth Detention Center를 열었는데, 이는 연방 기관과 직접 계약한 최초의 최대경비 민영 교도소였다. 같은 해 영국에서는 Mowlem, Sir Robert McAlpine과 UK Detention Services를 만들고 Blackenhurst 교도소를 열었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 증권거래위원회(SEC)에 등록된 기관 소유주와 주주는 492곳이며, 최대 주주에는 BlackRock, Inc., Vanguard Group Inc, River Road Asset Management, LLC, Cooper Creek Partners Management 등이 있다. 2025년 총매출은 전년 대비 13% 증가했다. 2026년 1월 1일에는 Patrick Swindle이 Damon Hininger의 뒤를 이어 사장 겸 CEO가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Corrections Corporation of America에서 2016년 사명을 바꾼 미국 대형 민영 교정·구금 기업으로, 교도소 산업을 둘러싼 논란 속에서 새 이름을 택했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.corecivic.com/",
+  "entityLinks": {
+   "wikidata": "Q1135278",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1135278",
+    "https://en.wikipedia.org/wiki/CoreCivic"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1135278",
+   "country": "미국",
+   "inception": "1983",
+   "headquarters": "내슈빌",
+   "founders": [
+    "Thomas W. Beasley"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「CoreCivic」 본문과 위키데이터 Q1135278 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

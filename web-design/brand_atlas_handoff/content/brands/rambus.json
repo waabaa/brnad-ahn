@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1196745",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/rambus-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rambus",
+  "urlSlug": "rambus",
+  "name": "램버스",
+  "nameKo": "램버스",
+  "nameEn": "Rambus",
+  "definition": "램버스(Rambus)는 디지털 회로 제품에 쓰이는 칩 인터페이스 기술과 구조를 설계·개발하고 라이선스를 부여하는 미국의 기술 기업이다. 1990년에 설립되었으며 RDRAM을 발명했다.",
+  "summary": "램버스(Rambus)는 디지털 회로 제품에 쓰이는 칩 인터페이스 기술과 구조를 설계·개발하고 라이선스를 부여하는 미국의 기술 기업이다. 1990년에 설립되었으며 RDRAM을 발명했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "칩 인터페이스 기술과 특허를 라이선스해 매출을 얻는 기업으로, RDRAM을 발명했고 메모리 제조업체들과의 특허 소송으로 잘 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "램버스는 칩 인터페이스 기술과 구조를 설계하고 개발하며 이를 라이선스하는 미국의 기술 기업이다. 연간 매출의 대부분을 고객에게 칩 인터페이스용 기술과 특허 라이선스를 부여해 얻는다. 1990년대에는 DRAM 전자 부품, 프로세서, 메모리 컨트롤러에 통합되는 초고속 칩 간 인터페이스 기술로 기존 DRAM보다 10배 이상 빠른 성능을 달성했다. RDRAM을 발명했으며 이후 XDR DRAM 기술도 개발해 라이선스했다. 또한 DDR-SDRAM 메모리 도입 이후의 지식 재산권 기반 소송으로 잘 알려져 있다. 월스트리트 저널은 램버스의 역사를 수많은 칩 제조업체와의 특허 전쟁을 포함한 소송으로 점철되어 왔다고 평했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "램버스는 1990년 3월 전자 및 컴퓨터 공학 엔지니어인 Mike Farmwald와 마크 앨런 호로비츠가 설립했다. 초기 기관 투자자에는 클라이너 퍼킨스 코필드 앤 바이어스, 메릴린치, 모어 데비도 벤처스, 골드만삭스가 포함되어 있었다. 1990년 캘리포니아주 법인으로 출발했으며, 1997년 나스닥에 티커 심볼 RMBS로 기업공개를 하기 전 델라웨어주 법인으로 전환했다. 1990년대에는 시스템 설계자들이 직면한 메모리 병목 현상을 해결한 600 MHz 인터페이스 기술을 발명했고, 이 기술은 주요 DRAM, ASIC, PC 주변기기 칩셋 공급업체들에게 널리 라이선스되었다. 라이선스 보유자에는 인텔, 마이크로소프트, 닌텐도, IBM 등이 포함되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "램버스의 RDRAM 기술은 닌텐도 64, 인텔의 PC용 시스템 메모리 칩셋, 크리에이티브 랩스의 PC용 그래픽스 블래스터 3D 그래픽 카드 등의 제품에 통합되었다. XDR DRAM 기술도 개발해 라이선스했으며, 이 기술은 특히 플레이스테이션 3에서 사용되었고 이후 XDR2 DRAM으로 이어졌다. 2015년에는 DDR4 레지스터 클락 드라이버와 데이터 버퍼를 포함한 RB26 DDR4 RDIMM과 RB26 DDR4 LRDIMM 서버 메모리 칩셋을 발표했다. 2019년에는 램버스의 HBM2 PHY 및 메모리 컨트롤러 IP가 Inflame Technology의 AI 학습 칩에 사용될 것이라고 발표되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 Cryptography Research를 인수해 콘텐츠 보호 및 보안으로 반도체 라이선스 포트폴리오를 확장했고, 2016년에는 Inphi의 메모리 인터커넥트 사업부와 Semtech의 Snowbush IP를 인수했다. 2021년에는 AnalogX와 PLDA를 인수했고, 2022년 5월에는 Hardent 인수 소식이 전해졌다. 2023년 7월에는 SerDes 및 메모리 인터페이스 PHY IP 사업을 Cadence Design Systems에 1억 1,000만 달러에 매각했으며, 같은 해 9월 인수 완료가 발표되었다. 2019년에는 본사를 서니베일에서 캘리포니아주 노스 산호세로 이전한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "칩 인터페이스 기술과 특허를 라이선스해 매출을 얻는 기업으로, RDRAM을 발명했고 메모리 제조업체들과의 특허 소송으로 잘 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rambus.com/",
+  "entityLinks": {
+   "wikidata": "Q1196745",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1196745",
+    "https://ko.wikipedia.org/wiki/%EB%9E%A8%EB%B2%84%EC%8A%A4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Rambus"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1196745",
+   "country": "미국",
+   "inception": "1990",
+   "headquarters": "서니베일",
+   "founders": [
+    "Mike Farmwald"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「램버스 (기업)」 요약과 위키데이터 Q1196745 팩트를 근거로 편집",
+  "founded": {
+   "date": "1990-03",
+   "precision": "month",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

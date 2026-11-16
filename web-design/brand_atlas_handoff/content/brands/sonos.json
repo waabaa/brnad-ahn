@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3492619",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sonos-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sonos",
+  "urlSlug": "sonos",
+  "name": "소노스",
+  "nameKo": "소노스",
+  "nameEn": "Sonos",
+  "definition": "소노스(Sonos)는 미국 캘리포니아주 샌타바버라에 본사를 둔 오디오 장비 제조업체이다. 2002년에 설립되었으며 여러 음악 서비스 및 음성 도우미와 함께 작동하는 제품을 만든다.",
+  "summary": "소노스(Sonos)는 미국 캘리포니아주 샌타바버라에 본사를 둔 오디오 장비 제조업체이다. 2002년에 설립되었으며 여러 음악 서비스 및 음성 도우미와 함께 작동하는 제품을 만든다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "여러 음악 서비스와 세 가지 주요 음성 도우미에 대응하는 제품을 만드는 미국 오디오 장비 제조업체이다. 개인 정보 보호 중심의 AI 음성 플랫폼 Snips SAS를 인수한 이력이 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "소노스는 미국 캘리포니아주 샌타바버라에 본사를 둔 미국 오디오 장비 제조업체이다. 2002년에 설립된 회사이며 정식 명칭은 Sonos, Inc.이다. 소노스는 음악 서비스를 제공하는 100개 이상의 회사와 파트너십을 맺었으며, Pandora, iHeartRadio, SiriusXM, Apple Music, Spotify, TIDAL, MOG, QQ Music, YouTube Music, Amazon Music이 여기에 포함된다. 제품은 Amazon Alexa, Google Assistant, Siri의 세 가지 주요 음성 도우미와 함께 작동한다. 다만 Siri는 현재 Apple 홈 앱을 통해서만 지원된다. Patrick Spence는 2017년부터 CEO를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "소노스는 미국에서 2002년 John MacFarlane, Craig Shelburne, Tom Cullen, Trung Mai에 의해 설립되었다. 본사는 미국 캘리포니아주 샌타바버라에 두고 있다. 이후 Pandora, iHeartRadio, SiriusXM 등 음악 서비스를 제공하는 100개 이상의 회사와 파트너십을 맺었다. Patrick Spence는 2017년부터 CEO를 맡고 있다. 2019년에는 연결된 장치를 위한 개인 정보 보호 중심의 AI 음성 플랫폼인 Snips SAS를 인수했으며, 음악 전용 비서를 장치에 도입하는 것이 목표였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소노스의 사업은 오디오 장비 제조이다. 제품은 Amazon Alexa, Google Assistant, Siri의 세 가지 주요 음성 도우미와 함께 작동한다. 다만 Siri는 현재 Apple 홈 앱을 통해서만 지원된다. 이 회사는 Pandora, iHeartRadio, SiriusXM, Apple Music, Spotify, TIDAL, MOG, QQ Music, YouTube Music, Amazon Music을 포함한 음악 서비스 업체들과 파트너십을 맺었다. 2019년 인수한 Snips SAS는 연결된 장치를 위한 개인 정보 보호 중심의 AI 음성 플랫폼이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Patrick Spence가 2017년부터 CEO를 맡고 있다. 본사는 미국 캘리포니아주 샌타바버라에 있다. 2019년 Snips SAS를 인수해 음악 전용 비서를 장치에 도입하려는 목표를 세웠다. 음악 서비스를 제공하는 100개 이상의 회사와 파트너십을 맺고 있으며, Siri는 현재 Apple 홈 앱을 통해서만 지원된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "여러 음악 서비스와 세 가지 주요 음성 도우미에 대응하는 제품을 만드는 미국 오디오 장비 제조업체이다. 개인 정보 보호 중심의 AI 음성 플랫폼 Snips SAS를 인수한 이력이 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sonos.com/",
+  "entityLinks": {
+   "wikidata": "Q3492619",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3492619",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%85%B8%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Sonos"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3492619",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "샌타바버라",
+   "founders": [
+    "John MacFarlane"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「소노스」 요약과 위키데이터 Q3492619 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q24204571",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "signature-bank",
+  "urlSlug": "signature-bank",
+  "name": "시그니처 은행",
+  "nameKo": "시그니처 은행",
+  "nameEn": "Signature Bank",
+  "definition": "시그니처 은행(Signature Bank)은 뉴욕시에 본사를 두었던 미국의 종합 서비스 상업은행이다. 2001년 설립되어 2023년 3월 12일 뉴욕주 은행 관계자들에 의해 폐쇄되었다.",
+  "summary": "시그니처 은행(Signature Bank)은 뉴욕시에 본사를 두었던 미국의 종합 서비스 상업은행이다. 2001년 설립되어 2023년 3월 12일 뉴욕주 은행 관계자들에 의해 폐쇄되었다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "부유한 고객과의 개인적인 관계에 초점을 맞추고 2018년 암호화폐 산업에 진출했다가 2023년 3월 폐쇄된 뉴욕의 상업은행이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시그니처 은행은 뉴욕시에 본사를 두고 뉴욕, 코네티컷, 캘리포니아, 네바다, 노스캐롤라이나주에 40개의 개인 고객 사무소를 운영한 미국의 종합 서비스 상업은행이었다. 은행 상품 외에도 상업용 부동산, 사모 펀드, 모기지 서비스, 벤처 뱅킹 등 산업에 특화된 서비스를 제공했다. 부유한 고객에게 초점을 맞추고 그들과 개인적인 관계를 구축했다. 대부분의 역사 동안 뉴욕시 지역에만 사무실이 있었다. 2022년 말 기준 총 자산은 1,104억 달러, 예금은 826억 달러를 기록했다. SVB가 파산한 지 이틀 뒤인 2023년 3월 12일 뉴욕주 은행 관계자들이 은행을 폐쇄했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2001년 HSBC가 뉴욕공화국국립은행(Republic National Bank of New York)을 인수한 뒤, 그 전직 임원 및 직원들이 시그니처 은행을 설립했다. 부유한 고객에게 초점을 맞춰 개인적인 관계를 구축했고, 대부분의 역사 동안 뉴욕시 지역에만 사무실을 두었다. 2010년대 후반에 들어 서비스와 지리적 범위를 확장하기 시작했다. 2018년에 암호화폐 산업에 진출하기로 결정해 가장 주목을 받았다. 2021년까지 암호화폐 사업은 은행 예금의 30%를 차지하는 규모에 이르렀다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "뉴욕, 코네티컷, 캘리포니아, 네바다, 노스캐롤라이나주의 개인 고객 사무소를 통해 은행 상품을 제공한 종합 서비스 상업은행이었다. 은행 상품 외에도 국내 전문 기업을 통해 상업용 부동산, 사모 펀드, 모기지 서비스, 벤처 뱅킹 등 산업에 특화된 서비스를 제공했다. 은행 자회사는 장비 금융 및 투자 서비스를 제공했다. 2018년부터는 암호화폐 산업에 진출해 관련 사업을 운영했다. 2022년 말 기준 총 자산은 1,104억 달러, 예금은 826억 달러였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 3월 12일 뉴욕주 은행 관계자들이 은행을 폐쇄했으며, 이는 미국 역사상 세 번째로 큰 은행 실패였다. 3월 19일 FDIC는 브리지 은행, 예금 대부분, 40개 지점을 New York Community Bancorp에 매각해 Flagstar Bank 자회사에 흡수시켰다. 디지털자산 은행 예금 40억 달러와 대출 600억 달러는 이 거래에서 제외되었다. 폐쇄 당시 예금의 89.3%가 무보험 예금이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "부유한 고객과의 개인적인 관계에 초점을 맞추고 2018년 암호화폐 산업에 진출했다가 2023년 3월 폐쇄된 뉴욕의 상업은행이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.signatureny.com",
+  "entityLinks": {
+   "wikidata": "Q24204571",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24204571",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98_%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Signature_Bank"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q24204571",
+   "country": "미국",
+   "inception": "2001",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「시그니처 은행」 요약과 위키데이터 Q24204571 팩트를 근거로 편집",
+  "founded": {
+   "date": "2001-05-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ }
+}

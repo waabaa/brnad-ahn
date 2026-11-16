@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1587129",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/lsi-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lsi-corporation",
+  "urlSlug": "lsi-corporation",
+  "name": "LSI 코퍼레이션",
+  "nameKo": "LSI 코퍼레이션",
+  "nameEn": "LSI Corporation",
+  "definition": "LSI 코퍼레이션(LSI Corporation)은 미국의 ASIC 및 EDA 기업이다. 데이터센터, 이동통신망, 클라이언트 컴퓨팅에서 스토리지와 네트워킹을 가속하는 반도체와 소프트웨어를 설계해 판매했다.",
+  "summary": "LSI 코퍼레이션(LSI Corporation)은 미국의 ASIC 및 EDA 기업이다. 데이터센터, 이동통신망, 클라이언트 컴퓨팅에서 스토리지와 네트워킹을 가속하는 반도체와 소프트웨어를 설계해 판매했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "ASIC과 EDA를 함께 다루며 스토리지·네트워킹 반도체를 설계한 기업으로, 현재는 Broadcom에 속한 미국 반도체 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "LSI Logic Corporation으로 출발한 이 회사는 ASIC과 EDA 분야에서 반도체와 소프트웨어를 설계해 판매한 미국 기업이다. 제품은 데이터센터, 이동통신망, 클라이언트 컴퓨팅 환경에서 스토리지와 네트워킹을 가속하는 데 쓰였다. 사명의 LSI는 Large Scale Integration을 가리킨다. 2007년 4월 Agere Systems와 합병하면서 사명을 LSI Corporation으로 바꿨다. 2014년 5월 6일 Avago Technologies에 인수되었으며, Avago Technologies는 현재 Broadcom Inc.로 불린다. 본사 소재지는 밀피타스이며, 현재 모기업은 Broadcom으로 기록되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "LSI Logic Corporation은 1980년 11월 Wilfred J. Corrigan이 법인으로 설립했고, 1981년 초 캘리포니아 산타클라라의 임차 시설에서 영업을 시작했다. Corrigan은 공동 창업자로 Bill O'Meara, Rob Walker, Mitchell Mick Bohn을 영입했다. 초기 계획은 마스터슬라이스 방식의 CMOS 게이트 어레이 제품군이었다. 1983년 5월 13일 Nasdaq에 상장했고, 1984년에는 일본 계열사 Nihon LSI Logic Corporation과 영국 자회사 LSI Logic Ltd.를 세웠다. 1985년에는 Kawasaki Steel과 합작으로 Nihon Semiconductor, Inc.를 만들어 일본 쓰쿠바에 웨이퍼 공장을 짓기로 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기에는 CMOS 게이트 어레이를 중심으로 했고, 고객에게 소프트웨어를 함께 제공한 점이 다른 ASIC 업체와 달랐다. 첫 대화형 CAD 시스템은 LSI Design System(LDS)이었고, 1982년부터 자체 CAD 도구 개발에 들어갔다. 1987년 12월 MIPS Computer Systems로부터 R2000과 R3000 프로세서의 제조 권리를 라이선스받았고, 1988년 3월에는 SUN Microsystems의 라이선스로 SPARC RISC 마이크로프로세서를 제조·판매하기로 했다. 1988년 10월에는 PC 그래픽 보드 업체 Video Seven Inc.의 지배 지분을 인수했다. 1992년 7월에는 ASIC 설계 흐름의 일부로 CoreWare 서브시스템을 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 4월 Agere Systems와 합병해 LSI Corporation으로 사명을 바꿨다. 2014년 5월 6일 Avago Technologies에 인수되었고, Avago Technologies는 현재 Broadcom Inc.로 불린다. 위키데이터는 본사를 밀피타스, 모기업을 Broadcom으로 기록한다. 인수 이후에는 독립 기업이 아니라 Broadcom 소속으로 기록된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "ASIC과 EDA를 함께 다루며 스토리지·네트워킹 반도체를 설계한 기업으로, 현재는 Broadcom에 속한 미국 반도체 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lsi.com/",
+  "entityLinks": {
+   "wikidata": "Q1587129",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1587129",
+    "https://ko.wikipedia.org/wiki/LSI_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/LSI_Logic"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1587129",
+   "country": "미국",
+   "inception": "1981",
+   "headquarters": "밀피타스",
+   "founders": [],
+   "parent": "Broadcom",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「LSI Logic」 본문과 위키데이터 Q1587129 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

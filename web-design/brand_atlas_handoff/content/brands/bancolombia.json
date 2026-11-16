@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q806206",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bancolombia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bancolombia",
+  "urlSlug": "bancolombia",
+  "name": "방콜롬비아",
+  "nameKo": "방콜롬비아",
+  "nameEn": "Bancolombia",
+  "definition": "방콜롬비아(Bancolombia)는 콜롬비아, 파나마, 푸에르토리코에서 금융 상품과 서비스를 제공하는 종합 금융기관이다. 1875년 메데인에서 설립되었으며 본사는 메데인에 있다.",
+  "summary": "방콜롬비아(Bancolombia)는 콜롬비아, 파나마, 푸에르토리코에서 금융 상품과 서비스를 제공하는 종합 금융기관이다. 1875년 메데인에서 설립되었으며 본사는 메데인에 있다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "1875년 메데인에서 출발한 콜롬비아의 종합 금융기관으로, 1995년 뉴욕증권거래소에서 거래된 최초의 콜롬비아 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "방콜롬비아는 콜롬비아, 파나마, 푸에르토리코에서 종합 금융 서비스를 제공하는 은행이며, 과거 명칭은 Banco de Colombia이다. 콜롬비아 주가지수 COLCAP에 포함된 은행 관련 기업 여섯 곳 중 하나이다. 사업은 콜롬비아 은행업, 엘살바도르 은행업, 리스, 신탁, 투자, 중개, 역외, 보험과 그 밖의 기타 부문으로 이루어진 아홉 개 부문으로 운영된다. 2023년 12월 31일 기준 연결 지점망은 938개 사무소였고, 2025년 12월 31일 기준 고객은 16,297,225명이었다. 1929년에는 Bolsa de Bogotá에서 거래를 시작했다. 1995년에는 뉴욕증권거래소에서 거래된 최초의 콜롬비아 기업이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "방콜롬비아는 1875년 1월 29일 콜롬비아 메데인에서 Banco de Colombia라는 이름으로 설립되었다. 1929년 Bolsa de Bogotá에서 거래를 시작했고, 1995년에는 뉴욕증권거래소에서 거래된 최초의 콜롬비아 기업이 되었다. 1983년 Grupo Grancolombiano 위기가 발생하자 정부는 Banco de Colombia를 국유화했고, 이 은행은 1994년까지 국가 기관으로 운영되었다. 1998년 Banco de Colombia와 Banco Industrial Colombiano(BIC)가 통합되어 Bancolombia가 탄생했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "방콜롬비아의 사업은 아홉 개 부문으로 구성된다. 콜롬비아 은행업(Banking Colombia), 엘살바도르 은행업(Banking El Salvador), 리스(Leasing), 신탁(Trust), 투자(Investment), 중개(Brokerage), 역외(Off Shore), 보험(Insurance)과 그 밖의 기타 부문이다. 이 은행은 콜롬비아, 파나마, 푸에르토리코에서 금융 상품과 서비스를 제공한다. 2013년에는 HSBC Bank Panama의 사업을 인수했으며, 이 법인은 Banistmo로 이름이 바뀌었다. 2023년 12월 31일 기준 연결 지점망은 938개 사무소로 구성되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 Conavi, Corfinsura와 합병해 Grupo Bancolombia를 만들었고, 2021년에는 Grupo Bancolombia에 속한 모든 법인과 함께 기업 이미지를 새롭게 했다. 2025년 방콜롬비아는 재편의 일환으로 Grupo Cibest 설립을 발표했으며, Grupo Cibest가 Grupo Bancolombia를 대체하는 새 지배회사가 될 예정이다. 2025년 12월 31일 기준 고객은 16,297,225명이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1875년 메데인에서 출발한 콜롬비아의 종합 금융기관으로, 1995년 뉴욕증권거래소에서 거래된 최초의 콜롬비아 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.grupobancolombia.com/",
+  "entityLinks": {
+   "wikidata": "Q806206",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q806206",
+    "https://ko.wikipedia.org/wiki/%EB%B0%A9%EC%BD%9C%EB%A1%AC%EB%B9%84%EC%95%84",
+    "https://en.wikipedia.org/wiki/Bancolombia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q806206",
+   "country": "콜롬비아",
+   "inception": "1875",
+   "headquarters": "메데인",
+   "founders": [],
+   "parent": "Grupo Sura",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Bancolombia」 본문과 위키데이터 Q806206 팩트를 근거로 편집",
+  "founded": {
+   "date": "1875-01",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

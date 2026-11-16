@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1508234",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/safeway-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "safeway",
+  "urlSlug": "safeway",
+  "name": "세이프웨이",
+  "nameKo": "세이프웨이",
+  "nameEn": "Safeway",
+  "definition": "세이프웨이(Safeway)는 미국의 슈퍼마켓 체인이다. 식료품과 일반 상품을 판매하며 베이커리, 델리, 꽃, 약국 같은 전문 매장과 스타벅스 커피숍, 주유소를 함께 운영한다.",
+  "summary": "세이프웨이(Safeway)는 미국의 슈퍼마켓 체인이다. 식료품과 일반 상품을 판매하며 베이커리, 델리, 꽃, 약국 같은 전문 매장과 스타벅스 커피숍, 주유소를 함께 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "외상 없는 현금 거래라는 안전한 방법에서 이름을 따온 미국 서부 기반의 슈퍼마켓 체인으로, 현재는 Albertsons의 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "세이프웨이는 식료품과 일반 상품을 제공하는 미국의 슈퍼마켓 체인이다. 매장에는 베이커리, 델리카트슨, 꽃, 약국 등 여러 전문 코너가 있으며 스타벅스 커피숍과 차량 주유소도 갖추고 있다. 주요 영업 기반은 미국 서부이고, 동부 해안의 중부 대서양 지역에도 일부 매장이 있다. 2015년 1월 Cerberus Capital Management이 이끄는 사모펀드 투자자들에게 인수된 뒤 Albertsons의 자회사가 되었다. 본사는 캘리포니아주 플레전턴에 있다. 1969년 당시에는 미국 서부에서 가장 큰 식료품 체인이었고, 이 시기에 Black Panther Party와 United Farm Workers가 각각 불매운동을 벌였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Marion Barton Skaggs는 이미 식료품 사업 경험이 있었고, 1921년 오리건주 포틀랜드로 옮겨 식료품 점포 네 곳을 세웠다. 점포망이 빠르게 커지자 형제 다섯 명이 사업에 합류해 도왔다. 1926년까지 10개 주에 가족 성을 붙인 428개 점포를 열었다. 그는 자신보다 오래 존속할 기업은 자기 이름을 달지 않아야 한다고 보고 회사를 Safeway, Inc.로 설립했다. 1926년 7월 1일 Skaggs United Stores of Idaho와 Skaggs Cash Stores of California의 673개 점포와 합병했고, Skaggs가 최고경영자가 되었으며 2년 뒤 뉴욕증권거래소에 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "세이프웨이는 식료품과 일반 상품을 판매하며, 매장 안에 베이커리, 델리카트슨, 꽃, 약국 등 전문 코너와 스타벅스 커피숍을 둔다. 별도로 차량 주유소도 운영한다. 1930년대에는 농산물의 파운드 단위 가격 표시, 부패하기 쉬운 식품의 판매 기한 표기, 영양 표시, 초기 형태의 주차장을 도입했다. 이름은 외상 없이 현금으로만 거래하는 방식에서 나왔으며, 고객이 외상으로 빚지지 않고 식품을 살 수 있는 안전한 방법이라는 뜻을 담았다. 초기 구호는 Drive the Safeway. Buy the Safeway였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "세이프웨이는 Albertsons의 자회사이다. 2015년 1월 Cerberus Capital Management이 이끄는 사모펀드 투자자들이 인수했다. 본사는 1996년 이전한 캘리포니아주 플레전턴에 있다. 주요 영업 기반은 미국 서부이며 동부 해안의 중부 대서양 지역에도 일부 매장이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "외상 없는 현금 거래라는 안전한 방법에서 이름을 따온 미국 서부 기반의 슈퍼마켓 체인으로, 현재는 Albertsons의 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.safeway.com/",
+  "entityLinks": {
+   "wikidata": "Q1508234",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1508234",
+    "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%9D%B4%ED%94%84%EC%9B%A8%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Safeway"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1508234",
+   "country": "미국",
+   "inception": "1915",
+   "headquarters": "플레전턴",
+   "founders": [
+    "Marion Barton Skaggs"
+   ],
+   "parent": "케르베로스 캐피털 매니지먼트",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Safeway」 본문과 위키데이터 Q1508234 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

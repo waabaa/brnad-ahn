@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q7876533",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/ubiquiti-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ubiquiti",
+  "urlSlug": "ubiquiti",
+  "name": "Ubiquiti",
+  "nameKo": "",
+  "nameEn": "Ubiquiti",
+  "definition": "Ubiquiti는 2003년 미국 캘리포니아주 새너제이에서 설립된 기술 기업이다. 기업과 가정을 위한 무선·유선 데이터 통신 제품을 여러 브랜드명으로 제조·판매한다.",
+  "summary": "Ubiquiti는 2003년 미국 캘리포니아주 새너제이에서 설립된 기술 기업이다. 기업과 가정을 위한 무선·유선 데이터 통신 제품을 여러 브랜드명으로 제조·판매한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "UniFi를 중심으로 가정부터 기업, 인터넷 서비스 제공업체까지 아우르는 네트워크 장비와 자체 컨트롤러 소프트웨어를 함께 제공하는 미국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ubiquiti Inc.는 이전 명칭이 Ubiquiti Networks, Inc.인 미국 기술 기업이다. 현재 본사는 미국 뉴욕시에 있다. 기업과 가정을 위한 무선 데이터 통신 제품과 유선 제품을 여러 브랜드명 아래 제조해 판매하는 회사이다. 가장 잘 알려진 제품군은 UniFi로, 가정·프로슈머·기업용 유무선 네트워킹과 IP 카메라, 출입 통제 시스템, VoIP 전화기를 아우른다. 이 밖에 인터넷 서비스 제공업체를 위한 UISP, 네트워크 간 점대점·점대다점 링크를 만드는 airMAX 등 여러 제품군을 운영한다. 접속된 기기를 한 곳에서 설정하고 관리하는 소프트웨어 컨트롤러도 직접 개발하며, 2011년 10월 13일 기업공개(IPO)를 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 2003년 미국 캘리포니아주 새너제이에서 설립되었으며, 창업자는 Robert J. Pera이다. 첫 제품군은 \"Super Range\" 미니 PCI 무선 카드 시리즈였고, 이후 다른 무선 제품이 뒤를 이었다. Xtreme Range(XR) 카드는 비표준 IEEE 802.11 대역에서 동작해 2.4 GHz와 5.8 GHz 대역의 혼잡 영향을 줄였다. 2007년 8월 이탈리아 아마추어 무선사 그룹이 XR5 카드 두 장과 35 dBi 접시 안테나 한 쌍으로 5.8 GHz 대역 점대점 링크 거리 세계 기록인 304 km를 달성했다. 2011년 10월 13일 기업공개를 했으며, 주당 15달러에 7.04 million주를 발행해 30.5 million 달러를 조달했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품 브랜드로는 UniFi, AmpliFi, EdgeMax, UISP, airMAX, airFiber, GigaBeam, UFiber가 있다. UniFi는 가정·프로슈머·기업용 유무선 네트워킹과 IP 카메라, 출입 통제 시스템, VoIP 전화기를 다룬다. EdgeMax는 라우터와 스위치만 담은 유선 네트워킹 제품군이고, UISP는 2020년에 발표한 인터넷 서비스 제공업체용 제품군이다. airMAX는 점대점·점대다점 링크용이며, airFiber와 UFiber는 각각 무선·광 인터넷 서비스 제공업체가 쓴다. Ubiquiti Labs 브랜드로는 가정용 무선 메시 라우터 겸 액세스 포인트인 AmpliFi를 만든다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 사명은 Ubiquiti Inc.이며 본사는 뉴욕시에 있다. 소프트웨어는 UniFi OS에 포함되어 UniFi OS Console(UniFi Dream Machine, Dream Wall, Dream Router, Cloud Key)에서 구동된다. UniFi Network 컨트롤러는 Linux, FreeBSD, macOS, Windows에도 설치할 수 있으나 UniFi Protect와 UniFi Access는 UniFi OS Console 기기에 설치해야 한다. 2021년 1월에는 클라우드 계정의 잠재적 데이터 유출이 보고되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "UniFi를 중심으로 가정부터 기업, 인터넷 서비스 제공업체까지 아우르는 네트워크 장비와 자체 컨트롤러 소프트웨어를 함께 제공하는 미국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ui.com/",
+  "entityLinks": {
+   "wikidata": "Q7876533",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7876533",
+    "https://en.wikipedia.org/wiki/Ubiquiti"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7876533",
+   "country": "미국",
+   "inception": "2003",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Robert J. Pera"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Ubiquiti」 본문과 위키데이터 Q7876533 팩트를 근거로 편집",
+  "founded": {
+   "date": "2003-10",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

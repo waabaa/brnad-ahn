@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1615684",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/hess-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hess-corporation",
+  "urlSlug": "hess-corporation",
+  "name": "Hess Corporation",
+  "nameKo": "",
+  "nameEn": "Hess Corporation",
+  "definition": "Hess Corporation은 원유와 천연가스의 탐사·생산을 하는 미국의 글로벌 독립 에너지 기업이다. 이전 명칭은 Amerada Hess Corporation이며 본사는 뉴욕시에 두었다.",
+  "summary": "Hess Corporation은 원유와 천연가스의 탐사·생산을 하는 미국의 글로벌 독립 에너지 기업이다. 이전 명칭은 Amerada Hess Corporation이며 본사는 뉴욕시에 두었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "Amerada와 Hess Oil and Chemical의 1968년 합병에서 출발해 탐사·생산에 집중한 독립 에너지 기업이며, 2025년 Chevron에 인수되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Hess Corporation은 원유와 천연가스의 탐사·생산에 종사한 미국의 독립 에너지 기업이다. 이전 명칭은 Amerada Hess Corporation이며 본사는 뉴욕시에 있었다. 육상으로는 미국 노스다코타와 리비아에서, 해상으로는 미국 멕시코만, 캐나다, 남미의 가이아나와 수리남, 동남아시아의 말레이시아 및 말레이시아·태국 공동개발구역에서 탐사·생산 사업을 했다. 2016년 포춘 500 순위에서 394위였고, 2020년 포브스 글로벌 2000에서는 세계 1,253위의 상장기업이었다. 2023년 10월 경쟁 석유회사 Chevron에 인수되기로 합의했으며, 인수는 2025년 7월에 완료되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1919년 영국의 석유 사업가 Lord Cowdray가 북미의 석유 생산을 탐사하기 위해 Amerada Corporation을 세웠다. 이 회사는 1920년 2월 7일 델라웨어에서 Amerada Petroleum Corporation의 지주회사로 설립 등록되었다. 한편 Leon Hess는 1933년 뉴저지 애즈버리파크에서 정제 잔여물을 호텔에 난방 연료로 파는 Hess Oil and Chemical을 시작했다. 두 회사는 1968년 12월 합병 계획을 발표했고, 일부 주주의 반발 끝에 합병이 완료되어 Hess Corporation의 전신이 되었다. Leon Hess는 1960년대 초부터 1995년까지 CEO를 맡았고, 이후 아들 John B Hess가 회장 겸 CEO를 이어받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Hess Corporation의 중심 사업은 원유와 천연가스의 탐사·생산이다. Amerada는 1950년대에 송유관과 정제 부문으로 사업을 넓혔고, 1951년 노스다코타 티오가 인근 Bakken 지층에서 석유를 발견했다. Hess Oil and Chemical은 1938년 Perth Amboy에 첫 석유 저장 터미널을 마련했고, 1958년 Port Reading에 첫 정유소를 열었다. 1966년에는 미국령 버진아일랜드 Saint Croix에 정유소를 열었다. 합병은 순수 생산 회사와 정유·판매 사업을 하는 회사를 결합한 것이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Hess Corporation은 2023년 10월 경쟁 석유회사 Chevron에 인수되기로 합의했고, 인수는 2025년 7월에 완료되었다. 인수 이전까지 본사는 뉴욕시에 있었으며, John B Hess가 회장 겸 CEO를 맡았다. 마지막까지 미국 노스다코타, 멕시코만, 가이아나 등에서 탐사·생산 사업을 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Amerada와 Hess Oil and Chemical의 1968년 합병에서 출발해 탐사·생산에 집중한 독립 에너지 기업이며, 2025년 Chevron에 인수되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.hess.com/",
+  "entityLinks": {
+   "wikidata": "Q1615684",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1615684",
+    "https://en.wikipedia.org/wiki/Hess_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1615684",
+   "country": "미국",
+   "inception": "1919",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Leon Hess",
+    "Weetman Pearson, 1st Viscount Cowdray"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Hess Corporation」 본문과 위키데이터 Q1615684 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

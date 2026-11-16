@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q4047736",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/qiwi-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "qiwi",
+  "urlSlug": "qiwi",
+  "name": "Qiwi",
+  "nameKo": "",
+  "nameEn": "Qiwi",
+  "definition": "Qiwi는 2007년 러시아에서 설립된 결제 기업으로, 모스크바에 본사를 두고 QIWI Bank 등을 계열에 두어 러시아와 CIS 국가에서 결제 및 금융 서비스를 제공한 회사이다.",
+  "summary": "Qiwi는 2007년 러시아에서 설립된 결제 기업으로, 모스크바에 본사를 두고 QIWI Bank 등을 계열에 두어 러시아와 CIS 국가에서 결제 및 금융 서비스를 제공한 회사이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "러시아 결제 시장에서 지갑과 단말기, 은행, 송금 시스템을 한 그룹으로 묶어 운영했으며 2024년 은행 면허 취소로 전환점을 맞은 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Qiwi는 러시아와 CIS 국가에서 결제 및 금융 서비스를 제공한 회사이다. 그룹에는 QIWI 결제 시스템, QIWI Bank, CONTACT 송금 시스템, Factoring PLUS, Flocktory, RealWeb이 포함되었다. 결제 네트워크는 16.6 million개가 넘는 지갑과 가상 카드, 약 106 thousand개의 단말기와 결제 지점을 갖추었다. 세 나라에 대표 사무소를 두었다. 2024년 2월 21일 러시아 중앙은행이 QIWI Bank의 은행 면허를 취소했고, 이후 Contact 결제 시스템도 운영을 중단했다. 2024년 8월 27일 주주총회에서 지주회사 이름을 Qiwi PLC에서 NanduQ PLC로 바꾸는 안이 승인되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Qiwi 그룹은 2007년 Sergey Solonin, Boris Kim, Andrey Romanenko가 설립했다. 2012년 11월 Visa와 QIWI는 글로벌 파트너십 협약을 맺었고, QIWI Wallet은 Visa QIWI Wallet이라는 공동 브랜드 제품이 되었다. 2013년 NASDAQ에 상장했으며 주가는 주당 $17에 거래되었다. 2015년 7월 CONTACT 송금 시스템의 지분 100%를 확보했고, 2017년 6월 공동 창업자 Andrei Romanenko가 경영에서 물러나 보유 지분을 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "QIWI 결제 시스템은 지갑과 가상 카드, 단말기와 결제 지점을 통해 운영되었다. QIWI Bank는 은행 서비스를 맡았고, CONTACT는 해외 송금에 쓰이는 송금 시스템이었다. 이 밖에 Factoring PLUS, Flocktory, RealWeb이 그룹에 속했다. 2017년 10월에는 Otkritie Bank로부터 Rocketbank와 Tochka의 브랜드 권리와 소프트웨어를 사들였고, 2018년 6월 합작회사 Tochka JSC 설립을 발표했다. 2021년 합작회사 지분을 Otkritie Bank에 매각했으며 거래 금액은 4.95 billion rubles였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 여름 Qiwi 그룹은 NASDAQ 상장폐지를 피하기 위해 러시아 사업과 해외 사업을 분리했다. 러시아 내 계열사는 모스크바에 등록된 Qiwi JSC가, 카자흐스탄 사업은 키프로스에 등록된 Qiwi plc가 관리하게 되었다. 2024년 2월 면허 취소로 사용자는 지갑 거래를 할 수 없게 되었고 결제 단말기도 작동을 멈췄다. 같은 해 8월에는 지주회사 이름을 NanduQ PLC로 바꾸는 안이 승인되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아 결제 시장에서 지갑과 단말기, 은행, 송금 시스템을 한 그룹으로 묶어 운영했으며 2024년 은행 면허 취소로 전환점을 맞은 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://qiwi.com",
+  "entityLinks": {
+   "wikidata": "Q4047736",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4047736",
+    "https://en.wikipedia.org/wiki/Qiwi"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4047736",
+   "country": "러시아",
+   "inception": "2007",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Qiwi」 본문과 위키데이터 Q4047736 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

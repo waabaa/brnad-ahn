@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q5509271",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "funko",
+  "urlSlug": "funko",
+  "name": "Funko",
+  "nameKo": "",
+  "nameEn": "Funko",
+  "definition": "Funko는 라이선스를 받은 대중문화 수집품과 한정판 수집품을 제조하는 미국 기업이다. 라이선스 비닐 피규어와 보블헤드로 알려져 있으며 본사는 에버렛에 있다.",
+  "summary": "Funko는 라이선스를 받은 대중문화 수집품과 한정판 수집품을 제조하는 미국 기업이다. 라이선스 비닐 피규어와 보블헤드로 알려져 있으며 본사는 에버렛에 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "라이선스를 받은 비닐 피규어와 보블헤드로 대중문화 캐릭터를 수집품으로 만들어 온 미국 제조사이며, Pop! Vinyl 라인으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "라이선스 비닐 피규어와 보블헤드를 주력으로 하는 대중문화 수집품 제조사이다. 플러시 인형, 액션 피규어, 의류, 액세서리, 게임도 라이선스 제품으로 만든다. 1998년 Mike Becker가 설립했고, 처음에는 향수를 테마로 한 단순한 장난감을 만드는 작은 프로젝트로 구상되었다. 2005년 이후 제품 라인의 범위를 넓혔으며 Warner Bros., Paramount Skydance, NBCUniversal, Disney, Sony, Shueisha, Marvel Entertainment, Major League Baseball 등과 라이선스 계약을 맺었다. 본사는 미국 워싱턴주 에버렛에 있으며, 2017년 8월 시내에 새 본사와 플래그십 매장을 열었다. 2017년 NASDAQ에 상장했고 2025년 8월 기준 CEO는 Josh Simon이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "회사는 1998년 장난감 수집가 Mike Becker가 워싱턴주 스노호미시의 자택에서 설립했다. Becker는 Big Boy 레스토랑 마스코트의 저렴한 동전 저금통을 찾지 못해, 미시간의 Big Boy 프랜차이즈로부터 권리를 받아 직접 저금통을 만들며 사업을 시작했다. 저금통은 팔리지 않았고 해당 프랜차이즈는 파산 보호를 신청했지만, Austin Powers 보블헤드 판권을 확보해 80,000개를 판매하면서 사업을 이어갔다. 2005년 Becker는 회사를 Brian Mariotti에게 넘겼고, Mariotti는 사무실을 워싱턴주 린우드로 옮기며 라이선스 제품 라인을 크게 넓혔다. 2011년에는 Pop! Vinyl 피규어 라인을 판매하기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 제품 라인은 Wacky Wobblers로, Betty Boop, Cap'n Crunch, The Cat in the Hat 등 대중문화 캐릭터를 보블헤드로 만든 것이다. 2011년부터 Pop! Vinyl 피규어 라인을 판매했고, 플러시 인형, 액션 피규어, 의류, 액세서리, 게임도 라이선스로 제작한다. 2017년 6월에는 패션 액세서리 라인 Loungefly를, 2022년 6월에는 고급 대중문화 회사 Mondo를 인수했다. 제품은 에버렛 본사 등 미국 곳곳에서 설계하며, 디자인에는 라이선스 보유사, 스튜디오 아티스트, 소셜 미디어를 통한 팬의 의견이 반영된다. 회사의 마스코트는 Freddy Funko이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 8월 Josh Simon이 CEO로 선임되었다. 2017년 11월 2일 NASDAQ에 상장했으나 기업공개 이후 주가가 40퍼센트 하락했다. 2022년 두바이 힐스 몰에 미국 밖 첫 프랜차이즈 매장을 열었고, 2023년에는 두바이 몰과 아부다비의 Reem Mall에 매장을 추가했다. 2023년 3월에는 창고 공간이 한정되어 오래된 과잉 재고를 처분한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "라이선스를 받은 비닐 피규어와 보블헤드로 대중문화 캐릭터를 수집품으로 만들어 온 미국 제조사이며, Pop! Vinyl 라인으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.funko.com/",
+  "entityLinks": {
+   "wikidata": "Q5509271",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5509271",
+    "https://en.wikipedia.org/wiki/Funko"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5509271",
+   "country": "미국",
+   "inception": "1998",
+   "headquarters": "에버렛",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Funko」 본문과 위키데이터 Q5509271 팩트를 근거로 편집",
+  "founded": {
+   "date": "1998-10-23",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q891345",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/boliden-ab-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "boliden-ab",
+  "urlSlug": "boliden-ab",
+  "name": "Boliden AB",
+  "nameKo": "",
+  "nameEn": "Boliden AB",
+  "definition": "Boliden AB는 스웨덴 스톡홀름에 본사를 둔 다국적 금속·광업·제련 기업이다. 아연, 구리, 납, 니켈, 은, 금을 생산하며 스웨덴, 핀란드, 노르웨이, 포르투갈, 아일랜드에서 사업장을 운영한다.",
+  "summary": "Boliden AB는 스웨덴 스톡홀름에 본사를 둔 다국적 금속·광업·제련 기업이다. 아연, 구리, 납, 니켈, 은, 금을 생산하며 스웨덴, 핀란드, 노르웨이, 포르투갈, 아일랜드에서 사업장을 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "광산 채굴에서 제련, 스크랩 재활용까지 유럽 안에서 수행하는 스웨덴 금속 기업이다. 아연과 구리가 중심이며 납축전지 재활용도 한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Boliden AB는 광산 채굴, 정제, 제련, 화학 제품 생산을 아우르는 스웨덴의 금속 기업으로, 유럽 안에서 광산과 제련소를 운영한다. 주력 금속은 아연과 구리이며, 납·금·은 생산도 매출에 상당한 비중을 차지한다. 정제 과정의 부산물인 황산의 주요 생산자이기도 하다. 2025년 기준 유럽에서 광산 7곳을 운영하고 있으며, 광산은 스웨덴에 집중되어 있고 핀란드, 아일랜드, 포르투갈에도 각각 한 곳씩 있다. 제련소는 5곳을 소유·운영하며, 금속 정광과 스크랩 폐기물을 모두 정제해 비철금속과 귀금속을 만든다. 제련소 원료 중 자체 광산에서 나오는 비율은 40~50% 정도이며 나머지는 대부분 다른 광산 회사에서 조달한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Boliden AB는 1920년대에 스웨덴 Skellefteå 북서쪽 30km에 있던, 지금은 폐광된 Boliden 금광에서 이름을 따 금광 채굴 회사로 출발했다. 이후 수십 년간 구리, 은, 니켈 채굴과 제련으로 사업을 넓혔다. 1970년대 금속 가격이 높던 시기에는 가전 제조사, 도매업체, 무역회사를 인수하며 공격적으로 다각화했다. 1985년 고분자 제조사 Trelleborg에 인수되어 광업 중심으로 재편되었고 해외로도 확장했다. 1998년 Trelleborg가 본사를 캐나다 토론토로 옮기고 증시에 다시 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "광산 부문에서는 주로 아연과 구리를 생산하고 납, 금, 은도 일부 생산한다. 2024년 가장 생산량이 많은 광산은 Aitik이었고 Kevitsa가 그 뒤를 이었다. Aitik은 유럽에서 네 번째로 큰 구리 광산이며, 광석 품위가 낮지만 규모의 경제와 높은 자동화 수준 덕분에 생산성이 높다. 제련소로는 구리와 황산을 주로 생산하는 Rönnskär, 아연과 황산을 생산하는 Norzinc, 납축전지를 재활용하는 Bergsöe, 구리와 니켈을 주로 생산하는 Harjavalta, 아연을 생산하는 Kokkola가 있다. Kokkola는 아연도금에 쓰이는 특수 고순도 아연에 특화되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Boliden AB는 2002년 본사를 스웨덴으로 되돌리고 비유럽 자산을 매각해 수익성을 회복했다. 이에 앞서 1998년 이후 4년간 주가가 폭락했는데, 낮은 금속 가격과 스페인 광산의 댐 붕괴로 인한 환경 재난이 겹친 결과였다. 2004년 인수한 아일랜드 Tara 광산은 유럽 최대 아연 광산이다. 2025년 기준 광산 7곳을 모두 유럽에서 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광산 채굴에서 제련, 스크랩 재활용까지 유럽 안에서 수행하는 스웨덴 금속 기업이다. 아연과 구리가 중심이며 납축전지 재활용도 한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.boliden.com/",
+  "entityLinks": {
+   "wikidata": "Q891345",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q891345",
+    "https://en.wikipedia.org/wiki/Boliden_AB"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q891345",
+   "country": "스웨덴",
+   "inception": "1931",
+   "headquarters": "스톡홀름",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Boliden AB」 본문과 위키데이터 Q891345 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

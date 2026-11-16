@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q719505",
+ "demand": {
+  "why": "국내",
+  "naver": 0.023,
+  "koViews": 735,
+  "enViews": 315,
+  "gsc": 0
+ },
+ "logoCandidate": "logos/korean-register-of-shipping-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "korean-register-of-shipping",
+  "urlSlug": "korean-register-of-shipping",
+  "name": "한국선급",
+  "nameKo": "한국선급",
+  "nameEn": "Korean Register of Shipping",
+  "definition": "한국선급(Korean Register of Shipping)은 해상에서의 인명과 재산의 안전을 도모하고 조선·해운·해양 기술을 진흥하기 위해 설립된 대한민국 유일의 국제 선박 검사 기관이다. 부산광역시에 본사를 둔 사단법인이다.",
+  "summary": "한국선급(Korean Register of Shipping)은 해상에서의 인명과 재산의 안전을 도모하고 조선·해운·해양 기술을 진흥하기 위해 설립된 대한민국 유일의 국제 선박 검사 기관이다. 부산광역시에 본사를 둔 사단법인이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.6333333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "대한민국 유일의 국제 선박 검사 기관으로, 한국 정부 대행 검사와 신재생 에너지·온실 가스 관련 인증까지 함께 다루는 비영리 사단법인이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "한국선급은 선박의 건조, 등록, 검사와 관련 도면 심의를 맡는 선박 검사 기관이다. 민법 제32조에 따른 비영리 사단법인이며 약칭은 KR이다. 선박뿐 아니라 해양 구조물, 풍력 발전 등 육상 시설과 설비, 기기에 관한 연구, 설계 평가, 검사, 감리도 업무 범위에 포함한다. 각국 정부로부터 권한을 위임받은 업무와 선박 안전법 제60조에 따른 한국 정부 대행 검사 업무도 수행한다. 직원은 866여 명이며 6본부 49개 지부로 구성되어 있다. 본사는 부산광역시 강서구 명지동에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1960년 6월 20일 한국해양대학교 항해과 1기 출신인 허동식 이사장이 사단법인 한국선급협회(KR)를 설립했으며, 해무청의 허가를 받았다. 본사는 대전광역시 유성구에 있었다. 2005년 2월 25일 총회에서 본사의 부산 이전을 승인했고, 당시 고위층은 본사 일부와 연수소가 내려가고 주소지만 옮기는 것이라고 설명했다. 2010년 3월 12일 부산광역시 강서구 명지동에서 신축 사옥 기공식을 열었고, 2012년 부산광역시 강서구 명지오션시티9로 36으로 본사를 이전했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 업무는 선박의 건조, 등록, 검사와 이와 관련된 도면 심의이다. 조선 재료, 선박용 물건, 발전 설비 등 육상용 설비와 기기의 제작에 관한 도면 심의, 승인 및 검사를 하고, 선박 건조와 크레인 등 각종 기기의 제조 감리도 한다. 신재생 에너지와 환경 관련 인증, 검사, 연구와 온실 가스 관련 검·인증, 연구도 업무에 포함한다. ISO 9000 등 각종 규격에 대한 인증, 교육 및 연수 업무도 맡는다. 소속기관으로 연구소와 교육훈련원을 둔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 부산광역시 강서구 명지동에 있으며, 직원은 866여 명이다. 6본부 49개 지부 체제이고, 국내 14개와 국외 35개 지부로 구성된다. 국내에는 서울, 인천, 평택당진, 군산, 목포, 여수광양, 통영, 거제, 창원, 감천, 부산, 장생포, 울산, 포항 지부와 동해출장소를 둔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대한민국 유일의 국제 선박 검사 기관으로, 한국 정부 대행 검사와 신재생 에너지·온실 가스 관련 인증까지 함께 다루는 비영리 사단법인이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.krs.co.kr",
+  "entityLinks": {
+   "wikidata": "Q719505",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q719505",
+    "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%84%A0%EA%B8%89",
+    "https://en.wikipedia.org/wiki/Korean_Register_of_Shipping"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q719505",
+   "country": "대한민국",
+   "inception": "1960",
+   "headquarters": "부산광역시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「한국선급」 요약과 위키데이터 Q719505 팩트를 근거로 편집",
+  "founded": {
+   "date": "1960-06-20",
+   "precision": "day",
+   "sources": [
+    "kowiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1544974",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sugarcrm-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sugarcrm",
+  "urlSlug": "sugarcrm",
+  "name": "슈거CRM",
+  "nameKo": "슈거CRM",
+  "nameEn": "SugarCRM",
+  "definition": "슈거CRM(SugarCRM)은 실리콘 밸리에 본사를 둔 소프트웨어 회사로, 온프레미스와 클라우드 기반 웹 애플리케이션인 고객 관계 관리(CRM) 시스템 Sugar를 생산한다.",
+  "summary": "슈거CRM(SugarCRM)은 실리콘 밸리에 본사를 둔 소프트웨어 회사로, 온프레미스와 클라우드 기반 웹 애플리케이션인 고객 관계 관리(CRM) 시스템 Sugar를 생산한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "오픈 소스 프로젝트로 출발해 Sugar 7부터 독점 라이선스로 전환했고, SuiteCRM과 SpiceCRM 등 여러 오픈 소스 포크의 원류가 된 CRM 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "슈거CRM은 영업 자동화, 마케팅 캠페인, 고객 지원, 협업 소프트웨어, 모바일 CRM, 소셜 CRM, 보고서 작성 기능을 갖춘 CRM 소프트웨어를 온프레미스와 클라우드 변형으로 판매한다. 상업 웹사이트인 Sugarcrm.com과 서드파티 확장을 위한 Sugar Outfitters, 온라인 사용자 포럼 SugarClub 등 여러 웹사이트를 운영한다. 2006년에는 고객, 사용자, 개발자를 위한 컨퍼런스인 SugarCon을 시작했고, 이 행사는 연례 컨퍼런스가 되었다. 오픈 소스 프로젝트로 출발했으나 2014년에 Sugar 7부터 독점 라이선스만 있을 것이라고 발표했다. 영업 자동화 제품으로 Sugar Sell과 Sugar Enterprise 온프레미스를, 마케팅 자동화로 Sugar Market을, 고객 서비스 소프트웨어로 Sugar Serve를 제공한다. 2018년 8월에는 사모펀드 회사인 Accel-KKR이 단일 투자자가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "존 로버츠가 산타크루즈 산맥에서 자신의 산악자전거 슈거를 타고 가다가 슈거CRM의 아이디어와 이름을 떠올렸다. 클린트 오램, 존 로버츠, 제이콥 테일러는 2004년 4월에 오픈 소스 프로젝트에 전념하기 시작했고, 2004년 6월 캘리포니아주에서 회사를 설립했다. 같은 달 DFJ의 조쉬 B. 스타인이 200만 달러를 투자하고 이사회 멤버가 되었다. 2004년 9월까지 애플리케이션 사본 25,000개가 다운로드되었고, 2004년 10월에는 SourceForge에서 \"이달의 프로젝트\"로 선정되었다. 이후 드레이퍼 피셔 저벳슨, 왈든 인터내셔널, 뉴 엔터프라이즈 어소시에이츠, 골드만삭스로부터 8,600만 달러의 벤처 캐피털을 유치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 고객 관계 관리 시스템인 Sugar이다. 영업 자동화는 Essentials, Advanced, Premier 에디션으로 제공되는 Sugar Sell과 Enterprise 및 Enterprise+ 에디션으로 제공되는 Sugar Enterprise 온프레미스로 구성된다. 마케팅 자동화는 Sugar Market, 고객 서비스 소프트웨어는 Sugar Serve이며, 여러 추가 선택적 기능과 함께 제공된다. 2017년 6월에는 웹에서 슈거CRM 사용자들에 대한 추가 정보를 검색하는 SugarCRM Hint를 출시했다. 배포는 온프레미스, Sugar Cloud, 파트너, 퍼블릭 클라우드 서비스 중에서 선택할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "미국 쿠퍼티노에 본사를 두고 있다. 2018년 8월 사모펀드 회사 Accel-KKR이 \"9자리 수\"의 투자로 단일 투자자가 되었다. 커뮤니티 에디션 오픈 소스 프로젝트는 2018년 4월 공식적으로 종료되었고, 2020년에는 라이선스 제품에 대한 라이선스 관리 지원을 업데이트했다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오픈 소스 프로젝트로 출발해 Sugar 7부터 독점 라이선스로 전환했고, SuiteCRM과 SpiceCRM 등 여러 오픈 소스 포크의 원류가 된 CRM 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sugarcrm.com/",
+  "entityLinks": {
+   "wikidata": "Q1544974",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1544974",
+    "https://ko.wikipedia.org/wiki/%EC%8A%88%EA%B1%B0CRM",
+    "https://en.wikipedia.org/wiki/SugarCRM"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1544974",
+   "country": "미국",
+   "inception": "2004",
+   "headquarters": "쿠퍼티노",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「슈거CRM」 요약과 위키데이터 Q1544974 팩트를 근거로 편집",
+  "founded": {
+   "date": "2004-06",
+   "precision": "month",
+   "sources": [
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

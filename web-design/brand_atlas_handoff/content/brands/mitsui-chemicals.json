@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q777141",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/mitsui-chemicals-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mitsui-chemicals",
+  "urlSlug": "mitsui-chemicals",
+  "name": "Mitsui Chemicals",
+  "nameKo": "",
+  "nameEn": "Mitsui Chemicals",
+  "definition": "Mitsui Chemicals는 일본의 화학 기업이다. Mitsui 그룹에 속하며 고성능 소재, 석유화학, 기초 화학 제품, 기능성 고분자 소재를 주로 다룬다.",
+  "summary": "Mitsui Chemicals는 일본의 화학 기업이다. Mitsui 그룹에 속하며 고성능 소재, 석유화학, 기초 화학 제품, 기능성 고분자 소재를 주로 다룬다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "Mitsui 그룹에 속한 일본 화학 기업으로, 석유화학과 고분자 소재부터 안경 렌즈 MR Lenses, 치과 제품 사업까지 영역이 걸쳐 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mitsui Chemicals는 일본의 화학 기업으로, 닛케이에 상장되어 있으며 일본, 유럽, 중국, 동남아시아, 미국에 사업 이해관계를 가지고 있다. 일본을 대표하는 화학 기업 중 하나이며 Mitsui 그룹의 일원이다. 고성능 소재, 석유화학, 기초 화학 제품, 기능성 고분자 소재를 주로 다루며, 화학 제품과 윤활유, 수지를 폭넓게 만든다. 소비자 영역에서는 굴절률 1.74의 고굴절 교정 렌즈 MR Lenses로 알려져 있으며, 이 렌즈는 안경에 쓰인다. 2026년 8월에는 미국 유타주에 기반을 둔 치과 제품 제조사 Ultradent Products의 인수를 완료해 완전 자회사로 만들었다. 인수 이후 구강 관리 사업의 글로벌 경영 기능을 미국 소재 지주회사로 옮겼다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Mitsui 그룹의 Mitsui Chemicals는 1968년 Toyo Koatsu와 Mitsui Chemical Industry가 합병하며 출범했다. Toyo Koatsu는 1933년 설립되어 주로 비료를 제조했고, Mitsui Chemical Industry는 1941년 설립되어 염료와 유기 중간체를 생산했다. 합병으로 출범한 새 법인은 비료, 기초 제품, 고분자, 정밀 화학이라는 네 가지 제품군 생산에 집중했다. 기초 제품에는 methanol, formaldehyde, phenol, aniline, bisphenol A, TDI, MDI, melamine이 포함됐다. 이후 Mitsui Chemicals는 일본을 대표하는 화학 기업 중 하나로 자리 잡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Mitsui Chemicals는 화학 제품, 윤활유, 수지를 폭넓게 생산한다. 사업은 고성능 소재, 석유화학, 기초 화학 제품, 기능성 고분자 소재로 구성된다. 보유 기술 가운데 하나는 Hypol II 공정으로, 소형 루프 반응기를 이용해 촉매를 예비 중합한다. 소비자 영역에서는 굴절률 1.74의 고굴절 교정 렌즈 MR Lenses로 알려져 있으며, 안경에 쓰인다. MR Lenses는 Zenni Optical을 비롯한 대형 소비자 직판 제조사가 사용한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2026년 8월 14일 US$900 million 규모의 Ultradent Products 인수를 마무리하고 이 회사를 완전 자회사로 편입했다. 규제 승인이 예정보다 일찍 끝나 당초 계획한 9월 대신 8월에 거래가 종결됐다. 이후 구강 관리 사업의 글로벌 경영 기능을 미국 소재 지주회사로 옮겼다. 인도에서는 Neemrana 3단계 단지에 첫 폴리프로필렌 컴파운딩 공장을 세우기로 했으며, Mitsui Chemicals가 지분 80%, 자회사 Prime Polymers Company가 20%를 보유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Mitsui 그룹에 속한 일본 화학 기업으로, 석유화학과 고분자 소재부터 안경 렌즈 MR Lenses, 치과 제품 사업까지 영역이 걸쳐 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mitsuichemicals.com/",
+  "entityLinks": {
+   "wikidata": "Q777141",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q777141",
+    "https://en.wikipedia.org/wiki/Mitsui_Chemicals"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q777141",
+   "country": "일본",
+   "inception": "1997",
+   "headquarters": "미나토구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Mitsui Chemicals」 본문과 위키데이터 Q777141 팩트를 근거로 편집",
+  "founded": {
+   "date": "1997-10-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3561692",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/vizio-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vizio",
+  "urlSlug": "vizio",
+  "name": "비지오",
+  "nameKo": "비지오",
+  "nameEn": "Vizio",
+  "definition": "비지오(Vizio)는 텔레비전, 사운드바와 관련 소프트웨어 및 액세서리를 설계하는 미국 기업이다. 2024년부터 Walmart이 소유하고 있으며 캘리포니아주 어바인에 본사를 두고 있다.",
+  "summary": "비지오(Vizio)는 텔레비전, 사운드바와 관련 소프트웨어 및 액세서리를 설계하는 미국 기업이다. 2024년부터 Walmart이 소유하고 있으며 캘리포니아주 어바인에 본사를 두고 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "경쟁사보다 낮은 가격의 HDTV로 알려진 미국 TV 제조사이며, 현재는 Walmart의 자회사로 광고 사업과도 연결되어 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "비지오는 2002년에 설립된 미국의 가전 기업으로, 텔레비전과 사운드바, 관련 소프트웨어와 액세서리를 설계한다. 경쟁사보다 낮은 가격으로 HDTV를 판매하는 것으로 알려져 있다. 2007년 북미 LCD TV 판매량 1위(수량 기준)에 올랐고, 2020년 기준 미국 평판 디스플레이 TV 판매 2위였다. 2021년 3월까지 사운드바 11 million 대 이상과 TV 80 million 대를 판매했고, SmartCast 활성 계정은 12 million 개를 넘었다. 2021년 3월 기업공개를 통해 상장했으며, 2024년 12월 3일 Walmart의 완전 자회사가 되었다. 제품은 ODM 조립업체와의 계약에 따라 멕시코, 중국, 베트남에서 생산하며, 주력 제품군은 텔레비전이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "비지오는 2002년 기업가 William Wang이 창업 직원 두 명과 함께 V Inc.라는 이름으로 설립했다. 2004년까지 William Wang은 회사 이름을 Vizio로 바꾸었다. 2006년 매출은 $700 million으로 추정되었고, 2007년에는 $2 billion을 넘어선 것으로 추정되었다. 2014년 말에는 엔터테인먼트 웹사이트 BuddyTV의 모회사인 Advanced Media Research Group, Inc.를 인수했다. 2015년 8월에는 자동 콘텐츠 인식(ACR) 업체 Cognitive Media Networks, Inc를 인수했으며, 이 회사는 이후 Inscape Data로 이름이 바뀌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "텔레비전은 비지오의 주력 제품군이다. 2009년 2월 플라즈마 TV 생산을 중단하고 LED 백라이트 LCD 디스플레이에 집중하겠다고 발표했다. 2016년 3월에는 태블릿이나 모바일 앱으로 화면을 제어할 수 있는 SmartCast TV를 내놓았고, 2018년에는 첫 Quantum Dot LED 4K TV를 출시했다. 사운드바는 V-Series, M-Series, Elevate 등 시리즈로 구성되며, 2020년 출시한 Elevate는 회전하는 스피커를 갖춘 첫 Atmos 사운드바이다. 소프트웨어인 Vizio OS(구 SmartCast)는 모든 스마트 TV에 쓰이는 운영체제이자 플랫폼이며 Chromecast와 Apple AirPlay를 지원한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 2월 Walmart이 VIZIO Holding Corp.를 $2.3 billion에 인수하겠다고 발표했고, 규제 당국의 승인 후 12월 3일 거래가 완료되어 VIZIO Holding Corp.와 Vizio, Inc.는 완전 자회사가 되었다. 이 인수로 Walmart은 광고 사업을 강화할 수 있게 되었다. 2025년 7월 Bloomberg News는 Walmart이 Amazon.com과 Best Buy에서의 Vizio 제품 판매를 중단하고, 2025년 말까지 Walmart 또는 Sam's Club 매장에서만 판매하는 자체 브랜드로 전환할 계획이라고 보도했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "경쟁사보다 낮은 가격의 HDTV로 알려진 미국 TV 제조사이며, 현재는 Walmart의 자회사로 광고 사업과도 연결되어 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.vizio.com/en/home",
+  "entityLinks": {
+   "wikidata": "Q3561692",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3561692",
+    "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A7%80%EC%98%A4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Vizio"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3561692",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "어바인",
+   "founders": [
+    "William Wang"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Vizio」 본문과 위키데이터 Q3561692 팩트를 근거로 편집",
+  "founded": {
+   "date": "2002-10",
+   "precision": "month",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1132272",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/pvh-corp-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pvh-corp",
+  "urlSlug": "pvh-corp",
+  "name": "PVH Corp.",
+  "nameKo": "",
+  "nameEn": "PVH Corp.",
+  "definition": "PVH Corp.는 Tommy Hilfiger와 Calvin Klein 등의 브랜드를 보유한 미국의 의류 회사이다. 이전 명칭은 Phillips-Van Heusen Corporation이며 본사는 뉴욕 맨해튼에 있다.",
+  "summary": "PVH Corp.는 Tommy Hilfiger와 Calvin Klein 등의 브랜드를 보유한 미국의 의류 회사이다. 이전 명칭은 Phillips-Van Heusen Corporation이며 본사는 뉴욕 맨해튼에 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1881년 셔츠 제조에서 출발해 Tommy Hilfiger와 Calvin Klein을 함께 거느리게 된 미국 의류 기업이라는 점이 다른 브랜드와 구별된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "PVH는 Tommy Hilfiger와 Calvin Klein을 보유한 미국 의류 회사이다. Kenneth Cole New York과 Michael Kors 같은 브랜드는 라이선스로 다룬다. 본사는 뉴욕 맨해튼에 있으며 뉴저지 Bridgewater에 정책 수립 사무실을 두고 있다. 2023년 4월 기준 전 세계 직원이 120,000명이 넘었고 인도, 스리랑카, 방글라데시, 중국, 베트남, 온두라스 등에 거점을 두었다. 회사는 셔츠 제조에서 출발해 여러 브랜드 인수를 거쳐 성장했다. 2020년 9월 Stefan Larsson이 2021년 2월 1일부터 CEO를 맡는다고 발표했으며, 전임 Emanuel Chirico는 회장직을 유지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뿌리의 일부는 1881년 Moses Phillips와 아내 Endel이 펜실베이니아주 Pottsville에서 셔츠를 손으로 만들어 수레로 탄광 노동자에게 판 데서 시작한다. 이 사업은 뉴욕의 셔츠 사업으로 커졌다. 별도로 Dramin Jones가 1865년경 D. Jones & Sons를 세웠고, 이 회사는 1907년 M. Phillips & Sons와 합병해 Phillips-Jones가 되었다. 이후 Van Heusen을 인수하면서 1957년 Phillips-Van Heusen으로 이름을 바꾸었다. 2011년에는 사명을 PVH로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Tommy Hilfiger와 Calvin Klein이 핵심 브랜드이다. Tommy Hilfiger는 2010년 3월 15일에 인수했고, Calvin Klein은 2002년에 인수한 뒤 2013년 2월 Warnaco Group을 인수해 속옷, 진, 스포츠웨어 라인까지 통합했다. Warnaco 인수로 Warner's와 Olga 이너웨어 브랜드, 북미 지역의 Speedo 수영복 브랜드도 더해졌다. Izod는 1995년, Arrow는 2000년에 인수했고 Geoffrey Beene는 2018년 6월에 인수했다. Kenneth Cole New York과 Michael Kors는 라이선스 브랜드이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 4월 기준 직원은 120,000명이 넘었고 아시아와 온두라스 등 여러 국가에 거점을 두고 있다. 2021년 2월 1일 Stefan Larsson이 CEO를 맡았고 Emanuel Chirico는 회장으로 남았다. 본사는 뉴욕 맨해튼이며 노스캐롤라이나 Jonesville, 조지아 McDonough와 Palmetto에 취급 시설이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1881년 셔츠 제조에서 출발해 Tommy Hilfiger와 Calvin Klein을 함께 거느리게 된 미국 의류 기업이라는 점이 다른 브랜드와 구별된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.pvh.com/",
+  "entityLinks": {
+   "wikidata": "Q1132272",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1132272",
+    "https://en.wikipedia.org/wiki/PVH_Corp."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1132272",
+   "country": "미국",
+   "inception": "1881",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「PVH Corp.」 본문과 위키데이터 Q1132272 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

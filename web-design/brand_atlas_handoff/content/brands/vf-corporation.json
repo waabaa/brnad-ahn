@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q457960",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/vf-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vf-corporation",
+  "urlSlug": "vf-corporation",
+  "name": "VF Corporation",
+  "nameKo": "",
+  "nameEn": "VF Corporation",
+  "definition": "VF Corporation은 1899년 John Barbey가 설립한 미국의 의류·신발 기업이다. 본사는 콜로라도주 덴버에 있으며, 11개 브랜드를 Outdoor, Active, Work 세 범주로 나누어 운영한다.",
+  "summary": "VF Corporation은 1899년 John Barbey가 설립한 미국의 의류·신발 기업이다. 본사는 콜로라도주 덴버에 있으며, 11개 브랜드를 Outdoor, Active, Work 세 범주로 나누어 운영한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "작업복에서 아웃도어, 스트리트웨어까지 인수를 통해 여러 브랜드를 거느려 온 의류·신발 브랜드 집합체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 미국의 의류·신발 기업으로, 1969년까지 Vanity Fair Mills라는 이름을 사용했다. 11개 브랜드는 Outdoor, Active, Work 세 범주로 나뉜다. 2015년에는 JanSport, Eastpak, Timberland, The North Face 브랜드를 통해 미국 배낭 시장의 55%를 차지했다. 1899년 펜실베이니아주 리딩에서 장갑 제조사로 출발해 인수를 거듭하며 성장했고, Lee, Wrangler, Vans, Timberland 등을 포트폴리오에 더했다. 2018년에는 청바지와 아울렛 사업을 Kontoor Brands로 분사하기로 발표하고 본사를 덴버로 옮겼다. 2023년 6월부터 Bracken Darrell이 CEO를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1899년 10월 John Barbey와 투자자 집단이 펜실베이니아주 리딩에서 Reading Glove and Mitten Manufacturing Company를 세웠고, 같은 해 12월 4일 법인으로 등록했다. 시작 자본은 $11,000였으며, 월 $60에 빌린 320제곱피트 공장에서 출발했다. 1913년 실크 란제리로 사업을 넓히며 Schuylkill Silk Manufacturing으로 이름을 바꾸고 란제리 라인을 Vanity Fair 브랜드로 내놓았다. 이후 Vanity Fair Mills로 개명했고 1951년 상장했다. 1969년 H.D. Lee Company(Lee)를 인수하며 VF Corporation이 되었고, 1986년 Blue Bell Inc.를 US$762 million에 인수해 규모를 두 배로 키우며 최대 상장 의류 회사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "브랜드 구성은 Outdoor, Active, Work 세 범주로 나뉜다. 대표 브랜드로는 The North Face, Vans, Timberland, JanSport, Eastpak, Kipling, Napapijri, Smartwool, Icebreaker가 있다. Lee는 1969년, Wrangler는 1986년 인수로 포트폴리오에 들어왔고, Williamson-Dickie 인수로 Dickies, Workrite, Kodiak, Terra, Walls가 더해졌다. 2020년에는 스트리트웨어 브랜드 Supreme을 US$2.1 billion에 인수했다. VF Imagewear 부문은 미국 관세국경보호청과 교통안전청 직원용 제복 계약을 따냈다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 청바지·아울렛 사업을 Kontoor Brands로 분사하기로 하고, 본사를 덴버 Wewatta Street 1551번지의 11층 건물로 옮겼다. 2021년에는 직업용 작업복 부문 일부를 매각해 11개 브랜드가 독립 회사 Workwear Outfitters가 되었다. 2023년 6월 Bracken Darrell이 CEO가 되었고, 2024년 7월 Supreme을 EssilorLuxottica에 US$1.5 billion에 매각하기로 했다. 2025년 9월 Dickies를 Bluestar Alliance에 US$600 million에 팔기로 했고, 거래는 같은 해 11월 12일 마무리되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "작업복에서 아웃도어, 스트리트웨어까지 인수를 통해 여러 브랜드를 거느려 온 의류·신발 브랜드 집합체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://vfc.com",
+  "entityLinks": {
+   "wikidata": "Q457960",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q457960",
+    "https://en.wikipedia.org/wiki/VF_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q457960",
+   "country": "미국",
+   "inception": "1899",
+   "headquarters": "그린즈버러",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「VF Corporation」 본문과 위키데이터 Q457960 팩트를 근거로 편집",
+  "founded": {
+   "date": "1899-10",
+   "precision": "month",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

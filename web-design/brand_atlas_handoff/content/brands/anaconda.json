@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q18209310",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "anaconda",
+  "urlSlug": "anaconda",
+  "name": "아나콘다",
+  "nameKo": "아나콘다",
+  "nameEn": "Anaconda",
+  "definition": "아나콘다(Anaconda)는 Anaconda, Inc.가 개발한 오픈소스 데이터 과학·인공지능 개발 포털이자 파이썬 프로그래밍 언어의 배포 플랫폼이다. 데이터 과학과 AI 프로젝트의 개발과 관리에 쓰인다.",
+  "summary": "아나콘다(Anaconda)는 Anaconda, Inc.가 개발한 오픈소스 데이터 과학·인공지능 개발 포털이자 파이썬 프로그래밍 언어의 배포 플랫폼이다. 데이터 과학과 AI 프로젝트의 개발과 관리에 쓰인다.",
+  "industry": "AI·인공지능",
+  "domainSlug": "ai",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "Conda 패키지 관리자와 파이썬 배포판을 바탕으로 데이터 과학 환경을 제공하며, 최근에는 오픈소스 기반 기업용 AI 개발로 영역을 넓힌 플랫폼이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아나콘다는 파이썬 기반의 데이터 과학과 AI 프로젝트를 개발하고 관리하는 데 쓰이는 플랫폼이다. 과학 계산, 데이터 과학, 머신러닝, 대규모 데이터 처리, 예측 분석 등을 위한 파이썬 배포판으로, 패키지 관리와 배포를 단순하게 하는 것을 목표로 한다. 배포판에는 300개가 넘는 패키지가 기본 설치되며, Anaconda 저장소에서 7,500개가 넘는 오픈소스 패키지를 추가로 설치할 수 있다. Windows, Linux, macOS용 데이터 과학 패키지를 포함한다. 운영사 Anaconda Inc.는 미국과 유럽에서 사업을 운영하며, 2024년 기준 직원은 약 300명이다. 2025년 5월에는 오픈소스를 위한 통합 AI 플랫폼 Anaconda AI Platform을 내놓았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2012년 텍사스주 오스틴에서 Peter Wang과 Travis Oliphant가 Continuum Analytics라는 이름으로 공동 창업했다. 회사는 크로스 플랫폼 바이너리 패키지 관리자 Conda를 개발했고, PyData 커뮤니티 워크숍과 Jupyter 클라우드 노트북 서비스 Wakari.io도 선보였다. 2013년 DARPA의 자금을 받았으며, 2015년에는 General Catalyst와 BuildGroup이 이끈 Series A 투자 라운드에서 24 million 달러를 조달했다. 2017년 사명을 Anaconda로 바꾸고 Anaconda Enterprise 5를 발표했다. 2022년에는 PythonAnywhere를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "배포판 외에 무료 Anaconda Free와 구독형 Starter, Business, Enterprise 상품을 제공한다. Business 등급에는 Package Security Manager가 포함된다. 패키지 버전은 Conda가 관리하는데, Conda는 파이썬 외의 용도에도 쓸 수 있도록 별도 오픈소스 패키지로 분리되었다. GUI인 Anaconda Navigator는 명령줄 인터페이스(CLI)의 그래픽 대안이다. Conda, Python, 의존 패키지와 소수의 다른 패키지만 담은 경량판 Miniconda도 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 사용자 수가 45 million명에 이르렀고 Barry Libert가 CEO로 임명되었다. 2025년 10월에는 David DeSanto가 후임 CEO가 되어 이사도 맡았다. 2025년 7월 Series C 투자 라운드에서 150 million 달러 이상을 조달했으며 기업가치는 약 1.5 billion 달러로 평가되었다. 2026년 4월 Outerbounds, 7월 Kilo Code, 8월 Enkrypt AI를 인수했고, 같은 여름 사용자는 50 million명을 넘겼다고 보고되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Conda 패키지 관리자와 파이썬 배포판을 바탕으로 데이터 과학 환경을 제공하며, 최근에는 오픈소스 기반 기업용 AI 개발로 영역을 넓힌 플랫폼이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://anaconda.com/",
+  "entityLinks": {
+   "wikidata": "Q18209310",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18209310",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4_(%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%B0%B0%ED%8F%AC%ED%8C%90)",
+    "https://en.wikipedia.org/wiki/Anaconda_(software_company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18209310",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Anaconda (software company)」 본문과 위키데이터 Q18209310 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q649715",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/kazakhmys-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kazakhmys",
+  "urlSlug": "kazakhmys",
+  "name": "카작무스",
+  "nameKo": "카작무스",
+  "nameEn": "Kazakhmys",
+  "definition": "카작무스(Kazakhmys)는 카자흐스탄의 채굴업과 비철금속 야금 부문에 핵심 자산이 집중된 수직 통합형 지주회사이다. 1992년에 공식 설립되었으며 구리 생산 부문에서 세계 순위에 올라 있다.",
+  "summary": "카작무스(Kazakhmys)는 카자흐스탄의 채굴업과 비철금속 야금 부문에 핵심 자산이 집중된 수직 통합형 지주회사이다. 1992년에 공식 설립되었으며 구리 생산 부문에서 세계 순위에 올라 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "광산, 선광, 제련에 발전과 탄광까지 한 그룹에 갖춘 수직 통합 구조가 특징인 카자흐스탄의 비철금속 지주회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "카작무스는 카자흐스탄의 채굴업과 비철금속 야금에 핵심 자산이 집중된 수직 통합형 지주회사이다. 그룹은 광산 13곳, 선광 공장 6곳, 구리 제련소 2곳을 운영하고 발전소 3곳과 탄광 1곳도 보유한다. 구리 정광 생산량은 271,000톤으로 세계 20위이며, 조동과 음극동 생산량은 각각 377,000톤과 365,000톤으로 세계 12위이다. 2020년에는 카자흐스탄이 은 생산 세계 11위에 오르는 데 기여했고, 그룹은 카자흐스탄 내 발전량 3위를 기록했다. 최종 지배주주는 지분 70%를 가진 Vladimir Kim이다. 2014년 10월에는 Kazakhmys PLC가 비공개 법인과 상장사로 나뉘었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 지역의 채굴 활동은 20세기 초로 거슬러 올라간다. 1913년 영국인 사업가 Leslie Urquhart의 주도로 Spassky Joint Stock Company가 Zhezkazgan에 등록되었고, 이 회사는 10월 혁명 이후인 1920년대에 국유화되었다. 1931년 4월 산업 조직 Balkhashmet이 설립되었으며, 1938년 Balkhash에서 구리 제련이 시작되고 1943년 Zhezkazgan에서 BMZ 공장이 가동을 시작했다. 카작무스는 1992년 공식 설립되었고, 1997년 8월 주식회사로 등록되었다가 2005년 1월 14일 유한책임 파트너십으로 재등록되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "그룹은 구리 정광과 조동, 음극동을 생산하는 구리 사업을 중심으로 한다. 광산 13곳(지하 10곳, 노천 3곳)과 선광 공장 6곳, 구리 제련소 2곳(Zhezkazgan과 Balkhash)을 운영하며, 제련소 중 한 곳은 재건 중이다. 발전 사업으로는 GRES Topar LLP, Zhezkazgan 화력발전소, Balkhash 화력발전소 3곳을 보유한다. Kazakhmys Coal LLP가 운영하는 탄광도 1곳 있다. 2020년 광석 채굴은 생산 계획의 100.76%를 달성했고, 광석의 평균 구리 함량은 1%였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "그룹은 Vladimir Kim이 70% 지분으로 최종 지배하며, 나머지 30%는 Eduard Ogay가 보유한다. 사장은 Vladimir Kim이고 최고경영자는 Nurakhmet Nuriev이다. 2014년 10월 Kazakhmys PLC가 비공개 Kazakhmys Corporation LLP(Zhomart Mine 소유)와 상장사 KAZ Minerals Plc로 나뉘었으며, Vladimir Kim은 두 법인의 지배권을 유지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광산, 선광, 제련에 발전과 탄광까지 한 그룹에 갖춘 수직 통합 구조가 특징인 카자흐스탄의 비철금속 지주회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mykazakhmys.kz",
+  "entityLinks": {
+   "wikidata": "Q649715",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q649715",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%9E%91%EB%AC%B4%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Kazakhmys"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q649715",
+   "country": "카자흐스탄",
+   "inception": "1992",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Kazakhmys」 본문과 위키데이터 Q649715 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

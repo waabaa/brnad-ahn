@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q180106",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/owens-illinois-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "owens-illinois",
+  "urlSlug": "owens-illinois",
+  "name": "Owens-Illinois",
+  "nameKo": "",
+  "nameEn": "Owens-Illinois",
+  "definition": "Owens-Illinois는 미국의 용기용 유리 제품 전문 제조 기업이다. 현재 상호는 O-I Glass, Inc.이며, 북미·남미·아시아태평양·유럽에서 가장 큰 유리 용기 제조업체이다.",
+  "summary": "Owens-Illinois는 미국의 용기용 유리 제품 전문 제조 기업이다. 현재 상호는 O-I Glass, Inc.이며, 북미·남미·아시아태평양·유럽에서 가장 큰 유리 용기 제조업체이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "북미·남미·아시아태평양·유럽에서 가장 큰 유리 용기 제조업체라는 점과, 1903년 Owens Bottle Company에서 이어지는 긴 역사가 이 브랜드를 구분 짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Owens-Illinois는 미국의 기업으로, 용기용 유리 제품을 전문으로 만든다. 법적 사명은 Owens-Illinois, Inc.이며, 2005년 전 세계 사업을 언어와 문화를 넘나드는 하나의 브랜드로 묶기 위해 상호를 O-I로 바꿨다. 2004년 BSN Glasspack을 인수한 뒤 북미, 남미, 아시아태평양, 유럽에서 가장 큰 유리 용기 제조업체가 되었다. 2007년 7월까지는 용기, 마개, 처방약 용기를 만드는 플라스틱 포장 사업도 운영했으며, 이 사업 전체를 영국 상장 포장 제조업체 Rexam에 매각했다. 2009년 1월 S&P 500 지수에 편입되었다. 2020년에는 자회사 Paddock Enterprises가 석면 소송으로 파산 절차에 들어갔고, 석면 관련 청구는 Paddock으로 분리되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1903년 Michael Joseph Owens와 Edward Drummond Libbey가 설립한 Owens Bottle Company를 전신으로 한다. Owens는 최초의 자동 병 제조 기계를 만든 인물이다. 1929년 Owens Bottle Company가 Illinois Glass Company와 합병해 Owens-Illinois, Inc.가 되었다. 6년 뒤인 1935년 Corning Incorporated와 협력 관계를 맺었고, 이 관계는 1938년 Owens Corning Fiberglass Company가 되었다. 1959년 6월 1일부터 1987년 3월 12일까지는 다우존스 산업평균지수에 포함되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 용기용 유리 제품 제조이다. 2015년 5월 멕시코 기업 Vitro의 식음료용 유리 용기 사업을 인수하겠다고 제안했고, 인수는 같은 해 9월에 완료되었다. 과거에는 플라스틱 포장 사업에서 용기, 마개, 처방약 용기를 생산했다. 1971년에는 초기 상업용 플라즈마 디스플레이 digivue를 만들었다. 1970년대부터 1990년대 중반까지는 NEG(Nippon Electric Glass)와 협력해 Columbus, Ohio와 Pittston, Pennsylvania 공장에서 텔레비전용 유리 화면을 생산했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년부터 O-I라는 상호를 쓰며 O-I Glass, Inc.로 불린다. 본사는 2006년 말 Toledo의 One SeaGate에서 Ohio의 Perrysburg에 있는 Levis Commons 단지로 옮겼다. 2023년에는 퇴직 직원에게 불법적인 경업금지 약정을 둔 일로 Federal Trade Commission의 제재를 받았다. 같은 해 8월 Oregon 공장도 반복적인 배출 위반으로 Oregon Department of Environmental Quality에서 10번째 벌금을 부과받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "북미·남미·아시아태평양·유럽에서 가장 큰 유리 용기 제조업체라는 점과, 1903년 Owens Bottle Company에서 이어지는 긴 역사가 이 브랜드를 구분 짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.o-i.com",
+  "entityLinks": {
+   "wikidata": "Q180106",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q180106",
+    "https://en.wikipedia.org/wiki/O-I_Glass"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q180106",
+   "country": "미국",
+   "inception": "1903",
+   "headquarters": "털리도",
+   "founders": [
+    "Michael Joseph Owens"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「O-I Glass」 본문과 위키데이터 Q180106 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

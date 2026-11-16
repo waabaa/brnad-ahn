@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1121892",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/opendns-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "opendns",
+  "urlSlug": "opendns",
+  "name": "오픈DNS",
+  "nameKo": "오픈DNS",
+  "nameEn": "OpenDNS",
+  "definition": "오픈DNS(OpenDNS)는 미국의 기업으로, 피싱 차단과 선택적 콘텐츠 필터링 기능을 갖춘 DNS 확인 서비스와 클라우드 보안 제품군 Umbrella를 제공하는 회사이다.",
+  "summary": "오픈DNS(OpenDNS)는 미국의 기업으로, 피싱 차단과 선택적 콘텐츠 필터링 기능을 갖춘 DNS 확인 서비스와 클라우드 보안 제품군 Umbrella를 제공하는 회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "사용자가 쓰는 DNS 확인 단계에서 피싱 차단과 콘텐츠 필터링을 제공하며, 가정용 무료 서비스에서 기업용 Umbrella로 확장된 DNS 기반 보안 서비스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오픈DNS는 인터넷 서비스 제공업체나 로컬에 설치된 DNS 서버 대신 쓸 수 있는 DNS 확인 서비스를 제공한다. 피싱 보호, 선택적 콘텐츠 필터링 같은 기능을 DNS 서버에 담았고, 기업 고객을 맬웨어·봇넷·피싱·표적 공격으로부터 보호하도록 설계한 클라우드 보안 제품군 Umbrella도 운영한다. 이름의 'Open'은 어떤 출처의 질의든 받는다는 DNS 개념을 가리키며 오픈소스와는 무관하고, 서비스는 비공개 소스 소프트웨어를 기반으로 한다. OpenDNS Global Network는 전 세계 25개 데이터센터를 통해 사용자의 DNS 질의를 처리한다. 2015년 8월 27일 시스코가 인수했으며, 기업용 서비스는 Cisco Umbrella로 이름이 바뀌고 가정용 제품은 OpenDNS 이름을 유지했다. 2014년 6월까지는 광고 기반 무료 서비스와 광고 없는 유료 서비스를 함께 제공했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "오픈DNS는 2006년 미국 샌프란시스코에서 David Ulevitch가 설립했다. 2007년 5월 13일 카테고리별로 웹사이트나 비웹 서버를 차단하는 도메인 차단 서비스를 내놓았고, 2008년에는 차단 도메인 목록을 폐쇄형에서 가입자가 차단 대상을 제안하는 커뮤니티 기반으로 바꿨다. 2007년 12월에는 무료 DNS-O-Matic 서비스를 시작했고, 2009년 10월에는 유료 프리미엄 서비스 Home VIP를 출시했다. 2009년에는 기업용 네트워크 보안 제품 OpenDNS Enterprise를 처음 선보였고, 2012년 7월 OpenDNS Insights로 기업용 제품을 확장했다. 2012년 11월에는 네트워크 보안 제품군 Umbrella를 출시했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "공개용 DNS 확인 서비스는 anycast 라우팅으로 가장 가까운 서버 위치에 연결되며, DNSCurve 보안 프로토콜을 채택해 지원한다. FamilyShield 자녀 보호 기능은 음란물, 프록시 서버, 피싱 사이트를 차단하고, OpenDNS Sandbox는 어떤 필터링도 제공하지 않는 RFC 준수 DNS 서비스이다. 무료 개인용 기능에는 피싱 필터와 DNSCrypt 프로토콜 지원이 있으며, 사용자가 의심 피싱 사이트를 제출하고 검토하는 PhishTank도 운영한다. 기업용으로는 OpenDNS Enterprise, Microsoft Active Directory와 연동해 사용자·기기·그룹별 정책을 만들 수 있는 OpenDNS Insights, 그리고 Umbrella가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "오픈DNS는 2015년 8월 27일 시스코가 전액 현금 거래로 인수했으며, 인수 대금은 US$635 million에 잔류 인센티브가 더해진 조건이었다. 시스코는 다른 클라우드 기반 보안 제품과 함께 OpenDNS 개발을 계속하고 기존 서비스를 유지하겠다고 밝혔다. 기업용 서비스는 Cisco Umbrella로, 가정용 제품은 OpenDNS 이름으로 이어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사용자가 쓰는 DNS 확인 단계에서 피싱 차단과 콘텐츠 필터링을 제공하며, 가정용 무료 서비스에서 기업용 Umbrella로 확장된 DNS 기반 보안 서비스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.opendns.com/",
+  "entityLinks": {
+   "wikidata": "Q1121892",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1121892",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88DNS",
+    "https://en.wikipedia.org/wiki/OpenDNS"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1121892",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "샌프란시스코",
+   "founders": [
+    "David Ulevitch"
+   ],
+   "parent": "시스코 시스템즈",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「OpenDNS」 본문과 위키데이터 Q1121892 팩트를 근거로 편집",
+  "founded": {
+   "date": "2006-07",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

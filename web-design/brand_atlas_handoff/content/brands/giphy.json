@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q17054335",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/giphy-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "giphy",
+  "urlSlug": "giphy",
+  "name": "지피",
+  "nameKo": "지피",
+  "nameEn": "Giphy",
+  "definition": "지피(Giphy)는 사용자가 애니메이션 GIF 파일을 검색하고 공유할 수 있는 미국의 온라인 데이터베이스이자 검색 엔진이다. 2013년 Alex Chung과 Jace Cooke가 설립했다.",
+  "summary": "지피(Giphy)는 사용자가 애니메이션 GIF 파일을 검색하고 공유할 수 있는 미국의 온라인 데이터베이스이자 검색 엔진이다. 2013년 Alex Chung과 Jace Cooke가 설립했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "지피는 GIF 검색에 특화되어 메시징 서비스와 소셜 플랫폼에 검색창 형태로 통합된 점이 특징이며, Meta의 인수가 규제로 무산된 사례로도 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "지피는 애니메이션 GIF 파일을 검색하고 공유할 수 있게 하는 미국의 온라인 데이터베이스이자 검색 엔진이다. 2013년 2월 Alex Chung과 Jace Cooke가 설립했다. 처음에는 GIF 검색 엔진으로만 운영되었으나, 이후 사용자가 GIF를 게시하고 삽입하며 공유하는 기능으로 확장했다. 메시징 애플리케이션의 검색창을 통해 대화 속으로 콘텐츠를 전달하는 '대화형 검색'을 내세웠다. 2017년 7월에는 API와 웹사이트를 합쳐 일일 활성 사용자가 2억 명이라고 발표했다. 2020년 5월 Facebook(현 Meta Platforms)에 인수되기로 합의했으나 영국 경쟁시장청의 매각 명령을 받았고, 2023년 Shutterstock이 인수를 완료했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "지피는 2013년 2월 Alex Chung과 Jace Cooke가 설립했다. 두 사람이 아침 식사 중 시각적 소통이 늘어나는 추세를 이야기하다가 사업 아이디어를 떠올렸다. 출시 당시에는 GIF 검색 엔진 기능만 제공했으며, Chung에 따르면 첫 주에 약 100만 명의 이용자를 끌어모은 뒤 30만 명 수준으로 안정되었다. 2013년 8월 검색 엔진을 넘어 Facebook에서 GIF를 게시·삽입·공유할 수 있게 했고, PC Magazine은 2013년 Top 100 웹사이트로 꼽았다. 석 달 뒤에는 Twitter와 연동해 GIF의 URL을 공유하는 것만으로 GIF를 보낼 수 있게 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "지피의 핵심 서비스는 GIF 검색 엔진과 데이터베이스이다. 2015년 3월 GIF 메시징 서비스 Nutmeg를 인수해 모바일 분야로 나아갔으며, 같은 해 8월 두 번째 모바일 앱 GIPHY Cam을 출시해 GIF를 만들고 소셜 네트워크에서 공유할 수 있게 했다. 2015년 Facebook Messenger가 개발 플랫폼을 열 때 참여한 일부 앱 중 하나였다. 또한 브랜드와 제휴해 GIF를 호스팅한다. 2019년 2월에는 개인 메시지 안에 광고를 넣는 방식의 광고 모델을 검토 중이라고 밝혔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 5월 Shutterstock이 Meta Platforms로부터 지피를 현금으로 인수하겠다고 발표했고, 인수는 2023년 6월 23일 완료되었다. 이에 앞서 영국 경쟁시장청(CMA)은 2021년 11월 30일 Meta에 매각을 명령했으며, 2022년 10월 18일 재검토 끝에 다시 같은 결정을 내렸다. Meta는 결정에 동의하지 않는다고 밝히면서도 매각에 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "지피는 GIF 검색에 특화되어 메시징 서비스와 소셜 플랫폼에 검색창 형태로 통합된 점이 특징이며, Meta의 인수가 규제로 무산된 사례로도 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://giphy.com/",
+  "entityLinks": {
+   "wikidata": "Q17054335",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17054335",
+    "https://en.wikipedia.org/wiki/Giphy"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17054335",
+   "country": null,
+   "inception": "2013",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Giphy」 본문과 위키데이터 Q17054335 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

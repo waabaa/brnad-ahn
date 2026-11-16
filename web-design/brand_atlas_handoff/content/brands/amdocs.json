@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q460446",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/amdocs-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "amdocs",
+  "urlSlug": "amdocs",
+  "name": "Amdocs",
+  "nameKo": "",
+  "nameEn": "Amdocs",
+  "definition": "Amdocs는 미주리주에 본사를 둔 다국적 통신 기술·소프트웨어 기업으로, 통신, 미디어, 디지털 기업, 금융 서비스 사업자를 위한 소프트웨어와 서비스를 제공한다.",
+  "summary": "Amdocs는 미주리주에 본사를 둔 다국적 통신 기술·소프트웨어 기업으로, 통신, 미디어, 디지털 기업, 금융 서비스 사업자를 위한 소프트웨어와 서비스를 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "이스라엘 전화번호부 회사의 청구 소프트웨어에서 출발해 통신 서비스 사업자용 소프트웨어·서비스 기업으로 성장한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Amdocs는 통신 서비스 사업자를 위한 소프트웨어와 서비스를 제공하는 기업이다. 통신, 미디어, 디지털 기업, 금융 서비스 분야의 사업자를 고객으로 하며, 90개국 이상에서 사업을 운영하고 본사는 미국 미주리주에 있다. 2022년 기준 전 세계 직원은 약 30,000명으로 집계된다. 1982년 이스라엘에서 설립되었고, 청구 소프트웨어에서 출발해 고객 관계 관리, 클라우드, 5G 과금 기술로 사업 범위를 넓혀 왔다. 2023년에는 Nvidia의 AI foundry 서비스로 구축한 통신 서비스 사업자용 생성형 AI 프레임워크 amAIz를 선보였다. 2013년 12월부터 나스닥 글로벌 셀렉트 마켓에서 거래되고 있으며, 2026년 3월 31일부터 Shimie Hortig가 사장 겸 CEO를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Amdocs는 1982년 이스라엘에서 전화번호부 회사 Golden Pages의 분사 형태로 출발했다. Golden Pages는 Morris Kahn이 이끄는 Aurec Group 소유였으며, Kahn은 동료들과 전화번호부 회사용 청구 소프트웨어를 개발하고 Boaz Dotan과 함께 이를 판매할 Aurec Information & Directory Systems를 세웠다. Boaz Dotan이 초대 사장 겸 CEO를 맡았다. 1985년 Southwestern Bell Corporation이 지분 50퍼센트를 인수하면서 회사명이 Amdocs로 바뀌었다. 1990년부터 1995년 사이 유선 전화 시장과 이동통신 분야로 사업을 넓혔고, 1998년 6월 뉴욕증권거래소에서 기업공개를 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Amdocs는 통신 서비스 사업자를 위한 소프트웨어와 서비스를 제공한다. 1998년 기업공개 이후 청구와 고객 관계 관리 기업을 인수하며 사업을 키웠고, 1999년 International Telecommunication Data System Corporation을 인수해 매니지드 서비스 분야로 진출했다. 2018년에는 콘텐츠 수익화·처리·유통 소프트웨어 기업 Vubiquity를 인수했으며, 이 회사는 2026년 매각되었다. 2020년 인수한 Openet은 5G 과금, 정책, 클라우드 기술을 제공한다. 2023년 선보인 amAIz는 통신 서비스 사업자를 위한 생성형 AI 프레임워크이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Amdocs는 2013년 12월부터 나스닥 글로벌 셀렉트 마켓에서 거래되는 상장 기업이다. 90개국 이상에서 사업을 운영하며 2022년 기준 직원은 약 30,000명이다. 2023년에는 Astadia와 TEOCO의 Service Assurance 사업 부문을 인수했다. 2026년 3월 31일 Shuky Sheffer의 은퇴에 따라 Shimie Hortig가 사장 겸 CEO가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이스라엘 전화번호부 회사의 청구 소프트웨어에서 출발해 통신 서비스 사업자용 소프트웨어·서비스 기업으로 성장한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.amdocs.com/",
+  "entityLinks": {
+   "wikidata": "Q460446",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q460446",
+    "https://en.wikipedia.org/wiki/Amdocs"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q460446",
+   "country": "이스라엘",
+   "inception": "1982",
+   "headquarters": "세인트루이스",
+   "founders": [
+    "Morris Kahn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Amdocs」 본문과 위키데이터 Q460446 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

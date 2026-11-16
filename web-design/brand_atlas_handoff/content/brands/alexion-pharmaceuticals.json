@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q204727",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/alexion-pharmaceuticals-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "alexion-pharmaceuticals",
+  "urlSlug": "alexion-pharmaceuticals",
+  "name": "Alexion Pharmaceuticals",
+  "nameKo": "",
+  "nameEn": "Alexion Pharmaceuticals",
+  "definition": "Alexion Pharmaceuticals는 희귀질환 치료용 희귀의약품을 전문으로 하는 미국의 제약회사이다. 1992년에 설립되었으며 현재 AstraZeneca의 자회사이다.",
+  "summary": "Alexion Pharmaceuticals는 희귀질환 치료용 희귀의약품을 전문으로 하는 미국의 제약회사이다. 1992년에 설립되었으며 현재 AstraZeneca의 자회사이다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "희귀질환 치료용 희귀의약품에 집중하며, 연간 비용이 최대 $2 million에 이를 수 있는 고가 약을 만드는 AstraZeneca 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Alexion Pharmaceuticals는 미국에 기반을 둔 제약회사로, 희귀질환 치료에 쓰이는 희귀의약품을 전문으로 한다. 주요 제품으로 Soliris(eculizumab)와 Ultomiris(ravulizumab)가 있으며, 두 약은 비정형 용혈성 요독 증후군(aHUS)과 발작성 야간 혈색소뇨증(PNH) 치료에 쓰인다. 그 밖에 Strensiq, Kanuma, Andexxa를 제품군에 두고 있다. 이 회사가 만드는 약은 연간 비용이 최대 $2 million에 이를 수 있어 세계에서 가장 비싼 약에 속한다. 2021년 7월 AstraZeneca가 이 회사를 인수하면서 AstraZeneca의 자회사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Alexion Pharmaceuticals는 1992년 코네티컷주 뉴헤이븐의 Science Park에서 Steven Squinto와 Leonard Bell이 설립했다. 2000년에 본사를 뉴헤이븐에서 코네티컷주 체셔로 옮겼다. 2007년 미국 식품의약국(FDA)으로부터 Soliris 승인을 받았으며, 처음에는 희귀 혈액 질환인 발작성 야간 혈색소뇨증 치료제로 승인되었다. 2011년 12월 몬트리올 기반의 Enobia Pharma를, 2015년 6월 Synageva를 인수하며 희귀질환 치료제 사업을 넓혔다. 2015년 4월에는 Bell이 물러나고 David Hallal이 CEO를 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Soliris(eculizumab)와 Ultomiris(ravulizumab)이며, 비정형 용혈성 요독 증후군(aHUS)과 발작성 야간 혈색소뇨증(PNH) 치료에 쓰인다. Strensiq(asfotase alfa)는 희귀 대사 질환인 저인산증(hypophosphatasia) 치료에 쓰이고, 2015년 10월 FDA 승인을 받았다. Kanuma(sebelipase alfa)는 리소좀산 리파아제 결핍증 치료에 쓰인다. Andexxa(andexanet alfa)는 rivaroxaban이나 apixaban을 복용 중인 사람의 생명을 위협하거나 조절되지 않는 출혈을 멈추는 데 쓰인다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 7월 AstraZeneca가 $39 billion에 이 회사를 인수했고, 현재 AstraZeneca의 자회사이다. 2017년 9월에는 인력을 20% 줄이고 본사를 보스턴으로 옮기겠다고 발표했으며, 로드아일랜드주 Smithfield의 제조 시설 폐쇄도 함께 발표했다. 2020년 7월에는 터키와 러시아 공무원에게 뇌물을 제공해 약품 승인을 받으려 했다는 의혹을 해소하기 위해 $21 million이 넘는 금액을 지급하기로 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "희귀질환 치료용 희귀의약품에 집중하며, 연간 비용이 최대 $2 million에 이를 수 있는 고가 약을 만드는 AstraZeneca 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.alxn.com",
+  "entityLinks": {
+   "wikidata": "Q204727",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q204727",
+    "https://en.wikipedia.org/wiki/Alexion_Pharmaceuticals"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q204727",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "체셔",
+   "founders": [],
+   "parent": "아스트라제네카",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Alexion Pharmaceuticals」 본문과 위키데이터 Q204727 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

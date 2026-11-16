@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3140604",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/itv-plc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "itv-plc",
+  "urlSlug": "itv-plc",
+  "name": "ITV plc",
+  "nameKo": "",
+  "nameEn": "ITV plc",
+  "definition": "ITV plc는 영국 런던에 본사를 둔 영국의 미디어 기업이다. ITV 네트워크(Channel 3)를 구성하는 15개 지역 텔레비전 면허 가운데 13개를 보유하고 있다.",
+  "summary": "ITV plc는 영국 런던에 본사를 둔 영국의 미디어 기업이다. ITV 네트워크(Channel 3)를 구성하는 15개 지역 텔레비전 면허 가운데 13개를 보유하고 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "영국에서 가장 오래되고 규모가 큰 상업 지상파 텔레비전 네트워크로, 여러 지역 면허사가 합병을 거쳐 하나의 회사로 모인 구조를 지닌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ITV plc는 영국 런던에 기반을 둔 미디어 기업이다. ITV 네트워크(Channel 3)를 이루는 15개 지역 텔레비전 면허 중 13개를 보유하고 있다. 영국에서 가장 오래되고 가장 규모가 큰 상업 지상파 텔레비전 네트워크이다. 현재의 모습은 1994년 소유 규정이 완화된 뒤 ITV 네트워크 회사들 사이에서 이어진 인수합병의 결과이며, 2004년 Granada가 Carlton을 인수해 ITV plc로 사명을 바꾸며 완성되었다. 런던증권거래소에 상장되어 있으며 FTSE 250 지수의 구성 종목이다. 2026년 7월 6일에는 미디어·엔터테인먼트 사업부를 Sky에 매각한다고 발표했으며, 이 거래는 규제 당국의 승인을 전제로 한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2004년 Granada가 Carlton을 인수하고 사명을 ITV plc로 바꾸면서, 잉글랜드와 웨일스의 모든 ITV 면허를 하나로 묶은 회사가 출범했다. 그 배경에는 1994년 소유 규정이 완화된 뒤 ITV 네트워크 회사들 사이에서 이어진 인수합병이 있었다. 1994년 Carlton Communications는 Central Independent Television의 나머지 지분을 인수했고, Granada는 London Weekend Television을 적대적 인수로 사들였다. 2000년 Granada는 United News & Media의 면허를 인수하되 HTV는 Carlton에 매각했고, 2001년에는 Border Television을 사들였다. 2004년 합병 이후에는 스튜디오와 제작 부문의 설비 과잉을 줄이기 위해 여러 지역 본사와 스튜디오가 폐쇄되거나 통합되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "ITV plc는 런던증권거래소에 상장되어 있으며 FTSE 250 지수의 구성 종목이다. 이 회사는 ITV 네트워크의 15개 지역 면허 중 13개를 보유하고 있다. 2026년 7월 6일 미디어·엔터테인먼트 사업부를 Sky에 매각한다고 발표했으며, 규제 당국의 승인이 있어야 거래가 진행된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국에서 가장 오래되고 규모가 큰 상업 지상파 텔레비전 네트워크로, 여러 지역 면허사가 합병을 거쳐 하나의 회사로 모인 구조를 지닌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.itvplc.com/",
+  "entityLinks": {
+   "wikidata": "Q3140604",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3140604",
+    "https://en.wikipedia.org/wiki/ITV_plc"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3140604",
+   "country": "영국",
+   "inception": "2004",
+   "headquarters": "The London Studios",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「ITV plc」 본문과 위키데이터 Q3140604 팩트를 근거로 편집",
+  "founded": {
+   "date": "2004-02-02",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

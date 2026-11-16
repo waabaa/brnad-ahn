@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q994153",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/brunswick-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "brunswick-corporation",
+  "urlSlug": "brunswick-corporation",
+  "name": "Brunswick Corporation",
+  "nameKo": "",
+  "nameEn": "Brunswick Corporation",
+  "definition": "Brunswick Corporation은 1845년부터 다양한 제품을 개발·제조·판매해 온 미국 기업이다. 당구대 제조에서 출발했으며 Mercury Marine 등의 브랜드를 보유한다.",
+  "summary": "Brunswick Corporation은 1845년부터 다양한 제품을 개발·제조·판매해 온 미국 기업이다. 당구대 제조에서 출발했으며 Mercury Marine 등의 브랜드를 보유한다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "당구대 제조에서 출발해 볼링 장비와 Mercury Marine 인수를 거치며 여러 사업으로 확장해 온 1845년 설립의 미국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Brunswick Corporation은 이전에 Brunswick-Balke-Collender Company라는 이름으로 불렸으며, 1845년부터 다양한 제품을 개발·제조·판매해 온 미국 기업이다. 창업자 J. M. Brunswick은 스위스에서 미국으로 건너왔으며, 처음에는 마차 제조를 염두에 두었으나 당구대 제조로 방향을 바꾸어 사업을 키웠다. 이후 볼링 용품, 음반, 냉장고, 골프 장비 등으로 제품군을 넓혔다. 1960년에 사명을 Brunswick Corporation으로 공식 변경했고, 1961년에 Mercury Marine을 인수했다. 2024년 기준 24개국에서 13,000명이 넘는 직원을 두고 있으며 매출은 US$5.2 billion이다. 본사는 시카고 북부 교외인 일리노이주 Mettawa에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "J. M. Brunswick은 15세에 스위스에서 미국으로 건너왔으며, J. M. Brunswick Manufacturing Company는 1845년 9월 15일 오하이오주 신시내티에서 문을 열었다. 당시 미국에서 쓰이던 좋은 당구대는 영국산 수입품이었고, Brunswick의 당구대는 상업적으로 성공해 1848년 시카고에 첫 지점을 열었다. 1874년 Julius Balke의 Great Western Billiard Manufactory와 합병해 J. M. Brunswick & Balke Company가 되었고, 1879년에는 H. W. Collender Company와도 합병했다. 1884년 동업자들이 Brunswick-Balke-Collender Company를 세웠다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 주력은 당구대였고, 장식이 화려한 신고전주의 양식의 술집용 바도 인기 제품이었다. 볼링공, 핀, 장비를 중심으로 스포츠 용품 라인이 커졌으며, 가황 고무 같은 제조 소재의 볼링공을 대중화했다. 20세기 초에는 변기 시트, 자동차 타이어, 축음기로 제품을 넓혔고, 1910년대 말 Brunswick Records 음반을 선보였다. 1949년 완전 자동 Model A Mechanical Pinsetter를 내놓았고, 1950년대에는 골프 장비, 1970년대에는 자동 점수 계산기를 도입했다. 1961년에는 Mercury Marine을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 기준 Brunswick은 24개국에서 13,000명이 넘는 직원을 두고 있으며 매출은 US$5.2 billion이다. Mercury Marine 등이 브랜드에 포함된다. 본사는 시카고 북부 교외인 일리노이주 Mettawa에 있다. 1960년대에는 시카고 South Wabash Avenue의 본사를 떠나 시카고 루프에 지은 새 Brunswick Building으로 옮긴 적이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "당구대 제조에서 출발해 볼링 장비와 Mercury Marine 인수를 거치며 여러 사업으로 확장해 온 1845년 설립의 미국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.brunswick.com/",
+  "entityLinks": {
+   "wikidata": "Q994153",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q994153",
+    "https://en.wikipedia.org/wiki/Brunswick_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q994153",
+   "country": "미국",
+   "inception": "1845",
+   "headquarters": "레이크포리스트",
+   "founders": [
+    "J. M. Brunswick"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Brunswick Corporation」 본문과 위키데이터 Q994153 팩트를 근거로 편집",
+  "founded": {
+   "date": "1845-09-15",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

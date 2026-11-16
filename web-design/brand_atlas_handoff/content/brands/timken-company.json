@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q469553",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/timken-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "timken-company",
+  "urlSlug": "timken-company",
+  "name": "Timken Company",
+  "nameKo": "",
+  "nameEn": "Timken Company",
+  "definition": "Timken Company는 미국 오하이오주 노스캔턴에 본사를 둔 글로벌 엔지니어링 베어링 및 산업용 모션 제품 제조업체이다. 45개국에서 사업을 운영한다.",
+  "summary": "Timken Company는 미국 오하이오주 노스캔턴에 본사를 둔 글로벌 엔지니어링 베어링 및 산업용 모션 제품 제조업체이다. 45개국에서 사업을 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "베어링 제조에서 출발해 리니어 모션 등 산업용 모션 제품으로 영역을 넓혀 온, 테이퍼 롤러 베어링 중심의 산업재 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Timken Company는 엔지니어링 베어링과 산업용 모션 제품을 만드는 글로벌 제조업체이다. 본사는 미국 오하이오주 노스캔턴에 있으며 45개국에서 사업을 운영한다. 1899년 Henry Timken이 개량형 테이퍼 롤러 베어링 특허를 바탕으로 법인을 세운 것이 출발점이다. 2024년 매출은 $4.6 billion이었고 전 세계 직원은 19,000명 이상이다. 2003년 경쟁사 The Torrington Company를 $840 million에 인수해 회사 규모를 두 배로 키웠고, 당시 세계 3위 베어링 제조업체가 되었다. 2018년 리니어 가이드, 텔레스코픽 레일, 리니어 액추에이터를 만드는 Rollon을 인수하며 리니어 모션 분야에 진입했고, 이후 여러 기업을 인수해 산업용 모션 사업을 넓혀 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1898년 Henry Timken이 개량형 테이퍼 롤러 베어링 특허를 취득했고, 1899년 세인트루이스에서 The Timken Roller Bearing Axle Company로 법인을 설립했다. 1901년 자동차 산업이 마차 산업을 앞지르기 시작하자 오하이오주 캔턴으로 본사를 옮겼다. 디트로이트와 클리블랜드의 자동차 제조 중심지, 피츠버그와 클리블랜드의 제철 중심지에 가까운 입지였다. 1917년에는 베어링에 쓰는 강재를 더 잘 관리하기 위해 캔턴에서 제강·강관 사업을 시작했다. 20세기 초 영국, 프랑스, 독일에 진출했고 1960년에는 미국, 캐나다, 영국, 프랑스, 남아프리카공화국, 호주, 브라질에 사업장을 두었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 테이퍼 롤러 베어링이며 산업용 베어링 제품군도 확대하고 있다. 2018년 인수한 Rollon은 리니어 가이드, 텔레스코픽 레일, 리니어 액추에이터와 시스템을 만들며, 이후 2021년 iMS와 2023년 Nadella를 더해 리니어 모션 분야를 강화했다. 2023년에는 American Roller Bearing과 Engineered Solutions Group(iMECH)을 인수해 엔지니어링 베어링 제품군을 보강했다. 같은 해 Des-Case, Rosa Sistemi, Lagersmit을 Industrial Motion 부문에 더했고, 2024년에는 CGI, Inc.를 인수해 모션 컨트롤 플랫폼을 확장했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 롤러 베어링 부문과 제강 부문을 분리해 두 개의 별개 회사로 나누었으며, 제강은 TimkenSteel에서 이름을 바꾼 Metallus가 맡고 있다. 2024년 매출은 $4.6 billion이고 직원은 19,000명 이상이며 45개국에서 사업을 운영한다. 2026년 3월에는 윤활 시스템 업체 Bijur Delimon International을 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "베어링 제조에서 출발해 리니어 모션 등 산업용 모션 제품으로 영역을 넓혀 온, 테이퍼 롤러 베어링 중심의 산업재 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.timken.com/",
+  "entityLinks": {
+   "wikidata": "Q469553",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q469553",
+    "https://en.wikipedia.org/wiki/Timken_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q469553",
+   "country": "미국",
+   "inception": "1899",
+   "headquarters": "노스캔턴",
+   "founders": [
+    "Henry Timken"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Timken Company」 본문과 위키데이터 Q469553 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

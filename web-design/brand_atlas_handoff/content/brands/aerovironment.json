@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q919300",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/aerovironment-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "aerovironment",
+  "urlSlug": "aerovironment",
+  "name": "AeroVironment",
+  "nameKo": "",
+  "nameEn": "AeroVironment",
+  "definition": "AeroVironment는 자율 시스템, 대드론 시스템, 우주 시스템을 설계하고 제조하는 미국의 방위 기술 기업이다. 1971년 인력 비행기 설계자 Paul B. MacCready Jr.가 설립했다.",
+  "summary": "AeroVironment는 자율 시스템, 대드론 시스템, 우주 시스템을 설계하고 제조하는 미국의 방위 기술 기업이다. 1971년 인력 비행기 설계자 Paul B. MacCready Jr.가 설립했다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "인력 비행기 설계자가 세운 회사로, 소형 드론과 자율 시스템을 중심으로 미국 국방부와 해외 군에 공급하는 방위 기술 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 자율 시스템, 대드론(counter-UAS) 시스템, 우주 시스템을 설계하고 제조한다. 미국 국방부와 해외 군에 소형·중형 드론을 공급하며, 대표 제품으로 Raven, Switchblade, Wasp, Puma가 있다. 2025년 BlueHalo를 인수해 지향성 에너지와 우주 통신 시스템도 미국과 해외 군에 제공한다. 창업자 Paul B. MacCready Jr.는 인력 비행기를 설계한 인물이며, 초기에는 인력 비행기, 태양광 항공기, 태양광 자동차 등 다양한 기체를 제작했다. 2024년 1월에는 대만에 대한 미국의 무기 판매를 이유로 중국 정부의 제재를 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1971년 인력 비행기 설계자 Paul B. MacCready Jr.가 설립했다. 초기 기체인 Gossamer Condor는 최초로 성공한 인력 비행기이며, 1977년 첫 Kremer Prize를 받았다. 1979년 Gossamer Albatross는 영국 해협 23마일(37km)을 날아 항공 역사상 최대 상금을 받았다. 이후 Solar Challenger, Pathfinder 등 태양광 항공기로 영역을 넓혔고, NASA Helios Prototype은 96,863피트(29,524m) 비행 세계 기록을 세웠다. 태양광 자동차 Sunraycer는 1987년 호주에서 열린 최초의 태양광 자동차 경주에서 우승했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "방위 분야에서는 미국 국방부와 해외 군에 소형·중형 드론을 공급하며, 대표 제품은 Raven, Switchblade, Wasp, Puma이다. 사업 영역은 자율 시스템, 대드론 시스템, 우주 시스템으로 구성된다. BlueHalo 인수를 통해 지향성 에너지와 우주 통신 시스템도 제공한다. 과거에는 NASA ERAST 프로그램의 Pathfinder, Centurion, Helios Prototype 같은 태양광 무인기와 수소 동력의 Global Observer UAS를 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 5월 Arlington Capital Partners로부터 우주, 사이버, 대드론 방위 기술 개발사 BlueHalo를 인수하는 전량 주식 거래를 완료했다고 발표했다. 2025년 3월 4일에는 중국 상무부가 이 회사를 포함한 미국 기관 15곳을 수출통제 목록에 올려 이중용도 품목의 수출을 금지했다. 2026년 기준 시가총액은 $10B이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인력 비행기 설계자가 세운 회사로, 소형 드론과 자율 시스템을 중심으로 미국 국방부와 해외 군에 공급하는 방위 기술 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.avinc.com",
+  "entityLinks": {
+   "wikidata": "Q919300",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q919300",
+    "https://en.wikipedia.org/wiki/AeroVironment"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q919300",
+   "country": "미국",
+   "inception": "1971",
+   "headquarters": "시미밸리",
+   "founders": [
+    "Paul MacCready"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「AeroVironment」 본문과 위키데이터 Q919300 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

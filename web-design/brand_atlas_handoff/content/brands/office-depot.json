@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1337797",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/office-depot-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "office-depot",
+  "urlSlug": "office-depot",
+  "name": "오피스 디포",
+  "nameKo": "오피스 디포",
+  "nameEn": "Office Depot",
+  "definition": "오피스 디포(Office Depot)는 미국 플로리다주 보카러톤에 본사를 둔 사무용품 소매업체이다. Office Depot과 OfficeMax 브랜드로 매장과 전자상거래 사이트, 기업 간 판매 조직을 운영한다.",
+  "summary": "오피스 디포(Office Depot)는 미국 플로리다주 보카러톤에 본사를 둔 사무용품 소매업체이다. Office Depot과 OfficeMax 브랜드로 매장과 전자상거래 사이트, 기업 간 판매 조직을 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "미국 사무용품 소매업계에서 Office Depot과 OfficeMax 두 브랜드를 함께 운영하며, 매장·온라인·기업 간 판매를 아우르는 소매업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오피스 디포는 미국의 사무용품 소매업체로, 본사는 플로리다주 보카러톤에 있다. 미국에서 Office Depot과 OfficeMax 브랜드로 922개 소매 매장을 운영하며, 전자상거래 사이트와 기업 간 판매 조직도 함께 운영한다. 미국 내 직원은 약 19,000명이며 자체 브랜드 상품과 인쇄 서비스도 제공한다. 1986년에 설립되었고, 2013년 OfficeMax와의 합병을 완료하며 사업 규모를 키웠다. 2025년 9월 Atlas Holdings에 인수되기로 합의했고, 같은 해 12월 인수가 완료되어 비상장 회사가 되었다. 이 과정에서 Craig Gunckel이 북미 전역의 소매 및 B2B 사업 운영을 이끄는 최고경영자로 임명되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "오피스 디포는 1986년 10월 F. Patrick Sher, Stephen Dougherty, Jack Kopkin이 설립했으며, 각각 회장 겸 최고경영자, 사장, 부사장을 맡았다. 세 사람은 Sher가 1983년 Service Merchandise에 매각한 주택 개량 회사 Mr. HOW Warehouse 출신이다. 첫 매장은 1986년 10월 플로리다주 Lauderdale Lakes의 Lakes Mall에 문을 열었고, 회사는 1988년 12월 주식시장에 상장했다. 1991년 4월 Office Club과 합병해 서부 해안으로 확장했고, 1995년 Grupo Gigante와의 합작으로 멕시코에 진출해 첫 해외 확장을 이루었다. 1998년 5월에는 Viking Direct를 인수해 유럽과 호주의 직접 우편 판매 시장에 들어갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "오피스 디포는 Office Depot과 OfficeMax 브랜드의 소매 매장, 전자상거래 사이트, 기업 간 판매 조직으로 사업을 구성한다. 매장과 온라인에서 다양한 인쇄 서비스를 제공하며, 2020년 7월 16일 Canva와 제휴해 인쇄 서비스에 Canva의 디자인 플랫폼을 접목했다. 자체 브랜드 포트폴리오에는 Ativa, TUL, Foray, Realspace, DiVOGA가 있다. 2017년 기술 서비스 기업 CompuCom을 인수해 기술 서비스 사업 기반을 마련했고, 2021년 1월에는 기업용 조달 소프트웨어 업체 BuyerQuest를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 9월 Atlas Holdings에 인수되기로 합의했고, 같은 해 12월 인수가 완료되어 비상장 회사가 되었다. 미국에서 922개 소매 매장을 운영하며 직원은 약 19,000명이다. 전환의 일환으로 Craig Gunckel이 북미 소매 및 B2B 사업을 이끄는 최고경영자로 임명되었다. 2017년에는 Office Depot Europe를 투자회사에 매각한 바 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 사무용품 소매업계에서 Office Depot과 OfficeMax 두 브랜드를 함께 운영하며, 매장·온라인·기업 간 판매를 아우르는 소매업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.officedepot.com/",
+  "entityLinks": {
+   "wikidata": "Q1337797",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1337797",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%BC%EC%8A%A4_%EB%94%94%ED%8F%AC",
+    "https://en.wikipedia.org/wiki/Office_Depot"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1337797",
+   "country": "미국",
+   "inception": "1986",
+   "headquarters": "보카러톤",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Office Depot」 본문과 위키데이터 Q1337797 팩트를 근거로 편집",
+  "founded": {
+   "date": "1986-10",
+   "precision": "month",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

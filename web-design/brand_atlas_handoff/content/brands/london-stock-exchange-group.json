@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q5573225",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/london-stock-exchange-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "london-stock-exchange-group",
+  "urlSlug": "london-stock-exchange-group",
+  "name": "London Stock Exchange Group",
+  "nameKo": "",
+  "nameEn": "London Stock Exchange Group",
+  "definition": "London Stock Exchange Group은 영국 런던에 본사를 둔 금융 시장 데이터 및 인프라 제공 기업이다. 런던 증권거래소와 Refinitiv, FTSE Russell 등을 소유한다.",
+  "summary": "London Stock Exchange Group은 영국 런던에 본사를 둔 금융 시장 데이터 및 인프라 제공 기업이다. 런던 증권거래소와 Refinitiv, FTSE Russell 등을 소유한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1801년 설립된 런던 증권거래소를 모체로 시장 데이터와 지수, 기술 사업을 함께 보유한 영국의 금융 시장 인프라 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 그룹은 영국 런던에 본사를 둔 글로벌 금융 시장 데이터·인프라 제공 기업이며 약칭은 LSEG이다. 런던 증권거래소(London Stock Exchange), Refinitiv, LSEG Technology, FTSE Russell을 소유하고 LCH와 Tradeweb의 과반 지분을 보유한다. 모체인 런던 증권거래소는 1801년 런던에서 설립되었고, 2007년 Borsa Italiana를 인수하면서 현재의 그룹 체제가 만들어졌다. 그룹 자체도 런던 증권거래소에 상장되어 있다. 성장 과정에서 Deutsche Börse, TMX Group과의 합병이 추진되었으나 모두 성사되지 않았다. 지수와 데이터, 기술 사업까지 갖춘 영국 기반의 금융 시장 인프라 사업자이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "런던 증권거래소는 1801년 런던의 Sweeting's Alley에서 설립되었고 이듬해 Capel Court로 옮겼다. 1986년 규제 완화인 'big bang'으로 회원사에 대한 외부 소유가 처음 허용되었고, 1995년에는 Alternative Investment Market이 출범했다. 2001년 공개 유한회사 London Stock Exchange plc가 되어 상장했다. 2007년 밀라노에 기반을 둔 Borsa Italiana를 인수해 London Stock Exchange Group plc를 구성했으며, 상품과 고객 기반을 다변화하려는 목적이었다. 2009년에는 스리랑카 기반의 트레이딩 시스템 전문 소프트웨어 회사 Millennium Information Technologies를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "그룹은 런던 증권거래소, Refinitiv, LSEG Technology, 지수 사업 FTSE Russell을 소유한다. LCH와 Tradeweb은 과반 지분을 보유하고 있다. 지수 사업은 2011년 12월 FTSE International의 나머지 50% 지분을 인수하기로 합의하면서 확대되었다. 2014년에는 Frank Russell Co. 인수에 합의해 대형 지수 서비스 제공사 가운데 하나가 되었다. 2009년 인수한 Millennium Information Technologies는 트레이딩 시스템을 전문으로 하는 소프트웨어 회사였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "그룹은 영국 런던에 본사를 두고 런던 증권거래소에 상장되어 있다. 금융 시장 데이터와 인프라를 제공하는 글로벌 사업자로서 런던 증권거래소, Refinitiv, LSEG Technology, FTSE Russell을 소유하고 LCH와 Tradeweb의 과반 지분을 보유한다. 2016년 Deutsche Börse와 합병에 합의했으나 2017년 3월 EU 경쟁 당국이 합병을 막았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1801년 설립된 런던 증권거래소를 모체로 시장 데이터와 지수, 기술 사업을 함께 보유한 영국의 금융 시장 인프라 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://lseg.com/",
+  "entityLinks": {
+   "wikidata": "Q5573225",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5573225",
+    "https://en.wikipedia.org/wiki/London_Stock_Exchange_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5573225",
+   "country": "영국",
+   "inception": "2007",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「London Stock Exchange Group」 본문과 위키데이터 Q5573225 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

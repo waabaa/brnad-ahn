@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q513861",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/tibco-software-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tibco-software",
+  "urlSlug": "tibco-software",
+  "name": "Tibco Software",
+  "nameKo": "",
+  "nameEn": "Tibco Software",
+  "definition": "Tibco Software는 미국 팰로앨토에 본사를 둔 기업용 소프트웨어 회사로, 1997년 Vivek Ranadivé가 설립했다. 현재는 Cloud Software Group의 사업 부문이다.",
+  "summary": "Tibco Software는 미국 팰로앨토에 본사를 둔 기업용 소프트웨어 회사로, 1997년 Vivek Ranadivé가 설립했다. 현재는 Cloud Software Group의 사업 부문이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "실시간 정보 처리를 위한 정보 버스 소프트웨어에서 출발해 기업 통합과 데이터 분석 소프트웨어로 확장한 기업용 소프트웨어 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tibco Software는 기업용 소프트웨어를 제공하는 회사이다. TIBCO는 The Information Bus Company의 약칭으로, 기업이 정보를 실시간으로 받아 대응하도록 돕는 소프트웨어에서 출발했다. 초기에는 금융 부문을 주로 지원해 금융 거래 처리의 자동화에 쓰였고, 1999년에는 에너지와 반도체 제조 등 다른 산업으로 활용 범위가 넓어졌다. 본사는 팰로앨토에 있으며 북미, 유럽, 아시아, 중동, 아프리카, 남미에 사무소를 두고 있다. 2014년 Vista Equity Partners에 인수되었고, 2022년 Citrix Systems와 합병되어 Cloud Software Group이 출범하면서 그 사업 부문이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "TIBCO는 1997년 Vivek Ranadivé가 Reuters Holdings의 자회사로 설립했다. Ranadivé는 이전 회사 Teknekron Software Systems에서 정보 버스 소프트웨어를 개발했으며, 이 회사를 1994년 Reuters에 매각했다. 1997년 후반에는 Microsoft와 푸시 기술 개발에 협력한 13개 회사 중 하나가 되었다. 1999년 7월 14일 기업공개를 했고, 닷컴 버블 붕괴 이후에도 살아남아 2001년 USA Today가 꼽은 기술기업 50개 지수에 올랐다. 2011년에는 고객이 4,000곳, 직원이 2,500명으로 늘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "제품은 기업 애플리케이션 통합, 데이터 통합, 메시징, 이벤트 처리, 데이터 가상화, 마스터 데이터 관리, API 관리, 비즈니스 프로세스 자동화 기능을 제공한다. 2007년 비즈니스 인텔리전스 소프트웨어 회사 Spotfire를 인수했다. 보안 관리 플랫폼 LogLogic, 비즈니스 소프트웨어 업체 JasperSoft, 스트리밍 데이터 분석 회사 StreamBase Systems도 인수했다. 2015년에는 Intel의 API 관리 솔루션 Mashery 인수를 발표했고, 2017년에는 데이터 사이언스 플랫폼 Statistica 인수를 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 12월 Vista Equity Partners에 인수된 뒤 Murray Rode가 Ranadivé의 뒤를 이어 CEO가 되었고, 2019년에는 Dan Streetman이 CEO를 이어받았다. 2021년 1월 데이터·분석 회사 Information Builders를 인수했다. 2022년 9월 Vista와 Elliott Investment Management가 Citrix Systems를 인수해 TIBCO와 합병시켜 Cloud Software Group을 만들었고, Tom Krause가 새 회사의 CEO로 임명되었다. 현재 TIBCO는 Cloud Software Group의 사업 부문이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "실시간 정보 처리를 위한 정보 버스 소프트웨어에서 출발해 기업 통합과 데이터 분석 소프트웨어로 확장한 기업용 소프트웨어 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tibco.com/",
+  "entityLinks": {
+   "wikidata": "Q513861",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q513861",
+    "https://en.wikipedia.org/wiki/TIBCO_Software"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q513861",
+   "country": "미국",
+   "inception": "1997",
+   "headquarters": "팰로앨토",
+   "founders": [
+    "Vivek Ranadivé"
+   ],
+   "parent": "Vista Equity Partners",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「TIBCO Software」 본문과 위키데이터 Q513861 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

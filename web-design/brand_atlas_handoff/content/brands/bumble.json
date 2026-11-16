@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q21233433",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bumble-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bumble",
+  "urlSlug": "bumble",
+  "name": "범블",
+  "nameKo": "범블",
+  "nameEn": "Bumble",
+  "definition": "범블(Bumble)은 온라인 데이트와 소셜 네트워킹을 위한 미국의 모바일 앱이다. 2014년 12월 출시되었으며 Bumble Inc.가 운영하고, 미국에서 가장 인기 있는 데이팅 앱 중 하나이다.",
+  "summary": "범블(Bumble)은 온라인 데이트와 소셜 네트워킹을 위한 미국의 모바일 앱이다. 2014년 12월 출시되었으며 Bumble Inc.가 운영하고, 미국에서 가장 인기 있는 데이팅 앱 중 하나이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "벌 사회의 모계 구조에서 이름을 따, 여성이 먼저 대화를 시작하도록 설계했던 데이팅·소셜 앱이며, 이 규칙은 2024년 이후 바뀌었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "범블은 상대 후보의 프로필을 보여 주고, 왼쪽으로 스와이프하면 거절, 오른쪽으로 스와이프하면 관심 표시가 되는 방식으로 작동하며, 두 사용자가 서로 관심을 표시하면 대화를 시작할 수 있는 앱이다. BFF 모드를 통해 같은 성별의 플라토닉 친구와도 데이트 때와 같은 방식으로 매치할 수 있다. 운영사는 Bumble Inc.이며 이 회사는 Badoo도 소유하고 있다. 이름은 여성이 주도권을 갖는 벌 사회의 모계 구조에서 착안했다. 매치된 상대가 정해진 시간 안에 응답하지 않으면 매치가 사라지는 규칙도 두고 있다. 2025년 기준 유료 사용자는 2.4 million명이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "범블은 Whitney Wolfe Herd가 Tinder를 떠난 직후, Badoo 창업자 Andrey Andreev와 함께 만든 앱이다. 2014년 12월 출시되었고, 런던에 있는 Badoo 본사의 인프라를 사용했다. 2015년 8월 Wolfe Herd는 출시 후 8개월 동안 5 million 건의 고유 대화가 시작되었다고 밝혔다. 2017년 3월에는 월 800 million 건 이상의 매치와 10 billion 건의 스와이프를 기록했고, Apple App Store 라이프스타일 앱 2위였다. 2018년 12월 인도에 진출해 첫 4개월 동안 1 million 명 넘는 사용자를 확보했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 서비스는 프로필을 스와이프해 매치하고 대화하는 데이팅 기능이다. 사용자는 대화를 정렬하고, 통화를 하고, 사진 메시지를 보낼 수 있다. 2016년 3월 도입된 BFF 모드로 같은 성별의 플라토닉 친구를 찾을 수 있으며, 2025년에는 미국에서 이 서비스를 독립 BFF 앱으로 통합하기로 했다. 2025년 2월에는 핵심 브랜드인 Bumble과 Badoo에 집중하기 위해 Fruitz와 Official 앱을 2025년 중반까지 중단한다고 발표했다. 2024년 8월에는 사용자의 대화를 돕는 윙맨 역할의 챗봇 개발을 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 1월 Wolfe Herd가 CEO에서 물러나고 전 Slack CEO Lidiane Jones가 그 역할을 맡겠다고 발표되었으나, 이후 Wolfe Herd가 CEO로 복귀해 앱을 처음부터 다시 쓰는 Bumble 2.0 프로젝트를 지시했다. 2026년 6월 주가가 크게 하락해 인수자를 찾기 시작했고, 10월에는 Itasca Holdings의 인수로 비공개 기업이 되기 위한 협상이 막바지 단계에 있었다. 2026년 8월에는 남성도 먼저 대화를 시작할 수 있도록 규칙을 바꿨다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "벌 사회의 모계 구조에서 이름을 따, 여성이 먼저 대화를 시작하도록 설계했던 데이팅·소셜 앱이며, 이 규칙은 2024년 이후 바뀌었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://bumble.com/",
+  "entityLinks": {
+   "wikidata": "Q21233433",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q21233433",
+    "https://ko.wikipedia.org/wiki/%EB%B2%94%EB%B8%94",
+    "https://en.wikipedia.org/wiki/Bumble"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q21233433",
+   "country": null,
+   "inception": "2014",
+   "headquarters": null,
+   "founders": [
+    "Whitney Wolfe Herd"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Bumble」 본문과 위키데이터 Q21233433 팩트를 근거로 편집",
+  "founded": {
+   "date": "2014-12",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q808908",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/barrick-mining-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "barrick-mining-corporation",
+  "urlSlug": "barrick-mining-corporation",
+  "name": "Barrick Mining Corporation",
+  "nameKo": "",
+  "nameEn": "Barrick Mining Corporation",
+  "definition": "Barrick Mining Corporation은 금과 구리를 생산하는 캐나다의 광산 기업이다. 1983년 Peter Munk가 설립했으며 여러 나라에서 광산과 프로젝트를 운영한다.",
+  "summary": "Barrick Mining Corporation은 금과 구리를 생산하는 캐나다의 광산 기업이다. 1983년 Peter Munk가 설립했으며 여러 나라에서 광산과 프로젝트를 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "금과 구리를 함께 생산하며 한때 세계 최대 금 채굴 기업이었던 캐나다 광산 기업으로, 북미 금 자산을 분리해 American Barrick으로 상장하려 한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Barrick은 금과 구리를 생산하는 광산 기업이며 아르헨티나, 호주, 캐나다, 칠레, 콩고민주공화국, 도미니카공화국, 에콰도르, 이집트, 자메이카, 말리, 파키스탄, 파푸아뉴기니, 페루, 사우디아라비아, 세네갈, 탄자니아, 미국, 잠비아에서 광산과 프로젝트를 운영한다. 2025년에 금 3.26 million ounces와 구리 220,000 tonnes를 생산했다. 2025년 12월 31일 기준 매장량은 금 85 million ounces, 구리 18 million tonnes이다. 2019년 Newmont가 Goldcorp를 인수하기 전까지 세계 최대 금 채굴 기업이었다. 2026년에는 금 2.9~3.25 million ounces, 구리 190,000~220,000 tonnes 생산을 예상한다. 현재 사업을 두 부분으로 분리할 계획이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Barrick은 북미의 비상장 석유·가스 회사 Barrick Resources에서 출발했다. 석유·가스 사업에서 재무적 손실을 본 뒤 창업자 Peter Munk가 금 중심으로 방향을 바꾸기로 했다. Barrick Resources Corporation은 1983년 5월 2일 Toronto Stock Exchange에 상장했다. 1986년 American Barrick Resources로 이름을 바꾸었고 1987년 2월 New York Stock Exchange에 상장했으며, 1995년 Barrick Gold Corporation으로 바뀌었다. 이후 1994년 Lac Minerals, 2001년 Homestake Mining Company를 인수했고 2006년 12월 Placer Dome 인수를 마무리하며 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 금과 구리이다. 1980년대에 인수한 Goldstrike는 Barrick이 세계 주요 금 채굴 기업으로 성장하는 계기가 되었다. Placer Dome 인수로 Granny Smith, Osborne, Porgera, South Deep, Bald Mountain, Cortez, Golden Sunlight 광산의 운영사가 되었다. 북미 금 자산으로는 Newmont와의 합작사 Nevada Gold Mines의 지분 61.5%와 도미니카공화국 Pueblo Viejo 광산의 지분 60%가 있다. Nevada Gold Mines에는 Fourmile discovery가 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년까지 Barrick Gold Corporation이라는 이름을 썼다. 회사는 사업을 둘로 나눌 계획이며, American Barrick Gold Corporation이 Nevada Gold Mines와 Pueblo Viejo 등 북미 금 자산을 맡아 CEO Mark Hill의 지휘 아래 NYSE 상장을 추진한다. 2026년 11월 10일 SEC에 Form S-1을 제출했으며 심볼은 ABGC이고 Barrick이 과반 지분을 유지한다. 아프리카, 중남미, 아시아태평양 자산은 Barrick에 남는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "금과 구리를 함께 생산하며 한때 세계 최대 금 채굴 기업이었던 캐나다 광산 기업으로, 북미 금 자산을 분리해 American Barrick으로 상장하려 한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.barrick.com",
+  "entityLinks": {
+   "wikidata": "Q808908",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q808908",
+    "https://en.wikipedia.org/wiki/Barrick_Mining"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q808908",
+   "country": "캐나다",
+   "inception": "1983",
+   "headquarters": null,
+   "founders": [
+    "Peter Munk"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Barrick Mining」 본문과 위키데이터 Q808908 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

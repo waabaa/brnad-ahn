@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1067998",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/cirrus-logic-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cirrus-logic",
+  "urlSlug": "cirrus-logic",
+  "name": "시러스 로직",
+  "nameKo": "시러스 로직",
+  "nameEn": "Cirrus Logic",
+  "definition": "시러스 로직(Cirrus Logic)은 미국의 팹리스 반도체 업체이다. 아날로그, 신호 혼합, DSP 칩을 전문으로 하며 오디오 프로세서와 변환기를 공급한다.",
+  "summary": "시러스 로직(Cirrus Logic)은 미국의 팹리스 반도체 업체이다. 아날로그, 신호 혼합, DSP 칩을 전문으로 하며 오디오 프로세서와 변환기를 공급한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "시러스 로직은 오디오 프로세서와 변환기 등 아날로그·신호 혼합·DSP 칩에 집중하는 팹리스 반도체 업체이다. 과거에는 그래픽 칩셋도 만들었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시러스 로직은 미국의 아날로그, 신호 혼합, DSP 칩을 전문으로 하는 팹리스 반도체 제공 업체이다. 이 회사의 오디오 프로세서와 오디오 변환기는 홈시어터, 리시버, 세트톱 박스 하드웨어 같은 전문 오디오 및 소비자 엔터테인먼트 제품에 쓰인다. 아날로그 신호 혼합 변환기 칩은 여러 산업에서도 사용된다. 과거에는 모뎀 컨트롤러, 하드 디스크 컨트롤러 칩셋, 그래픽 카드 칩셋 등 더 다양한 제품을 개발해 판매했다. 본사는 오스틴에 있으며, 900개 이상의 특허와 600개 이상의 제품을 보유한 것으로 소개된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시러스 로직은 1981년 수하스 패틸(Suhas Patil)이 솔트레이크시티에서 패틸 시스템즈(Patil Systems)를 세우면서 시작되었다. 이 회사는 1984년 실리콘 밸리로 옮기면서 시러스 로직으로 이름을 바꾸었다. 이후 오디오와 신호 처리 분야의 칩을 중심으로 사업을 이어 왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시러스 로직의 대표 제품은 오디오 프로세서와 오디오 변환기이다. 이 제품들은 홈시어터, 리시버, 세트톱 박스 하드웨어 등 전문 오디오와 소비자 엔터테인먼트 제품에서 찾을 수 있다. 아날로그 신호 혼합 변환기 칩은 여러 산업에 쓰인다. 과거에는 모뎀 컨트롤러, 하드 디스크 컨트롤러 칩셋, CD 드라이브 컨트롤러 칩셋, 개인용 컴퓨터 사운드 카드 컨트롤러를 판매했다. 데스크톱용과 휴대용 장치용 그래픽 칩셋도 CL-GD 계열로 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "시러스 로직은 미국 오스틴에 본사를 둔 팹리스 반도체 업체이다. 900개 이상의 특허와 600개 이상의 제품을 전 세계 3,000명의 최종 소비자에게 판매하고 있다고 소개된다. 현재는 아날로그, 신호 혼합, DSP 칩에 집중하며 과거의 모뎀, 저장장치 컨트롤러, 그래픽 칩셋 사업은 하지 않는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시러스 로직은 오디오 프로세서와 변환기 등 아날로그·신호 혼합·DSP 칩에 집중하는 팹리스 반도체 업체이다. 과거에는 그래픽 칩셋도 만들었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cirrus.com",
+  "entityLinks": {
+   "wikidata": "Q1067998",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1067998",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EC%A7%81",
+    "https://en.wikipedia.org/wiki/Cirrus_Logic"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1067998",
+   "country": "미국",
+   "inception": "1981",
+   "headquarters": "오스틴",
+   "founders": [
+    "Suhas Patil"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「시러스 로직」 요약과 위키데이터 Q1067998 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

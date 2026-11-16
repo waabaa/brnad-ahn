@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2825507",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/aecom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "aecom",
+  "urlSlug": "aecom",
+  "name": "AECOM",
+  "nameKo": "",
+  "nameEn": "AECOM",
+  "definition": "AECOM은 미국 텍사스주 댈러스에 본사를 둔 다국적 인프라 컨설팅 기업이다. 1990년 설립되었으며 뉴욕증권거래소(NYSE)에 티커 ACM으로 상장되어 있다.",
+  "summary": "AECOM은 미국 텍사스주 댈러스에 본사를 둔 다국적 인프라 컨설팅 기업이다. 1990년 설립되었으며 뉴욕증권거래소(NYSE)에 티커 ACM으로 상장되어 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "건축·엔지니어링·건설·운영·관리의 머리글자를 이름으로 삼은 인프라 컨설팅 기업으로, Ashland Technology의 직원 인수를 통한 분사로 출범했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "AECOM은 미국의 다국적 인프라 컨설팅 기업으로, 본사는 텍사스주 댈러스에 있다. 회사 이름은 건축(Architecture), 엔지니어링(Engineering), 건설(Construction), 운영(Operations), 관리(Management)의 머리글자에서 왔다. 1990년부터 2015년까지 공식 사명은 AECOM Technology Corporation이었고, 현재는 AECOM이다. 뉴욕증권거래소(NYSE)에 티커 ACM으로 상장되어 있다. 2023년 기준 직원 수는 약 51,000명이었고, 2023년 Fortune 500 목록에서 291위를 기록했다. 건축·엔지니어링 회사를 다수 인수하는 방식으로 사업 범위를 넓혀 왔으며, 영국, 홍콩/중국, 호주, 중동으로 영향권을 확장했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "AECOM의 기원은 1910년 J. Fred Miles가 오클라호마에서 세운 Swiss Drilling Company에서 이어진 Ashland Oil & Refining Company로 거슬러 올라간다. Ashland는 1966년 Warren Brothers를 인수하며 고속도로 건설 사업에 진출했다. 1984년에는 로스앤젤레스의 건축 회사 Daniel, Mann, Johnson & Mendenhall(DMJM)을 인수했고, 1985년 DMJM은 새 자회사 Ashland Technology Corporation에 편입되었다. Ashland가 1980년대 후반 핵심 정유 사업으로 돌아가기로 하자 Richard G. Newman이 직원 인수 방안을 제안했고, 그 결과 Ashland Technology가 분사되어 1990년 AECOM이 출범했다. 이후 EDAW, ENSR, Ellerbe Becket, Davis Langdon 등을 인수하며 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "AECOM은 건축, 엔지니어링, 건설, 운영, 관리에 걸친 인프라 컨설팅을 제공한다. 인수한 회사들을 통해 도시계획·지속가능성(EDAW), 경제 컨설팅(Economic Research Associates), 환경(ENSR, The RETEC Group), 건축(Ellerbe Becket), 건설 컨설팅(Davis Langdon) 분야를 갖췄다. 2000년에는 수도·하수 엔지니어링 회사 Metcalf and Eddy를 인수했다. 2003년에는 중국 쑤저우 산업단지의 Jinji Lake 조경 계획을 수립해 상을 받았고, 얕은 늪지 연못이던 이 호수는 중국 최대급 호숫가 공원 중 하나로 개발되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "AECOM은 2007년 5월 뉴욕증권거래소에서 기업공개를 했고, 이를 통해 $468.3 million을 조달했다. 이후 2008년 The Services Group, Inc.와 Earth Tech Inc.를 인수했고, 2010년에는 Tishman Construction Corp. 인수를 발표했다. 2023년 기준 직원은 약 51,000명이며, 2023년 Fortune 500에서 291위였다. 본사는 댈러스에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "건축·엔지니어링·건설·운영·관리의 머리글자를 이름으로 삼은 인프라 컨설팅 기업으로, Ashland Technology의 직원 인수를 통한 분사로 출범했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.aecom.com",
+  "entityLinks": {
+   "wikidata": "Q2825507",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2825507",
+    "https://ko.wikipedia.org/wiki/AECOM",
+    "https://en.wikipedia.org/wiki/AECOM"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2825507",
+   "country": "미국",
+   "inception": "1990",
+   "headquarters": "로스앤젤레스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「AECOM」 본문과 위키데이터 Q2825507 팩트를 근거로 편집",
+  "founded": {
+   "date": "1990-04-06",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

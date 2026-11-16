@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1929466",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/ww-international-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ww-international",
+  "urlSlug": "ww-international",
+  "name": "WW International",
+  "nameKo": "",
+  "nameEn": "WW International",
+  "definition": "WW International은 미국에 본사를 둔 기업으로, 체중 감량과 유지, 피트니스, 마인드셋 서비스를 제공한다. 이전 이름은 Weight Watchers International, Inc.이다.",
+  "summary": "WW International은 미국에 본사를 둔 기업으로, 체중 감량과 유지, 피트니스, 마인드셋 서비스를 제공한다. 이전 이름은 Weight Watchers International, Inc.이다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "집단 모임과 상호 지원에 기반한 체중 감량 프로그램에서 출발해 건강과 웰니스 전반으로 방향을 넓힌 브랜드이다. 창업자 Jean Nidetch의 가정 내 지원 모임이 출발점이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "WW International은 체중 감량과 유지, 피트니스, 마인드셋 서비스를 제공하는 미국 기업이며 본사는 뉴욕에 있다. 대표 서비스는 Weight Watchers 종합 식단 프로그램이다. 2019년 기준 이 프로그램은 모바일 앱과 웹사이트를 통한 온라인, 온라인 또는 전화 코칭, 대면 모임의 세 가지 방식으로 이용할 수 있다. 회사는 1963년 Jean Nidetch와 Al·Felice Lippert 부부가 뉴욕 퀸스에서 Weight Watchers Inc.로 출범시켰고, Nidetch는 당시 퀸스에 살던 주부였다. 2018년에는 체중 감량 중심에서 전반적인 건강과 웰니스로 발전한 모습을 반영하기 위해 사명을 \"WW\"로 바꾸었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Jean Nidetch는 뉴욕 퀸스에 살던 주부로, 평생 대부분 과체중이었고 여러 유행 다이어트를 시도했으나 체중이 다시 늘었다. 1961년 38세에 214파운드였던 그는 뉴욕시 보건위원회 비만 클리닉이 후원하는 10주 무료 프로그램 \"Prudent Diet\"에 참여해 20파운드를 감량했다. 클리닉의 모임 방식이 마음에 들지 않자 자신의 아파트에서 매주 지원 모임을 시작했고, 처음 초대한 과체중 친구 여섯 명의 모임은 두 달 만에 매주 40명으로 늘었다. 1962년 10월 목표 체중 142파운드에 도달했고, Al과 Felice Lippert 부부와 함께 1963년 퀸스에서 Weight Watchers Inc.를 출범했다. 첫 공식 모임은 1963년 5월에 열렸고 400명이 참석했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 서비스는 Weight Watchers 종합 식단 프로그램으로, 2019년 기준 모바일 앱과 웹사이트를 통한 온라인, 온라인 또는 전화 코칭, 대면 모임의 세 가지 방식으로 제공된다. 초기에는 Felice Lippert가 레시피 개발, 영양, 식품 연구를 맡았으며, 1966년 출간된 첫 Weight Watchers 요리책은 1.5 million부 이상 팔렸다. 1968년에는 Weight Watchers Magazine이 창간되어 첫 호를 300,000부 발행했다. Al Lippert는 Weight Watchers 조리식품 라인, 스파, 과체중 아동을 위한 캠프, 저울과 여행용 키트 같은 체중 관리 제품도 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사는 2018년 이전 이름인 Weight Watchers International, Inc.에서 WW로 브랜드를 바꾸었다. 이는 체중 감량 중심에서 전반적인 건강과 웰니스로의 발전을 반영한 것이며, 2019년 기준 온라인, 코칭, 대면 모임의 세 가지 방식으로 프로그램을 운영한다. 본사는 미국 뉴욕에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "집단 모임과 상호 지원에 기반한 체중 감량 프로그램에서 출발해 건강과 웰니스 전반으로 방향을 넓힌 브랜드이다. 창업자 Jean Nidetch의 가정 내 지원 모임이 출발점이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.weightwatchers.com/",
+  "entityLinks": {
+   "wikidata": "Q1929466",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1929466",
+    "https://en.wikipedia.org/wiki/WW_International"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1929466",
+   "country": "미국",
+   "inception": "1963",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Jean Nidetch"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「WW International」 본문과 위키데이터 Q1929466 팩트를 근거로 편집",
+  "founded": {
+   "date": "1963-05-15",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

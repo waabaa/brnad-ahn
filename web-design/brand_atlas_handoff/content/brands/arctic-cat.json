@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q638036",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "arctic-cat",
+  "urlSlug": "arctic-cat",
+  "name": "Arctic Cat",
+  "nameKo": "",
+  "nameEn": "Arctic Cat",
+  "definition": "Arctic Cat은 스노모빌과 전지형 차량(ATV)을 설계하고 제조하는 미국 브랜드이다. 1960년에 출범했으며 미네소타주 Thief River Falls에서 제조 대부분을 맡아 왔다.",
+  "summary": "Arctic Cat은 스노모빌과 전지형 차량(ATV)을 설계하고 제조하는 미국 브랜드이다. 1960년에 출범했으며 미네소타주 Thief River Falls에서 제조 대부분을 맡아 왔다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "스노모빌 개척자 Edgar Hetteen이 Polaris Industries를 떠나 1960년 세운 브랜드이다. 미네소타주 Thief River Falls를 제조와 스노모빌 엔지니어링의 거점으로 삼아 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Arctic Cat은 스노모빌과 전지형 차량(ATV)을 설계, 엔지니어링, 제조, 판매하는 미국 브랜드이다. 1960년 스노모빌 개척자로 불리는 Edgar Hetteen이 자신이 시작했던 Polaris Industries를 떠난 뒤 세웠다. 제조와 스노모빌 엔지니어링 대부분은 미네소타주 Thief River Falls에서 이어 왔고, 엔진은 미네소타주 St. Cloud의 시설에서 만든다. 2017년 Textron이 인수하겠다고 발표했고, 2024년 12월 Textron은 두 미네소타 공장의 제조를 2025년 상반기에 중단하겠다고 밝혔다. 2025년 4월 Arctic Cat은 전 임원이자 Argo 사장인 Brad Darling과 투자 그룹에 인수되었다고 발표했다. 2026년 1월에는 퀘벡에 기반을 둔 Widescape를 인수했다고 밝혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Arctic Cat은 1960년 스노모빌 개척자 Edgar Hetteen이 자신이 시작했던 Polaris Industries를 떠난 뒤 세웠다. 첫 사명은 Polar Manufacturing이었으나 곧 Arctic Enterprises로 바뀌었고, 같은 해 첫 스노모빌을 만들었다. 1968년에는 온타리오 Rainy River에 15,000제곱피트 규모의 방한복 공장을 열어 직원 60명을 추가로 고용했고, 1970년에는 Boss Cat 라인을 시작했다. 1982년 파산했으나 2년 뒤 Arctco라는 새 회사가 만들어져 Arctic Cat 스노모빌 생산을 이어 갔으며, 1996년 사명을 Arctic Cat으로 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 회사가 설계, 엔지니어링, 제조, 판매하는 스노모빌과 전지형 차량(ATV)이다. 1968년에는 온타리오 Rainy River에 방한복 공장을 열었고, 1970년에는 Boss Cat 라인을 시작했다. 2019년 초 회사는 2020 모델 연도부터 Arctic Cat 브랜드를 사이드 바이 사이드(side-by-side)와 ATV에 되살리겠다고 발표했다. 엔진은 미네소타주 St. Cloud의 시설에서 제조한다. 2026년 1월 인수한 Widescape의 스탠드업 엔듀로 스노모빌도 생산할 예정이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 4월 24일 Arctic Cat은 전 임원이자 현재 Argo 사장인 Brad Darling이 Argo 지분을 상당량 보유한 투자 그룹과 함께 회사를 인수했다고 발표했다. 앞서 Textron은 2024년 12월 Thief River Falls와 St. Cloud의 제조를 2025년 상반기에 중단하고 전 직원을 내보내겠다고 밝혔으나, 2025년 5월 Arctic Cat은 두 공장에서 스노모빌 생산을 계속하며 500명에 가까운 인원을 고용하겠다고 밝혔다. 2026년 1월 7일에는 퀘벡에 기반을 둔 Widescape를 인수했다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스노모빌 개척자 Edgar Hetteen이 Polaris Industries를 떠나 1960년 세운 브랜드이다. 미네소타주 Thief River Falls를 제조와 스노모빌 엔지니어링의 거점으로 삼아 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.arcticcat.com",
+  "entityLinks": {
+   "wikidata": "Q638036",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q638036",
+    "https://en.wikipedia.org/wiki/Arctic_Cat"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q638036",
+   "country": "미국",
+   "inception": "1960",
+   "headquarters": "플리머스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Arctic Cat」 본문과 위키데이터 Q638036 팩트를 근거로 편집",
+  "founded": {
+   "date": "1960-06",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ }
+}

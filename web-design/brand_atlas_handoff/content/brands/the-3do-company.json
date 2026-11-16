@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1062171",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/the-3do-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "the-3do-company",
+  "urlSlug": "the-3do-company",
+  "name": "The 3DO Company",
+  "nameKo": "",
+  "nameEn": "The 3DO Company",
+  "definition": "The 3DO Company는 1991년 Trip Hawkins가 설립한 미국의 비디오 게임 회사이다. 3DO 규격의 게임 하드웨어를 개발하다가 서드파티 게임 개발사로 전환했으며 2003년 파산했다.",
+  "summary": "The 3DO Company는 1991년 Trip Hawkins가 설립한 미국의 비디오 게임 회사이다. 3DO 규격의 게임 하드웨어를 개발하다가 서드파티 게임 개발사로 전환했으며 2003년 파산했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "Electronic Arts 창업자가 만든 3DO 규격 하드웨어로 출발해 로열티 모델의 한계로 실패한 뒤, Army Men 등을 내놓은 게임 개발사로 전환한 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미국 캘리포니아주 레드우드시티에 본사를 둔 비디오 게임 회사이다. Electronic Arts 창업자 Trip Hawkins가 1991년 다른 일곱 개 회사와 제휴해 3DO 규격의 게임 하드웨어를 개발하려고 설립했다. 처음 목표는 CD 기반 차세대 게임기 3DO를 여러 제휴사와 라이선스 업체가 제조하게 하고, 판매된 기기와 제작된 게임마다 로열티를 받는 것이었다. 그러나 3DO가 시장에서 실패하자 하드웨어 사업에서 철수해 서드파티 게임 개발사로 전환했고, Army Men, Battletanx, High Heat Major League Baseball, Might and Magic 같은 시리즈를 출시했다. 1997년 중반에는 하드웨어 사업을 Samsung에 매각하며 콘솔 개발사로서의 출발점과 결별했다. 이후 게임 판매 부진으로 2003년 파산했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Trip Hawkins는 Electronic Arts에서 일하며 소프트웨어 시장이 급성장하는 것을 지켜본 뒤 하드웨어 시장에 진출하고자 했다. 회사는 1991년 설립되었고, 3DO 규격 개발을 위해 일곱 개 회사와 제휴했다. AT&T, Electronic Arts, Goldstar, Matsushita, MCA, Time Warner 등이 후원했다. 1993년 10월 첫 3DO 시스템이 출시되었으며 Panasonic 모델이 US$699에 판매되었다. 게임 한 편당 로열티는 $3로 Nintendo와 Sega보다 매우 낮았으나, 기기 가격이 SNES와 Sega Genesis를 합친 것보다 높아 판매가 부진했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 사업은 CD 기반 3DO 게임기 규격이었고, 1996년 1월에는 차세대 콘솔 M2의 독점 권리를 Matsushita에 $100 million에 팔았으나 Matsushita가 1997년 M2를 취소해 출시되지 않았다. 소프트웨어로 전환한 뒤에는 Cyclone Studios, New World Computing, Archetype Interactive를 인수했다. 가장 큰 히트작은 녹색 플라스틱 병정 장난감을 소재로 한 Army Men 시리즈였다. New World Computing의 Might and Magic과 Heroes of Might and Magic 시리즈도 출시 당시 가장 인기 있는 편에 속했다. 1990년대 후반에는 초기 3D MMORPG 중 하나인 Meridian 59를 퍼블리시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 회사는 2003년 게임 판매 부진으로 파산했다. 그 이전 1996년 하반기에는 소프트웨어 개발과 온라인 게임에 집중하도록 구조조정하며 직원을 450명에서 300명으로 줄였다. 당시 Hugh Martin 사장이 전권을 받았고, Hawkins는 회장, CEO, 크리에이티브 디렉터로 남았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Electronic Arts 창업자가 만든 3DO 규격 하드웨어로 출발해 로열티 모델의 한계로 실패한 뒤, Army Men 등을 내놓은 게임 개발사로 전환한 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.3do.com/",
+  "entityLinks": {
+   "wikidata": "Q1062171",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1062171",
+    "https://ko.wikipedia.org/wiki/3DO_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/The_3DO_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1062171",
+   "country": "미국",
+   "inception": "1991",
+   "headquarters": "레드우드시티",
+   "founders": [
+    "트립 호킨스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「The 3DO Company」 본문과 위키데이터 Q1062171 팩트를 근거로 편집",
+  "founded": {
+   "date": "1991-09-12",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

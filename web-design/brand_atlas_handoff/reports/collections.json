@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-11-13",
+ "generatedAt": "2026-11-16",
  "counts": {
   "ai": 26,
   "fintech": 32,
-  "banking": 81,
-  "energy": 61,
-  "property": 40,
-  "airlines": 88,
+  "banking": 93,
+  "energy": 75,
+  "property": 43,
+  "airlines": 90,
   "museums": 27,
-  "fast-food": 58,
+  "fast-food": 60,
   "cafes": 34,
   "beer": 383,
-  "digital-services": 89,
+  "digital-services": 92,
   "olympics-expos": 16
  },
  "members": {
@@ -5611,6 +5611,222 @@
    {
     "collection": "airlines",
     "why": "wikidata Q431757 P31=Q46970"
+   }
+  ],
+  "absa-group-limited": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q58641733 P31=Q22687"
+   }
+  ],
+  "aecom": [
+   {
+    "collection": "property",
+    "why": "wikidata Q2825507 P452=Q385378"
+   }
+  ],
+  "ally-financial": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q2032800 P31=Q22687"
+   }
+  ],
+  "atlas-air": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q757135 P31=Q46970"
+   }
+  ],
+  "banco-de-chile": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q2882085 P31=Q22687"
+   }
+  ],
+  "bancolombia": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q806206 P31=Q22687"
+   }
+  ],
+  "buffalo-wild-wings": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q509255 P31=Q18509232"
+   }
+  ],
+  "bumble": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q21233433 P31=Q28134845"
+   }
+  ],
+  "comerica": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1114148 P31=Q22687"
+   }
+  ],
+  "ello": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q18136409 P31=Q3220391"
+   }
+  ],
+  "first-republic-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q5453752 P31=Q22687"
+   }
+  ],
+  "fluor-corporation": [
+   {
+    "collection": "property",
+    "why": "wikidata Q653581 P452=Q385378"
+   }
+  ],
+  "flyr": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q105720709 P31=Q46970"
+   }
+  ],
+  "hdfc-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q631047 P31=Q22687"
+   }
+  ],
+  "hess-corporation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1615684 P452=Q862571"
+   }
+  ],
+  "husky": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q702049 P452=Q862571"
+   }
+  ],
+  "korea-national-oil-corporation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q489004 P452=Q862571"
+   }
+  ],
+  "macro-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q2335199 P31=Q22687"
+   }
+  ],
+  "marathon-oil": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1577587 P452=Q862571"
+   }
+  ],
+  "national-grid-plc": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1465461 P31=Q112046"
+   }
+  ],
+  "national-oilwell-varco": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1817417 P31=Q94532151"
+   }
+  ],
+  "nomura-holdings": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1295105 P31=Q22687"
+   }
+  ],
+  "planet-hollywood": [
+   {
+    "collection": "fast-food",
+    "why": "wikidata Q677634 P31=Q18509232"
+   }
+  ],
+  "repsol-oil-gas-canada": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q838716 P452=Q862571"
+   }
+  ],
+  "signature-bank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q24204571 P31=Q848507"
+   }
+  ],
+  "sumitomo-mitsui-financial-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q2094989 P31=Q22687"
+   }
+  ],
+  "suncor-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1516410 P452=Q862571"
+   }
+  ],
+  "suntrust-banks": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q181507 P31=Q22687"
+   }
+  ],
+  "technipfmc": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q30324333 P452=Q862571"
+   }
+  ],
+  "tesoro-corporation": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2037080 P452=Q862571"
+   }
+  ],
+  "viridien": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2931412 P452=Q862571"
+   }
+  ],
+  "weatherford-international": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q621071 P31=Q94532151"
+   }
+  ],
+  "woodside-energy": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1812208 P31=Q14941854"
+   }
+  ],
+  "yelp": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q2299611 P31=Q3220391"
+   }
+  ],
+  "yit": [
+   {
+    "collection": "property",
+    "why": "wikidata Q2300228 P452=Q385378"
+   }
+  ],
+  "ypf": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q2006989 P452=Q862571"
    }
   ]
  }

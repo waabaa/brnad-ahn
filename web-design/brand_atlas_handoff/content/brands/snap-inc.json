@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q27022329",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/snap-inc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "snap-inc",
+  "urlSlug": "snap-inc",
+  "name": "스냅",
+  "nameKo": "스냅",
+  "nameEn": "Snap Inc.",
+  "definition": "스냅(Snap Inc.)은 미국 캘리포니아주 샌타모니카에 본사를 둔 기술 기업이다. Snapchat, Spectacles(SPECS), Bitmoji 등의 제품과 서비스를 개발하고 운영한다.",
+  "summary": "스냅(Snap Inc.)은 미국 캘리포니아주 샌타모니카에 본사를 둔 기술 기업이다. Snapchat, Spectacles(SPECS), Bitmoji 등의 제품과 서비스를 개발하고 운영한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "사진 공유 앱 Snapchat에서 출발해 스마트 안경 Spectacles까지 제품을 넓힌 미국 기술 기업이다. 사명도 Spectacles를 포함하기 위해 Snapchat Inc.에서 바꿨다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스냅은 2011년 9월에 설립된 미국 기술 기업으로, 본사는 캘리포니아 샌타모니카에 있다. 사진 공유 앱 Picaboo를 Snapchat으로 재출시하면서 시작했고, 설립 당시 회사명은 Snapchat Inc.였다. 2016년 9월 24일 Spectacles(SPECS) 제품을 회사명에 포함하기 위해 Snap Inc.로 사명을 바꿨다. 2017년 1월 런던 소호에 국제 본사를 세웠다고 밝혔고, 같은 해 3월 종목 기호 SNAP으로 상장했다. 2014년에는 AddLive를 인수해 영상 채팅 기능에 필요한 기술을 확보하는 등 인수를 통해 기술을 보강해 왔다. Snapchat 외에도 Spectacles와 Bitmoji를 회사의 기술 제품과 서비스로 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2011년 9월 Evan Spiegel, Reggie Brown, Bobby Murphy가 사진 공유 앱 Picaboo를 Snapchat으로 재출시하며 회사를 세웠고, 당시 회사명은 Snapchat Inc.였다. 2013년 12월 31일 앱이 해킹되어 사용자 이름과 전화번호 4.6 million건이 인터넷에 유출됐다. 2014년 1월까지 Mark Zuckerberg의 제안을 포함한 인수 제안을 거절했다. 2015년 5월에는 기존 본사를 떠나 베니스 비치 인근의 사무 단지로 옮기고 10년 임대 계약을 맺었다. 2017년 3월 종목 기호 SNAP으로 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Snapchat, Spectacles(SPECS), Bitmoji이다. Spectacles는 2016년 9월 공개한 스마트 안경이다. Snapchat의 Lenses 기능은 2015년 9월 인수한 Looksery의 얼굴 인식 소프트웨어를 바탕으로 개발했다. 2017년 5월에는 위치 공유 앱 Zenly를 인수했고, 그 개념은 2017년 6월 Snapchat 기능으로 반영됐다. 콘텐츠 분야에서는 2016년 12월 Time Warner 산하 Turner Broadcasting System과 제휴했고, 2017년 10월 NBCUniversal과 합작 투자를 구성해 Snap 플랫폼용 콘텐츠를 제작한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사진 공유 앱 Snapchat에서 출발해 스마트 안경 Spectacles까지 제품을 넓힌 미국 기술 기업이다. 사명도 Spectacles를 포함하기 위해 Snapchat Inc.에서 바꿨다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://snap.com/",
+  "entityLinks": {
+   "wikidata": "Q27022329",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27022329",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%83%85_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Snap_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27022329",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": "샌타모니카",
+   "founders": [
+    "에반 스피겔",
+    "Bobby Murphy"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Snap Inc.」 본문과 위키데이터 Q27022329 팩트를 근거로 편집",
+  "founded": {
+   "date": "2011-09-16",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1994975",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ayala-corporation",
+  "urlSlug": "ayala-corporation",
+  "name": "아얄라 코퍼레이션",
+  "nameKo": "아얄라 코퍼레이션",
+  "nameEn": "Ayala Corporation",
+  "definition": "아얄라 코퍼레이션(Ayala Corporation)은 1834년 스페인 식민 통치기에 설립된 필리핀의 다각화 복합기업이다. 필리핀에서 가장 오래되고 규모가 큰 복합기업으로 소개된다.",
+  "summary": "아얄라 코퍼레이션(Ayala Corporation)은 1834년 스페인 식민 통치기에 설립된 필리핀의 다각화 복합기업이다. 필리핀에서 가장 오래되고 규모가 큰 복합기업으로 소개된다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1834년 동업 회사에서 출발해 필리핀에서 가장 오래된 복합기업으로 자리 잡았고, 창업 가문 지주회사의 지배 아래 여러 산업에 투자한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "필리핀 마카티에 본사를 둔 다각화 복합기업이다. 소매, 교육, 부동산, 은행, 통신, 수도 인프라, 재생에너지, 전자, 정보기술, 자동차, 헬스케어, 경영, 비즈니스 프로세스 아웃소싱 등 여러 분야에 투자한다. 1834년 Domingo Ureta Roxas와 Antonio de Ayala가 시작했으며, 필리핀에서 가장 오래되고 가장 큰 복합기업으로 소개된다. 2024년 기준 Forbes Global 2000에서 필리핀 5위 기업, Fortune Southeast Asia 500에서 연 매출 기준 7위로 평가되었다. 스페인어 이름은 Corporación Ayala이며 이전 명칭은 Ayala y Compañía이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뿌리는 1834년 Domingo Ureta Roxas와 Antonio de Ayala가 세운 동업 회사 Casa Róxas로 거슬러 올라간다. 사업은 Ginebra San Miguel을 만든 Ayala Distillery에서 출발했으며, 이 증류소는 1929년 Carlos T. Palanca 소유의 La Tondeña, Inc.에 인수되었다. Ayala y Compañía는 1888년 필리핀 최초의 전차 서비스를 도입했고 Ayala Bridge 건설에도 참여했다. 제2차 세계대전 이후에는 Joseph Ralph McMicking 대령의 지휘 아래 마카티 도시 개발을 맡았다. 1968년 Ayala Corporation을 설립해 동업에서 법인으로 전환했고, 1973년부터 1974년까지 Mitsubishi Corporation의 소수 지분 투자를 받았으며 1976년 공개기업이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소매, 교육, 부동산, 은행, 통신, 수도 인프라, 재생에너지, 전자, 정보기술, 자동차, 헬스케어, 경영, 비즈니스 프로세스 아웃소싱 분야에 투자한다. 역사적으로는 Ginebra San Miguel을 생산한 Ayala Distillery로 사업을 시작했다. 2011년부터 재생에너지 포트폴리오를 구축하기 시작했다. Mitsubishi와 태양광 합작사업을, Sta. Clara Power와 소수력 발전 합작사업을 추진했고 Northwind 풍력 농장을 매입했다. 2015년까지 필리핀 전력 공급에 1000 MW를 기여하겠다고 밝혔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Zobel de Ayala 가문의 지주회사 Mermac, Inc.가 지배 지분을 보유하고 있다. 2006년 Jaime Zóbel de Ayala가 회장에서 물러나자 장남 Jaime Augusto Zóbel de Ayala가 회장 겸 최고경영자를, 차남 Fernando Zóbel de Ayala가 사장 겸 최고운영책임자를 맡았다. 2024년 기준 Forbes Global 2000에서 필리핀 5위, Fortune Southeast Asia 500에서 7위에 올랐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1834년 동업 회사에서 출발해 필리핀에서 가장 오래된 복합기업으로 자리 잡았고, 창업 가문 지주회사의 지배 아래 여러 산업에 투자한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ayala.com.ph/",
+  "entityLinks": {
+   "wikidata": "Q1994975",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1994975",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%96%84%EB%9D%BC_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/Ayala_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1994975",
+   "country": "필리핀",
+   "inception": "1834",
+   "headquarters": "마카티",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Ayala Corporation」 본문과 위키데이터 Q1994975 팩트를 근거로 편집"
+ }
+}

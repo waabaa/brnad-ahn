@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1509038",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/tenneco-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tenneco",
+  "urlSlug": "tenneco",
+  "name": "Tenneco",
+  "nameKo": "",
+  "nameEn": "Tenneco",
+  "definition": "Tenneco는 미국의 자동차 부품 주문자상표부착생산(OEM) 업체이자 승차감 제어 및 배기 제품 애프터마켓 제조업체이다. 본래 Tennessee Gas Transmission Company라는 이름으로 출발했다.",
+  "summary": "Tenneco는 미국의 자동차 부품 주문자상표부착생산(OEM) 업체이자 승차감 제어 및 배기 제품 애프터마켓 제조업체이다. 본래 Tennessee Gas Transmission Company라는 이름으로 출발했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "천연가스 파이프라인 회사에서 출발해 농기계 등으로 사업을 다각화한 뒤, 자동차 승차감 제어·배기 부품 제조사가 된 미국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tenneco는 미국의 자동차 부품 OEM 업체이며, 승차감 제어(ride control)와 배기(emissions) 제품을 만드는 애프터마켓 제조업체이다. 예전 이름은 Tenneco Automotive였고, 처음에는 Tennessee Gas Transmission Company라는 이름으로 시작했다. Fortune 500에 속하는 기업이며 1999년 11월부터 2022년 11월까지 뉴욕증권거래소(New York Stock Exchange)에 상장되어 있었다. 2022년 11월 Apollo Global Management가 인수해 비상장 기업이 되었다. 본사는 미시간주 Northville Charter Township에 있다. 천연가스 파이프라인 사업에서 출발해 여러 분야로 사업을 넓힌 뒤 자동차 부품 기업으로 자리 잡았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Tenneco의 기원은 1930년경 설립된 Chicago Corporation에 있다. Tennessee Gas Transmission Company는 이와 별개로 1940년에 만들어졌다. Chicago Corporation의 Tennessee 부문은 1943년 Tennessee Gas Transmission Company를 인수해 텍사스에서 웨스트버지니아까지 1,265마일(2,036km) 길이의 천연가스 파이프라인을 건설했고, 첫 노선은 1944년 10월 완공되었다. 1966년 Tennessee Gas는 Tenneco, Inc.로 법인명을 바꾸었고, 이후 다각화를 통해 여러 사업에 진출했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1967년 Walker, Inc.를 인수했는데, 이 회사는 범용 규격 배기 머플러와 파이프를 만드는 제조업체였다. 이듬해 순정 촉매변환기의 비용 효율적 대안이 될 범용 촉매변환기 개발에 착수했고, 제품을 내놓기까지 8년이 걸렸다. 현재 사업은 자동차 부품 OEM 공급과 승차감 제어·배기 제품 애프터마켓으로 구성된다. 과거에는 1970년대에 J.I. Case 지분 53%를 확보하며 농기계 사업에도 진출했고, 1972년에 David Brown Tractors를 사들여 J.I. Case 사업과 합쳤다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 11월 Apollo Global Management에 인수되어 비상장 기업이 되었다. 1999년 11월부터 뉴욕증권거래소에 상장되어 있었고 Fortune 500에 속하는 기업이다. 본사는 미시간주 Northville Charter Township에 있다. 천연가스 파이프라인은 1996년 El Paso Corporation이 인수했고 현재는 Kinder Morgan이 소유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "천연가스 파이프라인 회사에서 출발해 농기계 등으로 사업을 다각화한 뒤, 자동차 승차감 제어·배기 부품 제조사가 된 미국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tenneco.com/",
+  "entityLinks": {
+   "wikidata": "Q1509038",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1509038",
+    "https://en.wikipedia.org/wiki/Tenneco"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1509038",
+   "country": "미국",
+   "inception": "1930",
+   "headquarters": "레이크포리스트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Tenneco」 본문과 위키데이터 Q1509038 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

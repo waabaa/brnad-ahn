@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q343204",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/actavis-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "actavis",
+  "urlSlug": "actavis",
+  "name": "Actavis",
+  "nameKo": "",
+  "nameEn": "Actavis",
+  "definition": "Actavis는 아일랜드 더블린에 본사를 둔 제약회사로, 약 100개국에서 사업을 운영한다. 브랜드 의약품과 제네릭·일반의약품, 바이오 의약품을 인수·개발·제조·판매한다.",
+  "summary": "Actavis는 아일랜드 더블린에 본사를 둔 제약회사로, 약 100개국에서 사업을 운영한다. 브랜드 의약품과 제네릭·일반의약품, 바이오 의약품을 인수·개발·제조·판매한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "Watson Pharmaceuticals에서 이어진 회사로, 브랜드 의약품과 세계 3위 규모의 제네릭 사업을 함께 운영했다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Actavis는 브랜드 의약품과 제네릭, 일반의약품, 바이오 의약품을 인수·개발·제조·판매하는 글로벌 제약회사이다. Watson Pharmaceuticals와 Actavis plc라는 이름으로도 불렸다. 글로벌 본사는 아일랜드 더블린에 있고 관리 본사는 미국 뉴저지주 Parsippany-Troy Hills에 있다. 약 100개국에서 사업을 운영하며 세계 3위 규모의 제네릭 사업도 갖고 있다. 40곳이 넘는 제조·유통 시설을 두고 있다. 2015년 6월 15일 Actavis plc는 Allergan plc로 사명을 바꿨으나 미국과 캐나다의 제네릭 사업은 Actavis 이름으로 계속 운영하기로 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 Allen Chao 박사와 David Hsia 박사가 친구와 가족의 자금 지원을 받아 소규모 신약 개발 사업을 시작하면서 출범했다. 창업자들은 두 달 뒤 미국 일리노이주 Libertyville의 임대 공간에 직원 여섯 명(창업자 두 명 포함)으로 초기 제품 개발·분석 연구소를 세웠다. 같은 해 늦가을 남부 캘리포니아 Corona의 임대 시설로 옮겨 제네릭 의약품 개발과 제조를 시작했고, 이곳이 본사가 되었다. 1993년 기업공개를 발표해 NASDAQ에 WATS라는 종목명으로 상장했으며, 1997년 NYSE로 옮겨 WPI라는 종목명으로 거래했다. 이후 자체 성장과 전략적 인수를 통해 사업을 넓혀 왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "브랜드 의약품은 미용·피부·성형외과, 신경과학·중추신경계, 안과, 여성 건강·비뇨기과, 소화기·낭포성 섬유증, 심혈관·감염질환의 여섯 개 프랜차이즈로 판매한다. 대표 제품에는 Botox, Namenda, Restasis, Linzess, Bystolic, Juvederm 등이 있다. 미국 밖에서는 Medis 사업을 통해 제네릭 제품을 개발해 외부에 라이선스하며, 고객이 300곳 넘고 제품이 200개 넘는 세계 최대 규모의 제네릭 라이선스 사업이다. 종양학 등 분야에서 바이오시밀러 다섯 개를 개발 중이었다. 미국 제네릭 유통사 Anda Inc도 글로벌 운영 부문에 속했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 6월 Actavis plc는 Allergan plc로 사명을 바꿨다. 같은 해 7월 Allergan PLC는 Anda Inc를 포함한 제네릭 사업부를 Teva Pharmaceuticals에 $40.5 billion에 매각한다고 발표했으며, 2016년 1분기 완료를 목표로 한 거래였다. 미국과 캐나다의 제네릭 사업은 Actavis 이름으로 계속 운영하기로 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Watson Pharmaceuticals에서 이어진 회사로, 브랜드 의약품과 세계 3위 규모의 제네릭 사업을 함께 운영했다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.actavis.com/",
+  "entityLinks": {
+   "wikidata": "Q343204",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q343204",
+    "https://en.wikipedia.org/wiki/Actavis"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q343204",
+   "country": "아일랜드",
+   "inception": "1984",
+   "headquarters": "더블린",
+   "founders": [
+    "Allen Chao"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Actavis」 본문과 위키데이터 Q343204 팩트를 근거로 편집",
+  "founded": {
+   "date": "1984-03",
+   "precision": "month",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

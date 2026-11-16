@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q653581",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/fluor-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "fluor-corporation",
+  "urlSlug": "fluor-corporation",
+  "name": "Fluor Corporation",
+  "nameKo": "",
+  "nameEn": "Fluor Corporation",
+  "definition": "Fluor Corporation은 미국 텍사스주 어빙에 본사를 둔 엔지니어링·건설 기업이다. 자회사를 통해 석유·가스, 산업·인프라, 정부·전력 분야의 서비스를 제공하는 지주회사이다.",
+  "summary": "Fluor Corporation은 미국 텍사스주 어빙에 본사를 둔 엔지니어링·건설 기업이다. 자회사를 통해 석유·가스, 산업·인프라, 정부·전력 분야의 서비스를 제공하는 지주회사이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "석유·가스 건설에서 출발해 산업·인프라, 정부·전력까지 영역을 넓힌 미국의 상장 엔지니어링·건설 지주회사이다. 1890년 제재소에서 시작한 뿌리를 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Fluor Corporation은 미국의 엔지니어링·건설 기업으로 텍사스주 어빙에 본사를 두고 있다. 지주회사로서 자회사를 통해 석유·가스, 산업·인프라, 정부·전력의 세 주요 분야에서 서비스를 제공한다. 포춘 500 순위에 오른 기업 가운데 상장 엔지니어링·건설 회사로는 가장 규모가 크며, 전체 순위는 265위이다. 초기에는 석유·가스 산업을 위한 정유 시설과 파이프라인 등을 지어 성장했고, 캘리포니아에서 중동과 전 세계로 사업을 넓혔다. 1980년대 구조조정을 거치며 건설 업무를 더 넓은 범위의 서비스와 산업으로 다각화했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신인 Rudolph Fluor & Brother는 1890년 John Simon Fluor가 두 형제와 함께 위스콘신주 오시코시에서 제재소 및 제지 공장으로 세웠다. 이 회사는 1903년 Fluor Bros. Construction Co.로 이름을 바꾸었다. 1912년 John Simon Fluor는 건강상의 이유로 캘리포니아주 샌타애나로 옮겨 자신의 차고에서 Fluor Construction Company라는 이름으로 Fluor Corporation을 세웠다. 1929년 Fluor Corporation으로 다시 법인화했으며, 1930년대에는 유럽, 중동, 호주에 사업장을 두었다. 제2차 세계대전 중에는 합성고무를 생산했고 미국 고옥탄 가솔린 생산의 상당 부분을 담당했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 자회사를 통해 석유·가스, 산업·인프라, 정부·전력의 세 분야로 나뉜다. 초기에는 정유 시설, 파이프라인 등 석유·가스 산업용 설비를 주로 건설했다. 1990년대에는 장비 임대와 인력 공급 같은 새 서비스를 도입했다. 핵폐기물 정화 등 환경 관련 사업도 매출에서 상당한 비중을 차지하게 되었다. 맨해튼 계획 관련 프로젝트, 이라크 전쟁 후 재건, 허리케인 카트리나 복구, Trans-Alaska Pipeline System 건설에도 참여했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 본사는 텍사스주 어빙에 있다. 포춘 500 순위에서 가장 큰 상장 엔지니어링·건설 회사이며 전체 265위에 올라 있다. 1950년대에 뉴욕 증권거래소에 상장했다. 1980년대 구조조정 이후 석유 사업을 매각하고 건설 업무를 더 넓은 범위의 서비스와 산업으로 다각화했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "석유·가스 건설에서 출발해 산업·인프라, 정부·전력까지 영역을 넓힌 미국의 상장 엔지니어링·건설 지주회사이다. 1890년 제재소에서 시작한 뿌리를 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fluor.com",
+  "entityLinks": {
+   "wikidata": "Q653581",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q653581",
+    "https://en.wikipedia.org/wiki/Fluor_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q653581",
+   "country": "미국",
+   "inception": "1890",
+   "headquarters": "어빙",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Fluor Corporation」 본문과 위키데이터 Q653581 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

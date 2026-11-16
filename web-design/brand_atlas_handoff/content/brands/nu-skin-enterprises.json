@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1764040",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "nu-skin-enterprises",
+  "urlSlug": "nu-skin-enterprises",
+  "name": "Nu Skin Enterprises",
+  "nameKo": "",
+  "nameEn": "Nu Skin Enterprises",
+  "definition": "Nu Skin Enterprises는 개인 관리 제품과 식이·영양 보충제를 개발해 판매하는 미국의 다단계 마케팅 기업이다. 1984년에 설립되었으며 본사는 프로보에 있다.",
+  "summary": "Nu Skin Enterprises는 개인 관리 제품과 식이·영양 보충제를 개발해 판매하는 미국의 다단계 마케팅 기업이다. 1984년에 설립되었으며 본사는 프로보에 있다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "다단계 마케팅 방식으로 Nu Skin과 Pharmanex 브랜드의 스킨케어 제품과 영양 보충제를 판매하며, 피부 측정·관리 기기를 함께 선보이는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Nu Skin은 개인 관리 제품과 식이·영양 보충제를 개발해 판매하는, 프로보에 본사를 둔 미국의 다단계 마케팅 기업이다. Nu Skin과 Pharmanex 브랜드로 54개 시장에서 제품을 판매한다. 판매는 약 1.2 million명의 독립 유통업자 네트워크를 통해 이루어진다. 유통업자는 소비자에게 제품을 직접 판매하며, 다른 소비자를 유통업자로 모집하고 교육할 수도 있다. 처음에는 미국 시장에 제품을 공급했고, 1990년 캐나다와 1991년 홍콩을 거쳐 아시아로 사업을 넓혔다. 과거에는 허위 광고와 근거 없는 효능 주장 혐의로 합의하거나 FTC와 동의명령에 서명한 이력이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1984년 Blake Roney, Nedra Roney, Sandie Tillotson, Steven J. Lund가 천연 성분만 사용한 스킨케어 제품 라인을 출시하며 회사를 세웠다. 창업자들은 불필요한 충전제 없이 스킨케어와 영양 제품을 만든다는 'all of the good, none of the bad'를 철학으로 내세웠다. 처음에는 미국 시장에 제품을 공급했고 1990년 캐나다로 사업을 넓혔다. 1991년에는 홍콩을 시작으로 아시아에 진출했고, 1996년 뉴욕증권거래소에 상장했다. 1998년에는 식이 보충제 회사 Pharmanex의 모회사인 Generation Health를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Pharmanex가 개발한 'BioPhotonic Scanner'는 피부의 카로티노이드 수치를 측정하도록 설계된 장치로, Nu Skin은 이 장치로 특허를 받았다. 2008년에는 안티에이징 브랜드 ageLOC을 출시했다. 2014년 출시한 Nu Skin Facial Spa는 일반 화장품 용도로 FDA 허가를 받았고, 2018년에는 ageLOC LumiSpa를 선보였다. 2022년에는 첫 연결형 기기인 ageLOC LumiSpa iO를 출시했다. 2024년에는 FDA 허가를 받은 마이크로커런트 바디 기기 Nu Skin RenuSpa iO와 인지 건강용 보충제·외용제 라인 MYND360을 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 자회사 Rhyz Inc.가 소셜 커머스 기업 Mavely를 인수했고, 2023년에는 달라스 기반 스킨케어 기업 BeautyBio를 인수했다. 2025년에는 Mavely 플랫폼을 Summit Partners 소속 기업 Later에 $250 million 규모 거래로 매각했다. 매각 가격은 2021년 인수 가격의 다섯 배였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "다단계 마케팅 방식으로 Nu Skin과 Pharmanex 브랜드의 스킨케어 제품과 영양 보충제를 판매하며, 피부 측정·관리 기기를 함께 선보이는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nuskin.com/",
+  "entityLinks": {
+   "wikidata": "Q1764040",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1764040",
+    "https://en.wikipedia.org/wiki/Nu_Skin_Enterprises"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1764040",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": "프로보",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Nu Skin Enterprises」 본문과 위키데이터 Q1764040 팩트를 근거로 편집"
+ }
+}

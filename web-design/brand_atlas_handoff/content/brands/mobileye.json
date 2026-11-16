@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2901365",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/mobileye-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mobileye",
+  "urlSlug": "mobileye",
+  "name": "모빌아이",
+  "nameKo": "모빌아이",
+  "nameEn": "Mobileye",
+  "definition": "모빌아이(Mobileye)는 이스라엘 예루살렘에 본사를 둔 자율주행 기업이다. 카메라와 소프트웨어를 기반으로 첨단 운전자 보조 시스템(ADAS)과 자율주행 기술을 개발해 자동차 제조사에 공급한다.",
+  "summary": "모빌아이(Mobileye)는 이스라엘 예루살렘에 본사를 둔 자율주행 기업이다. 카메라와 소프트웨어를 기반으로 첨단 운전자 보조 시스템(ADAS)과 자율주행 기술을 개발해 자동차 제조사에 공급한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "카메라 중심의 비전 기술로 출발해 운전자 보조에서 자율주행, 로보택시로 영역을 넓힌 이스라엘 기업이다. 인텔이 의결권 대부분을 쥔 상장사라는 점도 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "모빌아이는 카메라와 소프트웨어로 차량을 감지하는 비전 시스템에서 출발한 자율주행 기업이다. 저렴한 카메라에 지능을 더하는 방식으로 자동차 안전 기술 공급업체로 성장했다. 지금은 자율주행과 첨단 운전자 보조 시스템(ADAS)에 더해 휴머노이드 로보틱스까지 포함하는 피지컬 AI 기술을 개발한다. 2017년 인텔에 인수되었고 2022년 다시 상장했다. 법인은 미국에 두고 있으며 본사는 이스라엘에 있다. 모기업은 인텔이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "모빌아이는 Hebrew University 교수 Amnon Shashua가 시작했다. 그는 학술 연구를 카메라와 소프트웨어로 차량을 감지하는 비전 시스템으로 발전시켰다. 2004년 첫 연구 센터를 세웠고, 2008년 첫 세대 EyeQ1 프로세서를 출시했다. 2014년 뉴욕 증권거래소에 상장했으며, 이는 미국 역대 최대 규모의 이스라엘 기업 IPO였다. 그해 말까지 18개 완성차 업체의 160개 차종에 모빌아이 기술이 적용되었다. 2017년 3월 인텔이 인수 계획을 발표했고, 당시 이스라엘 기술 기업 인수로는 역대 최대 규모였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2008년 출시한 EyeQ1 프로세서는 자동 긴급 제동을 포함한 운전자 보조 기능을 제공했고, 5세대 BMW 7 Series가 이 기술을 처음 쓴 차량 중 하나였다. 이후 2010년, 2014년, 2018년에 칩의 후속 버전이 나왔다. 2017년에는 Amnon Shashua와 Shai Shalev-Shwartz의 연구에 기반한 안전 자율주행 수학 모델 Responsibility-Sensitive Safety(RSS)를 공개했다. 2020년 1월 예루살렘에서 카메라만 장착한 자율주행차를 시연했고, 같은 해 5월 Nio 전기차로 이스라엘에서 로보택시 시험을 시작했으며, 2021년 IAA Mobility에서 로보택시를 공개했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 10월 인텔이 발행 주식의 5~6%를 공모하면서 모빌아이는 나스닥에 다시 상장했다. 인텔은 모든 Class B 주식을 계속 보유해 의결권의 99.4%를 가진다. 현재 법인은 미국에 두고 본사는 이스라엘에 있으며, 자율주행과 ADAS에 더해 휴머노이드 로보틱스를 포함한 피지컬 AI 기술을 개발한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "카메라 중심의 비전 기술로 출발해 운전자 보조에서 자율주행, 로보택시로 영역을 넓힌 이스라엘 기업이다. 인텔이 의결권 대부분을 쥔 상장사라는 점도 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mobileye.com",
+  "entityLinks": {
+   "wikidata": "Q2901365",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2901365",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%B9%8C%EC%95%84%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Mobileye"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2901365",
+   "country": "이스라엘",
+   "inception": "1998",
+   "headquarters": "예루살렘",
+   "founders": [
+    "Amnon Shashua"
+   ],
+   "parent": "인텔",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Mobileye」 본문과 위키데이터 Q2901365 팩트를 근거로 편집",
+  "founded": {
+   "date": "1998-11-18",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

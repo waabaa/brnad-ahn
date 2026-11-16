@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q7942354",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/vox-media-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "vox-media",
+  "urlSlug": "vox-media",
+  "name": "복스 미디어",
+  "nameKo": "복스 미디어",
+  "nameEn": "Vox Media",
+  "definition": "복스 미디어(Vox Media)는 미국의 대중 매체 회사이다. 2011년 워싱턴 D.C.에서 설립되었고, The Verge, SB Nation, Eater, Vox 등 여러 편집 브랜드를 소유해 왔다.",
+  "summary": "복스 미디어(Vox Media)는 미국의 대중 매체 회사이다. 2011년 워싱턴 D.C.에서 설립되었고, The Verge, SB Nation, Eater, Vox 등 여러 편집 브랜드를 소유해 왔다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "스포츠 블로그 네트워크 SB Nation과 기술 웹사이트 The Verge를 하나로 묶어 출발해, 여러 편집 브랜드를 거느려 온 미국 매체 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "복스 미디어는 미국의 대중 매체 회사로, 워싱턴 D.C.에서 설립되었고 운영 본부는 뉴욕시 로어맨해튼에 있다. The Verge, Polygon, SB Nation, Eater, Vox 등 여러 편집 브랜드를 소유해 왔다. 2019년 9월 New York Media를, 2022년 2월 Group Nine Media를 인수하며 브랜드를 늘렸다. 사업 영역으로는 Concert, Vox Creative, Vox Entertainment, Vox Media Studios, Vox Media Podcast Network 등이 있었다. 2023년 11월 기준 Comscore는 미국 이용자 기준 35번째로 인기 있는 미디어 회사로 평가했다. 2026년에는 매각과 재편이 이어져 Lupa Systems와 Penske Media Corporation이 각각 일부를 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2003년 Tyler Bleszinski가 Athletics Nation을 세웠고, 2005년 Bleszinski와 Markos Moulitsas, Jerome Armstrong이 이를 중심으로 스포츠 블로그 네트워크 SB Nation을 설립했다. SB Nation은 2008년 AOL 출신 Jim Bankoff를 자문으로 영입했고, 그는 2009년 1월 CEO가 되었다. 2011년 Bankoff는 Engadget 출신 필진을 영입해 기술 웹사이트 The Verge를 만들었고, 2011년 11월 1일 Joshua Topolsky를 편집장으로 하여 공개했다. 이와 함께 Bankoff와 Trei Brundrett이 SB Nation과 The Verge의 모회사로 복스 미디어를 만들었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 편집 브랜드로 The Verge, Polygon, SB Nation, Eater, Vox가 있다. New York Media 인수로 New York과 Intelligencer, The Cut, Vulture, The Strategist, Curbed, Grub Street가 합류했다. Group Nine Media 인수로는 The Dodo, NowThis, PopSugar, Thrillist, Seeker를 얻었다. 사업 부문으로는 광고 마켓플레이스 Concert, Vox Creative, Vox Entertainment, Vox Media Studios, Vox Media Podcast Network가 있었다. 브랜드들은 Concert와 WordPress를 기반으로 구축되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 5월 게임 웹사이트 Polygon을 Valnet에 매각했다. 2026년 5월 James Murdoch의 Lupa Systems가 Vox 웹사이트, New York 매거진, 팟캐스트 네트워크를 인수했다. 한 달 뒤인 6월 기존에 지분 20%를 보유하던 Penske Media Corporation(PMC)이 나머지 자산을 인수해 PMX라는 새 자회사로 합쳤다. Lupa Systems가 인수한 부분의 자회사로 Vox Media 브랜드를 유지한다는 발표가 2026년 7월에 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스포츠 블로그 네트워크 SB Nation과 기술 웹사이트 The Verge를 하나로 묶어 출발해, 여러 편집 브랜드를 거느려 온 미국 매체 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.voxmedia.com/",
+  "entityLinks": {
+   "wikidata": "Q7942354",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7942354",
+    "https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%8A%A4_%EB%AF%B8%EB%94%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Vox_Media"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7942354",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": "워싱턴 D.C.",
+   "founders": [
+    "Jerome Armstrong",
+    "Markos Moulitsas",
+    "Tyler Bleszinski"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Vox Media」 본문과 위키데이터 Q7942354 팩트를 근거로 편집",
+  "founded": {
+   "date": "2011-11-01",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

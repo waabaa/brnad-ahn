@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1123399",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "conagra-brands-inc",
+  "urlSlug": "conagra-brands-inc",
+  "name": "콘아그라 푸즈",
+  "nameKo": "콘아그라 푸즈",
+  "nameEn": "Conagra Brands, Inc.",
+  "definition": "콘아그라 푸즈(Conagra Brands, Inc.)는 슈퍼마켓, 식당, 외식업체에서 판매되는 여러 브랜드의 제품을 만들어 파는 미국의 소비재 포장식품 지주회사이다.",
+  "summary": "콘아그라 푸즈(Conagra Brands, Inc.)는 슈퍼마켓, 식당, 외식업체에서 판매되는 여러 브랜드의 제품을 만들어 파는 미국의 소비재 포장식품 지주회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "1919년 네브래스카의 제분회사 연합체로 출발해 약 200개 회사를 인수하며 성장한 미국의 소비재 포장식품 지주회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "콘아그라는 여러 브랜드명으로 제품을 만들어 파는 미국의 소비재 포장식품 지주회사이다. 제품은 슈퍼마켓, 식당, 외식업체에서 판매되며 본사는 일리노이주 시카고에 있다. 2021년 매출 기준으로 2022년 포천 500대 기업 중 331위를 기록했다. 이전 이름은 ConAgra Foods, Inc.였고, 1919년 네브래스카에서 Nebraska Consolidated Mills라는 이름으로 설립되었다. 20년에 걸쳐 약 200개 회사를 인수하며 성장했고, Monfort 인수로 세계 최대 정육업체가 되었으며 Beatrice Foods 인수로 두 번째로 큰 식품 가공업체가 되었다. 2018년에는 Pinnacle Foods를 인수하며 Duncan Hines 브랜드를 다시 확보했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1919년 9월 Alva Kinney가 Nebraska Consolidated Mills(NCM)라는 이름으로 회사를 세웠다. 네브래스카 Grand Island에 본사를 둔 곡물 제분회사 네 곳의 연합체였으며, 1922년 Updike Mill을 사들인 뒤 본사를 네브래스카 Omaha로 옮겼다. 1971년 이름을 ConAgra로 바꾸었는데, 이 이름은 '함께'를 뜻하는 라틴어 con과 '흙, 땅'을 뜻하는 agrī를 합친 것이다. 2년 뒤 뉴욕증권거래소(NYSE)에서 거래를 시작했다. 1974년 잘못된 투자와 상품 투기로 손실을 입어 파산 위기에 놓이자 Pillsbury 임원 C. Michael Harper를 최고운영책임자로 영입해 회사의 안정화를 맡겼다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "NCM은 밀가루의 새로운 용도를 찾기 위해 1951년 Duncan Hines 케이크 믹스 브랜드의 설립 자금을 댔고, 1956년 Procter & Gamble에 관련 자산을 팔았다. 이 브랜드는 2018년 Pinnacle Foods 인수로 다시 Conagra Brands의 품이 되었다. 1980년 Banquet Foods, 1982년 Peavey, 1983년 Armour and Company, 1987년 Monfort, 1988년 Lamb Weston, 1990년 Beatrice Foods를 차례로 인수했다. 이 시기에 냉동 간편식 제품군을 판매하기 위한 Healthy Choice 상표도 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 일리노이주 시카고에 있으며, 이전 이름 ConAgra Foods, Inc.에서 현재의 Conagra Brands, Inc.로 바뀌었다. 슈퍼마켓, 식당, 외식업체를 통해 제품을 판매하는 소비재 포장식품 지주회사이다. 2021년 매출 기준으로 2022년 포천 500대 기업 중 331위였다. 2018년 Pinnacle Foods를 인수하며 Duncan Hines 브랜드를 다시 확보했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1919년 네브래스카의 제분회사 연합체로 출발해 약 200개 회사를 인수하며 성장한 미국의 소비재 포장식품 지주회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.conagrabrands.com/",
+  "entityLinks": {
+   "wikidata": "Q1123399",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1123399",
+    "https://ko.wikipedia.org/wiki/%EC%BD%98%EC%95%84%EA%B7%B8%EB%9D%BC_%EB%B8%8C%EB%9E%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Conagra_Brands"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1123399",
+   "country": "미국",
+   "inception": "1919",
+   "headquarters": "시카고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Conagra Brands」 본문과 위키데이터 Q1123399 팩트를 근거로 편집"
+ }
+}

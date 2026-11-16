@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q683098",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/kingfisher-plc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kingfisher-plc",
+  "urlSlug": "kingfisher-plc",
+  "name": "Kingfisher plc",
+  "nameKo": "",
+  "nameEn": "Kingfisher plc",
+  "definition": "Kingfisher plc는 영국 런던에 본사를 둔 다국적 소매 기업이다. B&Q, Castorama, Brico Dépôt, Screwfix 등의 브랜드로 유럽과 튀르키예에서 매장을 운영한다.",
+  "summary": "Kingfisher plc는 영국 런던에 본사를 둔 다국적 소매 기업이다. B&Q, Castorama, Brico Dépôt, Screwfix 등의 브랜드로 유럽과 튀르키예에서 매장을 운영한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "B&Q, Castorama, Brico Dépôt, Screwfix를 한 그룹에서 운영하며 2003년 이후 DIY 소매에 집중해 온 영국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Kingfisher plc는 1982년에 설립되어 영국 런던에 본사를 둔 다국적 소매 기업이다. 1,800개가 넘는 매장을 유럽 7개국과 튀르키예에서 운영하며, 주요 소매 브랜드로 B&Q, Castorama, Brico Dépôt, Screwfix를 두고 있다. 런던증권거래소에 상장되어 있고 FTSE 100 지수의 구성 종목이다. B&Q는 영국과 아일랜드에서, Castorama는 프랑스와 폴란드에서 운영된다. 2003년 7월 전기제품 사업을 Kesa Electricals로 분리하면서 사업을 DIY 중심으로 전면 재편했다. 2025년 5월에는 루마니아의 Brico Dépôt 사업 매각을 마쳤으며, 해당 사업은 새 소유주 아래에서도 Brico Dépôt 브랜드로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1982년 영국 Woolworths 체인을 인수하기 위한 Paternoster Stores Ltd로 설립되었다. 1983년 3월 Woolworth Holdings plc로 이름을 바꿨고, 이미 B&Q를 보유하던 Woolworths를 바탕으로 Superdrug, Comet 같은 기업을 인수하며 확장했다. 1989년 12월 Kingfisher plc로 이름을 바꾼 뒤에는 Castorama, BUT S.A., Wegert 등 유럽 기업을 인수했다. 1999년 7월 Screwfix를 인수했으며, 같은 해 Asda 인수를 시도했으나 Walmart에 밀렸다. 2001년 Castorama 지배권을 둘러싼 분쟁과 주가 압박 속에 Woolworths 등 일부 사업을 매각하거나 분사해야 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "그룹의 사업은 B&Q가 영국과 아일랜드에서, Brico Dépôt가 프랑스·스페인·포르투갈에서, Castorama가 프랑스와 폴란드에서 운영되는 구조이다. Koçtaş는 튀르키예에서 운영되는 50% 합작 사업이다. Screwfix는 영국, 아일랜드, 프랑스에서 운영되며, 영국 최대의 멀티채널 전문가용 공구·액세서리·철물 소매업체이다. 2021년 3월 Al-Futtaim Group과의 프랜차이즈 계약에 따라 B&Q가 중동으로 확장되었고, 사우디아라비아 매장은 Al-Futtaim Group이 전적으로 운영한다. 과거 그룹에 속했던 Woolworths Group, Comet, Superdrug 등은 현재 그룹 밖에 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "런던증권거래소에 상장되어 있으며 FTSE 100 지수의 구성 종목이다. 현재 유럽 7개국과 튀르키예에서 1,800개가 넘는 매장을 운영한다. 2019년 9월 Thierry Garnier가 CEO로 임명되었고, 2020년 6월에는 스페인과 포르투갈에서 철수하려던 계획을 번복해 Brico Dépôt 브랜드로 사업을 이어가기로 했다. 2024년 12월 루마니아 Brico Dépôt를 Altex Romania에 매각하기로 합의해 2025년 5월 완료했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "B&Q, Castorama, Brico Dépôt, Screwfix를 한 그룹에서 운영하며 2003년 이후 DIY 소매에 집중해 온 영국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.kingfisher.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q683098",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q683098",
+    "https://en.wikipedia.org/wiki/Kingfisher_plc"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q683098",
+   "country": "영국",
+   "inception": "1982",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Kingfisher plc」 본문과 위키데이터 Q683098 팩트를 근거로 편집",
+  "founded": {
+   "date": "1982-09-16",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

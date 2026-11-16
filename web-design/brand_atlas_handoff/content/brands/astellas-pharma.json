@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q528842",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/astellas-pharma-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "astellas-pharma",
+  "urlSlug": "astellas-pharma",
+  "name": "아스테라스 제약",
+  "nameKo": "아스테라스 제약",
+  "nameEn": "Astellas Pharma",
+  "definition": "아스테라스 제약(Astellas Pharma)은 2005년 4월 1일 Yamanouchi Pharmaceutical과 Fujisawa Pharmaceutical의 합병으로 출범한 일본의 다국적 제약회사이다.",
+  "summary": "아스테라스 제약(Astellas Pharma)은 2005년 4월 1일 Yamanouchi Pharmaceutical과 Fujisawa Pharmaceutical의 합병으로 출범한 일본의 다국적 제약회사이다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "Yamanouchi Pharmaceutical과 Fujisawa Pharmaceutical의 대등 합병으로 탄생한 일본 제약사로, 인수와 공동 연구로 파이프라인을 넓혀 온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아스테라스 제약은 일본에 기반을 둔 다국적 제약회사이다. 2005년 4월 1일 Yamanouchi Pharmaceutical Co., Ltd.와 Fujisawa Pharmaceutical Co., Ltd.가 대등 합병(merger of equals)하여 출범했다. Mitsubishi UFJ Financial Group 계열(keiretsu)에 속한다. 두 전신 회사는 대만, 미국, 유럽 등으로 일찍부터 해외 진출을 추진했다. 출범 이후에는 OSI Pharmaceuticals, Ocata Therapeutics, Ganymed Pharmaceuticals, Audentes Therapeutics 등을 인수하며 연구 파이프라인을 넓혔다. 일부 오래된 제품은 브랜드 인지도가 높다는 이유로 기존 브랜드명 그대로 유통된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신인 Fujisawa Shoten은 1894년 Tomokichi Fujisawa가 Osaka에서 시작했고 1943년 Fujisawa Pharmaceutical Co.로 이름을 바꿨다. Yamanouchi Yakuhin Shokai는 1923년 Kenji Yamanouchi가 Osaka에서 시작했으며 1940년 Yamanouchi Pharmaceutical Co.로 개칭하고 1942년 Tokyo로 옮겼다. 두 회사는 비슷한 시기에 해외 진출을 시작해 각각 1962년과 1963년 대만에 사무소를 열었고 1977년부터는 미국과 유럽에도 진출했다. Fujisawa는 1990년 Lyphomed를 인수해 미국 Illinois주 Deerfield에 연구개발 센터를 세웠고, Yamanouchi는 1991년 Royal Gist Brocades의 제약 부문을 인수하며 Leiderdorp에 연구개발 센터를 세웠다. 두 회사는 2005년 4월 1일 대등 합병해 Astellas Pharma를 형성했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 tacrolimus를 함유한 Prograf와 Advagraf이다. 류마티스 관절염 치료제 Smyraf(성분 peficitinib)는 규제 승인을 받았으며, 승인된 세 번째 경구용 Janus kinase(JAK) 억제제이다. 파이프라인에는 Ogeda의 후보물질 fezolinetant와, Cytokinetics와 공동 개발하는 fast skeletal troponin activator CK-2127107이 포함된다. 2019년 인수한 Audentes Therapeutics는 Genetic Regulation Primary Focus의 Center of Excellence로서 AAV 파이프라인 개발을 맡는다. 2015년에는 dermatology 사업을 LEO Pharma에 매각하겠다고 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Audentes Therapeutics는 Astellas의 wholly owned subsidiary로 운영된다. 2019년 12월에는 Audentes에 이어 Xyphos Biosciences도 인수해 ACCEL 기술 플랫폼을 확보했다. 2020년 2월 5일에는 2020년 4월 1일자 경영진 변경을 발표했다. Mitsubishi UFJ Financial Group 계열에 속한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Yamanouchi Pharmaceutical과 Fujisawa Pharmaceutical의 대등 합병으로 탄생한 일본 제약사로, 인수와 공동 연구로 파이프라인을 넓혀 온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.astellas.com/jp/",
+  "entityLinks": {
+   "wikidata": "Q528842",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q528842",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8A%A4%ED%85%94%EB%9D%BC%EC%8A%A4_%EC%A0%9C%EC%95%BD",
+    "https://en.wikipedia.org/wiki/Astellas_Pharma"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q528842",
+   "country": "일본",
+   "inception": "2005",
+   "headquarters": "주오구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Astellas Pharma」 본문과 위키데이터 Q528842 팩트를 근거로 편집",
+  "founded": {
+   "date": "2005-04-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

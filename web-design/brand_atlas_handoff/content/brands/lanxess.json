@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q682992",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/lanxess-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lanxess",
+  "urlSlug": "lanxess",
+  "name": "랑세스",
+  "nameKo": "랑세스",
+  "nameEn": "Lanxess",
+  "definition": "랑세스(Lanxess)는 독일 쾰른에 본사를 둔 특수화학그룹이다. 2004년 바이엘이 자사의 화학약품 사업부와 폴리머 사업의 일부를 분사하면서 설립한 회사이다.",
+  "summary": "랑세스(Lanxess)는 독일 쾰른에 본사를 둔 특수화학그룹이다. 2004년 바이엘이 자사의 화학약품 사업부와 폴리머 사업의 일부를 분사하면서 설립한 회사이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "바이엘의 화학약품 사업부와 폴리머 사업 일부를 분사해 설립된 독일의 특수화학그룹으로, 합성고무 분야에서 세계적인 제조업체 가운데 하나이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "랑세스는 독일에 본사를 둔 특수화학그룹이다. 핵심사업으로는 특수, 기초 및 정밀 화학약품, 고무 및 플라스틱 등이 있다. 매출액 기준으로 독일 내 4위의 화학 그룹이다. 랑세스는 세계적인 합성고무 제조업체 가운데 하나이며, 고성능 폴리머 사업부분의 제품은 자동차 타이어, 벨트, 호스, 신발 밑창 및 기타 다양한 상품에 사용된다. 2005년 1월 31일 프랑크푸르트 주식거래소에 상장되었으며, 바이엘 1주당 랑세스 1주의 비율로 바이엘 주주들에게 주식이 발행되었다. 세 개의 제품군별 사업부분 산하에 13개 사업부를 운영하며, 사업부분은 고성능 폴리머, 고품질 중간체, 기능성 화학제품이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "랑세스의 뿌리는 바이엘(Friedrich Bayer & Co.)이 합성염료 생산업체로 최초 설립된 1863년으로 거슬러 올라간다. 바이엘은 2004년에 의료 및 영양 사업에 집중하기 위해 자사의 화학약품 사업부와 폴리머 사업의 3분의 1을 분사하여 별도 법인인 랑세스를 설립했다. 사명은 앞으로 전진한다는 뜻의 프랑스어 “lancer”와 영어 단어 “success”를 조합하여 성공적으로 전진한다는 뜻으로 만들어졌다. 2005년 1월 31일 프랑크푸르트 주식거래소에 상장되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "랑세스는 세 개의 제품군별 사업부분 산하에 13개 사업부를 운영한다. 고성능 폴리머 사업부분에는 부틸고무, 기능성 부타디엔 고무, 플라스틱, 기능성 고무 제품을 생산하는 사업부가 포함된다. 고품질 중간체 사업부분에는 기초화학과 정밀화학(Saltigo) 사업부가 있으며, 제품군에는 방향족 화합물, 벤질, 아민, 하이드라진 수화물 및 농업, 안료, 자동차 부품, 건축자재 및 기타 산업분야에 사용되는 화합물 등이 포함된다. 기능성 화학제품 사업부분에는 기능성 화학, 무기안료, 이온교환수지, 피혁약품, 바이오사이드(Material Protection) 제품 및 고무 약품 사업부가 있다. 자회사인 라인케미(Rhein Chemie)도 이 사업부분에 속하며 고무, 윤활제 및 플라스틱 산업에 적합한 화합물을 맞춤 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "랑세스는 매출액 기준으로 독일 내 4위의 화학 그룹이며, 세 개의 사업부분 산하에 13개 사업부를 운영한다. 설립 이후 여러 차례 구조조정을 실시했으며, 초기에는 주로 매각 형태로 이루어졌다. 2007년 12월에는 브라질 합성고무 제조업체 Petroflex 인수를 발표했고, 2009년 12월 Petroflex는 Lanxess Elastomeros do Brasil로 사명을 변경했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "바이엘의 화학약품 사업부와 폴리머 사업 일부를 분사해 설립된 독일의 특수화학그룹으로, 합성고무 분야에서 세계적인 제조업체 가운데 하나이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lanxess.com",
+  "entityLinks": {
+   "wikidata": "Q682992",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q682992",
+    "https://ko.wikipedia.org/wiki/%EB%9E%91%EC%84%B8%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Lanxess"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q682992",
+   "country": "독일",
+   "inception": "2004",
+   "headquarters": "쾰른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「랑세스」 요약과 위키데이터 Q682992 팩트를 근거로 편집",
+  "founded": {
+   "date": "2004-07-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

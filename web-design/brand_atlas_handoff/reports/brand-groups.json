@@ -2,18 +2,18 @@
  "generatedAt": "2026-11-16",
  "counts": {
   "samsung-group": 17,
-  "lvmh": 15,
+  "lvmh": 16,
+  "universal-music-group": 14,
   "stellantis": 13,
-  "universal-music-group": 12,
   "anheuser-busch-inbev": 12,
   "the-walt-disney-company": 11,
   "sony-group": 9,
   "sk-group": 9,
   "cj-group": 9,
   "kakao": 9,
+  "microsoft": 8,
   "lg-group": 7,
   "lotte": 7,
-  "microsoft": 7,
   "carlsberg-group": 7,
   "volkswagen-group": 6,
   "kering": 6,
@@ -22,6 +22,7 @@
   "tata-group": 6,
   "diageo": 6,
   "pepsico": 5,
+  "vf-corporation": 5,
   "amorepacific": 5,
   "hanwha-group": 5,
   "pernod-ricard": 4,
@@ -47,10 +48,12 @@
   "mondelez-international": 3,
   "molson-coors-brewing-company": 3,
   "paccar": 3,
+  "oracle-corporation": 3,
   "swatch-group": 2,
   "bavarian-motor-works-bayerische-motoren-werke": 2,
   "unilever": 2,
   "deckers-outdoor-corporation": 2,
+  "newell-brands": 2,
   "mars-incorporated": 2,
   "hanjin": 2,
   "renault": 2,
@@ -63,9 +66,12 @@
   "amazon": 2,
   "toyota": 2,
   "berkshire-hathaway": 2,
-  "vf-corporation": 2,
   "duvel-moortgat-brewery": 2,
+  "pvh-corp": 2,
   "binding-brauerei": 2,
+  "broadcom": 2,
+  "kraft-heinz": 2,
+  "cisco": 2,
   "e-land": 1,
   "restaurant-brands-international": 1,
   "naver": 1
@@ -167,6 +173,10 @@
    {
     "slug": "sephora",
     "basis": "wikidata: Q2408041 → Q504998 (P749/P127, 현재)"
+   },
+   {
+    "slug": "guerlain",
+    "basis": "wikidata P749 Q1553251 → Q504998 (현재 값, 종료·deprecated 제외)"
    }
   ],
   "swatch-group": [
@@ -315,6 +325,16 @@
     "basis": "wikidata P749 Q16908664 → Q1181953 (현재 값, 종료·deprecated 제외)"
    }
   ],
+  "newell-brands": [
+   {
+    "slug": "yankee-candle",
+    "basis": "wikidata P749 Q8048733 → Q667599 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "coleman-company",
+    "basis": "wikidata P749 Q430230 → Q667599 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
   "mercedes-benz-group": [
    {
     "slug": "mercedes-benz",
@@ -341,6 +361,28 @@
    {
     "slug": "maybelline",
     "basis": "wikidata P749 Q1351054 → Q156077 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "vf-corporation": [
+   {
+    "slug": "the-north-face",
+    "basis": "wikidata P749 Q152784 → Q457960 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "altra-running",
+    "basis": "wikidata P749 Q16824942 → Q457960 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "the-timberland-company",
+    "basis": "wikipedia: en.wikipedia \"Timberland (company)\": …retailer of outdoor footwear and apparel owned by VF Corporation. The company also sells accessories inc…"
+   },
+   {
+    "slug": "vans",
+    "basis": "wikipedia: en.wikipedia \"Vans\": … established in Anaheim, California, and owned by VF Corporation. The company also sponsors surf, snowbo…"
+   },
+   {
+    "slug": "lee",
+    "basis": "wikidata P749 Q1632681 → Q457960 (현재 값, 종료·deprecated 제외)"
    }
   ],
   "procter-gamble": [
@@ -545,6 +587,14 @@
    {
     "slug": "republic-records",
     "basis": "wikidata P749 Q4413456 → Q38903 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "good-music",
+    "basis": "wikidata P749 Q1142456 → Q38903 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "roc-a-fella-records",
+    "basis": "wikidata P749 Q1153032 → Q38903 (현재 값, 종료·deprecated 제외)"
    }
   ],
   "cj-group": [
@@ -1179,6 +1229,10 @@
    {
     "slug": "activision-blizzard",
     "basis": "wikidata: Q344341 → Q2283 (P749/P127, 현재)"
+   },
+   {
+    "slug": "nuance-communications",
+    "basis": "wikidata P749 Q1137289 → Q2283 (현재 값, 종료·deprecated 제외)"
    }
   ],
   "tata-group": [
@@ -1375,16 +1429,6 @@
     "basis": "wikidata P749 Q4990 → Q720479 (현재 값, 종료·deprecated 제외)"
    }
   ],
-  "vf-corporation": [
-   {
-    "slug": "the-timberland-company",
-    "basis": "wikipedia: en.wikipedia \"Timberland (company)\": …retailer of outdoor footwear and apparel owned by VF Corporation. The company also sells accessories inc…"
-   },
-   {
-    "slug": "vans",
-    "basis": "wikipedia: en.wikipedia \"Vans\": … established in Anaheim, California, and owned by VF Corporation. The company also sponsors surf, snowbo…"
-   }
-  ],
   "molson-coors-brewing-company": [
    {
     "slug": "apatinska-brewery",
@@ -1407,6 +1451,16 @@
    {
     "slug": "family-brewery-bernard",
     "basis": "wikidata P749 Q12045395 → Q387897 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "pvh-corp": [
+   {
+    "slug": "calvin-klein",
+    "basis": "wikidata P749 Q1068628 → Q1132272 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "tommy-hilfiger-b-v",
+    "basis": "wikidata P749 Q634881 → Q1132272 (현재 값, 종료·deprecated 제외)"
    }
   ],
   "carlsberg-group": [
@@ -1461,6 +1515,50 @@
    {
     "slug": "radeberger-brewery",
     "basis": "wikidata P749 Q568797 → Q863650 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "broadcom": [
+   {
+    "slug": "vmware",
+    "basis": "wikidata P749 Q11407 → Q790060 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "lsi-corporation",
+    "basis": "wikidata P749 Q1587129 → Q790060 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "kraft-heinz": [
+   {
+    "slug": "kraft-foods-group",
+    "basis": "wikidata P749 Q327751 → Q19681433 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "tang",
+    "basis": "wikidata P749 Q2744433 → Q19681433 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "oracle-corporation": [
+   {
+    "slug": "sun-microsystems",
+    "basis": "wikidata P749 Q14647 → Q19900 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "bea-systems",
+    "basis": "wikidata P749 Q787324 → Q19900 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "globe-telecom",
+    "basis": "wikidata P749 Q3543983 → Q19900 (현재 값, 종료·deprecated 제외)"
+   }
+  ],
+  "cisco": [
+   {
+    "slug": "opendns",
+    "basis": "wikidata P749 Q1121892 → Q173395 (현재 값, 종료·deprecated 제외)"
+   },
+   {
+    "slug": "splunk-inc",
+    "basis": "wikidata P749 Q1835753 → Q173395 (현재 값, 종료·deprecated 제외)"
    }
   ]
  }

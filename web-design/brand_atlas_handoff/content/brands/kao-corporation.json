@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q902855",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/kao-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kao-corporation",
+  "urlSlug": "kao-corporation",
+  "name": "카오",
+  "nameKo": "카오",
+  "nameEn": "Kao Corporation",
+  "definition": "카오(Kao Corporation)는 도쿄도 주오구 니혼바시카야바정에 본사를 둔 일본의 화학 기업이다. 가정용·업무용 세제, 화장품, 식품을 제조·판매한다.",
+  "summary": "카오(Kao Corporation)는 도쿄도 주오구 니혼바시카야바정에 본사를 둔 일본의 화학 기업이다. 가정용·업무용 세제, 화장품, 식품을 제조·판매한다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세탁 세제 점유율이 압도적인 일본의 가정용품 제조 업체로, 세제와 화장품은 물론 식품과 위생 용품까지 아우르며 가네보 화장품을 자회사로 둔 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "카오는 가정용과 업무용 세제, 화장품, 식품을 제조·판매하는 일본의 화학 기업이다. 일본을 대표하는 가정용품 제조 업체로 많은 부문에서 높은 점유율을 보이며, 특히 세탁 세제의 점유율은 압도적이다. 화장품 분야의 점유율은 일본 내 2위이며, 가네보 화장품을 100% 자회사로 소유하고 있다. 원료로부터의 일관 생산과 물류·판매 시스템에 강점이 있고, 일본 국내외에 많은 공장과 매장을 두고 있다. 체지방을 에너지로 태우기 쉽게 하는 음료 헬시아 같은 기능계 식품과 애완 동물 용품도 판매하며 높은 수익성을 보인다. 라이온, P&G 재팬, 유니레버 재팬, 시세이도, 선스타 등 일본 내 기업과 경쟁한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1887년 나가세 토미로가 도쿄도 니혼바시 바쿠로쵸에 '나가세 상점'을 창업한 것이 기원이다. 초기에는 비누와 수입 문구 등을 판매했다. 1925년 '카오 비누 주식회사 나가세 상회'가 설립되었고, 1946년 '주식회사 카오'로 개칭했으며, 1954년 카오 비누와 카오 유키가 합병해 새 '카오비누주식회사'가 되었다. 1985년 사명을 '카오 주식회사'로 변경하고 CI를 도입했다. 2006년 1월 화장품 기업 가네보를 인수해 자회사로 삼았고, 이를 통해 화장품업계에서 4위에서 2위로 올라섰다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "세제, 화장품, 식품, 위생 용품, 애완용품 등으로 사업이 구성되며, 의류·주방·주택 관리 제품도 포함한다. 화장품 브랜드로 소피나(SOFINA)와 에스트(est)를 두며, 에스트는 백화점 전용 브랜드이다. 의류용 세제 어택은 세계 최초의 컴팩트 세제로 소개되고, 섬유유연제 허밍과 주방용 세제 패밀리도 있다. 위생 용품에는 아기 기저귀 브랜드 메리스(merries)와 여성용 생리대 로리에가 있다. 세안·바디 케어에는 비오레(Biore)와 니베아, 헤어 케어에는 리제(Liese)와 메리트(Merit)가 있고, 청량 음료 헬시아(healthya)도 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "가네보 화장품을 100% 자회사로 소유하며, 일본 국내외에 많은 공장과 매장을 두고 있다. 현재 CI는 '자연과 조화를 이루는 풍요로운 매일을 목표로'이다. 일본 내 사업장은 가야바, 스미다, 오사카에 있고, 공장은 사카타, 도치기, 가시마 등에 있다. 해외에도 중국, 홍콩, 대만, 인도네시아, 말레이시아, 싱가포르, 태국, 베트남, 호주, 프랑스, 스페인 등에 관련 회사가 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세탁 세제 점유율이 압도적인 일본의 가정용품 제조 업체로, 세제와 화장품은 물론 식품과 위생 용품까지 아우르며 가네보 화장품을 자회사로 둔 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kao.com/jp/",
+  "entityLinks": {
+   "wikidata": "Q902855",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q902855",
+    "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%98%A4",
+    "https://en.wikipedia.org/wiki/Kao_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q902855",
+   "country": "일본",
+   "inception": "1940",
+   "headquarters": "니혼바시카야바초",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「카오」 요약과 위키데이터 Q902855 팩트를 근거로 편집",
+  "founded": {
+   "date": "1940-05-21",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

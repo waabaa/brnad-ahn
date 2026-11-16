@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1915579",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/mechel-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mechel",
+  "urlSlug": "mechel",
+  "name": "메첼",
+  "nameKo": "메첼",
+  "nameEn": "Mechel",
+  "definition": "메첼(Mechel)은 러시아의 광업·금속 기업이다. 석탄, 정광 형태의 철광석, 강철, 압연 강재 제품을 생산하며 본사는 모스크바에 있고 러시아와 해외에서 제품을 판매한다.",
+  "summary": "메첼(Mechel)은 러시아의 광업·금속 기업이다. 석탄, 정광 형태의 철광석, 강철, 압연 강재 제품을 생산하며 본사는 모스크바에 있고 러시아와 해외에서 제품을 판매한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "러시아에서 석탄·철광석·철강을 아우르는 광업·금속 기업으로, 항만·전력·페로알로이 자산까지 인수를 통해 확장해 온 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "메첼은 러시아의 광업·금속 기업으로, 석탄, 정광 형태의 철광석, 강철, 압연 강재 제품을 생산하는 업체들로 구성되어 있다. 본사는 모스크바에 있으며 제품을 러시아와 해외에서 판매한다. 공식 명칭은 Public Joint Stock Company Mechel이다. 2004년 이후 Posyet Sea Commercial Port, Izhstal, Yakutugol, Kambarka River Port, Moscow Coke and Gas Plant 등을 인수하며 사업 범위를 넓혔다. 2008년 7월에는 러시아 총리 Vladimir Putin이 정부 회의에서 경영진을 공개적으로 비판했고, 이후 뉴욕증권거래소에서 주가가 37.6% 하락했다. 2021년 매출은 28 billion 루블이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Vladimir Iorikh의 지휘 아래 Southern Kuzbass Coal Company는 2002년 여름 Chelyabinsk Steel Plant의 지배권을 확보했다. 이후 Southern Kuzbass와 Mechel을 합병해 Mechel Steel Group을 만든다고 발표했다. 위키데이터 기준 설립 연도는 2003년이다. Igor Zyuzin은 2004년 1월 Mechel Steel Group OAO의 이사회 의장으로 선출되었다. 같은 해 Mechel은 Sea of Japan 연안의 Posyet Sea Commercial Port를 인수했고, 5월에는 Izhstal 지분 26.9%를 낙찰받은 뒤 지분을 늘려 지배권을 확보했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 석탄, 정광 형태의 철광석, 강철, 압연 강재 제품 생산으로 구성된다. 2007년에는 Bratsk Ferroalloy Plant를 자산에 더했는데, 이 공장은 동시베리아 최대의 고규소 페로실리콘 생산업체로 연간 84,000 metric tons를 생산하며 러시아 페로실리콘 총생산의 약 14%에 해당한다. 같은 해 Southern Kuzbass GRES OAO와 전력 판매 회사 Kuzbassenergosbyt의 지배 지분도 인수했다. 물류·운송 자회사 Mechel Trans는 2012년 12월 경매에서 Vanino Sea Commercial Port 지분 55%를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2013년 Mechel은 Tikhvin Ferroalloy Plant와 Voskhod Refinery를 튀르키예의 Yildirim Group에 매각하기로 계약했고, US$425-million 규모의 거래는 2013년 12월 종결되었다. 2015년 2월에는 Jim Justice가 Bluestone Coal을 현금 $5 million에 인수했다. 2019년 10월에는 Gazprombank가 보유한 Elga 석탄 매장지 지분 34%를 약 30 billion 루블($461 million)에 사기로 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아에서 석탄·철광석·철강을 아우르는 광업·금속 기업으로, 항만·전력·페로알로이 자산까지 인수를 통해 확장해 온 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://mechel.ru",
+  "entityLinks": {
+   "wikidata": "Q1915579",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1915579",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%B2%BC",
+    "https://en.wikipedia.org/wiki/Mechel"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1915579",
+   "country": "러시아",
+   "inception": "2003",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Mechel」 본문과 위키데이터 Q1915579 팩트를 근거로 편집",
+  "founded": {
+   "date": "2003-03-19",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

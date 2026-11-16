@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q903922",
+ "demand": {
+  "why": "국내",
+  "naver": 0.08,
+  "koViews": 405,
+  "enViews": 4159,
+  "gsc": 0
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "downy",
+  "urlSlug": "downy",
+  "name": "다우니",
+  "nameKo": "다우니",
+  "nameEn": "Downy",
+  "definition": "다우니(Downy)는 P&G가 제조하는 섬유 유연제 브랜드로, 1961년 미국에서 처음 출시된 이후 전 세계적으로 판매되고 있다. 자매 브랜드로 레노(Lenor)가 있다.",
+  "summary": "다우니(Downy)는 P&G가 제조하는 섬유 유연제 브랜드로, 1961년 미국에서 처음 출시된 이후 전 세계적으로 판매되고 있다. 자매 브랜드로 레노(Lenor)가 있다.",
+  "industry": "홈·라이프스타일",
+  "domainSlug": "home-lifestyle",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "1961년 미국에서 출시되어 전 세계에서 판매되는 P&G의 섬유 유연제 브랜드이며, 유럽·러시아 등에서는 자매 브랜드 레노(Lenor)가 쓰인다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "다우니는 P&G가 제조하는 섬유 유연제 브랜드이다. 1961년에 미국에서 처음 출시되었으며 이후 전 세계적으로 판매되고 있다. 자매 브랜드로 레노(Lenor)가 있으며, 레노는 유럽과 러시아 등에서 사용된다. 제품군에는 울트라 다우니 리퀴드, 다우니 볼, 다우니 시트, 다우니 링클 릴리저가 있으며, 그 밖에 다우니 탱고, 다우니 엘레강스, 다우니 플로럴, 다우니 내츄럴 등의 제품이 있다. 베트남에서 생산된 다우니 베리베리와 바닐라크림향 제품에서 방부제 성분인 글루타알데하이드가 검출된 일이 있었다. 한국 P&G는 해당 함유량이 한국의 모든 법적 기준에 적합한 양이라는 입장을 밝혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "다우니 브랜드 제품으로는 울트라 다우니 리퀴드, 다우니 볼, 다우니 시트, 다우니 링클 릴리저가 있다. 그 밖에 다우니 탱고, 다우니 엘레강스, 다우니 플로럴, 다우니 내츄럴이 있다. 다우니 베리베리와 바닐라크림, 다우니 튤립과 달콤한 라일락, 다우니 화이트 티와 릴리도 제품 목록에 포함된다. 자매 브랜드 레노에는 레노 스프링 어웨이크닝, 레노 서머 브리즈, 레노 인 더 핑크, 레노 슬립 센세이션이 있다. 레노는 유럽, 러시아 등에서 사용되며, 다우니는 전 세계적으로 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "다우니는 전 세계적으로 판매되는 P&G의 섬유 유연제 브랜드이다. 베트남에서 P&G가 생산한 다우니 베리베리와 바닐라크림향 제품에서 글루타알데하이드가 검출되어 문제가 제기되었다. 글루타알데하이드는 방부제로 쓰이며 유해화학물질관리법상 유독물로 규정되어 있다. 한국 P&G는 함유량이 0.0098%(98 mg/kg)이며 한국의 법적 기준에 적합하고 화장품 허용량보다 5-10배 적다는 입장을 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1961년 미국에서 출시되어 전 세계에서 판매되는 P&G의 섬유 유연제 브랜드이며, 유럽·러시아 등에서는 자매 브랜드 레노(Lenor)가 쓰인다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://downy.com/",
+  "entityLinks": {
+   "wikidata": "Q903922",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q903922",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%9A%B0%EB%8B%88_(%EC%84%AC%EC%9C%A0_%EC%9C%A0%EC%97%B0%EC%A0%9C)",
+    "https://en.wikipedia.org/wiki/Downy"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q903922",
+   "country": "미국",
+   "inception": "1960",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "한국어 위키백과 「다우니 (섬유 유연제)」 요약과 위키데이터 Q903922 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2916497",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/perrigo-company-plc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "perrigo-company-plc",
+  "urlSlug": "perrigo-company-plc",
+  "name": "Perrigo Company Plc",
+  "nameKo": "",
+  "nameEn": "Perrigo Company Plc",
+  "definition": "Perrigo Company Plc는 일반의약품을 자체 브랜드(private label)용으로 제조하는 미국계 아일랜드 등록 기업이다. 소비자 헬스케어 제품과 제네릭 처방약, 원료의약품을 다룬다.",
+  "summary": "Perrigo Company Plc는 일반의약품을 자체 브랜드(private label)용으로 제조하는 미국계 아일랜드 등록 기업이다. 소비자 헬스케어 제품과 제네릭 처방약, 원료의약품을 다룬다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "자체 브랜드 일반의약품 제조를 중심으로, 매출은 대부분 미국에서 나오지만 법적 본사는 아일랜드에 둔 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Perrigo는 일반의약품을 자체 브랜드용으로 제조하는 업체로, 소비자 헬스케어 제품과 제네릭 처방약, 원료의약품(API)의 인수·제조·판매를 한다. 순매출의 70%가 미국 의료 시스템에서 나오며, 세금상 법적 본사가 있는 아일랜드의 순매출 비중은 0.60%이다. 2013년 세금 지위를 아일랜드로 재등록해 미국 기업 조세 회피 이전(tax inversion) 가운데 역대 여섯 번째로 큰 거래를 완료했다. 실제 본사는 미시간주 그랜드래피즈의 미시간 주립대학교 그랜드래피즈 이노베이션 파크 안에 있다. 2018년 12월 아일랜드 세무당국이 시장 가치의 절반에 해당하는 과세를 청구하자 사상 최대의 하루 주가 하락을 겪었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "L. Perrigo Company는 1887년 미시간주 앨리건에서 잡화점을 운영하던 Luther Perrigo와 Charles Perrigo가 세웠다. 1991년 Nasdaq에 상장했다. 2005년 3월에는 이스라엘 기반 제네릭 제약사 Agis Industries Limited를 $850 million 규모로 인수했고, Agis 창업자 Mori Arkin은 Perrigo 지분 9%를 보유하며 부회장이 되었다. 2013년 7월에는 아일랜드 기업 Elan Corporation을 $8.6 billion에 인수하는 방식으로 아일랜드로의 조세 회피 이전을 추진했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 소비자 헬스케어 제품, 제네릭 처방약, 원료의약품으로 구성된다. 2008년 1월 9일 영국의 일반의약품 자체 브랜드 공급업체 Galpharm Healthcare, Ltd.를 인수했다. 같은 해 10월 6일에는 Laboratorios Diba S.A.를 인수해 멕시코에서 제품을 판매할 수 있게 되었다. 2023년에는 자회사 HRA Pharma가 일반의약품 여성 피임약 Opill의 판매를 FDA로부터 승인받았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 6월 본사를 앨리건에서 약 40마일 북쪽의 그랜드래피즈 시내로 옮겼으며, 앨리건 캠퍼스에는 사무실과 생산 시설을 유지한다. 2023년 7월 기준 Patrick Lockwood-Taylor가 사장 겸 CEO이다. 2018년 12월에는 아일랜드 Revenue Commissioners가 2013년 Elan의 Tysabri 매각에 따른 양도소득세로 €1.64 billion을 청구했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "자체 브랜드 일반의약품 제조를 중심으로, 매출은 대부분 미국에서 나오지만 법적 본사는 아일랜드에 둔 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.perrigo.com/",
+  "entityLinks": {
+   "wikidata": "Q2916497",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2916497",
+    "https://en.wikipedia.org/wiki/Perrigo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2916497",
+   "country": "아일랜드",
+   "inception": "1887",
+   "headquarters": "아일랜드",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Perrigo」 본문과 위키데이터 Q2916497 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

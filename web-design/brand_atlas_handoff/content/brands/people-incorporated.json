@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q974846",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/people-incorporated-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "people-incorporated",
+  "urlSlug": "people-incorporated",
+  "name": "People Incorporated",
+  "nameKo": "",
+  "nameEn": "People Incorporated",
+  "definition": "People Incorporated는 People Inc.와 The Daily Beast를 소유한 미국의 복합 기업이다. MGM Resorts International(26.1%)과 Turo(31%)의 주요 주주이기도 하다.",
+  "summary": "People Incorporated는 People Inc.와 The Daily Beast를 소유한 미국의 복합 기업이다. MGM Resorts International(26.1%)과 Turo(31%)의 주요 주주이기도 하다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "방송사 Silver King에서 출발해 인수와 분사를 거치며 사명을 여러 차례 바꾼 끝에 People Inc.와 The Daily Beast를 소유하게 된 복합 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미국 델라웨어주에 법인을 두고 뉴욕시에 주된 사무소를 둔 복합 기업이다. People Inc.와 The Daily Beast를 소유하며, MGM Resorts International 지분 26.1%와 Turo 지분 31%를 보유한 주요 주주이다. 1986년 Silver King Broadcasting Company로 출발해 HSN Inc., USA Networks, Inc., USA Interactive, InterActiveCorp, IAC/InterActiveCorp 등으로 사명을 바꿔 왔다. 2012년 About.com을 인수했고, 그로부터 10년 뒤 IAC Inc.가 후신이 되었다. 2026년 6월 사명을 People Incorporated로 바꾸었다. 같은 해 8월에는 Neil Vogel을 CEO로 임명했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1986년 7월 28일 Home Shopping Network의 자회사 Silver King Broadcasting Company, Inc.로 설립되었다. 1992년 HSN이 Silver King를 주주들에게 분사했고, 1995년 8월 Barry Diller가 최대주주 Liberty Media의 지원을 받아 경영권을 인수했다. 1996년 12월 HSN 지분 80%를 주식으로 인수하고 HSN, Inc.로 사명을 바꿨다. 1998년 Universal Pictures의 텔레비전 자산을 인수하고 USA Networks, Inc.로 이름을 바꿨다. 2002년 Vivendi가 나머지 텔레비전 사업을 사들이자 온라인 자산 중심으로 전환해 USA Interactive가 되었고, 2003년 InterActiveCorp, 2004년 IAC/InterActiveCorp로 개명했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 소유한 대표 사업은 People Inc.와 The Daily Beast이다. 과거에는 Home Shopping Network, USA Network, Ticketmaster 등 방송·티켓 사업을 운영했다. 2001년 Expedia를 인수하며 온라인 여행 사업에 진출했고, 이후 Hotwire.com, Tripadvisor 등을 사들였다. 2005년에는 여행 관련 사이트를 묶어 Expedia, Inc.로 분사했다. 그 밖에 LendingTree, Ask Jeeves, CollegeHumor, Vimeo, About.com을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2026년 6월 사명을 People Incorporated로 바꾸었고, 8월 Neil Vogel을 CEO로 임명했다. 델라웨어주 법인이며 주된 사무소는 뉴욕시에 있다. MGM Resorts International 지분 26.1%와 Turo 지분 31%를 보유한 주요 주주이다. People Inc.와 The Daily Beast를 소유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "방송사 Silver King에서 출발해 인수와 분사를 거치며 사명을 여러 차례 바꾼 끝에 People Inc.와 The Daily Beast를 소유하게 된 복합 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.iac.com/",
+  "entityLinks": {
+   "wikidata": "Q974846",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q974846",
+    "https://ko.wikipedia.org/wiki/IAC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/People_Incorporated"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q974846",
+   "country": "미국",
+   "inception": "1986",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「People Incorporated」 본문과 위키데이터 Q974846 팩트를 근거로 편집",
+  "founded": {
+   "date": "1986-07-28",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

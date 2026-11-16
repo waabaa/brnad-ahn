@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q5214701",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/dana-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dana-corporation",
+  "urlSlug": "dana-corporation",
+  "name": "Dana Corporation",
+  "nameKo": "",
+  "nameEn": "Dana Corporation",
+  "definition": "Dana Corporation은 미국의 차량용 액슬, 구동축, 전기동력·열관리·실링·디지털 장비 공급업체로, 내연기관·하이브리드·전기 동력 차량을 대상으로 한다.",
+  "summary": "Dana Corporation은 미국의 차량용 액슬, 구동축, 전기동력·열관리·실링·디지털 장비 공급업체로, 내연기관·하이브리드·전기 동력 차량을 대상으로 한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "유니버설 조인트에서 출발해 액슬과 구동축 등 구동계 부품을 거쳐 전기 동력 장비까지 영역을 넓혔으며, 구동계 제품에 Spicer 브랜드를 쓴다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "현재 법인명은 Dana Incorporated이며, 미국 오하이오주 Maumee에 본사를 둔 차량용 부품 공급업체로 1904년에 설립되었다. 내연기관, 하이브리드, 전기 동력 차량에 들어가는 액슬, 구동축, 전기동력·열관리·실링·디지털 장비를 공급한다. 제품과 서비스는 경량 차량 장비 시장과 상용 차량 장비 시장이라는 두 축의 고객을 겨냥한다. 임직원은 33개국에서 약 28,000명에 이르며, 2022년 매출은 $10.2 billion이었다. 구동계 제품의 브랜드명으로는 Spicer를 쓰며, Fortune 500 기업 목록에도 포함되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1904년 엔지니어이자 발명가인 Clarence W. Spicer가 New Jersey주 Plainfield에서 유니버설 조인트 제조를 시작했고, 같은 해 첫 제품이 Connecticut의 Corbin Motor Company로 출하되었다. 1905년 Spicer Universal Joint Manufacturing Company로 법인화했으며, 1909년 Spicer Manufacturing Company로 사명을 바꿨다. 1922년 New York Stock Exchange에 상장했고, 1925년에는 영국 면허 업체 Hardy의 지분을 확보해 Hardy Spicer로 해외에 진출했다. 1946년 Dana가 사장 겸 재무담당이 되면서 Dana Corporation으로 개명했고, Spicer는 구동계 제품의 브랜드명이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품은 액슬, 구동축, 유니버설 조인트, 실링 및 열관리 제품이다. 액슬은 Dana 30, Dana 44, Dana 60, Dana 80 같은 모델과 Dana S110, Dana S190 등의 계열로 구성된다. 전기 액슬로는 eS1100r 48V e-Axle, eS9000r e-Axle, Zero-8 e-Axles 등이 있다. 서스펜션 제품인 Twin Traction Beam과 Dana 18, Dana 20, Dana 300 같은 트랜스퍼 케이스도 만든다. 프랑스에서는 Nantes의 Fétis Group 계열사 Secodi가 Spicer 제품을 공식 유통한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "임직원은 33개국에서 약 28,000명이며, 2022년 매출은 $10.2 billion이었다. 2006년 파산을 신청했고 2007년 파산 절차 중 주식 150 million주를 소각했다. 이후 2018년 전기 파워트레인 업체 TM4 Inc.의 과반 지분 인수를 발표했으며, 2019년에는 SME Group(Italy), Oerlikon Group의 Drive Systems 부문, Nordresa Motors를 인수했다. 2021년 3월에는 Michigan주 Plymouth의 Pi Innovo를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "유니버설 조인트에서 출발해 액슬과 구동축 등 구동계 부품을 거쳐 전기 동력 장비까지 영역을 넓혔으며, 구동계 제품에 Spicer 브랜드를 쓴다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.dana.com/",
+  "entityLinks": {
+   "wikidata": "Q5214701",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5214701",
+    "https://en.wikipedia.org/wiki/Dana_Incorporated"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5214701",
+   "country": "미국",
+   "inception": "1904",
+   "headquarters": "털리도",
+   "founders": [
+    "Clarence W. Spicer"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Dana Incorporated」 본문과 위키데이터 Q5214701 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q430745",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/teradata-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "teradata",
+  "urlSlug": "teradata",
+  "name": "테라데이터",
+  "nameKo": "테라데이터",
+  "nameEn": "Teradata",
+  "definition": "테라데이터(Teradata)는 클라우드 데이터베이스와 애널리틱스 관련 소프트웨어, 제품, 서비스를 제공하는 미국의 소프트웨어 회사이다. 1979년에 설립되었고 본사는 샌디에고에 있다.",
+  "summary": "테라데이터(Teradata)는 클라우드 데이터베이스와 애널리틱스 관련 소프트웨어, 제품, 서비스를 제공하는 미국의 소프트웨어 회사이다. 1979년에 설립되었고 본사는 샌디에고에 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "NCR에서 분리되어 독립 상장한 데이터 웨어하우징 기반 회사로, 데이터베이스 머신에서 출발해 클라우드 애널리틱스 소프트웨어 중심으로 사업을 옮겨 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "테라데이터는 데이터베이스 애널리틱스 소프트웨어를 개발하고 판매하는 미국의 소프트웨어 회사이다. 클라우드 및 하드웨어 기반 데이터 웨어하우징, 비즈니스 애널리틱스, 컨설팅의 세 가지 주요 서비스를 고객에게 제공한다. 북미, 라틴 아메리카, 유럽, 중동, 아프리카 및 아시아에서 운영되고 있으며 애틀랜타와 샌프란시스코에도 주요 미국 지사를 두고 있다. 샌디에고에 본사를 두고 있으며 뉴욕 증권거래소에 티커 심볼 TDC로 상장되어 있다. 2018년 10월에는 테라데이터 데이터베이스에서 진화한 클라우드 애널리틱스 소프트웨어 Vantage의 홍보를 시작했다. 클라우드 데이터베이스 및 애널리틱스 소프트웨어 사업에 집중하기 위해 기존 하드웨어 플랫폼에 대한 지원 종료를 계획하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "테라데이터의 개념은 1970년대 캘리포니아 공과대학교의 연구와 씨티은행 첨단 기술 그룹의 논의에서 발전했다. 1979년 Jack E. Shemer, Philip M. Neches 등이 브렌트우드(캘리포니아주)에서 법인으로 설립했다. 1984년에 DBC/1012 데이터베이스 머신을 출시했고 씨티은행이 초기 고객 중 하나였다. 1992년에는 월마트를 위해 1 테라바이트가 넘는 최초의 시스템을 구축했다. 2007년 1월 NCR은 테라데이터가 독립적인 상장 회사가 될 것이라고 발표했고, 새 회사의 주식은 10월에 거래를 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "테라데이터는 클라우드 및 하드웨어 기반 데이터 웨어하우징, 비즈니스 애널리틱스, 컨설팅 서비스를 제공한다. 1984년 DBC/1012 데이터베이스 머신을 출시했고, 2016년 4월 IntelliFlex 하드웨어 제품군을 발표했다. 2016년 9월에는 공용 및 사설 데이터베이스에 쿼리를 제출할 수 있는 Teradata Everywhere를 출시했고, 2017년 3월에는 보안 관리형 클라우드인 Teradata IntelliCloud를 도입했다. 2018년 10월에는 클라우드 애널리틱스 소프트웨어 Vantage의 홍보를 시작했다. 2025년 7월에는 ClearScape Analytics를 업데이트하여 에이전틱 AI 및 생성형 인공지능 애플리케이션을 간소화하는 ModelOps를 도입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 6월 8일부로 Steve McMillan이 사장 겸 최고경영자를 맡고 있다. 클라우드 사업 집중을 위해 기존 하드웨어 플랫폼 지원을 종료할 계획이며, IntelliFlex 2.5와 R740 하드웨어 플랫폼만 현재 제품으로 등재되어 있다. 2024년 12월에는 SAP SE와의 영업비밀 횡령 및 반독점 위반 혐의 소송에서 캘리포니아 연방 판사의 결정에 대해 성공적으로 항소했고, 연방 항소 법원은 이전 판결을 뒤집어 테라데이터의 주장을 부활시켰다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "NCR에서 분리되어 독립 상장한 데이터 웨어하우징 기반 회사로, 데이터베이스 머신에서 출발해 클라우드 애널리틱스 소프트웨어 중심으로 사업을 옮겨 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.teradata.com",
+  "entityLinks": {
+   "wikidata": "Q430745",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q430745",
+    "https://ko.wikipedia.org/wiki/%ED%85%8C%EB%9D%BC%EB%8D%B0%EC%9D%B4%ED%84%B0",
+    "https://en.wikipedia.org/wiki/Teradata"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q430745",
+   "country": "미국",
+   "inception": "1979",
+   "headquarters": "샌디에고",
+   "founders": [],
+   "parent": "NCR 코퍼레이션",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「테라데이터」 요약과 위키데이터 Q430745 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

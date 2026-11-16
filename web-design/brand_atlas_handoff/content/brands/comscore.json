@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q734779",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/comscore-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "comscore",
+  "urlSlug": "comscore",
+  "name": "컴스코어",
+  "nameKo": "컴스코어",
+  "nameEn": "Comscore",
+  "definition": "컴스코어(Comscore)는 미국에 본사를 둔 글로벌 미디어 측정·분석 기업으로, 기업·광고 대행사·브랜드 마케터·퍼블리셔에 마케팅 데이터와 분석을 제공한다.",
+  "summary": "컴스코어(Comscore)는 미국에 본사를 둔 글로벌 미디어 측정·분석 기업으로, 기업·광고 대행사·브랜드 마케터·퍼블리셔에 마케팅 데이터와 분석을 제공한다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1999년 설립된 미국의 미디어 측정·분석 기업으로, 광고 대행사와 퍼블리셔 등에 마케팅 데이터를 제공하며 Media Metrix 등 인수를 통해 측정 사업을 넓혔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "컴스코어는 1999년 미국 버지니아주 레스턴에서 설립된 미디어 측정·분석 기업이다. 기업, 광고 대행사, 브랜드 마케터, 퍼블리셔를 대상으로 마케팅 데이터와 분석을 제공한다. 2007년 3월 30일 나스닥에 상장했으며 종목 기호는 SCOR이다. 2016년에는 재무 재작성 지연으로 나스닥 상장폐지 위험에 놓이기도 했다. 2018년 10월에는 로고를 바꾸고 표기를 'comScore'에서 'comscore'로 바꾸었으나 'Comscore' 표기도 계속 사용했다. 2019년 11월 Bill Livek이 최고경영자에 임명되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "컴스코어는 1999년 7월 버지니아주 레스턴에서 설립되었다. 공동 창업자는 Gian Fulgoni와 Magid Abraham이며, 두 사람 모두 시장조사 기업 Information Resources, Inc.(IRI) 출신이다. Fulgoni는 오랫동안 IRI의 CEO를 지냈다. 2002년 6월 Media Metrix 서비스를 인수한다고 발표했고, 2007년 3월 30일 나스닥에 상장했다. 이후 2008년 5월 모바일 콘텐츠 소비를 측정하던 M:Metrics의 인수를 발표했고, 2009년 10월에는 칠레 산티아고에 기반을 둔 Certifica의 인수를 발표해 중남미 시장 입지를 강화했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 11월 5일 Bill Livek이 최고경영자 겸 부회장으로 임명되었다. 그는 이전에 Rentrak의 부회장 겸 최고경영자로서 영화와 TV를 정밀하게 측정하는 차세대 제품을 이끌었다. 2022년 2월 Livek은 이사회가 후임을 찾으면 CEO에서 물러나겠다고 밝혔다. 2018년 10월 이후에는 'comscore' 표기를 쓰되 'Comscore'도 함께 사용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1999년 설립된 미국의 미디어 측정·분석 기업으로, 광고 대행사와 퍼블리셔 등에 마케팅 데이터를 제공하며 Media Metrix 등 인수를 통해 측정 사업을 넓혔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.comscore.com/",
+  "entityLinks": {
+   "wikidata": "Q734779",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q734779",
+    "https://ko.wikipedia.org/wiki/%EC%BB%B4%EC%8A%A4%EC%BD%94%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Comscore"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q734779",
+   "country": "미국",
+   "inception": "1999",
+   "headquarters": "레스턴",
+   "founders": [
+    "Gian M. Fulgoni"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Comscore」 본문과 위키데이터 Q734779 팩트를 근거로 편집",
+  "founded": {
+   "date": "1999-07-26",
+   "precision": "day",
+   "sources": [
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

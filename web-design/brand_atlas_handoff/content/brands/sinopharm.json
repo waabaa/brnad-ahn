@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q27892807",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sinopharm-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sinopharm",
+  "urlSlug": "sinopharm",
+  "name": "시노팜",
+  "nameKo": "시노팜",
+  "nameEn": "Sinopharm",
+  "definition": "시노팜(Sinopharm)은 China National Pharmaceutical Group Corporation(CNPGC)을 일반적으로 부르는 이름이다. 본사는 베이징시에 있는 중국의 국유기업이며 의약품과 백신 사업을 한다.",
+  "summary": "시노팜(Sinopharm)은 China National Pharmaceutical Group Corporation(CNPGC)을 일반적으로 부르는 이름이다. 본사는 베이징시에 있는 중국의 국유기업이며 의약품과 백신 사업을 한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "중국 국유 의약 지주기업으로, 상장 계열사를 통해 의약품과 생물제품 사업을 하고 코로나19 불활성화 백신을 개발한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시노팜은 China National Pharmaceutical Group Corporation의 약칭으로 통용되는 중국 국유기업이다. 국무원 국유자산감독관리위원회의 감독을 받았다. 홍콩증권거래소 상장사 Sinopharm Group, China Traditional Chinese Medicine과 상하이증권거래소 상장사 Shanghai Shyndec Pharmaceutical, Beijing Tiantan Biological Products의 간접 대주주였다. 2021년 Fortune Global 500 순위에서 109위에 올랐다. 코로나19 백신을 개발했으며 2021년 5월 7일 세계보건기구가 이 백신의 긴급사용을 승인했다. 2023년 4월에는 Pfizer가 Sinopharm Group과 협력 협약을 체결했다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1998년 11월 26일 China National Pharmaceutical Group Corporation(中国医药集团总公司)이라는 이름으로 설립했다. China National Pharmaceutical Corporation, China National Pharmaceutical Industry Corporation, China National Pharmaceutical Foreign Trade Corp., China National Medical Device의 지주회사로 출발했다. 2009년에는 China National Biotec Group과 합병했다. China National Biotec Group은 Beijing Tiantan Biological Products를 통해 상장사 지배 구조에 연결된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Sinopharm BIBP 코로나19 백신(BBIBP-CorV)은 불활성화 바이러스 백신이며 Sinopharm이 개발한 두 백신 중 하나이다. 아르헨티나, 바레인, 이집트, 모로코, 파키스탄, 페루, 아랍에미리트에서 60,000명이 넘는 참가자와 함께 3상 시험을 마쳤다. JAMA에 게재된 아랍에미리트·바레인 3상 결과에서 증상 발현 사례에 78.1%, 중증 사례에 100%의 효과를 보였다. 이 백신은 일반 냉장 온도에서 운송하고 보관할 수 있다. 별개의 Sinopharm WIBP 코로나19 백신도 불활성화 바이러스 백신이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 Fortune Global 500 순위에서 109위에 올랐다. 2017년 11월에는 자회사 Wuhan Institute of Biological Products가 효과 없는 DPT 백신 400,520회분을 판매해 벌금을 부과받았다. 2023년 4월 Pfizer는 Sinopharm Group과의 협력 협약 체결을 발표했으며, 2025년까지 중국에서 12개 약물의 승인을 추진할 계획이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국 국유 의약 지주기업으로, 상장 계열사를 통해 의약품과 생물제품 사업을 하고 코로나19 불활성화 백신을 개발한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.sinopharm.com",
+  "entityLinks": {
+   "wikidata": "Q27892807",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27892807",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%85%B8%ED%8C%9C",
+    "https://en.wikipedia.org/wiki/Sinopharm_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27892807",
+   "country": "중화인민공화국",
+   "inception": "1998",
+   "headquarters": "베이징시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Sinopharm (company)」 본문과 위키데이터 Q27892807 팩트를 근거로 편집",
+  "founded": {
+   "date": "1998-11-26",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

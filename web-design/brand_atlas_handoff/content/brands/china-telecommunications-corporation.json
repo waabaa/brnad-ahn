@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1073540",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "china-telecommunications-corporation",
+  "urlSlug": "china-telecommunications-corporation",
+  "name": "중국전신집단유한공사",
+  "nameKo": "중국전신집단유한공사",
+  "nameEn": "China Telecommunications Corporation",
+  "definition": "중국전신집단유한공사(China Telecommunications Corporation)는 중국의 국유기업이자 전기 통신 대기업이다. 중국의 주요 유선전화 제공업체이며 이동 통신 분야에서도 중국 내 제2위 사업자이다.",
+  "summary": "중국전신집단유한공사(China Telecommunications Corporation)는 중국의 국유기업이자 전기 통신 대기업이다. 중국의 주요 유선전화 제공업체이며 이동 통신 분야에서도 중국 내 제2위 사업자이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "국무원국유자산감독관리위원회의 감독을 받는 중국 국유 전기 통신 대기업으로, 유선 통신을 기반으로 CDMA 사업을 인수해 통합 사업자로 전환했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 기업은 중국의 국유기업으로, 유선전화와 이동 통신, 광대역 인터넷 접속 서비스를 제공하는 전기 통신 사업자이다. 중국의 주요 유선전화 제공업체이자 중국 내 제2위의 이동 통신 제공업체이다. 모기업은 국무원국유자산감독관리위원회이며 본사는 시청구에 있다. 중국전신주식유한공사, 중국통신서비스주식유한공사, 베스트톤 홀딩 등 세 개의 상장사를 보유하고 있다. 2008년에는 중국연합통신의 CDMA 사업을 인수해 완전히 통합된 전기 통신 사업자로 전환하는 일련의 거래를 진행했다. 한편 미국 국방부는 이 회사가 중국 인민해방군과 연계되어 있다고 밝혔으며, 미국에서는 제재와 규제 조치가 이어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 우전부의 정부 기관에서 시작되었다. 1995년 4월 27일 '중국전신'을 브랜드명으로 사용하는 중국 전신총국으로서 별도의 법인으로 등록되었다. 2000년 5월 17일에는 중국전신집단유한공사로 등록되었다. 2002년 5월 중국네트콤이 별도의 회사로 분사되었고, 이 회사는 국무원국유자산감독관리위원회의 직접적인 감독을 받게 되었다. 2002년 9월 10일에는 자회사인 중국전신이 상장되었고, 상장된 이 회사는 점진적으로 모회사의 자산을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2008년 4월 기준으로 2억 1,600만 명에게 유선전화 및 샤오링퉁(퍼스널 핸디폰 시스템) 전화 서비스를 제공했다. 3,800만 명 이상의 가입자에게 광대역 인터넷 접속을 제공했으며, 이는 중국 인터넷 대역폭의 약 62%(46 Gbit/s)를 차지했다. 2008년 6월 2일 중국연합통신의 전국적인 CDMA 사업 및 자산을 CN¥1,100억에 인수한다고 발표했고, 이를 통해 4,300만 명의 모바일 가입자를 확보했다. 2009년 1월 7일에는 3G 통신 사업 확장을 위해 CDMA 2000 라이선스를 취득했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 12월 31일 기준으로 상장 자회사인 중국전신주식유한공사의 지분 70.89%를 보유한 대주주였다. 2020년 11월 미국의 행정명령 13959호에 따라 뉴욕 증권거래소는 2021년 1월 중국전신을 상장 폐지했고, 2021년 10월 미국 연방 통신 위원회는 미국 내 운영 라이선스를 취소했다. 2024년 12월에는 미국 상무부가 미국 내 클라우드 및 인터넷 라우팅 사업에 대한 단속을 강화하기로 했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국무원국유자산감독관리위원회의 감독을 받는 중국 국유 전기 통신 대기업으로, 유선 통신을 기반으로 CDMA 사업을 인수해 통합 사업자로 전환했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.chinatelecom.com.cn/",
+  "entityLinks": {
+   "wikidata": "Q1073540",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1073540",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%A0%84%EC%8B%A0%EC%A7%91%EB%8B%A8%EC%9C%A0%ED%95%9C%EA%B3%B5%EC%82%AC",
+    "https://en.wikipedia.org/wiki/China_Telecommunications_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1073540",
+   "country": "중화인민공화국",
+   "inception": "1995",
+   "headquarters": "시청구",
+   "founders": [],
+   "parent": "국무원국유자산감독관리위원회",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「중국전신집단유한공사」 요약과 위키데이터 Q1073540 팩트를 근거로 편집",
+  "founded": {
+   "date": "1995-04-27",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ }
+}

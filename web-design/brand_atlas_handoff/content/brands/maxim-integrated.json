@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1784671",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/maxim-integrated-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "maxim-integrated",
+  "urlSlug": "maxim-integrated",
+  "name": "맥심 인터그레이티드",
+  "nameKo": "맥심 인터그레이티드",
+  "nameEn": "Maxim Integrated",
+  "definition": "맥심 인터그레이티드(Maxim Integrated)는 미국의 반도체 회사로, 아날로그 및 혼합신호 집적회로를 설계·제조·판매했다. 2021년 Analog Devices에 인수되었다.",
+  "summary": "맥심 인터그레이티드(Maxim Integrated)는 미국의 반도체 회사로, 아날로그 및 혼합신호 집적회로를 설계·제조·판매했다. 2021년 Analog Devices에 인수되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "맥심 인터그레이티드는 아날로그 및 혼합신호 집적회로를 중심으로 한 미국 반도체 회사이며, 여러 기업과 제조 시설의 인수를 통해 성장한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "맥심 인터그레이티드(Maxim Integrated Products, Inc.)는 자동차, 산업, 통신, 소비자, 컴퓨팅 시장을 위한 아날로그 및 혼합신호 집적회로를 설계하고 제조하며 판매한 미국 반도체 회사이다. 본사는 캘리포니아주 산호세에 있었고, 전 세계에 설계 센터와 제조 시설, 영업 사무소를 두었다. 제품군은 전력 및 배터리 관리 IC, 센서, 아날로그 IC, 인터페이스 IC, 통신 솔루션, 디지털 IC, 임베디드 보안, 마이크로컨트롤러를 아우른다. 1983년에 설립되어 1988년 기업공개를 통해 상장했다. 여러 반도체 기업과 제조 시설을 인수하며 사업 범위와 생산 능력을 넓혔다. 2021년 Analog Devices에 인수되어 독립 기업으로서의 활동은 끝났다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "맥심은 1983년 4월에 설립되었다. 창업팀에는 1960년대부터 반도체 업계에서 활동했고 Advanced Micro Devices의 공동 창업자였던 Jack Gifford가 포함되었다. 이들은 두 쪽짜리 사업 계획서를 바탕으로 벤처 캐피털 US$9 million을 확보해 회사를 세웠다. 첫해에 24개의 세컨드 소스 제품을 개발했고, 1985년에 MAX600을 선보였다. 1987년에는 MAX232의 도움으로 첫 흑자 회계연도를 기록했으며, 1988년 기업공개를 통해 상장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맥심의 제품 포트폴리오는 전력 및 배터리 관리 IC, 센서, 아날로그 IC, 인터페이스 IC, 통신 솔루션, 디지털 IC, 임베디드 보안, 마이크로컨트롤러로 구성되었다. 주요 응용 시장은 자동차, 산업, 통신, 소비자, 컴퓨팅이었다. 인수를 통해 제품군도 넓혔는데, 2007년 Vitesse Semiconductor의 Storage Products Division에서 Serial ATA(SATA), Serial Attached SCSI(SAS), 인클로저 관리 제품을 확보했다. 2008년에는 Mobilygen을 인수해 H.264 영상 압축 기술을 더했다. 2010년에는 스마트 미터 시장에 SoC를 공급하던 팹리스 반도체 회사 Teridian Semiconductor를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "맥심은 2021년 Analog Devices에 인수되었다. 이에 따라 독립된 반도체 회사로서의 활동은 끝났다. 본사는 캘리포니아주 산호세에 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "맥심 인터그레이티드는 아날로그 및 혼합신호 집적회로를 중심으로 한 미국 반도체 회사이며, 여러 기업과 제조 시설의 인수를 통해 성장한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.maximintegrated.com/",
+  "entityLinks": {
+   "wikidata": "Q1784671",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1784671",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A5%EC%8B%AC_%EC%9D%B8%ED%84%B0%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8B%B0%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Maxim_Integrated"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1784671",
+   "country": "미국",
+   "inception": "1983",
+   "headquarters": "산호세",
+   "founders": [
+    "Jack Gifford"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Maxim Integrated」 본문과 위키데이터 Q1784671 팩트를 근거로 편집",
+  "founded": {
+   "date": "1983-04-14",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2032800",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/ally-financial-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ally-financial",
+  "urlSlug": "ally-financial",
+  "name": "얼라이 파이낸셜",
+  "nameKo": "얼라이 파이낸셜",
+  "nameEn": "Ally Financial",
+  "definition": "얼라이 파이낸셜(Ally Financial)은 미국 디트로이트에 본사를 둔 은행 지주회사이다. 자동차 금융, 온라인 은행, 기업 대출, 차량 보험 등의 금융 서비스를 제공한다.",
+  "summary": "얼라이 파이낸셜(Ally Financial)은 미국 디트로이트에 본사를 둔 은행 지주회사이다. 자동차 금융, 온라인 은행, 기업 대출, 차량 보험 등의 금융 서비스를 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "GMAC에서 출발해 2010년 이름을 바꾼 미국의 자동차 금융 중심 은행 지주회사로, 직접 은행 Ally Bank를 함께 운영하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "얼라이 파이낸셜은 델라웨어주에 설립된 미국의 은행 지주회사로, 미시간주 디트로이트의 Ally Detroit Center에 본사를 두고 있다. 자동차 금융과 리스, 직접 은행 방식의 온라인 뱅킹, 기업 대출, 차량 보험, 모기지 대출 및 할부 판매·리스 계약 같은 관련 금융 서비스를 제공한다. 미국 최대 규모의 자동차 금융사 가운데 하나이며, 미국 은행 자산 순위 목록에도 올라 있다. 2025년에 자동차 금융과 리스 고객 4.0 million명에게 서비스를 제공했고 자동차 대출 1.3 million건을 취급했다. 예금 고객은 3.5 million명, 소매 은행 계좌는 6.5 million개이다. 2000년에 출시한 온라인 자동차 경매 시장 SmartAuction을 통해서는 2025년에 573,000대의 차량을 판매했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1919년 General Motors(GM)가 자동차 구매 고객에게 금융을 제공하기 위해 General Motors Acceptance Corporation(GMAC)이라는 이름으로 설립했다. 1939년 Motors Insurance Corporation을 세워 차량 보험 시장에 진출했고, 1985년에는 GMAC Mortgage를 만들어 모기지 사업으로 영역을 넓혔다. 2000년에는 직접 은행인 GMAC Bank를 설립했다. 2006년 GM이 GMAC 지분 51%를 사모펀드 Cerberus Capital Management에 매각했다. 2009년 5월 GMAC Bank를 Ally Bank로 바꾸었고, 2010년 5월 회사 이름도 Ally Financial로 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 자동차 금융으로, 자동차 대출과 리스를 제공하며 기업 대출도 함께 취급한다. Ally Bank는 직접 은행으로서 예금과 온라인 뱅킹 서비스를 운영한다. 1939년 Motors Insurance Corporation을 설립해 차량 보험 시장에 진출했다. SmartAuction은 2000년에 출시한 자동차 경매용 온라인 시장으로, 2025년에 573,000대의 차량을 판매했다. 2016년에는 증권 중개회사 TradeKing을 인수해 Ally Invest로 이름을 바꾸었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 4월 기업공개(IPO)를 통해 상장사가 되었고, 2015년 본사를 One Detroit Center로 옮겼다. 이 건물은 이후 Ally Detroit Center로 이름이 바뀌었다. 모기지는 2016년 5월 재진출했으나 2025년 1월 신규 대출을 중단했다. 2021년 12월 인수한 신용카드 회사 Fair Square Financial은 2025년 4월 CardWorks에 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "GMAC에서 출발해 2010년 이름을 바꾼 미국의 자동차 금융 중심 은행 지주회사로, 직접 은행 Ally Bank를 함께 운영하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ally.com/",
+  "entityLinks": {
+   "wikidata": "Q2032800",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2032800",
+    "https://ko.wikipedia.org/wiki/%EC%96%BC%EB%9D%BC%EC%9D%B4_%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C",
+    "https://en.wikipedia.org/wiki/Ally_Financial"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2032800",
+   "country": "미국",
+   "inception": "1919",
+   "headquarters": "디트로이트",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Ally Financial」 본문과 위키데이터 Q2032800 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

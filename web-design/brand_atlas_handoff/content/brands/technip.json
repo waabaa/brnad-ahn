@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1598474",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/technip-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "technip",
+  "urlSlug": "technip",
+  "name": "Technip",
+  "nameKo": "",
+  "nameEn": "Technip",
+  "definition": "Technip은 에너지 산업을 대상으로 프로젝트 관리, 엔지니어링, 건설을 수행한 프랑스의 기업이다. 2017년 FMC Technologies와 합병해 TechnipFMC를 이루었다.",
+  "summary": "Technip은 에너지 산업을 대상으로 프로젝트 관리, 엔지니어링, 건설을 수행한 프랑스의 기업이다. 2017년 FMC Technologies와 합병해 TechnipFMC를 이루었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "IFP가 설립한 프랑스의 엔지니어링 기업으로, Coflexip과의 합병을 거쳐 FMC Technologies와 합쳐져 TechnipFMC가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Technip은 프랑스 파리에 본사를 둔 에너지 산업 전문 기업이다. 에너지 산업을 대상으로 프로젝트 관리, 엔지니어링, 건설을 수행했다. 1958년 설립되었고, 1990년대에 파리 증권거래소에 상장되어 2009년 9월 CAC40 지수에 편입되었다. 2017년 FMC Technologies와 합병을 마무리해 TechnipFMC를 이루었다. TechnipFMC는 Subsea, Offshore, Onshore의 세 사업 부문에서 활동하며 약 38,000명의 직원이 48개국에서 일한다. 2019년 8월 분리 계획이 발표되었고, Technip에서 해저 사업을 뺀 부분은 Technip Energies로 이름이 바뀌었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Technip은 1958년 IFP(Institut français du pétrole)가 Compagnie française d'études et de construction Technip이라는 이름으로 설립했다. 1960년대에 아프리카와 아시아에서 첫 해외 프로젝트를 마쳤다. 1970년대에는 로마 사무소를 인수하고 탄화수소 유전 설비를 전문으로 하는 자회사 Technip Geoproduction을 만들어 국제 그룹이 되었다. 1980년대에는 쿠알라룸푸르와 아부다비에 운영 센터를 열었다. 2000년대에 Coflexip과 합병했고, 2011년 Global Industries를, 2012년 The Shaw Group의 Stone & Webster Process Technologies를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Technip은 Subsea, Offshore, Onshore의 세 사업 부문에서 활동했다. 합병 상대인 Coflexip은 유연 해저 플로라인의 설계, 제조, 공급을 전문으로 했으며 프랑스 Le Trait에 유연 플로라인 제조 공장을 열었다. 2010년에는 Technip의 선단이 17척으로 늘었고, 그중 Apache II는 업계에서 가장 앞선 파이프 부설선 가운데 하나로 꼽혔다. 같은 해 말레이시아 Tanjung Langsat에 그룹의 세 번째 유연 파이프 생산 공장인 Asiaflex Products가 문을 열었다. 2000년대에는 중동에서 LNG, 에틸렌, 정유 분야의 대형 계약을 여러 건 체결했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 FMC Technologies와의 합병으로 TechnipFMC가 출범했으며, 본사는 휴스턴, 파리, 런던 세 곳에 두었다. CEO는 Doug Pferdehirt이고 Thierry Pilenko가 executive chairman을 맡았다. 2019년 8월 TechnipFMC를 두 개의 독립 기업으로 나눈다고 발표했고, 분리는 2020년 상반기 말까지 마무리될 예정이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "IFP가 설립한 프랑스의 엔지니어링 기업으로, Coflexip과의 합병을 거쳐 FMC Technologies와 합쳐져 TechnipFMC가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.technip.com",
+  "entityLinks": {
+   "wikidata": "Q1598474",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1598474",
+    "https://en.wikipedia.org/wiki/Technip"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1598474",
+   "country": "프랑스",
+   "inception": "1958",
+   "headquarters": "파리",
+   "founders": [
+    "French Institute of Petroleum"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Technip」 본문과 위키데이터 Q1598474 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

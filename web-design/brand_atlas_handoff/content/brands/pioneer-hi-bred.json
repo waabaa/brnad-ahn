@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1417484",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "pioneer-hi-bred",
+  "urlSlug": "pioneer-hi-bred",
+  "name": "Pioneer Hi-Bred",
+  "nameKo": "",
+  "nameEn": "Pioneer Hi-Bred",
+  "definition": "Pioneer Hi-Bred는 미국에 본사를 둔 농업용 종자 생산 기업으로, Corteva의 자회사이다. 하이브리드 옥수수 종자와 유전자변형 작물 종자를 생산하고 판매한다.",
+  "summary": "Pioneer Hi-Bred는 미국에 본사를 둔 농업용 종자 생산 기업으로, Corteva의 자회사이다. 하이브리드 옥수수 종자와 유전자변형 작물 종자를 생산하고 판매한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "하이브리드 옥수수 종자에서 출발해 곤충·제초제 저항성 유전자변형 작물까지 다루는 미국 종자 기업이다. 1926년 Henry A. Wallace가 세운 Hi-Bred Corn Company가 뿌리이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "농업용 종자를 생산하는 미국 기업으로, 현재 Corteva의 자회사이다. 본사는 아이오와주 존스턴에 두며 세계 각지에 사무소를 운영한다. 하이브리드 옥수수 종자를 70개국에 가까운 나라에서 생산·판매하고, 수수, 해바라기, 대두, 알팔파, 카놀라, 쌀, 밀의 하이브리드 또는 개량 품종과 사료·곡물 첨가제도 판매한다. 곤충 저항성과 제초제 저항성을 지닌 유전자변형 작물의 주요 생산자이다. 완전 자회사, 합작회사, 판매 대리인, 독립 딜러 등 다양한 조직을 통해 제품을 판매한다. 뿌리는 1926년 설립된 Hi-Bred Corn Company이며, 1970년부터 현재의 사명 Pioneer Hi-Bred International, Inc.를 쓴다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1926년 농업 잡지 편집자이자 훗날 미국 부통령이 되는 Henry A. Wallace가 아이오와주 디모인의 사업가들과 함께 Hi-Bred Corn Company를 설립했다. Wallace는 옥수수 교배를 실험하며 하이브리드 종자 옥수수가 중요해지리라 확신했고, 설립 당시 자본금은 US$7,000였다. 1935년 다른 하이브리드 옥수수 회사와 구별하기 위해 사명에 Pioneer를 붙였다. 1970년 사명을 Pioneer Hi-Bred International, Inc.로 바꿨고 1973년 상장했다. 1981년에는 북미 옥수수 판매에서 시장 점유율 1위를 차지했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "하이브리드 옥수수 종자가 중심 제품이며, 수수, 해바라기, 대두, 알팔파, 카놀라, 쌀, 밀의 하이브리드 또는 개량 품종과 사료·곡물 첨가제도 판매한다. 유전자변형 종자에는 Bayer의 Ignite/Liberty 제초제에 대한 저항성을 주는 LibertyLink 유전자, Herculex I과 Herculex RW 곤충 보호 형질, YieldGard Corn Borer 유전자, 글리포세이트 제초제에 대한 저항성을 주는 Roundup Ready Corn 2 형질을 도입한다. 2010년 Dupont Pioneer는 올레산 함량이 75%를 넘는 Plenish 대두의 판매 승인을 받았다. 1936년에는 하이브리드 산란계를 생산하는 Hy-Line Poultry Farms를 세웠으며, 이 사업은 1978년 분사했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Corteva의 자회사이며 본사는 아이오와주 존스턴에 둔다. 하이브리드 옥수수 종자를 70개국에 가까운 나라에서 판매한다. 판매 조직에는 Curry Seed, NuTech Seed, Hoegemeyer Hybrids, Doeblers Seed, Seed Consultants Inc, Terral Seeds, AgVenture Inc 등 완전 자회사와 합작회사, 판매 대리인, Burrus Hybrids와 Beck's Superior Hybrids 같은 독립 딜러가 포함된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하이브리드 옥수수 종자에서 출발해 곤충·제초제 저항성 유전자변형 작물까지 다루는 미국 종자 기업이다. 1926년 Henry A. Wallace가 세운 Hi-Bred Corn Company가 뿌리이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.pioneer.com/",
+  "entityLinks": {
+   "wikidata": "Q1417484",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1417484",
+    "https://en.wikipedia.org/wiki/Pioneer_Hi_Bred_International"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1417484",
+   "country": "미국",
+   "inception": "1926",
+   "headquarters": "존스턴",
+   "founders": [
+    "헨리 A. 월리스"
+   ],
+   "parent": "듀폰",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Pioneer Hi Bred International」 본문과 위키데이터 Q1417484 팩트를 근거로 편집",
+  "founded": {
+   "date": "1926-04-20",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ }
+}

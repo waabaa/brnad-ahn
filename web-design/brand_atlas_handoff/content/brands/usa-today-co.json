@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1345971",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/usa-today-co-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "usa-today-co",
+  "urlSlug": "usa-today-co",
+  "name": "개닛",
+  "nameKo": "개닛",
+  "nameEn": "USA Today Co.",
+  "definition": "개닛(USA Today Co.)은 미국 뉴욕에 본사를 둔 대중매체 지주회사이다. 일간 총 발행부수 기준으로 미국 최대의 신문 발행사이며, 전국지 USA Today를 소유하고 있다.",
+  "summary": "개닛(USA Today Co.)은 미국 뉴욕에 본사를 둔 대중매체 지주회사이다. 일간 총 발행부수 기준으로 미국 최대의 신문 발행사이며, 전국지 USA Today를 소유하고 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "일간 총 발행부수 기준 미국 최대 신문 발행사이자 전국지 USA Today와 지역 신문을 함께 소유한 신문 지주회사로, 2025년 11월 사명 변경을 발표했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 미국의 대중매체 지주회사로 뉴욕시에 본사를 두고 있다. 일간 총 발행부수로 따질 때 미국에서 가장 큰 신문 발행사이다. 전국지 USA Today와 여러 유력 지역 신문을 소유한다. 2015년 신문·출판 중심 회사와 방송 중심 회사로 나뉘어 각각 상장사가 되었고, 방송 회사는 Tegna라는 이름을 쓰게 되었다. 2019년 11월 New Media Investment Group이 자회사 GateHouse Media를 합병하면서 미국 최대의 신문 발행사가 만들어졌고, 이 회사는 Gannett 이름을 이어받았으며 Mike Reed가 CEO로 지명되었다. 2025년 11월에는 사명을 Gannett에서 USA Today Co.로 바꾼다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Gannett Company, Inc.는 1923년 Frank Gannett이 뉴욕주 Rochester에서 세웠다. 이 회사는 그가 1906년 뉴욕주 Elmira에서 시작한 신문 사업인 Elmira Gazette에서 비롯되었다. Frank Gannett은 보수 성향으로 알려졌으며, 작은 독립 신문들을 사들여 대형 체인으로 키우면서 명성과 재산을 얻었다. 1957년 4월 Paul Miller가 사장 겸 CEO를 이어받았을 때 이 그룹은 4개 주에서 19개 신문을 보유하고 있었다. 1973년에는 Al Neuharth가 Miller의 뒤를 이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 1982년 9월 15일 Baltimore와 Washington, D.C. 일대에서 처음 발행된 전국지 USA Today이다. 이 신문은 1982년 4월 20일 발행 계획이 발표되었고, 첫 판매 가격은 25¢였다. 성장 과정에서 1978년 Combined Communications Corp.를 $370 million에 인수했는데, 이 회사는 Oakland Tribune과 The Cincinnati Enquirer 등 주요 일간지 2종과 TV 방송국 7곳, 라디오 방송국 13곳, 옥외광고 부문을 운영했다. 1979년에는 DuPont으로부터 Wilmington의 The News Journal을 사들였고 Nashville의 The Tennessean도 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 뉴욕시에 본사를 두고 있다. 2019년 11월 New Media Investment Group이 자회사 GateHouse Media를 합병해 미국 최대 신문 발행사가 되었고 Mike Reed가 CEO로 지명되었다. 2025년 11월에는 사명을 USA Today Co.로 바꾼다고 발표했다. 2015년 분할로 방송 부문은 Tegna가 맡아 약 68개의 TV 방송국을 소유한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일간 총 발행부수 기준 미국 최대 신문 발행사이자 전국지 USA Today와 지역 신문을 함께 소유한 신문 지주회사로, 2025년 11월 사명 변경을 발표했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.gannett.com/",
+  "entityLinks": {
+   "wikidata": "Q1345971",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1345971",
+    "https://ko.wikipedia.org/wiki/USA_%ED%88%AC%EB%8D%B0%EC%9D%B4_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/USA_Today_Co."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1345971",
+   "country": "미국",
+   "inception": "1906",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Frank Gannett"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「USA Today Co.」 본문과 위키데이터 Q1345971 팩트를 근거로 편집",
+  "founded": {
+   "date": "1906-10-06",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

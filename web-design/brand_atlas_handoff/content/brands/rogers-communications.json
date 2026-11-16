@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q165684",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/rogers-communications-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rogers-communications",
+  "urlSlug": "rogers-communications",
+  "name": "로저스 커뮤니케이션스",
+  "nameKo": "로저스 커뮤니케이션스",
+  "nameEn": "Rogers Communications",
+  "definition": "로저스 커뮤니케이션스(Rogers Communications)는 토론토에 본사를 둔 캐나다의 통신·미디어 기업이다. 무선통신, 케이블 TV, 전화, 인터넷 사업을 주로 운영하며 방송과 프로 스포츠 자산도 보유한다.",
+  "summary": "로저스 커뮤니케이션스(Rogers Communications)는 토론토에 본사를 둔 캐나다의 통신·미디어 기업이다. 무선통신, 케이블 TV, 전화, 인터넷 사업을 주로 운영하며 방송과 프로 스포츠 자산도 보유한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "무선·케이블 통신에 방송과 프로 스포츠 자산을 결합한 캐나다 기업이다. Bell Canada와 함께 통신 서비스 복점 구도로 거론된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "로저스 커뮤니케이션스는 캐나다의 통신·미디어 기업이다. 주로 무선통신, 케이블 TV, 전화, 인터넷 분야에서 사업을 운영한다. 여기에 통신 관련 사업, 대중매체, 프로 스포츠 자산도 상당 규모로 보유한다. 본사는 온타리오주 토론토에 있다. 가장 큰 경쟁사는 Bell Canada이며, Bell Canada도 라디오·TV 미디어 자산과 무선, TV 유통, 전화 서비스를 폭넓게 갖추고 있다. 두 회사는 각자의 지역에서 통신 서비스 복점으로 여겨지기도 하며, 로저스는 무선통신 분야에서 Telus와도 전국적으로 경쟁한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사의 기원은 1925년 Edward S. Rogers Sr.가 배터리 없는 라디오를 팔기 위해 Rogers Vacuum Tube Company를 세운 데서 찾는다. 현재의 사업체는 1960년 Ted Rogers가 동업자와 함께 라디오 방송국 CHFI-FM을 인수하면서 시작되었다. 이들은 이후 CFTO 텔레비전 방송국을 세운 그룹의 공동 소유주가 되었고, 1967년에는 Rogers Cable TV를 설립했다. 1979년 Canadian Cablesystems를 인수하며 토론토 증권거래소에 상장했고, 1980년 Premier Cablevision을 인수해 캐나다 최대 케이블 회사가 되었다. 1986년 Rogers Cable이 Rogers Communications로 이름을 바꾸었고, 1994년 Maclean-Hunter를 인수해 케이블 TV, 라디오, 출판 사업을 크게 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "로저스는 무선통신, 케이블 텔레비전, 전화, 인터넷을 핵심 사업으로 운영한다. 미디어 부문에서는 라디오와 텔레비전, 출판 자산을 보유해 왔다. 2001년 7월 Rogers Media가 CTV Sportsnet을 인수했고, 이 채널은 그해 11월 Rogers Sportsnet으로 이름을 바꾸었다. 같은 해 8월에는 스포츠 라디오 방송국 The FAN 590과 북부 온타리오의 라디오 방송국 14곳이 Rogers Media에 합류했다. 프로 스포츠 분야에서는 Maple Leaf Sports & Entertainment의 지분을 보유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년에는 Shaw Communications의 서부 캐나다 사업 인수가 승인되었다. 2025년에는 Maple Leaf Sports & Entertainment에서 Bell의 지분을 사들여 최대 주주가 되었다. 로저스는 토론토에 본사를 두고 있으며, 캐나다 통신 시장에서 Bell Canada, Telus와 경쟁하는 주요 사업자이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "무선·케이블 통신에 방송과 프로 스포츠 자산을 결합한 캐나다 기업이다. Bell Canada와 함께 통신 서비스 복점 구도로 거론된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rogers.com/",
+  "entityLinks": {
+   "wikidata": "Q165684",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q165684",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%A0%80%EC%8A%A4_%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Rogers_Communications"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q165684",
+   "country": "캐나다",
+   "inception": "1960",
+   "headquarters": "토론토",
+   "founders": [
+    "Edward S. Rogers Sr."
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Rogers Communications」 본문과 위키데이터 Q165684 팩트를 근거로 편집",
+  "founded": {
+   "date": "1960-09-30",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

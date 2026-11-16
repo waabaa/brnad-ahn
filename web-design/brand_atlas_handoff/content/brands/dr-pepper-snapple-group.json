@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1254149",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "dr-pepper-snapple-group",
+  "urlSlug": "dr-pepper-snapple-group",
+  "name": "Dr Pepper Snapple Group",
+  "nameKo": "",
+  "nameEn": "Dr Pepper Snapple Group",
+  "definition": "Dr Pepper Snapple Group은 미국 텍사스주 플레이노에 본사를 둔 다국적 청량음료 회사이다. 2008년 Cadbury Schweppes에서 분리되어 독립했고, 2018년 Keurig Green Mountain에 인수되어 Keurig Dr Pepper가 되었다.",
+  "summary": "Dr Pepper Snapple Group은 미국 텍사스주 플레이노에 본사를 둔 다국적 청량음료 회사이다. 2008년 Cadbury Schweppes에서 분리되어 독립했고, 2018년 Keurig Green Mountain에 인수되어 Keurig Dr Pepper가 되었다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "Cadbury Schweppes의 북미 음료 사업에서 분사해 Dr Pepper, Snapple 등을 거느렸던 미국 음료 회사로, 지금은 Keurig Dr Pepper의 일부이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Dr Pepper Snapple Group은 미국의 다국적 청량음료 회사로, 텍사스주 플레이노에 본사를 두었다. 탄산음료, 주스, 차, 믹서, 병입 생수를 아우르는 포트폴리오를 운영했으며 Dr Pepper, 7UP(미국 권리), Snapple, Mott's, Canada Dry, A&W Root Beer, Hawaiian Punch 등의 브랜드를 보유했다. 2008년 Cadbury Schweppes의 음료 부문이 분리되어 독립 회사로 출범했고, 뉴욕증권거래소에서 'DPS'라는 종목 코드로 거래되었다. 2018년 합병 이전에는 북미에서 가장 큰 비알코올 음료 회사 중 하나로 꼽혔으며, 2017년 순매출은 $6.69 billion이었다. 2018년 Keurig Green Mountain에 인수되어 Keurig Dr Pepper로 합쳐졌고, 이후 사업은 이 회사에 흡수되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Dr Pepper Snapple Group의 뿌리는 Cadbury Schweppes의 음료 사업부인 Cadbury Schweppes Americas Beverages이다. Cadbury Schweppes는 1995년 Dr Pepper/Seven Up, Inc.를 사들여 Dr Pepper와 7UP 브랜드를 확보했고, 1998년에는 Carlyle Group으로부터 미국의 주요 청량음료 병입업체인 Beverage America와 Select Beverages를 인수했다. 2000년에는 Triarc Companies로부터 Snapple, Mistic, Stewart's를 $1.45 billion에 사들였고 같은 해 Royal Crown Cola도 인수했다. 2007년 10월 제과와 음료 사업의 분리 계획을 발표했으며, 2008년 5월 음료 부문이 분사되어 Dr Pepper Snapple Group이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 탄산음료, 주스, 차, 믹서, 병입 생수이다. 대표 브랜드로는 Dr Pepper, 7UP(미국 권리), Snapple, Mott's, Canada Dry, A&W Root Beer, Hawaiian Punch가 있다. 2015년 Bai Brands의 소수 지분을 $15 million에 취득했고, 2016년 $1.7 billion에 완전 인수를 발표했다. 2010년에는 PepsiCo와 The Coca-Cola Company가 각각 20년 유통 라이선스 대가를 지급하는 계약을 맺었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Dr Pepper Snapple Group은 2018년 Keurig Green Mountain에 인수되어 Keurig Dr Pepper로 이름을 바꾸고 뉴욕증권거래소에 상장되었다. 합병 조건에 따라 Dr Pepper Snapple Group 주주는 합병 회사 지분 13%를 보유했고, Mondelez International과 JAB Holding Company도 상당한 지분을 가졌다. 플레이노 본사는 Keurig Dr Pepper의 주요 사무소 중 하나로 유지되었다. 2024년 Dr Pepper는 미국 소매 매출 기준 두 번째로 큰 탄산음료가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Cadbury Schweppes의 북미 음료 사업에서 분사해 Dr Pepper, Snapple 등을 거느렸던 미국 음료 회사로, 지금은 Keurig Dr Pepper의 일부이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.drpeppersnapplegroup.com/",
+  "entityLinks": {
+   "wikidata": "Q1254149",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1254149",
+    "https://en.wikipedia.org/wiki/Dr_Pepper_Snapple_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1254149",
+   "country": "미국",
+   "inception": "2008",
+   "headquarters": "플레이노",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Dr Pepper Snapple Group」 본문과 위키데이터 Q1254149 팩트를 근거로 편집"
+ }
+}

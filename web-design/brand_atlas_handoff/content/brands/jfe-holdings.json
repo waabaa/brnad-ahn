@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q962591",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/jfe-holdings-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jfe-holdings",
+  "urlSlug": "jfe-holdings",
+  "name": "JFE 홀딩스",
+  "nameKo": "JFE 홀딩스",
+  "nameEn": "JFE Holdings",
+  "definition": "JFE 홀딩스(JFE Holdings)는 일본 도쿄도에 본사를 둔 기업이다. 2002년 NKK와 Kawasaki Steel Corporation의 합병으로 출범했으며 JFE Steel, JFE Engineering 등을 소유한다.",
+  "summary": "JFE 홀딩스(JFE Holdings)는 일본 도쿄도에 본사를 둔 기업이다. 2002년 NKK와 Kawasaki Steel Corporation의 합병으로 출범했으며 JFE Steel, JFE Engineering 등을 소유한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "NKK와 Kawasaki Steel의 합병으로 출범한 일본의 철강 중심 기업으로, 철강과 함께 엔지니어링·조선 사업을 거느린 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "JFE 홀딩스는 일본 도쿄도에 본사를 둔 기업이며 주력 사업은 철강 생산이다. 철강 외에 엔지니어링, 조선, 부동산 재개발, LSi 사업도 한다. 미국의 California Steel Industries, 중국의 Fujian Sino-Japan Metal, 브라질의 Minas da Serra Geral 등 여러 해외 자회사도 운영한다. 자회사 JFE Steel은 세계에서 다섯 번째로 큰 철강 제조사이며 매출이 US$30 billion을 넘는다고 소개된다. 2002년 출범 당시 NKK는 일본 2위, Kawasaki Steel은 3위 철강사였고, 2020년에는 Fortune Global 500 목록에서 365위에 올랐다. JFE라는 이름은 일본(Japan), 철의 원소기호 Fe, 엔지니어링(Engineering)에서 따왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "JFE 홀딩스는 2002년 NKK(日本鋼管株式会社)와 Kawasaki Steel Corporation(川崎製鉄株式会社)이 합병하면서 만들어졌다. 두 회사는 제2차 세계대전 중 주요 군함 제조사이기도 했다. 조선 부문은 2002년 NKK가 Hitachi Zosen의 조선 부문과 통합해 Universal Shipbuilding을 세운 데서 출발했다. 2012년에는 Universal Shipbuilding Corporation이 IHI의 Marine United Inc.와 합병해 Japan Marine United Corporation이 되었다. 해외에서는 2009년 11월 인도의 JSW Steel과 서벵골에 합작 제철소를 짓기로 합의했고, 2010년 7월 JSW Steel Ltd의 지분 14.9%를 취득했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "철강 생산이 주력이며 JFE Steel이 이를 맡고, JFE Engineering과 JFE Shoji도 자회사이다. JFE Engineering Corporation은 배터리를 약 3분에 0에서 50%까지 충전할 수 있다고 주장하는 급속 충전소를 개발하고 있다. 이 충전소는 전력망의 전기를 저장하는 배터리와 차량에 고전류(500-600 ampere)로 전달하는 배터리를 두어 저전압 전원을 쓸 수 있으며, 회사는 CHAdeMO 방식보다 약 40% 저렴하다고 밝힌다. bicycle tree는 최대 6,000대를 보관하는 자전거 자동 보관 시스템으로, 전자 태그와 기계 팔로 자전거를 넣고 꺼낸다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "JFE 홀딩스는 JFE Steel, JFE Engineering, JFE Shoji 등을 자회사로 두고 Japan Marine United의 지분 일부를 보유한다. 2021년 1월 1일 JMU(지분 49%)는 Imabari Shipbuilding(지분 51%)과의 합작회사 Nihon Shipyard에 합쳐졌고, 이와 별도로 Imabari Shipbuilding이 JMU 지분 30%를 매입했다. 두 회사의 협력으로 세계 최대급 해양 엔지니어링·조선 기업 중 하나가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "NKK와 Kawasaki Steel의 합병으로 출범한 일본의 철강 중심 기업으로, 철강과 함께 엔지니어링·조선 사업을 거느린 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.jfe-holdings.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q962591",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q962591",
+    "https://ko.wikipedia.org/wiki/JFE_%ED%99%80%EB%94%A9%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/JFE_Holdings"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q962591",
+   "country": "일본",
+   "inception": "2002",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「JFE Holdings」 본문과 위키데이터 Q962591 팩트를 근거로 편집",
+  "founded": {
+   "date": "2002-09-27",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

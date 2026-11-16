@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q926806",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/carlyle-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "carlyle-group",
+  "urlSlug": "carlyle-group",
+  "name": "칼라일 그룹",
+  "nameKo": "칼라일 그룹",
+  "nameEn": "Carlyle Group",
+  "definition": "칼라일 그룹(Carlyle Group)은 1987년에 설립된 미국의 사모펀드 운용사이다. 본사는 워싱턴 D.C.에 있으며, KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽힌다.",
+  "summary": "칼라일 그룹(Carlyle Group)은 1987년에 설립된 미국의 사모펀드 운용사이다. 본사는 워싱턴 D.C.에 있으며, KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽힌다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽히며, 뉴욕 칼라일 호텔에서 이름을 딴 워싱턴 D.C. 본사의 투자사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "칼라일 그룹은 사모펀드를 운용하는 미국의 투자 회사이다. 1987년 뉴욕 칼라일 호텔의 이름을 따서 설립되었으며 본사는 워싱턴 D.C.에 있다. 2017년 기준으로 1700억달러의 자산을 운용했으며, KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽힌다. 한국에서는 외환위기 때 한미은행을 사들인 일과 2014년 보안업체 ADT캡스를 2조1000억원에 인수한 딜로 알려져 있다. 이후 2021년 투썸플레이스, 2024년 KFC 홀딩스 재팬, 2025년 KFC코리아를 인수하며 외식 분야에서도 거래를 이어 왔다. 2001년에는 한국사무소 직원이 보낸 이메일이 금융권에 퍼지며 논란이 된 적이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "칼라일 그룹은 1987년 설립되었으며, 이름은 뉴욕 칼라일 호텔에서 따왔다. 창업자는 David Rubenstein, William E. Conway, Jr., Daniel A. D'Aniello이다. 외환위기 때 한미은행을 사들여 8000억원을 벌었고, 2014년에는 보안업체 ADT캡스를 2조1000억원에 인수해 유명해졌다. 2017년 기준 운용 자산은 1700억달러였고 KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽혔다. 같은 해 한국인인 이규성 부CIO와 글렌 영킨 COO를 공동 CEO로 선임하기로 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "칼라일 그룹의 사업은 투자 대상 기업을 사들여 운용하는 사모펀드 사업이다. 한국에서의 주요 투자 사례로는 한미은행, 보안업체 ADT캡스, 투썸플레이스, KFC 홀딩스 재팬, KFC코리아 인수가 있다. 2021년 투썸플레이스를 약 1조 원에 인수했고, 2024년에는 KFC 홀딩스 재팬 지분 100%를 1조 2,000억 원에 인수했다. 2025년에는 오케스트라PE로부터 KFC코리아를 인수해 KFC 관련 투자를 한국과 일본으로 넓혔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 10월 25일 이사회에서 한국인인 이규성 칼라일 부CIO와 글렌 영킨 칼라일 COO를 공동 최고경영자(CEO)로 선임하기로 했다. 당시 운용 자산은 1700억달러였다. 2024년 KFC 홀딩스 재팬 지분 100%를 인수했고, 2025년에는 오케스트라PE로부터 KFC코리아를 인수했다. 본사는 워싱턴 D.C.에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "KKR, 블랙스톤 그룹과 함께 세계 3대 사모펀드로 꼽히며, 뉴욕 칼라일 호텔에서 이름을 딴 워싱턴 D.C. 본사의 투자사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.carlyle.com",
+  "entityLinks": {
+   "wikidata": "Q926806",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q926806",
+    "https://ko.wikipedia.org/wiki/%EC%B9%BC%EB%9D%BC%EC%9D%BC_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/The_Carlyle_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q926806",
+   "country": "미국",
+   "inception": "1987",
+   "headquarters": "워싱턴 D.C.",
+   "founders": [
+    "David Rubenstein",
+    "William E. Conway, Jr.",
+    "Daniel A. D'Aniello"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「칼라일 그룹」 요약과 위키데이터 Q926806 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

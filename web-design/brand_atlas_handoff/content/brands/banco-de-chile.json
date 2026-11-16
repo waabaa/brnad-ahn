@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q2882085",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/banco-de-chile-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "banco-de-chile",
+  "urlSlug": "banco-de-chile",
+  "name": "Banco de Chile",
+  "nameKo": "",
+  "nameEn": "Banco de Chile",
+  "definition": "Banco de Chile은 칠레 산티아고에 본사를 둔 상업은행이자 금융 서비스 회사이다. 1893년에 설립되었으며 예금과 거래 규모 면에서 칠레 금융시장을 전통적으로 이끌어 온 대형 은행 가운데 하나이다.",
+  "summary": "Banco de Chile은 칠레 산티아고에 본사를 둔 상업은행이자 금융 서비스 회사이다. 1893년에 설립되었으며 예금과 거래 규모 면에서 칠레 금융시장을 전통적으로 이끌어 온 대형 은행 가운데 하나이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "1893년 세 은행의 합병으로 출범해 Quiñenco 그룹과 Citigroup이 공동으로 지배하는 칠레의 대형 상업은행이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "칠레의 상업은행으로, 고객에게 다양한 금융 서비스를 제공하며 예금과 거래 규모 기준으로 칠레 최대 은행 가운데 하나로 꼽혀 왔다. 본사는 산티아고에 있다. 2012년 12월 31일 기준으로 전국에 434개 지점과 1,915대의 ATM, 그 밖의 전자 유통 채널을 갖추고 있었다. 영업은 대기업, 중소기업, 개인 고객, 소비자 금융, 국제 금융, 자본시장의 여섯 개 주요 상업 부문을 중심으로 조직되어 있다. 칠레 밖에서는 뉴욕에 20년 넘게 지점을 두고 있으며 마이애미, 상파울루, 부에노스아이레스, 멕시코시티, 홍콩에도 지점이 있다. 2008년부터 칠레 기업집단 Quiñenco 그룹과 미국 은행 Citigroup이 공동으로 지배하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1893년 10월 28일 Valparaíso Bank(1855년), National Bank of Chile(1865년), Agriculturist Bank(1869년)가 합병하며 설립되었다. 2001년 Quiñenco 그룹이 자회사 LQIF를 통해 지분 59.3%를 사들여 은행의 경영권을 확보했다. 2004년 12월 9일에는 Standard Chartered Bank와 협력 협정을 맺어 아시아 시장에서 영업한 최초의 칠레 금융기관이 되었다. 2008년 Citigroup이 Quiñenco와 합의해 LQIF 지분 32.96%를 인수하고 Citigroup Chile의 영업을 이 은행과 합쳤다. 2010년 4월 Citigroup은 남은 옵션 두 건을 행사해 LQIF 지분을 50%로 늘렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "영업은 대기업, 중소기업, 개인 고객, 소비자 금융, 국제 금융, 자본시장의 여섯 개 주요 상업 부문으로 나뉜다. 자회사들은 증권화, 증권 중개, 뮤추얼 투자와 선박담보대차, 보험, 팩토링 등의 서비스를 제공한다. 그룹 산하 부문으로는 BanChile Corredores de Bolsa, Banco CrediChile, Banco Edwards - Citi, BanChile Seguros가 있다. 해외에서는 뉴욕, 마이애미, 상파울루, 부에노스아이레스, 멕시코시티, 홍콩의 지점이 국제 서비스를 맡고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2008년부터 Quiñenco 그룹과 Citigroup이 공동으로 지배하고 있으며, 2010년 4월 이후 Citigroup의 LQIF 지분은 50%이다. 2012년 12월 31일 기준으로 434개 지점과 1,915대의 ATM을 운영했다. 2005년에는 미국 통화감독청(OCC)이 뉴욕 지점 총지배인에게 미국 은행업 퇴출과 200,000달러의 과태료를 부과했고, 2009년에는 칠레 정부가 Augusto Pinochet의 자금 은닉을 도왔다며 이 은행을 포함한 네 은행을 제소했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1893년 세 은행의 합병으로 출범해 Quiñenco 그룹과 Citigroup이 공동으로 지배하는 칠레의 대형 상업은행이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bancochile.cl/",
+  "entityLinks": {
+   "wikidata": "Q2882085",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2882085",
+    "https://en.wikipedia.org/wiki/Banco_de_Chile"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2882085",
+   "country": "칠레",
+   "inception": "1893",
+   "headquarters": "산티아고",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Banco de Chile」 본문과 위키데이터 Q2882085 팩트를 근거로 편집",
+  "founded": {
+   "date": "1893-10",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

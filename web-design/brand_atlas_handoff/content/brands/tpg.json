@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2164606",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/tpg-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tpg",
+  "urlSlug": "tpg",
+  "name": "TPG",
+  "nameKo": "",
+  "nameEn": "TPG",
+  "definition": "TPG는 미국 텍사스주 포트워스에 본사를 둔 사모펀드 운용사이다. 성장자본, 벤처캐피털, 공개주식, 부채 투자 분야에서 투자 펀드를 운용하며 여러 산업에 투자한다.",
+  "summary": "TPG는 미국 텍사스주 포트워스에 본사를 둔 사모펀드 운용사이다. 성장자본, 벤처캐피털, 공개주식, 부채 투자 분야에서 투자 펀드를 운용하며 여러 산업에 투자한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "1992년 David Bonderman, James Coulter 등이 설립한 사모펀드로, Continental Airlines와 J. Crew 등 대형 인수를 거쳐 여러 산업에 투자해 온 운용사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TPG Inc.는 이전에 Texas Pacific Group, TPG Capital로 불린 미국의 사모펀드 운용사이다. 본사는 텍사스주 포트워스에 있으며, 뉴욕시에 주요 사무소를 두고 워싱턴 D.C., 마이애미, 샌프란시스코와 해외에도 사무소를 운영한다. 성장자본, 벤처캐피털, 공개주식, 부채 투자 분야의 투자 펀드를 운용한다. 소비재·리테일, 미디어·통신, 산업재, 기술, 여행, 레저, 헬스케어 등 여러 산업에 투자한다. 1992년 설립 이후 Continental Airlines, J. Crew, Burger King, Metro-Goldwyn-Mayer 등의 인수에 참여했다. 투자 대상은 항공, 소매, 외식, 반도체, 반려동물용품 등 다양한 업종에 걸쳐 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Texas Pacific Group은 1992년 David Bonderman, James Coulter, William S. Price III가 설립했다. 설립 전 Bonderman과 Coulter는 Robert Bass 밑에서 1980년대에 차입매수 투자를 했다. 1993년에는 Coulter와 Bonderman이 GE Capital의 전략기획·사업개발 부사장이던 William S. Price III와 함께 Continental Airlines 인수를 완료했다. 1994년에는 Blum Capital, ACON Investments와 합작으로 Newbridge Capital을 만들어 아시아와 이후 중남미 등 신흥시장에 투자했다. 1997년에는 두 번째 사모펀드로 $2.5 billion 이상을 모금했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 성장자본, 벤처캐피털, 공개주식, 부채 투자 펀드로 구성된다. 2001년에는 주력 펀드와 함께 기술 중심 투자를 하기 위해 T3 Partners를 시작했다. 대표 투자로는 J. Crew 지분 88% 인수와 Del Monte Foods 인수 후 상장이 있다. 2000년에는 Leonard Green & Partners와 함께 Petco를 인수했고, 2002년에는 Bain Capital, Goldman Sachs Alternatives와 함께 Diageo의 Burger King 인수에 참여했다. 2004년 말에는 Metro-Goldwyn-Mayer 차입매수로 영화 제작 사업에 진입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 회사명은 TPG Inc.이며 본사는 텍사스주 포트워스에 있다. 뉴욕시에 주요 사무소를 두고 워싱턴 D.C., 마이애미, 샌프란시스코 및 해외에 추가 사무소를 운영한다. 성장자본, 벤처캐피털, 공개주식, 부채 투자 펀드를 운용한다. 투자 분야는 소비재·리테일, 미디어·통신, 산업재, 기술, 여행, 레저, 헬스케어에 걸쳐 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1992년 David Bonderman, James Coulter 등이 설립한 사모펀드로, Continental Airlines와 J. Crew 등 대형 인수를 거쳐 여러 산업에 투자해 온 운용사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tpg.com/",
+  "entityLinks": {
+   "wikidata": "Q2164606",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2164606",
+    "https://ko.wikipedia.org/wiki/TPG_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/TPG_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2164606",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "포트워스",
+   "founders": [
+    "David Bonderman",
+    "James Coulter"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「TPG Inc.」 본문과 위키데이터 Q2164606 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

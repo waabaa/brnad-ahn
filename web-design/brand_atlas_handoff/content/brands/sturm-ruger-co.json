@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1508526",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "sturm-ruger-co",
+  "urlSlug": "sturm-ruger-co",
+  "name": "Sturm, Ruger & Co.",
+  "nameKo": "",
+  "nameEn": "Sturm, Ruger & Co.",
+  "definition": "Sturm, Ruger & Co.는 1949년 William B. Ruger와 Alexander McCormick Sturm이 설립한 미국의 총기 제조 회사이다. 소총, 권총, 리볼버를 생산하며 흔히 Ruger라는 줄임 이름으로 불린다.",
+  "summary": "Sturm, Ruger & Co.는 1949년 William B. Ruger와 Alexander McCormick Sturm이 설립한 미국의 총기 제조 회사이다. 소총, 권총, 리볼버를 생산하며 흔히 Ruger라는 줄임 이름으로 불린다.",
+  "industry": "스포츠·아웃도어",
+  "domainSlug": "sports-outdoor",
+  "tier": "C_source_backed",
+  "rating": 3.8333333333333335,
+  "image": "",
+  "logo": "",
+  "insight": "미국 최대 총기 제조사로 꼽히며, .22 림파이어 소총 Ruger 10/22와 Mark 시리즈 권총으로 해당 시장을 주도하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Ruger는 볼트액션, 반자동, 단발 소총과 반자동 권총, 단동식·복동식 리볼버를 생산하는 미국 총기 제조 회사이다. 본사는 Southport, Connecticut으로 기재되어 있고, 생산 시설은 Newport, Mayodan, Hebron, Prescott 등에 있다. 2022년 ATF 통계에 따르면 미국 최대 총기 제조사이며 Smith & Wesson을 앞섰다. Ruger 10/22 판매를 바탕으로 .22 LR 림파이어 소총 시장에서 지배적인 위치를 차지하고, Ruger Mark IV로 .22 림파이어 반자동 권총 시장에서도 지배적이다. 주식은 1969년부터 공개 거래되어 왔고 1990년 뉴욕 증권거래소에 상장되었다. 2024년에는 창립 75주년을 맞았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1949년 William B. Ruger와 Alexander McCormick Sturm이 Connecticut주 Southport의 작은 임대 기계 공장에서 회사를 세웠다. 합류 직전 Bill Ruger는 제2차 세계대전 말 귀환 해병에게서 얻은 노획 Nambu 권총을 바탕으로 일본제 'baby' Nambu 권총 두 정을 차고에서 복제한 경험이 있었다. 첫 제품은 독일 9mm Luger P08과 미국 Colt Woodsman의 외형을 결합한 .22 구경 권총(Ruger Standard)이었고, 이 제품의 성공이 회사를 일으켰다. Alex Sturm은 1951년 사망했으며, William B. Ruger는 2002년 사망할 때까지 회사를 이끌었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소총으로는 볼트액션 Hawkeye와 반자동 Ruger 10/22 등을 생산한다. 10/22는 비교적 저렴하고 품질이 높다는 평판 덕에 애프터마켓 부품과 액세서리가 풍부하다. 권총 부문에서는 Ruger Standard의 후속인 Ruger Mark IV가 대표적이며, 22/45는 Colt 1911의 그립 각도를 따른다. 리볼버는 GP100과 Redhawk 라인이 높이 평가받고, 반자동 권총으로는 SR1911과 SR22 라인이 있다. 2020년 9월 파산한 Remington Outdoor Company로부터 Marlin Firearms를 인수했고, 1년 뒤 첫 Ruger 제작 Marlin 레버액션 소총인 Model 1895 SBL을 내놓았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사 주식은 뉴욕 증권거래소에서 RGR로 거래된다. 자회사로는 Earth City의 Ruger Precision Metals LLC, Newport의 Pine Tree Castings, Mayodan의 Ruger Sportswear & Accessories가 있다. 2026년 10월 14일 SR1911, Redhawk, Ruger Precision Rifle 등 대부분의 총기를 단종한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 최대 총기 제조사로 꼽히며, .22 림파이어 소총 Ruger 10/22와 Mark 시리즈 권총으로 해당 시장을 주도하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ruger.com/",
+  "entityLinks": {
+   "wikidata": "Q1508526",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1508526",
+    "https://en.wikipedia.org/wiki/Sturm,_Ruger_%26_Co."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1508526",
+   "country": "미국",
+   "inception": "1949",
+   "headquarters": "Southport",
+   "founders": [
+    "William B. Ruger"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Sturm, Ruger & Co.」 본문과 위키데이터 Q1508526 팩트를 근거로 편집"
+ }
+}

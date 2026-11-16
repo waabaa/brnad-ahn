@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q385452",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/avid-technology-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "avid-technology",
+  "urlSlug": "avid-technology",
+  "name": "아비드 테크놀로지",
+  "nameKo": "아비드 테크놀로지",
+  "nameEn": "Avid Technology",
+  "definition": "아비드 테크놀로지(Avid Technology)는 미국 매사추세츠주 벌링턴에 본사를 둔 글로벌 기술 기업이다. 미디어·엔터테인먼트 산업에서 주로 쓰이는 소프트웨어, SaaS, 하드웨어 제품을 개발한다.",
+  "summary": "아비드 테크놀로지(Avid Technology)는 미국 매사추세츠주 벌링턴에 본사를 둔 글로벌 기술 기업이다. 미디어·엔터테인먼트 산업에서 주로 쓰이는 소프트웨어, SaaS, 하드웨어 제품을 개발한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "영상 편집을 필름 방식에서 디지털 비선형 방식으로 바꾼 Media Composer를 내놓은 회사로, Pro Tools와 Sibelius까지 미디어 제작용 제품군을 갖추고 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아비드는 미디어·엔터테인먼트 산업에서 주로 사용되는 제품을 만드는 글로벌 기술 기업이다. 소프트웨어, SaaS, 하드웨어 제품을 개발하며 본사는 미국 매사추세츠주 벌링턴에 있다. 1987년에 설립되었고, 첫 비선형 편집 시스템 Avid/1 Media Composer는 당시 편집 분야에서 가장 큰 변화라는 평가를 받았다. 1990년대 초부터 Avid 제품이 Moviola, Steenbeck, KEM 평판 편집기 같은 도구를 대체하기 시작했다. 1993년 전미 텔레비전예술과학아카데미로부터 Media Composer로 기술 부문 Emmy상을, 1999년 제71회 아카데미 시상식에서 Avid Film Composer로 Oscar를 받았다. 2023년 11월 STG 계열사에 인수되어 상장폐지되고 비상장 기업이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아비드는 1987년 8월 Apollo Computer의 마케팅 매니저 출신인 Bill Warner가 설립했다. 첫 비선형 편집 시스템인 Avid/1 Media Composer의 시제품은 1988년 4월 National Association of Broadcasters(NAB) 컨벤션에서 공개되었다. Avid/1은 Apple Macintosh II 컴퓨터에 아비드가 설계한 전용 하드웨어와 소프트웨어를 얹은 방식이었다. 1992년 Avid로 편집한 첫 장편영화 Let's Kill All the Lawyers가 나왔고, 1995년에는 수십 편이 Avid로 옮겨가 셀룰로이드 편집의 종말이 시작되었다. 1996년 Walter Murch는 Avid로 편집한 The English Patient으로 편집상 Oscar를 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Media Composer, Pro Tools, Sibelius이다. Media Composer는 아비드의 비선형 영상 편집 시스템으로 회사의 주력 제품이다. 과거에는 Avid Free DV, Avid Xpress DV, Avid Xpress Pro 같은 하위 버전을 내놓았으나, 2008년 Media Composer 가격이 낮아지면서 단종했다. 이후 Media Composer의 기능 상당수를 담고 완성한 영상을 YouTube 같은 웹 서비스에 바로 게시할 수 있는 Media Composer | First를 출시했다. 1994년에는 미디어와 관련 메타데이터를 공유하기 위한 개방형 표준 파일 형식 Open Media Framework(OMF)를 도입했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 11월 아비드는 STG 계열사에 인수되어 증시에서 상장폐지되고 비상장 기업이 되었다. 2018년 2월 Jeff Rosica가 CEO로 선임되었고, 2024년 4월에는 Wellford Dillard가 후임 CEO가 되었다. Rosica의 선임은 직장 내 비위 혐의를 받은 Louis Hernandez Jr를 해임한 뒤 이루어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영상 편집을 필름 방식에서 디지털 비선형 방식으로 바꾼 Media Composer를 내놓은 회사로, Pro Tools와 Sibelius까지 미디어 제작용 제품군을 갖추고 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.avid.com",
+  "entityLinks": {
+   "wikidata": "Q385452",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q385452",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B9%84%EB%93%9C_%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80",
+    "https://en.wikipedia.org/wiki/Avid_Technology"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q385452",
+   "country": "미국",
+   "inception": "1987",
+   "headquarters": "Burlington",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Avid Technology」 본문과 위키데이터 Q385452 팩트를 근거로 편집",
+  "founded": {
+   "date": "1987-08",
+   "precision": "month",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

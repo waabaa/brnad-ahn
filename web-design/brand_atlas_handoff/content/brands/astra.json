@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q18156798",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/astra-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "astra",
+  "urlSlug": "astra",
+  "name": "아스트라",
+  "nameKo": "아스트라",
+  "nameEn": "Astra",
+  "definition": "아스트라(Astra)는 미국 캘리포니아주 앨러미다에 본사를 둔 우주 기업이다. 소형 발사체와 위성용 전기추진 엔진을 개발해 왔으며 정식 법인명은 Astra Space, Inc.이다.",
+  "summary": "아스트라(Astra)는 미국 캘리포니아주 앨러미다에 본사를 둔 우주 기업이다. 소형 발사체와 위성용 전기추진 엔진을 개발해 왔으며 정식 법인명은 Astra Space, Inc.이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.75,
+  "image": "",
+  "logo": "",
+  "insight": "Ventions, LLC라는 소형 로켓 엔진 연구사에서 출발해 발사체와 홀 효과 추진기 기반 우주선 엔진을 함께 다루는 미국 우주 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아스트라는 소형 로켓 엔진을 연구하던 항공우주 기술 회사에서 출발해 발사체 개발 기업으로 성장한 미국 우주 기업이다. 2005년부터 2016년까지는 Ventions, LLC라는 이름이었으며, 2016년 Astra Space, Inc.로 재설립하고 정부와 민간 자금을 활용해 Astra Rocket 시리즈 발사체를 개발했다. 여섯 차례 실패를 겪은 뒤 2021년 11월 LV0007로 궤도에 도달했다. 같은 해 SPAC 합병으로 상장했고 전기추진 엔진 제조사 Apollo Fusion을 인수해 우주선 엔진 사업을 이어 갔다. 2024년 7월에는 비상장 전환 거래의 완료를 발표했다. 현재는 발사체와 위성용 추진 엔진을 함께 다루며 미 국방부 계약을 통해 4.0 로켓 개발을 이어 가는 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아스트라의 전신은 2005년 설립된 Ventions, LLC이다. 이 회사는 SBIR 계약에 집중한 항공우주 기술 연구 회사로, 발사체와 위성 추진용 소형 로켓 엔진을 개발했다. 2012년에는 발사체 개발로 방향을 바꿔 DARPA ALASA 프로그램에 선정되었다. Astra는 2016년 10월 Chris Kemp와 Adam London이 창립했다. 2018년에는 Pacific Spaceport Complex – Alaska에서 7월 20일 Rocket 1.0, 11월 29일 Rocket 2.0으로 두 차례 준궤도 시험 비행을 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 Astra Rocket 시리즈 발사체이다. 버전 1.0, 2.0, 3.0으로 네 차례 시험 발사를 한 뒤 버전 3.2로 궤도 능력을 입증했다. 이후 버전 3.3으로 네 차례 상업 발사를 했으며 두 차례는 상단 문제로 실패했다. Apollo Fusion 인수로 홀 효과 추진기(HET)를 쓰는 Astra Spacecraft Engine을 개발했고, 이 엔진을 위성의 궤도 유지, 충돌 회피, 수명 종료 시 궤도 이탈용으로 판매한다. 2022년에는 버전 3.0의 최대 적재량 50 kg보다 버전 4.0의 적재량을 늘릴 계획이었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 11월 공동 창업자들이 비상장 전환을 제안했고, 2024년 7월 비상장 전환 거래의 완료를 발표했다. 2024년 10월에는 이동식 발사 시스템과 4.0 로켓의 지속 개발을 지원하는 미 국방부 계약을 발표했으며, 규모는 최대 $44 million이다. 본사는 캘리포니아주 앨러미다에 있고 Atwater에도 시설을 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Ventions, LLC라는 소형 로켓 엔진 연구사에서 출발해 발사체와 홀 효과 추진기 기반 우주선 엔진을 함께 다루는 미국 우주 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://astra.com/",
+  "entityLinks": {
+   "wikidata": "Q18156798",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q18156798",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC_(%EC%9A%B0%EC%A3%BC%EB%B9%84%ED%96%89_%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Astra_Space"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q18156798",
+   "country": "미국",
+   "inception": "2005",
+   "headquarters": "앨러미다",
+   "founders": [
+    "Adam London",
+    "Rory Colm Keogh",
+    "Amitav Mehra"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Astra Space」 본문과 위키데이터 Q18156798 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

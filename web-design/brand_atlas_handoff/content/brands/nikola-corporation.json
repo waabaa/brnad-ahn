@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q24887050",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/nikola-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nikola-corporation",
+  "urlSlug": "nikola-corporation",
+  "name": "니콜라",
+  "nameKo": "니콜라",
+  "nameEn": "Nikola Corporation",
+  "definition": "니콜라(Nikola Corporation)는 미국의 수소차 회사이다. 수소 트럭과 전기 배터리 트럭 등을 개발하는 전기수소트럭 스타트업으로, 본사는 애리조나주 피닉스에 있다.",
+  "summary": "니콜라(Nikola Corporation)는 미국의 수소차 회사이다. 수소 트럭과 전기 배터리 트럭 등을 개발하는 전기수소트럭 스타트업으로, 본사는 애리조나주 피닉스에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "수소 트럭을 앞세워 '제2의 테슬라'로 불렸으나, 제품을 팔기 전에 시가총액이 포드를 넘어서고 사기 논란에도 휩싸인 전기수소트럭 스타트업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "니콜라 테슬라의 이름을 따서 회사명을 지은 미국의 전기수소트럭 스타트업이다. 수소 트럭(FCEV)과 유럽을 겨냥한 전기 배터리 트럭(BEV) 등을 개발해 수소트럭 분야의 테슬라로 불렸다. 2020년 6월에는 단 한 대도 팔지 못한 상태에서 시가총액이 포드를 앞질러 주목받았다. 같은 해 9월 GM과 전략적 제휴를 맺었으나 힌덴버그 리서치가 기술 사기라고 주장하면서 논란에 휩싸였다. 창업자 Trevor Milton은 사기 혐의를 인정하지 않았지만 회장직과 등기이사직에서 물러났다. 한화 계열사가 2018년 11월 투자해 국내에서도 알려졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Trevor Milton이 설립했으며 회사명은 니콜라 테슬라의 이름에서 따왔다. 수소 1회 충전으로 1200마일을 갈 수 있는 수소 트럭과 유럽을 겨냥한 전기 배터리 트럭을 개발하는 회사로 알려졌다. 2018년에는 본사를 유타주 솔트레이크시티에서 애리조나주 피닉스로 옮기기 시작했고, 애리조나주에 100만평방피트의 공장을 지을 계획이었다. 같은 해 11월 한화에너지와 한화종합화학이 현지법인 Green Nikola Holdings, LLC를 설립해 각각 5000만달러씩 투자했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 차량은 전기 픽업트럭 '뱃저'이다. 니콜라는 2020년 6월 29일부터 뱃저 사전예약을 받았고, 같은 해 12월 양산모델을 공개할 계획이었다. 테슬라의 주문 방식과 동일한 사전 계약으로 개발 자금 일부를 확보했다. 2020년 9월 GM과 전략적 제휴를 맺어 GM이 2022년 말까지 뱃저를 생산하기로 했다. 그 밖에 수소 트럭(FCEV)과 전기 배터리 트럭(BEV)을 개발하며, 2024년 상반기까지 총 112대의 수소전기트럭을 판매했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 9월 창업자 Trevor Milton이 회장직과 등기이사직에서 물러났고, 이사회 멤버인 스티븐 거스키 전 GM 부회장이 후임을 맡기로 했다. 당시 밀턴은 지분 약 20%를 소유한 최대주주였다. GM은 2020년 9월 21일 니콜라 기술이 사기라는 주장을 일축했다. 2024년 상반기까지 총 112대의 수소전기트럭을 판매했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "수소 트럭을 앞세워 '제2의 테슬라'로 불렸으나, 제품을 팔기 전에 시가총액이 포드를 넘어서고 사기 논란에도 휩싸인 전기수소트럭 스타트업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://nikolamotor.com/",
+  "entityLinks": {
+   "wikidata": "Q24887050",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q24887050",
+    "https://ko.wikipedia.org/wiki/%EB%8B%88%EC%BD%9C%EB%9D%BC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Nikola_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q24887050",
+   "country": "미국",
+   "inception": "2014",
+   "headquarters": "피닉스",
+   "founders": [
+    "Trevor Milton"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「니콜라 (기업)」 요약과 위키데이터 Q24887050 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

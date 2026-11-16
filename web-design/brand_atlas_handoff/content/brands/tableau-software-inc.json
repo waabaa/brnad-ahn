@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q7673435",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/tableau-software-inc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tableau-software-inc",
+  "urlSlug": "tableau-software-inc",
+  "name": "태블로",
+  "nameKo": "태블로",
+  "nameEn": "Tableau Software, Inc.",
+  "definition": "태블로(Tableau Software, Inc.)는 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어를 만드는 미국 기업이다. 2019년에 Salesforce에 인수되었다.",
+  "summary": "태블로(Tableau Software, Inc.)는 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어를 만드는 미국 기업이다. 2019년에 Salesforce에 인수되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "스탠포드에서 개발된 Polaris를 전신으로 하며, 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어를 만드는 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "태블로는 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어이자, 이를 만드는 미국 기업이다. 태블로 제품은 관계형 데이터베이스, 클라우드 데이터베이스 및 스프레드시트를 쿼리하여 그 안의 데이터를 시각화한다. 또한 메모리 내 데이터 엔진에서 데이터를 추출하고 저장하며 검색하는 기능도 갖추고 있다. 국내에서도 대기업부터 중소기업, 학교 등에서 도입하여 폭넓게 활용되고 있다. 2003년 1월에 설립되어 2019년 6월 Salesforce에 인수되었으며, 현재는 Salesforce를 모기업으로 둔다. 2023년부터는 오랫동안 Salesforce 임원을 역임한 Ryan Aytay이 CEO를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "태블로의 전신은 Polaris이다. Pat Hanrahan과 Chris Stolte, Diane Tang이 스탠포드 재학 시 Polaris를 개발했으며, 이는 미국 에너지부 방위 프로그램인 ASCI(Accelerated Strategic Computing Initiative)의 지원을 받아 구축된 데이터 시각화 소프트웨어 도구였다. Pat Hanrahan, Christian Chabot, Chris Stolte는 2003년 1월 Tableau Software, LLC.를 설립했다. 이듬해 워싱턴주 시애틀의 Fremont 지역으로 본사를 이전했다. 2017년 3월 Wallingford의 Gas Works Park 근처에 새로운 본사 건물이 문을 열었고, 2018년에는 Fremont에 새로운 건물이 문을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "태블로의 대표 제품은 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어인 태블로이다. 이 제품은 관계형 데이터베이스, 클라우드 데이터베이스 및 스프레드시트를 쿼리하여 데이터를 시각화한다. 메모리 내 데이터 엔진에서 데이터를 추출, 저장, 검색할 수도 있다. 2018년 6월에는 매사추세츠주 케임브리지의 인공지능 스타트업 Empirical Systems를 인수하고, 이 회사의 기술을 태블로 플랫폼에 통합할 계획을 밝혔다. 국내에서는 대기업부터 중소기업, 학교 등에서 도입하여 활용하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 6월 10일 Tableau Software, LLC는 157억 달러 규모의 전액 주식 거래로 Salesforce에 인수되었다. 이는 당시 Salesforce 역사상 가장 큰 인수였다. 2016년 9월 Adam Selipsky가 사장 겸 CEO를 맡았고, 2021년 3월 후임으로 Mark Nelson이 임명되었다. 2023년부터는 Ryan Aytay이 CEO를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스탠포드에서 개발된 Polaris를 전신으로 하며, 비즈니스 인텔리전스(BI)에 중점을 둔 대화형 데이터 시각화 소프트웨어를 만드는 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tableausoftware.com",
+  "entityLinks": {
+   "wikidata": "Q7673435",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7673435",
+    "https://ko.wikipedia.org/wiki/%ED%83%9C%EB%B8%94%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/Tableau_Software"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7673435",
+   "country": "미국",
+   "inception": "2003",
+   "headquarters": "Fremont",
+   "founders": [
+    "팻 핸러핸"
+   ],
+   "parent": "세일즈포스닷컴",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「태블로」 요약과 위키데이터 Q7673435 팩트를 근거로 편집",
+  "founded": {
+   "date": "2003-01",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

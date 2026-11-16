@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1199757",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/dish-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dish",
+  "urlSlug": "dish",
+  "name": "디시 네트워크",
+  "nameKo": "디시 네트워크",
+  "nameEn": "Dish",
+  "definition": "디시 네트워크(Dish)는 미국의 위성 텔레비전 및 IPTV 서비스 제공업체이다. 'Digital Sky Highway'의 약칭으로 알려져 있으며, 에코스타(EchoStar Corporation)의 완전 자회사이다.",
+  "summary": "디시 네트워크(Dish)는 미국의 위성 텔레비전 및 IPTV 서비스 제공업체이다. 'Digital Sky Highway'의 약칭으로 알려져 있으며, 에코스타(EchoStar Corporation)의 완전 자회사이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "위성 방송으로 출발해 Sling TV와 Boost Mobile 인수로 사업을 넓힌 뒤 에코스타에 다시 합병된 미국의 위성 텔레비전 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "디시 네트워크는 위성 방송과 IPTV 서비스를 제공하는 미국 기업이다. 1996년 EchoStar I 위성을 활용해 DISH Network 브랜드로 위성 텔레비전 서비스를 시작했고, 이를 구독 사업 모델로 운영했다. 2015년에는 자회사 Sling TV를 통해 OTT 방식의 IPTV 서비스를 내놓았다. 2020년에는 Sprint Corporation이 T-Mobile US와 합병하는 과정에서 MVNO인 Boost Mobile을 인수했고, 전국 5G 네트워크를 개발하겠다는 의사를 밝혔다. 2023년에는 전액 주식 거래로 에코스타에 다시 합병되어 EchoStar Corporation의 완전 자회사가 되었다. 주요 경쟁사는 DirecTV이며, 콜로라도와 애리조나에 사무실을 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1980년 Charlie Ergen, Jim DeFranco 등이 EchoStar Communications라는 이름으로 설립했으며, 처음에는 C-band 위성 텔레비전 시스템 유통업체였다. 1987년 FCC에 위성 방송 면허를 신청했고, 1992년 서경 119도 궤도 슬롯 사용권을 얻었다. 첫 위성 EchoStar I을 발사한 이듬해인 1996년 3월 4일 DISH Network 브랜드로 DBS 방송 서비스를 시작했고, 이로써 구독 사업 모델의 텔레비전 서비스가 출범했다. 2007년 1월에는 기술·인프라 자산을 EchoStar라는 이름의 별도 회사로 분사했고, 나머지 회사는 DISH Network Corporation으로 이름을 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "핵심 사업은 위성 텔레비전과 IPTV 서비스이다. 위성 방송은 DISH Network 브랜드로 제공하며, 2015년에는 자회사 Sling TV를 통해 OTT 방식의 IPTV 서비스를 시작했다. 2011년에는 Blockbuster를 인수한 뒤 영화 채널, Blockbuster On Demand, DVD 우편 대여를 묶은 'Blockbuster Movie Pass'를 텔레비전 서비스의 부가 상품으로 내놓았다. 녹화물의 광고를 자동으로 건너뛰는 기능으로 논란이 된 셋톱박스형 DVR도 출시했으며, 2012년에는 Hopper DVR과 광대역 서비스 같은 새 사업을 강조하려고 상호를 DISH로 줄인다고 발표했다. 2020년에 인수한 Boost Mobile로 이동통신 사업에도 진출했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 DISH Network는 전액 주식 거래로 EchoStar에 다시 합병되었다. 현재는 EchoStar Corporation의 완전 자회사이며, 주요 경쟁사는 DirecTV이다. 콜로라도 3곳과 애리조나 1곳 등 모두 4개의 사무실을 운영하며, 2020년 Boost Mobile을 인수하면서 전국 5G 네트워크를 개발하겠다는 의사를 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "위성 방송으로 출발해 Sling TV와 Boost Mobile 인수로 사업을 넓힌 뒤 에코스타에 다시 합병된 미국의 위성 텔레비전 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.dish.com/",
+  "entityLinks": {
+   "wikidata": "Q1199757",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1199757",
+    "https://ko.wikipedia.org/wiki/%EB%94%94%EC%8B%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Dish_Network"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1199757",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "Meridian",
+   "founders": [
+    "Charlie Ergen",
+    "Cantey Ergen"
+   ],
+   "parent": "에코스타",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Dish Network」 본문과 위키데이터 Q1199757 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

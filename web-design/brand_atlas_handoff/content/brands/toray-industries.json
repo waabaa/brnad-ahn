@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q168115",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/toray-industries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "toray-industries",
+  "urlSlug": "toray-industries",
+  "name": "도레이",
+  "nameKo": "도레이",
+  "nameEn": "Toray Industries",
+  "definition": "도레이(Toray Industries)는 일본에 본사를 둔 다국적 소재 기업이다. 유기합성화학, 고분자화학, 생화학 기술을 바탕으로 산업 제품을 만들며, 탄소섬유와 합성섬유 생산으로 알려져 있다.",
+  "summary": "도레이(Toray Industries)는 일본에 본사를 둔 다국적 소재 기업이다. 유기합성화학, 고분자화학, 생화학 기술을 바탕으로 산업 제품을 만들며, 탄소섬유와 합성섬유 생산으로 알려져 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대의 탄소섬유 생산업체이자 일본 최대의 합성섬유 업체로, 섬유에서 출발해 첨단 복합소재까지 사업을 넓힌 소재 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "도레이는 유기합성화학, 고분자화학, 생화학 기술을 중심으로 산업 제품을 만드는 일본의 다국적 기업이다. 창업 당시의 사업 분야는 섬유와 직물, 플라스틱과 화학 제품이었다. 이후 의약, 바이오기술과 연구개발, 의료 제품, 역삼투막, 전자, IT 제품, 주택과 엔지니어링, 첨단 복합소재로 사업을 넓혔다. 현재 세계 최대의 탄소섬유 생산업체이자 일본 최대의 합성섬유 생산업체이다. 탄소섬유는 보잉 787 여객기의 외부 부품에 폭넓게 쓰인다. 도쿄증권거래소 1부에 상장되어 있으며 TOPIX 100과 닛케이 225 지수의 구성 종목이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "도레이는 1926년 당시 일본의 양대 종합상사 중 하나인 Mitsui Bussan이 Toyo Rayon이라는 이름으로 설립했다. 설립 당시에는 레이온 생산 기술이 없어 Courtaulds와 Du Pont에 기술 구입을 타진했으나 가격이 높았고, 결국 독일 엔지니어링 회사의 설비를 사고 외국인 기술자 약 스무 명을 고용해 사업을 시작했다. 1935년 Du Pont의 Wallace Carothers가 나일론을 발명하자 Mitsui Bussan 뉴욕 지점을 통해 샘플을 입수해 연구했다. 특허 보호 때문에 폴리아미드 합성부터 직접 해결해야 했고, 1941년 기초 연구를 마쳐 나일론 6 소형 공장 건설에 들어갔다. 1943년 가동을 시작했으며 제품은 주로 어망용으로 팔렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "도레이의 대표 제품은 탄소섬유이며, 보잉 787 여객기의 외부 부품에 널리 쓰인다. 합성섬유와 섬유 사업은 창업 이래의 사업 분야이고, 플라스틱과 화학 제품도 함께 다룬다. 이 밖에 의약, 바이오기술, 의료 제품, 역삼투막, 전자, IT 제품, 주택과 엔지니어링, 첨단 복합소재 분야로 사업을 넓혔다. 1990년대 후반부터 Uniqlo와 협력해 체내 수분을 열로 바꾸는 겨울용 이너웨어 Heattech와, 머리카락 굵기의 10분의 1 섬유로 만든 속건성 여름용 이너웨어 Airism을 공동 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "도레이는 일본, 중국, 미국, 유럽 등 20개 국가와 지역에서 사업을 운영하며 본사는 도쿄 니혼바시 미쓰이 타워에 있다. 2013년 Zoltek 인수를 발표했고, Zoltek은 완전 자회사로 별도 사업 단위로 운영되었다. 2014년에는 프랑스 Lacq에 탄소섬유 전구체인 폴리아크릴로니트릴(PAN) 생산 라인을 열었고, 2018년에는 TenCate Advanced Composites 인수를 발표했다. 2017년 11월에는 2008년부터 2016년까지 품질 데이터를 149건 조작했음을 시인했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대의 탄소섬유 생산업체이자 일본 최대의 합성섬유 업체로, 섬유에서 출발해 첨단 복합소재까지 사업을 넓힌 소재 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.toray.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q168115",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q168115",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A0%88%EC%9D%B4",
+    "https://en.wikipedia.org/wiki/Toray_Industries"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q168115",
+   "country": "일본",
+   "inception": "1926",
+   "headquarters": "니혼바시 미쓰이 타워",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Toray Industries」 본문과 위키데이터 Q168115 팩트를 근거로 편집",
+  "founded": {
+   "date": "1926-01-12",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

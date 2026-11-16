@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2365235",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "ozon",
+  "urlSlug": "ozon",
+  "name": "오존 (기업)",
+  "nameKo": "오존 (기업)",
+  "nameEn": "Ozon",
+  "definition": "오존(Ozon)은 1998년 온라인 서점으로 출발해 모스크바에 본사를 둔 러시아의 전자상거래 기업이다. 러시아에서 가장 먼저 등장한 이커머스 기업 중 하나로, 흔히 '러시아의 아마존'으로 불린다.",
+  "summary": "오존(Ozon)은 1998년 온라인 서점으로 출발해 모스크바에 본사를 둔 러시아의 전자상거래 기업이다. 러시아에서 가장 먼저 등장한 이커머스 기업 중 하나로, 흔히 '러시아의 아마존'으로 불린다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "1998년 온라인 서점으로 출발해 러시아 3대 온라인 소매 플랫폼 중 하나로 성장했으며, '러시아의 아마존'으로 불리는 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "오존은 러시아의 전자상거래 기업으로, 온라인 서점으로 출발해 의류와 전자제품까지 폭넓은 상품을 판매하는 플랫폼으로 성장했다. 2019년에는 러시아에서 가장 큰 온라인 소매 플랫폼 세 곳 중 하나였고, 2020년에는 포브스가 러시아 인터넷 기업 가운데 기업가치 3위로 꼽았다. 2019년 매출은 93% 증가한 $1.1 billion이었고 주문량은 두 배 넘게 늘어 32.2 million건이 되었다. 지주회사 Ozon Holdings PLC 아래 Ozon Group에 속하며, 그룹은 온라인 여행 예약 플랫폼 Ozon. Travel을 운영하고 러시아 최대 디지털 서점 Litres의 지분도 보유한다. 2020년 11월 나스닥에 상장해 기업가치 $6.2 billion을 평가받았으나, 2022년 2월 러시아의 우크라이나 침공 이후 거래가 중단되었고 2023년 10월 자발적 상장폐지를 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Ozon.ru는 1998년 러시아 소프트웨어 기업 Reksoft가 온라인 서점으로 설립했다. 이후 CD와 DVD로 품목을 넓혔고 의류에서 전자제품에 이르는 다양한 상품을 판매하게 되었다. 1999년 Leonid Boguslavsky가 세운 ru-Net Holdings가 Baring Vostok Group, UFG, Rex Capital과 함께 지배 지분을 인수했고, 2000년에는 Baring Vostok이 지배 주주가 되었다. 2011년 Maëlle Gavet이 CEO가 되어, 현금 결제가 중심이던 러시아 소매 시장에 전자상거래를 확산시키는 데 힘썼다. 같은 해 일본 전자상거래 기업 Rakuten 등으로부터 $100 million의 투자를 유치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "오존은 도서에서 출발해 CD와 DVD를 거쳐 의류, 전자제품까지 판매하는 온라인 소매 플랫폼을 운영한다. 2012년에는 신발 판매업체 Sapato.ru를 인수했고, 2015년 온라인 패션 소매업체 KupiVIP에 매각했다. 2014년에는 러시아의 주요 전자책 마켓플레이스 Litres의 지분을 확보했다. 그룹 안에는 온라인 여행 예약 플랫폼 Ozon. Travel이 있다. 2021년에는 Sovcombank로부터 Oney Bank를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 2월 러시아의 우크라이나 침공 이후 나스닥이 거래를 중단하고 상장폐지 의사를 밝혔으며, 오존은 두 차례 이의를 제기했으나 받아들여지지 않았다. 2024년 매출은 615.7 billion 루블로 45% 증가했고 매출총이익은 99.9 billion 루블이었다. 2026년 8월 24일에는 우크라이나발 드론 공격으로 창고가 타격을 받은 뒤 모스크바 거래소에서 주가가 30% 가까이 하락했고, 주요 주주 Sistema도 13% 넘게 하락했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1998년 온라인 서점으로 출발해 러시아 3대 온라인 소매 플랫폼 중 하나로 성장했으며, '러시아의 아마존'으로 불리는 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ozon.ru",
+  "entityLinks": {
+   "wikidata": "Q2365235",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2365235",
+    "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%A1%B4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Ozon"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2365235",
+   "country": "러시아",
+   "inception": "1998",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Ozon」 본문과 위키데이터 Q2365235 팩트를 근거로 편집",
+  "founded": {
+   "date": "1998-02-09",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ }
+}

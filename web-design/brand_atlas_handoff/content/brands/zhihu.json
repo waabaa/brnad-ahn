@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q15898172",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/zhihu-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "zhihu",
+  "urlSlug": "zhihu",
+  "name": "즈후",
+  "nameKo": "즈후",
+  "nameEn": "Zhihu",
+  "definition": "즈후(Zhihu)는 중화인민공화국의 소셜 질의응답 사이트이자 뉴스 애그리게이터이다. 2011년 1월 26일 서비스를 시작했으며, 흔히 Quora에 비견되고 본사는 하이뎬구에 있다.",
+  "summary": "즈후(Zhihu)는 중화인민공화국의 소셜 질의응답 사이트이자 뉴스 애그리게이터이다. 2011년 1월 26일 서비스를 시작했으며, 흔히 Quora에 비견되고 본사는 하이뎬구에 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "질문과 답변을 중심으로 한 중국의 Q&A 플랫폼으로, 전문가 중심에서 대중 참여로 옮겨 오며 Quora에 자주 비교되는 서비스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "즈후(Zhihu)는 이용자가 질문과 답변을 올리고 가장 좋은 답변에 추천을 누르는 중국의 소셜 질의응답 사이트이다. 원래 청두에 기반을 두었고 쓰촨 출신 창작자들이 만들었으며, 2011년 1월 26일 서비스를 시작했다. 2021년 기준 등록 사용자는 76 million명이며, Quora와 자주 비교되지만 2020년대 초에는 Reddit과 비슷한 기능도 갖췄다. 초기에는 전문가 중심의 청중을 겨냥했으나 2020년대 초에는 대중의 참여를 선호하는 방향으로 옮겨 가려 했다. 2021년 3월 26일 뉴욕증권거래소에 상장했고, 2022년 4월 11일 홍콩증권거래소에서 거래를 시작했다. 창업자 겸 CEO는 Zhou Yuan이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "즈후는 2010년 8월 개발을 시작해 같은 해 12월 말 비공개 베타 테스트를 거쳤고, 2011년 1월 26일 최종 제품을 공개했다. 초기에는 가입이 주로 초대제였으며 등록 사용자 일부의 추천이 필요했다. 추천이 없는 신규 이용자는 많은 개인 정보를 적어 신청한 뒤 답을 기다려야 했다. Kai-Fu Lee의 Innovation Works, Qiming Ventures, SAIF Partners, Tencent, Sogou에서 투자를 받은 것으로 알려져 있다. 2011년 10월에는 Innovation Works와 Qiming Ventures로부터 US$7 million 규모의 A라운드 투자를 마쳤다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "즈후는 이용자가 질문과 답변을 제출하고 가장 좋은 답변에 추천을 누르는 방식으로 작동하며, Quora의 '클론'이라고 불린 적도 있다. 답변 수는 멱법칙 분포를 따라 대부분의 질문에는 답변이 적게, 소수의 질문에는 많이 달린다. 답변은 소수의 고활동 이용자보다 활동이 뜸한 다수 이용자에게서 나오는 경향이 있다. 2020년 10월 9일에는 텍스트에 맞는 이미지를 제안하고 음성 해설을 생성하는 영상 제작 도구를 선보였다. 2023년에는 이용자의 단편을 소설로 각색하는 'Yanyan Stories' 기능을, 2024년 6월 29일에는 AI 검색 제품 Zhida를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 12월 Sogou와 Tencent의 투자 부문을 포함한 주주 열 곳이 Beijing Zhizhe Tianxia Technology의 지분 전부(78%)를 창업자 겸 CEO Zhou Yuan에게 넘겼고, 그는 이후 회사 지분 99% 이상을 보유했다. 2023년 7월부터는 익명 게시를 더 이상 지원하지 않는다. 2025년 10월 독일 프랑크푸르트 도서전에서 Yanyan Story Platform을 해외에 공개했으며, 당시 100편이 넘는 작품이 국내외 출판 계약을 맺은 상태였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "질문과 답변을 중심으로 한 중국의 Q&A 플랫폼으로, 전문가 중심에서 대중 참여로 옮겨 오며 Quora에 자주 비교되는 서비스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.zhihu.com",
+  "entityLinks": {
+   "wikidata": "Q15898172",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q15898172",
+    "https://en.wikipedia.org/wiki/Zhihu"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q15898172",
+   "country": "중화인민공화국",
+   "inception": "2011",
+   "headquarters": "하이뎬구",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Zhihu」 본문과 위키데이터 Q15898172 팩트를 근거로 편집",
+  "founded": {
+   "date": "2011-01-26",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

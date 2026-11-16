@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q811857",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bausch-lomb-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bausch-lomb",
+  "urlSlug": "bausch-lomb",
+  "name": "바슈롬",
+  "nameKo": "바슈롬",
+  "nameEn": "Bausch & Lomb",
+  "definition": "바슈롬(Bausch & Lomb)은 콘택트렌즈와 인공수정체, 의약품, 안과 수술 관련 제품을 만드는 안 건강 제품 기업이다. 1853년 미국 뉴욕주 로체스터에서 출발했다.",
+  "summary": "바슈롬(Bausch & Lomb)은 콘택트렌즈와 인공수정체, 의약품, 안과 수술 관련 제품을 만드는 안 건강 제품 기업이다. 1853년 미국 뉴욕주 로체스터에서 출발했다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1853년 로체스터에서 출발해 안경과 현미경 제조에서 콘택트렌즈와 인공수정체로 영역을 넓힌, 미국에서 가장 오래 운영된 기업 중 하나로 꼽힌 안과 전문 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "바슈롬은 콘택트렌즈와 인공수정체, 의약품, 안과 수술 관련 제품을 생산하는 안 건강 제품 기업이다. 1853년 외눈안경을 만드는 작업장으로 출발해 안경테와 현미경, 쌍안경, 카메라 렌즈 등으로 제품군을 넓혔다. 1971년에는 Poly-HEMA 소재 콘택트렌즈를 출시했다. 미국에서 가장 오래 계속 운영된 기업 중 하나였으며, 뉴욕증권거래소에 상장되어 있다가 2007년 사모펀드 Warburg Pincus에 인수되었다. 2013년에는 캐나다 기업 Bausch Health에 매각되었고, 현재 본사는 캐나다 온타리오주 Vaughan에 있다. 2022년 기준 약 12,900명 규모의 직원을 두고 있으며, 사명은 2010년부터 Bausch + Lomb로 표기한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1853년 안경사 John Bausch가 미국 뉴욕주 로체스터에서 사업을 시작했고 Henry Lomb이 자금을 댔다. 두 사람은 모두 독일 이민자였으며, 외눈안경을 만드는 작은 작업장으로 출발했다. 1861년에는 vulcanite 소재 안경테와 정밀 시력 제품을 제조하는 단계로 확장했다. 남북전쟁 중 북군의 봉쇄로 금과 유럽산 뿔 가격이 크게 오르면서 vulcanite 안경에 대한 수요가 늘었다. 1876년 Ernst Gundlach가 합류하며 현미경 제조를 시작했고, 1892년부터는 독일 Zeiss와 협력해 광학 렌즈를 생산했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 주력 제품은 콘택트렌즈와 인공수정체, 의약품, 안과 수술 관련 제품이다. 1965년에는 Otto Wichterle과 Drahoslav Lím이 만든 하이드로겔 콘택트렌즈 특허를 취득했고, 1971년 Poly-HEMA 소재 콘택트렌즈를 출시했다. 역사적으로는 사진 렌즈(1883), 안경 렌즈(1889), 마이크로톰(1890), 쌍안경과 망원경(1893)을 생산했다. 1936년에는 조종사용으로 Ray-Ban 선글라스를 개발했다. 영화 CinemaScope 방식에 쓰이는 개선된 광학 장치도 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 캐나다 온타리오주 Vaughan에 있다. 2007년 사모펀드 Warburg Pincus에 인수되기 전에는 뉴욕증권거래소에 상장되어 있었고, 2013년 캐나다 기업 Bausch Health에 매각되었다. 2022년 기준 직원은 약 12,900명이다. 2010년부터 사명을 Bausch + Lomb로 표기하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1853년 로체스터에서 출발해 안경과 현미경 제조에서 콘택트렌즈와 인공수정체로 영역을 넓힌, 미국에서 가장 오래 운영된 기업 중 하나로 꼽힌 안과 전문 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bausch.com/",
+  "entityLinks": {
+   "wikidata": "Q811857",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q811857",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%8A%88%EB%A1%AC",
+    "https://en.wikipedia.org/wiki/Bausch_%26_Lomb"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q811857",
+   "country": "미국",
+   "inception": "1853",
+   "headquarters": "로체스터",
+   "founders": [
+    "John Jacob Bausch",
+    "Henry Lomb"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Bausch & Lomb」 본문과 위키데이터 Q811857 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

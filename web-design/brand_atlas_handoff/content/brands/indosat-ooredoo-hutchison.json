@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q2393592",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/indosat-ooredoo-hutchison-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "indosat-ooredoo-hutchison",
+  "urlSlug": "indosat-ooredoo-hutchison",
+  "name": "Indosat Ooredoo Hutchison",
+  "nameKo": "",
+  "nameEn": "Indosat Ooredoo Hutchison",
+  "definition": "Indosat Ooredoo Hutchison은 자카르타에 본사를 둔 인도네시아의 통신 사업자이다. 이동통신 서비스를 중심으로 가정용 광대역 인터넷 회선 등을 제공하며 IM3와 Three 두 브랜드로 서비스를 운영한다.",
+  "summary": "Indosat Ooredoo Hutchison은 자카르타에 본사를 둔 인도네시아의 통신 사업자이다. 이동통신 서비스를 중심으로 가정용 광대역 인터넷 회선 등을 제공하며 IM3와 Three 두 브랜드로 서비스를 운영한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7333333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "2015년 Indosat Ooredoo로 개명한 뒤 2022년 Hutchison 3 Indonesia와 합병해 IM3와 Three 두 브랜드를 함께 운영하는 인도네시아 통신 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Indosat Ooredoo Hutchison은 PT Indosat Tbk의 상호이며 약칭은 IOH이다. 휴대전화용 무선 서비스를 주력으로 하고, 가정용 광대역 인터넷 회선은 상대적으로 작은 비중으로 제공한다. 무선 서비스는 IM3와 Three(3) 두 브랜드로 운영하며, 두 브랜드는 선불·후불 결제 방식과 요금에서 차이가 난다. IDD, 고정통신, 멀티미디어 같은 서비스도 함께 제공한다. 2018년 4분기 기준 가입자는 58 million명이었고 시장 점유율은 16.5%로 인도네시아에서 두 번째로 큰 이동통신 사업자였다. 2022년부터 Ooredoo Hutchison Asia가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1967년 인도네시아 최초의 외국인 투자 회사로 설립되어 국제 위성을 이용한 국제 통신 서비스를 제공했다. 1980년까지 미국 ITT가 자회사 American Cable and Radio Corporation을 통해 소유했다. 1980년에는 인도네시아 정부가 인수해 지분 100%를 소유하게 되었다. 1994년부터 2003년까지 Satelindo와 SLI를 지분 과반으로 인수하고 PT Indosat Multimedia Mobile(IM3)을 설립해 전국 GPRS 망을 운영했다. 2003년에는 Satelindo, IM3, Bimagraha 세 자회사를 합병해 이동통신 사업자로 자리 잡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "무선 서비스는 IM3와 Three(3) 두 브랜드로 제공하며, 선불과 후불이라는 결제 방식과 요금이 서로 다르다. 휴대전화용 무선 서비스가 중심이고 가정용 광대역 인터넷 회선은 비중이 작다. IDD, 고정통신, 멀티미디어 서비스도 제공한다. 2014년에는 900 MHz 대역에서 최대 42 Mbit/s 다운로드 속도의 4G 서비스를 상용화했고, 2016년에는 스웨덴 기반 음악 스트리밍 서비스 Spotify와 협력해 인도네시아에서 처음으로 Spotify 음악 서비스를 제공한 사업자가 되었다. 자회사 Lintasarta는 데이터 통신, 유무선 지상 솔루션, VSAT, 전용 인터넷, 데이터 센터 서비스를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 1월 위성 사업에서 철수하겠다고 발표했고, 같은 해 9월 Hutchison Asia Telecom Group과 Garibaldi Thohir의 합작사인 PT Hutchison 3 Indonesia와의 합병을 발표했다. 합병은 2022년 1월 4일 마무리되었다. 현재 Ooredoo와 Hutchison Asia Telecom Group(CK Hutchison Holdings 소속)의 합작사 Ooredoo Hutchison Asia가 소유하며, 2022년부터 'Indosat, Empowering Indonesia' 슬로건을 사용한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2015년 Indosat Ooredoo로 개명한 뒤 2022년 Hutchison 3 Indonesia와 합병해 IM3와 Three 두 브랜드를 함께 운영하는 인도네시아 통신 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://indosatooredoo.com",
+  "entityLinks": {
+   "wikidata": "Q2393592",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2393592",
+    "https://en.wikipedia.org/wiki/Indosat"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2393592",
+   "country": "인도네시아",
+   "inception": "1967",
+   "headquarters": "자카르타",
+   "founders": [
+    "ITT 코퍼레이션"
+   ],
+   "parent": "Ooredoo",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Indosat」 본문과 위키데이터 Q2393592 팩트를 근거로 편집",
+  "founded": {
+   "date": "1967-11-20",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

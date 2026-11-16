@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1368919",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/mobile-telesystems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mobile-telesystems",
+  "urlSlug": "mobile-telesystems",
+  "name": "Mobile TeleSystems",
+  "nameKo": "",
+  "nameEn": "Mobile TeleSystems",
+  "definition": "Mobile TeleSystems는 모스크바에 본사를 둔 통신 기업이다. 러시아와 벨라루스에서 가장 큰 통신 기업이자 이동통신망 사업자이며, 약칭 MTS로도 불린다.",
+  "summary": "Mobile TeleSystems는 모스크바에 본사를 둔 통신 기업이다. 러시아와 벨라루스에서 가장 큰 통신 기업이자 이동통신망 사업자이며, 약칭 MTS로도 불린다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "러시아와 벨라루스에서 가장 큰 통신 기업으로, 이동통신에 유선·TV 서비스를 결합하고 Sistema를 모기업으로 둔 통신 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Mobile TeleSystems(MTS)는 GSM, UMTS, LTE, 5G 규격으로 이동통신망을 운영하는 사업자이다. 이동통신 외에도 유선 전화, 광대역 인터넷, 모바일 TV, 케이블 TV, 위성 TV, 디지털 TV 서비스를 제공한다. 본사는 모스크바에 있고 모기업은 Sistema이다. 2024년 3분기 기준 러시아 81.9 million명, 벨라루스 5.7 million명 등 87.6 million명이 넘는 가입자를 보유하고 있다. 2010년에는 Comstar를 MTS 브랜드로 통합해 러시아에서 가장 큰 이동통신·유선통신 브랜드를 형성했다. 과거에는 우즈베키스탄에서 2012년까지, 투르크메니스탄에서 2017년까지, 우크라이나에서 2015년까지, 아르메니아에서 2024년까지 사업을 운영했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "MTS는 1993년에 설립됐다. 1994년 Moscow City Telephone Network, T-Mobile, Siemens의 합작회사가 모스크바에서 일반 대상 첫 이동전화 서비스를 제공했다. MTS는 1994년 모스크바 면허 지역에서 사업을 시작했고, 1997년 다른 지역의 면허를 받아 러시아 전역으로 확장했으며 이후 CIS의 다른 나라로도 진출했다. 1994년 6월에는 VimpelCom도 Beeline 이동전화 서비스를 시작했다. 2009년에는 독립 이동통신 소매 체인을 인수해 3300개 매장의 MTS 단일 브랜드 소매망을 만들었는데, 이는 러시아에서 두 번째로 큰 소매망이었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2009년부터 MTS 브랜드의 휴대전화 단말기를 판매했고, 2010년 MTS는 러시아에서 Nokia, Samsung, LG, Sony Ericsson에 이어 다섯 번째로 많이 팔린 단말기 브랜드가 됐다. 2010년에는 러시아 최대 유선 인터넷·케이블 TV 사업자인 Comstar 지분 62% 인수를 발표했고, 이후 Comstar 제품을 MTS 브랜드로 바꿨다. 2013년 11월에는 \"Home Phone MTS\" 유선 전화 서비스를 시작했고 LTE 로밍 서비스도 제공했다. 2019년 3월에는 e스포츠 선수와 게이머를 위한 상호작용형 미디어 플랫폼 WASD.TV를 출시했다. 2024년 1월에는 Urent 킥보드 대여 서비스의 지분을 80.58%로 늘렸다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모기업은 Sistema이며 본사는 모스크바에 있다. 2024년 3분기 기준 러시아와 벨라루스에서 87.6 million명이 넘는 가입자를 보유하고 있다. 2019년부터 Huawei, Ericsson, Nokia와 협력해 5G망을 구축해 왔다. 2021년에는 Huawei와 모스크바 14개 시범 지점에서 5G망을 가동했고, Ericsson과는 상트페테르부르크에 5G 허브를 열었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "러시아와 벨라루스에서 가장 큰 통신 기업으로, 이동통신에 유선·TV 서비스를 결합하고 Sistema를 모기업으로 둔 통신 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mts.ru/",
+  "entityLinks": {
+   "wikidata": "Q1368919",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1368919",
+    "https://en.wikipedia.org/wiki/Mobile_TeleSystems"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1368919",
+   "country": "러시아",
+   "inception": "1993",
+   "headquarters": "모스크바",
+   "founders": [],
+   "parent": "Sistema",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Mobile TeleSystems」 본문과 위키데이터 Q1368919 팩트를 근거로 편집",
+  "founded": {
+   "date": "1993-10-08",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

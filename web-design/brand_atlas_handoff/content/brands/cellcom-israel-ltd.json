@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2450722",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "cellcom-israel-ltd",
+  "urlSlug": "cellcom-israel-ltd",
+  "name": "Cellcom Israel Ltd.",
+  "nameKo": "",
+  "nameEn": "Cellcom Israel Ltd.",
+  "definition": "Cellcom Israel Ltd.는 1994년 설립된 이스라엘의 통신 회사이다. 본사는 네타냐에 있으며 사업의 대부분이 무선 서비스에 집중되어 있다.",
+  "summary": "Cellcom Israel Ltd.는 1994년 설립된 이스라엘의 통신 회사이다. 본사는 네타냐에 있으며 사업의 대부분이 무선 서비스에 집중되어 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8,
+  "image": "",
+  "logo": "",
+  "insight": "독점 사업자 Pelephone보다 낮은 요금으로 이스라엘 무선 시장에 진입해 변화를 일으킨 통신사이며, 무선 서비스를 중심으로 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cellcom Israel Ltd.는 무선 서비스를 중심으로 사업을 운영하는 이스라엘의 통신 회사이다. 히브리어 표기는 סלקום이며 텔아비브 증권거래소에서 종목 코드 CEL로 거래되고 텔아비브 35 지수에 포함되어 있다. 현재 최고경영자는 Eli Adadi이고, 2016년 6월 기준 가입자는 2.812 million명이었다. 시장 진입 당시 이스라엘 셀룰러 서비스를 독점하던 Pelephone이 받던 요금의 일부 수준으로 서비스를 제공해 무선 통신 시장에 큰 변화를 일으켰다. 현재 5G 네트워크를 운영하며 Cellcom TV, IPTel 유선 전화, 국제전화 서비스(013)도 제공한다. 이스라엘의 전기요금 청구 대행 기관 중 하나로도 활동한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1994년 Dov Tadmor가 설립했으며 모기업은 Discount Investment Corp. Ltd.이다. 초기에는 850 MHz 대역에서 전국 TDMA 네트워크를 운영했고, 이후 GSM-1800 주파수 입찰에 낙찰되어 GSM 서비스를 시작했다. 1995년에는 당시 네트워크에서 널리 쓰이던 Motorola MicroTAC Alpha 단말기의 소프트웨어 버그로 광범위한 서비스 장애를 겪었다. 3G 시장에 진입하면서 이스라엘 최초의 모바일 화상통화를 시연했고, 2006년 초부터 3G UMTS-2100 네트워크를 전국에 구축했다. 또한 이스라엘 최초로 HSDPA 네트워크를 전국에 선보였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 무선 통신 서비스이며, 현재 5G 네트워크를 Golan Telecom, WeCom, Walla Mobile과 공유해 운영한다. 2011년에는 사용량이 줄어든 TDMA 대역을 활용해 850 MHz 대역에서 UMTS 서비스를 도입하기 시작했다. 2014년 8월에는 1800 MHz 대역에서 LTE 네트워크를 개통했다. 이 밖에 OTT 서비스인 Cellcom TV, IPTel 유선 전화 서비스, 국제전화 서비스(013)를 제공한다. 이스라엘 전기요금의 청구 대행 기관 중 하나로도 활동한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Discount Investment Corp. Ltd.를 모기업으로 두고 텔아비브 증권거래소에 상장되어 있으며, 최고경영자는 Eli Adadi이다. 2016년 6월 기준 가입자는 2.812 million명이었다. 2020년 2월 12일 유엔이 공개한 이스라엘 정착촌 관련 기업 데이터베이스에 등재되었고, 2021년 7월 5일 노르웨이 최대 연기금 KLP가 투자 회수 계획을 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독점 사업자 Pelephone보다 낮은 요금으로 이스라엘 무선 시장에 진입해 변화를 일으킨 통신사이며, 무선 서비스를 중심으로 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.cellcom.co.il",
+  "entityLinks": {
+   "wikidata": "Q2450722",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2450722",
+    "https://en.wikipedia.org/wiki/Cellcom_(Israel)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2450722",
+   "country": "이스라엘",
+   "inception": "1994",
+   "headquarters": "네타냐",
+   "founders": [
+    "Dov Tadmor"
+   ],
+   "parent": "Discount Investment Corp. Ltd.",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Cellcom (Israel)」 본문과 위키데이터 Q2450722 팩트를 근거로 편집"
+ }
+}

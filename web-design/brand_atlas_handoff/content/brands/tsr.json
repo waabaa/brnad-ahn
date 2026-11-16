@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1543201",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/tsr-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tsr",
+  "urlSlug": "tsr",
+  "name": "TSR",
+  "nameKo": "",
+  "nameEn": "TSR",
+  "definition": "TSR은 Dungeons & Dragons(D&D)를 처음 발행한 미국의 게임 출판사이다. 1973년 10월 Gary Gygax와 Don Kaye가 Tactical Studies Rules라는 이름으로 처음 설립했다.",
+  "summary": "TSR은 Dungeons & Dragons(D&D)를 처음 발행한 미국의 게임 출판사이다. 1973년 10월 Gary Gygax와 Don Kaye가 Tactical Studies Rules라는 이름으로 처음 설립했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "Dungeons & Dragons를 처음 출판해 테이블탑 롤플레잉 게임 장르를 확립한 원 발행사라는 점이 TSR을 다른 게임 출판사와 구분 짓는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TSR은 미국의 게임 출판사로, Dungeons & Dragons(D&D)의 최초 발행사로 가장 잘 알려져 있다. D&D는 일반적으로 최초의 테이블탑 롤플레잉 게임(TTRPG)으로 여겨지며 이 장르를 확립한 게임이다. 회사는 Gary Gygax가 Dave Arneson과 함께 개발한 D&D의 출판사를 찾지 못해 직접 출판하려 한 데서 출발했다. 1970년대 후반 TSR Hobbies는 D&D를 주력 제품으로 삼아 게임 업계의 주요 세력이 되었다. 1997년 Wizards of the Coast에 인수되었고, 2000년에는 TSR 명칭이 D&D 제품에서 빠졌다. 이후 다른 두 회사가 TSR 상표를 상업적으로 사용했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "TSR의 전신인 Tactical Studies Rules는 1973년 10월 Gary Gygax와 Don Kaye가 세웠다. 두 사람은 시작 비용으로 $2,400을 모아 D&D의 규칙을 출판했다. 첫 출시작은 미니어처 게임 Cavaliers and Roundheads였으나 상업적으로 성공하지 못했고, 같은 해 12월 Brian Blume가 동등한 동업자로 합류해 D&D 추가 출판 자금을 댔다. 1975년 Kaye가 갑자기 사망하자 동업 체제는 TSR Hobbies, Inc.로 재편되었고 Blume의 아버지 Melvin의 투자를 받았다. 1983년 봄 재정난으로 회사가 네 개의 독립 사업으로 나뉘었고, 게임 출판과 개발은 TSR, Inc.가 이어받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "TSR의 대표 제품은 Dungeons & Dragons이다. 1974년 1월 Gygax의 지하실을 본거지 삼아 D&D 1,000부를 제작해 한 부에 $10에 팔았고, 첫 판은 10개월 만에 매진되었다. 1975년 1월 찍은 두 번째 1,000부는 5~6개월 만에 팔렸다. 1974년에는 미니어처 규칙집 Warriors of Mars도 냈으나 Burroughs 유족의 허락 없이 낸 것이어서 조용히 목록에서 빠졌고 재판되지 않았다. Wizards of the Coast는 인수 뒤 처음에는 D&D 제품에 TSR 이름을 계속 썼으나, 3판이 나온 2000년에는 이 이름을 뺐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "TSR은 1990년대 중반 판매와 수익은 양호했으나 높은 비용 탓에 적자와 큰 부채에 빠졌고, 지급불능에 직면해 1997년 Wizards of the Coast에 인수되었다. Wizards of the Coast는 2000년대 초 TSR 상표권이 만료되도록 두었다. 이후 다른 두 회사가 TSR 상표를 상업적으로 사용했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Dungeons & Dragons를 처음 출판해 테이블탑 롤플레잉 게임 장르를 확립한 원 발행사라는 점이 TSR을 다른 게임 출판사와 구분 짓는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1543201",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1543201",
+    "https://en.wikipedia.org/wiki/TSR,_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1543201",
+   "country": "미국",
+   "inception": "1973",
+   "headquarters": "Lake Geneva",
+   "founders": [
+    "게리 가이객스",
+    "Don Kaye"
+   ],
+   "parent": "위저드 오브 더 코스트",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「TSR, Inc.」 본문과 위키데이터 Q1543201 팩트를 근거로 편집",
+  "founded": {
+   "date": "1973-10",
+   "precision": "month",
+   "sources": [
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

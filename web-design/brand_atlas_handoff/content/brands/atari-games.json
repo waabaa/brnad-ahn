@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1061580",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/atari-games-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "atari-games",
+  "urlSlug": "atari-games",
+  "name": "Atari Games",
+  "nameKo": "",
+  "nameEn": "Atari Games",
+  "definition": "Atari Games는 1985년부터 1999년까지 활동한 미국의 아케이드 비디오 게임 제작사이다. Atari, Inc.의 동전 투입식 게임 사업부가 Warner Communications 소유 아래 Namco와의 합작 법인으로 이전되며 출범했다.",
+  "summary": "Atari Games는 1985년부터 1999년까지 활동한 미국의 아케이드 비디오 게임 제작사이다. Atari, Inc.의 동전 투입식 게임 사업부가 Warner Communications 소유 아래 Namco와의 합작 법인으로 이전되며 출범했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "옛 Atari의 아케이드 사업부를 이어받은 회사로, 아케이드는 Atari, 가정용은 Tengen 이름을 쓰며 Nintendo와 법적 분쟁을 벌였다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 아케이드용 비디오 게임을 개발하고 발매한 미국 기업이다. 아케이드 게임은 Atari 브랜드로 내놓았고, 가정용 기기용 게임은 법적인 이유로 Tengen 레이블을 사용해 발매했다. 1985년부터 1999년까지는 Atari Games Corporation이라는 이름으로 활동했고, 이후 2003년까지 Midway Games West Inc.로 운영했다. 1987년 Namco가 지배 지분을 매각한 뒤 1994년까지는 사실상 독립적으로 운영했다. 1996년 WMS Industries에 매각했고, 1998년 WMS에서 분리된 Midway Games의 일원이 되었다. 2003년 운영을 중단했으며, 옛 자산은 2009년 Warner Bros. Interactive Entertainment로 다시 팔렸다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1983년 첫 세 분기 동안 Warner Communications 산하 Atari, Inc.는 큰 손실을 냈지만, 아케이드 사업부만은 수익을 냈다. 1984년 Warner는 가정용 제품 사업부를 Jack Tramiel에게 팔았고, 아케이드 사업부와 일부 자산을 남긴 채 Atari, Inc.의 이름을 Atari Games, Inc.로 바꿨다. 1985년 Warner Communications와 Namco는 AT Games, Inc.를 공동으로 세워 동전 투입식 게임 사업부를 옮겼고, Namco가 지배 지분을, Warner가 40%를 보유했다. 이후 AT Games가 Atari Games Corporation이 되었다. Namco는 지분 33%를 1985년부터 사장이던 Hideyuki Nakajima가 이끄는 직원 그룹에 팔았고, 그 결과 Warner 40%, Namco 40%, 직원 20%로 나뉘어 사실상 독립 회사로 운영했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "아케이드 게임을 Atari 브랜드로 개발하고 발매했다. 가정용으로는 Commodore 16, Commodore 64, Game Boy, Nintendo Entertainment System 등의 기기용 게임을 Tengen 레이블로 냈다. 1988년부터는 Tengen 브랜드로 NES용 카트리지도 판매했다. 대표작으로는 Tetris, Road Runner, RoadBlasters, Primal Rage, Hard Drivin', San Francisco Rush가 있다. 자회사 Atari Ireland은 유럽 시장용 게임을 제조했고, Namco 아래에서는 Sega의 Hang-On(1985)도 유럽용으로 제조했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재는 존재하지 않는 회사이다. 1989년 Warner Communications가 Time Inc.와 합병해 Time Warner가 되었고, 1994년 Time Warner가 지배 지분을 되사 Time Warner Interactive 산하 자회사로 만들었다. 1996년 WMS Industries에 팔렸고 1998년 Midway Games의 일부가 되었으며, Atari 이름을 버린 뒤 2003년 운영을 멈췄다. 옛 자산은 2009년 Midway 파산 후 Warner Bros. Interactive Entertainment에 다시 팔렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "옛 Atari의 아케이드 사업부를 이어받은 회사로, 아케이드는 Atari, 가정용은 Tengen 이름을 쓰며 Nintendo와 법적 분쟁을 벌였다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.atari.com/",
+  "entityLinks": {
+   "wikidata": "Q1061580",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1061580",
+    "https://en.wikipedia.org/wiki/Atari_Games"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1061580",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": "밀피타스",
+   "founders": [
+    "워너미디어"
+   ],
+   "parent": "Warner Communications",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Atari Games」 본문과 위키데이터 Q1061580 팩트를 근거로 편집",
+  "founded": {
+   "date": "1984-07",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

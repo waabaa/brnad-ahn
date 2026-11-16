@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q571779",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/liberty-global-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "liberty-global",
+  "urlSlug": "liberty-global",
+  "name": "리버티 글로벌",
+  "nameKo": "리버티 글로벌",
+  "nameEn": "Liberty Global",
+  "definition": "리버티 글로벌(Liberty Global)은 영국·네덜란드·미국에 걸친 다국적 통신 기업이다. 버뮤다에 법인을 두고 런던, 암스테르담, 덴버에 본사를 두며, 케이블 방식의 영상·인터넷·음성 서비스를 제공한다.",
+  "summary": "리버티 글로벌(Liberty Global)은 영국·네덜란드·미국에 걸친 다국적 통신 기업이다. 버뮤다에 법인을 두고 런던, 암스테르담, 덴버에 본사를 두며, 케이블 방식의 영상·인터넷·음성 서비스를 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "케이블 TV 그룹 TCI에서 갈라져 나온 Liberty Media 계열에서 출발해, 인수·매각과 분사로 유럽과 중남미 사업 구성을 거듭 바꾼 다국적 케이블 통신사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "리버티 글로벌은 영국, 네덜란드, 미국 세 나라에 걸친 다국적 통신 기업이며 버뮤다에 법인을 두고 있다. 법적 명칭은 영국의 Liberty Global Holdings Limited, 네덜란드의 Liberty Global B.V., 미국의 Liberty Global, Inc.이고, 이 가운데 첫 번째가 상장되어 있다. 2005년 Liberty Media의 국제 부문과 UnitedGlobalCom(UGC)이 합병하면서 출범했다. 2019년에는 6개국에서 사업을 운영했고 직원은 20,600명이었다. 영상, 인터넷, 음성 고객을 합산한 수익 창출 단위(RGU)로 가입자를 집계하는 케이블 사업자이다. 인수와 매각, 분사를 거듭하며 사업 지역과 구성을 바꿔 왔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리버티 글로벌은 2005년 Liberty Media International(LMI)과 UnitedGlobalCom(UGC)이 합병하면서 설립되었다. Liberty Media는 미국 케이블 TV 그룹 TCI에서 분사한 회사이며, UGC의 창업자는 Gene Schneider이다. UGC도 인수를 통해 성장했다. 전신인 United International Holding이 1995년 네덜란드 전자 기업 Philips로부터 UPC 지분 50%를 인수했고 1997년에는 100%를 확보했다. 합병으로 출범한 새 회사는 18개국에서 사업을 운영했고 세계 최대 규모의 광대역 서비스 기업 중 하나가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업의 중심은 케이블을 통한 영상, 인터넷, 음성 서비스이다. 영국의 Virgin Media, 벨기에의 Telenet, 네덜란드의 Ziggo 등이 사업 기반을 이루었다. 2016년 11월 Virgin Media는 Netflix 등 앱을 지원하는 셋톱박스 V6를 출시했다. 2015년에는 Cable & Wireless Communications 인수를 발표해 카리브해와 중남미로 사업을 넓혔고, 트리니다드에는 전액 출자 자회사 FLOW Trinidad를 두었다. 미디어 분야에서는 ITV plc, All3Media, Lions Gate Entertainment Group 등에 지분 투자를 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 1월 Liberty Latin America가 분사되어 카리브해와 남미 일부에서 독립적으로 운영되는 별도 상장사가 되었다. 2017년 말에는 오스트리아 사업 UPC Austria를 T-Mobile Austria에 매각하기로 했다. 2018년 5월에는 독일, 헝가리, 루마니아, 체코 사업을 Vodafone에 매각한다고 발표했고 거래는 2019년 7월에 마무리되었다. 2019년에는 6개국에서 20,600명이 근무했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "케이블 TV 그룹 TCI에서 갈라져 나온 Liberty Media 계열에서 출발해, 인수·매각과 분사로 유럽과 중남미 사업 구성을 거듭 바꾼 다국적 케이블 통신사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.libertyglobal.com/",
+  "entityLinks": {
+   "wikidata": "Q571779",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q571779",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%B2%84%ED%8B%B0_%EA%B8%80%EB%A1%9C%EB%B2%8C",
+    "https://en.wikipedia.org/wiki/Liberty_Global"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q571779",
+   "country": "영국",
+   "inception": "2005",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Liberty Global」 본문과 위키데이터 Q571779 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

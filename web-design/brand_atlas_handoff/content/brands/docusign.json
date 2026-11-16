@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q5287613",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/docusign-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "docusign",
+  "urlSlug": "docusign",
+  "name": "Docusign",
+  "nameKo": "",
+  "nameEn": "Docusign",
+  "definition": "Docusign은 미국 샌프란시스코에 본사를 둔 소프트웨어 기업이다. 전자서명과 AI 기반 데이터 추출을 활용해 조직이 전자 계약과 계약 수명주기 절차를 관리하도록 돕는 제품을 제공한다.",
+  "summary": "Docusign은 미국 샌프란시스코에 본사를 둔 소프트웨어 기업이다. 전자서명과 AI 기반 데이터 추출을 활용해 조직이 전자 계약과 계약 수명주기 절차를 관리하도록 돕는 제품을 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "전자서명으로 출발해 AI 기반 데이터 추출과 계약 수명주기 관리, Intelligent Agreement Management로 영역을 넓힌 전자 계약 소프트웨어 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Docusign은 조직이 전자 계약과 계약 수명주기 절차를 관리할 수 있도록 전자서명과 AI 기반 데이터 추출을 갖춘 제품을 제공하는 미국의 소프트웨어 기업이다. 여러 기기에서 쓸 수 있으며, 2003년에 설립되어 캘리포니아주 샌프란시스코에 본사를 두고 있다. 2018년 4월 27일 나스닥에 상장했다. 2022년에는 Fast Company의 가장 혁신적인 엔터프라이즈 기술 기업 순위에서 6위에 올랐고, 전체 시장 점유율은 61%였다. 같은 해 9월 22일 Allan Thygesen이 CEO로 선임되어 10월 10일 취임했다. 2024년 4월에는 Intelligent Agreement Management라는 새로운 SaaS 범주를 열고 Docusign IAM 플랫폼을 출시한다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Docusign은 2003년 Court Lorenzini, Tom Gonser, Eric Ranft가 설립했다. Tom Gonser가 1998년 설립한 NetUpdate의 CEO로 있을 때 아이디어를 떠올렸다. NetUpdate가 인수한 시애틀의 전자서명 스타트업 DocuTouch는 웹 기반 디지털 서명과 협업에 관한 특허를 보유하고 있었고, Lorenzini가 DocuTouch의 일부 자산을 사들여 Docusign을 시작했다. 2005년 zipForm(현 zipLogix)이 가상 부동산 서식에 Docusign을 통합하면서 판매를 시작했다. 2010년 말까지 SaaS 기반 전자서명 시장의 73%를 처리했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Docusign은 전자서명과 AI 기반 데이터 추출로 전자 계약과 계약 수명주기를 관리하는 제품을 제공한다. 한때 자사 서비스를 'eSignature Transaction Management'라고 부르기 시작했다. 2012년 4월 PayPal과 맺은 협약으로 이용자는 서명과 결제를 한 번의 거래로 처리할 수 있게 되었고, 그 전에 Salesforce, Google Drive와도 비슷한 제휴를 맺었다. 2013년 1월에는 Equifax와 제휴해 미국 국세청에 보내는 세금 신고서 사본 요청서(Form 4506-T)의 전자 전달을 간소화했다. 2024년 4월에는 Intelligent Agreement Management 플랫폼인 Docusign IAM과 업무 부문별 신규 애플리케이션을 선보였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 4월 Intelligent Agreement Management라는 새로운 SaaS 범주를 열며 회사 전략을 크게 확장한다고 발표했다. 2022년 9월 22일 Allan Thygesen이 CEO로 선임되어 10월 10일 취임했다. 본사는 샌프란시스코에 있으며, 2018년 나스닥에 상장한 상장사이다. 2022년 Fast Company 순위에서 6위에 올랐고 시장 점유율은 61%였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "전자서명으로 출발해 AI 기반 데이터 추출과 계약 수명주기 관리, Intelligent Agreement Management로 영역을 넓힌 전자 계약 소프트웨어 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.docusign.com/",
+  "entityLinks": {
+   "wikidata": "Q5287613",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5287613",
+    "https://en.wikipedia.org/wiki/Docusign"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5287613",
+   "country": "미국",
+   "inception": "2003",
+   "headquarters": "샌프란시스코",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Docusign」 본문과 위키데이터 Q5287613 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q109030760",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/trump-media-technology-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "trump-media-technology-group",
+  "urlSlug": "trump-media-technology-group",
+  "name": "트럼프 미디어 & 테크놀로지 그룹",
+  "nameKo": "트럼프 미디어 & 테크놀로지 그룹",
+  "nameEn": "Trump Media & Technology Group",
+  "definition": "트럼프 미디어 & 테크놀로지 그룹(Trump Media & Technology Group)은 도널드 트럼프가 대주주로 소유한 미국의 미디어 및 기술 회사이다. 2022년 소셜 네트워크 트루스 소셜을 출시했고 2024년 3월 공개 회사가 되었다.",
+  "summary": "트럼프 미디어 & 테크놀로지 그룹(Trump Media & Technology Group)은 도널드 트럼프가 대주주로 소유한 미국의 미디어 및 기술 회사이다. 2022년 소셜 네트워크 트루스 소셜을 출시했고 2024년 3월 공개 회사가 되었다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 3.8666666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "도널드 트럼프가 대주주인 미국의 미디어 및 기술 회사로, 트루스 소셜을 출시했고 DWAC와의 합병을 통해 공개 회사가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TMTG는 미국의 미디어 및 기술 회사로, 도널드 트럼프 45대, 47대 미국 대통령이 대주주로 소유하고 있다. 2021년 설립되었으며 2022년 2월 소셜 네트워크인 트루스 소셜을 출시했다. 2022년 1월부터 데빈 누네스(Devin Nunes)가 최고경영자(CEO)를 맡았다. 기업인수목적회사인 DWAC(Digital World Acquisition Corp.)와 합병한 뒤 2024년 3월 26일 공개 회사가 되었다. 2024년 4월 미국 증권거래위원회(SEC)에 제출된 보고서에 따르면 TMTG는 2023년에 상당한 재정적 어려움을 겪었다. 회사의 회계법인은 사업 유지 능력에 대해 ‘상당한 의심’을 갖고 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2021년 설립된 이 회사는 2022년 1월부터 데빈 누네스가 최고경영자를 맡았고, 2022년 2월 소셜 네트워크인 트루스 소셜을 출시했다. 이후 기업인수목적회사인 DWAC(Digital World Acquisition Corp.)와 합병하는 절차를 거쳤다. 합병 후 2024년 3월 26일 공개 회사가 되었다. 2023년 11월 DWAC 재무 공개에 따르면 경영진은 청구서 지불 능력에 대해 ‘상당한 의심’을 갖고 있는 것으로 나타났다. 도널드 트럼프는 2023년 4월 개인 금융 공개에서 TMTG로부터 얻은 수입을 보고했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "TMTG는 2024년 3월 26일 공개 회사가 되었으며, 도널드 트럼프가 대주주로 회사를 소유하고 있다. 2024년 4월 미국 증권거래위원회(SEC)에 제출된 보고서에 따르면 회사는 2023년에 상당한 재정적 어려움을 겪었다. 회사의 회계법인은 사업 유지 능력에 대해 ‘상당한 의심’을 갖고 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "도널드 트럼프가 대주주인 미국의 미디어 및 기술 회사로, 트루스 소셜을 출시했고 DWAC와의 합병을 통해 공개 회사가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tmtgcorp.com/",
+  "entityLinks": {
+   "wikidata": "Q109030760",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q109030760",
+    "https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9F%BC%ED%94%84_%EB%AF%B8%EB%94%94%EC%96%B4_%26_%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Trump_Media_%26_Technology_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q109030760",
+   "country": "미국",
+   "inception": "2021",
+   "headquarters": "팜비치",
+   "founders": [
+    "도널드 트럼프",
+    "Andy Dean"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「트럼프 미디어 & 테크놀로지 그룹」 요약과 위키데이터 Q109030760 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

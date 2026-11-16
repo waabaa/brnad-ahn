@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q4811533",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/astrobotic-technology-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "astrobotic-technology",
+  "urlSlug": "astrobotic-technology",
+  "name": "Astrobotic Technology",
+  "nameKo": "",
+  "nameEn": "Astrobotic Technology",
+  "definition": "Astrobotic Technology는 달과 행성 탐사 임무를 위한 우주 로보틱스 기술을 개발하는 미국의 민간 기업이다. 미국 펜실베이니아주 피츠버그에 본사를 두고 있다.",
+  "summary": "Astrobotic Technology는 달과 행성 탐사 임무를 위한 우주 로보틱스 기술을 개발하는 미국의 민간 기업이다. 미국 펜실베이니아주 피츠버그에 본사를 두고 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Google Lunar X Prize 도전을 계기로 대학 연구진이 세운 달 탐사 전문 민간 기업으로, NASA의 CLPS 프로그램을 통해 달 착륙선을 발사했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Astrobotic은 달과 행성 탐사 임무에 쓰이는 우주 로보틱스 기술을 개발하는 미국의 민간 기업이다. 2007년 카네기멜론대학교 교수 Red Whittaker와 동료들이 Google Lunar X Prize 우승을 목표로 설립했으며, 본사는 펜실베이니아주 피츠버그에 있다. 2018년 11월 NASA의 Commercial Lunar Payload Services(CLPS) 입찰 자격을 얻었고, 이후 달 착륙선 발사와 로버 수송 계약을 수행하게 되었다. 2024년 1월 8일에는 CLPS 프로그램의 일환으로 Peregrine 달 착륙선을 처음 발사했으나, 달에 연착륙이나 경착륙을 하지 못했다. 2022년 9월에는 두 달 전 Chapter 11 파산 절차에 들어간 Masten Space Systems를 인수했다. 설립 이후 NASA의 여러 연구·시연 계약을 받으며 달 탐사 분야의 민간 사업자로 성장했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2007년 카네기멜론대학교 교수 Red Whittaker와 동료들이 Google Lunar X Prize 우승을 목표로 회사를 세웠다. 같은 해 팀은 달에 착륙하는 최초의 상업 운영 주체가 되겠다는 목표를 밝히고 Red Rover라는 우주선 시제품을 완성했으며, 구상 중이던 착륙선 이름을 Artemis Lander에서 Griffin으로 바꾸었다. 2012년 5월에는 David Gump가 사장직에서 물러나고 John Thornton이 그 자리를 이어받았다. 2016년 6월 Griffin의 새 설계를 발표하며 Peregrine이라 이름 붙였고, 같은 해 12월 예상 발사 시점을 2019년으로 미루면서 Google Lunar X Prize에서 이탈했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 사업은 달 착륙선과 탐사 로버 등 우주 로보틱스다. Peregrine은 2016년 Griffin 개념 착륙선의 새 설계로 발표된 달 착륙선이며, 2018년 11월 CLPS 입찰 자격을 얻은 뒤 US$79.5 million 규모의 계약으로 Lacus Mortis에 탑재체를 운반하는 임무를 맡기로 했다. 2020년 6월에는 CLPS 두 번째 계약을 받아 NASA가 US$199.5 million을 지급하고 VIPER 로버를 달로 운반하기로 했으나, 2024년 7월 NASA는 VIPER가 취소되었다고 발표했다. 2019년 9월에는 Spacebit이 영국 최초의 달 로버 Asagumo를 Astrobotic의 임무에 실어 보내기로 합의했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 1월 8일 Peregrine 착륙선이 Vulcan Centaur 로켓의 첫 비행에 실려 플로리다의 Space Force Station LC-41에서 발사되었으나, 달에 연착륙이나 경착륙을 하지 못했다. 같은 해 7월 NASA는 VIPER 취소를 발표했다. 2022년 9월에는 Masten Space Systems를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Google Lunar X Prize 도전을 계기로 대학 연구진이 세운 달 탐사 전문 민간 기업으로, NASA의 CLPS 프로그램을 통해 달 착륙선을 발사했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.astrobotic.com/",
+  "entityLinks": {
+   "wikidata": "Q4811533",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4811533",
+    "https://en.wikipedia.org/wiki/Astrobotic_Technology"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4811533",
+   "country": "미국",
+   "inception": "2007",
+   "headquarters": "피츠버그",
+   "founders": [
+    "Red Whittaker",
+    "John P. Thornton"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Astrobotic Technology」 본문과 위키데이터 Q4811533 팩트를 근거로 편집",
+  "founded": {
+   "date": "2007-11",
+   "precision": "month",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

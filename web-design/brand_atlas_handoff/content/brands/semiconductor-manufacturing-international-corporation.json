@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q648533",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/semiconductor-manufacturing-international-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "semiconductor-manufacturing-international-corporation",
+  "urlSlug": "semiconductor-manufacturing-international-corporation",
+  "name": "SMIC",
+  "nameKo": "SMIC",
+  "nameEn": "Semiconductor Manufacturing International Corporation",
+  "definition": "SMIC(Semiconductor Manufacturing International Corporation)는 중화인민공화국의 순수 반도체 파운드리 기업으로, 부분적으로 국영 기업으로 상장되어 있다. 중국 최대의 계약 칩 제조사이다.",
+  "summary": "SMIC(Semiconductor Manufacturing International Corporation)는 중화인민공화국의 순수 반도체 파운드리 기업으로, 부분적으로 국영 기업으로 상장되어 있다. 중국 최대의 계약 칩 제조사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "중국 최대의 계약 칩 제조사로, 부분적으로 국영 기업으로 상장된 순수 파운드리이며 미국 상무부의 블랙리스트에 오른 이력이 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "SMIC는 중화인민공화국 최대의 계약 칩 제조사로, 집적회로 제조 서비스를 제공하는 순수 파운드리 기업이다. 본사는 상하이시에 있으며 케이맨 제도에 법인이 있다. 중국 본토 전역에 웨이퍼 제조 현장을 두고 있으며, 미국, 이탈리아, 일본, 대만에 사무소를, 홍콩에 대표 사무소를 두고 있다. 2024년 1분기에 세계 파운드리 시장에서 TSMC, 삼성전자에 이어 3위를 차지했다. 2020년 9월 미국 상무부가 SMIC를 블랙리스트로 지정해 거래를 위해서는 특별 허가를 받도록 했다. 중국 정부는 '반도체 굴기 정책'을 통해 반도체 산업을 육성했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "SMIC는 2000년에 설립되었고, 창업자 중 한 명은 한때 TSMC에서 근무했던 Zhang Rujing이다. 2004년 홍콩 증권 거래소에 상장되었으며 공모 가격은 주당 HK$2.69였다. 2010년부터 손실을 흑자로 전환하기 시작했다. 2014년 12월에는 300억 위안의 산업자금을 지원받았고, 심천 웨이퍼 공장이 12월 말 공식 가동에 들어갔다. 2020년대 초에는 중국 국영 반도체 펀드와의 합작 투자를 통해 중국 전역에 4개의 28nm 공정 공장을 건설하며 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "SMIC는 350nm부터 7nm 공정 기술까지 집적회로(IC) 제조 서비스를 제공한다. 0.35 마이크론에서 14 나노미터에 이르는 웨이퍼 파운드리 및 기술 서비스를 공급하며, 제품군에는 로직 칩, 혼합 신호/RF 트랜시버 칩, 고전압 칩, 시스템 칩, 플래시 메모리 칩, EEPROM 칩, 이미지 센서 칩, LCoS 마이크로 디스플레이 칩이 포함된다. 2022년에는 EUV 없이 DUV 장비로 7nm 공정을 개발했고, 이후 5nm 공정도 개발한 것으로 알려졌다. 주목할 만한 고객으로는 화웨이, 퀄컴, 브로드컴, 텍사스 인스트루먼츠가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "다탕 텔레콤 그룹(Datang Telecom Group)과 중국 집적 회로 산업 투자 기금이 SMIC의 주요 주주이다. 2020년 9월 미국의 제재 이후 핵심 기술 인력의 이탈 현상이 발생했고, 2023년에는 화웨이가 SMIC의 7nm 공정 칩을 탑재한 스마트폰을 출시해 논란이 일었다. 7nm 공정과 관련해서는 제품 설계와 성능이 TSMC의 제품과 유사하다는 이유로 기술 도용 가능성이 제기되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국 최대의 계약 칩 제조사로, 부분적으로 국영 기업으로 상장된 순수 파운드리이며 미국 상무부의 블랙리스트에 오른 이력이 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.smics.com/",
+  "entityLinks": {
+   "wikidata": "Q648533",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q648533",
+    "https://ko.wikipedia.org/wiki/SMIC",
+    "https://en.wikipedia.org/wiki/Semiconductor_Manufacturing_International_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q648533",
+   "country": "중화인민공화국",
+   "inception": "2000",
+   "headquarters": "상하이시",
+   "founders": [
+    "Zhang Rujing"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「SMIC」 요약과 위키데이터 Q648533 팩트를 근거로 편집",
+  "founded": {
+   "date": "2000-04-03",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

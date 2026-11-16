@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1055390",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/cerner-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cerner",
+  "urlSlug": "cerner",
+  "name": "Cerner",
+  "nameKo": "",
+  "nameEn": "Cerner",
+  "definition": "Cerner는 미국 노스캔자스시티에 본사를 둔 보건 정보기술(HIT) 플랫폼·서비스 제공업체이다. 전자의무기록(EHR) 분야의 선도 기업이며, Oracle에 인수된 뒤 Oracle Health로 사명을 바꿨다.",
+  "summary": "Cerner는 미국 노스캔자스시티에 본사를 둔 보건 정보기술(HIT) 플랫폼·서비스 제공업체이다. 전자의무기록(EHR) 분야의 선도 기업이며, Oracle에 인수된 뒤 Oracle Health로 사명을 바꿨다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "Cerner는 전자의무기록(EHR)에 집중해 성장한 보건 IT 기업으로, Oracle에 인수되어 Oracle Health로 이어진 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Cerner는 병원과 의료기관이 쓰는 보건 정보기술 플랫폼과 서비스를 제공하는 미국의 다국적 기업이다. 본사는 노스캔자스시티에 있으며 1979년 Neal Patterson, Paul Gorup, Cliff Illig가 창업했다. 전자의무기록(EHR) 분야의 선도적 공급업체로 소개되며, 고객 수가 9.5 million을 넘는다. 대표 제품은 Cerner Millennium 플랫폼이다. 2022년 6월 Oracle Corporation이 인수를 마무리하면서 회사는 Oracle Health로 사명을 바꿨다. 이후에도 EHR을 중심으로 사업을 이어가며 AI 기반 소프트웨어로 제품 범위를 넓혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Cerner는 1979년 Arthur Andersen에서 동료로 일하던 Neal Patterson, Paul Gorup, Cliff Illig가 창업했다. 처음 이름은 PGI & Associates였으며, 1984년 첫 시스템 PathNet을 내놓으면서 Cerner로 바꿨다. 이름은 '나누다, 식별하다'를 뜻하는 라틴어 cernere에서 왔다. 1986년 상장했고, 고객 사이트는 1987년 70곳에서 1990년 250곳으로 늘었다. 설치는 주로 PathNet 시스템이었다. 1997년에는 모든 소프트웨어를 하나의 구조로 통합한 Cerner Millennium을 선보였고, 이 제품이 회사의 큰 성장에 기여했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 전자의무기록(EHR) 시스템인 Cerner Millennium 플랫폼이다. 이 제품은 의료 절차를 자동화하도록 설계된 통합 IT 시스템 Health Network Architecture(HNA)의 업그레이드로 나왔다. HNA는 구성 요소를 개별로 구매하거나 전체를 한 번에 구매할 수 있었고, 1994년까지 30곳이 넘는 고객이 전체 시스템을 구매했다. 2024년 6월에는 대화 기반 노트 작성을 지원하는 AI 기반 임상 에이전트와 빠른 데이터 접근을 위한 Oracle Clinical Digital Assistant를 내놓았다. 2025년 8월에는 EHR 제품군에 AI 기반 소프트웨어를 추가했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 12월 20일 Oracle Corporation이 Cerner 인수 계약을 발표했고, 거래는 2022년 6월 마무리되면서 회사는 Oracle Health로 사명을 바꿨다. 인수 발표 직전인 2021년 10월 1일 David Feinberg가 사장 겸 CEO를 맡았다. 이후 2024년 AI 기반 임상 에이전트를, 2025년 AI 기반 EHR 소프트웨어를 선보이며 AI 기능을 확대했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Cerner는 전자의무기록(EHR)에 집중해 성장한 보건 IT 기업으로, Oracle에 인수되어 Oracle Health로 이어진 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cerner.com/",
+  "entityLinks": {
+   "wikidata": "Q1055390",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1055390",
+    "https://en.wikipedia.org/wiki/Oracle_Health"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1055390",
+   "country": "미국",
+   "inception": "1979",
+   "headquarters": "노스캔자스시티",
+   "founders": [
+    "Neal Patterson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Oracle Health」 본문과 위키데이터 Q1055390 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

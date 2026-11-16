@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q2066858",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/perkinelmer-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "perkinelmer",
+  "urlSlug": "perkinelmer",
+  "name": "PerkinElmer",
+  "nameKo": "",
+  "nameEn": "PerkinElmer",
+  "definition": "PerkinElmer는 1937년에 설립된 미국의 글로벌 기업이다. 정밀 광학 사업에서 출발해 분석 기기, 진단, 생명과학 연구 분야로 사업을 넓혔다.",
+  "summary": "PerkinElmer는 1937년에 설립된 미국의 글로벌 기업이다. 정밀 광학 사업에서 출발해 분석 기기, 진단, 생명과학 연구 분야로 사업을 넓혔다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "PerkinElmer는 정밀 광학에서 출발해 군수, 반도체, 분석 기기, 진단까지 사업을 바꿔 온 기업이다. 두 차례의 분할로 이름과 사업이 나뉜 점도 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "PerkinElmer는 1937년 정밀 광학 제품을 만드는 회사로 출발한 미국 기업이다. 본사는 월섬에 있다. 오랜 기간 인수와 매각을 통해 방위 제품, 반도체, 컴퓨터 시스템 등 여러 사업에 진출했다가 철수했다. 21세기에는 진단, 생명과학 연구, 식품·환경·산업 분야 검사에 집중했다. 감지, 이미징, 정보학, 서비스 역량을 갖추었고 S&P 500 지수에 속했으며 190개국에서 사업을 했다. 2022년 회사가 분할되면서 PerkinElmer라는 이름은 응용·식품·기업 서비스 사업 쪽이 이어받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Richard Perkin은 브루클린의 Pratt Institute에서 화학공학을 공부하다 1년 만에 그만두고 월스트리트로 갔다. 그는 천문학 강연에서 법정 속기사용 물품 공급 회사를 운영하던 Charles Elmer를 만났고, 두 사람은 천문학에 대한 관심으로 친해져 정밀 광학 회사를 세우기로 했다. Perkin이 친척들에게서 US$15,000을, Elmer가 US$5,000을 마련해 1937년 4월 19일 동업 형태로 회사를 세웠다. 처음에는 맨해튼의 작은 사무실에서 일했고 곧 Jersey City에 생산 시설을 열었다. 1939년 12월 13일 법인으로 전환했고, 제2차 세계대전 중 거리측정기, 폭격조준기, 정찰 시스템용 광학 제품을 만들며 크게 성장해 1942년 미국 해군에서 첫 \"E\" for Excellence 상을 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 PerkinElmer는 정밀 광학 제품을 만들었고 거리측정기, 폭격조준기, 정찰 시스템용 광학 장비를 공급했다. 1960년대까지 군수 분야에 강했으며 항공기, 고고도 기구, 정찰 위성에 쓰인 광학 시스템의 주요 공급업체였다. 1955년의 Transverse Panoramic Camera는 고도 40,000 ft를 나는 항공기에서 수평선에서 수평선까지 한 장에 담는 영상을 촬영했다. 또한 OAO-3 자외선 우주망원경과 Skylab에 관여했고 Apollo 11 임무의 달 레이저 역반사기 설치에도 참여했다. 1967년에는 미국 공군의 요청으로 반도체 제조용 전광학식 마스킹 시스템을 개발하기 시작했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 분할로 PerkinElmer는 두 부분으로 나뉘었다. 응용·식품·기업 서비스 사업은 사모펀드 New Mountain Capital에 $2.45 billion에 매각되어 비상장이 되었고 PerkinElmer 이름을 유지했다. 생명과학·진단 사업은 상장 상태로 남았으며 2023년 새 이름 Revvity, Inc.가 발표되었다. 앞서 1999년에도 EG&G와 합병하면서 분석기기 사업이 Perkin-Elmer 이름을 유지하고 생명과학 부문은 PE Corporation으로 분리된 적이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "PerkinElmer는 정밀 광학에서 출발해 군수, 반도체, 분석 기기, 진단까지 사업을 바꿔 온 기업이다. 두 차례의 분할로 이름과 사업이 나뉜 점도 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.perkinelmer.com/",
+  "entityLinks": {
+   "wikidata": "Q2066858",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2066858",
+    "https://en.wikipedia.org/wiki/PerkinElmer"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2066858",
+   "country": "미국",
+   "inception": "1937",
+   "headquarters": "월섬",
+   "founders": [
+    "Richard Scott Perkin"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「PerkinElmer」 본문과 위키데이터 Q2066858 팩트를 근거로 편집",
+  "founded": {
+   "date": "1937-04-19",
+   "precision": "day",
+   "sources": [
+    "text"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

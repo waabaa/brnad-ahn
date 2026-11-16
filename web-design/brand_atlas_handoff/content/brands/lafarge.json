@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1144929",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/lafarge-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lafarge",
+  "urlSlug": "lafarge",
+  "name": "Lafarge",
+  "nameKo": "",
+  "nameEn": "Lafarge",
+  "definition": "Lafarge는 시멘트, 건설용 골재, 콘크리트를 전문으로 하는 프랑스의 산업 기업이다. 1833년에 설립되어 파리에 본사를 두었으며 Holcim Group에 속한다.",
+  "summary": "Lafarge는 시멘트, 건설용 골재, 콘크리트를 전문으로 하는 프랑스의 산업 기업이다. 1833년에 설립되어 파리에 본사를 두었으며 Holcim Group에 속한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "Lafarge는 1833년 프랑스에서 출발해 세계 최대 시멘트 제조업체로 성장한 뒤 Holcim Group의 일부가 된 시멘트·골재·콘크리트 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Lafarge는 시멘트, 건설용 골재, 콘크리트를 다루는 프랑스의 산업 기업이다. 세계 최대의 시멘트 제조업체로 소개되며, 1833년 Joseph-Auguste Pavin de Lafarge가 창업했다. 2015년 Holcim과 합병해 LafargeHolcim이라는 새 회사가 만들어졌고, 이 회사는 2021년 Holcim Group으로 이름을 바꿨다. 현재 Lafarge는 Holcim Group의 일부이다. 한편 Lafarge는 시리아 시멘트 공장의 가동을 유지하기 위해 2013년부터 2014년까지 Islamic State와 al-Nusra Front에 자금을 지급했고, 이 일로 테러 자금 조달과 반인도적 범죄 공모 혐의에 대해 미국 법무부에서 유죄 판결을 받았다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Lafarge는 1833년 Joseph-Auguste Pavin de Lafarge가 프랑스 Ardèche의 Le Teil에서 창업했다. Le Teil과 Viviers 사이에 있는 Mont Saint-Victor의 석회암 채석장을 개발하기 위해서였고, 이곳의 석회암은 수경성이 뛰어난 석회를 생산했다. 1864년에는 수에즈 운하 건설 사업에 석회 110,000톤을 공급하는 첫 국제 계약을 체결했다. 1980년 벨기에의 Coppée와 합쳐 SA Lafarge Coppée가 되었고, 2001년 영국의 Blue Circle Industries를 인수해 세계 최대 시멘트 제조업체가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 시멘트, 건설용 골재, 콘크리트이다. 2008년에는 인도의 Larsen & Toubro Ready Mix-Concrete(RMC) 사업을 인수했다. 지붕재 사업부는 2007년 사모펀드 그룹에 매각했으며, 이때 35% 지분을 유지했다. 석고 사업도 운영했으나 2015년 초 유럽, 남미, 아시아, 호주의 석고 사업 대부분을 매각했다. 2022년 Lafarge Egypt는 탄소 발자국을 40% 낮춘 친환경 조적용 시멘트 \"Shatbna\"를 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Lafarge는 Holcim Group의 일부이다. 2015년 Holcim과 합병해 LafargeHolcim이 되었고 2021년 Holcim Group으로 이름을 바꿨다. 1991년부터 그리스의 Heracles General Cement를 전액 소유하고 있으며, 2024년 9월에는 세르비아 Obrenovac 인근 Ratari에 새 시멘트 공장을 짓고 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Lafarge는 1833년 프랑스에서 출발해 세계 최대 시멘트 제조업체로 성장한 뒤 Holcim Group의 일부가 된 시멘트·골재·콘크리트 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lafarge.com",
+  "entityLinks": {
+   "wikidata": "Q1144929",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1144929",
+    "https://en.wikipedia.org/wiki/Lafarge_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1144929",
+   "country": "프랑스",
+   "inception": "1833",
+   "headquarters": "파리",
+   "founders": [],
+   "parent": "Holcim Group",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Lafarge (company)」 본문과 위키데이터 Q1144929 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

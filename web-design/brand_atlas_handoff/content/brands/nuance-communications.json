@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1137289",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/nuance-communications-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nuance-communications",
+  "urlSlug": "nuance-communications",
+  "name": "뉘앙스 커뮤니케이션즈",
+  "nameKo": "뉘앙스 커뮤니케이션즈",
+  "nameEn": "Nuance Communications",
+  "definition": "뉘앙스 커뮤니케이션즈(Nuance Communications)는 미국의 음성 인식 엔진 개발 회사이다. 시리의 음성 인식 엔진을 공급하는 것으로 유명하며, 본사는 Burlington에 있다.",
+  "summary": "뉘앙스 커뮤니케이션즈(Nuance Communications)는 미국의 음성 인식 엔진 개발 회사이다. 시리의 음성 인식 엔진을 공급하는 것으로 유명하며, 본사는 Burlington에 있다.",
+  "industry": "AI·인공지능",
+  "domainSlug": "ai",
+  "tier": "C_source_backed",
+  "rating": 3.783333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "시리의 음성 인식 엔진을 공급하는 것으로 유명한 음성 인식 전문 회사이다. 음성인식을 넘어 자연 언어를 인식해 구문을 텍스트로 전환하는 기술을 제공한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 1992년에 설립된 미국의 음성 인식 엔진 개발 회사로, 본사는 Burlington에 있고 모기업은 마이크로소프트이다. 시리의 음성 인식 엔진을 공급하는 회사로 유명하다. 2010년에는 구글이 세계 1위인 이 회사의 기술로 음성검색 서비스를 제공했다. 이 회사의 제품은 단순한 음성인식을 넘어 자연 언어를 인식해 구문을 텍스트로 전환할 수 있다. 한국에서는 2000년에 한국지사인 뉘앙스 커뮤니케이션즈 코리아가 설립되었고, 2007년에 처음으로 한국어 딕테이션 프로젝트를 시작했다. 2011년에는 드래곤 딕테이션과 드래곤 서치를 애플 앱스토어를 통해 한국에 정식으로 서비스한다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1992년 미국에서 설립되었다. 음성인식 기술이 PC에 적용된 최초의 사례는 1980년대 초 드래곤 시스템(Dragon Systems)이 개발한 도스용 프로그램 드래곤 딕테이트(DragonDictate)이다. 2000년에는 한국지사인 뉘앙스 커뮤니케이션즈 코리아가 설립되었으며, 2007년에 처음으로 한국어 딕테이션 프로젝트를 시작했다. 2010년 구글은 세계 1위인 이 회사의 기술로 음성검색 서비스를 제공했다. 이 회사의 제품은 음성인식을 넘어 자연 언어를 인식해 구문을 텍스트로 전환할 수 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2011년 5월 1일 이 회사는 드래곤 딕테이션과 드래곤 서치를 애플 앱스토어를 통해 한국에 정식으로 서비스한다고 발표했다. 드래곤 딕테이션은 한국어 받아쓰기 앱으로, 열 문장 가까이를 쉬지 않고 말하면 90% 가까운 정확도로 말이 장문의 문자로 표시된다. 2011년 6월 13일에는 드래곤 네이처널리스피킹 11.5를 출시했다. 이 버전은 홈(99.99달러), 프리미엄(199.99달러), 프로페셔널(599.99달러), 리갈(799.99달러)로 판매된다. 시리의 음성 인식 엔진도 이 회사가 공급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 모기업은 마이크로소프트이며, 본사는 미국의 Burlington에 있다. 1992년에 설립되었으며, 시리의 음성 인식 엔진을 공급하는 것으로 유명하다. 음성인식을 넘어 자연 언어를 인식해 구문을 텍스트로 전환하는 제품을 제공한다. 구글이 2010년 음성검색 서비스에 이 회사의 기술을 사용한 사례도 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시리의 음성 인식 엔진을 공급하는 것으로 유명한 음성 인식 전문 회사이다. 음성인식을 넘어 자연 언어를 인식해 구문을 텍스트로 전환하는 기술을 제공한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nuance.com/",
+  "entityLinks": {
+   "wikidata": "Q1137289",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1137289",
+    "https://ko.wikipedia.org/wiki/%EB%89%98%EC%95%99%EC%8A%A4_%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Nuance_Communications"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1137289",
+   "country": "미국",
+   "inception": "1992",
+   "headquarters": "Burlington",
+   "founders": [],
+   "parent": "마이크로소프트",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「뉘앙스 커뮤니케이션즈」 요약과 위키데이터 Q1137289 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

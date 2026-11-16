@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q3344170",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/upwork-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "upwork",
+  "urlSlug": "upwork",
+  "name": "업워크",
+  "nameKo": "업워크",
+  "nameEn": "Upwork",
+  "definition": "업워크(Upwork)는 기업과 프리랜서 전문가가 온라인에서 소통하고 원격으로 협력하도록 연결하는 글로벌 프리랜서 플랫폼이다. 공식 명칭은 Upwork Global Inc이다.",
+  "summary": "업워크(Upwork)는 기업과 프리랜서 전문가가 온라인에서 소통하고 원격으로 협력하도록 연결하는 글로벌 프리랜서 플랫폼이다. 공식 명칭은 Upwork Global Inc이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.8166666666666664,
+  "image": "",
+  "logo": "",
+  "insight": "Elance와 oDesk의 합병에서 출발해 단일 프리랜스 시장으로 통합된 글로벌 프리랜서 플랫폼이며, Fiverr과 함께 가장 큰 시장으로 꼽힌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "업워크는 기업과 프리랜서 전문가들이 소통하고 원격으로 협력하는 글로벌 프리랜서 플랫폼이다. 공식적인 명칭은 Upwork Global Inc이며, 캘리포니아의 마운티뷰와 샌프란시스코를 기반으로 한다. 본사는 미국 팰로앨토로 기록되어 있다. 2015년 Elance-oDesk가 Upwork로 명칭을 바꾸면서 출범했고, Elance와 oDesk를 하나로 합쳐 단일 프리랜스 시장을 만드는 것을 목표로 했다. 2017년 3월 기준 180개국 1,400만 사용자의 연간 프리랜싱 매출이 10억 달러로 보고되었다. Fiverr과 함께 가장 큰 프리랜서 시장 중 하나로 자리매김하는 중이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "업워크의 뿌리는 두 회사에 있다. Elance는 1999년 Beerud Sheth와 Srini Anumolu에 의해 설립되었고, oDesk는 2003년 Odysseas Tsatalos와 Stratis Karamanlakis에 의해 설립되었다. 두 회사는 2013년 12월 18일 합병을 발표하며 Elance-oDesk를 만들었다. 합병 발표 18개월 후 Upwork가 설립되었고, 출시와 함께 oDesk 플랫폼은 업그레이드되어 브랜드 명칭이 바뀌었다. 회사는 Elance 플랫폼을 수년 내에 단계적으로 철수해 단일 프리랜스 시장을 만들겠다고 발표했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "업워크는 기업이 프리랜서 전문가를 찾아 원격으로 협력할 수 있게 하는 프리랜서 플랫폼을 운영한다. 기업과 프리랜서가 하나의 플랫폼에서 소통하며 일을 진행하는 구조이다. 매년 3백만 업무가 등록되는 것으로 보고되며, 2017년 3월 기준 사용자는 180개국에 걸쳐 있었다. 이 플랫폼은 oDesk 플랫폼을 업그레이드한 형태로 출시되었고, Elance 플랫폼은 수년 내에 단계적으로 철수하도록 계획되었다. Fiverr과 함께 가장 큰 프리랜서 시장 중 하나로 꼽힌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "업워크의 공식 명칭은 Upwork Global Inc이다. 2017년 3월 기준 180개국 1,400만 사용자를 보유하고 연간 프리랜싱 매출이 10억 달러로 보고되었다. 다른 수치로는 등록된 프리랜서 1천 2백만명이 제시된다. 현재 Fiverr과 함께 가장 큰 프리랜서 시장 중 하나로 자리매김하는 중이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Elance와 oDesk의 합병에서 출발해 단일 프리랜스 시장으로 통합된 글로벌 프리랜서 플랫폼이며, Fiverr과 함께 가장 큰 시장으로 꼽힌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.upwork.com/",
+  "entityLinks": {
+   "wikidata": "Q3344170",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3344170",
+    "https://ko.wikipedia.org/wiki/%EC%97%85%EC%9B%8C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Upwork"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3344170",
+   "country": "미국",
+   "inception": "2015",
+   "headquarters": "팰로앨토",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「업워크」 요약과 위키데이터 Q3344170 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

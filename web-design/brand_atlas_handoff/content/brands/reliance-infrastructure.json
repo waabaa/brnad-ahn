@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q116331",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/reliance-infrastructure-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "reliance-infrastructure",
+  "urlSlug": "reliance-infrastructure",
+  "name": "Reliance Infrastructure",
+  "nameKo": "",
+  "nameEn": "Reliance Infrastructure",
+  "definition": "Reliance Infrastructure(R-Infra)는 인도의 민간 기업으로, 발전·인프라·건설·방위 분야에 관여한다. Reliance Group에 속하며 2002년 Bombay Suburban Electric Supply를 인수한 Reliance Energy Limited에서 출발했다.",
+  "summary": "Reliance Infrastructure(R-Infra)는 인도의 민간 기업으로, 발전·인프라·건설·방위 분야에 관여한다. Reliance Group에 속하며 2002년 Bombay Suburban Electric Supply를 인수한 Reliance Energy Limited에서 출발했다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "Bombay Suburban Electric Supply를 이은 전력 사업에서 출발해 도로, 지하철, 공항, 방위로 영역을 넓힌 Reliance Group 계열의 인도 인프라 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Reliance Infrastructure는 전력 발전, 인프라, 건설, 방위 분야에 관여하는 인도의 민간 기업이며 본사는 Navi Mumbai에 있다. 발전소, 지하철, 공항, 교량, 유료도로, 방위 분야에 사업 이해관계를 두고 있으며 같은 그룹 회사인 Reliance Power의 주요 주주이기도 하다. 회장은 Anil Ambani이고, 최고경영자는 2019년 4월 6일부터 Punit Narendra Garg가 맡고 있다. 2019년 Fortune India 500 목록에서 인도 내 51위 기업으로 평가되었고 'Infrastructure Development' 부문에서는 1위였다. 2018년 3월 기준으로 계열사 56개, 관계사 8개, 합작법인 2개를 두었다. 모기업은 Reliance Anil Dhirubhai Ambani Group이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신인 Reliance Energy Limited는 2002년 83년 된 정부 사업체 Bombay Suburban Electric Supply(BSES)를 인수하며 출범했다. BSES는 1929년 10월에 설립되었다. 2008년 4월 Reliance Energy Limited는 Reliance Infrastructure Limited로 사명을 바꿨다. 2006년에는 Tamil Nadu의 National Highway 프로젝트 두 건으로 도로 건설 분야에 진입했으며, 두 구간 모두 National Highway 44의 일부이다. 2011년에는 도로 사업을 수행하지 못하는 회사들의 면허를 사들일 계획이 있다고 알려졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업 분야는 발전소, 지하철, 공항, 교량, 유료도로, 방위이다. 델리에서는 BSES Rajdhani Power Limited와 BSES Yamuna Power Limited가 각각 델리 남부·서부와 중부·동부에 전력을 공급하며, 두 회사는 Reliance Infrastructure와 델리 정부가 51 대 49 비율로 세운 합작 법인이다. 공항 부문에서는 자회사 Reliance Airport Developers Limited를 통해 Maharashtra의 소규모 공항 다섯 곳을 운영했고, 2019년 3월 Airports Authority of India로부터 Gujarat의 Rajkot Greenfield Airport 건설 계약을 받았다. 지하철 부문에서는 R-Infra가 이끄는 컨소시엄이 Mumbai Metro Line-1의 Versova-Andheri-Ghatkopar 구간 계약을 따냈으며 이 노선은 운영 중이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 9월 재무적 압박이 있던 시기에 Mumbai의 송전 사업을 Adani Electricity Mumbai Limited에 매각했다. 2024년 10월 이사회는 10년 만기 무담보 외화 전환사채(FCCB)로 $350 million을 조달하는 안을 승인했다. 임직원 주식매수선택권(ESOP) 제도도 승인했으며, 최대 26 million 주의 지급이 가능하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Bombay Suburban Electric Supply를 이은 전력 사업에서 출발해 도로, 지하철, 공항, 방위로 영역을 넓힌 Reliance Group 계열의 인도 인프라 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rinfra.com/",
+  "entityLinks": {
+   "wikidata": "Q116331",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q116331",
+    "https://en.wikipedia.org/wiki/Reliance_Infrastructure"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q116331",
+   "country": "인도",
+   "inception": "2002",
+   "headquarters": "뭄바이",
+   "founders": [],
+   "parent": "Reliance Anil Dhirubhai Ambani Group",
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Reliance Infrastructure」 본문과 위키데이터 Q116331 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

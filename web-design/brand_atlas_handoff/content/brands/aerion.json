@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q381134",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "aerion",
+  "urlSlug": "aerion",
+  "name": "Aerion",
+  "nameKo": "",
+  "nameEn": "Aerion",
+  "definition": "Aerion은 미국 네바다주 리노에 본사를 둔 항공기 제조사였다. 10인승 초음속 비즈니스 제트기를 개발하다 2021년 필요한 자금을 마련하지 못해 가동을 중단했다.",
+  "summary": "Aerion은 미국 네바다주 리노에 본사를 둔 항공기 제조사였다. 10인승 초음속 비즈니스 제트기를 개발하다 2021년 필요한 자금을 마련하지 못해 가동을 중단했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.7,
+  "image": "",
+  "logo": "",
+  "insight": "초음속 비즈니스 제트기 상용화를 목표로 boomless cruise 기술과 자연층류 날개 설계를 내세웠으나 2021년 자본 조달에 실패해 문을 닫은 항공기 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Aerion은 미국의 항공기 제조사로, 네바다주 리노에 본사를 두었다. 포트워스 출신의 Robert Bass가 초음속 항공 기술의 상업화를 목표로 세운 스타트업으로 출발했다. 2004년부터 2021년까지 대서양 횡단 비행 시간을 3시간 줄이는 10인승 초음속 제트기를 개발했다. 소닉붐을 상쇄하는 'boomless cruise' 기술을 적용했고, 애프터버너 없이 비행하는 최초의 초음속 항공기이자 바이오연료로 운항하는 최초의 초음속 항공기가 되는 것을 목표로 했다. 2021년 5월 21일 필요한 자본을 조달하지 못해 사업을 중단한다고 갑작스럽게 발표했다. 현재는 운영되지 않는 회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Aerion은 텍사스 포트워스의 Robert Bass가 설립한 회사로, 초음속 항공 기술을 상업화하는 스타트업으로 출발했다. 2004년에 초음속 비즈니스 제트기 개발을 시작했다. 2011년 5월에는 자연층류(NLF) 설계 전문성에 대한 여러 항공기 제조사의 수요가 늘자 전액 출자 자회사 Aerion Technologies Corporation을 세웠다. 2018년 3월에는 Northrop Grumman Aerospace Systems 부문 전 사장 Tom Vice가 사장 겸 COO에 임명되었고, 이듬해 Boeing과의 협력 발표와 함께 Robert Bass를 대신해 이사회 의장도 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 프로젝트는 2004년 공개한 초음속 비즈니스 제트기 Aerion SBJ이다. Pratt & Whitney JT8D-219 엔진 2기를 쓰고 8~12명을 태워 마하 1.6으로 비행하는 설계였다. 2014년 5월에는 이를 키워 재설계한 Aerion AS2를 발표했다. AS2는 12인승에 마하 1.4를 목표로 했고, 초음속 자연층류 날개를 적용했다. 엔진으로는 General Electric Affinity가 2018년 10월 공개되었고, 협력사는 Airbus, Lockheed Martin, Boeing 순으로 바뀌었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 5월 21일 사업을 접을 당시 AS2는 대당 US$120 million 가격에 93건의 주문을 확보하고 있었고, 수주 잔고는 $11.2 billion이었다. 그러나 인증과 생산 착수에 필요하다고 추산한 US$4 billion 중 일부만 마련한 상태였다. 회사는 고객 예치금을 반환하겠다고 밝혔다. 2021년 6월 Boeing CEO Dave Calhoun은 시장 규모, 자본 수익, 기존 핵심 사업에 대한 기술 기여 면에서 초음속 사업이 기준에 맞지 않아 지원을 멈췄다고 설명했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "초음속 비즈니스 제트기 상용화를 목표로 boomless cruise 기술과 자연층류 날개 설계를 내세웠으나 2021년 자본 조달에 실패해 문을 닫은 항공기 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.aerionsupersonic.com/",
+  "entityLinks": {
+   "wikidata": "Q381134",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q381134",
+    "https://en.wikipedia.org/wiki/Aerion"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q381134",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "리노",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Aerion」 본문과 위키데이터 Q381134 팩트를 근거로 편집"
+ }
+}

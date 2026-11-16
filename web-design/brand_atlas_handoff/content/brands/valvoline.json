@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q16531742",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/valvoline-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "valvoline",
+  "urlSlug": "valvoline",
+  "name": "Valvoline",
+  "nameKo": "",
+  "nameEn": "Valvoline",
+  "definition": "Valvoline은 미국 켄터키주 렉싱턴에 본사를 둔 자동차 리테일 서비스 기업이다. Valvoline Instant Oil Change 등 오일 교환 및 차량 정비 체인을 소유한다.",
+  "summary": "Valvoline은 미국 켄터키주 렉싱턴에 본사를 둔 자동차 리테일 서비스 기업이다. Valvoline Instant Oil Change 등 오일 교환 및 차량 정비 체인을 소유한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.7666666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "1866년 John Ellis가 세운 회사의 윤활유 상표에서 출발해, 현재는 미국 2위 오일 교환 서비스 업체로 자리한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Valvoline은 미국 켄터키주 렉싱턴에 본사를 둔 자동차 리테일 서비스 기업이다. Valvoline 상표가 붙은 자동차용 오일, 첨가제, 윤활유에 대해 이름을 사용하도록 허가한다. Valvoline Instant Oil Change, Great Canadian Oil Change, Valvoline Express Care 차량 정비 체인도 소유한다. 2023년 기준 미국에서 두 번째로 큰 오일 교환 서비스 업체이며, 점유율은 10%, 매장은 1,650곳 이상이다. 역사는 1866년으로 거슬러 올라가며, 2017년 Ashland Inc.에서 분사해 독립 회사가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1860년대 초 매사추세츠 출신 의사 John Ellis는 미국 석유 산업의 초기 중심지였던 펜실베이니아주 Titusville을 찾아 원유를 의약 소재로 연구했다. 그러나 그는 원유가 기계용 윤활제로 뛰어나다는 점을 발견했고, 원유의 윤활 성질을 개선하는 장비를 직접 만들었다. 1866년 뉴욕주 Binghamton에 정유소를 가진 아내의 친척과 함께 Continuous Oil Refining Company를 세워 증기기관용 석유 윤활제를 생산했다. 처음에는 제품 이름이 Binghamton Cylinder Oil이었으나 2년 뒤 더 간단하고 기억하기 쉬운 Valvoline으로 바꿨다. 1869년 회사를 Brooklyn으로 옮겼고, 1949년 Ashland Inc.가 Freedom-Valvoline Company를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 Valvoline 상표가 붙은 자동차용 오일, 첨가제, 윤활유이다. 서비스 사업으로는 Valvoline Instant Oil Change, Great Canadian Oil Change, Valvoline Express Care 차량 정비 체인을 소유한다. General Motors의 Chevrolet, Buick, Cadillac 등 모든 브랜드와 Honda Motor Company 계열의 Honda, Acura 자동차에 공식 권장 연료 및 모터오일로 지정되어 있다. 오토바이는 Honda 브랜드에 한해 해당된다. NASCAR를 1981년부터 어떤 형태로든 후원해 왔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Valvoline은 2016년 9월 22일 뉴욕증권거래소에서 기업공개를 마쳤고, 2017년 5월 5일 Ashland로부터 독립 회사로 분사되었다. 2022년 8월 1일 Saudi Aramco가 Valvoline의 윤활유 사업부 인수를 발표했다. 2023년 기준 미국에서 두 번째로 큰 오일 교환 서비스 업체이며, 점유율은 10%, 매장은 1,650곳 이상이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1866년 John Ellis가 세운 회사의 윤활유 상표에서 출발해, 현재는 미국 2위 오일 교환 서비스 업체로 자리한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.valvoline.com/",
+  "entityLinks": {
+   "wikidata": "Q16531742",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16531742",
+    "https://en.wikipedia.org/wiki/Valvoline"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16531742",
+   "country": "미국",
+   "inception": "1866",
+   "headquarters": "렉싱턴",
+   "founders": [],
+   "parent": "애슐랜드 글로벌",
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Valvoline」 본문과 위키데이터 Q16531742 팩트를 근거로 편집",
+  "founded": {
+   "date": "1866-09-06",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

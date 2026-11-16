@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-15",
+ "qid": "Q1166056",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/go-ahead-group-plc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "go-ahead-group-plc",
+  "urlSlug": "go-ahead-group-plc",
+  "name": "Go-Ahead Group plc",
+  "nameKo": "",
+  "nameEn": "Go-Ahead Group plc",
+  "definition": "Go-Ahead Group plc는 영국 뉴캐슬어폰타인에 본사를 둔 다국적 운송 그룹이다. 영국 내 버스·철도 사업을 중심으로 아일랜드, 오스트레일리아, 싱가포르, 노르웨이에서도 운행한다.",
+  "summary": "Go-Ahead Group plc는 영국 뉴캐슬어폰타인에 본사를 둔 다국적 운송 그룹이다. 영국 내 버스·철도 사업을 중심으로 아일랜드, 오스트레일리아, 싱가포르, 노르웨이에서도 운행한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.716666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Go-Ahead Group은 영국 국영 버스 회사의 민영화에서 출발해 버스와 철도를 함께 운영하며 영국 밖으로 사업을 넓힌 운송 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Go-Ahead Group plc는 영국 뉴캐슬어폰타인에 본사를 둔 다국적 운송 그룹이다. 사업의 대부분은 영국 내에서 이루어지며, 아일랜드, 오스트레일리아, 싱가포르, 노르웨이에서도 서비스를 운영한다. 1987년 영국 국영 버스 회사(National Bus Company)의 민영화 과정에서 출범했고, 버스 사업을 바탕으로 철도 분야로 영역을 넓혔다. 한때 런던 증권거래소에 상장되어 있었으나 2022년까지 Kinetic Group과 Globalvia에 인수되면서 상장사 지위를 잃었다. 현재는 두 회사가 지분을 나누어 보유하는 구조로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Go-Ahead Group은 1987년 2월 17일 Go-Ahead Northern Limited라는 이름으로 설립되었다. National Bus Company의 민영화 때 Martin Ballinger와 Chris Moyes가 이끄는 경영진이 일부 매수에 참여해 게이츠헤드에 기반을 둔 북부 사업부 Northern General Transport Company를 인수한 것이 시작이었다. 초기에는 잉글랜드 북동부의 소규모 경쟁 버스 사업자를 잇달아 인수했고 National Express의 하청 운행도 맡았다. 1993년 Brighton & Hove를 첫 대형 인수로 사들였고, 1994년 Oxford Bus Company 등을 인수한 뒤 같은 해 5월 런던 증권거래소에 상장했다. 이후 런던 버스 민영화 과정에서 London Central과 London General을 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Go-Ahead Group의 중심 사업은 버스 운행이다. Brighton & Hove, Oxford Bus Company, London Central, London General, Metrobus 등을 인수하며 버스 사업망을 넓혔다. 1996년 10월 Thames Trains 프랜차이즈 운영으로 영국 철도 분야에 진출했고, 합작사 Govia를 통해 Thameslink, Southeastern, London Midland 운영권을 확보했다. 1990년대 말부터 2000년대 초에는 Gatwick Handling International 등을 인수해 공항 지상조업으로 사업을 다각화했으나, 2010년 공항 사업을 매각했다. 2015년 말에는 독일과 싱가포르에서 버스·철도 서비스 운영 계약을 맺었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 9월 28일 영국 교통부(Department for Transport)는 재무 관련 부정 행위가 발견되었다는 이유로 Go-Ahead의 Southeastern 프랜차이즈를 종료했다. 2022년 8월 오스트레일리아의 Kinetic Group(51%)과 스페인의 Globalvia(49%)로 이루어진 컨소시엄이 회사 가치를 £669 million으로 평가해 인수했다. 2023년 1월에는 엔지니어링 회사 UGL과 U-Go Mobility 합작사를 설립해 오스트레일리아 시장으로 진출한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Go-Ahead Group은 영국 국영 버스 회사의 민영화에서 출발해 버스와 철도를 함께 운영하며 영국 밖으로 사업을 넓힌 운송 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://go-ahead.com",
+  "entityLinks": {
+   "wikidata": "Q1166056",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1166056",
+    "https://en.wikipedia.org/wiki/Go-Ahead_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1166056",
+   "country": "영국",
+   "inception": "1987",
+   "headquarters": "뉴캐슬어폰타인",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-15"
+  },
+  "sourceNote": "영문 위키백과 「Go-Ahead Group」 본문과 위키데이터 Q1166056 팩트를 근거로 편집",
+  "founded": {
+   "date": "1987-02-17",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-15"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q63335",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/foot-locker-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "foot-locker",
+  "urlSlug": "foot-locker",
+  "name": "풋 로커",
+  "nameKo": "풋 로커",
+  "nameEn": "Foot Locker",
+  "definition": "풋 로커(Foot Locker)는 미국 뉴욕 맨해튼에 본사를 둔 신발 제조 및 판매업체이다. 운동화 소매점 체인을 중심으로 스포츠 기반 사업을 운영하며 28개국에서 사업을 하고 있다.",
+  "summary": "풋 로커(Foot Locker)는 미국 뉴욕 맨해튼에 본사를 둔 신발 제조 및 판매업체이다. 운동화 소매점 체인을 중심으로 스포츠 기반 사업을 운영하며 28개국에서 사업을 하고 있다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.85,
+  "image": "",
+  "logo": "",
+  "insight": "운동화 소매점 체인을 중심으로 여러 스포츠 소매 브랜드를 거느리며, 직원 유니폼이 심판 유니폼을 닮은 것으로 유명한 신발 소매업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "풋 로커는 미국의 신발 제조 및 판매업체로, 뉴욕주 뉴욕 맨해튼에 본사를 두고 있다. 28개국에서 사업을 운영하며, 매장은 주로 쇼핑몰 입점 형태이다. 취급 품목의 70%에 육박하는 비중이 나이키 사의 제품이다. 주력 체인인 풋 로커는 직원 유니폼이 심판 유니폼을 닮은 것으로도 유명하다. 1974년 창립 이후 1988년 별도 법인으로 설립되었으나 회사의 뿌리는 1879년으로 거슬러 올라간다. 풋 로커는 2011년 446위에서 2018년 363위로 Fortune 500 순위가 꾸준히 올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "풋 로커는 1963년 울워스가 Kinney Shoe를 자회사로 인수한 뒤, Kinney가 1974년 9월 12일 풋 로커를 포함한 전문 신발 매장에 진출하면서 시작되었다. 첫 매장은 캘리포니아주 City of Industry의 Puente Hills Mall에 문을 열었다. 1988년 F.W. 울워스는 뉴욕주에 울워스 주식회사라는 별도의 회사를 설립해 풋 로커 매장 운영을 맡겼고, 이때 Champs Sports를 인수해 울워스 애슬레틱 그룹으로 이름을 바꿨다. 울워스 주식회사는 1998년 Venator Group, Inc.로 사명을 바꿨고, 풋 로커 브랜드가 최상위 성과를 내자 2001년 11월 2일 풋 로커 주식회사로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 회사명을 그대로 사용한 운동화 소매점 체인 풋 로커이며, 키즈 풋 로커와 레이디 풋 로커 매장도 있다. 그 밖에 Champs Sports, Footaction USA, House of Hoops, 그리고 Final-Score 소유권이 있는 Eastbay/Footlocker.com을 운영한다. 1997년 미국 최대 스포츠 카탈로그 소매업체 Eastbay를 인수했고, 2004년에는 파산한 Footstar Inc.로부터 Footaction USA 브랜드와 약 350개 매장을 인수했다. 2013년에는 독일 소매업체 Runners Point Group을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 1월 현재 미국, 캐나다, 유럽, 아시아에 3,363개 매장을 보유하고 있다. 2019년 운동화 온라인 재판매 장터 GOAT에 1억 달러를 투자했고, 2021년 로스앤젤레스에 본사를 둔 WSS와 도쿄에 본사를 둔 Atmos를 인수했다. 2022년에는 2050년까지 탄소배출 중립을 달성하는 것을 목표로 한다고 발표했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "운동화 소매점 체인을 중심으로 여러 스포츠 소매 브랜드를 거느리며, 직원 유니폼이 심판 유니폼을 닮은 것으로 유명한 신발 소매업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.footlocker.eu/",
+  "entityLinks": {
+   "wikidata": "Q63335",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q63335",
+    "https://ko.wikipedia.org/wiki/%ED%92%8B_%EB%A1%9C%EC%BB%A4",
+    "https://en.wikipedia.org/wiki/Foot_Locker"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q63335",
+   "country": "미국",
+   "inception": "1974",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "한국어 위키백과 「풋 로커」 요약과 위키데이터 Q63335 팩트를 근거로 편집",
+  "founded": {
+   "date": "1974-09-12",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-14"
+  }
+ },
+ "reviewedAt": null
+}

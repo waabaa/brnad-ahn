@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-14",
+ "qid": "Q1969091",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T16:45:56+09:00"
+ },
+ "logoCandidate": "logos/oshkosh-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "oshkosh-corporation",
+  "urlSlug": "oshkosh-corporation",
+  "name": "Oshkosh Corporation",
+  "nameKo": "",
+  "nameEn": "Oshkosh Corporation",
+  "definition": "Oshkosh Corporation은 특수 트럭, 군용 차량, 트럭 차체, 공항 소방 장비, 접근 장비를 설계하고 제조하는 미국의 산업 기업이다. 본사는 위스콘신주 오슈코시에 있다.",
+  "summary": "Oshkosh Corporation은 특수 트럭, 군용 차량, 트럭 차체, 공항 소방 장비, 접근 장비를 설계하고 제조하는 미국의 산업 기업이다. 본사는 위스콘신주 오슈코시에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "군용 전술 트럭, 소방 장비, 고소작업대를 한 회사에서 만드는 점이 특징이다. 미국 육군과 해병대의 중형·대형 전술 트럭 단독 공급업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Oshkosh Corporation은 옛 이름이 Oshkosh Truck인 미국의 산업 기업이다. 특수 트럭, 군용 차량, 트럭 차체, 공항 소방 장비, 접근 장비를 설계하고 제작한다. 위스콘신주 애플턴의 소방 장비 제조사 Pierce Manufacturing과 승강 장비 제조사 JLG Industries도 소유한다. 위스콘신주 오슈코시에 본사를 두고 있으며 전 세계 24개국 130개 시설에서 약 15000명을 고용한다. 사업은 접근 장비, 방위, 소방 및 응급, 상업의 네 개 주요 부문으로 나뉜다. 미국 육군과 해병대에 중형·대형 전술 트럭을 공급하는 유일한 업체이며, 제품과 서비스는 150개국 이상에서 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1917년 Wisconsin Duplex Auto Company라는 이름으로 설립되었으며, 혹독한 환경에서 쓰는 사륜구동 트럭을 만들기 위해 세워졌다. 첫 시제품이 나온 뒤 회사는 빠르게 성장했고, 이 첫 사륜구동 트럭은 \"Old Betsy\"로 불리며 지금도 회사가 소유하고 있다. 1918년에는 2톤 Model A를 7대 생산했다. 1933년에 소개한 Model TR은 최초의 고무 타이어 어스무버였고, 1955년의 50-50은 콘크리트 운반 전용으로 만든 첫 트럭이었다. 1976년에는 미국 육군의 M911 대형 장비 운반차 744대 계약을 따냈으며, 이것이 이후 이어진 육군 계약의 출발점이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품은 특수 트럭, 군용 차량, 트럭 차체, 공항 소방 장비, 접근 장비이다. JLG Industries는 고소작업대, 붐 리프트, 시저 리프트, 텔레핸들러, 저층 접근 리프트를 만든다. Pierce Manufacturing은 소방 장비를 제조한다. 방위 부문은 2015년 Joint Light Tactical Vehicle 계약을, 2018년 Family of Medium Tactical Vehicles A2 계약을 받았다. 2021년에는 미국 우정청의 Next Generation Delivery Vehicle 우편 트럭 계약을 수주했으며, 이 차량군에는 내연기관 차량과 배터리 전기차가 함께 포함된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 오슈코시의 새 글로벌 본사 건물에 있다. 접근 장비 부문은 펜실베이니아주 McConnellsburg, 방위 부문은 오슈코시, 소방 및 응급 부문은 애플턴, 상업 부문은 미네소타주 Dodge Center에 본부를 둔다. 제조 시설은 미국 8개 주와 호주, 캐나다, 중국, 프랑스, 루마니아에 있고, 멕시코와 브라질에는 합작 투자로 참여한다. 2020년에는 Ethisphere가 선정한 세계에서 가장 윤리적인 기업에 이름을 올렸다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "군용 전술 트럭, 소방 장비, 고소작업대를 한 회사에서 만드는 점이 특징이다. 미국 육군과 해병대의 중형·대형 전술 트럭 단독 공급업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.oshkoshcorporation.com/",
+  "entityLinks": {
+   "wikidata": "Q1969091",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1969091",
+    "https://en.wikipedia.org/wiki/Oshkosh_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1969091",
+   "country": "미국",
+   "inception": "1917",
+   "headquarters": "오슈코시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-14"
+  },
+  "sourceNote": "영문 위키백과 「Oshkosh Corporation」 본문과 위키데이터 Q1969091 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}
