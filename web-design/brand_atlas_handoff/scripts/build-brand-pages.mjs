@@ -14,10 +14,11 @@ import {
   buildTitle, buildDescription, buildFaq, koreanName, latinName, displayName,
   countryOf, foundedYear, bodyTextLength, urlSlugOf, THIN_THRESHOLD,
 } from "./lib/brand-seo.mjs";
-import { page as shell, esc, archetyposFontLink } from "./lib/page-shell.mjs";
+import { page as shell, esc } from "./lib/page-shell.mjs";
 import { renderBrandPage } from "./lib/brand-render.mjs";
 import { isDirectory, isNoindex, byScore, isListed } from "./lib/archive.mjs";
 import { publishedCollections } from "./lib/collections.mjs";
+import { publishedGroups } from "./lib/groups.mjs";
 import { loadArticles, referencedSlugs } from "./lib/magazine.mjs";
 import { historyBySlug, yearLabel, HISTORY_PATH } from "./lib/brand-history.mjs";
 
@@ -46,6 +47,7 @@ sandbox.brandUrl = (b) => `../brand/${encodeURIComponent(urlSlugOf(b))}.html`;
 
 // 국가 허브 존재 여부 — 머리 칩에서 국가 허브로 링크할지 결정한다(없는 파일로 링크 금지).
 const collectionHubs = publishedCollections(BRANDS, isListed);
+const groupHubs = new Map([...publishedGroups(BRANDS, isListed, urlSlugOf)].map(([k, { label }]) => [k, label]));
 const countryHubs = new Set(fs.existsSync(path.join(ROOT, "country")) ? fs.readdirSync(path.join(ROOT, "country")).filter(f => f.endsWith(".html")).map(f => f.replace(/\.html$/, "")) : []);
 
 const PUBLISHER = {
@@ -222,6 +224,20 @@ function historyMentions(brand) {
   return `<section class="mag-mention" aria-label="브랜드 연대기에서 보기"><h2>브랜드 연대기에서 보기</h2><ul>${list.map(e => `<li><a href="../${HISTORY_PATH}#h-${e.i}"><small>${esc(yearLabel(e))} · ${esc(e.lane)}</small><b>${esc(e.t)}</b>${e.d ? `<span>${esc(e.d)}</span>` : ""}</a></li>`).join("")}</ul></section>`;
 }
 
+// 같은 달에 태어난 브랜드 — brand.founded가 있는 목록 브랜드끼리. 같은 날이 먼저, 그다음 품질 순. 본문 해시 뒤에 붙인다.
+// 탄생 달력(month/MM.html)이 5곳 이상인 달만 허브가 있으므로 그때만 링크한다.
+const BORN = new Map();
+for (const b of BRANDS) if (isListed(b) && b.founded && /^\d{4}-\d{2}/.test(b.founded.date)) { const m = b.founded.date.slice(5, 7); if (!BORN.has(m)) BORN.set(m, []); BORN.get(m).push(b); }
+const bornText = (f) => { const [y, m, d] = f.date.split("-").map(Number); return d ? `${y}년 ${m}월 ${d}일` : `${y}년 ${m}월`; };
+function monthMentions(brand) {
+  const f = brand.founded;
+  if (!f || !/^\d{4}-\d{2}/.test(f.date)) return "";
+  const mm = f.date.slice(5, 7), day = f.date.slice(8, 10), all = BORN.get(mm) || [];
+  if (all.length < 5) return "";
+  const others = all.filter(b => b.slug !== brand.slug).sort((a, b) => ((b.founded.date.slice(8, 10) === day && day) ? 1 : 0) - ((a.founded.date.slice(8, 10) === day && day) ? 1 : 0) || byScore(a, b)).slice(0, 6);
+  return `<section class="mag-mention" aria-label="같은 달에 태어난 브랜드"><h2>${Number(mm)}월에 태어난 브랜드</h2><ul>${others.map(b => `<li><a href="../brand/${encodeURIComponent(urlSlugOf(b))}.html"><small>${esc(bornText(b.founded))}</small><b>${esc(displayName(b))}</b></a></li>`).join("")}<li><a href="../month/${mm}.html"><small>탄생 달력</small><b>${Number(mm)}월생 ${all.length}곳 모두 보기 →</b></a></li></ul></section>`;
+}
+
 function relatedFor(brand) {
   return sandbox.relatedBrands(brand, 12).filter(b => !isDirectory(b)).sort(byScore).slice(0, 8);
 }
@@ -232,11 +248,11 @@ function pageHtml(brand) {
   const title = buildTitle(brand);
   const desc = buildDescription(brand);
   const faq = buildFaq(brand);
-  let bodyHtml = renderBrandPage(brand, { sandbox, faq, countryHubs, collectionHubs, related: relatedFor(brand) });
+  let bodyHtml = renderBrandPage(brand, { sandbox, faq, countryHubs, collectionHubs, groupHubs, related: relatedFor(brand) });
 
   const text = mainText(bodyHtml);
   const renderedChars = text.length;
-  bodyHtml = bodyHtml.replace("<!--related-->", `<!--related-->${magazineMentions(slug)}${historyMentions(brand)}`);
+  bodyHtml = bodyHtml.replace("<!--related-->", `<!--related-->${magazineMentions(slug)}${historyMentions(brand)}${monthMentions(brand)}`);
   const dupCanonical = canonicalOverride.get(slug);
   const directory = isDirectory(brand);
   // 디렉토리 등급이라도 본문이 충실하면 색인한다(2026-09-08). 등급은 목록·홈 노출을 가르는
@@ -254,7 +270,7 @@ function pageHtml(brand) {
 
   return shell({
     title, desc, canonical, ogImage, ogType: "article", robots, prefix: "../", active: "ganada",
-    jsonLd: jsonLd(brand, faq, dates, url), bodyHtml, bodyClass: "brand-page", extraHead: archetyposFontLink,
+    jsonLd: jsonLd(brand, faq, dates, url), bodyHtml, bodyClass: "brand-page",
   });
 }
 

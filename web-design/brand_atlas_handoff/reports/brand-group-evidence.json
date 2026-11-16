@@ -1,0 +1,1035 @@
+{
+ "generatedAt": "2026-11-16",
+ "groups": {
+  "lvmh": {
+   "source": "https://www.lvmh.com/houses/",
+   "members": {
+    "louis-vuitton": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"루이비통\": … 전자 상거래 섹션을 통해 제품을 판매한다. 루이비통은 1987년 모엣 헤네시와 합병하여 LVMH를 설립했으며, 현재 LVMH의 자회사이다. 루이비통은 6년 연속(200…"
+    },
+    "dior": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Dior\": … Christian Dior Couture, which is a subsidiary of LVMH. Headquartered in Paris, France, the co…"
+    },
+    "fendi": {
+     "tier": "wikidata",
+     "evidence": "Q926575 → Q504998 (P749/P127, 현재)"
+    },
+    "givenchy": {
+     "tier": "wikidata",
+     "evidence": "Q759210 → Q504998 (P749/P127, 현재)"
+    },
+    "celine": {
+     "tier": "wikidata",
+     "evidence": "Q948531 → Q504998 (P749/P127, 현재)"
+    },
+    "bulgari": {
+     "tier": "wikidata",
+     "evidence": "Q752515 → Q504998 (P749/P127, 현재)"
+    },
+    "tiffany-and-co": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Tiffany & Co.\": …lty design house owned by the French conglomerate LVMH, and headquartered on Fifth Avenue in M…"
+    },
+    "tag-heuer": {
+     "tier": "wikidata",
+     "evidence": "Q645984 → Q504998 (P749/P127, 현재)"
+    },
+    "sephora": {
+     "tier": "wikidata",
+     "evidence": "Q2408041 → Q504998 (P749/P127, 현재)"
+    },
+    "rimowa": {
+     "tier": "wikidata",
+     "evidence": "Q1287437 → Q504998 (P749/P127, 현재)"
+    },
+    "moet-and-chandon": {
+     "tier": "wikidata",
+     "evidence": "Q699529 → Q504998 (P749/P127, 현재)"
+    },
+    "veuve-clicquot": {
+     "tier": "wikidata",
+     "evidence": "Q610350 → Q504998 (P749/P127, 현재)"
+    },
+    "dom-p-rignon": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"동 페리뇽\": …은 샴페인을 발명했다고 전해지는 프랑스의 수도사이다. 돔 페리뇽은 수도사의 이름을 사용해 LVMH 그룹이 판매하는 고급 샴페인 브랜드이다.…"
+    },
+    "hennessy": {
+     "tier": "wikidata",
+     "evidence": "Q1229287 → Q504998 (P749/P127, 현재)"
+    },
+    "glenmorangie-distillery": {
+     "tier": "wikidata",
+     "evidence": "Q157974 → Q504998 (P749/P127, 현재)"
+    }
+   }
+  },
+  "the-coca-cola-company": {
+   "source": "https://www.coca-colacompany.com/brands",
+   "members": {
+    "coca-cola": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"코카콜라\": …코카-콜라(영어: Coca-Cola, 또는 일반적으로 coke)는 미국의 코카콜라 컴퍼니에서 출시한 콜라(cola) 브랜드다. 코카콜라는 세계 최초로 만들어진 …"
+    },
+    "sprite": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Sprite\": …Sprite (drink), a lemon-lime beverage produced by the Coca-Cola Company Sprite (folklore), a type of legendary …"
+    },
+    "minute-maid": {
+     "tier": "wikidata",
+     "evidence": "Q1206056 → Q3295867 (P749/P127, 현재)"
+    },
+    "powerade": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"파워에이드\": …파워에이드(영어: Powerade)는 코카콜라 컴퍼니에서 생산 및 판매하고 있는 글로벌 스포츠 음료이다. 1988년에 처음 …"
+    }
+   }
+  },
+  "e-land": {
+   "source": "https://www.eland.co.kr/",
+   "members": {
+    "spao": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"스파오\": …시작했으며, SPA 계열에선 탑텐이나 에잇세컨즈 등보다 먼저 시작한 국내 최초 브랜드다. 이랜드의 자회사이다. 2018년 기준으로 한국 내 매장 수는 70개이며 중국에…"
+    }
+   }
+  },
+  "nike": {
+   "source": "https://about.nike.com/en/brands",
+   "members": {
+    "converse": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"컨버스\": … 따라 2005년에는 반고인터내셔날과 독점계약하에 독자 브랜드로 진출하게 되었다. 현재는 나이키의 자회사로 편입되었다.…"
+    },
+    "air-jordan": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"에어 조던\": …에어 조던(영어: Air Jordan)은 스포츠 용품업체 나이키에서 발매하는 농구 운동화 브랜드이다. 에어는 에어 쿠션 기술을 이용한 …"
+    }
+   }
+  },
+  "samsung-group": {
+   "source": "https://ko.wikipedia.org/wiki/삼성",
+   "members": {
+    "samsung-electronics": {
+     "tier": "wikidata",
+     "evidence": "Q20718 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-sdi": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"삼성SDI\": …I는 Samsung Display Interface의 약자)는 대한민국의 IT 기업으로, 삼성그룹의 전자 계열사이다. 본사는 경기도 용인시 기흥구 공세로 150-20 (…"
+    },
+    "samsung-biologics": {
+     "tier": "wikidata",
+     "evidence": "Q16767532 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-life": {
+     "tier": "wikidata",
+     "evidence": "Q624080 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-fire": {
+     "tier": "wikidata",
+     "evidence": "Q492706 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-heavy": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"삼성중공업\": …삼성중공업(三星重工業)은 대한민국의 기업으로, 삼성그룹의 계열사이다. 조선해양과 관련된 선박, 해양플랜트 제조, 건설업체이다.…"
+    },
+    "samsung-securities": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"삼성증권\": …amsung Securities Co., Ltd., 三星證券)는 대한민국의 금융 기업으로 삼성그룹 계열의 증권 회사이다. 1992년 11월 삼성그룹으로 편입했으며, 상호…"
+    },
+    "samsung-ct": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"삼성물산\": …삼성물산(영어: Samsung C&T, 三星物産)은 삼성그룹 소속 회사로 대한민국에 본사를 둔, 건설업과 무역업을 주요 사업으로 영…"
+    },
+    "everland": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"에버랜드\": …(영어: Everland)는 대한민국 경기도 용인시 처인구 포곡읍에 위치한 테마파크이다. 삼성물산이 운영하며, 놀이기구와 동물원, 식물원 및 다양한 테마 공간을 갖추…"
+    },
+    "samsung-card": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Samsung Card\": …d in Seoul, South Korea, Samsung Card merged with Samsung Capital in 2004. The company is owned b…"
+    },
+    "samsung-engineering": {
+     "tier": "wikidata",
+     "evidence": "Q2998661 → Q20716 (P749/P127, 현재)"
+    },
+    "cheil-worldwide": {
+     "tier": "wikidata",
+     "evidence": "Q5089641 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-sds": {
+     "tier": "wikidata",
+     "evidence": "Q7410538 → Q20716 (P749/P127, 현재)"
+    },
+    "samsung-display": {
+     "tier": "wikidata",
+     "evidence": "Q16166104 → Q20716 (P749/P127, 현재)"
+    },
+    "harman-international-industries": {
+     "tier": "wikidata",
+     "evidence": "Q1585599 → Q20716 (P749/P127, 현재)"
+    }
+   }
+  },
+  "sk-group": {
+   "source": "https://ko.wikipedia.org/wiki/SK_그룹",
+   "members": {
+    "sk-telecom": {
+     "tier": "wikidata",
+     "evidence": "Q493145 → Q494158 (P749/P127, 현재)"
+    },
+    "sk-hynix": {
+     "tier": "wikidata",
+     "evidence": "Q370719 → Q494158 (P749/P127, 현재)"
+    },
+    "sk-innovation": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"SK이노베이션\": …이션(영어: SK Innovation)은 대한민국의 기업으로 에너지·화학 분야를 영위하는 SK그룹의 정유 사업부문의 중간 지주회사이다. 본사는 서울특별시 종로구 종로 2…"
+    },
+    "sk-biopharm": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"SK바이오팜\": …식회사(영어: SK BIOPHARMACEUTICALS)는 대한민국의 제약바이오 기업으로, SK그룹 계열사이다. 중추신경계(CNS) 질환 치료제 및 항암 신약 개발에 주력…"
+    },
+    "sk-inc": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"SK Inc.\": …ding SK Innovation, SK Telecom, SKC, SK Networks, SK Materials, and SK Biopharmaceutical. Th…"
+    },
+    "sk-energy": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"SK에너지\": …SK에너지(영어: SK energy)는 SK이노베이션의 정유사업을 담당하는 자회사이다. 본사는 서울특별시 종로구 종…"
+    },
+    "sk-ecoplant": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"SK에코플랜트\": …SK에코플랜트(영어: SK ecoplant)는 1962년 설립되어 대한민국에 본사를 둔 SK그룹 계열의 대형 건설사이다. 국토교통부의 2025년 토목건축공사업 시공능력…"
+    },
+    "sk-on": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"SK온\": …된 회사다. 본사는 서울특별시 종로구 종로 26 (서린동)에 있다. 2025년 11월에는 SK엔무브를 합병했다.…"
+    }
+   }
+  },
+  "lotte": {
+   "source": "https://www.lotte.co.kr/",
+   "members": {
+    "lotte-mart": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데마트\": …롯데마트(Lotte Mart)는 롯데쇼핑(주) 롯데마트사업본부가 운영하는 대한민국의 대형 할인점 브랜드이다.…"
+    },
+    "lotte-chilsung": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데칠성음료\": …te Chilsung Beverage, 한국: 005300)는 대한민국의 음료제조업체로, 롯데그룹의 식품 계열사이다. 1950년 5월 모태인 \"동방청량음료 합명회사\"…"
+    },
+    "lotte-chemical": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데케미칼\": …제품 및 이들 기초 유분을 원료로 하여 합성수지, 합섬 원료, 합성 고무 등을 생산한다. 롯데그룹 계열사이며 코스피200 종목에 포함되어 있다. 케이피케미칼을 흡수 …"
+    },
+    "lotte-world": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데월드\": …otte World)는 대한민국 서울특별시 송파구 올림픽로 240에 위치한 테마파크이다. 롯데그룹의 계열사인 호텔롯데 월드 사업부에서 운영한다. 놀이시설은 실내의 롯…"
+    },
+    "lotte-hotels-resorts": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데호텔\": …롯데호텔(영어: Lotte Hotel)은 롯데그룹 계열사의 관광호텔업체인 롯데가 운영하는 대한민국의 호텔 브랜드이다.…"
+    },
+    "lotte-cinema": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데시네마\": …롯데시네마(영어: Lotte Cinema)는 롯데컬처웍스가 운영하는 복합 상영관 체인이다. 롯데그룹의 대한민국 사업 중 …"
+    },
+    "lotte-duty-free": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롯데면세점\": …㈜호텔롯데 롯데면세점은 대한민국의 면세점이다. 1980년 ㈜호텔롯데 면세사업부 아래에 대한민국 최초의 종합면세점으로 문을 열었다. 소공동에…"
+    }
+   }
+  },
+  "cj-group": {
+   "source": "https://www.cj.net/",
+   "members": {
+    "olive-young": {
+     "tier": "wikidata",
+     "evidence": "Q55643246 → Q483593 (P749/P127, 현재)"
+    },
+    "bibigo": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"비비고\": …비비고는 CJ 푸드빌의 글로벌 한식 브랜드이다. 비비고는 전통 한식의 철학 '비빔'과…"
+    },
+    "cj-enm": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"CJ ENM\": …하였다. 영문명은 CJ Entertainment N Merchandising의 약칭이다. CJ그룹 차원에서 콘텐츠 사업은 CJ엔터테인먼트 출범으로 시작되었으며, CJ그룹…"
+    },
+    "tous-les-jours": {
+     "tier": "wikidata",
+     "evidence": "Q3535609 → Q483593 (P749/P127, 현재)"
+    },
+    "cgv": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"CGV\": …. 씨제이씨지브이 주식회사)는 대한민국에서 멀티플렉스 영화관 프랜차이즈 CGV를 운영하는 CJ그룹의 엔터테인먼트 및 미디어 부문 계열사이다. 1999년 씨제이빌리지(주)…"
+    },
+    "cj-cheil-jedang": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"CJ제일제당\": …CJ제일제당(한국어: 씨제이제일제당, 영어: CJ CheilJedang)은 대한민국의 1위 종합 식품 제조업체이다. 본사…"
+    },
+    "tving": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"TVING\": …TVING(티빙)은 CJ ENM의 계열사인 주식회사 티빙이 운영 변경 웨이브 합병하는 대한민국의…"
+    },
+    "cj-wellcare": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"CJ웰케어\": …CJ웰케어는 대한민국의 건강기능식품 제조업체다. 지난해 2022년 CJ제일제당으로부터 분사하여 설립된 회사로 본사는 서울특별시에 있다.…"
+    }
+   }
+  },
+  "shinsegae": {
+   "source": "https://www.shinsegae.com/",
+   "members": {
+    "emart": {
+     "tier": "wikidata",
+     "evidence": "Q490371 → Q490787 (P749/P127, 현재)"
+    },
+    "emart24": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"이마트24\": …이마트24(emart24)는 신세계그룹이 운영하는 대한민국의 편의점이다. 2003년 1월 최두영이 설립한 …"
+    },
+    "no-brand": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"노브랜드\": …노브랜드는 2015년 4월부터 이마트에서 설립한 자체 브랜드이다. 신세계그룹 정용진 회장 주도하에 계획된 자체브랜드(Private Brand)로…"
+    },
+    "no-brand-burger": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"노브랜드 버거\": …노브랜드 버거(영어: No Brand Burger)는 대한민국의 패스트푸드 체인으로, 신세계푸드에서 운영하는 햄버거 전문 브랜드이다.…"
+    }
+   }
+  },
+  "kakao": {
+   "source": "https://www.kakaocorp.com/page/service/service",
+   "members": {
+    "kakao-entertainment": {
+     "tier": "wikidata",
+     "evidence": "Q106341957 → Q17684312 (P749/P127, 현재)"
+    },
+    "kakaobank": {
+     "tier": "wikidata",
+     "evidence": "Q33570421 → Q17684312 (P749/P127, 현재)"
+    },
+    "kakao-games": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"카카오게임즈\": …카카오게임즈(한국: 293490)는 대한민국의 비디오 게임 기업이다. 카카오의 게임 전문 자회사로서, 한국과 해외 게임 시장에 PC와 모바일, VR…"
+    },
+    "kakao-pay": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"카카오페이\": …로 애플리케이션 설치 없이, 카카오톡에서 사용이 가능하다. 2019년 8월 8일에는 기존 카카오페이머니 결제 외에 페이코/SSG페이같은 오프라인 카드 결제도 추가했으며…"
+    },
+    "kakaopage": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"카카오페이지\": …카카오페이지 (영어: kakao page, Kakao Page, kakaopage)는 카카오엔터테인먼트가 운영하는 컨텐트 플랫폼으로, 웹툰과 웹소설 등이 연재되고 …"
+    },
+    "kakao-t": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"카카오 T\": … 기사, 승객 평가 시스템을 운영한다는 점 등의 부분에서 차별성을 앞세워 운영하고 있다. 카카오택시는 출시 3개월만에 누적 호출 수가 500만 건을 넘어섰다. 2017…"
+    },
+    "kakaotalk": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"KakaoTalk\": …essenger and online services platform operated by Kakao Corporation. It was launched in 2010, a…"
+    },
+    "kakao-friends": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"카카오프렌즈\": …터들이다. 캐릭터 일러스트레이터는 호조(HOZO)와 라이언을 디자인한 천혜림이다. 현재는 카카오커머스가 카카오프렌즈 캐릭터의 저작권을 가지고 관련 사업을 운영하고 있다…"
+    }
+   }
+  },
+  "naver": {
+   "source": "https://www.navercorp.com/",
+   "members": {
+    "webtoon": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"네이버 웹툰\": …네이버 웹툰(영어: Naver Webtoon)은 대한민국의 포털 사이트 네이버에서 운영하고 있는 웹툰 서비스이다. 2004년 6월 23일부터 서비스 …"
+    }
+   }
+  },
+  "amorepacific": {
+   "source": "https://www.apgroup.com/int/ko/brands/brands.html",
+   "members": {
+    "sulwhasoo": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"설화수\": …설화수는 아모레퍼시픽에서 출시된 대한민국의 화장품 브랜드이다. 설화(雪花)는 눈 속에서 피어…"
+    },
+    "laneige": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"라네즈\": …라네즈(Laneige)는 아모레퍼시픽(Amorepacific)에서 1994년에 출시된 대한민국의 화장품 브랜…"
+    },
+    "innisfree": {
+     "tier": "wikidata",
+     "evidence": "Q16176002 → Q18141920 (P749/P127, 현재)"
+    },
+    "mamonde": {
+     "tier": "wikidata",
+     "evidence": "Q16935509 → Q18141920 (P749/P127, 현재)"
+    },
+    "etude": {
+     "tier": "wikidata",
+     "evidence": "Q16174973 → Q18141920 (P749/P127, 현재)"
+    }
+   }
+  },
+  "hanwha-group": {
+   "source": "https://www.hanwha.co.kr/",
+   "members": {
+    "hanwha-solutions": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Hanwha Solutions\": …in Seoul, South Korea. The company is part of the Hanwha Group, a large South Korean business conglome…"
+    },
+    "hanwha-aerospace": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"한화에어로스페이스\": …한화에어로스페이스(영어: Hanwha Aerospace)는 한화그룹 계열의 항공우주 및 방산 기업이다. 1977년 삼성정밀공업으로 창립, …"
+    },
+    "hanwha-life": {
+     "tier": "wikidata",
+     "evidence": "Q491990 → Q489202 (P749/P127, 현재)"
+    },
+    "hanwha-vision": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"한화비전\": …한화비전(영어: Hanwha Vision)은 한화그룹 계열의 보안·AI 영상 분석 기업이다. 1990년 처음 보안용 카메라를…"
+    },
+    "qcells": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"한화솔라원\": …한화솔라원은 한화그룹 태양광 기업이다. PV insights 발표 2010년 기준 세계 7대…"
+    }
+   }
+  },
+  "gs-group": {
+   "source": "https://www.gsgroup.com/",
+   "members": {
+    "gs25": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"GS25\": …편의점 프랜차이즈 체인이다. 현재는 GS리테일의 브랜드이며, 2005년 3월에 LG그룹과 GS그룹이 계열 분할되면서 브랜드명이 LG25에서 GS25로 변경되었다.…"
+    },
+    "gs-caltex": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"GS칼텍스\": …GS칼텍스(GS Caltex)는 GS그룹 계열의 정유사로, 본사는 서울특별시 강남구 역삼동 GS타워에 있다. 과…"
+    },
+    "gs-construction": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"GS건설\": …GS건설(지에스建設)은 1969년에 설립되어 대한민국의 본사를 둔 GS그룹에 소속된 건설 회사이다. 국토교통부의 2021년 토목건축공사업 시공능력…"
+    },
+    "gs-the-fresh": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"GS더프레시\": …GS더프레시(GS THE FRESH, 구 GS수퍼마켓)는 GS리테일에서 운영하는 기업형 슈퍼마켓이다. 1974년 3월…"
+    }
+   }
+  },
+  "kolon-industries": {
+   "source": "https://www.kolon.com/",
+   "members": {}
+  },
+  "hyosung": {
+   "source": "https://www.hyosung.com/",
+   "members": {
+    "hyosung-tnc": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"효성티앤씨\": …무역등 분야의 사업을 다루는 대한민국의 섬유 제조 및 무역업체이다. 2024년, 계열사인 효성화학으로부터 특수가스 사업부를 인수하는 것을 내부적으로 검토하고 있다. …"
+    },
+    "hyosung-heavy-industries": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Hyosung Heavy Industries\": …ction and renewable energy. It is a subsidiary of Hyosung Group. In 2024, the company reported a …"
+    }
+   }
+  },
+  "hyundai-motor-group": {
+   "source": "https://www.hyundai.com/worldwide/ko/company/about-hyundai",
+   "members": {
+    "hyundai-motor": {
+     "tier": "wikidata",
+     "evidence": "Q55931 → Q59243 (P749/P127, 현재)"
+    },
+    "kia": {
+     "tier": "wikidata",
+     "evidence": "Q35349 → Q59243 (P749/P127, 현재)"
+    },
+    "genesis": {
+     "tier": "wikidata",
+     "evidence": "Q21451523 → Q59243 (P749/P127, 현재)"
+    },
+    "hyundai-steel": {
+     "tier": "wikidata",
+     "evidence": "Q6502960 → Q59243 (P749/P127, 현재)"
+    },
+    "hyundai-card": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"현대카드\": …현대카드주식회사는 현대자동차그룹 계열의 신용카드 회사이다. 1국가 1카드사 원칙을 고수하는 미국 유통업…"
+    },
+    "hyundai-enc": {
+     "tier": "wikidata",
+     "evidence": "Q489809 → Q59243 (P749/P127, 현재)"
+    }
+   }
+  },
+  "nestl": {
+   "source": "https://www.nestle.com/brands",
+   "members": {
+    "nescafe": {
+     "tier": "wikidata",
+     "evidence": "Q503191 → Q160746 (P749/P127, 현재)"
+    },
+    "perrier": {
+     "tier": "wikidata",
+     "evidence": "Q1471021 → Q160746 (P749/P127, 현재)"
+    },
+    "maggi": {
+     "tier": "wikidata",
+     "evidence": "Q688424 → Q160746 (P749/P127, 현재)"
+    }
+   }
+  },
+  "pepsico": {
+   "source": "https://www.pepsico.com/our-brands",
+   "members": {
+    "pepsi": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"펩시\": …펩시(영어: Pepsi)는 펩시코가 제조하는 콜라로, 펩시코의 주력 상품이다. 2023년 펩시는 코카콜라…"
+    },
+    "cheetos": {
+     "tier": "wikidata",
+     "evidence": "Q484544 → Q334800 (P749/P127, 현재)"
+    },
+    "gatorade": {
+     "tier": "wikidata",
+     "evidence": "Q304992 → Q334800 (P749/P127, 현재)"
+    },
+    "mountain-dew": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"마운틴 듀\": …부 국가에서 Mtn Dew로 표기하며, 몇몇 지역에서는 구어체로 듀(Dew)라고도 불리는 펩시코 소유의 청량 음료 브랜드이다. 원래의 제조법은 1940년 테네시주의 음…"
+    },
+    "quaker-oats-company": {
+     "tier": "wikidata",
+     "evidence": "Q2699694 → Q334800 (P749/P127, 현재)"
+    }
+   }
+  },
+  "mondelez-international": {
+   "source": "https://www.mondelezinternational.com/brands/",
+   "members": {
+    "cadbury": {
+     "tier": "wikidata",
+     "evidence": "Q6677525 → Q12857502 (P749/P127, 현재)"
+    },
+    "toblerone": {
+     "tier": "wikidata",
+     "evidence": "Q215707 → Q12857502 (P749/P127, 현재)"
+    },
+    "milka": {
+     "tier": "wikidata",
+     "evidence": "Q757388 → Q12857502 (P749/P127, 현재)"
+    }
+   }
+  },
+  "mars-incorporated": {
+   "source": "https://www.mars.com/brands",
+   "members": {
+    "m-and-m-s": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"M&M's\": …M&M's(영어: M&M's)는 미국의 마즈에서 생산하는 버튼 모양의 초콜릿으로, '입에서만 녹고 손에서는 안 녹아…"
+    },
+    "snickers": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"스니커즈 (과자)\": …스니커즈(Snickers)는 미국의 마즈에서 1930년부터 판매되고 있는 초콜릿 바이다. 스니커즈는 캐러멜과 땅…"
+    }
+   }
+  },
+  "yum-brands": {
+   "source": "https://www.yum.com/wps/portal/yumbrands/Yumbrands/brands",
+   "members": {
+    "kentucky-fried-chicken": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"KFC\": …KFC 또는 켄터키 프라이드 치킨(Kentucky Fried Chicken)은 미국의 얌! 브랜드의 패스트 푸드의 글로벌 체인점이다. 버거킹, 맥도날드하고 트로이카를 이…"
+    },
+    "pizza-hut": {
+     "tier": "wikidata",
+     "evidence": "Q191615 → Q668737 (P749/P127, 현재)"
+    },
+    "taco-bell": {
+     "tier": "wikidata",
+     "evidence": "Q752941 → Q668737 (P749/P127, 현재)"
+    }
+   }
+  },
+  "restaurant-brands-international": {
+   "source": "https://www.rbi.com/English/brands/",
+   "members": {
+    "popeyes": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Popeyes\": …da. It is currently a subsidiary of Toronto-based Restaurant Brands International. As of 2026, Popeyes operates a global …"
+    }
+   }
+  },
+  "alphabet-inc": {
+   "source": "https://abc.xyz/",
+   "members": {
+    "google": {
+     "tier": "wikidata",
+     "evidence": "Q95 → Q20800404 (P749/P127, 현재)"
+    },
+    "youtube": {
+     "tier": "wikidata",
+     "evidence": "Q866 → Q20800404 (P749/P127, 현재)"
+    },
+    "waymo": {
+     "tier": "wikidata",
+     "evidence": "Q15330 → Q20800404 (P749/P127, 현재)"
+    },
+    "google-deepmind": {
+     "tier": "wikidata",
+     "evidence": "Q15733006 → Q20800404 (P749/P127, 현재)"
+    },
+    "gmail": {
+     "tier": "wikidata",
+     "evidence": "Q9334 → Q20800404 (P749/P127, 현재)"
+    },
+    "google-play": {
+     "tier": "wikidata",
+     "evidence": "Q79576 → Q20800404 (P749/P127, 현재)"
+    }
+   }
+  },
+  "meta-platforms": {
+   "source": "https://about.meta.com/technologies/",
+   "members": {
+    "facebook": {
+     "tier": "wikidata",
+     "evidence": "Q355 → Q380 (P749/P127, 현재)"
+    },
+    "whatsapp": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"WhatsApp\": …국의 소셜 미디어, 인스턴트 메신저(IM) 및 음성 인터넷 프로토콜(VoIP) 서비스다. 메타 플랫폼스가 소유한 이 서비스를 통해 사용자는 텍스트 메시지, 음성 메시지 및 비…"
+    },
+    "instagram": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Instagram\": … video sharing social networking service owned by Meta Platforms. It allows users to upload media that c…"
+    },
+    "threads": {
+     "tier": "wikidata",
+     "evidence": "Q120281745 → Q380 (P749/P127, 현재)"
+    }
+   }
+  },
+  "microsoft": {
+   "source": "https://www.microsoft.com/en-us/about",
+   "members": {
+    "linkedin": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"링크드인\": … 광고를 할 수 있도록 링크드인 광고라는 자체 광고 포털을 도입했다. 2016년 12월, 마이크로소프트는 링크드인을 262억 달러에 인수했으며, 이는 당시 가장 큰 인수였다.…"
+    },
+    "github": {
+     "tier": "wikidata",
+     "evidence": "Q364 → Q2283 (P749/P127, 현재)"
+    },
+    "xbox": {
+     "tier": "wikidata",
+     "evidence": "Q15281614 → Q2283 (P749/P127, 현재)"
+    },
+    "activision-blizzard": {
+     "tier": "wikidata",
+     "evidence": "Q344341 → Q2283 (P749/P127, 현재)"
+    },
+    "skype": {
+     "tier": "wikidata",
+     "evidence": "Q40984 → Q2283 (P749/P127, 현재)"
+    },
+    "microsoft-copilot": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"마이크로소프트 코파일럿\": … 출처 인용, 시 작성, 노래 생성 등이 가능하며 수많은 언어와 방언을 사용할 수 있다. 마이크로소프트는 코파일럿을 프리미엄 모델로 운영한다. 무료 사용자도 대부분의 기능을 …"
+    }
+   }
+  },
+  "amazon": {
+   "source": "https://www.aboutamazon.com/",
+   "members": {
+    "whole-foods-market": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"홀 푸드 마켓\": …. 북아메리카와 영국에 479개의 점포가 있다. 2017년 8월 23일, 연방거래위원회는 아마존닷컴과 홀 푸드 마켓의 합병을 승인했다. 그 다음 날에 이 거래는 201…"
+    },
+    "amazon-kindle": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"아마존 킨들\": … 독자적인 킨들(AZW) 포맷을 사용한다. 콘텐츠는 스프린트의 EVDO 네트워크를 이용해 아마존의 위스퍼넷에서 다운로드할 수 있다. 위스퍼넷에 접속하는 비용은 없다. …"
+    }
+   }
+  },
+  "the-walt-disney-company": {
+   "source": "https://thewaltdisneycompany.com/about/",
+   "members": {
+    "pixar": {
+     "tier": "wikidata",
+     "evidence": "Q127552 → Q7414 (P749/P127, 현재)"
+    },
+    "marvel-studios": {
+     "tier": "wikidata",
+     "evidence": "Q367466 → Q7414 (P749/P127, 현재)"
+    },
+    "marvel-comics": {
+     "tier": "wikidata",
+     "evidence": "Q173496 → Q7414 (P749/P127, 현재)"
+    },
+    "20th-century-studios": {
+     "tier": "wikidata",
+     "evidence": "Q434841 → Q7414 (P749/P127, 현재)"
+    },
+    "disneyland": {
+     "tier": "wikidata",
+     "evidence": "Q181185 → Q7414 (P749/P127, 현재)"
+    },
+    "walt-disney-world-resort": {
+     "tier": "wikidata",
+     "evidence": "Q206859 → Q7414 (P749/P127, 현재)"
+    },
+    "disney-plus": {
+     "tier": "wikidata",
+     "evidence": "Q54958752 → Q7414 (P749/P127, 현재)"
+    },
+    "walt-disney-animation-studios": {
+     "tier": "wikidata",
+     "evidence": "Q1047410 → Q7414 (P749/P127, 현재)"
+    },
+    "walt-disney-pictures": {
+     "tier": "wikidata",
+     "evidence": "Q191224 → Q7414 (P749/P127, 현재)"
+    },
+    "walt-disney-records": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"월트 디즈니 레코드\": …월트 디즈니 레코드(영어: Walt Disney Records)는 월트 디즈니 컴퍼니의 레코드 회사 디즈니 뮤직 그룹의 레이블이다.…"
+    }
+   }
+  },
+  "warner-bros-discovery": {
+   "source": "https://www.wbd.com/",
+   "members": {
+    "hbo": {
+     "tier": "wikidata",
+     "evidence": "Q23633 → Q107074885 (P749/P127, 현재)"
+    },
+    "dc-comics": {
+     "tier": "wikidata",
+     "evidence": "Q2924461 → Q107074885 (P749/P127, 현재)"
+    },
+    "warner-bros-entertainment": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"워너 브라더스\": …미국 캘리포니아주 버뱅크의 \"워너 브라더스 스튜디오, 버뱅크\"에 처음 설립된, AT&T의 워너미디어의 자회사로 미디어 엔터테인먼트 회사이다. 1923년에 해리 워너, 앨버…"
+    }
+   }
+  },
+  "comcast": {
+   "source": "https://corporate.comcast.com/company",
+   "members": {
+    "nbc": {
+     "tier": "wikidata",
+     "evidence": "Q13974 → Q1113804 (P749/P127, 현재)"
+    },
+    "universal-pictures": {
+     "tier": "wikidata",
+     "evidence": "Q168383 → Q1113804 (P749/P127, 현재)"
+    },
+    "dreamworks-animation": {
+     "tier": "wikidata",
+     "evidence": "Q500088 → Q1113804 (P749/P127, 현재)"
+    }
+   }
+  },
+  "sony-group": {
+   "source": "https://www.sony.com/en/SonyInfo/CorporateInfo/",
+   "members": {
+    "sony-music": {
+     "tier": "wikidata",
+     "evidence": "Q56760250 → Q41187 (P749/P127, 현재)"
+    },
+    "sony-pictures": {
+     "tier": "wikidata",
+     "evidence": "Q822314 → Q41187 (P749/P127, 현재)"
+    },
+    "sony-interactive-entertainment": {
+     "tier": "wikidata",
+     "evidence": "Q18594 → Q41187 (P749/P127, 현재)"
+    },
+    "playstation": {
+     "tier": "wikidata",
+     "evidence": "Q1323662 → Q41187 (P749/P127, 현재)"
+    },
+    "columbia-pictures": {
+     "tier": "wikidata",
+     "evidence": "Q186941 → Q41187 (P749/P127, 현재)"
+    },
+    "epic-records": {
+     "tier": "wikidata",
+     "evidence": "Q216364 → Q41187 (P749/P127, 현재)"
+    }
+   }
+  },
+  "toyota": {
+   "source": "https://global.toyota/en/company/profile/",
+   "members": {
+    "lexus": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Lexus\": …luxury vehicle division of the Japanese automaker Toyota Motor Corporation. The Lexus brand is m…"
+    },
+    "daihatsu": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Daihatsu\": …ten supplied to global emerging markets under the Toyota brand. As of 2023, Daihatsu's presence …"
+    }
+   }
+  },
+  "bavarian-motor-works-bayerische-motoren-werke": {
+   "source": "https://www.bmwgroup.com/en/brands.html",
+   "members": {
+    "mini": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"미니\": …BMC)에서 1959년부터 2000년까지 생산한 소형 3도어 전륜구동 해치백 자동차이다. BMW 산하에 들어간 이후 2001년에 출시한 신형 미니가 대신할 때까지 영국…"
+    },
+    "rolls-royce-motor-cars": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"롤스로이스 자동차\": …imited)는 영국의 자동차 수공 제조 기업이다. 롤스로이스 plc에서 분리되어 독일의 BMW에 인수되었다. 영국의 자동차 수공 제조 기업이다.…"
+    }
+   }
+  },
+  "mercedes-benz-group": {
+   "source": "https://group.mercedes-benz.com/company/",
+   "members": {
+    "mercedes-benz": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"메르세데스-벤츠\": …템베르크주 슈투트가르트에 본사를 두고 있는 종합 자동차 제조 및 판매 업체이다. 모회사는 메르세데스-벤츠 그룹 AG이며, 자회사로는 고성능 디비전인 메르세데스-AMG이 있다. 하위 브랜드…"
+    },
+    "mercedes-amg": {
+     "tier": "wikidata",
+     "evidence": "Q26966 → Q27530 (P749/P127, 현재)"
+    },
+    "maybach": {
+     "tier": "wikidata",
+     "evidence": "Q35989 → Q27530 (P749/P127, 현재)"
+    }
+   }
+  },
+  "geely": {
+   "source": "https://global.geely.com/",
+   "members": {
+    "volvo-cars": {
+     "tier": "wikidata",
+     "evidence": "Q215293 → Q739000 (P749/P127, 현재)"
+    },
+    "polestar": {
+     "tier": "wikidata",
+     "evidence": "Q4047174 → Q739000 (P749/P127, 현재)"
+    },
+    "lotus-cars": {
+     "tier": "wikidata",
+     "evidence": "Q35935 → Q739000 (P749/P127, 현재)"
+    }
+   }
+  },
+  "tata-group": {
+   "source": "https://www.tata.com/business",
+   "members": {
+    "tata-motors-ltd": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"타타 자동차\": …번째로 큰 자동차 제조 기업이다. 타타그룹의 일부인 타타자동차는 이전에 TELCO(텔코, TATA Engineering and Locomotive Company)라는 이…"
+    },
+    "jaguar-cars": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"재규어 자동차\": … Group(PAG)의 한 일원이었으며, 2008년 랜드로버와 함께 인도의 자동차 회사인 타타 자동차에 인수되어 현재에 이르고 있다. 같은 해에는 랜드로버와 합병하여…"
+    },
+    "land-rover": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"랜드로버\": …랜드로버(영어: Land Rover)는 영국의 자동차 메이커로, 인도의 자동차 회사인 타타자동차 산하에 속해 있다. 미국의 지프가 보급형 SUV를 제작한다고 하면…"
+    },
+    "jaguar-land-rover": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"재규어 랜드로버\": …재규어 랜드로버는 영국의 승용차 회사인 재규어와 SUV 전문 회사인 랜드로버가 인도 타타 자동차에 인수된 후 합병하여 출범한 기업이다.…"
+    },
+    "air-india": {
+     "tier": "wikidata",
+     "evidence": "Q69906 → Q331715 (P749/P127, 현재)"
+    }
+   }
+  },
+  "renault": {
+   "source": "https://www.renaultgroup.com/en/our-brands/",
+   "members": {
+    "renault-korea": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"르노코리아\": …르노코리아는 대한민국의 외국계 자동차 제조사다. 르노는 프랑스 기업이며 대한민국 시장에서 인지도가 낮았던 르노는 삼성자동차를…"
+    },
+    "alpine": {
+     "tier": "wikidata",
+     "evidence": "Q26944 → Q6686 (P749/P127, 현재)"
+    }
+   }
+  },
+  "inditex": {
+   "source": "https://www.inditex.com/itxcomweb/en/brands",
+   "members": {
+    "pull-and-bear": {
+     "tier": "wikidata",
+     "evidence": "Q691029 → Q44504 (P749/P127, 현재)"
+    },
+    "bershka": {
+     "tier": "wikidata",
+     "evidence": "Q827258 → Q44504 (P749/P127, 현재)"
+    },
+    "massimo-dutti": {
+     "tier": "wikidata",
+     "evidence": "Q788231 → Q44504 (P749/P127, 현재)"
+    }
+   }
+  },
+  "loreal": {
+   "source": "https://www.loreal.com/en/brands/",
+   "members": {
+    "lanc-me": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"랑콤\": …르망 프티장(Armand Petitjean)이 설립했다. 세계 최대의 종합 화장품 회사인 로레알이 모기업이며, 1964년에 로레알이 인수했다.…"
+    },
+    "kiehl-s": {
+     "tier": "wikidata",
+     "evidence": "Q3196447 → Q156077 (P749/P127, 현재)"
+    }
+   }
+  },
+  "unilever": {
+   "source": "https://www.unilever.com/brands/",
+   "members": {
+    "dove": {
+     "tier": "wikidata",
+     "evidence": "Q962709 → Q157062 (P749/P127, 현재)"
+    },
+    "vaseline": {
+     "tier": "wikidata",
+     "evidence": "Q185120 → Q157062 (P749/P127, 현재)"
+    }
+   }
+  },
+  "procter-gamble": {
+   "source": "https://us.pg.com/brands/",
+   "members": {
+    "gillette": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"질레트\": …전지의 듀라셀, 구강제품의 오랄비 등을 인수하여 자회사로 두다가, 2005년 10월 1일 P&G에 인수되어 현재 P&G의 산하 브랜드로 되어 있다. 다만 듀라셀은 20…"
+    },
+    "always": {
+     "tier": "wikidata",
+     "evidence": "Q3500302 → Q212405 (P749/P127, 현재)"
+    },
+    "braun": {
+     "tier": "wikidata",
+     "evidence": "Q631220 → Q212405 (P749/P127, 현재)"
+    }
+   }
+  },
+  "diageo": {
+   "source": "https://www.diageo.com/en/our-brands",
+   "members": {
+    "johnnie-walker": {
+     "tier": "wikidata",
+     "evidence": "Q502268 → Q161140 (P749/P127, 현재)"
+    },
+    "captain-morgan": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"캡틴 모건\": …캡틴 모건(Captain Morgan)은 영국 굴지의 주류 업체인 디아지오에서 생산하는 향미 럼주(유럽에서는 일부 럼 향미 \"프리미엄 스피릿 드링…"
+    },
+    "smirnoff": {
+     "tier": "wikidata",
+     "evidence": "Q777721 → Q161140 (P749/P127, 현재)"
+    },
+    "tanqueray": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"탱커레이\": …탱커레이(Tanqueray)는 디아지오(Diageo plc)에서 생산하는 진 브랜드이다. 이 브랜드는 런던에서…"
+    },
+    "guinness": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"기네스\": … 판매량은 8억 5천만 리터이며 알코올 도수는 두 종류 모두 4.2%이다. 대한민국에서는 디아지오 코리아가 유통하고 있다.…"
+    },
+    "gordons-london-dry-gin": {
+     "tier": "wikidata",
+     "evidence": "Q1538163 → Q161140 (P749/P127, 현재)"
+    }
+   }
+  },
+  "pernod-ricard": {
+   "source": "https://www.pernod-ricard.com/en/our-brands",
+   "members": {
+    "absolut": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Absolut Vodka\": …n 1977, and since 2008 a part of the French group Pernod Ricard. Absolut is the second largest vodka br…"
+    },
+    "absolut-vodka": {
+     "tier": "wikidata",
+     "evidence": "Q332378 → Q837049 (P749/P127, 현재)"
+    },
+    "chivas-regal": {
+     "tier": "wikidata",
+     "evidence": "Q1069502 → Q837049 (P749/P127, 현재)"
+    },
+    "jameson": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"제임슨\": …제임슨(Jameson)은 아이리시 위스키 브랜드로, 페르노리카의 자회사인 아이리시 증류소에서 생산한다. 1780년 더블린에서 만들어진…"
+    }
+   }
+  },
+  "alibaba-group": {
+   "source": "https://www.alibabagroup.com/en-US/about-alibaba-businesses",
+   "members": {
+    "aliexpress": {
+     "tier": "wikidata",
+     "evidence": "Q29904317 → Q1359568 (P749/P127, 현재)"
+    },
+    "taobao": {
+     "tier": "wikidata",
+     "evidence": "Q2117484 → Q1359568 (P749/P127, 현재)"
+    }
+   }
+  },
+  "richemont": {
+   "source": "https://www.richemont.com/our-maisons/",
+   "members": {
+    "cartier": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"까르띠에\": … 파리에 세웠다. 까르띠에는 1964년까지 까르띠에 가문이 운영했다. 현재는 스위스 그룹 리슈몽의 일부다.…"
+    },
+    "international-watch-company": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"IWC Schaffhausen\": …bankruptcy and has been a subsidiary of the Swiss Richemont Group since 2000.…"
+    },
+    "vacheron-constantin": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Vacheron Constantin\": …Since 1996, it has been a subsidiary of the Swiss Richemont Group. Vacheron Constantin is the oldes…"
+    },
+    "chloe": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Chloé\": …e house is owned by luxury brands holding company Richemont Group. Chloé has been worn by many cele…"
+    }
+   }
+  },
+  "swatch-group": {
+   "source": "https://www.swatchgroup.com/en/brands",
+   "members": {
+    "swatch": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"스와치\": …스와치 유한회사(영어: Swatch SA)는 스위스의 스와치 그룹에 속하는 손목시계 제조및 판매 회사이다.…"
+    },
+    "longines": {
+     "tier": "wikipedia",
+     "evidence": "ko.wikipedia \"론진\": … 1832년 Auguste Agassiz에 의해 설립된 이 기업은 1983년부터 스위스의 스와치 그룹의 자회사이자 전신이다. 날개가 있는 모래시계 로고는 1889년에 등록되…"
+    }
+   }
+  },
+  "vf-corporation": {
+   "source": "https://www.vfc.com/brands",
+   "members": {
+    "vans": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Vans\": … established in Anaheim, California, and owned by VF Corporation. The company also sponsors surf, snowbo…"
+    },
+    "the-timberland-company": {
+     "tier": "wikipedia",
+     "evidence": "en.wikipedia \"Timberland (company)\": …retailer of outdoor footwear and apparel owned by VF Corporation. The company also sells accessories inc…"
+    }
+   }
+  }
+ }
+}

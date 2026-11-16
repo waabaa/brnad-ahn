@@ -241,6 +241,29 @@ brandatlas-social.timer(15분) / .path(어드민 신호) → scripts/server/soci
 - 기본값은 자동 생성 OFF·자동 발행 OFF(승인한 것만 발행). 설치·재설치: `deploy/setup-social-jobs.sh`(멱등).
 - 템플릿은 officetel-social, 발행 흐름은 officetel-social/bin/publish.mjs, 릴스 움직임·BGM은 short-gengen engine에서 가져왔다(`scripts/social/assets/NOTICE.md`).
 
+## 2-h. 탄생일·탄생 달력 (2026-11-14)
+
+`brand.founded {date:"YYYY-MM(-DD)", precision, sources, checkedAt}` — 브랜드가 태어난 연월(일). 근거는 셋뿐이다:
+Wikidata P571(월·일 정밀도만), 한국어·영문 위키백과 문서 첫 구역 정보상자의 설립 필드, 브랜드 본문의 "YYYY년 M월 … 설립" 문장.
+판정은 `scripts/lib/founding.mjs`의 `decideFounded()` — 사이트가 표시하는 설립 연도(`foundedYear`)와 같은 연도의 후보만 쓰고,
+월이 갈리면 싣지 않으며, 일은 일치할 때만 싣는다. 원장 `reports/founding-dates.json`, 조회 캐시 `reports/founding-cache.json`.
+
+- 일괄: `node scripts/enrich-founding-dates.mjs [--only-missing]` (데이터 보강 단계, 빌드 전).
+- **신규 브랜드는 수록할 때 바로 판정한다** — `import-wikidata-brands.mjs`가 같은 함수로 `founded`를 레코드에 넣는다(서버 주간 수록·요청 수록 공통).
+- 표시: 팩트 표 '탄생' 행(→ 그 달 허브), 브랜드 페이지 'N월에 태어난 브랜드'(본문 해시 뒤), 홈 'N월에 태어난 브랜드'(빌드 시점의 달),
+  허브 `/month/`(열두 달)·`/month/MM.html`(큰 숫자 머리·올해 주년·날짜 달력·연대순 목록). 5곳 미만인 달은 허브를 만들지 않는다.
+- 주년은 빌드 연도 기준 10년 단위와 25·75주년만 센다. 월간 기획(렌즈 로테이션)은 `.omc/plans/brand-atlas-monthly-births-2026-11.md`.
+
+## 2-i. 브랜드 그룹 (2026-11-16)
+
+모기업 아래 산하 브랜드 묶음. `brand.group`(대표 slug)·`brand.groupBasis`(근거 문장), 허브 `/group/<slug>.html`·`/pages/groups.html`.
+**모든 편입에 근거가 있어야 한다.** 근거는 둘뿐이다 — ① Wikidata P749(현재·종료/deprecated 제외, 지분 보유자 P127은 쓰지 않음)
+② `scripts/lib/groups.mjs`의 CURATED 후보를 `scripts/verify-group-evidence.mjs`가 검증한 것(위키데이터 소유 체인, 또는 그 브랜드 위키백과 도입부에
+그룹 이름과 소속·소유 표현이 함께 있을 때). 근거가 없으면 편입하지 않는다 — 기억으로 넣지 말 것. 근거는 `reports/brand-group-evidence.json`.
+- 새 후보를 넣으면 `verify-group-evidence.mjs --only <head>` → `assign-groups.mjs` 순. 낡은 소유 값은 `EXCLUDE`, 사업부 대표는 `DROP_HEADS`.
+- 허브는 대표 포함 3곳 이상일 때만(`MIN_GROUP_BRANDS`). 대표가 다른 그룹 구성원이면 상위 그룹으로 접는다.
+- 서버 주간 리프레시·`common.sh`·로컬 배포가 `assign-groups.mjs`를 컬렉션 편입 뒤에 돌린다(캐시 `reports/wikidata-group-claims.json`).
+
 ## 3. 빌드·배포
 
 ```bash
@@ -249,6 +272,7 @@ node scripts/localize-external-assets.mjs   # 외부 이미지 로컬화
 node scripts/enrich-wikidata-facts.mjs      # Wikidata 팩트 + Commons 로고
 node scripts/fetch-official-logos.mjs       # 공식 사이트에서 로고(로고 없는 브랜드만)
 node scripts/prune-logo-history.mjs         # 파일 없는 BI/CI 항목 제거
+node scripts/enrich-founding-dates.mjs      # 탄생일(§2-h)
 
 # 사이트 빌드(순서 고정)
 node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin/directory 판정 + 신선도 원장

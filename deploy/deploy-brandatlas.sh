@@ -51,7 +51,7 @@ if [ -z "$DRY" ]; then
   APPLIED="$(cd "$SITE" && node scripts/apply-auto-brands.mjs && node scripts/apply-logo-uploads.mjs)"; echo "$APPLIED"
   if [ "${CHANGED:-0}" -gt 0 ] || [ "${BRANDS:-0}" -gt 0 ] || [ "${UPLOADS:-0}" -gt 0 ] || grep -v "변경 없음\|수록분 없음" <<<"$APPLIED" | grep -q .; then
     echo "서버 매거진 원고 ${CHANGED:-0}건 · 수록 레코드 ${BRANDS:-0}건 · 올린 로고 ${UPLOADS:-0}건 변경 → 다시 빌드"
-    ( cd "$SITE" && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-brand-history.mjs && node scripts/build-seo-extras.mjs | tail -1 )
+    ( cd "$SITE" && { node scripts/assign-collections.mjs | tail -1 || true; } && { node scripts/assign-groups.mjs | tail -1 || true; } && node scripts/build-brand-pages.mjs | tail -1 && node scripts/build-magazine.mjs && node scripts/build-brand-history.mjs && node scripts/build-seo-extras.mjs | tail -1 )
   fi
 fi
 

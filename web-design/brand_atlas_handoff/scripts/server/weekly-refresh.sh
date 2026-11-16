@@ -26,6 +26,7 @@ echo "[0-b] 브랜드 수록: 검색 수요 상위 브랜드를 근거 검증 �
 echo "[0] 지수 기업 섹터 분류·컬렉션 편입(멱등, 실패해도 기존 값으로 빌드)"
 node scripts/apply-index-sectors.mjs | head -1 || echo "  ! 섹터 분류 실패"
 node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실패"
+node scripts/assign-groups.mjs | tail -1 || echo "  ! 그룹 편입 실패"
 
 echo "[1] 사이트 빌드(브랜드 페이지·매거진·허브·sitemap·RSS)"
 build_site || { echo "빌드 실패 — 공개하지 않음"; exit 1; }

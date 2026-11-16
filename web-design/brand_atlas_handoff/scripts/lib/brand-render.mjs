@@ -12,7 +12,7 @@ import { collectionsOf, COLLECTION_BY_SLUG } from "./collections.mjs";
 
 const COUNTRY_SLUG_REF = { 미국: "usa", 한국: "korea", 독일: "germany", 영국: "uk", 프랑스: "france", 일본: "japan", 이탈리아: "italy", 네덜란드: "netherlands", 스웨덴: "sweden", 스위스: "switzerland", 캐나다: "canada", 스페인: "spain", 호주: "australia", 뉴질랜드: "new-zealand", 노르웨이: "norway", 핀란드: "finland", 덴마크: "denmark", 벨기에: "belgium", 오스트리아: "austria", 러시아: "russia", 중국: "china", 폴란드: "poland", 대만: "taiwan", 브라질: "brazil", 아이슬란드: "iceland", 자메이카: "jamaica", 그리스: "greece", 포르투갈: "portugal", 홍콩: "hong-kong", 터키: "turkey", 남아프리카공화국: "south-africa", 인도: "india", 멕시코: "mexico", 아일랜드: "ireland", 싱가포르: "singapore", 태국: "thailand", 베트남: "vietnam", 체코: "czech", 헝가리: "hungary", 이스라엘: "israel", 칠레: "chile", 아르헨티나: "argentina", 말레이시아: "malaysia", 인도네시아: "indonesia", 필리핀: "philippines", 우크라이나: "ukraine" };
 
-const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", data: "수록 자료", archive: "인터넷 아카이브", sec: "SEC EDGAR 공시" };
+const SOURCE_LABEL = { definition: "정의문", wikidata: "위키데이터", wikipedia: "위키백과 정보상자", data: "수록 자료", archive: "인터넷 아카이브", sec: "SEC EDGAR 공시" };
 
 /**
  * @param brand
@@ -41,7 +41,7 @@ function dedupeSegments(text) {
 }
 
 export function renderBrandPage(brand, ctx) {
-  const { sandbox, faq, countryHubs, collectionHubs } = ctx;
+  const { sandbox, faq, countryHubs, collectionHubs, groupHubs } = ctx;
   const P = "../";
   const label = koreanName(brand) || latinName(brand) || String(brand.name || "");
   const t = topicParticle(label);
@@ -79,9 +79,26 @@ export function renderBrandPage(brand, ctx) {
   if (!timelineHtml.includes("empty-note")) {
     sections.push({ id: "timeline", title: `${esc(label)} 연혁`, html: `<section id="timeline" class="timeline"><h2>${esc(label)} 연혁 — 주요 사건은 언제였나</h2>${timelineHtml}</section>` });
   }
-  const biciHtml = sandbox.logoArchive(brand);
+  // 로고 변천(brand.logoEras, fetch-logo-eras.mjs) — 시기가 확인된 로고가 2장 이상이면 그것을 연대순으로 싣는다.
+  const eras = Array.isArray(brand.logoEras) ? brand.logoEras : [];
+  if (eras.length >= 2) {
+    const span = (e, i) => e.from && e.to ? `${e.from}–${e.to}` : e.from ? (i === eras.length - 1 ? `${e.from}–현재` : `${e.from}–`) : `~${e.to}`;
+    // 같은 시기 표기가 여러 장이면(예: 2013–2013) alt 가 겹치지 않게 순번을 붙인다.
+    const spanCount = new Map(); for (const [i, e] of eras.entries()) spanCount.set(span(e, i), (spanCount.get(span(e, i)) || 0) + 1);
+    const spanSeen = new Map();
+    const altOf = (e, i) => { const k = span(e, i), n = spanCount.get(k); if (n < 2) return k; const c = (spanSeen.get(k) || 0) + 1; spanSeen.set(k, c); return `${k} (${c}/${n})`; };
+    const cards = eras.map((e, i) => `<li><a href="${esc(e.url)}" rel="noopener" target="_blank"><span class="lg"><img src="${P}${esc(e.src)}" alt="${esc(displayName(brand))} 로고 ${esc(altOf(e, i))}" loading="lazy" decoding="async"></span><b>${esc(span(e, i))}</b></a></li>`).join("");
+    sections.push({ id: "bici", title: `${esc(label)} 로고 변천사`, html: `<section id="bici"><h2>${esc(label)} 로고는 어떻게 변해왔나</h2><ol class="logo-eras">${cards}</ol><p class="src">시기는 위키데이터 로고 기간 또는 위키미디어 커먼즈 파일 정보 기준입니다. 이미지를 누르면 원본 파일과 라이선스를 볼 수 있습니다.</p></section>` });
+  }
+  const biciHtml = eras.length >= 2 ? "empty-note" : sandbox.logoArchive(brand);
   if (!biciHtml.includes("empty-note") && hasLogo(brand)) {
     sections.push({ id: "bici", title: `${esc(label)} 로고 변천사`, html: `<section id="bici"><h2>${esc(label)} 로고는 어떻게 변해왔나</h2>${biciHtml}</section>` });
+  }
+  // 사진으로 보는 역사 — 커먼즈 옛 사진(fetch-history-photos.mjs). 설명은 커먼즈 원문 그대로, 저작자·라이선스 표기.
+  const hp = Array.isArray(brand.historyPhotos) ? brand.historyPhotos : [];
+  if (hp.length) {
+    const figs = hp.map(p => `<figure><a href="${esc(p.url)}" rel="noopener" target="_blank"><img src="${P}${esc(p.src)}" alt="${esc(label)} ${p.year}년 사진${p.desc ? ` — ${esc(p.desc.slice(0, 80))}` : ""}" loading="lazy" decoding="async"></a><figcaption><b>${p.year}</b>${p.desc ? `<span>${esc(p.desc)}</span>` : ""}<small>사진 ${esc(p.artist)} · ${esc(p.license)} · 위키미디어 커먼즈</small></figcaption></figure>`).join("");
+    sections.push({ id: "photos", title: "사진으로 보는 역사", html: `<section id="photos"><h2>사진으로 보는 ${esc(label)}의 역사</h2><div class="history-photos">${figs}</div></section>` });
   }
   if (faq && faq.length) {
     sections.push({ id: "faq", title: "자주 묻는 질문", html: `<section id="faq"><h2>자주 묻는 질문</h2><div class="faq-list">${faq.map(({ q, a }) => `<div class="faq-item"><h3>${esc(q)}</h3><p>${esc(a)}</p></div>`).join("")}</div></section>` });
@@ -107,6 +124,7 @@ export function renderBrandPage(brand, ctx) {
   if (brand.industry) chips.push(`<a class="chip" href="${catHref}">${esc(brand.industry)}</a>`);
   if (country) chips.push(cslug && countryHubs && countryHubs.has(cslug) ? `<a class="chip" href="${P}country/${cslug}.html">${esc(country)} 브랜드</a>` : `<span class="chip">${esc(country)}</span>`);
   for (const s of collectionsOf(brand)) if (collectionHubs && collectionHubs.has(s)) chips.push(`<a class="chip" href="${P}collection/${s}.html">${esc(COLLECTION_BY_SLUG.get(s).name)}</a>`);
+  if (brand.group && groupHubs && groupHubs.has(brand.group)) chips.push(`<a class="chip" href="${P}group/${esc(brand.group)}.html">${esc(groupHubs.get(brand.group))} 그룹</a>`);
   if (hasLogo(brand)) chips.push(`<a class="chip" href="#bici">로고</a>`);
   const lead = sandbox.short(brand.definition || brand.summary || "", 260);
   const head = `<div class="brand-head"><div class="wrap"><div class="grid"><div class="info">${crumbs}<h1>${headingMarkup(brand, esc)}</h1><p class="lead">${esc(lead)}</p><div class="meta">${chips.join("")}</div>__UPDATED__</div><div class="logo-panel${hasLogo(brand) ? "" : " is-wordmark"}">${logoImg(brand, P, { lazy: false, width: 480, height: 480 })}</div></div></div></div>`;
@@ -135,6 +153,7 @@ function sourcesSection(brand, label) {
   const basis = [];
   basis.push("브랜드명은 한글과 원어를 함께 표기하되 데이터에 없는 표기는 만들지 않습니다.");
   basis.push("기원 국가·설립연도는 검수된 정의문에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 일치하는 위키데이터 개체의 값을 씁니다.");
+  if (brand.founded) basis.push("탄생일의 월·일은 위키데이터, 위키백과 정보상자, 본문 가운데 같은 연월로 확인되는 값만 싣고, 출처끼리 다르면 싣지 않습니다.");
   if (brand.webArchive) basis.push(`웹 첫 보관은 인터넷 아카이브가 공식 사이트 첫 화면을 처음 보관한 날로, 사이트 개설일과 다를 수 있습니다.`);
   if (brand.secFacts?.revenue) basis.push(`연 매출은 미국 증권거래위원회(SEC)에 제출된 연차 보고서(${esc(brand.secFacts.revenue.form)})의 XBRL 값이며 달러 금액을 반올림했습니다.`);
   if (brand.wikidata) basis.push(`위키데이터 값은 ${esc(brand.wikidata.fetchedAt || "")} 기준입니다.`);

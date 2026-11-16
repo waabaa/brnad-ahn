@@ -1,6 +1,7 @@
 // 정적 페이지 공용 셸 — 헤더(검색·모바일 메뉴)·푸터·<head>.
 // 모든 허브·브랜드 페이지가 이 셸을 쓴다. app.js는 붙이지 않는다(허브는 정적으로 완결).
-// 모바일 메뉴는 체크박스(:checked)로 열리므로 JS 없이도 동작한다.
+// 모바일 메뉴는 <dialog> 서랍이다. 버튼은 Invoker Commands(commandfor/command)로 JS 없이 열고 닫고,
+// 미지원 브라우저(Chrome<135·Safari<26.2·Firefox<144)만 MENU_FALLBACK이 같은 동작을 붙인다.
 
 import { ORIGIN, CSS_V, gaSnippet } from "./brand-seo.mjs";
 
@@ -22,29 +23,31 @@ export const NAV = [
 
 const SEARCH_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>';
 
+export const MENU_BUTTON = '<button type="button" class="menu-btn" commandfor="mobile-menu" command="show-modal" aria-haspopup="dialog" aria-label="메뉴 열기"><span></span><span></span><span></span></button>';
+export const MENU_HEAD = '<div class="mm-head"><b>메뉴</b><button type="button" class="mm-close" commandfor="mobile-menu" command="close" aria-label="메뉴 닫기" autofocus><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>';
+// Invoker Commands·closedby 미지원 브라우저용. 지원 브라우저에서는 아무것도 붙이지 않는다(이중 토글 방지).
+export const MENU_FALLBACK = '<script>(()=>{const d=document.getElementById("mobile-menu");if(!d||!d.showModal)return;if(!("commandForElement" in HTMLButtonElement.prototype))document.querySelectorAll("[commandfor=mobile-menu]").forEach(b=>b.addEventListener("click",()=>b.getAttribute("command")==="close"?d.close():d.showModal()));if(!("closedBy" in HTMLDialogElement.prototype))d.addEventListener("click",e=>{if(e.target===d)d.close()})})()</script>';
+
 /** prefix: 루트 기준 상대 경로 접두("" 또는 "../"). */
 export function header(active = "", prefix = "../") {
   const links = NAV.map(([name, href, key]) =>
-    `<a class="${key === active ? "active" : ""}" href="${prefix}${href}">${name}</a>`).join("");
+    `<a class="${key === active ? "active" : ""}"${key === active ? ' aria-current="page"' : ""} href="${prefix}${href}">${name}</a>`).join("");
   const search = (id) => `<form class="hdr-search" role="search" action="${prefix}pages/search.html" method="get"><label class="sr-only" for="${id}">브랜드 검색</label><input id="${id}" name="q" type="search" placeholder="브랜드명·초성으로 검색" autocomplete="off"><button type="submit" aria-label="검색">${SEARCH_ICON}</button></form>`;
-  return `<header class="site-header"><input type="checkbox" id="menu-toggle" aria-hidden="true"><div class="bar"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><nav class="nav" aria-label="주 메뉴">${links}</nav>${search("hdr-q")}<label class="menu-btn" for="menu-toggle" aria-label="메뉴 열기"><span></span><span></span><span></span></label></div><div class="mobile-menu"><div class="inner"><form role="search" action="${prefix}pages/search.html" method="get"><label class="sr-only" for="m-q">브랜드 검색</label><input id="m-q" name="q" type="search" placeholder="브랜드명·초성으로 검색"><button type="submit">검색</button></form><nav aria-label="모바일 메뉴">${links}<a href="${prefix}pages/about.html">소개</a></nav></div></div></header>`;
+  return `<header class="site-header"><div class="bar"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><nav class="nav" aria-label="주 메뉴">${links}</nav>${search("hdr-q")}${MENU_BUTTON}</div><dialog class="mobile-menu" id="mobile-menu" closedby="any" aria-label="메뉴"><div class="inner">${MENU_HEAD}<form role="search" action="${prefix}pages/search.html" method="get"><label class="sr-only" for="m-q">브랜드 검색</label><input id="m-q" name="q" type="search" placeholder="브랜드명·초성으로 검색"><button type="submit">검색</button></form><nav aria-label="모바일 메뉴">${links}<a href="${prefix}pages/about.html">소개</a></nav></div></dialog>${MENU_FALLBACK}</header>`;
 }
 
 export const ARCHETYPOS_URL = "https://www.archetypos.co.kr/";
 
 export function footer(prefix = "../") {
   const col = (title, items) => `<div><h4>${title}</h4><ul>${items.map(([n, h]) => `<li><a href="${/^https?:/.test(h) ? h : prefix + h}">${n}</a></li>`).join("")}</ul></div>`;
-  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["테마별 컬렉션", "pages/collections.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["아틀라스 매거진", "magazine/"], ["브랜드 연대기", "brand-history/"], ["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"], ["KoreaTripAdvisor · 외국인을 위한 한국 여행 가이드", "https://www.koreatripadvisor.com/"]])}</div><div class="legal"><a class="legal-org" href="${ARCHETYPOS_URL}" rel="noopener" target="_blank"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span></a><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
+  return `<footer class="site-footer"><div class="inner"><div class="brand"><a class="logo" href="${prefix}index.html"><span class="logo-mark"></span><span>브랜드 아틀라스<small>BRAND ATLAS</small></span></a><p>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 검증된 사실만 싣고, 없는 표기는 만들지 않습니다.</p></div>${col("찾아보기", [["가나다 · ABC 색인", "pages/ganada.html"], ["산업별 브랜드", "pages/industry.html"], ["국가별 브랜드", "pages/countries.html"], ["테마별 컬렉션", "pages/collections.html"], ["모기업별 그룹", "pages/groups.html"], ["전체 브랜드 목록", "pages/brands.html"], ["브랜드 검색", "pages/search.html"]])}${col("아카이브", [["아틀라스 매거진", "magazine/"], ["브랜드 연대기", "brand-history/"], ["탄생 달력", "month/"], ["로고 아카이브", "pages/bici.html"], ["브랜드 타임라인", "pages/timeline.html"], ["브랜드 인사이트", "pages/insights.html"], ["최근 갱신(RSS)", "rss.xml"]])}${col("안내", [["브랜드 아틀라스 소개", "pages/about.html"], ["편집 원칙", "pages/about.html#principles"], ["문의", "pages/contact.html"], ["개인정보 처리방침", "pages/privacy.html"], ["KoreaTripAdvisor · 외국인을 위한 한국 여행 가이드", "https://www.koreatripadvisor.com/"]])}</div><div class="legal"><a class="legal-org" href="${ARCHETYPOS_URL}" rel="noopener" target="_blank"><img src="${prefix}assets/objects/archetypos_logo.png" alt="브랜드성장연구소 아키타이포스 로고" width="284" height="66" loading="lazy" decoding="async"><span>운영 브랜드성장연구소 아키타이포스</span></a><span>© 브랜드 아틀라스. 로고·상표의 권리는 각 브랜드 소유자에게 있습니다.</span></div></footer>`;
 }
-
-// 아키타이포스(archetypos.co.kr) 배너용 웹폰트 — 그 사이트가 실제로 쓰는 DM Sans(영문) + Noto Sans KR(한글, 300)
-// 를 그대로 가져와 배너에서만 쓴다. 본문 폰트(Pretendard)는 건드리지 않는다.
-export const archetyposFontLink = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Noto+Sans+KR:wght@300;500&display=swap">';
 
 /**
  * 아키타이포스(브랜드 아틀라스 운영사) 디자인·컨설팅 의뢰 배너.
  * variant: "home"(전폭 배너) | "aside"(브랜드 상세 사이드바 카드).
- * 색·타이포는 archetypos.co.kr 원본(잉크 #141414·라임 #c9ff3d·블루 #2349d8, DM Sans+Noto Sans KR)을 그대로 가져왔다.
+ * 색은 archetypos.co.kr 원본(잉크 #141414·라임 #c9ff3d·블루 #2349d8)을 가져왔다. 서체는 2026-11-14부터 본문과 같은 Pretendard
+ * (구글 폰트 DM Sans·Noto Sans KR은 배너 하나 때문에 모든 페이지가 받던 렌더 차단 요청이라 뺐다).
  */
 export function archetyposBanner(variant = "home") {
   if (variant === "aside") {

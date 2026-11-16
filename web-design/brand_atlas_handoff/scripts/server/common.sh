@@ -23,6 +23,7 @@ build_site() {
   node scripts/apply-auto-brands.mjs --decisions "$CAT_ADMIN/decisions.json" $auto &&
   node scripts/apply-logo-uploads.mjs --from "$ADMIN_HOME/data/logo-uploads" &&
   { node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실패"; } &&
+  { node scripts/assign-groups.mjs | tail -1 || echo "  ! 그룹 편입 실패"; } &&
   node scripts/build-brand-pages.mjs | tail -1 &&
   node scripts/build-magazine.mjs &&
   node scripts/build-brand-history.mjs &&
