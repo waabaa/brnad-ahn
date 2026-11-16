@@ -3,7 +3,7 @@
 
 근거(서버 nginx 로그 8일): Bytespider 하루 ~790건, Python-urllib(AWS 54.191.1.131) 브랜드 페이지만 535건,
 TernCrawler 290건, 195.178.110.102(rDNS 없음, Googlebot 사칭 포함), 112.217.82.66(LG유플러스 기업회선,
-사용자 회선 아님 — `node`로 1분에 1,522건 일괄 수집). 검색엔진·AI 검색봇·SEO 점수 봇은 막지 않는다.
+사용자 회선 아님 — `node`로 1분에 1,522건 일괄 수집). 검색엔진·AI 검색봇은 막지 않는다. (2026-11-17 사용자 승인: 유입 이득 없는 CCBot(AI 학습 수집)·SemrushBot·AhrefsBot(SEO 데이터 수집) 추가)
 
 변수 이름에 brandatlas_ 접두어를 붙여 conf.d(http 공용)에 두고, 판정은 brandatlas apex 443 블록에서만 한다 —
 같은 nginx를 쓰는 다른 사이트에는 영향이 없다. 목록을 바꾸면 이 파일의 BAD_UA/BAD_IP만 고쳐 다시 실행한다(멱등).
@@ -21,7 +21,7 @@ SITE = Path("/etc/nginx/sites-enabled/brandatlas.co.kr.conf")
 MAPS = Path("/etc/nginx/conf.d/13-brandatlas-botblock.conf")
 MARKER = "# bot-block (brand-atlas)"
 
-BAD_UA = ["Bytespider", "Python-urllib", "TernCrawler"]
+BAD_UA = ["Bytespider", "Python-urllib", "TernCrawler", "CCBot", "SemrushBot", "AhrefsBot"]
 BAD_IP = ["195.178.110.102", "112.217.82.66"]
 
 MAPS_TEXT = (
