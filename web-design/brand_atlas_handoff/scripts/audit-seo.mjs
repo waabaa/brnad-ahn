@@ -203,8 +203,6 @@ const report = {
     return { pages: lens.length, min: lens[0] ?? 0, p50: lens[Math.floor(lens.length / 2)] ?? 0, under700: lens.filter(x => x < 700).length };
   })(),
   sitemap: { childFiles: sitemapFiles, totalLocs: sitemapLocs, hubLocs: sitemapHubLocs, brandLocs: sitemapLocs - sitemapHubLocs, distinctLastmod: lastmods.size, imageEntries: sitemapImages },
-  rssItems: fs.existsSync(path.join(ROOT, "rss.xml"))
-    ? (fs.readFileSync(path.join(ROOT, "rss.xml"), "utf8").match(/<item>/g) || []).length : 0,
 };
 
 if (asJson) {
@@ -228,7 +226,6 @@ if (asJson) {
     ["AC-B4 FAQPage >= 색인 대상의 85%", report.faqPageJsonLd >= Math.floor((report.brandPages - report.noindexThin) * 0.85)],
     ["AC-B5 desc 중복 0 / title 중복은 canonical 통합됨", report.description.duplicateGroups === 0 && report.title.duplicateGroups <= report.canonicalMerged],
     ["AC-C1 empty-note == 0", report.emptyNotePages === 0],
-    ["AC-D1 rss >= 100", report.rssItems >= 100],
     ["canonical 중복 = 의도된 통합분만", report.canonicalMerged <= 2],
     ["AC-G2 dateModified == 전 브랜드 페이지", report.geo.dateModified === files.length && report.geo.visibleUpdatedLine === files.length],
     ["AC-G3 sameAs > 300 (Wikidata 검증분)", report.geo.sameAs >= 300],

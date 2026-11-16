@@ -85,7 +85,7 @@ async function naverIndexed() {
 
 /** 사이트가 실제로 응답하는지 — 색인 수가 떨어졌을 때 원인 구분에 필요하다. */
 async function liveCheck() {
-  const urls = ["/", "/sitemap.xml", "/rss.xml", "/pages/brands.html"];
+  const urls = ["/", "/sitemap.xml", "/pages/brands.html"];
   const out = {};
   for (const u of urls) {
     try {

@@ -114,18 +114,6 @@ for (const rel of ["index.html", "pages/brands.html", "pages/industry.html",
   if (broken) fail(`${rel}: 깨진 브랜드 링크 ${broken}건`);
 }
 
-// ── RSS ───────────────────────────────────────────────────────────────────
-const rssPath = path.join(ROOT, "rss.xml");
-if (!fs.existsSync(rssPath)) fail("rss.xml 없음");
-else {
-  const r = fs.readFileSync(rssPath, "utf8");
-  const items = [...r.matchAll(/<link>([^<]+)<\/link>/g)].map(m => m[1]).filter(u => u.includes("/brand/"));
-  let rssBroken = 0;
-  for (const u of items) if (!fs.existsSync(localPath(u))) rssBroken++;
-  if (rssBroken) fail(`rss.xml: 없는 파일을 가리키는 항목 ${rssBroken}건`);
-  if (items.length < 50) fail(`rss.xml 항목이 적음: ${items.length}`);
-}
-
 // ── 결과 ──────────────────────────────────────────────────────────────────
 console.log(JSON.stringify({
   brandPages: brandFiles.length,

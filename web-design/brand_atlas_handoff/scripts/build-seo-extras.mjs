@@ -1,4 +1,4 @@
-// 허브·홈·사이트맵·RSS·robots·llms.txt·검색 인덱스 빌더 (build-brand-pages.mjs 다음에 실행).
+// 허브·홈·사이트맵·robots·llms.txt·검색 인덱스 빌더 (build-brand-pages.mjs 다음에 실행).
 //
 // 모든 허브는 완결된 정적 HTML이다 — 네이버 Yeti는 JS를 실행하지 않는다(2026-08 감사).
 // 산출물:
@@ -9,7 +9,7 @@
 //   pages/timeline.html    연대별 연혁      pages/insights.html   브랜드 관점
 //   pages/about|privacy|contact.html        index.html
 //   data/search-index.json 슬림 검색 인덱스(초성 포함)
-//   sitemap*.xml rss.xml robots.txt llms.txt
+//   sitemap*.xml robots.txt llms.txt
 //
 // 디렉토리 등급(한글 표기·로고 모두 없음)은 목록·홈·llms에서 제외하고 pages/directory.html
 // 과 카테고리 하단 접힘 목록에서만 링크한다. 색인 여부는 등급이 아니라 본문 분량으로
@@ -649,7 +649,7 @@ ${monthTeaser}
 ${magTeaser}
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별로 찾기</h2><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${PINNED_STYLE}<div class="cat-grid">${industryGroups.map(([slug, g]) => catCard(slug, g, H)).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>주요 브랜드</h2><p>한글 표기·로고·본문을 모두 갖춘 브랜드 가운데 자료가 풍부한 순</p></div>${tiles(popular, H, { sub: "origin", size: "lg", eagerFirst: true })}<p style="margin-top:18px"><a class="btn ghost" href="${H}pages/bici.html">로고 아카이브 전체 보기</a></p></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p><a class="more" href="${H}rss.xml">RSS 구독 →</a></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><h2>새로 다듬은 브랜드 기록</h2><p>본문을 새로 쓰거나 고친 순서입니다</p></div><div class="recent">${recent.map(b => `<a href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${hasLogo(b) ? `<img src="${assetHref(b.logo, H)}" alt="" loading="lazy" decoding="async">` : `<span class="none"></span>`}<span><b>${esc(displayName(b))}</b><small>${esc(b.industry || "")} · ${esc(koMonthDay(pageDateLedger[urlSlugOf(b)]?.modified))} 업데이트</small></span></a>`).join("")}</div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>산업별 대표 브랜드</h2><p>산업마다 자료가 풍부한 브랜드부터</p><a class="more" href="${H}pages/industry.html">산업별 전체 →</a></div>${industryGroups.map(([slug, g]) => { const top = g.items.filter(b => archiveTier(b) === "core").sort(byScore).slice(0, 8); return top.length ? `<div class="section-head" style="margin-top:18px"><h3><a href="${H}category/${slug}.html">${esc(g.label)}</a></h3></div><nav class="chips" aria-label="${esc(g.label)} 대표 브랜드">${top.map(b => `<a class="chip" href="${H}brand/${encodeURIComponent(urlSlugOf(b))}.html">${esc(displayName(b))}</a>`).join("")}</nav>` : ""; }).join("")}</div></section>
 <section class="section"><div class="wrap"><div class="section-head"><h2>가나다 · ABC 색인</h2><a class="more" href="${H}pages/ganada.html">색인 전체 →</a></div>${indexNav("", H)}<div class="section-head" style="margin-top:26px"><h2>컬렉션</h2><a class="more" href="${H}pages/collections.html">컬렉션 전체 →</a></div><nav class="chips" aria-label="컬렉션">${collectionDrafts.map(({ c, arr }) => `<a class="chip" href="${H}collection/${c.slug}.html">${esc(c.name)} <small>${arr.length}</small></a>`).join("")}</nav><div class="section-head" style="margin-top:26px"><h2>국가별</h2><a class="more" href="${H}pages/countries.html">국가별 전체 →</a></div><nav class="chips" aria-label="국가별">${countryDrafts.map(({ c, slug, arr }) => `<a class="chip" href="${H}country/${slug}.html">${esc(c)} <small>${arr.length}</small></a>`).join("")}</nav></div></section>
 <section class="section"><div class="wrap"><div class="about-strip"><div><b>없는 표기를 만들지 않습니다</b><p>한글 표기가 확인된 브랜드만 한글로 적고, 나머지는 원어를 그대로 씁니다.</p></div><div><b>검증된 사실만 표에 넣습니다</b><p>기원 국가·설립연도는 검수된 설명이나 공식 사이트가 일치하는 위키데이터에서만 가져옵니다.</p></div><div><b>로고 변천까지 기록합니다</b><p>${stats.bici}개 브랜드의 로고 변천사를 상세 페이지에 실었습니다.</p></div></div><p style="margin-top:16px"><a class="more" href="${H}pages/about.html">브랜드 아틀라스 소개와 편집 원칙 →</a></p></div></section>
@@ -767,20 +767,8 @@ for (const stale of fs.readdirSync(ROOT).filter(f => /^sitemap-brands-\d+\.xml$/
 writeIfChanged(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.map(f => `  <sitemap><loc>${ORIGIN}/${f}</loc><lastmod>${TODAY}</lastmod></sitemap>`).join("\n")}\n</sitemapindex>\n`);
 console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${brandEntries.length} brands (noindex ${total - indexable.length} excluded)`);
 
-// ─── 13) RSS ─────────────────────────────────────────────────────────────
-{
-  // RSS는 '최근 갱신된 브랜드' 채널이므로 목록 노출 대상만 싣는다 — 디렉토리 등급은
-  // 색인 대상이어도 목록·홈에 올리지 않는다는 정책과 같은 기준이다.
-  const ranked = indexable.filter(isListed).map(b => ({ b, d: pageDateLedger[urlSlugOf(b)]?.modified || mtime(`brand/${urlSlugOf(b)}.html`) })).sort((x, y) => y.d.localeCompare(x.d) || byScore(x.b, y.b)).slice(0, 100);
-  const items = ranked.map(({ b, d }) => {
-    const link = `${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html`;
-    const text = String(b.definition || b.summary || b.insight || "").slice(0, 280);
-    return `    <item><title>${esc(displayName(b))}</title><link>${link}</link><guid isPermaLink="true">${link}</guid><category>${esc(b.industry || "")}</category><pubDate>${new Date(`${d}T00:00:00+09:00`).toUTCString()}</pubDate><description>${esc(text)}</description></item>`;
-  }).join("\n");
-  const magItems = ARTICLES.map(a => { const link = `${ORIGIN}/magazine/${a.slug}.html`; return `    <item><title>${esc(`[매거진] ${a.title}`)}</title><link>${link}</link><guid isPermaLink="true">${link}</guid><category>아틀라스 매거진</category><pubDate>${new Date(`${a.date}T06:00:00+09:00`).toUTCString()}</pubDate><description>${esc(a.dek)}</description></item>`; }).join("\n");
-  writeIfChanged(path.join(ROOT, "rss.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n  <channel>\n    <title>브랜드 아틀라스 — 브랜드 사전·로고 아카이브</title>\n    <link>${ORIGIN}/</link>\n    <atom:link href="${ORIGIN}/rss.xml" rel="self" type="application/rss+xml"/>\n    <description>브랜드의 역사·아이덴티티·로고 변천을 한글로 정리한 브랜드 사전. 수록 ${listedTotal}개 브랜드 중 최근 갱신분.</description>\n    <language>ko</language>\n    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n${magItems ? `${magItems}\n` : ""}${items}\n  </channel>\n</rss>\n`);
-  console.log(`rss.xml: ${ranked.length} items`);
-}
+// ─── 13) RSS는 공개하지 않는다(2026-11-17: 무단 수집·복제 우려) — 남아 있는 rss.xml 은 지운다.
+if (fs.existsSync(path.join(ROOT, "rss.xml"))) fs.unlinkSync(path.join(ROOT, "rss.xml"));
 
 // ─── 14) robots.txt ──────────────────────────────────────────────────────
 {
@@ -831,7 +819,6 @@ console.log(`sitemap.xml: ${files.length} files, ${hubEntries.length} hubs + ${b
     ...top.map(b => `- [${displayName(b)}](${ORIGIN}/brand/${encodeURIComponent(urlSlugOf(b))}.html): ${String(b.definition || b.summary || "").replace(/\s+/g, " ").slice(0, 120)}`),
     "",
     "## 기타",
-    `- [RSS](${ORIGIN}/rss.xml): 최근 갱신 100건`,
     `- [사이트맵](${ORIGIN}/sitemap.xml)`,
     "",
   ];

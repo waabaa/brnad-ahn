@@ -257,7 +257,6 @@ function acceptance(audit) {
     ["AI 크롤러 명시 10+", (audit.geo?.robotsAiAgents ?? 0) >= 10],
     ["이미지 sitemap 1000+", (audit.sitemap?.imageEntries ?? 0) > 1000],
     ["허브 본문 700자 미만 0", audit.hubProse?.under700 === 0],
-    ["RSS 100+", (audit.rssItems ?? 0) >= 100],
     ["sitemap 분할", (audit.sitemap?.childFiles ?? 0) >= 2],
   ];
   return { checks, total: checks.length, pass: checks.filter((c) => c[1]).length, fail: checks.filter((c) => !c[1]).length };

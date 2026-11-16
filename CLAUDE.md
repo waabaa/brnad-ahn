@@ -175,7 +175,7 @@ Gemini 폴백은 research 키의 작은 Gemini 몫을 태우고, 소진되면 1�
 - 본문 문법: `## 소제목`, `::plate slug, … | 캡션`(로고 도판), `::palette slug | 캡션`(brandArchive 색상 띠),
   `::quote 문장 | 출처`, `[글](brand:slug)`.
 - 연결: 홈 '아틀라스 매거진'(최신 3편), 브랜드 페이지 '매거진에서 읽기'(본문 해시 뒤에 붙여 신선도 원장에 영향 없음),
-  sitemap-hubs(lastmod = 원고 date/modified), RSS(`[매거진]` 항목), llms.txt.
+  sitemap-hubs(lastmod = 원고 date/modified), llms.txt.
 - 빌드 순서: `build-brand-pages` → `build-magazine` → `build-brand-history` → `build-seo-extras`.
 
 **매거진 관련 작업은 전부 배포 서버에서 돈다(2026-09-13 사용자 지시 — "이거 중요해").** 원고의 원본도 서버다.
@@ -264,6 +264,8 @@ Wikidata P571(월·일 정밀도만), 한국어·영문 위키백과 문서 첫 
 - 허브는 대표 포함 3곳 이상일 때만(`MIN_GROUP_BRANDS`). 대표가 다른 그룹 구성원이면 상위 그룹으로 접는다.
 - 서버 주간 리프레시·`common.sh`·로컬 배포가 `assign-groups.mjs`를 컬렉션 편입 뒤에 돌린다(캐시 `reports/wikidata-group-claims.json`).
 
+**RSS는 공개하지 않는다(2026-11-17 사용자 지시).** 무단 수집·복제 우려로 `rss.xml`·`<link rel="alternate">`·푸터/홈 링크·llms.txt 항목·검증(AC-D1)을 모두 뺐다. 빌드가 남은 `rss.xml`을 지운다 — 다시 만들지 말 것.
+
 ## 3. 빌드·배포
 
 ```bash
@@ -278,7 +280,7 @@ node scripts/enrich-founding-dates.mjs      # 탄생일(§2-h)
 node scripts/build-brand-pages.mjs     # 브랜드 페이지 + thin/directory 판정 + 신선도 원장
 node scripts/build-magazine.mjs        # 아틀라스 매거진(공개일이 지난 원고만, 숫자 검증 실패 시 중단)
 node scripts/build-brand-history.mjs   # 브랜드 연대기(/brand-history/)
-node scripts/build-seo-extras.mjs      # 허브·홈·가나다·국가·로고월·sitemap·RSS·robots·llms.txt·검색 인덱스
+node scripts/build-seo-extras.mjs      # 허브·홈·가나다·국가·로고월·sitemap·robots·llms.txt·검색 인덱스
 ```
 
 페이지 골격은 `scripts/lib/page-shell.mjs`(헤더·푸터·`<head>`), 브랜드 본문은 `scripts/lib/brand-render.mjs`,

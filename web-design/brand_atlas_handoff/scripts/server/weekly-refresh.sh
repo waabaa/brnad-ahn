@@ -28,7 +28,7 @@ node scripts/apply-index-sectors.mjs | head -1 || echo "  ! 섹터 분류 실패
 node scripts/assign-collections.mjs | tail -1 || echo "  ! 컬렉션 편입 실패"
 node scripts/assign-groups.mjs | tail -1 || echo "  ! 그룹 편입 실패"
 
-echo "[1] 사이트 빌드(브랜드 페이지·매거진·허브·sitemap·RSS)"
+echo "[1] 사이트 빌드(브랜드 페이지·매거진·허브·sitemap)"
 build_site || { echo "빌드 실패 — 공개하지 않음"; exit 1; }
 
 echo "[2] 어드민 스냅샷"
