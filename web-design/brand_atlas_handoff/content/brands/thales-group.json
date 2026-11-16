@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1161666",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/thales-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "thales-group",
+  "urlSlug": "thales-group",
+  "name": "탈레스 그룹",
+  "nameKo": "탈레스 그룹",
+  "nameEn": "Thales Group",
+  "definition": "탈레스 그룹(Thales Group)은 프랑스의 다국적 기업이다. 세계 10위 방위산업체이며, 프랑스 정부가 주식을 일부 소유하고 있다. 2000년 톰슨-CSF에서 사명을 바꿨다.",
+  "summary": "탈레스 그룹(Thales Group)은 프랑스의 다국적 기업이다. 세계 10위 방위산업체이며, 프랑스 정부가 주식을 일부 소유하고 있다. 2000년 톰슨-CSF에서 사명을 바꿨다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.216666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스 정부가 주식을 일부 소유한 방위산업 중심의 다국적 기업으로, 그리스 철학자 탈레스의 이름을 사명으로 쓰며 한국의 한화탈레스(옛 삼성탈레스)와 관계가 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "탈레스는 프랑스의 다국적 기업으로, 본부는 라데팡스에 있으며 프랑스 정부가 주식을 일부 소유하고 있다. 2011년 현재 50개국 이상에서 활동 중이었고 종업원수는 80,000명이었으며, 포춘 글로벌 500에서 세계 475위 대기업이었다. 세계 10위 방위산업체이며, 탈레스 매출액의 55%가 방산제품이다. 2000년 12월 영국 레이컬 일렉트로닉스를 13억 파운드에 인수합병한 직후, 톰슨-CSF에서 그리스 철학자 탈레스의 이름으로 사명을 변경했다. 한국에서는 2000년 삼성전자와 합작하여 삼성탈레스를 설립했고, 이 회사는 이후 한화탈레스가 되었다. 2016년 한화탈레스는 프랑스 탈레스가 보유한 지분을 전량 인수해 완전한 독자경영권을 확보했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "탈레스는 1893년 톰슨-휴스턴을 기원으로 하며, 1968년 톰슨-CSF를 설립했다. 2000년 12월 영국 레이컬 일렉트로닉스를 13억 파운드에 인수합병한 직후, 톰슨-CSF에서 그리스 철학자 탈레스의 이름으로 사명을 변경했다. 같은 해 삼성전자와 합작하여 삼성탈레스를 설립하며 한국에서도 사업을 시작했다. 2015년 한화가 삼성으로부터 방산 계열사를 인수하면서 탈레스가 보유한 삼성탈레스 지분에 대해 풋·콜옵션 매매계약을 맺었다. 2016년에는 한화탈레스(옛 삼성탈레스)가 탈레스가 보유한 지분을 전량 인수하기로 했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "프랑스 정부가 주식을 일부 소유하고 있으며, 위키데이터상 모기업은 Agence des participations de l'État이다. 2011년 현재 50개국 이상에서 활동 중이며 종업원수는 80,000명이다. 세계 10위 방위산업체이고 매출액의 55%가 방산제품이다. 포춘 글로벌 500에서는 세계 475위였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스 정부가 주식을 일부 소유한 방위산업 중심의 다국적 기업으로, 그리스 철학자 탈레스의 이름을 사명으로 쓰며 한국의 한화탈레스(옛 삼성탈레스)와 관계가 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.thalesgroup.com/",
+  "entityLinks": {
+   "wikidata": "Q1161666",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1161666",
+    "https://ko.wikipedia.org/wiki/%ED%83%88%EB%A0%88%EC%8A%A4_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/Thales_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1161666",
+   "country": "프랑스",
+   "inception": "2000",
+   "headquarters": "퓌토",
+   "founders": [],
+   "parent": "Agence des participations de l'État",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「탈레스 그룹」 요약과 위키데이터 Q1161666 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

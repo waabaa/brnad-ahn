@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q138133",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/rwe-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rwe",
+  "urlSlug": "rwe",
+  "name": "RWE",
+  "nameKo": "",
+  "nameEn": "RWE",
+  "definition": "RWE는 독일 에센에 본사를 둔 다국적 에너지 기업이다. 1898년 에센에서 설립되었으며, 아시아태평양·유럽·미국에서 전력을 생산하고 거래한다.",
+  "summary": "RWE는 독일 에센에 본사를 둔 다국적 에너지 기업이다. 1898년 에센에서 설립되었으며, 아시아태평양·유럽·미국에서 전력을 생산하고 거래한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "발전과 재생에너지에 집중하는 독일의 에너지 기업이다. 1898년 에센에서 출발했고 2020년 E.ON과의 자산 교환으로 사업 구조를 재편했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "RWE는 독일 에센에 본사를 둔 다국적 에너지 기업이다. 아시아태평양 지역, 유럽, 미국에서 전력을 생산하고 거래한다. 1898년 에센에서 설립되었으며, 1990년 RWE AG로 사명을 바꾸기 전까지는 전체 사명을 사용했고, 석탄·갈탄·가스 공급 등으로 사업 영역을 넓혀 온 오랜 역사를 지닌 기업이다. 2020년 7월 E.ON과의 자산 교환을 완료하면서 E.ON과 Innogy의 재생에너지 발전 포트폴리오를 확보했다. 대신 배전망과 소매 사업이 포함된 Innogy 지분 과반은 E.ON에 넘겼다. 이 재편으로 발전과 재생에너지에 사업을 집중하는 구조가 되었으며, 그 과정에서 E.ON 지분 16.67%도 취득했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1898년 에센에서 Rheinisch-Westfälisches Elektrizitätswerk Aktiengesellschaft라는 이름으로 설립되었다. Elektrizitäts-Actien-Gesellschaft vorm. W. Lahmeyer & Company(EAG) 등이 설립에 참여했다. 첫 발전소는 1900년 에센에서 가동을 시작했고, 1902년 EAG는 루르 지역 산업가 Hugo Stinnes와 8월 Thyssen이 꾸린 컨소시엄에 지분을 매각했다. 1906년 Elektrizitätswerk Berggeist AG 등을 인수하며 에센 밖으로 사업을 넓혔다. 전체 사명은 1990년 RWE AG로 바뀔 때까지 쓰였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전력을 생산하고 거래하는 것이 핵심 사업이며, 2020년 거래 이후에는 발전과 재생에너지에 초점을 맞추고 있다. 역사적으로는 석탄 사업을 확대해 1922년 에센의 무연탄 광산 세 곳과 갈탄 회사 Braunkohlen- und Briketwerke Roddergrube AG의 과반 지분을 인수했다. 1909년부터는 자체 가스 공급망을 구축하기 시작했고, 1912년 Bergisches Land 지역에 석탄가스 공급을 시작했다. 1914년 문을 연 Vorgebirgszentrale 발전소는 1920년 설비용량 190메가와트로 유럽 최대 규모였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 7월 RWE는 2018년에 발표된 E.ON과의 자산 교환을 완료했다. 이 거래에서 E.ON과 Innogy의 재생에너지 발전 포트폴리오를 넘겨받았고, 배전망과 소매 사업이 포함된 Innogy 지분 과반은 E.ON에 넘겼다. 또한 E.ON 지분 16.67%를 취득했다. 그 결과 RWE는 발전과 재생에너지에, E.ON은 에너지 네트워크와 고객 솔루션에 집중하게 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "발전과 재생에너지에 집중하는 독일의 에너지 기업이다. 1898년 에센에서 출발했고 2020년 E.ON과의 자산 교환으로 사업 구조를 재편했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rwe.com/",
+  "entityLinks": {
+   "wikidata": "Q138133",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q138133",
+    "https://ko.wikipedia.org/wiki/RWE",
+    "https://en.wikipedia.org/wiki/RWE"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q138133",
+   "country": "독일",
+   "inception": "1898",
+   "headquarters": "에센",
+   "founders": [],
+   "parent": "Elektrizitäts-AG vormals W. Lahmeyer & Co",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「RWE」 본문과 위키데이터 Q138133 팩트를 근거로 편집",
+  "founded": {
+   "date": "1898-04-25",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

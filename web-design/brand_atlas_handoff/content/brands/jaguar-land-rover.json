@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q6122893",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/jaguar-land-rover-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "jaguar-land-rover",
+  "urlSlug": "jaguar-land-rover",
+  "name": "재규어 랜드로버",
+  "nameKo": "재규어 랜드로버",
+  "nameEn": "Jaguar Land Rover",
+  "definition": "재규어 랜드로버(Jaguar Land Rover)는 영국의 다국적 고급 자동차 제조사이다. Jaguar와 Land Rover 두 브랜드의 자동차를 설계, 개발, 제조, 판매하며 Tata Motors Passenger Vehicles의 자회사이다.",
+  "summary": "재규어 랜드로버(Jaguar Land Rover)는 영국의 다국적 고급 자동차 제조사이다. Jaguar와 Land Rover 두 브랜드의 자동차를 설계, 개발, 제조, 판매하며 Tata Motors Passenger Vehicles의 자회사이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "영국 고급차 브랜드 Jaguar와 Land Rover를 한 회사에서 운영하며 인도 Tata 그룹 산하에 있는 영국 자동차 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "JLR(Jaguar Land Rover Automotive PLC)은 영국 코번트리의 휘틀리에 본사를 둔 고급 자동차 제조사이다. Jaguar와 Land Rover 두 브랜드로 고급 자동차를 설계, 개발, 제조, 판매한다. 두 브랜드는 합병 이전부터 오랜 역사를 가졌으며, Jaguar는 1930년대, Land Rover는 1940년대로 거슬러 올라간다. 인도 기반 Tata Motors Passenger Vehicles의 전액 출자 자회사이다. 직원이 약 33,000명으로 영국에서 규모가 큰 자동차 고용주 가운데 하나이다. Daimler, Lanchester, Rover 브랜드의 권리도 보유하고 있으나 이들 브랜드는 휴면 상태이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Jaguar와 Land Rover는 1968년 British Leyland의 일원으로 처음 한 그룹에 속했고, 1984년까지 두 브랜드 모두 British Leyland에 속한 시기가 있었다. Ford Motor Company는 1989년 Jaguar Cars를, 2000년 BMW로부터 Land Rover를 인수했으며 2002년 두 브랜드를 같은 그룹으로 다시 묶었다. 2008년 1월 18일 Tata Motors는 영국 등록 전액 출자 자회사 Jaguar Land Rover Limited를 설립했다. Ford로부터 Jaguar Cars Limited와 Land Rover를 US$2.23 billion에 인수하는 거래는 2008년 6월 2일 완료되었다. 2013년 1월 1일 모회사가 Jaguar Land Rover Automotive PLC로 개명하며 지주회사 구조로 전환했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 Jaguar와 Land Rover 두 브랜드의 고급 자동차로 구성된다. 2013년 구조조정 이후 Jaguar Land Rover Limited가 영국에서 두 브랜드 제품의 설계, 제조, 마케팅을 맡고 있다. 이와 별도로 휴면 상태인 Daimler, Lanchester, Rover 브랜드의 권리를 보유한다. Rover는 Ford 소유 시기에 Land Rover가 BMW로부터 취득했다. 2011년 3월에는 Halewood 공장에서 직원 1,500명을 추가로 채용하고 £2 billion 이상의 공급 계약을 체결했다고 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Tata Motors Passenger Vehicles의 전액 출자 자회사이다. 2025년 4월 미국 대통령 Donald Trump가 관세를 부과한 뒤 미국행 선적을 지연한다고 발표했다. 2025년 5월에는 Tata Motors의 CFO인 PB Balaji가 같은 해 11월부터 CEO를 맡고, 3년간 재직한 Adrian Mardell이 은퇴한다고 발표되었다. 2025년 9월 2일 사이버 공격으로 생산과 소매 운영을 중단했으며, 같은 해 11월 공개된 실적에서 이 공격의 비용이 £196 million으로 밝혀졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국 고급차 브랜드 Jaguar와 Land Rover를 한 회사에서 운영하며 인도 Tata 그룹 산하에 있는 영국 자동차 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.jaguarlandrover.com",
+  "entityLinks": {
+   "wikidata": "Q6122893",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q6122893",
+    "https://ko.wikipedia.org/wiki/%EC%9E%AC%EA%B7%9C%EC%96%B4_%EB%9E%9C%EB%93%9C%EB%A1%9C%EB%B2%84",
+    "https://en.wikipedia.org/wiki/Jaguar_Land_Rover"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q6122893",
+   "country": "영국",
+   "inception": "2013",
+   "headquarters": "코번트리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Jaguar Land Rover」 본문과 위키데이터 Q6122893 팩트를 근거로 편집",
+  "founded": {
+   "date": "2013-01-01",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

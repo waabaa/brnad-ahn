@@ -22,7 +22,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { slugifyAscii, romanizeKorean } from "./lib/brand-seo.mjs";
+import { slugifyAscii, romanizeKorean, foundedYear } from "./lib/brand-seo.mjs";
+import { wikidataCandidates, infoboxCandidates, textCandidates, decideFounded, leadWikitext, brandTextYears } from "./lib/founding.mjs";
 import { UA, BLOCK_P31, norm } from "./lib/wikidata-brand.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -234,13 +235,18 @@ for (const c of (CACHED ? [] : candidates)) {
   const founderQs = claimValues(e.claims, "P112").map(qidOf).filter(Boolean).slice(0, 3);
   const parentQ = claimValues(e.claims, "P749").map(qidOf).filter(Boolean)[0] || null;
   const inception = yearOf(claimValues(e.claims, "P571")[0]);
+  // 탄생일 근거(2026-11-14) — 새 브랜드는 수록할 때 바로 탄생일을 판정한다. 판정은 본문이 생긴 뒤 buildRecord에서.
+  const foundedCands = [...wikidataCandidates(e.claims)];
+  for (const [lang, t] of [["ko", e.sitelinks?.kowiki?.title], ["en", e.sitelinks?.enwiki?.title]]) {
+    try { if (t) foundedCands.push(...infoboxCandidates(await leadWikitext(lang, t), lang)); } catch { /* 정보상자는 보조 근거 — 실패해도 수록은 진행 */ }
+  }
   const web = claimValues(e.claims, "P856")[0] || "";
   const logoFile = claimValues(e.claims, "P154")[0] || claimValues(e.claims, "P8972")[0] || "";
   if (have.has(norm(en)) || haveSlug.has(slugifyAscii(en || romanizeKorean(koBase)))) { rejected.push({ qid: c.qid, ko: c.ko, why: `이미 수록(원어 ${en})` }); continue; }
   // en 모드의 한글 표기: 위키데이터 ko 레이블(한글 포함)만. 없으면 빈 값 — 음차하지 않는다.
   const koName = SOURCE_EN ? (/[가-힣]/.test(e.labels?.ko?.value || "") ? e.labels.ko.value.trim() : "") : koBase;
   if (SOURCE_EN && koName && have.has(norm(koName))) { rejected.push({ qid: c.qid, ko: koName, why: "이미 수록" }); continue; }
-  prepared.push({ qid: c.qid, demand: c.demand || null, ko: koName, koTitle, enTitle: e.sitelinks?.enwiki?.title || "", sourceLang: SOURCE_EN ? "en" : "ko", en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
+  prepared.push({ foundedCands, qid: c.qid, demand: c.demand || null, ko: koName, koTitle, enTitle: e.sitelinks?.enwiki?.title || "", sourceLang: SOURCE_EN ? "en" : "ko", en, extract, countryQ, hqQ, founderQs, parentQ, inception, web: typeof web === "string" ? web : "", logoFile: typeof logoFile === "string" ? logoFile : "", sitelinks: c.sitelinks, koUrl: e.sitelinks?.kowiki?.url || "", enUrl: e.sitelinks?.enwiki?.url || "" });
   if (scanned % 25 === 0) console.log(`  스캔 ${scanned}, 준비 ${prepared.length}, 기각 ${rejected.length}`);
 }
 if (!CACHED && !DRY) fs.writeFileSync(PREP_CACHE, JSON.stringify(prepared, null, 1));
@@ -276,7 +282,7 @@ function buildRecord(p, g) {
   if (haveSlug.has(slug)) slug = `${slug}-${p.qid.toLowerCase()}`;
   haveSlug.add(slug);
   const sameAs = [`https://www.wikidata.org/wiki/${p.qid}`, p.koUrl, p.enUrl].filter(Boolean);
-  return {
+  const rec = {
     id: 0, slug, urlSlug: slug, name: p.ko || p.en, nameKo: p.ko || "", nameEn: p.en || "",
     definition: g.definition, summary: g.definition,
     industry: industries.get(g.industry), domainSlug: g.industry,
@@ -304,6 +310,9 @@ function buildRecord(p, g) {
     },
     sourceNote: p.sourceLang === "en" ? `영문 위키백과 「${p.enTitle}」 본문과 위키데이터 ${p.qid} 팩트를 근거로 편집` : `한국어 위키백과 「${p.koTitle}」 요약과 위키데이터 ${p.qid} 팩트를 근거로 편집`,
   };
+  const { founded } = decideFounded([...(p.foundedCands || []), ...textCandidates(rec)], foundedYear(rec), brandTextYears(rec));
+  if (founded) rec.founded = { ...founded, checkedAt: TODAY };
+  return rec;
 }
 
 // 한 배치를 생성·검증한다. 실패 항목은 사유를 남긴다(자동 수록 금지).

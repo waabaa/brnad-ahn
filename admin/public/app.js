@@ -468,7 +468,7 @@ function renderKeywords(host) {
       })));
   });
   btn.addEventListener("click", run);
-  inp.addEventListener("keydown", (e) => { if (e.key === "Enter") run(); });
+  inp.addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.isComposing && e.keyCode !== 229) run(); });
   inp.value = "구찌, 프라다, 코치넬레";
 }
 

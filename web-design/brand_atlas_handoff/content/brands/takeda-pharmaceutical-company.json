@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q899133",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/takeda-pharmaceutical-company-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "takeda-pharmaceutical-company",
+  "urlSlug": "takeda-pharmaceutical-company",
+  "name": "다케다 약품공업",
+  "nameKo": "다케다 약품공업",
+  "nameEn": "Takeda Pharmaceutical Company",
+  "definition": "다케다 약품공업(Takeda Pharmaceutical Company)은 일본의 다국적 제약회사이다. 1781년 Takeda Chōbei I이 창업했으며 본사는 오사카시에 있다.",
+  "summary": "다케다 약품공업(Takeda Pharmaceutical Company)은 일본의 다국적 제약회사이다. 1781년 Takeda Chōbei I이 창업했으며 본사는 오사카시에 있다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "오사카시에 본사를 둔 1781년 창업의 일본 제약회사로, 종양학·희귀질환·신경과학·소화기학·혈장 유래 치료제·백신에 집중한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "다케다는 일본의 다국적 제약회사이며 본사는 오사카시 주오구에 있고 도쿄 니혼바시에도 사무소를 두고 있다. 아시아에서 Sinopharm과 Shanghai Pharmaceuticals에 이어 세 번째로 큰 제약회사이며, 매출 기준 세계 상위 20위권 제약회사에 속하고 Shire와의 합병 이후에는 상위 10위권에 든다. 2018 회계연도에 US$19.299 billion의 매출을 올렸고 전 세계 직원은 49,578명 이상이다. 주력 분야는 종양학, 희귀질환, 신경과학, 소화기학, 혈장 유래 치료제, 백신이다. 2012년 1월 Fortune은 Takeda Oncology Company를 미국에서 일하기 좋은 100대 기업 중 하나로 선정했다. 2015년 Christophe Weber가 CEO 겸 사장으로 임명되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "다케다는 1781년 Takeda Chōbei I이 창업했다. 1925년 1월 29일 법인으로 설립되었다. 2005년 2월 캘리포니아주 샌디에이고의 고처리량 X선 결정학 전문 기업 Syrrx를 US$270 million에 인수했다. 2008년에는 Amgen의 일본 사업부와 일본 시장용 파이프라인 후보물질 권리를 인수했고, 4월에는 암 신약 연구 기업 Millennium Pharmaceuticals를 US$8.8 billion에 인수했다. 2011년 9월에는 Nycomed를 €9.6 billion에 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 의약품 중 하나는 제2형 당뇨병 치료에 쓰이는 티아졸리딘디온 계열 화합물 Actos(pioglitazone)이며 1999년에 출시되었다. Millennium 인수로 혈액암 치료제 Velcade와 종양, 염증, 심혈관 분야의 파이프라인 후보물질을 확보했다. 2015년 11월 미국 식품의약국(FDA)은 Takeda가 개발한 Ixazomib을 lenalidomide, dexamethasone과 병용해 이전에 한 차례 이상 치료받은 다발골수종 치료에 쓰도록 승인했다. 같은 해 호흡기 의약품 사업을 AstraZeneca에 $575 million에 매각했으며 roflumilast와 ciclesonide가 포함되었다. 2017년 2월에는 Ariad Pharmaceuticals를 $5.2 billion에 인수해 종양과 혈액 사업을 넓혔다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 1월 Shire를 US$50 billion 이상에 인수했다. 같은 해 10월에는 중동과 아프리카의 일반의약품 및 전문의약품 포트폴리오를 스위스 제약사 Acino International에 $200 million 이상에 매각했다. 2020년 1월에는 MIT와 인공지능·보건 분야 연구 협력인 MIT-Takeda Program을 발표했다. 2026년의 한 뉴스에서는 Julie Kim이 CEO-elect로 언급되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오사카시에 본사를 둔 1781년 창업의 일본 제약회사로, 종양학·희귀질환·신경과학·소화기학·혈장 유래 치료제·백신에 집중한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.takeda.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q899133",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q899133",
+    "https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%BC%80%EB%8B%A4_%EC%95%BD%ED%92%88%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q899133",
+   "country": "일본",
+   "inception": "1781",
+   "headquarters": "오사카시",
+   "founders": [
+    "Takeda Chōbei I"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Takeda Pharmaceutical Company」 본문과 위키데이터 Q899133 팩트를 근거로 편집",
+  "founded": {
+   "date": "1781-08-01",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

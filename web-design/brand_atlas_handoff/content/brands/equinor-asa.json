@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1776022",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/equinor-asa-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "equinor-asa",
+  "urlSlug": "equinor-asa",
+  "name": "에퀴노르",
+  "nameKo": "에퀴노르",
+  "nameEn": "Equinor ASA",
+  "definition": "에퀴노르(Equinor ASA)는 노르웨이의 에너지 기업이다. 주로 석유 사업을 영위하며 재생 에너지와 리튬 채굴 분야에도 투자한다. 본사는 스타방에르에 있다.",
+  "summary": "에퀴노르(Equinor ASA)는 노르웨이의 에너지 기업이다. 주로 석유 사업을 영위하며 재생 에너지와 리튬 채굴 분야에도 투자한다. 본사는 스타방에르에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "국영 석유를 뜻하는 스타토일에서 이름을 바꾼 노르웨이 에너지 기업으로, 노르웨이 정부가 최대 주주이며 석유 외에 재생 에너지와 리튬 채굴에도 투자한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "에퀴노르는 노르웨이를 기반으로 석유 사업을 중심에 두고 전 세계 36개국에서 활동하는 에너지 기업이다. 재생 에너지와 리튬 채굴 분야에도 투자하고 있다. 2020년 포브스 글로벌 2000(Forbes Global 2000) 순위에서 세계 169위 상장기업으로 선정되었고, 2023년에는 같은 순위에서 52위를 기록했다. 2021년 기준 직원 수는 21,126명이다. 노르웨이 정부가 2017년 기준 지분의 67%를 보유한 최대 주주이며, 지분 관리는 노르웨이 석유에너지부가 담당한다. 본사는 스타방에르에 있으나 해외 사업의 상당 부분은 오슬로 외곽의 포르네부에서 주도하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "현재의 회사는 2007년 스타토일(Statoil)과 노르스크 하이드로(Norsk Hydro)의 석유 및 가스 부문이 합병되면서 설립되었다. 이전 사명인 스타토일은 노르웨이어로 '국영 석유'를 의미하며, 회사가 국영 기업이었음을 나타낸다. '에퀴노르'라는 사명은 2018년에 채택되었으며, 이에 따라 스타토일은 과거 이름이 되었다. 이는 형평성(equity), 평등(equality), 균형(equilibrium) 등의 어근인 'equi'와 노르웨이 기업임을 나타내는 'nor'를 결합한 것이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "노르웨이 정부가 2017년 기준 지분의 67%를 보유한 최대 주주이며 나머지 지분은 공개 거래되고 있다. 지분 관리는 노르웨이 석유에너지부가 담당한다. 2021년 기준 직원 수는 21,126명이며, 2023년 포브스 글로벌 2000 순위에서 52위를 기록했다. 본사는 스타방에르에 있고 해외 사업은 상당 부분 포르네부에서 주도한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국영 석유를 뜻하는 스타토일에서 이름을 바꾼 노르웨이 에너지 기업으로, 노르웨이 정부가 최대 주주이며 석유 외에 재생 에너지와 리튬 채굴에도 투자한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://equinor.com",
+  "entityLinks": {
+   "wikidata": "Q1776022",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1776022",
+    "https://ko.wikipedia.org/wiki/%EC%97%90%ED%80%B4%EB%85%B8%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Equinor"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1776022",
+   "country": "노르웨이",
+   "inception": "2007",
+   "headquarters": "스타방에르",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「에퀴노르」 요약과 위키데이터 Q1776022 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

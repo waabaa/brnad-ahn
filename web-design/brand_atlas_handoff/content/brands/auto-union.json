@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q27152",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/auto-union-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "auto-union",
+  "urlSlug": "auto-union",
+  "name": "아우토 유니언",
+  "nameKo": "아우토 유니언",
+  "nameEn": "Auto Union",
+  "definition": "아우토 유니언(Auto Union)은 1932년 독일에서 네 개의 자동차 제조사가 합병해 세운 회사이다. 작센주 켐니츠에 본사를 두었으며 오늘날 Audi의 직접적인 전신이다.",
+  "summary": "아우토 유니언(Auto Union)은 1932년 독일에서 네 개의 자동차 제조사가 합병해 세운 회사이다. 작센주 켐니츠에 본사를 두었으며 오늘날 Audi의 직접적인 전신이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "네 개 자동차 브랜드를 하나로 묶어 Audi의 직접적인 전신이 되었고, 1930년대 그랑프리를 지배한 레이싱 팀으로 알려진 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아우토 유니언(Auto Union)은 독일 자동차 제조사 네 곳이 합병해 1932년에 만들고 1936년 켐니츠에 자리 잡은 회사이다. Audi, Horch, DKW, Wanderer 네 브랜드를 묶는 지주 회사 역할을 했다. Horch 공장이 있던 츠비카우에 기반을 둔 레이싱 팀으로도 유명하다. 이 팀은 Mercedes-Benz와 함께 1934년부터 그랑프리 레이스를 지배했고, 공공도로 최고 속도 432.7 km/h 기록을 세웠다. 제2차 세계대전 뒤 몰락 직전까지 갔으나 1949년 잉골슈타트에서 재건되었고, 1964년 Volkswagen에 인수된 뒤 1969년 NSU Motorenwerke와 합병해 오늘날의 Audi로 이어졌다. 지금의 Auto Union 명칭은 Audi AG의 완전 자회사가 상표와 지적재산권을 관리하며 이어간다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "DKW 브랜드의 Zschopauer Motorenwerke는 덴마크 엔지니어 Jørgen Skafte Rasmussen이 1916년에 세웠다. Horch는 1904년 8월 Horch가 츠비카우에서 창업했고, 그는 1909년 회사를 떠나 Audi를 세웠다. Audi는 1928년 Zschopauer Motorenwerke의 자회사가 되었다. 1930년 작센 지방은행이 Richard Bruhn을 Audiwerke AG 이사회에 앉혀 사업 구조를 대폭 정리했고, 그 결과 1932년 여름 DKW, Audi, Horch와 Wanderer의 자동차 부문 네 곳으로 Auto Union AG가 출범했다. 네 브랜드는 각자의 이름으로 차를 팔았지만 기술 개발은 더 중앙집중화되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "네 구성 브랜드는 각각 다른 차종을 맡았다. DKW는 증기 구동 자동차에서 출발해 오토바이로 사업을 넓혔고, 1931년부터 츠비카우의 Audi 공장에서 전륜구동 2행정 자동차를 만들었다. Horch는 직렬 2기통 엔진 차에서 V8, V12 엔진을 얹은 고급 모델까지 생산했다. Audi는 직렬 4기통, 6기통, 8기통 엔진 차를 만들었고, Wanderer는 소형 4기통 차와 이후 고급 직렬 6기통 차를 생산했다. 레이싱 부문에는 Ferdinand Porsche가 개발한 P-Wagen 프로젝트가 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Auto Union이라는 이름을 쓰는 법인은 1985년에 설립된 Auto Union GmbH이다. Audi AG의 완전 자회사로, 옛 Auto Union의 상표와 지적재산권을 소유하고 Audi의 헤리티지 사업을 관리한다. 네 개의 고리가 맞물린 로고는 원래 네 구성 회사를 뜻했으며 지금은 Audi의 로고로 쓰인다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "네 개 자동차 브랜드를 하나로 묶어 Audi의 직접적인 전신이 되었고, 1930년대 그랑프리를 지배한 레이싱 팀으로 알려진 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q27152",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27152",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9A%B0%ED%86%A0%EC%9A%B0%EB%8B%88%EC%98%A8",
+    "https://en.wikipedia.org/wiki/Auto_Union"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27152",
+   "country": "독일",
+   "inception": "1932",
+   "headquarters": "켐니츠",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Auto Union」 본문과 위키데이터 Q27152 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

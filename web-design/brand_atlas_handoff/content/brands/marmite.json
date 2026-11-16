@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1331998",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "marmite",
+  "urlSlug": "marmite",
+  "name": "마마이트",
+  "nameKo": "마마이트",
+  "nameEn": "Marmite",
+  "definition": "마마이트(Marmite)는 효모 추출물을 기반으로 한 영국의 짭짤한 스프레드이다. 1902년 Marmite Food Company가 개발했으며 맥주 양조 부산물로 만든다.",
+  "summary": "마마이트(Marmite)는 효모 추출물을 기반으로 한 영국의 짭짤한 스프레드이다. 1902년 Marmite Food Company가 개발했으며 맥주 양조 부산물로 만든다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "슬로건 'Love it or hate it.'처럼 호불호가 갈리는 강한 맛과 향으로 알려진, 맥주 효모 부산물 기반의 영국 스프레드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마마이트는 효모 추출물로 만든 영국의 스프레드이다. 맥주 양조 과정에서 나오는 부산물을 원료로 하며, 비타민 B12를 포함한 비타민 B의 비건 공급원이다. 전통적으로 버터를 바른 토스트에 발라 먹는다. 끈적한 짙은 갈색 페이스트로 짠맛과 강한 향이 특징이며, 글루타메이트 함량이 높아 풍미를 내는 재료로도 쓰인다. 영국 문화에서 존재감이 커서 호불호가 갈리는 대상을 가리키는 비유로 자주 쓰인다. 2000년부터 Unilever가 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "19세기 후반 독일 과학자 Justus von Liebig가 맥주 효모를 농축해 병에 담아 먹을 수 있다는 것을 발견했다. 이 효모 추출물을 상업적으로 생산하려는 초기 시도는 성과가 적었다. 1902년 영국 스태퍼드셔의 Burton upon Trent에서 Marmite Food Extract Company가 설립되었고, 첫 공장도 이곳에 세웠다. 효모는 Bass Brewery가 공급했다. 영국 맥주의 효모는 대륙 효모와 발효 방식이 달라 새 기계와 제조 공정을 도입한 뒤에야 시장에 낼 제품을 완성했다. 1907년에는 런던 Camberwell Green에 두 번째 공장을 건설했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 마마이트 스프레드이다. 병에 그려진 그림은 프랑스어로 크고 뚜껑이 있는 토기 또는 금속 조리용 냄비를 뜻하는 marmite이다. 처음에는 토기 단지에 담아 공급했으나 1920년대부터 유리병으로 판매했다. 독특하게 불룩한 병은 독일 유리 제조업체 Gerresheimer가 공급한다. 뉴질랜드에서는 1919년부터 라이선스 계약으로 다른 레시피의 제품을 생산해 왔으며, 오스트랄라시아와 태평양 섬 지역에서는 이 제품만 Marmite로 판매한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1990년 Bovril Limited의 자회사였던 Marmite Limited를 CPC International Inc가 인수했다. CPC International Inc는 1998년 Best Foods Inc로 이름을 바꿨고, Best Foods Inc는 2000년 Unilever와 합병했다. 현재 Marmite는 Unilever가 소유한 상표이며, 뉴질랜드를 제외한 지역에서는 대체로 영국판이 유통된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "슬로건 'Love it or hate it.'처럼 호불호가 갈리는 강한 맛과 향으로 알려진, 맥주 효모 부산물 기반의 영국 스프레드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://marmite.co.uk",
+  "entityLinks": {
+   "wikidata": "Q1331998",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1331998",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A7%88%EC%9D%B4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Marmite"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1331998",
+   "country": null,
+   "inception": "1902",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Marmite」 본문과 위키데이터 Q1331998 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q721994",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "shanghai-airlines",
+  "urlSlug": "shanghai-airlines",
+  "name": "상하이 항공",
+  "nameKo": "상하이 항공",
+  "nameEn": "Shanghai Airlines",
+  "definition": "상하이 항공(Shanghai Airlines)은 1985년에 설립된 중화인민공화국의 항공사이다. 중국동방항공의 자회사이며 중화인민공화국 최초의 유한합자 형태 항공사로 소개되고, 본사는 상하이시에 있다.",
+  "summary": "상하이 항공(Shanghai Airlines)은 1985년에 설립된 중화인민공화국의 항공사이다. 중국동방항공의 자회사이며 중화인민공화국 최초의 유한합자 형태 항공사로 소개되고, 본사는 상하이시에 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "중화인민공화국 최초의 유한합자 형태 항공사로 설립되어, 현재는 중국동방항공의 자회사로서 스카이팀 가입 효과를 얻는 상하이시 본사의 항공사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "상하이 항공(Shanghai Airlines)은 상하이시에 본사를 둔 중화인민공화국의 항공사이다. 1985년에 설립되었으며, 중화인민공화국 최초의 유한합자 형태의 항공사이자 중국 최초의 상업 항공사로 소개된다. 2002년에 상하이 증권 거래소에 상장했고, 2006년에는 화물 항공사인 상하이 항공 카고를 자회사로 설립했다. 2007년에 도쿄 국제공항 정기 국제선을 개설했으며 중국국제항공과 함께 스타 얼라이언스에 가맹했으나 2010년에 탈퇴했다. 이후 모회사가 중국동방항공으로 바뀌면서 2011년 6월 21일부터 중국동방항공의 자회사 자격으로 스카이팀에 가입한 것과 같은 효과를 얻게 되었다. 현재는 중국동방항공의 자회사로 운영된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "상하이 항공은 1985년에 회사로 설립되었다. 설립 당시 중화인민공화국 최초의 유한합자 형태의 항공사였으며, 중국 최초의 상업 항공사로도 소개된다. 1989년에 보잉 757-200 기종을 도입했고, 2002년에는 상하이 증권 거래소에 상장했다. 2006년에는 상하이 항공의 자회사이자 화물 항공사인 상하이 항공 카고를 설립했다. 2007년에는 도쿄 국제공항 정기 국제선을 개설하고 중국국제항공과 함께 스타 얼라이언스에 가맹했으나 2010년에 탈퇴했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "상하이 항공은 중국동방항공의 자회사이다. 2011년 6월 21일부터 중국동방항공의 자회사 자격으로 스카이팀에 가입한 것과 같은 효과를 얻고 있다. 2007년에 가맹했던 스타 얼라이언스는 2010년에 탈퇴한 상태이다. 2021년 2월 현재 다른 항공사와 코드쉐어를 하고 있고, 2020년 8월 기준으로 현재 사용하는 기종과 퇴역 기종이 구분되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중화인민공화국 최초의 유한합자 형태 항공사로 설립되어, 현재는 중국동방항공의 자회사로서 스카이팀 가입 효과를 얻는 상하이시 본사의 항공사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.shanghai-air.com",
+  "entityLinks": {
+   "wikidata": "Q721994",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q721994",
+    "https://ko.wikipedia.org/wiki/%EC%83%81%ED%95%98%EC%9D%B4_%ED%95%AD%EA%B3%B5",
+    "https://en.wikipedia.org/wiki/Shanghai_Airlines"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q721994",
+   "country": "중화인민공화국",
+   "inception": "1985",
+   "headquarters": "상하이시",
+   "founders": [],
+   "parent": "중국동방항공",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「상하이 항공」 요약과 위키데이터 Q721994 팩트를 근거로 편집"
+ }
+}

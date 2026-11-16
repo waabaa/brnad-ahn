@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1124857",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/plymouth-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "plymouth",
+  "urlSlug": "plymouth",
+  "name": "플리머스",
+  "nameKo": "플리머스",
+  "nameEn": "Plymouth",
+  "definition": "플리머스(Plymouth)는 Chrysler Corporation과 그 후신 DaimlerChrysler가 생산한 자동차 브랜드이다. 1928년에 출시되어 주로 미국과 캐나다에서 판매되었으며 2001년 시장에서 철수했다.",
+  "summary": "플리머스(Plymouth)는 Chrysler Corporation과 그 후신 DaimlerChrysler가 생산한 자동차 브랜드이다. 1928년에 출시되어 주로 미국과 캐나다에서 판매되었으며 2001년 시장에서 철수했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "Mayflower호의 선수를 담은 로고를 쓴 Chrysler Corporation의 저가 브랜드로, 대공황기에 회사의 생존에 기여했고 2001년 철수했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "플리머스는 Chrysler Corporation과 그 후신 DaimlerChrysler가 생산한 자동차 브랜드이다. 1928년 당시 Chevrolet와 Ford가 주도하던 저가 시장에 대응하기 위해 출시되었다. 1930년대 대공황 동안 Chrysler Corporation의 생존에 크게 기여했고, 1931년에는 전체 승용차 판매 3위에 올랐다. 1990년대 후반까지 Chrysler Corporation의 판매량 많은 브랜드였으며, 주로 미국과 캐나다에서 판매되었다. 브랜드는 2001년 시장에서 철수했다. 그때까지 생산되던 모델은 단종되거나 Chrysler 또는 Dodge 브랜드로 바뀌었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "플리머스의 뿌리는 Maxwell 자동차로 거슬러 올라간다. Walter P. Chrysler는 1920년대 초 경영난에 빠진 Maxwell-Chalmers를 인수한 뒤 1924년 6기통 Chrysler를 성공적으로 내놓았고, 이어 값싼 보급형 차를 만들기로 했다. 1926년 Maxwell을 손봐 4기통 Chrysler Model 52로 내놓았고, 1928년 이를 다시 설계해 Chrysler-Plymouth Model Q를 만들었다. 플리머스는 1928년 7월 7일 Madison Square Garden에서 공개되었으며, 1929년 Plymouth Model U부터 이름에서 Chrysler가 빠졌다. 이름은 농민들에게 인기가 높았던 Plymouth Cordage Company의 Plymouth 바인더 끈에서 따왔으며 Joe Frazer가 정했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 플리머스는 경쟁 차종보다 가격이 높았지만 Ford와 Chevrolet에 없던 내부 확장식 유압 브레이크를 기본으로 갖췄다. 4도어 5인승 Touring Sedan의 가격은 US$695였다. 1931년 Model PA에서 floating power를 도입했고, 1933년 Model PC에는 downdraft carburetor를 단 flathead-six 엔진을 얹었다. PC는 스웨덴, 덴마크, 영국, 호주로도 수출되었으며 영국에서는 Chrysler Kew라는 이름으로 팔렸다. 1937년에는 평평한 대시보드와 앞좌석 뒷면 패딩 등 안전 장비를 더했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "주로 미국과 캐나다에서 판매되던 플리머스는 2001년 시장에서 철수해 현재 신차가 판매되지 않는다. 그때까지 생산되던 모델은 단종되거나 Chrysler 또는 Dodge 브랜드로 바뀌었다. 브랜드를 운영하던 Chrysler Corporation의 후신은 DaimlerChrysler였다. 1990년대 후반까지는 판매량이 많은 브랜드였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Mayflower호의 선수를 담은 로고를 쓴 Chrysler Corporation의 저가 브랜드로, 대공황기에 회사의 생존에 기여했고 2001년 철수했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1124857",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1124857",
+    "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A6%AC%EB%A8%B8%EC%8A%A4_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Plymouth_(automobile)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1124857",
+   "country": "미국",
+   "inception": "1928",
+   "headquarters": "오번힐스",
+   "founders": [
+    "월터 크라이슬러"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Plymouth (automobile)」 본문과 위키데이터 Q1124857 팩트를 근거로 편집",
+  "founded": {
+   "date": "1928-07-07",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q634881",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/tommy-hilfiger-b-v-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tommy-hilfiger-b-v",
+  "urlSlug": "tommy-hilfiger-b-v",
+  "name": "타미 힐피거",
+  "nameKo": "타미 힐피거",
+  "nameEn": "Tommy Hilfiger B.V.",
+  "definition": "타미 힐피거(Tommy Hilfiger B.V.)는 1985년 뉴욕에서 창업한 미국 의류 브랜드로, 본사는 암스테르담에 있다. 의류와 신발, 액세서리, 향수, 홈 퍼니싱 등을 만든다.",
+  "summary": "타미 힐피거(Tommy Hilfiger B.V.)는 1985년 뉴욕에서 창업한 미국 의류 브랜드로, 본사는 암스테르담에 있다. 의류와 신발, 액세서리, 향수, 홈 퍼니싱 등을 만든다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "미국 프레피 스타일과 해양풍 이미지를 바탕으로 1990년대 음악 산업, 특히 힙합과 긴밀히 연결되어 성장한 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "타미 힐피거는 의류를 중심으로 신발, 액세서리, 향수, 홈 퍼니싱 같은 라이선스 제품까지 제조하는 네덜란드 기반의 미국 의류 브랜드이다. 제품은 백화점과 100개국의 2000개가 넘는 독립 매장에서 판매된다. 로고의 중앙에 있는 빨간색과 흰색 영역은 문자 'H'를 뜻하는 국제 신호기에서 영감을 얻었으며, 해양풍 스타일과 미국식 프레피 룩이라는 브랜드의 이미지를 나타낸다. 2010년 3월부터 PVH Corp.가 소유하고 있다. 창업자 토미 힐피거는 지금도 수석 디자이너로서 디자인 팀을 이끌고 전체 창작 과정을 총괄한다. 2022년 이 브랜드를 통한 전 세계 소매 매출은 US$9.1 billion이었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "토미 힐피거는 1968년 뉴욕주 북부에서 의류와 음반을 파는 매장 People's Place를 공동 창업하며 패션 업계에 들어섰다. 이 회사는 1977년 파산했고, 그는 1979년 뉴욕시로 옮겨 디자이너로 일했다. 1985년 인도 출신 섬유 사업가 Mohan Murjani의 후원으로 첫 시그니처 컬렉션을 선보였다. 1989년 브랜드는 Murjani International을 떠나 Silas Chou의 재정 지원을 받았고, Lawrence Stroll과 Joel Horowitz가 새 회사 Tommy Hilfiger, Inc.의 경영진으로 합류했다. 회사는 1992년 상장했고, 1996년 여성복을 유통하기 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "첫 시그니처 컬렉션은 버튼다운 셔츠, 치노 등 고전적인 프레피 스타일을 현대적으로 해석한 남성복이었다. 1989년 새 회사는 캐주얼 남성 스포츠웨어에 초점을 두고 출발했다. 1996년에는 여성복을, 1998년에는 침구와 욕실 라인을 선보였고, 2001년에는 여성 속옷을 내놓았다. 1990년대 중후반에는 큰 로고가 들어간 넉넉한 핏의 옷이 힙합 아티스트들 사이에서 인기를 끌었다. 이후 신발, 액세서리, 향수, 홈 퍼니싱까지 제품군이 넓어졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "타미 힐피거는 2006년 사모펀드 Apax Partners에 인수되었고, 2010년 3월 당시 Phillips-Van Heusen으로 불리던 PVH Corp.가 사들였다. 2014년 7월 Daniel Grieder가 CEO로 임명되었다. 본사는 암스테르담에 있으며, 100개국에서 2000개가 넘는 독립 매장을 운영한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국 프레피 스타일과 해양풍 이미지를 바탕으로 1990년대 음악 산업, 특히 힙합과 긴밀히 연결되어 성장한 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://usa.tommy.com/en#/home_page",
+  "entityLinks": {
+   "wikidata": "Q634881",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q634881",
+    "https://ko.wikipedia.org/wiki/%ED%83%80%EB%AF%B8_%ED%9E%90%ED%94%BC%EA%B1%B0_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Tommy_Hilfiger_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q634881",
+   "country": "미국",
+   "inception": "1985",
+   "headquarters": "암스테르담",
+   "founders": [
+    "토미 힐피거"
+   ],
+   "parent": "PVH Corp.",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Tommy Hilfiger (company)」 본문과 위키데이터 Q634881 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

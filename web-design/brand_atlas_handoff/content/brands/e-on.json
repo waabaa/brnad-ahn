@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q270223",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/e-on-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "e-on",
+  "urlSlug": "e-on",
+  "name": "E.ON",
+  "nameKo": "",
+  "nameEn": "E.ON",
+  "definition": "E.ON은 독일 에센에 본사를 둔 다국적 전력 유틸리티 기업이다. 세계 최대 규모의 투자자 소유 전력 서비스 제공업체 가운데 하나이다.",
+  "summary": "E.ON은 독일 에센에 본사를 둔 다국적 전력 유틸리티 기업이다. 세계 최대 규모의 투자자 소유 전력 서비스 제공업체 가운데 하나이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "E.ON은 2000년 VEBA와 VIAG의 합병으로 출범해 화석 에너지 사업을 Uniper로 분리한 독일의 대형 전력 유틸리티이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "E.ON은 독일 에센에 본사를 둔 다국적 전력 유틸리티 기업이다. 세계 최대 규모의 투자자 소유 전력 서비스 제공업체 가운데 하나로 꼽힌다. 30개가 넘는 국가에서 사업을 하며 고객은 5천만 명이 넘는다. 이름은 그리스어 αἰών(aion)에서 유래한 라틴어 aeon에서 왔으며 '시대' 또는 '무한'을 뜻한다. 여기에 마침표를 더해 에너지(E)와 조명(ON)이라는 보조적 의미를 담았다. 독일 주가지수 DAX의 구성 종목이며 최고경영자는 Leonhard Birnbaum이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "E.ON은 2000년 에너지 기업 VEBA와 VIAG가 합병하면서 출범했다. 2002년 1월 영국의 Powergen을 인수했고, 2003년에는 Ruhrgas를 인수해 가스 시장에 진출했다. 이후 스웨덴의 Sydkraft와 러시아의 OGK-4도 인수했으며 이들은 각각 E.ON Sverige, E.ON UK, E.ON Russia 등의 이름으로 바뀌었다. Powergen 인수를 통해 미국의 Louisville Gas & Electric Energy도 넘겨받아 E.ON US로 운영했으나 2010년 PPL Corporation에 매각했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "E.ON은 전력 소매, 배전, 원자력 사업을 운영하는 유틸리티 기업이다. 2016년에는 기존 화력 발전과 에너지 거래 사업을 분리해 새 회사 Uniper를 만들었다. 2018년 3월에는 E.ON, Innogy, RWE 사이의 자산 교환 계약을 통해 Innogy의 유틸리티 부문을 인수하기로 발표했고, 최종 실행은 2020년 7월에 이루어졌다. 영국에서는 2020년 E.ON UK가 새 자회사 브랜드 E.ON Next로 고객을 옮기겠다고 밝혔다. E.ON Next에는 Npower와 Powershop에서 넘어온 고객 200만 명도 포함되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "E.ON은 2014년 11월 앞으로 화석 에너지를 하지 않겠다고 밝혔고, 화석 에너지 사업을 Uniper로 이전해 2016년 1월 1일 가동을 시작했다. 같은 해 9월 프랑크푸르트 증권거래소 상장으로 Uniper 지분 53%를 매각했으며 남은 지분은 핀란드의 Fortum에 팔았다. 2019년에는 영국 \"Big Six\" 전력사 가운데 처음으로 영국 내 모든 전력 고객을 재생에너지 전력으로 전환했다. 다만 튀르키예에는 여전히 석탄 발전을 보유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "E.ON은 2000년 VEBA와 VIAG의 합병으로 출범해 화석 에너지 사업을 Uniper로 분리한 독일의 대형 전력 유틸리티이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.eon.com/",
+  "entityLinks": {
+   "wikidata": "Q270223",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q270223",
+    "https://ko.wikipedia.org/wiki/E.ON",
+    "https://en.wikipedia.org/wiki/E.ON"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q270223",
+   "country": "독일",
+   "inception": "2000",
+   "headquarters": "에센",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「E.ON」 본문과 위키데이터 Q270223 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

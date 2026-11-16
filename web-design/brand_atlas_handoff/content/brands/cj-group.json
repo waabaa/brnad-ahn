@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q483593",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/cj-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cj-group",
+  "urlSlug": "cj-group",
+  "name": "CJ그룹",
+  "nameKo": "CJ그룹",
+  "nameEn": "CJ Group",
+  "definition": "CJ그룹(CJ Group)은 대한민국의 대규모 기업집단이다. 1953년 설립된 제일제당공업주식회사를 모태로 하며, 식품·생명공학·물류·엔터테인먼트 등 4개 사업 부문으로 구성된다.",
+  "summary": "CJ그룹(CJ Group)은 대한민국의 대규모 기업집단이다. 1953년 설립된 제일제당공업주식회사를 모태로 하며, 식품·생명공학·물류·엔터테인먼트 등 4개 사업 부문으로 구성된다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "식품, 생명공학, 물류, 엔터테인먼트를 한 그룹 안에 아우르며 '온리원(ONLYONE)' 경영철학을 내세우는 대한민국의 기업집단이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "CJ그룹은 식품, 생명공학, 물류, 엔터테인먼트 등 4개 사업 부문으로 구성된 대한민국의 기업집단이다. CJ(주)는 순수 지주회사로서 계열사 주식을 보유하며, 주요 계열사로 CJ제일제당, CJ대한통운, CJ ENM, CJ프레시웨이, CJ올리브영, 스튜디오드래곤, CJ올리브네트웍스 등이 있다. 본사는 서울특별시 중구 소월로2길 12에 있다. 그룹의 CI는 'CJ 블로썸'이며, 세 개의 꽃잎은 각각 건강(빨강), 즐거움(노랑), 편리(파랑)를 의미한다. 경영철학으로는 모든 면에서 최초·최고·차별화를 추구한다는 '온리원(ONLYONE)'을 내세운다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "그룹의 모태는 1953년 창업주 호암 이병철 전 삼성 회장이 설립한 제일제당공업주식회사이며, 한국 최초의 현대식 생산 공장으로 출발했다. 1996년 삼성그룹과 계열 분리되어 제일제당그룹으로 독립 출범했고, 이때 '세계적인 생활문화기업'을 표방했다. 2002년 사명을 CJ로 변경했으며, 같은 해 이재현 당시 부회장이 그룹 회장직에 취임했다. 'CJ'는 제일제당(Cheil Jedang)의 영문 약자에서 유래했다. 2007년 9월에는 지주회사 체제로 전환해 사업회사(CJ제일제당)와 경영회사(CJ주식회사)로 분리했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "식품 부문에서는 CJ제일제당이 설탕, 밀가루, 식용유, 조미료, 장류, 냉동식품, HMR 등을 생산·판매하며 비비고, 햇반, 스팸 등의 브랜드를 보유한다. CJ푸드빌은 빕스, 뚜레쥬르 등 외식·베이커리 사업을 영위한다. 물류 부문의 CJ대한통운은 택배와 글로벌 포워딩 사업 등을 하고, CJ올리브영은 건강 및 미용 관련 상품을 판매한다. 엔터테인먼트 부문에서는 CJ ENM이 방송채널과 영화·드라마, 음악 사업을 하고, 스튜디오드래곤, TVING, CJ CGV가 각각 드라마 제작, OTT, 멀티플렉스 운영을 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 이재현 회장이 경영 일선에 복귀한 이후 글로벌 사업 확장을 중심으로 사업 구조 조정을 단행했다. 2018년에는 CJ헬스케어를 한국콜마에 매각했고, CJ대한통운이 CJ건설을, CJ오쇼핑이 CJ E&M을 각각 흡수합병했다. 2019년에는 CJ제일제당이 미국 냉동식품기업 슈완스를 인수했고, CJ헬로비전은 LG유플러스에 매각되었다. 2021년에는 CJ제일제당이 천랩과 바타비아 바이오사이언스를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "식품, 생명공학, 물류, 엔터테인먼트를 한 그룹 안에 아우르며 '온리원(ONLYONE)' 경영철학을 내세우는 대한민국의 기업집단이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cj.net/",
+  "entityLinks": {
+   "wikidata": "Q483593",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q483593",
+    "https://ko.wikipedia.org/wiki/CJ%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/CJ_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q483593",
+   "country": "대한민국",
+   "inception": "1953",
+   "headquarters": "서울특별시",
+   "founders": [
+    "이병철"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「CJ그룹」 요약과 위키데이터 Q483593 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

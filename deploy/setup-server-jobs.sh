@@ -98,7 +98,26 @@ Persistent=true
 [Install]
 WantedBy=timers.target
 U
+cat > $D/brandatlas-intake.service <<U
+[Unit]
+Description=brand-atlas 야간 수록 — 한도가 남았으면 대기 요청 처리를 깨운다
+[Service]
+Type=oneshot
+ExecStart=/home/developer/brandatlas-src/scripts/server/intake-tick.sh
+StandardOutput=append:/home/developer/brandatlas-logs/intake.log
+StandardError=append:/home/developer/brandatlas-logs/intake.log
+TimeoutStartSec=120
+U
+cat > $D/brandatlas-intake.timer <<U
+[Unit]
+Description=brand-atlas 야간 수록 22:00~04:30 30분마다
+[Timer]
+OnCalendar=*-*-* 22,23,00,01,02,03,04:00,30:00
+[Install]
+WantedBy=timers.target
+U
 systemctl --user daemon-reload
+systemctl --user enable --now brandatlas-intake.timer >/dev/null 2>&1
 # 매거진은 주 1회(주간 리프레시 안에서) + 어드민 버튼 즉시 — 예전 매일 타이머는 끈다(2026-09-14).
 systemctl --user disable --now brandatlas-magazine.timer >/dev/null 2>&1 || true; rm -f $D/brandatlas-magazine.timer
 systemctl --user daemon-reload

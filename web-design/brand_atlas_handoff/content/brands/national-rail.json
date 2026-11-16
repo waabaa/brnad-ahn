@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q26334",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/national-rail-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "national-rail",
+  "urlSlug": "national-rail",
+  "name": "내셔널 레일",
+  "nameKo": "내셔널 레일",
+  "nameEn": "National Rail",
+  "definition": "내셔널 레일(National Rail)은 레일 딜리버리 그룹이 사용을 허가한 상호명이다. 잉글랜드, 스코틀랜드, 웨일스의 승객 열차 운영 회사들이 공통 티켓 구조와 홍보에 쓰는 브랜드이다.",
+  "summary": "내셔널 레일(National Rail)은 레일 딜리버리 그룹이 사용을 허가한 상호명이다. 잉글랜드, 스코틀랜드, 웨일스의 승객 열차 운영 회사들이 공통 티켓 구조와 홍보에 쓰는 브랜드이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "선로와 역을 소유·관리하는 네트워크 레일과 달리, 여객 열차 운영사들이 공통 티켓과 홍보에 쓰는 브랜드이다. 브리티시 레일의 이중 화살표 기호를 계속 사용한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "내셔널 레일은 영국의 여객 철도 서비스를 홍보하고, 티켓팅에서 승객을 위한 일부 조화를 제공하는 데 쓰는 브랜드이다. 비법인 협회의 회원은 잉글랜드, 스코틀랜드, 웨일스의 승객 열차 운영 회사(TOC)이며, 북아일랜드는 다른 시스템을 사용한다. 선로, 역, 신호 등 철도 네트워크의 고정 자산을 소유하고 관리하는 조직인 네트워크 레일과는 구별된다. 내셔널 레일 서비스는 브리티시 레일에서 물려받은 공통 티켓 구조와 상호 이용 가능성을 공유한다. 28개의 민간 소유 열차 운영사가 각각 정부와 정해진 기간의 프랜차이즈를 맺고 영국의 주요 철도망에서 여객 열차를 운영한다. 유로스타는 선로와 역을 공유하지만 내셔널 레일 네트워크에 속하지 않는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "내셔널 레일에 앞서 브리티시 레일웨이 보드(British Railways Board)가 1965년부터 브리티시 레일이라는 브랜드로 승객 서비스를 제공했다. 브리티시 레일의 이중 화살표 기호는 디자인 리서치 유닛(Design Research Unit)의 제럴드 버니(Gerald Burney)가 디자인했다. 내셔널 레일 로고는 1999년 ATOC가 도입했고, 그해 9월 26일부터 유효한 버전이 영국 공개 시간표에 처음 쓰였다. 영국 철도 민영화 이후 철도 설계에 단일 접근 방식은 사라졌지만, 내셔널 레일은 이 기호를 계속 사용한다. 이중 화살표 기호의 상표권은 국가 소유로 남아 교통부 장관에게 귀속된다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "내셔널 레일 인콰이어이즈(National Rail Inquiries) 웹사이트는 행선지, 요금, 실시간 배차 정보를 제공한다. 이 사이트는 민영 열차 회사의 웹사이트를 보완하도록 설계되었다. 이용객이 승차권을 고르면 가장 관련성이 높은 열차 회사 웹사이트로 이동해 예약 수수료 없이 구입한다. 대부분의 티켓은 경로에 적합한 운영사 서비스 사이에서 상호 이용할 수 있다. 오이스터 종량제는 2010년 1월 2일부터 그레이터런던 내 내셔널 레일에서 쓸 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "레일 딜리버리 그룹은 TOC를 대표하는 무역 협회이며, 내셔널 레일 인콰이어이즈 서비스 제공을 포함한 핵심 서비스를 맡는다. 28개의 민간 소유 열차 운영사가 프랜차이즈 방식으로 여객 열차를 운영한다. 마지막 공식 인쇄 시간표는 2007년에 출판되었고, 전체 시간표의 디지털 버전은 네트워크 레일 웹사이트에서 PDF 파일로 제공한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "선로와 역을 소유·관리하는 네트워크 레일과 달리, 여객 열차 운영사들이 공통 티켓과 홍보에 쓰는 브랜드이다. 브리티시 레일의 이중 화살표 기호를 계속 사용한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.nationalrail.co.uk",
+  "entityLinks": {
+   "wikidata": "Q26334",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26334",
+    "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%85%94%EB%84%90_%EB%A0%88%EC%9D%BC",
+    "https://en.wikipedia.org/wiki/National_Rail"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q26334",
+   "country": null,
+   "inception": "1999",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「내셔널 레일」 요약과 위키데이터 Q26334 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

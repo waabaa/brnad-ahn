@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q820507",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "chanel-no-5",
+  "urlSlug": "chanel-no-5",
+  "name": "샤넬 5호",
+  "nameKo": "샤넬 5호",
+  "nameEn": "Chanel No. 5",
+  "definition": "샤넬 5호(Chanel No. 5)는 프랑스 쿠튀리에 가브리엘 \"코코\" 샤넬이 1921년에 처음 선보인 향수이다. 조향은 프랑스계 러시아인 화학자이자 조향사인 Ernest Beaux가 맡았다.",
+  "summary": "샤넬 5호(Chanel No. 5)는 프랑스 쿠튀리에 가브리엘 \"코코\" 샤넬이 1921년에 처음 선보인 향수이다. 조향은 프랑스계 러시아인 화학자이자 조향사인 Ernest Beaux가 맡았다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1921년 가브리엘 샤넬이 처음 내놓은 향수로, 숫자 5에서 따온 이름과 장식을 덜어낸 투명하고 단순한 병 디자인으로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 향수는 프랑스 쿠튀리에 가브리엘 \"코코\" 샤넬이 1921년에 처음 출시한 향수이다. 조향은 프랑스계 러시아인 화학자이자 조향사인 Ernest Beaux가 맡았고, 병 디자인은 제품 브랜딩의 중요한 부분이 되어 왔다. 당시 여성용 향수는 정원의 꽃 한 가지를 내세운 단정한 향과, 동물성 머스크나 자스민이 짙은 도발적인 인돌계 향으로 나뉘어 있었다. 샤넬은 1920년대의 플래퍼에게 어울리고 해방된 여성의 정신을 기리는 새로운 향을 원했다. 1937년 Harper's Bazaar에 실린 광고에는 코코 샤넬 본인이 이 향수의 첫 번째 얼굴로 등장했다. 병 역시 오랜 세월에 걸쳐 누구나 알아볼 수 있는 문화적 상징물이 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1920년 샤넬은 1부터 5, 20부터 24까지 번호가 붙은 작은 유리병 샘플을 받아 평가했고 다섯 번째 병을 골랐다. 새 향수 개발을 맡긴 조향사 Ernest Beaux에게는 자신이 한 해의 다섯 번째 달인 5월 5일에 의상 컬렉션을 발표하므로 이 샘플이 이미 가진 번호를 이름으로 유지하면 행운을 가져올 것이라고 말했다. 숫자 5는 열두 살에 수녀들에게 맡겨져 지낸 Aubazine 수도원 고아원 시절부터 그에게 특별한 의미를 지닌 숫자였다. 첫 병은 1922년에 만들어졌고 샤넬 부티크에서 선별된 고객에게만 판매되었다. 1924년에는 Parfums Chanel이 법인으로 설립되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "처음 만든 병은 작고 둥근 어깨를 지녔으나, 1924년 유통 과정을 견디기에는 유리가 너무 얇아 각진 면이 있는 모서리로 수정되었다. 이것이 병의 유일하게 의미 있는 디자인 변경이다. 샤넬은 당시 유행한 Lalique와 Baccarat의 화려한 크리스털 병과 반대되는 \"투명함 그 자체\"의 병을 구상했다. 팔각형 마개는 1924년에 만들어져 브랜드의 상징이 되었고, 1986년에 병의 크기와 조화를 이루도록 비례가 조정되었다. 1934년에는 핸드백에 넣고 다닐 수 있는 \"pocket flacon\"을 가격과 용량을 줄여 선보였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1921년 가브리엘 샤넬이 처음 내놓은 향수로, 숫자 5에서 따온 이름과 장식을 덜어낸 투명하고 단순한 병 디자인으로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.chanel.com/gb/fragrance/chanel-number-5/",
+  "entityLinks": {
+   "wikidata": "Q820507",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q820507",
+    "https://ko.wikipedia.org/wiki/%EC%83%A4%EB%84%AC_%EB%84%98%EB%B2%845",
+    "https://en.wikipedia.org/wiki/Chanel_No._5"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q820507",
+   "country": null,
+   "inception": "1921",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Chanel No. 5」 본문과 위키데이터 Q820507 팩트를 근거로 편집"
+ }
+}

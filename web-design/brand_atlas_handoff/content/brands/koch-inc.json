@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1496384",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/koch-inc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "koch-inc",
+  "urlSlug": "koch-inc",
+  "name": "코크 인더스트리즈",
+  "nameKo": "코크 인더스트리즈",
+  "nameEn": "Koch, Inc.",
+  "definition": "코크 인더스트리즈(Koch, Inc.)는 미국 캔자스주 위치토에 본사를 둔 다국적 복합기업이다. Cargill에 이어 미국에서 두 번째로 큰 비상장 기업이며, 석유·화학·에너지 등 여러 분야의 자회사를 거느린다.",
+  "summary": "코크 인더스트리즈(Koch, Inc.)는 미국 캔자스주 위치토에 본사를 둔 다국적 복합기업이다. Cargill에 이어 미국에서 두 번째로 큰 비상장 기업이며, 석유·화학·에너지 등 여러 분야의 자회사를 거느린다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "석유·화학에서 금융·클라우드 컴퓨팅까지 아우르는 비상장 복합기업으로, 공개 시장의 압박 없이 장기 투자와 성장에 집중해 왔다고 밝힌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Koch는 석유, 화학, 에너지, 섬유, 중간재와 폴리머, 광물, 비료, 펄프와 종이, 화학기술 장비, 클라우드 컴퓨팅, 금융, 원자재 거래, 투자 분야에 자회사를 둔 복합기업이다. 자회사들은 이들 제품의 제조, 정제, 유통에 관여한다. 직원은 60개국에서 122,000명이며, 사업의 절반가량이 미국에서 이루어진다. 미국에서는 Cargill 다음으로 큰 비상장 기업이다. 회사는 1940년 Fred C. Koch가 창업했고 본사는 캔자스주 위치토에 있다. Charles Koch는 회사의 상장이 \"내 시신을 넘어서야\" 가능할 것이라고 말했으며, 공개 시장의 압박에서 벗어난 자유를 장기 투자와 성장에 집중하는 데 활용했다고 밝혔다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Fred C. Koch는 1925년 MIT 동기 Lewis E. Winkler와 위치토의 엔지니어링 회사에서 함께 일했고, 이 회사는 Winkler-Koch Engineering Company로 이름이 바뀌었다. 1927년 두 사람은 원유를 휘발유로 만드는 더 효율적인 열분해 공정을 개발했다. 1940년 Koch는 새 동업자들과 Wood River Oil and Refining Company를 세웠고, 이 회사는 Fred C. Koch 사후 이듬해인 1968년 Koch Industries로 이름을 바꾸었다. Fred C. Koch는 1967년 사망했고 지분은 네 아들에게 나뉘었으며, 1983년 6월 배당금을 둘러싼 분쟁 끝에 Frederick R. Koch와 William \"Bill\" Koch의 지분이 $1.1 billion에 매입되어 Charles Koch와 David Koch가 최대 주주가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Koch는 Flint Hills Resources, Georgia-Pacific, Guardian Industries, Infor, Invista, KBX, Koch Ag & Energy Solutions, Koch Engineered Solutions, Koch Investments Group, Koch Minerals & Trading, Molex를 소유한다. 자회사들의 사업은 석유, 화학, 에너지, 섬유, 중간재와 폴리머, 광물, 비료, 펄프와 종이의 제조·정제·유통에 걸쳐 있다. 이 밖에 화학기술 장비, 클라우드 컴퓨팅, 금융, 원자재 거래, 투자 분야에도 관여한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Charles Koch가 지분 42%를 보유하고 있고, J. Howard Marshall의 며느리 Elaine Tettemer Marshall과 그 자녀 Preston Marshall, E. Pierce Marshall Jr.를 위한 신탁이 16%를 보유한다. David Koch는 2019년 8월 23일 사망했고 그의 상속인들이 나머지 42%를 보유한다. 직원은 60개국 122,000명이며 사업의 절반가량이 미국에서 이루어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "석유·화학에서 금융·클라우드 컴퓨팅까지 아우르는 비상장 복합기업으로, 공개 시장의 압박 없이 장기 투자와 성장에 집중해 왔다고 밝힌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kochinc.com",
+  "entityLinks": {
+   "wikidata": "Q1496384",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1496384",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%ED%81%AC_%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Koch,_Inc."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1496384",
+   "country": "미국",
+   "inception": "1940",
+   "headquarters": "위치토",
+   "founders": [
+    "Fred Chase Koch"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Koch, Inc.」 본문과 위키데이터 Q1496384 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1632461",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/veolia-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "veolia",
+  "urlSlug": "veolia",
+  "name": "베올리아",
+  "nameKo": "베올리아",
+  "nameEn": "Veolia",
+  "definition": "베올리아(Veolia)는 프랑스의 다국적 기업이다. 전통적으로 공공 당국이 맡아 온 물 관리, 폐기물 관리, 에너지 서비스 세 분야에서 사업을 한다.",
+  "summary": "베올리아(Veolia)는 프랑스의 다국적 기업이다. 전통적으로 공공 당국이 맡아 온 물 관리, 폐기물 관리, 에너지 서비스 세 분야에서 사업을 한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "공공 당국이 전통적으로 맡아 온 물·폐기물·에너지 서비스를 한 그룹에서 다루며, 1853년 설립된 물 회사 Compagnie Générale des Eaux에서 이어진 프랑스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "프랑스에 기반을 둔 다국적 기업으로, 물 관리, 폐기물 관리, 에너지 서비스를 주요 사업으로 한다. 이 세 분야는 전통적으로 공공 당국이 관리해 온 영역이다. 2025년 기준 56개국에서 215,000명을 고용했으며, 유로넥스트 파리에 상장되어 있다. 2003년 Veolia Environnement로 이름을 바꾼 뒤, 2005년 Veolia가 물, 환경 서비스, 에너지 서비스, 운송 전 부문을 아우르는 통합 브랜드로 자리 잡았다. 2014년 대대적인 구조조정 이후에는 모든 사업에 단일 명칭 Veolia를 쓰고 사업 분야명을 덧붙여 구분한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1853년 12월 14일 Napoleon III의 칙령으로 물 회사 Compagnie Générale des Eaux(CGE)가 만들어졌다. CGE는 같은 해 리옹의 공공 급수 양허를 얻어 백 년 넘게 맡았고, 1860년에는 파리 시와 50년 양허를 맺었다. 1976년 Guy Dejouany가 최고경영자가 된 뒤 인수를 통해 물 이외의 분야로 확장했고, 1980년부터 폐기물, 에너지, 운송, 건설·부동산으로 사업을 넓혔다. 1998년 Vivendi로 사명을 바꿨고, 1999년 환경 부문을 모아 Vivendi Environnement를 만들었으며, 2003년 Veolia Environnement로 개명했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 물 관리, 폐기물 관리, 에너지 서비스로 구성된다. 2005년 통합 브랜드를 도입할 당시 부문은 Veolia Water, Dalkia, Veolia Environmental Services, Veolia Transport였다. Veolia Water는 Vivendi Water에서, Veolia Environmental Services는 Onyx Environnement에서, Veolia Transport는 Connex에서 이어졌다. Dalkia는 CGC에서 출발한 에너지 서비스 부문으로 1998년 이 이름을 얻었고, 2000년 Électricité de France(EDF)와의 합작사가 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 직원 수는 56개국 215,000명이며 유로넥스트 파리에 상장되어 있다. 2020년 말 경쟁사 Suez Eau France의 지분 29.9%를 인수했고, 합병 조건은 2021년 5월 서명되었다. 2022년 7월 Estelle Brachlianoff가 최고경영자가 되었으며, 전임 Antoine Frérot는 이사회 의장으로 남았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "공공 당국이 전통적으로 맡아 온 물·폐기물·에너지 서비스를 한 그룹에서 다루며, 1853년 설립된 물 회사 Compagnie Générale des Eaux에서 이어진 프랑스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.veolia.com/",
+  "entityLinks": {
+   "wikidata": "Q1632461",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1632461",
+    "https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%98%AC%EB%A6%AC%EC%95%84",
+    "https://en.wikipedia.org/wiki/Veolia"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1632461",
+   "country": "프랑스",
+   "inception": "1853",
+   "headquarters": "리부른",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Veolia」 본문과 위키데이터 Q1632461 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

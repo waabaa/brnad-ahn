@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1471161",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/imperial-brands-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "imperial-brands",
+  "urlSlug": "imperial-brands",
+  "name": "임페리얼 브랜즈",
+  "nameKo": "임페리얼 브랜즈",
+  "nameEn": "Imperial Brands",
+  "definition": "임페리얼 브랜즈(Imperial Brands)는 잉글랜드 브리스틀에 본사를 둔 영국의 다국적 담배 기업이다. 시장 점유율 기준 세계 4번째로 큰 국제 담배 회사이며, 세계 최대의 가느다란 담배 및 담배 페이퍼 생산 기업이기도 하다.",
+  "summary": "임페리얼 브랜즈(Imperial Brands)는 잉글랜드 브리스틀에 본사를 둔 영국의 다국적 담배 기업이다. 시장 점유율 기준 세계 4번째로 큰 국제 담배 회사이며, 세계 최대의 가느다란 담배 및 담배 페이퍼 생산 기업이기도 하다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대의 가느다란 담배 및 담배 페이퍼 생산 기업이며, 담배와 거리를 두려고 사명에서 토바코를 뺀 영국 담배 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "임페리얼 브랜즈는 영국 잉글랜드의 브리스틀에 본사를 두고 담배를 생산·판매하는 다국적 기업이다. 시장 점유율을 기준으로 보면 필립 모리스 인터내셔널, 브리티쉬 아메리칸 토바코, 일본담배산업에 이어 세계에서 4번째로 큰 국제 담배 회사이다. 이 기업은 세계 최대의 가느다란 담배 및 담배 페이퍼 생산 기업이기도 하다. 매년 3200억 개 이상의 담배를 생산하며, 전 세계에 51개 공장을 보유하고 160개국 이상에서 제품이 판매된다. 1901년 임페리얼 타바코 컴퍼니라는 사명으로 설립되었다. 브리티쉬 아메리칸 토바코의 캐나다 자회사 임페리얼 토바코 캐나다는 임페리얼 브랜즈와 아무런 관계가 없다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 2월 담배와 거리를 두기 위해 사명을 임페리얼 토바코 그룹에서 임페리얼 브랜즈로 변경했다. 런던 증권거래소에 상장되어 있으며 FTSE 100 지수의 일부이다. 다비도프, 웨스트, 몬테크리스토, 골든 버지니아, 드럼, 리즐라 등의 브랜드를 보유하고 있다. 시장 점유율 기준으로 세계에서 4번째로 큰 국제 담배 회사이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대의 가느다란 담배 및 담배 페이퍼 생산 기업이며, 담배와 거리를 두려고 사명에서 토바코를 뺀 영국 담배 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.imperialbrandsplc.com/index.html",
+  "entityLinks": {
+   "wikidata": "Q1471161",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1471161",
+    "https://ko.wikipedia.org/wiki/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC_%EB%B8%8C%EB%9E%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Imperial_Brands"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1471161",
+   "country": "영국",
+   "inception": "1996",
+   "headquarters": "브리스틀",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「임페리얼 브랜즈」 요약과 위키데이터 Q1471161 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

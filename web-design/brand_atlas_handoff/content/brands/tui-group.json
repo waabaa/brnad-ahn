@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q573103",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/tui-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tui-group",
+  "urlSlug": "tui-group",
+  "name": "TUI (기업)",
+  "nameKo": "TUI (기업)",
+  "nameEn": "TUI Group",
+  "definition": "TUI(TUI Group)는 독일 하노버에 본사를 둔 다국적 레저·여행·관광 기업이다. 이 분야에서 세계 최대 규모의 기업으로 꼽히며 프랑크푸르트 증권거래소에서 거래된다.",
+  "summary": "TUI(TUI Group)는 독일 하노버에 본사를 둔 다국적 레저·여행·관광 기업이다. 이 분야에서 세계 최대 규모의 기업으로 꼽히며 프랑크푸르트 증권거래소에서 거래된다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "광업 회사 Preussag에서 출발해 1997년 이후 관광으로 전환했고, 호텔·크루즈·항공을 함께 운영하는 세계 최대 규모의 여행·관광 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TUI는 여행사, 호텔 체인, 크루즈 선사, 소매점을 전부 또는 일부 소유하고 유럽 항공사 다섯 곳을 보유한 여행·관광 기업이다. 회사명 TUI는 Touristik Union International의 약어이다. 1997년까지는 Preussag AG라는 이름으로 알려졌으며, 그해 광업 중심의 사업을 관광 중심으로 바꾸었다. 호텔 353곳에서 침대 275,144개를 운영하고, 제3자가 운영하는 호텔 65곳에도 브랜드 사용을 허용한다. TUI Cruises, Hapag-Lloyd Cruises, Marella Cruises 브랜드로 크루즈선 16척을 운영하고 항공기 134대를 보유한다. 본사는 독일 하노버에 있고 프랑크푸르트 증권거래소에서 거래되며, 이 분야에서 세계 최대 기업이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "뿌리는 1923년 10월 9일 독일 광업 회사로 설립된 Preussag AG(Preußische Bergwerks- und Hütten-Aktiengesellschaft)에 있다. 관광 계통은 1968년 통합된 TUI로, 1953년 여행사 Dr Tigges가 Riu 가문의 호텔 회사와 독일인 관광객의 마요르카 휴가 상품 거래를 시작한 일이 전신의 하나로 꼽힌다. 1997년 Preussag AG는 Salzgitter AG를 매각하고 Hapag-Lloyd AG를 인수해 서비스·레저 기업이 되었다. 당시 Hapag-Lloyd가 TUI 지분 30%를 보유했고, 이 지분은 1999년까지 100%로 늘었다. 2002년 Preussag는 사명을 TUI AG로 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "TUI는 여행사, 호텔 체인, 크루즈 선사, 소매점을 전부 또는 일부 소유하며 유럽 항공사 다섯 곳을 보유한다. 호텔은 353곳에서 침대 275,144개를 운영하고, 제3자가 운영하는 호텔 65곳에도 TUI 브랜드 사용을 허용한다. 이 호텔들의 투숙객은 연간 21 million명이다. 크루즈는 TUI Cruises, Hapag-Lloyd Cruises, Marella Cruises 브랜드로 16척을 운영하며, 항공기는 134대를 보유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2007년 9월 TUI는 영국 여행사 First Choice와 여행 부문을 합쳐 TUI Travel plc를 출범시켰고 지분 55%를 보유했다. 2014년 6월 TUI Travel과의 완전 합병을 발표했으며, 합병은 2014년 12월 17일 완료되어 통합 회사가 프랑크푸르트와 런던 증권거래소에서 거래를 시작했다. 한편 해운 사업에서 철수하기 위해 Hapag-Lloyd 지분을 2009년 3월과 2012년 2월에 Albert Ballin 컨소시엄에 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "광업 회사 Preussag에서 출발해 1997년 이후 관광으로 전환했고, 호텔·크루즈·항공을 함께 운영하는 세계 최대 규모의 여행·관광 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tui-group.com",
+  "entityLinks": {
+   "wikidata": "Q573103",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q573103",
+    "https://ko.wikipedia.org/wiki/TUI_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/TUI_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q573103",
+   "country": "독일",
+   "inception": "1968",
+   "headquarters": "하노버",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「TUI Group」 본문과 위키데이터 Q573103 팩트를 근거로 편집",
+  "founded": {
+   "date": "1968-12-01",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

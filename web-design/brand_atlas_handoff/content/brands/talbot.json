@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q173151",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/talbot-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "talbot",
+  "urlSlug": "talbot",
+  "name": "탤벗",
+  "nameKo": "탤벗",
+  "nameEn": "Talbot",
+  "definition": "탤벗(Talbot)은 영국계 프랑스 합작 회사 Clément-Talbot가 1902년에 선보인 자동차 브랜드이다. 현재는 생산이 중단된 휴면 상표이며, 상표권은 Stellantis가 보유하고 있다.",
+  "summary": "탤벗(Talbot)은 영국계 프랑스 합작 회사 Clément-Talbot가 1902년에 선보인 자동차 브랜드이다. 현재는 생산이 중단된 휴면 상표이며, 상표권은 Stellantis가 보유하고 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "런던과 파리에서 서로 다른 계보로 이어진 자동차 상표로, 여러 소유주를 거쳐 지금은 Stellantis가 권리를 가진 휴면 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "탤벗은 영국과 프랑스에 걸쳐 존재했던 자동차 브랜드로, 현재는 생산이 중단된 휴면 상표이다. 1903년 설립된 Clément-Talbot에서 출발해 여러 차례의 인수를 거치며 두 갈래의 형태로 존재했다. 런던 쪽은 1938년 Sunbeam-Talbot으로 이름이 바뀌었고 Rootes Group이 이끌었으며, 파리 쪽은 Antonio Lago가 이어받았다. 이후 상표는 Simca를 거쳐 Chrysler Corporation 산하에 들어갔고, 1978년 PSA Peugeot Citroën이 Chrysler Europe을 인수하면서 PSA의 소유가 되었다. PSA는 1979년부터 1994년까지 이 상표를 되살려 옛 Chrysler Europe 제품에 적용했다. 현재 상표권은 Groupe PSA의 후신인 Stellantis가 보유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Clément-Talbot는 영국계 프랑스 회사로, Charles Chetwynd-Talbot, 20th Earl of Shrewsbury와 Adolphe Clément-Bayard가 세웠다. 1903년 설립된 이 회사의 첫 제품은 프랑스 Clément-Bayard 차량의 기계 부품을 런던에서 조립한 자동차였으나, 프랑스제 부품은 곧 영국산 부품으로 대체되었다. 1919년 12월 런던의 Darracq가 Clément-Talbot의 전체 자본을 사들였고, 이후 Sunbeam까지 인수하면서 STD Motors로 이름을 바꿨다. 파리에서는 1920년 Suresnes 제품이 Talbot-Darracq로 판매되다가 1922년 Darracq가 빠졌다. STD Motors는 대공황 속에서 부채를 갚지 못해 1936년에 사라졌고, 런던 공장은 Rootes가, 파리 공장은 Antonio Lago가 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "런던의 Clément-Talbot는 초기에 프랑스 Clément-Bayard 차량의 부품을 조립한 자동차를 만들었다. Rootes 시기에는 Hillman과 Humber 부품을 도입했고, 개조한 Hillman Aero Minx에 Talbot 이름을 붙여 생산 라인에 올렸다. 파리의 Antonio Lago는 스포츠카와 Grand Prix 레이스 참여, 고급 승용차 생산에 Talbot을 활용했다. 전후 프랑스 정부가 2.6-litres를 넘는 엔진의 차에 징벌적 연간 세금을 도입하면서 Talbot 판매는 크게 제한되었다. 1979년 이후 PSA는 옛 Simca와 Chrysler/Rootes 모델에 Talbot 배지를 달았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Talbot 상표는 휴면 상태이다. 상표권은 Groupe PSA의 후신인 Stellantis가 보유하고 있다. PSA는 1979년부터 1994년까지 이 상표를 사용했으며, 그 대상은 옛 Chrysler Europe 제품이었다. Chrysler Europe은 수익을 내기 어려웠고 정부 지원에 의존했으며, PSA는 1978년 이를 미국 모기업으로부터 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "런던과 파리에서 서로 다른 계보로 이어진 자동차 상표로, 여러 소유주를 거쳐 지금은 Stellantis가 권리를 가진 휴면 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q173151",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173151",
+    "https://ko.wikipedia.org/wiki/%ED%83%A4%EB%B2%97",
+    "https://en.wikipedia.org/wiki/Talbot"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q173151",
+   "country": "영국",
+   "inception": "1903",
+   "headquarters": "파리",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Talbot」 본문과 위키데이터 Q173151 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

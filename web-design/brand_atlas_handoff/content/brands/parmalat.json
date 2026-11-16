@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1432285",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/parmalat-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "parmalat",
+  "urlSlug": "parmalat",
+  "name": "파르마라트",
+  "nameKo": "파르마라트",
+  "nameEn": "Parmalat",
+  "definition": "파르마라트(Parmalat)는 이탈리아의 유제품·식품 기업이다. 초고온 처리(UHT) 우유와 요거트, 치즈, 버터, 아이스크림 등 유제품을 만들며, 본사는 Collecchio에 있고 프랑스 Lactalis의 자회사이다.",
+  "summary": "파르마라트(Parmalat)는 이탈리아의 유제품·식품 기업이다. 초고온 처리(UHT) 우유와 요거트, 치즈, 버터, 아이스크림 등 유제품을 만들며, 본사는 Collecchio에 있고 프랑스 Lactalis의 자회사이다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "유럽 최대 규모의 파산을 겪은 뒤 Lactalis 산하에서 UHT 우유와 유제품 사업을 이어가는 이탈리아 기업이다. Brabham Formula 1 팀 스폰서로도 알려졌다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "파르마라트는 이탈리아의 유제품·식품 기업으로, 초고온 처리(UHT) 우유와 그 파생 제품을 전문으로 한다. 요거트, 치즈, 버터, 아이스크림 같은 유제품을 만들고 과일 주스도 판매한다. 유럽, 북미, 남미, 호주, 중국, 남아프리카공화국에 사업장을 두고 있다. 전 세계에 약 140개의 생산 시설과 약 16,000명의 직원이 있으며, 이탈리아 낙농가 약 5,000곳이 제품 원료를 공급한다. 2003년에는 €14bn의 부채를 남기고 붕괴해 유럽 최대 규모의 파산 사례로 남았다. 2011년부터 프랑스 Lactalis의 자회사이며 2019년부터는 Lactalis가 더 완전한 지배권을 갖고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1961년 당시 22세의 대학 중퇴자 Calisto Tanzi가 파르마에 작은 저온살균 공장을 열면서 시작했다. 이후 20년 만에 다국적 기업으로 성장해 1980년대에 우유, 유제품, 음료, 제과 등으로 사업을 넓혔고, 1990년 밀라노 증권거래소에 상장했다. 1978년부터 1984년까지는 Brabham Formula 1 팀의 타이틀 스폰서를 맡았다. 2002년 4월 22일 주가가 사상 최고치에 이르렀고 기업가치는 €3.7bn, 직원은 30개국에서 3만 명이 넘었다. 1997년 금융시장에 진출해 부채로 해외 인수를 추진했으나, 2003년 €14bn의 부채를 남기고 붕괴했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 초고온 처리(UHT) 우유와 우유 파생 제품이다. 파생 제품에는 여러 종류의 요거트, 치즈, 버터, 아이스크림 등이 있다. 과일 주스도 판매하며 브랜드명은 Lactis, Santal, Malù, Kyr이다. 1980년대에는 우유, 유제품, 음료, 제과 등으로 제품군을 넓혔다. 전 세계 약 140개 생산 시설에서 제품을 만들며, 이탈리아 낙농가 약 5,000곳이 공급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년부터 프랑스 그룹 Lactalis의 자회사이며, 2019년부터는 Lactalis가 더 완전한 지배권을 갖고 있다. 유럽, 북미, 남미, 호주, 중국, 남아프리카공화국에서 사업을 하며 약 140개의 생산 시설과 약 16,000명의 직원을 두고 있다. 이탈리아 낙농가 약 5,000곳이 제품 원료를 공급한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "유럽 최대 규모의 파산을 겪은 뒤 Lactalis 산하에서 UHT 우유와 유제품 사업을 이어가는 이탈리아 기업이다. Brabham Formula 1 팀 스폰서로도 알려졌다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.parmalat.it/",
+  "entityLinks": {
+   "wikidata": "Q1432285",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1432285",
+    "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%A5%B4%EB%A7%88%EB%9D%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Parmalat"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1432285",
+   "country": "이탈리아",
+   "inception": "1961",
+   "headquarters": "Collecchio",
+   "founders": [
+    "Calisto Tanzi"
+   ],
+   "parent": "Lactalis",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Parmalat」 본문과 위키데이터 Q1432285 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

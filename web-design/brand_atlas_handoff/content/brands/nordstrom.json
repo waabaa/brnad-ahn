@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q174310",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/nordstrom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nordstrom",
+  "urlSlug": "nordstrom",
+  "name": "노드스트롬",
+  "nameKo": "노드스트롬",
+  "nameEn": "Nordstrom",
+  "definition": "노드스트롬(Nordstrom)은 1901년 시애틀에서 신발 가게로 출발해 성장한 미국의 고급 백화점 체인이다. 의류, 액세서리, 핸드백, 쥬얼리, 화장품, 향수 등을 판매한다.",
+  "summary": "노드스트롬(Nordstrom)은 1901년 시애틀에서 신발 가게로 출발해 성장한 미국의 고급 백화점 체인이다. 의류, 액세서리, 핸드백, 쥬얼리, 화장품, 향수 등을 판매한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "신발 가게에서 출발해 새 점포 개점 중심으로 전국 체인이 된 시애틀 본사의 미국 고급 백화점이며, 직원에게 판단 권한을 폭넓게 주는 고객 서비스 운영 방식이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "노드스트롬은 John W. Nordstrom과 Carl F. Wallin이 세운 미국의 고급 백화점 체인이다. 신발 소매상으로 시작해 의류와 액세서리, 핸드백, 쥬얼리, 화장품, 향수로 취급 품목을 넓혔고, 일부 지역에서는 가정용품도 판매한다. 본사와 본점은 워싱턴주 시애틀 도심에 있다. 다른 점포를 인수하기보다 새 점포를 여는 방식으로 지역 백화점에서 전국적인 체인망으로 성장했다. 고객 서비스와 깊이 있는 상품 제공, 모든 사이즈 제공을 바탕으로 확장했다. 고객 만족을 위해 직원에게 많은 권한을 주어 불필요한 상사 승인 과정을 줄이는 운영 방식을 쓴다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "John W. Nordstrom은 16세에 스웨덴에서 미국으로 이민했고, 1897년 시애틀을 떠나 캐나다 Yukon Territory의 Klondike 골드러쉬에 가담해 금을 발견했다. 시애틀로 돌아온 그는 1901년 이웃 신발 수리점 주인이던 Carl F. Wallin과 함께 Wallin & Nordstrom이라는 신발 가게를 열었다. 1930년 Second Avenue점을 재개장하며 사명을 Nordstrom으로 바꿨고, 1963년 Best Apparel of Seattle을 인수하며 의류 시장에 진출했다. 1971년 NASDAQ에 상장했고 1973년 회사 이름에서 Best를 뺐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기에는 신발만 취급했으나 현재는 의류, 액세서리, 핸드백, 쥬얼리, 화장품, 향수를 판매하며 일부 지역에서는 가정용품도 다룬다. 1975년까지 첫 상설할인매장 노드스트롬 랙을 시애틀에 열었고, 1993년 전자상거래에 진출했으며 Nordstrom.com의 주문 처리와 고객센터는 아이오와주 Cedar Rapids에 있다. 점포 안에서는 Classic Café, Marketplace Café, Cafe Bistro, Nordstrom Grill 등의 식당도 운영한다. 1976년 연 소형 매장 Place two는 1983년까지 10개를 열었으나 비용 부담으로 문을 닫았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "위키백과 서술 기준으로 115개의 전 상품 취급점, 86개의 노드스트롬 랙, 두 개의 보석 부띠끄, 최종 상설할인매장 Last chance 한 곳을 28개 주에서 운영한다. 2007년 부띠끄 체인 Façonnable를 매각했고, 2011년 2월 LA의 온라인 쇼핑 업체 HauteLook의 인수를 발표했다. 1999년에는 NASDAQ에서 New York Stock Exchange로 옮겼다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "신발 가게에서 출발해 새 점포 개점 중심으로 전국 체인이 된 시애틀 본사의 미국 고급 백화점이며, 직원에게 판단 권한을 폭넓게 주는 고객 서비스 운영 방식이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.nordstrom.com",
+  "entityLinks": {
+   "wikidata": "Q174310",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q174310",
+    "https://ko.wikipedia.org/wiki/%EB%85%B8%EB%93%9C%EC%8A%A4%ED%8A%B8%EB%A1%AC",
+    "https://en.wikipedia.org/wiki/Nordstrom"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q174310",
+   "country": "미국",
+   "inception": "1901",
+   "headquarters": "시애틀",
+   "founders": [
+    "John W. Nordstrom"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「노드스트롬」 요약과 위키데이터 Q174310 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

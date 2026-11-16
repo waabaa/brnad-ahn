@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q16639197",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/gitlab-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gitlab",
+  "urlSlug": "gitlab",
+  "name": "깃랩",
+  "nameKo": "깃랩",
+  "nameEn": "GitLab",
+  "definition": "깃랩(GitLab)은 깃 저장소와 CI/CD, 이슈 추적, 보안성 테스트 기능을 갖춘 웹 기반 데브옵스 플랫폼이다. 깃랩 사(GitLab Inc.)가 개발했으며 2011년 미국에서 설립되었다.",
+  "summary": "깃랩(GitLab)은 깃 저장소와 CI/CD, 이슈 추적, 보안성 테스트 기능을 갖춘 웹 기반 데브옵스 플랫폼이다. 깃랩 사(GitLab Inc.)가 개발했으며 2011년 미국에서 설립되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "깃 저장소부터 CI/CD, 이슈 추적, 보안성 테스트까지 데브옵스 전 영역을 API 연동 없이 단일 어플리케이션으로 제공하는 데브옵스 플랫폼이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "깃랩은 깃랩 사(GitLab Inc.)가 개발한 웹 기반 데브옵스 플랫폼이다. 깃 저장소, CI/CD, 이슈 추적, 보안성 테스트 기능을 제공하며 오픈 소스 라이선스와 사유 소프트웨어 라이선스를 함께 사용한다. 시중의 많은 데브옵스 솔루션은 자신들의 특화된 영역 이외에는 API를 이용한 연동만 제공하지만, 깃랩은 단일 어플리케이션으로 데브옵스 전 영역의 기능을 제공한다. 2019년 기준으로 깃 저장소와 이슈 추적 기능을 갖춘 유일한 단일 어플리케이션 데브옵스 솔루션이었다. 2020년 5월 기준으로 66개국에서 1300여명의 직원이 일하며 2,000명 이상의 오픈 소스 기여자가 참여한다. 골드만삭스, IBM, 소니, NASA, 알리바바, 스페이스X, 유럽 입자 물리 연구소 등 100,000개 이상의 단체가 사용한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "깃랩은 2011년 미국에서 설립되었다. 이 소프트웨어는 Dmitriy Zaporozhets와 우크라이나 출신 Valery Sizov가 개발했다. 코드는 루비로 작성했으며 일부 포팅은 Go로 재작성했다. 2013년 7월 제품을 커뮤니티 에디션인 GitLab CE와 엔터프라이즈 에디션인 GitLab EE로 분리했다. 2014년 실리콘밸리에서 사업화했고, 이듬해 와이 콤비네이터를 통해 150만 달러의 시드 펀딩을 유치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 깃 저장소를 기반으로 CI/CD, 이슈 추적, 보안성 테스트 기능을 하나로 묶은 데브옵스 플랫폼이다. 2013년 7월 제품을 커뮤니티 에디션인 GitLab CE와 엔터프라이즈 에디션인 GitLab EE로 분리했다. 오픈 소스 라이선스와 사유 소프트웨어 라이선스를 함께 사용한다. 다른 솔루션이 특화된 영역 이외에는 API 연동만 제공하는 것과 달리, 단일 어플리케이션으로 데브옵스 전 영역의 기능을 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 Google Ventures로부터 2천만 달러의 시리즈C 펀딩을, 2018년 Iconiq 등으로부터 1억 달러 규모의 시리즈D 펀딩을 유치했다. 2019년에는 골드만삭스로부터 약 2억7천만 달러의 시리즈E 펀딩을 유치하며 기업가치 평가액이 27억 달러로 두 배 이상 상승했다. 2020년 11월 나스닥 IPO가 예정되어 있었으나 연기가 발표되었다. 한화 기준 약 3조원의 기업 가치로 유니콘 기업 중 95번째에 위치한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "깃 저장소부터 CI/CD, 이슈 추적, 보안성 테스트까지 데브옵스 전 영역을 API 연동 없이 단일 어플리케이션으로 제공하는 데브옵스 플랫폼이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://about.gitlab.com/",
+  "entityLinks": {
+   "wikidata": "Q16639197",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q16639197",
+    "https://ko.wikipedia.org/wiki/%EA%B9%83%EB%9E%A9",
+    "https://en.wikipedia.org/wiki/GitLab"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q16639197",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「깃랩」 요약과 위키데이터 Q16639197 팩트를 근거로 편집",
+  "founded": {
+   "date": "2011-10-13",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

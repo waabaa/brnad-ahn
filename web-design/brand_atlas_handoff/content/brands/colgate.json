@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q2523492",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/colgate-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "colgate",
+  "urlSlug": "colgate",
+  "name": "콜게이트",
+  "nameKo": "콜게이트",
+  "nameEn": "Colgate",
+  "definition": "콜게이트(Colgate)는 치약, 칫솔, 구강청결제, 치실 등 구강 위생 제품에 주로 쓰이는 미국의 다국적 브랜드이다. 제조사는 Colgate-Palmolive이다.",
+  "summary": "콜게이트(Colgate)는 치약, 칫솔, 구강청결제, 치실 등 구강 위생 제품에 주로 쓰이는 미국의 다국적 브랜드이다. 제조사는 Colgate-Palmolive이다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "비누를 팔던 회사에서 출발해 구강 위생 제품으로 자리 잡은 Colgate-Palmolive의 대표 브랜드로, 2015년 절반이 넘는 전 세계 가구가 구매한 유일한 브랜드였다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "콜게이트는 치약, 칫솔, 구강청결제, 치실 같은 구강 위생 제품에 주로 쓰이는 미국의 다국적 브랜드이다. 제품은 Colgate-Palmolive가 제조하며, 이 회사는 원래 비누를 판매했다. 구강 위생 제품은 1873년 처음 판매되었고, 이는 창업자 William Colgate가 사망한 지 16년 뒤의 일이다. 1950년대에는 카피라이터 Alicia Tobin이 쓴 \"It Cleans Your Breath While It Cleans Your Teeth\"라는 슬로건과 함께 인기를 얻었다. 2015년 시장조사업체 Kantar Worldpanel의 보고서에 따르면 콜게이트는 전 세계에서 절반이 넘는 가구가 구매한 유일한 브랜드였다. Colgate Tooth Powder는 지금도 생산·판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "콜게이트의 구강 위생 제품은 1873년 회사에서 처음 판매되었으며, 이는 창업자 William Colgate가 사망한 지 16년 뒤였다. 회사는 원래 비누를 판매하던 곳이었다. 치약은 1873년부터 유리병에 담겨 판매되었다. 튜브 용기는 Kalodont, Johnson & Johnson(Zonweiss), Sheffield가 개척한 방식으로 1896년에 도입되었다. 콜게이트는 1950년대에 \"It Cleans Your Breath While It Cleans Your Teeth\"라는 슬로건과 함께 인기를 얻었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "콜게이트는 치약, 칫솔, 구강청결제, 치실을 주로 내놓는다. Colgate Total 치약은 1997년 출시 때부터 항균 성분으로 triclosan을 사용했으나, 건강과 환경 우려로 단계적으로 퇴출되어 2019년에는 쓰이지 않는다. 2018년에는 파리에 본사를 둔 Baracoda Daily Healthtech로부터 Kolibree 기술을 라이선스받아 Colgate Smart Electric 칫솔을 출시했다. 어린이와 성인용 연결형 칫솔은 Hum 브랜드 아래에서 제공한다. 2020년 1월에는 헴프 오일이 든 치약의 라벨을 미국 정부에 등록했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 2월 모회사 Colgate-Palmolive는 뉴저지의 Hello Products를 구매하기로 하는 계약을 발표했다. Hello Products는 그달 초 칸나비디올(CBD)이 든 치약, 구강청결제, 립밤을 선보인 회사이다. 2015년 Kantar Worldpanel 보고서 기준으로 콜게이트의 전 세계 시장 침투율은 67.7%, 시장 점유율은 45%였고, 조사 대상 브랜드 중 가장 높은 성장률을 유지했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "비누를 팔던 회사에서 출발해 구강 위생 제품으로 자리 잡은 Colgate-Palmolive의 대표 브랜드로, 2015년 절반이 넘는 전 세계 가구가 구매한 유일한 브랜드였다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.colgate.com/",
+  "entityLinks": {
+   "wikidata": "Q2523492",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q2523492",
+    "https://ko.wikipedia.org/wiki/%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8_(%EC%B9%98%EC%95%BD)",
+    "https://en.wikipedia.org/wiki/Colgate_(toothpaste)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q2523492",
+   "country": null,
+   "inception": "1873",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Colgate (toothpaste)」 본문과 위키데이터 Q2523492 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

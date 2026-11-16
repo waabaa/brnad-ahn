@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q699810",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/de-la-rue-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "de-la-rue",
+  "urlSlug": "de-la-rue",
+  "name": "데라루",
+  "nameKo": "데라루",
+  "nameEn": "De La Rue",
+  "definition": "데라루(De La Rue)는 영국 베이싱스토크에 본사를 둔 기업이다. 각국 중앙은행과 정부에 지폐 설계·인쇄와 보안 기술을 공급하며 세계 최대의 상업용 지폐 인쇄업체로 꼽힌다.",
+  "summary": "데라루(De La Rue)는 영국 베이싱스토크에 본사를 둔 기업이다. 각국 중앙은행과 정부에 지폐 설계·인쇄와 보안 기술을 공급하며 세계 최대의 상업용 지폐 인쇄업체로 꼽힌다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "데라루는 1821년 창업 이래 지폐 인쇄를 핵심으로 삼아 온 영국 기업이다. 중앙은행과 정부를 상대로 지폐와 보안 기술을 공급하는 세계 최대의 상업용 지폐 인쇄업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "데라루(De La Rue)는 영국 잉글랜드 베이싱스토크에 본사를 둔 기업으로, 140개국에서 상품·거래·신원을 위한 디지털 및 물리적 보안 수단을 만든다. 정부, 중앙은행, 기업을 고객으로 한다. 사업의 중심은 화폐이며 지폐 설계와 생산, 보안 폴리머 기재, 지폐 보안 요소를 다룬다. 세계에서 가장 큰 상업용 지폐 인쇄업체이다. 한때 정부 수입 기술, 브랜드 보호, 신분증 보안을 다루는 인증 사업부를 함께 운영했으나 이 부문은 Crane NXT에 합병되었다. 2025년 7월부터는 Atlas Holdings가 소유하는 비상장 기업이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "데라루는 1821년 Thomas de la Rue가 건지섬에서 런던으로 옮겨 와 리그혼 밀짚모자 제조업으로 사업을 시작하면서 출발했다. 이후 문구와 인쇄업으로 사업을 넓혔고, 1831년에는 왕실 특허장을 받아 플레잉 카드를 생산했다. 1855년에 우표 인쇄를, 1860년에 지폐 인쇄를 시작했으며 첫 지폐는 모리셔스용이었다. 1896년 가족 동업은 비상장 회사로 전환되었고, 1921년 창업 가문이 지분을 매각했다. 1947년 런던 증권거래소에 상장했으며 1991년 사명을 De La Rue plc로 바꾸었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "데라루의 주력 사업은 지폐 설계와 생산이다. 중앙은행과 통화 발행 당국을 위해 보안 홀로그램, 보안 실, 보안 인쇄물, 보안 폴리머 기재를 공급한다. 1965년에는 이탈리아 인쇄업자이자 발명가인 Gualtiero Giori와 합작회사 De La Rue Giori를 세웠으며, 이 회사는 스위스에 기반을 두고 지폐 인쇄 장비 제작을 전문으로 했다. 과거에는 정부 수입 기술, 브랜드 보호, 신분증 보안을 제공하는 인증 사업부도 두었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "데라루는 2025년 7월부터 Atlas Holdings의 비상장 소유 아래에 있다. 인증 사업부는 Crane NXT에 합병되어 현재는 화폐 사업에 집중한다. 140개국에 보안 제품과 서비스를 공급하며 세계 최대의 상업용 지폐 인쇄업체라는 위치를 유지하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "데라루는 1821년 창업 이래 지폐 인쇄를 핵심으로 삼아 온 영국 기업이다. 중앙은행과 정부를 상대로 지폐와 보안 기술을 공급하는 세계 최대의 상업용 지폐 인쇄업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.delarue.com/",
+  "entityLinks": {
+   "wikidata": "Q699810",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q699810",
+    "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%9D%BC%EB%A3%A8",
+    "https://en.wikipedia.org/wiki/De_La_Rue"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q699810",
+   "country": "영국",
+   "inception": "1821",
+   "headquarters": "베이싱스토크",
+   "founders": [
+    "Thomas de la Rue"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「De La Rue」 본문과 위키데이터 Q699810 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

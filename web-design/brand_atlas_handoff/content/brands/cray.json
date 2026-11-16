@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q144060",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/cray-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cray",
+  "urlSlug": "cray",
+  "name": "크레이",
+  "nameKo": "크레이",
+  "nameEn": "Cray",
+  "definition": "크레이(Cray)는 미국 워싱턴주 시애틀에 본사를 둔 슈퍼컴퓨터 제조업체이다. 1972년 시모어 크레이가 설립한 크레이 리서치를 전신으로 하며, 현재 휴렛 팩커드 엔터프라이즈의 자회사이다.",
+  "summary": "크레이(Cray)는 미국 워싱턴주 시애틀에 본사를 둔 슈퍼컴퓨터 제조업체이다. 1972년 시모어 크레이가 설립한 크레이 리서치를 전신으로 하며, 현재 휴렛 팩커드 엔터프라이즈의 자회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "시모어 크레이가 1972년 세운 크레이 리서치를 전신으로 하는 슈퍼컴퓨터 제조업체로, 현재 휴렛 팩커드 엔터프라이즈의 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "크레이(Cray)는 슈퍼컴퓨터와 함께 데이터 저장 및 분석을 위한 시스템을 제조하는 미국 기업이다. 본사는 미국 워싱턴주 시애틀에 있으며, 전신인 크레이 리서치는 1972년 설립되었다. 크레이의 여러 슈퍼컴퓨터 시스템은 세계에서 가장 강력한 슈퍼컴퓨터의 순위를 매기는 TOP500에 등재되어 있다. 제조는 위스콘신주 치페와 폴스에서 이루어지며, 이곳은 설립자 시모어 크레이가 태어나 자란 곳이다. 미네소타주 블루밍턴은 원래 본사가 있던 지역이며, 이곳을 비롯해 전 세계에 판매, 서비스, 엔지니어링, R&D 지역이 있다. 2019년 휴렛 팩커드 엔터프라이즈에 인수되어 현재 그 자회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "전신인 크레이 리서치(Cray Research, Inc., CRI)는 1972년 컴퓨터 디자이너 시모어 크레이가 설립했다. 시모어 크레이는 위스콘신주 치페와 폴스에서 태어나 자랐다. 크레이 리서치는 1989년 크레이 컴퓨터 코퍼레이션(CCC)으로 분사했으나 1995년 파산했고, 이듬해 SGI에 인수되었다. 이후 테라 컴퓨터 컴퍼니가 크레이 리서치 비즈니스 부문을 SGI로부터 인수했고, 2000년 크레이(Cray Inc.)가 설립되어 인수 당시의 이름을 채택했다. 2019년에는 휴렛 팩커드 엔터프라이즈에 인수되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "크레이는 2019년 휴렛 팩커드 엔터프라이즈에 인수되어 현재 그 자회사이다. 본사는 미국 워싱턴주 시애틀에 있고, 제조는 위스콘신주 치페와 폴스에서 이루어진다. 미네소타주 블루밍턴을 비롯해 전 세계에 판매, 서비스, 엔지니어링, R&D 지역을 두고 있다. 여러 슈퍼컴퓨터 시스템이 세계 슈퍼컴퓨터 순위인 TOP500에 등재되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "시모어 크레이가 1972년 세운 크레이 리서치를 전신으로 하는 슈퍼컴퓨터 제조업체로, 현재 휴렛 팩커드 엔터프라이즈의 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.cray.com/",
+  "entityLinks": {
+   "wikidata": "Q144060",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q144060",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A0%88%EC%9D%B4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Cray"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q144060",
+   "country": "미국",
+   "inception": "1972",
+   "headquarters": "시애틀",
+   "founders": [
+    "시모어 크레이"
+   ],
+   "parent": "휴렛 팩커드 엔터프라이즈",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「크레이 (기업)」 요약과 위키데이터 Q144060 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1075391",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/chloe-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "chloe",
+  "urlSlug": "chloe",
+  "name": "끌로에",
+  "nameKo": "끌로에",
+  "nameEn": "Chloé",
+  "definition": "끌로에(Chloé)는 1952년 Gaby Aghion이 설립한 프랑스의 럭셔리 패션 하우스이다. 고급 기성복(prêt-à-porter)을 내세워 출발했으며 현재 리슈몽 그룹이 소유하고 있다.",
+  "summary": "끌로에(Chloé)는 1952년 Gaby Aghion이 설립한 프랑스의 럭셔리 패션 하우스이다. 고급 기성복(prêt-à-porter)을 내세워 출발했으며 현재 리슈몽 그룹이 소유하고 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "Gaby Aghion이 고급 기성복이라는 새 개념으로 시작했고, 젊고 보헤미안적인 미감과 Paddington bag 같은 'It' bag으로 알려진 파리의 하우스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "끌로에는 1952년 설립된 프랑스의 럭셔리 패션 하우스로, 당시 새로운 개념이던 고급 기성복을 제안하며 출발했다. 본사는 파리에 있으며 럭셔리 브랜드 지주회사 리슈몽 그룹이 소유하고 있다. 젊고 보헤미안적인 미감이 브랜드의 특징이며, 여러 향수를 성공시켰다. Marion Cotillard, Sienna Miller, Madonna, Emma Stone, Katie Holmes 등 많은 유명인이 끌로에를 착용했다. Karl Lagerfeld, Stella McCartney, Phoebe Philo를 비롯한 여러 아티스틱 디렉터가 브랜드를 이끌어 왔다. 2023년 10월 기준 Chemena Kamali가 크리에이티브 디렉터를 맡고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1952년 이집트 출신 Gaby Aghion이 당시 새로웠던 고급 기성복을 제안하며 끌로에를 세웠다. 1953년 Jacques Lenoir가 합류해 사업 경영을 맡았고, 덕분에 Aghion은 창작에 전념할 수 있었다. 1956년 첫 컬렉션을 파리의 Café de Flore에서 선보였으며, 1966년에는 Karl Lagerfeld가 주요 디자이너로서 끌로에를 1970년대를 상징하는 브랜드 중 하나로 만들었다. 1971년 파리 3 rue Gribeauval에 첫 부티크를 열었고, Aghion과 Lenoir가 운영하던 하우스는 1985년 Alfred Dunhill Ltd.에 인수되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "2002년 끌로에는 가방, 소형 가죽 제품, 신발 라인을 선보였다. Phoebe Philo 시기에 소개한 Paddington bag은 최초의 'It' bag 중 하나가 된 가죽 핸드백이다. 향수로는 Chloé Classique(1973), Love, Chloé(2010), See by Chloé(2012)가 있으며, Coty는 2005년 Unilever Cosmetics International을 인수하며 향수 라이선스를 확보했다. 안경테와 선글라스는 Marcolin(1998년부터), Marchon Eyewear(2012~2019년), Kering Eyewear(2020년부터)와 라이선스 계약을 맺었다. 2001년 확산 라인으로 시작한 See by Chloé는 2022년 3년에 걸쳐 단계적으로 정리하겠다고 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 끌로에는 리슈몽 그룹이 소유하고 있다. 2023년 10월부터 Chemena Kamali가 크리에이티브 디렉터를 맡고 있으며, 2024년부터 Laurent Malecaze가 CEO를 맡고 있다. 2022년에는 See by Chloé 사업을 3년에 걸쳐 단계적으로 정리하겠다고 발표했다. 2024년에는 Chloé Perfume이 Guan Xiaotong을 첫 중국인 브랜드 앰배서더로 지명했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Gaby Aghion이 고급 기성복이라는 새 개념으로 시작했고, 젊고 보헤미안적인 미감과 Paddington bag 같은 'It' bag으로 알려진 파리의 하우스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.chloe.com/",
+  "entityLinks": {
+   "wikidata": "Q1075391",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1075391",
+    "https://ko.wikipedia.org/wiki/%EB%81%8C%EB%A1%9C%EC%97%90_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Chlo%C3%A9"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1075391",
+   "country": "프랑스",
+   "inception": "1952",
+   "headquarters": "파리",
+   "founders": [
+    "Gaby Aghion"
+   ],
+   "parent": "리슈몽",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Chloé」 본문과 위키데이터 Q1075391 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

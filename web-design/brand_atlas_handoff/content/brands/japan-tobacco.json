@@ -1,0 +1,87 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q898568",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/japan-tobacco-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "japan-tobacco",
+  "urlSlug": "japan-tobacco",
+  "name": "일본담배산업",
+  "nameKo": "일본담배산업",
+  "nameEn": "Japan Tobacco",
+  "definition": "일본담배산업(Japan Tobacco)은 담배를 비롯해 의약품, 식품, 음료 등을 생산·판매하는 일본의 기업이다. 약칭은 JT이며 일본 이외 지역에서는 JT인터내셔널(JTI)로 불린다.",
+  "summary": "일본담배산업(Japan Tobacco)은 담배를 비롯해 의약품, 식품, 음료 등을 생산·판매하는 일본의 기업이다. 약칭은 JT이며 일본 이외 지역에서는 JT인터내셔널(JTI)로 불린다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "일본 정부가 지분의 절반 이상을 가진 특수회사로, 일본 국내 담배 제조를 독점하며 JT인터내셔널을 통해 해외에서 판매점유율 세계 3위에 오른 담배 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "일본담배산업은 담배를 중심으로 의약품, 식품, 음료 사업을 하는 일본 기업이다. 본사는 Tokyo World Gate에 있다. 담배사업법에 따라 국산 담배의 전량매수계약이 의무인 한편 담배 제조의 독점이 허용되어 있으며, 일본 국내에서 유일한 담배 제조 기업이다. 매상액의 92%가 담배 판매에서 나오고, 의료 기구와 의료용 의약품, 가공 식품과 음료수 사업도 하고 있다. 해외 전략에도 적극적이며 JT인터내셔널을 포함한 판매점유율은 세계 3위이다. 전 주식 중 지분의 절반 이상을 일본 정부가 보유하고 있어 반은 관영이고 반은 민영인 특수회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "일본국 정부가 일본담배산업주식회사법에 의해 1985년 4월에 설립했다. 전신인 일본전매공사로부터 1985년 4월 1일에 업무를 승계받았다. 1999년에는 R.J.레이놀즈의 자회사인 RJR인터내셔널을 매수해 JT 인터내셔널(JTI)을 설립했다. 전신으로부터 소금의 전매업무도 승계받았으나 1997년 4월 21일 소금 전매업이 폐지되면서 관련 사업은 재단법인소금사업센터가 인계했다. 사업 다각화를 위해 버거킹의 프랜차이즈 사업도 했으나 롯데리아와 패스트키친에 사업권을 양도하고 패스트푸드 시장에서 철수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 담배의 제조·판매이다. 필터 담배 브랜드로는 마일드 세븐, 캐빈, 세븐 스타, 프론티어, 하이라이트, 피스, 호프, 체리, 캐멀, 윈스톤, 프레미아, 살렘 등이 있다. 궐련 담배로는 고이키와 기쿄가 있다. 소프트 드링크로는 Roots, 세노비, 야무차로, 미니바라 시리즈, 모모노텐넨수우, 로열 스타 시리즈가 있다. 이 밖에 의료 기구와 의료용 의약품, 가공 식품 사업을 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "전 주식 중 지분의 절반 이상을 일본 정부가 보유하고 있다. 매상액의 92%가 담배 판매에서 나오며 JT인터내셔널을 포함한 판매점유율은 세계 3위이다. 담배 광고는 법적으로 전면금지되어, 방송광고는 기업 이벤트, 상품 개발 정보, 흡연 매너 교육 등의 간접 광고로 하고 있으며 소프트드링크 시리즈 광고가 주가 되었다. 스포츠 분야에는 쇼기 일본 시리즈, 골프 일본 시리즈 JT컵, V.리그의 JT 마블러스가 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 정부가 지분의 절반 이상을 가진 특수회사로, 일본 국내 담배 제조를 독점하며 JT인터내셔널을 통해 해외에서 판매점유율 세계 3위에 오른 담배 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.jt.com/",
+  "entityLinks": {
+   "wikidata": "Q898568",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q898568",
+    "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8%EB%8B%B4%EB%B0%B0%EC%82%B0%EC%97%85",
+    "https://en.wikipedia.org/wiki/Japan_Tobacco"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q898568",
+   "country": "일본",
+   "inception": "1985",
+   "headquarters": "Tokyo World Gate",
+   "founders": [
+    "일본국 정부"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「일본담배산업」 요약과 위키데이터 Q898568 팩트를 근거로 편집",
+  "founded": {
+   "date": "1985-04-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1190881",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/reckitt-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "reckitt",
+  "urlSlug": "reckitt",
+  "name": "레킷벤키저",
+  "nameKo": "레킷벤키저",
+  "nameEn": "Reckitt",
+  "definition": "레킷벤키저(Reckitt)는 영국 슬라우에 본사를 둔 다국적 소비재 기업이다. 건강·위생 제품을 제조하며 Dettol, Strepsils, Durex 등의 브랜드를 보유한다.",
+  "summary": "레킷벤키저(Reckitt)는 영국 슬라우에 본사를 둔 다국적 소비재 기업이다. 건강·위생 제품을 제조하며 Dettol, Strepsils, Durex 등의 브랜드를 보유한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "영국 Reckitt & Colman과 네덜란드 Benckiser의 합병으로 출범해, 인수를 통해 건강·위생 브랜드를 넓혀 온 소비재 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "영국에 본사를 둔 다국적 소비재 기업으로, 건강과 위생 제품을 만든다. 브랜드로는 소독제 Dettol, 목 통증 완화제 Strepsils, 변기 세정제 Harpic, 제모 브랜드 Veet, 감기·독감·기침 완화 브랜드 Mucinex, 소화불량 치료제 Gaviscon, 진통제 Nurofen이 있다. 이 밖에 Durex, Lysol, Finish, Vanish 등의 제품도 보유한다. 회사는 1999년 영국의 Reckitt & Colman plc와 네덜란드의 Benckiser N.V.가 합병하며 출범했다. 합병 이후 2021년까지는 Reckitt Benckiser라는 이름으로 알려졌다. 본사는 영국 슬라우에 있으며 건강·위생 분야에서 여러 브랜드를 운영한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Benckiser 쪽의 뿌리는 1823년 Johann Benckiser가 독일 포르츠하임에 세운 사업으로, 핵심 사업은 산업용 화학물질이었다. Reckitt 쪽은 1840년 Isaac Reckitt가 영국 헐의 전분 제분소를 임대하며 시작했고, 1888년 런던 증권거래소에 상장했다. 1938년 Reckitt & Sons는 J. & J. Colman과 합병해 Reckitt & Colman Ltd가 되었다. 1999년 12월 Reckitt & Colman plc와 Benckiser N.V.가 합병해 새 회사가 출범했고, Bart Becht가 CEO를 맡아 핵심 브랜드에 집중하며 공급망 효율을 개선했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소독제 Dettol은 1932년 출시되었고, 같은 해 Harpic Lavatory Cleaners를 인수했다. 2005년 10월 Boots Healthcare International을 £1.9 billion에 인수해 Nurofen, Strepsils, Clearasil 브랜드를 확보했다. 2008년 1월에는 Adams Respiratory Therapeutics를 $2.3 billion에 인수해 Mucinex를 얻었다. 2010년 7월에는 Durex와 Scholl's를 만드는 SSL International을 £2.5 billion에 인수했다. Lysol은 1994년 Lehn & Fink 인수로 확보했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "회사는 2021년까지 Reckitt Benckiser라는 이름을 사용했고, 본사는 영국 슬라우에 있다. 2011년 1월 Combe의 감기약·피부 관리 사업을 인수했으며, 같은 해 9월 Bart Becht가 CEO에서 물러나고 Rakesh Kapoor가 후임이 되었다. 2011년 8월 27일에는 주력 진통제 Nurofen Plus의 남은 재고 전량을 회수했는데, 포장에서 항정신병 약물이 발견되었기 때문이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국 Reckitt & Colman과 네덜란드 Benckiser의 합병으로 출범해, 인수를 통해 건강·위생 브랜드를 넓혀 온 소비재 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.reckitt.com/",
+  "entityLinks": {
+   "wikidata": "Q1190881",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1190881",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%ED%82%B7",
+    "https://en.wikipedia.org/wiki/Reckitt"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1190881",
+   "country": "영국",
+   "inception": "1999",
+   "headquarters": "슬라우",
+   "founders": [
+    "Johann Benckiser"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Reckitt」 본문과 위키데이터 Q1190881 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

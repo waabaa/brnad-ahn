@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1944412",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/moneygram-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "moneygram",
+  "urlSlug": "moneygram",
+  "name": "머니그램",
+  "nameKo": "머니그램",
+  "nameEn": "MoneyGram",
+  "definition": "머니그램(MoneyGram)은 미국 텍사스주 댈러스에 본사를 둔 자금 이체 기업이다. 대리 사무소와 금융 기관망을 통해 개인과 사업체에 서비스를 제공한다.",
+  "summary": "머니그램(MoneyGram)은 미국 텍사스주 댈러스에 본사를 둔 자금 이체 기업이다. 대리 사무소와 금융 기관망을 통해 개인과 사업체에 서비스를 제공한다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "약 347,000개의 대리 사무소 네트워크로 200개 이상의 국가에서 자금 이체와 우편환 등 금융 종이 상품을 제공하는 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "머니그램은 대리 사무소와 금융 기관망을 통해 개인과 사업체에 서비스를 제공하는 미국의 자금 이체 기업이다. 설립 연도는 1940년이다. 본사는 텍사스주 댈러스에 있고, 세인트루이스 파크에 운영 센터가 하나 있으며 전 세계적으로 여러 지역 오피스를 두고 있다. 사업은 Global Funds Transfers와 Financial Paper Products의 2개 분류로 나뉘며, 전자는 자금 이체와 청구 지불 서비스를, 후자는 우편환과 오피셜 체크를 다룬다. 약 347,000개의 대리 사무소 글로벌 네트워크로 200개 이상의 국가에서 운영한다. 세계에서 2번째로 큰 자금 이체 제공자이며, 우편환 부문에서도 2번째로 큰 제공자이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "머니그램의 사업은 Global Funds Transfers와 Financial Paper Products라는 2개의 분류로 구성된다. Global Funds Transfers에는 머니그램 자금 이체와 머니그램 청구 지불 서비스가 속한다. Financial Paper Products에는 우편환(Money Orders)과 오피셜 체크(Official Checks)가 속한다. 머니그램은 2번째로 큰 우편환 제공자이다. 오피셜 체크는 미국 내 금융 기관이 이용할 수 있는 오피셜 체크 아웃소싱 서비스 형태로 제공된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "머니그램은 세계에서 2번째로 큰 자금 이체 제공자이며, 우편환 부문에서도 2번째로 큰 제공자이다. 약 347,000개의 대리 사무소로 이루어진 글로벌 네트워크를 통해 200개 이상의 국가에서 운영되고 있다. 본사는 텍사스주 댈러스에 있으며, 세인트루이스 파크에 운영 센터가 하나 있고 전 세계적으로 여러 지역 오피스가 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "약 347,000개의 대리 사무소 네트워크로 200개 이상의 국가에서 자금 이체와 우편환 등 금융 종이 상품을 제공하는 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.moneygram.com/",
+  "entityLinks": {
+   "wikidata": "Q1944412",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1944412",
+    "https://ko.wikipedia.org/wiki/%EB%A8%B8%EB%8B%88%EA%B7%B8%EB%9E%A8",
+    "https://en.wikipedia.org/wiki/MoneyGram"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1944412",
+   "country": "미국",
+   "inception": "1940",
+   "headquarters": "댈러스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「머니그램」 요약과 위키데이터 Q1944412 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

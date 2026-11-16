@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q848490",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/roland-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "roland-corporation",
+  "urlSlug": "roland-corporation",
+  "name": "롤랜드",
+  "nameKo": "롤랜드",
+  "nameEn": "Roland Corporation",
+  "definition": "롤랜드(Roland Corporation)는 일본의 전자 악기, 전자 장비 및 소프트웨어 제조업체이다. 1972년 가케하시 이쿠타로가 설립했으며 본사는 하마마쓰시에 있다.",
+  "summary": "롤랜드(Roland Corporation)는 일본의 전자 악기, 전자 장비 및 소프트웨어 제조업체이다. 1972년 가케하시 이쿠타로가 설립했으며 본사는 하마마쓰시에 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "창업 당시 아마추어와 호비스트를 겨냥해 소형화, 적당한 비용, 단순성에 초점을 둔 일본의 전자 악기 제조업체이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "롤랜드는 일본의 전자 악기, 전자 장비 및 소프트웨어를 만드는 제조업체이다. 1972년 4월 18일 오사카시에서 가케하시 이쿠타로가 330만 엔을 투자해 설립했으며 본사는 하마마쓰시이다. 가케하시는 이전에 1960년 에이스 일렉트로닉 인더스트리를 설립한 인물이다. 경쟁 기업 묵과 ARP가 전문 음악가와 학술인을 대상으로 한 반면, 음악 훈련을 받은 적이 없던 가케하시는 아마추어와 호비스트에게 어필하기를 바랐다. 그래서 소형화, 적당한 비용, 단순성에 초점을 두고 제품을 만들었다. 제품 목록에는 SRX 확장 기판, JD-800, JP-8000, TB-303, TR-808, TR-909, SP-404, 주노-106 등이 포함된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "롤랜드는 1972년 4월 18일 오사카시에서 가케하시 이쿠타로가 330만 엔을 투자해 설립했다. 가케하시는 이전에 1960년 에이스 일렉트로닉 인더스트리를 설립한 인물이다. 음악 훈련을 받은 적이 없던 그는 전문 음악가와 학술인을 대상으로 한 경쟁 기업 묵, ARP와 달리 아마추어와 호비스트에게 어필하고자 했다. 이에 소형화, 적당한 비용, 단순성에 초점을 두었다. 가케하시는 1994년 롤랜드 재단을 설립해 의장이 되었고, 1995년 롤랜드 코퍼레이션의 의장으로 지명되었으나 2001년 물러나 특수경영고문(Special Executive Adviser)이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "롤랜드 제품 목록에는 다양한 모델이 올라 있다. 확장 기판으로는 SRX 확장 기판이 있고, 주노 계열로는 주노-60, 주노-106, 주노-G가 있다. 주피터 계열로는 주피터 4, 주피터 6, 주피터 8이 있으며, JX-3P, JX-8P, JX-10, JD-800, JD-990, JP-8000도 있다. 그 밖에 TB-303, TR-808, TR-909, SH-101, SP-404, MC-202, D-50/D-550, MT-32, RE-201, R-8, VariOS, 시스템 100m 등이 있다. 제품은 전자 악기, 전자 장비, 소프트웨어 범주에 걸친다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "창업 당시 아마추어와 호비스트를 겨냥해 소형화, 적당한 비용, 단순성에 초점을 둔 일본의 전자 악기 제조업체이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.roland.com",
+  "entityLinks": {
+   "wikidata": "Q848490",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q848490",
+    "https://ko.wikipedia.org/wiki/%EB%A1%A4%EB%9E%9C%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Roland_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q848490",
+   "country": "일본",
+   "inception": "1972",
+   "headquarters": "하마마쓰시",
+   "founders": [
+    "가케하시 이쿠타로"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「롤랜드」 요약과 위키데이터 Q848490 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,87 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q214346",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/viacom-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "viacom",
+  "urlSlug": "viacom",
+  "name": "바이어컴",
+  "nameKo": "바이어컴",
+  "nameEn": "Viacom",
+  "definition": "바이어컴(Viacom)은 2005년 12월 31일 기존 바이어컴에서 분리되어 출범한 미국의 다국적 대중매체·엔터테인먼트 복합기업이다. 영화와 텔레비전 분야에 주력했다.",
+  "summary": "바이어컴(Viacom)은 2005년 12월 31일 기존 바이어컴에서 분리되어 출범한 미국의 다국적 대중매체·엔터테인먼트 복합기업이다. 영화와 텔레비전 분야에 주력했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.366666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "2005년 말 기존 바이어컴에서 분리되어 MTV 등 케이블 네트워크와 Paramount Pictures를 보유한 두 번째 바이어컴이라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "바이어컴은 영화와 텔레비전에 주된 이해관계를 둔 미국의 다국적 대중매체·엔터테인먼트 복합기업이었다. 이름은 Video & Audio Communications의 합성어이다. 산하 Viacom Media Networks를 통해 약 160개국에서 약 170개 채널을 운영했다. 매출 기준 세계 9위 미디어 기업이었고, 본사는 뉴욕 맨해튼 미드타운의 One Astor Plaza에 있었다. 지배주주는 Sumner Redstone이 이끈 극장 회사 National Amusements였다. 2019년 8월 13일 CBS Corporation과의 두 번째 합병을 발표했고, 합병은 같은 해 12월 4일 완료되어 ViacomCBS가 탄생했으며, 이 회사는 이후 Paramount Global로 바뀌었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2005년 3월 기존 바이어컴은 주가 정체와 CBS의 Les Moonves, MTV Networks의 Tom Freston 사이의 경쟁을 이유로 회사를 둘로 나누는 방안을 검토한다고 밝혔다. 2004년 Super Bowl 하프타임 쇼 논란 이후 MTV가 하프타임 쇼 제작을 금지당한 일도 회사가 안은 문제였다. 2005년 12월 31일 기존 바이어컴은 CBS Corporation으로 이름을 바꾸고 케이블·영화 사업을 신설 바이어컴으로 분사했다. 신설 바이어컴은 Sumner Redstone이 만들고 Tom Freston이 이끌었으며 BET Networks, MTV Networks, Paramount Pictures로 구성되어 2006년 1월 3일 거래를 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "바이어컴은 Viacom Media Networks를 운영하며 약 170개 채널을 산하에 두었다. 스튜디오 자산으로는 Paramount Pictures, MTV Films, Nickelodeon Animation Studio가 있었고, 애니메이션 스튜디오 Rainbow S.p.A.의 지분 30%도 보유했다. 분사 때 방송, 텔레비전 제작, 유료 방송 구독 서비스, 출판 자산은 CBS Corporation에 남았다. 2005년 Neopets 인수를 발표했고 2006년에는 DreamWorks Pictures 인수를 마쳤으며, Xfire, Atom Entertainment, 게임 개발사 Harmonix도 사들였다. 2007년에는 인도의 Network 18과 50대50 합작사 Viacom 18을 세워 인도 내 MTV, VH1, Nickelodeon 채널을 맡겼다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 8월 13일 CBS Corporation과의 두 번째 합병이 발표되어 12월 4일 완료되었고 ViacomCBS가 출범했다. ViacomCBS는 이후 Paramount Global가 되었으며, Paramount Global은 다시 National Amusements 및 Skydance Media와 합쳐져 Paramount Skydance Corporation을 이루었다. 합병 직전 바이어컴의 지배주주는 National Amusements였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2005년 말 기존 바이어컴에서 분리되어 MTV 등 케이블 네트워크와 Paramount Pictures를 보유한 두 번째 바이어컴이라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.viacom.com/",
+  "entityLinks": {
+   "wikidata": "Q214346",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q214346",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%96%B4%EC%BB%B4_(2005%E2%80%932019)",
+    "https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q214346",
+   "country": "미국",
+   "inception": "2005",
+   "headquarters": "원 애스터 플라자",
+   "founders": [
+    "Sumner Redstone"
+   ],
+   "parent": "내셔널 어뮤즈먼트",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Viacom (2005–2019)」 본문과 위키데이터 Q214346 팩트를 근거로 편집",
+  "founded": {
+   "date": "2005-12-31",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

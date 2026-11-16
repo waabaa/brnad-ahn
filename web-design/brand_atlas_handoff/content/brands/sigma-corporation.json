@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q354764",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/sigma-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sigma-corporation",
+  "urlSlug": "sigma-corporation",
+  "name": "시그마",
+  "nameKo": "시그마",
+  "nameEn": "Sigma Corporation",
+  "definition": "시그마(Sigma Corporation)는 카메라, 렌즈, 플래시와 사진 액세서리를 제조하는 일본 기업이다. 다른 회사 카메라와 호환되는 고품질 렌즈로 가장 잘 알려져 있다.",
+  "summary": "시그마(Sigma Corporation)는 카메라, 렌즈, 플래시와 사진 액세서리를 제조하는 일본 기업이다. 다른 회사 카메라와 호환되는 고품질 렌즈로 가장 잘 알려져 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "세계 최대의 독립 렌즈 제조사이자 가족 소유 기업으로, 다른 회사 카메라용 렌즈와 함께 Foveon 센서 카메라를 직접 만드는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시그마는 카메라, 렌즈, 플래시와 기타 사진 액세서리를 제조하는 일본 기업으로, 1961년에 설립되었고 본사는 가와사키시에 있다. 모든 제품은 일본 후쿠시마의 Bandai에 있는 자사 Aizu 공장에서 생산한다. 여러 카메라 모델을 만들지만, Canon, Nikon, Fujifilm, Pentax, Sony, Olympus, Panasonic 등 다른 회사 카메라와 호환되는 고품질 렌즈와 액세서리로 가장 잘 알려져 있다. 세계 최대의 독립 렌즈 제조사이며 가족이 소유한 기업이다. 자체 카메라에는 Foveon 센서를 사용한 모델이 있어 독특하며, 2018년 9월에는 L-Mount Alliance의 창립 회원이 되었다. 2019년에는 L-Mount를 채택한 풀프레임 미러리스 카메라 Sigma fp를 출시했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시그마는 1961년 Michihiro Yamaki가 설립했다. Michihiro Yamaki는 2012년 78세로 사망할 때까지 시그마의 CEO를 맡았다. 시그마는 SA-300, SA-5, SA-7, SA-9를 비롯해 여러 필름 SLR 카메라를 만들었다. 소비자용 디지털 카메라에 Foveon X3 센서를 가장 먼저 시도한 회사 중 하나였으며, 2010년 photokina에서 46MP Foveon X3 센서를 탑재한 플래그십 DSLR SD1을 발표했다. 최근 몇 년 사이 DSLR 라인업은 단종되었고 미러리스 설계가 그 자리를 대신했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Sigma fp 이전까지 시그마의 모든 SLR, DSLR, 미러리스 카메라는 Pentax K 마운트와 기계적으로 비슷한 Sigma SA 마운트를 사용했다. 디지털 SLR로는 SD9, SD10, SD14, SD15, SD1이 있으며 모두 Foveon X3 센서를 쓴다. 고급 컴팩트 카메라 DP 시리즈는 고정 단렌즈에 따라 초광각 DP0, 광각 DP1, 표준 DP2, 망원 DP3 네 모델로 나뉜다. 2016년 2월에는 Foveon Quattro 센서를 쓴 미러리스 SD Quattro와 SD Quattro H를 발표했고, 2019년 7월에는 24.6MP 풀프레임 미러리스 Sigma fp를 발표했다. 소프트웨어로는 .X3F RAW 형식을 후반 작업하는 SIGMA Photo Pro를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2018년 9월 L-Mount Alliance 창립 회원이 되면서 SA 마운트 카메라 개발을 중단하고 Leica L-Mount를 사용하겠다고 발표했다. 2021년에는 61mp 센서를 갖춘 FP-L을 내놓았고, 2025년 4월에는 24메가픽셀 풀프레임 이면조사형 CMOS 센서와 230GB 내장 저장공간을 갖춘 Sigma BF를 발표했다. 시그마는 세계 최대의 독립 렌즈 제조사이며 가족이 소유한 기업이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 최대의 독립 렌즈 제조사이자 가족 소유 기업으로, 다른 회사 카메라용 렌즈와 함께 Foveon 센서 카메라를 직접 만드는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sigmaphoto.com/",
+  "entityLinks": {
+   "wikidata": "Q354764",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q354764",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B7%B8%EB%A7%88_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Sigma_Corporation"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q354764",
+   "country": "일본",
+   "inception": "1961",
+   "headquarters": "가와사키시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Sigma Corporation」 본문과 위키데이터 Q354764 팩트를 근거로 편집",
+  "founded": {
+   "date": "1961-09-09",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q757307",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/atlassian-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "atlassian",
+  "urlSlug": "atlassian",
+  "name": "아틀라시안",
+  "nameKo": "아틀라시안",
+  "nameEn": "Atlassian",
+  "definition": "아틀라시안(Atlassian)은 2002년 시드니에서 설립된 소프트웨어 기업이다. 소프트웨어 개발자를 주요 대상으로 하는 전사적 소프트웨어를 만들며, 지라와 컨플루언스 같은 도구를 제작한다.",
+  "summary": "아틀라시안(Atlassian)은 2002년 시드니에서 설립된 소프트웨어 기업이다. 소프트웨어 개발자를 주요 대상으로 하는 전사적 소프트웨어를 만들며, 지라와 컨플루언스 같은 도구를 제작한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "소프트웨어 개발자를 겨냥한 전사적 소프트웨어를 만들고 애자일 개발에 초점을 맞춘 시드니 기반 기업이며, 지라와 컨플루언스로 대표된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아틀라시안(Atlassian)은 오스트레일리아 시드니에 기반을 두고 소프트웨어 개발자를 겨냥한 전사적 소프트웨어를 만드는 소프트웨어 기업이다. 코드 기반 작업을 하는 프로그래머를 위한 도구와 지라 같은 버그·이슈 추적 시스템, 컨플루언스 같은 위키 도구를 제작한다. 애자일 소프트웨어 개발을 제공하는 데 초점을 맞추며, 회사 스스로도 애자일을 실천한다. 제품은 대부분 오픈 소스가 아니지만, 구매자가 재배포나 재판매를 하지 않는 조건으로 코드를 열람하거나 수정할 수 있는 라이선스로 판매한다. 전사적 소프트웨어 공급자로 묘사되어 왔고, 전 세계에 135,000 고객을 보유한다. 샌프란시스코, 암스테르담, 도쿄에 사무실을 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "아틀라시안은 뉴사우스웨일스 대학교에서 공부하다가 만난 Mike Cannon-Brookes와 Scott Farquhar에 의해 2002년에 시드니에서 설립되었다. 2010년 9월 29일, 프로젝트에 머큐리얼과 깃 리비전 컨트롤 시스템을 사용하는 웹 기반 호스팅을 서비스하는 빗버킷을 매입했다. 2011년에 5,900만 달러의 수입을 올린 이 회사는 회계연도 기준 1억 달러에 이를 전망이었다. 그 무렵 전 세계적으로 135,000 고객을 보유했으며, 샌프란시스코, 암스테르담, 도쿄에 사무실을 두었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Crucible, FishEye, Bamboo, Clover는 코드 기반의 작업을 하는 프로그래머를 위한 도구이다. 지라와 같은 버그 추적 시스템과 이슈 추적 시스템도 제작한다. 컨플루언스 같은 비교적 대중화된 위키 도구도 만든다. 2010년에 매입한 빗버킷은 머큐리얼과 깃 리비전 컨트롤 시스템을 사용하는 프로젝트를 위한 웹 기반 호스팅 서비스이다. 제품은 대부분 오픈 소스가 아니며, 재배포와 재판매를 하지 않는 조건으로 코드를 열람하거나 수정할 수 있는 라이선스로 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "법인명은 아틀라시안 코퍼레이션 plc이고 본사는 341 George Street, Sydney이다. 2011년에 5,900만 달러의 수입을 올렸고 회계연도 기준 1억 달러에 이를 전망이었다. 전 세계적으로 135,000 고객을 보유했으며 샌프란시스코, 암스테르담, 도쿄에 사무실을 두었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소프트웨어 개발자를 겨냥한 전사적 소프트웨어를 만들고 애자일 개발에 초점을 맞춘 시드니 기반 기업이며, 지라와 컨플루언스로 대표된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.atlassian.com/",
+  "entityLinks": {
+   "wikidata": "Q757307",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q757307",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%8B%80%EB%9D%BC%EC%8B%9C%EC%95%88",
+    "https://en.wikipedia.org/wiki/Atlassian"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q757307",
+   "country": "미국",
+   "inception": "2002",
+   "headquarters": "341 George Street, Sydney",
+   "founders": [
+    "Scott Farquhar",
+    "Mike Cannon-Brookes"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「아틀라시안」 요약과 위키데이터 Q757307 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

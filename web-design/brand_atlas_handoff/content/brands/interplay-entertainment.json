@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q628249",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/interplay-entertainment-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "interplay-entertainment",
+  "urlSlug": "interplay-entertainment",
+  "name": "인터플레이 엔터테인먼트",
+  "nameKo": "인터플레이 엔터테인먼트",
+  "nameEn": "Interplay Entertainment",
+  "definition": "인터플레이 엔터테인먼트(Interplay Entertainment)는 1983년 브라이언 파고가 설립한 미국의 게임 개발·배급사이다. 설립 당시 이름은 인터플레이 프로덕션스였고, 1998년 현재의 이름으로 바꾸었다.",
+  "summary": "인터플레이 엔터테인먼트(Interplay Entertainment)는 1983년 브라이언 파고가 설립한 미국의 게임 개발·배급사이다. 설립 당시 이름은 인터플레이 프로덕션스였고, 1998년 현재의 이름으로 바꾸었다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "블랙 아일 스튜디오를 해체했다가 MDK2 HD의 수익을 계기로 다시 연 미국 게임 개발·배급사이다. 브라이언 파고가 1983년에 세운 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인터플레이는 비디오 게임을 개발하고 배급하는 미국 회사이다. 본사는 베벌리힐스에 있다. 1983년 브라이언 파고가 인터플레이 프로덕션스(Interplay Productions)라는 이름으로 설립했고, 1998년에 지금의 이름으로 바꾸었다. 산하에는 인터플레이 디스커버리(Interplay Discovery)와 블랙 아일 스튜디오(Black Isle Studios)를 두고 있다. 과거에는 블루스카이 스튜디오, 브레인스톰, 인터플레이 필름즈 같은 조직이 있었으나 해체되었고, Shiny Entertainment는 매각했다. 해체되었던 블랙 아일 스튜디오를 다시 연 것이 근래의 변화이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "인터플레이는 1983년 브라이언 파고가 인터플레이 프로덕션스라는 이름으로 설립했다. 산하 스튜디오였던 블루스카이 스튜디오(BlueSky Software)는 1988년부터 2001년까지 캘리포니아에 있었다. 1996년에는 오렌지군에 블랙 아일 스튜디오가 설립되었다. 1998년 회사 이름을 현재의 이름으로 바꾸었고, 같은 해 인터플레이 필름즈를 설치했다. 블랙 아일 스튜디오는 2003년에 해체되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "인터플레이의 사업은 게임 개발과 배급이며, 산하 스튜디오를 중심으로 구성된다. 현존하는 조직은 인터플레이 디스커버리와 블랙 아일 스튜디오이다. 자사에서 만든 MDK2는 2012년 Beamdog이 HD로 리메이크해 MDK2 HD로 내놓았다. 매각된 스튜디오로는 Shiny Entertainment가 있다. 그 밖에 14 Degrees East, FlatCat, Interplay Sports, Tantrum Entertainment, Tribal Dreams, Digital Mayhem도 관련 조직으로 거론되나 분류는 분명하지 않다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 인터플레이 디스커버리와 블랙 아일 스튜디오가 산하에 남아 있다. 2012년 Beamdog이 MDK2 HD를 내놓았고 이것이 재정적 이득을 가져다주어, 인터플레이는 해체되었던 블랙 아일 스튜디오를 다시 열었다. 블루스카이 스튜디오, 브레인스톰, 인터플레이 필름즈는 해체된 상태이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "블랙 아일 스튜디오를 해체했다가 MDK2 HD의 수익을 계기로 다시 연 미국 게임 개발·배급사이다. 브라이언 파고가 1983년에 세운 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.interplay.com/",
+  "entityLinks": {
+   "wikidata": "Q628249",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q628249",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%ED%94%8C%EB%A0%88%EC%9D%B4_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/Interplay_Entertainment"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q628249",
+   "country": "미국",
+   "inception": "1983",
+   "headquarters": "베벌리힐스",
+   "founders": [
+    "브라이언 파고"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「인터플레이 엔터테인먼트」 요약과 위키데이터 Q628249 팩트를 근거로 편집",
+  "founded": {
+   "date": "1983-10",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

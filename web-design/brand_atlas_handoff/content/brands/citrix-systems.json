@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q916196",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/citrix-systems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "citrix-systems",
+  "urlSlug": "citrix-systems",
+  "name": "시트릭스 시스템즈",
+  "nameKo": "시트릭스 시스템즈",
+  "nameEn": "Citrix Systems",
+  "definition": "시트릭스 시스템즈(Citrix Systems)는 1989년 설립된 미국의 다국적 소프트웨어 기업이다. 서버, 애플리케이션, 데스크톱 가상화와 네트워킹, SaaS, 클라우드 컴퓨팅 기술을 제공한다.",
+  "summary": "시트릭스 시스템즈(Citrix Systems)는 1989년 설립된 미국의 다국적 소프트웨어 기업이다. 서버, 애플리케이션, 데스크톱 가상화와 네트워킹, SaaS, 클라우드 컴퓨팅 기술을 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "마이크로소프트 운영 체제용 원격 접속 제품에서 출발해 인수를 통해 가상화, 네트워킹, 클라우드로 영역을 넓힌 미국의 소프트웨어 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시트릭스는 마이크로소프트 운영 체제용 원격 접속 제품을 개발하면서 출발한 소프트웨어 기업이다. 서버, 애플리케이션 및 데스크톱 가상화, 네트워킹, SaaS, 클라우드 컴퓨팅 기술을 제공한다. 마이크로소프트로부터 소스 코드를 라이선스 받았으며 역사적으로 마이크로소프트와 파트너십 관계에 있다. 1990년대에는 씬 클라이언트 기술 분야의 선두주자로 명성을 떨쳤다. 2000년대 중반에 여러 인수 과정을 거치며 서버와 데스크톱 가상화, 클라우드, IaaS까지 사업 영역을 확장했다. 본사는 미국 포트로더데일에 있으며, 전 세계 33만 개 조직에 서비스를 제공하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시트릭스는 1989년 미국에서 설립되었고, 창업자는 Ed Iacobucci이다. 마이크로소프트 운영 체제용 원격 접속 제품을 개발하는 것으로 사업을 시작했으며, 마이크로소프트로부터 소스 코드를 라이선스 받았다. 1997년 첫 인수로 데이터팩(DataPac)을 사들였는데, 데이터팩의 기술과 아시아 태평양 지역의 지위를 활용하기 위해서였다. 1990년대에는 씬 클라이언트 기술의 선두주자로 명성을 얻었고, 2000년대 중반에는 여러 인수를 통해 서버와 데스크톱 가상화, 클라우드, IaaS까지 영역을 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시트릭스는 서버, 애플리케이션, 데스크톱 가상화 기술을 핵심으로 한다. 여기에 네트워킹, SaaS, 클라우드 컴퓨팅 기술을 더해 제공한다. 수많은 합병과 인수를 통해 새로운 기술과 서비스를 확장하고 추가해 왔다. 주요 인수로는 2004년 엑스퍼트시티(ExpertCity), 2005년 넷스케일러(NetScaler), 2007년 젠소스(XenSource), 2011년 셰어파일이 있다. 2015년에는 인수한 회사가 거의 50개에 이르렀다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 시트릭스는 전 세계 33만 개 조직에 서비스를 제공하고 있다. 서버, 애플리케이션, 데스크톱 가상화와 네트워킹, SaaS, 클라우드 컴퓨팅 기술을 제공하는 다국적 소프트웨어 기업이며 본사는 포트로더데일에 있다. 마이크로소프트와는 역사적으로 파트너십 관계에 있다. 2015년 기준으로 거의 50개 회사를 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "마이크로소프트 운영 체제용 원격 접속 제품에서 출발해 인수를 통해 가상화, 네트워킹, 클라우드로 영역을 넓힌 미국의 소프트웨어 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.citrix.com/",
+  "entityLinks": {
+   "wikidata": "Q916196",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q916196",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%8A%B8%EB%A6%AD%EC%8A%A4_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Citrix_Systems"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q916196",
+   "country": "미국",
+   "inception": "1989",
+   "headquarters": "포트로더데일",
+   "founders": [
+    "Ed Iacobucci"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「시트릭스 시스템즈」 요약과 위키데이터 Q916196 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

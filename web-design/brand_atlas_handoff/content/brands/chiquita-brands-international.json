@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1074666",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/chiquita-brands-international-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "chiquita-brands-international",
+  "urlSlug": "chiquita-brands-international",
+  "name": "치키타 브랜즈 인터내셔널",
+  "nameKo": "치키타 브랜즈 인터내셔널",
+  "nameEn": "Chiquita Brands International",
+  "definition": "치키타 브랜즈 인터내셔널(Chiquita Brands International)은 바나나와 기타 농산물을 생산하고 유통하는 스위스 기업으로, United Fruit Company의 후신이다. 주력 Chiquita 브랜드와 Fresh Express 샐러드를 자회사 브랜드로 운영한다.",
+  "summary": "치키타 브랜즈 인터내셔널(Chiquita Brands International)은 바나나와 기타 농산물을 생산하고 유통하는 스위스 기업으로, United Fruit Company의 후신이다. 주력 Chiquita 브랜드와 Fresh Express 샐러드를 자회사 브랜드로 운영한다.",
+  "industry": "식음료",
+  "domainSlug": "food-beverage",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "United Fruit Company의 후신으로, Chiquita 브랜드와 Fresh Express 샐러드를 아우르며 바나나 유통에서 세계 선두권에 속하는 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "치키타 브랜즈 인터내셔널은 바나나와 기타 농산물을 생산하고 유통하는 스위스 법인(S.à.r.l.) 형태의 기업이다. 자회사 브랜드로는 주력인 Chiquita 브랜드와 Fresh Express 샐러드를 운영한다. 세계에서 바나나를 가장 많이 유통하는 업체 가운데 하나이다. 전신은 United Fruit Company이며, 미국 사업가 Carl Lindner Jr.가 과거 이 회사를 지배했다. Chiquita Brands International이 2002년 3월 19일 사전 준비형 Chapter 11 파산 절차를 벗어나면서 그의 과반 지분 소유가 끝났다. 2014년 브라질의 Cutrale과 Safra Group에 인수되었으며, 현재 모기업은 Cutrale이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사의 역사는 1870년 선장 Lorenzo Dow Baker가 자메이카에서 바나나 160송이를 사서 11일 뒤 Jersey City에서 되판 데서 시작된다. 1873년 중앙아메리카 철도 개발업자 Minor C. Keith가 코스타리카에서 바나나 재배를 시도했고, 1878년 Baker는 Andrew Preston과 Boston Fruit Company를 세웠다. United Fruit Company는 1899년 Boston Fruit Company와 Keith가 지배하던 여러 과일 수출 업체가 합병하며 설립되었다. 1903년 뉴욕증권거래소에 상장했고, 원양 운송에 냉장 기술을 처음 쓴 회사가 되었다. 1944년 'Chiquita Banana' 광고 노래를 처음 내놓았으며, Chiquita 상표는 1947년 등록되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 사업은 바나나와 기타 농산물의 생산·유통이며, 주력 Chiquita 브랜드와 Fresh Express 샐러드가 자회사 브랜드로 운영된다. 과거 United Fruit Company 시절에는 사업 범위가 더 넓었다. 1913년 Tropical Radio and Telegraph Company를 세웠고, 1930년까지 선단이 95척으로 늘었다. 1966년에는 A&W Root Beer를 보유한 J. Hungerford Smith Company를 인수했다. 1970년 AMK Corporation과 합병해 United Brands Company로 이름을 바꿨으며, AMK는 육가공업체 John Morrell & Co.를 소유하고 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 Chiquita Brands International S.à.r.l.은 스위스 기업으로 분류되며, 모기업은 Cutrale이다. 2002년 3월 19일 파산 절차를 벗어나 Carl Lindner Jr.의 과반 지분 소유가 끝났고, 2014년 브라질의 Cutrale과 Safra Group에 인수되었다. 지금도 바나나를 세계적으로 가장 많이 유통하는 업체 가운데 하나이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "United Fruit Company의 후신으로, Chiquita 브랜드와 Fresh Express 샐러드를 아우르며 바나나 유통에서 세계 선두권에 속하는 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.chiquita.com",
+  "entityLinks": {
+   "wikidata": "Q1074666",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1074666",
+    "https://ko.wikipedia.org/wiki/%EC%B9%98%ED%82%A4%ED%83%80_%EB%B8%8C%EB%9E%9C%EC%A6%88_%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90",
+    "https://en.wikipedia.org/wiki/Chiquita"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1074666",
+   "country": "미국",
+   "inception": "1899",
+   "headquarters": "신시내티",
+   "founders": [],
+   "parent": "Cutrale",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Chiquita」 본문과 위키데이터 Q1074666 팩트를 근거로 편집",
+  "founded": {
+   "date": "1899-03-30",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

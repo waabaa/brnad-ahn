@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1430712",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lloyds-of-london-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lloyds-of-london",
+  "urlSlug": "lloyds-of-london",
+  "name": "로이즈",
+  "nameKo": "로이즈",
+  "nameEn": "Lloyd's of London",
+  "definition": "로이즈(Lloyd's of London)는 영국 런던의 금융가 시티오브런던에 위치한 보험시장이다. 회사의 형태가 아니라 1871년 로이즈 규약에 의해 만들어진 법인체이다.",
+  "summary": "로이즈(Lloyd's of London)는 영국 런던의 금융가 시티오브런던에 위치한 보험시장이다. 회사의 형태가 아니라 1871년 로이즈 규약에 의해 만들어진 법인체이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "회사가 아닌 멤버 중심의 법인체 보험시장이며, 커피 거래소 모임에서 출발해 해상 보험을 모토로 삼는다는 점이 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "로이즈는 영국 런던의 금융가 시티오브런던에 위치한 보험시장이다. 영국의 보험 비즈니스는 기본적으로 로이즈가 대개 판매하는 일반 보험과 재보험을 인수하는 과정을 거치며, 로이즈는 기본적으로 해상 보험이 모토가 된다. 구성원은 '멤버'로 불리며, 다수의 재정 후원자들의 위험을 분산하고 금액화하여 판매하는 중개인이나 손해 사정인 역할을 맡는다. 멤버는 자체로서 법인체가 되기도 하고 인격체가 되기도 한다. 2011년에는 총 234억 4천만 파운드 이상의 프리미엄이 로이즈 마켓을 통해 거래됐고, 2012년에는 총 255억 파운드의 프리미엄이 거래됐다. 사명인 'Fidentia'는 라틴어로 신뢰라는 뜻이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "로이즈는 1688년에 Edward Lloyd가 시작한 보험시장이다. 시초는 Edward Lloyd가 17세기 타워 스트릿에 위치한 자신의 커피 거래소에서 가졌던 모임이다. 당시 커피 하우스는 오늘날 라임 스트리트에 있는 로이즈 본사의 모태가 되었으며, 본사 건물은 로이즈 빌딩이다. 1871년에는 로이즈 규약에 의해 회사의 형태가 아닌 법인체로 만들어졌다. 2013년에는 생명 보험에 관해 5개 연합체가 따로 구성되기도 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "로이즈 마켓의 사업은 영국의 보험 비즈니스에서 일반 보험과 재보험을 인수하는 과정을 중심으로 한다. 이 가운데 해상 보험이 기본적인 모토가 된다. 2013년에는 생명 보험에 관해 5개 연합체가 따로 구성되기도 했다. 구성원인 멤버는 다수의 재정 후원자들의 위험을 분산하고 금액화하여 판매하는 중개인이나 손해 사정인 역할을 맡으며, 멤버는 법인체가 되기도 하고 인격체가 되기도 한다. 또한 매년 가장 높은 비율로 보증해야 하는 자연재해 등으로 인한 세전 5억 파운드 이상의 보증을 갚아줬다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년에는 총 234억 4천만 파운드 이상의 프리미엄이 거래됐고, 2012년에는 총 255억 파운드가 거래됐다. 2012년 로이즈는 세전 이익으로 27억 파운드 이상의 수익을 올렸다. 2013년에는 생명 보험에 관해 5개 연합체가 따로 구성됐다. 본사는 로이즈 빌딩이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "회사가 아닌 멤버 중심의 법인체 보험시장이며, 커피 거래소 모임에서 출발해 해상 보험을 모토로 삼는다는 점이 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.lloyds.com/",
+  "entityLinks": {
+   "wikidata": "Q1430712",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1430712",
+    "https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%9D%B4%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Lloyd%27s_of_London"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1430712",
+   "country": "영국",
+   "inception": "1688",
+   "headquarters": "로이즈 빌딩",
+   "founders": [
+    "Edward Lloyd"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「로이즈」 요약과 위키데이터 Q1430712 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

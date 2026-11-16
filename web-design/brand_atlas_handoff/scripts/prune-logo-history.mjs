@@ -6,6 +6,7 @@
 //
 // Usage: node scripts/prune-logo-history.mjs [--dry]
 import fs from "node:fs";
+import crypto from "node:crypto";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -29,12 +30,15 @@ function clean(b) {
     if (h.status === "asset_pending") { removed++; continue; }
     if (!exists(h.src)) { removed++; continue; }
     const key = String(h.src).replace(/^\.\.\//, "");
-    if (seen.has(key)) { deduped++; continue; }
-    seen.add(key);
+    // 경로가 달라도 파일 내용이 같으면 같은 이미지다(2026-11-14 — 같은 로고가 '보관 이미지 N'으로 반복되던 문제).
+    const md5 = crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, key))).digest("hex");
+    if (seen.has(key) || seen.has(md5)) { deduped++; continue; }
+    seen.add(key); seen.add(md5);
     kept.push(h);
   }
   // 대표 로고가 목록에 없으면 앞에 둔다 — 변천사의 기준점이 된다.
-  if (b.logo && exists(b.logo) && !seen.has(b.logo)) kept.unshift({ src: b.logo, label: "대표 로고", note: "현재 사용 중인 마크" });
+  const logoMd5 = b.logo && exists(b.logo) ? crypto.createHash("md5").update(fs.readFileSync(path.join(ROOT, b.logo))).digest("hex") : null;
+  if (b.logo && exists(b.logo) && !seen.has(b.logo) && !seen.has(logoMd5)) kept.unshift({ src: b.logo, label: "대표 로고", note: "현재 사용 중인 마크" });
   b.logoHistory = kept;
 }
 

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1472539",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/alpha-tomo-global-resoures-sdn-bhd-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "alpha-tomo-global-resoures-sdn-bhd",
+  "urlSlug": "alpha-tomo-global-resoures-sdn-bhd",
+  "name": "맨파워그룹",
+  "nameKo": "맨파워그룹",
+  "nameEn": "Alpha Tomo Global Resoures Sdn Bhd",
+  "definition": "맨파워그룹(ManpowerGroup)은 미국 위스콘신주 밀워키에 본사를 둔 다국적 인력 서비스 기업이다. 1948년 Elmer Winter와 Aaron Scheinfeld가 창업했으며, 세계 3위 규모의 인력 파견 회사이다.",
+  "summary": "맨파워그룹(ManpowerGroup)은 미국 위스콘신주 밀워키에 본사를 둔 다국적 인력 서비스 기업이다. 1948년 Elmer Winter와 Aaron Scheinfeld가 창업했으며, 세계 3위 규모의 인력 파견 회사이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "Manpower, Experis, Right Management, ManpowerGroup Solutions의 네 브랜드로 인력 파견·채용부터 경력 관리, 아웃소싱까지 제공하는 세계 3위 인력 서비스 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "맨파워그룹은 이전에 Manpower Inc.로 불렸으며, 미국 위스콘신주 밀워키에 본사를 둔 다국적 기업이다. 행정·지원 서비스, 전문 서비스, 비즈니스 서비스를 제공한다. 주요 브랜드는 Manpower, Experis, Right Management, ManpowerGroup Solutions의 네 가지이다. 세계 인력 파견 업계에서 스위스의 Adecco, 네덜란드의 Randstad NV에 이어 세 번째로 큰 회사이다. Manpower는 임시직 파견과 정규직 채용을, Experis는 인력 확보와 프로젝트 관리를 맡는다. Right Management는 경력 관리, 인력 컨설팅, 교육·개발을, ManpowerGroup Solutions는 관리형 서비스와 아웃소싱을 맡는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1948년 Elmer Winter와 Aaron Scheinfeld가 Manpower를 세웠다. 한 설명에 따르면 두 사람은 위스콘신주 대법원에 낼 서류를 촉박한 기한 안에 준비하려고 비서 인력을 찾다가 사업을 구상했고, $7,000를 모아 밀워키에 첫 점포를 열었다. James D. Scheinfeld의 책은 Aaron Scheinfeld가 임시 인력 서비스를 구상해 이름을 정하고 Winter를 공동 창업자로 초대했다고 달리 기술하며, 두 사람은 델라웨어에 법인을 세워 6월에 밀워키와 시카고에 사무소를 열었다. 1952년까지 미니애폴리스, 클리블랜드, 신시내티, 뉴욕, 피츠버그, 보스턴으로 확장했고, 1954년 첫 프랜차이즈를 냈다. 1956년 몬트리올, 토론토, 영국에 사무소를 열어 해외로 나갔고, 1957년 프랑스에서 사업을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "맨파워그룹은 행정·지원 서비스, 전문 서비스, 비즈니스 서비스를 네 가지 주요 브랜드로 제공한다. Manpower는 임시직 파견과 정규직 채용을, Experis는 인력 확보와 프로젝트 관리를 다룬다. Right Management는 경력 관리, 인력 컨설팅, 교육·개발을, ManpowerGroup Solutions는 관리형 서비스와 아웃소싱을 맡는다. 1962년 TIME 광고에는 Office Services, Industrial Help, Salespower, Inc., Technical Services 부문이 명시되어 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 본사는 위스콘신주 밀워키에 있으며, 이전 명칭은 Manpower Inc.였다. 세계 인력 파견 업계에서 스위스의 Adecco, 네덜란드의 Randstad NV에 이어 세 번째로 큰 회사이다. Manpower, Experis, Right Management, ManpowerGroup Solutions의 네 가지 주요 브랜드를 통해 행정·지원, 전문, 비즈니스 서비스를 제공한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Manpower, Experis, Right Management, ManpowerGroup Solutions의 네 브랜드로 인력 파견·채용부터 경력 관리, 아웃소싱까지 제공하는 세계 3위 인력 서비스 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.manpowergroup.com/",
+  "entityLinks": {
+   "wikidata": "Q1472539",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1472539",
+    "https://ko.wikipedia.org/wiki/%EB%A7%A8%ED%8C%8C%EC%9B%8C%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/ManpowerGroup"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1472539",
+   "country": "미국",
+   "inception": "1948",
+   "headquarters": "밀워키",
+   "founders": [
+    "Elmer Winter",
+    "Aaron Scheinfeld"
+   ],
+   "parent": "ManpowerGroup",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「ManpowerGroup」 본문과 위키데이터 Q1472539 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q196259",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "netease",
+  "urlSlug": "netease",
+  "name": "넷이즈",
+  "nameKo": "넷이즈",
+  "nameEn": "NetEase",
+  "definition": "넷이즈(NetEase)는 1997년 딩레이가 설립한 중화인민공화국의 인터넷 기술 기업이다. 본사는 항저우시에 있으며 온라인 게임, 광고, 이메일, 전자상거래 플랫폼을 개발하고 운영한다.",
+  "summary": "넷이즈(NetEase)는 1997년 딩레이가 설립한 중화인민공화국의 인터넷 기술 기업이다. 본사는 항저우시에 있으며 온라인 게임, 광고, 이메일, 전자상거래 플랫폼을 개발하고 운영한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "중국의 온라인 게임과 163.com 이메일 서비스를 기반으로 성장한 항저우 본사의 인터넷 기술 기업이며, 2008년부터 2023년까지 Blizzard 게임을 중국 내에서 운영했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "넷이즈는 중국어로 网易라고 쓰는 중화인민공화국의 인터넷 기술 기업이다. 중국의 온라인 PC 및 모바일 게임, 광고 서비스, 이메일 서비스, 전자상거래 플랫폼을 개발하고 운영한다. 1997년 6월 중국의 기업가 딩레이가 설립했으며 본사는 중화인민공화국 절강성 항저우시에 있다. 중국 내외에 비디오 게임 관련 자회사와 개발사를 두고 있으며 넷이즈 게임스, Grasshopper Manufacture, Quantic Dream이 대표적이다. Blizzard Entertainment와 협력해 World of Warcraft, StarCraft II, Overwatch 등 Blizzard 게임을 중국 내에서 2008년부터 2023년까지 운영했다. 무료 이메일 서비스는 2017년 기준 사용자가 9400만 명 이상으로 중국 최대 규모이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "넷이즈는 1997년 6월 중국의 기업가 딩레이가 설립했으며 본사는 중화인민공화국 절강성 항저우시에 있다. 설립 이후 검색 엔진에 대한 투자로 급성장했다. 2001년 경에는 광고수익 허위보고로 이사진이 사퇴하는 사건이 있었고, 홍콩의 i-Cable Communications 같은 타사가 매입한다는 소문이 거론되기도 했다. 2012년에는 영어 사명을 'NetEase.com, Inc'에서 'NetEase, Inc'로 변경했다. 공식 도메인 163.com은 과거 중국에서 브로드밴드 인터넷이 없던 때 사용자가 인터넷에 연결할 때 쓰던 전화번호에서 유래했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "넷이즈는 중국의 온라인 PC 및 모바일 게임, 광고 서비스, 이메일 서비스, 전자상거래 플랫폼을 개발하고 운영한다. 개발 및 배급한 비디오 게임으로는 《몽환서유》 시리즈, 《제5인격》, 《음양사》, 《역수한》 시리즈, 《나라카: 블레이드포인트》, 《디아블로 이모탈》이 있다. 중국 내외에 비디오 게임 관련 자회사와 개발사를 보유하며 대표 기업으로 넷이즈 게임스, Grasshopper Manufacture, Quantic Dream이 있다. Blizzard Entertainment와 협력해 World of Warcraft, StarCraft II, Overwatch 등 Blizzard 게임을 중국 내에서 2008년부터 2023년까지 운영했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "넷이즈의 공식 도메인 163.com은 2008년 Compete.com의 분석에서 방문자가 매년 180만 명 이상에 달했다. 2010년 Alexa Internet 집계에서는 이 도메인이 전 세계에서 28번째로 방문자가 많은 웹사이트였다. 2017년 기준 무료 이메일 서비스 사용자는 9400만 명 이상으로 중국 최대 규모이다. Blizzard 게임의 중국 내 운영은 2023년까지 이어졌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "중국의 온라인 게임과 163.com 이메일 서비스를 기반으로 성장한 항저우 본사의 인터넷 기술 기업이며, 2008년부터 2023년까지 Blizzard 게임을 중국 내에서 운영했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.163.com/",
+  "entityLinks": {
+   "wikidata": "Q196259",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q196259",
+    "https://ko.wikipedia.org/wiki/%EB%84%B7%EC%9D%B4%EC%A6%88",
+    "https://en.wikipedia.org/wiki/NetEase"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q196259",
+   "country": "중화인민공화국",
+   "inception": "1997",
+   "headquarters": "항저우시",
+   "founders": [
+    "딩레이"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「넷이즈」 요약과 위키데이터 Q196259 팩트를 근거로 편집",
+  "founded": {
+   "date": "1997-06",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1257477",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/hollister-co-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "hollister-co",
+  "urlSlug": "hollister-co",
+  "name": "홀리스터",
+  "nameKo": "홀리스터",
+  "nameEn": "Hollister Co.",
+  "definition": "홀리스터(Hollister Co.)는 애버크롬비 & 피치(Abercrombie & Fitch Co)가 소유한 미국의 리테일 브랜드이다. 의류, 액세서리, 향수를 판매하며 매장과 온라인 스토어에서 제품을 구입할 수 있다.",
+  "summary": "홀리스터(Hollister Co.)는 애버크롬비 & 피치(Abercrombie & Fitch Co)가 소유한 미국의 리테일 브랜드이다. 의류, 액세서리, 향수를 판매하며 매장과 온라인 스토어에서 제품을 구입할 수 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "2000년 오하이오에서 시작했지만 1922년 캘리포니아 창립이라는 가상의 역사와 해변 오두막 콘셉트 매장으로 서핑 라이프스타일을 내세운 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "홀리스터는 의류, 액세서리, 향수를 판매하는 미국의 리테일 브랜드로, 애버크롬비 & 피치가 소유한다. 제품은 매장과 회사의 온라인 스토어에서 구입할 수 있다. 브랜드는 1922년 캘리포니아 홀리스터에서 창립했다고 내세우지만, 실제로는 2000년 오하이오에서 애버크롬비가 만들었다. 2006년 1월 중순 토론토에 매장을 열며 캐나다로 진출했고, 2008년 10월 25일에는 런던 Brent Cross에 북미 밖 첫 매장을 열었다. 이후 이탈리아, 독일, 중국, 일본, 스페인에도 매장을 냈고 2011년에는 아일랜드 더블린에 진출했다. 2009년 7월 16일에는 뉴욕 SoHo의 브로드웨이에 4개 층, 40,000 square feet 규모의 첫 플래그십 스토어를 열었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "홀리스터의 첫 매장은 2000년 7월 27일 오하이오 콜럼버스의 Easton Town Center에서 문을 열었다. 이후 캔자스 오버랜드파크, 조지아 뷰퍼드, 캘리포니아 캐노가파크, 뉴저지 파라무스에 시험 매장 네 곳이 차례로 열렸다. 브랜드는 1922년에 설립되었다고 말하지만, 이는 애버크롬비 & 피치가 창업자 John Hollister, Sr.를 중심으로 만든 가상의 역사이다. 이 이야기에서 그는 뉴욕시에서 네덜란드령 동인도로 이주했다가 미국으로 돌아와 1922년 캘리포니아에 정착해 자기 이름을 딴 회사를 세웠다고 한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "홀리스터는 의류, 액세서리, 향수를 판매한다. 제품은 매장과 온라인 스토어에서 구입할 수 있다. 2007년에는 Sessions라는 이름의 바디스프레이, 데오도란트, 비누, 로션, 립밤 등 바디케어 제품이 Gilly Hicks 홍보에 쓰였다. 2007년 여름부터는 매장에 비디오 월을 설치해 캘리포니아 Huntington Beach의 실시간 영상을 틀었다. 매장은 처음에 실내 쇼핑몰 안에서 빈티지 해변 오두막처럼 보이도록 설계되었으며, 외관에는 덧문 창과 청록색 보드워크 입구가 있었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "홀리스터는 애버크롬비 & 피치의 브랜드이며 본사는 New Albany에 있다. 2016년 11월 애버크롬비 & 피치는 홀리스터 매장을 새로 디자인하겠다고 발표했다. 새 디자인은 전면 창을 두고 캘리포니아 해변 오두막식 현관 입구를 없앤다. 매장 면적은 줄지만 상품을 진열하는 공간은 더 넓어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2000년 오하이오에서 시작했지만 1922년 캘리포니아 창립이라는 가상의 역사와 해변 오두막 콘셉트 매장으로 서핑 라이프스타일을 내세운 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hollisterco.com/",
+  "entityLinks": {
+   "wikidata": "Q1257477",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1257477",
+    "https://ko.wikipedia.org/wiki/%ED%99%80%EB%A6%AC%EC%8A%A4%ED%84%B0_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Hollister_Co."
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1257477",
+   "country": "미국",
+   "inception": "2000",
+   "headquarters": "New Albany",
+   "founders": [],
+   "parent": "애버크롬비 & 피치",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Hollister Co.」 본문과 위키데이터 Q1257477 팩트를 근거로 편집",
+  "founded": {
+   "date": "2000-07-27",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

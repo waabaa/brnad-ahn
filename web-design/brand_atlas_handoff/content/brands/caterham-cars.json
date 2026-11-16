@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q838832",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/caterham-cars-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "caterham-cars",
+  "urlSlug": "caterham-cars",
+  "name": "케이터햄 자동차",
+  "nameKo": "케이터햄 자동차",
+  "nameEn": "Caterham Cars",
+  "definition": "케이터햄 자동차(Caterham Cars)는 경량 스포츠카를 전문으로 만드는 영국의 제조사이다. 로터스 세븐을 계승한 케이터햄 7을 대표 모델로 하며, 케이터햄 그룹의 주력 브랜드이다.",
+  "summary": "케이터햄 자동차(Caterham Cars)는 경량 스포츠카를 전문으로 만드는 영국의 제조사이다. 로터스 세븐을 계승한 케이터햄 7을 대표 모델로 하며, 케이터햄 그룹의 주력 브랜드이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "로터스 세븐의 설계를 이어받아 반세기 넘게 경량 스포츠카 세븐을 생산해 온 영국 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "케이터햄은 경량 스포츠카를 전문으로 제조하는 영국 기업이다. 현재 대표 모델은 1973년에 출시된 케이터햄 7이며, 콜린 채프먼이 설계한 로터스 세븐 시리즈 3에서 직접 발전한 차이다. 로터스 세븐과 마찬가지로 관형 강철 섀시에 알루미늄 판을 붙여 차체를 만든다. 케이터햄 그룹의 주력 자산으로, 2021년부터 일본 자동차 회사 VT Holdings가 소유하고 있다. 케이터햄 7은 2007년에 연속 생산 50년째를 맞았으며 클럽맨 스타일 레이스에서 지금도 활약하고 있다. 1990년대에는 소프트톱 2인승 케이터햄 21을 만들었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "케이터햄은 1963년에 설립되었으며, 1960년대에는 로터스 7의 주요 딜러였다. 로터스가 세븐 단종 의사를 밝히자 설립자 Graham Nearn이 1973년 콜린 채프먼으로부터 세븐 설계의 제조권을 사들였다. 처음에는 로터스 세븐 시리즈 4 생산을 재개했으나 인기가 없어 1974년 시리즈 3 모델로 전환했다. 1974년에는 Seven Cars Limited라는 이름으로 양산차 20대와 시제차 1대를 만들었다. 이후 독립 회사로 남아 있다가 2011년 Team Lotus에 인수되면서 케이터햄 그룹이 만들어졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품은 로터스 세븐에서 이어진 케이터햄 7이다. 첫해 생산 차량에는 대부분 Ford-Lotus Twin Cam 1557 cc 엔진이 들어갔고, 1983년에는 Vegantune이 개발한 VTA 엔진이 Twin Cam의 대체품으로 공급되었다. 다만 VTA는 품질 관리가 고르지 않아 케이터햄은 결국 Cosworth BDR이나 단일 캠의 1700 Supersprint로 바꾸었다. 1990년대에는 MG F와 로터스 엘리제의 대안으로 케이터햄 21을 내놓았다. 2010년에는 Lola와 공동으로 개발한 트랙 전용 SP/300.R을 고객 시험용으로 공개했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 케이터햄은 2009년부터 케이터햄 세븐을 일본에 수입해 온 VT Holdings에 인수되었다. 2012년부터 CEO를 맡은 Graham Macdonald는 이 인수를 통해 회사의 장기적 안정을 확보했다. 2022년 7월에는 최고전략책임자였던 Bob Laishley가 CEO가 되었다. 2021년에는 고객 전략과 마케팅을 맡는 대행사로 Rika를 선정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "로터스 세븐의 설계를 이어받아 반세기 넘게 경량 스포츠카 세븐을 생산해 온 영국 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.caterhamcars.com/",
+  "entityLinks": {
+   "wikidata": "Q838832",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q838832",
+    "https://ko.wikipedia.org/wiki/%EC%BC%80%EC%9D%B4%ED%84%B0%ED%96%84_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Caterham_Cars"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q838832",
+   "country": "영국",
+   "inception": "1963",
+   "headquarters": "크롤리",
+   "founders": [],
+   "parent": "Caterham Group",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Caterham Cars」 본문과 위키데이터 Q838832 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

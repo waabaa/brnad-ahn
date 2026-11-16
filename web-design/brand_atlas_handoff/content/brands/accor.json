@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q212599",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/accor-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "accor",
+  "urlSlug": "accor",
+  "name": "아코르",
+  "nameKo": "아코르",
+  "nameEn": "Accor",
+  "definition": "아코르(Accor)는 호텔, 리조트, 휴양 시설을 소유·운영하고 프랜차이즈로 제공하는 프랑스의 다국적 호스피탈리티 기업이다. 유럽 최대, 세계 6위 규모의 호스피탈리티 기업이다.",
+  "summary": "아코르(Accor)는 호텔, 리조트, 휴양 시설을 소유·운영하고 프랜차이즈로 제공하는 프랑스의 다국적 호스피탈리티 기업이다. 유럽 최대, 세계 6위 규모의 호스피탈리티 기업이다.",
+  "industry": "여행·호스피탈리티",
+  "domainSlug": "travel-hospitality",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "유럽 최대 호스피탈리티 기업으로, 럭셔리부터 이코노미까지 40개 넘는 브랜드를 아우르며 자산 경량 모델로 브랜드 관리에 집중한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아코르는 호텔, 리조트, 휴양 시설을 소유하고 운영하며 프랜차이즈 방식으로도 제공하는 프랑스의 다국적 기업이다. 110개국 넘게 5,836개 시설을 운영하며, 2025년 말 기준 총 객실 수는 약 881,427실이다. 럭셔리, 프리미엄, 미드스케일, 이코노미 등 40개 넘는 호스피탈리티 브랜드를 보유한다. 디지털 호스피탈리티와 행사 기획을 전문으로 하는 onefinestay, D-Edge, ResDiary, John Paul, Potel & Chabot, Wojo 같은 계열 기업도 소유한다. 본사는 이시레몰리노에 있으며 파리 증권거래소의 CAC 40 지수 구성 종목이다. 유럽에서 가장 큰 호스피탈리티 기업이며 세계에서는 여섯 번째로 크다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1967년 Paul Dubrule과 Gérard Pélisson이 호텔 그룹 Société d'investissement et d'exploitation hôteliers(SIEH)를 세우고 프랑스 북부 릴 인근에 첫 Novotel 호텔을 열었다. 1974년 보르도에서 첫 Ibis 호텔이 문을 열었고, 1975년 Courtepaille과 Mercure를, 1980년 Sofitel 호텔을 인수했다. 1983년 Novotel-SIEH가 Jacques Borel International을 인수·합병해 Accor 그룹을 만들었고 같은 해 파리 증권거래소에 상장했다. 이름은 프랑스어로 '합의'를 뜻하는 단어 'Accord'에서 따왔다. 이후 1985년 저가 호텔 브랜드 Formule 1을 선보였고, 1990년 Motel 6, 1991년 Compagnie Internationale des Wagons-Lits를 인수하며 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "브랜드는 등급별로 나뉜다. 럭셔리에는 Orient Express, Raffles, Fairmont, Sofitel이 있고, 프리미엄에는 Pullman, Swissôtel이 있다. 미드스케일에는 Novotel, Mercure, Adagio가, 이코노미에는 ibis, hotelF1이 있다. 디지털 호스피탈리티와 행사 기획 분야에서는 onefinestay, D-Edge, ResDiary, John Paul, Potel & Chabot, Wojo를 소유한다. 1990년대 중반부터 자산 경량 모델로 옮겨 부동산 관리보다 브랜드와 상품 관리에 집중했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "110개국 넘게 5,836개 시설을 운영하고, 2025년 말 기준 객실은 약 881,427실이다. 40개 넘는 호스피탈리티 브랜드를 소유하며 유럽 최대, 세계 6위의 호스피탈리티 기업이다. 본사는 프랑스 이시레몰리노에 있고 파리 증권거래소 CAC 40 지수에 포함되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "유럽 최대 호스피탈리티 기업으로, 럭셔리부터 이코노미까지 40개 넘는 브랜드를 아우르며 자산 경량 모델로 브랜드 관리에 집중한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://group.accor.com/en",
+  "entityLinks": {
+   "wikidata": "Q212599",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q212599",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%BD%94%EB%A5%B4",
+    "https://en.wikipedia.org/wiki/Accor"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q212599",
+   "country": "프랑스",
+   "inception": "1967",
+   "headquarters": "이시레몰리노",
+   "founders": [
+    "Paul Dubrule",
+    "Gérard Pélisson"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Accor」 본문과 위키데이터 Q212599 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q4928776",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bluestacks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bluestacks",
+  "urlSlug": "bluestacks",
+  "name": "블루스택",
+  "nameKo": "블루스택",
+  "nameEn": "BlueStacks",
+  "definition": "블루스택(BlueStacks)은 블루스택 앱플레이어 등 클라우드 기반 크로스 플랫폼 제품을 만드는 미국 기업이다. 윈도우와 macOS 컴퓨터에서 안드로이드 응용 프로그램을 실행하는 앱플레이어로 알려져 있다.",
+  "summary": "블루스택(BlueStacks)은 블루스택 앱플레이어 등 클라우드 기반 크로스 플랫폼 제품을 만드는 미국 기업이다. 윈도우와 macOS 컴퓨터에서 안드로이드 응용 프로그램을 실행하는 앱플레이어로 알려져 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "윈도우와 macOS에서 안드로이드 앱과 모바일 게임을 실행하는 앱플레이어를 내세운 미국 기업이다. Apple Silicon Mac 전용 블루스택 에어도 선보였다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "블루스택은 미국 캘리포니아주 실리콘 밸리에 기반을 둔 기업으로, 모바일 게임을 PC 환경에서 즐길 수 있는 앱플레이어를 전 세계에 서비스한다. 대표 제품인 블루스택 앱플레이어는 마이크로소프트 윈도우와 macOS를 실행하는 컴퓨터에서 안드로이드 응용 프로그램을 쓸 수 있게 해 준다. 직원 120명이 실리콘밸리를 비롯해 댈러스, 베이징, 델리, 런던, 도쿄, 서울, 호치민, 타이베이 등에서 일한다. 2017년 초 블루스택3를 출시했고, 전 세계 1위 앱 플레이어로 성장하고 있다고 소개된다. 현재 버전은 블루스택 5이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 제이 비쉬나프, 수만 사라프, 그리고 맥아피의 CTO이자 Cloud.com의 이사였던 로젠 샤르마가 설립했다. 앤드리슨 호로위츠, 레드 포인트, 삼성전자, 인텔, 퀄컴, 시트릭스 시스템즈, 레이다 파트너스, 라이터 파트너, AMD 등이 투자를 지원했다. 2011년 5월 25일 샌프란시스코에서 열린 시트릭스 시스템즈 컨퍼런스에서 CEO 마크 템플턴이 블루스택 앱플레이어 베타 버전을 시연했고, 이를 계기로 파트너십을 맺었다. 알파 버전은 2011년 10월 11일에 출시되었고, 베타 테스트는 2014년 6월 7일에 종료되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "블루스택 앱플레이어는 윈도우와 macOS에서 가상화 프로그램 형식으로 사용하며 무료로 내려받을 수 있다. 고급 옵션 기능에는 유료 월간 구독이 필요하고, 마우스와 키보드를 비롯한 외부 터치 패드 컨트롤을 제공한다. 2015년 4월 24일에는 구글 플레이의 140만 가지 앱 중 96% 이상을 실행할 수 있는 것으로 밝혀졌고, 2015년 12월에는 다운로드가 1억 900만 건을 돌파했다. 2024년 12월에는 Apple Silicon Mac용 블루스택 에어를 출시했다. 이 제품은 M1, M2, M3, M4 프로세서에서 기본적으로 작동하도록 최적화되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 버전은 블루스택 5이다. 2024년 12월에 출시된 블루스택 에어는 Apple Silicon 칩(M1-M4)을 탑재한 Mac을 지원하며, macOS 11(Big Sur) 이상, RAM 8GB, 디스크 공간 12GB가 필요하다. 윈도우용 최소 요구 사항은 윈도우 7 이상, RAM 4GB, 디스크 공간 10GB, 인텔 또는 AMD 프로세서이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "윈도우와 macOS에서 안드로이드 앱과 모바일 게임을 실행하는 앱플레이어를 내세운 미국 기업이다. Apple Silicon Mac 전용 블루스택 에어도 선보였다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bluestacks.com",
+  "entityLinks": {
+   "wikidata": "Q4928776",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4928776",
+    "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A3%A8%EC%8A%A4%ED%83%9D",
+    "https://en.wikipedia.org/wiki/BlueStacks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4928776",
+   "country": "미국",
+   "inception": "2011",
+   "headquarters": "캠벨",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「블루스택」 요약과 위키데이터 Q4928776 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

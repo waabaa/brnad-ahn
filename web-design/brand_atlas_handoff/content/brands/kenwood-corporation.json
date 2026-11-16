@@ -1,0 +1,66 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q17180",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kenwood-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kenwood-corporation",
+  "urlSlug": "kenwood-corporation",
+  "name": "켄우드",
+  "nameKo": "켄우드",
+  "nameEn": "Kenwood Corporation",
+  "definition": "켄우드(Kenwood Corporation)는 일본의 전자 회사이다. Hi-Fi 홈·개인 오디오, 프로페셔널 2방향 라디오 통신 장비, 아마추어 무선(햄) 장비를 설계, 개발하고 마케팅한다.",
+  "summary": "켄우드(Kenwood Corporation)는 일본의 전자 회사이다. Hi-Fi 홈·개인 오디오, 프로페셔널 2방향 라디오 통신 장비, 아마추어 무선(햄) 장비를 설계, 개발하고 마케팅한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "하이파이 오디오와 프로페셔널·아마추어 무선 통신 장비를 함께 다루는 일본의 전자 회사이며, 모기업은 JVC 켄우드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "켄우드는 일본의 전자 회사로, 일본어 표기는 株式会社ケンウッド이다. 1946년에 설립되었으며 본사는 하치오지시에 있다. Hi-Fi 홈·개인 오디오, 프로페셔널 2방향 라디오 통신 장비, 아마추어 무선(햄) 장비를 설계, 개발하고 마케팅한다. 오디오 분야에서는 스피커와 함께 KA 시리즈, NV 시리즈 하이파이 시스템 등의 제품군을 갖추고 있다. 무선 통신 분야에서는 업무용인 프로페셔널 2방향 라디오 장비와 취미용인 아마추어 무선 장비라는 두 갈래의 제품을 다루고, 오디오 분야와 함께 회사의 사업을 이룬다. 현재 모기업은 JVC 켄우드이며, 일본 기업으로서 가정용 오디오와 무선 통신 장비를 아우른다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "켄우드의 제품은 스피커와 하이파이 시스템, 무선 통신 장비로 나뉜다. 스피커 제품군에는 X 시리즈가 있다. 하이파이 시스템에는 KA 시리즈와 NV 시리즈가 있다. KA 시리즈의 앰프에는 KA-1000, KA-2000, KA-2002, KA-2200, KA-3100, KA-6100, KA-7002, KA-7100, KA-7300, KA-8100, KA-9100 등이 포함된다. 근거에는 KA-1000이 1980년 11월, KA-2002가 1970년 9월, KA-7100이 1976년 10월로 표기되어 있고, NV 시리즈에는 NV-301/701이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "하이파이 오디오와 프로페셔널·아마추어 무선 통신 장비를 함께 다루는 일본의 전자 회사이며, 모기업은 JVC 켄우드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.jvckenwood.com/",
+  "entityLinks": {
+   "wikidata": "Q17180",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q17180",
+    "https://ko.wikipedia.org/wiki/%EC%BC%84%EC%9A%B0%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Kenwood_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q17180",
+   "country": "일본",
+   "inception": "1946",
+   "headquarters": "하치오지시",
+   "founders": [],
+   "parent": "JVC 켄우드",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「켄우드」 요약과 위키데이터 Q17180 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

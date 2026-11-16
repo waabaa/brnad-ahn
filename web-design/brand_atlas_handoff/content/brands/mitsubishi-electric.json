@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q53257",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mitsubishi-electric-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mitsubishi-electric",
+  "urlSlug": "mitsubishi-electric",
+  "name": "미쓰비시 전기",
+  "nameKo": "미쓰비시 전기",
+  "nameEn": "Mitsubishi Electric",
+  "definition": "미쓰비시 전기(Mitsubishi Electric)는 일본 도쿄에 본사를 둔 다국적 전기·전자 기기 제조 기업이다. 미쓰비시 그룹의 일원으로 가전, 승강기, 공조, 공장 자동화 시스템 등을 생산한다.",
+  "summary": "미쓰비시 전기(Mitsubishi Electric)는 일본 도쿄에 본사를 둔 다국적 전기·전자 기기 제조 기업이다. 미쓰비시 그룹의 일원으로 가전, 승강기, 공조, 공장 자동화 시스템 등을 생산한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "승강기, 공조, 가전부터 공장 자동화, 반도체, 인공위성까지 아우르는 미쓰비시 그룹 계열의 종합 전기·전자 기기 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미쓰비시 전기는 가전제품과 전기 설비를 만드는 일본의 다국적 제조 기업이며 본사는 도쿄에 있다. 미쓰비시 그룹의 일원으로 승강기와 에스컬레이터, 고급 가전, 공조, 공장 자동화 시스템, 철도 시스템, 전동기, 펌프, 반도체, 디지털 사이니지, 인공위성 등을 생산한다. 미쓰비시 중공업과 뿌리가 같아 에어컨 같은 일부 제품군은 두 회사의 제품과 겹친다. 1993년부터 2005년까지 70층 규모의 요코하마 랜드마크 타워에서 세계에서 가장 빠른 승강기 기록을 보유했다. 2023년 세계지식재산기구(WIPO)의 PCT 연례 보고서에서 PCT 제도로 공개된 특허 출원 건수 기준 세계 4위에 올랐으며, 그해 2,152건이 공개되었다. 사업 영역은 에너지, 정보통신, 교통, 자동차 부품, 우주 시스템까지 걸쳐 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "미쓰비시 전기는 1921년 고베 조선소에 있던 미쓰비시 조선(미쓰비시 중공업) 전기기계 제조 부문에서 분리되어 설립되었다. 미쓰비시 그룹의 또 다른 핵심 회사인 미쓰비시 중공업이 당시 미쓰비시 조선 시절에 선박용 전동기 공장을 분리한 것이 출발점이었다. 이후 사업을 다각화해 주요 전자 기업으로 성장했다. 2005년 일본 가전 제조사 Nihon Kentetsu를 인수했다. 2015년에는 HVAC·HPAC 장비를 설계·생산하는 이탈리아 기업 DeLclima를 인수했으며, 이 회사는 2017년 Mitsubishi Electric Hydronics & IT Cooling Systems SpA로 이름을 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "공조 제품으로 룸 에어컨(Mr. Slim, Kirigamine), 패키지 에어컨, 가변 냉매 유량(VRF) 시스템 CITY MULTI, 에코큐트(Ecodan, DIAHOT), 환기 장치를 판매한다. 가전으로는 냉장고, 공기청정기, 제습기, 청소기, 선풍기, 밥솥, 토스터가 있고, 건물 시스템으로는 승강기, 에스컬레이터, 무빙워크, 고속 핸드 드라이어 Jet Towel이 있다. 공장 자동화 분야에서는 프로그래머블 컨트롤러, AC 서보, 인버터, 산업용·협동 로봇, 가공기를 공급한다. 에너지 시스템은 발전 시스템, ITER 핵융합로, 태양광 패널, 송배전 시스템을 포함하고, 반도체·디바이스는 전력 모듈, 드라이버 IC, 센서, 고주파 소자, 광소자, TFT-LCD 모듈을 포함한다. 교통 시스템, 자동차 부품, Diamond Vision 같은 대형 영상 표시 장치, 프로젝터, 프린터, 우주 시스템도 사업에 속한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "미쓰비시 전기는 미쓰비시 그룹에 속한 기업으로 본사는 도쿄 지요다구에 있다. 2023년 구마모토현에 새 반도체 공장을 짓겠다는 계획을 발표했으며, 2026년 4월 생산 개시를 목표로 했다. 2026년 8월 20일에는 오클라호마에 본사를 둔 에너지 관리 소프트웨어 업체 PCI Energy Solutions를 인수하기로 합의했으며, 규제 당국 승인 등을 조건으로 2026년 중 완료될 예정이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "승강기, 공조, 가전부터 공장 자동화, 반도체, 인공위성까지 아우르는 미쓰비시 그룹 계열의 종합 전기·전자 기기 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mitsubishielectric.com/",
+  "entityLinks": {
+   "wikidata": "Q53257",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q53257",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C_%EC%A0%84%EA%B8%B0",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Electric"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q53257",
+   "country": "일본",
+   "inception": "1921",
+   "headquarters": "지요다구",
+   "founders": [],
+   "parent": "미쓰비시 그룹",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Mitsubishi Electric」 본문과 위키데이터 Q53257 팩트를 근거로 편집",
+  "founded": {
+   "date": "1921-01-15",
+   "precision": "day",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

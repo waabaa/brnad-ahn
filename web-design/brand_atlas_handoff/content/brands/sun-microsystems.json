@@ -1,0 +1,88 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q14647",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sun-microsystems-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sun-microsystems",
+  "urlSlug": "sun-microsystems",
+  "name": "썬 마이크로시스템즈",
+  "nameKo": "썬 마이크로시스템즈",
+  "nameEn": "Sun Microsystems",
+  "definition": "썬 마이크로시스템즈(Sun Microsystems)는 1982년부터 2010년까지 존재한 미국의 기술 기업이다. 컴퓨터, 컴퓨터 하드웨어, 소프트웨어, 정보기술 서비스를 개발하고 판매했다.",
+  "summary": "썬 마이크로시스템즈(Sun Microsystems)는 1982년부터 2010년까지 존재한 미국의 기술 기업이다. 컴퓨터, 컴퓨터 하드웨어, 소프트웨어, 정보기술 서비스를 개발하고 판매했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.733333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Stanford University Network의 머리글자에서 이름을 딴 워크스테이션 기업이다. SPARC, Solaris, Java, NFS 같은 기술을 만들었고 개방형 시스템을 옹호했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "썬 마이크로시스템즈는 컴퓨터와 하드웨어, 소프트웨어, 정보기술 서비스를 개발하고 판매한 미국 기술 기업이다. Unix, RISC 프로세서, 씬 클라이언트 컴퓨팅, 가상화 컴퓨팅 등 여러 핵심 컴퓨팅 기술의 발전에 크게 기여했다. 전반적으로 개방형 시스템, 특히 Unix를 옹호했고 오픈 소스 소프트웨어에도 크게 기여했다. 전성기에는 실리콘밸리에 속한 캘리포니아 샌타클라라에 본사를 두었다. 1986년 주식시장에 상장했으며 종목 코드는 SUNW였다가 2007년 JAVA로 바뀌었다. 2009년 오라클의 인수가 발표되었고, 2010년 1월 27일 거래가 완료되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Sun의 첫 Unix 워크스테이션인 Sun-1의 초기 설계는 스탠퍼드 대학원생이던 Andy Bechtolsheim이 구상했다. 그는 Stanford University Network 통신 프로젝트에 쓸 개인 CAD 워크스테이션으로 이를 설계했으며, Motorola 68000 프로세서를 기반으로 삼았다. 1982년 2월 24일 Scott McNealy, Andy Bechtolsheim, Vinod Khosla가 Sun Microsystems를 설립했고, BSD의 주요 개발자 Bill Joy가 곧 합류해 공동 창업자로 꼽힌다. 회사 이름 Sun은 Stanford University Network의 머리글자에서 유래했다. 첫 분기인 1982년 7월부터 흑자를 냈고, 1989년 InfoWorld는 Sun을 워크스테이션 분야의 확고한 선두라고 평가했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 서버와 워크스테이션은 Motorola 680x0 프로세서로 만들었고, 이후 자체 RISC 기반 SPARC 아키텍처와 AMD Opteron, Intel Xeon 기반 x86 제품으로 넓혀 갔다. 스토리지 시스템과 소프트웨어 제품군도 개발했으며, 여기에는 Unix 기반의 SunOS와 이후의 Solaris 운영체제, 개발자 도구, 웹 인프라 소프트웨어, 아이덴티티 관리 애플리케이션이 포함된다. Sun이 만든 기술로는 Java 프로그래밍 언어, Java 플랫폼, Network File System(NFS)이 있다. 2008년 오픈 소스 관계형 데이터베이스 MySQL을 인수했고, Cray Business Systems Division, Storagetek, VirtualBox를 만든 Innotek GmbH도 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2009년 4월 20일 오라클이 Sun을 인수한다는 사실이 발표되었고, 2010년 1월 27일 거래가 완료되었다. 이에 따라 Sun은 2010년까지 존재한 회사가 되었으며 모기업은 오라클이다. 닷컴 버블 시기에는 주가가 크게 올랐으나 2000년 버블이 붕괴하면서 중요한 하드웨어 부문의 매출이 급락했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Stanford University Network의 머리글자에서 이름을 딴 워크스테이션 기업이다. SPARC, Solaris, Java, NFS 같은 기술을 만들었고 개방형 시스템을 옹호했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sun.com/",
+  "entityLinks": {
+   "wikidata": "Q14647",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q14647",
+    "https://ko.wikipedia.org/wiki/%EC%8D%AC_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Sun_Microsystems"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q14647",
+   "country": "미국",
+   "inception": "1982",
+   "headquarters": "샌타클라라",
+   "founders": [
+    "비노드 코슬라",
+    "안드레아스 폰 베히톨스하임",
+    "빌 조이"
+   ],
+   "parent": "오라클",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Sun Microsystems」 본문과 위키데이터 Q14647 팩트를 근거로 편집",
+  "founded": {
+   "date": "1982-02-24",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

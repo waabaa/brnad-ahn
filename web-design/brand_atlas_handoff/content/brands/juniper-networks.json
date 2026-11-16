@@ -1,0 +1,87 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1049080",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/juniper-networks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "juniper-networks",
+  "urlSlug": "juniper-networks",
+  "name": "주니퍼 네트웍스",
+  "nameKo": "주니퍼 네트웍스",
+  "nameEn": "Juniper Networks",
+  "definition": "주니퍼 네트웍스(Juniper Networks)는 미국 캘리포니아주 서니베일에 본사를 두고 라우터, 스위치, 네트워크 관리 소프트웨어, 보안 제품 등을 개발·판매한 네트워킹 기업이다.",
+  "summary": "주니퍼 네트웍스(Juniper Networks)는 미국 캘리포니아주 서니베일에 본사를 두고 라우터, 스위치, 네트워크 관리 소프트웨어, 보안 제품 등을 개발·판매한 네트워킹 기업이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "인터넷 트래픽에 최적화된 패킷 기반 라우터로 출발해 Cisco의 시장 지배력에 도전했고, 2025년 HPE에 인수된 네트워킹 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 1996년 설립되어 인터넷 서비스 제공업체가 사용하는 코어 라우터로 출발한 네트워킹 장비 기업이다. 이후 에지 라우터, 보안, 기업용 시장으로 사업을 넓혔고, 2014년부터 2025년까지는 소프트웨어 정의 네트워킹 제품 개발에 주력했다. 2001년에는 코어 라우터 시장에서 37%의 점유율을 차지해 Cisco의 시장 지배력에 도전했다. 연 매출은 2004년 US$4 billion, 2014년 $4.63 billion에 이르렀다. 2024년 1월 Hewlett Packard Enterprise(HPE)에 전액 인수되기로 합의했고, 인수는 2025년 7월 2일 완료되었다. 이로써 독립 기업으로서의 역사는 2025년에 마무리되어 현재는 HPE에 인수된 기업으로 분류된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Xerox의 Palo Alto Research Center(PARC) 소속 과학자 Pradeep Sindhu가 1995년 휴가 중 회사의 구상을 떠올렸고, 1996년 2월 회사를 설립했다. Sindhu는 인터넷 트래픽에 최적화된 패킷 기반 라우터를 만들고자 했으며, Sun Microsystems의 Bjorn Liencres와 MCI Communications의 Dennis Ferguson이 엔지니어로 합류했다. 설립 약 7개월 뒤 Scott Kriens가 CEO로 임명되었고 Sindhu는 최고기술책임자를 맡았다. 1997년에는 Siemens, Ericsson, Nortel, 3Com 등이 참여한 투자 라운드를 거쳤고, 1999년 6월 NASDAQ에 상장했다. 2000년 매출은 전년 대비 600% 늘어 $673 million이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기에는 M40 라우터가 유일한 제품이었고, 1999년 50개 통신사가 이를 사용했다. 주력 제품은 인터넷 서비스 제공업체가 IP 주소 조회와 인터넷 트래픽 전달에 쓰는 코어 라우터였다. 2002년 Unisphere를 인수해 에지 라우터 시장에 진입했고, 2003년 자체 보안 툴킷 JProtect로 IT 보안 시장에 들어간 뒤 이듬해 NetScreen Technologies를 인수했다. 2000년대 초에는 기업 시장에도 진입해 2005년에는 기업 부문이 매출의 3분의 1을 차지했다. 제품군은 라우터, 스위치, 네트워크 관리 소프트웨어, 보안 제품, 소프트웨어 정의 네트워킹 기술로 구성되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 1월 HPE가 약 $14 billion에 전액 인수하기로 합의했고, 인수는 2025년 7월 2일 완료되었다. 2014년부터 2025년까지 회사는 새로운 소프트웨어 정의 네트워킹 제품 개발에 집중했다. 2026년에는 HPE가 합병을 승인하지 않은 미국 법무부의 반독점 담당자들이 해임되도록 보수 성향 해결사와 협력했다는 보도가 나왔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "인터넷 트래픽에 최적화된 패킷 기반 라우터로 출발해 Cisco의 시장 지배력에 도전했고, 2025년 HPE에 인수된 네트워킹 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://juniper.net",
+  "entityLinks": {
+   "wikidata": "Q1049080",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1049080",
+    "https://ko.wikipedia.org/wiki/%EC%A3%BC%EB%8B%88%ED%8D%BC_%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Juniper_Networks"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1049080",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "서니베일",
+   "founders": [
+    "프라딥 신두"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Juniper Networks」 본문과 위키데이터 Q1049080 팩트를 근거로 편집",
+  "founded": {
+   "date": "1996-02-06",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki",
+    "text"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

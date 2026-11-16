@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q503673",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/pentax-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "pentax",
+  "urlSlug": "pentax",
+  "name": "펜탁스",
+  "nameKo": "펜탁스",
+  "nameEn": "Pentax",
+  "definition": "펜탁스(Pentax)는 1919년 일본에서 설립된 카메라 전문 제조 브랜드이다. 현재는 리코 계열의 리코이미징이 카메라 사업을 맡고 있으며, K 마운트 기술을 보유하고 있다.",
+  "summary": "펜탁스(Pentax)는 1919년 일본에서 설립된 카메라 전문 제조 브랜드이다. 현재는 리코 계열의 리코이미징이 카메라 사업을 맡고 있으며, K 마운트 기술을 보유하고 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "펜탁스는 펜타프리즘과 미러-리플렉스 시스템을 합친 이름을 가진 카메라 브랜드로, 고유의 K 마운트 기술을 바탕으로 DSLR과 645 중형 카메라를 만든다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "펜탁스(Pentax)는 일본 도쿄도에 본사를 둔 카메라 브랜드로, 여러 광학기기 분야의 사업을 진행해 왔으나 대표적인 제품은 사진기이다. 다른 카메라 제조 업체와 마찬가지로 고유의 K 마운트 기술을 보유하고 있다. SLR 카메라의 근간을 이루는 펜타프리즘과 미러-리플렉스 시스템을 처음 만들고 채용한 회사로 알려져 있다. 사명도 이 두 시스템을 합쳐서 지었다고 한다. 2007년 호야 주식회사와 통합되었고, 2011년 10월 리코에 카메라 사업부가 인수되었다. 현재는 리코이미징 주식회사가 이 사업을 이어가고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "펜탁스는 1919년 일본에서 설립되었다. 이 회사는 SLR 카메라의 근간을 이루는 펜타프리즘과 미러-리플렉스 시스템을 처음 만들고 채용했으며, 사명은 이 두 시스템을 합쳐서 지었다고 한다. 2005년에는 삼성과 기술 제휴를 하였고, 삼성은 이를 바탕으로 GX-1L, GX-1S, GX-10, GX-20을 출시했다. 이 모델들은 *ist DL2, *ist DS2, K10D, K20D와 동일한 기능을 가지고 있다. 2007년 8월 14일에는 호야 주식회사와 통합되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "펜탁스의 대표 제품은 사진기이며, K 마운트 카메라와 K 마운트 렌즈를 만든다. DSLR 제품군은 K 시리즈와 *ist 시리즈로 나뉜다. K 시리즈에는 K10D, K100D, K20D, K-7, K-5, K-30, K-3, K-1 등이 있고, *ist 시리즈에는 *ist D, *ist DS, *ist DL 등이 있다. 중형 카메라는 645 시리즈(645, 645N, 645D, 645Z)와 67 시리즈(67, 67 II)로 나뉜다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2011년 10월 펜탁스는 일본의 사무기기, 카메라 제조 업체인 리코에 인수되었으며, 이때 카메라 사업부만 인수되었다. 현재 펜탁스 카메라는 리코이미징 주식회사(Ricoh Imaging Company, Ltd.)가 맡고 있다. 모기업은 리코이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "펜탁스는 펜타프리즘과 미러-리플렉스 시스템을 합친 이름을 가진 카메라 브랜드로, 고유의 K 마운트 기술을 바탕으로 DSLR과 645 중형 카메라를 만든다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ricoh-imaging.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q503673",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q503673",
+    "https://ko.wikipedia.org/wiki/%ED%8E%9C%ED%83%81%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Pentax"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q503673",
+   "country": "일본",
+   "inception": "1919",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": "리코",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「펜탁스」 요약과 위키데이터 Q503673 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

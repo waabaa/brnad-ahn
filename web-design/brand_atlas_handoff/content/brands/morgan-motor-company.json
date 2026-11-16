@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1165625",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/morgan-motor-company-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "morgan-motor-company",
+  "urlSlug": "morgan-motor-company",
+  "name": "모건 모터 컴퍼니",
+  "nameKo": "모건 모터 컴퍼니",
+  "nameEn": "Morgan Motor Company",
+  "definition": "모건 모터 컴퍼니(Morgan Motor Company)는 H.F.S. Morgan이 세운 영국의 자동차 제조사이다. 말번 링크에 본사를 두고, 차체 골조에 물푸레나무 목재를 사용하는 자동차를 만든다.",
+  "summary": "모건 모터 컴퍼니(Morgan Motor Company)는 H.F.S. Morgan이 세운 영국의 자동차 제조사이다. 말번 링크에 본사를 두고, 차체 골조에 물푸레나무 목재를 사용하는 자동차를 만든다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "한 세기 동안 물푸레나무 목재로 차체 골조를 짜 온 영국 자동차 제조사로, 전통 기법을 고수하며 소량 생산한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "모건은 영국 말번의 말번 링크에 본사를 둔 자동차 제조사이다. 유럽 투자그룹 InvestIndustrial이 과반 지분을 보유하고 있으며, 직원은 약 220명이다. 2025년 9월 기준 연간 630대의 자동차를 생산한다. 모건 자동차는 한 세기 동안 차체 골조에 물푸레나무 목재를 써 왔고 21세기에도 같은 방식을 쓴다는 점이 특이하다. 공장의 체험 센터와 박물관에서는 에드워드 시대부터 오늘날까지의 회사 역사와 자동차 기술의 발전, 주요 역사적 모델을 전시한다. 1990년에는 Sir John Harvey-Jones가 TV 프로그램 Troubleshooter에서 이 회사를 비평하며 생산 현대화를 권고했으나, 회사는 전통 기법이 매력의 일부라며 이를 거부했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "H.F.S. Morgan은 1904년 Great Western Railway를 떠나 말번 링크에서 자동차 판매·정비 업체를 공동 설립했다. 1909년에는 자신이 쓸 자동차를 설계해 제작했으며, 그 전에 Malvern College 엔지니어링 작업장에서 최초의 독립 전륜 서스펜션을 개발했다. 이듬해 생산을 시작했고 회사는 번창했다. 첫 4륜차는 1935년에 나왔고 1952년에 3륜차를 단계적으로 중단했다. Morgan은 1959년 77세로 사망할 때까지 회사를 운영했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 모건은 3륜차를 생산했으며 경주용과 투어링 모델을 모두 갖추고 있었다. 제1차 세계대전 무렵 3륜차 생산량은 1000대에 가까웠고, 전쟁이 끝난 뒤 곧바로 생산을 재개했다. 첫 4륜차는 1935년에 등장했고 3륜차는 1952년에 단계적으로 중단했다. 현재는 연간 630대의 자동차를 제조하며, 차체 골조에는 물푸레나무 목재를 사용한다. 말번 링크의 공장에는 체험 센터와 박물관, 가이드 투어, 현장 딜러십, 레스토랑이 함께 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 3월 5일자 보도자료로 이탈리아 투자그룹 InvestIndustrial의 과반 지분 인수가 발표되었다. 그 전까지 회사는 대부분 Morgan 가문이 소유했으며, 가문은 소수 지분을 유지하고 경영에도 계속 참여한다고 발표되었다. 2024년 10월에는 Matthew Hole이 전 CEO의 뒤를 이어 상무이사를 맡는다고 발표되었다. 현재 직원은 약 220명이고 2025년 9월 기준 연간 630대를 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "한 세기 동안 물푸레나무 목재로 차체 골조를 짜 온 영국 자동차 제조사로, 전통 기법을 고수하며 소량 생산한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.morgan-motor.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q1165625",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1165625",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%EA%B1%B4_%EB%AA%A8%ED%84%B0_%EC%BB%B4%ED%8D%BC%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Morgan_Motor_Company"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1165625",
+   "country": "영국",
+   "inception": "1909",
+   "headquarters": "말번",
+   "founders": [
+    "H.F.S. Morgan"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Morgan Motor Company」 본문과 위키데이터 Q1165625 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

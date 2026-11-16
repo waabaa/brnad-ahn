@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q898750",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/teva-pharmaceutical-industries-ltd-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "teva-pharmaceutical-industries-ltd",
+  "urlSlug": "teva-pharmaceutical-industries-ltd",
+  "name": "테바 파마수티컬스",
+  "nameKo": "테바 파마수티컬스",
+  "nameEn": "Teva Pharmaceutical Industries Ltd.",
+  "definition": "테바 파마수티컬스(Teva Pharmaceutical Industries Ltd.)는 이스라엘 텔아비브에 본사를 둔 다국적 제약 기업이다. 주로 복제약을 전문으로 한다.",
+  "summary": "테바 파마수티컬스(Teva Pharmaceutical Industries Ltd.)는 이스라엘 텔아비브에 본사를 둔 다국적 제약 기업이다. 주로 복제약을 전문으로 한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "미국의 화이자를 잠시나마 넘어섰을 때 최대의 제네릭 제약사였던, 복제약 전문 이스라엘 다국적 제약 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "테바 파마수티컬스는 1901년에 설립된 이스라엘의 다국적 제약 기업으로, 본사를 텔아비브에 두고 있다. 주로 복제약을 전문으로 하며, 제품 목록에는 아목시실린, 아토바스타틴, 오메프라졸 등 여러 성분이 올라 있다. 한때 미국의 화이자를 잠시나마 넘어섰을 때에는 최대의 제네릭 제약사 자리에 오르기도 했다. 이스라엘, 북아메리카, 유럽, 오스트레일리아, 남아메리카에 걸쳐 시설을 두고 있어 사업 기반이 여러 지역에 나뉘어 있다. 텔아비브 증권거래소에 상장되어 있으며, PhRMA의 일원이다. 위키데이터에는 창업자가 Günther Friedländer로, 본사 소재지가 Ramat HaHayal로 기록되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 기업은 1901년에 설립되었으며, 창업자는 Günther Friedländer이다. 위키데이터에 따르면 국가는 이스라엘이고 본사는 Ramat HaHayal에 있으며, 한국어 위키백과는 본사가 텔아비브에 있다고 설명한다. 이후 성장하면서 이스라엘, 북아메리카, 유럽, 오스트레일리아, 남아메리카에 시설을 둔 다국적 기업이 되었다. 미국의 화이자를 잠시나마 넘어섰을 때에는 최대의 제네릭 제약사이기도 했다. 주로 복제약을 전문으로 하며 텔아비브 증권거래소에 상장되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "테바 파마수티컬스의 제품은 주로 복제약이다. 목록에는 아바카비르, 아목시실린, 아토바스타틴, 아지트로마이신, 아리피프라졸, 쿠에티아핀, 오메프라졸이 포함되어 있다. 이 밖에도 시프로플록사신, 세티리진, 클로나제팜, 가바펜틴, 프레가발린, 실데나필, 타달라필 등이 올라 있다. 독소루비신, 에피루비신, 메토트렉세이트, 타목시펜 같은 성분도 제품 목록에 들어 있다. 필그라스팀, 테모달, 조니사마이드 등도 함께 소개되어 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 테바 파마수티컬스는 텔아비브 증권거래소에 상장되어 있으며 PhRMA의 일원이다. 시설은 이스라엘, 북아메리카, 유럽, 오스트레일리아, 남아메리카에 위치해 있다. 제품 목록에는 아바카비르부터 조니사마이드에 이르기까지 여러 성분의 복제약이 올라 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국의 화이자를 잠시나마 넘어섰을 때 최대의 제네릭 제약사였던, 복제약 전문 이스라엘 다국적 제약 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.tevapharm.com/",
+  "entityLinks": {
+   "wikidata": "Q898750",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q898750",
+    "https://ko.wikipedia.org/wiki/%ED%85%8C%EB%B0%94_%ED%8C%8C%EB%A7%88%EC%88%98%ED%8B%B0%EC%BB%AC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Teva_Pharmaceuticals"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q898750",
+   "country": "이스라엘",
+   "inception": "1901",
+   "headquarters": "Ramat HaHayal",
+   "founders": [
+    "Günther Friedländer"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「테바 파마수티컬스」 요약과 위키데이터 Q898750 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

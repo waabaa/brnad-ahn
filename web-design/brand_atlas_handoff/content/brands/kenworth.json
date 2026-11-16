@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q774830",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kenworth-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kenworth",
+  "urlSlug": "kenworth",
+  "name": "켄워스",
+  "nameKo": "켄워스",
+  "nameEn": "Kenworth",
+  "definition": "켄워스(Kenworth)는 미국의 상용차 전문 자동차 제조사이다. 본사는 커클랜드에 있으며, 1945년부터 파카 그룹의 자회사로 트럭 모델을 생산해 왔다.",
+  "summary": "켄워스(Kenworth)는 미국의 상용차 전문 자동차 제조사이다. 본사는 커클랜드에 있으며, 1945년부터 파카 그룹의 자회사로 트럭 모델을 생산해 왔다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "파카 그룹 산하의 미국 상용차 메이커로, 1912년 게르링거 자동차에서 출발해 아메리카·오세아니아 모델 라인업을 갖춘 트럭 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "켄워스는 미국의 상용차 전문 자동차 메이커이며, 트럭 모델을 중심으로 차종을 운영한다. 본사는 커클랜드에 있으며, 모기업은 파카 그룹이다. 1912년 게르링거 자동차(Gerlinger Motor Car)로 출발해 1923년에 현재의 사명으로 바꾸었고, 1945년에 파카 그룹에 인수되어 자회사가 되었다. 생산 차종은 아메리카 모델과 오세아니아 모델로 나뉘며, 현재 생산 차종에는 W900, T800, T660, T680, T440 등이 포함된다. 1951년 멕시코, 1962년 오세아니아에 진출하기 위해 각각 켄워스 멕시카나와 켄워스 오세아니아를 설립했다. 1977년에는 영화 스모키 밴디트에 이 회사가 제작한 W900A 모델이 출연한 바 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1912년에 게르링거 자동차(Gerlinger Motor Car)로 설립되었다. 1914년에 6기통 디젤 엔진 개발에 착수해 1915년에 출시했으나 재정난이 이어졌고, 사업가 프레드릭 켄트(Frederick Kent)가 1917년에 걸식스 자동차(Gersix Motor Co.)로 사명을 변경했다. 1919년에 프레드릭 켄트가 경영에서 물러나 아들 헤리 켄트(Harry Kent)가 회사를 경영하게 되었다. 1923년에 현재의 사명으로 변경했고, 1933년에 최초로 디젤 엔진을 탑재한 트럭을 출시했다. 제2차 세계대전 당시에는 폭격기용 부품과 4톤형 트럭을 납품했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산 차종은 아메리카 모델과 오세아니아 모델로 나뉜다. 아메리카 모델에는 C500B / C554B(오프 하이웨이), W900(W900S, W900L, W900B), T800, T660, T680, T440(클래스 7/8), T370(클래스 7), T270(클래스 6), T170(클래스 5) 등이 있다. 오세아니아 모델에는 T359, T409, T409SAR, T609, T659, T909, C509, C510, C540, K200이 있다. 과거 생산 차종으로는 T600, T450, T700, T2000, LW900, W925, K100 등이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1945년 미국의 파카 그룹에 인수된 뒤 자회사로 운영되고 있으며, 본사는 커클랜드에 있다. 1951년에 설립한 켄워스 멕시카나와 1962년에 설립한 켄워스 오세아니아를 통해 멕시코와 오세아니아 시장에도 진출해 있다. 아메리카 모델 중에는 T440(클래스 7/8), T370(클래스 7), T270(클래스 6), T170(클래스 5)처럼 클래스별로 구분된 차종이 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "파카 그룹 산하의 미국 상용차 메이커로, 1912년 게르링거 자동차에서 출발해 아메리카·오세아니아 모델 라인업을 갖춘 트럭 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.kenworth.com/",
+  "entityLinks": {
+   "wikidata": "Q774830",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q774830",
+    "https://ko.wikipedia.org/wiki/%EC%BC%84%EC%9B%8C%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Kenworth"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q774830",
+   "country": "미국",
+   "inception": "1923",
+   "headquarters": "커클랜드",
+   "founders": [],
+   "parent": "파카 그룹",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「켄워스」 요약과 위키데이터 Q774830 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q848977",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/harland-and-wolff-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "harland-and-wolff",
+  "urlSlug": "harland-and-wolff",
+  "name": "해럴드 앤 울프",
+  "nameKo": "해럴드 앤 울프",
+  "nameEn": "Harland and Wolff",
+  "definition": "해럴드 앤 울프(Harland and Wolff)는 1861년에 설립된 영국의 조선·철구조물 제작 기업이다. 선박 수리, 조선, 해양 건설을 전문으로 한다.",
+  "summary": "해럴드 앤 울프(Harland and Wolff)는 1861년에 설립된 영국의 조선·철구조물 제작 기업이다. 선박 수리, 조선, 해양 건설을 전문으로 한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "해럴드 앤 울프는 Titanic을 건조한 조선소로 알려진 영국 기업이다. 벨파스트에서 출발해 조선, 수리, 해양 건설로 사업을 이어 왔다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "해럴드 앤 울프는 선박 수리, 조선, 해양 건설을 전문으로 하는 영국 기업이다. 본사는 런던에 있으며 벨파스트, Arnish, Appledore, Methil에 사업장을 두고 있다. 현재는 방위, 에너지, 크루즈·페리, 재생에너지, 상업 부문을 지원하는 데 집중한다. 기술 서비스, 제작·건설, 수리·유지보수, 운용 지원, 개조, 해체 서비스를 제공한다. 5년 사이 두 번째로 법정관리에 들어갔으며, 2025년 1월 Navantia에 인수되었다. 20세기 초에는 White Star Line의 대형 여객선 대부분을 건조한 것으로 알려져 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "해럴드 앤 울프는 1861년 Edward Harland와 함부르크 출신 Gustav Wilhelm Wolff가 설립했다. 1858년 Harland는 당시 총괄 매니저로서 고용주 Robert Hickson에게서 Queen's Island의 작은 조선소를 인수했다. 이후 조수였던 Wolff를 동업자로 삼았고, 새로 법인화된 조선소가 처음 건조한 세 척은 Bibby Line을 위한 것이었다. Harland는 상부 갑판을 목재에서 철재로 바꾸고 선체 바닥을 더 평평하게 하는 등의 개선을 이루었다. 1895년 Harland가 사망한 뒤 William James Pirrie가 회장이 되어 1924년까지 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "해럴드 앤 울프는 20세기 초 White Star Line의 대형 여객선 대부분을 건조했으며, 여기에는 Olympic급 세 척인 RMS Olympic, RMS Titanic, HMHS Britannic이 포함된다. 이 밖에 Royal Navy의 HMS Belfast, Royal Mail Line의 Andes, Shaw, Savill & Albion의 Southern Cross, P&O의 Canberra 등을 건조했다. 제1차 세계대전 중에는 Abercrombie급 모니터함과 순양함을 건조했다. 2022년에는 Team Resolute의 일원으로 Royal Fleet Auxiliary의 Fleet Solid Support 선박 3척 건조 계약을 따냈다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "해럴드 앤 울프는 본사를 런던에 두고 벨파스트, Arnish, Appledore, Methil에서 사업장을 운영한다. 5년 사이 두 번째로 법정관리에 들어간 뒤 2025년 1월 Navantia에 인수되었다. 현재는 방위, 에너지, 크루즈·페리, 재생에너지, 상업의 다섯 부문을 지원하는 데 집중한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "해럴드 앤 울프는 Titanic을 건조한 조선소로 알려진 영국 기업이다. 벨파스트에서 출발해 조선, 수리, 해양 건설로 사업을 이어 왔다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.harland-wolff.com/",
+  "entityLinks": {
+   "wikidata": "Q848977",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q848977",
+    "https://ko.wikipedia.org/wiki/%ED%95%A0%EB%9E%9C%EB%93%9C_%EC%95%A4%EB%93%9C_%EC%9A%B8%ED%94%84",
+    "https://en.wikipedia.org/wiki/Harland_%26_Wolff"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q848977",
+   "country": "영국",
+   "inception": "1861",
+   "headquarters": "벨파스트",
+   "founders": [
+    "Edward Harland",
+    "Gustav Wilhelm Wolff"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Harland & Wolff」 본문과 위키데이터 Q848977 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

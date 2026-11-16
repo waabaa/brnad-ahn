@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q39898",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/nsu-motorenwerke-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "nsu-motorenwerke",
+  "urlSlug": "nsu-motorenwerke",
+  "name": "NSU 모토렌베르케",
+  "nameKo": "NSU 모토렌베르케",
+  "nameEn": "NSU Motorenwerke",
+  "definition": "NSU 모토렌베르케(NSU Motorenwerke)는 1873년에 설립된 독일의 자동차·오토바이·자전거 제조사이다. 1969년 폭스바겐 그룹에 인수되어 Auto Union과 합병했으며, 이는 결국 Audi로 이어졌다.",
+  "summary": "NSU 모토렌베르케(NSU Motorenwerke)는 1873년에 설립된 독일의 자동차·오토바이·자전거 제조사이다. 1969년 폭스바겐 그룹에 인수되어 Auto Union과 합병했으며, 이는 결국 Audi로 이어졌다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "오토바이 생산량 세계 1위에 올랐고 세계 최초의 Wankel 엔진 자동차를 내놓은 Neckarsulm의 제조사로, 훗날 Audi의 뿌리가 된 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "NSU는 독일에서 자동차, 오토바이, 자전거를 만든 제조사이다. 이름 NSU는 본사 소재지인 Neckarsulm의 약칭에서 왔다. 뜨개질 기계 제조업체로 출발해 자전거, 오토바이, 자동차 순으로 사업을 넓혔다. 1955년에는 세계 최대의 오토바이 생산업체가 되었다. 1956년 8월에는 Wilhelm Herz가 미국 유타주 Bonneville Salt Flats에서 시속 200mph(322km/h)보다 빠르게 오토바이를 탄 최초의 사람이 되었다. 1964년에는 Wankel 엔진을 얹은 세계 최초의 자동차를 내놓았다. 1969년 폭스바겐 그룹에 인수된 뒤 Auto Union과 합쳐져 Audi로 이어졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "NSU는 1873년 기술에 밝은 기업가 Christian Schmidt가 도나우 강변의 Riedlingen에서 세운 뜨개질 기계 제조업체 'Mechanische Werkstätte zur Herstellung von Strickmaschinen'에서 시작했다. 회사는 1880년 Neckarsulm으로 옮겼고 빠르게 성장했다. 1886년 자전거 생산을 시작해 첫 제품으로 'Germania'라는 이름의 하이휠러(penny-farthing)를 내놓았다. 1892년경에는 자전거 생산이 뜨개질 기계 생산을 완전히 대체했고, 이 무렵 NSU라는 이름이 브랜드명으로 등장했다. 첫 오토바이는 1901년, 첫 자동차는 1905년에 나왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "전후 첫 모델은 1949년의 NSU Fox이고, 1953년에는 오버헤드 캠축 엔진을 단 250 cc 오토바이 NSU Max가 나왔다. 이 오토바이들은 프레스 강판 모노코크 프레임과 중앙 후방 서스펜션 유닛을 갖췄다. 1957년에는 소형차 Prinz로 자동차 시장에 다시 진입했고, 1964년에는 세계 최초의 Wankel 엔진 자동차인 Wankelspider를 선보였다. 1967년에는 4도어 NSU Ro 80이 공개되었다. 전쟁 중에는 반궤도 오토바이 Kettenkrad(NSU HK101)를 만들었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "NSU는 1969년 폭스바겐 그룹에 인수되었다. 폭스바겐은 NSU를 Auto Union과 합병해 Audi NSU Auto Union AG를 만들었고, 이 회사는 결국 Audi가 되었다. NSU의 마지막 양산 오토바이는 Quick 50이며, 오토바이 생산은 1968년까지 이어졌다. 본사는 Neckarsulm에 있었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "오토바이 생산량 세계 1위에 올랐고 세계 최초의 Wankel 엔진 자동차를 내놓은 Neckarsulm의 제조사로, 훗날 Audi의 뿌리가 된 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q39898",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q39898",
+    "https://ko.wikipedia.org/wiki/NSU_%EB%AA%A8%ED%86%A0%EB%A0%8C%EB%B2%A0%EB%A5%B4%EC%BC%80",
+    "https://en.wikipedia.org/wiki/NSU_Motorenwerke"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q39898",
+   "country": "독일",
+   "inception": "1873",
+   "headquarters": "네카어줄름",
+   "founders": [],
+   "parent": "폭스바겐",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「NSU Motorenwerke」 본문과 위키데이터 Q39898 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

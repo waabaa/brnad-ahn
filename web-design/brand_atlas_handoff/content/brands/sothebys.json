@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q654762",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sothebys-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sothebys",
+  "urlSlug": "sothebys",
+  "name": "소더비스",
+  "nameKo": "소더비스",
+  "nameEn": "Sotheby's",
+  "definition": "소더비스(Sotheby's)는 1744년 영국 런던에서 창립되어 현재 미국 뉴욕에 본사를 둔 경매 회사이다. 미술품 경매를 중심으로 크리스티와 경쟁하는 대표적인 경매 하우스이다.",
+  "summary": "소더비스(Sotheby's)는 1744년 영국 런던에서 창립되어 현재 미국 뉴욕에 본사를 둔 경매 회사이다. 미술품 경매를 중심으로 크리스티와 경쟁하는 대표적인 경매 하우스이다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1744년 영국 런던에서 출발해 현재 뉴욕에 본사를 두고, 크리스티와 세계 대표 미술품 경매사의 자리를 다투는 경매 하우스이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "소더비스는 미국 뉴욕에 본사를 둔 경매 회사로, 영국 런던에서 출발한 다국적 회사이다. 미술품 경매를 중심으로 사업을 하며, 런던의 뉴 본드 스트리트와 맨해튼의 뉴욕 애비뉴에 사무실을 둔다. 세간의 이목을 끄는 수많은 경매가 이곳에서 열렸고, 경매장이 다양한 영화 속 배경으로 등장하기도 했다. 크리스티 경매사와는 세계의 걸출한 미술품 경매사라는 명목상의 타이틀을 놓고 뜨거운 경쟁관계이다. 2004년 8월 온라인 시스템을 도입했고, 2007년 5월에는 러시아 구매자의 관심에 대응해 모스크바에 사무소를 개설했다. 2019년 패트릭 드라히가 인수했고, 이 과정에서 뉴욕 증권 거래소 상장을 폐지했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "소더비스의 전신은 1744년 3월 11일 런던에서 사무엘 베이커(Samuel Baker)가 세운 베이커 경매 회사이다. 존 스탠리 경의 도서관에서 나온 도서를 처분하기 위해 설립되었다. Frank Herrmann과 Brian Learmount는 그 도서 처리가 경매에 의한 것이 아니었고 일반적인 미술품 경매를 추구하지도 않았다고 말했다. 현재의 상장 경매 회사는 1804년 원래 사업의 파트너 두 사람인 Leigh와 Sotheby가 자신들의 도서 판매업을 위해 독립하면서 창립되었다. 1964년에는 미국 최대의 미술 경매인 Parke-Bernet을 구매했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "소더비스의 핵심 사업은 경매이며, 전문가 부서와 미술관, 경매소를 같은 건물에 함께 둔다. 소더비 뉴욕은 이러한 공간 활용을 담은 요크 애비뉴 본부의 공사를 2001년에 마쳤다. 온라인 서비스로는 2004년 8월 도입한 온라인 시스템과 MySotheby's가 있다. MySotheby's에서는 고객이 많은 파일을 관리하고 새로 공개된 작품이 자동으로 업데이트되는 위시 리스트를 만들 수 있게 했다. 뉴욕 사무소는 사내 와인 저장고 Aulden Cellars도 소장한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "소더비스는 1988년 미국의 쇼핑몰 개발자 A. 알프레드 타어브먼이 인수한 뒤 뉴욕 증권거래소에 티커 심볼 BID로 공개했다. 2019년 패트릭 드라히가 37억 달러에 인수하면서 뉴욕 증권 거래소 상장을 폐지했다. 런던의 뉴 본드 스트리트와 맨해튼의 뉴욕 애비뉴에 사무실을 둔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1744년 영국 런던에서 출발해 현재 뉴욕에 본사를 두고, 크리스티와 세계 대표 미술품 경매사의 자리를 다투는 경매 하우스이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sothebys.com/",
+  "entityLinks": {
+   "wikidata": "Q654762",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q654762",
+    "https://ko.wikipedia.org/wiki/%EC%86%8C%EB%8D%94%EB%B9%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Sotheby%27s"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q654762",
+   "country": "미국",
+   "inception": "1744",
+   "headquarters": "뉴욕",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「소더비스」 요약과 위키데이터 Q654762 팩트를 근거로 편집",
+  "founded": {
+   "date": "1744-03-11",
+   "precision": "day",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

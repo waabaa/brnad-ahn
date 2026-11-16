@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1585599",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/harman-international-industries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "harman-international-industries",
+  "urlSlug": "harman-international-industries",
+  "name": "하만 인터내셔널",
+  "nameKo": "하만 인터내셔널",
+  "nameEn": "Harman International Industries",
+  "definition": "하만 인터내셔널(Harman International Industries)은 미국의 음향 기기 브랜드와 업체들이 그룹별로 모여 있는 기업 집단이다. 대한민국 삼성전자의 자회사이다.",
+  "summary": "하만 인터내셔널(Harman International Industries)은 미국의 음향 기기 브랜드와 업체들이 그룹별로 모여 있는 기업 집단이다. 대한민국 삼성전자의 자회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "미국의 음향 기기 브랜드들을 그룹별로 묶은 기업 집단으로, 오디오와 자동차 정보오락 브랜드를 함께 보유한 삼성전자의 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "하만은 미국의 세계적인 음향 기기 브랜드와 업체들이 그룹별로 모여 있는 기업 집단이다. 본사는 스탬퍼드에 있으며, 창업자는 시드니 하만이다. 그룹에는 AKG 어쿠스틱스(마이크·헤드폰), JBL(홈·카 스피커와 전문가용 스피커), harman/kardon(홈·카 오디오), 인피니티, 뱅 앤 올룹슨 오토모티브 등 다양한 브랜드가 속해 있다. 2016년 11월 14일 삼성전자는 이사회에서 신성장 분야인 전장사업을 본격화하고 오디오 사업을 강화하기 위해 하만의 인수를 결정했다. 현재 하만은 대한민국 삼성전자의 자회사로 운영되는 미국 기업이다. 자동차 정보오락(인포테인먼트) 브랜드인 베커와 오디오·신호 처리·조명 브랜드를 함께 보유한 구성이 특징이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시드니 하만과 버나스 카돈은 1953년에 하만 인터내셔널의 전신인 하만 카돈을 설립했다. 하만과 카돈은 둘 다 당시 퍼블릭 어드레스 시스템의 최상위 제조업체 Bogen의 엔지니어였다. 하만은 이후 오디오, 신호 처리, 무대 조명, 자동차 정보오락 분야의 브랜드를 아우르는 기업 집단이 되었다. 2016년 11월 14일 삼성전자는 이사회에서 신성장 분야인 전장사업을 본격화하고 오디오 사업을 강화하기 위해 하만의 인수를 결정했다. 위키데이터에는 본사가 스탬퍼드, 창업자가 시드니 하만으로 기록되어 있다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "마이크와 헤드폰은 AKG 어쿠스틱스가, 앰프는 크라운 인터내셔널이 맡는다. JBL은 홈·카 스피커와 앰프, 전문가용 스피커를 다루고, harman/kardon과 마크 레빈슨 오디오 시스템은 홈·카 오디오를 다룬다. 인피니티와 레벨은 홈·카 스피커 브랜드이며, 셀레늄은 홈, 카, 전문가용 스피커와 앰프, 사운드 테이블·믹서를 다룬다. 신호 처리 분야에는 BSS 오디오와 dbx Professional Products가 있고, 디지털 처리에는 렉시콘이 있으며, AMX는 비디오 스위치 및 제어 장치를 다룬다. 사운드크래프트와 Studer는 믹싱 콘솔, 마틴 프로페셔널은 무대 조명 및 효과, 베커는 자동차 정보오락 브랜드이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "하만은 현재 대한민국 삼성전자의 자회사로, 미국 스탬퍼드에 본사를 두고 있다. 삼성전자는 2016년 11월 14일 이사회에서 하만의 인수를 결정했다. 이는 신성장 분야인 전장사업을 본격화하고 오디오 사업을 강화하기 위한 결정이었다. 2016년 12월 7일 하만은 운전자의 스마트폰 콘텐츠를 운전석 전면 유리에 보여주는 헤드 업 디스플레이 기술을 보유한 스타트업 Navdy에 투자를 결정했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "미국의 음향 기기 브랜드들을 그룹별로 묶은 기업 집단으로, 오디오와 자동차 정보오락 브랜드를 함께 보유한 삼성전자의 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.harman.com/",
+  "entityLinks": {
+   "wikidata": "Q1585599",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1585599",
+    "https://ko.wikipedia.org/wiki/%ED%95%98%EB%A7%8C_%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90",
+    "https://en.wikipedia.org/wiki/Harman_International"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1585599",
+   "country": "미국",
+   "inception": "1980",
+   "headquarters": "스탬퍼드",
+   "founders": [
+    "시드니 하먼"
+   ],
+   "parent": "삼성전자",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「하만 인터내셔널」 요약과 위키데이터 Q1585599 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

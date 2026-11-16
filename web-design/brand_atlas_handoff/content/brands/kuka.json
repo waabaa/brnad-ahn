@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q163566",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/kuka-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "kuka",
+  "urlSlug": "kuka",
+  "name": "KUKA",
+  "nameKo": "KUKA",
+  "nameEn": "KUKA",
+  "definition": "쿠카(KUKA)는 독일 아우크스부르크에 본사를 둔 산업용 로봇 제조업체이다. 중국 전자기업 메이디 그룹(美的集团)의 자회사이다.",
+  "summary": "쿠카(KUKA)는 독일 아우크스부르크에 본사를 둔 산업용 로봇 제조업체이다. 중국 전자기업 메이디 그룹(美的集团)의 자회사이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "쿠카는 1973년 세계 첫 전동 구동 6축 산업용 로봇을 만든 독일 로봇 업체이다. 등황색(RAL 2003) 로봇이 회사의 대표 색상이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "쿠카(KUKA)는 산업용 로봇을 만드는 독일의 제조업체이다. 회사 이름은 Keller und Knappich Augsburg의 첫 문자를 조합한 것이다. 1898년 아우크스부르크에서 출발해 실내조명에서 시작한 뒤 용접과 대형 용기 등으로 영역을 넓혔다. 로봇은 운반, 팔레타이징, 용접, 금속가공, 식품, 플라스틱 등 여러 산업 분야에 쓰인다. 고객으로는 제너럴 모터스, 포드 자동차 회사, BMW, 아우디, 메르세데스-벤츠, 폭스바겐, 보잉, 지멘스, 이케아, 코카콜라 등이 거론된다. 현재는 중국 메이디 그룹 산하에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "쿠카는 1898년에 Johann Josef Keller과 Jakob Knappich이 독일 아우크스부르크에서 설립했다. 처음에는 실내조명에 집중했으며 나중에 용접과 대형 용기 등으로 발전했다. 1973년에 연구 개발한 FAMULUS는 세계 첫 전동 구동 6축 산업용 로봇이다. 당시 Quandt 그룹에 소속되어 있었으나 1980년 분리되어 단독 회사가 되었다. 1995년에는 산업용 로봇 회사 쿠카 로보틱스와 자동화 전문 자회사 쿠카 시스템즈로 나뉘었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "쿠카의 대표 제품은 산업용 로봇이다. 1973년의 FAMULUS를 시작으로 1976년 IR 6/60, 2007년 당시 세계 최대의 6축 산업용 로봇 KUKA TITAN을 내놓았으며 TITAN은 기네스북에 기록되었다. 2010년에는 KR QUANTEC 시리즈, 2012년에는 소형 로봇 시리즈 KR AGILUS를 선보였다. 로봇은 제어판 KCP로 조작하며, 컨트롤러로 KRC1과 KRC2가 있다. 놀이공원용 여객 운반 로봇 Robocoaster도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 중국 메이디 그룹이 약 74% 지분의 인수를 발표했고, 인수는 2017년 1월 완료되었다. 이에 따라 쿠카는 메이디 그룹의 자회사이다. 본사는 독일 아우크스부르크에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "쿠카는 1973년 세계 첫 전동 구동 6축 산업용 로봇을 만든 독일 로봇 업체이다. 등황색(RAL 2003) 로봇이 회사의 대표 색상이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.kuka.com/",
+  "entityLinks": {
+   "wikidata": "Q163566",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q163566",
+    "https://ko.wikipedia.org/wiki/KUKA",
+    "https://en.wikipedia.org/wiki/KUKA"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q163566",
+   "country": "독일",
+   "inception": "1898",
+   "headquarters": "아우크스부르크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「KUKA」 요약과 위키데이터 Q163566 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q168241",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/dunlop-tyres-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dunlop-tyres",
+  "urlSlug": "dunlop-tyres",
+  "name": "던롭 타이어",
+  "nameKo": "던롭 타이어",
+  "nameEn": "Dunlop Tyres",
+  "definition": "던롭 타이어(Dunlop Tyres)는 공기압 타이어의 선구자 John Boyd Dunlop이 1888년 영국 벨파스트에서 시작한 타이어 브랜드이다. 현재는 일본 기업 Sumitomo Rubber Industries가 소유하고 생산한다.",
+  "summary": "던롭 타이어(Dunlop Tyres)는 공기압 타이어의 선구자 John Boyd Dunlop이 1888년 영국 벨파스트에서 시작한 타이어 브랜드이다. 현재는 일본 기업 Sumitomo Rubber Industries가 소유하고 생산한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "John Boyd Dunlop의 공기압 타이어에서 출발해 현재는 Sumitomo Rubber Industries가 소유·운영하며, 지역별로 운영 주체가 나뉘는 타이어 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "던롭은 타이어 브랜드로, 현재 일본 기업 Sumitomo Rubber Industries가 소유하고 생산한다. 2026년 기준 17개국에서 사업을 운영한다. Dunlop 브랜드를 라이선스로 쓰는 회사가 여럿 있으나 대부분 서로 크게 관련이 없으며, 이들 중 다수는 역사적으로 Dunlop Rubber에서 갈라져 나왔다. 일본, 중국, 남아프리카공화국, 인도네시아, 태국, 베트남과 중남미 상당 지역에서는 Sumitomo가 여러 자회사를 통해 직접 운영한다. 다른 시장에서는 일부 지역·제품별 권리가 제3자에게 남아 있다(2026년 중반 기준). Supercars Championship, Super GT, Nürburgring 24 Hours 등 모터스포츠에도 타이어를 공급한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "John Boyd Dunlop이 1888년 영국 벨파스트에서 이 브랜드를 시작했고, 1889년 상업 회사 Dunlop Pneumatic Tyre Co. Ltd.가 설립되었다. 1985년 Dunlop Rubber Company가 BTR plc에 인수되었고, Sumitomo는 Dunlop 브랜드 도로용 타이어의 제조·판매 권리를 획득했다. Sumitomo는 Dunlop 계열 회사를 인수하지는 않았다. 1997년 Sumitomo는 회사 이름에 Dunlop 명칭을 쓰는 데 합의했고 영국 자회사 이름을 Dunlop Tyres Ltd.로 바꿨다. 1999년 Sumitomo와 Goodyear가 합작 사업을 시작했고, Goodyear가 Sumitomo의 유럽·북미 타이어 사업 지분 75%를 매입했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Dunlop은 승용차·경트럭·트럭용 도로 타이어와 오토바이 타이어를 다룬다. 2015년 10월 Sumitomo Rubber Industries는 Goodyear와의 16년 글로벌 합작을 해소하면서 북미의 Dunlop 오토바이 타이어 브랜드를 인수했다. 영국에서는 독일, 슬로베니아, 폴란드 등 세계 각지의 공장에서 타이어를 수입해 판매하는 영업 조직으로 운영한다. 남아프리카공화국에서는 Dunlop Tyres South Africa가 KwaZulu-Natal의 uMnambithi 제조 시설을 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 1월 7일 Goodyear는 유럽 오토바이 사업을 제외한 나머지 Dunlop 브랜드 사업을 SRI에 매각한다고 발표했고, 거래는 2025년 5월 7일 완료되었다. 2025년 12월 3일 Sumitomo는 Continental로부터 말레이시아, 싱가포르, 브루나이에서 항공기용·겨울용 타이어를 제외한 Dunlop 브랜드 독점 사용권을 취득했으며, 효력은 2026년 1월부터 발생했다. 2026년 8월 Dunlop Tyres South Africa는 uMnambithi 공장에서 3년간 R1.7 billion 규모의 투자 프로그램을 마쳤다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "John Boyd Dunlop의 공기압 타이어에서 출발해 현재는 Sumitomo Rubber Industries가 소유·운영하며, 지역별로 운영 주체가 나뉘는 타이어 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.dunloptires.com",
+  "entityLinks": {
+   "wikidata": "Q168241",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q168241",
+    "https://ko.wikipedia.org/wiki/%EB%8D%98%EB%A1%AD_%ED%83%80%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Dunlop_Tyres"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q168241",
+   "country": "미국",
+   "inception": "1985",
+   "headquarters": "하나우",
+   "founders": [
+    "존 보이드 던롭/존 보이드 던로프"
+   ],
+   "parent": "굳이어",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Dunlop Tyres」 본문과 위키데이터 Q168241 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

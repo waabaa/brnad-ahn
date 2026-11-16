@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q273835",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "editions-larousse",
+  "urlSlug": "editions-larousse",
+  "name": "라루스 출판사",
+  "nameKo": "라루스 출판사",
+  "nameEn": "Éditions Larousse",
+  "definition": "라루스 출판사(Éditions Larousse)는 사전과 같은 참고 서적을 전문으로 하는 프랑스의 출판사이다. 피에르 라루스가 설립했으며 《라루스 소사전》으로 가장 널리 알려져 있다.",
+  "summary": "라루스 출판사(Éditions Larousse)는 사전과 같은 참고 서적을 전문으로 하는 프랑스의 출판사이다. 피에르 라루스가 설립했으며 《라루스 소사전》으로 가장 널리 알려져 있다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "라루스는 사전과 참고 서적에 특화된 프랑스 출판사로, 민들레 홀씨를 불고 있는 여성이 담긴 로고와 “Je sème à tout vent”라는 모토로 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "라루스 출판사(Éditions Larousse)는 파리에 본사를 둔 프랑스의 출판사로, 사전과 같은 참고 서적을 전문으로 한다. 피에르 라루스(Pierre Larousse)가 1852년에 설립했으며, 한때 라루스 서점(Librairie Larousse)이라는 이름으로도 알려져 있었다. 가장 유명한 출판물은 단권 사전인 《라루스 소사전》이다. 요리 백과사전인 《라루스 가스트로노미크》(Larousse Gastronomique)와 자유 오픈 콘텐츠 백과사전도 제공한다. 2004년부터 아셰트 리브르의 자회사로 운영되고 있으며, 모기업은 아셰트이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "라루스 출판사는 1852년 프랑스에서 피에르 라루스가 설립했다. 처음에는 라루스 서점(Librairie Larousse)이라는 이름으로도 알려져 있었다. 사전과 같은 참고 서적을 전문으로 하며 성장했고, 단권 사전인 《라루스 소사전》이 가장 유명한 출판물이 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "라루스의 가장 유명한 출판물은 단권 사전인 《라루스 소사전》이다. 이 밖에 요리 백과사전인 《라루스 가스트로노미크》(Larousse Gastronomique)를 펴냈다. 자유 오픈 콘텐츠 백과사전도 제공하고 있다. 사업의 중심은 사전과 같은 참고 서적이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "라루스는 2004년부터 아셰트 리브르의 자회사로 운영되고 있다. 1984년 민간 소유주로부터 유럽 출판사(Compagnie Européenne de Publication)에 인수된 뒤 1997년 아바스(Havas), 1998년 비방디 유니버설로 소유권이 이어졌다. 비방디가 2002년에 손실을 입으면서 라가르데르 그룹에 매각되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "라루스는 사전과 참고 서적에 특화된 프랑스 출판사로, 민들레 홀씨를 불고 있는 여성이 담긴 로고와 “Je sème à tout vent”라는 모토로 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.editions-larousse.fr/",
+  "entityLinks": {
+   "wikidata": "Q273835",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q273835",
+    "https://ko.wikipedia.org/wiki/%EB%9D%BC%EB%A3%A8%EC%8A%A4_%EC%B6%9C%ED%8C%90%EC%82%AC",
+    "https://en.wikipedia.org/wiki/%C3%89ditions_Larousse"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q273835",
+   "country": "프랑스",
+   "inception": "1852",
+   "headquarters": "파리",
+   "founders": [
+    "피에르 라루스"
+   ],
+   "parent": "아셰트",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「라루스 출판사」 요약과 위키데이터 Q273835 팩트를 근거로 편집"
+ }
+}

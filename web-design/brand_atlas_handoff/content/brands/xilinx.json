@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1046482",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/xilinx-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "xilinx",
+  "urlSlug": "xilinx",
+  "name": "자일링스",
+  "nameKo": "자일링스",
+  "nameEn": "Xilinx",
+  "definition": "자일링스(Xilinx)는 미국 산호세에 본사를 둔 팹리스 반도체 기업이다. FPGA로 알려진 리컨피규러블 하드웨어 집적 회로 분야에서 가장 큰 개발업체이며, 어드밴스트 마이크로 디바이시스가 모기업이다.",
+  "summary": "자일링스(Xilinx)는 미국 산호세에 본사를 둔 팹리스 반도체 기업이다. FPGA로 알려진 리컨피규러블 하드웨어 집적 회로 분야에서 가장 큰 개발업체이며, 어드밴스트 마이크로 디바이시스가 모기업이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "FPGA 분야에서 가장 큰 개발업체로 소개되는 팹리스 반도체 기업으로, 소자와 함께 IP 코어와 EDA 도구까지 제공하는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "자일링스는 FPGA와 복합 프로그래머블 논리 소자를 개발하는 미국의 팹리스 반도체 기업이다. 광통신, 자동차, 소비자, 방어시스템 등 다양한 응용산업에 쓰이는 소자를 공급한다. 고성능 Virtex 계열과 저가형 Spartan 계열이 주요 FPGA 제품군이다. 소자 외에 반도체 IP 코어와 전자 설계 자동화(EDA) 도구도 제공해 응용제품의 설계 시간을 줄이도록 돕는다. 2007년부터 EDA 소프트웨어의 무료 리눅스 버전을 제공하는 유일한 FPGA 기업으로 소개된다. 현재는 어드밴스트 마이크로 디바이시스를 모기업으로 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "자일링스는 1984년 Ross Freeman, Bernie Vonderschmitt, James V. Barnett II가 창립했다. Freeman은 FPGA 발명가, Vonderschmitt는 팹리스 선구자로 알려져 있다. 회사는 실리콘밸리에서 성장했고 본사는 산호세에 있다. 회사명은 FPGA를 나타내며, 두 개의 X는 논리 클러스터를, linx는 논리 간의 고리와 배선을 뜻한다. 창립자들은 Xlinx라는 이름이 마음에 들지 않아 'i'를 추가했고, 그렇게 Xilinx가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 FPGA 제품군은 고성능 Virtex 계열과 저가형 Spartan 계열이다. 복합 프로그래머블 논리 소자(CPLD)로는 CoolRunner와 9500 제품군을 생산한다. Virtex-4는 2004년에 발표되어 90나노미터 공정으로, Virtex-5는 2006년에 발표되어 65나노미터 공정으로 제조되었다. 소프트웨어로는 완전한 EDA 흐름을 제공하는 ISE, 임베디드 개발자 키트(EDK), DSP용 시스템 생성기가 있다. 반도체 IP 코어로는 MicroBlaze 소프트 마이크로프로세서와 PicoBlaze 마이크로컨트롤러가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "자일링스의 모기업은 어드밴스트 마이크로 디바이시스이다. 본사는 미국 산호세에 있다. Virtex, Virtex-2, Virtex-2 Pro 같은 이전 세대 소자도 여전히 구입할 수 있으며, 기능성은 Virtex-4와 Virtex-5가 나오면서 크게 향상되었다. 경쟁사로는 알테라, 래티스 세미컨덕터, 액텔, 아트멜, 퀵로직이 꼽힌다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "FPGA 분야에서 가장 큰 개발업체로 소개되는 팹리스 반도체 기업으로, 소자와 함께 IP 코어와 EDA 도구까지 제공하는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.xilinx.com/",
+  "entityLinks": {
+   "wikidata": "Q1046482",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1046482",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9D%BC%EB%A7%81%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Xilinx"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1046482",
+   "country": "미국",
+   "inception": "1984",
+   "headquarters": "산호세",
+   "founders": [
+    "James V. Barnett II"
+   ],
+   "parent": "어드밴스트 마이크로 디바이시스",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「자일링스」 요약과 위키데이터 Q1046482 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

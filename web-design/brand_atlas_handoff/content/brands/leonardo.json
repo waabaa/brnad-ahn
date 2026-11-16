@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q910379",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/leonardo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "leonardo",
+  "urlSlug": "leonardo",
+  "name": "레오나르도",
+  "nameKo": "레오나르도",
+  "nameEn": "Leonardo",
+  "definition": "레오나르도(Leonardo)는 이탈리아의 군수, 항공기 제작, 보안 산업 회사이다. 1948년 설립되어 로마에 본사를 두며, 이탈리아 경제·재무부가 약 30%의 지분을 가진 최대 주주이다.",
+  "summary": "레오나르도(Leonardo)는 이탈리아의 군수, 항공기 제작, 보안 산업 회사이다. 1948년 설립되어 로마에 본사를 두며, 이탈리아 경제·재무부가 약 30%의 지분을 가진 최대 주주이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "이탈리아 경제·재무부가 최대 주주이며, 헬기와 훈련기를 자회사를 통해 생산하는 이탈리아의 군수·항공·보안 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "레오나르도는 로마에 본사를 두고 군수, 항공기 제작, 보안 산업을 영위하는 이탈리아 회사이다. 이탈리아 경제·재무부가 약 30%의 지분을 보유한 최대 주주이다. 1948년부터 2016년까지는 핀메카니카(Finmeccanica S.p.A.)라는 이름을 썼고, 2017년 1월 1일에 현재의 사명으로 바뀌었다. 헬기는 자회사 아구스타웨스트랜드가 생산·판매하며, 슈퍼링크스 헬기는 대한민국 해군 구축함에서 사용된다. 훈련기 분야에서는 자회사 알레니아 아에르마키의 M-346이 국제공개입찰에서 연이어 한국 KAI의 T-50 골든이글 훈련기를 물리쳤다. 유로파이터 유한회사의 지분 21%는 자회사 알레니아 아에로나우티카가 소유한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1948년부터 2016년까지 핀메카니카 주식회사(Finmeccanica S.p.A.)라는 이름으로 불렸다. 2016년 1월 1일에 아구스타웨스트랜드, 알레니아 아에르마키, 셀렉스 ES, 오토 멜라라와 WASS가 레오나르도-핀메카니카로 흡수 합병되었다. 2016년 4월에는 레오나르도-핀메카니카 주식회사(Leonardo-Finmeccanica S.p.A.)로 개명했다. 2017년 1월 1일에 현재의 사명인 레오나르도로 바뀌었다. 영국 GKN은 아구스타웨스트랜드의 지분 50%를 갖고 있었으나 핀메카니카에 전량 매도했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 제품으로 알레니아 아에르마키 M-346, 아구스타웨스트랜드 AW139, 오토 멜라라 76 mm, 라파엘로 MPLM이 있다. M-346은 훈련기이며, 아구스타웨스트랜드는 헬기를 생산·판매한다. 아구스타웨스트랜드의 슈퍼링크스 헬기는 대한민국 해군 구축함에서 사용된다. 자회사로는 아구스타웨스트랜드, 알레니아 아에르마키, 아비오, 레오나르도 DRS, 오토 멜라라, 셀렉스 ES, 셀렉스 시스테미 인테그라티가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이탈리아 경제·재무부가 약 30%의 지분을 가진 최대 주주이며, 본사는 로마에 있다. 2017년 1월 1일부터 현재의 사명 레오나르도를 쓴다. 알레니아 아에르마키의 M-346은 최근 국제공개입찰에서 연이어 한국 KAI의 T-50 골든이글 훈련기를 물리쳤다. 유로파이터 유한회사 지분 21%는 자회사 알레니아 아에로나우티카가 소유하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이탈리아 경제·재무부가 최대 주주이며, 헬기와 훈련기를 자회사를 통해 생산하는 이탈리아의 군수·항공·보안 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.leonardo.com/",
+  "entityLinks": {
+   "wikidata": "Q910379",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q910379",
+    "https://ko.wikipedia.org/wiki/%EB%A0%88%EC%98%A4%EB%82%98%EB%A5%B4%EB%8F%84_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Leonardo_S.p.A."
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q910379",
+   "country": "이탈리아",
+   "inception": "1948",
+   "headquarters": "로마",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「레오나르도 (기업)」 요약과 위키데이터 Q910379 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

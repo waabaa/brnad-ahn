@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1420724",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/freightliner-trucks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "freightliner-trucks",
+  "urlSlug": "freightliner-trucks",
+  "name": "프라이트라이너 트럭",
+  "nameKo": "프라이트라이너 트럭",
+  "nameEn": "Freightliner Trucks",
+  "definition": "프라이트라이너 트럭(Freightliner Trucks)은 미국 포틀랜드에 본사를 둔 트럭 제조사이다. 미국의 트럭 제조 업체 중 최대 규모에 해당한다.",
+  "summary": "프라이트라이너 트럭(Freightliner Trucks)은 미국 포틀랜드에 본사를 둔 트럭 제조사이다. 미국의 트럭 제조 업체 중 최대 규모에 해당한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "1981년 Mercedes-Benz에 인수된 미국의 트럭 메이커로, 미국 트럭 메이커 업체 중 최대 규모에 해당한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "프라이트라이너 트럭은 미국의 자동차 메이커이며, 오리건주 포틀랜드에 본사를 두고 있다. 1947년 포틀랜드에 최초의 트럭 공장을 세웠고, 이후 캐나다 온타리오주에도 공장을 설립했다. 1981년 독일의 자동차 메이커인 Mercedes-Benz가 이 회사를 인수했다. 이 회사는 Mercedes-Benz Group AG의 자회사인 Daimler Trucks North America LLC의 모기업으로 미국의 트럭 메이커 업체 중 최대 규모에 해당한다. 제품군은 대형 트럭, 중형 트럭, 기타 차량으로 구분된다. 1967년에는 자회사 Western Star를 설립했고, 1998년에는 Thomas Built Buses를 인수해 자회사로 편입했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Leland James가 Freightliner Inc를 설립했다. 1947년 오리건주 포틀랜드에 최초로 트럭 공장을 세웠다. 1950년 Hyster Company가 처음으로 트럭을 주문했고, 1951년에는 당시 자동차 대리점이던 White Motor Corporation을 통해 트럭을 계약했다. 1967년 자회사 Western Star를 설립했고, 1976년 포틀랜드에 새로운 본사를 설립했다. 1977년 White Motor Corporation과의 계약이 끝나면서 회사는 독립했고, 1981년 Mercedes-Benz가 이 회사를 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "이 회사는 Mercedes-Benz Group AG의 자회사인 Daimler Trucks North America LLC의 모기업으로, 미국의 트럭 메이커 업체 중 최대 규모에 해당한다. 1998년 Thomas Built Buses를 인수해 자회사로 편입했으며, 모델은 대형 트럭, 중형 트럭, 기타 차량으로 나뉜다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1981년 Mercedes-Benz에 인수된 미국의 트럭 메이커로, 미국 트럭 메이커 업체 중 최대 규모에 해당한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.freightlinertrucks.com/",
+  "entityLinks": {
+   "wikidata": "Q1420724",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1420724",
+    "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%84%88_%ED%8A%B8%EB%9F%AD",
+    "https://en.wikipedia.org/wiki/Freightliner_Trucks"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1420724",
+   "country": "미국",
+   "inception": "1939",
+   "headquarters": "포틀랜드",
+   "founders": [],
+   "parent": "다임러 트럭 북아메리카",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「프라이트라이너 트럭」 요약과 위키데이터 Q1420724 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

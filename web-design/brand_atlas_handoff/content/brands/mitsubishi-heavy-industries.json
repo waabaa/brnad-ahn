@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q648280",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/mitsubishi-heavy-industries-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mitsubishi-heavy-industries",
+  "urlSlug": "mitsubishi-heavy-industries",
+  "name": "미쓰비시 중공업",
+  "nameKo": "미쓰비시 중공업",
+  "nameEn": "Mitsubishi Heavy Industries",
+  "definition": "미쓰비시 중공업(Mitsubishi Heavy Industries)은 일본 최대의 중공업 회사이자 군수산업 기업으로, 미쓰비시 그룹의 핵심 3대 기업 중 하나이다.",
+  "summary": "미쓰비시 중공업(Mitsubishi Heavy Industries)은 일본 최대의 중공업 회사이자 군수산업 기업으로, 미쓰비시 그룹의 핵심 3대 기업 중 하나이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "일본 최대의 중공업 회사이자 군수산업 기업으로, 선박과 발전소부터 전투기, 우주발사체, 에어컨까지 폭넓게 생산하는 미쓰비시 그룹의 핵심 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "미쓰비시 중공업은 일본 최대의 중공업 회사이자 군수산업 기업이다. 본사는 미나토구에 있으며 모기업은 미쓰비시 그룹이다. 1934년에 미쓰비시 중공업은 일본 제국 최대의 민간 기업이었으며 전투기, 기차, 전함 등을 제조했다. 현재는 선박, 발전소, 군용 탱크, 미사일, 우주발사체, 전투기, 민간 항공시스템, 각종 기계류, 풍력 발전소, 에어컨, 냉장고, 경전철을 생산한다. 에어컨과 냉장고는 같은 계열사인 미쓰비시 전기와 별개로 생산하고 판매한다. 2009년에는 한국항공우주연구원으로부터 다목적 실용위성 3호기의 발사 수송 서비스를 수주했으며, 이는 해외 고객으로부터 위성 발사를 수주한 첫 사례였다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1870년 미쓰비시의 설립자 이와사키 야타로는 정부 소유의 나가사키 조선소를 임대하여 운영했다. 미쓰비시 중공업의 나가사키 조선소는 전후에도 미쓰비시의 핵심 조선소로 남았다. 1934년에 미쓰비시 중공업은 일본 제국 최대의 민간 기업이었으며 전투기, 기차, 전함 등을 제조했다. 1950년 한국전쟁 당시에는 군사 무기를 미국에 판매하여 많은 소득을 올렸다. 1970년에는 자동차 사업이 미쓰비시 자동차(대형차 부문은 미쓰비시후소트럭 버스로 분사)로 독립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "선박은 시모노세키 조선소와 나가사키 조선소에서 생산하고, 발전소는 고베 타카사고에서, 군용 탱크는 사가미하라에서 생산한다. 우주발사체로는 H-IIA, H-IIB, H-III를 만들며, 미사일은 대전차 미사일을 제외한 품목을 다룬다. 전투기는 미쓰비시 F-1, 미쓰비시 F-2를 생산하고 F-35A는 면허생산한다. 민간 항공시스템은 부품, 동체구조물, 완성기 등을 다루며 생산시설은 아이치현 나고야시 일대에 있다. 이 밖에 각종 기계류, 풍력 발전소, 에어컨, 냉장고, 경전철을 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 최대의 중공업 회사이자 군수산업 기업으로, 선박과 발전소부터 전투기, 우주발사체, 에어컨까지 폭넓게 생산하는 미쓰비시 그룹의 핵심 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.mhi.com",
+  "entityLinks": {
+   "wikidata": "Q648280",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q648280",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9C_%EC%A4%91%EA%B3%B5%EC%97%85",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q648280",
+   "country": "일본",
+   "inception": "1934",
+   "headquarters": "미나토구",
+   "founders": [
+    "이와사키 야타로"
+   ],
+   "parent": "미쓰비시 그룹",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「미쓰비시 중공업」 요약과 위키데이터 Q648280 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

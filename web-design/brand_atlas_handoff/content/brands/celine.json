@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q948531",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/celine-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "celine",
+  "urlSlug": "celine",
+  "name": "셀린",
+  "nameKo": "셀린",
+  "nameEn": "Celine",
+  "definition": "셀린(Celine)은 1945년 Céline Vipiana가 창업한 프랑스의 럭셔리 패션 하우스이다. 본사는 파리에 있으며 LVMH 그룹에 속하고, 가죽 제품과 기성복을 중심으로 사업을 해 왔다.",
+  "summary": "셀린(Celine)은 1945년 Céline Vipiana가 창업한 프랑스의 럭셔리 패션 하우스이다. 본사는 파리에 있으며 LVMH 그룹에 속하고, 가죽 제품과 기성복을 중심으로 사업을 해 왔다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "Céline Vipiana가 맞춤 아동화로 시작해 파리 상류층 여성을 위한 가죽 제품과 기성복 하우스로 자리 잡은 LVMH 소속 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "셀린은 1945년 패션 디자이너 Céline Vipiana가 설립한 프랑스의 럭셔리 패션 하우스이다. 처음에는 맞춤 아동화 사업으로 시작했으며, 1960년 상류층 파리 여성을 위한 기성복 브랜드로 방향을 바꾸었다. 이후 핸드백, 로퍼, 장갑 같은 수공예 가죽 제품과 의류를 전문으로 하며 1960년대에 가죽의 품질로 알려졌다. 1996년 LVMH 그룹에 편입되었고, 본사는 파리 2구 rue Vivienne 16번지의 Hôtel Colbert de Torcy에 있다. 2008년부터 2018년까지 Phoebe Philo가, 2018년부터 2024년까지 Hedi Slimane이 크리에이티브 디렉터를 맡았다. 2017년 4월부터 Séverine Merle이 최고경영자를 맡고 있고, 2025년부터 Michael Rider가 크리에이티브 디렉터이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1945년 Céline Vipiana(1915–1997)와 남편 Richard가 맞춤 아동화 사업으로 셀린을 시작했고, 파리 rue Malte 52번지에 첫 부티크를 열었다. 브랜드의 로고는 Raymont Peynet이 만든 붉은 코끼리였다. 1960년 상류층 파리 여성을 위한 기성복 브랜드로 방향을 바꾸었고, Céline Vipiana는 1945년부터 1988년 은퇴할 때까지 디자이너를 맡았다. 1973년 개선문과 연결된 C자 맞물림 Sulky 캔버스 로고를 새로 만들었고, 몬테카를로, 제네바, 홍콩, 로잔, 토론토, 비벌리힐스에 부티크를 열며 해외로 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "셀린은 수공예 가죽 제품인 핸드백, 로퍼, 장갑과 의류를 주력으로 해 왔다. 1964년 향수 \"Vent fou\"와 액세서리 컬렉션 \"American Sulky\"가 성공을 거두었고, 트렌치코트와 핸드백은 하우스의 대표 제품이 되었다. 1960년대에는 가죽 품질로 알려져 피렌체에 가죽 제품 부티크를 열었다. Hedi Slimane 재임 중에는 남성복, 쿠튀르, 향수를 출시해 제품군을 넓혔다. 현재 Michael Rider가 가죽 제품부터 쿠튀르까지 모든 컬렉션을 맡고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "셀린은 1996년 LVMH 그룹에 편입되어 현재 LVMH 소속이며, 본사는 프랑스 역사 기념물로 지정된 파리 2구의 Hôtel Colbert de Torcy에 있다. Séverine Merle이 2017년 4월부터 최고경영자를 맡고 있다. 2024년 10월 Hedi Slimane이 브랜드를 떠났고, Michael Rider가 2025년 초 합류해 크리에이티브 디렉터를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Céline Vipiana가 맞춤 아동화로 시작해 파리 상류층 여성을 위한 가죽 제품과 기성복 하우스로 자리 잡은 LVMH 소속 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.celine.com",
+  "entityLinks": {
+   "wikidata": "Q948531",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q948531",
+    "https://ko.wikipedia.org/wiki/%EC%85%80%EB%A6%B0%EB%8A%90",
+    "https://en.wikipedia.org/wiki/Celine_(brand)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q948531",
+   "country": "프랑스",
+   "inception": "1945",
+   "headquarters": "파리",
+   "founders": [
+    "Céline Vipiana"
+   ],
+   "parent": "LVMH",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Celine (brand)」 본문과 위키데이터 Q948531 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

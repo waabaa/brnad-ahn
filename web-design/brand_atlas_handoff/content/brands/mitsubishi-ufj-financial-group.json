@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1542175",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/mitsubishi-ufj-financial-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "mitsubishi-ufj-financial-group",
+  "urlSlug": "mitsubishi-ufj-financial-group",
+  "name": "미쓰비시UFJ파이낸셜 그룹",
+  "nameKo": "미쓰비시UFJ파이낸셜 그룹",
+  "nameEn": "Mitsubishi UFJ Financial Group",
+  "definition": "미쓰비시UFJ파이낸셜 그룹(Mitsubishi UFJ Financial Group)은 일본의 주요 금융지주회사이다. 약칭은 MUFG이며, 일본 3대 메가뱅크 중 하나로 꼽힌다.",
+  "summary": "미쓰비시UFJ파이낸셜 그룹(Mitsubishi UFJ Financial Group)은 일본의 주요 금융지주회사이다. 약칭은 MUFG이며, 일본 3대 메가뱅크 중 하나로 꼽힌다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 3.966666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "일본 3대 메가뱅크의 하나로, 구 도쿄은행의 명성을 이어받아 국제업무에 강하고 미국 Morgan Stanley의 최대주주라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "MUFG는 일본의 금융지주회사로, 주식시장에서의 상장명은 미쓰비시 UFJ이다. 약칭 MUFG는 상호의 영문기호의 앞글자를 따 붙인 것이다. 미쓰비시UFJ은행, 미쓰비시UFJ신탁은행, 미쓰비시UFJ신탁홀딩스, 미쓰비시UFJ리스, 미쓰비시UFJ니코스 등 주요 5개사를 중심으로 한다. 일본 3대 메가뱅크 중 하나이며, 2023년말 Banker's Top 1,000 Banks 자본금 규모 기준으로 전세계 금융기관 중 15위이다. 미국 Morgan Stanley의 지분을 약 23% 보유한 최대주주이기도 하다. 산하의 미쓰비시UFJ은행은 미쓰비시 그룹 내 금융 업무를 대부분 담당한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2001년 4월 2일 주식회사 도쿄미쓰비시은행, 미쓰비시신탁은행 주식회사, 일본신탁은행 주식회사가 주식을 이전하여 주식회사 미쓰비시 도쿄 파이낸셜그룹을 설립했다. 일본신탁은행은 2001년 10월 1일 미쓰비시신탁에 흡수 합병되었다. 2005년 10월 1일에는 주식회사 미쓰비시UFJ신탁홀딩스(등록은 주식회사 UFJ 홀딩스)를 흡수 합병하여 현재의 상호로 변경했다. 그룹의 전신인 구 미쓰비시은행, 구 산와은행, 구 토카이은행은 각각 수도권, 간사이 지역권, 나고야권을 지반으로 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "그룹은 미쓰비시UFJ은행, 미쓰비시UFJ신탁은행, 미쓰비시UFJ신탁홀딩스, 미쓰비시UFJ리스, 미쓰비시UFJ니코스 등 주요 5개사를 중심으로 구성된다. 산하의 미쓰비시UFJ은행은 미쓰비시 그룹 내 금융 업무를 대부분 담당한다. 전신 은행들은 수도권, 간사이, 나고야의 3대 도시권을 각각 지반으로 했고, 국제업무에서는 구 도쿄은행의 명성을 이어받아 우세하다. 그룹 슬로건은 'Quality for You(당신을 위한 최고의 품질)'이며, 서비스, 신뢰도, 국제성에서의 최고 품질을 의미한다. 코퍼레이트 컬러는 'MUFG 레드'이다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "일본 3대 메가뱅크 중 하나이며, 2023년말 Banker's Top 1,000 Banks 자본금 규모 기준으로 전세계 금융기관 중 15위이다. 미국 Morgan Stanley의 지분을 약 23% 보유한 최대주주이다. 현재 미쓰비시UFJ은행, 미쓰비시UFJ신탁은행, 미쓰비시UFJ신탁홀딩스, 미쓰비시UFJ리스, 미쓰비시UFJ니코스 등 주요 5개사를 중심으로 한다. 주식시장에서의 상장명은 미쓰비시 UFJ이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 3대 메가뱅크의 하나로, 구 도쿄은행의 명성을 이어받아 국제업무에 강하고 미국 Morgan Stanley의 최대주주라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.mufg.jp/",
+  "entityLinks": {
+   "wikidata": "Q1542175",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1542175",
+    "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%93%B0%EB%B9%84%EC%8B%9CUFJ%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/MUFG"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1542175",
+   "country": "일본",
+   "inception": "2005",
+   "headquarters": null,
+   "founders": [],
+   "parent": "미쓰비시 그룹",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「미쓰비시UFJ파이낸셜 그룹」 요약과 위키데이터 Q1542175 팩트를 근거로 편집",
+  "founded": {
+   "date": "2005-10-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

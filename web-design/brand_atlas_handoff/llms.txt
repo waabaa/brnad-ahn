@@ -1,82 +1,153 @@
 # 브랜드 아틀라스 (Brand Atlas)
 > 브랜드의 설립 배경, 브랜드 아이덴티티, 로고(BI/CI) 변천, 제품과 서비스, 현재 상태를 정리한 한국어 브랜드 사전입니다.
-> 수록 브랜드 3373개(목록 노출 2918개 + 디렉토리 등급 455개), 색인 대상 3318개, 로고 이미지 2686개. 운영 브랜드성장연구소 아키타이포스.
+> 수록 브랜드 3576개(목록 노출 3277개 + 디렉토리 등급 299개), 색인 대상 3524개, 로고 이미지 3069개. 운영 브랜드성장연구소 아키타이포스.
 
 ## 데이터 원칙
 - 브랜드명은 한글과 원어를 함께 표기합니다. 데이터에 없는 표기는 만들지 않습니다.
 - 기원 국가·설립연도는 검수된 정의문에서 확인된 값을 우선하고, 없을 때만 공식 웹사이트 URL이 완전히 일치하는 위키데이터 개체의 값을 씁니다.
-- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 2296개 브랜드에만 붙어 있습니다.
+- 위키데이터 개체 연결(sameAs)은 공식 웹사이트 URL 완전 일치로 확인된 2499개 브랜드에만 붙어 있습니다.
 - 각 브랜드 페이지에는 검증된 값만 담은 '브랜드 정보' 표와 출처 절이 있습니다.
 
 ## 허브
 - [가나다·ABC 색인](https://brandatlas.co.kr/pages/ganada.html): 전체 브랜드 색인
 - [산업별](https://brandatlas.co.kr/pages/industry.html): 15개 산업
-- [국가별](https://brandatlas.co.kr/pages/countries.html): 25개국
+- [국가별](https://brandatlas.co.kr/pages/countries.html): 29개국
 - [컬렉션](https://brandatlas.co.kr/pages/collections.html): 11개 테마(AI·핀테크·항공사 등)
 - [로고 아카이브](https://brandatlas.co.kr/pages/bici.html): 로고·BI/CI 변천
 - [브랜드 연대기](https://brandatlas.co.kr/brand-history/): 인장에서 AI까지 — 표식·상표법·브랜드 탄생·로고·컬러·광고·이론·디지털을 연도별로 나란히 놓은 연대기
 - [타임라인](https://brandatlas.co.kr/pages/timeline.html): 설립연도별
+- [탄생 달력](https://brandatlas.co.kr/month/): 탄생일이 확인된 브랜드 1168곳을 태어난 달별로
 - [인사이트](https://brandatlas.co.kr/pages/insights.html): 브랜드별 관점
 - [소개·편집 원칙](https://brandatlas.co.kr/pages/about.html)
 
 ## 산업 카테고리
 - [AI·인공지능](https://brandatlas.co.kr/category/ai.html): 26개 브랜드
-- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 478개 브랜드
-- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 422개 브랜드
-- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 333개 브랜드
-- [브랜드·비즈니스](https://brandatlas.co.kr/category/brand-business.html): 273개 브랜드
-- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 213개 브랜드
-- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 212개 브랜드
-- [금융](https://brandatlas.co.kr/category/finance.html): 193개 브랜드
-- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 173개 브랜드
-- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 134개 브랜드
+- [식음료](https://brandatlas.co.kr/category/food-beverage.html): 642개 브랜드
+- [미디어·엔터테인먼트](https://brandatlas.co.kr/category/media-entertainment.html): 445개 브랜드
+- [기술·전자](https://brandatlas.co.kr/category/technology-electronics.html): 380개 브랜드
+- [브랜드·비즈니스](https://brandatlas.co.kr/category/brand-business.html): 283개 브랜드
+- [모빌리티](https://brandatlas.co.kr/category/mobility.html): 254개 브랜드
+- [에너지·산업재](https://brandatlas.co.kr/category/industrial-energy.html): 237개 브랜드
+- [금융](https://brandatlas.co.kr/category/finance.html): 204개 브랜드
+- [리테일·커머스](https://brandatlas.co.kr/category/retail-commerce.html): 178개 브랜드
+- [패션·럭셔리](https://brandatlas.co.kr/category/fashion-luxury.html): 146개 브랜드
+- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 116개 브랜드
 - [스포츠·아웃도어](https://brandatlas.co.kr/category/sports-outdoor.html): 110개 브랜드
-- [헬스·제약](https://brandatlas.co.kr/category/health-pharma.html): 110개 브랜드
-- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 90개 브랜드
-- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 84개 브랜드
-- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 67개 브랜드
+- [홈·라이프스타일](https://brandatlas.co.kr/category/home-lifestyle.html): 96개 브랜드
+- [여행·호스피탈리티](https://brandatlas.co.kr/category/travel-hospitality.html): 88개 브랜드
+- [뷰티·퍼스널케어](https://brandatlas.co.kr/category/beauty-personal-care.html): 72개 브랜드
 
 ## 컬렉션
 - [핀테크·결제](https://brandatlas.co.kr/collection/fintech.html): 32개 브랜드
-- [은행·금융](https://brandatlas.co.kr/collection/banking.html): 75개 브랜드
-- [에너지](https://brandatlas.co.kr/collection/energy.html): 50개 브랜드
-- [부동산·건설](https://brandatlas.co.kr/collection/property.html): 36개 브랜드
-- [항공사](https://brandatlas.co.kr/collection/airlines.html): 82개 브랜드
+- [은행·금융](https://brandatlas.co.kr/collection/banking.html): 80개 브랜드
+- [에너지](https://brandatlas.co.kr/collection/energy.html): 59개 브랜드
+- [부동산·건설](https://brandatlas.co.kr/collection/property.html): 38개 브랜드
+- [항공사](https://brandatlas.co.kr/collection/airlines.html): 88개 브랜드
 - [박물관·미술관](https://brandatlas.co.kr/collection/museums.html): 24개 브랜드
 - [패스트푸드](https://brandatlas.co.kr/collection/fast-food.html): 54개 브랜드
 - [카페·커피](https://brandatlas.co.kr/collection/cafes.html): 31개 브랜드
-- [맥주 브랜드](https://brandatlas.co.kr/collection/beer.html): 147개 브랜드
-- [디지털 서비스](https://brandatlas.co.kr/collection/digital-services.html): 82개 브랜드
+- [맥주 브랜드](https://brandatlas.co.kr/collection/beer.html): 298개 브랜드
+- [디지털 서비스](https://brandatlas.co.kr/collection/digital-services.html): 85개 브랜드
 - [올림픽·엑스포](https://brandatlas.co.kr/collection/olympics-expos.html): 15개 브랜드
 
+## 브랜드 그룹
+- [삼성그룹](https://brandatlas.co.kr/group/samsung-group.html): 17개 브랜드
+- [LVMH](https://brandatlas.co.kr/group/lvmh.html): 15개 브랜드
+- [스텔란티스](https://brandatlas.co.kr/group/stellantis.html): 13개 브랜드
+- [유니버설 뮤직 그룹](https://brandatlas.co.kr/group/universal-music-group.html): 12개 브랜드
+- [월트 디즈니 컴퍼니](https://brandatlas.co.kr/group/the-walt-disney-company.html): 11개 브랜드
+- [앤하이저부시 인베브](https://brandatlas.co.kr/group/anheuser-busch-inbev.html): 9개 브랜드
+- [CJ그룹](https://brandatlas.co.kr/group/cj-group.html): 9개 브랜드
+- [카카오](https://brandatlas.co.kr/group/kakao.html): 9개 브랜드
+- [SK그룹](https://brandatlas.co.kr/group/sk-group.html): 9개 브랜드
+- [소니그룹](https://brandatlas.co.kr/group/sony-group.html): 9개 브랜드
+- [LG그룹](https://brandatlas.co.kr/group/lg-group.html): 7개 브랜드
+- [롯데](https://brandatlas.co.kr/group/lotte.html): 7개 브랜드
+- [마이크로소프트](https://brandatlas.co.kr/group/microsoft.html): 7개 브랜드
+- [알파벳](https://brandatlas.co.kr/group/alphabet-inc.html): 6개 브랜드
+- [디아지오](https://brandatlas.co.kr/group/diageo.html): 6개 브랜드
+- [현대자동차그룹](https://brandatlas.co.kr/group/hyundai-motor-group.html): 6개 브랜드
+- [케링](https://brandatlas.co.kr/group/kering.html): 6개 브랜드
+- [타타 그룹](https://brandatlas.co.kr/group/tata-group.html): 6개 브랜드
+- [폭스바겐 AG](https://brandatlas.co.kr/group/volkswagen-group.html): 6개 브랜드
+- [아모레퍼시픽](https://brandatlas.co.kr/group/amorepacific.html): 5개 브랜드
+- [칼스버그](https://brandatlas.co.kr/group/carlsberg-group.html): 5개 브랜드
+- [한화그룹](https://brandatlas.co.kr/group/hanwha-group.html): 5개 브랜드
+- [펩시코](https://brandatlas.co.kr/group/pepsico.html): 5개 브랜드
+- [GS그룹](https://brandatlas.co.kr/group/gs-group.html): 4개 브랜드
+- [메타 플랫폼스](https://brandatlas.co.kr/group/meta-platforms.html): 4개 브랜드
+- [미쓰비시 그룹](https://brandatlas.co.kr/group/mitsubishi.html): 4개 브랜드
+- [페르노리카](https://brandatlas.co.kr/group/pernod-ricard.html): 4개 브랜드
+- [리슈몽](https://brandatlas.co.kr/group/richemont.html): 4개 브랜드
+- [신세계](https://brandatlas.co.kr/group/shinsegae.html): 4개 브랜드
+- [코카콜라 컴퍼니](https://brandatlas.co.kr/group/the-coca-cola-company.html): 4개 브랜드
+- [워너 뮤직 그룹](https://brandatlas.co.kr/group/warner-music-group.html): 4개 브랜드
+- [아사히 맥주](https://brandatlas.co.kr/group/asahi-breweries.html): 3개 브랜드
+- [컴캐스트](https://brandatlas.co.kr/group/comcast.html): 3개 브랜드
+- [지리](https://brandatlas.co.kr/group/geely.html): 3개 브랜드
+- [제너럴 모터스](https://brandatlas.co.kr/group/general-motors.html): 3개 브랜드
+- [현대](https://brandatlas.co.kr/group/hyundai.html): 3개 브랜드
+- [인디텍스](https://brandatlas.co.kr/group/inditex.html): 3개 브랜드
+- [로레알](https://brandatlas.co.kr/group/loreal.html): 3개 브랜드
+- [메르세데스-벤츠 그룹 AG](https://brandatlas.co.kr/group/mercedes-benz-group.html): 3개 브랜드
+- [몰슨 쿠어스](https://brandatlas.co.kr/group/molson-coors-brewing-company.html): 3개 브랜드
+- [몬덜리즈 인터내셔널](https://brandatlas.co.kr/group/mondelez-international.html): 3개 브랜드
+- [네슬레](https://brandatlas.co.kr/group/nestl.html): 3개 브랜드
+- [파카 그룹](https://brandatlas.co.kr/group/paccar.html): 3개 브랜드
+- [프록터 앤드 갬블](https://brandatlas.co.kr/group/procter-gamble.html): 3개 브랜드
+- [워너 브라더스 디스커버리](https://brandatlas.co.kr/group/warner-bros-discovery.html): 3개 브랜드
+- [얌! 브랜드](https://brandatlas.co.kr/group/yum-brands.html): 3개 브랜드
+- [알리바바 그룹](https://brandatlas.co.kr/group/alibaba-group.html): 2개 브랜드
+- [아마존](https://brandatlas.co.kr/group/amazon.html): 2개 브랜드
+- [Bavarian Motor Works , Bayerische Motoren Werke](https://brandatlas.co.kr/group/bavarian-motor-works-bayerische-motoren-werke.html): 2개 브랜드
+- [버크셔 해서웨이](https://brandatlas.co.kr/group/berkshire-hathaway.html): 2개 브랜드
+- [Binding-Brauerei](https://brandatlas.co.kr/group/binding-brauerei.html): 2개 브랜드
+- [Deckers Outdoor Corporation](https://brandatlas.co.kr/group/deckers-outdoor-corporation.html): 2개 브랜드
+- [Duvel Moortgat Brewery](https://brandatlas.co.kr/group/duvel-moortgat-brewery.html): 2개 브랜드
+- [한진그룹](https://brandatlas.co.kr/group/hanjin.html): 2개 브랜드
+- [HD현대중공업](https://brandatlas.co.kr/group/hd-hyundai-heavy.html): 2개 브랜드
+- [효성](https://brandatlas.co.kr/group/hyosung.html): 2개 브랜드
+- [마즈](https://brandatlas.co.kr/group/mars-incorporated.html): 2개 브랜드
+- [나이키](https://brandatlas.co.kr/group/nike.html): 2개 브랜드
+- [르노](https://brandatlas.co.kr/group/renault.html): 2개 브랜드
+- [TKO Group Holdings](https://brandatlas.co.kr/group/tko-group-holdings.html): 2개 브랜드
+- [도요타](https://brandatlas.co.kr/group/toyota.html): 2개 브랜드
+- [유니레버](https://brandatlas.co.kr/group/unilever.html): 2개 브랜드
+- [YG 엔터테인먼트](https://brandatlas.co.kr/group/yg-entertainment.html): 2개 브랜드
+
 ## 기원 국가
-- [미국](https://brandatlas.co.kr/country/usa.html): 800개 브랜드
-- [한국](https://brandatlas.co.kr/country/korea.html): 463개 브랜드
-- [영국](https://brandatlas.co.kr/country/uk.html): 127개 브랜드
-- [독일](https://brandatlas.co.kr/country/germany.html): 123개 브랜드
-- [일본](https://brandatlas.co.kr/country/japan.html): 94개 브랜드
-- [프랑스](https://brandatlas.co.kr/country/france.html): 71개 브랜드
-- [이탈리아](https://brandatlas.co.kr/country/italy.html): 61개 브랜드
-- [네덜란드](https://brandatlas.co.kr/country/netherlands.html): 50개 브랜드
-- [스위스](https://brandatlas.co.kr/country/switzerland.html): 41개 브랜드
-- [스웨덴](https://brandatlas.co.kr/country/sweden.html): 35개 브랜드
+- [미국](https://brandatlas.co.kr/country/usa.html): 882개 브랜드
+- [한국](https://brandatlas.co.kr/country/korea.html): 466개 브랜드
+- [독일](https://brandatlas.co.kr/country/germany.html): 167개 브랜드
+- [영국](https://brandatlas.co.kr/country/uk.html): 166개 브랜드
+- [일본](https://brandatlas.co.kr/country/japan.html): 121개 브랜드
+- [프랑스](https://brandatlas.co.kr/country/france.html): 90개 브랜드
+- [이탈리아](https://brandatlas.co.kr/country/italy.html): 73개 브랜드
+- [네덜란드](https://brandatlas.co.kr/country/netherlands.html): 53개 브랜드
+- [벨기에](https://brandatlas.co.kr/country/belgium.html): 50개 브랜드
+- [스위스](https://brandatlas.co.kr/country/switzerland.html): 45개 브랜드
+- [스웨덴](https://brandatlas.co.kr/country/sweden.html): 37개 브랜드
 - [캐나다](https://brandatlas.co.kr/country/canada.html): 35개 브랜드
-- [스페인](https://brandatlas.co.kr/country/spain.html): 31개 브랜드
-- [중국](https://brandatlas.co.kr/country/china.html): 24개 브랜드
-- [벨기에](https://brandatlas.co.kr/country/belgium.html): 21개 브랜드
-- [러시아](https://brandatlas.co.kr/country/russia.html): 20개 브랜드
-- [덴마크](https://brandatlas.co.kr/country/denmark.html): 15개 브랜드
-- [핀란드](https://brandatlas.co.kr/country/finland.html): 14개 브랜드
+- [스페인](https://brandatlas.co.kr/country/spain.html): 33개 브랜드
+- [중국](https://brandatlas.co.kr/country/china.html): 29개 브랜드
+- [러시아](https://brandatlas.co.kr/country/russia.html): 21개 브랜드
+- [덴마크](https://brandatlas.co.kr/country/denmark.html): 20개 브랜드
+- [노르웨이](https://brandatlas.co.kr/country/norway.html): 16개 브랜드
+- [핀란드](https://brandatlas.co.kr/country/finland.html): 16개 브랜드
 - [대만](https://brandatlas.co.kr/country/taiwan.html): 13개 브랜드
+- [체코](https://brandatlas.co.kr/country/czech.html): 13개 브랜드
+- [폴란드](https://brandatlas.co.kr/country/poland.html): 11개 브랜드
+- [오스트리아](https://brandatlas.co.kr/country/austria.html): 10개 브랜드
 - [아일랜드](https://brandatlas.co.kr/country/ireland.html): 10개 브랜드
-- [노르웨이](https://brandatlas.co.kr/country/norway.html): 9개 브랜드
-- [오스트리아](https://brandatlas.co.kr/country/austria.html): 9개 브랜드
-- [폴란드](https://brandatlas.co.kr/country/poland.html): 8개 브랜드
 - [뉴질랜드](https://brandatlas.co.kr/country/new-zealand.html): 7개 브랜드
+- [멕시코](https://brandatlas.co.kr/country/mexico.html): 6개 브랜드
 - [인도](https://brandatlas.co.kr/country/india.html): 6개 브랜드
 - [포르투갈](https://brandatlas.co.kr/country/portugal.html): 5개 브랜드
+- [그리스](https://brandatlas.co.kr/country/greece.html): 5개 브랜드
+- [브라질](https://brandatlas.co.kr/country/brazil.html): 5개 브랜드
 
 ## 아틀라스 매거진
+- [이름이 값이 되는 곳](https://brandatlas.co.kr/magazine/2026-11-collect-property.html): 래미안에서 자이까지 아파트 브랜드를 앞세운 건설사 여섯 곳과 미국의 임대 아파트 투자 회사를 나란히 읽는다. 짓는 일과 쥐는 일의 차이가 드러난다.
 - [화면 안에서 짓는 신뢰](https://brandatlas.co.kr/magazine/2026-11-collect-digital-services.html): 영상 인프라에서 부동산, 금융, 게임, 뮤직비디오까지 디지털 서비스 일곱 곳을 나란히 읽었다. 각자 무엇과 무엇 사이의 거리를 줄였는지가 브랜드의 얼굴이 됐다.
 - [Collins가 그린 여덟 곳](https://brandatlas.co.kr/magazine/2026-11-studio-collins.html): 업종이 다른 여덟 브랜드를 Collins라는 한 스튜디오가 맡았다. 되풀이되는 방식과 매번 달라지는 선택을 나란히 놓는다.
 - [jkr의 서로 다른 얼굴](https://brandatlas.co.kr/magazine/2026-10-studio-jkr.html): jkr는 로고보다 브랜드가 움직이는 방식을 설계한다. 유산과 제품, 데이터에 따라 그 문법은 달라진다.

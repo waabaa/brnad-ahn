@@ -153,7 +153,7 @@ export function foundedYear(brand) {
     const n = Number(m[1]);
     if (n >= 1800 && n <= 2100) return n;
   }
-  const wd = brand.wikidata && brand.wikidata.inception;
+  const wd = (brand.wikidata && brand.wikidata.inception) || (brand.founded && brand.founded.date);
   if (wd) {
     const y = Number(String(wd).slice(0, 4));
     if (y >= 1800 && y <= 2100) return y;
@@ -164,7 +164,8 @@ export function foundedYear(brand) {
 export function foundedYearSource(brand) {
   const def = String(brand.definition || brand.summary || "");
   if (YEAR_ORIGIN.test(def)) return "definition";
-  return brand.wikidata && brand.wikidata.inception ? "wikidata" : null;
+  if (brand.wikidata && brand.wikidata.inception) return "wikidata";
+  return brand.founded && brand.founded.date ? foundedSource(brand) : null;
 }
 
 /**
@@ -179,7 +180,12 @@ export function factRows(brand) {
   const c = countryOf(brand);
   if (c) rows.push({ label: "기원 국가", value: c, source: countrySource(brand) });
   const y = foundedYear(brand);
-  if (y) rows.push({ label: "설립", value: `${y}년`, source: foundedYearSource(brand) });
+  if (y) {
+    // 탄생일(brand.founded, enrich-founding-dates.mjs)이 같은 연도로 확인되면 월·일까지 쓰고 그 달 허브로 잇는다.
+    const f = brand.founded && Number(String(brand.founded.date).slice(0, 4)) === y ? brand.founded : null;
+    if (f) rows.push({ label: "탄생", value: foundedText(f), href: `month/${f.date.slice(5, 7)}.html`, source: foundedSource(brand) });
+    else rows.push({ label: "설립", value: `${y}년`, source: foundedYearSource(brand) });
+  }
   const wd = brand.wikidata || {};
   if (wd.headquarters) rows.push({ label: "본사", value: wd.headquarters, source: "wikidata" });
   if (Array.isArray(wd.founders) && wd.founders.length) rows.push({ label: "창업자", value: wd.founders.slice(0, 3).join(", "), source: "wikidata" });
@@ -378,7 +384,7 @@ export function slugifyAscii(s) {
 }
 
 /** 정적 자산 캐시버스터. 배포마다 갱신한다. */
-export const CSS_V = "20260926a";
+export const CSS_V = "20261114a";
 
 // Google Analytics 4. 빈 문자열이면 태그를 넣지 않는다(로컬·테스트 빌드).
 // 어드민(/admin/)에는 넣지 않는다 — 운영자 방문이 지표를 오염시킨다.
@@ -412,4 +418,15 @@ export function romanizeKorean(text) {
       + ROMAN_JONG[code % 28];
   }
   return out;
+}
+
+/** brand.founded {date:"YYYY-MM(-DD)"} → "1925년 11월 17일". */
+export function foundedText(f) {
+  const [y, m, d] = String(f.date).split("-").map(Number);
+  return d ? `${y}년 ${m}월 ${d}일` : `${y}년 ${m}월`;
+}
+/** 탄생일 출처 키(SOURCE_LABEL). 위키데이터 > 위키백과 정보상자 > 본문 순. */
+export function foundedSource(brand) {
+  const s = (brand.founded && brand.founded.sources) || [];
+  return s.includes("wikidata") ? "wikidata" : s.some(x => /wiki$/.test(x)) ? "wikipedia" : "definition";
 }

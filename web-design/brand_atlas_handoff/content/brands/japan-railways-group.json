@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q864495",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/japan-railways-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "japan-railways-group",
+  "urlSlug": "japan-railways-group",
+  "name": "JR",
+  "nameKo": "JR",
+  "nameEn": "Japan Railways Group",
+  "definition": "JR(Japan Railways Group)는 1987년 4월 1일 일본국유철도의 분할 민영화에 따라 출범한 여객철도 6사와 일본화물철도 등 철도 사업자를 중심으로 한 일본의 기업군을 가리키는 총칭이다.",
+  "summary": "JR(Japan Railways Group)는 1987년 4월 1일 일본국유철도의 분할 민영화에 따라 출범한 여객철도 6사와 일본화물철도 등 철도 사업자를 중심으로 한 일본의 기업군을 가리키는 총칭이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "국유철도 JNR을 지역·분야별 법인으로 나눠 이어받은 일본 철도 기업군으로, 상장 회사와 특수 회사가 함께 속한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "JR은 홋카이도여객철도, 동일본여객철도, 도카이여객철도, 서일본여객철도, 시코쿠여객철도, 규슈여객철도, 일본화물철도를 중심으로 한 기업군이다. 기업군의 개별 기업을 가리키는 약칭 또는 통칭으로도 쓰인다. 1987년 4월 1일 국철에서 지역 또는 분야별로 사업을 계승받아 12개의 법인으로 구성되었다. 혼슈의 JR 동일본, JR 도카이, JR 서일본은 국유 주식이 모두 민간에 매각되어 완전한 민영화가 이루어졌고, JR 큐슈도 상장되어 지분의 완전민영화가 이뤄졌다. JR 홋카이도, JR 시코쿠, JR 화물은 정부 측이 전 주식을 보유하는 특수 회사이다. 각 회사의 공동 출자로 설립된 철도종합기술연구소와 철도정보시스템도 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "JR은 1987년 4월 1일 일본국유철도의 분할 민영화에 따라 출범했다. 국철에서 지역 또는 분야별로 사업을 계승받아 12개의 법인으로 구성되었다. 발족 당시에는 국철의 조직을 계승한 일본국유철도 청산사업단이 각 회사의 모든 주식을 보유했다. 청산사업단은 1998년 10월 22일에 해체되었고, 이후 일본철도건설공단 국철청산사업본부를 거쳐 독립행정법인 철도건설 및 운수시설 정비지원기구가 주식을 보유하게 되었다. 호칭은 국철의 영문 약칭 JNR에서 국유를 뜻하는 N을 제외하고 JR로 했다는 해석이 일반적이며, NR(Nippon Railways)도 검토되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "JR 그룹의 사업은 지역별 여객철도 6사와 일본화물철도로 나뉜다. 여객 6사는 홋카이도여객철도, 동일본여객철도, 도카이여객철도, 서일본여객철도, 시코쿠여객철도, 규슈여객철도이다. 공동 출자로 설립된 철도종합기술연구소(JR 총연)는 철도 전반에 관한 연구 기관의 역할을 수행한다. 철도정보시스템(JR 시스템)은 각 회사의 컴퓨터 시스템을 관리하고, 우등 열차 승차권 등을 판매하는 미도리노 마도구치를 운영, 관리한다. 2011년 큐슈 신칸센 개업으로 JR 큐슈의 수익이 흑자로 돌아섰다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "혼슈 3사 중 JR 동일본은 2002년 6월, JR 서일본은 2004년 3월, JR 도카이는 2006년 4월에 모든 국유 주식이 민간에 매각되어 완전한 민영화가 이루어졌다. JR 큐슈는 2016년 10월 25일 도쿄 증권거래소 1부에, 10월 26일 후쿠오카 증권거래소에 상장되어 지분의 완전민영화가 이뤄졌다. JR 홋카이도, JR 시코쿠, JR 화물은 정부가 전 주식을 보유한 특수법인으로 상장되지 않았으며 세제 지원과 손실 보전 등을 받고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "국유철도 JNR을 지역·분야별 법인으로 나눠 이어받은 일본 철도 기업군으로, 상장 회사와 특수 회사가 함께 속한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q864495",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q864495",
+    "https://ko.wikipedia.org/wiki/JR",
+    "https://en.wikipedia.org/wiki/Japan_Railways_Group"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q864495",
+   "country": "일본",
+   "inception": "1987",
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「JR」 요약과 위키데이터 Q864495 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

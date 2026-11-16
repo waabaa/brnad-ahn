@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q776997",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/morris-motors-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "morris-motors",
+  "urlSlug": "morris-motors",
+  "name": "모리스 자동차",
+  "nameKo": "모리스 자동차",
+  "nameEn": "Morris Motors",
+  "definition": "모리스 자동차(Morris Motors)는 1919년 William Morris의 WRM Motors Limited 자산을 매입하기 위해 설립된 영국의 모터 비클 제조기업이다. 모리스라는 이름은 1984년까지 사용되었다.",
+  "summary": "모리스 자동차(Morris Motors)는 1919년 William Morris의 WRM Motors Limited 자산을 매입하기 위해 설립된 영국의 모터 비클 제조기업이다. 모리스라는 이름은 1984년까지 사용되었다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "옥스퍼드에 본사를 둔 영국의 모터 비클 제조기업으로, 1926년 영국 차량 제조의 42%를 차지했고 1984년까지 모리스라는 이름이 이어진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "모리스 자동차는 옥스퍼드에 본사를 둔 영국의 모터 비클 제조기업이다. 창업자는 William Morris, 1st Viscount Nuffield이다. 1926년에는 생산량이 영국 차량 제조의 42%를 차지할 만큼 비중이 컸다. 1913년 시작된 Morris Oxford bullnose부터 1980년 시작된 Morris Ital까지 이어진 모델 목록에는 BMC Australia의 Morris Marshal과 호주 시장용 Morris 1500 같은 지역별 모델도 포함된다. 1952년에 더 큰 단체들로 합병되었지만 모리스라는 이름은 1984년까지 계속 사용되었다. 이후 브리티시 레일랜드의 오스틴 로버 그룹이 더 대중적인 오스틴 브랜드에 집중하기로 결정했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "모리스 자동차는 1919년 William Morris의 WRM Motors Limited 자산을 매입하기 위해 Morris Motors Limited라는 이름으로 설립되었다. 창업자는 William Morris, 1st Viscount Nuffield이다. 1926년에는 생산량이 영국 차량 제조의 42%를 차지했다. 모델 목록에서 가장 앞선 것은 1913년부터 1926년까지의 Morris Oxford bullnose와 1915년부터 1931년까지의 Morris Cowley bullnose and flatnose이다. 1952년에 더 큰 단체들로 합병되었으나 모리스라는 이름은 1984년까지 계속 사용되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 모델로 Morris Oxford, Morris Cowley, Morris Minor가 있다. Morris Minor는 1928년부터 1932년까지의 8 hp 모델이 있고, 1948년부터 1952년까지는 Morris Minor MM, 1956년부터 1971년까지는 Morris Minor 1000이 생산되었다. 1959년부터 1969년까지 Morris Mini Minor가, 1962년부터 1971년까지 Morris 1100이, 1967년부터 1971년까지 Morris 1300이 생산되었다. 1971년부터 1980년까지는 Morris Marina가, 1980년부터 1984년까지는 Morris Ital이 생산되었다. Morris Mini Moke는 1964년부터 1968년까지 영국에서, 1966년부터 1973년까지 호주에서 생산되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "모리스라는 이름은 1984년까지 사용되었다. 1952년에 더 큰 단체들로 합병된 뒤에도 이름은 유지되었으나, 이후 브리티시 레일랜드의 오스틴 로버 그룹이 더 대중적인 오스틴 브랜드에 집중하기로 결정했다. 마지막 모델은 1980년부터 1984년까지 생산된 Morris Ital이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "옥스퍼드에 본사를 둔 영국의 모터 비클 제조기업으로, 1926년 영국 차량 제조의 42%를 차지했고 1984년까지 모리스라는 이름이 이어진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q776997",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q776997",
+    "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A6%AC%EC%8A%A4_%EC%9E%90%EB%8F%99%EC%B0%A8",
+    "https://en.wikipedia.org/wiki/Morris_Motors"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q776997",
+   "country": "영국",
+   "inception": "1910",
+   "headquarters": "옥스퍼드",
+   "founders": [
+    "William Morris, 1st Viscount Nuffield"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「모리스 자동차」 요약과 위키데이터 Q776997 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

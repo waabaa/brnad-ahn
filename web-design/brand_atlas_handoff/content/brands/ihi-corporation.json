@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1653679",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/ihi-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ihi-corporation",
+  "urlSlug": "ihi-corporation",
+  "name": "IHI",
+  "nameKo": "IHI",
+  "nameEn": "IHI Corporation",
+  "definition": "IHI(IHI Corporation)는 일본 도쿄도에 본사를 둔 공학 기업이다. 선박, 우주발사체, 항공기 엔진, 가스 터빈, 플랜트 엔지니어링, 산업기계류 등을 제공하며 이전 이름은 이시카와지마 하리마 중공업이다.",
+  "summary": "IHI(IHI Corporation)는 일본 도쿄도에 본사를 둔 공학 기업이다. 선박, 우주발사체, 항공기 엔진, 가스 터빈, 플랜트 엔지니어링, 산업기계류 등을 제공하며 이전 이름은 이시카와지마 하리마 중공업이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "선박, 우주발사체, 항공기 엔진, 철도 시스템, 현수교까지 한 기업에서 제공하는 일본의 공학 기업으로, 이전 이름은 이시카와지마 하리마 중공업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "IHI는 일본 도쿄도에 본사를 둔 일본의 공학 기업으로, 항공기 엔진과 우주 제품 분야의 제품 계열도 갖추고 있다. 과거에는 이시카와지마 하리마 중공업이라는 이름을 사용했으며, 설립 연도는 1853년이다. 선박, 우주발사체, 항공기 엔진, 해양 디젤 엔진, 가스 터빈, 가스 기관, 철도 시스템, 자동차용 터보차저를 제공한다. 여기에 플랜트 엔지니어링, 산업기계류, 발전소 보일러 및 기타 시설, 현수교 및 기타 구조물까지 사업 범위에 포함된다. 에너지 및 자원 분야에서는 에너지 시스템, 공정 플랜트, 에너지 저장, 가스 터빈 사업을 다룬다. 도쿄 증권거래소 섹션 1에 등재되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "IHI는 1853년에 설립되었으며, 창업자는 미토번이다. 본사는 도쿄도에 있고, 구 명칭은 이시카와지마 하리마 중공업이다. 항공기 엔진 분야에서는 사내 개발로 이시카와지마 Ne-20, 이시카와지마-하리마 J3, F3, XF5, F7, XF9 등을 두었다. 또한 IAE V2500, GEnx, GE90, CF34, Pratt & Whitney PW1100G-JM 같은 합동 개발에 참여했고, 제너럴 일렉트릭 T700과 F110은 라이선스 생산했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 사업은 에너지 및 자원 분야로, 에너지 시스템, 공정 플랜트, 에너지 저장, 가스 터빈이 포함된다. 가스 터빈으로는 LM2500과 LM600이 있다. 항공기 엔진은 IAE V2500, GEnx, GE90, CF34, Pratt & Whitney PW1100G-JM을 합동 개발했고, 롤스로이스 트렌트의 부품을 제조한다. 우주 제품으로는 GX 로켓, 엡실론 로켓, BT-4가 있다. 이 밖에 선박, 해양 디젤 엔진, 철도 시스템, 자동차용 터보차저, 현수교를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "IHI는 도쿄 증권거래소 섹션 1에 등재되어 있다. 본사는 일본 도쿄도에 있으며 현재 명칭은 주식회사IHI이다. 선박, 우주발사체, 항공기 엔진, 철도 시스템, 플랜트 엔지니어링 등의 제품과 서비스를 제공한다. 발전소 보일러 및 기타 시설, 현수교 및 기타 구조물도 공급 범위에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "선박, 우주발사체, 항공기 엔진, 철도 시스템, 현수교까지 한 기업에서 제공하는 일본의 공학 기업으로, 이전 이름은 이시카와지마 하리마 중공업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.ihi.co.jp/",
+  "entityLinks": {
+   "wikidata": "Q1653679",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1653679",
+    "https://ko.wikipedia.org/wiki/IHI_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/IHI_Corporation"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1653679",
+   "country": "일본",
+   "inception": "1853",
+   "headquarters": "도쿄도",
+   "founders": [
+    "미토번"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「IHI (기업)」 요약과 위키데이터 Q1653679 팩트를 근거로 편집",
+  "founded": {
+   "date": "1853-12-05",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

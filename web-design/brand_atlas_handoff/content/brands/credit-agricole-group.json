@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q590952",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/credit-agricole-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "credit-agricole-group",
+  "urlSlug": "credit-agricole-group",
+  "name": "크레디 아그리콜",
+  "nameKo": "크레디 아그리콜",
+  "nameEn": "Credit Agricole Group",
+  "definition": "크레디 아그리콜(Crédit Agricole Group)은 프랑스의 국제 은행 그룹이자 세계 최대의 협동조합형 금융기관이다. 농업과의 역사적 연관성 때문에 '녹색 은행'으로도 불린다.",
+  "summary": "크레디 아그리콜(Crédit Agricole Group)은 프랑스의 국제 은행 그룹이자 세계 최대의 협동조합형 금융기관이다. 농업과의 역사적 연관성 때문에 '녹색 은행'으로도 불린다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.183333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "농업 금융에서 출발한 협동조합 구조의 은행 그룹으로, 지역 금융조합과 지역 은행이 소유 체계의 기반을 이루는 점이 다른 대형 은행과 구분된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 그룹은 지역 금융조합 네트워크, 39개의 지역 은행, 중앙기관인 Crédit Agricole S.A.로 구성된다. 2026년 기준 자산 규모로 세계 9위, 프랑스에서는 BNP Paribas에 이어 2위이며 유럽에서는 3위의 은행이다. Crédit Agricole S.A.를 중간 지주회사로 하여 Euronext Paris 제1시장에 상장되어 있고 CAC 40 지수에 포함된다. 금융안정위원회(Financial Stability Board)는 이 그룹을 systemically important bank로 분류한다. 2014년 말 유럽 은행 감독체제가 시행된 이후 Significant Institution으로 지정되어 유럽중앙은행의 직접 감독을 받는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "19세기 후반 프랑스 농민은 장기적이고 유연하며 적정한 가격의 신용을 얻기 어려웠다. 1861년 Crédit Foncier de France를 비롯해 농업 은행을 세우려는 시도가 여러 차례 있었으나 성공하지 못했다. 1884년 법으로 직업 결사의 자유가 인정되면서 농업 조합과 지역 상호은행의 설립이 가능해졌고, 1885년 2월 23일 Jura 지역의 Salins-les-Bains에서 프랑스 최초의 Société de Crédit Agricole이 만들어졌다. 1894년 11월 5일 법은 농업부 장관 Jules Méline의 지지를 받아 지역 금융조합 설립의 길을 열었다. 1897년에는 정부가 Banque de France에 자금 지원을 의무화했고, 1899년 법으로 지역 은행이 만들어져 지역 금융조합을 묶는 청산 기관 역할을 했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "초기 사업은 수확물을 담보로 한 단기 대출에만 한정되어 있었고, 이후 장비와 가축 구입을 위한 중기·장기 대출이 더해졌다. 현재 그룹은 지역 금융조합, 지역 은행, 중앙기관 Crédit Agricole S.A.로 이어지는 구조 위에서 운영된다. Crédit Agricole S.A.는 LCL, 이탈리아 네트워크, CIB 부문 같은 자회사의 일부를 소유한다. 1974년부터 Coupe de France를 후원해 왔고, 1998년부터 2008년까지 프로 도로 사이클링 팀 Crédit Agricole의 타이틀 스폰서였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "지역 금융조합이 지역 은행을 소유하고, 지역 은행이 지주회사를 통해 Crédit Agricole S.A.의 지분 과반을 보유하는 소유 구조를 이룬다. 본사는 몽루주에 있으며 모기업은 SAS Rue La Boétie로 기록되어 있다. 2026년 기준 세계 9위, 유럽 3위의 자산 규모를 가진 은행이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "농업 금융에서 출발한 협동조합 구조의 은행 그룹으로, 지역 금융조합과 지역 은행이 소유 체계의 기반을 이루는 점이 다른 대형 은행과 구분된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.credit-agricole.com/",
+  "entityLinks": {
+   "wikidata": "Q590952",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q590952",
+    "https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A0%88%EB%94%94_%EC%95%84%EA%B7%B8%EB%A6%AC%EC%BD%9C",
+    "https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q590952",
+   "country": "프랑스",
+   "inception": "2000",
+   "headquarters": "몽루주",
+   "founders": [],
+   "parent": "SAS Rue La Boétie",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Crédit Agricole」 본문과 위키데이터 Q590952 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q325639",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/tamron-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tamron",
+  "urlSlug": "tamron",
+  "name": "Tamron",
+  "nameKo": "",
+  "nameEn": "Tamron",
+  "definition": "Tamron은 사진용 렌즈, 광학 부품, 상업·산업용 광학기기를 제조하는 일본 기업이다. 본사는 사이타마현 사이타마시에 있으며, 사진용 렌즈가 2017 회계연도 매출의 74.9%를 차지했다.",
+  "summary": "Tamron은 사진용 렌즈, 광학 부품, 상업·산업용 광학기기를 제조하는 일본 기업이다. 본사는 사이타마현 사이타마시에 있으며, 사진용 렌즈가 2017 회계연도 매출의 74.9%를 차지했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "사진용 교환렌즈를 중심으로 광학 부품과 산업용 광학기기까지 다루는 일본 렌즈 제조사이며, Sony가 주요 주주라는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Tamron은 사진용 렌즈, 캠코더·디지털 스틸카메라·휴대전화 카메라용 렌즈 같은 광학 부품, 그리고 CCTV 등 상업·산업용 광학기기를 만드는 일본 기업이다. 본사는 사이타마현 사이타마시에 있다. 2017 회계연도(12월 31일 종료) 연결 기준 직원은 4,640명이었고, 일본의 히로사키·나미오카·오와니와 중국, 베트남에 생산 공장 5곳을 두었다. 미국, 독일, 프랑스, 홍콩, 상하이, 모스크바, 인도 하리아나에는 계열사가 있었다. 2024년 기준 Sony가 지분 15.02%를 보유한 주요 주주이다. 2026년 7월에는 Sony가 잔여 지분 인수를 비구속적으로 제안했고, Tamron은 독립 이사로 구성된 특별위원회를 꾸렸다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1950년 11월 Taisei Optical Manufacturing Company가 설립되어 카메라와 쌍안경용 렌즈를 만들기 시작했다. 창업자는 Takeyuki Arai이다. 1952년 10월 Taisei Optical Industries를 설립했고, 1958년 'Tamron' 상표를 등록했다. 회사명은 광학 기술 개발에 기여한 Uhyoue Tamura의 성에서 따왔으며, 창립 20주년인 1970년 4월 상호를 Tamron Co., Ltd.로 바꿨다. 이후 1979년 뉴욕에 Tamron Industries, Inc.를, 1982년 독일에 Tamron Vertriebs GmbH를 세우며 해외로 확장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력은 사진용 렌즈이며, 2017 회계연도 매출의 74.9%를 차지했다. 디지털·필름 SLR 카메라용 교환렌즈, 고정 초점 광각·망원·매크로 렌즈, 다양한 초점거리의 줌 렌즈, 텔레컨버터를 만든다. 1992년 28–200 mm를 출시해 소형 고배율 줌 렌즈를 개척했고, 여러 카메라 브랜드의 마운트를 바꿔 쓰는 수동 초점 Adaptall 시리즈도 만들었다. 광학 부품으로는 캠코더, 디지털 스틸카메라, 휴대전화 카메라용 렌즈가 있다. 상업·산업용으로는 감시, 산업용 비전, 영상 처리용 CCTV 카메라 렌즈를 공급한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2006년 11월 도쿄증권거래소 1부에 상장했다. 2024년 기준 Sony가 15.02%를 보유한 주요 주주이다. 2026년 7월 Sony는 잔여 지분을 인수해 Tamron을 완전 자회사로 만들겠다는 비구속적 제안을 했고, Tamron은 독립 이사로 특별위원회를 구성해 제안을 평가하도록 했다. 재무 조건은 공개되지 않았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "사진용 교환렌즈를 중심으로 광학 부품과 산업용 광학기기까지 다루는 일본 렌즈 제조사이며, Sony가 주요 주주라는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tamron.com/",
+  "entityLinks": {
+   "wikidata": "Q325639",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q325639",
+    "https://ko.wikipedia.org/wiki/%ED%83%90%EB%A1%A0",
+    "https://en.wikipedia.org/wiki/Tamron"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q325639",
+   "country": "독일",
+   "inception": "1950",
+   "headquarters": "사이타마시",
+   "founders": [
+    "Takeyuki Arai"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Tamron」 본문과 위키데이터 Q325639 팩트를 근거로 편집",
+  "founded": {
+   "date": "1950-11-01",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

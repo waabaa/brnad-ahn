@@ -48,8 +48,11 @@ if (!key) { console.log("  ! 수록 키 없음 — deploy/setup-server-jobs.sh �
   const reset = days.length ? Math.max(...days.filter(w => w.remaining === left).map(w => w.reset_s || 0)) : 0;
   if (left !== null && left < 3) { console.log(`  요청 수록 보류: 게이트웨이 한도 소진(${Math.round(reset / 60)}분 뒤 회복) — 대기 ${pending.length}건 유지`); process.exit(0); }
   // 한 건에 1~2콜(기각 재작성 포함)이 드므로 남은 몫의 70%만큼만 이번에 처리하고 나머지는 대기로 둔다.
-  const cap = left !== null ? Math.max(1, Math.floor(left * 0.7)) : pending.length;
-  if (pending.length > cap) { console.log(`  요청 ${pending.length}건 중 ${cap}건만 이번 실행에서 처리(하루 남은 한도 ${left})`); pending.splice(cap); }
+  // 한 실행에 최대 PER_RUN건 — 서버 작업 유닛은 1시간 제한이라, 한도를 크게 올린 날(2026-11-14 150→400) 189건을 한 번에 돌다
+  // 빌드·공개 전에 잘렸다. 나머지는 30분 간격 야간 실행·다음 트리거가 이어 받는다.
+  const PER_RUN = Number(process.env.CAT_PER_RUN || 40);
+  const cap = Math.min(PER_RUN, left !== null ? Math.max(1, Math.floor(left * 0.7)) : pending.length);
+  if (pending.length > cap) { console.log(`  요청 ${pending.length}건 중 ${cap}건만 이번 실행에서 처리(하루 남은 한도 ${left}, 실행당 최대 ${PER_RUN})`); pending.splice(cap); }
 }
 const now = () => new Date().toISOString();
 update(new Map(pending.map(r => [r.qid, { status: "running", startedAt: now() }])));

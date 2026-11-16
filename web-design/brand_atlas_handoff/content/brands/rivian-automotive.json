@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q7338847",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/rivian-automotive-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "rivian-automotive",
+  "urlSlug": "rivian-automotive",
+  "name": "리비안",
+  "nameKo": "리비안",
+  "nameEn": "Rivian Automotive",
+  "definition": "리비안(Rivian Automotive)은 2009년 미국에서 설립된 전기자동차 회사이다. 2021년 10월 첫 양산 차량인 R1T 트럭의 고객 인도를 시작했고, 같은 해 11월 나스닥에 상장했다.",
+  "summary": "리비안(Rivian Automotive)은 2009년 미국에서 설립된 전기자동차 회사이다. 2021년 10월 첫 양산 차량인 R1T 트럭의 고객 인도를 시작했고, 같은 해 11월 나스닥에 상장했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "스포츠카로 출발해 트럭과 SUV로 선회했고, 아마존과 포드의 투자를 받아 2021년 나스닥에 상장한 미국 전기자동차 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "리비안은 미국의 전기자동차 회사이다. 2009년 매사추세츠공대(MIT) 박사 출신 Robert \"RJ\" Scaringe가 26세에 설립했다. 2011년에 자율 전기 자동차에 집중하기 시작했고, 2015년에는 Michigan과 Bay Area에 연구소를 설립했다. 주요 공급업체에 더 가까이 가기 위해 본사를 미국 미시간주 리보니아로 이전했다. 첫 모델은 스포츠카였으나 이후 트럭과 SUV로 방향을 바꿨다. 2021년 10월 첫 양산 차량인 R1T 트럭을 고객에게 인도하기 시작했고, 같은 해 11월 10일 나스닥에 상장했다. 아마존과 포드의 투자를 받았으며 테슬라의 대항마가 될 가능성이 있다는 평가를 받고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리비안은 2009년 매사추세츠공대(MIT) 박사 출신 Robert \"RJ\" Scaringe가 26세에 설립했다. 2011년에 자율 전기 자동차에 집중하기 시작했다. 대규모 투자를 받아 2015년에 크게 성장했고 Michigan과 Bay Area에 연구소를 설립했다. 주요 공급업체에 더 가까이 가기 위해 본사를 미국 미시간주 리보니아로 이전했다. 트럭과 SUV로 선회하기 전 첫 모델은 디자인 디렉터 Peter Stevens가 디자인한 R1(원래 이름 Avera)이라는 미드 엔진 하이브리드 쿠페였다. 2021년 10월에는 첫 양산 차량인 R1T 트럭의 고객 인도를 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "리비안의 첫 양산 차량은 2021년 10월 고객 인도를 시작한 R1T 트럭이다. 초기 구상 모델인 R1(원래 이름 Avera)은 미국 시장을 위한 2+2 좌석 미드 엔진 하이브리드 쿠페였고, 본체와 쉽게 교체할 수 있는 본체 패널에 새로운 모듈식 캡슐 구조를 사용했다. 이 모델에는 잠재적인 디젤 하이브리드 버전과 브라질 원메이크 시리즈의 R1 GT라는 레이싱 버전이 거론되었고, 4도어 세단과 크로스오버도 가능성으로 언급되었다. 해치백과 같은 프로토타입도 2011년에 공개되었으나 R1과의 관계는 불명확하다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "리비안은 2021년 11월 10일 나스닥에 상장했고, 2021년 10월부터 R1T 트럭을 고객에게 인도하고 있다. 아마존과 포드의 지분은 각각 20%, 12%였으며, 상장 첫날 아마존이 지분 2%를 공개매수해 지분이 22%가 되었다. 전기차 1위 업체 테슬라의 대항마가 될 가능성이 있다고 평가받고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "스포츠카로 출발해 트럭과 SUV로 선회했고, 아마존과 포드의 투자를 받아 2021년 나스닥에 상장한 미국 전기자동차 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://rivian.com",
+  "entityLinks": {
+   "wikidata": "Q7338847",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q7338847",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%B9%84%EC%95%88",
+    "https://en.wikipedia.org/wiki/Rivian"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q7338847",
+   "country": "미국",
+   "inception": "2009",
+   "headquarters": "디트로이트",
+   "founders": [
+    "Robert \"RJ\" Scaringe"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「리비안」 요약과 위키데이터 Q7338847 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

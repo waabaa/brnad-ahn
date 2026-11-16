@@ -224,7 +224,7 @@
     qc.textContent = s ? hits.length + "건" : "";
   });
   q.addEventListener("keydown", (e) => {
-    if (e.key === "Enter" && hits.length) { e.preventDefault(); hp = (hp + 1) % hits.length; stop(); select(hits[hp], true); qc.textContent = `${hp + 1}/${hits.length}`; }
+    if (e.key === "Enter" && !e.isComposing && e.keyCode !== 229 && hits.length) { e.preventDefault(); hp = (hp + 1) % hits.length; stop(); select(hits[hp], true); qc.textContent = `${hp + 1}/${hits.length}`; }
   });
 
   // 목록의 항목 링크(#h-123)로 들어오면 격자에서 그 카드를 연다

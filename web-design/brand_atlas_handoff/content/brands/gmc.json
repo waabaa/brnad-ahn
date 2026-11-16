@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q28993",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/gmc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gmc",
+  "urlSlug": "gmc",
+  "name": "GMC",
+  "nameKo": "GMC",
+  "nameEn": "GMC",
+  "definition": "GMC는 미국의 자동차 제조 업체 제너럴 모터스가 상용차, 라이트 트럭, SUV에 쓰는 상표이다. 북아메리카와 중동 지역에서 전개하며 쉐보레의 윗급 브랜드이다.",
+  "summary": "GMC는 미국의 자동차 제조 업체 제너럴 모터스가 상용차, 라이트 트럭, SUV에 쓰는 상표이다. 북아메리카와 중동 지역에서 전개하며 쉐보레의 윗급 브랜드이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "쉐보레의 윗급 브랜드로서 상용차, 라이트 트럭, SUV를 전개하며, 대한민국에서는 '제무시'라는 별칭으로 알려진 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "GMC는 제너럴 모터스가 1912년부터 생산하기 시작한 상용차 및 라이트 트럭, SUV 상표이다. 북아메리카와 중동 지역에서 전개하고 있으며, 쉐보레의 윗급 브랜드로 자리한다. 미국 디트로이트에 본사를 두고 있다. 대한민국에서는 6.25 전쟁 이후 불하받은 미군용 트럭 CCKW를 통해 널리 알려졌고, 당시 '제무시'라는 별칭으로 불렸다. 2023년 2월 GMC 시에라를 시작으로 대한민국에 정식 진출했다. 대한민국 시장에는 처음으로 적재중량 1,500파운드급의 풀 사이즈 픽업 트럭을 정식으로 판매한다. 2026년 1월에는 GMC 아카디아, GMC 캐니언, GMC 허머 EV를 대한민국 라인업에 추가했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "GMC의 전신은 1902년에 설립되어 1909년에 제너럴 모터스에 인수된 래피드 모터 비이클 컴파니(Rapid Motor Vehicle Company)이다. 제너럴 모터스는 1912년부터 GMC 상표의 차량을 생산하기 시작했다. 위키데이터에는 GMC의 설립이 1911년, 창업자가 윌리엄 크라포 듀란트로 기록되어 있다. 대한민국에서는 6.25 전쟁 이후 불하받은 미군용 트럭 CCKW를 통해 GMC 브랜드가 알려졌으며, 이 트럭을 '제무시'라는 별칭으로 불렀다. 2020년에는 폐기된 허머 브랜드를 전기자동차로 부활한다고 선언하여 GMC의 차종명으로 지정했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "GMC는 상용차, 라이트 트럭, SUV를 생산한다. 쉐보레 실버라도의 형제차인 GMC 시에라는 적재중량 1,500파운드급의 풀 사이즈 픽업 트럭이며 대한민국에 처음 정식 출시된 모델이다. 2020년 선언과 함께 선보인 GMC 허머 EV는 허머를 전기자동차로 부활시킨 차종이다. 대한민국 라인업에는 GMC 아카디아와 GMC 캐니언도 있으며, 각각 쉐보레 트래버스와 쉐보레 콜로라도의 고급화된 형제차이다. GMC 캐니언이 정식 출시된 후 쉐보레 콜로라도는 병행 판매되다가 수입이 중지됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 말부터 대한민국에서는 캐딜락을 담당하는 GM아시아퍼시픽지역본부가 GMC를 관할한다. 정식 진출 당시에는 한국지엠이 관할했다. 이관 이후 서울특별시 송파구 삼전동에 GMC-캐딜락 통합 전시장을 열었다. 2026년 1월에는 아카디아, 캐니언, 허머 EV를 라인업에 추가하고 쉐보레 트래버스와 콜로라도를 GMC 모델로 대체했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "쉐보레의 윗급 브랜드로서 상용차, 라이트 트럭, SUV를 전개하며, 대한민국에서는 '제무시'라는 별칭으로 알려진 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.gmc.com/",
+  "entityLinks": {
+   "wikidata": "Q28993",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q28993",
+    "https://ko.wikipedia.org/wiki/GMC_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/GMC_(automobile)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q28993",
+   "country": "미국",
+   "inception": "1911",
+   "headquarters": "디트로이트",
+   "founders": [
+    "윌리엄 크라포 듀란트"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「GMC (자동차)」 요약과 위키데이터 Q28993 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

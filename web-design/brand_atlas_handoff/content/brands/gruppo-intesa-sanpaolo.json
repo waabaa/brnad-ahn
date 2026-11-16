@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1343118",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/gruppo-intesa-sanpaolo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "gruppo-intesa-sanpaolo",
+  "urlSlug": "gruppo-intesa-sanpaolo",
+  "name": "인테사 상파울로",
+  "nameKo": "인테사 상파울로",
+  "nameEn": "Gruppo Intesa Sanpaolo",
+  "definition": "인테사 상파울로(Gruppo Intesa Sanpaolo)는 이탈리아의 국제 은행 그룹이다. 2007년 밀라노의 Banca Intesa와 토리노의 Sanpaolo IMI가 합병해 출범했으며, 총자산 기준 이탈리아 최대 은행이다.",
+  "summary": "인테사 상파울로(Gruppo Intesa Sanpaolo)는 이탈리아의 국제 은행 그룹이다. 2007년 밀라노의 Banca Intesa와 토리노의 Sanpaolo IMI가 합병해 출범했으며, 총자산 기준 이탈리아 최대 은행이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1583년 Istituto Bancario San Paolo di Torino로 거슬러 올라가는 정체성을 지니고, 밀라노와 토리노에 본사를 둔 이탈리아 최대 은행 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "인테사 상파울로는 이탈리아의 은행 그룹으로, 총자산 기준 이탈리아 최대 은행이자 세계 38위 은행이다. 2007년 Banca Intesa와 Sanpaolo IMI가 합병해 만들어졌으며, 기업 정체성은 1583년 Istituto Bancario San Paolo di Torino의 설립까지 거슬러 올라간다. 본사는 밀라노와 토리노 두 곳이다. 2025년 기준 이탈리아 내 고객은 물론 중앙·남동부 유럽, 중동, 북아프리카 고객에게도 서비스를 제공한다. 2025년 Fortune Global 500에서 자산 기준 40위, 전체 283위에 올랐다. Euro Stoxx 50 지수의 구성 종목이며, 유럽중앙은행의 직접 감독을 받는다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2007년 1월 이탈리아 3대 은행 중 두 곳이던 Banca Intesa와 Sanpaolo IMI가 공식 합병했다. Banca Intesa는 1998년 Cariplo와 Banco Ambrosiano Veneto의 합병으로 만들어졌고, 이듬해 Banca Commerciale Italiana가 합류했다. Sanpaolo IMI는 1998년 소매금융에 특화된 Istituto Bancario San Paolo di Torino와 투자은행 IMI(Istituto Mobiliare Italiano)가 합병해 출범했다. 그룹에서 가장 오래된 뿌리는 1823년 밀라노에서 설립된 Cassa di Risparmio delle Provincie Lombarde로, 이후 Cariplo로 이어졌다. 합병 승인 과정에서 이탈리아 경쟁당국 AGCM은 Udine와 Gorizia 지역에 2년간 신규 지점 개설을 금지했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 여러 부문으로 나뉜다. 밀라노에는 IMI-Corporate and Investment Banking Division, International Banks Division, Private Banking Division, Asset Management Division, Insurance Division의 본부가 있다. 토리노에는 소매금융 부문인 Banca dei Territori의 본부가 있다. 해외에서는 Alexbank, CIB Bank, PBZ, VÚB Banka 등 여러 자회사를 통해 중앙·남동부 유럽, 중동, 북아프리카 고객에게 서비스를 제공한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2025년 기준 이탈리아 최대 은행이며 Fortune Global 500에서 자산 기준 40위, 전체 283위이다. 2014년 말 유럽 은행 감독 체계가 시작된 이후 Significant Institution으로 지정되어 유럽중앙은행의 직접 감독을 받는다. Euro Stoxx 50 지수의 구성 종목이다. 밀라노와 토리노 두 곳에 본사를 두고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1583년 Istituto Bancario San Paolo di Torino로 거슬러 올라가는 정체성을 지니고, 밀라노와 토리노에 본사를 둔 이탈리아 최대 은행 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.intesasanpaolo.com/",
+  "entityLinks": {
+   "wikidata": "Q1343118",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1343118",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%85%8C%EC%82%AC_%EC%83%81%ED%8C%8C%EC%9A%B8%EB%A1%9C",
+    "https://en.wikipedia.org/wiki/Intesa_Sanpaolo"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1343118",
+   "country": "이탈리아",
+   "inception": "2007",
+   "headquarters": "토리노",
+   "founders": [
+    "Banca Intesa",
+    "Sanpaolo IMI"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Intesa Sanpaolo」 본문과 위키데이터 Q1343118 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

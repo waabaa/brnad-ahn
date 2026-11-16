@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q267380",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "anglo-persian-oil-company",
+  "urlSlug": "anglo-persian-oil-company",
+  "name": "앵글로-페르시아 석유회사",
+  "nameKo": "앵글로-페르시아 석유회사",
+  "nameEn": "Anglo-Persian Oil Company",
+  "definition": "앵글로-페르시아 석유회사(Anglo-Persian Oil Company)는 1909년 이란 마스제드솔레이만에서 대규모 유전이 발견되자 이를 개발하기 위해 만들어진 영국 회사이다. 현재 BP의 전신이다.",
+  "summary": "앵글로-페르시아 석유회사(Anglo-Persian Oil Company)는 1909년 이란 마스제드솔레이만에서 대규모 유전이 발견되자 이를 개발하기 위해 만들어진 영국 회사이다. 현재 BP의 전신이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "이란에서 석유를 처음 채굴한 영국 회사로, 영국 정부가 지분 과반을 소유했으며 현재 BP의 전신이 된 석유 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 1909년 영국에서 설립되어 이란 마스제드솔레이만 유전을 개발한 석유 회사이며, 약칭은 APOC이다. 이란에서 석유를 처음으로 채굴한 회사였다. 1914년 당시 지분의 과반인 51%를 영국 정부가 소유한 사실상의 공기업이었다. 1935년 레자 샤 팔라비가 국명을 이란으로 바꾸면서 회사명이 앵글로-이란 석유회사(Anglo-Iranian Oil Company; AIOC)가 되었고, 1954년에는 영국석유회사(The British Petroleum Company)로 다시 이름을 바꾸었다. 1951년 이란의 모하마드 모사데그 총리가 이란 국내 자산을 국유화해 이란 국영석유공사를 만들었고, 이는 아바단 사태로 이어졌다. 이 회사는 현재의 BP의 전신이며, 본사는 런던에 두었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1909년 팔레비 왕조의 이란 마스제드솔레이만에서 대규모 유전이 발견되자, 이 유전을 개발하기 위해 영국 회사로 설립되었다. 본사는 런던에 있었다. 1914년 당시 지분의 과반인 51%를 영국 정부가 소유한 사실상의 공기업이었고, 이란에서 석유를 처음으로 채굴한 회사였다. 1935년 레자 샤 팔라비가 국명을 이란으로 바꾸면서 회사명이 앵글로-이란 석유회사가 되었다. 1951년에는 이란 총리 모하마드 모사데그가 국가 기간 자원인 석유를 수탈한다는 이유로 이 회사의 이란 국내 자산을 국유화했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1951년 이란 국내 자산이 국유화되어 이란 국영석유공사가 만들어졌다. 이는 아바단 사태로 이어졌고, 결국 영국과 미국이 후원한 아작스 쿠데타로 모사데그 총리가 실각했다. 회사는 1954년 영국석유회사(The British Petroleum Company)로 다시 이름을 바꾸었으며, 이것이 현재의 BP의 전신이 된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이란에서 석유를 처음 채굴한 영국 회사로, 영국 정부가 지분 과반을 소유했으며 현재 BP의 전신이 된 석유 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q267380",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q267380",
+    "https://ko.wikipedia.org/wiki/%EC%95%B5%EA%B8%80%EB%A1%9C-%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%84_%EC%84%9D%EC%9C%A0%ED%9A%8C%EC%82%AC",
+    "https://en.wikipedia.org/wiki/Anglo-Persian_Oil_Company"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q267380",
+   "country": "영국",
+   "inception": "1909",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「앵글로-페르시아 석유회사」 요약과 위키데이터 Q267380 팩트를 근거로 편집"
+ }
+}

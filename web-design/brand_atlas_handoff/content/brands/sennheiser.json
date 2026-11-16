@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q167221",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/sennheiser-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sennheiser",
+  "urlSlug": "sennheiser",
+  "name": "젠하이저",
+  "nameKo": "젠하이저",
+  "nameEn": "Sennheiser",
+  "definition": "젠하이저(Sennheiser)는 1945년 프리츠 젠하이저가 창립한 독일의 음향기기 제조사이다. 소비자 및 전문가용 마이크, 헤드폰, 스피커에 특화되어 있다.",
+  "summary": "젠하이저(Sennheiser)는 1945년 프리츠 젠하이저가 창립한 독일의 음향기기 제조사이다. 소비자 및 전문가용 마이크, 헤드폰, 스피커에 특화되어 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.083333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "소비자·전문가용 마이크와 헤드폰에 특화된 독일 음향기기 제조사로, 아카데미상 기술상과 에미상, 그래미상을 받았다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "젠하이저는 독일의 음향기기 제조사로, 소비자 및 전문가용 마이크, 헤드폰, 스피커에 특화되어 있다. 본사는 하노버 베데마르크에 소재하였다. 1945년 프리츠 젠하이저가 창립했으며, 2019년에는 2,800명 이상의 직원과 756백만 유로의 매출을 기록했다. 1987년에는 MKH 816 마이크를 제조한 공로로 아카데미상 기술상을 받았고, 1996년에는 무선 전송 기술 개발로 에미상 기술 & 공학 부문을, 1999년에는 그래미상을 수상했다. 2021년 5월에는 소비자 오디오 부문이 소노바에 인수되었다. 스튜디오 마이크를 생산하는 게오르그 노이만이 주요 자회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1945년 6월, 유럽에서 제2차 세계 대전이 종전한 직후 창립자 프리츠 젠하이저와 하노버 대학의 7명의 엔지니어들이 베데마르크의 베네보슈텔 마을에 연구소를 세웠다. 이 \"연구소 W\"(Labor W)에서 제일 먼저 생산한 제품은 전압계였다. 1958년에는 회사명을 오늘날의 젠하이저로 바꾸었고, 1973년에는 회사의 형태를 유한회사로 바꿨다. 1982년에는 창업자 프리츠 젠하이저가 경영권을 아들인 요외르크 젠하이저에게 물려주었다. 이후 1987년에는 MKH 816 마이크로 아카데미상 기술상을 받았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "젠하이저는 소비자 및 전문가용 마이크, 헤드폰, 스피커를 중심으로 하는 음향기기 제조사이다. 창립 직후 연구소 W에서 가장 먼저 생산한 제품은 전압계였다. 1987년에는 MKH 816 마이크를 제조한 공로로 아카데미 오브 모션 픽처 아츠 앤드 사이언시즈가 주는 아카데미상 기술상을 받았다. 1996년에는 무선 전송 기술을 개발한 공로로 에미상 기술 & 공학 부문을 받았다. 스튜디오 마이크를 생산하는 게오르그 노이만은 주요 자회사이며, 소비자 오디오 부문은 2021년 5월 소노바에 인수되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 젠하이저는 2,800명 이상의 직원과 756백만 유로의 매출을 기록했다. 2021년 5월에는 소비자 오디오 부문이 소노바에 인수되었다. 주요 자회사로는 스튜디오 마이크를 생산하는 게오르그 노이만이 있다. 본사는 하노버 베데마르크에 소재하였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소비자·전문가용 마이크와 헤드폰에 특화된 독일 음향기기 제조사로, 아카데미상 기술상과 에미상, 그래미상을 받았다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sennheiser.com/en-us",
+  "entityLinks": {
+   "wikidata": "Q167221",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q167221",
+    "https://ko.wikipedia.org/wiki/%EC%A0%A0%ED%95%98%EC%9D%B4%EC%A0%80",
+    "https://en.wikipedia.org/wiki/Sennheiser"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q167221",
+   "country": "독일",
+   "inception": "1945",
+   "headquarters": "Wedemark",
+   "founders": [
+    "Fritz Sennheiser"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「젠하이저」 요약과 위키데이터 Q167221 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

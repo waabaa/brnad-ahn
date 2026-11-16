@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q83823",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ferrovie-dello-stato-italiane-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ferrovie-dello-stato-italiane",
+  "urlSlug": "ferrovie-dello-stato-italiane",
+  "name": "페로비에 델로 스타토 이탈리아네",
+  "nameKo": "페로비에 델로 스타토 이탈리아네",
+  "nameEn": "Ferrovie dello Stato Italiane",
+  "definition": "페로비에 델로 스타토 이탈리아네(Ferrovie dello Stato Italiane)는 이탈리아 철도망의 기반시설과 서비스를 운영하는 국영 철도 지주회사이다. 자회사 트레니탈리아는 이탈리아에서 가장 큰 철도 운영기업이다.",
+  "summary": "페로비에 델로 스타토 이탈리아네(Ferrovie dello Stato Italiane)는 이탈리아 철도망의 기반시설과 서비스를 운영하는 국영 철도 지주회사이다. 자회사 트레니탈리아는 이탈리아에서 가장 큰 철도 운영기업이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "이탈리아 국영 철도 지주회사로, 이탈리아에서 가장 큰 철도 운영기업인 트레니탈리아를 자회사로 두고 있다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페로비에 델로 스타토 이탈리아네는 1905년 이탈리아 정부가 설립한 국영 철도 지주회사이다. 본사는 로마에 있으며, 모기업은 Ministry of Economy and Finance이다. 여러 자회사를 통해 이탈리아 철도망의 기반시설과 서비스를 운영한다. 이름은 이탈리아 국영 철도 주식회사라는 뜻으로 풀이되며, 이전 명칭은 페로비에 델로 스타토(Ferrovie dello Stato, FS)이다. 자회사 트레니탈리아는 이탈리아에서 가장 큰 철도 운영기업이다. 이 밖에 첸토스타치오니, 레테 페로비아리아 이탈리아나, 이탈페르, 페르세르비치, FS 로지스티카, FS 시스테미 우르바니, 페르크레딧 등을 소유하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "페로비에 델로 스타토 이탈리아네는 1905년 이탈리아 정부가 설립한 국영 철도 기업이다. 본사는 이탈리아 로마에 있다. 이전 명칭은 페로비에 델로 스타토(Ferrovie dello Stato, FS)이다. 최고경영자(CEO)는 로렌초 네치(Lorenzo Necci)가 1989년부터 1996년까지, 잔카를로 치몰리(Giancarlo Cimoli)가 1996년부터 2004년까지 맡았다. 이후 엘리오 카타니아(Elio Catania)가 2004년부터 2006년까지, 마우로 모레티(Mauro Moretti)가 2006년부터 2014년까지 맡았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "페로비에 델로 스타토 이탈리아네의 사업은 이탈리아 철도망의 기반시설과 서비스를 운영하는 것으로 구성된다. 자회사 트레니탈리아는 이탈리아에서 가장 큰 철도 운영기업이다. 소유한 회사로는 트레니탈리아, 첸토스타치오니, 레테 페로비아리아 이탈리아나, 이탈페르, 페르세르비치, FS 로지스티카가 있다. FS 시스테미 우르바니, 부시탈리아 시타 노르드, 페르크레딧, 그란디 스타치오니, 네티네라 사를도 소유 회사에 포함된다. 이들 회사는 모두 지주회사인 페로비에 델로 스타토 이탈리아네가 소유한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 모기업은 Ministry of Economy and Finance이다. 본사는 로마에 있으며, 이탈리아 철도망의 기반시설과 서비스를 운영하는 국영 철도 지주회사이다. 자회사 트레니탈리아는 이탈리아에서 가장 큰 철도 운영기업이다. 역대 CEO 가운데 마우로 모레티(Mauro Moretti)는 2006년부터 2014년까지 재임했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이탈리아 국영 철도 지주회사로, 이탈리아에서 가장 큰 철도 운영기업인 트레니탈리아를 자회사로 두고 있다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.fsitaliane.it/",
+  "entityLinks": {
+   "wikidata": "Q83823",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q83823",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A1%9C%EB%B9%84%EC%97%90_%EB%8D%B8%EB%A1%9C_%EC%8A%A4%ED%83%80%ED%86%A0_%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EB%84%A4",
+    "https://en.wikipedia.org/wiki/Ferrovie_dello_Stato_Italiane"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q83823",
+   "country": "이탈리아",
+   "inception": "1905",
+   "headquarters": "로마",
+   "founders": [
+    "이탈리아 정부"
+   ],
+   "parent": "Ministry of Economy and Finance",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「페로비에 델로 스타토 이탈리아네」 요약과 위키데이터 Q83823 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

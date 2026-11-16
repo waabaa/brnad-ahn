@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1632681",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lee-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lee",
+  "urlSlug": "lee",
+  "name": "리",
+  "nameKo": "리",
+  "nameEn": "Lee",
+  "definition": "리(Lee)는 1889년 미국 캔자스주 설라이나에서 처음 생산된 데님 청바지 브랜드이다. 캐주얼 의류와 작업복도 생산하며 2019년부터 Kontoor Brands가 소유하고 있다.",
+  "summary": "리(Lee)는 1889년 미국 캔자스주 설라이나에서 처음 생산된 데님 청바지 브랜드이다. 캐주얼 의류와 작업복도 생산하며 2019년부터 Kontoor Brands가 소유하고 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "1889년 캔자스주에서 시작해 작업복에서 캐주얼 데님으로 영역을 넓힌 미국 청바지 브랜드이며, “미국을 만든 청바지”를 슬로건으로 삼는다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "리는 데님 청바지를 중심으로 캐주얼 의류와 작업복을 생산하는 미국의 브랜드이다. 1889년 캔자스주 설라이나에서 처음 생산되었으며, 1930~1940년대에는 미국에서 작업복 분야의 선도적인 제조업체로 자리 잡았다. 1970년대부터는 작업복 중심의 사업에서 벗어나 패션 트렌드에 맞춘 제품에 집중하기 시작했다. 1930년대에 시작된 광고에서 “미국을 만든 청바지(The Jeans that Built America)”라는 슬로건이 탄생했다. 2019년부터 Kontoor Brands가 소유하고 있으며, 같은 해 본사를 캔자스주 메리엄에서 노스캐롤라이나주 그린즈버러로 옮겼다. 미국에 400명 이상의 직원을 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리는 1889년 Henry David Lee가 캔자스주 설라이나에서 H.D. Lee Mercantile Company라는 이름으로 설립했으며, 멜빵바지와 재킷을 생산했다. 1913년에 Union-All 작업용 점프수트를 출시하고 1920년에 첫 오버올을 선보이면서 빠르게 성장했다. 1920년대 후반에는 지퍼 플라이를 도입했고, 이 시기에 어린이용 오버올도 처음 판매했다. 1928년에는 창립자가 사망했으며, 1954년에는 캐주얼 의류 시장으로 사업을 확장했다. 1960년대에는 81개국으로 진출했고, 1969년 VF Corporation에 인수되어 하나의 브랜드가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "리의 중심 제품은 데님 청바지이며, 캐주얼 의류와 작업복도 생산한다. 초기에는 멜빵바지와 재킷, 작업용 점프수트와 오버올을 만들었다. 1944년에는 Lazy “S”가 Lee 청바지 뒷주머니의 공식 스티치로 채택되었고, Buddy Lee 인형이 홍보용 상품으로 활용되었다. 1970년대에는 Ms. Lee라는 이름으로 여성을 위한 새로운 핏의 제품을 선보였고, 남녀 아동을 위한 유스웨어 라인도 출시했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2019년 Lee, Wrangler, Rock & Republic, VF Outlet이 VF Corporation에서 분리되어 Kontoor Brands로 독립했다. 같은 해 본사를 캔자스주 메리엄에서 노스캐롤라이나주 그린즈버러로 옮겼다. 미국에 400명 이상의 직원을 두고 있으며, 미국 내에서 매년 4천만 달러 이상을 광고에 지출한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1889년 캔자스주에서 시작해 작업복에서 캐주얼 데님으로 영역을 넓힌 미국 청바지 브랜드이며, “미국을 만든 청바지”를 슬로건으로 삼는다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.lee.com",
+  "entityLinks": {
+   "wikidata": "Q1632681",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1632681",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC_(%EB%B8%8C%EB%9E%9C%EB%93%9C)",
+    "https://en.wikipedia.org/wiki/Lee_(brand)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1632681",
+   "country": "미국",
+   "inception": "1889",
+   "headquarters": "Merriam",
+   "founders": [
+    "Harry David Lee"
+   ],
+   "parent": "VF Corporation",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「리 (브랜드)」 요약과 위키데이터 Q1632681 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

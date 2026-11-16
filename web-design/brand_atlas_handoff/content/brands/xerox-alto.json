@@ -1,0 +1,65 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1140061",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "xerox-alto",
+  "urlSlug": "xerox-alto",
+  "name": "제록스 알토",
+  "nameKo": "제록스 알토",
+  "nameEn": "Xerox Alto",
+  "definition": "제록스 알토(Xerox Alto)는 제록스 PARC이 개발하여 1973년에 출시한 초기의 개인용 컴퓨터이다. 데스크톱 메타포와 그래픽 사용자 인터페이스(GUI)를 이용한 최초의 컴퓨터였다.",
+  "summary": "제록스 알토(Xerox Alto)는 제록스 PARC이 개발하여 1973년에 출시한 초기의 개인용 컴퓨터이다. 데스크톱 메타포와 그래픽 사용자 인터페이스(GUI)를 이용한 최초의 컴퓨터였다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "데스크톱 메타포와 GUI를 이용한 최초의 컴퓨터로, 상업 제품이 아닌 연구 프로젝트로 개발되어 매킨토시와 썬 워크스테이션의 설계에 영향을 주었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "제록스 알토는 제록스 PARC이 개발하여 1973년에 출시한 초기의 개인용 컴퓨터이다. 데스크톱 메타포와 그래픽 사용자 인터페이스(GUI)를 이용한 최초의 컴퓨터였다. 상업적인 프로젝트는 아니었지만 수천 개의 제품이 조립되어, 여러 해에 걸쳐 제록스의 연구소 PARC과 여러 군데의 대학교에서 쓰였다. 알토는 수십 년에 걸쳐 개인용 컴퓨터, 특히 매킨토시와 최초의 썬 워크스테이션의 설계에 큰 영향을 주었다. 알토의 개념은 더글러스 엥겔바트가 SRI에서 개발한 NLS에 착안한 버틀러 램슨의 메모를 통해 1972년에 처음 성립되었으며, 디자인은 주로 찰스 새커(Chuck Thacker)가 맡았다. 현재 일부 알토 조립품이 마운틴뷰에 위치한 컴퓨터 역사 박물관에 전시되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "알토는 더글러스 엥겔바트가 SRI에서 개발한 NLS에 착안하여 버틀러 램슨이 쓴 메모를 통해 1972년에 개념이 처음 성립되었다. 디자인은 주로 찰스 새커(Chuck Thacker)가 맡았다. 제조는 칼 클레먼트(Carl J. Clement), 켄 캠벨(Ken Campbell), 프레드 스텡겔(Fred Stengel)의 팀인 클레먼트 디자인랩스(Clement Designlabs)에 도급 계약으로 맡겼다. 클레먼트 디자인랩스는 제록스 엘세군도(El Segundo)의 토니 추피니(Tony Ciuffini), 릭 네빈저(Rick Nevinger)와 함께 작업하며 초기에 80개 제품을 생산했다. 시험 판매가 성공하자 그 뒤 10년에 걸쳐 거의 2,000개의 제품을 생산했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "데스크톱 메타포와 GUI를 이용한 최초의 컴퓨터로, 상업 제품이 아닌 연구 프로젝트로 개발되어 매킨토시와 썬 워크스테이션의 설계에 영향을 주었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q1140061",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1140061",
+    "https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%A1%9D%EC%8A%A4_%EC%95%8C%ED%86%A0",
+    "https://en.wikipedia.org/wiki/Xerox_Alto"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1140061",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「제록스 알토」 요약과 위키데이터 Q1140061 팩트를 근거로 편집"
+ }
+}

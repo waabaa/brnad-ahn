@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q3485048",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/sinovac-biotech-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sinovac-biotech",
+  "urlSlug": "sinovac-biotech",
+  "name": "시노백 바이오테크",
+  "nameKo": "시노백 바이오테크",
+  "nameEn": "Sinovac Biotech",
+  "definition": "시노백 바이오테크(Sinovac Biotech)는 베이징시 하이뎬구에 본사를 둔 중국의 바이오제약 기업이다. 인체 감염병을 예방하는 백신의 연구, 개발, 제조, 상용화에 주력한다.",
+  "summary": "시노백 바이오테크(Sinovac Biotech)는 베이징시 하이뎬구에 본사를 둔 중국의 바이오제약 기업이다. 인체 감염병을 예방하는 백신의 연구, 개발, 제조, 상용화에 주력한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "코로나19 백신 CoronaVac을 개발한 베이징 기반 백신 전문 기업이다. 인플루엔자, A형 간염 등 여러 감염병 백신도 상용화했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "시노백 바이오테크는 인체 감염병을 막는 백신의 연구·개발·제조·상용화에 집중하는 중국 바이오제약 기업이다. 본사는 베이징시 하이뎬구에 있으며 1999년에 설립되었다. 상용화한 백신에는 코로나19 백신 CoronaVac, 엔테로바이러스 71 백신 Inlive, 인플루엔자 백신 Anflu, A형 간염 백신 Healive, 수두 백신, 볼거리 백신이 있다. CoronaVac은 2021년 6월 1일 세계보건기구(WHO)가 긴급사용을 인증했으며, 2024년 1월 생산 중단이 확인되었다. 이 회사는 나스닥에 상장되었으나 2019년 2월 위임장 대결로 거래가 정지되었고, 중국에서 뇌물 수수 수사를 받은 적이 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "시노백 바이오테크는 1999년에 설립되었으며 본사는 베이징시 하이뎬구에 있다. 설립 이후 인체 감염병을 예방하는 백신의 연구와 개발, 제조, 상용화를 이어 왔다. 이 회사는 나스닥에 상장되었으나 2019년 2월 위임장 대결을 이유로 거래소가 거래를 정지시켰다. 코로나19 팬데믹 시기에는 불활성화 바이러스 방식의 CoronaVac을 개발해 브라질, 칠레, 인도네시아, 필리핀, 튀르키예에서 3상 임상시험을 진행했고, 제조는 중국, 브라질, 이집트의 여러 시설에서 이루어졌다. CoronaVac은 냉동이 필요 없고 2–8 °C에서 운송과 냉장이 가능했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "시노백의 상용화 백신에는 CoronaVac(코로나19 백신), Inlive(엔테로바이러스 71 백신), Anflu(인플루엔자 백신), Healive(A형 간염 백신), 수두 백신, 볼거리 백신이 있다. 이 가운데 CoronaVac은 현재 생산이 중단되었다. CoronaVac은 불활성화 바이러스 방식 백신으로, Sinopharm BIBP 백신 및 Covaxin과 비슷한 전통 기술에 기반한다. 칠레 접종자를 대상으로 한 실사용 연구에서는 증상이 나타나는 코로나19에 66%, 입원에 88%, 중환자실 입원에 90%, 사망에 86%의 효과를 보였다. 튀르키예 3상 결과는 The Lancet에 실렸으며 효능은 84%였다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "시노백은 2024년 1월 CoronaVac의 생산을 중단했다고 확인했다. 나스닥 상장사였으나 2019년 2월 위임장 대결로 거래소가 거래를 정지시켰다. 중국에서 뇌물 수수 수사를 받았으며, 코로나19 백신은 미국 정부의 은밀한 허위정보 캠페인과 중국 정부의 홍보성 소셜미디어 어스트로터핑 캠페인의 대상이 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "코로나19 백신 CoronaVac을 개발한 베이징 기반 백신 전문 기업이다. 인플루엔자, A형 간염 등 여러 감염병 백신도 상용화했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.sinovac.com/",
+  "entityLinks": {
+   "wikidata": "Q3485048",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q3485048",
+    "https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%85%B8%EB%B0%B1_%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8C%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Sinovac_Biotech"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q3485048",
+   "country": "중화인민공화국",
+   "inception": "1999",
+   "headquarters": "베이징시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Sinovac Biotech」 본문과 위키데이터 Q3485048 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

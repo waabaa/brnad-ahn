@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q13463146",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "loon",
+  "urlSlug": "loon",
+  "name": "프로젝트 룬",
+  "nameKo": "프로젝트 룬",
+  "nameEn": "Loon",
+  "definition": "프로젝트 룬(Loon)은 알파벳의 자회사로, 외딴 지역과 농촌에 인터넷 접속을 제공하려 한 회사이자 프로젝트이다. 성층권에 띄운 고고도 기구로 최대 1 Mbit/s 속도의 공중 무선망을 구성했다.",
+  "summary": "프로젝트 룬(Loon)은 알파벳의 자회사로, 외딴 지역과 농촌에 인터넷 접속을 제공하려 한 회사이자 프로젝트이다. 성층권에 띄운 고고도 기구로 최대 1 Mbit/s 속도의 공중 무선망을 구성했다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "Google X에서 출발해 분사한, 광케이블 대신 성층권 기구망으로 외딴 지역에 인터넷을 공급하려 했던 알파벳 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "Loon LLC는 알파벳의 자회사로, 농촌과 외딴 지역에 인터넷 접속을 제공하는 일을 했다. 고도 18km에서 25km 사이의 성층권에 기구를 띄워 최대 1 Mbit/s 속도의 공중 무선망을 만들었다. 기구는 성층권에서 고도를 조절해 원하는 속도와 방향의 바람층으로 이동했으며, 이를 위해 National Oceanic and Atmospheric Administration(NOAA)의 바람 자료를 썼다. 이용자는 건물에 단 전용 인터넷 안테나로 기구망에 접속했고, 신호는 기구에서 기구로 전달된 뒤 인터넷 서비스 제공업체(ISP)에 연결된 지상 기지국을 거쳐 전 세계 인터넷으로 이어졌다. 이름은 사용한 기구에서 따왔다. 2021년 1월 알파벳은 수익성 부족을 이유로 회사를 폐쇄한다고 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "프로젝트는 2011년 X(구 Google X)에서 연구개발 프로젝트로 시작됐다. 비공식 개발은 Google X의 인큐베이션 아래 캘리포니아 센트럴밸리에서 시험 비행을 거치며 진행됐고, 2013년 6월 14일 Google 프로젝트로 공식 발표됐다. 2013년 6월 16일 Google은 뉴질랜드 민간항공청과 협력해 남섬 테카포 지역에서 기구 약 30개를 띄웠고, 크라이스트처치와 캔터베리 일대 이용자 약 50명이 시험에 참여했다. 이후 2018년 7월 별도 회사로 분사했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "Loon의 서비스는 성층권 기구망을 통한 인터넷 접속이다. 이용자는 건물에 부착하는 전용 안테나로 연결했다. 2014년 5월 Google X 연구소 책임자 Eric \"Astro\" Teller는 전 세계에서 쓸 수 있는 대역폭을 따로 협상하는 대신, 기구가 지나는 나라의 이동통신사가 임대할 수 있는 임시 기지국 역할을 하겠다고 밝혔다. 2014년 5월과 6월에는 브라질 피아우이에서 첫 LTE 실험을 했다. 이 기술은 땅속에 광케이블을 깔지 않고도 접속을 제공할 수 있는 방식으로 제시됐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 1월 알파벳은 수익성이 부족하다는 이유로 회사를 폐쇄한다고 발표했다. Loon LLC는 2018년 7월 X에서 분사해 알파벳 자회사로 운영된 별도 회사였다. Google은 초기에 성층권에 기구를 수천 개 띄우는 것을 희망했다. 이 발표로 성층권 기구를 이용한 인터넷 접속 사업은 막을 내리게 됐다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Google X에서 출발해 분사한, 광케이블 대신 성층권 기구망으로 외딴 지역에 인터넷을 공급하려 했던 알파벳 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://loon.com/",
+  "entityLinks": {
+   "wikidata": "Q13463146",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q13463146",
+    "https://ko.wikipedia.org/wiki/%EB%A3%AC_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Loon_LLC"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q13463146",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": "알파벳",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Loon LLC」 본문과 위키데이터 Q13463146 팩트를 근거로 편집"
+ }
+}

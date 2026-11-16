@@ -3,15 +3,15 @@
  "counts": {
   "ai": 26,
   "fintech": 32,
-  "banking": 76,
-  "energy": 52,
-  "property": 38,
-  "airlines": 82,
+  "banking": 81,
+  "energy": 61,
+  "property": 40,
+  "airlines": 88,
   "museums": 27,
   "fast-food": 58,
   "cafes": 34,
   "beer": 383,
-  "digital-services": 86,
+  "digital-services": 89,
   "olympics-expos": 16
  },
  "members": {
@@ -5461,6 +5461,156 @@
    {
     "collection": "beer",
     "why": "wikidata Q75438 P31=Q131734"
+   }
+  ],
+  "agricultural-bank-of-china": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q26298 P31=Q848507"
+   }
+  ],
+  "anglo-persian-oil-company": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q267380 P31=Q14941854"
+   }
+  ],
+  "bouygues": [
+   {
+    "collection": "property",
+    "why": "wikidata Q895325 P452=Q385378"
+   }
+  ],
+  "credit-agricole-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q590952 P31=Q22687"
+   }
+  ],
+  "e-on": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q270223 P31=Q1341478"
+   }
+  ],
+  "equinor-asa": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1776022 P31=Q14941854"
+   }
+  ],
+  "hainan-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q292428 P31=Q46970"
+   }
+  ],
+  "kakaotalk": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q127293 P31=Q2462003"
+   }
+  ],
+  "koch-inc": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1496384 P452=Q862571"
+   }
+  ],
+  "pearson-plc": [
+   {
+    "collection": "property",
+    "why": "wikidata Q1916402 P452=Q385378"
+   }
+  ],
+  "shanghai-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q721994 P31=Q46970"
+   }
+  ],
+  "spirit-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q1190598 P31=Q46970"
+   }
+  ],
+  "taobao": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q2117484 P31=Q620615"
+   }
+  ],
+  "the-royal-bank-of-scotland": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q160126 P31=Q22687"
+   }
+  ],
+  "virgin-america": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q645084 P31=Q46970"
+   }
+  ],
+  "castrol": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1049970 P452=Q862571"
+   }
+  ],
+  "hawaiian-airlines": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q642610 P31=Q46970"
+   }
+  ],
+  "iberdrola": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q1437502 P31=Q1326624"
+   }
+  ],
+  "iqiyi": [
+   {
+    "collection": "digital-services",
+    "why": "wikidata Q15913890 P31=Q829548"
+   }
+  ],
+  "mitsubishi-ufj-financial-group": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q1542175 P31=Q22687"
+   }
+  ],
+  "petrobras": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q210047 P452=Q862571"
+   }
+  ],
+  "rwe": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q138133 P31=Q1341478"
+   }
+  ],
+  "sberbank": [
+   {
+    "collection": "banking",
+    "why": "wikidata Q205012 P31=Q22687"
+   }
+  ],
+  "union-carbide": [
+   {
+    "collection": "energy",
+    "why": "wikidata Q908553 P452=Q862571"
+   }
+  ],
+  "volaris": [
+   {
+    "collection": "airlines",
+    "why": "wikidata Q431757 P31=Q46970"
    }
   ]
  }

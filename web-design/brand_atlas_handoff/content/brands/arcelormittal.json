@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q27893",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/arcelormittal-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "arcelormittal",
+  "urlSlug": "arcelormittal",
+  "name": "아르셀로미탈",
+  "nameKo": "아르셀로미탈",
+  "nameEn": "ArcelorMittal",
+  "definition": "아르셀로미탈(ArcelorMittal)은 룩셈부르크에 본사를 둔 철강 생산업체이다. 2006년 룩셈부르크의 아르셀로와 인도의 미탈이 합병해 출범했으며, 2014년 현재 조강생산량 기준 세계 최대 철강 생산업체이다.",
+  "summary": "아르셀로미탈(ArcelorMittal)은 룩셈부르크에 본사를 둔 철강 생산업체이다. 2006년 룩셈부르크의 아르셀로와 인도의 미탈이 합병해 출범했으며, 2014년 현재 조강생산량 기준 세계 최대 철강 생산업체이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "2006년 Mittal Steel의 Arcelor 인수로 탄생한 룩셈부르크 본사의 철강 기업으로, 2014년 현재 조강생산량 기준 세계 최대 규모이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아르셀로미탈은 룩셈부르크에 본사를 두고 철강을 생산하는 기업이다. 2006년 인도의 다국적 철강 업체 Mittal Steel이 서유럽의 철강 업체 Arcelor를 인수하면서 창립되었고, 합병된 기업은 ArcelorMittal로 명명되었다. 창립 직후 세계 철강 생산량의 약 10%를 차지하며 세계에서 가장 큰 철강 회사가 되었다. 2014년 현재 조강생산량은 9,810만톤에 이르는 세계 최대 철강 생산업체이며, 2016년 포춘 500대 기업 순위에서 108위를 차지했다. 2008년 12월 여러 공장의 폐쇄를 발표했고, 2011년에는 스테인레스 스틸 사업부를 Aperam으로 분리독립했다. 2013년 12월 31일 기준 232,000여 명을 고용했으며, 룩셈부르크에서 가장 큰 개인 고용주이기도 하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2006년 인도의 다국적 철강 업체 Mittal Steel이 스페인, 프랑스, 룩셈부르크에 걸친 서유럽의 철강 업체 Arcelor를 인수하며 아르셀로미탈이 창립되었다. 인수 조건은 주당 40.37유로였다. Mittal Steel은 이전에 시도되었으나 주주 승인을 받지 못한 Arcelor와 Severstal의 합병 계획을 대신하는 적대적 인수합병을 실시했다. 그 결과 세계 철강의 약 10%를 생산하는 세계 최대 철강 회사가 되었고, 2007년 총매출액은 1,050억 달러였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "스테인레스 스틸 사업부는 2011년 1월 26일 새로운 계열사 Aperam으로 분리독립했다. 2013년 1월에는 미국 앨라배마주 Calvert에서 ThyssenKrupp AG의 압연기를 15억 달러에 인수했고, 신일철주금과의 합작 투자는 2014년 2월에 마무리되었다. 이 시설은 AM/NS Calvert로 이름이 바뀌었으며, 530만톤의 생산 능력과 핫 스트립 밀, 냉간 압연기, 코팅 라인 4개를 갖추고 있다. 시설의 제품은 아르셀로미탈을 통해 NAFTA 지역에서 판매된다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Lakshmi Mittal이 회장 겸 CEO를 맡고 있으며, 그의 가족이 회사의 주식지분 및 의결권의 40%를 소유하고 있다. 2016년 4월에는 30억 달러 규모의 유상증자를 실시했다. 2012년에는 220억 달러의 부채를 지녔고, 과도한 설비와 유럽의 철강 수요 감소로 고로 25대 중 9대가 유휴 상태였다. 2014년 초에는 룩셈부르크 국내에서 4,600명의 직원을 고용했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2006년 Mittal Steel의 Arcelor 인수로 탄생한 룩셈부르크 본사의 철강 기업으로, 2014년 현재 조강생산량 기준 세계 최대 규모이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://corporate.arcelormittal.com/",
+  "entityLinks": {
+   "wikidata": "Q27893",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q27893",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A5%B4%EC%85%80%EB%A1%9C%EB%AF%B8%ED%83%88",
+    "https://en.wikipedia.org/wiki/ArcelorMittal"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q27893",
+   "country": "룩셈부르크",
+   "inception": "2006",
+   "headquarters": "룩셈부르크",
+   "founders": [
+    "락슈미 미탈"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「아르셀로미탈」 요약과 위키데이터 Q27893 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

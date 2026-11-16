@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1318049",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/wpp-plc-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "wpp-plc",
+  "urlSlug": "wpp-plc",
+  "name": "WPP 그룹",
+  "nameKo": "WPP 그룹",
+  "nameEn": "WPP plc",
+  "definition": "WPP 그룹(WPP plc)은 영국 런던에 본사를 둔 글로벌 미디어 커뮤니케이션 서비스 기업이다. 1971년에 설립되었으며 광고와 마케팅 분야의 여러 회사를 거느린다.",
+  "summary": "WPP 그룹(WPP plc)은 영국 런던에 본사를 둔 글로벌 미디어 커뮤니케이션 서비스 기업이다. 1971년에 설립되었으며 광고와 마케팅 분야의 여러 회사를 거느린다.",
+  "industry": "브랜드·비즈니스",
+  "domainSlug": "brand-business",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "와이어 쇼핑 바스켓 제조업체에서 출발해 광고·마케팅·시장조사 회사를 잇달아 인수하며 커진 런던 기반의 글로벌 미디어 커뮤니케이션 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 그룹은 영국 런던에 본사를 두고 미디어 커뮤니케이션 서비스를 세계 각지에서 제공하는 글로벌 기업이다. 1971년에 설립되었고 1988년 나스닥에 상장했으며 티커는 WPPGY이다. 창업 이후 여러 광고·마케팅 회사를 인수하며 성장했다. 한국어 위키백과 서술에 따르면 107개국에 2400개의 사무소를 두고 있으며 직원 수는 13만 명에 달한다. 대표적인 계열사로는 GroupM, JWT, Ogilvy and Mather, Grey 등이 있다. IMF 경제 위기 이후 국내 대기업 계열 광고회사들에 대한 공격적인 M&A 추진으로도 유명하다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1971년 'Wire and Plastic Products plc'라는 이름으로 와이어 쇼핑 바스켓 제조업체로 설립되었다. 1985년 당시 사치 앤드 사치의 재무 담당자였던 마틴 소럴이 국제 마케팅 기업을 구축하기 위해 676,000 달러로 이 기업의 30% 경영권을 취득했다. 1987년에는 J. 월터 톰프슨을 인수했으며, 이 인수에는 JWT, Hill & Knowlton Strategies, MRB 그룹이 포함되었다. 1988년 나스닥에 상장했고, 1989년에는 오길비 그룹을 인수했다. 2008년에는 마켓 리서치 회사 TNS를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표적인 계열사로는 GroupM, JWT, Ogilvy and Mather, Grey가 꼽힌다. JWT는 1987년 J. 월터 톰프슨을 인수할 때 함께 편입된 회사이다. 같은 인수에는 Hill & Knowlton Strategies와 MRB 그룹도 포함되었다. 오길비 그룹은 1989년에, 마켓 리서치 회사 TNS는 2008년에 각각 인수했다. 광고와 마케팅, 시장조사 분야의 회사들이 한 그룹 안에 모여 미디어 커뮤니케이션 서비스를 이룬다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "한국어 위키백과 서술 기준으로 107개국에 2400개의 사무소를 운영하며 직원 수는 13만 명에 달한다. 본사는 영국 런던에 있고 나스닥에 WPPGY라는 티커로 상장되어 있다. 2009년 그룹 총 이익은 한화 15조 원에 달했다고 서술되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "와이어 쇼핑 바스켓 제조업체에서 출발해 광고·마케팅·시장조사 회사를 잇달아 인수하며 커진 런던 기반의 글로벌 미디어 커뮤니케이션 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.wpp.com",
+  "entityLinks": {
+   "wikidata": "Q1318049",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1318049",
+    "https://ko.wikipedia.org/wiki/WPP_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/WPP_plc"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1318049",
+   "country": "영국",
+   "inception": "1971",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「WPP 그룹」 요약과 위키데이터 Q1318049 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

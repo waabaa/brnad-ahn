@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q160126",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/the-royal-bank-of-scotland-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "the-royal-bank-of-scotland",
+  "urlSlug": "the-royal-bank-of-scotland",
+  "name": "스코틀랜드 왕립은행",
+  "nameKo": "스코틀랜드 왕립은행",
+  "nameEn": "The Royal Bank of Scotland",
+  "definition": "스코틀랜드 왕립은행(The Royal Bank of Scotland)은 스코틀랜드 에든버러에 본사를 둔 영국의 대형 소매·기업 은행이다. 1727년 설립되었으며 NatWest Group의 소매은행 자회사 가운데 하나이다.",
+  "summary": "스코틀랜드 왕립은행(The Royal Bank of Scotland)은 스코틀랜드 에든버러에 본사를 둔 영국의 대형 소매·기업 은행이다. 1727년 설립되었으며 NatWest Group의 소매은행 자회사 가운데 하나이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.05,
+  "image": "",
+  "logo": "",
+  "insight": "1727년 설립된 에든버러의 은행으로, 당좌대월을 고안한 곳이다. NatWest Group 소속이면서도 Bank of Scotland와는 별개의 은행이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스코틀랜드 왕립은행은 에든버러에 기반을 둔 주요 소매·기업 은행이다. NatWest Group의 소매은행 자회사 중 하나로, NatWest, Ulster Bank와 함께 그룹을 이룬다. 스코틀랜드 내에 62개 지점을 두고 있다. 같은 에든버러에 본사를 둔 Bank of Scotland와는 완전히 별개의 은행이며, Bank of Scotland는 이 은행보다 32년 앞서 설립되었다. 2019년 그룹의 핵심 국내 사업을 분리하는 링펜싱 이후 NatWest Holdings의 직접 자회사가 되었다. 이 은행은 하노버 왕가 및 휘그당과 긴밀한 관계를 가진 은행을 두려는 목적에서 세워졌다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 은행의 뿌리는 Society of the Subscribed Equivalent Debt이다. 실패한 Company of Scotland의 투자자들이 1707년 합동법에 따라 받은 보상금을 지키려고 만든 단체였다. 이 단체는 1724년 11월 21일 Equivalent Company가 되었고 은행업 진출을 원했다. 영국 정부는 Bank of Scotland가 자코바이트에 호의적이라고 의심했기에 이 요청을 우호적으로 받아들였고, 1727년 5월 31일 Royal Bank of Scotland라는 이름으로 설립 특허를 받았다. 초대 총재는 Archibald Campbell, Lord Ilay였다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "이 은행은 소매은행 및 기업은행 업무를 맡는다. 1728년 5월 31일 에든버러 상인 William Hogg에게 신용을 제공하며 당좌대월(overdraft)을 고안했고, 이는 훗날 현대 은행업의 혁신으로 평가되었다. 2018년 Adam and Company가 The Royal Bank of Scotland로 이름을 바꾸었으며, Adam and Company는 2022년까지 RBS의 프라이빗 뱅킹 브랜드로 이어졌다. 그룹의 투자은행 부문은 NatWest Markets가 맡고, 스코틀랜드 내 지점은 62개이다. 에든버러 St. Andrew Square의 Dundas House 뒤편 영업장(Telling Room)은 지금도 지점으로 쓰인다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 스코틀랜드 왕립은행은 NatWest Group의 소매은행 자회사이며, 2019년부터 NatWest Holdings의 직접 자회사이다. 그룹의 투자은행 부문은 NatWest Markets이고, 법적 형태를 갖추기 위해 기존 RBS 법인이 2018년 이 이름으로 바뀌었다. Dundas House는 지금도 이 은행의 등록 본점이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1727년 설립된 에든버러의 은행으로, 당좌대월을 고안한 곳이다. NatWest Group 소속이면서도 Bank of Scotland와는 별개의 은행이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.rbs.co.uk/",
+  "entityLinks": {
+   "wikidata": "Q160126",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q160126",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%94%ED%8B%80%EB%9E%9C%EB%93%9C_%EC%99%95%EB%A6%BD%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Royal_Bank_of_Scotland"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q160126",
+   "country": "영국",
+   "inception": "1727",
+   "headquarters": "에든버러",
+   "founders": [],
+   "parent": "NatWest Group",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Royal Bank of Scotland」 본문과 위키데이터 Q160126 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q908553",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/union-carbide-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "union-carbide",
+  "urlSlug": "union-carbide",
+  "name": "유니온 카바이드",
+  "nameKo": "유니온 카바이드",
+  "nameEn": "Union Carbide",
+  "definition": "유니온 카바이드(Union Carbide)는 미국의 화학 기업으로, 화학물질과 폴리머를 생산한다. 2001년부터 Dow Chemical Company의 완전 자회사이며 본사는 텍사스주 시드리프트에 있다.",
+  "summary": "유니온 카바이드(Union Carbide)는 미국의 화학 기업으로, 화학물질과 폴리머를 생산한다. 2001년부터 Dow Chemical Company의 완전 자회사이며 본사는 텍사스주 시드리프트에 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "천연가스액에서 에틸렌을 경제적으로 만드는 방법을 개발해 현대 석유화학 산업을 이끈 화학 기업이며, 현재는 Dow Chemical Company의 완전 자회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 회사는 화학물질과 폴리머를 생산하는 미국 화학 기업이다. 생산품은 고객이 한 번 이상 추가로 가공한 뒤 소비자에게 전달되며, 일부는 대량 범용 제품이고 일부는 특수 제품이다. 페인트와 코팅, 포장, 전선과 케이블, 가정용품, 퍼스널케어, 의약품, 자동차, 섬유, 농업, 석유·가스 시장에 제품을 공급한다. 연구진이 에탄과 프로판 같은 천연가스액에서 에틸렌을 경제적으로 만드는 방법을 개발해 현대 석유화학 산업의 발전을 이끌었다. 본사는 텍사스주 시드리프트에 있으며, 2001년부터 Dow Chemical Company의 완전 자회사이다. 과거에는 다우존스 산업평균지수의 구성 종목이기도 했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Union Carbide and Carbon Corporation은 1917년 11월 1일 출범했다. 1898년 설립된 Union Carbide Company, 1886년 설립된 National Carbon Company, 버펄로의 액체 산소 공급업체 Linde Air Products Company, 인디애나폴리스에서 탄화칼슘을 생산하던 Prest-O-Lite가 합병한 결과였다. 1920년 화학 부문을 세워 자동차 부동액용 에틸렌글리콜을 생산했고, 1939년에는 Bakelite Corporation을 인수하는 등 관련 화학 업체를 계속 사들였다. 1957년 사명을 Union Carbide Corporation으로 바꿨으며, 흔히 Carbide로 불렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재의 사업은 고객의 추가 가공을 거치는 화학물질과 폴리머 생산이다. 과거에는 Eveready와 Energizer 건전지, Glad 비닐봉지와 랩, Simoniz 자동차 왁스, Prestone 부동액 같은 소비재 사업도 운영했으나 이를 매각했다. 전자 화학물질, 폴리우레탄 중간재, 산업용 가스(Linde), 탄소 제품 사업도 Dow Chemical Company에 인수되기 전에 분리했다. 1947년부터 1984년까지 Oak Ridge National Laboratory를 운영했고, 냉전 시기에는 고체 로켓 모터와 저장 가능한 액체 연료 등 로켓 추진 분야의 연구개발에도 참여했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "유니온 카바이드는 2001년 2월 6일부터 Dow Chemical Company의 완전 자회사이다. 1984년 Bhopal 참사 이후 반복된 인수 시도 속에서 부채를 갚기 위해 Glad와 Eveready 같은 잘 알려진 브랜드를 매각했다. Dow Chemical은 1999년 인수를 발표했고, 거래는 2001년에 마무리되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "천연가스액에서 에틸렌을 경제적으로 만드는 방법을 개발해 현대 석유화학 산업을 이끈 화학 기업이며, 현재는 Dow Chemical Company의 완전 자회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.unioncarbide.com/",
+  "entityLinks": {
+   "wikidata": "Q908553",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q908553",
+    "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%EC%98%A8_%EC%B9%B4%EB%B0%94%EC%9D%B4%EB%93%9C",
+    "https://en.wikipedia.org/wiki/Union_Carbide"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q908553",
+   "country": "미국",
+   "inception": "1898",
+   "headquarters": "댄버리",
+   "founders": [],
+   "parent": "다우 케미컬",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Union Carbide」 본문과 위키데이터 Q908553 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

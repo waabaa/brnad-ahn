@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q895325",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/bouygues-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bouygues",
+  "urlSlug": "bouygues",
+  "name": "부이그",
+  "nameKo": "부이그",
+  "nameEn": "Bouygues",
+  "definition": "부이그(Bouygues)는 프랑스 파리에 본사를 둔 엔지니어링 그룹이다. 1952년 프랑시스 부이그가 설립했으며 건설, 부동산 개발, 미디어, 통신 분야를 중심으로 사업을 운영한다.",
+  "summary": "부이그(Bouygues)는 프랑스 파리에 본사를 둔 엔지니어링 그룹이다. 1952년 프랑시스 부이그가 설립했으며 건설, 부동산 개발, 미디어, 통신 분야를 중심으로 사업을 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "건설, 부동산, 미디어, 통신을 한 그룹 안에 두고 Colas Group, TF1, Bouygues Télécom 등을 거느린 프랑스의 복합 엔지니어링 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 그룹은 프랑스 파리 8구에 본사를 둔 엔지니어링 그룹으로, Euronext Paris에 상장되어 있으며 CAC 40 지수의 블루칩 종목이다. 건설(Colas Group, Bouygues Construction), 부동산 개발(Bouygues Immobilier), 미디어(TF1 Group), 통신(Bouygues Telecom)을 전문 분야로 삼는다. 1952년 Francis Bouygues가 설립했고 프랑스 정부의 건설 사업을 수주하며 성장했다. 1970년 파리 증권거래소에 상장했으며 이후 사업 다각화와 국제화를 추진했다. 1989년부터 Francis Bouygues의 아들 Martin Bouygues가 그룹을 이끌고 있으며, 그의 형 Olivier Bouygues는 이사회 구성원이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이 회사는 1952년 Francis Bouygues가 제2차 세계대전 이후 프랑스 재건기에 새 건물을 짓기 위해 설립했다. 설립 후 20년 안에 프랑스 정부의 여러 재건 사업을 수주했으며, 1955년부터 사회주택을, 1960년대에는 고속도로망 건설을 맡았다. Parc des Princes 경기장, Palais des congrès de Paris, Charles de Gaulle Airport 등 주요 건물 계약도 따냈다. 1970년 파리 증권거래소에 상장했고, 1980년대 중반 Screg, Sacer, Colas를 인수했다. 1987년 TF1 채널 운영을 시작했고, 1996년 Bouygues Télécom을 프랑스 세 번째 이동통신 사업자로 출범시켰다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "건설 부문에는 Bouygues Construction(지분 100%)과 Colas Group(지분 96.8%)이 있다. Bouygues Construction은 건설, 공공사업, 에너지·서비스를 다루며 전 세계 80개국에 진출해 있다. Colas Group은 도로 공사, 건설, 철도, 유지보수를 담당한다. Bouygues Immobilier(지분 100%)는 주거, 기업, 상업, 호텔 부동산과 도시 개발, 부동산 개발을 맡는다. 통신·미디어 부문에는 이동통신과 유선 통신을 제공하는 Bouygues Télécom(지분 90.5%)과 TF1이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 11월 Engie로부터 기술 서비스 사업체 Equans를 인수했다. 2018년 5월에는 호주 건설사 A. W. Edwards를 인수했고, 2019년 12월에는 대형 화물 운송용 경식 비행선을 개발하는 프랑스 기업 Flying Whales의 주주가 되었다. 2006년 6월 Alstom 지분 23.26%를 취득했으며, 2014년 6월 프랑스 정부에 최대 20%를 취득할 수 있는 콜옵션을 부여했다. 1989년부터 Martin Bouygues가 그룹을 이끌고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "건설, 부동산, 미디어, 통신을 한 그룹 안에 두고 Colas Group, TF1, Bouygues Télécom 등을 거느린 프랑스의 복합 엔지니어링 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bouygues.com",
+  "entityLinks": {
+   "wikidata": "Q895325",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q895325",
+    "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%9D%B4%EA%B7%B8",
+    "https://en.wikipedia.org/wiki/Bouygues"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q895325",
+   "country": "프랑스",
+   "inception": "1952",
+   "headquarters": "파리",
+   "founders": [
+    "프랑시스 부이그"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Bouygues」 본문과 위키데이터 Q895325 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

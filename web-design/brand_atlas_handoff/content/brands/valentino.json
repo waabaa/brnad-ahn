@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q649646",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/valentino-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "valentino",
+  "urlSlug": "valentino",
+  "name": "발렌티노",
+  "nameKo": "발렌티노",
+  "nameEn": "Valentino",
+  "definition": "발렌티노(Valentino)는 1960년 발렌티노 가라바니가 설립한 이탈리아의 럭셔리 패션 하우스이다. Valentino Fashion Group에 속하며, 등록 본사는 밀라노에 있다.",
+  "summary": "발렌티노(Valentino)는 1960년 발렌티노 가라바니가 설립한 이탈리아의 럭셔리 패션 하우스이다. Valentino Fashion Group에 속하며, 등록 본사는 밀라노에 있다.",
+  "industry": "패션·럭셔리",
+  "domainSlug": "fashion-luxury",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "로마에서 출발해 'no colour' 컬렉션과 V 로고로 알려진 이탈리아 럭셔리 하우스이다. 창업자 이후 여러 소유주를 거쳐 현재 Mayhoola for Investments 산하에 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "발렌티노는 Maison Valentino로도 불리는 이탈리아의 럭셔리 패션 하우스이며 Valentino Fashion Group에 속한다. 등록 본사는 밀라노에 있고, 크리에이티브 디렉션과 Valentino Foundation은 로마의 Palazzo Gabrielli-Mignanelli에 기반을 둔다. 2020년부터 Jacob Venturini가 CEO를 맡았고, 2024년부터 Alessandro Michele가 크리에이티브 디렉터를 맡고 있다. 그룹은 2024년 매출 €1.31 billion을 보고했다. 모기업은 Mayhoola for Investments이다. 창업자 발렌티노 가라바니는 Jacqueline Bouvier Kennedy Onassis와 Elizabeth Taylor 등 여러 인물의 웨딩드레스를 디자인한 것으로 알려져 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1960년 가라바니가 이탈리아 로마의 Via Condotti에 패션 하우스를 열면서 시작되었다. 아버지와 아버지의 동업자 Giancarlo Giammetti의 후원을 받았다. 1962년에는 당시 이탈리아 패션의 중심지였던 피렌체에서 국제 무대에 데뷔했다. 1967년 흰색, 베이지, 아이보리로 구성된 'no colour' 컬렉션을 선보여 인기를 얻었고, 같은 해 본사를 Palazzo Gabrielli-Mignanelli에 두었으며 V 로고도 도입했다. 1985년에는 밀라노 패션위크에서 첫 남성복 쇼를 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "발렌티노는 여성복 컬렉션과 액세서리, 남성복을 선보여 왔다. 2007년 Alessandra Facchinetti가 여성복 크리에이티브 디렉터로 임명되었고, 이듬해 Maria Grazia Chiuri와 Pierpaolo Piccioli가 그 역할을 이어받았다. 이들의 지휘 아래 'Rockstud' 액세서리 라인과 'Rockrunner' 스니커즈가 성공을 거두었다. 향수 'Born in Roma'도 있으며, 2019년 Adut Akech와 Anwar Hadid가 이 향수의 광고 캠페인에 출연했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2012년 카타르 귀족들이 투자 수단인 Mayhoola for Investments S.P.C.를 통해 발렌티노를 인수했고, Mayhoola는 Permira의 지분과 Marzotto의 소수 지분을 사들였다. 2016년 Maria Grazia Chiuri가 Dior로 옮기면서 Pierpaolo Piccioli가 단독 크리에이티브 디렉터가 되었다. 2020년부터 Jacob Venturini가 CEO를 맡았고, 2024년부터 Alessandro Michele가 크리에이티브 디렉터를 맡고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "로마에서 출발해 'no colour' 컬렉션과 V 로고로 알려진 이탈리아 럭셔리 하우스이다. 창업자 이후 여러 소유주를 거쳐 현재 Mayhoola for Investments 산하에 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.valentino.com",
+  "entityLinks": {
+   "wikidata": "Q649646",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q649646",
+    "https://ko.wikipedia.org/wiki/%EB%B0%9C%EB%A0%8C%ED%8B%B0%EB%85%B8_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Valentino_(fashion_house)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q649646",
+   "country": "이탈리아",
+   "inception": "1960",
+   "headquarters": "밀라노",
+   "founders": [
+    "발렌티노 가라바니"
+   ],
+   "parent": "Mayhoola for Investments",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Valentino (fashion house)」 본문과 위키데이터 Q649646 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

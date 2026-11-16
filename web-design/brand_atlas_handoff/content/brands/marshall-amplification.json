@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q671465",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/marshall-amplification-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "marshall-amplification",
+  "urlSlug": "marshall-amplification",
+  "name": "마셜 앰플리피케이션",
+  "nameKo": "마셜 앰플리피케이션",
+  "nameEn": "Marshall Amplification",
+  "definition": "마셜 앰플리피케이션(Marshall Amplification)은 전자 기타 앰플리파이어를 설계하고 제조하는 영국의 회사이다. 1962년 Jim Marshall이 설립했으며 본사는 런던에 있다.",
+  "summary": "마셜 앰플리피케이션(Marshall Amplification)은 전자 기타 앰플리파이어를 설계하고 제조하는 영국의 회사이다. 1962년 Jim Marshall이 설립했으며 본사는 런던에 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "Fender 앰프를 본뜬 제품에서 출발해 더 무겁고 공격적인 사운드를 찾아간 브랜드이며, 진공관 기타 앰프와 마셜 스택으로 대중문화의 상징이 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "마셜은 전자 기타 앰플리파이어를 설계하고 제조하는 영국의 회사이다. 마셜 앰프는 기타 연주자 사이에서 매우 인기가 높다. Gibson Les Paul이나 Fender Stratocaster 같은 기타와 마셜 스택 앰프가 어우러져 내는 소리와 모습은 대중문화의 상징적인 이미지로 여겨진다. 진공관 앰프는 일반적으로 트랜지스터 앰프보다 따뜻한 사운드를 내는 것으로 알려져 있으며, 마셜은 진공관, 프리앰프, 파워앰프 스테이지를 아직도 사용한다. 저렴한 가격의 고체 상태 또는 하이브리드 앰프도 생산한다. 마셜 1959SLP와 JCM800은 대중음악에서 가장 인지도가 높은 앰프이며 가장 비싼 앰프로 간주된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Jim Marshall은 1960년대 초반 런던 핸월(Hanwell)에서 드럼과 관련 액세서리를 파는 가게를 열고 드럼도 가르쳤다. 이후 가게를 확장하면서 기타와 앰프도 팔기 시작했다. 당시 미국에서 수입된 Fender 앰프가 인기였으나 값이 매우 비쌌고, Jim Marshall은 Ken Bran의 협력을 얻어 같은 제품을 싸게 만들고자 4x10인치 Fender Bassman을 본떠 앰프를 만들기 시작했다. 이후 앰프와 스피커 캐비닛을 분리했고, 자신과 아들 Terry Marshall의 이름을 따 JTM45라는 이름을 붙였다. 제조 단가를 낮추려 영국에서 부품을 조달했고, 그 결과 기타 연주자들이 좋아한 더 공격적인 사운드가 나왔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "JTM45는 이론상 45W 출력을 내서 붙은 이름이며, 12인치 스피커와 뒤쪽이 닫힌 캐비닛을 사용했다. Eric Clapton이 John Mayall의 Bluesbreakers에 합류할 때 주문한 콤보 앰프에서 가장 유명한 Marshall Bluesbreaker 앰프가 탄생했고, 그는 이 앰프로 앨범 Beano의 기타 톤을 냈다. Pete Townshend와 John Entwistle 같은 초창기 고객이 더 큰 볼륨을 원해 클래식 100와트 진공관 앰프와 더 출력이 큰 앰프도 제작했으며, 그 설계는 SLP100으로 이어졌다. 저렴한 고체 상태 및 하이브리드 앰프도 생산한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Fender 앰프를 본뜬 제품에서 출발해 더 무겁고 공격적인 사운드를 찾아간 브랜드이며, 진공관 기타 앰프와 마셜 스택으로 대중문화의 상징이 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.marshall.com/",
+  "entityLinks": {
+   "wikidata": "Q671465",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q671465",
+    "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%85%9C_%EC%95%B0%ED%94%8C%EB%A6%AC%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/Marshall_Amplification"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q671465",
+   "country": "영국",
+   "inception": "1962",
+   "headquarters": "런던",
+   "founders": [
+    "Jim Marshall"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「마셜 앰플리피케이션」 요약과 위키데이터 Q671465 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

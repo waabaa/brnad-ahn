@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1034621",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/capgemini-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "capgemini",
+  "urlSlug": "capgemini",
+  "name": "캡제미니",
+  "nameKo": "캡제미니",
+  "nameEn": "Capgemini",
+  "definition": "캡제미니(Capgemini)는 프랑스 파리에 본사를 둔 다국적 정보기술 서비스 및 컨설팅 기업이다. 1967년 Serge Kampf가 설립했으며 40개 이상의 국가에 진출해 있다.",
+  "summary": "캡제미니(Capgemini)는 프랑스 파리에 본사를 둔 다국적 정보기술 서비스 및 컨설팅 기업이다. 1967년 Serge Kampf가 설립했으며 40개 이상의 국가에 진출해 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.2,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스 파리에 본사를 두고 전체 인력 상당수가 인도에 있는 IT 서비스·컨설팅 기업으로, 1967년 Sogeti라는 사명으로 출발했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "캡제미니는 프랑스 파리에 본사를 둔 다국적 정보기술 서비스 및 컨설팅 기업이다. 2023년 IT 서비스 부문 매출에서 세계 5위를 기록했다. 애플리케이션, 테스트, 클라우드, 사이버 보안 및 리스크 관리, 인공지능, 비즈니스 프로세스 아웃소싱 서비스 등을 서비스 분야로 둔다. 40개 이상의 국가에 진출해 있으며, 2021년 기준 캡제미니와 자회사의 총 인력 270,000명 중 160,000명이 인도에 위치해 있다. 2018년 기준 주요 시장은 북미로 매출의 32%를 차지했고, 프랑스가 22%였다. 한국에는 1990년대 후반 진출해 국민은행-주택은행의 전산통합 컨설팅에 참여한 바 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "캡제미니는 1967년 Serge Kampf가 기업 경영 및 데이터 처리 기업으로 설립했다. 설립 당시의 원래 사명은 Société pour la Gestion de l'Entreprise et le Traitement de l'Information(Sogeti)이었다. 1990년대 후반 한국에 진출해 국민은행-주택은행의 전산통합을 위한 컨설팅 사업자로 캡제미니언스트영으로 참여했다. 2018년 9월에는 그룹의 디자인 및 컨설팅 브랜드로 캡제미니 인벤트를 출범시켰다. 2022년에는 IBM과 협력해 양자 컴퓨팅 연구소를 설립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "캡제미니 그룹은 직무를 네 가지 범주로 정의한다. 캡제미니 인벤트를 통한 전략 및 변혁 컨설팅은 매출의 6%, 애플리케이션 서비스는 64%, 기술 및 엔지니어링 서비스는 15%, 기타 아웃소싱 서비스는 15%를 차지한다. 캡제미니 인벤트는 전 세계 37개 이상의 사무소에 위치하며 10,000명 이상의 직원을 보유한다. 캡제미니 엔지니어링과 양자 연구소도 서비스에 포함되며, 양자 연구소는 영국, 포르투갈, 인도에 있다. 소게티(Sogeti)는 전액 출자 자회사로 IT 컨설팅, 기술 및 엔지니어링 전문 서비스를 맡는다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 IT 서비스 부문에서 세계 5위의 매출을 기록했다. 2021년 기준 캡제미니와 자회사의 총 인력 270,000명 중 160,000명이 인도에 위치해 있다. 40개 이상의 국가에 진출해 있으며, 소게티는 전액 출자 자회사이다. 2022년 IBM과 협력해 설립한 양자 컴퓨팅 연구소는 영국, 포르투갈, 인도에 있으며 양자 애플리케이션 개발을 돕는 연구 시설로 활용되고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스 파리에 본사를 두고 전체 인력 상당수가 인도에 있는 IT 서비스·컨설팅 기업으로, 1967년 Sogeti라는 사명으로 출발했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.capgemini.com/",
+  "entityLinks": {
+   "wikidata": "Q1034621",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1034621",
+    "https://ko.wikipedia.org/wiki/%EC%BA%A1%EC%A0%9C%EB%AF%B8%EB%8B%88",
+    "https://en.wikipedia.org/wiki/Capgemini"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1034621",
+   "country": "프랑스",
+   "inception": "1967",
+   "headquarters": "파리",
+   "founders": [
+    "Serge Kampf"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「캡제미니」 요약과 위키데이터 Q1034621 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

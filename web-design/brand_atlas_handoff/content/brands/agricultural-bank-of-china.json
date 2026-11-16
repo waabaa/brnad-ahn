@@ -1,0 +1,69 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q26298",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "agricultural-bank-of-china",
+  "urlSlug": "agricultural-bank-of-china",
+  "name": "중국농업은행",
+  "nameKo": "중국농업은행",
+  "nameEn": "Agricultural Bank of China",
+  "definition": "중국농업은행(Agricultural Bank of China)은 베이징에 본사를 둔, 대부분 국가가 소유한 중국의 다국적 은행이자 금융 서비스 기업이다. 중국 '4대 은행' 중 하나이다.",
+  "summary": "중국농업은행(Agricultural Bank of China)은 베이징에 본사를 둔, 대부분 국가가 소유한 중국의 다국적 은행이자 금융 서비스 기업이다. 중국 '4대 은행' 중 하나이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "농민 대상 금융 서비스에서 출발해 비중을 키워 온 국유 대형 은행이며, 중국 '4대 은행' 중 마지막으로 상장해 당시 세계 최대 IPO를 기록했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "중국농업은행은 대부분 국가가 소유한 중국의 다국적 은행·금융 서비스 기업이며 본사는 베이징 둥청구에 있다. 중국 본토와 홍콩, 런던, 도쿄, 뉴욕, 프랑크푸르트, 시드니, 서울, 싱가포르에 지점을 두고 있다. 24,000개에 가까운 지점을 운영하며 중국 '4대 은행' 중 하나이다. 총자산 기준 세계 2위로 소개되며 중국공상은행(Industrial and Commercial Bank of China)이 그보다 앞선다. 2023년 Forbes Global 2000(세계 최대 상장기업 순위)에서 4위에 올랐다. 금융안정위원회(Financial Stability Board)는 이 은행을 시스템적으로 중요한 은행으로 본다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1951년 7월 10일 중화민국 시기의 Farmers Bank of China와 Cooperation Bank가 합병해 Agricultural Cooperation Bank를 만들었으며, 중국농업은행은 이를 전신으로 여긴다. 이 은행은 1952년 중앙은행인 People's Bank of China에 흡수 합병됐다. 1955년 중국농업은행이라는 이름의 첫 은행이 세워졌으나 1957년 중앙은행에 합병됐고, 1963년 정부가 만든 또 다른 농업은행도 2년 뒤 중앙은행에 합병됐다. 현재의 중국농업은행은 1979년 2월 설립했다. 1978년 이후 People's Bank of China가 상업은행 기능을 분리하기 시작하면서 농민에 대한 금융 서비스 중심 성격이 커졌다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2010년 7월 상하이와 홍콩 증권거래소에 상장했으며, 중국 '4대 은행' 중 마지막으로 상장했다. 당시 세계 최대 규모의 기업공개(IPO)였으나 이후 Saudi Aramco가 이를 넘어섰다. 2023년에는 자산운용 부문 ABC WM이 BNP Paribas Asset Management와 합작회사 BNP Paribas ABC Wealth를 출범시켰으며, BNP Paribas Asset Management가 51%, ABC Wealth Management가 49%를 보유한다. 2024년 기준으로 러시아에서 계속 영업하고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "농민 대상 금융 서비스에서 출발해 비중을 키워 온 국유 대형 은행이며, 중국 '4대 은행' 중 마지막으로 상장해 당시 세계 최대 IPO를 기록했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.abchina.com",
+  "entityLinks": {
+   "wikidata": "Q26298",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q26298",
+    "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EB%86%8D%EC%97%85%EC%9D%80%ED%96%89",
+    "https://en.wikipedia.org/wiki/Agricultural_Bank_of_China"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q26298",
+   "country": "중화인민공화국",
+   "inception": "1951",
+   "headquarters": "베이징시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Agricultural Bank of China」 본문과 위키데이터 Q26298 팩트를 근거로 편집"
+ }
+}

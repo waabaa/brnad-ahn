@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q603977",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "gbu-39-small-diameter-bomb",
+  "urlSlug": "gbu-39-small-diameter-bomb",
+  "name": "GBU-39 SDB",
+  "nameKo": "GBU-39 SDB",
+  "nameEn": "GBU-39 Small Diameter Bomb",
+  "definition": "GBU-39 SDB(GBU-39 Small Diameter Bomb)는 항공기가 더 많은 수의 폭탄을 탑재할 수 있도록 고안된 250lb 정밀 유도 활공 폭탄이다. 2006년에 처음 실전 배치되었다.",
+  "summary": "GBU-39 SDB(GBU-39 Small Diameter Bomb)는 항공기가 더 많은 수의 폭탄을 탑재할 수 있도록 고안된 250lb 정밀 유도 활공 폭탄이다. 2006년에 처음 실전 배치되었다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "작은 크기 덕분에 항공기 한 대에 더 많은 수를 탑재할 수 있는 250lb 정밀 유도 활공 폭탄이라는 점이 특징이다. 2,000lb Mk 84 한 발 대신 4발 팩을 실을 수 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이 폭탄은 더 작고 정확한 탄약을 더 많이 탑재하도록 만들어졌다. 대부분의 미국 공군 항공기는 BRU-61/A 랙을 사용해 단일 2,000lb Mk 84 폭탄 대신 4발의 SDB 팩을 탑재할 수 있다. 원래의 SDB는 GPS 보정 관성 항법 장치를 갖추고 연료 저장소, 벙커 같은 고정 목표물을 공격한다. 크기와 정확성은 부수적 피해를 줄이며, SDB I은 1m의 원형 공산 오차(CEP) 정밀도를 갖는다. SDB는 F-15E 스트라이크 이글, F-16 파이팅 팰컨, F-22 랩터 등에 통합되었다. 지상 발사 소구경 폭탄도 개발되어 다양한 지상 발사대에서 SDB를 발사할 수 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2001년 10월 보잉은 록히드 마틴과 함께 주 계약자가 되기 위해 경쟁하는 SDB 개발 계약을 체결했다. 2002년 경쟁 과정에서 당시 공군 획득 및 관리 차관보가 보잉에 유리하도록 이동 표적 교전 요구 사항을 삭제했고, 이 인물은 나중에 이해 상충법 위반 혐의로 유죄 판결을 받았다. 2005년 4월 보잉이 록히드 마틴을 제치고 주 계약자로 선정되었고, 같은 해 9월 소구경 폭탄은 운용 테스트 및 평가 인증을 받았다. 2006년 9월 SDB 팀이 첫 번째 SDB를 미 공군에 인도했으며, 2006년 10월 F-15E 스트라이크 이글에서 초기 작전 능력(IOC)이 선언되었고 전투에서 처음 사용되었다. 2008년 2월에는 1,000번째 SDB I이 인도되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "원래의 SDB(SDB I)는 GPS 보정 관성 항법 장치를 갖춘 정밀 유도 폭탄이며 약 36lb의 AFX-757 고폭약을 탑재한다. 투하 후 전개되는 \"다이아몬드백\" 유형의 날개로 활공 시간을 늘리고 최대 사거리를 증가시킨다. 파생형으로는 경량 복합 재료 케이싱과 집중 폭풍 폭약을 쓰는 GBU-39A/B(FLM)와 반능동 레이저를 통합한 GBU-39B/B(레이저 SDB)가 있다. 레이시온의 GBU-53/B SDB II는 열 추적기와 자동 표적 인식 기능을 갖춘 레이더를 포함해 이동 표적을 타격하도록 설계되었다. 지상 발사 버전으로는 GLSDB가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년 5월 우크라이나가 MiG-29AS 전투기를 개조해 8발의 GBU-39/B를 탑재했다는 증거가 나타났다. 우크라이나 공군은 2023년 11월부터 공중 투하 소구경 폭탄을 사용해 왔으며, 이 폭탄은 재밍에 강하고 거의 90%의 정확도를 보인 것으로 전해진다. 반면 지상 발사 버전인 GLSDB는 러시아의 재밍으로 비효과적인 것으로 간주되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "작은 크기 덕분에 항공기 한 대에 더 많은 수를 탑재할 수 있는 250lb 정밀 유도 활공 폭탄이라는 점이 특징이다. 2,000lb Mk 84 한 발 대신 4발 팩을 실을 수 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q603977",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q603977",
+    "https://ko.wikipedia.org/wiki/GBU-39_SDB",
+    "https://en.wikipedia.org/wiki/GBU-39_Small_Diameter_Bomb"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q603977",
+   "country": null,
+   "inception": null,
+   "headquarters": null,
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「GBU-39 SDB」 요약과 위키데이터 Q603977 팩트를 근거로 편집"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q503487",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/scion-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "scion",
+  "urlSlug": "scion",
+  "name": "사이언",
+  "nameKo": "사이언",
+  "nameEn": "Scion",
+  "definition": "사이언(Scion)은 2003년 토요타 자동차가 젊은 고객층을 겨냥해 내놓은 브랜드로, 저렴하고 스타일리시한 스포트 콤팩트 차량을 앞세웠으나 현재는 중단되었다.",
+  "summary": "사이언(Scion)은 2003년 토요타 자동차가 젊은 고객층을 겨냥해 내놓은 브랜드로, 저렴하고 스타일리시한 스포트 콤팩트 차량을 앞세웠으나 현재는 중단되었다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "토요타 자동차가 젊은 고객층을 겨냥해 만든 저렴하고 스타일리시한 스포트 콤팩트 브랜드로, 2017년 모델을 기점으로 철폐되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "사이언은 토요타 자동차가 2003년에 데뷔시킨, 현재는 중단된 브랜드이다. 위키데이터 기준으로 모기업은 토요타 자동차이며 국가는 일본이고 본사는 토런스이다. 젊은 고객층에 어필하기 위해 만들어졌으며, 저렴하고 스타일리시하고 독특한 스포트 콤팩트 차량임을 강조했다. scion이라는 이름은 가족 또는 계승자의 자손을 의미하며 브랜드의 자동차와 소유자를 모두 일컫는다. 2007~2008년 세계 금융 위기 이후 판매량을 계속 유지하는 것이 어려워졌다. 토요타는 2017년 모델을 기점으로 사이언 브랜드를 철폐했고, 이 차량들은 Toyotas로 리브랜딩되면서 중단되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "사이언은 2003년 데뷔한 토요타 자동차의 브랜드이다. 젊은 고객층에 어필하기 위해 만들어졌으며, 본사는 토런스에 두었다. 출시 시리즈 목록에는 2004년 xB RS 1.0과 xA RS 1.0이 처음 올라 있고, 2005년에 tC RS 1.0이 추가되었다. 이후 2008년에 xD RS 1.0이, 2014년에 FR-S RS 1.0이 목록에 더해졌다. 2007~2008년 세계 금융 위기 이후에는 판매량을 유지하기가 어려워졌다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사이언은 스포트 콤팩트 차량을 내세웠으며 대표 차종은 xB, xA, tC, xD, FR-S이다. xB는 2004년 RS 1.0으로 시작해 2014년 RS 10.0까지 출시 시리즈에 이름을 올렸다. tC는 2005년 RS 1.0에서 2015년 RS 9.0까지 이어졌다. xA는 2004년부터 2006년까지 RS 3.0까지, xD는 2008년부터 2012년까지 RS 4.0까지 각각 출시되었다. FR-S는 2014년 RS 1.0에 이어 2016년 RS 2.0이 출시 시리즈에 올랐다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "사이언은 2003년에 데뷔했으나 현재는 중단된 브랜드이다. 2007~2008년 세계 금융 위기 이후 판매량 유지가 어려워졌고, 토요타는 2017년 모델을 기점으로 사이언 브랜드를 철폐했다. 이 차량들은 Toyotas로 리브랜딩되면서 중단되었다. 모기업은 토요타 자동차이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "토요타 자동차가 젊은 고객층을 겨냥해 만든 저렴하고 스타일리시한 스포트 콤팩트 브랜드로, 2017년 모델을 기점으로 철폐되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q503487",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q503487",
+    "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9D%B4%EC%96%B8_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Scion_(automobile)"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q503487",
+   "country": "일본",
+   "inception": "2003",
+   "headquarters": "토런스",
+   "founders": [],
+   "parent": "토요타 자동차",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「사이언 (자동차)」 요약과 위키데이터 Q503487 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

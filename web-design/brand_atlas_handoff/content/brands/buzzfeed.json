@@ -1,0 +1,85 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q5003490",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/buzzfeed-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "buzzfeed",
+  "urlSlug": "buzzfeed",
+  "name": "버즈피드",
+  "nameKo": "버즈피드",
+  "nameEn": "BuzzFeed",
+  "definition": "버즈피드(BuzzFeed)는 미국 뉴욕에 본사를 둔 뉴스 및 엔터테인먼트 웹사이트이다. 온라인 퀴즈와 목록형 기사로 알려졌으며 글로벌 미디어 및 기술 회사로 성장했다.",
+  "summary": "버즈피드(BuzzFeed)는 미국 뉴욕에 본사를 둔 뉴스 및 엔터테인먼트 웹사이트이다. 온라인 퀴즈와 목록형 기사로 알려졌으며 글로벌 미디어 및 기술 회사로 성장했다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "온라인 퀴즈와 목록형 기사로 출발해 탐사 저널리즘 수상 경력까지 쌓은 미디어 및 기술 회사로, 네이티브 광고로 수익을 창출한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "버즈피드는 미국 뉴욕에 본사를 둔 뉴스 및 엔터테인먼트 웹사이트이다. 사용자가 올리는 뉴스와 제휴 매체의 기사가 주요 콘텐츠로 정리되어 노출된다. 원래 온라인 퀴즈, 목록, 대중문화 기사로 알려졌으나 정치, DIY, 동물, 비즈니스 등 다양한 주제를 다루는 글로벌 미디어 및 기술 회사로 성장했다. 시청자가 광고 콘텐츠를 읽을 가능성을 높이는 데 도움이 되는 전략인 네이티브 광고를 통해 수익을 창출한다. 2014년 Pew Research Center 조사에서는 미국의 대다수 응답자가 연령이나 정치적 성향에 관계없이 버즈피드를 신뢰할 수 없는 자료원으로 간주했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "버즈피드는 2006년 미국에서 설립되었으며, 한국어 위키백과는 Jonah Peretti가 설립했다고 적는다. 위키데이터에는 창업자로 Jonah Peretti와 John Seward Johnson III가 기록되어 있다. 2011년 말 Politico의 Ben Smith를 편집장으로 고용하여 사이트를 장문 저널리즘과 보도로 확장했다. 탐사 저널리즘에 수년간 투자한 끝에 BuzzFeed News는 2021년까지 National Magazine Award, George Polk Award 및 퓰리처상을 수상했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 콘텐츠는 온라인 퀴즈, 목록형 기사, 대중문화 기사이다. 정치, DIY, 동물, 비즈니스 등 다양한 주제도 다룬다. 사용자가 올리는 뉴스와 제휴 매체의 기사가 함께 정리되어 노출된다. 뉴스 부문인 BuzzFeed News는 탐사 저널리즘으로 여러 상을 받았고, 기본 웹사이트의 섹션이 아닌 자체 도메인으로 존재했다. 수익은 시청자가 광고 콘텐츠를 읽을 가능성을 높이는 데 도움이 되는 전략인 네이티브 광고를 통해 창출한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2023년 4월 20일 Jonah Peretti는 BuzzFeed Media가 BuzzFeed News를 폐쇄하고 뉴스 활동을 The Huffington Post에 집중하며 약 180명의 직원을 해고할 것이라고 발표했다. 본사는 뉴욕에 있다. 회사의 청중은 좌파 성향으로 묘사되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "온라인 퀴즈와 목록형 기사로 출발해 탐사 저널리즘 수상 경력까지 쌓은 미디어 및 기술 회사로, 네이티브 광고로 수익을 창출한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.buzzfeed.com",
+  "entityLinks": {
+   "wikidata": "Q5003490",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q5003490",
+    "https://ko.wikipedia.org/wiki/%EB%B2%84%EC%A6%88%ED%94%BC%EB%93%9C",
+    "https://en.wikipedia.org/wiki/BuzzFeed"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q5003490",
+   "country": "미국",
+   "inception": "2006",
+   "headquarters": "뉴욕",
+   "founders": [
+    "Jonah Peretti",
+    "John Seward Johnson III"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「버즈피드」 요약과 위키데이터 Q5003490 팩트를 근거로 편집",
+  "founded": {
+   "date": "2006-11-01",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

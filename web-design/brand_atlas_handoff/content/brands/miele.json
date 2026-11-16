@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q695230",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/miele-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "miele",
+  "urlSlug": "miele",
+  "name": "밀레",
+  "nameKo": "밀레",
+  "nameEn": "Miele",
+  "definition": "밀레(Miele)는 독일 귀터슬로에 본사를 둔 고급 가정용 가전 및 업무용 장비 제조업체이다. 1899년 Carl Miele와 Reinhard Zinkann이 창업했으며 가족 소유·가족 경영 기업이다.",
+  "summary": "밀레(Miele)는 독일 귀터슬로에 본사를 둔 고급 가정용 가전 및 업무용 장비 제조업체이다. 1899년 Carl Miele와 Reinhard Zinkann이 창업했으며 가족 소유·가족 경영 기업이다.",
+  "industry": "홈·라이프스타일",
+  "domainSlug": "home-lifestyle",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "창업 이래 Miele와 Zinkann 두 가문이 소유하고 경영해 온 독일의 고급 가전 제조업체로, 가정용과 업무용 장비를 함께 만든다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "밀레는 고급 가정용 가전과 업무용 장비를 만드는 독일 제조업체이다. 본사는 Ostwestfalen-Lippe 지역의 귀터슬로에 있다. 세탁기, 청소기, 식기세척기, 오븐, 냉장고, 커피 시스템 등 가정용 가전과 업무용 세탁 장비를 생산한다. 47개국에 진출해 제품을 수출하며, 대부분의 제품은 독일, 스위스, 오스트리아, 체코, 루마니아에서 만든다. 2007년에는 독일 Best Brands 조사에서 최고의 기업으로 선정되었고, 같은 해 영국에서 Which?가 선정한 최고의 가전 브랜드로 꼽혔다. 북미에서는 고급 대형 가전 브랜드로 판매된다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "밀레는 1899년 7월 1일 Miele & Cie.의 설립과 함께 출발했으며, 창업자는 Carl Miele와 Reinhard Zinkann이다. 첫 제품은 Meteor 브랜드의 크림 분리기, 버터 교반기, 통형 세탁기였다. Carl Miele는 제조를 직접 감독했고, Reinhard Zinkann은 견습을 거쳐 재무와 영업을 맡았다. 1927년 청소기 생산을 시작했고, 1929년 유럽 최초의 전기 식기세척기를 내놓았으며, 1932년에는 유럽 최대의 원심분리기 제조업체가 되었다. 1983년 미국 Somerset에 본사를 세우며 미국에 진출했고, 1996년에는 Melitta와 합작으로 중국 Dongguan에 공장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "밀레는 세탁기, 청소기, 식기세척기, 회전식 다림질기, 빌트인 대류·스팀·스피드 오븐, 후드와 쿡탑, 냉장고·냉동고·와인 쿨러, 커피 시스템 등 가정용 가전을 생산한다. 업무용으로는 상업용 세탁 장비, 습식 세탁기, 실험실 유리기구 세척기, 치과용 소독기, 의료기기 세척기를 만든다. 귀터슬로 공장은 세탁기와 세탁건조기를, 빌레펠트 공장은 식기세척기, 청소기, 전문 청소 장비를 생산한다. 체코 Uničov 공장은 가정용 건조기 전량과 식기세척기의 약 4분의 3을 생산한다. 중국 Dongguan 공장은 청소기 생산에서 중요한 역할을 한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2026년 기준 밀레는 전 세계에서 19개 생산 거점을 운영하며, 상당수가 독일에 있다. 지분은 Miele 가문이 51.1%, Zinkann 가문이 48.9%를 보유한다. 2024년에는 가정용 세탁기 조립 대부분을 귀터슬로에서 Ksawerów 공장으로 옮길 계획을 발표했고, 같은 해 11월 미국 Opelika의 새 공장에서 빌트인 오븐 생산을 시작했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "창업 이래 Miele와 Zinkann 두 가문이 소유하고 경영해 온 독일의 고급 가전 제조업체로, 가정용과 업무용 장비를 함께 만든다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.miele.ru/",
+  "entityLinks": {
+   "wikidata": "Q695230",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q695230",
+    "https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A0%88_(%EB%8F%85%EC%9D%BC%EC%9D%98_%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Miele"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q695230",
+   "country": "독일",
+   "inception": "1899",
+   "headquarters": "귀터슬로",
+   "founders": [
+    "Carl Miele",
+    "Reinhard Zinkann"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Miele」 본문과 위키데이터 Q695230 팩트를 근거로 편집",
+  "founded": {
+   "date": "1899-07-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

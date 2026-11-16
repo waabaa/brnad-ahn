@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q210047",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/petrobras-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "petrobras",
+  "urlSlug": "petrobras",
+  "name": "페트로브라스",
+  "nameKo": "페트로브라스",
+  "nameEn": "Petrobras",
+  "definition": "페트로브라스(Petrobras)는 브라질 리우데자네이루에 본사를 둔 석유 산업의 다국적 기업이다. 브라질 정부가 지분 과반을 보유한 국영 기업이며 정식 명칭은 Petróleo Brasileiro S.A.이다.",
+  "summary": "페트로브라스(Petrobras)는 브라질 리우데자네이루에 본사를 둔 석유 산업의 다국적 기업이다. 브라질 정부가 지분 과반을 보유한 국영 기업이며 정식 명칭은 Petróleo Brasileiro S.A.이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.35,
+  "image": "",
+  "logo": "",
+  "insight": "브라질 정부가 과반 지분을 보유한 국영 석유 기업으로, 1953년 'The Oil is Ours' 구호 아래 법적 독점권을 갖고 출발해 심해 탐사에서 세계 기록을 세운 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "페트로브라스는 석유 산업에서 사업을 하는 브라질의 다국적 기업으로, 본사는 리우데자네이루에 있으며 브라질 정부가 과반 지분을 보유한 국영 기업이다. 회사 이름은 '브라질 석유 공사'로 옮길 수 있고, 정식 명칭은 Petróleo Brasileiro S.A.이다. 1953년 설립되어 브라질 내 법적 독점권을 부여받았으며, 1997년 법 제정으로 독점이 깨지고 경쟁이 허용되었다. 사업은 여섯 개 영역으로 나뉘며 정제·운송·마케팅, 탐사·생산, 유통 등이 포함된다. 2000년에는 해저 1,877미터 깊이까지 도달하며 심해 석유 탐사에서 세계 기록을 세웠다. 2023년 Fortune Global 500에서 71위, Forbes Global 2000에서 58위에 올랐다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "페트로브라스는 1953년 Getúlio Vargas 대통령 정부 아래에서 설립되었다. 당시 구호는 '석유는 우리 것이다'(O petróleo é nosso)였으며, 회사는 브라질 내 법적 독점권을 부여받았다. 1953년 브라질의 석유 생산량은 하루 2,700배럴에 불과했다. 1961년 리우데자네이루 인근에서 REDUC 정유소가 가동을 시작했고, 1963년에는 리우데자네이루에 연구 센터 Cenpes가 문을 열었으며 이 센터는 지금도 세계 최대 규모의 에너지 연구 센터 중 하나로 남아 있다. 1968년에는 석유화학을 맡는 자회사 Petrobras Quimica S.A(Petroquisa)를 설립했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 여섯 개 영역으로 운영되며, 매출 순으로 정제·운송·마케팅, 탐사·생산, 유통 등이 있다. 정제·운송·마케팅 부문은 정제, 물류, 운송, 트레이딩, 석유 제품과 원유의 수출입, 브라질 내 석유화학 투자를 맡는다. 탐사·생산 부문은 브라질에서 원유, 천연가스액(NGL), 천연가스의 탐사·개발·생산을 담당한다. 유통 부문은 석유 제품과 에탄올의 유통을 다룬다. 오일셰일에서 석유를 추출하는 Petrosix 기술도 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "페트로브라스는 현재도 브라질 정부가 과반 지분을 보유한 국영 다국적 기업이며 본사는 리우데자네이루에 있다. 2022년 Caio Paes de Andrade 체제에서 사상 최고 순이익인 R$188.3 billion을 기록했고 R$215.7 billion의 배당을 지급해 세계 2위의 배당 지급 기업이 되었다. 2023년에는 Pernambuco의 Ipojuca에 있는 Abreu e Lima 정유소에서 새 생산 라인 건설을 재개한다고 발표했으며, 이 정유소는 Pre-Salt 지역의 중질유를 정제할 예정이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "브라질 정부가 과반 지분을 보유한 국영 석유 기업으로, 1953년 'The Oil is Ours' 구호 아래 법적 독점권을 갖고 출발해 심해 탐사에서 세계 기록을 세운 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.petrobras.com.br",
+  "entityLinks": {
+   "wikidata": "Q210047",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q210047",
+    "https://ko.wikipedia.org/wiki/%ED%8E%98%ED%8A%B8%EB%A1%9C%EB%B8%8C%EB%9D%BC%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Petrobras"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q210047",
+   "country": "브라질",
+   "inception": "1953",
+   "headquarters": "리우데자네이루",
+   "founders": [
+    "제툴리우 바르가스"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Petrobras」 본문과 위키데이터 Q210047 팩트를 근거로 편집",
+  "founded": {
+   "date": "1953-10-03",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q30256699",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/biontech-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "biontech",
+  "urlSlug": "biontech",
+  "name": "바이온텍",
+  "nameKo": "바이온텍",
+  "nameEn": "BioNTech",
+  "definition": "바이온텍(BioNTech)은 독일 마인츠에 본사를 둔 생명공학 기업이다. mRNA 백신 연구를 주요 사업 분야로 하며, 개인화된 면역항암요법과 감염병 백신, 희귀질환의 단백질대체요법 등에 이를 활용한다.",
+  "summary": "바이온텍(BioNTech)은 독일 마인츠에 본사를 둔 생명공학 기업이다. mRNA 백신 연구를 주요 사업 분야로 하며, 개인화된 면역항암요법과 감염병 백신, 희귀질환의 단백질대체요법 등에 이를 활용한다.",
+  "industry": "헬스·제약",
+  "domainSlug": "health-pharma",
+  "tier": "C_source_backed",
+  "rating": 4.25,
+  "image": "",
+  "logo": "",
+  "insight": "mRNA 기술을 기반으로 개인화된 면역항암요법을 연구하며, 화이자와 함께 코로나19 백신 BNT162b2 개발을 진행한 독일 마인츠의 생명공학 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "바이온텍은 독일 마인츠에 본사를 둔 생명공학 기업이며, mRNA 백신 연구를 주요 사업 분야로 한다. 이 기술은 개인화된 면역항암요법, 감염병 백신, 희귀질환의 단백질대체요법, 저분자 면역요법 등에 사용된다. mRNA 백신을 초기에 개발한 기업에 속하며, 개인화된 mRNA 면역항암요법의 임상 실험을 진행하고 생산 공정을 개발했다. 2020년 초반부터 화이자와 함께 SARS-CoV-2 백신인 BNT162b2 개발을 진행했다. 2019년 10월 10일 미국 나스닥에 ADS 형태로 상장했으며 종목 코드는 BNTX이다. 사업 부문은 크게 Biotech와 External Services로 나뉘며, 독일과 미국에 시설과 자회사를 두고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "2008년 우우르 샤힌, 외즐렘 튀레지, 크리스토프 후버가 독일에서 설립했다. 회사의 목표는 개인화된 면역항암요법 기술 개발이었다. 설립 당시 Andreas und Thomas Strüngmann이 약 1억 8000만 달러를 출자했고, Michael Motschmann, Helmut Jeggle 등도 출자했다. 2009년 EUFETS와 JPT Peptide Technologies를 인수했고, 같은 해 개인화된 면역항암요법 후보의 1상 임상실험이 시작되었다. 2014년부터 2018년 사이에 네이처 등에 연구 결과를 출판했고, 2015년부터 다른 회사 및 연구소와 합작 및 공동 연구 계약을 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업 부문은 크게 Biotech와 External Services로 나뉜다. 주요 연구 분야는 mRNA 백신이며, 개인화된 면역항암요법, 감염병 백신, 희귀질환의 단백질대체요법, 저분자 면역요법 등에 사용된다. 2020년 화이자와 함께 SARS-CoV-2 백신 BNT162b2 개발을 진행했으며, 2020년 11월 공동 발표에서 COVID-19에 95% 이상의 효능을 보인다고 발표했다. 2019년에는 치료 플랫폼 4종류와 약물 2종류에 대한 총 6건의 임상시험을 시작했다. 독일 이다르오버슈타인, 마르틴스리트, 노이리트, 베를린에 GMP 인증을 받은 mRNA 치료제 및 조합 세포 치료제 시설이 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "최대 주주는 50% 이상을 소유한 AT Impf이며, 기타 기관 투자자로는 Medine, MIG Verwaltung, FMR이 있다. 2019년 3월 8일 AG에서 SE로 법적 유형을 변경했고, 2019년 12월 기준 약 1,300명의 직원을 고용하고 있다. 2020년 9월 독일 마르부르크의 노바티스 생산 시설을 인수해 Biontech Manufacturing Marburg로 개편했으며, 같은 해 Neon Therapeutics를 인수해 BioNTech US로 개편했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "mRNA 기술을 기반으로 개인화된 면역항암요법을 연구하며, 화이자와 함께 코로나19 백신 BNT162b2 개발을 진행한 독일 마인츠의 생명공학 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://biontech.de/",
+  "entityLinks": {
+   "wikidata": "Q30256699",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q30256699",
+    "https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EC%98%A8%ED%85%8D",
+    "https://en.wikipedia.org/wiki/BioNTech"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q30256699",
+   "country": "독일",
+   "inception": "2008",
+   "headquarters": "마인츠",
+   "founders": [
+    "외즐렘 튀레지",
+    "우우르 샤힌"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「바이온텍」 요약과 위키데이터 Q30256699 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

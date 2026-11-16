@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q791179",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/aviva-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "aviva",
+  "urlSlug": "aviva",
+  "name": "아비바",
+  "nameKo": "아비바",
+  "nameEn": "Aviva",
+  "definition": "아비바(Aviva)는 영국 런던에 본사를 둔 보험회사이다. 일반 보험, 생명보험, 장기 저축 상품, 펀드 관리, 연금 등을 주요 사업 분야로 하며 영국 외 여러 나라에 자회사를 두고 있다.",
+  "summary": "아비바(Aviva)는 영국 런던에 본사를 둔 보험회사이다. 일반 보험, 생명보험, 장기 저축 상품, 펀드 관리, 연금 등을 주요 사업 분야로 하며 영국 외 여러 나라에 자회사를 두고 있다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "영국 런던에 본사를 둔 보험회사로, 일반 보험과 생명보험, 연금, 펀드 관리를 아우르며 2002년 CGNU에서 이름을 바꾼 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아비바는 영국의 보험회사로, 본사는 영국 런던에 있다. 일반 보험, 생명보험, 장기 저축 상품, 펀드 관리, 연금 등을 주요 사업 분야로 한다. 전 세계에 29,600명에 달하는 직원과 3,300만 명에 달하는 고객을 보유하고 있다. 영국 외에 캐나다, 중국, 프랑스, 홍콩, 인도, 인도네시아, 아일랜드, 이탈리아, 리투아니아, 폴란드, 싱가포르, 스페인, 타이완, 터키, 베트남에 자회사를 두고 있다. 2000년에 설립되었으며, 2002년 7월에 아비바로 이름을 바꾸었다. 아비바라는 이름은 라틴어로 '살아있는'을 뜻하는 '비바'(viva)에서 파생되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1998년 영국의 보험회사인 커머셜 유니언(Commercial Union)과 제너럴 액시던트(General Accident)가 합병하면서 CGU가 설립되었다. 2000년 CGU가 영국의 보험회사인 노리치 유니언(Norwich Union)을 합병하면서 CGNU가 설립되었다. CGNU는 2002년 7월에 아비바로 이름을 바꾸었다. 이후 2005년 3월에는 영국의 자동차 수리 전문 회사인 RAC를 인수했고, 2006년 7월에는 미국의 보험회사인 아머러스 그룹(AmerUs Group)을 인수했다. 2015년 4월 13일에는 영국의 보험회사인 프렌즈 라이프 그룹(Friends Life Group)을 인수했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 전 세계에 29,600명에 달하는 직원과 3,300만 명에 달하는 고객을 보유하고 있다. 영국 외에 캐나다, 중국, 프랑스, 홍콩, 인도, 인도네시아, 아일랜드, 이탈리아, 리투아니아, 폴란드, 싱가포르, 스페인, 타이완, 터키, 베트남에 자회사를 두고 있다. 2012년 7월에는 주주 가치 향상과 사업 단순화를 위해 중요도가 낮은 16개 사업을 철수, 매각하는 구조 조정을 단행했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "영국 런던에 본사를 둔 보험회사로, 일반 보험과 생명보험, 연금, 펀드 관리를 아우르며 2002년 CGNU에서 이름을 바꾼 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://aviva.com",
+  "entityLinks": {
+   "wikidata": "Q791179",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q791179",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B9%84%EB%B0%94",
+    "https://en.wikipedia.org/wiki/Aviva"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q791179",
+   "country": "영국",
+   "inception": "2000",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「아비바」 요약과 위키데이터 Q791179 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

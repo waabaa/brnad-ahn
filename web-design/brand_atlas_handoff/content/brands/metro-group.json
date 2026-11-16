@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q169167",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/metro-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "metro-group",
+  "urlSlug": "metro-group",
+  "name": "METRO Group",
+  "nameKo": "",
+  "nameEn": "METRO Group",
+  "definition": "METRO Group은 독일 뒤셀도르프에 본사를 둔 다국적 식품 도매 기업이다. 호텔, 레스토랑, 케이터링 업체, 독립 소매업체에 캐시앤캐리 매장과 직접 배송으로 상품을 공급한다.",
+  "summary": "METRO Group은 독일 뒤셀도르프에 본사를 둔 다국적 식품 도매 기업이다. 호텔, 레스토랑, 케이터링 업체, 독립 소매업체에 캐시앤캐리 매장과 직접 배송으로 상품을 공급한다.",
+  "industry": "리테일·커머스",
+  "domainSlug": "retail-commerce",
+  "tier": "C_source_backed",
+  "rating": 4.133333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "소비자가 아닌 호텔·레스토랑·독립 소매업체 등 전문 고객을 대상으로 한 캐시앤캐리 식품 도매에 집중하는 독일 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "독일 뒤셀도르프에 본사를 둔 다국적 식품 도매 기업이다. 호텔, 레스토랑, 케이터링 업체, 독립 소매업체를 대상으로 캐시앤캐리 매장과 고객 직접 배송을 통해 상품을 공급한다. 매장은 주로 Metro와 Makro 브랜드로 운영한다. 2025년 9월 말 기준 21개국에서 622개의 도매 매장을 운영했다. 2017년 기존 Metro AG가 도매 사업과 Real 대형마트 체인을 별도 회사로 분리했고, 원래 회사는 가전 사업을 유지해 Ceconomy가 되었다. 현재는 EP Global Commerce를 통해 EP Group이 지배하고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1963년 11월 8일 Ernst Schmidt와 Wilhelm Schmidt-Ruthenbeck 형제가 에센에서 Metro라는 이름의 첫 도매 센터를 열었다. 1964년 Stöcker & Reinshagen(Schell 가문)이 뮐하임 안 데어 루르에 캐시앤캐리 매장을 계획했고, 세 사업가는 사업을 합쳐 Metro-SB-Großmarkt GmbH & Co. KG를 세웠다. Otto Beisheim이 단독 상무이사가 되었다. 1966년 Beisheim이 Franz Haniel & Cie.의 Friedrich Wilhelm Lenz를 설득해 투자를 받았고, 이후 Schmidt-Ruthenbeck 가문, Beisheim, Haniel이 각각 지분 약 3분의 1을 보유했다. 1967년부터 독일과 유럽으로 빠르게 확장했으며, SHV Holdings와의 제휴로 네덜란드에 첫 Makro 매장을 열었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 호텔, 레스토랑, 케이터링 업체, 독립 소매업체에 상품을 공급하는 캐시앤캐리 도매이다. 매장은 주로 Metro와 Makro 브랜드로 운영하며, 고객에게 직접 배송도 한다. 1996년 합병으로 출범한 Metro AG에는 Kaufhof, Media-Saturn, Pelikan, Primus Sportwelt 등도 포함되어 있었다. 2006년에는 Wal-Mart의 독일 매장 85곳을 인수해 대부분 Real 브랜드에 통합했다. 2017년 분사 이후 가전 사업은 Ceconomy에 남았다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2017년 기존 Metro AG는 도매 사업과 Real 대형마트 체인을 별도 회사로 분리했다. Metro는 2020년 Real을 매각했고, 2025년 프랑크푸르트 증권거래소에서 상장 폐지되었다. 2025년 9월 말 기준 21개국에서 도매 매장 622개를 운영했으며, EP Global Commerce를 통해 EP Group이 지배한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "소비자가 아닌 호텔·레스토랑·독립 소매업체 등 전문 고객을 대상으로 한 캐시앤캐리 식품 도매에 집중하는 독일 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.metrogroup.de/",
+  "entityLinks": {
+   "wikidata": "Q169167",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q169167",
+    "https://ko.wikipedia.org/wiki/%EB%A9%94%ED%8A%B8%EB%A1%9C_AG",
+    "https://en.wikipedia.org/wiki/Metro_AG"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q169167",
+   "country": "독일",
+   "inception": "1964",
+   "headquarters": "뒤셀도르프",
+   "founders": [
+    "Otto Beisheim"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Metro AG」 본문과 위키데이터 Q169167 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

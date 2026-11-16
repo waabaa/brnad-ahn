@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q757689",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/atos-se-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "atos-se",
+  "urlSlug": "atos-se",
+  "name": "아토스",
+  "nameKo": "아토스",
+  "nameEn": "Atos SE",
+  "definition": "아토스(Atos SE)는 프랑스 브종에 본사를 둔 유럽의 다국적 정보기술(IT) 서비스·컨설팅 기업이다. 하이테크 트랜잭션 서비스, 통합 커뮤니케이션, 클라우드, 빅데이터, 사이버보안을 전문으로 한다.",
+  "summary": "아토스(Atos SE)는 프랑스 브종에 본사를 둔 유럽의 다국적 정보기술(IT) 서비스·컨설팅 기업이다. 하이테크 트랜잭션 서비스, 통합 커뮤니케이션, 클라우드, 빅데이터, 사이버보안을 전문으로 한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "프랑스 브종에 본사를 둔 유럽 IT 서비스 기업으로, 여러 차례의 합병과 인수를 통해 성장했고 Atos, Syntel, Eviden 브랜드로 운영된다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아토스는 파리 근교 브종에 본사를 두고 전 세계에 사무소를 운영하는 유럽의 다국적 IT 서비스·컨설팅 기업이다. 하이테크 트랜잭션 서비스, 통합 커뮤니케이션, 클라우드, 빅데이터, 사이버보안 서비스를 전문으로 한다. 전 세계에서 Atos, Syntel, Eviden이라는 브랜드로 사업을 운영한다. 여러 기업을 인수하며 규모를 키웠고, 2014년 Bull SA의 지배 지분을 확보했으며 2018년에는 북미 사업 확장을 위해 Syntel을 인수했다. 2022년부터 2024년까지 체코 억만장자 Daniel Křetínský와 회사 매각을 협상했으나 2024년 2월 결렬되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1996년 네덜란드 기업 BSO와 Philips의 C&P 부문이 합병해 Origin B.V.가 만들어졌다. 이듬해인 1997년에는 프랑스 기업 Axime와 Sligos의 합병으로 Atos가 탄생했다. 2000년 Atos가 네덜란드 기반의 Origin B.V.와 결합해 Atos Origin이 되었다. 이후 2002년 영국과 네덜란드의 KPMG Consulting 사업을, 2004년 Schlumberger의 IT 서비스 부문인 SchlumbergerSema를 인수했다. 2010년 Siemens IT Solutions and Services 인수를 발표해 2011년 7월 마무리했고, 회사 이름은 다시 Atos로 돌아갔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주요 사업은 하이테크 트랜잭션 서비스, 통합 커뮤니케이션, 클라우드, 빅데이터, 사이버보안 서비스이다. 그룹은 Atos, Syntel, Eviden 브랜드로 운영된다. 2011년 Ufida International Holdings와 합작회사 Yunano를 세웠고, Atos가 지분 70%, UFIDA가 30%를 가졌다. 2012년에는 Canopy라는 새 회사의 설립을 발표했다. 2018년 4월에는 Google Cloud와 보안 인공지능 시스템 제공을 위한 글로벌 파트너십을 발표했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2014년 Bull SA의 지배 지분을 확보했고, 같은 해 12월 Xerox의 IT Outsourcing 사업 인수를 발표했다. 2018년 10월에는 부채를 포함해 US$3,570,000,000에 Syntel을 인수했다. 2022년부터 이어진 Daniel Křetínský와의 매각 협상은 2024년 2월 결렬되었고, 2026년 3월 Atos Group은 Bull SA를 프랑스 정부에 매각했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "프랑스 브종에 본사를 둔 유럽 IT 서비스 기업으로, 여러 차례의 합병과 인수를 통해 성장했고 Atos, Syntel, Eviden 브랜드로 운영된다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://atos.net",
+  "entityLinks": {
+   "wikidata": "Q757689",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q757689",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%ED%86%A0%EC%8A%A4_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Atos"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q757689",
+   "country": "프랑스",
+   "inception": "2000",
+   "headquarters": "브종",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Atos」 본문과 위키데이터 Q757689 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q157645",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/dhl-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "dhl-group",
+  "urlSlug": "dhl-group",
+  "name": "도이체 포스트",
+  "nameKo": "도이체 포스트",
+  "nameEn": "DHL Group",
+  "definition": "도이체 포스트(DHL Group)는 독일 본에 본사를 둔 다국적 소포 배송 및 공급망 관리 기업이다. 세계 최대 규모의 택배 기업 가운데 하나이며, 우편 부문 Deutsche Post와 소포 부문 DHL을 운영한다.",
+  "summary": "도이체 포스트(DHL Group)는 독일 본에 본사를 둔 다국적 소포 배송 및 공급망 관리 기업이다. 세계 최대 규모의 택배 기업 가운데 하나이며, 우편 부문 Deutsche Post와 소포 부문 DHL을 운영한다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "독일 우편 당국의 후신으로, 우편 사업 Deutsche Post와 국제 소포 사업 DHL을 한 그룹에서 운영하는 물류 기업이다. 민영화 이후 인수를 거치며 세계적 물류 기업으로 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "도이체 포스트는 독일 본에 본사를 둔 다국적 소포 배송 및 공급망 관리 기업으로, 세계 최대 택배 기업 가운데 하나이다. 우편 부문인 Deutsche Post는 독일에서 하루 61 million통의 편지를 배달하며, 유럽 최대의 우편 기업이다. 소포 부문 DHL은 전액 출자 자회사로, 220개가 넘는 국가와 지역에 진출해 있다고 밝힌다. 2022년에는 세계 최대 물류 기업이라는 평가를 받았다. Deutsche Post의 전신인 독일 우편 당국 Deutsche Bundespost는 중세 Kaiserliche Reichspost에 뿌리를 둔, 세계에서 가장 오래된 근대 우편 서비스다. 프랑크푸르트 증권거래소에 DHL이라는 코드로 상장되어 있으며 Euro Stoxx 50 지수에 포함되어 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "DHL Group은 독일 우편 당국 Deutsche Bundespost의 후신이다. 1995년 1월 2일 Deutsche Bundespost Postdienst가 Deutsche Post AG가 되며 민영화되었고, 2000년 11월 20일 프랑크푸르트 증권거래소 IPO를 통해 완전한 민간 기업이 되었다. 1998년 DHL International 지분을 사들이기 시작했고, 1999년 Van Gend & Loos, 2000년 Danzas를 인수했으며, 2002년 12월 DHL International의 나머지 지분을 확보했다. 2003년 8월에는 시애틀에 기반을 둔 Airborne Express를 인수했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "우편 부문은 Deutsche Post 브랜드로 독일의 전통적인 우편 서비스를 제공하며, 중앙 허브의 생산 시설과 4개 대륙의 영업소·생산 센터를 통해 우편 가치사슬 전반을 다룬다. 소포 부문 DHL에는 Van Gend & Loos, Danzas, Airborne Express, EuroExpress를 통합해 구성한 DHL Express가 포함된다. 2005년 12월에는 기업 고객의 운송을 담당하던 영국 물류 기업 Exel을 인수했다. 2014년 12월에는 전기차 제조사 StreetScooter GmbH를 인수했다. 2016년 12월에는 영국 UK Mail 인수를 마쳤으며, UK Mail은 이후 DHL Parcel UK로 이름을 바꾸어 DHL 네트워크 아래에서 국내 소포 서비스를 운영한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2016년 기준 주식의 20.5%는 국영 KfW 은행이 보유했고, 79.5%는 유통 주식으로 기관투자자가 65.6%, 개인투자자가 10.8%를 가졌다. 2016년 이자 및 세전 이익(EBIT)은 3.491 billion 유로, 매출은 57.334 billion 유로였다. 2019년 2월에는 SF Express(SF Holding)와 중국 내 공급망 사업에 관한 합의에 도달했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "독일 우편 당국의 후신으로, 우편 사업 Deutsche Post와 국제 소포 사업 DHL을 한 그룹에서 운영하는 물류 기업이다. 민영화 이후 인수를 거치며 세계적 물류 기업으로 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.deutschepost.de/",
+  "entityLinks": {
+   "wikidata": "Q157645",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q157645",
+    "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%9D%B4%EC%B2%B4_%ED%8F%AC%EC%8A%A4%ED%8A%B8",
+    "https://en.wikipedia.org/wiki/DHL_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q157645",
+   "country": "독일",
+   "inception": "1995",
+   "headquarters": "포스트 타워",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「DHL Group」 본문과 위키데이터 Q157645 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

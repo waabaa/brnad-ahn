@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q636755",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/legrand-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "legrand",
+  "urlSlug": "legrand",
+  "name": "르그랑",
+  "nameKo": "르그랑",
+  "nameEn": "Legrand",
+  "definition": "르그랑(Legrand)은 프랑스 리모주에 본사를 둔 산업 그룹으로, 전기 및 디지털 건축 인프라 제품과 커넥티드 기기를 제조한다. 스위치와 소켓 등 전기 배선 기기를 중심으로 성장했다.",
+  "summary": "르그랑(Legrand)은 프랑스 리모주에 본사를 둔 산업 그룹으로, 전기 및 디지털 건축 인프라 제품과 커넥티드 기기를 제조한다. 스위치와 소켓 등 전기 배선 기기를 중심으로 성장했다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 4.15,
+  "image": "",
+  "logo": "",
+  "insight": "도자기 공방에서 출발해 전기 배선 기기 전문 제조사가 되었고, 인수를 통해 해외 사업을 넓혀 매출의 85%를 해외에서 올리는 프랑스 그룹이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "르그랑은 프랑스에 뿌리를 둔 산업 그룹으로, 전기 및 디지털 건축 인프라 제품과 커넥티드 기기를 제조한다. 포트폴리오는 300,000개가 넘는 제품으로 이루어져 있으며, 2021년 기준 90개국에 사업장을 두고 180개국에서 제품을 판매했다. 매출의 85%는 해외에서 발생한다. 스위치와 소켓 같은 전기 배선 기기에서 출발해 보호 제품(퓨즈 홀더, 회로 차단기 등), 케이블 관리 제품(트렁킹, 미니 트렁킹), 비상 조명 등으로 제품군을 넓혔다. 또한 지속가능 발전과 에너지 절약 기술 분야로 제품군을 확장했고, 전기차 충전, 조명 제어, 데이터센터용 신제품을 개발했다. 인수를 통해 여러 국가로 사업을 넓혀 온 그룹이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "그 기원은 1865년 프랑스 리무쟁 지역의 리모주에서 리옹으로 가는 길목에 세워진 도자기 공방으로 거슬러 올라간다. 이 공방은 처음에 도자기 접시를 만들었다. 1904년 Frédéric Legrand가 회사를 인수해 자신의 이름을 회사에 붙였다. 1919년에는 리모주의 장인 Jean Mondot와 협력 관계를 맺었는데, 그는 Exideuil에서 도자기와 회양목으로 전기 스위치를 만드는 작은 공장을 운영하고 있었다. 플라스틱이 등장하기 전에는 도자기가 가장 좋은 절연 재료였고, 생산은 점차 전기 장비로 다각화되었다. 1949년 공장 화재 이후 스위치와 소켓 등 전기 배선 기기에만 집중하기로 결정했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "르그랑은 전기·디지털 건축 인프라 제품과 커넥티드 기기를 제조하며, 제품 수는 300,000개가 넘는다. 핵심은 스위치와 소켓 같은 전기 배선 기기이며, 퓨즈 홀더와 회로 차단기 등 보호 제품, 트렁킹과 미니 트렁킹 등 케이블 관리 제품, 비상 조명으로 범위를 넓혔다. 인수를 통해 케이블 트레이(KZ, Cablofil 브랜드), 구조화 배선, 조명 제어(WattStopper, Vantage Controls), 출입 통제와 도어 엔트리 시스템 분야를 보강했다. Bticino, Wiremold, Ortronics 같은 기업도 인수했다. 또한 지속가능 발전과 에너지 절약 기술, 전기차 충전, 조명 제어, 데이터센터용 제품을 개발했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "근거 기준으로 르그랑은 2021년 90개국에서 사업을 하고 180개국에서 제품을 판매했으며, 매출의 85%를 해외에서 올린다. 지배구조 측면에서는 2003년 투자펀드 Kohlberg Kravis Roberts(KKR)와 Wendel Investissement가 지분 전체를 사들이면서 상장이 철회되었다. 2006년 말 소수주주의 지분 매각으로 유통 주식은 자본의 35%가 되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "도자기 공방에서 출발해 전기 배선 기기 전문 제조사가 되었고, 인수를 통해 해외 사업을 넓혀 매출의 85%를 해외에서 올리는 프랑스 그룹이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.legrandgroup.com/en",
+  "entityLinks": {
+   "wikidata": "Q636755",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q636755",
+    "https://ko.wikipedia.org/wiki/%EB%A5%B4%EA%B7%B8%EB%9E%91_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/Legrand_(company)"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q636755",
+   "country": "프랑스",
+   "inception": "1904",
+   "headquarters": "리모주",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Legrand (company)」 본문과 위키데이터 Q636755 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

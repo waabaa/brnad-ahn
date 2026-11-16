@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1543874",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/the-hertz-corporation-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "the-hertz-corporation",
+  "urlSlug": "the-hertz-corporation",
+  "name": "더 허츠 코퍼레이션",
+  "nameKo": "더 허츠 코퍼레이션",
+  "nameEn": "The Hertz Corporation",
+  "definition": "더 허츠 코퍼레이션(The Hertz Corporation)은 미국 플로리다주 Estero에 본사를 둔 렌터카 기업이다. Hertz 브랜드를 비롯해 Dollar Rent A Car, Firefly Car Rental, Thrifty Car Rental을 운영한다.",
+  "summary": "더 허츠 코퍼레이션(The Hertz Corporation)은 미국 플로리다주 Estero에 본사를 둔 렌터카 기업이다. Hertz 브랜드를 비롯해 Dollar Rent A Car, Firefly Car Rental, Thrifty Car Rental을 운영한다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "세계 160개국에서 영업하는 미국 렌터카 기업으로, 1918년 Rent-a-Car Inc.에서 출발해 Hertz를 비롯한 네 브랜드를 운영한다는 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "허츠는 자동차를 빌려주는 렌터카 사업을 하는 미국 기업으로, 자사 이름을 딴 Hertz 브랜드를 중심으로 사업을 한다. 모기업 Hertz Global Holdings, Inc.의 본사는 플로리다주 Estero에 있다. Hertz 외에 Dollar Rent A Car, Firefly Car Rental, Thrifty Car Rental 브랜드도 함께 운영한다. 미국의 3대 렌터카 지주회사 가운데 하나이며, 시장 점유율 36%로 Avis Budget Group보다 앞서고 Enterprise Holdings에 이어 2위이다. 매출, 지점 수, 보유 차량 규모로 보면 세계 최대급 차량 대여 회사 중 하나이며, 북미, 유럽, 라틴아메리카, 아프리카, 아시아, 카리브해, 중동, 오세아니아의 160개국에서 영업한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "Walter L. Jacobs가 1918년 Rent-a-Car Inc.를 세웠고, 이 소규모 업체는 Model T Ford 12대로 영업을 시작했다. John D. Hertz가 이 회사에 관심을 가져 1923년 인수했으며, 회사 이름은 Hertz Drive-Ur-Self System으로 바뀌었다. 5년 안에 보유 차량이 600대로 늘었고 연 매출은 약 US$1 million이었다. Jacobs는 1961년까지 사장 겸 최고운영책임자를 맡았다. 1927년 General Motors Corporation에 매각되었다가, John Hertz가 1953년 The Omnibus Corporation을 통해 다시 사들이고 이 회사의 이름을 The Hertz Corporation으로 바꿨다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 사업은 Hertz, Dollar Rent A Car, Firefly Car Rental, Thrifty Car Rental 네 브랜드의 차량 대여이다. 역사적으로는 1926년 최초의 렌터카 차지카드를 내놓았고, 1932년 시카고의 Midway Airport에 첫 렌터카 지점을 열었으며, 1933년 최초의 편도 대여 플랜을 도입했다. 1924년부터 you-drive-it 사업용으로 'Hertz' 이름의 자동차를 생산했는데, Hertz Model D-1은 투어러나 세단으로 나왔고 1927년 생산을 끝냈으며 총 생산량은 약 4,000대였다. 1954년 무렵에는 뉴욕 기반 트럭 리스 회사 Metropolitan Distributors를 인수해 트럭 4,000대를 더했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2020년 Fortune 500에서 326위를 기록했으나, 같은 해 5월 22일 COVID-19 팬데믹으로 매출과 향후 예약이 급감했다며 파산을 신청했다. 2021년 7월 1일 기준으로 Chapter 11 파산 상태에서 벗어났다. 2021년 12월 31일 기준 매출은 $7.3 billion, 자산은 $19.7 billion, 직원은 23,000명이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 160개국에서 영업하는 미국 렌터카 기업으로, 1918년 Rent-a-Car Inc.에서 출발해 Hertz를 비롯한 네 브랜드를 운영한다는 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.hertz.com/",
+  "entityLinks": {
+   "wikidata": "Q1543874",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1543874",
+    "https://ko.wikipedia.org/wiki/%EB%8D%94_%ED%97%88%EC%B8%A0_%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "https://en.wikipedia.org/wiki/Hertz_Global_Holdings"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1543874",
+   "country": "미국",
+   "inception": "1918",
+   "headquarters": "Estero",
+   "founders": [
+    "John D. Hertz",
+    "Walter L. Jacobs"
+   ],
+   "parent": "Hertz Global Holdings",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Hertz Global Holdings」 본문과 위키데이터 Q1543874 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

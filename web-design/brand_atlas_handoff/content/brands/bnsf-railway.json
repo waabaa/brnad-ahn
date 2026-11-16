@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q267122",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/bnsf-railway-wd.jpg",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bnsf-railway",
+  "urlSlug": "bnsf-railway",
+  "name": "BNSF 철도",
+  "nameKo": "BNSF 철도",
+  "nameEn": "BNSF Railway",
+  "definition": "BNSF 철도(BNSF Railway)는 미국 텍사스주 포트워스에 본부를 둔 철도회사이다. 미국 서부와 중부 28개 주에 걸쳐 선로를 보유한 북아메리카의 대륙 횡단 화물 철도 기업이다.",
+  "summary": "BNSF 철도(BNSF Railway)는 미국 텍사스주 포트워스에 본부를 둔 철도회사이다. 미국 서부와 중부 28개 주에 걸쳐 선로를 보유한 북아메리카의 대륙 횡단 화물 철도 기업이다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "북아메리카에서 유니언 퍼시픽 철도에 이어 두 번째로 큰 철도회사로, 아시아와 미국 동부를 잇는 대륙 횡단 화물 수송을 담당한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "BNSF 철도는 미국 텍사스주 포트워스에 본부를 둔 미국의 철도회사이며, 벌링턴 노던 산타페로도 불린다. 유니언 퍼시픽 철도에 이어 북아메리카에서 두 번째로 큰 철도회사이다. 미국 서부와 중부의 28개 주에 걸쳐 총연장 33,400 마일(53,800 km)의 선로를 보유하며, 캐나다의 밴쿠버와 위니펙을 지나는 노선도 갖고 있다. 대륙 횡단 철도로서 아시아와 미국 동부를 잇는 역할을 하고, 컨테이너와 화물 수송의 중요한 구성 요소이다. 일일 평균 1300대의 열차를 운행하고 6,700대의 기관차를 소유하며, 북아메리카 화물 및 곡물 점유율에서 1위를 기록했다. 2010년 2월부터 버크셔 해서웨이의 자회사이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "BNSF 철도의 전신은 벌링턴 노던 산타페 철도와 애치슨, 토피카 앤드 산타페 철도(Atchison, Topeka and Santa Fe Railway) 두 회사이다. 그 역사는 1849년 일리노이주에 설치된 12마일 연장의 오로라 지선 철도로 거슬러 올라간다. 1850년 9월 2일 첫 열차가 시카고 교외의 바타비아에서 현재의 웨스트 시카고까지 6마일 구간을 주행했고, 1864년까지 시카고, 벌링턴 & 퀸시 철도 회사는 일리노이주에 400마일의 선로를 보유하게 되었다. 두 회사가 합병하면서 BNSF 철도가 설립되었고, 2005년 1월 24일 현재의 명칭으로 개명했다. 2009년 워렌 버핏이 지분 인수를 발표했고, 2010년 2월 버크셔 해서웨이의 자회사가 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "BNSF 철도는 컨테이너와 화물 수송을 중심으로 하는 대륙 횡단 철도 사업을 운영한다. 주요 노선은 워싱턴주에서 일리노이주를 잇는 노던 트랜스콘과 로스앤젤레스에서 시카고를 잇는 서던 트랜스콘이다. 두 노선은 각각 14개와 11개의 서브디비전으로 구성되며, 이외에 각 지역의 도시를 잇는 수많은 지선 노선이 있다. 아시아에서 시애틀까지 선박으로 수송된 실크를 동부로 운반하는 노선은 1920년대에 그레이트 노던 철도에 의해 개통되었다. 12,875 km 이상의 타사 노선에도 운행하며, 이를 통해 자사 승무원으로 자사 열차를 운행한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "BNSF 철도는 2010년 2월부터 버크셔 해서웨이의 자회사이며 본부는 텍사스주 포트워스에 있다. 미국 28개 주에서 철도 노선을 운행하며, 일일 평균 1300대의 열차와 6,700대의 기관차를 보유한다. 2005년 1월 24일 현재의 명칭으로 개명했으며, 유니언 퍼시픽 철도에 이어 북아메리카 제2의 철도회사이다. 노선 관리는 14개의 지역에 의해 이루어진다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "북아메리카에서 유니언 퍼시픽 철도에 이어 두 번째로 큰 철도회사로, 아시아와 미국 동부를 잇는 대륙 횡단 화물 수송을 담당한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.bnsf.com/",
+  "entityLinks": {
+   "wikidata": "Q267122",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q267122",
+    "https://ko.wikipedia.org/wiki/BNSF_%EC%B2%A0%EB%8F%84",
+    "https://en.wikipedia.org/wiki/BNSF_Railway"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q267122",
+   "country": "미국",
+   "inception": "1995",
+   "headquarters": "포트워스",
+   "founders": [],
+   "parent": "Burlington Northern Santa Fe Corporation",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「BNSF 철도」 요약과 위키데이터 Q267122 팩트를 근거로 편집",
+  "founded": {
+   "date": "1995-09-22",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

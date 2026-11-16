@@ -1,0 +1,84 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q118911",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/konica-minolta-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "konica-minolta",
+  "urlSlug": "konica-minolta",
+  "name": "코니카 미놀타",
+  "nameKo": "코니카 미놀타",
+  "nameEn": "Konica Minolta",
+  "definition": "코니카 미놀타(Konica Minolta)는 도쿄 지요다구 마루노우치에 본사를 둔 일본의 다국적 기술 기업이다. 프린터, 복합기, 디지털 인쇄 시스템 등 사무·산업용 이미징 제품을 제조한다.",
+  "summary": "코니카 미놀타(Konica Minolta)는 도쿄 지요다구 마루노우치에 본사를 둔 일본의 다국적 기술 기업이다. 프린터, 복합기, 디지털 인쇄 시스템 등 사무·산업용 이미징 제품을 제조한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Konica와 Minolta의 합병으로 출범해 카메라·사진 사업에서 철수하고, 사무·산업용 이미징과 인쇄 시스템 사업을 이어 가는 일본 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코니카 미놀타는 일본의 다국적 기술 기업으로, 본사는 도쿄 지요다구 마루노우치에 있으며 전 세계 45개국에 사무소를 두고 있다. 사무·산업용 이미징 제품으로 프린터, 복합기(MFP), 상업 인쇄 시장용 디지털 인쇄 시스템을 제조한다. 렌즈와 LCD 필름 같은 광학 기기, X선 화상 처리 시스템 같은 의료·그래픽 이미징 제품, 광도계 등 센싱 제품, 텍스타일 프린터도 만든다. 한때 Konica와 Minolta에서 이어받은 카메라·사진 사업을 운영했으나 2006년 Sony에 매각했다. 제품은 아메리카, 아시아 태평양, 유럽, 중동 및 아프리카에서 판매한다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "코니카 미놀타는 일본의 영상 기업 Konica와 Minolta가 합병해 출범했다. 합병은 2003년 1월 7일 발표했고, 같은 해 10월 조직 재편을 완료했다. 로고는 이전 Minolta의 것과 비슷하되 약간 다른 Globe Mark를 사용하며, Minolta의 사명 슬로건 \"The Essentials of Imaging\"도 그대로 사용한다. 2006년 1월 19일 큰 재무 손실을 이유로 카메라 사업에서 철수한다고 발표했고, 같은 해 9월 30일 사진 사업에서 손을 뗐다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사무·산업용 이미징 분야에서는 프린터, 복합기(MFP), 상업 인쇄 시장용 디지털 인쇄 시스템을 제조한다. 관리형 출력 서비스(MPS)는 Optimised Print Services라는 이름으로 제공한다. 광학 기기로는 렌즈와 LCD 필름을 만들고, 의료·그래픽 이미징 분야에는 X선 화상 처리 시스템, 컬러 교정 시스템, X선 필름이 있다. 광도계, 3-D 디지타이저 등 센싱 제품과 텍스타일 프린터도 사업 범위에 든다. 과거에는 DiMAGE 디지털 카메라와 필름 스캐너도 판매했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "본사는 도쿄 지요다구 마루노우치에 있으며 45개국에 사무소를 운영한다. 2006년 카메라 사업을 Sony에 넘겼고, 2007년 3월 포토 이미징 부문을 폐쇄해 컬러 필름, 컬러 페이퍼, 포토 케미컬, 디지털 미니랩 사업을 중단했다. Dai Nippon Printing은 Konica의 Odawara 공장을, CPAC은 Konica의 화학 공장을 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Konica와 Minolta의 합병으로 출범해 카메라·사진 사업에서 철수하고, 사무·산업용 이미징과 인쇄 시스템 사업을 이어 가는 일본 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.konicaminolta.com/global-en/",
+  "entityLinks": {
+   "wikidata": "Q118911",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q118911",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%8B%88%EC%B9%B4_%EB%AF%B8%EB%86%80%ED%83%80",
+    "https://en.wikipedia.org/wiki/Konica_Minolta"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q118911",
+   "country": "일본",
+   "inception": "2003",
+   "headquarters": "지요다구",
+   "founders": [
+    "코니카"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Konica Minolta」 본문과 위키데이터 Q118911 팩트를 근거로 편집",
+  "founded": {
+   "date": "2003-08-05",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

@@ -1,0 +1,82 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q568501",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/electro-motive-diesel-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "electro-motive-diesel",
+  "urlSlug": "electro-motive-diesel",
+  "name": "일렉트로 모티브 디젤",
+  "nameKo": "일렉트로 모티브 디젤",
+  "nameEn": "Electro-Motive Diesel",
+  "definition": "일렉트로 모티브 디젤(Electro-Motive Diesel)은 철도 산업용 디젤 전기 기관차와 기관차 제품, 디젤 엔진을 만드는 브랜드이다. 약칭은 EMD이며 현재 Progress Rail이 소유하고 있다.",
+  "summary": "일렉트로 모티브 디젤(Electro-Motive Diesel)은 철도 산업용 디젤 전기 기관차와 기관차 제품, 디젤 엔진을 만드는 브랜드이다. 약칭은 EMD이며 현재 Progress Rail이 소유하고 있다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9,
+  "image": "",
+  "logo": "",
+  "insight": "General Motors 사업부에서 출발해 현재 Progress Rail이 소유한 디젤 전기 기관차 브랜드이며, 북미에서 GE Transportation과 경쟁한다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "EMD는 철도 산업용 디젤 전기 기관차와 기관차 제품, 디젤 엔진을 공급하는 브랜드이다. 1922년 설립된 Electro-Motive Engineering Corporation에서 출발했으며, 한때 General Motors의 사업부였다. 2010년부터는 Progress Rail이 소유하고 있다. 본사와 엔지니어링 시설은 미국 일리노이주 McCook에 있고, 최종 기관차 조립 라인은 인디애나주 Muncie에 있다. 2008년 기준 직원은 약 3,260명이었다. 2010년에는 북미 디젤 전기 기관차 시장의 약 30%를 차지했으며, 주요 경쟁사는 Wabtec 소유의 GE Transportation이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1922년 Harold L. Hamilton과 Paul Turner가 오하이오주 클리블랜드에서 Electro-Motive Engineering Corporation을 세웠고, 곧 Electro-Motive Company(EMC)로 이름을 바꿨다. 이 회사는 General Electric의 내연-전기 추진·제어 시스템을 이용한 자주식 철도 차량을 개발해 판매했다. 1923년 가솔린 동력 레일 모터카 두 대를 판매했고, 1925년에는 본격 생산에 들어가 철도 차량 27대를 팔았다. 1930년 General Motors가 Winton Engine Company를 인수한 직후 EMC도 사들여 자회사로 삼았다. 이후 GM Research Division의 지원 아래 이동용 디젤 엔진 개발이 이어졌고, 1933년 EMC는 Zephyr와 M-10000 유선형 열차의 동력 장치를 설계했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "EMD는 디젤 전기 기관차, 기관차 관련 제품, 철도 산업용 디젤 엔진을 취급한다. 초기에는 자주식 철도 차량을 개발해 판매했다. 1933년 Zephyr에는 Winton 201A 2행정 디젤 엔진의 8기통 600 hp 버전이 쓰였다. Budd와 Pullman Standard가 디젤 유선형 열차 제작 계약을 맺으면서 EMC의 주요 고객이 되었다. 멕시코 San Luis Potosí에서는 견인 전동기의 정비, 재생, 오버홀 시설을 운영한다. 최종 기관차 조립은 인디애나주 Muncie의 라인에서 이루어진다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 GM이 EMD를 Greenbriar Equity Group과 Berkshire Partners에 매각했고, 이때 사명이 Electro-Motive Diesel로 바뀌었다. 2010년에는 중장비 제조업체 Caterpillar의 자회사 Progress Rail에 매각되어 지금까지 그 소유이다. 본사와 엔지니어링 시설은 McCook에 있으며, 2010년 북미 디젤 전기 기관차 시장 점유율은 약 30%였다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "General Motors 사업부에서 출발해 현재 Progress Rail이 소유한 디젤 전기 기관차 브랜드이며, 북미에서 GE Transportation과 경쟁한다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q568501",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q568501",
+    "https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C_%EB%AA%A8%ED%8B%B0%EB%B8%8C_%EB%94%94%EC%A0%A4",
+    "https://en.wikipedia.org/wiki/Electro-Motive_Diesel"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q568501",
+   "country": "미국",
+   "inception": "1922",
+   "headquarters": "라그레인지",
+   "founders": [],
+   "parent": "Progress Rail Services",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Electro-Motive Diesel」 본문과 위키데이터 Q568501 팩트를 근거로 편집",
+  "founded": {
+   "date": "1922-08-31",
+   "precision": "day",
+   "sources": [
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

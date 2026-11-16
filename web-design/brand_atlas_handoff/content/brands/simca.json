@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q173357",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/simca-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "simca",
+  "urlSlug": "simca",
+  "name": "심카",
+  "nameKo": "심카",
+  "nameEn": "Simca",
+  "definition": "심카(Simca)는 1934년 피아트가 설립한 프랑스의 자동차 제조사이다. 본사는 낭테르에 있었고, 1970년 크라이슬러 유럽의 자회사이자 브랜드가 되면서 독립 회사로서의 기간이 끝났다.",
+  "summary": "심카(Simca)는 1934년 피아트가 설립한 프랑스의 자동차 제조사이다. 본사는 낭테르에 있었고, 1970년 크라이슬러 유럽의 자회사이자 브랜드가 되면서 독립 회사로서의 기간이 끝났다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "피아트가 세우고 크라이슬러 유럽에 편입된 프랑스의 자동차 브랜드로, 독립 제조사에서 그룹 산하 브랜드로 바뀐 이력을 가진다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "심카는 프랑스의 자동차 제조사로, 정식 명칭은 Société Industrielle de Mécanique et Carrosserie Automobile이다. 1934년 피아트에 의해 설립되었으며 본사는 낭테르에 있었다. 1935년 7월부터 1963년 5월까지 이탈리아 출신의 Henri Pigozzi가 회사의 감독을 맡았다. 심카는 피아트와 제휴를 맺었고, 포드의 프랑스 활동 부문을 인수하면서 크라이슬러 그룹의 통제를 점차 크게 받게 되었다. 1970년에는 크라이슬러 유럽의 자회사이자 브랜드가 되었다. 모델로는 Simca Aronde, Simca Vedette, Simca 1000, Simca Horizon 등이 있었고, 브라질 전용 모델도 따로 있었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "심카는 1934년 피아트에 의해 설립된 프랑스의 자동차 제조사로, 정식 명칭은 Société Industrielle de Mécanique et Carrosserie Automobile이며 본사는 낭테르에 있었다. 1935년 7월부터 1963년 5월까지 이탈리아 출신의 Henri Pigozzi가 회사의 감독을 맡았다. 심카는 피아트와 제휴를 맺었고, 포드의 프랑스 활동 부문을 인수했다. 이 과정에서 심카는 크라이슬러 그룹의 통제를 점차 크게 받게 되었다. 1970년에는 크라이슬러 유럽의 자회사이자 브랜드가 되었고, 이로써 독립 회사로서의 기간은 끝이 났다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 모델로는 Simca 5, Simca 6, Simca 8, Simca 9, Simca 11이 있다. Simca Aronde, Simca Ariane, Simca Vedette와 함께 Simca 1000, Simca 1000 Coupé, Simca 1100, Simca 1300/1500, Simca 1301/1501, Simca 1200S 등이 모델 목록에 올라 있다. 다른 회사 이름이 붙은 모델로는 Chrysler-Simca 1609/1610/2-Litre, Matra-Simca Bagheera, Matra-Simca Rancho, Talbot-Simca Solara가 있고, Simca Horizon도 있다. 브라질 모델로는 Simca Jangada, Simca Esplanada, Simca Regente, Simca Tufão, Simca GTX가 있다. 그랑프리 경주차로는 Simca Gordini Type 15가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "심카는 1970년 크라이슬러 유럽의 자회사이자 브랜드가 되었고, 이로써 독립 회사로서의 기간이 끝났다. 위키데이터에는 모기업이 Chrysler Europe으로, 본사가 낭테르로 기록되어 있다. 근거에서 심카는 제조사였다는 과거형으로 서술되며, 현재의 규모나 최근 변화에 관한 내용은 확인되지 않는다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "피아트가 세우고 크라이슬러 유럽에 편입된 프랑스의 자동차 브랜드로, 독립 제조사에서 그룹 산하 브랜드로 바뀐 이력을 가진다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "",
+  "entityLinks": {
+   "wikidata": "Q173357",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q173357",
+    "https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%B9%B4",
+    "https://en.wikipedia.org/wiki/Simca"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q173357",
+   "country": "프랑스",
+   "inception": "1934",
+   "headquarters": "낭테르",
+   "founders": [
+    "피아트"
+   ],
+   "parent": "Chrysler Europe",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「심카」 요약과 위키데이터 Q173357 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

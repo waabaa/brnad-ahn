@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q320458",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ibanez-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ibanez",
+  "urlSlug": "ibanez",
+  "name": "아이바네즈",
+  "nameKo": "아이바네즈",
+  "nameEn": "Ibanez",
+  "definition": "아이바네즈(Ibanez)는 일본의 Hoshino Gakki 그룹에 속한 악기 브랜드로, 기타와 베이스를 중심으로 앰프, 이펙터 등을 생산해 전 세계에 판매한다.",
+  "summary": "아이바네즈(Ibanez)는 일본의 Hoshino Gakki 그룹에 속한 악기 브랜드로, 기타와 베이스를 중심으로 앰프, 이펙터 등을 생산해 전 세계에 판매한다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.1,
+  "image": "",
+  "logo": "",
+  "insight": "다양한 기타 시리즈와 많은 유명 아티스트 시그네처 모델로 구분되는 Hoshino Gakki 그룹의 일본 악기 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "아이바네즈는 일본에 본사를 둔 악기 브랜드로, 주로 기타와 베이스를 만들고 앰프와 이펙터도 함께 생산한다. 모기업은 Hoshino Gakki이며, 본사는 일본 나고야시에 있다. 중국과 인도네시아에 있는 공장에서 악기를 생산해 전 세계에 판매하며, 대량생산 외에 주문생산 방식의 커스텀 모델도 만든다. 기타는 사운드 성향에 따라 RG, S, ARTIST, X, ARTCORE 등의 시리즈로 나뉘고, Steve Vai, Joe Satriani 같은 유명 아티스트의 시그네처 모델도 다수 보유한다. 피크, 조율기, 기타 케이스, 케이블 같은 뮤직 액세서리(악기 소품)도 함께 생산한다. 한국 수입처는 (주)기타네트이다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "기타는 사운드 성향에 따라 RG, S, ARTIST, X, ARTCORE 시리즈로 나뉘고, 완성 품질과 제조 과정에 따라 J.Custom, Prestige, Gio 등으로도 분류된다. RG는 Roadstar Guitar의 약자로 슈퍼스트랫 기타이며, S는 Saber의 약자로 매우 얇은 마호가니 바디가 특징이다. ARTCORE는 아이바네즈가 만드는 할로우 바디 기타를 통틀어 부르는 이름이다. 베이스는 SR, ARTB, ICB 시리즈와 함께 BTB, EDB처럼 베이스 전용 디자인도 있다. 앰프, 이펙터, 피크, 조율기, 기타 케이스, 케이블 같은 액세서리도 생산한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 기타와 베이스를 중심으로 앰프, 이펙터 등을 생산하는 Hoshino Gakki 그룹의 악기 회사이며, 본사는 일본 나고야시에 있다. 중국과 인도네시아의 공장에서 악기를 생산해 전 세계에 판매한다. 대량생산과 함께 주문생산 방식의 커스텀 모델도 만든다. 한국 수입처는 (주)기타네트이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "다양한 기타 시리즈와 많은 유명 아티스트 시그네처 모델로 구분되는 Hoshino Gakki 그룹의 일본 악기 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ibanez.com/",
+  "entityLinks": {
+   "wikidata": "Q320458",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q320458",
+    "https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%B0%94%EB%84%A4%EC%A6%88",
+    "https://en.wikipedia.org/wiki/Ibanez"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q320458",
+   "country": "일본",
+   "inception": "1929",
+   "headquarters": "나고야시",
+   "founders": [
+    "Hoshino Gakki"
+   ],
+   "parent": "Hoshino Gakki",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「아이바네즈」 요약과 위키데이터 Q320458 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

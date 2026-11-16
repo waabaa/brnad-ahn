@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q4778915",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/cloudflare-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "cloudflare",
+  "urlSlug": "cloudflare",
+  "name": "Cloudflare",
+  "nameKo": "Cloudflare",
+  "nameEn": "Cloudflare",
+  "definition": "클라우드플레어(Cloudflare)는 CDN 서비스, 사이버 보안, DDoS 완화, 도메인 이름 서비스 등을 제공하는 미국의 회사다. 방문자와 웹사이트 운영자 사이에서 리버스 프록시 역할을 한다.",
+  "summary": "클라우드플레어(Cloudflare)는 CDN 서비스, 사이버 보안, DDoS 완화, 도메인 이름 서비스 등을 제공하는 미국의 회사다. 방문자와 웹사이트 운영자 사이에서 리버스 프록시 역할을 한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.166666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "웹 트래픽의 리버스 프록시로서 CDN, DNS, DDoS 보호를 무료 요금제부터 제공하며, 인터넷 익스체인지 포인트에 대한 연결이 가장 많은 네트워크를 보유한 회사다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "클라우드플레어는 캘리포니아 샌프란시스코에 본사를 둔 미국 기업이다. 웹사이트에 대한 역방향 프록시로서 콘텐츠 배달 네트워크, 인터넷 보안 서비스, 분산 도메인 이름 서버 서비스를 제공한다. 무료 서비스와 유료 서비스를 동시에 제공하며, 모든 고객에게 Anycast 네트워크 기반의 DNS를 무료로 제공한다. 2019년 9월 13일 뉴욕증권거래소에 상장했으며, 같은 해 9월 기준 《포춘》지 선정 1,000대 기업 중 약 10%가 유료 고객이었다. 사법당국이 고객 데이터를 얼마나 자주 요청하는지 알리기 위해 연 2회 투명성 보고서를 게시한다. 2019년 7월과 2025년에는 네트워크 장애로 다수의 인터넷 서비스가 중단되는 일을 겪었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "클라우드플레어는 2009년에 설립되었다. 하니팟 프로젝트 출신인 Matthew Prince, Lee Holloway, Michelle Zatlyn이 하버드 경영 대학원의 프로젝트로 회사를 만들면서 시작되었다. 졸업 뒤 이들은 직접 차를 몰고 투자자를 찾아 다녔다. 2009년 11월 Pelion Venture Partners와 Venrock이 참여한 시리즈 A에서 210만 달러를, 2011년 7월 시리즈 B에서 2,000만 달러를, 2012년 12월 시리즈 C에서 5,000만 달러를 유치했다. 2014년 12월에는 Fidelity Investments가 주도한 시리즈 D에서 1억 1,000만 달러를 유치했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "클라우드플레어는 CDN, 리버스 프록시, DNS, DDoS 보호, 웹 응용 프로그램 방화벽, 온라인 스토리지 서비스를 제공한다. CDN은 엣지 위치로 콘텐츠를 캐시하며, 모든 요청은 클라우드플레어를 통해 역방향으로 프록시된다. 서버가 오프라인이 되면 기존에 캐시된 데이터를 제공하는 Always Online™ 기능을 갖추고 있다. DDoS 보호로는 모든 고객에게 \"I'm under attack\" 모드를 제공하며, 웹 응용 프로그램 방화벽은 유료 요금제 고객에게 기본으로 제공한다. R2는 2021년 9월 27일 출시한 온라인 스토리지 서비스로 Amazon Web Services의 S3와 호환성을 보장한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "클라우드플레어는 뉴욕증권거래소에 상장된 기업이다. 2019년 9월 기준 상반기 유료 고객은 74,873명에 이르렀고, IBM, Discord, Zendesk 등이 기업 고객에 포함된다. 데이터 센터는 2019년 1분기에 10개 도시가 추가되어 세계 75개국 이상 175개에 달했고, 네트워크 용량은 30Tbps로 늘어났다. 2025년 11월과 12월 5일에는 대규모 네트워크 장애로 다수의 인터넷 서비스가 중단되었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "웹 트래픽의 리버스 프록시로서 CDN, DNS, DDoS 보호를 무료 요금제부터 제공하며, 인터넷 익스체인지 포인트에 대한 연결이 가장 많은 네트워크를 보유한 회사다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.cloudflare.com/",
+  "entityLinks": {
+   "wikidata": "Q4778915",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q4778915",
+    "https://ko.wikipedia.org/wiki/Cloudflare",
+    "https://en.wikipedia.org/wiki/Cloudflare"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q4778915",
+   "country": "미국",
+   "inception": "2009",
+   "headquarters": "샌프란시스코",
+   "founders": [
+    "Matthew Prince",
+    "Lee Holloway",
+    "Michelle Zatlyn"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「Cloudflare」 요약과 위키데이터 Q4778915 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

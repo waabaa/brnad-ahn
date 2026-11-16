@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1267311",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/durex-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "durex",
+  "urlSlug": "durex",
+  "name": "듀렉스",
+  "nameKo": "듀렉스",
+  "nameEn": "Durex",
+  "definition": "듀렉스(Durex)는 영국에서 개발되어 생산된 콘돔 및 개인 윤활유 브랜드이다. 세계에서 가장 많이 판매되는 콘돔 브랜드의 하나로 꼽히며, 현재 레킷벤키저가 소유한다.",
+  "summary": "듀렉스(Durex)는 영국에서 개발되어 생산된 콘돔 및 개인 윤활유 브랜드이다. 세계에서 가장 많이 판매되는 콘돔 브랜드의 하나로 꼽히며, 현재 레킷벤키저가 소유한다.",
+  "industry": "뷰티·퍼스널케어",
+  "domainSlug": "beauty-personal-care",
+  "tier": "C_source_backed",
+  "rating": 4.033333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "견고성, 신뢰성, 우수성을 뜻하는 이름으로 1929년 시작된 영국 콘돔 브랜드로, 글로벌 시장의 30%를 차지하는 세계적 판매 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "듀렉스는 런던에 본사를 둔 영국의 콘돔 브랜드로, 콘돔과 개인 윤활유를 다룬다. 원래 영국 SSL 인터내셔널이 개발하고 생산했으며, SSL 인터내셔널은 2010년 레킷벤키저에 인수되었다. 글로벌 시장의 30%를 차지하는, 세계에서 가장 많이 판매되는 콘돔 브랜드의 하나이다. 2006년에는 미국 내에서 두 번째로 많이 판매되는 콘돔 브랜드였으며, 당시 1위는 트로잔이었다. 브랜드 이름은 1929년 런칭되었으며 견고성, 신뢰성, 우수성(Durability, reliability, and excellence)을 의미했다. 런던 러버 컴퍼니와 듀렉스 콘돔의 역사를 다룬 첫 책은 Jessica Borge가 집필해 2020년 9월 McGill-Queen's University Press에서 출판되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "London Rubber Company는 1915년에 설립되었다. 듀렉스 브랜드 이름은 1929년에 시작되었으며 내구성, 신뢰성, 우수성을 뜻했다. 그러나 이 회사는 1932년까지 자체 브랜드 콘돔 제조를 시작하지 않았고, 폴란드의 고무 기술 학생인 Lucian Landau와 협력했다. 콘돔은 London Rubber Company와 British Latex Products Ltd의 권한 하에 런던에서 개발되어 1932년에서 1994년 사이에 제조되었다. 원래 개발과 생산을 맡았던 SSL 인터내셔널은 2010년 레킷벤키저에 인수되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "듀렉스는 레킷벤키저가 소유한 콘돔 및 개인 윤활유 브랜드이다. 레킷벤키저는 2010년 SSL 인터내셔널을 인수했다. 글로벌 시장의 30%를 차지하는 것으로 알려져 있으며, 세계에서 가장 많이 판매되는 콘돔 브랜드의 하나이다. 2006년에는 미국 내에서 두 번째로 많이 판매되는 브랜드였으며, 당시 1위는 트로잔이었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "견고성, 신뢰성, 우수성을 뜻하는 이름으로 1929년 시작된 영국 콘돔 브랜드로, 글로벌 시장의 30%를 차지하는 세계적 판매 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.durex.com",
+  "entityLinks": {
+   "wikidata": "Q1267311",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1267311",
+    "https://ko.wikipedia.org/wiki/%EB%93%80%EB%A0%89%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Durex"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1267311",
+   "country": null,
+   "inception": "2002",
+   "headquarters": "런던",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「듀렉스」 요약과 위키데이터 Q1267311 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

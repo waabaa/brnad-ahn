@@ -1,0 +1,86 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q580866",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/thq-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "thq",
+  "urlSlug": "thq",
+  "name": "THQ",
+  "nameKo": "THQ",
+  "nameEn": "THQ",
+  "definition": "THQ는 1990년 미국에서 설립된 비디오 게임 회사이다. 본사는 아구라힐스에 있었으며, 2013년 1월 23일에 몰락한 뒤 자회사와 게임 지적 재산권이 여러 회사에 매각되었다.",
+  "summary": "THQ는 1990년 미국에서 설립된 비디오 게임 회사이다. 본사는 아구라힐스에 있었으며, 2013년 1월 23일에 몰락한 뒤 자회사와 게임 지적 재산권이 여러 회사에 매각되었다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "세계 게임회사 종업원 수 5위권에 들었으나 2013년에 몰락한 뒤, 자회사와 지적 재산권이 흩어져 THQ 노르딕으로 이어진 미국의 게임회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "THQ는 1990년 Jack Friedman이 설립한 미국의 비디오 게임 회사였으며, 전신은 LJN이다. 주로 비디오 게임 콘솔, 휴대용 게임기 그리고 개인용 컴퓨터와 무선 통신 기구용 소프트웨어를 개발했다. 북아메리카, 유럽, 아시아 태평양 등지에 기점을 두고 사업을 운영했다. 2010년 기준으로 종업원이 2,000명 이상으로 구성되어 세계 게임회사 종업원 수 5위권에 들었던 회사이다. 그러나 이 회사에서 만들어진 비디오 게임에 대한 부정적인 평가가 많았고, 게임 사업에 대한 비판도 만만치 않았다. 결국 인지도가 크게 추락하여 2013년 1월 23일에 몰락했고, 현재는 노르딕에 매각되어 THQ 노르딕으로 운영되고 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "THQ는 1990년 미국에서 Jack Friedman이 창업한 회사이며, 본사는 아구라힐스에 두었다. THQ 주식회사(영어: THQ Inc.)의 전신은 LJN이다. 주로 비디오 게임 콘솔, 휴대용 게임기 그리고 개인용 컴퓨터와 무선 통신 기구용 소프트웨어를 개발하면서 사업을 키웠다. 북아메리카, 유럽, 아시아 태평양 등지에 기점을 두고 사업을 확장했다. 2010년 기준으로 종업원이 2,000명 이상으로 구성되어 세계 게임회사 종업원 수 5위권에 들었던 회사로 성장했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "THQ는 비디오 게임 콘솔, 휴대용 게임기, 개인용 컴퓨터, 무선 통신 기구용 소프트웨어를 개발했다. 파산 당시 보유한 게임으로는 메트로 2033 시리즈, 볼리션, 사우스 파크 게임 판권, WWE 게임 판권, 홈프론트, 레드 팩션 시리즈, MX VS MTV 시리즈, 홈월드 시리즈, 그려라 터치 시리즈가 있었다. 자회사로는 렐릭 엔터테인먼트, ValuSoft, 터틀락 스튜디오, THQ 몬트리얼, 비질 게임즈가 있었으며, 비질 게임즈의 게임으로는 다크사이더스 시리즈가 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "THQ는 2013년 1월 23일에 몰락했고, 이후 자회사와 각 게임 지적 재산권은 여러 게임 회사에 각각 매각되었다. 노르딕 게임즈는 자회사 및 지적 재산권의 절반을 집중적으로 인수했고 THQ의 상표 디자인권도 인수하여 사명을 THQ 노르딕으로 바꾸었다. 현재 THQ는 노르딕에 매각되어 THQ 노르딕으로 운영되고 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "세계 게임회사 종업원 수 5위권에 들었으나 2013년에 몰락한 뒤, 자회사와 지적 재산권이 흩어져 THQ 노르딕으로 이어진 미국의 게임회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.thq.com/",
+  "entityLinks": {
+   "wikidata": "Q580866",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q580866",
+    "https://ko.wikipedia.org/wiki/THQ",
+    "https://en.wikipedia.org/wiki/THQ"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q580866",
+   "country": "미국",
+   "inception": "1990",
+   "headquarters": "아구라힐스",
+   "founders": [
+    "Jack Friedman"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「THQ」 요약과 위키데이터 Q580866 팩트를 근거로 편집",
+  "founded": {
+   "date": "1990-04",
+   "precision": "month",
+   "sources": [
+    "wikidata",
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

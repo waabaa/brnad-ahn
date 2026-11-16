@@ -1,0 +1,75 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q176916",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "springer-science-business-media",
+  "urlSlug": "springer-science-business-media",
+  "name": "슈프링어",
+  "nameKo": "슈프링어",
+  "nameEn": "Springer Science+Business Media",
+  "definition": "슈프링어(Springer Science+Business Media)는 1842년 베를린에서 율리우스 슈프링어가 설립한, 과학·기술·인문학 분야를 다루는 독일의 출판사이다. 현재는 슈프링어 네이처 그룹의 일부이다.",
+  "summary": "슈프링어(Springer Science+Business Media)는 1842년 베를린에서 율리우스 슈프링어가 설립한, 과학·기술·인문학 분야를 다루는 독일의 출판사이다. 현재는 슈프링어 네이처 그룹의 일부이다.",
+  "industry": "미디어·엔터테인먼트",
+  "domainSlug": "media-entertainment",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "1842년 베를린에서 출발해 합병과 소유주 변경을 거쳐 슈프링어 네이처 그룹에 편입된, 독일에서 기원한 학술 출판사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "슈프링어는 과학, 기술, 인문학 분야를 다루는 독일의 출판사이며 슈프링어 페를라그(Springer-Verlag)로도 불린다. 1842년 베를린에서 설립된 이후 학술 출판을 중심으로 성장했다. 1996년에는 전자책과 전자 저널 서비스를 시작했다. 1990년대 이후 합병과 벤처 캐피털 등에 의한 매각을 거치며 소유주가 여러 차례 바뀌었다. 2015년에는 슈프링어 네이처 그룹의 일부가 되었으며 위키데이터 기준 본사는 룩셈부르크이다. 공개 접근 학술 출판 협회의 회원이며, 일부 저널에서는 저자가 공개 접근 라이선스 적용 여부를 선택할 수 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1842년 베를린에서 율리우스 슈프링어가 슈프링어 출판(Springer-Verlag)을 설립했다. 그의 아들 페르디난트 슈프링어(Ferdinand Springer)가 이어받아 1872년 무렵에는 60명 이상의 직원을 둔 독일에서 두 번째로 큰 학술 출판사가 되었다. 1964년에는 미국 뉴욕에 지사를 열었으며 곧 도쿄, 파리, 밀라노, 홍콩, 델리에도 지사를 열었다. 1996년에는 전자책과 전자 저널 서비스를 시작했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "1996년에 전자책과 전자 저널 서비스를 시작했다. 2006년에 후마나(Humana Press)를 인수했고, 2008년 10월에는 공개 접근 출판사인 바이오메드 센트럴을 인수했다. 2011년에는 볼터스 클루베르(Wolters Kluwer)로부터 제약 마케팅 및 출판 서비스(MPS)를 인수했다. 일부 저널은 저자에게 저작권 양도를 요구하지 않으며, 논문이 공개 접근 라이선스 또는 다른 제한된 라이선스를 따르는지 저자가 정할 수 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2015년 1월 홀츠브링크(Holtzbrinck) 출판 / 네이처 출판 그룹과 합병을 발표했고, 같은 해 5월 합작 회사인 슈프링어 네이처(Springer Nature)를 설립해 그 일부가 되었다. 이에 앞서 1999년 베르텔스만이 과반수 지분을 인수했고, 2003년 신벤과 캔도버, 2010년 EQT와 싱가포르투자청, 2013년 BC 파트너스로 소유주가 바뀌었다. 위키데이터 기준 모기업은 슈프링어 네이처이다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1842년 베를린에서 출발해 합병과 소유주 변경을 거쳐 슈프링어 네이처 그룹에 편입된, 독일에서 기원한 학술 출판사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.springer.com/",
+  "entityLinks": {
+   "wikidata": "Q176916",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q176916",
+    "https://ko.wikipedia.org/wiki/%EC%8A%88%ED%94%84%EB%A7%81%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Springer_Science%2BBusiness_Media"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q176916",
+   "country": "독일",
+   "inception": "1842",
+   "headquarters": "룩셈부르크",
+   "founders": [
+    "Julius Springer"
+   ],
+   "parent": "스프링거 네이처",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「슈프링어」 요약과 위키데이터 Q176916 팩트를 근거로 편집"
+ }
+}

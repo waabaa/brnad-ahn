@@ -1,0 +1,81 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q178778",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ricoh-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ricoh",
+  "urlSlug": "ricoh",
+  "name": "리코",
+  "nameKo": "리코",
+  "nameEn": "Ricoh",
+  "definition": "리코(Ricoh)는 1936년 설립된 일본의 다국적 영상·전자 기업이다. 카메라와 프린터, 복사기 등 사무기기를 만들며 도쿄도 오타구에 본사를 두고 있다.",
+  "summary": "리코(Ricoh)는 1936년 설립된 일본의 다국적 영상·전자 기업이다. 카메라와 프린터, 복사기 등 사무기기를 만들며 도쿄도 오타구에 본사를 두고 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "감광지 회사로 출발해 복사기 제조와 잇따른 인수로 세계 최대 복사기 제조사로 성장한 일본 영상·전자 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "리코는 카메라와 프린터, 복사기, 팩스, 프로젝터 같은 사무기기를 생산하는 일본 기업이다. DocumentMall, RicohDocs, GlobalScan, Print&Share, MakeLeaps 같은 SaaS 문서 관리 애플리케이션도 제공한다. 1990년代 후반부터 2000년대 초반까지 성장해 세계에서 가장 큰 복사기 제조사가 되었다. 이 기간에 Savin, Gestetner, Lanier, Rex-Rotary, Monroe, Nashuatec, IKON, IBM Printing Systems Division과 Infoprint Solutions Company를 인수했다. Monroe 브랜드는 단종되었으나 나머지 브랜드명으로 제품이 전 세계에 판매되고 있다. 본사는 도쿄 오타구에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "리코는 1936년 2월 6일 Institute of Physical and Chemical Research(Riken)의 상업 부문이던 Riken Concern이 Riken Sensitized Paper(理研感光紙)라는 이름으로 세웠다. 창업자는 Kiyoshi Ichimura로 기록되어 있다. 1955년에는 탁상용 청사진 복제에 쓰는 디아조 습식 복사기 Ricopy 101을 만들었다. 이 모델은 2012년 일본기계학회(JSME)의 기계공학 유산 54호로 인증받았다. 1960~70년대에는 일본 내수와 해외 시장용 손목시계도 만들었고, Hamilton Watch Company와 잠시 제휴해 Ricoh Hamilton Electric 시계를 내놓았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 제품은 카메라와 프린터, 복사기, 팩스, 프로젝터이다. SaaS 문서 관리 애플리케이션으로 DocumentMall, RicohDocs, GlobalScan, Print&Share, MakeLeaps를 제공한다. 1980~90년대에는 Pitney-Bowes 복사기를 주로 제조했고, Toshiba용 복사기와 AT&T Corporation, Omnifax용 팩스, AB Dick용 복제기 등도 생산했다. 또한 Nintendo Entertainment System에 쓰인 Ricoh 2A03 CPU와 Ricoh 2C02 PPU, Super Nintendo Entertainment System에 쓰인 Ricoh 5A22 CPU 등 게임기용 전자 부품도 만들었다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "감광지 회사로 출발해 복사기 제조와 잇따른 인수로 세계 최대 복사기 제조사로 성장한 일본 영상·전자 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://jp.ricoh.com/",
+  "entityLinks": {
+   "wikidata": "Q178778",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q178778",
+    "https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%BD%94",
+    "https://en.wikipedia.org/wiki/Ricoh"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q178778",
+   "country": "일본",
+   "inception": "1936",
+   "headquarters": "도쿄도",
+   "founders": [
+    "Kiyoshi Ichimura"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Ricoh」 본문과 위키데이터 Q178778 팩트를 근거로 편집",
+  "founded": {
+   "date": "1936-02-06",
+   "precision": "day",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

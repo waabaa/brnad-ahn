@@ -1,0 +1,73 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q292225",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": null,
+ "logoReview": null,
+ "record": {
+  "id": 0,
+  "slug": "zyle-daewoo-bus",
+  "urlSlug": "zyle-daewoo-bus",
+  "name": "자일대우버스",
+  "nameKo": "자일대우버스",
+  "nameEn": "Zyle Daewoo Bus",
+  "definition": "자일대우버스(Zyle Daewoo Bus)는 대한민국의 버스 전문 기업이다. 2002년 대우버스로 설립되었고 경기도 부천시에 본사를 두었으며, 2013년 8월 현재의 사명으로 변경했다.",
+  "summary": "자일대우버스(Zyle Daewoo Bus)는 대한민국의 버스 전문 기업이다. 2002년 대우버스로 설립되었고 경기도 부천시에 본사를 두었으며, 2013년 8월 현재의 사명으로 변경했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.9333333333333336,
+  "image": "",
+  "logo": "",
+  "insight": "대우 계열에서 분리되어 2002년 설립된 대한민국의 버스 전문 기업으로, 울산공장과 베트남 등 해외 공장에서 버스를 생산했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "자일대우버스는 대한민국의 버스 전문 기업이며, 한국지엠·타타대우상용차와 기업적 관계가 없다. 본사는 경기도 부천시 오정구에 있고, 공장과 연구소는 울산광역시 울주군 상북면에 있었으며 베트남에도 별도의 공장을 운영했다. 2002년 GM 대우가 출범하면서 대우 계열에서 분리되어 대우버스로 설립되었고, 2003년 영안모자가 인수해 대주주가 되었다. 2013년 8월에 현재의 사명으로 변경했다. 실적 부진과 코로나19로 2020년 6월부터 울산공장의 조업이 중단되었고, 이후에도 출고 업무는 정상화되지 못했다. 2022년 7월 12일 폐업했으며 자일자동차 측이 해외법인의 지분을 완전히 인수했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1955년에 김창원, 김제원 형제가 신진공업사를 설립하여 버스를 생산했다. 1971년에는 지엠 코리아(GMK)의 버스 생산 부문을 설립하고 이스즈와 시보레의 버스 섀시를 이용하여 버스를 생산했다. 2000년에 대우자동차가 부도났음에도 버스 생산을 계속 강행했다. 2002년에 GM 대우가 출범하자 대우 계열에서 분리되어 대우버스를 설립했다. 2003년에 영안모자가 인수하여 대주주가 되었고, 2013년 8월에 현재의 사명으로 변경했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "현재 생산 차량으로 NEW BS090, NEW BS106, NEW BC211, NEW BS110, BH090, FX116, FX120, FX212, BX212, BX212M, 레스타가 있다. 과거에는 BF101, BF105, BS105, BS106L, BM090 로얄미디, BH113, BH115Q 등을 생산했다. 생산 거점으로는 부천 본사와 울산공장 외에 중국의 Guilin Daewoo, 대만의 Master Transportation Bus Manufacturing Ltd., 코스타리카의 Daewoo Bus Costa Rica S.A., 필리핀의 FIDC, 카자흐스탄의 Daewoo Bus Kazakhstan, 베트남 법인이 있다. 베트남산 BS090 디젤/천연가스버스는 대한민국 환경부 인증을 취득했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2022년 7월 12일에 폐업되었으며, 자일자동차 측이 해외법인의 지분을 완전히 인수했다. 울산공장은 실적 부진과 코로나19로 2020년 6월부터 조업이 중단되었고, 2021년 6월 재가동에 합의한 뒤 출고 업무를 재개했으나 정상화되지 못했다. 베트남 현지공장에서 제작해 수입하는 방식은 노동조합의 반발과 법원의 제동을 받았다. 자일대우버스는 한국지엠, 타타대우상용차와 기업적 관계가 없다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "대우 계열에서 분리되어 2002년 설립된 대한민국의 버스 전문 기업으로, 울산공장과 베트남 등 해외 공장에서 버스를 생산했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.daewoobus.co.kr/",
+  "entityLinks": {
+   "wikidata": "Q292225",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q292225",
+    "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9D%BC%EB%8C%80%EC%9A%B0%EB%B2%84%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Zyle_Daewoo_Bus"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q292225",
+   "country": "대한민국",
+   "inception": "2002",
+   "headquarters": "부천시",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「자일대우버스」 요약과 위키데이터 Q292225 팩트를 근거로 편집"
+ }
+}

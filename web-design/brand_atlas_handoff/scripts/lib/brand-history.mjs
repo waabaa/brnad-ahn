@@ -80,7 +80,7 @@ export function historyTeaser(root, { bySlug, esc, logoSrc, prefix = "" }) {
     const b = bySlug.get(e.slug);
     const src = b && logoSrc(b);
     const dark = e.c && parseInt(e.c.slice(1, 3), 16) * 0.3 + parseInt(e.c.slice(3, 5), 16) * 0.59 + parseInt(e.c.slice(5, 7), 16) * 0.11 > 170;
-    return `<div class="rw"><time>${esc(yearLabel(e))}</time><span style="--c:${e.c || "#444"}${dark ? ";--f:#15171B" : ""}">${src ? `<img src="${esc(prefix + src)}" alt="" loading="lazy" decoding="async">` : ""}${esc(e.t)}</span></div>`;
+    return `<div class="rw"><time>${esc(yearLabel(e))}</time><span style="--c:${e.c || "#444"}${dark ? ";--f:#15171B" : ""}">${src ? `<img src="${esc(prefix + src.file)}" alt=""${src.w ? ` width="${src.w}" height="${src.h}"` : ""} loading="lazy" decoding="async">` : ""}${esc(e.t)}</span></div>`;
   }).join("");
   const strip = eras.map((er) => `<i style="background:${er.color}"></i>`).join("");
   return `<section class="section"><style>${TEASER_CSS}</style><div class="wrap"><a class="bh-teaser" href="${prefix}${HISTORY_PATH}"><div><span class="kicker">브랜드 연대기</span><h2>브랜드의 역사,<br>인장에서 AI까지</h2><p>원통인장에서 챗GPT까지, 브랜드를 만든 사건 ${entries.length}개를 ${lanes.length}개 분야로 나란히 놓은 연대기입니다. ${brands}개 브랜드가 사전 항목과 로고로 이어집니다.</p><span class="cta">연대기 펼쳐 보기 →</span></div><div><div class="strip">${strip}</div><div class="rows">${rows}</div></div></a></div></section>`;

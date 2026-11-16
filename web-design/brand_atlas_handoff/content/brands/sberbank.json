@@ -1,0 +1,80 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q205012",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/sberbank-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "sberbank",
+  "urlSlug": "sberbank",
+  "name": "스베르방크",
+  "nameKo": "스베르방크",
+  "nameEn": "Sberbank",
+  "definition": "스베르방크(Sberbank)는 모스크바에 본사를 둔 러시아의 국가 다수 지분 소유 은행·금융 서비스 기업이다. 소련 국가노동저축은행 체계의 러시아 후신으로, 2020년 브랜드명을 Sber로 줄였다.",
+  "summary": "스베르방크(Sberbank)는 모스크바에 본사를 둔 러시아의 국가 다수 지분 소유 은행·금융 서비스 기업이다. 소련 국가노동저축은행 체계의 러시아 후신으로, 2020년 브랜드명을 Sber로 줄였다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.316666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "2014년 기준 러시아 최대 은행으로, 소련 저축은행 체계에서 이어진 기관이며 1990년대 이후 정부와의 긴밀한 관계 속에 성장했다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "스베르방크는 러시아의 국가가 다수 지분을 가진 은행·금융 서비스 기업으로, 본사는 모스크바에 있으며 소련 국가노동저축은행 체계의 러시아 후신이다. 사명은 2015년까지 Sberbank of Russia였고, 2020년에 브랜드를 Sber로 줄였다. 2022년 무렵에는 러시아 전체 은행 자산의 약 3분의 1을 차지했으며, 1990년대 이후의 성장은 러시아 정부와의 긴밀한 관계에 일부 힘입은 것이다. 2014년 기준 러시아와 동유럽 최대 은행이자 유럽 3위 은행이었고, The Banker의 Top 1000 World Banks 순위에서 세계 60위였다. 2021년 Forbes의 Global 2000 상장기업 세계 순위에서는 51위였다. 러시아의 우크라이나 침공 직후 유럽연합 내 영업을 종료해, 현재 해외 거점은 주로 독립국가연합에 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "스베르방크는 1841년 10월 30일 Nicholas I 황제가 저축은행 설립 칙령에 서명한 제정 러시아 저축은행의 계승자임을 내세운다. 다만 제정 러시아의 저축은행, 소련의 저축은행, 스베르방크 사이에 법적 연속성은 없다. 1991년 3월 21일 러시아 SFSR 중앙은행의 명령으로 러시아 SFSR 저축은행이 러시아연방 주식회사형 상업 저축은행(Sberbank of Russia)으로 전환되었고, 3월 22일 주주 창립총회가 열렸다. 같은 해 6월 20일 러시아 SFSR 중앙은행이 면허번호 1481로 이 은행을 등록했다. 소련 저축은행은 병존하다가 1992년 1월 1일 청산되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "러시아 국가가 다수 지분을 가진 은행이며, 2022년에는 러시아 은행 자산의 약 3분의 1을 차지했다. 2025년 기준 러시아 79개 지역과 외국 한 곳에 지점 86개와 대표사무소 한 곳을 두고 있다. 러시아의 우크라이나 침공 직후 유럽연합 내 영업을 종료해, 해외 거점은 주로 독립국가연합에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "2014년 기준 러시아 최대 은행으로, 소련 저축은행 체계에서 이어진 기관이며 1990년대 이후 정부와의 긴밀한 관계 속에 성장했다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.sberbank.ru",
+  "entityLinks": {
+   "wikidata": "Q205012",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q205012",
+    "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%B2%A0%EB%A5%B4%EB%B0%A9%ED%81%AC",
+    "https://en.wikipedia.org/wiki/Sberbank"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q205012",
+   "country": "러시아",
+   "inception": "1991",
+   "headquarters": "모스크바",
+   "founders": [
+    "러시아 중앙은행"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Sberbank」 본문과 위키데이터 Q205012 팩트를 근거로 편집",
+  "founded": {
+   "date": "1991-03-22",
+   "precision": "day",
+   "sources": [
+    "wikidata"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

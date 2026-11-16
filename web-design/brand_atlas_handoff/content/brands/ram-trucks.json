@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q165708",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ram-trucks-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ram-trucks",
+  "urlSlug": "ram-trucks",
+  "name": "램",
+  "nameKo": "램",
+  "nameEn": "Ram Trucks",
+  "definition": "램(Ram Trucks)은 미국의 경량·중형 픽업트럭과 상용차 브랜드이다. Stellantis North America의 한 부문으로, Dodge에서 분리되어 출범했다.",
+  "summary": "램(Ram Trucks)은 미국의 경량·중형 픽업트럭과 상용차 브랜드이다. Stellantis North America의 한 부문으로, Dodge에서 분리되어 출범했다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.95,
+  "image": "",
+  "logo": "",
+  "insight": "Dodge에서 분리되어 \"진짜 트럭 고객\"에 초점을 맞춘 픽업·상용차 브랜드이며, 숫양 머리 로고와 \"Guts. Glory. Ram.\" 슬로건으로 알려져 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "램은 경량에서 중형급의 픽업트럭과 기타 상용차를 만드는 미국 브랜드이며, 본사는 오번힐스에 있다. 이전에는 Chrysler Group LLC 소속이었고 현재는 Stellantis North America의 부문이다. 로고는 숫양의 머리 모양으로 원래 Dodge가 쓰던 것이며, 브랜드는 \"Guts. Glory. Ram.\"이라는 슬로건을 사용해 왔다. 새 Ram 1500 픽업은 미시간주 스털링하이츠의 Sterling Heights Assembly에서 만든다. Chrysler는 램이 이미지나 스타일 때문에 트럭을 사는 일반 구매자보다 \"진짜 트럭 고객\"에 집중하겠다고 밝혔으며, 램 트럭은 Dodge 승용차와 별도로 마케팅된다. 2023년 10월에는 Stellantis Pro One 글로벌 상용차 부문에 속하게 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1970년대 이전에 Dodge는 주로 미국 밖에서 쓰는 별도의 트럭 브랜드 Fargo Trucks를 두었고, 이후 Chrysler가 만든 트럭은 모두 Dodge 이름으로 유통되었다. 램은 2009년 Chrysler가 챕터 11 파산보호에서 벗어난 뒤 Dodge에서 분리된 Chrysler의 부문으로 출범했으며, 이름은 Dodge Ram 픽업 라인에서 따왔다. 당시 Fiat Group이 Chrysler Group LLC 지분 20%를 받고 Sergio Marchionne가 CEO에 올랐으며, Ram, Jeep, Dodge, SRT, Chrysler 부문은 각자의 정체성에 집중하도록 나뉘었다. 2011년 7월 21일에는 Fiat이 미국 재무부가 보유한 Chrysler 지분을 사들여 지분을 늘렸다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "플래그십은 1981년부터 이어진 Ram 픽업 라인이며, 현행 Ram 1500(DT)은 2019년부터 나온 5세대 풀사이즈 픽업이다. Ram 1500 TRX는 고성능 풀사이즈 픽업으로 2021년부터 2024년까지 판매되었고 2027년부터 다시 나온다. Ram Heavy Duty는 2019년부터 이어진 대형 픽업 시리즈이다. Ram ProMaster는 Fiat Ducato 카고 밴 설계를 채택해 북미에서 판매하며, 2008년 Daimler가 Dodge Sprinter 생산을 끝내면서 생긴 공백을 메웠다. Ram 700도 2014년부터 현행 목록에 올라 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "램은 Stellantis North America의 부문이며, 2023년 10월 Stellantis Pro One 글로벌 상용차 부문에 편입되었다. 2024년 12월에는 Dodge와 Ram의 전 CEO Tim Kuniskis가 은퇴에서 복귀해 다시 Ram의 CEO를 맡았다. 플러그인 하이브리드 풀사이즈 픽업인 Ram 1500 REV는 2026년 모델로 예정되어 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Dodge에서 분리되어 \"진짜 트럭 고객\"에 초점을 맞춘 픽업·상용차 브랜드이며, 숫양 머리 로고와 \"Guts. Glory. Ram.\" 슬로건으로 알려져 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.ramtrucks.com/",
+  "entityLinks": {
+   "wikidata": "Q165708",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q165708",
+    "https://ko.wikipedia.org/wiki/%EB%9E%A8_(%EC%9E%90%EB%8F%99%EC%B0%A8)",
+    "https://en.wikipedia.org/wiki/Ram_Trucks"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q165708",
+   "country": "미국",
+   "inception": "2010",
+   "headquarters": "오번힐스",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Ram Trucks」 본문과 위키데이터 Q165708 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

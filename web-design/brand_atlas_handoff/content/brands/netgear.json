@@ -1,0 +1,79 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q979690",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/netgear-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "netgear",
+  "urlSlug": "netgear",
+  "name": "넷기어",
+  "nameKo": "넷기어",
+  "nameEn": "Netgear",
+  "definition": "넷기어(Netgear)는 1996년 설립된 미국의 컴퓨터 네트워킹 회사이다. 일반 소비자, 기업, 서비스 제공 업체를 위한 네트워킹 하드웨어를 제조하며 유무선공유기와 보안카메라 등을 생산한다.",
+  "summary": "넷기어(Netgear)는 1996년 설립된 미국의 컴퓨터 네트워킹 회사이다. 일반 소비자, 기업, 서비스 제공 업체를 위한 네트워킹 하드웨어를 제조하며 유무선공유기와 보안카메라 등을 생산한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 3.9166666666666665,
+  "image": "",
+  "logo": "",
+  "insight": "신뢰성과 사용 편의성에 중점을 두고 WiFi, LTE, 이더넷, 전력선 등 다양한 기술의 네트워킹 제품을 소비자부터 기업까지 폭넓게 제공하는 네트워킹 하드웨어 회사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "넷기어는 일반 소비자, 기업 및 서비스 제공 업체를 위한 네트워킹 하드웨어를 제조하는 글로벌 컴퓨터 네트워킹 회사이다. 유무선공유기와 보안카메라 등의 리테일 제품을 생산하고, 스위치와 스토리지 분야에서는 중소기업 및 서비스 제공업체용 제품을 생산한다. 제품은 신뢰성과 사용 편의성에 중점을 두는 것이 특징이다. 무선(WiFi 및 LTE), 이더넷, 전력선과 같이 널리 사용되는 다양한 기술을 포괄한다. 1996년 설립된 이 회사는 약 22개국에 공식법인을 두고 있다. 광대역 액세스와 네트워크 연결을 위한 유선 및 무선 장치를 여러 구성으로 제공해 판매 지역과 부문별 최종 사용자의 요구에 대응한다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "대표 제품군은 WiFi 공유기(홈 라우터), 오르비 메시 WiFi 제품, Meural 디지털 캔버스, 무선 액세스 포인트, Pro AV & IT 스위치, 네트워크 결합 스토리지, 네트워크 스위치이다. 소비자용으로는 유무선공유기와 보안카메라 등의 리테일 제품이 있다. 중소기업 및 서비스 제공업체에는 스위치와 스토리지 분야의 제품을 공급한다. 제품은 무선(WiFi 및 LTE), 이더넷, 전력선 기술을 포괄하며 광대역 액세스와 네트워크 연결을 위한 유선 및 무선 장치를 포함한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "넷기어는 약 22개국에 공식법인을 두고 있는 글로벌 회사이다. 일반 소비자, 기업, 서비스 제공 업체를 대상으로 네트워킹 하드웨어를 제조한다. 제품은 판매되는 각 지역과 부문의 최종 사용자 요구를 해결하기 위해 여러 구성으로 제공된다. 대표 제품군에는 오르비 메시 WiFi 제품과 Meural 디지털 캔버스가 포함된다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "신뢰성과 사용 편의성에 중점을 두고 WiFi, LTE, 이더넷, 전력선 등 다양한 기술의 네트워킹 제품을 소비자부터 기업까지 폭넓게 제공하는 네트워킹 하드웨어 회사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.netgear.com/",
+  "entityLinks": {
+   "wikidata": "Q979690",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q979690",
+    "https://ko.wikipedia.org/wiki/%EB%84%B7%EA%B8%B0%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Netgear"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q979690",
+   "country": "미국",
+   "inception": "1996",
+   "headquarters": "도버",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「넷기어」 요약과 위키데이터 Q979690 팩트를 근거로 편집",
+  "founded": {
+   "date": "1996-01-08",
+   "precision": "day",
+   "sources": [
+    "kowiki",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

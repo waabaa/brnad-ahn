@@ -1,0 +1,77 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q593786",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/bt-group-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "bt-group",
+  "urlSlug": "bt-group",
+  "name": "BT 그룹",
+  "nameKo": "BT 그룹",
+  "nameEn": "BT Group",
+  "definition": "BT 그룹(BT Group)은 영국 런던에 본사를 둔 다국적 통신 지주회사이다. 영국 최대의 유선 전화, 브로드밴드, 모바일 서비스 제공사이며 유료 방송과 IT 서비스도 제공한다.",
+  "summary": "BT 그룹(BT Group)은 영국 런던에 본사를 둔 다국적 통신 지주회사이다. 영국 최대의 유선 전화, 브로드밴드, 모바일 서비스 제공사이며 유료 방송과 IT 서비스도 제공한다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4,
+  "image": "",
+  "logo": "",
+  "insight": "1846년 전신 회사에 뿌리를 두고 1984년 민영화를 거친, 영국 최대의 유선·브로드밴드·모바일 통신 사업자이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "BT Group plc는 옛 이름이 British Telecom이며 BT라는 이름으로 영업하는 영국의 다국적 통신 지주회사이다. 본사는 영국 런던에 있으며 약 180개국에서 사업을 운영하는 국제적 통신 기업이다. 영국에서 유선 전화, 브로드밴드, 모바일 서비스를 가장 많이 공급하는 사업자이며 유료 방송과 IT 서비스도 제공한다. 런던 증권거래소에 주된 상장을 두고 있고 FTSE 100 지수 구성 종목이며 왕실 보증(royal warrant)을 보유한다. 기업과 정부 고객에게 통신 서비스를 공급하는 BT Business 부문과 영국 소비자에게 전화, 브로드밴드, 유료 방송을 공급하는 BT Consumer 부문 등 여러 대형 자회사를 거느린다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "BT의 기원은 세계 최초의 공공 전신 회사인 Electric Telegraph Company가 설립된 1846년으로 거슬러 올라가며, 이 회사는 전국 통신망을 발전시켰다. 1912년 정부 부처인 General Post Office가 National Telephone Company의 시스템을 인수해 영국의 독점 통신 공급자가 되면서 오늘날 BT 그룹의 모습이 시작되었다. 1969년 Post Office Act에 따라 GPO는 공기업 Post Office Telecommunications가 되었다. British Telecom 브랜드는 1980년에 도입되었고 1981년 Post Office에서 독립했으며, 1984년 민영화되어 British Telecommunications plc가 되면서 주식 약 50퍼센트가 투자자에게 매각되었다. 정부는 1991년과 1993년의 추가 주식 매각으로 남은 지분을 팔았다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "BT Business 부문은 전 세계의 기업과 정부 고객에게 통신 서비스를 공급한다. BT Consumer 부문은 영국에서 전화, 브로드밴드, 유료 방송 서비스를 약 18 million 고객에게 공급한다. 그룹 전체로는 영국에서 유선 전화, 브로드밴드, 모바일 서비스를 가장 큰 규모로 제공하는 사업자이며, 유료 방송과 IT 서비스도 함께 제공한다. BT는 이 밖에도 여러 대형 자회사를 거느리고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "BT는 런던 증권거래소에 주된 상장을 두고 있으며 FTSE 100 지수 구성 종목이다. 약 180개국에서 사업을 운영하고, BT Consumer 부문은 영국에서 약 18 million 고객에게 서비스를 공급한다. 본사는 81 Newgate Street에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "1846년 전신 회사에 뿌리를 두고 1984년 민영화를 거친, 영국 최대의 유선·브로드밴드·모바일 통신 사업자이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.bt.com/about",
+  "entityLinks": {
+   "wikidata": "Q593786",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q593786",
+    "https://ko.wikipedia.org/wiki/BT_%EA%B7%B8%EB%A3%B9",
+    "https://en.wikipedia.org/wiki/BT_Group"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q593786",
+   "country": "영국",
+   "inception": "1969",
+   "headquarters": "81 Newgate Street",
+   "founders": [
+    "William Fothergill Cooke",
+    "존 루이스 리카도"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「BT Group」 본문과 위키데이터 Q593786 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

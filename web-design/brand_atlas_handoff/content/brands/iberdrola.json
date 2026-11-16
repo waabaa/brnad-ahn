@@ -1,0 +1,83 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q1437502",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/iberdrola-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "iberdrola",
+  "urlSlug": "iberdrola",
+  "name": "이베르드롤라",
+  "nameKo": "이베르드롤라",
+  "nameEn": "Iberdrola",
+  "definition": "이베르드롤라(Iberdrola)는 스페인 빌바오에 본사를 둔 다국적 전기 사업자이다. 재생 에너지의 발전·유통·보급 사업을 운영하며 풍력 발전을 주력으로 하는 글로벌 에너지 기업이다.",
+  "summary": "이베르드롤라(Iberdrola)는 스페인 빌바오에 본사를 둔 다국적 전기 사업자이다. 재생 에너지의 발전·유통·보급 사업을 운영하며 풍력 발전을 주력으로 하는 글로벌 에너지 기업이다.",
+  "industry": "에너지·산업재",
+  "domainSlug": "industrial-energy",
+  "tier": "C_source_backed",
+  "rating": 3.9833333333333334,
+  "image": "",
+  "logo": "",
+  "insight": "풍력을 중심으로 한 재생 에너지 사업을 여러 국가의 자회사를 통해 운영하는 스페인 기반 전기 사업자라는 점이 특징이다. 시장 자본 기준 세계 3위이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "이베르드롤라는 스페인 바스크 지방의 빌바오에 본사를 둔 다국적 전기 사업자이다. 재생 에너지의 발전과 유통, 보급 사업을 운영한다. 소득 규모와 시장 자본 부문에서 외르스테드에 이어 제2의 풍력 발전 생산 기업이며, 시장 자본 규모 면에서는 세계 3위의 전기 사업자이다. 스페인, 영국, 미국, 브라질, 멕시코, 독일, 포르투갈, 이탈리아, 프랑스 등 여러 국가에 자회사를 두고 있다. 유럽, 미국, 브라질, 멕시코, 호주에서 입지를 다지고 있으며 일본, 아일랜드, 스웨덴, 폴란드, 한국에서도 시장 개척을 시작하고 있다. 직원 수는 34,000명, 고객 수는 3,167만 명이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "이베르드롤라는 1992년 이베르두에로와 히드로엘렉트리카 에스파냐가 합병하며 설립되었다. 합병 이후 전문 에너지 대기업으로 성장했다. 2001년부터 재생 에너지를 전략의 기본 요소로 삼아 국제화와 통합을 추진했고, 이를 위해 인수합병을 적극적으로 진행했다. 2006년에는 스코티시 파워를 인수했고, 2011년에는 브라질 기업 Elektro를 인수했다. 2015년에는 UIL 홀딩 코퍼레이션을 인수해 Avangrid로 탈바꿈하고 뉴욕과 뉴잉글랜드에서 입지를 넓혔다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "재생 에너지 사업부는 풍력(육상·해상), 수력, 태양광 등 다양한 에너지원으로 전기를 생산하고 판매한다. 해상 풍력은 영국과 독일에서 프로젝트를 운영하며 미국, 호주, 스웨덴, 프랑스 등에서 새 프로젝트를 개발 중이다. 육상 풍력 시설로는 스페인의 엘 안데발로 풍력 발전 단지와 미국 텍사스의 페냐스칼 풍력 발전 단지 등이 있다. 주요 자회사로는 브라질의 Neoenergia, 미국의 Avangrid, 영국의 스코티시 파워, 멕시코의 이베르드롤라 멕시코가 있다. 2021년에는 Sowitec Vietnam을 인수해 550MW 규모의 재생 에너지 포트폴리오를 확보했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2024년부터 2026년까지 410억 유로의 투자 계획을 세워 경제의 전기화를 추진하고 있다. 2023년에는 GS에너지와 한국을 비롯한 아시아 지역 프로젝트 협력을 위한 양해각서(MOU)를 체결했다. 한국에서는 해상 풍력 시장의 성장을 예상하고, 에너지 믹스 탈탄소화와 에너지 자립 촉진에 중점을 둔 전략을 세웠다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "풍력을 중심으로 한 재생 에너지 사업을 여러 국가의 자회사를 통해 운영하는 스페인 기반 전기 사업자라는 점이 특징이다. 시장 자본 기준 세계 3위이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.iberdrola.com",
+  "entityLinks": {
+   "wikidata": "Q1437502",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q1437502",
+    "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%A0%EB%A5%B4%EB%93%9C%EB%A1%A4%EB%9D%BC",
+    "https://en.wikipedia.org/wiki/Iberdrola"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q1437502",
+   "country": "스페인",
+   "inception": "1992",
+   "headquarters": "빌바오",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「이베르드롤라」 요약과 위키데이터 Q1437502 팩트를 근거로 편집",
+  "founded": {
+   "date": "1992-11-01",
+   "precision": "day",
+   "sources": [
+    "wikidata",
+    "enwiki"
+   ],
+   "checkedAt": "2026-11-13"
+  }
+ },
+ "reviewedAt": null
+}

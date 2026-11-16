@@ -1,0 +1,78 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q861042",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/western-union-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "western-union",
+  "urlSlug": "western-union",
+  "name": "웨스턴 유니온",
+  "nameKo": "웨스턴 유니온",
+  "nameEn": "Western Union",
+  "definition": "웨스턴 유니온(Western Union)은 미국에 본사를 둔 금융, 통신 회사다. 19세기 전신 회사로 출발해 현재는 전 세계 200여개국에서 개인 송금 등을 대행하는 송금 서비스 기업이다.",
+  "summary": "웨스턴 유니온(Western Union)은 미국에 본사를 둔 금융, 통신 회사다. 19세기 전신 회사로 출발해 현재는 전 세계 200여개국에서 개인 송금 등을 대행하는 송금 서비스 기업이다.",
+  "industry": "금융",
+  "domainSlug": "finance",
+  "tier": "C_source_backed",
+  "rating": 4.3,
+  "image": "",
+  "logo": "",
+  "insight": "전신 회사에서 출발해 송금 전문 기업으로 전환했으며, 현금 수령이 가능하고 은행 계좌가 없어도 이용할 수 있어 개발도상국에서 점유율이 높은 송금 브랜드이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "웨스턴 유니온은 미국에 본사를 둔 금융, 통신 회사다. 19세기 전신 회사로 설립되어 지금은 전 세계 200여개국에서 개인 송금, 기업 지출과 무역 업무를 대행한다. 전세계 500,000개 대리점을 통해 송금 서비스를 제공하며, 현금 인출을 즉각 할 수 있고 은행 계좌가 없는 고객도 이용할 수 있다는 점 덕분에 개발도상국에서 높은 시장 점유율을 차지한다. 주 수입원인 수수료는 송금 방식, 속도, 이용률에 따라 달라진다. 경쟁사에는 머니그램이 있으며, 페이팔 등 인터넷 기반 송금 서비스와 달리 현금 수령이 가능하다는 점이 비교된다. 1984년 수익 감소와 높은 부채로 워크아웃에 돌입한 뒤 통신 사업을 매각하고 성장률이 높은 송금 서비스에 집중했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "웨스턴 유니온은 1851년 \"The New York and Mississippi Valley Printing Telegraph Company\"라는 이름으로 설립되었으며, 1856년 \"The Western Union Telegraph Company\"로 이름을 바꾸었다. 창업자는 Ezra Cornell, Samuel L. Selden, Hiram Sibley이다. 1884년 다우 존스 산업평균지수가 시작되었을 때 최초의 구성 종목 11개 중 하나였다. 1909년 AT&T가 인수했으나 셔먼 반독점법 위반으로 4년 뒤 매각되었다. 1958년 뉴욕에서 텔렉스 서비스를 시작했고, 1974년에는 미국 기업들 중 처음으로 자체적인 지구 동기 궤도 통신위성을 발사했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "웨스턴 유니온의 핵심 사업은 개인 송금이며, 기업 지출과 무역 업무도 대행한다. 전세계 500,000개 대리점을 통해 서비스를 제공한다. 수수료는 송금 방식에 따라 달라지는데, 2022년 기준 미국에서 멕시코로 500달러를 보낼 때 미국에서 온라인으로 보내고 멕시코에서 현금으로 받으면 수수료가 없고, 미국 내 대리점을 이용하면 수수료 8달러가 부과된다. 대한민국에서는 KB 국민은행, IBK 기업은행, 농협은행, KEB하나은행, 부산은행, 대구은행, 카카오뱅크 등과 제휴하여 해외 송금 사업을 하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "1992년 현금 지급 사업을 시작했고, 2006년 전신환 업무를 완전히 종료한 뒤 금융 관련 업무에 주력하고 있다. 본사는 Greenwood Village에 있다. 2017년 연방 통신 위원회는 2004년 1월과 2015년 8월 사이에 55만 건의 고객 항의를 무시했다고 밝혔고, 웨스턴 유니온은 부실한 대응을 인정하고 피해자들과 보상을 합의했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "전신 회사에서 출발해 송금 전문 기업으로 전환했으며, 현금 수령이 가능하고 은행 계좌가 없어도 이용할 수 있어 개발도상국에서 점유율이 높은 송금 브랜드이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.westernunion.com",
+  "entityLinks": {
+   "wikidata": "Q861042",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q861042",
+    "https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%8A%A4%ED%84%B4_%EC%9C%A0%EB%8B%88%EC%98%A8",
+    "https://en.wikipedia.org/wiki/Western_Union"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q861042",
+   "country": "미국",
+   "inception": "1851",
+   "headquarters": "Greenwood Village",
+   "founders": [
+    "에즈라 코넬",
+    "Samuel L. Selden",
+    "Hiram Sibley"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「웨스턴 유니온」 요약과 위키데이터 Q861042 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

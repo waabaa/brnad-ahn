@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q212433",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/avaya-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "avaya",
+  "urlSlug": "avaya",
+  "name": "어바이어",
+  "nameKo": "어바이어",
+  "nameEn": "Avaya",
+  "definition": "어바이어(Avaya)는 고객 경험 관리, 콘택트 센터 운영, 통합 커뮤니케이션을 위한 소프트웨어와 서비스를 제공하는 미국의 다국적 기술 기업이다. 본사는 뉴저지주 모리스타운에 있다.",
+  "summary": "어바이어(Avaya)는 고객 경험 관리, 콘택트 센터 운영, 통합 커뮤니케이션을 위한 소프트웨어와 서비스를 제공하는 미국의 다국적 기술 기업이다. 본사는 뉴저지주 모리스타운에 있다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "Lucent Technologies에서 분사해 고객 경험 관리와 콘택트 센터, 통합 커뮤니케이션에 집중해 온 미국 기업으로, 두 차례 챕터 11 절차를 거쳐 비상장 회사가 되었다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "어바이어는 미국 뉴저지주 모리스타운에 본사를 두고 고객 경험 관리, 콘택트 센터 운영, 통합 커뮤니케이션을 위한 소프트웨어와 서비스를 제공하는 기술 기업이다. 고객은 90,000곳 이상이다. 2000년 Lucent Technologies에서 분사해 독립 회사가 되었으며, 2000년부터 2007년까지 뉴욕증권거래소(NYSE)에 AV라는 종목 기호로 상장되었다. 2007년 10월 사모펀드 TPG Capital과 Silver Lake Partners가 소유한 Sierra Holdings Corp에 인수되었고, 2011년 6월 6일 Sierra Holdings Corp는 Avaya Holdings Corp로 이름을 바꾸었다. 2017년 1월과 2023년 2월에 챕터 11에 따른 파산보호를 신청했고, 2023년 5월 1일 재무 구조조정을 마치고 이전 채권자들이 소유한 비상장 회사 Avaya LLC가 되었다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1995년 AT&T Corporation은 자회사 AT&T Technologies의 이름을 Lucent Technologies로 바꾸었고, 이 회사는 1996년에 이전되었다. Lucent는 이후 어려움을 겪던 사업을 재편하려고 자체 부문을 다른 용도로 재조정했다. Avaya Inc.는 2000년 Lucent에서 분사해 독립 회사가 되었다. Lucent는 2006년 Alcatel SA와 합병해 Alcatel-Lucent가 되었고, 이 회사는 2016년 Nokia에 인수되었다. Avaya Inc.는 2007년 10월 Sierra Holdings Corp에 인수될 때까지 NYSE에서 AV라는 종목 기호로 거래되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "어바이어는 고객 경험 관리, 콘택트 센터 운영, 통합 커뮤니케이션을 위한 소프트웨어와 서비스를 제공한다. 2019년 10월 RingCentral과 전략적 제휴를 맺고 서비스형 통합 커뮤니케이션(UCaaS) 솔루션인 Avaya Cloud Office(ACO)를 함께 선보였다. RingCentral은 이 새 UCaaS 서비스의 독점 공급자가 되기 위해 자금을 출자했다. 2001년 5월에는 Celestica가 Avaya의 일부 제품과 제조 공정을 인수해 5년 계약의 제조 아웃소싱 및 공급망 관리 파트너가 되었다. 또한 IAUG 사용자 그룹과 IT 전문가 인증을 위한 교육 프로그램을 후원한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "Avaya Holdings Corp는 2023년 5월 1일 재무 구조조정을 마치고 파산보호에서 벗어나, 이전 채권자들이 소유한 비상장 회사 Avaya LLC가 되었다. 2023년 2월 15일 NYSE는 이 회사 주식이 상장 요건을 충족하지 못해 거래를 중단한다고 발표했고, 주식은 장외에서 AVYAQ 기호로 거래되었다. 본사는 뉴저지주 모리스타운에 있다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "Lucent Technologies에서 분사해 고객 경험 관리와 콘택트 센터, 통합 커뮤니케이션에 집중해 온 미국 기업으로, 두 차례 챕터 11 절차를 거쳐 비상장 회사가 되었다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.avaya.com/",
+  "entityLinks": {
+   "wikidata": "Q212433",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q212433",
+    "https://ko.wikipedia.org/wiki/%EC%96%B4%EB%B0%94%EC%9D%B4%EC%96%B4",
+    "https://en.wikipedia.org/wiki/Avaya"
+   ],
+   "source": "wikidata en sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q212433",
+   "country": "미국",
+   "inception": "2000",
+   "headquarters": "Basking Ridge",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "영문 위키백과 「Avaya」 본문과 위키데이터 Q212433 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

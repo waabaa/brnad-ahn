@@ -1,0 +1,76 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q661845",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-13T13:51:29+09:00"
+ },
+ "logoCandidate": "logos/stmicroelectronics-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "stmicroelectronics",
+  "urlSlug": "stmicroelectronics",
+  "name": "ST마이크로일렉트로닉스",
+  "nameKo": "ST마이크로일렉트로닉스",
+  "nameEn": "STMicroelectronics",
+  "definition": "ST마이크로일렉트로닉스(STMicroelectronics)는 스위스 제네바에 본사를 둔 전자 제품과 반도체 생산 기업이다. 1987년 이탈리아와 프랑스의 반도체 사업이 합병하여 설립되었다.",
+  "summary": "ST마이크로일렉트로닉스(STMicroelectronics)는 스위스 제네바에 본사를 둔 전자 제품과 반도체 생산 기업이다. 1987년 이탈리아와 프랑스의 반도체 사업이 합병하여 설립되었다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.116666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "이탈리아 SGS와 프랑스 톰슨의 반도체 사업이 합쳐져 출발했으며, 팹리스와 달리 웨이퍼 팹을 직접 운영하는 유럽 최대 반도체 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "ST마이크로일렉트로닉스는 반도체와 전자 제품을 생산하는 기업으로, 공장과 사무실이 이탈리아와 프랑스에 많고 사원 대부분도 두 나라에서 채용한다. 모회사 ST마이크로일렉트로닉스 N.V.의 본사는 네덜란드 암스테르담에 있으며, 미국 본사는 텍사스주 캐럴턴, 아시아 환태평양 본사는 싱가포르, 중화권 본사는 상하이에 있다. 한국 본사는 서울에, 일본 본사는 도쿄에 있다. 팹리스 반도체 회사와 달리 반도체 웨이퍼 팹을 직접 운영하며, 연구개발팀 16개와 설계 및 응용 센터 39개를 두고 있다. 2005년에는 인텔, 삼성전자, 텍사스 인스트루먼트, 도시바에 이어 세계 5위 반도체 기업이 되었다. 유럽에서 가장 큰 반도체 기업이며, 그 뒤로 인피니온 테크놀로지스와 NXP반도체가 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "1987년 6월에 이탈리아의 SGS Microelettronica와 프랑스 Thomson SA의 반도체 사업부 톰슨 세미컨덕터스가 합병하여 설립되었다. 합병 당시에는 SGS-톰슨으로 알려졌으며, 1998년 5월에 톰슨 SA가 퇴출당하면서 ST마이크로일렉트로닉스로 이름을 바꾸었다. SGS는 1957년에 Adriano Olivetti가 설립했고 ATES는 1963년에 설립되었으며, 두 회사는 1972년에 합병하여 SGS-ATES가 되었다. 톰슨 세미컨덕터스는 1982년에 프랑스 정부의 광역 국영 산업에 의하여 설립되었다. 1987년에 합병으로 출범한 SGS-톰슨은 세계 14위 반도체 제조 기업이 되었고, 1994년 12월 8일에 유로넥스트 증권거래소와 뉴욕 증권거래소에 주식공개를 완료했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "사업은 크게 5그룹으로 구성되며, 각 그룹은 제품 포트폴리오의 설계, 산업화, 제조 및 판매를 책임진다. 홈 퍼스널 커뮤니케이션 그룹은 소비가전, 멀티미디어, 무선과 유선 제품군을 담당하며 스마트카드와 전자 여권도 판매한다. 메모리 제품 그룹은 이이피롬, 직렬 플래시 메모리 등 단독 메모리 칩을 담당하고, 자동차 제품 그룹은 자동차 시장을 겨냥한 아날로그 및 디지털 칩을 생산한다. 마이크로 전력 및 아날로그 그룹은 아날로그 및 전력회로와 STM32를 비롯한 마이크로컨트롤러를 담당하고, 컴퓨터 주변장치 그룹은 하드 디스크 드라이브 컨트롤러 등 주문형 반도체를 담당한다. 2001년부터 MEMS 개발에 집중해 2006년 6월부터 아그라떼 팹에서 양산하고 있다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2005년 기준 주주는 개인 72.4%, 프랑스의 아레바 13.5%, 이탈리아의 핀멕카니카 8.1%, 이탈리아의 Cassa Depositi e Prestiti 5.4%였다. 2006년에는 8인치 웨이퍼 팹 5개와 12인치 웨이퍼 팹 1개를 운영했다. 2025년에는 네덜란드 반도체 기업 NXP의 MEMS(미세전자기계시스템) 센서 사업을 인수했다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "이탈리아 SGS와 프랑스 톰슨의 반도체 사업이 합쳐져 출발했으며, 팹리스와 달리 웨이퍼 팹을 직접 운영하는 유럽 최대 반도체 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.st.com/",
+  "entityLinks": {
+   "wikidata": "Q661845",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q661845",
+    "https://ko.wikipedia.org/wiki/ST%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/STMicroelectronics"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q661845",
+   "country": "네덜란드",
+   "inception": "1987",
+   "headquarters": "플랑레우아트",
+   "founders": [
+    "SGS Microelettronica"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「ST마이크로일렉트로닉스」 요약과 위키데이터 Q661845 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

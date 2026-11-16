@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q853958",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/ntt-docomo-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "ntt-docomo",
+  "urlSlug": "ntt-docomo",
+  "name": "NTT 도코모",
+  "nameKo": "NTT 도코모",
+  "nameEn": "NTT DoCoMo",
+  "definition": "NTT 도코모(NTT DoCoMo)는 일본과 괌, 사이판, 북마리아나 제도에서 휴대전화와 무선통신 서비스를 제공하는 기업 그룹이자 그 상표명이다. 일본전신전화(NTT)의 이동통신 부문이 분사한 회사이다.",
+  "summary": "NTT 도코모(NTT DoCoMo)는 일본과 괌, 사이판, 북마리아나 제도에서 휴대전화와 무선통신 서비스를 제공하는 기업 그룹이자 그 상표명이다. 일본전신전화(NTT)의 이동통신 부문이 분사한 회사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "일본 휴대전화 시장에서 가장 압도적인 점유율을 차지하는 NTT 그룹의 이동통신 자회사이며, 이름에 '어디서든 이야기할 수 있다'는 뜻이 겹쳐 있다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "NTT 도코모는 이동전화 사업을 중점으로 각종 사업을 전개하는 일본의 이동통신 사업자이다. 일본의 휴대전화 사업자 중 가장 압도적인 점유율을 차지하고 있다. 일본뿐 아니라 괌, 사이판, 북마리아나 제도에서도 서비스를 제공한다. 도쿄증권거래소 제1부에 상장되어 있지만 NTT가 발행 주식의 63.32%를 소유하고 있어 NTT의 자회사이다. NTT 그룹 영업 이익의 7할을 차지하며, 대한민국 KT의 3대 주주이기도 하다. 명칭 'DoCoMo'는 'Do Communications Over the Mobile Network'의 약자이며, 일본어 'どこ(デ)も話せる'(어디서든 이야기할 수 있다)의 의미도 겹쳐 있다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "기원은 1968년 일본전신전화공사가 이동통신 서비스 호출을 시작한 것이다. 1985년 나카소네 내각 당시 일본전신전화공사가 민영화되면서 NTT에서 분리되었다. 1990년에는 정부의 조치로 NTT 주식회사로부터 이동통신 사업의 분사가 결정되었다. 이후 'NTT 도코모'라는 브랜드로 서비스를 하고 있으며, 이동전화 사업을 중점으로 성장해 일본 휴대전화 사업자 중 가장 높은 점유율을 차지하게 되었다. 2008년에는 인도의 타타 그룹과 제휴하여 타타 도코모 브랜드가 탄생했다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "주력 사업은 이동전화 사업이며, 휴대전화와 무선통신 서비스를 제공한다. 서비스 영역은 일본과 괌, 사이판, 북마리아나 제도에 걸쳐 있다. 사업의 기원은 1968년에 시작한 이동통신 서비스 호출이다. 2008년에는 인도의 타타 그룹과 제휴해 타타 도코모 브랜드를 선보였다. 일본 내에서는 지역 지사를 두고 업무 구역을 나누어 운영하며, 이동전화 사업을 중심으로 각종 사업을 전개한다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "NTT가 발행 주식의 63.32%를 소유하고 있어 NTT의 자회사이며, 도쿄증권거래소 제1부에 상장되어 있다. NTT 그룹 영업 이익의 7할을 차지하고 있다. 일본의 휴대전화 사업자 중 가장 압도적인 점유율을 차지하며, 대한민국 KT의 3대 주주이기도 하다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "일본 휴대전화 시장에서 가장 압도적인 점유율을 차지하는 NTT 그룹의 이동통신 자회사이며, 이름에 '어디서든 이야기할 수 있다'는 뜻이 겹쳐 있다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.docomo.ne.jp/",
+  "entityLinks": {
+   "wikidata": "Q853958",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q853958",
+    "https://ko.wikipedia.org/wiki/NTT_%EB%8F%84%EC%BD%94%EB%AA%A8",
+    "https://en.wikipedia.org/wiki/NTT_Docomo"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q853958",
+   "country": "일본",
+   "inception": "1992",
+   "headquarters": "산노 파크 타워",
+   "founders": [],
+   "parent": "일본전신전화",
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「NTT 도코모」 요약과 위키데이터 Q853958 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

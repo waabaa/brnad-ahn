@@ -1,0 +1,74 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q28027517",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/lucid-motors-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "lucid-motors",
+  "urlSlug": "lucid-motors",
+  "name": "루시드 모터스",
+  "nameKo": "루시드 모터스",
+  "nameEn": "Lucid Motors",
+  "definition": "루시드 모터스(Lucid Motors)는 미국의 전기 자동차 제조 기업이다. 2007년 Atieva라는 이름으로 설립되었고 캘리포니아주 뉴어크에 본사를 두고 있다.",
+  "summary": "루시드 모터스(Lucid Motors)는 미국의 전기 자동차 제조 기업이다. 2007년 Atieva라는 이름으로 설립되었고 캘리포니아주 뉴어크에 본사를 두고 있다.",
+  "industry": "모빌리티",
+  "domainSlug": "mobility",
+  "tier": "C_source_backed",
+  "rating": 3.8833333333333333,
+  "image": "",
+  "logo": "",
+  "insight": "배터리와 파워트레인 개발에서 출발해 고성능 럭셔리 전기 세단 루시드 에어를 만든 미국의 전기 자동차 제조사이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "루시드 모터스는 미국의 전기 자동차 제조 기업으로, 캘리포니아주 뉴어크에 본사를 두고 있다. 2007년 Atieva라는 이름으로 설립되어 처음에는 다른 자동차 제조사를 위한 전기 자동차 배터리와 파워트레인 개발에 집중했다. 2016년 10월 루시드 모터스로 브랜드를 변경하고 고성능 럭셔리 전기 차량을 개발하겠다는 뜻을 공식적으로 밝혔다. 첫 번째 자동차인 루시드 에어는 2021년에 개발되었으며, 애리조나주 카사 그란데에 생산 공장을 두고 있다. 2019년 4월에는 사우디 아라비아의 공공 투자 기금으로부터 투자를 유치했다. 2021년 2월에는 특수목적인수회사인 처칠캐피탈 코퍼 4세(티커 CCIV)와의 합병 계약을 발표했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "루시드는 2007년 Atieva라는 이름으로 설립되었으며, 원래는 다른 자동차 제조사를 위한 전기 자동차 배터리와 파워트레인을 만드는 데 초점을 맞추었다. 2014년부터 첫 자동차 개발을 시작했고, 초기에는 에드나라는 이름의 메르세데스 메트리스 밴으로 파워트레인을 개발했다. 2016년 10월 루시드 모터스로 브랜드를 변경했으며, 같은 해 12월 루시드 에어 프로토타입을 공개했다. 2016년까지 Tsing Capital, Mitsui, Venrock, JAFCO 등으로부터 투자를 받았다. 2019년 4월에는 사우디 아라비아의 공공 투자 기금의 투자가 완료되어 루시드 에어의 최종 엔지니어링과 공장 1단계 건설, 상업 생산에 자금이 쓰이게 되었다."
+   },
+   "products": {
+    "title": "제품과 서비스",
+    "body": "루시드의 대표 제품은 완전 전기 4도어 세단인 루시드 에어이다. 모델 종류에는 루시드 에어 투어링, 그랜드 투어링, 드림 에디션 등이 포함되며, 2020년 11월 발표된 루시드 에어 퓨어의 예상 범위는 406마일(653km)이다. 루시드 에어는 운전자 지원 기능을 위해 Mobileye의 Eye Q4 칩과 8개의 카메라를 사용하기로 합의했으며, 아마존의 음성 비서 알렉사와의 호환성을 위해 아마존과 협업하고 있다. 2020년 9월에는 프로젝트 그래비티(Project Gravity)라는 전기 SUV 콘셉트를 공개했다. 또한 2018-19 시즌 포뮬러 E의 모든 레이스 팀을 위해 배터리 팩을 설계, 개발, 제조해 공급했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "2021년 2월 특수목적인수회사 처칠캐피탈 코퍼 4세(티커 CCIV)와의 합병 계약을 발표했다. 애리조나주 카사 그란데 공장은 2020년 12월 1단계 공사를 마쳤고 2단계 공사가 진행 중이며, 완공되면 연간 약 40만대의 생산 능력을 갖추게 된다. CEO Rawlinson은 2023년까지 Project Gravity SUV를 생산하겠다는 의사를 밝혔다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "배터리와 파워트레인 개발에서 출발해 고성능 럭셔리 전기 세단 루시드 에어를 만든 미국의 전기 자동차 제조사이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://lucidmotors.com/",
+  "entityLinks": {
+   "wikidata": "Q28027517",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q28027517",
+    "https://ko.wikipedia.org/wiki/%EB%A3%A8%EC%8B%9C%EB%93%9C_%EB%AA%A8%ED%84%B0%EC%8A%A4",
+    "https://en.wikipedia.org/wiki/Lucid_Motors"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q28027517",
+   "country": "미국",
+   "inception": "2007",
+   "headquarters": "뉴어크",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「루시드 모터스」 요약과 위키데이터 Q28027517 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

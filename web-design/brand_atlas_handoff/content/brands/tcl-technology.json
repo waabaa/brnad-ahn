@@ -1,0 +1,72 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q733958",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/tcl-technology-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "tcl-technology",
+  "urlSlug": "tcl-technology",
+  "name": "TCL",
+  "nameKo": "TCL",
+  "nameEn": "TCL Technology",
+  "definition": "TCL(TCL Technology)은 1981년에 세워진 중화인민공화국의 기업이다. 후이저우시에 본사를 두고 있으며, 창업자는 Li Dongsheng이고 현재는 TV를 주로 만드는 기업이다.",
+  "summary": "TCL(TCL Technology)은 1981년에 세워진 중화인민공화국의 기업이다. 후이저우시에 본사를 두고 있으며, 창업자는 Li Dongsheng이고 현재는 TV를 주로 만드는 기업이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.066666666666666,
+  "image": "",
+  "logo": "",
+  "insight": "카세트 제조사 TTK에서 출발해 TDK와의 IP 분쟁을 계기로 TCL이라는 이름을 갖게 되었고, 현재는 TV를 주로 만드는 중국 기업이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "TCL은 중화인민공화국의 기업으로 후이저우시에 본사를 두고 있다. 1981년 카세트 제조사로 시작해 현재는 TV를 주로 만드는 기업이 되었다. 1980년 세워진 '후이양 전자 산업 회사'가 1981년과 1985년에 각각 'TTK 가전 기기 회사'와 'TCL 전자 장비 주식회사'를 병합하면서 지금에 이르렀다. Li Dongsheng은 이사회 의장이자 최고 경영자로서 TCL을 3대 글로벌 TV 브랜드로 이끌었다. 2013년 TCL Chinese Theatre, 2015년 PBA League와 파트너십을 맺었고, 2004년부터 Melbourne Cup와 14년간 파트너십을 이어 왔다. EISA BEST Product 2017-2018, 2018-2019 부문과 CES Innovation Awards 2018 등을 수상했다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "TCL은 1981년 TDK 카세트 위조품을 제조하는 카세트 제조사로서 \"TTK\"라는 브랜드명으로 설립되었다. 1985년 IP 위반으로 TDK에 의해 고소를 당하면서 Telephone Communication Limited의 앞자를 따서 TCL로 사명을 변경했다. 이에 앞선 1980년에는 '후이양 전자 산업 회사'가 세워졌고, 1981년과 1985년에 각각 'TTK 가전 기기 회사'와 'TCL 전자 장비 주식회사'를 병합하면서 지금에 이르렀다. Li Dongsheng은 회사를 이끌며 해외시장으로 나아가는 길을 개척했다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "현재 TCL은 TV를 주로 만드는 기업이다. Li Dongsheng이 이사회 의장과 최고 경영자를 맡아 TCL을 3대 글로벌 TV 브랜드로 이끌었고, 해외시장 진출을 개척했다. 2017년과 2018년에는 Design Award를, 2018년에는 CES Innovation Awards를 수상했으며 Technical Innovation Award도 받았다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "카세트 제조사 TTK에서 출발해 TDK와의 IP 분쟁을 계기로 TCL이라는 이름을 갖게 되었고, 현재는 TV를 주로 만드는 중국 기업이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "https://www.tcl.com/cn/zh",
+  "entityLinks": {
+   "wikidata": "Q733958",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q733958",
+    "https://ko.wikipedia.org/wiki/TCL_(%EA%B8%B0%EC%97%85)",
+    "https://en.wikipedia.org/wiki/TCL_Technology"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q733958",
+   "country": "중화인민공화국",
+   "inception": "1981",
+   "headquarters": "후이저우시",
+   "founders": [
+    "Li Dongsheng"
+   ],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「TCL (기업)」 요약과 위키데이터 Q733958 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}

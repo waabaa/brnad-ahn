@@ -1,0 +1,70 @@
+{
+ "importedAt": "2026-11-13",
+ "qid": "Q386773",
+ "demand": {
+  "why": "브랜드 요청",
+  "requestedAt": "2026-11-07T10:51:14+09:00"
+ },
+ "logoCandidate": "logos/korg-wd.png",
+ "logoReview": "approved",
+ "record": {
+  "id": 0,
+  "slug": "korg",
+  "urlSlug": "korg",
+  "name": "코르그",
+  "nameKo": "코르그",
+  "nameEn": "Korg",
+  "definition": "코르그(Korg)는 1963년 설립된 일본의 전자 악기 제조업체이다. 신시사이저와 디지털 피아노 등을 제조·판매하며 본사는 도쿄도 이나기시에 있고 현재 야마하의 계열사이다.",
+  "summary": "코르그(Korg)는 1963년 설립된 일본의 전자 악기 제조업체이다. 신시사이저와 디지털 피아노 등을 제조·판매하며 본사는 도쿄도 이나기시에 있고 현재 야마하의 계열사이다.",
+  "industry": "기술·전자",
+  "domainSlug": "technology-electronics",
+  "tier": "C_source_backed",
+  "rating": 4.016666666666667,
+  "image": "",
+  "logo": "",
+  "insight": "신시사이저와 디지털 피아노를 만드는 일본 전자 악기 제조사로, 이름이 'KO가 만든 Orgue'에서 유래한 점이 특징이다.",
+  "logoHistory": [],
+  "sections": {
+   "overview": {
+    "title": "개요",
+    "body": "코르그는 신시사이저와 디지털 피아노 같은 전자 악기를 제조하고 판매하는 일본의 제조업체이다. 일본어 표기는 株式会社コルグ이고 영문 표기는 KORG Inc.이며, 일본 법인이다. 앰프 메이커 VOX와 Line 6의 일본 내 정규 수입 대리점이기도 해서 자사 악기 외에 해외 브랜드 제품의 일본 내 유통도 맡고 있다. 본사는 도쿄도 이나기시 야노쿠치 4015-2의 게이오요미우리랜드역 앞에 있다. 회사는 1963년에 설립되었으며, 현재는 야마하의 계열사로 운영된다. 브랜드명 KORG는 'KO가 만든 Orgue(프랑스어로 오르간)'에서 채택된 신조어이다."
+   },
+   "origin": {
+    "title": "시작과 성장",
+    "body": "창업 당시의 회사명은 게이오 기술 연구소였다. 이 명칭은 돈카마틱(Donca Matic)을 제작한 창업자 쓰토무 가토(加藤孟)의 'K'와 아코디언 연주자 오사나이 다다시(長内端)의 'O'에서 따왔고, 본사가 게이오 연선에 있던 데서 '게이오'가 붙었다. KORG라는 명칭은 'KO가 만든 Orgue(프랑스어로 오르간)'에서 채택된 신조어이다. 1972년에 발매된 오르간의 상품명은 'Korgue'(통칭 데카 KORG)였는데, 'ue' 부분을 어떻게 읽어야 할지 이해하기 어렵다는 의견이 있었다. 이후 제품부터는 'ue'를 뺀 KORG를 브랜드명으로 사용하게 되었다."
+   },
+   "current": {
+    "title": "현재",
+    "body": "주식회사 코르그는 현재 야마하의 계열사이다. 본사 소재지는 도쿄도 이나기시 야노쿠치 4015-2이며 게이오요미우리랜드역 앞이다. 신시사이저와 디지털 피아노 등 전자 악기의 제조와 판매를 이어가고 있고, 앰프 메이커 VOX와 Line 6의 일본 내 정규 수입 대리점 역할도 겸한다."
+   },
+   "identity": {
+    "title": "브랜드 정체성",
+    "body": "신시사이저와 디지털 피아노를 만드는 일본 전자 악기 제조사로, 이름이 'KO가 만든 Orgue'에서 유래한 점이 특징이다."
+   }
+  },
+  "timeline": [],
+  "publicReady": true,
+  "displayPriority": "normal",
+  "officialWebsite": "http://www.korg.com",
+  "entityLinks": {
+   "wikidata": "Q386773",
+   "sameAs": [
+    "https://www.wikidata.org/wiki/Q386773",
+    "https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A5%B4%EA%B7%B8",
+    "https://en.wikipedia.org/wiki/Korg"
+   ],
+   "source": "wikidata ko sitelink (import 2026-09)"
+  },
+  "wikidata": {
+   "qid": "Q386773",
+   "country": "일본",
+   "inception": "1963",
+   "headquarters": "도쿄도",
+   "founders": [],
+   "parent": null,
+   "fetchedAt": "2026-11-13"
+  },
+  "sourceNote": "한국어 위키백과 「코르그」 요약과 위키데이터 Q386773 팩트를 근거로 편집"
+ },
+ "reviewedAt": null
+}
