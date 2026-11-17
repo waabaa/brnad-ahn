@@ -21,7 +21,7 @@ SITE = Path("/etc/nginx/sites-enabled/brandatlas.co.kr.conf")
 MAPS = Path("/etc/nginx/conf.d/13-brandatlas-botblock.conf")
 MARKER = "# bot-block (brand-atlas)"
 
-BAD_UA = ["Bytespider", "Python-urllib", "TernCrawler", "CCBot", "SemrushBot", "AhrefsBot"]
+BAD_UA = ["Bytespider", "Python-urllib", "TernCrawler", "CCBot", "SemrushBot", "AhrefsBot", "Chrome/48.0.2564.116"]
 BAD_IP = ["195.178.110.102", "112.217.82.66"]
 
 MAPS_TEXT = (
