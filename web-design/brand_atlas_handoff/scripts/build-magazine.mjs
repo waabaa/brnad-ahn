@@ -23,7 +23,7 @@ const bySlug = new Map();
 for (const b of DATA.allBrands) { bySlug.set(urlSlugOf(b), b); if (b.slug && !bySlug.has(b.slug)) bySlug.set(b.slug, b); }
 const OUT = path.join(ROOT, "magazine");
 const P = "../";
-export const MAG_CSS_V = "20261117a";
+export const MAG_CSS_V = "20261117b";
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,600..900&family=Hahmlet:wght@300..700&display=swap">`;
 const extraHead = `${FONTS}<link rel="stylesheet" href="${P}magazine.css?v=${MAG_CSS_V}">`;
 
@@ -53,9 +53,33 @@ function logoTile(b) {
   return `<a class="mount" href="${brandHref(b, P)}"><span class="art">${img}</span><span class="cap">${esc(koreanName(b) || latinName(b) || b.name)}</span></a>`;
 }
 
+// 본문 속 '함께 읽기' — 원고는 고치지 않는다. 기사들은 서로 다른 브랜드를 다루므로 브랜드 겹침 대신 산업 분류로 잇는다:
+// 문단이 링크한 브랜드의 산업을 다른 기사가 3곳 이상 다뤘으면, 그 문단 아래에 그 기사를 단다.
+// 기사당 최대 3개, 같은 기사는 한 번만, 문단당 하나. 문구는 산업명·브랜드 수(데이터로 센 값)·기사 제목만 쓴다.
+const MAX_XREF = 3;
+const MIN_XREF_BRANDS = 3;
+// 업종을 가르지 않는 포괄 분류는 연결 근거가 되지 않는다.
+const BROAD_INDUSTRY = new Set(["브랜드·비즈니스"]);
+const industryTally = (y) => { const m = new Map(); for (const b of castOf(y)) if (b.industry) m.set(b.industry, (m.get(b.industry) || 0) + 1); return m; };
+function xrefFor(a, slugs, used) {
+  let best = null;
+  for (const s of slugs) {
+    const ind = bySlug.get(s)?.industry;
+    if (!ind || BROAD_INDUSTRY.has(ind)) continue;
+    for (const y of articles) {
+      if (y === a || used.has(y.slug)) continue;
+      const n = industryTally(y).get(ind) || 0;
+      if (n < MIN_XREF_BRANDS) continue;
+      if (!best || n > best.n || (n === best.n && y.date > best.y.date)) best = { y, ind, n };
+    }
+  }
+  return best;
+}
+
 function renderBody(a, counter) {
   const blocks = a.body.split(/\n{2,}/);
   const out = [];
+  const usedX = new Set();
   for (const blk of blocks) {
     const t = blk.trim();
     if (!t) continue;
@@ -78,6 +102,14 @@ function renderBody(a, counter) {
       continue;
     }
     out.push(`<p>${inline(t.replace(/\n/g, " "))}</p>`);
+    if (usedX.size < MAX_XREF) {
+      const linked = [...t.matchAll(/\]\(brand:([a-z0-9-]+)\)/g)].map(m => m[1]);
+      const x = linked.length ? xrefFor(a, [...new Set(linked)], usedX) : null;
+      if (x) {
+        usedX.add(x.y.slug);
+        out.push(`<aside class="xref" aria-label="함께 읽기"><span class="k">함께 읽기</span><a href="${x.y.slug}.html">${esc(x.y.title)}</a><small>${esc(x.ind)} 브랜드 ${x.n}곳을 다룬 글</small></aside>`);
+      }
+    }
   }
   return out.join("\n");
 }
