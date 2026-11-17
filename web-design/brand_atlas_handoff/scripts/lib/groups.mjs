@@ -26,7 +26,7 @@ export const CURATED = [
     head: "e-land",
     aliases: ["이랜드", "E-Land"],
     source: "https://www.eland.co.kr/",
-    include: ["spao"],
+    include: ["spao", "mixxo", "kims-club", "e-world", "k-swiss"],
   },
   {
     head: "nike",
@@ -96,10 +96,10 @@ export const CURATED = [
     include: ["gs25", "gs-caltex", "gs-construction", "gs-the-fresh"],
   },
   {
-    head: "kolon-industries",
-    aliases: ["코오롱", "Kolon"],
-    source: "https://www.kolon.com/",
-    include: ["kolon-sport", "kolon-fnc"],
+    head: "kolon-group",
+    aliases: ["코오롱그룹", "코오롱", "Kolon"],
+    source: "https://www.kolon.com/kr/",
+    include: ["kolon-industries", "kolon-sport", "kolon-fnc", "raekodeu"],
   },
   {
     head: "hyosung",
