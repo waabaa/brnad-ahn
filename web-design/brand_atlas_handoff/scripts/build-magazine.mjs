@@ -12,6 +12,7 @@ import { ORIGIN, displayName, koreanName, latinName, urlSlugOf } from "./lib/bra
 import { esc, page, breadcrumbs } from "./lib/page-shell.mjs";
 import { hasLogo } from "./lib/archive.mjs";
 import { assetHref, brandHref } from "./lib/markup.mjs";
+import crypto from "node:crypto";
 import { loadArticles, verifyArticle, referencedSlugs, readingMinutes, queueStatus } from "./lib/magazine.mjs";
 
 const PREVIEW = process.argv.includes("--preview"); // 공개일 전 원고까지 로컬에서 미리 본다(배포 금지)
@@ -22,10 +23,11 @@ const bySlug = new Map();
 for (const b of DATA.allBrands) { bySlug.set(urlSlugOf(b), b); if (b.slug && !bySlug.has(b.slug)) bySlug.set(b.slug, b); }
 const OUT = path.join(ROOT, "magazine");
 const P = "../";
-export const MAG_CSS_V = "20260913e";
+export const MAG_CSS_V = "20261117a";
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,600..900&family=Hahmlet:wght@300..700&display=swap">`;
 const extraHead = `${FONTS}<link rel="stylesheet" href="${P}magazine.css?v=${MAG_CSS_V}">`;
 
+const fileVer = (rel) => crypto.createHash("sha1").update(fs.readFileSync(path.join(ROOT, rel))).digest("hex").slice(0, 8);
 const writeIfChanged = (file, html) => {
   if (fs.existsSync(file) && fs.readFileSync(file, "utf8") === html) return false;
   fs.mkdirSync(path.dirname(file), { recursive: true });
@@ -97,6 +99,18 @@ function articleJsonLd(a, url, cast) {
   ] });
 }
 
+// ─── 이어 읽기(기사 내부 링크) ─────────────────────────────────────────────
+// 원고는 고치지 않는다. 같은 브랜드를 다룬 기사 → 같은 분야(kicker) → 가까운 공개일 순으로 3편을 자동 고른다.
+// 문구는 title·dek·kicker 만 쓴다(새 문장을 만들지 않는다). 겹침이 없으면 최신 기사로 채운다.
+function relatedFor(a, pool, exclude) {
+  const mine = new Set(referencedSlugs(a));
+  const day = (d) => Date.parse(d) / 864e5;
+  return pool.filter(x => x !== a && !exclude.includes(x))
+    .map(x => ({ x, overlap: referencedSlugs(x).filter(s => mine.has(s)).length, kick: x.kicker === a.kicker ? 1 : 0, gap: Math.abs(day(x.date) - day(a.date)) }))
+    .sort((p, q) => q.overlap - p.overlap || q.kick - p.kick || p.gap - q.gap || p.x.slug.localeCompare(q.x.slug))
+    .slice(0, 3).map(r => r.x);
+}
+
 // ─── 빌드 ─────────────────────────────────────────────────────────────────
 const articles = loadArticles(ROOT, { includeFuture: PREVIEW });
 const upcoming = PREVIEW ? [] : loadArticles(ROOT, { includeFuture: true }).filter(a => !articles.includes(a) && !articles.some(x => x.slug === a.slug));
@@ -126,7 +140,8 @@ ${band.length >= 6 ? `<div class="band" aria-hidden="true">${band.map(h => `<spa
 <div class="mw article-grid"><div class="prose">${renderBody(a, counter)}
 <aside class="source"><h2>이 글의 근거</h2><p>이 글의 사실은 브랜드 아틀라스에 수록된 각 브랜드 항목에서 가져왔습니다. 연도·인명·색상값은 항목 본문과 아카이브 자료에 기록된 값만 썼습니다. 자세한 내용은 아래 브랜드 페이지에서 확인할 수 있습니다.</p></aside></div>
 <aside class="cast" aria-label="이 글에 나온 브랜드"><h2>이 글의 브랜드</h2><ul>${cast.map(b => `<li><a href="${brandHref(b, P)}">${hasLogo(b) ? `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">` : `<span class="dot"></span>`}<span>${esc(displayName(b))}</span></a></li>`).join("")}</ul></aside></div>
-<nav class="next mw" aria-label="다른 기사">${prev ? `<a class="prev" href="${prev.slug}.html"><small>이전 기사</small><b>${esc(prev.title)}</b></a>` : "<span></span>"}${next ? `<a class="nxt" href="${next.slug}.html"><small>다음 기사</small><b>${esc(next.title)}</b></a>` : `<a class="nxt" href="./"><small>이번 호</small><b>${issueLabel(a.issue)} 목차로</b></a>`}</nav>
+${(() => { const rel = relatedFor(a, articles, [prev, next].filter(Boolean)); return rel.length ? `<aside class="more-reads mw" aria-labelledby="mr-${a.slug}"><h2 id="mr-${a.slug}"><span>Keep reading</span>이어 읽기</h2><ul>${rel.map(r => `<li><a href="${r.slug}.html"><span class="k">${esc(r.kicker)} · ${issueLabel(r.issue)}</span><b>${esc(r.title)}</b><p>${esc(r.dek)}</p></a></li>`).join("")}</ul></aside>` : ""; })()}
+<nav class="next mw" aria-label="다른 기사">${prev ? `<a class="prev" href="${prev.slug}.html"><small>이전 기사</small><b>${esc(prev.title)}</b></a>` : "<span></span>"}${next ? `<a class="nxt" href="${next.slug}.html"><small>다음 기사</small><b>${esc(next.title)}</b></a>` : `<a class="nxt" href="./#issue-${a.issue}"><small>${issueLabel(a.issue)}</small><b>목차로</b></a>`}</nav>
 </article>`;
   const ogImage = hero[0] && hasLogo(hero[0]) ? `${ORIGIN}/${String(hero[0].logo).replace(/^\.?\//, "")}` : undefined;
   const html = page({ title: `${a.title} | 아틀라스 매거진`, desc: a.dek, canonical: url, bodyHtml: body, jsonLd: articleJsonLd(a, url, cast), active: "magazine", ogType: "article", ogImage, extraHead, bodyClass: "mag" });
@@ -142,16 +157,25 @@ if (articles.length) {
   const band = paletteOf(inIssue.flatMap(castOf), 40);
   const url = `${ORIGIN}/magazine/`;
   const card = (a, i) => { const c = castOf(a).filter(hasLogo).slice(0, 4); return `<a class="story s${i}" href="${a.slug}.html"><span class="no">${String(a.order).padStart(2, "0")}</span><span class="k">${esc(a.kicker)}</span><b>${esc(a.title)}</b><p>${esc(a.dek)}</p><span class="logos">${c.map(b => `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">`).join("")}</span></a>`; };
+  // 지난 호 — 전부 정적 HTML. assets/magazine-archive.js 가 오래된 호를 접어 두었다가 스크롤·버튼으로 한 호씩 펼친다.
+  const pastNos = [...new Set(articles.map(a => a.issue))].filter(n => n !== issue).sort((x, y) => y - x);
+  const archCard = (a) => { const c = castOf(a).filter(hasLogo).slice(0, 4); return `<a class="arch" href="${a.slug}.html"><span class="k">${esc(a.kicker)}</span><b>${esc(a.title)}</b><p>${esc(a.dek)}</p><span class="meta"><time datetime="${a.date}">${dotDate(a.date)}</time><span>${readingMinutes(a)}분 읽기</span></span><span class="logos">${c.map(b => `<img src="${assetHref(b.logo, P)}" alt="" loading="lazy" decoding="async">`).join("")}</span></a>`; };
+  const pastHtml = pastNos.map(n => {
+    const list = articles.filter(a => a.issue === n).sort((x, y) => x.order - y.order);
+    return `<section class="past-issue" id="issue-${n}" aria-labelledby="ph-${n}"><h3 id="ph-${n}"><span class="red">${issueLabel(n)}</span>${monthOf(list[0].date)}호<small>기사 ${list.length}편</small></h3><div class="arch-grid">${list.map(archCard).join("")}</div></section>`;
+  }).join("");
+  const archiveSec = pastNos.length ? `<section class="archive-sec"><div class="mw-wide"><h2 class="sec-h"><span>Back issues</span>지난 호</h2><div data-archive>${pastHtml}<button type="button" class="archive-more" hidden>지난 호 <b></b>개 더 보기</button><div class="archive-sentinel" aria-hidden="true"></div></div></div></section>` : "";
   const body = `<section class="cover"><div class="mw-wide">
 <p class="masthead" aria-label="아틀라스 매거진"><span>Atlas</span><span>Magazine</span></p>
 <p class="issue-line"><span class="red">${issueLabel(issue)}</span><span>${monthOf(cover.date)}호</span><span>브랜드 아틀라스가 만드는 브랜드 읽기</span><time datetime="${cover.date}">${dotDate(cover.date)} 발행</time></p>
 <a class="cover-story" href="${cover.slug}.html"><div class="cs-text"><span class="k">커버 스토리</span><h1>${esc(cover.title)}</h1><p>${esc(cover.dek)}</p><span class="go">기사 읽기</span></div><div class="cs-board">${coverCast.slice(0, 9).map(b => `<span class="mount"><span class="art">${hasLogo(b) ? `<img src="${assetHref(b.logo, P)}" alt="${esc(displayName(b))} 로고">` : `<span class="wm">${esc(latinName(b) || b.name)}</span>`}</span></span>`).join("")}</div></a>
 ${band.length >= 6 ? `<div class="band tall" role="img" aria-label="이번 호에 나온 브랜드의 실제 색상 ${band.length}가지"><span class="band-label">이번 호의 색 — 기사에 나온 브랜드 팔레트 ${band.length}색</span>${band.map(h => `<span style="--c:${h}" title="${h}"></span>`).join("")}</div>` : ""}
 </div></section>
-<section class="toc-sec"><div class="mw-wide"><h2 class="sec-h"><span>In this issue</span>이번 호</h2><div class="stories">${inIssue.map((a, i) => card(a, i)).join("")}</div>${upcoming.filter(a => a.issue === issue).length ? `<ol class="upcoming">${upcoming.filter(a => a.issue === issue).map(a => `<li><time datetime="${a.date}">${dotDate(a.date).slice(5)} 공개</time><b>${esc(a.title)}</b></li>`).join("")}</ol>` : ""}</div></section>
+<section class="toc-sec" id="issue-${issue}"><div class="mw-wide"><h2 class="sec-h"><span>In this issue</span>이번 호</h2><div class="stories">${inIssue.map((a, i) => card(a, i)).join("")}</div>${upcoming.filter(a => a.issue === issue).length ? `<ol class="upcoming">${upcoming.filter(a => a.issue === issue).map(a => `<li><time datetime="${a.date}">${dotDate(a.date).slice(5)} 공개</time><b>${esc(a.title)}</b></li>`).join("")}</ol>` : ""}</div></section>
+${archiveSec}
 <section class="about-mag"><div class="mw-wide"><h2>아틀라스 매거진은</h2><p>브랜드 아틀라스의 브랜드 항목을 가로질러 읽는 기획 지면입니다. 한 브랜드의 사전 항목으로는 보이지 않는 흐름을 여러 브랜드를 나란히 놓고 봅니다. 누가 그렸는지, 왜 이름을 바꿨는지, 어떤 색을 골랐는지 같은 것들입니다. 사실은 수록된 브랜드 항목에 기록된 것만 씁니다.</p></div></section>`;
-  const jsonLd = JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: "아틀라스 매거진", url, inLanguage: "ko-KR", hasPart: inIssue.map(a => ({ "@type": "Article", headline: a.title, url: `${ORIGIN}/magazine/${a.slug}.html` })) });
-  const html = page({ title: `아틀라스 매거진 ${issueLabel(issue)} — ${cover.title} | 브랜드 아틀라스`, desc: `${monthOf(cover.date)}호. ${inIssue.map(a => a.title).join(" · ")}`, canonical: url, bodyHtml: body, jsonLd, active: "magazine", extraHead, bodyClass: "mag mag-index" });
+  const jsonLd = JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: "아틀라스 매거진", url, inLanguage: "ko-KR", hasPart: [...articles].reverse().map(a => ({ "@type": "Article", headline: a.title, url: `${ORIGIN}/magazine/${a.slug}.html` })) });
+  const html = page({ title: `아틀라스 매거진 ${issueLabel(issue)} — ${cover.title} | 브랜드 아틀라스`, desc: `${monthOf(cover.date)}호. ${inIssue.map(a => a.title).join(" · ")}`, canonical: url, bodyHtml: body, jsonLd, active: "magazine", extraHead: `${extraHead}<script src="${P}assets/magazine-archive.js?v=${fileVer("assets/magazine-archive.js")}" defer></script>`, bodyClass: "mag mag-index" });
   if (writeIfChanged(path.join(OUT, "index.html"), html)) written.push("index");
 }
 // 원고가 사라진 기사 파일 정리
